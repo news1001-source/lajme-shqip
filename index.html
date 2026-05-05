@@ -54,7 +54,9 @@
         .status-bar.error { border: 1px solid #ef4444; color: #ef4444; }
         .status-bar.warn { border: 1px solid #f59e0b; color: #f59e0b; }
         .last-update { font-size: 11px; color: #64748b; text-align: center; margin-bottom: 12px; }
+        .debug-info { background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 10px; margin-bottom: 12px; font-size: 11px; color: #64748b; font-family: monospace; white-space: pre-wrap; }
     </style>
+<base target="_blank">
 </head>
 <body>
     <div class="app-header">
@@ -92,6 +94,7 @@
         </div>
         <div class="status-bar" id="statusBar" style="display:none"></div>
         <div class="last-update" id="lastUpdate"></div>
+        <div class="debug-info" id="debugInfo" style="display:none"></div>
         <div id="newsContainer">
             <div class="loading">
                 <div class="spinner"></div>
@@ -110,48 +113,106 @@
         if (apiKey) document.getElementById('apiKey').value = apiKey;
         if (aiModel) document.getElementById('aiModel').value = aiModel;
 
+        function showDebug(msg) {
+            const el = document.getElementById('debugInfo');
+            el.style.display = 'block';
+            el.textContent += msg + '
+';
+            console.log(msg);
+        }
+
         async function loadNews() {
             const container = document.getElementById('newsContainer');
             const statusBar = document.getElementById('statusBar');
             const lastUpdate = document.getElementById('lastUpdate');
+            const debugInfo = document.getElementById('debugInfo');
+
+            debugInfo.textContent = '';
+            debugInfo.style.display = 'none';
 
             container.innerHTML = '<div class="loading"><div class="spinner"></div><div>Duke ngarkuar lajmet...</div></div>';
             statusBar.style.display = 'none';
 
             try {
-                // Load from local news.json (same origin, no CORS!)
-                const response = await fetch('news.json?' + Date.now());
-                if (!response.ok) throw new Error('news.json not found');
+                showDebug('1. Duke kërkuar news.json...');
 
-                const data = await response.json();
-                allNews = data.news || [];
+                const response = await fetch('news.json?' + Date.now(), {
+                    method: 'GET',
+                    headers: { 'Accept': 'application/json' }
+                });
+
+                showDebug('2. Status: ' + response.status);
+
+                if (!response.ok) {
+                    throw new Error('HTTP ' + response.status + ' - ' + response.statusText);
+                }
+
+                const text = await response.text();
+                showDebug('3. Përgjigje e marrë: ' + text.length + ' karaktere');
+
+                let data;
+                try {
+                    data = JSON.parse(text);
+                } catch (e) {
+                    throw new Error('JSON parse error: ' + e.message);
+                }
+
+                showDebug('4. JSON parsed OK');
+                showDebug('5. totalNews: ' + (data.totalNews || 'n/a'));
+                showDebug('6. news array: ' + (data.news ? data.news.length : 'undefined'));
+
+                if (!data.news || !Array.isArray(data.news)) {
+                    throw new Error('news array nuk ekziston');
+                }
+
+                // Process news items
+                allNews = data.news.map(function(item, idx) {
+                    showDebug('7. Processing item ' + idx + ': ' + (item.title || 'no title'));
+
+                    return {
+                        title: item.title || 'Pa titull',
+                        link: item.link || '#',
+                        description: item.description || '',
+                        source: item.source || 'Panjohur',
+                        category: item.category || 'politike',
+                        date: item.date || new Date().toISOString(),
+                        dateStr: item.dateStr || 'Sapo',
+                        isNew: item.isNew !== undefined ? item.isNew : true,
+                        id: item.id || ('item' + idx)
+                    };
+                });
+
+                showDebug('8. Total items processed: ' + allNews.length);
 
                 // Update status
                 statusBar.style.display = 'flex';
                 if (allNews.length > 0) {
                     statusBar.className = 'status-bar success';
-                    statusBar.innerHTML = '<span>✅ ' + allNews.length + ' lajme nga ' + data.totalSources + ' burime</span><span onclick="loadNews()" style="cursor:pointer">🔄 Rifresko</span>';
+                    statusBar.innerHTML = '<span>✅ ' + allNews.length + ' lajme</span><span onclick="loadNews()" style="cursor:pointer">🔄 Rifresko</span>';
 
-                    const updateTime = new Date(data.lastUpdated);
-                    lastUpdate.textContent = '🕐 Përditësimi i fundit: ' + updateTime.toLocaleString('sq-AL');
+                    if (data.lastUpdated) {
+                        const updateTime = new Date(data.lastUpdated);
+                        lastUpdate.textContent = '🕐 Përditësimi i fundit: ' + updateTime.toLocaleString('sq-AL');
+                    }
                 } else {
                     statusBar.className = 'status-bar warn';
-                    statusBar.innerHTML = '<span>⚠️ Asnjë lajm në news.json</span><span onclick="loadDemoData()" style="cursor:pointer">📋 Provo Demo</span>';
+                    statusBar.innerHTML = '<span>⚠️ Asnjë lajm</span><span onclick="loadDemoData()" style="cursor:pointer">📋 Provo Demo</span>';
                     lastUpdate.textContent = '';
                 }
 
                 renderNews(allNews);
+
             } catch (e) {
+                showDebug('ERROR: ' + e.message);
                 console.error('Gabim:', e);
                 statusBar.style.display = 'flex';
                 statusBar.className = 'status-bar error';
-                statusBar.innerHTML = '<span>❌ news.json nuk u gjet. Rifresko faqen më vonë.</span><span onclick="loadDemoData()" style="cursor:pointer">📋 Provo Demo</span>';
+                statusBar.innerHTML = '<span>❌ ' + e.message + '</span><span onclick="loadDemoData()" style="cursor:pointer">📋 Provo Demo</span>';
                 lastUpdate.textContent = '';
                 renderNews([]);
             }
         }
-
-        function loadDemoData() {
+ata() {
             const demoNews = [
                 { title: "Krim i rëndë në Tiranë: Vritet një person në zonën e Kombinatit", description: "Një ngjarje e rëndë ka tronditur Tiranën këtë mëngjes. Policia ka nisur hetimet për zbardhjen e plotë të rrethanave.", source: "Panorama", category: "kronike", date: new Date().toISOString(), dateStr: "Sot, 09:30", isNew: true, id: "demo1", link: "#" },
                 { title: "Rama takim me ambasadoren e BE-së: Diskutohet integrimi", description: "Kryeministri Edi Rama ka zhvilluar një takim me ambasadoren e Bashkimit Evropian në Tiranë për të diskutuar ecurinë e reformave.", source: "Shqiptarja", category: "politike", date: new Date(Date.now()-3600000).toISOString(), dateStr: "Sot, 08:15", isNew: true, id: "demo2", link: "#" },
@@ -169,13 +230,14 @@
             statusBar.className = 'status-bar warn';
             statusBar.innerHTML = '<span>⚠️ Mode DEMO - 8 lajme shembull</span><span onclick="loadNews()" style="cursor:pointer">🔄 Provo JSON</span>';
             document.getElementById('lastUpdate').textContent = '';
+            document.getElementById('debugInfo').style.display = 'none';
             renderNews(allNews);
         }
 
         function renderNews(news) {
             const container = document.getElementById('newsContainer');
             if (news.length === 0) {
-                container.innerHTML = '<div class="empty-state"><div style="font-size:18px;font-weight:700;margin-bottom:8px">Nuk u gjet asnjë lajm</div><div style="font-size:14px">news.json nuk është gati akoma. Prit 5 minuta ose provo demo.</div><button class="btn btn-primary" onclick="loadNews()" style="margin-top:16px">🔄 Rifresko</button><button class="btn btn-secondary" onclick="loadDemoData()" style="margin-top:8px">📋 Provo Demo</button></div>';
+                container.innerHTML = '<div class="empty-state"><div style="font-size:18px;font-weight:700;margin-bottom:8px">Nuk u gjet asnjë lajm</div><div style="font-size:14px">Provoni të rifreskoni ose kërkoni me fjalë tjetër.</div><button class="btn btn-primary" onclick="loadNews()" style="margin-top:16px">🔄 Rifresko</button><button class="btn btn-secondary" onclick="loadDemoData()" style="margin-top:8px">📋 Provo Demo</button></div>';
                 return;
             }
 
@@ -302,9 +364,176 @@
             }
         });
 
-        // Service Worker for offline
+        // Service Worker
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('data:text/javascript;base64,c2VsZi5hZGRFdmVudExpc3RlbmVyKCJpbnN0YWxsIiwoZT0+c2VsZi5za2lwV2FpdGluZygpKSk7c2VsZi5hZGRFdmVudExpc3RlbmVyKCJmZXRjaCIsKGU9PmUucmVzcG9uZFdpdGgoZmV0Y2goZS5yZXF1ZXN0KS5jYXRjaCgoKT0+bmV3IFJlc3BvbnNlKCJPZmZsaW5lIikpKSk7');
+            const swCode = "self.addEventListener('install',e=>self.skipWaiting());self.addEventListener('fetch',e=>e.respondWith(fetch(e.request).catch(()=>new Response('Offline'))));";
+            const blob = new Blob([swCode], { type: 'application/javascript' });
+            navigator.serviceWorker.register(URL.createObjectURL(blob));
+        }
+
+        loadNews();
+    </script>
+</body>
+</html>
+        function loadDemoData() {
+            const demoNews = [
+                { title: "Krim i rëndë në Tiranë: Vritet një person në zonën e Kombinatit", description: "Një ngjarje e rëndë ka tronditur Tiranën këtë mëngjes. Policia ka nisur hetimet për zbardhjen e plotë të rrethanave.", source: "Panorama", category: "kronike", date: new Date().toISOString(), dateStr: "Sot, 09:30", isNew: true, id: "demo1", link: "#" },
+                { title: "Rama takim me ambasadoren e BE-së: Diskutohet integrimi", description: "Kryeministri Edi Rama ka zhvilluar një takim me ambasadoren e Bashkimit Evropian në Tiranë për të diskutuar ecurinë e reformave.", source: "Shqiptarja", category: "politike", date: new Date(Date.now()-3600000).toISOString(), dateStr: "Sot, 08:15", isNew: true, id: "demo2", link: "#" },
+                { title: "Bursat evropiane në rritje pas vendimit të Bankës Qendrore", description: "Tregjet financiare evropiane kanë reaguar pozitivisht ndaj vendimit të fundit të ECB-së për normat e interesit.", source: "Scan TV", category: "ekonomi", date: new Date(Date.now()-7200000).toISOString(), dateStr: "Sot, 07:00", isNew: true, id: "demo3", link: "#" },
+                { title: "Dëshmitari i mbrojtur flet për kriminelët e drogës", description: "Një dëshmitar i mbrojtur ka dhënë detaje të reja për operacionin antidrogë të zhvilluar javën e kaluar.", source: "Blic", category: "kronike", date: new Date(Date.now()-10800000).toISOString(), dateStr: "Sot, 05:45", isNew: true, id: "demo4", link: "#" },
+                { title: "Kombëtarja shqiptare përgatitet për ndeshjen e radhës", description: "Trajneri Sylvinho ka zhvilluar stërvitjen e fundit përpara ndeshjes kualifikuese për Euro 2028.", source: "TV Klan", category: "sport", date: new Date(Date.now()-14400000).toISOString(), dateStr: "Sot, 04:30", isNew: true, id: "demo5", link: "#" },
+                { title: "Trump: Marrëveshja tregtare me Kinën është afër", description: "Presidenti amerikan ka bërë një deklaratë të fortë për marrëdhëniet tregtare mes SHBA-së dhe Kinës.", source: "Express", category: "bote", date: new Date(Date.now()-18000000).toISOString(), dateStr: "Sot, 03:00", isNew: true, id: "demo6", link: "#" },
+                { title: "Shpërthim në një banesë në Durrës, dy të plagosur", description: "Një shpërthim i fuqishëm ka ndodhur në një banesë në qendër të Durrësit. Policia dhe zjarrfikëset ndodhen në vendngjarje.", source: "Lajmi i Fundit", category: "kronike", date: new Date(Date.now()-86400000).toISOString(), dateStr: "Dje, 18:20", isNew: false, id: "demo7", link: "#" },
+                { title: "Ministria e Shëndetësisë: Rriten rastet e gripit sezonal", description: "Instituti i Shëndetit Publik njofton se rastet e gripit sezonal kanë shënuar rritje në javët e fundit.", source: "ABC News", category: "politike", date: new Date(Date.now()-90000000).toISOString(), dateStr: "Dje, 16:00", isNew: false, id: "demo8", link: "#" }
+            ];
+
+            allNews = demoNews;
+            const statusBar = document.getElementById('statusBar');
+            statusBar.style.display = 'flex';
+            statusBar.className = 'status-bar warn';
+            statusBar.innerHTML = '<span>⚠️ Mode DEMO - 8 lajme shembull</span><span onclick="loadNews()" style="cursor:pointer">🔄 Provo JSON</span>';
+            document.getElementById('lastUpdate').textContent = '';
+            document.getElementById('debugInfo').style.display = 'none';
+            renderNews(allNews);
+        }
+
+        function renderNews(news) {
+            const container = document.getElementById('newsContainer');
+            if (news.length === 0) {
+                container.innerHTML = '<div class="empty-state"><div style="font-size:18px;font-weight:700;margin-bottom:8px">Nuk u gjet asnjë lajm</div><div style="font-size:14px">Provoni të rifreskoni ose kërkoni me fjalë tjetër.</div><button class="btn btn-primary" onclick="loadNews()" style="margin-top:16px">🔄 Rifresko</button><button class="btn btn-secondary" onclick="loadDemoData()" style="margin-top:8px">📋 Provo Demo</button></div>';
+                return;
+            }
+
+            container.innerHTML = news.map(function(item) {
+                return '<div class="news-card" onclick="window.open('' + item.link + '', '_blank')">' +
+                '<div class="news-source">' + item.source + (item.isNew ? ' <span class="badge-new">I RI</span>' : '') + '</div>' +
+                '<div class="news-title">' + escapeHtml(item.title) + '</div>' +
+                '<div class="news-desc">' + escapeHtml(item.description) + '</div>' +
+                '<div class="news-meta"><span>🕐 ' + item.dateStr + '</span><span>📂 ' + item.category + '</span></div>' +
+                '<div class="news-actions" onclick="event.stopPropagation()">' +
+                '<button class="btn btn-sm btn-secondary" onclick="summarizeNews('' + item.id + '', this)">🤖 Përmbledhje AI</button>' +
+                '<button class="btn btn-sm btn-secondary" onclick="shareNews('' + item.link + '', '' + escapeHtml(item.title) + '')">📤 Shpërndaj</button>' +
+                '</div>' +
+                '<div class="summary-box" id="summary-' + item.id + '"></div>' +
+                '</div>';
+            }).join('');
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function filterNews() {
+            const query = document.getElementById('searchInput').value.toLowerCase().trim();
+            if (!query) { setCategory('all'); return; }
+            const filtered = allNews.filter(function(n) {
+                return n.title.toLowerCase().includes(query) || n.description.toLowerCase().includes(query) || n.source.toLowerCase().includes(query);
+            });
+            renderNews(filtered);
+        }
+
+        function setCategory(cat) {
+            currentCategory = cat;
+            document.querySelectorAll('.chip').forEach(function(c) { c.classList.remove('active'); });
+            event.target.classList.add('active');
+            if (cat === 'all') { renderNews(allNews); }
+            else { renderNews(allNews.filter(function(n) { return n.category === cat; })); }
+        }
+
+        async function summarizeNews(id, btn) {
+            const box = document.getElementById('summary-' + id);
+            const item = allNews.find(function(n) { return n.id === id; });
+            if (!apiKey) {
+                showError('Vendosni OpenRouter API Key në cilësimet (⚙️)!');
+                toggleSettings();
+                return;
+            }
+            box.className = 'summary-box loading visible';
+            box.textContent = 'Duke analizuar me AI...';
+            btn.disabled = true;
+            try {
+                const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': 'Bearer ' + apiKey,
+                        'Content-Type': 'application/json',
+                        'HTTP-Referer': window.location.href,
+                        'X-Title': 'Lajme Shqip'
+                    },
+                    body: JSON.stringify({
+                        model: aiModel,
+                        messages: [
+                            { role: 'system', content: 'Je një asistent që përmbledh lajmet në gjuhën shqipe. Përmbledh në 2-3 fjali kryesoret.' },
+                            { role: 'user', content: 'Përmbledh këtë lajm në shqip: Titulli: "' + item.title + '". Përmbajtja: "' + item.description + '".' }
+                        ],
+                        max_tokens: 200
+                    })
+                });
+                if (!response.ok) throw new Error('API Error: ' + response.status);
+                const data = await response.json();
+                const summary = data.choices && data.choices[0] && data.choices[0].message ? data.choices[0].message.content : 'Nuk u gjend përmbledhje.';
+                box.className = 'summary-box visible';
+                box.innerHTML = '<strong>🤖 Përmbledhje:</strong><br>' + escapeHtml(summary);
+            } catch (e) {
+                box.className = 'summary-box visible';
+                box.innerHTML = '<span style="color:#ef4444">Gabim: ' + escapeHtml(e.message) + '</span>';
+            } finally {
+                btn.disabled = false;
+            }
+        }
+
+        function shareNews(link, title) {
+            if (navigator.share) {
+                navigator.share({ title: title, url: link });
+            } else {
+                navigator.clipboard.writeText(link);
+                showError('Linku u kopjua! ✅');
+            }
+        }
+
+        function toggleSettings() {
+            document.getElementById('settingsPanel').classList.toggle('visible');
+        }
+
+        function saveSettings() {
+            apiKey = document.getElementById('apiKey').value.trim();
+            aiModel = document.getElementById('aiModel').value;
+            localStorage.setItem('openrouter_key', apiKey);
+            localStorage.setItem('ai_model', aiModel);
+            showError('Cilësimet u ruajtën! ✅');
+            toggleSettings();
+        }
+
+        function showError(msg) {
+            const toast = document.getElementById('errorToast');
+            toast.textContent = msg;
+            toast.style.display = 'block';
+            setTimeout(function() { toast.style.display = 'none'; }, 4000);
+        }
+
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            if (e.target.value === '') setCategory('all');
+        });
+        document.getElementById('searchInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') filterNews();
+        });
+
+        let touchStartY = 0;
+        document.addEventListener('touchstart', function(e) { touchStartY = e.touches[0].clientY; });
+        document.addEventListener('touchend', function(e) {
+            const touchEndY = e.changedTouches[0].clientY;
+            if (touchEndY - touchStartY > 150 && window.scrollY < 50) {
+                loadNews();
+            }
+        });
+
+        // Service Worker
+        if ('serviceWorker' in navigator) {
+            const swCode = "self.addEventListener('install',e=>self.skipWaiting());self.addEventListener('fetch',e=>e.respondWith(fetch(e.request).catch(()=>new Response('Offline'))));";
+            const blob = new Blob([swCode], { type: 'application/javascript' });
+            navigator.serviceWorker.register(URL.createObjectURL(blob));
         }
 
         loadNews();
