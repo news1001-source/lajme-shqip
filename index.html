@@ -21,6 +21,8 @@
         .btn-primary:active { transform: scale(0.96); }
         .btn-secondary { background: #334155; color: #e2e8f0; }
         .btn-sm { padding: 8px 14px; font-size: 12px; border-radius: 8px; }
+        .btn-danger { background: #ef4444; color: white; }
+        .btn-success { background: #22c55e; color: white; }
         .controls { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
         .controls::-webkit-scrollbar { display: none; }
         .chip { padding: 6px 14px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; border: 1px solid #334155; background: #1e293b; color: #94a3b8; transition: all 0.2s; white-space: nowrap; }
@@ -54,7 +56,28 @@
         .status-bar.error { border: 1px solid #ef4444; color: #ef4444; }
         .status-bar.warn { border: 1px solid #f59e0b; color: #f59e0b; }
         .last-update { font-size: 11px; color: #64748b; text-align: center; margin-bottom: 12px; }
+
+        /* Source toggle styles */
+        .source-list { max-height: 300px; overflow-y: auto; margin-bottom: 16px; }
+        .source-item { display: flex; justify-content: space-between; align-items: center; padding: 10px 12px; background: #0f172a; border-radius: 10px; margin-bottom: 8px; border: 1px solid #334155; }
+        .source-name { font-size: 14px; font-weight: 600; color: #e2e8f0; }
+        .source-category { font-size: 11px; color: #64748b; margin-top: 2px; }
+        .toggle-switch { position: relative; width: 44px; height: 24px; background: #334155; border-radius: 12px; cursor: pointer; transition: all 0.2s; flex-shrink: 0; }
+        .toggle-switch.active { background: linear-gradient(135deg, #38bdf8 0%, #818cf8 100%); }
+        .toggle-switch::after { content: ''; position: absolute; width: 20px; height: 20px; background: white; border-radius: 50%; top: 2px; left: 2px; transition: all 0.2s; }
+        .toggle-switch.active::after { left: 22px; }
+        .add-source-form { background: #0f172a; border-radius: 12px; padding: 16px; border: 1px solid #334155; margin-bottom: 16px; }
+        .form-row { margin-bottom: 12px; }
+        .form-row:last-child { margin-bottom: 0; }
+        .form-label { font-size: 12px; font-weight: 600; color: #94a3b8; margin-bottom: 4px; display: block; }
+        .form-input { width: 100%; padding: 8px 12px; border: 1px solid #334155; border-radius: 8px; background: #1e293b; color: #e2e8f0; font-size: 13px; outline: none; }
+        .form-input:focus { border-color: #38bdf8; }
+        .form-select { width: 100%; padding: 8px 12px; border: 1px solid #334155; border-radius: 8px; background: #1e293b; color: #e2e8f0; font-size: 13px; outline: none; }
+        .btn-group { display: flex; gap: 8px; margin-top: 12px; }
+        .btn-group .btn { flex: 1; }
+        .section-title { font-size: 14px; font-weight: 700; color: #38bdf8; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px; }
     </style>
+<base target="_blank">
 </head>
 <body>
     <div class="app-header">
@@ -75,6 +98,38 @@
     </div>
     <div class="content">
         <div class="settings-panel" id="settingsPanel">
+            <div class="section-title">Burimet e Lajmeve</div>
+            <div class="source-list" id="sourceList"></div>
+
+            <div class="btn-group">
+                <button class="btn btn-success" onclick="enableAllSources()">Aktivizo Të Gjitha</button>
+                <button class="btn btn-danger" onclick="disableAllSources()">Çaktivizo Të Gjitha</button>
+            </div>
+
+            <div class="section-title" style="margin-top: 20px;">Shto Burim të Ri</div>
+            <div class="add-source-form">
+                <div class="form-row">
+                    <label class="form-label">Emri i Faqes</label>
+                    <input type="text" class="form-input" id="newSourceName" placeholder="p.sh. Gazeta Sheshi">
+                </div>
+                <div class="form-row">
+                    <label class="form-label">URL e RSS Feed</label>
+                    <input type="text" class="form-input" id="newSourceUrl" placeholder="https://sheshi.com/feed/">
+                </div>
+                <div class="form-row">
+                    <label class="form-label">Kategoria</label>
+                    <select class="form-select" id="newSourceCategory">
+                        <option value="politike">Politikë</option>
+                        <option value="kronike">Kronikë</option>
+                        <option value="sport">Sport</option>
+                        <option value="ekonomi">Ekonomi</option>
+                        <option value="bote">Botë</option>
+                    </select>
+                </div>
+                <button class="btn btn-primary" onclick="addCustomSource()" style="width:100%; margin-top:8px">➕ Shto Burim</button>
+            </div>
+
+            <div class="section-title">Konfigurimi AI</div>
             <div class="setting-row">
                 <label class="setting-label">OpenRouter API Key (falas tek openrouter.ai)</label>
                 <input type="password" class="setting-input" id="apiKey" placeholder="sk-or-v1-...">
@@ -88,7 +143,7 @@
                     <option value="google/gemini-2.5-flash-preview:free">Gemini 2.5 Flash (Falas)</option>
                 </select>
             </div>
-            <button class="btn btn-primary" onclick="saveSettings()" style="width:100%">Ruaj Cilësimet</button>
+            <button class="btn btn-primary" onclick="saveSettings()" style="width:100%">Ruaj Të Gjitha Cilësimet</button>
         </div>
         <div class="status-bar" id="statusBar" style="display:none"></div>
         <div class="last-update" id="lastUpdate"></div>
@@ -102,13 +157,115 @@
     <div class="error-toast" id="errorToast"></div>
 
     <script>
+        // Default sources
+        const DEFAULT_SOURCES = [
+            { name: "Panorama", url: "https://www.panorama.al/feed/", category: "politike", enabled: true },
+            { name: "Shqiptarja", url: "https://www.shqiptarja.com/feed/", category: "politike", enabled: true },
+            { name: "Gazeta Express", url: "https://www.gazetaexpress.com/feed/", category: "politike", enabled: true },
+            { name: "Balkanweb", url: "https://www.balkanweb.com/site/feed/", category: "politike", enabled: true },
+            { name: "Gazeta Blic", url: "https://gazetablic.com/feed/", category: "kronike", enabled: true },
+            { name: "ABC News", url: "https://abcnews.al/feed/", category: "politike", enabled: true },
+            { name: "Gazeta Mapo", url: "https://gazetamapo.al/feed/", category: "politike", enabled: true },
+            { name: "Shekulli", url: "https://shekulli.com.al/feed/", category: "politike", enabled: true },
+            { name: "Lajmi i Fundit", url: "https://lajmifundit.al/feed/", category: "kronike", enabled: true },
+            { name: "Lajme.al", url: "https://www.lajme.al/feed/", category: "politike", enabled: true },
+            { name: "Scan TV", url: "https://www.scan-tv.com/feed/", category: "ekonomi", enabled: true },
+            { name: "Gazeta Tema", url: "https://www.gazetatema.net/web/feed/", category: "politike", enabled: true },
+            { name: "24 ORE", url: "https://24-ore.com/?feed=rss2", category: "politike", enabled: true },
+            { name: "TV Klan", url: "https://tvklan.al/feed/", category: "sport", enabled: true }
+        ];
+
         let allNews = [];
         let currentCategory = 'all';
         let apiKey = localStorage.getItem('openrouter_key') || '';
         let aiModel = localStorage.getItem('ai_model') || 'meta-llama/llama-3.3-70b-instruct:free';
+        let customSources = JSON.parse(localStorage.getItem('custom_sources') || '[]');
+        let enabledSources = JSON.parse(localStorage.getItem('enabled_sources') || 'null') || {};
+
+        // Initialize enabled sources if empty
+        if (Object.keys(enabledSources).length === 0) {
+            DEFAULT_SOURCES.forEach(function(s) {
+                enabledSources[s.name] = true;
+            });
+        }
 
         if (apiKey) document.getElementById('apiKey').value = apiKey;
         if (aiModel) document.getElementById('aiModel').value = aiModel;
+
+        function getAllSources() {
+            return DEFAULT_SOURCES.concat(customSources);
+        }
+
+        function renderSourceList() {
+            const list = document.getElementById('sourceList');
+            const sources = getAllSources();
+
+            list.innerHTML = sources.map(function(source) {
+                const isEnabled = enabledSources[source.name] !== false;
+                return '<div class="source-item">' +
+                    '<div>' +
+                    '<div class="source-name">' + source.name + '</div>' +
+                    '<div class="source-category">' + source.category + '</div>' +
+                    '</div>' +
+                    '<div class="toggle-switch ' + (isEnabled ? 'active' : '') + '" onclick="toggleSource('' + source.name + '')"></div>' +
+                    '</div>';
+            }).join('');
+        }
+
+        function toggleSource(name) {
+            enabledSources[name] = !enabledSources[name];
+            localStorage.setItem('enabled_sources', JSON.stringify(enabledSources));
+            renderSourceList();
+            loadNews();
+        }
+
+        function enableAllSources() {
+            getAllSources().forEach(function(s) {
+                enabledSources[s.name] = true;
+            });
+            localStorage.setItem('enabled_sources', JSON.stringify(enabledSources));
+            renderSourceList();
+            loadNews();
+            showError('Të gjitha burimet u aktivizuan! ✅');
+        }
+
+        function disableAllSources() {
+            getAllSources().forEach(function(s) {
+                enabledSources[s.name] = false;
+            });
+            localStorage.setItem('enabled_sources', JSON.stringify(enabledSources));
+            renderSourceList();
+            loadNews();
+            showError('Të gjitha burimet u çaktivizuan! ✅');
+        }
+
+        function addCustomSource() {
+            const name = document.getElementById('newSourceName').value.trim();
+            const url = document.getElementById('newSourceUrl').value.trim();
+            const category = document.getElementById('newSourceCategory').value;
+
+            if (!name || !url) {
+                showError('Ju lutem plotësoni të gjitha fushat!');
+                return;
+            }
+
+            if (!url.startsWith('http')) {
+                showError('URL duhet të fillojë me http:// ose https://');
+                return;
+            }
+
+            customSources.push({ name: name, url: url, category: category, enabled: true });
+            enabledSources[name] = true;
+            localStorage.setItem('custom_sources', JSON.stringify(customSources));
+            localStorage.setItem('enabled_sources', JSON.stringify(enabledSources));
+
+            document.getElementById('newSourceName').value = '';
+            document.getElementById('newSourceUrl').value = '';
+
+            renderSourceList();
+            loadNews();
+            showError('Burimi "' + name + '" u shtua! ✅');
+        }
 
         async function loadNews() {
             const container = document.getElementById('newsContainer');
@@ -120,7 +277,7 @@
 
             try {
                 const response = await fetch('news.json?' + Date.now());
-                
+
                 if (!response.ok) {
                     throw new Error('HTTP ' + response.status);
                 }
@@ -131,7 +288,14 @@
                     throw new Error('news array nuk ekziston');
                 }
 
-                allNews = data.news.map(function(item, idx) {
+                // Filter by enabled sources
+                const activeSources = getAllSources().filter(function(s) {
+                    return enabledSources[s.name] !== false;
+                }).map(function(s) { return s.name; });
+
+                allNews = data.news.filter(function(item) {
+                    return activeSources.includes(item.source);
+                }).map(function(item, idx) {
                     return {
                         title: item.title || 'Pa titull',
                         link: item.link || '#',
@@ -148,20 +312,20 @@
                 statusBar.style.display = 'flex';
                 if (allNews.length > 0) {
                     statusBar.className = 'status-bar success';
-                    statusBar.innerHTML = '<span>✅ ' + allNews.length + ' lajme</span><span onclick="loadNews()" style="cursor:pointer">🔄 Rifresko</span>';
-                    
+                    statusBar.innerHTML = '<span>✅ ' + allNews.length + ' lajme nga ' + activeSources.length + ' burime</span><span onclick="loadNews()" style="cursor:pointer">🔄 Rifresko</span>';
+
                     if (data.lastUpdated) {
                         const updateTime = new Date(data.lastUpdated);
                         lastUpdate.textContent = '🕐 Përditësimi i fundit: ' + updateTime.toLocaleString('sq-AL');
                     }
                 } else {
                     statusBar.className = 'status-bar warn';
-                    statusBar.innerHTML = '<span>⚠️ Asnjë lajm</span><span onclick="loadDemoData()" style="cursor:pointer">📋 Provo Demo</span>';
+                    statusBar.innerHTML = '<span>⚠️ Asnjë lajm (kontrollo burimet)</span><span onclick="loadDemoData()" style="cursor:pointer">📋 Provo Demo</span>';
                     lastUpdate.textContent = '';
                 }
-                
+
                 renderNews(allNews);
-                
+
             } catch (e) {
                 console.error('Gabim:', e);
                 statusBar.style.display = 'flex';
@@ -183,7 +347,7 @@
                 { title: "Shpërthim në një banesë në Durrës, dy të plagosur", description: "Një shpërthim i fuqishëm ka ndodhur në një banesë në qendër të Durrësit. Policia dhe zjarrfikëset ndodhen në vendngjarje.", source: "Lajmi i Fundit", category: "kronike", date: new Date(Date.now()-86400000).toISOString(), dateStr: "Dje, 18:20", isNew: false, id: "demo7", link: "#" },
                 { title: "Ministria e Shëndetësisë: Rriten rastet e gripit sezonal", description: "Instituti i Shëndetit Publik njofton se rastet e gripit sezonal kanë shënuar rritje në javët e fundit.", source: "ABC News", category: "politike", date: new Date(Date.now()-90000000).toISOString(), dateStr: "Dje, 16:00", isNew: false, id: "demo8", link: "#" }
             ];
-            
+
             allNews = demoNews;
             const statusBar = document.getElementById('statusBar');
             statusBar.style.display = 'flex';
@@ -196,19 +360,19 @@
         function renderNews(news) {
             const container = document.getElementById('newsContainer');
             if (news.length === 0) {
-                container.innerHTML = '<div class="empty-state"><div style="font-size:18px;font-weight:700;margin-bottom:8px">Nuk u gjet asnjë lajm</div><div style="font-size:14px">Provoni të rifreskoni ose kërkoni me fjalë tjetër.</div><button class="btn btn-primary" onclick="loadNews()" style="margin-top:16px">🔄 Rifresko</button><button class="btn btn-secondary" onclick="loadDemoData()" style="margin-top:8px">📋 Provo Demo</button></div>';
+                container.innerHTML = '<div class="empty-state"><div style="font-size:18px;font-weight:700;margin-bottom:8px">Nuk u gjet asnjë lajm</div><div style="font-size:14px">Kontrollo cilësimet e burimeve ose aktivizo Demo.</div><button class="btn btn-primary" onclick="loadNews()" style="margin-top:16px">🔄 Rifresko</button><button class="btn btn-secondary" onclick="loadDemoData()" style="margin-top:8px">📋 Provo Demo</button></div>';
                 return;
             }
-            
+
             container.innerHTML = news.map(function(item) {
-                return '<div class="news-card" onclick="window.open(\'' + item.link + '\', \'_blank\')">' +
+                return '<div class="news-card" onclick="window.open('' + item.link + '', '_blank')">' +
                 '<div class="news-source">' + item.source + (item.isNew ? ' <span class="badge-new">I RI</span>' : '') + '</div>' +
                 '<div class="news-title">' + escapeHtml(item.title) + '</div>' +
                 '<div class="news-desc">' + escapeHtml(item.description) + '</div>' +
                 '<div class="news-meta"><span>🕐 ' + item.dateStr + '</span><span>📂 ' + item.category + '</span></div>' +
                 '<div class="news-actions" onclick="event.stopPropagation()">' +
-                '<button class="btn btn-sm btn-secondary" onclick="summarizeNews(\'' + item.id + '\', this)">🤖 Përmbledhje AI</button>' +
-                '<button class="btn btn-sm btn-secondary" onclick="shareNews(\'' + item.link + '\', \'' + escapeHtml(item.title) + '\')">📤 Shpërndaj</button>' +
+                '<button class="btn btn-sm btn-secondary" onclick="summarizeNews('' + item.id + '', this)">🤖 Përmbledhje AI</button>' +
+                '<button class="btn btn-sm btn-secondary" onclick="shareNews('' + item.link + '', '' + escapeHtml(item.title) + '')">📤 Shpërndaj</button>' +
                 '</div>' +
                 '<div class="summary-box" id="summary-' + item.id + '"></div>' +
                 '</div>';
@@ -291,6 +455,9 @@
 
         function toggleSettings() {
             document.getElementById('settingsPanel').classList.toggle('visible');
+            if (document.getElementById('settingsPanel').classList.contains('visible')) {
+                renderSourceList();
+            }
         }
 
         function saveSettings() {
