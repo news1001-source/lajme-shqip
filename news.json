@@ -1,29 +1,183 @@
 {
-  "lastUpdated": "2026-05-09T00:12:22.168274+00:00",
+  "lastUpdated": "2026-05-09T07:27:12.646264+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Zbulohet origjina e Hantavirusit që ‘pushtoi’ kroçerën dhe ka alarmuar botën! Zbardhet burimi",
-      "link": "https://24-ore.com/zbulohet-origjina-e-hantavirusit-qe-pushtoi-kroceren-dhe-ka-alarmuar-boten-zbardhet-burimi/",
-      "description": "Argjentina është në qendër të një hetimi ndërkombëtar shëndetësor, pas një shpërthimi të Hantavirusit në anijen turistike holandeze MV Hondius, me autoritetet që po hetojnë një deponi (habitat, zonë të kontaminuar) në periferi të Ushuaia-s, në pjesën jugore të vendit, si një burim të mundshëm infeks",
-      "source": "24 ORE",
+      "title": "Dita e Evropës/ Bajram Begaj: Shqipëria më pranë se kurrë anëtarësimit në familjen europiane",
+      "link": "https://abcnews.al/dita-e-evropes-bajram-begaj-shqiperia-me-prane-se-kurre-anetaresimit-ne-familjen-europiane/",
+      "description": "Presidenti Bajram Begaj ka përcjellë një mesazh me rastin e Ditës së Evropës, duke vlerësuar projektin e Bashkimit Europian si një projekt të ndërtuar mbi paqen, sigurinë, demokracinë, begatinë, solidaritetin dhe lirinë. Në mesazhin e tij, Begaj theksoi se kjo ditë është edhe një moment për të nderu",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-05-08T22:40:52+00:00",
-      "dateStr": "08 May, 22:40",
+      "date": "2026-05-09T07:24:52+00:00",
+      "dateStr": "09 May, 07:24",
       "isNew": true,
-      "id": "24 01778280052"
+      "id": "abc01778311492"
     },
     {
-      "title": "“Mos u ndaj nga tufa”, “nuk jam tufë, jam deputete” – si filloi përplasja e Reshitajt me Gërvallën",
-      "link": "https://24-ore.com/mos-u-ndaj-nga-tufa-nuk-jam-tufe-jam-deputete-si-filloi-perplasja-e-reshitajt-me-gervallen/",
-      "description": "Ish-deputetja e grupit të LVV-së Albena Reshitaj ka dhënë disa detaje në lidhje me krisjen që ajo ka pasur me Donika Gërvallën. Reshitaj në Debat Plus thotë se ajo refuzoi të marrë pjesë në “votimin antikushtetues” që ndodhi në ditën e parë të votimit për president, duke ftohur edhe raportet me Gërv",
+      "title": "SHBA vendos sanksione ndaj kompanive kineze që ndihmojnë Iranin",
+      "link": "https://abcnews.al/shba-vendos-sanksione-ndaj-kompanive-kineze-qe-ndihmojne-iranin/",
+      "description": "Shtetet e Bashkuara kanë vendosur sanksione të reja ndaj disa kompanive kineze për shkak të lidhjeve të tyre me Iranin, vetëm disa ditë para takimit të rëndësishëm mes presidentit amerikan, Donald Trump dhe liderit kinez, Xi Jinping në Pekin. Departamenti amerikan i Shtetit ka sanksionuar katër komp",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-09T07:14:59+00:00",
+      "dateStr": "09 May, 07:14",
+      "isNew": true,
+      "id": "abc11778310899"
+    },
+    {
+      "title": "LDK mban sot mbledhjen e Këshillit të Përgjithshëm, vendos për bashkimin me Vjosa Osmanin",
+      "link": "https://24-ore.com/ldk-mban-sot-mbledhjen-e-keshillit-te-pergjithshem-vendos-per-bashkimin-me-vjosa-osmanin/",
+      "description": "Lidhja Demokratike e Kosovës mban sot mbledhjen e Këshillit të Përgjithshëm, ku do të diskutohet për bashkëpunimi me Vjosa Osmanin në zgjedhjet e 7 qershorit. Mbledhja mbahet në ora12:00. Kryetari i kësaj partie, Lumir Abdixhiku ditë më parë pas mbledhjes së Kryesisë së partisë paralajmëroi mbajtjen",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-05-08T22:11:13+00:00",
-      "dateStr": "08 May, 22:11",
+      "date": "2026-05-09T07:11:26+00:00",
+      "dateStr": "09 May, 07:11",
       "isNew": true,
-      "id": "24 11778278273"
+      "id": "24 01778310686"
+    },
+    {
+      "title": "9 Maji, historia e Ditës së Europës dhe rruga drejt Bashkimit Europian",
+      "link": "https://24-ore.com/9-maji-historia-e-dites-se-europes-dhe-rruga-drejt-bashkimit-europian/",
+      "description": "Çdo vit më 9 Maj, vendet europiane kremtojnë Ditën e Europës, një datë që simbolizon fillimin e bashkëpunimit dhe unitetit në kontinent pas Luftës së Dytë Botërore. Kjo ditë lidhet me Deklaratën Schuman, të shpallur më 9 maj 1950 nga ministri i Jashtëm francez Robert Schuman. Në deklaratën e tij his",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-09T07:11:14+00:00",
+      "dateStr": "09 May, 07:11",
+      "isNew": true,
+      "id": "24 11778310674"
+    },
+    {
+      "title": "Gruaja mbron Valverden në mes të stuhisë mediatike: Nuk pati grushte; nëse doni gjak, nuk do ta shihni…",
+      "link": "https://24-ore.com/gruaja-mbron-valverden-ne-mes-te-stuhise-mediatike-nuk-pati-grushte-nese-doni-gjak-nuk-do-ta-shihni/",
+      "description": "Mina Bonino, partnerja e Federico Valverde, doli në mbrojtje të bashkëshortit të saj pas spekulimeve në rrjetet sociale lidhur me një foto ku Fede shfaqej me kapele pranë djalit të tyre të madh. Disa përdorues pretendonin se ai po fshihte një plagë të shkaktuar nga incidenti me Aurélien Tchouaméni. ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-09T07:11:07+00:00",
+      "dateStr": "09 May, 07:11",
+      "isNew": true,
+      "id": "24 21778310667"
+    },
+    {
+      "title": "Interi “blindon” rekordmenin Dimarco; do të ushtrohet klauzola e rinovimit njëanshëm",
+      "link": "https://24-ore.com/interi-blindon-rekordmenin-dimarco-do-te-ushtrohet-klauzola-e-rinovimit-njeanshem/",
+      "description": "Për këmbën dhe numrin e asisteve, ai është “10-shi më i mirë jo numër 10” në Europë. Federico Dimarco, me 18 asiste këtë sezon, është një lloj miniere ari për Cristian Chivu, i cili, pas një sezoni disi nën pritshmëri, e ka rikthyer në nivele shumë të larta. Nuk është rastësi, ndaj Interi ka vendosu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-09T07:11:03+00:00",
+      "dateStr": "09 May, 07:11",
+      "isNew": true,
+      "id": "24 31778310663"
+    },
+    {
+      "title": "Interi, titull në “San Siro” 40 vite pas herës së fundit. Ja plani për festën zikaltër",
+      "link": "https://24-ore.com/interi-titull-ne-san-siro-40-vite-pas-heres-se-fundit-ja-plani-per-festen-zikalter/",
+      "description": "Të dielën, më 3 maj 2026, duke mposhtur Parmën në “San Siro” (por edhe më herët, nëse Napoli dhe Milani nuk fitojnë), Interi mund të shpallet kampion i Italisë për herë të 21-të dhe ta bëjë këtë në shtëpinë e vet, pas një pritjeje gati 40-vjeçare. Hera e fundit që zikaltërit e fituan matematikisht t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-09T07:10:57+00:00",
+      "dateStr": "09 May, 07:10",
+      "isNew": true,
+      "id": "24 41778310657"
+    },
+    {
+      "title": "SHBA sulmon një anije në Paqësor, të paktën dy të vdekur",
+      "link": "https://abcnews.al/shba-sulmon-nje-anije-ne-paqesor-te-pakten-dy-te-vdekur-video/",
+      "description": "Në sulmin më të fundit të ushtrisë amerikane ndaj një anijeje të dyshuar për kontrabandë droge në pjesën lindore të Oqeanit Paqësor, kanë humbur jetën dy burra, ndërsa një tjetër ka mbijetuar, njoftoi Komanda Jugore e SHBA-së. Në një video të publikuar nga kjo komandë në rrjetet sociale shihet një o",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-09T06:42:14+00:00",
+      "dateStr": "09 May, 06:42",
+      "isNew": true,
+      "id": "abc21778308934"
+    },
+    {
+      "title": "Të shtunën me shi dhe shkarkime rrufesh, të dielën stabilizim i motit",
+      "link": "https://24-ore.com/te-shtunen-me-shi-dhe-shkarkime-rrufesh-te-dielen-stabilizim-i-motit/",
+      "description": "Instituti Hidrometeorologjik i Kosovës ka bërë të ditur se fundjava do të jetë me shi dhe diell. IHK njofton se të shtunën mbi vendin tonë do të mbajë mot kryesisht i vranët, por me intervale të herëpashershme me diell. Gjatë orëve të ditës, vranësirat konvektive pritet që lokalisht të shoqërohen me",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-09T06:40:18+00:00",
+      "dateStr": "09 May, 06:40",
+      "isNew": true,
+      "id": "24 51778308818"
+    },
+    {
+      "title": "Dita e Europës, Rama: Shqipëria më afër se kurrë familjes europiane",
+      "link": "https://24-ore.com/dita-e-europes-rama-shqiperia-me-afer-se-kurre-familjes-europiane/",
+      "description": "Kryeministri Edi Rama ka përcjellë një mesazh urimi me rastin e 9 Majit, Ditës së Europës. Përmes një postimi në rrjetet sociale, Rama thekson rrugëtimin e Shqipërisë drejt anëtarësimit në BE. “Mirëmëngjes dhe në këtë Ditë të Europës, ku Shqipëria është më afër se kurrë familjes europiane, ju uroj n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-09T06:40:09+00:00",
+      "dateStr": "09 May, 06:40",
+      "isNew": true,
+      "id": "24 61778308809"
+    },
+    {
+      "title": "Komedia “Skandali” në fundjavë në skenën e teatrit Metropol",
+      "link": "https://24-ore.com/komedia-skandali-ne-fundjave-ne-skenen-e-teatrit-metropol/",
+      "description": "“Skandali” sjell në skenën teatrore personazhe unike dhe një ritëm, që garanton të qeshura pafund. Një kombinim perfekt mes humorit të hollë dhe situatave qesharake, që e bën këtë shfaqje të mbetet në mendje. Në teatrin Metropol në Tiranë po vijon në skenë komedia me regji nga Sonila Kapidani dhe në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-09T06:40:00+00:00",
+      "dateStr": "09 May, 06:40",
+      "isNew": true,
+      "id": "24 71778308800"
+    },
+    {
+      "title": "Ekspozita Interaktive e Piramidës, Gonxhja: Synon të krijojë një eksperiencë moderne dhe gjithëpërfshirëse për…",
+      "link": "https://24-ore.com/ekspozita-interaktive-e-piramides-gonxhja-synon-te-krijoje-nje-eksperience-moderne-dhe-gjitheperfshirese-per/",
+      "description": "Ekspozita Interaktive e Piramidës së Tiranës synon të sjellë një përvojë moderne për vizitorët, duke bashkuar historinë, teknologjinë dhe vizionin për të ardhmen. Në Innovation Hub u prezantua koncepti i rishikuar për Ekspozitën Interaktive të Piramidës së Tiranës. Blendi Gonxhja ministër i Turizmit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-09T06:39:53+00:00",
+      "dateStr": "09 May, 06:39",
+      "isNew": true,
+      "id": "24 81778308793"
+    },
+    {
+      "title": "Barcelona po e dëshmon me fakte, nuk e vuan më varësinë nga Yamal",
+      "link": "https://24-ore.com/barcelona-po-e-deshmon-me-fakte-nuk-e-vuan-me-varesine-nga-yamal/",
+      "description": "Pubalgjia e Lamine Yamal në fillim të sezonit dhe dëmtimi kundër Celta Vigo dy javë më parë ndezën alarmin te Barcelona. Kujtimet nga sezoni i kaluar, kur mungesa e tij ndikoi shumë, ishin ende të freskëta. Megjithatë, këtë sezon Barça ka treguar se nuk vuan më nga “Lamine-varësia”. Katalanasit kanë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-09T06:39:49+00:00",
+      "dateStr": "09 May, 06:39",
+      "isNew": true,
+      "id": "24 91778308789"
+    },
+    {
+      "title": "Rama uron Ditën e Europës: Shqipëria më afër se kurrë familjes europiane",
+      "link": "https://abcnews.al/rama-uron-diten-e-europes-shqiperia-me-afer-se-kurre-familjes-europiane/",
+      "description": "Kryeministri Edi Rama ka publikuar një mesazh në rrjetin social Facebook me rastin e Ditës së Europës. Në postimin e tij, Rama theksoi afrimin e Shqipërisë me familjen europiane, ndërsa uroi qytetarët për fundjavën. “Në këtë Ditë të Europës, ku Shqipëria është më afër se kurrë familjes europiane, ju",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-09T06:26:46+00:00",
+      "dateStr": "09 May, 06:26",
+      "isNew": true,
+      "id": "abc31778308006"
+    },
+    {
+      "title": "Horoskopi 9 maj 2026, zbuloni parashikimet e yjeve",
+      "link": "https://abcnews.al/horoskopi-9-maj-2026-zbuloni-parashikimet-e-yjeve/",
+      "description": "Dashi – Sot do ndihesh plot energji dhe i motivuar për të ecur përpara me planet e tua. Në punë mund të marrësh një lajm pozitiv që të gëzon. Në dashuri duhet më shumë durim dhe mirëkuptim. Financat mbeten të qëndrueshme gjatë ditës. Demi – Dita sjell qetësi dhe rehati emocionale. Një bisedë me fami",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-09T06:22:39+00:00",
+      "dateStr": "09 May, 06:22",
+      "isNew": true,
+      "id": "abc41778307759"
+    },
+    {
+      "title": "Parashikimi i motit, 9 maj 2026/ Si do variojnë temperaturat përgjatë ditës",
+      "link": "https://abcnews.al/parashikimi-i-motit-9-maj-2026-si-do-variojne-temperaturat-pergjate-dites/",
+      "description": "Vendi ynë do të ndikohet sot nga kushte të paqëndrueshme atmosferike, duke sjellë reshje shiu dhe vranësira të herëpashershme në të gjithë territorin. Sipas parashikimeve meteorologjike, zonat malore do të përfshihen nga reshje shiu gjatë pjesës më të madhe të ditës. Edhe në zonat e ulëta moti do të",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-09T06:04:28+00:00",
+      "dateStr": "09 May, 06:04",
+      "isNew": true,
+      "id": "abc51778306668"
     },
     {
       "title": "OBSH: Rreziku nga hantavirusi mbetet i ulët",
@@ -34,7 +188,7 @@
       "date": "2026-05-08T21:44:20+00:00",
       "dateStr": "08 May, 21:44",
       "isNew": true,
-      "id": "abc01778276660"
+      "id": "abc61778276660"
     },
     {
       "title": "Berisha, protesta e “lagur”/ Bejko: Tubimi më i dobët ndonjëherë! Saliu, i paligjshëm si kreu i PD",
@@ -45,29 +199,7 @@
       "date": "2026-05-08T21:42:22+00:00",
       "dateStr": "08 May, 21:42",
       "isNew": true,
-      "id": "abc11778276542"
-    },
-    {
-      "title": "Sistemi i hyrje-daljeve në RMV jashtë funksionit, krijohen kolona në kufij",
-      "link": "https://24-ore.com/sistemi-i-hyrje-daljeve-ne-rmv-jashte-funksionit-krijohen-kolona-ne-kufij/",
-      "description": "Qendra Kombëtare për Menaxhim Kufitar njofton se sistemi i hyrje/daljeve të Republikës së Maqedonisë së Veriut për regjistrimin e personave dhe automjeteve është jashtë funksionit. Si pasojë e këtij problemi teknik, në pikat kufitare janë rikthyer kontrollet e dyfishta, gjë që mund të shkaktojë krij",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-08T21:40:40+00:00",
-      "dateStr": "08 May, 21:40",
-      "isNew": true,
-      "id": "24 21778276440"
-    },
-    {
-      "title": "Energjia drejt modelit europian, shtatë ndryshimet e projektligjit të ri – Tv Klan",
-      "link": "https://24-ore.com/energjia-drejt-modelit-europian-shtate-ndryshimet-e-projektligjit-te-ri-tv-klan/",
-      "description": "Një projektligj i ri “Për sektorin e energjisë elektrike” e zhvendos tregun nga një model më i kontrolluar drejt një sistemi të ekspozuar ndaj çmimeve të bursës, kontratave private dhe konkurrencës rajonale, duke rritur njëkohësisht rrezikun për bizneset dhe mundësitë për investitorët. Ministria e I",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-08T21:28:14+00:00",
-      "dateStr": "08 May, 21:28",
-      "isNew": true,
-      "id": "24 31778275694"
+      "id": "abc71778276542"
     },
     {
       "title": "Evi Kokalari: Bravo demokratë! Aktivistja shpreh falënderimin për pjesëmarrjen e ulët, vetëm 100 veta",
@@ -78,29 +210,7 @@
       "date": "2026-05-08T21:12:02+00:00",
       "dateStr": "08 May, 21:12",
       "isNew": true,
-      "id": "abc21778274722"
-    },
-    {
-      "title": "Reshitaj: Albin Kurti nuk e ka dashur presidente Vjosa Osmanin",
-      "link": "https://24-ore.com/reshitaj-albin-kurti-nuk-e-ka-dashur-presidente-vjosa-osmanin/",
-      "description": "Ish-deputetja Albena Reshitaj ka deklaruar se kryeministri në detyrë, Albin Kurti, nuk e ka dashur Vjosa Osmanin si presidente të Republikës së Kosovës. Reshitaj, e ftuar në “Debat Plus” në Dukagjin, u shpreh se gjatë gjithë periudhës së procesit të zgjedhjes së presidentes kishte besuar se ekziston",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-08T21:11:17+00:00",
-      "dateStr": "08 May, 21:11",
-      "isNew": true,
-      "id": "24 41778274677"
-    },
-    {
-      "title": "Meçe: Është e turpshme të flasësh për protestën, sesi Noka shtyn Policinë",
-      "link": "https://24-ore.com/mece-eshte-e-turpshme-te-flasesh-per-protesten-sesi-noka-shtyn-policine/",
-      "description": "Analisti Arben Meçe ka komentuar zhvillimet gjatë protestës së opozitës, duke theksuar se e drejta për protestë në Shqipëri është një e drejtë kushtetuese dhe se fokusimi te përplasjet mes protestuesve dhe policisë është i gabuar. Sipas Meçes, protestat në vend zhvillohen mbi bazën e lejeve dhe njof",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-08T21:11:07+00:00",
-      "dateStr": "08 May, 21:11",
-      "isNew": true,
-      "id": "24 51778274667"
+      "id": "abc81778274722"
     },
     {
       "title": "Berisha, protestë e “lagur”/ Pjesëmarrje e ulët e demokratëve, molotovë drejt policisë",
@@ -111,117 +221,7 @@
       "date": "2026-05-08T21:07:01+00:00",
       "dateStr": "08 May, 21:07",
       "isNew": true,
-      "id": "abc31778274421"
-    },
-    {
-      "title": "“Sheshi i Dollarit” me Genta Dobra, (08/05/2026)",
-      "link": "https://abcnews.al/sheshi-i-dollarit-me-genta-dobra-08-05-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-08T21:00:15+00:00",
-      "dateStr": "08 May, 21:00",
-      "isNew": true,
-      "id": "abc41778274015"
-    },
-    {
-      "title": "“Kafazi” i KLP-së për Olsi Dadon, një presion për të mbajtur fasadën e statistikës së drejtësisë në këmbë",
-      "link": "https://24-ore.com/kafazi-i-klp-se-per-olsi-dadon-nje-presion-per-te-mbajtur-fasaden-e-statistikes-se-drejtesise-ne-kembe/",
-      "description": "Nga Hermes Kafexhiu Në një shkrim të 19 Majit 2025 shkrova se, “Përse do duhej të kontrollohej SPAK?” dhe jo më larg se sot, kryebashkiaku i Tiranës, Erion Veliaj, me kthjelltësinë e personit që po kalon barrën e të akuzuarit, tha në gjyqin e tij me prokurorin Olsi Dado se “pushteti i pakontrolluar ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-08T20:58:52+00:00",
-      "dateStr": "08 May, 20:58",
-      "isNew": true,
-      "id": "24 61778273932"
-    },
-    {
-      "title": "Opinion i pavarur Archives",
-      "link": "https://24-ore.com/opinion-i-pavarur-archives/",
-      "description": "Friday / May 8 / 2026 Shop Nga Vendi Biznes Ekonomi Financa Kosova Bota Europa Azi SHBA Lindja e Mesme Të Tjera Rajoni Video Monitor Brief Insight Monitor Ekonomi Business Plus Podcast Revista Revista Javore Numrat Specialë Revista Anglisht Monitor Top List Top Companies Revenue Top Companies Profit",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-08T20:58:36+00:00",
-      "dateStr": "08 May, 20:58",
-      "isNew": true,
-      "id": "24 71778273916"
-    },
-    {
-      "title": "Kullat i “qepen” bregdetit, projekte shumëkatëshe në KKTU nga Velipoja, Qerreti, Golemi e Saranda",
-      "link": "https://24-ore.com/kullat-i-qepen-bregdetit-projekte-shumekateshe-ne-kktu-nga-velipoja-qerreti-golemi-e-saranda/",
-      "description": "Lajmet Kryesore Ndërtim dhe Infrastrukturë Nga Vendi Kullat i “qepen” bregdetit, projekte shumëkatëshe në KKTU nga Velipoja, Qerreti, Golemi e Saranda Publikuar më: May 8, 2026, 1:35 PM Share Copy embed code Katër mbledhjet e fundit të Këshillit Kombëtar të Territorit dhe Ujit kanë marrë në shqyrtim",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-08T20:58:22+00:00",
-      "dateStr": "08 May, 20:58",
-      "isNew": true,
-      "id": "24 81778273902"
-    },
-    {
-      "title": "Nesrin Cavadzade martohet fshehurazi! Diferenca në moshë shkakton debat – Tv Klan",
-      "link": "https://24-ore.com/nesrin-cavadzade-martohet-fshehurazi-diferenca-ne-moshe-shkakton-debat-tv-klan/",
-      "description": "Aktorja e njohur turke Nesrin Cavadzade, dyshohet se është martuar me Kadir Taner Uçar në Bodrum. Lajmi ka bërë bujë në mediat rozë, ndërsa mungesa e detajeve dhe postimet misterioze të aktores kanë shtuar kuriozitetin publik. Sipas raportimeve, Cavadzade dhe Uçar thuhet se janë martuar në një cerem",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-08T20:58:07+00:00",
-      "dateStr": "08 May, 20:58",
-      "isNew": true,
-      "id": "24 91778273887"
-    },
-    {
-      "title": "SHBA sekuestron uranium të pasuruar nga reaktori venezuelian",
-      "link": "https://abcnews.al/shba-sekuestron-uranium-te-pasuruar-nga-reaktori-venezuelian/",
-      "description": "SHBA-ja dhe partnerët e saj kanë larguar të gjithë uraniumin shumë të pasuruar të mbetur nga një reaktor kërkimor i vjetër në Venezuelë, njoftoi Administrata Kombëtare për Sigurinë Bërthamore (NNSA) e Departamentit amerikan të Energjisë. “Heqja e sigurt e të gjithë uraniumit të pasuruar nga Venezuel",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-08T20:32:04+00:00",
-      "dateStr": "08 May, 20:32",
-      "isNew": true,
-      "id": "abc51778272324"
-    },
-    {
-      "title": "Tubimi i PD/ Protestuesit hodhën bomba molotovë drejt policëve, lëndohen 3 punonjës të Forcës Kombëtare të Sigurisë",
-      "link": "https://abcnews.al/tubimi-i-pd-protestuesit-hodhen-bomba-molotove-drejt-policeve-lendohen-3-punonjes-te-forces-kombetare-te-sigurise/",
-      "description": "3 punonjës policie të Forcës Kombëtare të Sigurisë kanë mbetur të lënduar si pasojë e hedhjes drejt tyre nga protestuesit të bombave molotovë, lëndëve piroteknike dhe sendeve të forta. Sipas burimeve të 3 punonjësit e lënduar u dërguan për  mjekim në Spitalin Ushtarak dhe janë nën monitorimin e bluz",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-08T20:06:39+00:00",
-      "dateStr": "08 May, 20:06",
-      "isNew": true,
-      "id": "abc61778270799"
-    },
-    {
-      "title": "VIDEO/ Përshihet në flakë një lokal në Radhimë",
-      "link": "https://abcnews.al/video-pershihet-ne-flake-nje-lokal-ne-radhime/",
-      "description": "RADHIMË- Një lokal është përfshirë nga flakët mbrëmjen e sotme në zonën e Radhimës. Menjëherë pas marrjes së njoftimit, drejt vendit të ngjarjes janë nisur forcat zjarrfikëse dhe shërbimet e policisë për të bërë të mundur shuarjen e zjarrit dhe sigurimin e zonës. Ende nuk dihen shkaqet e rënies së z",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-08T19:52:11+00:00",
-      "dateStr": "08 May, 19:52",
-      "isNew": true,
-      "id": "abc71778269931"
-    },
-    {
-      "title": "Edicioni qendror me Juli Krisafi, (08/05/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-08-05-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-08T19:32:57+00:00",
-      "dateStr": "08 May, 19:32",
-      "isNew": true,
-      "id": "abc81778268777"
-    },
-    {
-      "title": "BE: Gjermania ende e papërgatitur për reformën e re të azilit",
-      "link": "https://abcnews.al/be-gjermania-ende-e-papergatitur-per-reformen-e-re-te-azilit/",
-      "description": "Gjermania nuk është ende gati për zbatimin e reformës së re të Bashkimit Evropian për azilin, e cila pritet të hyjë në fuqi muajin e ardhshëm, thuhet në një raport të publikuar sot nga Komisioni Evropian. Sipas raportit, 15 vende të BE-së kanë krijuar tashmë kapacitete të mjaftueshme për procedurat ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-08T19:23:22+00:00",
-      "dateStr": "08 May, 19:23",
-      "isNew": true,
-      "id": "abc91778268202"
+      "id": "abc91778274421"
     },
     {
       "title": "Greqi: Flet babai i 19-vjeçares shqiptare: Humba jo engjëllin tim, por jetën time. Vajzën ma futën në kurth, e flakën pasi i bënë gjëra të tmerrshme!",
