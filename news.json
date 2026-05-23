@@ -1,8 +1,206 @@
 {
-  "lastUpdated": "2026-05-23T19:57:06.127838+00:00",
+  "lastUpdated": "2026-05-23T23:13:33.790756+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Edicioni i fundit me Rovena Neziri, (23/05/2026)",
+      "link": "https://abcnews.al/edicioni-i-fundit-me-rovena-neziri-23-05-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-23T22:11:25+00:00",
+      "dateStr": "23 May, 22:11",
+      "isNew": true,
+      "id": "abc01779574285"
+    },
+    {
+      "title": "Ekspertët e sigurisë: Gradimi në polici motivon gjeneratat e reja",
+      "link": "https://24-ore.com/ekspertet-e-sigurise-gradimi-ne-polici-motivon-gjeneratat-e-reja/",
+      "description": "Më 26 qershor do të mbahet testimi i parë për zyrtarët policorë dhe rreshterët për gradën toger, ndërsa më pas pritet të vazhdohet me testimin për gradën rreshter. Kjo vjen pas nënshkrimit të udhëzimit administrativ për gradimin e zyrtarëve policorë. Ekspertët thonë se kjo do t’i motivojë gjeneratat",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-23T22:09:43+00:00",
+      "dateStr": "23 May, 22:09",
+      "isNew": true,
+      "id": "24 01779574183"
+    },
+    {
+      "title": "23 të vdekur nga aksidentet në Kosovë në 4 muajt e parë të vitit",
+      "link": "https://24-ore.com/23-te-vdekur-nga-aksidentet-ne-kosove-ne-4-muajt-e-pare-te-vitit/",
+      "description": "Numri i aksidenteve rrugore mbetet i lartë, ndërsa rastet me pasoja fatale kanë ngritur shqetësim tek qytetarët dhe institucionet. Autoritetet po kërkojnë më shumë kujdes nga vozitësit për të parandaluar tragjedi të tjera në rrugë. Gjatë muajve të fundit, numri i aksidenteve në rrugët e Kosovës ka v",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-23T22:09:33+00:00",
+      "dateStr": "23 May, 22:09",
+      "isNew": true,
+      "id": "24 11779574173"
+    },
+    {
+      "title": "Mes tensioneve në rritje, mbyllet hapësira ajrore në pjesën perëndimore të Iranit",
+      "link": "https://abcnews.al/mes-tensioneve-ne-rritje-mbyllet-hapesira-ajrore-ne-pjesen-perendimore-te-iranit/",
+      "description": "Organizata e Aviacionit Civil e Iranit njoftoi për kufizime të përkohshme në pjesën perëndimore të hapësirës ajrore të vendit. Ky vendim vjen në kohën e rritjes së tensioneve, me raportime që thonë se Shtetet e Bashkuara po e shqyrtojnë mundësinë e rinisjes së veprimit ushtarak ndaj Iranit, teksa pë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-23T21:41:22+00:00",
+      "dateStr": "23 May, 21:41",
+      "isNew": true,
+      "id": "abc11779572482"
+    },
+    {
+      "title": "A është Kosova vërtet aq e varfër sa thuhet?",
+      "link": "https://24-ore.com/a-eshte-kosova-vertet-aq-e-varfer-sa-thuhet/",
+      "description": "Në mesin e dhjetë shteteve të Evropës, Kosova u rendit si vendi i dytë më i varfër, nga platforma World Atlas, sipas të dhënave të Fondit Monetar Ndërkombëtar. Kosova nuk ka arritur ritmin e zhvillimit që do të duhej për ta përmirësuar standardin jetësor të qytetarëve, prandaj vazhdon të konsiderohe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-23T21:39:06+00:00",
+      "dateStr": "23 May, 21:39",
+      "isNew": true,
+      "id": "24 21779572346"
+    },
+    {
+      "title": "Sali Berisha flet pas rizgjedhjes në krye të PD-së: Votimi më i rëndësishmi dhe më i jashtëzakonshëm",
+      "link": "https://24-ore.com/sali-berisha-flet-pas-rizgjedhjes-ne-krye-te-pd-se-votimi-me-i-rendesishmi-dhe-me-i-jashtezakonshem/",
+      "description": "Votimin më të rëndësishëm dhe më të jashtëzakonshëm e cilësoi Sali Berisha procesin zgjedhor për kreun e Partisë Demokratike, ku ai u rizgjodh si kryetar. “Sot u vendos që të ecim të pamposhtur drejt qëllimeve tona madhore”, tha ai. Berisha ka falenderuar dhe shprehur mirënjohje për anëtarët e PD-së",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-23T21:38:52+00:00",
+      "dateStr": "23 May, 21:38",
+      "isNew": true,
+      "id": "24 31779572332"
+    },
+    {
+      "title": "Hoxha nga Praga: Integrimi në BE mbetet zgjedhje strategjike e Shqipërisë",
+      "link": "https://24-ore.com/hoxha-nga-praga-integrimi-ne-be-mbetet-zgjedhje-strategjike-e-shqiperise/",
+      "description": "Ministri për Evropën dhe Punët e Jashtme, Ferit Hoxha, ka marrë pjesë në një panel mbi zgjerimin dhe trendet aktuale të Bashkimit Evropian, gjatë forumit GLOBSEC të zhvilluar në Pragë të Republikës Çeke. Gjatë fjalës së tij, Hoxha ka riafirmuar se integrimi evropian mbetet zgjedhja strategjike dhe e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-23T21:38:32+00:00",
+      "dateStr": "23 May, 21:38",
+      "isNew": true,
+      "id": "24 41779572312"
+    },
+    {
+      "title": "Lufta drejt fundit. Trump: Jemi afër marrëveshjes me Iranin. Ngushtica e Hormuzit do të hapet",
+      "link": "https://24-ore.com/lufta-drejt-fundit-trump-jemi-afer-marreveshjes-me-iranin-ngushtica-e-hormuzit-do-te-hapet/",
+      "description": "Në një postim në Truth Social, presidenti amerikan Donald Trump deklaroi se shumë shpejt pritet marrëveshje me Iranin. Ai tha se një dokumenti i marrëveshjes “është negociuar në masën me të madhe”, por mbetet ende për t’u finalizuar mes Shteteve të Bashkuara, Republikës Islamike të Iranit dhe vendev",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-23T21:38:16+00:00",
+      "dateStr": "23 May, 21:38",
+      "isNew": true,
+      "id": "24 51779572296"
+    },
+    {
+      "title": "Egnatia, fitore për titull/ Kampionët mundin 2-1 Vllazninë në javën e dytë finale",
+      "link": "https://abcnews.al/egnatia-fitore-per-titull-kampionet-mundin-2-1-vllaznine-ne-javen-e-dyte-finale/",
+      "description": "Në Amerikë këta lloj ekipesh I quajnë dinasti. Egnatia po shkon drejt titullit të tretë kampion radhazi në Superligën shqiptare, dhe statusin e favorites e mori pas fitores së dytë njërën pas tjetrës që arriti në minifazën mes 4 skuadrave të para. Suksesi 2-1 ndaj Vllaznisë, që ishte tepër dramatik ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-23T21:29:24+00:00",
+      "dateStr": "23 May, 21:29",
+      "isNew": true,
+      "id": "abc21779571764"
+    },
+    {
+      "title": "Vlora “ndizet” nga muzika folklorike/ Ansamble nga shtete të ndryshme në qytetin bregdetar për festivalin “Aulona Folk Festival”",
+      "link": "https://abcnews.al/vlora-ndizet-nga-muzika-folklorike-ansamble-nga-shtete-te-ndryshme-ne-qytetin-bregdetar-per-festivalin-aulona-folk-festival/",
+      "description": "Vlora është e gjitha e përfshirë nga atmosfera folklorike. Qytetarët shijuan spektaklin e dhuruar nga ansamble nga vende të ndryshme të botës, që kanë mbërritur këtë fundjavë në qytetin bregdetar në kuadër të festivalit ndërkombëtar “Aulona Folk Festival”. Në rrugët e qytetit, atmosfera ka qenë fest",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-23T21:13:28+00:00",
+      "dateStr": "23 May, 21:13",
+      "isNew": true,
+      "id": "abc31779570808"
+    },
+    {
+      "title": "Barcelona e mbyll me humbje, Real Madrid me fitore. Muriqi shënon, por Mallorca shkon në Segunda Divizion (video)",
+      "link": "https://24-ore.com/barcelona-e-mbyll-me-humbje-real-madrid-me-fitore-muriqi-shenon-por-mallorca-shkon-ne-segunda-divizion-video/",
+      "description": "La Liga ka mbyllur sot thuajse siparin për sezonin 2025-2026. Nesër do të luhet ndeshja e fundit me Villarreal dhe Atletico Madridiit, por që të dyja ekipet e kanë siguruar biletën për në Champions League dhe përballja mes tyre nuk do të ketë ndonjë rëndësi të veçantë. Të gjitha verdiktet e këtij se",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-23T21:08:31+00:00",
+      "dateStr": "23 May, 21:08",
+      "isNew": true,
+      "id": "24 61779570511"
+    },
+    {
+      "title": "Fishekzjarre dhe… farsë/ Zgjedhjet në PD, Berisha merr 94 përqind të votave",
+      "link": "https://abcnews.al/fishekzjarre-dhe-farse-zgjedhjet-ne-pd-berisha-merr-94-perqind-te-votave/",
+      "description": "Referendumi i PD-së, si një kronikë e një vdekjeje të paralajmëruar. Sali Berisha u rikonfirmua në një garë me veten si kryetar i PD-së, por humbi betejën e vërtetë, atë me demokratët. Së pari, për herë të parë u pranua se rithemelimi u kthye në një ritkurrje të PD-së. Në 5 vite, Berisha ka çuar [..",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-23T21:04:44+00:00",
+      "dateStr": "23 May, 21:04",
+      "isNew": true,
+      "id": "abc41779570284"
+    },
+    {
+      "title": "Studentët, protestë kundër qeverisë në Serbi/ Dhunë në Beograd, 23 persona të arrestuar",
+      "link": "https://abcnews.al/studentet-proteste-kunder-qeverise-ne-serbi-dhune-ne-beograd-23-persona-te-arrestuar/",
+      "description": "Dhjetëra mijëra njerëz, të udhëhequr nga studentët janë mbledhur në kryeqytetin serb për të protestuar kundër qeverisë dhe për të kërkuar zgjedhje të parakohshme. Tragjedia në stacionin hekurudhor të Novi Sadit në nëntor 2024, ku humbën jetën 16 persona, nxiti protesta kundër korrupsionit, duke kërk",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-23T20:49:42+00:00",
+      "dateStr": "23 May, 20:49",
+      "isNew": true,
+      "id": "abc51779569382"
+    },
+    {
+      "title": "Zgjedhjet për kreun e PD, Berisha : Mirënjohje edhe atyre që votuan kundër, jemi një familje!",
+      "link": "https://24-ore.com/zgjedhjet-per-kreun-e-pd-berisha-mirenjohje-edhe-atyre-qe-votuan-kunder-jemi-nje-familje/",
+      "description": "Sali Berisha pasi u konfirmua kryetar i Partisë Demokratike me një votëbesim, ku mori 37,341 vota pro, mbajti një konferencë për shtyp ku falënderoi demokratët për besimin e dhënë dhe e cilësoi këtë proces si më të rëndësishmin në historinë e PD-së. Ai u shpreh se “mirënjohje për ata që votuan, edhe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-23T20:38:24+00:00",
+      "dateStr": "23 May, 20:38",
+      "isNew": true,
+      "id": "24 71779568704"
+    },
+    {
+      "title": "Protestat kundër Vuçiç/ A po shkon Serbia drejt zgjedhjeve të parakohshme?",
+      "link": "https://24-ore.com/protestat-kunder-vucic-a-po-shkon-serbia-drejt-zgjedhjeve-te-parakohshme/",
+      "description": "Dhjetëra mijëra qytetarë serbë, të udhëhequr nga studentët, u mblodhën në kryeqytetin serb për të protestuar kundër qeverisë dhe për të kërkuar zgjedhje të parakohshme. Protestuesit vërshuan në sheshin qendror të Beogradit nga disa drejtime, shumë prej të cilëve duke mbajtur banderola dhe bluza me m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-23T20:38:04+00:00",
+      "dateStr": "23 May, 20:38",
+      "isNew": true,
+      "id": "24 81779568684"
+    },
+    {
+      "title": "Mourinho i prish punë Barcelonës ende pa u zyrtarizuar si trajneri i ri i Real Madridit. “El Clasico” nis nga merkato",
+      "link": "https://24-ore.com/mourinho-i-prish-pune-barcelones-ende-pa-u-zyrtarizuar-si-trajneri-i-ri-i-real-madridit-el-clasico-nis-nga-merkato/",
+      "description": "Ende pa u zyrtarizuar si trajneri i ri i Real Madridit, gjë që pritet të ndodhë në fillim të javës së ardhshme, Jose Mourinho ka filluar që tani me përforcimet e para që synon të bëjë në verë. CalcioMercato zbulon se “The Special One” ka zgjedhur Alessandro Bastoni-n si profilin dhe lojtarin e duhur",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-23T20:37:57+00:00",
+      "dateStr": "23 May, 20:37",
+      "isNew": true,
+      "id": "24 91779568677"
+    },
+    {
+      "title": "Zelensky paralajmëron: Rusia po përgatitet të sulmojë me raketa hipersonike Oreshnik",
+      "link": "https://abcnews.al/zelensky-paralajmeron-rusia-po-pergatitet-te-sulmoje-me-raketa-hipersonike-oreshnik/",
+      "description": "Presidenti i Ukrainës, Volodymyr Zelensky, paralajmëroi se Rusia mund të jetë duke u përgatitur të përdorë raketën e saj me rreze të mesme veprimi Oreshnik kundër Ukrainës, si pjesë e një sulmi më të gjerë që mund të synojë Kievin. Duke cituar inteligjencën ukrainase dhe informacionin e ndarë nga pa",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-23T20:28:33+00:00",
+      "dateStr": "23 May, 20:28",
+      "isNew": true,
+      "id": "abc61779568113"
+    },
+    {
+      "title": "Franca i ndalon ministrit izraelit të sigurisë hyrjen në vend",
+      "link": "https://abcnews.al/franca-i-ndalon-ministrit-izraelit-te-sigurise-hyrjen-ne-vend/",
+      "description": "Franca njoftoi se i ka ndaluar hyrjen Ministrit të Sigurisë Kombëtare Izraelite, Itamar Ben Gvir, për shkak se ka tallur aktivistët e lidhur të kapur nga ushtarët izraelitë në një flotilje ndihmash që shkonte në Gaza. “Nga sot, Itamar Ben Gvirit i ndalohet hyrja në territorin francez pas veprimeve t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-23T20:14:25+00:00",
+      "dateStr": "23 May, 20:14",
+      "isNew": true,
+      "id": "abc71779567265"
+    },
     {
       "title": "SHBA miraton shitjen e sistemit raketor HAWK për Ukrainën me vlerë 108 milionë dollarë",
       "link": "https://abcnews.al/shba-miraton-shitjen-e-sistemit-raketor-hawk-per-ukrainen-me-vlere-108-milione-dollare/",
@@ -12,62 +210,7 @@
       "date": "2026-05-23T19:50:55+00:00",
       "dateStr": "23 May, 19:50",
       "isNew": true,
-      "id": "abc01779565855"
-    },
-    {
-      "title": "Fitoi referendumin, Berisha: Rezultat historik, të vijojmë betejën",
-      "link": "https://24-ore.com/fitoi-referendumin-berisha-rezultat-historik-te-vijojme-betejen/",
-      "description": "Kreu i PD-së Sali Berisha po mban konferencë për mediat sot në 23 maj, pasi fitoi referendumin për kryetarin e partisë. Kreu i PD-së Sali Berisha po mban konferencë për mediat sot në 23 maj, pasi fitoi referendumin për kryetarin e partisë. “Unë falënderoj çdo anëtar të PD-së që më zgjodhi në krye të",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-23T19:47:04+00:00",
-      "dateStr": "23 May, 19:47",
-      "isNew": true,
-      "id": "24 01779565624"
-    },
-    {
-      "title": "Kosova e befason deputetin algjerian, ai premton angazhim për njohje",
-      "link": "https://24-ore.com/kosova-e-befason-deputetin-algjerian-ai-premton-angazhim-per-njohje/",
-      "description": "Një vizitë e menduar si turistike, e bëri ta njoh Kosovën në shumë dimensione një deputet nga Algjeria. Jusuf Axhise gjatë qëndrimit të tij, u shpreh i befasuar nga mikpritja e kosovarëve dhe ngjashpëritë me shtetin e tij. Prandaj, premton se do të angazhohet që Algjeria ta njeh pavarësinë e Kosovës",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-23T19:39:15+00:00",
-      "dateStr": "23 May, 19:39",
-      "isNew": true,
-      "id": "24 11779565155"
-    },
-    {
-      "title": "Kuçana: Zgjedhjet në PD tregojnë gjallëri, diskutimi tani duhet të jetë për ekipin",
-      "link": "https://24-ore.com/kucana-zgjedhjet-ne-pd-tregojne-gjalleri-diskutimi-tani-duhet-te-jete-per-ekipin/",
-      "description": "E ftuar në emisionin Review me Greta Topjanën, Ilirjana Kuçana, anëtare e Këshillit Kombëtar të Partisë Demokratike, u ndal te zgjedhjet e zhvilluara këtë të shtunë nga anëtarësia e PD-së për kreun e partisë, ku kandidat i vetëm ishte kryetari aktual Sali Berisha. Kuçana vlerësoi se pjesëmarrja dhe ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-23T19:38:52+00:00",
-      "dateStr": "23 May, 19:38",
-      "isNew": true,
-      "id": "24 21779565132"
-    },
-    {
-      "title": "Spahia jep detaje nga votimi në Shkodër: Proces i qetë dhe me pjesëmarrje të lartë",
-      "link": "https://24-ore.com/spahia-jep-detaje-nga-votimi-ne-shkoder-proces-i-qete-dhe-me-pjesemarrje-te-larte/",
-      "description": "Duke folur në një lidhje direkte nga Shkodra për emisionin “Review” me Greta Topjanën, deputeti i PD-së Bardh Spahia, u ndal te zgjedhjet e zhvilluara këtë të shtunë nga anëtarësia e PD-së për kreun e partisë. Spahia tha se votimi në Shkodër ishte krejtësisht i qetë dhe i karakterizuar nga pjesëmarr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-23T19:38:27+00:00",
-      "dateStr": "23 May, 19:38",
-      "isNew": true,
-      "id": "24 31779565107"
-    },
-    {
-      "title": "Reijnders mërzitet shpejt te City. Rikthim në Serie A apo një lëvizje te rivalët? Holandezi në mëdyshje",
-      "link": "https://24-ore.com/reijnders-merzitet-shpejt-te-city-rikthim-ne-serie-a-apo-nje-levizje-te-rivalet-holandezi-ne-medyshje/",
-      "description": "Tijjani Reijnders duket se ka vendosur të largohet nga Manchester City vetëm pas një sezoni. Holandezi u transferua verën e kaluar nga Milan për 55 milionë euro. Në sezonin e tij të parë te “Qytetarët”, Reijnders ka shënuar 7 gola dhe ka dhënë 8 asiste në 46 ndeshje në të gjitha garat. Fakti që ka [",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-23T19:38:17+00:00",
-      "dateStr": "23 May, 19:38",
-      "isNew": true,
-      "id": "24 41779565097"
+      "id": "abc81779565855"
     },
     {
       "title": "Edicioni qendror me Rovena Neziri, (23/05/2026)",
@@ -78,150 +221,7 @@
       "date": "2026-05-23T19:26:19+00:00",
       "dateStr": "23 May, 19:26",
       "isNew": true,
-      "id": "abc11779564379"
-    },
-    {
-      "title": "Berisha përballë vetes, si votuan demokratët në “referendumin” e PD-së",
-      "link": "https://24-ore.com/berisha-perballe-vetes-si-votuan-demokratet-ne-referendumin-e-pd-se/",
-      "description": "Pas mbylljes së procesit të votimit me një orë vonesë, për shkak të shtyrjes së paralajmëruar, ka nisur menjëherë numërimi i votave në degët e PD, ku sot kanë votuar për kreun e demokratëve, i vetmi në listë Sali Berisha. Procesi i numërimi është mbyllur në:  Dega Sarandë Votues në listë 870 Votuan ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-23T19:17:21+00:00",
-      "dateStr": "23 May, 19:17",
-      "isNew": true,
-      "id": "24 51779563841"
-    },
-    {
-      "title": "Balla ironizon “garën” në PD, publikon foton e Berishës duke u ndeshur me veten në ring",
-      "link": "https://24-ore.com/balla-ironizon-garen-ne-pd-publikon-foton-e-berishes-duke-u-ndeshur-me-veten-ne-ring/",
-      "description": "Taulant Balla u është bashkuar talljeve në rrjet për zgjedhjet në PD duke ndarë një foto ku me ndihmën e Inteligjencës Artificiale, ka përmbledhur ‘garën’ e Sali Berishës. Ky i fundit shfaqet në një ring boksi, në një përballe me ‘klonin’ e tij. ‘Berisha 2’ është i veshur me të kuqe dhe në veshje ka",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-23T19:17:00+00:00",
-      "dateStr": "23 May, 19:17",
-      "isNew": true,
-      "id": "24 61779563820"
-    },
-    {
-      "title": "Manasievski: Filipçe është mbështetës i hapur i politikës bullgare",
-      "link": "https://24-ore.com/manasievski-filipce-eshte-mbeshtetes-i-hapur-i-politikes-bullgare/",
-      "description": "Është konfirmuar bashkëpunimi i Venko Filipçes dhe LSDM-së me autoritetet bullgare, me qëllimin e vetëm për të përfshirë bullgarët në Kushtetutë. Këtë pretendim e ka ngritur sot zëdhënësi i OBRM-PDUKM-së Valentin Manasievski, i cili ka deklaruar kjo që do të jetë e para nga shumë kërkesa që Bullgari",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-23T19:09:46+00:00",
-      "dateStr": "23 May, 19:09",
-      "isNew": true,
-      "id": "24 71779563386"
-    },
-    {
-      "title": "Alkool, telefona dhe drogë në burgun e Fierit, procedohen shefi i policisë dhe shefi i regjimit",
-      "link": "https://24-ore.com/alkool-telefona-dhe-droge-ne-burgun-e-fierit-procedohen-shefi-i-policise-dhe-shefi-i-regjimit/",
-      "description": "Dy persona janë arrestuar dhe gjashtë punonjës të Burgut të Fierit janë proceduar penalisht pas kontrolleve të zhvilluara nga Drejtoria e Përgjithshme e Burgjeve në ambientet e burgut të Fierit. Gjatë kontrolleve u gjetën një sasi e konsiderueshme pijesh alkoolike në një prej dhomave të institucioni",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-23T19:09:25+00:00",
-      "dateStr": "23 May, 19:09",
-      "isNew": true,
-      "id": "24 81779563365"
-    },
-    {
-      "title": "IKMT bllokon 3 automjete me lëndë drusore në Prekal të Shkodrës",
-      "link": "https://24-ore.com/ikmt-bllokon-3-automjete-me-lende-drusore-ne-prekal-te-shkodres/",
-      "description": "Tre automjete të ngarkuara me lëndë drusore janë bllokuar nga IKMT Shkodër në bashkëpunim me Policinë e Shtetit, gjatë kontrolleve të zhvilluara në zonën e Prekalit. Sipas IKMT-së, gjatë verifikimeve në terren, autoritetet kanë konstatuar se mjetet qarkullonin pa dokumentacionin përkatës ligjor për ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-23T19:09:04+00:00",
-      "dateStr": "23 May, 19:09",
-      "isNew": true,
-      "id": "24 91779563344"
-    },
-    {
-      "title": "Trump: Jemi shumë pranë një marrëveshjeje me Iranin",
-      "link": "https://abcnews.al/trump-jemi-shume-prane-nje-marreveshjeje-me-iranin/",
-      "description": "Donald Trump ka folur me dy media në Shtetet e Bashkuara  Në intervistën e parë, presidenti amerikan tha se negociatorët po “i afrohen shumë” arritjes së një marrëveshjeje – përpara se të deklaronte në të dytën: “Ose arrijmë një marrëveshje të mirë, ose do t’i shkatërroj.” Duke folur për CBS News, T",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-23T19:05:28+00:00",
-      "dateStr": "23 May, 19:05",
-      "isNew": true,
-      "id": "abc21779563128"
-    },
-    {
-      "title": "Korrespondent me Kasandra Pali, (23/05/2026)",
-      "link": "https://abcnews.al/korrespondent-me-kasandra-pali-23-05-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-23T18:50:53+00:00",
-      "dateStr": "23 May, 18:50",
-      "isNew": true,
-      "id": "abc31779562253"
-    },
-    {
-      "title": "Si Librazhdi synon të zhvillojë turizmin/ Çelja e sezonit solli atmosferë festive në zemër të qytetit të vogël",
-      "link": "https://abcnews.al/si-librazhdi-synon-te-zhvilloje-turizmin-celja-e-sezonit-solli-atmosfere-festive-ne-zemer-te-qytetit-te-vogel/",
-      "description": "Çelja e sezonit turistik në Librazhd po shndërrohet vit pas viti në një traditë të konsoliduar, e cila jo vetëm promovon pasuritë natyrore dhe kulturore të zonës, por po tërheq gjithnjë e më shumë vizitorë nga e gjithë Shqipëria e më gjerë. Në zemër të qytetit, atmosfera festive solli gjallëri, ngjy",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-23T18:34:26+00:00",
-      "dateStr": "23 May, 18:34",
-      "isNew": true,
-      "id": "abc41779561266"
-    },
-    {
-      "title": "Çobani i bjeshkëve, tradita e blegtorisë/ Rrëfehet Isa Doni, kujdeset çdo ditë për 300 krerë dele dhe dhi",
-      "link": "https://abcnews.al/cobani-i-bjeshkeve-tradita-e-blegtorise-rrefehet-isa-doni-kujdeset-cdo-dite-per-300-krere-dele-dhe-dhi/",
-      "description": "Që në fëmijëri, jeta e Isa Donit nga bjeshkët e Kalasë së Dodës ka qenë e lidhur ngushtë me bagëtinë. 58-vjeçari kujton se dashuria për këtë profesion lindi që kur ishte ende fëmijë, ndërsa dita e tij nis ende pa zbardhur mirë mëngjesi. Me qindra krerë dele e dhi kërkojnë kujdes të vazhdueshëm dhe p",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-23T18:29:35+00:00",
-      "dateStr": "23 May, 18:29",
-      "isNew": true,
-      "id": "abc51779560975"
-    },
-    {
-      "title": "Të veçantat e dasmës zadrimore/ Në Gjadër të Lezhës u rikrijua atmosfera e dasmës tradicionale",
-      "link": "https://abcnews.al/te-vecantat-e-dasmes-zadrimore-ne-gjader-te-lezhes-u-rikrijua-atmosfera-e-dasmes-tradicionale/",
-      "description": "Në Gjadër të Lezhës, oborri i shkollës së fshatit u kthye në një skenë tradite, ku dhjetëra banorë u bënë bashkë për të rikrijuar dasmën tradicionale zadrimore. Çdo pjesëmarrës kishte rolin e tij, duke sjellë me besnikëri ritualet, këngët dhe atmosferën që për dekada kanë shoqëruar këtë traditë të n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-23T18:23:36+00:00",
-      "dateStr": "23 May, 18:23",
-      "isNew": true,
-      "id": "abc61779560616"
-    },
-    {
-      "title": "Kukësi mikpret sofrën dardane/ Qyteti verior mblodhi ansamblet artistike nga të gjitha trevat",
-      "link": "https://abcnews.al/kukesi-mikpret-sofren-dardane-qyteti-verior-mblodhi-ansamblet-artistike-nga-te-gjitha-trevat/",
-      "description": "Si kurrë më parë, Kukësi u vesh me petkun e kostumeve kombëtare të të gjitha trevave. Në bulevardin kryesor të qytetit, përmes një parakalimi festiv, u shfaqën njëri pas tjetrit ansamblet artistike nga Vlora, Kumanova, Rugova, Prishtina dhe Durrësi, ndërsa në krye të këtij mozaiku kulturor valëvitej",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-23T18:13:24+00:00",
-      "dateStr": "23 May, 18:13",
-      "isNew": true,
-      "id": "abc71779560004"
-    },
-    {
-      "title": "Argjentina nderon “alienin” Messi/ Kampionët e botës në Botëror me avion kushtuar superyllit",
-      "link": "https://abcnews.al/argjentina-nderon-alienin-messi-kampionet-e-botes-ne-boteror-me-avion-kushtuar-superyllit/",
-      "description": "Kanë kaluar thuajse katër vjet. Argjentina mbërriti me lavdi në Buenos Aires pasi fitoi Kupën e Botës në Katar, nën udhëheqjen e Lionel Mesit. Ishte një atmosferë e jashtëzakoshme në kryeqytet në dhjetor të 2022-it, edhe sepse kombëtarja “albiseleste” triumfoi për herë të tretë në histori, por edhe ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-23T17:48:41+00:00",
-      "dateStr": "23 May, 17:48",
-      "isNew": true,
-      "id": "abc81779558521"
-    },
-    {
-      "title": "Bregdeti shqiptar çel sezonin turistik/ Fieri, Durrësi dhe Shëngjini nisin verën me aktivitete festive",
-      "link": "https://abcnews.al/bregdeti-shqiptar-cel-sezonin-turistik-fieri-durresi-dhe-shengjini-nisin-veren-me-aktivitete-festive/",
-      "description": "Fieri ka çelur zyrtarisht sezonin turistik. Festës, e cila do të vijojë gjatë të gjithë fundjavës në bregdetin e Darëzezës, iu bashkuan qindra vizitorë.Muzikë live, gara me kuaj, aktivitete sportive dhe ndeshje boksi u organizuan me këtë rast. Drejtuesja politike e Partisë Socialiste në qarkun e Fie",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-23T17:31:13+00:00",
-      "dateStr": "23 May, 17:31",
-      "isNew": true,
-      "id": "abc91779557473"
+      "id": "abc91779564379"
     },
     {
       "title": "Greqi: Flet babai i 19-vjeçares shqiptare: Humba jo engjëllin tim, por jetën time. Vajzën ma futën në kurth, e flakën pasi i bënë gjëra të tmerrshme!",
