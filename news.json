@@ -1,18 +1,205 @@
 {
-  "lastUpdated": "2026-05-24T18:13:49.213586+00:00",
+  "lastUpdated": "2026-05-24T22:13:40.286414+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Togeri i Policisë së Kosovës i dënuar për spiunazh ishte pjesëtar edhe i Policisë së Serbisë",
-      "link": "https://24-ore.com/togeri-i-policise-se-kosoves-i-denuar-per-spiunazh-ishte-pjesetar-edhe-i-policise-se-serbise/",
-      "description": "Gjatë bastisjes që i është bërë shtëpisë së Bojan Jevtiqit, i dënuar para pak ditësh për spiunazh, janë gjetur dokumentacione që dëshmojnë se ai të paktën nga viti 2009 ishte pjesëtar edhe i Policisë së Serbisë, drejtoria për Gjilanin me bazë në Vranjë si dhe rezervist i ushtrisë së Serbisë. Të gjit",
+      "title": "Gjashtë serbë ndalohen afër Manastirit në Prizren, policia jep detaje",
+      "link": "https://24-ore.com/gjashte-serbe-ndalohen-afer-manastirit-ne-prizren-policia-jep-detaje/",
+      "description": "Gjashtë serbë janë arrestuar sot në Prizren afër Manastirit “Shën Arangjeli”. Detaje për arrestimin e tyre ka dhënë zëdhënësi i Policisë së Kosovës për rajonin e Prizrenit, Shaqir Bytyqi. Ai ka njoftuar se gjatë kontrollimit të një grupi dyshohet se në posedim të njërit prej tyre është gjetur një fl",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-05-24T18:08:48+00:00",
-      "dateStr": "24 May, 18:08",
+      "date": "2026-05-24T22:09:45+00:00",
+      "dateStr": "24 May, 22:09",
       "isNew": true,
-      "id": "24 01779646128"
+      "id": "24 01779660585"
+    },
+    {
+      "title": "Kthimi i aktivistëve të flotiljes në Spanjë shkakton përleshje dhe arrestime, ndërsa Izraeli kritikon ‘hipokrizinë’",
+      "link": "https://24-ore.com/kthimi-i-aktivisteve-te-flotiljes-ne-spanje-shkakton-perleshje-dhe-arrestime-ndersa-izraeli-kritikon-hipokrizine/",
+      "description": "Mbërritja në Spanjë e aktivistëve të Flotiljes Global Sumud shkaktoi përleshje në aeroportin e Bilbaos, me akuza nga policia dhe katër arrestime. Izraeli thirri një diplomat spanjoll për të vënë në dukje mungesën e koherencës. Mbërritja në Spanjë e një grupi aktivistësh nga Flotilja Global Sumud u z",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-24T21:38:57+00:00",
+      "dateStr": "24 May, 21:38",
+      "isNew": true,
+      "id": "24 11779658737"
+    },
+    {
+      "title": "Eksperti Laçi ngre pikëpyetje: Ka një komplot ndaj Trump, sa herë që ka paqe me Iranin i ndodh një tenatitvë për atentat",
+      "link": "https://24-ore.com/eksperti-laci-ngre-pikepyetje-ka-nje-komplot-ndaj-trump-sa-here-qe-ka-paqe-me-iranin-i-ndodh-nje-tenatitve-per-atentat/",
+      "description": "Marlind Laçi, ekspert i marrëdhënieve ndërkombëtare, ka folur këtë të diel për “Review” me Greta Topjanën në Euronews Albania lidhur me zhvillimet e fundit të ndodhura në luftën mes SHBA dhe Iranit, edhe me rastin e fundit të të shtënave të regjistruara në Shtëpinë e Bardhë mëngjesin e sotëm. Laçi t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-24T21:38:45+00:00",
+      "dateStr": "24 May, 21:38",
+      "isNew": true,
+      "id": "24 21779658725"
+    },
+    {
+      "title": "Milan shkatërron sezonin, mbetet jashtë Champions-it. Roma bën detyrën, Como shkruan historinë (video)",
+      "link": "https://24-ore.com/milan-shkaterron-sezonin-mbetet-jashte-champions-it-roma-ben-detyren-como-shkruan-historine-video/",
+      "description": "Milan ka shkatërruar gjithë sezonin me humbjen e sotme 1-2 në “San Siro” ndaj Cagliarit. Kuqezinjve iu duhej vetëm një pikë sonte për të siguruar vendin për në Champions League, por dolën me kokën ulur nga fusha pas 90 minutave. Vendasit gjetën golin që në minutën e 2-të me Alexis Saelemaekers. Miqt",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-24T21:09:29+00:00",
+      "dateStr": "24 May, 21:09",
+      "isNew": true,
+      "id": "24 31779656969"
+    },
+    {
+      "title": "Evropa përfshihet nga “kupola e nxehtësisë”, meteorologët paralajmërojnë rritje drastike të temperaturave",
+      "link": "https://abcnews.al/evropa-perfshihet-nga-kupola-e-nxehtesise-meteorologet-paralajmerojne-rritje-drastike-te-temperaturave/",
+      "description": "Shërbimi meteorologjik Severe Weather Europe ka paralajmëruar se mbi pjesën më të madhe të Evropës po formohet një fenomen i njohur si “kupolë nxehtësie”, i cili pritet të sjellë temperatura jashtëzakonisht të larta për këtë periudhë të vitit. Sipas parashikimeve, temperaturat në shumë rajone do të ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-24T20:45:56+00:00",
+      "dateStr": "24 May, 20:45",
+      "isNew": true,
+      "id": "abc01779655556"
+    },
+    {
+      "title": "Ekspertët: 20 minuta ecje në ditë, përfitimet që sjell për trupin dhe mendjen",
+      "link": "https://abcnews.al/ekspertet-20-minuta-ecje-ne-dite-perfitimet-qe-sjell-per-trupin-dhe-mendjen/",
+      "description": "Në një kohë kur stili i jetesës po bëhet gjithnjë e më sedentar, ecja mbetet një nga format më të thjeshta dhe më të arritshme të aktivitetit fizik për njerëzit e çdo moshe. Ekspertët theksojnë se mjaftojnë vetëm 20 minuta ecje në ditë për të sjellë përfitime të rëndësishme për shëndetin fizik dhe m",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-24T20:24:53+00:00",
+      "dateStr": "24 May, 20:24",
+      "isNew": true,
+      "id": "abc11779654293"
+    },
+    {
+      "title": "GPS me Albana Ruçi, (24/05/2026)",
+      "link": "https://abcnews.al/gps-me-albana-ruci-24-05-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-24T20:09:56+00:00",
+      "dateStr": "24 May, 20:09",
+      "isNew": true,
+      "id": "abc21779653396"
+    },
+    {
+      "title": "“Pastrimi” paralajmëron qytetarët: Gjobë deri në 500 euro për hedhjen e mbeturinave në hapësira publike",
+      "link": "https://24-ore.com/pastrimi-paralajmeron-qytetaret-gjobe-deri-ne-500-euro-per-hedhjen-e-mbeturinave-ne-hapesira-publike/",
+      "description": "Kompania Rajonale e Mbeturinave “Pastrimi” ka bërë të ditur se rastet e hedhjes së mbeturinave në vende të palejuara po trajtohen me seriozitet të shtuar dhe tashmë janë dërguar në Inspektorat për procedura të mëtejshme ligjore. Sipas njoftimit të kësaj kompanie, synimi është rritja e disiplinës qyt",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-24T20:09:25+00:00",
+      "dateStr": "24 May, 20:09",
+      "isNew": true,
+      "id": "24 41779653365"
+    },
+    {
+      "title": "Shaip Kamberi për gazetën gjermane: “Demokratizimi i Serbisë nuk mund të bazohet në riprodhimin e modeleve të vjetra nacionaliste”",
+      "link": "https://24-ore.com/shaip-kamberi-per-gazeten-gjermane-demokratizimi-i-serbise-nuk-mund-te-bazohet-ne-riprodhimin-e-modeleve-te-vjetra-nacionaliste/",
+      "description": "Në një artikull mbi zhvillimet në Serbi, gazeta e mirënjohur gjermane “Frankfurter Allgemeine Zeitung” (FAZ) thekson se një pjesë e lëvizjes protestuese studentore karakterizohet nga një ton nacionalist. Së fundmi, kjo u bë e qartë përmes miratimit të një „memorandumi“ studentor, i cili në një gjuhë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-24T20:09:06+00:00",
+      "dateStr": "24 May, 20:09",
+      "isNew": true,
+      "id": "24 51779653346"
+    },
+    {
+      "title": "45′ e para të javës së fundit: Milan dhe Roma drejt arritjes së objektivit, Como nuk dorëzohet. Derbi nis me vonesë",
+      "link": "https://24-ore.com/45%e2%80%b2-e-para-te-javes-se-fundit-milan-dhe-roma-drejt-arritjes-se-objektivit-como-nuk-dorezohet-derbi-nis-me-vonese/",
+      "description": "Luhen këtë mbrëmje ndeshjet e fundit për këtë sezon në Serie A. Derbi Torino-Juventus është shtyrë me një orë vonesë për shkak të përplasjes mes tifozerive para ndeshjes. Milan po barazon 1-1 me Cagliari-n pas 45 minutave të para. Kuqezinjtë gjetën golin që në minutën e 2-të me Alexis Saelemaekers. ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-24T20:09:00+00:00",
+      "dateStr": "24 May, 20:09",
+      "isNew": true,
+      "id": "24 61779653340"
+    },
+    {
+      "title": "E rëndë në Korçë/ Jetonte i vetëm, 48-vjeçari i jep fund jetës",
+      "link": "https://abcnews.al/e-rende-ne-korce-jetonte-i-vetem-48-vjecari-i-jep-fund-jetes/",
+      "description": "Një ngjarje e rëndë është regjistruar në Korçë, ku një 48-vjeçar dyshohet se i ka dhënë fund jetës duke u vetëvarur në banesën e tij. Viktima është identifikuar si Dashamir Meçe, i cili sipas burimeve jetonte i vetëm pas divorcit. Paraprakisht dyshohet se gjendja e rënduar psikologjike mund ta ketë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-24T19:49:04+00:00",
+      "dateStr": "24 May, 19:49",
+      "isNew": true,
+      "id": "abc31779652144"
+    },
+    {
+      "title": "Sulmi ndaj kompleksit rezidencial të Ambasadorit shqiptar në Ukrainë, reagon Delegacioni i BE në Tiranë",
+      "link": "https://24-ore.com/sulmi-ndaj-kompleksit-rezidencial-te-ambasadorit-shqiptar-ne-ukraine-reagon-delegacioni-i-be-ne-tirane/",
+      "description": "Delegacioni i Bashkimit Europian në Tiranë ka reaguar pas sulmit me dronë dhe raketa nga Rusia në Kiev, ku u godit edhe kompleksi rezidencial ku banon ambasadori shqiptar në Ukrainë. Përmes një postimi në rrjetet sociale, BE dënoi ashpër sulmin, duke theksuar se është vënë në rrezik jeta e ambasador",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-24T19:39:40+00:00",
+      "dateStr": "24 May, 19:39",
+      "isNew": true,
+      "id": "24 71779651580"
+    },
+    {
+      "title": "‘Ka një zhgënjim të thellë tek ai’! Atmosfera në Rusi kthehet kundër Putinit",
+      "link": "https://24-ore.com/ka-nje-zhgenjim-te-thelle-tek-ai-atmosfera-ne-rusi-kthehet-kunder-putinit/",
+      "description": "Vladimir Putin u ndal në një hotel në qendër të Moskës në fillim të majit me një SUV të prodhimit rus, i veshur rastësisht me xhinse dhe një xhaketë të lehtë. Duke mbajtur një buqetë me lule, ai eci pa nxitim në holl dhe përqafoi ish-mësuesen e tij të shkollës, Vera Gurevich, e cila e [&#8230;]\nThe ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-24T19:39:30+00:00",
+      "dateStr": "24 May, 19:39",
+      "isNew": true,
+      "id": "24 81779651570"
+    },
+    {
+      "title": "Pse Kina ka dalë e fituar në Iran?",
+      "link": "https://24-ore.com/pse-kina-ka-dale-e-fituar-ne-iran/",
+      "description": "Në luftën midis Iranit dhe Shteteve të Bashkuara, një fitues po fillon të shfaqet. Është Pekini. Tre muaj krizë në Gjirin Persik kanë ngritur profilin diplomatik dhe kanë forcuar mjetet e presionit të kryeqytetit, përmes të cilave po kalojnë shumë nga protagonistët e krizave të vazhdueshme këto ditë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-24T19:39:20+00:00",
+      "dateStr": "24 May, 19:39",
+      "isNew": true,
+      "id": "24 91779651560"
+    },
+    {
+      "title": "Hezbollah kundër negociatave Liban-Izrael: Çarmatosja do të ishte “asgjësim”",
+      "link": "https://abcnews.al/hezbollah-kunder-negociatave-liban-izrael-carmatosja-do-te-ishte-asgjesim/",
+      "description": "Udhëheqësi i Hezbollah, Naim Qassem, i ka bërë thirrje qeverisë libaneze të ndërpresë bisedimet e drejtpërdrejta me Izraelin, duke paralajmëruar se çdo përpjekje për çarmatosjen e grupit do të ishte e barabartë me “asgjësimin” e tij. Në deklaratat e tij, Qassem e cilësoi të papranueshëm vazhdimin e ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-24T19:33:22+00:00",
+      "dateStr": "24 May, 19:33",
+      "isNew": true,
+      "id": "abc41779651202"
+    },
+    {
+      "title": "Newsroom me Erneta Shevroja, (24/05/2026)",
+      "link": "https://abcnews.al/newsroom-me-erneta-shevroja-24-05-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-24T19:14:53+00:00",
+      "dateStr": "24 May, 19:14",
+      "isNew": true,
+      "id": "abc51779650093"
+    },
+    {
+      "title": "Zbulimi që “erdhi” nga qielli/ Policë që dolën në bisedat e koduara, bashkëpunuan me krimin e organizuar",
+      "link": "https://abcnews.al/zbulimi-qe-erdhi-nga-qielli-police-qe-dolen-ne-bisedat-e-koduara-bashkepunuan-me-krimin-e-organizuar/",
+      "description": "Fushëbeteja e luftës mes të mirës dhe të keqes, mund të shndërrohet shumë lehtë në një fushë bashkëpunimi. Një bashkëpunim që kthehet në një makinë korrupsioni dhe ha koka edhe nga e mira edhe nga e keqja, duke lejuar kështu që të rritet një e keqe akoma më e madhe. Ata e nisën marshimin e [...]Read",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-24T19:00:42+00:00",
+      "dateStr": "24 May, 19:00",
+      "isNew": true,
+      "id": "abc61779649242"
+    },
+    {
+      "title": "Delegacioni i BE dënon sulmin rus në Kiev: Qëndrojmë në solidaritet me Ukrainën dhe Shqipërinë",
+      "link": "https://abcnews.al/delegacioni-i-be-denon-sulmin-rus-ne-kiev-qendrojme-ne-solidaritet-me-ukrainen-dhe-shqiperine/",
+      "description": "Delegacioni i Bashkimit Evropian në Shqipëri ka dënuar me forcë sulmin me dronë dhe raketa të ndërmarrë gjatë natës nga Rusia ndaj Kievit, i cili ka shkaktuar viktima dhe dëme të shumta materiale. Në një reagim zyrtar, BE thekson se sulmi ka goditur gjithashtu rezidencën e ambasadorit të Shqipërisë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-24T18:28:27+00:00",
+      "dateStr": "24 May, 18:28",
+      "isNew": true,
+      "id": "abc71779647307"
     },
     {
       "title": "“Shenzhou-23”/ Kina dërgon astronautë në hapësirë për një vit, synon Hënën",
@@ -23,7 +210,7 @@
       "date": "2026-05-24T17:59:42+00:00",
       "dateStr": "24 May, 17:59",
       "isNew": true,
-      "id": "abc01779645582"
+      "id": "abc81779645582"
     },
     {
       "title": "Pas pak “Gjërat Tona”, na ndiqni në ABC News",
@@ -34,194 +221,7 @@
       "date": "2026-05-24T17:54:27+00:00",
       "dateStr": "24 May, 17:54",
       "isNew": true,
-      "id": "abc11779645267"
-    },
-    {
-      "title": "Rrezikoi pushuesit me gomone, Lamallari: ‘Trimat’ si ky, ta gëzojnë gjobën prej 5 mln lekësh",
-      "link": "https://24-ore.com/rrezikoi-pushuesit-me-gomone-lamallari-trimat-si-ky-ta-gezojne-gjoben-prej-5-mln-lekesh/",
-      "description": "Ministri i Punëve të Brendshme, Besfort Lamallari, ka reaguar ashpër ndaj një rasti të rrezikshëm të evidentuar në plazhin e Dhërmiut, ku një mjet lundrues ka hyrë brenda perimetrit të sigurisë së pushuesve, duke vënë në rrezik jetën e qytetarëve. Në një reagim në rrjetet sociale, Lamallari shkruan ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-24T17:46:36+00:00",
-      "dateStr": "24 May, 17:46",
-      "isNew": true,
-      "id": "24 11779644796"
-    },
-    {
-      "title": "“PD u kthye në parti të një individi”/ Kadilli: Berisha nuk ka më të ardhme politike!",
-      "link": "https://24-ore.com/pd-u-kthye-ne-parti-te-nje-individi-kadilli-berisha-nuk-ka-me-te-ardhme-politike/",
-      "description": "Ish-deputeti i Partisë Demokratike Fatbardh Kadilli, ka kritikuar situatën aktuale në parti, duke deklaruar se PD ka humbur karakterin e saj fillestar si forcë e lirë politike dhe është shndërruar në “parti të një individi”. Në një intervistë në “Newsroom” në ABC News, Kadilli komentoi zgjedhjet e f",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-24T17:46:25+00:00",
-      "dateStr": "24 May, 17:46",
-      "isNew": true,
-      "id": "24 21779644785"
-    },
-    {
-      "title": "Tirana zyrtare notë verbale Rusisë për sulmin në kompleksin rezidencial të ambasadorit",
-      "link": "https://24-ore.com/tirana-zyrtare-note-verbale-rusise-per-sulmin-ne-kompleksin-rezidencial-te-ambasadorit/",
-      "description": "Ministria për Evropën dhe Punët e Jashtme thirri ditën e diel, 24 maj, Ambasadorin e Federatës Ruse në Tiranë, Alexey Zaitsev, për t’i përcjellë protestën e ashpër pas sulmeve masive përgjatë natës me dronë dhe raketa, gjatë të cilave u godit kompleksi rezidencial ku banon Ambasadori i Republikës së",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-24T17:45:37+00:00",
-      "dateStr": "24 May, 17:45",
-      "isNew": true,
-      "id": "24 31779644737"
-    },
-    {
-      "title": "Ankesa për ndarjen e buxhetit të kulturës në Kërçovë, vetëm 16% të mjeteve janë ndarë për shqiptarët",
-      "link": "https://24-ore.com/ankesa-per-ndarjen-e-buxhetit-te-kultures-ne-kercove-vetem-16-te-mjeteve-jane-ndare-per-shqiptaret/",
-      "description": "Kërçova për këtë vit mban epitetin “Qytet i kulturës”, por ka pakënaqësi se si janë ndarë mjetet për financimin e projekteve kulturore nga ana e komunës. Shoqatat shqiptare reagojnë duke thënë se as çereku i mjeteve të parapara nuk janë ndarë për to. Madje shtojnë se janë refuzuar projekte e shoqata",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-24T17:38:33+00:00",
-      "dateStr": "24 May, 17:38",
-      "isNew": true,
-      "id": "24 41779644313"
-    },
-    {
-      "title": "Harry Kane refuzoi PSG-në për një arsye madhore, por që sot mund të jetë bërë pishman",
-      "link": "https://24-ore.com/harry-kane-refuzoi-psg-ne-per-nje-arsye-madhore-por-qe-sot-mund-te-jete-bere-pishman/",
-      "description": "Harry Kane, Michael Olise dhe Rayan Cherki, sot mund të ishin të tre pjesë e ekipit të PSG-së, zbulon L’Equipe. Në vitin 2023, PSG kërkoi me ngulm Harry Kane, por anglezi zgjodhi Bayern sepse sishte i bindur që klubi parizien ishte dobësuar me largimin e Messi-t dhe Neymar dhe nuk do të ishte i aftë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-24T17:38:26+00:00",
-      "dateStr": "24 May, 17:38",
-      "isNew": true,
-      "id": "24 51779644306"
-    },
-    {
-      "title": "“PD u kthye në parti të një individi”/ Kadilli: Berisha nuk jep më shpresë tek shqiptarët, nuk ka më të ardhme politike",
-      "link": "https://abcnews.al/pd-u-kthye-ne-parti-te-nje-individi-kadilli-berisha-nuk-jep-me-shprese-tek-shqiptaret-nuk-ka-me-te-ardhme-politike/",
-      "description": "Ish-deputeti i Partisë Demokratike Fatbardh Kadilli, ka kritikuar situatën aktuale në parti, duke deklaruar se PD ka humbur karakterin e saj fillestar si forcë e lirë politike dhe është shndërruar në “parti të një individi”. Në një intervistë në “Newsroom” në ABC News, Kadilli komentoi zgjedhjet e f",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-24T17:28:17+00:00",
-      "dateStr": "24 May, 17:28",
-      "isNew": true,
-      "id": "abc21779643697"
-    },
-    {
-      "title": "Ja pse kjo garë të ngjan me garat e kohës së PPSH",
-      "link": "https://24-ore.com/ja-pse-kjo-gare-te-ngjan-me-garat-e-kohes-se-ppsh/",
-      "description": "Nga Roland Lami Atëherë si sot dihej fituesi para se të hapej votimi, sepse nuk kishte kundërshtar. Atëherë zgjedhjet organizoheshin për të rikonfirmuar liderin suprem edhe këto zgjedhje u zhvilluan për të konfirmuar liderin suprem. Me pak fjalë, nuk ishte garë për të zgjedhur drejtimin, por ceremon",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-24T17:17:11+00:00",
-      "dateStr": "24 May, 17:17",
-      "isNew": true,
-      "id": "24 61779643031"
-    },
-    {
-      "title": "Rruga drejt BE-së, Emini: Kosova s’po i ndihmon vetes, jemi pa qeveri",
-      "link": "https://24-ore.com/rruga-drejt-be-se-emini-kosova-spo-i-ndihmon-vetes-jemi-pa-qeveri/",
-      "description": "Politologia Donika Emini në emisionin “Info Magazine” ka deklaruar se secili vend i Bashkimit Evropian e ka nga një vend që e shtyn përpara më shumë se tjetrin. Megjithatë, sipas saj, një të tillë nuk e ka edhe Kosova. “Kosovën nuk e shtyn askush sepse Kosova nuk po e shtyn as veten. Kosova ka probl",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-24T17:08:53+00:00",
-      "dateStr": "24 May, 17:08",
-      "isNew": true,
-      "id": "24 71779642533"
-    },
-    {
-      "title": "Delegacion i Kongresit amerikan viziton Luginën e Preshevës, Bajraktari: Mesazh i fuqishëm për shqiptarët",
-      "link": "https://24-ore.com/delegacion-i-kongresit-amerikan-viziton-luginen-e-presheves-bajraktari-mesazh-i-fuqishem-per-shqiptaret/",
-      "description": "Një delegacion zyrtar i Kongresit të SHBA-së, i udhëhequr nga Keith Self, kryetar i Nënkomitetit për Evropën në Komisionin për Punë të Jashtme të Kongresit Amerikan, ka vizituar Luginën e Preshevës. Lidhur me këtë vizitë ka reaguar veprimtari shqiptaro-amerikan Harry Bajraktari, i cili e cilësoi atë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-24T17:08:42+00:00",
-      "dateStr": "24 May, 17:08",
-      "isNew": true,
-      "id": "24 81779642522"
-    },
-    {
-      "title": "PL mbyll siparin. Arsenal nis festën. Guardiola e mbyll me lot. Tottenham shpëton, Sunderland shkruan historinë",
-      "link": "https://24-ore.com/pl-mbyll-siparin-arsenal-nis-festen-guardiola-e-mbyll-me-lot-tottenham-shpeton-sunderland-shkruan-historine/",
-      "description": "Premier League ka mbyllur sonte siparin për sezonin 2025-2026. Arsenal fiton titullin kampion pas plot 22 vitesh. Bashkë me “Topçinjtë” në Champions League do të shkojnë edhe Man. City i vendit të dytë, Man. United i vendit të tretë, Aston Villa e vendit të katërt dhe Liverpool e vendit të pestë. Ar",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-24T17:08:36+00:00",
-      "dateStr": "24 May, 17:08",
-      "isNew": true,
-      "id": "24 91779642516"
-    },
-    {
-      "title": "DW: Projektet më të mëdha të mbrojtjes në Evropë, në rrezik",
-      "link": "https://abcnews.al/dw-projektet-me-te-medha-te-mbrojtjes-ne-evrope-ne-rrezik/",
-      "description": "Evropa donte të ndërtonte së bashku një avion luftarak të gjeneratës së ardhshme. Në vend të kësaj, projekti më i madh i saj në fushën e mbrojtjes mund të prodhojë tani dy avionë të ndryshëm luftarakë. Airbus, i cili përfaqëson palën gjermane dhe spanjolle në Sistemin e Ardhshëm Luftarak Ajror (FCAS",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-24T16:29:25+00:00",
-      "dateStr": "24 May, 16:29",
-      "isNew": true,
-      "id": "abc31779640165"
-    },
-    {
-      "title": "Netanyahu pas bisedës me Trump: Marrëveshja me Iranin duhet të eliminojë plotësisht rrezikun bërthamor",
-      "link": "https://abcnews.al/netanyahu-pas-bisedes-me-trump-marreveshja-me-iranin-duhet-te-eliminoje-plotesisht-rrezikun-berthamor/",
-      "description": "Kryeministri i Izraelit, Benjamin Netanyahu, ka bërë të ditur se ka zhvilluar një bisedë telefonike me presidentin amerikan Donald Trump, gjatë së cilës kanë diskutuar zhvillimet rreth negociatave me Iranin. Në një postim në platformën X, Netanyahu tha se me Trump kanë trajtuar dy nga çështjet kryes",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-24T16:08:50+00:00",
-      "dateStr": "24 May, 16:08",
-      "isNew": true,
-      "id": "abc41779638930"
-    },
-    {
-      "title": "News Hour me Erneta Shevroja, (24/05/2026)",
-      "link": "https://abcnews.al/news-hour-me-erneta-shevroja-24-05-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-24T15:46:24+00:00",
-      "dateStr": "24 May, 15:46",
-      "isNew": true,
-      "id": "abc51779637584"
-    },
-    {
-      "title": "Protestat e studentëve për Shqipen/ Mickoski: Shumë shpejt, zgjidhja për provimin e jurisprudencës",
-      "link": "https://abcnews.al/protestat-e-studenteve-per-shqipen-mickoski-shume-shpejt-zgjidhja-per-provimin-e-jurisprudences/",
-      "description": "Kryeministri Hristijan Mickoski deklaroi se është i gatshëm të diskutohet përdorimi i gjuhëve në provimin e jurisprudencës, duke theksuar se të gjithë duhet të kenë të drejtën të përdorin gjuhën e tyre në përputhje me Kushtetutën dhe ligjet në fuqi. Gjithashtu Mickoski tha se nuk sheh pengesa për av",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-24T15:37:06+00:00",
-      "dateStr": "24 May, 15:37",
-      "isNew": true,
-      "id": "abc61779637026"
-    },
-    {
-      "title": "Turqi/ Policia bastis selinë e opozitës! Nxjerr kryetarin e ngujuar, gjykata ktheu ne post ish-liderin",
-      "link": "https://abcnews.al/turqi-policia-bastis-seline-e-opozites-nxjerr-kryetarin-e-ngujuar-gjykata-ktheu-ne-post-ish-liderin/",
-      "description": "Policia turke bastisi zyrat e partisë kryesore opozitare të vendit, duke hedhur gaz lotsjellës dhe duke qëlluar me plumba gome ndaj mbështetësve dhe zyrtarëve të partisë që ishin mbyllur brenda për tre ditë. Ky ishte një fund i dhunshëm i një përplasjeje midis anëtarëve të Partisë Republikane Popull",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-24T15:20:02+00:00",
-      "dateStr": "24 May, 15:20",
-      "isNew": true,
-      "id": "abc71779636002"
-    },
-    {
-      "title": "I njohur për Shërbimin Sekret amerikan/ Kush ishte 21-vjeçari që hapi zjarr pranë Shtëpisë së Bardhë?",
-      "link": "https://abcnews.al/i-njohur-per-sherbimin-sekret-amerikan-kush-ishte-21-vjecari-qe-hapi-zjarr-prane-shtepise-se-bardhe/",
-      "description": "21-vjeçari nga Merilendi, i identifikuar si Nasir Best, i cili hapi zjarr në Shtëpinë e Bardhë, ishte një person i njohur për Shërbimin Sekret amerikan. Sipas raportimeve të mediave amerikane, Best besohet se vuante nga probleme të shëndetit mendor dhe kishte pasur disa përplasje me autoritetet gjat",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-24T15:10:13+00:00",
-      "dateStr": "24 May, 15:10",
-      "isNew": true,
-      "id": "abc81779635413"
-    },
-    {
-      "title": "News Hour me Emilian Islami, (24/05/2026)",
-      "link": "https://abcnews.al/news-hour-me-emilian-islami-24-05-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-24T14:44:11+00:00",
-      "dateStr": "24 May, 14:44",
-      "isNew": true,
-      "id": "abc91779633851"
+      "id": "abc91779645267"
     },
     {
       "title": "Greqi: Flet babai i 19-vjeçares shqiptare: Humba jo engjëllin tim, por jetën time. Vajzën ma futën në kurth, e flakën pasi i bënë gjëra të tmerrshme!",
