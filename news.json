@@ -1,106 +1,194 @@
 {
-  "lastUpdated": "2026-05-27T20:37:10.426078+00:00",
+  "lastUpdated": "2026-05-28T00:17:03.816278+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Plagosën me armë pakistanezin në Greqi, arrestohen 3 shqiptarë, 2 të tjerë ja mbathin",
-      "link": "https://24-ore.com/plagosen-me-arme-pakistanezin-ne-greqi-arrestohen-3-shqiptare-2-te-tjere-ja-mbathin/",
-      "description": "Dy shqiptarë janë arrestuar dhe dy shqiptarë të tjerë janë shpallur në kërkim në Greqi, për plagosjen me armë zjarri të një pronari dyqani celularësh me origjinë pakistaneze. Mediat greke bëjnë të ditur se ngjarja ndodhi në Patisia në dyqanin e celularëve, ku një person i panjohur hyri në dyqan dhe ",
+      "title": "Europa & Conference League: Mësohen gjysmëfinalistët e parë. Ekipi i Bundesligës turpëron spanjollët e Celta Vigo",
+      "link": "https://24-ore.com/europa-conference-league-mesohen-gjysmefinalistet-e-pare-ekipi-i-bundesliges-turperon-spanjollet-e-celta-vigo-6/",
+      "description": "Freiburg është ekipi i parë që siguron biletën për në gjysmëfinale. Ekipi i Bundesligës ka fituar edhe në ndeshjen e kthimit 1-3 ndaj spanjollëve të Celta Vigo. Gjermanët shkojnë në gjysmëfinale me rezultatin e përgjithshëm 6-1, pasi në shtëpi fituan 3-0 një javë më parë. Përsa i përket takimit të s",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-05-27T20:21:42+00:00",
+      "date": "2026-05-28T00:08:43+00:00",
+      "dateStr": "28 May, 00:08",
+      "isNew": true,
+      "id": "24 01779926923"
+    },
+    {
+      "title": "PD miraton ndryshimet në statut. Shtyhet votimi për kandidatët në Këshillin Kombëtar",
+      "link": "https://24-ore.com/pd-miraton-ndryshimet-ne-statut-shtyhet-votimi-per-kandidatet-ne-keshillin-kombetar/",
+      "description": "Kryesia e Partisë Demokratike ka miratuar ndryshimet e propozuara në statutin e partisë, bëjnë me dije burime për Euronews Albania. Vendimi është marrë gjatë mbledhjes së zhvilluar këtë të mërkurë, ku në fokus kanë qenë ndryshimet organizative dhe strukturore të forcës politike. Ndërkohë, sa i përke",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-27T23:38:01+00:00",
+      "dateStr": "27 May, 23:38",
+      "isNew": true,
+      "id": "24 11779925081"
+    },
+    {
+      "title": "“PD po shkon drejt së shkuarës”/ Bejko: Berisha, jo legjitim në krye të Partisë Demokratike",
+      "link": "https://abcnews.al/pd-po-shkon-drejt-se-shkuares-bejko-berisha-jo-legjitim-ne-krye-te-partise-demokratike/",
+      "description": "Politologu Roland Bejko thotë se PD po shkon drejt së shkuarës, nën drejtimin e Sali Berishës. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Bejko u shpreh se Berisha realizoi proces fals, duke rizgjedhur veten në krye të PD. Bejko shtoi se Berisha nuk është legjitim, si kryetar i PD",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-27T21:40:09+00:00",
+      "dateStr": "27 May, 21:40",
+      "isNew": true,
+      "id": "abc01779918009"
+    },
+    {
+      "title": "Dy gra nënkryetare të PD? Gazetari Hoxha zbardh ndryshimet në statut",
+      "link": "https://24-ore.com/dy-gra-nenkryetare-te-pd-gazetari-hoxha-zbardh-ndryshimet-ne-statut/",
+      "description": "Gazetari Ardit Hoxha solli detaje nga ndryshimet e parashikuara në statutin e Partisë Demokratike të prezantuara mbrëmjen e së mërkurës. Ne emisionin Now ne Euronews Albania, ai shpjegoi se nisur nga kuota 40 për qind për gra në organet drejtuese nuk përjashtohet mundësia që të jenë 2 zonja nënkryet",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-27T21:39:50+00:00",
+      "dateStr": "27 May, 21:39",
+      "isNew": true,
+      "id": "24 21779917990"
+    },
+    {
+      "title": "“85% e bizneseve nuk i plotësojnë kushtet për BE”? Ekspertja: Na pret provimi më i vështirë",
+      "link": "https://24-ore.com/85-e-bizneseve-nuk-i-plotesojne-kushtet-per-be-ekspertja-na-pret-provimi-me-i-veshtire/",
+      "description": "E ftuar këtë të mërkurë në emisionin Now me Erla Mëhillin, ekspertja e ekonomisë Zana Guxholli foli për sfidat që Shqipëria duhet të kaloj për t’u futur në Bashkimin Evropian. Ajo theksoi se, ndonëse vendi ka bërë përparime që nga periudha e pas-komunizmit, sipas saj mbeten ende shumë kritere për t’",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-27T21:39:25+00:00",
+      "dateStr": "27 May, 21:39",
+      "isNew": true,
+      "id": "24 31779917965"
+    },
+    {
+      "title": "Integrimi në BE, Shkodra: Standardet europiane parashikojnë dhe gjoba deri në 10 mln euro",
+      "link": "https://24-ore.com/integrimi-ne-be-shkodra-standardet-europiane-parashikojne-dhe-gjoba-deri-ne-10-mln-euro/",
+      "description": "I ftuar në “Now me Erla Mëhillin”, Arben Shkodra nga Bashkimi i Prodhuesve Shqiptarë foli për procesin e integrimit të Shqipërisë në Bashkimin Europian dhe sfidat që sipas tij shoqërojnë përafrimin e legjislacionit shqiptar me standardet europiane. Shkodra u shpreh se Shqipëria po kalon me ritme shu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-27T21:39:11+00:00",
+      "dateStr": "27 May, 21:39",
+      "isNew": true,
+      "id": "24 41779917951"
+    },
+    {
+      "title": "Standardet e BE, Zusi: Merr fund shitja e qumështit në shishe plastike por rritet çmimi",
+      "link": "https://24-ore.com/standardet-e-be-zusi-merr-fund-shitja-e-qumeshtit-ne-shishe-plastike-por-rritet-cmimi/",
+      "description": "I ftuar në “Now me Erla Mëhillin”, presidenti i Shoqatës së Eksportuesve Shqiptarë, Alban Zusi, foli për ndikimin që procesi i integrimit në Bashkimin Europian pritet të ketë te bizneset shqiptare, duke paralajmëruar se përshtatja me standardet europiane do të sjellë kosto të larta për prodhuesit ve",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-27T21:38:40+00:00",
+      "dateStr": "27 May, 21:38",
+      "isNew": true,
+      "id": "24 51779917920"
+    },
+    {
+      "title": "“Omani mos të ndërhyjë”, Trump: Ngushtica e Hormuzit do të jetë e hapur për të gjithë, SHBA-të do ta mbikëqyrin",
+      "link": "https://24-ore.com/omani-mos-te-nderhyje-trump-ngushtica-e-hormuzit-do-te-jete-e-hapur-per-te-gjithe-shba-te-do-ta-mbikeqyrin/",
+      "description": "Presidenti Donald Trump tha se Ngushtica e Hormuzit do të jetë “e hapur për të gjithë” dhe se SHBA-të do ta “mbikëqyrin atë”, duke shtuar se këto kushte janë pjesë e negociatave me Iranin. Trump e paralajmëroi gjithashtu Omanin të mos ndërhynte. “Omani do të sillet njësoj si të gjithë të tjerët ose ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-27T21:38:20+00:00",
+      "dateStr": "27 May, 21:38",
+      "isNew": true,
+      "id": "24 61779917900"
+    },
+    {
+      "title": "Të shtëna me armë zjarri në Prishtinë, një viktimë",
+      "link": "https://abcnews.al/te-shtena-me-arme-zjarri-ne-prishtine-nje-viktime/",
+      "description": "Një person ka mbetur i vdekur si pasojë e të shtënave me armë zjarri që kanë ndodhur mbrëmjen e së mërkurës në Prishtinë. Rasti ka ndodhur rreth orës 20:30 në rrugën “Sali Nivica”, në lagjen Bregu i Diellit. Lajmin e ka konfirmuar zëdhënësi i Policisë për rajonin e Prishtinës, Enis Pllana, i cili bë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-27T21:24:25+00:00",
+      "dateStr": "27 May, 21:24",
+      "isNew": true,
+      "id": "abc11779917065"
+    },
+    {
+      "title": "Vangjeli: Kemi shumë probleme me Greqinë, ja faktori që mund të kushtëzojë politikat me fqinjët!",
+      "link": "https://24-ore.com/vangjeli-kemi-shume-probleme-me-greqine-ja-faktori-qe-mund-te-kushtezoje-politikat-me-fqinjet/",
+      "description": "Lorenc Vangjeli, i ftuar në emisionin Trialog, deklaroi se marrëdhëniet mes Shqipëria dhe Greqia vazhdojnë të kenë disa çështje të hapura, ku përmendi edhe çështjen e detit si një nga problemet kryesore. Sipas tij, një faktor që mund të ndikojë ose kushtëzojë politikat mes dy vendeve është prania e ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-27T21:22:01+00:00",
+      "dateStr": "27 May, 21:22",
+      "isNew": true,
+      "id": "24 71779916921"
+    },
+    {
+      "title": "Vizita e Dendias në Tiranë, Preç Zogaj: Ftohje mes dy vendeve vitet e fundit",
+      "link": "https://24-ore.com/vizita-e-dendias-ne-tirane-prec-zogaj-ftohje-mes-dy-vendeve-vitet-e-fundit/",
+      "description": "Në emisionin “Trialog”, analisti Preç Zogaj ka vënë në dukje ndryshimin e dukshëm të klimës në marrëdhëniet shqiptaro-greke. “Mos harrojmë se para pak vitesh, edhe kolegët ndoshta e kujtojnë, kur vinte një ministër këtu – qoftë i Mbrojtjes, qoftë i Jashtëm grek – dyndeshin reporterët, bëheshin prote",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-27T21:21:46+00:00",
+      "dateStr": "27 May, 21:21",
+      "isNew": true,
+      "id": "24 81779916906"
+    },
+    {
+      "title": "MPB: Vendoset Kod i veshjes për punonjësit dhe palët në objektet e Departamentit për Çështje Civile pranë MPB",
+      "link": "https://24-ore.com/mpb-vendoset-kod-i-veshjes-per-punonjesit-dhe-palet-ne-objektet-e-departamentit-per-ceshtje-civile-prane-mpb/",
+      "description": "Ministria e Punëve të Brendshme njofton opinionin publik se, me qëllim të ruajtjes së standardit profesional, dinjitetit të institucionit dhe respektit të ndërsjellë, është vendosur Kodi i veshjes për të gjithë punonjësit dhe qytetarët që vizitojnë ambientet e Departamentit për Çështje Civile pranë ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-05-27T21:09:38+00:00",
+      "dateStr": "27 May, 21:09",
+      "isNew": true,
+      "id": "24 91779916178"
+    },
+    {
+      "title": "SHBA të pakënaqur me negociatat/ Trump: Nëse nuk pranohen kushtet tona, godasim sërish Iranin",
+      "link": "https://abcnews.al/shba-te-pakenaqur-me-negociatat-trump-nese-nuk-pranohen-kushtet-tona-godasim-serish-iranin/",
+      "description": "Presidenti amerikan Donald Trump deklaroi se Shtetet e Bashkuara nuk janë ende të kënaqura me kushtet e marrëveshjes që po negociohet me Iranin, duke paralajmëruar se Uashingtoni mund të rikthejë sulmet ushtarake nëse nuk arrihet një dakordësi përfundimtare. Gjatë një mbledhjeje të kabinetit në Shte",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-27T21:07:30+00:00",
+      "dateStr": "27 May, 21:07",
+      "isNew": true,
+      "id": "abc21779916050"
+    },
+    {
+      "title": "“Aty ku dikur jetonte nomenklatura komuniste, sot një italiane sjell shijen autentike të Firences”",
+      "link": "https://abcnews.al/aty-ku-dikur-jetonte-nomenklatura-komuniste-sot-nje-italiane-sjell-shijen-autentike-te-firences/",
+      "description": "Në pjesën e dytë të këtij udhëtimi njerëzor, në emisioinin “Të Gjitha Rrugët të Çojnë në Romë” në ABC News, historia zhvendoset në zemër të Tiranës, në Bllok, lagjja që dikur ishte simboli i izolimit dhe privilegjit të nomenklaturës komuniste, ndërsa sot është kthyer në zonën më dinamike dhe më euro",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-27T20:44:18+00:00",
+      "dateStr": "27 May, 20:44",
+      "isNew": true,
+      "id": "abc31779914658"
+    },
+    {
+      "title": "Real Story me Sokol Ballën, (27/05/2026)",
+      "link": "https://abcnews.al/real-story-me-sokol-ballen-27-05-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-27T20:27:48+00:00",
+      "dateStr": "27 May, 20:27",
+      "isNew": true,
+      "id": "abc41779913668"
+    },
+    {
+      "title": "Të Gjitha Rrugë të Çojnë në Romë/ Nga Italia në Bërxullë: Histori kthimi, dashurie dhe një Shqipëri që po rilind",
+      "link": "https://abcnews.al/te-gjitha-rruge-te-cojne-ne-rome-nga-italia-ne-berxulle-histori-kthimi-dashurie-dhe-nje-shqiperi-qe-po-rilind/",
+      "description": "Ka vende që nuk maten me hartë, por me njerëzit që zgjedhin t’u rikthehen. Bërxulla, në këtë rrëfim njerëzor mes shqiptarësh dhe italianësh, nuk është thjesht një ndalesë. Është një pikëtakim historish, sakrificash, dashurie dhe identiteti. Udhëtimi nis me zbritjen në Bërxullë dhe pritjen e ngrohtë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-05-27T20:21:05+00:00",
       "dateStr": "27 May, 20:21",
       "isNew": true,
-      "id": "24 01779913302"
+      "id": "abc51779913265"
     },
     {
-      "title": "“Opeli” përplas 21-vjeçaren që lëvizte me biçikletë në Vlorë, e reja përfundon në spital",
-      "link": "https://24-ore.com/opeli-perplas-21-vjecaren-qe-levizte-me-biciklete-ne-vlore-e-reja-perfundon-ne-spital-2/",
-      "description": "Një aksident është regjistruar mbrëmjen e kësaj të mërkure në rrugën e Plazhit të Vjetër në Vlorë, ku një automjet ka përplasur një këmbësor. Policia ka mbërritur menjëherë në vendngjarje dhe po punon për sqarimin e rrethanave të aksidentit. Mësohet se ngjarja ka ndodhur rreth orës 20:45 në rrugën “",
-      "source": "24 ORE",
+      "title": "Botërori/ Çmimet e larta të biletave, prokurorët e Nju Jorkut dhe Nju Xhersit kërkojnë shpjegime nga FIFA",
+      "link": "https://abcnews.al/boterori-cmimet-e-larta-te-biletave-prokuroret-e-nju-jorkut-dhe-nju-xhersit-kerkojne-shpjegime-nga-fifa/",
+      "description": "Prokurorët e Përgjithshëm të Nju Jorkut dhe Nju Xhersit nisën një hetim mbi praktikat e çmimeve të FIFA-s për ndeshjet në stadiumin MetLife të Nju Xhersit, duke kërkuar dokumente nga organizatori i turneut. Të mërkurën, Letitia James dhe Jennifer Davenport njoftuan se po shqyrtojnë nëse tifozët “mun",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-05-27T20:21:29+00:00",
-      "dateStr": "27 May, 20:21",
+      "date": "2026-05-27T20:09:25+00:00",
+      "dateStr": "27 May, 20:09",
       "isNew": true,
-      "id": "24 11779913289"
-    },
-    {
-      "title": "Procesi ndaj Veliajt/ Ish-prokurori: Po privohet nga ushtrimi i detyrës së kryebashkiakut; Juristi: Nasta dhe Nesti duhet të",
-      "link": "https://24-ore.com/procesi-ndaj-veliajt-ish-prokurori-po-privohet-nga-ushtrimi-i-detyres-se-kryebashkiakut-juristi-nasta-dhe-nesti-duhet-te/",
-      "description": "Ish-prokurori Ervin Karanxha ka deklaruar se Gjykata Kushtetuese konstatoi dy shkelje në procesin ndaj kryebashkiakut të Tiranës, Erion Veliaj, të cilat sipas tij janë ‘qëndrimi në kafaz xhami gjatë seancave gjyqësore dhe masa e sigurisë arrest me burg’. Duke komentuar vendimin e disa ditëve më parë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-27T20:21:10+00:00",
-      "dateStr": "27 May, 20:21",
-      "isNew": true,
-      "id": "24 21779913270"
-    },
-    {
-      "title": "Kongresisti amerikan Keith Self në mbështetje të studentëve: Të zbatohet Marrëveshja e Ohrit dhe të ruhen të drejtat e shqiptarëve",
-      "link": "https://24-ore.com/kongresisti-amerikan-keith-self-ne-mbeshtetje-te-studenteve-te-zbatohet-marreveshja-e-ohrit-dhe-te-ruhen-te-drejtat-e-shqiptareve/",
-      "description": "Kongresisti amerikan Keith Self zhvilloi sot në Maqedoninë e Veriut takime të ndara me përfaqësues të Lëvizjes Studentore shqiptare dhe me liderë të opozitës shqiptare nga Maqedonia e Veriut, ku u diskutua për zhvillimet politike në vend, pozitën e shqiptarëve dhe nevojën për zbatimin e plotë të Mar",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-27T20:08:55+00:00",
-      "dateStr": "27 May, 20:08",
-      "isNew": true,
-      "id": "24 31779912535"
-    },
-    {
-      "title": "Aksident në zonën e Plazhit të Vjetër në Vlorë, makina përplas një këmbësor",
-      "link": "https://24-ore.com/aksident-ne-zonen-e-plazhit-te-vjeter-ne-vlore-makina-perplas-nje-kembesor/",
-      "description": "Një aksident rrugor është regjistruar në zonën e Plazhit të Vjetër në Vlorë mbrëmjen e së mërkurës, ku një automjet ka përplasur një këmbësor në një nga rrugët e zonës. Menjëherë pas ngjarjes, në vendngjarje kanë mbërritur shërbimet e emergjencës, të cilat kanë transportuar të plagosurin me urgjencë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-27T20:08:41+00:00",
-      "dateStr": "27 May, 20:08",
-      "isNew": true,
-      "id": "24 41779912521"
-    },
-    {
-      "title": "Nis rimbursimi për familjet me fëmijë në ngarkim, 34,263 individë përfitues",
-      "link": "https://24-ore.com/nis-rimbursimi-per-familjet-me-femije-ne-ngarkim-34263-individe-perfitues/",
-      "description": "Ka nisur procesi i rimbursimit për 34,263 individë që kanë deklaruar 1 ose 2 fëmijë në ngarkim në DIVA 2025 dhe kanë rezultuar me tatim të mbipaguar. Sipas njoftimit, pagesat do të kalojnë në llogaritë bankare të deklaruara nga vetë përfituesit. Ky proces përbën një lehtësi fiskale që synon mbështet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-27T20:08:27+00:00",
-      "dateStr": "27 May, 20:08",
-      "isNew": true,
-      "id": "24 51779912507"
-    },
-    {
-      "title": "Von der Leyen bisedë telefonike me Zelensky: E përsërita mbështetjen e plotë të Evropës për Ukrainën",
-      "link": "https://24-ore.com/von-der-leyen-bisede-telefonike-me-zelensky-e-perserita-mbeshtetjen-e-plote-te-evropes-per-ukrainen/",
-      "description": "Presidentja e Komisionit Evropian, Ursula von der Leyen , pati një bisedë telefonike me Presidentin e Ukrainës, Volodymyr Zelensky shkroi ajo në një postim në X. Siç thekson Presidentja e Komisionit Evropian në postimin e saj: “Unë përsërita mbështetjen e plotë të Evropës për Ukrainën , ndërsa Rusia",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-27T20:08:13+00:00",
-      "dateStr": "27 May, 20:08",
-      "isNew": true,
-      "id": "24 61779912493"
-    },
-    {
-      "title": "Shkeli perimetrin e sigurisë me “Jet Ski” dhe rrezikoi pushuesit, 100 mijë lekë gjobë për drejtuesin në Velipojë",
-      "link": "https://24-ore.com/shkeli-perimetrin-e-sigurise-me-jet-ski-dhe-rrezikoi-pushuesit-100-mije-leke-gjobe-per-drejtuesin-ne-velipoje/",
-      "description": "Policia Kufitare e Velipojës ka intensifikuar kontrollet dhe patrullimet përgjatë vijës bregdetare të Velipojës, me qëllim garantimin e sigurisë për pushuesit gjatë sezonit turistik. Mbi të gjitha pas qarkullimit të një videoje në rrjetet sociale, ku një mjet lundrues shihej duke lëvizur me shpejtës",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-27T19:59:41+00:00",
-      "dateStr": "27 May, 19:59",
-      "isNew": true,
-      "id": "24 71779911981"
-    },
-    {
-      "title": "“Opeli” përplas 21-vjeçaren që lëvizte me biçikletë në Vlorë, e reja përfundon në spital",
-      "link": "https://24-ore.com/opeli-perplas-21-vjecaren-qe-levizte-me-biciklete-ne-vlore-e-reja-perfundon-ne-spital/",
-      "description": "Një aksident është regjistruar mbrëmjen e kësaj të mërkure në rrugën e Plazhit të Vjetër në Vlorë, ku një automjet ka përplasur një këmbësor. Policia ka mbërritur menjëherë në vendngjarje dhe po punon për sqarimin e rrethanave të aksidentit. Gazetarja e Klan News, Greta Haskaj, raporton se ngjarja k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-27T19:59:29+00:00",
-      "dateStr": "27 May, 19:59",
-      "isNew": true,
-      "id": "24 81779911969"
+      "id": "abc61779912565"
     },
     {
       "title": "“Ukraina fitoi epërsi me dronë dhe mbështetjen e Europës”, eksperti Qirjazi: 500 mijë ushtarë rusë të vrarë",
@@ -111,18 +199,7 @@
       "date": "2026-05-27T19:49:26+00:00",
       "dateStr": "27 May, 19:49",
       "isNew": true,
-      "id": "abc01779911366"
-    },
-    {
-      "title": "Abdiu: Qytetarët në Maqedoni harxhojnë 3 miliardë euro në vit në bixhoz",
-      "link": "https://24-ore.com/abdiu-qytetaret-ne-maqedoni-harxhojne-3-miliarde-euro-ne-vit-ne-bixhoz/",
-      "description": "Kryetari i Lëvizjes Antibixhoz Xhemal Abdiu në emisionin Impakt, ka ndarë të dhëna shqetësuese sa i përket numrit të qytetarëve të cilët luajnë bixhoz. Ai tha se krahasur me numrin e mëhershëm, me rritjen e numrit të objekteve të kazinove dhe bastoreve, është rritur dukshëm edhe numri i qytetarëve q",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-05-27T19:40:38+00:00",
-      "dateStr": "27 May, 19:40",
-      "isNew": true,
-      "id": "24 91779910838"
+      "id": "abc71779911366"
     },
     {
       "title": "“Nuk do të ketë lehtësime”, Trump: Irani do të heqë dorë nga uraniumi",
@@ -133,7 +210,7 @@
       "date": "2026-05-27T19:40:30+00:00",
       "dateStr": "27 May, 19:40",
       "isNew": true,
-      "id": "abc11779910830"
+      "id": "abc81779910830"
     },
     {
       "title": "“Muajt në vijim vendosin fatin e luftës”/ Krisafi: Që Rusia të humbasë luftën duhet të ndodhë një hata…",
@@ -144,84 +221,7 @@
       "date": "2026-05-27T19:35:40+00:00",
       "dateStr": "27 May, 19:35",
       "isNew": true,
-      "id": "abc21779910540"
-    },
-    {
-      "title": "Polonia dhe Britania me traktat të ri sigurie – a po zëvendësohet NATO?",
-      "link": "https://abcnews.al/polonia-dhe-britania-me-traktat-te-ri-sigurie-a-po-zevendesohet-nato/",
-      "description": "Polonia dhe Mbretëria e Bashkuar kanë nënshkruar “Traktatin e Northolt”, një marrëveshje të re dypalëshe që synon forcimin e bashkëpunimit në fushën e mbrojtjes dhe industrisë ushtarake. Sipas marrëveshjes, dy vendet do të bashkëpunojnë në zhvillimin dhe prodhimin e armëve të gjeneratës së ardhshme,",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-27T19:18:33+00:00",
-      "dateStr": "27 May, 19:18",
-      "isNew": true,
-      "id": "abc31779909513"
-    },
-    {
-      "title": "Elbasani: Feja mund të shërbejë për të shuar konfliktet në botë! Goxhaj: Gjenocidi në Gaza i papranueshëm, duhet reagim",
-      "link": "https://abcnews.al/elbasani-feja-mund-te-sherbeje-per-te-shuar-konfliktet-ne-bote-goxhaj-gjenocidi-ne-gaza-i-papranueshem-duhet-reagim/",
-      "description": "Ekspertja e sigurisë kibernetike, Nadia Elbasani thotë se feja mund të shërbejë për të shuar konfliktet në botë. Në emisionin &#8220;Real Story&#8221; në ABC News, Elbasani u shpreh se në vendin tonë, ka harmoni fetare. Ndërsa aktivisti Baki Goxhaj, i cili u deportua nga Izraeli, deklaroi se gjenoci",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-27T19:09:44+00:00",
-      "dateStr": "27 May, 19:09",
-      "isNew": true,
-      "id": "abc41779908984"
-    },
-    {
-      "title": "Ish myftiu i Tiranës, Gura: Komuniteti Mysliman, i pozicionuar gabimisht në raport me konfliktin në Palestinë",
-      "link": "https://abcnews.al/ish-myftiu-i-tiranes-gura-komuniteti-mysliman-i-pozicionuar-gabimisht-ne-raport-me-konfliktin-ne-palestine/",
-      "description": "Ish-myftiu i Tiranës, Ylli Gura, i ftuar në emisionin Real Story tha se ka shumë pikëpyetje lidhur me raportin e institucioneve myslimane në pozicionimin e tyre me përfaqësuesit e qeverisë në aktivitete fetare që ai i cilëson të panevojshme. Gura shtoi se, sipas tij, komuniteti mysliman është pozici",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-27T19:03:59+00:00",
-      "dateStr": "27 May, 19:03",
-      "isNew": true,
-      "id": "abc51779908639"
-    },
-    {
-      "title": "Aktivisti Baki Goxhaj: Shoqëria shqiptare të jetë më e ndjeshme ndaj genocidit në Palestinë",
-      "link": "https://abcnews.al/aktivisti-baki-goxhaj-shoqeria-shqiptare-te-jete-me-e-ndjeshme-ndaj-genocidit-ne-palestine/",
-      "description": "Baki Goxhaj, u ndalua më 19 maj nga forcat izraelite bashkë me aktivistë të tjerë nga vende të ndryshme, teksa po dërgonin ndihma në Gaza përmes flotës së anijeve ‘Sumud’. Paraditen e së premtes ai zbriti në Rinas ku pas një deklarate nga oficerët e antiterrorit u rikthye në shtëpinë e tij. Aktivist",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-27T18:59:10+00:00",
-      "dateStr": "27 May, 18:59",
-      "isNew": true,
-      "id": "abc61779908350"
-    },
-    {
-      "title": "Të shtëna me armë zjarri në Athinë/ Shqiptari plagos pakistanezin arrestohen dhe bashkëpunëtorët e tij",
-      "link": "https://abcnews.al/te-shtena-me-arme-zjarri-ne-athine-shqiptari-plagos-pakistanezin-arrestohen-dhe-bashkepunetoret-e-tij/",
-      "description": "Të shtëna me armë zjarri u regjistruan pasditen e së mërkurës në Patisia të Athinës. Në orën 18:30 të pasdites së sotme, një person hyri në një dyqan telefonash celularë në rrugën “Patision” dhe qëlloi pronarin e dyqanit, me origjinë pakistaneze, një herë në këmbë. Autori i krimit hipi më pas në një",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-27T18:41:54+00:00",
-      "dateStr": "27 May, 18:41",
-      "isNew": true,
-      "id": "abc71779907314"
-    },
-    {
-      "title": "“Shqiptarët u mashtruan nga konflikti me Sirinë”, Gura: Palestina është strumbullari shekullor, fetar, politik dhe rajonal",
-      "link": "https://abcnews.al/shqiptaret-u-mashtruan-nga-konflikti-me-sirine-gura-palestina-eshte-strumbullari-shekullor-fetar-politik-dhe-rajonal/",
-      "description": "Ish-myftiu i Tiranës, Ylli Gura, i ftuar në emisionin Real Story, ka komentuar konfliktin Izrael-Palestinë dhe përfshirjen e shqiptarëve në konfliktet e Lindjes së Mesme. Gura u shpreh se përvoja e luftës në Siri, ku u përfshinë edhe dhjetëra shqiptarë, duhet të shërbejë si një mësim që shqiptarët t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-27T18:39:15+00:00",
-      "dateStr": "27 May, 18:39",
-      "isNew": true,
-      "id": "abc81779907155"
-    },
-    {
-      "title": "Pjesë e flotiljes që shkonte për në Gaza/ Aktivisti Baki Goxhaj: Shkova për arsye humanitare",
-      "link": "https://abcnews.al/pjese-e-flotiljes-qe-shkonte-per-ne-gaza-aktivisti-baki-goxhaj-shkova-per-arsye-humanitare/",
-      "description": "Aktivisti Baki Goxhaj thotë se gjenocidi në Gaza nuk lidhet me shtete të tjera, por me çështjen e palestinezëve dhe të drejtën e tyre për vetëvendosje. Në emisionin &#8220;Real Story&#8221; në ABC News, Goxhaj u shpreh se ishte pjesë e flotiljes që do shkonte në Gaza, për arsye humanitare. &#8220;Ky",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-05-27T18:29:01+00:00",
-      "dateStr": "27 May, 18:29",
-      "isNew": true,
-      "id": "abc91779906541"
+      "id": "abc91779910540"
     },
     {
       "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
