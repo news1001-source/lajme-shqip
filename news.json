@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-06-04T23:06:08.557146+00:00",
+  "lastUpdated": "2026-06-05T02:57:11.966042+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Të shtëna me armë në Vlorë, plagoset rëndë 44-vjeçari",
+      "link": "https://24-ore.com/te-shtena-me-arme-ne-vlore-plagoset-rende-44-vjecari/",
+      "description": "Një person ka mbetur i plagosur në fshatin Sevaster, në një ngjarje që dyshohet të ketë ndodhur me armë zjarri. Sipas informacioneve paraprake, i plagosuri i identifikuar si Shpati Kamberaj, 44 vjeç, është transportuar për të marrë ndihmën mjekësore, ndërsa në vendngjarje janë nisur menjëherë shërbi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-05T02:26:00+00:00",
+      "dateStr": "05 Jun, 02:26",
+      "isNew": true,
+      "id": "24 01780626360"
+    },
+    {
+      "title": "Pozita e mjerë e Partisë së Sali Berishës",
+      "link": "https://24-ore.com/pozita-e-mjere-e-partise-se-sali-berishes/",
+      "description": "Kur Sekretari i Përgjithshëm i Partisë Demokratike, Flamur Noka, doli para mediave për të komentuar protestat kundër projektit të Zvërnecit, shumë qytetarë prisnin të dëgjonin atë që zakonisht pritet nga një opozitë: pyetje për ligjshmërinë e procedurave, për mungesën e konkurrencës, për ndikimin mj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-05T02:19:28+00:00",
+      "dateStr": "05 Jun, 02:19",
+      "isNew": true,
+      "id": "24 11780625968"
+    },
     {
       "title": "Afati po mbyllet, emrat s’dihet, KPK e mban sekret numrin e aplikuesve për Kryeprokuror",
       "link": "https://24-ore.com/afati-po-mbyllet-emrat-sdihet-kpk-e-mban-sekret-numrin-e-aplikuesve-per-kryeprokuror/",
@@ -12,7 +34,7 @@
       "date": "2026-06-04T22:10:11+00:00",
       "dateStr": "04 Jun, 22:10",
       "isNew": true,
-      "id": "24 01780611011"
+      "id": "24 21780611011"
     },
     {
       "title": "Ligji për shtetësisë, Rashiq: Frikë për përfitime nga persona me dosje kriminale dhe lidhje me krime lufte",
@@ -23,7 +45,7 @@
       "date": "2026-06-04T22:09:56+00:00",
       "dateStr": "04 Jun, 22:09",
       "isNew": true,
-      "id": "24 11780610996"
+      "id": "24 31780610996"
     },
     {
       "title": "Rama mbërrin në Tivat, nesër merr pjesë në Samitin BE–Ballkani Perëndimor",
@@ -34,7 +56,7 @@
       "date": "2026-06-04T21:53:20+00:00",
       "dateStr": "04 Jun, 21:53",
       "isNew": true,
-      "id": "24 21780610000"
+      "id": "24 41780610000"
     },
     {
       "title": "Bekaj në prag të miqësores me Andorrën: S’ka kundërshtar të lehtë",
@@ -45,7 +67,7 @@
       "date": "2026-06-04T21:51:14+00:00",
       "dateStr": "04 Jun, 21:51",
       "isNew": true,
-      "id": "24 31780609874"
+      "id": "24 51780609874"
     },
     {
       "title": "Lufta hibride për Zvërnecin/ Nura: Nëse humb ky projekt, humbim të gjithë",
@@ -78,7 +100,7 @@
       "date": "2026-06-04T21:40:18+00:00",
       "dateStr": "04 Jun, 21:40",
       "isNew": true,
-      "id": "24 41780609218"
+      "id": "24 61780609218"
     },
     {
       "title": "Shoqëroi i pari Ivankën dhe Kushner në Shqipëri, Auron Tare: Nuk e dinin ku i binte Sazani dhe Zvërneci",
@@ -89,7 +111,7 @@
       "date": "2026-06-04T21:40:02+00:00",
       "dateStr": "04 Jun, 21:40",
       "isNew": true,
-      "id": "24 51780609202"
+      "id": "24 71780609202"
     },
     {
       "title": "“Më shkroi drejtoresha e CNN para se të hyja në studio”, Auron Tare zbulon mesazhin",
@@ -100,7 +122,7 @@
       "date": "2026-06-04T21:39:49+00:00",
       "dateStr": "04 Jun, 21:39",
       "isNew": true,
-      "id": "24 61780609189"
+      "id": "24 81780609189"
     },
     {
       "title": "Protestuesit marshojnë drejt Sheshit “Skënderbej”, gazetari: U dëgjua për herë të parë thirrja “Rama bashkohu me Veliajn”",
@@ -111,29 +133,7 @@
       "date": "2026-06-04T21:39:38+00:00",
       "dateStr": "04 Jun, 21:39",
       "isNew": true,
-      "id": "24 71780609178"
-    },
-    {
-      "title": "Rubio përkujton masakrën e Sheshit Tiananmen: Tërbohet Pekini",
-      "link": "https://24-ore.com/rubio-perkujton-masakren-e-sheshit-tiananmen-terbohet-pekini/",
-      "description": "Tridhjetë e shtatë vjet kanë kaluar që nga nata midis 3 dhe 4 qershorit 1989, kur Ushtria Çlirimtare Popullore Kineze mori urdhër të qëllonte mbi popullin e Pekinit. Masakra e Sheshit Tiananmen mbetet një tabu, një formë amnezie kolektive e imponuar mbi kinezët. Këtë 4 qershor, policia u ndaloi fami",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-04T21:39:26+00:00",
-      "dateStr": "04 Jun, 21:39",
-      "isNew": true,
-      "id": "24 81780609166"
-    },
-    {
-      "title": "Iranianët “janë varfëruar”, teksa lufta po e shkatërron ekonominë",
-      "link": "https://24-ore.com/iranianet-jane-varferuar-teksa-lufta-po-e-shkaterron-ekonomine/",
-      "description": "Masud është detyruar që të shesë pajisjet shtëpiake në mënyrë që të mbijetojë në mes të krizës së thellë ekonomike në Iran. Fushata bombarduese e Shteteve të Bashkuara dhe Izraelit ka shkatërruar pjesën më të madhe të infrastrukturës dhe industrive të Iranit, duke nxitur rritjen e inflacionit dhe pa",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-04T21:39:16+00:00",
-      "dateStr": "04 Jun, 21:39",
-      "isNew": true,
-      "id": "24 91780609156"
+      "id": "24 91780609178"
     },
     {
       "title": "Eric Wendt merr miratimin/ Kandidatura për ambasador të SHBA në Shqipëri merr 19 vota pro dhe 3 kundër",
