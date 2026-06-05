@@ -1,73 +1,194 @@
 {
-  "lastUpdated": "2026-06-05T02:57:11.966042+00:00",
+  "lastUpdated": "2026-06-05T07:09:31.823138+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Të shtëna me armë në Vlorë, plagoset rëndë 44-vjeçari",
-      "link": "https://24-ore.com/te-shtena-me-arme-ne-vlore-plagoset-rende-44-vjecari/",
-      "description": "Një person ka mbetur i plagosur në fshatin Sevaster, në një ngjarje që dyshohet të ketë ndodhur me armë zjarri. Sipas informacioneve paraprake, i plagosuri i identifikuar si Shpati Kamberaj, 44 vjeç, është transportuar për të marrë ndihmën mjekësore, ndërsa në vendngjarje janë nisur menjëherë shërbi",
+      "title": "Kovaçevski: Identiteti dhe gjuha janë të mbrojtura, propozimi francez është zgjidhje e mirë",
+      "link": "https://24-ore.com/kovacevski-identiteti-dhe-gjuha-jane-te-mbrojtura-propozimi-francez-eshte-zgjidhje-e-mire/",
+      "description": "Ish-kryeministri dhe deputeti aktual i LSDM-së, Dimitar Kovaçevski thotë se propozimi francez është zgjidhje e mirë dhe është një propozim i ekuilibruar dhe se nuk rrezikon identitetin maqedonas. &#8220;Nuk besoj se duhet të heqim dorë nga asgjë nga historia jonë në kuadër të komisionit Historik apo",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-05T02:26:00+00:00",
-      "dateStr": "05 Jun, 02:26",
+      "date": "2026-06-05T07:09:21+00:00",
+      "dateStr": "05 Jun, 07:09",
       "isNew": true,
-      "id": "24 01780626360"
+      "id": "24 01780643361"
     },
     {
-      "title": "Pozita e mjerë e Partisë së Sali Berishës",
-      "link": "https://24-ore.com/pozita-e-mjere-e-partise-se-sali-berishes/",
-      "description": "Kur Sekretari i Përgjithshëm i Partisë Demokratike, Flamur Noka, doli para mediave për të komentuar protestat kundër projektit të Zvërnecit, shumë qytetarë prisnin të dëgjonin atë që zakonisht pritet nga një opozitë: pyetje për ligjshmërinë e procedurave, për mungesën e konkurrencës, për ndikimin mj",
+      "title": "Franca mundet në testin e fundit para Kupës së Botës, keq edhe Spanja kundër Irakut",
+      "link": "https://24-ore.com/franca-mundet-ne-testin-e-fundit-para-kupes-se-botes-keq-edhe-spanja-kunder-irakut/",
+      "description": "Miqësoret para nisjes së Botërorit në SHBA, Meksikë dhe Kanada. Mbappe me shokë munden nga Bregu i Fildishtë, iberikët frenohen nga kombëtarja aziatike. Franca është mundur në miqësoren e fundit para Kupës së Botës, atë ndaj Bregut të Fildishtë. Zhgënjim për “Bleus”, që kaluan në avantazh në fund të",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-05T02:19:28+00:00",
-      "dateStr": "05 Jun, 02:19",
+      "date": "2026-06-05T07:09:04+00:00",
+      "dateStr": "05 Jun, 07:09",
       "isNew": true,
-      "id": "24 11780625968"
+      "id": "24 11780643344"
     },
     {
-      "title": "Afati po mbyllet, emrat s’dihet, KPK e mban sekret numrin e aplikuesve për Kryeprokuror",
-      "link": "https://24-ore.com/afati-po-mbyllet-emrat-sdihet-kpk-e-mban-sekret-numrin-e-aplikuesve-per-kryeprokuror/",
-      "description": "E mërkura e ardhshme është dita e fundit për kandidatët që synojnë pozitën e kryeprokurorit të shtetit. Megjithatë KPK-ja nuk ka treguar nëse deri tash ka aplikuar ndonjë kandidat, derisa folën shkurt për padinë që u bëri Blerim Isufaj, aktualisht kryeprokuror i Prokurorisë Speciale. Kanë mbetur edh",
+      "title": "Roland Garros 2026/ Andreeva “zbut” Kostyuk, në finale sfidon zbulimin Chwalinska",
+      "link": "https://24-ore.com/roland-garros-2026-andreeva-zbut-kostyuk-ne-finale-sfidon-zbulimin-chwalinska/",
+      "description": "Gjithçka e lehtë në gjysmëfinalen e turneut francez për tenisten ruse. Tani luan titullin ndaj polakes që eliminoi pas dy setesh Shnaider. Mirra Andreeva arrin pa probleme finalen e Roland Garros 2026. Në gjysmëfinale 19-vjeçarja ruse mundi ukrainasen Marta Kostyuk, duke mos e vënë asnjëherë në disk",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-04T22:10:11+00:00",
-      "dateStr": "04 Jun, 22:10",
+      "date": "2026-06-05T07:08:47+00:00",
+      "dateStr": "05 Jun, 07:08",
       "isNew": true,
-      "id": "24 21780611011"
+      "id": "24 21780643327"
     },
     {
-      "title": "Ligji për shtetësisë, Rashiq: Frikë për përfitime nga persona me dosje kriminale dhe lidhje me krime lufte",
-      "link": "https://24-ore.com/ligji-per-shtetesise-rashiq-frike-per-perfitime-nga-persona-me-dosje-kriminale-dhe-lidhje-me-krime-lufte/",
-      "description": "Ministri në detyrë për Komunitete dhe Kthim, Nenad Rashiq, ka shprehur shqetësim për, siç tha ai, një fluks të qytetarëve serbë që po regjistrohen në komunat e Kosovës, duke paralajmëruar pasoja demografike, politike dhe financiare. Rashiq tha se në disa komuna ku më herët ekzistonte një balancë ndë",
+      "title": "Watkins: Lënia jashtë kombëtares në miqësoret e marsit ishte një këmbanë zgjimi, Anglia ka sulmues të mrekullueshëm",
+      "link": "https://24-ore.com/watkins-lenia-jashte-kombetares-ne-miqesoret-e-marsit-ishte-nje-kembane-zgjimi-anglia-ka-sulmues-te-mrekullueshem/",
+      "description": "Sulmuesi anglez Ollie Watkins deklaroi së lënia jashtë kombëtares në fillim të këtij viti nga trajneri Thomas Tuchel ishte katalizatori për të kapur formën më të mirë të karrierës së tij. Sulmuesi i Aston Villa, pa ëndrrat e tij për Kupën e Botës të varura në fije të perit pasi mungoi në kampin e ma",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-04T22:09:56+00:00",
-      "dateStr": "04 Jun, 22:09",
+      "date": "2026-06-05T07:08:39+00:00",
+      "dateStr": "05 Jun, 07:08",
       "isNew": true,
-      "id": "24 31780610996"
+      "id": "24 31780643319"
     },
     {
-      "title": "Rama mbërrin në Tivat, nesër merr pjesë në Samitin BE–Ballkani Perëndimor",
-      "link": "https://24-ore.com/rama-mberrin-ne-tivat-neser-merr-pjese-ne-samitin-be-ballkani-perendimor/",
-      "description": "Tivat, Mal i Zi – Kryeministri Edi Rama ka mbërritur mbrëmjen e kësaj të enjteje, 4 qershor, në pritjen e organizuar për Samitin BE–Ballkan Perëndimor në Tivat, Mal i Zi. Kryeministri Edi Rama do të marrë pjesë në Samitin BE–Ballkani Perëndimor, i cili do të zhvillohet më 5 qershor në Tivat. Samiti ",
+      "title": "“Nuk nxitohemi, pasi duam të zgjedhim trajnerin e duhur për Manchester City”",
+      "link": "https://24-ore.com/nuk-nxitohemi-pasi-duam-te-zgjedhim-trajnerin-e-duhur-per-manchester-city/",
+      "description": "Manchester City po përgatitet të fillojë një epokë të re. Pas më shumë se një dekade suksesi, trofesh dhe rekordesh, Pep Guardiola ka vendosur t’i japë fund mandatit të tij të jashtëzakonshëm në krye të “citizens”, duke nisur një epokë të re në historinë e klubit anglez. Emri në “pole” për të pasuar",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-04T21:53:20+00:00",
-      "dateStr": "04 Jun, 21:53",
+      "date": "2026-06-05T07:08:32+00:00",
+      "dateStr": "05 Jun, 07:08",
       "isNew": true,
-      "id": "24 41780610000"
+      "id": "24 41780643312"
     },
     {
-      "title": "Bekaj në prag të miqësores me Andorrën: S’ka kundërshtar të lehtë",
-      "link": "https://24-ore.com/bekaj-ne-prag-te-miqesores-me-andorren-ska-kundershtar-te-lehte/",
-      "description": "Skip to content Categories E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor June 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 [&#8230;]\nThe post Bekaj në prag të miqësores me Andorrën:",
+      "title": "Zelensky, ftesë Putinit/ Letër të hapur presidentit rus: Të takohemi për t’i dhënë fund luftës",
+      "link": "https://abcnews.al/zelensky-ftese-putinit-leter-te-hapur-presidentit-rus-te-takohemi-per-ti-dhene-fund-luftes/",
+      "description": "Volodymyr Zelensky ka bërë thirrje për një takim ballë për ballë midis tij dhe Vladimir Putinit në një përpjekje të re për t&#8217;i dhënë fund luftës. Në një letër të hapur drejtuar presidentit rus, udhëheqësi ukrainas tha se do të ishte &#8220;gabim të pritej thjesht&#8221; derisa lufta në Evropë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-05T06:54:59+00:00",
+      "dateStr": "05 Jun, 06:54",
+      "isNew": true,
+      "id": "abc01780642499"
+    },
+    {
+      "title": "Kryeministri Rama publikon videon nga “Bukë e Zemër”: 600 arkitektë në Tiranë në Festivalin Ndërkombëtar",
+      "link": "https://24-ore.com/kryeministri-rama-publikon-videon-nga-buke-e-zemer-600-arkitekte-ne-tirane-ne-festivalin-nderkombetar/",
+      "description": "Kryeministri Edi Rama ka ndarë mëngjesin e sotëm një mesazh në rrjetet sociale, shoqëruar me një videokartolinë nga Festivali Ndërkombëtar “Bread &#38; Heart”, i cili po zhvillohet në Tiranë për të dytin vit radhazi. Në postimin e tij, Rama thekson se eventi ka bashkuar në kryeqytet yje dhe talente ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-04T21:51:14+00:00",
-      "dateStr": "04 Jun, 21:51",
+      "date": "2026-06-05T06:52:32+00:00",
+      "dateStr": "05 Jun, 06:52",
       "isNew": true,
-      "id": "24 51780609874"
+      "id": "24 51780642352"
+    },
+    {
+      "title": "“Jam kushëriri i…”, si ra në kurth kambisti nga Durrësi. I morën 60 mijë euro",
+      "link": "https://24-ore.com/jam-kusheriri-i-si-ra-ne-kurth-kambisti-nga-durresi-i-moren-60-mije-euro/",
+      "description": "Një tjetër rast mashtrimi është zbuluar nga Policia, ky i dyshuar kryesor është një i ri nga Shkodra, i njohur për të tilla raste edhe më parë. Gazetari i Klan News Besar Bajraktaraj, duke iu referuar burimeve policore raporton se i riu me inicialet F.Gj, i cili dyshohet se ndodhet në Gjermani ka ar",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-05T06:51:30+00:00",
+      "dateStr": "05 Jun, 06:51",
+      "isNew": true,
+      "id": "24 61780642290"
+    },
+    {
+      "title": "Perez bën premtimin e madh: Të martën do të bëj një ofertë prej 150 mln eurosh për dikë të kalibrit të CR7",
+      "link": "https://24-ore.com/perez-ben-premtimin-e-madh-te-marten-do-te-bej-nje-oferte-prej-150-mln-eurosh-per-dike-te-kalibrit-te-cr7/",
+      "description": "Në Spanjë, një fushatë zgjedhore ka qenë e zjarrtë prej ditësh, e mbushur me premtime midis presidentit aktual të Real Madrid, Florentino Perez, dhe kandidatit të ri Ezequiel Riquelme. Në orët e fundit, ky i fundit njoftoi në TV se nëse do të bëhej pronar i Real Madrid, do të merrte në dorë Rodri dh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-05T06:37:46+00:00",
+      "dateStr": "05 Jun, 06:37",
+      "isNew": true,
+      "id": "24 71780641466"
+    },
+    {
+      "title": "Armë zjarri dhe drogë në lokal/ Sarandë, shoqërohen disa persona",
+      "link": "https://abcnews.al/arme-zjarri-dhe-droge-ne-lokal-sarande-shoqerohen-disa-persona/",
+      "description": "Disa persona janë shoqëruar nga policia në Sarandë, në orët e vona të mbrëmjes së të enjtes. Mësohet se policia ka gjetur në një lokal armë zjarri dhe lëndë narkotike. Ngjarja ka ndodhur në një prej lokaleve, në afërsi të një prej plazheve në lagjen nr.4. Policia e Sarandës ka ndërhyrë së bashku me ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-05T06:31:41+00:00",
+      "dateStr": "05 Jun, 06:31",
+      "isNew": true,
+      "id": "abc11780641101"
+    },
+    {
+      "title": "Aksident në aksin Kardhiq-Delvinë, një viktimë dhe tre të plagosur",
+      "link": "https://abcnews.al/aksident-ne-aksin-kardhiq-delvine-nje-viktime-dhe-tre-te-plagosur/",
+      "description": "Një aksident i rëndë ka ndodhure në aksin Kardhiq &#8211; Delvinë, në vendin e quajtur Fushë Vërri të Delvinës. Dy automjete janë përplasur, teksa një person ka mbetur i vdekur dhe tre të tjerë janë plagosur. Një prej automjeteve ka dalë nga rruga dhe është përmbysur. Policia, ambulanca dhe zjarrfik",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-05T06:26:13+00:00",
+      "dateStr": "05 Jun, 06:26",
+      "isNew": true,
+      "id": "abc21780640773"
+    },
+    {
+      "title": "Spanja dhe Franca i kanë lënë “fuqitë” për Botëror. Iraku dhe Bregu i Fildishtë bëjnë surprizën ndaj dy kombëtareve të mëdha (video) – Telesport",
+      "link": "https://24-ore.com/spanja-dhe-franca-i-kane-lene-fuqite-per-boteror-iraku-dhe-bregu-i-fildishte-bejne-surprizen-ndaj-dy-kombetareve-te-medha-video-telesport/",
+      "description": "Spanja ka zhgënjyer jo pak tifozët duke barazuar 1-1 në miqësoren ndaj Irakut, pak ditë para se të fillojë Kupa e Botës. Në sfidën e luajtur në La Coruna, spanjollët gjetën të parët avantazhin me Ferran Torres në minutën e 16-të. Sulmuesi i Barcelonës shënoi një gol të bukur, pas një pasimi po aq të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-05T06:23:22+00:00",
+      "dateStr": "05 Jun, 06:23",
+      "isNew": true,
+      "id": "24 81780640602"
+    },
+    {
+      "title": "Sot mbahet Samiti BE-Ballkani Perëndimor në Tivat",
+      "link": "https://24-ore.com/sot-mbahet-samiti-be-ballkani-perendimor-ne-tivat/",
+      "description": "Këtë të premte, më 5 qershor, do të mbahet Samiti BE–Ballkani Perëndimor në Tivat të Malit të Zi, ku pritet të marrë pjesë edhe kryeministri Edi Rama. Ky i fundit arriti në Tivat mbrëmjen e kaluar. Samiti mbledh liderët e Bashkimit Europian dhe të vendeve të Ballkanit Perëndimor, duke riafirmuar par",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-05T06:22:48+00:00",
+      "dateStr": "05 Jun, 06:22",
+      "isNew": true,
+      "id": "24 91780640568"
+    },
+    {
+      "title": "Festivali Ndërkombëtar Bread & Heart/ Rama: Bashkoi në Tiranë yje e talente të arkitekturës botërore dhe lokale",
+      "link": "https://abcnews.al/festivali-nderkombetar-bread-heart-rama-bashkoi-ne-tirane-yje-e-talente-te-arkitektures-boterore-dhe-lokale/",
+      "description": "Kryeministri Edi Rama ka ndarë pamje nga aktiviteti i mbajtur të enjten në Tiranë, Festivali Ndërkombëtar Bread &#38; Heart. Përmes një postimi në rrjetet sociale, Rama u shpreh se ky festival ka bashkuar në Tiranë për të dytin vit yje e talente të arkitekturës botërore dhe lokale. Rama shtoi se pje",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-05T06:13:32+00:00",
+      "dateStr": "05 Jun, 06:13",
+      "isNew": true,
+      "id": "abc31780640012"
+    },
+    {
+      "title": "Ministri izraelit i Financave: Të shuhet ideja e një shteti palestinez",
+      "link": "https://abcnews.al/ministri-izraelit-i-financave-te-shuhet-ideja-e-nje-shteti-palestinez/",
+      "description": "Ministri izraelit i Financave, Bezalel Smotrich, ka bërë deklarata të forta lidhur me politikën e vendbanimeve në Bregun Perëndimor, duke u bërë thirrje qytetarëve izraelitë të zhvendosen atje për të jetuar. “I them popullit të Izraelit: ejani të jetoni në Bregun Perëndimor. Ka shumë arsye për të je",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-05T05:54:38+00:00",
+      "dateStr": "05 Jun, 05:54",
+      "isNew": true,
+      "id": "abc41780638878"
+    },
+    {
+      "title": "BE do të ofrojë 100 milionë euro për ushtrinë e Libanit",
+      "link": "https://abcnews.al/be-do-te-ofroje-100-milione-euro-per-ushtrine-e-libanit/",
+      "description": "Bashkimi Evropian do të dërgojë 100 milionë euro mbështetje shtesë financiare për ushtrinë e Libanit, ndërsa ajo vepron në kuadër të armëpushimit të brishtë, tha shefja e politikës së jashtme të bllokut. Kaja Kallas tha se marrëveshja e re e armëpushimit midis Izraelit dhe Libanit ofroi &#8220;një s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-05T05:33:56+00:00",
+      "dateStr": "05 Jun, 05:33",
+      "isNew": true,
+      "id": "abc51780637636"
+    },
+    {
+      "title": "Horoskopi 5 qershor 2026, zbuloni parashikimet e yjeve",
+      "link": "https://abcnews.al/horoskopi-5-qershor-2026-zbuloni-parashikimet-e-yjeve/",
+      "description": "DASHI Po hyn në një fazë ku nxitimi nuk është më një aleat i mirë. Sot, do të kuptosh se disa çështje kërkojnë më shumë strategji dhe më pak impulsivitet. Në punë, mund të marrësh një propozim interesant ose një konfirmim që e ke pritur. Në dashuri, je i thirrur të jesh më i pranishëm [...]Read More",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-05T05:15:24+00:00",
+      "dateStr": "05 Jun, 05:15",
+      "isNew": true,
+      "id": "abc61780636524"
     },
     {
       "title": "Lufta hibride për Zvërnecin/ Nura: Nëse humb ky projekt, humbim të gjithë",
@@ -78,7 +199,7 @@
       "date": "2026-06-04T21:48:02+00:00",
       "dateStr": "04 Jun, 21:48",
       "isNew": true,
-      "id": "abc01780609682"
+      "id": "abc71780609682"
     },
     {
       "title": "“War Report” me Sali Doçi, (04/06/2026)",
@@ -89,51 +210,7 @@
       "date": "2026-06-04T21:43:39+00:00",
       "dateStr": "04 Jun, 21:43",
       "isNew": true,
-      "id": "abc11780609419"
-    },
-    {
-      "title": "Protesta për Zvërnecin, Zekthi: Ja pse njerëzit po reagojnë kështu",
-      "link": "https://24-ore.com/protesta-per-zvernecin-zekthi-ja-pse-njerezit-po-reagojne-keshtu/",
-      "description": "Po mbahet edhe këtë të enjte, në ditën e pestë, protesta e qytetarëve kundër projektit të Zvërnecit. I ftuar këtë të enjte në Now me Erla Mëhillin, analisti Fitim Zekthi u shpreh se kjo protestë nuk lidhet me çështjen e Zvërnecit, por sipas tij është një reagim ndaj gjendjes së vendit. Analisti Zekt",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-04T21:40:18+00:00",
-      "dateStr": "04 Jun, 21:40",
-      "isNew": true,
-      "id": "24 61780609218"
-    },
-    {
-      "title": "Shoqëroi i pari Ivankën dhe Kushner në Shqipëri, Auron Tare: Nuk e dinin ku i binte Sazani dhe Zvërneci",
-      "link": "https://24-ore.com/shoqeroi-i-pari-ivanken-dhe-kushner-ne-shqiperi-auron-tare-nuk-e-dinin-ku-i-binte-sazani-dhe-zverneci/",
-      "description": "I ftuar këtë të enjte në Now me Erla Mëhillin, studiuesi Auron Tare u shpreh se Ivanka Trump dhe Jared Kushner nuk e kanë ditur dhe nuk e kanë shkelur kurrë më parë Zvërnecin dhe Sazanin, duke qenë se Tare ka qenë ai që i ka shoqëruar për herë parë në këto vende. Ai tha [&#8230;]\nThe post Shoqëroi i",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-04T21:40:02+00:00",
-      "dateStr": "04 Jun, 21:40",
-      "isNew": true,
-      "id": "24 71780609202"
-    },
-    {
-      "title": "“Më shkroi drejtoresha e CNN para se të hyja në studio”, Auron Tare zbulon mesazhin",
-      "link": "https://24-ore.com/me-shkroi-drejtoresha-e-cnn-para-se-te-hyja-ne-studio-auron-tare-zbulon-mesazhin/",
-      "description": "I ftuar këtë të enjte në Now me Erla Mëhillin, studiuesi Auron Tare u shpreh se para se të vinte në emision kishte marrë një mesazh nga drejtoresha e përgjithshme e CNN-it në Atlanta, për organizimin e protestave në Tiranë kundër projektit në Zvërnec. Sipas tij, ky mesazh nënkuptonte se kjo histori ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-04T21:39:49+00:00",
-      "dateStr": "04 Jun, 21:39",
-      "isNew": true,
-      "id": "24 81780609189"
-    },
-    {
-      "title": "Protestuesit marshojnë drejt Sheshit “Skënderbej”, gazetari: U dëgjua për herë të parë thirrja “Rama bashkohu me Veliajn”",
-      "link": "https://24-ore.com/protestuesit-marshojne-drejt-sheshit-skenderbej-gazetari-u-degjua-per-here-te-pare-thirrja-rama-bashkohu-me-veliajn/",
-      "description": "Grupi më i madh i protestuesve është drejtuar mbrëmjen e kësaj të enjteje drejt Sheshit “Skënderbej”, ndërsa thirrjet kanë qenë të njëjta me ato të dëgjuara edhe një natë më parë pas protestës masive në qendër të Tiranës. Duke raportuar live në emisionin “Now me Erla Mëhillin” në Euronews Albania, g",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-04T21:39:38+00:00",
-      "dateStr": "04 Jun, 21:39",
-      "isNew": true,
-      "id": "24 91780609178"
+      "id": "abc81780609419"
     },
     {
       "title": "Eric Wendt merr miratimin/ Kandidatura për ambasador të SHBA në Shqipëri merr 19 vota pro dhe 3 kundër",
@@ -144,84 +221,7 @@
       "date": "2026-06-04T21:37:38+00:00",
       "dateStr": "04 Jun, 21:37",
       "isNew": true,
-      "id": "abc21780609058"
-    },
-    {
-      "title": "Rama: Zvërneci po refuzohet si Porto Montenegro/ Resorti luksoz nuk u ndërtua në Shqipëri nga bllokimi i qeverisë Berisha",
-      "link": "https://abcnews.al/rama-zverneci-po-refuzohet-si-porto-montenegro-resorti-luksoz-nuk-u-ndertua-ne-shqiperi-nga-bllokimi-i-qeverise-berisha/",
-      "description": "Në pritje të mbajtjes së Samitit BE-Ballkani Perëndimor në Tivat të premten, kryeministri Rama vizitoi për herë të parë Porto Montenegron, investimin që ishte parashikuar të bëhej në Durrës, duke e paralelizuar me kundërshtimet e sotme për Zvërnecin. &#8220;Di mirë historinë sesi u ndërtua ky vend, ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-04T21:17:33+00:00",
-      "dateStr": "04 Jun, 21:17",
-      "isNew": true,
-      "id": "abc31780607853"
-    },
-    {
-      "title": "VIDEO-EMRI/ 37-vjeçari në gjendje të rëndë në spital! U paraqit me plagë në këmbë, dyshohet se është vetëplagosur me armë zjarri",
-      "link": "https://abcnews.al/video-emri-37-vjecari-ne-gjendje-te-rende-ne-spital-u-paraqit-me-plage-ne-kembe-dyshohet-se-eshte-veteplagosur-me-arme-zjarri/",
-      "description": "Një person është transportuar në spital në Korçë për të marrë trajtim mjekësor, pasi ka marrë plagë të shkaktuar nga arma e zjarrit. I plagosuri është identifikuar si Shpati Kamberaj 37 vjeç. Mësohet se ka marrë plagë në këmbë. 37-vjeçar ndodhet në gjendje të rëndë dhe është në sallë operacioni. Ndë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-04T21:10:33+00:00",
-      "dateStr": "04 Jun, 21:10",
-      "isNew": true,
-      "id": "abc41780607433"
-    },
-    {
-      "title": "VIDEO/ Rama ndan pamje nga Samiti BE-Ballkani Perëndimor në Tivat",
-      "link": "https://abcnews.al/video-rama-ndan-pamje-nga-samiti-be-ballkani-perendimor-ne-tivat/",
-      "description": "Kryeministri Edi Rama, ka ndarë në rrjetet sociale pamje nga pjesëmarrja e tij në Samitin BE–Ballkan Perëndimor që po zhvillohet në Tivat. Përmes një postimi në Facebook, Rama shoqëroi fotografitë nga aktiviteti me mesazhin e shkurtër: “Tivat, Mal i Zi – Samiti BE–Ballkan Perëndimor”. Samiti mbledh ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-04T21:02:50+00:00",
-      "dateStr": "04 Jun, 21:02",
-      "isNew": true,
-      "id": "abc51780606970"
-    },
-    {
-      "title": "Rusia dhe SHBA vazhdojnë bisedimet për energjinë pavarësisht ngërçit për Ukrainën",
-      "link": "https://abcnews.al/rusia-dhe-shba-vazhdojne-bisedimet-per-energjine-pavaresisht-ngercit-per-ukrainen/",
-      "description": "Bisedimet mes Rusisë dhe Shteteve të Bashkuara të Amerikës për çështjet ekonomike dhe energjetike po vazhdojnë, pavarësisht ndërprerjes së përkohshme të negociatave për paqen në Ukrainë, deklaroi sot i dërguari special i presidentit rus Vladimir Putin për investimet dhe bashkëpunimin ekonomik, Kiril",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-04T20:22:19+00:00",
-      "dateStr": "04 Jun, 20:22",
-      "isNew": true,
-      "id": "abc61780604539"
-    },
-    {
-      "title": "Kontrolle “blic” në Bllok/ Ndalohet Skerdi Sina, qarkullonte me një automjet të blinduar. I riu emër i njohur për Policinë",
-      "link": "https://abcnews.al/kontrolle-blic-ne-bllok-ndalohet-skerdi-sina-qarkullonte-me-nje-automjet-te-blinduar-i-riu-emer-i-njohur-per-policine/",
-      "description": "Gjatë orëve të mesnatës së të mërkurës në kryeqytet, në zonën e Bllokut gjatë kontrolleve të ushtruara nga Policia e Shtetit, është ndaluar dhe shoqëruar në komisariat i riu Skerdi Sina, i cili po qarkullonte me një automjet të blinduar. Pas verifikimeve të kryera nga efektivët, Sina është proceduar",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-04T20:02:45+00:00",
-      "dateStr": "04 Jun, 20:02",
-      "isNew": true,
-      "id": "abc71780603365"
-    },
-    {
-      "title": "Neziri: Nëse Irani i bindet SHBA, regjimi do dështojë!/ Veliu: Një prej opsioneve, ruajtja e uraniumit në Rusi",
-      "link": "https://abcnews.al/neziri-nese-irani-i-bindet-shba-regjimi-do-deshtoje-veliu-nje-prej-opsioneve-ruajtja-e-uraniumit-ne-rusi/",
-      "description": "Kolonel Sami Neziri e cilësoi si simbolike rezolutën e diskutuar në SHBA, duke vlerësuar se ajo nuk ka gjasa të hyjë në fuqi dhe lidhet kryesisht me përplasjet e brendshme politike në prag të zgjedhjeve të mesmandatit. Sipas Nezirit, iniciativa përbën pjesë të një lufte politike të brendshme, ku po ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-04T19:31:01+00:00",
-      "dateStr": "04 Jun, 19:31",
-      "isNew": true,
-      "id": "abc81780601461"
-    },
-    {
-      "title": "EMRI/ I dënuari gjendet i pajetë në spitalin e burgjeve, dyshohet vetëvarje",
-      "link": "https://abcnews.al/emri-i-denuari-gjendet-i-pajete-ne-spitalin-e-burgjeve-dyshohet-vetevarje/",
-      "description": "Një i dënuar 47-vjeçar është gjetur i pajetë këtë të enjte në ambientet e Qendra Spitalore e Burgjeve, ku po trajtohej për probleme të shëndetit mendor. Sipas njoftimit zyrtar, shtetasi Fatmir Qoku ishte dënuar me 25 vite burgim me vendim të formës së prerë të vitit 2007 për veprën penale “Vrasje në",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-04T19:21:41+00:00",
-      "dateStr": "04 Jun, 19:21",
-      "isNew": true,
-      "id": "abc91780600901"
+      "id": "abc91780609058"
     },
     {
       "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
