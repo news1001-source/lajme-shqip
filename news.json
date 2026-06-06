@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-06-05T23:03:34.464749+00:00",
+  "lastUpdated": "2026-06-06T02:44:13.050633+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Requiem për një besim",
+      "link": "https://24-ore.com/requiem-per-nje-besim/",
+      "description": "Edi Rama! Sot po të shkruaj jo si kundërshtar politik, por si një njeri që të ka njohur para se pushteti të bëhej pjesë e jetës tënde. Po të shkruaj sepse ndiej se mes Edit që kam njohur dhe Edit që shoh sot ekziston një distancë që nuk mund të mos më bëjë të reflektoj. [&#8230;]\nThe post Requiem pë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T01:26:36+00:00",
+      "dateStr": "06 Jun, 01:26",
+      "isNew": true,
+      "id": "24 01780709196"
+    },
+    {
+      "title": "Atmosferë feste në rrugët e Tiranës, protestuesit paralajmërojnë pjesëmarrje edhe më të madhe të shtunën",
+      "link": "https://24-ore.com/atmosfere-feste-ne-rruget-e-tiranes-protestuesit-paralajmerojne-pjesemarrje-edhe-me-te-madhe-te-shtunen/",
+      "description": "TIRANË – Protesta kundër projekteve turistike në Zvërnec dhe Nartë po merr çdo ditë e më shumë përmasa, ndërsa mbrëmjen e së premtes rrugët e kryeqytetit u mbushën me një atmosferë që i ngjante më shumë një feste qytetare sesa një tubimi tradicional proteste. Mijëra protestues marshuan nëpër rrugët ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-05T23:49:15+00:00",
+      "dateStr": "05 Jun, 23:49",
+      "isNew": true,
+      "id": "24 11780703355"
+    },
     {
       "title": "Merz: Gjermania synon një vend në Këshillin e Sigurimit për mandatin 2035-2036",
       "link": "https://abcnews.al/merz-gjermania-synon-nje-vend-ne-keshillin-e-sigurimit-per-mandatin-2035-2036/",
@@ -23,7 +45,7 @@
       "date": "2026-06-05T21:40:00+00:00",
       "dateStr": "05 Jun, 21:40",
       "isNew": true,
-      "id": "24 01780695600"
+      "id": "24 21780695600"
     },
     {
       "title": "Ekstradohet nga Dubai grupi kriminal të kërkuar për narkotikë, pastrim parash dhe mashtrim kompjuterik",
@@ -34,7 +56,7 @@
       "date": "2026-06-05T21:39:47+00:00",
       "dateStr": "05 Jun, 21:39",
       "isNew": true,
-      "id": "24 11780695587"
+      "id": "24 31780695587"
     },
     {
       "title": "Aksident i rëndë në Novoselë, humb jetën një person",
@@ -45,7 +67,7 @@
       "date": "2026-06-05T21:39:33+00:00",
       "dateStr": "05 Jun, 21:39",
       "isNew": true,
-      "id": "24 21780695573"
+      "id": "24 41780695573"
     },
     {
       "title": "Ambasdori shihet duke kaluar në protestën përpara Kryeministrisë",
@@ -56,7 +78,7 @@
       "date": "2026-06-05T21:39:21+00:00",
       "dateStr": "05 Jun, 21:39",
       "isNew": true,
-      "id": "24 31780695561"
+      "id": "24 51780695561"
     },
     {
       "title": "Trupi i gjetur në një depo i përket 11-vjeçares së zhdukur në Francë, shkaqet e vdekjes ende nuk dihen",
@@ -67,7 +89,7 @@
       "date": "2026-06-05T21:39:11+00:00",
       "dateStr": "05 Jun, 21:39",
       "isNew": true,
-      "id": "24 41780695551"
+      "id": "24 61780695551"
     },
     {
       "title": "Memo urdhëron ICE-në të ndalojë raportimin e vdekjeve të të burgosurve të sapoliruar",
@@ -78,7 +100,7 @@
       "date": "2026-06-05T21:38:46+00:00",
       "dateStr": "05 Jun, 21:38",
       "isNew": true,
-      "id": "24 51780695526"
+      "id": "24 71780695526"
     },
     {
       "title": "Rama “Townhall” në Zvërnec/ Fluturon nga Samiti në Vlorë, përballet me banorët e fshatit",
@@ -100,7 +122,7 @@
       "date": "2026-06-05T21:38:28+00:00",
       "dateStr": "05 Jun, 21:38",
       "isNew": true,
-      "id": "24 61780695508"
+      "id": "24 81780695508"
     },
     {
       "title": "Presidenti i Libanit akuzon Iranin: Po na përdor si mjet tregtie me SHBA-në",
@@ -111,29 +133,7 @@
       "date": "2026-06-05T21:38:08+00:00",
       "dateStr": "05 Jun, 21:38",
       "isNew": true,
-      "id": "24 71780695488"
-    },
-    {
-      "title": "OKB-ja fajëson dezinformimin online për protestat jashtë zyrave të saj në Libi",
-      "link": "https://24-ore.com/okb-ja-fajeson-dezinformimin-online-per-protestat-jashte-zyrave-te-saj-ne-libi/",
-      "description": "Kombet e Bashkuara thanë të premten se janë thellësisht të shqetësuara nga protestat e dhunshme jashtë zyrave të tyre në Libi këtë javë dhe fajësuan mediat sociale për nxitjen e dezinformimit në lidhje me punën e këtij organi botëror në vend. Qindra demonstrues libianë bllokuan zyrën e agjencisë së ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-05T21:37:48+00:00",
-      "dateStr": "05 Jun, 21:37",
-      "isNew": true,
-      "id": "24 81780695468"
-    },
-    {
-      "title": "Witkoff dhe Kushner takohen me ekspertë bërthamorë në laboratorin kombëtar ‘Oak Ridge’",
-      "link": "https://24-ore.com/witkoff-dhe-kushner-takohen-me-eksperte-berthamore-ne-laboratorin-kombetar-oak-ridge/",
-      "description": "I dërguari special i Presidentit të SHBA-së Donald Trump, Steve Witkoff dhe dhëndri i tij Jared Kushner udhëtuan të enjten për në Laboratorin Kombëtar Oak Ridge në Tennessee për t’u konsultuar me ekspertë që mund të luajnë një rol në negociatat bërthamore me Iranin, tha të premten një burim i njohur",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-05T21:37:33+00:00",
-      "dateStr": "05 Jun, 21:37",
-      "isNew": true,
-      "id": "24 91780695453"
+      "id": "24 91780695488"
     },
     {
       "title": "SHBA i kërkon Evropës dhe Kanadasë të rrisin forcat ajrore dhe detare në NATO",
