@@ -1,40 +1,172 @@
 {
-  "lastUpdated": "2026-06-06T15:10:42.336954+00:00",
+  "lastUpdated": "2026-06-06T17:06:51.412464+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Sulmuesi njofton largimin nga Tirana",
-      "link": "https://24-ore.com/sulmuesi-njofton-largimin-nga-tirana/",
-      "description": "Ka përfunduar aventura e sulmuesit Rimal Haxhiu te Tirana. Me anë të një postimi në rrjetet sociale, 27-vjeçari njofton largimin nga bardheblutë. “Faleminderit Tirana. Falënderoj presidentin, shokët e ekipit dhe tifozët për të gjitha momentet e bukura dhe të vështira që kaluam”, shkruan Haxhiu në In",
+      "title": "“Rama ik”, ushton para Kryeministrisë",
+      "link": "https://24-ore.com/rama-ik-ushton-para-kryeministrise/",
+      "description": "TIRANË – Protesta masive kundër qeverisë ka hyrë në një fazë të re përpara godinës së Kryeministrisë, ku pas marshimit të mijëra qytetarëve nga Sheshi “Skënderbej”, kanë nisur fjalimet e para të aktivistëve dhe pjesëmarrësve në tubim. Në një atmosferë të ngarkuar me emocione dhe thirrje të vazhduesh",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-06T15:07:12+00:00",
-      "dateStr": "06 Jun, 15:07",
+      "date": "2026-06-06T16:58:26+00:00",
+      "dateStr": "06 Jun, 16:58",
       "isNew": true,
-      "id": "24 01780758432"
+      "id": "24 01780765106"
     },
     {
-      "title": "Arsyeja e vërtetë pse Perez po e mban sekret emrin e yllit 150 milionë eurosh që do të transferojë këtë verë",
-      "link": "https://24-ore.com/arsyeja-e-vertete-pse-perez-po-e-mban-sekret-emrin-e-yllit-150-milione-eurosh-qe-do-te-transferoje-kete-vere/",
-      "description": "Florentino Perez ka bërë të ditur se të martën do të zbulojë emrin e yllit të madh, për të cilin ka përgatitur një ofertë prej 150 milionë eurosh. Edhe pse janë përmendur disa emra nga mediet si Michael Olise, Enzo Fernandez, Vitinha, Alexis Mac Allister, Joao Neves, etj, ende nuk dihet realisht se ",
+      "title": "Qytetarët sërish protestë në Tiranë kundër resortit në Zvërnec",
+      "link": "https://24-ore.com/qytetaret-serish-proteste-ne-tirane-kunder-resortit-ne-zvernec/",
+      "description": "Protestat qytetare që nisën kundër projektit në Zvërnec kanë hyrë në ditën e shtatë, ndërsa tubimet dhe marshimet janë shtrirë jo vetëm në disa qytete të Shqipërisë, por edhe në qendra të rëndësishme ku jeton diaspora shqiptare. Pas protestës së zhvilluar gjatë paradites në Zvërnec, protestuesit jan",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-06T15:07:04+00:00",
-      "dateStr": "06 Jun, 15:07",
+      "date": "2026-06-06T16:53:05+00:00",
+      "dateStr": "06 Jun, 16:53",
       "isNew": true,
-      "id": "24 11780758424"
+      "id": "24 11780764785"
     },
     {
-      "title": "Bayern harron Gordon, zgjedh yllin e Liverpool për krahun e majtë. Lojtari që do t’i hapë telashe Luis Diaz",
-      "link": "https://24-ore.com/bayern-harron-gordon-zgjedh-yllin-e-liverpool-per-krahun-e-majte-lojtari-qe-do-ti-hape-telashe-luis-diaz/",
-      "description": "Pasi dështoi për Anthony Gordon, i cili në fund u transferua te Barcelona, Bayern ka piketuar një tjetër emër për krahun e majtë, i cili do të jetë zëvendësuesi i Luis Diaz dhe pse jo kandidat i fortë për vendin e titullarit. Sipas Florian Plettenberg, klubi bavarez ka filluar negociatat për transfe",
+      "title": "“Po ia marrin frymën Kavajës!”, Balla: Bashkinë duhet ta rikthejmë me PS në 2027",
+      "link": "https://24-ore.com/po-ia-marrin-frymen-kavajes-balla-bashkine-duhet-ta-rikthejme-me-ps-ne-2027/",
+      "description": "Drejtuesi politik i Partisë Socialiste për Qarkun e Tiranës, Taulant Balla, mori pjesë në festën e 35-vjetorit të Partisë Socialiste në Kavajë, ku uroi anëtarët dhe mbështetësit e kësaj force politike për përvjetorin e themelimit. Në fjalën e tij, Balla e cilësoi PS-në si familjen më të madhe politi",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-06T15:06:58+00:00",
-      "dateStr": "06 Jun, 15:06",
+      "date": "2026-06-06T16:52:54+00:00",
+      "dateStr": "06 Jun, 16:52",
       "isNew": true,
-      "id": "24 21780758418"
+      "id": "24 21780764774"
+    },
+    {
+      "title": "Aliu: Punëtorët e shëndetësisë do të evidentohen në punë me sistemin me gjurmë gishtash",
+      "link": "https://24-ore.com/aliu-punetoret-e-shendetesise-do-te-evidentohen-ne-pune-me-sistemin-me-gjurme-gishtash/",
+      "description": "Edhe pse në numër të vogël, ende ka punonjës që kanë marrë pagë pa u paraqitur fare në punë në Institutin e Shëndetit Publik. Ndaj tyre nuk mund të ndërmerren masa, pasi kartelat e tyre elektronike të evidencës janë regjistruar nga persona të tjerë. Zgjidhja po shihet në vendosjen e pajisjeve për id",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T16:39:40+00:00",
+      "dateStr": "06 Jun, 16:39",
+      "isNew": true,
+      "id": "24 31780763980"
+    },
+    {
+      "title": "Me pankarta dhe flamuj në duar, qytetarët në ditën e 7-të të protestës",
+      "link": "https://24-ore.com/me-pankarta-dhe-flamuj-ne-duar-qytetaret-ne-diten-e-7-te-te-protestes/",
+      "description": "Përfaqësues të shoqërisë civile, aktivistë dhe qytetarë u mblodhën edhe këtë të shtunë në sheshin “Skënderbej”, nga ku marshuan në bulevardin “Dëshmorët e Kombit” në ditën e 7-të të protestës për çështjen e zonave të mbrojtura. Me flamuj dhe pankarta në duar, pas marshimit në bulevard, protestuesit ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T16:39:23+00:00",
+      "dateStr": "06 Jun, 16:39",
+      "isNew": true,
+      "id": "24 41780763963"
+    },
+    {
+      "title": "Berisha: Të rinjtë janë boshti i ripërtëritjes së PD-së",
+      "link": "https://24-ore.com/berisha-te-rinjte-jane-boshti-i-riperteritjes-se-pd-se/",
+      "description": "Kryetari i Partisë Demokratike, Sali Berisha, zhvilloi këtë të shtunë një takim me 71 të rinjtë e zgjedhur në Këshillin Kombëtar të PD-së. Në takim ishte i pranishëm edhe eurodeputeti Antonio Lopez-Isturiz, anëtar i PPE-së dhe ish-sekretar i Përgjithshëm i Partive Popullore Evropiane. Gjatë fjalës s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T16:38:59+00:00",
+      "dateStr": "06 Jun, 16:38",
+      "isNew": true,
+      "id": "24 51780763939"
+    },
+    {
+      "title": "SpaceX siguron marrëveshje miliarda dollarëshe në sektorin e inteligjencës artificiale",
+      "link": "https://24-ore.com/spacex-siguron-marreveshje-miliarda-dollareshe-ne-sektorin-e-inteligjences-artificiale/",
+      "description": "SpaceX ka nënshkruar marrëveshje të mëdha për infrastrukturën e inteligjencës artificiale me Anthropic dhe Google, duke forcuar pozicionin e saj në tregun në rritje të fuqisë kompjuterike për AI. Sipas raportit, vlera e kombinuar e këtyre kontratave mund të kalojë 70 miliardë dollarë nëse zbatohen p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T16:38:45+00:00",
+      "dateStr": "06 Jun, 16:38",
+      "isNew": true,
+      "id": "24 61780763925"
+    },
+    {
+      "title": "Rusia refuzoi ofertën e Ukrainës, Zelensky: Putini humbi shansin për t’i dhënë fund luftës!",
+      "link": "https://24-ore.com/rusia-refuzoi-oferten-e-ukraines-zelensky-putini-humbi-shansin-per-ti-dhene-fund-luftes/",
+      "description": "Ministri i Jashtëm i Ukrainës, Andrii Sybiha, deklaroi se presidenti rus Vladimir Putin ka humbur mundësinë për të dalë nga lufta duke refuzuar ofertën e presidentit ukrainas Volodymyr Zelenskyy për bisedime të drejtpërdrejta paqeje. Në një reagim të publikuar në platformën X, Sybiha paralajmëroi se",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T16:38:33+00:00",
+      "dateStr": "06 Jun, 16:38",
+      "isNew": true,
+      "id": "24 71780763913"
+    },
+    {
+      "title": "Administrata Trump në një ‘dialog aktiv’ mbi rezervat strategjike të naftës në Kaliforni",
+      "link": "https://24-ore.com/administrata-trump-ne-nje-dialog-aktiv-mbi-rezervat-strategjike-te-naftes-ne-kaliforni/",
+      "description": "Administrata Trump është në “dialog aktiv” për krijimin e një rezerve nafte në Kaliforni, tha Sekretari i Energjisë Chris Wright të premten, një veprim që do të rriste infrastrukturën e naftës në shtet dhe do të minonte përpjekjen e Guvernatorit Demokrat Gavin Newsom për të zvogëluar gjurmën e karbu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T16:38:23+00:00",
+      "dateStr": "06 Jun, 16:38",
+      "isNew": true,
+      "id": "24 81780763903"
+    },
+    {
+      "title": "Irani dënon sulmet amerikane ndaj objekteve bregdetare",
+      "link": "https://24-ore.com/irani-denon-sulmet-amerikane-ndaj-objekteve-bregdetare/",
+      "description": "Ministria e Jashtme e Iranit dënoi të shtunën sulmet amerikane ndaj radarëve dhe objekteve të mbikëqyrjes bregdetare në rajonin e Sirik dhe në Ishulli Qeshm, duke i cilësuar ato si shkelje të qartë të marrëveshjes së armëpushimit të 8 prillit dhe si një akt agresioni kundër sovranitetit të vendit. N",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T16:38:12+00:00",
+      "dateStr": "06 Jun, 16:38",
+      "isNew": true,
+      "id": "24 91780763892"
+    },
+    {
+      "title": "Irani merr vizat amerikane/ Autoritetet në SHBA lejojnë ekipin që të jetë në Botëror",
+      "link": "https://abcnews.al/irani-merr-vizat-amerikane-autoritetet-ne-shba-lejojne-ekipin-qe-te-jete-ne-boteror/",
+      "description": "Do të jetë në Kupën e Botës. Kombëtarja e Iranit mori vizat amerikane për të pasur mundësi të shkojë në Los Anxhelos dhe në Siatëll për tri ndeshjet e grupit në qershor, veçse situate vazhdon të jetë e tensionuar. Menjëherë pasi mediat si Al Xhariza raportuan vendimin e administratës së Shteteve të ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-06T16:35:10+00:00",
+      "dateStr": "06 Jun, 16:35",
+      "isNew": true,
+      "id": "abc01780763710"
+    },
+    {
+      "title": "Izraeli vret foshnjën palestineze/ Ushtarët izraelitë qëlluan makinën me të cilën lëvizte familja",
+      "link": "https://abcnews.al/izraeli-vret-foshnjen-palestineze-ushtaret-izraelite-qelluan-makinen-me-te-cilen-levizte-familja/",
+      "description": "Forcat izraelite vranë një foshnjë palestineze shtatëmuajshe dhe plagosën prindërit e tij në zonën Tel Rumeida në jug të qytetit Hebron të Bregut Perëndimor. Ministria e Shëndetësisë tha se foshnja vdiq në vendngjarje, ndërsa prindërit e tij pësuan plagë nga të shtënat me armë zjarri dhe janë në gje",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-06T16:15:12+00:00",
+      "dateStr": "06 Jun, 16:15",
+      "isNew": true,
+      "id": "abc11780762512"
+    },
+    {
+      "title": "Hegseth në Francë nderon ushtarët që dëbuan forcat e Gjermanisë naziste",
+      "link": "https://abcnews.al/hegseth-ne-france-nderon-ushtaret-qe-debuan-forcat-e-gjermanise-naziste/",
+      "description": "Sekretari i Mbrojtjes i SHBA-së, Pete Hegseth, bëri homazhe në një memorial në Francë të shtunën, ndërsa mori pjesë në ceremoninë që shënonte 82-vjetorin kur më shumë se 150,000 ushtarë aleatë mbërritën në Francë nga deti dhe ajri për të dëbuar forcat e Gjermanisë naziste, që njihet si Dita D. Cerem",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-06T15:50:17+00:00",
+      "dateStr": "06 Jun, 15:50",
+      "isNew": true,
+      "id": "abc21780761017"
+    },
+    {
+      "title": "Hungaria kufizon lejet e punës për punëtorët nga vendet jashtë BE-së",
+      "link": "https://abcnews.al/hungaria-kufizon-lejet-e-punes-per-punetoret-nga-vendet-jashte-be-se/",
+      "description": "Qeveria e re e Hungarisë, e udhëhequr nga kryeministri Peter Magyar, ka kufizuar hyrjen e punëtorëve nga vendet jashtë Bashkimit Evropian përmes një dekreti qeveritar të publikuar të shtunën, duke përmbushur një prej premtimeve të tij zgjedhore. Aktualisht, rreth 90 mijë shtetas nga vende jashtë BE-",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-06T15:34:58+00:00",
+      "dateStr": "06 Jun, 15:34",
+      "isNew": true,
+      "id": "abc31780760098"
+    },
+    {
+      "title": "Netflix krijoi versionin e vet të videolojës së FIFA-s – lojtarët janë të shokuar",
+      "link": "https://abcnews.al/netflix-krijoi-versionin-e-vet-te-videolojes-se-fifa-s-lojtaret-jane-te-shokuar/",
+      "description": "Netflix ka hyrë në një territor të ri duke prezantuar një lojë të vetën të stilit FIFA, por reagimet e para nga lojtarët nuk kanë qenë aspak entuziaste. Sipas tyre, grafika dhe fizika e lojës duken shumë të vjetruara, sikur titulli të ishte zhvilluar të paktën një dekadë më parë. Lojtarët që kanë pa",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-06T15:13:29+00:00",
+      "dateStr": "06 Jun, 15:13",
+      "isNew": true,
+      "id": "abc41780758809"
     },
     {
       "title": "Presidentja sllovene ngre flamurin palestinez në Pallatin Presidencial në shenjë solidariteti",
@@ -45,73 +177,7 @@
       "date": "2026-06-06T14:54:01+00:00",
       "dateStr": "06 Jun, 14:54",
       "isNew": true,
-      "id": "abc01780757641"
-    },
-    {
-      "title": "Në kërkim për vrasje, ekstradohet nga Italia Sajmir Kolaveri",
-      "link": "https://24-ore.com/ne-kerkim-per-vrasje-ekstradohet-nga-italia-sajmir-kolaveri/",
-      "description": "Personi që shihni në foto është Sajmir Kolaveri, 44-vjeçari i ekstraduar këtë të shtunë nga Italia drejt Shqipërisë, ku ka edhe një masë sigurie “arrest në burg” të caktuar nga GJKKO, me kërkesë të SPAK. Konkretisht, ai dyshohet nga Prokuroria e Posaçme se, si pjesë e një grupi kriminal të drejtuar ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T14:52:41+00:00",
-      "dateStr": "06 Jun, 14:52",
-      "isNew": true,
-      "id": "24 31780757561"
-    },
-    {
-      "title": "Salianji kritikon projektin në zemër të Tiranës: Kush përfiton dhe pse hesht Berisha?",
-      "link": "https://24-ore.com/salianji-kritikon-projektin-ne-zemer-te-tiranes-kush-perfiton-dhe-pse-hesht-berisha/",
-      "description": "Ish-deputeti demokrat, Ervin Salianji ka reaguar për projektin e parashikuar për ndërtimin e një kulle pranë Pallatit të Kongreseve në Tiranë, duke e cilësuar atë si një tjetër rast ku pronat publike po kthehen në objekt përfitimi klientelist. Në një reagim në rrjete sociale, ish ligjvënësi shprehet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T14:51:49+00:00",
-      "dateStr": "06 Jun, 14:51",
-      "isNew": true,
-      "id": "24 41780757509"
-    },
-    {
-      "title": "Balla publikon foton nga protesta në Zvërnec: Pse janë aty makina me targa serbe?",
-      "link": "https://24-ore.com/balla-publikon-foton-nga-protesta-ne-zvernec-pse-jane-aty-makina-me-targa-serbe/",
-      "description": "Kreu i grupit parlamentar të Partisë Socialiste Taulant Balla ka publikuar një foto të një automjeti me targa serbe në Zvërnec, me pretendimet se me këto makina janë sjellë qytetarë për të protestuar kundër ndërtimit të resortit luksoz në Zvërnec. “Ja dhe ata qe e “duan” më shumë sesa ne Shqipërinë,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T14:51:36+00:00",
-      "dateStr": "06 Jun, 14:51",
-      "isNew": true,
-      "id": "24 51780757496"
-    },
-    {
-      "title": "ISHP ka hapur këshillimoren e parë psikologjike shtetërore për fëmijë dhe adoleshentë",
-      "link": "https://24-ore.com/ishp-ka-hapur-keshillimoren-e-pare-psikologjike-shteterore-per-femije-dhe-adoleshente/",
-      "description": "Në Institutin e Shëndetit Publik sot është hapur Këshillimorja e parë psikologjike për fëmijë dhe adoleshentë e këtij lloji në vend, e cila do të ofrojë mbështetje profesionale për fëmijë, adoleshentë, prindër dhe mësues përmes sistemit “Termini im”, njoftoi drejtoresha e Institutit të Shëndetit Pub",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T14:38:36+00:00",
-      "dateStr": "06 Jun, 14:38",
-      "isNew": true,
-      "id": "24 61780756716"
-    },
-    {
-      "title": "Hoxha-Roswall: Vlerësojmë mbështetjen e Bashkimit Evropian në zbatimin e reformave mjedisore për RMV-në",
-      "link": "https://24-ore.com/hoxha-roswall-vleresojme-mbeshtetjen-e-bashkimit-evropian-ne-zbatimin-e-reformave-mjedisore-per-rmv-ne/",
-      "description": "Ministri i Mjedisit Jetësor dhe Planifikimit Hapësinor, Muhamet Hoxha ditë më parë mori pjesë në Konferencën Ministrore të Procesit të Bashkëpunimit në Evropën Juglindore (SEECP), e mbajtur në Sofje, ku fokusi kryesor ishte adresimi i sfidave klimatike, tranzicioni i gjelbër dhe avancimi i bashkëpun",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T14:38:28+00:00",
-      "dateStr": "06 Jun, 14:38",
-      "isNew": true,
-      "id": "24 71780756708"
-    },
-    {
-      "title": "Kosova, Foda: Duhet të tregojmë nga minuta e parë se e duam fitoren",
-      "link": "https://24-ore.com/kosova-foda-duhet-te-tregojme-nga-minuta-e-pare-se-e-duam-fitoren/",
-      "description": "Përfaqësuesja e Kosovës ka zhvilluar seancën e fundit stërvitore para ndeshjes miqësore kundër Andorrës, e cila zhvillohet të dielën, më 7 qershor, në orën 20:00, në stadiumin “Fadil Vokrri”. Trajneri Franco Foda, së bashku me stafin e tij, ka punuar në detajet e fundit taktike, organizimin e lojës ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T14:38:11+00:00",
-      "dateStr": "06 Jun, 14:38",
-      "isNew": true,
-      "id": "24 81780756691"
+      "id": "abc51780757641"
     },
     {
       "title": "Hamas shqyrton udhëheqjen kolektive pas eliminimit të komandantëve nga Izraeli",
@@ -122,18 +188,7 @@
       "date": "2026-06-06T14:38:00+00:00",
       "dateStr": "06 Jun, 14:38",
       "isNew": true,
-      "id": "abc11780756680"
-    },
-    {
-      "title": "Përplasen dy makina në aksin Pogradec–Qafë Thanë, plagosen dy persona",
-      "link": "https://24-ore.com/perplasen-dy-makina-ne-aksin-pogradec-qafe-thane-plagosen-dy-persona/",
-      "description": "Një aksident rrugor ka ndodhur pasditen e kësaj të shtune në aksin nacional Pogradec–Qafë Thanë, pranë fshatit Pojskë. Sipas informacioneve paraprake, në aksident janë përfshirë dy automjete që janë përplasur me njëra-tjetrën, duke shkaktuar plagosjen e dy personave. Të lënduarit janë transportuar m",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T14:37:51+00:00",
-      "dateStr": "06 Jun, 14:37",
-      "isNew": true,
-      "id": "24 91780756671"
+      "id": "abc61780756680"
     },
     {
       "title": "Pentagoni i ngriti kërcënimin për spiunazh izraelit ndaj SHBA-ve në nivelin më të lartë",
@@ -144,7 +199,7 @@
       "date": "2026-06-06T14:12:36+00:00",
       "dateStr": "06 Jun, 14:12",
       "isNew": true,
-      "id": "abc21780755156"
+      "id": "abc71780755156"
     },
     {
       "title": "Shqipëria eksperimentale/ Kombëtarja luan sonte miqësoren e radhës ndaj Luksemburgut",
@@ -155,7 +210,7 @@
       "date": "2026-06-06T13:47:20+00:00",
       "dateStr": "06 Jun, 13:47",
       "isNew": true,
-      "id": "abc31780753640"
+      "id": "abc81780753640"
     },
     {
       "title": "Euro kap rekord historik/ 95 lekë, niveli më i ulët i monedhës europiane, efekt i turizmit",
@@ -166,62 +221,7 @@
       "date": "2026-06-06T13:45:50+00:00",
       "dateStr": "06 Jun, 13:45",
       "isNew": true,
-      "id": "abc41780753550"
-    },
-    {
-      "title": "Ndeshja miqësore me Luksemburgun/ Policia me plan masash, rrugët që do të bllokohen",
-      "link": "https://abcnews.al/ndeshja-miqesore-me-luksemburgun-policia-me-plan-masash-rruget-qe-do-te-bllokohen/",
-      "description": "POLICIA E SHTETIT Plan masash për garantimin e rendit dhe sigurisë para, gjatë dhe pas zhvillimit të ndeshjes miqësore të futbollit ndërmjet ekipeve kombëtare të Shqipërisë dhe Luksemburgut, që do të zhvillohet më datë 06.06.2026, në orën 20:00, në stadiumin “Air Albania”. Për mbarëvajtjen e këtij a",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-06T13:42:42+00:00",
-      "dateStr": "06 Jun, 13:42",
-      "isNew": true,
-      "id": "abc51780753362"
-    },
-    {
-      "title": "“El Ninjo”, nuk shpëtojmë as ne/ Meteorologët: Verë të nxehtë e të gjatë dhe përmbytje në vjeshtë",
-      "link": "https://abcnews.al/el-ninjo-nuk-shpetojme-as-ne-meteorologet-vere-te-nxehte-e-te-gjate-dhe-permbytje-ne-vjeshte/",
-      "description": "Mund të mendohet se ndodh larg Shqipërisë dhe nuk na prek, por nuk është kështu. Fenomeni El Niño, që zhvillohet për shkak të ngrohjes së sipërfaqes ujore në Oqeanin Paqësor, duke sjellë kushte ekstreme të motit, sipas meteorologëve do të shfaqë ndikimin e vet edhe në vendin tonë. &#8220;Ndonëse ësh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-06T13:39:19+00:00",
-      "dateStr": "06 Jun, 13:39",
-      "isNew": true,
-      "id": "abc61780753159"
-    },
-    {
-      "title": "Vlorë, banorët mbështesin investimin/ “Vende pune dhe zhvillim ekonomik për Zvërnecin dhe gjithë Vlorën”",
-      "link": "https://abcnews.al/vlore-banoret-mbeshtesin-investimin-vende-pune-dhe-zhvillim-ekonomik-per-zvernecin-dhe-gjithe-vloren/",
-      "description": "Një ditë pasi kryeministri Edi Rama u ndal në Vlorë dhe  gjatë takimeve të tij diskutoi dhe për Zvërnecin, banorët e qytetit shprehen në mbështetje të investimit. Qytetarë të moshave të ndryshme thonë se investimi do të sjellë zhvillim ekonomik dhe vende të reja pune. Ndikim sipas tyre do të ketë jo",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-06T13:28:56+00:00",
-      "dateStr": "06 Jun, 13:28",
-      "isNew": true,
-      "id": "abc71780752536"
-    },
-    {
-      "title": "Rama nxjerr pamjet e ishullit turistik në Katar: U zhvillua nga investitorët e projektit të Zvërnecit",
-      "link": "https://abcnews.al/rama-nxjerr-pamjet-e-ishullit-turistik-ne-katar-u-zhvillua-nga-investitoret-e-projektit-te-zvernecit/",
-      "description": "Kryeministri Edi Rama ka reaguar sërish në mbrojtje të projektit turistik në Zvërnec, duke vënë në dukje profilin ndërkombëtar të investitorëve që janë përfshirë në këtë nismë. Përmes një postimi në rrjetet sociale, Rama ka publikuar pamje nga një ishull turistik në Katar, i konsideruar si një nga d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-06T13:18:02+00:00",
-      "dateStr": "06 Jun, 13:18",
-      "isNew": true,
-      "id": "abc81780751882"
-    },
-    {
-      "title": "Ebola, shtohen vdekjet/ Kongo, mjekët: Pacientët shkojnë shumë vonë në spitale",
-      "link": "https://abcnews.al/ebola-shtohen-vdekjet-kongo-mjeket-pacientet-shkojne-shume-vone-ne-spitale/",
-      "description": "Mjekët në Kongo shpresin shqetësimin se pacientët e infektuar me virusin Ebola shkojnë shumë vonë në spitale. Rastet e para u raportuan në fund të prillit në Bunia, një nga zonat më të goditura, por autoritetet nuk janë të sigurt për burimin e sëmundjes dhe thonë se përhapja mund të ketë filluar jav",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-06T13:02:19+00:00",
-      "dateStr": "06 Jun, 13:02",
-      "isNew": true,
-      "id": "abc91780750939"
+      "id": "abc91780753550"
     },
     {
       "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
