@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-06-06T22:09:11.720475+00:00",
+  "lastUpdated": "2026-06-07T00:00:24.883625+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "A e lënë Ramën te largohet?",
+      "link": "https://24-ore.com/a-e-lene-ramen-te-largohet/",
+      "description": "Nje pyetje gjysmë retorike, qe ne teori pergjigja eshte po. Çdo kryeministër ne nje shoqeri demokratike ka mundësinë të bëjë gjënë e duhur ne momentin e duhur, të dëgjojë zërin e qytetarëve, të respektojë interesin publik dhe, kur humbet besimin moral, të japë dorëheqjen. Por në praktikë, Rama duket",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T22:54:37+00:00",
+      "dateStr": "06 Jun, 22:54",
+      "isNew": true,
+      "id": "24 01780786477"
+    },
+    {
+      "title": "Gjermania rrit investimet ushtarake përballë kërcënimit rus",
+      "link": "https://24-ore.com/gjermania-rrit-investimet-ushtarake-perballe-kercenimit-rus/",
+      "description": "Gjermania do të intensifikojë përpjekjet për forcimin e kapaciteteve të saj ushtarake dhe përshpejtimin e investimeve në mbrojtje, mes shqetësimeve të vazhdueshme për kërcënimin që, sipas Berlinit, paraqet Rusia. Kështu deklaroi ministri gjerman i Mbrojtjes, Boris Pistorius, gjatë aktiviteteve të Di",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T22:41:03+00:00",
+      "dateStr": "06 Jun, 22:41",
+      "isNew": true,
+      "id": "24 11780785663"
+    },
+    {
+      "title": "Sulm me dron në Sudan, 11 civilë humbin jetën në një treg",
+      "link": "https://24-ore.com/sulm-me-dron-ne-sudan-11-civile-humbin-jeten-ne-nje-treg/",
+      "description": "Të paktën 11 civilë u vranë dhe dhjetëra të tjerë u plagosën pas një sulmi me dron që goditi një treg në shtetin e Kordofani i Veriut në Sudan, sipas një organizate sudaneze për të drejtat e njeriut. Grupi i Avokatëve të Emergjencave njoftoi se sulmi ndodhi të shtunën në mëngjes në tregun e zonës [&",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T22:40:52+00:00",
+      "dateStr": "06 Jun, 22:40",
+      "isNew": true,
+      "id": "24 21780785652"
+    },
+    {
+      "title": "Google do t’i paguajë SpaceX 920 milionë euro në muaj për marrjen e kapaciteve kompjuterike",
+      "link": "https://24-ore.com/google-do-ti-paguaje-spacex-920-milione-euro-ne-muaj-per-marrjen-e-kapaciteve-kompjuterike/",
+      "description": "Google ka nënshkruar një marrëveshje të madhe me SpaceX për marrjen me qira të kapaciteteve kompjuterike të kompanisë së drejtuar nga Elon Musk. Sipas marrëveshjes, Google do të paguajë rreth 920 milionë euro në muaj për një periudhë 32-mujore, duke shënuar një nga kontratat më të mëdha në sektorin ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-06T22:40:39+00:00",
+      "dateStr": "06 Jun, 22:40",
+      "isNew": true,
+      "id": "24 31780785639"
+    },
     {
       "title": "I zhdukur prej më shumë se një jave në Japoni, gjendet i pajetë studenti amerikan",
       "link": "https://abcnews.al/i-zhdukur-prej-me-shume-se-nje-jave-ne-japoni-gjendet-i-pajete-studenti-amerikan/",
@@ -23,7 +67,7 @@
       "date": "2026-06-06T21:37:46+00:00",
       "dateStr": "06 Jun, 21:37",
       "isNew": true,
-      "id": "24 01780781866"
+      "id": "24 41780781866"
     },
     {
       "title": "Simiq rikthen narrativat nacionaliste gjatë fushatës: Kundërshtarët politikë i krahason me “tradhtarë” historikë",
@@ -34,7 +78,7 @@
       "date": "2026-06-06T21:37:35+00:00",
       "dateStr": "06 Jun, 21:37",
       "isNew": true,
-      "id": "24 11780781855"
+      "id": "24 51780781855"
     },
     {
       "title": "Izraeli bombardon 150 pozicione të Hezbollahut në Liban",
@@ -89,7 +133,7 @@
       "date": "2026-06-06T20:38:54+00:00",
       "dateStr": "06 Jun, 20:38",
       "isNew": true,
-      "id": "24 21780778334"
+      "id": "24 61780778334"
     },
     {
       "title": "Këshilltari i PS-së: Protestat po ndikohen nga dezinformimi në rrjetet sociale",
@@ -100,7 +144,7 @@
       "date": "2026-06-06T20:38:32+00:00",
       "dateStr": "06 Jun, 20:38",
       "isNew": true,
-      "id": "24 31780778312"
+      "id": "24 71780778312"
     },
     {
       "title": "Katër të arrestuar pas përleshjeve pranë një qendre imigracioni në New Jersey",
@@ -111,7 +155,7 @@
       "date": "2026-06-06T20:38:12+00:00",
       "dateStr": "06 Jun, 20:38",
       "isNew": true,
-      "id": "24 41780778292"
+      "id": "24 81780778292"
     },
     {
       "title": "I zhdukur prej më shumë se një jave në Japoni, gjendet i pajetë studenti amerikan",
@@ -122,7 +166,7 @@
       "date": "2026-06-06T20:37:58+00:00",
       "dateStr": "06 Jun, 20:37",
       "isNew": true,
-      "id": "24 51780778278"
+      "id": "24 91780778278"
     },
     {
       "title": "Putin refuzoi ofertën për takim, Zelensky: Ai humbi shansin për t’i dhënë fund luftës",
@@ -134,39 +178,6 @@
       "dateStr": "06 Jun, 20:27",
       "isNew": true,
       "id": "abc51780777648"
-    },
-    {
-      "title": "Nëse protesta nuk flet vetë, do të flasin të tjerët për të",
-      "link": "https://24-ore.com/nese-protesta-nuk-flet-vete-do-te-flasin-te-tjeret-per-te/",
-      "description": "Nga Bjorn Runa Prej një jave tashmë (sot bëhen plot shtatë ditë), Shqipëria po dëshmon një moment të rrallë të çlirimit të politikës nga forcat e zakonshme që e kanë kontrolluar atë prej tri dekadash. Kjo falë valës së protestave në mbrojtje të ‘Zvërnecit,’ që duket se kanë thyer mpirjen e një pjese",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T20:22:42+00:00",
-      "dateStr": "06 Jun, 20:22",
-      "isNew": true,
-      "id": "24 61780777362"
-    },
-    {
-      "title": "Aksident në aksin Fier-Levan, plagosen 3 persona",
-      "link": "https://24-ore.com/aksident-ne-aksin-fier-levan-plagosen-3-persona/",
-      "description": "Një aksident ka ndodhur mbrëmjen e sotme në aksin rrugor Fier- Levan, në vendin e quajtur “ Kthesa e Liqenit”, raporton gazetarja e Klan News, Anila Sefa. Dy automjete tip “Fiat” dhe “Audi” janë përplasur kokë më kokë me njëra-tjetrën dhe si pasojë e goditjes së fortë kanë mbetur të lënduar tre pers",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T20:21:06+00:00",
-      "dateStr": "06 Jun, 20:21",
-      "isNew": true,
-      "id": "24 71780777266"
-    },
-    {
-      "title": "Shqipëria zhgënjen në miqësore, Luksemburgu fiton në “Air Albania”",
-      "link": "https://24-ore.com/shqiperia-zhgenjen-ne-miqesore-luksemburgu-fiton-ne-air-albania/",
-      "description": "Pritej një reagim nga kombëtarja pas humbjes 1-0 përballë Izraelit, por Shqipëria zhgënjen edhe në miqësoren ndaj Luksemburgut, të cilën e humbet me rezultatin 1-0. Në një atmosferë të vakët në “Air Albania”, ku binte në sy mungesa e tifozëve, djemtë kuqezi nuk arrijnë që të evitojnë humbjen e dytë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T20:07:25+00:00",
-      "dateStr": "06 Jun, 20:07",
-      "isNew": true,
-      "id": "24 81780776445"
     },
     {
       "title": "Shqipëria “mësohet” me humbjet/ Luksemburgu na mund 1-0 në shtëpi, Maran nuk “shëron” kuqezinjtë",
@@ -200,17 +211,6 @@
       "dateStr": "06 Jun, 19:39",
       "isNew": true,
       "id": "abc81780774796"
-    },
-    {
-      "title": "Rama reagim për mediat ndërkombëtare: Histeri digjitale, sot në protestë vetëm 2 mijë pjesëmarrës",
-      "link": "https://24-ore.com/rama-reagim-per-mediat-nderkombetare-histeri-digjitale-sot-ne-proteste-vetem-2-mije-pjesemarres/",
-      "description": "Kryeministri Edi Rama ka reaguar në rrjetin social X ndaj raportimeve të mediave ndërkombëtare, mes tyre edhe CNN, lidhur me protestat e ditëve të fundit kundër projektit të diskutuar për zhvillimin turistik në zonën e Zvërnecit. Në një postim të gjatë, ku në fund të tij ka publikuar edhe pamje nga ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T19:37:47+00:00",
-      "dateStr": "06 Jun, 19:37",
-      "isNew": true,
-      "id": "24 91780774667"
     },
     {
       "title": "Korrespondent me Kasandra Pali, (06/06/2026)",
