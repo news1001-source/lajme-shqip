@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-06-07T00:00:24.883625+00:00",
+  "lastUpdated": "2026-06-07T05:18:35.692521+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Kosova voton",
+      "link": "https://24-ore.com/kosova-voton/",
+      "description": "Qytetarët e Kosovës sot, më 7 qershor i drejtohen kutive të votimit për të zgjedhur përfaqësuesit e tyre në zgjedhjet e parakohshme për Kuvendin e Kosovës. Sipas të dhënave të certifikuara nga Komisioni Qendror i Zgjedhjeve, të drejtë vote në këto zgjedhje kanë 2,092,174 qytetarë, ndërkaq për herë t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-07T05:09:54+00:00",
+      "dateStr": "07 Jun, 05:09",
+      "isNew": true,
+      "id": "24 01780808994"
+    },
+    {
+      "title": "Horoskopi, çfarë parashikojnë yjet për ju",
+      "link": "https://abcnews.al/horoskopi-cfare-parashikojne-yjet-per-ju-249/",
+      "description": "Dashi Dite shume e trazuar dhe e mbushur me debate te mëdha kjo e sotmja për te dashuruarit. Shume persona do ndërhyjnë ne jetën tuaj dhe do ua prishin atmosferën. Beqaret nuk do jene te qarte për hapat qe duhet te hedhin dhe nuk do i pranojnë te gjitha ftesat qe do iu bëhen. Ne [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-07T05:00:44+00:00",
+      "dateStr": "07 Jun, 05:00",
+      "isNew": true,
+      "id": "abc01780808444"
+    },
+    {
+      "title": "Zvërneci, si u ul mbrojtja nga ‘Rezervat’ në ‘Peizazh’",
+      "link": "https://24-ore.com/zverneci-si-u-ul-mbrojtja-nga-rezervat-ne-peizazh/",
+      "description": "Zona e Pishë Poro-Nartë, brenda së cilës përfshihet dhe Zvërneci e bregdeti i tij, ka ndryshuar statusin e saj të mbrojtjes, fillimisht në vitin 2022, ku kaloi në një kategori më të ulët. Ndërsa ndryshimet ligjore të 2024, i dhanë më shumë hapësirë, mundësisë së ndërtimeve, për turizëm. Një vëzhgim ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-07T04:59:33+00:00",
+      "dateStr": "07 Jun, 04:59",
+      "isNew": true,
+      "id": "24 11780808373"
+    },
+    {
+      "title": "Flamingoja si metaforë e zgjimit qytetar",
+      "link": "https://24-ore.com/flamingoja-si-metafore-e-zgjimit-qytetar/",
+      "description": "Në vitin 1997 dhe më 2008, kur ndodhën tragjedia e skemave piramidale dhe ajo e Gërdecit, jetoja e punoja në Shtetet e Bashkuara. Pas vizites së Sekretarit James Baker më 1991, ato dy ngjarje ishin të parat qe u mbuluan gjerësisht e në vazhdim nga CNN dhe nga mediat më të mëdha botërore, përfshirë N",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-07T04:39:59+00:00",
+      "dateStr": "07 Jun, 04:39",
+      "isNew": true,
+      "id": "24 21780807199"
+    },
+    {
+      "title": "KQZ: Ka përfunduar votimi në 26 përfaqësi diplomatike, pjesëmarrje 80.85%",
+      "link": "https://24-ore.com/kqz-ka-perfunduar-votimi-ne-26-perfaqesi-diplomatike-pjesemarrje-80-85/",
+      "description": "Sipas KQZ-së, votimi është mbyllur në përfaqësitë diplomatike në Turqi, Gjermani, Zvicër, Francë, Belgjikë, Norvegji, Austri, Suedi, Slloveni, Danimarkë, Itali, Kroaci, Holandë, Republikën Çeke, Hungari dhe në Mbretërinë e Bashkuar. Ndërkohë, votimi pritet të përfundojë në orën 01:00 pas mesnate sip",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-07T02:16:29+00:00",
+      "dateStr": "07 Jun, 02:16",
+      "isNew": true,
+      "id": "24 31780798589"
+    },
+    {
+      "title": "Kosova gati për zgjedhjet",
+      "link": "https://24-ore.com/kosova-gati-per-zgjedhjet/",
+      "description": "Këto pako që përfshijnë fletëvotimet, listat përfundimtare të votuesve dhe vulat deri mëngjesin e së dielës do të ruhen nga ekipet policore. Sipas vendimit të KQZ-së, për këto zgjedhje janë shtypur gjithsej 1 milion e 778 mijë e 300 fletëvotime. Prej tyre, 1 milion e 605 mijë janë të destinuara për ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-07T02:13:18+00:00",
+      "dateStr": "07 Jun, 02:13",
+      "isNew": true,
+      "id": "24 41780798398"
+    },
     {
       "title": "A e lënë Ramën te largohet?",
       "link": "https://24-ore.com/a-e-lene-ramen-te-largohet/",
@@ -12,7 +78,7 @@
       "date": "2026-06-06T22:54:37+00:00",
       "dateStr": "06 Jun, 22:54",
       "isNew": true,
-      "id": "24 01780786477"
+      "id": "24 51780786477"
     },
     {
       "title": "Gjermania rrit investimet ushtarake përballë kërcënimit rus",
@@ -23,7 +89,7 @@
       "date": "2026-06-06T22:41:03+00:00",
       "dateStr": "06 Jun, 22:41",
       "isNew": true,
-      "id": "24 11780785663"
+      "id": "24 61780785663"
     },
     {
       "title": "Sulm me dron në Sudan, 11 civilë humbin jetën në një treg",
@@ -34,7 +100,7 @@
       "date": "2026-06-06T22:40:52+00:00",
       "dateStr": "06 Jun, 22:40",
       "isNew": true,
-      "id": "24 21780785652"
+      "id": "24 71780785652"
     },
     {
       "title": "Google do t’i paguajë SpaceX 920 milionë euro në muaj për marrjen e kapaciteve kompjuterike",
@@ -45,7 +111,7 @@
       "date": "2026-06-06T22:40:39+00:00",
       "dateStr": "06 Jun, 22:40",
       "isNew": true,
-      "id": "24 31780785639"
+      "id": "24 81780785639"
     },
     {
       "title": "I zhdukur prej më shumë se një jave në Japoni, gjendet i pajetë studenti amerikan",
@@ -56,7 +122,7 @@
       "date": "2026-06-06T21:56:37+00:00",
       "dateStr": "06 Jun, 21:56",
       "isNew": true,
-      "id": "abc01780782997"
+      "id": "abc11780782997"
     },
     {
       "title": "Disa serbë lodhen nga narrativat e Vuçiqit, shpërndajnë fletushka me kritika ndaj tij",
@@ -67,18 +133,7 @@
       "date": "2026-06-06T21:37:46+00:00",
       "dateStr": "06 Jun, 21:37",
       "isNew": true,
-      "id": "24 41780781866"
-    },
-    {
-      "title": "Simiq rikthen narrativat nacionaliste gjatë fushatës: Kundërshtarët politikë i krahason me “tradhtarë” historikë",
-      "link": "https://24-ore.com/simiq-rikthen-narrativat-nacionaliste-gjate-fushates-kundershtaret-politike-i-krahason-me-tradhtare-historike/",
-      "description": "Nënkryetari i Lista Serbe, Igor Simiq, ka përdorur retorikë të fortë nacionaliste gjatë një tubimi elektoral, duke krahasuar kundërshtarët politikë me figura historike që në narrativën nacionaliste serbe konsiderohen simbol i tradhtisë. Në fjalimin e tij, Simiq iu referua betejës së Kosovës dhe figu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T21:37:35+00:00",
-      "dateStr": "06 Jun, 21:37",
-      "isNew": true,
-      "id": "24 51780781855"
+      "id": "24 91780781866"
     },
     {
       "title": "Izraeli bombardon 150 pozicione të Hezbollahut në Liban",
@@ -89,7 +144,7 @@
       "date": "2026-06-06T21:37:32+00:00",
       "dateStr": "06 Jun, 21:37",
       "isNew": true,
-      "id": "abc11780781852"
+      "id": "abc21780781852"
     },
     {
       "title": "Gjermania rrit investimet ushtarake përballë kërcënimit rus",
@@ -100,7 +155,7 @@
       "date": "2026-06-06T21:19:08+00:00",
       "dateStr": "06 Jun, 21:19",
       "isNew": true,
-      "id": "abc21780780748"
+      "id": "abc31780780748"
     },
     {
       "title": "Alarm për tritol në një automjet në Vlorë/ Policia në vendngjarje",
@@ -111,7 +166,7 @@
       "date": "2026-06-06T20:55:12+00:00",
       "dateStr": "06 Jun, 20:55",
       "isNew": true,
-      "id": "abc31780779312"
+      "id": "abc41780779312"
     },
     {
       "title": "Historike, aeroplani X-59 i NASA-s tejkalon shpejtësinë e zërit",
@@ -122,51 +177,7 @@
       "date": "2026-06-06T20:49:39+00:00",
       "dateStr": "06 Jun, 20:49",
       "isNew": true,
-      "id": "abc41780778979"
-    },
-    {
-      "title": "Malkaj debat me përfaqësuesin e PS: Kudo që ka protestë do jem aty, Muharremi: Qytetarët kanë zgjedhur vizionin tonë",
-      "link": "https://24-ore.com/malkaj-debat-me-perfaqesuesin-e-ps-kudo-qe-ka-proteste-do-jem-aty-muharremi-qytetaret-kane-zgjedhur-vizionin-tone/",
-      "description": "Gjatë debatit në emisionin “Review” me Greta Topjana, aktori i njohur Mehdi Malkaj deklaroi se do të vazhdojë të marrë pjesë në çdo protestë kundër qeverisë, duke e lidhur angazhimin e tij me shembjen e godinës së vjetër të Teatrit Kombëtar. Malkaj e cilësoi shembjen e teatrit si një akt të papranue",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T20:38:54+00:00",
-      "dateStr": "06 Jun, 20:38",
-      "isNew": true,
-      "id": "24 61780778334"
-    },
-    {
-      "title": "Këshilltari i PS-së: Protestat po ndikohen nga dezinformimi në rrjetet sociale",
-      "link": "https://24-ore.com/keshilltari-i-ps-se-protestat-po-ndikohen-nga-dezinformimi-ne-rrjetet-sociale/",
-      "description": "I ftuar në emisionin “Review” në Euronews, këshilltari i Partisë Socialiste në Këshillin Bashkiak të Tiranës, Alfred Muharremi, duke komentuar protestat e qytetarëve dhe të shoqërisë civile, tha se një pjesë e mediave online, portaleve dhe llogarive në rrjetet sociale po i ushqejnë emocionalisht pro",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T20:38:32+00:00",
-      "dateStr": "06 Jun, 20:38",
-      "isNew": true,
-      "id": "24 71780778312"
-    },
-    {
-      "title": "Katër të arrestuar pas përleshjeve pranë një qendre imigracioni në New Jersey",
-      "link": "https://24-ore.com/kater-te-arrestuar-pas-perleshjeve-prane-nje-qendre-imigracioni-ne-new-jersey/",
-      "description": "Zyrtarët e Shërbimit Amerikan të Imigracionit dhe Doganave (ICE) arrestuan katër persona gjatë natës pas përleshjeve mes protestuesve dhe forcave të rendit jashtë qendrës së ndalimit për emigrantë Delaney Hall në Newark. Sipas autoriteteve amerikane, arrestimet u kryen pas incidenteve të ndodhura pr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T20:38:12+00:00",
-      "dateStr": "06 Jun, 20:38",
-      "isNew": true,
-      "id": "24 81780778292"
-    },
-    {
-      "title": "I zhdukur prej më shumë se një jave në Japoni, gjendet i pajetë studenti amerikan",
-      "link": "https://24-ore.com/i-zhdukur-prej-me-shume-se-nje-jave-ne-japoni-gjendet-i-pajete-studenti-amerikan/",
-      "description": "Trupi i një studenti amerikan, i cili rezultonte i zhdukur prej më shumë se një jave në Japoni, është gjetur në një zonë malore pranë Kioto, konfirmoi familja e tij. James “Weston” Higginbotham, 20 vjeç, ishte parë për herë të fundit në Stacionin e Kiotos rreth një javë më parë. Pas zhdukjes së tij,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-06T20:37:58+00:00",
-      "dateStr": "06 Jun, 20:37",
-      "isNew": true,
-      "id": "24 91780778278"
+      "id": "abc51780778979"
     },
     {
       "title": "Putin refuzoi ofertën për takim, Zelensky: Ai humbi shansin për t’i dhënë fund luftës",
@@ -177,7 +188,7 @@
       "date": "2026-06-06T20:27:28+00:00",
       "dateStr": "06 Jun, 20:27",
       "isNew": true,
-      "id": "abc51780777648"
+      "id": "abc61780777648"
     },
     {
       "title": "Shqipëria “mësohet” me humbjet/ Luksemburgu na mund 1-0 në shtëpi, Maran nuk “shëron” kuqezinjtë",
@@ -188,7 +199,7 @@
       "date": "2026-06-06T19:59:38+00:00",
       "dateStr": "06 Jun, 19:59",
       "isNew": true,
-      "id": "abc61780775978"
+      "id": "abc71780775978"
     },
     {
       "title": "Aksident në aksin Fier-Levan/ Makina përplasen “kokë më kokë”, lëndohen 3 persona",
@@ -199,7 +210,7 @@
       "date": "2026-06-06T19:46:01+00:00",
       "dateStr": "06 Jun, 19:46",
       "isNew": true,
-      "id": "abc71780775161"
+      "id": "abc81780775161"
     },
     {
       "title": "Rastet me Ebola rriten në mbi 400, shtohet frika për një shpërthim në Afrikën Qendrore",
@@ -210,18 +221,7 @@
       "date": "2026-06-06T19:39:56+00:00",
       "dateStr": "06 Jun, 19:39",
       "isNew": true,
-      "id": "abc81780774796"
-    },
-    {
-      "title": "Korrespondent me Kasandra Pali, (06/06/2026)",
-      "link": "https://abcnews.al/pas-pak-korrespondent-na-ndiqni-ne-abc-news-42/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-06T19:25:35+00:00",
-      "dateStr": "06 Jun, 19:25",
-      "isNew": true,
-      "id": "abc91780773935"
+      "id": "abc91780774796"
     },
     {
       "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
