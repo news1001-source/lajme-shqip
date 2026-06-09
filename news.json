@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-06-09T00:01:31.586128+00:00",
+  "lastUpdated": "2026-06-09T05:01:20.138248+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Bernie Sanders për protestat në Shqipëri: Mbi 100 mijë njerëz në rrugë kundër projektit të Kushner",
+      "link": "https://24-ore.com/bernie-sanders-per-protestat-ne-shqiperi-mbi-100-mije-njerez-ne-rruge-kunder-projektit-te-kushner/",
+      "description": "Senatori amerikan Bernie Sanders ka reaguar publikisht për protestat që po zhvillohen në Shqipëri kundër projektit turistik të planifikuar në zonën e Sazanit dhe Zvërnecit nga kompania e lidhur me Jared Kushner, dhëndrin e Presidentit amerikan Donald Trump. Në një postim të publikuar në rrjetet soci",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-09T04:53:01+00:00",
+      "dateStr": "09 Jun, 04:53",
+      "isNew": true,
+      "id": "24 01780980781"
+    },
+    {
+      "title": "Lugët e florinjta të resorteve luksoze",
+      "link": "https://24-ore.com/luget-e-florinjta-te-resorteve-luksoze/",
+      "description": "Sa herë që në Shqipëri shpallet një projekt turistik, propaganda zyrtare nis menjëherë të punojë me të njëjtin mekanizëm: qytetarëve u premtohet luga e florinjtë. Këtë herë shifra 4 miliardë dollarë po përmendet në çdo ekran dhe në çdo rrjet social. Shqiptarëve po u thuhet se dhëndri i Presidentit a",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-09T03:44:37+00:00",
+      "dateStr": "09 Jun, 03:44",
+      "isNew": true,
+      "id": "24 11780976677"
+    },
+    {
+      "title": "Në kërkim të një bashkëjetese të vështirë për Zvërnecin",
+      "link": "https://24-ore.com/ne-kerkim-te-nje-bashkejetese-te-veshtire-per-zvernecin/",
+      "description": "Imagjinoni për një çast sikur në projektin e Zvërnecit të mos kishte asnjë një sherr apo pretendim pronësie mbi tokën turistike. Imagjinoni që investitorët me katër miliard euro në duar të vinin e të blinin rregullisht një masë toke e cila ka të gjithë dokumentacionin e saktë, me letra reale gjykata",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-09T00:42:37+00:00",
+      "dateStr": "09 Jun, 00:42",
+      "isNew": true,
+      "id": "24 21780965757"
+    },
+    {
+      "title": "Tirana në këmbë!",
+      "link": "https://24-ore.com/tirana-ne-kembe/",
+      "description": "TIRANË – Kryeqyteti shqiptar përjetoi një nga ditët më të pazakonta të viteve të fundit. Për më shumë se pesë orë me radhë, rrugët kryesore të Tiranës u mbushën me mijëra qytetarë që marshuan, protestuan dhe ngritën zërin kundër qeverisë së kryeministrit Edi Rama. Ajo që nisi në ditët e para si një ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-09T00:35:58+00:00",
+      "dateStr": "09 Jun, 00:35",
+      "isNew": true,
+      "id": "24 31780965358"
+    },
     {
       "title": "“45.2 përqind e shqiptarëve protestuan kundër gjithë klasës politike”, ja detajet nga sondazhi",
       "link": "https://24-ore.com/45-2-perqind-e-shqiptareve-protestuan-kunder-gjithe-klases-politike-ja-detajet-nga-sondazhi/",
@@ -12,7 +56,7 @@
       "date": "2026-06-08T21:52:50+00:00",
       "dateStr": "08 Jun, 21:52",
       "isNew": true,
-      "id": "24 01780955570"
+      "id": "24 41780955570"
     },
     {
       "title": "Sondazhi: Si do të votonin shqiptarët nëse zgjedhjet mbahen sot, PS forcë e parë me 47.8 përqind, PD nën 23 përqind",
@@ -23,7 +67,7 @@
       "date": "2026-06-08T21:52:39+00:00",
       "dateStr": "08 Jun, 21:52",
       "isNew": true,
-      "id": "24 11780955559"
+      "id": "24 51780955559"
     },
     {
       "title": "Opozita e gatshme për bashkëpunim, analistët skeptikë",
@@ -34,7 +78,7 @@
       "date": "2026-06-08T21:40:05+00:00",
       "dateStr": "08 Jun, 21:40",
       "isNew": true,
-      "id": "24 21780954805"
+      "id": "24 61780954805"
     },
     {
       "title": "Reagimi i Iranit për protestat, Bardhi-Ramës: Vetë i fute në debat",
@@ -45,7 +89,7 @@
       "date": "2026-06-08T21:39:51+00:00",
       "dateStr": "08 Jun, 21:39",
       "isNew": true,
-      "id": "24 31780954791"
+      "id": "24 71780954791"
     },
     {
       "title": "Tensione në protestë, gazetari tregon se cilave parti u përkisnin disa nga pjesëmarrësit",
@@ -56,7 +100,7 @@
       "date": "2026-06-08T21:39:40+00:00",
       "dateStr": "08 Jun, 21:39",
       "isNew": true,
-      "id": "24 41780954780"
+      "id": "24 81780954780"
     },
     {
       "title": "Vokshi: Protesta nuk shuhet me fillimin e Botërorit, tani duhet t’i drejtohen me kërkesa Parlamentit",
@@ -67,7 +111,7 @@
       "date": "2026-06-08T21:39:25+00:00",
       "dateStr": "08 Jun, 21:39",
       "isNew": true,
-      "id": "24 51780954765"
+      "id": "24 91780954765"
     },
     {
       "title": "Kurti pëson rënie/ Halimi: Humbi 200 mijë vota, të negociojë për qeverinë dhe presidentin",
@@ -79,50 +123,6 @@
       "dateStr": "08 Jun, 21:39",
       "isNew": true,
       "id": "abc01780954761"
-    },
-    {
-      "title": "Netanyahu paralajmëron Iranin: Çdo sulm i ri do të marrë përgjigje më të ashpër",
-      "link": "https://24-ore.com/netanyahu-paralajmeron-iranin-cdo-sulm-i-ri-do-te-marre-pergjigje-me-te-ashper/",
-      "description": "Kryeministri izraelit, Benjamin Netanyahu, paralajmëroi të hënën se Izraeli do t’i përgjigjet me forcë çdo sulmi të ardhshëm nga Irani, pas tensioneve të fundit mes dy vendeve. Në një mesazh video, Netanyahu tha se Irani dhe Hezbollahu kanë tentuar të krijojnë një “realitet të ri” përmes sulmeve kun",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-08T21:39:14+00:00",
-      "dateStr": "08 Jun, 21:39",
-      "isNew": true,
-      "id": "24 61780954754"
-    },
-    {
-      "title": "Gjykata federale rrëzon tarifën 100 mijë dollarëshe të Donald Trump për vizat H-1B",
-      "link": "https://24-ore.com/gjykata-federale-rrezon-tarifen-100-mije-dollareshe-te-donald-trump-per-vizat-h-1b/",
-      "description": "Një gjykatës federal në Shtetet e Bashkuara ka rrëzuar një politikë të administratës së presidentit Donald Trump që detyronte kompanitë të paguanin 100 mijë dollarë në vit për çdo aplikim për vizë pune H-1B. Në vendimin e tij, gjykatësi federal Leo Sorokin argumentoi se masa shkelte si Aktin Federal",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-08T21:38:59+00:00",
-      "dateStr": "08 Jun, 21:38",
-      "isNew": true,
-      "id": "24 71780954739"
-    },
-    {
-      "title": "Prokurorët italianë nisin hetim ndaj ministrit izraelit, keqtrajtoi aktivistët e flotiljes humanitare",
-      "link": "https://24-ore.com/prokuroret-italiane-nisin-hetim-ndaj-ministrit-izraelit-keqtrajtoi-aktivistet-e-flotiljes-humanitare/",
-      "description": "Prokurorët në Itali kanë hapur një hetim ndaj ministrit izraelit të Sigurisë Kombëtare, Itamar Ben-Gvir, lidhur me trajtimin e aktivistëve të një flotilje humanitare me destinacion Gazën, gjatë ndalimit të tyre nga autoritetet izraelite. Hetimi i drejtuar nga Zyra e Prokurorit të Romës fokusohet në ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-08T21:38:48+00:00",
-      "dateStr": "08 Jun, 21:38",
-      "isNew": true,
-      "id": "24 81780954728"
-    },
-    {
-      "title": "Papa Leo në Spanjë, kërkon mbrojtje dhe integrim më të madh për emigrantët",
-      "link": "https://24-ore.com/papa-leo-ne-spanje-kerkon-mbrojtje-dhe-integrim-me-te-madh-per-emigrantet/",
-      "description": "Papa Leo XIV bëri thirrje të hënën për një qasje më humane dhe gjithëpërfshirëse ndaj emigrantëve dhe refugjatëve, gjatë një fjalimi para parlamentit spanjoll në Madrid. Gjatë vizitës së tij në Spanjë, Papa theksoi se politika e migracionit duhet të përqendrohet te dinjiteti njerëzor dhe jo vetëm te",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-08T21:38:36+00:00",
-      "dateStr": "08 Jun, 21:38",
-      "isNew": true,
-      "id": "24 91780954716"
     },
     {
       "title": "Ambasadorja e re e BE në Shqipëri/ Kaja Kallas, ka propozuar emërimin e Sofia Moreira de Sousa",
