@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-06-10T00:08:40.481996+00:00",
+  "lastUpdated": "2026-06-10T05:13:15.166046+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Horoskopi, zbuloni parashikimin e yjeve për shenjën tuaj",
+      "link": "https://abcnews.al/horoskopi-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj-169/",
+      "description": "Dashi Diskutoni hapur me partnerin tuaj sot për të gjitha problemet që keni pasur ne çift. Me qetësi dhe maturi do të zgjidhni gjithçka dhe do jeni me optimiste për te ardhmen. Beqarët do të kenë disa takime, por në sajë të tyre mund të lindin vetëm dashuri kalimtare. Planetët do jene ne anën tuaj [",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-10T05:06:48+00:00",
+      "dateStr": "10 Jun, 05:06",
+      "isNew": true,
+      "id": "abc01781068008"
+    },
+    {
+      "title": "“Revolucioni i Flamingove” përplas Ramën me Iranin",
+      "link": "https://24-ore.com/revolucioni-i-flamingove-perplas-ramen-me-iranin/",
+      "description": "Mes protestave të ashtuquajtura “Revolucioni i Flamingove” në Shqipëri, që shpërthyen kundër një projekti turistik luksoz dhe u zgjeruan si një lëvizje më e gjerë kundër qeverisë, është thelluar edhe përplasja diplomatike dhe retorike mes Tiranës dhe Teheranit. Nga njëra anë, kryeministri shqiptar, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-10T01:52:16+00:00",
+      "dateStr": "10 Jun, 01:52",
+      "isNew": true,
+      "id": "24 01781056336"
+    },
+    {
+      "title": "SHBA godet objektiva në Iran pas rrëzimit të një helikopteri Apache në Ngushticën e Hormuzit",
+      "link": "https://24-ore.com/shba-godet-objektiva-ne-iran-pas-rrezimit-te-nje-helikopteri-apache-ne-ngushticen-e-hormuzit/",
+      "description": "Uashington/Teheran – Shtetet e Bashkuara kanë ndërmarrë një seri sulmesh ushtarake kundër objektivave iraniane pasi një helikopter amerikan Apache u rrëzua në Ngushticën e Hormuzit, duke rritur ndjeshëm tensionet mes dy vendeve dhe duke nxitur paralajmërime për hakmarrje nga Teherani. Sipas ushtrisë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-10T01:41:17+00:00",
+      "dateStr": "10 Jun, 01:41",
+      "isNew": true,
+      "id": "24 11781055677"
+    },
     {
       "title": "Zgjimi qytetar i Shqipërisë",
       "link": "https://24-ore.com/zgjimi-qytetar-i-shqiperise/",
@@ -12,7 +45,7 @@
       "date": "2026-06-09T23:27:17+00:00",
       "dateStr": "09 Jun, 23:27",
       "isNew": true,
-      "id": "24 01781047637"
+      "id": "24 21781047637"
     },
     {
       "title": "Nismë për reformë zgjedhore/ Kristaq Kume dorëzon në KQZ kërkesën për mbledhjen e 20 mijë firmave në mbështetje të ndryshimeve në Kodin Zgjedhor",
@@ -23,7 +56,7 @@
       "date": "2026-06-09T23:08:39+00:00",
       "dateStr": "09 Jun, 23:08",
       "isNew": true,
-      "id": "24 11781046519"
+      "id": "24 31781046519"
     },
     {
       "title": "“Bashkohuni më 10 qershor”/ Mbyllet pas afro 6 orësh protesta madhështore në Tiranë, qytetarët paralajmërojnë vijimin e mobilizimit",
@@ -34,7 +67,7 @@
       "date": "2026-06-09T22:05:47+00:00",
       "dateStr": "09 Jun, 22:05",
       "isNew": true,
-      "id": "24 21781042747"
+      "id": "24 41781042747"
     },
     {
       "title": "Rama për AP: “Zvërneci”, kundërshtimet nga keqinformimi",
@@ -45,7 +78,7 @@
       "date": "2026-06-09T21:52:25+00:00",
       "dateStr": "09 Jun, 21:52",
       "isNew": true,
-      "id": "24 31781041945"
+      "id": "24 51781041945"
     },
     {
       "title": "Nga Kristaq Kume te Edlira Çepani, kush janë firmëtarët e nismës për ndryshime në Kodin Zgjedhor",
@@ -56,7 +89,7 @@
       "date": "2026-06-09T21:38:32+00:00",
       "dateStr": "09 Jun, 21:38",
       "isNew": true,
-      "id": "24 41781041112"
+      "id": "24 61781041112"
     },
     {
       "title": "Ministrit izraelit të financave i ndalohet hyrja në Francë",
@@ -67,7 +100,7 @@
       "date": "2026-06-09T21:38:16+00:00",
       "dateStr": "09 Jun, 21:38",
       "isNew": true,
-      "id": "24 51781041096"
+      "id": "24 71781041096"
     },
     {
       "title": "Rama: Nuk ka projekt për Zvërnecin/ Leka: SPAK të zgjidhë problemin e pronave",
@@ -78,7 +111,7 @@
       "date": "2026-06-09T21:38:03+00:00",
       "dateStr": "09 Jun, 21:38",
       "isNew": true,
-      "id": "abc01781041083"
+      "id": "abc11781041083"
     },
     {
       "title": "Rama ironizon sërish blogerët: Dalin në Instagram me lloj-lloj kremrash, thonë gjëra të pavërteta për ‘likes’ dhe �",
@@ -89,7 +122,7 @@
       "date": "2026-06-09T21:22:27+00:00",
       "dateStr": "09 Jun, 21:22",
       "isNew": true,
-      "id": "24 61781040147"
+      "id": "24 81781040147"
     },
     {
       "title": "Tensione në Hormuz, Irani paralajmëron forcat e huaja të largohen pas kërcënimeve të SHBA-së për sulm",
@@ -100,7 +133,7 @@
       "date": "2026-06-09T21:20:06+00:00",
       "dateStr": "09 Jun, 21:20",
       "isNew": true,
-      "id": "abc11781040006"
+      "id": "abc21781040006"
     },
     {
       "title": "Ruzhin: Dy koncepte të zgjerimit të BE-së kanë krijuar frustrime në vendet e Ballkanit Perëndimor",
@@ -111,29 +144,7 @@
       "date": "2026-06-09T21:08:43+00:00",
       "dateStr": "09 Jun, 21:08",
       "isNew": true,
-      "id": "24 71781039323"
-    },
-    {
-      "title": "Protestuesit marshojnë mes makinave, shoferët solidarizohen dhe mbështesin revoltën qytetare në Tiranë",
-      "link": "https://24-ore.com/protestuesit-marshojne-mes-makinave-shoferet-solidarizohen-dhe-mbeshtesin-revolten-qytetare-ne-tirane/",
-      "description": "TIRANË – Një nga pamjet më domethënëse të ditës së dhjetë të protestës qytetare në kryeqytet ishte solidariteti i treguar nga drejtuesit e mjeteve ndaj protestuesve që marshuan për orë të tëra në rrugët e Tiranës. Që prej orës 18:00, mijëra qytetarë mbushën sheshet dhe bulevardet e kryeqytetit, duke",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-09T21:00:36+00:00",
-      "dateStr": "09 Jun, 21:00",
-      "isNew": true,
-      "id": "24 81781038836"
-    },
-    {
-      "title": "Katy Perry rrëfen për lidhjen me Justin Trudeau: Ndihem e plotësuar",
-      "link": "https://24-ore.com/katy-perry-rrefen-per-lidhjen-me-justin-trudeau-ndihem-e-plotesuar/",
-      "description": "Katy Perry ka folur hapur për marrëdhënien e saj me Justin Trudeau, duke e konfirmuar publikisht dashurinë për ish-kryeministrin kanadez gjatë një eventi në New York. Çifti bëri debutimin e tyre të parë në tapetin e kuq në premierën e dokumentarit të turneut të këngëtares “Lifetimes Tour”, të mbajtu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-09T20:53:32+00:00",
-      "dateStr": "09 Jun, 20:53",
-      "isNew": true,
-      "id": "24 91781038412"
+      "id": "24 91781039323"
     },
     {
       "title": "OKB: Palestinezët të bllokuar mes forcave izraelite, kolonëve dhe Hamasit",
@@ -144,7 +155,7 @@
       "date": "2026-06-09T20:44:29+00:00",
       "dateStr": "09 Jun, 20:44",
       "isNew": true,
-      "id": "abc21781037869"
+      "id": "abc31781037869"
     },
     {
       "title": "Pelegrinazhi në Kishën e Laçit/ Në 13 qershor mbyllen 13 të martat, mijëra besimtarë festojnë Shën Adnoun",
@@ -155,7 +166,7 @@
       "date": "2026-06-09T20:32:11+00:00",
       "dateStr": "09 Jun, 20:32",
       "isNew": true,
-      "id": "abc31781037131"
+      "id": "abc41781037131"
     },
     {
       "title": "Real Story me Sokol Ballën, (09/06/2026)",
@@ -166,7 +177,7 @@
       "date": "2026-06-09T20:24:11+00:00",
       "dateStr": "09 Jun, 20:24",
       "isNew": true,
-      "id": "abc41781036651"
+      "id": "abc51781036651"
     },
     {
       "title": "Shefi i ushtrisë izraelite paralajmëron një sulm më të thellë ndaj Iranit",
@@ -177,7 +188,7 @@
       "date": "2026-06-09T20:22:52+00:00",
       "dateStr": "09 Jun, 20:22",
       "isNew": true,
-      "id": "abc51781036572"
+      "id": "abc61781036572"
     },
     {
       "title": "Bullgaria ndalon dërgimin e armëve në Ukrainë",
@@ -188,7 +199,7 @@
       "date": "2026-06-09T20:16:08+00:00",
       "dateStr": "09 Jun, 20:16",
       "isNew": true,
-      "id": "abc61781036168"
+      "id": "abc71781036168"
     },
     {
       "title": "Humbën në zonën malore të Polisit/ Gjenden pas 15 orësh 2 turistët gjermanë. Ja si është gjendja shëndetësore e tyre",
@@ -199,7 +210,7 @@
       "date": "2026-06-09T19:46:51+00:00",
       "dateStr": "09 Jun, 19:46",
       "isNew": true,
-      "id": "abc71781034411"
+      "id": "abc81781034411"
     },
     {
       "title": "“Izraeli nuk bën kompromise”/ Lufta në Iran, eksperti: Trump në trysni, Netanyahu kërkon të zgjasë luftën",
@@ -210,18 +221,7 @@
       "date": "2026-06-09T19:31:15+00:00",
       "dateStr": "09 Jun, 19:31",
       "isNew": true,
-      "id": "abc81781033475"
-    },
-    {
-      "title": "“Paqja në Lindjen e Mesme, ende larg”, Qirjazi: Izraeli në mënyrë konsistente po sulmon Libanin",
-      "link": "https://abcnews.al/paqja-ne-lindjen-e-mesme-ende-larg-qirjazi-izraeli-ne-menyre-konsistente-po-sulmon-libanin/",
-      "description": "Eksperti i sigurisë, Redion Qirjazi, u shpreh skeptik lidhur me mundësinë e arritjes së një marrëveshjeje të shpejtë paqeje në Lindjen e Mesme, pavarësisht deklaratave optimiste që janë bërë së fundmi. Sipas Qirjazit, deklaratat e presidentit Trump për një paqe të mundshme duhet parë me kujdes, pasi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-09T19:24:53+00:00",
-      "dateStr": "09 Jun, 19:24",
-      "isNew": true,
-      "id": "abc91781033093"
+      "id": "abc91781033475"
     },
     {
       "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
