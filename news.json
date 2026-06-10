@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-06-09T22:20:27.232241+00:00",
+  "lastUpdated": "2026-06-10T00:08:40.481996+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Zgjimi qytetar i Shqipërisë",
+      "link": "https://24-ore.com/zgjimi-qytetar-i-shqiperise/",
+      "description": "Një vit pasi Kryeministri Edi Rama fitoi një mandat të katërt radhazi, Shqipëria ndodhet në një realitet thellësisht të ndryshëm nga narrativa triumfaliste që ai kishte projektuar. Qeveria që pretendonte një autoritet të pakrahasueshëm tani përballet me kryengritjen qytetare më të qëndrueshme në dek",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-09T23:27:17+00:00",
+      "dateStr": "09 Jun, 23:27",
+      "isNew": true,
+      "id": "24 01781047637"
+    },
+    {
+      "title": "Nismë për reformë zgjedhore/ Kristaq Kume dorëzon në KQZ kërkesën për mbledhjen e 20 mijë firmave në mbështetje të ndryshimeve në Kodin Zgjedhor",
+      "link": "https://24-ore.com/nisme-per-reforme-zgjedhore-kristaq-kume-dorezon-ne-kqz-kerkesen-per-mbledhjen-e-20-mije-firmave-ne-mbeshtetje-te-ndryshimeve-ne-kodin-zgjedhor/",
+      "description": "TIRANË – Juristi dhe eksperti i çështjeve zgjedhore, Kristaq Kume, ka bërë të ditur se është dorëzuar në Komisionin Qendror të Zgjedhjeve kërkesa për pajisjen me fletët tip të nevojshme për mbledhjen e firmave mbështetëse nga jo më pak se 20 mijë zgjedhës, në funksion të një nisme qytetare për ndrys",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-09T23:08:39+00:00",
+      "dateStr": "09 Jun, 23:08",
+      "isNew": true,
+      "id": "24 11781046519"
+    },
     {
       "title": "“Bashkohuni më 10 qershor”/ Mbyllet pas afro 6 orësh protesta madhështore në Tiranë, qytetarët paralajmërojnë vijimin e mobilizimit",
       "link": "https://24-ore.com/bashkohuni-me-10-qershor-mbyllet-pas-afro-6-oresh-protesta-madheshtore-ne-tirane-qytetaret-paralajmerojne-vijimin-e-mobilizimit/",
@@ -12,7 +34,7 @@
       "date": "2026-06-09T22:05:47+00:00",
       "dateStr": "09 Jun, 22:05",
       "isNew": true,
-      "id": "24 01781042747"
+      "id": "24 21781042747"
     },
     {
       "title": "Rama për AP: “Zvërneci”, kundërshtimet nga keqinformimi",
@@ -23,7 +45,7 @@
       "date": "2026-06-09T21:52:25+00:00",
       "dateStr": "09 Jun, 21:52",
       "isNew": true,
-      "id": "24 11781041945"
+      "id": "24 31781041945"
     },
     {
       "title": "Nga Kristaq Kume te Edlira Çepani, kush janë firmëtarët e nismës për ndryshime në Kodin Zgjedhor",
@@ -34,7 +56,7 @@
       "date": "2026-06-09T21:38:32+00:00",
       "dateStr": "09 Jun, 21:38",
       "isNew": true,
-      "id": "24 21781041112"
+      "id": "24 41781041112"
     },
     {
       "title": "Ministrit izraelit të financave i ndalohet hyrja në Francë",
@@ -45,7 +67,7 @@
       "date": "2026-06-09T21:38:16+00:00",
       "dateStr": "09 Jun, 21:38",
       "isNew": true,
-      "id": "24 31781041096"
+      "id": "24 51781041096"
     },
     {
       "title": "Rama: Nuk ka projekt për Zvërnecin/ Leka: SPAK të zgjidhë problemin e pronave",
@@ -67,7 +89,7 @@
       "date": "2026-06-09T21:22:27+00:00",
       "dateStr": "09 Jun, 21:22",
       "isNew": true,
-      "id": "24 41781040147"
+      "id": "24 61781040147"
     },
     {
       "title": "Tensione në Hormuz, Irani paralajmëron forcat e huaja të largohen pas kërcënimeve të SHBA-së për sulm",
@@ -89,7 +111,7 @@
       "date": "2026-06-09T21:08:43+00:00",
       "dateStr": "09 Jun, 21:08",
       "isNew": true,
-      "id": "24 51781039323"
+      "id": "24 71781039323"
     },
     {
       "title": "Protestuesit marshojnë mes makinave, shoferët solidarizohen dhe mbështesin revoltën qytetare në Tiranë",
@@ -100,7 +122,7 @@
       "date": "2026-06-09T21:00:36+00:00",
       "dateStr": "09 Jun, 21:00",
       "isNew": true,
-      "id": "24 61781038836"
+      "id": "24 81781038836"
     },
     {
       "title": "Katy Perry rrëfen për lidhjen me Justin Trudeau: Ndihem e plotësuar",
@@ -111,29 +133,7 @@
       "date": "2026-06-09T20:53:32+00:00",
       "dateStr": "09 Jun, 20:53",
       "isNew": true,
-      "id": "24 71781038412"
-    },
-    {
-      "title": "Humbën në zonën malore të Polisit, gjenden pas 15 orësh 2 turistët gjermanë",
-      "link": "https://24-ore.com/humben-ne-zonen-malore-te-polisit-gjenden-pas-15-oresh-2-turistet-gjermane/",
-      "description": "Një operacion intensiv kërkim-shpëtimi i Policisë së Librazhdit ka përfunduar me sukses, duke shpëtuar shëndoshë e mirë dy turistë gjermanë që kishin humbur orientimin në zonën malore të Polisit. Pas njoftimit se ishin humbur kontaktet GPS me turistët, shërbimet e Komisariatit të Policisë Librazhd, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-09T20:53:05+00:00",
-      "dateStr": "09 Jun, 20:53",
-      "isNew": true,
-      "id": "24 81781038385"
-    },
-    {
-      "title": "Projekti në Zvërnec, ish-gjyqtari Alaudin Malaj: Investimi do t’i japë zhvillim pozitiv Shqipërisë, ja ku gaboi qeveria",
-      "link": "https://24-ore.com/projekti-ne-zvernec-ish-gjyqtari-alaudin-malaj-investimi-do-ti-jape-zhvillim-pozitiv-shqiperise-ja-ku-gaboi-qeveria/",
-      "description": "Ish-gjyqtari Alaudin Malaj, i ftuar këtë të martë në “Quo Vadis” të moderatores Pranvera Borakaj në Vizion Plus, ka folur për investimin në Zvërnec. Ai tha se çështja nuk lidhet me pronësinë, por me mënyrën se si është trajtuar procesi i zhvillimit të zonës. Malaj u shpreh se e shqetëson fakti që në",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-09T20:52:49+00:00",
-      "dateStr": "09 Jun, 20:52",
-      "isNew": true,
-      "id": "24 91781038369"
+      "id": "24 91781038412"
     },
     {
       "title": "OKB: Palestinezët të bllokuar mes forcave izraelite, kolonëve dhe Hamasit",
