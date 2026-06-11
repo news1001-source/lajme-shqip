@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-06-10T23:23:52.094014+00:00",
+  "lastUpdated": "2026-06-11T03:31:16.052763+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Zyra ku duhet të shtrihesh për t’u bërë ambasador",
+      "link": "https://24-ore.com/zyra-ku-duhet-te-shtrihesh-per-tu-bere-ambasador/",
+      "description": "Dëshmia e Kryeministrit të Shqipërisë se Mustafa Nano i paska shkuar në zyrë dhe, pasi iu shtri “aty në kolltuk” i kërkoi që ta çonte diku ambasador të Republikës së Shqipërisë, nuk është një episod i thënë kalimthi nën joshjen e një tufe duartrokitësish të mjerë. Është dëshmi me zë dhe me figurë ng",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-11T03:07:34+00:00",
+      "dateStr": "11 Jun, 03:07",
+      "isNew": true,
+      "id": "24 01781147254"
+    },
+    {
+      "title": "Investimet e huaja u rritën përsëri në tremujorin I, 43% shkuan për prona",
+      "link": "https://24-ore.com/investimet-e-huaja-u-rriten-perseri-ne-tremujorin-i-43-shkuan-per-prona/",
+      "description": "Investime Lajmet Kryesore Nga Vendi Investimet e huaja u rritën përsëri në tremujorin I, 43% shkuan për prona Publikuar më: June 10, 2026, 5:29 PM Share Copy embed code Investimet e huaja direkte u rritën përsëri në tremujorin e parë të vitit 2026. Sipas të dhënave nga Banka e Shqipërisë, ato arritë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-11T00:23:23+00:00",
+      "dateStr": "11 Jun, 00:23",
+      "isNew": true,
+      "id": "24 11781137403"
+    },
+    {
+      "title": "Pse Kryeminsitri po tall influencerat",
+      "link": "https://24-ore.com/pse-kryeminsitri-po-tall-influencerat/",
+      "description": "Në ditët e para të protestës, u fol për armiq të jashtëm. Por ndërsa protesta vazhdon, sot në ditën e 11, kundërshtari kryesor duket se ka ndryshuar. Nuk janë më armiqtë e jashtëm, nuk është opozita që &#8220;i do të keqen Shqipërisë&#8221;, dhe as gazetarët që &#8220;nuk kuptojnë dhe nxijnë realite",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-10T23:54:38+00:00",
+      "dateStr": "10 Jun, 23:54",
+      "isNew": true,
+      "id": "24 21781135678"
+    },
+    {
+      "title": "Rusia akuzon Sekretariatin e OKB-së për ‘paragjykim institucional’ mbi raportimin për Ukrainën",
+      "link": "https://24-ore.com/rusia-akuzon-sekretariatin-e-okb-se-per-paragjykim-institucional-mbi-raportimin-per-ukrainen/",
+      "description": "I dërguari i Rusisë në OKB akuzoi Sekretariatin e OKB-së të mërkurën për “paragjykim institucional” në lidhje me trajtimin e raportimeve në lidhje me Ukrainën, duke thënë se ky organ botëror ka mbajtur anë në konflikt dhe nuk mund të shërbejë më si një ndërmjetës i ndershëm. Vassily Nebenzia mbajti ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-10T23:36:38+00:00",
+      "dateStr": "10 Jun, 23:36",
+      "isNew": true,
+      "id": "24 31781134598"
+    },
     {
       "title": "Gruda thotë se koalicioni me VV-në i pamundur nëse refuzohet gazi amerikan",
       "link": "https://24-ore.com/gruda-thote-se-koalicioni-me-vv-ne-i-pamundur-nese-refuzohet-gazi-amerikan/",
@@ -12,7 +56,7 @@
       "date": "2026-06-10T22:07:26+00:00",
       "dateStr": "10 Jun, 22:07",
       "isNew": true,
-      "id": "24 01781129246"
+      "id": "24 41781129246"
     },
     {
       "title": "Vlorë/ 27-vjeçarja bie nga kati i gjashtë i pallatit, në gjendje kritike për jetën",
@@ -34,7 +78,7 @@
       "date": "2026-06-10T21:38:37+00:00",
       "dateStr": "10 Jun, 21:38",
       "isNew": true,
-      "id": "24 11781127517"
+      "id": "24 51781127517"
     },
     {
       "title": "Në kërkim për ndërtimet pa leje, dorëzohet ish-oficeri i Policisë së Sarandës",
@@ -45,7 +89,7 @@
       "date": "2026-06-10T21:38:23+00:00",
       "dateStr": "10 Jun, 21:38",
       "isNew": true,
-      "id": "24 21781127503"
+      "id": "24 61781127503"
     },
     {
       "title": "Irani mbështet protestën dhe sulmon Ramën/ Beqiri: Protesta ka degraduar, po i kundërvihet interesave shqiptare",
@@ -67,7 +111,7 @@
       "date": "2026-06-10T21:38:08+00:00",
       "dateStr": "10 Jun, 21:38",
       "isNew": true,
-      "id": "24 31781127488"
+      "id": "24 71781127488"
     },
     {
       "title": "“Vetëm 2 mandate për të zgjedhurit”, deputeti i PD-së: 4 teza për revolucionin e vërtetë",
@@ -78,7 +122,7 @@
       "date": "2026-06-10T21:37:51+00:00",
       "dateStr": "10 Jun, 21:37",
       "isNew": true,
-      "id": "24 41781127471"
+      "id": "24 81781127471"
     },
     {
       "title": "Gazetari: Protesta do të zgjasë deri natën vonë dhe mund të zhvillohet edhe nesër para Parlamentit",
@@ -89,40 +133,7 @@
       "date": "2026-06-10T21:37:34+00:00",
       "dateStr": "10 Jun, 21:37",
       "isNew": true,
-      "id": "24 51781127454"
-    },
-    {
-      "title": "Rama publikon videon e incidentit me flamurin e LGBTQI në protestë: Kjo nuk është Shqipëria që po ndërtojmë",
-      "link": "https://24-ore.com/rama-publikon-videon-e-incidentit-me-flamurin-e-lgbtqi-ne-proteste-kjo-nuk-eshte-shqiperia-qe-po-ndertojme/",
-      "description": "Kryeministri Edi Rama ka publikuar në Instagram një video ku një i ri me flamurin e LGBT shihet duke u përballur me kundërshtime dhe duke u përzënë nga protesta në Tiranë. Sipas Ramës, sjellje të tilla nuk përfaqësojnë vlerat e Shqipërisë moderne dhe evropiane. ‘Kjo nuk është Shqipëria në të cilën b",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-10T21:37:19+00:00",
-      "dateStr": "10 Jun, 21:37",
-      "isNew": true,
-      "id": "24 61781127439"
-    },
-    {
-      "title": "“Thosha çfarë janë këta”, Qafoku: Kalova pranë protestuesve dhe nuk kisha frikë",
-      "link": "https://24-ore.com/thosha-cfare-jane-keta-qafoku-kalova-prane-protestuesve-dhe-nuk-kisha-frike/",
-      "description": "Gazetari Roland Qafoku tregoi në emisionin Now ne Euronews Albania, përvojën personale nga atmosfera e protestës që po zhvillohet për të 11-ën ditë me radhë në Tiranë. Teksa theksoi faktin se si gazetar i vjetër ka qenë në shumë protesta ndër vite, Qafoku tregoi se ndjesia që përjetonte teksa kalont",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-10T21:37:06+00:00",
-      "dateStr": "10 Jun, 21:37",
-      "isNew": true,
-      "id": "24 71781127426"
-    },
-    {
-      "title": "Arlind Qori në protestë me djalin: Populli e ka marrë sovranitetin në duart e veta",
-      "link": "https://24-ore.com/arlind-qori-ne-proteste-me-djalin-populli-e-ka-marre-sovranitetin-ne-duart-e-veta/",
-      "description": "Kreu i Lëvizjes Bashkë, Arlind Qori, mori pjesë në protestën e zhvilluar në Tiranë, ku ishte i shoqëruar edhe nga djali i tij. Në një prononcim për në emisionin ‘NOW’ me Erla Mëhillin, Qori tha se në momente të tilla politikanët duhet të flasin më pak dhe të dëgjojnë më shumë qytetarët. “Detyra e po",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-10T21:36:54+00:00",
-      "dateStr": "10 Jun, 21:36",
-      "isNew": true,
-      "id": "24 81781127414"
+      "id": "24 91781127454"
     },
     {
       "title": "Të Gjitha Rrugët të Çojnë në Romë me Artur Nurën, (10/06/2026)",
@@ -134,17 +145,6 @@
       "dateStr": "10 Jun, 21:30",
       "isNew": true,
       "id": "abc21781127020"
-    },
-    {
-      "title": "“Qytetarët të bashkuar kundër përqendrimit të pushtetit”, Zogaj shpjegon arsyet e pjesëmarrjes gjithëpërfshirës",
-      "link": "https://24-ore.com/qytetaret-te-bashkuar-kunder-perqendrimit-te-pushtetit-zogaj-shpjegon-arsyet-e-pjesemarrjes-gjitheperfshires/",
-      "description": "Debati mbi nevojën për një lider të artikuluar politik në krye të protestave qytetare ishte fokusi i emisionit “Trialog” në RTSH, nën moderimin e Alba Alishanit. Analisti Preç Zogaj vuri në dukje se mungesa e një fytyre të vetme politike në këto protesta nuk është rastësi, por pasqyrim i natyrës së ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-10T21:22:05+00:00",
-      "dateStr": "10 Jun, 21:22",
-      "isNew": true,
-      "id": "24 91781126525"
     },
     {
       "title": "CEO i LUTECH: Do të dyfishojmë investimin në Tiranë, këtu gjejmë stabilitet politik",
