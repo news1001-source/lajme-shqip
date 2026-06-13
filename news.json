@@ -1,40 +1,150 @@
 {
-  "lastUpdated": "2026-06-13T21:10:31.515506+00:00",
+  "lastUpdated": "2026-06-13T23:00:16.325281+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
+      "title": "Nesër më shumë",
+      "link": "https://24-ore.com/neser-me-shume/",
+      "description": "Pak minuta para mesnatës, protesta e 14-të qytetare në Tiranë u mbyll me një mesazh të vetëm që jehonte mes turmës: “Nesër më shumë”. Pas disa orësh marshimi dhe qëndrimi në rrugët e kryeqytetit, protestuesit u shpërndanë në mënyrë paqësore, duke paralajmëruar vazhdimin e protestave edhe ditën e nes",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T22:13:22+00:00",
+      "dateStr": "13 Jun, 22:13",
+      "isNew": true,
+      "id": "24 01781388802"
+    },
+    {
+      "title": "PDK says they will not form a coalition with LVV, analysts skeptical about Kurti’s offer",
+      "link": "https://24-ore.com/pdk-says-they-will-not-form-a-coalition-with-lvv-analysts-skeptical-about-kurtis-offer/",
+      "description": "The Democratic Party of Kosovo (PDK) appears to be unwilling to enter into a coalition with Vetëvendosje in the new government. Member of the leadership of the Democratic Party of Kosovo, Mërgim Lushtaku, in a statement to KosovaPress, said that no statement by the leader of the LVV, Albin Kurti, in",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T22:13:15+00:00",
+      "dateStr": "13 Jun, 22:13",
+      "isNew": true,
+      "id": "24 11781388795"
+    },
+    {
+      "title": "Java e dhurimit të gjakut mobilizon qytetarët në mbarë vendin",
+      "link": "https://24-ore.com/java-e-dhurimit-te-gjakut-mobilizon-qytetaret-ne-mbare-vendin/",
+      "description": "Java e dhurimit vullnetar të gjakut, edhe sivjet, po zhvillohet në disa qendra të vendit, duke nisur nga 11 qershori, për t`u përmbyllur më 18 qershor. Nën moton për t`u ndihmuar atyre që kanë më së shumti nevojë, dhjetëra qytetarë të moshave të ndryshme i janë përgjigjur thirrjes për solidaritet. K",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T22:12:58+00:00",
+      "dateStr": "13 Jun, 22:12",
+      "isNew": true,
+      "id": "24 21781388778"
+    },
+    {
+      "title": "Me flakadanë dhe brohoritje. Vijon marshimi i protestuesve, shkojnë në drejtim të zonës së “Ali Demit”",
+      "link": "https://24-ore.com/me-flakadane-dhe-brohoritje-vijon-marshimi-i-protestuesve-shkojne-ne-drejtim-te-zones-se-ali-demit/",
+      "description": "Vijon prej gati një ore marshimi i qytetarëve nëpër rrugët e Tiranës. Protestuesit aktualisht po marshojnë në “Rrugën e Elbasanit”. Numri i lartë i protestuesve ka sjellë që fillimi e turmës të jetë në “Rrugën e Elbasanit” ndërsa fundi ndodhet pranë Bashkisë së Tiranës. Turma mësohet se po shkon në ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T21:42:13+00:00",
+      "dateStr": "13 Jun, 21:42",
+      "isNew": true,
+      "id": "24 31781386933"
+    },
+    {
+      "title": "Në kërkim prej vitesh, arrestohet në Borsh Moisi Habilaj. Detaje nga operacioni",
+      "link": "https://24-ore.com/ne-kerkim-prej-vitesh-arrestohet-ne-borsh-moisi-habilaj-detaje-nga-operacioni/",
+      "description": "Pas disa vitesh në kërkim është vënë në pranga Moisi Habilaj. Sipas burimeve policore, Moisi Habilaj është arrestuar mbrëmjen e sotme në Borsh gjatë një operacioni të zhvilluar nga strukturat e Policisë së Shtetit. Ai është lokalizuar në një beach bar në pronësi të familjarëve të tij, ku qëndronte p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T21:41:50+00:00",
+      "dateStr": "13 Jun, 21:41",
+      "isNew": true,
+      "id": "24 41781386910"
+    },
+    {
+      "title": "“Më tremb retorika naziste: Do i zhdukim këta do sjellim të renë”, Gjyli: Na thoni pak manualin se jam trembur",
+      "link": "https://24-ore.com/me-tremb-retorika-naziste-do-i-zhdukim-keta-do-sjellim-te-rene-gjyli-na-thoni-pak-manualin-se-jam-trembur/",
+      "description": "Analistja dhe pedagogia Arsejda Gjyli ka ngritur pikëpyetje mbi përmbajtjen dhe drejtimin politik të protestës në Tiranë , duke shprehur rezerva ndaj gjuhës së përdorur nga disa përfaqësues të saj. E ftuar këtë të shtunë në emisionin Review në Euronews Albania me gazetaren Greta Topjana, Gjyli theks",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T21:41:33+00:00",
+      "dateStr": "13 Jun, 21:41",
+      "isNew": true,
+      "id": "24 51781386893"
+    },
+    {
+      "title": "Kush po dallohet në protestë? Nurellari: Po dalin figura të forta nga këto lëvizje",
+      "link": "https://24-ore.com/kush-po-dallohet-ne-proteste-nurellari-po-dalin-figura-te-forta-nga-keto-levizje/",
+      "description": "Politologu, Adri Nurellari i ftuar këtë të mërkurë i ftuar në emisionin “Review” me Greta Topjana në Euronews Albania ka folur lidhur me protestën e qytetarëve kundër ndërtimit në Zvërnec. Ai u shpreh se kjo protestë mund të mos prodhojë lidership të ri por theksoi se ka bashkuar qytetarët. Ndër të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T21:41:11+00:00",
+      "dateStr": "13 Jun, 21:41",
+      "isNew": true,
+      "id": "24 61781386871"
+    },
+    {
+      "title": "Tetë të arrestuar gjatë marshimit kundër emigracionit në Liverpool",
+      "link": "https://24-ore.com/tete-te-arrestuar-gjate-marshimit-kunder-emigracionit-ne-liverpool/",
+      "description": "Tetë persona janë arrestuar gjatë një marshimi anti-rmigracion në Liverpool. Shumica dërrmuese e dyqaneve, kafeneve, bareve dhe bizneseve të tjera përgjatë Rrugës së Qarkut në Walton mbyllën dyert e tyre nga frika e një përsëritjeje të dhunës në zonë që shpërtheu në vitin 2024 pas sulmit në Southpor",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T21:40:49+00:00",
+      "dateStr": "13 Jun, 21:40",
+      "isNew": true,
+      "id": "24 71781386849"
+    },
+    {
+      "title": "Mickoski takim me Erdogan në Stamboll, detaje nga bisedimet",
+      "link": "https://24-ore.com/mickoski-takim-me-erdogan-ne-stamboll-detaje-nga-bisedimet/",
+      "description": "Kryeministri i Maqedonisë së Veriut, Hristjan Mickoski u takua këtë të shtunë në Stamboll me presidentin e Turqisë, Rexhep Tajip Erdogan. Në një njoftim nga qeveria e Maqedonisë së Veriut, u njoftua se në takim u konfirmua bashkëpunimi i ngushtë, miqësor dhe strategjik midis dy vendeve. Udhëheqësit ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T21:40:25+00:00",
+      "dateStr": "13 Jun, 21:40",
+      "isNew": true,
+      "id": "24 81781386825"
+    },
+    {
+      "title": "Zhvillimet për marrëveshjen SHBA-Iran alarmon Tel Avivin, Netanyahu mbledh urgjent kabinetin e sigurisë",
+      "link": "https://24-ore.com/zhvillimet-per-marreveshjen-shba-iran-alarmon-tel-avivin-netanyahu-mbledh-urgjent-kabinetin-e-sigurise/",
+      "description": "Kryeministri izraelit Benjamin Netanyahu do të mbajë një takim të kabinetit të sigurisë nesër në mbrëmje , sipas raportimeve të mediave izraelite, pas zhvillimeve të reja në bisedimet SHBA-Iran. Ky veprim vjen pasi Donald Trump njoftoi se Uashingtoni dhe Teherani do të vazhdonin me nënshkrimin e një",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T21:40:00+00:00",
+      "dateStr": "13 Jun, 21:40",
+      "isNew": true,
+      "id": "24 91781386800"
+    },
+    {
+      "title": "Një polic si Lionel Messi/ Oficeri i bluve amerikanë në Boston jep spektakël me topin",
+      "link": "https://abcnews.al/nje-polic-si-lionel-messi-oficeri-i-bluve-amerikane-ne-boston-jep-spektakel-me-topin/",
+      "description": "Që janë të jashtëzakonshëm, kjo dihej që më parë. Tifozët skocezë janë padyshim ndër më të zjarrtët në botë, e askush nuk e ka harruar se ishin 80 000 prej tyre që “pushtuan” Seviljen në 2003 për finalen e Kupës UEFA mes Sëlltikut dhe Portos së Zhoze Murinjos. Këtë herë, në Boston në Shtetet e [...]",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-13T21:35:09+00:00",
+      "dateStr": "13 Jun, 21:35",
+      "isNew": true,
+      "id": "abc01781386509"
+    },
+    {
+      "title": "Surpriza e parë e botërorit/ Zvicra zhgënjen në debutim, barazon 1-1 me Katarin",
+      "link": "https://abcnews.al/surpriza-e-pare-e-boterorit-zvicra-zhgenjen-ne-debutim-barazon-1-1-me-katarin/",
+      "description": "Zvicra zhgënjeu në debutimin e saj, duke dhuruar edhe surprizën e parë në “Botërorin 2026”. Ndryshe nga parashikimet Granit Xhaka dhe shokët e tij barazuan 1-1 me Katarin në sfidën e parë në Grupin B. Helvetët shënuan të parët me Embolo nga pika e 11 metrave, ndërsa kjo ishte penalltia e parë e Botë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-13T21:19:42+00:00",
+      "dateStr": "13 Jun, 21:19",
+      "isNew": true,
+      "id": "abc11781385582"
+    },
+    {
       "title": "Pjesë e grupit të Ervin Matës/ Ekstradohet nga Spanja, Eralbi Breçani, djali i Erzen Breçanit",
       "link": "https://abcnews.al/pjese-e-grupit-te-ervin-mates-ekstradohet-nga-spanja-eralbi-brecani-djali-i-erzen-brecanit/",
-      "description": "Ekstradohet nga Spanja, Eralbi Breçani, djali i Erzen Breçanit. Eralbi Breçani, akuzohet nga Spak se ka kryer veprat penale “Trafikimi i narkotikëve”, kryer në formën e veçantë të bashkëpunimit atë të “Grupit të strukturuar kriminal” dhe “Kryerja e veprave penale nga organizata kriminale apo grupi i",
+      "description": "Eralbi Breçani, djali i ish-zv.drejtorit të Policisë së Tiranës, Erzen Breçani, është ekstraduar nga Spanja. Ai shpallur në kërkim që në nëntor të vitit 2023 si pjesë e një grupi kriminal të trafikut të kokainës nga Amerika Latinë në Europë dhe ishte vetëdorëzuar në Spanjë në 2 prill të këtij viti. ",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-06-13T21:02:38+00:00",
       "dateStr": "13 Jun, 21:02",
       "isNew": true,
-      "id": "abc01781384558"
-    },
-    {
-      "title": "Arsim Archives",
-      "link": "https://24-ore.com/arsim-archives/",
-      "description": "Saturday / June 13 / 2026 Shop Nga Vendi Biznes Ekonomi Financa Kosova Bota Europa Azi SHBA Lindja e Mesme Të Tjera Rajoni Video Monitor Brief Insight Monitor Ekonomi Business Plus Podcast Revista Revista Javore Numrat Specialë Revista Anglisht Monitor Top List Top Companies Revenue Top Companies Pr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T20:47:17+00:00",
-      "dateStr": "13 Jun, 20:47",
-      "isNew": true,
-      "id": "24 01781383637"
-    },
-    {
-      "title": "Nga PDK thonë se s’bëjnë koalicion me LVV-në, analistët skeptikë për ofertën e Kurtit",
-      "link": "https://24-ore.com/nga-pdk-thone-se-sbejne-koalicion-me-lvv-ne-analistet-skeptike-per-oferten-e-kurtit/",
-      "description": "Partia Demokratike e Kosovës (PDK) duket se nuk është e gatshme të futet në koalicion me Vetëvendosjen në qeverinë e re. Anëtari i kryesisë së Partisë Demokratike të Kosovës, Mërgim Lushtaku, në një prononcim për KosovaPress ka thënë se asnjë deklaratë e liderit të LVV-së, Albin Kurtit, përfshirë at",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T20:40:21+00:00",
-      "dateStr": "13 Jun, 20:40",
-      "isNew": true,
-      "id": "24 11781383221"
+      "id": "abc21781384558"
     },
     {
       "title": "I dënuar për trafik droge dhe grup të strukturuar kriminal/ Kush është Moisi Habilaj i cili u arrestua nga operacionalja",
@@ -45,7 +155,7 @@
       "date": "2026-06-13T20:33:58+00:00",
       "dateStr": "13 Jun, 20:33",
       "isNew": true,
-      "id": "abc11781382838"
+      "id": "abc31781382838"
     },
     {
       "title": "Forcat operacionale ndërhynë pasi u lokalizua vendndodhja e tij/ Detaje nga arrestimi i Moisi Habilajt",
@@ -56,7 +166,7 @@
       "date": "2026-06-13T20:29:20+00:00",
       "dateStr": "13 Jun, 20:29",
       "isNew": true,
-      "id": "abc21781382560"
+      "id": "abc41781382560"
     },
     {
       "title": "Arrestohet Moisi Habilaj/ I dënuari nga drejtësia shqiptare dhe italiane u kap në Borsh nga forcat operacionale",
@@ -67,40 +177,7 @@
       "date": "2026-06-13T20:19:52+00:00",
       "dateStr": "13 Jun, 20:19",
       "isNew": true,
-      "id": "abc31781381992"
-    },
-    {
-      "title": "Shkollimi në shtëpi po përhapet me shpejtësi",
-      "link": "https://24-ore.com/shkollimi-ne-shtepi-po-perhapet-me-shpejtesi/",
-      "description": "Arsim Bota Lajmet Kryesore Shkollimi në shtëpi po përhapet me shpejtësi   Publikuar më: June 13, 2026, 10:00 PM Share Copy embed code Pas pandemisë së Covid-19, gjithnjë e më shumë prindër po zgjedhin t’i arsimojnë vetë fëmijët   Disa muaj pasi dy fëmijë sulmuan me shkopinj djalin e Enna Pink në kop",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T20:17:46+00:00",
-      "dateStr": "13 Jun, 20:17",
-      "isNew": true,
-      "id": "24 21781381866"
-    },
-    {
-      "title": "Shqipëria, me një përqindje të lartë të vajzave që shkëlqejnë në matematikë",
-      "link": "https://24-ore.com/shqiperia-me-nje-perqindje-te-larte-te-vajzave-qe-shkelqejne-ne-matematike/",
-      "description": "Arsim Lajmet Kryesore Nga Vendi Shqipëria, me një përqindje të lartë të vajzave që shkëlqejnë në matematikë Publikuar më: June 13, 2026, 10:04 PM Share Copy embed code Testimi Global PISA në vitin 2022 tregoi rënie të fortë të njohurive të nxënësve 15-vjeçare shqiptarë, por një analize e hollësishme",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T20:16:59+00:00",
-      "dateStr": "13 Jun, 20:16",
-      "isNew": true,
-      "id": "24 31781381819"
-    },
-    {
-      "title": "Siri merr përmirësimin më të madh në histori – sfidat për Apple sapo kanë filluar",
-      "link": "https://24-ore.com/siri-merr-permiresimin-me-te-madh-ne-histori-sfidat-per-apple-sapo-kane-filluar/",
-      "description": "Siri më në fund po merr përmirësimin e madh të Al që Wall Street ka pritur. Por është vetëm fillimi. Apple njoftoi të hënën Siri AI, një ripërtëritje e madhe që kompania shpreson se do ta nxjerrë në pah asistentin e saj digjital, afërsisht 15-vjeçar, së bashku me ChatGPT të OpenAI dhe Gemini të Goog",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T20:10:03+00:00",
-      "dateStr": "13 Jun, 20:10",
-      "isNew": true,
-      "id": "24 41781381403"
+      "id": "abc51781381992"
     },
     {
       "title": "Vetëm 1.2% pjesëmarrës në protesta, vetëm 18.9% opinion pozitiv për Berishën",
@@ -111,7 +188,7 @@
       "date": "2026-06-13T19:58:20+00:00",
       "dateStr": "13 Jun, 19:58",
       "isNew": true,
-      "id": "abc41781380700"
+      "id": "abc61781380700"
     },
     {
       "title": "OBSH paralajmëron Europën: Kriza e të nxehtit po merr mijëra jetë",
@@ -122,62 +199,7 @@
       "date": "2026-06-13T19:52:12+00:00",
       "dateStr": "13 Jun, 19:52",
       "isNew": true,
-      "id": "abc51781380332"
-    },
-    {
-      "title": "Ministri Nufi në Pentagon, takime të nivelit të lartë: SHBA, partneri më strategjik i Shqipërisë",
-      "link": "https://24-ore.com/ministri-nufi-ne-pentagon-takime-te-nivelit-te-larte-shba-partneri-me-strategjik-i-shqiperise/",
-      "description": "Ministri i Mbrojtjes Ermal Nufi ka zhvilluar takime të nivelit të lartë në Pentagon, më 11 dhe 12 qershor. Takimet u kryesuan nga pala amerikane nga Alton Buland, zëvendësndihmës Sekretar i Ushtrisë së SHBA-së, përgjegjës për Politikat Evropiane dhe të NATO-s dhe delegacioni shqiptar u udhëheq nga M",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T19:42:33+00:00",
-      "dateStr": "13 Jun, 19:42",
-      "isNew": true,
-      "id": "24 51781379753"
-    },
-    {
-      "title": "Elbasan, zbulohen mozaikë të rinj në Bazilikën Paleokristiane me vlera artistike fetare",
-      "link": "https://24-ore.com/elbasan-zbulohen-mozaike-te-rinj-ne-baziliken-paleokristiane-me-vlera-artistike-fetare/",
-      "description": "Bazilika Paleokristiane e Elbasanit, një nga monumentet më të rëndësishme të trashëgimisë kulturore në vend, vijon të sjellë zbulime të reja arkeologjike. Gërmimet e fundit në këtë sit, që ndodhet në zemër të qytetit pranë lagjes Kala, kanë nxjerrë në dritë një mozaik me vlera të veçanta historike, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T19:42:12+00:00",
-      "dateStr": "13 Jun, 19:42",
-      "isNew": true,
-      "id": "24 61781379732"
-    },
-    {
-      "title": "Halla e Erjon Bobës: Vdiq se u fikën dritat gjatë operacionit! Dhimbja jonë do shërohet kur të shërohet Shqipëria",
-      "link": "https://24-ore.com/halla-e-erjon-bobes-vdiq-se-u-fiken-dritat-gjate-operacionit-dhimbja-jone-do-sherohet-kur-te-sherohet-shqiperia/",
-      "description": "Halla Erion Bobës ka marrë pjesë këtë shtunë në protest para Kryeministrisë ku ka mbajtur edhe fjalën e saj para protestuesve. Ajo theksoi se nipi i saj nuk u vra vetëm nga bashkëmoshatari i tij por edhe nga shteti ku sipas saj gjatë operacioni u fikën dritat në spital. “Unë jam halla e Erjonit, e [",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T19:41:53+00:00",
-      "dateStr": "13 Jun, 19:41",
-      "isNew": true,
-      "id": "24 71781379713"
-    },
-    {
-      "title": "Nga mbi 200 familje në pak dhjetëra, emigracioni ndryshon Piskovën",
-      "link": "https://24-ore.com/nga-mbi-200-familje-ne-pak-dhjetera-emigracioni-ndryshon-piskoven/",
-      "description": "Fshati Piskovë në Përmet dikur gumëzhinte nga jeta, me mbi 200 familje që jetonin dhe punonin aty, por sot kanë mbetur vetëm rreth 50 prej tyre. Emigracioni masiv ka lënë pas një komunitet të moshuarish që përpiqen të mbijetojnë me pensionet e vogla dhe ndihmën e fëmijëve që jetojnë jashtë vendit. N",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T19:41:35+00:00",
-      "dateStr": "13 Jun, 19:41",
-      "isNew": true,
-      "id": "24 81781379695"
-    },
-    {
-      "title": "Protestuesit nisin marshimin në rrugët e Tiranës",
-      "link": "https://24-ore.com/protestuesit-nisin-marshimin-ne-rruget-e-tiranes/",
-      "description": "Ka nisur marshimi i qytetatëve nëpër kryeqytet. Pas 3 orësh para Kryeministrisë, ata kanë vendosur të nisin marshimin nëpër rrugët e Tiranës. Ata shihen me flamuj e pankarta në duar teksa vijojnë thirrjet për dorëheqjen e kryeministrit Edi Rama. Raportohet se ata po shkojnë drejt qendrës së Tiranës ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T19:41:15+00:00",
-      "dateStr": "13 Jun, 19:41",
-      "isNew": true,
-      "id": "24 91781379675"
+      "id": "abc71781380332"
     },
     {
       "title": "Siria mohon raportimet për planet për të ndërhyrë ushtarakisht në Liban",
@@ -188,7 +210,7 @@
       "date": "2026-06-13T19:36:32+00:00",
       "dateStr": "13 Jun, 19:36",
       "isNew": true,
-      "id": "abc61781379392"
+      "id": "abc81781379392"
     },
     {
       "title": "Trump: Marrëveshja me Iranin do të nënshkruhet nesër! Ngushtica e Hormuzit do të hapet",
@@ -199,29 +221,7 @@
       "date": "2026-06-13T19:18:38+00:00",
       "dateStr": "13 Jun, 19:18",
       "isNew": true,
-      "id": "abc71781378318"
-    },
-    {
-      "title": "Edicioni qendror me Fabiola Hoxha, (13/06/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-fabiola-hoxha-13-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-13T18:53:54+00:00",
-      "dateStr": "13 Jun, 18:53",
-      "isNew": true,
-      "id": "abc81781376834"
-    },
-    {
-      "title": "Botërori vazhdon me gola/ Mneri: SHBA ishte një skuadër e koordinuar! Tahiri: Kishte epërsi ndaj Paraguajit",
-      "link": "https://abcnews.al/boterori-vazhdon-me-gola-mneri-shba-ishte-nje-skuader-e-koordinuar-tahiri-kishte-epersi-ndaj-paraguajit/",
-      "description": "Skuadra e Shteteve të Bashkuara të Amerikës kaloi me lehtësi dhe në mënyrë bindëse provën e parë, atë ndaj Paraguajit, që cilësohej si një rival i vështirë. Ata patën epërsi dhe suksesi ishte I thellë, 4-1, si një paralajmërim se vendasit nuk mund të merren lehtë. Në emisionin &#8220;Futboll, jo Soc",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-13T18:37:29+00:00",
-      "dateStr": "13 Jun, 18:37",
-      "isNew": true,
-      "id": "abc91781375849"
+      "id": "abc91781378318"
     },
     {
       "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
