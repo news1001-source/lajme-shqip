@@ -1,29 +1,172 @@
 {
-  "lastUpdated": "2026-06-13T15:40:32.144801+00:00",
+  "lastUpdated": "2026-06-13T17:18:20.688311+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Orban rizgjidhet kryetar i ‘Fidesz’ pavarësisht humbjes së zgjedhjeve në Hungari",
-      "link": "https://24-ore.com/orban-rizgjidhet-kryetar-i-fidesz-pavaresisht-humbjes-se-zgjedhjeve-ne-hungari/",
-      "description": "Partia kryesore opozitare e Hungarisë, Fidesz, rizgjodhi ish-kryeministrin Viktor Orban si udhëheqës të saj të shtunën për një vit tjetër, pavarësisht humbjes së pushtetit të partisë në zgjedhjet e 12 prillit ndaj partisë së qendrës së djathtë Tisza. E ardhmja politike e Orbanit u vu në pikëpyetje p",
+      "title": "Carlo Ancelotti, ai që përfiton më shumë/ Këto janë pagat e trajnerëve të Botërorit 2026",
+      "link": "https://24-ore.com/carlo-ancelotti-ai-qe-perfiton-me-shume-keto-jane-pagat-e-trajnereve-te-boterorit-2026/",
+      "description": "Botërori i parë në histori me 48 skuadra ka nisur tashmë me skuadrat pjesëmarrëse që do të përballen mes tyre për të arritur në finalen e madhe në MetLife Stadium. Janë skuadra që drejtohen nga trajnerë të shumtë që janë të një niveli të lartë, por sa përfitojnë ata? Kush janë trajnerët më të paguar",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-13T15:40:13+00:00",
-      "dateStr": "13 Jun, 15:40",
+      "date": "2026-06-13T17:18:09+00:00",
+      "dateStr": "13 Jun, 17:18",
       "isNew": true,
-      "id": "24 01781365213"
+      "id": "24 01781371089"
+    },
+    {
+      "title": "Për ata që thërrasin “Shqipëria është e jona” dhe linçojnë shqiptarët",
+      "link": "https://24-ore.com/per-ata-qe-therrasin-shqiperia-eshte-e-jona-dhe-lincojne-shqiptaret/",
+      "description": "Nga Mero Baze Pas fasadës së një proteste qytetare e cila në thelbin e saj përfaqëson perceptimin e një pjese të qytetarëve shqiptarë se janë të përjashtuar nga qeverisja, kanë nisur të shfaqen shenjat e para të linçimit publik në emër të protestës. Pas fasadës së atyre që u japin lule policëve në b",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T17:17:16+00:00",
+      "dateStr": "13 Jun, 17:17",
+      "isNew": true,
+      "id": "24 11781371036"
+    },
+    {
+      "title": "Berisha, “idhulli” i Orban/ Humbi thellë zgjedhjet, por u zgjodh në krye të Fidzes, në një garë pa kandidatë",
+      "link": "https://abcnews.al/berisha-idhulli-i-orban-humbi-thelle-zgjedhjet-por-u-zgjodh-ne-krye-te-fidzes-ne-nje-gare-pa-kandidate/",
+      "description": "Sali Berisha, kreu i Partisë Demokratike, nuk është edhe i vetmi që në garën për kryetar partie zgjedh të kandidojë i vetëm, pa kundërshtar. “Shembullin” e tij së fundmi e ka ndjekur edhe ish-kryeministri hungarez Viktor Orbán. Orbán u rizgjodh këtë të shtunë në krye të partisë opozitare Fidesz për ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-13T17:13:23+00:00",
+      "dateStr": "13 Jun, 17:13",
+      "isNew": true,
+      "id": "abc01781370803"
+    },
+    {
+      "title": "Anthropic tërheq aksesin në modelin e fuqishëm me Al pas urdhrit të qeverisë amerikane",
+      "link": "https://24-ore.com/anthropic-terheq-aksesin-ne-modelin-e-fuqishem-me-al-pas-urdhrit-te-qeverise-amerikane/",
+      "description": "Anthropic ka tërhequr modelin e saj të fuqishëm Fable 5 pasi qeveria amerikane urdhëroi kompaninë të revokojë aksesin për të gjithë shtetasit e huaj. Administrata Trump përmendi &#8220;autoritetet e sigurisë kombëtare&#8221; dhe i tha kompanisë të &#8220;pezullojë të gjithë aksesin në Fable 5 dhe My",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T17:10:12+00:00",
+      "dateStr": "13 Jun, 17:10",
+      "isNew": true,
+      "id": "24 21781370612"
+    },
+    {
+      "title": "Komunikacioni në pikën kufitare Bogorodicë po zhvillohet normalisht, nuk ka më pritje të gjata",
+      "link": "https://24-ore.com/komunikacioni-ne-piken-kufitare-bogorodice-po-zhvillohet-normalisht-nuk-ka-me-pritje-te-gjata/",
+      "description": "Pas bllokimeve të trafikut në mëngjes dhe radhëve të gjata të automjeteve në pikën kufitare të Bogorodicës, ku disa pasagjerë pritën deri në tre orë për të hyrë në Greqi, situata është e ndryshme këtë pasdite. Aktualisht, nuk ka vonesa të mëdha në anën maqedonase të kufirit dhe trafiku po rrjedh pa ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T17:09:55+00:00",
+      "dateStr": "13 Jun, 17:09",
+      "isNew": true,
+      "id": "24 31781370595"
+    },
+    {
+      "title": "Analysts: Without political consensus, the country risks new elections",
+      "link": "https://24-ore.com/analysts-without-political-consensus-the-country-risks-new-elections/",
+      "description": "Following the statement by the acting Prime Minister, Albin Kurti, that he is ready for cooperation with other parties, especially for the election of the president, those familiar with the political circumstances in the country share different opinions. While some see this as a necessary step after",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T17:09:22+00:00",
+      "dateStr": "13 Jun, 17:09",
+      "isNew": true,
+      "id": "24 41781370562"
+    },
+    {
+      "title": "“Një popull nuk i nënshtrohet një njeriu”, Janina Ymeri:Përgjigjja mund të vijë para zgjedhjeve të ardhshme",
+      "link": "https://24-ore.com/nje-popull-nuk-i-nenshtrohet-nje-njeriu-janina-ymeripergjigjja-mund-te-vije-para-zgjedhjeve-te-ardhshme/",
+      "description": "Deputetja e Lidhjes Demokratike të Kosovës (LDK), Janina Ymeri, ka reaguar përmes një postimi në Facebook, duke rikujtuar sloganin e protestave të vitit 2019 të organizuara nga LVV “Një popull s’i nënshtrohet një njeriu”, për të cilin tha se mbetet po aq i vlefshëm edhe sot. Sipas saj, kjo thënie ta",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T17:09:10+00:00",
+      "dateStr": "13 Jun, 17:09",
+      "isNew": true,
+      "id": "24 51781370550"
+    },
+    {
+      "title": "“E dua Milanin njësoj si tim bir. Shpresoj të kenë mësuar nga ajo që ndodhi këtë vit”",
+      "link": "https://24-ore.com/e-dua-milanin-njesoj-si-tim-bir-shpresoj-te-kene-mesuar-nga-ajo-qe-ndodhi-kete-vit/",
+      "description": "Në një intervistë për MilanNews24, Alexandre Pato i është rikthyer edhe njëherë periudhës së artë që kaloi te Milan dhe nuk rresht se treguari dashurinë e madhe që ka për këtë klub. “Për mua Milan nuk ishte vetëm një klub, ishte dashuri. Jam i dashuruar me Milanin dhe e dua njësoj si djalin tim, kës",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T17:09:03+00:00",
+      "dateStr": "13 Jun, 17:09",
+      "isNew": true,
+      "id": "24 61781370543"
+    },
+    {
+      "title": "“Po përparojmë çdo ditë”/ Putin: Rusia ka mbi 700 mijë ushtarë të vendosur në Ukrainë",
+      "link": "https://abcnews.al/po-perparojme-cdo-dite-putin-rusia-ka-mbi-700-mije-ushtare-te-vendosur-ne-ukraine/",
+      "description": "Rusia ka mbi 700,000 ushtarë të vendosur në zonën e luftës në Ukrainë, tha të premten presidenti rus Vladimir Putin, në një takim me ushtrinë në Kremlin, me rastin e festës kombëtare të 12 qershorit. I shoqëruar nga Ministri i Mbrojtjes Andrei Belousov, Putin foli me besim për fitoren në “operacioni",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-13T16:53:18+00:00",
+      "dateStr": "13 Jun, 16:53",
+      "isNew": true,
+      "id": "abc11781369598"
+    },
+    {
+      "title": "Analistët: Pa konsensus politik, vendi rrezikon zgjedhje të reja",
+      "link": "https://24-ore.com/analistet-pa-konsensus-politik-vendi-rrezikon-zgjedhje-te-reja/",
+      "description": "Pas deklaratës së kryeministrit në detyrë, Albin Kurti, se është i gatshëm për bashkëpunim me partitë e tjera sidomos për zgjedhjen e presidentit, njohësit e rrethanave politike në vend ndajnë mendime të ndryshme. Derisa disa e shohin këtë si një hap të domosdoshëm pas mesazhit të qartë që votuesit ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T16:42:07+00:00",
+      "dateStr": "13 Jun, 16:42",
+      "isNew": true,
+      "id": "24 71781368927"
+    },
+    {
+      "title": "Përplasen dy automjete në Dhërmi, plagosen katër persona (VIDEO)",
+      "link": "https://24-ore.com/perplasen-dy-automjete-ne-dhermi-plagosen-kater-persona-video/",
+      "description": "Një aksident rrugor është regjistruar në Dhërmi pasditen e kësaj të shtune, ku në përplasje janë përfshirë dy automjete. Si pasojë e përplasjes, katër persona kanë mbetur të plagosur dhe janë transportuar drejt Spitalit Rajonal të Vlorës për ndihmë mjekësore. Ende nuk dihen rrethanat e plota të aksi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T16:41:53+00:00",
+      "dateStr": "13 Jun, 16:41",
+      "isNew": true,
+      "id": "24 81781368913"
+    },
+    {
+      "title": "Dita e 14-të, nis grumbullimi i protestuesve. Vendosen atlete para Kryeministisë në simbol të largimit të shqiptarëve",
+      "link": "https://24-ore.com/dita-e-14-te-nis-grumbullimi-i-protestuesve-vendosen-atlete-para-kryeministise-ne-simbol-te-largimit-te-shqiptareve/",
+      "description": "Këtë të shtunë ashtu siç ishte njoftuar ka nisur në orën 18:00 protesta e 14-të e qytetarëve në Tiranë kundër ndërtimit në Zvërnec. Qytetarët të shoqëruar nga familjarët dhe fëmijë të mitur fillimisht janë mbledhur në sheshin “Skëndërbej” dhe më pas pritet të marshojnë drejt Kryeministrisë. Ata shih",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T16:41:37+00:00",
+      "dateStr": "13 Jun, 16:41",
+      "isNew": true,
+      "id": "24 91781368897"
+    },
+    {
+      "title": "Lufta në Ukrainë tashmë ka zgjatur më shumë se Lufta e Parë Botërore",
+      "link": "https://abcnews.al/lufta-ne-ukraine-tashme-ka-zgjatur-me-shume-se-lufta-e-pare-boterore/",
+      "description": "Lufta në Ukrainë tani e ka tejkaluar Luftën e Parë Botërore në kohëzgjatje. Disa nga ngjashmëritë janë të dukshme. Në nivelin taktik, konflikti në Ukrainë ka dëshmuar rikthimin e artilerisë si krahu dominues i betejës. Gjatë pjesës më të madhe të vitit të parë të luftës, artileria ishte përgjegjëse ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-13T16:37:39+00:00",
+      "dateStr": "13 Jun, 16:37",
+      "isNew": true,
+      "id": "abc21781368659"
+    },
+    {
+      "title": "Zjarr në Vlorë/ Digjen shkurre e barishte pranë një banese",
+      "link": "https://abcnews.al/zjarr-ne-vlore-digjen-shkurre-e-barishte-prane-nje-banese/",
+      "description": "Një vatër aktive zjarri është regjistruar pak momente më parë në lagjen “Kushtrimi”. Sipas informacioneve paraprake, zjarri ka rënë në një hapësirë me shkurre dhe barishte pranë bllokut të banimit. Flakët janë përhapur me shpejtësi për shkak të erës, duke rritur rrezikun për zonën përreth. Forcat zj",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-13T16:10:34+00:00",
+      "dateStr": "13 Jun, 16:10",
+      "isNew": true,
+      "id": "abc31781367034"
     },
     {
       "title": "Starmer: Mbretëria e Bashkuar do të publikojë planin e mbrojtjes para samitit në Ankara",
-      "link": "https://24-ore.com/starmer-mbreteria-e-bashkuar-do-te-publikoje-planin-e-mbrojtjes-para-samitit-ne-ankara/",
+      "link": "https://abcnews.al/starmer-mbreteria-e-bashkuar-do-te-publikoje-planin-e-mbrojtjes-para-samitit-ne-ankara/",
       "description": "Kryeministri britanik, Keir Starmer i tha Sekretarit të Përgjithshëm të NATO-s Mark Rutte të shtunën se do të publikonte planin e investimeve të qeverisë në mbrojtje përpara samitit të ardhshëm të aleancës në Ankara. Kështu njoftoi një zëdhënës i Downing Street. Në një telefonatë më herët gjatë ditë",
-      "source": "24 ORE",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-06-13T15:39:48+00:00",
-      "dateStr": "13 Jun, 15:39",
+      "date": "2026-06-13T15:54:49+00:00",
+      "dateStr": "13 Jun, 15:54",
       "isNew": true,
-      "id": "24 11781365188"
+      "id": "abc41781366089"
     },
     {
       "title": "U vra nga sulmet e SHBA dhe Izraelit/ Caktohet data e funeralit të ish-udhëheqësit të Iranit, Ali Khamenei",
@@ -34,7 +177,7 @@
       "date": "2026-06-13T15:34:40+00:00",
       "dateStr": "13 Jun, 15:34",
       "isNew": true,
-      "id": "abc01781364880"
+      "id": "abc51781364880"
     },
     {
       "title": "SHBA publikon të dhëna për laboratorë biologjikë në mbi 30 vende",
@@ -45,29 +188,7 @@
       "date": "2026-06-13T15:20:09+00:00",
       "dateStr": "13 Jun, 15:20",
       "isNew": true,
-      "id": "abc11781364009"
-    },
-    {
-      "title": "Historia nuk jep ‘waiver’",
-      "link": "https://24-ore.com/historia-nuk-jep-waiver/",
-      "description": "Nga Adrian Thano Njoftimi për zbutjen e sanksioneve Non Grata përmes mekanizmit të “waiver” flet më shumë për metamorfozën e Uashingtonit se për Sali Berishën. Për dekada me radhë, Shtetet e Bashkuara funksionuan si garantuesi global i rendit perëndimor. Uashingtoni investoi miliarda në aleanca, në ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T15:18:22+00:00",
-      "dateStr": "13 Jun, 15:18",
-      "isNew": true,
-      "id": "24 21781363902"
-    },
-    {
-      "title": "Bayern i mbyll derën njëherë e mirë Realit dhe PSG-së për Olise, ja plani i bavarezëve për të “blinduar” francezin",
-      "link": "https://24-ore.com/bayern-i-mbyll-deren-njehere-e-mire-realit-dhe-psg-se-per-olise-ja-plani-i-bavarezeve-per-te-blinduar-francezin/",
-      "description": "Duke ditur rrezikun e madh nga Real Madrid dhe PSG, por edhe klubet e tjera të mëdha, Byern Munich po vepron shpejt për të “blinduar” njëherë e mirë Michael Olise. Sipas Sky Sport Germany, Bayern po punon për të rinovuar kontratën me Olise deri në vitin 2031. Si shpërblim për lojtarin do të ketë një",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T15:10:27+00:00",
-      "dateStr": "13 Jun, 15:10",
-      "isNew": true,
-      "id": "24 31781363427"
+      "id": "abc61781364009"
     },
     {
       "title": "Aksident i dyfishtë në Dhërmi, 4 persona mbeten të plagosur",
@@ -78,7 +199,7 @@
       "date": "2026-06-13T14:52:20+00:00",
       "dateStr": "13 Jun, 14:52",
       "isNew": true,
-      "id": "abc21781362340"
+      "id": "abc71781362340"
     },
     {
       "title": "NewsHour me Sali Doçin, (13/06/2026)",
@@ -89,73 +210,7 @@
       "date": "2026-06-13T14:51:01+00:00",
       "dateStr": "13 Jun, 14:51",
       "isNew": true,
-      "id": "abc31781362261"
-    },
-    {
-      "title": "Rrëshqitja e dherave në zonën e Currilave, kryebashkiakja Sako: Nevojitet projekt i detajuar për stabilizimin e kodrës",
-      "link": "https://24-ore.com/rreshqitja-e-dherave-ne-zonen-e-currilave-kryebashkiakja-sako-nevojitet-projekt-i-detajuar-per-stabilizimin-e-kodres/",
-      "description": "Rrëshqitjet e vazhdueshme të kodrës në zonën e Currilave, ku pak ditë më pare detyroi banorët e një pallati të largoheshin nga banesat e tyre, kanë rikthyer shqetësimin për sigurinë e zonës dhe nevojën për një zgjidhje afatgjatë. Kryebashkiakja e Durrësit, Emirjana Sako, deklaroi se stabilizimi i ko",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T14:49:10+00:00",
-      "dateStr": "13 Jun, 14:49",
-      "isNew": true,
-      "id": "24 41781362150"
-    },
-    {
-      "title": "Protesta nuk mjafton të jetë e bukur",
-      "link": "https://24-ore.com/protesta-nuk-mjafton-te-jete-e-bukur/",
-      "description": "Nga Ardi Stefa Çdo protestë kalon nëpër disa faza. Fillimisht sjell entuziazëm, energji dhe shpresë. Më pas vjen sfida e vërtetë. A është në gjendje të prodhojë organizim, drejtim dhe presion real mbi pushtetin? Nëse nga protesta nuk evidentohen drejtuesit e saj, njerëzit që do të artikulojnë kërkes",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T14:48:37+00:00",
-      "dateStr": "13 Jun, 14:48",
-      "isNew": true,
-      "id": "24 51781362117"
-    },
-    {
-      "title": "Shëngjini, shumë shpejt me bypass",
-      "link": "https://24-ore.com/shengjini-shume-shpejt-me-bypass/",
-      "description": "Në Shëngjin është duke u ndërtuar bypass-i, një nga investimet më të rëndësishme infrastrukturore për turizmin në veri. Teksa ka publikuar disa foto nga puna që po realizohet në terren, kryeministri Edi Rama thotë se “ky aks do të shmangë trafikun në qendër të qytetit dhe do të përmirësojë ndjeshëm ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T14:47:47+00:00",
-      "dateStr": "13 Jun, 14:47",
-      "isNew": true,
-      "id": "24 61781362067"
-    },
-    {
-      "title": "Policia Kufitare shpëton 5 turistë të huaj në Gjirin e Filikurit",
-      "link": "https://24-ore.com/policia-kufitare-shpeton-5-turiste-te-huaj-ne-gjirin-e-filikurit/",
-      "description": "Policia Kufitare e Himarës ka ndërhyrë në dy raste emergjente gjatë 24 orëve të fundit në Gjirin e Filikurit, duke u ardhur në ndihmë pesë turistëve të huaj. Në rastin e parë, katër turistë, dy shtetas suedezë dhe dy britanikë, mbetën të bllokuar gjatë një lundrimi me kajak për shkak të erës së fort",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T14:47:24+00:00",
-      "dateStr": "13 Jun, 14:47",
-      "isNew": true,
-      "id": "24 71781362044"
-    },
-    {
-      "title": "BDI: VLEN lavdërohen me projektet tona, autostrada Shkup-Bllacë mbanë vulën tonë",
-      "link": "https://24-ore.com/bdi-vlen-lavderohen-me-projektet-tona-autostrada-shkup-bllace-mbane-vulen-tone/",
-      "description": "“Dy vjet e vonuan, sot lavdërohen me projektin tonë Shkup – Bllacë”, kështu tha Bashkimi Demokratik për Integrim pasi kryetarët e VLEN-it njoftuan se për këtë projket janë ndarë 200 milionë euro dhe se së shpejti do të fillojnë punimet. BDI tha se në peridhën sa ishin në Qeveri e kanë ideuar dhe bux",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T14:44:40+00:00",
-      "dateStr": "13 Jun, 14:44",
-      "isNew": true,
-      "id": "24 81781361880"
-    },
-    {
-      "title": "Cafu: Botërori është kthyer në tabu për Brazilin, duhet thyer!",
-      "link": "https://24-ore.com/cafu-boterori-eshte-kthyer-ne-tabu-per-brazilin-duhet-thyer/",
-      "description": "Në vigjilje të Brazil-Marok, Cafu ka dhënë një intervistë për të përditshmen franceze “l’Equipe” ku ka shpjeguar se pritjes së gjatë të pesë herë kampionëve të botës duhet t’i vijë fundi. “Mendoj se ka ardhur koha që Brazili të shpallet kampion i botës. Kanë kaluar 24 vite dhe duhet që të bëjmë gjit",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T14:44:28+00:00",
-      "dateStr": "13 Jun, 14:44",
-      "isNew": true,
-      "id": "24 91781361868"
+      "id": "abc81781362261"
     },
     {
       "title": "Kongo/ Rreth 700 raste të konfirmuara me ebola, të paktën 139 viktima",
@@ -166,62 +221,7 @@
       "date": "2026-06-13T14:35:58+00:00",
       "dateStr": "13 Jun, 14:35",
       "isNew": true,
-      "id": "abc41781361358"
-    },
-    {
-      "title": "Irani: Marrëveshja e paqes me SHBA nuk do të nënshkruhet nesër",
-      "link": "https://abcnews.al/irani-marreveshja-e-paqes-me-shba-nuk-do-te-nenshkruhet-neser/",
-      "description": "Një zëdhënës i ministrisë së jashtme të Iranit ka thënë se marrëveshja e paqes me SHBA nuk do të nënshkruhet nesër.  Esmaeil Baghaei ka thënë se Irani duhet të jetë i kujdesshëm në komentet mbi datën e nënshkrimit për shkak të hezitimit nga SHBA. Komentet e tij vijnë mes spekulimeve në rritje nëse n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-13T14:22:47+00:00",
-      "dateStr": "13 Jun, 14:22",
-      "isNew": true,
-      "id": "abc51781360567"
-    },
-    {
-      "title": "Pesë turistë shpëtohen në Gjirin e Filikurit, policia kufitare ndërhyn në dy emergjenca brenda 24 orëve",
-      "link": "https://abcnews.al/pese-turiste-shpetohen-ne-gjirin-e-filikurit-policia-kufitare-nderhyn-ne-dy-emergjenca-brenda-24-oreve/",
-      "description": "Pesë turistë të huaj janë shpëtuar nga shërbimet e Policisë Kufitare në Himarë, pas dy ndërhyrjeve emergjente të regjistruara gjatë 24 orëve të fundit në zonën e Gjirit të Filikurit. Sipas informacioneve zyrtare, në rastin e parë katër turistë të huaj – dy shtetas suedezë dhe dy shtetas britanikë – ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-13T13:59:16+00:00",
-      "dateStr": "13 Jun, 13:59",
-      "isNew": true,
-      "id": "abc61781359156"
-    },
-    {
-      "title": "Referendum për kufizimin e popullsisë/ Zvicër, propozimi i ekstremit të djathtë kundër emigracionit",
-      "link": "https://abcnews.al/referendum-per-kufizimin-e-popullsise-zvicer-propozimi-i-ekstremit-te-djathte-kunder-emigracionit/",
-      "description": "A mundet një shtet të kufizojë popullsinë e tij? Përgjigja është po dhe kjo është ajo çfarë pritet të ndodh këtë të diel në Zvicër. Qytetarët do të votojnë në një referendum kombëtar pas një propozimi të paprecedentë të së djathtës ekstreme në kufizimin e popullsisë së vendit në 10 milionë banorë de",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-13T13:55:59+00:00",
-      "dateStr": "13 Jun, 13:55",
-      "isNew": true,
-      "id": "abc71781358959"
-    },
-    {
-      "title": "Presidenti i do kampionë / Donald Trump ka një mesazh: Kjo Kupë e Botës mund të fitohet",
-      "link": "https://abcnews.al/presidenti-i-do-kampione-donald-trump-ka-nje-mesazh-kjo-kupe-e-botes-mund-te-fitohet/",
-      "description": "E prisnin që të ishte në tribunën VIP. Shtetet e Bashkuara të Amerikës e nisën siç duhet turneun e madh që mbahet në stadiumet e tyre, si edhe në Meksikë e Kanada, por numri një i shtetit nuk ishte i pranishëm në stadium. Ekipi kombëtar mundi 4-1 Paraguajin në Los Anxhelos, ndërsa presidenti Donald ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-13T13:40:35+00:00",
-      "dateStr": "13 Jun, 13:40",
-      "isNew": true,
-      "id": "abc81781358035"
-    },
-    {
-      "title": "Gati hapja e Hormuzit/ Në prag të marrëveshjes SHBA-Iran, ulet çmimi i naftës në bursa",
-      "link": "https://abcnews.al/gati-hapja-e-hormuzit-ne-prag-te-marreveshjes-shba-iran-ulet-cmimi-i-naftes-ne-bursa/",
-      "description": "Një marrëveshje mes Iranit dhe Shteteve të Bashkuara për t’i dhënë fund luftës është në prag finalizimi dhe efekti më i rëndësishëm për ekonominë botërore do të jetë rihapja e Ngushticës së Hormuzit. Diçka e tillë është konfirmuar nga vetë ministri i Jashtëm iranian, Abbas Araghchi, i cili tha se kr",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-13T13:23:12+00:00",
-      "dateStr": "13 Jun, 13:23",
-      "isNew": true,
-      "id": "abc91781356992"
+      "id": "abc91781361358"
     },
     {
       "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
