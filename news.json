@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-06-12T23:13:32.626840+00:00",
+  "lastUpdated": "2026-06-13T02:56:07.422844+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Turizmi elitar si kullat e Ramës në Tiranë",
+      "link": "https://24-ore.com/turizmi-elitar-si-kullat-e-rames-ne-tirane/",
+      "description": "Një nga justifikimet kryesore për privatizimin e hapësirës publike si në Sazan edhe në Zvërnec është se Shqipëria ka nevojë për turizmin elitar. Sipas qeverisë sapo të vijnë turistët elitar, pra të pasurit, të gjithë shqiptarët do punësohen, pabarazia dhe varfëria do zhduket dhe vendi do zhvillohet.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T02:53:25+00:00",
+      "dateStr": "13 Jun, 02:53",
+      "isNew": true,
+      "id": "24 01781319205"
+    },
+    {
+      "title": "Kënga e fundit e Edi Ramës",
+      "link": "https://24-ore.com/kenga-e-fundit-e-edi-rames/",
+      "description": "Gjendja e rënduar e Edi Ramës dhe sjellja e tij e çakërdisur, nuk mund të shpjegohen më me personalitetin e tij, që gjithnjë e ka kërkuar vëmendjen nëpërmjet shfaqjeve ekstravagande dhe jo përmbajtjes. Shfazimi i fundit i kryeministrit shqiptar ka të gjitha simptomat e autokratëve që tmerrohen kur s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-13T02:50:24+00:00",
+      "dateStr": "13 Jun, 02:50",
+      "isNew": true,
+      "id": "24 11781319024"
+    },
     {
       "title": "Ukraina dhe Moldavia drejt BE-së, 27 vendet anëtare bien dakord për hapjen e “Themeloreve”",
       "link": "https://24-ore.com/ukraina-dhe-moldavia-drejt-be-se-27-vendet-anetare-bien-dakord-per-hapjen-e-themeloreve/",
@@ -12,7 +34,7 @@
       "date": "2026-06-12T22:39:49+00:00",
       "dateStr": "12 Jun, 22:39",
       "isNew": true,
-      "id": "24 01781303989"
+      "id": "24 21781303989"
     },
     {
       "title": "Trump vendos paqe me Europën: Ndihmuan në arritjen e paqes me Iranin",
@@ -23,7 +45,7 @@
       "date": "2026-06-12T22:39:34+00:00",
       "dateStr": "12 Jun, 22:39",
       "isNew": true,
-      "id": "24 11781303974"
+      "id": "24 31781303974"
     },
     {
       "title": "Kurti pret studentë ndërkombëtarë nga ETH Zürich, flasin për perspektivën euro-atlantike",
@@ -34,7 +56,7 @@
       "date": "2026-06-12T22:09:38+00:00",
       "dateStr": "12 Jun, 22:09",
       "isNew": true,
-      "id": "24 21781302178"
+      "id": "24 41781302178"
     },
     {
       "title": "Kush janë kandidatët që synojnë pozitën e Kryeprokurorit të Shtetit?",
@@ -45,7 +67,7 @@
       "date": "2026-06-12T22:09:23+00:00",
       "dateStr": "12 Jun, 22:09",
       "isNew": true,
-      "id": "24 31781302163"
+      "id": "24 51781302163"
     },
     {
       "title": "Paqja gjithnjë e më afër/ SHBA dhe Irani janë dakordësuar me përmbajtjen e marrëveshjes",
@@ -78,7 +100,7 @@
       "date": "2026-06-12T21:39:15+00:00",
       "dateStr": "12 Jun, 21:39",
       "isNew": true,
-      "id": "24 41781300355"
+      "id": "24 61781300355"
     },
     {
       "title": "Begaj në Prishtinë për 27-vjetorin e Çlirimit: Shqipëria do të jetë gjithmonë mbështetje e palëkundur për Kosovën",
@@ -89,7 +111,7 @@
       "date": "2026-06-12T21:38:59+00:00",
       "dateStr": "12 Jun, 21:38",
       "isNew": true,
-      "id": "24 51781300339"
+      "id": "24 71781300339"
     },
     {
       "title": "“Hapja” e dytë e Botërorit/ Pas Mexico City, spektakël edhe në ceremoninë e Torontos",
@@ -122,7 +144,7 @@
       "date": "2026-06-12T21:18:49+00:00",
       "dateStr": "12 Jun, 21:18",
       "isNew": true,
-      "id": "24 61781299129"
+      "id": "24 81781299129"
     },
     {
       "title": "Botërori, Amerika (dhe Ezmeri Blu)",
@@ -133,29 +155,7 @@
       "date": "2026-06-12T21:18:37+00:00",
       "dateStr": "12 Jun, 21:18",
       "isNew": true,
-      "id": "24 71781299117"
-    },
-    {
-      "title": "Botërori 2026/ Kanadaja “nuk dorëzohet”, barazon Bosnje Hercegovinë në minutat e fundit",
-      "link": "https://24-ore.com/boterori-2026-kanadaja-nuk-dorezohet-barazon-bosnje-hercegovine-ne-minutat-e-fundit/",
-      "description": "Kanadaja dhe Bosnje Hercegovina nuk kanë shkuar më shumë se një barazim 1-1 në ndeshjen e parë të grupit B. Gjithsesi, sfida e luajtur në Toronto ishte mjaft e bukur dhe e luftuar. Ndeshja nisi pak konfuze për të dyja ekipet, deri në të 21-ën, kur boshnjakët arritën të shfrytëzonin në maksimum zhvil",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-12T21:16:31+00:00",
-      "dateStr": "12 Jun, 21:16",
-      "isNew": true,
-      "id": "24 81781298991"
-    },
-    {
-      "title": "Së shpejti tren urban në Shkup",
-      "link": "https://24-ore.com/se-shpejti-tren-urban-ne-shkup/",
-      "description": "Për vetëm rreth pesë minuta udhëtim me tren nga Maxhari deri në Qendrën e Shkupit, dukshëm më shpejt se me autobus në të njëjtën linjë, u realizua një turr praktik krahasues në kryeqytet nga “Go Green”. Autoritetet paralajmërojnë se nga 1 shtatori pritet të nisë funksionimin i trenit urban, i cili d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-12T21:11:22+00:00",
-      "dateStr": "12 Jun, 21:11",
-      "isNew": true,
-      "id": "24 91781298682"
+      "id": "24 91781299117"
     },
     {
       "title": "Me vlerë gati 55 milionë euro, sekuestrohen një ton drogë në kufirin Turqi-Greqi",
