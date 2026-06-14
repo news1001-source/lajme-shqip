@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-06-14T00:17:30.859136+00:00",
+  "lastUpdated": "2026-06-14T05:28:33.478338+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Horoskopi, 14 qershor 2026",
+      "link": "https://abcnews.al/horoskopi-14-qershor-2026/",
+      "description": "Dashi Venusi do të ketë ndikim mjaft të favorshëm, çka do të bëjë që ata që janë vetëm të jetojnë situata intriguese. Mundësi të mira paraqiten në punë, pavarësisht ndikimit të kundërt të Saturnit. Demi Nëse ju intereson dikush gjatë kësaj të diele do të keni mundësi që të afroheni me të. Në punë do",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T05:00:02+00:00",
+      "dateStr": "14 Jun, 05:00",
+      "isNew": true,
+      "id": "abc01781413202"
+    },
+    {
+      "title": "Dy Pëllumba (të Ramës) në një derë..",
+      "link": "https://24-ore.com/dy-pellumba-te-rames-ne-nje-dere/",
+      "description": "Ndonjëherë ka disa shkrime, prononcime apo mbështetje të hapura që jo vetëm të mbeten gjatë në kujtesë, por edhe bien erë të keqe. Një nga këto është edhe shkrimi i fundit i Pëllumb Kullës, dramaturgut të njohur, ku ai i bën elozhe neveritëse fjalimit të Edi Ramës në antimitingun rilindas, tamam-tam",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T02:34:36+00:00",
+      "dateStr": "14 Jun, 02:34",
+      "isNew": true,
+      "id": "24 01781404476"
+    },
     {
       "title": "Nesër më shumë",
       "link": "https://24-ore.com/neser-me-shume/",
@@ -12,7 +34,7 @@
       "date": "2026-06-13T22:13:22+00:00",
       "dateStr": "13 Jun, 22:13",
       "isNew": true,
-      "id": "24 01781388802"
+      "id": "24 11781388802"
     },
     {
       "title": "PDK says they will not form a coalition with LVV, analysts skeptical about Kurti’s offer",
@@ -23,7 +45,7 @@
       "date": "2026-06-13T22:13:15+00:00",
       "dateStr": "13 Jun, 22:13",
       "isNew": true,
-      "id": "24 11781388795"
+      "id": "24 21781388795"
     },
     {
       "title": "Java e dhurimit të gjakut mobilizon qytetarët në mbarë vendin",
@@ -34,7 +56,7 @@
       "date": "2026-06-13T22:12:58+00:00",
       "dateStr": "13 Jun, 22:12",
       "isNew": true,
-      "id": "24 21781388778"
+      "id": "24 31781388778"
     },
     {
       "title": "Me flakadanë dhe brohoritje. Vijon marshimi i protestuesve, shkojnë në drejtim të zonës së “Ali Demit”",
@@ -45,7 +67,7 @@
       "date": "2026-06-13T21:42:13+00:00",
       "dateStr": "13 Jun, 21:42",
       "isNew": true,
-      "id": "24 31781386933"
+      "id": "24 41781386933"
     },
     {
       "title": "Në kërkim prej vitesh, arrestohet në Borsh Moisi Habilaj. Detaje nga operacioni",
@@ -56,7 +78,7 @@
       "date": "2026-06-13T21:41:50+00:00",
       "dateStr": "13 Jun, 21:41",
       "isNew": true,
-      "id": "24 41781386910"
+      "id": "24 51781386910"
     },
     {
       "title": "“Më tremb retorika naziste: Do i zhdukim këta do sjellim të renë”, Gjyli: Na thoni pak manualin se jam trembur",
@@ -67,7 +89,7 @@
       "date": "2026-06-13T21:41:33+00:00",
       "dateStr": "13 Jun, 21:41",
       "isNew": true,
-      "id": "24 51781386893"
+      "id": "24 61781386893"
     },
     {
       "title": "Kush po dallohet në protestë? Nurellari: Po dalin figura të forta nga këto lëvizje",
@@ -78,7 +100,7 @@
       "date": "2026-06-13T21:41:11+00:00",
       "dateStr": "13 Jun, 21:41",
       "isNew": true,
-      "id": "24 61781386871"
+      "id": "24 71781386871"
     },
     {
       "title": "Tetë të arrestuar gjatë marshimit kundër emigracionit në Liverpool",
@@ -89,7 +111,7 @@
       "date": "2026-06-13T21:40:49+00:00",
       "dateStr": "13 Jun, 21:40",
       "isNew": true,
-      "id": "24 71781386849"
+      "id": "24 81781386849"
     },
     {
       "title": "Mickoski takim me Erdogan në Stamboll, detaje nga bisedimet",
@@ -100,18 +122,7 @@
       "date": "2026-06-13T21:40:25+00:00",
       "dateStr": "13 Jun, 21:40",
       "isNew": true,
-      "id": "24 81781386825"
-    },
-    {
-      "title": "Zhvillimet për marrëveshjen SHBA-Iran alarmon Tel Avivin, Netanyahu mbledh urgjent kabinetin e sigurisë",
-      "link": "https://24-ore.com/zhvillimet-per-marreveshjen-shba-iran-alarmon-tel-avivin-netanyahu-mbledh-urgjent-kabinetin-e-sigurise/",
-      "description": "Kryeministri izraelit Benjamin Netanyahu do të mbajë një takim të kabinetit të sigurisë nesër në mbrëmje , sipas raportimeve të mediave izraelite, pas zhvillimeve të reja në bisedimet SHBA-Iran. Ky veprim vjen pasi Donald Trump njoftoi se Uashingtoni dhe Teherani do të vazhdonin me nënshkrimin e një",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-13T21:40:00+00:00",
-      "dateStr": "13 Jun, 21:40",
-      "isNew": true,
-      "id": "24 91781386800"
+      "id": "24 91781386825"
     },
     {
       "title": "Një polic si Lionel Messi/ Oficeri i bluve amerikanë në Boston jep spektakël me topin",
@@ -122,7 +133,7 @@
       "date": "2026-06-13T21:35:09+00:00",
       "dateStr": "13 Jun, 21:35",
       "isNew": true,
-      "id": "abc01781386509"
+      "id": "abc11781386509"
     },
     {
       "title": "Surpriza e parë e botërorit/ Zvicra zhgënjen në debutim, barazon 1-1 me Katarin",
@@ -133,7 +144,7 @@
       "date": "2026-06-13T21:19:42+00:00",
       "dateStr": "13 Jun, 21:19",
       "isNew": true,
-      "id": "abc11781385582"
+      "id": "abc21781385582"
     },
     {
       "title": "Pjesë e grupit të Ervin Matës/ Ekstradohet nga Spanja, Eralbi Breçani, djali i Erzen Breçanit",
@@ -144,7 +155,7 @@
       "date": "2026-06-13T21:02:38+00:00",
       "dateStr": "13 Jun, 21:02",
       "isNew": true,
-      "id": "abc21781384558"
+      "id": "abc31781384558"
     },
     {
       "title": "I dënuar për trafik droge dhe grup të strukturuar kriminal/ Kush është Moisi Habilaj i cili u arrestua nga operacionalja",
@@ -155,7 +166,7 @@
       "date": "2026-06-13T20:33:58+00:00",
       "dateStr": "13 Jun, 20:33",
       "isNew": true,
-      "id": "abc31781382838"
+      "id": "abc41781382838"
     },
     {
       "title": "Forcat operacionale ndërhynë pasi u lokalizua vendndodhja e tij/ Detaje nga arrestimi i Moisi Habilajt",
@@ -166,7 +177,7 @@
       "date": "2026-06-13T20:29:20+00:00",
       "dateStr": "13 Jun, 20:29",
       "isNew": true,
-      "id": "abc41781382560"
+      "id": "abc51781382560"
     },
     {
       "title": "Arrestohet Moisi Habilaj/ I dënuari nga drejtësia shqiptare dhe italiane u kap në Borsh nga forcat operacionale",
@@ -177,7 +188,7 @@
       "date": "2026-06-13T20:19:52+00:00",
       "dateStr": "13 Jun, 20:19",
       "isNew": true,
-      "id": "abc51781381992"
+      "id": "abc61781381992"
     },
     {
       "title": "Vetëm 1.2% pjesëmarrës në protesta, vetëm 18.9% opinion pozitiv për Berishën",
@@ -188,7 +199,7 @@
       "date": "2026-06-13T19:58:20+00:00",
       "dateStr": "13 Jun, 19:58",
       "isNew": true,
-      "id": "abc61781380700"
+      "id": "abc71781380700"
     },
     {
       "title": "OBSH paralajmëron Europën: Kriza e të nxehtit po merr mijëra jetë",
@@ -199,7 +210,7 @@
       "date": "2026-06-13T19:52:12+00:00",
       "dateStr": "13 Jun, 19:52",
       "isNew": true,
-      "id": "abc71781380332"
+      "id": "abc81781380332"
     },
     {
       "title": "Siria mohon raportimet për planet për të ndërhyrë ushtarakisht në Liban",
@@ -210,18 +221,7 @@
       "date": "2026-06-13T19:36:32+00:00",
       "dateStr": "13 Jun, 19:36",
       "isNew": true,
-      "id": "abc81781379392"
-    },
-    {
-      "title": "Trump: Marrëveshja me Iranin do të nënshkruhet nesër! Ngushtica e Hormuzit do të hapet",
-      "link": "https://abcnews.al/trump-marreveshja-me-iranin-do-te-nenshkruhet-neser-ngushtica-e-hormuzit-do-te-hapet/",
-      "description": "Presidenti amerikan, Donald Trump, njoftoi se Shtetet e Bashkuara do të nënshkruajnë nesër një marrëveshje të re me Iranin, e cila, sipas tij, do ta parandalojë plotësisht Teheranin nga zhvillimi i armëve bërthamore. Trump gjithashtu pohoi se menjëherë pas nënshkrimit, Ngushtica e Hormuzit do të hap",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-13T19:18:38+00:00",
-      "dateStr": "13 Jun, 19:18",
-      "isNew": true,
-      "id": "abc91781378318"
+      "id": "abc91781379392"
     },
     {
       "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
