@@ -1,117 +1,205 @@
 {
-  "lastUpdated": "2026-06-14T13:52:32.317817+00:00",
+  "lastUpdated": "2026-06-14T15:46:42.586533+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Eurodeputeti bullgar: Shqipëria, një aleate shumë e mirë në NATO, së shpejti pjesë e BE-së",
-      "link": "https://24-ore.com/eurodeputeti-bullgar-shqiperia-nje-aleate-shume-e-mire-ne-nato-se-shpejti-pjese-e-be-se/",
-      "description": "Eurodeputeti bullgar Andrey Kovatchev, gjatë një vizite në Korçë së bashku me një delegacion nga Parlamenti Bullgar, vlerësoi progresin e Shqipërisë në rrugën e integrimit evropian dhe shprehu mbështetjen për anëtarësimin e vendit në Bashkimin Evropian. Kovatchev deklaroi se javën e ardhshme Parlame",
-      "source": "24 ORE",
+      "title": "Irani ende pa vendim për marrëveshje me SHBA, Trumpi kritikon sulmin izraelit ndaj Bejrutit",
+      "link": "https://abcnews.al/irani-ende-pa-vendim-per-marreveshje-me-shba-trumpi-kritikon-sulmin-izraelit-ndaj-bejrutit/",
+      "description": "Iran ende nuk ka marrë një vendim përfundimtar lidhur me memorandumin e mirëkuptimit të propozuar midis Teheranit dhe Uashingtonit, pavarësisht deklaratës së presidentit amerikan, Donald Trump, se marrëveshja do të nënshkruhej të dielën, ka bërë të ditur media shtetërore iraniane. Fraksionet konserv",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-06-14T13:46:58+00:00",
-      "dateStr": "14 Jun, 13:46",
+      "date": "2026-06-14T15:45:15+00:00",
+      "dateStr": "14 Jun, 15:45",
       "isNew": true,
-      "id": "24 01781444818"
+      "id": "abc01781451915"
     },
     {
-      "title": "BDI: Dy vjet vonesa për autostradën Shkup-Bllacë, propagandë dhe tentativa për ta devijuar",
-      "link": "https://24-ore.com/bdi-dy-vjet-vonesa-per-autostraden-shkup-bllace-propagande-dhe-tentativa-per-ta-devijuar/",
-      "description": "&#8220;Sot po prezantohet fillimi i punimeve në pjesën e mbetur të autostradës Shkup- Bllacë. Është lajm i mirë për qytetarët dhe për lidhjen strategjike me Kosovën. Por opinioni publik meriton ta dijë të vërtetën: ky është një projekt i konceptuar, projektuar, financuar dhe mbrojtur nga qeveria e u",
+      "title": "LSH: VLEN paralajmëroi zvarritjen e re të projektit të rrugës Shkup-Bllacë",
+      "link": "https://24-ore.com/lsh-vlen-paralajmeroi-zvarritjen-e-re-te-projektit-te-rruges-shkup-bllace/",
+      "description": "Lidhja Shqiptare ka reaguar ndaj njoftimeve të djeshme të përfaqësuesve të koalicionit VLEN për projektin e rrugës Shkup–Bllacë, duke i cilësuar ato jo si fillim të punimeve, por si një zvarritje të re të realizimit të këtij projekti të rëndësishëm infrastrukturor. Sipas LSH-së, afati prej 3.5 vites",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-14T13:41:08+00:00",
-      "dateStr": "14 Jun, 13:41",
+      "date": "2026-06-14T15:38:55+00:00",
+      "dateStr": "14 Jun, 15:38",
       "isNew": true,
-      "id": "24 11781444468"
+      "id": "24 01781451535"
     },
     {
-      "title": "Çelet sezoni turistik në Pustec, rritet numri i turistëve të huaj",
-      "link": "https://24-ore.com/celet-sezoni-turistik-ne-pustec-rritet-numri-i-turisteve-te-huaj/",
-      "description": "Është çelur sezoni turistik në bashkinë minoritare të Pustecit, një nga destinacionet më të veçanta turistike që juglindja ka. Parku Kombëtar i Prespës vitet e fundit ka përjetuar një rritje të ndjeshme të vizitorëve, sidomos të turistëve të huaj, të cilët ndihen të mrekulluar me natyrën, liqenin, i",
+      "title": "Tensione në Romë, mijëra vetë marshojnë pro dhe kundër emigrimit",
+      "link": "https://24-ore.com/tensione-ne-rome-mijera-vete-marshojne-pro-dhe-kunder-emigrimit/",
+      "description": "Dhjetëra mijëra njerëz marshuan nëpër rrugët e kryeqytetit italian në demonstrata rivale kundër dhe pro-emigrimit të shtunën, pasi një iniciativë qytetare e ekstremit të djathtë që kërkonte masa gjithëpërfshirëse kundër migrantëve mori mbështetje të mjaftueshme për t’u paraqitur në Parlament. Një pe",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-14T13:40:45+00:00",
+      "date": "2026-06-14T15:38:40+00:00",
+      "dateStr": "14 Jun, 15:38",
+      "isNew": true,
+      "id": "24 11781451520"
+    },
+    {
+      "title": "Juventus iu bën dalje 4 lojtarëve dhe pret të fitojë 50 milionë euro deri në fund të qershorit",
+      "link": "https://24-ore.com/juventus-iu-ben-dalje-4-lojtareve-dhe-pret-te-fitoje-50-milione-euro-deri-ne-fund-te-qershorit/",
+      "description": "Juventus po përgatitet për një revolucion të vërtetë këtë verë, pasi dështoi të kualifikohej në Champions League në sezonin e kaluar. Drejtori i ri sportiv i bardhezinjve, Giovanni Carnevali, po punon për të finalizuar katër shitje, nga të cilat Juventus pret të fitojë rreth 50 milionë euro brenda q",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T15:38:32+00:00",
+      "dateStr": "14 Jun, 15:38",
+      "isNew": true,
+      "id": "24 21781451512"
+    },
+    {
+      "title": "Zvicra në referendum për të vendosur nëse vendi duhet të kalojë 10 mln banorë",
+      "link": "https://abcnews.al/zvicra-ne-referendum-per-te-vendosur-nese-vendi-duhet-te-kaloje-10-mln-banore/",
+      "description": "Zvicra po voton këtë të të diel për të vendosur nëse do të mbështesë një propozim për të kufizuar popullsinë e vendit, nëpërmjet një referendumi, i cili është krahasuar me votimin për Brexit në Britani dhe mund të ketë pasoja të gjera për ekonominë dhe marrëdhëniet e Bernës me Bashkimin Evropian. I ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T15:26:00+00:00",
+      "dateStr": "14 Jun, 15:26",
+      "isNew": true,
+      "id": "abc11781450760"
+    },
+    {
+      "title": "Megaoperacioni i SPAK për trafikun e kokainës, GJKKO lë në burg ndërtuesit",
+      "link": "https://24-ore.com/megaoperacioni-i-spak-per-trafikun-e-kokaines-gjkko-le-ne-burg-ndertuesit/",
+      "description": "Ndërtuesit e ndaluar pak ditë më parë në kuadër të një megaoperacioni për trafik ndërkombëtar droge dhe pastrim parash dolën sot para Gjykatës së Posaçme për verifikimin e masave të sigurisë. Gjykata vendosi të lërë në fuqi masën “arrest në burg” për O.B.,  D.A. dhe O.S. Për E.J u caktua masa “arres",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T15:18:17+00:00",
+      "dateStr": "14 Jun, 15:18",
+      "isNew": true,
+      "id": "24 31781450297"
+    },
+    {
+      "title": "Salla dhe Lamallari nga Qafë Thana, investim i BB dhe 7 laboratorë të rinj për të garantuar sigurinë ushqimore në kufi",
+      "link": "https://24-ore.com/salla-dhe-lamallari-nga-qafe-thana-investim-i-bb-dhe-7-laboratore-te-rinj-per-te-garantuar-sigurine-ushqimore-ne-kufi/",
+      "description": "Pika e Inspektimit Kufitar në Qafë Thanë, një nga nyjet më të rëndësishme të qarkullimit të mallrave në Shqipërinë Juglindore, do t’i nënshtrohet një transformimi të plotë infrastrukturor. Gjatë një vizite të përbashkët inspektimi, Ministri i Bujqësisë dhe Zhvillimit Rural, Andis Salla, dhe Ministri",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T15:17:56+00:00",
+      "dateStr": "14 Jun, 15:17",
+      "isNew": true,
+      "id": "24 41781450276"
+    },
+    {
+      "title": "Rritja e temperaturave, Sindikatat kërkojnë kontrolle më të shtuara për punëtorët në ndërtimtari",
+      "link": "https://24-ore.com/rritja-e-temperaturave-sindikatat-kerkojne-kontrolle-me-te-shtuara-per-punetoret-ne-ndertimtari/",
+      "description": "Sindikata e Ndërtimtarisë kërkon shtimin e kontrolleve mbi kushtet në të cilat punojnë personat e angazhuar në ndërtimtari. Kryetari i Sindikatës, Ivan Peshevski apelon për kontrolle të shtuara inspektuese, duke theksuar se në të kaluarën janë vërejtur shumë mangësi në mbrojtjen e punëtorëve dhe res",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T15:08:21+00:00",
+      "dateStr": "14 Jun, 15:08",
+      "isNew": true,
+      "id": "24 51781449701"
+    },
+    {
+      "title": "Barcelona në “hall” me Ter Stegen, gjermani nuk pranon të transferohet në Holandë. Arsyeja kryesore? Paga…",
+      "link": "https://24-ore.com/barcelona-ne-hall-me-ter-stegen-gjermani-nuk-pranon-te-transferohet-ne-holande-arsyeja-kryesore-paga/",
+      "description": "Barcelona duhet të zgjidhë me patjetër një problem shumë madhor këtë verë, që mban emrin e Marc-André ter Stegen. Portieri gjerman është rikthyer te katalanasit, pas huazimit të pasuksesshëm te Girona, në pjesën e dytë të sezonit të fundit. Duke qenë se për Ter Stegen nuk ka më vend te Barcelona, ka",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T15:08:15+00:00",
+      "dateStr": "14 Jun, 15:08",
+      "isNew": true,
+      "id": "24 61781449695"
+    },
+    {
+      "title": "Shkëlqeu në sfidën Brazil-Marok, Mourinho gjen mesfushorin që i mungon te Real Madrid",
+      "link": "https://24-ore.com/shkelqeu-ne-sfiden-brazil-marok-mourinho-gjen-mesfushorin-qe-i-mungon-te-real-madrid/",
+      "description": "Ayyoub Bouaddi ishte një nga lojtarët më të mirë në fushë në barazimin 1-1 mes Brazilit dhe Marokut. Mesfushori maroken bëri një paraqitje shumë të mirë ndaj pesë herë kampionëve të Botës, si dhe në fund ishte një nga lojtarët më të vlerësuar. 18-vjeçari që luan te Lille, ka kohë që ndiqet nga Real ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T15:08:09+00:00",
+      "dateStr": "14 Jun, 15:08",
+      "isNew": true,
+      "id": "24 71781449689"
+    },
+    {
+      "title": "Zjarri në Spanjë jashtë kontrollit, autoritetet në gatishmëri",
+      "link": "https://abcnews.al/zjarri-ne-spanje-jashte-kontrollit-autoritetet-ne-gatishmeri/",
+      "description": "Zjarri i egër që shpërtheu të premten në Herbon, në Padron (A Coruna) të Spanjës mbetet aktiv dhe ka djegur tashmë rreth 330 hektarë. Autoritetet kanë shpallur alarmin e nivelit 2 dhe rreth dhjetë shtëpi mbeten të evakuuara. Edhe pse në mëngjes dukej se zjarri po stabilizohej, temperaturat e larta m",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T15:06:48+00:00",
+      "dateStr": "14 Jun, 15:06",
+      "isNew": true,
+      "id": "abc21781449608"
+    },
+    {
+      "title": "Netanyahu uron Trump për ditëlindje: Do ta çojmë aleancën SHBA-Izrael në nivele më të larta!",
+      "link": "https://abcnews.al/netanyahu-uron-trump-per-ditelindje-do-ta-cojme-aleancen-shba-izrael-ne-nivele-me-te-larta/",
+      "description": "Kryeministri i Izraelit Benjamin Netanyahu ka uruar presidentin e Shteteve të Bashkuara të Amerikës, Donald Trump për 80-vjetorin e lindjes. Në urimin drejtuar Trump, kryeministri izraelit vlerëson rolin e tij në politikën ndërkombëtare dhe marrëdhëniet mes dy vendeve. “Këtë vit ditëlindja juaj vjen",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T14:47:12+00:00",
+      "dateStr": "14 Jun, 14:47",
+      "isNew": true,
+      "id": "abc31781448432"
+    },
+    {
+      "title": "Gjermania e nis sot Botërorin, Holanda përballjen e parë e ka me Japoninë",
+      "link": "https://24-ore.com/gjermania-e-nis-sot-boterorin-holanda-perballjen-e-pare-e-ka-me-japonine/",
+      "description": "Gjermania vjen në formë të shkëlqyer në këtë Botëror me 9 fitore radhazi dhe konsiderohet favorite për të qenë e para në grupin e saj. Sfida e parë e turneut do të jetë përballë Kurasaos, një nga ekipet debutues të këtij aktiviteti që luhet për herë të parë me 48 skuadra. Ndeshja që do të [&#8230;]\n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T14:46:40+00:00",
+      "dateStr": "14 Jun, 14:46",
+      "isNew": true,
+      "id": "24 81781448400"
+    },
+    {
+      "title": "Anna Faris kujton ndarjen nga Chris Pratt: Puna më shpëtoi",
+      "link": "https://24-ore.com/anna-faris-kujton-ndarjen-nga-chris-pratt-puna-me-shpetoi/",
+      "description": "Aktorja Anna Faris ka folur hapur për periudhën e vështirë pas divorcit nga ish-bashkëshorti i saj, Chris Pratt, duke zbuluar se puna dhe podkasti i saj e ndihmuan të kalonte atë fazë të jetës. Në një intervistë për revistën Variety, Faris rrëfeu se ishte e trishtuar pas ndarjes nga Pratt, me të cil",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T14:46:36+00:00",
+      "dateStr": "14 Jun, 14:46",
+      "isNew": true,
+      "id": "24 91781448396"
+    },
+    {
+      "title": "Tragjedi në Kroaci, tre persona humbën jetën në një aksident detar",
+      "link": "https://abcnews.al/tragjedi-ne-kroaci-tre-persona-humben-jeten-ne-nje-aksident-detar/",
+      "description": "Tre persona kanë humbur jetën në një aksident të rëndë detar që ndodhi në zonën mes ishujve Braç dhe Sholta, në Dalmacinë qendrore. Sipas informacioneve fillestare, në aksident janë përfshirë një katamaran dhe një varkë me vela, raporton index.hr. Shërbimet e emergjencës kroate, policia detare dhe a",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T14:20:28+00:00",
+      "dateStr": "14 Jun, 14:20",
+      "isNew": true,
+      "id": "abc41781446828"
+    },
+    {
+      "title": "Rumania emëron kryeministrin e ri/ Adrian Veshtea merr detyrën pas dorëheqjes së Eugen Tomak",
+      "link": "https://abcnews.al/rumania-emeron-kryeministrin-e-ri-adrian-veshtea-merr-detyren-pas-doreheqjes-se-eugen-tomak/",
+      "description": "Presidenti i Rumanisë, NiKushor Dan, emëroi Adrian Veshtea, një anëtar të Partisë Liberale, si kryeministër, pasi Eugen Tomak dha dorëheqjen nga mandati i tij mëngjesin e së dielës. Vestea, 52 vjeç, është presidenti i këshillit të qarkut të Brashovit në Rumaninë qendrore. Eugen Tomak kishte kërkuar ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T14:02:19+00:00",
+      "dateStr": "14 Jun, 14:02",
+      "isNew": true,
+      "id": "abc51781445739"
+    },
+    {
+      "title": "Protesta rivale në Itali/ Mijëra njerëz në rrugë, pro dhe kundër emigracionit",
+      "link": "https://abcnews.al/protesta-rivale-ne-itali-mijera-njerez-ne-rruge-pro-dhe-kunder-emigracionit/",
+      "description": "Dhjetëra mijëra njerëz marshuan nëpër rrugët e kryeqytetit italian në demonstrata rivale kundër dhe pro-emigrimit të shtunën, pasi një iniciativë qytetare e ekstremit të djathtë që kërkonte masa gjithëpërfshirëse kundër migrantëve mori mbështetje të mjaftueshme për t&#8217;u paraqitur në Parlament. ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T13:40:31+00:00",
       "dateStr": "14 Jun, 13:40",
       "isNew": true,
-      "id": "24 21781444445"
+      "id": "abc61781444431"
     },
     {
-      "title": "Problemet e pronësisë në Gjirokastër, braktisen godinat karakteristike rrezikohen vlerat muzeale",
-      "link": "https://24-ore.com/problemet-e-pronesise-ne-gjirokaster-braktisen-godinat-karakteristike-rrezikohen-vlerat-muzeale/",
-      "description": "Në Gjirokastër problematikat e pronësisë në objektet “Monument Kulture” rrezikojnë dëmtimin e vlerave historike dhe ndërtimore të qytetit të gurtë. Si shkak i kësaj situate disa prej godinave historike dhe shtëpive karakteristike janë dëmtuar apo kanë humbur vlerat muzeale. “Një nga problematikat kr",
-      "source": "24 ORE",
+      "title": "Turqia, zhgënjim “botëror”/ Australia arriti një fitore të madhe 2-0 në ndeshjen e parë",
+      "link": "https://abcnews.al/turqia-zhgenjim-boteror-australia-arriti-nje-fitore-te-madhe-2-0-ne-ndeshjen-e-pare/",
+      "description": "Nuk mjaftojnë disa yje të rinj për të sjellë suksesin. Ashtu si pak lule nuk e sjellin pranverën. Turqia vërtet ka futbollistë shumë të mirë si talentet Arda Gyler I Realit apo Kenan Jildiz I Juventusit, pa harruar të tjerët, veçse përballë Australisë u duk pa forcën e duhur dhe nuk mori dot as pikë",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-06-14T13:40:28+00:00",
-      "dateStr": "14 Jun, 13:40",
+      "date": "2026-06-14T13:24:05+00:00",
+      "dateStr": "14 Jun, 13:24",
       "isNew": true,
-      "id": "24 31781444428"
-    },
-    {
-      "title": "Trafikimi i 6.7 tonëve kokainë nga Amerika Latine, GJKKO-së vendos masat për 5 të arrestuarit",
-      "link": "https://24-ore.com/trafikimi-i-6-7-toneve-kokaine-nga-amerika-latine-gjkko-se-vendos-masat-per-5-te-arrestuarit/",
-      "description": "Në Gjykatën e Posaçme Kundër Korrupsionit dhe Krimit të Organizuar (GJKKO) u zhvillua seanca për marrjen në pyetje dhe verifikimin e kushteve për zbatimin e masave të sigurisë ndaj personave të ndaluar në kuadër të megaoperacionit të fundit të SPAK. Sipas hetimeve, operacioni ka çuar në zbulimin e d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T13:40:12+00:00",
-      "dateStr": "14 Jun, 13:40",
-      "isNew": true,
-      "id": "24 41781444412"
-    },
-    {
-      "title": "Mashtronin qytetarët duke u paraqitur si përfaqësues të një shoqate bamirësie, arrestohet çifti nga Korça",
-      "link": "https://24-ore.com/mashtronin-qytetaret-duke-u-paraqitur-si-perfaqesues-te-nje-shoqate-bamiresie-arrestohet-cifti-nga-korca/",
-      "description": "Dy persona kanë rënë në prangat e policisë e Tiranës për llogari të drejtorisë vendore të policisë së Korçës, pasi dyshohen se kanë ngritur një skemë mashtrimi financiar duke shfrytëzuar besimin e qytetarëve në nevojë. Sipas burimeve hetimore, Adi Hodo dhe Paola Zyber prezantoheshin tek qytetarët si",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T13:39:56+00:00",
-      "dateStr": "14 Jun, 13:39",
-      "isNew": true,
-      "id": "24 51781444396"
-    },
-    {
-      "title": "Muzeu ‘Den Gamle By’ fiton çmimin prestigjioz Muzeu Evropian i Vitit 2026",
-      "link": "https://24-ore.com/muzeu-den-gamle-by-fiton-cmimin-prestigjioz-muzeu-evropian-i-vitit-2026/",
-      "description": "Muzeu i hapur i historisë urbane dhe kulturës, Den Gamle By, në Danimarkë është shpallur fitues i çmimit prestigjioz Muzeu Evropian i Vitit 2026 (EMYA). Çmimi iu dorëzua institucionit kulturor gjatë ceremonisë së zhvilluar në Bilbao, ku juria e vlerësoi për inovacionin, rëndësinë shoqërore dhe ndiki",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T13:39:41+00:00",
-      "dateStr": "14 Jun, 13:39",
-      "isNew": true,
-      "id": "24 61781444381"
-    },
-    {
-      "title": "Sulme reciproke Ukrainë-Rusi, viktima në territorin ukrainas",
-      "link": "https://24-ore.com/sulme-reciproke-ukraine-rusi-viktima-ne-territorin-ukrainas/",
-      "description": "Sulmet e fundit ruse ndaj Ukrainës vranë dy persona dhe plagosën 4 të tjerë në rajonin e Samit, bënë të ditur të dielën autoritetet lokale. Sipas burimeve, një grua 64-vjeçare humbi jetën si pasojë e një sulmi me dronë në lokalitetin Bilopol, ku gjithashtu dy burra të moshave 51 dhe 66 vjeç mbetën t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T13:39:26+00:00",
-      "dateStr": "14 Jun, 13:39",
-      "isNew": true,
-      "id": "24 71781444366"
-    },
-    {
-      "title": "Barcelona në kërkim të një 9-shi, Raphinha mund të jetë çelësi…",
-      "link": "https://24-ore.com/barcelona-ne-kerkim-te-nje-9-shi-raphinha-mund-te-jete-celesi/",
-      "description": "Tashmë dihet që Barcelona është vënë në kërkim të një sulmuesi të mirëfilltë qëndror, pra të një 9-shi. Pas largimit të Robert Lewandowski-t, katalanasit janë të detyruar të ndërhyjnë në repartin e sulmit dhe të afrojnë një emër të sprovuar, për të arritur suksesin e munguar në Champions League. Dës",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T13:39:20+00:00",
-      "dateStr": "14 Jun, 13:39",
-      "isNew": true,
-      "id": "24 81781444360"
-    },
-    {
-      "title": "Andoni Iraola i bën dalje, mesfushori i Liverpool-it do të transferohet tek Inter",
-      "link": "https://24-ore.com/andoni-iraola-i-ben-dalje-mesfushori-i-liverpool-it-do-te-transferohet-tek-inter/",
-      "description": "Curtis Jones do të veshë fanellën e Interit në sezonin e ri. Mesfushori anglez nuk do të jetë pjesë e projektit të ri të Andoni Iraola te Liverpool. Spanjolli ka vendosur t’i bëjë dalje mesfushorit 25-vjeçar, i cili prej kohësh ndiqet nga Inter. Anglezi ka qenë një lojtar i gjithanshëm për Arne Slot",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T13:39:14+00:00",
-      "dateStr": "14 Jun, 13:39",
-      "isNew": true,
-      "id": "24 91781444354"
+      "id": "abc71781443445"
     },
     {
       "title": "Zvicra refuzon kufizimin e popullsisë/ Votuesit hedhin poshtë propozimin për të vënë një tavan prej 10 milion banorësh",
@@ -122,7 +210,7 @@
       "date": "2026-06-14T13:08:37+00:00",
       "dateStr": "14 Jun, 13:08",
       "isNew": true,
-      "id": "abc01781442517"
+      "id": "abc81781442517"
     },
     {
       "title": "Shpërthen lëndë plasëse në banesën në Bathore/ Dyshohet se pronari e inskenoi që të përfitonte azil",
@@ -133,95 +221,7 @@
       "date": "2026-06-14T12:55:24+00:00",
       "dateStr": "14 Jun, 12:55",
       "isNew": true,
-      "id": "abc11781441724"
-    },
-    {
-      "title": "News Line me Emilian Islamin, (14/06/2026)",
-      "link": "https://abcnews.al/news-line-me-emilian-islamin-14-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T12:46:03+00:00",
-      "dateStr": "14 Jun, 12:46",
-      "isNew": true,
-      "id": "abc21781441163"
-    },
-    {
-      "title": "Taksistja që thyen stereotipet në Tiranë/ 51-vjeçarja lë emigracionin për të bërë biznes në Shqipëri",
-      "link": "https://abcnews.al/taksistja-qe-thyen-stereotipet-ne-tirane-51-vjecarja-le-emigracionin-per-te-bere-biznes-ne-shqiperi/",
-      "description": "Në rrugët e zhurmshme të Tiranës, mes ritmit dhe nxitimit të përditshëm, Kimete Cenollari, 51 vjeçe, ka zgjedhur të sfidojë stereotipet dhe të ndjekë pasionin e saj Dikur emigrante ne Suedi, ajo është rikthyer në vendlindje, ku sot drejton kompaninë e saj të vogël të taksive në kryeqytet Mes paragjy",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T12:35:41+00:00",
-      "dateStr": "14 Jun, 12:35",
-      "isNew": true,
-      "id": "abc31781440541"
-    },
-    {
-      "title": "Burg për trafikantët dhe biznesmenët/ Orgest Birçaj, Dritan Aga dhe Orest Sota do vijojnë të qëndrojnë në qeli",
-      "link": "https://abcnews.al/operacioni-i-spak-me-20-urdherarreste-mbahet-ne-gjkko-seanca-per-masat-e-sigurise-ndaj-biznesmeneve-e-ndertuesve/",
-      "description": "GJKKO la sot në fuqi masën &#8220;arrest në burg&#8221; për Orgest Birçajn, Dritan Agën dhe Orest Sotën. Për Edmond Jaupin u caktua masa e sigurisë &#8220;arrest shtëpie&#8221;, ndërsa Gëzim Islami është liruar kundrejt garancisë pasurore, rreth 100 mijë euro. séance u zhvillua paraditen e së dielës",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T12:24:23+00:00",
-      "dateStr": "14 Jun, 12:24",
-      "isNew": true,
-      "id": "abc41781439863"
-    },
-    {
-      "title": "“Edicioni i Mesditës” me Emilian Islamin, (14/06/2026)",
-      "link": "https://abcnews.al/edicioni-i-mesdites-me-emilian-islamin-14-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T12:12:55+00:00",
-      "dateStr": "14 Jun, 12:12",
-      "isNew": true,
-      "id": "abc51781439175"
-    },
-    {
-      "title": "Prespa, të huajt interes për natyrën/ Zona e njohur për peizazhet e saj regjistron rritje të numrit të vizitorëve",
-      "link": "https://abcnews.al/prespa-te-huajt-interes-per-natyren-zona-e-njohur-per-peizazhet-e-saj-regjistron-rritje-te-numrit-te-vizitoreve/",
-      "description": "Prespa,  e njohur për natyrën e paprekur, kulinarinë tradicionale dhe qetësinë që ofron synon të tërheqë këtë vit një numër më të lartë turistësh krahasuar me sezonet e shkuara. Gatimet autentike vazhdojnë të jenë ndër më të kërkuarat nga vizitorët, ku vendin kryesor e zë krapi i liqenit, i njohur p",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T12:09:02+00:00",
-      "dateStr": "14 Jun, 12:09",
-      "isNew": true,
-      "id": "abc61781438942"
-    },
-    {
-      "title": "Katari shkruan historinë/ Skuadra nga Gjiri Persik merr pikën e parë në Kupat e Botës",
-      "link": "https://abcnews.al/katari-shkruan-historine-skuadra-nga-gjiri-persik-merr-piken-e-pare-ne-kupat-e-botes/",
-      "description": "U duk se historia do të përsëritej. Katari jepej si viktima e predestinuar e kësaj Kupe të Botës, dhe Zvicra mendohej se duhej të shqetësohej më shumë për ndeshjet e radhës, ato më të vështirat, ndaj Bosnjës e Kanadasë. Gjithsesi, edhe kur je fare I vogël, krejt I nënvleftësuar dh eke gjithçka kundë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T11:57:10+00:00",
-      "dateStr": "14 Jun, 11:57",
-      "isNew": true,
-      "id": "abc71781438230"
-    },
-    {
-      "title": "Skocia prish “mallkimin” në Botëror/ “Malësorët” fitojnë ndeshjen e parë pas 28 vitesh mungesë",
-      "link": "https://abcnews.al/skocia-prish-mallkimin-ne-boteror-malesoret-fitojne-ndeshjen-e-pare-pas-28-vitesh-mungese/",
-      "description": "Nuk kanë qenë ndonjë herë skuadër e madhe, por respektin e kishin të garantuar. Një Skoci me të tillë si Denis Lou, Keni Dalglish apo Graem Sunes, për të ardhur tek një Ali Mekkoist, ishte gjithmonë një rival serioz, dhe pse kurrë nuk ka mundur ta kalojë fazën e grupeve në kupat e botës. Kjo [...]Re",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T11:45:55+00:00",
-      "dateStr": "14 Jun, 11:45",
-      "isNew": true,
-      "id": "abc81781437555"
-    },
-    {
-      "title": "Borshi, fundi i arratisë së Moisi Habilajt/ Si fshihej i shumëkërkuari, në pranga dhe një 46-vjeçar që e shoqëronte",
-      "link": "https://abcnews.al/borshi-fundi-i-arratise-se-moisi-habilajt-si-fshihej-i-shumekerkuari-ne-pranga-dhe-nje-46-vjecar-qe-e-shoqeronte/",
-      "description": "Ky është momenti kur  Moisi Habilaj I dënuar nga autoritetet italiane  me mbi 12 vite burg  për veprën penale pjesëmarrje në organizatë kriminale të armatosur me qëllim trafikimin e  lëndëve narkotike  u arrestua  mbrëmjen e të shtunës  në  një lokal në Borsh. Policia ka ndarë pamjet dhe përmes një ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T11:32:00+00:00",
-      "dateStr": "14 Jun, 11:32",
-      "isNew": true,
-      "id": "abc91781436720"
+      "id": "abc91781441724"
     },
     {
       "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
