@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-06-14T21:06:42.758445+00:00",
-  "totalSources": 2,
-  "totalNews": 20,
+  "lastUpdated": "2026-06-14T23:04:05.317798+00:00",
+  "totalSources": 3,
+  "totalNews": 30,
   "news": [
+    {
+      "title": "Dita e 15-të e protestës, marshim në autostradën Tiranë-Durrës",
+      "link": "https://24-ore.com/dita-e-15-te-e-protestes-marshim-ne-autostraden-tirane-durres/",
+      "description": "Në ditën e 15-të të protestës, pas mbylljes së fjalimeve para kryeministrisë, protestuesit kanë vijuar marshimin përtej qendrës së Tiranës dhe unazës së vogël. Marshimi ka vijuar deri pas mesnatës. Fillimisht pas marshimit në disa akse rrugore në qendër të Tiranës, protestuesit u drejtuan nga zona e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T22:39:22+00:00",
+      "dateStr": "14 Jun, 22:39",
+      "isNew": true,
+      "id": "24 01781476762"
+    },
+    {
+      "title": "Dy përfaqësues të rinj të PS-së reagojnë pasi Marjana Koçeku njoftoi se do jetë deputete e pavarur: Dorëzo mandatin",
+      "link": "https://24-ore.com/dy-perfaqesues-te-rinj-te-ps-se-reagojne-pasi-marjana-koceku-njoftoi-se-do-jete-deputete-e-pavarur-dorezo-mandatin/",
+      "description": "Dalja e Marjana Koçekut nga grupi parlamentar i Partisë Socialiste dhe vendimi i saj për të vijuar si deputete e pavarur ka sjellë reagimet e para nga përfaqësues të rinj të socialistëve. Mes tyre ishte edhe studentja Helena Kaçe, e cila u bë e njohur pasi hapi Kongresin e Partisë Socialiste, ku kry",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T22:39:05+00:00",
+      "dateStr": "14 Jun, 22:39",
+      "isNew": true,
+      "id": "24 11781476745"
+    },
+    {
+      "title": "“Le të rrjedhë nafta”! Trump njofton arritjen e marrëveshjes me Iranin",
+      "link": "https://24-ore.com/le-te-rrjedhe-nafta-trump-njofton-arritjen-e-marreveshjes-me-iranin/",
+      "description": "Presidenti amerikan, Donald Trump, njoftoi mbrëmjen e së dielës se marrëveshja e paqes mes Shteteve të Bashkuara dhe Iranit është përfunduar. Pakistani, shtet i cili ka luajtur rol kyç ndërmjetësues në negociata, deklaroi se palët kanë arritur dakordësinë për t’i dhënë fund konfliktit. “Nga bisedime",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T22:38:45+00:00",
+      "dateStr": "14 Jun, 22:38",
+      "isNew": true,
+      "id": "24 21781476725"
+    },
+    {
+      "title": "Masakra e Reçakut, muajin e ardhshëm fillon gjykimi në mungesë kundër 21 të akuzuarve",
+      "link": "https://24-ore.com/masakra-e-recakut-muajin-e-ardhshem-fillon-gjykimi-ne-mungese-kunder-21-te-akuzuarve/",
+      "description": "Detaje të rënda mbi masakrën e Reçakut janë bërë publike përmes aktakuzës së ngritur nga Prokuroria Speciale e Kosovës ndaj 21 personave të dyshuar për krime lufte, lidhur me vrasjen e civilëve shqiptarë më 15 janar 1999. Në dokumentin prej 91 faqesh, Prokuroria përshkruan vrasjet, trajtimin çnjerëz",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T21:38:26+00:00",
+      "dateStr": "14 Jun, 21:38",
+      "isNew": true,
+      "id": "24 31781473106"
+    },
+    {
+      "title": "Seth Rogen flet hapur për fundin e miqësisë me James Franco",
+      "link": "https://24-ore.com/seth-rogen-flet-hapur-per-fundin-e-miqesise-me-james-franco/",
+      "description": "Aktori Seth Rogen ka konfirmuar se nuk ka ndërmend të rikthejë miqësinë apo bashkëpunimin profesional me ish-mikun dhe kolegun e tij prej vitesh, James Franco. Në një intervistë për The New York Times, 44-vjeçari u shpreh se nuk ka folur me Franco “prej shumë kohësh” dhe nuk planifikon të punojë më ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T21:16:43+00:00",
+      "dateStr": "14 Jun, 21:16",
+      "isNew": true,
+      "id": "24 41781471803"
+    },
     {
       "title": "Presidenti i Iranit: Negociatat janë në interes kombëtar, shkelja e vijave të kuqe nuk tolerohet",
       "link": "https://abcnews.al/presidenti-i-iranit-negociatat-jane-ne-interes-kombetar-shkelja-e-vijave-te-kuqe-nuk-tolerohet/",
@@ -23,7 +78,7 @@
       "date": "2026-06-14T20:39:48+00:00",
       "dateStr": "14 Jun, 20:39",
       "isNew": true,
-      "id": "24 01781469588"
+      "id": "24 51781469588"
     },
     {
       "title": "Protesta e ditës së 15 nis marshimin e përditshëm në rrugët e Tiranës",
@@ -34,7 +89,7 @@
       "date": "2026-06-14T20:39:34+00:00",
       "dateStr": "14 Jun, 20:39",
       "isNew": true,
-      "id": "24 11781469574"
+      "id": "24 61781469574"
     },
     {
       "title": "Ambasada e SHBA në Tiranë uron Trump për ditëlindje",
@@ -45,7 +100,7 @@
       "date": "2026-06-14T20:39:24+00:00",
       "dateStr": "14 Jun, 20:39",
       "isNew": true,
-      "id": "24 21781469564"
+      "id": "24 71781469564"
     },
     {
       "title": "Sekuestrimi i cisternës ruse! Britania arreston edhe 25 anëtarë të ekuipazhit",
@@ -56,7 +111,7 @@
       "date": "2026-06-14T20:39:12+00:00",
       "dateStr": "14 Jun, 20:39",
       "isNew": true,
-      "id": "24 31781469552"
+      "id": "24 81781469552"
     },
     {
       "title": "Raport i ri për luftën në Gaza/ Mbi 73 mijë viktima që nga viti 2023",
@@ -100,7 +155,7 @@
       "date": "2026-06-14T19:46:21+00:00",
       "dateStr": "14 Jun, 19:46",
       "isNew": true,
-      "id": "24 41781466381"
+      "id": "24 91781466381"
     },
     {
       "title": "Newsroom me Erneta Shevroja, (14/06/2026)",
@@ -114,39 +169,6 @@
       "id": "abc41781466277"
     },
     {
-      "title": "Nesër i jepet lamtumira e fundit 27-vjeçarit që u vra me thikë në Prizren",
-      "link": "https://24-ore.com/neser-i-jepet-lamtumira-e-fundit-27-vjecarit-qe-u-vra-me-thike-ne-prizren/",
-      "description": "Nesër do t’i jepet lamtumira e fundit 27-vjeçarit Albian Osmanaj, i cili humbi jetën tragjikisht pas një therjeje me thikë në fshatin Kobaj të Prizrenit. Sipas njoftimit mortor të publikuar nga familja, varrimi i të ndjerit do të bëhet të hënën, më 15 qershor 2026, pas faljes së namazit të Ikindisë,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T19:38:57+00:00",
-      "dateStr": "14 Jun, 19:38",
-      "isNew": true,
-      "id": "24 51781465937"
-    },
-    {
-      "title": "Rifat Jashari, Sami Lushtaku dhe Jetullah Geci bashkë në pritjen e ngushëllimeve për Sahit Jasharin",
-      "link": "https://24-ore.com/rifat-jashari-sami-lushtaku-dhe-jetullah-geci-bashke-ne-pritjen-e-ngushellimeve-per-sahit-jasharin/",
-      "description": "Familjarë, bashkëluftëtarë dhe qytetarë kanë vazhduar të shprehin ngushëllimet e tyre për ndarjen nga jeta të Sahit Jasharit, njërit prej luftëtarëve të hershëm të Ushtrisë Çlirimtare të Kosovës. Në pritjen e ngushëllimeve për ish-komandantin e Policisë Ushtarake të UÇK-së në Zonën Operative të Dren",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T19:38:45+00:00",
-      "dateStr": "14 Jun, 19:38",
-      "isNew": true,
-      "id": "24 61781465925"
-    },
-    {
-      "title": "Thuram e mbyll me Juventusin. Garë treshe për mesfushorin francez",
-      "link": "https://24-ore.com/thuram-e-mbyll-me-juventusin-gare-treshe-per-mesfushorin-francez/",
-      "description": "Khephren Thuram mund të jetë një nga surprizat e mëdha të merkatos verore. Tuttosport zbulon se mesfushori francez mund të mos jetë pjesë e projektit të ri të Juventusit. Edhe pse 25-vjeçari është nën kontratë deri në vitin 2029 me bardhezinjtë, ai mund të largohet që këtë verë, nëse vjen oferta e d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T19:38:38+00:00",
-      "dateStr": "14 Jun, 19:38",
-      "isNew": true,
-      "id": "24 71781465918"
-    },
-    {
       "title": "Pas rritjes rekord, bie ndjeshëm çmimi i arit, ja faktorët që po ndikojnë",
       "link": "https://abcnews.al/pas-rritjes-rekord-bie-ndjeshem-cmimi-i-arit-ja-faktoret-qe-po-ndikojne/",
       "description": "Në teori, ari konsiderohet një nga asetet më të sigurta në kohë krizash globale. Kur shpërthejnë luftëra, rritet inflacioni ose pasiguria ekonomike, investitorët zakonisht largohen nga aksionet dhe monedhat e paqëndrueshme dhe drejtohen drejt arit, duke e rritur çmimin e tij. Por këtë herë situata p",
@@ -156,28 +178,6 @@
       "dateStr": "14 Jun, 19:28",
       "isNew": true,
       "id": "abc51781465282"
-    },
-    {
-      "title": "Botërori 2026/ Gjermania nuk kursehet, i shënon 7 gola debutuesve të Kurasaos",
-      "link": "https://24-ore.com/boterori-2026-gjermania-nuk-kursehet-i-shenon-7-gola-debutuesve-te-kurasaos/",
-      "description": "Gjermania e ka nisur me një fitore dominuese Botërorin 2026, duke mundur me rezultatin tenistik 7-1 debutuesit e Kurasaos. Takimi i luajtur në Houston nisi mjaft mirë për të besuarit e Nagelsmann, të cilët kaluan në avantazh që në minutën e 6’ me Nmechan. “Panzerat” u shtangën për disa minuta, pasi ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T19:17:00+00:00",
-      "dateStr": "14 Jun, 19:17",
-      "isNew": true,
-      "id": "24 81781464620"
-    },
-    {
-      "title": "Tensione në protestë! Mbledhje të paligjshme kartash identiteti për peticion, persona me kapuçë të pranishëm",
-      "link": "https://24-ore.com/tensione-ne-proteste-mbledhje-te-paligjshme-kartash-identiteti-per-peticion-persona-me-kapuce-te-pranishem/",
-      "description": "Protestuesit janë mbledhur sërish në protestë për të 15-tën ditë radhazi. Me thirrjet “Rama jepe dorëheqjen”, “Narta, Zvërneci në fyt do ju ngecin”, ata po marshojnë nga sheshi Skëndërbej drejt Kryeministrisë. Protestat nisën për të kundërshtuar resortin që pritet të ndërtohet në Zvërnec, një invest",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T19:16:28+00:00",
-      "dateStr": "14 Jun, 19:16",
-      "isNew": true,
-      "id": "24 91781464588"
     },
     {
       "title": "Zvicra humbet me të parën/ Analistët: Nga mendjemadhësia te mungesa e përqendrimit. Katari luftoi deri në fund",
@@ -222,6 +222,116 @@
       "dateStr": "14 Jun, 17:44",
       "isNew": true,
       "id": "abc91781459095"
+    },
+    {
+      "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
+      "link": "https://www.lajme.al/lajme-al-uron-te-gjithe-besimtaret-gezuar-kurban-bajramin/",
+      "description": "Urime festa e Kurban Bajramit! Gëzuar këtë festë të shenjtë dhe për shumë vite me paqe, shëndet e begati! Urojmë që kjo ditë e bekuar të sjellë qetësi në zemrat tona, harmoni në familje dhe dashuri mes njerëzve. Le të jetë një ditë që na afron më shumë me njëri-tjetrin, duke na kujtuar rëndësinë e [",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-05-27T06:00:19+00:00",
+      "dateStr": "27 May, 06:00",
+      "isNew": false,
+      "id": "laj01779861619"
+    },
+    {
+      "title": "Greqi: Flet babai i 19-vjeçares shqiptare: Humba jo engjëllin tim, por jetën time. Vajzën ma futën në kurth, e flakën pasi i bënë gjëra të tmerrshme!",
+      "link": "https://www.lajme.al/greqi-flet-babai-i-19-vjecares-shqiptare-humba-jo-engjellin-tim-por-jeten-time-vajzen-ma-futen-ne-kurth-e-flaken-pasi-i-bene-gjera-te-tmerrshme/",
+      "description": "Babai i 19-vjeçares që u gjet e pajetë në Kefaloni të Greqisë, foli sonte për mediat greke dhe tha se vajza e tij nuk kishte asnjë lidhje as me lëndë narkotike dhe as me alkool Trishtim i madh ka përfshirë Kefaloninë pas lajmit për vdekjen e 19-vjeçares shqiptare e identifikuar si Mirto, e cila u [&",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-04-16T16:54:53+00:00",
+      "dateStr": "16 Apr, 16:54",
+      "isNew": false,
+      "id": "laj11776358493"
+    },
+    {
+      "title": "Gashi: Diasporës parapëlqej t’i them mërgatë, të krijojmë kushtet për rikthimin e tyre në vendlindje",
+      "link": "https://www.lajme.al/gashi-diaspores-parapelqej-ti-them-mergate-te-krijojme-kushtet-per-rikthimin-e-tyre-ne-vendlindje/",
+      "description": "Kryetari i Kuvendit të Maqedonisë së Veriut, Afrim Gashi, ka theksuar rëndësinë e diasporës dhe nevojën për forcimin e lidhjeve me qytetarët që jetojnë jashtë vendit. Në fjalën e mbajtur në Samitin e IV të Diasporës, Gashi e cilësoi diasporën si një pjesë të pandashme të identitetit, duke u shprehur",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-04-14T14:24:35+00:00",
+      "dateStr": "14 Apr, 14:24",
+      "isNew": false,
+      "id": "laj21776176675"
+    },
+    {
+      "title": "Fitër Bajrami – Festë e Besimit, Mirësisë dhe Solidaritetit",
+      "link": "https://www.lajme.al/fiter-bajrami-feste-e-besimit-miresise-dhe-solidaritetit/",
+      "description": "Me përfundimin e muajit të Ramazanit, besimtarët myslimanë anembanë botës festojnë Fitër Bajramin – një nga festat më të rëndësishme në kalendarin islam. Kjo ditë e shënuar është një moment falënderimi ndaj Zotit, reflektimi për muajin që lamë pas, si dhe një rast për të ndarë gëzim dhe dashuri me t",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-03-20T00:03:28+00:00",
+      "dateStr": "20 Mar, 00:03",
+      "isNew": false,
+      "id": "laj31773965008"
+    },
+    {
+      "title": "Albano Bogdo pranon publikisht: “Kam kryer marrëdhënie me një ish-banore të BBV Albania”",
+      "link": "https://www.lajme.al/albano-bogdo-pranon-publikisht-kam-kryer-marredhenie-me-nje-ish-banore-te-bbv-albania/",
+      "description": "Aktori i njohur i humorit, Albano Bogdo, ka bërë një deklaratë të papritur gjatë pjesëmarrjes së tij në emisionin “Andale”. Gjatë një loje me pyetje provokuese, u lexua pohimi: “Kam bërë marrëdhënie seksuale me një ish-banore që ka qenë në Big Brother Vip Albania”. Pa hezituar, Albano ngriti menjëhe",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-25T16:28:58+00:00",
+      "dateStr": "25 Feb, 16:28",
+      "isNew": false,
+      "id": "laj41772036938"
+    },
+    {
+      "title": "Del FOTO e rrallë nga arkiva: Ja si dukej Brikena e BBVA para famës",
+      "link": "https://www.lajme.al/del-foto-e-rralle-nga-arkiva-ja-si-dukej-brikena-e-bbva-para-fames/",
+      "description": "Brikena Selmani është kthyer padyshim në një nga banoret më të komentuara dhe që ka tërhequr vëmendjen në këtë edicion të “Big Brother VIP Albania”, jo vetëm për dinamikat në lojë, por edhe për pamjen e saj. Por, duket se sharmi i modeles daton shumë më herët se dritat e famës televizive. Në rrjetet",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-25T12:23:06+00:00",
+      "dateStr": "25 Feb, 12:23",
+      "isNew": false,
+      "id": "laj51772022186"
+    },
+    {
+      "title": "LAJM I FUNDIT! Tërmeti shkund Shqipërinë!",
+      "link": "https://www.lajme.al/lajm-i-fundit-termeti-shkund-shqiperine/",
+      "description": "Elbasani u trondit këtë të martë pasdite nga një tërmet i papritur. Sipas raportimeve të para, lekundjet u ndjenw me intensite. Sipas të dhënave të fundit, një tërmet me magnitudë 4.3 të shkallës Rihter ka goditur Shqipërinë mbrëmjen e sotme, më 24 shkurt 2026. Lëkundjet u regjistruan rreth orës 20:",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-24T19:16:36+00:00",
+      "dateStr": "24 Feb, 19:16",
+      "isNew": false,
+      "id": "laj61771960596"
+    },
+    {
+      "title": "Diss për Xhensilën? Bes Kallaku publikon këngën e re: “Mes meje dhe teje, dihet kush ishte thëngjilli”",
+      "link": "https://www.lajme.al/diss-per-xhensilen-bes-kallaku-publikon-kengen-e-re-mes-meje-dhe-teje-dihet-kush-ishte-thengjilli/",
+      "description": "Aktori dhe këngëtari Bes Kallaku ka tërhequr vëmendjen e të gjithë ndjekësve me projektin e tij më të fundit muzikor, një këngë mjaft personale që ngjan me një rrëfim të hapur për ulje-ngritjet e jetës së tij. Menjëherë pas publikimit, rrjeti ka nisur të ziejë nga aludimet se disa prej rreshtave më ",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-24T19:11:16+00:00",
+      "dateStr": "24 Feb, 19:11",
+      "isNew": false,
+      "id": "laj71771960276"
+    },
+    {
+      "title": "Momenti viral: Takimi i DJ Gimbos me Egli Takon, çfarë u tha mes tyre?",
+      "link": "https://www.lajme.al/momenti-viral-takimi-i-dj-gimbos-me-egli-takon-cfare-u-tha-mes-tyre/",
+      "description": "Mbrëmjen e djeshme, e ftuar në Big Brother VIP Albania ishte ish-banorja Egli Tako, si pjesë e jurisë së “Miss &#38; Mister Big Brother”. Megjithatë, momenti që mori më shumë vëmendje në rrjet ishte takimi i saj me DJ Gimbon, mikun e ngushtë të Gjestit. Përshëndetja mes tyre ishte e ngrohtë dhe e af",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-24T16:13:31+00:00",
+      "dateStr": "24 Feb, 16:13",
+      "isNew": false,
+      "id": "laj81771949611"
+    },
+    {
+      "title": "Çfarë ndodhi? Noizy thirret në gjykatë, dyshohet se…",
+      "link": "https://www.lajme.al/cfare-ndodhi-noizy-thirret-ne-gjykate-dyshohet-se/",
+      "description": "Rigles Rajku, i njohur me emrin e artit Noizy është thirrur nga GJKKO për t’u bërë pjesë procesit ndaj Laert Haxhiut, si viktimë e veprës penale. Përveç Noizyt, pjesë e procesit mund të bëhet edhe babai i tij Bashkimi dhe e motra. Sipas procedurës, në kushtet kur dosja ndaj Laert Haxhiut ka kaluar p",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-24T12:09:52+00:00",
+      "dateStr": "24 Feb, 12:09",
+      "isNew": false,
+      "id": "laj91771934992"
     }
   ]
 }
