@@ -1,8 +1,162 @@
 {
-  "lastUpdated": "2026-06-14T19:19:44.439800+00:00",
-  "totalSources": 3,
-  "totalNews": 30,
+  "lastUpdated": "2026-06-14T21:06:42.758445+00:00",
+  "totalSources": 2,
+  "totalNews": 20,
   "news": [
+    {
+      "title": "Presidenti i Iranit: Negociatat janë në interes kombëtar, shkelja e vijave të kuqe nuk tolerohet",
+      "link": "https://abcnews.al/presidenti-i-iranit-negociatat-jane-ne-interes-kombetar-shkelja-e-vijave-te-kuqe-nuk-tolerohet/",
+      "description": "Presidenti i Iranit, Masoud Pezeshkian, ka mbrojtur negociatat ndërmjet Teheranit dhe Washingtonit në deklaratën e tij më të fundit të publikuara nga mediat iraniane. “Mbrojtja e interesave kombëtare dhe ruajtja e autoritetit të vendit në kuadër të negociatave nuk është një qasje e kufizuar vetëm te",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T20:55:00+00:00",
+      "dateStr": "14 Jun, 20:55",
+      "isNew": true,
+      "id": "abc01781470500"
+    },
+    {
+      "title": "FOTOT/ Pankartat e ditës së 15 të protestës qytetar në Tiranë",
+      "link": "https://24-ore.com/fotot-pankartat-e-dites-se-15-te-protestes-qytetar-ne-tirane/",
+      "description": "Kreativiteti dhe ironia kanë qenë sërish të pranishme në protestën e 15-të të qytetarëve që po zhvillohet këtë të diel në Tiranë. Mes pjesëmarrësve të mbledhur para Kryeministrisë, vëmendje të veçantë kanë tërhequr pankartat me mesazhe politike, satirike dhe kritike ndaj qeverisë. Qytetarët kanë zgj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T20:39:48+00:00",
+      "dateStr": "14 Jun, 20:39",
+      "isNew": true,
+      "id": "24 01781469588"
+    },
+    {
+      "title": "Protesta e ditës së 15 nis marshimin e përditshëm në rrugët e Tiranës",
+      "link": "https://24-ore.com/protesta-e-dites-se-15-nis-marshimin-e-perditshem-ne-rruget-e-tiranes/",
+      "description": "Protesta qytetare kundër qeverisë vijoi në ditën e saj të 15-të. Ashtu si në ditët e mëparshme, pjesëmarrësit u mblodhën fillimisht në Sheshin Skënderbej dhe më pas marshuan drejt Kryeministrisë. Gjatë tubimit, në foltore morën fjalën dhjetëra qytetarë, përfshirë përfaqësues të diasporës, të cilët p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T20:39:34+00:00",
+      "dateStr": "14 Jun, 20:39",
+      "isNew": true,
+      "id": "24 11781469574"
+    },
+    {
+      "title": "Ambasada e SHBA në Tiranë uron Trump për ditëlindje",
+      "link": "https://24-ore.com/ambasada-e-shba-ne-tirane-uron-trump-per-ditelindje/",
+      "description": "Ambasada Amerikane në Tiranë, ka uruar presidentin amerikan dhe njëherësh Presidentin e 45-të dhe të 47-të të Shteteve të Bashkuara, Donald J. Trump, me rastin e ditëlindjes së tij. Në një mesazh publik, ambasada vlerëson figurën e Trump si një “patriot të palodhur”, i cili sipas deklaratës “lufton ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T20:39:24+00:00",
+      "dateStr": "14 Jun, 20:39",
+      "isNew": true,
+      "id": "24 21781469564"
+    },
+    {
+      "title": "Sekuestrimi i cisternës ruse! Britania arreston edhe 25 anëtarë të ekuipazhit",
+      "link": "https://24-ore.com/sekuestrimi-i-cisternes-ruse-britania-arreston-edhe-25-anetare-te-ekuipazhit/",
+      "description": "Forcat e armatosura të Mbretërisë së Bashkuar dhe oficerë të zbatimit të ligjit kanë hipur për herë të parë në një cisternë të flotës së fshehtë ruse. Në bordin e anijes ruse që u sekuestrua ndodheshin 25 anëtarë ekuipazhi me kombësi të ndryshme, raporton skynews. Oficeri komandues i Marinsave Mbret",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T20:39:12+00:00",
+      "dateStr": "14 Jun, 20:39",
+      "isNew": true,
+      "id": "24 31781469552"
+    },
+    {
+      "title": "Raport i ri për luftën në Gaza/ Mbi 73 mijë viktima që nga viti 2023",
+      "link": "https://abcnews.al/raport-i-ri-per-luften-ne-gaza-mbi-73-mije-viktima-qe-nga-viti-2023/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T20:30:50+00:00",
+      "dateStr": "14 Jun, 20:30",
+      "isNew": true,
+      "id": "abc11781469050"
+    },
+    {
+      "title": "Dosja Epstein zbulon kontakte të reja/ Detaje mbi rrjetin e ndërmjetësve që prezantonin vajza tek Epstein",
+      "link": "https://abcnews.al/dosja-epstein-zbulon-kontakte-te-reja-detaje-mbi-rrjetin-e-ndermjetesve-qe-prezantonin-vajza-tek-epstein/",
+      "description": "Publikimi i miliona dokumenteve nga dosja e Jeffrey Epstein vazhdon të zbulojë detaje të reja mbi mënyrën se si pedofili amerikan krijonte kontakte me vajza të reja përmes një rrjeti ndërmjetësish dhe bashkëpunëtorësh. Në dokumentet e publikuara nga Departamenti amerikan i Drejtësisë, një pjesë e em",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T20:08:39+00:00",
+      "dateStr": "14 Jun, 20:08",
+      "isNew": true,
+      "id": "abc21781467719"
+    },
+    {
+      "title": "Gjermania e nis me festival golash, shënon 7 gola në portën e Curaçao",
+      "link": "https://abcnews.al/gjermania-e-nis-me-festival-golash-shenon-7-gola-ne-porten-e-curacao/",
+      "description": "Kombëtarja e Gjermanisë e ka nisur në mënyrën më të mirë sfidën ndaj Curaçaos, për të regjistruar një fitore mjaft të thellë. Gjermanët fituan me rezultat 7-1, sfidë që e dominuan në të gjitha aspektet nga minuta e parë. Felix Nmecha shënoi një gol të bukur në stilin vollej për ta zhbllokuar epërsin",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T19:53:17+00:00",
+      "dateStr": "14 Jun, 19:53",
+      "isNew": true,
+      "id": "abc31781466797"
+    },
+    {
+      "title": "Protestat si pasqyrë për Lapajn dhe partitë e reja",
+      "link": "https://24-ore.com/protestat-si-pasqyre-per-lapajn-dhe-partite-e-reja/",
+      "description": "Nga Shpëtim Luku Protestat po i afrohen javës së tretë që nga nisja e tyre dhe, paradoksalisht, personi më i dëshpëruar nga kjo situatë mund të mos jetë Edi Rama, ndaj të cilit adresohet kërkesa për dorëheqje. Më të shqetësuar se ai mund të jenë pikërisht Adriatik Lapaj dhe drejtues të tjerë të forc",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T19:46:21+00:00",
+      "dateStr": "14 Jun, 19:46",
+      "isNew": true,
+      "id": "24 41781466381"
+    },
+    {
+      "title": "Newsroom me Erneta Shevroja, (14/06/2026)",
+      "link": "https://abcnews.al/newsroom-me-erneta-shevroja-14-06-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T19:44:37+00:00",
+      "dateStr": "14 Jun, 19:44",
+      "isNew": true,
+      "id": "abc41781466277"
+    },
+    {
+      "title": "Nesër i jepet lamtumira e fundit 27-vjeçarit që u vra me thikë në Prizren",
+      "link": "https://24-ore.com/neser-i-jepet-lamtumira-e-fundit-27-vjecarit-qe-u-vra-me-thike-ne-prizren/",
+      "description": "Nesër do t’i jepet lamtumira e fundit 27-vjeçarit Albian Osmanaj, i cili humbi jetën tragjikisht pas një therjeje me thikë në fshatin Kobaj të Prizrenit. Sipas njoftimit mortor të publikuar nga familja, varrimi i të ndjerit do të bëhet të hënën, më 15 qershor 2026, pas faljes së namazit të Ikindisë,",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T19:38:57+00:00",
+      "dateStr": "14 Jun, 19:38",
+      "isNew": true,
+      "id": "24 51781465937"
+    },
+    {
+      "title": "Rifat Jashari, Sami Lushtaku dhe Jetullah Geci bashkë në pritjen e ngushëllimeve për Sahit Jasharin",
+      "link": "https://24-ore.com/rifat-jashari-sami-lushtaku-dhe-jetullah-geci-bashke-ne-pritjen-e-ngushellimeve-per-sahit-jasharin/",
+      "description": "Familjarë, bashkëluftëtarë dhe qytetarë kanë vazhduar të shprehin ngushëllimet e tyre për ndarjen nga jeta të Sahit Jasharit, njërit prej luftëtarëve të hershëm të Ushtrisë Çlirimtare të Kosovës. Në pritjen e ngushëllimeve për ish-komandantin e Policisë Ushtarake të UÇK-së në Zonën Operative të Dren",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T19:38:45+00:00",
+      "dateStr": "14 Jun, 19:38",
+      "isNew": true,
+      "id": "24 61781465925"
+    },
+    {
+      "title": "Thuram e mbyll me Juventusin. Garë treshe për mesfushorin francez",
+      "link": "https://24-ore.com/thuram-e-mbyll-me-juventusin-gare-treshe-per-mesfushorin-francez/",
+      "description": "Khephren Thuram mund të jetë një nga surprizat e mëdha të merkatos verore. Tuttosport zbulon se mesfushori francez mund të mos jetë pjesë e projektit të ri të Juventusit. Edhe pse 25-vjeçari është nën kontratë deri në vitin 2029 me bardhezinjtë, ai mund të largohet që këtë verë, nëse vjen oferta e d",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T19:38:38+00:00",
+      "dateStr": "14 Jun, 19:38",
+      "isNew": true,
+      "id": "24 71781465918"
+    },
+    {
+      "title": "Pas rritjes rekord, bie ndjeshëm çmimi i arit, ja faktorët që po ndikojnë",
+      "link": "https://abcnews.al/pas-rritjes-rekord-bie-ndjeshem-cmimi-i-arit-ja-faktoret-qe-po-ndikojne/",
+      "description": "Në teori, ari konsiderohet një nga asetet më të sigurta në kohë krizash globale. Kur shpërthejnë luftëra, rritet inflacioni ose pasiguria ekonomike, investitorët zakonisht largohen nga aksionet dhe monedhat e paqëndrueshme dhe drejtohen drejt arit, duke e rritur çmimin e tij. Por këtë herë situata p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-14T19:28:02+00:00",
+      "dateStr": "14 Jun, 19:28",
+      "isNew": true,
+      "id": "abc51781465282"
+    },
     {
       "title": "Botërori 2026/ Gjermania nuk kursehet, i shënon 7 gola debutuesve të Kurasaos",
       "link": "https://24-ore.com/boterori-2026-gjermania-nuk-kursehet-i-shenon-7-gola-debutuesve-te-kurasaos/",
@@ -12,7 +166,7 @@
       "date": "2026-06-14T19:17:00+00:00",
       "dateStr": "14 Jun, 19:17",
       "isNew": true,
-      "id": "24 01781464620"
+      "id": "24 81781464620"
     },
     {
       "title": "Tensione në protestë! Mbledhje të paligjshme kartash identiteti për peticion, persona me kapuçë të pranishëm",
@@ -23,95 +177,18 @@
       "date": "2026-06-14T19:16:28+00:00",
       "dateStr": "14 Jun, 19:16",
       "isNew": true,
-      "id": "24 11781464588"
+      "id": "24 91781464588"
     },
     {
-      "title": "Pacolli kërkon hetim: Pavarësisht vendimit të gjykatës, po na ndalohet hyrja në Aeroportin e Vlorës, investimi po bllokohet",
-      "link": "https://24-ore.com/pacolli-kerkon-hetim-pavaresisht-vendimit-te-gjykates-po-na-ndalohet-hyrja-ne-aeroportin-e-vlores-investimi-po-bllokohet/",
-      "description": "Biznesmeni Behgjet Pacolli ka reaguar lidhur me zhvillimet rreth projektit të Aeroportit të Vlorës, duke deklaruar se kompanisë së tij dhe nënkontraktorëve u është ndaluar hyrja në objekt që nga data 18 maj, në një fazë kur, sipas tij, terminali dhe infrastruktura kryesore ishin thuajse të përfundua",
-      "source": "24 ORE",
+      "title": "Zvicra humbet me të parën/ Analistët: Nga mendjemadhësia te mungesa e përqendrimit. Katari luftoi deri në fund",
+      "link": "https://abcnews.al/zvicra-humbet-me-te-paren-analistet-nga-mendjemadhesia-te-mungesa-e-perqendrimit-katari-luftoi-deri-ne-fund/",
+      "description": "Kombëtarja e Katarit ka shkruar historinë duke marrë pikën e saj të parë në një Kampionat Botëror, pas një barazimi dramatik në minutat e fundit përballë Zvicrës së Granit Xhakës. Pavarësisht dominimit dhe sulmeve të shumta të helvetikëve, mungesa e përqendrimit dhe pamundësia për ta &#8220;vrarë&#8",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-06-14T19:09:14+00:00",
-      "dateStr": "14 Jun, 19:09",
+      "date": "2026-06-14T19:00:58+00:00",
+      "dateStr": "14 Jun, 19:00",
       "isNew": true,
-      "id": "24 21781464154"
-    },
-    {
-      "title": "Ndërkombëtarët: Pa kompromis politik, Kosova rrezikon stagnim institucional",
-      "link": "https://24-ore.com/nderkombetaret-pa-kompromis-politik-kosova-rrezikon-stagnim-institucional/",
-      "description": "Ndërkohë, diplomatë dhe ish-zyrtarë ndërkombëtarë vlerësojnë se sfida kryesore për Kosovën fillon pas zgjedhjeve, me procesin e formimit të institucioneve dhe sigurimin e stabilitetit politik. Ata theksojnë se kompromisi dhe bashkëpunimi ndërmjet forcave politike janë të domosdoshme për funksionimin",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T19:08:58+00:00",
-      "dateStr": "14 Jun, 19:08",
-      "isNew": true,
-      "id": "24 31781464138"
-    },
-    {
-      "title": "Barcelona e ka seriozisht për Barcola. Oferta e parë refuzohet direkt nga PSG, shumë larg asaj që pritet",
-      "link": "https://24-ore.com/barcelona-e-ka-seriozisht-per-barcola-oferta-e-pare-refuzohet-direkt-nga-psg-shume-larg-asaj-qe-pritet/",
-      "description": "Bradley Barcola do të jetë një nga emrat më të lakuar në këtë merkato. Edhe pse për momentin, anësori i majtë është totalisht i fokusuar te Kupa e Botës me Francën, interesimi ndaj tij është shumë i madh. Një nga klubet e mëdha që ka bërë hapin e parë drejt tij është Barcelona. Fichajes zbulon [&#82",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T19:08:53+00:00",
-      "dateStr": "14 Jun, 19:08",
-      "isNew": true,
-      "id": "24 41781464133"
-    },
-    {
-      "title": "Arteta i fiksuar pas yjeve të Turqisë. Pasi doli “blof” me Arda Guler, Arsenal ka gati 100 mln euro për yllin tjetër",
-      "link": "https://24-ore.com/arteta-i-fiksuar-pas-yjeve-te-turqise-pasi-doli-blof-me-arda-guler-arsenal-ka-gati-100-mln-euro-per-yllin-tjeter/",
-      "description": "Mikel Arteta ka një simpati të madhe për dy yjet e Turqisë, Arda Guler dhe Kenan Yildiz. Për të parin, Arsenal është shprehur i gatshëm për të paguar 90-100 milionë euro, por Guler do të jetë pjesë e rëndësishme e projektit të ri të Jose Mourinho dhe drejtuesit e Real Madridit i kanë mbyllur derën [",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T19:08:42+00:00",
-      "dateStr": "14 Jun, 19:08",
-      "isNew": true,
-      "id": "24 51781464122"
-    },
-    {
-      "title": "Gazeta italiane: Protestat në Shqipëri shndërrohen në antisemitizëm. Hebrenjtë dhe izraelitët në shënjestër",
-      "link": "https://24-ore.com/gazeta-italiane-protestat-ne-shqiperi-shnderrohen-ne-antisemitizem-hebrenjte-dhe-izraelitet-ne-shenjester/",
-      "description": "Nga Enrico Cerchione, Il Riformista Mijëra njerëz kanë dalë në rrugët e Tiranës dhe Vlorës për ditë të tëra, duke mbajtur flamingo rozë të fryrë, jo për folklor. Është “Revolucioni i Flamingove”, emri që protestuesit i kanë dhënë protestës kundër mega-resortit luksoz që Jared Kushner, dhëndri i Dona",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T18:46:52+00:00",
-      "dateStr": "14 Jun, 18:46",
-      "isNew": true,
-      "id": "24 61781462812"
-    },
-    {
-      "title": "Ademi nga Lëvizja Studentore takon përfaqësues të BE-së, diskutohen të drejtat e shqiptarëve dhe Marrëveshja e Ohrit",
-      "link": "https://24-ore.com/ademi-nga-levizja-studentore-takon-perfaqesues-te-be-se-diskutohen-te-drejtat-e-shqiptareve-dhe-marreveshja-e-ohrit/",
-      "description": "Përfaqësuesi i Lëvizjes Studentore, Mevlan Ademi nga Lëvizja Studentore ka zhvilluar takim me Frederick Swinnen nga Komisioni Evropian dhe Clare Dowdle nga Shërbimi Evropian për Veprim të Jashtëm (EEAS), ku është diskutuar për zhvillimet e fundit në Maqedoninë e Veriut, me theks të veçantë te sundim",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T18:39:24+00:00",
-      "dateStr": "14 Jun, 18:39",
-      "isNew": true,
-      "id": "24 71781462364"
-    },
-    {
-      "title": "Një psikolog për mbi 1 mijë nxënës, Prishtina me mungesë të tyre në shkolla",
-      "link": "https://24-ore.com/nje-psikolog-per-mbi-1-mije-nxenes-prishtina-me-mungese-te-tyre-ne-shkolla/",
-      "description": "Në gjimnazin “Ahmet Gashi” në Prishtinë, ku mësimin e ndjekin rreth 1200 nxënës, shërbimi psikologjik po përballet me ngarkesë të madhe për shkak të numrit të lartë të kërkesave nga nxënësit për ndihmë profesionale. Në këtë shkollë është e angazhuar vetëm një psikologe, ndërsa çdo ditë 4 deri në 6 n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T18:39:12+00:00",
-      "dateStr": "14 Jun, 18:39",
-      "isNew": true,
-      "id": "24 81781462352"
-    },
-    {
-      "title": "Dhjetë raste të reja me HIV në muajt e fundit, dy viktima – rritet testimi vullnetar",
-      "link": "https://24-ore.com/dhjete-raste-te-reja-me-hiv-ne-muajt-e-fundit-dy-viktima-rritet-testimi-vullnetar/",
-      "description": "Më shumë raste të infektimit me HIV janë shënuar në dy vitet e fundit në Kosovë, dhe kështu është situata edhe në këta muajt e parë të 2026-s. Sipas infektologëve, janë të regjistruara dy vdekje nga ky infeksion, meqë trajtimin e kanë nisur në fazën e fundit të sëmundjes. Vetëm deri në javën e tretë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T18:38:58+00:00",
-      "dateStr": "14 Jun, 18:38",
-      "isNew": true,
-      "id": "24 91781462338"
+      "id": "abc61781463658"
     },
     {
       "title": "Gjenerali italian, Roberto Vannacci lanson parti të ekstremit të djathtë",
@@ -122,7 +199,7 @@
       "date": "2026-06-14T18:23:59+00:00",
       "dateStr": "14 Jun, 18:23",
       "isNew": true,
-      "id": "abc01781461439"
+      "id": "abc71781461439"
     },
     {
       "title": "Rrëzohet një helikopter në Brazil, të paktën gjashtë të vdekur",
@@ -133,7 +210,7 @@
       "date": "2026-06-14T18:04:54+00:00",
       "dateStr": "14 Jun, 18:04",
       "isNew": true,
-      "id": "abc11781460294"
+      "id": "abc81781460294"
     },
     {
       "title": "35 vitet e PS / Leka: Ka pësuar ndryshime kolosale. Me Ramën në krye është shndërruar në forcën kryesore në qeverisjen e vendit",
@@ -144,194 +221,7 @@
       "date": "2026-06-14T17:44:55+00:00",
       "dateStr": "14 Jun, 17:44",
       "isNew": true,
-      "id": "abc21781459095"
-    },
-    {
-      "title": "Amnistia Penale, kush përfiton?/ Dobi: Fokusi te gratë dhe të miturit, ja kush përjashtohet",
-      "link": "https://abcnews.al/amnistia-penale-kush-perfiton-dobi-fokusi-te-grate-dhe-te-miturit-ja-kush-perjashtohet/",
-      "description": "Ministria e Drejtësisë e ka vlerësuar Amnistinë Penale si një projekt prioritar dhe të mirëmenduar, i cili synon t&#8217;u ofrojë një shans të dytë shumë shtetasve të burgosur. I ftuar në emisionin “NewsRoom” në ABC News, zëvendësministri i Drejtësisë, Tedi Dobi, bëri me dije se drafti i hartuar pas",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T17:17:57+00:00",
-      "dateStr": "14 Jun, 17:17",
-      "isNew": true,
-      "id": "abc31781457477"
-    },
-    {
-      "title": "NewsHour me Emilian Islamin, (14/06/2026)",
-      "link": "https://abcnews.al/newshour-me-emilian-islamin-14-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T17:00:02+00:00",
-      "dateStr": "14 Jun, 17:00",
-      "isNew": true,
-      "id": "abc41781456402"
-    },
-    {
-      "title": "Ukraina dhe Moldavia nisin zyrtarisht negociatat për anëtarësim në BE",
-      "link": "https://abcnews.al/ukraina-dhe-moldavia-nisin-zyrtarisht-negociatat-per-anetaresim-ne-be/",
-      "description": "Ukraina dhe Moldavia do të hedhin të hënën një hap të rëndësishëm drejt anëtarësimit në Bashkimin Evropian, duke nisur zyrtarisht fazën e parë të negociatave të anëtarësimit. Takimi do të zhvillohet në Luksemburg mes zyrtarëve të lartë të BE-së dhe përfaqësuesve të dy vendeve, duke shënuar fillimin ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T16:57:29+00:00",
-      "dateStr": "14 Jun, 16:57",
-      "isNew": true,
-      "id": "abc51781456249"
-    },
-    {
-      "title": "Sekuestrimi i cisternës ruse/ Britania arreston edhe 25 anëtarë të ekuipazhit",
-      "link": "https://abcnews.al/sekuestrimi-i-cisternes-ruse-britania-arreston-edhe-25-anetare-te-ekuipazhit/",
-      "description": "Forcat e armatosura të Mbretërisë së Bashkuar dhe oficerë të zbatimit të ligjit kanë hipur për herë të parë në një cisternë të flotës së fshehtë ruse. Në bordin e anijes ruse që u sekuestrua ndodheshin 25 anëtarë ekuipazhi me kombësi të ndryshme, raporton skynews. Oficeri komandues i Marinsave Mbret",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T16:31:04+00:00",
-      "dateStr": "14 Jun, 16:31",
-      "isNew": true,
-      "id": "abc61781454664"
-    },
-    {
-      "title": "Rama sqaron me fakte çështjen për Zvërnecin dhe Sazanin: Një pasqyrë për të gjithë përgojuesit e shtetit shqiptar",
-      "link": "https://abcnews.al/rama-sqaron-me-fakte-ceshtjen-per-zvernecin-dhe-sazanin-nje-pasqyre-per-te-gjithe-pergojuesit-e-shtetit-shqiptar/",
-      "description": "Kryeministri Edi Rama ka sërish në rrjetet sociale, sa i takon projektit për Zvërnecin dhe atë për ishullin e Sazanit. Me një tablo të qartë, ose siç vetë e ka cilësuar “një pasqyrë për të gjithë përgojuesit e shtetit shqiptar”, kreu i qeverisë sqaron publikun lidhur me dy projektet, të cilat janë t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T16:04:01+00:00",
-      "dateStr": "14 Jun, 16:04",
-      "isNew": true,
-      "id": "abc71781453041"
-    },
-    {
-      "title": "Irani ende pa vendim për marrëveshje me SHBA, Trumpi kritikon sulmin izraelit ndaj Bejrutit",
-      "link": "https://abcnews.al/irani-ende-pa-vendim-per-marreveshje-me-shba-trumpi-kritikon-sulmin-izraelit-ndaj-bejrutit/",
-      "description": "Iran ende nuk ka marrë një vendim përfundimtar lidhur me memorandumin e mirëkuptimit të propozuar midis Teheranit dhe Uashingtonit, pavarësisht deklaratës së presidentit amerikan, Donald Trump, se marrëveshja do të nënshkruhej të dielën, ka bërë të ditur media shtetërore iraniane. Fraksionet konserv",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T15:45:15+00:00",
-      "dateStr": "14 Jun, 15:45",
-      "isNew": true,
-      "id": "abc81781451915"
-    },
-    {
-      "title": "Zvicra në referendum për të vendosur nëse vendi duhet të kalojë 10 mln banorë",
-      "link": "https://abcnews.al/zvicra-ne-referendum-per-te-vendosur-nese-vendi-duhet-te-kaloje-10-mln-banore/",
-      "description": "Zvicra po voton këtë të të diel për të vendosur nëse do të mbështesë një propozim për të kufizuar popullsinë e vendit, nëpërmjet një referendumi, i cili është krahasuar me votimin për Brexit në Britani dhe mund të ketë pasoja të gjera për ekonominë dhe marrëdhëniet e Bernës me Bashkimin Evropian. I ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-14T15:26:00+00:00",
-      "dateStr": "14 Jun, 15:26",
-      "isNew": true,
-      "id": "abc91781450760"
-    },
-    {
-      "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
-      "link": "https://www.lajme.al/lajme-al-uron-te-gjithe-besimtaret-gezuar-kurban-bajramin/",
-      "description": "Urime festa e Kurban Bajramit! Gëzuar këtë festë të shenjtë dhe për shumë vite me paqe, shëndet e begati! Urojmë që kjo ditë e bekuar të sjellë qetësi në zemrat tona, harmoni në familje dhe dashuri mes njerëzve. Le të jetë një ditë që na afron më shumë me njëri-tjetrin, duke na kujtuar rëndësinë e [",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-05-27T06:00:19+00:00",
-      "dateStr": "27 May, 06:00",
-      "isNew": false,
-      "id": "laj01779861619"
-    },
-    {
-      "title": "Greqi: Flet babai i 19-vjeçares shqiptare: Humba jo engjëllin tim, por jetën time. Vajzën ma futën në kurth, e flakën pasi i bënë gjëra të tmerrshme!",
-      "link": "https://www.lajme.al/greqi-flet-babai-i-19-vjecares-shqiptare-humba-jo-engjellin-tim-por-jeten-time-vajzen-ma-futen-ne-kurth-e-flaken-pasi-i-bene-gjera-te-tmerrshme/",
-      "description": "Babai i 19-vjeçares që u gjet e pajetë në Kefaloni të Greqisë, foli sonte për mediat greke dhe tha se vajza e tij nuk kishte asnjë lidhje as me lëndë narkotike dhe as me alkool Trishtim i madh ka përfshirë Kefaloninë pas lajmit për vdekjen e 19-vjeçares shqiptare e identifikuar si Mirto, e cila u [&",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-04-16T16:54:53+00:00",
-      "dateStr": "16 Apr, 16:54",
-      "isNew": false,
-      "id": "laj11776358493"
-    },
-    {
-      "title": "Gashi: Diasporës parapëlqej t’i them mërgatë, të krijojmë kushtet për rikthimin e tyre në vendlindje",
-      "link": "https://www.lajme.al/gashi-diaspores-parapelqej-ti-them-mergate-te-krijojme-kushtet-per-rikthimin-e-tyre-ne-vendlindje/",
-      "description": "Kryetari i Kuvendit të Maqedonisë së Veriut, Afrim Gashi, ka theksuar rëndësinë e diasporës dhe nevojën për forcimin e lidhjeve me qytetarët që jetojnë jashtë vendit. Në fjalën e mbajtur në Samitin e IV të Diasporës, Gashi e cilësoi diasporën si një pjesë të pandashme të identitetit, duke u shprehur",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-04-14T14:24:35+00:00",
-      "dateStr": "14 Apr, 14:24",
-      "isNew": false,
-      "id": "laj21776176675"
-    },
-    {
-      "title": "Fitër Bajrami – Festë e Besimit, Mirësisë dhe Solidaritetit",
-      "link": "https://www.lajme.al/fiter-bajrami-feste-e-besimit-miresise-dhe-solidaritetit/",
-      "description": "Me përfundimin e muajit të Ramazanit, besimtarët myslimanë anembanë botës festojnë Fitër Bajramin – një nga festat më të rëndësishme në kalendarin islam. Kjo ditë e shënuar është një moment falënderimi ndaj Zotit, reflektimi për muajin që lamë pas, si dhe një rast për të ndarë gëzim dhe dashuri me t",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-03-20T00:03:28+00:00",
-      "dateStr": "20 Mar, 00:03",
-      "isNew": false,
-      "id": "laj31773965008"
-    },
-    {
-      "title": "Albano Bogdo pranon publikisht: “Kam kryer marrëdhënie me një ish-banore të BBV Albania”",
-      "link": "https://www.lajme.al/albano-bogdo-pranon-publikisht-kam-kryer-marredhenie-me-nje-ish-banore-te-bbv-albania/",
-      "description": "Aktori i njohur i humorit, Albano Bogdo, ka bërë një deklaratë të papritur gjatë pjesëmarrjes së tij në emisionin “Andale”. Gjatë një loje me pyetje provokuese, u lexua pohimi: “Kam bërë marrëdhënie seksuale me një ish-banore që ka qenë në Big Brother Vip Albania”. Pa hezituar, Albano ngriti menjëhe",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-25T16:28:58+00:00",
-      "dateStr": "25 Feb, 16:28",
-      "isNew": false,
-      "id": "laj41772036938"
-    },
-    {
-      "title": "Del FOTO e rrallë nga arkiva: Ja si dukej Brikena e BBVA para famës",
-      "link": "https://www.lajme.al/del-foto-e-rralle-nga-arkiva-ja-si-dukej-brikena-e-bbva-para-fames/",
-      "description": "Brikena Selmani është kthyer padyshim në një nga banoret më të komentuara dhe që ka tërhequr vëmendjen në këtë edicion të “Big Brother VIP Albania”, jo vetëm për dinamikat në lojë, por edhe për pamjen e saj. Por, duket se sharmi i modeles daton shumë më herët se dritat e famës televizive. Në rrjetet",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-25T12:23:06+00:00",
-      "dateStr": "25 Feb, 12:23",
-      "isNew": false,
-      "id": "laj51772022186"
-    },
-    {
-      "title": "LAJM I FUNDIT! Tërmeti shkund Shqipërinë!",
-      "link": "https://www.lajme.al/lajm-i-fundit-termeti-shkund-shqiperine/",
-      "description": "Elbasani u trondit këtë të martë pasdite nga një tërmet i papritur. Sipas raportimeve të para, lekundjet u ndjenw me intensite. Sipas të dhënave të fundit, një tërmet me magnitudë 4.3 të shkallës Rihter ka goditur Shqipërinë mbrëmjen e sotme, më 24 shkurt 2026. Lëkundjet u regjistruan rreth orës 20:",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T19:16:36+00:00",
-      "dateStr": "24 Feb, 19:16",
-      "isNew": false,
-      "id": "laj61771960596"
-    },
-    {
-      "title": "Diss për Xhensilën? Bes Kallaku publikon këngën e re: “Mes meje dhe teje, dihet kush ishte thëngjilli”",
-      "link": "https://www.lajme.al/diss-per-xhensilen-bes-kallaku-publikon-kengen-e-re-mes-meje-dhe-teje-dihet-kush-ishte-thengjilli/",
-      "description": "Aktori dhe këngëtari Bes Kallaku ka tërhequr vëmendjen e të gjithë ndjekësve me projektin e tij më të fundit muzikor, një këngë mjaft personale që ngjan me një rrëfim të hapur për ulje-ngritjet e jetës së tij. Menjëherë pas publikimit, rrjeti ka nisur të ziejë nga aludimet se disa prej rreshtave më ",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T19:11:16+00:00",
-      "dateStr": "24 Feb, 19:11",
-      "isNew": false,
-      "id": "laj71771960276"
-    },
-    {
-      "title": "Momenti viral: Takimi i DJ Gimbos me Egli Takon, çfarë u tha mes tyre?",
-      "link": "https://www.lajme.al/momenti-viral-takimi-i-dj-gimbos-me-egli-takon-cfare-u-tha-mes-tyre/",
-      "description": "Mbrëmjen e djeshme, e ftuar në Big Brother VIP Albania ishte ish-banorja Egli Tako, si pjesë e jurisë së “Miss &#38; Mister Big Brother”. Megjithatë, momenti që mori më shumë vëmendje në rrjet ishte takimi i saj me DJ Gimbon, mikun e ngushtë të Gjestit. Përshëndetja mes tyre ishte e ngrohtë dhe e af",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T16:13:31+00:00",
-      "dateStr": "24 Feb, 16:13",
-      "isNew": false,
-      "id": "laj81771949611"
-    },
-    {
-      "title": "Çfarë ndodhi? Noizy thirret në gjykatë, dyshohet se…",
-      "link": "https://www.lajme.al/cfare-ndodhi-noizy-thirret-ne-gjykate-dyshohet-se/",
-      "description": "Rigles Rajku, i njohur me emrin e artit Noizy është thirrur nga GJKKO për t’u bërë pjesë procesit ndaj Laert Haxhiut, si viktimë e veprës penale. Përveç Noizyt, pjesë e procesit mund të bëhet edhe babai i tij Bashkimi dhe e motra. Sipas procedurës, në kushtet kur dosja ndaj Laert Haxhiut ka kaluar p",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T12:09:52+00:00",
-      "dateStr": "24 Feb, 12:09",
-      "isNew": false,
-      "id": "laj91771934992"
+      "id": "abc91781459095"
     }
   ]
 }
