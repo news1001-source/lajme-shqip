@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-06-14T23:04:05.317798+00:00",
+  "lastUpdated": "2026-06-15T03:43:30.638388+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Dita e dytë e Festivalit Ndërkombëtar të Video Artit Gjon Mili në Korçë",
+      "link": "https://24-ore.com/dita-e-dyte-e-festivalit-nderkombetar-te-video-artit-gjon-mili-ne-korce/",
+      "description": "Korça mirëpriti të dielën aktivitetet e ditës së dytë të edicionit të katërt të Festivalit Ndërkombëtar të Video Artit Gjon Mili, i cili po sjell në qytet artistë, kineastë dhe krijues nga vende të ndryshme të botës. Programi i paradites dhe pasdites u zhvillua në GAD Gallery, ku publiku pati mundës",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-15T01:03:15+00:00",
+      "dateStr": "15 Jun, 01:03",
+      "isNew": true,
+      "id": "24 01781485395"
+    },
+    {
+      "title": "Bankat, pronare te tokave ne bregdet",
+      "link": "https://24-ore.com/bankat-pronare-te-tokave-ne-bregdet/",
+      "description": "Pas dy javësh protestash pa ndërprerje, në kulmin e debatit për projektet turistike në Zvërnec, këto dokumente tregojnë një histori tjetër, ndoshta të panjohur për shumë nga ju: Si mijëra hektarë tokë në zonën e Vlorës kanë kaluar nga pronarë privatë në duart e bankave dhe më pas në fonde investimi ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-15T00:45:46+00:00",
+      "dateStr": "15 Jun, 00:45",
+      "isNew": true,
+      "id": "24 11781484346"
+    },
+    {
+      "title": "Ora 02:00 e mëngjesit, protesta nuk ndalet! Qytetarët marshojnë në autostradën Tiranë–Durrës pas tetë orësh proteste",
+      "link": "https://24-ore.com/ora-0200-e-mengjesit-protesta-nuk-ndalet-qytetaret-marshojne-ne-autostraden-tirane-durres-pas-tete-oresh-mobilizim/",
+      "description": "TIRANË – Ndërsa akrepat e orës kanë kaluar 02:00 pas mesnate, protesta qytetare ka hyrë në një fazë të pazakontë. Pas më shumë se tetë orësh tubime dhe marshime të pandërprera në Tiranë, protestuesit kanë vijuar lëvizjen e tyre në autostradën Tiranë–Durrës, duke dëshmuar se mobilizimi nuk po njeh or",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T23:36:58+00:00",
+      "dateStr": "14 Jun, 23:36",
+      "isNew": true,
+      "id": "24 21781480218"
+    },
+    {
+      "title": "Trump njofton marrëveshje armëpushimi me Iranin, rihapet Ngushtica e Hormuzit",
+      "link": "https://24-ore.com/trump-njofton-marreveshje-armepushimi-me-iranin-rihapet-ngushtica-e-hormuzit/",
+      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump, ka njoftuar se është arritur një marrëveshje armëpushimi me Iranin dhe se Ngushtica e Hormuzit do të rihapet për lundrimin e anijeve pa tarifa. Marrëveshja, e konfirmuar më vonë të dielën edhe nga zëvendësministri i Jashtëm i Iranit, i jep fund menjë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T23:25:30+00:00",
+      "dateStr": "14 Jun, 23:25",
+      "isNew": true,
+      "id": "24 31781479530"
+    },
+    {
+      "title": "Në kërkim të gjenezës së “Shqipërisë së re”",
+      "link": "https://24-ore.com/ne-kerkim-te-gjenezes-se-shqiperise-se-re/",
+      "description": "Të shtunën e kësaj fundjave kur ndonjëri mund të kishte zgjedhur kohën me diell dhe plazhin për tu arratisur nga e përditshmja, ndërsa dikush tjetër mund të kishte shfrytëzuar hapsirën e pushimit për të përmbyllur detyrimet familjare, që nuk i përmbush dot gjatë orëve të punës, i pashë Arlind Qorin ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T23:15:21+00:00",
+      "dateStr": "14 Jun, 23:15",
+      "isNew": true,
+      "id": "24 41781478921"
+    },
+    {
+      "title": "Përçmimi si model qeverisje",
+      "link": "https://24-ore.com/percmimi-si-model-qeverisje/",
+      "description": "Ajo që kja nxjerrë në pah protesta aktuale e qytetarëve të lirë shqiptarë është se përç mimi si fenomen politik qëndron në thelb të qeverisjes aktuale të kryeministrit Rama. Nuk bëhet fjalë për një emocion apo karakteristikë personale, por për një model qeverisje që në themel të tij ka përçmimin, si",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-14T23:13:19+00:00",
+      "dateStr": "14 Jun, 23:13",
+      "isNew": true,
+      "id": "24 51781478799"
+    },
     {
       "title": "Dita e 15-të e protestës, marshim në autostradën Tiranë-Durrës",
       "link": "https://24-ore.com/dita-e-15-te-e-protestes-marshim-ne-autostraden-tirane-durres/",
@@ -12,7 +78,7 @@
       "date": "2026-06-14T22:39:22+00:00",
       "dateStr": "14 Jun, 22:39",
       "isNew": true,
-      "id": "24 01781476762"
+      "id": "24 61781476762"
     },
     {
       "title": "Dy përfaqësues të rinj të PS-së reagojnë pasi Marjana Koçeku njoftoi se do jetë deputete e pavarur: Dorëzo mandatin",
@@ -23,7 +89,7 @@
       "date": "2026-06-14T22:39:05+00:00",
       "dateStr": "14 Jun, 22:39",
       "isNew": true,
-      "id": "24 11781476745"
+      "id": "24 71781476745"
     },
     {
       "title": "“Le të rrjedhë nafta”! Trump njofton arritjen e marrëveshjes me Iranin",
@@ -34,7 +100,7 @@
       "date": "2026-06-14T22:38:45+00:00",
       "dateStr": "14 Jun, 22:38",
       "isNew": true,
-      "id": "24 21781476725"
+      "id": "24 81781476725"
     },
     {
       "title": "Masakra e Reçakut, muajin e ardhshëm fillon gjykimi në mungesë kundër 21 të akuzuarve",
@@ -45,18 +111,7 @@
       "date": "2026-06-14T21:38:26+00:00",
       "dateStr": "14 Jun, 21:38",
       "isNew": true,
-      "id": "24 31781473106"
-    },
-    {
-      "title": "Seth Rogen flet hapur për fundin e miqësisë me James Franco",
-      "link": "https://24-ore.com/seth-rogen-flet-hapur-per-fundin-e-miqesise-me-james-franco/",
-      "description": "Aktori Seth Rogen ka konfirmuar se nuk ka ndërmend të rikthejë miqësinë apo bashkëpunimin profesional me ish-mikun dhe kolegun e tij prej vitesh, James Franco. Në një intervistë për The New York Times, 44-vjeçari u shpreh se nuk ka folur me Franco “prej shumë kohësh” dhe nuk planifikon të punojë më ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T21:16:43+00:00",
-      "dateStr": "14 Jun, 21:16",
-      "isNew": true,
-      "id": "24 41781471803"
+      "id": "24 91781473106"
     },
     {
       "title": "Presidenti i Iranit: Negociatat janë në interes kombëtar, shkelja e vijave të kuqe nuk tolerohet",
@@ -68,50 +123,6 @@
       "dateStr": "14 Jun, 20:55",
       "isNew": true,
       "id": "abc01781470500"
-    },
-    {
-      "title": "FOTOT/ Pankartat e ditës së 15 të protestës qytetar në Tiranë",
-      "link": "https://24-ore.com/fotot-pankartat-e-dites-se-15-te-protestes-qytetar-ne-tirane/",
-      "description": "Kreativiteti dhe ironia kanë qenë sërish të pranishme në protestën e 15-të të qytetarëve që po zhvillohet këtë të diel në Tiranë. Mes pjesëmarrësve të mbledhur para Kryeministrisë, vëmendje të veçantë kanë tërhequr pankartat me mesazhe politike, satirike dhe kritike ndaj qeverisë. Qytetarët kanë zgj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T20:39:48+00:00",
-      "dateStr": "14 Jun, 20:39",
-      "isNew": true,
-      "id": "24 51781469588"
-    },
-    {
-      "title": "Protesta e ditës së 15 nis marshimin e përditshëm në rrugët e Tiranës",
-      "link": "https://24-ore.com/protesta-e-dites-se-15-nis-marshimin-e-perditshem-ne-rruget-e-tiranes/",
-      "description": "Protesta qytetare kundër qeverisë vijoi në ditën e saj të 15-të. Ashtu si në ditët e mëparshme, pjesëmarrësit u mblodhën fillimisht në Sheshin Skënderbej dhe më pas marshuan drejt Kryeministrisë. Gjatë tubimit, në foltore morën fjalën dhjetëra qytetarë, përfshirë përfaqësues të diasporës, të cilët p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T20:39:34+00:00",
-      "dateStr": "14 Jun, 20:39",
-      "isNew": true,
-      "id": "24 61781469574"
-    },
-    {
-      "title": "Ambasada e SHBA në Tiranë uron Trump për ditëlindje",
-      "link": "https://24-ore.com/ambasada-e-shba-ne-tirane-uron-trump-per-ditelindje/",
-      "description": "Ambasada Amerikane në Tiranë, ka uruar presidentin amerikan dhe njëherësh Presidentin e 45-të dhe të 47-të të Shteteve të Bashkuara, Donald J. Trump, me rastin e ditëlindjes së tij. Në një mesazh publik, ambasada vlerëson figurën e Trump si një “patriot të palodhur”, i cili sipas deklaratës “lufton ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T20:39:24+00:00",
-      "dateStr": "14 Jun, 20:39",
-      "isNew": true,
-      "id": "24 71781469564"
-    },
-    {
-      "title": "Sekuestrimi i cisternës ruse! Britania arreston edhe 25 anëtarë të ekuipazhit",
-      "link": "https://24-ore.com/sekuestrimi-i-cisternes-ruse-britania-arreston-edhe-25-anetare-te-ekuipazhit/",
-      "description": "Forcat e armatosura të Mbretërisë së Bashkuar dhe oficerë të zbatimit të ligjit kanë hipur për herë të parë në një cisternë të flotës së fshehtë ruse. Në bordin e anijes ruse që u sekuestrua ndodheshin 25 anëtarë ekuipazhi me kombësi të ndryshme, raporton skynews. Oficeri komandues i Marinsave Mbret",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T20:39:12+00:00",
-      "dateStr": "14 Jun, 20:39",
-      "isNew": true,
-      "id": "24 81781469552"
     },
     {
       "title": "Raport i ri për luftën në Gaza/ Mbi 73 mijë viktima që nga viti 2023",
@@ -145,17 +156,6 @@
       "dateStr": "14 Jun, 19:53",
       "isNew": true,
       "id": "abc31781466797"
-    },
-    {
-      "title": "Protestat si pasqyrë për Lapajn dhe partitë e reja",
-      "link": "https://24-ore.com/protestat-si-pasqyre-per-lapajn-dhe-partite-e-reja/",
-      "description": "Nga Shpëtim Luku Protestat po i afrohen javës së tretë që nga nisja e tyre dhe, paradoksalisht, personi më i dëshpëruar nga kjo situatë mund të mos jetë Edi Rama, ndaj të cilit adresohet kërkesa për dorëheqje. Më të shqetësuar se ai mund të jenë pikërisht Adriatik Lapaj dhe drejtues të tjerë të forc",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-14T19:46:21+00:00",
-      "dateStr": "14 Jun, 19:46",
-      "isNew": true,
-      "id": "24 91781466381"
     },
     {
       "title": "Newsroom me Erneta Shevroja, (14/06/2026)",
