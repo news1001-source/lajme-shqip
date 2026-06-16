@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-06-15T22:15:02.945792+00:00",
+  "lastUpdated": "2026-06-16T00:27:33.612562+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Shpallet fituesi i tenderit 5.2 mln euro për parkimin nëntokësor në Vlorë",
+      "link": "https://24-ore.com/shpallet-fituesi-i-tenderit-5-2-mln-euro-per-parkimin-nentokesor-ne-vlore/",
+      "description": "Kompania Valona Konstruksion është shpallur fituese e tenderit me objekt “Ndërtimi i nyjeve multimodale të mobilitetit, Rajoni 3 &#38; 4: Ndërtim i godinës së parkimit nëntokësor, Vlorë”, sipas dokumenteve të procedurës së prokurimit. Oferta fituese është paraqitur në vlerën 512.5 milionë lekë apo r",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-16T00:23:50+00:00",
+      "dateStr": "16 Jun, 00:23",
+      "isNew": true,
+      "id": "24 01781569430"
+    },
     {
       "title": "“Rama jep dorëheqjen” – Mbyllet marshimi masiv në rrugët kryesore të Tiranës në ditën e 16-të të revoltës",
       "link": "https://24-ore.com/rama-jep-doreheqjen-mbyllet-marshimi-masiv-ne-rruget-kryesore-te-tiranes-ne-diten-e-16-te-te-revoltes/",
@@ -12,7 +23,7 @@
       "date": "2026-06-15T22:06:39+00:00",
       "dateStr": "15 Jun, 22:06",
       "isNew": true,
-      "id": "24 01781561199"
+      "id": "24 11781561199"
     },
     {
       "title": "War Report me Sali Doçin, (15/06/2026)",
@@ -34,7 +45,7 @@
       "date": "2026-06-15T21:40:45+00:00",
       "dateStr": "15 Jun, 21:40",
       "isNew": true,
-      "id": "24 11781559645"
+      "id": "24 21781559645"
     },
     {
       "title": "Protesta në Rinas, deputeti i PS: Kush i orientoi atje ka bërë një akt antikombëtar",
@@ -45,7 +56,7 @@
       "date": "2026-06-15T21:40:31+00:00",
       "dateStr": "15 Jun, 21:40",
       "isNew": true,
-      "id": "24 21781559631"
+      "id": "24 31781559631"
     },
     {
       "title": "“Neomalsorja e ka fikur telefonin”, Bido flet për largimin e deputetes së PS nga grupi",
@@ -56,7 +67,7 @@
       "date": "2026-06-15T21:40:18+00:00",
       "dateStr": "15 Jun, 21:40",
       "isNew": true,
-      "id": "24 31781559618"
+      "id": "24 41781559618"
     },
     {
       "title": "Çfarë dimë deri tani për paktin mes SHBA-së dhe Iranit",
@@ -67,7 +78,7 @@
       "date": "2026-06-15T21:40:02+00:00",
       "dateStr": "15 Jun, 21:40",
       "isNew": true,
-      "id": "24 41781559602"
+      "id": "24 51781559602"
     },
     {
       "title": "Gjermania thirrje Iranit dhe Izraelit: Shmangni përshkallëzimin e ri në Liban",
@@ -78,7 +89,7 @@
       "date": "2026-06-15T21:39:43+00:00",
       "dateStr": "15 Jun, 21:39",
       "isNew": true,
-      "id": "24 51781559583"
+      "id": "24 61781559583"
     },
     {
       "title": "Irani dhe SHBA drejt marrëveshjes për Ngushticën e Hormuzit? Teherani propozon tarifa për anijet pas 60 ditësh",
@@ -89,7 +100,7 @@
       "date": "2026-06-15T21:39:31+00:00",
       "dateStr": "15 Jun, 21:39",
       "isNew": true,
-      "id": "24 61781559571"
+      "id": "24 71781559571"
     },
     {
       "title": "Marrëveshja SHBA-Iran, reagon Netanyahu: Nuk bie gjithmonë dakord me Trump. Lufta nuk ka mbaruar",
@@ -100,7 +111,7 @@
       "date": "2026-06-15T21:39:14+00:00",
       "dateStr": "15 Jun, 21:39",
       "isNew": true,
-      "id": "24 71781559554"
+      "id": "24 81781559554"
     },
     {
       "title": "LVV e ‘bën’ qeverinë e vetme, vazhdon numërimi i votave të diasporës, Kurti siguron 52 mandate",
@@ -111,7 +122,7 @@
       "date": "2026-06-15T21:38:55+00:00",
       "dateStr": "15 Jun, 21:38",
       "isNew": true,
-      "id": "24 81781559535"
+      "id": "24 91781559535"
     },
     {
       "title": "Ilir Shtufi kundër ekstradimit në Shqipëri/ Beqiri: SPAK duhet të arrestojë Shkëlzen Berishën, ka pastruar para me biznesmenin!",
@@ -123,17 +134,6 @@
       "dateStr": "15 Jun, 21:35",
       "isNew": true,
       "id": "abc11781559347"
-    },
-    {
-      "title": "Ligji për përfaqësimin e drejtë kalon leximin e parë në Kuvendin e Maqedonisë",
-      "link": "https://24-ore.com/ligji-per-perfaqesimin-e-drejte-kalon-leximin-e-pare-ne-kuvendin-e-maqedonise/",
-      "description": "Pasditen e sotme në seancë plenare të Kuvendit, Propozim-ligji për përfaqësim të drejtë dhe adekuat ka kaluar leximin e parë. Deputetët e VLEN-it thanë se ky është një ligj i rëndësishëm, bazuar në regjistrimin e popullsisë, trajtimin e barabartë të të gjithë qytetarëve dhe konform cilësive të tyre.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-15T21:10:41+00:00",
-      "dateStr": "15 Jun, 21:10",
-      "isNew": true,
-      "id": "24 91781557841"
     },
     {
       "title": "Bombarduesi i Forcave Ajrore të SHBA rrëzohet pak pas ngritjes nga një bazë në Kaliforni",
