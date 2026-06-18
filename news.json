@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-06-17T23:24:51.407412+00:00",
+  "lastUpdated": "2026-06-18T03:29:52.334530+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Portugalia barazon 1-1 me DR Kongon, Ronaldo dështon të shënojë për rekord",
+      "link": "https://24-ore.com/portugalia-barazon-1-1-me-dr-kongon-ronaldo-deshton-te-shenoje-per-rekord/",
+      "description": "Cristiano Ronaldo humbi dy raste në pjesën e dytë dhe nuk arriti të shënojë teksa Portugalia barazoi 1-1 me Republikën Demokratike të Kongos në ndeshjen e grupit për Kupën e Botës 2026. Kapiteni portugez, 41 vjeç, tentoi të bëhej lojtari i parë që shënon në gjashtë Botërorë të ndryshëm, por pa sukse",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-18T03:22:20+00:00",
+      "dateStr": "18 Jun, 03:22",
+      "isNew": true,
+      "id": "24 01781752940"
+    },
+    {
+      "title": "Anglia mposht Kroacinë 4-2 — Bellingham: Kritikat më motivojnë",
+      "link": "https://24-ore.com/anglia-mposht-kroacine-4-2-bellingham-kritikat-me-motivojne/",
+      "description": "Anglia fitoi 4-2 ndaj Kroacisë në ndeshjen e parë të grupit të Kupës së Botës 2026 në Dallas. Trajneri Thomas Tuchel vendosi ta nisë Jude Bellingham në rolin pas sulmuesit kapiten Harry Kane; Bellingham shënoi golin vendimtar të tretë pas pjesës së parë, ndërsa Marcus Rashford vendosi rezultatin në ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-18T03:21:35+00:00",
+      "dateStr": "18 Jun, 03:21",
+      "isNew": true,
+      "id": "24 11781752895"
+    },
+    {
+      "title": "Skemat e kualifikimit për rundin e 32 të Botërorit FIFA 2026",
+      "link": "https://24-ore.com/skemat-e-kualifikimit-per-rundin-e-32-te-boterorit-fifa-2026/",
+      "description": "Ky artikull paraqet skenarët që përcaktojnë se cilët ekipe kalojnë nga faza e grupeve në rundin e 32 të Kampionatit Botëror 2026. Përfshihen të gjitha Grupet, nga A deri te L, dhe një përshkrim i mënyrës se si ndryshimet në rezultate, pikë dhe diferencë golash ndikojnë në renditje dhe avancim. Sipas",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-18T03:20:10+00:00",
+      "dateStr": "18 Jun, 03:20",
+      "isNew": true,
+      "id": "24 21781752810"
+    },
+    {
+      "title": "Messi shkëlqen: hat-trick dhe gol i 16-të, Argjentina mposht Algjerinë 3-0",
+      "link": "https://24-ore.com/messi-shkelqen-hat-trick-dhe-gol-i-16-te-argjentina-mposht-algjerine-3-0/",
+      "description": "Lionel Messi dha një paraqitje të jashtëzakonshme në Kupën e Botës, duke shënuar hat-trickun e tij të parë në turne dhe duke barazuar rekordin e Miroslav Klose me golin e tij të 16-të në histori të Botërorit. Argentina fitoi 3-0 ndaj Algjerisë, dhe Mesit iu dha roli kryesor në këtë triumf. Pas paraq",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-18T03:18:45+00:00",
+      "dateStr": "18 Jun, 03:18",
+      "isNew": true,
+      "id": "24 31781752725"
+    },
+    {
+      "title": "Uzbekistan siguron kualifikimin historik në Kupën e Botës 2026",
+      "link": "https://24-ore.com/uzbekistan-siguron-kualifikimin-historik-ne-kupen-e-botes-2026/",
+      "description": "Më 5 qershor 2025, Uzbekistan arriti për herë të parë në histori të kualifikohet për Kupën e Botës, pas një barazimi 0-0 me Emiratet e Bashkuara. Fitores së kualifikimit i pasuan skena gëzimi në Tashkent dhe më gjerë, ndërsa vendi bëhet për herë të parë përfaqësues i Azisë Qendrore në një Botëror. R",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-18T03:18:01+00:00",
+      "dateStr": "18 Jun, 03:18",
+      "isNew": true,
+      "id": "24 41781752681"
+    },
+    {
+      "title": "Fillimi i fundit të pushtetit të Ramës",
+      "link": "https://24-ore.com/fillimi-i-fundit-te-pushtetit-te-rames/",
+      "description": "1. Ndoshta këtë nuk e dinë kryeministri Rama, protestuesit, publiku i gjerë duke më përfshirë mua që po shkruaj, por kështu disi duket fillimi i fundit të një periudhe, fundit të një qeverisjeje, mbase fundit të një procesi Fillimi i fundit duket kur një person si kryeministri Rama përpiqet për dy j",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-17T23:57:38+00:00",
+      "dateStr": "17 Jun, 23:57",
+      "isNew": true,
+      "id": "24 51781740658"
+    },
     {
       "title": "Zyrtarët amerikanë zbulojnë hollësi të marrëveshjes kornizë me Iranin",
       "link": "https://24-ore.com/zyrtaret-amerikane-zbulojne-hollesi-te-marreveshjes-kornize-me-iranin/",
@@ -12,7 +78,7 @@
       "date": "2026-06-17T22:53:51+00:00",
       "dateStr": "17 Jun, 22:53",
       "isNew": true,
-      "id": "24 01781736831"
+      "id": "24 61781736831"
     },
     {
       "title": "Muçollari lexon mes rreshtave rezolutën e PE: Ka një qëndrim politik për protestën",
@@ -23,7 +89,7 @@
       "date": "2026-06-17T22:39:41+00:00",
       "dateStr": "17 Jun, 22:39",
       "isNew": true,
-      "id": "24 11781735981"
+      "id": "24 71781735981"
     },
     {
       "title": "Tjetër atentat ndaj Trump? FBI thotë se parandaloi sulmin me dronë në Shtëpinë e Bardhë",
@@ -34,7 +100,7 @@
       "date": "2026-06-17T22:39:27+00:00",
       "dateStr": "17 Jun, 22:39",
       "isNew": true,
-      "id": "24 21781735967"
+      "id": "24 81781735967"
     },
     {
       "title": "G7 mbyllet me fokus Ukrainën, Zelensky: Premtimet duhet të kthehen në veprime",
@@ -45,73 +111,7 @@
       "date": "2026-06-17T22:39:15+00:00",
       "dateStr": "17 Jun, 22:39",
       "isNew": true,
-      "id": "24 31781735955"
-    },
-    {
-      "title": "Trump: Ushtria amerikane do të qëndrojë në Gjirin Persik për pak kohë pas marrëveshjes me Iranin",
-      "link": "https://24-ore.com/trump-ushtria-amerikane-do-te-qendroje-ne-gjirin-persik-per-pak-kohe-pas-marreveshjes-me-iranin/",
-      "description": "Presidenti amerikan, Donald Trump tha të mërkurën se forcat amerikane do të qëndrojnë në Gjirin Persik për pak kohë pas një marrëveshjeje me Iranin. I pyetur se për sa kohë do ta linte ushtrinë amerikane në Gjirin Persik, Trump u tha gazetarëve në Paris: “Është një pyetje e mirë. Nuk e kemi menduar.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-17T22:38:57+00:00",
-      "dateStr": "17 Jun, 22:38",
-      "isNew": true,
-      "id": "24 41781735937"
-    },
-    {
-      "title": "Afganistani ndalon përdorimin e telefonave inteligjentë për nëpunësit civilë",
-      "link": "https://24-ore.com/afganistani-ndalon-perdorimin-e-telefonave-inteligjente-per-nepunesit-civile/",
-      "description": "Masa që ndalon përdorimin e “telefonave inteligjentë” nga zyrtarët publikë filloi të zbatohet sot në Afganistan, pas një iniciative nga qeveria talebane. “Një dekret verbal i Emiratit Islamik (shtetit afgan) u lexua dhe u komunikua të gjithë krerëve të departamenteve se që nga sot asnjë punonjës i s",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-17T22:38:41+00:00",
-      "dateStr": "17 Jun, 22:38",
-      "isNew": true,
-      "id": "24 51781735921"
-    },
-    {
-      "title": "Mihali e quan Ramën “Klloun” e “sekser”, hedh akuza për krim të organizuar dhe korrupsion",
-      "link": "https://24-ore.com/mihali-e-quan-ramen-klloun-e-sekser-hedh-akuza-per-krim-te-organizuar-dhe-korrupsion/",
-      "description": "Zyrtarja e Lëvizjes Vetëvendosje, Dejona Mihali, ka reaguar sërish ndaj kryetarit të Komunës së Prishtinës, Perparim Rama, pas paralajmërimit të këtij të fundit se do të ngrejë padi për shpifje ndaj saj. Në reagimin e saj, Mihali e ka ironizuar deklaratën e Ramës, duke e cilësuar si të organizuar dh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-17T22:09:51+00:00",
-      "dateStr": "17 Jun, 22:09",
-      "isNew": true,
-      "id": "24 61781734191"
-    },
-    {
-      "title": "Prezantuesi i famshëm i “Top Gear” diagnostikohet me kancer",
-      "link": "https://24-ore.com/prezantuesi-i-famshem-i-top-gear-diagnostikohet-me-kancer/",
-      "description": "Prezantuesi britanik Jeremy Clarkson vuan nga kanceri. Ikona e programit të famshëm “Top Gear” njoftoi lajmin gjatë një episodi të shfaqjes së tij &#8220;Clarkson&#8217;s Farm&#8221;.  66-vjeçari ua komunikoi diagnozën protagonistëve të serialit Kaleb Cooper dhe Charlie Ireland, të dy u shfaqën duks",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-17T21:52:03+00:00",
-      "dateStr": "17 Jun, 21:52",
-      "isNew": true,
-      "id": "24 71781733123"
-    },
-    {
-      "title": "Hoti: LDK nuk është pronë e askujt, eksperimentet me të dhe me të ardhmen e saj nuk do të lejohen",
-      "link": "https://24-ore.com/hoti-ldk-nuk-eshte-prone-e-askujt-eksperimentet-me-te-dhe-me-te-ardhmen-e-saj-nuk-do-te-lejohen/",
-      "description": "Deputeti i zgjedhur i Lidhjes Demokratike të Kosovës, Avdullah Hoti, ka reaguar pas përfundimit të numërimit të plotë të votave për zgjedhjet e parakohshme parlamentare të 7 qershorit, duke bërë thirrje për rikthimin e partisë te baza e saj tradicionale dhe vlerat historike. Përmes një reagimi publi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-17T21:38:42+00:00",
-      "dateStr": "17 Jun, 21:38",
-      "isNew": true,
-      "id": "24 81781732322"
-    },
-    {
-      "title": "Haziri propozon “marrëveshje pako” për tejkalimin e krizës politike",
-      "link": "https://24-ore.com/haziri-propozon-marreveshje-pako-per-tejkalimin-e-krizes-politike/",
-      "description": "Nënkryetari i Lidhjes Demokratike të Kosovës (LDK), Lutfi Haziri, në emisionin “Pressing” në T7 ka folur për mundësinë e një “marrëveshjeje pako” në skenën politike. Ai theksoi se asnjëra palë nuk ka fuqi të mjaftueshme politike dhe se, sipas tij, duhet të ulen dhe të gjendet një zgjidhje që do të e",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-17T21:38:25+00:00",
-      "dateStr": "17 Jun, 21:38",
-      "isNew": true,
-      "id": "24 91781732305"
+      "id": "24 91781735955"
     },
     {
       "title": "Inspektim në plazhet e Vlorës/ Ministri i Turizmit Gonxhja: Tolerancë zero kur preket prona publike",
