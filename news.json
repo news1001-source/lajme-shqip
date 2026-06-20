@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-06-19T22:51:46.762180+00:00",
+  "lastUpdated": "2026-06-20T00:05:15.850004+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Alex Freeman shënon golin e parë në Botëror, SHBA kualifikohen në 1/16",
+      "link": "https://24-ore.com/alex-freeman-shenon-golin-e-pare-ne-boteror-shba-kualifikohen-ne-1-16/",
+      "description": "SHBA siguruan vendin në fazën e nokautit të Kupës së Botës pas fitores 2-0 ndaj Australisë, me Alex Freeman që shënoi golin e tij të parë në një Botëror dhe luajti rol kyç në triumf. Raporton bbc se emri Freeman po rikthehet në vëmendje në Seattle, por këtë herë në futbollin ndërkombëtar; Alex është",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-20T00:04:42+00:00",
+      "dateStr": "20 Jun, 00:04",
+      "isNew": true,
+      "id": "24 01781913882"
+    },
+    {
+      "title": "Prezantuese argjentinase jep dorëheqjen pas raportimit të rremë për babanë e Lionel Messit",
+      "link": "https://24-ore.com/prezantuese-argjentinase-jep-doreheqjen-pas-raportimit-te-rreme-per-babane-e-lionel-messit/",
+      "description": "Një prezantuese televizive argjentinase dha dorëheqjen pasi njoftoi gabimisht në transmetim se babai i futbollistit Lionel Messi kishte vdekur gjatë ndeshjes së parë të Argjentinës në Kupën e Botës. Lajmi u përhap shpejt në rrjetet sociale para se të sqarohej se informacioni nuk ishte konfirmuar. Ra",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-20T00:04:05+00:00",
+      "dateStr": "20 Jun, 00:04",
+      "isNew": true,
+      "id": "24 11781913845"
+    },
     {
       "title": "“Protesta po reduktohet”, Nura: Mungon pjesëmarrja dhe argumentet, në demokraci vendos shumica",
       "link": "https://abcnews.al/protesta-po-reduktohet-nura-mungon-pjesemarrja-dhe-argumentet-ne-demokraci-vendos-shumica/",
@@ -23,7 +45,7 @@
       "date": "2026-06-19T21:37:37+00:00",
       "dateStr": "19 Jun, 21:37",
       "isNew": true,
-      "id": "24 01781905057"
+      "id": "24 21781905057"
     },
     {
       "title": "A do të prodhojë protesta një parti? Qiraxhi tregon çfarë ndodh nëse arrihet në këtë pikë",
@@ -34,7 +56,7 @@
       "date": "2026-06-19T21:37:24+00:00",
       "dateStr": "19 Jun, 21:37",
       "isNew": true,
-      "id": "24 11781905044"
+      "id": "24 31781905044"
     },
     {
       "title": "Komisioni Europian miraton planin e rimëkëmbjes së Hungarisë, hapet rruga për fondet e BE-së",
@@ -45,7 +67,7 @@
       "date": "2026-06-19T21:37:08+00:00",
       "dateStr": "19 Jun, 21:37",
       "isNew": true,
-      "id": "24 21781905028"
+      "id": "24 41781905028"
     },
     {
       "title": "Trump: Kuba dëshiron dialog me SHBA-në, Rubio është i angazhuar drejtpërdrejt në këtë proces",
@@ -56,7 +78,7 @@
       "date": "2026-06-19T21:36:51+00:00",
       "dateStr": "19 Jun, 21:36",
       "isNew": true,
-      "id": "24 31781905011"
+      "id": "24 51781905011"
     },
     {
       "title": "Irani përfshin Gazën në axhendën e paqes, zyrtarë: Teherani po punon për paqe në të gjitha frontet rajonale",
@@ -67,7 +89,7 @@
       "date": "2026-06-19T21:36:36+00:00",
       "dateStr": "19 Jun, 21:36",
       "isNew": true,
-      "id": "24 41781904996"
+      "id": "24 61781904996"
     },
     {
       "title": "Zelensky: Ukraina ka ushtrinë e dytë më të fortë të NATO",
@@ -89,7 +111,7 @@
       "date": "2026-06-19T21:07:04+00:00",
       "dateStr": "19 Jun, 21:07",
       "isNew": true,
-      "id": "24 51781903224"
+      "id": "24 71781903224"
     },
     {
       "title": "Horoskopi ditor për nesër, e Shtunë 20 Qershor 2026",
@@ -100,7 +122,7 @@
       "date": "2026-06-19T21:01:43+00:00",
       "dateStr": "19 Jun, 21:01",
       "isNew": true,
-      "id": "24 61781902903"
+      "id": "24 81781902903"
     },
     {
       "title": "Disa shënime mbi një këngë zvicerane të ngjashme me këngët shqiptare të nizamëve",
@@ -111,7 +133,7 @@
       "date": "2026-06-19T21:01:25+00:00",
       "dateStr": "19 Jun, 21:01",
       "isNew": true,
-      "id": "24 71781902885"
+      "id": "24 91781902885"
     },
     {
       "title": "Djathi që vlen një pasuri dhe bankat e pranojnë si kolateral për kreditë",
@@ -123,28 +145,6 @@
       "dateStr": "19 Jun, 21:00",
       "isNew": true,
       "id": "abc21781902844"
-    },
-    {
-      "title": "Croatia ready to increase forces in Kosovo, NATO reviews number of KFOR troops",
-      "link": "https://24-ore.com/croatia-ready-to-increase-forces-in-kosovo-nato-reviews-number-of-kfor-troops/",
-      "description": "Preparations for the NATO summit to be held on July 7 and 8 in Ankara, Turkey, have entered their final phase, following the meeting of defense ministers of member countries at the Alliance&#8217;s headquarters in Brussels. The summit is expected to be another showdown between US demands and Europea",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-19T20:38:06+00:00",
-      "dateStr": "19 Jun, 20:38",
-      "isNew": true,
-      "id": "24 81781901486"
-    },
-    {
-      "title": "Eksperti i Ballkanit kërkon më shumë presion ndaj mosnjohësve të Kosovës",
-      "link": "https://24-ore.com/eksperti-i-ballkanit-kerkon-me-shume-presion-ndaj-mosnjohesve-te-kosoves/",
-      "description": "Gjatë dëshmisë së tij para një komisioni parlamentar në Kanada, eksperti i njohur për Ballkanin, Dr. Jasmin Mujanoviç, u bëri thirrje Shteteve të Bashkuara të Amerikës dhe Kanadasë që mosnjohjen e Kosovës ta trajtojnë si prioritet diplomatik dypalësh në raport me shtetet e mbetura të Bashkimit Evrop",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-19T20:37:54+00:00",
-      "dateStr": "19 Jun, 20:37",
-      "isNew": true,
-      "id": "24 91781901474"
     },
     {
       "title": "Studimi: Optimistët mund të kenë tru më të shëndetshëm në moshë të thyer",
