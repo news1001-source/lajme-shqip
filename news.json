@@ -1,117 +1,172 @@
 {
-  "lastUpdated": "2026-06-21T20:21:05.500354+00:00",
+  "lastUpdated": "2026-06-21T22:09:51.506486+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Java e re në Kosovë nis me shi dhe bubullima",
-      "link": "https://24-ore.com/java-e-re-ne-kosove-nis-me-shi-dhe-bubullima/",
-      "description": "Instituti Hidrometeorologjik i Kosovës ka njoftuar se me hyrjen në stinën astronomike të verës, Kosova do të ndikohet nga masa ajrore relativisht të paqëndrueshme, të cilat gjatë ditëve të para të javës do të sjellin vranësira, reshje lokale shiu dhe shkarkime rrufesh. Sipas parashikimit, reshjet e ",
+      "title": "Specialja nuk përjashton mundësinë e një shtyrjeje tjetër të vendimit",
+      "link": "https://24-ore.com/specialja-nuk-perjashton-mundesine-e-nje-shtyrjeje-tjeter-te-vendimit/",
+      "description": "Teksa kanë mbetur edhe pak javë deri në afatin e 22 korrikut për shpalljen e aktgjykimit të shkallës së parë ndaj Hashim Thaçit, Kadri Veselit, Jakup Krasniqit dhe Rexhep Selimit, mbrojtja dhe njohësit e drejtësisë vlerësojnë se procesi është zvarritur tej mase dhe se vazhdimi i paraburgimit po ceno",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T20:09:33+00:00",
-      "dateStr": "21 Jun, 20:09",
+      "date": "2026-06-21T22:09:31+00:00",
+      "dateStr": "21 Jun, 22:09",
       "isNew": true,
-      "id": "24 01782072573"
+      "id": "24 01782079771"
     },
     {
-      "title": "Yamal kalon Messin mes golashënuesve më të rinj në Botëror, por renditet vetëm i teti",
-      "link": "https://24-ore.com/yamal-kalon-messin-mes-golashenuesve-me-te-rinj-ne-boteror-por-renditet-vetem-i-teti/",
-      "description": "Lamine Yamal ka hyrë në historinë e Kupës së Botës duke u renditur mes golashënuesve më të rinj të të gjitha kohërave. Sulmuesi anësor i Spanjës shënoi ndaj Arabisë Saudite dhe, falë këtij goli, kaloi idhullin e tij Lionel Messi për disa ditë sa i përket moshës në momentin e realizimit. Megjithatë, ",
+      "title": "NYTimes: Shqiptarët në revoltë kundër kastës politike, jo kundër Trump",
+      "link": "https://24-ore.com/nytimes-shqiptaret-ne-revolte-kunder-kastes-politike-jo-kunder-trump/",
+      "description": "Për më shumë se tre javë, protestuesit janë mbledhur paqësisht në Tiranë, kryeqytetin e Shqipërisë, nën përshëndetjet e amerikanëve që i shohin si luftëtarë të guximshëm kundër Presidentit Trump, Izraelit dhe lakmisë së “1 për qindëshit” më të pasur. Protestat u nxitën nga zemërimi publik pas sjellj",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T20:09:24+00:00",
-      "dateStr": "21 Jun, 20:09",
+      "date": "2026-06-21T21:49:49+00:00",
+      "dateStr": "21 Jun, 21:49",
       "isNew": true,
-      "id": "24 11782072564"
+      "id": "24 11782078589"
     },
     {
-      "title": "Inter-Nico Paz, ëndrra e merkatos është një enigmë 60 milionë euroshe. Gjithçka varet nga “Oaktree”",
-      "link": "https://24-ore.com/inter-nico-paz-endrra-e-merkatos-eshte-nje-enigme-60-milione-euroshe-gjithcka-varet-nga-oaktree/",
-      "description": "Nico Paz prej kohësh është në listën e lojtarëve të pëlqyer nga Interi. Një skenar që, në fund të majit, zemëroi trajnerin e Comos, Cesc Fàbregas, i cili deklaroi: “Ose do të rikthehet te Real Madridi, ose sezonin e ardhshëm do të luajë te Como”, përpara se të sulmonte edhe Javier Zanettin. Megjitha",
+      "title": "Studentët serbë vizituan Kosovën: Na kanë gënjyer, bashkëkombësit tanë s’janë të shtypur",
+      "link": "https://24-ore.com/studentet-serbe-vizituan-kosoven-na-kane-genjyer-bashkekombesit-tane-sjane-te-shtypur/",
+      "description": "Një grup studentësh nga Serbia, pjesë e një iniciative të quajtur “Studentët në çdo fshat”, kanë realizuar një vizitë studimore në Kosovë, e cila është shndërruar në një temë të gjerë debati në opinionin publik dhe mediat rajonale. Raportimet e tyre nga terreni, si dhe deklaratat në media, kanë hapu",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T20:09:13+00:00",
-      "dateStr": "21 Jun, 20:09",
+      "date": "2026-06-21T21:40:46+00:00",
+      "dateStr": "21 Jun, 21:40",
       "isNew": true,
-      "id": "24 21782072553"
+      "id": "24 21782078046"
     },
     {
-      "title": "A do të nxisë Zvërneci diversifikimin dhe rritjen e produktivitetit në ekonominë shqiptare apo do të thellojë varësitë ekzistuese?",
-      "link": "https://24-ore.com/a-do-te-nxise-zverneci-diversifikimin-dhe-rritjen-e-produktivitetit-ne-ekonomine-shqiptare-apo-do-te-thelloje-varesite-ekzistuese/",
-      "description": "Debati publik rreth zhvillimit të propozuar në Zvërnec është përqendruar kryesisht te rëndësia e investimit të raportuar prej 4 miliardë eurosh—mbështetësit argumentojnë se ai do të transformojë ekonominë shqiptare, ndërsa kritikët ngrenë shqetësimin se do të shkatërrojë një pasuri të rrallë të vend",
+      "title": "Protesta qytetare, nis marshimi në kryeqytet",
+      "link": "https://24-ore.com/protesta-qytetare-nis-marshimi-ne-kryeqytet/",
+      "description": "Pas përfundimit të fjalimeve para godinës së Kryeministrisë, protesta qytetare ka hyrë në fazën e saj të radhës, me nisjen e marshimit nëpër akset kryesore të kryeqytetit. Në ditën e 22-të mijëra qytetarë janë vënë në lëvizje menjëherë pas mbylljes së tubimit, duke formuar një kolonë të gjatë që sht",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T20:06:06+00:00",
-      "dateStr": "21 Jun, 20:06",
+      "date": "2026-06-21T21:40:23+00:00",
+      "dateStr": "21 Jun, 21:40",
       "isNew": true,
-      "id": "24 31782072366"
+      "id": "24 31782078023"
     },
     {
-      "title": "Lamine Yamal vendimtar në fitoren 4-0 të Spanjës ndaj Arabisë Saudite",
-      "link": "https://24-ore.com/lamine-yamal-vendimtar-ne-fitoren-4-0-te-spanjes-ndaj-arabise-saudite/",
-      "description": "Lamine Yamal, 18 vjeç, ishte tema para nisjes së ndeshjes dhe vazhdoi të dominonte bisedat edhe pas finales. Ai u kthye në Atlanta me shpresën për të nisur për herë të parë një ndeshje të Kupës së Botës, pasi në përballjen surprizë pa gola me Kep Verden ishte aktivizuar vetëm për 19 minuta. Trajneri",
+      "title": "FOTOLAJM/ Protesta qytetare, disa nga pankartat e ditës së 22",
+      "link": "https://24-ore.com/fotolajm-protesta-qytetare-disa-nga-pankartat-e-dites-se-22/",
+      "description": "Edhe këtë dielë ka vijuar protesta qytetare në Tiranë. Protestuesit kanë vijuar me pankartat e tyre të protestës duke shprehur kreativitetin e tyre.\nThe post FOTOLAJM/ Protesta qytetare, disa nga pankartat e ditës së 22 appeared first on 24 ore.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T20:02:22+00:00",
-      "dateStr": "21 Jun, 20:02",
+      "date": "2026-06-21T21:39:54+00:00",
+      "dateStr": "21 Jun, 21:39",
       "isNew": true,
-      "id": "24 41782072142"
+      "id": "24 41782077994"
     },
     {
-      "title": "“AI do të ketë nevojë për energji të pafund” – Musk sheh zgjidhjen te Dielli",
-      "link": "https://24-ore.com/ai-do-te-kete-nevoje-per-energji-te-pafund-musk-sheh-zgjidhjen-te-dielli/",
-      "description": "Musk dëshiron energji diellore për Inteligjencën Artificiale. Elon Musk thotë se përdorimi i vetëm një pjese shumë të vogël të energjisë së Diellit për Al mund të krijojë më shumë inteligjencë sesa e gjithë njerëzimi së bashku. Ai ka argumentuar se energjia diellore është rruga më e qartë për të fur",
+      "title": "Rama: Flamingot do të habiten me veten e tyre si ranë pre e korbave të shqiptarisë së rreme",
+      "link": "https://24-ore.com/rama-flamingot-do-te-habiten-me-veten-e-tyre-si-rane-pre-e-korbave-te-shqiptarise-se-rreme/",
+      "description": "Kryeministri Edi Rama ka reaguar këtë të diel pas deklaratës së një prej protestuesve lidhur me incidentin e flamurit të Izraelit. Në postimin e tij, Rama ironizon deklaratën e njërit prej organizatorëve, Arben Kola, i cili pretendon se në protestë ka pasur persona të infiltruar. Nga njëra anë, krye",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T19:39:26+00:00",
-      "dateStr": "21 Jun, 19:39",
+      "date": "2026-06-21T21:39:31+00:00",
+      "dateStr": "21 Jun, 21:39",
       "isNew": true,
-      "id": "24 51782070766"
+      "id": "24 51782077971"
     },
     {
-      "title": "Protestat qytetare në Tiranë, reagojnë organizatorët për incidentin me flamurin e Izraelit: Mes nesh ka të infiltruar",
-      "link": "https://24-ore.com/protestat-qytetare-ne-tirane-reagojne-organizatoret-per-incidentin-me-flamurin-e-izraelit-mes-nesh-ka-te-infiltruar/",
-      "description": "Një prej nismëtarëve të protestës qytetare, Arben Kola, ka bërë deklarata të forta në prag të nisjes së tubimit, duke ngritur shqetësime për praninë e grupeve të infiltruar brenda lëvizjes. Sipas Kolës, këto grupe po përpiqen të devijojnë qëllimin e protestës dhe t’i japin asaj karakteristika me pra",
+      "title": "Nga përdorimi i municioneve te dëmet në bazat ushtarake, ja sa miliarda dollarë i ka kushtuar lufta SHBA-së",
+      "link": "https://24-ore.com/nga-perdorimi-i-municioneve-te-demet-ne-bazat-ushtarake-ja-sa-miliarda-dollare-i-ka-kushtuar-lufta-shba-se/",
+      "description": "Sipas një analize paraprake të Qendrës për Studime Strategjike dhe Ndërkombëtare (Center for Strategic and International Studies), lufta me Iranin i ka kushtuar Departamentit të Mbrojtjes së SHBA rreth 40 miliardë dollarë. Shpenzimet përfshijnë përdorimin e municioneve, dëmtimin e pajisjeve ushtarak",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T19:39:09+00:00",
-      "dateStr": "21 Jun, 19:39",
+      "date": "2026-06-21T21:39:12+00:00",
+      "dateStr": "21 Jun, 21:39",
       "isNew": true,
-      "id": "24 61782070749"
+      "id": "24 61782077952"
     },
     {
-      "title": "Ish-ministri i Mbrojtjes Pirro Vengu: Shqipëria e fortë është prioriteti",
-      "link": "https://24-ore.com/ish-ministri-i-mbrojtjes-pirro-vengu-shqiperia-e-forte-eshte-prioriteti/",
-      "description": "Ish-ministri i Mbrojtjes, Pirro Vengu, ka reaguar në rrjetet sociale me një mesazh politik ku thekson rëndësinë e forcimit të shtetit shqiptar dhe stabilitetit të tij në rajon. Reagimi i tij lidhet me protestën qytetare që zhvillohet prej 22 ditësh në Tiranë. Në një postim të gjatë, Vengu shkruan se",
+      "title": "Nga Kryeministria te Qyteti Studenti, jehon thirrja ‘Rama jep dorëheqjen!",
+      "link": "https://24-ore.com/nga-kryeministria-te-qyteti-studenti-jehon-thirrja-rama-jep-doreheqjen/",
+      "description": "Marshimi i protestës ka vijuar edhe këtë mbrëmje me mijëra qytetarë që, pasi u grumbulluan përpara godinës së Kryeministrisë, kanë vazhduar lëvizjen drejt Parlamentit dhe më pas janë drejtuar për në Qytetin Studenti. Kolona kilometrike e protestuesve ka përshkuar rrugët kryesore të kryeqytetit, duke",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T19:38:51+00:00",
-      "dateStr": "21 Jun, 19:38",
+      "date": "2026-06-21T21:15:17+00:00",
+      "dateStr": "21 Jun, 21:15",
       "isNew": true,
-      "id": "24 71782070731"
+      "id": "24 71782076517"
     },
     {
-      "title": "Aktori Mehdi Malkaj thirrje në protestë: Të shkëpusim ndikimet partiake",
-      "link": "https://24-ore.com/aktori-mehdi-malkaj-thirrje-ne-proteste-te-shkepusim-ndikimet-partiake/",
-      "description": "Aktori i mirënjohur Mehdi Malkaj ka marrë fjalën përpara mijëra qytetarëve, duke përcjellë një mesazh të fortë dhe të drejtpërdrejtë kundër adhurimit ndaj forcave politike. Malkaj u bëri thirrje protestuesve që të shkëputen nga ndikimet partiake dhe të bashkohen si qytetarë të lirë. “Ne shqiptarët k",
+      "title": "“Italia i mungon Botërorit, nuk është koha t’iu them lamtumirë tifozëve të Interit”",
+      "link": "https://24-ore.com/italia-i-mungon-boterorit-nuk-eshte-koha-tiu-them-lamtumire-tifozeve-te-interit/",
+      "description": "Mbrojtësi i Holandës, Denzel Dumfries, u shpreh i lumtur pas fitores 5-1 ndaj Suedisë, duke vlerësuar paraqitjen e skuadrës: “Jam argëtuar shumë, zhvilluam një ndeshje të madhe. Jam shumë krenar për ekipin dhe i lumtur me atë që treguam”. I pyetur nëse Holanda mund ta fitojë Botërorin, mbrojtësi u p",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T19:38:37+00:00",
-      "dateStr": "21 Jun, 19:38",
+      "date": "2026-06-21T21:09:37+00:00",
+      "dateStr": "21 Jun, 21:09",
       "isNew": true,
-      "id": "24 81782070717"
+      "id": "24 81782076177"
     },
     {
-      "title": "Tensionet në Lindjen e Mesme, Sekretari amerikan i Energjisë: Trafiku në Ngushticën e Hormuzit vijon normalisht, kemi krijuar një korridor alternativ",
-      "link": "https://24-ore.com/tensionet-ne-lindjen-e-mesme-sekretari-amerikan-i-energjise-trafiku-ne-ngushticen-e-hormuzit-vijon-normalisht-kemi-krijuar-nje-korridor-alternativ/",
-      "description": "Trafiku detar në Ngushticën e Hormuzit mbetet kryesisht i paprekur pavarësisht tensioneve të fundit në rajon, deklaroi Sekretari amerikan i Energjisë, Chris Wright, duke bërë të ditur se 67 anije kanë kaluar përmes këtij kalimi strategjik gjatë 24 orëve të fundit.Në një intervistë për Fox News, Wrig",
+      "title": "Ju erdhi fundi! Rama jep dorëheqjen!”/ Marshimi kilometrik mbërrin në qendër të Tiranës, protestuesit vijojnë revoltën",
+      "link": "https://24-ore.com/ju-erdhi-fundi-rama-jep-doreheqjen-marshimi-kilometrik-mberrin-ne-qender-te-tiranes-protestuesit-vijojne-revolten/",
+      "description": "Qëndresa qytetare eshte  në ditën e 22-të, ndërsa mijëra protestues vijojnë marshimin në rrugët kryesore të Tiranës, duke e mbajtur të pandërprerë presionin ndaj qeverisë. Pasi qëndruan për një kohë të gjatë përpara godinës së Kryeministrisë, protestuesit nisën një marshim kilometrik nëpër bulevarde",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T19:38:19+00:00",
-      "dateStr": "21 Jun, 19:38",
+      "date": "2026-06-21T20:54:43+00:00",
+      "dateStr": "21 Jun, 20:54",
       "isNew": true,
-      "id": "24 91782070699"
+      "id": "24 91782075283"
+    },
+    {
+      "title": "Izraeli heq të gjitha kufizimet në kufirin verior, sinjal për forcimin e armëpushimit me Hezbollah",
+      "link": "https://abcnews.al/izraeli-heq-te-gjitha-kufizimet-ne-kufirin-verior-sinjal-per-forcimin-e-armepushimit-me-hezbollah/",
+      "description": "Izraeli ka njoftuar heqjen e të gjitha kufizimeve të sigurisë të vendosura në zonat kufitare veriore, në një vendim që shihet si tregues i besimit në vazhdimësinë e armëpushimit me Hezbollah, pavarësisht se situata në rajon mbetet e ndjeshme. Sipas një deklarate të Israel Defense Forces (IDF), nga o",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T20:45:50+00:00",
+      "dateStr": "21 Jun, 20:45",
+      "isNew": true,
+      "id": "abc01782074750"
+    },
+    {
+      "title": "Zjarret në Francë, digjen 25 hektarë të mbjella dhe evakuohen dhjetëra banorë",
+      "link": "https://abcnews.al/zjarret-ne-france-digjen-25-hektare-te-mbjella-dhe-evakuohen-dhjetera-banore/",
+      "description": "Një zjarr në departamentin Cher, i cili ka qenë nën një paralajmërim të kuq për valë të nxehti që nga e diela, dogji sot 25 hektarë me të mbjella, ndërsa rreth 50 persona u detyruan të evakuoheshin, njoftoi prefektura, që shtoi se katër zjarrfikës pësuan lëndime të lehta. Njoftimi për shtyp i prefek",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T20:37:54+00:00",
+      "dateStr": "21 Jun, 20:37",
+      "isNew": true,
+      "id": "abc11782074274"
+    },
+    {
+      "title": "Rama për protestën: “Flamingot” do të habiten se ‘si ranë mes korbave e sorrave të shqiptarisë së rreme’",
+      "link": "https://abcnews.al/rama-per-protesten-flamingot-do-te-habiten-se-si-rane-mes-korbave-e-sorrave-te-shqiptarise-se-rreme/",
+      "description": "Kryeministri Edi Rama ka reaguar përmes një postimi në rrjetin social Facebook, duke komentuar zhvillimet e fundit pas një proteste dhe deklaratat që kanë qarkulluar në lidhje me organizimin e saj. Në reagimin e tij në Facebook, Rama ka ndarë edhe një foto me një mbishkrim ku pretendohet se “organiz",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T20:29:29+00:00",
+      "dateStr": "21 Jun, 20:29",
+      "isNew": true,
+      "id": "abc21782073769"
+    },
+    {
+      "title": "Mbetën të bllokuar në det, Policia Kufitare shpëton 3 persona në Velipojë",
+      "link": "https://abcnews.al/mbeten-te-bllokuar-ne-det-policia-kufitare-shpeton-3-persona-ne-velipoje/",
+      "description": "Në zonën e Velipojë, tre shtetas kanë mbetur të bllokuar në det pasi mjeti i tyre lundrues pësoi avari teknike, duke rrezikuar mbytjen e tyre. Menjëherë pas njoftimit për incidentin, shërbimet e Policia Kufitare e Shqipërisë u nisën drejt vendngjarjes dhe arritën të lokalizojnë mjetin lundrues, i ci",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T20:25:45+00:00",
+      "dateStr": "21 Jun, 20:25",
+      "isNew": true,
+      "id": "abc31782073545"
+    },
+    {
+      "title": "Gjermania kundër taksës për Ngushticën e Hormuzit, Wadephul kërkon garantimin e lundrimit të lirë",
+      "link": "https://abcnews.al/gjermania-kunder-takses-per-ngushticen-e-hormuzit-wadephul-kerkon-garantimin-e-lundrimit-te-lire/",
+      "description": "Ministri i Jashtëm i Gjermani, Johann Wadephul, ka shprehur kundërshtimin ndaj çdo përpjekjeje për vendosjen e një takse për kalimin në Ngushtica e Hormuzit, duke theksuar se kjo rrugë ujore duhet të mbetet e hapur dhe e lundrueshme sipas ligjit ndërkombëtar detar. Duke folur në një forum publik në ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T20:11:27+00:00",
+      "dateStr": "21 Jun, 20:11",
+      "isNew": true,
+      "id": "abc41782072687"
     },
     {
       "title": "Pakistani vlerëson Iranin dhe SHBA: Diplomacia është çelësi për stabilitetin në Lindjen e Mesme",
@@ -122,7 +177,7 @@
       "date": "2026-06-21T19:30:15+00:00",
       "dateStr": "21 Jun, 19:30",
       "isNew": true,
-      "id": "abc01782070215"
+      "id": "abc51782070215"
     },
     {
       "title": "“Mungon cilësia, duhet ndryshuar loja”/ Fusha dhe Mneri analizojnë Gjermaninë: Fitore me shumë pikëpyetje për “Panzerat”",
@@ -133,7 +188,7 @@
       "date": "2026-06-21T18:35:06+00:00",
       "dateStr": "21 Jun, 18:35",
       "isNew": true,
-      "id": "abc11782066906"
+      "id": "abc61782066906"
     },
     {
       "title": "Netanyahu: Nuk do të lejojmë Iranin të pajiset me armë bërthamore",
@@ -144,7 +199,7 @@
       "date": "2026-06-21T18:10:00+00:00",
       "dateStr": "21 Jun, 18:10",
       "isNew": true,
-      "id": "abc21782065400"
+      "id": "abc71782065400"
     },
     {
       "title": "Ismaili: Largimi i Koçekut vendimmarrje personale, secili mban përgjegjësi për qëndrimet e veta!",
@@ -155,7 +210,7 @@
       "date": "2026-06-21T17:35:34+00:00",
       "dateStr": "21 Jun, 17:35",
       "isNew": true,
-      "id": "abc31782063334"
+      "id": "abc81782063334"
     },
     {
       "title": "“Fokusi ynë te Integrimi”/ Erjona Ismaili: Protesta, kundër zhvillimit të Shqipërisë. Ka ndikime të jashtme dhe dezinformim mbi projektet!",
@@ -166,62 +221,7 @@
       "date": "2026-06-21T17:26:11+00:00",
       "dateStr": "21 Jun, 17:26",
       "isNew": true,
-      "id": "abc41782062771"
-    },
-    {
-      "title": "Trump: Starmer do të japë dorëheqjen si kryeministër/ “Downing Street” i mohon raportimet",
-      "link": "https://abcnews.al/trump-starmer-do-te-jape-doreheqjen-si-kryeminister-downing-street-i-mohon-raportimet/",
-      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump, ka deklaruar se kryeministri britanik Keir Starmer mund të largohet nga posti i tij në Downing Street, duke pretenduar se ai “do të japë dorëheqjen”. Në komentet e tij, Trump e kritikoi Starmer për mënyrën se si ka menaxhuar çështjet e emigracionit d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T17:13:45+00:00",
-      "dateStr": "21 Jun, 17:13",
-      "isNew": true,
-      "id": "abc51782062025"
-    },
-    {
-      "title": "Lamallari për protestat: Shqiptarët e Kosovës dhe Maqedonisë së Veriut nuk duhen trajtuar si emigrantë",
-      "link": "https://abcnews.al/lamallari-per-protestat-shqiptaret-e-kosoves-dhe-maqedonise-se-veriut-nuk-duhen-trajtuar-si-emigrante/",
-      "description": "Ministri i Punëve të Brendshme, Besfort Lamallari, ka reaguar përmes një deklarate publike lidhur me pjesëmarrjen e disa qytetarëve nga Kosova dhe Maqedonia e Veriut në zhvillimet e fundit politike në Tiranë, duke sqaruar sipas tij konceptin e “diasporës”. Në reagimin e tij, Lamallari thekson se shq",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T17:04:09+00:00",
-      "dateStr": "21 Jun, 17:04",
-      "isNew": true,
-      "id": "abc61782061449"
-    },
-    {
-      "title": "Gjirokastër, zjarri pranë fshatit Humelicë rrezikoi banesat dhe një park bletësh, ndërhyrja në kohë shmang dëmet",
-      "link": "https://abcnews.al/gjirokaster-zjarri-prane-fshatit-humelice-rrezikoi-banesat-dhe-nje-park-bletesh-nderhyrja-ne-kohe-shmang-demet/",
-      "description": "Ndërhyrja në kohë e efektivëve të repartit zjarrfikës në Gjirokastër ka bërë të mundur neutralizimin e një vatre zjarri pranë fshatit Humelicë. Flakët janë përhapur me shpejtësi si pasojë e drejtimit të erës, duke rrezikuar një park bletësh dhe banesat pranë aksit rrugor nacional Gjirokastër–Tepelen",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T16:54:22+00:00",
-      "dateStr": "21 Jun, 16:54",
-      "isNew": true,
-      "id": "abc71782060862"
-    },
-    {
-      "title": "Vala e të nxehtit ekstrem, Franca ndalon alkoolin në disa evente",
-      "link": "https://abcnews.al/vala-e-te-nxehtit-ekstrem-franca-ndalon-alkoolin-ne-disa-evente/",
-      "description": "Qeveria franceze ka ndërmarrë masa të posaçme për të kufizuar konsumin e alkoolit gjatë disa eventeve publike në kuadër të festivalit të madh kombëtar muzikor “Fête de la Musique”, që zhvillohet këtë të diel, në një periudhë kur vendi po përballet me temperatura rekord. Festimet vjetore sjellin mili",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T16:37:12+00:00",
-      "dateStr": "21 Jun, 16:37",
-      "isNew": true,
-      "id": "abc81782059832"
-    },
-    {
-      "title": "News Hour me Erneta Shevroja, (21/06/2026)",
-      "link": "https://abcnews.al/news-hour-me-erneta-shevroja-21-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T16:36:28+00:00",
-      "dateStr": "21 Jun, 16:36",
-      "isNew": true,
-      "id": "abc91782059788"
+      "id": "abc91782062771"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
