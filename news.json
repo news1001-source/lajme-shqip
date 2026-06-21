@@ -1,8 +1,140 @@
 {
-  "lastUpdated": "2026-06-21T18:16:33.084133+00:00",
+  "lastUpdated": "2026-06-21T20:21:05.500354+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Java e re në Kosovë nis me shi dhe bubullima",
+      "link": "https://24-ore.com/java-e-re-ne-kosove-nis-me-shi-dhe-bubullima/",
+      "description": "Instituti Hidrometeorologjik i Kosovës ka njoftuar se me hyrjen në stinën astronomike të verës, Kosova do të ndikohet nga masa ajrore relativisht të paqëndrueshme, të cilat gjatë ditëve të para të javës do të sjellin vranësira, reshje lokale shiu dhe shkarkime rrufesh. Sipas parashikimit, reshjet e ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-21T20:09:33+00:00",
+      "dateStr": "21 Jun, 20:09",
+      "isNew": true,
+      "id": "24 01782072573"
+    },
+    {
+      "title": "Yamal kalon Messin mes golashënuesve më të rinj në Botëror, por renditet vetëm i teti",
+      "link": "https://24-ore.com/yamal-kalon-messin-mes-golashenuesve-me-te-rinj-ne-boteror-por-renditet-vetem-i-teti/",
+      "description": "Lamine Yamal ka hyrë në historinë e Kupës së Botës duke u renditur mes golashënuesve më të rinj të të gjitha kohërave. Sulmuesi anësor i Spanjës shënoi ndaj Arabisë Saudite dhe, falë këtij goli, kaloi idhullin e tij Lionel Messi për disa ditë sa i përket moshës në momentin e realizimit. Megjithatë, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-21T20:09:24+00:00",
+      "dateStr": "21 Jun, 20:09",
+      "isNew": true,
+      "id": "24 11782072564"
+    },
+    {
+      "title": "Inter-Nico Paz, ëndrra e merkatos është një enigmë 60 milionë euroshe. Gjithçka varet nga “Oaktree”",
+      "link": "https://24-ore.com/inter-nico-paz-endrra-e-merkatos-eshte-nje-enigme-60-milione-euroshe-gjithcka-varet-nga-oaktree/",
+      "description": "Nico Paz prej kohësh është në listën e lojtarëve të pëlqyer nga Interi. Një skenar që, në fund të majit, zemëroi trajnerin e Comos, Cesc Fàbregas, i cili deklaroi: “Ose do të rikthehet te Real Madridi, ose sezonin e ardhshëm do të luajë te Como”, përpara se të sulmonte edhe Javier Zanettin. Megjitha",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-21T20:09:13+00:00",
+      "dateStr": "21 Jun, 20:09",
+      "isNew": true,
+      "id": "24 21782072553"
+    },
+    {
+      "title": "A do të nxisë Zvërneci diversifikimin dhe rritjen e produktivitetit në ekonominë shqiptare apo do të thellojë varësitë ekzistuese?",
+      "link": "https://24-ore.com/a-do-te-nxise-zverneci-diversifikimin-dhe-rritjen-e-produktivitetit-ne-ekonomine-shqiptare-apo-do-te-thelloje-varesite-ekzistuese/",
+      "description": "Debati publik rreth zhvillimit të propozuar në Zvërnec është përqendruar kryesisht te rëndësia e investimit të raportuar prej 4 miliardë eurosh—mbështetësit argumentojnë se ai do të transformojë ekonominë shqiptare, ndërsa kritikët ngrenë shqetësimin se do të shkatërrojë një pasuri të rrallë të vend",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-21T20:06:06+00:00",
+      "dateStr": "21 Jun, 20:06",
+      "isNew": true,
+      "id": "24 31782072366"
+    },
+    {
+      "title": "Lamine Yamal vendimtar në fitoren 4-0 të Spanjës ndaj Arabisë Saudite",
+      "link": "https://24-ore.com/lamine-yamal-vendimtar-ne-fitoren-4-0-te-spanjes-ndaj-arabise-saudite/",
+      "description": "Lamine Yamal, 18 vjeç, ishte tema para nisjes së ndeshjes dhe vazhdoi të dominonte bisedat edhe pas finales. Ai u kthye në Atlanta me shpresën për të nisur për herë të parë një ndeshje të Kupës së Botës, pasi në përballjen surprizë pa gola me Kep Verden ishte aktivizuar vetëm për 19 minuta. Trajneri",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-21T20:02:22+00:00",
+      "dateStr": "21 Jun, 20:02",
+      "isNew": true,
+      "id": "24 41782072142"
+    },
+    {
+      "title": "“AI do të ketë nevojë për energji të pafund” – Musk sheh zgjidhjen te Dielli",
+      "link": "https://24-ore.com/ai-do-te-kete-nevoje-per-energji-te-pafund-musk-sheh-zgjidhjen-te-dielli/",
+      "description": "Musk dëshiron energji diellore për Inteligjencën Artificiale. Elon Musk thotë se përdorimi i vetëm një pjese shumë të vogël të energjisë së Diellit për Al mund të krijojë më shumë inteligjencë sesa e gjithë njerëzimi së bashku. Ai ka argumentuar se energjia diellore është rruga më e qartë për të fur",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-21T19:39:26+00:00",
+      "dateStr": "21 Jun, 19:39",
+      "isNew": true,
+      "id": "24 51782070766"
+    },
+    {
+      "title": "Protestat qytetare në Tiranë, reagojnë organizatorët për incidentin me flamurin e Izraelit: Mes nesh ka të infiltruar",
+      "link": "https://24-ore.com/protestat-qytetare-ne-tirane-reagojne-organizatoret-per-incidentin-me-flamurin-e-izraelit-mes-nesh-ka-te-infiltruar/",
+      "description": "Një prej nismëtarëve të protestës qytetare, Arben Kola, ka bërë deklarata të forta në prag të nisjes së tubimit, duke ngritur shqetësime për praninë e grupeve të infiltruar brenda lëvizjes. Sipas Kolës, këto grupe po përpiqen të devijojnë qëllimin e protestës dhe t’i japin asaj karakteristika me pra",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-21T19:39:09+00:00",
+      "dateStr": "21 Jun, 19:39",
+      "isNew": true,
+      "id": "24 61782070749"
+    },
+    {
+      "title": "Ish-ministri i Mbrojtjes Pirro Vengu: Shqipëria e fortë është prioriteti",
+      "link": "https://24-ore.com/ish-ministri-i-mbrojtjes-pirro-vengu-shqiperia-e-forte-eshte-prioriteti/",
+      "description": "Ish-ministri i Mbrojtjes, Pirro Vengu, ka reaguar në rrjetet sociale me një mesazh politik ku thekson rëndësinë e forcimit të shtetit shqiptar dhe stabilitetit të tij në rajon. Reagimi i tij lidhet me protestën qytetare që zhvillohet prej 22 ditësh në Tiranë. Në një postim të gjatë, Vengu shkruan se",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-21T19:38:51+00:00",
+      "dateStr": "21 Jun, 19:38",
+      "isNew": true,
+      "id": "24 71782070731"
+    },
+    {
+      "title": "Aktori Mehdi Malkaj thirrje në protestë: Të shkëpusim ndikimet partiake",
+      "link": "https://24-ore.com/aktori-mehdi-malkaj-thirrje-ne-proteste-te-shkepusim-ndikimet-partiake/",
+      "description": "Aktori i mirënjohur Mehdi Malkaj ka marrë fjalën përpara mijëra qytetarëve, duke përcjellë një mesazh të fortë dhe të drejtpërdrejtë kundër adhurimit ndaj forcave politike. Malkaj u bëri thirrje protestuesve që të shkëputen nga ndikimet partiake dhe të bashkohen si qytetarë të lirë. “Ne shqiptarët k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-21T19:38:37+00:00",
+      "dateStr": "21 Jun, 19:38",
+      "isNew": true,
+      "id": "24 81782070717"
+    },
+    {
+      "title": "Tensionet në Lindjen e Mesme, Sekretari amerikan i Energjisë: Trafiku në Ngushticën e Hormuzit vijon normalisht, kemi krijuar një korridor alternativ",
+      "link": "https://24-ore.com/tensionet-ne-lindjen-e-mesme-sekretari-amerikan-i-energjise-trafiku-ne-ngushticen-e-hormuzit-vijon-normalisht-kemi-krijuar-nje-korridor-alternativ/",
+      "description": "Trafiku detar në Ngushticën e Hormuzit mbetet kryesisht i paprekur pavarësisht tensioneve të fundit në rajon, deklaroi Sekretari amerikan i Energjisë, Chris Wright, duke bërë të ditur se 67 anije kanë kaluar përmes këtij kalimi strategjik gjatë 24 orëve të fundit.Në një intervistë për Fox News, Wrig",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-21T19:38:19+00:00",
+      "dateStr": "21 Jun, 19:38",
+      "isNew": true,
+      "id": "24 91782070699"
+    },
+    {
+      "title": "Pakistani vlerëson Iranin dhe SHBA: Diplomacia është çelësi për stabilitetin në Lindjen e Mesme",
+      "link": "https://abcnews.al/pakistani-vlereson-iranin-dhe-shba-diplomacia-eshte-celesi-per-stabilitetin-ne-lindjen-e-mesme/",
+      "description": "Kryeministri i Pakistanit, Shehbaz Sharif ka shprehur optimizëm për rolin e diplomacisë në uljen e tensioneve në Lindjen e Mesme, duke bërë komente pozitive si për Iranin ashtu edhe për Shtetet e Bashkuara të Amerikës. Duke folur para gazetarëve në Bürgenstock, ku po zhvillohen takime dhe diskutime ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T19:30:15+00:00",
+      "dateStr": "21 Jun, 19:30",
+      "isNew": true,
+      "id": "abc01782070215"
+    },
+    {
+      "title": "“Mungon cilësia, duhet ndryshuar loja”/ Fusha dhe Mneri analizojnë Gjermaninë: Fitore me shumë pikëpyetje për “Panzerat”",
+      "link": "https://abcnews.al/mungon-cilesia-duhet-ndryshuar-loja-fusha-dhe-mneri-analizojne-gjermanine-fitore-me-shume-pikepyetje-per-panzerat/",
+      "description": "Katër herë kampionët e botës, Gjermania, arritën një fitore dramatike 2-1 në minutat e fundit, por paraqitja e “Panzerave” vazhdon të ngjallë debate mes analistëve sportivë. Gjatë një interviste në emisionin “Futboll, Jo Soccer” në ABC News, analisti Fusha u shpreh kritik ndaj mënyrës së lojës së pë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T18:35:06+00:00",
+      "dateStr": "21 Jun, 18:35",
+      "isNew": true,
+      "id": "abc11782066906"
+    },
     {
       "title": "Netanyahu: Nuk do të lejojmë Iranin të pajiset me armë bërthamore",
       "link": "https://abcnews.al/netanyahu-nuk-do-te-lejojme-iranin-te-pajiset-me-arme-berthamore/",
@@ -12,95 +144,7 @@
       "date": "2026-06-21T18:10:00+00:00",
       "dateStr": "21 Jun, 18:10",
       "isNew": true,
-      "id": "abc01782065400"
-    },
-    {
-      "title": "I shkruan emrin mbi një kosh mbeturinash, reagon Ardit Bido: Albin Kurti, ç’punë kanë aktivistët e VV të më piketojnë?",
-      "link": "https://24-ore.com/i-shkruan-emrin-mbi-nje-kosh-mbeturinash-reagon-ardit-bido-albin-kurti-cpune-kane-aktivistet-e-vv-te-me-piketojne/",
-      "description": "Ardit Bido ka reaguar ndaj një fotoje të shpërndarë në rrjetet sociale ku emrin e tij e kanë shkruar në një kosh mbeturinash. Deputeti socialist thotë se aktivistë të Vetëvendosjes qëndrojnë pas këtij akti, duke i kërkuar llogari kryeministrit Albin Kurti. Bido thotë se ai është I pastër e pro Shqip",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-21T18:06:21+00:00",
-      "dateStr": "21 Jun, 18:06",
-      "isNew": true,
-      "id": "24 01782065181"
-    },
-    {
-      "title": "Mos ia hiqni Albin Kurtit meritat për protestat në Tiranë",
-      "link": "https://24-ore.com/mos-ia-hiqni-albin-kurtit-meritat-per-protestat-ne-tirane/",
-      "description": "Nga Mero Baze Ky debat rreth qytetarëve shqiptarë të Kosovës, Maqedonisë, Malit të Zi dhe Serbisë që vijnë në protestë është shumë hipokrit. Përpjekja e Edi Ramës për t’i distancuar ata nga Albin Kurti dhe nga diaspora është e pakuptimtë dhe e panevojshme, madje dhe e padrejtë, pasi i mohon Albin Ku",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-21T18:04:45+00:00",
-      "dateStr": "21 Jun, 18:04",
-      "isNew": true,
-      "id": "24 11782065085"
-    },
-    {
-      "title": "Kali i pushtetit",
-      "link": "https://24-ore.com/kali-i-pushtetit/",
-      "description": "Edi Rama ka një cilësi të rrallë. Herë pas here e thotë vetë atë që të tjerët përpiqen ta shpjegojnë me analiza. Vite më parë ai është shprehur se nuk ishte ai në shërbim të partisë, por partia në shërbim të tij, për të realizuar qëllimet e veta. Partitë, sipas tij, nuk ishin gjë tjetër [&#8230;]\nTh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-21T18:04:08+00:00",
-      "dateStr": "21 Jun, 18:04",
-      "isNew": true,
-      "id": "24 21782065048"
-    },
-    {
-      "title": "QMK: Dhjetra vatra zjarresh gjatë kësaj fundjave, aktiv mbetet zjarri në Haraçinë",
-      "link": "https://24-ore.com/qmk-dhjetra-vatra-zjarresh-gjate-kesaj-fundjave-aktiv-mbetet-zjarri-ne-haracine/",
-      "description": "Vetëm gjatë ditëve të fundit janë regjistruar disa vatra zjarri në pjesë të ndryshme të vendit, kryesisht në hapësira të hapura, deponi dhe zona me bimësi të thatë. Sipas Qendrës për Menaxhim me Kriza, vetëm gjatë kësaj fundjavë janë regjistruar dhjetëra zjarre në ambiente të hapura, 9 prej tyre jan",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-21T17:39:22+00:00",
-      "dateStr": "21 Jun, 17:39",
-      "isNew": true,
-      "id": "24 31782063562"
-    },
-    {
-      "title": "Shkupi nikoqir i konferencës së kryetarëve të gjykatave supreme nga Evropa Qendrore dhe Lindore",
-      "link": "https://24-ore.com/shkupi-nikoqir-i-konferences-se-kryetareve-te-gjykatave-supreme-nga-evropa-qendrore-dhe-lindore/",
-      "description": "Shkupi nesër dhe pasnesër do të jetë nikoqir i konferencës së kryetarëve të gjykatave supreme nga Evropa Qendrore dhe Lindore. Konferencën e organizon Gjykata Supreme në bashkëpunim me Institutin CEELI dhe me mbështetjen e Projektit të BE-së për sundimin e ligjit. Është paralajmëruar pjesëmarrja e k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-21T17:39:10+00:00",
-      "dateStr": "21 Jun, 17:39",
-      "isNew": true,
-      "id": "24 41782063550"
-    },
-    {
-      "title": "Spiropali i përgjigjet Ramës: Do ta kemi Marrëveshjen e Re për Shqipërinë",
-      "link": "https://24-ore.com/spiropali-i-pergjigjet-rames-do-ta-kemi-marreveshjen-e-re-per-shqiperine/",
-      "description": "Ish-kryetarja e Kuvendit, Elisa Spiropali, ka reaguar pas deklaratave të kryeministrit Edi Rama në mbledhjen e Grupit Parlamentar të Partisë Socialiste, ku ai ironizoi zërat brenda PS-së që flasin për një “Shqipëri të Re”. Gjatë fjalës së tij, Rama u shpreh se brenda partisë ka “disa shpirtra të hum",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-21T17:38:49+00:00",
-      "dateStr": "21 Jun, 17:38",
-      "isNew": true,
-      "id": "24 51782063529"
-    },
-    {
-      "title": "Berisha: Grisja e flamurit izraelit akt kriminal, të ndëshkohet autori",
-      "link": "https://24-ore.com/berisha-grisja-e-flamurit-izraelit-akt-kriminal-te-ndeshkohet-autori/",
-      "description": "Kreu i Partisë Demokratike, Sali Berisha, e konsideroi grisjen e flamurit të Izraelit një akt kriminal dhe kërkoi ndëshkimin e autorit. Me anë të një postimi në Facebook, Berisha shprehet se ky veprim është “një akt kriminal ekstremist, antisemit që bie ndesh me ndjenjat dhe lidhjet tradicionale që ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-21T17:38:31+00:00",
-      "dateStr": "21 Jun, 17:38",
-      "isNew": true,
-      "id": "24 61782063511"
-    },
-    {
-      "title": "Rama nxjerr video e influencerave: Ne kemi Shqipërinë 2030 në BE të shqiptarëve të punës",
-      "link": "https://24-ore.com/rama-nxjerr-video-e-influencerave-ne-kemi-shqiperine-2030-ne-be-te-shqiptareve-te-punes/",
-      "description": "Kryeministri Edi Rama ka publikuar një video ku përmbledh një pjesë të madhe të influencerëve që kanë folur për protestën në rrjete sociale. “Rama në postimin e tij në “Facebook” ka shkruar: PAK RELAKS me “Shqipërinë e re” të llajkefollouve të gunës????????????????Ne kemi Shqipërinë 2030 në BE të sh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-21T17:38:09+00:00",
-      "dateStr": "21 Jun, 17:38",
-      "isNew": true,
-      "id": "24 71782063489"
+      "id": "abc21782065400"
     },
     {
       "title": "Ismaili: Largimi i Koçekut vendimmarrje personale, secili mban përgjegjësi për qëndrimet e veta!",
@@ -111,18 +155,7 @@
       "date": "2026-06-21T17:35:34+00:00",
       "dateStr": "21 Jun, 17:35",
       "isNew": true,
-      "id": "abc11782063334"
-    },
-    {
-      "title": "Përmirësim i madh financiar për 4 shenja të horoskopit deri në tetor",
-      "link": "https://24-ore.com/permiresim-i-madh-financiar-per-4-shenja-te-horoskopit-deri-ne-tetor/",
-      "description": "Një përmirësim i madh financiar është duke u zhvilluar për katër shenja , ndërsa Plutoni lëviz në retrogradë në Ujor, një periudhë që zgjat deri në tetor 2026. Planeti i ndryshimit dhe rilindjes aktualisht po ndikon në sektorët e tyre financiarë, duke krijuar kushtet për bollëk më të madh dhe burime",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-21T17:34:20+00:00",
-      "dateStr": "21 Jun, 17:34",
-      "isNew": true,
-      "id": "24 81782063260"
+      "id": "abc31782063334"
     },
     {
       "title": "“Fokusi ynë te Integrimi”/ Erjona Ismaili: Protesta, kundër zhvillimit të Shqipërisë. Ka ndikime të jashtme dhe dezinformim mbi projektet!",
@@ -133,7 +166,7 @@
       "date": "2026-06-21T17:26:11+00:00",
       "dateStr": "21 Jun, 17:26",
       "isNew": true,
-      "id": "abc21782062771"
+      "id": "abc41782062771"
     },
     {
       "title": "Trump: Starmer do të japë dorëheqjen si kryeministër/ “Downing Street” i mohon raportimet",
@@ -144,18 +177,7 @@
       "date": "2026-06-21T17:13:45+00:00",
       "dateStr": "21 Jun, 17:13",
       "isNew": true,
-      "id": "abc31782062025"
-    },
-    {
-      "title": "Haziri: Bashkëpunimi mes partive, rruga e vetme për t’i dhënë fund krizës politike",
-      "link": "https://24-ore.com/haziri-bashkepunimi-mes-partive-rruga-e-vetme-per-ti-dhene-fund-krizes-politike/",
-      "description": "Nënkryetari i Lidhjes Demokratike të Kosovës, Lutfi Haziri, ka bërë thirrje për bashkëpunim partiak dhe institucional, duke theksuar se një marrëveshje gjithëpërfshirëse për formimin e institucioneve duhet t’i japë fund krizës politike në vend dhe të rikthejë stabilitetin. Në një postim në Facebook,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-21T17:09:27+00:00",
-      "dateStr": "21 Jun, 17:09",
-      "isNew": true,
-      "id": "24 91782061767"
+      "id": "abc51782062025"
     },
     {
       "title": "Lamallari për protestat: Shqiptarët e Kosovës dhe Maqedonisë së Veriut nuk duhen trajtuar si emigrantë",
@@ -166,7 +188,7 @@
       "date": "2026-06-21T17:04:09+00:00",
       "dateStr": "21 Jun, 17:04",
       "isNew": true,
-      "id": "abc41782061449"
+      "id": "abc61782061449"
     },
     {
       "title": "Gjirokastër, zjarri pranë fshatit Humelicë rrezikoi banesat dhe një park bletësh, ndërhyrja në kohë shmang dëmet",
@@ -177,7 +199,7 @@
       "date": "2026-06-21T16:54:22+00:00",
       "dateStr": "21 Jun, 16:54",
       "isNew": true,
-      "id": "abc51782060862"
+      "id": "abc71782060862"
     },
     {
       "title": "Vala e të nxehtit ekstrem, Franca ndalon alkoolin në disa evente",
@@ -188,7 +210,7 @@
       "date": "2026-06-21T16:37:12+00:00",
       "dateStr": "21 Jun, 16:37",
       "isNew": true,
-      "id": "abc61782059832"
+      "id": "abc81782059832"
     },
     {
       "title": "News Hour me Erneta Shevroja, (21/06/2026)",
@@ -199,29 +221,7 @@
       "date": "2026-06-21T16:36:28+00:00",
       "dateStr": "21 Jun, 16:36",
       "isNew": true,
-      "id": "abc71782059788"
-    },
-    {
-      "title": "Përfundon raundi i parë i bisedimeve SHBA–Iran në Zvicër, Vance: Mund të sjellin ndryshime në Lindjen e Mesme",
-      "link": "https://abcnews.al/perfundon-raundi-i-pare-i-bisedimeve-shba-iran-ne-zvicer-vance-mund-te-sjellin-ndryshime-ne-lindjen-e-mesme/",
-      "description": "Raundi i parë i bisedimeve mes Shteteve të Bashkuara dhe Iranit është zhvilluar në Bürgenstock të Zvicrës dhe ka zgjatur rreth 1 orë e 20 minuta, raportojnë mediat e huaja. Sipas këtyre raportimeve, pas përfundimit të takimit, delegacionet e të dy vendeve janë tërhequr për diskutime të brendshme lid",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T16:05:48+00:00",
-      "dateStr": "21 Jun, 16:05",
-      "isNew": true,
-      "id": "abc81782057948"
-    },
-    {
-      "title": "Arrestohet sërish John Alite/ Ish-anëtari i bandës Gambino akuzohet për fajde, zhvatje dhe kërcënime",
-      "link": "https://abcnews.al/arrestohet-serish-john-alite-ish-anetari-i-bandes-gambino-akuzohet-per-fajde-zhvatje-dhe-kercenime/",
-      "description": "John Alite, një emër i njohur i botës së krimit me origjinë shqiptare, është arrestuar në Shtetet e Bashkuara të Amerikës të premten, pasi akuzohet për dhënie parash me fajde. Ai njihej si vrasës me pagesë i mafias, që më pas u shndërrua në anëtar të këshillit bashkiak të New Jersey-t. 63-vjeçari nj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T15:44:27+00:00",
-      "dateStr": "21 Jun, 15:44",
-      "isNew": true,
-      "id": "abc91782056667"
+      "id": "abc91782059788"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
