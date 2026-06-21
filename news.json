@@ -1,117 +1,194 @@
 {
-  "lastUpdated": "2026-06-21T13:59:47.170885+00:00",
+  "lastUpdated": "2026-06-21T16:01:29.053693+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Dy raste të rënda të dhunës familjare, Prokuroria kërkon masa sigurie për të dyshuarit",
-      "link": "https://24-ore.com/dy-raste-te-renda-te-dhunes-familjare-prokuroria-kerkon-masa-sigurie-per-te-dyshuarit/",
-      "description": "Prokuroria Themelore Publike e Shkupit ka nisur procedurë kundër një personi për veprën penale “Rrezikim i sigurisë”, sipas nenit 144, paragrafi 3, në lidhje me paragrafët 2 dhe 1 të Kodit Penal. Sipas njoftimeve nga Prokuroria Publike, i dyshuari, 56 vjeçar, për një periudhë të gjatë kohore ka usht",
-      "source": "24 ORE",
+      "title": "Arrestohet sërish John Alite/ Ish-anëtari i bandës Gambino akuzohet për fajde, zhvatje dhe kërcënime",
+      "link": "https://abcnews.al/arrestohet-serish-john-alite-ish-anetari-i-bandes-gambino-akuzohet-per-fajde-zhvatje-dhe-kercenime/",
+      "description": "John Alite, një emër i njohur i botës së krimit me origjinë shqiptare, është arrestuar në Shtetet e Bashkuara të Amerikës të premten, pasi akuzohet për dhënie parash me fajde. Ai njihej si vrasës me pagesë i mafias, që më pas u shndërrua në anëtar të këshillit bashkiak të New Jersey-t. 63-vjeçari nj",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-06-21T13:40:34+00:00",
-      "dateStr": "21 Jun, 13:40",
+      "date": "2026-06-21T15:44:27+00:00",
+      "dateStr": "21 Jun, 15:44",
       "isNew": true,
-      "id": "24 01782049234"
+      "id": "abc01782056667"
     },
     {
-      "title": "Spanja, Yamal: Barazuam një ndeshje, por…",
-      "link": "https://24-ore.com/spanja-yamal-barazuam-nje-ndeshje-por/",
-      "description": "Pas barazimit të pabesueshëm dhe të papritur kundër Kepit të Gjelbër, Spanja do të kërkojë shpagim sonte kundër Arabisë Saudite. Polemikat rreth “Furive të Kuqe” nuk janë pritur mirë nga Lamine Yamal. Në një intervistë me El Pais, ylli i Barcelonës deklaroi: “Nuk do ta dimë kush do ta fitojë Kupën e",
+      "title": "MPB: Gjatë 24 orëve shtatë persona janë privuar nga liria për posedim të lëndëve narkotike",
+      "link": "https://24-ore.com/mpb-gjate-24-oreve-shtate-persona-jane-privuar-nga-liria-per-posedim-te-lendeve-narkotike/",
+      "description": "Ministria e Punëve të Brendshme sot njoftoi se gjatë 24 orëve të fundit, nëpunësit e policisë në disa vende në të gjithë shtetit kanë privuar nga liria shtatë persona të cilëve u është gjetur drogë. Siç theksojnë nga MPB, dje në orën 10:30 në zonën e Bit Pazarit në Shkup, nëpunës policorë nga SPB Sh",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T13:40:17+00:00",
-      "dateStr": "21 Jun, 13:40",
+      "date": "2026-06-21T15:40:01+00:00",
+      "dateStr": "21 Jun, 15:40",
       "isNew": true,
-      "id": "24 11782049217"
+      "id": "24 01782056401"
     },
     {
-      "title": "Brazili, Raphinha humbet ndeshjen ndaj Skocisë",
-      "link": "https://24-ore.com/brazili-raphinha-humbet-ndeshjen-ndaj-skocise/",
-      "description": "Sulmuesi titullar i Brazilit të Ancelottit në Kupën e Botës 2026, Raphinha, pësoi një dëmtim muskulor gjatë fitores 3-0 ndaj Haitit të premten në Filadelfia. Federata Braziliane e Futbollit (CBF) njoftoi në një deklaratë se “Raphinha iu nënshtrua një testi diagnostikues të shtunën që konfirmoi një d",
+      "title": "Protesta qytetare në Tiranë, policia procedon 9 persona",
+      "link": "https://24-ore.com/protesta-qytetare-ne-tirane-policia-procedon-9-persona/",
+      "description": "Policia e Tiranës ka nisur procedim penal në gjendje të lirë ndaj 9 personave, të cilët sipas autoriteteve kanë vijuar qëndrimin në bulevardin “Dëshmorët e Kombit” edhe pas përfundimit të protestës së zhvilluar mbrëmjen e së shtunës. Sipas njoftimit zyrtar, pas përfundimit të tubimit rreth orës 22:0",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T13:39:58+00:00",
-      "dateStr": "21 Jun, 13:39",
+      "date": "2026-06-21T15:39:46+00:00",
+      "dateStr": "21 Jun, 15:39",
       "isNew": true,
-      "id": "24 21782049198"
+      "id": "24 11782056386"
     },
     {
-      "title": "Protesta, Berisha-Ramës: Largohu sa më parë dhe prit verdiktin e drejtësisë",
-      "link": "https://24-ore.com/protesta-berisha-rames-largohu-sa-me-pare-dhe-prit-verdiktin-e-drejtesise/",
-      "description": "Kryetari i Partisë Demokratike, Sali Berisha, ka reaguar ndaj deklaratave të kryeministrit Edi Rama pas protestës së së shtunës të zhvilluar në Tiranë, duke thënë se kreu i qeverisë e ka përjetuar atë si një “Vaterlo personale”. Përmes një videomesazhi, Berisha u shpreh se protesta e qytetarëve, rin",
+      "title": "Aktivistë të VV në protestë? Nurellari: Fakenews! Përdorën edhe tifozët",
+      "link": "https://24-ore.com/aktiviste-te-vv-ne-proteste-nurellari-fakenews-perdoren-edhe-tifozet/",
+      "description": "Këtë të dielë në edicionin informativ me moderatore Alba Xhanin ka qenë i ftuar analisti Adri Nurellari i cili ka bërë një analizë të zhvillimeve politike në Shqipëri dhe Kosovë. Nurellari është pyetur dhe për zërat dhe lajmet ku thuhet se qytetarë dhe ligjvënës nga Kosova kanë marrë pjesë në Tiranë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T13:39:43+00:00",
-      "dateStr": "21 Jun, 13:39",
+      "date": "2026-06-21T15:39:30+00:00",
+      "dateStr": "21 Jun, 15:39",
       "isNew": true,
-      "id": "24 31782049183"
+      "id": "24 21782056370"
     },
     {
-      "title": "Presidenti iranian: Nuk synojmë bombën atomike, por nuk heqim dorë nga pasurimi i uraniumit",
-      "link": "https://24-ore.com/presidenti-iranian-nuk-synojme-bomben-atomike-por-nuk-heqim-dore-nga-pasurimi-i-uraniumit/",
-      "description": "Presidenti i Iranit, Masoud Pezeshkian, ka deklaruar se Teherani nuk synon të sigurojë një bombë atomike, por do të vazhdojë të mbrojë të drejtën e tij për pasurimin e uraniumit. Deklarata e tij erdhi pak para nisjes së bisedimeve mes Iranit dhe Shteteve të Bashkuara, të zhvilluara këtë të diel në Z",
+      "title": "Rama reagon për pjesëmarrjen e shqiptarëve nga Kosova dhe Maqedonia e Veriut në protestën në Tiranë: Po dëmtohet imazhi i tyre",
+      "link": "https://24-ore.com/rama-reagon-per-pjesemarrjen-e-shqiptareve-nga-kosova-dhe-maqedonia-e-veriut-ne-protesten-ne-tirane-po-demtohet-imazhi-i-tyre/",
+      "description": "Kryeministri Edi Rama ka reaguar këtë të diel lidhur me protestën që po zhvillohet prej 21 ditësh në Tiranë, duke ndarë në rrjetet sociale postimin e një qytetareje dhe duke shprehur qëndrimin e tij mbi pjesëmarrjen e shqiptarëve nga Kosova dhe Maqedonia e Veriut në tubime politike në Shqipëri. Në r",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T13:39:17+00:00",
-      "dateStr": "21 Jun, 13:39",
+      "date": "2026-06-21T15:39:13+00:00",
+      "dateStr": "21 Jun, 15:39",
       "isNew": true,
-      "id": "24 41782049157"
+      "id": "24 31782056353"
     },
     {
-      "title": "Goditje e madhe në El Salvador, sekuestrohen 6.68 ton kokainë me vlerë 167 milionë dollarë",
-      "link": "https://24-ore.com/goditje-e-madhe-ne-el-salvador-sekuestrohen-6-68-ton-kokaine-me-vlere-167-milione-dollare/",
-      "description": "Autoritetet në El Salvador kanë sekuestruar një sasi të madhe kokaine gjatë dy operacioneve detare në Oqeanin Paqësor, bëri të ditur presidenti Nayib Bukele. Sipas njoftimit zyrtar, në total janë sekuestruar 6.68 ton kokainë, me një vlerë të përllogaritur rreth 167 milionë dollarë. Operacionet janë ",
+      "title": "Trump: Starmer do të japë dorëheqjen si kryeministër i Britanisë",
+      "link": "https://24-ore.com/trump-starmer-do-te-jape-doreheqjen-si-kryeminister-i-britanise/",
+      "description": "Presidenti i SHBA-së, Donald Trump, ka deklaruar në rrjetin e tij social se kryeministri britanik Keir Starmer do të largohet nga posti që mban aktualisht. Në mesazhin e publikuar, Trump u shpreh se Starmer ka dështuar në dy fusha që ai i konsideron thelbësore: emigracionin dhe energjinë. “Keir Star",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T13:38:48+00:00",
-      "dateStr": "21 Jun, 13:38",
+      "date": "2026-06-21T15:38:51+00:00",
+      "dateStr": "21 Jun, 15:38",
       "isNew": true,
-      "id": "24 51782049128"
+      "id": "24 41782056331"
     },
     {
-      "title": "Objektivi i madh i Milanit në merkato i ka thënë lamtumirë shokëve të ekipit. Kuqezinjtë nisin aksionin",
-      "link": "https://24-ore.com/objektivi-i-madh-i-milanit-ne-merkato-i-ka-thene-lamtumire-shokeve-te-ekipit-kuqezinjte-nisin-aksionin/",
-      "description": "Gazeta portugeze Record zbulon se Morten Hjulmand i ka dhënë lamtumirën shokëve të ekipit dhe do të largohet këtë verë nga Sporting Lisbon. Ka një numër të madh klubesh të interesuara për mesfushorin danez, por në krye të listës qëndron Milan. 26-vjeçari është i gatshëm të rikthehet në Serie A dhe t",
+      "title": "Pas sulmeve të javës së kaluar, Trump paralajmëron Iranin: Ndaloni Hezbollahun ose do të godasim më fort",
+      "link": "https://24-ore.com/pas-sulmeve-te-javes-se-kaluar-trump-paralajmeron-iranin-ndaloni-hezbollahun-ose-do-te-godasim-me-fort/",
+      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump ka paralajmëruar Iranin se mund të përballet me sulme edhe më të ashpra nëse nuk ndalon veprimtarinë e aleatëve të tij në Liban. Përmes një deklarate publike, Trump iu referua Hezbollahut, grupit paramilitar të mbështetur nga Irani, i cili prej muajsh",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T13:38:36+00:00",
-      "dateStr": "21 Jun, 13:38",
+      "date": "2026-06-21T15:38:37+00:00",
+      "dateStr": "21 Jun, 15:38",
       "isNew": true,
-      "id": "24 61782049116"
+      "id": "24 51782056317"
     },
     {
-      "title": "Oferta e parë e Liverpool për Diomande refuzohet, futet në lojë edhe PSG",
-      "link": "https://24-ore.com/oferta-e-pare-e-liverpool-per-diomande-refuzohet-futet-ne-loje-edhe-psg/",
-      "description": "Ashtu siç edhe pritej në fakt, Yan Diomande është një nga protagonistët kryesor të merkatos. Anësori po shkëlqen në Botëror, ku ka bërë dy paraqitje shumë të mira, në dy ndeshjet e para të Bregut të Fildishtë. Në anën tjetër, gara për transferimin e tij ka filluar të ndizet. Bild zbulon se Leipzig k",
+      "title": "Tottenham nuk përmbahet në merkato, 200 milionë euro për 3 super transferime të tjera",
+      "link": "https://24-ore.com/tottenham-nuk-permbahet-ne-merkato-200-milione-euro-per-3-super-transferime-te-tjera/",
+      "description": "Tottenham është klubi më aktiv deri tani në merkato në Premier League. Londinezët kanë transferuar si lojtarë të lirë Andy Robertson nga Liverpool, Marcos Senesi nga Bournemouth dhe Jan Paul van Hecke, për 52 milionë paundë. “Gjelat e Londrës” nuk mjaftohen me kaq dhe kanë tre objektiva të tjerë në ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T13:38:28+00:00",
-      "dateStr": "21 Jun, 13:38",
+      "date": "2026-06-21T15:38:30+00:00",
+      "dateStr": "21 Jun, 15:38",
       "isNew": true,
-      "id": "24 71782049108"
+      "id": "24 61782056310"
     },
     {
-      "title": "Protesta/ Deputeti socialist: Nëse keni alternativë më të mirë, bujrum tek kutia e votimit!",
-      "link": "https://24-ore.com/protesta-deputeti-socialist-nese-keni-alternative-me-te-mire-bujrum-tek-kutia-e-votimit/",
-      "description": "Deputeti socialist Admir Kadeli ka reaguar ndaj protestave dhe thirrjeve politike që i kanë shoqëruar ato, duke thënë se çdo alternativë për vendin duhet të matet në zgjedhje dhe jo përmes dëmtimit të imazhit të Shqipërisë. Sipas tij, kritika dhe protesta janë të drejta demokratike, por ambicia poli",
+      "title": "Horoskopi ditor për nesër, e hënë 22 qershor 2026",
+      "link": "https://24-ore.com/horoskopi-ditor-per-neser-e-hene-22-qershor-2026/",
+      "description": "Dashi Ditë pozitive për dashurinë. Nëse doni të takoni njerëz ose të shoqëroheni me ta, kjo është koha e duhur. Sa i përket punës, mundësi të reja janë në rrugë e sipër për ata që nuk kanë asnjë aktivitet profesional, edhe nëse janë me kohë të pjesshme. Demi Pas dy ditëve të vështira, tani është [&#",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T13:36:09+00:00",
-      "dateStr": "21 Jun, 13:36",
+      "date": "2026-06-21T15:33:48+00:00",
+      "dateStr": "21 Jun, 15:33",
       "isNew": true,
-      "id": "24 81782048969"
+      "id": "24 71782056028"
     },
     {
-      "title": "VIDEO / “Shqipëria nuk është vetëm bregdet”, ambasadorët tur në veri të vendit, ja mesazhi i Hoxhës",
-      "link": "https://24-ore.com/video-shqiperia-nuk-eshte-vetem-bregdet-ambasadoret-tur-ne-veri-te-vendit-ja-mesazhi-i-hoxhes/",
-      "description": "Përfaqësues të trupit diplomatik në Shqipëri kanë zhvilluar një vizitë në Lezhë, me qëllim njohjen e kësaj zone përtej bregdetit dhe zhvillimeve ekonomike. Të shoqëruar nga ministri për Evropën dhe Punët e Jashtme, Ferit Hoxha, ata u pritën nga kryebashkiaku i Lezhës, Pjerin Ndreu. Gjatë qëndrimit, ",
+      "title": "Protesta pa alternativë nuk është zgjidhje",
+      "link": "https://24-ore.com/protesta-pa-alternative-nuk-eshte-zgjidhje/",
+      "description": "Nga Vilant Xhori “Ky është Ballkani — racionaliteti nuk është një busull e besueshme.” Kështu shkruante gazetari dhe shkrimtari amerikan fitues i Çmimit Pulitzer, Toni Horwitz, duke përshkruar një rajon ku emocionet dhe zemërimi shpesh mbizotërojnë mbi analizën e ftohtë të realitetit. Kjo thënie duk",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-21T13:35:54+00:00",
-      "dateStr": "21 Jun, 13:35",
+      "date": "2026-06-21T15:33:33+00:00",
+      "dateStr": "21 Jun, 15:33",
       "isNew": true,
-      "id": "24 91782048954"
+      "id": "24 81782056013"
+    },
+    {
+      "title": "Rama konfirmon: Protestues nga Vetëvendosja! Flamuri i UÇK u përdhos, sponsoret po harxhojnë para për dëm kombëtar",
+      "link": "https://abcnews.al/rama-konfirmon-protestues-nga-vetevendosja-flamuri-i-uck-u-perdhos-sponsoret-po-harxhojne-para-per-dem-kombetar/",
+      "description": "Pjesëmarrja e shqiptarëve të Kosovës dhe Maqedonisë së Veriut në protestë po dëmton imazhin kombëtar. Kryeministri Edi Rama ka reaguar lidhur me protestën që po  mbahet në Tiranë, duke ndarë në rrjetet sociale postimin e një qytetareje . Kreu i qeverisë ka nënvizuar se shumë sponsor po përpiqen të s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T15:11:15+00:00",
+      "dateStr": "21 Jun, 15:11",
+      "isNew": true,
+      "id": "abc11782054675"
+    },
+    {
+      "title": "Shpërdorimi financiar në FFM, sigurohen edhe 4 të dyshuar",
+      "link": "https://24-ore.com/shperdorimi-financiar-ne-ffm-sigurohen-edhe-4-te-dyshuar/",
+      "description": "Prokuroria për Ndjekjen e Krimit të Organizuar dhe Korrupsionit ka njoftuar se në rastin e dyshimeve për shpërdorim në Federatën e Futbollit të Maqedonisë janë siguruar edhe katër persona, të cilët paraprakisht ishin të pakapshëm për organet e rendit. Sipas njoftimit të Prokurorisë, dy nga të dyshua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-21T15:08:55+00:00",
+      "dateStr": "21 Jun, 15:08",
+      "isNew": true,
+      "id": "24 91782054535"
+    },
+    {
+      "title": "“Akt kriminal dhe antisemit”/ Berisha pas grisjes së flamurit izraelit: Të ndëshkohet autori",
+      "link": "https://abcnews.al/akt-kriminal-dhe-antisemit-berisha-pas-grisjes-se-flamurit-izraelit-te-ndeshkohet-autori/",
+      "description": "Reagimeve dënuese për heqjen dhe grisjen e flamurit të Izraelit në protestën e së shtunës, iu bashkua dhe Sali Berisha, që kërkon dhe dënim sipas ligjit të personit që kreu aktin. Selia blu shpërndau një qëndrim duke thënë se PD-ja dënon me forcën më të madhe grisjen e flamurit të Izraelit, të ngrit",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T15:06:19+00:00",
+      "dateStr": "21 Jun, 15:06",
+      "isNew": true,
+      "id": "abc21782054379"
+    },
+    {
+      "title": "News Hour me Sali Doçi, (21/06/2026)",
+      "link": "https://abcnews.al/news-hour-me-sali-doci-21-06-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T15:01:14+00:00",
+      "dateStr": "21 Jun, 15:01",
+      "isNew": true,
+      "id": "abc31782054074"
+    },
+    {
+      "title": "Izraeli: Nuk do të tërhiqemi nga zona e sigurisë në Libanin jugor",
+      "link": "https://abcnews.al/izraeli-nuk-do-te-terhiqemi-nga-zona-e-sigurise-ne-libanin-jugor/",
+      "description": "Ministri izraelit i Mbrojtjes, Yisrael Katz deklaroi se forcat izraelite nuk kanë asnjë kufizim në veprimet e tyre për të neutralizuar kërcënimet në Liban dhe se do të vijojnë të qëndrojnë në zonat që Izraeli i konsideron pjesë të “zonës së sigurisë” në jug të vendit. Në një deklaratë zyrtare, Katz ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T14:44:04+00:00",
+      "dateStr": "21 Jun, 14:44",
+      "isNew": true,
+      "id": "abc41782053044"
+    },
+    {
+      "title": "Tejkaluan orarin e protestës dhe bllokuan qarkullimin në “Dëshmorët e Kombit”, 9 persona nën hetim",
+      "link": "https://abcnews.al/tejkaluan-orarin-e-protestes-dhe-bllokuan-qarkullimin-ne-deshmoret-e-kombit-9-persona-nen-hetim/",
+      "description": "Policia e Tiranës ka proceduar penalisht në gjendje të lirë 9 shtetas, të cilët dyshohet se kanë shkelur ligjin duke qëndruar në mënyrë të kundërligjshme në bulevardin “Dëshmorët e Kombit” pas përfundimit të një tubimi të zhvilluar më 20 qershor 2026. Sipas njoftimit zyrtar, rreth orës 22:00, pas pë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T14:17:23+00:00",
+      "dateStr": "21 Jun, 14:17",
+      "isNew": true,
+      "id": "abc51782051443"
+    },
+    {
+      "title": "Trump kërcënon Iranin: Do t’ju godasim edhe më fort nëse nuk frenoni Hezbollahun",
+      "link": "https://abcnews.al/trump-kercenon-iranin-do-tju-godasim-edhe-me-fort-nese-nuk-frenoni-hezbollahun/",
+      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump ka paralajmëruar Iranin se mund të përballet me sulme edhe më të ashpra nëse nuk ndalon veprimtarinë e aleatëve të tij në Liban. Përmes një deklarate publike, Trump iu referua Hezbollahut, grupit paramilitar të mbështetur nga Irani, i cili prej muajsh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-21T14:10:22+00:00",
+      "dateStr": "21 Jun, 14:10",
+      "isNew": true,
+      "id": "abc61782051022"
     },
     {
       "title": "Rrezikoi pushuesit duke hyrë në zonën e sigurisë, gjobitet poseduesi i mjetit lundrues në Sarandë",
@@ -122,7 +199,7 @@
       "date": "2026-06-21T13:31:39+00:00",
       "dateStr": "21 Jun, 13:31",
       "isNew": true,
-      "id": "abc01782048699"
+      "id": "abc71782048699"
     },
     {
       "title": "Përdhosja ndaj flamurit Izraelit/ Frrok Çupi: Protesta në Tiranë tregoi elemente dhune dhe racizmi!",
@@ -133,7 +210,7 @@
       "date": "2026-06-21T13:22:53+00:00",
       "dateStr": "21 Jun, 13:22",
       "isNew": true,
-      "id": "abc11782048173"
+      "id": "abc81782048173"
     },
     {
       "title": "Aksident në aksin Korçë-Bilisht, automjeti përplas një person me biçikletë pranë Dishnicës",
@@ -144,84 +221,7 @@
       "date": "2026-06-21T13:16:41+00:00",
       "dateStr": "21 Jun, 13:16",
       "isNew": true,
-      "id": "abc21782047801"
-    },
-    {
-      "title": "News Line me Fabiola Hoxha, (21/06/2026)",
-      "link": "https://abcnews.al/news-line-me-fabiola-hoxha-21-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T12:59:53+00:00",
-      "dateStr": "21 Jun, 12:59",
-      "isNew": true,
-      "id": "abc31782046793"
-    },
-    {
-      "title": "EMRI/ Aksident me vdekje në aksin Fushë Krujë–Laç, identifikohet viktima",
-      "link": "https://abcnews.al/emri-aksident-me-vdekje-ne-aksin-fushe-kruje-lac-identifikohet-viktima/",
-      "description": "Një aksident i rëndë me pasojë vdekjen ka ndodhur në aksin e vjetër rrugor Fushë Krujë–Laç. Sipas informacioneve paraprake, një automjet tip “Benz” është përplasur me një motoçikletë, me të cilën po udhëtonte Gjin Kola, banor i zonës. Si pasojë e përplasjes, drejtuesi i motoçikletës ka humbur jetën ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T12:54:55+00:00",
-      "dateStr": "21 Jun, 12:54",
-      "isNew": true,
-      "id": "abc41782046495"
-    },
-    {
-      "title": "Katari njofton fillimin e negociatave SHBA–Iran në Zvicër",
-      "link": "https://abcnews.al/katari-njofton-fillimin-e-negociatave-shba-iran-ne-zvicer/",
-      "description": "Katari njoftoi fillimin e bisedimeve SHBA-Iran në Zvicër, me pjesëmarrjen e ndërmjetësve nga Katari dhe Pakistani për të diskutuar zbatimin e kushteve të një marrëveshjeje të përkohshme midis dy palëve. “Janë krijuar grupe pune teknike dhe ekspertësh të specializuar për të negociuar dispozitat e mar",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T12:40:40+00:00",
-      "dateStr": "21 Jun, 12:40",
-      "isNew": true,
-      "id": "abc51782045640"
-    },
-    {
-      "title": "BE investon në ekonominë e gjelbër/ Në qendër të projekteve, mbrojtja dhe përdorimi i burimeve natyrore",
-      "link": "https://abcnews.al/be-investon-ne-ekonomine-e-gjelber-ne-qender-te-projekteve-mbrojtja-dhe-perdorimi-i-burimeve-natyrore/",
-      "description": "Projektet e financuara nga Bashkimi Evropian po nxisin gjithnjë e më shumë zbatimin e praktikave të ekonomisë qarkulluese në Shqipëri. Në Lushnjë, një laborator i specializuar po promovon përdorimin e ambalazheve të ripërdorshme dhe sistemeve të rimbushjes për produktet kozmetike, duke kontribuar në",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T12:33:37+00:00",
-      "dateStr": "21 Jun, 12:33",
-      "isNew": true,
-      "id": "abc61782045217"
-    },
-    {
-      "title": "Vapa shton virozat te fëmijët/ Mjekët: Rritje e rasteve me temperatura dhe infeksione gjatë verës",
-      "link": "https://abcnews.al/vapa-shton-virozat-te-femijet-mjeket-rritje-e-rasteve-me-temperatura-dhe-infeksione-gjate-veres/",
-      "description": "Nisja e sezonit veror dhe rritja e temperaturave ka sjellë shtim të numrit të fëmijëve që paraqiten te mjeku për ndihmë mjekësore. Sipas mjekes Anila Sevdari, frekuentimi i plazheve, pishinave dhe aktiviteteve në grup po shoqërohet me viroza sezonale dhe probleme të lëkurës te të vegjlit. “Kemi prob",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T11:55:46+00:00",
-      "dateStr": "21 Jun, 11:55",
-      "isNew": true,
-      "id": "abc71782042946"
-    },
-    {
-      "title": "Portierët vijnë nga ishujt/ Heroi i radhës vjen nga vendi më i vogël i Botërorit, Curaçao",
-      "link": "https://abcnews.al/portieret-vijne-nga-ishujt-heroi-i-radhes-vjen-nga-vendi-me-i-vogel-i-boterorit-curacao/",
-      "description": "Rekordet vendosen për t’u thyer, ndërsa futbolli po luhet kudo. Portierët më të mirë në këtë kupë të botës po vijnë nga ishujt dhe pas Vozinjës së Kepit të Gjelbër, ja ku kemi heroin e radhës. Ky është gardiani i Kurasaos, Iloi Rum, I cili bëri plot 15 pritje në duelin mes ekipit të tij [...]Read Mo",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T11:43:00+00:00",
-      "dateStr": "21 Jun, 11:43",
-      "isNew": true,
-      "id": "abc81782042180"
-    },
-    {
-      "title": "“Peshkatarët” habisin në Botëror/ Curaçao merr pikën e parë në një turne të madh nga FIFA",
-      "link": "https://abcnews.al/peshkataret-habisin-ne-boteror-curacao-merr-piken-e-pare-ne-nje-turne-te-madh-nga-fifa/",
-      "description": "Duhej të vinte edhe kjo ditë. Ndoshta, presidentit të UEFA-s, Aleksandër Çeferin, nuk i pëlqen edhe aq ky Botëror me 48 skuadra, ku duket sikur nuk ka mbetur kush pa hyrë, por gjithsesi kur një ekipi liliput si Kurasao merr pikën e parë, padyshim që është historike. Skuadra kombëtare e një ishulli m",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-21T11:39:26+00:00",
-      "dateStr": "21 Jun, 11:39",
-      "isNew": true,
-      "id": "abc91782041966"
+      "id": "abc91782047801"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
