@@ -1,8 +1,96 @@
 {
-  "lastUpdated": "2026-06-24T22:12:58.184453+00:00",
+  "lastUpdated": "2026-06-25T00:05:54.040730+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Burgeri Amerikan",
+      "link": "https://24-ore.com/burgeri-amerikan/",
+      "description": "Ballina/Kerko/Burgeri Amerikan 🍔 AmerikaneE lehte Burgeri Amerikan All American Burger Një recetë klasike për zgarë në verë, Burgeri Amerikan kombinon mishin e grirë të njomë me përbërës të shijshëm ideal për mbledhje familjare ose si shoqërues për të ndjekur një event sportiv. WhatsAppKopjoPrinto K",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-24T23:52:39+00:00",
+      "dateStr": "24 Jun, 23:52",
+      "isNew": true,
+      "id": "24 01782345159"
+    },
+    {
+      "title": "Pad See-Ew",
+      "link": "https://24-ore.com/pad-see-ew/",
+      "description": "Ballina/Kerko/Pad See-Ew 🍜 AziatikeMesatare Pad See-Ew Pad See-Ew Ky gatim klasik nga Thailanda kombinon makaronat e orizit të skuqura me mish derri, perime dhe salca të shijshme, duke e bërë atë një vakt të mrekullueshëm që përgatitet shpejt. WhatsAppKopjoPrinto KOHA 45 min RACIONE 2 KALORI 0 Perbe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-24T23:52:30+00:00",
+      "dateStr": "24 Jun, 23:52",
+      "isNew": true,
+      "id": "24 11782345150"
+    },
+    {
+      "title": "Pulë me salçiçe derri në një tigan",
+      "link": "https://24-ore.com/pule-me-salcice-derri-ne-nje-tigan/",
+      "description": "Ballina/Kerko/Pulë me salçiçe derri në një tigan 🥗 ShendetshmeE lehte Pulë me salçiçe derri në një tigan Chicken &#38; chorizo one-pan Kurseni kohën tuaj me këtë gatim, do të përgatisni pulën, salçiçet e derrit (chorizo), orizin dhe specat në një tigan të vetëm. Është e mbushur me shije dhe me kalor",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-24T23:23:58+00:00",
+      "dateStr": "24 Jun, 23:23",
+      "isNew": true,
+      "id": "24 21782343438"
+    },
+    {
+      "title": "Salmon i pjekur lehtë në skarë",
+      "link": "https://24-ore.com/salmon-i-pjekur-lehte-ne-skare/",
+      "description": "Ballina/Kerko/Salmon i pjekur lehtë në skarë 🐟 DetareE lehte Salmon i pjekur lehtë në skarë Easy Grilled Salmon Kjo recetë për salmon të griluar është jashtëzakonisht e lehtë dhe me shije të shkëlqyer, duke siguruar peshk të gatuar në mënyrë perfekte me një teksturë të butë. WhatsAppKopjoPrinto KOHA",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-24T23:23:47+00:00",
+      "dateStr": "24 Jun, 23:23",
+      "isNew": true,
+      "id": "24 31782343427"
+    },
+    {
+      "title": "Kujdes! Mos i kombinoni këto pije me ilaçet e tensionit",
+      "link": "https://24-ore.com/kujdes-mos-i-kombinoni-keto-pije-me-ilacet-e-tensionit/",
+      "description": "Personat që marrin ilaçe për tensionin e lartë të gjakut, si frenuesit ACE apo beta-bllokuesit, duhet të tregojnë kujdes jo vetëm me ushqimet, por edhe me pijet që konsumojnë. Disa prej tyre mund të ndikojnë në efektivitetin e trajtimit ose të shkaktojnë efekte anësore të padëshiruara. Kardiologët p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-24T22:54:58+00:00",
+      "dateStr": "24 Jun, 22:54",
+      "isNew": true,
+      "id": "24 41782341698"
+    },
+    {
+      "title": "Studimi: Si po përhapen në TikTok informacione të rreme rreth kremrave të diellit",
+      "link": "https://24-ore.com/studimi-si-po-perhapen-ne-tiktok-informacione-te-rreme-rreth-kremrave-te-diellit/",
+      "description": "Videot për kremrat mbrojtës nga dielli janë ndër më të shikuarat në TikTok, por një studim i ri ngre alarmin se përmbajtjet që bëhen më virale shpesh janë ato që përmbajnë informacione të pasakta. Sipas një studimi të publikuar në revistën shkencore PLOS Digital Health, studiuesit nga Universiteti i",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-24T22:54:51+00:00",
+      "dateStr": "24 Jun, 22:54",
+      "isNew": true,
+      "id": "24 51782341691"
+    },
+    {
+      "title": "Ministri i Mbrojtjes me 7 paga shteti/ Nufi bën miliona nga bordet, 30 mijë euro vetëm nga “Durrës Marina” dhe “Kayo”",
+      "link": "https://24-ore.com/ministri-i-mbrojtjes-me-7-paga-shteti-nufi-ben-miliona-nga-bordet-30-mije-euro-vetem-nga-durres-marina-dhe-kayo/",
+      "description": "Nuk kanë fund bëmat e ministrave të Edi Ramës. Ermal Nufi mori drejtimin e Ministrisë së Mbrojtjes në shkurt, duke zëvendësuar Pirro Vengun, i cili e ktheu ministrinë në vend qokash për familjarët. Por nuk mbeti pas as Ermal Nufi, i cili ka bërë miliona duke shëtitur nga njëri bord në tjetrin. Sipas",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-24T22:37:24+00:00",
+      "dateStr": "24 Jun, 22:37",
+      "isNew": true,
+      "id": "24 61782340644"
+    },
+    {
+      "title": "Roger Milla mbetet golashënuesi më i moshuar në historinë e Kupës së Botës, Ronaldo i dyti",
+      "link": "https://24-ore.com/roger-milla-mbetet-golashenuesi-me-i-moshuar-ne-historine-e-kupes-se-botes-ronaldo-i-dyti/",
+      "description": "Cristiano Ronaldo shënoi në edicionin e 2026 të Kupës së Botës dhe u bë golashënuesi i dytë më i moshuar në histori të turneut, duke gjetur rrjetën në ndeshjen ndaj Uzbekistanit më 23 qershor 2026 në moshën 41 vjeç e 138 ditë. Raporton bbc se rekordi i vjetër mbahet nga kamerunasi Roger Milla, i cil",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-24T22:14:57+00:00",
+      "dateStr": "24 Jun, 22:14",
+      "isNew": true,
+      "id": "24 71782339297"
+    },
     {
       "title": "Protesta/ Nura: Berisha pranon vetëm dorëheqjen e Ramës, jo kërkesat e tjera të protestuesve",
       "link": "https://abcnews.al/protesta-nura-berisha-pranon-vetem-doreheqjen-e-rames-jo-kerkesat-e-tjera-te-protestuesve/",
@@ -23,7 +111,7 @@
       "date": "2026-06-24T21:38:20+00:00",
       "dateStr": "24 Jun, 21:38",
       "isNew": true,
-      "id": "24 01782337100"
+      "id": "24 81782337100"
     },
     {
       "title": "​Haradinaj: AAK nuk merr pjesë në Qeverinë Kurti, ai e do LDK-në si një material për kontroll total",
@@ -34,51 +122,7 @@
       "date": "2026-06-24T21:38:09+00:00",
       "dateStr": "24 Jun, 21:38",
       "isNew": true,
-      "id": "24 11782337089"
-    },
-    {
-      "title": "Fermerët e kastravecit në Elbasan, diferenca mes fermës dhe tregut rrit pakënaqësinë e prodhuesve",
-      "link": "https://24-ore.com/fermeret-e-kastravecit-ne-elbasan-diferenca-mes-fermes-dhe-tregut-rrit-pakenaqesine-e-prodhuesve/",
-      "description": "20 lekë të vjetra për kilogram. Ky është çmimi me të cilin fermerët e zonës së Muriqanit po shesin kastravecin, ndonëse në tregjet e vendit ai u ofrohet konsumatorëve me disa herë më shumë. Në kulmin e sezonit të prodhimit në sera, fermerët thonë se po përballen me një situatë të vështirë. Pavarësis",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-24T21:37:53+00:00",
-      "dateStr": "24 Jun, 21:37",
-      "isNew": true,
-      "id": "24 21782337073"
-    },
-    {
-      "title": "Analisti Lita: Protestat në Tiranë do të vazhdojnë deri në mbylljen e tranzicionit",
-      "link": "https://24-ore.com/analisti-lita-protestat-ne-tirane-do-te-vazhdojne-deri-ne-mbylljen-e-tranzicionit/",
-      "description": "I ftuar në emisionin “Now me Erla Mëhillin”, analisti Lavdrim Lita komentoi protestat në Tiranë, duke u ndalur te zhvillimet dhe perspektiva e tyre në vijim. Sipas tij, protestat do të vazhdojnë deri në momentin e mbylljes së tranzicionit, ndërsa paralajmëroi se problem kryesor mund të jetë radikali",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-24T21:37:40+00:00",
-      "dateStr": "24 Jun, 21:37",
-      "isNew": true,
-      "id": "24 31782337060"
-    },
-    {
-      "title": "Protestat në Tiranë, Gjyli: Mendimi ndryshe po përballet me linçim në rrjete sociale",
-      "link": "https://24-ore.com/protestat-ne-tirane-gjyli-mendimi-ndryshe-po-perballet-me-lincim-ne-rrjete-sociale/",
-      "description": "Duke komentuar protestat në Tiranë, analistja dhe pedagogia Arsejda Gjyli tha në emisionin “Now me Erla Mëhillin” se figurat që dalin në krye të protestës nuk janë thjesht zëra individualë, por mbartin një peshë të konsiderueshme në diskursin publik.Ajo theksoi se këto figura, shpesh me kredibilitet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-24T21:37:27+00:00",
-      "dateStr": "24 Jun, 21:37",
-      "isNew": true,
-      "id": "24 41782337047"
-    },
-    {
-      "title": "Meloni: Udhëheqësit evropianë duhet të forcojnë komponentin evropian të NATO-s",
-      "link": "https://24-ore.com/meloni-udheheqesit-evropiane-duhet-te-forcojne-komponentin-evropian-te-nato-s/",
-      "description": "Udhëheqësit evropianë duhet të forcojnë komponentin evropian të NATO-s, tha sot kryeministrja italiane Giorgia Meloni pas bisedës me kolegët e saj francezë, gjermanë, britanikë dhe polakë në takimin e grupit të mbrojtjes E5 në Berlin. “Evropa duhet të marrë përsipër përgjegjësitë e saj për mbrojtjen",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-24T21:37:14+00:00",
-      "dateStr": "24 Jun, 21:37",
-      "isNew": true,
-      "id": "24 51782337034"
+      "id": "24 91782337089"
     },
     {
       "title": "Rama publikon mesazhet: Pedagogu kërcënon personat të cilët nuk i bashkangjiten protestës",
@@ -90,50 +134,6 @@
       "dateStr": "24 Jun, 21:32",
       "isNew": true,
       "id": "abc11782336767"
-    },
-    {
-      "title": "“Kërkesat e lexuara nga Goxhaj ishin nxjerrë nga Flamur Noka para një jave”, avokati zbulon prapaskenat nga protesta",
-      "link": "https://24-ore.com/kerkesat-e-lexuara-nga-goxhaj-ishin-nxjerre-nga-flamur-noka-para-nje-jave-avokati-zbulon-prapaskenat-nga-protesta/",
-      "description": "Avokati Edmond Petraj tha se fillimisht protestat ishin efektive dhe nisën për shkak të pakënaqësive të qytetarëve me klasën politike. Por Petraj shtoi se më pas, Sali Berisha angazhoi strukturat e PD-së në protestë, duke tentuar që ta përçajë dhe ‘kapë’ atë. Lidhur me kërkesat e paraqitura në prote",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-24T21:16:10+00:00",
-      "dateStr": "24 Jun, 21:16",
-      "isNew": true,
-      "id": "24 61782335770"
-    },
-    {
-      "title": "Romeo Kara reagon ashpër ndaj PD: Nuk ngrihen 300 mijë shqiptarë për t’i dhënë pushtetin çunit të Fahri Balliut!",
-      "link": "https://24-ore.com/romeo-kara-reagon-ashper-ndaj-pd-nuk-ngrihen-300-mije-shqiptare-per-ti-dhene-pushtetin-cunit-te-fahri-balliut/",
-      "description": "Avokati Romeo Kara vlerësoi protestat, duke thënë se ato vranë frikën e popullit për t’u ngritur për të drejtat e tyre. Por avokati Kara shtoi se mes protestuesve ka edhe deputetë dhe eksponentë të lartë të PD-së. Ai tha se deputetët e PD-së nuk mund të dalin në protestë, pa u ndarë më parë nga Sali",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-24T21:15:55+00:00",
-      "dateStr": "24 Jun, 21:15",
-      "isNew": true,
-      "id": "24 71782335755"
-    },
-    {
-      "title": "Ekstradohet nga Serbia në Maqedoni 19-vjeçari i kërkuar me urdhërarrest ndërkombëtar",
-      "link": "https://24-ore.com/ekstradohet-nga-serbia-ne-maqedoni-19-vjecari-i-kerkuar-me-urdherarrest-nderkombetar/",
-      "description": "Ekstradohet nga Serbia personi i kërkuar me urdhërarrest ndërkombëtarSot (24.06.2026), nga Republika e Serbisë në vendin tonë është ekstraduar Sait Saitov (19) nga Shkupi, i cili kërkohej me urdhërarrest ndërkombëtar. Siç thonë nga MPB, ai kërkohej për shkak të dyshimit të bazuar për kryerjen e vepr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-24T21:08:16+00:00",
-      "dateStr": "24 Jun, 21:08",
-      "isNew": true,
-      "id": "24 81782335296"
-    },
-    {
-      "title": "Haziri: LDK nuk është në ditët më të mira, synim i përbashkët është rikthimi si partia e parë",
-      "link": "https://24-ore.com/haziri-ldk-nuk-eshte-ne-ditet-me-te-mira-synim-i-perbashket-eshte-rikthimi-si-partia-e-pare/",
-      "description": "Nënkryetari i LDK-së, Lutfi Haziri ka deklaruar se rezultati i zgjedhjeve të 7 qershorit është më i mirë se ai i 28 dhjetorit, por sipas tij, Lidhja Demokratike ende nuk është në gjendje të kënaqshme dhe ka nevojë për rikthim të plotë politik. Në Debat Plus, Haziri tha se përpjekjet për forcimin e p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-24T21:08:05+00:00",
-      "dateStr": "24 Jun, 21:08",
-      "isNew": true,
-      "id": "24 91782335285"
     },
     {
       "title": "Aksident në Lezhë-Milot, plagosen 4 persona",
