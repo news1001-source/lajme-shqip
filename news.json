@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-06-25T21:27:34.458275+00:00",
+  "lastUpdated": "2026-06-25T23:13:33.376025+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Rada: Gazetarë dhe aktivistë të njohur paguhen me ‘Crypto’ nga Irani. Protesta ‘dogji’ Berishën të parin!",
+      "link": "https://abcnews.al/rada-gazetare-dhe-aktiviste-te-njohur-paguhen-me-crypto-nga-irani-protesta-dogji-berishen-te-parin/",
+      "description": "Gazetari Ardit Rada komentoi në “Ora e fundit” protestat në Tiranë dhe përplasjet në distancë mes Edi Ramës dhe organizatorëve të tyre. Rada tha se kryeministri nuk ka bërë asnjë zbulim kur ka ngritur akuza për njerëz të ndikuar nga vende armike, si pjesë të tubimeve në Tiranë. “Çfarë tha Edi Rama n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-25T21:42:26+00:00",
+      "dateStr": "25 Jun, 21:42",
+      "isNew": true,
+      "id": "abc01782423746"
+    },
+    {
+      "title": "Abdixhiku për Muhaxherin e Ahmetin: Kam hy në zjarr për ta, i kam ruajtur kur kanë bërë gafa",
+      "link": "https://24-ore.com/abdixhiku-per-muhaxherin-e-ahmetin-kam-hy-ne-zjarr-per-ta-i-kam-ruajtur-kur-kane-bere-gafa/",
+      "description": "Kryetari i Lidhjes Demokratike të Kosovës, Lumir Abdixhiku, ka folur për zhvillimet e fundit brenda partisë, duke i cilësuar disa prej reagimeve si të pazakonta dhe jo në përputhje me mënyrën tradicionale të funksionimit të këtij subjekti politik. Në emisionin “Rubikon” në Klan Kosova, ai tha se do ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-25T21:36:25+00:00",
+      "dateStr": "25 Jun, 21:36",
+      "isNew": true,
+      "id": "24 01782423385"
+    },
+    {
+      "title": "Valë e të nxehtit në Kosovë gjatë pesë ditëve të ardhshme, IHK apel për kujdes",
+      "link": "https://24-ore.com/vale-e-te-nxehtit-ne-kosove-gjate-pese-diteve-te-ardhshme-ihk-apel-per-kujdes/",
+      "description": "Instituti Hidrometeorologjik ka bërë të ditur se gjatë pesë ditëve të ardhshme do të ketë rritje graduale e temperaturave. IHK u ka bërë apel qytetarëve për kujdes nga ekspozimi i zgjatur në diell dhe të qëndrojnë të hidratuar. “Sipas parashikimeve të IHMK-së, nga data 25–29 qershor 2026, temperatur",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-25T21:36:11+00:00",
+      "dateStr": "25 Jun, 21:36",
+      "isNew": true,
+      "id": "24 11782423371"
+    },
+    {
+      "title": "Dyshimet për Reece James dhe Declan Rice para ndeshjes së Anglisë me Panamën",
+      "link": "https://24-ore.com/dyshimet-per-reece-james-dhe-declan-rice-para-ndeshjes-se-anglise-me-panamen/",
+      "description": "Anglia po shkon drejt ndeshjes të fundit të Grupit L ndaj Panamës me shqetësime për gjendjen fizike të dy lojtarëve kryesorë. Mbrojtësi i djathtë Reece James mungoi në seancën stërvitore të së enjtes pasi pësoi një problem me muskujt e kofshës gjatë barazimit 0-0 me Ganën të martën; 26-vjeçari i Che",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-25T21:34:17+00:00",
+      "dateStr": "25 Jun, 21:34",
+      "isNew": true,
+      "id": "24 21782423257"
+    },
+    {
+      "title": "Anila Denaj zbulon porositë e Ramës për deputetët: Duhet të jemi më…",
+      "link": "https://24-ore.com/anila-denaj-zbulon-porosite-e-rames-per-deputetet-duhet-te-jemi-me/",
+      "description": "Deputetja e Partisë Socialiste, Anila Denaj, ka treguar porositë që kryeministri Edi Rama u ka dhënë deputetëve socialistë gjatë mbledhjes së fundit të grupit parlamentar. E ftuar në emisionin Off the Record me Andrea Dangllin në A2 CNN, Denaj tha se mesazhi kryesor i Ramës ishte që deputetët të jen",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-25T21:32:22+00:00",
+      "dateStr": "25 Jun, 21:32",
+      "isNew": true,
+      "id": "24 31782423142"
+    },
     {
       "title": "Ikballe Huduti “non grata” në Shqipëri/ Karamuço: Do ketë arrestime. Autoritetet kanë identifikuar persona të tjerë",
       "link": "https://abcnews.al/ikballe-huduti-non-grata-ne-shqiperi-karamuco-do-kete-arrestime-autoritetet-kane-identifikuar-persona-te-tjere/",
@@ -12,7 +67,7 @@
       "date": "2026-06-25T21:17:28+00:00",
       "dateStr": "25 Jun, 21:17",
       "isNew": true,
-      "id": "abc01782422248"
+      "id": "abc11782422248"
     },
     {
       "title": "Bota në ndihmë të Venezuelës/ Tërmeti shkatërrimtar, dhjetëra vende gati të ndërhyjnë",
@@ -23,7 +78,7 @@
       "date": "2026-06-25T21:16:11+00:00",
       "dateStr": "25 Jun, 21:16",
       "isNew": true,
-      "id": "abc11782422171"
+      "id": "abc21782422171"
     },
     {
       "title": "Trump fiton betejën për emigracionin/ Gjykata Supreme pro politikës së administratës për depërtimet e haitianëve dhe sirianëve",
@@ -34,7 +89,7 @@
       "date": "2026-06-25T21:10:51+00:00",
       "dateStr": "25 Jun, 21:10",
       "isNew": true,
-      "id": "abc21782421851"
+      "id": "abc31782421851"
     },
     {
       "title": "Mucunski: Jam tmerrësisht i zhgënjyer nga reagimi i Sofjes ndaj publikimit të notës nga udhëtimi i familjes së Kryeministrit në Bullgari",
@@ -45,7 +100,7 @@
       "date": "2026-06-25T21:08:50+00:00",
       "dateStr": "25 Jun, 21:08",
       "isNew": true,
-      "id": "24 01782421730"
+      "id": "24 41782421730"
     },
     {
       "title": "“Tokat Bujqësore”/ E akuzoi për “shitje të territorit”, Rama i përgjigjet protestuesit: Nuk lexon dot edhe një projektligj me 10 nene. Ligji bëhet efektiv 7 vjet pas hyrjes së Shqipërisë në BE",
@@ -56,7 +111,7 @@
       "date": "2026-06-25T21:08:34+00:00",
       "dateStr": "25 Jun, 21:08",
       "isNew": true,
-      "id": "24 11782421714"
+      "id": "24 51782421714"
     },
     {
       "title": "Moti i keq, aksident në hyrje të tunelit të Skërficës",
@@ -67,7 +122,7 @@
       "date": "2026-06-25T21:08:20+00:00",
       "dateStr": "25 Jun, 21:08",
       "isNew": true,
-      "id": "24 21782421700"
+      "id": "24 61782421700"
     },
     {
       "title": "“Rama jepe dorëheqjen”, protestuesit marshojnë dhe ndalen para Parlamentit në Tiranë",
@@ -78,7 +133,7 @@
       "date": "2026-06-25T21:07:52+00:00",
       "dateStr": "25 Jun, 21:07",
       "isNew": true,
-      "id": "24 31782421672"
+      "id": "24 71782421672"
     },
     {
       "title": "Gazetarja: Rama përballë “fëmijëve politikë” të tij, kërkojnë zgjidhje për problemet e krijuara nën qeverisjen e tij",
@@ -89,7 +144,7 @@
       "date": "2026-06-25T21:07:21+00:00",
       "dateStr": "25 Jun, 21:07",
       "isNew": true,
-      "id": "24 41782421641"
+      "id": "24 81782421641"
     },
     {
       "title": "Rama, përgjigje kritikëve me vargjet e Fishtës: Shikojeni se kush do t’ju shpëtojë nga unë…",
@@ -100,18 +155,7 @@
       "date": "2026-06-25T21:03:14+00:00",
       "dateStr": "25 Jun, 21:03",
       "isNew": true,
-      "id": "24 51782421394"
-    },
-    {
-      "title": "“S’ka më shtigje dialogu”, Manjani për protestuesit: Po sillen si Basha! Dështimi i Ramës po na duket lule",
-      "link": "https://24-ore.com/ska-me-shtigje-dialogu-manjani-per-protestuesit-po-sillen-si-basha-deshtimi-i-rames-po-na-duket-lule/",
-      "description": "Ylli Manjani thotë se protestuesit kanë kërkesa politike, por nga ana tjetër i kanë mbyllur të gjitha shtigjet e dialogut me kryeministrin pasi kërkojnë dorëheqjen e tij. Ai tha gjithashtu se protestuesit në fund do shkojnë të votojnë si delet. “Edhe Luli ia kërkoi dorëheqjen Ramës, edhe protesutesi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-25T21:02:49+00:00",
-      "dateStr": "25 Jun, 21:02",
-      "isNew": true,
-      "id": "24 61782421369"
+      "id": "24 91782421394"
     },
     {
       "title": "“Alternativa mund të jetë më e keqe se lufta tani”/ Krisafi: Imazhi i Putinit si njeri i fortë, po shkërmoqet",
@@ -122,40 +166,7 @@
       "date": "2026-06-25T20:50:11+00:00",
       "dateStr": "25 Jun, 20:50",
       "isNew": true,
-      "id": "abc31782420611"
-    },
-    {
-      "title": "Njerëz në udhëkryq",
-      "link": "https://24-ore.com/njerez-ne-udhekryq/",
-      "description": "Nuk kam asnjë interes, anësi, tërheqje, apo bindje që të më ndikojë në qëndrimin tim ndaj çka ndodh në Shqipëri. E vetmja shtytje është ndjenja e pavullnetshme e dashurisë për vendlindjen dhe njerëzit me të cilët identifikohem për shkak të përkatësisë etnike dhe kombëtare. Këtyre, vendit dhe njerëzv",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-25T20:45:33+00:00",
-      "dateStr": "25 Jun, 20:45",
-      "isNew": true,
-      "id": "24 71782420333"
-    },
-    {
-      "title": "Mickoski: Fatkeqësisht ende nuk kemi sundim të ligjit, pres zbardhjen e të gjitha aferave",
-      "link": "https://24-ore.com/mickoski-fatkeqesisht-ende-nuk-kemi-sundim-te-ligjit-pres-zbardhjen-e-te-gjitha-aferave/",
-      "description": "Qëndrimi im është se, në mënyrë sistematike, sundimi i ligjit mbetet problem në perceptimin e qytetarëve, sepse në thelb ne nuk kemi sundim të ligjit, por kemi pazare në drejtësi, për fat të keq, tha Kryeministri Hristijan Mickoski Mickoski në &#8220;RTVM&#8221; theksoi se nuk është i kënaqur me sis",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-25T20:41:48+00:00",
-      "dateStr": "25 Jun, 20:41",
-      "isNew": true,
-      "id": "24 81782420108"
-    },
-    {
-      "title": "Abdixhiku: Kushdo që kërkon zgjedhje të reja është i çmendur, nuk ia do të mirën Kosovës",
-      "link": "https://24-ore.com/abdixhiku-kushdo-qe-kerkon-zgjedhje-te-reja-eshte-i-cmendur-nuk-ia-do-te-miren-kosoves/",
-      "description": "Kryetari i LDK-së, Lumir Abdixhiku, ka thënë se kushdo që kërkon zgjedhje të reja “është i çmendur”. Ai tha se duhet kërkuar stabiliteti politik si vlerë bazike, dhe drejt kësaj duhet të nisen partitë. “Duhet patjetër të ketë institucione. Absolutisht, kush kërkon zgjedhje të reja është i çmendur, n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-25T20:41:30+00:00",
-      "dateStr": "25 Jun, 20:41",
-      "isNew": true,
-      "id": "24 91782420090"
+      "id": "abc41782420611"
     },
     {
       "title": "Kina kundërshton sanksionet e reja të SHBA ndaj Kubës",
@@ -166,7 +177,7 @@
       "date": "2026-06-25T20:25:26+00:00",
       "dateStr": "25 Jun, 20:25",
       "isNew": true,
-      "id": "abc41782419126"
+      "id": "abc51782419126"
     },
     {
       "title": "“Paj Zotin shikojeni se kush do ju shpëtojë nga unë”, Rama publikon foton e protestuesit: Një patriot që nuk lexon dot një ligj me 10 nene",
@@ -177,7 +188,7 @@
       "date": "2026-06-25T20:07:24+00:00",
       "dateStr": "25 Jun, 20:07",
       "isNew": true,
-      "id": "abc51782418044"
+      "id": "abc61782418044"
     },
     {
       "title": "Portugalia gati të dërgojë 50 ekipe shpëtimi në Venezuelë pas tërmetit vdekjeprurës",
@@ -188,7 +199,7 @@
       "date": "2026-06-25T20:03:19+00:00",
       "dateStr": "25 Jun, 20:03",
       "isNew": true,
-      "id": "abc61782417799"
+      "id": "abc71782417799"
     },
     {
       "title": "Të shtëna me armë zjarri në Shkodër",
@@ -199,7 +210,7 @@
       "date": "2026-06-25T19:41:20+00:00",
       "dateStr": "25 Jun, 19:41",
       "isNew": true,
-      "id": "abc71782416480"
+      "id": "abc81782416480"
     },
     {
       "title": "Rritet ndjeshëm trafiku detar në Ngushticën e Hormuzit, niveli më i lartë pas luftës SHBA-Iran",
@@ -210,18 +221,7 @@
       "date": "2026-06-25T19:41:15+00:00",
       "dateStr": "25 Jun, 19:41",
       "isNew": true,
-      "id": "abc81782416475"
-    },
-    {
-      "title": "Cate Blanchett sfidon Inteligjencën Artificiale, lançon platformën për mbrojtjen e identitetit të artistëve",
-      "link": "https://abcnews.al/cate-blanchett-sfidon-inteligjencen-artificiale-lancon-platformen-per-mbrojtjen-e-identitetit-te-artisteve/",
-      "description": "Cate Blanchett është në krye të një projekti të ri dhe një mjeti falas online që u lejon artistëve të japin ose të refuzojnë lejen për përdorimin e imazhit të tyre nga inteligjenca artificiale. Çdo revolucion i madh teknologjik sjell pasoja të paparashikueshme që janë të vështira për t’u pranuar. Në",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-25T19:37:44+00:00",
-      "dateStr": "25 Jun, 19:37",
-      "isNew": true,
-      "id": "abc91782416264"
+      "id": "abc91782416475"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
