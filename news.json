@@ -1,8 +1,140 @@
 {
-  "lastUpdated": "2026-06-26T20:43:26.872722+00:00",
+  "lastUpdated": "2026-06-26T22:08:08.970651+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Ora e Fundit me Emilian Islami, (26/06/2026)",
+      "link": "https://abcnews.al/ora-e-fundit-me-emilian-islami-26-06-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-26T22:05:02+00:00",
+      "dateStr": "26 Jun, 22:05",
+      "isNew": true,
+      "id": "abc01782511502"
+    },
+    {
+      "title": "Edhe Dega e LDK-së në Rahovec del kundër Abdixhikut",
+      "link": "https://24-ore.com/edhe-dega-e-ldk-se-ne-rahovec-del-kunder-abdixhikut/",
+      "description": "Dega e Lidhjes Demokratike të Kosovës (LDK) në Rahovec ka kërkuar mbajtjen e zgjedhjeve të përgjithshme brenda partisë, nga niveli i nëndegëve deri te kryetari i partisë, pas analizës së rezultatit të zgjedhjeve të 7 qershorit 2026. Përmes një njoftimi publik, Dega e LDK-së në Rahovec ka bërë të dit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-26T21:41:19+00:00",
+      "dateStr": "26 Jun, 21:41",
+      "isNew": true,
+      "id": "24 01782510079"
+    },
+    {
+      "title": "“PD po përdor protestën”/ Petraj: Protestuesit duhet t’i kishin lënë kohë qeverisë të plotësonte kërkesat",
+      "link": "https://abcnews.al/pd-po-perdor-protesten-petraj-protestuesit-duhet-ti-kishin-lene-kohe-qeverise-te-plotesonte-kerkesat/",
+      "description": "Avokati Edmond Petraj thotë se PD po përdor protestën para Kryeministrisë dhe se përfaqësues të saj kanë dalë në shesh. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Petraj u shpreh se protesta nisi për arsye që shqetësonin qytetarët, por u devijua rrugës. Petraj shtoi se protestuesi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-26T21:34:33+00:00",
+      "dateStr": "26 Jun, 21:34",
+      "isNew": true,
+      "id": "abc11782509673"
+    },
+    {
+      "title": "Mes Mbappe e Haaland, shkëlqen Dembele/ Franca mund 4-1 Norvegjinë, “Topi i Artë” shënon tre gola",
+      "link": "https://abcnews.al/mes-mbappe-e-haaland-shkelqen-dembele-franca-mund-4-1-norvegjine-topi-i-arte-shenon-tre-gola/",
+      "description": "Ajo që duhet të ishte një finale për kreun e Grupit I në Kupën e Botës, u kthye në një miqësore. Franca mundi  Norvegjinë, duke kaluar si e para në raundin tjetër të turneut. Nuk kishte as sfide mes Mbappe dhe Haland. Francezi luajti 85 minuta pa realizuar. ndërsa norvegjezi u la pushim në këtë [...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-26T21:28:04+00:00",
+      "dateStr": "26 Jun, 21:28",
+      "isNew": true,
+      "id": "abc21782509284"
+    },
+    {
+      "title": "Mbi 35 mijë persona konsiderohen përdorues aktivë të substancave narkotike",
+      "link": "https://24-ore.com/mbi-35-mije-persona-konsiderohen-perdorues-aktive-te-substancave-narkotike/",
+      "description": "Mbi 35 mijë persona konsiderohen përdorues aktivë të substancave narkotike në Kosovë. Edhe më alarmues është fakti se në mesin e tyre ka të rinj nën moshën 16-vjeçare. RTK kishte transmetuar edhe hulumtimin “E Vërteta për Drogën”, ku një përdorues rrëfen momentin kur nisi rrugëtimin drejt varësisë –",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-26T21:26:46+00:00",
+      "dateStr": "26 Jun, 21:26",
+      "isNew": true,
+      "id": "24 11782509206"
+    },
+    {
+      "title": "Të shtëna me armë zjarri ndaj një servisi celularësh në Babrru, kapet i dyshuari 18-vjeçar",
+      "link": "https://24-ore.com/te-shtena-me-arme-zjarri-ndaj-nje-servisi-celularesh-ne-babrru-kapet-i-dyshuari-18-vjecar/",
+      "description": "Një ngjarje me armë zjarri është regjistruar mbrëmjen e së premtes në Babrru, në territorin e Komisariatit të Policisë Kamëz. Sipas informacionit paraprak, rreth orës 20:25, dyshohet se është qëlluar me armë zjarri në drejtim të një subjekti të mbyllur, konkretisht një servisi celularësh. Pas të sht",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-26T21:21:40+00:00",
+      "dateStr": "26 Jun, 21:21",
+      "isNew": true,
+      "id": "24 21782508900"
+    },
+    {
+      "title": "Pa bashkëpunim juridik: Si ua dërgon Kosova ftesat e gjykatave të dyshuarve në Serbi?",
+      "link": "https://24-ore.com/pa-bashkepunim-juridik-si-ua-dergon-kosova-ftesat-e-gjykatave-te-dyshuarve-ne-serbi/",
+      "description": "Ftesat për paraqitje në gjykatë, që institucionet e drejtësisë në Kosovë ua kanë dërguar personave që jetojnë në Serbi, të cilët dyshohen për krime lufte, kanë hapur debat publik: si i kanë siguruar institucionet e Kosovës adresat e tyre dhe kush ka marrë pjesë në dorëzimin e këtyre ftesave? Pasi në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-26T21:11:56+00:00",
+      "dateStr": "26 Jun, 21:11",
+      "isNew": true,
+      "id": "24 31782508316"
+    },
+    {
+      "title": "Lamallari: Luftë ndaj çdo ekstremisti/ Ministri i Brendshëm publikon deklaratat urrejtje-nxitëse të protestueses Ikballe Huduti",
+      "link": "https://abcnews.al/lamallari-lufte-ndaj-cdo-ekstremisti-ministri-i-brendshem-publikon-deklaratat-urrejtje-nxitese-te-protestueses-ikballe-huduti/",
+      "description": "Ministri i Punëve të Brendshme, Besfort Lamallari, ka reaguar sërish për vendimin që e shpall Ikballe Hudutin &#8220;person non grata&#8221; në Shqipëri. Nëpërmjet një postimi në rrjetin e tij social Facebook, ai shkruan se shpallja e saj person i padëshirueshëm në Shqipëri nuk nënkupton përndjekje ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-26T21:10:35+00:00",
+      "dateStr": "26 Jun, 21:10",
+      "isNew": true,
+      "id": "abc31782508235"
+    },
+    {
+      "title": "Rregullat e reja, ja si do të menaxhohet fondi i posaçëm i Lojërave të Fatit",
+      "link": "https://24-ore.com/rregullat-e-reja-ja-si-do-te-menaxhohet-fondi-i-posacem-i-lojerave-te-fatit/",
+      "description": "Këshilli i Ministrave ka miratuar vendimin e ri që përcakton rregullat dhe procedurat strikte për administrimin, arkëtimin dhe përdorimin e fondit të posaçëm të krijuar nga veprimtaritë e lojërave të fatit në Republikën e Shqipërisë. Ky vendim, i propozuar nga Ministria e Financave, vjen në zbatim t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-26T21:01:30+00:00",
+      "dateStr": "26 Jun, 21:01",
+      "isNew": true,
+      "id": "24 41782507690"
+    },
+    {
+      "title": "Durmishi: Tetova tregoi pjekuri dhe nuk ra në provokime",
+      "link": "https://24-ore.com/durmishi-tetova-tregoi-pjekuri-dhe-nuk-ra-ne-provokime/",
+      "description": "Ministri i Ekonomisë, Besar Durmishi ka reaguar lidhur me protestën e sotme të organizuar nga BDI në qytetin e Tetovë.Durmishi shkruan se Tetova tregoi pjekuri dhe nuk ra në provokime. &#8220;Tetovarët nuk ranë pre e provokimeve, as tentimit që dikush të shpërlahet për një problem që vetë e ka gatua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-26T20:56:21+00:00",
+      "dateStr": "26 Jun, 20:56",
+      "isNew": true,
+      "id": "24 51782507381"
+    },
+    {
+      "title": "“Berishës i ka ikur sheshi. PD nuk e mbështeti protestën për tetë ditë”",
+      "link": "https://24-ore.com/berishes-i-ka-ikur-sheshi-pd-nuk-e-mbeshteti-protesten-per-tete-dite/",
+      "description": "Analisti Agim Baçi deklaroi në emisionin “3D” të Alban Dudushit në RTSH1 se Partia Demokratike dhe kryetari i saj Sali Berisha kanë pësuar një goditje të rëndë politike pas protestave të fundit, duke humbur kontrollin mbi sheshin dhe rolin e menaxhuesit të pakënaqësisë popullore. “Nga krahu tjetër, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-26T20:56:21+00:00",
+      "dateStr": "26 Jun, 20:56",
+      "isNew": true,
+      "id": "24 61782507381"
+    },
+    {
+      "title": "Reforma në kufi, miratohet parimi “Një ndalesë-Një verifikim” për pasagjerët dhe mallrat",
+      "link": "https://24-ore.com/reforma-ne-kufi-miratohet-parimi-nje-ndalese-nje-verifikim-per-pasagjeret-dhe-mallrat/",
+      "description": "Këshilli i Ministrave ka miratuar një vendim të ri kornizë që riformaton rrjedhën procedurale të kontrolleve në pikat e kalimit kufitar të Republikës së Shqipërisë. Vendimi i propozuar nga Ministria e Punëve të Brendshme në zbatim të ligjit të vitit 2025 “Për kontrollin e kufirit shtetëror”, zyrtari",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-26T20:46:54+00:00",
+      "dateStr": "26 Jun, 20:46",
+      "isNew": true,
+      "id": "24 71782506814"
+    },
     {
       "title": "Agjencia detare e OKB: Evakuohen 115 anije nga Ngushtica e Hormuzit",
       "link": "https://abcnews.al/agjencia-detare-e-okb-evakuohen-115-anije-nga-ngushtica-e-hormuzit/",
@@ -12,7 +144,7 @@
       "date": "2026-06-26T20:36:47+00:00",
       "dateStr": "26 Jun, 20:36",
       "isNew": true,
-      "id": "abc01782506207"
+      "id": "abc41782506207"
     },
     {
       "title": "“PD do t’i përgjigjet protestuesve”, Këlliçi: Protesta na dha leksione, PD duhet të hapet dhe ripërtërihet",
@@ -23,7 +155,7 @@
       "date": "2026-06-26T20:32:30+00:00",
       "dateStr": "26 Jun, 20:32",
       "isNew": true,
-      "id": "24 01782505950"
+      "id": "24 81782505950"
     },
     {
       "title": "“Protesta nuk është çështje numrash”, Kadilli: Kërkesat mund t’i mbajnë edhe 1 vit njerëzit në shesh",
@@ -34,73 +166,7 @@
       "date": "2026-06-26T20:32:05+00:00",
       "dateStr": "26 Jun, 20:32",
       "isNew": true,
-      "id": "24 11782505925"
-    },
-    {
-      "title": "Dilni, z.President!",
-      "link": "https://24-ore.com/dilni-z-president/",
-      "description": "Çfarë dimë Shqipëria është Republikë Parlamentare dhe kjo republikë ju ka Juve Kryetar të saj. E keni marrë këtë post shtetëror, postin më të lartë të Republikës, jo nga vota e popullit, por nga vota shumicës së deputetëve të Kuvendit të Shqipërisë që nuk kishin zgjedhje tjetër veç të miratonin zgje",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-26T20:23:59+00:00",
-      "dateStr": "26 Jun, 20:23",
-      "isNew": true,
-      "id": "24 21782505439"
-    },
-    {
-      "title": "“Si do bënim ne pa ty”, letra tallëse e arkitektit holandez për Ramën: Mos bëj më zgjedhje, shpallu mbret se ke shumë shije",
-      "link": "https://24-ore.com/si-do-benim-ne-pa-ty-letra-tallese-e-arkitektit-holandez-per-ramen-mos-bej-me-zgjedhje-shpallu-mbret-se-ke-shume-shije/",
-      "description": "Reinier de Graaf është një arkitekt i njohur holandez, partner në studion e famshme OMA. Por ai është edhe një autor librash, kritik i mprehtë i arkitekturës bashkëkohore dhe marrëdhënies së saj me paratë dhe pushtetin. Ka shkruar librin e njohur “Four Walls and a Roof: The Complex Nature of a Simpl",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-26T20:22:02+00:00",
-      "dateStr": "26 Jun, 20:22",
-      "isNew": true,
-      "id": "24 31782505322"
-    },
-    {
-      "title": "Baçi: Berishës i ka ikur sheshi. PD nuk e mbështeti protestën për 8 ditë",
-      "link": "https://24-ore.com/baci-berishes-i-ka-ikur-sheshi-pd-nuk-e-mbeshteti-protesten-per-8-dite/",
-      "description": "Analisti Agim Baçi deklaroi në emisionin “3D” të Alban Dudushit në RTSH1 se Partia Demokratike dhe kryetari i saj Sali Berisha kanë pësuar një goditje të rëndë politike pas protestave të fundit, duke humbur kontrollin mbi sheshin dhe rolin e menaxhuesit të pakënaqësisë popullore. “Nga krahu tjetër, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-26T20:21:40+00:00",
-      "dateStr": "26 Jun, 20:21",
-      "isNew": true,
-      "id": "24 41782505300"
-    },
-    {
-      "title": "“Parqet industriale, ja sektorët që kanë interes”",
-      "link": "https://24-ore.com/parqet-industriale-ja-sektoret-qe-kane-interes/",
-      "description": "Intervist&#235; me Sokol Kraja, CEO i Nexus Park Tirana &#160; Parqet industriale jan&#235; nj&#235; segment q&#235; po merr gjithnj&#235; e m&#235; shum&#235; v&#235;mendje. Nj&#235; nga projektet q&#235; pritet t&#235; nis&#235; s&#235; shpejti operimin duket se ka arritur t&#235; n&#235;nshkruaj&",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-26T20:16:55+00:00",
-      "dateStr": "26 Jun, 20:16",
-      "isNew": true,
-      "id": "24 51782505015"
-    },
-    {
-      "title": "Digjet automjeti i një avokati në Shkup, MPB: Rasti është duke u hetuar",
-      "link": "https://24-ore.com/digjet-automjeti-i-nje-avokati-ne-shkup-mpb-rasti-eshte-duke-u-hetuar/",
-      "description": "Pas informacionit se dy automjete në pronësi të avokatit nga Shkupi, Asmir Alispahiq, janë djegur, Ministria e Punëve të Brendshme i konfirmoi “Fokus” se incidenti ka ndodhur mbrëmë pas mesnatës. &#8220;Më 25.06.2026, në SPB Shkup është raportuar se janë djegur dy automjete, një “Passat” me targa të",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-26T20:11:26+00:00",
-      "dateStr": "26 Jun, 20:11",
-      "isNew": true,
-      "id": "24 61782504686"
-    },
-    {
-      "title": "Policia jep detaje për ngjarjen në Kamëz: Qëlloi me armë drejt një servisi celularësh, arrestohet 18-vjeçari",
-      "link": "https://24-ore.com/policia-jep-detaje-per-ngjarjen-ne-kamez-qelloi-me-arme-drejt-nje-servisi-celularesh-arrestohet-18-vjecari/",
-      "description": "Policia ka dhënë detaje të reja lidhur me të shtënat që terrorizuan banorët e Kamëz këtë mbrëmje, por fatmirësisht pa të lënduar. Sipas Policisë një 18-vjeçar ka qëlluar me armë zjarri në drejtim të një servis celularësh, dhe më pas është larguar nga vendi i ngjarjes.  Menjëherë pas njoftimit polici",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-26T20:07:55+00:00",
-      "dateStr": "26 Jun, 20:07",
-      "isNew": true,
-      "id": "24 71782504475"
+      "id": "24 91782505925"
     },
     {
       "title": "Bejruti dhe Tel Avivi arrijnë marrëveshje, ushtria e Izraelit tërhiqet pjesërisht nga jugu i Libanit",
@@ -111,29 +177,18 @@
       "date": "2026-06-26T20:06:48+00:00",
       "dateStr": "26 Jun, 20:06",
       "isNew": true,
-      "id": "abc11782504408"
+      "id": "abc51782504408"
     },
     {
-      "title": "LIDL: Qasje e drejtpërdrejtë e prodhuesve shqiptarë në zinxhirët europianë të furnizimit",
-      "link": "https://24-ore.com/lidl-qasje-e-drejtperdrejte-e-prodhuesve-shqiptare-ne-zinxhiret-europiane-te-furnizimit/",
-      "description": "Kompania gjermane Lidl ka marr&#235; statusin e investimit strategjik p&#235;r nj&#235; qend&#235;r logjistike n&#235; Porto Romano. N&#235; nj&#235; p&#235;rgjigje zyrtare p&#235;r &#8220;Monitor&#8221;, kompania dha detaje lidhur me k&#235;t&#235; projekt. Lidl &#235;sht&#235; vazhdimisht n&#235; ",
-      "source": "24 ORE",
+      "title": "Orë pas ore/ Protesta e 27, protestuesit para Kryeministrisë, ABC News sjell pamjet reale",
+      "link": "https://abcnews.al/ore-pas-ore-protesta-e-27-protestuesit-para-kryeministrise-abc-news-sjell-pamjet-reale/",
+      "description": "Qytetarët protestojnë për të 27-ën ditë me radhë përpara Kryeministrisë, kundër investimit në Zvërnec. ABC News sjell pamjet me dron të pjesëmarrjes në bulevardin “Dëshmorët e Kombit”. Pamjet tregojnë pjesëmarrjen modeste të qytetarëve këtë të premte. Edhe në marshimin në rrugët e Tiranës, pjesëmarr",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-06-26T20:06:40+00:00",
-      "dateStr": "26 Jun, 20:06",
+      "date": "2026-06-26T19:44:08+00:00",
+      "dateStr": "26 Jun, 19:44",
       "isNew": true,
-      "id": "24 81782504400"
-    },
-    {
-      "title": "Briseida Çakërri: Protesta nuk është më si ditët e para. Shqipëria e Re, s’ka lidership",
-      "link": "https://24-ore.com/briseida-cakerri-protesta-nuk-eshte-me-si-ditet-e-para-shqiperia-e-re-ska-lidership/",
-      "description": "Deputetja e Partisë Socialiste, Briseida Çakërri, ka deklaruar në emisionin “3D” të Alban Dudushit në RTSH1 se protestat e ditëve të fundit kanë humbur vrullin fillestar dhe nuk paraqesin më atë forcë masive që patën në fillim. “Në ditët e para protesta ka qenë qytetare dhe nuk ka pasur aspak ndikim",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-26T19:56:36+00:00",
-      "dateStr": "26 Jun, 19:56",
-      "isNew": true,
-      "id": "24 91782503796"
+      "id": "abc61782503048"
     },
     {
       "title": "Edicioni qendror me Juli Krisafi, (26/06/2026)",
@@ -144,7 +199,7 @@
       "date": "2026-06-26T19:17:40+00:00",
       "dateStr": "26 Jun, 19:17",
       "isNew": true,
-      "id": "abc21782501460"
+      "id": "abc71782501460"
     },
     {
       "title": "Të shtëna me armë drejt një biznesi në Kamëz, vihet në pranga autori 18-vjeçar",
@@ -155,18 +210,7 @@
       "date": "2026-06-26T19:01:11+00:00",
       "dateStr": "26 Jun, 19:01",
       "isNew": true,
-      "id": "abc31782500471"
-    },
-    {
-      "title": "Pamjet me dron nga protesta: Ja pjesëmarrja në Bulevard",
-      "link": "https://abcnews.al/pamjet-me-dron-nga-protesta-ja-pjesemarrja-ne-bulevard/",
-      "description": "Qytetarët protestojnë për të 27-ën ditë me radhë përpara Kryeministrisë, kundër investimit në Zvërnec. ABC News sjell pamjet me dron të pjesëmarrjes në bulevardin “Dëshmorët e Kombit”. Pamjet tregojnë pjesëmarrjen modeste të qytetarëve këtë të premte. Edhe në marshimin në rrugët e Tiranës, pjesëmarr",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-26T18:58:08+00:00",
-      "dateStr": "26 Jun, 18:58",
-      "isNew": true,
-      "id": "abc41782500288"
+      "id": "abc81782500471"
     },
     {
       "title": "Rutte: NATO do të jetë e ashpër, por e matur për shpenzimet në mbrojtje",
@@ -177,51 +221,7 @@
       "date": "2026-06-26T18:50:18+00:00",
       "dateStr": "26 Jun, 18:50",
       "isNew": true,
-      "id": "abc51782499818"
-    },
-    {
-      "title": "Gjermania bie ndaj Ekuadorit/ Mneri: I mungoi gjaku. Xhihani: Nagelsmann, jo trajneri i duhur. Tahiri: Skuadër e pa impenjuar",
-      "link": "https://abcnews.al/gjermania-bie-ndaj-ekuadorit-mneri-i-mungoi-gjaku-xhihani-nagelsmann-jo-trajneri-i-duhur-tahiri-skuader-e-pa-impenjuar/",
-      "description": "Gjermania u mund 2-1 nga Ekuadori në ndeshjet e fundit në grupe. Edhe pse panzerat kishin siguruar kualifikimin, ajo që ra në sy ishte performanca e dobët ndaj skuadrës amerikano-latine. Në emisionin &#8220;Futboll jo Soccer&#8221; në ABC News, gazetari sportiv, Fatmir Mneri tha se gjermanëve u mung",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-26T18:42:37+00:00",
-      "dateStr": "26 Jun, 18:42",
-      "isNew": true,
-      "id": "abc61782499357"
-    },
-    {
-      "title": "Tirana Live me Emilian Islami, (26/06/2026)",
-      "link": "https://abcnews.al/tirana-live-me-emilian-islami-26-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-26T18:35:09+00:00",
-      "dateStr": "26 Jun, 18:35",
-      "isNew": true,
-      "id": "abc71782498909"
-    },
-    {
-      "title": "Policia e Shtetit shpëton dy turiste holandeze që kishin mbetur në Shpellën e Pëllumbasit",
-      "link": "https://abcnews.al/policia-e-shtetit-shpeton-dy-turiste-holandeze-qe-kishin-mbetur-ne-shpellen-e-pellumbasit/",
-      "description": "Pas marrjes së njoftimit se dy turistet kishin mbetur të bllokuara në zonën e “Shpellës së Pëllumbasit”, pasi njëra prej tyre kishte dëmtuar këmbën si pasojë e një rrëzimi, shërbimet e Komisariatit të Policisë Nr. 1, në bashkëpunim me Policinë Alpine të Forcës Kombëtare të Sigurisë, Njësia Tiranë, o",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-26T18:30:17+00:00",
-      "dateStr": "26 Jun, 18:30",
-      "isNew": true,
-      "id": "abc81782498617"
-    },
-    {
-      "title": "Jeta nën rrënoja/ Momenti kur zjarrfikësit shpëtojnë qenushin në Venezuelë",
-      "link": "https://abcnews.al/jeta-nen-rrenoja-momenti-kur-zjarrfikesit-shpetojne-qenushin-ne-venezuele/",
-      "description": "Një qenush i bllokuar nën rrënojat e një shtëpie të shembur në Karakas u shpëtua në momentet e fundit nga ekipet e zjarrfikësve. Sipas autoriteteve, zjarrfikësit ishin gati të largoheshin nga zona e kërkimeve kur dëgjuan lehjen e qenushit që vinte nga poshtë rrënojave. Pamjet e publikuara tregojnë m",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-26T18:20:50+00:00",
-      "dateStr": "26 Jun, 18:20",
-      "isNew": true,
-      "id": "abc91782498050"
+      "id": "abc91782499818"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
