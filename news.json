@@ -1,117 +1,183 @@
 {
-  "lastUpdated": "2026-06-27T16:01:12.131201+00:00",
+  "lastUpdated": "2026-06-27T17:58:13.042283+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Rindërtimi/ Qeveria ndryshon buxhetin dhe shton fondet për infrastrukturën në 9 bashki",
-      "link": "https://24-ore.com/rindertimi-qeveria-ndryshon-buxhetin-dhe-shton-fondet-per-infrastrukturen-ne-9-bashki/",
-      "description": "Qeveria shqiptare ka miratuar një amendim të rëndësishëm në akordimin e fondeve të rindërtimit, duke prekur financimin e ndërtimit dhe rikonstruksionit të infrastrukturës publike në zonat e shpallura për zhvillim të detyruar pas tërmetit të vitit 2019. Përmes një vendimi të fundit të Këshillit të Mi",
+      "title": "Zv.kryeministrja Koçiu njofton projektin e ri në Librazhd: 40 banesa për familjet në nevojë",
+      "link": "https://24-ore.com/zv-kryeministrja-kociu-njofton-projektin-e-ri-ne-librazhd-40-banesa-per-familjet-ne-nevoje/",
+      "description": "Një lagje e re me 40 banesa sociale pritet të ndërtohet së shpejti në Librazhd, duke ofruar një zgjidhje të qëndrueshme strehimi për familjet në nevojë dhe qytetarët e pastrehë të kësaj bashkie. Projekti, krahas ndërtimit të banesave, parashikon edhe krijimin e hapësirave publike të gjelbëruara, me ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-27T15:52:46+00:00",
-      "dateStr": "27 Jun, 15:52",
+      "date": "2026-06-27T17:52:49+00:00",
+      "dateStr": "27 Jun, 17:52",
       "isNew": true,
-      "id": "24 01782575566"
+      "id": "24 01782582769"
     },
     {
-      "title": "Dimitrievski: Deri të martën do të dihet gjithçka, shumë ide dhe opsione janë në tavolinë",
-      "link": "https://24-ore.com/dimitrievski-deri-te-marten-do-te-dihet-gjithcka-shume-ide-dhe-opsione-jane-ne-tavoline/",
-      "description": "Deri të martën do të dihet gjithçka, atëherë do të kemi epilogun përfundimtar. Shumë ide dhe opsione janë në tavolinë, deklaroi sot kryetari i ZNAM-it, Maksim Dimitrievski, lidhur me rindërtimin e paralajmëruar të Qeverisë. Ai vlerësoi se ZNAM, edhe pse është një subjekt i ri politik, po jep një kon",
+      "title": "Izet Mexhiti: Bashkëpunimi ndërshqiptar nuk është slogan, por agjendë që ndërtohet çdo ditë",
+      "link": "https://24-ore.com/izet-mexhiti-bashkepunimi-ndershqiptar-nuk-eshte-slogan-por-agjende-qe-ndertohet-cdo-dite/",
+      "description": "Bashkëkryetari i VLEN-it dhe kryetari i Komunës së Çairit, Izet Mexhiti, ka theksuar se bashkëpunimi ndërshqiptar nuk duhet të mbetet vetëm një ide për të cilën flitet, por të shndërrohet në një angazhim të përditshëm me projekte konkrete që sjellin përfitime për qytetarët. Duke folur në Konferencën",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-27T15:51:59+00:00",
-      "dateStr": "27 Jun, 15:51",
+      "date": "2026-06-27T17:51:28+00:00",
+      "dateStr": "27 Jun, 17:51",
       "isNew": true,
-      "id": "24 11782575519"
+      "id": "24 11782582688"
     },
     {
-      "title": "Qeveria miraton rregulla të reja për kufijtë, shtrëngohen kontrollet për të miturit",
-      "link": "https://24-ore.com/qeveria-miraton-rregulla-te-reja-per-kufijte-shtrengohen-kontrollet-per-te-miturit/",
-      "description": "Këshilli i Ministrave ka miratuar një paketë të re dhe gjithëpërfshirëse rregullash që riformatojnë procedurat e verifikimit në pikat e kalimit kufitar të Republikës së Shqipërisë. Vendimi i ri i qeverisë shfuqizon rregulloret e mëparshme të viteve 2016 dhe 2023, duke bërë një përafrim të rëndësishë",
+      "title": "Argentina dhe Texas: debati për mishin më të mirë gjatë Botërorit",
+      "link": "https://24-ore.com/argentina-dhe-texas-debati-per-mishin-me-te-mire-gjate-boterorit/",
+      "description": "Me mijëra tifozë argjentinas të pranishëm në Texas për Botërorin, është hapur një debat i zakonshëm por i zjarrtë: cili vend prodhon mishin më të shijshëm dhe si duhet përgatitur ai. Bisedat shkojnë nga cilësia e filetos deri te mënyra e pjekjes, dhe në qendër të diskutimit janë dy tradita të forta ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-27T15:42:34+00:00",
-      "dateStr": "27 Jun, 15:42",
+      "date": "2026-06-27T17:41:36+00:00",
+      "dateStr": "27 Jun, 17:41",
       "isNew": true,
-      "id": "24 21782574954"
+      "id": "24 21782582096"
     },
     {
-      "title": "Java e fundit e grupeve vendos çiftet e raundit të 32 në Botëror",
-      "link": "https://24-ore.com/java-e-fundit-e-grupeve-vendos-ciftet-e-raundit-te-32-ne-boteror/",
-      "description": "Java e fundit e fazës së grupeve në Kupën e Botës do të përcaktojë çiftet që do të luajnë në raundin e 32, me disa ndeshje vendimtare dhe ekipe që tashmë kanë siguruar kualifikimin. Bashkë-organizatorët Shtetet e Bashkuara, Kanadaja dhe Meksika janë midis skuadrave që kanë kaluar më tej, ndërsa shum",
+      "title": "Dita e fundit e grupeve përcakton çiftet në 16-shet e Botërorit",
+      "link": "https://24-ore.com/dita-e-fundit-e-grupeve-percakton-ciftet-ne-16-shet-e-boterorit/",
+      "description": "Dita e fundit e fazës së grupeve të Kupës së Botës vendos se cilat përfaqësuese do të plotësojnë tabelën e raundit të 16-sheve. Ndërsa disa kombëtare kanë siguruar tashmë vendet e tyre në fazën e eliminimit, ende ka skuadra që luftojnë për vendet e mbetura, përfshirë edhe konkurrencën mes tetë skuad",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-27T15:25:48+00:00",
-      "dateStr": "27 Jun, 15:25",
+      "date": "2026-06-27T17:40:59+00:00",
+      "dateStr": "27 Jun, 17:40",
       "isNew": true,
-      "id": "24 31782573948"
+      "id": "24 31782582059"
     },
     {
-      "title": "Me sistemin “Qyteti i Sigurt”, numri i viktimave në trafik është ulur me 40 për qind",
-      "link": "https://24-ore.com/me-sistemin-qyteti-i-sigurt-numri-i-viktimave-ne-trafik-eshte-ulur-me-40-per-qind/",
-      "description": "Ministri i Punëve të Brendshme, Pançe Toshkovski, deklaroi se vetëm pesë muaj pas vendosjes në funksion të sistemit “Qyteti i Sigurt”, numri i viktimave në aksidentet e trafikut është ulur me 40 për qind. Gjatë prezantimit të raportit për punën e bërë në dy vitet e fundit, Toshkovski tha se nga 2 sh",
-      "source": "24 ORE",
+      "title": "Messi e nis nga stoli/ Konfirmohet se legjenda e topit nuk do të jetë në formacion",
+      "link": "https://abcnews.al/messi-e-nis-nga-stoli-konfirmohet-se-legjenda-e-topit-nuk-do-te-jete-ne-formacion/",
+      "description": "Kjo përballje pritet me shumë interes. Argjentina do të zbresë në fushë për herë të parë këtë mbrëmje pa Lionel Mesin, pasi trajneri Skaloni konfirmoi se do ta lerë kapitenin në stol. Efekt Nuk është fundi I botës, përkundrazi një llogari e pastër sepse kampionët e botës janë kualifikuar për në raun",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-06-27T15:24:10+00:00",
-      "dateStr": "27 Jun, 15:24",
+      "date": "2026-06-27T17:29:09+00:00",
+      "dateStr": "27 Jun, 17:29",
       "isNew": true,
-      "id": "24 41782573850"
+      "id": "abc01782581349"
     },
     {
-      "title": "Përjashtohet nga Policia e Shtetit ish-drejtori i policisë së Shkodres, Gentian Berberi",
-      "link": "https://24-ore.com/perjashtohet-nga-policia-e-shtetit-ish-drejtori-i-policise-se-shkodres-gentian-berberi/",
-      "description": "Përjashtohet nga Policia e Shtetit, Gentian Berberi, ish-drejtori i policisë së Shkodres. Vendimi i Standarteve Profesionale, ka ardhur pasi Berberi vetëm pak ditë më parë iu komunikua shkarkimi nga detyra si drejtor i DVP Shkodër pasi ka kanosur dhe ofenduar drejtoreshën e Burimeve Njerëzore në Pol",
+      "title": "Turizmi në Shëngjin shënon rritje, Rama: Resortet me 5 yje, jo vetëm domosdoshmëri ekonomike po edhe gjeostrategjike",
+      "link": "https://24-ore.com/turizmi-ne-shengjin-shenon-rritje-rama-resortet-me-5-yje-jo-vetem-domosdoshmeri-ekonomike-po-edhe-gjeostrategjike/",
+      "description": "Qarku i Lezhës dhe vija bregdetare e Shëngjinit po konfirmohen si destinacione gjithnjë e më të preferuara për vizitorët vendas dhe të huaj, duke shënuar një rritje prej 15% të numrit të turistëve krahasuar me të njëjtën periudhë të një viti më parë. Të dhënat u bënë publike nga kryebashkiaku i Lezh",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-27T15:23:53+00:00",
-      "dateStr": "27 Jun, 15:23",
+      "date": "2026-06-27T17:28:06+00:00",
+      "dateStr": "27 Jun, 17:28",
       "isNew": true,
-      "id": "24 51782573833"
+      "id": "24 41782581286"
     },
     {
-      "title": "“One stop”, nënshkruhet marrëveshja me Maqedoninë e Veriut për zbatimin e kontrolleve të përbashkëta",
-      "link": "https://24-ore.com/one-stop-nenshkruhet-marreveshja-me-maqedonine-e-veriut-per-zbatimin-e-kontrolleve-te-perbashketa/",
-      "description": "Ministri i Brendshëm, Besfort Lamallari këtë të shtunë dhe homologu i tij në në Maqedoninë e Veriut, Pançe Toshkovski nënshkruan në Peshkopi Marrëveshjen për vendosjen e pikave të përbashkëta kufitare dhe zbatimin e kontrolleve të përbashkëta ndërmjet dy shteteve, të njohur si “One stop”. Me këtë ma",
+      "title": "Ish-zyrtarja e PD-së: Protestat me “helm dhe djallëzi” po dëmtojnë Shqipërinë!",
+      "link": "https://24-ore.com/ish-zyrtarja-e-pd-se-protestat-me-helm-dhe-djallezi-po-demtojne-shqiperine/",
+      "description": "Ish-sekretarja për marrëdhëniet me publikun në PD, Jola Hysaj ka dalë kundër protestës në bulevard, duke barazuar histerinë majtiste sot me molotovët demokratikë te pak muajve me pare të Sali Berishës, të dyja me një synim, për të rrëzuar Edi Ramën. “Unë ika nga PD-ja kur pashë se alternativa e Edi ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-27T15:23:42+00:00",
-      "dateStr": "27 Jun, 15:23",
+      "date": "2026-06-27T17:27:52+00:00",
+      "dateStr": "27 Jun, 17:27",
       "isNew": true,
-      "id": "24 61782573822"
+      "id": "24 51782581272"
     },
     {
-      "title": "Ministri Tajani: Italia e gatshme të mbështesë në mënyrë diplomatike marrëveshjen Izrael-Liban",
-      "link": "https://24-ore.com/ministri-tajani-italia-e-gatshme-te-mbeshtese-ne-menyre-diplomatike-marreveshjen-izrael-liban/",
-      "description": "Ministri i Jashtëm italian, Antonio Tajani ka deklaruar se Roma është gati të ofrojë mbështetje diplomatike për marrëveshjen e sapo nënshkruar Izrael-Liban dhe mund të kontribuojë në një mision ndërkombëtar të ardhshëm pas mandatit të forcës paqeruajtëse të OKB-së. Duke folur në një konferencë për s",
+      "title": "Iseni: Edhe kufiri në Dibër tani e tutje do të kalohet vetëm me një kontroll",
+      "link": "https://24-ore.com/iseni-edhe-kufiri-ne-diber-tani-e-tutje-do-te-kalohet-vetem-me-nje-kontroll/",
+      "description": "Zëvendësministri i Punëve të Brendshme të Maqedonisë së Veriut, Astrit Iseni, ka njoftuar se është nënshkruar marrëveshja One Stop Shop ndërmjet Republikës së Maqedonisë së Veriut dhe Republikës së Shqipërisë. Përmes një statusi në rrjetet sociale, Iseni theksoi se me këtë hap po realizohet një nga ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-27T15:23:29+00:00",
-      "dateStr": "27 Jun, 15:23",
+      "date": "2026-06-27T17:25:49+00:00",
+      "dateStr": "27 Jun, 17:25",
       "isNew": true,
-      "id": "24 71782573809"
+      "id": "24 61782581149"
     },
     {
-      "title": "Sulmi ajror i SHBA-së kundër Iranit, ushtria amerikane publikon videon (VIDEO)",
-      "link": "https://24-ore.com/sulmi-ajror-i-shba-se-kunder-iranit-ushtria-amerikane-publikon-videon-video/",
-      "description": "Sulmet e raportuara të Iranit ndaj objektivave ushtarake amerikane në Lindjen e Mesme vijnë pas sulmeve të SHBA-së rreth Ngushticës së Hormuzit të premten. Komanda Qendrore e SHBA-së ka publikuar video të sulmeve të së premtes, të cilat thuhet se kanë synuar vendet e magazinimit të raketave dhe dron",
+      "title": "Matura Shtetërore 2026, më shumë nota 10 dhe më pak ngelës në Matematikë",
+      "link": "https://24-ore.com/matura-shteterore-2026-me-shume-nota-10-dhe-me-pak-ngeles-ne-matematike/",
+      "description": "Rezultatet e provimit të Matematikës në Maturën Shtetërore 2026 tregojnë një përmirësim të lehtë krahasuar me një vit më parë. Sipas të dhënave të publikuara nga Qendra e Shërbimeve Arsimore, provimit iu nënshtruan 25,051 maturantë, nga të cilët 97.43% e kaluan testin, ndërsa nota mesatare arriti në",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-27T15:23:17+00:00",
-      "dateStr": "27 Jun, 15:23",
+      "date": "2026-06-27T17:25:28+00:00",
+      "dateStr": "27 Jun, 17:25",
       "isNew": true,
-      "id": "24 81782573797"
+      "id": "24 71782581128"
     },
     {
-      "title": "Akullnajat zvicerane po shkrihen me shpejtësi alarmante për shkak të valës të së nxehtit",
-      "link": "https://24-ore.com/akullnajat-zvicerane-po-shkrihen-me-shpejtesi-alarmante-per-shkak-te-vales-te-se-nxehtit/",
-      "description": "Akullnajat zvicerane pritet të humbasin një sasi të madhe akulli për shkak të valës së të nxehtit që po godet Evropën, sipas kreut të Monitorimit të Akullnajave në Zvicër (Glamos). Bora dhe akulli i dimrit të kaluar nga akullnajat e Zvicrës pritet të jenë shkrirë të gjitha deri të hënën, duke shënua",
+      "title": "Ujërat e zeza ndotin plazhin në Shkëmbin e Kavajës, pushuesit kërkojnë ndërhyrje",
+      "link": "https://24-ore.com/ujerat-e-zeza-ndotin-plazhin-ne-shkembin-e-kavajes-pushuesit-kerkojne-nderhyrje/",
+      "description": "Bregdeti i Durrësit po pret çdo ditë e më shumë pushues vendas, turistë të huaj dhe bashkatdhetarë. Megjithatë, përtej promovimit që i bëhet në arenën ndërkombëtare si një destinacion turistik, realiteti në disa zona të plazhit mbetet shqetësues. Në zonën e Shkëmbit të Kavajës, aty ku çdo ditë freku",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-27T15:23:03+00:00",
-      "dateStr": "27 Jun, 15:23",
+      "date": "2026-06-27T17:25:07+00:00",
+      "dateStr": "27 Jun, 17:25",
       "isNew": true,
-      "id": "24 91782573783"
+      "id": "24 81782581107"
+    },
+    {
+      "title": "Fenomeni i bullizmit, të rinjtë e Libohovës japin shfaqje teatrale sensibilizuese",
+      "link": "https://24-ore.com/fenomeni-i-bullizmit-te-rinjte-e-libohoves-japin-shfaqje-teatrale-sensibilizuese/",
+      "description": "Në Qendrën Kulturore të Libohovës një grup të rinjsh u prezantuan shfaqjen sensibilizuese “Ti themi jo bullizmit”. Kjo pjesë teatrore ishte një krijim origjinal i vetë nxënësve, të cilët përmes artit dhe interpretimit sollën mesazhe të forta kundër këtij fenomeni shqetësues në shoqërinë tonë. Përmes",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-27T17:24:49+00:00",
+      "dateStr": "27 Jun, 17:24",
+      "isNew": true,
+      "id": "24 91782581089"
+    },
+    {
+      "title": "Firmoset marrëveshja për pikat kufitare, lehtësohet lëvizja mes Shqipërisë dhe Maqedonisë së Veriut",
+      "link": "https://abcnews.al/firmoset-marreveshja-per-pikat-kufitare-lehtesohet-levizja-mes-shqiperise-dhe-maqedonise-se-veriut/",
+      "description": "Ministri i Brendshëm, Besfort Lamallari, njoftoi se Shqipëria dhe Maqedonia e Veriut kanë hedhur një tjetër hap drejt lehtësimit të lëvizjes së qytetarëve dhe forcimit të bashkëpunimit mes dy vendeve. Gjatë një aktiviteti të zhvilluar në Dibër, ministrat e Punëve të Brendshme të Shqipërisë dhe Maqed",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-27T17:14:26+00:00",
+      "dateStr": "27 Jun, 17:14",
+      "isNew": true,
+      "id": "abc11782580466"
+    },
+    {
+      "title": "Jola Hysa “masakron” protestën/ Ish-sekretarja e PD: Helm e djallëzi, e rrezikshme për vendin!",
+      "link": "https://abcnews.al/jola-hysa-masakron-protesten-ish-sekretarja-e-pd-helm-e-djallezi-e-rrezikshme-per-vendin/",
+      "description": "TIRANË- Ish-sekretarja për marrëdhëniet me publikun në PD, Jola Hysaj ka dalë kundër protestës në bulevard, duke barazuar histerinë majtiste sot me molotovët demokratikë te pak muajve me pare të Sali Berishës, të dyja me një synim, për të rrëzuar Edi Ramën. &#8220;Unë ika nga PD-ja kur pashë se alte",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-27T17:08:50+00:00",
+      "dateStr": "27 Jun, 17:08",
+      "isNew": true,
+      "id": "abc21782580130"
+    },
+    {
+      "title": "Pogradec/ Burri dhunon bashkëshorten, e moshuara transportohet me helikopter drejt Traumës",
+      "link": "https://abcnews.al/pogradec-burri-dhunon-bashkeshorten-e-moshuara-transportohet-me-helikopter-drejt-traumes/",
+      "description": "Një grua 69-vjeçare mbeti e plagosur rëndë pasi u dhunua me bastun nga bashkëshorti i saj, 79 vjeç, pas një konflikti të çastit në banesën e tyre, në lagjen nr. 1 të Pogradecit. E moshuara ka pësuar dëmtime në kokë dhe, pas ndihmës së parë në spitalin e Pogradecit, do të transportohet me helikopter ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-27T16:28:46+00:00",
+      "dateStr": "27 Jun, 16:28",
+      "isNew": true,
+      "id": "abc31782577726"
+    },
+    {
+      "title": "“Nature”: Shkencëtarët identifikojnë bakteret që nxisin sklerozën e shumëfishtë",
+      "link": "https://abcnews.al/nature-shkencetaret-identifikojne-bakteret-qe-nxisin-sklerozen-e-shumefishte/",
+      "description": "Dy lloje bakteresh të zorrëve mund të luajnë një rol kyç, në zhvillimin e sklerozës së shumëfishtë, sipas “Nature”. Një ekip ndërkombëtar studiuesish, i udhëhequr nga shkencëtarë të Universitetit “Ludwig Maximilian” të Mynihut (LMU) dhe Institutit “Max Planck për Inteligjencën Biologjike” në Gjerman",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-27T16:07:26+00:00",
+      "dateStr": "27 Jun, 16:07",
+      "isNew": true,
+      "id": "abc41782576446"
+    },
+    {
+      "title": "News Hour me Sali Doçin, (27/06/2026)",
+      "link": "https://abcnews.al/news-hour-me-sali-docin-27-06-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-27T16:01:21+00:00",
+      "dateStr": "27 Jun, 16:01",
+      "isNew": true,
+      "id": "abc51782576081"
     },
     {
       "title": "Temperaturat thyejnë rekorde/ Danimarka regjistron ditën më të nxehtë në histori që nga viti 1874",
@@ -122,7 +188,7 @@
       "date": "2026-06-27T15:17:19+00:00",
       "dateStr": "27 Jun, 15:17",
       "isNew": true,
-      "id": "abc01782573439"
+      "id": "abc61782573439"
     },
     {
       "title": "Tërmet i fortë në Afganistan",
@@ -133,7 +199,7 @@
       "date": "2026-06-27T14:30:56+00:00",
       "dateStr": "27 Jun, 14:30",
       "isNew": true,
-      "id": "abc11782570656"
+      "id": "abc71782570656"
     },
     {
       "title": "Në Bolzano të Italisë regjistrohet nata më e nxehtë e qershorit që nga viti 1956",
@@ -144,7 +210,7 @@
       "date": "2026-06-27T14:15:33+00:00",
       "dateStr": "27 Jun, 14:15",
       "isNew": true,
-      "id": "abc21782569733"
+      "id": "abc81782569733"
     },
     {
       "title": "Ish-drejtori i Policisë së Shkodrës Gentjan Berberi, përjashtohet nga radhët e Policisë së Shtetit",
@@ -155,73 +221,7 @@
       "date": "2026-06-27T13:49:10+00:00",
       "dateStr": "27 Jun, 13:49",
       "isNew": true,
-      "id": "abc31782568150"
-    },
-    {
-      "title": "Pasaporta e “Pavarësisë”, me foton e Trump/ Presidenti i SHBA prezanton pasaportën e re në 250-vjetorin e Pavarësisë",
-      "link": "https://abcnews.al/pasaporta-e-pavaresise-me-foton-e-trump-presidenti-i-shba-prezanton-pasaporten-e-re-ne-250-vjetorin-e-pavaresise/",
-      "description": "Donald Trump kërkon të jetë kudo dhe i paharruar. Presidenti i Shteteve të Bashkuara ka prezantuar një version të ri të pasaportës amerikane, e cila do të jetë një prodhim i kufizuar. Kjo pasaportë përmban portretin e tij. Ky version i personalizuar i pasaportës amerikane vjen në kuadër të përgatitj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-27T13:45:39+00:00",
-      "dateStr": "27 Jun, 13:45",
-      "isNew": true,
-      "id": "abc41782567939"
-    },
-    {
-      "title": "News Line me Jeta Kasemi, (27/06/2026)",
-      "link": "https://abcnews.al/news-line-me-jeta-kasemi-27-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-27T12:50:00+00:00",
-      "dateStr": "27 Jun, 12:50",
-      "isNew": true,
-      "id": "abc51782564600"
-    },
-    {
-      "title": "Edicioni i Mesditës me Sali Doçi, (27/06/2026)",
-      "link": "https://abcnews.al/edicioni-i-mesdites-me-sali-doci-27-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-27T12:47:07+00:00",
-      "dateStr": "27 Jun, 12:47",
-      "isNew": true,
-      "id": "abc61782564427"
-    },
-    {
-      "title": "Shqipëria Sot me Jeta Kasemi, (27/06/2026)",
-      "link": "https://abcnews.al/shqiperia-sot-me-jeta-kasemi-27-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-27T12:40:12+00:00",
-      "dateStr": "27 Jun, 12:40",
-      "isNew": true,
-      "id": "abc71782564012"
-    },
-    {
-      "title": "Ballkani “në darën” e të nxehtit/ Vala afrikane afrohet mbi rajon, në fundjavë deri 39 gradë celcius",
-      "link": "https://abcnews.al/ballkani-ne-daren-e-te-nxehtit-vala-afrikane-afrohet-mbi-rajon-ne-fundjave-deri-39-grade-celcius/",
-      "description": "Vala e të nxehtit ekstrem që ka goditur Europën Perëndimore po përparo drejt Ballkanit duke vënë nën alarm të kuq pjesën më të madhe të rajonit ndërsa autoritetet kanë lëshuar paralajmërime për rrezikun ndaj shëndetit të qytetarëve. Sipas të dhënave më të fundit nga shërbimet meteorologjike europian",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-27T12:30:18+00:00",
-      "dateStr": "27 Jun, 12:30",
-      "isNew": true,
-      "id": "abc81782563418"
-    },
-    {
-      "title": "“Shqipëria, tërheqëse për pushime”/ Revista amerikane: Çmime ekonomike dhe natyrë të veçantë",
-      "link": "https://abcnews.al/shqiperia-terheqese-per-pushime-revista-amerikane-cmime-ekonomike-dhe-natyre-te-vecante/",
-      "description": "Shqipëria është transformuar në  një nga destinacionet evropiane kryesore, për pushime në  plazh dhe ecje në natyrë. Revista amerikane “Quartz” e rendit vendin tonë në listën e 10 destinacioneve ndërkombëtare më të përballueshme, falë bregdetit, maleve dhe kostove të ulëta. Sipas medias amerikane Sh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-27T12:00:06+00:00",
-      "dateStr": "27 Jun, 12:00",
-      "isNew": true,
-      "id": "abc91782561606"
+      "id": "abc91782568150"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
