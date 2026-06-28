@@ -1,40 +1,194 @@
 {
-  "lastUpdated": "2026-06-28T17:03:58.312808+00:00",
+  "lastUpdated": "2026-06-28T19:12:12.434283+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Manuel Ugarte pëson dëmtim të ligamentit të gjurit në Botëror",
-      "link": "https://24-ore.com/manuel-ugarte-peson-demtim-te-ligamentit-te-gjurit-ne-boteror/",
-      "description": "Klubi Manchester United njoftoi se mesfushori uruguaian Manuel Ugarte ka pësuar dëmtime të ligamentit të gjurit. Klubi tha se vlerësimi i mëtejshëm po vazhdon për të përcaktuar trajtimin dhe kohëzgjatjen e rehabilitimit, dhe shtoi se do ta mbështesë Ugarte-n gjatë gjithë procesit. Sipas Associated P",
+      "title": "Qytetari për partitë e vogla: Po përdorin protestën për fushata dhe qëllime personale!",
+      "link": "https://24-ore.com/qytetari-per-partite-e-vogla-po-perdorin-protesten-per-fushata-dhe-qellime-personale/",
+      "description": "Qytetarët protestojnë për të 29-ën ditë me radhë përpara Kryeministrisë, kundër investimit në Zvërnec. Në protestë u kërkua që “partitë e vogla mos ta përdorin këtë protestë për fushata dhe qëllime personale. Jo vetëm Rama dhe Berisha, por 140 parlamentarët në burg. Shqipëria e shqiptarëve, vdekje t",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-28T16:57:04+00:00",
-      "dateStr": "28 Jun, 16:57",
+      "date": "2026-06-28T19:10:52+00:00",
+      "dateStr": "28 Jun, 19:10",
       "isNew": true,
-      "id": "24 01782665824"
+      "id": "24 01782673852"
     },
     {
-      "title": "Tre paradokse tragjikomike që ka prodhuar protesta",
-      "link": "https://24-ore.com/tre-paradokse-tragjikomike-qe-ka-prodhuar-protesta/",
-      "description": "Nga Mero Baze Paradoksi i parë i protestës është diferenca mes atyre që janë në shesh dhe atyre që organizojnë protestën. Pas bërjes publike të grupit organizator, shikohet qartë se ata që janë në shesh, janë shumë më lart si nga pikëpamja kulturore, por dhe nga personaliteti, se ata që kanë marrë f",
+      "title": "“Pulisic do të ishte zëvendësuesi ideal i Salah”, ish-sulmuesi i sugjeron Liverpool-it transferimin e amerikanit të Milanit",
+      "link": "https://24-ore.com/pulisic-do-te-ishte-zevendesuesi-ideal-i-salah-ish-sulmuesi-i-sugjeron-liverpool-it-transferimin-e-amerikanit-te-milanit/",
+      "description": "Legjenda e Liverpoolit, Robbie Fowler, përmes një postimi në rrjetin e tij social X, i ka sugjeruar ish-klubit të tij, transferimin e Christian Pulisic në vend të Mohamed Salah. Egjipitani ka vendosur të largohet nga të kuqtë, një vit para përfundimit të kontratës. Në këtë situatë, lind nevoja për n",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-28T16:55:29+00:00",
-      "dateStr": "28 Jun, 16:55",
+      "date": "2026-06-28T19:01:03+00:00",
+      "dateStr": "28 Jun, 19:01",
       "isNew": true,
-      "id": "24 11782665729"
+      "id": "24 11782673263"
     },
     {
-      "title": "Digjet një automjet në Qendër të Shkupit",
-      "link": "https://24-ore.com/digjet-nje-automjet-ne-qender-te-shkupit/",
-      "description": "Herët në mëngjesin e sotëm, rreth orës 4 të mëngjesit, një Range Rover u dogj në Shkup. “Më 28.06.2026 në orën 04:05, SVR Shkup ka marrë njoftim se një automjet pasagjerësh Range Rover me targa të Shkupit, në pronësi të S.B. (54) nga Shkupi, është djegur në zonën e Qendrës&#8221;, thonë nga MPB. Ata",
+      "title": "Dy turistë polakë bien në një greminë në kanionin e Gjipesë/ Vështirësi për nxjerrjen e tyre për shkak të terrenit të vështirë",
+      "link": "https://abcnews.al/dy-turiste-polake-bien-ne-nje-gremine-ne-kanionin-e-gjipese-veshtiresi-per-nxjerrjen-e-tyre-per-shkak-te-terrenit-te-veshtire/",
+      "description": "Prej orëve të para të mëngjesit, dy turistë polakë kanë rënë në një greminë në Kanionin e Gjipesë. Në përpjekjet e para për t’u ardhur në ndihmë kanë ndërhyrë forcat zjarrfikëse dhe shërbimet e Policisë së Himarës, por për shkak të terrenit tepër të vështirë nuk kanë mundur t’i nxjerrin. Më pas në z",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-28T18:59:03+00:00",
+      "dateStr": "28 Jun, 18:59",
+      "isNew": true,
+      "id": "abc01782673143"
+    },
+    {
+      "title": "VIDEO/ Qytetarja kundërshton deklaratat e Sali Berishës: Jemi ende të përsekutuar!",
+      "link": "https://24-ore.com/video-qytetarja-kundershton-deklaratat-e-sali-berishes-jemi-ende-te-persekutuar/",
+      "description": "Një nga protestueset në shesh i është drejtuar me tone të ashpra kreut të Partisë Demokratike, Sali Berisha, pas deklaratave të tij për ish-të përndjekurit politikë. Në fjalën e saj, ajo kundërshtoi përdorimin e termit “ish të përsekutuar”, duke thënë se për shumë familje shqiptare persekutimi polit",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-28T16:51:05+00:00",
-      "dateStr": "28 Jun, 16:51",
+      "date": "2026-06-28T18:55:56+00:00",
+      "dateStr": "28 Jun, 18:55",
       "isNew": true,
-      "id": "24 21782665465"
+      "id": "24 21782672956"
+    },
+    {
+      "title": "Messi-Ronaldo, vetëm në finale/ Mneri: Argjentina, më skuadër se Portugalia. Tahiri: Ja ndryshimi mes dy futbollistëve",
+      "link": "https://abcnews.al/messi-ronaldo-vetem-ne-finale-mneri-argjentina-me-skuader-se-portugalia-tahiri-ja-ndryshimi-mes-dy-futbollisteve/",
+      "description": "Argjentina e Lionel Messit dhe Portugalia e Cristiano Ronaldos mund të takohen vetëm në finalen e madhe, nëse ia dalin t&#8217;i fitojnë të gjitha ndeshjet deri në atë fazë. Në emisionin &#8220;Futboll jo Soccer&#8221; në ABC News, gazetari sportiv, Fatmir Mneri thotë se Argjentina është më skuadër ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-28T18:50:11+00:00",
+      "dateStr": "28 Jun, 18:50",
+      "isNew": true,
+      "id": "abc11782672611"
+    },
+    {
+      "title": "Lewandowski zgjedh Amerikën, mungon vetëm zyrtarizimi te Chicago Fire",
+      "link": "https://24-ore.com/lewandowski-zgjedh-ameriken-mungon-vetem-zyrtarizimi-te-chicago-fire/",
+      "description": "Ai ishte një objektiv për klubet e mëdha të Serie A dhe jo vetëm, por zgjodhi MLS-në: Robert Lewandowski ka vendosur të transferohet në SHBA. Sulmuesi polak do të luajë për Chicago Fire. Ish-sulmuesi i Barçës po largohet kështu nga Europa; kontrata e tij me klubin katalanas skadon më 30 qershor. Nga",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-28T18:46:13+00:00",
+      "dateStr": "28 Jun, 18:46",
+      "isNew": true,
+      "id": "24 31782672373"
+    },
+    {
+      "title": "Hornets shkëmbejnë Miles Bridges te Suns, marrin Grayson Allen, Royce O’Neale dhe zgjedhje të raundit të parë",
+      "link": "https://24-ore.com/hornets-shkembejne-miles-bridges-te-suns-marrin-grayson-allen-royce-oneale-dhe-zgjedhje-te-raundit-te-pare/",
+      "description": "Charlotte Hornets kanë dërguar krahun Miles Bridges te Phoenix Suns në një shkëmbim të madh që përfshin edhe Grayson Allen, Royce O&#8217;Neale dhe një zgjedhje të raundit të parë për vitin 2033 që shkon te Hornets. Phoenix, përveç Bridges, do të marrë edhe një zgjedhje të raundit të dytë për vitin ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-28T18:43:12+00:00",
+      "dateStr": "28 Jun, 18:43",
+      "isNew": true,
+      "id": "24 41782672192"
+    },
+    {
+      "title": "Përleshje mes te miturve ne Tetovë, i dëmtojnë edhe veturën 43 vjeçarit, policia merr masa",
+      "link": "https://24-ore.com/perleshje-mes-te-miturve-ne-tetove-i-demtojne-edhe-veturen-43-vjecarit-policia-merr-masa/",
+      "description": "Më 26.06.2026 rreth orës 23:15 në udhëkryqin mes rrugëve „Iliria“ dhe „Jane Sandanski“ në Tetovë, zyrtarë policorë kanë vërejtur një grup më të madh të miturish, të cilët kanë tentuar të përleshen fizikisht me një grup tjetër, por pas ndërhyrjes së zyrtarëve policorë ata janë shpërndarë, ndërsa janë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-28T18:41:05+00:00",
+      "dateStr": "28 Jun, 18:41",
+      "isNew": true,
+      "id": "24 51782672065"
+    },
+    {
+      "title": "Maliq/ Një person rrëzohet nga shkëmbi në malin e Gopeshit, ndodhet në gjendje të rëndë",
+      "link": "https://abcnews.al/maliq-nje-person-rrezohet-nga-shkembi-ne-malin-e-gopeshit-ndodhet-ne-gjendje-te-rende/",
+      "description": "Një person rrëzohet nga një shkëmb në Malin e Gopeshit dhe ka marrë dëmtime të rënda. Ngjarja ka ndodhur pak më parë, teksa zona është pjesë e Bashkisë Maliq, në Njësinë Administrative Moglicë. Sipas të dhënave paraprake, një banor i Gramshit kishte shkuar në këtë mal për të mbledhur çaj mali, por ë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-28T18:36:28+00:00",
+      "dateStr": "28 Jun, 18:36",
+      "isNew": true,
+      "id": "abc21782671788"
+    },
+    {
+      "title": "Ylli i Francës i thotë “po” Manchester City-t nga SHBA-ja. Tani vjen pjesa më e vështirë",
+      "link": "https://24-ore.com/ylli-i-frances-i-thote-po-manchester-city-t-nga-shba-ja-tani-vjen-pjesa-me-e-veshtire/",
+      "description": "Pas Elliot Anderson, për të cilin Manchester City do të paguajë 135 milionë euro te Nottingham Forest, transferimi i dytë i radhës për “Qytetarët” do të jetë Malo Gusto, mbrojtësi francez i Chelsea-s. Footmercato.net zbulon se 23-vjeçari ka gjetur gjuhën e përbashkët me Manchester City-n. Tani vjen ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-28T18:31:11+00:00",
+      "dateStr": "28 Jun, 18:31",
+      "isNew": true,
+      "id": "24 61782671471"
+    },
+    {
+      "title": "Mallakastër, shuhet vatra e fundit e zjarrit në Hekal pas ndërhyrjes nga ajri dhe toka",
+      "link": "https://24-ore.com/mallakaster-shuhet-vatra-e-fundit-e-zjarrit-ne-hekal-pas-nderhyrjes-nga-ajri-dhe-toka/",
+      "description": "Ndërhyrja e koordinuar nga ajri dhe toka ka bërë të mundur vënien plotësisht nën kontroll të zjarrit masiv që përfshiu kodrat e Hekalit, në Bashkinë e Mallakastrës. Operacioni i forcave të shpëtimit ka zgjatur gjatë gjithë ditës, ku vendimtar ka qenë angazhimi i helikopterit të Forcave të Armatosura",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-28T18:30:59+00:00",
+      "dateStr": "28 Jun, 18:30",
+      "isNew": true,
+      "id": "24 71782671459"
+    },
+    {
+      "title": "Zjarri në Hekal/ Mallakastër, normalizohet situata pas ndërhyrjes nga ajri",
+      "link": "https://abcnews.al/zjarri-ne-hekal-mallakaster-normalizohet-situata-pas-nderhyrjes-nga-ajri/",
+      "description": "Zjarrfikësit e Mallakastrës kanë vënë nën kontroll situatën në Hekal, ku një vatër zjarri, që nisi në mëngjes, u riaktivizua pasdite, duke rrezikuar edhe murin e qytetit antik të Bylisit. Helikopteri i Forcave të Armatosura operoi për pesë orë në zonë, duke ndihmuar forcat në terren në izolimin e fl",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-28T18:26:40+00:00",
+      "dateStr": "28 Jun, 18:26",
+      "isNew": true,
+      "id": "abc31782671200"
+    },
+    {
+      "title": "Steve Clarke largohet nga posti i trajnerit të Skocisë, SFA nis kërkimin për pasardhës",
+      "link": "https://24-ore.com/steve-clarke-largohet-nga-posti-i-trajnerit-te-skocise-sfa-nis-kerkimin-per-pasardhes/",
+      "description": "Steve Clarke ka dhënë dorëheqjen si trajner i kombëtares së Skocisë, ndërsa Federata Skoceze e Futbollit (SFA) konfirmon se do të nisë menjëherë procesin për zgjedhjen e një pasardhësi. Shtyrja e përparimit në fazën e nokautit të Kupës së Botës shpejtoi vendimin e palëve për ndarjen e rrugëve pas tu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-28T18:23:08+00:00",
+      "dateStr": "28 Jun, 18:23",
+      "isNew": true,
+      "id": "24 81782670988"
+    },
+    {
+      "title": "Dita e 29-të e protestës, qytetarët marshojnë drejt Kryeministrisë",
+      "link": "https://24-ore.com/dita-e-29-te-e-protestes-qytetaret-marshojne-drejt-kryeministrise/",
+      "description": "Ka nisur në Tiranë protesta e 29-të kundër qeverisë dhe kryeministrit Edi Rama. Qytetarët u mblodhën fillimisht sheshi ‘Skëndërbej’, për të marshuar më pas drejt Kryeministrisë, teksa nuk mungon thirrja simbolizuese e këtyre tubimeve. “Rama n’burg, Berisha n’burg”. Më herët, për herë të parë që nga ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-28T18:20:48+00:00",
+      "dateStr": "28 Jun, 18:20",
+      "isNew": true,
+      "id": "24 91782670848"
+    },
+    {
+      "title": "Dita 29 e protestës, pamjet e para nga lart: Ja pjesëmarrja e qytetarëve në orën 20:00",
+      "link": "https://abcnews.al/dita-29-e-protestes-pamjet-e-para-nga-lart-ja-pjesemarrja-e-qytetareve-ne-oren-2000/",
+      "description": "Qytetarët protestojnë për të 29-ën ditë me radhë përpara Kryeministrisë, kundër investimit në Zvërnec. ABC News sjell pamjet e para me dron të pjesëmarrjes në bulevardin “Dëshmorët e Kombit”. Pamjet tregojnë pjesëmarrjen modeste të qytetarëve këtë të diel. Në video është pjesëmarrja në protestë në o",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-28T18:14:15+00:00",
+      "dateStr": "28 Jun, 18:14",
+      "isNew": true,
+      "id": "abc41782670455"
+    },
+    {
+      "title": "Kush vjen nga Kosova dhe RMV në Tiranë? Mehmeti: Mbështetës të Lëvizjes Vetëvendosje vijnë më së shumti në protestë",
+      "link": "https://abcnews.al/kush-vjen-nga-kosova-dhe-rmv-ne-tirane-mehmeti-mbeshtetes-te-levizjes-vetevendosje-vijne-me-se-shumti-ne-proteste/",
+      "description": "Gazetari Faton Mehmeti thotë se mbështetësit e Lëvizjes Vetëvendosje, jana ata q1% kanë shkuar më së shumti në protestën në Tiranë, ku kërkohet dorëheqja e kryeministrit Edi Rama. Në emisionin &#8220;Newsroom&#8221; në ABC News, Mehmeti u shpreh se Albin Kurti kërkon të hakmerret politikisht ndaj Ra",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-28T17:36:50+00:00",
+      "dateStr": "28 Jun, 17:36",
+      "isNew": true,
+      "id": "abc51782668210"
+    },
+    {
+      "title": "Ish-demokratë pro Ramës, kundër protestës/ Nura: Nuk kanë shpresë te PD e Berishës, i drejtohen Ramës",
+      "link": "https://abcnews.al/ish-demokrate-pro-rames-kunder-protestes-nura-nuk-kane-shprese-te-pd-e-berishes-i-drejtohen-rames/",
+      "description": "Ish-demokratë si Edmond Spaho dhe Jola Hysaj kanë mbështetur kryeministrin Edi Rama dhe kanë dalë kundër protestave që po zhvillohen para zyrës së tij. Ish-nënkryetari i Partisë Demokratike, Edmond Spaho, i ka bërë thirrje kryeministrit Edi Rama të mos dorëzohet para protestave në bulevard, por të v",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-28T17:20:54+00:00",
+      "dateStr": "28 Jun, 17:20",
+      "isNew": true,
+      "id": "abc61782667254"
     },
     {
       "title": "Rrëzohet helikopteri në Arabinë Saudite, humbin jetën 14 persona",
@@ -45,62 +199,7 @@
       "date": "2026-06-28T16:49:24+00:00",
       "dateStr": "28 Jun, 16:49",
       "isNew": true,
-      "id": "abc01782665364"
-    },
-    {
-      "title": "Natasha Kandiq ngre dyshime për varr masiv të mundshëm në Pasuljanske Livade",
-      "link": "https://24-ore.com/natasha-kandiq-ngre-dyshime-per-varr-masiv-te-mundshem-ne-pasuljanske-livade/",
-      "description": "Themeluesja e Fondit për të Drejtën Humanitare, Natasha Kandiq, ka përmendur mundësinë e ekzistencës së varrit masiv në Pasuljanske Livade në Serbi. Përmes një postimi në “X”, Kandiq ka thënë se kjo çështje ka qenë temë e takimit që ajo pati zhvilluar në vitin 2008 me ministrin e atëhershëm të Mbroj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-28T16:46:17+00:00",
-      "dateStr": "28 Jun, 16:46",
-      "isNew": true,
-      "id": "24 31782665177"
-    },
-    {
-      "title": "Protesta po hyn në një fazë të re? Aktivistja propozon ngritjen e një Kuvendi Kombëtar Qytetar",
-      "link": "https://24-ore.com/protesta-po-hyn-ne-nje-faze-te-re-aktivistja-propozon-ngritjen-e-nje-kuvendi-kombetar-qytetar/",
-      "description": "Aktivistja Flora Xhemani Baba ka bërë një thirrje publike për krijimin e një”Kuvendi Kombëtar Qytetar”, që sipas saj do të përfaqësojë zërin e qytetarëve dhe do të shërbejë si një institucion i ri shoqëror për ndryshimin e sistemit aktual. Në një postim në Facebook, ajo shprehet se protesta po hyn n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-28T16:46:04+00:00",
-      "dateStr": "28 Jun, 16:46",
-      "isNew": true,
-      "id": "24 41782665164"
-    },
-    {
-      "title": "Protesta drejt Lëvizjes, apo përballë vetes",
-      "link": "https://24-ore.com/protesta-drejt-levizjes-apo-perballe-vetes/",
-      "description": "Nga Ben Andoni Historianit amerikan Snyder, njeriut që parashikoi të gjithë natyrën e pushtetit të Presidentit në detyrë të SHBA-së Trump dhe rrezikun e vendimeve të tij, mund t’i atribuojmë dhe faktin e një parashikimi sa i përket protestës së “Flamingove”. “Idetë për ndryshim duhet të angazhojnë n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-28T16:45:33+00:00",
-      "dateStr": "28 Jun, 16:45",
-      "isNew": true,
-      "id": "24 51782665133"
-    },
-    {
-      "title": "Tifozët e Skocisë propozojnë emra si Postecoglou dhe Moyes pas dorëheqjes së Clarke",
-      "link": "https://24-ore.com/tifozet-e-skocise-propozojne-emra-si-postecoglou-dhe-moyes-pas-doreheqjes-se-clarke/",
-      "description": "Steve Clarke dha dorëheqjen pas eliminimit të Skocisë në Botëror, ndërsa skuadra ende ndodhet në bazën e turneut. Edhe para se federata të nisë formalitetet për gjetjen e pasardhësit, debati mbi emrin e ri të trajnerit ka marrë hov ndër tifozët. Raporton bbc se emrat që përmenden më shpesh janë Ange",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-28T16:37:46+00:00",
-      "dateStr": "28 Jun, 16:37",
-      "isNew": true,
-      "id": "24 61782664666"
-    },
-    {
-      "title": "Nga larg vëmendjes në pasarelë, djemtë e Britney Spears debutojnë në Paris",
-      "link": "https://24-ore.com/nga-larg-vemendjes-ne-pasarele-djemte-e-britney-spears-debutojne-ne-paris/",
-      "description": "Djemtë e Britney Spears, Sean Preston Federline dhe Jayden James Federline, kanë bërë debutimin e tyre si model në pasarelë gjatë Paris Fashion Week, duke tërhequr vëmendjen e publikut dhe mediave. Sean, 20 vjeç, dhe Jayden, 19 vjeç, parakaluan në sfilatën e koleksionit Vetements Menswear Pranverë/V",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-28T16:36:03+00:00",
-      "dateStr": "28 Jun, 16:36",
-      "isNew": true,
-      "id": "24 71782664563"
+      "id": "abc71782665364"
     },
     {
       "title": "NewsHour me Erneta Shevroja, (28/06/2026)",
@@ -111,29 +210,7 @@
       "date": "2026-06-28T16:35:40+00:00",
       "dateStr": "28 Jun, 16:35",
       "isNew": true,
-      "id": "abc11782664540"
-    },
-    {
-      "title": "Avokati i popullit në Maqedoni lobon pro studentëve, kërkon test shqip në provimin e Jurisprudencës",
-      "link": "https://24-ore.com/avokati-i-popullit-ne-maqedoni-lobon-pro-studenteve-kerkon-test-shqip-ne-provimin-e-jurisprudences/",
-      "description": "Studentët shqiptarë në Maqedoni të Veriut mund të dalin sërish në protestë, nëse nuk miratohet kërkesa e tyre që provimi i jurisprudencës në këtë shtet të mbahet edhe në gjuhen shqipe. Që ky test të mbahen edhe në këtë gjuhë, po punon edhe Avokati i Popullit në fqinjin jugor të Kosovës. Faton Selami",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-28T16:22:04+00:00",
-      "dateStr": "28 Jun, 16:22",
-      "isNew": true,
-      "id": "24 81782663724"
-    },
-    {
-      "title": "Aksident gjatë xhirimeve të “Wednesday”, Eva Green dërgohet me urgjencë në spital",
-      "link": "https://24-ore.com/aksident-gjate-xhirimeve-te-wednesday-eva-green-dergohet-me-urgjence-ne-spital/",
-      "description": "Aktorja franceze Eva Green është dërguar me urgjencë në spital pasi pësoi një aksident gjatë xhirimeve të sezonit të tretë të serialit të Netflix, &#8220;Wednesday&#8221;. Sipas raportimeve të mediave britanike, 45-vjeçarja, e njohur për rolin e Vesper Lynd në filmin &#8220;Casino Royale&#8221;, u l",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-28T16:21:22+00:00",
-      "dateStr": "28 Jun, 16:21",
-      "isNew": true,
-      "id": "24 91782663682"
+      "id": "abc81782664540"
     },
     {
       "title": "Tërmeti në Venezuelë, UNICEF: 680 mijë fëmijë kanë nevojë për ndihmë humanitare",
@@ -144,84 +221,7 @@
       "date": "2026-06-28T16:12:36+00:00",
       "dateStr": "28 Jun, 16:12",
       "isNew": true,
-      "id": "abc21782663156"
-    },
-    {
-      "title": "Trump kërcënon Iranin/ Presidenti i SHBA: Nuk do të ekzistojë më nëse vazhdon kështu",
-      "link": "https://abcnews.al/trump-kercenon-iranin-presidenti-i-shba-nuk-do-te-ekzistoje-me-nese-vazhdon-keshtu/",
-      "description": "Shtetet e Bashkuara kanë kryer sulme të reja ndaj Iranit, pas sulmit me dron që Republika Islamike kreu ndaj një anijeje me flamur panamez në Ngushticën e Hormuzit. Komanda Qendrore amerikane deklaroi se goditi objektiva të shumtë nëpër Iran për t’iu përgjigjur agresionit, sipas saj, të vazhdueshëm ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-28T15:44:16+00:00",
-      "dateStr": "28 Jun, 15:44",
-      "isNew": true,
-      "id": "abc31782661456"
-    },
-    {
-      "title": "Tensione në Vidovdan/ Ndalohen disa persona, masa sigurie dhe ndalim i simboleve të urrejtjes",
-      "link": "https://abcnews.al/tensione-ne-vidovdan-ndalohen-disa-persona-masa-sigurie-dhe-ndalim-i-simboleve-te-urrejtjes/",
-      "description": "Edhe këtë vit, festa e Vidovdanit në Gazimestan u shoqërua me tensione dhe disa persona u ndaluan nga Policia. Çdo 28 qershor, serbë nga Kosova, Serbia apo vende të rajonit mblidhen rreth dhjetë kilometra larg Prishtinës për ta përkujtuar betejën kundër ushtrisë osmane në Kosovë në vitin 1389. Vidov",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-28T15:24:36+00:00",
-      "dateStr": "28 Jun, 15:24",
-      "isNew": true,
-      "id": "abc41782660276"
-    },
-    {
-      "title": "Spaho thirrje Ramës: Mos u dorëzo! Ish nënkryetari i PD: Protesta me prapavije politike",
-      "link": "https://abcnews.al/spaho-thirrje-rames-mos-u-dorezo-ish-nenkryetari-i-pd-protesta-me-prapavije-politike/",
-      "description": "Ish-nënkryetari i Partisë Demokratike, Edmond Spaho, i ka bërë thirrje kryeministrit Edi Rama të mos dorëzohet para protestave në bulevard, por të vijojë misionin historik për ta anëtarësuar Shqipërinë në BE në vitin 2030. &#8220;Dëmi më i madh që do t&#8217;i bëje këtij vendi nuk është e shkuara jo",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-28T15:06:46+00:00",
-      "dateStr": "28 Jun, 15:06",
-      "isNew": true,
-      "id": "abc51782659206"
-    },
-    {
-      "title": "NewsHour me Fabiola Hoxha, (28/06/2026)",
-      "link": "https://abcnews.al/newshour-me-fabiola-hoxha-28-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-28T14:53:00+00:00",
-      "dateStr": "28 Jun, 14:53",
-      "isNew": true,
-      "id": "abc61782658380"
-    },
-    {
-      "title": "Ministri i Jashtëm iranian: Vetëm Teherani duhet ta menaxhojë Ngushticën e Hormuzit",
-      "link": "https://abcnews.al/ministri-i-jashtem-iranian-vetem-teherani-duhet-ta-menaxhoje-ngushticen-e-hormuzit/",
-      "description": "Ministri i Jashtëm i Iranit, Abbas Araghchi, ka thënë se vetëm Teherani duhet të menaxhojë Ngushticën e Hormuzit. Duke folur gjatë një vizite në Bagdad të Irakut të dielën, zoti tha: &#8220;Çdo ndërhyrje në këtë çështje, çdo përpjekje për të krijuar marrëveshje të reja ose të ndara nga ato që po kry",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-28T14:35:38+00:00",
-      "dateStr": "28 Jun, 14:35",
-      "isNew": true,
-      "id": "abc71782657338"
-    },
-    {
-      "title": "Spanja heq Gjibraltarin nga lista e saj e parajsave tatimore pas 35 vitesh, shton Rusinë",
-      "link": "https://abcnews.al/spanja-heq-gjibraltarin-nga-lista-e-saj-e-parajsave-tatimore-pas-35-vitesh-shton-rusine/",
-      "description": "Spanja ka hequr zyrtarisht Gjibraltarin nga lista e saj e juridiksioneve tatimore jo-bashkëpunuese pas 35 vitesh, sipas një urdhri ministror të botuar të shtunën në Gazetën Zyrtare të Shtetit. Vendimi konfirmon diçka që kishte qenë në tryezë për vite me radhë: Spanja nuk e konsideron më Gjibraltarin",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-28T14:08:37+00:00",
-      "dateStr": "28 Jun, 14:08",
-      "isNew": true,
-      "id": "abc81782655717"
-    },
-    {
-      "title": "Tragjedi në ajër, 11 viktima/ Avioni për parashutizëm rrëzohet në Francë. Viktimat, instruktore e studente",
-      "link": "https://abcnews.al/tragjedi-ne-ajer-11-viktima-avioni-per-parashutizem-rrezohet-ne-france-viktimat-instruktore-e-studente/",
-      "description": "Të paktën 11 persona humbën jetën pasi një aeroplan i përdorur për hedhje me parashutë u rrëzua pranë aeroportit të Nancy në Francë. Mediat franceze raportuan se midis viktimave ishin pesë instruktorë parashutizmi, pesë studentë dhe piloti me përvojë i avionit. Po të njëjtat burime thonë se tre pers",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-28T13:48:41+00:00",
-      "dateStr": "28 Jun, 13:48",
-      "isNew": true,
-      "id": "abc91782654521"
+      "id": "abc91782663156"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
