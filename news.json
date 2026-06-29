@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-06-29T22:52:08.049361+00:00",
+  "lastUpdated": "2026-06-29T23:59:40.516142+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Valë e nxehtësisë përfshin qytetet pritëse të Botërorit në SHBA — çfarë pritet këtë javë",
+      "link": "https://24-ore.com/vale-e-nxehtesise-perfshin-qytetet-pritese-te-boterorit-ne-shba-cfare-pritet-kete-jave/",
+      "description": "Një “kupolë e nxehtësisë” pritet të mbulojë pjesën qendrore dhe lindore të Shteteve të Bashkuara gjatë raundit të eleminimit në Botërorin e futbollit, duke shtuar rrezikun për lojtarët dhe spektatorët. Indeksi i nxehtësisë — që kombinon temperaturën e ajrit me lagështinë — do të shkojë në vlera me t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T23:51:20+00:00",
+      "dateStr": "29 Jun, 23:51",
+      "isNew": true,
+      "id": "24 01782777080"
+    },
+    {
+      "title": "Bastet për Kupën e Botës tejkalojnë pritshmëritë, nxitëse audienca amerikane",
+      "link": "https://24-ore.com/bastet-per-kupen-e-botes-tejkalojne-pritshmerite-nxitese-audienca-amerikane/",
+      "description": "Operatorët e bastesh pohojnë se vëllimi i basteve për Kupën e Botës ka tejkaluar pritshmëritë, të nxitur kryesisht nga interesimi i madh në Shtetet e Bashkuara, ku ndeshjet shihen drejtpërdrejt në orët e përshtatshme dhe ku kombëtarja po ka rezultatet më të mira në histori. Sipas Associated Press, d",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T23:50:39+00:00",
+      "dateStr": "29 Jun, 23:50",
+      "isNew": true,
+      "id": "24 11782777039"
+    },
+    {
+      "title": "Paraguai eliminoi Gjermaninë pas penalltive dhe kualifikohet në 1/8 e finales së Botërorit",
+      "link": "https://24-ore.com/paraguai-eliminoi-gjermanine-pas-penalltive-dhe-kualifikohet-ne-1-8-e-finales-se-boterorit/",
+      "description": "Paraguai mposhti Gjermaninë në seri penalltie 4-3 dhe kaloi në 1/8 e finales së Kupës së Botës, pas një barazimi 1-1 në kohën e rregullt dhe në shtesë. Penalltia vendimtare u realizua nga José Canale në ndeshjen e zhvilluar në Foxborough, Massachusetts, më 29 qershor 2026. Sipas Associated Press, Ju",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T23:40:38+00:00",
+      "dateStr": "29 Jun, 23:40",
+      "isNew": true,
+      "id": "24 21782776438"
+    },
+    {
+      "title": "VIDEO / Xhama të thyer dhe dyer të shkatërruara, pasojat pas sulmit të protestuesve te ‘Politekniku’",
+      "link": "https://24-ore.com/video-xhama-te-thyer-dhe-dyer-te-shkaterruara-pasojat-pas-sulmit-te-protestuesve-te-politekniku/",
+      "description": "Xhama të thyer dhe dyer të shkatërruara janë ato çfarë mbetën pas përplasjes që protestuesit patën me rojet e Universitetit Politeknik, ndërsa te sheshi para Kryeministrisë qytetarët vijonin fjalimet. Në pamjet e siguruara nga Top Channel duken disa xhama të thyer dhe dyer të prishura të ambinteve t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T23:23:05+00:00",
+      "dateStr": "29 Jun, 23:23",
+      "isNew": true,
+      "id": "24 31782775385"
+    },
+    {
+      "title": "Botërori: Norvegjia përqendrohet te ndeshja me Bregun e Fildishtë, jo te një përballje me Brazilin",
+      "link": "https://24-ore.com/boterori-norvegjia-perqendrohet-te-ndeshja-me-bregun-e-fildishte-jo-te-nje-perballje-me-brazilin/",
+      "description": "Norvegjia po përgatitet për ndeshjen e raundit të eliminimit kundër Bregut të Fildishtë, që do të luhet në stadiumin e Dallas Cowboys të martën. Kjo është hera e parë që kombëtarja norvegjeze luan një ndeshje të fazës së eliminimit në një Botëror që nga 1998, dhe mesfushori Sander Berge thotë se ndj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T23:06:07+00:00",
+      "dateStr": "29 Jun, 23:06",
+      "isNew": true,
+      "id": "24 41782774367"
+    },
     {
       "title": "Brazili në kohën shtesë e eliminoi Japoninë 2-1 në rundin e 32",
       "link": "https://24-ore.com/brazili-ne-kohen-shtese-e-eliminoi-japonine-2-1-ne-rundin-e-32/",
@@ -12,7 +67,7 @@
       "date": "2026-06-29T22:50:52+00:00",
       "dateStr": "29 Jun, 22:50",
       "isNew": true,
-      "id": "24 01782773452"
+      "id": "24 51782773452"
     },
     {
       "title": "Botërori po i ndihmon amerikanët të shohin veten përmes syve të vizitorëve",
@@ -23,7 +78,7 @@
       "date": "2026-06-29T22:43:09+00:00",
       "dateStr": "29 Jun, 22:43",
       "isNew": true,
-      "id": "24 11782772989"
+      "id": "24 61782772989"
     },
     {
       "title": "Esmir Bajraktarević zgjodhi Bosnën dhe tani do të përballë SHBA-në në 32-shet e Botërorit",
@@ -34,7 +89,7 @@
       "date": "2026-06-29T22:42:19+00:00",
       "dateStr": "29 Jun, 22:42",
       "isNew": true,
-      "id": "24 21782772939"
+      "id": "24 71782772939"
     },
     {
       "title": "Gjermania dhe Paraguaji në kohë shtesë pas barazimit 1-1 në raundin e 32 të Kupës së Botës",
@@ -45,7 +100,7 @@
       "date": "2026-06-29T22:40:34+00:00",
       "dateStr": "29 Jun, 22:40",
       "isNew": true,
-      "id": "24 31782772834"
+      "id": "24 81782772834"
     },
     {
       "title": "Martinelli në minutat e shtesës shpëton Brazilin, Ancelotti vendimtar për kthesën",
@@ -56,18 +111,7 @@
       "date": "2026-06-29T22:26:31+00:00",
       "dateStr": "29 Jun, 22:26",
       "isNew": true,
-      "id": "24 41782771991"
-    },
-    {
-      "title": "Botërori 2026: Franca, Norvegjia dhe Meksika në raundin me eleminim — kush luan të martën",
-      "link": "https://24-ore.com/boterori-2026-franca-norvegjia-dhe-meksika-ne-raundin-me-eleminim-kush-luan-te-marten/",
-      "description": "Faza e 32-s së Kupës së Botës vazhdon me tre ndeshje të rëndësishme të martën: Bregu i Fildishtë–Norvegjia, Franca–Suedi dhe Meksika–Ekuadori. Franca kthehet në fushë me trajnerin Didier Deschamps pas një mungese një ndeshjeje, ndërsa Norvegjia shënon rikthimin e saj në fazën me eleminim për herë të",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T22:00:40+00:00",
-      "dateStr": "29 Jun, 22:00",
-      "isNew": true,
-      "id": "24 51782770440"
+      "id": "24 91782771991"
     },
     {
       "title": "War Report me Sali Doçin, (29/06/2026)",
@@ -81,17 +125,6 @@
       "id": "abc01782769998"
     },
     {
-      "title": "Gruaja e Victor Lindelöf përplaset nga një bull mekanik gjatë Botërorit",
-      "link": "https://24-ore.com/gruaja-e-victor-lindelof-perplaset-nga-nje-bull-mekanik-gjate-boterorit/",
-      "description": "Maja Nilsson Lindelöf u hodh nga një bull mekanik ndërsa po qëndronte në një lokal në Texas gjatë ndeshjeve të Botërorit. Ajo publikoi në Instagram një video ku shfaqet duke u ngjitur në bull mbrapsht, zbrit për të këshilluar miqtë dhe më pas rimontohet, por pas disa sekondash përfundon e hedhur për",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T21:45:36+00:00",
-      "dateStr": "29 Jun, 21:45",
-      "isNew": true,
-      "id": "24 61782769536"
-    },
-    {
       "title": "Protesta në ditën e 30/ Fatos Mahmutaj: E ka humbur busullën, nuk është më ajo e para!",
       "link": "https://abcnews.al/protesta-ne-diten-e-30-fatos-mahmutaj-e-ka-humbur-busullen-nuk-eshte-me-ajo-e-para/",
       "description": "Gazetari Fatos Mahmutaj në një intervistë në “Ora e Fundit” në ABC News, foli për protestën. Ai u shpreh se protesta e ka humbur busullën. “Protestat e katandisën në këtë gjendje. Protesta nuk është më ajo e para për të cilën e nisën. Tashmë e ka humbur busullën. Problemi tani i tyre është mes njëri",
@@ -101,39 +134,6 @@
       "dateStr": "29 Jun, 21:41",
       "isNew": true,
       "id": "abc11782769274"
-    },
-    {
-      "title": "Mazniku: Rama dhe të gjithë ne kemi një kontratë me 860 mijë votues",
-      "link": "https://24-ore.com/mazniku-rama-dhe-te-gjithe-ne-kemi-nje-kontrate-me-860-mije-votues-2/",
-      "description": "Deputeti i Partisë Socialiste Arbjan Mazniku deklaroi në emisionin “3D” të Alban Dudushit në RTSH1 se kërkesat për dorëheqje të kryeministrit Edi Rama dhe largim të mazhorancës përfaqësojnë një kalim nga pakënaqësia legjitime në sfidim ndaj vullnetit të 860.000 votuesve që i kanë dhënë mazhorancës m",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T21:37:59+00:00",
-      "dateStr": "29 Jun, 21:37",
-      "isNew": true,
-      "id": "24 71782769079"
-    },
-    {
-      "title": "Ja Morant kalon te Portland; Grizzlies marrin Jerami Grant dhe Kris Murray",
-      "link": "https://24-ore.com/ja-morant-kalon-te-portland-grizzlies-marrin-jerami-grant-dhe-kris-murray/",
-      "description": "Ja Morant do t&#8217;i bashkohet Portland Trail Blazers, ndërsa Memphis Grizzlies do të marrin në shkëmbim Jerami Grant dhe Kris Murray në një marrëveshje të finalizuar të hënën. Lëvizja shënon përfundimin e periudhës së Morant me skuadrën që e zgjodhi të dytin në draftin e 2019 dhe ku ai fitoi titu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T21:27:20+00:00",
-      "dateStr": "29 Jun, 21:27",
-      "isNew": true,
-      "id": "24 81782768440"
-    },
-    {
-      "title": "Lukaku me formë të pasigurt para sfidës me Senegal, por thotë se është i lumtur të marrë pjesë në Botëror",
-      "link": "https://24-ore.com/lukaku-me-forme-te-pasigurt-para-sfides-me-senegal-por-thote-se-eshte-i-lumtur-te-marre-pjese-ne-boteror/",
-      "description": "Romelu Lukaku mbetet një pikë e pasigurt për Belgjikën përpara ndeshjes së raundit të 32-ës kundër Senegali; sulmuesi 33-vjeçar thotë se po punon për t’u rikuperuar dhe se është i kënaqur që është pjesë e skuadrës në Kupën e Botës. Raporton Associated Press se Lukaku u tërhoq nga miqësoret e Belgjik",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T21:25:49+00:00",
-      "dateStr": "29 Jun, 21:25",
-      "isNew": true,
-      "id": "24 91782768349"
     },
     {
       "title": "VIDEO/ Përmbytjet në Ganë lënë tre viktima, ekipet e shpëtimit evakuojnë banorët me varka",
