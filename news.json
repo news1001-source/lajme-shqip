@@ -1,18 +1,183 @@
 {
-  "lastUpdated": "2026-06-29T19:50:38.104235+00:00",
+  "lastUpdated": "2026-06-29T21:21:26.593503+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Flamingos, një revolucion proxy?",
-      "link": "https://24-ore.com/flamingos-nje-revolucion-proxy/",
-      "description": "Nga Ylli Pata Protesta e bërë protagoniste kryesore prej një muaji në Shqipëri, e cila jepet live dhe me detaje që nga mbledhja deri në mbyllje nga të gjitha televizionet tona, prej më shumë se një jave ka publikuar kërkesat e saj, të cilat i ka dërguar edhe në trupin diplomatik. Kërkesa kryesore, s",
+      "title": "VIDEO/ Përmbytjet në Ganë lënë tre viktima, ekipet e shpëtimit evakuojnë banorët me varka",
+      "link": "https://abcnews.al/video-permbytjet-ne-gane-lene-tre-viktima-ekipet-e-shpetimit-evakuojne-banoret-me-varka/",
+      "description": "Shirat e rrëmbyeshëm kanë shkaktuar përmbytje të mëdha në kryeqytetin e Ganës, Accra, duke marrë jetën e të paktën tre personave dhe duke shkaktuar dëme të konsiderueshme në disa zona të qytetit. Autoritetet lokale dhe mediat bëjnë të ditur se ekipet e shpëtimit janë detyruar të përdorin varka për t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-29T21:17:29+00:00",
+      "dateStr": "29 Jun, 21:17",
+      "isNew": true,
+      "id": "abc01782767849"
+    },
+    {
+      "title": "Goli historik i Stephen Eustaquio dërgon përfaqësuesen e Kanadasë në raundin tjetër të Kupës së Botës",
+      "link": "https://24-ore.com/goli-historik-i-stephen-eustaquio-dergon-perfaqesuesen-e-kanadase-ne-raundin-tjeter-te-kupes-se-botes/",
+      "description": "Stephen Eustaquio shënoi golin e parë dhe vendimtar për përfaqësuesen e Kanadasë në ndeshjen e raundit të 32 kundër Afrikës së Jugut, që u luajt në Inglewood, Kaliforni, më 28 qershor 2026. Goli i tij vendosi fituesin e përballjes dhe siguroi kalimin e Kanadasë në raundin tjetër, ndërsa Afrika e Jug",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-06-29T19:42:43+00:00",
-      "dateStr": "29 Jun, 19:42",
+      "date": "2026-06-29T21:11:43+00:00",
+      "dateStr": "29 Jun, 21:11",
       "isNew": true,
-      "id": "24 01782762163"
+      "id": "24 01782767503"
+    },
+    {
+      "title": "SHBA-ja me besim drejt fazës së eliminimit të Kupës së Botës pas nisjes së fortë në shtëpi",
+      "link": "https://24-ore.com/shba-ja-me-besim-drejt-fazes-se-eliminimit-te-kupes-se-botes-pas-nisjes-se-forte-ne-shtepi/",
+      "description": "Kapiteni Tim Ream thotë se skuadra e Shteteve të Bashkuara po e përjeton si një mundësi historike këtë pjesëmarrje të Kupës së Botës që zhvillohet në terrenin e tyre. Në qendrën stërvitore në Orange County lojtaret dukeshin të qetë dhe të motivuar, teksa Ream nënvizoi se presioni i vërtetë u ndje më",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T21:10:32+00:00",
+      "dateStr": "29 Jun, 21:10",
+      "isNew": true,
+      "id": "24 11782767432"
+    },
+    {
+      "title": "“Jeta e Gen Z nuk është si në vitin 2013”, ministri Gonxhja: Morëm një Shqipëri me një pajë tragjike",
+      "link": "https://24-ore.com/jeta-e-gen-z-nuk-eshte-si-ne-vitin-2013-ministri-gonxhja-morem-nje-shqiperi-me-nje-paje-tragjike/",
+      "description": "Ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja, komentoi protestat e fundit dhe reagimin e të rinjve të Gjeneratës Z, duke theksuar se kjo grupmoshë nuk e ka përjetuar realitetin e Shqipërisë para vitit 2013 dhe për këtë arsye nuk mund të bëjë të njëjtin krahasim me situatën aktuale. Sipa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T20:57:57+00:00",
+      "dateStr": "29 Jun, 20:57",
+      "isNew": true,
+      "id": "24 21782766677"
+    },
+    {
+      "title": "Muça: Nuk ka një intelektual që të marrë mikrofonin në protestë",
+      "link": "https://24-ore.com/muca-nuk-ka-nje-intelektual-qe-te-marre-mikrofonin-ne-proteste/",
+      "description": "Analisti Flogert Muça ka deklaruar në emisionin “3D” të Alban Dudushit në RTSH1 se në protestë nuk ka një intelektual që të marrë mikrofonin në protestë, duke theksuar mungesën e figurave serioze në podium. “Në momentin që ti del me platforma të asaj natyre dhe nuk ke një njeri serioz, një intelektu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T20:51:41+00:00",
+      "dateStr": "29 Jun, 20:51",
+      "isNew": true,
+      "id": "24 31782766301"
+    },
+    {
+      "title": "Sherr në Durrës/ Plagoset 45-vjeçari, policia në kërkim të autorëve",
+      "link": "https://abcnews.al/sherr-ne-durres-plagoset-45-vjecari-policia-ne-kerkim-te-autoreve/",
+      "description": "Një 45-vjeçar me shtetësi sllovene ka mbetur i plagosur mbrëmjen e së hënës pas një konflikti fizik të ndodhur në zonën e Shkallnurit, në Durrës. Sipas informacionit paraprak të policisë, rreth orës 21:30, shtetasi me inicialet M. M., i cili dyshohet se jetonte në kushte endacake, është konfliktuar ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-29T20:47:22+00:00",
+      "dateStr": "29 Jun, 20:47",
+      "isNew": true,
+      "id": "abc11782766042"
+    },
+    {
+      "title": "Pritja me gishtë e Zion Suzuki ndaj Vinícius Júnior që do të mbahet mend",
+      "link": "https://24-ore.com/pritja-me-gishte-e-zion-suzuki-ndaj-vinicius-junior-qe-do-te-mbahet-mend/",
+      "description": "Portieri i Japonisë, Zion Suzuki, bëri një pritje me gishtë ndaj Vinícius Júnior që do të kujtohet, megjithëse ekipi i tij u eliminua në fazën e 32-ave nga Brazili. Japonia kishte kaluar grupin F me një fitore dhe dy barazime, duke zënë vendin e dytë dhe përballë Brazilit në raundin e parë të elimin",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T20:46:25+00:00",
+      "dateStr": "29 Jun, 20:46",
+      "isNew": true,
+      "id": "24 41782765985"
+    },
+    {
+      "title": "Miratohet nevoja për sjelljen e Kodit Zgjedhor me procedurë të shkurtuar",
+      "link": "https://24-ore.com/miratohet-nevoja-per-sjelljen-e-kodit-zgjedhor-me-procedure-te-shkurtuar/",
+      "description": "Kuvendi, me 59 vota &#8220;pro&#8221;, tre vota &#8220;kundër&#8221; dhe pa &#8220;të përmbajtur&#8221;, votoi për të miratuar në tërësi projektligjin për ndryshimin dhe plotësimin e Kodit Zgjedhor, i cili është pjesë e agjendës së reformave. Nënkryetari i Kuvendit, Antonijo Miloshoski, ngarkoi Komi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T20:41:29+00:00",
+      "dateStr": "29 Jun, 20:41",
+      "isNew": true,
+      "id": "24 51782765689"
+    },
+    {
+      "title": "“Rama të mos dorëhiqet”, Spaho sqaron deklaratën dhe “shpërthen” kundër PD",
+      "link": "https://24-ore.com/rama-te-mos-dorehiqet-spaho-sqaron-deklaraten-dhe-shperthen-kunder-pd/",
+      "description": "Në një intervistë për Klan News, ish-deputeti i PD-së, Edmond Spaho, ka analizuar situatën aktuale politike, duke u ndalur te protestat qytetare, qëndrimi i tij ndaj kryeministrit dhe gjendja brenda opozitës. Spaho e cilësoi protestën 30-ditore të nisur për Zvërnecin si një kaos të pakuptimtë të nxi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T20:38:15+00:00",
+      "dateStr": "29 Jun, 20:38",
+      "isNew": true,
+      "id": "24 61782765495"
+    },
+    {
+      "title": "Jesuralem Post: Si depërtoi retorika antisemite në protestat anti-Kushner në Shqipëri",
+      "link": "https://24-ore.com/jesuralem-post-si-depertoi-retorika-antisemite-ne-protestat-anti-kushner-ne-shqiperi/",
+      "description": "Nga LARRY LUXNER Jerusalem Post/JTA Vëzhguesit vendas fajësojnë Rusinë, Iranin dhe Turqinë për përpjekjen për të mbjellë trazira në vend, i cili po kërkon anëtarësim në Bashkimin Evropian. Të tjerë e quajnë antisemitizmin një flamur të rremë. Protestat masive të përditshme në rrugë që tronditën këtë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T20:37:58+00:00",
+      "dateStr": "29 Jun, 20:37",
+      "isNew": true,
+      "id": "24 71782765478"
+    },
+    {
+      "title": "Mazniku: Rama dhe të gjithë ne kemi një kontratë me 860 mijë votues",
+      "link": "https://24-ore.com/mazniku-rama-dhe-te-gjithe-ne-kemi-nje-kontrate-me-860-mije-votues/",
+      "description": "Deputeti i Partisë Socialiste Arbjan Mazniku deklaroi në emisionin “3D” të Alban Dudushit në RTSH1 se kërkesat për dorëheqje të kryeministrit Edi Rama dhe largim të mazhorancës përfaqësojnë një kalim nga pakënaqësia legjitime në sfidim ndaj vullnetit të 860.000 votuesve që i kanë dhënë mazhorancës m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T20:36:27+00:00",
+      "dateStr": "29 Jun, 20:36",
+      "isNew": true,
+      "id": "24 81782765387"
+    },
+    {
+      "title": "Irani refuzon planin e mbështetur nga Macron për çminimin e Hormuzit",
+      "link": "https://abcnews.al/irani-refuzon-planin-e-mbeshtetur-nga-macron-per-cminimin-e-hormuzit/",
+      "description": "Irani të hënën hodhi poshtë një propozim të mbështetur nga Franca për bashkëpunim në pastrimin nga minat në Ngushticën e Hormuzit, duke paralajmëruar Parisin kundër asaj që e quajti provokime që mund të përkeqësojnë më tej situatën e ndjeshme detare. Zëvendësministri i Jashtëm për Çështje Ligjore dh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-29T20:35:55+00:00",
+      "dateStr": "29 Jun, 20:35",
+      "isNew": true,
+      "id": "abc21782765355"
+    },
+    {
+      "title": "“Ukraina ka avantazh në mbrojtje”, Krisafi: Përdorimi i teknologjisë ka ulur viktimat e luftës",
+      "link": "https://abcnews.al/ukraina-ka-avantazh-ne-mbrojtje-krisafi-perdorimi-i-teknologjise-ka-ulur-viktimat-e-luftes/",
+      "description": "Eksperti Ledion Krisafi deklaroi se Ukraina ka avantazhin e mbrojtjes, ndërsa Rusia duhet të angazhojë më shumë ushtarë për të çarë vijën e frontit. Sipas tij, përdorimi i dronëve ka ulur ndjeshëm numrin e viktimave dhe teknologjia po merr një rol gjithnjë e më të madh në luftë. Krisafi theksoi se U",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-29T20:30:35+00:00",
+      "dateStr": "29 Jun, 20:30",
+      "isNew": true,
+      "id": "abc31782765035"
+    },
+    {
+      "title": "SHBA dhe Irani pezullojnë sulmet, por mbeten të paqarta hapat për negociatat",
+      "link": "https://24-ore.com/shba-dhe-irani-pezullojne-sulmet-por-mbeten-te-paqarta-hapat-per-negociatat/",
+      "description": "Pas shkëmbimit të sulmeve gjatë fundjavës, Shtetet e Bashkuara dhe Irani njoftuan një ndalje të përkohshme të goditjeve, por mbeten të ndryshme pikëpamjet për hapat e mëtejshëm lidhur me negociatat për t’i dhënë fund luftës. Të dyja palët do të dërgojnë delegacione në Katar këtë javë, por ka mosmarr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-06-29T20:27:26+00:00",
+      "dateStr": "29 Jun, 20:27",
+      "isNew": true,
+      "id": "24 91782764846"
+    },
+    {
+      "title": "Starmer rikonfirmon angazhimin e Britanisë ndaj NATO-s",
+      "link": "https://abcnews.al/starmer-rikonfirmon-angazhimin-e-britanise-ndaj-nato-s/",
+      "description": "Kryeministri britanik Keir Starmer ka rikonfirmuar angazhimin e Mbretërisë së Bashkuar ndaj aleatëve evropianë në NATO, në një kohë kur vendi përballet me debate mbi nivelin e shpenzimeve për mbrojtjen. Gjatë një takimi në Downing Street me sekretarin e përgjithshëm të NATO-s, Mark Rutte, Starmer e ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-29T20:09:28+00:00",
+      "dateStr": "29 Jun, 20:09",
+      "isNew": true,
+      "id": "abc41782763768"
+    },
+    {
+      "title": "Shkon në 1719 numri i të vdekurve nga tërmetet në Venezuelë",
+      "link": "https://abcnews.al/shkon-ne-1719-numri-i-te-vdekurve-nga-termetet-ne-venezuele/",
+      "description": "Numri i viktimave nga dy tërmetet e njëpasnjëshme që goditën javën e kaluar Venezuelën është rritur në 1.719, tha presidenti i Asamblesë Kombëtare, Jorge Rodriguez. Në një fjalim në televizionin shtetëror, Rodriguez u tha gazetarëve se gjithsej 5.034 persona janë lënduar, ndërsa 15.866 familje janë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-06-29T20:00:37+00:00",
+      "dateStr": "29 Jun, 20:00",
+      "isNew": true,
+      "id": "abc51782763237"
     },
     {
       "title": "Dy viktima nga moti i nxehtë në Itali",
@@ -23,7 +188,7 @@
       "date": "2026-06-29T19:41:47+00:00",
       "dateStr": "29 Jun, 19:41",
       "isNew": true,
-      "id": "abc01782762107"
+      "id": "abc61782762107"
     },
     {
       "title": "Holanda ngre alarmin: Rusia mund të sulmojë shtetet e NATO-s pasi të përfundojë lufta në Ukrainë",
@@ -34,73 +199,7 @@
       "date": "2026-06-29T19:38:59+00:00",
       "dateStr": "29 Jun, 19:38",
       "isNew": true,
-      "id": "abc11782761939"
-    },
-    {
-      "title": "Franca, Deschamps mbështet Mbappé-n: Di si të mbrojë! Probleme për Thuram e Kante",
-      "link": "https://24-ore.com/franca-deschamps-mbeshtet-mbappe-n-di-si-te-mbroje-probleme-per-thuram-e-kante/",
-      "description": "Franca do të përballet të martën(ora 23:00) me Suedinë, dhe në prag të ndeshjes, trajneri i “Bluve”, Didier Deschamps, foli në konferencë për shtyp: “Ata janë një ekip shumë i mirë, me një prani të fortë atletike, veçanërisht në sulm, ku kanë shumë cilësi. Ata luajtën një ndeshje të parë të shkëlqye",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T19:36:32+00:00",
-      "dateStr": "29 Jun, 19:36",
-      "isNew": true,
-      "id": "24 11782761792"
-    },
-    {
-      "title": "Lojtari i kombëtares shqiptare transferohet te Vora",
-      "link": "https://24-ore.com/lojtari-i-kombetares-shqiptare-transferohet-te-vora/",
-      "description": "Vora zyrtarizon blerjen e sulmuesit anësor Briajan Gjyla. 19-vjeçari që është formuar si futbollist në Itali është pjesë e Kombëtares Shqiptare U-19. “Futboll Klub Vora njofton arritjen e marrëveshjes me klubin italian Union Brescia për transferimin e futbollistit Briajan Gjyla. 19-vjeçari i bashkoh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T19:36:20+00:00",
-      "dateStr": "29 Jun, 19:36",
-      "isNew": true,
-      "id": "24 21782761780"
-    },
-    {
-      "title": "Protestuesit marrin banderolën nga ambientet e Politeknikut, e valëvisin në shesh (VIDEO)",
-      "link": "https://24-ore.com/protestuesit-marrin-banderolen-nga-ambientet-e-politeknikut-e-valevisin-ne-shesh-video/",
-      "description": "Pas hyrjes në ambientet e Politeknikut, një grup protestuesish kanë arritur të marrin banderolën e cila u hoq në murin kryesor të Universitetit. Ata u drejtuan drejt Politeknikut pasi policia ndërhyri për heqjen e banderolës në të cilën shkruhej: ‘Studentët: Ju erdhi fundi”. Protestuesit arritën të ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T19:27:22+00:00",
-      "dateStr": "29 Jun, 19:27",
-      "isNew": true,
-      "id": "24 31782761242"
-    },
-    {
-      "title": "Irani: Nuk janë planifikuar bisedime me SHBA-në në ditët në vijim",
-      "link": "https://24-ore.com/irani-nuk-jane-planifikuar-bisedime-me-shba-ne-ne-ditet-ne-vijim/",
-      "description": "Irani tha të hënën se nuk janë planifikuar takime negociuese me Shtetet e Bashkuara në asnjë nivel në ditët në vijim, pasi Teherani mbetet i përqendruar në zbatimin e memorandumit të mirëkuptimit në vend që të kalojë në bisedime për marrëveshjen përfundimtare. Esmaeil Baghaei, një zëdhënës i Ministr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T19:27:06+00:00",
-      "dateStr": "29 Jun, 19:27",
-      "isNew": true,
-      "id": "24 41782761226"
-    },
-    {
-      "title": "Republikanët amerikanë po largohen nga Izraeli, Netanyahu rrezikon të humbasë mbështetjen më të fortë",
-      "link": "https://24-ore.com/republikanet-amerikane-po-largohen-nga-izraeli-netanyahu-rrezikon-te-humbase-mbeshtetjen-me-te-forte/",
-      "description": "Mbështetja tradicionale e Partisë Republikane për Izraelin po shfaq shenja dobësimi, ndërsa gjithnjë e më shumë republikanë, veçanërisht të rinjtë, po shprehin qëndrime kritike ndaj Qeverisë së kryeministrit Benjamin Netanyahu dhe luftës në Gaza. Sipas një analize të publikuar nga Axios, ndryshimi i",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T19:26:53+00:00",
-      "dateStr": "29 Jun, 19:26",
-      "isNew": true,
-      "id": "24 51782761213"
-    },
-    {
-      "title": "Martinelli shënon në minutat e fundit, Brazili mposht Japoninë 2-1 në Houston",
-      "link": "https://24-ore.com/martinelli-shenon-ne-minutat-e-fundit-brazili-mposht-japonine-2-1-ne-houston/",
-      "description": "Gabriel Martinelli shënoi në minutat e fundit të shtesës dhe vendosi fitoren 2-1 për Brazilin ndaj Japonisë në ndeshjen e raundit të 16-të të Botërorit, të zhvilluar të hënën në Houston. Kaishu Sano hapi rezultatin në minutën e 29-të pas një humbjeje topi nga Danilo, duke përshkuar fushën dhe duke p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T19:25:47+00:00",
-      "dateStr": "29 Jun, 19:25",
-      "isNew": true,
-      "id": "24 61782761147"
+      "id": "abc71782761939"
     },
     {
       "title": "Shpërthim në një platformë nafte në Venezuelë, plagosen tetë persona",
@@ -111,29 +210,7 @@
       "date": "2026-06-29T19:20:23+00:00",
       "dateStr": "29 Jun, 19:20",
       "isNew": true,
-      "id": "abc21782760823"
-    },
-    {
-      "title": "LSDM: Buxheti është bosh, rrezikohen pensionet",
-      "link": "https://24-ore.com/lsdm-buxheti-eshte-bosh-rrezikohen-pensionet/",
-      "description": "Partia opozitare LSDM akuzon Qeverinë e udhëhequr nga Hristijan Mickoski se po e shkatërron në mënyrë sistematike sistemin pensional në Maqedoninë e Veriut, duke paralajmëruar se mungesa e mjeteve financiare rrezikon pagesën e pensioneve dhe funksionimin e shtyllës së dytë pensionale. Në një konfere",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T19:16:36+00:00",
-      "dateStr": "29 Jun, 19:16",
-      "isNew": true,
-      "id": "24 71782760596"
-    },
-    {
-      "title": "Brazili përmbys Japoninë dhe kualifikohet mes 16 më të mirave të Botërorit",
-      "link": "https://24-ore.com/brazili-permbys-japonine-dhe-kualifikohet-mes-16-me-te-mirave-te-boterorit/",
-      "description": "Brazili vuan, por në fund arrin që të mposhtë me përmbysje 2-1 Japoninë dhe siguron një biletë mes 16 skuadrave më të mira të Kupës së Botës 2026. Japonezët mbyllin pjesën e parë në avantazh falë golit të shënuar nga Sano. Skuadra e Ancelottit reagon në pjesën e dytë duke barazuar shifrat me Casemir",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T19:16:19+00:00",
-      "dateStr": "29 Jun, 19:16",
-      "isNew": true,
-      "id": "24 81782760579"
+      "id": "abc81782760823"
     },
     {
       "title": "Botërori/ Vuajtje dhe festë për Brazilin, “Seleçao” kalon mes 16 më të mirave",
@@ -144,84 +221,7 @@
       "date": "2026-06-29T19:08:19+00:00",
       "dateStr": "29 Jun, 19:08",
       "isNew": true,
-      "id": "abc31782760099"
-    },
-    {
-      "title": "Botërori 2026: Brazil mposht Japoninë 2-1, Martinelli vendos në minutat shtesë",
-      "link": "https://24-ore.com/boterori-2026-brazil-mposht-japonine-2-1-martinelli-vendos-ne-minutat-shtese/",
-      "description": "Brazilia siguroi një fitore dramatike 2-1 ndaj Japonisë në një ndeshje të fazës së eliminimit, kur Gabriel Martinelli shënoi në minutën e pestë të kohës shtesë për të vendosur takimin. Casemiro barazoi shifrat në minutën e 56-të me një kokë pas një krose nga Rayan, duke tundur rrjetën përpara portie",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-06-29T19:07:46+00:00",
-      "dateStr": "29 Jun, 19:07",
-      "isNew": true,
-      "id": "24 91782760066"
-    },
-    {
-      "title": "“Franca me sulm të frikshëm”, ekspertët: Është skuadra më e kompletuar e Botërorit",
-      "link": "https://abcnews.al/franca-me-sulm-te-frikshem-ekspertet-eshte-skuadra-me-e-kompletuar-e-boterorit/",
-      "description": "Kombëtarja e Francës vazhdon të marrë vlerësime maksimale për paraqitjet e saj, duke u konsideruar nga ekspertët si favoritja kryesore për fitimin e Kupës së Botës. I ftuar në emisionin “Futboll, jo Soccer” në ABC News, gazetari Fatmir Mneri u shpreh se “Gjelat” janë shumë pranë perfeksionit, edhe p",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-29T19:01:10+00:00",
-      "dateStr": "29 Jun, 19:01",
-      "isNew": true,
-      "id": "abc41782759670"
-    },
-    {
-      "title": "Pakistani bombardon Afganistanin, 28 persona humbin jetën/ Reagon qeveria talebane: Akt frikacak",
-      "link": "https://abcnews.al/pakistani-bombardon-afganistanin-28-persona-humbin-jeten-reagon-qeveria-talebane-akt-frikacak/",
-      "description": "Të paktën 28 civilë humbën jetën dhe 49 të tjerë mbetën të plagosur pasi Pakistani kreu sulme ajrore dhe dërgoi trupa tokësore në disa provinca kufitare të Afganistanit të dielën, sipas Misionit të Kombeve të Bashkuara në Afganistan (UNAMA). Sipas UNAMA-s, mes viktimave ka gra dhe fëmijë. Qeveria ta",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-29T18:54:06+00:00",
-      "dateStr": "29 Jun, 18:54",
-      "isNew": true,
-      "id": "abc51782759246"
-    },
-    {
-      "title": "Edicioni qendror me Juli Krisafi, (29/06/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-29-06-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-29T18:50:00+00:00",
-      "dateStr": "29 Jun, 18:50",
-      "isNew": true,
-      "id": "abc61782759000"
-    },
-    {
-      "title": "Pamjet me dron, dita e 30-të e protestës/ Ja pjesëmarrja në bulevard në orën 21:00",
-      "link": "https://abcnews.al/pamjet-me-dron-dita-e-30-te-e-protestes-ja-pjesemarrja-ne-bulevard/",
-      "description": "Qytetarët protestojnë për të 30-ën ditë me radhë përpara Kryeministrisë, kundër investimit në Zvërnec. ABC News sjell pamjet me dron të pjesëmarrjes në bulevardin “Dëshmorët e Kombit”, rreth orës 21:00. Pamjet me dron tregojnë pjesëmarrjen modeste të qytetarëve këtë fillim jave.  / abcnews.al / [...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-29T18:48:48+00:00",
-      "dateStr": "29 Jun, 18:48",
-      "isNew": true,
-      "id": "abc71782758928"
-    },
-    {
-      "title": "Valë ekstreme të nxehti përfshin SHBA, temperaturat pritet të arrijnë deri në 46°C",
-      "link": "https://abcnews.al/vale-ekstreme-te-nxehti-perfshin-shba-temperaturat-pritet-te-arrijne-deri-ne-46c/",
-      "description": "Një valë e nxehtit pritet të përfshijë këtë javë dy të tretat e territorit të Shteteve të Bashkuara, duke rritur shqetësimet për ndikimin e saj në jetën e përditshme, si edhe në zhvillimin e aktiviteteve të rëndësishme, përfshirë ndeshjet e Kupës së Botës dhe festimet për 250-vjetorin e pavarësisë s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-29T18:41:38+00:00",
-      "dateStr": "29 Jun, 18:41",
-      "isNew": true,
-      "id": "abc81782758498"
-    },
-    {
-      "title": "Terror në Finlandë/ Çiklisti sulmon me thikë një emigrant, dyshohet se është autori i disa atentateve gjatë një viti",
-      "link": "https://abcnews.al/terror-ne-finlande-ciklisti-sulmon-me-thike-nje-emigrant-dyshohet-se-eshte-autori-i-disa-atentateve-gjate-nje-viti/",
-      "description": "Qyteti i Oulut në Finlandë është vënë në gatishmëri të lartë, ndërsa policia po heton një seri sulmesh me thikë ndaj disa emigrantëve. Autoritetet dyshojnë se pas disa prej incidenteve mund të fshihet i njëjti autor dhe kanë kërkuar ndihmën e qytetarëve për identifikimin e tij. Sulmi më i fundit ndo",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-06-29T18:22:45+00:00",
-      "dateStr": "29 Jun, 18:22",
-      "isNew": true,
-      "id": "abc91782757365"
+      "id": "abc91782760099"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
