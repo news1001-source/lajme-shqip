@@ -1,29 +1,150 @@
 {
-  "lastUpdated": "2026-07-03T20:59:32.532865+00:00",
+  "lastUpdated": "2026-07-03T22:10:14.012719+00:00",
   "totalSources": 2,
   "totalNews": 20,
   "news": [
     {
-      "title": "Marka: Do të ishte fatale që protesta e 4 Korrikut të kthehej në dhunë",
-      "link": "https://24-ore.com/marka-do-te-ishte-fatale-qe-protesta-e-4-korrikut-te-kthehej-ne-dhune/",
-      "description": "Përfaqësuesi i Lëvizjes Bashkë, Jani Marka, ka deklaruar se protesta e 4 Korrikut duhet të mbetet paqësore, duke paralajmëruar se çdo përshkallëzim i situatës do t’i shkaktonte dëm vetë kauzës së protestuesve. I ftuar në emisionin “3D” në RTSH, Marka u shpreh se një kthim i protestës në dhunë do të ",
+      "title": "The political stalemate continues – closer to an agreement or a return to elections?",
+      "link": "https://24-ore.com/the-political-stalemate-continues-closer-to-an-agreement-or-a-return-to-elections/",
+      "description": "Political analyst Arton Muhaxheri estimates that even after the certification of the election results, it remains unclear how the incumbent Prime Minister, Albin Kurti, will act in his efforts to create new institutions. Muhaxheri, invited to &#8220;FIVE&#8221; in Dukagjin, said that he does not see",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-03T20:47:12+00:00",
-      "dateStr": "03 Jul, 20:47",
+      "date": "2026-07-03T22:07:15+00:00",
+      "dateStr": "03 Jul, 22:07",
       "isNew": true,
-      "id": "24 01783111632"
+      "id": "24 01783116435"
     },
     {
-      "title": "Sekuestrimi i drogës në Rinas, njëri prej autorëve tentoi t’i shmangej kontrollit me pretendimin se gruaja ishte shtatzën",
-      "link": "https://24-ore.com/sekuestrimi-i-droges-ne-rinas-njeri-prej-autoreve-tentoi-ti-shmangej-kontrollit-me-pretendimin-se-gruaja-ishte-shtatzen/",
-      "description": "Rreth 46 kilogramë lëndë narkotike u sekuestruan në Aeroportin Ndërkombëtar të Rinasit. Autoritetet shqiptare janë sinjalizuar paraprakisht nga autoritetet kanadeze për të ushtruar një kontroll të imtësishëm mbi dërgesën e dyshimtë. Burimet për ABC News thanë se për transportimin e lëndës narkotike ",
+      "title": "Mauricio Pochettino do të hedhë topin e parë para ndeshjes Mariners–Blue Jays në Seattle",
+      "link": "https://24-ore.com/mauricio-pochettino-do-te-hedhe-topin-e-pare-para-ndeshjes-mariners-blue-jays-ne-seattle/",
+      "description": "Trajneri i kombëtares së Shteteve të Bashkuara, Mauricio Pochettino, do të hedhë topin e parë para ndeshjes së së premtes në mbrëmje mes Seattle Mariners dhe Toronto Blue Jays në Seattle. Sipas Associated Press, Pochettino luajti catch me disa lojtarë para stërvitjes së së premtes në Husky Soccer St",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-03T20:44:49+00:00",
-      "dateStr": "03 Jul, 20:44",
+      "date": "2026-07-03T22:02:31+00:00",
+      "dateStr": "03 Jul, 22:02",
       "isNew": true,
-      "id": "24 11783111489"
+      "id": "24 11783116151"
+    },
+    {
+      "title": "Vučić again comes to Radoić’s defense, experts: Dangerous message for the region",
+      "link": "https://24-ore.com/vucic-again-comes-to-radoics-defense-experts-dangerous-message-for-the-region/",
+      "description": "Serbian President Aleksandar Vučić has once again openly come out in defense of the organizer of the terrorist attack in Banjska, Milan Radoićić, stating that he is not being prosecuted for the terrorist attack in Banjska, but because of Kosovo. Vučić said this publicly earlier this week, even thoug",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-03T22:01:43+00:00",
+      "dateStr": "03 Jul, 22:01",
+      "isNew": true,
+      "id": "24 21783116103"
+    },
+    {
+      "title": "Kolumbia–Ghana: ndeshja që vendos kundërshtarin e Zvicrës në 1/8-finalet",
+      "link": "https://24-ore.com/kolumbia-ghana-ndeshja-qe-vendos-kundershtarin-e-zvicres-ne-1-8-finalet/",
+      "description": "Kolumbia dhe Ghana përballen në përfundim të fazës së 32 më të mirë të Kupës së Botës 2026 në Kansas City Stadium më 4 korrik 2026, me nisje në ora 02:30 BST. Fituesi i kësaj përballjeje do të përballet me Zvicrën në raundin e 16-s; arbitër i ndeshjes do të jetë Clément Turpin nga Franca. [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-03T21:58:59+00:00",
+      "dateStr": "03 Jul, 21:58",
+      "isNew": true,
+      "id": "24 31783115939"
+    },
+    {
+      "title": "Kupa e Botës 2026: Egjipti kalon në raundin e 16 me fitore në penallti ndaj Australisë",
+      "link": "https://24-ore.com/kupa-e-botes-2026-egjipti-kalon-ne-raundin-e-16-me-fitore-ne-penallti-ndaj-australise/",
+      "description": "Egjipti arriti fitoren e tij të parë në një ndeshje të fazës së nokaut të Kupës së Botës, duke mposhtur Australinë pas një seri penalltish në Dallas. Hossam Abdelmaguid shënoi penalltinë vendimtare që i siguroi vendin në raundin e 16 skuadrës egjiptiane, pas një ndeshjeje që përfundoi 1-1 pas 120 mi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-03T21:44:27+00:00",
+      "dateStr": "03 Jul, 21:44",
+      "isNew": true,
+      "id": "24 41783115067"
+    },
+    {
+      "title": "Balogun: Kartoni i verdhë do të kishte qenë më i drejtë sesa i kuqi në Botëror",
+      "link": "https://24-ore.com/balogun-kartoni-i-verdhe-do-te-kishte-qene-me-i-drejte-sesa-i-kuqi-ne-boteror/",
+      "description": "Sulmuesi i Shteteve të Bashkuara, Folarin Balogun, tha se nuk pajtohet me kartonin e kuq që mori gjatë fitores 2-0 ndaj Bosnjës dhe se një karton i verdhë do të kishte qenë më i drejtë. Ndëshkimi erdhi pasi ai i vendosi këmbën mbi kyçin e djathtë të Tarik Muharemoviçit, vendim i marrë nga gjyqtari R",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-03T21:42:41+00:00",
+      "dateStr": "03 Jul, 21:42",
+      "isNew": true,
+      "id": "24 51783114961"
+    },
+    {
+      "title": "Flamingot u bënë blu/ “Dhunë, perversitet e marrëzi”, Çupi: Rusia, Irani dhe Kurti po e krijojnë protestën",
+      "link": "https://abcnews.al/flamingot-u-bene-blu-dhune-perversitet-e-marrezi-cupi-rusia-irani-dhe-kurti-po-e-krijojne-protesten/",
+      "description": "Analisti Frrok Çupi, në një intervistë për emisionin “Ora e Fundit” në ABC News, ka komentuar protestën e fundit, duke e cilësuar atë si një tubim “pa objekt”. Sipas Çupit, protestuesit nuk janë të vetëdijshëm për qëllimin e tyre dhe, siç u shpreh ai, “janë të ngarkuar me urrejtje” dhe po përdoren p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-03T21:42:35+00:00",
+      "dateStr": "03 Jul, 21:42",
+      "isNew": true,
+      "id": "abc01783114955"
+    },
+    {
+      "title": "Ekstradohen nga Gjermania në Kosovë, dy të kërkuar me letër-rreshtim ndërkombëtar",
+      "link": "https://24-ore.com/ekstradohen-nga-gjermania-ne-kosove-dy-te-kerkuar-me-leter-rreshtim-nderkombetar/",
+      "description": "Policia e Kosovës, përkatësisht Drejtoria për Bashkëpunim Ndërkombëtar Policor, në koordinim dhe bashkëpunim me njësitet tjera relevante të Policisë së Kosovës dhe institucionet e drejtësisë, me datë 03.07.2026 ka bërë ekstradimin e dy shtetasve kosovarë, F.H. dhe M.Gj., nga Gjermania për në Kosovë.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-03T21:41:10+00:00",
+      "dateStr": "03 Jul, 21:41",
+      "isNew": true,
+      "id": "24 61783114870"
+    },
+    {
+      "title": "Makina përfshihet nga flakët në Vlorë, shpëton drejtuesi i mjetit",
+      "link": "https://abcnews.al/makina-perfshihet-nga-flaket-ne-vlore-shpeton-drejtuesi-i-mjetit/",
+      "description": "Një automjet është përfshirë nga flakët mbrëmjen e sotme në Vlorë, në rrugën që të çon drejt Kaninës, pranë zonës së njohur si “Bishti i Kalldrëmit”. Sipas informacioneve paraprake, një automjet tip “Benz” ka marrë flakë gjatë lëvizjes, duke u përfshirë plotësisht nga zjarri. Drejtuesi i mjetit ka a",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-03T21:38:09+00:00",
+      "dateStr": "03 Jul, 21:38",
+      "isNew": true,
+      "id": "abc11783114689"
+    },
+    {
+      "title": "Industritë ku Inteligjenca Artificiale kërcënon më shumë vendet e punës",
+      "link": "https://abcnews.al/industrite-ku-inteligjenca-artificiale-kercenon-me-shume-vendet-e-punes/",
+      "description": "Një studim i ri ka identifikuar industritë ku Inteligjenca Artificiale (IA) pritet të ketë ndikimin më të madh te punëtorët e rinj dhe pozicionet fillestare të punës, duke shtuar shqetësimet se automatizimi mund ta bëjë edhe më të vështirë hyrjen e të rinjve në tregun e punës. Sipas studimit, sektor",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-03T21:30:47+00:00",
+      "dateStr": "03 Jul, 21:30",
+      "isNew": true,
+      "id": "abc21783114247"
+    },
+    {
+      "title": "Stili amerikan: më shumë se një imazh i Hollivudit",
+      "link": "https://24-ore.com/stili-amerikan-me-shume-se-nje-imazh-i-hollivudit/",
+      "description": "Që nga fillimi i filmit, Hollivudi ka përcaktuar imazhin global të Amerikës: kapele cowboy, xhinse Levi’s, kostume shkëlqyese apo fustanët ikonik të yjeve të mëdhenj. Këto portrete janë bërë dëshmi kulturore që kanë formuar mënyrën se si bota e percepton veten amerikane, por ato tregime filmi nuk pë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-03T21:30:43+00:00",
+      "dateStr": "03 Jul, 21:30",
+      "isNew": true,
+      "id": "24 71783114243"
+    },
+    {
+      "title": "Rice pritet të startojë ndaj Meksikës, pavarësisht problemeve fizike",
+      "link": "https://24-ore.com/rice-pritet-te-startoje-ndaj-meksikes-pavaresisht-problemeve-fizike/",
+      "description": "Declan Rice pritet të jetë i gatshëm për të nisur ndeshjen e 16 më të mirë të Kupës së Botës kundër Meksikës, megjithëse vazhdon të vuajë nga një problem nervor që ndikon në kofshën dhe shpinën e poshtme. Mesfushori i Arsenalit, 27 vjeç, u aktivizua si mbrojtës i djathtë në fitoren 2-1 ndaj DR Kongo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-03T21:28:38+00:00",
+      "dateStr": "03 Jul, 21:28",
+      "isNew": true,
+      "id": "24 81783114118"
+    },
+    {
+      "title": "Nxehtësi ekstremë pritet në përballjen Francë–Paraguai në Filadelfia",
+      "link": "https://24-ore.com/nxehtesi-ekstreme-pritet-ne-perballjen-france-paraguai-ne-filadelfia/",
+      "description": "Në ndeshjen e raundit të 32-të të Kupës së Botës ndërmjet Francës dhe Paraguait, e zhvillohet të shtunën në Lincoln Financial Field në Filadelfia, pritet një valë nxehtësie me temperatura që mund të kalojnë 38°C (100°F) në orën e fillimit të ndeshjes në orën 17:00. Organizatorët po shqyrtojnë mundës",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-03T21:27:05+00:00",
+      "dateStr": "03 Jul, 21:27",
+      "isNew": true,
+      "id": "24 91783114025"
     },
     {
       "title": "Netanyahu dhe Trump së shpejti pritet të takohen në SHBA",
@@ -34,95 +155,7 @@
       "date": "2026-07-03T20:39:59+00:00",
       "dateStr": "03 Jul, 20:39",
       "isNew": true,
-      "id": "abc01783111199"
-    },
-    {
-      "title": "Ministria e Ambientit organizoi debat për leje të re mjedisore të fabrikës së çimentos USJE",
-      "link": "https://24-ore.com/ministria-e-ambientit-organizoi-debat-per-leje-te-re-mjedisore-te-fabrikes-se-cimentos-usje/",
-      "description": "Ministria e Mjedisit ka organizuar debat publik mbi procedurën e lëshimit të një leje të re mjedisore A, të integruar për Çimentoren USJE, një dokument që do të përcaktojë kushtet, sipas të cilave kompania do të operojë në periudhën e ardhshme shtatëvjeçare. Edhe pse nga Ministria e Ambientit u zotu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-03T20:37:22+00:00",
-      "dateStr": "03 Jul, 20:37",
-      "isNew": true,
-      "id": "24 21783111042"
-    },
-    {
-      "title": "Vuçiq del sërish në mbrojtje të Radoiçiqit, ekspertët: Mesazh i rrezikshëm për rajonin",
-      "link": "https://24-ore.com/vuciq-del-serish-ne-mbrojtje-te-radoiciqit-ekspertet-mesazh-i-rrezikshem-per-rajonin/",
-      "description": "Presidenti i Serbisë, Aleksandar Vuçiq, ka dalë sërish hapur në mbrojtje të organizatorit të sulmit terrorist në Banjksë, Milan Radoiçiq, duke deklaruar se ai nuk po ndiqet penalisht për sulmin terrorist në Banjskë, por për shkak të Kosovës. Vuçiq e tha publikisht këtë në fillimjavë, ani pse nga Int",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-03T20:37:11+00:00",
-      "dateStr": "03 Jul, 20:37",
-      "isNew": true,
-      "id": "24 31783111031"
-    },
-    {
-      "title": "BOTËRORI – Princi William: Mbreti Charles III e urren futbollin",
-      "link": "https://24-ore.com/boterori-princi-william-mbreti-charles-iii-e-urren-futbollin/",
-      "description": "LONDËR, 3 korrik /ATSH-DPA/ – Princi i Uellsit, William, ka bërë të ditur se dashuria e tij për futbollin nuk është trashëguar nga babai i tij, Charles III. “Absolutisht jo. Babai im e urren futbollin”, tha William gjatë podcast-it amerikan “New Heights”, të drejtuar nga ish-yjet e NFL-së, Travis Ke",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-03T20:34:03+00:00",
-      "dateStr": "03 Jul, 20:34",
-      "isNew": true,
-      "id": "24 41783110843"
-    },
-    {
-      "title": "Konjufca në Nigeri, kërkon forcim të raporteve mes dy vendeve",
-      "link": "https://24-ore.com/konjufca-ne-nigeri-kerkon-forcim-te-raporteve-mes-dy-vendeve/",
-      "description": "Ministri në detyrë i Punëve të Jashtme, Glauk Konjufca, ka njoftuar se ka zhvilluar një vizitë pune në Republikën Federale të Nigerisë, ku është pritur nga Sekretari i Qeverisë Federale, senatori George Akume. Përmes një postimi në rrjetin social X, Konjufca bëri të ditur se gjatë vizitës pati nderi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-03T20:32:10+00:00",
-      "dateStr": "03 Jul, 20:32",
-      "isNew": true,
-      "id": "24 51783110730"
-    },
-    {
-      "title": "FIFA konsideron nisjen më herët të ndeshjes Meksikë–Angli për shkak të stuhisë elektrike",
-      "link": "https://24-ore.com/fifa-konsideron-nisjen-me-heret-te-ndeshjes-meksike-angli-per-shkak-te-stuhise-elektrike/",
-      "description": "FIFA po konsideron të nisë më herët ndeshjen e raundit të 16 mes Meksikës dhe Anglisë, e cila është planifikuar të zhvillohet të dielën në Estadio Azteca në orën 18:00, për shkak të paralajmërimit për stuhi elektrike pasdite në Qytetin e Meksikës. Ky takim do të jetë i pesta dhe i fundit që zhvilloh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-03T20:32:10+00:00",
-      "dateStr": "03 Jul, 20:32",
-      "isNew": true,
-      "id": "24 61783110730"
-    },
-    {
-      "title": "Ibrahimaj për protestat: Dhuna nuk i shërben dialogut, Rama ka mandat nga votat!",
-      "link": "https://24-ore.com/ibrahimaj-per-protestat-dhuna-nuk-i-sherben-dialogut-rama-ka-mandat-nga-votat/",
-      "description": "Në një intervistë për televizionin Klan News, dhënë për gazetarin Bes Jaçaj, ministrja e Ekonomisë dhe Inovacionit, Delina Ibrahimaj, ka komentuar gjerësisht zhvillimet e fundit rreth protestave qytetare në vend. Përmes qëndrimit të saj, ministrja ndau qasjen e qeverisë ndaj tubimeve, transformimin ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-03T20:30:58+00:00",
-      "dateStr": "03 Jul, 20:30",
-      "isNew": true,
-      "id": "24 71783110658"
-    },
-    {
-      "title": "IRLANDË – Von der Leyen: BE-ja bën më shumë se kushdo tjetër për Gazën",
-      "link": "https://24-ore.com/irlande-von-der-leyen-be-ja-ben-me-shume-se-kushdo-tjeter-per-gazen/",
-      "description": "KORK, 3 korrik /ATSH -DPA/ – Presidentja e Komisionit Evropian, Ursula von der Leyen, deklaroi se Bashkimi Evropian është donatori më i madh i ndihmës për popullin palestinez, duke kundërshtuar akuzat se Komisioni po vonon marrjen e masave ndaj Izraelit. Gjatë një konference për shtyp në Cork, ku ni",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-03T20:29:32+00:00",
-      "dateStr": "03 Jul, 20:29",
-      "isNew": true,
-      "id": "24 81783110572"
-    },
-    {
-      "title": "Goditet tentativa për trafik droge në Rinas, sekuestrohen 46 kg kanabis nga fluturimi Toronto-Tiranë",
-      "link": "https://24-ore.com/goditet-tentativa-per-trafik-droge-ne-rinas-sekuestrohen-46-kg-kanabis-nga-fluturimi-toronto-tirane/",
-      "description": "Autoritetet doganore, në bashkëpunim me Policinë e Shtetit, kanë goditur një tentativë për trafikim të lëndëve narkotike në Pikën e Kalimit Kufitar të Rinasit, në kuadër të kontrolleve të bazuara në analizën e riskut. Gjatë kontrollit me skaner të bagazheve të një fluturimi me itinerar Toronto–Rinas",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-03T20:25:58+00:00",
-      "dateStr": "03 Jul, 20:25",
-      "isNew": true,
-      "id": "24 91783110358"
+      "id": "abc31783111199"
     },
     {
       "title": "EMRI/ Droga në Rinas, identifikohet njëri prej të arrestuarve, si tentoi t’u shmangej kontrolleve",
@@ -133,7 +166,7 @@
       "date": "2026-07-03T20:10:49+00:00",
       "dateStr": "03 Jul, 20:10",
       "isNew": true,
-      "id": "abc11783109449"
+      "id": "abc41783109449"
     },
     {
       "title": "VIDEO/ Të shtëna me armë zjarri në një qendër tregtare në Michigan, dy viktima",
@@ -144,7 +177,7 @@
       "date": "2026-07-03T19:56:44+00:00",
       "dateStr": "03 Jul, 19:56",
       "isNew": true,
-      "id": "abc21783108604"
+      "id": "abc51783108604"
     },
     {
       "title": "Menaxheri i “Vita”: Garantojmë cilësinë e produkteve",
@@ -155,7 +188,7 @@
       "date": "2026-07-03T19:51:15+00:00",
       "dateStr": "03 Jul, 19:51",
       "isNew": true,
-      "id": "abc31783108275"
+      "id": "abc61783108275"
     },
     {
       "title": "VIDEO/ Zjarr në malin e Shëngjinit, flakët përfshijnë sipërfaqe të konsiderueshme me bimësi, zjarrfikësit në terren",
@@ -166,7 +199,7 @@
       "date": "2026-07-03T19:37:39+00:00",
       "dateStr": "03 Jul, 19:37",
       "isNew": true,
-      "id": "abc41783107459"
+      "id": "abc71783107459"
     },
     {
       "title": "Vala ekstreme e të nxehtit nuk kursen as SHBA-në/ Mbi 25 milionë persona përballen me temperatura të larta",
@@ -177,7 +210,7 @@
       "date": "2026-07-03T19:29:14+00:00",
       "dateStr": "03 Jul, 19:29",
       "isNew": true,
-      "id": "abc51783106954"
+      "id": "abc81783106954"
     },
     {
       "title": "Protesta në ditën e 34, pamje me dron/ Ja pjesëmarrja e qytetarëve në bulevard",
@@ -188,40 +221,7 @@
       "date": "2026-07-03T19:19:55+00:00",
       "dateStr": "03 Jul, 19:19",
       "isNew": true,
-      "id": "abc61783106395"
-    },
-    {
-      "title": "Balkan Update me Habi Hoxha, (03/07/2026)",
-      "link": "https://abcnews.al/balkan-update-me-habi-hoxha-03-07-2026-2/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-03T19:02:12+00:00",
-      "dateStr": "03 Jul, 19:02",
-      "isNew": true,
-      "id": "abc71783105332"
-    },
-    {
-      "title": "Vinte nga Kanadaja/ Kapen në Rinas rreth 46 kilogramë drogë, u transportuan nga një çift shqiptar dhe një shtetas i huaj",
-      "link": "https://abcnews.al/vinte-nga-kanadaja-kapen-ne-rinas-rreth-46-kilograme-droge-u-transportuan-nga-nje-cift-shqiptar-dhe-nje-shtetas-i-huaj/",
-      "description": "Rreth 46 kilogramë lëndë narkotike janë sekuestruar në Aeroportin Ndërkombëtar të Rinasit, pas një kontrolli të detajuar me skaner mbi një ngarkesë që kishte mbërritur nga Kanadaja. Sipas burimeve të ABC News, autoritetet shqiptare ishin sinjalizuar paraprakisht nga autoritetet kanadeze për të kryer",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-03T18:59:53+00:00",
-      "dateStr": "03 Jul, 18:59",
-      "isNew": true,
-      "id": "abc81783105193"
-    },
-    {
-      "title": "“Po bie drejt Tokës”, NASA nis misionin për shpëtimin e teleskopit hapësinor Swift",
-      "link": "https://abcnews.al/po-bie-drejt-tokes-nasa-nis-misionin-per-shpetimin-e-teleskopit-hapesinor-swift/",
-      "description": "NASA ka nisur një mision të paprecedentë për të shpëtuar observatorin hapësinor Swift, i cili rrezikon të humbasë orbitën dhe të rikthehet në atmosferën e Tokës. Për herë të parë, një anije robotike do të përpiqet të kapë një teleskop në hapësirë dhe ta ngrejë atë në një orbitë më të sigurt. Misioni",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-03T18:58:11+00:00",
-      "dateStr": "03 Jul, 18:58",
-      "isNew": true,
-      "id": "abc91783105091"
+      "id": "abc91783106395"
     }
   ]
 }
