@@ -1,73 +1,194 @@
 {
-  "lastUpdated": "2026-07-04T14:25:20.714247+00:00",
+  "lastUpdated": "2026-07-04T15:57:36.512240+00:00",
   "totalSources": 2,
   "totalNews": 20,
   "news": [
     {
-      "title": "“Protestat shenjë demokracie”, Rama për BBC: PS nuk do të kontribuojë vetëm me reforma, por duke i dhënë lëk",
-      "link": "https://24-ore.com/protestat-shenje-demokracie-rama-per-bbc-ps-nuk-do-te-kontribuoje-vetem-me-reforma-por-duke-i-dhene-lek/",
-      "description": "Protestat në Shqipëri janë shenjë e një shoqërie të shëndetshme dhe demokratike, deklaroi kryeministri Edi Rama për median britanike BBC, në një intervistë ku ai foli për tubimet në vend dhe zhvillimet e fundit politike. I pyetur nëse qytetarët duhet të shqetësohen për integritetin e tij dhe të qeve",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-04T14:12:58+00:00",
-      "dateStr": "04 Jul, 14:12",
-      "isNew": true,
-      "id": "24 01783174378"
-    },
-    {
-      "title": "BOTËRORI 2026 – Bloomberg: Kupa e botës bashkon njerëzit dhe kulturat",
-      "link": "https://24-ore.com/boterori-2026-bloomberg-kupa-e-botes-bashkon-njerezit-dhe-kulturat/",
-      "description": "NJU JORK 4 korrik /ATSH/ – Ish-kryebashkiaku i Nju Jorkut, Mike Bloomberg, ka ndarë një mesazh nga atmosfera e Kupës së Botës 2026, duke e cilësuar turneun shumë më tepër sesa një garë futbolli, sipas “New York Post”. Në një postim në rrjetet sociale, Bloomberg publikoi një fotografi nga stadiumi ku",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-04T14:12:06+00:00",
-      "dateStr": "04 Jul, 14:12",
-      "isNew": true,
-      "id": "24 11783174326"
-    },
-    {
-      "title": "Komuna e Çairit: Komisioni për vlerësimin e dëmeve nga stuhia është formuar në maj me vendim të Këshillit komunal",
-      "link": "https://24-ore.com/komuna-e-cairit-komisioni-per-vleresimin-e-demeve-nga-stuhia-eshte-formuar-ne-maj-me-vendim-te-keshillit-komunal/",
-      "description": "Komuna e Çairit ka reaguar ndaj deklaratave të këshilltarëve komunalë të opozitës, duke theksuar se pretendimet për mungesën e një komisioni për evidentimin dhe vlerësimin e dëmeve nga reshjet e fundit nuk qëndrojnë. Sipas Komunës, Komisioni për vlerësimin dhe përcaktimin e lartësisë së dëmeve nga f",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-04T14:11:23+00:00",
-      "dateStr": "04 Jul, 14:11",
-      "isNew": true,
-      "id": "24 21783174283"
-    },
-    {
-      "title": "Ministri i Bendshëm Lamallari: Pretendimet për dhunë ndaj Niko Qarkajt janë të pabaza, nëse AMP i konfirmon do të ketë padi ndaj avokatit",
-      "link": "https://24-ore.com/ministri-i-bendshem-lamallari-pretendimet-per-dhune-ndaj-niko-qarkajt-jane-te-pabaza-nese-amp-i-konfirmon-do-te-kete-padi-ndaj-avokatit/",
-      "description": "Ministri i Brendshëm, Besfort Lamallari, ka reaguar pas pretendimeve të ngritura nga avokati Gentian Serjani, përfaqësues ligjor i të arrestuarit Niko Qarkaj, se klienti i tij është dhunuar. Përmes një reagimi publik, Lamallari tha se menjëherë pas deklaratave të bëra publike ka kërkuar informacion ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-04T14:07:06+00:00",
-      "dateStr": "04 Jul, 14:07",
-      "isNew": true,
-      "id": "24 31783174026"
-    },
-    {
-      "title": "I dënuar për vrasjen e kamarierit, reagon Erjon Llapushi: U dënova me dy standarde, nuk kam kryer vrasje me dashje",
-      "link": "https://24-ore.com/i-denuar-per-vrasjen-e-kamarierit-reagon-erjon-llapushi-u-denova-me-dy-standarde-nuk-kam-kryer-vrasje-me-dashje/",
+      "title": "I mori jetën kamarierit, reagon Llapushi: U dënova me dy standarde, nuk kam kryer vrasje me dashje",
+      "link": "https://24-ore.com/i-mori-jeten-kamarierit-reagon-llapushi-u-denova-me-dy-standarde-nuk-kam-kryer-vrasje-me-dashje/",
       "description": "Erjon Llapushi, i dënuar për vrasjen e kamarierit Gazment Kurmaku pas ngjarjes së ndodhur në tetor 2021 në një restorant në Labinot të Elbasanit, ka reaguar me një deklaratë të gjatë publike, ku kundërshton dënimin për veprën penale “vrasje me dashje” dhe pretendon se procesi ndaj tij është zhvillua",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-04T14:06:53+00:00",
-      "dateStr": "04 Jul, 14:06",
+      "date": "2026-07-04T15:57:08+00:00",
+      "dateStr": "04 Jul, 15:57",
       "isNew": true,
-      "id": "24 41783174013"
+      "id": "24 01783180628"
     },
     {
-      "title": "Obama me mesazh për 250-vjetorin e Pavarësisë së SHBA-së: Duhet të mbrojmë demokracinë",
-      "link": "https://24-ore.com/obama-me-mesazh-per-250-vjetorin-e-pavaresise-se-shba-se-duhet-te-mbrojme-demokracine/",
-      "description": "Ish-presidenti i Shteteve të Bashkuara, Barack Obama, ka përcjellë një mesazh me rastin e 250-vjetorit të Pavarësisë së SHBA-së, ku vlerësoi rëndësinë historike të Deklaratës së Pavarësisë dhe bëri thirrje për mbrojtjen e demokracisë. Në mesazhin e tij, Obama thekson se ideja e vetëqeverisjes ishte ",
+      "title": "Lamallari: Pretendimet për dhunë ndaj Niko Qarkajt janë të pabaza, do të ketë padi ndaj avokatit nëse…",
+      "link": "https://24-ore.com/lamallari-pretendimet-per-dhune-ndaj-niko-qarkajt-jane-te-pabaza-do-te-kete-padi-ndaj-avokatit-nese/",
+      "description": "Ministri i Brendshëm, Besfort Lamallari, ka reaguar pas pretendimeve të ngritura nga avokati Gentian Serjani, përfaqësues ligjor i të arrestuarit Niko Qarkaj, se klienti i tij është dhunuar. Përmes një reagimi publik, Lamallari tha se menjëherë pas deklaratave të bëra publike ka kërkuar informacion ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-04T14:06:41+00:00",
-      "dateStr": "04 Jul, 14:06",
+      "date": "2026-07-04T15:56:44+00:00",
+      "dateStr": "04 Jul, 15:56",
       "isNew": true,
-      "id": "24 51783174001"
+      "id": "24 11783180604"
+    },
+    {
+      "title": "Nis trajnimi për gjeneratën e tretë të zyrtarëve VAR/AVAR të FFK-së",
+      "link": "https://24-ore.com/nis-trajnimi-per-gjeneraten-e-trete-te-zyrtareve-var-avar-te-ffk-se/",
+      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor July 2026 M T W T F S S   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-04T15:56:02+00:00",
+      "dateStr": "04 Jul, 15:56",
+      "isNew": true,
+      "id": "24 21783180562"
+    },
+    {
+      "title": "Forbes parashikon rënien e Putin brenda tre viteve",
+      "link": "https://abcnews.al/forbes-parashikon-renien-e-putin-brenda-tre-viteve/",
+      "description": "Skenarët e paqëndrueshmërisë së thellë politike përreth Vladimir Putinit paraqiten nga një analizë e Forbes, sipas së cilës qëndrimi i presidentit rus në pushtet ka të ngjarë të kërcënohet brenda tre viteve të ardhshme. Analiza e revistës amerikane, e nënshkruar nga kolumnisti Melik Kaylan, bazohet ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-04T15:53:53+00:00",
+      "dateStr": "04 Jul, 15:53",
+      "isNew": true,
+      "id": "abc01783180433"
+    },
+    {
+      "title": "Rreziku është se sheshi ka shumë grupe, por vetëm një gjuhë",
+      "link": "https://24-ore.com/rreziku-eshte-se-sheshi-ka-shume-grupe-por-vetem-nje-gjuhe/",
+      "description": "Nga Bjorn Runa Shumë është thënë dhe shkruar në lidhje me protestën që sot hyn në ditën e saj të 35-të, për ta përshkruar si heterogjene dhe plurale. Në fakt, në javët e saj të para dukej me të vërtetë e tillë sepse bëri bashkë në të njëjtin bulevard grupe me interesa dhe instinkte politike [&#8230;",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-04T15:41:04+00:00",
+      "dateStr": "04 Jul, 15:41",
+      "isNew": true,
+      "id": "24 31783179664"
+    },
+    {
+      "title": "Mësimdhënësit kërkojnë shtyrje, frikë për mbyllje të klasave në shqip në Maqedoninë e Veriut",
+      "link": "https://24-ore.com/mesimdhenesit-kerkojne-shtyrje-frike-per-mbyllje-te-klasave-ne-shqip-ne-maqedonine-e-veriut/",
+      "description": "Ndërsa institucionet përkatëse thonë se po rritet interesimi për shkollat profesionale, realiteti në terren është ndryshe. Në shkollën e mesme profesionale “Boro Petrushevski” në Shkup, disa paralele në gjuhën shqipe rrezikojnë të mbyllen për shkak të numrit të ulët të nxënësve. Mësimdhënësit alarmo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-04T15:32:08+00:00",
+      "dateStr": "04 Jul, 15:32",
+      "isNew": true,
+      "id": "24 41783179128"
+    },
+    {
+      "title": "FOKUS – Ukraina godet terminalet e naftës pranë Shën Peterburgut, Rusia bombardon Sumy",
+      "link": "https://24-ore.com/fokus-ukraina-godet-terminalet-e-naftes-prane-shen-peterburgut-rusia-bombardon-sumy/",
+      "description": "KIEV/MOSKË, 4 korrik /ATSH-DPA/ – Ukraina ka ndërmarrë një tjetër sulm me dronë ndaj objekteve të naftës në brigjet ruse të Detit Baltik, pranë Shën Peterburgut, ndërsa Rusia vazhdoi bombardimet në Ukrainë, duke goditur qytetin verilindor të Sumyt me pasoja të rënda për civilët. Guvernatori i rajoni",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-04T15:31:04+00:00",
+      "dateStr": "04 Jul, 15:31",
+      "isNew": true,
+      "id": "24 51783179064"
+    },
+    {
+      "title": "“Bojkotoni koncertin”, Aurela Gaçe reagon pas linçimit nga protestuesit: Dyshoj se janë të pastra qëllimet tuaj",
+      "link": "https://24-ore.com/bojkotoni-koncertin-aurela-gace-reagon-pas-lincimit-nga-protestuesit-dyshoj-se-jane-te-pastra-qellimet-tuaj/",
+      "description": "Prej ditësh protestuesit kanë nisur një fushatë linçimi ndaj figurave publike, se përse këta të fundit nuk dalin kundër qeverisë. Të ndodhur përballë kësaj dhune verbale dhe fyrjeve publike, ka ardhur një reagim edhe nga Aurela Gaçe. Kjo pasi protestuesit në orët e fundit kanë bërë thirrje për bojko",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-04T15:30:49+00:00",
+      "dateStr": "04 Jul, 15:30",
+      "isNew": true,
+      "id": "24 61783179049"
+    },
+    {
+      "title": "Valë të nxehtësisë thyejnë rekorde në Britani dhe Evropë, shenjat e një klime të ngrohur",
+      "link": "https://24-ore.com/vale-te-nxehtesise-thyejne-rekorde-ne-britani-dhe-evrope-shenjat-e-nje-klime-te-ngrohur/",
+      "description": "Në ditët e para të korrikut, dy valë të nxehtësisë që thyen rekorde në maj dhe qershor dhanë një pamje të klimës së re që po formohet në Mbretërinë e Bashkuar dhe në pjesë të Evropës. Agjencia meteorologjike e Kombeve të Bashkuara e përshkroi ngjarjen si &#8220;e jashtëzakonshme&#8221;. Raporton bbc",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-04T15:30:18+00:00",
+      "dateStr": "04 Jul, 15:30",
+      "isNew": true,
+      "id": "24 71783179018"
+    },
+    {
+      "title": "Kërcënimi nga Rusia/ Tusk: Polonia po përgatitet për skenarë të ndryshëm",
+      "link": "https://abcnews.al/kercenimi-nga-rusia-tusk-polonia-po-pergatitet-per-skenare-te-ndryshem/",
+      "description": "Kryeministri i Polonisë ka thënë se vendi po përgatitet për skenarë “të ndryshëm” dhe se muajt e ardhshëm mund të jenë “kritikë” lidhur me kërcënimin nga Rusia. Donald Tusk po iu përgjigjej raporteve, duke cituar inteligjencën amerikane, se Moska po planifikonte një “provokim” të armatosur në Poloni",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-04T15:29:02+00:00",
+      "dateStr": "04 Jul, 15:29",
+      "isNew": true,
+      "id": "abc11783178942"
+    },
+    {
+      "title": "“Kuvendi Qytetar” i protestës del me deklaratë: Asnjë negociatë me Edi Ramën",
+      "link": "https://24-ore.com/kuvendi-qytetar-i-protestes-del-me-deklarate-asnje-negociate-me-edi-ramen/",
+      "description": "Pas polemikave që shpërthyen mes protestuesve për mbledhjen e Kuvendit Kombëtar Qytetar në Hotel Tirana, Klajdi Bello, pjesë e grupit të punës, ka ndarë një deklaratë për shtyp. Në të thuhet se ky Kuvend ka për qëllim të marrë “rolin e përfaqësuesit gjithëpërfshirës të Protestës Kombëtare, por vetëm",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-04T15:26:59+00:00",
+      "dateStr": "04 Jul, 15:26",
+      "isNew": true,
+      "id": "24 81783178819"
+    },
+    {
+      "title": "Dyshohet se shkaktoi zjarrin masiv në malin e Shëngjinit, arrestohet 57-vjeçari",
+      "link": "https://24-ore.com/dyshohet-se-shkaktoi-zjarrin-masiv-ne-malin-e-shengjinit-arrestohet-57-vjecari/",
+      "description": "Një 57-vjeçar ka rënë në prangat e Policisë së Lezhës, pasi dyshohet se është përgjegjës për zjarrin që përfshiu një sipërfaqe të madhe pyjore në malin e Shëngjinit. Sipas policisë, ngjarja ka ndodhur më 3 korrik 2026, në vendin e quajtur “Sagë”, në Shëngjin, ku dyshohet se ai ka ndezur zjarr për të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-04T15:23:19+00:00",
+      "dateStr": "04 Jul, 15:23",
+      "isNew": true,
+      "id": "24 91783178599"
+    },
+    {
+      "title": "Gjermani, gjendet në lumë një armë e Luftës së Dytë Botërore",
+      "link": "https://abcnews.al/gjermani-gjendet-ne-lume-nje-arme-e-luftes-se-dyte-boterore/",
+      "description": "Shërbimi Gjerman i Asgjësimit të Municioneve Shpërthyese (KMBD) ka zbuluar një top sovjetik të Luftës së Dytë Botërore në lumin Neisse pranë Forst në Lusatia. Arma u zbulua gjatë punimeve në rrugën ujore pranë kufirit me Poloninë, rreth 20 kilometra nga Kotbusi. Topi i këmbësorisë 76 mm, modeli M194",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-04T15:14:38+00:00",
+      "dateStr": "04 Jul, 15:14",
+      "isNew": true,
+      "id": "abc21783178078"
+    },
+    {
+      "title": "NewsHour me Fabiola Hoxha, (04/07/2026)",
+      "link": "https://abcnews.al/newshour-me-fabiola-hoxha-04-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-04T14:59:29+00:00",
+      "dateStr": "04 Jul, 14:59",
+      "isNew": true,
+      "id": "abc31783177169"
+    },
+    {
+      "title": "Irani: Ngushtica e Hormuzit nuk është skenë për të shfaqur forcën ushtarake",
+      "link": "https://abcnews.al/irani-ngushtica-e-hormuzit-nuk-eshte-skene-per-te-shfaqur-forcen-ushtarake/",
+      "description": "Zëvendësministri i Jashtëm i Iranit, Kazem Gharibabadi, tha të shtunën se Ngushtica e Hormuzit “nuk është një skenë për fuqitë jashtë-rajonale për të shfaqur forcë ushtarake”, duke paralajmëruar kundër “çdo aktiviteti ushtarak” në rrugën ujore kyçe. “Ngushtica e Hormuzit nuk është një skenë për fuqi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-04T14:45:41+00:00",
+      "dateStr": "04 Jul, 14:45",
+      "isNew": true,
+      "id": "abc41783176341"
+    },
+    {
+      "title": "Trump dhe Netanyahu do të takohen së shpejti në Uashington",
+      "link": "https://abcnews.al/trump-dhe-netanyahu-do-te-takohen-se-shpejti-ne-uashington/",
+      "description": "Kryeministri izraelit Benjamin Netanyahu zhvilloi dje një telefonatë me Presidentin e SHBA-së Donald Trump, në të cilën të dy ranë dakord të takohen së shpejti në Uashington DC, sipas një njoftimi izraelit të thirrjes. Udhëheqësit nuk janë takuar që kur filloi lufta me Iranin në fund të shkurtit. Gj",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-04T14:36:42+00:00",
+      "dateStr": "04 Jul, 14:36",
+      "isNew": true,
+      "id": "abc51783175802"
+    },
+    {
+      "title": "Krujë, historia tërheq turistët/ Vizitorë të huaj “pushtojnë” qytetin e Skënderbeut",
+      "link": "https://abcnews.al/kruje-historia-terheq-turistet-vizitore-te-huaj-pushtojne-qytetin-e-skenderbeut/",
+      "description": "Kruja po konsolidohet si një nga destinacionet historike e kulturore të preferuara në Shqipëri, duke tërhequr një numër në rritje vizitorësh vendas dhe të huaj. Turistët e huaj që vizitojnë Krujën shprehen të impresionuar nga mikpritja shqiptare, bukuritë natyrore dhe pasuria historike e qytetit, du",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-04T14:20:43+00:00",
+      "dateStr": "04 Jul, 14:20",
+      "isNew": true,
+      "id": "abc61783174843"
     },
     {
       "title": "Suedia porosit 16 aeroplanë Gripen E për Ukrainën",
@@ -78,18 +199,7 @@
       "date": "2026-07-04T14:03:07+00:00",
       "dateStr": "04 Jul, 14:03",
       "isNew": true,
-      "id": "abc01783173787"
-    },
-    {
-      "title": "Botërori 2026: Renditja e 8 ndeshjeve të 1/8-ave nga më interesante te më pak interesante",
-      "link": "https://24-ore.com/boterori-2026-renditja-e-8-ndeshjeve-te-1-8-ave-nga-me-interesante-te-me-pak-interesante/",
-      "description": "Pas raundit të 32 skuadrat favoritë ende kanë mbetur, edhe pse surpriza të mëdha shkaktuan eleminime si ato të Gjermanisë, Holandës dhe Kroacisë. Me fazën e 16-s së vendosur, vlerësojmë se cilat përballje ofrojnë më shumë interes për tifozët. Sipas sports.yahoo, lista e mëposhtme rendit tetë ndeshje",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-04T13:56:36+00:00",
-      "dateStr": "04 Jul, 13:56",
-      "isNew": true,
-      "id": "24 61783173396"
+      "id": "abc71783173787"
     },
     {
       "title": "Papa: SHBA të pres emigrantët/ Ati i shenjtë në Lampedusa, mesazh për Trump ditën e SHBA",
@@ -100,40 +210,7 @@
       "date": "2026-07-04T13:46:28+00:00",
       "dateStr": "04 Jul, 13:46",
       "isNew": true,
-      "id": "abc11783172788"
-    },
-    {
-      "title": "FIFPro kërkon masa kundër abuzimeve raciste ndaj lojtarëve në Kupën e Botës",
-      "link": "https://24-ore.com/fifpro-kerkon-masa-kunder-abuzimeve-raciste-ndaj-lojtareve-ne-kupen-e-botes/",
-      "description": "Sindikata ndërkombëtare e lojtarëve FIFPro, me seli në Holandë, tha të shtunën se duhet ndërmarrë më shumë masa për të mbrojtur futbollistët nga abuzimet raciste gjatë Kupës së Botës që po zhvillohet në Amerikën e Veriut. Sipas Associated Press, sindikata në një deklaratë njoftoi se lojtarët po përb",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-04T13:45:14+00:00",
-      "dateStr": "04 Jul, 13:45",
-      "isNew": true,
-      "id": "24 71783172714"
-    },
-    {
-      "title": "Zjarri në malin e Shëngjinit, arrestohet 57-vjeçari. Tentoi të fshihte provat duke fshirë pamjet e kamerave të sigurisë",
-      "link": "https://24-ore.com/zjarri-ne-malin-e-shengjinit-arrestohet-57-vjecari-tentoi-te-fshihte-provat-duke-fshire-pamjet-e-kamerave-te-sigurise/",
-      "description": "Policia e Shtetit ka arrestuar  një 57-vjeçar si autorin e zjarrit që përfshiu malin e Shëngjinit. Sipas Policisë, 57-vjeçari me inicialet B. A., dyshohet se i vuri zjarrin mbeturinave pranë subjektit të tij tregtar në zonën e “Sagës”, Shëngjin, duke shkaktuar përhapjen e flakëve në një sipërfaqe të",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-04T13:43:31+00:00",
-      "dateStr": "04 Jul, 13:43",
-      "isNew": true,
-      "id": "24 81783172611"
-    },
-    {
-      "title": "Berisha, thirrje Ramës: Jep dorëheqjen para orës 19:00",
-      "link": "https://24-ore.com/berisha-thirrje-rames-jep-doreheqjen-para-ores-1900/",
-      "description": "Pavarësisht se në 34 ditë proteste, krahas thirrjeve për dorëheqjen e Edi Ramës, protestuesit kërkojnë edhe largimin e Sali Berishës nga politika, kryedemokrati thotë se demokratët do ta mbështesin këtë lëvizje qytetare, pasi thirrjet kundër tij janë të sponsorizuara. Në protestën e kësaj të shtune ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-04T13:43:15+00:00",
-      "dateStr": "04 Jul, 13:43",
-      "isNew": true,
-      "id": "24 91783172595"
+      "id": "abc81783172788"
     },
     {
       "title": "U ekstradua nga Gjermania për llogari të SPAK/ GJKKO cakton masën “detyrim paraqitje” për Denada Todën",
@@ -144,84 +221,7 @@
       "date": "2026-07-04T13:32:37+00:00",
       "dateStr": "04 Jul, 13:32",
       "isNew": true,
-      "id": "abc21783171957"
-    },
-    {
-      "title": "I nxehti shton sëmundjet/ Mjekët: Kujdes i shtuar për të moshuarit dhe fëmijët",
-      "link": "https://abcnews.al/i-nxehti-shton-semundjet-mjeket-kujdes-i-shtuar-per-te-moshuarit-dhe-femijet/",
-      "description": "Grupi i posaçëm hetimor që është ngritur me qëllim për të zbardhur vrasjen e të riut Eglant Koçi, ka mundur të zbërthejë kompjuterët që u sekuestruan në biznesin e autorit të dyshuar Armand Shakaj. Burime për televizionin Abcnews thanë se në kompjuterët e tij janë zbuluar të dhëna që lidhen me lloga",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-04T13:26:59+00:00",
-      "dateStr": "04 Jul, 13:26",
-      "isNew": true,
-      "id": "abc31783171619"
-    },
-    {
-      "title": "News Line me Fabiola Hoxha, (04/07/2026)",
-      "link": "https://abcnews.al/news-line-me-fabiola-hoxha-04-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-04T13:13:54+00:00",
-      "dateStr": "04 Jul, 13:13",
-      "isNew": true,
-      "id": "abc41783170834"
-    },
-    {
-      "title": "EMRI/ Dogji mbeturinat duke shkaktuar zjarrin në Malin e Shëngjinit, arrestohet autori",
-      "link": "https://abcnews.al/emri-dogji-mbeturinat-duke-shkaktuar-zjarrin-ne-malin-e-shengjinit-arrestohet-autori/",
-      "description": "Një zjarr i përmasave të mëdha ka përfshirë malin e Shëngjinit, duke shkaktuar dëme të konsiderueshme në sipërfaqe pyjore, ndërsa policia ka arrestuar në flagrancë 57-vjeçarin, Bashkim Alija si autor të dyshuar të ngjarjes. Sipas Policisë së Lezhës, shtetasi Bashkim Aliaj, dyshohet se më 03 korrik, ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-04T13:07:47+00:00",
-      "dateStr": "04 Jul, 13:07",
-      "isNew": true,
-      "id": "abc51783170467"
-    },
-    {
-      "title": "Dobësohet euro, thyen rekorde/ Arrin nivelin më të ulët, këmbehet me 93.8 lekë",
-      "link": "https://abcnews.al/dobesohet-euro-thyen-rekorde-arrin-nivelin-me-te-ulet-kembehet-me-93-8-leke/",
-      "description": "Euro vijon të humbasë vlerë ndaj lekut. Në tregun vendas, monedha europiane këmbehet me rreth 93.88 lekë, nga afro 98 lekë në të njëjtën periudhë të një viti më parë. Kjo  tregon një rënie prej mbi 4 për qind, duke konfirmuar forcimin e vazhdueshëm të monedhës shqiptare. Ky rezulton se është një ndë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-04T12:52:18+00:00",
-      "dateStr": "04 Jul, 12:52",
-      "isNew": true,
-      "id": "abc61783169538"
-    },
-    {
-      "title": "VIDEO/ Zjarri pranë shtratit të lumit Mat mbetet aktiv, digjen ullinj dhe drufrutorë",
-      "link": "https://abcnews.al/video-zjarri-prane-shtratit-te-lumit-mat-mbetet-aktiv-digjen-ullinj-dhe-drufrutore/",
-      "description": "Një zjarr i përmasave të konsiderueshme, i rënë rreth dy orë më parë pranë shtratit të lumit Mat, vijon të jetë aktiv, duke u përhapur edhe në afërsi të zonave të banuara. Falë ndërhyrjes së forcave zjarrfikëse, flakët janë izoluar për momentin, duke shmangur rrezikun e menjëhershëm për banesat pran",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-04T12:49:14+00:00",
-      "dateStr": "04 Jul, 12:49",
-      "isNew": true,
-      "id": "abc71783169354"
-    },
-    {
-      "title": "Fluks pushuesish nga Kosova/ Shtohen sportelet në Morinë, mijëra qytetarë vijnë në plazhet e Shqipërisë",
-      "link": "https://abcnews.al/fluks-peshuesish-nga-kosova-shtohen-sportelet-ne-morine-mijera-qytetare-vijne-ne-plazhet-e-shqiperise/",
-      "description": "Shumë shqiptarë të Kosovës kanë zgjedhur të udhëtojnë drejt Shqipërisë këtë fundjavë. Në pikën e përbashkët kufitare të Morinit, mëngjesi i të shtunës nisi me fluks të lartë automjetesh. Qytetarët e Kosovës thonë se do të shkojnë në bregdet për të pushuar këto ditë të nxehta vere. Velipojë, Shëngjin",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-04T12:40:13+00:00",
-      "dateStr": "04 Jul, 12:40",
-      "isNew": true,
-      "id": "abc81783168813"
-    },
-    {
-      "title": "Dita e Pavarësisë së SHBA/ Ambasada në Tiranë: Festojmë 250 vjet histori dhe liri",
-      "link": "https://abcnews.al/dita-e-pavaresise-se-shba-ambasada-ne-tirane-festojme-250-vjet-histori-dhe-liri/",
-      "description": "Shtetet e Bashkuara kremtojnë këtë 4 Korrik 250-vjetorin e Pavarësisë, një datë simbolike për historinë amerikane dhe për vlerat e lirisë e demokracisë mbi të cilat u ndërtua vendi. Ambasada Amerikane në Tiranë përcolli urimin e saj përmes një postimi në rrjetet sociale. “Gëzuar 250-vjetorin, Amerik",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-04T12:34:39+00:00",
-      "dateStr": "04 Jul, 12:34",
-      "isNew": true,
-      "id": "abc91783168479"
+      "id": "abc91783171957"
     }
   ]
 }
