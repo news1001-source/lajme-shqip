@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-07-04T21:54:23.387887+00:00",
+  "lastUpdated": "2026-07-04T22:54:05.713745+00:00",
   "totalSources": 2,
   "totalNews": 20,
   "news": [
+    {
+      "title": "Tifozët meksikanë gjejnë hotelin e Anglisë dhe i përshëndesin me fishkëllima para ndeshjes",
+      "link": "https://24-ore.com/tifozet-meksikane-gjejne-hotelin-e-anglise-dhe-i-pershendesin-me-fishkellima-para-ndeshjes/",
+      "description": "Tifozë meksikanë zbuluan hotelin e përfaqësueses së Anglisë në Ciudad de México dhe i pritën lojtarët me brohoritje &#8220;Mexico!&#8221; dhe fishkëllima gjatë mbërritjes, të premten. Për shkak të rrethanave, pranë hyrjes së objektit u vendosën forca të sigurisë për të menaxhuar mbërritjen e skuadrë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-04T22:33:17+00:00",
+      "dateStr": "04 Jul, 22:33",
+      "isNew": true,
+      "id": "24 01783204397"
+    },
+    {
+      "title": "Reece James i dyshimtë për ndeshjen me Meksikën, Jarrell Quansah rikthehet në dispozicion",
+      "link": "https://24-ore.com/reece-james-i-dyshimte-per-ndeshjen-me-meksiken-jarrell-quansah-rikthehet-ne-dispozicion/",
+      "description": "Mbrojtësi i djathtë Reece James mungoi në seancën e fundit të stërvitjes së Anglisë para ndeshjes së 16-s kundër Meksikës, ndërsa Jarrell Quansah është rikthyer dhe do të jetë në dispozicion. James ka munguar në dy ndeshjet e fundit pas një dëmtimi të hamstringut në fazat përmbyllëse të barazimit pa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-04T22:29:11+00:00",
+      "dateStr": "04 Jul, 22:29",
+      "isNew": true,
+      "id": "24 11783204151"
+    },
+    {
+      "title": "Kanada eliminohet 3-0 nga Maroku, përfundon përparimi i papritur në Botëror",
+      "link": "https://24-ore.com/kanada-eliminohet-3-0-nga-maroku-perfundon-perparimi-i-papritur-ne-boteror/",
+      "description": "Kanada u eliminua nga Maroku me rezultat 3-0 në ndeshjen e 1/8-ave të finales të Botërorit, ndërsa skuadra e Afrikës së Veriut u bë kombëtarja e parë afrikane që kualifikohet në çerekfinale më shumë se njëherë. Humbja prishi ëndrrën e një rrugëtimi që kishte ndezur interesin e publikut kanadez, një ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-04T22:28:09+00:00",
+      "dateStr": "04 Jul, 22:28",
+      "isNew": true,
+      "id": "24 21783204089"
+    },
+    {
+      "title": "“Mbështetës të Albin Kurtit, në protestë”/ Beqiri: Po fut përçarje mes Shqipërisë dhe Kosovës",
+      "link": "https://abcnews.al/mbeshtetes-te-albin-kurtit-ne-proteste-beqiri-po-fut-percarje-mes-shqiperise-dhe-kosoves/",
+      "description": "Avokati Idajet Beqiri thotë se mbështetës të Lëvizjes Vetëvendosje, partisë së kryeministrit në detyrë të Kosovës, Albin Kurti, kanë ardhur në protestat në Tiranë. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Beqiri u shpreh se Kurti po fut përçarje mes Shqipërisë dhe Kosovës. &#822",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-04T21:44:01+00:00",
+      "dateStr": "04 Jul, 21:44",
+      "isNew": true,
+      "id": "abc01783201441"
+    },
     {
       "title": "Zjarr i përhapur pranë Selanikut detyron evakuime, tym i dendur mbulon periferi",
       "link": "https://24-ore.com/zjarr-i-perhapur-prane-selanikut-detyron-evakuime-tym-i-dendur-mbulon-periferi/",
@@ -12,7 +56,7 @@
       "date": "2026-07-04T21:42:50+00:00",
       "dateStr": "04 Jul, 21:42",
       "isNew": true,
-      "id": "24 01783201370"
+      "id": "24 31783201370"
     },
     {
       "title": "“Sot në protestë, jo më shumë se 4 mijë veta”/ Beqiri: Protesta me arkivol e papranueshme, simbolikë e tmerrshme",
@@ -23,7 +67,7 @@
       "date": "2026-07-04T21:35:54+00:00",
       "dateStr": "04 Jul, 21:35",
       "isNew": true,
-      "id": "abc01783200954"
+      "id": "abc11783200954"
     },
     {
       "title": "“Gent Progni takohet me Flamur Nokën”/ Avokati Beqiri: Një pjesë e protestuesve kryesorë paguhen nga PD",
@@ -34,7 +78,7 @@
       "date": "2026-07-04T21:32:01+00:00",
       "dateStr": "04 Jul, 21:32",
       "isNew": true,
-      "id": "abc11783200721"
+      "id": "abc21783200721"
     },
     {
       "title": "Maroku shfaqet pretendent serioz pas fitores 3-0 ndaj Kanadasë dhe 34 ndeshjesh pa humbje",
@@ -45,7 +89,7 @@
       "date": "2026-07-04T21:30:09+00:00",
       "dateStr": "04 Jul, 21:30",
       "isNew": true,
-      "id": "24 11783200609"
+      "id": "24 41783200609"
     },
     {
       "title": "Tifozët e Kupës së Botës festojnë 250-vjetorin e SHBA-së në Filadelfia dhe Houston",
@@ -56,7 +100,7 @@
       "date": "2026-07-04T21:29:14+00:00",
       "dateStr": "04 Jul, 21:29",
       "isNew": true,
-      "id": "24 21783200554"
+      "id": "24 51783200554"
     },
     {
       "title": "Avokati i Popullit: Qytetari me kriza shëndetësore të lirohet menjëherë, qëndrimi në qeli rrezikon jetën e tij",
@@ -67,7 +111,7 @@
       "date": "2026-07-04T21:23:05+00:00",
       "dateStr": "04 Jul, 21:23",
       "isNew": true,
-      "id": "24 31783200185"
+      "id": "24 61783200185"
     },
     {
       "title": "Dita e 35-të e protestës, qytetarët, aktivistët dhe diaspora nisin marshimin në rrugët e Tiranës",
@@ -78,7 +122,7 @@
       "date": "2026-07-04T21:22:50+00:00",
       "dateStr": "04 Jul, 21:22",
       "isNew": true,
-      "id": "24 41783200170"
+      "id": "24 71783200170"
     },
     {
       "title": "Pretendimet për dhunë ndaj një të ndaluari, Ministri i Brendshëm: Avokati përgënjeshtroi veten",
@@ -89,7 +133,7 @@
       "date": "2026-07-04T21:22:30+00:00",
       "dateStr": "04 Jul, 21:22",
       "isNew": true,
-      "id": "24 51783200150"
+      "id": "24 81783200150"
     },
     {
       "title": "Arkivoli në protestë, Balla tregon kush e solli dhe sulmon Berishën: E ka bëre 28 vite më parë",
@@ -100,40 +144,7 @@
       "date": "2026-07-04T21:22:13+00:00",
       "dateStr": "04 Jul, 21:22",
       "isNew": true,
-      "id": "24 61783200133"
-    },
-    {
-      "title": "“Ramës ja uruan ditëlindjen protestuesit!”Briseida Çakërri: Duket protestë paqësore edhe pse thanë se do eskalojë",
-      "link": "https://24-ore.com/rames-ja-uruan-ditelindjen-protestuesitbriseida-cakerri-duket-proteste-paqesore-edhe-pse-thane-se-do-eskaloje/",
-      "description": "Briseida Çakërri deputete e PS-së së Vlorës ka folur këtë të shtunë në Review me Greta Topjanën në Euronews Albania lidhur me protestën në ditën e 35-së të saj. Çakërri tha se sipas saj protesta në dukje duket paqësore ndryshe nga çfarë ishte lajmëruar në rrjetet sociale. “Nisja e protestës në fakt ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-04T21:21:59+00:00",
-      "dateStr": "04 Jul, 21:21",
-      "isNew": true,
-      "id": "24 71783200119"
-    },
-    {
-      "title": "“Arkivoli në protestë i papranueshëm!” Çipa: Simbolikat me vdekje janë të rrezikshme!",
-      "link": "https://24-ore.com/arkivoli-ne-proteste-i-papranueshem-cipa-simbolikat-me-vdekje-jane-te-rrezikshme/",
-      "description": "Aleksandër Çipa, gazetari i njohur, ka folur këtë të shtunë në emisionin Review me Greta Topjanën, në Euronews Albania, lidhur me protestën e ditës së 35-të. Çipa u ndal te dy mesazhe që, sipas tij, krijojnë një kontrast brenda protestës. I pari lidhet me urimin për 250-vjetorin e Shteteve të Bashku",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-04T21:21:41+00:00",
-      "dateStr": "04 Jul, 21:21",
-      "isNew": true,
-      "id": "24 81783200101"
-    },
-    {
-      "title": "Protestat përfshijnë Gjermaninë plot tensione, kundra ekstremit të djathtë,! Çfarë dimë dei tani",
-      "link": "https://24-ore.com/protestat-perfshijne-gjermanine-plot-tensione-kundra-ekstremit-te-djathte-cfare-dime-dei-tani/",
-      "description": "Tensione të larta dhe përplasje mes Policisë dhe protestuesve shoqëruan konferencën e partisë së ekstremit të djathtë Alternative für Deutschland (AfD), ku mijëra demonstrues u përpoqën të bllokonin hyrjen e delegatëve në aktivitetin politik. Sipas autoriteteve, rreth 20 mijë protestues u mblodhën n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-04T21:21:24+00:00",
-      "dateStr": "04 Jul, 21:21",
-      "isNew": true,
-      "id": "24 91783200084"
+      "id": "24 91783200133"
     },
     {
       "title": "Maroku nuk fiton si Marok/ “Luanët e Atlasit” ia dalin 3-0, por patën fat me Kanadanë",
@@ -144,7 +155,7 @@
       "date": "2026-07-04T21:06:39+00:00",
       "dateStr": "04 Jul, 21:06",
       "isNew": true,
-      "id": "abc21783199199"
+      "id": "abc31783199199"
     },
     {
       "title": "Pamjet me dron/ Protesta e diasporës, sa veta ishin, krahasuar me datën 20 qershor",
@@ -155,7 +166,7 @@
       "date": "2026-07-04T21:02:40+00:00",
       "dateStr": "04 Jul, 21:02",
       "isNew": true,
-      "id": "abc31783198960"
+      "id": "abc41783198960"
     },
     {
       "title": "Nënshkrimi i Trump shfaqet në kartëmonedhën 100 dollarëshe të SHBA",
@@ -166,7 +177,7 @@
       "date": "2026-07-04T20:41:46+00:00",
       "dateStr": "04 Jul, 20:41",
       "isNew": true,
-      "id": "abc41783197706"
+      "id": "abc51783197706"
     },
     {
       "title": "Le Pen në gjyq vendimtar në Paris, rrezikon përjashtimin nga gara presidenciale e 2027",
@@ -177,7 +188,7 @@
       "date": "2026-07-04T20:23:59+00:00",
       "dateStr": "04 Jul, 20:23",
       "isNew": true,
-      "id": "abc51783196639"
+      "id": "abc61783196639"
     },
     {
       "title": "Erdogan sulmon Izraelin: Janë të varur nga lufta",
@@ -188,7 +199,7 @@
       "date": "2026-07-04T19:49:52+00:00",
       "dateStr": "04 Jul, 19:49",
       "isNew": true,
-      "id": "abc61783194592"
+      "id": "abc71783194592"
     },
     {
       "title": "“Netanyahu më kërkoi takim në Shtëpinë e Bardhë”/ Trump: Ai e di se kush është shefi",
@@ -199,7 +210,7 @@
       "date": "2026-07-04T19:31:04+00:00",
       "dateStr": "04 Jul, 19:31",
       "isNew": true,
-      "id": "abc71783193464"
+      "id": "abc81783193464"
     },
     {
       "title": "Edicioni qendror me Emilian Islami, (04/07/2026)",
@@ -210,18 +221,7 @@
       "date": "2026-07-04T19:05:52+00:00",
       "dateStr": "04 Jul, 19:05",
       "isNew": true,
-      "id": "abc81783191952"
-    },
-    {
-      "title": "Argjentina shmang turpin/ Artan Mërgjyshi: Kepi i Gjelbër, ekip për t’u respektuar",
-      "link": "https://abcnews.al/argjentina-shmang-turpin-artan-mergjyshi-kepi-i-gjelber-ekip-per-tu-respektuar/",
-      "description": "Argjentinës iu desh një mrekulli për të shmangur mrekullinë më të madhe në historinë e Kupave të Botës. Kampionët në fuqi të planetit mundën 3-2 pas kohëve shtesë Kepin e Gjelbër, në betejën më klasike të “Davidit” me “Goliadhin”. Në emisionin “Futboll jo Soccer” në ABC News, trajneri Artan Mërgjysi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-04T18:39:17+00:00",
-      "dateStr": "04 Jul, 18:39",
-      "isNew": true,
-      "id": "abc91783190357"
+      "id": "abc91783191952"
     }
   ]
 }
