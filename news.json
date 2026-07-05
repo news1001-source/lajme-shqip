@@ -1,40 +1,172 @@
 {
-  "lastUpdated": "2026-07-05T19:23:47.816682+00:00",
+  "lastUpdated": "2026-07-05T20:54:05.079014+00:00",
   "totalSources": 2,
   "totalNews": 20,
   "news": [
     {
-      "title": "Aksident në Kosmaç të Shkodrës, përplasen dy automjete, njëri përfundon në kanalin anësor",
-      "link": "https://24-ore.com/aksident-ne-kosmac-te-shkodres-perplasen-dy-automjete-njeri-perfundon-ne-kanalin-anesor/",
-      "description": "Një aksident rrugor ka ndodhur pak minuta më parë në fshatin Kosmaç, ku janë përplasur dy automjete. Si pasojë e përplasjes, njëri prej mjeteve ka dalë nga rruga dhe ka përfunduar në kanalin anësor. Sipas informacioneve paraprake, dy drejtuesit e automjeteve janë transportuar në Spitalin Rajonal të ",
-      "source": "24 ORE",
+      "title": "Kaos në kufijtë e BE-së/ Brukseli pranon problemet me EES, por nuk tërhiqet nga sistemi i ri",
+      "link": "https://abcnews.al/kaos-ne-kufijte-e-be-se-brukseli-pranon-problemet-me-ees-por-nuk-terhiqet-nga-sistemi-i-ri/",
+      "description": "Komisioni Europian e pranoi se sistemi i ri për regjistrimin e hyrje-daljeve në BE, po shkakton vështirësi në pikat kufitare, ndërsa mijëra udhëtarë janë përballur me pritje të gjata dhe vonesa gjatë sezonit veror. Një zëdhënës i Komisionit tha se Brukseli është në dijeni të problemeve që kanë shoqë",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-07-05T19:23:35+00:00",
-      "dateStr": "05 Jul, 19:23",
+      "date": "2026-07-05T20:50:37+00:00",
+      "dateStr": "05 Jul, 20:50",
       "isNew": true,
-      "id": "24 01783279415"
+      "id": "abc01783284637"
     },
     {
-      "title": "Dhuna gjatë protestës së djeshme, Ministri Hoxha: Demokracia është fryt i dialogut, jo i forcës dhe intimidimit",
-      "link": "https://24-ore.com/dhuna-gjate-protestes-se-djeshme-ministri-hoxha-demokracia-eshte-fryt-i-dialogut-jo-i-forces-dhe-intimidimit/",
-      "description": "Ministri për Evropën dhe Punët e Jashtme, Ferit Hoxha, ka reaguar pas dhunës së regjistruar gjatë protestës së djeshme, duke theksuar se demokracia nuk mund të ndërtohet përmes forcës apo intimidimit, por vetëm përmes dialogut dhe përgjegjësisë qytetare. Në një reagim në rrjetin social X, Hoxha e ka",
+      "title": "Raporti i IPK-së shpërfaq probleme të shumta në qendrën e ndalimit në Rahovec",
+      "link": "https://24-ore.com/raporti-i-ipk-se-shperfaq-probleme-te-shumta-ne-qendren-e-ndalimit-ne-rahovec/",
+      "description": "Gjësende të forta e potencialisht të rrezikshme për të ndaluarit por edhe zyrtarët policor, janë hasur nga Inspektorati Policor në Qendrën e Ndalimit në Rahovec. Sipas raportit të nxjerrë, edhe kushtet higjienike në Qendër, sipas IPK-së, nuk është në nivel. Prapa grilave në bodrumin e stacionit poli",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-05T19:23:23+00:00",
-      "dateStr": "05 Jul, 19:23",
+      "date": "2026-07-05T20:47:48+00:00",
+      "dateStr": "05 Jul, 20:47",
       "isNew": true,
-      "id": "24 11783279403"
+      "id": "24 01783284468"
     },
     {
-      "title": "Samiti i NATO-s më 7-8 korrik, Meçollari: Shqipëria nuk plotëson kriteret e NATO-s për buxhetin, harxhuam më pak",
-      "link": "https://24-ore.com/samiti-i-nato-s-me-7-8-korrik-mecollari-shqiperia-nuk-ploteson-kriteret-e-nato-s-per-buxhetin-harxhuam-me-pak/",
-      "description": "Artur Meçollari, ish-komandant i marinës shqiptare ka folur në “Review” me Greta Topjana lidhur me Samitin e NATO-s i cili do të mbahet më 7-8 korrik në Ankara, duke mbledhur krerët e shteteve dhe qeverive të vendeve anëtare. Ish-komandanti ka deklaruar se samiti i ardhshëm i NATO-s, që do të zhvill",
+      "title": "80 ampula fentanili të vjedhura nga një spital në Romë, nis hetimi",
+      "link": "https://abcnews.al/80-ampula-fentanili-te-vjedhura-nga-nje-spital-ne-rome-nis-hetimi/",
+      "description": "80 ampula janë zhdukur nga farmacia e spitalit hebre të kryeqytetit, pa asnjë shenjë hyrjeje me forcë. Ky opioid sintetik 100 herë më i fuqishëm se morfina dhe shkak i një emergjence kombëtare në Amerikën e Veriut ka çuar në thirrjen e një mbledhjeje urgjente në Palazzo Chigi. Qeveria italiane ka dh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-05T20:38:41+00:00",
+      "dateStr": "05 Jul, 20:38",
+      "isNew": true,
+      "id": "abc11783283921"
+    },
+    {
+      "title": "Vdekja e 32-vjeçarit në Burgun e Gjilanit, prindërit kërkojnë të dinë shkakun e ai mbetet mister tash e dy vite",
+      "link": "https://24-ore.com/vdekja-e-32-vjecarit-ne-burgun-e-gjilanit-prinderit-kerkojne-te-dine-shkakun-e-ai-mbetet-mister-tash-e-dy-vite/",
+      "description": "“I gjallë më doli prej shtëpisë, i vdekur më erdhi”. Kështu e përshkruan nëna e Kastriot Sabedinit, Maria, vdekjen e të birit 32-vjeçar brenda njërit prej institucioneve shtetërore në Kosovë që siguron të burgosurit dhe të paraburgosurit. Më 18.07.2024, Kastriot Sabedini u transferua në Burgun e Gji",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-05T19:23:08+00:00",
-      "dateStr": "05 Jul, 19:23",
+      "date": "2026-07-05T20:37:48+00:00",
+      "dateStr": "05 Jul, 20:37",
       "isNew": true,
-      "id": "24 21783279388"
+      "id": "24 11783283868"
+    },
+    {
+      "title": "Mbi 4 mijë foshnja të testuara, skriningu neonatal zgjerohet në Kosovë",
+      "link": "https://24-ore.com/mbi-4-mije-foshnja-te-testuara-skriningu-neonatal-zgjerohet-ne-kosove/",
+      "description": "Programi i Skriningut Neonatal po zgjerohet në gjithë Kosovën, duke mundësuar zbulimin e hershëm të sëmundjeve të lindura te të porsalindurit. Deri tani janë realizuar mbi 4 mijë testime dhe janë identifikuar tri raste pozitive, duke krijuar mundësi për trajtim në kohë dhe parandalim të komplikimeve",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T20:32:35+00:00",
+      "dateStr": "05 Jul, 20:32",
+      "isNew": true,
+      "id": "24 21783283555"
+    },
+    {
+      "title": "Kabo Verde feston: futbollistët kthehen si heronj, basketbollistët me shpresa për Botërorin",
+      "link": "https://24-ore.com/kabo-verde-feston-futbollistet-kthehen-si-heronj-basketbollistet-me-shpresa-per-boterorin/",
+      "description": "Në Ditën e Pavarësisë, skuadra kombëtare e futbollit të Kabo Verde u prit me entuziazëm pasi arriti për herë të parë të kalojë grupin në një Botëror dhe të luajë në rrethin e 32-ave, ku u eliminua nga Argjentina në kohën shtesë. Me tri barazime që i siguruan avancimin, ky është një sukses historik p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T20:27:52+00:00",
+      "dateStr": "05 Jul, 20:27",
+      "isNew": true,
+      "id": "24 31783283272"
+    },
+    {
+      "title": "Vance: Britania është e mrekullueshme, por nuk po drejtohet siç duhet",
+      "link": "https://abcnews.al/vance-britania-eshte-e-mrekullueshme-por-nuk-po-drejtohet-sic-duhet/",
+      "description": "Zëvendëspresidenti i SHBA-së, JD Vance, tha se Britania është “dështuar nga udhëheqja e saj për një kohë të gjatë” pas dorëheqjes së kryeministrit britanik Keir Starmer. Vance, i cili ka qenë një kritik i fortë i Mbretërisë së Bashkuar dhe Evropës në përgjithësi që kur mori detyrën në janar 2025, i ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-05T20:17:33+00:00",
+      "dateStr": "05 Jul, 20:17",
+      "isNew": true,
+      "id": "abc21783282653"
+    },
+    {
+      "title": "Gëzimi i Mbappé që çoi Francën në çerekfinale",
+      "link": "https://24-ore.com/gezimi-i-mbappe-qe-coi-francen-ne-cerekfinale/",
+      "description": "Kylian Mbappé shpërtheu në gëzim në çastin e fundit të ndeshjes, pasi realizoi penalltinë që i siguroi Francës fitoren ndaj Paraguait dhe kalimin në çerekfinalet e Kupës së Botës në Filadelfia më 4 korrik 2026. Fotografia e momentit përmbledh lehtësimin dhe kënaqësinë e yllit francez në fund të një ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T20:12:35+00:00",
+      "dateStr": "05 Jul, 20:12",
+      "isNew": true,
+      "id": "24 41783282355"
+    },
+    {
+      "title": "Folarin Balogun lirohet nga pezullimi dhe do të jetë në dispozicion për ndeshjen ndaj Belgjikës",
+      "link": "https://24-ore.com/folarin-balogun-lirohet-nga-pezullimi-dhe-do-te-jete-ne-dispozicion-per-ndeshjen-ndaj-belgjikes/",
+      "description": "FIFA në mënyrë të papritur tërhoqi pezullimin e menjëhershëm të sulmuesit Folarin Balogun, duke e bërë atë të disponueshëm për ndeshjen e 16-shes së Kupës së Botës kundër Belgjikës. Lajmi shkaktoi habi te lojtarët e kombëtares së SHBA, të cilët në momentin e komunikimit dolën të dyshonin për të vërt",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T20:03:21+00:00",
+      "dateStr": "05 Jul, 20:03",
+      "isNew": true,
+      "id": "24 51783281801"
+    },
+    {
+      "title": "Ronaldo konfirmon: Ky do të jetë Botërori im i fundit",
+      "link": "https://24-ore.com/ronaldo-konfirmon-ky-do-te-jete-boterori-im-i-fundit/",
+      "description": "Cristiano Ronaldo njoftoi se Kupën e Botës të këtij viti e sheh si të fundit në karrierën e tij. Përpara ndeshjes së 16-s mes Portugalisë dhe Spanjës në Dallas, ylli 41-vjeçar kërkoi që vëmendja të mbetet tek loja dhe shmangu përgjigjet e shumta mbi tërheqjen, duke thënë se do të pensionohet vetëm k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T19:59:27+00:00",
+      "dateStr": "05 Jul, 19:59",
+      "isNew": true,
+      "id": "24 61783281567"
+    },
+    {
+      "title": "Gabriel Martinelli titullar për Brazilin ndaj Norvegjisë në 1/8 e finales së Botërorit",
+      "link": "https://24-ore.com/gabriel-martinelli-titullar-per-brazilin-ndaj-norvegjise-ne-1-8-e-finales-se-boterorit/",
+      "description": "Trajneri i Brazilit, Carlo Ancelotti, vendosi që Gabriel Martinelli të fillonte si titullar në ndeshjen e 1/8 të finales kundër Norvegjisë, zëvendësuar për shkak të mungesës së Lucas Paquetá-t pas një dëmtimi. Përballja u zhvillua të dielën në East Rutherford, N.J. Martinelli kishte shënuar golin ve",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T19:57:50+00:00",
+      "dateStr": "05 Jul, 19:57",
+      "isNew": true,
+      "id": "24 71783281470"
+    },
+    {
+      "title": "Mes përçarjes familjare, David dhe Victoria Beckham sfidojnë kërkesën e Brooklyn",
+      "link": "https://24-ore.com/mes-percarjes-familjare-david-dhe-victoria-beckham-sfidojne-kerkesen-e-brooklyn/",
+      "description": "David Beckham dhe bashkëshortja e tij, Victoria Beckham, kanë festuar 27-vjetorin e martesës me dedikime romantike në rrjetet sociale, pavarësisht marrëdhënieve të tensionuara me djalin e tyre të madh, Brooklyn Beckham. Sipas mediave britanike, Brooklyn u kishte kërkuar prindërve të mos publikonin p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T19:56:46+00:00",
+      "dateStr": "05 Jul, 19:56",
+      "isNew": true,
+      "id": "24 81783281406"
+    },
+    {
+      "title": "Harry Styles nderon Liam Payne në koncertin e fundit në Wembley",
+      "link": "https://24-ore.com/harry-styles-nderon-liam-payne-ne-koncertin-e-fundit-ne-wembley/",
+      "description": "Harry Styles ka emocionuar fansat gjatë natës së tij të fundit në Wembley Stadium, duke mos arritur të mbajë lotët teksa i bëri një homazh ish-shokut të grupit, Liam Payne. Këngëtari 32-vjeçar po zhvillon një seri koncertesh të suksesshme në Londër, me 12 net të shitura, duke vendosur një rekord për",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T19:56:42+00:00",
+      "dateStr": "05 Jul, 19:56",
+      "isNew": true,
+      "id": "24 91783281402"
+    },
+    {
+      "title": "Skandal me doping në Kupën e Botës, tetë lojtarë të kombëtares së njohur rezultuan pozitivë",
+      "link": "https://abcnews.al/skandal-me-doping-ne-kupen-e-botes-tete-lojtare-te-kombetares-se-njohur-rezultuan-pozitive/",
+      "description": "Kupa e Botës u trondit nga lajmi se tetë anëtarë të ekipit kombëtar tunizian rezultuan pozitivë për doping, megjithëse sipas informacioneve fillestare, nuk priten pezullime sepse besohet se shkaku ishte mishi i kontaminuar. Siç shkruan The Times, gjurmë të klenbuterolit, një substancë që është në li",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-05T19:48:38+00:00",
+      "dateStr": "05 Jul, 19:48",
+      "isNew": true,
+      "id": "abc31783280918"
+    },
+    {
+      "title": "Zyrtare/ Cristiano Ronaldo jep lajmin: Ky është Botërori im i fundit!",
+      "link": "https://abcnews.al/zyrtare-cristiano-ronaldo-jep-lajmin-ky-eshte-boterori-im-i-fundit/",
+      "description": "Një lajm shokues ka tronditur mbarë opinionin sportiv botëror. Jashtëtokësori i futbollit, Cristiano Ronaldo, ka konfirmuar zyrtarisht se ky do të jetë Kampionati i fundit Botëror në karrierën e tij të jashtëzakonshme. Në një deklaratë që po bën xhiron e rrjetit dhe po thyen çdo rekord klikimesh, nu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-05T19:35:49+00:00",
+      "dateStr": "05 Jul, 19:35",
+      "isNew": true,
+      "id": "abc41783280149"
     },
     {
       "title": "Protesta në ditën e 36/ Ja pjesëmarrja e qytetarëve në bulevard në orën 21:00",
@@ -45,18 +177,7 @@
       "date": "2026-07-05T19:16:54+00:00",
       "dateStr": "05 Jul, 19:16",
       "isNew": true,
-      "id": "abc01783279014"
-    },
-    {
-      "title": "Ronaldo konfirmon: Botërori 2026 do të jetë i fundit për të",
-      "link": "https://24-ore.com/ronaldo-konfirmon-boterori-2026-do-te-jete-i-fundit-per-te/",
-      "description": "Cristiano Ronaldo ka bërë të qartë se edicioni i Kupës së Botës 2026 do të jetë i fundit në të cilin ai do të marrë pjesë. Para ndeshjes së 1/16-ave kundër Spanjës, kapiteni portugez, 41 vjeç, tha se dëshiron ta shijojë sa më shumë këtë turne dhe shpreson që përfaqësuesja të vazhdojë më tutje në [&#",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T19:14:46+00:00",
-      "dateStr": "05 Jul, 19:14",
-      "isNew": true,
-      "id": "24 31783278886"
+      "id": "abc51783279014"
     },
     {
       "title": "Kupa e Botës/ Tahiri: Maroku do vërë në vështirësi Francën. Muça: Presim një superndeshje!",
@@ -67,73 +188,7 @@
       "date": "2026-07-05T19:12:30+00:00",
       "dateStr": "05 Jul, 19:12",
       "isNew": true,
-      "id": "abc11783278750"
-    },
-    {
-      "title": "Protestuesja në tubimin para Kryeministrisë: Sali Berisha vrau miliona bijë nënash!",
-      "link": "https://24-ore.com/protestuesja-ne-tubimin-para-kryeministrise-sali-berisha-vrau-miliona-bije-nenash/",
-      "description": "Një grua gjatë fjalës së saj në protestën para Kryeministrisë, hodhi akuza të forta ndaj kryedemokratit Sali Berisha, të cilin e akuzoi për vrasjet e vitit 1997. “Jemi rritur me diktatura të ashpra, jemi rritur në kohën e Sali Berishës, që vrau miliona bijë nënash. Nënat janë veshur me shami të zeza",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T19:12:01+00:00",
-      "dateStr": "05 Jul, 19:12",
-      "isNew": true,
-      "id": "24 41783278721"
-    },
-    {
-      "title": "“Protesta me arkivol na kujton 1997-ën”, socialisti: Ka individë të paguar nga klanet e luftës hibride",
-      "link": "https://24-ore.com/protesta-me-arkivol-na-kujton-1997-en-socialisti-ka-individe-te-paguar-nga-klanet-e-luftes-hibride/",
-      "description": "Këshilltari i Partisë Socialiste në Këshillin Bashkiak të Tiranës, Alfred Muharremi, thotë se protesta e fundit me një arkivol na kujton skenat e vitit 1997. Duke folur në emisionin “Terminal” nga Aurora Sulçe në A2CNN, Muharremi thekson se protesta po denigrohet nga individë që janë të paguar nga k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T19:11:40+00:00",
-      "dateStr": "05 Jul, 19:11",
-      "isNew": true,
-      "id": "24 51783278700"
-    },
-    {
-      "title": "Trump takohet me Zelenskyy dhe al‑Sharaa gjatë samitit të NATO‑s në Ankara",
-      "link": "https://24-ore.com/trump-takohet-me-zelenskyy-dhe-al-sharaa-gjate-samitit-te-nato-s-ne-ankara/",
-      "description": "Presidenti amerikan Donald Trump do të zhvillojë të mërkurën takime me presidentin ukrainas Volodymyr Zelenskyy dhe me liderin sirian Ahmad al‑Sharaa gjatë samitit të NATO‑s në Ankara, njoftoi zyrtarja e Shtëpisë së Bardhë, Anna Kelly. Para kthimit në Uashington, Trump pritet të mbajë një konferencë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T19:05:09+00:00",
-      "dateStr": "05 Jul, 19:05",
-      "isNew": true,
-      "id": "24 61783278309"
-    },
-    {
-      "title": "Argjentina fiton 3-2 ndaj Kabo Verdes dhe nxjerr në pah reziliencën e skuadrës",
-      "link": "https://24-ore.com/argjentina-fiton-3-2-ndaj-kabo-verdes-dhe-nxjerr-ne-pah-reziliencen-e-skuadres/",
-      "description": "Argjentina arriti një fitore të vështirë 3-2 ndaj Kabo Verdes në kohën shtesë, në ndeshjen e 1/16-tave të finales së Kupës së Botës në Miami. Portieri Emiliano Martínez u pa duke qetësuar shokët e skuadrës pas dramatizmit të takimit, ndërsa lojtarët dolën të lodhur por të vendosur pas një përballjej",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T19:02:59+00:00",
-      "dateStr": "05 Jul, 19:02",
-      "isNew": true,
-      "id": "24 71783278179"
-    },
-    {
-      "title": "Fier/ Shuhet edhe vatra e fundit e zjarrit në Peshtan",
-      "link": "https://24-ore.com/fier-shuhet-edhe-vatra-e-fundit-e-zjarrit-ne-peshtan/",
-      "description": "Shuhet edhe vatra e fundit e zjarrit ne Peshtan. Operacioni i shuarjes se flakëve që nisi ne mesditë është mbyllur por disa ekipe të zjarrfikësve dhe efektivë të policisë do të qëndrojne në terren për monitorim të zonës gjatë natës. Ndërkohë më herët, ministria e Mbrojtjes njoftoi se gjatë ditës së ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T19:01:19+00:00",
-      "dateStr": "05 Jul, 19:01",
-      "isNew": true,
-      "id": "24 81783278079"
-    },
-    {
-      "title": "Naomi Osaka mposht Aryna Sabalenka dhe siguron vendin në çerekfinalet e Wimbledon",
-      "link": "https://24-ore.com/naomi-osaka-mposht-aryna-sabalenka-dhe-siguron-vendin-ne-cerekfinalet-e-wimbledon/",
-      "description": "Naomi Osaka realizoi një ndeshje të shkëlqyer për të mposhtur numrin një të botës, Aryna Sabalenka, dhe të kualifikohet për herë të parë në çerekfinalet e Wimbledon. Ndeshja në Centre Court përfundoi 6-2, 7-6 (7-2), me Osaka që dominonte nga baza dhe shfrytëzoi në mënyrë efektive shërbimin dhe foreh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T18:59:56+00:00",
-      "dateStr": "05 Jul, 18:59",
-      "isNew": true,
-      "id": "24 91783277996"
+      "id": "abc61783278750"
     },
     {
       "title": "Udhëheqësi i kishës kineze, Jin Mingri lirohet nga burgu",
@@ -144,7 +199,7 @@
       "date": "2026-07-05T18:45:08+00:00",
       "dateStr": "05 Jul, 18:45",
       "isNew": true,
-      "id": "abc21783277108"
+      "id": "abc71783277108"
     },
     {
       "title": "Zjarri në Drizë të Fierit/ Shuhet vatra në Peshtan, zjarrëfikësit në terren",
@@ -155,7 +210,7 @@
       "date": "2026-07-05T18:27:58+00:00",
       "dateStr": "05 Jul, 18:27",
       "isNew": true,
-      "id": "abc31783276078"
+      "id": "abc81783276078"
     },
     {
       "title": "Protesta në ditën e 36, pamjet e para me dron/ Ja pjesëmarrja e qytetarëve në bulevard",
@@ -166,62 +221,7 @@
       "date": "2026-07-05T18:21:18+00:00",
       "dateStr": "05 Jul, 18:21",
       "isNew": true,
-      "id": "abc41783275678"
-    },
-    {
-      "title": "Protesta në bulevard/ Roland Bejko: Liberalët e protestës janë kundër arkivolit, dhunës apo maskave",
-      "link": "https://abcnews.al/protesta-ne-bulevard-roland-bejko-liberalet-e-protestes-jane-kunder-arkivolit-dhunes-apo-maskave/",
-      "description": "Analisti Roland Bejko e ka cilësuar protestën e fundit si të pazakontë, duke theksuar se ajo ndryshon ndjeshëm nga protestat e mëparshme, si ajo kundër armëve kimike, për shkak të numrit të madh të kërkesave dhe mungesës së një objektivi të vetëm. Bejko u ndal edhe te qëndrimi i faktorit ndërkombëta",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-05T17:44:09+00:00",
-      "dateStr": "05 Jul, 17:44",
-      "isNew": true,
-      "id": "abc51783273449"
-    },
-    {
-      "title": "Nga flamingot tek arkivoli në bulevard/ Ilva Gjuzi: Vdekja simbolike e PS duhet të jetë vetëm përmes kutive të votimit!",
-      "link": "https://abcnews.al/nga-flamingot-tek-arkivoli-ne-bulevard-ilva-gjuzi-vdekja-simbolike-e-ps-duhet-te-jete-vetem-permes-kutive-te-votimit/",
-      "description": "Deputetja e Partisë Socialiste, Ilva Gjuzi, ka reaguar pas protestës së zhvilluar një ditë më pare në bulevard me pjesëmarrjen e Diasporës, duke e cilësuar atë një ngjarje të turpshme dhe duke kritikuar aktet e dhunës dhe simbolikat e përdorura gjatë tubimit. Sipas Gjuzit, protesta u shoqërua me një",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-05T17:26:11+00:00",
-      "dateStr": "05 Jul, 17:26",
-      "isNew": true,
-      "id": "abc61783272371"
-    },
-    {
-      "title": "Zjarret në vend/ Mbrojtja: 5 vatra ende aktive, u angazhuan mbi 261 forca operacionale dhe dy helikopterë",
-      "link": "https://abcnews.al/zjarret-ne-vend-mbrojtja-5-vatra-ende-aktive-u-angazhuan-mbi-261-forca-operacionale-dhe-dy-helikoptere/",
-      "description": "Nën koordinimin e Agjencisë Kombëtare të Mbrojtjes Civile, gjatë ditës së sotme u menaxhuan operacionet për përballimin e 16 vatrave të zjarrit në disa qarqe të vendit. Pesë vatrat që vijojnë të jenë aktive janë vënë nën kontroll, ndërsa strukturat operacionale po punojnë për shuarjen përfundimtare ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-05T17:08:14+00:00",
-      "dateStr": "05 Jul, 17:08",
-      "isNew": true,
-      "id": "abc71783271294"
-    },
-    {
-      "title": "Përfshihen nga flakët dy anije në Marsejë, lëndohen 14 persona",
-      "link": "https://abcnews.al/perfshihen-nga-flaket-dy-anije-ne-marseje-lendohen-14-persona/",
-      "description": "Një zjarr i fuqishëm përfshiu dy anije të vogla të ankoruara në Portin e Vjetër të Marsejës, pranë Bashkisë së qytetit, duke bërë që të dyja të fundosen. Nga incidenti mbetën të plagosur 14 persona. Sipas raportimeve, flakët shpërthyen rreth orës 10:30 të paradites dhe u përhapën me shpejtësi në të ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-05T16:55:04+00:00",
-      "dateStr": "05 Jul, 16:55",
-      "isNew": true,
-      "id": "abc81783270504"
-    },
-    {
-      "title": "Irani dhe Katari rifillojnë tregtinë detare!",
-      "link": "https://abcnews.al/irani-dhe-katari-rifillojne-tregtine-detare/",
-      "description": "Irani dhe Katari kanë rifilluar zyrtarisht tregtinë detare mes dy vendeve, duke i dhënë fund një ndërprerjeje rreth pesëmujore të shkaktuar nga konflikti në rajon. Lajmi u konfirmua të dielën nga atasheu tregtar i Iranit në Doha, sipas mediave shtetërore iraniane. Rifillimi i transportit detar vjen ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-05T16:34:27+00:00",
-      "dateStr": "05 Jul, 16:34",
-      "isNew": true,
-      "id": "abc91783269267"
+      "id": "abc91783275678"
     }
   ]
 }
