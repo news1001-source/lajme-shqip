@@ -1,29 +1,172 @@
 {
-  "lastUpdated": "2026-07-05T17:58:27.929341+00:00",
+  "lastUpdated": "2026-07-05T19:23:47.816682+00:00",
   "totalSources": 2,
   "totalNews": 20,
   "news": [
     {
-      "title": "Deputetja për protestën: Arkëmorti në bulevard është i turpshëm, vdekja politike vendoset vetëm me votë",
-      "link": "https://24-ore.com/deputetja-per-protesten-arkemorti-ne-bulevard-eshte-i-turpshem-vdekja-politike-vendoset-vetem-me-vote/",
-      "description": "Deputetja e Partisë Socialiste, Ilva Gjuzi, ka reaguar pas protestës së zhvilluar një ditë më pare në bulevard me pjesëmarrjen e Diasporës, duke e cilësuar atë një ngjarje të turpshme dhe duke kritikuar aktet e dhunës dhe simbolikat e përdorura gjatë tubimit. Sipas Gjuzit, protesta u shoqërua me një",
+      "title": "Aksident në Kosmaç të Shkodrës, përplasen dy automjete, njëri përfundon në kanalin anësor",
+      "link": "https://24-ore.com/aksident-ne-kosmac-te-shkodres-perplasen-dy-automjete-njeri-perfundon-ne-kanalin-anesor/",
+      "description": "Një aksident rrugor ka ndodhur pak minuta më parë në fshatin Kosmaç, ku janë përplasur dy automjete. Si pasojë e përplasjes, njëri prej mjeteve ka dalë nga rruga dhe ka përfunduar në kanalin anësor. Sipas informacioneve paraprake, dy drejtuesit e automjeteve janë transportuar në Spitalin Rajonal të ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-05T17:57:47+00:00",
-      "dateStr": "05 Jul, 17:57",
+      "date": "2026-07-05T19:23:35+00:00",
+      "dateStr": "05 Jul, 19:23",
       "isNew": true,
-      "id": "24 01783274267"
+      "id": "24 01783279415"
     },
     {
-      "title": "Inter dhe Juventus mbeten duarbosh, Roma arrin marrëveshjen me titullarin e skuadrës",
-      "link": "https://24-ore.com/inter-dhe-juventus-mbeten-duarbosh-roma-arrin-marreveshjen-me-titullarin-e-skuadres/",
-      "description": "Edhe pse i skadoi kontrata në 30 qershor, Zeki Celik nuk do të largohet nga Roma. Klubi kryeqytetas dhe mbrojtësi turk kanë gjetur gjuhën e përbashkët për të rinovuar kontratën, bëjnë të ditur CalcioMercato.com dhe Fabrizio Romano. Mbrojtësi i djathtë turk ishte një titullar i rregullt për Romën në ",
+      "title": "Dhuna gjatë protestës së djeshme, Ministri Hoxha: Demokracia është fryt i dialogut, jo i forcës dhe intimidimit",
+      "link": "https://24-ore.com/dhuna-gjate-protestes-se-djeshme-ministri-hoxha-demokracia-eshte-fryt-i-dialogut-jo-i-forces-dhe-intimidimit/",
+      "description": "Ministri për Evropën dhe Punët e Jashtme, Ferit Hoxha, ka reaguar pas dhunës së regjistruar gjatë protestës së djeshme, duke theksuar se demokracia nuk mund të ndërtohet përmes forcës apo intimidimit, por vetëm përmes dialogut dhe përgjegjësisë qytetare. Në një reagim në rrjetin social X, Hoxha e ka",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-05T17:46:52+00:00",
-      "dateStr": "05 Jul, 17:46",
+      "date": "2026-07-05T19:23:23+00:00",
+      "dateStr": "05 Jul, 19:23",
       "isNew": true,
-      "id": "24 11783273612"
+      "id": "24 11783279403"
+    },
+    {
+      "title": "Samiti i NATO-s më 7-8 korrik, Meçollari: Shqipëria nuk plotëson kriteret e NATO-s për buxhetin, harxhuam më pak",
+      "link": "https://24-ore.com/samiti-i-nato-s-me-7-8-korrik-mecollari-shqiperia-nuk-ploteson-kriteret-e-nato-s-per-buxhetin-harxhuam-me-pak/",
+      "description": "Artur Meçollari, ish-komandant i marinës shqiptare ka folur në “Review” me Greta Topjana lidhur me Samitin e NATO-s i cili do të mbahet më 7-8 korrik në Ankara, duke mbledhur krerët e shteteve dhe qeverive të vendeve anëtare. Ish-komandanti ka deklaruar se samiti i ardhshëm i NATO-s, që do të zhvill",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T19:23:08+00:00",
+      "dateStr": "05 Jul, 19:23",
+      "isNew": true,
+      "id": "24 21783279388"
+    },
+    {
+      "title": "Protesta në ditën e 36/ Ja pjesëmarrja e qytetarëve në bulevard në orën 21:00",
+      "link": "https://abcnews.al/protesta-ne-diten-e-36-ja-pjesemarrja-e-qytetareve-ne-bulevard-ne-oren-2100/",
+      "description": "Qytetarët kanë vijuar protestën e tyre për të 36-ën ditë radhazi përpara godinës së Kryeministria, në shenjë kundërshtimi ndaj projektit të investimit në zonën e Zvërnecit. ABC News sjell pamjet me dron nga protesta, ku shihet pjesëmarrja e qytetarëve rreth orës 21:00, përgjatë bulevardit kryesor të",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-05T19:16:54+00:00",
+      "dateStr": "05 Jul, 19:16",
+      "isNew": true,
+      "id": "abc01783279014"
+    },
+    {
+      "title": "Ronaldo konfirmon: Botërori 2026 do të jetë i fundit për të",
+      "link": "https://24-ore.com/ronaldo-konfirmon-boterori-2026-do-te-jete-i-fundit-per-te/",
+      "description": "Cristiano Ronaldo ka bërë të qartë se edicioni i Kupës së Botës 2026 do të jetë i fundit në të cilin ai do të marrë pjesë. Para ndeshjes së 1/16-ave kundër Spanjës, kapiteni portugez, 41 vjeç, tha se dëshiron ta shijojë sa më shumë këtë turne dhe shpreson që përfaqësuesja të vazhdojë më tutje në [&#",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T19:14:46+00:00",
+      "dateStr": "05 Jul, 19:14",
+      "isNew": true,
+      "id": "24 31783278886"
+    },
+    {
+      "title": "Kupa e Botës/ Tahiri: Maroku do vërë në vështirësi Francën. Muça: Presim një superndeshje!",
+      "link": "https://abcnews.al/kupa-e-botes-tahiri-maroku-do-vere-ne-veshtiresi-francen-muca-presim-nje-superndeshje/",
+      "description": "Specialisti i futbollit Ermal Tahiri vlerëson se Maroku ka cilësi të mjaftueshme për t&#8217;i hapur probleme Francës, falë lojtarëve të talentuar që ka në përbërje. Duke analizuar përballjen me Francën, Tahiri theksoi se marokenët kanë potencialin për ta vënë në vështirësi kampionen e botës, por sh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-05T19:12:30+00:00",
+      "dateStr": "05 Jul, 19:12",
+      "isNew": true,
+      "id": "abc11783278750"
+    },
+    {
+      "title": "Protestuesja në tubimin para Kryeministrisë: Sali Berisha vrau miliona bijë nënash!",
+      "link": "https://24-ore.com/protestuesja-ne-tubimin-para-kryeministrise-sali-berisha-vrau-miliona-bije-nenash/",
+      "description": "Një grua gjatë fjalës së saj në protestën para Kryeministrisë, hodhi akuza të forta ndaj kryedemokratit Sali Berisha, të cilin e akuzoi për vrasjet e vitit 1997. “Jemi rritur me diktatura të ashpra, jemi rritur në kohën e Sali Berishës, që vrau miliona bijë nënash. Nënat janë veshur me shami të zeza",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T19:12:01+00:00",
+      "dateStr": "05 Jul, 19:12",
+      "isNew": true,
+      "id": "24 41783278721"
+    },
+    {
+      "title": "“Protesta me arkivol na kujton 1997-ën”, socialisti: Ka individë të paguar nga klanet e luftës hibride",
+      "link": "https://24-ore.com/protesta-me-arkivol-na-kujton-1997-en-socialisti-ka-individe-te-paguar-nga-klanet-e-luftes-hibride/",
+      "description": "Këshilltari i Partisë Socialiste në Këshillin Bashkiak të Tiranës, Alfred Muharremi, thotë se protesta e fundit me një arkivol na kujton skenat e vitit 1997. Duke folur në emisionin “Terminal” nga Aurora Sulçe në A2CNN, Muharremi thekson se protesta po denigrohet nga individë që janë të paguar nga k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T19:11:40+00:00",
+      "dateStr": "05 Jul, 19:11",
+      "isNew": true,
+      "id": "24 51783278700"
+    },
+    {
+      "title": "Trump takohet me Zelenskyy dhe al‑Sharaa gjatë samitit të NATO‑s në Ankara",
+      "link": "https://24-ore.com/trump-takohet-me-zelenskyy-dhe-al-sharaa-gjate-samitit-te-nato-s-ne-ankara/",
+      "description": "Presidenti amerikan Donald Trump do të zhvillojë të mërkurën takime me presidentin ukrainas Volodymyr Zelenskyy dhe me liderin sirian Ahmad al‑Sharaa gjatë samitit të NATO‑s në Ankara, njoftoi zyrtarja e Shtëpisë së Bardhë, Anna Kelly. Para kthimit në Uashington, Trump pritet të mbajë një konferencë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T19:05:09+00:00",
+      "dateStr": "05 Jul, 19:05",
+      "isNew": true,
+      "id": "24 61783278309"
+    },
+    {
+      "title": "Argjentina fiton 3-2 ndaj Kabo Verdes dhe nxjerr në pah reziliencën e skuadrës",
+      "link": "https://24-ore.com/argjentina-fiton-3-2-ndaj-kabo-verdes-dhe-nxjerr-ne-pah-reziliencen-e-skuadres/",
+      "description": "Argjentina arriti një fitore të vështirë 3-2 ndaj Kabo Verdes në kohën shtesë, në ndeshjen e 1/16-tave të finales së Kupës së Botës në Miami. Portieri Emiliano Martínez u pa duke qetësuar shokët e skuadrës pas dramatizmit të takimit, ndërsa lojtarët dolën të lodhur por të vendosur pas një përballjej",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T19:02:59+00:00",
+      "dateStr": "05 Jul, 19:02",
+      "isNew": true,
+      "id": "24 71783278179"
+    },
+    {
+      "title": "Fier/ Shuhet edhe vatra e fundit e zjarrit në Peshtan",
+      "link": "https://24-ore.com/fier-shuhet-edhe-vatra-e-fundit-e-zjarrit-ne-peshtan/",
+      "description": "Shuhet edhe vatra e fundit e zjarrit ne Peshtan. Operacioni i shuarjes se flakëve që nisi ne mesditë është mbyllur por disa ekipe të zjarrfikësve dhe efektivë të policisë do të qëndrojne në terren për monitorim të zonës gjatë natës. Ndërkohë më herët, ministria e Mbrojtjes njoftoi se gjatë ditës së ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T19:01:19+00:00",
+      "dateStr": "05 Jul, 19:01",
+      "isNew": true,
+      "id": "24 81783278079"
+    },
+    {
+      "title": "Naomi Osaka mposht Aryna Sabalenka dhe siguron vendin në çerekfinalet e Wimbledon",
+      "link": "https://24-ore.com/naomi-osaka-mposht-aryna-sabalenka-dhe-siguron-vendin-ne-cerekfinalet-e-wimbledon/",
+      "description": "Naomi Osaka realizoi një ndeshje të shkëlqyer për të mposhtur numrin një të botës, Aryna Sabalenka, dhe të kualifikohet për herë të parë në çerekfinalet e Wimbledon. Ndeshja në Centre Court përfundoi 6-2, 7-6 (7-2), me Osaka që dominonte nga baza dhe shfrytëzoi në mënyrë efektive shërbimin dhe foreh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-05T18:59:56+00:00",
+      "dateStr": "05 Jul, 18:59",
+      "isNew": true,
+      "id": "24 91783277996"
+    },
+    {
+      "title": "Udhëheqësi i kishës kineze, Jin Mingri lirohet nga burgu",
+      "link": "https://abcnews.al/udheheqesi-i-kishes-kineze-jin-mingri-lirohet-nga-burgu/",
+      "description": "Udhëheqësi i kishës së fshehtë, Jin Mingri, është liruar nga burgu në Kinë dhe ka udhëtuar për në SHBA, më pak se dy muaj pasi burgosja e tij u ngrit drejtpërdrejt nga Donald Trump. Pastori dhe themeluesi i Kishës Sion ishte burgosur pas bastisjeve brenda natës në të gjithë Kinën në tetor, të përshk",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-05T18:45:08+00:00",
+      "dateStr": "05 Jul, 18:45",
+      "isNew": true,
+      "id": "abc21783277108"
+    },
+    {
+      "title": "Zjarri në Drizë të Fierit/ Shuhet vatra në Peshtan, zjarrëfikësit në terren",
+      "link": "https://abcnews.al/zjarri-ne-drize-te-fierit-shuhet-vatra-ne-peshtan-zjarrefikesit-ne-terren/",
+      "description": "Shuhet edhe vatra e fundit e zjarrit ne Peshtan. Operacioni i shuarjes se flakëve që nisi ne mesditë është mbyllur por disa ekipe të zjarrfikësve dhe efektivë të policisë do të qëndrojne në terren për monitorim të zonës gjatë natës [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-05T18:27:58+00:00",
+      "dateStr": "05 Jul, 18:27",
+      "isNew": true,
+      "id": "abc31783276078"
+    },
+    {
+      "title": "Protesta në ditën e 36, pamjet e para me dron/ Ja pjesëmarrja e qytetarëve në bulevard",
+      "link": "https://abcnews.al/protesta-ne-diten-e-36-pamje-me-dron-ja-pjesemarrja-e-qytetareve-ne-bulevard/",
+      "description": "Qytetarët kanë vijuar protestën e tyre për të 36-ën ditë radhazi përpara godinës së Kryeministria, në shenjë kundërshtimi ndaj projektit të investimit në zonën e Zvërnecit. ABC News sjell pamjet me dron nga protesta, ku shihet pjesëmarrja e qytetarëve rreth orës 20:00, përgjatë bulevardit kryesor të",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-05T18:21:18+00:00",
+      "dateStr": "05 Jul, 18:21",
+      "isNew": true,
+      "id": "abc41783275678"
     },
     {
       "title": "Protesta në bulevard/ Roland Bejko: Liberalët e protestës janë kundër arkivolit, dhunës apo maskave",
@@ -34,95 +177,7 @@
       "date": "2026-07-05T17:44:09+00:00",
       "dateStr": "05 Jul, 17:44",
       "isNew": true,
-      "id": "abc01783273449"
-    },
-    {
-      "title": "Protestuesi vijon me tensionet edhe pas lirimit, ngjitet në kangjella dhe hedh vezë drejt Komisariatit nr.3",
-      "link": "https://24-ore.com/protestuesi-vijon-me-tensionet-edhe-pas-lirimit-ngjitet-ne-kangjella-dhe-hedh-veze-drejt-komisariatit-nr-3/",
-      "description": "Njëri nga protestuesit e liruar këtë të shtunë nga Gjykata e Tiranës ishte edhe Niko Qarkaj. I riu u arrestua pas protestës së zhvilluar të enjten para Parlamentit. Pas daljes nga Komisariati nr. 3, Qarkaj hipi mbi kangjellat e hyrjes dhe nxori nga xhepi një vezë. “Kjo ishte arma ime”, deklaroi ai p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T17:42:57+00:00",
-      "dateStr": "05 Jul, 17:42",
-      "isNew": true,
-      "id": "24 21783273377"
-    },
-    {
-      "title": "Zbehet pista Martinez, Juventus piketon një italian për portën. Huazim me të drejtë blerje",
-      "link": "https://24-ore.com/zbehet-pista-martinez-juventus-piketon-nje-italian-per-porten-huazim-me-te-drejte-blerje/",
-      "description": "Pasi i bëri dalje Michele Di Gregorio-s, Juventus është vënë prej kohësh në ndjekje të një portieri të ri. Edhe pse bardhezinjtë gjetën gjuhën e përbashkët me Emiliano Martinez, nuk po arrihet marrëveshja me Aston Villa-n, që kërkon 10 milionë euro. Ndërkohë, sipas asaj që zbulon Tuttusport, propozi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T17:37:30+00:00",
-      "dateStr": "05 Jul, 17:37",
-      "isNew": true,
-      "id": "24 31783273050"
-    },
-    {
-      "title": "Balogun i SHBA-së i disponueshëm ndaj Belgjikës pasi FIFA pezulloi dënimin me karton të kuq",
-      "link": "https://24-ore.com/balogun-i-shba-se-i-disponueshem-ndaj-belgjikes-pasi-fifa-pezulloi-denimin-me-karton-te-kuq/",
-      "description": "Sulmuesi 25-vjeçar Folarin Balogun do të jetë në dispozicion për Shtetet e Bashkuara në ndeshjen e 1/8-ave ndaj Belgjikës pasi FIFA ka pezulluar zbatimin e dënimit me një ndeshje. Ai mori karton të kuq direkt për një faull ndaj mbrojtësit boshnjak Tarik Muharemović gjatë takimit të 1/8-ave që vendi ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T17:32:13+00:00",
-      "dateStr": "05 Jul, 17:32",
-      "isNew": true,
-      "id": "24 41783272733"
-    },
-    {
-      "title": "Meksika kthen orët Rolex të dhuruara nga krijuesi online për të shmangur shkeljen e rregullave të FIFA-s",
-      "link": "https://24-ore.com/meksika-kthen-oret-rolex-te-dhuruara-nga-krijuesi-online-per-te-shmangur-shkeljen-e-rregullave-te-fifa-s/",
-      "description": "Skuadra kombëtare e Meksikës ia ktheu orët Rolex që krijuesi amerikan i përmbajtjeve online &#8220;Stevewilldoit&#8221; u kishte dhuruar lojtarëve, pas shqetësimeve për përputhshmërinë me rregullat e FIFA-s. Dhurata u bë rreth ndeshjes me Ekuadorin në fazën e 32-s të Kupës së Botës 2026. Sipas sport",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T17:30:59+00:00",
-      "dateStr": "05 Jul, 17:30",
-      "isNew": true,
-      "id": "24 51783272659"
-    },
-    {
-      "title": "FIFA pezullon dënimin e Balogunit; sulmuesi do të luajë ndaj Belgjikës",
-      "link": "https://24-ore.com/fifa-pezullon-denimin-e-balogunit-sulmuesi-do-te-luaje-ndaj-belgjikes/",
-      "description": "FIFA ka pezulluar dënimin me një ndeshje ndaj sulmuesit Folarin Balogun, çka i lejon atij të marrë pjesë në përballjen e Shteteve të Bashkuara me Belgjikën të hënën në raundin tjetër të turneut. Balogun udhëheq amerikanët në këtë Botëror me tre gola dhe mori karton të kuq për një shkelm ndaj boshnja",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T17:30:57+00:00",
-      "dateStr": "05 Jul, 17:30",
-      "isNew": true,
-      "id": "24 61783272657"
-    },
-    {
-      "title": "“16 vatra zjarri në të gjithë vendin, 5 janë ende aktive”, Ministria e Mbrojtjes: U angazhuan helikopterë dhe m",
-      "link": "https://24-ore.com/16-vatra-zjarri-ne-te-gjithe-vendin-5-jane-ende-aktive-ministria-e-mbrojtjes-u-angazhuan-helikoptere-dhe-m/",
-      "description": "Nën koordinimin e Agjencisë Kombëtare të Mbrojtjes Civile, gjatë ditës së sotme u menaxhuan operacionet për përballimin e 16 vatrave të zjarrit në disa qarqe të vendit. Pesë vatrat që vijojnë të jenë aktive janë vënë nën kontroll, ndërsa strukturat operacionale po punojnë për shuarjen përfundimtare ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T17:29:13+00:00",
-      "dateStr": "05 Jul, 17:29",
-      "isNew": true,
-      "id": "24 71783272553"
-    },
-    {
-      "title": "Tunel Jeshil",
-      "link": "https://24-ore.com/tunel-jeshil/",
-      "description": "Nga Edison Ypi E di ku bie Shëngjergji ? Po s’dite as Shëngjergjin, s’i duhesh as Dreqit që dënon me Ferr budallenjtë që s’njohin vendin e vet. Pak mbi Shëngjergj ndodhet Kroi i Kuq. Kur të arrish te Kroi i Kuq, ndalu pak minuta. Mbushi mushkëritë me ajër të pastër. Bëj ca lëvizje stretching-u për [",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T17:28:41+00:00",
-      "dateStr": "05 Jul, 17:28",
-      "isNew": true,
-      "id": "24 81783272521"
-    },
-    {
-      "title": "Festivali Moto dhe Rock, atmosferë e veçantë dhe qindra vizitorë në Korçë",
-      "link": "https://24-ore.com/festivali-moto-dhe-rock-atmosfere-e-vecante-dhe-qindra-vizitore-ne-korce/",
-      "description": "Aktiviteti solli një atmosferë të veçantë në qytet, duke tërhequr qindra vizitorë nga vendi dhe rajoni, që iu bashkuan pasionit për motorët dhe muzikën live. Kryeministri Edi Rama ndau sot në rrjetet sociale, një album fotografish me momente nga ky organizim i veçantë. Muzika, energjia dhe pasioni p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-05T17:28:06+00:00",
-      "dateStr": "05 Jul, 17:28",
-      "isNew": true,
-      "id": "24 91783272486"
+      "id": "abc51783273449"
     },
     {
       "title": "Nga flamingot tek arkivoli në bulevard/ Ilva Gjuzi: Vdekja simbolike e PS duhet të jetë vetëm përmes kutive të votimit!",
@@ -133,7 +188,7 @@
       "date": "2026-07-05T17:26:11+00:00",
       "dateStr": "05 Jul, 17:26",
       "isNew": true,
-      "id": "abc11783272371"
+      "id": "abc61783272371"
     },
     {
       "title": "Zjarret në vend/ Mbrojtja: 5 vatra ende aktive, u angazhuan mbi 261 forca operacionale dhe dy helikopterë",
@@ -144,7 +199,7 @@
       "date": "2026-07-05T17:08:14+00:00",
       "dateStr": "05 Jul, 17:08",
       "isNew": true,
-      "id": "abc21783271294"
+      "id": "abc71783271294"
     },
     {
       "title": "Përfshihen nga flakët dy anije në Marsejë, lëndohen 14 persona",
@@ -155,7 +210,7 @@
       "date": "2026-07-05T16:55:04+00:00",
       "dateStr": "05 Jul, 16:55",
       "isNew": true,
-      "id": "abc31783270504"
+      "id": "abc81783270504"
     },
     {
       "title": "Irani dhe Katari rifillojnë tregtinë detare!",
@@ -166,62 +221,7 @@
       "date": "2026-07-05T16:34:27+00:00",
       "dateStr": "05 Jul, 16:34",
       "isNew": true,
-      "id": "abc41783269267"
-    },
-    {
-      "title": "News Hour me Kasandra Palin, (05/07/2026)",
-      "link": "https://abcnews.al/news-hour-me-kasandra-palin-05-07-2026-2/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-05T16:16:56+00:00",
-      "dateStr": "05 Jul, 16:16",
-      "isNew": true,
-      "id": "abc51783268216"
-    },
-    {
-      "title": "Roboti humanoid kinez që po ‘çmend’ botën/ 13 mijë kërkesa në 24 orë, çmimi fillon nga rreth 17 600 dollarë",
-      "link": "https://abcnews.al/roboti-humanoid-kinez-qe-po-cmend-boten-13-mije-kerkesa-ne-24-ore-cmimi-fillon-nga-rreth-17-600-dollare/",
-      "description": "Në Kinë po zhvillohet me shpejtësi një industri e re që po ndryshon mënyrën si njerëzit e perceptojnë teknologjinë: robotët humanoidë të dizajnuar jo vetëm për punë fizike, por edhe për “shoqëri emocionale”. Kjo industri zhvillohet në Shenzhen, një nga qendrat më të mëdha teknologjike në botë, ku ko",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-05T15:51:20+00:00",
-      "dateStr": "05 Jul, 15:51",
-      "isNew": true,
-      "id": "abc61783266680"
-    },
-    {
-      "title": "Farage nën hetim për 5 mln paund / Parlamenti britanik shqyrton donacionin e kriptomilionerit",
-      "link": "https://abcnews.al/farage-nen-hetim-per-5-mln-paund-parlamenti-britanik-shqyrton-donacionin-e-kriptomilionerit/",
-      "description": "Lideri i partisë britanike kundër emigracionit, Reform UK, Nigel Farage, është sërish në qendër të polemikave, pasi parlamenti britanik po shqyrton nëse ai ka deklaruar siç duhet përfitimet dhe mbështetjen financiare që ka marrë. Farage ndodhet tashmë nën hetim nga Komisioneri Parlamentar për Standa",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-05T15:39:01+00:00",
-      "dateStr": "05 Jul, 15:39",
-      "isNew": true,
-      "id": "abc71783265941"
-    },
-    {
-      "title": "“Protestuesi nuk u dhunua”/ Avokati i Popullit: Protestuesi nuk është goditur në ambientet e policisë",
-      "link": "https://abcnews.al/protestuesi-nuk-u-dhunua-avokati-i-popullit-protestuesi-nuk-eshte-goditur-ne-ambientet-e-policise/",
-      "description": "Avokati i Popullit ka konfirmuar se nuk ka prova që mbështesin pretendimet për dhunë ndaj protestuesit Niko Qarkaj gjatë qëndrimit të tij në ambientet e Bllokut të Sigurisë, pas arrestimit. Sipas verifikimeve të kryera nga institucioni, nuk rezulton që ndaj qytetarit të jetë ushtruar dhunë nga efekt",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-05T15:25:38+00:00",
-      "dateStr": "05 Jul, 15:25",
-      "isNew": true,
-      "id": "abc81783265138"
-    },
-    {
-      "title": "Kina dhe Rusia zhvillojnë stërvitje të përbashkëta detare në Paqësor",
-      "link": "https://abcnews.al/kina-dhe-rusia-zhvillojne-stervitje-te-perbashketa-detare-ne-paqesor/",
-      "description": "Kina dhe Rusia pritet të zhvillojnë stërvitje të përbashkëta detare dhe ajrore këtë javë në ujërat dhe hapësirën ajrore pranë portit të Qingdaos, në bregun lindor të Kinës. Këto manovra vijnë si pjesë e ushtrimeve vjetore “Joint Sea”, të cilat të dyja vendet i zhvillojnë që nga viti 2012 dhe që syno",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-05T15:17:59+00:00",
-      "dateStr": "05 Jul, 15:17",
-      "isNew": true,
-      "id": "abc91783264679"
+      "id": "abc91783269267"
     }
   ]
 }
