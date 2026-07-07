@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-07-07T22:56:06.779686+00:00",
-  "totalSources": 3,
-  "totalNews": 30,
+  "lastUpdated": "2026-07-07T23:56:06.008386+00:00",
+  "totalSources": 2,
+  "totalNews": 20,
   "news": [
+    {
+      "title": "Argjentina përballë Zvicrës në çerekfinalen e Kupës së Botës në Kansas City",
+      "link": "https://24-ore.com/argjentina-perballe-zvicres-ne-cerekfinalen-e-kupes-se-botes-ne-kansas-city/",
+      "description": "Në çerekfinalen e Kupës së Botës 2026, Argjentina u ndesh me Zvicrën në Kansas City Stadium, një takim vendimtar për të siguruar vendin në gjysmëfinale. Ndeshja u ndoq nga tifozë dhe nga mediat që raportuan zhvillimet kryesore gjatë gjithë takimit. Raporton sports.yahoo, media e mbuloi takimin me pë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-07T23:14:23+00:00",
+      "dateStr": "07 Jul, 23:14",
+      "isNew": true,
+      "id": "24 01783466063"
+    },
+    {
+      "title": "Kalendar i çerekfinaleve të Botërorit 2026 dhe rruga drejt finales",
+      "link": "https://24-ore.com/kalendar-i-cerekfinaleve-te-boterorit-2026-dhe-rruga-drejt-finales/",
+      "description": "Tetë skuadrat e mbetura në Kupën e Botës 2026 do të përballen në çerekfinale gjatë datave 9-11 korrik. Përballjet e para janë: Franca – Maroku, 9 korrik, 4:00 p.m. ET, Gillette Stadium (Foxborough, Massachusetts); Spanja – Belgjika, 10 korrik, 3:00 p.m. ET, SoFi Stadium (Inglewood, California); Norv",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-07T23:13:22+00:00",
+      "dateStr": "07 Jul, 23:13",
+      "isNew": true,
+      "id": "24 11783466002"
+    },
     {
       "title": "Kombëtarja e Haitit viziton Port-au-Prince nën masa të ashpra sigurie pas Botërorit",
       "link": "https://24-ore.com/kombetarja-e-haitit-viziton-port-au-prince-nen-masa-te-ashpra-sigurie-pas-boterorit/",
@@ -12,7 +34,7 @@
       "date": "2026-07-07T22:43:09+00:00",
       "dateStr": "07 Jul, 22:43",
       "isNew": true,
-      "id": "24 01783464189"
+      "id": "24 21783464189"
     },
     {
       "title": "Henry dhe Lalas përplasen në Fox rreth kartonit të kuq të Folarin Balogun",
@@ -23,7 +45,7 @@
       "date": "2026-07-07T22:14:20+00:00",
       "dateStr": "07 Jul, 22:14",
       "isNew": true,
-      "id": "24 11783462460"
+      "id": "24 31783462460"
     },
     {
       "title": "Ronaldo i emocionuar pas eliminimit nga Kupa e Botës",
@@ -34,7 +56,7 @@
       "date": "2026-07-07T22:03:47+00:00",
       "dateStr": "07 Jul, 22:03",
       "isNew": true,
-      "id": "24 21783461827"
+      "id": "24 41783461827"
     },
     {
       "title": "FIFA pezullon dy zyrtarë të U.S. Soccer para ndeshjes me Belgjikën",
@@ -45,7 +67,7 @@
       "date": "2026-07-07T21:59:11+00:00",
       "dateStr": "07 Jul, 21:59",
       "isNew": true,
-      "id": "24 31783461551"
+      "id": "24 51783461551"
     },
     {
       "title": "Rusia kthehet në Olimpiadë/ Komiteti Olimpik Ndërkombëtar heq pezullimin e vitit 2023",
@@ -78,7 +100,7 @@
       "date": "2026-07-07T21:43:38+00:00",
       "dateStr": "07 Jul, 21:43",
       "isNew": true,
-      "id": "24 41783460618"
+      "id": "24 61783460618"
     },
     {
       "title": "Zjarr në Porto Palermo, zjarrfikësit në vendngjarje",
@@ -100,7 +122,7 @@
       "date": "2026-07-07T21:35:31+00:00",
       "dateStr": "07 Jul, 21:35",
       "isNew": true,
-      "id": "24 51783460131"
+      "id": "24 71783460131"
     },
     {
       "title": "BOTERORI 2026 – CR7: Ky ishte Botërori im i fundit, por jo fundi me Portugalinë të cilës i kam dhënë shumë!",
@@ -111,7 +133,7 @@
       "date": "2026-07-07T21:31:11+00:00",
       "dateStr": "07 Jul, 21:31",
       "isNew": true,
-      "id": "24 61783459871"
+      "id": "24 81783459871"
     },
     {
       "title": "Egjipti i zemëruar pas humbjes 3-2 nga Argjentina, ecuri dramatike në 1/8-tën e Botërorit",
@@ -122,29 +144,7 @@
       "date": "2026-07-07T21:28:09+00:00",
       "dateStr": "07 Jul, 21:28",
       "isNew": true,
-      "id": "24 71783459689"
-    },
-    {
-      "title": "Eksperti: Po lind “NATO 3.0”, Turqia po fiton peshë strategjike",
-      "link": "https://24-ore.com/eksperti-po-lind-nato-3-0-turqia-po-fiton-peshe-strategjike/",
-      "description": "I ftuar në emisionin “Now me Erla Mëhillin”, eksperti dhe gazetari Egon Loli komentoi Samitim e NATO-s në Turqi ku tha se deklaratat e presidentit amerikan Donald Trump kanë shërbyer si një shtysë për Europën që të rrisë investimet në mbrojtje dhe të rifitojë kapacitetet industriale. Loli tha se tha",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-07T21:23:03+00:00",
-      "dateStr": "07 Jul, 21:23",
-      "isNew": true,
-      "id": "24 81783459383"
-    },
-    {
-      "title": "Zvicra dhe Kolumbia 0-0 në pushim; fituesi përballet me Argjentinën",
-      "link": "https://24-ore.com/zvicra-dhe-kolumbia-0-0-ne-pushim-fituesi-perballet-me-argjentinen/",
-      "description": "Ndeshja e raundit të 16 të Kupës së Botës mes Zvicrës dhe Kolumbisë në Vancouver, British Columbia, ishte e barabartë 0-0 në pushim, ndërsa të dy ekipet luftojnë për kualifikimin në çerekfinale. Fituesi do të përballet me kampionen në fuqi, Argjentinën, të shtunën në Arrowhead Stadium në Kansas City",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-07T21:13:08+00:00",
-      "dateStr": "07 Jul, 21:13",
-      "isNew": true,
-      "id": "24 91783458788"
+      "id": "24 91783459689"
     },
     {
       "title": "“Zotat” ndëshkojnë “faraonët”/ Nga “ferri” në “parajsë”, Argjentina mund 3-2 Egjiptin",
@@ -222,116 +222,6 @@
       "dateStr": "07 Jul, 20:02",
       "isNew": true,
       "id": "abc91783454575"
-    },
-    {
-      "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
-      "link": "https://www.lajme.al/rama-kerkon-mbledhje-urgjente-me-deputetet-e-ps-diten-e-shtune-zbulohet-agjenda/",
-      "description": "Kryeministri Edi Rama pritet paraditen e së shtunës të drejtojë mbledhjen e Grupit Parlamentar të Partisë Socialiste, ku do të marrin pjesë edhe ministrat. Gazetari Muhamed Veliu ka zbuluar agjendën e kësaj mbledhjeje, të cilën do ta nisë kreu i Grupit, Taulant Balla, vijuar nga fjala e Kryeministri",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-06-19T18:05:35+00:00",
-      "dateStr": "19 Jun, 18:05",
-      "isNew": false,
-      "id": "laj01781892335"
-    },
-    {
-      "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
-      "link": "https://www.lajme.al/lajme-al-uron-te-gjithe-besimtaret-gezuar-kurban-bajramin/",
-      "description": "Urime festa e Kurban Bajramit! Gëzuar këtë festë të shenjtë dhe për shumë vite me paqe, shëndet e begati! Urojmë që kjo ditë e bekuar të sjellë qetësi në zemrat tona, harmoni në familje dhe dashuri mes njerëzve. Le të jetë një ditë që na afron më shumë me njëri-tjetrin, duke na kujtuar rëndësinë e [",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-05-27T06:00:19+00:00",
-      "dateStr": "27 May, 06:00",
-      "isNew": false,
-      "id": "laj11779861619"
-    },
-    {
-      "title": "Greqi: Flet babai i 19-vjeçares shqiptare: Humba jo engjëllin tim, por jetën time. Vajzën ma futën në kurth, e flakën pasi i bënë gjëra të tmerrshme!",
-      "link": "https://www.lajme.al/greqi-flet-babai-i-19-vjecares-shqiptare-humba-jo-engjellin-tim-por-jeten-time-vajzen-ma-futen-ne-kurth-e-flaken-pasi-i-bene-gjera-te-tmerrshme/",
-      "description": "Babai i 19-vjeçares që u gjet e pajetë në Kefaloni të Greqisë, foli sonte për mediat greke dhe tha se vajza e tij nuk kishte asnjë lidhje as me lëndë narkotike dhe as me alkool Trishtim i madh ka përfshirë Kefaloninë pas lajmit për vdekjen e 19-vjeçares shqiptare e identifikuar si Mirto, e cila u [&",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-04-16T16:54:53+00:00",
-      "dateStr": "16 Apr, 16:54",
-      "isNew": false,
-      "id": "laj21776358493"
-    },
-    {
-      "title": "Gashi: Diasporës parapëlqej t’i them mërgatë, të krijojmë kushtet për rikthimin e tyre në vendlindje",
-      "link": "https://www.lajme.al/gashi-diaspores-parapelqej-ti-them-mergate-te-krijojme-kushtet-per-rikthimin-e-tyre-ne-vendlindje/",
-      "description": "Kryetari i Kuvendit të Maqedonisë së Veriut, Afrim Gashi, ka theksuar rëndësinë e diasporës dhe nevojën për forcimin e lidhjeve me qytetarët që jetojnë jashtë vendit. Në fjalën e mbajtur në Samitin e IV të Diasporës, Gashi e cilësoi diasporën si një pjesë të pandashme të identitetit, duke u shprehur",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-04-14T14:24:35+00:00",
-      "dateStr": "14 Apr, 14:24",
-      "isNew": false,
-      "id": "laj31776176675"
-    },
-    {
-      "title": "Fitër Bajrami – Festë e Besimit, Mirësisë dhe Solidaritetit",
-      "link": "https://www.lajme.al/fiter-bajrami-feste-e-besimit-miresise-dhe-solidaritetit/",
-      "description": "Me përfundimin e muajit të Ramazanit, besimtarët myslimanë anembanë botës festojnë Fitër Bajramin – një nga festat më të rëndësishme në kalendarin islam. Kjo ditë e shënuar është një moment falënderimi ndaj Zotit, reflektimi për muajin që lamë pas, si dhe një rast për të ndarë gëzim dhe dashuri me t",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-03-20T00:03:28+00:00",
-      "dateStr": "20 Mar, 00:03",
-      "isNew": false,
-      "id": "laj41773965008"
-    },
-    {
-      "title": "Albano Bogdo pranon publikisht: “Kam kryer marrëdhënie me një ish-banore të BBV Albania”",
-      "link": "https://www.lajme.al/albano-bogdo-pranon-publikisht-kam-kryer-marredhenie-me-nje-ish-banore-te-bbv-albania/",
-      "description": "Aktori i njohur i humorit, Albano Bogdo, ka bërë një deklaratë të papritur gjatë pjesëmarrjes së tij në emisionin “Andale”. Gjatë një loje me pyetje provokuese, u lexua pohimi: “Kam bërë marrëdhënie seksuale me një ish-banore që ka qenë në Big Brother Vip Albania”. Pa hezituar, Albano ngriti menjëhe",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-25T16:28:58+00:00",
-      "dateStr": "25 Feb, 16:28",
-      "isNew": false,
-      "id": "laj51772036938"
-    },
-    {
-      "title": "Del FOTO e rrallë nga arkiva: Ja si dukej Brikena e BBVA para famës",
-      "link": "https://www.lajme.al/del-foto-e-rralle-nga-arkiva-ja-si-dukej-brikena-e-bbva-para-fames/",
-      "description": "Brikena Selmani është kthyer padyshim në një nga banoret më të komentuara dhe që ka tërhequr vëmendjen në këtë edicion të “Big Brother VIP Albania”, jo vetëm për dinamikat në lojë, por edhe për pamjen e saj. Por, duket se sharmi i modeles daton shumë më herët se dritat e famës televizive. Në rrjetet",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-25T12:23:06+00:00",
-      "dateStr": "25 Feb, 12:23",
-      "isNew": false,
-      "id": "laj61772022186"
-    },
-    {
-      "title": "LAJM I FUNDIT! Tërmeti shkund Shqipërinë!",
-      "link": "https://www.lajme.al/lajm-i-fundit-termeti-shkund-shqiperine/",
-      "description": "Elbasani u trondit këtë të martë pasdite nga një tërmet i papritur. Sipas raportimeve të para, lekundjet u ndjenw me intensite. Sipas të dhënave të fundit, një tërmet me magnitudë 4.3 të shkallës Rihter ka goditur Shqipërinë mbrëmjen e sotme, më 24 shkurt 2026. Lëkundjet u regjistruan rreth orës 20:",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T19:16:36+00:00",
-      "dateStr": "24 Feb, 19:16",
-      "isNew": false,
-      "id": "laj71771960596"
-    },
-    {
-      "title": "Diss për Xhensilën? Bes Kallaku publikon këngën e re: “Mes meje dhe teje, dihet kush ishte thëngjilli”",
-      "link": "https://www.lajme.al/diss-per-xhensilen-bes-kallaku-publikon-kengen-e-re-mes-meje-dhe-teje-dihet-kush-ishte-thengjilli/",
-      "description": "Aktori dhe këngëtari Bes Kallaku ka tërhequr vëmendjen e të gjithë ndjekësve me projektin e tij më të fundit muzikor, një këngë mjaft personale që ngjan me një rrëfim të hapur për ulje-ngritjet e jetës së tij. Menjëherë pas publikimit, rrjeti ka nisur të ziejë nga aludimet se disa prej rreshtave më ",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T19:11:16+00:00",
-      "dateStr": "24 Feb, 19:11",
-      "isNew": false,
-      "id": "laj81771960276"
-    },
-    {
-      "title": "Momenti viral: Takimi i DJ Gimbos me Egli Takon, çfarë u tha mes tyre?",
-      "link": "https://www.lajme.al/momenti-viral-takimi-i-dj-gimbos-me-egli-takon-cfare-u-tha-mes-tyre/",
-      "description": "Mbrëmjen e djeshme, e ftuar në Big Brother VIP Albania ishte ish-banorja Egli Tako, si pjesë e jurisë së “Miss &#38; Mister Big Brother”. Megjithatë, momenti që mori më shumë vëmendje në rrjet ishte takimi i saj me DJ Gimbon, mikun e ngushtë të Gjestit. Përshëndetja mes tyre ishte e ngrohtë dhe e af",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T16:13:31+00:00",
-      "dateStr": "24 Feb, 16:13",
-      "isNew": false,
-      "id": "laj91771949611"
     }
   ]
 }
