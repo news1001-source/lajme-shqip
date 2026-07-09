@@ -1,29 +1,172 @@
 {
-  "lastUpdated": "2026-07-09T20:43:39.739044+00:00",
+  "lastUpdated": "2026-07-09T22:17:42.621584+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Vritet me armë zjarri 35-vjeçari në Milot (EMRI)",
-      "link": "https://abcnews.al/vritet-me-arme-zjarri-35-vjecari-ne-milot-emri/",
-      "description": "Ilirjan Lika rreth 35 vjeç është vrarë me armë zjarri. Ngjarja pak minuta më parë ne Milot. Lajmi në përditësim&#8230; [...]Read More...",
+      "title": "Botërori 2026: Franca mposht Marokun 2-0 dhe kthehet në gjysmëfinale",
+      "link": "https://24-ore.com/boterori-2026-franca-mposht-marokun-2-0-dhe-kthehet-ne-gjysmefinale/",
+      "description": "Franca siguroi një vend në gjysmëfinalet e Kupës së Botës me fitore 2-0 ndaj Marokut, pas golave të Kylian Mbappé dhe Ousmane Dembélé. Ky sukses mban të gjallë shpresën e Les Bleus për të arritur në finale për herë të tretë radhazi. Sipas sports.yahoo, Franca ushtroi presion që në nisje të ndeshjes,",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-09T22:13:57+00:00",
+      "dateStr": "09 Jul, 22:13",
+      "isNew": true,
+      "id": "24 01783635237"
+    },
+    {
+      "title": "Mbappé humbet penalltinë pas një shqyrtimi të gjatë me VAR, Bounou priti",
+      "link": "https://24-ore.com/mbappe-humbet-penalltine-pas-nje-shqyrtimi-te-gjate-me-var-bounou-priti/",
+      "description": "Në minutën e 28-të të ndeshjes së raundit të 16 më të mirave të Botërorit mes Francës dhe Marokut, Kylian Mbappé humbi një penallti që do ta kishte dërguar Francën në avantazh. Pas faullit të Noussair Mazraoui u bë një shqyrtim me VAR që zgjati më shumë se tre minuta, dhe kjo vonesë bëri që [&#8230;",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-09T21:58:48+00:00",
+      "dateStr": "09 Jul, 21:58",
+      "isNew": true,
+      "id": "24 11783634328"
+    },
+    {
+      "title": "Spanja pa humbje përballet me Belgjikën e plot yje në çerekfinale të Botërorit",
+      "link": "https://24-ore.com/spanja-pa-humbje-perballet-me-belgjiken-e-plot-yje-ne-cerekfinale-te-boterorit/",
+      "description": "Spanja shkon në çerekfinale të Kupës së Botës e papërmbysur dhe pa pësuar gol deri më tani në turne, duke vijuar një seri prej 36 ndeshjesh zyrtare pa humbje që nga marsi i vitit 2023. Në përballjen e së premtes në SoFi Stadium, La Roja do të sfidojë një Belgjikë me shumë emra të njohur [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-09T21:57:52+00:00",
+      "dateStr": "09 Jul, 21:57",
+      "isNew": true,
+      "id": "24 21783634272"
+    },
+    {
+      "title": "Mbappé shënon golin e tetë në Botëror dhe barazon Messin në renditjen e golashënuesve",
+      "link": "https://24-ore.com/mbappe-shenon-golin-e-tete-ne-boteror-dhe-barazon-messin-ne-renditjen-e-golashenuesve/",
+      "description": "Kylian Mbappé shënoi në minutën e 60-të të çerekfinales së Kupës së Botës kundër Marokut në Foxborough, duke arritur golin e tij të tetë në turne dhe duke u barazuar me Lionel Messin në krye të listës së golashënuesve. Ai kishte humbur një penallti në pjesën e parë, por u kthye në lojë me shënimin [",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-09T21:57:12+00:00",
+      "dateStr": "09 Jul, 21:57",
+      "isNew": true,
+      "id": "24 31783634232"
+    },
+    {
+      "title": "Vritet me armë zjarri 40-vjeçari në Laç, viktima mbante katër mbiemra",
+      "link": "https://24-ore.com/vritet-me-arme-zjarri-40-vjecari-ne-lac-viktima-mbante-kater-mbiemra/",
+      "description": "Të shtëna me armë zjarri janë regjistruar mbrëmjen e kësaj të enjteje, në qytetin e Laçit. Si pasojë e ngjarjes ka humbur jetën Ilir Lika, rreth 40 vjeç. Në komunikatën e saj, Policia thotë se 40-vjeçari ka mbetur fillimisht i plagosur, por ka humbur jetën gjatë transportimit drejt Spitalit të Traum",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-09T21:41:47+00:00",
+      "dateStr": "09 Jul, 21:41",
+      "isNew": true,
+      "id": "24 41783633307"
+    },
+    {
+      "title": "On the 27th anniversary of the murder of the Bytyqi brothers, Kurti demands the punishment of those who gave the orders and executed the murders.",
+      "link": "https://24-ore.com/on-the-27th-anniversary-of-the-murder-of-the-bytyqi-brothers-kurti-demands-the-punishment-of-those-who-gave-the-orders-and-executed-the-murders/",
+      "description": "Acting Prime Minister Albin Kurti has called for a full investigation into the murder of brothers Yll, Agron and Mehmet Bytyqi, emphasizing that justice for them remains an obligation of the Republic of Kosovo and the international community. At the memorial gathering held on the balcony of the Prim",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-09T21:41:32+00:00",
+      "dateStr": "09 Jul, 21:41",
+      "isNew": true,
+      "id": "24 51783633292"
+    },
+    {
+      "title": "PD kundër integrimit dhe…SPAK/ Mahmutaj: Me këtë votim, është shkruar historia e turpit",
+      "link": "https://abcnews.al/pd-kunder-integrimit-dhe-spak-mahmutaj-me-kete-votim-eshte-shkruar-historia-e-turpit/",
+      "description": "Një Shqipëri më BE drejt perëndimit, një Shqipëri më protestë drejt lindjes. Gjysma lindore, Në Strasburg, e prishi konsensusin per deklaratën e përbashkët të komitetit parlamentar të stabilizim asocimit. Në mbledhjen e 21-të, si deklaratë e përbashkët u propozua rezoluta përfundimtare e Parlamentit",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-09T21:39:39+00:00",
+      "dateStr": "09 Jul, 21:39",
+      "isNew": true,
+      "id": "abc01783633179"
+    },
+    {
+      "title": "Bounou ndalon Mbappé dhe regjistron statistika rekord në Kupën e Botës",
+      "link": "https://24-ore.com/bounou-ndalon-mbappe-dhe-regjistron-statistika-rekord-ne-kupen-e-botes/",
+      "description": "Yassine Bounou shkëlqeu në çerekfinalen e Kupës së Botës 2026 kundër Francës, duke ndalur një penallti të Kylian Mbappé pak para pushimit dhe duke bërë pritje vendimtare gjatë gjithë ndeshjes. Sipas sports.yahoo, sipas të dhënave të Opta, Bounou ka përballuar në total në Botëror nëntë penallti, nga ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-09T21:32:59+00:00",
+      "dateStr": "09 Jul, 21:32",
+      "isNew": true,
+      "id": "24 61783632779"
+    },
+    {
+      "title": "Siria arreston të dyshuarit për shpërthimet në Damask gjatë vizitës së Macron",
+      "link": "https://24-ore.com/siria-arreston-te-dyshuarit-per-shperthimet-ne-damask-gjate-vizites-se-macron/",
+      "description": "Autoritetet siriane njoftuan se kanë arrestuar disa të dyshuar të lidhur me një seri shpërthimesh në Damask, përfshirë sulmet që ndodhën gjatë vizitës së presidentit francez Emmanuel Macron. Ministria e Brendshme tha se forcat e sigurisë kryen bastisje në kryeqytet dhe rrethina dhe arritën të shkatë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-09T21:29:48+00:00",
+      "dateStr": "09 Jul, 21:29",
+      "isNew": true,
+      "id": "24 71783632588"
+    },
+    {
+      "title": "Franca dhe Maroku 0-0 në pushim; Mbappé humbet penalltinë",
+      "link": "https://24-ore.com/franca-dhe-maroku-0-0-ne-pushim-mbappe-humbet-penalltine/",
+      "description": "Ndeshja e çerekfinaleve të Kupës së Botës midis Francës dhe Marokut shkoi në pushim me rezultat 0-0, pas një rastit të rëndësishëm në minutën e 26-të kur Kylian Mbappé dështoi nga pika e bardhë. Takimi u zhvillua të enjten në Foxborough, Massachusetts, dhe portieri maroken Bounou arriti të ndalojë g",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-09T21:27:46+00:00",
+      "dateStr": "09 Jul, 21:27",
+      "isNew": true,
+      "id": "24 81783632466"
+    },
+    {
+      "title": "Bogujevci viziton Panairin e Librit ‘Presheva 2026’: Libri, urë që na afron",
+      "link": "https://24-ore.com/bogujevci-viziton-panairin-e-librit-presheva-2026-libri-ure-qe-na-afron/",
+      "description": "Ministrja në detyrë e Kulturës dhe e Turizmit, Saranda Bogujevci, ka vizituar Panairin e Librit Shqip “Presheva 2026”, i cili këtë vit u organizua me moton “Libri dhe Tradita”. Gjatë vizitës në Preshevë, Bogujevci u njoh me aktivitetet e panairit, ku ishin të pranishëm botues, autorë dhe lexues nga ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-09T21:27:07+00:00",
+      "dateStr": "09 Jul, 21:27",
+      "isNew": true,
+      "id": "24 91783632427"
+    },
+    {
+      "title": "Vllaznia mposht Malishevën/ Shkodranët fitojnë me përmbysje sfiden e parë të raundit të parë të Ligës së Konferencës",
+      "link": "https://abcnews.al/vllaznia-mposht-malisheven-shkodranet-fitojne-me-permbysje-sfiden-e-pare-te-raundit-te-pare-te-liges-se-konferences/",
+      "description": "Vllaznia ka fituar me rezultatin 2-1 ndaj Malishevës në ndeshjen e parë të turit të parë kualifikues të Ligës së Konferencës. Skuadra nga Kosova e nisi takimin mire, pasi kaloi në epërsi që në minutën e tretë me Xhylanin, qe realizoi nga goditja e këndit. Vllaznia barazoi në minutën e 37-të me anë t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-09T21:22:09+00:00",
+      "dateStr": "09 Jul, 21:22",
+      "isNew": true,
+      "id": "abc11783632129"
+    },
+    {
+      "title": "Protesta e 40 në Tiranë/ Protestuesit në shesh, ABC sjell pamjet reale",
+      "link": "https://abcnews.al/protesta-e-40-ne-tirane-protestuesit-ne-shesh-abc-sjell-pamjet-reale/",
+      "description": "U mbajt në Tiranë protesta e 40 qytetarëve. Protestuesit u mblodhën në nisje në sheshin &#8220;Skënderbej&#8221; e më pas u zhvendosën drejt Kryeministrisë. Këto janë pamjet reale të protestës, të siguruara nga ABC News, të orës 19:50. Kjo është pamja përpara Kryeministrisë në orën 20:30 e protestue",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-09T21:19:07+00:00",
+      "dateStr": "09 Jul, 21:19",
+      "isNew": true,
+      "id": "abc21783631947"
+    },
+    {
+      "title": "Vrasja në Kurbin/ 40-vjeçari humbi jetën rrugës për tek Trauma. Me disa mbiemra e me precedent penal",
+      "link": "https://abcnews.al/vrasja-ne-kurbin-40-vjecari-humbi-jeten-rruges-per-tek-trauma-me-disa-mbiemra-e-me-precedent-penal/",
+      "description": "Policia e Kurbinit ka dhënë informacion zyrtar në lidhje me vrasjen e 40-vjeçarit Ilirjan Lika. Sipas njoftimit, rreth orës 22:10, në qytetin e Kurbinit, është qëlluar me armë zjarri ndaj 40-vjeçarit. Ai është transportuar me urgjencë drejt Spitalit të Traumës, por ka humbur jetën gjatë transportimi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-09T21:10:09+00:00",
+      "dateStr": "09 Jul, 21:10",
+      "isNew": true,
+      "id": "abc31783631409"
+    },
+    {
+      "title": "Vritet me armë zjarri 40-vjeçari në Kurbin, qëllohet me plumb në kokë (EMRI)",
+      "link": "https://abcnews.al/vritet-me-arme-zjarri-40-vjecari-ne-kurbin-qellohet-me-plumb-ne-koke-emri/",
+      "description": "Një vrasje me armë zjarri është regjistruar në Laç mbrëmjen e kësaj të enjteje. ABC News mëson se viktima është 40-vjeçari Ilirjan Lika. Ai është qëlluar me plumb në kokë. Dyshohet se ka disa mbiemra dhe po verifikohet nëse ka precedent të mëparshëm penal./abcnews.al [...]Read More...",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-07-09T20:42:40+00:00",
       "dateStr": "09 Jul, 20:42",
       "isNew": true,
-      "id": "abc01783629760"
-    },
-    {
-      "title": "“Kalamaj kopështi që padisin edukatoren”, Manjani “fshikullon” PD dhe PS për përplasjen në Strasburg",
-      "link": "https://24-ore.com/kalamaj-kopeshti-qe-padisin-edukatoren-manjani-fshikullon-pd-dhe-ps-per-perplasjen-ne-strasburg/",
-      "description": "Juristi, Ylli Manjani këtë të enjte në emisionin “Now” me Erla Mëhillin në Euronews Albania ka folur lidhur me mbledhja e 21-të të Komitetit Parlamentar të Stabilizim-Asociimit në Strasaburg ku PS e PD nuk arritën të gjejnë konsensus. Manjani përplasjet mes Partisë Demokratike dhe Partisë Socialiste",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-09T20:41:16+00:00",
-      "dateStr": "09 Jul, 20:41",
-      "isNew": true,
-      "id": "24 01783629676"
+      "id": "abc41783629760"
     },
     {
       "title": "Temperaturat ekstreme, alarm për gratë: Pse organizmi i tyre rrezikohet më shumë",
@@ -34,40 +177,7 @@
       "date": "2026-07-09T20:32:27+00:00",
       "dateStr": "09 Jul, 20:32",
       "isNew": true,
-      "id": "abc11783629147"
-    },
-    {
-      "title": "FOKUS – Ukraina merr dritën jeshile për të prodhuar raketa Patriot",
-      "link": "https://24-ore.com/fokus-ukraina-merr-driten-jeshile-per-te-prodhuar-raketa-patriot/",
-      "description": "KIEV,  9 korrik /ATSH/ – Për muaj të tërë, zyrtarët ukrainas kanë lobuar në Uashington për leje për të prodhuar raketa interceptuese Patriot. Ditën kur Rusia bombardoi Kievin për herë të tretë brenda një jave, presidenti ukrainas ndodhej 1.200 kilometra larg, duke kërkuar leje për të prodhuar armët ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-09T20:31:03+00:00",
-      "dateStr": "09 Jul, 20:31",
-      "isNew": true,
-      "id": "24 11783629063"
-    },
-    {
-      "title": "Gjon Mili Jazz&Blues Festival në edicionin e pestë tek Amfiteatri i Liqenit Artificial",
-      "link": "https://24-ore.com/gjon-mili-jazzblues-festival-ne-edicionin-e-peste-tek-amfiteatri-i-liqenit-artificial/",
-      "description": "Me hyrje të lirë, festivali solli në një mbrëmje të vetme tre projekte artistike ndërkombëtare që bashkojnë muzikantë nga Italia, Austria, Gjermania, Greqia, Polonia dhe Bosnja e Hercegovina, së bashku me disa prej emrave më të njohur të skenës shqiptare të Jazz-it. Me hapjen e programit, publiku pa",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-09T20:30:47+00:00",
-      "dateStr": "09 Jul, 20:30",
-      "isNew": true,
-      "id": "24 21783629047"
-    },
-    {
-      "title": "Emiliano Martínez: vetëkritikë pas rikthimit të Argjentinës në Botëror",
-      "link": "https://24-ore.com/emiliano-martinez-vetekritike-pas-rikthimit-te-argjentines-ne-boteror/",
-      "description": "Portieri argjentinas Emiliano Martínez u shfaq i vetëkritik pas ndeshjes së fituar nga Argjentina 3-2 ndaj Egjiptit, që i dha skuadrës vendin në çerekfinalet e Kupës së Botës. Një rikthim i jashtëzakonshëm në pjesën e fundit të takimit fshiu një disavantazh 0-2, por Martínez, që për herë të dytë rad",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-09T20:28:44+00:00",
-      "dateStr": "09 Jul, 20:28",
-      "isNew": true,
-      "id": "24 31783628924"
+      "id": "abc51783629147"
     },
     {
       "title": "Fluturimet rifillojnë në Aeroportin e Katanjës pas ndërprerjeve të shkaktuara nga aktiviteti i Malit Etna",
@@ -78,29 +188,7 @@
       "date": "2026-07-09T20:28:14+00:00",
       "dateStr": "09 Jul, 20:28",
       "isNew": true,
-      "id": "abc21783628894"
-    },
-    {
-      "title": "“PD u shkërmoq nga protesta”, Bido: Partinë Socialiste nuk e ka dëmtuar fare!",
-      "link": "https://24-ore.com/pd-u-shkermoq-nga-protesta-bido-partine-socialiste-nuk-e-ka-demtuar-fare/",
-      "description": "Deputeti i Partisë Socialiste, Ardit Bido, deklaroi se protesta e zhvilluar prej rreth 40 ditësh në Tiranë nuk ka dëmtuar Partinë Socialiste, por sipas tij ka dobësuar Partinë Demokratike. I ftuar në emisionin Now në Euronews Albania, Bido u shpreh se opozita po përballet me mungesë kohezioni dhe nu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-09T20:26:26+00:00",
-      "dateStr": "09 Jul, 20:26",
-      "isNew": true,
-      "id": "24 41783628786"
-    },
-    {
-      "title": "E BUJSHME: Mourinho rikthen Brozovic në Europë, Real Madrid bën lëvizjen befasuese",
-      "link": "https://24-ore.com/e-bujshme-mourinho-rikthen-brozovic-ne-europe-real-madrid-ben-levizjen-befasuese/",
-      "description": "Tashmë dihet që Real Madrid do të përforcojë mesfushën për sezonin e ri. Deri më sot janë përmendur shumë emra, disa prej tyre “big”, por së fundmi po qarkullon një emër surprizë. Sacha Tavolieri zbulon se përfaqësuesit e Real Madridit kanë kontaktuar Marcelo Brozovic. Kroati vendosi të largohej vet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-09T20:21:51+00:00",
-      "dateStr": "09 Jul, 20:21",
-      "isNew": true,
-      "id": "24 51783628511"
+      "id": "abc61783628894"
     },
     {
       "title": "Çerekfinalja e parë/ Hallaçi: Maroku ka bërë progres! Xhihani: Franca ka lojtarë që zgjidhin ndeshjen",
@@ -111,51 +199,7 @@
       "date": "2026-07-09T20:21:08+00:00",
       "dateStr": "09 Jul, 20:21",
       "isNew": true,
-      "id": "abc31783628468"
-    },
-    {
-      "title": "LSH: Nuk heqim dorë nga vota e diasporës në zgjedhjet lokale, përndryshe do të bllokojmë Kodin Zgjedhor",
-      "link": "https://24-ore.com/lsh-nuk-heqim-dore-nga-vota-e-diaspores-ne-zgjedhjet-lokale-perndryshe-do-te-bllokojme-kodin-zgjedhor/",
-      "description": "Lidhja Shqiptare deklaron se gjatë negociatave disa mujore për ndryshimet në Kodin Zgjedhor ka paraqitur propozime për njësitë zgjedhore, modelin e financimit dhe çështje të tjera, duke vepruar në funksion të arritjes së konsensusit. Megjithatë, partia thekson se nuk do të tërhiqet nga kërkesa që di",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-09T20:16:23+00:00",
-      "dateStr": "09 Jul, 20:16",
-      "isNew": true,
-      "id": "24 61783628183"
-    },
-    {
-      "title": "Qëndrimi i Janina Ymerit ndaj një koalicioni të mundshëm LDK-LVV: Varet se kush do të bëhet President/e",
-      "link": "https://24-ore.com/qendrimi-i-janina-ymerit-ndaj-nje-koalicioni-te-mundshem-ldk-lvv-varet-se-kush-do-te-behet-president-e/",
-      "description": "Deputetja e Lidhjes Demokratike të Kosovës (LDK), Janina Ymeri, folur për qëndrimin e saj të mundshëm, në rast të një marrëveshjeje mes LDK-së dhe Lëvizjes Vetëvendosje (LVV) për formimin e institucioneve të reja. E pyetur nëse do të qëndronte në sallë dhe do ta mbështeste një marrëveshje të tillë, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-09T20:11:50+00:00",
-      "dateStr": "09 Jul, 20:11",
-      "isNew": true,
-      "id": "24 71783627910"
-    },
-    {
-      "title": "E BUJSHME: Alejandro Garnacho drejt transferimit në Serie A. Ja situata",
-      "link": "https://24-ore.com/e-bujshme-alejandro-garnacho-drejt-transferimit-ne-serie-a-ja-situata/",
-      "description": "Pasi dështoi për transferimin e mundshëm të Mason Greenwood, Roma ka hedhur sytë nga sulmuesi anësor i Chelsea-s, Alejandro Garnacho. Sipas ekspertit të transferimeve të Sportitalia, Alfredo Pedulla, 22-vjeçari argjentinas po përflitet sërish për një transferim të mundshëm në Serie A, pasi edhe verë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-09T20:11:44+00:00",
-      "dateStr": "09 Jul, 20:11",
-      "isNew": true,
-      "id": "24 81783627904"
-    },
-    {
-      "title": "“Ramës nuk ia hapa telefonin për tre ditë”, Koçeku: Më tha që do të ngelem vetëm!",
-      "link": "https://24-ore.com/rames-nuk-ia-hapa-telefonin-per-tre-dite-koceku-me-tha-qe-do-te-ngelem-vetem/",
-      "description": "Ish-deputetja e Partisë Socialiste, Marjana Koçeku, deklaroi në emisionin Now në Euronews Albania se me kryeministrin Edi Rama ka komunikuar vetëm tre ditë pasi bëri publik vendimin për t’u larguar nga grupi parlamentar i Partisë Socialiste dhe për të vijuar mandatin si deputete e pavarur. Sipas saj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-09T20:11:25+00:00",
-      "dateStr": "09 Jul, 20:11",
-      "isNew": true,
-      "id": "24 91783627885"
+      "id": "abc71783628468"
     },
     {
       "title": "Netanyahu: Sulmi ndaj Iranit është si heqja e kancerit nga trupi, nëse nuk e largon, vdes",
@@ -166,7 +210,7 @@
       "date": "2026-07-09T19:55:49+00:00",
       "dateStr": "09 Jul, 19:55",
       "isNew": true,
-      "id": "abc41783626949"
+      "id": "abc81783626949"
     },
     {
       "title": "Italia kryeson turizmin europian në verën e vitit 2026",
@@ -177,51 +221,7 @@
       "date": "2026-07-09T19:50:03+00:00",
       "dateStr": "09 Jul, 19:50",
       "isNew": true,
-      "id": "abc51783626603"
-    },
-    {
-      "title": "“Parlamentarët e pakicës votuan kundër në Strasburg”/ Rama: Ikën për të dalë në fotoprotestë",
-      "link": "https://abcnews.al/parlamentaret-e-pakices-votuan-kunder-ne-strasburg-rama-iken-per-te-dale-ne-fotoproteste/",
-      "description": "Kryeministri Edi Rama ka reaguar pas zhvillimeve të fundit në Parlamentin Evropian. Përmes një postimi në rrjetet sociale, Rama u shpreh se se të gjithë europarlamentarët kanë votuar në mbështetje të Shqipërisë, ndërsa është shprehur se opozita ka mbajtur një qëndrim kundër. Rama thekson se edhe eur",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-09T19:48:45+00:00",
-      "dateStr": "09 Jul, 19:48",
-      "isNew": true,
-      "id": "abc61783626525"
-    },
-    {
-      "title": "Përplasen dy automjete në autostradën Levan-Tepelenë, dy të lënduar",
-      "link": "https://abcnews.al/perplasen-dy-automjete-ne-autostraden-levan-tepelene-dy-te-lenduar/",
-      "description": "Një aksident automobilistik është regjistruar në autostradën Levan–Tepelenë, në afërsi të Poçemit. Një automjet tip “ Ford” është përplasur me një automjet tjetër teksa lëviznin në korsi të kundërta. Si pasojë e përplasjes kanë mbetur të lënduar dy shtetas. Në vendngjarje janë shërbimet e policisé. ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-09T19:24:21+00:00",
-      "dateStr": "09 Jul, 19:24",
-      "isNew": true,
-      "id": "abc71783625061"
-    },
-    {
-      "title": "“Eurodeputeti nuk duhet të dalë në protestë”/ Meçe: Dolën në podium dhe kërkuan rrëzimin e qeverisë",
-      "link": "https://abcnews.al/eurodeputeti-nuk-duhet-te-dale-ne-proteste-mece-dolen-ne-podium-dhe-kerkuan-rrezimin-e-qeverise/",
-      "description": "Pjesëmarrja dhe qëndrimet e një eurodeputeteje në protestat e fundit në Tiranë kanë nxitur debate të forta mes analistëve Arben Meçe dhe Artur Nura në emisionin “Real Story” në ABC News. Meçe hodhi akuza të forta duke thënë se eurodeputetja ka treguar anshmëri të hapur politike përmes takimeve me Ar",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-09T19:17:51+00:00",
-      "dateStr": "09 Jul, 19:17",
-      "isNew": true,
-      "id": "abc81783624671"
-    },
-    {
-      "title": "Vrasja e Egli Progës/ Pas dy vitesh, prokuroria mbyll hetim dhe dërgon për gjykim 5 persona",
-      "link": "https://abcnews.al/vrasja-e-egli-proges-pas-dy-vitesh-prokuroria-mbyll-hetim-dhe-dergon-per-gjykim-5-persona/",
-      "description": "Dy vjet pas vrasjes së Egli Progës, prokuroria mbyll hetimet dhe dërgon çështjen për gjykim ndaj 5 personave. Me përfundimin e hetimeve, organi i akuzës u ka komunikuar akuzën e vrasjes me dashje të kryer në bashkëpunim Denis Meçe dhe Leonidha Guçe, ndërsa për Arjan Manellari, Voltan Shkulaku dhe An",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-09T19:16:04+00:00",
-      "dateStr": "09 Jul, 19:16",
-      "isNew": true,
-      "id": "abc91783624564"
+      "id": "abc91783626603"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
