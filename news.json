@@ -1,117 +1,161 @@
 {
-  "lastUpdated": "2026-07-11T15:50:59.585114+00:00",
+  "lastUpdated": "2026-07-11T16:51:49.101260+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "“Ka qenë një kohë ku i tregohej Kosovës çfarë duhet të bënte”, Rama flet për Albin Kurtin dhe vijën e kuqe",
-      "link": "https://24-ore.com/ka-qene-nje-kohe-ku-i-tregohej-kosoves-cfare-duhet-te-bente-rama-flet-per-albin-kurtin-dhe-vijen-e-kuqe/",
-      "description": "Kryeministri Edi Rama gjatë takimit me të rinjtë në Jalë, foli edhe për marrëdhënien e tij me kryeministrin Albin Kurtin dhe kreun e BDI-së Ali Ahmetin. “Unë qysh herët e kam pasur vijën time të kuqe, nuk bëj babën e askujt që ka shtëpinë e vet, Kosova ka instuticionet e veta. Ka qenë një kohë [&#82",
+      "title": "Politika që na shpëtoi, ndërsa flisnim për politikë",
+      "link": "https://24-ore.com/politika-qe-na-shpetoi-ndersa-flisnim-per-politike/",
+      "description": "Nga Bjorn Runa Dy ngjarje kriminale në Fier dhe Shkodër flasin më shumë rreth pushtetit në Shqipëri se sa një tjetër javë protestash e konfrontimesh partiake. Përgjatë javës që po lëmë pas, Shqipëria foli pafundësisht për politikën. Ndonëse e pazakontë për një stinë të ngadaltë politikisht, debati m",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-11T15:44:18+00:00",
-      "dateStr": "11 Jul, 15:44",
+      "date": "2026-07-11T16:43:26+00:00",
+      "dateStr": "11 Jul, 16:43",
       "isNew": true,
-      "id": "24 01783784658"
+      "id": "24 01783788206"
     },
     {
-      "title": "BOTËRORI 2026 – Një kujtim i pazakontë: FIFA nis shitjen e barit të stadiumit",
-      "link": "https://24-ore.com/boterori-2026-nje-kujtim-i-pazakonte-fifa-nis-shitjen-e-barit-te-stadiumit/",
-      "description": "ZYRIH, 11korrik /ATSH – AA/ – FIFA ka nisur t’u ofrojë tifozëve mundësinë për të zotëruar një pjesë të historisë së futbollit, duke shitur fragmente autentike të sipërfaqes së fushës ku do të zhvillohet finalja e Kupës së Botës FIFA 2026 përmes dyqanit të saj zyrtar on line. “FIFA World Cup 2026 Pie",
+      "title": "Italia: Integrimi i Ballkanit Perëndimor është prioritet strategjik për Bashkimin Evropian",
+      "link": "https://24-ore.com/italia-integrimi-i-ballkanit-perendimor-eshte-prioritet-strategjik-per-bashkimin-evropian/",
+      "description": "Italia po intensifikon përpjekjet diplomatike për ta mbajtur zgjerimin e Bashkimit Evropian me vendet e Ballkanit Perëndimor në krye të axhendës evropiane. Në samitin e zhvilluar në Romë, ku morën pjesë përfaqësues të lartë të Italisë, Bashkimit Evropian dhe vendeve të rajonit, u theksua se integrim",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-11T15:43:09+00:00",
+      "date": "2026-07-11T16:42:47+00:00",
+      "dateStr": "11 Jul, 16:42",
+      "isNew": true,
+      "id": "24 11783788167"
+    },
+    {
+      "title": "Në prag të koncertit/ Kryeministri Rama pret këngëtarin Kanye West",
+      "link": "https://abcnews.al/ne-prag-te-koncertit-kryeministri-rama-pret-kengetarin-kanye-west/",
+      "description": "TIRANË- Kryeministri Edi Rama ka pritur në ambientet e Kryeministrisë reperin dhe producentin me famë botërore Kanye West, në prag të koncertit të tij në Tiranë. Takimi është zhvilluar pak orë para performancës së artistit në kryeqytet, ndërsa pamje nga pritja janë shpërndarë në rrjetet sociale, duk",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T16:41:20+00:00",
+      "dateStr": "11 Jul, 16:41",
+      "isNew": true,
+      "id": "abc01783788080"
+    },
+    {
+      "title": "Thaçi ofron 50 mijë euro dorëzani për lirim me kusht nga Haga",
+      "link": "https://24-ore.com/thaci-ofron-50-mije-euro-dorezani-per-lirim-me-kusht-nga-haga/",
+      "description": "Ish-presidenti i Kosovës, Hashim Thaçi, ka ofruar 50 mijë euro dorëzani në Dhomat e Specializuara të Kosovës në Hagë, në përpjekje për t&#8217;u liruar me kusht në rastin e dytë, ku akuzohet për tentim të pengimit të administrimit të drejtësisë. Lajmi është bërë i ditur nga Klan Kosova, sipas të cil",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T16:37:10+00:00",
+      "dateStr": "11 Jul, 16:37",
+      "isNew": true,
+      "id": "24 21783787830"
+    },
+    {
+      "title": "Kolonjë, humb jetën 36-vjeçari gjatë ngarkimit të lëndës drusore",
+      "link": "https://abcnews.al/kolonje-humb-jeten-36-vjecari-gjate-ngarkimit-te-lendes-drusore/",
+      "description": "Një aksident tragjik në vendin e punës i ka marrë jetën një 36-vjeçari në zonën e Kolonjës. Sipas informacioneve paraprake, viktima ishte banues në Pogradec dhe punonte në një subjekt privat të licencuar për përpunimin e drurit. Mësohet se gjatë ditës së sotme ai kishte shkuar në zonën e fshatit Kur",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T16:26:24+00:00",
+      "dateStr": "11 Jul, 16:26",
+      "isNew": true,
+      "id": "abc11783787184"
+    },
+    {
+      "title": "Fulham zyrtarizon Arbeloa-n, Barcelona merr vendimin drastik",
+      "link": "https://24-ore.com/fulham-zyrtarizon-arbeloa-n-barcelona-merr-vendimin-drastik/",
+      "description": "Skuadra egjiptiane, Al-Ahly, do të jetë kundërshtari i radhës i Barçës në Trofeun Joan Gamper, që zhvillohet gjithmonë në muajin gusht. Para se të arrinte në këtë vendim, Barcelona kishte shqyrtyar edhe alternativa të tjera për kundërshtarin. Një nga ekipet kandidate ishte edhe Fulham por fakti që k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T16:22:28+00:00",
+      "dateStr": "11 Jul, 16:22",
+      "isNew": true,
+      "id": "24 31783786948"
+    },
+    {
+      "title": "News Hour me Sali Doçin, (11/07/2026)",
+      "link": "https://abcnews.al/news-hour-me-sali-docin-11-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T16:19:35+00:00",
+      "dateStr": "11 Jul, 16:19",
+      "isNew": true,
+      "id": "abc21783786775"
+    },
+    {
+      "title": "Prposki: Po hetohen shkaqet e incidentit me aeroplanin në qiellin e Maqedonisë së Veriut",
+      "link": "https://24-ore.com/prposki-po-hetohen-shkaqet-e-incidentit-me-aeroplanin-ne-qiellin-e-maqedonise-se-veriut/",
+      "description": "Hetimi për incidentin me aeroplanin e “Rajaner” nga Selaniku për në Memingen, i cili ndodhi dje në mëngjes mbi Maqedoni, është duke vazhduar, ka deklaruar kryetari i Komitetit për Hetimin e Aksidenteve Ajrore dhe Incidenteve të Rënda, Marjan Prposki. Ai shtoi se janë në komunikim të vazhdueshëm me B",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T16:16:58+00:00",
+      "dateStr": "11 Jul, 16:16",
+      "isNew": true,
+      "id": "24 41783786618"
+    },
+    {
+      "title": "Rama me të rinjtë në Jalë: Sikur të besoja çfarë u tha për Zvërnecin do të isha në protestë",
+      "link": "https://24-ore.com/rama-me-te-rinjte-ne-jale-sikur-te-besoja-cfare-u-tha-per-zvernecin-do-te-isha-ne-proteste/",
+      "description": "Duke folur në një takim në Jalë me të rinj, kryesisht nga Maqedonia e Veriut, të organizuar në ish-kampin e LSI-së, kryeministri Edi Rama tha se ndërtimi i resortit luksoz në Zvërnec do të sjellë përfitime të mëdha në ekonominë shqiptare. Ndër të tjera, Rama tha se dezinformimi ka sjellë një goditje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T16:14:09+00:00",
+      "dateStr": "11 Jul, 16:14",
+      "isNew": true,
+      "id": "24 51783786449"
+    },
+    {
+      "title": "Luajti pak ditë më parë në Botëror/ Gjendet i vdekur mesfushori i Afrikës së Jugut, dyshimet e para",
+      "link": "https://24-ore.com/luajti-pak-dite-me-pare-ne-boteror-gjendet-i-vdekur-mesfushori-i-afrikes-se-jugut-dyshimet-e-para/",
+      "description": "Futbolli është tronditur nga lajmi për ndarjen nga jeta të mesfushorit të Afrikës së Jugut, Jayden Adams, i cili ka vdekur në moshën 25-vjeçare, vetëm pak javë pasi përfaqësoi vendin e tij në Kupën e Botës 2026. Sipas raportimit të eNCA, Adams ka ndërruar jetë, ndërsa shkaku i vdekjes së tij ende nu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T16:11:07+00:00",
+      "dateStr": "11 Jul, 16:11",
+      "isNew": true,
+      "id": "24 61783786267"
+    },
+    {
+      "title": "Prova që e rihapi shqyrtimin gjyqësor në rastin e vrasjes së trefishtë në Gllogjan",
+      "link": "https://24-ore.com/prova-qe-e-rihapi-shqyrtimin-gjyqesor-ne-rastin-e-vrasjes-se-trefishte-ne-gllogjan/",
+      "description": "Gjykata e Pejës më 10.07.2026 ka vendosur që ta rihapë shqyrtimin gjyqësor në rastin e vrasjes së trefishtë në Gllogjan. Në këtë rast të akuzuar janë Halil, Kreshnik e Kastriot Mehmetaj, të cilën dyshohet se nën motivin e hakmarrjes, në mbrëmjen e 26.11.2021, kishin gjuajtur me kallashnikov në drejt",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T16:01:57+00:00",
+      "dateStr": "11 Jul, 16:01",
+      "isNew": true,
+      "id": "24 71783785717"
+    },
+    {
+      "title": "Shqiptari arrestohet në Greqi pas një serie vjedhjesh, u zbulua nga tableti i grabitur",
+      "link": "https://24-ore.com/shqiptari-arrestohet-ne-greqi-pas-nje-serie-vjedhjesh-u-zbulua-nga-tableti-i-grabitur/",
+      "description": "Një 44-vjeçar shqiptar është arrestuar nga policia greke, i dyshuar për një sërë vjedhjesh në zonat e Evias dhe Fthiotidës. Sipas autoriteteve, ai kishte hyrë në mënyrë të paligjshme në Greqi në vitin 2021 dhe që prej asaj kohe nuk ishte pajisur me leje qëndrimi. Sipas hetimeve, të enjten ai dyshohe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T15:59:41+00:00",
+      "dateStr": "11 Jul, 15:59",
+      "isNew": true,
+      "id": "24 81783785581"
+    },
+    {
+      "title": "“Nuk kam thënë që algoritmi ishte arsyeja e protestës”, Rama: Duhet t’i kuptoj sa më mirë mesazhet e protestës",
+      "link": "https://24-ore.com/nuk-kam-thene-qe-algoritmi-ishte-arsyeja-e-protestes-rama-duhet-ti-kuptoj-sa-me-mire-mesazhet-e-protestes/",
+      "description": "Kryeministri Edi Rama, njëherësh kryetar i Partisë Socialiste, zhvilloi një bashkëbisedim me të rinj në kuadër të aktivitetit “RinCamp 2026”, që po mbahet në Jalë, ku u ndal te ndikimi i algoritmeve të rrjeteve sociale, dezinformimi, protestat e fundit në vend dhe debati për projektin në Zvërnec. Ra",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T15:59:29+00:00",
+      "dateStr": "11 Jul, 15:59",
+      "isNew": true,
+      "id": "24 91783785569"
+    },
+    {
+      "title": "Luajti pak ditë më parë në Botëror/ Gjendet i vdekur mesfushori i Afrikës së Jugut, dyshimet e para",
+      "link": "https://abcnews.al/luajti-pak-dite-me-pare-ne-boteror-gjendet-i-vdekur-mesfushori-i-afrikes-se-jugut-dyshimet-e-para/",
+      "description": "Futbolli është tronditur nga lajmi për ndarjen nga jeta të mesfushorit të Afrikës së Jugut, Jayden Adams, i cili ka vdekur në moshën 25-vjeçare, vetëm pak javë pasi përfaqësoi vendin e tij në Kupën e Botës 2026. Sipas raportimit të eNCA, Adams ka ndërruar jetë, ndërsa shkaku i vdekjes së tij ende nu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T15:43:32+00:00",
       "dateStr": "11 Jul, 15:43",
       "isNew": true,
-      "id": "24 11783784589"
-    },
-    {
-      "title": "E BUJSHME: Olise nuk do të largohet këtë verë, zbulohet pakti mes Bayern dhe Real Madridit",
-      "link": "https://24-ore.com/e-bujshme-olise-nuk-do-te-largohet-kete-vere-zbulohet-pakti-mes-bayern-dhe-real-madridit/",
-      "description": "Michael Olise nuk do të largohet nga Bayern Munich, të paktën gjatë këtij afati të merkatos. Sipas BILD, klubi gjerman nuk ka ndërmend të ndahet nga sulmuesi francez, pavarësisht interesit të madh nga Real Madridi dhe PSG. Duke qenë se gjithë këto kohë është përfolur shumë për një ofertë të mundshme",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T15:41:41+00:00",
-      "dateStr": "11 Jul, 15:41",
-      "isNew": true,
-      "id": "24 21783784501"
-    },
-    {
-      "title": "Ra nga lartësia, humb jetën një punëtor ndërtimi",
-      "link": "https://24-ore.com/ra-nga-lartesia-humb-jeten-nje-punetor-ndertimi/",
-      "description": "Ministria e Punëve të Brendshme njoftoi se gjatë kryerjes së punimeve ndërtimore në një objekt në territorin e komunës së Gazi Babës, një punëtor ra nga lartësia dhe humbi jetën. “Më 10.07.2026, rreth orës 14:05, në SPB Shkup është raportuar se në zonën e Gazi Babës, gjatë kryerjes së punimeve ndërt",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T15:31:49+00:00",
-      "dateStr": "11 Jul, 15:31",
-      "isNew": true,
-      "id": "24 31783783909"
-    },
-    {
-      "title": "Vdes mesfushori i Afrikës së Jugut Jayden Adams, 25 vjeç",
-      "link": "https://24-ore.com/vdes-mesfushori-i-afrikes-se-jugut-jayden-adams-25-vjec/",
-      "description": "Jayden Adams, mesfushori i Kombëtares së Afrikës së Jugut dhe i klubit Mamelodi Sundowns, ka ndërruar jetë në moshën 25 vjeçare. Adams ishte pjesë e skuadrës që për herë të parë e kualifikoi Afrikën e Jugut në fazën e eleminimit të Kupës së Botës. Raporton Associated Press, vdekjen e tij e konfirmoi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T15:28:10+00:00",
-      "dateStr": "11 Jul, 15:28",
-      "isNew": true,
-      "id": "24 41783783690"
-    },
-    {
-      "title": "Humbi jetën nga zjarri që përfshiu banesën, 70-vjeçari ia vuri vetë flakën shtëpisë",
-      "link": "https://24-ore.com/humbi-jeten-nga-zjarri-qe-perfshiu-banesen-70-vjecari-ia-vuri-vete-flaken-shtepise/",
-      "description": "Një ngjarje e rëndë u shënua pasditen e sotme në lagjen nr. 13 të qytetit të Korçës, ku një 70-vjeçar humbi jetën si pasojë e flakëve që përfshinë banesën e tij. Viktima është Urim Hysolli, rreth 70 vjeç, i njohur nga banorët e zonës si person me probleme të varësisë nga alkooli. Sipas informacionev",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T15:26:43+00:00",
-      "dateStr": "11 Jul, 15:26",
-      "isNew": true,
-      "id": "24 51783783603"
-    },
-    {
-      "title": "E ëma e Monika Kryemadhit bën rekurs në Gjykatën e Lartë për vendimin e Apelit: Jo gjykim nga GJKKO",
-      "link": "https://24-ore.com/e-ema-e-monika-kryemadhit-ben-rekurs-ne-gjykaten-e-larte-per-vendimin-e-apelit-jo-gjykim-nga-gjkko/",
-      "description": "Pak ditë përpara se Prokuroria e Posaçme të lexojë konkluzionet përfundimtare për mamanë e ish deputetës Monika Kryemadhi, Fatime Kryemadhi, kjo e fundit i është drejtuar me rekurs Gjykatës së Lartë. Fatime Kryemadhi kërkon nga shkalla e tretë e gjyqësorit prishje të vendimit të GJKKO për mospranimi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T15:26:25+00:00",
-      "dateStr": "11 Jul, 15:26",
-      "isNew": true,
-      "id": "24 61783783585"
-    },
-    {
-      "title": "Protestat, Rama me të rinjtë në Jalë: Algoritmi aplifikoi negativitetin, iu hodh benzinë zjarrit",
-      "link": "https://24-ore.com/protestat-rama-me-te-rinjte-ne-jale-algoritmi-aplifikoi-negativitetin-iu-hodh-benzine-zjarrit/",
-      "description": "Kryeministri Edi Rama këtë të shtunë ka zhvilluar një takim me të rinjtë në Jalë ku zhvilloi një bashkëbisedim me ta. Gjatë fjalës së tij, Rama foli edhe lidhur me protestat si dhe ndikimin e algoritmit. Ai deklaroi se algoritmi ka impakt të jashtëzakonshëm në amplifikimin e zhurmës, negativitetit d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T15:24:39+00:00",
-      "dateStr": "11 Jul, 15:24",
-      "isNew": true,
-      "id": "24 71783783479"
-    },
-    {
-      "title": "Zjarr në një banesë në Korçë, humb jetë një person, banorët evakuuohen nga forcat zjarrfikëse",
-      "link": "https://24-ore.com/zjarr-ne-nje-banese-ne-korce-humb-jete-nje-person-banoret-evakuuohen-nga-forcat-zjarrfikese/",
-      "description": "Një zjarr ka përfshirë katin e parë të një pallati në lagjen nr 15 të qytetit të Korçës. Në vendngjarje ka mbërritur forcat zjarrfikëse dhe policia për të bërë të mundur izolimin dhe shuarjen e flakëve. Për pasojë, mësohet se ka humbur jetën një 72-vjeçar i identifikuar Urim Hysolli. Për arsye sigur",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T15:24:28+00:00",
-      "dateStr": "11 Jul, 15:24",
-      "isNew": true,
-      "id": "24 81783783468"
-    },
-    {
-      "title": "72-vjeçari humbi jetën nga zjarri në Korçë, banorët: Ishte i alkoolizuar, tentoi disa ditë më parë t’i vinte zjarrin banesës",
-      "link": "https://24-ore.com/72-vjecari-humbi-jeten-nga-zjarri-ne-korce-banoret-ishte-i-alkoolizuar-tentoi-disa-dite-me-pare-ti-vinte-zjarrin-baneses/",
-      "description": "Një ngjarje e rëndë u shënua pasditen e sotme në lagjen nr. 15 të qytetit të Korçës, ku një 70-vjeçar humbi jetën si pasojë e flakëve që përfshinë banesën e tij. Viktima është Urim Hysolli, 72 vjeç, i njohur nga banorët e zonës si person me probleme të varësisë nga alkooli. Sipas informacioneve para",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T15:24:14+00:00",
-      "dateStr": "11 Jul, 15:24",
-      "isNew": true,
-      "id": "24 91783783454"
+      "id": "abc31783784612"
     },
     {
       "title": "News Line me Jeta Kasemin, (11/07/2026)",
@@ -122,7 +166,7 @@
       "date": "2026-07-11T15:19:29+00:00",
       "dateStr": "11 Jul, 15:19",
       "isNew": true,
-      "id": "abc01783783169"
+      "id": "abc41783783169"
     },
     {
       "title": "“Turizmi masiv na çon poshtë”, Rama sjell shembullin e Mykonos: Na duhen turistë që shpenzojnë më shumë",
@@ -133,7 +177,7 @@
       "date": "2026-07-11T14:34:23+00:00",
       "dateStr": "11 Jul, 14:34",
       "isNew": true,
-      "id": "abc11783780463"
+      "id": "abc51783780463"
     },
     {
       "title": "Zjarr në një pallat në Korçë, humb jetën 74-vjeçari",
@@ -144,7 +188,7 @@
       "date": "2026-07-11T14:25:10+00:00",
       "dateStr": "11 Jul, 14:25",
       "isNew": true,
-      "id": "abc21783779910"
+      "id": "abc61783779910"
     },
     {
       "title": "Ruajuni nga ata që nuk ju çojnë në gjykatë për terrorizëm!",
@@ -155,7 +199,7 @@
       "date": "2026-07-11T14:01:06+00:00",
       "dateStr": "11 Jul, 14:01",
       "isNew": true,
-      "id": "abc31783778466"
+      "id": "abc71783778466"
     },
     {
       "title": "“Shqipëria është pranë ëndrrës europiane”/ Rama: Marrëdhëniet me Maqedoninë e Veriut kanë bërë përparim të madh",
@@ -166,7 +210,7 @@
       "date": "2026-07-11T13:57:44+00:00",
       "dateStr": "11 Jul, 13:57",
       "isNew": true,
-      "id": "abc41783778264"
+      "id": "abc81783778264"
     },
     {
       "title": "Rama: Shqipëria është më pranë se kurrë BE-së, Diella ka përshpejtuar punën!",
@@ -177,51 +221,7 @@
       "date": "2026-07-11T13:52:11+00:00",
       "dateStr": "11 Jul, 13:52",
       "isNew": true,
-      "id": "abc51783777931"
-    },
-    {
-      "title": "“Protesta, Zvërneci është harruar”/ Rama bashkëbisedim me të rinjtë në Jalë: Çdo protestë përcjell një mesazh, por algoritmi deformon debatin",
-      "link": "https://abcnews.al/protesta-zverneci-eshte-harruar-rama-bashkebisedim-me-te-rinjte-ne-jale-cdo-proteste-percjell-nje-mesazh-por-algoritmi-deformon-debatin/",
-      "description": "Kryeministri Edi Rama, gjatë një bashkëbisedimi me të rinjtë në Jalë, u ndal te protestat, ndikimi i rrjeteve sociale dhe roli i algoritmeve në formësimin e debatit publik. Duke komentuar protestat e fundit, Rama tha se çdo protestë mbart një ose më shumë mesazhe, por theksoi se, sipas tij, shpesh p",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T13:37:00+00:00",
-      "dateStr": "11 Jul, 13:37",
-      "isNew": true,
-      "id": "abc61783777020"
-    },
-    {
-      "title": "Nëna e Kryemadhit në Gjykatën e Lartë/ Bën rekurs për vendimin e Apelit: Jo gjykim nga GJKKO",
-      "link": "https://abcnews.al/nena-e-kryemadhit-ne-gjykaten-e-larte-ben-rekurs-per-vendimin-e-apelit-jo-gjykim-nga-gjkko/",
-      "description": "Pak ditë përpara se Prokuroria e Posaçme të lexojë konkluzionet përfundimtare për mamanë e ish deputetës Monika Kryemadhi, Fatime Kryemadhi, kjo e fundit i është drejtuar me rekurs Gjykatës së Lartë. Fatime Kryemadhi kërkon nga shkalla e tretë e gjyqësorit prishje të  vendimit të GJKKO për mospranim",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T13:33:37+00:00",
-      "dateStr": "11 Jul, 13:33",
-      "isNew": true,
-      "id": "abc71783776817"
-    },
-    {
-      "title": "Premtimi i Trump për raketat “Patriot” kërkon kohë, Ukraina përballet me zgjedhje të vështira",
-      "link": "https://abcnews.al/premtimi-i-trump-per-raketat-patriot-kerkon-kohe-ukraina-perballet-me-zgjedhje-te-veshtira/",
-      "description": "Premtimi i presidentit amerikan, Donald Trump për t’i siguruar Ukrainës të drejtën për të prodhuar raketa amerikane të mbrojtjes ajrore “Patriot” është një fitore politike për presidentin ukrainas Volodymyr Zelensky, por zbatimi i tij mund të kërkojë të paktën një vit, sipas ekspertëve të mbrojtjes,",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T13:00:26+00:00",
-      "dateStr": "11 Jul, 13:00",
-      "isNew": true,
-      "id": "abc81783774826"
-    },
-    {
-      "title": "VIDEO/ Kanye West ndez sonte Tiranën, nis zbatimi i masave të qarkullimit",
-      "link": "https://abcnews.al/video-kanye-west-ndez-sonte-tiranen-nis-zbatimi-i-masave-te-qarkullimit/",
-      "description": "Ka nisur zbatimi i planit të masave për menaxhimin e trafikut dhe bllokimin e disa segmenteve rrugore, në kuadër të koncertit të reperit amerikan Kanye West (Ye), që mbahet mbrëmjen e sotme, 11 korrik, në Tiranë. Kryeqyteti do të presë një nga artistët më të njohur të muzikës hip-hop në botë, ndërsa",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T12:40:43+00:00",
-      "dateStr": "11 Jul, 12:40",
-      "isNew": true,
-      "id": "abc91783773643"
+      "id": "abc91783777931"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
