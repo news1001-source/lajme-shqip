@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-07-11T21:43:41.446870+00:00",
+  "lastUpdated": "2026-07-11T22:42:23.321210+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "​Të dielën s’ka kufizim të qarkullimit për automjetet e transportit mbi 20 tonë",
+      "link": "https://24-ore.com/te-dielen-ska-kufizim-te-qarkullimit-per-automjetet-e-transportit-mbi-20-tone/",
+      "description": "Ministria e Infrastrukturës dhe Transportit njoftoi se të dielën (12 korrik) nuk do të ketë kufizim të qarkullimit për automjetet e transportit të mallrave mbi 20 tonë. “Bazuar në parashikimin zyrtar të temperaturave, për nesër nuk pritet të plotësohen kushtet e përcaktuara në vendimin e Ministrisë ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T22:00:55+00:00",
+      "dateStr": "11 Jul, 22:00",
+      "isNew": true,
+      "id": "24 01783807255"
+    },
+    {
+      "title": "“Protesta e humbi kauzën kur u politizua”, Petraj: Ajo e 4 korrikut ishte “protesta e turpit”, u shfaq antiamerikanizëm!",
+      "link": "https://abcnews.al/protesta-e-humbi-kauzen-kur-u-politizua-petraj-ajo-e-4-korrikut-ishte-protesta-e-turpit-u-shfaq-antiamerikanizem/",
+      "description": "TIRANË&#8211; Avokati Edmond Petraj, i ftuar në emisionin “Ora e Fundit”, komentoi zhvillimet e protestës që vijon prej javësh, duke u shprehur se ajo e ka humbur qëllimin fillestar pasi, sipas tij, është politizuar. Petraj deklaroi se në ditët e para ish-kryeministri Sali Berisha ishte kritik ndaj ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T21:45:18+00:00",
+      "dateStr": "11 Jul, 21:45",
+      "isNew": true,
+      "id": "abc01783806318"
+    },
     {
       "title": "Thaçi offers 50 thousand euros as bail for conditional release from The Hague",
       "link": "https://24-ore.com/thaci-offers-50-thousand-euros-as-bail-for-conditional-release-from-the-hague/",
@@ -12,7 +34,7 @@
       "date": "2026-07-11T21:41:03+00:00",
       "dateStr": "11 Jul, 21:41",
       "isNew": true,
-      "id": "24 01783806063"
+      "id": "24 11783806063"
     },
     {
       "title": "Analistët: Qeveria mund të formohet shpejt, por një tjetër betejë politike sapo ka nisur",
@@ -23,7 +45,7 @@
       "date": "2026-07-11T21:40:50+00:00",
       "dateStr": "11 Jul, 21:40",
       "isNew": true,
-      "id": "24 11783806050"
+      "id": "24 21783806050"
     },
     {
       "title": "Begaj’s visit to the Valley, Fetoshi: They are fabricating the “Albanian World” to justify the “Serbian World”",
@@ -34,7 +56,7 @@
       "date": "2026-07-11T21:35:56+00:00",
       "dateStr": "11 Jul, 21:35",
       "isNew": true,
-      "id": "24 21783805756"
+      "id": "24 31783805756"
     },
     {
       "title": "Kurti – Hamza – Abdixhiku meetings, reaching an agreement is considered difficult",
@@ -45,7 +67,7 @@
       "date": "2026-07-11T21:35:37+00:00",
       "dateStr": "11 Jul, 21:35",
       "isNew": true,
-      "id": "24 31783805737"
+      "id": "24 41783805737"
     },
     {
       "title": "“Protesta ka sfumuar opozitën”, Alesia Balliu: Qytetarët kërkojnë largimin e Berishës nga politika",
@@ -56,7 +78,7 @@
       "date": "2026-07-11T21:33:15+00:00",
       "dateStr": "11 Jul, 21:33",
       "isNew": true,
-      "id": "abc01783805595"
+      "id": "abc11783805595"
     },
     {
       "title": "Po ju, e doni Shqipërinë?",
@@ -67,7 +89,7 @@
       "date": "2026-07-11T21:32:46+00:00",
       "dateStr": "11 Jul, 21:32",
       "isNew": true,
-      "id": "abc11783805566"
+      "id": "abc21783805566"
     },
     {
       "title": "Dita e 42-të, nis marshimi i qytetarëve, gazetarja tregon intenerarin e rrugëve ku do të protestohet",
@@ -78,7 +100,7 @@
       "date": "2026-07-11T21:23:39+00:00",
       "dateStr": "11 Jul, 21:23",
       "isNew": true,
-      "id": "24 41783805019"
+      "id": "24 51783805019"
     },
     {
       "title": "Skenë madhështore dhe pjesëmarrje masive, pamje nga koncerti i Kanye West në Tiranë",
@@ -89,7 +111,7 @@
       "date": "2026-07-11T21:23:20+00:00",
       "dateStr": "11 Jul, 21:23",
       "isNew": true,
-      "id": "24 51783805000"
+      "id": "24 61783805000"
     },
     {
       "title": "Dy automjete përplasen në aksin Elbasan–Librazhd, një grua bllokohet në mjet",
@@ -100,7 +122,7 @@
       "date": "2026-07-11T21:23:00+00:00",
       "dateStr": "11 Jul, 21:23",
       "isNew": true,
-      "id": "24 61783804980"
+      "id": "24 71783804980"
     },
     {
       "title": "“Tirona o nona”, Rama ndan pamje nga koncerti “YE”: Shqipëri e bukur europiane",
@@ -111,7 +133,7 @@
       "date": "2026-07-11T21:22:40+00:00",
       "dateStr": "11 Jul, 21:22",
       "isNew": true,
-      "id": "24 71783804960"
+      "id": "24 81783804960"
     },
     {
       "title": "Vrasja në Shkodër, flet i afërmi i viktimës: Konfliktin e dinë të gjithë, është ruajtur",
@@ -122,29 +144,18 @@
       "date": "2026-07-11T21:22:24+00:00",
       "dateStr": "11 Jul, 21:22",
       "isNew": true,
-      "id": "24 81783804944"
-    },
-    {
-      "title": "Ekonomisti Muharremi: Review-të negative po shkatërrojnë Pasuritë Kombëtare, e njoh mirë turizmin",
-      "link": "https://24-ore.com/ekonomisti-muharremi-review-te-negative-po-shkaterrojne-pasurite-kombetare-e-njoh-mire-turizmin/",
-      "description": "Ekonomisti Alfred Muharremi ka reaguar lidhur me komentet dhe vlerësimet negative ndaj bizneseve turistike në Shqipëri, duke i cilësuar ato si të dëmshme për ekonominë dhe sektorin e turizmit. Gjatë një interviste në emisionin “Review” me Greta Topjana, ai tha se fushatat me komente negative po ceno",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T21:22:04+00:00",
-      "dateStr": "11 Jul, 21:22",
-      "isNew": true,
-      "id": "24 91783804924"
+      "id": "24 91783804944"
     },
     {
       "title": "Djali i kushëririt iu vra në atentat/ I afërmi: Konflikti ynë dihet nga të gjithë, Aleksandri punonte në furrë buke",
       "link": "https://abcnews.al/djali-i-kusheririt-iu-vra-ne-atentat-i-afermi-konflikti-yne-dihet-nga-te-gjithe-aleksandri-punonte-ne-furre-buke/",
-      "description": "SHKODËR- Mark Koçeku, i afërm i viktimës Aleksandër Koçeku, ka folur për mediat pas ngjarjes së rëndë, duke deklaruar se familja kishte prej kohësh një konflikt, i cili njihet dhe autoritetet. Ai u shpreh se Aleksandër Koçeku punonte kryesisht pranë banesës dhe së fundmi ishte punësuar në një furrë ",
+      "description": "SHKODËR- Aleksandër Koçeku u vra në Karmë të Kirit në Dukagjin. Vrasja dyshohet se ka ndodhur për gjakmarrje. Një gjë të tillë e bën të ditur kushëriri i viktimës Mark Koçeku. Para 8 vitesh, Angjelin Shkambi u vra me armë zjarri në Shkodër ndërsa autori i kësaj ngjarje Artan Koçeku është në burg si ",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-07-11T21:16:06+00:00",
       "dateStr": "11 Jul, 21:16",
       "isNew": true,
-      "id": "abc21783804566"
+      "id": "abc31783804566"
     },
     {
       "title": "Atentati në Shkodër/ Makina e bërë shoshë, pamjet nga vendi ku u gjet i vdekur Aleksandër Koçeku",
@@ -155,7 +166,7 @@
       "date": "2026-07-11T21:00:05+00:00",
       "dateStr": "11 Jul, 21:00",
       "isNew": true,
-      "id": "abc31783803605"
+      "id": "abc41783803605"
     },
     {
       "title": "Franca apo Spanja, cila është favoritja? Mneri: “Gjelat” nxjerrin raste nga hiçi. Tahiri: Spanjollët nuk më bindin",
@@ -166,7 +177,7 @@
       "date": "2026-07-11T20:46:14+00:00",
       "dateStr": "11 Jul, 20:46",
       "isNew": true,
-      "id": "abc41783802774"
+      "id": "abc51783802774"
     },
     {
       "title": "‘Tirona o nona’, Rama publikon pamjet nga koncerti i West: Shqipëri e bukur europiane",
@@ -177,7 +188,7 @@
       "date": "2026-07-11T20:10:01+00:00",
       "dateStr": "11 Jul, 20:10",
       "isNew": true,
-      "id": "abc51783800601"
+      "id": "abc61783800601"
     },
     {
       "title": "Kanye ndez Tiranën: Minutat e fundit para fillimit të koncertit. Me mijëra fansa në ‘Eagle Stadium’",
@@ -188,7 +199,7 @@
       "date": "2026-07-11T19:24:52+00:00",
       "dateStr": "11 Jul, 19:24",
       "isNew": true,
-      "id": "abc61783797892"
+      "id": "abc71783797892"
     },
     {
       "title": "Edicioni qendror me Emilian Islamin, (11/07/2026)",
@@ -199,7 +210,7 @@
       "date": "2026-07-11T19:20:14+00:00",
       "dateStr": "11 Jul, 19:20",
       "isNew": true,
-      "id": "abc71783797614"
+      "id": "abc81783797614"
     },
     {
       "title": "U gjet i vdekur në makinë/ Shkodër, viktima ishte nën hetim për një vrasje të ndodhur në 2025",
@@ -210,18 +221,7 @@
       "date": "2026-07-11T18:46:46+00:00",
       "dateStr": "11 Jul, 18:46",
       "isNew": true,
-      "id": "abc81783795606"
-    },
-    {
-      "title": "Dita 42 e protestës, pamjet me dron: Ja pjesëmarrja e qytetarëve në Bulevard",
-      "link": "https://abcnews.al/dita-42-e-protestes-pamjet-e-para-nga-lart-ja-pjesemarrja-ne-shesh/",
-      "description": "TIRANË- Në kryeqytet po mbahet protesta e 42 e qytetarëve. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej” e më pas u zhvendosën drejt bulevardit “Dëshmorët e Kombit”, para godinës së kryeministrisë. Këto janë pamjet reale të protestës, të siguruara nga ABC News, në orën 19:30. Pamjet që ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T18:40:22+00:00",
-      "dateStr": "11 Jul, 18:40",
-      "isNew": true,
-      "id": "abc91783795222"
+      "id": "abc91783795606"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
