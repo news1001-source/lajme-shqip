@@ -1,51 +1,150 @@
 {
-  "lastUpdated": "2026-07-11T16:51:49.101260+00:00",
+  "lastUpdated": "2026-07-11T17:51:27.114696+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Politika që na shpëtoi, ndërsa flisnim për politikë",
-      "link": "https://24-ore.com/politika-qe-na-shpetoi-ndersa-flisnim-per-politike/",
-      "description": "Nga Bjorn Runa Dy ngjarje kriminale në Fier dhe Shkodër flasin më shumë rreth pushtetit në Shqipëri se sa një tjetër javë protestash e konfrontimesh partiake. Përgjatë javës që po lëmë pas, Shqipëria foli pafundësisht për politikën. Ndonëse e pazakontë për një stinë të ngadaltë politikisht, debati m",
+      "title": "Shkupi drejt një sistemi modern të transportit publik",
+      "link": "https://24-ore.com/shkupi-drejt-nje-sistemi-modern-te-transportit-publik/",
+      "description": "Kryetari i Qytetit të Shkupit, Orce Gjorgievski, sot zhvilloi një takim pune me ekipin e Bankës Evropiane për Rindërtim dhe Zhvillim (BERZH) në Maqedoni, të udhëhequr nga drejtori Fatih Turkmenoglu, në të cilin u bë koordinimi përfundimtar për hapat e ardhshëm në zbatimin dhe optimizimin e projektit",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-11T16:43:26+00:00",
-      "dateStr": "11 Jul, 16:43",
+      "date": "2026-07-11T17:46:41+00:00",
+      "dateStr": "11 Jul, 17:46",
       "isNew": true,
-      "id": "24 01783788206"
+      "id": "24 01783792001"
     },
     {
-      "title": "Italia: Integrimi i Ballkanit Perëndimor është prioritet strategjik për Bashkimin Evropian",
-      "link": "https://24-ore.com/italia-integrimi-i-ballkanit-perendimor-eshte-prioritet-strategjik-per-bashkimin-evropian/",
-      "description": "Italia po intensifikon përpjekjet diplomatike për ta mbajtur zgjerimin e Bashkimit Evropian me vendet e Ballkanit Perëndimor në krye të axhendës evropiane. Në samitin e zhvilluar në Romë, ku morën pjesë përfaqësues të lartë të Italisë, Bashkimit Evropian dhe vendeve të rajonit, u theksua se integrim",
+      "title": "Dita 42 e protestës, pamjet e para nga lart: Ja pjesëmarrja në shesh",
+      "link": "https://abcnews.al/dita-42-e-protestes-pamjet-e-para-nga-lart-ja-pjesemarrja-ne-shesh/",
+      "description": "TIRANË- Në kryeqytet ka nisur protesta e 42 e qytetarëve. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej” e më pas u zhvendosën drejt bulevardit “Dëshmorët e Kombit”, para godinës së kryeministrisë. Këto janë pamjet reale të protestës, të siguruara nga ABC News, në orën 19:30. &#160; [...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T17:46:22+00:00",
+      "dateStr": "11 Jul, 17:46",
+      "isNew": true,
+      "id": "abc01783791982"
+    },
+    {
+      "title": "ZYRTARE: Man. City bën goditjen e radhës në merkato. Pas 2-3 sezonesh, ky lojtar do të vlerësohet minimumi 100 milionë euro",
+      "link": "https://24-ore.com/zyrtare-man-city-ben-goditjen-e-radhes-ne-merkato-pas-2-3-sezonesh-ky-lojtar-do-te-vleresohet-minimumi-100-milione-euro/",
+      "description": "Pas Elliot Anderson për 135 milionë euro, Manchester City ka zyrtarizuar ditën e sotme një tjetër transferim për këtë merkato. “Qytetarët” kanë arritur marrëveshjen me Leicester për transferimin e Jeremy Monga, i konsideruar si një nga talentet më premtues në Angli. Man. City ka paguar 12 milionë eu",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-11T16:42:47+00:00",
-      "dateStr": "11 Jul, 16:42",
+      "date": "2026-07-11T17:36:54+00:00",
+      "dateStr": "11 Jul, 17:36",
       "isNew": true,
-      "id": "24 11783788167"
+      "id": "24 11783791414"
+    },
+    {
+      "title": "Rama mesazh Kurtit: Nuk i jap mend dikujt në shtëpinë e vet",
+      "link": "https://abcnews.al/rama-mesazh-kurtit-nuk-i-jap-mend-dikujt-ne-shtepine-e-vet/",
+      "description": "VLORË- Pak orë para nisjes se një tjetër proteste poshtë zyrës se tij në tiranë, nga Jala në takim me të rinjtë, kryeministri Edi Rama pati një mesazh të parë direkt për homologun e tij kosovar. Njerëzit e vetëvendosjes dhe drejtues të saj, nuk e kanë fshehur as nxitjen dhe as pjesëmarrjen në protes",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T17:34:02+00:00",
+      "dateStr": "11 Jul, 17:34",
+      "isNew": true,
+      "id": "abc11783791242"
+    },
+    {
+      "title": "BIRN dhe Gjergj Erebara po udhëheqin betejën kundër turizmit",
+      "link": "https://24-ore.com/birn-dhe-gjergj-erebara-po-udheheqin-betejen-kunder-turizmit/",
+      "description": "Nga Mero Baze BIRN, një OJF e sponsorizuar për gazetari investigative, është vënë në krye të betejës kundër bizneseve të turizmit në Shqipëri, duke iu gëzuar sulmit mbi bizneset dhe duke u përpjekur ta relativizojë dëmin financiar dhe moral që u shkaktohet atyre. Kur fushata filloi një javë më parë,",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T17:28:50+00:00",
+      "dateStr": "11 Jul, 17:28",
+      "isNew": true,
+      "id": "24 21783790930"
+    },
+    {
+      "title": "Temperaturat e larta rrisin rastet e pickimeve, 35 raste në javë në spitalin e Belshit",
+      "link": "https://24-ore.com/temperaturat-e-larta-rrisin-rastet-e-pickimeve-35-raste-ne-jave-ne-spitalin-e-belshit/",
+      "description": "Në kulmin e sezonit të verës, urgjencat po përballen me një tjetër pasojë të temperaturave të larta. Pickimet nga insektet po shtojnë numrin e pacientëve që kërkojnë ndihmë mjekësore. Vetëm në Urgjencën e Belshit regjistrohen 3 deri në 5 raste në ditë, ose deri në 35 pacientë në javë, ndërsa rastet ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T17:24:23+00:00",
+      "dateStr": "11 Jul, 17:24",
+      "isNew": true,
+      "id": "24 31783790663"
+    },
+    {
+      "title": "Kanye West pritet nga Edi Rama, kryeministri ndan pamjet",
+      "link": "https://24-ore.com/kanye-west-pritet-nga-edi-rama-kryeministri-ndan-pamjet/",
+      "description": "Një nga reperët më të njohur në mbarë botën, Kanye West, është pritur nga kryeministri Edi Rama. Këtë e bëri të ditur vetë kryeministri teksa ka shpërndarë një video në rrjete sociale gjatë takimit. Në pamje shfaqet Rama teksa i tregon këngëtarit të njohur pak nga kultura dhe historia e Shqipërisë. ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T17:24:10+00:00",
+      "dateStr": "11 Jul, 17:24",
+      "isNew": true,
+      "id": "24 41783790650"
+    },
+    {
+      "title": "E rëndë në Kolonjë, ndërron jetë një 36-vjeçar. E zuri poshtë një trup druri teksa e ngarkonte",
+      "link": "https://24-ore.com/e-rende-ne-kolonje-nderron-jete-nje-36-vjecar-e-zuri-poshte-nje-trup-druri-teksa-e-ngarkonte/",
+      "description": "Një ngjarje e rëndë ka ndodhur në Kolonjë ku ka ndërruar jetë një 36-vjeçar. Raportohet se ai po ngarkonte trupa druri në një subjekt privat. Sipas informacioneve paraprake, mësohet se 36 vjeçari ishte banues në Pogradec dhe punonte në një subjekt privat të licensuar për prodhimin e drurit. Viktima ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T17:23:57+00:00",
+      "dateStr": "11 Jul, 17:23",
+      "isNew": true,
+      "id": "24 51783790637"
+    },
+    {
+      "title": "Hoxha me të rinjtë në Jalë: Anëtarësimi në BE kërkon përfshirjen tuaj. Evropa fillon në shtëpi",
+      "link": "https://24-ore.com/hoxha-me-te-rinjte-ne-jale-anetaresimi-ne-be-kerkon-perfshirjen-tuaj-evropa-fillon-ne-shtepi/",
+      "description": "Ministri për Evropën dhe Punët e Jashtme, Ferit Hoxha, së bashku me Kryeministrin Edi Rama morën pjesë në një dialog të hapur me 150 aktivistë të rinj nga Shqipëria, Maqedonia e Veriut dhe Mali i Zi në #RinCamp2026. Anëtarësimi në BE dhe progresi i Shqipërisë ishte pjesë e bisedimeve me të rinjtë në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T17:23:46+00:00",
+      "dateStr": "11 Jul, 17:23",
+      "isNew": true,
+      "id": "24 61783790626"
+    },
+    {
+      "title": "Kolonja, destinacioni i të huajve, ushqimi dhe natyra ‘magnet’ për ta",
+      "link": "https://24-ore.com/kolonja-destinacioni-i-te-huajve-ushqimi-dhe-natyra-magnet-per-ta/",
+      "description": "Në Kolonjë, turistët nuk kanë mundësi vetëm të vizitojnë sajtet natyrore dhe monumentet e trashëgimisë kulturore, por edhe të mësojnë përgatitjen e gatimeve tradicionale e më pas t’i shijojnë ato. Përvoja e gatimit me banorët vendas po bëhet një nga aktivitetet më tërheqëse për vizitorët. Turistët f",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T17:23:32+00:00",
+      "dateStr": "11 Jul, 17:23",
+      "isNew": true,
+      "id": "24 71783790612"
+    },
+    {
+      "title": "Pse Evropa i tha jo Serbisë? Bytyçi jep arsyet e refuzimit për anëtarësim në BE",
+      "link": "https://24-ore.com/pse-evropa-i-tha-jo-serbise-bytyci-jep-arsyet-e-refuzimit-per-anetaresim-ne-be/",
+      "description": "Profesori Enver Bytyçi i ftuar këtë të shtunë në emisionin ‘Balkan Talks’ me Franko Egron në Euronews Albania ka folur lidhur me refuzimin e 8 vendeve për anëtarësimin e Serbisë në BE. Bytyçi u shpreh se duke qenë se shtetet anëtarë kanë të drejtë të mbajnë qëndrime e kanë çorientuar presidentin ser",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T17:23:17+00:00",
+      "dateStr": "11 Jul, 17:23",
+      "isNew": true,
+      "id": "24 81783790597"
+    },
+    {
+      "title": "Apple padit OpenAI: Fitoi akses në të dhëna konfidenciale përmes punësimit të ish-punonjësve",
+      "link": "https://24-ore.com/apple-padit-openai-fitoi-akses-ne-te-dhena-konfidenciale-permes-punesimit-te-ish-punonjesve/",
+      "description": "Apple ka akuzuar OpenAI-n se ka fituar akses në informacione të vlefshme konfidenciale përmes punësimit të ish-punonjësve të saj. Në një padi federale të ngritur të premten, Apple paditi kompaninë e inteligjencës artificiale, dy nga punonjësit e saj dhe io Products, duke pretenduar se ata ishin përf",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T17:23:04+00:00",
+      "dateStr": "11 Jul, 17:23",
+      "isNew": true,
+      "id": "24 91783790584"
     },
     {
       "title": "Në prag të koncertit/ Kryeministri Rama pret këngëtarin Kanye West",
       "link": "https://abcnews.al/ne-prag-te-koncertit-kryeministri-rama-pret-kengetarin-kanye-west/",
-      "description": "TIRANË- Kryeministri Edi Rama ka pritur në ambientet e Kryeministrisë reperin dhe producentin me famë botërore Kanye West, në prag të koncertit të tij në Tiranë. Takimi është zhvilluar pak orë para performancës së artistit në kryeqytet, ndërsa pamje nga pritja janë shpërndarë në rrjetet sociale, duk",
+      "description": "TIRANË- Kryeministri Edi Rama ka pritur pasditen e kësaj të shtune  në ambientet e Kryeministrisë reperin dhe producentin me famë botërore Kanye West, në prag të koncertit të tij në Tiranë. Takimi është zhvilluar pak orë para performancës së artistit në kryeqytet, ndërsa pamjet nga pritja i ka shpër",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-07-11T16:41:20+00:00",
       "dateStr": "11 Jul, 16:41",
       "isNew": true,
-      "id": "abc01783788080"
-    },
-    {
-      "title": "Thaçi ofron 50 mijë euro dorëzani për lirim me kusht nga Haga",
-      "link": "https://24-ore.com/thaci-ofron-50-mije-euro-dorezani-per-lirim-me-kusht-nga-haga/",
-      "description": "Ish-presidenti i Kosovës, Hashim Thaçi, ka ofruar 50 mijë euro dorëzani në Dhomat e Specializuara të Kosovës në Hagë, në përpjekje për t&#8217;u liruar me kusht në rastin e dytë, ku akuzohet për tentim të pengimit të administrimit të drejtësisë. Lajmi është bërë i ditur nga Klan Kosova, sipas të cil",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T16:37:10+00:00",
-      "dateStr": "11 Jul, 16:37",
-      "isNew": true,
-      "id": "24 21783787830"
+      "id": "abc21783788080"
     },
     {
       "title": "Kolonjë, humb jetën 36-vjeçari gjatë ngarkimit të lëndës drusore",
@@ -56,18 +155,7 @@
       "date": "2026-07-11T16:26:24+00:00",
       "dateStr": "11 Jul, 16:26",
       "isNew": true,
-      "id": "abc11783787184"
-    },
-    {
-      "title": "Fulham zyrtarizon Arbeloa-n, Barcelona merr vendimin drastik",
-      "link": "https://24-ore.com/fulham-zyrtarizon-arbeloa-n-barcelona-merr-vendimin-drastik/",
-      "description": "Skuadra egjiptiane, Al-Ahly, do të jetë kundërshtari i radhës i Barçës në Trofeun Joan Gamper, që zhvillohet gjithmonë në muajin gusht. Para se të arrinte në këtë vendim, Barcelona kishte shqyrtyar edhe alternativa të tjera për kundërshtarin. Një nga ekipet kandidate ishte edhe Fulham por fakti që k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T16:22:28+00:00",
-      "dateStr": "11 Jul, 16:22",
-      "isNew": true,
-      "id": "24 31783786948"
+      "id": "abc31783787184"
     },
     {
       "title": "News Hour me Sali Doçin, (11/07/2026)",
@@ -78,73 +166,7 @@
       "date": "2026-07-11T16:19:35+00:00",
       "dateStr": "11 Jul, 16:19",
       "isNew": true,
-      "id": "abc21783786775"
-    },
-    {
-      "title": "Prposki: Po hetohen shkaqet e incidentit me aeroplanin në qiellin e Maqedonisë së Veriut",
-      "link": "https://24-ore.com/prposki-po-hetohen-shkaqet-e-incidentit-me-aeroplanin-ne-qiellin-e-maqedonise-se-veriut/",
-      "description": "Hetimi për incidentin me aeroplanin e “Rajaner” nga Selaniku për në Memingen, i cili ndodhi dje në mëngjes mbi Maqedoni, është duke vazhduar, ka deklaruar kryetari i Komitetit për Hetimin e Aksidenteve Ajrore dhe Incidenteve të Rënda, Marjan Prposki. Ai shtoi se janë në komunikim të vazhdueshëm me B",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T16:16:58+00:00",
-      "dateStr": "11 Jul, 16:16",
-      "isNew": true,
-      "id": "24 41783786618"
-    },
-    {
-      "title": "Rama me të rinjtë në Jalë: Sikur të besoja çfarë u tha për Zvërnecin do të isha në protestë",
-      "link": "https://24-ore.com/rama-me-te-rinjte-ne-jale-sikur-te-besoja-cfare-u-tha-per-zvernecin-do-te-isha-ne-proteste/",
-      "description": "Duke folur në një takim në Jalë me të rinj, kryesisht nga Maqedonia e Veriut, të organizuar në ish-kampin e LSI-së, kryeministri Edi Rama tha se ndërtimi i resortit luksoz në Zvërnec do të sjellë përfitime të mëdha në ekonominë shqiptare. Ndër të tjera, Rama tha se dezinformimi ka sjellë një goditje",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T16:14:09+00:00",
-      "dateStr": "11 Jul, 16:14",
-      "isNew": true,
-      "id": "24 51783786449"
-    },
-    {
-      "title": "Luajti pak ditë më parë në Botëror/ Gjendet i vdekur mesfushori i Afrikës së Jugut, dyshimet e para",
-      "link": "https://24-ore.com/luajti-pak-dite-me-pare-ne-boteror-gjendet-i-vdekur-mesfushori-i-afrikes-se-jugut-dyshimet-e-para/",
-      "description": "Futbolli është tronditur nga lajmi për ndarjen nga jeta të mesfushorit të Afrikës së Jugut, Jayden Adams, i cili ka vdekur në moshën 25-vjeçare, vetëm pak javë pasi përfaqësoi vendin e tij në Kupën e Botës 2026. Sipas raportimit të eNCA, Adams ka ndërruar jetë, ndërsa shkaku i vdekjes së tij ende nu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T16:11:07+00:00",
-      "dateStr": "11 Jul, 16:11",
-      "isNew": true,
-      "id": "24 61783786267"
-    },
-    {
-      "title": "Prova që e rihapi shqyrtimin gjyqësor në rastin e vrasjes së trefishtë në Gllogjan",
-      "link": "https://24-ore.com/prova-qe-e-rihapi-shqyrtimin-gjyqesor-ne-rastin-e-vrasjes-se-trefishte-ne-gllogjan/",
-      "description": "Gjykata e Pejës më 10.07.2026 ka vendosur që ta rihapë shqyrtimin gjyqësor në rastin e vrasjes së trefishtë në Gllogjan. Në këtë rast të akuzuar janë Halil, Kreshnik e Kastriot Mehmetaj, të cilën dyshohet se nën motivin e hakmarrjes, në mbrëmjen e 26.11.2021, kishin gjuajtur me kallashnikov në drejt",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T16:01:57+00:00",
-      "dateStr": "11 Jul, 16:01",
-      "isNew": true,
-      "id": "24 71783785717"
-    },
-    {
-      "title": "Shqiptari arrestohet në Greqi pas një serie vjedhjesh, u zbulua nga tableti i grabitur",
-      "link": "https://24-ore.com/shqiptari-arrestohet-ne-greqi-pas-nje-serie-vjedhjesh-u-zbulua-nga-tableti-i-grabitur/",
-      "description": "Një 44-vjeçar shqiptar është arrestuar nga policia greke, i dyshuar për një sërë vjedhjesh në zonat e Evias dhe Fthiotidës. Sipas autoriteteve, ai kishte hyrë në mënyrë të paligjshme në Greqi në vitin 2021 dhe që prej asaj kohe nuk ishte pajisur me leje qëndrimi. Sipas hetimeve, të enjten ai dyshohe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T15:59:41+00:00",
-      "dateStr": "11 Jul, 15:59",
-      "isNew": true,
-      "id": "24 81783785581"
-    },
-    {
-      "title": "“Nuk kam thënë që algoritmi ishte arsyeja e protestës”, Rama: Duhet t’i kuptoj sa më mirë mesazhet e protestës",
-      "link": "https://24-ore.com/nuk-kam-thene-qe-algoritmi-ishte-arsyeja-e-protestes-rama-duhet-ti-kuptoj-sa-me-mire-mesazhet-e-protestes/",
-      "description": "Kryeministri Edi Rama, njëherësh kryetar i Partisë Socialiste, zhvilloi një bashkëbisedim me të rinj në kuadër të aktivitetit “RinCamp 2026”, që po mbahet në Jalë, ku u ndal te ndikimi i algoritmeve të rrjeteve sociale, dezinformimi, protestat e fundit në vend dhe debati për projektin në Zvërnec. Ra",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T15:59:29+00:00",
-      "dateStr": "11 Jul, 15:59",
-      "isNew": true,
-      "id": "24 91783785569"
+      "id": "abc41783786775"
     },
     {
       "title": "Luajti pak ditë më parë në Botëror/ Gjendet i vdekur mesfushori i Afrikës së Jugut, dyshimet e para",
@@ -155,7 +177,7 @@
       "date": "2026-07-11T15:43:32+00:00",
       "dateStr": "11 Jul, 15:43",
       "isNew": true,
-      "id": "abc31783784612"
+      "id": "abc51783784612"
     },
     {
       "title": "News Line me Jeta Kasemin, (11/07/2026)",
@@ -166,7 +188,7 @@
       "date": "2026-07-11T15:19:29+00:00",
       "dateStr": "11 Jul, 15:19",
       "isNew": true,
-      "id": "abc41783783169"
+      "id": "abc61783783169"
     },
     {
       "title": "“Turizmi masiv na çon poshtë”, Rama sjell shembullin e Mykonos: Na duhen turistë që shpenzojnë më shumë",
@@ -177,7 +199,7 @@
       "date": "2026-07-11T14:34:23+00:00",
       "dateStr": "11 Jul, 14:34",
       "isNew": true,
-      "id": "abc51783780463"
+      "id": "abc71783780463"
     },
     {
       "title": "Zjarr në një pallat në Korçë, humb jetën 74-vjeçari",
@@ -188,7 +210,7 @@
       "date": "2026-07-11T14:25:10+00:00",
       "dateStr": "11 Jul, 14:25",
       "isNew": true,
-      "id": "abc61783779910"
+      "id": "abc81783779910"
     },
     {
       "title": "Ruajuni nga ata që nuk ju çojnë në gjykatë për terrorizëm!",
@@ -199,29 +221,7 @@
       "date": "2026-07-11T14:01:06+00:00",
       "dateStr": "11 Jul, 14:01",
       "isNew": true,
-      "id": "abc71783778466"
-    },
-    {
-      "title": "“Shqipëria është pranë ëndrrës europiane”/ Rama: Marrëdhëniet me Maqedoninë e Veriut kanë bërë përparim të madh",
-      "link": "https://abcnews.al/shqiperia-eshte-prane-endrres-europiane-rama-marredheniet-me-maqedonine-e-veriut-kane-bere-perparim-te-madh/",
-      "description": "Kryeministri Edi Rama, gjatë bashkëbisedimit me të rinjtë në Jalë, u ndal te procesi i integrimit europian, marrëdhëniet me Maqedoninë e Veriut dhe punësimet në administratën publike, duke i cilësuar këto si pjesë të një etape të rëndësishme për vendin. Rama deklaroi se Shqipëria ndodhet në një mome",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T13:57:44+00:00",
-      "dateStr": "11 Jul, 13:57",
-      "isNew": true,
-      "id": "abc81783778264"
-    },
-    {
-      "title": "Rama: Shqipëria është më pranë se kurrë BE-së, Diella ka përshpejtuar punën!",
-      "link": "https://abcnews.al/rama-shqiperia-eshte-me-prane-se-kurre-be-se-diella-ka-pershpejtuar-punen/",
-      "description": "Gjatë bashkëbisedimit me të rinjtë në Jalë, kryeministri Edi Rama u ndal te procesi i integrimit europian, duke iu përgjigjur pyetjeve nëse anëtarësimi i Shqipërisë në Bashkimin Europian është tashmë një objektiv i realizueshëm apo vetëm një premtim politik. Rama theksoi se rruga drejt BE-së është n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T13:52:11+00:00",
-      "dateStr": "11 Jul, 13:52",
-      "isNew": true,
-      "id": "abc91783777931"
+      "id": "abc91783778466"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
