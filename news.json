@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-11T22:42:23.321210+00:00",
+  "lastUpdated": "2026-07-11T23:50:34.505798+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Vrasje në Vorë/ 50 vjeçari qëllohet për vdekje me armë zjarri",
+      "link": "https://abcnews.al/vrasje-ne-vore-50-vjecari-qellohet-per-vdekje-me-arme-zjarri/",
+      "description": "Vorë/Informacion paraprak Më datë 12.07.2026, rreth orës 00:10, në fshatin Bërxullë, Vorë, dyshohet se është vrarë me armë zjarri shtetasi Edmond (Ali) Sula, rreth 50 vjeç, i cili ka qenë në rrugë, duke lëvizur në këmbë. Një grup i posaçëm hetimor, nën drejtimin e Prokurorisë, ndodhet në vendngjarje",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T23:11:18+00:00",
+      "dateStr": "11 Jul, 23:11",
+      "isNew": true,
+      "id": "abc01783811478"
+    },
     {
       "title": "​Të dielën s’ka kufizim të qarkullimit për automjetet e transportit mbi 20 tonë",
       "link": "https://24-ore.com/te-dielen-ska-kufizim-te-qarkullimit-per-automjetet-e-transportit-mbi-20-tone/",
@@ -23,7 +34,7 @@
       "date": "2026-07-11T21:45:18+00:00",
       "dateStr": "11 Jul, 21:45",
       "isNew": true,
-      "id": "abc01783806318"
+      "id": "abc11783806318"
     },
     {
       "title": "Thaçi offers 50 thousand euros as bail for conditional release from The Hague",
@@ -78,7 +89,7 @@
       "date": "2026-07-11T21:33:15+00:00",
       "dateStr": "11 Jul, 21:33",
       "isNew": true,
-      "id": "abc11783805595"
+      "id": "abc21783805595"
     },
     {
       "title": "Po ju, e doni Shqipërinë?",
@@ -89,7 +100,7 @@
       "date": "2026-07-11T21:32:46+00:00",
       "dateStr": "11 Jul, 21:32",
       "isNew": true,
-      "id": "abc21783805566"
+      "id": "abc31783805566"
     },
     {
       "title": "Dita e 42-të, nis marshimi i qytetarëve, gazetarja tregon intenerarin e rrugëve ku do të protestohet",
@@ -155,7 +166,7 @@
       "date": "2026-07-11T21:16:06+00:00",
       "dateStr": "11 Jul, 21:16",
       "isNew": true,
-      "id": "abc31783804566"
+      "id": "abc41783804566"
     },
     {
       "title": "Atentati në Shkodër/ Makina e bërë shoshë, pamjet nga vendi ku u gjet i vdekur Aleksandër Koçeku",
@@ -166,7 +177,7 @@
       "date": "2026-07-11T21:00:05+00:00",
       "dateStr": "11 Jul, 21:00",
       "isNew": true,
-      "id": "abc41783803605"
+      "id": "abc51783803605"
     },
     {
       "title": "Franca apo Spanja, cila është favoritja? Mneri: “Gjelat” nxjerrin raste nga hiçi. Tahiri: Spanjollët nuk më bindin",
@@ -177,7 +188,7 @@
       "date": "2026-07-11T20:46:14+00:00",
       "dateStr": "11 Jul, 20:46",
       "isNew": true,
-      "id": "abc51783802774"
+      "id": "abc61783802774"
     },
     {
       "title": "‘Tirona o nona’, Rama publikon pamjet nga koncerti i West: Shqipëri e bukur europiane",
@@ -188,7 +199,7 @@
       "date": "2026-07-11T20:10:01+00:00",
       "dateStr": "11 Jul, 20:10",
       "isNew": true,
-      "id": "abc61783800601"
+      "id": "abc71783800601"
     },
     {
       "title": "Kanye ndez Tiranën: Minutat e fundit para fillimit të koncertit. Me mijëra fansa në ‘Eagle Stadium’",
@@ -199,7 +210,7 @@
       "date": "2026-07-11T19:24:52+00:00",
       "dateStr": "11 Jul, 19:24",
       "isNew": true,
-      "id": "abc71783797892"
+      "id": "abc81783797892"
     },
     {
       "title": "Edicioni qendror me Emilian Islamin, (11/07/2026)",
@@ -210,18 +221,7 @@
       "date": "2026-07-11T19:20:14+00:00",
       "dateStr": "11 Jul, 19:20",
       "isNew": true,
-      "id": "abc81783797614"
-    },
-    {
-      "title": "U gjet i vdekur në makinë/ Shkodër, viktima ishte nën hetim për një vrasje të ndodhur në 2025",
-      "link": "https://abcnews.al/u-gjet-i-vdekur-ne-makine-shkoder-viktima-ishte-nen-hetim-per-nje-vrasje-te-ndodhur-ne-2025/",
-      "description": "SHKODËR- Detaje të reja dalin në dritë nga ngjarja në Shkodër, ku Aleksandër Koçeku, u gjet i vdekur brenda makinës dhe sipas Policisë, dyshohet të jetë vrarë me armë zjarri. Gazetari i ABC News, Simon Shkreli raporton se viktima ka qenë nën hetim për vrasjen e të riut Pavlin Preka me 27 shkurt 2025",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T18:46:46+00:00",
-      "dateStr": "11 Jul, 18:46",
-      "isNew": true,
-      "id": "abc91783795606"
+      "id": "abc91783797614"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
