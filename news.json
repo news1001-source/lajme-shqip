@@ -1,8 +1,151 @@
 {
-  "lastUpdated": "2026-07-11T17:51:27.114696+00:00",
+  "lastUpdated": "2026-07-11T18:55:03.703517+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "U gjet i vdekur në makinë/ Shkodër, viktima ishte nën hetim për një vrasje të ndodhur në 2025",
+      "link": "https://abcnews.al/u-gjet-i-vdekur-ne-makine-shkoder-viktima-ishte-nen-hetim-per-nje-vrasje-te-ndodhur-ne-2025/",
+      "description": "SHKODËR- Detaje të reja dalin në dritë nga ngjarja në Shkodër, ku Aleksandër Koçeku, u gjet i vdekur brenda makinës dhe sipas Policisë, dyshohet të jetë vrarë me armë zjarri. Ai ka qenë nën hetim për vrasjen e të riut Pavlin Preka me 27 shkurt 2025. Pas vrasjes së 20- vjeçarit në derën e shtëpisë [.",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T18:46:46+00:00",
+      "dateStr": "11 Jul, 18:46",
+      "isNew": true,
+      "id": "abc01783795606"
+    },
+    {
+      "title": "BDI proteston në Tetovë, kundërshton vendimin e Kushtetueses për ndryshimin e emrave shqiptarë të rrugëve",
+      "link": "https://24-ore.com/bdi-proteston-ne-tetove-kundershton-vendimin-e-kushtetueses-per-ndryshimin-e-emrave-shqiptare-te-rrugeve/",
+      "description": "Këtë të shtunë, 11 korrik, Bashkimi Demokratik për Integrim ka protestuar në Tetovë për vendimin e Gjykatës Kushtetuese që ka shfuqizuar atë të vitit 2007, duke u hequr emrat shqiptarë të disa rrugëve dhe shesheve kryesore. Më kryesori ishte sheshi “Liria”, i cili me vendimin e fundit të Kushtetuese",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T18:42:44+00:00",
+      "dateStr": "11 Jul, 18:42",
+      "isNew": true,
+      "id": "24 01783795364"
+    },
+    {
+      "title": "Dita 42 e protestës, pamjet me dron: Ja pjesëmarrja e qytetarëve në Bulevard",
+      "link": "https://abcnews.al/dita-42-e-protestes-pamjet-e-para-nga-lart-ja-pjesemarrja-ne-shesh/",
+      "description": "TIRANË- Në kryeqytet ka nisur protesta e 42 e qytetarëve. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej” e më pas u zhvendosën drejt bulevardit “Dëshmorët e Kombit”, para godinës së kryeministrisë. Këto janë pamjet reale të protestës, të siguruara nga ABC News, në orën 19:30. Pamjet që s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T18:40:22+00:00",
+      "dateStr": "11 Jul, 18:40",
+      "isNew": true,
+      "id": "abc11783795222"
+    },
+    {
+      "title": "Gara “East kundër West“: Mijëra në koncertin e Kaney, dhjetëra në protestën e Flamingove",
+      "link": "https://abcnews.al/gara-east-kunder-west-mijera-ne-koncertin-e-kaney-dhjetera-ne-protesten-e-flamingove/",
+      "description": "TIRANË- EAST vs WEST. Këtë të shtunë, në Tiranë përballet lindja me perëndimin. Në Kashar, koncerti i Kanye West, në bulevard protesta kundër Zvërnecit. ABC News sjell pamjet në kohë reale, ndërsa mijëra simpatizantë të West, janë në radhë për të hyrë në stadiumin e ndërtuar enkas për koncertin, për",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T18:39:46+00:00",
+      "dateStr": "11 Jul, 18:39",
+      "isNew": true,
+      "id": "abc21783795186"
+    },
+    {
+      "title": "BDI sërish protesta në Tetovë, Rexhepi: Shihni një mal me njerëz, komuna ka penguar qytetarët të marrin pjesë",
+      "link": "https://24-ore.com/bdi-serish-protesta-ne-tetove-rexhepi-shihni-nje-mal-me-njerez-komuna-ka-penguar-qytetaret-te-marrin-pjese/",
+      "description": "Kryetari i degës së BDI-së në Tetovë Bajram Rexhepi, në protestën e sotme tha se Komuna e Tetovës ka penguar qytetarët që të marrin pjesë në protestën e dytë. Rexhepi tha se varësisht reflektimit nga Komuna e Tetovës për këtë çështje, do të jenë edhe masat e tyre në të ardhmen. &#8220;Shihni një mal",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T18:36:24+00:00",
+      "dateStr": "11 Jul, 18:36",
+      "isNew": true,
+      "id": "24 11783794984"
+    },
+    {
+      "title": "Tre alternativa për qendrën e mbrojtjes. I preferuari i Chivu kushton 40 milionë euro",
+      "link": "https://24-ore.com/tre-alternativa-per-qendren-e-mbrojtjes-i-preferuari-i-chivu-kushton-40-milione-euro/",
+      "description": "Pasi zyrtarizoi largimin e Francesco Acerbi dhe Stefan de Vrij, Inter është i detyruar të ndërhyrjë në merkato për të forcuar qendrën e mbrojtjes për sezonin e ri. Sipas CalcioMercato.com, objektivi kryesor i klubit ziklatër është anglezi Trevor Chalobah, i cili ka dhënë miratimin e tij për t’u tran",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T18:36:17+00:00",
+      "dateStr": "11 Jul, 18:36",
+      "isNew": true,
+      "id": "24 21783794977"
+    },
+    {
+      "title": "U gjet i vrarë me armë zjarri brenda makinës në Dukagjin, zbulohet identiteti i viktimës",
+      "link": "https://24-ore.com/u-gjet-i-vrare-me-arme-zjarri-brenda-makines-ne-dukagjin-zbulohet-identiteti-i-viktimes/",
+      "description": "Një ngjarje e rëndë është raportuar këtë të shtunë, 11 korrik, në zonën e Prekalit, ku dyshohet se një person është vrarë me armë zjarri. Sipas informacioneve paraprake nga blutë e Shkodrës, viktima i identifikuar si Aleksandër Koçeku, është gjetur brenda në automjet. Grupi hetimor po punon për zbar",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T18:28:36+00:00",
+      "dateStr": "11 Jul, 18:28",
+      "isNew": true,
+      "id": "24 31783794516"
+    },
+    {
+      "title": "Milan ka frikë për Maignan dhe piketon zëvendësuesin ideal të francezit",
+      "link": "https://24-ore.com/milan-ka-frike-per-maignan-dhe-piketon-zevendesuesin-ideal-te-francezit/",
+      "description": "Pavarësisht se rinovoi vetëm pak kohë më parë deri në vitin 2031, te Milan nuk janë të sigurt për të ardhmen e Mike Maignan, pas përfundimit të Kupës së Botës. Francezi po shkëlqen në Botëror, duke rritur akoma edhe më shumë interesin e klubeve të mëdha ndaj tij. Për këtë arsye, drejtuesit e Milanit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T18:11:30+00:00",
+      "dateStr": "11 Jul, 18:11",
+      "isNew": true,
+      "id": "24 41783793490"
+    },
+    {
+      "title": "EMRI/ Shkodër, gjendet i vrarë brenda automjetit një person",
+      "link": "https://abcnews.al/emri-shkoder-gjendet-i-vrare-brenda-automjetit-nje-person/",
+      "description": "SHKODËR- Një ngjarje e rëndë është regjistruar mbrëmjen e kësaj të shtune në aksin rrugor Prekal–Kir, ku një person është gjetur i pajetë brenda një automjeti, i dyshuar të jetë vrarë me armë zjarri. Sipas të dhënave paraprake, viktima është identifikuar si Aleksandër Koçeku. Njoftimi për ngjarjen ë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-11T18:10:49+00:00",
+      "dateStr": "11 Jul, 18:10",
+      "isNew": true,
+      "id": "abc31783793449"
+    },
+    {
+      "title": "Takimet Kurti – Hamza – Abdixhiku, konsiderohet e vështirë arritja e një marrëveshjeje",
+      "link": "https://24-ore.com/takimet-kurti-hamza-abdixhiku-konsiderohet-e-veshtire-arritja-e-nje-marreveshjeje/",
+      "description": "Një orë e 15 minuta zgjati takimi i Bedri Hamzës, i cili i vetëm i shkoi në tavolinë Albin Kurtit e Hekuran Muratit. Më shumë zgjati takimi tjetër, ai me Lumir Abdixhikun e Vjosa Osmanin, të cilët shkuan në takim në orën 18:00 e qëndruan për më shumë se dy orë të premten. Kur takimi [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T18:06:38+00:00",
+      "dateStr": "11 Jul, 18:06",
+      "isNew": true,
+      "id": "24 51783793198"
+    },
+    {
+      "title": "Koncerti i Kanye West, mijëra fansa e turistë nga vende të ndryshme po i drejtohen Eagle Stadium",
+      "link": "https://24-ore.com/koncerti-i-kanye-west-mijera-fansa-e-turiste-nga-vende-te-ndryshme-po-i-drejtohen-eagle-stadium/",
+      "description": "Tirana do të presë sonte një nga emrat më të mëdhenj të muzikës hip-hop botërore, Kanye West. Reperi amerikan, i njohur edhe me emrin artistik Ye, do të mbajë koncertin në “Eagle Stadium”, një stadium i përkohshëm i ndërtuar posaçërisht për këtë aktivitet përgjatë aksit Tiranë–Durrës dhe që pritet t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T17:57:35+00:00",
+      "dateStr": "11 Jul, 17:57",
+      "isNew": true,
+      "id": "24 61783792655"
+    },
+    {
+      "title": "Atdhe Hykolli rizgjidhet kryetar i BSPK",
+      "link": "https://24-ore.com/atdhe-hykolli-rizgjidhet-kryetar-i-bspk/",
+      "description": "Me fokus te forcimi i dialogut social dhe mbrojtja e të drejtave të punëtorëve, Bashkimi i Sindikatave të Pavarura të Kosovës mbajti Kongresin e nëntë zgjedhor, ku Atdhe Hykolli u rizgjodh në krye të BSPK-së edhe për një mandat. Në kongres morën pjesë përfaqësues të institucioneve vendore, sindikata",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T17:51:35+00:00",
+      "dateStr": "11 Jul, 17:51",
+      "isNew": true,
+      "id": "24 71783792295"
+    },
+    {
+      "title": "E BUJSHME: PSG arrin marrëveshjen me yllin e Barcelonës, do të zëvendësojë Gonçalo Ramos",
+      "link": "https://24-ore.com/e-bujshme-psg-arrin-marreveshjen-me-yllin-e-barcelones-do-te-zevendesoje-goncalo-ramos/",
+      "description": "PSG ka gjetur zëvendësuesin ideal për të larguarin Gonçalo Ramos. Kampionia në fuqi e Europës ka arritur marrëveshjen për kushtet personale me Ferran Torres. Sulmuesi spanjoll i Barcelonës, kontrata e të cilit me klubin katalanas skadon në qershor të vitit 2027, pëlqehet shumë nga Luis Enrique. Duke",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-11T17:51:29+00:00",
+      "dateStr": "11 Jul, 17:51",
+      "isNew": true,
+      "id": "24 81783792289"
+    },
     {
       "title": "Shkupi drejt një sistemi modern të transportit publik",
       "link": "https://24-ore.com/shkupi-drejt-nje-sistemi-modern-te-transportit-publik/",
@@ -12,29 +155,7 @@
       "date": "2026-07-11T17:46:41+00:00",
       "dateStr": "11 Jul, 17:46",
       "isNew": true,
-      "id": "24 01783792001"
-    },
-    {
-      "title": "Dita 42 e protestës, pamjet e para nga lart: Ja pjesëmarrja në shesh",
-      "link": "https://abcnews.al/dita-42-e-protestes-pamjet-e-para-nga-lart-ja-pjesemarrja-ne-shesh/",
-      "description": "TIRANË- Në kryeqytet ka nisur protesta e 42 e qytetarëve. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej” e më pas u zhvendosën drejt bulevardit “Dëshmorët e Kombit”, para godinës së kryeministrisë. Këto janë pamjet reale të protestës, të siguruara nga ABC News, në orën 19:30. &#160; [...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T17:46:22+00:00",
-      "dateStr": "11 Jul, 17:46",
-      "isNew": true,
-      "id": "abc01783791982"
-    },
-    {
-      "title": "ZYRTARE: Man. City bën goditjen e radhës në merkato. Pas 2-3 sezonesh, ky lojtar do të vlerësohet minimumi 100 milionë euro",
-      "link": "https://24-ore.com/zyrtare-man-city-ben-goditjen-e-radhes-ne-merkato-pas-2-3-sezonesh-ky-lojtar-do-te-vleresohet-minimumi-100-milione-euro/",
-      "description": "Pas Elliot Anderson për 135 milionë euro, Manchester City ka zyrtarizuar ditën e sotme një tjetër transferim për këtë merkato. “Qytetarët” kanë arritur marrëveshjen me Leicester për transferimin e Jeremy Monga, i konsideruar si një nga talentet më premtues në Angli. Man. City ka paguar 12 milionë eu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T17:36:54+00:00",
-      "dateStr": "11 Jul, 17:36",
-      "isNew": true,
-      "id": "24 11783791414"
+      "id": "24 91783792001"
     },
     {
       "title": "Rama mesazh Kurtit: Nuk i jap mend dikujt në shtëpinë e vet",
@@ -45,95 +166,7 @@
       "date": "2026-07-11T17:34:02+00:00",
       "dateStr": "11 Jul, 17:34",
       "isNew": true,
-      "id": "abc11783791242"
-    },
-    {
-      "title": "BIRN dhe Gjergj Erebara po udhëheqin betejën kundër turizmit",
-      "link": "https://24-ore.com/birn-dhe-gjergj-erebara-po-udheheqin-betejen-kunder-turizmit/",
-      "description": "Nga Mero Baze BIRN, një OJF e sponsorizuar për gazetari investigative, është vënë në krye të betejës kundër bizneseve të turizmit në Shqipëri, duke iu gëzuar sulmit mbi bizneset dhe duke u përpjekur ta relativizojë dëmin financiar dhe moral që u shkaktohet atyre. Kur fushata filloi një javë më parë,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T17:28:50+00:00",
-      "dateStr": "11 Jul, 17:28",
-      "isNew": true,
-      "id": "24 21783790930"
-    },
-    {
-      "title": "Temperaturat e larta rrisin rastet e pickimeve, 35 raste në javë në spitalin e Belshit",
-      "link": "https://24-ore.com/temperaturat-e-larta-rrisin-rastet-e-pickimeve-35-raste-ne-jave-ne-spitalin-e-belshit/",
-      "description": "Në kulmin e sezonit të verës, urgjencat po përballen me një tjetër pasojë të temperaturave të larta. Pickimet nga insektet po shtojnë numrin e pacientëve që kërkojnë ndihmë mjekësore. Vetëm në Urgjencën e Belshit regjistrohen 3 deri në 5 raste në ditë, ose deri në 35 pacientë në javë, ndërsa rastet ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T17:24:23+00:00",
-      "dateStr": "11 Jul, 17:24",
-      "isNew": true,
-      "id": "24 31783790663"
-    },
-    {
-      "title": "Kanye West pritet nga Edi Rama, kryeministri ndan pamjet",
-      "link": "https://24-ore.com/kanye-west-pritet-nga-edi-rama-kryeministri-ndan-pamjet/",
-      "description": "Një nga reperët më të njohur në mbarë botën, Kanye West, është pritur nga kryeministri Edi Rama. Këtë e bëri të ditur vetë kryeministri teksa ka shpërndarë një video në rrjete sociale gjatë takimit. Në pamje shfaqet Rama teksa i tregon këngëtarit të njohur pak nga kultura dhe historia e Shqipërisë. ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T17:24:10+00:00",
-      "dateStr": "11 Jul, 17:24",
-      "isNew": true,
-      "id": "24 41783790650"
-    },
-    {
-      "title": "E rëndë në Kolonjë, ndërron jetë një 36-vjeçar. E zuri poshtë një trup druri teksa e ngarkonte",
-      "link": "https://24-ore.com/e-rende-ne-kolonje-nderron-jete-nje-36-vjecar-e-zuri-poshte-nje-trup-druri-teksa-e-ngarkonte/",
-      "description": "Një ngjarje e rëndë ka ndodhur në Kolonjë ku ka ndërruar jetë një 36-vjeçar. Raportohet se ai po ngarkonte trupa druri në një subjekt privat. Sipas informacioneve paraprake, mësohet se 36 vjeçari ishte banues në Pogradec dhe punonte në një subjekt privat të licensuar për prodhimin e drurit. Viktima ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T17:23:57+00:00",
-      "dateStr": "11 Jul, 17:23",
-      "isNew": true,
-      "id": "24 51783790637"
-    },
-    {
-      "title": "Hoxha me të rinjtë në Jalë: Anëtarësimi në BE kërkon përfshirjen tuaj. Evropa fillon në shtëpi",
-      "link": "https://24-ore.com/hoxha-me-te-rinjte-ne-jale-anetaresimi-ne-be-kerkon-perfshirjen-tuaj-evropa-fillon-ne-shtepi/",
-      "description": "Ministri për Evropën dhe Punët e Jashtme, Ferit Hoxha, së bashku me Kryeministrin Edi Rama morën pjesë në një dialog të hapur me 150 aktivistë të rinj nga Shqipëria, Maqedonia e Veriut dhe Mali i Zi në #RinCamp2026. Anëtarësimi në BE dhe progresi i Shqipërisë ishte pjesë e bisedimeve me të rinjtë në",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T17:23:46+00:00",
-      "dateStr": "11 Jul, 17:23",
-      "isNew": true,
-      "id": "24 61783790626"
-    },
-    {
-      "title": "Kolonja, destinacioni i të huajve, ushqimi dhe natyra ‘magnet’ për ta",
-      "link": "https://24-ore.com/kolonja-destinacioni-i-te-huajve-ushqimi-dhe-natyra-magnet-per-ta/",
-      "description": "Në Kolonjë, turistët nuk kanë mundësi vetëm të vizitojnë sajtet natyrore dhe monumentet e trashëgimisë kulturore, por edhe të mësojnë përgatitjen e gatimeve tradicionale e më pas t’i shijojnë ato. Përvoja e gatimit me banorët vendas po bëhet një nga aktivitetet më tërheqëse për vizitorët. Turistët f",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T17:23:32+00:00",
-      "dateStr": "11 Jul, 17:23",
-      "isNew": true,
-      "id": "24 71783790612"
-    },
-    {
-      "title": "Pse Evropa i tha jo Serbisë? Bytyçi jep arsyet e refuzimit për anëtarësim në BE",
-      "link": "https://24-ore.com/pse-evropa-i-tha-jo-serbise-bytyci-jep-arsyet-e-refuzimit-per-anetaresim-ne-be/",
-      "description": "Profesori Enver Bytyçi i ftuar këtë të shtunë në emisionin ‘Balkan Talks’ me Franko Egron në Euronews Albania ka folur lidhur me refuzimin e 8 vendeve për anëtarësimin e Serbisë në BE. Bytyçi u shpreh se duke qenë se shtetet anëtarë kanë të drejtë të mbajnë qëndrime e kanë çorientuar presidentin ser",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T17:23:17+00:00",
-      "dateStr": "11 Jul, 17:23",
-      "isNew": true,
-      "id": "24 81783790597"
-    },
-    {
-      "title": "Apple padit OpenAI: Fitoi akses në të dhëna konfidenciale përmes punësimit të ish-punonjësve",
-      "link": "https://24-ore.com/apple-padit-openai-fitoi-akses-ne-te-dhena-konfidenciale-permes-punesimit-te-ish-punonjesve/",
-      "description": "Apple ka akuzuar OpenAI-n se ka fituar akses në informacione të vlefshme konfidenciale përmes punësimit të ish-punonjësve të saj. Në një padi federale të ngritur të premten, Apple paditi kompaninë e inteligjencës artificiale, dy nga punonjësit e saj dhe io Products, duke pretenduar se ata ishin përf",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T17:23:04+00:00",
-      "dateStr": "11 Jul, 17:23",
-      "isNew": true,
-      "id": "24 91783790584"
+      "id": "abc41783791242"
     },
     {
       "title": "Në prag të koncertit/ Kryeministri Rama pret këngëtarin Kanye West",
@@ -144,7 +177,7 @@
       "date": "2026-07-11T16:41:20+00:00",
       "dateStr": "11 Jul, 16:41",
       "isNew": true,
-      "id": "abc21783788080"
+      "id": "abc51783788080"
     },
     {
       "title": "Kolonjë, humb jetën 36-vjeçari gjatë ngarkimit të lëndës drusore",
@@ -155,7 +188,7 @@
       "date": "2026-07-11T16:26:24+00:00",
       "dateStr": "11 Jul, 16:26",
       "isNew": true,
-      "id": "abc31783787184"
+      "id": "abc61783787184"
     },
     {
       "title": "News Hour me Sali Doçin, (11/07/2026)",
@@ -166,7 +199,7 @@
       "date": "2026-07-11T16:19:35+00:00",
       "dateStr": "11 Jul, 16:19",
       "isNew": true,
-      "id": "abc41783786775"
+      "id": "abc71783786775"
     },
     {
       "title": "Luajti pak ditë më parë në Botëror/ Gjendet i vdekur mesfushori i Afrikës së Jugut, dyshimet e para",
@@ -177,7 +210,7 @@
       "date": "2026-07-11T15:43:32+00:00",
       "dateStr": "11 Jul, 15:43",
       "isNew": true,
-      "id": "abc51783784612"
+      "id": "abc81783784612"
     },
     {
       "title": "News Line me Jeta Kasemin, (11/07/2026)",
@@ -188,40 +221,7 @@
       "date": "2026-07-11T15:19:29+00:00",
       "dateStr": "11 Jul, 15:19",
       "isNew": true,
-      "id": "abc61783783169"
-    },
-    {
-      "title": "“Turizmi masiv na çon poshtë”, Rama sjell shembullin e Mykonos: Na duhen turistë që shpenzojnë më shumë",
-      "link": "https://abcnews.al/turizmi-masiv-na-con-poshte-rama-sjell-shembullin-e-mykonos-na-duhen-turiste-qe-shpenzojne-me-shume/",
-      "description": "VLORË&#8211; Kryeministri i vendit, Edi Rama, me të rinjtë në Jalë, u shpreh se Shqipëria duhet të kalojë nga turizmi masiv, te kategoria tjetër e turistëve, konkretisht te ata që sjellin më shumë para në ekonominë tonë. Ai solli shembullin e Mykonos në Greqi, i cili siç tha Rama, edhe pse një zonë ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T14:34:23+00:00",
-      "dateStr": "11 Jul, 14:34",
-      "isNew": true,
-      "id": "abc71783780463"
-    },
-    {
-      "title": "Zjarr në një pallat në Korçë, humb jetën 74-vjeçari",
-      "link": "https://abcnews.al/zjarr-ne-nje-pallat-ne-korce-humb-jeten-74-vjecari/",
-      "description": "Një person ka humbur jetën si pasojë e një zjarri që ka rënë në një banesë në Korçë. Viktima është Urim Hysolli, 74 vjeç, i cili jetonte i vetëm në banesën ku shpërtheu zjarri. Sipas të dhënave paraprake, flakët kanë përfshirë një kat të pallatit, ndërsa tymi është përhapur në të gjithë godinën. Në ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T14:25:10+00:00",
-      "dateStr": "11 Jul, 14:25",
-      "isNew": true,
-      "id": "abc81783779910"
-    },
-    {
-      "title": "Ruajuni nga ata që nuk ju çojnë në gjykatë për terrorizëm!",
-      "link": "https://abcnews.al/ruajuni-nga-ata-qe-nuk-ju-cojne-ne-gjykate-per-terrorizem/",
-      "description": "Kam pasur shumë reagime në inbox, email dhe telefon pasi kemi publikuar emrat e organizatorëve të fushatës kundër turizmit në Shqipëri. Që të mos u lë vend spekulantëve që e paraqesin si liri mendimi, nuk bëhet fjalë për ndonjë klient që shkon në një restorant, në ndonjë hotel apo diku tjetër dhe sh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T14:01:06+00:00",
-      "dateStr": "11 Jul, 14:01",
-      "isNew": true,
-      "id": "abc91783778466"
+      "id": "abc91783783169"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
