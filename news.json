@@ -1,8 +1,195 @@
 {
-  "lastUpdated": "2026-07-12T05:52:37.636701+00:00",
+  "lastUpdated": "2026-07-12T08:09:00.779204+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "25 gëzhoja automatiku, zbardhen detaje nga vrasja e Aleksandër Koçekut, dyshime për gjakmarrje",
+      "link": "https://24-ore.com/25-gezhoja-automatiku-zbardhen-detaje-nga-vrasja-e-aleksander-kocekut-dyshime-per-gjakmarrje/",
+      "description": "25 gëzhoja automatiku, të gjitha të qëlluara nga e njëjta armë, janë sekuestruar në vendin ku u ekzekutua Aleksandër Koçeku në fshatin Lin, në zonën e Karmës së Kirit, përgjatë aksit Kir–Prekal. Ka qenë një kalimtar i rastësishëm ai që ka konstatuar automjetin me viktimën brenda dhe ka njoftuar menj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T07:56:45+00:00",
+      "dateStr": "12 Jul, 07:56",
+      "isNew": true,
+      "id": "24 01783843005"
+    },
+    {
+      "title": "Pas Saibari dhe Brown, e ka radhën ylli i Barcelonës? Zbulohet plani i Bayern",
+      "link": "https://24-ore.com/pas-saibari-dhe-brown-e-ka-radhen-ylli-i-barcelones-zbulohet-plani-i-bayern/",
+      "description": "Bayern Munich ka zyrtarizuar dy goditjet e para në merkato për 110 milionë euro në total. 55 milionë euro për Nathaniel Brown nga Eintracht Frankfurt dhe 55 milionë euro për Isamel Saibari nga PSV. BILD zbulon se objektivi i radhës i bavarezëve është të forcojnë krahun e djathtë të mbrojtjes, aty ku",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T07:45:28+00:00",
+      "dateStr": "12 Jul, 07:45",
+      "isNew": true,
+      "id": "24 11783842328"
+    },
+    {
+      "title": "BOTËRORI 2026 – Teknologjia shpëton Anglinë nga anulimi i golit të parë të Bellingham kundër Norvegjisë",
+      "link": "https://24-ore.com/boterori-2026-teknologjia-shpeton-angline-nga-anulimi-i-golit-te-pare-te-bellingham-kunder-norvegjise/",
+      "description": "– FIFA sqaroi se teknologjia e topit të lidhur (Connected Ball) konfirmoi se nuk kishte asnjë kontakt të topit me kabllon e kamerës në aksionin që çoi te goli i barazimit të Anglisë në ndeshjen çerekfinale ndaj Norvegjisë. Incidenti ndodhi në fund të pjesës së parë, kur lojtarët norvegjezë protestua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T07:40:57+00:00",
+      "dateStr": "12 Jul, 07:40",
+      "isNew": true,
+      "id": "24 21783842057"
+    },
+    {
+      "title": "Ligji për financimin e partive, më shumë mandat kontrolli audituesve të KQZ-së",
+      "link": "https://24-ore.com/ligji-per-financimin-e-partive-me-shume-mandat-kontrolli-audituesve-te-kqz-se/",
+      "description": "Transparenca brenda partisë dhe jashtë saj për financat është ende në tryezën e diskutimeit parlamentar, ndërkohë që aktorë të interesuar zbulojnë mekanizmat që po diskutohen. Mes tyre forcimi i auditit brenda Komisionit Qendror të Zgjedhjeve. “Edhe Komisioni i Venecias kërkon që ky institucion ose ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T07:35:43+00:00",
+      "dateStr": "12 Jul, 07:35",
+      "isNew": true,
+      "id": "24 31783841743"
+    },
+    {
+      "title": "SHBA godet mbi 100 objektiva ushtarake në Iran, raundi i tretë i sulmeve brenda javës",
+      "link": "https://abcnews.al/shba-godet-mbi-100-objektiva-ushtarake-ne-iran-raundi-i-trete-i-sulmeve-brenda-javes/",
+      "description": "Shtetet e Bashkuara kanë ndërmarrë raundin e tretë të sulmeve ajrore ndaj Iranit brenda kësaj jave, duke goditur rreth 140 objektiva ushtarake, sipas njoftimit të Komandës Qendrore të SHBA-së (CENTCOM). Sipas CENTCOM, në mesin e objektivave të goditura ishin pozicione raketash dhe dronësh, kapacitet",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T07:33:52+00:00",
+      "dateStr": "12 Jul, 07:33",
+      "isNew": true,
+      "id": "abc01783841632"
+    },
+    {
+      "title": "Nga qendra e mbrojtjes te sulmi. 4 emrat e piketuar nga Ruben Amorim për Milanin e tij",
+      "link": "https://24-ore.com/nga-qendra-e-mbrojtjes-te-sulmi-4-emrat-e-piketuar-nga-ruben-amorim-per-milanin-e-tij/",
+      "description": "Pas transferimit për një shifër rekord të Gonçalo Ramos për mbi 70 milionë euro dhe të Mario Gila për 30 milionë euro bashkë me bonuset, Ruben Amorim ka zgjedhur 4 emra të tjerë që i kërkon këtë merkato. SportMediaset zbulon se Amorim ka zgjedhur dy emra për qendrën e mbrojtjes: Virgil Van Dijk, i c",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T07:30:27+00:00",
+      "dateStr": "12 Jul, 07:30",
+      "isNew": true,
+      "id": "24 41783841427"
+    },
+    {
+      "title": "VIDEO / Thirrjet për bojkot bien në vesh të shurdhër, mijëra fansa në koncertin e Kanye West",
+      "link": "https://24-ore.com/video-thirrjet-per-bojkot-bien-ne-vesh-te-shurdher-mijera-fansa-ne-koncertin-e-kanye-west/",
+      "description": "Protesta kombëtare, në ditën e 42 të tubimit qytetar kundër establishmentit politik dhe dorëheqjes së qeverisë, u mbajt për të treguar një forcë shifrash, në të njëjtën ditë që në Tiranë mbahej koncerti i reperit të mirënjohur amerikane Kanye West. Organizatorët kishin ditë që bënin thirrje për të b",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T07:13:21+00:00",
+      "dateStr": "12 Jul, 07:13",
+      "isNew": true,
+      "id": "24 51783840401"
+    },
+    {
+      "title": "KINEMA – Anthony Hopkins realizon ëndrrën e vjetër",
+      "link": "https://24-ore.com/kinema-anthony-hopkins-realizon-endrren-e-vjeter/",
+      "description": "LONDËR, 12 korrik /ATSH-DPA/ – Aktori legjendar britanik, Anthony Hopkins ka realizuar një dëshirë që e ka shoqëruar gjatë gjithë jetës, duke nënshkruar kontratë me shtëpinë diskografike “Decca Classics” për publikimin e albumit të tij të parë si kompozitor. Albumi, me titull “Life Is A Dream”, do t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T07:12:16+00:00",
+      "dateStr": "12 Jul, 07:12",
+      "isNew": true,
+      "id": "24 61783840336"
+    },
+    {
+      "title": "SHBA – Vdes senatori republikan Lindsey Graham, aleat i presidentit Trump",
+      "link": "https://24-ore.com/shba-vdes-senatori-republikan-lindsey-graham-aleat-i-presidentit-trump/",
+      "description": "UASHINGTON, 12 korrik /ATSH-AFP/ – Senatori republikan me ndikim, Lindsey Graham nga Karolina e Jugut, një aleat kyç i presidentit të SHBA-së Donald Trump, vdiq të shtunën në moshën 71-vjeçare, njoftoi zyra e tij në llogarinë e saj zyrtare në Twitter. “Mbrëmjen e së shtunës, më 11 korrik, senatori a",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T07:12:02+00:00",
+      "dateStr": "12 Jul, 07:12",
+      "isNew": true,
+      "id": "24 71783840322"
+    },
+    {
+      "title": "Koncerti i Kanye West, Rama: Investim të shkëlqyer për imazhin e Shqipërisë turistike, impakt pozitiv në ekonomi",
+      "link": "https://24-ore.com/koncerti-i-kanye-west-rama-investim-te-shkelqyer-per-imazhin-e-shqiperise-turistike-impakt-pozitiv-ne-ekonomi/",
+      "description": "Tirana u shndërrua mbrëmjen e së shtunës në qendrën e muzikës hip-hop, duke mirëpritur një nga artistët më të njohur në botë, Kanye West. Reperi amerikan, i njohur edhe me emrin artistik Ye, u ngjit në skenën e ngritur në “Eagle Stadium”, një impiant i përkohshëm i ndërtuar posaçërisht për këtë ngja",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T07:11:49+00:00",
+      "dateStr": "12 Jul, 07:11",
+      "isNew": true,
+      "id": "24 81783840309"
+    },
+    {
+      "title": "PSG arrin marrëveshjen personale me Ferran Torres, Barcelona vendos çmimin e sulmuesit",
+      "link": "https://24-ore.com/psg-arrin-marreveshjen-personale-me-ferran-torres-barcelona-vendos-cmimin-e-sulmuesit/",
+      "description": "Gjatë ditës së djeshme është raportuar nga shumë medie të ndryshme se PSG ka arritur marrëveshjen personale me Ferran Torres. Sulmuesi pëlqehet shumë nga Luis Enrique, i cili shihet si zëvendësuesi ideal i të larguarit Gonçalo Ramos. Duke qenë se sulmuesi është edhe një vit nën kontratë me Barcelonë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T07:07:43+00:00",
+      "dateStr": "12 Jul, 07:07",
+      "isNew": true,
+      "id": "24 91783840063"
+    },
+    {
+      "title": "Ndërron jetë senatori amerikan Lindsey Graham, aleati i ngushtë i Donald Trump",
+      "link": "https://abcnews.al/nderron-jete-senatori-amerikan-lindsey-graham-aleati-i-ngushte-i-donald-trump/",
+      "description": "Senatori republikan i Shteteve të Bashkuara, Lindsey Graham, ka ndërruar jetë në moshën 71-vjeçare. Lajmi u konfirmua nga zyra e tij, e cila bëri të ditur se ai u shua të shtunën pas një sëmundjeje të papritur. &#8220;Në këtë periudhë jashtëzakonisht të vështirë, familja e senatorit Graham falëndero",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T07:06:12+00:00",
+      "dateStr": "12 Jul, 07:06",
+      "isNew": true,
+      "id": "abc11783839972"
+    },
+    {
+      "title": "Tajfuni i dytë që kërcënon vendin brenda një jave, “Bavi” bën kërdinë në Kinë, mijëra banorë të evakuuar",
+      "link": "https://abcnews.al/tajfuni-i-dyte-qe-kercenon-vendin-brenda-nje-jave-bavi-ben-kerdine-ne-kine-mijera-banore-te-evakuuar/",
+      "description": "Qindra mijëra banorë janë evakuuar nga zonat lindore të Kinës, ndërsa tajfuni Bavi, i dyti që kërcënon vendin brenda një jave, po i afrohet bregdetit. Autoritetet paralajmërojnë për reshje jashtëzakonisht të dendura dhe rrezik të lartë për përmbytje e rrëshqitje dheu. Sipas parashikimeve, tajfuni pr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T06:53:02+00:00",
+      "dateStr": "12 Jul, 06:53",
+      "isNew": true,
+      "id": "abc21783839182"
+    },
+    {
+      "title": "Lirohen më shumë se 40 fëmijë dhe mësues të rrëmbyer në Nigeri",
+      "link": "https://abcnews.al/lirohen-me-shume-se-40-femije-dhe-mesues-te-rrembyer-ne-nigeri/",
+      "description": "Ushtria e Nigerisë njoftoi se ka liruar të 44 nxënësit dhe mësuesit që ishin rrëmbyer dy muaj më parë nga shkollat në shtetin jugor Oyo, ndërsa ka arrestuar disa prej personave të dyshuar si autorë të rrëmbimit. Një sindikatë lokale e mësuesve i tha BBC-së se ndjen “lehtësim” pas lirimit të pengjeve",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T06:12:38+00:00",
+      "dateStr": "12 Jul, 06:12",
+      "isNew": true,
+      "id": "abc31783836758"
+    },
+    {
+      "title": "Rama ndan pamjet: Koncerti i Kanye West, investim për imazhin e Shqipërisë turistike dhe ekonominë!",
+      "link": "https://abcnews.al/rama-ndan-pamjet-koncerti-i-kanye-west-investim-per-imazhin-e-shqiperise-turistike-dhe-ekonomine/",
+      "description": "Kryeministri Edi Rama ka ndarë mëngjesin e kësaj të diele një videokartolinë nga atmosfera e koncertit të Kanye West në Tiranë, duke e cilësuar ngjarjen si një mbrëmje magjike që bashkoi njerëz nga 80 kombësi të ndryshme. Sipas Ramës, koncerti përbën një investim të rëndësishëm jo vetëm për promovim",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T06:00:49+00:00",
+      "dateStr": "12 Jul, 06:00",
+      "isNew": true,
+      "id": "abc41783836049"
+    },
+    {
+      "title": "“Little Albania” përfshihet në hartën zyrtare të New York, ‘zemërohen’ italianët",
+      "link": "https://abcnews.al/little-albania-perfshihet-ne-harten-zyrtare-te-new-york-zemerohen-italianet/",
+      "description": "Bashkia e New York, ka publikuar hartën zyrtare të enklavave të emigrantëve në këtë qytet, ku është përfshirë dhe “Little Albania”. Kjo hartë, e titulluar “Enklavat e Imigrantëve të Qytetit të New Jork”, identifikoi 30 komunitete. Kështu, “Little Albania” është e renditur si një nga lagjet që kanë l",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T05:52:13+00:00",
+      "dateStr": "12 Jul, 05:52",
+      "isNew": true,
+      "id": "abc51783835533"
+    },
+    {
+      "title": "Parashikimi i motit, 12 korrik 2026",
+      "link": "https://abcnews.al/parashikimi-i-motit-12-korrik-2026/",
+      "description": "Depërtimi më në thellësi i valës afrikane drejt rajonit të Ballkanit do të bëjë që territori shqiptar të përjetojë një mot mjaft të nxehtë, ku vlera ekstreme priten në zonat e Mbishkodrës, si edhe në qarkun e Beratit, duke shënuar vlera mbi 39 gradë Celsius. Pjesa e dytë e ditës dhe në vijim do të [",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T05:45:56+00:00",
+      "dateStr": "12 Jul, 05:45",
+      "isNew": true,
+      "id": "abc61783835156"
+    },
     {
       "title": "Horoskopi, 12 korrik 2026",
       "link": "https://abcnews.al/horoskopi-12-korrik-2026/",
@@ -12,51 +199,7 @@
       "date": "2026-07-12T05:04:48+00:00",
       "dateStr": "12 Jul, 05:04",
       "isNew": true,
-      "id": "abc01783832688"
-    },
-    {
-      "title": "Krim i rëndë në Vorë, vritet në rrugë pas mesnate një 50-vjeçar",
-      "link": "https://24-ore.com/krim-i-rende-ne-vore-vritet-ne-rruge-pas-mesnate-nje-50-vjecar/",
-      "description": "Një 50-vjeçar është vrarë me armë zjarri gjatë natës në fshatin Bërxullë të Vorës. Ngjarja është regjistruar rreth orës 00:10, ndërsa viktima, shtetasi E(A). S., dyshohet se është qëlluar teksa lëvizte në këmbë në rrugë. Policia ka ngritur një grup të posaçëm hetimor nën drejtimin e Prokurorisë, i c",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T04:29:51+00:00",
-      "dateStr": "12 Jul, 04:29",
-      "isNew": true,
-      "id": "24 01783830591"
-    },
-    {
-      "title": "BOTËRORI 2026 – Anglia mposht Norvegjinë dhe shkon në gjysmëfinale",
-      "link": "https://24-ore.com/boterori-2026-anglia-mposht-norvegjine-dhe-shkon-ne-gjysmefinale/",
-      "description": "MIAMI, 12 korrik /ATSH-AFP-DPA/ – Anglia u kualifikua për në gjysmëfinalet e Kupës së Botës duke mposhtur Norvegjinë 2-1 pas kohës shtesë, sot në Miami, dhe do të përballet me Argjentinën ose Zvicrën të mërkurën për një vend në finale. E mbetur në disavantazh pasi Andreas Schjelderup hapi rezultatin",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T04:28:52+00:00",
-      "dateStr": "12 Jul, 04:28",
-      "isNew": true,
-      "id": "24 11783830532"
-    },
-    {
-      "title": "Bellingham dërgon Anglinë në gjysmëfinale, merr fund ëndrra e Norvegjisë",
-      "link": "https://24-ore.com/bellingham-dergon-angline-ne-gjysmefinale-merr-fund-endrra-e-norvegjise/",
-      "description": "Anglia ka siguruar kualifikimin për në gjysmëfinalen e Botërorit. “Tre Luanët” triumfuan 2-1 me përmbysje ndaj Norvegjisë, pas shtesave, falë dopietës së Jude Bellingham. Koha e rregullt u mbyll në barazim 1-1, me anglezët që shpëtuan me fat në disa raste. Schjelderup i dha avantazhin Norvegjisë në ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T04:26:22+00:00",
-      "dateStr": "12 Jul, 04:26",
-      "isNew": true,
-      "id": "24 21783830382"
-    },
-    {
-      "title": "Argjentina kualifikohet me vuajtje në gjysmëfinale, Zvicra largohet me kokën lart",
-      "link": "https://24-ore.com/argjentina-kualifikohet-me-vuajtje-ne-gjysmefinale-zvicra-largohet-me-koken-lart/",
-      "description": "Argjentina është kualifikuar në gjysmëfinalen e Botërorit me shumë vuajtje. Kampionët në fuqi triumfuan 3-1 ndaj Zvicrës, pas shtesave. Koha e rregullt nuk prodhoi fitues, pasi u mbyll në barazim 1-1. Argjentina e nisi në mënyrën më të mirë të mundshme, duke gjetur avantazhin që në minutën e 10-të m",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T04:26:08+00:00",
-      "dateStr": "12 Jul, 04:26",
-      "isNew": true,
-      "id": "24 31783830368"
+      "id": "abc71783832688"
     },
     {
       "title": "Vrasje në Vorë/ 50 vjeçari qëllohet për vdekje me armë zjarri",
@@ -67,18 +210,7 @@
       "date": "2026-07-11T23:11:18+00:00",
       "dateStr": "11 Jul, 23:11",
       "isNew": true,
-      "id": "abc11783811478"
-    },
-    {
-      "title": "​Të dielën s’ka kufizim të qarkullimit për automjetet e transportit mbi 20 tonë",
-      "link": "https://24-ore.com/te-dielen-ska-kufizim-te-qarkullimit-per-automjetet-e-transportit-mbi-20-tone/",
-      "description": "Ministria e Infrastrukturës dhe Transportit njoftoi se të dielën (12 korrik) nuk do të ketë kufizim të qarkullimit për automjetet e transportit të mallrave mbi 20 tonë. “Bazuar në parashikimin zyrtar të temperaturave, për nesër nuk pritet të plotësohen kushtet e përcaktuara në vendimin e Ministrisë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T22:00:55+00:00",
-      "dateStr": "11 Jul, 22:00",
-      "isNew": true,
-      "id": "24 41783807255"
+      "id": "abc81783811478"
     },
     {
       "title": "“Protesta e humbi kauzën kur u politizua”, Petraj: Ajo e 4 korrikut ishte “protesta e turpit”, u shfaq antiamerikanizëm!",
@@ -89,139 +221,7 @@
       "date": "2026-07-11T21:45:18+00:00",
       "dateStr": "11 Jul, 21:45",
       "isNew": true,
-      "id": "abc21783806318"
-    },
-    {
-      "title": "Thaçi offers 50 thousand euros as bail for conditional release from The Hague",
-      "link": "https://24-ore.com/thaci-offers-50-thousand-euros-as-bail-for-conditional-release-from-the-hague/",
-      "description": "The defense of former President Hashim Thaçi has requested from the Special Court in The Hague his conditional release. The request states that former President Thaçi does not pose a flight risk and that he has offered a financial guarantee of 50 thousand euros to ensure his release. The request, am",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T21:41:03+00:00",
-      "dateStr": "11 Jul, 21:41",
-      "isNew": true,
-      "id": "24 51783806063"
-    },
-    {
-      "title": "Analistët: Qeveria mund të formohet shpejt, por një tjetër betejë politike sapo ka nisur",
-      "link": "https://24-ore.com/analistet-qeveria-mund-te-formohet-shpejt-por-nje-tjeter-beteje-politike-sapo-ka-nisur/",
-      "description": "Vëmendja e skenës politike në vend, është zhvendosur drejtë formimit të institucioneve të reja, pas certifikimit të zgjedhjeve të 7 qershorit. Rrethi i parë i takimeve të Vetëvendosjes, si fituese e zgjedhjeve, me partitë opozitare përfundoi pa marrëveshje konkrete, megjithëkëtë kryeministri në dety",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T21:40:50+00:00",
-      "dateStr": "11 Jul, 21:40",
-      "isNew": true,
-      "id": "24 61783806050"
-    },
-    {
-      "title": "Begaj’s visit to the Valley, Fetoshi: They are fabricating the “Albanian World” to justify the “Serbian World”",
-      "link": "https://24-ore.com/begajs-visit-to-the-valley-fetoshi-they-are-fabricating-the-albanian-world-to-justify-the-serbian-world/",
-      "description": "The Director of the Octopus Institute, Arben Fetoshi, has assessed that the reactions of the Serbian authorities and media to the visit of the President of Albania, Bajram Begaj, to the Presheva Valley, are part of a communication strategy aimed at relativizing the so-called &#8220;Serbian World&#82",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T21:35:56+00:00",
-      "dateStr": "11 Jul, 21:35",
-      "isNew": true,
-      "id": "24 71783805756"
-    },
-    {
-      "title": "Kurti – Hamza – Abdixhiku meetings, reaching an agreement is considered difficult",
-      "link": "https://24-ore.com/kurti-hamza-abdixhiku-meetings-reaching-an-agreement-is-considered-difficult/",
-      "description": "Bedri Hamza&#8217;s meeting lasted an hour and 15 minutes, and he alone went to Albin Kurti and Hekuran Murat&#8217;s table. The next meeting lasted longer, the one with Lumir Abdixhiku and Vjosa Osmani, who went to the meeting at 6:00 PM and stayed for more than two hours on Friday. When the meetin",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T21:35:37+00:00",
-      "dateStr": "11 Jul, 21:35",
-      "isNew": true,
-      "id": "24 81783805737"
-    },
-    {
-      "title": "“Protesta ka sfumuar opozitën”, Alesia Balliu: Qytetarët kërkojnë largimin e Berishës nga politika",
-      "link": "https://abcnews.al/protesta-ka-sfumuar-opoziten-alesia-balliu-qytetaret-kerkojne-largimin-e-berishes-nga-politika/",
-      "description": "TIRANË- Alesia Balliu, e ftuar në emisionin “Ora e Fundit” në ABC News, komentoi protestën që vijon prej më shumë se 40 ditësh, duke e cilësuar atë si pasojë të mungesës së një opozite funksionale në vend. Sipas Balliut, Partia Demokratike nuk ka më kapacitet për të mobilizuar qytetarët, ndërsa prot",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T21:33:15+00:00",
-      "dateStr": "11 Jul, 21:33",
-      "isNew": true,
-      "id": "abc31783805595"
-    },
-    {
-      "title": "Po ju, e doni Shqipërinë?",
-      "link": "https://abcnews.al/po-ju-e-doni-shqiperine/",
-      "description": "Nga Marenglen Kasmi Ndez televizorin në mëngjes dhe dëgjon shtypin e ditës. Për tridhjetë minuta dëgjon treqind herë emrin Edi Rama, tre mijë akuza për tradhti kombëtare dhe tridhjetë mijë raste të reja korrupsioni, të gjitha të zbuluara gjatë natës. E kështu vazhdon gjithë dita: vjedhje e korrupsio",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T21:32:46+00:00",
-      "dateStr": "11 Jul, 21:32",
-      "isNew": true,
-      "id": "abc41783805566"
-    },
-    {
-      "title": "Dita e 42-të, nis marshimi i qytetarëve, gazetarja tregon intenerarin e rrugëve ku do të protestohet",
-      "link": "https://24-ore.com/dita-e-42-te-nis-marshimi-i-qytetareve-gazetarja-tregon-intenerarin-e-rrugeve-ku-do-te-protestohet/",
-      "description": "Ka nisur marshimi i protestës në ditën e 42-të të saj pranë Bashkisë së Tiranës. Gazetarja Ledjana Braçja raporton se nga qytetarët dhe organizatorët është njoftuar se marshimi do të jetë përgjatë Bashkisë së Tiranës, pranë Parlamentit, tek Ambasada Amerikane e më pas drejt zonës së Stadiumit Air Al",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T21:23:39+00:00",
-      "dateStr": "11 Jul, 21:23",
-      "isNew": true,
-      "id": "24 91783805019"
-    },
-    {
-      "title": "Djali i kushëririt iu vra në atentat/ I afërmi: Konflikti ynë dihet nga të gjithë, Aleksandri punonte në furrë buke",
-      "link": "https://abcnews.al/djali-i-kusheririt-iu-vra-ne-atentat-i-afermi-konflikti-yne-dihet-nga-te-gjithe-aleksandri-punonte-ne-furre-buke/",
-      "description": "SHKODËR- Aleksandër Koçeku u vra në Karmë të Kirit në Dukagjin. Vrasja dyshohet se ka ndodhur për gjakmarrje. Një gjë të tillë e bën të ditur kushëriri i viktimës Mark Koçeku. Para 8 vitesh, Angjelin Shkambi u vra me armë zjarri në Shkodër ndërsa autori i kësaj ngjarje Artan Koçeku është në burg si ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T21:16:06+00:00",
-      "dateStr": "11 Jul, 21:16",
-      "isNew": true,
-      "id": "abc51783804566"
-    },
-    {
-      "title": "Atentati në Shkodër/ Makina e bërë shoshë, pamjet nga vendi ku u gjet i vdekur Aleksandër Koçeku",
-      "link": "https://abcnews.al/atentati-ne-shkoder-makina-e-bere-shoshe-pamjet-nga-vendi-ku-u-gjet-i-vdekur-aleksander-koceku/",
-      "description": "SHKODËR- Një ngjarje e rënë ka tronditur zonën e Prekalit në Shkodër, pasi një person u gjet i vdekur brenda automjetit, i qëlluar me armë zjarri. Viktima është identifikuar si Aleksandër Koçeku, një emër i njohur për Policinë e Shkodrës. Gazetari i ABC News, Simon Shkreli, ka siguruar pamjet nga ve",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T21:00:05+00:00",
-      "dateStr": "11 Jul, 21:00",
-      "isNew": true,
-      "id": "abc61783803605"
-    },
-    {
-      "title": "Franca apo Spanja, cila është favoritja? Mneri: “Gjelat” nxjerrin raste nga hiçi. Tahiri: Spanjollët nuk më bindin",
-      "link": "https://abcnews.al/franca-apo-spanja-cila-eshte-favoritja-mneri-gjelat-nxjerrin-raste-nga-hici-tahiri-spanjollet-nuk-me-bindin/",
-      "description": "Specialisti i futbollit, Ermal Tahiri, dhe gazetari Fatmir Mneri analizuan përballjen e gjysmëfinales së Botërorit mes Francës dhe Spanjës në emisionin “Futboll, jo Soccer”, në ABC News. Tahiri u shpreh kritik ndaj paraqitjeve të Spanjës, duke theksuar se skuadra iberike nuk e ka bindur aq shumë, si",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T20:46:14+00:00",
-      "dateStr": "11 Jul, 20:46",
-      "isNew": true,
-      "id": "abc71783802774"
-    },
-    {
-      "title": "‘Tirona o nona’, Rama publikon pamjet nga koncerti i West: Shqipëri e bukur europiane",
-      "link": "https://abcnews.al/tirona-o-nona-rama-publikon-pamjet-nga-koncerti-i-west-shqiperi-e-bukur-europiane/",
-      "description": "TIRANË- Kryeministri Edi Rama ka publikuar pamje nga koncerti i Kanye West në Tiranë, duke e cilësuar mbrëmjen si një festë të qytetit dhe të diversitetit kulturor. Në postimin e tij në rrjetet sociale, Rama e shoqëroi videon me shprehjen “Tirona o nona”, ndërsa theksoi se kryeqyteti shqiptar është ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T20:10:01+00:00",
-      "dateStr": "11 Jul, 20:10",
-      "isNew": true,
-      "id": "abc81783800601"
-    },
-    {
-      "title": "Kanye ndez Tiranën: Minutat e fundit para fillimit të koncertit. Me mijëra fansa në ‘Eagle Stadium’",
-      "link": "https://abcnews.al/kanye-ndez-tiranen-minutat-e-fundit-para-fillimit-te-koncertit-me-mijera-fansa-ne-eagle-stadium/",
-      "description": "TIRANË- Gjithçka gati duket të jetë në “Eagle Stadium’, për koncertin e këngëtarit të njohur Kanye West. ABC News sjell pamjet elektrizuese brenda stadiumit, ku West pritet të ngjitet në skenën madhështore të krijuar enkas për këtë event. Tirana pret sot një nga emrat më të mëdhenj të muzikës hip-ho",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T19:24:52+00:00",
-      "dateStr": "11 Jul, 19:24",
-      "isNew": true,
-      "id": "abc91783797892"
+      "id": "abc91783806318"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
