@@ -1,8 +1,162 @@
 {
-  "lastUpdated": "2026-07-12T11:55:10.242083+00:00",
+  "lastUpdated": "2026-07-12T13:09:46.542882+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "FOKUS – Omani raporton sulme me dronë pranë Ngushticës së Hormuzit",
+      "link": "https://24-ore.com/fokus-omani-raporton-sulme-me-drone-prane-ngushtices-se-hormuzit/",
+      "description": "MUSKAT, 12 korrik /ATSH-DPA/- Ngushtica e Hormuzit është përfshirë sërish nga tensionet, pasi autoritetet e Omanit njoftuan për sulme me dronë në afërsi të kësaj zone strategjike, vetëm disa orë pasi Irani deklaroi se kishte goditur objektiva të lidhura me Shtetet e Bashkuara në territorin e vendit.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T13:02:19+00:00",
+      "dateStr": "12 Jul, 13:02",
+      "isNew": true,
+      "id": "24 01783861339"
+    },
+    {
+      "title": "Ministrja Ismaili: Fondi 4 mln euro për koncertin e Kanye West shpëtoi imazhin e Shqipërisë",
+      "link": "https://24-ore.com/ministrja-ismaili-fondi-4-mln-euro-per-koncertin-e-kanye-west-shpetoi-imazhin-e-shqiperise/",
+      "description": "Ministrja për Marrëdhëniet me Parlamentin, Erjona Ismaili, deklaroi në një intervistë për Euronews Albania se fondi prej 4 milionë eurosh i akorduar nga qeveria për organizimin e koncertit të Kanye West ishte një vendim i domosdoshëm për të mbrojtur imazhin e Shqipërisë dhe për të shmangur pasoja më",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T13:01:50+00:00",
+      "dateStr": "12 Jul, 13:01",
+      "isNew": true,
+      "id": "24 11783861310"
+    },
+    {
+      "title": "Alarm në Ngushticën e Hormuzit, niveli i kërcënimit shpallet “i rëndë”",
+      "link": "https://abcnews.al/alarm-ne-ngushticen-e-hormuzit-niveli-i-kercenimit-shpallet-i-rende/",
+      "description": "Niveli i kërcënimit në Ngushticën e Hormuzit është shpallur &#8220;i rëndë&#8221; nga Qendra e Operacioneve Tregtare Detare e Mbretërisë së Bashkuar. Niveli i kërcënimit konsiderohet të jetë shkalla më e lartë e rrezikut nga UKMTO, e cila është organizata që shërben si lidhja kryesore midis ushtrisë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T12:44:55+00:00",
+      "dateStr": "12 Jul, 12:44",
+      "isNew": true,
+      "id": "abc01783860295"
+    },
+    {
+      "title": "Edicioni i Mesditës me Fabiola Hoxha, (12/07/2026)",
+      "link": "https://abcnews.al/edicioni-i-mesdites-me-fabiola-hoxha-12-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T12:43:25+00:00",
+      "dateStr": "12 Jul, 12:43",
+      "isNew": true,
+      "id": "abc11783860205"
+    },
+    {
+      "title": "Përleshje mes dy të miturve në Saraj, privohet nga liria një 16 vjeçar",
+      "link": "https://24-ore.com/perleshje-mes-dy-te-miturve-ne-saraj-privohet-nga-liria-nje-16-vjecar/",
+      "description": "Një i mitur 16-vjeçar është privuar nga liria pasi dyshohet se me një send të mprehtë i ka shkaktuar lëndime të rënda trupore një 14-vjeçari në Saraj të Shkupit. Sipas njoftimit të policisë, ngjarja ka ndodhur më 11 korrik, rreth orës 15:00, pas një përleshjeje fizike mes dy të miturve para një obje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T12:36:41+00:00",
+      "dateStr": "12 Jul, 12:36",
+      "isNew": true,
+      "id": "24 21783859801"
+    },
+    {
+      "title": "Kjo simptomë “e sikletshme” nuk duhet injoruar, sipas mjekëve",
+      "link": "https://24-ore.com/kjo-simptome-e-sikletshme-nuk-duhet-injoruar-sipas-mjekeve/",
+      "description": "Foto: Antonio Hugo Photo via Getty Images Disa simptoma shëndetësore janë më të lehta për t’u përmendur se të tjerat. Dhimbja e barkut, lodhja, ndryshimet në jashtëqitje apo humbja e peshës zakonisht diskutohen më me pak siklet. Por ka edhe simptoma që njerëzit i shmangin nga sikleti, edhe pse mund ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T12:31:18+00:00",
+      "dateStr": "12 Jul, 12:31",
+      "isNew": true,
+      "id": "24 31783859478"
+    },
+    {
+      "title": "Nga presioni i protestës te sfida e madhe e 2027, Klosi nxjerr kartat e PS!",
+      "link": "https://24-ore.com/nga-presioni-i-protestes-te-sfida-e-madhe-e-2027-klosi-nxjerr-kartat-e-ps/",
+      "description": "Dorëheqja, kërkesa kryesore e protestuesve, nuk është opsion për maxhorancën socialiste.  Sekretari i Përgjithshëm i PS, Blendi Klosi thotë se ndaj protestës do të jenë të kujdesshëm për të dëgjuar kërkesat e drejta qytetare, por mandati do të çohet deri në fund. “Përsa i përket kërkesave politike, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T12:29:25+00:00",
+      "dateStr": "12 Jul, 12:29",
+      "isNew": true,
+      "id": "24 41783859365"
+    },
+    {
+      "title": "VLEN: BDI protestoi për privilegjet e humbura, jo për Tetovën",
+      "link": "https://24-ore.com/vlen-bdi-protestoi-per-privilegjet-e-humbura-jo-per-tetoven/",
+      "description": "Protesta e dytë e BDI-së për emrat e rrugëve dhe shesheve në Tetovë nuk ishte protestë e qytetarëve, por një manifestim i frikës së një partie që po e sheh se po i mbaron koha politike, thuhet në kumtesën e VLEN-it, të cilën MIA e publikon në formë integrale.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T12:21:43+00:00",
+      "dateStr": "12 Jul, 12:21",
+      "isNew": true,
+      "id": "24 51783858903"
+    },
+    {
+      "title": "Nga SHBA në brigjet e Jonit / Të huajt zgjedhin Sarandën për natyrën dhe ujërat e kristalta",
+      "link": "https://abcnews.al/nga-shba-ne-brigjet-e-jonit-te-huajt-zgjedhin-saranden-per-natyren-dhe-ujerat-e-kristalta/",
+      "description": "Në mes të sezonit turistik Saranda po mirëpret turist nga mbarë bota. Kjo familja ka mbërritur nga Filadelfia për një  javë pushime në bregdetin e jugut të Shqipërisë. &#8220;Gjithcka eshte e mrekullueshme, qe tani kemi shkembyer foto me miqte dhe u kam shkruar te vijne, se ka natyre fantastike, esh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T12:17:31+00:00",
+      "dateStr": "12 Jul, 12:17",
+      "isNew": true,
+      "id": "abc21783858651"
+    },
+    {
+      "title": "Tahiri: Kosova me gjysmë qeveri, diplomaci të heshtur dhe ekonomi përtokë",
+      "link": "https://24-ore.com/tahiri-kosova-me-gjysme-qeveri-diplomaci-te-heshtur-dhe-ekonomi-pertoke/",
+      "description": "Ish-kryenegociatorja e Kosovës, Edita Tahiri ka vlerësuar se vendi ndodhet në një situatë të rëndë politike dhe ekonomike, duke bërë thirrje për krijimin e institucioneve të reja përmes pajtimit mes partive kryesore. Tahiri, përmes një postimi në rrjetet sociale, ka deklaruar se Kosova po përballet ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T12:16:37+00:00",
+      "dateStr": "12 Jul, 12:16",
+      "isNew": true,
+      "id": "24 61783858597"
+    },
+    {
+      "title": "Dhunuan 17-vjeçaren, Gjykata e Fierit vendos masat: 20-vjeçarja në burg, 15-vjeçarja në “arrest shtëpie”, tjet",
+      "link": "https://24-ore.com/dhunuan-17-vjecaren-gjykata-e-fierit-vendos-masat-20-vjecarja-ne-burg-15-vjecarja-ne-arrest-shtepie-tjet/",
+      "description": "Gjykata e Fierit ka lënë në fuqi masat e sigurisë për tri vajzat e dyshuara për dhunimin e një 17-vjeçareje, një ngjarje që ka shkaktuar reagime të shumta në opinionin publik. Në seancën për verifikimin e masave të sigurisë, gjykata pranoi kërkesën e Prokurorisë, duke vendosur masën “arrest me burg”",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T12:14:39+00:00",
+      "dateStr": "12 Jul, 12:14",
+      "isNew": true,
+      "id": "24 71783858479"
+    },
+    {
+      "title": "FRANCË – Mbi 1/3 e popullsisë në alarm për valën e të nxehtit",
+      "link": "https://24-ore.com/france-mbi-1-3-e-popullsise-ne-alarm-per-valen-e-te-nxehtit/",
+      "description": "PARIS, 12 korrik /ATSH-AFP/ – Më shumë se një e treta e popullsisë franceze u vu sot nën nivelin më të lartë të alarmit për shkak të valës së të nxehtit, e cila po rrit frikën për përhapjen e zjarreve që prekin vendin. Rreth 26 milionë francezë do të jenë nën alarm të kuq, niveli më [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T12:13:33+00:00",
+      "dateStr": "12 Jul, 12:13",
+      "isNew": true,
+      "id": "24 81783858413"
+    },
+    {
+      "title": "BOTËRORI 2026 – Mick Jagger dhe Ronnie Wood festojnë kualifikimin e Anglisë në gjysmëfinalen e Kupës së Botës",
+      "link": "https://24-ore.com/boterori-2026-mick-jagger-dhe-ronnie-wood-festojne-kualifikimin-e-anglise-ne-gjysmefinalen-e-kupes-se-botes/",
+      "description": "MAJEMI 12 korrik, /ATSH/-  Mick Jagger dhe Ronnie Wood festojnë kualifikimin e Anglisë në gjysmëfinalen e Kupës së Botës Legjendat e muzikës rock, Mick Jagger dhe Ronnie Wood, panë të realizohej dëshira e tyre, pasi Anglia mposhti Norvegjinë me rezultatin 2-1 dhe siguroi një vend në gjysmëfinalen e ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T12:13:20+00:00",
+      "dateStr": "12 Jul, 12:13",
+      "isNew": true,
+      "id": "24 91783858400"
+    },
+    {
+      "title": "Infantino: FIFA do të shqyrtojë zgjerimin e Botërorit 2030 në 64 skuadra",
+      "link": "https://abcnews.al/infantino-fifa-do-te-shqyrtoje-zgjerimin-e-boterorit-2030-ne-64-skuadra/",
+      "description": "Presidenti i FIFA-s, Gianni Infantino, ka bërë të ditur se organizata do të shqyrtojë mundësinë e zgjerimit të Kupës së Botës në 64 skuadra për edicionin e vitit 2030, duke shtuar edhe 16 ekipe të tjera në formatin aktual. Nëse miratohet, Botërori 2030 do të jetë turneu më i madh në historinë e futb",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T12:12:33+00:00",
+      "dateStr": "12 Jul, 12:12",
+      "isNew": true,
+      "id": "abc31783858353"
+    },
     {
       "title": "Shuhet ikona që ndryshoi Katarin/ Ndërron jetë ish-emiri Sheikh Hamad, arkitekti i fuqisë së re të Dohas",
       "link": "https://abcnews.al/shuhet-ikona-qe-ndryshoi-katarin-nderron-jete-ish-emiri-sheikh-hamad-arkitekti-i-fuqise-se-re-te-dohas/",
@@ -12,51 +166,7 @@
       "date": "2026-07-12T11:50:30+00:00",
       "dateStr": "12 Jul, 11:50",
       "isNew": true,
-      "id": "abc01783857030"
-    },
-    {
-      "title": "Raport: Rriten sulmet kibernetike të mundësuara nga Al, kriminelët synojnë bizneset në gjithë botën",
-      "link": "https://24-ore.com/raport-rriten-sulmet-kibernetike-te-mundesuara-nga-al-kriminelet-synojne-bizneset-ne-gjithe-boten/",
-      "description": "Ekspertët e sigurisë kibernetike paralajmërojnë se kriminelët po përdorin Al për të kryer sulme kibernetike gjithnjë e më bindëse, duke e bërë më të lehtë shënjestrimin e bizneseve dhe organizatave. Sipas një raporti të transmetuesit publik finlandez Yle, zyrtarët finlandezë të sigurisë kibernetike ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T11:46:22+00:00",
-      "dateStr": "12 Jul, 11:46",
-      "isNew": true,
-      "id": "24 01783856782"
-    },
-    {
-      "title": "Tragjike! Ishte duke punuar në arë me të atin dhe u fut në lumë për t’u larë, mbytet 15-vjeçari në Berat",
-      "link": "https://24-ore.com/tragjike-ishte-duke-punuar-ne-are-me-te-atin-dhe-u-fut-ne-lume-per-tu-lare-mbytet-15-vjecari-ne-berat/",
-      "description": "Një ngjarje e rëndë është shënuar në fshatin Orziaj  ku një 15-vjeçar ka ndërruar jetë teksa po lahej në lumin Osum. Sipas informaconeve paraprake 15-vjeçari Fatjon Sadushi, që ishte duke punuar me të atin në arë, ka hyrë në lumë për t’u freskuar, por rrjedha e lumit e ka marrë disa metra poshtë. Ba",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T11:44:25+00:00",
-      "dateStr": "12 Jul, 11:44",
-      "isNew": true,
-      "id": "24 11783856665"
-    },
-    {
-      "title": "Sulmet online ndaj bizneseve, Balla: Po dëmtojnë imazhin e Shqipërisë!",
-      "link": "https://24-ore.com/sulmet-online-ndaj-bizneseve-balla-po-demtojne-imazhin-e-shqiperise/",
-      "description": "Gjatë një takimi në Kavajë, Drejtuesi Politik i Partisë Socialiste për qarkun e Tiranës, Taulant Balla, ngriti shqetësimin për sulmet online ndaj bizneseve turistike shqiptare. Ai i cilësoi ato si një përpjekje për të dëmtuar imazhin e Shqipërisë dhe ekonominë e vendit, teksa shtoi se turizmi është ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T11:44:05+00:00",
-      "dateStr": "12 Jul, 11:44",
-      "isNew": true,
-      "id": "24 21783856645"
-    },
-    {
-      "title": "Botërori 2026/ Ståle Solbakken i tërbuar me Turpin dhe FIFA-n, goli i barazimit i Anglisë erdhi pas një “asisiti” të… kamerës merimangë",
-      "link": "https://24-ore.com/boterori-2026-stale-solbakken-i-terbuar-me-turpin-dhe-fifa-n-goli-i-barazimit-i-anglise-erdhi-pas-nje-asisiti-te-kameres-merimange/",
-      "description": "Ndeshja mes Anglisë dhe Norvegjisë ka vazhduar përtej vërshëllimës së trefishtë të Clément Turpin. Goli i barazimit me autor Jude Bellingham nisi nga një episod i dyshimtë pasi topi në mesin e fushës ndryshoi trajektore në mënyrë të çuditshme pasi kishte prekur kamerën merimangë të instaluar në stad",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T11:36:36+00:00",
-      "dateStr": "12 Jul, 11:36",
-      "isNew": true,
-      "id": "24 31783856196"
+      "id": "abc41783857030"
     },
     {
       "title": "Wild, wild West / Tirana mes dy skenave, Kanye West mbledh turmën, protesta “në hije”",
@@ -67,40 +177,7 @@
       "date": "2026-07-12T11:35:56+00:00",
       "dateStr": "12 Jul, 11:35",
       "isNew": true,
-      "id": "abc11783856156"
-    },
-    {
-      "title": "Torres drejt PSG-së, Barcelona ka dy alternativa për zëvendësuesin e tij",
-      "link": "https://24-ore.com/torres-drejt-psg-se-barcelona-ka-dy-alternativa-per-zevendesuesin-e-tij/",
-      "description": "Tashmë mund të quhet thjesht çështje kohe, por Ferran Torres do të mbajë veshur fanellën e PSG-së për sezonin e ardhshëm. Klubi parizien ka gjetur gjuhën e përbashkët me sulmuesin, ndërsa ende mungon marrëveshja me Barcelonën. Në anën tjetër, katalanasit pretendojnë për një shifër 50 milionë euro pë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T11:31:25+00:00",
-      "dateStr": "12 Jul, 11:31",
-      "isNew": true,
-      "id": "24 41783855885"
-    },
-    {
-      "title": "FOTO/ U ekzekutua me 25 plumba në Shkodër, ky është 40 vjeçari Aleksandër Koçeku",
-      "link": "https://24-ore.com/foto-u-ekzekutua-me-25-plumba-ne-shkoder-ky-eshte-40-vjecari-aleksander-koceku/",
-      "description": "Personi që shihni në foton e mësipërme është 40-vjeçari Aleksandër Koçeku, i cili u ekzekutua një natë më parë. Ai po udhëtonte i vetëm me automjetin e tij nga zona e Dukagjinit në drejtim të Shkodrës, kur ra në pritën e autorëve. Në një segment malor të aksit Kir–Prekal, pa kamera sigurie dhe me lë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T11:29:56+00:00",
-      "dateStr": "12 Jul, 11:29",
-      "isNew": true,
-      "id": "24 51783855796"
-    },
-    {
-      "title": "BOTËRORI 2026 – Messi i dhuron Baggios fanellën ikonike",
-      "link": "https://24-ore.com/boterori-2026-messi-i-dhuron-baggios-fanellen-ikonike/",
-      "description": "KANSAS SITI, 12 korrik /ATSH-ANSA/ – Lionel Messi ka bërë një gjest të veçantë ndaj legjendës së futbollit italian, Roberto Baggio, duked i dhuruar fanellën me numrin 10 të Argjentinës, të përdorur në ndeshjen e fituar ndaj Zvicrës. Takimi mes dy ikonave të futbollit u shoqërua me një fotografi të p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T11:28:41+00:00",
-      "dateStr": "12 Jul, 11:28",
-      "isNew": true,
-      "id": "24 61783855721"
+      "id": "abc51783856156"
     },
     {
       "title": "Ora e Fundit me Emilian Islami, (11/07/2026)",
@@ -111,18 +188,7 @@
       "date": "2026-07-12T11:21:09+00:00",
       "dateStr": "12 Jul, 11:21",
       "isNew": true,
-      "id": "abc21783855269"
-    },
-    {
-      "title": "Largohet nga liqeni i Dojranit një granatë 13.6 kilogramë, datonte që nga Lufta e Parë Botërore",
-      "link": "https://24-ore.com/largohet-nga-liqeni-i-dojranit-nje-granate-13-6-kilograme-datonte-qe-nga-lufta-e-pare-boterore/",
-      "description": "Pirotekniku i Drejtorisë për Mbrojtje dhe Shpëtim, Zoran Pejev, largoi në mënyrë të sigurt një predhë artilerie të paeksploduar me kalibër 100 milimetra dhe peshë 13.6 kilogramë, e cila u gjet në bregun e Liqenit të Dojranit. Siç njoftojnë nga Drejtoria, predha daton nga Lufta e Parë Botërore dhe is",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T11:16:28+00:00",
-      "dateStr": "12 Jul, 11:16",
-      "isNew": true,
-      "id": "24 71783854988"
+      "id": "abc61783855269"
     },
     {
       "title": "“Luanët” ndalojnë “Vikingët” / Anglia në gjysmëfinale të Botërorit, mund 2-1 Norvegjinë",
@@ -133,29 +199,7 @@
       "date": "2026-07-12T11:12:20+00:00",
       "dateStr": "12 Jul, 11:12",
       "isNew": true,
-      "id": "abc31783854740"
-    },
-    {
-      "title": "13 vite burg për shfrytëzim prostitucioni, arrestohet në Tiranë 48-vjeçari i kërkuar nga Italia",
-      "link": "https://24-ore.com/13-vite-burg-per-shfrytezim-prostitucioni-arrestohet-ne-tirane-48-vjecari-i-kerkuar-nga-italia/",
-      "description": "Arrestohet në Tiranë me qëllim ekstradimin drejt Italisë, 48-vjeçari i dënuar me 13 vite burg për për shfrytëzim prostitucioni dhe skllavërim/nënshtrim. Ky person ishte shpallur në kërkim ndërkombëtar pas dënimit nga Gjykata e Apelit të Napolit në nëntor të 2021-shit me 13 vite burg për veprat penal",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T11:03:53+00:00",
-      "dateStr": "12 Jul, 11:03",
-      "isNew": true,
-      "id": "24 81783854233"
-    },
-    {
-      "title": "Ndarja nga jeta e ish-Amirit të Katarit, reagon Rama: Trishtuese! Trashëgimia e tij do të frymëzojë brezat",
-      "link": "https://24-ore.com/ndarja-nga-jeta-e-ish-amirit-te-katarit-reagon-rama-trishtuese-trashegimia-e-tij-do-te-frymezoje-brezat/",
-      "description": "Kryeministri Edi Rama ka reaguar në lidhje me ndarjen nga jeta të ish-Amirit të Katarit, Sheikh Hamad bin Khalifa Al Thani. “Ishte trishtuese të mësoja për ndarjen nga jeta të Lartmadhërisë së Tij, Amirit të Katarit, Sheikh Hamad bin Khalifa Al Thani. Një burrë shteti vizionar dhe një udhëheqës hist",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T10:59:37+00:00",
-      "dateStr": "12 Jul, 10:59",
-      "isNew": true,
-      "id": "24 91783853977"
+      "id": "abc71783854740"
     },
     {
       "title": "Ndërron jetë ish-Emiri i Katarit/ Rama: Një shtetar vizionar dhe lider historik",
@@ -166,7 +210,7 @@
       "date": "2026-07-12T10:52:41+00:00",
       "dateStr": "12 Jul, 10:52",
       "isNew": true,
-      "id": "abc41783853561"
+      "id": "abc81783853561"
     },
     {
       "title": "Argjentina me “shtatë shpirtra” / Messi & Co kalojnë Zvicrën, në gjysmëfinale të Botërorit",
@@ -177,51 +221,7 @@
       "date": "2026-07-12T10:50:11+00:00",
       "dateStr": "12 Jul, 10:50",
       "isNew": true,
-      "id": "abc51783853411"
-    },
-    {
-      "title": "Kanye West elektrizon Tiranën/ Mbi 60 mijë vizitorë nga 80 vende në koncertin më të madh të vitit",
-      "link": "https://abcnews.al/kanye-west-elektrizon-tiranen-mbi-60-mije-vizitore-nga-80-vende-ne-koncertin-me-te-madh-te-vitit/",
-      "description": "Kryeqyteti shqiptar u kthye në qendër të  vëmendjes ndërkombëtare  mbrëmjen e të  shtunës. Amerikani   I cili konsiderohet si një ndër artistët me ndikim në muzikën moderne  Kanye  West  performoi për herë të parë në Tiranë duke ndezur skenën dhe elektrizuar publikun. Artisti solli  hitet të karrier",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-12T10:25:09+00:00",
-      "dateStr": "12 Jul, 10:25",
-      "isNew": true,
-      "id": "abc61783851909"
-    },
-    {
-      "title": "Në kërkim nga shteti italian për shfrytëzim prostitucioni/ Kapet në Tiranë 48-vjeçari",
-      "link": "https://abcnews.al/ne-kerkim-nga-shteti-italian-per-shfrytezim-prostitucioni-kapet-ne-tirane-48-vjecari/",
-      "description": "Një 48-vjeçar i shpallur në kërkim ndërkombëtar është arrestuar në Tiranë me qëllim ekstradimin drejt Italisë, në kuadër të bashkëpunimit mes strukturave FAST Albania dhe FAST Itali. Sipas Policisë së Shtetit, Bekim Nikolli u lokalizua dhe u vu në pranga në zonën e Institutit Bujqësor në Tiranë, pas",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-12T10:14:16+00:00",
-      "dateStr": "12 Jul, 10:14",
-      "isNew": true,
-      "id": "abc71783851256"
-    },
-    {
-      "title": "Dy të vrarë nga të shtënat në festivalin e Torontos",
-      "link": "https://abcnews.al/dy-te-vrare-nga-te-shtenat-ne-festivalin-e-torontos/",
-      "description": "Një ngjarje e rëndë me armë zjarri ka tronditur qytetin e Torontos, pasi dy persona kanë humbur jetën dhe disa të tjerë janë plagosur gjatë festivalit vjetor “Salsa on St. Clair”. Incidenti ndodhi ndërsa festivali po zhvillohej dhe zona ishte e mbushur me qytetarë, familje dhe pjesëmarrës që kishin ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-12T10:12:30+00:00",
-      "dateStr": "12 Jul, 10:12",
-      "isNew": true,
-      "id": "abc81783851150"
-    },
-    {
-      "title": "Tragjedi në Vietnam, 15 turistë humbin jetën pasi varka e tyre përmbytet në det",
-      "link": "https://abcnews.al/tragjedi-ne-vietnam-15-turiste-humbin-jeten-pasi-varka-e-tyre-permbytet-ne-det/",
-      "description": "Një aksident i rëndë detar ka shkaktuar një tragjedi pranë ishullit Phu Quoc në Vietnam, ku 15 turistë nga India kanë humbur jetën pasi një varkë me shpejtësi u përmbys në det. Ngjarja ka ndodhur gjatë një udhëtimi turistik, ndërsa në bordin e mjetit lundrues ndodheshin disa dhjetëra persona. Pas pë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-12T09:35:35+00:00",
-      "dateStr": "12 Jul, 09:35",
-      "isNew": true,
-      "id": "abc91783848935"
+      "id": "abc91783853411"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
