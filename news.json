@@ -1,18 +1,150 @@
 {
-  "lastUpdated": "2026-07-12T17:56:20.067621+00:00",
-  "totalSources": 2,
-  "totalNews": 20,
+  "lastUpdated": "2026-07-12T19:02:09.752312+00:00",
+  "totalSources": 3,
+  "totalNews": 30,
   "news": [
     {
-      "title": "Si u shndërrua vizita e Presidentit të Shqipërisë në Preshevë në narrativë për “pushtim” dhe “Shqipëri të Madhe”",
-      "link": "https://24-ore.com/si-u-shnderrua-vizita-e-presidentit-te-shqiperise-ne-presheve-ne-narrative-per-pushtim-dhe-shqiperi-te-madhe/",
-      "description": "Vizita e Presidentit të Republikës së Shqipërisë, Bajram Begaj, në komunat e Preshevës dhe Bujanocit ka shkaktuar reagime të shumta në opinionin publik. Ndërsa një pjesë e mediave dhe institucioneve raportuan për një vizitë zyrtare diplomatike dhe takime me përfaqësues lokalë, disa aktorë politikë n",
+      "title": "Ushtarë të rinj të FSK-së i bashkohen misionit ndërkombëtar në Gaza",
+      "link": "https://24-ore.com/ushtare-te-rinj-te-fsk-se-i-bashkohen-misionit-nderkombetar-ne-gaza/",
+      "description": "Në Gazë, një nga zonat më të rrezikshme dhe më të paqëndrueshme në botë, Kosova po hyn për herë të parë në një mision ndërkombëtar stabilizues, të mandatuar nga Kombet e Bashkuara. Bordi i Paqes ka njoftuar se pjesëtarë të rinj të saj i janë bashkuar misionit ndërkombëtar në Gaza, duke mbështetur pë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-12T17:51:55+00:00",
-      "dateStr": "12 Jul, 17:51",
+      "date": "2026-07-12T19:01:10+00:00",
+      "dateStr": "12 Jul, 19:01",
       "isNew": true,
-      "id": "24 01783878715"
+      "id": "24 01783882870"
+    },
+    {
+      "title": "Shumica e heshtur që u zgjua nga “këshilltarët” e protestës",
+      "link": "https://24-ore.com/shumica-e-heshtur-qe-u-zgjua-nga-keshilltaret-e-protestes/",
+      "description": "Nga Mero Baze Shqiptarët u vendosën dje para një sfide të panevojshme nga një grup delirantësh që kanë marrë nën kontroll protestën, duke vënë bast se do ta përdornin atë kundër koncertit të Kanye West në Tiranë dhe do ta shkatërronin atë, pasi shqiptarët do të zgjidhnin ata. Ishte rasti tipik kur n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T18:58:55+00:00",
+      "dateStr": "12 Jul, 18:58",
+      "isNew": true,
+      "id": "24 11783882735"
+    },
+    {
+      "title": "IRAN – Shpërthime të reja në pranë Ngushticës së Hormuzit",
+      "link": "https://24-ore.com/iran-shperthime-te-reja-ne-prane-ngushtices-se-hormuzit/",
+      "description": "TEHERAN, 12 korrik /ATSH-DPA/ – Mediat iraniane raportuan sot në mbrëmje për shpërthime të reja në bregdetin jugor të vendit, pranë Ngushticës së Hormuzit, vetëm pak orë pasi Shtetet e Bashkuara kryen një valë sulmesh gjatë natës. Sipas agjencisë iraniane të lajmeve Tasnim, shpërthimet janë dëgjuar ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T18:58:13+00:00",
+      "dateStr": "12 Jul, 18:58",
+      "isNew": true,
+      "id": "24 21783882693"
+    },
+    {
+      "title": "Beshlin: Doktrina e Vuçiqit bazohet në sovranitetin e kufizuar të shteteve fqinje",
+      "link": "https://24-ore.com/beshlin-doktrina-e-vuciqit-bazohet-ne-sovranitetin-e-kufizuar-te-shteteve-fqinje/",
+      "description": "Historiani serb Milivoj Beshlin ka deklaruar se presidenti i Serbisë, Aleksandar Vuçiq, ndjek një doktrinë që e përshkruan si “sovraniteti i kufizuar i shteteve fqinje”, duke e krahasuar atë me doktrinën e ish-udhëheqësit sovjetik Leonid Brezhnjev. Në bashkëbisedimin në podcastin PIKË me publicistin",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T18:51:15+00:00",
+      "dateStr": "12 Jul, 18:51",
+      "isNew": true,
+      "id": "24 31783882275"
+    },
+    {
+      "title": "Gjermania financon 50 mijë dronë për Ukrainën",
+      "link": "https://abcnews.al/gjermania-financon-50-mije-drone-per-ukrainen/",
+      "description": "Gjermania po financon 50,000 dronë sulmues për Ukrainën, tha një burim i njohur me çështjen, në një porosi që shënon një nga blerjet më të mëdha të njohura të dronëve për Kievin nga një qeveri perëndimore. Ukraina është mbështetur shumë në një gamë të gjerë automjetesh pa pilot gjatë luftës më shumë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T18:48:58+00:00",
+      "dateStr": "12 Jul, 18:48",
+      "isNew": true,
+      "id": "abc01783882138"
+    },
+    {
+      "title": "Privohen nga liria tre shkupjanë për vjedhje, policia gjen mallrat në automjetin e tyre në Veles",
+      "link": "https://24-ore.com/privohen-nga-liria-tre-shkupjane-per-vjedhje-policia-gjen-mallrat-ne-automjetin-e-tyre-ne-veles/",
+      "description": "Nëpunës policorë të SPB Veles dje në orën 12:30 në Veles i privuan nga liria S.S. (32), M.H. (22) dhe B.J. (19), të gjithë nga Shkupi. Siç kumtoi MPB më parë, një grua 39-vjeçare nga Velesi denoncoi se kishte vërejtur dy persona meshkuj duke u larguar nga objekti ku ishte e punësuar me një sasi [&#8",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T18:46:01+00:00",
+      "dateStr": "12 Jul, 18:46",
+      "isNew": true,
+      "id": "24 41783881961"
+    },
+    {
+      "title": "Na ndihmon suksesi i koncertit në Kashar?",
+      "link": "https://24-ore.com/na-ndihmon-suksesi-i-koncertit-ne-kashar/",
+      "description": "Nga Fatos Çoçoli Darkën dhe natën e 11 korrikut, koncerti i reperit me famë botërore Kanye West në Kashar, Tiranë pati sukses. Stadiumi provizor i ngritur posaçërisht për këtë koncert, me kapacitet 60 mijë vende, priti të paktën 40-45 mijë spektatorë. Koncerti vlerësohet si një sukses organizativ dh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T18:43:38+00:00",
+      "dateStr": "12 Jul, 18:43",
+      "isNew": true,
+      "id": "24 51783881818"
+    },
+    {
+      "title": "“LE TEMPS”: Rama shpenzoi 4.2 milionë euro për Kanye West, por nuk arriti të shuajë zemërimin e shqiptarëve!",
+      "link": "https://24-ore.com/le-temps-rama-shpenzoi-4-2-milione-euro-per-kanye-west-por-nuk-arriti-te-shuaje-zemerimin-e-shqiptareve/",
+      "description": "Sipas prestigjiozes franceze, financimi me 4.2 milionë euro i koncertit të Kanye West nuk arriti të ndalte revoltën qytetare, ndërsa “Revolucioni i Flamingove” vazhdon të zgjerohet, me mijëra protestues që kërkojnë dorëheqjen e kryeministrit dhe denoncojnë korrupsionin, oligarkinë dhe projektet e di",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T18:36:53+00:00",
+      "dateStr": "12 Jul, 18:36",
+      "isNew": true,
+      "id": "24 61783881413"
+    },
+    {
+      "title": "“Pseudo gazetar që nxin ekonominë”, biznesmeni Luca reagon ndaj Erebarës pas sulmit me komente negative",
+      "link": "https://24-ore.com/pseudo-gazetar-qe-nxin-ekonomine-biznesmeni-luca-reagon-ndaj-erebares-pas-sulmit-me-komente-negative/",
+      "description": "Biznesmeni i njohur Gjergj Luca ka reaguar ashpër ndaj gazetarit Gjergj Erebara, i cili në mënyrë kamikaze, po bën thirrje për vendosjen e komenteve negative ndaj bizneseve të tij dhe shumë të tjerëve. Luca, i cili është prekur nga kjo nismë, e cilëson atë një përpjekje për të dëmtuar biznesin dhe, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T18:29:57+00:00",
+      "dateStr": "12 Jul, 18:29",
+      "isNew": true,
+      "id": "24 71783880997"
+    },
+    {
+      "title": "RUSI – Shtatë të vrarë nga një sulm ukrainas në Enerhodar",
+      "link": "https://24-ore.com/rusi-shtate-te-vrare-nga-nje-sulm-ukrainas-ne-enerhodar/",
+      "description": "MOSKĒ, 12 korrik /ATSH-DPA/ – Të paktën shtatë persona humbën jetën dhe katër të tjerë u plagosën si pasojë e një sulmi ukrainas në qytetin e pushtuar nga Rusia, Enerhodar, në rajonin e Zaporizhas, sipas autoriteteve të vendosura nga Moska. Qyteti ndodhet pranë centralit bërthamor të Zaporizhas, më ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T18:28:50+00:00",
+      "dateStr": "12 Jul, 18:28",
+      "isNew": true,
+      "id": "24 81783880930"
+    },
+    {
+      "title": "Aksident i rëndë në aksin Gjirokastër-Tepelenë, maunia përplas motoristin",
+      "link": "https://24-ore.com/aksident-i-rende-ne-aksin-gjirokaster-tepelene-maunia-perplas-motoristin/",
+      "description": "Një aksident i rëndë rrugor është regjistruar pasditen e kësaj të diele në aksin Gjirokastër–Tepelenë, në afërsi të zonës së Viroit. Sipas informacioneve paraprake, në përplasje janë përfshirë një motomjet me targa greke, i drejtuar nga Jorland Koçi, dhe një kamion, me drejtues Edlir Kore. Si pasojë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T18:22:35+00:00",
+      "dateStr": "12 Jul, 18:22",
+      "isNew": true,
+      "id": "24 91783880555"
+    },
+    {
+      "title": "Identifikohen disa nga rekomanduesit e mijëra review-ve false kundër biznesit",
+      "link": "https://abcnews.al/identifikohen-disa-nga-rekomanduesit-e-mijera-review-ve-false-kunder-biznesit/",
+      "description": "Kallëzimet e para kanë mbërritur pranë Krimit Kibernetik në Policinë e Shtetit dhe një listë e gjatë personash janë denoncuar si shpërndarës të linkeve në rrjetet sociale ku rekomandonin review negative për bizneset, të urdhëruara nga drejtuesit e protestës në Tiranë. Tanimë është dokumentuar gjithç",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T18:22:06+00:00",
+      "dateStr": "12 Jul, 18:22",
+      "isNew": true,
+      "id": "abc11783880526"
+    },
+    {
+      "title": "Dita 43 e protestës, pamjet e para nga lart: Ja pjesëmarrja e qytetarëve",
+      "link": "https://abcnews.al/dita-43-e-protestes-pamjet-e-para-nga-lart-ja-pjesemarrja-e-qytetareve/",
+      "description": "Në kryeqytet po mbahet protesta e 43 e qytetarëve. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej” e më pas u zhvendosën drejt bulevardit “Dëshmorët e Kombit”, para godinës së kryeministrisë. Në video shihni pamjet reale të protestës, të siguruara nga ABC News, në orën 19:55./abcnews.al [",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T18:10:13+00:00",
+      "dateStr": "12 Jul, 18:10",
+      "isNew": true,
+      "id": "abc21783879813"
     },
     {
       "title": "Aksident në Tepelenë, përplasen dy automjete",
@@ -23,18 +155,7 @@
       "date": "2026-07-12T17:51:47+00:00",
       "dateStr": "12 Jul, 17:51",
       "isNew": true,
-      "id": "abc01783878707"
-    },
-    {
-      "title": "Anglia në gjysmëfinale, 12 nga 13 golat e shënuar mbajnë firmën e Kane dhe Bellingham",
-      "link": "https://24-ore.com/anglia-ne-gjysmefinale-12-nga-13-golat-e-shenuar-mbajne-firmen-e-kane-dhe-bellingham/",
-      "description": "Kombëtarja e Anglisë ka siguruar një vend në gjysmëfinalen e Kupës së Botës pas fitores 2-1 kundër Norvegjisë dhe do të përballet me Argjentinën më 15 korrik. Protagonistët kryesorë të këtij suksesi për skuadrën e drejtuar nga Thomas Tuchel janë Jude Bellingham dhe Harry Kane, të cilët kanë shënuar ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T17:41:00+00:00",
-      "dateStr": "12 Jul, 17:41",
-      "isNew": true,
-      "id": "24 11783878060"
+      "id": "abc31783878707"
     },
     {
       "title": "Protesta, Mile: Ndoshta mund të ketë grupime të lidhura me një agjendë anti-Trump",
@@ -45,29 +166,7 @@
       "date": "2026-07-12T17:39:02+00:00",
       "dateStr": "12 Jul, 17:39",
       "isNew": true,
-      "id": "abc11783877942"
-    },
-    {
-      "title": "Mbyllen 3 kapituj të integrimit, agjenda diplomatike e kryeministrit Rama në Bruksel dhe Paris",
-      "link": "https://24-ore.com/mbyllen-3-kapituj-te-integrimit-agjenda-diplomatike-e-kryeministrit-rama-ne-bruksel-dhe-paris-2/",
-      "description": "Kryeministri Edi Rama do të kryesojë delegacionin zyrtar shqiptar në konferencën ndërqeveritare me BE, më 14 korrik, ku do të zyrtarizohet mbyllja e 3 kapitujve të parë të negociatave. Brukseli konfirmoi zyrtarisht mbrëmjen e 14 korrikut, duke shënuar një moment shumë të rëndësishëm në diplomaci; ni",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T17:29:27+00:00",
-      "dateStr": "12 Jul, 17:29",
-      "isNew": true,
-      "id": "24 21783877367"
-    },
-    {
-      "title": "Gjatë 24 orëve janë privuar nga liria 22 shoferë për drejtim të pakujdesshëm të automjeteve",
-      "link": "https://24-ore.com/gjate-24-oreve-jane-privuar-nga-liria-22-shofere-per-drejtim-te-pakujdesshem-te-automjeteve/",
-      "description": "Nëpunës policorë gjatë 24 orëve të fundit në tërë territorin e shtetit kanë privuar nga liria 22 shoferë për shkak të “drejtimit të pakujdesshëm të automjetit motorik, kumtoi Ministria e Punëve të Brendshme. Prej tyre, 13 nga të cilët katër në Shkup, katër në Manastir, dy në Vinicë dhe nga një në Ku",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T17:26:17+00:00",
-      "dateStr": "12 Jul, 17:26",
-      "isNew": true,
-      "id": "24 31783877177"
+      "id": "abc41783877942"
     },
     {
       "title": "Koncerti i Kanye West/ Leka: Bonus për vendin, pati vizitorë të huaj. Protesta? E ka humbur identitetin",
@@ -78,73 +177,7 @@
       "date": "2026-07-12T17:23:50+00:00",
       "dateStr": "12 Jul, 17:23",
       "isNew": true,
-      "id": "abc21783877030"
-    },
-    {
-      "title": "Barcelona rrezikon të mbetet duarbosh, Atletico merr propozimin joshësh për Julian Alvarez",
-      "link": "https://24-ore.com/barcelona-rrezikon-te-mbetet-duarbosh-atletico-merr-propozimin-joshesh-per-julian-alvarez/",
-      "description": "Julian Alvarez më në fund u zhbllokua dhe gjeti golin e parë në këtë Kupë Bote, në fitoren e Argjentines 3-1 ndaj Zvicrës, në kohën shtesë. Ndërkohë, sulmuesi argjentinas vazhdon të jetë personazhi kryesor i merkatos. Tashmë dihet që dëshira e tij është të transferohet te Barcelona, gjë që duket e n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T17:16:17+00:00",
-      "dateStr": "12 Jul, 17:16",
-      "isNew": true,
-      "id": "24 41783876577"
-    },
-    {
-      "title": "Leo Messi i dhuron fanelën Roberto Baggios, pas fitores së Argjentinës ndaj Zvicrës",
-      "link": "https://24-ore.com/leo-messi-i-dhuron-fanelen-roberto-baggios-pas-fitores-se-argjentines-ndaj-zvicres/",
-      "description": "Argjentinasi Leo Messi i dha legjendës italiane të futbollit Roberto Baggios fanelën që ai veshi në çerekfinalen e Kupës së Botës kundër Zvicrës, një ndeshje në të cilën Argjentina fitoi 3-1. “Faleminderit Leo për dhuratën tënde të çmuar dhe për dashurinë tënde. Të dua shumë, miku im”, shkroi fitues",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T17:11:07+00:00",
-      "dateStr": "12 Jul, 17:11",
-      "isNew": true,
-      "id": "24 51783876267"
-    },
-    {
-      "title": "BRUKSEL – PE mesazh Serbisë: Normalizimi i raporteve me Kosovën, kyç për integrimin",
-      "link": "https://24-ore.com/bruksel-pe-mesazh-serbise-normalizimi-i-raporteve-me-kosoven-kyc-per-integrimin/",
-      "description": "&#8211; Parlamenti Evropian ka përsëritur se përparimi i Serbisë në rrugën drejt anëtarësimit në Bashkimin Evropian varet nga zbatimi i reformave në forcimin e standardeve demokratike dhe normalizimin e marrëdhënieve me Kosovën. Në një postim informues, institucioni evropian thekson se anëtarësimi n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T16:58:59+00:00",
-      "dateStr": "12 Jul, 16:58",
-      "isNew": true,
-      "id": "24 61783875539"
-    },
-    {
-      "title": "Kanye West: Faleminderit Edi Rama dhe gjithë Shqipërisë për mikpritjen në vendin tuaj të bukur",
-      "link": "https://24-ore.com/kanye-west-faleminderit-edi-rama-dhe-gjithe-shqiperise-per-mikpritjen-ne-vendin-tuaj-te-bukur/",
-      "description": "Reperi amerikan Kanye West, i njohur edhe me emrin artistik Ye, i cili performoi mbrëmjen e djeshme në koncertin në “Eagle Stadium” në Tiranë, ka shprehur falënderime për pritjen e rezervuar. Në një postim sot në rrjetet sociale, West shkruan: “Faleminderit Edi Rama dhe gjithë Shqipërisë për ndërtim",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T16:58:46+00:00",
-      "dateStr": "12 Jul, 16:58",
-      "isNew": true,
-      "id": "24 71783875526"
-    },
-    {
-      "title": "Rama: Koncerti i West i tregoi botës se Shqipëria është vend i sigurt për evente të mëdha dhe investime",
-      "link": "https://24-ore.com/rama-koncerti-i-west-i-tregoi-botes-se-shqiperia-eshte-vend-i-sigurt-per-evente-te-medha-dhe-investime/",
-      "description": "Kryeministri Edi Rama deklaroi sot se koncerti i Kanye West i tregoi botës se Shqipëria është një vend ku edhe kur ka protesta ka mikpritje, ka siguri dhe mund të organizohen ngjarje të mëdha me pasion dhe me profesionalizëm. Në një një videomesazh në rrjetet sociale, Rama tha se Shqipëria është një",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T16:58:32+00:00",
-      "dateStr": "12 Jul, 16:58",
-      "isNew": true,
-      "id": "24 81783875512"
-    },
-    {
-      "title": "Konfiskohen 13 licenca për kultivimin e kanabisit për qëllime mjekësore dhe 40 tonë marihuanë",
-      "link": "https://24-ore.com/konfiskohen-13-licenca-per-kultivimin-e-kanabisit-per-qellime-mjekesore-dhe-40-tone-marihuane/",
-      "description": "Ministria e Shëndetësisë në koordinim me MPB-në kanë përfunduar të gjitha kontrollet tek subjektet juridike të cilat kultivojnë kanabis për qëllime mjekësore. Siç njoftojnë nga Shëndetësia, janë konstatuar parregullsi të shumta nga dispozitat ligjore për kontroll të substancave psikotropike dhe drog",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T16:46:06+00:00",
-      "dateStr": "12 Jul, 16:46",
-      "isNew": true,
-      "id": "24 91783874766"
+      "id": "abc51783877030"
     },
     {
       "title": "Motori përplaset me kamionin në Gjirokastër-Kakavijë/ Plagoset 34-vjeçari, transportohet me helikopter drejt Tiranës",
@@ -155,7 +188,7 @@
       "date": "2026-07-12T16:41:43+00:00",
       "dateStr": "12 Jul, 16:41",
       "isNew": true,
-      "id": "abc31783874503"
+      "id": "abc61783874503"
     },
     {
       "title": "Kryeministrja ukrainase Yuliia Svyrydenko konfirmon dorëheqjen e saj",
@@ -166,7 +199,7 @@
       "date": "2026-07-12T16:39:01+00:00",
       "dateStr": "12 Jul, 16:39",
       "isNew": true,
-      "id": "abc41783874341"
+      "id": "abc71783874341"
     },
     {
       "title": "NewsHour me Sali Doçi, (12/07/2026)",
@@ -177,7 +210,7 @@
       "date": "2026-07-12T16:12:14+00:00",
       "dateStr": "12 Jul, 16:12",
       "isNew": true,
-      "id": "abc51783872734"
+      "id": "abc81783872734"
     },
     {
       "title": "Koncerti në Tiranë, Kanye West: Faleminderit Edi Rama dhe gjithë Shqipërisë për mikpritjen në vendin tuaj të bukur",
@@ -188,40 +221,117 @@
       "date": "2026-07-12T15:39:56+00:00",
       "dateStr": "12 Jul, 15:39",
       "isNew": true,
-      "id": "abc61783870796"
+      "id": "abc91783870796"
     },
     {
-      "title": "NewsHour me Fabiola Hoxha, (12/07/2026)",
-      "link": "https://abcnews.al/newshour-me-fabiola-hoxha-12-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
+      "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
+      "link": "https://www.lajme.al/rama-kerkon-mbledhje-urgjente-me-deputetet-e-ps-diten-e-shtune-zbulohet-agjenda/",
+      "description": "Kryeministri Edi Rama pritet paraditen e së shtunës të drejtojë mbledhjen e Grupit Parlamentar të Partisë Socialiste, ku do të marrin pjesë edhe ministrat. Gazetari Muhamed Veliu ka zbuluar agjendën e kësaj mbledhjeje, të cilën do ta nisë kreu i Grupit, Taulant Balla, vijuar nga fjala e Kryeministri",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-07-12T15:23:17+00:00",
-      "dateStr": "12 Jul, 15:23",
-      "isNew": true,
-      "id": "abc71783869797"
+      "date": "2026-06-19T18:05:35+00:00",
+      "dateStr": "19 Jun, 18:05",
+      "isNew": false,
+      "id": "laj01781892335"
     },
     {
-      "title": "“Ne i bombarduam me të gjitha forcat”/ Trump: SHBA dhe Irani ranë dakord për një marrëveshje dje para sulmeve të reja",
-      "link": "https://abcnews.al/ne-i-bombarduam-me-te-gjitha-forcat-trump-shba-dhe-irani-rane-dakord-per-nje-marreveshje-dje-para-sulmeve-te-reja/",
-      "description": "Donald Trump ka pretenduar se SHBA-të dhe Irani ranë dakord për një marrëveshje dje, por Irani e shkeli marrëveshjen &#8220;brenda një ore&#8221; kur qëlloi një dron drejt një anijeje. Duke folur për emisionin “Meet the Press” të NBC-së, presidenti amerikan tha se Irani bëri një marrëveshje në të ci",
-      "source": "ABC News",
+      "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
+      "link": "https://www.lajme.al/lajme-al-uron-te-gjithe-besimtaret-gezuar-kurban-bajramin/",
+      "description": "Urime festa e Kurban Bajramit! Gëzuar këtë festë të shenjtë dhe për shumë vite me paqe, shëndet e begati! Urojmë që kjo ditë e bekuar të sjellë qetësi në zemrat tona, harmoni në familje dhe dashuri mes njerëzve. Le të jetë një ditë që na afron më shumë me njëri-tjetrin, duke na kujtuar rëndësinë e [",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-07-12T15:01:28+00:00",
-      "dateStr": "12 Jul, 15:01",
-      "isNew": true,
-      "id": "abc81783868488"
+      "date": "2026-05-27T06:00:19+00:00",
+      "dateStr": "27 May, 06:00",
+      "isNew": false,
+      "id": "laj11779861619"
     },
     {
-      "title": "Newsline me Fabiola Hoxha, (12/07/2026)",
-      "link": "https://abcnews.al/newsline-me-fabiola-hoxha-12-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
+      "title": "Greqi: Flet babai i 19-vjeçares shqiptare: Humba jo engjëllin tim, por jetën time. Vajzën ma futën në kurth, e flakën pasi i bënë gjëra të tmerrshme!",
+      "link": "https://www.lajme.al/greqi-flet-babai-i-19-vjecares-shqiptare-humba-jo-engjellin-tim-por-jeten-time-vajzen-ma-futen-ne-kurth-e-flaken-pasi-i-bene-gjera-te-tmerrshme/",
+      "description": "Babai i 19-vjeçares që u gjet e pajetë në Kefaloni të Greqisë, foli sonte për mediat greke dhe tha se vajza e tij nuk kishte asnjë lidhje as me lëndë narkotike dhe as me alkool Trishtim i madh ka përfshirë Kefaloninë pas lajmit për vdekjen e 19-vjeçares shqiptare e identifikuar si Mirto, e cila u [&",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-07-12T14:26:56+00:00",
-      "dateStr": "12 Jul, 14:26",
-      "isNew": true,
-      "id": "abc91783866416"
+      "date": "2026-04-16T16:54:53+00:00",
+      "dateStr": "16 Apr, 16:54",
+      "isNew": false,
+      "id": "laj21776358493"
+    },
+    {
+      "title": "Gashi: Diasporës parapëlqej t’i them mërgatë, të krijojmë kushtet për rikthimin e tyre në vendlindje",
+      "link": "https://www.lajme.al/gashi-diaspores-parapelqej-ti-them-mergate-te-krijojme-kushtet-per-rikthimin-e-tyre-ne-vendlindje/",
+      "description": "Kryetari i Kuvendit të Maqedonisë së Veriut, Afrim Gashi, ka theksuar rëndësinë e diasporës dhe nevojën për forcimin e lidhjeve me qytetarët që jetojnë jashtë vendit. Në fjalën e mbajtur në Samitin e IV të Diasporës, Gashi e cilësoi diasporën si një pjesë të pandashme të identitetit, duke u shprehur",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-04-14T14:24:35+00:00",
+      "dateStr": "14 Apr, 14:24",
+      "isNew": false,
+      "id": "laj31776176675"
+    },
+    {
+      "title": "Fitër Bajrami – Festë e Besimit, Mirësisë dhe Solidaritetit",
+      "link": "https://www.lajme.al/fiter-bajrami-feste-e-besimit-miresise-dhe-solidaritetit/",
+      "description": "Me përfundimin e muajit të Ramazanit, besimtarët myslimanë anembanë botës festojnë Fitër Bajramin – një nga festat më të rëndësishme në kalendarin islam. Kjo ditë e shënuar është një moment falënderimi ndaj Zotit, reflektimi për muajin që lamë pas, si dhe një rast për të ndarë gëzim dhe dashuri me t",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-03-20T00:03:28+00:00",
+      "dateStr": "20 Mar, 00:03",
+      "isNew": false,
+      "id": "laj41773965008"
+    },
+    {
+      "title": "Albano Bogdo pranon publikisht: “Kam kryer marrëdhënie me një ish-banore të BBV Albania”",
+      "link": "https://www.lajme.al/albano-bogdo-pranon-publikisht-kam-kryer-marredhenie-me-nje-ish-banore-te-bbv-albania/",
+      "description": "Aktori i njohur i humorit, Albano Bogdo, ka bërë një deklaratë të papritur gjatë pjesëmarrjes së tij në emisionin “Andale”. Gjatë një loje me pyetje provokuese, u lexua pohimi: “Kam bërë marrëdhënie seksuale me një ish-banore që ka qenë në Big Brother Vip Albania”. Pa hezituar, Albano ngriti menjëhe",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-25T16:28:58+00:00",
+      "dateStr": "25 Feb, 16:28",
+      "isNew": false,
+      "id": "laj51772036938"
+    },
+    {
+      "title": "Del FOTO e rrallë nga arkiva: Ja si dukej Brikena e BBVA para famës",
+      "link": "https://www.lajme.al/del-foto-e-rralle-nga-arkiva-ja-si-dukej-brikena-e-bbva-para-fames/",
+      "description": "Brikena Selmani është kthyer padyshim në një nga banoret më të komentuara dhe që ka tërhequr vëmendjen në këtë edicion të “Big Brother VIP Albania”, jo vetëm për dinamikat në lojë, por edhe për pamjen e saj. Por, duket se sharmi i modeles daton shumë më herët se dritat e famës televizive. Në rrjetet",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-25T12:23:06+00:00",
+      "dateStr": "25 Feb, 12:23",
+      "isNew": false,
+      "id": "laj61772022186"
+    },
+    {
+      "title": "LAJM I FUNDIT! Tërmeti shkund Shqipërinë!",
+      "link": "https://www.lajme.al/lajm-i-fundit-termeti-shkund-shqiperine/",
+      "description": "Elbasani u trondit këtë të martë pasdite nga një tërmet i papritur. Sipas raportimeve të para, lekundjet u ndjenw me intensite. Sipas të dhënave të fundit, një tërmet me magnitudë 4.3 të shkallës Rihter ka goditur Shqipërinë mbrëmjen e sotme, më 24 shkurt 2026. Lëkundjet u regjistruan rreth orës 20:",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-24T19:16:36+00:00",
+      "dateStr": "24 Feb, 19:16",
+      "isNew": false,
+      "id": "laj71771960596"
+    },
+    {
+      "title": "Diss për Xhensilën? Bes Kallaku publikon këngën e re: “Mes meje dhe teje, dihet kush ishte thëngjilli”",
+      "link": "https://www.lajme.al/diss-per-xhensilen-bes-kallaku-publikon-kengen-e-re-mes-meje-dhe-teje-dihet-kush-ishte-thengjilli/",
+      "description": "Aktori dhe këngëtari Bes Kallaku ka tërhequr vëmendjen e të gjithë ndjekësve me projektin e tij më të fundit muzikor, një këngë mjaft personale që ngjan me një rrëfim të hapur për ulje-ngritjet e jetës së tij. Menjëherë pas publikimit, rrjeti ka nisur të ziejë nga aludimet se disa prej rreshtave më ",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-24T19:11:16+00:00",
+      "dateStr": "24 Feb, 19:11",
+      "isNew": false,
+      "id": "laj81771960276"
+    },
+    {
+      "title": "Momenti viral: Takimi i DJ Gimbos me Egli Takon, çfarë u tha mes tyre?",
+      "link": "https://www.lajme.al/momenti-viral-takimi-i-dj-gimbos-me-egli-takon-cfare-u-tha-mes-tyre/",
+      "description": "Mbrëmjen e djeshme, e ftuar në Big Brother VIP Albania ishte ish-banorja Egli Tako, si pjesë e jurisë së “Miss &#38; Mister Big Brother”. Megjithatë, momenti që mori më shumë vëmendje në rrjet ishte takimi i saj me DJ Gimbon, mikun e ngushtë të Gjestit. Përshëndetja mes tyre ishte e ngrohtë dhe e af",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-24T16:13:31+00:00",
+      "dateStr": "24 Feb, 16:13",
+      "isNew": false,
+      "id": "laj91771949611"
     }
   ]
 }
