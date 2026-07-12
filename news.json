@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-12T21:43:24.298178+00:00",
+  "lastUpdated": "2026-07-12T22:41:54.941444+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Alarm për sigurinë në Kosovë: 9 vrasje në pesë muaj, kërkohen masa urgjente",
+      "link": "https://24-ore.com/alarm-per-sigurine-ne-kosove-9-vrasje-ne-pese-muaj-kerkohen-masa-urgjente/",
+      "description": "Pas plagosjes që ndodhi në qendër të Podujevës e ku u përdorën armët e zjarrit, po kërkohet që institucionet e shtetit të ndërmarrin masa parandaluese. Brenda 5 muajve të parë të këtij viti, në Kosovë ndodhën 9 vrasje. Rastet e lëndimeve të lehta trupore dhe posedimit të armëve në rajonin e Ferizajt",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T21:51:11+00:00",
+      "dateStr": "12 Jul, 21:51",
+      "isNew": true,
+      "id": "24 01783893071"
+    },
     {
       "title": "Qytetarja publikon gjendjen në Pediatrinë e QKUK-së: Nuk po kërkojmë luks, por minimumin",
       "link": "https://24-ore.com/qytetarja-publikon-gjendjen-ne-pediatrine-e-qkuk-se-nuk-po-kerkojme-luks-por-minimumin/",
@@ -12,7 +23,7 @@
       "date": "2026-07-12T21:36:30+00:00",
       "dateStr": "12 Jul, 21:36",
       "isNew": true,
-      "id": "24 01783892190"
+      "id": "24 11783892190"
     },
     {
       "title": "Qe 5 vjet, 15 qytetarë në pritje për trajtim mjekësor jashtë vendit",
@@ -23,7 +34,7 @@
       "date": "2026-07-12T21:01:06+00:00",
       "dateStr": "12 Jul, 21:01",
       "isNew": true,
-      "id": "24 11783890066"
+      "id": "24 21783890066"
     },
     {
       "title": "Botërori “njeh” gjysmëfinalet/ Pano: Të katër ekipet, pretendente që në fillim. Mneri: Argjentina ka pasur vështirësi",
@@ -45,7 +56,7 @@
       "date": "2026-07-12T20:31:51+00:00",
       "dateStr": "12 Jul, 20:31",
       "isNew": true,
-      "id": "24 21783888311"
+      "id": "24 31783888311"
     },
     {
       "title": "Serwer: BE e SHBA duhet ta ndëshkojnë Serbinë për ta zhbllokuar Kosovën",
@@ -56,7 +67,7 @@
       "date": "2026-07-12T20:31:31+00:00",
       "dateStr": "12 Jul, 20:31",
       "isNew": true,
-      "id": "24 31783888291"
+      "id": "24 41783888291"
     },
     {
       "title": "Studiuesi Tare: Rama ka bërë për Kurveleshin atë që asnjë qeveri s’e bëri në 100 vjet! Duhet të punohet për turizmin kapilar",
@@ -67,7 +78,7 @@
       "date": "2026-07-12T20:22:33+00:00",
       "dateStr": "12 Jul, 20:22",
       "isNew": true,
-      "id": "24 41783887753"
+      "id": "24 51783887753"
     },
     {
       "title": "21-vjeçari shqiptar në Itali akuzohet për abuzim ndaj turistes gjermane: Më dehu dhe përfitoi",
@@ -78,7 +89,7 @@
       "date": "2026-07-12T20:22:16+00:00",
       "dateStr": "12 Jul, 20:22",
       "isNew": true,
-      "id": "24 51783887736"
+      "id": "24 61783887736"
     },
     {
       "title": "Nga Trump, tek Meloni: Në Iran publikohet “lista e hakmarrjes”",
@@ -89,7 +100,7 @@
       "date": "2026-07-12T20:21:56+00:00",
       "dateStr": "12 Jul, 20:21",
       "isNew": true,
-      "id": "24 61783887716"
+      "id": "24 71783887716"
     },
     {
       "title": "Nuk mjafton lufta në Iran: “Super El Niño” mund të shkaktojë rritje të çmimeve të ushqimeve deri në vitin 2028",
@@ -100,7 +111,7 @@
       "date": "2026-07-12T20:21:44+00:00",
       "dateStr": "12 Jul, 20:21",
       "isNew": true,
-      "id": "24 71783887704"
+      "id": "24 81783887704"
     },
     {
       "title": "Sulmet me dronë ukrainas e detyrojnë Rusinë të pezullojë transportin detar në Detin e Azov",
@@ -122,18 +133,7 @@
       "date": "2026-07-12T20:12:05+00:00",
       "dateStr": "12 Jul, 20:12",
       "isNew": true,
-      "id": "24 81783887125"
-    },
-    {
-      "title": "Kim Kardashian dhe Lewis Hamilton drejt ndarjes?",
-      "link": "https://24-ore.com/kim-kardashian-dhe-lewis-hamilton-drejt-ndarjes/",
-      "description": "Spekulimet për një ndarje mes Kim Kardashian dhe Lewis Hamilton kanë pushtuar rrjetet sociale, pasi fansat vunë re një detaj që, sipas tyre, mund të tregojë fundin e marrëdhënies së çiftit. Gjithçka nisi kur përdorues të Instagramit pretenduan se Kardashian dhe Hamilton nuk e ndjekin më njëri-tjetri",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-12T20:02:16+00:00",
-      "dateStr": "12 Jul, 20:02",
-      "isNew": true,
-      "id": "24 91783886536"
+      "id": "24 91783887125"
     },
     {
       "title": "Vrasja në Vorë/ Del foto, ky është viktima Edmond Sula. 50-vjeçari u qëllua me plumb në shpinë",
