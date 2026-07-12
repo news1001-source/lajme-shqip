@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-07-12T02:20:40.984453+00:00",
+  "lastUpdated": "2026-07-12T05:52:37.636701+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Horoskopi, 12 korrik 2026",
+      "link": "https://abcnews.al/horoskopi-12-korrik-2026/",
+      "description": "♈ Dashi Kalimi i Hënës në Akrep sjell emocione të forta dhe ndjesi të thella, sidomos në mbrëmje. Është koha për të lënë mënjanë kontrollin e tepërt dhe për të ndjekur instinktin. Kujdes nga ndryshimet e humorit që mund t’ju bëjnë të reagoni pa arsye. Në marrëdhënie, hapuni më shumë dhe tregoni çfar",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-12T05:04:48+00:00",
+      "dateStr": "12 Jul, 05:04",
+      "isNew": true,
+      "id": "abc01783832688"
+    },
+    {
+      "title": "Krim i rëndë në Vorë, vritet në rrugë pas mesnate një 50-vjeçar",
+      "link": "https://24-ore.com/krim-i-rende-ne-vore-vritet-ne-rruge-pas-mesnate-nje-50-vjecar/",
+      "description": "Një 50-vjeçar është vrarë me armë zjarri gjatë natës në fshatin Bërxullë të Vorës. Ngjarja është regjistruar rreth orës 00:10, ndërsa viktima, shtetasi E(A). S., dyshohet se është qëlluar teksa lëvizte në këmbë në rrugë. Policia ka ngritur një grup të posaçëm hetimor nën drejtimin e Prokurorisë, i c",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T04:29:51+00:00",
+      "dateStr": "12 Jul, 04:29",
+      "isNew": true,
+      "id": "24 01783830591"
+    },
+    {
+      "title": "BOTËRORI 2026 – Anglia mposht Norvegjinë dhe shkon në gjysmëfinale",
+      "link": "https://24-ore.com/boterori-2026-anglia-mposht-norvegjine-dhe-shkon-ne-gjysmefinale/",
+      "description": "MIAMI, 12 korrik /ATSH-AFP-DPA/ – Anglia u kualifikua për në gjysmëfinalet e Kupës së Botës duke mposhtur Norvegjinë 2-1 pas kohës shtesë, sot në Miami, dhe do të përballet me Argjentinën ose Zvicrën të mërkurën për një vend në finale. E mbetur në disavantazh pasi Andreas Schjelderup hapi rezultatin",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T04:28:52+00:00",
+      "dateStr": "12 Jul, 04:28",
+      "isNew": true,
+      "id": "24 11783830532"
+    },
+    {
+      "title": "Bellingham dërgon Anglinë në gjysmëfinale, merr fund ëndrra e Norvegjisë",
+      "link": "https://24-ore.com/bellingham-dergon-angline-ne-gjysmefinale-merr-fund-endrra-e-norvegjise/",
+      "description": "Anglia ka siguruar kualifikimin për në gjysmëfinalen e Botërorit. “Tre Luanët” triumfuan 2-1 me përmbysje ndaj Norvegjisë, pas shtesave, falë dopietës së Jude Bellingham. Koha e rregullt u mbyll në barazim 1-1, me anglezët që shpëtuan me fat në disa raste. Schjelderup i dha avantazhin Norvegjisë në ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T04:26:22+00:00",
+      "dateStr": "12 Jul, 04:26",
+      "isNew": true,
+      "id": "24 21783830382"
+    },
+    {
+      "title": "Argjentina kualifikohet me vuajtje në gjysmëfinale, Zvicra largohet me kokën lart",
+      "link": "https://24-ore.com/argjentina-kualifikohet-me-vuajtje-ne-gjysmefinale-zvicra-largohet-me-koken-lart/",
+      "description": "Argjentina është kualifikuar në gjysmëfinalen e Botërorit me shumë vuajtje. Kampionët në fuqi triumfuan 3-1 ndaj Zvicrës, pas shtesave. Koha e rregullt nuk prodhoi fitues, pasi u mbyll në barazim 1-1. Argjentina e nisi në mënyrën më të mirë të mundshme, duke gjetur avantazhin që në minutën e 10-të m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-12T04:26:08+00:00",
+      "dateStr": "12 Jul, 04:26",
+      "isNew": true,
+      "id": "24 31783830368"
+    },
     {
       "title": "Vrasje në Vorë/ 50 vjeçari qëllohet për vdekje me armë zjarri",
       "link": "https://abcnews.al/vrasje-ne-vore-50-vjecari-qellohet-per-vdekje-me-arme-zjarri/",
@@ -12,7 +67,7 @@
       "date": "2026-07-11T23:11:18+00:00",
       "dateStr": "11 Jul, 23:11",
       "isNew": true,
-      "id": "abc01783811478"
+      "id": "abc11783811478"
     },
     {
       "title": "​Të dielën s’ka kufizim të qarkullimit për automjetet e transportit mbi 20 tonë",
@@ -23,7 +78,7 @@
       "date": "2026-07-11T22:00:55+00:00",
       "dateStr": "11 Jul, 22:00",
       "isNew": true,
-      "id": "24 01783807255"
+      "id": "24 41783807255"
     },
     {
       "title": "“Protesta e humbi kauzën kur u politizua”, Petraj: Ajo e 4 korrikut ishte “protesta e turpit”, u shfaq antiamerikanizëm!",
@@ -34,7 +89,7 @@
       "date": "2026-07-11T21:45:18+00:00",
       "dateStr": "11 Jul, 21:45",
       "isNew": true,
-      "id": "abc11783806318"
+      "id": "abc21783806318"
     },
     {
       "title": "Thaçi offers 50 thousand euros as bail for conditional release from The Hague",
@@ -45,7 +100,7 @@
       "date": "2026-07-11T21:41:03+00:00",
       "dateStr": "11 Jul, 21:41",
       "isNew": true,
-      "id": "24 11783806063"
+      "id": "24 51783806063"
     },
     {
       "title": "Analistët: Qeveria mund të formohet shpejt, por një tjetër betejë politike sapo ka nisur",
@@ -56,7 +111,7 @@
       "date": "2026-07-11T21:40:50+00:00",
       "dateStr": "11 Jul, 21:40",
       "isNew": true,
-      "id": "24 21783806050"
+      "id": "24 61783806050"
     },
     {
       "title": "Begaj’s visit to the Valley, Fetoshi: They are fabricating the “Albanian World” to justify the “Serbian World”",
@@ -67,7 +122,7 @@
       "date": "2026-07-11T21:35:56+00:00",
       "dateStr": "11 Jul, 21:35",
       "isNew": true,
-      "id": "24 31783805756"
+      "id": "24 71783805756"
     },
     {
       "title": "Kurti – Hamza – Abdixhiku meetings, reaching an agreement is considered difficult",
@@ -78,7 +133,7 @@
       "date": "2026-07-11T21:35:37+00:00",
       "dateStr": "11 Jul, 21:35",
       "isNew": true,
-      "id": "24 41783805737"
+      "id": "24 81783805737"
     },
     {
       "title": "“Protesta ka sfumuar opozitën”, Alesia Balliu: Qytetarët kërkojnë largimin e Berishës nga politika",
@@ -89,7 +144,7 @@
       "date": "2026-07-11T21:33:15+00:00",
       "dateStr": "11 Jul, 21:33",
       "isNew": true,
-      "id": "abc21783805595"
+      "id": "abc31783805595"
     },
     {
       "title": "Po ju, e doni Shqipërinë?",
@@ -100,7 +155,7 @@
       "date": "2026-07-11T21:32:46+00:00",
       "dateStr": "11 Jul, 21:32",
       "isNew": true,
-      "id": "abc31783805566"
+      "id": "abc41783805566"
     },
     {
       "title": "Dita e 42-të, nis marshimi i qytetarëve, gazetarja tregon intenerarin e rrugëve ku do të protestohet",
@@ -111,51 +166,7 @@
       "date": "2026-07-11T21:23:39+00:00",
       "dateStr": "11 Jul, 21:23",
       "isNew": true,
-      "id": "24 51783805019"
-    },
-    {
-      "title": "Skenë madhështore dhe pjesëmarrje masive, pamje nga koncerti i Kanye West në Tiranë",
-      "link": "https://24-ore.com/skene-madheshtore-dhe-pjesemarrje-masive-pamje-nga-koncerti-i-kanye-west-ne-tirane/",
-      "description": "Këngëtari i njohur amerikan Kanye West nisi të performojë rreth orës 21:15, duke ndezur skenën. Gjatë performancës, artisti solli në repertor hitet e tij ndër vite. Publiku u shfaq mjaft entuziast duke e shoqeruar reperin me këngë dhe duartrokitje. Ajo çfarë u vu re ishte skenografia e veçantë, efek",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T21:23:20+00:00",
-      "dateStr": "11 Jul, 21:23",
-      "isNew": true,
-      "id": "24 61783805000"
-    },
-    {
-      "title": "Dy automjete përplasen në aksin Elbasan–Librazhd, një grua bllokohet në mjet",
-      "link": "https://24-ore.com/dy-automjete-perplasen-ne-aksin-elbasan-librazhd-nje-grua-bllokohet-ne-mjet/",
-      "description": "Dy automjete janë përplasur në aksin rrugor Elbasan–Librazhd, në afërsi të fshatit Mirakë. Aksidenti ka ndodhur në korsinë e Korridorit VIII, e cila ende nuk është hapur për qarkullimin e automjeteve. Si pasojë e përplasjes, një grua ka mbetur e bllokuar brenda njërit prej mjeteve. Për nxjerrjen e s",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T21:23:00+00:00",
-      "dateStr": "11 Jul, 21:23",
-      "isNew": true,
-      "id": "24 71783804980"
-    },
-    {
-      "title": "“Tirona o nona”, Rama ndan pamje nga koncerti “YE”: Shqipëri e bukur europiane",
-      "link": "https://24-ore.com/tirona-o-nona-rama-ndan-pamje-nga-koncerti-ye-shqiperi-e-bukur-europiane/",
-      "description": "Kryeministri Edi Rama përmes një postimi në “Facebook” ka ndarë pamje nga konceri “YE” i Kanye West në Kashar. Rama shkruan se në këtë koncert marrin pjesë 80 kombësi teksa shton se Shqipëria është e bukur dhe Evropiane. “SHQIPËRI e Bukur EUROPIANE, Tirona O nona. 80 kombësi ka rreth asaj vatre”, sh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T21:22:40+00:00",
-      "dateStr": "11 Jul, 21:22",
-      "isNew": true,
-      "id": "24 81783804960"
-    },
-    {
-      "title": "Vrasja në Shkodër, flet i afërmi i viktimës: Konfliktin e dinë të gjithë, është ruajtur",
-      "link": "https://24-ore.com/vrasja-ne-shkoder-flet-i-afermi-i-viktimes-konfliktin-e-dine-te-gjithe-eshte-ruajtur/",
-      "description": "Një i afërm i viktimës që u vra këtë të shtunë në Shkodër ka folur për mediat. Mark Koçeku ka deklaruar se viktima Aleksandër Koçeku kishte një konflikt që dihet edhe nga shteti dhe mediat. Ai theksoi se nuk ka dyshime për ndonjë ngjarje tjetër teksa tha se viktima është ruajtur por i është dashur [",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-11T21:22:24+00:00",
-      "dateStr": "11 Jul, 21:22",
-      "isNew": true,
-      "id": "24 91783804944"
+      "id": "24 91783805019"
     },
     {
       "title": "Djali i kushëririt iu vra në atentat/ I afërmi: Konflikti ynë dihet nga të gjithë, Aleksandri punonte në furrë buke",
@@ -166,7 +177,7 @@
       "date": "2026-07-11T21:16:06+00:00",
       "dateStr": "11 Jul, 21:16",
       "isNew": true,
-      "id": "abc41783804566"
+      "id": "abc51783804566"
     },
     {
       "title": "Atentati në Shkodër/ Makina e bërë shoshë, pamjet nga vendi ku u gjet i vdekur Aleksandër Koçeku",
@@ -177,7 +188,7 @@
       "date": "2026-07-11T21:00:05+00:00",
       "dateStr": "11 Jul, 21:00",
       "isNew": true,
-      "id": "abc51783803605"
+      "id": "abc61783803605"
     },
     {
       "title": "Franca apo Spanja, cila është favoritja? Mneri: “Gjelat” nxjerrin raste nga hiçi. Tahiri: Spanjollët nuk më bindin",
@@ -188,7 +199,7 @@
       "date": "2026-07-11T20:46:14+00:00",
       "dateStr": "11 Jul, 20:46",
       "isNew": true,
-      "id": "abc61783802774"
+      "id": "abc71783802774"
     },
     {
       "title": "‘Tirona o nona’, Rama publikon pamjet nga koncerti i West: Shqipëri e bukur europiane",
@@ -199,7 +210,7 @@
       "date": "2026-07-11T20:10:01+00:00",
       "dateStr": "11 Jul, 20:10",
       "isNew": true,
-      "id": "abc71783800601"
+      "id": "abc81783800601"
     },
     {
       "title": "Kanye ndez Tiranën: Minutat e fundit para fillimit të koncertit. Me mijëra fansa në ‘Eagle Stadium’",
@@ -210,18 +221,7 @@
       "date": "2026-07-11T19:24:52+00:00",
       "dateStr": "11 Jul, 19:24",
       "isNew": true,
-      "id": "abc81783797892"
-    },
-    {
-      "title": "Edicioni qendror me Emilian Islamin, (11/07/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-emilian-islamin-11-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-11T19:20:14+00:00",
-      "dateStr": "11 Jul, 19:20",
-      "isNew": true,
-      "id": "abc91783797614"
+      "id": "abc91783797892"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
