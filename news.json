@@ -1,29 +1,194 @@
 {
-  "lastUpdated": "2026-07-13T20:09:55.972602+00:00",
+  "lastUpdated": "2026-07-13T21:51:56.050485+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Tërhiqet nga rendi i ditës propozimi për emërtimin e rrugëve në Tetovë, këshilltarët e BDI-së nuk u kthyen në seancë",
-      "link": "https://24-ore.com/terhiqet-nga-rendi-i-dites-propozimi-per-emertimin-e-rrugeve-ne-tetove-keshilltaret-e-bdi-se-nuk-u-kthyen-ne-seance/",
-      "description": "Propozimi për emërtimin e 67 rrugëve në Tetovë është tërhequr nga rendi i ditës në seancën e Këshillit Komunal. Vendimi u miratua me 20 vota “për”, pa asnjë votë “kundër” dhe pa asnjë të përmbajtur. Në vazhdimin e seancës u rikthye vetëm koordinatori i grupit të këshilltarëve të BDI-së, Berat Murati",
-      "source": "24 ORE",
+      "title": "“Kallëzimi i PD, pa bazë ligjore dhe absurde”, Avokati: Koncerti promovoi Shqipërinë dhe turizmin",
+      "link": "https://abcnews.al/kallezimi-i-pd-pa-baze-ligjore-dhe-absurde-avokati-koncerti-promovoi-shqiperine-dhe-turizmin/",
+      "description": "Avokati Idajet Beqiri ka komentuar kallëzimin e bërë nga PD lidhur me organizimin e koncertit, duke e cilësuar atë si të pabazë dhe me motive politike. Sipas Beqirit, koncerti i ka shërbyer promovimit të Shqipërisë dhe turizmit, ndërsa solli vëmendje pozitive në mediat ndërkombëtare. Avokati deklaro",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-07-13T20:06:57+00:00",
-      "dateStr": "13 Jul, 20:06",
+      "date": "2026-07-13T21:38:28+00:00",
+      "dateStr": "13 Jul, 21:38",
       "isNew": true,
-      "id": "24 01783973217"
+      "id": "abc01783978708"
     },
     {
-      "title": "Angli – Argjentinë: kush ka avantazhin për vendin në finalen e Botërorit?",
-      "link": "https://24-ore.com/angli-argjentine-kush-ka-avantazhin-per-vendin-ne-finalen-e-boterorit/",
-      "description": "Anglia dhe Argjentina përballen të mërkurën në Atlanta për vendin në finalen e Kupës së Botës, dy skuadra që kanë mbërritur në gjysmëfinale përmes rrugësh dhe me forca të ndryshme. Një vend në finale rrit gjithashtu presionin dhe rëndësinë e çdo detaji në këtë përballje. Sipas sports.yahoo, krahasim",
+      "title": "Declan Rice në dyshim për gjysmëfinalen e Kupës së Botës pas sëmundjes",
+      "link": "https://24-ore.com/declan-rice-ne-dyshim-per-gjysmefinalen-e-kupes-se-botes-pas-semundjes/",
+      "description": "Mesfushori Declan Rice mbetet në dyshim për të nisur gjysmëfinalen e Kupës së Botës kundër Argjentinës, ndërsa Anglia do të vendosë në momentet e fundit për pjesëmarrjen e tij në ndeshje. Sipas bbc, Rice u tërhoq në pushim gjatë fitorës 2-1 pas kohëve shtesë ndaj Norvegjisë në Miami dhe trajneri Th",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-13T20:03:24+00:00",
-      "dateStr": "13 Jul, 20:03",
+      "date": "2026-07-13T21:31:45+00:00",
+      "dateStr": "13 Jul, 21:31",
       "isNew": true,
-      "id": "24 11783973004"
+      "id": "24 01783978305"
+    },
+    {
+      "title": "Përballja Argjentinë-Angli: lidhjet e forta të përfaqësueses argjentinase me Premier League",
+      "link": "https://24-ore.com/perballja-argjentine-angli-lidhjet-e-forta-te-perfaqesueses-argjentinase-me-premier-league/",
+      "description": "Argjentina që do të ndeshet me Anglinë në gjysmëfinalen e Kupës së Botës në Atlanta mbërrin e përbërë nga shumë lojtarë në klubet më të njohura të Anglisë. Mes të përzgjedhurve janë portieri Emiliano Martínez, qendërmbrojtësit Cristian Romero dhe Lisandro Martínez, si dhe mesfushorët Alexis Mac Alli",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-13T21:27:21+00:00",
+      "dateStr": "13 Jul, 21:27",
+      "isNew": true,
+      "id": "24 11783978041"
+    },
+    {
+      "title": "Cristiano Ronaldo mbyll një epokë me kombëtaren e Portugalisë",
+      "link": "https://24-ore.com/cristiano-ronaldo-mbyll-nje-epoke-me-kombetaren-e-portugalise/",
+      "description": "Cristiano Ronaldo pranoi fundin e udhëtimit të tij të fundit në Kupën e Botës pas humbjes 1-0 ndaj Spanjës në 1/8-at e finales, një përfundim i qetë dhe larg festimeve që shpesh përcaktojnë karrierat më të mëdha në sport. Sipas sports.yahoo, edhe pse Ronaldo mbetet golashënuesi më i madh në historin",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-13T21:13:18+00:00",
+      "dateStr": "13 Jul, 21:13",
+      "isNew": true,
+      "id": "24 21783977198"
+    },
+    {
+      "title": "Costa përshëndet mbylljen e kapitujve / Presidenti i Këshillit të BE: Progres i qartë dhe hap më pranë Unionit për Shqipërinë",
+      "link": "https://abcnews.al/costa-pershendet-mbylljen-e-kapitujve-presidenti-i-keshillit-te-be-progres-i-qarte-dhe-hap-me-prane-unionit-per-shqiperine/",
+      "description": "Presidenti i Keshillit te BE, Antonio Costa ka pershendetur mbylljen e 3 grupkapitujve te negociatave per Shqiperine. Sipas Costas, ky eshte nje progres i qarte dhe hap me prane BE per Shqiperine, kurse nga ana tjeter Brukseli po mban ritmin e momentit per rrugetimin e anetaresimit ne BE. Ne statusi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-13T21:13:17+00:00",
+      "dateStr": "13 Jul, 21:13",
+      "isNew": true,
+      "id": "abc11783977197"
+    },
+    {
+      "title": "Hoti: Serbia ende s’është çliruar nga ideologjia gjenocidale e Millosheviqit",
+      "link": "https://24-ore.com/hoti-serbia-ende-seshte-cliruar-nga-ideologjia-gjenocidale-e-millosheviqit/",
+      "description": "Ministri në detyrë i Ministrisë për Punë, Familje dhe Vlerat e Luftës Çlirimtare, Andin Hoti, i është kundërpërgjigjur ministres së Administratës Publike dhe Vetëqeverisjes Lokale në Qeverinë e Serbisë, Snezhana Paunoviq, pasi ajo deklaroi se, po të kishte qenë në vend të Sllobodan Millosheviqit në ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-13T21:01:18+00:00",
+      "dateStr": "13 Jul, 21:01",
+      "isNew": true,
+      "id": "24 31783976478"
+    },
+    {
+      "title": "“Më vodhët votat, nuk frymëzoni”, ish-aleati i Berishës përplaset me Telitin",
+      "link": "https://24-ore.com/me-vodhet-votat-nuk-frymezoni-ish-aleati-i-berishes-perplaset-me-telitin/",
+      "description": "Një debat i fortë u zhvillua mes kreut të PDK-së, Nard Ndoka, ish-aleat i Sali Berishës dhe anëtarit të Kryesisë së Partisë Demokratike, Dorjan Teliti, teksa diskutuan në emisionin “Off the Record” në A2CNN mbi gjendjen e opozitës dhe funksionimin e Partisë Demokratike. Ndoka i kërkoi Telitit që PD-",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-13T21:01:09+00:00",
+      "dateStr": "13 Jul, 21:01",
+      "isNew": true,
+      "id": "24 41783976469"
+    },
+    {
+      "title": "Del traileri i “Digger”/ Tom Cruise siç nuk e keni parë asnjëherë",
+      "link": "https://24-ore.com/del-traileri-i-digger-tom-cruise-sic-nuk-e-keni-pare-asnjehere/",
+      "description": "Traileri i parë i plotë i “Digger”, filmi shumë i pritur komedi-dramë i regjisorit Alejandro González Iñárritu u publikua këtë të hënë. Publiku ka parë një anë të panjohur të Tom Cruise. Filmi do të dalë në mbarë botën në fillim të tetorit dhe Cruise luan rolin e Digger Rockwell, &#8220;njeriu më i ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-13T21:00:19+00:00",
+      "dateStr": "13 Jul, 21:00",
+      "isNew": true,
+      "id": "24 51783976419"
+    },
+    {
+      "title": "Rama ndan pamje nga darka zyrtare me Macron në kuadër të Samitit të Koalicionit të Vullnetmirëve",
+      "link": "https://abcnews.al/rama-ndan-pamje-nga-darka-zyrtare-me-macron-ne-kuader-te-samitit-te-koalicionit-te-vullnetmireve/",
+      "description": "Kryeministri Edi Rama ka ndarë në rrjetet sociale pamje nga darka zyrtare me Presidentin e Francës, Emmanuel Macron, në kuadër të Samitit të Koalicionit të Vullnetmirëve. Në postimin e tij në Facebook, Rama ka publikuar momentet nga takimi me liderët pjesëmarrës në këtë samit. [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-13T21:00:11+00:00",
+      "dateStr": "13 Jul, 21:00",
+      "isNew": true,
+      "id": "abc21783976411"
+    },
+    {
+      "title": "FRANCË – Macron: Aleatët e koalicionit manovra ushtarake në vendet që kufizohen me Ukrainën",
+      "link": "https://24-ore.com/france-macron-aleatet-e-koalicionit-manovra-ushtarake-ne-vendet-qe-kufizohen-me-ukrainen/",
+      "description": "PARIS, 13 korrik /ATSH-DPA/ – Koalicioni i të Gatshëmve, një grup vendesh perëndimore që mbështesin mbrojtjen e Ukrainës kundër Rusisë, planifikon të zhvillojë manovra të përbashkëta ushtarake në vendet që kufizohen me Ukrainën në muajt e ardhshëm, si pjesë e përgatitjeve për një forcë mbështetëse s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-13T20:59:27+00:00",
+      "dateStr": "13 Jul, 20:59",
+      "isNew": true,
+      "id": "24 61783976367"
+    },
+    {
+      "title": "Marrëveshja Britani–Zvicër heq tarifat e roamingut dhe hap e-gatet për udhëtarët britanikë",
+      "link": "https://24-ore.com/marreveshja-britani-zvicer-heq-tarifat-e-roamingut-dhe-hap-e-gatet-per-udhetaret-britanike/",
+      "description": "Mbretëria e Bashkuar ka nënshkruar një marrëveshje tregtare me Zvicrën që u hap rrugën udhëtarëve britanikë të përdorin për herë të parë e-gatet në aeroportet zvicerane dhe eliminon tarifat e roamingut për përdoruesit e telefonisë celulare që udhëtojnë midis dy vendeve. Sekretari i Tregtisë, Peter K",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-13T20:58:36+00:00",
+      "dateStr": "13 Jul, 20:58",
+      "isNew": true,
+      "id": "24 71783976316"
+    },
+    {
+      "title": "Kuvendi i Maqedonisë së Veriut votoi riorganizimin e Qeverisë, zgjidhen ministrat e rinj",
+      "link": "https://24-ore.com/kuvendi-i-maqedonise-se-veriut-votoi-riorganizimin-e-qeverise-zgjidhen-ministrat-e-rinj/",
+      "description": "Kuvendi i Maqedonisë së Veriut sonte votoi për riorganizimin e Qeverisë, ku të gjithë kandidatët e propozuar për ministra të rinj morën mbështetjen e 69 deputetëve. Nuk pati asnjë &#8220;kundër&#8221; ose &#8220;abstenim&#8221; për asnjë nga propozimet. Jeton Shasivari është zgjedhur si Ministër i r",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-13T20:51:22+00:00",
+      "dateStr": "13 Jul, 20:51",
+      "isNew": true,
+      "id": "24 81783975882"
+    },
+    {
+      "title": "“Ishim me fat me Norvegjinë”, Çobani: Anglia ka objektiv fitimin e Botërorit, Tuchel tha një të vërtetë",
+      "link": "https://abcnews.al/ishim-me-fat-me-norvegjine-cobani-anglia-ka-objektiv-fitimin-e-boterorit-tuchel-tha-nje-te-vertete/",
+      "description": "TIRANË- Specialisti i futbollit Artur Çobani, i ftuar në emisionin &#8220;Futboll, jo Soccer&#8221;, komentoi ecurinë e Anglisë në Kampionatin Botëror, duke u shprehur se skuadra ka kontingjentin e duhur për të bërë ndryshime gjatë ndeshjeve dhe se objektivi i saj është fitimi i trofeut. Ai vlerësoi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-13T20:50:07+00:00",
+      "dateStr": "13 Jul, 20:50",
+      "isNew": true,
+      "id": "abc31783975807"
+    },
+    {
+      "title": "Parlamenti hungarez shkarkon presidentin Tamás Sulyok pas ndryshimeve kushtetuese",
+      "link": "https://24-ore.com/parlamenti-hungarez-shkarkon-presidentin-tamas-sulyok-pas-ndryshimeve-kushtetuese/",
+      "description": "Parlamenti i Hungarisë miratoi shkarkimin e presidentit Tamás Sulyok pas miratimit të amendamentit të 17-të të kushtetutës, një vendim që shkurtoi gjithashtu mandatin e kreut të Gjykatës Kushtetuese, Péter Polt. Me shumicën prej dy të tretave, partia Tisza e kryeministrit Péter Magyar zbatoi ndryshi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-13T20:44:49+00:00",
+      "dateStr": "13 Jul, 20:44",
+      "isNew": true,
+      "id": "24 91783975489"
+    },
+    {
+      "title": "Trump nuk mjaftohet me bllokadën e Hormuzit, vendos tarifë 20% për mallrat që kalojnë në ngushticë",
+      "link": "https://abcnews.al/trump-nuk-mjaftohet-me-bllokaden-e-hormuzit-vendos-tarife-20-per-mallrat-qe-kalojne-ne-ngushtice/",
+      "description": "Presidenti amerikan Donald Trump ka njoftuar se Shtetet e Bashkuara do të rivendosin “menjëherë” bllokadën e porteve iraniane në Ngushticën e Hormuzit. Në një postim në Truth Social, ai deklaroi se SHBA-ja do të marrë rolin e garantueses së sigurisë në këtë rrugë strategjike detare dhe se do të vend",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-13T20:38:51+00:00",
+      "dateStr": "13 Jul, 20:38",
+      "isNew": true,
+      "id": "abc41783975131"
+    },
+    {
+      "title": "“Finalja” e parakohshme Francë-Spanjë/ Tahiri: Përballje e vështirë, shpresoj që iberikët të hyjnë në lojën e tyre",
+      "link": "https://abcnews.al/finalja-e-parakohshme-france-spanje-tahiri-perballje-e-veshtire-shpresoj-qe-iberiket-te-hyjne-ne-lojen-e-tyre/",
+      "description": "TIRANË- Të martën, në orën 21:00, luhet “finalja” e parakohshme e Kampionatit Botëror mes Francës dhe Spanjës. Dëshirat janë të ndryshme, por parashikimet e shohin Francën si favoriten absolute, por ky është thjesht dhe vetëm një parashikim. Futbolli luhet në fushë dhe siç ka treguar futbolli dhe hi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-13T20:21:19+00:00",
+      "dateStr": "13 Jul, 20:21",
+      "isNew": true,
+      "id": "abc51783974079"
+    },
+    {
+      "title": "Zjarri në Llaman të Himarës, zjarrfikësit ende në luftë me flakët, era favorizon përhapjen",
+      "link": "https://abcnews.al/zjarri-ne-llaman-te-himares-zjarrfikesit-ende-ne-lufte-me-flaket-era-favorizon-perhapjen/",
+      "description": "Zjarri vijon të jetë aktiv në zonën e Llamanit, mes Llamanit dhe Himarës, ku prej rreth dy orësh flakët po përhapen me shpejtësi. Përhapja e zjarrit po favorizohet nga era, duke vështirësuar punën e forcave zjarrfikëse, të cilat vijojnë të jenë të angazhuara në terren për izolimin e vatrës dhe vënie",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-13T20:19:49+00:00",
+      "dateStr": "13 Jul, 20:19",
+      "isNew": true,
+      "id": "abc61783973989"
     },
     {
       "title": "Franca i jep Ukrainës licenca për prodhimin e raketave, Macron njofton mbështetje të re ushtarake",
@@ -34,29 +199,7 @@
       "date": "2026-07-13T20:01:17+00:00",
       "dateStr": "13 Jul, 20:01",
       "isNew": true,
-      "id": "abc01783972877"
-    },
-    {
-      "title": "Sulm ndaj turizmit shqiptar, Vengu: 50 biznese të prekura, turistëve iu dërguan mesazhe mashtruese",
-      "link": "https://24-ore.com/sulm-ndaj-turizmit-shqiptar-vengu-50-biznese-te-prekura-turisteve-iu-derguan-mesazhe-mashtruese/",
-      "description": "Deputeti dhe ish-ministri i Mbrojtjes, Pirro Vengu i ftuar këtë të hënë në emisionin “Now” me Erla Mëhillin në Euronews Albania ka zbuluar mesazhet që u kanë mbërritur disa turistëve teksa theksoi se ka ndikuar në 50 biznese. Ai theksoi se është një sulm kibernetik teksa shtoi se autoritet po punojn",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-13T20:00:38+00:00",
-      "dateStr": "13 Jul, 20:00",
-      "isNew": true,
-      "id": "24 21783972838"
-    },
-    {
-      "title": "SHBA – Trump njofton papritur një fjalim para kombit",
-      "link": "https://24-ore.com/shba-trump-njofton-papritur-nje-fjalim-para-kombit/",
-      "description": "UASHINGTON, 13 korrik /ATSH-AFP/ – Presidenti amerikan, Donald Trump njoftoi sot se do të mbajë një fjalim televiziv të enjten në mbrëmje, ndërsa përplasjet me Iranin kanë rifilluar me një intensitet të paparë prej javësh. “Presidenti Trump do t’i drejtohet kombit të enjten në mbrëmje në orën 21:00 ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-13T19:59:05+00:00",
-      "dateStr": "13 Jul, 19:59",
-      "isNew": true,
-      "id": "24 31783972745"
+      "id": "abc71783972877"
     },
     {
       "title": "Merz i bën thirrje Rusisë të rikthehet në tryezën e negociatave",
@@ -67,7 +210,7 @@
       "date": "2026-07-13T19:58:57+00:00",
       "dateStr": "13 Jul, 19:58",
       "isNew": true,
-      "id": "abc11783972737"
+      "id": "abc81783972737"
     },
     {
       "title": "Plagoset me thikë i riu në Fushë Krujë",
@@ -78,150 +221,7 @@
       "date": "2026-07-13T19:57:18+00:00",
       "dateStr": "13 Jul, 19:57",
       "isNew": true,
-      "id": "abc21783972638"
-    },
-    {
-      "title": "Protesta merr rrugët e Tiranës, qytetarët nisin xhiron e mbrëmjes",
-      "link": "https://24-ore.com/protesta-merr-rruget-e-tiranes-qytetaret-nisin-xhiron-e-mbremjes/",
-      "description": "Pas përfundimit të fjalimeve para godinës së Kryeministrisë, protestuesit kanë nisur marshimin e kthyer në një traditë, në rrugët e Tiranës. Me thirrjet ‘Shqipëria kërkon revolucion’, ‘Rama n’burg, Berisha n’burg’, ‘bashkohuni me ne’, protestuesit kërkojnë largimin e qeverisë dhe të gjithë klasës po",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-13T19:56:14+00:00",
-      "dateStr": "13 Jul, 19:56",
-      "isNew": true,
-      "id": "24 41783972574"
-    },
-    {
-      "title": "Hormuzi, Veliu: Rikthim në luftë për arritjen e synimeve!/ Shala: Prodhimi i armëve, epërsi për Ukrainën!",
-      "link": "https://abcnews.al/hormuzi-veliu-rikthim-ne-lufte-per-arritjen-e-synimeve-shala-prodhimi-i-armeve-epersi-per-ukrainen/",
-      "description": "Eksperti i marrëdhënieve ndërkombëtare, Lulzim Veliu, ka komentuar rëndësinë strategjike të Ngushticës së Hormuzit, duke deklaruar se mbajtja e saj e hapur është një çështje me interes për Shtetet e Bashkuara dhe vendet aleate. Eksperti tha gjithashtu se çmimi i derivateve është rritur me rreth 30 p",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-13T19:55:32+00:00",
-      "dateStr": "13 Jul, 19:55",
-      "isNew": true,
-      "id": "abc31783972532"
-    },
-    {
-      "title": "Mushkolaj: Çfarë është diskutuar në takimin me Kurtin, Hamza duhet t’ia tregojë publikut",
-      "link": "https://24-ore.com/mushkolaj-cfare-eshte-diskutuar-ne-takimin-me-kurtin-hamza-duhet-tia-tregoje-publikut/",
-      "description": "Analisti politik, Imer Mushkolaj, ka kërkuar që kandidati për kryeministër nga PDK-ja, Bedri Hamza, të bëjë publike detajet e takimit me kryetarin e Lëvizjes Vetëvendosje, Albin Kurti. Mushkolaj ka thënë se qytetarët duhet të informohen për atë që është diskutuar mes dy liderëve, duke theksuar se tr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-13T19:42:40+00:00",
-      "dateStr": "13 Jul, 19:42",
-      "isNew": true,
-      "id": "24 51783971760"
-    },
-    {
-      "title": "“Antifa”, Tafani: Evropa nuk i sheh njësoj figurat e komunizmit me figurat e fashizmit",
-      "link": "https://24-ore.com/antifa-tafani-evropa-nuk-i-sheh-njesoj-figurat-e-komunizmit-me-figurat-e-fashizmit/",
-      "description": "Analisti Endri Tafani ka analizuar në emisionin “3D” të Alban Dudushit në RTSH1, ndryshimin e qasjes në Evropë ndaj dy ideologjive totalitare, duke vënë në dukje se komunizmi trajtohet me një sy më të zbutur krahasuar me fashizmin dhe nazizmin, pavarësisht krimeve të ngjashme. Sipas Tafanit, ndërsa ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-13T19:42:13+00:00",
-      "dateStr": "13 Jul, 19:42",
-      "isNew": true,
-      "id": "24 61783971733"
-    },
-    {
-      "title": "“Kemi punë nesër!” – Fansat revoltohen ndaj Jay-Z pas kaosit në koncert",
-      "link": "https://24-ore.com/kemi-pune-neser-fansat-revoltohen-ndaj-jay-z-pas-kaosit-ne-koncert/",
-      "description": "Mijëra fansa të Jay-Z mbetën të irrituar pasi u detyruan të prisnin për më shumë se tre orë për koncertin e tij në Yankee Stadium të dielën mbrëma, pas një incidenti me sigurinë që shkaktoi mbylljen e përkohshme të stadiumit. Kaosi nisi kur disa grupe fansash dyshohet se kaluan me forcë përtej pikav",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-13T19:42:08+00:00",
-      "dateStr": "13 Jul, 19:42",
-      "isNew": true,
-      "id": "24 71783971728"
-    },
-    {
-      "title": "Nga protestat në Tiranë, te “koka e Ramës” dhe “vdekja e Trump”, Çupi: Shqipëria në mes të luftës globale të Li",
-      "link": "https://24-ore.com/nga-protestat-ne-tirane-te-koka-e-rames-dhe-vdekja-e-trump-cupi-shqiperia-ne-mes-te-luftes-globale-te-li/",
-      "description": "Analisti Frrok Çupi, i ftuar në emisionin “Real Story”, komentoi protestën dhe reagimet kundër zhvillimit të koncertit të Kanye West në Tiranë, i mbajtur të shtunën në zonën e Kasharit. Sipas tij, kundërshtimet ndaj koncertit nuk duhen parë si një ngjarje e izoluar, por si pjesë e një përplasjeje më",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-13T19:41:41+00:00",
-      "dateStr": "13 Jul, 19:41",
-      "isNew": true,
-      "id": "24 81783971701"
-    },
-    {
-      "title": "Bislimi: Vetëvendosje ka një strategji destabilizuese ndaj Shqipërisë",
-      "link": "https://24-ore.com/bislimi-vetevendosje-ka-nje-strategji-destabilizuese-ndaj-shqiperise/",
-      "description": "Anëtari i Kryesisë së Aleancës për Ardhmërinë e Kosovës Labinot Bislimi, i ftuar në Real Story tha se nuk e cilëson Lëvizjen Vetëvendosje si një forcë të ekstremit të majtë, por vlerësoi se ajo shfaq elementë të dukshëm të neofashizmit. Sipas tij, është e rëndësishme të bëhet dallimi mes ideologjisë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-13T19:41:19+00:00",
-      "dateStr": "13 Jul, 19:41",
-      "isNew": true,
-      "id": "24 91783971679"
-    },
-    {
-      "title": "“Vetëvendosje kërkon të destabilizojë Shqipërinë”, Bislimi: Protestuesit janë kundër demokracisë, ky është problemi",
-      "link": "https://abcnews.al/vetevendosje-kerkon-te-destabilizoje-shqiperine-bislimi-protestuesit-jane-kunder-demokracise-ky-eshte-problemi/",
-      "description": "TIRANË- Anëtari i Kryesisë së Aleancës për Ardhmërinë e Kosovës, Labinot Bislimi, komentoi ndikimin dhe përfshirjen e Lëvizjes Vetëvendosje në protestën në Shqipëri. Ai theksoi se çështjet kombëtare janë legjitime që t&#8217;i bashkojë shqiptarët kudo ata ndodhen, por është e papranueshme që partitë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-13T19:03:33+00:00",
-      "dateStr": "13 Jul, 19:03",
-      "isNew": true,
-      "id": "abc41783969413"
-    },
-    {
-      "title": "Edicioni qendror me Emilian Islamin, (13/07/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-emilian-islamin-13-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-13T18:59:32+00:00",
-      "dateStr": "13 Jul, 18:59",
-      "isNew": true,
-      "id": "abc51783969172"
-    },
-    {
-      "title": "“Rrymë e kapur dhe e shitur”, Elezi: Nuk ka rrugë më të mirë për ta vrarë protestën sesa veprime për dëmtimin e imazhit!",
-      "link": "https://abcnews.al/rryme-e-kapur-dhe-e-shitur-elezi-nuk-ka-rruge-me-te-mire-per-ta-vrare-protesten-sesa-veprime-per-demtimin-e-imazhit/",
-      "description": "Ish-kandidati për kryetar të PD, Ibsen Elezi, ka komentuar zhvillimet rreth protestës duke thënë se Shqipëria ka pasur ndikime nga shërbime të huaja ndër vite. Elezi u shpreh se ndikime të tilla kanë qenë të pranishme në politikë dhe ekonomi, duke përmendur shërbimet greke, jugosllave, ruse dhe iran",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-13T18:53:34+00:00",
-      "dateStr": "13 Jul, 18:53",
-      "isNew": true,
-      "id": "abc61783968814"
-    },
-    {
-      "title": "“Protesta, jo anomali”, Labinot Bislimi: PD dhe Sali Berisha duhet të reflektojnë, po zëvendësohen si opozitë",
-      "link": "https://abcnews.al/protesta-jo-anomali-labinot-bislimi-pd-dhe-sali-berisha-duhet-te-reflektojne-po-zevendesohen-si-opozite/",
-      "description": "TIRANË- Anëtari i Kryesisë së Aleancës për Ardhmërinë e Kosovës, Labinot Bislimi, i ftuar në emisionin &#8220;Real Story&#8221;, komentoi zhvillimet politike në Shqipëri dhe protestën e zhvilluar prej më shumë se 40 ditësh. Bislimi u shpreh se rritja e mirëqenies dhe zhvillimi shoqëror sjellin kërke",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-13T18:49:10+00:00",
-      "dateStr": "13 Jul, 18:49",
-      "isNew": true,
-      "id": "abc71783968550"
-    },
-    {
-      "title": "“Tani kërkohet përgjigje nga shteti”, Bejko në “Real Story”: Pse përbërja e protestës është e çuditshme",
-      "link": "https://abcnews.al/tani-kerkohet-pergjigje-nga-shteti-bejko-ne-real-story-pse-perberja-e-protestes-eshte-e-cuditshme/",
-      "description": "TIRANË- Analisti Roland Bejko, i ftuar në emisionin &#8220;Real Story&#8221;, komentoi zhvillimet e fundit rreth protestës, duke u shprehur se ajo ka bashkuar njerëz me bindje të ndryshme politike dhe shoqërore dhe kjo tha ai i jep karakter të çuditshëm tubimit. Duke komentuar pretendimet për përfsh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-13T18:42:32+00:00",
-      "dateStr": "13 Jul, 18:42",
-      "isNew": true,
-      "id": "abc81783968152"
-    },
-    {
-      "title": "Protesta në ditën e 44, ja pjesëmarrja e qytetarëve në orën 20:30",
-      "link": "https://abcnews.al/protesta-ne-diten-e-44-ja-pjesemarrja-e-qytetareve-ne-oren-2000/",
-      "description": "Në kryeqytet po mbahet protesta e 44 e qytetarëve. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej” e më pas u zhvendosën drejt bulevardit “Dëshmorët e Kombit”, para godinës së kryeministrisë. Këti janë pamjet reale të protestës, të siguruara nga ABC News, në orën 20:00. Pamjet që shihni m",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-13T18:37:35+00:00",
-      "dateStr": "13 Jul, 18:37",
-      "isNew": true,
-      "id": "abc91783967855"
+      "id": "abc91783972638"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
