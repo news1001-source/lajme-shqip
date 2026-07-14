@@ -1,18 +1,194 @@
 {
-  "lastUpdated": "2026-07-14T15:20:24.295810+00:00",
+  "lastUpdated": "2026-07-14T17:09:37.447176+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "MF: Miratohet strategjia e re e luftës kundër mashtrimeve dhe mbrojtjes së interesave financiare të BE-së në Maqedoni",
-      "link": "https://24-ore.com/mf-miratohet-strategjia-e-re-e-luftes-kunder-mashtrimeve-dhe-mbrojtjes-se-interesave-financiare-te-be-se-ne-maqedoni/",
-      "description": "Qeveria, në mbledhjen e saj të fundit, miratoi Strategjinë e luftës kundër mashtrimeve dhe mbrojtjes së interesave financiare të BE-së në vend për periudhën 2026–2030, thuhet në njoftimin e Ministrisë së Financave të Maqedonisë së Veriut. &#8220;Strategjia u hartua në përputhje me detyrimet e ndërma",
+      "title": "Tragjike në Greqi/ Dy të rinj gjenden të vdekur brenda makinës në parking, shkak kondicioneri",
+      "link": "https://abcnews.al/tragjike-ne-greqi-dy-te-rinj-gjenden-te-vdekur-brenda-makines-ne-parking-shkak-kondicioneri/",
+      "description": "Një ngjarje e rëndë është regjistruar në zonën e Pireut në Athinë, ku një vajzë 27 vjeçe dhe një djalë 28 vjeç janë gjetur të pajetë brenda një makine të parkuar në garazhin e banesës. Sipas autoriteteve greke, të rinjtë u gjetën nga babai i 28-vjeçarit, i cili njoftoi menjëherë shërbimet e emergjen",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-14T17:07:21+00:00",
+      "dateStr": "14 Jul, 17:07",
+      "isNew": true,
+      "id": "abc01784048841"
+    },
+    {
+      "title": "BRUKSEL – Kos: E tronditur nga deklaratat e ministres serbe për spastrimin etnik në Kosovë",
+      "link": "https://24-ore.com/bruksel-kos-e-tronditur-nga-deklaratat-e-ministres-serbe-per-spastrimin-etnik-ne-kosove/",
+      "description": "– Komisionerja Evropiane për Zgjerim, Marta Kos, i është përgjigjur deklaratës skandaloze dhe nxitëse të ministres së qeverisë serbe për spastrimin etnik në Kosovë, sipas koha.net. Ajo tha se është e tronditur që ka deklarata të tilla dhe shprehu shpresën se ky nuk është një qëndrim i qeverisë serbe",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-14T15:18:26+00:00",
-      "dateStr": "14 Jul, 15:18",
+      "date": "2026-07-14T17:00:36+00:00",
+      "dateStr": "14 Jul, 17:00",
       "isNew": true,
-      "id": "24 01784042306"
+      "id": "24 01784048436"
+    },
+    {
+      "title": "Gjerman 68-vjeçar i akuzuar për përdhunime të njëpasnjëshme ndaj grave të droguara",
+      "link": "https://24-ore.com/gjerman-68-vjecar-i-akuzuar-per-perdhunime-te-njepasnjeshme-ndaj-grave-te-droguara/",
+      "description": "Prokuroria në Berlin ka ngritur akuza ndaj një burri 68-vjeçar, i dyshuar se ka droguar, përdhunuar dhe filmuar sulmet ndaj një sërë grave që i kishte njohur përmes platformave online të takimeve. Sipas hetimeve, ndaj tij rëndojnë 22 akuza për përdhunim të rënduar që përfshijnë 14 gra, ndërsa hetues",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T16:59:32+00:00",
+      "dateStr": "14 Jul, 16:59",
+      "isNew": true,
+      "id": "24 11784048372"
+    },
+    {
+      "title": "Urrejtësit e Veliajt që buçasin për konfliktin e interesit të Ilir Pandës dhe kyçin gojën për “lejen e ndërtimit”",
+      "link": "https://24-ore.com/urrejtesit-e-veliajt-qe-bucasin-per-konfliktin-e-interesit-te-ilir-pandes-dhe-kycin-gojen-per-lejen-e-ndertimit/",
+      "description": "Nga Hermes Kafexhiu Ka një paradoks që po bëhet gjithnjë e më i dukshëm në një pjesë të medias shqiptare zelli për të kërkuar transparencë nuk shpërndahet njësoj për të gjithë. Ai ndizet me shpejtësi kur në qendër është një emër që i shërben një narrative të caktuar, por shuhet menjëherë kur pyetjet",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T16:56:19+00:00",
+      "dateStr": "14 Jul, 16:56",
+      "isNew": true,
+      "id": "24 21784048179"
+    },
+    {
+      "title": "Gazetarët si pjesë e histerisë së revolucionit",
+      "link": "https://24-ore.com/gazetaret-si-pjese-e-histerise-se-revolucionit/",
+      "description": "Nga Ilir Demalia  Në një vend të lirë, çdo njeri ka të drejtë të shkruajë, të protestojë, të kundërshtojë, madje edhe të gabojë. Demokracia nuk është rendi i përsosmërisë, por rendi ku liria bashkëjeton me përgjegjësinë. Por ka një vijë që nuk mund të kalohet: dhuna fizike, vandalizmi dhe sulmi ndaj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T16:56:10+00:00",
+      "dateStr": "14 Jul, 16:56",
+      "isNew": true,
+      "id": "24 31784048170"
+    },
+    {
+      "title": "Daçiq vazhdon me deklarata tendencioze dhe propaganduese, mbron ministren serbe pas deklaratës për spastrim etnik në Kosovë",
+      "link": "https://24-ore.com/daciq-vazhdon-me-deklarata-tendencioze-dhe-propaganduese-mbron-ministren-serbe-pas-deklarates-per-spastrim-etnik-ne-kosove/",
+      "description": "Zëvendëskryeministri i Serbisë, Ivica Daçiq, ka vazhduar me deklarata tendencioze dhe narrativa të njohura politike të Beogradit për Kosovën, duke dalë në mbrojtje të ministres së Administratës Shtetërore dhe Vetëqeverisjes Lokale të Serbisë, Snezhana Paunoviq, pas deklaratës së saj se, po të kishte",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T16:52:38+00:00",
+      "dateStr": "14 Jul, 16:52",
+      "isNew": true,
+      "id": "24 41784047958"
+    },
+    {
+      "title": "BDI: Vota për Ivan Stoilkoviq është përgjegjësi politike dhe legjitimim i “Botës serbe”",
+      "link": "https://24-ore.com/bdi-vota-per-ivan-stoilkoviq-eshte-pergjegjesi-politike-dhe-legjitimim-i-botes-serbe/",
+      "description": "Deklarata skandaloze e ministres së Qeverisë së Serbisë, e cila publikisht u shpreh se Sllobodan Millosheviqi është dashur të kryente dhe ta përfundonte spastrimin etnik ndaj shqiptarëve, nuk është thjesht një qëndrim individual. Ajo është shprehje e një ideologjie të rrezikshme që vazhdon të glorif",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T16:47:25+00:00",
+      "dateStr": "14 Jul, 16:47",
+      "isNew": true,
+      "id": "24 51784047645"
+    },
+    {
+      "title": "“Sulmet ndaj bizneseve duhen hetuar”, Qefalia: Protestat nuk ndikojnë në rrugën e Shqipërisë drejt BE-së",
+      "link": "https://abcnews.al/sulmet-ndaj-bizneseve-duhen-hetuar-qefalia-protestat-nuk-ndikojne-ne-rrugen-e-shqiperise-drejt-be-se/",
+      "description": "TIRANË- Zëvendësministri i Brendshëm, Xhemal Qefalia, i ftuar në emisionin “News Line” në ABC News, foli për protestat e zhvilluara ditët e fundit, procesin e integrimit evropian dhe shqetësimet që lidhen me ndikimin e mundshëm në turizëm. Qefalia u shpreh se e drejta e protestës dhe liria e fjalës ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-14T16:47:12+00:00",
+      "dateStr": "14 Jul, 16:47",
+      "isNew": true,
+      "id": "abc11784047632"
+    },
+    {
+      "title": "Angli–Argjentinë: Rivaliteti që ka rrënjët historike, por sot është kryesisht për futbollin",
+      "link": "https://24-ore.com/angli-argjentine-rivaliteti-qe-ka-rrenjet-historike-por-sot-eshte-kryesisht-per-futbollin/",
+      "description": "Pas shortit që vendosi ndeshjen 102 të Botërorit, gjysmëfinale mes Anglisë dhe Argjentinës, trajneri i Argjentinës Lionel Scaloni u përpoq të ulte pritshmëritë për ndonjë rikthim të konflikteve të së shkuarës, duke nënvizuar se bëhet fjalë vetëm për futboll. Mesfushori Rodrigo De Paul tha gjithashtu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T16:46:04+00:00",
+      "dateStr": "14 Jul, 16:46",
+      "isNew": true,
+      "id": "24 61784047564"
+    },
+    {
+      "title": "Zjarr në Bruksel/ Flakë në kullën në rindërtim, disa viktima",
+      "link": "https://abcnews.al/zjarr-ne-bruksel-flake-ne-kullen-ne-rindertim-disa-viktima/",
+      "description": "Disa persona raportohet  se kanë humbur jetën pas një zjarri që shpërtheu të martën në kullën Oxy,  nje kantier ndertimi ne qender te Brukselit. Autoritetet belge kanë bërë të ditur se gjashtë persona rezultojnë ende të zhdukur. Sipas autoriteteve, flakët përfshinë ndërtesën për arsye që ende nuk ja",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-14T16:44:14+00:00",
+      "dateStr": "14 Jul, 16:44",
+      "isNew": true,
+      "id": "abc21784047454"
+    },
+    {
+      "title": "Shqipëria mbyll tre grupkapitujt e parë me BE-në, zëvendësministri i Brendshëm: Superlajm për të gjithë shqiptarët!",
+      "link": "https://24-ore.com/shqiperia-mbyll-tre-grupkapitujt-e-pare-me-be-ne-zevendesministri-i-brendshem-superlajm-per-te-gjithe-shqiptaret/",
+      "description": "Shqipëria dhe Bashkimi Evropian mbyllin tre grupkapitujt e parë në negociatat për integrimin, në Konferencën e Nëntë Ndërqeveritare, sot në Bruksel. Komisionerja për Zgjerimin, Marta Kos, thotë se ky është një çast vendimtar për Shqipërinë, e cila ka plotësuar reformat dhe ecën e sigurt drejt anëtar",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T16:43:05+00:00",
+      "dateStr": "14 Jul, 16:43",
+      "isNew": true,
+      "id": "24 71784047385"
+    },
+    {
+      "title": "Super e marta europiane e Shqipërisë/ Qefalia: Mbyllja e tre kapitujve, meritë e punës së qeverisë",
+      "link": "https://abcnews.al/super-e-marta-europiane-e-shqiperise-qefalia-mbyllja-e-tre-kapitujve-merite-e-punes-se-qeverise/",
+      "description": "TIRANË&#8211; Shqipëria dhe Bashkimi Evropian mbyllin tre grupkapitujt e parë në negociatat për integrimin, në Konferencën e Nëntë Ndërqeveritare, sot në Bruksel. Komisionerja për Zgjerimin, Marta Kos, thotë se ky është një çast vendimtar për Shqipërinë, e cila ka plotësuar reformat dhe ecën e sigur",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-14T16:33:56+00:00",
+      "dateStr": "14 Jul, 16:33",
+      "isNew": true,
+      "id": "abc31784046836"
+    },
+    {
+      "title": "Jude Bellingham: nga i përjashtuar te shtylla kryesore e Anglisë në Botëror",
+      "link": "https://24-ore.com/jude-bellingham-nga-i-perjashtuar-te-shtylla-kryesore-e-anglise-ne-boteror/",
+      "description": "Jude Bellingham është shndërruar në figurën kyçe të Anglisë në këtë Botëror, duke e zhvendosur vëmendjen që në fillim nga pritshmëria se turneu do t’i përkiste kryesisht Harry Kane. Që nga goli që ndezi pjesën më të mirë të lojës kundër Kroacisë në Dallas, te dy golat vendimtarë në çerekfinale ndaj ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T16:33:34+00:00",
+      "dateStr": "14 Jul, 16:33",
+      "isNew": true,
+      "id": "24 81784046814"
+    },
+    {
+      "title": "Meta po zgjeron atë që ishte planifikuar të bëhej qendra e saj më e madhe e të dhënave të IA-së në Luiziana – të dhënat janë mbresëlënëse",
+      "link": "https://24-ore.com/meta-po-zgjeron-ate-qe-ishte-planifikuar-te-behej-qendra-e-saj-me-e-madhe-e-te-dhenave-te-ia-se-ne-luiziana-te-dhenat-jane-mbreselenese/",
+      "description": "Meta po zgjeron atë që ishte planifikuar të bëhej qendra e saj më e madhe e të dhënave të IA-së, një kampus i Luizianës që gjiganti i teknologjisë thotë se ka nxitur &#8220;kthime që ndryshojnë jetën&#8221; për mësuesit dhe bizneset lokale. Kompania që qëndron pas Facebook dhe Instagram tha në një p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T16:33:03+00:00",
+      "dateStr": "14 Jul, 16:33",
+      "isNew": true,
+      "id": "24 91784046783"
+    },
+    {
+      "title": "BE dënon deklaratën e ministres serbe/ BE: Beogradi të përmbushë angazhimet për dialogun dhe integrimin",
+      "link": "https://abcnews.al/be-denon-deklaraten-e-ministres-serbe-be-beogradi-te-permbushe-angazhimet-per-dialogun-dhe-integrimin/",
+      "description": "Deklarata e Ministres Serbe per Administraten Publike dhe Veteqeverisjen Lokale ne Serbi , Snezhana Paunoviq, e cila deklaroi se, po të ishte në vend të ish-presidentit serb Sllobodan Millosheviq në vitin 1998, do ta kishte “spastruar etnikisht Kosovën ka shkaktuar Reagimin e Ashper te Bashkimit Eur",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-14T16:29:20+00:00",
+      "dateStr": "14 Jul, 16:29",
+      "isNew": true,
+      "id": "abc41784046560"
+    },
+    {
+      "title": "News Hour me Rovena Neziri, (14/07/2026)",
+      "link": "https://abcnews.al/news-hour-me-rovena-neziri-14-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-14T16:01:32+00:00",
+      "dateStr": "14 Jul, 16:01",
+      "isNew": true,
+      "id": "abc51784044892"
+    },
+    {
+      "title": "Ukrainë, dorëhiqet kryeministrja Yulia Svyrydenko",
+      "link": "https://abcnews.al/ukraine-dorehiqet-kryeministrja-yulia-svyrydenko/",
+      "description": "Kryeministrja e Ukrainës, Yulia Svyrydenko dha sot zyrtarisht dorëheqjen, pasi Parlamenti ukrainas miratoi largimin e saj, si pjesë e një riformatimi qeveritar të iniciuar nga presidenti, Volodymyr Zelensky. Parlamenti njoftoi se rezoluta për miratimin e dorëheqjes së Svyrydenkos u miratua. Riformat",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-14T15:53:30+00:00",
+      "dateStr": "14 Jul, 15:53",
+      "isNew": true,
+      "id": "abc61784044410"
     },
     {
       "title": "Të përftuara me burime të paligjshme/ Tiranë, sekuestrohen pasuri me vlerë 420 mijë euro",
@@ -23,40 +199,7 @@
       "date": "2026-07-14T15:16:17+00:00",
       "dateStr": "14 Jul, 15:16",
       "isNew": true,
-      "id": "abc01784042177"
-    },
-    {
-      "title": "Operacioni “De facto” në Tiranë, sekuestrohen pasuri me vlerë 420 mijë euro të dyshuara si produkt i trafikut të drog�",
-      "link": "https://24-ore.com/operacioni-de-facto-ne-tirane-sekuestrohen-pasuri-me-vlere-420-mije-euro-te-dyshuara-si-produkt-i-trafikut-te-drog%ef%bf%bd/",
-      "description": "Tiranë/Finalizohet operacioni i koduar “De facto”, si rezultat i hetimeve për gjurmimin dhe sekuestrimin e pasurive me burime kriminale. Sekuestrohen apartamente dhe garazh, me vlerë rreth 420 000 euro, të përfituara nga trafikimi i lëndëve narkotike. Në vijim të një hetimi pasuror, me metoda specia",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-14T15:14:41+00:00",
-      "dateStr": "14 Jul, 15:14",
-      "isNew": true,
-      "id": "24 11784042081"
-    },
-    {
-      "title": "VARSHAVË – Polonia intercepton një avion zbulues rus mbi Baltik",
-      "link": "https://24-ore.com/varshave-polonia-intercepton-nje-avion-zbulues-rus-mbi-baltik/",
-      "description": "VARSHAVË, 14 korrik /ATSH-AFP/ – Dy avionë luftarakë polakë interceptuan sot një avion zbulues rus, tip “Il-20” mbi ujërat ndërkombëtare të detit Baltik, njoftoi ministri polak i Mbrojtjes, Władysław Kosiniak-Kamysz. Sipas tij, kjo ishte përpjekja e parë pas një kohe të gjatë nga Rusia për t’iu afru",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-14T15:13:11+00:00",
-      "dateStr": "14 Jul, 15:13",
-      "isNew": true,
-      "id": "24 21784041991"
-    },
-    {
-      "title": "Conference League: Vllaznia kërkon biletën për në raundin e dytë në transfertën ndaj Malishevës",
-      "link": "https://24-ore.com/conference-league-vllaznia-kerkon-bileten-per-ne-raundin-e-dyte-ne-transferten-ndaj-malisheves/",
-      "description": "Vllaznia do të luajë nesër një nga sfidat më të rëndësishme të këtij fillimi sezoni, teksa do të përballet me Malishevën në ndeshjen e kthimit të raundit të parë kualifikues të UEFA Conference League. Takimi do të zhvillohet në stadiumin “Zahir Pajaziti” në Podujevë, në orën 16:30. Skuadra shkodrane",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-14T15:13:06+00:00",
-      "dateStr": "14 Jul, 15:13",
-      "isNew": true,
-      "id": "24 31784041986"
+      "id": "abc71784042177"
     },
     {
       "title": "News Hour me Fabiola Hoxha, (14/07/2026)",
@@ -67,18 +210,7 @@
       "date": "2026-07-14T15:12:18+00:00",
       "dateStr": "14 Jul, 15:12",
       "isNew": true,
-      "id": "abc11784041938"
-    },
-    {
-      "title": "Si të vlerësohen bastet mbi Mbappé për gjysmëfinalen Francë–Spanjë në Botërorin 2026",
-      "link": "https://24-ore.com/si-te-vleresohen-bastet-mbi-mbappe-per-gjysmefinalen-france-spanje-ne-boterorin-2026/",
-      "description": "Gjysmëfinalja e Kupës së Botës 2026 mes Francës dhe Spanjës luhet në Dallas Stadium në Arlington, Texas, me nisje në orën 15:00 ET. Franca hyn si favorite, me një probabilitet të implikuar rreth 59%, ndërsa Spanja vlerësohet rreth 41%. Francia ka shënuar 16 gola në gjashtë ndeshje të turneut, kurse ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-14T15:12:13+00:00",
-      "dateStr": "14 Jul, 15:12",
-      "isNew": true,
-      "id": "24 41784041933"
+      "id": "abc81784041938"
     },
     {
       "title": "“Money Report” me Genta Dobra, (14/07/2026)",
@@ -89,139 +221,7 @@
       "date": "2026-07-14T15:06:29+00:00",
       "dateStr": "14 Jul, 15:06",
       "isNew": true,
-      "id": "abc21784041589"
-    },
-    {
-      "title": "“Është koha të hapë krahun”, ish-kandidatja e PD i bën thirrje Nokës të tërhiqet",
-      "link": "https://24-ore.com/eshte-koha-te-hape-krahun-ish-kandidatja-e-pd-i-ben-thirrje-nokes-te-terhiqet/",
-      "description": "Ish-kandidatja për deputete e PD-së në zgjedhjet e parlamentare të 11 majit 2025, Ilirjana Kuçana, kërkon rigjenerimin e selisë blu me figura të reja dhe përfaqësuese si dhe largimin e emrave të vjetër. Ajo ka kërkuar që sekretari i Përgjithshëm i PD-së, Flamur Noka, të tërhiqet nga gara dhe t’i hap",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-14T15:03:51+00:00",
-      "dateStr": "14 Jul, 15:03",
-      "isNew": true,
-      "id": "24 51784041431"
-    },
-    {
-      "title": "Pse argjentinasit këndojnë për Anglinë dhe Ishujt Falkland para ndeshjeve me Anglinë",
-      "link": "https://24-ore.com/pse-argjentinasit-kendojne-per-angline-dhe-ishujt-falkland-para-ndeshjeve-me-angline/",
-      "description": "Argjentina dhe Anglia do të përballen në gjysmëfinalen e Kupës së Botës, pas fitores 3-1 të Argjentinës ndaj Zvicrës në çerekfinale, kur lojtarët brohoritën për Ishujt Malvinas dhe për Diego e për atë që pritet të jetë turneu i fundit i Lionel Messit. Ndeshja gjysmëfinale zhvillohet në Atlanta të më",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-14T15:00:58+00:00",
-      "dateStr": "14 Jul, 15:00",
-      "isNew": true,
-      "id": "24 61784041258"
-    },
-    {
-      "title": "I arrestuar në Serbi me dokumente false të Kosovës: Kush është Vuk Vulleviq?",
-      "link": "https://24-ore.com/i-arrestuar-ne-serbi-me-dokumente-false-te-kosoves-kush-eshte-vuk-vulleviq/",
-      "description": "U arrestua në Serbi me kërkesë të Malit të Zi, me dokumente të falsifikuara të lëshuara në Kosovë. Njëri nga të arratisurit më të kërkuar malazezë, i akuzuar për organizim të një grupi kriminal dhe trafikim të narkotikëve, ndodhet në paraburgim në Beograd. Autoritetet serbe nuk iu përgjigjën pyetjev",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-14T14:52:42+00:00",
-      "dateStr": "14 Jul, 14:52",
-      "isNew": true,
-      "id": "24 71784040762"
-    },
-    {
-      "title": "Thatësira ekstreme e tokës prek pothuajse gjysmën e Çekisë",
-      "link": "https://abcnews.al/thatesira-ekstreme-e-tokes-prek-pothuajse-gjysmen-e-cekise/",
-      "description": "Pothuajse gjysma e territorit të Çekisë po përjeton kushte ekstreme të thatësirës së tokës, sipas projektit të monitorimit të thatësirës InterSucho, i drejtuar nga Instituti CzechGlobe. Siç raporton Radio Prague International, niveli më i lartë i thatësirës i përcaktuar nga projekti aktualisht po pr",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-14T14:51:25+00:00",
-      "dateStr": "14 Jul, 14:51",
-      "isNew": true,
-      "id": "abc31784040685"
-    },
-    {
-      "title": "Parashikimi për Francë–Spanjë: çfarë tregojnë tregjet për gjysmëfinalen e Botërorit 2026",
-      "link": "https://24-ore.com/parashikimi-per-france-spanje-cfare-tregojne-tregjet-per-gjysmefinalen-e-boterorit-2026/",
-      "description": "Në gjysmëfinalen e FIFA World Cup 2026, Franca përballet me Spanjën në Dallas Stadium (Arlington, Texas) me nisje të ndeshjes në orën 15:00 ET. Në lojë është një vend në finalen e turneut, ndërsa dy skuadrat shkojnë në këtë përballje të paprekura në fazën e eliminuese. Sipas sports.yahoo, të dyja ko",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-14T14:42:05+00:00",
-      "dateStr": "14 Jul, 14:42",
-      "isNew": true,
-      "id": "24 81784040125"
-    },
-    {
-      "title": "DAP: Borxhi i përgjithshëm e kaloi shumën prej 13 miliardë denarë",
-      "link": "https://24-ore.com/dap-borxhi-i-pergjithshem-e-kaloi-shumen-prej-13-miliarde-denare/",
-      "description": "Drejtoria e të Ardhurave Publike (UJP) ka publikuar Listën e Debitorëve nr. 07/2026, në të cilën figurojnë gjithsej 5.156 persona juridikë dhe fizikë me detyrime tatimore dhe doganore të papaguara. Në listë janë evidentuar 2.007 persona juridikë, që është 66 më shumë krahasuar me listën e mëparshme,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-14T14:37:50+00:00",
-      "dateStr": "14 Jul, 14:37",
-      "isNew": true,
-      "id": "24 91784039870"
-    },
-    {
-      "title": "Rrezikuan pushuesit në Vlorë/ Ndërhyn Policia, ndalohen dhe gjobiten dy drejtues mjetesh lundruese",
-      "link": "https://abcnews.al/rrezikuan-pushuesit-ne-vlore-nderhyn-policia-ndalohen-dhe-gjobiten-dy-drejtues-mjetesh-lundruese/",
-      "description": "VLORË- Dy drejtues gomonesh janë ndëshkuar me gjoba të majme dhe u janë bllokuar mjetet lundruese, pasi u konstatuan duke lundruar pranë bregut, duke rrezikuar sigurinë e pushuesve. Rasti i parë u regjistrua në plazhin e Potamit. Pas një denoncimi nga qytetarët se një gomone po lundronte shumë pranë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-14T14:24:44+00:00",
-      "dateStr": "14 Jul, 14:24",
-      "isNew": true,
-      "id": "abc41784039084"
-    },
-    {
-      "title": "Trupat britanike dhe franceze do të marrin pjesë në stërvitjet ushtarake në Poloni",
-      "link": "https://abcnews.al/trupat-britanike-dhe-franceze-do-te-marrin-pjese-ne-stervitjet-ushtarake-ne-poloni/",
-      "description": "Kryeministri polak, Donald Tusk tha sot në Paris se trupat britanike dhe franceze do të marrin pjesë në stërvitjet ushtarake në Poloni në vjeshtë. &#8220;Vendimi kryesor nga këndvështrimi ynë është që stërvitjet e para që përfshijnë trupat franceze dhe britanike do të zhvillohen në Poloni këtë vjesh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-14T14:16:13+00:00",
-      "dateStr": "14 Jul, 14:16",
-      "isNew": true,
-      "id": "abc51784038573"
-    },
-    {
-      "title": "BE-ja dënon deklaratën e ministres serbe për “spastrimin etnik” të Kosovës",
-      "link": "https://abcnews.al/be-ja-denon-deklaraten-e-ministres-serbe-per-spastrimin-etnik-te-kosoves/",
-      "description": "Bashkimi Evropian dënoi deklaratën e ministres serbe për Administratë Publike dhe Vetëqeverisje Lokale, Snezhana Paunoviç, e cila tha se, po të ishte në vend të ish-presidentit serb, Sllobodan Millosheviq, në vitin 1998, do ta kishte “spastruar etnikisht Kosovën”. Zëdhënësja e Komisionit Evropian, A",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-14T14:11:40+00:00",
-      "dateStr": "14 Jul, 14:11",
-      "isNew": true,
-      "id": "abc61784038300"
-    },
-    {
-      "title": "Zjarr në një kantier ndërtimi në Bruksel/ Disa viktima, vijojnë kërkimet për persona të zhdukur",
-      "link": "https://abcnews.al/zjarr-ne-nje-kantier-ndertimi-ne-bruksel-disa-viktima-vijojne-kerkimet-per-persona-te-zhdukur/",
-      "description": "Disa persona dyshohet se kanë vdekur në zjarrin që përfshiu një kantier ndërtimi në Bruksel të martën, ndërsa gjashtë të tjerë rezultojnë të zhdukur, thanë autoritetet lokale. Zjarri filloi në kullën Oxy në qendër të qytetit, ndërsa shkaku është i paqartë, shkruan BBC. Ndërsa u shua shpejt, kur zjar",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-14T13:52:06+00:00",
-      "dateStr": "14 Jul, 13:52",
-      "isNew": true,
-      "id": "abc71784037126"
-    },
-    {
-      "title": "Greqi/ Burri dhe gruaja gjenden të vdekur në makinë, dyshimet e para",
-      "link": "https://abcnews.al/greqi-burri-dhe-gruaja-gjenden-te-vdekur-ne-makine-dyshimet-e-para/",
-      "description": "Një tragjedi e papërshkrueshme që përfshin dy viktima shumë të reja ka ndodhur mëngjesin e kësaj të marte në Pire. Një burrë 28-vjeçar dhe gruaja e tij 24-vjeçare u gjetën të vdekur brenda makinës së tyre, në rrugën Milos.  Shqetësimet fillestare për aktivitet kriminal ia lanë vendin trishtimit, pas",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-14T13:47:28+00:00",
-      "dateStr": "14 Jul, 13:47",
-      "isNew": true,
-      "id": "abc81784036848"
-    },
-    {
-      "title": "Urat që mbajnë në këmbë Myzeqenë/ Lidhin fshatrat e zonës, por shumë prej tyre janë të amortizuara",
-      "link": "https://abcnews.al/urat-qe-mbajne-ne-kembe-myzeqene-lidhin-fshatrat-e-zones-por-shume-prej-tyre-jane-te-amortizuara/",
-      "description": "Nëse Fieri është quajtur “qyteti i urave” pasi numëron 11 të tilla, e gjithë Myzeqeja është një territor që përshkuhet nga urat. Të ndërtuara mbi kanale, lumenj dhe kolektorë, pas viteve ‘70, ato frekuentohen ende sot nga banorët e Myzeqesë. Me gjatësi prej disa metrash deri në 1 km, urat bëjnë lidh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-14T13:31:15+00:00",
-      "dateStr": "14 Jul, 13:31",
-      "isNew": true,
-      "id": "abc91784035875"
+      "id": "abc91784041589"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
