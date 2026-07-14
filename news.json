@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-14T22:53:41.790979+00:00",
+  "lastUpdated": "2026-07-14T23:49:24.238695+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Përfundon epoka e Didier Deschamps pas eliminimit të Francës 2-0 nga Spanja",
+      "link": "https://24-ore.com/perfundon-epoka-e-didier-deschamps-pas-eliminimit-te-frances-2-0-nga-spanja/",
+      "description": "Spanja fitoi 2-0 ndaj Francës në gjysmëfinalen e Kupës së Botës në Dallas dhe kualifikohet për në finalen e turneut. Në një ndeshje ku pritej dominim francez, ekipi i Didier Deschamps realizoi vetëm 10 gjuajtje në portë dhe pati një vlerë të pritshme të golave (xG) prej vetëm 0.3, niveli më i ulët i",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T23:29:12+00:00",
+      "dateStr": "14 Jul, 23:29",
+      "isNew": true,
+      "id": "24 01784071752"
+    },
     {
       "title": "Spanja siguron finalen, Anglia dhe Argjentina vendosin rivalin për Kupën e Botës 2026",
       "link": "https://24-ore.com/spanja-siguron-finalen-anglia-dhe-argjentina-vendosin-rivalin-per-kupen-e-botes-2026/",
@@ -12,7 +23,7 @@
       "date": "2026-07-14T22:31:32+00:00",
       "dateStr": "14 Jul, 22:31",
       "isNew": true,
-      "id": "24 01784068292"
+      "id": "24 11784068292"
     },
     {
       "title": "Gibraltar pa gardh kufitar me Spanjën, hapet një epokë e re e lëvizjes pa pengesa",
@@ -23,7 +34,7 @@
       "date": "2026-07-14T22:27:44+00:00",
       "dateStr": "14 Jul, 22:27",
       "isNew": true,
-      "id": "24 11784068064"
+      "id": "24 21784068064"
     },
     {
       "title": "Pauza e pjesës së parë në finalen e Botës mund të zgjasë deri në 25 minuta",
@@ -34,7 +45,7 @@
       "date": "2026-07-14T22:12:14+00:00",
       "dateStr": "14 Jul, 22:12",
       "isNew": true,
-      "id": "24 21784067134"
+      "id": "24 31784067134"
     },
     {
       "title": "Koni skocez pritet me nder në Boston pas miqësisë gjatë Kupës së Botës",
@@ -45,7 +56,7 @@
       "date": "2026-07-14T21:56:37+00:00",
       "dateStr": "14 Jul, 21:56",
       "isNew": true,
-      "id": "24 31784066197"
+      "id": "24 41784066197"
     },
     {
       "title": "Ministrja serbe, ‘non grata’ në Kosovë/ Vendimi erdhi pasi Paunoviq tha “se do ta spastronte etnikisht Kosovën më 1998”",
@@ -78,7 +89,7 @@
       "date": "2026-07-14T21:43:22+00:00",
       "dateStr": "14 Jul, 21:43",
       "isNew": true,
-      "id": "24 41784065402"
+      "id": "24 51784065402"
     },
     {
       "title": "Zidane pritet të zëvendësojë Deschamps pas Botërorit 2026",
@@ -89,7 +100,7 @@
       "date": "2026-07-14T21:42:39+00:00",
       "dateStr": "14 Jul, 21:42",
       "isNew": true,
-      "id": "24 51784065359"
+      "id": "24 61784065359"
     },
     {
       "title": "“Ramën nuk e largojnë protestat”, Avokati Petraj: Organizatorët e radikalizuan protestën!",
@@ -111,7 +122,7 @@
       "date": "2026-07-14T21:29:37+00:00",
       "dateStr": "14 Jul, 21:29",
       "isNew": true,
-      "id": "24 61784064577"
+      "id": "24 71784064577"
     },
     {
       "title": "Franca për vendin e tretë në Kupën e Botës: ndeshja ndaj L102 në Miami",
@@ -122,7 +133,7 @@
       "date": "2026-07-14T21:28:51+00:00",
       "dateStr": "14 Jul, 21:28",
       "isNew": true,
-      "id": "24 71784064531"
+      "id": "24 81784064531"
     },
     {
       "title": "Mbappé mbetet pa finalen e tretë radhazi të Kupës së Botës pas humbjes 2-0 ndaj Spanjës",
@@ -133,18 +144,7 @@
       "date": "2026-07-14T21:27:15+00:00",
       "dateStr": "14 Jul, 21:27",
       "isNew": true,
-      "id": "24 81784064435"
-    },
-    {
-      "title": "“10 mijë euro për t’u bërë mësues”, Koka: Ja sa paguhet për t’u futur në sistemin arsimor",
-      "link": "https://24-ore.com/10-mije-euro-per-tu-bere-mesues-koka-ja-sa-paguhet-per-tu-futur-ne-sistemin-arsimor/",
-      "description": "Gazetari Bledian Koka i ftuar këtë të martë në emisionin “Now” me Erla Mëhillin në Euronews Albania ka folur lidhur me sistemin arsimor në vend. Gjatë fjalës së tij, ai u shpreh se sistemi arsimor në Shqipëri po përballet me rënie drastike të cilësisë. Sipas Kokës, realiteti brenda institucioneve ar",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-14T21:23:29+00:00",
-      "dateStr": "14 Jul, 21:23",
-      "isNew": true,
-      "id": "24 91784064209"
+      "id": "24 91784064435"
     },
     {
       "title": "“Gjelat” nuk këndojnë/ Spanja shkon në finale e Botërorit me spektakël",
