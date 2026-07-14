@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-07-13T23:50:35.514540+00:00",
+  "lastUpdated": "2026-07-14T02:02:02.663931+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Kupa e Botës 2026: Deschamps thotë se Mbappé është 100% për gjysmëfinalen ndaj Spanjës",
+      "link": "https://24-ore.com/kupa-e-botes-2026-deschamps-thote-se-mbappe-eshte-100-per-gjysmefinalen-ndaj-spanjes/",
+      "description": "Trajneri i Francës, Didier Deschamps, deklaroi se Kylian Mbappé është 100% i gatshëm për gjysmëfinalen ndaj Spanjës në Kupën e Botës 2026. Sulmuesi u largua nga ndeshja e çerekfinales kundër Marokut në minutën e 77-të për shkak të një shqetësimi në kyç, dhe stafi mjekësor e monitoroi me kujdes gjend",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T01:43:05+00:00",
+      "dateStr": "14 Jul, 01:43",
+      "isNew": true,
+      "id": "24 01783993385"
+    },
+    {
+      "title": "Botërori 2026: Franca, Spanja, Argjentina dhe Anglia në gjysmëfinale",
+      "link": "https://24-ore.com/boterori-2026-franca-spanja-argjentina-dhe-anglia-ne-gjysmefinale/",
+      "description": "Pas 100 ndeshjesh, Botërori 2026, me 48 kombëtare, ka mbetur me katër skuadrat më të shquara: Franca, Spanja, Argjentina dhe Anglia. Për herë të parë që nga 1990, katër të fundit janë vetëm kampione të mëparshme, ndërsa për herë të parë ato janë edhe katër të parat në renditjen e FIFA-s — tregues i ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T01:13:27+00:00",
+      "dateStr": "14 Jul, 01:13",
+      "isNew": true,
+      "id": "24 11783991607"
+    },
+    {
+      "title": "Deschamps parashikon një përballje “spektakolare” mes Francës dhe Spanjës në gjysmëfinale",
+      "link": "https://24-ore.com/deschamps-parashikon-nje-perballje-spektakolare-mes-frances-dhe-spanjes-ne-gjysmefinale/",
+      "description": "Trajneri i Francës, Didier Deschamps, parashikon një ndeshje spektakolare kur skuadra e tij përballet me Spanjën në gjysmëfinalen e Kupës së Botës në Dallas të martën. Takimi pritet të jetë një përballje e fortë midis dy ekipeve me trajnerë me përvojë dhe me shumë yje në sastret. Sipas bbc, Spanja f",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-14T00:33:16+00:00",
+      "dateStr": "14 Jul, 00:33",
+      "isNew": true,
+      "id": "24 21783989196"
+    },
     {
       "title": "Për çfarë u përdorën 4 mln euro në koncertin e Kanye West? Erla pyet Vengun",
       "link": "https://24-ore.com/per-cfare-u-perdoren-4-mln-euro-ne-koncertin-e-kanye-west-erla-pyet-vengun/",
@@ -12,7 +45,7 @@
       "date": "2026-07-13T22:22:43+00:00",
       "dateStr": "13 Jul, 22:22",
       "isNew": true,
-      "id": "24 01783981363"
+      "id": "24 31783981363"
     },
     {
       "title": "Vetëm 14 anije kaluan nëpër Ngushticën e Hormuzit në 24 orë",
@@ -23,7 +56,7 @@
       "date": "2026-07-13T22:22:22+00:00",
       "dateStr": "13 Jul, 22:22",
       "isNew": true,
-      "id": "24 11783981342"
+      "id": "24 41783981342"
     },
     {
       "title": "“Kallëzimi i PD, pa bazë ligjore dhe absurde”, Avokati: Koncerti promovoi Shqipërinë dhe turizmin",
@@ -45,7 +78,7 @@
       "date": "2026-07-13T21:31:45+00:00",
       "dateStr": "13 Jul, 21:31",
       "isNew": true,
-      "id": "24 21783978305"
+      "id": "24 51783978305"
     },
     {
       "title": "Përballja Argjentinë-Angli: lidhjet e forta të përfaqësueses argjentinase me Premier League",
@@ -56,7 +89,7 @@
       "date": "2026-07-13T21:27:21+00:00",
       "dateStr": "13 Jul, 21:27",
       "isNew": true,
-      "id": "24 31783978041"
+      "id": "24 61783978041"
     },
     {
       "title": "Cristiano Ronaldo mbyll një epokë me kombëtaren e Portugalisë",
@@ -67,7 +100,7 @@
       "date": "2026-07-13T21:13:18+00:00",
       "dateStr": "13 Jul, 21:13",
       "isNew": true,
-      "id": "24 41783977198"
+      "id": "24 71783977198"
     },
     {
       "title": "Costa përshëndet mbylljen e kapitujve / Presidenti i Këshillit të BE: Progres i qartë dhe hap më pranë Unionit për Shqipërinë",
@@ -89,7 +122,7 @@
       "date": "2026-07-13T21:01:18+00:00",
       "dateStr": "13 Jul, 21:01",
       "isNew": true,
-      "id": "24 51783976478"
+      "id": "24 81783976478"
     },
     {
       "title": "“Më vodhët votat, nuk frymëzoni”, ish-aleati i Berishës përplaset me Telitin",
@@ -100,18 +133,7 @@
       "date": "2026-07-13T21:01:09+00:00",
       "dateStr": "13 Jul, 21:01",
       "isNew": true,
-      "id": "24 61783976469"
-    },
-    {
-      "title": "Del traileri i “Digger”/ Tom Cruise siç nuk e keni parë asnjëherë",
-      "link": "https://24-ore.com/del-traileri-i-digger-tom-cruise-sic-nuk-e-keni-pare-asnjehere/",
-      "description": "Traileri i parë i plotë i “Digger”, filmi shumë i pritur komedi-dramë i regjisorit Alejandro González Iñárritu u publikua këtë të hënë. Publiku ka parë një anë të panjohur të Tom Cruise. Filmi do të dalë në mbarë botën në fillim të tetorit dhe Cruise luan rolin e Digger Rockwell, &#8220;njeriu më i ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-13T21:00:19+00:00",
-      "dateStr": "13 Jul, 21:00",
-      "isNew": true,
-      "id": "24 71783976419"
+      "id": "24 91783976469"
     },
     {
       "title": "Rama ndan pamje nga darka zyrtare me Macron në kuadër të Samitit të Koalicionit të Vullnetmirëve",
@@ -123,28 +145,6 @@
       "dateStr": "13 Jul, 21:00",
       "isNew": true,
       "id": "abc21783976411"
-    },
-    {
-      "title": "FRANCË – Macron: Aleatët e koalicionit manovra ushtarake në vendet që kufizohen me Ukrainën",
-      "link": "https://24-ore.com/france-macron-aleatet-e-koalicionit-manovra-ushtarake-ne-vendet-qe-kufizohen-me-ukrainen/",
-      "description": "PARIS, 13 korrik /ATSH-DPA/ – Koalicioni i të Gatshëmve, një grup vendesh perëndimore që mbështesin mbrojtjen e Ukrainës kundër Rusisë, planifikon të zhvillojë manovra të përbashkëta ushtarake në vendet që kufizohen me Ukrainën në muajt e ardhshëm, si pjesë e përgatitjeve për një forcë mbështetëse s",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-13T20:59:27+00:00",
-      "dateStr": "13 Jul, 20:59",
-      "isNew": true,
-      "id": "24 81783976367"
-    },
-    {
-      "title": "Marrëveshja Britani–Zvicër heq tarifat e roamingut dhe hap e-gatet për udhëtarët britanikë",
-      "link": "https://24-ore.com/marreveshja-britani-zvicer-heq-tarifat-e-roamingut-dhe-hap-e-gatet-per-udhetaret-britanike/",
-      "description": "Mbretëria e Bashkuar ka nënshkruar një marrëveshje tregtare me Zvicrën që u hap rrugën udhëtarëve britanikë të përdorin për herë të parë e-gatet në aeroportet zvicerane dhe eliminon tarifat e roamingut për përdoruesit e telefonisë celulare që udhëtojnë midis dy vendeve. Sekretari i Tregtisë, Peter K",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-13T20:58:36+00:00",
-      "dateStr": "13 Jul, 20:58",
-      "isNew": true,
-      "id": "24 91783976316"
     },
     {
       "title": "“Ishim me fat me Norvegjinë”, Çobani: Anglia ka objektiv fitimin e Botërorit, Tuchel tha një të vërtetë",
