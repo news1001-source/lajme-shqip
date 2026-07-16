@@ -1,8 +1,85 @@
 {
-  "lastUpdated": "2026-07-16T02:30:10.942105+00:00",
+  "lastUpdated": "2026-07-16T05:35:38.821045+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Ukraina varros ushtarët e panjohur ndërsa familjet presin identifikimin",
+      "link": "https://24-ore.com/ukraina-varros-ushtaret-e-panjohur-ndersa-familjet-presin-identifikimin/",
+      "description": "Në një varrezë ushtarake pranë Kievit, rreshta kryqesh mbajnë shënimin “mbrojtës i panjohur i Ukrainës” dhe një numër identifikimi nën të. Familjet që kërkojnë të njohin të afërmit e humbur kalojnë mes tyre; me një fotografi të bashkëngjitur në një varr u zbulua se një nga të varrosurit ishte Ihor Y",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T05:28:47+00:00",
+      "dateStr": "16 Jul, 05:28",
+      "isNew": true,
+      "id": "24 01784179727"
+    },
+    {
+      "title": "Kuvendi mblidhet në seancë plenare, në fokus financat, bujqësia dhe hekurudha Tiranë-Durrës",
+      "link": "https://24-ore.com/kuvendi-mblidhet-ne-seance-plenare-ne-fokus-financat-bujqesia-dhe-hekurudha-tirane-durres/",
+      "description": "Kuvendi i Shqipërisë mblidhet këtë të enjte në orën 10:00 në seancë plenare, me një rend dite prej 24 pikash, ku në fokus do të jenë interpelanca me ministrin e Financave, Petrit Malaj, shqyrtimi i disa projektligjeve të rëndësishme dhe ratifikimi i marrëveshjeve ndërkombëtare. Pika më e debatueshme",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T05:26:24+00:00",
+      "dateStr": "16 Jul, 05:26",
+      "isNew": true,
+      "id": "24 11784179584"
+    },
+    {
+      "title": "Vranët dhe me diell, pasditja në disa zona me riga shiu",
+      "link": "https://24-ore.com/vranet-dhe-me-diell-pasditja-ne-disa-zona-me-riga-shiu/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të jetë pjesërisht i vranët dhe me intervale me diell. IHK njofton se në disa zona parashihen riga lokale shiu, të shoqëruara me shkarkime rrufesh, kryesisht gjatë orëve të pasdites. Temperaturat minimale do të lëvizin ndërmjet 11°C dhe 1",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T05:21:30+00:00",
+      "dateStr": "16 Jul, 05:21",
+      "isNew": true,
+      "id": "24 21784179290"
+    },
+    {
+      "title": "Pritet vendimi në gjyqin për rrëzimin e urës Morandi në Gjenova që la 43 të vdekur",
+      "link": "https://24-ore.com/pritet-vendimi-ne-gjyqin-per-rrezimin-e-ures-morandi-ne-gjenova-qe-la-43-te-vdekur/",
+      "description": "Familjarë të 43 personave që humbën jetën kur, më 14 gusht 2018, një pjesë 200-metër e urës Morandi në Gjenova shembi gjatë një stuhie pritet të jenë në sallën e gjyqit kur do të shpallen vendimet për 57 të pandehurit. Rrëzimi ndodhi në prag të ditës tradicionale të pushimeve të 15 gushtit (Ferragos",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T05:13:45+00:00",
+      "dateStr": "16 Jul, 05:13",
+      "isNew": true,
+      "id": "24 31784178825"
+    },
+    {
+      "title": "Pas vizave e “braktisën”, këtë vit turistët nga Kosova i rikthehen sërish Shqipërisë",
+      "link": "https://24-ore.com/pas-vizave-e-braktisen-kete-vit-turistet-nga-kosova-i-rikthehen-serish-shqiperise/",
+      "description": "Shqip&#235;ria vazhdon t&#235; mbetet destinacioni kryesor i pushuesve nga Kosova edhe gjat&#235; k&#235;tij sezoni veror. P&#235;rfaq&#235;sues t&#235; turizmit dhe biznesit thon&#235; se interesimi mbetet i lart&#235;, nd&#235;rsa &#231;mimet, ofertat turistike dhe af&#235;rsia vazhdojn&#235; t&#2",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T04:11:43+00:00",
+      "dateStr": "16 Jul, 04:11",
+      "isNew": true,
+      "id": "24 41784175103"
+    },
+    {
+      "title": "Tuchel: Nuk kam pendime për zgjedhjet taktike pas humbjes ndaj Argjentinës",
+      "link": "https://24-ore.com/tuchel-nuk-kam-pendime-per-zgjedhjet-taktike-pas-humbjes-ndaj-argjentines/",
+      "description": "Trajneri i Anglisë, Thomas Tuchel, tha se nuk ka pendime për vendimet taktike pas humbjes në gjysmëfinale ndaj Argjentinës, edhe pse rezultati e la ekipin jashtë finales së Kupës së Botës. Në debutimin e tij në këtë turne si trajner nacional, Tuchel arriti t çojë Anglinë deri në gjysmëfinale, por sk",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T03:01:20+00:00",
+      "dateStr": "16 Jul, 03:01",
+      "isNew": true,
+      "id": "24 51784170880"
+    },
+    {
+      "title": "PD ka shumë probleme, por të gjitha e kanë emrin Sali Berisha",
+      "link": "https://24-ore.com/pd-ka-shume-probleme-por-te-gjitha-e-kane-emrin-sali-berisha/",
+      "description": "Partia Demokratike u mblodh për t’u “ripërtërirë”. U paraqitën kandidatë për nënkryetarë, sekretarë, komisione dhe përfaqësues të diasporës. Lista ishte e gjatë, postet të shumta, procedura solemne. Vetëm ndryshimi mungonte. Sepse PD-ja po shkon përsëri nga Berisha te Berisha. Sali Berisha paraqiti ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T02:42:51+00:00",
+      "dateStr": "16 Jul, 02:42",
+      "isNew": true,
+      "id": "24 61784169771"
+    },
     {
       "title": "Si arriti Messi rekordin e asistimeve në Kupën e Botës: 12 asistë për 11 shokë",
       "link": "https://24-ore.com/si-arriti-messi-rekordin-e-asistimeve-ne-kupen-e-botes-12-asiste-per-11-shoke/",
@@ -12,7 +89,7 @@
       "date": "2026-07-16T02:03:08+00:00",
       "dateStr": "16 Jul, 02:03",
       "isNew": true,
-      "id": "24 01784167388"
+      "id": "24 71784167388"
     },
     {
       "title": "Argentina përmbys Anglinë 2-1 në gjysmëfinale, vendos Lautaro Martínez në minutën e 92-të",
@@ -23,7 +100,7 @@
       "date": "2026-07-16T02:02:05+00:00",
       "dateStr": "16 Jul, 02:02",
       "isNew": true,
-      "id": "24 11784167325"
+      "id": "24 81784167325"
     },
     {
       "title": "Humbja ndaj Argjentinës shuan shpresat e Anglisë për finalen e Botës",
@@ -34,84 +111,7 @@
       "date": "2026-07-16T01:57:24+00:00",
       "dateStr": "16 Jul, 01:57",
       "isNew": true,
-      "id": "24 21784167044"
-    },
-    {
-      "title": "Argjentina fiton 2-1 ndaj Anglisë me përmbysje të vonë, paralajmërim për Spanjën",
-      "link": "https://24-ore.com/argjentina-fiton-2-1-ndaj-anglise-me-permbysje-te-vone-paralajmerim-per-spanjen/",
-      "description": "Argjentina shënoi dy gola brenda pak minutash në pjesën e fundit të takimit dhe mposhti Anglinë 2-1, duke siguruar një tjetër kualifikim pas një përmbysjeje të vonë. Goli i avantazhit për Anglëninë erdhi nga Anthony Gordon në minutën e 55-të, por Lautaro Martínez vendosi sfidën me golin e fituesit",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T01:27:36+00:00",
-      "dateStr": "16 Jul, 01:27",
-      "isNew": true,
-      "id": "24 31784165256"
-    },
-    {
-      "title": "Messi: Pëlqeje ose jo, këtij ekipi nuk i jepet asgjë",
-      "link": "https://24-ore.com/messi-pelqeje-ose-jo-ketij-ekipi-nuk-i-jepet-asgje/",
-      "description": "Lionel Messi iu përgjigj ashpër kritikëve pas kthesës epike kundër Anglisë, ndeshje që i siguroi Argjentinës vendin në finalen e Kupës së Botës. Kapiteni theksoi rëndësinë e fitores dhe rolin vendimtar të skuadrës në momentet kyçe. Sipas sports.yahoo, Messi tha se përkundër kritikave dhe dyshimeve a",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T01:13:40+00:00",
-      "dateStr": "16 Jul, 01:13",
-      "isNew": true,
-      "id": "24 41784164420"
-    },
-    {
-      "title": "Tuchel dhe zgjedhjet taktike: Si humbi Anglia 1-2 ndaj Argjentinës dhe u ndal para finales",
-      "link": "https://24-ore.com/tuchel-dhe-zgjedhjet-taktike-si-humbi-anglia-1-2-ndaj-argjentines-dhe-u-ndal-para-finales/",
-      "description": "Anglia u tregua e epërme në gjysmëfinalen e Botërorit, kur Anthony Gordon shënoi në minutën e 55 për t’i dhënë skuadrës avantazh ndaj kampionëve në fuqi, Argjentinës, në Atlanta Stadium. Por në harkun e pak minutave gjithçka ndryshoi: Enzo Fernández barazoi me një gjuajtje të fuqishme në minutën e 8",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T01:12:19+00:00",
-      "dateStr": "16 Jul, 01:12",
-      "isNew": true,
-      "id": "24 51784164339"
-    },
-    {
-      "title": "Anije me rreth 60 emigrantë përmbyset pranë Libisë, të paktën 50 të vdekur ose të zhdukur",
-      "link": "https://24-ore.com/anije-me-rreth-60-emigrante-permbyset-prane-libise-te-pakten-50-te-vdekur-ose-te-zhdukur/",
-      "description": "Një anije me rreth 60 emigrantë, përfshirë gra dhe fëmijë, u përmbys pranë bregut lindor të Libisë ndërsa synonte brigjet evropiane. Autoritetet njoftojnë se të paktën 50 persona rezultojnë të vdekur ose të zhdukur, ndërsa dhjetë veta shpëtuan duke notuar drejt një ishulli pranë vendngjarjes dhe kër",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T00:59:19+00:00",
-      "dateStr": "16 Jul, 00:59",
-      "isNew": true,
-      "id": "24 61784163559"
-    },
-    {
-      "title": "Bellingham godet lojtarin argjentinas pas humbjes së Anglisë në gjysmëfinale",
-      "link": "https://24-ore.com/bellingham-godet-lojtarin-argjentinas-pas-humbjes-se-anglise-ne-gjysmefinale/",
-      "description": "Jude Bellingham ishte një nga figurat kryesore të Anglisë në Botërorin 2026, por rrugëtimi i tij përfundoi në gjysmëfinale me humbjen 2-1 ndaj Argjentinës. Në pjesën e dytë ai ndihmoi skuadrën të kalonte në avantazh 1-0 me një qarkullim të saktë të topit, por më pas Argjentina arriti të kthejë rezul",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T00:58:29+00:00",
-      "dateStr": "16 Jul, 00:58",
-      "isNew": true,
-      "id": "24 71784163509"
-    },
-    {
-      "title": "Botërori 2026: Anglia eliminohet në limit, Dan Burn thotë se humbja do ta ndjekë",
-      "link": "https://24-ore.com/boterori-2026-anglia-eliminohet-ne-limit-dan-burn-thote-se-humbja-do-ta-ndjeke/",
-      "description": "Anglia u eliminuan nga Argjentina në gjysmëfinalen e Botërorit 2026 në Atlanta, pas një përmbysjeje dramatike në minutat e fundit që iu mori mundësinë për të shkuar në finalen e parë që prej 1966. England kaloi në avantazh në minutën e 55-të, kur Anthony Gordon shënoi pas një krosimi të Morgan Roger",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T00:57:19+00:00",
-      "dateStr": "16 Jul, 00:57",
-      "isNew": true,
-      "id": "24 81784163439"
-    },
-    {
-      "title": "Argjentina shfaq pankartën për Ishujt Falkland pas fitores ndaj Anglisë, rrezikon ndëshkime",
-      "link": "https://24-ore.com/argjentina-shfaq-pankarten-per-ishujt-falkland-pas-fitores-ndaj-anglise-rrezikon-ndeshkime/",
-      "description": "Ndeshja e së mërkurës midis Anglisë dhe Argjentinës në Botëror riktheu në vëmendje një histori të gjatë midis dy vendeve, përfshirë Luftën e Ishujve Falkland të vitit 1982 — një konflikt 74-ditor që shkaktoi vdekjen e 649 ushtarëve argjentinas, 255 britanikë dhe tre banorëve të ishujve. Në Mercedes-",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T00:43:33+00:00",
-      "dateStr": "16 Jul, 00:43",
-      "isNew": true,
-      "id": "24 91784162613"
+      "id": "24 91784167044"
     },
     {
       "title": "Balla: Protesta e Saliut / Kreu i Grupit Parlamentar të PS: Një nga folësit, në krye të Këshillit të PD",
