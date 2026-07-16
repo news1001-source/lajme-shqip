@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-07-16T22:53:24.591655+00:00",
+  "lastUpdated": "2026-07-16T23:54:39.229160+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "A duhet të protestojnë gazetarët?",
+      "link": "https://24-ore.com/a-duhet-te-protestojne-gazetaret/",
+      "description": "Ka një standard etik në profesionin e gazetarit, i cili nuk lejon të protestohet për kauza mbi të cilat raporton, përndryshe konsiderohet i anshëm. Këtë dilemë e kam patur dhe vetë, përpara se të vendosja të dilja në protestë. Vendosa të shkoj sepse e ndjeva se kauza për të cilën protestohet më përk",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T23:44:11+00:00",
+      "dateStr": "16 Jul, 23:44",
+      "isNew": true,
+      "id": "24 01784245451"
+    },
+    {
+      "title": "Milei refuzon të shkojë në finalen e Kupës së Botës për shkak të supersticionit",
+      "link": "https://24-ore.com/milei-refuzon-te-shkoje-ne-finalen-e-kupes-se-botes-per-shkak-te-supersticionit/",
+      "description": "Presidenti i Argjentinës, Javier Milei, njoftoi se nuk do të udhëtojë për të ndjekur finalen e Kupës së Botës, duke preferuar ta shikojë ndeshjen e së dielës nga rezidenca presidenciale në Olivos. Ai tha se ka ndjekur aty shtatë ndeshjet e mëparshme të kombëtares dhe se do të mbajë të njëjtën xhaket",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T23:11:43+00:00",
+      "dateStr": "16 Jul, 23:11",
+      "isNew": true,
+      "id": "24 11784243503"
+    },
+    {
+      "title": "Fanella e Pelé nga finalja e Botërorit 1958 u shiti për 4.9 milionë dollarë",
+      "link": "https://24-ore.com/fanella-e-pele-nga-finalja-e-boterorit-1958-u-shiti-per-4-9-milione-dollare/",
+      "description": "Sot në ankand u shiti fanella numër 10 e legjendës braziliane Pelé, veshur në finalen e Kupës së Botës 1958, për 4.9 milionë dollarë në ankandin e Sotheby’s. Pelé, i cili vdiq në 2022, ishte vetëm 17 vjeç kur shënoi dy gola në fitoren 5-2 të Brazilit ndaj Suedisë në stadiumin Råsunda dhe mbetet lojt",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T22:57:01+00:00",
+      "dateStr": "16 Jul, 22:57",
+      "isNew": true,
+      "id": "24 21784242621"
+    },
     {
       "title": "Botërori 2026: FIFA do të shpërndajë për herë të parë unaza kampionesh për fituesin e finales Spanjë–Argjentinë",
       "link": "https://24-ore.com/boterori-2026-fifa-do-te-shperndaje-per-here-te-pare-unaza-kampionesh-per-fituesin-e-finales-spanje-argjentine/",
@@ -12,7 +45,7 @@
       "date": "2026-07-16T21:58:01+00:00",
       "dateStr": "16 Jul, 21:58",
       "isNew": true,
-      "id": "24 01784239081"
+      "id": "24 31784239081"
     },
     {
       "title": "Zjarret në Kosovë: Policia paralajmëron masa të ashpra ndaj zjarrvënësve",
@@ -23,7 +56,7 @@
       "date": "2026-07-16T21:46:28+00:00",
       "dateStr": "16 Jul, 21:46",
       "isNew": true,
-      "id": "24 11784238388"
+      "id": "24 41784238388"
     },
     {
       "title": "“PD ka humbur moralin dhe strategjinë politike”, Bejko: Zgjedhjet nuk e forcojnë demokracinë e brendshme të PD!",
@@ -45,7 +78,7 @@
       "date": "2026-07-16T21:32:11+00:00",
       "dateStr": "16 Jul, 21:32",
       "isNew": true,
-      "id": "24 21784237531"
+      "id": "24 51784237531"
     },
     {
       "title": "Spanja stërvitet jashtë në New Jersey përpara finales së Botërorit, ndërsa ajri mbushet me tym nga zjarret kanadeze",
@@ -56,7 +89,7 @@
       "date": "2026-07-16T21:27:28+00:00",
       "dateStr": "16 Jul, 21:27",
       "isNew": true,
-      "id": "24 31784237248"
+      "id": "24 61784237248"
     },
     {
       "title": "Nebi Hoxha kërkon dëshmi se Osman Selmani ka qëndruar në Çegran gjatë luftës dhe nuk ka kryer krime lufte",
@@ -67,7 +100,7 @@
       "date": "2026-07-16T21:26:38+00:00",
       "dateStr": "16 Jul, 21:26",
       "isNew": true,
-      "id": "24 41784237198"
+      "id": "24 71784237198"
     },
     {
       "title": "Dita e 47-të, qytetarët njoftojnë protestë para Parlamentit më 23 korrik. Nisin marshimin në rrugët e Tiranës",
@@ -78,7 +111,7 @@
       "date": "2026-07-16T21:25:16+00:00",
       "dateStr": "16 Jul, 21:25",
       "isNew": true,
-      "id": "24 51784237116"
+      "id": "24 81784237116"
     },
     {
       "title": "“Drafti i Spiropalit”, Manjani: Nuk është projekt politik",
@@ -89,18 +122,7 @@
       "date": "2026-07-16T21:24:50+00:00",
       "dateStr": "16 Jul, 21:24",
       "isNew": true,
-      "id": "24 61784237090"
-    },
-    {
-      "title": "Si ikën Rama? Xhafo zbulon 2 mënyrat dhe bën llogarinë e mandateve…",
-      "link": "https://24-ore.com/si-iken-rama-xhafo-zbulon-2-menyrat-dhe-ben-llogarine-e-mandateve/",
-      "description": "Gazetari Endri Xhafo i ftuar këtë të enjte në “Now” me Erla Mëhillin në Euronews Albania ka folur mbi mënyrat se si kryeministri Edi Rama mund të largohet nga detyra. Sipas tij ka dy mënyra, njëra me vullnet dhe tjetra sipas rregullores. “Lind pyetja si ikën Rama? Rama sot ikën me dy mënyra. Njëra, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T21:24:31+00:00",
-      "dateStr": "16 Jul, 21:24",
-      "isNew": true,
-      "id": "24 71784237071"
+      "id": "24 91784237090"
     },
     {
       "title": "SHBA e shqetësuar nga e majta ekstreme/ Evropa në fokus të strategjisë amerikane kundër terrorizmit politik të grupeve radikale",
@@ -112,28 +134,6 @@
       "dateStr": "16 Jul, 21:24",
       "isNew": true,
       "id": "abc11784237068"
-    },
-    {
-      "title": "Rama: Shqipëria dhe vlerat e saj vazhdojnë të frymëzojnë deri në produksionet më të mëdha të Hollivudit, si “The Odyssey”",
-      "link": "https://24-ore.com/rama-shqiperia-dhe-vlerat-e-saj-vazhdojne-te-frymezojne-deri-ne-produksionet-me-te-medha-te-hollivudit-si-the-odyssey/",
-      "description": "Megaproduksioni i Hollivudit “Odiseja” e Kristofer Nolan ka përdor muzikë shqiptare. Lajmit i ka bërë jehonë dhe kryeministri Rama në fb. Më poshtë postimi i plotë i Ramës: Ju uroj një mbrëmje të bukur krenarie, pasi Shqipëria dhe vlerat e saj vazhdojnë të frymëzojnë deri në produksionet më të mëdha",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T21:24:08+00:00",
-      "dateStr": "16 Jul, 21:24",
-      "isNew": true,
-      "id": "24 81784237048"
-    },
-    {
-      "title": "Katër deputetë grekë nën akuzë për abuzim me subvencionet evropiane",
-      "link": "https://24-ore.com/kater-deputete-greke-nen-akuze-per-abuzim-me-subvencionet-evropiane/",
-      "description": "Zyra e Prokurorit Evropian në Athinë ka ngritur akuza ndaj 22 të dyshuarve, përfshirë 4 deputetë, figura politike dhe ish-zyrtarë, në kuadër të një hetimi për mashtrim financiar të organizuar me menaxhimin e fondeve të agrikulturës. Hetimet kanë zbuluar modele të shumta korrupsioni me subvencionet e",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T21:23:50+00:00",
-      "dateStr": "16 Jul, 21:23",
-      "isNew": true,
-      "id": "24 91784237030"
     },
     {
       "title": "Argjentina, zemra fiton gjithmonë/ Mneri: Arbitri u tregua dashamirës me Argjentinën në pjesën e parë",
