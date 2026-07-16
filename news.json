@@ -1,73 +1,194 @@
 {
-  "lastUpdated": "2026-07-16T19:59:16.184492+00:00",
+  "lastUpdated": "2026-07-16T21:08:25.834074+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "“Keni kuptuar gjë nga kjo protestë?”/ Klosi: Është dimension lirie, por qeveria largohet vetëm me zgjedhje",
-      "link": "https://24-ore.com/keni-kuptuar-gje-nga-kjo-proteste-klosi-eshte-dimension-lirie-por-qeveria-largohet-vetem-me-zgjedhje/",
-      "description": "Sekretari i Përgjithshëm i Partisë Socialiste, Blendi Klosi, i ftuar në emisionin “Të Paekspozuarit” në MCN TV, deklaroi se protsta, e cila është sot në ditën e 47-të, është një tregues i lirisë që kanë qytetarët për të kundërshtuar qeverinëm, ndërkohë që shtoi se vetëm vota dhe zgjedhjet përcaktojn",
+      "title": "Murati zbulon projektin e parë të madh në inteligjencën artificiale me “Thinking Machines Lab”",
+      "link": "https://24-ore.com/murati-zbulon-projektin-e-pare-te-madh-ne-inteligjencen-artificiale-me-thinking-machines-lab/",
+      "description": "Ish-drejtoresha teknologjike e OpenAI, Mira Murati, ka prezantuar modelin e parë të inteligjencës artificiale nga kompania e saj e re Thinking Machines Lab. Modeli i quajtur Inkling synon të ofrojë një alternativë më fleksibile ndaj sistemeve të mëdha të kontrolluara nga kompanitë kryesore të AI. In",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-16T19:57:21+00:00",
-      "dateStr": "16 Jul, 19:57",
+      "date": "2026-07-16T21:07:15+00:00",
+      "dateStr": "16 Jul, 21:07",
       "isNew": true,
-      "id": "24 01784231841"
+      "id": "24 01784236035"
     },
     {
-      "title": "Konjufca në Uashington merr pjesë në takimin ministror për luftën kundër terrorizmit politik: SHBA mbetet aleati ynë më i afërt",
-      "link": "https://24-ore.com/konjufca-ne-uashington-merr-pjese-ne-takimin-ministror-per-luften-kunder-terrorizmit-politik-shba-mbetet-aleati-yne-me-i-afert/",
-      "description": "Ministri i Punëve të Jashtme dhe Diasporës në detyrë, Glauk Konjufca, ka marrë pjesë në takimin ministror për rritjen e rrezikut nga terrorizmi politik, i organizuar në Washington D.C. nga sekretari amerikan i Shtetit, Marco Rubio. Përmes një postimi, Konjufca tha se pjesëmarrja e Kosovës në këtë ta",
+      "title": "Messi kundër kritikëve: “Asgjë nuk na u dha” pas kthesës ndaj Anglisë",
+      "link": "https://24-ore.com/messi-kunder-kritikeve-asgje-nuk-na-u-dha-pas-ktheses-ndaj-anglise/",
+      "description": "Lionel Messi hodhi poshtë akuzat për favore pas fitores 2-1 të Argjentinës ndaj Anglisë në gjysmëfinalen e Botërorit, një ndeshje në të cilën skuadra e tij arriti të përmbyste rezultatin pas minutës së 85-të. Me këtë fitore, Albiceleste shkon në finale dhe bëri që rrugët e Buenos Airesit të mbushen ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-16T19:57:01+00:00",
-      "dateStr": "16 Jul, 19:57",
+      "date": "2026-07-16T21:01:58+00:00",
+      "dateStr": "16 Jul, 21:01",
       "isNew": true,
-      "id": "24 11784231821"
+      "id": "24 11784235718"
     },
     {
-      "title": "FOKUS – Fibrat ushqyesi thelbësor që mbron trurin dhe zgjon shëndetin",
-      "link": "https://24-ore.com/fokus-fibrat-ushqyesi-thelbesor-qe-mbron-trurin-dhe-zgjon-shendetin/",
-      "description": "– Fibrat janë një ushqyes thelbësor që mund të përmirësojnë shëndetin, të zgjasin jetëgjatësinë dhe të mbrojnë funksionet e trurit, sipas BBC. Dietat e pasura me drithëra të plota, fruta, perime, bishtajore, arra dhe fara, të gjithë të pasura me fibra, kanë përfitime të mëdha për trupin dhe trurin. ",
+      "title": "SHBA – Shtëpia e Bardhë: Irani i interesuar për marrëveshje me Uashingtonin",
+      "link": "https://24-ore.com/shba-shtepia-e-bardhe-irani-i-interesuar-per-marreveshje-me-uashingtonin/",
+      "description": "UASHINGTON, 16 korrik /ATSH-DPA/ – Irani vazhdon të jetë i interesuar për arritjen e një marrëveshjeje me Shtetet e Bashkuara të Amerikës, deklaroi sot zëdhënësja e Shtëpisë së Bardhë, Karoline Leavitt, gjatë daljes së saj të parë publike pas lindjes së fëmijës së saj të dytë në muajin maj. Sipas Le",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-16T19:55:56+00:00",
-      "dateStr": "16 Jul, 19:55",
+      "date": "2026-07-16T20:59:41+00:00",
+      "dateStr": "16 Jul, 20:59",
       "isNew": true,
-      "id": "24 21784231756"
+      "id": "24 21784235581"
     },
     {
-      "title": "Beqiri: LDK nuk është pronë private, duhet Kuvend zgjedhor dhe lidership i ri",
-      "link": "https://24-ore.com/beqiri-ldk-nuk-eshte-prone-private-duhet-kuvend-zgjedhor-dhe-lidership-i-ri/",
-      "description": "Ish-nënkryetari i Lidhjes Demokratike të Kosovës (LDK), Ismet Beqiri, ka reaguar lidhur me zhvillimet e fundit brenda partisë, duke kërkuar mbajtjen e zgjedhjeve të reja në të gjitha nivelet organizative. Beqiri theksoi se LDK-ja ka një traditë politike sipas së cilës kryetari i partisë merr përgjeg",
+      "title": "Fanella e finales së Kupës së Botës 1958 që i përkiste Pelé shitet për rreth 3.6 milionë £",
+      "link": "https://24-ore.com/fanella-e-finales-se-kupes-se-botes-1958-qe-i-perkiste-pele-shitet-per-rreth-3-6-milione/",
+      "description": "Fanella që Pelé mbante në finalen e Kupës së Botës 1958 u shit për 4.9 milionë dollarë (rreth 3.6 milionë paund) në ankandin &#8220;The Beautiful Game&#8221; të Sotheby&#8217;s në New York. Kjo blerje e rendit fanellën e Pelé si të dytën më të shtrenjtën e shitura ndonjëherë, pas fanellës së Diego M",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-16T19:52:14+00:00",
-      "dateStr": "16 Jul, 19:52",
+      "date": "2026-07-16T20:58:10+00:00",
+      "dateStr": "16 Jul, 20:58",
       "isNew": true,
-      "id": "24 31784231534"
+      "id": "24 31784235490"
     },
     {
-      "title": "Siljanovska-Davkova: Ndryshimet kushtetuese nuk janë garanci se nuk do të shfaqen pengesa të reja në rrugën e Maqedonisë drejt BE-së",
-      "link": "https://24-ore.com/siljanovska-davkova-ndryshimet-kushtetuese-nuk-jane-garanci-se-nuk-do-te-shfaqen-pengesa-te-reja-ne-rrugen-e-maqedonise-drejt-be-se/",
-      "description": "Data 30 shtator është kyçe për të ardhmen e procesit të zgjerimit të Bashkimit Evropian, pasi Komisioni Evropian pritet të publikojë raportin për qasjen e re ndaj zgjerimit, deklaroi presidentja Gordana Siljanovska-Davkova. Në një intervistë për televizionin Kanal 5, Siljanovska-Davkova tha se më 30",
+      "title": "Mickoski-Brojer: Maqedonia e Veriut dhe Gjermania drejt bashkëpunimit më të ngushtë ushtarak",
+      "link": "https://24-ore.com/mickoski-brojer-maqedonia-e-veriut-dhe-gjermania-drejt-bashkepunimit-me-te-ngushte-ushtarak/",
+      "description": "Kryetari i Qeverisë Hristijan Mickoski, sot së bashku me ministrin e Mbrojtjes Vllado Misajllovski realizoi takim me kryeshefin e Shtabit të Përgjithshëm të Forcave të Armatosura (FA) të Republikës Federale të Gjermanisë, gjeneralin Karsten Brojer. Mickoski në një postim në profilin e tij në Fejsbuk",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-16T19:47:11+00:00",
-      "dateStr": "16 Jul, 19:47",
+      "date": "2026-07-16T20:57:19+00:00",
+      "dateStr": "16 Jul, 20:57",
       "isNew": true,
-      "id": "24 41784231231"
+      "id": "24 41784235439"
     },
     {
-      "title": "Finalja Botërore: Trajnerët e Spanjës dhe Argjentinës, një lidhje mësues–nxënës në një përballje të madhe",
-      "link": "https://24-ore.com/finalja-boterore-trajneret-e-spanjes-dhe-argjentines-nje-lidhje-mesues-nxenes-ne-nje-perballje-te-madhe/",
-      "description": "Ndeshja e së dielës në New Jersey do të vërë përballë për herë të parë kampionët aktualë të Amerikës së Jugut dhe ata të Evropës. Argentina synon të bëhet kombëtarja e parë që mbrojë titullin që nga Brazili i 1962, ndërsa Spanja shpreson të përsëritë suksesin Euro-Mundial të viteve 2008 dhe 2010. Fi",
+      "title": "Nis auditimi për mungesën e barnave në QKUK, paralajmërohen masa pas gjetjeve për Pediatri",
+      "link": "https://24-ore.com/nis-auditimi-per-mungesen-e-barnave-ne-qkuk-paralajmerohen-masa-pas-gjetjeve-per-pediatri/",
+      "description": "Kur ankesa u bë publike pati mobilizim për intervenim në Klinikën e Pediatrisë. Por, krahas kësaj, në këtë klinikë po planifikohet të kryhen renovime. Kështu deklaroi, drejtori i Shërbimit Spitalor Klinik e Universitar i Kosovës, Elvir Azizi në një intervistë për televizionin Dukagjini. “Ne nuk ësht",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-16T19:44:46+00:00",
-      "dateStr": "16 Jul, 19:44",
+      "date": "2026-07-16T20:57:08+00:00",
+      "dateStr": "16 Jul, 20:57",
       "isNew": true,
-      "id": "24 51784231086"
+      "id": "24 51784235428"
+    },
+    {
+      "title": "“Nëse nuk të “bekon” Noka, nuk bën karrierë në PD” Kuçana flet për përplasjen me Berishën",
+      "link": "https://24-ore.com/nese-nuk-te-bekon-noka-nuk-ben-karriere-ne-pd-kucana-flet-per-perplasjen-me-berishen/",
+      "description": "Ish-kandidatja për deputete e PD-së dhe anëtarja e Këshillit Kombëtar, Ilirjana Kuçana, sqaroi në emisionin “Të Paekspozuarit” në MCN TV përplasjen që pati me kryetarin e PD-së, Sali Berisha, gjatë mbledhjes së Këshillit Kombëtar. Kuçana tha se kishte paraqitur një rezolutë, e cila, sipas saj, nuk u",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T20:56:16+00:00",
+      "dateStr": "16 Jul, 20:56",
+      "isNew": true,
+      "id": "24 61784235376"
+    },
+    {
+      "title": "Argjentina, zemra fiton gjithmonë/ Mneri: Arbitri u tregua dashamirës me Argjentinën në pjesën e parë",
+      "link": "https://abcnews.al/argjentina-zemra-fiton-gjithmone-mneri-arbitri-u-tregua-dashamires-me-argjentinen-ne-pjesen-e-pare/",
+      "description": "Spanjë-Argjentinë do të jetë finalja e Kupës së Botës më 19 korrik. Argjentina besoi deri në fund dhe shënoi golin e përmbysjes me Lautaro Martinez në kohën shtesë.Anglia eliminohet për herë të tretë radhazi në gjysmëfinale, duke pësuar një tjetër zhgënjim. Bota bëhet gati për “La Finalissima”, duel",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-16T20:52:05+00:00",
+      "dateStr": "16 Jul, 20:52",
+      "isNew": true,
+      "id": "abc01784235125"
+    },
+    {
+      "title": "SHBA vendos kufizime të reja vizash ndaj individëve të lidhur me grupet terroriste të ekstremit të majtë",
+      "link": "https://abcnews.al/shba-vendos-kufizime-te-reja-vizash-ndaj-individeve-te-lidhur-me-grupet-terroriste-te-ekstremit-te-majte/",
+      "description": "Departamenti Amerikan i Shtetit ka njoftuar një politikë të re kufizimi vizash ndaj anëtarëve të grupeve terroriste të ekstremit të majtë dhe organizatave të lidhura me to, të cilët dyshohen se kanë mbështetur ose nxitur akte dhune dhe terrorizmi. Sipas njoftimit zyrtar, masa vjen në kuadër të Memor",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-16T20:46:26+00:00",
+      "dateStr": "16 Jul, 20:46",
+      "isNew": true,
+      "id": "abc11784234786"
+    },
+    {
+      "title": "“E turpshme”, raportuesi i PE-së i reagon ashpër Paunoviqit",
+      "link": "https://24-ore.com/e-turpshme-raportuesi-i-pe-se-i-reagon-ashper-paunoviqit/",
+      "description": "Deklarata e ministres serbe të Administratës Shtetërore dhe Vetëqeverisjes Lokale, Snezhana Paunoviq, e cila tha se po të ishte në vend të ish-presidentit serb Sllobodan Millosheviq në vitin 1998 do ta kishte “spastruar etnikisht Kosovën”, ka nxitur reagime të forta në Kosovë dhe në arenën ndërkombë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T20:42:00+00:00",
+      "dateStr": "16 Jul, 20:42",
+      "isNew": true,
+      "id": "24 71784234520"
+    },
+    {
+      "title": "Klubi i futbollit “Djemtë e Jugut”… (Dhe përse Anglia nuk do dalë kurrë kampion)",
+      "link": "https://24-ore.com/klubi-i-futbollit-djemte-e-jugut-dhe-perse-anglia-nuk-do-dale-kurre-kampion/",
+      "description": "Nga Sokol Balla Anglezët thonë se rugby është një sport për të varfërit që luhen nga fisnikët. Ndërsa futbolli është një sport për të pasurit që luhen nga varfanjakët. Anglezët i kanë shpikur të treja: fisnikërinë, rugby dhe futbollin dhe me siguri duhet të dinë diçka nga kjo punë. Por prova më e fu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T20:41:02+00:00",
+      "dateStr": "16 Jul, 20:41",
+      "isNew": true,
+      "id": "24 81784234462"
+    },
+    {
+      "title": "Finalja e Botërorit: a do të përcaktojë fituesin e Ballon d’Or ose do ta lërë garën të hapur?",
+      "link": "https://24-ore.com/finalja-e-boterorit-a-do-te-percaktoje-fituesin-e-ballon-dor-ose-do-ta-lere-garen-te-hapur/",
+      "description": "Fituesi i Ballon d&#8217;Or shpesh nxirret nga performancat në finalet e Champions League dhe nga gara në Botëror; suksesi në këto kompeticione zakonisht peshon shumë në votim. Me pesë-shtigjet e sezonit të klubeve dhe ndikimin e turneut në verë, lojtarët kryesorë mund të ngrihen ose të humbasin ven",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T20:33:18+00:00",
+      "dateStr": "16 Jul, 20:33",
+      "isNew": true,
+      "id": "24 91784233998"
+    },
+    {
+      "title": "Irani akuzon SHBA për “krime lufte” pas sulmeve ndaj infrastrukturës civile",
+      "link": "https://abcnews.al/irani-akuzon-shba-per-krime-lufte-pas-sulmeve-ndaj-infrastruktures-civile/",
+      "description": "Irani akuzoi SHBA-në për kryerjen e &#8220;krimeve të luftës&#8221; duke vënë në shënjestër infrastrukturën civile në sulmet e vazhdueshme kundër vendit, duke thënë se sulmet shkelin të drejtën ndërkombëtare dhe Kartën e OKB-së. Në një deklaratë të Ministrisë së Jashtme, të transmetuar nga transmetu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-16T20:25:14+00:00",
+      "dateStr": "16 Jul, 20:25",
+      "isNew": true,
+      "id": "abc21784233514"
+    },
+    {
+      "title": "Franca miraton ligjin për eutanazinë/ Protesta jashtë Asamblesë, kundër projektligjit",
+      "link": "https://abcnews.al/franca-miraton-ligjin-per-eutanazine-protesta-jashte-asamblese-kunder-projektligjit/",
+      "description": "Ligjvënësit francezë miratuan një projektligj që krijon të drejtën ligjore për vdekje të asistuar për të rriturit me sëmundje të pashërueshme, duke i dhënë fund një debati të ashpër etik dhe politik. Asambleja Kombëtare e miratoi projektligjin me 291 vota pro dhe 241 kundër. “Për këtë çështje, e cil",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-16T20:24:07+00:00",
+      "dateStr": "16 Jul, 20:24",
+      "isNew": true,
+      "id": "abc31784233447"
+    },
+    {
+      "title": "Klubi i futbollit “Djemtë e Jugut”",
+      "link": "https://abcnews.al/klubi-i-futbollit-djemte-e-jugut/",
+      "description": "Klubi i futbollit “Djemtë e Jugut” (Dhe përse Anglia nuk do dalë kurrë kampion) Nga Sokol Balla Anglezët thonë se rugby është një sport për të varfërit që luhen nga fisnikët. Ndërsa futbolli është një sport për të pasurit që luhen nga varfanjakët. Anglezët i kanë shpikur të treja: fisnikërinë, rugby",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-16T20:20:02+00:00",
+      "dateStr": "16 Jul, 20:20",
+      "isNew": true,
+      "id": "abc41784233202"
+    },
+    {
+      "title": "Shtëpia e Bardhë: Trump pajtohet se vendet e huaja përpiqen të ndikojnë opinionin publik amerikan",
+      "link": "https://abcnews.al/shtepia-e-bardhe-trump-pajtohet-se-vendet-e-huaja-perpiqen-te-ndikojne-opinionin-publik-amerikan/",
+      "description": "Presidenti amerikan, Donald Trump, beson se vendet e huaja janë përpjekur të ndikojnë opinionin publik amerikan, tha Shtëpia e Bardhë. Kjo pasoi komentet e zëvendëspresidentit JD Vance se një fushatë e financuar nga Izraeli synonte të pengonte negociatat SHBA-Iran. &#8220;Mendoj se presidenti me sig",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-16T20:00:47+00:00",
+      "dateStr": "16 Jul, 20:00",
+      "isNew": true,
+      "id": "abc51784232047"
+    },
+    {
+      "title": "Mbi 800 zjarre aktive në Kanada/ Alarm për cilësinë e ajrit edhe në SHBA",
+      "link": "https://abcnews.al/mbi-800-zjarre-aktive-ne-kanada-alarm-per-cilesine-e-ajrit-edhe-ne-shba/",
+      "description": "Mbi 800 vatra zjarri vijojnë të jenë aktive në Kanada, duke shkaktuar një përkeqësim të ndjeshëm të cilësisë së ajrit edhe në disa shtete të SHBA-ve, ku autoritetet kanë lëshuar paralajmërime për rrezikun nga tymi. Sipas të dhënave zyrtare, në Kanada janë aktualisht 857 zjarre aktive, ndërsa shumica",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-16T19:59:50+00:00",
+      "dateStr": "16 Jul, 19:59",
+      "isNew": true,
+      "id": "abc61784231990"
     },
     {
       "title": "“Real Story” nga Sokol Balla, (16/07/2026)",
@@ -78,51 +199,7 @@
       "date": "2026-07-16T19:43:49+00:00",
       "dateStr": "16 Jul, 19:43",
       "isNew": true,
-      "id": "abc01784231029"
-    },
-    {
-      "title": "Berisha e shpalli zërin e Diasporës, por nënkryetarja e PD mori vetëm 93 vota nga emigrantët",
-      "link": "https://24-ore.com/berisha-e-shpalli-zerin-e-diaspores-por-nenkryetarja-e-pd-mori-vetem-93-vota-nga-emigrantet/",
-      "description": "Çuditë në proceset zgjedhore brenda Partisë Demokratike nuk kanë fund. Ndërsa Sali Berisha thotë se PD-ja po ripërtërihet dhe në vijim do të ndjekë një stratetegji të re që i afron fitoren, lëvizjet e brendshme pasqyrojnë një mentalitet komplet tjetër. Një rast që dëshmon këtë realitet është ai i Er",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T19:43:14+00:00",
-      "dateStr": "16 Jul, 19:43",
-      "isNew": true,
-      "id": "24 61784230994"
-    },
-    {
-      "title": "Beteja e Elisës: Platforma reale, jashtë rreshtave të mocionit",
-      "link": "https://24-ore.com/beteja-e-elises-platforma-reale-jashte-rreshtave-te-mocionit/",
-      "description": "Nga Ylli Pata Platforma e bërë publikę nga Elisa Spiropali për atë që ajo e quan një Marrëveshje të Re, është qartësisht nisja e një beteje, ku në fakt ajo nuk hyn keq. Pasi, edhe pse Edi Rama i tha muaj më parë që po fole për herë të tretë do të largohesh, ish-ministres së [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T19:42:33+00:00",
-      "dateStr": "16 Jul, 19:42",
-      "isNew": true,
-      "id": "24 71784230953"
-    },
-    {
-      "title": "FOKUS – SHBA dhe Irani shkëmbejnë sulme të reja",
-      "link": "https://24-ore.com/fokus-shba-dhe-irani-shkembejne-sulme-te-reja/",
-      "description": "UASHINGTON/TEHERAN, 16 korrik /ATSH-AFP/ – Shtetet e Bashkuara  të Amerikës dhe Irani shkëmbyen sot sulme të reja ushtarake, duke përshkallëzuar konfliktin në Lindjen e Mesme, pavarësisht thirrjeve të Pakistanit për rikthim në negociata. Komanda Qendrore e ushtrisë amerikane (CENTCOM) njoftoi se god",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T19:41:46+00:00",
-      "dateStr": "16 Jul, 19:41",
-      "isNew": true,
-      "id": "24 81784230906"
-    },
-    {
-      "title": "Këmisha e Pelé nga finalja e Botërorit 1958 shitet për 4.9 milionë dollarë",
-      "link": "https://24-ore.com/kemisha-e-pele-nga-finalja-e-boterorit-1958-shitet-per-4-9-milione-dollare/",
-      "description": "Këmisha që Pelé mbajti në finalen e Kupës së Botës 1958 u shiti në një ankand të Sotheby’s më 29 qershor për 4.9 milionë dollarë, në një shitje që përkon me 68-vjetorin e fitores së Brazilit ndaj Suedisë. Sipas sports.yahoo, në ankand pati 10 oferta nga më shumë se pesë pjesëmarrës, ndërsa çmimi për",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T19:31:43+00:00",
-      "dateStr": "16 Jul, 19:31",
-      "isNew": true,
-      "id": "24 91784230303"
+      "id": "abc71784231029"
     },
     {
       "title": "Eksperti Softa: SHBA ka avantazhin teknologjik, Irani mbështetet te dronët dhe raketat",
@@ -133,7 +210,7 @@
       "date": "2026-07-16T19:28:34+00:00",
       "dateStr": "16 Jul, 19:28",
       "isNew": true,
-      "id": "abc11784230114"
+      "id": "abc81784230114"
     },
     {
       "title": "Presidenti Milei: Nuk do të jem në stadium për finalen Spanjë-Argjentinë",
@@ -144,84 +221,7 @@
       "date": "2026-07-16T19:23:24+00:00",
       "dateStr": "16 Jul, 19:23",
       "isNew": true,
-      "id": "abc21784229804"
-    },
-    {
-      "title": "Edicioni qendror me Emilian Islamin, (16/07/460)",
-      "link": "https://abcnews.al/edicioni-qendror-me-emilian-islamin-16-07-460/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-16T19:03:21+00:00",
-      "dateStr": "16 Jul, 19:03",
-      "isNew": true,
-      "id": "abc31784228601"
-    },
-    {
-      "title": "Roland Lami: Prania e eurodeputetes në protestë krijon precedent që duhet analizuar",
-      "link": "https://abcnews.al/roland-lami-prania-e-eurodeputetes-ne-proteste-krijon-precedent-qe-duhet-analizuar/",
-      "description": "Analisti Roland Lami deklaroi se pjesëmarrja e një eurodeputeteje në protestë në Shqipëri duhet analizuar për shkak të precedentit që, sipas tij, mund të krijojë në proceset demokratike. Sipas tij, në rastin e një organizimi politik të qartë, pjesëmarrja e partive simotra, eurodeputetëve apo deputet",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-16T19:00:56+00:00",
-      "dateStr": "16 Jul, 19:00",
-      "isNew": true,
-      "id": "abc41784228456"
-    },
-    {
-      "title": "Protesta, pro dhe kundër/ Nura: Eurodeputetët në protestë kanë ardhur në titull personal",
-      "link": "https://abcnews.al/protesta-pro-dhe-kunder-nura-eurodeputetet-ne-proteste-kane-ardhur-ne-titull-personal/",
-      "description": "Analisti Artur Nura deklaroi se eurodeputetët që morën pjesë në protestë në Shqipëri ishin të pranishëm në cilësi personale dhe jo si përfaqësues zyrtarë të Parlamentit Evropian. Sipas Nurës, ata kishin vetëm mbështetjen e grupit të të Gjelbërve në Parlamentin Evropian dhe deklaratat e tyre duhen ko",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-16T18:54:44+00:00",
-      "dateStr": "16 Jul, 18:54",
-      "isNew": true,
-      "id": "abc51784228084"
-    },
-    {
-      "title": "Protesta nën “petkun” e Diasporës/ Minxhozi: Regjistrimi i Vetëvendosjes si parti politike në Shqipëri është një faull",
-      "link": "https://abcnews.al/protesta-nen-petkun-e-diaspores-minxhozi-regjistrimi-i-vetevendosjes-si-parti-politike-ne-shqiperi-eshte-nje-faull/",
-      "description": "TIRANË- Analisti Skënder Minxhozi, i ftuar në emisionin “Real Story”, ka komentuar përfshirjen e subjekteve politike nga rajoni, konkretisht Lëvizja Vetëvendosje, në protestat në Shqipëri. Sipas Minxhozit, pjesëmarrja individuale e qytetarëve në një protestë nuk përbën problem, pasi lidhet me të dre",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-16T18:50:12+00:00",
-      "dateStr": "16 Jul, 18:50",
-      "isNew": true,
-      "id": "abc61784227812"
-    },
-    {
-      "title": "“VV dërgoi 15 mijë veta në protestë nën emrin e Diasporës”, Meçe: Skutha, akt antikombëtar dhe antishqiptar!",
-      "link": "https://abcnews.al/vv-dergoi-15-mije-veta-ne-proteste-nen-emrin-e-diaspores-mece-skutha-akt-antikombetar-dhe-antishqiptar/",
-      "description": "Analisti Arben Meçes deklaroi se prania e mbështetësve të Lëvizjes Vetëvendosje në protestat e zhvilluara në Shqipëri përbën ndërhyrje në punët e brendshme të vendit, duke kërkuar që kjo pjesëmarrje të ishte deklaruar hapur. Ai pretendoi se në protestën më të madhe kanë hyrë në Shqipëri nga Kosova r",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-16T18:38:09+00:00",
-      "dateStr": "16 Jul, 18:38",
-      "isNew": true,
-      "id": "abc71784227089"
-    },
-    {
-      "title": "Protesta/ Lami në “Real Story”: Jemi në kufijtë e konfuzionit mes sovranitetit të kombit dhe sovraniteti të shtetit",
-      "link": "https://abcnews.al/protesta-lami-ne-real-story-jemi-ne-kufijte-e-konfuzionit-mes-sovranitetit-te-kombit-dhe-sovraniteti-te-shtetit/",
-      "description": "TIRANË- Analisti Roland Lami, i ftuar në “Real Story” analizoi përfshirjen e shqiptarëve nga rajoni në protestat në Shqipëri, duke ngritur shqetësimin se kjo qasje mund të krijojë një precedent tejet problematik. Sipas Lamit, duhet bërë dallimi mes përkatësisë kombëtare dhe rolit politik në një shte",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-16T18:29:21+00:00",
-      "dateStr": "16 Jul, 18:29",
-      "isNew": true,
-      "id": "abc81784226561"
-    },
-    {
-      "title": "SHBA mbledh aleatët për të diskutuar rritjen e terrorizmit të ekstremit të majtë",
-      "link": "https://abcnews.al/shba-mbledh-aleatet-per-te-diskutuar-rritjen-e-terrorizmit-te-ekstremit-te-majte/",
-      "description": "Departamenti Amerikan i Shtetit organizoi këtë të enjte Takimin Ministror mbi Ringjalljen e Terrorizmit Politik, duke mbledhur përfaqësues qeverish nga Hemisfera Perëndimore, Evropa dhe Azia për të diskutuar rritjen e terrorizmit politik të ekstremit të majtë si një kërcënim ndërkombëtar. Sipas Depa",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-16T18:17:49+00:00",
-      "dateStr": "16 Jul, 18:17",
-      "isNew": true,
-      "id": "abc91784225869"
+      "id": "abc91784229804"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
