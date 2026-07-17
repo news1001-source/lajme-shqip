@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-07-16T23:54:39.229160+00:00",
+  "lastUpdated": "2026-07-17T02:11:52.304880+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Flamingot duhet t’i injorojnë hijet e së djeshmes",
+      "link": "https://24-ore.com/flamingot-duhet-ti-injorojne-hijet-e-se-djeshmes/",
+      "description": "Disa ditë më parë, pasi kishim përfunduar emisionin “Të Paekspozuarit” të Ylli Rakipit, u takova me disa prej atyre që mund të konsiderohen si organizatorët e revolucionit të flamingove. Përgjatë bisedës, njëri prej tyre, më bëri një ftesë sa spontane, po aq dhe të çiltër. “Pse, nuk vjen aty në shes",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-17T01:11:55+00:00",
+      "dateStr": "17 Jul, 01:11",
+      "isNew": true,
+      "id": "24 01784250715"
+    },
+    {
+      "title": "Çfarë nuk shkon me Shqipërinë?",
+      "link": "https://24-ore.com/cfare-nuk-shkon-me-shqiperine/",
+      "description": "Kjo është pyetja që gazetarët e huaj bëjnë më shpesh këto ditë, teksa shohin një protestë që ka mbërritur në ditën e saj të 47-të. Përgjigjet janë të gatshme: rënia e demokracisë, mjedisi, korrupsioni, kriza e besimit. Të gjitha janë pjesë e së vërtetës. Por ndonjëherë, e vërteta shfaqet më qartë jo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-17T00:26:46+00:00",
+      "dateStr": "17 Jul, 00:26",
+      "isNew": true,
+      "id": "24 11784248006"
+    },
+    {
+      "title": "Spanja stërvitet jashtë në New Jersey ndërsa tymi nga zjarret kanadeze përfshin pjesën veriore-lindore të SHBA-së",
+      "link": "https://24-ore.com/spanja-stervitet-jashte-ne-new-jersey-ndersa-tymi-nga-zjarret-kanadeze-perfshin-pjesen-veriore-lindore-te-shba-se/",
+      "description": "Ekipi kombëtar i Spanjës zhvilloi stërvitje jashtë në veri të New Jersey-t të enjten, teksa tymi nga zjarret në Ontario, Kanada, mbuloi pjesën veriore-lindore dhe pjesë të Mesperëndimit të Sipërm të Shteteve të Bashkuara, në prag të finales së Kupës së Botës kundër Argjentinës. Sipas sports.yahoo, s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-17T00:12:37+00:00",
+      "dateStr": "17 Jul, 00:12",
+      "isNew": true,
+      "id": "24 21784247157"
+    },
+    {
+      "title": "Hetim i autoriteteve amerikane për fluturimin e Ryanair ku një pasagjer u tërhoq pjesërisht nga dritarja",
+      "link": "https://24-ore.com/hetim-i-autoriteteve-amerikane-per-fluturimin-e-ryanair-ku-nje-pasagjer-u-terhoq-pjeserisht-nga-dritarja/",
+      "description": "Autoritetet amerikane të sigurisë ajrore po udhëheqin hetimin për incidentin në një fluturim të Ryanair/Malta Air ku një pasagjer u tërhoq pjesërisht jashtë avionit pasi u nxorr një dritare dhe kabina humbi presionin. Raporton Associated Press se Bordi Kombëtar për Siguri të Transportit (NTSB) mori ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T23:58:34+00:00",
+      "dateStr": "16 Jul, 23:58",
+      "isNew": true,
+      "id": "24 31784246314"
+    },
+    {
+      "title": "Spanja stërvitet jashtë në New Jersey përpara finales, ndërsa tymi nga zjarret kanadeze mbulon pjesë të Veriutlindjes së SHBA-së",
+      "link": "https://24-ore.com/spanja-stervitet-jashte-ne-new-jersey-perpara-finales-ndersa-tymi-nga-zjarret-kanadeze-mbulon-pjese-te-veriutlindjes-se-shba-se/",
+      "description": "Ekipi kombëtar i Spanjës zhvilloi të enjten një seancë trajnimi jashtë në veri të New Jersey-së, duke u përgatitur për finalen e Botërorit që do të luhet të dielën kundër Argjentinës, ndërsa tymi nga zjarret në Ontario të Kanadasë vazhdonte të mbulonte pjesë të Veriutlindjes dhe Mesiperëndimit të Sh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-16T23:57:33+00:00",
+      "dateStr": "16 Jul, 23:57",
+      "isNew": true,
+      "id": "24 41784246253"
+    },
     {
       "title": "A duhet të protestojnë gazetarët?",
       "link": "https://24-ore.com/a-duhet-te-protestojne-gazetaret/",
@@ -12,7 +67,7 @@
       "date": "2026-07-16T23:44:11+00:00",
       "dateStr": "16 Jul, 23:44",
       "isNew": true,
-      "id": "24 01784245451"
+      "id": "24 51784245451"
     },
     {
       "title": "Milei refuzon të shkojë në finalen e Kupës së Botës për shkak të supersticionit",
@@ -23,7 +78,7 @@
       "date": "2026-07-16T23:11:43+00:00",
       "dateStr": "16 Jul, 23:11",
       "isNew": true,
-      "id": "24 11784243503"
+      "id": "24 61784243503"
     },
     {
       "title": "Fanella e Pelé nga finalja e Botërorit 1958 u shiti për 4.9 milionë dollarë",
@@ -34,7 +89,7 @@
       "date": "2026-07-16T22:57:01+00:00",
       "dateStr": "16 Jul, 22:57",
       "isNew": true,
-      "id": "24 21784242621"
+      "id": "24 71784242621"
     },
     {
       "title": "Botërori 2026: FIFA do të shpërndajë për herë të parë unaza kampionesh për fituesin e finales Spanjë–Argjentinë",
@@ -45,7 +100,7 @@
       "date": "2026-07-16T21:58:01+00:00",
       "dateStr": "16 Jul, 21:58",
       "isNew": true,
-      "id": "24 31784239081"
+      "id": "24 81784239081"
     },
     {
       "title": "Zjarret në Kosovë: Policia paralajmëron masa të ashpra ndaj zjarrvënësve",
@@ -56,7 +111,7 @@
       "date": "2026-07-16T21:46:28+00:00",
       "dateStr": "16 Jul, 21:46",
       "isNew": true,
-      "id": "24 41784238388"
+      "id": "24 91784238388"
     },
     {
       "title": "“PD ka humbur moralin dhe strategjinë politike”, Bejko: Zgjedhjet nuk e forcojnë demokracinë e brendshme të PD!",
@@ -68,61 +123,6 @@
       "dateStr": "16 Jul, 21:44",
       "isNew": true,
       "id": "abc01784238242"
-    },
-    {
-      "title": "Alarm për cilësinë e ajrit në New York përpara finales së Botërorit 2026",
-      "link": "https://24-ore.com/alarm-per-cilesine-e-ajrit-ne-new-york-perpara-finales-se-boterorit-2026/",
-      "description": "Zyrtarët në New York dhe New Jersey kanë shpallur një alarm për shëndetin lidhur me cilësinë e ajrit, vetëm pak ditë para finales së Kupës së Botës që do të zhvillohet në New York New Jersey Stadium në East Rutherford. Stadiumi, që deri tani ka pritur shtatë ndeshje të turneut, do të mikpresë finale",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T21:32:11+00:00",
-      "dateStr": "16 Jul, 21:32",
-      "isNew": true,
-      "id": "24 51784237531"
-    },
-    {
-      "title": "Spanja stërvitet jashtë në New Jersey përpara finales së Botërorit, ndërsa ajri mbushet me tym nga zjarret kanadeze",
-      "link": "https://24-ore.com/spanja-stervitet-jashte-ne-new-jersey-perpara-finales-se-boterorit-ndersa-ajri-mbushet-me-tym-nga-zjarret-kanadeze/",
-      "description": "Skuadra e Spanjës zhvilloi një seancë stërvitore jashtë në East Hanover, në veri të New Jersey, pese ditë para finales së Kupës së Botës, ndërsa zona u prek nga tymi i zjarreve që po përhapen nga rajonet veriore të Ontarios. Kushtet e ajrit u vlerësuan si të rrezikshme dhe autoritetet i kanë këshill",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T21:27:28+00:00",
-      "dateStr": "16 Jul, 21:27",
-      "isNew": true,
-      "id": "24 61784237248"
-    },
-    {
-      "title": "Nebi Hoxha kërkon dëshmi se Osman Selmani ka qëndruar në Çegran gjatë luftës dhe nuk ka kryer krime lufte",
-      "link": "https://24-ore.com/nebi-hoxha-kerkon-deshmi-se-osman-selmani-ka-qendruar-ne-cegran-gjate-luftes-dhe-nuk-ka-kryer-krime-lufte/",
-      "description": "Më 1 korrik, autoritetet serbe, arrestuan shtetasin e Kosovës, Osman Selmanin në pikën kufitare Mutivodë, derisa po kthehej nga vendlindja e tij, informon Telegrafi. Sipas njoftimit të familjes, Selmani aktualisht ndodhet në Prokurorinë për Krime Lufte në Beograd, ku po përballet me akuza që familja",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T21:26:38+00:00",
-      "dateStr": "16 Jul, 21:26",
-      "isNew": true,
-      "id": "24 71784237198"
-    },
-    {
-      "title": "Dita e 47-të, qytetarët njoftojnë protestë para Parlamentit më 23 korrik. Nisin marshimin në rrugët e Tiranës",
-      "link": "https://24-ore.com/dita-e-47-te-qytetaret-njoftojne-proteste-para-parlamentit-me-23-korrik-nisin-marshimin-ne-rruget-e-tiranes/",
-      "description": "Protesta e aktivistëve dhe qytetarëve në Tiranë ka hyrë në ditën e saj të 47-të. Pas qëndrimit para Kryeministrisë, ka nisur marshimi në rrugët e Tiranës. Si çdo pasdite, ata e nisën protestën rreth orës 19:00, teksa u mblodhën fillimisht në sheshin “Skënderbej” ku vijuan me thirrjet e tyre ‘Rama je",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T21:25:16+00:00",
-      "dateStr": "16 Jul, 21:25",
-      "isNew": true,
-      "id": "24 81784237116"
-    },
-    {
-      "title": "“Drafti i Spiropalit”, Manjani: Nuk është projekt politik",
-      "link": "https://24-ore.com/drafti-i-spiropalit-manjani-nuk-eshte-projekt-politik/",
-      "description": "Juristi Ylli Manjani këtë të enjte i ftuar në emisionin “Now” me Erla Mëhillin në Euronews Albania ka folur lidhur me mocionin e dorëzuar në Asamblenë e Përgjithshme të PS-së nga deputetja socialiste Elisa Spiropali përmes të cilit propozon hapjen e një dialogu kombëtar mbi “Marrëveshjen e Re për Sh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T21:24:50+00:00",
-      "dateStr": "16 Jul, 21:24",
-      "isNew": true,
-      "id": "24 91784237090"
     },
     {
       "title": "SHBA e shqetësuar nga e majta ekstreme/ Evropa në fokus të strategjisë amerikane kundër terrorizmit politik të grupeve radikale",
