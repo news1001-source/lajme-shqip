@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-07-17T02:11:52.304880+00:00",
-  "totalSources": 3,
-  "totalNews": 30,
+  "lastUpdated": "2026-07-17T05:37:30.204698+00:00",
+  "totalSources": 2,
+  "totalNews": 20,
   "news": [
+    {
+      "title": "Pajisja e parë AI e kompanisë OpenAI do të jetë një altoparlant inteligjent portativ",
+      "link": "https://24-ore.com/pajisja-e-pare-ai-e-kompanise-openai-do-te-jete-nje-altoparlant-inteligjent-portativ/",
+      "description": "Pajisja e parë harduerike e kompanisë OpenAI pritet të jetë një altoparlant inteligjent portativ pa ekran, i cili do të funksionojë si një shoqërues me inteligjencë artificiale i bazuar në ChatGPT. Sipas raportimeve, pajisja është duke u zhvilluar si një lloj “kompjuteri i ri për epokën e inteligjen",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-17T05:36:20+00:00",
+      "dateStr": "17 Jul, 05:36",
+      "isNew": true,
+      "id": "24 01784266580"
+    },
+    {
+      "title": "Parashikimi i motit për ditën e sotme, 17 korrik 2026",
+      "link": "https://abcnews.al/parashikimi-i-motit-per-diten-e-sotme-17-korrik-2026/",
+      "description": "Ditën e premte vendi ynë do të mbetet nën ndikimin e masave ajrore të qëndrueshme dhe të nxehta. Moti parashikohet i kthjellët në pjesën më të madhe të territorit ndërsa përgjatë relieveve malore në veri e lindje vranësira të pakta hera –herës deri mesatare kalimtare. Reshjet e shiut pritet të jenë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-17T05:22:55+00:00",
+      "dateStr": "17 Jul, 05:22",
+      "isNew": true,
+      "id": "abc01784265775"
+    },
+    {
+      "title": "Moti sot, temperaturat deri në 28 gradë",
+      "link": "https://24-ore.com/moti-sot-temperaturat-deri-ne-28-grade/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot kryesisht me diell dhe vranësira të pakta. IHK njofton se temperaturat minimale do të lëvizin ndërmjet 11°C dhe 15 gradë Celsius, ndërsa maksimalet ndërmjet 28°C dhe 32 gradë. Era do të fryjë nga veriperëndimi me intensitet të dobët de",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-17T05:16:04+00:00",
+      "dateStr": "17 Jul, 05:16",
+      "isNew": true,
+      "id": "24 11784265364"
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 17 korrik 2026",
+      "link": "https://abcnews.al/horoskopi-per-diten-e-sotme-17-korrik-2026/",
+      "description": "Dashi Ana juaj sensuale ka të ngjarë të shfaqet sot. Takimet romantike janë intensive dhe pasionante, prandaj sigurohuni që t’u lini shumë kohë atyre. Shijojeni këtë moment. Demi Do të kesh sukses vetëm nëse je në gjendje të punosh në mënyrë konstruktive me vlerat tradicionale dhe strukturën që ësht",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-17T05:15:45+00:00",
+      "dateStr": "17 Jul, 05:15",
+      "isNew": true,
+      "id": "abc11784265345"
+    },
+    {
+      "title": "Andy Burnham: nga kryebashkiaku i Veriut në drejtimin e qeverisë britanike",
+      "link": "https://24-ore.com/andy-burnham-nga-kryebashkiaku-i-veriut-ne-drejtimin-e-qeverise-britanike/",
+      "description": "Andy Burnham pritet ta marrë detyrën e kryeministrit të Britanisë së Madhe pas dorëheqjes së beftë të Keir Starmerit, duke hyrë në zyrën e kryeministrit i pa-provuar në shkallë kombëtare dhe i shoqëruar nga pritshmëri të mëdha. I moshës 56 vjeç, Burnham do të bëhet kryeministri i 59-të i vendit dhe ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-17T04:13:26+00:00",
+      "dateStr": "17 Jul, 04:13",
+      "isNew": true,
+      "id": "24 21784261606"
+    },
     {
       "title": "Flamingot duhet t’i injorojnë hijet e së djeshmes",
       "link": "https://24-ore.com/flamingot-duhet-ti-injorojne-hijet-e-se-djeshmes/",
@@ -12,7 +67,7 @@
       "date": "2026-07-17T01:11:55+00:00",
       "dateStr": "17 Jul, 01:11",
       "isNew": true,
-      "id": "24 01784250715"
+      "id": "24 31784250715"
     },
     {
       "title": "Çfarë nuk shkon me Shqipërinë?",
@@ -23,7 +78,7 @@
       "date": "2026-07-17T00:26:46+00:00",
       "dateStr": "17 Jul, 00:26",
       "isNew": true,
-      "id": "24 11784248006"
+      "id": "24 41784248006"
     },
     {
       "title": "Spanja stërvitet jashtë në New Jersey ndërsa tymi nga zjarret kanadeze përfshin pjesën veriore-lindore të SHBA-së",
@@ -34,7 +89,7 @@
       "date": "2026-07-17T00:12:37+00:00",
       "dateStr": "17 Jul, 00:12",
       "isNew": true,
-      "id": "24 21784247157"
+      "id": "24 51784247157"
     },
     {
       "title": "Hetim i autoriteteve amerikane për fluturimin e Ryanair ku një pasagjer u tërhoq pjesërisht nga dritarja",
@@ -45,7 +100,7 @@
       "date": "2026-07-16T23:58:34+00:00",
       "dateStr": "16 Jul, 23:58",
       "isNew": true,
-      "id": "24 31784246314"
+      "id": "24 61784246314"
     },
     {
       "title": "Spanja stërvitet jashtë në New Jersey përpara finales, ndërsa tymi nga zjarret kanadeze mbulon pjesë të Veriutlindjes së SHBA-së",
@@ -56,7 +111,7 @@
       "date": "2026-07-16T23:57:33+00:00",
       "dateStr": "16 Jul, 23:57",
       "isNew": true,
-      "id": "24 41784246253"
+      "id": "24 71784246253"
     },
     {
       "title": "A duhet të protestojnë gazetarët?",
@@ -67,7 +122,7 @@
       "date": "2026-07-16T23:44:11+00:00",
       "dateStr": "16 Jul, 23:44",
       "isNew": true,
-      "id": "24 51784245451"
+      "id": "24 81784245451"
     },
     {
       "title": "Milei refuzon të shkojë në finalen e Kupës së Botës për shkak të supersticionit",
@@ -78,40 +133,7 @@
       "date": "2026-07-16T23:11:43+00:00",
       "dateStr": "16 Jul, 23:11",
       "isNew": true,
-      "id": "24 61784243503"
-    },
-    {
-      "title": "Fanella e Pelé nga finalja e Botërorit 1958 u shiti për 4.9 milionë dollarë",
-      "link": "https://24-ore.com/fanella-e-pele-nga-finalja-e-boterorit-1958-u-shiti-per-4-9-milione-dollare/",
-      "description": "Sot në ankand u shiti fanella numër 10 e legjendës braziliane Pelé, veshur në finalen e Kupës së Botës 1958, për 4.9 milionë dollarë në ankandin e Sotheby’s. Pelé, i cili vdiq në 2022, ishte vetëm 17 vjeç kur shënoi dy gola në fitoren 5-2 të Brazilit ndaj Suedisë në stadiumin Råsunda dhe mbetet lojt",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T22:57:01+00:00",
-      "dateStr": "16 Jul, 22:57",
-      "isNew": true,
-      "id": "24 71784242621"
-    },
-    {
-      "title": "Botërori 2026: FIFA do të shpërndajë për herë të parë unaza kampionesh për fituesin e finales Spanjë–Argjentinë",
-      "link": "https://24-ore.com/boterori-2026-fifa-do-te-shperndaje-per-here-te-pare-unaza-kampionesh-per-fituesin-e-finales-spanje-argjentine/",
-      "description": "FIFA do t&#8217;u japë për herë të parë unaza kampionesh lojtarëve të skuadrës që do të fitojë finalen e Kupës së Botës 2026 midis Spanjës dhe Argjentinës. Sipas sports.yahoo, do të prodhohen 2,026 unaza të numëruara individualisht; prej tyre 30 do t&#8217;i jepen skuadrës fituese. Kapiteni dhe traj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T21:58:01+00:00",
-      "dateStr": "16 Jul, 21:58",
-      "isNew": true,
-      "id": "24 81784239081"
-    },
-    {
-      "title": "Zjarret në Kosovë: Policia paralajmëron masa të ashpra ndaj zjarrvënësve",
-      "link": "https://24-ore.com/zjarret-ne-kosove-policia-paralajmeron-masa-te-ashpra-ndaj-zjarrvenesve/",
-      "description": "Zjarret në pyje dhe fusha vazhdojnë të jenë një nga problemet më serioze gjatë muajve të verës në Kosovë, duke shkaktuar çdo vit dëme të mëdha në mjedis, prona dhe duke rrezikuar jetën e qytetarëve. Përballë rritjes së rrezikut nga temperaturat e larta dhe thatësia, Policia e Kosovës u ka bërë thirr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-16T21:46:28+00:00",
-      "dateStr": "16 Jul, 21:46",
-      "isNew": true,
-      "id": "24 91784238388"
+      "id": "24 91784243503"
     },
     {
       "title": "“PD ka humbur moralin dhe strategjinë politike”, Bejko: Zgjedhjet nuk e forcojnë demokracinë e brendshme të PD!",
@@ -122,7 +144,7 @@
       "date": "2026-07-16T21:44:02+00:00",
       "dateStr": "16 Jul, 21:44",
       "isNew": true,
-      "id": "abc01784238242"
+      "id": "abc21784238242"
     },
     {
       "title": "SHBA e shqetësuar nga e majta ekstreme/ Evropa në fokus të strategjisë amerikane kundër terrorizmit politik të grupeve radikale",
@@ -133,7 +155,7 @@
       "date": "2026-07-16T21:24:28+00:00",
       "dateStr": "16 Jul, 21:24",
       "isNew": true,
-      "id": "abc11784237068"
+      "id": "abc31784237068"
     },
     {
       "title": "Argjentina, zemra fiton gjithmonë/ Mneri: Arbitri u tregua dashamirës me Argjentinën në pjesën e parë",
@@ -144,7 +166,7 @@
       "date": "2026-07-16T20:52:05+00:00",
       "dateStr": "16 Jul, 20:52",
       "isNew": true,
-      "id": "abc21784235125"
+      "id": "abc41784235125"
     },
     {
       "title": "SHBA vendos kufizime të reja vizash ndaj individëve të lidhur me grupet terroriste të ekstremit të majtë",
@@ -155,7 +177,7 @@
       "date": "2026-07-16T20:46:26+00:00",
       "dateStr": "16 Jul, 20:46",
       "isNew": true,
-      "id": "abc31784234786"
+      "id": "abc51784234786"
     },
     {
       "title": "Irani akuzon SHBA për “krime lufte” pas sulmeve ndaj infrastrukturës civile",
@@ -166,7 +188,7 @@
       "date": "2026-07-16T20:25:14+00:00",
       "dateStr": "16 Jul, 20:25",
       "isNew": true,
-      "id": "abc41784233514"
+      "id": "abc61784233514"
     },
     {
       "title": "Franca miraton ligjin për eutanazinë/ Protesta jashtë Asamblesë, kundër projektligjit",
@@ -177,7 +199,7 @@
       "date": "2026-07-16T20:24:07+00:00",
       "dateStr": "16 Jul, 20:24",
       "isNew": true,
-      "id": "abc51784233447"
+      "id": "abc71784233447"
     },
     {
       "title": "Klubi i futbollit “Djemtë e Jugut”",
@@ -188,7 +210,7 @@
       "date": "2026-07-16T20:20:02+00:00",
       "dateStr": "16 Jul, 20:20",
       "isNew": true,
-      "id": "abc61784233202"
+      "id": "abc81784233202"
     },
     {
       "title": "Shtëpia e Bardhë: Trump pajtohet se vendet e huaja përpiqen të ndikojnë opinionin publik amerikan",
@@ -199,139 +221,7 @@
       "date": "2026-07-16T20:00:47+00:00",
       "dateStr": "16 Jul, 20:00",
       "isNew": true,
-      "id": "abc71784232047"
-    },
-    {
-      "title": "Mbi 800 zjarre aktive në Kanada/ Alarm për cilësinë e ajrit edhe në SHBA",
-      "link": "https://abcnews.al/mbi-800-zjarre-aktive-ne-kanada-alarm-per-cilesine-e-ajrit-edhe-ne-shba/",
-      "description": "Mbi 800 vatra zjarri vijojnë të jenë aktive në Kanada, duke shkaktuar një përkeqësim të ndjeshëm të cilësisë së ajrit edhe në disa shtete të SHBA-ve, ku autoritetet kanë lëshuar paralajmërime për rrezikun nga tymi. Sipas të dhënave zyrtare, në Kanada janë aktualisht 857 zjarre aktive, ndërsa shumica",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-16T19:59:50+00:00",
-      "dateStr": "16 Jul, 19:59",
-      "isNew": true,
-      "id": "abc81784231990"
-    },
-    {
-      "title": "“Real Story” nga Sokol Balla, (16/07/2026)",
-      "link": "https://abcnews.al/real-story-nga-sokol-balla-16-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-16T19:43:49+00:00",
-      "dateStr": "16 Jul, 19:43",
-      "isNew": true,
-      "id": "abc91784231029"
-    },
-    {
-      "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
-      "link": "https://www.lajme.al/rama-kerkon-mbledhje-urgjente-me-deputetet-e-ps-diten-e-shtune-zbulohet-agjenda/",
-      "description": "Kryeministri Edi Rama pritet paraditen e së shtunës të drejtojë mbledhjen e Grupit Parlamentar të Partisë Socialiste, ku do të marrin pjesë edhe ministrat. Gazetari Muhamed Veliu ka zbuluar agjendën e kësaj mbledhjeje, të cilën do ta nisë kreu i Grupit, Taulant Balla, vijuar nga fjala e Kryeministri",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-06-19T18:05:35+00:00",
-      "dateStr": "19 Jun, 18:05",
-      "isNew": false,
-      "id": "laj01781892335"
-    },
-    {
-      "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
-      "link": "https://www.lajme.al/lajme-al-uron-te-gjithe-besimtaret-gezuar-kurban-bajramin/",
-      "description": "Urime festa e Kurban Bajramit! Gëzuar këtë festë të shenjtë dhe për shumë vite me paqe, shëndet e begati! Urojmë që kjo ditë e bekuar të sjellë qetësi në zemrat tona, harmoni në familje dhe dashuri mes njerëzve. Le të jetë një ditë që na afron më shumë me njëri-tjetrin, duke na kujtuar rëndësinë e [",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-05-27T06:00:19+00:00",
-      "dateStr": "27 May, 06:00",
-      "isNew": false,
-      "id": "laj11779861619"
-    },
-    {
-      "title": "Greqi: Flet babai i 19-vjeçares shqiptare: Humba jo engjëllin tim, por jetën time. Vajzën ma futën në kurth, e flakën pasi i bënë gjëra të tmerrshme!",
-      "link": "https://www.lajme.al/greqi-flet-babai-i-19-vjecares-shqiptare-humba-jo-engjellin-tim-por-jeten-time-vajzen-ma-futen-ne-kurth-e-flaken-pasi-i-bene-gjera-te-tmerrshme/",
-      "description": "Babai i 19-vjeçares që u gjet e pajetë në Kefaloni të Greqisë, foli sonte për mediat greke dhe tha se vajza e tij nuk kishte asnjë lidhje as me lëndë narkotike dhe as me alkool Trishtim i madh ka përfshirë Kefaloninë pas lajmit për vdekjen e 19-vjeçares shqiptare e identifikuar si Mirto, e cila u [&",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-04-16T16:54:53+00:00",
-      "dateStr": "16 Apr, 16:54",
-      "isNew": false,
-      "id": "laj21776358493"
-    },
-    {
-      "title": "Gashi: Diasporës parapëlqej t’i them mërgatë, të krijojmë kushtet për rikthimin e tyre në vendlindje",
-      "link": "https://www.lajme.al/gashi-diaspores-parapelqej-ti-them-mergate-te-krijojme-kushtet-per-rikthimin-e-tyre-ne-vendlindje/",
-      "description": "Kryetari i Kuvendit të Maqedonisë së Veriut, Afrim Gashi, ka theksuar rëndësinë e diasporës dhe nevojën për forcimin e lidhjeve me qytetarët që jetojnë jashtë vendit. Në fjalën e mbajtur në Samitin e IV të Diasporës, Gashi e cilësoi diasporën si një pjesë të pandashme të identitetit, duke u shprehur",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-04-14T14:24:35+00:00",
-      "dateStr": "14 Apr, 14:24",
-      "isNew": false,
-      "id": "laj31776176675"
-    },
-    {
-      "title": "Fitër Bajrami – Festë e Besimit, Mirësisë dhe Solidaritetit",
-      "link": "https://www.lajme.al/fiter-bajrami-feste-e-besimit-miresise-dhe-solidaritetit/",
-      "description": "Me përfundimin e muajit të Ramazanit, besimtarët myslimanë anembanë botës festojnë Fitër Bajramin – një nga festat më të rëndësishme në kalendarin islam. Kjo ditë e shënuar është një moment falënderimi ndaj Zotit, reflektimi për muajin që lamë pas, si dhe një rast për të ndarë gëzim dhe dashuri me t",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-03-20T00:03:28+00:00",
-      "dateStr": "20 Mar, 00:03",
-      "isNew": false,
-      "id": "laj41773965008"
-    },
-    {
-      "title": "Albano Bogdo pranon publikisht: “Kam kryer marrëdhënie me një ish-banore të BBV Albania”",
-      "link": "https://www.lajme.al/albano-bogdo-pranon-publikisht-kam-kryer-marredhenie-me-nje-ish-banore-te-bbv-albania/",
-      "description": "Aktori i njohur i humorit, Albano Bogdo, ka bërë një deklaratë të papritur gjatë pjesëmarrjes së tij në emisionin “Andale”. Gjatë një loje me pyetje provokuese, u lexua pohimi: “Kam bërë marrëdhënie seksuale me një ish-banore që ka qenë në Big Brother Vip Albania”. Pa hezituar, Albano ngriti menjëhe",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-25T16:28:58+00:00",
-      "dateStr": "25 Feb, 16:28",
-      "isNew": false,
-      "id": "laj51772036938"
-    },
-    {
-      "title": "Del FOTO e rrallë nga arkiva: Ja si dukej Brikena e BBVA para famës",
-      "link": "https://www.lajme.al/del-foto-e-rralle-nga-arkiva-ja-si-dukej-brikena-e-bbva-para-fames/",
-      "description": "Brikena Selmani është kthyer padyshim në një nga banoret më të komentuara dhe që ka tërhequr vëmendjen në këtë edicion të “Big Brother VIP Albania”, jo vetëm për dinamikat në lojë, por edhe për pamjen e saj. Por, duket se sharmi i modeles daton shumë më herët se dritat e famës televizive. Në rrjetet",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-25T12:23:06+00:00",
-      "dateStr": "25 Feb, 12:23",
-      "isNew": false,
-      "id": "laj61772022186"
-    },
-    {
-      "title": "LAJM I FUNDIT! Tërmeti shkund Shqipërinë!",
-      "link": "https://www.lajme.al/lajm-i-fundit-termeti-shkund-shqiperine/",
-      "description": "Elbasani u trondit këtë të martë pasdite nga një tërmet i papritur. Sipas raportimeve të para, lekundjet u ndjenw me intensite. Sipas të dhënave të fundit, një tërmet me magnitudë 4.3 të shkallës Rihter ka goditur Shqipërinë mbrëmjen e sotme, më 24 shkurt 2026. Lëkundjet u regjistruan rreth orës 20:",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T19:16:36+00:00",
-      "dateStr": "24 Feb, 19:16",
-      "isNew": false,
-      "id": "laj71771960596"
-    },
-    {
-      "title": "Diss për Xhensilën? Bes Kallaku publikon këngën e re: “Mes meje dhe teje, dihet kush ishte thëngjilli”",
-      "link": "https://www.lajme.al/diss-per-xhensilen-bes-kallaku-publikon-kengen-e-re-mes-meje-dhe-teje-dihet-kush-ishte-thengjilli/",
-      "description": "Aktori dhe këngëtari Bes Kallaku ka tërhequr vëmendjen e të gjithë ndjekësve me projektin e tij më të fundit muzikor, një këngë mjaft personale që ngjan me një rrëfim të hapur për ulje-ngritjet e jetës së tij. Menjëherë pas publikimit, rrjeti ka nisur të ziejë nga aludimet se disa prej rreshtave më ",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T19:11:16+00:00",
-      "dateStr": "24 Feb, 19:11",
-      "isNew": false,
-      "id": "laj81771960276"
-    },
-    {
-      "title": "Momenti viral: Takimi i DJ Gimbos me Egli Takon, çfarë u tha mes tyre?",
-      "link": "https://www.lajme.al/momenti-viral-takimi-i-dj-gimbos-me-egli-takon-cfare-u-tha-mes-tyre/",
-      "description": "Mbrëmjen e djeshme, e ftuar në Big Brother VIP Albania ishte ish-banorja Egli Tako, si pjesë e jurisë së “Miss &#38; Mister Big Brother”. Megjithatë, momenti që mori më shumë vëmendje në rrjet ishte takimi i saj me DJ Gimbon, mikun e ngushtë të Gjestit. Përshëndetja mes tyre ishte e ngrohtë dhe e af",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T16:13:31+00:00",
-      "dateStr": "24 Feb, 16:13",
-      "isNew": false,
-      "id": "laj91771949611"
+      "id": "abc91784232047"
     }
   ]
 }
