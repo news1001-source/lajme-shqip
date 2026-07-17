@@ -1,117 +1,172 @@
 {
-  "lastUpdated": "2026-07-17T14:29:08.512304+00:00",
+  "lastUpdated": "2026-07-17T16:10:50.050481+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Si rrezikoi Lionel Messi të luante për Spanjën — rrëfimi pas zgjedhjes së tij për Argjentinën",
-      "link": "https://24-ore.com/si-rrezikoi-lionel-messi-te-luante-per-spanjen-rrefimi-pas-zgjedhjes-se-tij-per-argjentinen/",
-      "description": "Me përballjen përfundimtare të Kupës së Botës midis Argjentinës dhe Spanjës është rikthyer edhe një nga pyetjet më intriguese të futbollit ndërkombëtar: sa pranë ishte Lionel Messi të përfaqësonte &#8220;La Roja&#8221; në vend të Argjentinës? Historia nis në Rosario, ku djali i rritur në një lagje p",
-      "source": "24 ORE",
+      "title": "News Hour me Erneta Shevroja, (17/07/2026)",
+      "link": "https://abcnews.al/news-hour-me-erneta-shevroja-17-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-07-17T14:26:43+00:00",
-      "dateStr": "17 Jul, 14:26",
+      "date": "2026-07-17T16:09:29+00:00",
+      "dateStr": "17 Jul, 16:09",
       "isNew": true,
-      "id": "24 01784298403"
+      "id": "abc01784304569"
     },
     {
-      "title": "Kosova merr pjesë për herë të parë si Vend Kandidat për Zgjerim në Sesionin Plenar të KESE-së",
-      "link": "https://24-ore.com/kosova-merr-pjese-per-here-te-pare-si-vend-kandidat-per-zgjerim-ne-sesionin-plenar-te-kese-se/",
-      "description": "Drejtori i KCSF-së reagon ndaj deklaratës së ministres serbe. Kosova mori pjesë për herë të parë si Anëtare Kandidate për Zgjerim (Enlargement Candidate Member) në Sesionin Plenar të Komitetit Ekonomik dhe Social Evropian (KESE), në kuadër të tryezës së nivelit të lartë për zgjerimin e BE-së, mbajtu",
+      "title": "Në gusht nis gara për kreun e Prokurorisë për Krim të Organizuar, do të zgjidhen drejtues të rinj edhe në disa prokurori",
+      "link": "https://24-ore.com/ne-gusht-nis-gara-per-kreun-e-prokurorise-per-krim-te-organizuar-do-te-zgjidhen-drejtues-te-rinj-edhe-ne-disa-prokurori/",
+      "description": "Këshilli i Prokurorëve Publikë vendosi që në muajin gusht të shpallë konkursin për zgjedhjen e prokurorit të ri publik në krye të Prokurorisë Themelore Publike për Ndjekjen e Krimit të Organizuar dhe Korrupsionit, në përputhje me afatet ligjore para përfundimit të mandatit të shefit aktual. Në seanc",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-17T14:23:16+00:00",
-      "dateStr": "17 Jul, 14:23",
+      "date": "2026-07-17T16:05:20+00:00",
+      "dateStr": "17 Jul, 16:05",
       "isNew": true,
-      "id": "24 11784298196"
+      "id": "24 01784304320"
     },
     {
-      "title": "Vatër zjarri në fshatin Mifol, zjarrfikësit në vendngjarje për të shuar flakët (VIDEO)",
-      "link": "https://24-ore.com/vater-zjarri-ne-fshatin-mifol-zjarrfikesit-ne-vendngjarje-per-te-shuar-flaket-video/",
-      "description": "Një vatër zjarri është regjistruar këtë premte në fshatin Mifolit të Vlorës. Mësohet se, flakët kanë përfshirë barishte, pemë, duke u përhapur me shpejtësi në sipërfaqen e tokës. Në vendngjarje kanë mbërritur forcat e shërbimit zjarrfikës, të cilat po punojnë për izolimin dhe shuarjen e flakëve, me ",
+      "title": "Zyrtare, FIFA: Pushimi i finales së madhe do të zgjasë “vetëm” 17 minuta!",
+      "link": "https://24-ore.com/zyrtare-fifa-pushimi-i-finales-se-madhe-do-te-zgjase-vetem-17-minuta/",
+      "description": "FIFA i njofton Federatat se shfaqjet muzikore do të zgjasin vetëm 11 minuta, dhe pjesa tjetër e kohës do të përdoret për të ngritur dhe ulur skenën dhe për të ujitur barin. FIFA ka hedhur dritë mbi një nga misteret më të mëdha që rrethojnë finalen e Kupës së Botës midis Spanjës dhe Argjentinës këtë ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-17T14:23:01+00:00",
-      "dateStr": "17 Jul, 14:23",
+      "date": "2026-07-17T16:00:40+00:00",
+      "dateStr": "17 Jul, 16:00",
       "isNew": true,
-      "id": "24 21784298181"
+      "id": "24 11784304040"
     },
     {
-      "title": "Tentoi të vriste 59-vjeçarin me thikë pas një konflikti në lokal, arrestohet 43-vjeçari në Elbasan",
-      "link": "https://24-ore.com/tentoi-te-vriste-59-vjecarin-me-thike-pas-nje-konflikti-ne-lokal-arrestohet-43-vjecari-ne-elbasan/",
-      "description": "Një konflikt për motive të dobëta në një lokal në lagjen “Luigj Gurakuqi” në Elbasan ka përfunduar me plagosjen e një 59-vjeçari me mjet prerës. Policia bën me dije se, menjëherë pas njoftimit se i plagosuri ishte paraqitur për ndihmë mjekësore në Spitalin Rajonal të Elbasanit, shërbimet policore ni",
+      "title": "Terror në një pikë telefonie në Durrës, i riu kërcënon punonjësen dhe zhduket me paratë",
+      "link": "https://24-ore.com/terror-ne-nje-pike-telefonie-ne-durres-i-riu-kercenon-punonjesen-dhe-zhduket-me-parate/",
+      "description": "Një pikë e shërbimeve të telefonisë celulare në Durrës ka rënë pre e një grabitjeje, pasi një i ri dyshohet se ka marrë me forcë një shumë parash. Sipas të dhënave paraprake, pas kryerjes së grabitjes, autori është larguar nga vendngjarja, ndërsa blutë kanë nisur hetimet dhe kërkimet për identifikim",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-17T14:22:44+00:00",
-      "dateStr": "17 Jul, 14:22",
+      "date": "2026-07-17T15:59:55+00:00",
+      "dateStr": "17 Jul, 15:59",
       "isNew": true,
-      "id": "24 31784298164"
+      "id": "24 21784303995"
     },
     {
-      "title": "Andy Burnham zgjidhet lider i ri i Laburistëve në Britani: Premton ndryshim dhe rikthim të pushtetit te komunitetet",
-      "link": "https://24-ore.com/andy-burnham-zgjidhet-lider-i-ri-i-laburisteve-ne-britani-premton-ndryshim-dhe-rikthim-te-pushtetit-te-komunitetet/",
-      "description": "Andy Burnham është zgjedhur zyrtarisht lideri i ri i Partisë Laburiste në Britaninë e Madhe, pasi ishte kandidati i vetëm që përmbushi kriteret e garës dhe siguroi mbështetjen e plotë të deputetëve laburistë dhe sindikatave. Në fjalimin e tij të parë si kryetar i partisë, Burnham u prit me duartroki",
+      "title": "Ambasadori i SHBA-së në Itali u përball me protesta në Venecia gjatë turneut me jaht luksoz",
+      "link": "https://24-ore.com/ambasadori-i-shba-se-ne-itali-u-perball-me-protesta-ne-venecia-gjate-turneut-me-jaht-luksoz/",
+      "description": "Ambasadori amerikan në Itali, miliarderi Tilman Fertitta, u prit me protesta në Venecia të premten, pasi mbërriti me jahtin e tij luksoz si pjesë e turneut bregdetar &#8220;Freedom 250 Coastal Diplomacy&#8221; për të shënuar 250-vjetorin e pavarësisë amerikane. Demonstratat u organizuan nga grupe që",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-17T14:22:34+00:00",
-      "dateStr": "17 Jul, 14:22",
+      "date": "2026-07-17T15:58:30+00:00",
+      "dateStr": "17 Jul, 15:58",
       "isNew": true,
-      "id": "24 41784298154"
+      "id": "24 31784303910"
     },
     {
-      "title": "Sulm vdekjeprurës në Odesa, shënjestrimi i cisternave ruse në Detin e Zi bëhet pika qendrore e përshkallëzimit të luftës",
-      "link": "https://24-ore.com/sulm-vdekjeprures-ne-odesa-shenjestrimi-i-cisternave-ruse-ne-detin-e-zi-behet-pika-qendrore-e-pershkallezimit-te-luftes/",
-      "description": "Ndërtesa banimi, një çerdhe, një institucion fetar dhe disa automjete u dëmtuan. Sulmi erdhi një ditë pasi një tjetër sulm rus në qytet vrau tre persona, me një numër të plagosurish të raportuar nga tre deri në gjashtë sipas burimeve. Bombardimi i fundit është pjesë e një fushate në rritje kundër in",
+      "title": "Suspendimi i Gonzalo Quesada u reduktua në një ndeshje pas dëgjimit disiplinor",
+      "link": "https://24-ore.com/suspendimi-i-gonzalo-quesada-u-reduktua-ne-nje-ndeshje-pas-degjimit-disiplinor/",
+      "description": "Trajneri i kombëtares së Italisë, Gonzalo Quesada, do të mungojë në një ndeshje pasi një panel disiplinor uli suspendimin e tij nga dy në një për shkak të kritika ndaj një arbitri. Pas humbjes 47-17 ndaj Zelandës së Re në Nations Championship, Quesada u pezullua automatikisht me dy ndeshje për shkel",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-17T14:22:20+00:00",
-      "dateStr": "17 Jul, 14:22",
+      "date": "2026-07-17T15:57:42+00:00",
+      "dateStr": "17 Jul, 15:57",
       "isNew": true,
-      "id": "24 51784298140"
+      "id": "24 41784303862"
     },
     {
-      "title": "Pas sulmeve të SHBA-së në infrastrukturën energjetike, Teherani thirrje qytetarëve: Zvogëloni konsumin e energjisë",
-      "link": "https://24-ore.com/pas-sulmeve-te-shba-se-ne-infrastrukturen-energjetike-teherani-thirrje-qytetareve-zvogeloni-konsumin-e-energjise/",
-      "description": "Ministria e Energjisë e Iranit i bëri thirrje të martën popullsisë që të zvogëlojë konsumin e energjisë elektrike, pasi rrjeti elektrik është nën presion të rëndë pas sulmeve të SHBA-së në infrastrukturën energjetike . Në një deklaratë, ministria u bëri thirrje banorëve që të fikin kondicionerët gja",
+      "title": "Kthesë e papritur, prokurorët e dorëhequr nga komuniteti serb kërkojnë rikthimin në sistemin e Kosovës",
+      "link": "https://24-ore.com/kthese-e-papritur-prokuroret-e-dorehequr-nga-komuniteti-serb-kerkojne-rikthimin-ne-sistemin-e-kosoves/",
+      "description": "Këshilli Prokurorial i Kosovës (KPK) së voni ka pranuar afër njëzetë njoftime nga prokurorë dhe anëtarë të stafit mbështetës nga Prokuroria Themelore në Mitrovicë për tërheqjen e dorëheqjeve të paralajmëruara më parë. Nga KPK-ja i thanë Radios Evropa e Lirë se emailet i janë dërguar kryesuesit të Kë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-17T14:22:08+00:00",
-      "dateStr": "17 Jul, 14:22",
+      "date": "2026-07-17T15:54:57+00:00",
+      "dateStr": "17 Jul, 15:54",
       "isNew": true,
-      "id": "24 61784298128"
+      "id": "24 51784303697"
     },
     {
-      "title": "SHBA-të do t’i shesin 1.96 mld usd armatime Arabisë Saudite",
-      "link": "https://24-ore.com/shba-te-do-ti-shesin-1-96-mld-usd-armatime-arabise-saudite/",
-      "description": "Departamenti i Shtetit konfirmoi shitjen e mundshme të Sistemeve të Armëve me Precizion të Avancuar Arabisë Saudite në një marrëveshje me vlerë 1.96 miliardë dollarë. Sipas Departamentit të Shtetit, Arabia Saudite kishte kërkuar të blinte deri në 10,000 armatime ajër-ajër APKËS-II dhe 10,000 të tjer",
+      "title": "Sali në takim me Varnes: Mbetemi të përkushtuar për thellimin e bashkëpunimit me Shtetet e Bashkuara",
+      "link": "https://24-ore.com/sali-ne-takim-me-varnes-mbetemi-te-perkushtuar-per-thellimin-e-bashkepunimit-me-shtetet-e-bashkuara/",
+      "description": "Zv.kryeministri Bekim Sali, sot ka pritur në takim të ngarkurën me punë të Ambasadës së Shteteve të Bashkuara të Amerikës në Shkup, Nicole Varnes. Sali thotë se gjatë takimit është konfirmuar partneriteti strategjik në mes Maqedonisë së Veriut dhe SHBA-ve. &#8220;Sot pata kënaqësinë të zhvilloj një ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-17T14:21:50+00:00",
-      "dateStr": "17 Jul, 14:21",
+      "date": "2026-07-17T15:44:54+00:00",
+      "dateStr": "17 Jul, 15:44",
       "isNew": true,
-      "id": "24 71784298110"
+      "id": "24 61784303094"
     },
     {
-      "title": "U zhduk në Ngushticën e Hormuzit, 30-vjeçari indian konfirmohet i vdekur",
-      "link": "https://24-ore.com/u-zhduk-ne-ngushticen-e-hormuzit-30-vjecari-indian-konfirmohet-i-vdekur/",
-      "description": "Një detar indian i cili u zhduk pas një sulmi ndaj anijes së tij të dielën është konfirmuar i vdekur, tha në një deklaratë Unioni i Detarëve të Përparuar të Indisë. Herambh Karmarkar, 30 vjeç, po shërbente si inxhinier i tretë në anijen MV GFS Galaxy në Gjirin e Omanit, pranë Ngushticës së Hormuzit,",
+      "title": "Finalja e Botërorit, Laporta: Nëse arbitri s’do jetë i njëanshëm Spanja ka shanse të mëdha për ta fituar",
+      "link": "https://24-ore.com/finalja-e-boterorit-laporta-nese-arbitri-sdo-jete-i-njeanshem-spanja-ka-shanse-te-medha-per-ta-fituar/",
+      "description": "“Jemi krenar sepse kemi plot tetë lojtarë të akademisë sonë. Barcelona është e lumtur me sasinë e lojtarëve që kemi në finale. Në nivel kombëtaresh nuk mund të kishte një ndeshje më të mirë se kjo. Në fushë do të luajnë dy skuadra me stile të ndryshëm dhe arbitri mendoj se duhet që të jetë [&#8230;]",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-17T14:21:37+00:00",
-      "dateStr": "17 Jul, 14:21",
+      "date": "2026-07-17T15:44:18+00:00",
+      "dateStr": "17 Jul, 15:44",
       "isNew": true,
-      "id": "24 81784298097"
+      "id": "24 71784303058"
     },
     {
-      "title": "Çfarë është ciklosporiaza, sëmundja që ka shpërthyer në SHBA",
-      "link": "https://24-ore.com/cfare-eshte-ciklosporiaza-semundja-qe-ka-shperthyer-ne-shba/",
-      "description": "Rastet e ciklosporiazës janë rritur ndjeshëm në të gjithë Shtetet e Bashkuara ditët e fundit, me një shpërthim prej gati 1,000 rastesh të raportuara në Michigan. Michigani zakonisht raporton rreth 50 raste në vit, duke e bërë shpërthimin aktual më të madhin në historinë e shtetit dhe një nga më të m",
+      "title": "FOKUS – Irani godet rëndë infrastrukturën energjetike të Kuvajtit",
+      "link": "https://24-ore.com/fokus-irani-godet-rende-infrastrukturen-energjetike-te-kuvajtit/",
+      "description": "KAJRO, 17 korrik /ATSH-DPA/ – Një sulm i dyshuar iranian ndaj infrastrukturës energjetike të Kuvajtit shkaktoi dëme të mëdha, sipas autoriteteve kuvajtiane. ”Një uzinë prodhimi energjie dhe shkripëzimi uji deti u godit”, tha sot Ministria e Energjisë Elektrike, Ujit dhe Energjisë së Rinovueshme e sh",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-17T14:21:15+00:00",
-      "dateStr": "17 Jul, 14:21",
+      "date": "2026-07-17T15:42:37+00:00",
+      "dateStr": "17 Jul, 15:42",
       "isNew": true,
-      "id": "24 91784298075"
+      "id": "24 81784302957"
+    },
+    {
+      "title": "Franca pas largimit të Deschamps — Zidane në pole për stolin e kombëtares",
+      "link": "https://24-ore.com/franca-pas-largimit-te-deschamps-zidane-ne-pole-per-stolin-e-kombetares/",
+      "description": "Didier Deschamps e mbyll mandatin e tij 14-vjeçar si trajner i Francës me ndeshjen për vendin e tretë ndaj Anglisë në Botërorin e zhvilluar në Miami, një përfundim që konsiderohet i zhgënjyeshëm pas eleminimit në gjysmëfinale. Pas një periudhe të gjatë në krye të përfaqësueses, pritet që federata fr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-17T15:41:44+00:00",
+      "dateStr": "17 Jul, 15:41",
+      "isNew": true,
+      "id": "24 91784302904"
+    },
+    {
+      "title": "Tërmet i fuqishëm në Meksikë, alarm për cunami",
+      "link": "https://abcnews.al/termet-i-fuqishem-ne-meksike-alarm-per-cunami/",
+      "description": "Një tërmet i fuqishëm me magnitudë 7.4 ballë ka goditur bregdetin e shtetit të Chiapas në Meksikë dhe ka nxitur paralajmërim për cunami. Sipas Shërbimit Gjeologjik të Shteteve të Bashkuara të Amerikës, tërmeti ka ndodhur në thellësi prej 10 kilometrash.  Në paralajmërim është thënë se valë “të rrezi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-17T15:39:32+00:00",
+      "dateStr": "17 Jul, 15:39",
+      "isNew": true,
+      "id": "abc11784302772"
+    },
+    {
+      "title": "Zjarr i madh pranë Madridit, përfshihen në flakë 700 hektarë me pyje",
+      "link": "https://abcnews.al/zjarr-i-madh-prane-madridit-perfshihen-ne-flake-700-hektare-me-pyje/",
+      "description": "Pamjet e publikuara me dron nga zjarrfikësit e Madridit të premten tregojnë pasojat e zjarrit pyjor që detyroi evakuimin dhe izolimin e banorëve në veri të kryeqytetit spanjoll. Një burrë u arrestua të enjten (16 korrik), nën dyshimin se i vuri qëllimisht zjarrin që shpërtheu në komunën Lozoyuela, b",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-17T15:05:41+00:00",
+      "dateStr": "17 Jul, 15:05",
+      "isNew": true,
+      "id": "abc21784300741"
+    },
+    {
+      "title": "Hungaria nis hetimet ndaj ish-ministrit të jashtëm për lidhje të dyshuara me Rusinë",
+      "link": "https://abcnews.al/hungaria-nis-hetimet-ndaj-ish-ministrit-te-jashtem-per-lidhje-te-dyshuara-me-rusine/",
+      "description": "Kryeministri hungarez Peter Magyar tha se një hetim është nisur për marrëdhëniet e ish-ministrit të Jashtëm Peter Szijjarto me Rusinë, por nuk pranoi të zbulonte detaje të mëtejshme, raportoi gazeta &#8220;Hungarian Conservative&#8221;. &#8220;Ka dokumente të klasifikuara, ka dokumente të Ministrisë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-17T14:37:29+00:00",
+      "dateStr": "17 Jul, 14:37",
+      "isNew": true,
+      "id": "abc31784299049"
+    },
+    {
+      "title": "“Drejt përfundimit”, Rama ndan pamje nga shëtitorja e re e Ksamilit",
+      "link": "https://abcnews.al/drejt-perfundimit-rama-ndan-pamje-nga-shetitorja-e-re-e-ksamilit/",
+      "description": "Kryeministri Edi Rama ka ndarë pamje nga punimet për ndërtimin e shëtitores së re në Ksamil, duke bërë të ditur se projekti po shkon drejt përfundimit. Përmes një postimi në Facebook, Rama e cilësoi këtë investim si një hapësirë publike të shumëpritur, e cila synon të përmirësojë përvojën e vizitorë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-17T14:27:44+00:00",
+      "dateStr": "17 Jul, 14:27",
+      "isNew": true,
+      "id": "abc41784298464"
     },
     {
       "title": "“Messia do të “kapë” qiellin/ Ylli argjentinas luan finalen që do ta kthejë në legjendë të vërtetë",
@@ -122,7 +177,7 @@
       "date": "2026-07-17T13:57:48+00:00",
       "dateStr": "17 Jul, 13:57",
       "isNew": true,
-      "id": "abc01784296668"
+      "id": "abc51784296668"
     },
     {
       "title": "Tinguj shqiptarë në Hollywood/ Isopolifonia, kolonë zanore e filmit të Christopher Nolan",
@@ -133,7 +188,7 @@
       "date": "2026-07-17T13:53:25+00:00",
       "dateStr": "17 Jul, 13:53",
       "isNew": true,
-      "id": "abc11784296405"
+      "id": "abc61784296405"
     },
     {
       "title": "I nxehti, deri në 400 raste në ditë/ Fluks në urgjencën e QSUT, mjekët: Mos neglizhoni shenjat",
@@ -144,7 +199,7 @@
       "date": "2026-07-17T13:49:00+00:00",
       "dateStr": "17 Jul, 13:49",
       "isNew": true,
-      "id": "abc21784296140"
+      "id": "abc71784296140"
     },
     {
       "title": "Newsline me Fabiola Hoxha, (17/07/2026)",
@@ -155,7 +210,7 @@
       "date": "2026-07-17T13:44:37+00:00",
       "dateStr": "17 Jul, 13:44",
       "isNew": true,
-      "id": "abc31784295877"
+      "id": "abc81784295877"
     },
     {
       "title": "“Protesta, e stisur”/ Spaho: Qeveri tranzitore? Nuk mund t’i vëmë kryqin integrimit në BE",
@@ -166,62 +221,7 @@
       "date": "2026-07-17T13:42:06+00:00",
       "dateStr": "17 Jul, 13:42",
       "isNew": true,
-      "id": "abc41784295726"
-    },
-    {
-      "title": "“Statuti i PD e thotë qartë”/ Spaho: Berisha, jo legjitim në krye të partisë. Nuk ka as garë dhe as ripërtëritje",
-      "link": "https://abcnews.al/statuti-i-pd-e-thote-qarte-spaho-berisha-jo-legjitim-ne-krye-te-partise-nuk-ka-as-gare-dhe-as-riperteritje/",
-      "description": "Ish deputeti demokrat, Edmond Spaho thotë se zgjedhja e Sali Berishës në krye të PD, nuk ishte legjitime. Në një intervistë për &#8220;NewsHour&#8221; në ABC News, Spaho u shpreh se statuti i PD e thotë qartë, se kryetari i partisë që humb zgjedhjet parlamentare, nuk mund të rikandidojë më për kreun",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T13:37:31+00:00",
-      "dateStr": "17 Jul, 13:37",
-      "isNew": true,
-      "id": "abc51784295451"
-    },
-    {
-      "title": "Tentoi të vriste me thikë një person/ Elbasan, vihet në pranga 59-vjeçari",
-      "link": "https://abcnews.al/tentoi-te-vriste-me-thike-nje-person-elbasan-vihet-ne-pranga-59-vjecari/",
-      "description": "Policia e Elbasanit e ka arrestuar 43-vjeçarin Mirjan Asllani, i dyshuar për plagosjen me thikë të një 59-vjeçari, Roland Beqiri pas një konflikti në një lokal në lagjen “Luigj Gurakuqi”. Sipas uniformave blu, autori i dyshuar u identifikua dhe u kap menjëherë pas ngjarjes falë veprimeve të shpejta ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T13:15:54+00:00",
-      "dateStr": "17 Jul, 13:15",
-      "isNew": true,
-      "id": "abc61784294154"
-    },
-    {
-      "title": "Shefi i CIA: Trupat e Putin nuk rezistojnë më shumë se 30 minuta në fushën e betejës",
-      "link": "https://abcnews.al/shefi-i-cia-trupat-e-putin-nuk-rezistojne-me-shume-se-30-minuta-ne-fushen-e-betejes/",
-      "description": "Jetëgjatësia mesatare për një ushtar rus në Ukrainë është midis 20-30 minutash, sipas drejtoriy të CIA-s, John Ratcliffe. Duke folur në një samit të mbrojtjes në Pensilvani, ai ia atribuoi kushtet vdekjeprurëse për forcat e Vladimir Putinit dronëve luftarakë të Ukrainës të pajisur me inteligjencë ar",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T13:05:14+00:00",
-      "dateStr": "17 Jul, 13:05",
-      "isNew": true,
-      "id": "abc71784293514"
-    },
-    {
-      "title": "Zjarr në Novoselë të Vlorës/ Flakët përfshijnë barishte e pemë, nuk raportohet për të lënduar",
-      "link": "https://abcnews.al/zjarr-ne-novosele-te-vlores-flaket-perfshijne-barishte-e-peme-nuk-raportohet-per-te-lenduar/",
-      "description": "Një vatër zjarri është regjistruar në zonën e fshatit Mifol në Novoselë. Flakët kanë përfshirë barishte, pemë, duke u përhapur me shpejtësi në sipërfaqen e prekur. Në vendngjarje kanë mbërritur forcat e shërbimit zjarrfikës, të cilat po punojnë për izolimin dhe shuarjen e flakëve, me qëllim parandal",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T12:38:01+00:00",
-      "dateStr": "17 Jul, 12:38",
-      "isNew": true,
-      "id": "abc81784291881"
-    },
-    {
-      "title": "La gjithçka pas në moshën 43-vjeçare, por e rigjeti veten te letërsia. Rrëfimi prekës i Irena Dragotit",
-      "link": "https://abcnews.al/la-gjithcka-pas-ne-moshen-43-vjecare-por-e-rigjeti-veten-te-letersia-rrefimi-prekes-i-irena-dragotit/",
-      "description": "Emigrimi nuk i ndryshoi vetëm adresën, por edhe mënyrën se si e pa jetën. Në studion e ABC e Mëngjesit, autorja Irena Dragoti rrëfeu udhëtimin e saj emocional, nga vajza e rritur në Lushnjë me ëndrra për letërsinë, te gruaja që, në moshën 43-vjeçare, u detyrua të rindërtonte gjithçka në Shtetet e Ba",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T12:11:21+00:00",
-      "dateStr": "17 Jul, 12:11",
-      "isNew": true,
-      "id": "abc91784290281"
+      "id": "abc91784295726"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
