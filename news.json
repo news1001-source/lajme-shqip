@@ -1,18 +1,172 @@
 {
-  "lastUpdated": "2026-07-18T07:41:18.413941+00:00",
+  "lastUpdated": "2026-07-18T09:19:14.318616+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Ndahet nga jeta Nuri Bajrami, gazetari dhe ish-nënkryetari i KSHPK-së",
-      "link": "https://24-ore.com/ndahet-nga-jeta-nuri-bajrami-gazetari-dhe-ish-nenkryetari-i-kshpk-se/",
-      "description": "Në moshën 66-vjeçare ka ndërruar jetë Nuri Bajrami nga Gostivari, një personalitet që la gjurmë në gazetari, administratën publike dhe institucionet e shtetit. Ai ishte ndër bashkëpunëtorët dhe punonjësit e parë në televizionin lokal &#8220;TV2&#8221; në Gostivar, ku për rreth një dekadë shërbeu si ",
+      "title": "Marka luksoze pa dokumente dhe shitje pa kupon, goditen 8 biznese për evazion fiskal në Tiranë",
+      "link": "https://24-ore.com/marka-luksoze-pa-dokumente-dhe-shitje-pa-kupon-goditen-8-biznese-per-evazion-fiskal-ne-tirane/",
+      "description": "Policia e Tiranës ka finalizuar operacionin e koduar “Illegal trade”, duke goditur 8 subjekte tregtare të dyshuara për shkelje ligjore në fushën e tregtimit të produkteve të markave luksoze. Sipas njoftimit zyrtar të policisë, gjatë kontrolleve të ushtruara në këto biznese u zbuluan produkte të dysh",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T07:39:55+00:00",
-      "dateStr": "18 Jul, 07:39",
+      "date": "2026-07-18T09:16:37+00:00",
+      "dateStr": "18 Jul, 09:16",
       "isNew": true,
-      "id": "24 01784360395"
+      "id": "24 01784366197"
+    },
+    {
+      "title": "Zjarr i madh në Drammen shkatërron mbi 100 shtëpi, evakuohen qindra banorë",
+      "link": "https://24-ore.com/zjarr-i-madh-ne-drammen-shkaterron-mbi-100-shtepi-evakuohen-qindra-banore/",
+      "description": "Një zjarr i madh në jug të Norvegjisë shkatërroi më shumë se 100 shtëpi të premten dhe detyroi qindra banorë të largohen nga zonat përreth të qytetit Drammen. Flakët nisën në një shtëpi me tërësi të ndara rreth orës 15:30 dhe u përhapën shpejt në lagje dhe në pyjet përreth, ndërsa zjarrfikësit vazhd",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T09:15:16+00:00",
+      "dateStr": "18 Jul, 09:15",
+      "isNew": true,
+      "id": "24 11784366116"
+    },
+    {
+      "title": "Shtatë të vrarë dhe 51 të plagosur pas sulmeve me dron në disa rajone të Rusisë",
+      "link": "https://24-ore.com/shtate-te-vrare-dhe-51-te-plagosur-pas-sulmeve-me-dron-ne-disa-rajone-te-rusise/",
+      "description": "Shtatë persona humbën jetën dhe 51 u plagosën gjatë sulmeve me dron brenda territorit rus gjatë natës, thanë autoritetet ruse, ndërsa goditjet synuan infrastrukturën logistike dhe energjetike që kyçen për furnizimin e pajisjeve dhe komponentëve të prodhimit të dronëve. Disa magazina të mëdha të treg",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T09:14:41+00:00",
+      "dateStr": "18 Jul, 09:14",
+      "isNew": true,
+      "id": "24 21784366081"
+    },
+    {
+      "title": "Argjentina, një fitore larg historisë: si mund të bëhet kampione radhazi e Botërorit",
+      "link": "https://24-ore.com/argjentina-nje-fitore-larg-historise-si-mund-te-behet-kampione-radhazi-e-boterorit/",
+      "description": "Lionel Messi dhe kombëtarja e Argjentinës ndodhen vetëm një ndeshje larg një arritjeje të rrallë: të bëhen ekipi i parë i meshkujve pas më shumë se 60 vjetësh që e mbrojnë titullin e Kampionatit Botëror. Sipas sports.yahoo, që nga fillimi i turneut në 1930 vetëm dy kombëtare arritën të fitonin Botër",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T09:13:53+00:00",
+      "dateStr": "18 Jul, 09:13",
+      "isNew": true,
+      "id": "24 31784366033"
+    },
+    {
+      "title": "Botërori 2026: Fotografia e fëmijërisë mes Messit dhe Lamine Yamal përmendet para finales",
+      "link": "https://24-ore.com/boterori-2026-fotografia-e-femijerise-mes-messit-dhe-lamine-yamal-permendet-para-finales/",
+      "description": "Kapiteni i Argjentinës, Lionel Messi, e konsideroi të pabesueshme që po përballet me Lamine Yamal në finalen e Botërorit. Një foto e vitit 2007, kur Messi 20-vjeçar kishte në krah një foshnjë pesëmuajshe gjatë një sesioni bamirësie në Barcelonë, u rikthye në vëmendje gjatë konferencës për shtyp në N",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T09:12:24+00:00",
+      "dateStr": "18 Jul, 09:12",
+      "isNew": true,
+      "id": "24 41784365944"
+    },
+    {
+      "title": "LSDM: Për çfarë ekonomie po flet Mickoski, kur mbi 73% e qytetarëve fitojnë paga nën mesataren",
+      "link": "https://24-ore.com/lsdm-per-cfare-ekonomie-po-flet-mickoski-kur-mbi-73-e-qytetareve-fitojne-paga-nen-mesataren/",
+      "description": "&#8220;Çfarë lloj &#8220;ekonomie të tretë në Evropë&#8221; ka Mickoski kur mbi 73% e qytetarëve fitojnë paga nën mesataren? Të dhënat e PRO-së demaskojnë propagandën qeveritare. Nuk ka ekonomi të tretë në Evropë. Ka 73% të qytetarëve me paga nën mesataren dhe një qeveri që po e grabit popullin në m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T08:59:52+00:00",
+      "dateStr": "18 Jul, 08:59",
+      "isNew": true,
+      "id": "24 51784365192"
+    },
+    {
+      "title": "Hoxha takim me dy zyrtartët e lartë të DASH në SHBA: Angazhim i përbashkët për forcimin e partneritetit strategjik",
+      "link": "https://24-ore.com/hoxha-takim-me-dy-zyrtartet-e-larte-te-dash-ne-shba-angazhim-i-perbashket-per-forcimin-e-partneritetit-strategjik/",
+      "description": "Në margjinat e Ministerialit mbi Rikthimin e Terrorizmit Politik në Uashington, Ministri për Evropën dhe Punët e Jashtme, Ferit Hoxha u takua me Zëvendës Sekretarin e Shtetit, Christopher Landau dhe me Nën Sekretaren Alison Hooker. Me dy zyrtartët e lartë të DASH, Ministri Hoxha diskutoi një sërë çë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T08:59:48+00:00",
+      "dateStr": "18 Jul, 08:59",
+      "isNew": true,
+      "id": "24 61784365188"
+    },
+    {
+      "title": "Është marrë vendimi tashmë…",
+      "link": "https://24-ore.com/eshte-marre-vendimi-tashme/",
+      "description": "Nga Ylli Manjani Përtej debateve që bëjmë ne me njëri-tjetrin, debate që nuk përtojmë t’i eksportojmë edhe në Europë, duket se vendimi për anëtarësimin e Shqipërisë në Bashkimin Europian është marrë tashmë. Ajo që po zhvillohet sot është më shumë procedura e domosdoshme për të mbërritur te vendimi f",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T08:59:06+00:00",
+      "dateStr": "18 Jul, 08:59",
+      "isNew": true,
+      "id": "24 71784365146"
+    },
+    {
+      "title": "Në kërkim nga Spanja për narkotikë dhe organizatë kriminale, arrestohet në Malësinë e Madhe 39-vjeçari",
+      "link": "https://abcnews.al/ne-kerkim-nga-spanja-per-narkotike-dhe-organizate-kriminale-arrestohet-ne-malesine-e-madhe-39-vjecari/",
+      "description": "Një 39-vjeçar është arrestuar në Malësi të Madhe, pasi ishte shpallur në kërkim ndërkombëtar nga autoritetet spanjolle për trafikim të lëndëve narkotike dhe pjesëmarrje në organizatë kriminale. Arrestimi u krye në kuadër të operacionit policor të koduar “Fast”, i zhvilluar nga specialistët e Sektori",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T08:58:29+00:00",
+      "dateStr": "18 Jul, 08:58",
+      "isNew": true,
+      "id": "abc01784365109"
+    },
+    {
+      "title": "MUZIKË – Si u bë K-pop një “dritare lirie” për koreano-veriorët nën regjimin e Kim Jong Un",
+      "link": "https://24-ore.com/muzike-si-u-be-k-pop-nje-dritare-lirie-per-koreano-verioret-nen-regjimin-e-kim-jong-un/",
+      "description": "&#8211; K-pop-i është kthyer në një simbol të lirisë dhe të shpresës për shumë koreano-veriorë. Edhe pse regjimi përpiqet ta ndalojë, muzika koreano-jugore ka krijuar një lidhje me botën e jashtme dhe ka sfiduar përpjekjen e qeverisë për të kontrolluar informacionin dhe kulturën, shkruan BBC. Për de",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T08:58:10+00:00",
+      "dateStr": "18 Jul, 08:58",
+      "isNew": true,
+      "id": "24 81784365090"
+    },
+    {
+      "title": "“Fija e Kuqe” izraelite, barriera 22 kilometra që po izolon palestinezët",
+      "link": "https://abcnews.al/fija-e-kuqe-izraelite-barriera-22-kilometra-qe-po-izolon-palestinezet/",
+      "description": "Në Ras al-Ahmar, në Bregun Perëndimor të pushtuar, rruga që më parë bëhej për më pak se 10 minuta tani kërkon deri në 3 orë. Banorët palestinezë thonë se kontrollet, mbyllja e rrugëve dhe patrullimet e ushtrisë izraelite dhe kolonëve janë kthyer në pjesë të përditshmërisë së tyre. Fshati në veri të ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T08:52:57+00:00",
+      "dateStr": "18 Jul, 08:52",
+      "isNew": true,
+      "id": "abc11784364777"
+    },
+    {
+      "title": "De La Fuente-n e nervozon helikopteri dhe… Leo Messi: Me argjentinasin kam eksperiencë të keqe, më shënoi katër gola për 30’!",
+      "link": "https://24-ore.com/de-la-fuente-n-e-nervozon-helikopteri-dhe-leo-messi-me-argjentinasin-kam-eksperience-te-keqe-me-shenoi-kater-gola-per-30/",
+      "description": "Luis de la Fuente mbajti dje një konferencë për shtyp ku tregoi disa nga makthet e tij. Komisari teknik i Spanjës pranoi se e bënte nervoz fakti se kishte udhëtuar drejt qendrës stërvitore me një helikopter dhe gjithashtu do të bënte edhe rrugën e kthimit duke fluturuar. “Jam pak nervoz sepse do të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T08:49:57+00:00",
+      "dateStr": "18 Jul, 08:49",
+      "isNew": true,
+      "id": "24 91784364597"
+    },
+    {
+      "title": "‘Luks kontrabandë’, procedohen 9 tregtarë/ Tiranë, nuk deklaronin të ardhurat nga aktiviteti i tyre",
+      "link": "https://abcnews.al/luks-kontrabande-procedohen-9-tregtare-tirane-nuk-deklaronin-te-ardhurat-nga-aktiviteti-i-tyre/",
+      "description": "Tetë subjekte tregtare ku shiteshin pajisje elektronike, si dhe veshje e aksesorë të markave luksoze, të dyshuara si mallra kontrabandë, janë konstatuar gjatë një operacioni të Policisë. Si rezultat i kontrolleve, u proceduan penalisht nëntë administratorë dhe përfaqësues të këtyre subjekteve, pasi ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T08:29:28+00:00",
+      "dateStr": "18 Jul, 08:29",
+      "isNew": true,
+      "id": "abc21784363368"
+    },
+    {
+      "title": "Atentati në Sarandë/ Autorët u larguan nga deti, në vendngjarja 9 gëzhoja. Nga konfliktet e të birit, tek larja e hesapeve…",
+      "link": "https://abcnews.al/atentati-ne-sarande-autoret-u-larguan-nga-deti-ne-vendngjarja-9-gezhoja-nga-konfliktet-e-te-birit-tek-larja-e-hesapeve/",
+      "description": "Policia ka gjetur 9 gëzhoja pistolete të kalibrit 9 mm në vendin ku u qëllua 50-vjeçari Thimjo Rubati, alias Sander Rubati, në lagjen nr. 4 të Sarandës. Dyshimet e deritanishme janë se autorët, menjëherë pas ngjarjes, janë larguar me motor drejt zonës së plazheve në lagjen e quajtur “Baba Rexhepi” d",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T08:14:07+00:00",
+      "dateStr": "18 Jul, 08:14",
+      "isNew": true,
+      "id": "abc31784362447"
+    },
+    {
+      "title": "Arrestohet në Rinas egjiptiani/ Kalonte ilegalisht emigrantët drejt vendeve të BE",
+      "link": "https://abcnews.al/arrestohet-ne-rinas-egjiptiani-kalonte-ilegalisht-emigrantet-drejt-vendeve-te-be/",
+      "description": "Policia e Shtetit ka arrestuar një shtetas egjiptian, 34 vjeç, banues në Krujë, i dyshuar për organizimin dhe transportimin kundrejt pagesës të emigrantëve që synonin të kalonin në mënyrë të paligjshme kufijtë drejt vendeve të Bashkimit Evropian. Arrestimi u krye në kuadër të operacionit policor të ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T08:04:38+00:00",
+      "dateStr": "18 Jul, 08:04",
+      "isNew": true,
+      "id": "abc41784361878"
     },
     {
       "title": "Sulm masiv me dronë në Rusi, 7 të vrarë dhe 24 të plagosur",
@@ -23,84 +177,7 @@
       "date": "2026-07-18T07:34:45+00:00",
       "dateStr": "18 Jul, 07:34",
       "isNew": true,
-      "id": "abc01784360085"
-    },
-    {
-      "title": "SHBA – Trump kërcënon me tarifa të reja tregtare kundër Kanadasë për shkak të tymit të zjarreve",
-      "link": "https://24-ore.com/shba-trump-kercenon-me-tarifa-te-reja-tregtare-kunder-kanadase-per-shkak-te-tymit-te-zjarreve/",
-      "description": "&#8211; Presidenti amerikan Donald Trump ka kërcënuar Kanadanë me vendosjen e tarifave të reja tregtare, duke akuzuar Otavën për neglizhencë në menaxhimin e pyjeve, ndërsa qindra zjarre masive kanë mbuluar me tym pjesë të mëdha të veriut të SHBA-së, sipas BBC. “SHBA-ja po pushtohet në mënyrë të pane",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T07:32:44+00:00",
-      "dateStr": "18 Jul, 07:32",
-      "isNew": true,
-      "id": "24 11784359964"
-    },
-    {
-      "title": "Dita e Euros po vjen – lekët jashtë bankave duhen shkëmbyer me euro…",
-      "link": "https://24-ore.com/dita-e-euros-po-vjen-leket-jashte-bankave-duhen-shkembyer-me-euro/",
-      "description": "Nga Eduard Zaloshnja Në projektligjin e ri “Për Bankën e Shqipërisë”, është përfshirë një kapitull ku përcaktohet se, me antarësimin tonë në BE, Euro do të përdoret si para zyrtare e vendit. Më tej, theksohet edhe se Banka e Shqipërisë do t’i përshtatet rregullave të Bankës Qendrore Evropiane. I gji",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T07:29:39+00:00",
-      "dateStr": "18 Jul, 07:29",
-      "isNew": true,
-      "id": "24 21784359779"
-    },
-    {
-      "title": "SHBA – Trump kërcënon Kanadanë me tarifa për shkak të tymit të zjarreve",
-      "link": "https://24-ore.com/shba-trump-kercenon-kanadane-me-tarifa-per-shkak-te-tymit-te-zjarreve/",
-      "description": "&#8211; Presidenti amerikan Donald Trump ka kërcënuar Kanadanë me vendosjen e tarifave të reja tregtare, duke akuzuar Otavën për neglizhencë në menaxhimin e pyjeve, ndërsa qindra zjarre masive kanë mbuluar me tym pjesë të mëdha të veriut të SHBA-së, sipas BBC. “SHBA-ja po pushtohet në mënyrë të pane",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T07:28:54+00:00",
-      "dateStr": "18 Jul, 07:28",
-      "isNew": true,
-      "id": "24 31784359734"
-    },
-    {
-      "title": "​”Ma vranë babanë para syve”, rrëfimi tronditës i 11-vjeçares për Masakrën e Hallaqit të Vogël",
-      "link": "https://24-ore.com/ma-vrane-babane-para-syve-rrefimi-trondites-i-11-vjecares-per-masakren-e-hallaqit-te-vogel/",
-      "description": "Instituti i Krimeve të Kryera gjatë Luftës në Kosovë (IKKL) ditë më parë ka publikuar dëshminë autentike të Nazlije Selim Selimit, e cila ishte vetëm 11 vjeçe kur i mbijetoi Masakrës së Hallaqit të Vogël. 11-vjeçarja në rrëfimin e dhënë pak ditë pasi kishin ndodhur krimet kujton momentet tragjike ku",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T07:15:14+00:00",
-      "dateStr": "18 Jul, 07:15",
-      "isNew": true,
-      "id": "24 41784358914"
-    },
-    {
-      "title": "“Science”: Nivelet e ulëta të testosteronit lidhen me rrezik më të madh për kancer",
-      "link": "https://24-ore.com/science-nivelet-e-uleta-te-testosteronit-lidhen-me-rrezik-me-te-madh-per-kancer/",
-      "description": "&#8211; Testosteroni i ulët mund të jetë një sinjal paralajmërues për rrezik më të lartë të kancerit te burrat, sipas “Science”. Një studim ndërkombëtar sugjeron se nivelet shumë të ulëta të testosteronit te burrat, mund të lidhen me një rrezik më të lartë të diagnostikimit me kancer dhe humbjes së ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T07:03:49+00:00",
-      "dateStr": "18 Jul, 07:03",
-      "isNew": true,
-      "id": "24 51784358229"
-    },
-    {
-      "title": "“Gastroenterology”: Kufizimi i sheqerit për vetëm nëntë ditë ul ndjeshëm yndyrën në mëlçi",
-      "link": "https://24-ore.com/gastroenterology-kufizimi-i-sheqerit-per-vetem-nente-dite-ul-ndjeshem-yndyren-ne-melci/",
-      "description": "Një studim tregon se reduktimi i konsumit të sheqerit për vetëm nëntë ditë mund të ulë ndjeshëm yndyrën në mëlçi dhe të përmirësojë metabolizmin. &#8211; Heqja e sheqerit nga dieta për vetëm nëntë ditë, mund të sjellë përmirësime të shpejta në metabolizmin e mëlçisë. Këtë e tregon një studim i botua",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T07:03:33+00:00",
-      "dateStr": "18 Jul, 07:03",
-      "isNew": true,
-      "id": "24 61784358213"
-    },
-    {
-      "title": "Spanjë–Argjentinë: Përballja historike dhe takimet kryesore para finales së Botërorit 2026",
-      "link": "https://24-ore.com/spanje-argjentine-perballja-historike-dhe-takimet-kryesore-para-finales-se-boterorit-2026/",
-      "description": "Spanja dhe Argjentina përplasen në finalen e FIFA Botërorit 2026, e luajtur në zonën New York–New Jersey, me trofeun më të rëndësishëm të futbollit në lojë. Spanja kërkon titullin e dytë botëror pas suksesit të saj në Afrikën e Jugut në 2010, ndërsa Argjentina tenton ta mbajë trofeun që fitoi në Kat",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T07:02:22+00:00",
-      "dateStr": "18 Jul, 07:02",
-      "isNew": true,
-      "id": "24 71784358142"
+      "id": "abc51784360085"
     },
     {
       "title": "Lëkundje të forta në Turqinë lindore, Malatya goditet nga tërmeti me magnitudë 5 ballë",
@@ -111,7 +188,7 @@
       "date": "2026-07-18T06:56:31+00:00",
       "dateStr": "18 Jul, 06:56",
       "isNew": true,
-      "id": "abc11784357791"
+      "id": "abc61784357791"
     },
     {
       "title": "Protestuan kundër një ceremonie neofashiste, 40 aktivistë në Itali përballen me gjoba të majme",
@@ -122,29 +199,7 @@
       "date": "2026-07-18T06:39:45+00:00",
       "dateStr": "18 Jul, 06:39",
       "isNew": true,
-      "id": "abc21784356785"
-    },
-    {
-      "title": "Integrimi, arsimi dhe shkenca: kapituj të mbyllur, por sfida të hapura",
-      "link": "https://24-ore.com/integrimi-arsimi-dhe-shkenca-kapituj-te-mbyllur-por-sfida-te-hapura/",
-      "description": "Mbyllja e tre kapitujve të negociatave me BE-në—Shkenca dhe Kërkimi, Arsimi dhe Kultura, dhe Marrëdhëniet e Jashtme—është një sihariq i mirë për Shqipërinë. Integrimi europian mbetet projekti më i rëndësishëm kombëtar pas pavarësimit të Kosovës dhe çdo progres në këtë rrugë meriton të përshëndetet. ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T06:26:59+00:00",
-      "dateStr": "18 Jul, 06:26",
-      "isNew": true,
-      "id": "24 81784356019"
-    },
-    {
-      "title": "Plagoset me armë 50-vjeçari në Sarandë, në gjendje të rëndë në spital. Policia jep detajet (EMRI+FOTO)",
-      "link": "https://24-ore.com/plagoset-me-arme-50-vjecari-ne-sarande-ne-gjendje-te-rende-ne-spital-policia-jep-detajet-emrifoto/",
-      "description": "Një plagosje me armë zjarri ështe regjistruar mbrëmjen e së premtes në qytetin e Sarandës. Mësohet se plagosja ka ndodhur rreth otës 21:15 në lagjen nr.4 ku për pasojë ka marrë plagë një person rreth moshës 50 vjeç. Raportohet se i plagosuri është Thimjo Rubati i cili njihet edhe me emrin Sandri. Ng",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T06:25:00+00:00",
-      "dateStr": "18 Jul, 06:25",
-      "isNew": true,
-      "id": "24 91784355900"
+      "id": "abc71784356785"
     },
     {
       "title": "Si lobimi i fuqishëm bujqësor ndaloi reformën e pesticideve në Europë?!",
@@ -155,7 +210,7 @@
       "date": "2026-07-18T06:00:08+00:00",
       "dateStr": "18 Jul, 06:00",
       "isNew": true,
-      "id": "abc31784354408"
+      "id": "abc81784354408"
     },
     {
       "title": "Trump planifikon të financojë me 12 milionë dollarë organizata konservatore në Britani",
@@ -166,62 +221,7 @@
       "date": "2026-07-18T05:24:15+00:00",
       "dateStr": "18 Jul, 05:24",
       "isNew": true,
-      "id": "abc41784352255"
-    },
-    {
-      "title": "Parashikimi i motit, 18 korrik 2026",
-      "link": "https://abcnews.al/parashikimi-i-motit-18-korrik-2026/",
-      "description": "Sipas MeteoAlb, moti i kthjellët dhe i nxehtë do të mbizotërojë kushtet atmosferike në të gjithë territorin shqiptar gjatë orëve të paradites, ndërsa gjatë pasdites do të shfaqen kalime vranësirash si fillim në zonat Veriore dhe gradualisht do të përfshijnë të gjithë terriorin e vendit. Më të dukshm",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-18T05:05:04+00:00",
-      "dateStr": "18 Jul, 05:05",
-      "isNew": true,
-      "id": "abc51784351104"
-    },
-    {
-      "title": "Horoskopi, 18 korrik 2026",
-      "link": "https://abcnews.al/horoskopi-18-korrik-2026/",
-      "description": "Dashi Ndjenjat për partnerin do jene edhe me te thella gjate kësaj dite. Nga ana tjetër do gjeni edhe mënyrën e duhur për t’i shprehur ato dhe do e bëni partnerin te lumtur. Beqaret do fillojnë histori dashurie afatgjata dhe mjaft te këndshme. Financat nuk do jene te këqija, megjithatë nuk duhet te ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-18T05:00:35+00:00",
-      "dateStr": "18 Jul, 05:00",
-      "isNew": true,
-      "id": "abc61784350835"
-    },
-    {
-      "title": "Trump gati të përshkallëzojë sulmet/ SHBA dërgon dhjetëra avionë në Izrael, shtohen tensionet me Iranin",
-      "link": "https://abcnews.al/trump-gati-te-pershkallezoje-sulmet-shba-dergon-dhjetera-avione-ne-izrael-shtohen-tensionet-me-iranin/",
-      "description": "Administrata amerikane ka njoftuar Izraelin se do të dërgojë dhjetëra avionë të tjerë furnizues me karburant, ndërsa shtohen shqetësimet për një zgjerim të mundshëm të operacioneve ushtarake kundër Iranit. Sipas tre zyrtarëve amerikanë dhe izraelitë, kjo lëvizje vjen në një kohë kur presidenti Donal",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T21:45:18+00:00",
-      "dateStr": "17 Jul, 21:45",
-      "isNew": true,
-      "id": "abc71784324718"
-    },
-    {
-      "title": "“Duan të rrëzojnë rendin kushtetues”/ Protesta, Beqiri: Duhet të hetohet! Shkon deri në burgim të përjetshëm",
-      "link": "https://abcnews.al/duan-te-rrezojne-rendin-kushtetues-protesta-beqiri-duhet-te-hetohet-shkon-deri-ne-burgim-te-perjetshem/",
-      "description": "Avokati Idajet Beqiri ka deklaruar se thirrjet për &#8220;revolucion&#8221; dhe kërkesat për rrëzimin e rendit kushtetues janë çështje që duhet të hetohen nga institucionet. Sipas Beqirit, kërkesa që një qeveri teknike të zgjidhet nga protestuesit dhe jo përmes mekanizmave kushtetues përbën një çësh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T21:38:52+00:00",
-      "dateStr": "17 Jul, 21:38",
-      "isNew": true,
-      "id": "abc81784324332"
-    },
-    {
-      "title": "Atentat në Sarandë/ Rubati dërgohet për mjekim të specializuar në Janinë",
-      "link": "https://abcnews.al/atentat-ne-sarande-rubati-dergohet-per-mjekim-te-specializuar-ne-janine/",
-      "description": "Thimjo Rubati, 50 vjeç, i plagosur rëndë në atentatin e ndodhur në Sarandë, pritet të dërgohet për mjekim të specializuar në Janinë për shkak të gjendjes së rënduar shëndetësore. Sipas informacioneve paraprake, Rubati është një person i njohur për autoritetet. Ai ka dalë vitet e fundit nga një burg ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T21:23:22+00:00",
-      "dateStr": "17 Jul, 21:23",
-      "isNew": true,
-      "id": "abc91784323402"
+      "id": "abc91784352255"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
