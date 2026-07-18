@@ -1,29 +1,150 @@
 {
-  "lastUpdated": "2026-07-18T16:52:07.519912+00:00",
+  "lastUpdated": "2026-07-18T17:52:42.198244+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Një “Kuvend” mjaftoi për të rrëzuar mitin e protestës horizontale",
-      "link": "https://24-ore.com/nje-kuvend-mjaftoi-per-te-rrezuar-mitin-e-protestes-horizontale/",
-      "description": "Nga Bjorn Runa Për gati dy muaj, protesta ia doli me sukses të vononte përgjigjen e pyetjes më të vështirë, se kush e ka autoritetin legjitim për dhe vendosur në emër të njerëzve në shesh. Protestuesit këmbëngulën fort se e gjitha ishte një revoltë e “popullit” kundër pushtetit dhe sa kohë që identi",
+      "title": "Dita e 49-të e protestës, qytetarët nisin grumbullimin në sheshin “Skënderbej” (VIDEO)",
+      "link": "https://24-ore.com/dita-e-49-te-e-protestes-qytetaret-nisin-grumbullimin-ne-sheshin-skenderbej-video/",
+      "description": "Protesta qytetare në Tiranë shënon sot ditën e 49-të të saj. Si çdo ditë, protestuesit janë mbledhur fillimisht në sheshin “Skënderbej”, ku më pas do të vijojnë marshimin e tyre përpara Kryeministrisë, aty ku do të mbajnë edhe fjalimet e tyre kundër politikave aktuale. Me thirrjen “Revolucion”, prot",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T16:43:57+00:00",
-      "dateStr": "18 Jul, 16:43",
+      "date": "2026-07-18T17:45:10+00:00",
+      "dateStr": "18 Jul, 17:45",
       "isNew": true,
-      "id": "24 01784393037"
+      "id": "24 01784396710"
     },
     {
-      "title": "Stërvitja e Spanjës në New Jersey pezullohet për shkak të motit para finales me Argjentinën",
-      "link": "https://24-ore.com/stervitja-e-spanjes-ne-new-jersey-pezullohet-per-shkak-te-motit-para-finales-me-argjentinen/",
-      "description": "East Hanover, New Jersey — Stërvitja e përfaqësueses së Spanjës para finales së Kupës së Botës kundër Argjentinës u pezullua të shtunën për shkak të stuhive dhe rrufeve në zonë. Lojtarët u zhvendosën brenda për seancën e ngrohjes, ndërsa nuk kishte një konfirmim të menjëhershëm nëse do të rikthehesh",
+      "title": "Gruaja vret burrin në bashkëpunim me të dashurin e saj, e inskenuan si pickim gjarpri",
+      "link": "https://24-ore.com/gruaja-vret-burrin-ne-bashkepunim-me-te-dashurin-e-saj-e-inskenuan-si-pickim-gjarpri/",
+      "description": "Vdekja e një burri në Indi mori një kthesë tronditëse kur gruaja e tij, i dashuri i saj u arrestuan. Atul Panwar, 32 vjeç, i cili drejtonte një çerdhe në Hastinapur me gruan e tij, Damini, u gjet i vdekur në shtratin e tij. Sipas policisë, gruaja dhe i dashuri i saj, Tushar, i cili [&#8230;]",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T16:41:49+00:00",
-      "dateStr": "18 Jul, 16:41",
+      "date": "2026-07-18T17:44:02+00:00",
+      "dateStr": "18 Jul, 17:44",
       "isNew": true,
-      "id": "24 11784392909"
+      "id": "24 11784396642"
+    },
+    {
+      "title": "Merino dhe foto e Messit me Yamal: Mendova se ishte produkt i inteligjencës artificiale",
+      "link": "https://24-ore.com/merino-dhe-foto-e-messit-me-yamal-mendova-se-ishte-produkt-i-inteligjences-artificiale/",
+      "description": "Mes atyre që dyshuan për foton e Messit duke u larë me Yamal, e cila është bërë sërish shumë e famshme në prag të finales së Kupës së Botës ku do të përballen dy kampionët, është dhe sulmuesi spanjoll Merino, i cili shprehu gjithashtu habinë e tij. “Sinqerisht, është e pabesueshme, aq shumë sa në [&",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T17:42:52+00:00",
+      "dateStr": "18 Jul, 17:42",
+      "isNew": true,
+      "id": "24 21784396572"
+    },
+    {
+      "title": "Spanja anulon seancën e fundit stërvitore para finales, probleme me motin",
+      "link": "https://24-ore.com/spanja-anulon-seancen-e-fundit-stervitore-para-finales-probleme-me-motin/",
+      "description": "Seanca e fundit stërvitore e Spanjës përpara finales së Kupës së Botës 2026 kundër Argjentinës u anulua për shkak të motit të keq: protokolli i motit, tashmë i njohur mirë, në fuqi në Shtetet e Bashkuara përcakton që në rast rrufeje, çdo aktivitet pezullohet dhe nuk rifillon deri në 30 minuta pas go",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T17:42:36+00:00",
+      "dateStr": "18 Jul, 17:42",
+      "isNew": true,
+      "id": "24 31784396556"
+    },
+    {
+      "title": "Laporte e ndez finalen Spanjë-Argjentinë: Shpresoj të jetë futboll… Po bëjnë gjëra që nuk duhen lejuar",
+      "link": "https://24-ore.com/laporte-e-ndez-finalen-spanje-argjentine-shpresoj-te-jete-futboll-po-bejne-gjera-qe-nuk-duhen-lejuar/",
+      "description": "Në prag të finales së Kupës së Botës midis Spanjës dhe Argjentinës, Aymeric Laporte foli për çështjen e arbitrimit, duke ngritur zërin: “Nuk jam aspak i shqetësuar për agresivitetin në futboll. Nëse tolerohet dhe arbitri bën punën e tij, nuk kam problem me të. Është e vërtetë që në ndeshjet e fundit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T17:42:15+00:00",
+      "dateStr": "18 Jul, 17:42",
+      "isNew": true,
+      "id": "24 41784396535"
+    },
+    {
+      "title": "Messi më mirë se Pelé dhe Maradona, rekord i ri që rishkruan historinë e Kupës së Botës",
+      "link": "https://24-ore.com/messi-me-mire-se-pele-dhe-maradona-rekord-i-ri-qe-rishkruan-historine-e-kupes-se-botes/",
+      "description": "Leo Messi nuk pushon kurrë së mahnituri. Në moshën 39 vjeç, kapiteni i Argjentinës është gati të luajë në një tjetër finale të Kupës së Botës, por ndeshja kundër Spanjës nuk është vetëm një shans për të fituar një titull të dytë botëror radhazi. Në New York-New Jersey Stadium, numri 10 i Albiceleste",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T17:42:03+00:00",
+      "dateStr": "18 Jul, 17:42",
+      "isNew": true,
+      "id": "24 51784396523"
+    },
+    {
+      "title": "Stërvitja e Spanjës anulohet përpara finales së Botërorit pas stuhive në Nju Jork dhe Nju Xhersi",
+      "link": "https://24-ore.com/stervitja-e-spanjes-anulohet-perpara-finales-se-boterorit-pas-stuhive-ne-nju-jork-dhe-nju-xhersi/",
+      "description": "Stërvitja e fundit e Spanjës para finales së Botërorit u anulua të shtunën pasi shirat dhe stuhitë e forta goditën zonën e Nju Jorkut dhe Nju Xhersit. Ekipi i Luis de la Fuente ishte planifikuar të stërvitej në kompleksin Melanie Lane në Nju Xhersi, por seanca u pezullua dhe më pas u anulua plotësis",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T17:41:53+00:00",
+      "dateStr": "18 Jul, 17:41",
+      "isNew": true,
+      "id": "24 61784396513"
+    },
+    {
+      "title": "FBI, hetim ndaj Federatës Argjentinase të Futbollit: katër apartamente të blera me 11 milionë dollarë",
+      "link": "https://24-ore.com/fbi-hetim-ndaj-federates-argjentinase-te-futbollit-kater-apartamente-te-blera-me-11-milione-dollare/",
+      "description": "Zhvillime të reja në hetimin e FBI-së ndaj Claudio “Chiqui” Tapia dhe Federatës Argjentinase të Futbollit. Gjatë hetimit, kanë dalë në dritë katër apartamente të blera nga Javier Faroni dhe gruaja e tij, Erica Gillette, për një total prej 11 milionë dollarësh. Qeveria federale dyshon se këto para, t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T17:41:50+00:00",
+      "dateStr": "18 Jul, 17:41",
+      "isNew": true,
+      "id": "24 71784396510"
+    },
+    {
+      "title": "“Kuvendi i protestës” bëhet arenë përplasjesh/ Leka: Një tragjikomedi. Ripërtëritja e PD? Partia nuk ndryshon me Berishën",
+      "link": "https://abcnews.al/kuvendi-i-protestes-behet-arene-perplasjesh-leka-nje-tragjikomedi-riperteritja-e-pd-partia-nuk-ndryshon-me-berishen/",
+      "description": "Analisti Martin Leka e cilësoi tragjikomedi skenën e dhunshme në të ashtuquajturën kuvendi kombëtar të protestës, ku pati përplasje fizike mes pjesëmarrësve. Në një intervistë për &#8220;Edicioni Qendror&#8221; në ABC News, Leka u shpreh se protesta është drejt fundit të pashmangshëm. &#8220;Ne kemi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T17:37:12+00:00",
+      "dateStr": "18 Jul, 17:37",
+      "isNew": true,
+      "id": "abc01784396232"
+    },
+    {
+      "title": "GJERMANI – Zjarri në një park kombëtar përfshin rreth 400 ha tokë",
+      "link": "https://24-ore.com/gjermani-zjarri-ne-nje-park-kombetar-perfshin-rreth-400-ha-toke/",
+      "description": "HAMBURG, 18 korrik /ATSH-DPA/ – Një zjarr i madh pyjor në Parkun Kombëtar Muritz, në verilindje të Gjermanisë, është përhapur në rreth 400 hektarë, ndërsa rreth 370 zjarrfikës, efektivë policie, punonjës të pyjeve dhe ushtarë janë angazhuar në operacionin për shuarjen e flakëve. Sipas autoriteteve l",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T17:31:42+00:00",
+      "dateStr": "18 Jul, 17:31",
+      "isNew": true,
+      "id": "24 81784395902"
+    },
+    {
+      "title": "Argjentina e favorizuar? Laporte para finales: Po bëjnë gjëra që nuk duhen lejuar",
+      "link": "https://24-ore.com/argjentina-e-favorizuar-laporte-para-finales-po-bejne-gjera-qe-nuk-duhen-lejuar/",
+      "description": "Argjentina ka qenë një nga kombëtaret që ka shkaktuar më shumë polemika në këtë Botëror, për shkak të vendimeve të arbitrave. Lojtarë dhe trajnerë të shumtë kanë dalë kundër, duke ngritur dyshime për favorizim të kampionëve të botës. Në prag të finales së madhe, për këtë ka folur edhe mbrojtësi i Sp",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T17:29:49+00:00",
+      "dateStr": "18 Jul, 17:29",
+      "isNew": true,
+      "id": "24 91784395789"
+    },
+    {
+      "title": "Korçë/ Rrëzohet aksidentalisht në banesë, humb jetën 62-vjeçari",
+      "link": "https://abcnews.al/korce-rrezohet-aksidentalisht-ne-banese-humb-jeten-62-vjecari/",
+      "description": "Një 62-vjeçar ka humbur jetën pas një rrëzimi aksidental në banesën e motrës së tij në Korçë. 62-vjeçari kishte shkuar për vizitë te motra e tij. Dyshohet se ai ka rrëshqitur në ambientet e tualetit, duke pësuar dëmtime të rënda në kokë. Menjëherë pas ngjarjes, familjarët kanë njoftuar shërbimin e u",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T17:23:24+00:00",
+      "dateStr": "18 Jul, 17:23",
+      "isNew": true,
+      "id": "abc11784395404"
+    },
+    {
+      "title": "U fut për t’u larë në det, humb jetën i moshuari në Shkëmbin e Kavajës/ Detajet e para",
+      "link": "https://abcnews.al/u-fut-per-tu-lare-ne-det-humb-jeten-i-moshuari-ne-shkembin-e-kavajes-detajet-e-para/",
+      "description": "Një i moshuar humbi jetën në afërsi të Shkëmbit të Kavajës, pasi u fut për t&#8217;u larë në det. Sipas informacioneve paraprake, mësohet se i moshuari ka pësuar atak kardiak. Ambulanca ka mbërritur në vendin e ngjarjes./abcnews.al [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T17:06:53+00:00",
+      "dateStr": "18 Jul, 17:06",
+      "isNew": true,
+      "id": "abc21784394413"
     },
     {
       "title": "Aleati i lartë i Merz jep dorëheqjen pas kritikave për lindjen e fëmijës nga një nënë zëvendësuese në SHBA",
@@ -34,95 +155,7 @@
       "date": "2026-07-18T16:41:29+00:00",
       "dateStr": "18 Jul, 16:41",
       "isNew": true,
-      "id": "abc01784392889"
-    },
-    {
-      "title": "“Serbia ende drejtohet nga Sllobodan Millosheviqi”",
-      "link": "https://24-ore.com/serbia-ende-drejtohet-nga-sllobodan-millosheviqi/",
-      "description": "Udhëheqësit dhe politikanët evropianë dhe ndërkombëtarë u tmerruan nga deklarata e Snezhana Paunoviqit. Ministrja e Administratës Publike dhe Vetëqeverisjes Lokale tha se, nëse do të kishte qenë në pozicionin e Slobodan Millosheviqit në vitin 1998, do ta kishte pastruar etnikisht Kosovën. Komisioner",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T16:40:08+00:00",
-      "dateStr": "18 Jul, 16:40",
-      "isNew": true,
-      "id": "24 21784392808"
-    },
-    {
-      "title": "​Haliti: PDK nuk duhet ta përjashtojë një marrëveshje me LVV-në",
-      "link": "https://24-ore.com/haliti-pdk-nuk-duhet-ta-perjashtoje-nje-marreveshje-me-lvv-ne/",
-      "description": "Partia Demokratike e Kosovës nuk duhet ta përjashtojë mundësinë e një marrëveshjeje politike me Lëvizjen Vetëvendosje, thotë ish-deputeti i kësaj partie, Xhavit Haliti. Sipas tij, një bashkëpunim i tillë duhet të ndërtohet mbi një marrëveshje për qeverinë dhe jo vetëm për zgjedhjen e presidentit. Në",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T16:30:16+00:00",
-      "dateStr": "18 Jul, 16:30",
-      "isNew": true,
-      "id": "24 31784392216"
-    },
-    {
-      "title": "“Gënjeshtare patologjike”, Zveçla i përgjigjet ministres serbe: S’kam qenë fare në Dukagjin gjatë luftës",
-      "link": "https://24-ore.com/genjeshtare-patologjike-zvecla-i-pergjigjet-ministres-serbe-skam-qene-fare-ne-dukagjin-gjate-luftes/",
-      "description": "Ministri i Brendshëm i Kosovës Xhelal Zveçla e konsideroi ministren serbe Paunoviç një gënjeshtare patologjike, ndërsa hodhi poshtë disa nga akuzat e saj. Në një lidhje Live për emisionin “Ditari i Fundjavës” nga Denisa Pasholli në A2CNN, Zveçla mohoi të ketë qenë në zonën e Dukagjinit gjatë luftës.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T16:30:03+00:00",
-      "dateStr": "18 Jul, 16:30",
-      "isNew": true,
-      "id": "24 41784392203"
-    },
-    {
-      "title": "IRAN – Të paktën 50 të vrarë nga sulmet e fundit amerikane",
-      "link": "https://24-ore.com/iran-te-pakten-50-te-vrare-nga-sulmet-e-fundit-amerikane/",
-      "description": "TEHERAN, 18 korrik /ATSH-DPA/ – Të paktën 50 persona kanë humbur jetën dhe mbi 500 të tjerë janë plagosur si pasojë e valës më të fundit të sulmeve ajrore amerikane në Iran, në kuadër të përshkallëzimit të ri të tensioneve në Gji, bëri të ditur sot qeveria iraniane. Zëdhënësi i Ministrisë së Shëndet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T16:28:52+00:00",
-      "dateStr": "18 Jul, 16:28",
-      "isNew": true,
-      "id": "24 51784392132"
-    },
-    {
-      "title": "Fusha hibride e MetLife do të presë finalen Argjentinë–Spanjë, me vlerësime të përziera",
-      "link": "https://24-ore.com/fusha-hibride-e-metlife-do-te-prese-finalen-argjentine-spanje-me-vleresime-te-perziera/",
-      "description": "Finalja e Botërorit mes Argjentinës dhe Spanjës do të luhet në MetLife Stadium në East Rutherford, New Jersey, në një fushë natyrore me fibra sintetike të qepura — një zgjidhje hibride që ka nxitur debate mes lojtarëve dhe trajnerëve. Asnjë nga skuadrat finale nuk ka luajtur më parë në këtë stadium,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T16:26:54+00:00",
-      "dateStr": "18 Jul, 16:26",
-      "isNew": true,
-      "id": "24 61784392014"
-    },
-    {
-      "title": "Qesh mirë kush qesh i fundit",
-      "link": "https://24-ore.com/qesh-mire-kush-qesh-i-fundit/",
-      "description": "Zonja ministre e Ekonomisë dhe Inovacionit më paska përmendur sot dhe ka shtuar se ka qeshur shumë. Mirë ka bërë. E qeshura është shëndet, sidomos kur pyetjet janë të thjeshta. Më mirë të qeshim se të qajmë. Por aritmetika juaj e nderuar ministre, x + x + x = 3x, nuk i jep përgjigje pyetjes [&#8230;",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T16:23:23+00:00",
-      "dateStr": "18 Jul, 16:23",
-      "isNew": true,
-      "id": "24 71784391803"
-    },
-    {
-      "title": "BDI: Bilall Kasami po manipulon opinionin publik me projektin e rrugës Tetovë–Prizren",
-      "link": "https://24-ore.com/bdi-bilall-kasami-po-manipulon-opinionin-publik-me-projektin-e-rruges-tetove-prizren/",
-      "description": "Bashkimi Demokratik për Integrim ka reaguar ndaj promovimit të punimeve nga kryetari i Komunës së Tetovës, Bilall Kasami, duke e akuzuar atë për manipulim të opinionit publik lidhur me projektin e rrugës Tetovë–Prizren. Sipas BDI-së, lokacioni ku janë promovuar punimet nuk është pjesë e trasesë së r",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T16:21:21+00:00",
-      "dateStr": "18 Jul, 16:21",
-      "isNew": true,
-      "id": "24 81784391681"
-    },
-    {
-      "title": "Shijet autentike dhe recetat tradicionale promovojnë identitetin kulinar të Elbasanit",
-      "link": "https://24-ore.com/shijet-autentike-dhe-recetat-tradicionale-promovojne-identitetin-kulinar-te-elbasanit/",
-      "description": "Tava e Elbasanit mbetet një nga simbolet më të forta të identitetit të qytetit. Në Festën e Tavës, të organizuar në qendër të Elbasanit, qindra qytetarë dhe turistë shijuan gatimin tradicional, ndërsa mbi 30 restorante dhe kuzhinierë prezantuan variantet e tyre të recetës së trashëguar brez pas brez",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T16:15:59+00:00",
-      "dateStr": "18 Jul, 16:15",
-      "isNew": true,
-      "id": "24 91784391359"
+      "id": "abc31784392889"
     },
     {
       "title": "Trump fajëson Kanadanë për tymin nga zjarret, kërcënon me tarifa të reja doganore: Po na helmon ajrin",
@@ -133,7 +166,7 @@
       "date": "2026-07-18T16:15:23+00:00",
       "dateStr": "18 Jul, 16:15",
       "isNew": true,
-      "id": "abc11784391323"
+      "id": "abc41784391323"
     },
     {
       "title": "Më shumë se 100 shtëpi të shkatërruara nga zjarri masiv në Norvegji",
@@ -144,7 +177,7 @@
       "date": "2026-07-18T15:52:29+00:00",
       "dateStr": "18 Jul, 15:52",
       "isNew": true,
-      "id": "abc21784389949"
+      "id": "abc51784389949"
     },
     {
       "title": "Hungaria drejt reformës kushtetuese, Magyar mbështet uljen e moshës së votimit në 16 vjeç",
@@ -155,7 +188,7 @@
       "date": "2026-07-18T15:28:04+00:00",
       "dateStr": "18 Jul, 15:28",
       "isNew": true,
-      "id": "abc31784388484"
+      "id": "abc61784388484"
     },
     {
       "title": "BMW humb kontrollin në unazën e Fierit/ Përplaset me dy makina të parkuara, plagoset drejtuesi",
@@ -166,7 +199,7 @@
       "date": "2026-07-18T15:04:13+00:00",
       "dateStr": "18 Jul, 15:04",
       "isNew": true,
-      "id": "abc41784387053"
+      "id": "abc71784387053"
     },
     {
       "title": "Sarandë/ Gjendet një motor i braktisur buzë detit, dyshohet i autorëve të atentatit ndaj Thimjo Rubatit",
@@ -177,7 +210,7 @@
       "date": "2026-07-18T14:55:09+00:00",
       "dateStr": "18 Jul, 14:55",
       "isNew": true,
-      "id": "abc51784386509"
+      "id": "abc81784386509"
     },
     {
       "title": "Irani tërhiqet nga marrëveshja me SHBA: Jemi të zënë duke mbrojtur vendin",
@@ -188,40 +221,7 @@
       "date": "2026-07-18T14:50:33+00:00",
       "dateStr": "18 Jul, 14:50",
       "isNew": true,
-      "id": "abc61784386233"
-    },
-    {
-      "title": "NewsHour me Fabiola Hoxha, (18/07/2026)",
-      "link": "https://abcnews.al/newshour-me-fabiola-hoxha-18-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-18T14:28:28+00:00",
-      "dateStr": "18 Jul, 14:28",
-      "isNew": true,
-      "id": "abc71784384908"
-    },
-    {
-      "title": "Newsline me Fabiola Hoxha, (18/07/2026)",
-      "link": "https://abcnews.al/newsline-me-fabiola-hoxha-18-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-18T14:26:25+00:00",
-      "dateStr": "18 Jul, 14:26",
-      "isNew": true,
-      "id": "abc81784384785"
-    },
-    {
-      "title": "Oligarkët rusë po nxjerrin kapitalin jashtë vendit, rritet frika për krizë ekonomike",
-      "link": "https://abcnews.al/oligarket-ruse-po-nxjerrin-kapitalin-jashte-vendit-rritet-frika-per-krize-ekonomike/",
-      "description": "Oligarkët rusë të lidhur me Kremlinin kanë nisur të zhvendosin në mënyrë masive kapitalet e tyre jashtë vendit, në një sinjal që sipas analistëve tregon rritjen e pasigurisë për të ardhmen ekonomike të Rusisë. Sipas vlerësimeve të publikuara nga burime të ndryshme, biznesmenët e afërt me pushtetin n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-18T14:18:22+00:00",
-      "dateStr": "18 Jul, 14:18",
-      "isNew": true,
-      "id": "abc91784384302"
+      "id": "abc91784386233"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
