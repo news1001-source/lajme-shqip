@@ -1,8 +1,184 @@
 {
-  "lastUpdated": "2026-07-18T05:19:56.992317+00:00",
+  "lastUpdated": "2026-07-18T07:41:18.413941+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Ndahet nga jeta Nuri Bajrami, gazetari dhe ish-nënkryetari i KSHPK-së",
+      "link": "https://24-ore.com/ndahet-nga-jeta-nuri-bajrami-gazetari-dhe-ish-nenkryetari-i-kshpk-se/",
+      "description": "Në moshën 66-vjeçare ka ndërruar jetë Nuri Bajrami nga Gostivari, një personalitet që la gjurmë në gazetari, administratën publike dhe institucionet e shtetit. Ai ishte ndër bashkëpunëtorët dhe punonjësit e parë në televizionin lokal &#8220;TV2&#8221; në Gostivar, ku për rreth një dekadë shërbeu si ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T07:39:55+00:00",
+      "dateStr": "18 Jul, 07:39",
+      "isNew": true,
+      "id": "24 01784360395"
+    },
+    {
+      "title": "Sulm masiv me dronë në Rusi, 7 të vrarë dhe 24 të plagosur",
+      "link": "https://abcnews.al/sulm-masiv-me-drone-ne-rusi-7-te-vrare-dhe-24-te-plagosur/",
+      "description": "Një sulm me dronë ukrainas ndaj një qendre logjistike në rajonin Tambov, në perëndim të Rusisë, ka shkaktuar 7 viktima dhe 24 të plagosur, njoftuan autoritetet ruse këtë të shtunë, 18 korrik. Guvernatori i Tambovit, Evgeny Pervyshov, tha se dronët goditën një qendër logjistike të kompanisë Wildberri",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T07:34:45+00:00",
+      "dateStr": "18 Jul, 07:34",
+      "isNew": true,
+      "id": "abc01784360085"
+    },
+    {
+      "title": "SHBA – Trump kërcënon me tarifa të reja tregtare kundër Kanadasë për shkak të tymit të zjarreve",
+      "link": "https://24-ore.com/shba-trump-kercenon-me-tarifa-te-reja-tregtare-kunder-kanadase-per-shkak-te-tymit-te-zjarreve/",
+      "description": "&#8211; Presidenti amerikan Donald Trump ka kërcënuar Kanadanë me vendosjen e tarifave të reja tregtare, duke akuzuar Otavën për neglizhencë në menaxhimin e pyjeve, ndërsa qindra zjarre masive kanë mbuluar me tym pjesë të mëdha të veriut të SHBA-së, sipas BBC. “SHBA-ja po pushtohet në mënyrë të pane",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T07:32:44+00:00",
+      "dateStr": "18 Jul, 07:32",
+      "isNew": true,
+      "id": "24 11784359964"
+    },
+    {
+      "title": "Dita e Euros po vjen – lekët jashtë bankave duhen shkëmbyer me euro…",
+      "link": "https://24-ore.com/dita-e-euros-po-vjen-leket-jashte-bankave-duhen-shkembyer-me-euro/",
+      "description": "Nga Eduard Zaloshnja Në projektligjin e ri “Për Bankën e Shqipërisë”, është përfshirë një kapitull ku përcaktohet se, me antarësimin tonë në BE, Euro do të përdoret si para zyrtare e vendit. Më tej, theksohet edhe se Banka e Shqipërisë do t’i përshtatet rregullave të Bankës Qendrore Evropiane. I gji",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T07:29:39+00:00",
+      "dateStr": "18 Jul, 07:29",
+      "isNew": true,
+      "id": "24 21784359779"
+    },
+    {
+      "title": "SHBA – Trump kërcënon Kanadanë me tarifa për shkak të tymit të zjarreve",
+      "link": "https://24-ore.com/shba-trump-kercenon-kanadane-me-tarifa-per-shkak-te-tymit-te-zjarreve/",
+      "description": "&#8211; Presidenti amerikan Donald Trump ka kërcënuar Kanadanë me vendosjen e tarifave të reja tregtare, duke akuzuar Otavën për neglizhencë në menaxhimin e pyjeve, ndërsa qindra zjarre masive kanë mbuluar me tym pjesë të mëdha të veriut të SHBA-së, sipas BBC. “SHBA-ja po pushtohet në mënyrë të pane",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T07:28:54+00:00",
+      "dateStr": "18 Jul, 07:28",
+      "isNew": true,
+      "id": "24 31784359734"
+    },
+    {
+      "title": "​”Ma vranë babanë para syve”, rrëfimi tronditës i 11-vjeçares për Masakrën e Hallaqit të Vogël",
+      "link": "https://24-ore.com/ma-vrane-babane-para-syve-rrefimi-trondites-i-11-vjecares-per-masakren-e-hallaqit-te-vogel/",
+      "description": "Instituti i Krimeve të Kryera gjatë Luftës në Kosovë (IKKL) ditë më parë ka publikuar dëshminë autentike të Nazlije Selim Selimit, e cila ishte vetëm 11 vjeçe kur i mbijetoi Masakrës së Hallaqit të Vogël. 11-vjeçarja në rrëfimin e dhënë pak ditë pasi kishin ndodhur krimet kujton momentet tragjike ku",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T07:15:14+00:00",
+      "dateStr": "18 Jul, 07:15",
+      "isNew": true,
+      "id": "24 41784358914"
+    },
+    {
+      "title": "“Science”: Nivelet e ulëta të testosteronit lidhen me rrezik më të madh për kancer",
+      "link": "https://24-ore.com/science-nivelet-e-uleta-te-testosteronit-lidhen-me-rrezik-me-te-madh-per-kancer/",
+      "description": "&#8211; Testosteroni i ulët mund të jetë një sinjal paralajmërues për rrezik më të lartë të kancerit te burrat, sipas “Science”. Një studim ndërkombëtar sugjeron se nivelet shumë të ulëta të testosteronit te burrat, mund të lidhen me një rrezik më të lartë të diagnostikimit me kancer dhe humbjes së ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T07:03:49+00:00",
+      "dateStr": "18 Jul, 07:03",
+      "isNew": true,
+      "id": "24 51784358229"
+    },
+    {
+      "title": "“Gastroenterology”: Kufizimi i sheqerit për vetëm nëntë ditë ul ndjeshëm yndyrën në mëlçi",
+      "link": "https://24-ore.com/gastroenterology-kufizimi-i-sheqerit-per-vetem-nente-dite-ul-ndjeshem-yndyren-ne-melci/",
+      "description": "Një studim tregon se reduktimi i konsumit të sheqerit për vetëm nëntë ditë mund të ulë ndjeshëm yndyrën në mëlçi dhe të përmirësojë metabolizmin. &#8211; Heqja e sheqerit nga dieta për vetëm nëntë ditë, mund të sjellë përmirësime të shpejta në metabolizmin e mëlçisë. Këtë e tregon një studim i botua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T07:03:33+00:00",
+      "dateStr": "18 Jul, 07:03",
+      "isNew": true,
+      "id": "24 61784358213"
+    },
+    {
+      "title": "Spanjë–Argjentinë: Përballja historike dhe takimet kryesore para finales së Botërorit 2026",
+      "link": "https://24-ore.com/spanje-argjentine-perballja-historike-dhe-takimet-kryesore-para-finales-se-boterorit-2026/",
+      "description": "Spanja dhe Argjentina përplasen në finalen e FIFA Botërorit 2026, e luajtur në zonën New York–New Jersey, me trofeun më të rëndësishëm të futbollit në lojë. Spanja kërkon titullin e dytë botëror pas suksesit të saj në Afrikën e Jugut në 2010, ndërsa Argjentina tenton ta mbajë trofeun që fitoi në Kat",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T07:02:22+00:00",
+      "dateStr": "18 Jul, 07:02",
+      "isNew": true,
+      "id": "24 71784358142"
+    },
+    {
+      "title": "Lëkundje të forta në Turqinë lindore, Malatya goditet nga tërmeti me magnitudë 5 ballë",
+      "link": "https://abcnews.al/lekundje-te-forta-ne-turqine-lindore-malatya-goditet-nga-termeti-me-magnitude-5-balle/",
+      "description": "Një tërmet me magnitudë 5 të shkallës Rihter goditi mëngjesin e kësaj të shtune rrethin Battalgazi në provincën Malatya, në lindje të Turqisë. Sipas Agjencisë Turke për Menaxhimin e Fatkeqësive dhe Emergjencave (AFAD), lëkundjet u regjistruan në orën 06:20 sipas kohës lokale dhe u ndjenë edhe në pro",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T06:56:31+00:00",
+      "dateStr": "18 Jul, 06:56",
+      "isNew": true,
+      "id": "abc11784357791"
+    },
+    {
+      "title": "Protestuan kundër një ceremonie neofashiste, 40 aktivistë në Itali përballen me gjoba të majme",
+      "link": "https://abcnews.al/protestuan-kunder-nje-ceremonie-neofashiste-40-aktiviste-ne-itali-perballen-me-gjoba-te-majme/",
+      "description": "Në qytetin e Lecco-s në Itali, rreth 40 aktivistë antifashistë dhe qytetarë të thjeshtë janë gjobitur me shuma që variojnë nga 3 mijë deri në 10 mijë euro, pasi protestuan kundër një ceremonie përkujtimore të organizuar nga grupe neofashiste. Sipas autoriteteve italiane, protestuesit akuzohen se kan",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T06:39:45+00:00",
+      "dateStr": "18 Jul, 06:39",
+      "isNew": true,
+      "id": "abc21784356785"
+    },
+    {
+      "title": "Integrimi, arsimi dhe shkenca: kapituj të mbyllur, por sfida të hapura",
+      "link": "https://24-ore.com/integrimi-arsimi-dhe-shkenca-kapituj-te-mbyllur-por-sfida-te-hapura/",
+      "description": "Mbyllja e tre kapitujve të negociatave me BE-në—Shkenca dhe Kërkimi, Arsimi dhe Kultura, dhe Marrëdhëniet e Jashtme—është një sihariq i mirë për Shqipërinë. Integrimi europian mbetet projekti më i rëndësishëm kombëtar pas pavarësimit të Kosovës dhe çdo progres në këtë rrugë meriton të përshëndetet. ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T06:26:59+00:00",
+      "dateStr": "18 Jul, 06:26",
+      "isNew": true,
+      "id": "24 81784356019"
+    },
+    {
+      "title": "Plagoset me armë 50-vjeçari në Sarandë, në gjendje të rëndë në spital. Policia jep detajet (EMRI+FOTO)",
+      "link": "https://24-ore.com/plagoset-me-arme-50-vjecari-ne-sarande-ne-gjendje-te-rende-ne-spital-policia-jep-detajet-emrifoto/",
+      "description": "Një plagosje me armë zjarri ështe regjistruar mbrëmjen e së premtes në qytetin e Sarandës. Mësohet se plagosja ka ndodhur rreth otës 21:15 në lagjen nr.4 ku për pasojë ka marrë plagë një person rreth moshës 50 vjeç. Raportohet se i plagosuri është Thimjo Rubati i cili njihet edhe me emrin Sandri. Ng",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T06:25:00+00:00",
+      "dateStr": "18 Jul, 06:25",
+      "isNew": true,
+      "id": "24 91784355900"
+    },
+    {
+      "title": "Si lobimi i fuqishëm bujqësor ndaloi reformën e pesticideve në Europë?!",
+      "link": "https://abcnews.al/si-lobimi-i-fuqishem-bujqesor-ndaloi-reformen-e-pesticideve-ne-europe/",
+      "description": "Dokumente të reja të zbuluara nga brenda një prej organizatave më të fuqishme të lobimit bujqësor në Europë tregojnë se si ajo arriti të vononte, dobësonte dhe përfundimisht të rrëzonte disa nga reformat më të mëdha bujqësore në historinë e Bashkimit Europian, përfshirë planin për përgjysmimin e për",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T06:00:08+00:00",
+      "dateStr": "18 Jul, 06:00",
+      "isNew": true,
+      "id": "abc31784354408"
+    },
+    {
+      "title": "Trump planifikon të financojë me 12 milionë dollarë organizata konservatore në Britani",
+      "link": "https://abcnews.al/trump-planifikon-te-financoje-me-12-milione-dollare-organizata-konservatore-ne-britani/",
+      "description": "Administrata e presidentit amerikan Donald Trump planifikon të akordojë rreth 12 milionë dollarë për organizata konservatore në Mbretërinë e Bashkuar, një veprim që ka ngjallur reagime dhe akuza për ndërhyrje në politikën evropiane. Sipas dokumenteve të qeverisë amerikane, të publikuara nga The Guar",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T05:24:15+00:00",
+      "dateStr": "18 Jul, 05:24",
+      "isNew": true,
+      "id": "abc41784352255"
+    },
+    {
+      "title": "Parashikimi i motit, 18 korrik 2026",
+      "link": "https://abcnews.al/parashikimi-i-motit-18-korrik-2026/",
+      "description": "Sipas MeteoAlb, moti i kthjellët dhe i nxehtë do të mbizotërojë kushtet atmosferike në të gjithë territorin shqiptar gjatë orëve të paradites, ndërsa gjatë pasdites do të shfaqen kalime vranësirash si fillim në zonat Veriore dhe gradualisht do të përfshijnë të gjithë terriorin e vendit. Më të dukshm",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T05:05:04+00:00",
+      "dateStr": "18 Jul, 05:05",
+      "isNew": true,
+      "id": "abc51784351104"
+    },
     {
       "title": "Horoskopi, 18 korrik 2026",
       "link": "https://abcnews.al/horoskopi-18-korrik-2026/",
@@ -12,117 +188,7 @@
       "date": "2026-07-18T05:00:35+00:00",
       "dateStr": "18 Jul, 05:00",
       "isNew": true,
-      "id": "abc01784350835"
-    },
-    {
-      "title": "Nationals fituan 23-4 ndaj Athletics, Chaparro shënoi dy homerë dhe realizoi 8 RBI",
-      "link": "https://24-ore.com/nationals-fituan-23-4-ndaj-athletics-chaparro-shenoi-dy-homere-dhe-realizoi-8-rbi/",
-      "description": "Washington Nationals fituan bindshëm ndaj Oakland Athletics me rezultatin përfundimtar 23-4, një ndeshje ku sulmi i vendasve dominoi që nga pjesa e parë deri në përfundim. Skuadra e Nationals realizoi shumë pika përmes goditjeve të forta dhe disa goditjeve me homer që vendosën diferencën e madhe në ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T04:59:25+00:00",
-      "dateStr": "18 Jul, 04:59",
-      "isNew": true,
-      "id": "24 01784350765"
-    },
-    {
-      "title": "Vizitorët ndërkombëtarë në SHBA për Kupën e Botës zbulojnë më shumë se klishetë",
-      "link": "https://24-ore.com/vizitoret-nderkombetare-ne-shba-per-kupen-e-botes-zbulojne-me-shume-se-klishete/",
-      "description": "Qindra mijëra tifozë nga e gjithë bota erdhën në Shtetet e Bashkuara për të ndjekur ndeshjet e Kupës së Botës dhe, përtej pritshmërive, panë edhe elemente tipike amerikane — ushqim të shpejtë, hapësira tregtare të mëdha si Buc-ee’s dhe një ndjesi të përgjithshme të gjërave “të mëdha”. Megjithatë për",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T04:14:39+00:00",
-      "dateStr": "18 Jul, 04:14",
-      "isNew": true,
-      "id": "24 11784348079"
-    },
-    {
-      "title": "Pse Britania po merr kryeministër të ri pa zgjedhje të përgjithshme",
-      "link": "https://24-ore.com/pse-britania-po-merr-kryeminister-te-ri-pa-zgjedhje-te-pergjithshme/",
-      "description": "Andy Burnham do të bëhet kryeministër i Mbretërisë së Bashkuar të hënën, duke zëvendësuar Keir Starmerin, i cili dha dorëheqjen muajin e kaluar. Deri në njohjen zyrtare të ndryshimit në Pallatin Buckingham, Starmer do të qëndrojë në detyrë si kryeministër kalimtar. Sipas Associated Press, Burnham mo",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T04:11:50+00:00",
-      "dateStr": "18 Jul, 04:11",
-      "isNew": true,
-      "id": "24 21784347910"
-    },
-    {
-      "title": "Tuchel mbron vendimet taktike pas humbjes ndaj Argjentinës në gjysmëfinale",
-      "link": "https://24-ore.com/tuchel-mbron-vendimet-taktike-pas-humbjes-ndaj-argjentines-ne-gjysmefinale/",
-      "description": "Thomas Tuchel, i emëruar trajner i Anglisë në janar 2025 dhe me kontratë deri në Euro 2028, mbrojti vendimet e tij taktike pas humbjes në gjysmëfinalen e Kupës së Botës ndaj Argjentinës. Para ndeshjes për vendin e tretë kundër Francës në Miami, ai pranoi se nëse dikush duhet fajësuar, do ta merrte a",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T03:01:07+00:00",
-      "dateStr": "18 Jul, 03:01",
-      "isNew": true,
-      "id": "24 31784343667"
-    },
-    {
-      "title": "Messi përqendrohet te Argjentina, jo te vetja, para finales së Botërorit",
-      "link": "https://24-ore.com/messi-perqendrohet-te-argjentina-jo-te-vetja-para-finales-se-boterorit/",
-      "description": "Dy ditë para finales së Kupës së Botës, Lionel Messi, 39 vjeç, ishte në Nju Jork për t’u takuar me tifozët dhe për të marrë pjesë në ngjarje promovuese në Javits Center. Ai u shfaq i rezervuar ndaj vëmendjes së madhe, duke përshëndetur shpeshherë me modesti ndërsa mijëra adhurues mbushnin sallën dhe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T02:31:49+00:00",
-      "dateStr": "18 Jul, 02:31",
-      "isNew": true,
-      "id": "24 41784341909"
-    },
-    {
-      "title": "Trump sfidon vendimin për rolin mbrojtës të Harry Kane pas humbjes së Anglisë",
-      "link": "https://24-ore.com/trump-sfidon-vendimin-per-rolin-mbrojtes-te-harry-kane-pas-humbjes-se-anglise/",
-      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump, kritikoi taktikat e Anglisë pas humbjes 2-1 ndaj Argjentinës në gjysmëfinalet e Kupës së Botës 2026, duke vënë në diskutim vendosjen e Harry Kane në një rol më të pasiv mbrojtës në pjesën e dytë. Anglia kaloi në avantazh me Anthony Gordon, por dy gol",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T02:27:45+00:00",
-      "dateStr": "18 Jul, 02:27",
-      "isNew": true,
-      "id": "24 51784341665"
-    },
-    {
-      "title": "Messi: Presioni para finales së Botërorit, ‘është diçka natyrale’",
-      "link": "https://24-ore.com/messi-presioni-para-finales-se-boterorit-eshte-dicka-natyrale/",
-      "description": "Para finales së Botërorit 2026 kundër Spanjës, Lionel Messi mori pjesë në Fanatics Fest në Qendrën Javits të Nju Jorkut, një ngjarje që shërbeu si pararendëse për ndeshjen finale në stadiumin MetLife në New Jersey. Në atë periudhë, Argjentina synon të bëhet skuadra e parë që mbron titullin që nga Br",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T02:26:52+00:00",
-      "dateStr": "18 Jul, 02:26",
-      "isNew": true,
-      "id": "24 61784341612"
-    },
-    {
-      "title": "Franca–Anglia tregon se pse sportet kanë nevojë për ndeshje për vendin e tretë",
-      "link": "https://24-ore.com/franca-anglia-tregon-se-pse-sportet-kane-nevoje-per-ndeshje-per-vendin-e-trete/",
-      "description": "Kupa e Botës po përfundon dhe pas eliminueseve të mëdha mbeten vetëm finalja dhe ndeshja për vendin e tretë. Megjithë kritikët që i quajnë këto takime të panevojshme ose si një lëvizje për të fituar para, ekzistojnë arsye bindëse për t’i ruajtur: janë një mundësi shtesë për t’u parë sport elitar dhe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T01:27:35+00:00",
-      "dateStr": "18 Jul, 01:27",
-      "isNew": true,
-      "id": "24 71784338055"
-    },
-    {
-      "title": "Laporte: Argjentina përdor forcën dhe lë shenjë te kundërshtarët, shqetësim para finales së Botërorit",
-      "link": "https://24-ore.com/laporte-argjentina-perdor-forcen-dhe-le-shenje-te-kundershtaret-shqetesim-para-finales-se-boterorit/",
-      "description": "Mbrojtësi spanjoll Aymeric Laporte shprehu shqetësim për stilin fizik të Argjentinës përpara finales së Botërorit ndaj Spanjës, që zhvillohet të dielën në stadiumin New York/New Jersey (20:00 BST). Ai paralajmëroi se nëse disa lojtarë lejohen të veprojnë jashtë normave, ndeshja mund të degradojë në ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T00:43:12+00:00",
-      "dateStr": "18 Jul, 00:43",
-      "isNew": true,
-      "id": "24 81784335392"
-    },
-    {
-      "title": "Messi: Do të japim gjithçka para finales së Botërorit",
-      "link": "https://24-ore.com/messi-do-te-japim-gjithcka-para-finales-se-boterorit/",
-      "description": "Lionel Messi u shfaq të premten në Fanatics Fest në New York para finales së Kupës së Botës, ngjarje ku ndodhën edhe takime me emra të mëdhenj të sportit si Tom Brady, Novak Djokovic dhe Kevin Durant. Në një skenë të mbushur me tifozë dhe figura publike, fituesi i shumë trofeve mori rreth vetes vëme",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T00:42:11+00:00",
-      "dateStr": "18 Jul, 00:42",
-      "isNew": true,
-      "id": "24 91784335331"
+      "id": "abc61784350835"
     },
     {
       "title": "Trump gati të përshkallëzojë sulmet/ SHBA dërgon dhjetëra avionë në Izrael, shtohen tensionet me Iranin",
@@ -133,7 +199,7 @@
       "date": "2026-07-17T21:45:18+00:00",
       "dateStr": "17 Jul, 21:45",
       "isNew": true,
-      "id": "abc11784324718"
+      "id": "abc71784324718"
     },
     {
       "title": "“Duan të rrëzojnë rendin kushtetues”/ Protesta, Beqiri: Duhet të hetohet! Shkon deri në burgim të përjetshëm",
@@ -144,7 +210,7 @@
       "date": "2026-07-17T21:38:52+00:00",
       "dateStr": "17 Jul, 21:38",
       "isNew": true,
-      "id": "abc21784324332"
+      "id": "abc81784324332"
     },
     {
       "title": "Atentat në Sarandë/ Rubati dërgohet për mjekim të specializuar në Janinë",
@@ -155,73 +221,7 @@
       "date": "2026-07-17T21:23:22+00:00",
       "dateStr": "17 Jul, 21:23",
       "isNew": true,
-      "id": "abc31784323402"
-    },
-    {
-      "title": "E rëndë në Korçë/ Plagos me thikë 18-vjeçarin, arrestohet njerku",
-      "link": "https://abcnews.al/e-rende-ne-korce-plagos-me-thike-18-vjecarin-arrestohet-njerku/",
-      "description": "Një 18-vjeçar ka mbetur i plagosur me thikë pas një konflikti të ndodhur në lagjen nr. 8 të qytetit të Korçës. Sipas të dhënave paraprake, i riu është paraqitur në Urgjencën e Spitalit Rajonal të Korçës me dëmtime në kokë dhe po merr ndihmë mjekësore në repartin e reanimacionit. Nga hetimet e para d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T21:02:15+00:00",
-      "dateStr": "17 Jul, 21:02",
-      "isNew": true,
-      "id": "abc41784322135"
-    },
-    {
-      "title": "Atentat në Sarandë, plagoset Thimjo Rubati/ Policia në kërkim të atentatorëve, priten kërkime nga deti",
-      "link": "https://abcnews.al/atentat-ne-sarande-plagoset-thimjo-rubati-policia-ne-kerkim-te-atentatoreve-priten-kerkime-nga-deti/",
-      "description": "Policia e Sarandës është vënë në kërkim të autorëve të atentatit ndaj Thimjo Rubatit, 50 vjeç, i cili mbeti i plagosur rëndë mbrëmjen e së premtes në lagjen nr. 4 të qytetit. Sipas të dhënave paraprake, pasi kanë qëlluar ndaj Rubatit, autorët kanë lëvizur me motor nga rruga “Mitat Hoxha” në drejtim ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T21:00:37+00:00",
-      "dateStr": "17 Jul, 21:00",
-      "isNew": true,
-      "id": "abc51784322037"
-    },
-    {
-      "title": "Macron kundër sondazheve që nxjerrin fituese Le Pen në 2027: Mos parashikoni më të keqen për francezët",
-      "link": "https://abcnews.al/macron-kunder-sondazheve-qe-nxjerrin-fituese-le-pen-ne-2027-mos-parashikoni-me-te-keqen-per-francezet/",
-      "description": "Presidenti francez Emmanuel Macron u ka bërë thirrje qytetarëve të Francës që të mos u besojnë parashikimeve të sondazheve që nxjerrin Marine Le Pen si favorite për zgjedhjet presidenciale të vitit 2027. Gjatë vizitës së tij në Gjermani, Macron deklaroi se sondazhet nuk duhet të konsiderohen si rezu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T20:44:16+00:00",
-      "dateStr": "17 Jul, 20:44",
-      "isNew": true,
-      "id": "abc61784321056"
-    },
-    {
-      "title": "“Messia do të “kapë” qiellin/ Tahiri: Messi vrapon atëherë kur duhet, talenti shoqërohet me punë",
-      "link": "https://abcnews.al/messia-do-te-kape-qiellin-tahiri-messi-vrapon-atehere-kur-duhet-talenti-shoqerohet-me-pune/",
-      "description": "Mendimi se mbrëmja e së dielës do të shënojë “vallëzimin e fundit” të Lionel Messit ngjall tashmë një ndjesi melankolie. Kanë kaluar pothuajse 21 vjet që nga 17 gushti i vitit 2005, dita kur “Pleshti” bëri debutimin e tij me Argjentinën, duke nisur një histori dashurie plot triumfe, por edhe të shën",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T20:37:22+00:00",
-      "dateStr": "17 Jul, 20:37",
-      "isNew": true,
-      "id": "abc71784320642"
-    },
-    {
-      "title": "Berlini bashkohet me stërvitjet bërthamore të Parisit",
-      "link": "https://abcnews.al/berlini-bashkohet-me-stervitjet-berthamore-te-parisit/",
-      "description": "Gjermania dhe Franca kanë dhënë një sinjal të fortë për thellimin e bashkëpunimit në fushën e mbrojtjes dhe sigurisë, pas takimit të përbashkët të Këshillit të Mbrojtjes dhe Sigurisë, të zhvilluar në Këln. Kancelari gjerman Friedrich Merz bëri të ditur se Gjermania do të marrë pjesë për herë të parë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T20:25:45+00:00",
-      "dateStr": "17 Jul, 20:25",
-      "isNew": true,
-      "id": "abc81784319945"
-    },
-    {
-      "title": "Trump akuzon Kanadanë si përgjegjëse për zjarret që po ndotin qytetet amerikane",
-      "link": "https://abcnews.al/trump-akuzon-kanadane-si-pergjegjese-per-zjarret-qe-po-ndotin-qytetet-amerikane/",
-      "description": "Presidenti amerikan, Donald Trump akuzoi Kanadanë si përgjegjëse për zjarret që po ndotin qytetet amerikane. “Ne e mbajmë Kanadanë përgjegjëse për dështimin për të mirëmbajtur pyjet e saj dhe bimësinë përkatëse”, shkroi Trump në Truth Social. ”Kjo po shkakton një pushtim të pajustifikuar të Shteteve",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-17T20:13:10+00:00",
-      "dateStr": "17 Jul, 20:13",
-      "isNew": true,
-      "id": "abc91784319190"
+      "id": "abc91784323402"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
