@@ -1,106 +1,183 @@
 {
-  "lastUpdated": "2026-07-18T14:47:08.710325+00:00",
+  "lastUpdated": "2026-07-18T15:51:36.660533+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Jens Spahn dorëhiqet pas polemikës për fëmijën e lindur me nënë surogatë",
-      "link": "https://24-ore.com/jens-spahn-dorehiqet-pas-polemikes-per-femijen-e-lindur-me-nene-surogate/",
-      "description": "Jens Spahn, politikani qendror i djathtë gjerman, dha dorëheqjen si kreu i grupit parlamentar të koalicionit qeverisës pas kritikave lidhur me përdorimin e një nëne surogatë në SHBA për të sjellë në jetë fëmijën e tij. 46-vjeçari bëri të ditur se ai dhe bashkëshorti i tij u bënë prindër këtë javë dh",
+      "title": "Kufizohet qarkullimi i kamionëve të rëndë edhe nesër",
+      "link": "https://24-ore.com/kufizohet-qarkullimi-i-kamioneve-te-rende-edhe-neser/",
+      "description": "Ministria e Infrastrukturës dhe Transportit ka njoftuar se edhe nesër do të ketë kufizime të përkohshme në qarkullimin e automjeteve për transportin e mallrave me masë totale mbi 20 tonë në autoudhët e Kosovës. Sipas njoftimit, vendimi është marrë bazuar në parashikimin zyrtar të temperaturave, të c",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T14:43:22+00:00",
-      "dateStr": "18 Jul, 14:43",
+      "date": "2026-07-18T15:50:11+00:00",
+      "dateStr": "18 Jul, 15:50",
       "isNew": true,
-      "id": "24 01784385802"
+      "id": "24 01784389811"
     },
     {
-      "title": "Skandali në Postën Shqiptare, dëshmia e arkëtares: Mataj merrte thesin me para dhe largohej me çantën e saj!",
-      "link": "https://24-ore.com/skandali-ne-posten-shqiptare-deshmia-e-arketares-mataj-merrte-thesin-me-para-dhe-largohej-me-canten-e-saj/",
-      "description": "Report Tv ka zbardhur dëshmitë e disa punonjëseve të Postës Shqiptare, pas skandalit për të cilin Gjykata e Durrësit la sot në burg Elisabeta Matajn, ish-drejtoreshë e filialit të Postës Shqiptare në Durrës dhe caktoi masat e sigurisë ‘arrest shtëpie’ për shefen e financës Valbona Doni dhe arkëtaren",
+      "title": "Aksident në Unazën e Fierit/ BMW del nga rruga dhe përplaset me dy makina të parkuara, plagoset drejtuesi",
+      "link": "https://24-ore.com/aksident-ne-unazen-e-fierit-bmw-del-nga-rruga-dhe-perplaset-me-dy-makina-te-parkuara-plagoset-drejtuesi/",
+      "description": "Një aksident ka ndodhur pasditen e sotme në Unazën e qytetit të Fierit. Sipas informacioneve të para, një automjet i markës BMË ka humbur kontrollin e drejtimit, duke dalë nga rruga dhe duke u përplasur me dy automjete të parkuara në anë të rrugës. Forca e goditjes ka qenë e konsiderueshme. Si pasoj",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T14:40:55+00:00",
-      "dateStr": "18 Jul, 14:40",
+      "date": "2026-07-18T15:45:15+00:00",
+      "dateStr": "18 Jul, 15:45",
       "isNew": true,
-      "id": "24 11784385655"
+      "id": "24 11784389515"
     },
     {
-      "title": "Sulejmani: Heshtja e BDI-së për kanalizimin Zajaz–Drugovë, forcon dyshimet për keqpërdorime",
-      "link": "https://24-ore.com/sulejmani-heshtja-e-bdi-se-per-kanalizimin-zajaz-drugove-forcon-dyshimet-per-keqperdorime/",
-      "description": "Zëvendësministri i Arsimit dhe Shkencës, Driton Sulejmani nga VLEN, akuzoi BDI-në për heshtjen lidhur me mosrealizimin e projektit të kanalizimit në Zajas me mbi 9 milionë euro të financuar nga Bashkimi Europian. Ai tha se, ndonëse fondet janë ndarë dhe afatet kanë përfunduar, banorët vazhdojnë të j",
+      "title": "BOTËRORI 2026 – FIFA fshin mbi shtatë milionë postime fyese gjatë Kupës së Botës",
+      "link": "https://24-ore.com/boterori-2026-fifa-fshin-mbi-shtate-milione-postime-fyese-gjate-kupes-se-botes/",
+      "description": "NJU JORK, 18 korrik /ATSH-DPA/ – FIFA ka bërë të ditur se ka fshirë më shumë se shtatë milionë postime dhe komente potencialisht abuzive në rrjetet sociale gjatë Kupës së Botës, e cila përfundon nesër me finalen mes Spanjës dhe Argjentinës. Sipas organizmit drejtues të futbollit botëror, ky numër ës",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T14:40:19+00:00",
-      "dateStr": "18 Jul, 14:40",
+      "date": "2026-07-18T15:43:53+00:00",
+      "dateStr": "18 Jul, 15:43",
       "isNew": true,
-      "id": "24 21784385619"
+      "id": "24 21784389433"
     },
     {
-      "title": "Pse djemtë po i braktisin universitetet në Kosovë? Alarmi për tregun e punës",
-      "link": "https://24-ore.com/pse-djemte-po-i-braktisin-universitetet-ne-kosove-alarmi-per-tregun-e-punes/",
-      "description": "Përputhja e programeve universitare me nevojat e tregut të punës mbetet një ndër sfidat kryesore të arsimit të lartë në Kosovë. Në podkastin 5 Pyetje të Radios Evropa e Lirë, ish-zëvendësministri i Arsimit dhe eksperti i fushës, Dukagjin Pupovci, thotë se në Kosovë mungojnë analiza të mirëfillta për",
+      "title": "Antifesta e flakjes së kapeleve",
+      "link": "https://24-ore.com/antifesta-e-flakjes-se-kapeleve/",
+      "description": "Nga Preç Zogaj Hedhja e kapeleve është një rit i studentëve në gjithë botën. Ata festojnë ashtu  përfundimin e studimeve të larta. Në kopshtin e tyre të kujtimeve ajo mbetet një nga ngjarjet më të bukura. Sepse shënon “fluturimin” në jetën e re si profesionistë të diplomuar. Në protestën e pardjeshm",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T14:40:05+00:00",
-      "dateStr": "18 Jul, 14:40",
+      "date": "2026-07-18T15:33:22+00:00",
+      "dateStr": "18 Jul, 15:33",
       "isNew": true,
-      "id": "24 31784385605"
+      "id": "24 31784388802"
     },
     {
-      "title": "Pochettino pritet të marrë vendim për të ardhmen te kombëtarja e SHBA-së javën e ardhshme",
-      "link": "https://24-ore.com/pochettino-pritet-te-marre-vendim-per-te-ardhmen-te-kombetarja-e-shba-se-javen-e-ardhshme/",
-      "description": "Mauricio Pochettino deklaroi se do të vendosë për të ardhmen e tij me përfaqësuesen e Shteteve të Bashkuara javën e ardhshme, pasi ka qenë duke negociuar një zgjatje kontrate që do ta mbajë trajnerin në post deri te Botërori i 2030-s. Para nisjes së Kupës së Botës 2026 i është ofruar një marrëveshje",
+      "title": "Josh Kerr thyen rekordin botëror në mile me 3:42.66 në Londër",
+      "link": "https://24-ore.com/josh-kerr-thyen-rekordin-boteror-ne-mile-me-342-66-ne-londer/",
+      "description": "Josh Kerr vendosi rekord të ri botëror në distancën e mile, duke vrapuar 3:42.66 gjatë takimit Diamond League në Londër të shtunën. Koha e tij e re e kalon rekordin e mëparshëm të Hicham El Guerrouj, 3:43.13, i vendosur në 1999. Sipas sports.yahoo, 28-vjeçari, i specializuar në 1500 m, ka një karrie",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T14:32:03+00:00",
-      "dateStr": "18 Jul, 14:32",
+      "date": "2026-07-18T15:31:58+00:00",
+      "dateStr": "18 Jul, 15:31",
       "isNew": true,
-      "id": "24 41784385123"
+      "id": "24 41784388718"
     },
     {
-      "title": "Gjimnastikë/ Perfeksioni ekziston, 50 vite nga “10”-ta e Nadia Comaneci",
-      "link": "https://24-ore.com/gjimnastike-perfeksioni-ekziston-50-vite-nga-10-ta-e-nadia-comaneci/",
-      "description": "“Ishte mirë, por jo perfekte”, tha gjimnastja sovjetike Larissa Latynina, olimpianja më e dekoruar në histori, më 18 korrik 1976, pak minuta pasi kishte qenë dëshmitare e tërmetit më të madh që kishin parë ndonjëherë Lojërat Olimpike. Nadia Comaneci ishte vetëm 14 vjeç, në Montreal, kur bëri histori",
+      "title": "Atentati ndaj Thimjo Rubatit/ Policia gjen motorin e braktisur të autorëve buzë detit, dyshime për arratisje me mjet lundrue",
+      "link": "https://24-ore.com/atentati-ndaj-thimjo-rubatit-policia-gjen-motorin-e-braktisur-te-autoreve-buze-detit-dyshime-per-arratisje-me-mjet-lundrue/",
+      "description": "Policia e Sarandës pas kontrolleve në lagjen “Baba Rexhepi”, zonë kjo ku u drejtuan autorët pas atentatit ndaj 50-vjeçarit Thimjo Rubati, kanë gjetur një motor të braktisur. Motori u gjet buzë detit, në një prej gjireve detare të zonës, pikërisht në zonën e quajtur “Kasollja”. Policia dyshon se moto",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T14:30:10+00:00",
-      "dateStr": "18 Jul, 14:30",
+      "date": "2026-07-18T15:30:25+00:00",
+      "dateStr": "18 Jul, 15:30",
       "isNew": true,
-      "id": "24 51784385010"
+      "id": "24 51784388625"
     },
     {
-      "title": "“Jam mysliman” i Ben Blushit – një roman mes provokimit të madh dhe debatit mbi identitetin",
-      "link": "https://24-ore.com/jam-mysliman-i-ben-blushit-nje-roman-mes-provokimit-te-madh-dhe-debatit-mbi-identitetin/",
-      "description": "Nga Agron Gjekmarkaj Romani “Jam Musliman” i shkrimtarit Ben Blushi, botuar nga “Onufri” përfaqëson një nga veprat me të debatueshme te letersisë bashkëkohore shqiptare! Ai nuk synon vetëm të rrefejë një histori, por të ngrejë pyetje mbi mardhënien mes individit, fesë, identiteti dhe lirisë! Ai e pë",
+      "title": "Klekovski: Qytetarët e Gostivarit të bashkëpunojnë me autoritetet shëndetësore për anketat epidemiologjike",
+      "link": "https://24-ore.com/klekovski-qytetaret-e-gostivarit-te-bashkepunojne-me-autoritetet-shendetesore-per-anketat-epidemiologjike/",
+      "description": "Ministri i Shëndetësisë, Sasho Klekovski tha se nuk do të shpallet gjendje epidemike në Gostivar derisa të zbardhet shkaku i rasteve me probleme gastrointestinale tek qytetarët. Ai tha se autoritetet shëndetësore kanë nevojë për më shumë të dhëna nga anketat epidemiologjike për të identifikuar burim",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T14:29:13+00:00",
-      "dateStr": "18 Jul, 14:29",
+      "date": "2026-07-18T15:30:19+00:00",
+      "dateStr": "18 Jul, 15:30",
       "isNew": true,
-      "id": "24 61784384953"
+      "id": "24 61784388619"
     },
     {
-      "title": "TURQI – 119 të arrestuar me dyshimin për lidhje me Shtetin Islamik",
-      "link": "https://24-ore.com/turqi-119-te-arrestuar-me-dyshimin-per-lidhje-me-shtetin-islamik/",
-      "description": "STAMBOLL, 18 korrik /ATSH-AFP/ –  Autoritetet turke kanë arrestuar 119 persona të dyshuar për lidhje me grupin militant Shteti Islamik (IS), gjatë një operacioni të zhvilluar në 30 provinca të vendit, njoftoi Ministria e Brendshme e Turqisë. Sipas ministrisë, operacioni u zhvillua nga xhandarmëria n",
+      "title": "Messi për fotot virale ku lahet i vogli Lamine Yamal: “Çfarë fotografie e çmendur”",
+      "link": "https://24-ore.com/messi-per-fotot-virale-ku-lahet-i-vogli-lamine-yamal-cfare-fotografie-e-cmendur/",
+      "description": "Fotografi të vjetra nga një fotosesion bamirësie në 2007, që tregojnë Lionel Messin 20-vjeçar duke larë një Lamine Yamal pesëmuajsh, rifituan vëmendjen këtë javë, teksa Argjentina dhe Spanja përballen në finalen e Kupës së Botës në MetLife Stadium. Imazhet janë reale dhe janë rikthyer në qendër të d",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T14:28:34+00:00",
+      "date": "2026-07-18T15:28:17+00:00",
+      "dateStr": "18 Jul, 15:28",
+      "isNew": true,
+      "id": "24 71784388497"
+    },
+    {
+      "title": "Hungaria drejt reformës kushtetuese, Magyar mbështet uljen e moshës së votimit në 16 vjeç",
+      "link": "https://abcnews.al/hungaria-drejt-reformes-kushtetuese-magyar-mbeshtet-uljen-e-moshes-se-votimit-ne-16-vjec/",
+      "description": "Kryeministri hungarez Peter Magyar shprehu të shtunën mbështetje për uljen e moshës së votimit nga 18 në 16 vjeç, si pjesë e procesit të vazhdueshëm të reformës kushtetuese të vendit. Magyar tha se do të mbështeste uljen e moshës së votimit gjatë hartimit të një kushtetute të re, duke argumentuar se",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T15:28:04+00:00",
+      "dateStr": "18 Jul, 15:28",
+      "isNew": true,
+      "id": "abc01784388484"
+    },
+    {
+      "title": "Hungaria drejt reformës kushtetuese, Magyar mbështet uljen e moshës së votimit në 16 vjeç",
+      "link": "https://24-ore.com/hungaria-drejt-reformes-kushtetuese-magyar-mbeshtet-uljen-e-moshes-se-votimit-ne-16-vjec/",
+      "description": "Kryeministri hungarez Peter Magyar shprehu të shtunën mbështetje për uljen e moshës së votimit nga 18 në 16 vjeç, si pjesë e procesit të vazhdueshëm të reformës kushtetuese të vendit. Magyar tha se do të mbështeste uljen e moshës së votimit gjatë hartimit të një kushtetute të re, duke argumentuar se",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T15:21:03+00:00",
+      "dateStr": "18 Jul, 15:21",
+      "isNew": true,
+      "id": "24 81784388063"
+    },
+    {
+      "title": "Aleati i lartë i Merz jep dorëheqjen pas kritikave për lindjen e fëmijës nga një nënë zëvendësuese në SHBA",
+      "link": "https://24-ore.com/aleati-i-larte-i-merz-jep-doreheqjen-pas-kritikave-per-lindjen-e-femijes-nga-nje-nene-zevendesuese-ne-shba/",
+      "description": "Jens Spahn, një anëtar i lartë i konservatorëve në pushtet në Gjermani, dha dorëheqjen të shtunën pasi lindi një fëmijë nga një nënë zëvendësuese në Shtetet e Bashkuara, një veprim në kundërshtim me kundërshtimin e partisë së tij ndaj zëvendësimit, sipas një letre të shkruar nga Spahn. Spahn, 46 vje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T15:20:49+00:00",
+      "dateStr": "18 Jul, 15:20",
+      "isNew": true,
+      "id": "24 91784388049"
+    },
+    {
+      "title": "BMW humb kontrollin në unazën e Fierit/ Përplaset me dy makina të parkuara, plagoset drejtuesi",
+      "link": "https://abcnews.al/bmw-humb-kontrollin-ne-unazen-e-fierit-perplaset-me-dy-makina-te-parkuara-plagoset-drejtuesi/",
+      "description": "Një aksident rrugor ka ndodhur pasditen e sotme në unazën e qytetit të Fierit, një automjet tip BMW ka humbur kontrollin dhe është përplasur me dy automjete të parkuara në anë të rrugës. Si pasojë e përplasjes së fortë, ka mbetur i plagosur drejtuesi i BMW-së, i cili është transportuar në Spitalin R",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T15:04:13+00:00",
+      "dateStr": "18 Jul, 15:04",
+      "isNew": true,
+      "id": "abc11784387053"
+    },
+    {
+      "title": "Sarandë/ Gjendet një motor i braktisur buzë detit, dyshohet i autorëve të atentatit ndaj Thimjo Rubatit",
+      "link": "https://abcnews.al/sarande-gjendet-nje-motor-i-braktisur-buze-detit-dyshohet-i-autoreve-te-atentatit-ndaj-thimjo-rubatit/",
+      "description": "Policia e Sarandës, pas kontrolleve në lagjen “Baba Rexhepi”, zonë ku dyshohet se u drejtuan autorët pas atentatit ndaj 50-vjeçarit Thimjo Rubati, ka gjetur një motor të braktisur. Motori u gjet buzë detit, në një prej gjireve të zonës, në vendin e njohur si “Kasollja”. Policia dyshon se ai u përket",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T14:55:09+00:00",
+      "dateStr": "18 Jul, 14:55",
+      "isNew": true,
+      "id": "abc21784386509"
+    },
+    {
+      "title": "Irani tërhiqet nga marrëveshja me SHBA: Jemi të zënë duke mbrojtur vendin",
+      "link": "https://abcnews.al/irani-terhiqet-nga-marreveshja-me-shba-jemi-te-zene-duke-mbrojtur-vendin/",
+      "description": "Irani ka pezulluar angazhimet e tij ndaj Memorandumit të Mirëkuptimit (MM) të rënë dakord midis Teheranit dhe Uashingtonit muajin e kaluar, ka njoftuar një zyrtar i Ministrisë së Jashtme. Kazem Gharibabadi, zëvendësministri i jashtëm, në komentet e raportuara nga agjencia e lajmeve Fars e Iranit, ak",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T14:50:33+00:00",
+      "dateStr": "18 Jul, 14:50",
+      "isNew": true,
+      "id": "abc31784386233"
+    },
+    {
+      "title": "NewsHour me Fabiola Hoxha, (18/07/2026)",
+      "link": "https://abcnews.al/newshour-me-fabiola-hoxha-18-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-18T14:28:28+00:00",
       "dateStr": "18 Jul, 14:28",
       "isNew": true,
-      "id": "24 71784384914"
+      "id": "abc41784384908"
     },
     {
-      "title": "Videoja bëhet virale! Trump ndërpret Infantinon me batutë: Derisa skuadra e tij humbet!",
-      "link": "https://24-ore.com/videoja-behet-virale-trump-nderpret-infantinon-me-batute-derisa-skuadra-e-tij-humbet/",
-      "description": "Një video nga takimi zyrtar në ‘Kullën Trump’ mes presidentit të SHBA-së Donald Trump dhe kreut të FIFA-s, Gianni Infantino, po përhapet me shpejtësi në rrjetet sociale. Ajo që duhej të ishte një moment propagande dhe buzëqeshjesh përpara trofeut të Kupës së Botës 2026, është shndërruar në një skenë",
-      "source": "24 ORE",
+      "title": "Newsline me Fabiola Hoxha, (18/07/2026)",
+      "link": "https://abcnews.al/newsline-me-fabiola-hoxha-18-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-07-18T14:26:20+00:00",
+      "date": "2026-07-18T14:26:25+00:00",
       "dateStr": "18 Jul, 14:26",
       "isNew": true,
-      "id": "24 81784384780"
+      "id": "abc51784384785"
     },
     {
       "title": "Oligarkët rusë po nxjerrin kapitalin jashtë vendit, rritet frika për krizë ekonomike",
@@ -111,18 +188,7 @@
       "date": "2026-07-18T14:18:22+00:00",
       "dateStr": "18 Jul, 14:18",
       "isNew": true,
-      "id": "abc01784384302"
-    },
-    {
-      "title": "Abuzuan me fondet e Postës në Durrës, Gjykata cakton masat e sigurisë për tre punonjëset",
-      "link": "https://24-ore.com/abuzuan-me-fondet-e-postes-ne-durres-gjykata-cakton-masat-e-sigurise-per-tre-punonjeset/",
-      "description": "Gjykata e Shkallës së Parë të Juridiksionit të Përgjithshëm Durrës ka caktuar masat e sigurisë për tre punonjëset e Postës Shqiptare, të cilat akuzohen për parregullsi dhe abuzime financiare. Sipas vendimit të dhënë këtë të shtunë, gjykata ka vendosur masën “Arrest në burg” për drejtoreshën e filial",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T14:16:33+00:00",
-      "dateStr": "18 Jul, 14:16",
-      "isNew": true,
-      "id": "24 91784384193"
+      "id": "abc61784384302"
     },
     {
       "title": "Dronët mbrojnë misrin/ Për herë të parë në Shqipëri, spërkatje nga ajri për kulturat bujqësore",
@@ -133,7 +199,7 @@
       "date": "2026-07-18T13:59:25+00:00",
       "dateStr": "18 Jul, 13:59",
       "isNew": true,
-      "id": "abc11784383165"
+      "id": "abc71784383165"
     },
     {
       "title": "Sulmi amerikan lë pa ujë 10 mijë iranianë, goditet impianti jetik në Hormozgan",
@@ -144,7 +210,7 @@
       "date": "2026-07-18T13:53:15+00:00",
       "dateStr": "18 Jul, 13:53",
       "isNew": true,
-      "id": "abc21784382795"
+      "id": "abc81784382795"
     },
     {
       "title": "Ndotja akustike, shtohen kontrollet/ Lamallari: Zhurma nuk është argëtim, qytetarët të denoncojnë rastet",
@@ -155,73 +221,7 @@
       "date": "2026-07-18T13:34:46+00:00",
       "dateStr": "18 Jul, 13:34",
       "isNew": true,
-      "id": "abc31784381686"
-    },
-    {
-      "title": "“Pastrimi” i policisë nga krimi / AMP publikon raportin e 6-mujorit: 24 efektivë të përjashtuar",
-      "link": "https://abcnews.al/pastrimi-i-policise-nga-krimi-amp-publikon-raportin-e-6-mujorit-24-efektive-te-perjashtuar/",
-      "description": "Lufta ndaj policëve që shkelin ligjin ka sjellë rezultate edhe gjatë gjysmës së parë të vitit 2026. Agjencia e Mbikëqyrjes Policore (AMP) ka publikuar bilancin e saj 6-mujor, ku rezulton se dhjetëra efektivë janë përballur me masa të rënda, nga përjashtimi nga Policia e deri te arrestimi dhe ndjekja",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-18T13:20:04+00:00",
-      "dateStr": "18 Jul, 13:20",
-      "isNew": true,
-      "id": "abc41784380804"
-    },
-    {
-      "title": "Kush paguan 100 mijë dollarë, do të mësojë i pari se çfarë poston Trump/ Postimet në Truth Social shiten me tarifë marramendëse",
-      "link": "https://abcnews.al/kush-paguan-100-mije-dollare-do-te-mesoje-i-pari-se-cfare-poston-trump-postimet-ne-truth-social-shiten-me-tarife-marramendese/",
-      "description": "Kompania Trump Media &#38; Technology Group (TMTG), e cila zotëron rrjetin social Truth Social, ka vendosur ta kthejë në biznes shpejtësinë me të cilën postimet e Donald Trump mund të ndikojnë në tregjet financiare. Shërbimi i ri quhet Truth API dhe pritet të nisë më 1 gusht. Ai do t’u ofrojë bankav",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-18T13:09:44+00:00",
-      "dateStr": "18 Jul, 13:09",
-      "isNew": true,
-      "id": "abc51784380184"
-    },
-    {
-      "title": "Europa “zbarkon” në Vlorë / Turistët e huaj preferojnë qytetin bregdetar për pushime",
-      "link": "https://abcnews.al/europa-zbarkon-ne-vlore-turistet-e-huaj-preferojne-qytetin-bregdetar-per-pushime/",
-      "description": "Pushues vendas dhe të huaj kanë zgjedhur Vlorën për pushimet e tyre verore. Ne  mesin e korrikut  numri I turisteve eshte rritur ndjeshem. Shume prej tyre kane ardhur nga   Europa.    Deti eshte ai qe I terheq. Gjithashtu shume  shqiptare qe jetojne jashte vendit  jane kthyer per te pushuar prane fa",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-18T12:45:32+00:00",
-      "dateStr": "18 Jul, 12:45",
-      "isNew": true,
-      "id": "abc61784378732"
-    },
-    {
-      "title": "Rusia nën “breshërinë” e dronëve / Sulme masive në një qendër logjistike, 7 të vrarë e 24 të plagosur",
-      "link": "https://abcnews.al/rusia-nen-bresherine-e-droneve-sulme-masive-ne-nje-qender-logjistike-7-te-vrare-e-24-te-plagosur/",
-      "description": "Një sulm me dronë ukrainas ndaj një qendre logjistike në rajonin Tambov të Rusisë ka shkaktuar të paktën shtatë viktima dhe 24 të plagosur. Dronët goditën gjatë natës një qendër logjistike të kompanisë Wildberries në qytetin Kotovsk, ku humbën jetën punonjës të turnit të natës. Kompania bëri të ditu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-18T12:24:42+00:00",
-      "dateStr": "18 Jul, 12:24",
-      "isNew": true,
-      "id": "abc71784377482"
-    },
-    {
-      "title": "I nxehti nuk “than” Fierzën / Niveli i ujit 292,3 metra mbi mesataren për këtë periudhë",
-      "link": "https://abcnews.al/i-nxehti-nuk-than-fierzen-niveli-i-ujit-2923-metra-mbi-mesataren-per-kete-periudhe/",
-      "description": "Edhe pse i nxehti dhe mungesa e reshjeve  kanë përfshirë vendin përgjatë dy muajve të fundit niveli i ujit në Fierzë mbetet  mbi mesataren për periudhën e verës.Sipas të dhënave kuota rezulton  292,3 metra mbi nivelin e detit  edhe pse ka pësuar një ulje me rreth 4 metra ndërsa prurjet janë   120 me",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-18T11:59:17+00:00",
-      "dateStr": "18 Jul, 11:59",
-      "isNew": true,
-      "id": "abc81784375957"
-    },
-    {
-      "title": "Kapen mbi 55 kg marijuanë në kufirin greko-shqiptar",
-      "link": "https://abcnews.al/kapen-mbi-55-kg-marijuane-ne-kufirin-greko-shqiptar/",
-      "description": "Nje operacion i organizuar dhe i koordinuar nga oficeret e Departamentit te Hetimit dhe Ndjekjes Penale te Krimeve ne Follorine ka cuar ne arrestimin e nje shtetasi shqiptar, 68 vjec, i dyshuar per trafikim te nje sasie te madhe lende narkotike. Sipas autoriteteve greke, pas shfrytezimit te informac",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-18T11:54:33+00:00",
-      "dateStr": "18 Jul, 11:54",
-      "isNew": true,
-      "id": "abc91784375673"
+      "id": "abc91784381686"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
