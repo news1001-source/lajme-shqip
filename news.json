@@ -1,18 +1,117 @@
 {
-  "lastUpdated": "2026-07-18T21:44:50.002919+00:00",
+  "lastUpdated": "2026-07-18T22:43:31.945221+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Botërori 2026: Shpërblimi për vendin e tretë dhe lista e plotë e fitimeve",
-      "link": "https://24-ore.com/boterori-2026-shperblimi-per-vendin-e-trete-dhe-lista-e-plote-e-fitimeve/",
-      "description": "Franca dhe Anglia përballen në ndeshjen për vendin e tretë të Botërorit 2026, ku fituesi do të marrë 29 milionë dollarë, ndërsa skuadra që përfundon e katërta do të përfitojë 27 milionë dollarë. Sipas sports.yahoo, ky është Botërori me fondin më të madh në histori: 655 milionë dollarë të ndarë mes 4",
+      "title": "Kylian Mbappé vendos rekordin e ri të Kupës së Botës, shënon golin e 22-të në karrierë",
+      "link": "https://24-ore.com/kylian-mbappe-vendos-rekordin-e-ri-te-kupes-se-botes-shenon-golin-e-22-te-ne-karriere/",
+      "description": "Kylian Mbappé shënoi dy herë në ndeshjen për vendin e tretë të Kupës së Botës ndaj Anglisë, duke kaluar Lionel Messin si golashënuesi më i mirë në historinë e turneut. Dy golat në pjesën e dytë i dhanë kapitenit të Francës totalin prej 22 golash në Kupat e Botës, më shumë se çdo lojtar tjetër. [&#82",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-18T21:43:57+00:00",
-      "dateStr": "18 Jul, 21:43",
+      "date": "2026-07-18T22:43:01+00:00",
+      "dateStr": "18 Jul, 22:43",
       "isNew": true,
-      "id": "24 01784411037"
+      "id": "24 01784414581"
+    },
+    {
+      "title": "Mbappé kalon Messin dhe bëhet golashënuesi më i mirë në historinë e Botërorit",
+      "link": "https://24-ore.com/mbappe-kalon-messin-dhe-behet-golashenuesi-me-i-mire-ne-historine-e-boterorit/",
+      "description": "Kylian Mbappé u bë golashënuesi më i mirë në historinë e Kupës së Botës pas dy golave në ndeshjen për vendin e tretë ndaj Anglisë, duke arritur në total 22 gola në kontributin e tij në këtë turne. Në moshën 27-vjeçare, sulmuesi francez mbetet i mundshëm të marrë pjesë edhe në një ose dy edicione [&#",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T22:42:22+00:00",
+      "dateStr": "18 Jul, 22:42",
+      "isNew": true,
+      "id": "24 11784414542"
+    },
+    {
+      "title": "Mbappé barazon Messin si golashënuesi më i mirë në historinë e Kupës së Botës me golin e 21-të",
+      "link": "https://24-ore.com/mbappe-barazon-messin-si-golashenuesi-me-i-mire-ne-historine-e-kupes-se-botes-me-golin-e-21-te/",
+      "description": "Kylian Mbappé barazoi rekordin e golave në historinë e Kupës së Botës me golin e tij të parë kundër Anglisë në ndeshjen për vendin e tretë, duke arritur në 21 gola të përgjithshëm. Franca, që ishte 4-0 pas në pjesën e parë, reagoi tri minuta pas rifillimit kur Dayot Upamecano dha një pasim të saktë ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T22:31:53+00:00",
+      "dateStr": "18 Jul, 22:31",
+      "isNew": true,
+      "id": "24 21784413913"
+    },
+    {
+      "title": "Three years after the fire, 300 cases await toxicology results at IML",
+      "link": "https://24-ore.com/three-years-after-the-fire-300-cases-await-toxicology-results-at-iml/",
+      "description": "After the fire at the Institute of Forensic Medicine in 2023, the main laboratories were damaged and about 300 cases with toxicology results remained unfinished. According to legal experts, such delays harm judicial processes. 10 cases were sent for examination abroad, while renovations are nearing ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T22:16:20+00:00",
+      "dateStr": "18 Jul, 22:16",
+      "isNew": true,
+      "id": "24 31784412980"
+    },
+    {
+      "title": "From life imprisonment to 30 years in prison, the Supreme Court’s decision opens debate",
+      "link": "https://24-ore.com/from-life-imprisonment-to-30-years-in-prison-the-supreme-courts-decision-opens-debate/",
+      "description": "Four months after the Supreme Court upheld the life sentence for Dardan Krivaqen for the murder of his girlfriend, in another case of wife murder, it decided to reduce the sentence. Edmond Lajçi was sentenced to life imprisonment in the first instance for the murder of his wife, but the same sentenc",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T22:16:03+00:00",
+      "dateStr": "18 Jul, 22:16",
+      "isNew": true,
+      "id": "24 41784412963"
+    },
+    {
+      "title": "KSF is preparing for the mission in Gaza, experts: Important step towards NATO",
+      "link": "https://24-ore.com/ksf-is-preparing-for-the-mission-in-gaza-experts-important-step-towards-nato/",
+      "description": "The Kosovo Security Forces are continuing preparations for the deployment of its contingent to Gaza in coordination with the International Security Force headquarters. All this within the framework of the international stabilization mission in Gaza. The latest to depart for that country are 4 member",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T22:15:50+00:00",
+      "dateStr": "18 Jul, 22:15",
+      "isNew": true,
+      "id": "24 51784412950"
+    },
+    {
+      "title": "Kosovo towards new elections? Constitutional deadline is approaching, parties still without agreement",
+      "link": "https://24-ore.com/kosovo-towards-new-elections-constitutional-deadline-is-approaching-parties-still-without-agreement/",
+      "description": "As the constitutional deadline approaches, Kosovo remains in a phase of political uncertainty regarding the formation of new institutions. The discussions so far have not brought any epilogue, while the session for the constitution of the Assembly is expected to be convened in two weeks. The suspens",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T22:15:35+00:00",
+      "dateStr": "18 Jul, 22:15",
+      "isNew": true,
+      "id": "24 61784412935"
+    },
+    {
+      "title": "Presidenti i Hungarisë nënshkruan ndryshimin kushtetues që i jep fund mandatit të tij",
+      "link": "https://24-ore.com/presidenti-i-hungarise-nenshkruan-ndryshimin-kushtetues-qe-i-jep-fund-mandatit-te-tij/",
+      "description": "Presidenti i Hungarisë, Tamás Sulyok, nënshkroi të shtunën një ndryshim kushtetues që i përfundon menjëherë mandatin, duke nëpërkëmbur një përplasje të hapur mes tij dhe qeverisë së re që kërkonte largimin e zyrtarëve të emëruar gjatë epokës së Viktor Orbán. Raporton Associated Press se kryeministri",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T22:13:33+00:00",
+      "dateStr": "18 Jul, 22:13",
+      "isNew": true,
+      "id": "24 71784412813"
+    },
+    {
+      "title": "Declan Rice udhëheq Anglinë drejt fitores së thellë 4-0 ndaj Francës",
+      "link": "https://24-ore.com/declan-rice-udheheq-angline-drejt-fitores-se-thelle-4-0-ndaj-frances/",
+      "description": "Anglia kaloi në një avantazh të thellë 4-0 ndaj Francës në ndeshjen për vendin e tretë në Botëror, me Declan Rice në rolin e kapitenit pasi Harry Kane nuk ishte në formacionin titullar. Rice hapi rezultatin pas 2:14 lojë me një goditje të ulët në këndin e djathtë, që përbën golin më të hershëm të [&",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T22:04:47+00:00",
+      "dateStr": "18 Jul, 22:04",
+      "isNew": true,
+      "id": "24 81784412287"
+    },
+    {
+      "title": "Wenger: Pushimet për hidratuar në Botërorin 2026 nuk ishin të popullarizuara dhe FIFA do t’i rishikojë",
+      "link": "https://24-ore.com/wenger-pushimet-per-hidratuar-ne-boterorin-2026-nuk-ishin-te-popullarizuara-dhe-fifa-do-ti-rishikoje/",
+      "description": "Arsene Wenger, kreu për zhvillimin global të futbollit në FIFA, pranon se pushimet për hidratuar të futur në Botërorin 2026 nuk kanë gjetur mbështetje dhe se organizata do të vlerësojë ndikimin e tyre pasi të përfundojë turneu. Masa parashikon pushime treminutëshe për hidratuar në të gjitha ndeshjet",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T21:57:40+00:00",
+      "dateStr": "18 Jul, 21:57",
+      "isNew": true,
+      "id": "24 91784411860"
     },
     {
       "title": "“Kuvendi i protestës” bëhet arenë përplasjesh/ Petraj: Ishte çarja finale. Mahmutaj: Grindje për protagonizëm",
@@ -26,50 +125,6 @@
       "id": "abc01784410653"
     },
     {
-      "title": "Protesta do të vazhdojë në gusht?! Aktivistja Merko: Jemi në ditën e 49-të, ai shesh është përsëri me njerëz",
-      "link": "https://24-ore.com/protesta-do-te-vazhdoje-ne-gusht-aktivistja-merko-jemi-ne-diten-e-49-te-ai-shesh-eshte-perseri-me-njerez/",
-      "description": "Aktivistja Etleva Merko dhe ish-drejtuesi i policisë Faik Basha, të ftuar këtë të shtunë në Review me Greta Topjanën në Euronews Albania, kanë debatuar lidhur me zhvillimin aktual të protestës. E pyetur nga moderatorja nëse protesta do të vazhdojë të zgjasë edhe gjatë muajit gusht, Merko u përgjigj ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T21:20:30+00:00",
-      "dateStr": "18 Jul, 21:20",
-      "isNew": true,
-      "id": "24 11784409630"
-    },
-    {
-      "title": "Dy turistë gjermanë humbën orientimin në malin e Çikës, njëri plagoset pas rrëzimit. Vijon operacioni i shpëtimit",
-      "link": "https://24-ore.com/dy-turiste-gjermane-humben-orientimin-ne-malin-e-cikes-njeri-plagoset-pas-rrezimit-vijon-operacioni-i-shpetimit/",
-      "description": "Dy turistë gjermanë nga 18-vjeç kanë humbur orientimin pasditen e sotme teksa po eksploronin malin e Çikës. Sipas informacioneve paraprake, ata kishin nisur ecjen rreth orës 15:00, por gjatë itinerarit kanë dalë nga shtegu dhe nuk kanë mundur të gjejnë rrugën e kthimit. Menjëherë pas njoftimit janë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T21:20:17+00:00",
-      "dateStr": "18 Jul, 21:20",
-      "isNew": true,
-      "id": "24 21784409617"
-    },
-    {
-      "title": "Aksident i rëndë në Vlorë, humb jetën gazetari Enrik Mehmeti",
-      "link": "https://24-ore.com/aksident-i-rende-ne-vlore-humb-jeten-gazetari-enrik-mehmeti/",
-      "description": "Gazetari Enrik Mehmeti ka humbur jetën në një aksident të ndodhur në plazhin e Porto Noves, në Zvërnec mbrëmjen e sotme.Sipas të dhënave paraprake të policisë, ai po lëvizte me një motor me katër rrota, kur dyshohet se, si pasojë e një manovre të gabuar, humbi kontrollin e mjetit dhe motori u rrokul",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T21:20:01+00:00",
-      "dateStr": "18 Jul, 21:20",
-      "isNew": true,
-      "id": "24 31784409601"
-    },
-    {
-      "title": "Mbappé në të parë për Francën në ndeshjen për vendin e tretë ndaj Anglisë; Kane e Bellingham jashtë",
-      "link": "https://24-ore.com/mbappe-ne-te-pare-per-francen-ne-ndeshjen-per-vendin-e-trete-ndaj-anglise-kane-e-bellingham-jashte/",
-      "description": "Kylian Mbappé u vendos në formacionin startues të Francës për ndeshjen e për vendin e tretë të Kupës së Botës ndaj Anglisë, që u luajt në Hard Rock Stadium në Miami Gardens. Sulmuesi vazhdon garën për Këpucën e Artë ndërsa skuadra kërkon të sigurojë një fitore për t’i dhënë lamtumirën e duhur trajne",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T21:12:12+00:00",
-      "dateStr": "18 Jul, 21:12",
-      "isNew": true,
-      "id": "24 41784409132"
-    },
-    {
       "title": "Të shtëna me armë zjarri në Vaun e Dejës, detajet e para",
       "link": "https://abcnews.al/te-shtena-me-arme-zjarri-ne-vaun-e-dejes-detajet-e-para/",
       "description": "Momente alarmi janë regjistruar mbrëmjen e sotme në fshatin Barbullush të bashkisë Vau i Dejës, ku janë raportuar të shtëna me armë zjarri. Dyshohet se, gjatë një konflikti të çastit mes disa shtetasve, njëri prej tyre, gjatë largimit nga vendi i ngjarjes, ka qëlluar me armë zjarri në ajër. Nga të d",
@@ -79,17 +134,6 @@
       "dateStr": "18 Jul, 21:10",
       "isNew": true,
       "id": "abc11784409012"
-    },
-    {
-      "title": "Nga burgim i përjetshëm në 30 vjet burg, vendimi i Supremes hap debat",
-      "link": "https://24-ore.com/nga-burgim-i-perjetshem-ne-30-vjet-burg-vendimi-i-supremes-hap-debat/",
-      "description": "Katër muaj pasi që Gjykata Supreme vërtetoi dënimin me burgim të përjetshëm për Dardan Krivaqen, për vrasjen e të dashurës së tij, në një tjetër rast të vrasjes së gruas, vendosi ta ulë dënimin. Edmond Lajçi i dënuar me burgim të përjetshëm nga shkalla e parë, për vrasjen e bashkëshortes së tij, por",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T21:09:58+00:00",
-      "dateStr": "18 Jul, 21:09",
-      "isNew": true,
-      "id": "24 51784408998"
     },
     {
       "title": "Finlanda kufizon përkohësisht trafikun ajror dhe detar, shkak kërcënimi nga dronët",
@@ -125,39 +169,6 @@
       "id": "abc41784406962"
     },
     {
-      "title": "Sulmet ukrainase godasin dy depo të Wildberries në Rusi — 8 të vdekur, 62 të plagosur",
-      "link": "https://24-ore.com/sulmet-ukrainase-godasin-dy-depo-te-wildberries-ne-rusi-8-te-vdekur-62-te-plagosur/",
-      "description": "Të paktën tetë persona kanë humbur jetën dhe 62 janë plagosur pas goditjeve me dronë që prekën dy depo të kompanisë së tregtisë online Wildberries në Rusi. Një shpërthim i madh dhe zjarre u panë në ndonjë prej objekteve, ndërsa punonjësit u larguan në panik drejt parkimeve dhe zonave të jashtme. Sip",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T20:32:58+00:00",
-      "dateStr": "18 Jul, 20:32",
-      "isNew": true,
-      "id": "24 61784406778"
-    },
-    {
-      "title": "“Rezervimet e minutës së fundit në rënie, kontratat me agjencitë – mirë, por tërhiqen gjermanët”",
-      "link": "https://24-ore.com/rezervimet-e-minutes-se-fundit-ne-renie-kontratat-me-agjencite-mire-por-terhiqen-gjermanet/",
-      "description": "Intervist&#235; me Blerim Norja, Drejtor i P&#235;rgjithsh&#235;m i hoteleve &#8220;Royal G&#8221; &#160; Hotelet e m&#235;dha n&#235; Durr&#235;s dhe Golem po sigurojn&#235; nj&#235; num&#235;r t&#235; k&#235;naqsh&#235;m turist&#235;sh p&#235;rmes kontratave me garanci me agjencit&#235; e huaja, p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T20:30:13+00:00",
-      "dateStr": "18 Jul, 20:30",
-      "isNew": true,
-      "id": "24 71784406613"
-    },
-    {
-      "title": "Kontestimet kryesore të Botërorit 2026: nga çështjet e vizave te kartoni i kuq i Balogun",
-      "link": "https://24-ore.com/kontestimet-kryesore-te-boterorit-2026-nga-ceshtjet-e-vizave-te-kartoni-i-kuq-i-balogun/",
-      "description": "Botërori i 2026-it ka qenë i mbushur me emocione sportive, por edhe me një sërë polemikash që kanë shtrirë ndikimin e tyre jashtë fushës. Vendimet e VAR, problemet me vizat dhe zbatimi i rregullave të FIFA-s kanë nxitur debate të ashpra gjatë të gjithë turneut. Sipas sports.yahoo, kontestimet kanë p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T20:28:48+00:00",
-      "dateStr": "18 Jul, 20:28",
-      "isNew": true,
-      "id": "24 81784406528"
-    },
-    {
       "title": "Argjentina, finalistja e sigurt/ Amerikanolatinët kanë fituar të 6 gjysmëfinalet botërore",
       "link": "https://abcnews.al/argjentina-finalistja-e-sigurt-amerikanolatinet-kane-fituar-te-6-gjysmefinalet-boterore/",
       "description": "Vjen një moment që bëhet e pathyeshme. Kombëtarja e Argjentinës është e vetmja në kupat e botës që nuk gabon kurrë nëse arrin deri në gjysmëfinale. Kjo traditë ka nisur gati 100 vjet më parë, kur “gauçosit” u kualfikuan për në finalen e humbur më pas ndaj Uruguajit në Montevideo, me suksesin e thell",
@@ -178,17 +189,6 @@
       "dateStr": "18 Jul, 20:18",
       "isNew": true,
       "id": "abc61784405928"
-    },
-    {
-      "title": "“Korriku ka nisur më i dobët se një vit më parë, zhvlerësimi i Euros po godet sektorin”",
-      "link": "https://24-ore.com/korriku-ka-nisur-me-i-dobet-se-nje-vit-me-pare-zhvleresimi-i-euros-po-godet-sektorin/",
-      "description": "Intervist&#235; me Fatos &#199;erenishti, administrator i &#8220;Fafa Group&#8221; Sezoni veror n&#235; Golem po jep sinjalet e para t&#235; nj&#235; ngadal&#235;simi, me k&#235;rkes&#235;n p&#235;r rezervime individuale q&#235; ka nisur n&#235;n nivelet e nj&#235; viti m&#235; par&#235;. Hotelet po",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T20:14:50+00:00",
-      "dateStr": "18 Jul, 20:14",
-      "isNew": true,
-      "id": "24 91784405690"
     },
     {
       "title": "Botërori/ Ledio Pano: Franca dhe Anglia treguan në ndeshjet e fundit që nuk ishin të denja për të shkuar në finale",
