@@ -1,8 +1,107 @@
 {
-  "lastUpdated": "2026-07-18T23:49:17.921964+00:00",
+  "lastUpdated": "2026-07-19T02:12:45.816625+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Zjarr i madh në Drammen shkatërron mbi 100 shtëpi, evakuohen qindra banorë",
+      "link": "https://24-ore.com/zjarr-i-madh-ne-drammen-shkaterron-mbi-100-shtepi-evakuohen-qindra-banore-2/",
+      "description": "Një zjarri i madh ka përfshirë qytetin Drammen në jug të Norvegjisë, duke shkatërruar më shumë se 100 banesa dhe detyruar evakuimin e qindra banorëve. Autoritetet e shpëtimit po raportojnë se deri tani nuk ka të dhëna për viktima ose persona të zhdukur. Raporton bbc.co se flakët kanë përfshirë edhe ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T01:59:02+00:00",
+      "dateStr": "19 Jul, 01:59",
+      "isNew": true,
+      "id": "24 01784426342"
+    },
+    {
+      "title": "Aeroporti i Romës: sistemi i ri i kufirit trefishon kohën e pritjes, udhëtarët raportojnë vonesa",
+      "link": "https://24-ore.com/aeroporti-i-romes-sistemi-i-ri-i-kufirit-trefishon-kohen-e-pritjes-udhetaret-raportojne-vonesa/",
+      "description": "Shefi i aeroportit kryesor të Romës thotë se sistemi i ri i Bashkimit Evropian për kontrollin e hyrjes dhe daljes ka rritur gjerësisht kohën që udhëtarët, përfshirë britanikët, duhet të presin për të kaluar kontrollet e pasaportave, edhe pas disa përmirësimeve teknike. Sistemi dixhital i hyrjes‑dalj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T01:58:33+00:00",
+      "dateStr": "19 Jul, 01:58",
+      "isNew": true,
+      "id": "24 11784426313"
+    },
+    {
+      "title": "Rritja e përdorimit të parasë së gatshme vë nën presion ekonominë ruse",
+      "link": "https://24-ore.com/rritja-e-perdorimit-te-parase-se-gatshme-ve-nen-presion-ekonomine-ruse/",
+      "description": "Rreth katër vjet pas fillimit të luftës në Ukrainë, rusët po kthehen masivisht te pagesat me para në dorë. Shpërthimet e të dhënave dhe ndërprerjet e internetit mobil, të cilat pengojnë përdorimin e kartave, së bashku me presionin fiskal mbi bizneset e vogla, kanë shtyrë qytetarët dhe tregtarët të s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T01:26:28+00:00",
+      "dateStr": "19 Jul, 01:26",
+      "isNew": true,
+      "id": "24 21784424388"
+    },
+    {
+      "title": "Operacioni “Halabaku”",
+      "link": "https://24-ore.com/operacioni-halabaku/",
+      "description": "Pas 49 ditësh protestë, qeveria më në fund e gjeti provën që priste. Jo për korrupsionin, jo për ekonominë. As për largimin e shqiptarëve apo për forcimin e pandalshëm të lekut. As për 135 mijë nxënës më pak në dhjetë vitet e fundit dhe as për 300 shkolla më pak. Nuk gjeti asnjë investitor strategji",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T01:23:52+00:00",
+      "dateStr": "19 Jul, 01:23",
+      "isNew": true,
+      "id": "24 31784424232"
+    },
+    {
+      "title": "Anglia 6-4 Francës, përmbledhje dhe vlerësimet pas finales për vendin e tretë",
+      "link": "https://24-ore.com/anglia-6-4-frances-permbledhje-dhe-vleresimet-pas-finales-per-vendin-e-trete/",
+      "description": "Anglia mposhti Francën 6-4 në ndeshjen për vendin e tretë në Botëror, në një përballje me gola dhe ritëm të lartë. Pjesa e parë u vendos herët, me golin e parë në minutën e 3-të dhe me Anglinë që arriti të shënonte katër herë brenda gjysmës së parë, ndërsa Franca u përpoq të rikthehej me [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T01:11:37+00:00",
+      "dateStr": "19 Jul, 01:11",
+      "isNew": true,
+      "id": "24 41784423497"
+    },
+    {
+      "title": "Bellingham shënon të shtatin dhe thyen rekordin e Anglisë në Botërorin e Futbollit",
+      "link": "https://24-ore.com/bellingham-shenon-te-shtatin-dhe-thyen-rekordin-e-anglise-ne-boterorin-e-futbollit/",
+      "description": "Jude Bellingham u bë lojtari i parë anglez që shënon shtatë gola në një edicion të vetëm të Kampionatit Botëror, duke shënuar në fund të ndeshjes që Anglia e fitoi 6-4 ndaj Francës në përballjen për vendin e tretë. Ai u aktivizua në minutën e 79-të dhe finalizoi një kundërsulm që nisi nga gjysma e [",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T00:58:52+00:00",
+      "dateStr": "19 Jul, 00:58",
+      "isNew": true,
+      "id": "24 51784422732"
+    },
+    {
+      "title": "Didier Deschamps largohet pas Kupës së Botës, Zinedine Zidane emërohet trajner i Francës",
+      "link": "https://24-ore.com/didier-deschamps-largohet-pas-kupes-se-botes-zinedine-zidane-emerohet-trajner-i-frances/",
+      "description": "Didier Deschamps, 57 vjeç, do të lërë drejtimin e kombëtares së Francës pas një periudhe 14-vjeçare si trajner. Gjatë mandatit të tij, Franca fitoi Kupën e Botës 2018 dhe Ligën e Kombeve 2021, arriti finalet e Europianit 2016 dhe Botërorit 2022, si dhe luajti në gjysmëfinalet e Botërorit 2026. Si lo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T00:41:42+00:00",
+      "dateStr": "19 Jul, 00:41",
+      "isNew": true,
+      "id": "24 61784421702"
+    },
+    {
+      "title": "Anglia në vendin e tretë në Botërorin 2026: arritje e vlefshme apo zhgënjim i përsëritur?",
+      "link": "https://24-ore.com/anglia-ne-vendin-e-trete-ne-boterorin-2026-arritje-e-vlefshme-apo-zhgenjim-i-perseritur/",
+      "description": "Anglia mbylli Botërorin 2026 në vendin e tretë pas fitores spektakolare 6-4 ndaj Francës në ndeshjen për bronzin, rezultat që përfaqëson suksesin e saj më të mirë që nga fitorja në shtëpi e vitit 1966. Të Kuqtë e Rinjtë nisën turneun të renditur të katërt në botë dhe arritën gjysmëfinalet për herë t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T00:30:29+00:00",
+      "dateStr": "19 Jul, 00:30",
+      "isNew": true,
+      "id": "24 71784421029"
+    },
+    {
+      "title": "Mbappé kryeson garën për Këpucën e Artë, vendimi i mbetur te finalja",
+      "link": "https://24-ore.com/mbappe-kryeson-garen-per-kepucen-e-arte-vendimi-i-mbetur-te-finalja/",
+      "description": "Kylian Mbappé ka shënuar 10 gola në Kupën e Botës dhe tani ndodhet në krye të garës për Këpucën e Artë, me vendimin që do të përcaktohet në ndeshjen finale të turneut. Raporton bbc se dopieta e Mbappé në humbjen 6-4 të Francës ndaj Anglisë në përballjen për vendin e tretë e çuan atë dy [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-18T23:56:46+00:00",
+      "dateStr": "18 Jul, 23:56",
+      "isNew": true,
+      "id": "24 81784419006"
+    },
     {
       "title": "Andrew dhe Tristan Tate arrestohen në Miami pas kërkesës për ekstradim nga Britania",
       "link": "https://24-ore.com/andrew-dhe-tristan-tate-arrestohen-ne-miami-pas-kerkeses-per-ekstradim-nga-britania/",
@@ -12,106 +111,7 @@
       "date": "2026-07-18T23:43:09+00:00",
       "dateStr": "18 Jul, 23:43",
       "isNew": true,
-      "id": "24 01784418189"
-    },
-    {
-      "title": "Vlerësimi i lojtarëve të Anglisë në Kupën e Botës 2026",
-      "link": "https://24-ore.com/vleresimi-i-lojtareve-te-anglise-ne-kupen-e-botes-2026/",
-      "description": "Anglia mbylli Kampionatin Botëror me fitoren 6-4 ndaj Francës në ndeshjen për vendin e tretë, duke treguar një kombinim të lojtarëve me përvojë dhe elementë të rinj që duken premtues për të ardhmen. Jude Bellingham dallo i si figura kryesore e ekipit, me performancë të lartë dhe gola vendimtarë që e",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T23:41:56+00:00",
-      "dateStr": "18 Jul, 23:41",
-      "isNew": true,
-      "id": "24 11784418116"
-    },
-    {
-      "title": "Scaloni dhe De la Fuente: Përshtatja dhe besimi që i çuan në finale të Botërorit",
-      "link": "https://24-ore.com/scaloni-dhe-de-la-fuente-pershtatja-dhe-besimi-qe-i-cuan-ne-finale-te-boterorit/",
-      "description": "Finalja e Botërorit midis Argjentinës dhe Spanjës shënon triumfin e dy trajnerëve që erdhën nga rrugë të ndryshme: Lionel Scaloni, i formuar si ndihmës dhe më pas si drejtues i përhershëm i kombëtares argjentinase, dhe Luis de la Fuente, i ngritur nga puna me grupmoshat e skuadrave kombëtare spanjol",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T23:32:48+00:00",
-      "dateStr": "18 Jul, 23:32",
-      "isNew": true,
-      "id": "24 21784417568"
-    },
-    {
-      "title": "Michael Olise thyen rekordin e Pelé për asistime në një Botëror",
-      "link": "https://24-ore.com/michael-olise-thyen-rekordin-e-pele-per-asistime-ne-nje-boteror/",
-      "description": "Në ndeshjen për vendin e tretë të Botërorit 2026, Franca u mund 6-4 nga Anglia. Kylian Mbappé shënoi golin e tij të 22-të në historinë e Kupës së Botës, ndërsa Michael Olise dha asistin që i hapi udhë rekordin: ishte asist i tij i shtatë në këtë turne, duke tejkaluar shifrën e mëparshme të Pelé. [&#",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T23:32:06+00:00",
-      "dateStr": "18 Jul, 23:32",
-      "isNew": true,
-      "id": "24 31784417526"
-    },
-    {
-      "title": "Botërori 2026: Anglia e tretë dhe lista e plotë e shpërblimeve",
-      "link": "https://24-ore.com/boterori-2026-anglia-e-trete-dhe-lista-e-plote-e-shperblimeve/",
-      "description": "Anglia kthehet në shtëpi nga Kampionati Botëror FIFA 2026 me vendin e tretë dhe një shpërblim prej 29 milionë dollarësh, pas fitores 6-4 ndaj Francës në ndeshjen për vendin e tretë. Franca, që u rendit e katërta, do të marrë 27 milionë dollarë. Sipas sports.yahoo, FIFA njoftoi në dhjetor se ky Botër",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T23:28:14+00:00",
-      "dateStr": "18 Jul, 23:28",
-      "isNew": true,
-      "id": "24 41784417294"
-    },
-    {
-      "title": "Hat-trickët në fazën nokaut të Kupës së Botës: përmbledhje historike",
-      "link": "https://24-ore.com/hat-tricket-ne-fazen-nokaut-te-kupes-se-botes-permbledhje-historike/",
-      "description": "Gjatë historisë së Kupës së Botës, disa lojtarë kanë arritur të shënojnë tre gola ose më shumë në ndeshjet e fazës së eliminimit, një arritje e rrallë që mbetet pjesë e statistikave më të përmendura të turneut. Sipas Associated Press, lista përfshin rastet nga edicionet e para deri te turnetë e fund",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T23:27:00+00:00",
-      "dateStr": "18 Jul, 23:27",
-      "isNew": true,
-      "id": "24 51784417220"
-    },
-    {
-      "title": "BOTËRORI 2026 – Anglia fiton finalen e prestigjit me rezultatin tenistik 6-4",
-      "link": "https://24-ore.com/boterori-2026-anglia-fiton-finalen-e-prestigjit-me-rezultatin-tenistik-6-4/",
-      "description": "– Anglia mundi sot Francën në ndeshjen për vendin e tretë në Kupën e Botës në futboll, me rezultatin 6-4. Ndeshjen e luajtur në stadiumin “Hard Rock” në Miami Gardens, Florida, Anglia e nisi shkëlqyeshëm dhe kaloi në avantazh që në minutën e tretë, me anë të Declan Rice, pas një gabimi në mbrojtjen ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T23:13:46+00:00",
-      "dateStr": "18 Jul, 23:13",
-      "isNew": true,
-      "id": "24 61784416426"
-    },
-    {
-      "title": "Mbappé kalon Messin me 22 gola në historinë e Kupave të Botës",
-      "link": "https://24-ore.com/mbappe-kalon-messin-me-22-gola-ne-historine-e-kupave-te-botes/",
-      "description": "Kylian Mbappé kaloi Lionel Messin në renditjen e golashënuesve në Kupat e Botës, pasi shënoi dy herë për Francën në ndeshjen për vendin e tretë kundër Anglisë dhe arriti në 22 gola në karrierën e tij në këtë kompeticion. Sipas Associated Press, Mbappé ka shënuar dhjetë gola në këtë Botëror, dy më sh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T23:12:19+00:00",
-      "dateStr": "18 Jul, 23:12",
-      "isNew": true,
-      "id": "24 71784416339"
-    },
-    {
-      "title": "FIFA njofton të ardhura rekord 15 miliardë dollarë nga Botërori",
-      "link": "https://24-ore.com/fifa-njofton-te-ardhura-rekord-15-miliarde-dollare-nga-boterori/",
-      "description": "FIFA do të njoftojë të ardhura rekord prej 15 miliardë dollarësh nga Kampionati Botëror i këtij viti, shumë më shumë se pritjet fillestare. Anëtarët e federatave janë informuar për këtë rritje nga presidenti Gianni Infantino. Raporton sports.yahoo se organizata kishte parashikuar më parë të ardhura ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T23:01:50+00:00",
-      "dateStr": "18 Jul, 23:01",
-      "isNew": true,
-      "id": "24 81784415710"
-    },
-    {
-      "title": "Mbappé kalon Messin dhe arrin 22 gola në Kupën e Botës",
-      "link": "https://24-ore.com/mbappe-kalon-messin-dhe-arrin-22-gola-ne-kupen-e-botes/",
-      "description": "Kylian Mbappé kaloi Lionel Messin në listën e golashënuesve në histori të Kupës së Botës, duke arritur 22 gola pas dy golave të shënuar për Francën në ndeshjen për vendin e tretë kundër Anglisë në Miami Gardens. Mbappé ka shënuar 10 gola në këtë Botëror dhe ka dy më shumë se Messi në garën për [&#82",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-18T22:56:43+00:00",
-      "dateStr": "18 Jul, 22:56",
-      "isNew": true,
-      "id": "24 91784415403"
+      "id": "24 91784418189"
     },
     {
       "title": "“Kuvendi i protestës” bëhet arenë përplasjesh/ Petraj: Ishte çarja finale. Mahmutaj: Grindje për protagonizëm",
