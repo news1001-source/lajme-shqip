@@ -1,18 +1,161 @@
 {
-  "lastUpdated": "2026-07-19T17:54:30.065560+00:00",
+  "lastUpdated": "2026-07-19T18:58:59.134661+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Kontest mbi shitjen e pjesëve të tapetit në MetLife Stadium pas finales së Botërorit 2026",
-      "link": "https://24-ore.com/kontest-mbi-shitjen-e-pjeseve-te-tapetit-ne-metlife-stadium-pas-finales-se-boterorit-2026/",
-      "description": "Pas finales së Botërorit 2026 në MetLife Stadium, ku pritet të luajnë Spanja dhe Argjentina, ka shpërthyer një mosmarrëveshje mes shtetit të New Jersey dhe FIFA-s për shitjen e pjesëve të tapetit të fushës që do të hiqet pas turneut. Shteti pretendon se taksapaguesit kanë paguar për përmirësimet e f",
+      "title": "Temperaturat e larta dhe korrjet shtojnë intervenimet e zjarrfikësve",
+      "link": "https://24-ore.com/temperaturat-e-larta-dhe-korrjet-shtojne-intervenimet-e-zjarrfikesve/",
+      "description": "Rritja e temperaturave por edhe korrjet nëpër fusha kanë shtuar numrin e intervenimeve nga ana e zjarrfikësve. Në ditë kryhen të paktën dhjetë intervenime, ndërsa në 90 për qind të rasteve, sipas Njësisë Territoriale kundër Zjarrit në Tetovë, shkak për zjarret janë bujqit që djegin mbetjet nga korrj",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-19T17:42:43+00:00",
-      "dateStr": "19 Jul, 17:42",
+      "date": "2026-07-19T18:55:02+00:00",
+      "dateStr": "19 Jul, 18:55",
       "isNew": true,
-      "id": "24 01784482963"
+      "id": "24 01784487302"
+    },
+    {
+      "title": "Shtesat për fëmijë nën llupën e shtetit, verifikohen mijëra përfitues potencial nga diaspora",
+      "link": "https://24-ore.com/shtesat-per-femije-nen-llupen-e-shtetit-verifikohen-mijera-perfitues-potencial-nga-diaspora/",
+      "description": "Shteti rrit kontrollin mbi paratë publike. Pas rritjes së shtesave për fëmijë në tridhjetë euro, Ministria e Financave ka nisur një proces të gjerë verifikimi për t`i pastruar listat e përfituesve. Alarmi vjen pas largimit të mbi 37 mijë qytetarëve nga Kosova vetëm brenda një viti, duke ngritur dysh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T18:54:48+00:00",
+      "dateStr": "19 Jul, 18:54",
+      "isNew": true,
+      "id": "24 11784487288"
+    },
+    {
+      "title": "Pesë të vdekur nga një tërmet me magnitudë 5.5 në Peru",
+      "link": "https://abcnews.al/pese-te-vdekur-nga-nje-termet-me-magnitude-5-5-ne-peru/",
+      "description": "Të paktën pesë persona kanë mbetur të vdekur dhe 20 të tjerë të lënduar si pasojë e një tërmeti me magnitudë 5.5 që ka goditur Perunë vonë të shtunën, kanë njoftuar autoritetet vendase të dielën. Rreth 300 persona janë zhvendosur nga vendbanimet e tyre. Shërbimi Gjeologjik i SHBA-së (USGS) ka raport",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-19T18:46:53+00:00",
+      "dateStr": "19 Jul, 18:46",
+      "isNew": true,
+      "id": "abc01784486813"
+    },
+    {
+      "title": "“Tirana me ‘regjim të posaçëm’, bashkim të Prrenjasit me Librazhdin”, deputetja e PS flet për ndryshimet e “Terri",
+      "link": "https://24-ore.com/tirana-me-regjim-te-posacem-bashkim-te-prrenjasit-me-librazhdin-deputetja-e-ps-flet-per-ndryshimet-e-terri/",
+      "description": "Reforma e re territoriale pritet të sjellë vetëm ndryshime të lehta dhe jo drastike, me qëllim rritjen e performancës dhe vendimmarrjes së bashkive me nivel të ulët efikasiteti. E ftuar në emisionin “NewsRoom”, deputetja e PS-së, Aulona Bylykbashi, bëri me dije se po diskutohet bashkimi i Prrenjasit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T18:43:17+00:00",
+      "dateStr": "19 Jul, 18:43",
+      "isNew": true,
+      "id": "24 21784486597"
+    },
+    {
+      "title": "Analiza FinTel – Pse deklarimet e Agron Shehajt janë të dyshimta",
+      "link": "https://abcnews.al/analiza-fintel-pse-deklarimet-e-agron-shehajt-jane-te-dyshimta/",
+      "description": "Nga Sidi Hasanaj Kam 2-3 ditë që bëra një kërkim financiar për deklaratat e pasurisë dë Agron Shehajt në ILDKPI dhe përputhjen ose jo me dokumentat dhe trasaksionet publike, pra që pasi doli në publik shtëpia e tij e shitur 15 milionë euro. Po e sqaroj edhe motivin e këtij kërkimi. Ky analizim nuk ë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-19T18:32:09+00:00",
+      "dateStr": "19 Jul, 18:32",
+      "isNew": true,
+      "id": "abc11784485929"
+    },
+    {
+      "title": "Finalja e Kupës së Botës 2026/ Argjentina forcon mesin e fushës, Spanja lë në stol Pedrin (Formacionet zyrtare)",
+      "link": "https://24-ore.com/finalja-e-kupes-se-botes-2026-argjentina-forcon-mesin-e-fushes-spanja-le-ne-stol-pedrin-formacionet-zyrtare/",
+      "description": "Spanja dhe Argjentina do të përballen këtë të diel në finalen e Kupës së Botës 2026. Me fillim nga ora 21:00 me kohën në Shqipëri, ndeshja do marrë jetë në stadiumin ‘MetLife’ në New Jersey. Kjo është hera e parë në histori që kampionia në fuqi e Evropës ndeshet me kampionen aktuale të Copa America ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T18:29:29+00:00",
+      "dateStr": "19 Jul, 18:29",
+      "isNew": true,
+      "id": "24 31784485769"
+    },
+    {
+      "title": "Protesta në ditën e 50, ja pjesëmarrja e qytetarëve në orën 20:05. ABC News sjell pamjet reale",
+      "link": "https://abcnews.al/protesta-ne-diten-e-50-ja-pjesemarrja-e-qytetareve-ne-oren-2005-abc-news-sjell-pamjet-reale/",
+      "description": "Në kryeqytet po mbahet protesta e 50 e qytetarëve. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej” e më pas u zhvendosën drejt bulevardit “Dëshmorët e Kombit”, para godinës së kryeministrisë. Këto janë pamjet reale të protestës, të siguruara nga ABC News, në orën 20:05. [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-19T18:21:51+00:00",
+      "dateStr": "19 Jul, 18:21",
+      "isNew": true,
+      "id": "abc21784485311"
+    },
+    {
+      "title": "​Behrami: Specialja është mbështetur në narrativa që burojnë nga aparati shtetëror i Serbisë",
+      "link": "https://24-ore.com/behrami-specialja-eshte-mbeshtetur-ne-narrativa-qe-burojne-nga-aparati-shteteror-i-serbise/",
+      "description": "Deputeti i zgjedhur i Partisë Demokratike të Kosovës (PDK), Artan Behrami, ka akuzuar Dhomat e Specializuara se një pjesë të rëndësishme të procesit gjyqësor ndaj ish-krerëve të Ushtrisë Çlirimtare të Kosovës (UÇK) e kanë ndërtuar mbi materiale dhe narrativa që, sipas tij, burojnë nga aparati shtetë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T18:21:19+00:00",
+      "dateStr": "19 Jul, 18:21",
+      "isNew": true,
+      "id": "24 41784485279"
+    },
+    {
+      "title": "KMDK reagon për zjarrin në Pejë: Deponia nuk menaxhohet nga ne",
+      "link": "https://24-ore.com/kmdk-reagon-per-zjarrin-ne-peje-deponia-nuk-menaxhohet-nga-ne/",
+      "description": "Kompania për Menaxhimin e Deponive në Kosovë (KMDK) ka reaguar lidhur me zjarrin në Deponinë Sanitare të Pejës, përkatsisht në fshatin Sferkë, duke sqaruar se kjo deponi aktualisht nuk është nën menaxhimin e saj. “Kompania për Menaxhimin e Deponive në Kosovë (KMDK) ka përcjellë me shqetësim të madh ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T18:21:05+00:00",
+      "dateStr": "19 Jul, 18:21",
+      "isNew": true,
+      "id": "24 51784485265"
+    },
+    {
+      "title": "Aksident i rëndë në Çermë-Divjakë, humb jetën 39-vjeçari, plagosen 5 persona, mes tyre 3 fëmijë",
+      "link": "https://24-ore.com/aksident-i-rende-ne-cerme-divjake-humb-jeten-39-vjecari-plagosen-5-persona-mes-tyre-3-femije/",
+      "description": "Një 39-vjeçar ka humbur jetën pas një aksidenti të rëndë rrugor të ndodhur në aksin Çermë–Divjakë, në fshatin Çermë Shkumbin. Sipas informacioneve paraprake, dy automjete, një “BMW” dhe një “Opel”, janë përplasur kokë më kokë. Për pasojë, ka humbur jetën drejtuesi i automjetit “Opel”, B.K., 39 vjeç,",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T18:20:43+00:00",
+      "dateStr": "19 Jul, 18:20",
+      "isNew": true,
+      "id": "24 61784485243"
+    },
+    {
+      "title": "Dita e 50-të e protestës, qytetarët para Kryeministrisë: Të enjten protestë kombëtare te Parlamenti",
+      "link": "https://24-ore.com/dita-e-50-te-e-protestes-qytetaret-para-kryeministrise-te-enjten-proteste-kombetare-te-parlamenti/",
+      "description": "Protesta qytetare në Tiranë shënon ditën e 50-të të saj, ku edhe këtë të diel, si çdo ditë, protestuesit u mblodhën fillimisht në sheshin “Skënderbej”, nga ku marshuan drejt Kryeministrisë, aty ku u ndalën dhe mbajtën fjalimet e përnatshme. Edhe sot protestuesit kishin thirrjet e tyre: “Ju erdhi fun",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T18:20:15+00:00",
+      "dateStr": "19 Jul, 18:20",
+      "isNew": true,
+      "id": "24 71784485215"
+    },
+    {
+      "title": "Çmimi i ulët i grurit i lë bujqit e Pollogut në humbje, shpenzimet e larta e çmimet e vogla",
+      "link": "https://24-ore.com/cmimi-i-ulet-i-grurit-i-le-bujqit-e-pollogut-ne-humbje-shpenzimet-e-larta-e-cmimet-e-vogla/",
+      "description": "Në rajonin e Pollogut ka nisur sezoni i korrjes, por pritshmëritë e bujqve janë përmbysur plotësisht. Rritja e çmimeve të plehrave artificiale dhe shpenzimet e larta të punimit të tokës, përballë çmimit të ulët me të cilin po blihet gruri sivjet, i ka vendosur fermerët në pozitë të vështirë ekonomik",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T18:14:48+00:00",
+      "dateStr": "19 Jul, 18:14",
+      "isNew": true,
+      "id": "24 81784484888"
+    },
+    {
+      "title": "Ministri Gonxhja: Nikaj-Mërturi thesar i Alpeve, potencial për zhvillimin e turizmit malor",
+      "link": "https://24-ore.com/ministri-gonxhja-nikaj-merturi-thesar-i-alpeve-potencial-per-zhvillimin-e-turizmit-malor/",
+      "description": "Ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja, ka vlerësuar potencialin turistik të Nikaj-Mërturit, duke e cilësuar zonën si një nga thesaret më të vyera të Alpeve Shqiptare dhe një destinacion me mundësi të mëdha për zhvillimin e turizmit malor. Përmes një postimi në rrjetet sociale, Go",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T18:13:40+00:00",
+      "dateStr": "19 Jul, 18:13",
+      "isNew": true,
+      "id": "24 91784484820"
+    },
+    {
+      "title": "Dhuna e karteleve në Meksikë nuk ndalet, gjenden 10 trupa të pajetë",
+      "link": "https://abcnews.al/dhuna-e-karteleve-ne-meksike-nuk-ndalet-gjenden-10-trupa-te-pajete/",
+      "description": "Autoritetet meksikane kanë gjetur 10 trupa në shtetin e Zacatecas, një zonë që u përfshi nga një valë e dhunshme përplasjesh mes grupeve kriminale gjatë viteve 2021-2022 për kontrollin e rrugëve të trafikut të drogës. Pesë nga viktimat u gjetën të varur në një urë. Sipas autoriteteve, trupat u gjetë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-19T18:02:30+00:00",
+      "dateStr": "19 Jul, 18:02",
+      "isNew": true,
+      "id": "abc31784484150"
     },
     {
       "title": "Reforma territoriale, çfarë ndryshim?/ Bylykbashi: Nuk do ketë ndryshime drastike. Tirana me ‘regjim të posaçëm’",
@@ -23,51 +166,7 @@
       "date": "2026-07-19T17:36:56+00:00",
       "dateStr": "19 Jul, 17:36",
       "isNew": true,
-      "id": "abc01784482616"
-    },
-    {
-      "title": "DPHM: Deri të martën vapë deri në 40 gradë, nga e mërkura reshje shiu",
-      "link": "https://24-ore.com/dphm-deri-te-marten-vape-deri-ne-40-grade-nga-e-merkura-reshje-shiu/",
-      "description": "Deri të martën në vend do të mbizotërojë mot me diell dhe shumë i ngrohtë me vranësira të lehta deri në mesatare, ndërsa në orët e pasdites dhe të mbrëmjes do të ketë kushte për jostabilitet lokal të shoqëruar me shira të rrëmbyeshëm, bubullima dhe erëra të forta. Sipas njoftimeve të Drejtorisë për ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T17:34:26+00:00",
-      "dateStr": "19 Jul, 17:34",
-      "isNew": true,
-      "id": "24 11784482466"
-    },
-    {
-      "title": "Ambasada e Kosovës në Zagreb u shpërndanë pako ushqimore bashkatdhetarëve në pikën kufitare Kroaci-Serbi",
-      "link": "https://24-ore.com/ambasada-e-kosoves-ne-zagreb-u-shperndane-pako-ushqimore-bashkatdhetareve-ne-piken-kufitare-kroaci-serbi/",
-      "description": "Ambasada e Republikës së Kosovës në Kroaci ka qenë sot pranë bashkatdhetarëve në Pikën Kufitare Bajakovo, ku ka shpërndarë ujë dhe pako ushqimore për udhëtarët që po prisnin të kalonin kufirin, për shkak të fluksit të shtuar gjatë sezonit veror. Sipas Ambasadës, megjithëse kolonat e automjeteve janë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T17:24:53+00:00",
-      "dateStr": "19 Jul, 17:24",
-      "isNew": true,
-      "id": "24 21784481893"
-    },
-    {
-      "title": "Ndahet nga jeta gazetari Behlul Jashari, AGK shpreh ngushëllime",
-      "link": "https://24-ore.com/ndahet-nga-jeta-gazetari-behlul-jashari-agk-shpreh-ngushellime/",
-      "description": "Është ndarë nga jeta gazetari i njohur Behlul Jashari, një nga emrat e shquar të gazetarisë kosovare. Me këtë rast, Asociacioni i Gazetarëve të Kosovës (AGK) ka shprehur pikëllimin e thellë për vdekjen e tij, duke vlerësuar kontributin mbi pesë dekadash të Jasharit në gazetari. AGK theksoi se ai do ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T17:14:39+00:00",
-      "dateStr": "19 Jul, 17:14",
-      "isNew": true,
-      "id": "24 31784481279"
-    },
-    {
-      "title": "Pr.ligji për turizmin/ Qeveria mund të pezullojë me VKM ndërtimet në sezon, gjobë deri në 2 mln lekë shkelësve",
-      "link": "https://24-ore.com/pr-ligji-per-turizmin-qeveria-mund-te-pezulloje-me-vkm-ndertimet-ne-sezon-gjobe-deri-ne-2-mln-leke-shkelesve/",
-      "description": "Qeveria do të ketë të drejtën që përmes një VKM-je të pezullojë ndërtimet në zonat turistike, për të garantuar zhvillimin e qetë të sezonit turistik. Sanksionimi pritet të vendoset në ligjin për ‘Turizmin”, ndryshimet e të cilit janë depozituar në Kuvend nga kreu i grupit socialist Taulant Balla. PS",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T17:13:48+00:00",
-      "dateStr": "19 Jul, 17:13",
-      "isNew": true,
-      "id": "24 41784481228"
+      "id": "abc41784482616"
     },
     {
       "title": "Zjarret në Spanjën qendrore djegin 13 mijë hektarë tokë, evakuohen 800 persona",
@@ -78,62 +177,7 @@
       "date": "2026-07-19T17:11:46+00:00",
       "dateStr": "19 Jul, 17:11",
       "isNew": true,
-      "id": "abc11784481106"
-    },
-    {
-      "title": "E pavërteta për Kosovën që Dua Lipa mësoi nga Lea Ypi",
-      "link": "https://24-ore.com/e-paverteta-per-kosoven-qe-dua-lipa-mesoi-nga-lea-ypi/",
-      "description": "Nga Desada Metaj Nuk ka temë më të ndjeshme për një shqiptare nga Kosova sesa historia e Kosovës. Prandaj nuk është pa rëndësi se çfarë dëgjuan miliona njerëz kur Dua Lipa i kërkoi shkrimtares Lea Ypi t’i shpjegonte historinë moderne të Shqipërisë. Ajo që nisi si një bisedë për të ndihmuar publikun ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T16:59:21+00:00",
-      "dateStr": "19 Jul, 16:59",
-      "isNew": true,
-      "id": "24 51784480361"
-    },
-    {
-      "title": "Argjentina e Messit përballet me Spanjën e Yamalit në finalen e Botërorit",
-      "link": "https://24-ore.com/argjentina-e-messit-perballet-me-spanjen-e-yamalit-ne-finalen-e-boterorit/",
-      "description": "Finalja e Botërorit zhvillohet të dielën në East Rutherford, New Jersey, ndërmjet Argjentinës së Lionel Messit dhe Spanjës së Lamine Yamalit, në përfundim të një turneu me 48 skuadra. Në këtë takim Messit i mjafton një gol për t’u barazuar me Kylian Mbappén si golashënuesi më i mirë në histori të Ku",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T16:57:24+00:00",
-      "dateStr": "19 Jul, 16:57",
-      "isNew": true,
-      "id": "24 61784480244"
-    },
-    {
-      "title": "Qeveria siguron 50 mijë litra ujë të pijshëm falas në ditë për qytetarët e Gostivarit",
-      "link": "https://24-ore.com/qeveria-siguron-50-mije-litra-uje-te-pijshem-falas-ne-dite-per-qytetaret-e-gostivarit/",
-      "description": "Qeveria e Maqedonisë së Vaeriut ka vendosur që nga sot dhe në ditët në vijim t’u sigurojë 50.000 litra ujë të pijshëm falas në ditë qytetarëve të Gostivarit. Vendimi erdhi me qëllim që të sigurohen nevojat themelore të popullsisë, ndërsa masat dhe rekomandimet e institucioneve kompetente janë në fuq",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T16:54:53+00:00",
-      "dateStr": "19 Jul, 16:54",
-      "isNew": true,
-      "id": "24 71784480093"
-    },
-    {
-      "title": "Anulohet tubimi i paralajmëruar para selisë së LDK-së",
-      "link": "https://24-ore.com/anulohet-tubimi-i-paralajmeruar-para-selise-se-ldk-se/",
-      "description": "Është anuluar tubimi që ishte paralajmëruar të mbahej sot në orën 17:00 para zyrave të Lidhjes Demokratike të Kosovës (LDK). Në një njoftim për media bëhet e ditur se vendimi është marrë me kërkesë të autoriteteve të LDK-së dhe me qëllim të mbarëvajtjes së rregullt të procesit. “Ju njoftojmë se, me ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T16:54:39+00:00",
-      "dateStr": "19 Jul, 16:54",
-      "isNew": true,
-      "id": "24 81784480079"
-    },
-    {
-      "title": "Gënjeshtra se PD po bojkoton Kuvendin",
-      "link": "https://24-ore.com/genjeshtra-se-pd-po-bojkoton-kuvendin/",
-      "description": "Nga Mero Baze Partia Demokratike e Berishës ka bojkotuar dy seancat e fundit të Kuvendit, duke rritur shqetësimet false se mund të jemi para një bojkoti të ri parlamentar. Nuk ka të bëjë fare me bojkotin. E gjitha bëhet sepse protestuesit agresivë që kanë mbetur në rrugë dhe në rrjet si linçues janë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T16:45:48+00:00",
-      "dateStr": "19 Jul, 16:45",
-      "isNew": true,
-      "id": "24 91784479548"
+      "id": "abc51784481106"
     },
     {
       "title": "Zbulohet laboratori i drogës në Hagë/ Arrestohen 4 persona, evakuohen dhjetëra familje",
@@ -144,7 +188,7 @@
       "date": "2026-07-19T16:44:27+00:00",
       "dateStr": "19 Jul, 16:44",
       "isNew": true,
-      "id": "abc21784479467"
+      "id": "abc61784479467"
     },
     {
       "title": "Raketa balistike nga Ukrainës/ Rusia godet disa qytete, 4 viktima dhe 36 te plagosur",
@@ -155,7 +199,7 @@
       "date": "2026-07-19T16:20:53+00:00",
       "dateStr": "19 Jul, 16:20",
       "isNew": true,
-      "id": "abc31784478053"
+      "id": "abc71784478053"
     },
     {
       "title": "News Hour me Erneta Shevroja, (19/07/2026)",
@@ -166,7 +210,7 @@
       "date": "2026-07-19T16:04:01+00:00",
       "dateStr": "19 Jul, 16:04",
       "isNew": true,
-      "id": "abc41784477041"
+      "id": "abc81784477041"
     },
     {
       "title": "Aksident me vdekje në Divjakë/ Humb jetën 39-vjeçari, plagosen 5 të tjerë",
@@ -177,51 +221,7 @@
       "date": "2026-07-19T15:59:50+00:00",
       "dateStr": "19 Jul, 15:59",
       "isNew": true,
-      "id": "abc51784476790"
-    },
-    {
-      "title": "Malësia e Krujës tërheq turistët/ Shtohet numri i turistëve, u pëlqen natyra e paprekur",
-      "link": "https://abcnews.al/malesia-e-krujes-terheq-turistet-shtohet-numri-i-turisteve-u-pelqen-natyra-e-paprekur/",
-      "description": "Malësia e Krujës po tërheq çdo vit e më shumë vizitorë vendas dhe të huaj, falë bukurive natyrore, ajrit të pastër dhe peizazheve mahnitëse që ofron. Përgjatë aksit rrugor Krujë–Qafë Shtamë, panorama mbresëlënëse dhe natyra e paprekur janë kthyer në një destinacion të preferuar për turistët. Banorët",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-19T15:36:04+00:00",
-      "dateStr": "19 Jul, 15:36",
-      "isNew": true,
-      "id": "abc61784475364"
-    },
-    {
-      "title": "Vrasja e Edmond Sulës, informacione në RMV/ U vra më 12 korrik, viktima aksioner në një kompani kanabisi mjekësor",
-      "link": "https://abcnews.al/vrasja-e-edmond-sules-informacione-ne-rmv-u-vra-me-12-korrik-viktima-aksioner-ne-nje-kompani-kanabisi-mjekesor/",
-      "description": "Prej më shumë se një jave vrasja e Edmond Sulës ende nuk është zbardhur nga policia të cilët nuk kanë rënë në gjurmët e autorit. E shkuara e viktimës dhe konfliket e shumta që ai kishte në zonë kanë bërë që grupi hetimor të mos ketë ende një pistë konkrete. Sipas burimeve hetimet nga policia [...]Re",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-19T15:15:24+00:00",
-      "dateStr": "19 Jul, 15:15",
-      "isNew": true,
-      "id": "abc71784474124"
-    },
-    {
-      "title": "Media saudite: Mojtaba Khamenei nuk ndodhet në Iran",
-      "link": "https://abcnews.al/media-saudite-mojtaba-khamenei-nuk-ndodhet-ne-iran/",
-      "description": "Pyetje të reja mbi situatën e brendshme në Iran janë ngritur pas një raportimi të rrjetit televiziv saudit Al-Hadath, i cili, duke cituar një burim sigurie izraelite, pretendon se udhëheqësi suprem i Iranit, Mojtaba Khamenei, nuk ndodhet më në territorin iranian. Sipas raportimit, Mojtaba Khamenei, ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-19T15:02:34+00:00",
-      "dateStr": "19 Jul, 15:02",
-      "isNew": true,
-      "id": "abc81784473354"
-    },
-    {
-      "title": "NewsHour me Sali Doçi, (19/07/2026)",
-      "link": "https://abcnews.al/newshour-me-sali-doci-19-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-19T14:42:49+00:00",
-      "dateStr": "19 Jul, 14:42",
-      "isNew": true,
-      "id": "abc91784472169"
+      "id": "abc91784476790"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
