@@ -1,8 +1,107 @@
 {
-  "lastUpdated": "2026-07-19T18:58:59.134661+00:00",
+  "lastUpdated": "2026-07-19T20:08:43.149658+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Newsroom me Erneta Shevroja, (19/07/2026)",
+      "link": "https://abcnews.al/newsroom-me-erneta-shevroja-19-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-19T20:03:26+00:00",
+      "dateStr": "19 Jul, 20:03",
+      "isNew": true,
+      "id": "abc01784491406"
+    },
+    {
+      "title": "Pjesë e parë e vakët, nuk ka gola në Spanjë-Argjentinë",
+      "link": "https://24-ore.com/pjese-e-pare-e-vaket-nuk-ka-gola-ne-spanje-argjentine/",
+      "description": "“La Roja”-t vijnë në këtë duel si kampionët e Europës dhe duan të përsërisin suksesin e 16 vite më parë, kur në Afrikën e Jugut fituan yllin e tyre të parë në fanellë. Nga ana tjetër, “Albiceleste”-t janë kampionë në fuqi dhe kërkojnë që të ruajnë titullin, për të përcjellë Messin në mënyrën më të [",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T20:02:07+00:00",
+      "dateStr": "19 Jul, 20:02",
+      "isNew": true,
+      "id": "24 01784491327"
+    },
+    {
+      "title": "Finalja e Botërorit 2026: Vlerësoni lojtarët e Spanjës dhe Argjentinës",
+      "link": "https://24-ore.com/finalja-e-boterorit-2026-vleresoni-lojtaret-e-spanjes-dhe-argjentines/",
+      "description": "Finalja e Botërorit mes Spanjës dhe Argjentinës është në zhvillim. Lexuesit mund të vlerësojnë çdo lojtar me notë nga 1 deri në 10 dhe të rikthehen 30 minuta pas përfundimit të ndeshjes për të parë vlerësimet përfundimtare. Sipas bbc, për të dhënë notat duhet të jeni të identifikuar me një llogari n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T19:59:59+00:00",
+      "dateStr": "19 Jul, 19:59",
+      "isNew": true,
+      "id": "24 11784491199"
+    },
+    {
+      "title": "Finalja e Botërorit 2026 nisi me trofeun në valixhen Louis Vuitton dhe fjalimin e Tom Cruise",
+      "link": "https://24-ore.com/finalja-e-boterorit-2026-nisi-me-trofeun-ne-valixhen-louis-vuitton-dhe-fjalimin-e-tom-cruise/",
+      "description": "Finalja e Botërorit 2026 mes Argjentinës dhe Spanjës në stadiumin New York New Jersey u hap me një ceremoni përmbyllëse të gjatë para se të niste loja. Paraqitja përfshiu himnin kombëtar të SHBA, të kënduar nga Jennifer Hudson, dhe prezantimin e trofeut të Kupës së Botës në një rast të pazakontë. Si",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T19:56:24+00:00",
+      "dateStr": "19 Jul, 19:56",
+      "isNew": true,
+      "id": "24 21784490984"
+    },
+    {
+      "title": "Tentativa për arrestim përfundon në tragjedi, 43-vjeçari humb jetën në Itali",
+      "link": "https://abcnews.al/tentativa-per-arrestim-perfundon-ne-tragjedi-43-vjecari-humb-jeten-ne-itali/",
+      "description": "Një 43-vjeçar me origjinë marokene ka humbur jetën gjatë një ndërhyrjeje të policisë në lagjen Pilastro të Bolonjës, në Itali. Ngjarja ka shkaktuar reagime të forta, ndërsa autoritetet kanë nisur hetimet për të zbardhur rrethanat e vdekjes. Sipas mediave italiane, policia u thirr në rrugën Via Svevo",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-19T19:49:30+00:00",
+      "dateStr": "19 Jul, 19:49",
+      "isNew": true,
+      "id": "abc11784490570"
+    },
+    {
+      "title": "Kush e fiton Kupën e Botës? Analistët e “Futboll jo soccer” zbardhin formacionet dhe strategjitë e finales Spanjë-Argjentinë",
+      "link": "https://abcnews.al/kush-e-fiton-kupen-e-botes-analistet-e-futboll-jo-soccer-zbardhin-formacionet-dhe-strategjite-e-finales-spanje-argjentine/",
+      "description": "Ethet e finales së madhe të Kupës së Botës mes Spanjës dhe Argjentinës kanë përfshirë opinionin sportiv, ku për herë të parë në histori përballet kampionia në fuqi e Europës me kampionen e Copa America. Të ftuarit në emisionin “Futboll jo soccer” në ABC News kanë zbërthyer sfidën, duke e cilësuar at",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-19T19:33:45+00:00",
+      "dateStr": "19 Jul, 19:33",
+      "isNew": true,
+      "id": "abc21784489625"
+    },
+    {
+      "title": "Finalja e madhe e Botërorit 2026! Nis sfida Spanjë-Argjentinë",
+      "link": "https://24-ore.com/finalja-e-madhe-e-boterorit-2026-nis-sfida-spanje-argjentine/",
+      "description": "E gjithë bota mban frymën, pasi në New Jersey luhet finalja e madhe e Botërorit 2026 mes Spanjës dhe Argjentinës. “La Roja”-t vijnë në këtë duel si kampionët e Europës dhe duan të përsërisin suksesin e 16 vite më parë, kur në Afrikën e Jugut fituan yllin e tyre të parë në fanellë. Nga ana [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-19T19:13:07+00:00",
+      "dateStr": "19 Jul, 19:13",
+      "isNew": true,
+      "id": "24 31784488387"
+    },
+    {
+      "title": "Bota mban frymën/ Starton finalja e madhe e Kupës së Botës, Spanjë-Argjentinë",
+      "link": "https://abcnews.al/finalja-e-madhe-e-boterorit-spanje-argjentine-beteja-per-kuroren-e-botes/",
+      "description": "Starton finalja e madhe. Spanja dhe Argjentina kërkojnë fitimin e trofeut më të rëndësishëm në botë. Cili do të jetë kampioni i botës? Siç e thamë, kampionia e Europës jepet favorite ndaj kampiones në fuqi të botës. Ndoshta, sepse Spanja është më skuadër, dhe sepse ka arritur deri në fund pa polemik",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-19T19:05:34+00:00",
+      "dateStr": "19 Jul, 19:05",
+      "isNew": true,
+      "id": "abc31784487934"
+    },
+    {
+      "title": "Futboll, jo protestë. Tirana para ekranit, jo para Kryeministrisë. Ja pamjet!",
+      "link": "https://abcnews.al/protesta-ne-diten-e-50-ja-pjesemarrja-e-qytetareve-ne-oren-2005-abc-news-sjell-pamjet-reale/",
+      "description": "Në kryeqytet po mbahet protesta e 50 e qytetarëve. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej” e më pas u zhvendosën drejt bulevardit “Dëshmorët e Kombit”, para godinës së kryeministrisë. Këto janë pamjet reale të protestës, të siguruara nga ABC News, në orën 20:05. Sipas pamjeve të s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-19T19:02:51+00:00",
+      "dateStr": "19 Jul, 19:02",
+      "isNew": true,
+      "id": "abc41784487771"
+    },
     {
       "title": "Temperaturat e larta dhe korrjet shtojnë intervenimet e zjarrfikësve",
       "link": "https://24-ore.com/temperaturat-e-larta-dhe-korrjet-shtojne-intervenimet-e-zjarrfikesve/",
@@ -12,7 +111,7 @@
       "date": "2026-07-19T18:55:02+00:00",
       "dateStr": "19 Jul, 18:55",
       "isNew": true,
-      "id": "24 01784487302"
+      "id": "24 41784487302"
     },
     {
       "title": "Shtesat për fëmijë nën llupën e shtetit, verifikohen mijëra përfitues potencial nga diaspora",
@@ -23,7 +122,7 @@
       "date": "2026-07-19T18:54:48+00:00",
       "dateStr": "19 Jul, 18:54",
       "isNew": true,
-      "id": "24 11784487288"
+      "id": "24 51784487288"
     },
     {
       "title": "Pesë të vdekur nga një tërmet me magnitudë 5.5 në Peru",
@@ -34,7 +133,7 @@
       "date": "2026-07-19T18:46:53+00:00",
       "dateStr": "19 Jul, 18:46",
       "isNew": true,
-      "id": "abc01784486813"
+      "id": "abc51784486813"
     },
     {
       "title": "“Tirana me ‘regjim të posaçëm’, bashkim të Prrenjasit me Librazhdin”, deputetja e PS flet për ndryshimet e “Terri",
@@ -45,7 +144,7 @@
       "date": "2026-07-19T18:43:17+00:00",
       "dateStr": "19 Jul, 18:43",
       "isNew": true,
-      "id": "24 21784486597"
+      "id": "24 61784486597"
     },
     {
       "title": "Analiza FinTel – Pse deklarimet e Agron Shehajt janë të dyshimta",
@@ -56,7 +155,7 @@
       "date": "2026-07-19T18:32:09+00:00",
       "dateStr": "19 Jul, 18:32",
       "isNew": true,
-      "id": "abc11784485929"
+      "id": "abc61784485929"
     },
     {
       "title": "Finalja e Kupës së Botës 2026/ Argjentina forcon mesin e fushës, Spanja lë në stol Pedrin (Formacionet zyrtare)",
@@ -67,18 +166,7 @@
       "date": "2026-07-19T18:29:29+00:00",
       "dateStr": "19 Jul, 18:29",
       "isNew": true,
-      "id": "24 31784485769"
-    },
-    {
-      "title": "Protesta në ditën e 50, ja pjesëmarrja e qytetarëve në orën 20:05. ABC News sjell pamjet reale",
-      "link": "https://abcnews.al/protesta-ne-diten-e-50-ja-pjesemarrja-e-qytetareve-ne-oren-2005-abc-news-sjell-pamjet-reale/",
-      "description": "Në kryeqytet po mbahet protesta e 50 e qytetarëve. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej” e më pas u zhvendosën drejt bulevardit “Dëshmorët e Kombit”, para godinës së kryeministrisë. Këto janë pamjet reale të protestës, të siguruara nga ABC News, në orën 20:05. [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-19T18:21:51+00:00",
-      "dateStr": "19 Jul, 18:21",
-      "isNew": true,
-      "id": "abc21784485311"
+      "id": "24 71784485769"
     },
     {
       "title": "​Behrami: Specialja është mbështetur në narrativa që burojnë nga aparati shtetëror i Serbisë",
@@ -89,7 +177,7 @@
       "date": "2026-07-19T18:21:19+00:00",
       "dateStr": "19 Jul, 18:21",
       "isNew": true,
-      "id": "24 41784485279"
+      "id": "24 81784485279"
     },
     {
       "title": "KMDK reagon për zjarrin në Pejë: Deponia nuk menaxhohet nga ne",
@@ -100,51 +188,7 @@
       "date": "2026-07-19T18:21:05+00:00",
       "dateStr": "19 Jul, 18:21",
       "isNew": true,
-      "id": "24 51784485265"
-    },
-    {
-      "title": "Aksident i rëndë në Çermë-Divjakë, humb jetën 39-vjeçari, plagosen 5 persona, mes tyre 3 fëmijë",
-      "link": "https://24-ore.com/aksident-i-rende-ne-cerme-divjake-humb-jeten-39-vjecari-plagosen-5-persona-mes-tyre-3-femije/",
-      "description": "Një 39-vjeçar ka humbur jetën pas një aksidenti të rëndë rrugor të ndodhur në aksin Çermë–Divjakë, në fshatin Çermë Shkumbin. Sipas informacioneve paraprake, dy automjete, një “BMW” dhe një “Opel”, janë përplasur kokë më kokë. Për pasojë, ka humbur jetën drejtuesi i automjetit “Opel”, B.K., 39 vjeç,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T18:20:43+00:00",
-      "dateStr": "19 Jul, 18:20",
-      "isNew": true,
-      "id": "24 61784485243"
-    },
-    {
-      "title": "Dita e 50-të e protestës, qytetarët para Kryeministrisë: Të enjten protestë kombëtare te Parlamenti",
-      "link": "https://24-ore.com/dita-e-50-te-e-protestes-qytetaret-para-kryeministrise-te-enjten-proteste-kombetare-te-parlamenti/",
-      "description": "Protesta qytetare në Tiranë shënon ditën e 50-të të saj, ku edhe këtë të diel, si çdo ditë, protestuesit u mblodhën fillimisht në sheshin “Skënderbej”, nga ku marshuan drejt Kryeministrisë, aty ku u ndalën dhe mbajtën fjalimet e përnatshme. Edhe sot protestuesit kishin thirrjet e tyre: “Ju erdhi fun",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T18:20:15+00:00",
-      "dateStr": "19 Jul, 18:20",
-      "isNew": true,
-      "id": "24 71784485215"
-    },
-    {
-      "title": "Çmimi i ulët i grurit i lë bujqit e Pollogut në humbje, shpenzimet e larta e çmimet e vogla",
-      "link": "https://24-ore.com/cmimi-i-ulet-i-grurit-i-le-bujqit-e-pollogut-ne-humbje-shpenzimet-e-larta-e-cmimet-e-vogla/",
-      "description": "Në rajonin e Pollogut ka nisur sezoni i korrjes, por pritshmëritë e bujqve janë përmbysur plotësisht. Rritja e çmimeve të plehrave artificiale dhe shpenzimet e larta të punimit të tokës, përballë çmimit të ulët me të cilin po blihet gruri sivjet, i ka vendosur fermerët në pozitë të vështirë ekonomik",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T18:14:48+00:00",
-      "dateStr": "19 Jul, 18:14",
-      "isNew": true,
-      "id": "24 81784484888"
-    },
-    {
-      "title": "Ministri Gonxhja: Nikaj-Mërturi thesar i Alpeve, potencial për zhvillimin e turizmit malor",
-      "link": "https://24-ore.com/ministri-gonxhja-nikaj-merturi-thesar-i-alpeve-potencial-per-zhvillimin-e-turizmit-malor/",
-      "description": "Ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja, ka vlerësuar potencialin turistik të Nikaj-Mërturit, duke e cilësuar zonën si një nga thesaret më të vyera të Alpeve Shqiptare dhe një destinacion me mundësi të mëdha për zhvillimin e turizmit malor. Përmes një postimi në rrjetet sociale, Go",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-19T18:13:40+00:00",
-      "dateStr": "19 Jul, 18:13",
-      "isNew": true,
-      "id": "24 91784484820"
+      "id": "24 91784485265"
     },
     {
       "title": "Dhuna e karteleve në Meksikë nuk ndalet, gjenden 10 trupa të pajetë",
@@ -155,7 +199,7 @@
       "date": "2026-07-19T18:02:30+00:00",
       "dateStr": "19 Jul, 18:02",
       "isNew": true,
-      "id": "abc31784484150"
+      "id": "abc71784484150"
     },
     {
       "title": "Reforma territoriale, çfarë ndryshim?/ Bylykbashi: Nuk do ketë ndryshime drastike. Tirana me ‘regjim të posaçëm’",
@@ -166,7 +210,7 @@
       "date": "2026-07-19T17:36:56+00:00",
       "dateStr": "19 Jul, 17:36",
       "isNew": true,
-      "id": "abc41784482616"
+      "id": "abc81784482616"
     },
     {
       "title": "Zjarret në Spanjën qendrore djegin 13 mijë hektarë tokë, evakuohen 800 persona",
@@ -177,51 +221,7 @@
       "date": "2026-07-19T17:11:46+00:00",
       "dateStr": "19 Jul, 17:11",
       "isNew": true,
-      "id": "abc51784481106"
-    },
-    {
-      "title": "Zbulohet laboratori i drogës në Hagë/ Arrestohen 4 persona, evakuohen dhjetëra familje",
-      "link": "https://abcnews.al/zbulohet-laboratori-i-droges-ne-hage-arrestohen-4-persona-evakuohen-dhjetera-familje/",
-      "description": "Banorët e dhjetëra shtëpive në një lagje të Hagës u detyruan të evakuoheshin si masë paraprake, pasi policia zbuloi një laborator për prodhimin e drogës sintetike. Ky është evakuimi i dytë i zonës brenda 24 orëve. Sipas disa mediave holandeze, afërsisht 150 banorëve të rrugës iu kërkua fillimisht të",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-19T16:44:27+00:00",
-      "dateStr": "19 Jul, 16:44",
-      "isNew": true,
-      "id": "abc61784479467"
-    },
-    {
-      "title": "Raketa balistike nga Ukrainës/ Rusia godet disa qytete, 4 viktima dhe 36 te plagosur",
-      "link": "https://abcnews.al/raketa-balistike-nga-ukraines-rusia-godet-disa-qytete-4-viktima-dhe-36-te-plagosur/",
-      "description": "Rusia ka kryer një valë sulmesh me raketa balistike ndaj disa qyteteve ukrainase, duke shkaktuar të paktën katër viktima dhe 36 persona të plagosur, sipas autoriteteve ukrainase. Tre persona humbën jetën dhe 20 të tjerë u plagosën në qytetin lindor të Kharkivit, ndërsa në kryeqytetin Kiev u raportua",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-19T16:20:53+00:00",
-      "dateStr": "19 Jul, 16:20",
-      "isNew": true,
-      "id": "abc71784478053"
-    },
-    {
-      "title": "News Hour me Erneta Shevroja, (19/07/2026)",
-      "link": "https://abcnews.al/news-hour-me-erneta-shevroja-19-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-19T16:04:01+00:00",
-      "dateStr": "19 Jul, 16:04",
-      "isNew": true,
-      "id": "abc81784477041"
-    },
-    {
-      "title": "Aksident me vdekje në Divjakë/ Humb jetën 39-vjeçari, plagosen 5 të tjerë",
-      "link": "https://abcnews.al/aksident-me-vdekje-ne-divjake-humb-jeten-39-vjecari-plagosen-5-te-tjere/",
-      "description": "Një 39 vjeçar ka humbur jetën si pasojë e një aksidenti në Lushnje. Ngjarja ndodhi në fshatin Çermë Shkumbin në rrugën Çermë-Divjakë. Dy mjete, një tip BMW dhe një Opel janë përplasur kokë më kokë. Nga ky aksident ka humbur jetën 39 vjeçari Barjam Kacani që udhëtonte me Opel dhe u plagosën 5 shtetas",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-19T15:59:50+00:00",
-      "dateStr": "19 Jul, 15:59",
-      "isNew": true,
-      "id": "abc91784476790"
+      "id": "abc91784481106"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
