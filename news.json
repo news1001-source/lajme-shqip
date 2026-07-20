@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-07-20T22:55:04.407911+00:00",
+  "lastUpdated": "2026-07-20T23:53:29.409857+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "SHBA nis një valë të re sulmesh, Trump paralajmëron Iranin me pasoja të rënda",
+      "link": "https://24-ore.com/shba-nis-nje-vale-te-re-sulmesh-trump-paralajmeron-iranin-me-pasoja-te-renda/",
+      "description": "Shtetet e Bashkuara kanë ndërmarrë një valë të re sulmesh ushtarake, ndërsa presidenti amerikan Donald Trump ka lëshuar një paralajmërim të fortë ndaj Iranit, duke deklaruar se çdo sulm ndaj ushtarëve amerikanë do të marrë një përgjigje të ashpër. Në një postim në rrjetin social Truth Social, Trump ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-20T23:45:50+00:00",
+      "dateStr": "20 Jul, 23:45",
+      "isNew": true,
+      "id": "24 01784591150"
+    },
+    {
+      "title": "Bllokada detare e Houthive sinjalizon ndryshim strategjie dhe dërgon mesazh të qartë ndaj Arabisë Saudite",
+      "link": "https://24-ore.com/bllokada-detare-e-houthive-sinjalizon-ndryshim-strategjie-dhe-dergon-mesazh-te-qarte-ndaj-arabise-saudite/",
+      "description": "Njoftimi i lëvizjes Houthi për vendosjen e një bllokade detare që synon Arabinë Saudite po shihet nga analistët si një ndryshim i rëndësishëm në strategjinë e grupit, në një kohë kur tensionet në Lindjen e Mesme mbeten të larta. Sipas analistit Zeidon Alkinani, drejtor themelues i Institutit Arab Pe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-20T23:34:01+00:00",
+      "dateStr": "20 Jul, 23:34",
+      "isNew": true,
+      "id": "24 11784590441"
+    },
     {
       "title": "Ekspertët kërkojnë strategji të re për sigurinë rrugore",
       "link": "https://24-ore.com/ekspertet-kerkojne-strategji-te-re-per-sigurine-rrugore/",
@@ -12,7 +34,7 @@
       "date": "2026-07-20T21:59:50+00:00",
       "dateStr": "20 Jul, 21:59",
       "isNew": true,
-      "id": "24 01784584790"
+      "id": "24 21784584790"
     },
     {
       "title": "Në Tiranë u zhvillua protesta e 51-të qytetare kundër qeverisë",
@@ -23,7 +45,7 @@
       "date": "2026-07-20T21:52:02+00:00",
       "dateStr": "20 Jul, 21:52",
       "isNew": true,
-      "id": "24 11784584322"
+      "id": "24 31784584322"
     },
     {
       "title": "Brukseli më afër, PD e mban larg/ Bejko: PD e tradhton elektoratin. Nura: Berisha është kritikuar brenda partisë për bojkotin",
@@ -45,7 +67,7 @@
       "date": "2026-07-20T21:21:15+00:00",
       "dateStr": "20 Jul, 21:21",
       "isNew": true,
-      "id": "24 21784582475"
+      "id": "24 41784582475"
     },
     {
       "title": "Pse po zgjedhin Shqipërinë turistët? Drejtoresha e “Data Centrum” zbulon arsyet",
@@ -56,7 +78,7 @@
       "date": "2026-07-20T21:20:49+00:00",
       "dateStr": "20 Jul, 21:20",
       "isNew": true,
-      "id": "24 31784582449"
+      "id": "24 51784582449"
     },
     {
       "title": "761 euro për person, sa para lë një turist në Shqipëri? Shifrat nga “Data Centrum”",
@@ -67,7 +89,7 @@
       "date": "2026-07-20T21:20:36+00:00",
       "dateStr": "20 Jul, 21:20",
       "isNew": true,
-      "id": "24 41784582436"
+      "id": "24 61784582436"
     },
     {
       "title": "As Saranda, as Ksamili! Zbulohet vendi më i vizituar nga turistët në Shqipëri",
@@ -78,7 +100,7 @@
       "date": "2026-07-20T21:20:24+00:00",
       "dateStr": "20 Jul, 21:20",
       "isNew": true,
-      "id": "24 51784582424"
+      "id": "24 71784582424"
     },
     {
       "title": "Sondazhi zbulon nga vijnë turistët e huaj në Shqipëri, cili shtet kryeson listën",
@@ -89,7 +111,7 @@
       "date": "2026-07-20T21:20:12+00:00",
       "dateStr": "20 Jul, 21:20",
       "isNew": true,
-      "id": "24 61784582412"
+      "id": "24 81784582412"
     },
     {
       "title": "QKUK jep detaje rreth gjendjes së fëmijës së lënduar në aksidentin në Istog",
@@ -100,7 +122,7 @@
       "date": "2026-07-20T21:14:51+00:00",
       "dateStr": "20 Jul, 21:14",
       "isNew": true,
-      "id": "24 71784582091"
+      "id": "24 91784582091"
     },
     {
       "title": "Mbretërit festojnë në Madrid/ Dy milionë tifozë në rrugë për të pritur kampionët e rinj të botës",
@@ -134,28 +156,6 @@
       "dateStr": "20 Jul, 21:01",
       "isNew": true,
       "id": "abc31784581281"
-    },
-    {
-      "title": "SHBA – Dorëhiqet kreu i agjencisë amerikane për sigurinë e IA-së",
-      "link": "https://24-ore.com/shba-dorehiqet-kreu-i-agjencise-amerikane-per-sigurine-e-ia-se/",
-      "description": "&#8211; Kreu i Qendrës amerikane për Standardet dhe Inovacionin në Inteligjencën Artificiale, Chris Fall, ka dhënë dorëheqjen vetëm tre muaj pasi u emërua në krye të institutit federal, që merret me testimin e inteligjencës artificiale pranë Departamentit amerikan të Tregtisë, njoftoi sot një zëdhën",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-20T20:58:47+00:00",
-      "dateStr": "20 Jul, 20:58",
-      "isNew": true,
-      "id": "24 81784581127"
-    },
-    {
-      "title": "Kupa e Botës 2030 me 64 ekipe? Vjen njoftimi i CONMEBOL",
-      "link": "https://24-ore.com/kupa-e-botes-2030-me-64-ekipe-vjen-njoftimi-i-conmebol/",
-      "description": "Kupa e Botës me 64 ekipe po bëhet gjithnjë e më shumë realitet. Në një postim në llogarinë e tij X, Alejandro Dominguez, president i CONMEBOL (Federata e Futbollit të Amerikës së Jugut), njoftoi zgjerimin me 64 ekipe për edicionin e ardhshëm: “Edicioni tjetër do të luhet në shtëpi. Uruguai, Argjenti",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-20T20:56:29+00:00",
-      "dateStr": "20 Jul, 20:56",
-      "isNew": true,
-      "id": "24 91784580989"
     },
     {
       "title": "Regjimenti ukrainas zë rob lufte 64 ushtarë rusë",
