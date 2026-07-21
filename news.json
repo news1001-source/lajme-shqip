@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-07-21T02:11:27.293734+00:00",
+  "lastUpdated": "2026-07-21T05:45:26.172281+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "AGJENDA NDËRKOMBËTARE 21.7.2026",
+      "link": "https://24-ore.com/agjenda-nderkombetare-21-7-2026/",
+      "description": "KOMBET E BASHKUARA (Shtetet e Bashkuara) – Takim i Këshillit të Sigurimit të OKB-së për Sirinë. HELSINKI (Finlandë) – Kryeministri Petteri Orpo i drejtohet parlamentit në lidhje me financimin kontrovers të një projekti pasurish të paluajtshme. BRUKSEL (Belgjikë) – Paradë ushtarake dhe civile për Dit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-21T05:42:52+00:00",
+      "dateStr": "21 Jul, 05:42",
+      "isNew": true,
+      "id": "24 01784612572"
+    },
+    {
+      "title": "Konflikti “Capat”–“Sekiraqët”, sot mbahet seanca e shqyrtimit fillestar në mungesë për dy të pandehur në arrati",
+      "link": "https://24-ore.com/konflikti-capat-sekiraqet-sot-mbahet-seanca-e-shqyrtimit-fillestar-ne-mungese-per-dy-te-pandehur-ne-arrati/",
+      "description": "Gjykata Themelore në Prishtinë, Departamenti për Krime të Rënda ka bërë të ditur se sot mbahet seanca e shqyrtimit fillestar në çështjen penale PKR.nr.71/2026, e cila ka për objekt shqyrtimi Aktakuzën e ngritur nga Prokuroria Themelore në Prishtinë – PP.I.nr.178/2024 të datës 12.02.2026, kundër të p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-21T05:34:46+00:00",
+      "dateStr": "21 Jul, 05:34",
+      "isNew": true,
+      "id": "24 11784612086"
+    },
+    {
+      "title": "Moti në Kosovë, vende-vende shi e shkarkime rrufesh",
+      "link": "https://24-ore.com/moti-ne-kosove-vende-vende-shi-e-shkarkime-rrufesh/",
+      "description": "Instituti Hidrometeorologjik i Kosovës bën të ditur se sot në Kosovë vende-vende priten reshje shiu me karakter lokal, të shoqëruara me shkarkime rrufesh, kryesisht në orët e pasdites dhe të mbrëmjes. IHMK njofton se temperaturat minimale do të lëvizin ndërmjet 14 gradë Celsius dhe 17 gradë, ndërkaq",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-21T05:19:57+00:00",
+      "dateStr": "21 Jul, 05:19",
+      "isNew": true,
+      "id": "24 21784611197"
+    },
+    {
+      "title": "Francë, rreth 40 mijë hektarë janë djegur nga zjarret që nga fillimi i vitit 2026",
+      "link": "https://abcnews.al/france-rreth-40-mije-hektare-jane-djegur-nga-zjarret-qe-nga-fillimi-i-vitit-2026/",
+      "description": "Gati 40 mijë hektarë pyje dhe bimësi janë djegur në të gjithë Francën që nga fillimi i vitit, tha sot ministri i Brendshëm, Laurent Nunez. &#8220;Gati 40 mijë hektarë pyll ose bimësi janë djegur në Francë që nga fillimi i vitit&#8221;, tha Nunez për radion &#8220;France Inter&#8221;. Ai tha se zona ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-21T05:16:02+00:00",
+      "dateStr": "21 Jul, 05:16",
+      "isNew": true,
+      "id": "abc01784610962"
+    },
+    {
+      "title": "Horoskopi, çfarë parashikojnë yjet për ju",
+      "link": "https://abcnews.al/horoskopi-cfare-parashikojne-yjet-per-ju-258/",
+      "description": "Dashi Dite mjaft intensive kjo e sotmja për ata qe janë ne një lidhje. Do bëni çdo gjë vetëm qe te ndiheni sa me mire te jete e mundur. Beqaret nga ana tjetër pritet te kenë vështirësi te shumta për ta bere për vete dike qe pëlqejnë. Mbase do ju duhet te presin edhe pak [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-21T05:01:33+00:00",
+      "dateStr": "21 Jul, 05:01",
+      "isNew": true,
+      "id": "abc11784610093"
+    },
+    {
+      "title": "Kush përfiton nga “investitori strategjik”?",
+      "link": "https://24-ore.com/kush-perfiton-nga-investitori-strategjik/",
+      "description": "Zona e Zvërnecit në jug të Shqipërisë, pranë vendit ku planifikohet ndërtimi i resortit kontrovers të lidhur me Jared Kushner. Foto: BIRN. Nga: Evarist Stoja Një kompani që ka marrë një copë të bregdetit të Adriatikut e ka adresën zyrtare në katin e 12-të të European Trade Centre në Tiranë, ku, sipa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-21T03:56:41+00:00",
+      "dateStr": "21 Jul, 03:56",
+      "isNew": true,
+      "id": "24 31784606201"
+    },
     {
       "title": "SHBA nis një valë të re sulmesh, Trump paralajmëron Iranin me pasoja të rënda",
       "link": "https://24-ore.com/shba-nis-nje-vale-te-re-sulmesh-trump-paralajmeron-iranin-me-pasoja-te-renda/",
@@ -12,7 +78,7 @@
       "date": "2026-07-20T23:45:50+00:00",
       "dateStr": "20 Jul, 23:45",
       "isNew": true,
-      "id": "24 01784591150"
+      "id": "24 41784591150"
     },
     {
       "title": "Bllokada detare e Houthive sinjalizon ndryshim strategjie dhe dërgon mesazh të qartë ndaj Arabisë Saudite",
@@ -23,7 +89,7 @@
       "date": "2026-07-20T23:34:01+00:00",
       "dateStr": "20 Jul, 23:34",
       "isNew": true,
-      "id": "24 11784590441"
+      "id": "24 51784590441"
     },
     {
       "title": "Ekspertët kërkojnë strategji të re për sigurinë rrugore",
@@ -34,7 +100,7 @@
       "date": "2026-07-20T21:59:50+00:00",
       "dateStr": "20 Jul, 21:59",
       "isNew": true,
-      "id": "24 21784584790"
+      "id": "24 61784584790"
     },
     {
       "title": "Në Tiranë u zhvillua protesta e 51-të qytetare kundër qeverisë",
@@ -45,7 +111,7 @@
       "date": "2026-07-20T21:52:02+00:00",
       "dateStr": "20 Jul, 21:52",
       "isNew": true,
-      "id": "24 31784584322"
+      "id": "24 71784584322"
     },
     {
       "title": "Brukseli më afër, PD e mban larg/ Bejko: PD e tradhton elektoratin. Nura: Berisha është kritikuar brenda partisë për bojkotin",
@@ -56,7 +122,7 @@
       "date": "2026-07-20T21:37:51+00:00",
       "dateStr": "20 Jul, 21:37",
       "isNew": true,
-      "id": "abc01784583471"
+      "id": "abc21784583471"
     },
     {
       "title": "Plagosja e tre personave në Elbasan, policia jep detajet dhe emrat: Oficeri ndoqi autorin",
@@ -67,7 +133,7 @@
       "date": "2026-07-20T21:21:15+00:00",
       "dateStr": "20 Jul, 21:21",
       "isNew": true,
-      "id": "24 41784582475"
+      "id": "24 81784582475"
     },
     {
       "title": "Pse po zgjedhin Shqipërinë turistët? Drejtoresha e “Data Centrum” zbulon arsyet",
@@ -78,51 +144,7 @@
       "date": "2026-07-20T21:20:49+00:00",
       "dateStr": "20 Jul, 21:20",
       "isNew": true,
-      "id": "24 51784582449"
-    },
-    {
-      "title": "761 euro për person, sa para lë një turist në Shqipëri? Shifrat nga “Data Centrum”",
-      "link": "https://24-ore.com/761-euro-per-person-sa-para-le-nje-turist-ne-shqiperi-shifrat-nga-data-centrum/",
-      "description": "Këtë të hënë, në emisionin “Now” me Erla Mëhillin në Euronews Albania, është diskutuar mbi shpenzimet e turistëve të huaj në Shqipëri. Të dhëna nga Instituti kërkimor “Data Centrum”, studimi i të cilëve ka marrë një kampion prej 1000 turistësh të huaj, kanë paraqitur se mesatarja e shpenzimeve total",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-20T21:20:36+00:00",
-      "dateStr": "20 Jul, 21:20",
-      "isNew": true,
-      "id": "24 61784582436"
-    },
-    {
-      "title": "As Saranda, as Ksamili! Zbulohet vendi më i vizituar nga turistët në Shqipëri",
-      "link": "https://24-ore.com/as-saranda-as-ksamili-zbulohet-vendi-me-i-vizituar-nga-turistet-ne-shqiperi/",
-      "description": "Sipas një sondazhi të realizuar nga Data Centrum, i bërë publik në emisionin “Now me Erla Mëhillin”, Tirana rezulton të jetë destinacioni më i vizituar nga turistët e huaj në Shqipëri, duke lënë pas edhe zona të njohura turistike si Saranda dhe Ksamili. Sipas përfaqësuesve të Data Centrum, kategoriz",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-20T21:20:24+00:00",
-      "dateStr": "20 Jul, 21:20",
-      "isNew": true,
-      "id": "24 71784582424"
-    },
-    {
-      "title": "Sondazhi zbulon nga vijnë turistët e huaj në Shqipëri, cili shtet kryeson listën",
-      "link": "https://24-ore.com/sondazhi-zbulon-nga-vijne-turistet-e-huaj-ne-shqiperi-cili-shtet-kryeson-listen/",
-      "description": "Sipas një sondazhi të realizuar nga Data Centrum, i diskutuar në emisionin “Now me Erla Mëhillin”, është zbuluar edhe përbërja sipas shtetësisë e turistëve të huaj që kanë vizituar Shqipërinë. Sondazhi, i zhvilluar me 1000 turistë, tregon se pjesa më e madhe e vizitorëve të huaj vijnë nga Europa. 83",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-20T21:20:12+00:00",
-      "dateStr": "20 Jul, 21:20",
-      "isNew": true,
-      "id": "24 81784582412"
-    },
-    {
-      "title": "QKUK jep detaje rreth gjendjes së fëmijës së lënduar në aksidentin në Istog",
-      "link": "https://24-ore.com/qkuk-jep-detaje-rreth-gjendjes-se-femijes-se-lenduar-ne-aksidentin-ne-istog/",
-      "description": "Një fëmijë është transferuar për trajtim në Qendrën Emergjente të Qendrës Klinike Universitare të Kosovës si pasojë e lëndimeve që ka marrë në aksidentin që ka ndodhur në Shushicë të Istogut sot rreth orës 16:00. Drejtori i Klinikës Emergjente, Naser Syla, tha se pacienti ka pësuar politraumë të rën",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-20T21:14:51+00:00",
-      "dateStr": "20 Jul, 21:14",
-      "isNew": true,
-      "id": "24 91784582091"
+      "id": "24 91784582449"
     },
     {
       "title": "Mbretërit festojnë në Madrid/ Dy milionë tifozë në rrugë për të pritur kampionët e rinj të botës",
@@ -133,7 +155,7 @@
       "date": "2026-07-20T21:11:31+00:00",
       "dateStr": "20 Jul, 21:11",
       "isNew": true,
-      "id": "abc11784581891"
+      "id": "abc31784581891"
     },
     {
       "title": "Lamallari: Dronë e kamera në rrugë. Ministri i Brendshëm paralajmëron ndëshkime për shkelësit e kodit rrugor",
@@ -144,7 +166,7 @@
       "date": "2026-07-20T21:05:47+00:00",
       "dateStr": "20 Jul, 21:05",
       "isNew": true,
-      "id": "abc21784581547"
+      "id": "abc41784581547"
     },
     {
       "title": "VIDEO/ Të shtënat me armë në Elbasan, kjo është tavolina ku ishin ulur dy nga të plagosurit",
@@ -155,7 +177,7 @@
       "date": "2026-07-20T21:01:21+00:00",
       "dateStr": "20 Jul, 21:01",
       "isNew": true,
-      "id": "abc31784581281"
+      "id": "abc51784581281"
     },
     {
       "title": "Regjimenti ukrainas zë rob lufte 64 ushtarë rusë",
@@ -166,7 +188,7 @@
       "date": "2026-07-20T20:49:12+00:00",
       "dateStr": "20 Jul, 20:49",
       "isNew": true,
-      "id": "abc41784580552"
+      "id": "abc61784580552"
     },
     {
       "title": "Lëvizjet në qeverinë ukrainase/ Krisafi: Zelensky po luan në disa fronte. Shala: Ndryshimet janë të nevojshme",
@@ -177,7 +199,7 @@
       "date": "2026-07-20T20:33:38+00:00",
       "dateStr": "20 Jul, 20:33",
       "isNew": true,
-      "id": "abc51784579618"
+      "id": "abc71784579618"
     },
     {
       "title": "Përmbytje në Afganistan/ Të paktën 20 viktima, më shumë se 100 të zhdukur",
@@ -188,7 +210,7 @@
       "date": "2026-07-20T20:25:56+00:00",
       "dateStr": "20 Jul, 20:25",
       "isNew": true,
-      "id": "abc61784579156"
+      "id": "abc81784579156"
     },
     {
       "title": "Luftimet e nxehta të verës, Rusi-Ukrainë, Shala: Palët po konsumojnë në thellësi njëra-tjetrën",
@@ -199,29 +221,7 @@
       "date": "2026-07-20T20:24:45+00:00",
       "dateStr": "20 Jul, 20:24",
       "isNew": true,
-      "id": "abc71784579085"
-    },
-    {
-      "title": "Elbasan/ Qëllohet me armë në drejtim të 3 personave në një lokal, autori në kërkim (EMRAT)",
-      "link": "https://abcnews.al/elbasan-qellohet-me-arme-ne-drejtim-te-3-personave-ne-nje-lokal-autori-ne-kerkim-emrat/",
-      "description": "Të shtëna me armë zjarri u regjistruan mbrëmjen e së hënës në lagjen &#8220;Vullnetari&#8221; të Elbasanit, në verandën e një lokali. Sipas informacioneve paraprake, një person ka qëlluar me armë zjarri në drejtim të tre shtetasve, të cilët kanë mbetur të plagosur. Të plagosurit janë Bjorgi Hoxha 19",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-20T19:45:17+00:00",
-      "dateStr": "20 Jul, 19:45",
-      "isNew": true,
-      "id": "abc81784576717"
-    },
-    {
-      "title": "Edicioni Qendror me Juli Krisafi, (20/07/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-20-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-20T19:22:32+00:00",
-      "dateStr": "20 Jul, 19:22",
-      "isNew": true,
-      "id": "abc91784575352"
+      "id": "abc91784579085"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
