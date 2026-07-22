@@ -1,73 +1,161 @@
 {
-  "lastUpdated": "2026-07-22T21:00:46.213602+00:00",
+  "lastUpdated": "2026-07-22T22:56:56.353395+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Dhunohet efektivi i policisë në Shkodër, disa persona e godasin me grushte pas një konflikti",
-      "link": "https://24-ore.com/dhunohet-efektivi-i-policise-ne-shkoder-disa-persona-e-godasin-me-grushte-pas-nje-konflikti/",
-      "description": "Një ngjarje e rëndë është regjistruar mbrëmjen e sotme në lagjen Xhabije të Shkodrës, ku efektivi i Policisë Rrugore Nikolin Përndoj është dhunuar nga dy persona. Sipas informacioneve paraprake, Përndoj, i cili ndodhej jashtë orarit të punës, është goditur me grushte gjatë një konflikti. Ende nuk ja",
-      "source": "24 ORE",
+      "title": "Ku po shkon protesta? Elezi: Njerëzit që merren me drejtimin e saj, të paaftë. Petraj: Ka betejë të brendshme mes organizatorëve",
+      "link": "https://abcnews.al/ku-po-shkon-protesta-elezi-njerezit-qe-merren-me-drejtimin-e-saj-te-paafte-petraj-ka-beteje-te-brendshme-mes-organizatoreve/",
+      "description": "Ish kandidati për kryetar të PD, Ibsen Elezi thotë se njerëzit që drejtojnë protestën në Tiranë, janë të paaftë. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Elezi u shpreh se intelektualët duhet të grupoheshin dhe të merrnin në dorë fatet e vendit. Ndërsa avokati Edmond Petraj dekl",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-07-22T20:57:31+00:00",
-      "dateStr": "22 Jul, 20:57",
+      "date": "2026-07-22T21:39:06+00:00",
+      "dateStr": "22 Jul, 21:39",
       "isNew": true,
-      "id": "24 01784753851"
+      "id": "abc01784756346"
     },
     {
-      "title": "A ka më fuqi protesta të prodhojë ‘stuhi’ lajmesh perëndimore?",
-      "link": "https://24-ore.com/a-ka-me-fuqi-protesta-te-prodhoje-stuhi-lajmesh-perendimore/",
-      "description": "Nga Fatos Çoçoli Kur një protestë hyn në ditën e saj të 53-të, pyetja nuk është më vetëm nëse ajo vazhdon të ekzistojë, por nëse vazhdon të ketë aftësinë të imponojë agjendën mediatike, brenda dhe jashtë vendit. Në epokën e cikleve të shpejta të informacionit, ku ngjarjet zëvendësojnë njëra-tjetrën ",
-      "source": "24 ORE",
+      "title": "Betonierja bie nga lartësia, dy viktima/ Karamuço: Po hetohen 3 pista. Zona, problematike për aksidente",
+      "link": "https://abcnews.al/betonierja-bie-nga-lartesia-dy-viktima-karamuco-po-hetohen-3-pista-zona-problematike-per-aksidente/",
+      "description": "Dy persona kanë humbur jetën dhe një tjetër u plagos si pasojë e një aksidenti të ndodhur te rrethrrotullimi i TEG-ut në Tiranë. Viktimat janë shtetas egjiptianë, ndërsa i plagosuri një 28-vjeçar nga Shqipëria. Aksidenti ndodhi rreth orës 16:20 të së mërkurës, kur një kamion betoniere u përplas me n",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-07-22T20:57:01+00:00",
-      "dateStr": "22 Jul, 20:57",
+      "date": "2026-07-22T21:26:25+00:00",
+      "dateStr": "22 Jul, 21:26",
       "isNew": true,
-      "id": "24 11784753821"
+      "id": "abc11784755585"
     },
     {
-      "title": "PARIS – Franca regjistron 12 500 shpërthime zjarresh pyjore",
-      "link": "https://24-ore.com/paris-franca-regjistron-12-500-shperthime-zjarresh-pyjore/",
-      "description": "PARIS, 22 korrik /ATSH -AA/ – Ministri francez i Punëve të Brendshme, Laurent Nunez, ka bërë të ditur se autoritetet franceze kanë regjistruar 12.500 shpërthime zjarresh pyjore që nga fillimi i vitit, ndërsa gati 44.000 hektarë tokë janë djegur në mbarë vendin, teksa zjarrfikësit vazhdojnë të luftoj",
+      "title": "Ferati: Nuk ka marrëveshje LVV-LDK, kemi diskutuar vetëm për parime",
+      "link": "https://24-ore.com/ferati-nuk-ka-marreveshje-lvv-ldk-kemi-diskutuar-vetem-per-parime/",
+      "description": "Sekretari i Lidhjes Demokratike të Kosovës (LDK), Ilir Ferati, ka mohuar se ekziston ndonjë marrëveshje mes LDK-së dhe Lëvizjes Vetëvendosje për bashkëpunim qeverisës. Duke folur në emisionin “Debat Plus” në TV Dukagjini, Ferati tha se mes dy subjekteve politike ka pasur vetëm diskutime për parime, ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-22T20:56:18+00:00",
-      "dateStr": "22 Jul, 20:56",
+      "date": "2026-07-22T21:23:20+00:00",
+      "dateStr": "22 Jul, 21:23",
       "isNew": true,
-      "id": "24 21784753778"
+      "id": "24 01784755400"
     },
     {
-      "title": "BRUKSEL – BE miraton blerjen e “Warner Bros” nga “Paramount”, vendos kushte për shpërndarjen e filmave",
-      "link": "https://24-ore.com/bruksel-be-miraton-blerjen-e-warner-bros-nga-paramount-vendos-kushte-per-shperndarjen-e-filmave/",
-      "description": "BRUKSEL, 22 korrik /ATSH-DPA/- Komisioni Evropian ka miratuar blerjen e studios amerikane të filmave “Warner Bros” nga rivali i saj “Paramount”, por me kushte që lidhen me shpërndarjen e filmave në Evropë. Komisioni vlerësoi se bashkimi nuk do të dëmtojë konkurrencën në prodhimin e filmave, pasi në ",
+      "title": "Atentati me 3 të plagosur në Elbasan, gazetari: Dyshohet për lajthitje në objektiv",
+      "link": "https://24-ore.com/atentati-me-3-te-plagosur-ne-elbasan-gazetari-dyshohet-per-lajthitje-ne-objektiv/",
+      "description": "Gazetari i Euronews Albania, Eni Ferhati, ka sjellë detaje të reja lidhur me plagosjen e trefishtë të ndodhur mbrëmjen e së hënës në Elbasan. Sipas tij, ngjarja ka ndodhur rreth orës 20:00, kur tre persona ndodheshin të ulur në ambientet e jashtme të një lokali. Në atë moment është afruar një person",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-22T20:56:05+00:00",
-      "dateStr": "22 Jul, 20:56",
+      "date": "2026-07-22T21:22:57+00:00",
+      "dateStr": "22 Jul, 21:22",
       "isNew": true,
-      "id": "24 31784753765"
+      "id": "24 11784755377"
     },
     {
-      "title": "Shtetasi i Maqedonisë privohet nga liria në Serbi, shkaktoi aksident duke e goditur një shofer ambulance",
-      "link": "https://24-ore.com/shtetasi-i-maqedonise-privohet-nga-liria-ne-serbi-shkaktoi-aksident-duke-e-goditur-nje-shofer-ambulance/",
-      "description": "Policia serbe arrestoi sot një shtetas maqedonas i cili goditi me kamion një shofer ambulance. Sipas informacionit nga Departamenti i Policisë së Leskovcit, ai u gjet dhe u ndalua pasi kamioni i tij goditi shoferin e një automjeti ambulance në korsinë e ndalimit emergjent pranë Grdelicës. I dyshuari",
+      "title": "Rama në ceremoninë e diplomimit të oficerëve të rinj: Deri në 2030 pagat e FA-së sa mesatarja e NATO-s",
+      "link": "https://24-ore.com/rama-ne-ceremonine-e-diplomimit-te-oficereve-te-rinj-deri-ne-2030-pagat-e-fa-se-sa-mesatarja-e-nato-s/",
+      "description": "Kryeministri Edi Rama mori pjesë mbrëmjen e kësaj të mërkure në ceremoninë e diplomimit të 67 oficerëve të rinj në Akademinë e Forcave të Armatosura. Rama uroi prindërit e të diplomuarve dhe vlerësoi përkushtimin e të rinjve që nisën zyrtarisht shërbimin në uniformë për Shqipërinë dhe Kosovën. Kreu ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-22T20:54:56+00:00",
-      "dateStr": "22 Jul, 20:54",
+      "date": "2026-07-22T21:22:19+00:00",
+      "dateStr": "22 Jul, 21:22",
       "isNew": true,
-      "id": "24 41784753696"
+      "id": "24 21784755339"
     },
     {
-      "title": "Simiqi e paraqet zbatimin e ligjit si “dëbim të serbëve”, ndonëse aksioni në Ujman u parapri nga kërkesa për dëshmi pronësie",
-      "link": "https://24-ore.com/simiqi-e-paraqet-zbatimin-e-ligjit-si-debim-te-serbeve-ndonese-aksioni-ne-ujman-u-parapri-nga-kerkesa-per-deshmi-pronesie/",
-      "description": "Nënkryetari i Listës Serbe, Igor Simiq, e ka cilësuar aksionin e institucioneve të Kosovës për rrënimin e objekteve pa leje pranë Liqenit të Ujmanit si vazhdim të “dëbimit të serbëve nga Kosova”, ndonëse procesi ishte pjesë e zbatimit të procedurave ligjore. Në një intervistë për televizionin serb P",
+      "title": "Vjedhja në Postën e Durrësit, Llabani: Ish-drejtoresha njihej si frekuentuese kazinosh, pas saj ka persona të tjerë",
+      "link": "https://24-ore.com/vjedhja-ne-posten-e-durresit-llabani-ish-drejtoresha-njihej-si-frekuentuese-kazinosh-pas-saj-ka-persona-te-tjere/",
+      "description": "Gazetarja Anduena Llabani ka folur në “Now” lidhur me vjedhjen në Postën e Durrësit dhe hetimet që janë hapur për ish-drejtoreshën e saj. Llabani thekson se ish-drejtoresha shihej si një person me probleme në menaxhimin e detyrës, si dhe njihej si frekuentuese e kazinove. Ajo shton se kjo çështje mu",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-22T20:44:53+00:00",
-      "dateStr": "22 Jul, 20:44",
+      "date": "2026-07-22T21:21:49+00:00",
+      "dateStr": "22 Jul, 21:21",
       "isNew": true,
-      "id": "24 51784753093"
+      "id": "24 31784755309"
+    },
+    {
+      "title": "Ish-prokurori kritikon ligjin e amnistisë penale për nënën 34-vjeçare: Ky është rast specifik që fëmija duhet të shkojë te nëna",
+      "link": "https://24-ore.com/ish-prokurori-kritikon-ligjin-e-amnistise-penale-per-nenen-34-vjecare-ky-eshte-rast-specifik-qe-femija-duhet-te-shkoje-te-nena/",
+      "description": "Ish prokurori, Ervin Karanxha, i ftuar këtë të martë në “Now” me Erla Mëhillin në Euroneës Albania, ka folur lidhur me rezervat e tij mbi amnistinë dhe çështjen e nënës së burgosur të tre të miturve. Sipas ish-prokurorit Karanxha, nëna duhet të lirohej nga amnistia penale, për arsyen se krimi për të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-22T21:21:29+00:00",
+      "dateStr": "22 Jul, 21:21",
+      "isNew": true,
+      "id": "24 41784755289"
+    },
+    {
+      "title": "SHBA pritet të nënshkruajë marrëveshje me Arabinë Saudite për programin bërthamor civil",
+      "link": "https://24-ore.com/shba-pritet-te-nenshkruaje-marreveshje-me-arabine-saudite-per-programin-berthamor-civil/",
+      "description": "Shtetet e Bashkuara pritet të nënshkruajnë një marrëveshje me Arabinë Saudite që do t’i mundësojë mbretërisë të zhvillojë një program bërthamor civil, sipas CBS News, partner i BBC-së. Sipas raportimeve, marrëveshja do t’u lejojë kompanive amerikane të ndërtojnë dhe të operojnë objekte për energji b",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-22T21:21:11+00:00",
+      "dateStr": "22 Jul, 21:21",
+      "isNew": true,
+      "id": "24 51784755271"
+    },
+    {
+      "title": "Irani paralajmëron SHBA-në dhe aleatët: Çdo sulm do të marrë përgjigje të fortë",
+      "link": "https://24-ore.com/irani-paralajmeron-shba-ne-dhe-aleatet-cdo-sulm-do-te-marre-pergjigje-te-forte/",
+      "description": "Ministri i Jashtëm i Iranit, Abbas Araghchi, i ka dërguar një mesazh paralajmërues Shteteve të Bashkuara dhe aleatëve të tyre, duke deklaruar se Teherani do të përgjigjet me forcë ndaj çdo sulmi kundër territorit ose infrastrukturës së tij. Në një postim në rrjetet sociale, kreu i diplomacisë irania",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-22T21:20:48+00:00",
+      "dateStr": "22 Jul, 21:20",
+      "isNew": true,
+      "id": "24 61784755248"
+    },
+    {
+      "title": "SHBA kërcënon me sanksione kompanitë kineze për vjedhjen në fushën e inteligjencës artificiale",
+      "link": "https://24-ore.com/shba-kercenon-me-sanksione-kompanite-kineze-per-vjedhjen-ne-fushen-e-inteligjences-artificiale/",
+      "description": "Sekretari i Thesarit i SHBA-së, Scott Bessent, paralajmëroi se kompanitë kineze mund të përballen me sanksione dhe kufizime eksporti nëse përfshihen në vjedhje në shkallë të gjerë të pronësisë intelektuale amerikane në fushën e inteligjencës artificiale. Në një postim në platformën X, Bessent tha se",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-22T21:20:22+00:00",
+      "dateStr": "22 Jul, 21:20",
+      "isNew": true,
+      "id": "24 71784755222"
+    },
+    {
+      "title": "Ushtarët polakë dhe gjermanë përforcojnë së bashku kufirin e Polonisë me Rusinë",
+      "link": "https://24-ore.com/ushtaret-polake-dhe-gjermane-perforcojne-se-bashku-kufirin-e-polonise-me-rusine/",
+      "description": "Ushtarët e Polonisë dhe Gjermanisë po punojnë së bashku për të përforcuar kufirin polak me Rusinë, në kuadër të përpjekjeve për të forcuar krahun lindor të NATO-s, njoftoi kryeministri polak Donald Tusk. Në një postim në platformën X, Tusk bëri të ditur se forcat e të dy vendeve janë angazhuar në pu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-22T21:20:07+00:00",
+      "dateStr": "22 Jul, 21:20",
+      "isNew": true,
+      "id": "24 81784755207"
+    },
+    {
+      "title": "Shpërthime të shumta në Irak, sistemet e mbrojtjes ajrore rrëzojnë pesë dronë",
+      "link": "https://24-ore.com/shperthime-te-shumta-ne-irak-sistemet-e-mbrojtjes-ajrore-rrezojne-pese-drone/",
+      "description": "Pesë dronë vetëvrasës u rrëzuan mbi qytetin verior të Irakut, Erbil, pasi u interceptuan nga sistemet e mbrojtjes ajrore, ndërsa shpërthime të shumta u dëgjuan në të gjithë qytetin, raportuan mediat lokale. Sipas agjencisë Kurdistan24, sistemet e mbrojtjes ajrore shkatërruan të pesë dronët në hapësi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-22T21:19:51+00:00",
+      "dateStr": "22 Jul, 21:19",
+      "isNew": true,
+      "id": "24 91784755191"
+    },
+    {
+      "title": "Egnatia, çmenduri në Champions/ Skuadra shqiptare barazon 3-3 me rivalin slloven, Celje",
+      "link": "https://abcnews.al/egnatia-cmenduri-ne-champions-skuadra-shqiptare-barazon-3-3-me-rivalin-slloven-celje/",
+      "description": "Egnatia arriti një barazim spektakolar në ndeshjen e parë të raundit të dytë në Champions. Skuadra kampione e Shqipërisë u ndal në rezultatin 3-3 në shtëpi përballë ekipit nga Sllovenia, Celje, ndërsa dueli ishte tërësisht i hapur. Trajneri Nevil Dede I habiti të gjithë duke lënë në stol kapitenin A",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-22T21:13:14+00:00",
+      "dateStr": "22 Jul, 21:13",
+      "isNew": true,
+      "id": "abc21784754794"
+    },
+    {
+      "title": "Pak Spanjë në ekipin e botërorit/ Vetëm 3 lojtarë kampionë në formacionin më të mirë",
+      "link": "https://abcnews.al/pak-spanje-ne-ekipin-e-boterorit-vetem-3-lojtare-kampione-ne-formacionin-me-te-mire/",
+      "description": "Përse të mos meritonte më shumë? Spanja u shpall me meritë të plotë kampione e botës, dhe disa nga lojtarët e saj spikatën dhe u nderuan me çmime individuale. Gjithsesi, kur vjen puna për formacionin më të mirë të Botërorit, nga skuadra iberike ka fare pak, vetëm 3 përfaqësues. Këta janë mbrojtësit ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-22T21:05:35+00:00",
+      "dateStr": "22 Jul, 21:05",
+      "isNew": true,
+      "id": "abc31784754335"
     },
     {
       "title": "SHBA pritet të nënshkruajë marrëveshje me Arabinë Saudite për programin bërthamor civil",
@@ -78,51 +166,7 @@
       "date": "2026-07-22T20:43:13+00:00",
       "dateStr": "22 Jul, 20:43",
       "isNew": true,
-      "id": "abc01784752993"
-    },
-    {
-      "title": "Kuçi: Simiqi me retorikë nxitëse po e paraqet zbatimin e ligjit në veri si “spastrim etnik”",
-      "link": "https://24-ore.com/kuci-simiqi-me-retorike-nxitese-po-e-paraqet-zbatimin-e-ligjit-ne-veri-si-spastrim-etnik/",
-      "description": "Hulumtuesi i Institutit “Octopus”, Gurakuq Kuçi, ka reaguar ndaj deklaratave të nënkryetarit të Listës Serbe, Igor Simiq, duke e akuzuar atë se me retorikë nxitëse po përpiqet ta paraqesë zbatimin e ligjit në Kosovë si “spastrim etnik”. Sipas Kuçit, deklarata e Simiqit, i cili në një intervistë për ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-22T20:30:04+00:00",
-      "dateStr": "22 Jul, 20:30",
-      "isNew": true,
-      "id": "24 61784752204"
-    },
-    {
-      "title": "“Transformimi nuk ndalet”, Rama: Ushtarakët më parë, të nënvlerësuar! Sot përkujdesje e veçantë për ta.",
-      "link": "https://24-ore.com/transformimi-nuk-ndalet-rama-ushtaraket-me-pare-te-nenvleresuar-sot-perkujdesje-e-vecante-per-ta/",
-      "description": "Kryeministri Edi Rama mori pjesë në ceremoninë e diplomimit të 67 oficerëve të rinj në Akademinë e Forcave të Armatosura, një institucion në rrugën e transformimit sipas standardeve euroatlantike. Gjatë fjalës së tij, Rama u shpreh se më parë, ushtarakët ishin të nënvlerësuar, ndërsa sot për ta ka p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-22T20:27:26+00:00",
-      "dateStr": "22 Jul, 20:27",
-      "isNew": true,
-      "id": "24 71784752046"
-    },
-    {
-      "title": "Libri, The Albanian files, u gjykua para se të lexohej",
-      "link": "https://24-ore.com/libri-the-albanian-files-u-gjykua-para-se-te-lexohej/",
-      "description": "Nga Baton Haxhiu PJESA I Polemikat për “The Albanian Files” nisën shumë përpara se libri të hapej. Por sapo kalon faqet e para, kupton se debati i vërtetë nuk është për Edi Ramën. Është për mënyrën se si ndërtohet një qytet dhe për aftësinë tonë për ta lexuar një vepër përpara se ta gjykojmë. Për [&",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-22T20:26:56+00:00",
-      "dateStr": "22 Jul, 20:26",
-      "isNew": true,
-      "id": "24 81784752016"
-    },
-    {
-      "title": "HUNGARI – Orban u bën thirrje mbështetësve të kundërshtojnë “tiraninë” e qeverisë së re",
-      "link": "https://24-ore.com/hungari-orban-u-ben-thirrje-mbeshtetesve-te-kundershtojne-tiranine-e-qeverise-se-re/",
-      "description": "&#8211; Ish-kryeministri nacionalist i Hungarisë, Viktor Orbán, i cili humbi pushtetin pas 16 vitesh në zgjedhjet e prillit, u bëri thirrje mbështetësve të tij të “rikthejnë demokracinë”, duke akuzuar qeverinë e re të kryeministrit, Peter Magyar se e ka shndërruar vendin në një shtet jodemokratik, s",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-22T20:26:16+00:00",
-      "dateStr": "22 Jul, 20:26",
-      "isNew": true,
-      "id": "24 91784751976"
+      "id": "abc41784752993"
     },
     {
       "title": "Tre miliardë euro për sigurinë kombëtare, Greqia pajiset me teknologjinë më të avancuar izraelite",
@@ -133,7 +177,7 @@
       "date": "2026-07-22T20:22:50+00:00",
       "dateStr": "22 Jul, 20:22",
       "isNew": true,
-      "id": "abc11784751770"
+      "id": "abc51784751770"
     },
     {
       "title": "Ukraina godet 13 anije ruse në Detin e Zi dhe Detin Azov, rritet izolimi i Krimesë",
@@ -144,7 +188,7 @@
       "date": "2026-07-22T20:07:55+00:00",
       "dateStr": "22 Jul, 20:07",
       "isNew": true,
-      "id": "abc21784750875"
+      "id": "abc61784750875"
     },
     {
       "title": "“Ushtarakët më parë, të nënvlerësuar”/ Rama: Sot përkujdesje e veçantë për ta. Transformimi nuk ndalet",
@@ -155,7 +199,7 @@
       "date": "2026-07-22T19:45:49+00:00",
       "dateStr": "22 Jul, 19:45",
       "isNew": true,
-      "id": "abc31784749549"
+      "id": "abc71784749549"
     },
     {
       "title": "Diplomimi i 67 oficerëve të rinj/ Rama: Ditë krenarie për Forcat e Armatosura. Deri në 2030 paga si të NATO-s",
@@ -166,7 +210,7 @@
       "date": "2026-07-22T19:40:36+00:00",
       "dateStr": "22 Jul, 19:40",
       "isNew": true,
-      "id": "abc41784749236"
+      "id": "abc81784749236"
     },
     {
       "title": "SHBA marrëveshje me Arabinë Saudite/ Krisafi: Strategji e Trump për investime. Mema: SHBA nuk merr garanci…",
@@ -177,51 +221,7 @@
       "date": "2026-07-22T19:23:48+00:00",
       "dateStr": "22 Jul, 19:23",
       "isNew": true,
-      "id": "abc51784748228"
-    },
-    {
-      "title": "Irani kërcënon me sulme ndaj infrastrukturës civile në Lindjen e Mesme nëse SHBA godet objektet iraniane",
-      "link": "https://abcnews.al/irani-kercenon-me-sulme-ndaj-infrastruktures-civile-ne-lindjen-e-mesme-nese-shba-godet-objektet-iraniane/",
-      "description": "Irani ka reaguar ashpër se do të hakmerret me sulme ndaj infrastrukturës civile në të gjithë Lindjen e Mesme, përfshirë ura dhe objekte energjetike, nëse Shtetet e Bashkuara të Amerikës (SHBA) kryejnë sulme ndaj objekteve iraniane. Paralajmërimi erdhi si përgjigje e drejtpërdrejtë ndaj një deklarate",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-22T19:06:42+00:00",
-      "dateStr": "22 Jul, 19:06",
-      "isNew": true,
-      "id": "abc61784747202"
-    },
-    {
-      "title": "SHBA arkëtoi 13 miliardë dollarë nga nafta e Venezuelës, vetëm 300 milionë janë të deklaruara",
-      "link": "https://abcnews.al/shba-arketoi-13-miliarde-dollare-nga-nafta-e-venezueles-vetem-300-milione-jane-te-deklaruara/",
-      "description": "Shtetet e Bashkuara kanë mbledhur rreth 13 miliardë dollarë nga eksportet e naftës së Venezuelës që nga janari, kur morën kontrollin mbi shitjet e naftës së këtij vendi, por destinimi i këtyre fondeve mbetet i paqartë. Fillimisht, Uashingtoni deklaroi se paratë do të mbaheshin në një fond mirëbesimi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-22T18:36:59+00:00",
-      "dateStr": "22 Jul, 18:36",
-      "isNew": true,
-      "id": "abc71784745419"
-    },
-    {
-      "title": "Tirana Live me Rovena Neziri, (22/07/2026)",
-      "link": "https://abcnews.al/tirana-live-me-rovena-neziri-22-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-22T18:34:19+00:00",
-      "dateStr": "22 Jul, 18:34",
-      "isNew": true,
-      "id": "abc81784745259"
-    },
-    {
-      "title": "VIDEO/ Aksidenti i rëndë në afërsi të TEG-ut, momenti kur betonierja përplaset me makinën dhe bie nga mbikalimi",
-      "link": "https://abcnews.al/video-aksidenti-i-rende-ne-afersi-te-teg-ut-momenti-kur-betonierja-perplaset-me-makinen-dhe-bie-nga-mbikalimi/",
-      "description": "ABC News ka siguruar pamje nga aksidenti i rëndë i ndodhur këtë të mërkurë tek rrethrrotullimi i TEG-ut, kur një kamion betoniere u përplas me një automjet tip &#8220;Audi&#8221; ku pati dy viktima e një të plagosur. Nga pamjet, shihet se betonierja përplaset me mjetin &#8220;Audi&#8221;. Pas përpla",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-22T18:17:31+00:00",
-      "dateStr": "22 Jul, 18:17",
-      "isNew": true,
-      "id": "abc91784744251"
+      "id": "abc91784748228"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
