@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-07-22T02:09:40.648521+00:00",
+  "lastUpdated": "2026-07-22T05:44:31.756546+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Stuhia e fortë shkul pemët në Sarandë",
+      "link": "https://abcnews.al/stuhia-e-forte-shkul-pemet-ne-sarande/",
+      "description": "Pas stuhisë së fortë që përfshiu mbrëmjen e djeshme qytetin e Sarandës, dëme të shumta janë konstatuar në lulishten “Miqësia”. Era e fuqishme ka rrëzuar dhe dëmtuar një numër pemësh, duke lënë pas degë të thyera dhe pemë të shkulura nga rrënjët. Pamjet e mëngjesit të sotëm tregojnë qartë forcën e st",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-22T05:40:09+00:00",
+      "dateStr": "22 Jul, 05:40",
+      "isNew": true,
+      "id": "abc01784698809"
+    },
+    {
+      "title": "Parashikimi i motit/ Si do variojnë temperaturat përgjatë ditës",
+      "link": "https://abcnews.al/parashikimi-i-motit-si-do-variojne-temperaturat-pergjate-dites-128/",
+      "description": "Ditën e mërkurë vendi ynë do të jetë nën ndikimin e masave ajrore të paqëndrueshme. Moti parashikohet me vranësira të cilat pas orëve të mëngjesit do të vijnë në pakësim. Reshjet e shiut me intensitet të ulët parashikohen të jenë prezente që në orët e para të 24-orëshit deri në orët e mëngjesit në v",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-22T05:20:07+00:00",
+      "dateStr": "22 Jul, 05:20",
+      "isNew": true,
+      "id": "abc11784697607"
+    },
+    {
+      "title": "Moti sot, Kosova në nivelin portokalli të sigurisë – IHK njofton për shi, breshër e stuhi",
+      "link": "https://24-ore.com/moti-sot-kosova-ne-nivelin-portokalli-te-sigurise-ihk-njofton-per-shi-bresher-e-stuhi/",
+      "description": "Instituti Hidrometeorologjik i Kosovës (IHMK) në njoftimin për motin ka njoftuar se Kosova të mërkurën është në nivelin portokalli të sigurisë, duke paralajmëruar për shi, breshër, stuhi e bubullima. IHK njofton se paralajmërimi vlen për datën 22 korrik, ora 00:00–23:59. “Gjatë datës 22 korrik 2026 ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-22T05:19:59+00:00",
+      "dateStr": "22 Jul, 05:19",
+      "isNew": true,
+      "id": "24 01784697599"
+    },
+    {
+      "title": "Horoskopi, çfarë parashikojnë yjet për ju",
+      "link": "https://abcnews.al/horoskopi-cfare-parashikojne-yjet-per-ju-259/",
+      "description": "Dashi Ndikimi i yjeve nuk do jete shume i mire gjate kësaj dite dhe ekuilibri ka rrezik te prishet. Nuk do arrini dot as te ruani qetësinë para disa problemeve qe do iu dalin. Beqaret duhet t’i dëgjojnë me kujdes këshillat e disa miqve sepse ata duan me te mirën për ta. Ne planin financiar [...]Read",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-22T05:10:19+00:00",
+      "dateStr": "22 Jul, 05:10",
+      "isNew": true,
+      "id": "abc21784697019"
+    },
+    {
+      "title": "Dumbabistët e rinj",
+      "link": "https://24-ore.com/dumbabistet-e-rinj/",
+      "description": "“Shoku Enver, marrtë nga ditët e mia!”, thoshte shqiptari jo më larg se 40 vjet më parë. Shoku Enver nuk i mori vërtet ato ditë, por shqiptarëve u mori shumë vite, shumë liri dhe të drejtën për të menduar ndryshe. Megjithatë, njeriu që e thoshte këtë fjali ndihej krenar. Ishte gati t’i falte udhëheq",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-22T03:19:44+00:00",
+      "dateStr": "22 Jul, 03:19",
+      "isNew": true,
+      "id": "24 11784690384"
+    },
     {
       "title": "“Shkodra pret më shumë turistë këtë vit”, gazetari: Rritje deri në 25% e vizitorëve",
       "link": "https://24-ore.com/shkodra-pret-me-shume-turiste-kete-vit-gazetari-rritje-deri-ne-25-e-vizitoreve/",
@@ -12,7 +67,7 @@
       "date": "2026-07-21T22:20:19+00:00",
       "dateStr": "21 Jul, 22:20",
       "isNew": true,
-      "id": "24 01784672419"
+      "id": "24 21784672419"
     },
     {
       "title": "“Partizani”/ Beqiri: Oerd Bylykbashi kërcënoi gjeneralin për kalimin e pronësisë. Balliu: Berisha, shkatërrues i demokracisë",
@@ -23,7 +78,7 @@
       "date": "2026-07-21T21:38:34+00:00",
       "dateStr": "21 Jul, 21:38",
       "isNew": true,
-      "id": "abc01784669914"
+      "id": "abc31784669914"
     },
     {
       "title": "Lamallari: Xhamat e errët do hiqen/ Ministri i Brendshëm deklaroi se nuk do të bëhen tolerime",
@@ -34,7 +89,7 @@
       "date": "2026-07-21T21:29:11+00:00",
       "dateStr": "21 Jul, 21:29",
       "isNew": true,
-      "id": "abc11784669351"
+      "id": "abc41784669351"
     },
     {
       "title": "Gjini: Kurti po mundohet ta përçajë LDK-në, duke e thirrur në bashkëqeverisje",
@@ -45,7 +100,7 @@
       "date": "2026-07-21T21:15:03+00:00",
       "dateStr": "21 Jul, 21:15",
       "isNew": true,
-      "id": "24 11784668503"
+      "id": "24 31784668503"
     },
     {
       "title": "Behlul Jashari, kronisti i qëndresës që u harrua nga Kosova e Shqipëria",
@@ -56,7 +111,7 @@
       "date": "2026-07-21T21:13:15+00:00",
       "dateStr": "21 Jul, 21:13",
       "isNew": true,
-      "id": "24 21784668395"
+      "id": "24 41784668395"
     },
     {
       "title": "SHBA – Hegseth: Lufta me Iranin ka kushtuar 37,5 miliardë dollarë",
@@ -67,7 +122,7 @@
       "date": "2026-07-21T21:12:21+00:00",
       "dateStr": "21 Jul, 21:12",
       "isNew": true,
-      "id": "24 31784668341"
+      "id": "24 51784668341"
     },
     {
       "title": "UASHINGTON – Trump: Pas 40 vitesh, SHBA-ja rikthen fluturimet direkte drejt Libanit",
@@ -78,7 +133,7 @@
       "date": "2026-07-21T21:12:07+00:00",
       "dateStr": "21 Jul, 21:12",
       "isNew": true,
-      "id": "24 41784668327"
+      "id": "24 61784668327"
     },
     {
       "title": "Kujdes! Farat chia janë superushqim, por jo për këto kategori njerëzish",
@@ -89,7 +144,7 @@
       "date": "2026-07-21T21:11:52+00:00",
       "dateStr": "21 Jul, 21:11",
       "isNew": true,
-      "id": "24 51784668312"
+      "id": "24 71784668312"
     },
     {
       "title": "VIDEO/ Zjarr në vendgrumbullimin e mbetjeve në Krujë, era e fortë favorizon përhapjen e flakëve",
@@ -100,7 +155,7 @@
       "date": "2026-07-21T21:10:04+00:00",
       "dateStr": "21 Jul, 21:10",
       "isNew": true,
-      "id": "abc21784668204"
+      "id": "abc51784668204"
     },
     {
       "title": "UASHINGTON – Hegseth: Lufta me Iranin i ka kushtuar SHBA-së 37,5 miliardë dollarë",
@@ -111,7 +166,7 @@
       "date": "2026-07-21T20:58:04+00:00",
       "dateStr": "21 Jul, 20:58",
       "isNew": true,
-      "id": "24 61784667484"
+      "id": "24 81784667484"
     },
     {
       "title": "Protesta dhe kërkesat/ Preç Zogaj: Sinjal për reflektim! Prekin probleme thelbësore të demokracisë dhe qeverisjes",
@@ -122,29 +177,7 @@
       "date": "2026-07-21T20:56:37+00:00",
       "dateStr": "21 Jul, 20:56",
       "isNew": true,
-      "id": "24 71784667397"
-    },
-    {
-      "title": "Pesëmbëdhjetë persona të lënduar janë shtruar në dy klinika pas stuhisë që goditi Shkupin",
-      "link": "https://24-ore.com/pesembedhjete-persona-te-lenduar-jane-shtruar-ne-dy-klinika-pas-stuhise-qe-goditi-shkupin/",
-      "description": "Pesëmbëdhjetë persona të lënduar janë shtruar në dy klinika pas stuhisë që goditi Shkupin këtë pasdite, nëntë prej të cilëve janë shtruar në Klinikën për Traumatologji, Sëmundje Ortopedike, Anestezi, Reanimacion, Kujdes Intensiv dhe Qendrën e Urgjencës, dhe gjashtë në Klinikën për Sëmundje Kirurgjik",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-21T20:54:43+00:00",
-      "dateStr": "21 Jul, 20:54",
-      "isNew": true,
-      "id": "24 81784667283"
-    },
-    {
-      "title": "Protestat, Vangjeli: Sot kutitë hapen dhe nuk ka më plumba ndaj protestuesve",
-      "link": "https://24-ore.com/protestat-vangjeli-sot-kutite-hapen-dhe-nuk-ka-me-plumba-ndaj-protestuesve/",
-      "description": "Analisti Lorenc Vangjeli deklaroi në emisionin “Trialog” të Alba Alishanit në RTSH1 se protestat e zhvilluara në vend kanë sjellë një fitore konkrete dhe të pakthyeshme për të drejtën e qytetarëve për të protestuar pa u frikësuar nga dhuna shtetërore. “Sot kutitë hapen dhe falë asaj proteste, kjo ta",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-21T20:39:57+00:00",
-      "dateStr": "21 Jul, 20:39",
-      "isNew": true,
-      "id": "24 91784666397"
+      "id": "24 91784667397"
     },
     {
       "title": "Zelensky shkarkon shefin e ushtrisë ukrainase",
@@ -155,7 +188,7 @@
       "date": "2026-07-21T20:39:07+00:00",
       "dateStr": "21 Jul, 20:39",
       "isNew": true,
-      "id": "abc31784666347"
+      "id": "abc61784666347"
     },
     {
       "title": "Azerbajxhani furnizon me gaz Gjermaninë",
@@ -166,7 +199,7 @@
       "date": "2026-07-21T20:25:21+00:00",
       "dateStr": "21 Jul, 20:25",
       "isNew": true,
-      "id": "abc41784665521"
+      "id": "abc71784665521"
     },
     {
       "title": "Edicioni qendror me Juli Krisafi, (21/07/2026)",
@@ -177,7 +210,7 @@
       "date": "2026-07-21T20:20:32+00:00",
       "dateStr": "21 Jul, 20:20",
       "isNew": true,
-      "id": "abc51784665232"
+      "id": "abc81784665232"
     },
     {
       "title": "VIDEO/ “Dimër” në verë, stuhi e reshje shiu në qytetin e Vlorës",
@@ -188,40 +221,7 @@
       "date": "2026-07-21T19:47:47+00:00",
       "dateStr": "21 Jul, 19:47",
       "isNew": true,
-      "id": "abc61784663267"
-    },
-    {
-      "title": "Irani paralajmëron Bullgarinë që të mos e lejojë SHBA të përdorë bazat e saj",
-      "link": "https://abcnews.al/irani-paralajmeron-bullgarine-qe-te-mos-e-lejoje-shba-te-perdore-bazat-e-saj/",
-      "description": "Zëdhënësi i Ministrisë së Jashtme të Iranit paralajmëroi Bullgarinë që të mos lejojë Shtetet e Bashkuara të përdorin bazat e saj për operacione ushtarake kundër Republikës Islamike. Esmail Baqaei tha më 21 korrik se çdo pjesëmarrje dhe bashkëpunim në përgatitjen dhe zbatimin e sulmeve amerikane “do ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-21T19:26:58+00:00",
-      "dateStr": "21 Jul, 19:26",
-      "isNew": true,
-      "id": "abc71784662018"
-    },
-    {
-      "title": "Lufta në Ukrainë/ Shala: Ushtria ruse është mobilizuar në rrafsh më të gjerë. Neziri: NATO nuk është përfshirë",
-      "link": "https://abcnews.al/lufta-ne-ukraine-shala-ushtria-ruse-eshte-mobilizuar-ne-rrafsh-me-te-gjere-neziri-nato-nuk-eshte-perfshire/",
-      "description": "Sipas ekspertëve të sigurisë dhe ushtarakëve, përpjekjet diplomatique për paqe midis Rusisë dhe Ukrainës përballen me vështirësi të mëdha për shkak të kërkesave të ngurta të Moskës për lëshim territori. Eksperti Drizan Shala alarmon se vendet e NATO-s dhe BE-së kanë sinjalizuar një mobilizim më të g",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-21T19:25:06+00:00",
-      "dateStr": "21 Jul, 19:25",
-      "isNew": true,
-      "id": "abc81784661906"
-    },
-    {
-      "title": "Rama reagon ndaj kritikave për ‘Paketën e Maleve’: 90% janë profile fallco të korbave të opozitave imagjinare",
-      "link": "https://abcnews.al/rama-reagon-ndaj-kritikave-per-paketen-e-maleve-90-jane-profile-fallco-te-korbave-te-opozitave-imagjinare/",
-      "description": "Kryeministri Edi Rama ka reaguar ashpër në rrjetet sociale ndaj kritikave dhe pretendimeve për &#8220;Paketën e Maleve&#8221;, duke i cilësuar ato si të pavërteta. Përmes një deklaratë publike, ai pohoi se 90% e profileve që kundërshtojnë këtë projekt janë false dhe të orkestruara nga eksponentë të ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-21T19:10:51+00:00",
-      "dateStr": "21 Jul, 19:10",
-      "isNew": true,
-      "id": "abc91784661051"
+      "id": "abc91784663267"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
