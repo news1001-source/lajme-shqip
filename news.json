@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-07-23T00:00:10.879321+00:00",
+  "lastUpdated": "2026-07-23T03:36:28.347215+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Rosa Parks dhe fuqia e  protestës",
+      "link": "https://24-ore.com/rosa-parks-dhe-fuqia-e-protestes/",
+      "description": "Në Detroit, ku unë jetoj, kaloj shpesh nëpër një rrugë që quhet Rosa Parks Boulevard. Edhe kur më rastis të marr ndonjë autobus për të shkuar diku nga stacioni qendror i autobusëve në Detroit, ai quhet Rosa Parks Transit Center. Rosa Parks është një emër që mbahet mend lehtë dhe fiksohet në mendje. ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-23T01:42:39+00:00",
+      "dateStr": "23 Jul, 01:42",
+      "isNew": true,
+      "id": "24 01784770959"
+    },
+    {
+      "title": "Blendi Kajsiu: Çfarë është “Shqipëria e re”?",
+      "link": "https://24-ore.com/blendi-kajsiu-cfare-eshte-shqiperia-e-re/",
+      "description": "“Shqipëria e Re” është ndoshta koncepti politik më i rëndësishëm dhe më pak i studiuar i protestës sociale më të bukur dhe më madhështore që ka ndodhur në Shqipëri që nga rënia e komunizmit. Rëndësia dhe potenciali politik i këtij koncepti qëndron në dimensionin e tij të dyfishtë si aspiratë nga një",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-23T00:50:21+00:00",
+      "dateStr": "23 Jul, 00:50",
+      "isNew": true,
+      "id": "24 11784767821"
+    },
+    {
+      "title": "BERLIN – Gjermania miraton projektin franko-rus për karburantin bërthamor pavarësisht shqetësimeve të sigurisë",
+      "link": "https://24-ore.com/berlin-gjermania-miraton-projektin-franko-rus-per-karburantin-berthamor-pavaresisht-shqetesimeve-te-sigurise/",
+      "description": "BERLIN, 22 korrik /ATSH -AA/ Autoritetet gjermane kanë miratuar një projekt të diskutueshëm që i lejon një filial të kompanisë franceze të energjisë bërthamore Framatome të prodhojë karburant bërthamor të projektuar nga Rusia në bashkëpunim me kompaninë shtetërore ruse Rosatom. Ministria e Mjedisit ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-23T00:11:38+00:00",
+      "dateStr": "23 Jul, 00:11",
+      "isNew": true,
+      "id": "24 21784765498"
+    },
+    {
+      "title": "Kompensimi 10% i TVSH, aplikojnë mbi 1 mijë fermerë për një vlerë 3,5 mln euro",
+      "link": "https://24-ore.com/kompensimi-10-i-tvsh-aplikojne-mbi-1-mije-fermere-per-nje-vlere-35-mln-euro/",
+      "description": "Arrin mbi 1 mij&#235; numri i aplikimeve nga fermer&#235;t p&#235;r p&#235;rfitimin e kompensimit 10% t&#235; TVSH p&#235;rmes autofaturave t&#235; l&#235;shuara ndaj tyre nga p&#235;rpunuesit apo grumbulluesit e licencuar. Sipas t&#235; dh&#235;nave t&#235; administrat&#235;s tatimore deri m&#235; ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-23T00:01:50+00:00",
+      "dateStr": "23 Jul, 00:01",
+      "isNew": true,
+      "id": "24 31784764910"
+    },
     {
       "title": "Ku po shkon protesta? Elezi: Njerëzit që merren me drejtimin e saj, të paaftë. Petraj: Ka betejë të brendshme mes organizatorëve",
       "link": "https://abcnews.al/ku-po-shkon-protesta-elezi-njerezit-qe-merren-me-drejtimin-e-saj-te-paafte-petraj-ka-beteje-te-brendshme-mes-organizatoreve/",
@@ -34,7 +78,7 @@
       "date": "2026-07-22T21:23:20+00:00",
       "dateStr": "22 Jul, 21:23",
       "isNew": true,
-      "id": "24 01784755400"
+      "id": "24 41784755400"
     },
     {
       "title": "Atentati me 3 të plagosur në Elbasan, gazetari: Dyshohet për lajthitje në objektiv",
@@ -45,7 +89,7 @@
       "date": "2026-07-22T21:22:57+00:00",
       "dateStr": "22 Jul, 21:22",
       "isNew": true,
-      "id": "24 11784755377"
+      "id": "24 51784755377"
     },
     {
       "title": "Rama në ceremoninë e diplomimit të oficerëve të rinj: Deri në 2030 pagat e FA-së sa mesatarja e NATO-s",
@@ -56,7 +100,7 @@
       "date": "2026-07-22T21:22:19+00:00",
       "dateStr": "22 Jul, 21:22",
       "isNew": true,
-      "id": "24 21784755339"
+      "id": "24 61784755339"
     },
     {
       "title": "Vjedhja në Postën e Durrësit, Llabani: Ish-drejtoresha njihej si frekuentuese kazinosh, pas saj ka persona të tjerë",
@@ -67,7 +111,7 @@
       "date": "2026-07-22T21:21:49+00:00",
       "dateStr": "22 Jul, 21:21",
       "isNew": true,
-      "id": "24 31784755309"
+      "id": "24 71784755309"
     },
     {
       "title": "Ish-prokurori kritikon ligjin e amnistisë penale për nënën 34-vjeçare: Ky është rast specifik që fëmija duhet të shkojë te nëna",
@@ -78,7 +122,7 @@
       "date": "2026-07-22T21:21:29+00:00",
       "dateStr": "22 Jul, 21:21",
       "isNew": true,
-      "id": "24 41784755289"
+      "id": "24 81784755289"
     },
     {
       "title": "SHBA pritet të nënshkruajë marrëveshje me Arabinë Saudite për programin bërthamor civil",
@@ -89,51 +133,7 @@
       "date": "2026-07-22T21:21:11+00:00",
       "dateStr": "22 Jul, 21:21",
       "isNew": true,
-      "id": "24 51784755271"
-    },
-    {
-      "title": "Irani paralajmëron SHBA-në dhe aleatët: Çdo sulm do të marrë përgjigje të fortë",
-      "link": "https://24-ore.com/irani-paralajmeron-shba-ne-dhe-aleatet-cdo-sulm-do-te-marre-pergjigje-te-forte/",
-      "description": "Ministri i Jashtëm i Iranit, Abbas Araghchi, i ka dërguar një mesazh paralajmërues Shteteve të Bashkuara dhe aleatëve të tyre, duke deklaruar se Teherani do të përgjigjet me forcë ndaj çdo sulmi kundër territorit ose infrastrukturës së tij. Në një postim në rrjetet sociale, kreu i diplomacisë irania",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-22T21:20:48+00:00",
-      "dateStr": "22 Jul, 21:20",
-      "isNew": true,
-      "id": "24 61784755248"
-    },
-    {
-      "title": "SHBA kërcënon me sanksione kompanitë kineze për vjedhjen në fushën e inteligjencës artificiale",
-      "link": "https://24-ore.com/shba-kercenon-me-sanksione-kompanite-kineze-per-vjedhjen-ne-fushen-e-inteligjences-artificiale/",
-      "description": "Sekretari i Thesarit i SHBA-së, Scott Bessent, paralajmëroi se kompanitë kineze mund të përballen me sanksione dhe kufizime eksporti nëse përfshihen në vjedhje në shkallë të gjerë të pronësisë intelektuale amerikane në fushën e inteligjencës artificiale. Në një postim në platformën X, Bessent tha se",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-22T21:20:22+00:00",
-      "dateStr": "22 Jul, 21:20",
-      "isNew": true,
-      "id": "24 71784755222"
-    },
-    {
-      "title": "Ushtarët polakë dhe gjermanë përforcojnë së bashku kufirin e Polonisë me Rusinë",
-      "link": "https://24-ore.com/ushtaret-polake-dhe-gjermane-perforcojne-se-bashku-kufirin-e-polonise-me-rusine/",
-      "description": "Ushtarët e Polonisë dhe Gjermanisë po punojnë së bashku për të përforcuar kufirin polak me Rusinë, në kuadër të përpjekjeve për të forcuar krahun lindor të NATO-s, njoftoi kryeministri polak Donald Tusk. Në një postim në platformën X, Tusk bëri të ditur se forcat e të dy vendeve janë angazhuar në pu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-22T21:20:07+00:00",
-      "dateStr": "22 Jul, 21:20",
-      "isNew": true,
-      "id": "24 81784755207"
-    },
-    {
-      "title": "Shpërthime të shumta në Irak, sistemet e mbrojtjes ajrore rrëzojnë pesë dronë",
-      "link": "https://24-ore.com/shperthime-te-shumta-ne-irak-sistemet-e-mbrojtjes-ajrore-rrezojne-pese-drone/",
-      "description": "Pesë dronë vetëvrasës u rrëzuan mbi qytetin verior të Irakut, Erbil, pasi u interceptuan nga sistemet e mbrojtjes ajrore, ndërsa shpërthime të shumta u dëgjuan në të gjithë qytetin, raportuan mediat lokale. Sipas agjencisë Kurdistan24, sistemet e mbrojtjes ajrore shkatërruan të pesë dronët në hapësi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-22T21:19:51+00:00",
-      "dateStr": "22 Jul, 21:19",
-      "isNew": true,
-      "id": "24 91784755191"
+      "id": "24 91784755271"
     },
     {
       "title": "Egnatia, çmenduri në Champions/ Skuadra shqiptare barazon 3-3 me rivalin slloven, Celje",
