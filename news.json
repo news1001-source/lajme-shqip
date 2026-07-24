@@ -1,29 +1,161 @@
 {
-  "lastUpdated": "2026-07-24T20:16:35.967139+00:00",
+  "lastUpdated": "2026-07-24T22:00:52.158712+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Rasti i Vlorës, investimet strategjike përfituan më shumë sesa dhanë",
-      "link": "https://24-ore.com/rasti-i-vlores-investimet-strategjike-perfituan-me-shume-sesa-dhane/",
-      "description": "N&#235; vitet e fundit, Vlora &#235;sht&#235; shnd&#235;rruar n&#235; nj&#235; nga qarqet me p&#235;rqendrimin m&#235; t&#235; madh t&#235; investimeve publike n&#235; vend. Rrug&#235;t e reja, tunelet, sh&#235;titoret, uj&#235;sjell&#235;sit, kanalizimet, rrjetet elektrike dhe infrastruktura mb&#23",
-      "source": "24 ORE",
+      "title": "Tragjedia në Roskovec/ Karamuço tregon dinamikën: Policia gjeti përmes sinjalit telefonik ku autori kishte parkuar makinën",
+      "link": "https://abcnews.al/tragjedia-ne-roskovec-karamuco-tregon-dinamiken-policia-gjeti-permes-sinjalit-telefonik-ku-autori-kishte-parkuar-makinen/",
+      "description": "Eksperti i kriminalistikës, Ervin Karamuço thotë se Refit Buzi, 35-vjeçari i cili vrau ish vjehrrin, ish vjehrrën dhe më pas veten, e përndiqte ish partneren dhe ishte në arrest shtëpie. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Karamuço u shpreh se pasi qëlloi me armë ish vjehrr",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-07-24T20:13:19+00:00",
-      "dateStr": "24 Jul, 20:13",
+      "date": "2026-07-24T21:24:22+00:00",
+      "dateStr": "24 Jul, 21:24",
       "isNew": true,
-      "id": "24 01784923999"
+      "id": "abc01784928262"
     },
     {
-      "title": "Bilanci i hidhur i investimeve strategjike",
-      "link": "https://24-ore.com/bilanci-i-hidhur-i-investimeve-strategjike/",
-      "description": "Pas dhjet&#235; vitesh nga zbatimi i ligjit p&#235;r investimet strategjike, bilanci tregon se shteti ka angazhuar m&#235; shum&#235; pasuri dhe fonde sesa p&#235;rfitimet e matshme q&#235; kan&#235; marr&#235; ekonomia dhe qytetar&#235;t. Rreth 55 subjekte kan&#235; marr&#235; status strategjik, me",
+      "title": "SPAK shuan “flamingot”: Asnjë hetim për Kushner",
+      "link": "https://abcnews.al/spak-shuan-flamingot-asnje-hetim-per-kushner/",
+      "description": "Mes zhurmës së protestave, postimeve dhe përpjekjeve për ta shtyrë narrativën në qendër të algoritmit, SPAK i përgjigjet thjeshtë mediave ndërkombëtare, nuk ka hetim për dhëndrin e Trump. A mund të konfirmojë SPAK nëse po heton një projekt zhvillimi të lidhur me Jared Kushner, dhëndrin e Presidentit",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-24T21:02:36+00:00",
+      "dateStr": "24 Jul, 21:02",
+      "isNew": true,
+      "id": "abc11784926956"
+    },
+    {
+      "title": "FOKUS – Uashingtoni dhe Londra planifikojnë bisedime për sigurinë në Ngushticën e Hormuzit",
+      "link": "https://24-ore.com/fokus-uashingtoni-dhe-londra-planifikojne-bisedime-per-sigurine-ne-ngushticen-e-hormuzit/",
+      "description": "UASHINGTON/ LONDËR, 24 korrik /ATSH-DPA/- Shtetet e Bashkuara të Amerikës dhe Britania e Madhe planifikojnë të zhvillojnë javën e ardhshme një takim të nivelit të lartë në Londër, për të diskutuar situatën e sigurisë në Ngushticën e Hormuzit, sipas burimeve të qeverisë amerikane. Një zyrtar amerikan",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-24T20:13:04+00:00",
-      "dateStr": "24 Jul, 20:13",
+      "date": "2026-07-24T21:01:15+00:00",
+      "dateStr": "24 Jul, 21:01",
       "isNew": true,
-      "id": "24 11784923984"
+      "id": "24 01784926875"
+    },
+    {
+      "title": "​Instituti Hidrometeorologjik: U shënuan reshje në gjithë vendin, Komorani kryeson me 15 mm shi",
+      "link": "https://24-ore.com/instituti-hidrometeorologjik-u-shenuan-reshje-ne-gjithe-vendin-komorani-kryeson-me-15-mm-shi/",
+      "description": "Instituti Hidrometeorologjik i Kosovës (IHMK) ka bërë të ditur se gjatë orëve të para të 24 korrikut janë regjistruar reshje shiu në shumicën e stacioneve meteorologjike në vend, ndërsa temperaturat kanë qenë dukshëm më të ulëta se mesatarja për muajin korrik. Sipas të dhënave të Rrjetit Shtetëror M",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T21:01:04+00:00",
+      "dateStr": "24 Jul, 21:01",
+      "isNew": true,
+      "id": "24 11784926864"
+    },
+    {
+      "title": "E rëndë në Durrës! I kërkuari nga SPAK përfshihet në konflikt me armë, i përfshirë edhe një oficer policie",
+      "link": "https://24-ore.com/e-rende-ne-durres-i-kerkuari-nga-spak-perfshihet-ne-konflikt-me-arme-i-perfshire-edhe-nje-oficer-policie/",
+      "description": "Një nga personat më të kërkuar nga SPAK, Denis Tafili, pjesë e grupit të Visit të Pojës, është shfaqur sot në Shkallnur të Durrësit, ku është përfshirë në një konflikt me Edison Gjuzin. Në ngjarje është implikuar dhe një punonjës policie. Mësohet se ka patur dhe të shtëna me armë. Një njoftim i poli",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T20:57:59+00:00",
+      "dateStr": "24 Jul, 20:57",
+      "isNew": true,
+      "id": "24 21784926679"
+    },
+    {
+      "title": "Bastisje në Shkup, privohen nga liria babë e bir për pesë kilogramë marihuanë",
+      "link": "https://24-ore.com/bastisje-ne-shkup-privohen-nga-liria-babe-e-bir-per-pese-kilograme-marihuane/",
+      "description": "Dy persona janë privuar nga liria pasi policia gjatë një bastisjeje në Shkup gjeti pesë kilogramë marihuanë. Sipas kumtesës së Ministrisë së Punëve të Brendshme, bastisja është kryer me urdhër të Gjykatës Themelore Penale Shkup në shtëpinë dhe hapësirat ndihmëse të S.L. (51), ku janë gjetur “pesë ki",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T20:55:59+00:00",
+      "dateStr": "24 Jul, 20:55",
+      "isNew": true,
+      "id": "24 31784926559"
+    },
+    {
+      "title": "Haradinaj shprehet i gatshëm ta pranojë kandidaturën për president të Kosovës",
+      "link": "https://24-ore.com/haradinaj-shprehet-i-gatshem-ta-pranoje-kandidaturen-per-president-te-kosoves/",
+      "description": "Ramush Haradinaj është shprehur i gatshëm që ta pranojë kandidaturën për president të Republikës së Kosovës. Ai thotë se një gjë të tillë do ta pranonte nëse do të propozohej nga opozita. “Nëse opozita do të hynte në garë me emrin tim si propozim për president, unë do të isha i gatshëm, nuk po ofroh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T20:45:56+00:00",
+      "dateStr": "24 Jul, 20:45",
+      "isNew": true,
+      "id": "24 41784925956"
+    },
+    {
+      "title": "Beqiri: Rama ka identifikuar hallet e qytetarëve, mandati i katërt kërkon korrigjime dhe përgjegjësi të reja",
+      "link": "https://24-ore.com/beqiri-rama-ka-identifikuar-hallet-e-qytetareve-mandati-i-katert-kerkon-korrigjime-dhe-pergjegjesi-te-reja/",
+      "description": "Avokati Idajet Beqiri, i ftuar në studion e emisionit “3D nga Alban Dudushi” në RTSH, deklaroi se protestat shërbejnë gjithmonë si një mundësi për reflektim, duke vlerësuar se kryeministri ka treguar një qasje serioze ndaj shqetësimeve të qytetarëve. Sipas Beqirit, kryeministri ka identifikuar probl",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T20:42:57+00:00",
+      "dateStr": "24 Jul, 20:42",
+      "isNew": true,
+      "id": "24 51784925777"
+    },
+    {
+      "title": "Plagosja në Durrës/ Policia: Dy persona në kërkim. Në konflikt i përfshirë edhe një efektiv, ishte jashtë shërbimit",
+      "link": "https://abcnews.al/plagosja-ne-durres-policia-dy-persona-ne-kerkim-ne-konflikt-i-perfshire-edhe-nje-efektiv-ishte-jashte-sherbimit/",
+      "description": "Policia e Durrësit ka dhënë informacion zyrtar lidhur me plagosjen e një personi në një lokal në në fshatin Shkallnur. Mësohet se 36-vjeçari i plagosur, është goditur me sende të forta (qytë pistolete) nga një 41-vjeçar dhe 27-vjeçar, të dy banues në Shkallnur, të cilët pas ngjarjes janë larguar me ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-24T20:39:04+00:00",
+      "dateStr": "24 Jul, 20:39",
+      "isNew": true,
+      "id": "abc21784925544"
+    },
+    {
+      "title": "Vëllai iu etiketua si pjesëtar i grupit të Arkanit, Drejtori i Ekonomisë në Prizren mohon pretendimet",
+      "link": "https://24-ore.com/vellai-iu-etiketua-si-pjesetar-i-grupit-te-arkanit-drejtori-i-ekonomise-ne-prizren-mohon-pretendimet/",
+      "description": "Drejtori i Ekonomisë në Komunën e Prizrenit, Levent Bush, ka reaguar lidhur me pretendimet e publikuara në një televizion për vëllain e tij, Shahin Bush. Në një deklaratë për RTK-në, shërbimi në gjuhën turke, Levent Bush ka thënë se raportimet e publikuara gjatë dy ditëve të fundit në disa media nuk",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T20:31:09+00:00",
+      "dateStr": "24 Jul, 20:31",
+      "isNew": true,
+      "id": "24 61784925069"
+    },
+    {
+      "title": "7 projektet strategjike që kanë dështuar ose janë bllokuar",
+      "link": "https://24-ore.com/7-projektet-strategjike-qe-kane-deshtuar-ose-jane-bllokuar/",
+      "description": "Nga verifikimi i list&#235;s s&#235; investimeve strategjike, disa kan&#235; d&#235;shtuar, disa jan&#235; anuluar ose kan&#235; humbur statusin, disa nuk kan&#235; nisur pas disa vitesh, nd&#235;rsa t&#235; tjera jan&#235; riformuluar dhe vazhdojn&#235; me nj&#235; subjekt apo projekt tjet&#235;r. ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T20:28:40+00:00",
+      "dateStr": "24 Jul, 20:28",
+      "isNew": true,
+      "id": "24 71784924920"
+    },
+    {
+      "title": "Nga tjetërsimi i tokës te fundosja e godinave, hijet mbi investimet strategjike",
+      "link": "https://24-ore.com/nga-tjetersimi-i-tokes-te-fundosja-e-godinave-hijet-mbi-investimet-strategjike/",
+      "description": "Portofoli i investimeve strategjike n&#235; Shqip&#235;ri &#235;sht&#235; prezantuar nd&#235;r vite si nj&#235; instrument p&#235;r t&#235; t&#235;rhequr kapital, p&#235;r t&#235; zhvilluar turizmin dhe p&#235;r t&#235; krijuar vende t&#235; reja pune. Por, krahas projekteve q&#235; kan&#235; mbetur",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T20:28:21+00:00",
+      "dateStr": "24 Jul, 20:28",
+      "isNew": true,
+      "id": "24 81784924901"
+    },
+    {
+      "title": "Alibali: Qytetarët nuk kanë më besim te Rama dhe qeveria. Situata ka arritur pikën e ngopjes",
+      "link": "https://24-ore.com/alibali-qytetaret-nuk-kane-me-besim-te-rama-dhe-qeveria-situata-ka-arritur-piken-e-ngopjes/",
+      "description": "Analisti Neritan Alibali deklaroi në emisionin “3D” të Alban Dudushit se reflektimi i kryeministrit Edi Rama mbetet kryesisht teorik, ndërsa situata në vend ka arritur “pikën e ngopjes” dhe qytetarët nuk kanë më besim te qeveria. Alibali theksoi se reflekrimi ka dy faza: pranimi i gabimeve dhe vepri",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T20:28:02+00:00",
+      "dateStr": "24 Jul, 20:28",
+      "isNew": true,
+      "id": "24 91784924882"
+    },
+    {
+      "title": "Ristrukturim në qeverinë gjermane, Merz paralajmëron valë të re ndryshimesh",
+      "link": "https://abcnews.al/ristrukturim-ne-qeverine-gjermane-merz-paralajmeron-vale-te-re-ndryshimesh/",
+      "description": "Kancelari gjerman Friedrich Merz ka nisur një riorganizim të kabinetit qeveritar, duke emëruar sekretarin e përgjithshëm të Unionit Kristian Demokrat (CDU), Carsten Linnemann, në postin e ministrit të Shëndetësisë. Linnemann do të marrë vendin e Nina Warken, e cila do të transferohet në detyrën e mi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-24T20:27:06+00:00",
+      "dateStr": "24 Jul, 20:27",
+      "isNew": true,
+      "id": "abc31784924826"
     },
     {
       "title": "Portugali, e mitura humb jetën pasi u harrua për tetë orë në autobusin e shkollës",
@@ -34,84 +166,7 @@
       "date": "2026-07-24T20:11:22+00:00",
       "dateStr": "24 Jul, 20:11",
       "isNew": true,
-      "id": "abc01784923882"
-    },
-    {
-      "title": "Kosova drejt seancës së 6 gushtit, mbetet e paqartë marrëveshja për presidentin",
-      "link": "https://24-ore.com/kosova-drejt-seances-se-6-gushtit-mbetet-e-paqarte-marreveshja-per-presidentin/",
-      "description": "Pa një marrëveshje të arritur mes spektrit politik, Kosova po shkon drejt seancës së 6 gushtit kur pritet të konstituohet Kuvendi. Duke parë qëndrimet e deritanishme të partive politike, njohës të fushës shprehen skeptik nëse do të arrihet një marrëveshje për presidentin. Andaj, ata kërkojnë që të p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-24T20:05:34+00:00",
-      "dateStr": "24 Jul, 20:05",
-      "isNew": true,
-      "id": "24 21784923534"
-    },
-    {
-      "title": "Investimet strategjike, modeli ku fiton investitori, jo ekonomia",
-      "link": "https://24-ore.com/investimet-strategjike-modeli-ku-fiton-investitori-jo-ekonomia/",
-      "description": "Editorial / Dhjet&#235; vjet m&#235; par&#235;, nj&#235; nga shqet&#235;simet kryesore p&#235;r ekonomin&#235; shqiptare ishte se me &#231;far&#235; do t&#235; z&#235;vend&#235;soheshin investimet e m&#235;dha n&#235; energji. Gazsjell&#235;si TAP dhe hidrocentralet e Devollit po shkonin drejt p&#23",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-24T20:02:58+00:00",
-      "dateStr": "24 Jul, 20:02",
-      "isNew": true,
-      "id": "24 31784923378"
-    },
-    {
-      "title": "BRUKSEL – BE sanksion gjyqtarët iranianë që përndjekin disidentët dhe pakicat fetare",
-      "link": "https://24-ore.com/bruksel-be-sanksion-gjyqtaret-iraniane-qe-perndjekin-disidentet-dhe-pakicat-fetare/",
-      "description": "BRUKSEL, 24. /ATSH – AA/ – Bashkimi Evropian (BE) ka vendosur sanksione ndaj pesë gjyqtarëve iranianë, të akuzuar për shkelje të rënda të të drejtave të njeriut, përfshirë përndjekjen e disidentëve politikë dhe pakicave fetare. Këshilli i BE-së njoftoi se gjyqtarët shërbejnë në Gjykatat Revolucionar",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-24T20:02:12+00:00",
-      "dateStr": "24 Jul, 20:02",
-      "isNew": true,
-      "id": "24 41784923332"
-    },
-    {
-      "title": "Paketa e Maleve/Rama: Ligji është për shqiptarët dhe jo oligarkët",
-      "link": "https://24-ore.com/paketa-e-maleve-rama-ligji-eshte-per-shqiptaret-dhe-jo-oligarket/",
-      "description": "Kryeministri Edi Rama ka reaguar në rrjetet sociale ndaj kritikave që kanë shoqëruar miratimin e ligjit të njohur si “Paketa e Maleve”, duke hedhur poshtë tezën se ai favorizon investitorë të mëdhenj, oligarkë apo shtetas të huaj. Në një postim të gjatë, duke iu referuar edhe Chatgpt thekson se ligj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-24T20:00:31+00:00",
-      "dateStr": "24 Jul, 20:00",
-      "isNew": true,
-      "id": "24 51784923231"
-    },
-    {
-      "title": "FOKUS – OBSH bën thirrje për vigjilencë pas rritjes së rasteve të Nilit Perëndimor në Evropë",
-      "link": "https://24-ore.com/fokus-obsh-ben-thirrje-per-vigjilence-pas-rritjes-se-rasteve-te-nilit-perendimor-ne-evrope/",
-      "description": "KOPENHAGË, 24 korrik /ATSH-DPA/- Organizata Botërore e Shëndetësisë (OBSH) ka bërë thirrje për vigjilencë më të madhe, pasi javët e fundit janë shënuar më shumë raste të infektimit me virusin e Nilit Perëndimor në Evropën Jugore, veçanërisht në Greqi dhe Itali. Sezoni i përhapjes së sëmundjes sapo k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-24T19:57:19+00:00",
-      "dateStr": "24 Jul, 19:57",
-      "isNew": true,
-      "id": "24 61784923039"
-    },
-    {
-      "title": "Analisti: Rama e kuptoi më shpejt leximin e protestës se opozita",
-      "link": "https://24-ore.com/analisti-rama-e-kuptoi-me-shpejt-leximin-e-protestes-se-opozita/",
-      "description": "Analisti Agim Baçi, i ftuar në studion e emisionit “3D nga Alban Dudushi” në RTSH, komentoi zhvillimet e fundit politike, duke u ndalur te reagimi i kryeministrit Edi Rama ndaj pakënaqësive qytetare. Sipas Baçit, Rama nxitoi të përcaktonte se opozita e tij nuk është më Partia Demokratike, por vetë q",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-24T19:56:05+00:00",
-      "dateStr": "24 Jul, 19:56",
-      "isNew": true,
-      "id": "24 71784922965"
-    },
-    {
-      "title": "Çepani: Rama nuk i ka dëgjuar shqiptarët, nuk veproi për kërkesat e tyre",
-      "link": "https://24-ore.com/cepani-rama-nuk-i-ka-degjuar-shqiptaret-nuk-veproi-per-kerkesat-e-tyre/",
-      "description": "Aktivistja Edlira Çepani, një nga pjesëmarrëset në protestat në shesh, ka deklaruar në emisionin “3D” të Alban Dudushit në RTSH1 se kryeministri Edi Rama nuk i ka dëgjuar qytetarët shqiptarë, pasi nuk ka vepruar konkretisht për kërkesat e tyre. “Jam një nga njerëzit që është në atë shesh. Nuk duhesh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-24T19:50:41+00:00",
-      "dateStr": "24 Jul, 19:50",
-      "isNew": true,
-      "id": "24 81784922641"
+      "id": "abc41784923882"
     },
     {
       "title": "Zjarret dalin jashtë kontrollit pranë Madridit, mbi 65 mijë persona evakuohen në Spanjë dhe Francë",
@@ -122,18 +177,7 @@
       "date": "2026-07-24T19:45:15+00:00",
       "dateStr": "24 Jul, 19:45",
       "isNew": true,
-      "id": "abc11784922315"
-    },
-    {
-      "title": "Tragjedia në Roskovec, gazetarja zbulon detajet: Prindërit e autorit e mësuan ngjarjen nga policia!",
-      "link": "https://24-ore.com/tragjedia-ne-roskovec-gazetarja-zbulon-detajet-prinderit-e-autorit-e-mesuan-ngjarjen-nga-policia/",
-      "description": "Gazetarja Laureta Roshi ishte në një lidhje live për emisionin “Review” me Greta Topjanën, ku solli detaje nga ngjarja tragjike e kësaj të premteje në fshatin Vidhisht të Roskovecit, ku bilanci u rëndua në tre viktima. Ajo bëri të ditur se ceremonia mortore për Kosta dhe Belere Plakun pritet të zhvi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-24T19:42:11+00:00",
-      "dateStr": "24 Jul, 19:42",
-      "isNew": true,
-      "id": "24 91784922131"
+      "id": "abc51784922315"
     },
     {
       "title": "BE sanksionon një platformë të madhe kriptovalutash, ndihmoi Rusinë",
@@ -144,18 +188,18 @@
       "date": "2026-07-24T19:13:41+00:00",
       "dateStr": "24 Jul, 19:13",
       "isNew": true,
-      "id": "abc21784920421"
+      "id": "abc61784920421"
     },
     {
-      "title": "Paketa e maleve/ Rama u përgjigjet kritikave: Ligj për ata që kanë pasur tokë, por nuk kanë titull juridik pronësie",
-      "link": "https://abcnews.al/paketa-e-maleve-rama-u-pergjigjet-kritikave-ligj-per-ata-qe-kane-pasur-toke-por-nuk-kane-titull-juridik-pronesie/",
+      "title": "IA sqaron “paketën e maleve”/ Rama publikon përgjigjen e ChatGpt: Nuk ndihmon oligarkët, por pronarët",
+      "link": "https://abcnews.al/ia-sqaron-paketen-e-maleve-rama-publikon-pergjigjen-e-chatgpt-nuk-ndihmon-oligarket-por-pronaret/",
       "description": "Kryeministri Edi Rama u është përgjigjur kritikave lidhur me paketën e maleve. Përmes një postimi në rrjetet sociale, Rama shprehet se ligji nuk është bërë për oligarkët apo të huajt. Sipas kreut të qeverisë, ligji për këtë paktë nuk thotë se kush aplikon bëhet automatikisht pronar. Ndër të tjera, R",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-07-24T19:07:00+00:00",
       "dateStr": "24 Jul, 19:07",
       "isNew": true,
-      "id": "abc31784920020"
+      "id": "abc71784920020"
     },
     {
       "title": "Rivlerësimi me tatim të reduktuar 5 përqind/ Demirxhiu: Tirana dhe vendet bregdetare, më shumë interes",
@@ -166,7 +210,7 @@
       "date": "2026-07-24T18:53:30+00:00",
       "dateStr": "24 Jul, 18:53",
       "isNew": true,
-      "id": "abc41784919210"
+      "id": "abc81784919210"
     },
     {
       "title": "“Miliona euro në dispozicion të bujqësisë”/ Rrapaj: Banka e Zhvillimit do t’u japë përparësi fermerëve",
@@ -177,51 +221,7 @@
       "date": "2026-07-24T18:41:21+00:00",
       "dateStr": "24 Jul, 18:41",
       "isNew": true,
-      "id": "abc51784918481"
-    },
-    {
-      "title": "Edicioni Qendror me Juli Krisafi, (24/07/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-24-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-24T18:33:22+00:00",
-      "dateStr": "24 Jul, 18:33",
-      "isNew": true,
-      "id": "abc61784918002"
-    },
-    {
-      "title": "Tirana Live me Emilian Islami, (24/07/2026)",
-      "link": "https://abcnews.al/tirana-live-me-emilian-islami-24-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-24T18:27:08+00:00",
-      "dateStr": "24 Jul, 18:27",
-      "isNew": true,
-      "id": "abc71784917628"
-    },
-    {
-      "title": "“Bujqësia po përballet me vështirësi”/ Rrapaj: I domosdoshëm ligji për sigurimet, dëmet nuk mbulohen dot nga buxheti i shtetit",
-      "link": "https://abcnews.al/bujqesia-po-perballet-me-veshtiresi-rrapaj-i-domosdoshem-ligji-per-sigurimet-demet-nuk-mbulohen-dot-nga-buxheti-i-shtetit/",
-      "description": "Kryetari i Këshillit të Agrobiznesit, Agim Rrapaj, është shprehur se bujqësia shqiptare po vazhdon të përballet me vështirësi të mëdha, duke mos arritur të performojë sipas pritshmërive. Sipas tij, vetëm sektori i perimeve ka shënuar njëfarë rritjeje, ndërsa kushtet e pafavorshme klimatike, si ngric",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-24T18:20:15+00:00",
-      "dateStr": "24 Jul, 18:20",
-      "isNew": true,
-      "id": "abc81784917215"
-    },
-    {
-      "title": "Dronë iranianë godasin rajonin e kurdistanit irakian",
-      "link": "https://abcnews.al/drone-iraniane-godasin-rajonin-e-kurdistanit-irakian/",
-      "description": "Iranianët kanë zgjeruar perimetrin e sulmeve ndaj fqinjëve si kundërpërgjigje ndaj amerikanëve. Disa dronë iranianë kanë goditur zona të ndryshme në rajonin e Kurdistanit irakian, në provincën e Erbilit, kanë bërë të ditur autoritetet lokale. Sipas raportimeve të para, janë regjistruar disa shpërthi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-24T18:06:24+00:00",
-      "dateStr": "24 Jul, 18:06",
-      "isNew": true,
-      "id": "abc91784916384"
+      "id": "abc91784918481"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
