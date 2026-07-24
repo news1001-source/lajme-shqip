@@ -1,8 +1,85 @@
 {
-  "lastUpdated": "2026-07-24T02:27:55.199073+00:00",
+  "lastUpdated": "2026-07-24T05:45:35.527017+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Trump: Kompanitë e inteligjencës artificiale duhet të mbulojnë kostot e energjisë për qendrat e të dhënave",
+      "link": "https://abcnews.al/trump-kompanite-e-inteligjences-artificiale-duhet-te-mbulojne-kostot-e-energjise-per-qendrat-e-te-dhenave/",
+      "description": "Presidenti i SHBA, Donald Trump, ka deklaruar se kompanitë e inteligjencës artificiale duhet të mbulojnë koston e ndërtimit të infrastrukturës energjetike të nevojshme për qendrat e reja të të dhënave. Ai u bëri thirrje komuniteteve lokale t’i mbështesin këto projekte, duke i cilësuar si thelbësore ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-24T05:43:01+00:00",
+      "dateStr": "24 Jul, 05:43",
+      "isNew": true,
+      "id": "abc01784871781"
+    },
+    {
+      "title": "Qeveria dhe grupi i PS mblidhet sot për analizimin e punës, Rama: Ndaj reflektimet e mia mbi protestën e “flamingove”",
+      "link": "https://24-ore.com/qeveria-dhe-grupi-i-ps-mblidhet-sot-per-analizimin-e-punes-rama-ndaj-reflektimet-e-mia-mbi-protesten-e-flamingove/",
+      "description": "Qeveria dhe grupi parlamentar i Partisë Socialiste do të zhvillojnë sot një mbledhje të përbashkët në Pallatin e Brigadave. Takimi do të nisë në orën 09:30, ku kryeministri Edi Rama së bashku me ministrat dhe deputetët do të analizojnë punën e qeverisë, situatën politike dhe objektivat për periudhën",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T05:29:43+00:00",
+      "dateStr": "24 Jul, 05:29",
+      "isNew": true,
+      "id": "24 01784870983"
+    },
+    {
+      "title": "Parashikimi i motit/ Si do variojnë temperaturat përgjatë ditês",
+      "link": "https://abcnews.al/parashikimi-i-motit-si-do-variojne-temperaturat-pergjate-dites-130/",
+      "description": "Deri në mesditë, parashikohet që vranësirat të jenë mbizotëruese në pothuajse gjithë vendin tonë, duke sjellë rrebeshe shiu, ku më të dendura shirat do të jenë në zonat Jugore dhe Qendrore. Pjesa e dytë e ditës do të sjellë largim gradual të vranësirave dhe shirave nga Ultësira Perëndimore, duke i z",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-24T05:21:39+00:00",
+      "dateStr": "24 Jul, 05:21",
+      "isNew": true,
+      "id": "abc11784870499"
+    },
+    {
+      "title": "Sot mot me shi e shkarkime rrufesh",
+      "link": "https://24-ore.com/sot-mot-me-shi-e-shkarkime-rrufesh/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në disa zona parashihen reshje lokale shiu, të shoqëruara me shkarkime rrufesh, kryesisht në orët e pasdites. IHK njofton se temperaturat minimale do të lëvizin nga 9 gradë Celsius deri 13, ndërkaq ato maksimale nga 19 deri në 24 gradë. Era do të fryj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T05:19:53+00:00",
+      "dateStr": "24 Jul, 05:19",
+      "isNew": true,
+      "id": "24 11784870393"
+    },
+    {
+      "title": "Horoskopi, çfarë parashikojnë yjet për ju",
+      "link": "https://abcnews.al/horoskopi-cfare-parashikojne-yjet-per-ju-260/",
+      "description": "Dashi Disa persona do mundohen t’ua prishin harmoninë ne çift gjate kësaj dite, por dashuria qe ju keni për njeri-tjetrin do i beje balle çdo gjeje. Beqaret do jene te pavëmendshëm ndaj ftesave qe do iu bëhen prandaj edhe sot kane për te mbetur vetëm. Gjendja financiare do jete me e privilegjuar dhe",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-24T05:07:39+00:00",
+      "dateStr": "24 Jul, 05:07",
+      "isNew": true,
+      "id": "abc21784869659"
+    },
+    {
+      "title": "Protesta e 54-të në Tiranë: Nesër më shumë!",
+      "link": "https://24-ore.com/protesta-e-54-te-ne-tirane-thirrje-per-doreheqjen-e-edi-rames/",
+      "description": "Thirrje të forta kundër kryeministrit Edi Rama janë dëgjuar gjatë marshimit të protestuesve në rrugët e Tiranës, në protestën e 54-të të organizuar kundër qeverisë. “Edi Rama, jep dorëheqjen”, “Ju erdhi fundi”, “140 deputetë, të gjithë analfabetë” dhe “Rama, Sala, SPAK, ju&#8230;” ishin disa nga slo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T03:20:40+00:00",
+      "dateStr": "24 Jul, 03:20",
+      "isNew": true,
+      "id": "24 21784863240"
+    },
+    {
+      "title": "Qeveria në Bruksel, populli në Strasburg",
+      "link": "https://24-ore.com/qeveria-ne-bruksel-populli-ne-strasburg/",
+      "description": "Fatmiri ishte pesëdhjetë vjeç kur vendosi të hapte gjyqin për pronën e gjyshit. Kishte mbledhur tapi, harta, fotografi, dëshmi dhe çdo letër që familja kishte ruajtur për dekada. Ishte i bindur se do të fitonte. Nuk e dinte vetëm një gjë: sa gjatë duhej të jetonte për ta parë fundin. Avokati i hodhi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T02:48:54+00:00",
+      "dateStr": "24 Jul, 02:48",
+      "isNew": true,
+      "id": "24 31784861334"
+    },
     {
       "title": "Përplasje në studio, panelisti Mustafë Kadriaj mësyn drejt Nexhmedin Spahiut – ndërpritet transmetimi",
       "link": "https://24-ore.com/perplasje-ne-studio-panelisti-mustafe-kadriaj-mesyn-drejt-nexhmedin-spahiut-nderpritet-transmetimi/",
@@ -12,7 +89,7 @@
       "date": "2026-07-23T21:59:48+00:00",
       "dateStr": "23 Jul, 21:59",
       "isNew": true,
-      "id": "24 01784843988"
+      "id": "24 41784843988"
     },
     {
       "title": "Padia pretendon se këshillat mjekësore të ChatGPT e çuan burrin nga Florida ‘në prag të vdekjes’",
@@ -23,7 +100,7 @@
       "date": "2026-07-23T21:49:43+00:00",
       "dateStr": "23 Jul, 21:49",
       "isNew": true,
-      "id": "24 11784843383"
+      "id": "24 51784843383"
     },
     {
       "title": "“Grupi i zjarrit” te protesta/ Frrok Çupi: Sali Berisha, armik i Shqipërisë",
@@ -34,7 +111,7 @@
       "date": "2026-07-23T21:37:24+00:00",
       "dateStr": "23 Jul, 21:37",
       "isNew": true,
-      "id": "abc01784842644"
+      "id": "abc31784842644"
     },
     {
       "title": "“A na jep këto çika për një natë?” – Dëshmitaret rrëfejnë si nisi konflikti që përfundoi me plagosjen e tre personave",
@@ -45,7 +122,7 @@
       "date": "2026-07-23T21:35:04+00:00",
       "dateStr": "23 Jul, 21:35",
       "isNew": true,
-      "id": "24 21784842504"
+      "id": "24 61784842504"
     },
     {
       "title": "Një “lule” për pranverën/ FSHF detyron klubet e Superligës të aktivizojnë një adoleshent",
@@ -56,7 +133,7 @@
       "date": "2026-07-23T21:22:18+00:00",
       "dateStr": "23 Jul, 21:22",
       "isNew": true,
-      "id": "abc11784841738"
+      "id": "abc41784841738"
     },
     {
       "title": "Dashamir Shehi: Mbështes protestuesit, ata janë rinia evropiane e Shqipërisë",
@@ -67,7 +144,7 @@
       "date": "2026-07-23T21:21:10+00:00",
       "dateStr": "23 Jul, 21:21",
       "isNew": true,
-      "id": "24 31784841670"
+      "id": "24 71784841670"
     },
     {
       "title": "Deputeti i PD-së: Ja pse Rama nuk e çoi deri në fund reformën territoriale, Parlamenti është jonormal",
@@ -78,7 +155,7 @@
       "date": "2026-07-23T21:20:44+00:00",
       "dateStr": "23 Jul, 21:20",
       "isNew": true,
-      "id": "24 41784841644"
+      "id": "24 81784841644"
     },
     {
       "title": "Raporti i Oxfam: Gaza ka nevojë për mbi 71 miliardë dollarë për t’u rindërtuar në 10 vite",
@@ -89,40 +166,7 @@
       "date": "2026-07-23T21:20:26+00:00",
       "dateStr": "23 Jul, 21:20",
       "isNew": true,
-      "id": "24 51784841626"
-    },
-    {
-      "title": "Banka Qendrore Evropiane prezanton modelet e reja të kartëmonedhave euro, qytetarët ftohen të votojnë",
-      "link": "https://24-ore.com/banka-qendrore-evropiane-prezanton-modelet-e-reja-te-kartemonedhave-euro-qytetaret-ftohen-te-votojne/",
-      "description": "Banka Qendrore Evropiane (BQE) ka publikuar këtë të enjte propozimet e përzgjedhura për dizajnin e serisë së ardhshme të kartëmonedhave euro dhe ka hapur një konsultim publik, duke ftuar qytetarët në të gjithë Evropën të japin mendimet e tyre deri më 21 shtator 2026. Propozimet e përzgjedhura janë r",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-23T21:20:07+00:00",
-      "dateStr": "23 Jul, 21:20",
-      "isNew": true,
-      "id": "24 61784841607"
-    },
-    {
-      "title": "Hamza: PDK s’ka votë për presidentin pa një marrëveshje politike",
-      "link": "https://24-ore.com/hamza-pdk-ska-vote-per-presidentin-pa-nje-marreveshje-politike/",
-      "description": "Kryetari i Partisë Demokratike të Kosovës (PDK), Bedri Hamza, ka deklaruar se partia që drejton nuk do ta mbështesë zgjedhjen e presidentit të ri të vendit në mungesë të një marrëveshjeje politike gjithëpërfshirëse. Duke folur në Debat Plus, Hamza tha se zgjedhja e presidentit në Kosovë gjithmonë ka",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-23T21:09:52+00:00",
-      "dateStr": "23 Jul, 21:09",
-      "isNew": true,
-      "id": "24 71784840992"
-    },
-    {
-      "title": "Seanca konstituive pritet në javën e parë të gushtit, a do të arrijnë partitë marrëveshje?",
-      "link": "https://24-ore.com/seanca-konstituive-pritet-ne-javen-e-pare-te-gushtit-a-do-te-arrijne-partite-marreveshje/",
-      "description": "Javën e parë të muajit gusht pritet të mblidhet legjislatura e re e Kuvendit të Kosovës. Ushtruesja e detyrës së presidentes, Albulena Haxhiu, ka deklaruar se data zyrtare e seancës konstituive do të shpallet këtë të premte. Në këtë kontekst, Haxhi ka nënvizuar se nuk është nxituar me caktim të datë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-23T21:09:37+00:00",
-      "dateStr": "23 Jul, 21:09",
-      "isNew": true,
-      "id": "24 81784840977"
+      "id": "24 91784841626"
     },
     {
       "title": "Masat për motin e keq/ Mjetet e vogla lundruese nuk do të lejohen të lëvizin",
@@ -133,7 +177,7 @@
       "date": "2026-07-23T21:07:48+00:00",
       "dateStr": "23 Jul, 21:07",
       "isNew": true,
-      "id": "abc21784840868"
+      "id": "abc51784840868"
     },
     {
       "title": "Rama, thirrje bizneseve/ Kryeministri i fton të aplikojnë në programin “Dyfisho sipërmarrjen tënde”",
@@ -144,18 +188,7 @@
       "date": "2026-07-23T21:02:52+00:00",
       "dateStr": "23 Jul, 21:02",
       "isNew": true,
-      "id": "abc31784840572"
-    },
-    {
-      "title": "“Këta që kanë mbetur janë zogjtë e një klloçke plakë”, deputetjae PS: Protesta është e lidhur me Berishën",
-      "link": "https://24-ore.com/keta-qe-kane-mbetur-jane-zogjte-e-nje-kllocke-plake-deputetjae-ps-protesta-eshte-e-lidhur-me-berishen/",
-      "description": "Deputetja e Partisë Socialiste, Sara Mila, deklaroi se personat që kanë ngelur në protestë “janë zogj të një klloçke plakë”. “E kemi thënë disa herë që nuk kemi hequr dorë nga projekti i Zvërnecit sepse do jetë vlerë e shtuar për Shqipërinë e shqiptarët. Ajo që unë mendoj për protestën aktualisht, k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-23T21:01:50+00:00",
-      "dateStr": "23 Jul, 21:01",
-      "isNew": true,
-      "id": "24 91784840510"
+      "id": "abc61784840572"
     },
     {
       "title": "Rritet çmimi i naftës pas sulmeve në Lindjen e Mesme",
@@ -166,7 +199,7 @@
       "date": "2026-07-23T20:46:14+00:00",
       "dateStr": "23 Jul, 20:46",
       "isNew": true,
-      "id": "abc41784839574"
+      "id": "abc71784839574"
     },
     {
       "title": "Dubai ofron shpërblime për banorët që joshin miqtë për ta vizituar, ndërsa numri i turistëve bie ndjeshëm",
@@ -177,7 +210,7 @@
       "date": "2026-07-23T20:30:55+00:00",
       "dateStr": "23 Jul, 20:30",
       "isNew": true,
-      "id": "abc51784838655"
+      "id": "abc81784838655"
     },
     {
       "title": "Situatë alarmi në Bregun Perëndimor, forcat izraelite u vënë zjarrin tokave palestineze dhe qëllojnë me armë mbi banorët",
@@ -188,40 +221,7 @@
       "date": "2026-07-23T20:08:21+00:00",
       "dateStr": "23 Jul, 20:08",
       "isNew": true,
-      "id": "abc61784837301"
-    },
-    {
-      "title": "“Rama jepe dorëheqjen”/ Kryeministri për thirrjen e protestuesve: Më ekzalton. Shihemi nesër, do ndaj reflektimin tim",
-      "link": "https://abcnews.al/rama-jepe-doreheqjen-kryeministri-per-thirrjen-e-protestuesve-me-ekzalton-shihemi-neser-do-ndaj-reflektimin-tim/",
-      "description": "Kryeministri Edi Rama ka publikuar një video në rrjetet sociale, ku shfaqet duke përgatitur fjalimin që do të mbajë të premten në mbledhjen e grupit parlamentar dhe të qeverisë. Në sfond të videos dëgjohen protestuesit që thërrasin “Rama, jepe dorëheqjen”, ndërsa kreu i qeverisë shprehet se kjo ësht",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-23T19:41:08+00:00",
-      "dateStr": "23 Jul, 19:41",
-      "isNew": true,
-      "id": "abc71784835668"
-    },
-    {
-      "title": "Edicioni qendror me Juli Krisafi, (23/07/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-23-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-23T19:34:47+00:00",
-      "dateStr": "23 Jul, 19:34",
-      "isNew": true,
-      "id": "abc81784835287"
-    },
-    {
-      "title": "Takimi Rubio-Lavrov në Filipine/ Kamberi: Zgjidhja e konfliktit është e largët. Shala: Nuk u dha një dritë jeshile",
-      "link": "https://abcnews.al/takimi-rubio-lavrov-ne-filipine-kamberi-zgjidhja-e-konfliktit-eshte-e-larget-shala-nuk-u-dha-nje-drite-jeshile/",
-      "description": "Në kuadër të samitit në Filipine, Sekretari i Shtetit amerikan Rubio dhe Ministri i Jashtëm rus Lavrov zhvilluan një takim diplomatik i cili shërbeu si platformë për të rihapur diskutimet mbi luftën në Ukrainë. Gjatë këtij shkëmbimi, Rubio e cilësoi luftën si një &#8220;konflikt të pakuptimtë&#8221;",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-23T19:30:00+00:00",
-      "dateStr": "23 Jul, 19:30",
-      "isNew": true,
-      "id": "abc91784835000"
+      "id": "abc91784837301"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
