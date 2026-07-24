@@ -1,18 +1,40 @@
 {
-  "lastUpdated": "2026-07-24T22:00:52.158712+00:00",
+  "lastUpdated": "2026-07-24T23:58:53.152494+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Tragjedia në Roskovec/ Karamuço tregon dinamikën: Policia gjeti përmes sinjalit telefonik ku autori kishte parkuar makinën",
-      "link": "https://abcnews.al/tragjedia-ne-roskovec-karamuco-tregon-dinamiken-policia-gjeti-permes-sinjalit-telefonik-ku-autori-kishte-parkuar-makinen/",
+      "title": "UASHINGTON – Trump: SHBA-ja po zhvillon bisedime me Iranin, pavarësisht sulmeve",
+      "link": "https://24-ore.com/uashington-trump-shba-ja-po-zhvillon-bisedime-me-iranin-pavaresisht-sulmeve/",
+      "description": "UASHINGTON, 24 korrik /ATSH-DPA/- Presidenti i SHBA-së, Donald Trump deklaroi sot se Shtetet e Bashkuara të Amerikës po vazhdojnë të mbajnë kontakte me Iranin, edhe pse gjatë natës forcat amerikane kryen sulme të reja ndaj vendit. “Ndërsa po flasim, ne jemi në bisedime me ta”, tha Trump në Shtëpinë ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-24T23:57:26+00:00",
+      "dateStr": "24 Jul, 23:57",
+      "isNew": true,
+      "id": "24 01784937446"
+    },
+    {
+      "title": "Leka: Rama ka paralajmëruar ndryshime në qeveri. Mahmutaj: Qytetarët reaguan, por protesta ka marrë drejtim tjetër",
+      "link": "https://abcnews.al/leka-rama-ka-paralajmeruar-ndryshime-ne-qeveri-mahmutaj-qytetaret-reaguan-por-protesta-ka-marre-drejtim-tjeter/",
+      "description": "Kryeministri Edi Rama në takimin e zgjeruar të Grupit Parlamentar Socialist tha se “Besa” do shihet si një nga shtyllat e reflektimit për mandatin e katërt të qeverisjes. Rama tha se qytetarët që protestojnë nuk duhen parë si kundërshtarë, por si një tregues i problemeve që kërkojnë zgjidhje brenda ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-24T21:39:15+00:00",
+      "dateStr": "24 Jul, 21:39",
+      "isNew": true,
+      "id": "abc01784929155"
+    },
+    {
+      "title": "Tragjedia në Roskovec/ Karamuço tregon dinamikën: Autori do vriste akoma, Policia e Fierit shpëtoi vajzën",
+      "link": "https://abcnews.al/tragjedia-ne-roskovec-karamuco-tregon-dinamiken-autori-do-vriste-akoma-policia-e-fierit-shpetoi-vajzen/",
       "description": "Eksperti i kriminalistikës, Ervin Karamuço thotë se Refit Buzi, 35-vjeçari i cili vrau ish vjehrrin, ish vjehrrën dhe më pas veten, e përndiqte ish partneren dhe ishte në arrest shtëpie. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Karamuço u shpreh se pasi qëlloi me armë ish vjehrr",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-07-24T21:24:22+00:00",
       "dateStr": "24 Jul, 21:24",
       "isNew": true,
-      "id": "abc01784928262"
+      "id": "abc11784928262"
     },
     {
       "title": "SPAK shuan “flamingot”: Asnjë hetim për Kushner",
@@ -23,7 +45,7 @@
       "date": "2026-07-24T21:02:36+00:00",
       "dateStr": "24 Jul, 21:02",
       "isNew": true,
-      "id": "abc11784926956"
+      "id": "abc21784926956"
     },
     {
       "title": "FOKUS – Uashingtoni dhe Londra planifikojnë bisedime për sigurinë në Ngushticën e Hormuzit",
@@ -34,7 +56,7 @@
       "date": "2026-07-24T21:01:15+00:00",
       "dateStr": "24 Jul, 21:01",
       "isNew": true,
-      "id": "24 01784926875"
+      "id": "24 11784926875"
     },
     {
       "title": "​Instituti Hidrometeorologjik: U shënuan reshje në gjithë vendin, Komorani kryeson me 15 mm shi",
@@ -45,7 +67,7 @@
       "date": "2026-07-24T21:01:04+00:00",
       "dateStr": "24 Jul, 21:01",
       "isNew": true,
-      "id": "24 11784926864"
+      "id": "24 21784926864"
     },
     {
       "title": "E rëndë në Durrës! I kërkuari nga SPAK përfshihet në konflikt me armë, i përfshirë edhe një oficer policie",
@@ -56,7 +78,7 @@
       "date": "2026-07-24T20:57:59+00:00",
       "dateStr": "24 Jul, 20:57",
       "isNew": true,
-      "id": "24 21784926679"
+      "id": "24 31784926679"
     },
     {
       "title": "Bastisje në Shkup, privohen nga liria babë e bir për pesë kilogramë marihuanë",
@@ -67,7 +89,7 @@
       "date": "2026-07-24T20:55:59+00:00",
       "dateStr": "24 Jul, 20:55",
       "isNew": true,
-      "id": "24 31784926559"
+      "id": "24 41784926559"
     },
     {
       "title": "Haradinaj shprehet i gatshëm ta pranojë kandidaturën për president të Kosovës",
@@ -78,7 +100,7 @@
       "date": "2026-07-24T20:45:56+00:00",
       "dateStr": "24 Jul, 20:45",
       "isNew": true,
-      "id": "24 41784925956"
+      "id": "24 51784925956"
     },
     {
       "title": "Beqiri: Rama ka identifikuar hallet e qytetarëve, mandati i katërt kërkon korrigjime dhe përgjegjësi të reja",
@@ -89,7 +111,7 @@
       "date": "2026-07-24T20:42:57+00:00",
       "dateStr": "24 Jul, 20:42",
       "isNew": true,
-      "id": "24 51784925777"
+      "id": "24 61784925777"
     },
     {
       "title": "Plagosja në Durrës/ Policia: Dy persona në kërkim. Në konflikt i përfshirë edhe një efektiv, ishte jashtë shërbimit",
@@ -100,7 +122,7 @@
       "date": "2026-07-24T20:39:04+00:00",
       "dateStr": "24 Jul, 20:39",
       "isNew": true,
-      "id": "abc21784925544"
+      "id": "abc31784925544"
     },
     {
       "title": "Vëllai iu etiketua si pjesëtar i grupit të Arkanit, Drejtori i Ekonomisë në Prizren mohon pretendimet",
@@ -111,7 +133,7 @@
       "date": "2026-07-24T20:31:09+00:00",
       "dateStr": "24 Jul, 20:31",
       "isNew": true,
-      "id": "24 61784925069"
+      "id": "24 71784925069"
     },
     {
       "title": "7 projektet strategjike që kanë dështuar ose janë bllokuar",
@@ -122,7 +144,7 @@
       "date": "2026-07-24T20:28:40+00:00",
       "dateStr": "24 Jul, 20:28",
       "isNew": true,
-      "id": "24 71784924920"
+      "id": "24 81784924920"
     },
     {
       "title": "Nga tjetërsimi i tokës te fundosja e godinave, hijet mbi investimet strategjike",
@@ -133,18 +155,7 @@
       "date": "2026-07-24T20:28:21+00:00",
       "dateStr": "24 Jul, 20:28",
       "isNew": true,
-      "id": "24 81784924901"
-    },
-    {
-      "title": "Alibali: Qytetarët nuk kanë më besim te Rama dhe qeveria. Situata ka arritur pikën e ngopjes",
-      "link": "https://24-ore.com/alibali-qytetaret-nuk-kane-me-besim-te-rama-dhe-qeveria-situata-ka-arritur-piken-e-ngopjes/",
-      "description": "Analisti Neritan Alibali deklaroi në emisionin “3D” të Alban Dudushit se reflektimi i kryeministrit Edi Rama mbetet kryesisht teorik, ndërsa situata në vend ka arritur “pikën e ngopjes” dhe qytetarët nuk kanë më besim te qeveria. Alibali theksoi se reflekrimi ka dy faza: pranimi i gabimeve dhe vepri",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-24T20:28:02+00:00",
-      "dateStr": "24 Jul, 20:28",
-      "isNew": true,
-      "id": "24 91784924882"
+      "id": "24 91784924901"
     },
     {
       "title": "Ristrukturim në qeverinë gjermane, Merz paralajmëron valë të re ndryshimesh",
@@ -155,7 +166,7 @@
       "date": "2026-07-24T20:27:06+00:00",
       "dateStr": "24 Jul, 20:27",
       "isNew": true,
-      "id": "abc31784924826"
+      "id": "abc41784924826"
     },
     {
       "title": "Portugali, e mitura humb jetën pasi u harrua për tetë orë në autobusin e shkollës",
@@ -166,7 +177,7 @@
       "date": "2026-07-24T20:11:22+00:00",
       "dateStr": "24 Jul, 20:11",
       "isNew": true,
-      "id": "abc41784923882"
+      "id": "abc51784923882"
     },
     {
       "title": "Zjarret dalin jashtë kontrollit pranë Madridit, mbi 65 mijë persona evakuohen në Spanjë dhe Francë",
@@ -177,7 +188,7 @@
       "date": "2026-07-24T19:45:15+00:00",
       "dateStr": "24 Jul, 19:45",
       "isNew": true,
-      "id": "abc51784922315"
+      "id": "abc61784922315"
     },
     {
       "title": "BE sanksionon një platformë të madhe kriptovalutash, ndihmoi Rusinë",
@@ -188,7 +199,7 @@
       "date": "2026-07-24T19:13:41+00:00",
       "dateStr": "24 Jul, 19:13",
       "isNew": true,
-      "id": "abc61784920421"
+      "id": "abc71784920421"
     },
     {
       "title": "IA sqaron “paketën e maleve”/ Rama publikon përgjigjen e ChatGpt: Nuk ndihmon oligarkët, por pronarët",
@@ -199,7 +210,7 @@
       "date": "2026-07-24T19:07:00+00:00",
       "dateStr": "24 Jul, 19:07",
       "isNew": true,
-      "id": "abc71784920020"
+      "id": "abc81784920020"
     },
     {
       "title": "Rivlerësimi me tatim të reduktuar 5 përqind/ Demirxhiu: Tirana dhe vendet bregdetare, më shumë interes",
@@ -210,18 +221,7 @@
       "date": "2026-07-24T18:53:30+00:00",
       "dateStr": "24 Jul, 18:53",
       "isNew": true,
-      "id": "abc81784919210"
-    },
-    {
-      "title": "“Miliona euro në dispozicion të bujqësisë”/ Rrapaj: Banka e Zhvillimit do t’u japë përparësi fermerëve",
-      "link": "https://abcnews.al/miliona-euro-ne-dispozicion-te-bujqesise-rrapaj-banka-e-zhvillimit-do-tu-jape-perparesi-fermereve/",
-      "description": "Në një intervistë për emisionin “Sheshi i Dollarit”, kryetari i Këshillit të Agrobiznesit, Agim Rrapaj, deklaroi se bujqësia disponon burime të rëndësishme financimi si fondet IPARD, skemën kombëtare prej 52 milionë eurosh dhe linja kredie me mbrojtje garancie. Megjithatë, ai vuri në dukje se sfida ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-24T18:41:21+00:00",
-      "dateStr": "24 Jul, 18:41",
-      "isNew": true,
-      "id": "abc91784918481"
+      "id": "abc91784919210"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
