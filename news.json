@@ -1,8 +1,129 @@
 {
-  "lastUpdated": "2026-07-25T13:49:22.394712+00:00",
+  "lastUpdated": "2026-07-25T14:58:16.183630+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "SHBA-të paralajmërojnë Ukrainën të mos sulmojë anijet jo-ruse",
+      "link": "https://abcnews.al/shba-te-paralajmerojne-ukrainen-te-mos-sulmoje-anijet-jo-ruse/",
+      "description": "Administrata Trump ka lëshuar një paralajmërim për Ukrainën, duke i kërkuar Kievit të përmbahet nga sulmet ndaj anijeve jo-ruse në Detin e Zi pas një serie sulmesh me dronë që ndërprenë operacionet e naftës të lidhura me gjigantin amerikan të energjisë Chevron. Sipas The Wall Street Journal (WSJ), p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-25T14:48:17+00:00",
+      "dateStr": "25 Jul, 14:48",
+      "isNew": true,
+      "id": "abc01784990897"
+    },
+    {
+      "title": "Musk parashikon fundin e rëndësisë së parasë: Nuk do t’ju duhet më në vitin 2036",
+      "link": "https://abcnews.al/musk-parashikon-fundin-e-rendesise-se-parase-nuk-do-tju-duhet-me-ne-vitin-2036/",
+      "description": "Shefi ekzekutiv i Teslas, Elon Musk, ka bërë një parashikim të guximshëm për të ardhmen e ekonomisë, duke thënë se paraja mund të humbasë rëndësinë e saj deri në vitin 2036. Sipas Musk, zhvillimi i shpejtë i inteligjencës artificiale dhe robotëve humanoidë mund të ndryshojë rrënjësisht mënyrën se si",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-25T14:32:30+00:00",
+      "dateStr": "25 Jul, 14:32",
+      "isNew": true,
+      "id": "abc11784989950"
+    },
+    {
+      "title": "Interkoneksioni 400 kV drejt vënies në funksion, Maqedonia dhe Shqipëria afrohen në rrjetin energjetik",
+      "link": "https://24-ore.com/interkoneksioni-400-kv-drejt-venies-ne-funksion-maqedonia-dhe-shqiperia-afrohen-ne-rrjetin-energjetik/",
+      "description": "Interkoneksioni energjetik 400 kV (kilovolt) mes Maqedonisë së Veriut dhe Shqipërisë, sipas drejtori të MEPSO-s Burim Latifi, po hyn në fazën përfundimtare të realizimit. Punimet në nënstacionin 400 kV në Ohër, sipas tij, kanë avancuar drejt përfundimit, ndërsa pas instalimit të pajisjeve primare dh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-25T14:27:10+00:00",
+      "dateStr": "25 Jul, 14:27",
+      "isNew": true,
+      "id": "24 01784989630"
+    },
+    {
+      "title": "Rrëzohet hidroavioni në SHBA, shpëtojnë 11 personat në bord (VIDEO)",
+      "link": "https://24-ore.com/rrezohet-hidroavioni-ne-shba-shpetojne-11-personat-ne-bord-video/",
+      "description": "Një hidroavion u rrëzua pasditen e së enjtes (23 korrik) në ishullin Sushia, në qarkun San Juan pranë Seattle, në shtetin Washington të SHBA-së. Në bordin e mjetit ndodheshin 11 persona, 10 pasagjerë dhe piloti, të cilët të gjithë arritën të shpëtohen. Sipas raportimeve nga mediat lokale, katër pasa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-25T14:26:52+00:00",
+      "dateStr": "25 Jul, 14:26",
+      "isNew": true,
+      "id": "24 11784989612"
+    },
+    {
+      "title": "BRUKSEL – Një stazhiste në NATO arrestohet për spiunazh",
+      "link": "https://24-ore.com/bruksel-nje-stazhiste-ne-nato-arrestohet-per-spiunazh/",
+      "description": "BRUKSEL 25 korrik ATSH AA/ – Një grua kanadeze me origjinë kineze, e cila ishte stazhiere në selinë ushtarake të NATO-s në Mons, është arrestuar nën dyshimin për spiunazh. Agjencia e lajmeve Belga raportoi se prokuroria federale njoftoi se e dyshuara u vendos nën masën e arrestit dje, pasi tërhoqi v",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-25T14:26:02+00:00",
+      "dateStr": "25 Jul, 14:26",
+      "isNew": true,
+      "id": "24 21784989562"
+    },
+    {
+      "title": "Trump rikthehet në darkën e gazetarëve/ Disa muaj pas atentatit ndaj tij, thumbon korrespodentët dhe hedh hije te mandate i 3",
+      "link": "https://abcnews.al/trump-rikthehet-ne-darken-e-gazetareve-disa-muaj-pas-atentatit-ndaj-tij-thumbon-korrespodentet-dhe-hedh-hije-te-mandate-i-3/",
+      "description": "Presidenti amerikan Donald Trump kritikoi mediat gjatë darkës së Shoqatës së Korrespondentëve të Shtëpisë së Bardhë , një aktivitet që këtë vit u zhvillua nën hijen e një incidenti me armë zjarri që kishte çuar në anulimin e edicionit të mëparshëm. Në sallë ishin të pranishëm gazetarë nga disa prej ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-25T14:19:13+00:00",
+      "dateStr": "25 Jul, 14:19",
+      "isNew": true,
+      "id": "abc21784989153"
+    },
+    {
+      "title": "Dhuna në protestën para Parlamentit/ Nesër masa e sigurisë për dy protestuesit",
+      "link": "https://24-ore.com/dhuna-ne-protesten-para-parlamentit-neser-masa-e-sigurise-per-dy-protestuesit/",
+      "description": "Në Gjykatën e Tiranës pritet të zhvillohet nesër seanca për caktimin e masës së sigurisë ndaj Artemisa Islamajt dhe Orion Peçit, dy personave të arrestuar lidhur me episodet e dhunës gjatë protestës së së enjtes para Parlamentit. Sipas burimeve, Policia ka administruar prova që i përfshijnë të dy në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-25T14:12:11+00:00",
+      "dateStr": "25 Jul, 14:12",
+      "isNew": true,
+      "id": "24 31784988731"
+    },
+    {
+      "title": "NewsHour me Sali Doçin, (24/07/2026)",
+      "link": "https://abcnews.al/newshour-me-sali-docin-24-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-25T14:11:49+00:00",
+      "dateStr": "25 Jul, 14:11",
+      "isNew": true,
+      "id": "abc31784988709"
+    },
+    {
+      "title": "Zelensky: Ukraina goditi një anije luftarake ruse dhe objektiva ushtarake në Detin Kaspik",
+      "link": "https://abcnews.al/zelensky-ukraina-goditi-nje-anije-luftarake-ruse-dhe-objektiva-ushtarake-ne-detin-kaspik/",
+      "description": "Presidenti i Ukrainës, Volodymyr Zelensky, deklaroi se forcat ukrainase kanë ndërmarrë një valë të re sulmesh me rreze të gjatë veprimi ndaj objektivave ushtarake dhe energjetike brenda territorit rus. Në një postim në platformën X, të shoqëruar me një video, Zelensky tha se mes objektivave të godit",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-25T14:01:47+00:00",
+      "dateStr": "25 Jul, 14:01",
+      "isNew": true,
+      "id": "abc41784988107"
+    },
+    {
+      "title": "Protesta e qytetarëve dhe reforma territoriale, Berisha, thirrje për pjesëmarrje",
+      "link": "https://24-ore.com/protesta-e-qytetareve-dhe-reforma-territoriale-berisha-thirrje-per-pjesemarrje/",
+      "description": "Protestat ishin kryefjalë e komunikimit online të kreut të Partisë Demokratike Sali Berisha me qytetarët. Kreu i selisë blu tha se tubimet nuk janë thirrur nga forca që drejton, por garantoi pjesëmarrjen dhe mbështetjen e demokratëve. “Protesta që po zhvillohet nuk është e thirrur nga Partia Demokra",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-25T13:57:10+00:00",
+      "dateStr": "25 Jul, 13:57",
+      "isNew": true,
+      "id": "24 41784987830"
+    },
+    {
+      "title": "Pogacar i pari në “Olimp”/ Kampioni nga Sllovenia, triumf i madh në Alpet e Huezit",
+      "link": "https://abcnews.al/pogacar-i-pari-ne-olimp-kampioni-nga-sllovenia-triumf-i-madh-ne-alpet-e-huezit/",
+      "description": "A mund ta quajmë triumfin e tij më të madh? Po flasim për etapat në Turin e Francës, se për titujt dhe Fanelën e Verdhë, ai e ka bërë katër herë. Tadej Pogaçar pati mundësi më në fund të luftonte për çmimin më të shquar të klasikes numër 1 të çiklizmit në të gjithë rruzullin, [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-25T13:51:13+00:00",
+      "dateStr": "25 Jul, 13:51",
+      "isNew": true,
+      "id": "abc51784987473"
+    },
     {
       "title": "ESHS: Prodhimi vendor mbuloi 96,5% të konsumit të energjisë elektrike në maj",
       "link": "https://24-ore.com/eshs-prodhimi-vendor-mbuloi-965-te-konsumit-te-energjise-elektrike-ne-maj/",
@@ -12,7 +133,7 @@
       "date": "2026-07-25T13:47:07+00:00",
       "dateStr": "25 Jul, 13:47",
       "isNew": true,
-      "id": "24 01784987227"
+      "id": "24 51784987227"
     },
     {
       "title": "Zbardhet dinamika e tragjedisë me 3 viktima në Roskovec/ Borxhi i dyshuar për 180 mijë paund dhe konfliktet me ish-partneren",
@@ -23,7 +144,7 @@
       "date": "2026-07-25T13:42:29+00:00",
       "dateStr": "25 Jul, 13:42",
       "isNew": true,
-      "id": "24 11784986949"
+      "id": "24 61784986949"
     },
     {
       "title": "Rodri dëshiron të jetë “mbret”/ Kampioni i botës shpreson në marrëveshje Real-Guardiola",
@@ -34,7 +155,7 @@
       "date": "2026-07-25T13:39:28+00:00",
       "dateStr": "25 Jul, 13:39",
       "isNew": true,
-      "id": "abc01784986768"
+      "id": "abc61784986768"
     },
     {
       "title": "Zbardhet dokumenti/ Ja çfarë parashikon metoda “Besa” për Zvërnecin! Rama: Do vendosim bashkë për projektin",
@@ -45,7 +166,7 @@
       "date": "2026-07-25T13:31:54+00:00",
       "dateStr": "25 Jul, 13:31",
       "isNew": true,
-      "id": "24 21784986314"
+      "id": "24 71784986314"
     },
     {
       "title": "Luftë ndaj shpejtësisë në rrugë/ Në 24 orë 206 gjoba, Lamallari: Shpejtësia e lartë, e patolerueshme",
@@ -56,7 +177,7 @@
       "date": "2026-07-25T13:30:02+00:00",
       "dateStr": "25 Jul, 13:30",
       "isNew": true,
-      "id": "abc11784986202"
+      "id": "abc71784986202"
     },
     {
       "title": "Fluks në Morinë/ Numër i madh i shtetasve nga Kosova në drejtim të Shqipërisë",
@@ -67,7 +188,7 @@
       "date": "2026-07-25T13:29:08+00:00",
       "dateStr": "25 Jul, 13:29",
       "isNew": true,
-      "id": "abc21784986148"
+      "id": "abc81784986148"
     },
     {
       "title": "FOKUS – Linjat ajrore austriake dhe italiane anulojnë fluturimet drejt Izraelit për shkak të shqetësimeve të sigurisë",
@@ -78,7 +199,7 @@
       "date": "2026-07-25T13:26:45+00:00",
       "dateStr": "25 Jul, 13:26",
       "isNew": true,
-      "id": "24 31784986005"
+      "id": "24 81784986005"
     },
     {
       "title": "Merkato/ Arsenal shtang tregun, nëse Vinicius Junior nuk rinovon me Real-in transferohet në Londër",
@@ -89,29 +210,7 @@
       "date": "2026-07-25T13:23:34+00:00",
       "dateStr": "25 Jul, 13:23",
       "isNew": true,
-      "id": "24 41784985814"
-    },
-    {
-      "title": "Euronews siguron pamjet, momenti kur Refit Buzi liron ish-bashkëshorten pasi e kishte marrë peng (VIDEO)",
-      "link": "https://24-ore.com/euronews-siguron-pamjet-momenti-kur-refit-buzi-liron-ish-bashkeshorten-pasi-e-kishte-marre-peng-video/",
-      "description": "Euronews Albania ka siguruar pamjet me dron nga operacioni i shpëtimit të ish-bashkëshortes së 35-vjeçarit Refit Buzi, i cili e kishte marrë peng pas vrasjes dhe plagosjes së prindërve të saj. Një ditë më parë, Buzi vrau ish-vjehrrin e tij, Kosta Plaka, si dhe plagosi rëndë ish-vjehrrën, Bjelere Pla",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T13:23:20+00:00",
-      "dateStr": "25 Jul, 13:23",
-      "isNew": true,
-      "id": "24 51784985800"
-    },
-    {
-      "title": "FAST Albania arreston në Kavajë 26-vjeçarin e kërkuar nga Italia për trafik droge",
-      "link": "https://24-ore.com/fast-albania-arreston-ne-kavaje-26-vjecarin-e-kerkuar-nga-italia-per-trafik-droge/",
-      "description": "Një 26-vjeçar nga Kavaja, i shpallur në kërkim ndërkombëtar nga autoritetet italiane, është arrestuar nga Sektori për Kërkimin (FAST Albania), në bashkëpunim me Drejtorinë Vendore të Policisë Durrës dhe Komisariatin e Policisë Kavajë. Sipas Policisë së Shtetit, i riu i arrestuar në Kavajë ishte shpa",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T13:23:08+00:00",
-      "dateStr": "25 Jul, 13:23",
-      "isNew": true,
-      "id": "24 61784985788"
+      "id": "24 91784985814"
     },
     {
       "title": "Italia, Pirlo thotë “po”/ Ish-mesfushori i shquar do të jetë trajneri i të Kaltërve",
@@ -122,106 +221,7 @@
       "date": "2026-07-25T13:13:11+00:00",
       "dateStr": "25 Jul, 13:13",
       "isNew": true,
-      "id": "abc31784985191"
-    },
-    {
-      "title": "“Kostoja nuk është vetëm ndërtimi”, ministri Karakaçi shpjegon vlerën e kontratës për Milot-Balldren",
-      "link": "https://24-ore.com/kostoja-nuk-eshte-vetem-ndertimi-ministri-karakaci-shpjegon-vleren-e-kontrates-per-milot-balldren/",
-      "description": "Ministri i Infrastrukturës dhe Energjisë, Enea Karakaçi, ka vendosur të ndajë në rrjetet sociale një mesazh të shkurtër për sa i përket kostove të rrugës Milot-Balldren, ku është shprehur se për këtë projekt ka një dezinformim. “Që prej momentit që kemi shpallur fituesin e projektit për ndërtimin e ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T13:13:03+00:00",
-      "dateStr": "25 Jul, 13:13",
-      "isNew": true,
-      "id": "24 71784985183"
-    },
-    {
-      "title": "Epidemia në Gostivar, Komisioni i Sëmundjeve Infektive: Tek pacientët mund të shfaqet edhe verdhëza",
-      "link": "https://24-ore.com/epidemia-ne-gostivar-komisioni-i-semundjeve-infektive-tek-pacientet-mund-te-shfaqet-edhe-verdheza/",
-      "description": "Gjatë dhjetë ditëve, 3850 banorë të Gosivares kërkuan ndihmë mjekësore për shkak të ankesave në stomak. Pavarësisht trendit të rënies së numrit të ekzaminimeve, ende ka pacientë që janë drejtuar në spital dhe qendër shëndetësore me diarre dhe të vjella. Ndërsa autoritetet në terren po punojnë dhe pr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T13:07:41+00:00",
-      "dateStr": "25 Jul, 13:07",
-      "isNew": true,
-      "id": "24 81784984861"
-    },
-    {
-      "title": "Zvërneci në “besë” të Ramës/ Për kryeministrin, do të jetë testi i parë për vizionin e ri  qeverisës të mandatit të katërt",
-      "link": "https://abcnews.al/zverneci-ne-bese-te-rames-per-kryeministrin-do-te-jete-testi-i-pare-per-vizionin-e-ri-qeverises-te-mandatit-te-katert/",
-      "description": "&#8220;BESA&#8221; nis nga Zvërneci. Abc News ka siguruar detaje nga dokumenti i kryeministrit Edi Rama për vizionin e ri qeverisës të mandatit të katërt. Dhe pikërisht, reflektimi nis nga arsyeja e nisjes së protestës së bulevardit, projekti i dhendrit te Presidentit te SHBA, Jared Kushner në Zvërn",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T13:05:25+00:00",
-      "dateStr": "25 Jul, 13:05",
-      "isNew": true,
-      "id": "abc41784984725"
-    },
-    {
-      "title": "Në kërkim ndërkombëtar për trafik droge, arrestohet 26-vjeçari në Kavajë, pritet ekstradimi",
-      "link": "https://24-ore.com/ne-kerkim-nderkombetar-per-trafik-droge-arrestohet-26-vjecari-ne-kavaje-pritet-ekstradimi/",
-      "description": "Një 26-vjeçar i shpallur në kërkim ndërkombëtar nga autoritetet italiane është arrestuar në Kavajë, në kuadër të operacionit policor të koduar “Fast”, të zhvilluar nga Sektori për Kërkimin (FAST Albania) në Drejtorinë e Forcës së Posaçme Operacionale. Në bashkëpunim me strukturat operacionale të DVP",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T12:57:55+00:00",
-      "dateStr": "25 Jul, 12:57",
-      "isNew": true,
-      "id": "24 91784984275"
-    },
-    {
-      "title": "News Line me Jeta Kasemi, (25/07/2026)",
-      "link": "https://abcnews.al/news-line-me-jeta-kasemi-25-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T12:47:13+00:00",
-      "dateStr": "25 Jul, 12:47",
-      "isNew": true,
-      "id": "abc51784983633"
-    },
-    {
-      "title": "VIDEO/ U mbajt peng për rreth 4 orë nga ish-partneri, “ABC News” siguron pamjet, momenti i lirimit të Rozalinda Plakut në Roskovec",
-      "link": "https://abcnews.al/video-u-mbajt-peng-per-rreth-4-ore-nga-ish-partneri-abc-news-siguron-pamjet-momenti-i-lirimit-te-rozalinda-plakut-ne-roskovec/",
-      "description": "ABC News ka siguruar pamjet nga momenti i lirimit të Rozalinda Plakut, 24-vjeçares që u mbajt peng për rreth katër orë nga ish-bashkëshorti i saj, Refit Buzi, pas ngjarjes së rëndë në Roskovec. Në video shihet momenti kur efektivët e Policisë arrijnë ta bindin Refit Buzin të lirojë të renë. Ngjarja ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T12:07:04+00:00",
-      "dateStr": "25 Jul, 12:07",
-      "isNew": true,
-      "id": "abc61784981224"
-    },
-    {
-      "title": "Sport këmbadorazi/ Eventi i veçantë, 60 fëmijë gara në Pogradec",
-      "link": "https://abcnews.al/sport-kembadorazi-eventi-i-vecante-60-femije-gara-ne-pogradec/",
-      "description": "Në Pogradec u zhvillua një event i veçantë sportiv. Këtë herë, garuesit nuk ishin të rriturit, por fëmijët e vegjël. Disiplinat e garës përfshinin vrapimin dhe ecjen. Pogradeci mirëpriti për të katërtin vit radhazi, Maratonën e Bebave. Aktiviteti, i vetmi i këtij lloji në vend, bëri bashkë mbi 60 fë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T12:05:12+00:00",
-      "dateStr": "25 Jul, 12:05",
-      "isNew": true,
-      "id": "abc71784981112"
-    },
-    {
-      "title": "Shqipëria Sot me Jeta Kasemi, (25/07/2026)",
-      "link": "https://abcnews.al/shqiperia-sot-me-jeta-kasemi-25-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T11:33:40+00:00",
-      "dateStr": "25 Jul, 11:33",
-      "isNew": true,
-      "id": "abc81784979220"
-    },
-    {
-      "title": "VIDEO/ Operacioni “Fast”, kapet në Kavajë 26-vjeçari i shpallur në kërkim ndërkombëtar",
-      "link": "https://abcnews.al/operacioni-fast-kapet-ne-kavaje-26-vjecari-i-shpallur-ne-kerkim-nderkombetar/",
-      "description": "Një 26-vjeçar i shpallur në kërkim ndërkombëtar nga autoritetet italiane është arrestuar në Kavajë, në kuadër të një faze të re të operacionit policor të koduar &#8220;Fast&#8221;. Operacioni u finalizua nga Sektori për Kërkimin (FAST Albania), në bashkëpunim me strukturat operacionale të Drejtorisë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T11:27:18+00:00",
-      "dateStr": "25 Jul, 11:27",
-      "isNew": true,
-      "id": "abc91784978838"
+      "id": "abc91784985191"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
