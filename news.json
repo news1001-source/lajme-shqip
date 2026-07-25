@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-25T22:50:19.460288+00:00",
+  "lastUpdated": "2026-07-25T23:55:44.067168+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Qeveria e Iranit debaton me televizionin shtetëror, ndërsa ndërmjetësuesit shtyjnë përpara bisedimet me SHBA-në",
+      "link": "https://24-ore.com/qeveria-e-iranit-debaton-me-televizionin-shteteror-ndersa-ndermjetesuesit-shtyjne-perpara-bisedimet-me-shba-ne/",
+      "description": "Një përçarje publike ka dalë në pah midis qeverisë së Iranit dhe televizionit shtetëror mbi mënyrën e portretizimit të gjendjes së luftës dhe negociatave me Shtetet e Bashkuara, ndërsa ndërmjetësit përpiqen t&#8217;i shtyjnë të dy vendet drejt diplomacisë. Këshilli i Informacionit Qeveritar të premt",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-25T23:02:10+00:00",
+      "dateStr": "25 Jul, 23:02",
+      "isNew": true,
+      "id": "24 01785020530"
+    },
     {
       "title": "Mbingarkesa e klinikave në QKUK, kërkohet referim më i drejtë",
       "link": "https://24-ore.com/mbingarkesa-e-klinikave-ne-qkuk-kerkohet-referim-me-i-drejte/",
@@ -12,7 +23,7 @@
       "date": "2026-07-25T22:07:03+00:00",
       "dateStr": "25 Jul, 22:07",
       "isNew": true,
-      "id": "24 01785017223"
+      "id": "24 11785017223"
     },
     {
       "title": "Mitrovica mposht Ludogoretsin dhe kualifikohet në rundin e dytë të Ligës së Kampionëve",
@@ -23,7 +34,7 @@
       "date": "2026-07-25T21:57:41+00:00",
       "dateStr": "25 Jul, 21:57",
       "isNew": true,
-      "id": "24 11785016661"
+      "id": "24 21785016661"
     },
     {
       "title": "Macron premton rindërtimin pas zjarreve në Francë: Shteti do të jetë në terren sa të jetë e nevojshme",
@@ -45,7 +56,7 @@
       "date": "2026-07-25T21:41:39+00:00",
       "dateStr": "25 Jul, 21:41",
       "isNew": true,
-      "id": "24 21785015699"
+      "id": "24 31785015699"
     },
     {
       "title": "Protesta/ Nura: Individë të veçantë kanë kërcënuar SPAK. Balliu: SPAK të veprojë ndaj Berishës",
@@ -67,7 +78,7 @@
       "date": "2026-07-25T21:22:53+00:00",
       "dateStr": "25 Jul, 21:22",
       "isNew": true,
-      "id": "24 31785014573"
+      "id": "24 41785014573"
     },
     {
       "title": "E vërteta e rrëzimit të Concorde, ëndrra supersonike që përfundoi në tragjedinë e 25 korrikut 2000",
@@ -78,7 +89,7 @@
       "date": "2026-07-25T21:22:28+00:00",
       "dateStr": "25 Jul, 21:22",
       "isNew": true,
-      "id": "24 41785014548"
+      "id": "24 51785014548"
     },
     {
       "title": "Barnatoret “roje të natës”, nis planifikimi i orarit të kujdestarisë në nivel vendi",
@@ -89,7 +100,7 @@
       "date": "2026-07-25T21:17:28+00:00",
       "dateStr": "25 Jul, 21:17",
       "isNew": true,
-      "id": "24 51785014248"
+      "id": "24 61785014248"
     },
     {
       "title": "Djali i Bolsonaros nominohet si kandidat presidencial i krahut të djathtë në Brazil",
@@ -111,7 +122,7 @@
       "date": "2026-07-25T21:01:53+00:00",
       "dateStr": "25 Jul, 21:01",
       "isNew": true,
-      "id": "24 61785013313"
+      "id": "24 71785013313"
     },
     {
       "title": "Presidenti i Kazakistanit-Putinit: Ndalini luftimet në Ukrainë (VIDEO)",
@@ -144,7 +155,7 @@
       "date": "2026-07-25T20:02:54+00:00",
       "dateStr": "25 Jul, 20:02",
       "isNew": true,
-      "id": "24 71785009774"
+      "id": "24 81785009774"
     },
     {
       "title": "​Mbrojtja e Thaçit–Prokurorisë për rrezikun e arratisjes: Garantues vëllai i tij dhe miqtë e ngushtë",
@@ -155,7 +166,7 @@
       "date": "2026-07-25T19:56:33+00:00",
       "dateStr": "25 Jul, 19:56",
       "isNew": true,
-      "id": "24 81785009393"
+      "id": "24 91785009393"
     },
     {
       "title": "Zelensky: Rusia po përgatitet të marrë 30,000 trupa të tjera të Koresë së Veriut dhe të zgjerojë mobilizimin",
@@ -167,17 +178,6 @@
       "dateStr": "25 Jul, 19:51",
       "isNew": true,
       "id": "abc51785009065"
-    },
-    {
-      "title": "Krasniqi flet nga Haga: Pavarësisht burgut, jam i qetë sepse kam kryer detyrën ndaj atdheut",
-      "link": "https://24-ore.com/krasniqi-flet-nga-haga-pavaresisht-burgut-jam-i-qete-sepse-kam-kryer-detyren-ndaj-atdheut/",
-      "description": "Nga paraburgimi në Hagë, ish-kryetari i Kuvendit të Kosovës, Jakup Krasniqi, në një intervistë ekskluzive për RTK-në, shpreh bindjen se aktgjykimi i 16 shtatorit do të dëshmojë, sipas tij, pastërtinë e luftës së UÇK-së. Ai flet edhe për procesin gjyqësor, situatën politike në Kosovë, familjen dhe me",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T19:36:45+00:00",
-      "dateStr": "25 Jul, 19:36",
-      "isNew": true,
-      "id": "24 91785008205"
     },
     {
       "title": "ChatGPT bashkon një familje pas më shumë se 60 vitesh",
