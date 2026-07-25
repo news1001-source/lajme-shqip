@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-07-25T21:50:46.099245+00:00",
+  "lastUpdated": "2026-07-25T22:50:19.460288+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Mbingarkesa e klinikave në QKUK, kërkohet referim më i drejtë",
+      "link": "https://24-ore.com/mbingarkesa-e-klinikave-ne-qkuk-kerkohet-referim-me-i-drejte/",
+      "description": "Përveç personave të lënduar në aksidente, Qendra Emergjente në QKUK vazhdon të përballet me fluks të madh pacientësh, ndërsa drejtuesit e saj apelojnë që qytetarët fillimisht t`u drejtohen qendrave të mjekësisë familjare dhe spitaleve rajonale. Sipas tyre, vetëm rastet urgjente duhet të referohen në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-25T22:07:03+00:00",
+      "dateStr": "25 Jul, 22:07",
+      "isNew": true,
+      "id": "24 01785017223"
+    },
+    {
+      "title": "Mitrovica mposht Ludogoretsin dhe kualifikohet në rundin e dytë të Ligës së Kampionëve",
+      "link": "https://24-ore.com/mitrovica-mposht-ludogoretsin-dhe-kualifikohet-ne-rundin-e-dyte-te-liges-se-kampioneve/",
+      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor July 2026 M T W T F S S   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-25T21:57:41+00:00",
+      "dateStr": "25 Jul, 21:57",
+      "isNew": true,
+      "id": "24 11785016661"
+    },
+    {
+      "title": "Macron premton rindërtimin pas zjarreve në Francë: Shteti do të jetë në terren sa të jetë e nevojshme",
+      "link": "https://abcnews.al/macron-premton-rindertimin-pas-zjarreve-ne-france-shteti-do-te-jete-ne-terren-sa-te-jete-e-nevojshme/",
+      "description": "Presidenti i Francës, Emmanuel Macron, ka garantuar se shteti do të jetë i pranishëm për të rindërtuar dhe riparuar zonat e prekura nga zjarret e ditëve të fundit, veçanërisht në rajonet Gironde dhe Landes. Në një postim në rrjetet sociale, Macron tha se autoritetet do të qëndrojnë në terren “për aq",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-25T21:55:09+00:00",
+      "dateStr": "25 Jul, 21:55",
+      "isNew": true,
+      "id": "abc01785016509"
+    },
     {
       "title": "Bllokada politike paralizon institucionet, 24 agjenci funksionojnë me mandate të skaduara ose jo të plota",
       "link": "https://24-ore.com/bllokada-politike-paralizon-institucionet-24-agjenci-funksionojne-me-mandate-te-skaduara-ose-jo-te-plota/",
@@ -12,10 +45,10 @@
       "date": "2026-07-25T21:41:39+00:00",
       "dateStr": "25 Jul, 21:41",
       "isNew": true,
-      "id": "24 01785015699"
+      "id": "24 21785015699"
     },
     {
-      "title": "Protesta/ Nura: Individë të veçantë kanë kërcënuar SPAK. Balliu: Berisha ka futur mercenarë për të shuar protestën",
+      "title": "Protesta/ Nura: Individë të veçantë kanë kërcënuar SPAK. Balliu: SPAK të veprojë ndaj Berishës",
       "link": "https://abcnews.al/protesta-nura-individe-te-vecante-kane-kercenuar-spak-balliu-berisha-ka-futur-mercenare-per-te-shuar-protesten/",
       "description": "Në një diskutim në emisionin “Ora e Fundit”, analisti Artur Nura dhe Alesia Balliu kanë analizuar ashpër rolin e Sali Berishës në protestat e fundit. Sipas Nurës, për shkak të humbjes së mbështetjes popullore, Berisha po përpiqet të privatizojë dhe të ndotë kauzën e protestuesve, ndërsa individë të ",
       "source": "ABC News",
@@ -23,7 +56,7 @@
       "date": "2026-07-25T21:35:00+00:00",
       "dateStr": "25 Jul, 21:35",
       "isNew": true,
-      "id": "abc01785015300"
+      "id": "abc11785015300"
     },
     {
       "title": "Macron premton rindërtimin pas zjarreve në Francë: Shteti do të jetë në terren sa të jetë e nevojshme",
@@ -34,7 +67,7 @@
       "date": "2026-07-25T21:22:53+00:00",
       "dateStr": "25 Jul, 21:22",
       "isNew": true,
-      "id": "24 11785014573"
+      "id": "24 31785014573"
     },
     {
       "title": "E vërteta e rrëzimit të Concorde, ëndrra supersonike që përfundoi në tragjedinë e 25 korrikut 2000",
@@ -45,7 +78,7 @@
       "date": "2026-07-25T21:22:28+00:00",
       "dateStr": "25 Jul, 21:22",
       "isNew": true,
-      "id": "24 21785014548"
+      "id": "24 41785014548"
     },
     {
       "title": "Barnatoret “roje të natës”, nis planifikimi i orarit të kujdestarisë në nivel vendi",
@@ -56,7 +89,7 @@
       "date": "2026-07-25T21:17:28+00:00",
       "dateStr": "25 Jul, 21:17",
       "isNew": true,
-      "id": "24 31785014248"
+      "id": "24 51785014248"
     },
     {
       "title": "Djali i Bolsonaros nominohet si kandidat presidencial i krahut të djathtë në Brazil",
@@ -67,7 +100,7 @@
       "date": "2026-07-25T21:08:30+00:00",
       "dateStr": "25 Jul, 21:08",
       "isNew": true,
-      "id": "abc11785013710"
+      "id": "abc21785013710"
     },
     {
       "title": "Rama paralajmëroi rishikimin e bashkëpunimit me BIRN-in, Kallxo.com sqaron rastin “Lule Gjeli”",
@@ -78,7 +111,7 @@
       "date": "2026-07-25T21:01:53+00:00",
       "dateStr": "25 Jul, 21:01",
       "isNew": true,
-      "id": "24 41785013313"
+      "id": "24 61785013313"
     },
     {
       "title": "Presidenti i Kazakistanit-Putinit: Ndalini luftimet në Ukrainë (VIDEO)",
@@ -89,7 +122,7 @@
       "date": "2026-07-25T20:30:16+00:00",
       "dateStr": "25 Jul, 20:30",
       "isNew": true,
-      "id": "abc21785011416"
+      "id": "abc31785011416"
     },
     {
       "title": "Ukraina në bisedime me SHBA-të për të përshpejtuar dërgesat e raketave “Patriot”",
@@ -100,7 +133,7 @@
       "date": "2026-07-25T20:10:10+00:00",
       "dateStr": "25 Jul, 20:10",
       "isNew": true,
-      "id": "abc31785010210"
+      "id": "abc41785010210"
     },
     {
       "title": "Nga këshilltar në garant të pajtueshmërisë: Si po ndryshon roli i profesioneve të lira",
@@ -111,7 +144,7 @@
       "date": "2026-07-25T20:02:54+00:00",
       "dateStr": "25 Jul, 20:02",
       "isNew": true,
-      "id": "24 51785009774"
+      "id": "24 71785009774"
     },
     {
       "title": "​Mbrojtja e Thaçit–Prokurorisë për rrezikun e arratisjes: Garantues vëllai i tij dhe miqtë e ngushtë",
@@ -122,7 +155,7 @@
       "date": "2026-07-25T19:56:33+00:00",
       "dateStr": "25 Jul, 19:56",
       "isNew": true,
-      "id": "24 61785009393"
+      "id": "24 81785009393"
     },
     {
       "title": "Zelensky: Rusia po përgatitet të marrë 30,000 trupa të tjera të Koresë së Veriut dhe të zgjerojë mobilizimin",
@@ -133,7 +166,7 @@
       "date": "2026-07-25T19:51:05+00:00",
       "dateStr": "25 Jul, 19:51",
       "isNew": true,
-      "id": "abc41785009065"
+      "id": "abc51785009065"
     },
     {
       "title": "Krasniqi flet nga Haga: Pavarësisht burgut, jam i qetë sepse kam kryer detyrën ndaj atdheut",
@@ -144,7 +177,7 @@
       "date": "2026-07-25T19:36:45+00:00",
       "dateStr": "25 Jul, 19:36",
       "isNew": true,
-      "id": "24 71785008205"
+      "id": "24 91785008205"
     },
     {
       "title": "ChatGPT bashkon një familje pas më shumë se 60 vitesh",
@@ -155,29 +188,7 @@
       "date": "2026-07-25T19:28:05+00:00",
       "dateStr": "25 Jul, 19:28",
       "isNew": true,
-      "id": "abc51785007685"
-    },
-    {
-      "title": "Gazetari zbulon detaje nga tragjedia në Roskovec: Rozalinda pa vrasjen e prindërve dhe u mor peng",
-      "link": "https://24-ore.com/gazetari-zbulon-detaje-nga-tragjedia-ne-roskovec-rozalinda-pa-vrasjen-e-prinderve-dhe-u-mor-peng/",
-      "description": "I ftuar në emisionin “Review” me Greta Topjanën, gazetari i kronikës Ervin Leka ka sjellë detaje të reja nga ngjarja e rëndë në Vidhisht të Roskovecit, ku mbetën të vrarë nga ish-dhëndi i tyre, çifti Kosta dhe Belere Plaku. Sipas gazetarit, grupi hetimor dyshon se gjithçka ka nisur me një telefonatë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T19:11:35+00:00",
-      "dateStr": "25 Jul, 19:11",
-      "isNew": true,
-      "id": "24 81785006695"
-    },
-    {
-      "title": "Protesta në ditën e 56-të, qytetarët mblidhen para Kryeministrisë dhe paralajmërojnë tubim të ri të hënën te Parlamenti",
-      "link": "https://24-ore.com/protesta-ne-diten-e-56-te-qytetaret-mblidhen-para-kryeministrise-dhe-paralajmerojne-tubim-te-ri-te-henen-te-parlamenti/",
-      "description": "Protesta e aktivistëve dhe qytetarëve në Tiranë ka hyrë në ditën e saj të 56-të, me tubimin e radhës të zhvilluar pasditen e kësaj të shtune. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej”, ku vijuan me thirrjet e tyre kundër qeverisë dhe kryeministrit Edi Rama. Më pas, turma u zhvendos ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T19:11:16+00:00",
-      "dateStr": "25 Jul, 19:11",
-      "isNew": true,
-      "id": "24 91785006676"
+      "id": "abc61785007685"
     },
     {
       "title": "Aeroplani përplaset mbi shtëpinë e një familjeje në Gjermani, dy persona humbin jetën",
@@ -188,7 +199,7 @@
       "date": "2026-07-25T19:09:14+00:00",
       "dateStr": "25 Jul, 19:09",
       "isNew": true,
-      "id": "abc61785006554"
+      "id": "abc71785006554"
     },
     {
       "title": "Edicioni Qendror me Emilian Islami, (25/07/2026)",
@@ -199,7 +210,7 @@
       "date": "2026-07-25T18:50:35+00:00",
       "dateStr": "25 Jul, 18:50",
       "isNew": true,
-      "id": "abc71785005435"
+      "id": "abc81785005435"
     },
     {
       "title": "VIDEO/ Neutralizohen dy vatra zjarri në Lazarat, shmangen dëmet",
@@ -210,18 +221,7 @@
       "date": "2026-07-25T18:35:48+00:00",
       "dateStr": "25 Jul, 18:35",
       "isNew": true,
-      "id": "abc81785004548"
-    },
-    {
-      "title": "Italia goditet nga një tërmet me magnitudë 4.1",
-      "link": "https://abcnews.al/italia-goditet-nga-nje-termet-me-magnitude-4-1/",
-      "description": "Një tërmet me magnitudë 4.1 u regjistrua menjëherë pas mesnatës së së shtunës në mëngjes nga Instituti Kombëtar i Gjeofizikës dhe Vullkanologjisë (INGV) i Italisë. Epiqendra ishte në Pizzone, në provincën e Isernias (Molise), në një thellësi prej rreth 10 kilometrash. Tërmeti u ndje në të gjithë pro",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T18:18:19+00:00",
-      "dateStr": "25 Jul, 18:18",
-      "isNew": true,
-      "id": "abc91785003499"
+      "id": "abc91785004548"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
