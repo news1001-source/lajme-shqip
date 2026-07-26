@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-26T21:54:57.218802+00:00",
+  "lastUpdated": "2026-07-26T22:55:35.222709+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "AI “arratiset” dhe sulmon një kompani – pse ky është incidenti më i rrezikshëm me inteligjencën artificiale?",
+      "link": "https://24-ore.com/ai-arratiset-dhe-sulmon-nje-kompani-pse-ky-eshte-incidenti-me-i-rrezikshem-me-inteligjencen-artificiale/",
+      "description": "Një model i inteligjencës artificiale i zhvilluar nga kompania OpenAI, gjatë një testi të brendshëm sigurie, arriti të largohej nga mjedisi i izoluar ku po testohej, të gjente një mënyrë për të hyrë në internet dhe më pas të ndërvepronte me sistemet e platformës Hugging Face. Ekspertët e sigurisë së",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T22:15:41+00:00",
+      "dateStr": "26 Jul, 22:15",
+      "isNew": true,
+      "id": "24 01785104141"
+    },
     {
       "title": "Turistët e huaj mahniten nga Rugova: Është si të jesh në Alpe",
       "link": "https://24-ore.com/turistet-e-huaj-mahniten-nga-rugova-eshte-si-te-jesh-ne-alpe/",
@@ -12,7 +23,7 @@
       "date": "2026-07-26T21:25:00+00:00",
       "dateStr": "26 Jul, 21:25",
       "isNew": true,
-      "id": "24 01785101100"
+      "id": "24 11785101100"
     },
     {
       "title": "Besa e Edi Ramës dhe pengmarrja e Aeroportit të Vlorës",
@@ -23,7 +34,7 @@
       "date": "2026-07-26T20:58:28+00:00",
       "dateStr": "26 Jul, 20:58",
       "isNew": true,
-      "id": "24 11785099508"
+      "id": "24 21785099508"
     },
     {
       "title": "Elon Musk parashikon një botë pa para deri në vitin 2036, deklarata ngjall diskutime",
@@ -45,7 +56,7 @@
       "date": "2026-07-26T20:21:05+00:00",
       "dateStr": "26 Jul, 20:21",
       "isNew": true,
-      "id": "24 21785097265"
+      "id": "24 31785097265"
     },
     {
       "title": "“Besa, deklaratë e kryeministrit në rrethana shtrënguese”, juristja Jorgo: Në shesh janë shqiptarët e zhgënjyer",
@@ -56,7 +67,7 @@
       "date": "2026-07-26T20:20:54+00:00",
       "dateStr": "26 Jul, 20:20",
       "isNew": true,
-      "id": "24 31785097254"
+      "id": "24 41785097254"
     },
     {
       "title": "“Rama po na shet reflektim nëpërmjet ‘Besës'”, Karabina: Po përdor retorikën e njëjtë për votuesit",
@@ -67,7 +78,7 @@
       "date": "2026-07-26T20:20:41+00:00",
       "dateStr": "26 Jul, 20:20",
       "isNew": true,
-      "id": "24 41785097241"
+      "id": "24 51785097241"
     },
     {
       "title": "Gazetari Peçi: Rama ka lidhur ‘Besën’ me Berishën dhe Kodin zgjedhor",
@@ -78,7 +89,7 @@
       "date": "2026-07-26T20:20:23+00:00",
       "dateStr": "26 Jul, 20:20",
       "isNew": true,
-      "id": "24 51785097223"
+      "id": "24 61785097223"
     },
     {
       "title": "Merz do të propozojë Steffen Bilger si ministër të ri të transportit",
@@ -89,7 +100,7 @@
       "date": "2026-07-26T20:19:58+00:00",
       "dateStr": "26 Jul, 20:19",
       "isNew": true,
-      "id": "24 61785097198"
+      "id": "24 71785097198"
     },
     {
       "title": "Irani pretendon se ka përparim në bisedimet me Omanin për Hormuzin",
@@ -111,7 +122,7 @@
       "date": "2026-07-26T20:04:54+00:00",
       "dateStr": "26 Jul, 20:04",
       "isNew": true,
-      "id": "24 71785096294"
+      "id": "24 81785096294"
     },
     {
       "title": "Mbi 5.500 viktima një muaj pas tërmeteve në Venezuelë, dëmet arrijnë mbi 19 miliardë dollarë",
@@ -144,18 +155,7 @@
       "date": "2026-07-26T19:24:53+00:00",
       "dateStr": "26 Jul, 19:24",
       "isNew": true,
-      "id": "24 81785093893"
-    },
-    {
-      "title": "Spahiu: Kosova të ketë kujdes në raportet me SHBA-në, janë bërë gabime që kanë lëkundur besimin",
-      "link": "https://24-ore.com/spahiu-kosova-te-kete-kujdes-ne-raportet-me-shba-ne-jane-bere-gabime-qe-kane-lekundur-besimin/",
-      "description": "Ish-ambasadori i Kosovës në Shtetet e Bashkuara, Avni Spahiu, ka thënë se Kosova duhet të tregojë kujdes të vazhdueshëm në marrëdhëniet me SHBA-në, duke vlerësuar se ndër vite janë bërë gabime që kanë krijuar tensione të panevojshme në raportet mes dy vendeve. Në podcastin PIKË, raporton Koha, Spahi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T19:24:40+00:00",
-      "dateStr": "26 Jul, 19:24",
-      "isNew": true,
-      "id": "24 91785093880"
+      "id": "24 91785093893"
     },
     {
       "title": "Putin me deklaratë nxitëse: Ukraina do të ndahet në disa pjesë",
