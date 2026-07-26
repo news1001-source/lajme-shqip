@@ -1,8 +1,195 @@
 {
-  "lastUpdated": "2026-07-26T05:56:10.942889+00:00",
+  "lastUpdated": "2026-07-26T08:22:57.937959+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Përplasjet në protestë, mbahet sot seanca për masat e sigurisë për dy të arrestuar",
+      "link": "https://24-ore.com/perplasjet-ne-proteste-mbahet-sot-seanca-per-masat-e-sigurise-per-dy-te-arrestuar/",
+      "description": "Në Gjykatën e Tiranës do të zhvillohet sot seanca për masat e sigurisë për Artemisa Islamajn dhe Orion Peçin, të dy të arrestuar lidhur me përplasjet në protestën e së enjtes para parlamentit. Sipas policisë ndaj dy të arrestuarve ka prova që i përfshijnë jo vetëm në akte dhune, por edhe furnizim me",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T08:22:50+00:00",
+      "dateStr": "26 Jul, 08:22",
+      "isNew": true,
+      "id": "24 01785054170"
+    },
+    {
+      "title": "LSDM: Akoma asnjë përgjegjësi për ujin e ndotur në Gostivar",
+      "link": "https://24-ore.com/lsdm-akoma-asnje-pergjegjesi-per-ujin-e-ndotur-ne-gostivar/",
+      "description": "LSDM akuzoi në një deklaratë se, pavarësisht justifikimeve të shumta dhe zhvendosjes së fajit, institucionet ende nuk kanë marrë përgjegjësi për rastin e ujit të ndotur në Gostivar. Partia thekson se Ministri i Shëndetësisë Sasho Klekovski pranoi se institucionet nuk reaguan në kohë sepse, siç dekla",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T07:55:25+00:00",
+      "dateStr": "26 Jul, 07:55",
+      "isNew": true,
+      "id": "24 11785052525"
+    },
+    {
+      "title": "Ora e Fundit me Emilian Islami, (26/07/2026)",
+      "link": "https://abcnews.al/ora-e-fundit-me-emilian-islami-26-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T07:54:27+00:00",
+      "dateStr": "26 Jul, 07:54",
+      "isNew": true,
+      "id": "abc01785052467"
+    },
+    {
+      "title": "Është e habitshme sa elastik bëhet kuptimi i ligjit, kur shkelja nuk na prek personalisht",
+      "link": "https://24-ore.com/eshte-e-habitshme-sa-elastik-behet-kuptimi-i-ligjit-kur-shkelja-nuk-na-prek-personalisht/",
+      "description": "Nga Minella Aleksi Ka raste kur një vendim gjyqësor nuk të trondit nga përgjigjja që jep. Të trondit nga pyetja që refuzon të dëgjojë. Në rastin e kryebashkiakut Veliaj, gjykata nuk tha se emërimi i funksionarit Dado ishte i ligjshëm. Nuk tha as se ishte i paligjshëm. Ajo zgjodhi rrugën më të rehats",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T07:52:19+00:00",
+      "dateStr": "26 Jul, 07:52",
+      "isNew": true,
+      "id": "24 21785052339"
+    },
+    {
+      "title": "Debati për donacionet rikthen në fokus financimin e sistemit shëndetësor",
+      "link": "https://24-ore.com/debati-per-donacionet-rikthen-ne-fokus-financimin-e-sistemit-shendetesor/",
+      "description": "Urgjenca polivalente në spitalin qendror në QSUNT. Foto: Esmeralda Keta, Nga: Vladimir Karaj Në shkurt të këtij viti, Qendra Spitalore Universitare “Nënë Tereza” publikoi në faqen e saj zyrtare një listë të gjatë mungesash, duke kërkuar donacione nga individë dhe kompani biznesi. Lista përfshinte kë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T07:51:02+00:00",
+      "dateStr": "26 Jul, 07:51",
+      "isNew": true,
+      "id": "24 31785052262"
+    },
+    {
+      "title": "Tragjedi në Detin e Kinës Jugore, fundoset anija vietnameze me 62 persona në bord",
+      "link": "https://24-ore.com/tragjedi-ne-detin-e-kines-jugore-fundoset-anija-vietnameze-me-62-persona-ne-bord/",
+      "description": "Një operacion i gjerë kërkim-shpëtimi vijon në Detin e Kinës Jugore për gjetjen e 23 personave të zhdukur, pas mbytjes së një anijeje vietnameze me 62 persona në bord. Sipas transmetuesit shtetëror kinez CCTV, deri tani 39 persona janë shpëtuar nga ekipet e emergjencës. Autoritetet e provincës jugor",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T07:45:38+00:00",
+      "dateStr": "26 Jul, 07:45",
+      "isNew": true,
+      "id": "24 41785051938"
+    },
+    {
+      "title": "49.1% e banorëve te rritur të vendit anojnë nga vlerësimi pozitiv për Ramën",
+      "link": "https://24-ore.com/49-1-e-banoreve-te-rritur-te-vendit-anojne-nga-vleresimi-pozitiv-per-ramen/",
+      "description": "5.5% të tjerë janë të dyzuar, kryesisht të rinj që nuk votuan vjet Nga Eduard Zaloshnja Një ditë pas fjalimit “Besa” të Ramës, zhvillova një sondazh në të gjithë territorin e vendit, ku pyetja kryesore ishte: “Çfarë vlerësimi keni për Kryeministrin Rama?”. Pyetësorin e shpërndarë me një link përmes ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T07:37:10+00:00",
+      "dateStr": "26 Jul, 07:37",
+      "isNew": true,
+      "id": "24 51785051430"
+    },
+    {
+      "title": "Zjarret/ Gjermania do të dërgojë avionë ushtarakë në Francë",
+      "link": "https://abcnews.al/zjarret-gjermania-do-te-dergoje-avione-ushtarake-ne-france/",
+      "description": "Gjermania do të dërgojë një avion ushtarak A400 për të ndihmuar Francën në përgjigjen ndaj zjarreve, njoftoi kancelari Friedrich Merz. Ai tha se helikopterët dhe ekipet e shpëtimit ishin gjithashtu në rrugën e tyre drejt rajoneve franceze të prekura nga flakët. Një numër anëtarësh të tjerë të BE-së ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T07:30:47+00:00",
+      "dateStr": "26 Jul, 07:30",
+      "isNew": true,
+      "id": "abc11785051047"
+    },
+    {
+      "title": "Anthony Joshua fiton me vuajtje me Kristian Prengën, shqiptari e rrëzon dy herë në tapet",
+      "link": "https://24-ore.com/anthony-joshua-fiton-me-vuajtje-me-kristian-prengen-shqiptari-e-rrezon-dy-here-ne-tapet/",
+      "description": "Anthony Joshua kaloi me sukses provën e fundit me shqiptarin Kristian Prenga përpara supersfidës së shumëpritur me Tyson Fury në muajin nëntor, por jo pa vuajtje. Ndonëse fitoi, boksieri britanik u rrëzua dy herë në tapet në raundin e parë nga Prenga, duke qenë shumë pranë një humbjeje shokuese. Jos",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T07:30:32+00:00",
+      "dateStr": "26 Jul, 07:30",
+      "isNew": true,
+      "id": "24 61785051032"
+    },
+    {
+      "title": "Terror në “Krenarinë e Berlinit”, furgoni futet mes turmës dhe merr përpara njerëzit",
+      "link": "https://24-ore.com/terror-ne-krenarine-e-berlinit-furgoni-futet-mes-turmes-dhe-merr-perpara-njerezit/",
+      "description": "Një ngjarje e rëndë ka tronditur Berlinin mbrëmjen e së shtunës, pasi një automjet u përplas me një turmë njerëzish gjatë aktivitetit “Christopher Street Day” (Krenaria e Berlinit), duke lënë një person të vdekur dhe të paktën 16 të plagosur. Ngjarja ndodhi pak pas orës 22:00 me orën lokale, në zonë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T07:22:08+00:00",
+      "dateStr": "26 Jul, 07:22",
+      "isNew": true,
+      "id": "24 71785050528"
+    },
+    {
+      "title": "Christopher Nolan: Qeni më frymëzoi të realizoj “The Odyssey”",
+      "link": "https://24-ore.com/christopher-nolan-qeni-me-frymezoi-te-realizoj-the-odyssey/",
+      "description": "TIRANË, 26 kotrik, ATSH/ Regjisori fitues i çmimit Oscar, Christopher Nolan, ka zbuluar se lidhja me qenin e tij ndryshoi mënyrën si e pa historinë e “The Odyssey” duke e shtyrë të sjellë në ekran një nga epet më të mëdha të letërsisë botërore. Në një intervistë për BBC Radio, Nolan rrëfeu se nuk is",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T07:21:58+00:00",
+      "dateStr": "26 Jul, 07:21",
+      "isNew": true,
+      "id": "24 81785050518"
+    },
+    {
+      "title": "Publikohet identiteti i të dyshuarit për sulmin në Berlin, policia: Mos iu afroni",
+      "link": "https://24-ore.com/publikohet-identiteti-i-te-dyshuarit-per-sulmin-ne-berlin-policia-mos-iu-afroni/",
+      "description": "Policia gjermane ka nisur kërkimin me të gjitha mjetet për Abdul B., 21 vjeç, i dyshuar si autor i sulmit të rëndë gjatë aktivitetit “Christopher Street Day” (Krenaria e Berlinit), ku një grua humbi jetën dhe 14 persona mbetën të plagosur. Sipas autoriteteve, i riu, i njohur më herët për policinë gj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T07:21:37+00:00",
+      "dateStr": "26 Jul, 07:21",
+      "isNew": true,
+      "id": "24 91785050497"
+    },
+    {
+      "title": "Berlin/ Furgoni përplas turmën në Paradën e Krenarisë, një viktimë dhe 16 të plagosur. Identifikohet autori",
+      "link": "https://abcnews.al/berlin-furgoni-perplas-turmen-ne-paraden-e-krenarise-nje-viktime-dhe-16-te-plagosur-identifikohet-autori/",
+      "description": "Në fillim mbërriti një njoftim i pazakontë nga agjencitë: Parada e Krenarisë (Pride) në Berlin, një nga më të mëdhatë në Evropë, ishte ndërprerë papritur rreth orës 22:00 të mbrëmjes së djeshme për shkak të &#8220;një situate të vështirë&#8221;. Mediat lokale, mes tyre edhe Tagesspiegel, raportuan s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T07:05:47+00:00",
+      "dateStr": "26 Jul, 07:05",
+      "isNew": true,
+      "id": "abc21785049547"
+    },
+    {
+      "title": "Trump urdhëron ushtrinë amerikane të pezullojë sulmet ndaj Iranit",
+      "link": "https://abcnews.al/trump-urdheron-ushtrine-amerikane-te-pezulloje-sulmet-ndaj-iranit/",
+      "description": "New York Times dhe Axios raportojnë se presidenti amerikan ka vendosur të lërë mënjanë planet për të sulmuar Iranin, pas 13 ditësh sulmesh radhazi. The Times, duke cituar zyrtarë të administratës Trump, tha se vendimi i presidentit erdhi mes shqetësimit se përshkallëzimi i luftës mund të &#8220;shte",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T06:44:25+00:00",
+      "dateStr": "26 Jul, 06:44",
+      "isNew": true,
+      "id": "abc31785048265"
+    },
+    {
+      "title": "Aksident në aksin Vlorë-Llogara/ Furgoni del nga rruga, një viktimë dhe 4 të plagosur (EMRAT)",
+      "link": "https://abcnews.al/aksident-ne-aksin-vlore-llogara-furgoni-del-nga-rruga-nje-viktime-dhe-4-te-plagosur-emrat/",
+      "description": "Një aksident ka ndodhur në aksin rrugor Vlorë–Llogara, pranë fshatit Fushë Dukat. Një furgon që transportonte punëtorë, të cilët dyshohet se ishin nisur nga Tirana drejt bregdetit, ka dalë nga rruga. Sipas dyshimeve paraprake, shkak mund të ketë qenë përgjumja e drejtuesit të mjetit, ose ndonje ares",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T06:19:50+00:00",
+      "dateStr": "26 Jul, 06:19",
+      "isNew": true,
+      "id": "abc41785046790"
+    },
+    {
+      "title": "Presidenti i Kazakistanit ia thotë në sy Putinit: Ndalini luftimet në Ukrainë",
+      "link": "https://abcnews.al/presidenti-i-kazakistanit-ia-thote-ne-sy-putinit-ndalini-luftimet-ne-ukraine/",
+      "description": "Presidenti i Kazakistanit, Kassym-Jomart Tokayev, i ka kërkuar drejtpërdrejt homologut të tij rus, Vladimir Putin, ndalimin e luftimeve në Ukrainë dhe ka propozuar një “ngrirje” të konfliktit, teksa të dy liderët ndodheshin përballë njëri-tjetrit gjatë një takimi zyrtar. Deklarata e Tokayev u bë gja",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T05:59:17+00:00",
+      "dateStr": "26 Jul, 05:59",
+      "isNew": true,
+      "id": "abc51785045557"
+    },
+    {
+      "title": "Ushtari ukrainas rrëzon dronin rus, e qëllon me pushkë nga kabina e aeroplanit",
+      "link": "https://abcnews.al/ushtari-ukrainas-rrezon-dronin-rus-e-qellon-me-pushke-nga-kabina-e-aeroplanit/",
+      "description": "Momenti kur një ushtar ukrainas nga ulësja e pasme e një aeroplani rrëzoi disa dronë rusë nga një kabinë e hapur. Pamjet treguan një bashkëpilot të Yak-52 të ulur në ulësen e pasme të aeroplanit përpara se të drejtonte pushkën e tij dhe të qëllonte dronët Shahed. Pasi qëlloi me pushkën e tij në një ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T05:36:46+00:00",
+      "dateStr": "26 Jul, 05:36",
+      "isNew": true,
+      "id": "abc61785044206"
+    },
     {
       "title": "Horoskopi 26 korrik 2026, zbuloni parashikimet e yjeve",
       "link": "https://abcnews.al/horoskopi-26-korrik-2026-zbuloni-parashikimet-e-yjeve/",
@@ -12,62 +199,7 @@
       "date": "2026-07-26T05:18:12+00:00",
       "dateStr": "26 Jul, 05:18",
       "isNew": true,
-      "id": "abc01785043092"
-    },
-    {
-      "title": "Një i vdekur dhe 16 të plagosur pasi një furgon u përplas me turmën në Paradën e Krenarisë në Berlin",
-      "link": "https://24-ore.com/nje-i-vdekur-dhe-16-te-plagosur-pasi-nje-furgon-u-perplas-me-turmen-ne-paraden-e-krenarise-ne-berlin/",
-      "description": "Berlin, 26 korrik /ATSH/ Një person humbi jetën dhe të paktën 16 të tjerë mbetën të plagosur, disa prej tyre në gjendje kritike, pasi një furgon u përplas me turmën gjatë festimeve të paradës së komunitetit LGBTQ+, Christopher Street Day (CSD), në Berlin.  Sipas policisë gjermane, incidenti ndodhi p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T01:27:24+00:00",
-      "dateStr": "26 Jul, 01:27",
-      "isNew": true,
-      "id": "24 01785029244"
-    },
-    {
-      "title": "Problemi nuk është komunikimi, por qeverisja",
-      "link": "https://24-ore.com/problemi-nuk-eshte-komunikimi-por-qeverisja/",
-      "description": "Ashtu siç pritej, Edi Rama nuk e ndryshoi qeverinë në prag të pushimeve dhe në mes të protestave. Logjika më e thjeshtë të thotë se nuk duhet të ndërhysh në skemën e pushtetit teksa pushteti kontestohet, duke ja dhënë kësisoj dafinat e fitores kundërshtarit. Rama ka vite që e mat me kujdes sesi dhe ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T01:14:24+00:00",
-      "dateStr": "26 Jul, 01:14",
-      "isNew": true,
-      "id": "24 11785028464"
-    },
-    {
-      "title": "Qeveria e Iranit debaton me televizionin shtetëror, ndërsa ndërmjetësuesit shtyjnë përpara bisedimet me SHBA-në",
-      "link": "https://24-ore.com/qeveria-e-iranit-debaton-me-televizionin-shteteror-ndersa-ndermjetesuesit-shtyjne-perpara-bisedimet-me-shba-ne/",
-      "description": "Një përçarje publike ka dalë në pah midis qeverisë së Iranit dhe televizionit shtetëror mbi mënyrën e portretizimit të gjendjes së luftës dhe negociatave me Shtetet e Bashkuara, ndërsa ndërmjetësit përpiqen t&#8217;i shtyjnë të dy vendet drejt diplomacisë. Këshilli i Informacionit Qeveritar të premt",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T23:02:10+00:00",
-      "dateStr": "25 Jul, 23:02",
-      "isNew": true,
-      "id": "24 21785020530"
-    },
-    {
-      "title": "Mbingarkesa e klinikave në QKUK, kërkohet referim më i drejtë",
-      "link": "https://24-ore.com/mbingarkesa-e-klinikave-ne-qkuk-kerkohet-referim-me-i-drejte/",
-      "description": "Përveç personave të lënduar në aksidente, Qendra Emergjente në QKUK vazhdon të përballet me fluks të madh pacientësh, ndërsa drejtuesit e saj apelojnë që qytetarët fillimisht t`u drejtohen qendrave të mjekësisë familjare dhe spitaleve rajonale. Sipas tyre, vetëm rastet urgjente duhet të referohen në",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T22:07:03+00:00",
-      "dateStr": "25 Jul, 22:07",
-      "isNew": true,
-      "id": "24 31785017223"
-    },
-    {
-      "title": "Mitrovica mposht Ludogoretsin dhe kualifikohet në rundin e dytë të Ligës së Kampionëve",
-      "link": "https://24-ore.com/mitrovica-mposht-ludogoretsin-dhe-kualifikohet-ne-rundin-e-dyte-te-liges-se-kampioneve/",
-      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor July 2026 M T W T F S S   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T21:57:41+00:00",
-      "dateStr": "25 Jul, 21:57",
-      "isNew": true,
-      "id": "24 41785016661"
+      "id": "abc71785043092"
     },
     {
       "title": "Macron premton rindërtimin pas zjarreve në Francë: Shteti do të jetë në terren sa të jetë e nevojshme",
@@ -78,18 +210,7 @@
       "date": "2026-07-25T21:55:09+00:00",
       "dateStr": "25 Jul, 21:55",
       "isNew": true,
-      "id": "abc11785016509"
-    },
-    {
-      "title": "Bllokada politike paralizon institucionet, 24 agjenci funksionojnë me mandate të skaduara ose jo të plota",
-      "link": "https://24-ore.com/bllokada-politike-paralizon-institucionet-24-agjenci-funksionojne-me-mandate-te-skaduara-ose-jo-te-plota/",
-      "description": "Bllokada politike dhe mungesa e institucioneve të reja kanë bërë që dhjetëra institucione shtetërore të udhëhiqen nga ushtrues detyre. Njohësit e çështjeve kushtetuese paralajmërojnë se kjo gjendje po rrezikon funksionimin normal të shtetit dhe të institucioneve të pavarura. Kosova tash e një kohë t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T21:41:39+00:00",
-      "dateStr": "25 Jul, 21:41",
-      "isNew": true,
-      "id": "24 51785015699"
+      "id": "abc81785016509"
     },
     {
       "title": "Protesta/ Nura: Individë të veçantë kanë kërcënuar SPAK. Balliu: SPAK të veprojë ndaj Berishës",
@@ -100,128 +221,7 @@
       "date": "2026-07-25T21:35:00+00:00",
       "dateStr": "25 Jul, 21:35",
       "isNew": true,
-      "id": "abc21785015300"
-    },
-    {
-      "title": "Macron premton rindërtimin pas zjarreve në Francë: Shteti do të jetë në terren sa të jetë e nevojshme",
-      "link": "https://24-ore.com/macron-premton-rindertimin-pas-zjarreve-ne-france-shteti-do-te-jete-ne-terren-sa-te-jete-e-nevojshme/",
-      "description": "Presidenti i Francës, Emmanuel Macron, ka garantuar se shteti do të jetë i pranishëm për të rindërtuar dhe riparuar zonat e prekura nga zjarret e ditëve të fundit, veçanërisht në rajonet Gironde dhe Landes. Në një postim në rrjetet sociale, Macron tha se autoritetet do të qëndrojnë në terren “për aq",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T21:22:53+00:00",
-      "dateStr": "25 Jul, 21:22",
-      "isNew": true,
-      "id": "24 61785014573"
-    },
-    {
-      "title": "E vërteta e rrëzimit të Concorde, ëndrra supersonike që përfundoi në tragjedinë e 25 korrikut 2000",
-      "link": "https://24-ore.com/e-verteta-e-rrezimit-te-concorde-endrra-supersonike-qe-perfundoi-ne-tragjedine-e-25-korrikut-2000/",
-      "description": "Si sot 26 vite më parë, në një pasdite të zakonshme korriku në Paris, moti ishte i kthjellët dhe në aeroportin “Charles de Gaulle” rreth 100 pasagjerë po prisnin me emocion fluturimin e tyre me Concorde, avionin më të shpejtë të pasagjerëve në botë, shkruan Protothema.gr. I quajtur “zogu i bardhë”, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T21:22:28+00:00",
-      "dateStr": "25 Jul, 21:22",
-      "isNew": true,
-      "id": "24 71785014548"
-    },
-    {
-      "title": "Barnatoret “roje të natës”, nis planifikimi i orarit të kujdestarisë në nivel vendi",
-      "link": "https://24-ore.com/barnatoret-roje-te-nates-nis-planifikimi-i-orarit-te-kujdestarise-ne-nivel-vendi/",
-      "description": "Kanë kaluar gati dy vjet prej kur është larguar nga implementimi orari i kujdestarive gjatë natës për barnatoret në Prishtinë. Mirëpo, kjo synohet të rikthehet sërish në funksion. Ndërkohë, Oda e Farmacistëve të Kosovës tashmë është pjesë e një grupi punues me Ministrinë e Shëndetësisë, përmes së ci",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T21:17:28+00:00",
-      "dateStr": "25 Jul, 21:17",
-      "isNew": true,
-      "id": "24 81785014248"
-    },
-    {
-      "title": "Djali i Bolsonaros nominohet si kandidat presidencial i krahut të djathtë në Brazil",
-      "link": "https://abcnews.al/djali-i-bolsonaros-nominohet-si-kandidat-presidencial-i-krahut-te-djathte-ne-brazil/",
-      "description": "Senatori brazilian Flávio Bolsonaro, djali i ish-presidentit Jair Bolsonaro, u konfirmua të shtunën si kandidati presidencial i Partisë Liberale të babait të tij, duke krijuar një sfidë kundër presidentit aktual Luiz Inácio Lula da Silva në zgjedhjet e tetorit. &#8220;Gjaku i Bolsonaros rrjedh këtu&",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T21:08:30+00:00",
-      "dateStr": "25 Jul, 21:08",
-      "isNew": true,
-      "id": "abc31785013710"
-    },
-    {
-      "title": "Rama paralajmëroi rishikimin e bashkëpunimit me BIRN-in, Kallxo.com sqaron rastin “Lule Gjeli”",
-      "link": "https://24-ore.com/rama-paralajmeroi-rishikimin-e-bashkepunimit-me-birn-in-kallxo-com-sqaron-rastin-lule-gjeli/",
-      "description": "Kryetari i Prishtinës, Përparim Rama, ka paralajmëruar se Kryeqyteti do të rishqyrtojë çdo formë të bashkëpunimit dhe mbështetjes institucionale me BIRN Kosovën, pas publikimit të një opinioni me pseudonimin “Lule Gjeli” në Kallxo.com. Rama ka kërkuar nga BIRN Kosova, Kallxo.com, Internews Kosova dh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T21:01:53+00:00",
-      "dateStr": "25 Jul, 21:01",
-      "isNew": true,
-      "id": "24 91785013313"
-    },
-    {
-      "title": "Presidenti i Kazakistanit-Putinit: Ndalini luftimet në Ukrainë (VIDEO)",
-      "link": "https://abcnews.al/presidenti-i-kazakistanit-putinit-ndalini-luftimet-ne-ukraine-video/",
-      "description": "Presidenti i Kazakistanit, Kassym-Jomart Tokayev, i ka kërkuar drejtpërdrejt homologut të tij rus, Vladimir Putin, ndalimin e luftimeve në Ukrainë dhe ka propozuar një “ngrirje” të konfliktit, teksa të dy liderët ndodheshin përballë njëri-tjetrit gjatë një takimi zyrtar. Deklarata e Tokayev u bë gja",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T20:30:16+00:00",
-      "dateStr": "25 Jul, 20:30",
-      "isNew": true,
-      "id": "abc41785011416"
-    },
-    {
-      "title": "Ukraina në bisedime me SHBA-të për të përshpejtuar dërgesat e raketave “Patriot”",
-      "link": "https://abcnews.al/ukraina-ne-bisedime-me-shba-te-per-te-pershpejtuar-dergesat-e-raketave-patriot/",
-      "description": "Ukraina po diskuton me Shtetet e Bashkuara për përshpejtimin e furnizimit me raketa për sistemet “Patriot” dhe për nisjen e prodhimit të përbashkët të pajisjeve të mbrojtjes ajrore. Këtë e kanë raportuar mediat ukrainase, duke iu referuar një deklarate të kryeministrit ukrainas, Serhiy Koretsky. Kor",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T20:10:10+00:00",
-      "dateStr": "25 Jul, 20:10",
-      "isNew": true,
-      "id": "abc51785010210"
-    },
-    {
-      "title": "Zelensky: Rusia po përgatitet të marrë 30,000 trupa të tjera të Koresë së Veriut dhe të zgjerojë mobilizimin",
-      "link": "https://abcnews.al/zelensky-rusia-po-pergatitet-te-marre-30000-trupa-te-tjera-te-korese-se-veriut-dhe-te-zgjeroje-mobilizimin/",
-      "description": "Presidenti ukrainas Volodymyr Zelensky thotë se Rusia po përgatitet të marrë 30,000 trupa të tjera nga Koreja e Veriut, si dhe lëshues të rinj për raketa balistike. &#8220;Rusia dëshiron të marrë 30,000 trupa të tjera nga Koreja e Veriut. Që nga qershori, në rajonin Voronezh të Rusisë kanë filluar p",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T19:51:05+00:00",
-      "dateStr": "25 Jul, 19:51",
-      "isNew": true,
-      "id": "abc61785009065"
-    },
-    {
-      "title": "ChatGPT bashkon një familje pas më shumë se 60 vitesh",
-      "link": "https://abcnews.al/chatgpt-bashkon-nje-familje-pas-me-shume-se-60-vitesh/",
-      "description": "Për më shumë se gjashtë dekada, Avtar Singh jetoi me dyshimin se çfarë kishte ngjarë me nënën e tij biologjike. Në anën tjetër të botës, Nicci Dhamu kërkonte prej vitesh vëllain e saj të madh, të cilin nëna e kishte humbur kur ai ishte ende fëmijë. Historia e tyre mori një kthesë të papritur falë [.",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T19:28:05+00:00",
-      "dateStr": "25 Jul, 19:28",
-      "isNew": true,
-      "id": "abc71785007685"
-    },
-    {
-      "title": "Aeroplani përplaset mbi shtëpinë e një familjeje në Gjermani, dy persona humbin jetën",
-      "link": "https://abcnews.al/aeroplani-perplaset-mbi-shtepine-e-nje-familjeje-ne-gjermani-dy-persona-humbin-jeten/",
-      "description": "Një aksident dramatik aeroplani ndodhi pak para orës 11:00 të mëngjesit në Ganderkesee të Gjermanisë, një aeroplan u përplas në çatinë e një ndërtese banimi. Pasi një trup u gjet fillimisht në vendngjarje, një dyshim tragjik u konfirmua në pasdite: një person tjetër humbi jetën në aksident. Një përp",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T19:09:14+00:00",
-      "dateStr": "25 Jul, 19:09",
-      "isNew": true,
-      "id": "abc81785006554"
-    },
-    {
-      "title": "Edicioni Qendror me Emilian Islami, (25/07/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-emilian-islami-25-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T18:50:35+00:00",
-      "dateStr": "25 Jul, 18:50",
-      "isNew": true,
-      "id": "abc91785005435"
+      "id": "abc91785015300"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
