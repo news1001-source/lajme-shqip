@@ -1,18 +1,161 @@
 {
-  "lastUpdated": "2026-07-26T17:58:11.081194+00:00",
+  "lastUpdated": "2026-07-26T19:16:09.216860+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "“I hipin një kali që nuk e shalojnë vetë”, gazetari: Protesta ka elementë politikë që nuk përfaqësojnë njerëzit",
-      "link": "https://24-ore.com/i-hipin-nje-kali-qe-nuk-e-shalojne-vete-gazetari-protesta-ka-elemente-politike-qe-nuk-perfaqesojne-njerezit/",
-      "description": "Gazetari Patrik Sadikaj ka komentuar zhvillimet e protestës, duke u shprehur se në fillim u krijua përshtypja e një momenti real thyerjeje, por sipas tij, situata më pas u devijua drejt elementeve dytësore. Sipas gazetarit, pakënaqësitë reale lidhen edhe me çështje ekonomike, si rritja e çmimeve të ",
+      "title": "Putin me deklaratë nxitëse: Ukraina do të ndahet në disa pjesë",
+      "link": "https://abcnews.al/putin-me-deklarate-nxitese-ukraina-do-te-ndahet-ne-disa-pjese/",
+      "description": "Presidenti rus, Vladimir Putin ka bërë deklarata të reja për territoret perëndimore të Ukrainës, duke pretenduar se këto zona mund t’i kthehen në të ardhmen vendeve që, sipas tij, i kanë pasur historikisht. Gjatë një deklarate, Putin tha se disa territore në perëndim të Ukrainës iu dhanë shtetit ukr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T19:15:15+00:00",
+      "dateStr": "26 Jul, 19:15",
+      "isNew": true,
+      "id": "abc01785093315"
+    },
+    {
+      "title": "“Hileja” me zbardhjen e vendimeve, si po tentojnë të dënuarit të përfitojnë nga amnistia",
+      "link": "https://24-ore.com/hileja-me-zbardhjen-e-vendimeve-si-po-tentojne-te-denuarit-te-perfitojne-nga-amnistia/",
+      "description": "Zbardhja e vendimeve me vonesë po përdoret nga të dënuarit si argument për të përfituar edhe nga Amnistia 2026. Paditësit po shfrytëzojnë ligjin, të cilin e lexojnë se u jep edhe atyre të drejtë atëherë kur vendimmarrja është deklaruar nga shkalla e parë, por që, duke mos u ankimuar, duhet të kishte",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-26T17:52:25+00:00",
-      "dateStr": "26 Jul, 17:52",
+      "date": "2026-07-26T19:05:13+00:00",
+      "dateStr": "26 Jul, 19:05",
       "isNew": true,
-      "id": "24 01785088345"
+      "id": "24 01785092713"
+    },
+    {
+      "title": "Peshtan/ Zjarri përfshin zonën me bimësi, zjarrfikësit shuajnë vatrën",
+      "link": "https://24-ore.com/peshtan-zjarri-perfshin-zonen-me-bimesi-zjarrfikesit-shuajne-vatren/",
+      "description": "Një vatër zjarri ka përfshirë pasditen e sotme kodrat e Peshtanit, duke djegur një sipërfaqe me shkurre dhe lisa. Menjëherë pas marrjes së njoftimit, forcat zjarrfikëse të Fierit kanë ndërhyrë në terren, duke nisur operacionin për izolimin e flakëve dhe parandalimin e përhapjes së zjarrit në zona të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T19:04:53+00:00",
+      "dateStr": "26 Jul, 19:04",
+      "isNew": true,
+      "id": "24 11785092693"
+    },
+    {
+      "title": "Shtëpia e perëndive greke hyn në Listën e Trashëgimisë Botërore të UNESCO-s",
+      "link": "https://abcnews.al/shtepia-e-perendive-greke-hyn-ne-listen-e-trashegimise-boterore-te-unesco-s/",
+      "description": "UNESCO vendosi këtë të diel, 26 korrik, në Korenë e Jugut, që mali ikonik grek, ai i Olimpit, të shtohet në Listën e Trashëgimisë Botërore. Pjesë e kësaj liste u bënë gjithashtu kryeqytetet e lashta japoneze, Asuka dhe Fujiwara, Peizazhi Migrator Boma-Badingilo i Sudanit Jugor, si dhe plazhet e zbar",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T18:55:06+00:00",
+      "dateStr": "26 Jul, 18:55",
+      "isNew": true,
+      "id": "abc11785092106"
+    },
+    {
+      "title": "Sërish valë e të nxehtit javën që po vjen, të premten parashikohet deri 38 gradë",
+      "link": "https://24-ore.com/serish-vale-e-te-nxehtit-javen-qe-po-vjen-te-premten-parashikohet-deri-38-grade/",
+      "description": "Instituti Hidrometeorologjik i Kosovës ka njoftuar çfarë moti do të mbajë në pesë ditët në vazhdim. Në njoftim thuhet se gjatë javës temperatura minimale e ditës do të jetë 12 gradë Celsius, ndërsa më e larta do të jetë të premten 38 gradë. E hënë 27 korrik Temperaturat minimale: 13–15°C Temperatura",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T18:54:42+00:00",
+      "dateStr": "26 Jul, 18:54",
+      "isNew": true,
+      "id": "24 21785092082"
+    },
+    {
+      "title": "Flakët përpinë mijëra hektarë, zbulohet kostoja e rëndë që lanë pas zjarret në Shqipëri! Zbardhet raporti i AKM për",
+      "link": "https://24-ore.com/flaket-perpine-mijera-hektare-zbulohet-kostoja-e-rende-qe-lane-pas-zjarret-ne-shqiperi-zbardhet-raporti-i-akm-per/",
+      "description": "Çdo vit e më tepër stina e verës po sprovon kapacitetet shtetërore në përballimin e vatrave të zjarrit, nga zonat urbane e deri tek ato më malore e të vështira për t’u kontrolluar. 346 vatrat e zjarreve të rëna vjet, kanë shkaktuar një dëm të konsiderueshëm në fondin pyjor dhe kullota, por jo vetëm,",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T18:53:17+00:00",
+      "dateStr": "26 Jul, 18:53",
+      "isNew": true,
+      "id": "24 31785091997"
+    },
+    {
+      "title": "Negociatat përfunduan tragjikisht, dalin pamjet kur RENEA rrethoi automjetin e Refit Buzit (VIDEO)",
+      "link": "https://24-ore.com/negociatat-perfunduan-tragjikisht-dalin-pamjet-kur-renea-rrethoi-automjetin-e-refit-buzit-video/",
+      "description": "Këto janë momentet kur forcat e Policisë së Shtetit dhe efektivët e RENEA-s zhvillojnë negociata me 35-vjeçarin Refit Buzi, i cili qëndronte i izoluar brenda automjetit të tij. Për disa orë me radhë, negociatorët i bënë thirrje të dorëzohej dhe të hiqte dorë nga çdo veprim ekstrem, por ai refuzoi t’",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T18:38:12+00:00",
+      "dateStr": "26 Jul, 18:38",
+      "isNew": true,
+      "id": "24 41785091092"
+    },
+    {
+      "title": "Intensifikohen punimet në projektet infrastrukturore të Shkupit",
+      "link": "https://24-ore.com/intensifikohen-punimet-ne-projektet-infrastrukturore-te-shkupit/",
+      "description": "Kryetari i Qytetit të Shkupit, Orce Gjorgjievski paralajmëroi sot se deri në Vitin e Ri do të vihet në funksion i gjitë segmenti i nyjës rrugore “Momin Potok”. Gjorgjievski, gjatë inspektimit të sotëm të punimeve ndërtimore në Momin Potok tha se, ky projekt kompleks kapital përfshin pesë ura të reja",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T18:35:07+00:00",
+      "dateStr": "26 Jul, 18:35",
+      "isNew": true,
+      "id": "24 51785090907"
+    },
+    {
+      "title": "Në Çarshinë e Shkupit u vendos pllakë përkujtimore për urbanistin polak Adolf Ciborowski",
+      "link": "https://24-ore.com/ne-carshine-e-shkupit-u-vendos-pllake-perkujtimore-per-urbanistin-polak-adolf-ciborowski/",
+      "description": "Në Çarshinë e Vjetër të Shkupit është zbuluar një pllakë përkujtimore kushtuar urbanistit polak Adolf Ciborowski, për kontributin e tij në ruajtjen e kësaj zone historike pas tërmetit të vitit 1963. Kryetari i Komunës së Çairit, Izet Mexhiti, tha se Ciborowski ishte ndër ekspertët ndërkombëtarë që m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T18:34:56+00:00",
+      "dateStr": "26 Jul, 18:34",
+      "isNew": true,
+      "id": "24 61785090896"
+    },
+    {
+      "title": "Një ndryshim i vogël në frigorifer mund t’ju bëjë të hidhni shumë më pak ushqim",
+      "link": "https://24-ore.com/nje-ndryshim-i-vogel-ne-frigorifer-mund-tju-beje-te-hidhni-shume-me-pak-ushqim/",
+      "description": "Shpesh ndihemi fajtorë kur na duhet të hedhim ushqim, por kjo nuk mjafton gjithmonë për të ndryshuar zakonet tona. Në fakt, një pjesë e madhe e ushqimeve nuk përfundojnë në kosh sepse kemi blerë shumë, por sepse thjesht i harrojmë në frigorifer ose në dollap derisa prishen. Lajmi i mirë? Me disa zak",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T18:30:54+00:00",
+      "dateStr": "26 Jul, 18:30",
+      "isNew": true,
+      "id": "24 71785090654"
+    },
+    {
+      "title": "Haxhiu i ofroi ndihmë Francës, i reagon deputetja e LDK-së: Deklaratë fyese, ne ende varemi nga KFOR-i për zjarre",
+      "link": "https://24-ore.com/haxhiu-i-ofroi-ndihme-frances-i-reagon-deputetja-e-ldk-se-deklarate-fyese-ne-ende-varemi-nga-kfor-i-per-zjarre/",
+      "description": "Deputetja e Lidhjes Demokratike të Kosovës (LDK), Janina Ymeri, ka reaguar ndaj deklaratës së ushtrueses së detyrës së presidentes, Albulena Haxhiu, se Kosova është e gatshme t’i ofrojë ndihmë Francës në përballjen me zjarret. Ymeri ka kritikuar institucionet e Kosovës, duke thënë se vendi ende vare",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T18:21:45+00:00",
+      "dateStr": "26 Jul, 18:21",
+      "isNew": true,
+      "id": "24 81785090105"
+    },
+    {
+      "title": "Vijon puna për shuarjen e zjarrit në pyllin e Sodës (VIDEO)",
+      "link": "https://24-ore.com/vijon-puna-per-shuarjen-e-zjarrit-ne-pyllin-e-sodes-video/",
+      "description": "Forcat zjarrfikëse dhe strukturat e angazhuara po vijojnë punën për shuarjen e zjarrit që përfshiu pyllin e Sodës, në aksin rrugor drejt plazhit të Zvërnecit. Flakët, të favorizuara nga era e fortë, u përhapën me shpejtësi, duke vështirësuar punën e ekipeve operacionale. Në terren u koordinuan vepri",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T18:21:35+00:00",
+      "dateStr": "26 Jul, 18:21",
+      "isNew": true,
+      "id": "24 91785090095"
+    },
+    {
+      "title": "Zjarret masive përfshijnë Francën dhe Spanjën, mbi 320 mijë persona evakuohen nga banesat",
+      "link": "https://abcnews.al/zjarret-masive-perfshijne-francen-dhe-spanjen-mbi-320-mije-persona-evakuohen-nga-banesat/",
+      "description": "Franca dhe Spanja po përballen me një nga situatat më të rënda të viteve të fundit, ndërsa zjarre gjigante pyjore vazhdojnë të përhapen me shpejtësi. Mbi 320 mijë persona janë detyruar të evakuohen nga banesat e tyre, ndërsa flakët në jugperëndim të Francës kanë arritur vetëm 15 kilometra larg qytet",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T18:19:49+00:00",
+      "dateStr": "26 Jul, 18:19",
+      "isNew": true,
+      "id": "abc21785089989"
+    },
+    {
+      "title": "Vatër zjarri në kodrat e Peshtanit, zjarrfikësit në vendngjarje",
+      "link": "https://abcnews.al/vater-zjarri-ne-kodrat-e-peshtanit-zjarrfikesit-ne-vendngjarje/",
+      "description": "Nje vater zjarri është shfaqur në kodrat e Peshtanit. Zjarrfikësit e Fierit po punojne per shuarjen e flakëve. Era e fortë favorizon përhapjen e flakëve. Dy vjet më parë ne këtë zonë u dogjën qindra ha. Zona është me pyllësi të dendur [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T18:09:44+00:00",
+      "dateStr": "26 Jul, 18:09",
+      "isNew": true,
+      "id": "abc31785089384"
     },
     {
       "title": "Sulmi në “Paradën e Krenarisë” në Berlin/ Policia vret autorin e dyshuar",
@@ -23,7 +166,7 @@
       "date": "2026-07-26T17:46:30+00:00",
       "dateStr": "26 Jul, 17:46",
       "isNew": true,
-      "id": "abc01785087990"
+      "id": "abc41785087990"
     },
     {
       "title": "“Qytetarët kanë humbur besimin edhe te partitë e vogla”, Rada: Në protestë, elektorati gri",
@@ -34,7 +177,7 @@
       "date": "2026-07-26T17:40:26+00:00",
       "dateStr": "26 Jul, 17:40",
       "isNew": true,
-      "id": "abc11785087626"
+      "id": "abc51785087626"
     },
     {
       "title": "Protesta/ Gazetari Sadikaj: Ka fije të vogla apo të mëdha politike që nuk arrijnë të përfaqësojnë njerëz",
@@ -45,84 +188,7 @@
       "date": "2026-07-26T17:31:33+00:00",
       "dateStr": "26 Jul, 17:31",
       "isNew": true,
-      "id": "abc21785087093"
-    },
-    {
-      "title": "Shifra marramendëse pas duelit me Joshuan, ja sa para futi në xhep Kristian Prenga",
-      "link": "https://24-ore.com/shifra-marramendese-pas-duelit-me-joshuan-ja-sa-para-futi-ne-xhep-kristian-prenga/",
-      "description": "Kristian Prenga ka bërë emër në boksin profesionist me paraqitjen ndaj Anthony Joshuas, sidomos në raundin e parë. Boksieri nga Mirdita e rrëzoi dy herë Joshuan, si rrallë ndonjë boksier në karrierë. Ndeshjet e këtij niveli paguhen goxha shumë. Nuk ka të dhëna zyrtare për të hyrat financiare, por si",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T17:30:29+00:00",
-      "dateStr": "26 Jul, 17:30",
-      "isNew": true,
-      "id": "24 11785087029"
-    },
-    {
-      "title": "Urrejtja si produkt i injorancës dhe i mosrealizimit të vetvetes",
-      "link": "https://24-ore.com/urrejtja-si-produkt-i-injorances-dhe-i-mosrealizimit-te-vetvetes/",
-      "description": "Nga Ilir Demalia Shoqëria shqiptare është e helmuar dhe e papërmbushur më shumë nga injoranca sesa nga varfëria. Varfëria mund të kufizojë mundësitë materiale të njeriut, por injoranca shkatërron aftësinë për të menduar, për të krijuar dhe për të respektuar tjetrin. Ajo ushqen urrejtjen, sepse njeri",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T17:22:39+00:00",
-      "dateStr": "26 Jul, 17:22",
-      "isNew": true,
-      "id": "24 21785086559"
-    },
-    {
-      "title": "Retorika propaganduese e Petkoviqit: Kontrollin e Policisë në Prizren e cilëson “represion”",
-      "link": "https://24-ore.com/retorika-propaganduese-e-petkoviqit-kontrollin-e-policise-ne-prizren-e-cileson-represion/",
-      "description": "Drejtori i të ashtuquajturës Zyrë për Kosovën në Qeverinë e Serbisë, Petar Petkoviq, ka vazhduar me retorikën e tij propaganduese ndaj institucioneve të Kosovës, duke akuzuar Policinë e Kosovës për kinse &#8220;represion&#8221; ndaj besimtarëve serbë gjatë përkujtimit të festës së Manastirit të Krye",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T17:20:29+00:00",
-      "dateStr": "26 Jul, 17:20",
-      "isNew": true,
-      "id": "24 31785086429"
-    },
-    {
-      "title": "Reflektim i munguar në “Reflektimin” e kryeministrit",
-      "link": "https://24-ore.com/355990-2/",
-      "description": "Edhe pse në një rrekje të gjatë e bezdisshme për të na bindur se më në fund Kryeministri paska reflektuar mbi gjithçka po ndodh këtë verë të trazuar, fjalimi i tij i gjatë i të premtes na dëshmoi, më shumë se çdo herë tjetër, pasiguri dhe frikë për t’iu shkuar të vërtetave deri në fund. [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T17:15:26+00:00",
-      "dateStr": "26 Jul, 17:15",
-      "isNew": true,
-      "id": "24 41785086126"
-    },
-    {
-      "title": "Epidemia në Gostivar, sërish shënohet rritje e numrit të pacientëve",
-      "link": "https://24-ore.com/epidemia-ne-gostivar-serish-shenohet-rritje-e-numrit-te-pacienteve/",
-      "description": "Shënohet rritje e numrit të pacientëve që kanë kërkuar ndihmë mjekësore në spitalin dhe në qendrën shëndetësore në Gostivar, pas shpalljes së epidemisë nga uji i kontaminuar. Sipas kësaj grafike të Ministrisë së Shëndetësisë, nëse më 24 korrik u shënua rënie e dukshme e pacientëve në vetëm 80, dje, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T17:15:11+00:00",
-      "dateStr": "26 Jul, 17:15",
-      "isNew": true,
-      "id": "24 51785086111"
-    },
-    {
-      "title": "Prapaskena e Botërorit! Messi surprizon 25 shokët e skuadrës, zbulohet dhurata luksoze që mori çdo lojtar i Argjentinës",
-      "link": "https://24-ore.com/prapaskena-e-boterorit-messi-surprizon-25-shoket-e-skuadres-zbulohet-dhurata-luksoze-qe-mori-cdo-lojtar-i-argjentines/",
-      "description": "Ylli argjentinas, Lionel Messi ka bërë një tjetër gjest falënderimi mjaft special për të gjithë 25 shokët e tij të skuadrës që morën pjesë me të në rrugëtimin e Botërorit. Prapaskena e bukur është zbuluar në rrjetin social TikTok nga Kelci-Rose Bowers, futbolliste e Bournemouth dhe njëkohësisht e da",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T17:06:15+00:00",
-      "dateStr": "26 Jul, 17:06",
-      "isNew": true,
-      "id": "24 61785085575"
-    },
-    {
-      "title": "Zjarret në Vlorë, Lamallari: Orë të vështira, prioritet mbrojtja e qytetarëve!",
-      "link": "https://24-ore.com/zjarret-ne-vlore-lamallari-ore-te-veshtira-prioritet-mbrojtja-e-qytetareve/",
-      "description": "Beteja me flakët në pyllin e Sodës në Vlorë vijon ende. Në një reagim në rrjetet sociale, ministri i Brendshëm Besfort Lamallari thotë se këto janë orë të vështira për strukturat në terren që po punojnë për të shuar flakët. Lamallari shprehet se prioritet mbetet mbrojtja e qytetarëve dhe banesave, n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T17:00:25+00:00",
-      "dateStr": "26 Jul, 17:00",
-      "isNew": true,
-      "id": "24 71785085225"
+      "id": "abc61785087093"
     },
     {
       "title": "Silvio Gazzaniga, skulptori milanez që krijoi trofeun më të famshëm të futbollit botëror",
@@ -133,29 +199,7 @@
       "date": "2026-07-26T16:57:59+00:00",
       "dateStr": "26 Jul, 16:57",
       "isNew": true,
-      "id": "abc31785085079"
-    },
-    {
-      "title": "Fundjava sjell kaos në rrugë, bllokohet aksi Lezhë–Shëngjin nga fluksi i automjeteve",
-      "link": "https://24-ore.com/fundjava-sjell-kaos-ne-rruge-bllokohet-aksi-lezhe-shengjin-nga-fluksi-i-automjeteve/",
-      "description": "Edhe këtë të diel, qarkullimi në aksin Lezhë–Shëngjin dhe në rrugët hyrëse të qytetit është shoqëruar me trafik të rënduar, si pasojë e fluksit të lartë të automjeteve që i drejtohen bregdetit dhe atyre që vijnë nga Kosova. Radhët e gjata të mjeteve kanë vështirësuar lëvizjen e drejtuesve të automje",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T16:51:07+00:00",
-      "dateStr": "26 Jul, 16:51",
-      "isNew": true,
-      "id": "24 81785084667"
-    },
-    {
-      "title": "Google prezanton Gemini Spark, asistentin e inteligjencës artificiale",
-      "link": "https://24-ore.com/google-prezanton-gemini-spark-asistentin-e-inteligjences-artificiale/",
-      "description": "Google ka prezantuar Gemini Spark, një asistent i ri me inteligjencë artificiale i krijuar për të mos u kufizuar vetëm në përgjigje ndaj pyetjeve, por për të kryer vetë detyra dhe procese komplekse për përdoruesit. Gemini Spark funksionon si një agjent personal i inteligjencës artificiale, i cili mu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T16:45:05+00:00",
-      "dateStr": "26 Jul, 16:45",
-      "isNew": true,
-      "id": "24 91785084305"
+      "id": "abc71785085079"
     },
     {
       "title": "Zjarr në Gargano të Italisë, turistët evakuohen në anijet e Rojës Bregdetare/ Flakët përhapen drejt disa zonave të banuara",
@@ -166,7 +210,7 @@
       "date": "2026-07-26T16:30:05+00:00",
       "dateStr": "26 Jul, 16:30",
       "isNew": true,
-      "id": "abc41785083405"
+      "id": "abc81785083405"
     },
     {
       "title": "NewsHour me Erneta Shevroja, (26/07/2026)",
@@ -177,51 +221,7 @@
       "date": "2026-07-26T16:15:48+00:00",
       "dateStr": "26 Jul, 16:15",
       "isNew": true,
-      "id": "abc51785082548"
-    },
-    {
-      "title": "Shpërthen cisterna e naftës në Hormuz/ Dyshohet se u përplas me një minë nënujore",
-      "link": "https://abcnews.al/shperthen-cisterna-e-naftes-ne-hormuz-dyshohet-se-u-perplas-me-nje-mine-nenujore/",
-      "description": "Një anije cisternë nafte ka shpërthyer në Ngushticën e Hormuzit pasi dyshohet se është përplasur me një minë detare, raportojnë mediat iraniane. Ngjarja ka rikthyer shqetësimet për sigurinë e një prej rrugëve më të rëndësishme të transportit të energjisë në botë. Ndërkohë, zëdhënësi i Ministrisë së ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T15:56:48+00:00",
-      "dateStr": "26 Jul, 15:56",
-      "isNew": true,
-      "id": "abc61785081408"
-    },
-    {
-      "title": "Raketa ruse godet një lagje të Kharkivit, të paktën 12 të plagosur",
-      "link": "https://abcnews.al/raketa-ruse-godet-nje-lagje-te-kharkivit-te-pakten-12-te-plagosur/",
-      "description": "Të paktën 12 persona janë lënduar si pasojë e një sulmi raketor që goditi sot qytetin e Kharkivit në Ukrainë. Sipas raportimeve të mediave lokale, raketa goditi një nga lagjet e qytetit, ndërsa në rrjetet sociale janë publikuar pamje që tregojnë pasojat e sulmit. Autoritetet ukrainase kanë bërë të d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T15:20:19+00:00",
-      "dateStr": "26 Jul, 15:20",
-      "isNew": true,
-      "id": "abc71785079219"
-    },
-    {
-      "title": "Kriza e luftës, bota po konsumon më pak naftë/ Kina dhe SHBA shfrytëzojnë rezervën strategjike",
-      "link": "https://abcnews.al/kriza-e-luftes-bota-po-konsumon-me-pak-nafte-kina-dhe-shba-shfrytezojne-rezerven-strategjike/",
-      "description": "Dy forcat kryesore që mbajnë në ekuilibër tregun botëror të naftës janë oferta dhe kërkesa. Por tani lufta mes Iranit dhe SHBA-ve i ka tronditur të dyja, ndërsa njëra prej tyre mund të jetë dëmtuar për një kohë shumë të gjatë. Në anën e ofertës, situata mbetet kaotike. Teprica historike e naftës u s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T14:58:41+00:00",
-      "dateStr": "26 Jul, 14:58",
-      "isNew": true,
-      "id": "abc81785077921"
-    },
-    {
-      "title": "Zjarr në Pyllin e Sodës/ Flakët përfshijnë sipërfaqe të konsiderueshme pyjore",
-      "link": "https://abcnews.al/pamje-nga-vendngjarja-flaket-perpijne-pyllin-e-sodes-favorizohen-nga-era-e-forte/",
-      "description": "Një zjarr ka përfshirë pasditen e kësaj të diele pyllin e Sodës, pranë rrugës që të çon drejt plazhit të Zvërnecit, në Vlorë. Flakët janë përhapur me shpejtësi të madhe, të favorizuara nga era e fortë, duke krijuar një situatë problematike në zonë. Në vendngjarje kanë mbërritur forcat zjarrfikëse, t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T14:39:18+00:00",
-      "dateStr": "26 Jul, 14:39",
-      "isNew": true,
-      "id": "abc91785076758"
+      "id": "abc91785082548"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
