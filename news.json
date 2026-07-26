@@ -1,73 +1,172 @@
 {
-  "lastUpdated": "2026-07-26T15:01:26.306603+00:00",
+  "lastUpdated": "2026-07-26T16:53:33.126542+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Seancë plenare, protestë para Kuvendit dhe masa sigurie, çfarë pritet të ndodhë nesër në Tiranë?",
-      "link": "https://24-ore.com/seance-plenare-proteste-para-kuvendit-dhe-masa-sigurie-cfare-pritet-te-ndodhe-neser-ne-tirane/",
-      "description": "E hëna pritet të rikthejë tensionin politik në qendër të Tiranës. Kuvendi i Shqipërisë do të mblidhet paradite në seancë plenare, për caktimin e anëtarëve zëvendësues në komisionet e Kuvendit, ndërsa në të njëjtën kohë, është paralajmëruar edhe një protestë qytetare. Edhe këtë herë, organizatorët ka",
+      "title": "Fundjava sjell kaos në rrugë, bllokohet aksi Lezhë–Shëngjin nga fluksi i automjeteve",
+      "link": "https://24-ore.com/fundjava-sjell-kaos-ne-rruge-bllokohet-aksi-lezhe-shengjin-nga-fluksi-i-automjeteve/",
+      "description": "Edhe këtë të diel, qarkullimi në aksin Lezhë–Shëngjin dhe në rrugët hyrëse të qytetit është shoqëruar me trafik të rënduar, si pasojë e fluksit të lartë të automjeteve që i drejtohen bregdetit dhe atyre që vijnë nga Kosova. Radhët e gjata të mjeteve kanë vështirësuar lëvizjen e drejtuesve të automje",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-26T14:52:00+00:00",
-      "dateStr": "26 Jul, 14:52",
+      "date": "2026-07-26T16:51:07+00:00",
+      "dateStr": "26 Jul, 16:51",
       "isNew": true,
-      "id": "24 01785077520"
+      "id": "24 01785084667"
     },
     {
-      "title": "Pirlo, sponsori rus i basteve bëhet temë e nxehtë: Ai nuk mund të jetë trajner",
-      "link": "https://24-ore.com/pirlo-sponsori-rus-i-basteve-behet-teme-e-nxehte-ai-nuk-mund-te-jete-trajner/",
-      "description": "Ditën e sotme, përveç polemikave për zgjedhjen e Pirlos si trajner i ri i Italisë, ka lindur edhe rasti i lidhur me Fonbet, një markë ndërkombëtare bastesh sportive, ku trajneri është ambasador global. Është e qartë se, nisur edhe nga rregullat italiane për bastet, Pirlo do të duhet të çlirohet nga ",
+      "title": "Google prezanton Gemini Spark, asistentin e inteligjencës artificiale",
+      "link": "https://24-ore.com/google-prezanton-gemini-spark-asistentin-e-inteligjences-artificiale/",
+      "description": "Google ka prezantuar Gemini Spark, një asistent i ri me inteligjencë artificiale i krijuar për të mos u kufizuar vetëm në përgjigje ndaj pyetjeve, por për të kryer vetë detyra dhe procese komplekse për përdoruesit. Gemini Spark funksionon si një agjent personal i inteligjencës artificiale, i cili mu",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-26T14:40:57+00:00",
-      "dateStr": "26 Jul, 14:40",
+      "date": "2026-07-26T16:45:05+00:00",
+      "dateStr": "26 Jul, 16:45",
       "isNew": true,
-      "id": "24 11785076857"
+      "id": "24 11785084305"
     },
     {
-      "title": "Milan, Amorim: Kam shumë besim te Camarda, do të qëndrojë me ne",
-      "link": "https://24-ore.com/milan-amorim-kam-shume-besim-te-camarda-do-te-qendroje-me-ne/",
-      "description": "Trajneri i Milanit, Ruben Amorim ka komentuar barazimin 2-2 në Glasgow me Celtic të shtunën, miqësorja e parë e sezonit, duke u përqendruar veçanërisht në të ardhmen e Camardas. “Ai do të qëndrojë me ne këtë sezon. Kam shumë besim tek ai dhe tek lojtarët tanë të rinj që po luajnë me ne”, tha Amorim ",
+      "title": "Arifi: Pa “PO”-në e ShBA-së, Kosova nuk mund të bëhet anëtare e NATO-s",
+      "link": "https://24-ore.com/arifi-pa-po-ne-e-shba-se-kosova-nuk-mund-te-behet-anetare-e-nato-s/",
+      "description": "Analisti i çështjeve politike, Dritëro Arifi, ka vlerësuar se mbështetja e Shteteve të Bashkuara të Amerikës është faktori kyç për anëtarësimin e Kosovës në NATO, duke theksuar se pa miratimin e Uashingtonit një gjë e tillë nuk mund të realizohet. Duke folur në emisionin “Info Magazine” në Klan Koso",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-26T14:40:42+00:00",
-      "dateStr": "26 Jul, 14:40",
+      "date": "2026-07-26T16:39:52+00:00",
+      "dateStr": "26 Jul, 16:39",
       "isNew": true,
-      "id": "24 21785076842"
+      "id": "24 21785083992"
     },
     {
-      "title": "Intrigë ndërkombëtare për Rodrin: City, PSG apo Real Madrid? Gjithçka rreth të ardhmes së Topit të Artë",
-      "link": "https://24-ore.com/intrige-nderkombetare-per-rodrin-city-psg-apo-real-madrid-gjithcka-rreth-te-ardhmes-se-topit-te-arte/",
-      "description": "Të gjithë e duan Rodrin. Mesfushori spanjoll, i cili shijoi një Kupë Bote sensacionale falë lidershipit dhe cilësisë së tij, po kërkon një ndryshim pamjeje pas shtatë vitesh te Manchester City, veçanërisht duke pasur parasysh se kontrata e tij skadon në vitin 2027. Pretendentët më të mëdhenj janë Re",
+      "title": "Fluks i shtuar në disa pika kufitare, pritjet më të gjata në Muçibabë dhe Dheu i Bardhë",
+      "link": "https://24-ore.com/fluks-i-shtuar-ne-disa-pika-kufitare-pritjet-me-te-gjata-ne-mucibabe-dhe-dheu-i-bardhe/",
+      "description": "Qendra Kombëtare për Menaxhim Kufitar ka përditësuar të dhënat për gjendjen në pikat kufitare, ku në disa prej tyre janë regjistruar pritje dhe kolona të automjeteve, veçanërisht në hyrje të Kosovës. Sipas të dhënave të publikuara në orën 18:00, pritjet më të gjata janë regjistruar në pikën kufitare",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-26T14:40:28+00:00",
-      "dateStr": "26 Jul, 14:40",
+      "date": "2026-07-26T16:30:13+00:00",
+      "dateStr": "26 Jul, 16:30",
       "isNew": true,
-      "id": "24 31785076828"
+      "id": "24 31785083413"
     },
     {
-      "title": "Lukaku larg Napolit, nuk mund të bëjë zëvendësin e Hojlund",
-      "link": "https://24-ore.com/lukaku-larg-napolit-nuk-mund-te-beje-zevendesin-e-hojlund/",
-      "description": "Atmosfera përreth të ardhmes së Romelu Lukaku është e nxehtë. Martesa midis sulmuesit belg dhe Napolit tani duket e destinuar të përfundojë, dhe agjenti i tij, Federico Pastorello, e ka konfirmuar këtë hapur. Duke folur për Sky Sport, agjenti hoqi një vijë shumë të qartë, duke komentuar deklaratat e",
-      "source": "24 ORE",
+      "title": "Zjarr në Gargano të Italisë, turistët evakuohen në anijet e Rojës Bregdetare/ Flakët përhapen drejt disa zonave të banuara",
+      "link": "https://abcnews.al/zjarr-ne-gargano-te-italise-turistet-evakuohen-ne-anijet-e-rojes-bregdetare-flaket-perhapen-drejt-disa-zonave-te-banuara/",
+      "description": "Një zjarr në shkallë të gjerë ka shpërthyer në Gadishullin Gargano, në zonën rurale dhe periferike të komunës së Peschici-t, në provincën e Foggia-s, pranë Gjirit të Manaccorës. Flakët arritën në zonat bregdetare të Peschici-t dhe Vieste-s, destinacione të njohura verore. Turistët u evakuuan nga pla",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-07-26T14:40:06+00:00",
-      "dateStr": "26 Jul, 14:40",
+      "date": "2026-07-26T16:30:05+00:00",
+      "dateStr": "26 Jul, 16:30",
       "isNew": true,
-      "id": "24 41785076806"
+      "id": "abc01785083405"
     },
     {
-      "title": "Joshua, 6 minuta për të mposhtur Prengën",
-      "link": "https://24-ore.com/joshua-6-minuta-per-te-mposhtur-prengen/",
-      "description": "Kristian Prenga nuk arrin të fitojë ndaj Entoni Xhoshua, në një ndeshje që e nisi mjaft mirë, teksa e rrëzoi dy herë brenda raundit të parë, boksierin britanik. Por ky i fundit, falë eksperiencës së tij, duke zhfrytëzuar një vendosje të gabuar të shqiptar në ring, e pas një goditje të fortë me të dj",
+      "title": "ISHP: Përhapja e lisë te delet dhe dhitë nuk përbën rrezik",
+      "link": "https://24-ore.com/ishp-perhapja-e-lise-te-delet-dhe-dhite-nuk-perben-rrezik/",
+      "description": "Instituti i Shëndetit Publik siguron se lija te delet dhe dhitë, që është përhapur së fundi në territorin e shtetit, nuk paraqet rrezik për transmetim te njerëzit. Sipas këtij institucioni masat e ndërmarra nga Agjencia e Ushqimit dhe Veterinarisë për izolimin e rasteve janë të mjaftueshme për momen",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-26T14:39:50+00:00",
-      "dateStr": "26 Jul, 14:39",
+      "date": "2026-07-26T16:25:28+00:00",
+      "dateStr": "26 Jul, 16:25",
       "isNew": true,
-      "id": "24 51785076790"
+      "id": "24 41785083128"
+    },
+    {
+      "title": "Vazhdojnë ndërhyrjet për mirëmbajtjen e rrugëve dhe rritjen e sigurisë",
+      "link": "https://24-ore.com/vazhdojne-nderhyrjet-per-mirembajtjen-e-rrugeve-dhe-rritjen-e-sigurise/",
+      "description": "Ekipet e mirëmbajtjes janë angazhuar në terren për realizimin e ndërhyrjeve të nevojshme në rrjetin rrugor, me synim ruajtjen e gjendjes së mirë të rrugëve dhe rritjen e sigurisë për të gjithë pjesëmarrësit në trafik. &#8220;Ministria e Infrastrukturës dhe Transportit do të vazhdojë me mirëmbajtjen ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T16:22:29+00:00",
+      "dateStr": "26 Jul, 16:22",
+      "isNew": true,
+      "id": "24 51785082949"
+    },
+    {
+      "title": "Mbyllet përkohësisht Dogana e Kapshticës të hënën, shkak greva e punonjësve grekë. Oraret kur bllokohet lëvizja",
+      "link": "https://24-ore.com/mbyllet-perkohesisht-dogana-e-kapshtices-te-henen-shkak-greva-e-punonjesve-greke-oraret-kur-bllokohet-levizja/",
+      "description": "Pika doganore e Kapshticës do të pezullojë përkohësisht punën ditën e hënë, më 27 korrik. Shkak për këtë ndërprerje është bërë një grevë e paralajmëruar nga punonjësit e doganës greke. Sipas njoftimit zyrtar të autoriteteve, bllokimi i lëvizjes do të zgjasë nga ora 05:00 deri në orën 09:00 (me orën ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T16:22:16+00:00",
+      "dateStr": "26 Jul, 16:22",
+      "isNew": true,
+      "id": "24 61785082936"
+    },
+    {
+      "title": "Sezoni turistik në Theth, turistja kanadeze: Vendi duket si parajsë. Kamarieri: Marr 2 milion lek në muaj",
+      "link": "https://24-ore.com/sezoni-turistik-ne-theth-turistja-kanadeze-vendi-duket-si-parajse-kamarieri-marr-2-milion-lek-ne-muaj/",
+      "description": "Gazetari i Euronews Albania, Xhensil Shkëmbi ka udhëtuar drejt Thethit ku ka parë nga afër bukuritë e natyrës së veriut teksa ka zhvilluar intervista me turistë të huaj dhe punonjës të bujtinave të cilët tregojnë më shumë lidhur me turizmin në këtë zonë Kamarieri 21-vjeçar nga Shkodra për emisionin ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T16:22:05+00:00",
+      "dateStr": "26 Jul, 16:22",
+      "isNew": true,
+      "id": "24 71785082925"
+    },
+    {
+      "title": "Aksidentohet një karrotrec në aksin Librazhd-Elbasan, detajet e para (VIDEO)",
+      "link": "https://24-ore.com/aksidentohet-nje-karrotrec-ne-aksin-librazhd-elbasan-detajet-e-para-video/",
+      "description": "Një aksident rrugor është regjistruar pasditen e kësaj të diele në aksin Librazhd-Elbasan, ku është përfshirë një karrotrec që transportonte një automjet. Sipas informacioneve paraprake, karrotreci kishte shkuar për të tërhequr një mjet që kishte pësuar më herët një defekt gjatë lëvizjes. Gjatë tran",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T16:21:50+00:00",
+      "dateStr": "26 Jul, 16:21",
+      "isNew": true,
+      "id": "24 81785082910"
+    },
+    {
+      "title": "Vlorë/ Zjarri masiv në Pyllin e Sodës vihet nën kontroll, digjen mbi 5 hektarë me pisha",
+      "link": "https://24-ore.com/vlore-zjarri-masiv-ne-pyllin-e-sodes-vihet-nen-kontroll-digjen-mbi-5-hektare-me-pisha/",
+      "description": "Një zjarr i përmasave të mëdha ka përfshirë pasditen e së dielës Pyllin e Sodës në qytetin bregdetar të Vlorës. Për shkak të kushteve të pafavorshme atmosferike, flakët janë përhapur me shpejtësi, duke shkrumbuar më shumë se pesë hektarë me pisha të buta dhe duke vënë në rrezik zonën përreth. Përbal",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T16:21:42+00:00",
+      "dateStr": "26 Jul, 16:21",
+      "isNew": true,
+      "id": "24 91785082902"
+    },
+    {
+      "title": "NewsHour me Erneta Shevroja, (26/07/2026)",
+      "link": "https://abcnews.al/newshour-me-erneta-shevroja-26-07-2026-2/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T16:15:48+00:00",
+      "dateStr": "26 Jul, 16:15",
+      "isNew": true,
+      "id": "abc11785082548"
+    },
+    {
+      "title": "Shpërthen cisterna e naftës në Hormuz/ Dyshohet se u përplas me një minë nënujore",
+      "link": "https://abcnews.al/shperthen-cisterna-e-naftes-ne-hormuz-dyshohet-se-u-perplas-me-nje-mine-nenujore/",
+      "description": "Një anije cisternë nafte ka shpërthyer në Ngushticën e Hormuzit pasi dyshohet se është përplasur me një minë detare, raportojnë mediat iraniane. Ngjarja ka rikthyer shqetësimet për sigurinë e një prej rrugëve më të rëndësishme të transportit të energjisë në botë. Ndërkohë, zëdhënësi i Ministrisë së ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T15:56:48+00:00",
+      "dateStr": "26 Jul, 15:56",
+      "isNew": true,
+      "id": "abc21785081408"
+    },
+    {
+      "title": "Raketa ruse godet një lagje të Kharkivit, të paktën 12 të plagosur",
+      "link": "https://abcnews.al/raketa-ruse-godet-nje-lagje-te-kharkivit-te-pakten-12-te-plagosur/",
+      "description": "Të paktën 12 persona janë lënduar si pasojë e një sulmi raketor që goditi sot qytetin e Kharkivit në Ukrainë. Sipas raportimeve të mediave lokale, raketa goditi një nga lagjet e qytetit, ndërsa në rrjetet sociale janë publikuar pamje që tregojnë pasojat e sulmit. Autoritetet ukrainase kanë bërë të d",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T15:20:19+00:00",
+      "dateStr": "26 Jul, 15:20",
+      "isNew": true,
+      "id": "abc31785079219"
+    },
+    {
+      "title": "Kriza e luftës, bota po konsumon më pak naftë/ Kina dhe SHBA shfrytëzojnë rezervën strategjike",
+      "link": "https://abcnews.al/kriza-e-luftes-bota-po-konsumon-me-pak-nafte-kina-dhe-shba-shfrytezojne-rezerven-strategjike/",
+      "description": "Dy forcat kryesore që mbajnë në ekuilibër tregun botëror të naftës janë oferta dhe kërkesa. Por tani lufta mes Iranit dhe SHBA-ve i ka tronditur të dyja, ndërsa njëra prej tyre mund të jetë dëmtuar për një kohë shumë të gjatë. Në anën e ofertës, situata mbetet kaotike. Teprica historike e naftës u s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T14:58:41+00:00",
+      "dateStr": "26 Jul, 14:58",
+      "isNew": true,
+      "id": "abc41785077921"
     },
     {
       "title": "Pamje nga vendngjarja/ Flakët ‘përpijnë’ pyllin e Sodës, favorizohen nga era e fortë",
@@ -78,40 +177,7 @@
       "date": "2026-07-26T14:39:18+00:00",
       "dateStr": "26 Jul, 14:39",
       "isNew": true,
-      "id": "abc01785076758"
-    },
-    {
-      "title": "Kriza e luftës, bota po konsumon më pak naftë/ Kina dhe SHBA shfrytëzojnë rezervën strategjike",
-      "link": "https://abcnews.al/kriza-e-luftes-bota-po-konsumon-me-pak-nafte-kina-dhe-shba-shfrytezojne-rezerven-strategjike/",
-      "description": "Dy forcat kryesore që mbajnë në ekuilibër tregun botëror të naftës janë oferta dhe kërkesa. Por tani lufta mes Iranit dhe SHBA-ve i ka tronditur të dyja, ndërsa njëra prej tyre mund të jetë dëmtuar për një kohë shumë të gjatë. Në anën e ofertës, situata mbetet kaotike. Teprica historike e naftës u s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T14:38:41+00:00",
-      "dateStr": "26 Jul, 14:38",
-      "isNew": true,
-      "id": "abc11785076721"
-    },
-    {
-      "title": "GJERMANI – Ministri i Brendshëm: Sulmi në Paradën e Krenarisë në Berlin, akt terrorist islamist",
-      "link": "https://24-ore.com/gjermani-ministri-i-brendshem-sulmi-ne-paraden-e-krenarise-ne-berlin-akt-terrorist-islamist/",
-      "description": "BERLIN, 26 korrik /ATSH-DPA/- Autoritetet gjermane po hetojnë incidentin vdekjeprurës gjatë Paradës së Krenarisë në Berlin, si një sulm terrorist me motive islamiste, deklaroi sot ministri i Brendshëm i Gjermanisë, Alexander Dobrindt, duke theksuar se provat e deritanishme çojnë në këtë përfundim. S",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T14:36:05+00:00",
-      "dateStr": "26 Jul, 14:36",
-      "isNew": true,
-      "id": "24 61785076565"
-    },
-    {
-      "title": "Kujdes nëse udhëtoni nesër drejt Greqisë! Bllokohet përkohësisht pika kufitare e Kapshticës",
-      "link": "https://24-ore.com/kujdes-nese-udhetoni-neser-drejt-greqise-bllokohet-perkohesisht-pika-kufitare-e-kapshtices/",
-      "description": "Pika doganore e Kapshticës do të pezullojë përkohësisht punën ditën e hënë, më 27 korrik. Shkak për këtë ndërprerje është bërë një grevë e paralajmëruar nga punonjësit e doganës greke. Sipas njoftimit zyrtar të autoriteteve, bllokimi i lëvizjes do të zgjasë nga ora 05:00 deri në orën 09:00 (me orën ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T14:31:50+00:00",
-      "dateStr": "26 Jul, 14:31",
-      "isNew": true,
-      "id": "24 71785076310"
+      "id": "abc51785076758"
     },
     {
       "title": "NewsHour me Erneta Shevroja, (26/07/2026)",
@@ -122,29 +188,7 @@
       "date": "2026-07-26T14:29:50+00:00",
       "dateStr": "26 Jul, 14:29",
       "isNew": true,
-      "id": "abc21785076190"
-    },
-    {
-      "title": "FOKUS – Flakët pushtojnë jugperëndimin e Francës, evakuohen gati 200 mijë banorë dhe turistë",
-      "link": "https://24-ore.com/fokus-flaket-pushtojne-jugperendimin-e-frances-evakuohen-gati-200-mije-banore-dhe-turiste/",
-      "description": "&#8211; Zjarret masive në jugperëndim të Francës kanë shkaktuar një nga operacionet më të mëdha të evakuimit në historinë e vendit, ndërsa dhjetëra mijëra banorë dhe turistë janë detyruar të largohen nga zonat e rrezikuara, njoftuan sot autoritetet. Ministri i Brendshëm francez, Laurent Nuñez, bëri ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T14:26:44+00:00",
-      "dateStr": "26 Jul, 14:26",
-      "isNew": true,
-      "id": "24 81785076004"
-    },
-    {
-      "title": "Zyrtare/ Champions League hap siparin, 36 klube në garë për trofeun që mbron PSG",
-      "link": "https://24-ore.com/zyrtare-champions-league-hap-siparin-36-klube-ne-gare-per-trofeun-qe-mbron-psg/",
-      "description": "Sezoni i ri i Champions League, i 72-ti në histori, nis më 7 korrik 2026 dhe mbyllet me finalen në Estadio Metropolitano të Madridit, të shtunën më 5 qershor 2027. 36 skuadra do të marrin pjesë në short, prej të cilave 29 klube kualifikohen direkt në fazën e ligës, ndërsa 7 të tjera do të [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T14:23:06+00:00",
-      "dateStr": "26 Jul, 14:23",
-      "isNew": true,
-      "id": "24 91785075786"
+      "id": "abc61785076190"
     },
     {
       "title": "Vapa ekstreme vijon të përfshijë Francën dhe Spanjën, temperatura deri në 42°C",
@@ -155,7 +199,7 @@
       "date": "2026-07-26T14:15:50+00:00",
       "dateStr": "26 Jul, 14:15",
       "isNew": true,
-      "id": "abc31785075350"
+      "id": "abc71785075350"
     },
     {
       "title": "Zjarret në Spanjë, Sanchez: Na presin orë të vështira në luftën kundër flakëve",
@@ -166,7 +210,7 @@
       "date": "2026-07-26T13:50:25+00:00",
       "dateStr": "26 Jul, 13:50",
       "isNew": true,
-      "id": "abc41785073825"
+      "id": "abc81785073825"
     },
     {
       "title": "Newsline me Fabiola Hoxha, (26/07/2026)",
@@ -177,51 +221,7 @@
       "date": "2026-07-26T13:45:25+00:00",
       "dateStr": "26 Jul, 13:45",
       "isNew": true,
-      "id": "abc51785073525"
-    },
-    {
-      "title": "SHBA “ngrin” sulmet/ Presidenti i SHBA ndalon përkohësisht operacionin ndaj Iranit",
-      "link": "https://abcnews.al/shba-ngrin-sulmet-presidenti-i-shba-ndalon-perkohesisht-operacionin-ndaj-iranit/",
-      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump, ka pezulloje për momentin, planet për një përshkallëzim të operacioneve ushtarake amerikane kundër Iranit. Sipas zyrtarëve të administratës amerikane, një nga arsyet kryesore është frika se një luftë më intensive mund të shterojë rezervat e raketave ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T13:36:34+00:00",
-      "dateStr": "26 Jul, 13:36",
-      "isNew": true,
-      "id": "abc61785072994"
-    },
-    {
-      "title": "Asani konfirmon: Jam në Iran. Ylli kuqezi mbërrin në Teheran dhe lajmëron vendimin e tij",
-      "link": "https://abcnews.al/asani-konfirmon-jam-ne-iran-ylli-kuqezi-mberrin-ne-teheran-dhe-lajmeron-vendimin-e-tij/",
-      "description": "Paska qenë një besa-besë. Mediat iraniane njoftuan se Jasir Asani do të kthehej tek skuadra e tij, Esteglal, pavarësisht konfliktit në Gjirin Persik që vazhdon, dhe ylli kuqezi e mbajti fjalën. Vetë shqiptari nga Shkupi vërtetoi gjithçka me një mesazh në Instagram, ai njoftoi se është me I lumtur që",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T13:00:59+00:00",
-      "dateStr": "26 Jul, 13:00",
-      "isNew": true,
-      "id": "abc71785070859"
-    },
-    {
-      "title": "Tajfuni Noul detyron më shumë se 715,000 njerëz të largohen nga shtëpitë dhe anulon qindra fluturime në Kinë",
-      "link": "https://abcnews.al/tajfuni-noul-detyron-me-shume-se-715000-njerez-te-largohen-nga-shtepite-dhe-anulon-qindra-fluturime-ne-kine/",
-      "description": "Tajfuni Noul goditi tokën të dielën në mëngjes duke sjellë erëra të forta dhe shira të rrëmbyeshëm në Kinën jugore, përfshirë Hong Kongun, gjatë fundjavës. Ai shkaktoi evakuimin e qindra mijëra njerëzve në provincën Guangdong, me rajonin në gatishmëri të lartë dhe qindra fluturime të anuluara. Tajfu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T12:50:21+00:00",
-      "dateStr": "26 Jul, 12:50",
-      "isNew": true,
-      "id": "abc81785070221"
-    },
-    {
-      "title": "Vinicius e Real Madrid në “luftë”/ Sulmuesi brazilian, pranë largimit nga “Santiago Bernabeu”",
-      "link": "https://abcnews.al/vinicius-e-real-madrid-ne-lufte-sulmuesi-brazilian-prane-largimit-nga-santiago-bernabeu/",
-      "description": "Nuk ka asnjë dyshim se çfarë përfaqëson. Vinisius Zhunior, shkurt Vinisius, është një nga yjet më të mëdhenj të Realit, të Brazilit dhe të futbollit botëror, por gjithsesi duket se ai është në rrugën e largimit nga gjigandët spanjollë. Klubi më i madh i botës në futboll nuk është se ka ndonjë dëshir",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T12:30:28+00:00",
-      "dateStr": "26 Jul, 12:30",
-      "isNew": true,
-      "id": "abc91785069028"
+      "id": "abc91785073525"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
