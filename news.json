@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-26T02:29:04.983312+00:00",
+  "lastUpdated": "2026-07-26T05:56:10.942889+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Horoskopi 26 korrik 2026, zbuloni parashikimet e yjeve",
+      "link": "https://abcnews.al/horoskopi-26-korrik-2026-zbuloni-parashikimet-e-yjeve/",
+      "description": "Dashi Ditë shumë e kënaqshme kjo e sotmja për ata që janë në një lidhje. Do merreni vesh për çdo gjë dhe do ndiheni të qetë. Beqarët do kërkojnë në çdo vend personin e ëndrrave, por sërish nuk do munden dot ta ndryshojnë statusin. Në planin financiar do kryeni shpenzime ekstravagante dhe gjendja ka ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T05:18:12+00:00",
+      "dateStr": "26 Jul, 05:18",
+      "isNew": true,
+      "id": "abc01785043092"
+    },
     {
       "title": "Një i vdekur dhe 16 të plagosur pasi një furgon u përplas me turmën në Paradën e Krenarisë në Berlin",
       "link": "https://24-ore.com/nje-i-vdekur-dhe-16-te-plagosur-pasi-nje-furgon-u-perplas-me-turmen-ne-paraden-e-krenarise-ne-berlin/",
@@ -67,7 +78,7 @@
       "date": "2026-07-25T21:55:09+00:00",
       "dateStr": "25 Jul, 21:55",
       "isNew": true,
-      "id": "abc01785016509"
+      "id": "abc11785016509"
     },
     {
       "title": "Bllokada politike paralizon institucionet, 24 agjenci funksionojnë me mandate të skaduara ose jo të plota",
@@ -89,7 +100,7 @@
       "date": "2026-07-25T21:35:00+00:00",
       "dateStr": "25 Jul, 21:35",
       "isNew": true,
-      "id": "abc11785015300"
+      "id": "abc21785015300"
     },
     {
       "title": "Macron premton rindërtimin pas zjarreve në Francë: Shteti do të jetë në terren sa të jetë e nevojshme",
@@ -133,7 +144,7 @@
       "date": "2026-07-25T21:08:30+00:00",
       "dateStr": "25 Jul, 21:08",
       "isNew": true,
-      "id": "abc21785013710"
+      "id": "abc31785013710"
     },
     {
       "title": "Rama paralajmëroi rishikimin e bashkëpunimit me BIRN-in, Kallxo.com sqaron rastin “Lule Gjeli”",
@@ -155,7 +166,7 @@
       "date": "2026-07-25T20:30:16+00:00",
       "dateStr": "25 Jul, 20:30",
       "isNew": true,
-      "id": "abc31785011416"
+      "id": "abc41785011416"
     },
     {
       "title": "Ukraina në bisedime me SHBA-të për të përshpejtuar dërgesat e raketave “Patriot”",
@@ -166,7 +177,7 @@
       "date": "2026-07-25T20:10:10+00:00",
       "dateStr": "25 Jul, 20:10",
       "isNew": true,
-      "id": "abc41785010210"
+      "id": "abc51785010210"
     },
     {
       "title": "Zelensky: Rusia po përgatitet të marrë 30,000 trupa të tjera të Koresë së Veriut dhe të zgjerojë mobilizimin",
@@ -177,7 +188,7 @@
       "date": "2026-07-25T19:51:05+00:00",
       "dateStr": "25 Jul, 19:51",
       "isNew": true,
-      "id": "abc51785009065"
+      "id": "abc61785009065"
     },
     {
       "title": "ChatGPT bashkon një familje pas më shumë se 60 vitesh",
@@ -188,7 +199,7 @@
       "date": "2026-07-25T19:28:05+00:00",
       "dateStr": "25 Jul, 19:28",
       "isNew": true,
-      "id": "abc61785007685"
+      "id": "abc71785007685"
     },
     {
       "title": "Aeroplani përplaset mbi shtëpinë e një familjeje në Gjermani, dy persona humbin jetën",
@@ -199,7 +210,7 @@
       "date": "2026-07-25T19:09:14+00:00",
       "dateStr": "25 Jul, 19:09",
       "isNew": true,
-      "id": "abc71785006554"
+      "id": "abc81785006554"
     },
     {
       "title": "Edicioni Qendror me Emilian Islami, (25/07/2026)",
@@ -210,18 +221,7 @@
       "date": "2026-07-25T18:50:35+00:00",
       "dateStr": "25 Jul, 18:50",
       "isNew": true,
-      "id": "abc81785005435"
-    },
-    {
-      "title": "VIDEO/ Neutralizohen dy vatra zjarri në Lazarat, shmangen dëmet",
-      "link": "https://abcnews.al/vidoe-neutralizohen-dy-vatra-zjarri-ne-lazarat-shmangen-demet/",
-      "description": "Forcat e repartit zjarrfikës në Gjirokastër kanë bërë të mundur neutralizimin në kohë të dy vatrave të zjarrit të regjistruara në fshatin Lazarat. Falë ndërhyrjes së shpejtë, zjarret janë vënë nën kontroll pa shkaktuar dëme të konsiderueshme. Sipas informacionit paraprak, është djegur vetëm një sipë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-25T18:35:48+00:00",
-      "dateStr": "25 Jul, 18:35",
-      "isNew": true,
-      "id": "abc91785004548"
+      "id": "abc91785005435"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
