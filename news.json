@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-07-25T23:55:44.067168+00:00",
+  "lastUpdated": "2026-07-26T02:29:04.983312+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Një i vdekur dhe 16 të plagosur pasi një furgon u përplas me turmën në Paradën e Krenarisë në Berlin",
+      "link": "https://24-ore.com/nje-i-vdekur-dhe-16-te-plagosur-pasi-nje-furgon-u-perplas-me-turmen-ne-paraden-e-krenarise-ne-berlin/",
+      "description": "Berlin, 26 korrik /ATSH/ Një person humbi jetën dhe të paktën 16 të tjerë mbetën të plagosur, disa prej tyre në gjendje kritike, pasi një furgon u përplas me turmën gjatë festimeve të paradës së komunitetit LGBTQ+, Christopher Street Day (CSD), në Berlin.  Sipas policisë gjermane, incidenti ndodhi p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T01:27:24+00:00",
+      "dateStr": "26 Jul, 01:27",
+      "isNew": true,
+      "id": "24 01785029244"
+    },
+    {
+      "title": "Problemi nuk është komunikimi, por qeverisja",
+      "link": "https://24-ore.com/problemi-nuk-eshte-komunikimi-por-qeverisja/",
+      "description": "Ashtu siç pritej, Edi Rama nuk e ndryshoi qeverinë në prag të pushimeve dhe në mes të protestave. Logjika më e thjeshtë të thotë se nuk duhet të ndërhysh në skemën e pushtetit teksa pushteti kontestohet, duke ja dhënë kësisoj dafinat e fitores kundërshtarit. Rama ka vite që e mat me kujdes sesi dhe ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T01:14:24+00:00",
+      "dateStr": "26 Jul, 01:14",
+      "isNew": true,
+      "id": "24 11785028464"
+    },
     {
       "title": "Qeveria e Iranit debaton me televizionin shtetëror, ndërsa ndërmjetësuesit shtyjnë përpara bisedimet me SHBA-në",
       "link": "https://24-ore.com/qeveria-e-iranit-debaton-me-televizionin-shteteror-ndersa-ndermjetesuesit-shtyjne-perpara-bisedimet-me-shba-ne/",
@@ -12,7 +34,7 @@
       "date": "2026-07-25T23:02:10+00:00",
       "dateStr": "25 Jul, 23:02",
       "isNew": true,
-      "id": "24 01785020530"
+      "id": "24 21785020530"
     },
     {
       "title": "Mbingarkesa e klinikave në QKUK, kërkohet referim më i drejtë",
@@ -23,7 +45,7 @@
       "date": "2026-07-25T22:07:03+00:00",
       "dateStr": "25 Jul, 22:07",
       "isNew": true,
-      "id": "24 11785017223"
+      "id": "24 31785017223"
     },
     {
       "title": "Mitrovica mposht Ludogoretsin dhe kualifikohet në rundin e dytë të Ligës së Kampionëve",
@@ -34,7 +56,7 @@
       "date": "2026-07-25T21:57:41+00:00",
       "dateStr": "25 Jul, 21:57",
       "isNew": true,
-      "id": "24 21785016661"
+      "id": "24 41785016661"
     },
     {
       "title": "Macron premton rindërtimin pas zjarreve në Francë: Shteti do të jetë në terren sa të jetë e nevojshme",
@@ -56,7 +78,7 @@
       "date": "2026-07-25T21:41:39+00:00",
       "dateStr": "25 Jul, 21:41",
       "isNew": true,
-      "id": "24 31785015699"
+      "id": "24 51785015699"
     },
     {
       "title": "Protesta/ Nura: Individë të veçantë kanë kërcënuar SPAK. Balliu: SPAK të veprojë ndaj Berishës",
@@ -78,7 +100,7 @@
       "date": "2026-07-25T21:22:53+00:00",
       "dateStr": "25 Jul, 21:22",
       "isNew": true,
-      "id": "24 41785014573"
+      "id": "24 61785014573"
     },
     {
       "title": "E vërteta e rrëzimit të Concorde, ëndrra supersonike që përfundoi në tragjedinë e 25 korrikut 2000",
@@ -89,7 +111,7 @@
       "date": "2026-07-25T21:22:28+00:00",
       "dateStr": "25 Jul, 21:22",
       "isNew": true,
-      "id": "24 51785014548"
+      "id": "24 71785014548"
     },
     {
       "title": "Barnatoret “roje të natës”, nis planifikimi i orarit të kujdestarisë në nivel vendi",
@@ -100,7 +122,7 @@
       "date": "2026-07-25T21:17:28+00:00",
       "dateStr": "25 Jul, 21:17",
       "isNew": true,
-      "id": "24 61785014248"
+      "id": "24 81785014248"
     },
     {
       "title": "Djali i Bolsonaros nominohet si kandidat presidencial i krahut të djathtë në Brazil",
@@ -122,7 +144,7 @@
       "date": "2026-07-25T21:01:53+00:00",
       "dateStr": "25 Jul, 21:01",
       "isNew": true,
-      "id": "24 71785013313"
+      "id": "24 91785013313"
     },
     {
       "title": "Presidenti i Kazakistanit-Putinit: Ndalini luftimet në Ukrainë (VIDEO)",
@@ -145,28 +167,6 @@
       "dateStr": "25 Jul, 20:10",
       "isNew": true,
       "id": "abc41785010210"
-    },
-    {
-      "title": "Nga këshilltar në garant të pajtueshmërisë: Si po ndryshon roli i profesioneve të lira",
-      "link": "https://24-ore.com/nga-keshilltar-ne-garant-te-pajtueshmerise-si-po-ndryshon-roli-i-profesioneve-te-lira/",
-      "description": "Rregulloret e reja p&#235;r parandalimin e pastrimit t&#235; parave dhe nisma m&#235; e fundit ligjore p&#235;r raportimin e mekanizmave nd&#235;rkufitar&#235; &#8211; DAC 6, po ndryshojn&#235; gradualisht rolin e konsulent&#235;ve, avokat&#235;ve, kontabilist&#235;ve dhe auditor&#235;ve. A &#235;sh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T20:02:54+00:00",
-      "dateStr": "25 Jul, 20:02",
-      "isNew": true,
-      "id": "24 81785009774"
-    },
-    {
-      "title": "​Mbrojtja e Thaçit–Prokurorisë për rrezikun e arratisjes: Garantues vëllai i tij dhe miqtë e ngushtë",
-      "link": "https://24-ore.com/mbrojtja-e-thacit-prokurorise-per-rrezikun-e-arratisjes-garantues-vellai-i-tij-dhe-miqte-e-ngushte/",
-      "description": "Mbrojtja e Hashim Thaçit iu përgjigj Prokurorisë Speciale në Hagë dhe vlerësimit të saj se paraburgimi mbetet masë proporcionale për ish-presidentin e Kosovës. “Mbështetja e ZPS-së në pretendimin se z. Thaçi mund të ketë qasje në fonde të konsiderueshme dhe të sigurojë lehtësisht mbështetje është sp",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-25T19:56:33+00:00",
-      "dateStr": "25 Jul, 19:56",
-      "isNew": true,
-      "id": "24 91785009393"
     },
     {
       "title": "Zelensky: Rusia po përgatitet të marrë 30,000 trupa të tjera të Koresë së Veriut dhe të zgjerojë mobilizimin",
