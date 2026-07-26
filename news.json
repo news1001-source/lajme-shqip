@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-07-26T20:52:33.405615+00:00",
+  "lastUpdated": "2026-07-26T21:54:57.218802+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Turistët e huaj mahniten nga Rugova: Është si të jesh në Alpe",
+      "link": "https://24-ore.com/turistet-e-huaj-mahniten-nga-rugova-eshte-si-te-jesh-ne-alpe/",
+      "description": "Turizmi në Kosovë po zgjon gjithnjë e më shumë interesin e vizitorëve të huaj, veçanërisht për destinacionet malore dhe turizmin në natyrë. Ndër destinacionet që po tërheqin vëmendje të veçantë është edhe Lugina e Rugovës. Turistë nga Belgjika dhe Gjermania, të cilët pas një udhëtimi disa mujor nëpë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T21:25:00+00:00",
+      "dateStr": "26 Jul, 21:25",
+      "isNew": true,
+      "id": "24 01785101100"
+    },
+    {
+      "title": "Besa e Edi Ramës dhe pengmarrja e Aeroportit të Vlorës",
+      "link": "https://24-ore.com/besa-e-edi-rames-dhe-pengmarrja-e-aeroportit-te-vlores/",
+      "description": "Sikur fjalimin e Edi Ramës në mbledhjen e grupit parlamentar ta kishte dëgjuar një njeri që sapo ishte zgjuar nga një gjumë trembëdhjetëvjeçar, ose një i huaj që nuk ka jetuar kurrë në Shqipëri e nuk di asgjë për mënyrën si është qeverisur vendi, me shumë gjasë do të krijonte përshtypjen se kishte p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T20:58:28+00:00",
+      "dateStr": "26 Jul, 20:58",
+      "isNew": true,
+      "id": "24 11785099508"
+    },
     {
       "title": "Elon Musk parashikon një botë pa para deri në vitin 2036, deklarata ngjall diskutime",
       "link": "https://abcnews.al/elon-musk-parashikon-nje-bote-pa-para-deri-ne-vitin-2036-deklarata-ngjall-diskutime/",
@@ -23,7 +45,7 @@
       "date": "2026-07-26T20:21:05+00:00",
       "dateStr": "26 Jul, 20:21",
       "isNew": true,
-      "id": "24 01785097265"
+      "id": "24 21785097265"
     },
     {
       "title": "“Besa, deklaratë e kryeministrit në rrethana shtrënguese”, juristja Jorgo: Në shesh janë shqiptarët e zhgënjyer",
@@ -34,7 +56,7 @@
       "date": "2026-07-26T20:20:54+00:00",
       "dateStr": "26 Jul, 20:20",
       "isNew": true,
-      "id": "24 11785097254"
+      "id": "24 31785097254"
     },
     {
       "title": "“Rama po na shet reflektim nëpërmjet ‘Besës'”, Karabina: Po përdor retorikën e njëjtë për votuesit",
@@ -45,7 +67,7 @@
       "date": "2026-07-26T20:20:41+00:00",
       "dateStr": "26 Jul, 20:20",
       "isNew": true,
-      "id": "24 21785097241"
+      "id": "24 41785097241"
     },
     {
       "title": "Gazetari Peçi: Rama ka lidhur ‘Besën’ me Berishën dhe Kodin zgjedhor",
@@ -56,7 +78,7 @@
       "date": "2026-07-26T20:20:23+00:00",
       "dateStr": "26 Jul, 20:20",
       "isNew": true,
-      "id": "24 31785097223"
+      "id": "24 51785097223"
     },
     {
       "title": "Merz do të propozojë Steffen Bilger si ministër të ri të transportit",
@@ -67,7 +89,7 @@
       "date": "2026-07-26T20:19:58+00:00",
       "dateStr": "26 Jul, 20:19",
       "isNew": true,
-      "id": "24 41785097198"
+      "id": "24 61785097198"
     },
     {
       "title": "Irani pretendon se ka përparim në bisedimet me Omanin për Hormuzin",
@@ -89,7 +111,7 @@
       "date": "2026-07-26T20:04:54+00:00",
       "dateStr": "26 Jul, 20:04",
       "isNew": true,
-      "id": "24 51785096294"
+      "id": "24 71785096294"
     },
     {
       "title": "Mbi 5.500 viktima një muaj pas tërmeteve në Venezuelë, dëmet arrijnë mbi 19 miliardë dollarë",
@@ -122,7 +144,7 @@
       "date": "2026-07-26T19:24:53+00:00",
       "dateStr": "26 Jul, 19:24",
       "isNew": true,
-      "id": "24 61785093893"
+      "id": "24 81785093893"
     },
     {
       "title": "Spahiu: Kosova të ketë kujdes në raportet me SHBA-në, janë bërë gabime që kanë lëkundur besimin",
@@ -133,7 +155,7 @@
       "date": "2026-07-26T19:24:40+00:00",
       "dateStr": "26 Jul, 19:24",
       "isNew": true,
-      "id": "24 71785093880"
+      "id": "24 91785093880"
     },
     {
       "title": "Putin me deklaratë nxitëse: Ukraina do të ndahet në disa pjesë",
@@ -145,28 +167,6 @@
       "dateStr": "26 Jul, 19:15",
       "isNew": true,
       "id": "abc41785093315"
-    },
-    {
-      "title": "“Hileja” me zbardhjen e vendimeve, si po tentojnë të dënuarit të përfitojnë nga amnistia",
-      "link": "https://24-ore.com/hileja-me-zbardhjen-e-vendimeve-si-po-tentojne-te-denuarit-te-perfitojne-nga-amnistia/",
-      "description": "Zbardhja e vendimeve me vonesë po përdoret nga të dënuarit si argument për të përfituar edhe nga Amnistia 2026. Paditësit po shfrytëzojnë ligjin, të cilin e lexojnë se u jep edhe atyre të drejtë atëherë kur vendimmarrja është deklaruar nga shkalla e parë, por që, duke mos u ankimuar, duhet të kishte",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T19:05:13+00:00",
-      "dateStr": "26 Jul, 19:05",
-      "isNew": true,
-      "id": "24 81785092713"
-    },
-    {
-      "title": "Peshtan/ Zjarri përfshin zonën me bimësi, zjarrfikësit shuajnë vatrën",
-      "link": "https://24-ore.com/peshtan-zjarri-perfshin-zonen-me-bimesi-zjarrfikesit-shuajne-vatren/",
-      "description": "Një vatër zjarri ka përfshirë pasditen e sotme kodrat e Peshtanit, duke djegur një sipërfaqe me shkurre dhe lisa. Menjëherë pas marrjes së njoftimit, forcat zjarrfikëse të Fierit kanë ndërhyrë në terren, duke nisur operacionin për izolimin e flakëve dhe parandalimin e përhapjes së zjarrit në zona të",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T19:04:53+00:00",
-      "dateStr": "26 Jul, 19:04",
-      "isNew": true,
-      "id": "24 91785092693"
     },
     {
       "title": "Shtëpia e perëndive greke hyn në Listën e Trashëgimisë Botërore të UNESCO-s",
