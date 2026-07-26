@@ -1,62 +1,205 @@
 {
-  "lastUpdated": "2026-07-26T10:40:36.191207+00:00",
+  "lastUpdated": "2026-07-26T11:59:10.125330+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "VLEN: BDI po e zhvlerëson politikën shqiptare",
-      "link": "https://24-ore.com/vlen-bdi-po-e-zhvlereson-politiken-shqiptare/",
-      "description": "VLEN: BDI po e zhvlerëson politikën shqiptare",
+      "title": "Banjska nuk ndodhi pa dijeninë e Beogradit, Janjiq: Nëse Radoiçiq flet – Vuçiq mund të përballet me pasoja",
+      "link": "https://24-ore.com/banjska-nuk-ndodhi-pa-dijenine-e-beogradit-janjiq-nese-radoiciq-flet-vuciq-mund-te-perballet-me-pasoja/",
+      "description": "Raportet ndërmjet presidentit të Serbisë, Aleksandar Vuçiq dhe kryekriminelit të akuzuar e të kërkuar në Kosovë për rastin Banjska dhe jo vetëm, Milan Radoiçiq janë delikate dhe jo gjithaq të mira, për të mos thënë edhe tronditëse. Kështu thotë themeluesi i Këshillit për Marrëdhënie Etnike në Beogra",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-26T10:40:32+00:00",
-      "dateStr": "26 Jul, 10:40",
+      "date": "2026-07-26T11:55:13+00:00",
+      "dateStr": "26 Jul, 11:55",
       "isNew": true,
-      "id": "24 01785062432"
+      "id": "24 01785066913"
     },
     {
-      "title": "Dimitrievski: Këshilltarët dhe deputetët që u bënë të pavarur duhet ta kthejnë mandatin",
-      "link": "https://24-ore.com/dimitrievski-keshilltaret-dhe-deputetet-qe-u-bene-te-pavarur-duhet-ta-kthejne-mandatin/",
-      "description": "Këshilltarët dhe deputetët që janë larguar nga partia, gjëja më e ndershme që mund të bëjnë është ta kthejnë mandatin e fituar me votat e partisë, deklaroi kryetari i ZNAM-it, Maksim Dimitrievski, gjatë panel-diskutimit në Prilep. Lidhur me vendimin e këshilltares së vetme të ZNAM-it në Këshillin e ",
+      "title": "Horoskopi ditor për nesër, e hënë 27 korrik 2026",
+      "link": "https://24-ore.com/horoskopi-ditor-per-neser-e-hene-27-korrik-2026/",
+      "description": "Dashi Shume planetë do kenë ndikim te madh sot ne jetën tuaj ne çift. Ata do ju udhëheqin drejt rrugës se duhur dhe gjithçka do shkoje me se miri. Beqaret nuk do mund ta realizojnë dot sot takimin e ëndërruar dhe kjo do i mërzitë paksa. Me financat mundohuni te tregoheni sa me te matur [&#8230;]",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-26T10:35:28+00:00",
+      "date": "2026-07-26T11:52:30+00:00",
+      "dateStr": "26 Jul, 11:52",
+      "isNew": true,
+      "id": "24 11785066750"
+    },
+    {
+      "title": "Sulmi në Berlin, Rama: Shqipëria qëndron me Gjermaninë, nuk ka vend për urrejtje dhe ekstremizëm",
+      "link": "https://24-ore.com/sulmi-ne-berlin-rama-shqiperia-qendron-me-gjermanine-nuk-ka-vend-per-urrejtje-dhe-ekstremizem/",
+      "description": "Kryeministri Edi Rama ka reaguar pas sulmit të ndodhur gjatë paradës së Krenarisë në Berlin, ku një automjet u përplas me turmën, duke shkaktuar një viktimë dhe disa të plagosur. Përmes një reagimi në X, kreu i qeverisë shqiptare shprehu solidaritetin me Gjermaninë dhe dënoi çdo formë dhune dhe ekst",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T11:40:08+00:00",
+      "dateStr": "26 Jul, 11:40",
+      "isNew": true,
+      "id": "24 21785066008"
+    },
+    {
+      "title": "“Besa jonë s’ka lidhje me sorrat dhe korbat”, Rama u përgjigjet kritikëve: Fjala ime ishte për mësimet që mora nga flamingot",
+      "link": "https://abcnews.al/besa-jone-ska-lidhje-me-sorrat-dhe-korbat-rama-u-pergjigjet-kritikeve-fjala-ime-ishte-per-mesimet-qe-mora-nga-flamingot/",
+      "description": "Më vijnë në rrugë të ndryshme përmes whatsapit, nga miq a të panjohur, muhabete* sorrash e korbash pas fjalës sime për Bulevardin e Flamingove. Një prej tyre, që e kam dëgjuar edhe me audion origjinale nga poshtë dritares së zyrës, do një koment: Përsërisin që s’duan “dialog”, s’ka “negociata”, s’ja",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T11:35:22+00:00",
+      "dateStr": "26 Jul, 11:35",
+      "isNew": true,
+      "id": "abc01785065722"
+    },
+    {
+      "title": "Kurti në veri: Asnjë kriminel nuk do të mbetet i pandëshkuar",
+      "link": "https://24-ore.com/kurti-ne-veri-asnje-kriminel-nuk-do-te-mbetet-i-pandeshkuar/",
+      "description": "Kryeministri në detyrë, Albin Kurti, ka bërë homazhe te lapidari në vendin e rënies së Heroit të Kosovës, Enver Zymeri, në Varagë të Zubin Potokut, në 15-vjetorin e rënies së tij heroike. I shoqëruar nga ministri në detyrë i Punëve të Brendshme, Xhelal Sveçla, Kurti tha se Enver Zymeri dhe policët e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T11:35:06+00:00",
+      "dateStr": "26 Jul, 11:35",
+      "isNew": true,
+      "id": "24 31785065706"
+    },
+    {
+      "title": "Një grusht arra në ditë? Shkencëtarët zbulojnë ndikimin e tyre në kujtesë dhe shëndetin e zemrës",
+      "link": "https://24-ore.com/nje-grusht-arra-ne-dite-shkencetaret-zbulojne-ndikimin-e-tyre-ne-kujtese-dhe-shendetin-e-zemres/",
+      "description": "&#8211; Një studim i fundit ka analizuar ndikimin e konsumit të përditshëm të arrave, në funksionet njohëse dhe plakjen e trurit, duke sugjeruar se ato mund të kenë një rol mbështetës, falë përbërësve ushqyes, si acidet yndyrore omega-3, polifenolet dhe antioksidantët. Studimi i njohur si “Arrat dhe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T11:31:43+00:00",
+      "dateStr": "26 Jul, 11:31",
+      "isNew": true,
+      "id": "24 41785065503"
+    },
+    {
+      "title": "Furnizoi makinën me karburant dhe pagoi me euro false, arrestohet 24 vjeçari në Rrogozhinë",
+      "link": "https://24-ore.com/furnizoi-makinen-me-karburant-dhe-pagoi-me-euro-false-arrestohet-24-vjecari-ne-rrogozhine/",
+      "description": "Një pagesë me euro false në një pikë karburanti në Rrogozhinë çoi në arrestimin e një 24-vjeçari ditën e sotme. Gjatë kontrollit, policia i gjeti edhe 10 kartëmonedha të tjera, të dyshuara si të falsifikuara. I riu dyshohet se kishte furnizuar automjetin me karburant në një pikë karburanti në fshati",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T11:30:42+00:00",
+      "dateStr": "26 Jul, 11:30",
+      "isNew": true,
+      "id": "24 51785065442"
+    },
+    {
+      "title": "Rama: Dënojmë sulmin në Berlin. Kryeministri: Nuk mund të ketë tolerancë për urrejtje, dhunë apo ekstremizëm në asnjë formë",
+      "link": "https://abcnews.al/rama-denojme-sulmin-ne-berlin-kryeministri-nuk-mund-te-kete-tolerance-per-urrejtje-dhune-apo-ekstremizem-ne-asnje-forme/",
+      "description": "Kryeministri Edi Rama ka reaguar lidhur me ngjarjen e rëndë të ndodhur në Paradën e Krenarisë në Berlin, ku një furgon u fut në turmë duke lënë 1 viktimë dhe 16 të plagosur. Përmes një postimi në rrjetet sociale, Rama u shpreh se Shqipëria shpreh solidaritetin më të sinqertë me Gjermaninë dhe popull",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T11:28:06+00:00",
+      "dateStr": "26 Jul, 11:28",
+      "isNew": true,
+      "id": "abc11785065286"
+    },
+    {
+      "title": "Blinte produkte dhe paguante me kartëmonedha të falsifikuara/ Arrestohet 24-vjeçari në Durrës",
+      "link": "https://abcnews.al/blinte-produkte-dhe-paguante-me-kartemonedha-te-falsifikuara-arrestohet-24-vjecari-ne-durres/",
+      "description": "Durrës Finalizohet operacioni policor i koduar &#8220;Përdorimi&#8221;. Blinte produkte dhe paguante me kartëmonedha të falsifikuara, kapet dhe arrestohet në flagrancë 24-vjeçari. Sekuestrohen 13 kartëmonedha me prerje 20 euro, të dyshuara të falsifikuara. Specialistët e Seksionit për Hetimin e Krim",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T11:23:06+00:00",
+      "dateStr": "26 Jul, 11:23",
+      "isNew": true,
+      "id": "abc21785064986"
+    },
+    {
+      "title": "Prokurori pa Magjistraturë, Veliaj dhe ironia e një beteje ligjore",
+      "link": "https://24-ore.com/prokurori-pa-magjistrature-veliaj-dhe-ironia-e-nje-beteje-ligjore/",
+      "description": "Nga Altin Ketro Ka raste kur një shkrim duhet ta ndërtosh duke veshur për pak çaste petkun e cinizmit. Jo sepse e përqafon këtë qëndrim, por sepse ndonjëherë vetëm përmes ironisë së ftohtë mund të nxjerrësh në pah një paradoks. Pa këtë shpjegim, ajo që do të shkruaj më poshtë mund të keqkuptohet. Di",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T11:21:13+00:00",
+      "dateStr": "26 Jul, 11:21",
+      "isNew": true,
+      "id": "24 61785064873"
+    },
+    {
+      "title": "Bulevardi i flamingove dhe qeveria e empatisë",
+      "link": "https://24-ore.com/bulevardi-i-flamingove-dhe-qeveria-e-empatise-2/",
+      "description": "Konspekt nga fjala e kryeministrit Nga Thoma Gëllçi Kryeministri doli para grupit parlamentar me një video të prodhuar nga Kinostudio “Rilindja” dhe një dokument që iu shpërnda deputetëve dhe ministrave për lexim në kohën e pushimeve. Pas shfaqjes së filmit, që u ndoq me vëmendje të madhe nga të pra",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T11:21:00+00:00",
+      "dateStr": "26 Jul, 11:21",
+      "isNew": true,
+      "id": "24 71785064860"
+    },
+    {
+      "title": "Mickoski: Pres që sot ose nesër, uji në Gostivar të jetë teknikisht i përdorshëm",
+      "link": "https://24-ore.com/mickoski-pres-qe-sot-ose-neser-uji-ne-gostivar-te-jete-teknikisht-i-perdorshem/",
+      "description": "Kryeministri Hristijan Mickoski tha se ekipet e “Ujësjellësit” nga Shkupi po punojnë në Gostivar dhe se pas përfundimit të procesit të hiperklorimit të instalimeve në sistemin e ujësjellësit, pret që sot ose nesër uji në Gostivar të shpallet “teknikisht i përdorshëm”. “Pres sot, megjithëse rezultate",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T11:20:22+00:00",
+      "dateStr": "26 Jul, 11:20",
+      "isNew": true,
+      "id": "24 81785064822"
+    },
+    {
+      "title": "Plagosja e të riut me armë në Kurbin/ Zbardhet ngjarja, shpallet në kërkim një 47-vjeçar",
+      "link": "https://abcnews.al/plagosja-e-te-riut-me-arme-ne-kurbin-zbardhet-ngjarja-shpallet-ne-kerkim-nje-47-vjecar/",
+      "description": "Policia ka zbardhur ngjarjen e ndodhur mbrëmjen e së shtunës në fshatin Gjorm të Kurbinit, ku mbeti i plagosur në këmbë me armë zjarri 22-vjeçari Veron Pasha. Në kërkim është shpallur 47-vjeçari Klodjan Ndoj, i dyshuar si autori i ngjarjes, i cili pas plagosjes u largua nga vendi i ngjarjes duke mar",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T11:17:10+00:00",
+      "dateStr": "26 Jul, 11:17",
+      "isNew": true,
+      "id": "abc31785064630"
+    },
+    {
+      "title": "Sprinti 13-mujor i Shqipërisë, Hoxha: Ne po bëjmë reformat, BE duhet të mbajë premtimin",
+      "link": "https://24-ore.com/sprinti-13-mujor-i-shqiperise-hoxha-ne-po-bejme-reformat-be-duhet-te-mbaje-premtimin/",
+      "description": "“Shqipëria po përshpejton rrugëtimin drejt Bashkimit Evropian, duke avancuar me ritme të shpejta në negociatat e anëtarësimit”, deklaroi ministri për Evropën dhe Punët e Jashtme, Ferit Hoxha, në një intervistë për RTL Today. Sipas ministrit, tani besueshmëria e procesit varet si nga zbatimi i reform",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-26T11:10:24+00:00",
+      "dateStr": "26 Jul, 11:10",
+      "isNew": true,
+      "id": "24 91785064224"
+    },
+    {
+      "title": "Kampioni i botës me flamurin shqiptar/ Joshua hodhi mbi shpinë simbolin kombëtar shqiptar pas duelit",
+      "link": "https://abcnews.al/kampioni-i-botes-me-flamurin-shqiptar-joshua-hodhi-mbi-shpine-simbolin-kombetar-shqiptar-pas-duelit/",
+      "description": "Diçka vërtet e bukur ndodhi në fund. Ndërsa Entoni Xhoshua u përshëndosh me Kristian Prengën, në përfundim të sfidës së tyre të boksit, anglezi vendosi të tregonte aspektin e tij njerëzor dhe me mjaft respekt. Dy herë kampioni I botës, I cili e dha intervistën pas fitores me djalin e tij të vogël në",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T11:05:55+00:00",
+      "dateStr": "26 Jul, 11:05",
+      "isNew": true,
+      "id": "abc41785063955"
+    },
+    {
+      "title": "Hedh ko kampionin dhe humb/ Mbyllet në dy raunde aventura e guximshme e boksierit tonë",
+      "link": "https://abcnews.al/hedh-ko-kampionin-dhe-humb-mbyllet-ne-dy-raunde-aventura-e-guximshme-e-boksierit-tone/",
+      "description": "Nuk dihet se cilit prej tyre i rrihte zemra më shumë. Kristian Prenga ishte në ringun e Xhedas në Arabinë Saudite, për ndeshjen ku e ku më të madhe të karrierës së tij si boksier profesionist. Gjithsesi, edhe gjigandi që kishte përballë, Entoni Xhoshua, dy herë më parë kampion i botës, ndodhej në bu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T11:01:39+00:00",
+      "dateStr": "26 Jul, 11:01",
+      "isNew": true,
+      "id": "abc51785063699"
+    },
+    {
+      "title": "Zhvillonin lojëra fati në lokal/ Divjakë, vihen në pranga dy persona (EMRAT)",
+      "link": "https://abcnews.al/zhvillonin-lojera-fati-ne-lokal-divjake-vihen-ne-pranga-dy-persona-emrat/",
+      "description": "Dy persona Altin Çoku 52 vjeç dhe Edmir Çela 35 vjeç u arrestuan në kuadër të operacionit &#8220;Game Over&#8221; në Divjakë. Në lokalin në pronësi të Çokut, në fshatin Karavasta e Re, Divjakë, dyshohet se organizoheshin lojëra fati nëpërmjet kompjuterëve dhe aparateve celularë. Ndërsa Çela ishte ka",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T10:53:31+00:00",
+      "dateStr": "26 Jul, 10:53",
+      "isNew": true,
+      "id": "abc61785063211"
+    },
+    {
+      "title": "Voskopoja, “strehë” nga vapa/ Natyra, klima dhe bujtinat tërheqin pushues vendas e të huaj",
+      "link": "https://abcnews.al/voskopoja-strehe-nga-vapa-natyra-klima-dhe-bujtinat-terheqin-pushues-vendas-e-te-huaj/",
+      "description": "Në kulmin e sezonit veror, fshati turistik i Voskopojës është mbushur me pushues që kanë zgjedhur freskinë e malit për t&#8217;iu larguar temperaturave të larta të qyteteve.    Vizitorët janë kryesisht nga Tirana, Elbasani dhe qytete të tjera të Shqipërisë së Mesme, ku termometri ka shënuar vlera të",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-26T10:35:00+00:00",
       "dateStr": "26 Jul, 10:35",
       "isNew": true,
-      "id": "24 11785062128"
-    },
-    {
-      "title": "UKRAINË – Zelensky: Rusia pritet të dislokojë edhe 30 mijë trupa të tjerë nga Koreja e Veriut",
-      "link": "https://24-ore.com/ukraine-zelensky-rusia-pritet-te-dislokoje-edhe-30-mije-trupa-te-tjere-nga-koreja-e-veriut/",
-      "description": "KIEV, 26 korrik /ATSH-DPA/- Presidenti i Ukrainës, Volodymyr Zelensky, deklaroi dje në mbrëmje se Koreja e Veriut pritet t’i dërgojë Rusisë trupa të tjerë dhe armë të rënda për luftën në Ukrainë. Sipas Zelensky, Rusia po përgatitet të dislokojë edhe 30 mijë ushtarë të tjerë koreano-veriorë në rajoni",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T10:32:24+00:00",
-      "dateStr": "26 Jul, 10:32",
-      "isNew": true,
-      "id": "24 21785061944"
-    },
-    {
-      "title": "Një administratë me dhembshuri për qytetarin, mision i (pa)mundur?",
-      "link": "https://24-ore.com/nje-administrate-me-dhembshuri-per-qytetarin-mision-i-pamundur/",
-      "description": "Nga Fatos Çoçoli Në adresimin ndaj grupit parlamentar socialist dy ditë më parë, kryeministri, ndërsa paraqiti një strategji me emrin “Besa”, për kthesën që, sipas tij, duhet të marrë qeverisja, si dhe një aneks(ose plan veprimi) për Partinë Socialiste, që kjo parti ta mbështesë këtë kthesë, foli pë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T10:30:52+00:00",
-      "dateStr": "26 Jul, 10:30",
-      "isNew": true,
-      "id": "24 31785061852"
-    },
-    {
-      "title": "Pistë maratone buzë liqenit të Ohrit, 550 atletë nga mbi 30 vende marrin pjesë në garën ndërkombëtare të Pogradecit",
-      "link": "https://24-ore.com/piste-maratone-buze-liqenit-te-ohrit-550-atlete-nga-mbi-30-vende-marrin-pjese-ne-garen-nderkombetare-te-pogradecit/",
-      "description": "Mbi 550 vrapues nga më shumë se 30 vende të botës morën pjesë në edicionin e katërt të Maratonës Ndërkombëtare “Enkelana”, e organizuar në qytetin e Pogradecit. Eventi sportiv mblodhi atletë profesionistë dhe amatorë, të cilët garuan në dy disiplina, 21 dhe 11.5 kilometra, përgjatë itinerarit panora",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T10:22:27+00:00",
-      "dateStr": "26 Jul, 10:22",
-      "isNew": true,
-      "id": "24 41785061347"
+      "id": "abc71785062100"
     },
     {
       "title": "Dy zjarre në Vlorë/ Flakë në një biznes dhe në një kabinë elektrike, nuk ka të lënduar",
@@ -67,7 +210,7 @@
       "date": "2026-07-26T10:20:02+00:00",
       "dateStr": "26 Jul, 10:20",
       "isNew": true,
-      "id": "abc01785061202"
+      "id": "abc81785061202"
     },
     {
       "title": "Turistët “pushtojnë” Tiranën/ Vizitorë nga Evropa në kryeqytetin shqiptar për pushimet verore",
@@ -78,150 +221,7 @@
       "date": "2026-07-26T10:13:31+00:00",
       "dateStr": "26 Jul, 10:13",
       "isNew": true,
-      "id": "abc11785060811"
-    },
-    {
-      "title": "Kryeplaku i Gështenjasit për elektriçistin që humbi jetën: Erdhi në ditë pushimi për të rregulluar defektin, ishte punëtor",
-      "link": "https://24-ore.com/kryeplaku-i-geshtenjasit-per-elektricistin-qe-humbi-jeten-erdhi-ne-dite-pushimi-per-te-rregulluar-defektin-ishte-punetor/",
-      "description": "Kryeplaku i fshatit Gështenjas të Pogradecit ka folur për ngjarjen e rëndë ku humbi jetën në krye të detyrës elektriçisti Agim Beqiri. Ai tha se 60-vjeçari ishte njoftuar mbrëmjen e së shtunës për defektin. Pasi kishte mbërritur mbrëmë dhe kishte konstatuar problemin, Beqiri e kishte lënë që të kthe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T10:06:03+00:00",
-      "dateStr": "26 Jul, 10:06",
-      "isNew": true,
-      "id": "24 51785060363"
-    },
-    {
-      "title": "“Diçka nuk është në rregull”, shpërthejnë akuzat që dueli Joshua-Prenga ishte e kurdisur",
-      "link": "https://24-ore.com/dicka-nuk-eshte-ne-rregull-shperthejne-akuzat-qe-dueli-joshua-prenga-ishte-e-kurdisur/",
-      "description": "Ndeshja e së shtunës mbrëma mes Anthony Joshuas dhe Kristian Prengës ka nxitur akuza për “kurdisje”, pasi ish-pronari i Crystal Palace dhe komentatori i talkSPORT, Simon Jordan, hodhi dyshime mbi mënyrën se si u zhvillua dueli. Përballja në peshat e rënda konsiderohej nga shumëkush si një test i leh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T10:02:22+00:00",
-      "dateStr": "26 Jul, 10:02",
-      "isNew": true,
-      "id": "24 61785060142"
-    },
-    {
-      "title": "“Vala Fest” në Shëngjin, Ndreu: Një natë e paharrueshme buzë detit",
-      "link": "https://24-ore.com/vala-fest-ne-shengjin-ndreu-nje-nate-e-paharrueshme-buze-detit/",
-      "description": "Shëngjini u kthye mbrëmjen e së shtunës në një skenë të madhe muzikore, me koncertin përmbyllës të “Vala Fest”, aktivitet i zhvilluar në bashkëpunim me Bashkinë Lezhë. Kryetari i Bashkisë Lezhë, Pjerin Ndreu ndau sot në rrjetet sociale pamje nga ky aktivitet, ndërsa e cilësoi atmosferën të jashtëzak",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T10:00:35+00:00",
-      "dateStr": "26 Jul, 10:00",
-      "isNew": true,
-      "id": "24 71785060035"
-    },
-    {
-      "title": "Shkupi shënon 63 vjetorin e tërmetit katastrofik",
-      "link": "https://24-ore.com/shkupi-shenon-63-vjetorin-e-termetit-katastrofik/",
-      "description": "Shkupi sot shënon 63 vjetorin e tërmetit katastrofik që ndodhi më 26 korrik të vitit 1963, kur jetën e humbën 1.070 persona, ndërsa 3.000 ishin lënduar. Tërmeti në Shkup në vitin 1963 është i njohur si një nga tragjeditë më të mëdha që kanë ndodhur në historinë e qytetit, por njëkohësisht edhe një m",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T09:55:51+00:00",
-      "dateStr": "26 Jul, 09:55",
-      "isNew": true,
-      "id": "24 81785059751"
-    },
-    {
-      "title": "“Nuk po na lënë të paguajmë”, gazetaret zvicerane të “20 Minuten” mahniten nga bujaria në Kosovë",
-      "link": "https://24-ore.com/nuk-po-na-lene-te-paguajme-gazetaret-zvicerane-te-20-minuten-mahniten-nga-bujaria-ne-kosove/",
-      "description": "Dy gazetare zvicerane të portalit të madh “20 Minuten” po qëndrojnë në Kosovë për të raportuar mbi shqiptarët e Zvicrës që kanë ardhur për pushime në atdhe. Gazetari dhe publicisti Enver Robelli ka bërë të ditur se dy gazetaret, të cilat kanë kaluar disa ditë në Gjilan me shqiptarë të Zvicrës që tre",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T09:55:34+00:00",
-      "dateStr": "26 Jul, 09:55",
-      "isNew": true,
-      "id": "24 91785059734"
-    },
-    {
-      "title": "Rumani, F-16 rrëzon dronin që kishte shkelur hapësirën ajrore",
-      "link": "https://abcnews.al/rumani-f-16-rrezon-dronin-qe-kishte-shkelur-hapesiren-ajrore/",
-      "description": "Tensionet vijojnë të mbeten të larta në kufirin lindor të NATO-s, pasi Rumania njoftoi se një avion luftarak F-16 ka rrëzuar një tjetër dron që kishte hyrë pa autorizim në hapësirën ajrore të vendit. Ky është incidenti i tretë i këtij lloji brenda tre ditësh, duke rritur shqetësimet në Bukuresht për",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T09:53:02+00:00",
-      "dateStr": "26 Jul, 09:53",
-      "isNew": true,
-      "id": "abc21785059582"
-    },
-    {
-      "title": "Furgoni përplasi turmën në Paradën e Krenarisë në Berlin/ Merz: Sulm ndaj shoqërisë sonë",
-      "link": "https://abcnews.al/furgoni-perplasi-turmen-ne-paraden-e-krenarise-ne-berlin-merz-sulm-ndaj-shoqerise-sone/",
-      "description": "Kancelari gjerman ka folur për sulmin, duke thënë se incidenti ishte një &#8220;akt i neveritshëm&#8221;. Friedrich Merz shkroi në X: &#8220;Qindra mijëra njerëz nga e gjithë bota po festonin në mënyrë paqësore në Ditën e Rrugës Christopher. Ata donin që ne të sillemi me njëri-tjetrin me mirësi dhe ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T09:41:04+00:00",
-      "dateStr": "26 Jul, 09:41",
-      "isNew": true,
-      "id": "abc31785058864"
-    },
-    {
-      "title": "Pogradec/ Po riparonte një defekt, humb jetën elektriçisti 60-vjeçar (EMRI)",
-      "link": "https://abcnews.al/pogradec-po-riparonte-nje-defekt-humb-jeten-elektricisti-60-vjecar-emri/",
-      "description": "Një ngjarje e rëndë ka ndodhur në Pogradec, ku një elektriçist ka humbur jetën. Sipas informacioneve paraprake, ka humbur jetën si pasojë e kontaktit me rrymën elektrike 60-vjeçari Agim Beqiri. Ngjarja ka ndodhur në fshatin Zërvaskë. Dyshohet se 60-vjeçari po riparonte një linjë elektrike, ku kishte",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T09:22:39+00:00",
-      "dateStr": "26 Jul, 09:22",
-      "isNew": true,
-      "id": "abc41785057759"
-    },
-    {
-      "title": "Aksident në aksin Fier-Levan/ Përplasen tre automjete, vetëm dëme materiale",
-      "link": "https://abcnews.al/aksident-ne-aksin-fier-levan-perplasen-tre-automjete-vetem-deme-materiale/",
-      "description": "Një aksident rrugor ndodhi në aksin e vjetër Fier–Levan, në vendin e njohur si Çezma e Levanit, ku tre automjete janë përplasur në një aksident zinxhir. Përplasja ka shkaktuar vetëm dëme materiale. Në vendngjarje kanë mbërritur shërbimet e Policisë Rrugore, të cilat kanë nisur hetimet për të zbardhu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T08:54:00+00:00",
-      "dateStr": "26 Jul, 08:54",
-      "isNew": true,
-      "id": "abc51785056040"
-    },
-    {
-      "title": "Tragjedi në Detin e Kinës Jugore, fundoset anija vietnameze me 62 persona në bord",
-      "link": "https://abcnews.al/tragjedi-ne-detin-e-kines-jugore-fundoset-anija-vietnameze-me-62-persona-ne-bord/",
-      "description": "Një operacion i gjerë kërkim-shpëtimi vijon në Detin e Kinës Jugore për gjetjen e 23 personave të zhdukur, pas mbytjes së një anijeje vietnameze me 62 persona në bord. Sipas transmetuesit shtetëror kinez CCTV, deri tani 39 persona janë shpëtuar nga ekipet e emergjencës. Autoritetet e provincës jugor",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T08:47:54+00:00",
-      "dateStr": "26 Jul, 08:47",
-      "isNew": true,
-      "id": "abc61785055674"
-    },
-    {
-      "title": "VIDEO/ Momenti kur droni ukrainas godet rafinerinë ruse të naftës në Tyumen",
-      "link": "https://abcnews.al/video-momenti-kur-droni-ukrainas-godet-rafinerine-ruse-te-naftes-ne-tyumen/",
-      "description": "Një dron ukrainas ka arritur që direkt të godasë rafinerinë ruse të naftës Tyumen. Ky sulm konsiderohet si një sulm thellë brenda territorit të Rusisë, duke arritur të depërtojë në një thellësi prej 2,000 kilometrash. Pamjet amatore shfaqin momentin kur droni bën një goditje direkte në rafinerinë e ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T08:29:46+00:00",
-      "dateStr": "26 Jul, 08:29",
-      "isNew": true,
-      "id": "abc71785054586"
-    },
-    {
-      "title": "Europa në luftë me flakët, 300 mijë të evakuuar në Francë dhe Spanjë/ Viktima e parë shënohet në Valencia",
-      "link": "https://abcnews.al/europa-ne-lufte-me-flaket-300-mije-te-evakuuar-ne-france-dhe-spanje/",
-      "description": "Zjarrfikësit po përpiqen të shuajnë zjarret në jugperëndim të Francës, ndërsa erërat e forta i shtyjnë flakët drejt qytetit të Bordeaux, me një zyrtar që thotë se &#8220;janë larg kontrollit të zjarrit&#8221;. Më shumë se 300,000 mijë njerëz në Francë dhe Spanjë kanë ikur nga zjarret që kanë shpërth",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T08:03:12+00:00",
-      "dateStr": "26 Jul, 08:03",
-      "isNew": true,
-      "id": "abc81785052992"
-    },
-    {
-      "title": "Ora e Fundit me Emilian Islami, (25/07/2026)",
-      "link": "https://abcnews.al/ora-e-fundit-me-emilian-islami-25-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T07:54:27+00:00",
-      "dateStr": "26 Jul, 07:54",
-      "isNew": true,
-      "id": "abc91785052467"
+      "id": "abc91785060811"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
