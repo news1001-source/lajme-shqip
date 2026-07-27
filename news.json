@@ -1,8 +1,96 @@
 {
-  "lastUpdated": "2026-07-27T02:55:43.112849+00:00",
+  "lastUpdated": "2026-07-27T06:26:12.758641+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "“Business Insider”: Shqipëria pushton interesin e turistëve britanikë: Kërkesat për pushime rriten me 92%",
+      "link": "https://24-ore.com/business-insider-shqiperia-pushton-interesin-e-turisteve-britanike-kerkesat-per-pushime-rriten-me-92/",
+      "description": "&#8211; Me nisjen e pushimeve verore, kompania “Baltic Travel” ka konstatuar se shumë familje dhe çifte që po planifikojnë udhëtimet e tyre po zgjedhin gjithnjë e më shumë pushime me kohë më të shkurtër fluturimi brenda Evropës, të mbështetur edhe nga një raport i ri që tregon se vizitorët britanikë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T06:18:42+00:00",
+      "dateStr": "27 Jul, 06:18",
+      "isNew": true,
+      "id": "24 01785133122"
+    },
+    {
+      "title": "Doganierët grekë në protestë, ndërpritet për 4 orë lëvizja në Kapshticë",
+      "link": "https://24-ore.com/doganieret-greke-ne-proteste-nderpritet-per-4-ore-levizja-ne-kapshtice/",
+      "description": "Lëvizja e mjeteve dhe udhëtarëve në pikën e kalimit kufitar të Kapshticës është pezulluar për shkak të protestës së doganierëve grekë. Nga ora 05:00 deri në orën 09:00 të kësaj të hëne, pala greke ka ndërprerë përkohësisht punën, duke mos lejuar kalimin e automjeteve dhe qytetarëve. Megjithëse disa ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T06:10:32+00:00",
+      "dateStr": "27 Jul, 06:10",
+      "isNew": true,
+      "id": "24 11785132632"
+    },
+    {
+      "title": "Pse sulmi në Berlin rrit presionin politik ndaj Merz?",
+      "link": "https://abcnews.al/pse-sulmi-ne-berlin-rrit-presionin-politik-ndaj-merz/",
+      "description": "Më herët, kancelari gjerman u zotua se do t’i përgjigjej sulmit të dyshuar terrorist islamik në Berlin me “kujdes të plotë dhe vendosmëri”. Incidenti vjen në një moment të vështirë për Friedrich Merzin, i cili po udhëheq një qeveri koalicioni relativisht jopopullore, shkruan sky news. Qeveria gjerma",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-27T05:58:34+00:00",
+      "dateStr": "27 Jul, 05:58",
+      "isNew": true,
+      "id": "abc01785131914"
+    },
+    {
+      "title": "AGJENDA NDËRKOMBËTARE 27.7.2026",
+      "link": "https://24-ore.com/agjenda-nderkombetare-27-7-2026/",
+      "description": "BUDAPEST (Hungari) – Parlamenti voton për disa projektligje të reja, përfshirë një për krijimin e një organi të ri antikorrupsion. MANILA (Filipine) – Presidenti Marcos mban Fjalimin e tij për Gjendjen e Kombit në një seancë të përbashkët të Kongresit. MIAMI (Shtetet e Bashkuara) – Seancë e re dëgji",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T05:48:43+00:00",
+      "dateStr": "27 Jul, 05:48",
+      "isNew": true,
+      "id": "24 21785131323"
+    },
+    {
+      "title": "Ukraina dhe SHBA përgatisin propozim të ri paqeje për Rusinë",
+      "link": "https://abcnews.al/ukraina-dhe-shba-pergatisin-propozim-te-ri-paqeje-per-rusine/",
+      "description": "Ukraina dhe Shtetet e Bashkuara po shqyrtojnë propozime të reja për një marrëveshje me Rusinë, e cila do të ndalte sulmet ajrore. Propozimi pritet t’i paraqitet Moskës si pjesë e një nisme të re për të ringjallur negociatat e paqes. Një burim ukrainas, i cili nuk është identifikuar, konfirmoi se zyr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-27T05:35:18+00:00",
+      "dateStr": "27 Jul, 05:35",
+      "isNew": true,
+      "id": "abc11785130518"
+    },
+    {
+      "title": "Ministri francez sot në Kosovë, pritet nënshkrimi i disa marrëveshjeve",
+      "link": "https://24-ore.com/ministri-francez-sot-ne-kosove-pritet-nenshkrimi-i-disa-marreveshjeve/",
+      "description": "Ministri i Deleguar për Evropën i Republikës së Francës, Benjamin Haddad, po qëndron sot për një vizitë zyrtare në Kosovë, ku do të pritet në takim nga zëvendëskryeministri i parë dhe ministri i Punëve të Jashtme dhe Diasporës, Glauk Konjufca. Takimi mes dy ministrave është paraparë të mbahet në orë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T05:35:14+00:00",
+      "dateStr": "27 Jul, 05:35",
+      "isNew": true,
+      "id": "24 31785130514"
+    },
+    {
+      "title": "Reshje e stuhi lokale gjatë ditës – mot i paqëndrueshëm sot",
+      "link": "https://24-ore.com/reshje-e-stuhi-lokale-gjate-dites-mot-i-paqendrueshem-sot/",
+      "description": "Instituti Hidrometeorologjik i Kosovës ka njoftuar se dita e hënë, 27 korrik, do të karakterizohet me mot me diell dhe vranësira, të cilat gjatë ditës do të zhvillohen lokalisht. Sipas parashikimit, vranësirat mund të sjellin reshje shiu, shkarkime rrufesh, si dhe mundësi për breshër në zona të izol",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T05:20:33+00:00",
+      "dateStr": "27 Jul, 05:20",
+      "isNew": true,
+      "id": "24 41785129633"
+    },
+    {
+      "title": "Horoskopi 27 korrik 2026, zbuloni parashikimet e yjeve",
+      "link": "https://abcnews.al/horoskopi-27-korrik-2026-zbuloni-parashikimet-e-yjeve/",
+      "description": "Dashi Shume planetë do kenë ndikim te madh sot ne jetën tuaj ne çift. Ata do ju udhëheqin drejt rrugës se duhur dhe gjithçka do shkoje me se miri. Beqaret nuk do mund ta realizojnë dot sot takimin e ëndërruar dhe kjo do i mërzitë paksa. Me financat mundohuni te tregoheni sa me te matur [...]Read Mor",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-27T05:18:13+00:00",
+      "dateStr": "27 Jul, 05:18",
+      "isNew": true,
+      "id": "abc21785129493"
+    },
     {
       "title": "A ka vërtet Edi Rama kontratë me 800 mijë shqiptarë?",
       "link": "https://24-ore.com/a-ka-vertet-edi-rama-kontrate-me-800-mije-shqiptare/",
@@ -12,7 +100,7 @@
       "date": "2026-07-27T02:42:44+00:00",
       "dateStr": "27 Jul, 02:42",
       "isNew": true,
-      "id": "24 01785120164"
+      "id": "24 51785120164"
     },
     {
       "title": "Zjarri në pyllin e Sodës, Lamallari: Orë të vështira, po ndjekim çdo çast situatën",
@@ -23,7 +111,7 @@
       "date": "2026-07-27T02:37:08+00:00",
       "dateStr": "27 Jul, 02:37",
       "isNew": true,
-      "id": "24 11785119828"
+      "id": "24 61785119828"
     },
     {
       "title": "Zjarr në Pyllin e Sodës, vijon operacioni për vënien nën kontroll të flakëve",
@@ -34,7 +122,7 @@
       "date": "2026-07-27T02:25:41+00:00",
       "dateStr": "27 Jul, 02:25",
       "isNew": true,
-      "id": "24 21785119141"
+      "id": "24 71785119141"
     },
     {
       "title": "AI “arratiset” dhe sulmon një kompani – pse ky është incidenti më i rrezikshëm me inteligjencën artificiale?",
@@ -45,7 +133,7 @@
       "date": "2026-07-26T22:15:41+00:00",
       "dateStr": "26 Jul, 22:15",
       "isNew": true,
-      "id": "24 31785104141"
+      "id": "24 81785104141"
     },
     {
       "title": "Turistët e huaj mahniten nga Rugova: Është si të jesh në Alpe",
@@ -56,18 +144,7 @@
       "date": "2026-07-26T21:25:00+00:00",
       "dateStr": "26 Jul, 21:25",
       "isNew": true,
-      "id": "24 41785101100"
-    },
-    {
-      "title": "Besa e Edi Ramës dhe pengmarrja e Aeroportit të Vlorës",
-      "link": "https://24-ore.com/besa-e-edi-rames-dhe-pengmarrja-e-aeroportit-te-vlores/",
-      "description": "Sikur fjalimin e Edi Ramës në mbledhjen e grupit parlamentar ta kishte dëgjuar një njeri që sapo ishte zgjuar nga një gjumë trembëdhjetëvjeçar, ose një i huaj që nuk ka jetuar kurrë në Shqipëri e nuk di asgjë për mënyrën si është qeverisur vendi, me shumë gjasë do të krijonte përshtypjen se kishte p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T20:58:28+00:00",
-      "dateStr": "26 Jul, 20:58",
-      "isNew": true,
-      "id": "24 51785099508"
+      "id": "24 91785101100"
     },
     {
       "title": "Elon Musk parashikon një botë pa para deri në vitin 2036, deklarata ngjall diskutime",
@@ -78,51 +155,7 @@
       "date": "2026-07-26T20:44:43+00:00",
       "dateStr": "26 Jul, 20:44",
       "isNew": true,
-      "id": "abc01785098683"
-    },
-    {
-      "title": "Dita e 57-të e protestës, qytetarët marshim në rrugët e Tiranës. Nesër mblidhen para Parlamentit (VIDEO)",
-      "link": "https://24-ore.com/dita-e-57-te-e-protestes-qytetaret-marshim-ne-rruget-e-tiranes-neser-mblidhen-para-parlamentit-video/",
-      "description": "Ka nisur marshimi i qytetarëve në rrugët kryesore të kryeqytetit, duke vijuar rutinën e tyre teksa protesta ka hyrë në ditën e saj të 57-të. Pasi u mblodhën përpara godinës së Kryeministrisë ata bënë thirrje të përsëritura për dorëheqjen e kryeministrit Edi Rama dhe largimin e kabinetit të tij. Gjat",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T20:21:05+00:00",
-      "dateStr": "26 Jul, 20:21",
-      "isNew": true,
-      "id": "24 61785097265"
-    },
-    {
-      "title": "“Besa, deklaratë e kryeministrit në rrethana shtrënguese”, juristja Jorgo: Në shesh janë shqiptarët e zhgënjyer",
-      "link": "https://24-ore.com/besa-deklarate-e-kryeministrit-ne-rrethana-shtrenguese-juristja-jorgo-ne-shesh-jane-shqiptaret-e-zhgenjyer/",
-      "description": "Juristja, Mirela Jorgo e ftuar këtë të diele në emisionin “Review” me Greta Topjana në Euronews Albania ka komentuar lidhur me dokumentin “Besa” të kryeministrit Edi Rama të prezantuar në mbledhjen e së premtes me grupin Parlamentar të PS-së dhe kabinetin qeveritar. Jorgo gjatë fjalës së saj u shpre",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T20:20:54+00:00",
-      "dateStr": "26 Jul, 20:20",
-      "isNew": true,
-      "id": "24 71785097254"
-    },
-    {
-      "title": "“Rama po na shet reflektim nëpërmjet ‘Besës'”, Karabina: Po përdor retorikën e njëjtë për votuesit",
-      "link": "https://24-ore.com/rama-po-na-shet-reflektim-nepermjet-beses-karabina-po-perdor-retoriken-e-njejte-per-votuesit/",
-      "description": "Pedagogia, Mirela Karabina e ftuar këtë të diele në emisionin “Review” me Greta Topjana në Euronews Albania ka folur lidhur me dokumentin “Besa” të kryeministrit Edi Rama të prezantuar në mbledhjen e së premtes me grupin Parlamentar të PS-së dhe kabinetin qeveritar. Gjatë fjalës së saj, Karabina u s",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T20:20:41+00:00",
-      "dateStr": "26 Jul, 20:20",
-      "isNew": true,
-      "id": "24 81785097241"
-    },
-    {
-      "title": "Gazetari Peçi: Rama ka lidhur ‘Besën’ me Berishën dhe Kodin zgjedhor",
-      "link": "https://24-ore.com/gazetari-peci-rama-ka-lidhur-besen-me-berishen-dhe-kodin-zgjedhor/",
-      "description": "Gazetari, Ermal Peçi i ftuar këtë të diele në emisionin “Review” me Greta Topjana në Euronews Albania ka komentuar dokumentin “Besa” të kryeministrit Edi Rama të prezantuar në mbledhjen e së premtes me grupin Parlamentar të PS-së dhe kabinetin qeveritar. Gjatë fjalës së tij, Peçi e cilësuar atë si n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T20:20:23+00:00",
-      "dateStr": "26 Jul, 20:20",
-      "isNew": true,
-      "id": "24 91785097223"
+      "id": "abc31785098683"
     },
     {
       "title": "Irani pretendon se ka përparim në bisedimet me Omanin për Hormuzin",
@@ -133,7 +166,7 @@
       "date": "2026-07-26T20:16:15+00:00",
       "dateStr": "26 Jul, 20:16",
       "isNew": true,
-      "id": "abc11785096975"
+      "id": "abc41785096975"
     },
     {
       "title": "Mbi 5.500 viktima një muaj pas tërmeteve në Venezuelë, dëmet arrijnë mbi 19 miliardë dollarë",
@@ -144,7 +177,7 @@
       "date": "2026-07-26T19:42:56+00:00",
       "dateStr": "26 Jul, 19:42",
       "isNew": true,
-      "id": "abc21785094976"
+      "id": "abc51785094976"
     },
     {
       "title": "Krimi i trefishtë në Roskovec/ Momenti kur RENEA negocion me 35 vjeçarin Nertil Buzi",
@@ -155,7 +188,7 @@
       "date": "2026-07-26T19:26:28+00:00",
       "dateStr": "26 Jul, 19:26",
       "isNew": true,
-      "id": "abc31785093988"
+      "id": "abc61785093988"
     },
     {
       "title": "Putin me deklaratë nxitëse: Ukraina do të ndahet në disa pjesë",
@@ -166,7 +199,7 @@
       "date": "2026-07-26T19:15:15+00:00",
       "dateStr": "26 Jul, 19:15",
       "isNew": true,
-      "id": "abc41785093315"
+      "id": "abc71785093315"
     },
     {
       "title": "Shtëpia e perëndive greke hyn në Listën e Trashëgimisë Botërore të UNESCO-s",
@@ -177,7 +210,7 @@
       "date": "2026-07-26T18:55:06+00:00",
       "dateStr": "26 Jul, 18:55",
       "isNew": true,
-      "id": "abc51785092106"
+      "id": "abc81785092106"
     },
     {
       "title": "Zjarret masive përfshijnë Francën dhe Spanjën, mbi 320 mijë persona evakuohen nga banesat",
@@ -188,40 +221,7 @@
       "date": "2026-07-26T18:19:49+00:00",
       "dateStr": "26 Jul, 18:19",
       "isNew": true,
-      "id": "abc61785089989"
-    },
-    {
-      "title": "Vatër zjarri në kodrat e Peshtanit, zjarrfikësit në vendngjarje",
-      "link": "https://abcnews.al/vater-zjarri-ne-kodrat-e-peshtanit-zjarrfikesit-ne-vendngjarje/",
-      "description": "Nje vater zjarri është shfaqur në kodrat e Peshtanit. Zjarrfikësit e Fierit po punojne per shuarjen e flakëve. Era e fortë favorizon përhapjen e flakëve. Dy vjet më parë ne këtë zonë u dogjën qindra ha. Zona është me pyllësi të dendur [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T18:09:44+00:00",
-      "dateStr": "26 Jul, 18:09",
-      "isNew": true,
-      "id": "abc71785089384"
-    },
-    {
-      "title": "Sulmi në “Paradën e Krenarisë” në Berlin/ Policia vret autorin e dyshuar",
-      "link": "https://abcnews.al/sulmi-ne-paraden-e-krenarise-ne-berlin-policia-vret-autorin-e-dyshuar/",
-      "description": "I dyshuari për sulmin në aktivitetin e “Paradës së Krenarisë” në Berlin është qëlluar për vdekje nga policia gjermane, raportojnë mediat vendase. Sipas transmetuesit rajonal Rundfunk Berlin-Brandenburg (RBB), personi i identifikuar si Abdul Ballout, 21 vjeç, u vra gjatë një operacioni policor në një",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T17:46:30+00:00",
-      "dateStr": "26 Jul, 17:46",
-      "isNew": true,
-      "id": "abc81785087990"
-    },
-    {
-      "title": "“Qytetarët kanë humbur besimin edhe te partitë e vogla”, Rada: Në protestë, elektorati gri",
-      "link": "https://abcnews.al/qytetaret-kane-humbur-besimin-edhe-te-partite-e-vogla-rada-ne-proteste-elektorati-gri/",
-      "description": "Gazetari Ardit Rada ka komentuar pakënaqësinë qytetare dhe raportin e njerëzve me partitë politike, duke u shprehur se një pjesë e madhe e qytetarëve kanë humbur shpresën te partitë e mëdha, por edhe te ato të vogla. Sipas Radës, këta qytetarë nuk po gjejnë një lidership që t’i organizojë në një for",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-26T17:40:26+00:00",
-      "dateStr": "26 Jul, 17:40",
-      "isNew": true,
-      "id": "abc91785087626"
+      "id": "abc91785089989"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
