@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-27T22:01:42.512711+00:00",
+  "lastUpdated": "2026-07-27T23:58:32.759592+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Ndarja zoologjike e popullit",
+      "link": "https://24-ore.com/ndarja-zoologjike-e-popullit/",
+      "description": "Pas shumë vitesh qeverisjeje, zgjedhjesh, protestash, sondazhesh dhe emisionesh televizive, pushteti arriti më në fund të ndërtojë klasifikimin e plotë të popullit shqiptar. Ndarja në të majtë dhe të djathtë u konsiderua e vjetruar. Ndarja në të pasur dhe të varfër u hoq, sepse krijonte shqetësime s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T23:14:05+00:00",
+      "dateStr": "27 Jul, 23:14",
+      "isNew": true,
+      "id": "24 01785194045"
+    },
     {
       "title": "Maldini braktis Italinë / “Tërmet” në Federatën e Futbollit, largohet legjenda kuqezi",
       "link": "https://abcnews.al/maldini-braktis-italine-termet-ne-federaten-e-futbollit-largohet-legjenda-kuqezi/",
@@ -67,7 +78,7 @@
       "date": "2026-07-27T21:00:09+00:00",
       "dateStr": "27 Jul, 21:00",
       "isNew": true,
-      "id": "24 01785186009"
+      "id": "24 11785186009"
     },
     {
       "title": "Autostrada Kërçovë-Ohër me kosto rekord",
@@ -78,7 +89,7 @@
       "date": "2026-07-27T20:55:37+00:00",
       "dateStr": "27 Jul, 20:55",
       "isNew": true,
-      "id": "24 11785185737"
+      "id": "24 21785185737"
     },
     {
       "title": "“Mos bëj cubin me administratën”, Manjani kritikon Shehajn: Dokumentet u grabitën me dhunë",
@@ -89,7 +100,7 @@
       "date": "2026-07-27T20:50:33+00:00",
       "dateStr": "27 Jul, 20:50",
       "isNew": true,
-      "id": "24 21785185433"
+      "id": "24 31785185433"
     },
     {
       "title": "METEO – Gjermania në pritje të 39 gradëve Celsius",
@@ -100,7 +111,7 @@
       "date": "2026-07-27T20:48:42+00:00",
       "dateStr": "27 Jul, 20:48",
       "isNew": true,
-      "id": "24 31785185322"
+      "id": "24 41785185322"
     },
     {
       "title": "Aktivisti Goci: Protesta duhet të bëhet e dhunshme, të bllokohet Parlamenti",
@@ -111,7 +122,7 @@
       "date": "2026-07-27T20:40:52+00:00",
       "dateStr": "27 Jul, 20:40",
       "isNew": true,
-      "id": "24 41785184852"
+      "id": "24 51785184852"
     },
     {
       "title": "Aksident i rëndë në Durrës, përmbyset një makinë. Dy të lënduar (VIDEO)",
@@ -122,7 +133,7 @@
       "date": "2026-07-27T20:40:31+00:00",
       "dateStr": "27 Jul, 20:40",
       "isNew": true,
-      "id": "24 51785184831"
+      "id": "24 61785184831"
     },
     {
       "title": "Shënim/ Heshtja cinike e grave të opozitës për aktin e rëndë të Agron Shehajt ndaj një gruaje",
@@ -133,7 +144,7 @@
       "date": "2026-07-27T20:32:29+00:00",
       "dateStr": "27 Jul, 20:32",
       "isNew": true,
-      "id": "24 61785184349"
+      "id": "24 71785184349"
     },
     {
       "title": "Tërhiqet shorti edhe për edicionin e ri të Ligës së Parë dhe Ligës së Dytë",
@@ -144,7 +155,7 @@
       "date": "2026-07-27T20:31:41+00:00",
       "dateStr": "27 Jul, 20:31",
       "isNew": true,
-      "id": "24 71785184301"
+      "id": "24 81785184301"
     },
     {
       "title": "Rama ndërpret marrëveshjen me BIRN për hapësirën në “Grand Hotel”, Xharra e akuzon për hakmarrje",
@@ -155,18 +166,7 @@
       "date": "2026-07-27T20:30:30+00:00",
       "dateStr": "27 Jul, 20:30",
       "isNew": true,
-      "id": "24 81785184230"
-    },
-    {
-      "title": "QIPRO – Guterres në vizitën e parë që nga viti 2010",
-      "link": "https://24-ore.com/qipro-guterres-ne-viziten-e-pare-qe-nga-viti-2010/",
-      "description": "ATHINË, 27 korrik /ATSH-DPA/ – Sekretari i përgjithshëm i OKB-së, Antonio Guterres, pritet të mbërrijë sonte në Qipro për një vizitë treditore, e para e një kreu të OKB-së në ishull që nga viti 2010. Vizita synon t’i japë një shtysë të re përpjekjeve për rifillimin e bisedimeve mes komunitetit greko",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T20:30:12+00:00",
-      "dateStr": "27 Jul, 20:30",
-      "isNew": true,
-      "id": "24 91785184212"
+      "id": "24 91785184230"
     },
     {
       "title": "Britania forcon mbështetjen për Kievin, Burnham i premton Zelenskyt teknologji ushtarake",
