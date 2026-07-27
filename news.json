@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-07-26T23:57:02.077269+00:00",
+  "lastUpdated": "2026-07-27T02:55:43.112849+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "A ka vërtet Edi Rama kontratë me 800 mijë shqiptarë?",
+      "link": "https://24-ore.com/a-ka-vertet-edi-rama-kontrate-me-800-mije-shqiptare/",
+      "description": "&#8220;Kam kontratë me 800 mijë shqiptarë, s’ka dorëheqje.” Kështu iu përgjigj kryeministri Edi Rama protestuesve që prej 57 ditësh kërkojnë largimin e tij nga detyra. Por Edi Rama nuk ka lidhur ndonjë kontratë personale me 800 mijë shqiptarë. Nuk ka shkuar derë më derë, nuk ka marrë firma dhe nuk k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T02:42:44+00:00",
+      "dateStr": "27 Jul, 02:42",
+      "isNew": true,
+      "id": "24 01785120164"
+    },
+    {
+      "title": "Zjarri në pyllin e Sodës, Lamallari: Orë të vështira, po ndjekim çdo çast situatën",
+      "link": "https://24-ore.com/zjarri-ne-pyllin-e-sodes-lamallari-ore-te-veshtira-po-ndjekim-cdo-cast-situaten/",
+      "description": "Ekipet e zjarrfikësve kanë arritur të vënë nën kontroll flakët që përfshinë pasditen e sotme Pyllin e Sodës në Vlorë, ndërsa strukturat përgjegjëse vijojnë punën në terren për monitorimin e situatës dhe parandalimin e riaktivizimit të vatrave. Ministri i Brendshëm, Besfort Lamallari, bëri të ditur p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T02:37:08+00:00",
+      "dateStr": "27 Jul, 02:37",
+      "isNew": true,
+      "id": "24 11785119828"
+    },
+    {
+      "title": "Zjarr në Pyllin e Sodës, vijon operacioni për vënien nën kontroll të flakëve",
+      "link": "https://24-ore.com/zjarr-ne-pyllin-e-sodes-vijon-operacioni-per-venien-nen-kontroll-te-flakeve/",
+      "description": "Një zjarr i përmasave të mëdha ka përfshirë pasditen e së dielës Pyllin e Sodës në Vlorë, duke krijuar një re të dendur tymi që ka mbuluar një pjesë të mirë të qytetit. Vatra e zjarrit është shfaqur në pyllin me pisha pranë vijës hekurudhore, në zonën e Zvërnecit.  Menjëherë pas marrjes së njoftimit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T02:25:41+00:00",
+      "dateStr": "27 Jul, 02:25",
+      "isNew": true,
+      "id": "24 21785119141"
+    },
     {
       "title": "AI “arratiset” dhe sulmon një kompani – pse ky është incidenti më i rrezikshëm me inteligjencën artificiale?",
       "link": "https://24-ore.com/ai-arratiset-dhe-sulmon-nje-kompani-pse-ky-eshte-incidenti-me-i-rrezikshem-me-inteligjencen-artificiale/",
@@ -12,7 +45,7 @@
       "date": "2026-07-26T22:15:41+00:00",
       "dateStr": "26 Jul, 22:15",
       "isNew": true,
-      "id": "24 01785104141"
+      "id": "24 31785104141"
     },
     {
       "title": "Turistët e huaj mahniten nga Rugova: Është si të jesh në Alpe",
@@ -23,7 +56,7 @@
       "date": "2026-07-26T21:25:00+00:00",
       "dateStr": "26 Jul, 21:25",
       "isNew": true,
-      "id": "24 11785101100"
+      "id": "24 41785101100"
     },
     {
       "title": "Besa e Edi Ramës dhe pengmarrja e Aeroportit të Vlorës",
@@ -34,7 +67,7 @@
       "date": "2026-07-26T20:58:28+00:00",
       "dateStr": "26 Jul, 20:58",
       "isNew": true,
-      "id": "24 21785099508"
+      "id": "24 51785099508"
     },
     {
       "title": "Elon Musk parashikon një botë pa para deri në vitin 2036, deklarata ngjall diskutime",
@@ -56,7 +89,7 @@
       "date": "2026-07-26T20:21:05+00:00",
       "dateStr": "26 Jul, 20:21",
       "isNew": true,
-      "id": "24 31785097265"
+      "id": "24 61785097265"
     },
     {
       "title": "“Besa, deklaratë e kryeministrit në rrethana shtrënguese”, juristja Jorgo: Në shesh janë shqiptarët e zhgënjyer",
@@ -67,7 +100,7 @@
       "date": "2026-07-26T20:20:54+00:00",
       "dateStr": "26 Jul, 20:20",
       "isNew": true,
-      "id": "24 41785097254"
+      "id": "24 71785097254"
     },
     {
       "title": "“Rama po na shet reflektim nëpërmjet ‘Besës'”, Karabina: Po përdor retorikën e njëjtë për votuesit",
@@ -78,7 +111,7 @@
       "date": "2026-07-26T20:20:41+00:00",
       "dateStr": "26 Jul, 20:20",
       "isNew": true,
-      "id": "24 51785097241"
+      "id": "24 81785097241"
     },
     {
       "title": "Gazetari Peçi: Rama ka lidhur ‘Besën’ me Berishën dhe Kodin zgjedhor",
@@ -89,18 +122,7 @@
       "date": "2026-07-26T20:20:23+00:00",
       "dateStr": "26 Jul, 20:20",
       "isNew": true,
-      "id": "24 61785097223"
-    },
-    {
-      "title": "Merz do të propozojë Steffen Bilger si ministër të ri të transportit",
-      "link": "https://24-ore.com/merz-do-te-propozoje-steffen-bilger-si-minister-te-ri-te-transportit/",
-      "description": "Kancelari gjerman Friedrich Merz do të propozojë që drejtori konservator parlamentar Steffen Bilger të zëvendësojë Patrick Schnieder si ministër i transportit, si pjesë e një riorganizimi të vazhdueshëm të kabinetit. Kështu tha një zëdhënës i qeverisë në një deklaratë të dielën. Dy persona të njohur",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T20:19:58+00:00",
-      "dateStr": "26 Jul, 20:19",
-      "isNew": true,
-      "id": "24 71785097198"
+      "id": "24 91785097223"
     },
     {
       "title": "Irani pretendon se ka përparim në bisedimet me Omanin për Hormuzin",
@@ -112,17 +134,6 @@
       "dateStr": "26 Jul, 20:16",
       "isNew": true,
       "id": "abc11785096975"
-    },
-    {
-      "title": "Kryenegociatori Bajrami i reagon Vuçiqit: S’mund të ketë dialog kredibil nëse njëra palë ka pretendime territorial",
-      "link": "https://24-ore.com/kryenegociatori-bajrami-i-reagon-vuciqit-smund-te-kete-dialog-kredibil-nese-njera-pale-ka-pretendime-territorial/",
-      "description": "Kryenegociatori i Kosovës në dialogun me Serbinë, Agron Bajrami, ka reaguar pas deklaratës së presidentit serb Aleksandar Vuçiq ndaj Kosovës. Bajrami ka shpërndarë reagimin e Demokratëve Evropianë, të cilët kanë vlerësuar se deklaratat e vazhdueshme të Vuçiqit, përmes të cilave ai pretendon se Kosov",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T20:04:54+00:00",
-      "dateStr": "26 Jul, 20:04",
-      "isNew": true,
-      "id": "24 81785096294"
     },
     {
       "title": "Mbi 5.500 viktima një muaj pas tërmeteve në Venezuelë, dëmet arrijnë mbi 19 miliardë dollarë",
@@ -145,17 +156,6 @@
       "dateStr": "26 Jul, 19:26",
       "isNew": true,
       "id": "abc31785093988"
-    },
-    {
-      "title": "Shtet me ushtrues detyre, cilat janë pasojat e mosformimit të institucioneve?",
-      "link": "https://24-ore.com/shtet-me-ushtrues-detyre-cilat-jane-pasojat-e-mosformimit-te-institucioneve/",
-      "description": "Mos krijimi i institucioneve të Kosovës me kohë, po shkakton pasoja të shumta, ndër to edhe lënien e institucioneve të pavarura me numër të ulët të anëtarëve. Gjykata Kushtetuese rrezikon të humb kuorumin nëse njëri prej gjyqtarëve largohet, ndërkohë që vitin e ardhshëm iu skadon mandati 5 prej tyre",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-26T19:24:53+00:00",
-      "dateStr": "26 Jul, 19:24",
-      "isNew": true,
-      "id": "24 91785093893"
     },
     {
       "title": "Putin me deklaratë nxitëse: Ukraina do të ndahet në disa pjesë",
