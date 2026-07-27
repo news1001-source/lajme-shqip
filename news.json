@@ -1,8 +1,173 @@
 {
-  "lastUpdated": "2026-07-27T20:18:36.990640+00:00",
+  "lastUpdated": "2026-07-27T22:01:42.512711+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Maldini braktis Italinë / “Tërmet” në Federatën e Futbollit, largohet legjenda kuqezi",
+      "link": "https://abcnews.al/maldini-braktis-italine-termet-ne-federaten-e-futbollit-largohet-legjenda-kuqezi/",
+      "description": "U prezantuan më shumë kënaqësi dhe shpresë. Rilindja e Italisë, apo siç njihet në Italisë, “Il risorxhimento” nuk kishte si ndodhte më mirë sesa me ndihmën e Paolo Maldinit, legjendës së Kaltër dhe milaniste. Gjithsesi, kanë mjaftuar vetëm 16 ditë që kjo ëndërr të kthehej në zhgjëndër. Maldini dha d",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-27T21:46:49+00:00",
+      "dateStr": "27 Jul, 21:46",
+      "isNew": true,
+      "id": "abc01785188809"
+    },
+    {
+      "title": "“Irani ka bazën në Shqipëri, është Berisha”/ Beqiri: Agron Shehaj vodhi dokumentin. Kreu të paktën 5 vepra penale, rrezikon 35 vite burg",
+      "link": "https://abcnews.al/irani-ka-bazen-ne-shqiperi-eshte-berisha-beqiri-agron-shehaj-vodhi-dokumentin-kreu-te-pakten-5-vepra-penale-rrezikon-35-vite-burg/",
+      "description": "Avokati Idajet Beqiri ka deklaruar se Shqipëria po përballet me një formë lufte hibride, e cila sipas tij ka nisur në një moment të rëndësishëm të procesit të integrimit europian. Në një intervistë në “Ora e Fundit” në ABC News, Beqiri u shpreh se sulmet ndaj vendit lidhen me përparimin e Shqipërisë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-27T21:39:19+00:00",
+      "dateStr": "27 Jul, 21:39",
+      "isNew": true,
+      "id": "abc11785188359"
+    },
+    {
+      "title": "Lufta hibride e Iranit/ Kryeredaktori i Kyiv post, Nahaylo: Po shpërndan dezinformim në Shqipëri",
+      "link": "https://abcnews.al/lufta-hibride-e-iranit-kryeredaktori-i-kyiv-post-nahaylo-po-shperndan-dezinformim-ne-shqiperi/",
+      "description": "Irani synon të shtrijë ndikimin e tij në Shqipëri tashmë jo më përmes sulmeve kibernetike, por përmes shpërndarjes së dezinformimit dhe luftës hibride, që synim kryesor ka përhapjen e trazirave dhe protestave. Kjo ishte ajo çfarë deklaroi për &#8220;ABC News&#8221; Bohdan Nahaylo, kryeredaktori i Ky",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-27T21:15:04+00:00",
+      "dateStr": "27 Jul, 21:15",
+      "isNew": true,
+      "id": "abc21785186904"
+    },
+    {
+      "title": "“Faqja 4” me Jeta Kasemi, (27/07/2026)",
+      "link": "https://abcnews.al/faqja-4-me-jeta-kasemi-27-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-27T21:13:12+00:00",
+      "dateStr": "27 Jul, 21:13",
+      "isNew": true,
+      "id": "abc31785186792"
+    },
+    {
+      "title": "Gjermania ashpërson masat e sigurisë pas sulmit në Berlin",
+      "link": "https://abcnews.al/gjermania-ashperson-masat-e-sigurise-pas-sulmit-ne-berlin/",
+      "description": "Qeveria gjermane ka premtuar masa më të forta sigurie pas sulmit vdekjeprurës pranë Paradës së Krenarisë në Berlin, ku një 21-vjeçar i njohur për lidhje me ekstremizmin islamik vrau një grua 65-vjeçare dhe plagosi 29 persona. Sipas autoriteteve, autori Abdul Ballout fillimisht përplasi një minibus m",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-27T21:05:56+00:00",
+      "dateStr": "27 Jul, 21:05",
+      "isNew": true,
+      "id": "abc41785186356"
+    },
+    {
+      "title": "FRANCË – Zjarret paralizojnë turizmin në rajonin e Bordosë",
+      "link": "https://24-ore.com/france-zjarret-paralizojne-turizmin-ne-rajonin-e-bordose/",
+      "description": "BORDO, 27 korrik /ATSH-DPA/ – Zjarret e mëdha pyjore që kanë përfshirë rajonin e Bordosë në Francë po godasin rëndë edhe sektorin e turizmit, një nga shtyllat kryesore të ekonomisë lokale. Autoritetet franceze u kanë bërë thirrje pushuesve të mos udhëtojnë drejt departamentit të Zhirondes, pasi flak",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T21:00:09+00:00",
+      "dateStr": "27 Jul, 21:00",
+      "isNew": true,
+      "id": "24 01785186009"
+    },
+    {
+      "title": "Autostrada Kërçovë-Ohër me kosto rekord",
+      "link": "https://24-ore.com/autostrada-kercove-oher-me-kosto-rekord/",
+      "description": "Ndërmarrja publike “Rrugët Shtetërore” do të ndihmohet ndër të tjerash financiarisht edhe me huazime nga kompanitë e tjera shtetërore për të shlyer një pjesë të këstittë kredisë ndaj kompanisëkreditorit kinez.Me fjalë tjera, në pritje të rishikimit të buxhetit, Qeveria po merr hua për të shlyer borx",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T20:55:37+00:00",
+      "dateStr": "27 Jul, 20:55",
+      "isNew": true,
+      "id": "24 11785185737"
+    },
+    {
+      "title": "“Mos bëj cubin me administratën”, Manjani kritikon Shehajn: Dokumentet u grabitën me dhunë",
+      "link": "https://24-ore.com/mos-bej-cubin-me-administraten-manjani-kritikon-shehajn-dokumentet-u-grabiten-me-dhune/",
+      "description": "Ish-ministri Ylli Manjani, i ftuar në emisionin “Now” me Erla Mëhillin, në Euronews Albania, ka folur në lidhje me veprimin e sotëm të deputetit Agron Shehaj, për të cilin tha se nuk është mirë që “të bësh cubin” me punonjësin e administratës. Manjani e quan gjestin e Shehajt jo thjeshtë vjedhje por",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T20:50:33+00:00",
+      "dateStr": "27 Jul, 20:50",
+      "isNew": true,
+      "id": "24 21785185433"
+    },
+    {
+      "title": "METEO – Gjermania në pritje të 39 gradëve Celsius",
+      "link": "https://24-ore.com/meteo-gjermania-ne-pritje-te-39-gradeve-celsius/",
+      "description": "BERLIN, 27 korrik /ATSH-DPA/ – Gjermania pritet të përballet me një valë të fortë të nxehti gjatë ditëve në vijim, me temperatura që mund të arrijnë deri në 39 gradë Celsius, sipas Shërbimit Meteorologjik Gjerman (DWD). Meteorologët parashikojnë se nesër pjesa jugperëndimore e vendit do të regjistro",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T20:48:42+00:00",
+      "dateStr": "27 Jul, 20:48",
+      "isNew": true,
+      "id": "24 31785185322"
+    },
+    {
+      "title": "Aktivisti Goci: Protesta duhet të bëhet e dhunshme, të bllokohet Parlamenti",
+      "link": "https://24-ore.com/aktivisti-goci-protesta-duhet-te-behet-e-dhunshme-te-bllokohet-parlamenti/",
+      "description": "Petagogu dhe aktivisti, Ervin Goci i ftuar këtë të hënë në emisionin “Now” me Erla Mëhillin në Euronews Albania ka kritikuar mënyrën se si u kalua marrëveshja prej 300 milionë eurosh në Kuvend teksa ai theksoi se u miratua pa transparencë dhe pa iu dhënë kohë e mundësi deputetëve ta lexojnë. Ai e ci",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T20:40:52+00:00",
+      "dateStr": "27 Jul, 20:40",
+      "isNew": true,
+      "id": "24 41785184852"
+    },
+    {
+      "title": "Aksident i rëndë në Durrës, përmbyset një makinë. Dy të lënduar (VIDEO)",
+      "link": "https://24-ore.com/aksident-i-rende-ne-durres-permbyset-nje-makine-dy-te-lenduar-video/",
+      "description": "Një aksident i rëndë automobilistik është regjistruar mbëmjen e kësaj të hëne në rrugën “Vllazërimi” në Durrës, ku dy automjete janë përplasur me njëra-tjetrën. Si pasojë e goditjes së fortë, njëra prej makinave është përmbysur në mes të rrugës. Dy të lënduarit janë transportuar me urgjencë drejt Sp",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T20:40:31+00:00",
+      "dateStr": "27 Jul, 20:40",
+      "isNew": true,
+      "id": "24 51785184831"
+    },
+    {
+      "title": "Shënim/ Heshtja cinike e grave të opozitës për aktin e rëndë të Agron Shehajt ndaj një gruaje",
+      "link": "https://24-ore.com/shenim-heshtja-cinike-e-grave-te-opozites-per-aktin-e-rende-te-agron-shehajt-ndaj-nje-gruaje/",
+      "description": "Akti i Agron Shehajt në Kuvend ishte i rëndë, përpos aspektit ligjor, ishte skandaloz në nivelin njerëzor. Marrja e dokumentit në zyrën, në prani të një vajze që kishte për detyrë të ruante sipas protokollit, është një veprim i ulët, i paedukatë dhe cinik. Së paku, vendi i punës së vajzës është rrez",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T20:32:29+00:00",
+      "dateStr": "27 Jul, 20:32",
+      "isNew": true,
+      "id": "24 61785184349"
+    },
+    {
+      "title": "Tërhiqet shorti edhe për edicionin e ri të Ligës së Parë dhe Ligës së Dytë",
+      "link": "https://24-ore.com/terhiqet-shorti-edhe-per-edicionin-e-ri-te-liges-se-pare-dhe-liges-se-dyte/",
+      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor July 2026 M T W T F S S   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T20:31:41+00:00",
+      "dateStr": "27 Jul, 20:31",
+      "isNew": true,
+      "id": "24 71785184301"
+    },
+    {
+      "title": "Rama ndërpret marrëveshjen me BIRN për hapësirën në “Grand Hotel”, Xharra e akuzon për hakmarrje",
+      "link": "https://24-ore.com/rama-nderpret-marreveshjen-me-birn-per-hapesiren-ne-grand-hotel-xharra-e-akuzon-per-hakmarrje/",
+      "description": "Kryetari i Prishtinës, Përparim Rama, ka bërë të ditur se Komuna ka ndërprerë marrëveshjen me BIRN-in për shfrytëzimin e hapësirës publike në “Grand Hotel”, duke e lidhur këtë vendim me mungesën e, siç ka thënë ai, “sqarimeve për çështjen thelbësore rreth faqes Lule Gjeli”. Vendimi i Ramës ka nxitur",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T20:30:30+00:00",
+      "dateStr": "27 Jul, 20:30",
+      "isNew": true,
+      "id": "24 81785184230"
+    },
+    {
+      "title": "QIPRO – Guterres në vizitën e parë që nga viti 2010",
+      "link": "https://24-ore.com/qipro-guterres-ne-viziten-e-pare-qe-nga-viti-2010/",
+      "description": "ATHINË, 27 korrik /ATSH-DPA/ – Sekretari i përgjithshëm i OKB-së, Antonio Guterres, pritet të mbërrijë sonte në Qipro për një vizitë treditore, e para e një kreu të OKB-së në ishull që nga viti 2010. Vizita synon t’i japë një shtysë të re përpjekjeve për rifillimin e bisedimeve mes komunitetit greko",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-27T20:30:12+00:00",
+      "dateStr": "27 Jul, 20:30",
+      "isNew": true,
+      "id": "24 91785184212"
+    },
     {
       "title": "Britania forcon mbështetjen për Kievin, Burnham i premton Zelenskyt teknologji ushtarake",
       "link": "https://abcnews.al/britania-forcon-mbeshtetjen-per-kievin-burnham-i-premton-zelenskyt-teknologji-ushtarake/",
@@ -12,7 +177,7 @@
       "date": "2026-07-27T20:15:23+00:00",
       "dateStr": "27 Jul, 20:15",
       "isNew": true,
-      "id": "abc01785183323"
+      "id": "abc51785183323"
     },
     {
       "title": "Duke menduar çfarë i duhej Agronit marrëveshja sekrete",
@@ -23,62 +188,7 @@
       "date": "2026-07-27T20:12:41+00:00",
       "dateStr": "27 Jul, 20:12",
       "isNew": true,
-      "id": "abc11785183161"
-    },
-    {
-      "title": "Bislimi: Në Kongresin Amerikan është paraqitur rezoluta që kundërshton mbajtjen e Asamblesë Parlamentare të OSBE-së në Beograd",
-      "link": "https://24-ore.com/bislimi-ne-kongresin-amerikan-eshte-paraqitur-rezoluta-qe-kundershton-mbajtjen-e-asamblese-parlamentare-te-osbe-se-ne-beograd/",
-      "description": "Avokuesi i çështjes së Kosovës në Shtetet e Bashkuara të Amerikës, Faton Bislimi, ka bërë të ditur se në Kongresin Amerikan është paraqitur Rezoluta Kongresionale 1451, e cila kërkon që sesioni vjetor i Asamblesë Parlamentare të OSBE-së për vitin 2027 të mbahet në Charleston të Karolinës së Jugut dh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T19:55:44+00:00",
-      "dateStr": "27 Jul, 19:55",
-      "isNew": true,
-      "id": "24 01785182144"
-    },
-    {
-      "title": "Abazi: Mirë që drejtësia ka nisur identifikimin e profileve fake, jam i gatshëm të depozitoj dëshmi",
-      "link": "https://24-ore.com/abazi-mire-qe-drejtesia-ka-nisur-identifikimin-e-profileve-fake-jam-i-gatshem-te-depozitoj-deshmi/",
-      "description": "Ish-deputeti Haki Abazi ka deklaruar se pas profilit “Lule Gjeli” qëndron një person me të cilin, sipas tij, është takuar më herët dhe i cili është prezantuar me identitete të ndryshme. Duke folur në “Debat Plus” RTV Dukagjini, Abazi tha se çështja tashmë është në duart e institucioneve të drejtësis",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T19:55:28+00:00",
-      "dateStr": "27 Jul, 19:55",
-      "isNew": true,
-      "id": "24 11785182128"
-    },
-    {
-      "title": "BERLIN – Gjermania ashpërson ligjet e sigurisë pas sulmit terrorist",
-      "link": "https://24-ore.com/berlin-gjermania-ashperson-ligjet-e-sigurise-pas-sulmit-terrorist/",
-      "description": "BERLIN, 27 korrik /ATSH-AFP/ – Qeveria gjermane ka premtuar masa më të ashpra sigurie pas sulmit vdekjeprurës të së shtunës pranë Paradës së Krenarisë në Berlin, ku një 21-vjeçar i njohur nga autoritetet për lidhje me ekstremizmin islamik vrau një grua 65-vjeçare dhe plagosi 29 persona. Sipas hetime",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T19:48:42+00:00",
-      "dateStr": "27 Jul, 19:48",
-      "isNew": true,
-      "id": "24 21785181722"
-    },
-    {
-      "title": "Llukarevska: Me këtë qeveri, qytetarët po përballen me rritje të çmimeve dhe rënie të standardit të jetesës",
-      "link": "https://24-ore.com/llukarevska-me-kete-qeveri-qytetaret-po-perballen-me-rritje-te-cmimeve-dhe-renie-te-standardit-te-jeteses/",
-      "description": "Deputetja e LSDM-së, Sanja Llukarevska ka reaguar ndaj ribalancimit të buxhetit, i cili u miratua sot në Kuvend, si një konfirmim të planifikimit të gabuar ekonomik të Qeverisë. Ajo, në &#8220;Sitel&#8221;, theksoi se në vend të masave specifike për të përmirësuar standardin e jetesës, Qeveria po of",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T19:39:50+00:00",
-      "dateStr": "27 Jul, 19:39",
-      "isNew": true,
-      "id": "24 31785181190"
-    },
-    {
-      "title": "Gjykata e Lartë e Brazilit lë në fuqi arrestin e Ervin Matës, vijon procesi i ekstradimit drejt Shqipërisë",
-      "link": "https://24-ore.com/gjykata-e-larte-e-brazilit-le-ne-fuqi-arrestin-e-ervin-mates-vijon-procesi-i-ekstradimit-drejt-shqiperise/",
-      "description": "Gjykata e Lartë e Brazilit ka rrëzuar kërkesën për lirimin e Ervin Matës teksa vijon arresti gjatë procesit të ekstradimit. Ajo ka vendosur të mbajë në fuqi arrestin parandalues me qëllim ekstradimi ndaj shtetasit shqiptar Ervin Mata, duke rrëzuar kërkesën e mbrojtjes për heqjen e masës së arrestit ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T19:30:23+00:00",
-      "dateStr": "27 Jul, 19:30",
-      "isNew": true,
-      "id": "24 41785180623"
+      "id": "abc61785183161"
     },
     {
       "title": "Lufta me zjarret/ Presidenti Macron motivon zjarrfikësit: Mos u dorëzoni kurrë",
@@ -89,7 +199,7 @@
       "date": "2026-07-27T19:26:30+00:00",
       "dateStr": "27 Jul, 19:26",
       "isNew": true,
-      "id": "abc21785180390"
+      "id": "abc71785180390"
     },
     {
       "title": "Ballkani ‘në lupën ruse’/ Nahaylo: Duan të zbehin influencat demokratike, Moska përfiton nga konfliktet!",
@@ -100,29 +210,7 @@
       "date": "2026-07-27T19:26:00+00:00",
       "dateStr": "27 Jul, 19:26",
       "isNew": true,
-      "id": "abc31785180360"
-    },
-    {
-      "title": "Lajm i mirë për futbollin kosovar: Arrijnë reflektorët e parë, tri stadiume bëhen me drita",
-      "link": "https://24-ore.com/lajm-i-mire-per-futbollin-kosovar-arrijne-reflektoret-e-pare-tri-stadiume-behen-me-drita/",
-      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor July 2026 M T W T F S S   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T19:20:39+00:00",
-      "dateStr": "27 Jul, 19:20",
-      "isNew": true,
-      "id": "24 51785180039"
-    },
-    {
-      "title": "Presidenti, mes ujdisë e zgjedhjeve",
-      "link": "https://24-ore.com/presidenti-mes-ujdise-e-zgjedhjeve/",
-      "description": "Zgjedhja e kreut të shtetit mbetet ende një çështje e hapur për shkak të ngatërresave dhe mospajtimeve mes partive kryesore politike në vend, duke mbajtur pezull edhe formimin e institucioneve të reja. Kryediplomati, Glauk Konjufca sheh gatishmëri te Lidhja Demokratike për një emër konsensual, megji",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T19:20:17+00:00",
-      "dateStr": "27 Jul, 19:20",
-      "isNew": true,
-      "id": "24 61785180017"
+      "id": "abc81785180360"
     },
     {
       "title": "Kryeredaktori i Kyiv Post: Rusia synon dobësimin e Perëndimit dhe shpërbërjen e BE",
@@ -133,95 +221,7 @@
       "date": "2026-07-27T19:19:45+00:00",
       "dateStr": "27 Jul, 19:19",
       "isNew": true,
-      "id": "abc41785179985"
-    },
-    {
-      "title": "SHBA – Trump: Veprime ushtarake nëse dështojnë bisedimet me Iranin",
-      "link": "https://24-ore.com/shba-trump-veprime-ushtarake-nese-deshtojne-bisedimet-me-iranin/",
-      "description": "Presidenti amerikan Donald Trump, deklaroi se Uashingtoni është në “bisedime shumë të thella” me Iranin, por paralajmëroi se është i gatshëm të ndërmarrë veprime të forta ushtarake nëse përpjekjet diplomatike nuk japin rezultat, sipas Reuters. Në një intervistë për “Axios”, Trump tha se koha për arr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T19:18:43+00:00",
-      "dateStr": "27 Jul, 19:18",
-      "isNew": true,
-      "id": "24 71785179923"
-    },
-    {
-      "title": "Inter, arrihet marrëveshja me Stones",
-      "link": "https://24-ore.com/inter-arrihet-marreveshja-me-stones/",
-      "description": "Sipas raportimeve të fundit të mediave italiane, Interi po intensifikon kontaktet për të fituar garën për Stones. Lojtari anglez është i disponueshëm me parametër zero pas skadimit të kontratës së tij me Manchester City-n më 30 qershor. Mbrojtësi qendror u ishte ofruar zikaltërve në disa raste gjatë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T19:11:50+00:00",
-      "dateStr": "27 Jul, 19:11",
-      "isNew": true,
-      "id": "24 81785179510"
-    },
-    {
-      "title": "Dita e 58-të e protestës, qytetarët mblidhen para Kryeministrisë",
-      "link": "https://24-ore.com/dita-e-58-te-e-protestes-qytetaret-mblidhen-para-kryeministrise/",
-      "description": "Protesta qytetare vijon në ditën e 58-të të saj teksa kërkojnë dorëheqjen e kryeministrit Edi Rama. Qytetarë dhe aktivistë janë mbledhur fillimisht në sheshin “Skëndërbej” ku më pas marshuan drejt bulevardit përpara Kryeministrisë. Pjesëmarrësit në protestë kanë bërë të ditur se tubimet do të vijojn",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T19:11:37+00:00",
-      "dateStr": "27 Jul, 19:11",
-      "isNew": true,
-      "id": "24 91785179497"
-    },
-    {
-      "title": "“Financial Times”: BE po kërkon mënyra për të kufizuar vetot e shteteve anëtare",
-      "link": "https://abcnews.al/financial-times-be-po-kerkon-menyra-per-te-kufizuar-vetot-e-shteteve-anetare/",
-      "description": "Bashkimi Evropian po shqyrton mënyra për t&#8217;i bërë shtetet anëtare më pak të prirura të përdorin veton në negociata dhe, pas disa javësh, Greqia bllokoi miratimin e paketës së 21-të të sanksioneve kundër Rusisë, duke kërkuar një përjashtim për anijet Dinagas, shkruan sot &#8220;Financial Times&",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-27T19:08:49+00:00",
-      "dateStr": "27 Jul, 19:08",
-      "isNew": true,
-      "id": "abc51785179329"
-    },
-    {
-      "title": "Edicioni Qendror me Emilian Islami, (27/07/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-emilian-islami-27-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-27T18:49:05+00:00",
-      "dateStr": "27 Jul, 18:49",
-      "isNew": true,
-      "id": "abc61785178145"
-    },
-    {
-      "title": "Mbi 600 ushtarë amerikanë të plagosur që nga fillimi i konfliktit me Iranin, Pentagoni bën bilancin",
-      "link": "https://abcnews.al/mbi-600-ushtare-amerikane-te-plagosur-qe-nga-fillimi-i-konfliktit-me-iranin-pentagoni-ben-bilancin/",
-      "description": "Të paktën 624 anëtarë të forcave të armatosura amerikane janë plagosur që nga fillimi i konfliktit me Iranin, sipas përditësimit më të fundit të publikuar nga Pentagoni më 25 korrik. Nga të plagosurit, 417 i atribuohen Operacionit Epic Fury, ndërsa 207 klasifikohen në kategorinë “Operacionet Jashtë ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-27T18:44:23+00:00",
-      "dateStr": "27 Jul, 18:44",
-      "isNew": true,
-      "id": "abc71785177863"
-    },
-    {
-      "title": "Rumania shpalli ambasadorin rus person të padëshiruar",
-      "link": "https://abcnews.al/rumania-shpalli-ambasadorin-rus-person-te-padeshiruar/",
-      "description": "Ministria e Punëve të Jashtme e Rumanisë njoftoi sot se ambasadori rus, Vladimir Lipaev, u shpall person i padëshiruar, pasi ushtria rumune rrëzoi tre dronë mbi territorin e Rumanisë, të cilët u përcaktua se ishin rusë. Në njoftim thuhet se ambasadori rus ka pesë ditë kohë për të lënë Rumaninë, si d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-27T18:42:34+00:00",
-      "dateStr": "27 Jul, 18:42",
-      "isNew": true,
-      "id": "abc81785177754"
-    },
-    {
-      "title": "Austria planifikon të zgjasë shërbimin ushtarak nga gjashtë në nëntë muaj",
-      "link": "https://abcnews.al/austria-planifikon-te-zgjase-sherbimin-ushtarak-nga-gjashte-ne-nente-muaj/",
-      "description": "Qeveria e koalicionit austriak njoftoi sot se planifikon të zgjasë shërbimin ushtarak nga gjashtë në nëntë muaj, me qëllim që të përshtatet me sfidat e sigurisë në mjedis për shkak të luftës në Ukrainë. “Kushtet e sigurisë kanë ndryshuar rrënjësisht në vitet, muajt dhe javët e fundit. Ëndrra e paqes",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-27T18:36:33+00:00",
-      "dateStr": "27 Jul, 18:36",
-      "isNew": true,
-      "id": "abc91785177393"
+      "id": "abc91785179985"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
