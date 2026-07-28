@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-07-28T21:59:09.176161+00:00",
+  "lastUpdated": "2026-07-28T23:05:30.610844+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Sulmi me thikë në Paris, autori i arrestuar dërgohet në spital psikiatrik",
+      "link": "https://24-ore.com/sulmi-me-thike-ne-paris-autori-i-arrestuar-dergohet-ne-spital-psikiatrik/",
+      "description": "Burri që u arrestua të hënën në Paris pasi plagosi tre gra me thikë është dërguar në një spital psikiatrik këtë të martë. Gjatë hetimeve mbi të kaluarën e tij, u zbulua se ai ishte nën monitorim psikiatrik. Mësohet se nuk kishte pasur më parë probleme me policinë. Gjendja shëndetësore e dy grave të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-28T22:20:29+00:00",
+      "dateStr": "28 Jul, 22:20",
+      "isNew": true,
+      "id": "24 01785277229"
+    },
+    {
+      "title": "“Ata që kanë dalë njëherë në protestë, janë me protestuesit”, Vongli: Rënia e numrit nuk është dekurajues",
+      "link": "https://24-ore.com/ata-qe-kane-dale-njehere-ne-proteste-jane-me-protestuesit-vongli-renia-e-numrit-nuk-eshte-dekurajues/",
+      "description": "Pedagogia dhe aktivistja, Haris Vongli e ftuar në emisionin “Now” me Erla Mëhillim në Euronews Albania ka folur lidhur me protestën e cila po vijon prej 59-të ditësh në kryeqytet. Ajo gjatë fjalës së saj u shpreh se rënia e numrit të protestuesve nuk është dekurajuese. Sipas saj tkurrja e protestues",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-28T22:16:57+00:00",
+      "dateStr": "28 Jul, 22:16",
+      "isNew": true,
+      "id": "24 11785277017"
+    },
     {
       "title": "“Italia do Ballkanin në Evropë”/ Ministri i Jashtëm Tajani: Rajoni Adriatiko-Jonian, nyje me rëndësi ekonomike",
       "link": "https://abcnews.al/italia-do-ballkanin-ne-evrope-ministri-i-jashtem-tajani-rajoni-adriatiko-jonian-nyje-me-rendesi-ekonomike/",
@@ -45,7 +67,7 @@
       "date": "2026-07-28T21:25:36+00:00",
       "dateStr": "28 Jul, 21:25",
       "isNew": true,
-      "id": "24 01785273936"
+      "id": "24 21785273936"
     },
     {
       "title": "Zonja Agathi e Kuvendit të Shqipërisë",
@@ -56,7 +78,7 @@
       "date": "2026-07-28T21:21:13+00:00",
       "dateStr": "28 Jul, 21:21",
       "isNew": true,
-      "id": "24 11785273673"
+      "id": "24 31785273673"
     },
     {
       "title": "Drita përmbys Florianan pas vazhdimeve dhe siguron raundin e tretë të Conference League",
@@ -67,7 +89,7 @@
       "date": "2026-07-28T21:20:44+00:00",
       "dateStr": "28 Jul, 21:20",
       "isNew": true,
-      "id": "24 21785273644"
+      "id": "24 41785273644"
     },
     {
       "title": "Lushtaku pas shpalljes i pafajshëm në rastin Drenica: Akuzat bazoheshin në dëshmitarë të rrejshëm",
@@ -78,7 +100,7 @@
       "date": "2026-07-28T21:17:41+00:00",
       "dateStr": "28 Jul, 21:17",
       "isNew": true,
-      "id": "24 31785273461"
+      "id": "24 51785273461"
     },
     {
       "title": "Kompania e Daniel Vatajt dhe Betim Drenicës siguron 12 milionë dollarë për platformën e mesazheve me AI",
@@ -89,7 +111,7 @@
       "date": "2026-07-28T21:10:31+00:00",
       "dateStr": "28 Jul, 21:10",
       "isNew": true,
-      "id": "24 41785273031"
+      "id": "24 61785273031"
     },
     {
       "title": "2 viktima nga aksidentet/ 4 aksidente në rrugët e vendit, dy prej tyre fatale",
@@ -111,7 +133,7 @@
       "date": "2026-07-28T21:05:38+00:00",
       "dateStr": "28 Jul, 21:05",
       "isNew": true,
-      "id": "24 51785272738"
+      "id": "24 71785272738"
     },
     {
       "title": "Të reflektosh jo me fjalë ndaj qeverisjes",
@@ -122,7 +144,7 @@
       "date": "2026-07-28T21:00:30+00:00",
       "dateStr": "28 Jul, 21:00",
       "isNew": true,
-      "id": "24 61785272430"
+      "id": "24 81785272430"
     },
     {
       "title": "SHBA – Administrata Trump përshpejton dëbimin e azilkërkuesve",
@@ -133,7 +155,7 @@
       "date": "2026-07-28T21:00:14+00:00",
       "dateStr": "28 Jul, 21:00",
       "isNew": true,
-      "id": "24 71785272414"
+      "id": "24 91785272414"
     },
     {
       "title": "Ministri izraelit: Rreth 70% e Gazës është shkatërruar",
@@ -145,28 +167,6 @@
       "dateStr": "28 Jul, 20:57",
       "isNew": true,
       "id": "abc41785272234"
-    },
-    {
-      "title": "Shfaqen grafite në Prishtinë pas vdekjes tragjike të punëtorit në vendpunishte",
-      "link": "https://24-ore.com/shfaqen-grafite-ne-prishtine-pas-vdekjes-tragjike-te-punetorit-ne-vendpunishte/",
-      "description": "Kolektivi për Mendim dhe Veprim Feminist ka realizuar sonte grafite në Prishtinë si reagim pas vdekjes së një punëtori në një vendpunishte ndërtimore në kryeqytet. Përmes një reagimi, kolektivi ka shprehur revoltë për rastin, duke e cilësuar vdekjen e punëtorit si pasojë të kushteve të rënda në të c",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-28T20:50:14+00:00",
-      "dateStr": "28 Jul, 20:50",
-      "isNew": true,
-      "id": "24 81785271814"
-    },
-    {
-      "title": "PD “leksion” ambasadës amerikane: Mbani qëndrim për protestën, mos rrini si struci…",
-      "link": "https://24-ore.com/pd-leksion-ambasades-amerikane-mbani-qendrim-per-protesten-mos-rrini-si-struci/",
-      "description": "Kryetari i degës së PD Krujë Aulon Kalaja deklaroi se Ambasada Amerikane në Shqipëri duhet të mbajë një qëndrim për protestën qytetare në bulevard, duke dalë në mbështetje të saj. Sipas Kalasë deri më tani Ambasada e SHBA-ve në Tiranë nuk e ka dhënë një mesazh të tillë. I ftuar në emisionin “Off the",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-28T20:49:12+00:00",
-      "dateStr": "28 Jul, 20:49",
-      "isNew": true,
-      "id": "24 91785271752"
     },
     {
       "title": "“Faqja 4” me Jeta Kasemi, (28/07/2026)",
