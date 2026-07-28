@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-07-28T02:49:58.390702+00:00",
+  "lastUpdated": "2026-07-28T05:42:25.157692+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Shala rrëfen historinë e humanizmit para luftës: Si donatori Shaban Svirca dhe mjeku Gani Demolli ngritën maternitetin ku lindën mbi 13 mijë fëmijë",
+      "link": "https://24-ore.com/shala-rrefen-historine-e-humanizmit-para-luftes-si-donatori-shaban-svirca-dhe-mjeku-gani-demolli-ngriten-maternitetin-ku-linden-mbi-13-mije-femije/",
+      "description": "Drejtori i Shoqatës Humanitare Bamirëse “Nëna Terezë”, Zef Shala, ka rrëfyer historinë e krijimit të një prej shërbimeve më të rëndësishme shëndetësore për shqiptarët e Kosovës gjatë viteve ’90 – ambulancës dhe maternitetit të ngritur në shtëpinë e donatorit Shaban Svirca. Në një intervistë në “Përb",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-28T05:40:13+00:00",
+      "dateStr": "28 Jul, 05:40",
+      "isNew": true,
+      "id": "24 01785217213"
+    },
+    {
+      "title": "FOKUS – Qindra dronë ukrainas godasin Moskën dhe rajonet përreth",
+      "link": "https://24-ore.com/fokus-qindra-drone-ukrainas-godasin-mosken-dhe-rajonet-perreth/",
+      "description": "MOSKË, 28 korrik /ATSH –ANSA/ –  Ukraina ka lëshuar qindra dronë kundër Moskës dhe disa rajoneve përreth. Sipas burimeve të ndryshme, numri i përgjithshëm i dronëve të përdorur është mbi 390. Disa prej tyre janë rrëzuar nga sistemet ruse të mbrojtjes ajrore, ndërsa të tjerë kanë arritur objektivat e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-28T05:18:43+00:00",
+      "dateStr": "28 Jul, 05:18",
+      "isNew": true,
+      "id": "24 11785215923"
+    },
+    {
+      "title": "Mot me diell dhe vranësira, në zonat malore reshje të izoluara",
+      "link": "https://24-ore.com/mot-me-diell-dhe-vranesira-ne-zonat-malore-reshje-te-izoluara/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se të martën në Kosovë do të mbajë mot me diell dhe vranësira të shpërndara, me intervale të gjata me diell. IHK njofton se reshje të izoluara mund të paraqiten kryesisht në zonat malore. Temperaturat minimale do të lëvizin ndërmjet 13 dhe 16 gradë Celsius, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-28T05:15:20+00:00",
+      "dateStr": "28 Jul, 05:15",
+      "isNew": true,
+      "id": "24 21785215720"
+    },
+    {
+      "title": "Paqja Fiskale, aplikimet për rinovimin e marrëveshjes për 2027 pritet të zgjasin 1 muaj",
+      "link": "https://24-ore.com/paqja-fiskale-aplikimet-per-rinovimin-e-marreveshjes-per-2027-pritet-te-zgjasin-1-muaj/",
+      "description": "Bizneset q&#235; do t&#235; k&#235;rkojn&#235; t&#235; rinovojn&#235; n&#235; vitin 2027 marr&#235;veshjen e Paqes Fiskale pritet t&#235; ken&#235; m&#235; shum&#235; koh&#235; n&#235; dispozicion p&#235;r aplikimet, pasi afati i procedur&#235;s parashikohet t&#235; zgjatet. Afati i zbatimit t&#235;",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-28T04:03:45+00:00",
+      "dateStr": "28 Jul, 04:03",
+      "isNew": true,
+      "id": "24 31785211425"
+    },
     {
       "title": "Ndarja zoologjike e popullit",
       "link": "https://24-ore.com/ndarja-zoologjike-e-popullit/",
@@ -12,7 +56,7 @@
       "date": "2026-07-28T00:21:05+00:00",
       "dateStr": "28 Jul, 00:21",
       "isNew": true,
-      "id": "24 01785198065"
+      "id": "24 41785198065"
     },
     {
       "title": "Një prerje në besë e Shqipërisë së re",
@@ -23,7 +67,7 @@
       "date": "2026-07-28T00:20:11+00:00",
       "dateStr": "28 Jul, 00:20",
       "isNew": true,
-      "id": "24 11785198011"
+      "id": "24 51785198011"
     },
     {
       "title": "Reforma territoriale dhe profecia e romakut Tacitus",
@@ -34,7 +78,7 @@
       "date": "2026-07-28T00:18:25+00:00",
       "dateStr": "28 Jul, 00:18",
       "isNew": true,
-      "id": "24 21785197905"
+      "id": "24 61785197905"
     },
     {
       "title": "Maldini braktis Italinë / “Tërmet” në Federatën e Futbollit, largohet legjenda kuqezi",
@@ -100,7 +144,7 @@
       "date": "2026-07-27T21:00:09+00:00",
       "dateStr": "27 Jul, 21:00",
       "isNew": true,
-      "id": "24 31785186009"
+      "id": "24 71785186009"
     },
     {
       "title": "Autostrada Kërçovë-Ohër me kosto rekord",
@@ -111,7 +155,7 @@
       "date": "2026-07-27T20:55:37+00:00",
       "dateStr": "27 Jul, 20:55",
       "isNew": true,
-      "id": "24 41785185737"
+      "id": "24 81785185737"
     },
     {
       "title": "“Mos bëj cubin me administratën”, Manjani kritikon Shehajn: Dokumentet u grabitën me dhunë",
@@ -122,51 +166,7 @@
       "date": "2026-07-27T20:50:33+00:00",
       "dateStr": "27 Jul, 20:50",
       "isNew": true,
-      "id": "24 51785185433"
-    },
-    {
-      "title": "METEO – Gjermania në pritje të 39 gradëve Celsius",
-      "link": "https://24-ore.com/meteo-gjermania-ne-pritje-te-39-gradeve-celsius/",
-      "description": "BERLIN, 27 korrik /ATSH-DPA/ – Gjermania pritet të përballet me një valë të fortë të nxehti gjatë ditëve në vijim, me temperatura që mund të arrijnë deri në 39 gradë Celsius, sipas Shërbimit Meteorologjik Gjerman (DWD). Meteorologët parashikojnë se nesër pjesa jugperëndimore e vendit do të regjistro",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T20:48:42+00:00",
-      "dateStr": "27 Jul, 20:48",
-      "isNew": true,
-      "id": "24 61785185322"
-    },
-    {
-      "title": "Aktivisti Goci: Protesta duhet të bëhet e dhunshme, të bllokohet Parlamenti",
-      "link": "https://24-ore.com/aktivisti-goci-protesta-duhet-te-behet-e-dhunshme-te-bllokohet-parlamenti/",
-      "description": "Petagogu dhe aktivisti, Ervin Goci i ftuar këtë të hënë në emisionin “Now” me Erla Mëhillin në Euronews Albania ka kritikuar mënyrën se si u kalua marrëveshja prej 300 milionë eurosh në Kuvend teksa ai theksoi se u miratua pa transparencë dhe pa iu dhënë kohë e mundësi deputetëve ta lexojnë. Ai e ci",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T20:40:52+00:00",
-      "dateStr": "27 Jul, 20:40",
-      "isNew": true,
-      "id": "24 71785184852"
-    },
-    {
-      "title": "Aksident i rëndë në Durrës, përmbyset një makinë. Dy të lënduar (VIDEO)",
-      "link": "https://24-ore.com/aksident-i-rende-ne-durres-permbyset-nje-makine-dy-te-lenduar-video/",
-      "description": "Një aksident i rëndë automobilistik është regjistruar mbëmjen e kësaj të hëne në rrugën “Vllazërimi” në Durrës, ku dy automjete janë përplasur me njëra-tjetrën. Si pasojë e goditjes së fortë, njëra prej makinave është përmbysur në mes të rrugës. Dy të lënduarit janë transportuar me urgjencë drejt Sp",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T20:40:31+00:00",
-      "dateStr": "27 Jul, 20:40",
-      "isNew": true,
-      "id": "24 81785184831"
-    },
-    {
-      "title": "Shënim/ Heshtja cinike e grave të opozitës për aktin e rëndë të Agron Shehajt ndaj një gruaje",
-      "link": "https://24-ore.com/shenim-heshtja-cinike-e-grave-te-opozites-per-aktin-e-rende-te-agron-shehajt-ndaj-nje-gruaje/",
-      "description": "Akti i Agron Shehajt në Kuvend ishte i rëndë, përpos aspektit ligjor, ishte skandaloz në nivelin njerëzor. Marrja e dokumentit në zyrën, në prani të një vajze që kishte për detyrë të ruante sipas protokollit, është një veprim i ulët, i paedukatë dhe cinik. Së paku, vendi i punës së vajzës është rrez",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-27T20:32:29+00:00",
-      "dateStr": "27 Jul, 20:32",
-      "isNew": true,
-      "id": "24 91785184349"
+      "id": "24 91785185433"
     },
     {
       "title": "Britania forcon mbështetjen për Kievin, Burnham i premton Zelenskyt teknologji ushtarake",
