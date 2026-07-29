@@ -1,117 +1,194 @@
 {
-  "lastUpdated": "2026-07-29T15:51:23.840879+00:00",
+  "lastUpdated": "2026-07-29T17:10:18.932632+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Irina Shayk dhe Devin Booker në një romancë dashurie?",
-      "link": "https://24-ore.com/irina-shayk-dhe-devin-booker-ne-nje-romance-dashurie/",
-      "description": "Supermodelja Irina Shayk po takohet me yllin e NBA-së, Devin Booker, sipas raportimeve të publikuara të martën nga People. “Është diçka shumë e re, por ata e pëlqejnë shumë njëri-tjetrin”, tha një burim për median. Sipas burimit, të dy janë njohur përmes miqve të përbashkët disa muaj më parë dhe po ",
+      "title": "Nëna Liza si anatomia e një proteste që kërkon t’ia nisim prapë nga e para",
+      "link": "https://24-ore.com/nena-liza-si-anatomia-e-nje-proteste-qe-kerkon-tia-nisim-prape-nga-e-para/",
+      "description": "Nga Mero Baze Nëna Liza u shfaq në tribunën e protestës dhe premtoi se do t’i “hante darkën Edi Ramës”. Për ata që ndoshta s’e dinë kuptimin e kësaj fjale, është që do marrë pjesë në funeralin e tij. Duke llogaritur që “Nëna Liza” është më e madhe se Rama, ajo shpreson, me sa duket, [&#8230;]",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-29T15:50:31+00:00",
-      "dateStr": "29 Jul, 15:50",
+      "date": "2026-07-29T17:05:31+00:00",
+      "dateStr": "29 Jul, 17:05",
       "isNew": true,
-      "id": "24 01785340231"
+      "id": "24 01785344731"
     },
     {
-      "title": "BRUKSEL – BE drejt qasjes më të shpejtë të kompanive në inovacionet shkencore",
-      "link": "https://24-ore.com/bruksel-be-drejt-qasjes-me-te-shpejte-te-kompanive-ne-inovacionet-shkencore/",
-      "description": "– Komisioni Evropian ka miratuar një Kartë të re për Aksesin e Industrisë, me synimin që kompanitë, veçanërisht startup-et dhe ndërmarrjet e vogla e të mesme, të kenë qasje më të shpejtë dhe më të lehtë në laboratorët dhe infrastrukturat kërkimore të nivelit të lartë në Evropë, sipas Euronews. Qëlli",
+      "title": "Bislimi: Protestat në Shqipëri duhen hetuar, ka përpjekje për destabilizim",
+      "link": "https://24-ore.com/bislimi-protestat-ne-shqiperi-duhen-hetuar-ka-perpjekje-per-destabilizim/",
+      "description": "Pasi del hapur kundër integrimit të vendit në Bashkimin Europian, partia demokratike tenton të bllokojë edhe marrëveshjet me Shtetet e Bashkuara të Amerikës. Nga bojkoti në Kuvend, tek Gjykata Kushtetuese, PD thotë se do nisë betejën për të bllokuar huanë amerikane prej 302 milionë dollarësh, marrëv",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-29T15:48:42+00:00",
+      "date": "2026-07-29T17:00:48+00:00",
+      "dateStr": "29 Jul, 17:00",
+      "isNew": true,
+      "id": "24 11785344448"
+    },
+    {
+      "title": "KOMENT – FIFA i ka kundër të gjithë pas planeve për investitorët privatë",
+      "link": "https://24-ore.com/koment-fifa-i-ka-kunder-te-gjithe-pas-planeve-per-investitoret-private/",
+      "description": "PARIS, 29 korrik /ATSH-AFP/ – Vendimi i FIFA-s për të krijuar një shoqëri të re tregtare, “FIFA Forward Enterprise (FFE)” për menaxhimin e aktiviteteve komerciale dhe tërheqjen e investitorëve privatë, ka shkaktuar një valë të gjerë reagimesh negative në botën e futbollit. Konfederata kontinentale, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T17:00:10+00:00",
+      "dateStr": "29 Jul, 17:00",
+      "isNew": true,
+      "id": "24 21785344410"
+    },
+    {
+      "title": "Pushimi menstrual për gratë, Braçe sfidon qeverinë pas shembullit të Malit të Zi: Në shtator e çoj sërish në Kuvend",
+      "link": "https://24-ore.com/pushimi-menstrual-per-grate-brace-sfidon-qeverine-pas-shembullit-te-malit-te-zi-ne-shtator-e-coj-serish-ne-kuvend/",
+      "description": "Deputeti i PS, Erion Braçe ka vendosur ta rikthejë në shtator në Kuvend një propozim që, sipas tij, prej dy vitesh nuk po gjen mbështetje brenda mazhorancës socialiste. Ai kërkon sërish që grave me patologji gjinekologjike të diagnostikuara, si endometrioza dhe adenomioza, t’u njihet me ligj një dit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T16:49:10+00:00",
+      "dateStr": "29 Jul, 16:49",
+      "isNew": true,
+      "id": "24 31785343750"
+    },
+    {
+      "title": "A fitojmë me lekun e forcuar ndjeshëm?",
+      "link": "https://24-ore.com/a-fitojme-me-lekun-e-forcuar-ndjeshem/",
+      "description": "Nga Fatos Çoçoli Sot, një euro në tregun tonë këmbehet me 93.2 lekë. Më 29 korrik 2025, një vit më parë, blihej me 96.5 lekë. Sot leku është 3.5 përqind më i fortë se vetëm një vit më parë. Ose 22 përqind më i fortë se katër vite më parë, kur më 29 korrik 2022 blihej me 119.1 [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T16:48:42+00:00",
+      "dateStr": "29 Jul, 16:48",
+      "isNew": true,
+      "id": "24 41785343722"
+    },
+    {
+      "title": "Berisha rimerr flamurin antiamerikan/ Bislimi: Berisha e Kurti përfaqësojnë frymën lindore, populli po ndahet prej tyre",
+      "link": "https://abcnews.al/berisha-rimerr-flamurin-antimamerikan-bislimi-berisha-e-kurti-perfaqesojne-frymen-lindore-populli-po-ndahet-prej-tyre/",
+      "description": "TIRANË- Pasi del hapur kundër integrimit të vendit në Bashkimin Europian, partia demokratike tenton të bllokojë edhe marrëveshjet me Shtetet e Bashkuara të Amerikës. Nga bojkoti në Kuvend, tek Gjykata Kushtetuese, PD thotë se do nisë betejën për të bllokuar huanë amerikane prej 302 milionë dollarësh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-29T16:47:44+00:00",
+      "dateStr": "29 Jul, 16:47",
+      "isNew": true,
+      "id": "abc01785343664"
+    },
+    {
+      "title": "Kuvendi i RMV-së zgjodhi Meri Dika-Georgievskën si gjyqtare kushtetuese",
+      "link": "https://24-ore.com/kuvendi-i-rmv-se-zgjodhi-meri-dika-georgievsken-si-gjyqtare-kushtetuese/",
+      "description": "Kuvendi i RMV-së sot zgjodhi Meri Dika-Georgievskë si gjyqtare kushtetuese. 64 deputetë votuan për zgjedhjen e saj, pa asnjë &#8220;kundër&#8221; ose &#8220;abstenim&#8221;. Pas zgjedhjes, ajo bëri një betim solemn. Dika-Georgievska ka një diplomë juridike nga Fakulteti i Drejtësisë në Universitetin",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T16:46:29+00:00",
+      "dateStr": "29 Jul, 16:46",
+      "isNew": true,
+      "id": "24 51785343589"
+    },
+    {
+      "title": "Fetai: Qeveria e RMV-së më ka emëruar të Dërguar Special për Bashkimin Evropian në Bruksel",
+      "link": "https://24-ore.com/fetai-qeveria-e-rmv-se-me-ka-emeruar-te-derguar-special-per-bashkimin-evropian-ne-bruksel/",
+      "description": "Ish-zëvendëskryeministri për qeverisje të mirë, Arben Fetai, ka konfirmuar sot se qeveria e Maqedonisë së Veriut e ka emëruar të Dërguar Special për Bashkimin Evropian në Bruksel, informon Telegrafi Maqedoni. Ai përmes njoftimin thotë se detyra e re ka përgjegjësi të madhe, pasi vendi i Maqedonisë s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T16:46:18+00:00",
+      "dateStr": "29 Jul, 16:46",
+      "isNew": true,
+      "id": "24 61785343578"
+    },
+    {
+      "title": "Vendimi i Kosovës për udhërrëfyesit turistikë trazon politikën dhe kishën serbe në Beograd",
+      "link": "https://24-ore.com/vendimi-i-kosoves-per-udherrefyesit-turistike-trazon-politiken-dhe-kishen-serbe-ne-beograd/",
+      "description": "Kryetari i Partisë Progresive Serbe (SNS), Millosh Vuçeviq, ka akuzuar autoritetet në Kosovë se, përmes masave të ligjit për Turizmin, që sipas tij pritet të hyjnë në fuqi më 1 gusht, po synojnë “shuarjen e identitetit serb” në Kosovë. Vuçeviq, i cili është edhe këshilltar i presidentit të Serbisë p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T16:46:08+00:00",
+      "dateStr": "29 Jul, 16:46",
+      "isNew": true,
+      "id": "24 71785343568"
+    },
+    {
+      "title": "E rëndë në Lezhë!/ Humbi kontrollin e zetorit, ndërron jetë drejtuesi",
+      "link": "https://abcnews.al/e-rende-ne-lezhe-humbi-kontrollin-e-zetorit-nderron-jete-drejtuesi/",
+      "description": "Një ngjarje aksidentale është shënuar në fshatin Torovicë të Lezhës, ku një person ka humbur jetën si pasojë e një aksidenti. Nga të dhënat paraprake mësohet se vimtima Dod Marku po lëvizte me një mjet bujqësor zetor kur dyshohet se ka humbur kontrollin dhe ka mbetur poshtë tij. Si pasojë e plagëve ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-29T16:46:06+00:00",
+      "dateStr": "29 Jul, 16:46",
+      "isNew": true,
+      "id": "abc11785343566"
+    },
+    {
+      "title": "Europa mbush arkat e Egnatias, 1.7 milionë euro të fituara deri më tani",
+      "link": "https://24-ore.com/europa-mbush-arkat-e-egnatias-1-7-milione-euro-te-fituara-deri-me-tani/",
+      "description": "Egnatia u eliminua nga Champions League, por do të vazhdojë rrugëtimin e saj në Europë, tashmë në Europa League, aty ku do të përballet me Shamrock Rovers, në turin e tretë kualifikues. Kampionët e Shqipërisë kanë një mundësi të artë, për të luajtur në fazën e ligës në Europa ose Conference League, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T16:45:55+00:00",
+      "dateStr": "29 Jul, 16:45",
+      "isNew": true,
+      "id": "24 81785343555"
+    },
+    {
+      "title": "Trump premton goditje të ashpër ndaj Iranit pas sulmit me raketa ndaj forcave amerikane",
+      "link": "https://abcnews.al/trump-premton-goditje-te-ashper-ndaj-iranit-pas-sulmit-me-raketa-ndaj-forcave-amerikane/",
+      "description": "Presidenti amerikan Donald Trump, premtoi sot një përgjigje të fortë ushtarake ndaj sulmeve të reja me raketa të Iranit kundër forcave amerikane në Lindjen e Mesme. Në një intervistë për “Fox News”, ai deklaroi se Shtetet e Bashkuara do të godasin rëndë Iranin, duke paralajmëruar pasoja të rënda. Ko",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-29T16:38:09+00:00",
+      "dateStr": "29 Jul, 16:38",
+      "isNew": true,
+      "id": "abc21785343089"
+    },
+    {
+      "title": "Zjarr në një fabrikë në Gjakovë, zjarrfikësit lokalizojnë flakët",
+      "link": "https://24-ore.com/zjarr-ne-nje-fabrike-ne-gjakove-zjarrfikesit-lokalizojne-flaket/",
+      "description": "Një zjarr ka përfshirë sot pjesërisht fabrikën “Daija Metal” në Gjakovë, më 29 korrik 2026. Njësia Profesionale e Zjarrfikësve dhe Shpëtimit në Gjakovë ka intervenuar me shpejtësi, duke arritur të lokalizojë dhe shuajë zjarrin në kohë. Sipas zjarrfikësve, reagimi i ekipeve ka parandaluar përhapjen e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T16:35:50+00:00",
+      "dateStr": "29 Jul, 16:35",
+      "isNew": true,
+      "id": "24 91785342950"
+    },
+    {
+      "title": "Paralajmërimi i agjencisë së BE: Evropa rrezikon një sezon katastrofik zjarresh në fillim të gushtit",
+      "link": "https://abcnews.al/paralajmerimi-i-agjencise-se-be-evropa-rrezikon-nje-sezon-katastrofik-zjarresh-ne-fillim-te-gushtit/",
+      "description": "Një agjenci e Bashkimit Europian ka paralajmëruar se kontinenti mund të përballet me një nga sezonet më të rënda të zjarreve pyjore në histori, ndërsa rreziku pritet të rritet ndjeshëm në fillim të muajit gusht. Alarmi vjen në një kohë kur zjarret vazhdojnë të përhapen në disa vende europiane, ndërs",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-29T16:35:07+00:00",
+      "dateStr": "29 Jul, 16:35",
+      "isNew": true,
+      "id": "abc31785342907"
+    },
+    {
+      "title": "Mbi 12 mijë viktima nga Lufta e Kosovës/ Instituti i Krimeve të Luftës: Serbia, shikoji arkivat",
+      "link": "https://abcnews.al/mbi-12-mije-viktima-nga-lufta-e-kosoves-instituti-i-krimeve-te-luftes-serbia-shikoji-arkivat/",
+      "description": "Instituti i Krimeve të Kryera Gjatë Luftës në Kosovë ka dokumentuar 12.230 viktima të luftës në Kosovë, në periudhën 1 janar 1998 – 20 qershor 1999, mes tyre 1.047 fëmijë të moshës 0 deri në 17 vjeç. Prishtina zyrtare i ka bërë thirrje faktorit ndërkombëtar që t’i bëjë trysni Serbisë që të hapë arki",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-29T16:14:05+00:00",
+      "dateStr": "29 Jul, 16:14",
+      "isNew": true,
+      "id": "abc41785341645"
+    },
+    {
+      "title": "Prishtinë, 26-vjeçari vdes në vendin e punës/ Këputet krahu i vinçit, nisin hetimet",
+      "link": "https://abcnews.al/prishtine-26-vjecari-vdes-ne-vendin-e-punes-keputet-krahu-i-vincit-nisin-hetimet/",
+      "description": "Ermal Sherifi, i riu 26 vjeç humbi jetën në vendin e punës në Prishtinë. Ai do të përcillet sot për në banesën e fundit në varrezat e fshatit Rubovc të Madh. Ndërkohë, tre persona janë ndaluar në lidhje me rastin tragjik në rrugën A, ku si pasojë e rënies së krahut të vinçit vdiq 26-vjeçari [...]Rea",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-29T15:54:15+00:00",
+      "dateStr": "29 Jul, 15:54",
+      "isNew": true,
+      "id": "abc51785340455"
+    },
+    {
+      "title": "Evropa po hyn në një epokë të re të zjarreve ekstreme",
+      "link": "https://abcnews.al/evropa-po-hyn-ne-nje-epoke-te-re-te-zjarreve-ekstreme/",
+      "description": "Franca po përballet me një nga sezonet më të rënda të zjarreve në historinë e saj, ndërsa zjarret masive në jugperëndim të vendit kanë shkaktuar një fenomen të rrallë dhe ekstrem të njohur si “stuhi zjarri”. Ekspertët paralajmërojnë se ky zhvillim është një sinjal i qartë se Evropa po hyn në një faz",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-29T15:48:04+00:00",
       "dateStr": "29 Jul, 15:48",
       "isNew": true,
-      "id": "24 11785340122"
-    },
-    {
-      "title": "Një muaj paraburgim për dy të dyshuarit për krime lufte kundër popullsisë civile",
-      "link": "https://24-ore.com/nje-muaj-paraburgim-per-dy-te-dyshuarit-per-krime-lufte-kunder-popullsise-civile/",
-      "description": "Gjykata Themelore në Prishtinë ua ka caktuar masën e paraburgimit prej një muaji dy të dyshuarve, M.J. dhe M.B., nën dyshimin për kryerjen e veprës penale &#8220;Krime lufte kundër popullsisë civile&#8221;. Vendimi është marrë nga Departamenti Special i Gjykatës Themelore, pas aprovimit të kërkesës ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T15:40:58+00:00",
-      "dateStr": "29 Jul, 15:40",
-      "isNew": true,
-      "id": "24 21785339658"
-    },
-    {
-      "title": "Trafik ndërkombëtar droge/ GJKKO konfiskon 21 pasuri të Eridan Guerrero dhe bashkëpunëtorëve të tij, prona e llogari bank",
-      "link": "https://24-ore.com/trafik-nderkombetar-droge-gjkko-konfiskon-21-pasuri-te-eridan-guerrero-dhe-bashkepunetoreve-te-tij-prona-e-llogari-bank/",
-      "description": "Gjykata e Posaçme kundër Korrupsionit dhe Krimit të Organizuar (GJKKO) ka pranuar pjesërisht kërkesën e Prokurorisë së Posaçme (SPAK) për konfiskimin e pasurive të një organizate kriminale të trafikut të ndërkombëtar të lëndëve narkotike. Sipas vendimit, bëhet fjalë për pasuritë e shtetasve Eridan M",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T15:34:54+00:00",
-      "dateStr": "29 Jul, 15:34",
-      "isNew": true,
-      "id": "24 31785339294"
-    },
-    {
-      "title": "Letër nga Uashingtoni: SHBA-ja synon të avancojë interesat e saj strategjike në Ballkan",
-      "link": "https://24-ore.com/leter-nga-uashingtoni-shba-ja-synon-te-avancoje-interesat-e-saj-strategjike-ne-ballkan/",
-      "description": "Presidenti amerikan Donald Trump me kupën në dorë, së bashku me presidentin e FIFA-s, Gianni Infantino. Foto: The White House / Wikimedia Commons (Public domain) Nga: Jovana Djurovic Përshëndetje nga Amerika, e cila këtë muaj shënoi 250-vjetorin e pavarësisë nga Kurora Britanike nën drejtimin e një ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T15:32:24+00:00",
-      "dateStr": "29 Jul, 15:32",
-      "isNew": true,
-      "id": "24 41785339144"
-    },
-    {
-      "title": "Debati për transferimin përfundon në dhunë, arrestohet punonjësi i Policisë Bashkiake pasi sulmoi shefin e tij",
-      "link": "https://24-ore.com/debati-per-transferimin-perfundon-ne-dhune-arrestohet-punonjesi-i-policise-bashkiake-pasi-sulmoi-shefin-e-tij/",
-      "description": "Një punonjës 31-vjeçar i Policisë Bashkiake në Tiranë është arrestuar këtë të mërkurë, 29 korrik, pasi dyshohet se ka ushtruar dhunë ndaj eprorit të tij për shkak të detyrës. Dyshohet se punonjësi ka goditur me grusht shefin e Sektorit të Mbikëqyrjes së Territorit në Policinë Bashkiake. Konflikti ka",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T15:31:25+00:00",
-      "dateStr": "29 Jul, 15:31",
-      "isNew": true,
-      "id": "24 51785339085"
-    },
-    {
-      "title": "Gashi heq nga rendi i ditës ligjin për “Shkupi 2028”, opozita akuzon për shkelje të rregullores",
-      "link": "https://24-ore.com/gashi-heq-nga-rendi-i-dites-ligjin-per-shkupi-2028-opozita-akuzon-per-shkelje-te-rregullores/",
-      "description": "Kryetari i Kuvendit, Afrim Gashi, sot e hoqi nga rendi i ditës i seancës së 119-të propozim-ligjin për zbatimin e projektit “Shkupi – Kryeqyteti Evropian i Kulturës 2028”, i cili duhej të votohej me procedurë të shkurtuar. Propozim-ligji në fjalë është dorëzuar nga një grup deputetësh të OBRM-PDUKM-",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T15:31:03+00:00",
-      "dateStr": "29 Jul, 15:31",
-      "isNew": true,
-      "id": "24 61785339063"
-    },
-    {
-      "title": "Një banesë e shkrumbuar në Postribë të Shkodrës, detaje të reja: Dyshohet një fëmijë i vdekur",
-      "link": "https://24-ore.com/nje-banese-e-shkrumbuar-ne-postribe-te-shkodres-detaje-te-reja-dyshohet-nje-femije-i-vdekur/",
-      "description": "Një banesë në fshatin Domen të Postribës, në qarkun e Shkodrës, është përfshirë nga flakët mesditën e sotme. Sipas informacioneve paraprake, banesa është djegur plotësisht. Për shkak të terrenit të vështirë malor, forcat zjarrfikëse kanë hasur vështirësi për të mbërritur në vendngjarje, ndërsa kur k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T15:23:33+00:00",
-      "dateStr": "29 Jul, 15:23",
-      "isNew": true,
-      "id": "24 71785338613"
-    },
-    {
-      "title": "Lojërat Mesdhetare, peshëngritësi Briken Calja: Synoj t’i sjell dy medalje ari Shqipërisë",
-      "link": "https://24-ore.com/lojerat-mesdhetare-peshengritesi-briken-calja-synoj-ti-sjell-dy-medalje-ari-shqiperise/",
-      "description": "Peshëngritësi Briken Calja në një intervistë në Euronews Albania me Thimi Samarxhiu ka folur lidhur me eksperiencën e tij në Bundesligën gjermane, përgatitjet fizike dhe synimet kryesore për garat e ardhshme ndërkombëtare. Calja u shpreh se garon prej 7 vitesh me ekipin e Frankfurtit. Ai vlerëson at",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T15:23:21+00:00",
-      "dateStr": "29 Jul, 15:23",
-      "isNew": true,
-      "id": "24 81785338601"
-    },
-    {
-      "title": "Gjobitja e të riut në Shëngjin, Lamallari: Plazhet janë për pushuesit, jo për aventurierët që luajnë me jetën e të tjerëve",
-      "link": "https://24-ore.com/gjobitja-e-te-riut-ne-shengjin-lamallari-plazhet-jane-per-pushuesit-jo-per-aventurieret-qe-luajne-me-jeten-e-te-tjereve/",
-      "description": "Ministri i Punëve të Brendshme, Besfort Lamallari, ka reaguar pas një rasti të konstatuar në plazhin e Shëngjinit, ku një mjet lundrues ka shkelur perimetrin e sigurisë, duke rrezikuar jetën dhe shëndetin e pushuesve. Përmes një reagimi publik në rrjetet sociale, Lamallari bëri të ditur se ndaj auto",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T15:23:07+00:00",
-      "dateStr": "29 Jul, 15:23",
-      "isNew": true,
-      "id": "24 91785338587"
+      "id": "abc61785340084"
     },
     {
       "title": "Dy zjarrfikës vdesin në luftë me flakët në Kretë",
@@ -122,7 +199,7 @@
       "date": "2026-07-29T15:21:57+00:00",
       "dateStr": "29 Jul, 15:21",
       "isNew": true,
-      "id": "abc01785338517"
+      "id": "abc71785338517"
     },
     {
       "title": "Gjenden mbetje njerëzore në Kosovë/ Zogaj: Rasti lidhet me kalimin e 28 personave në kufi, 2 serbët e arrestuar…",
@@ -133,7 +210,7 @@
       "date": "2026-07-29T15:18:28+00:00",
       "dateStr": "29 Jul, 15:18",
       "isNew": true,
-      "id": "abc11785338308"
+      "id": "abc81785338308"
     },
     {
       "title": "Nëna me dy fëmijët humbën jetën në Postribë/ Presidenti Begaj: Jam thellësisht i pikëlluar nga tragjedia",
@@ -144,84 +221,7 @@
       "date": "2026-07-29T15:01:33+00:00",
       "dateStr": "29 Jul, 15:01",
       "isNew": true,
-      "id": "abc21785337293"
-    },
-    {
-      "title": "Tragjedia në Postribë/ Detaje, familja ishte kthyer prej një jave nga Gjermania. Bashkëshorti po punonte tokën",
-      "link": "https://abcnews.al/tragjedia-ne-postribe-detaje-familja-ishte-kthyer-prej-nje-jave-nga-gjermania-bashkeshorti-po-punonte-token/",
-      "description": "Një ngjarje tragjike ka tronditur mesditën e së mërkurës fshatin Domen, në njësinë administrative Postribë të Shkodrës, ku një banesë është përfshirë nga flakët, duke i marrë jetën një gruaje 24-vjeçare dhe dy fëmijëve të saj të mitur. Viktimat janë Blerina Çobaj, 24 vjeçe, si dhe dy fëmijët e saj. ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-29T14:59:31+00:00",
-      "dateStr": "29 Jul, 14:59",
-      "isNew": true,
-      "id": "abc31785337171"
-    },
-    {
-      "title": "Tragjedia në Postribë/ Pamjet nga banesa e shkrumbuar, humbin jetën nëna dhe dy fëmijët",
-      "link": "https://abcnews.al/tragjedia-ne-postribe-pamjet-nga-banesa-e-shkrumbuar-humbin-jeten-nena-dhe-dy-femijet/",
-      "description": "Një ngjarje e rëndë ka tronditur mesditën e së mërkurës fshatin Domen, në njësinë administrative Postribë të Shkodrës, ku një banesë është përfshirë nga flakët, duke shkaktuar vdekjen e një gruaje të re dhe dy fëmijëve të saj. Sipas informacioneve paraprake, në momentin e zjarrit brenda banesës ndod",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-29T14:53:54+00:00",
-      "dateStr": "29 Jul, 14:53",
-      "isNew": true,
-      "id": "abc41785336834"
-    },
-    {
-      "title": "Franca lëshon urdhër deportimi për gazetaren ruse Xenia Fedorova",
-      "link": "https://abcnews.al/franca-leshon-urdher-deportimi-per-gazetaren-ruse-xenia-fedorova/",
-      "description": "Franca ka lëshuar një urdhër ministror deportimi ndaj gazetares ruse dhe ish-drejtoreshës së RT France, Xenia Fedorova, duke e akuzuar për përhapje të propagandës së Kremlinit, raportuan mediat lokale. Ministria e Brendshme e konfirmoi masën pas një raportimi fillestar nga gazeta franceze Liberation",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-29T14:52:36+00:00",
-      "dateStr": "29 Jul, 14:52",
-      "isNew": true,
-      "id": "abc51785336756"
-    },
-    {
-      "title": "NewsHour me Habi Hoxha, (29/07/2026)",
-      "link": "https://abcnews.al/newshour-me-habi-hoxha-29-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-29T14:45:15+00:00",
-      "dateStr": "29 Jul, 14:45",
-      "isNew": true,
-      "id": "abc61785336315"
-    },
-    {
-      "title": "Kërkesa globale për mallra ajrore u rrit me 8,5 për qind në qershor",
-      "link": "https://abcnews.al/kerkesa-globale-per-mallra-ajrore-u-rrit-me-85-per-qind-ne-qershor/",
-      "description": "Kërkesa globale për mallra ajrore rritet me 8,5 për qind nga viti në vit në qershor pasi rritja e fortë tejkalon kapacitetin në shumicën e rajoneve, sipas Shoqatës Ndërkombëtare të Transportit Ajror (IATA) të mërkurën. Kapaciteti i ngarkesave ajrore u rrit me 4,4 për qind nga viti në vit gjatë muaji",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-29T14:25:14+00:00",
-      "dateStr": "29 Jul, 14:25",
-      "isNew": true,
-      "id": "abc71785335114"
-    },
-    {
-      "title": "Cektësia e ujit, anija ngec në Danub/ Evakuohen 238 pasagjerë. U transportuan drejt aeroportit të Rumanisë",
-      "link": "https://abcnews.al/cektesia-e-ujit-anija-ngec-ne-danub-evakuohen-238-pasagjere-u-transportuan-drejt-aeroportit-te-rumanise/",
-      "description": "Një anije turistike me 238 pagjerë ngeci në rrjedhën e Danubit në Bullgari. Arsyeja e incidentit erdhi për shkak të nivelit të ulët të ujit. Policia kufitare bullgare evakuoi fillimisht 186  turistët e anijes që mbantë emrin &#8220;Viking Ulur&#8221;, e cila pasi ngeci u mbush me ujë. Në bord kishte",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-29T13:53:51+00:00",
-      "dateStr": "29 Jul, 13:53",
-      "isNew": true,
-      "id": "abc81785333231"
-    },
-    {
-      "title": "Berlini shtyn BE drejt zgjerimit/ Merz: BE të mbajë premtimin ndaj vendeve që kanë përmbushur kriteret",
-      "link": "https://abcnews.al/berlini-shtyn-be-drejt-zgjerimit-merz-be-te-mbaje-premtimin-ndaj-vendebe-qe-kane-permbushur-kriteret/",
-      "description": "Kancelari gjerman, Friedrich Merz, i ka kërkuar liderëve të BE-së të mbajnë fjalën për anëtarësimin e vendeve të Ballkanit Perëndimor. Nga një vizitë në Irlandë, shteti anëtar që udhëheq këtë 6-mujor Presidencën e BE-së, Merz kërkoi që të mos vonohet anëtarësimi i Malit të Zi. “Sa i përket zgjerimit",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-29T13:48:02+00:00",
-      "dateStr": "29 Jul, 13:48",
-      "isNew": true,
-      "id": "abc91785332882"
+      "id": "abc91785337293"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
