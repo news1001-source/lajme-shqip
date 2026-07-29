@@ -1,18 +1,150 @@
 {
-  "lastUpdated": "2026-07-29T20:50:23.093647+00:00",
+  "lastUpdated": "2026-07-29T21:56:06.260223+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Gonxhja: Kush guxon të ngrejë dorë ndaj Policisë do merret prej veshësh a leckash dhe do procedohet",
-      "link": "https://24-ore.com/gonxhja-kush-guxon-te-ngreje-dore-ndaj-policise-do-merret-prej-veshesh-a-leckash-dhe-do-procedohet/",
-      "description": "Ministri i Turizmit, Kulturës dhe Sportit Blendi Gonxhja paralajmëroi se forca e ligjit do të veprojë ndaj protestuesve që guxojnë të ngrenë dorë ndaj policisë, apo të sulmojnë institucionet. I ftuar në emisionin “Off the Record” nga Andrea Danglli në A2CNN Gonxhja u shpreh se protestues të tillë që",
+      "title": "Kosova hyn në Google Street View, publikohen pamjet 360-gradëshe",
+      "link": "https://24-ore.com/kosova-hyn-ne-google-street-view-publikohen-pamjet-360-gradeshe/",
+      "description": "Kosova është bërë territori më i ri në Ballkan që është përfshirë në shërbimin Google Street View, duke sjellë pamje 360-gradëshe të rrugëve, qyteteve dhe zonave turistike të vendit. Pas një procesi rreth dyvjeçar të fotografimit, Google ka publikuar pamjet e realizuara në Kosovë gjatë periudhës nga",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-29T20:49:37+00:00",
-      "dateStr": "29 Jul, 20:49",
+      "date": "2026-07-29T21:55:46+00:00",
+      "dateStr": "29 Jul, 21:55",
       "isNew": true,
-      "id": "24 01785358177"
+      "id": "24 01785362146"
+    },
+    {
+      "title": "Berisha rimerr flamurin antiamerikan/ “Saliu e PD kanë humbur vëmendjen e SHBA”, Rada: Akti i grabitjes së dokumentit nga Shehaj, i turpshëm. Duhet hetim",
+      "link": "https://abcnews.al/berisha-rimerr-flamurin-antiamerikan-saliu-e-pd-kane-humbur-vemendjen-e-shba-rada-akti-i-grabitjes-se-dokumentit-nga-shehaj-i-turpshem-duhet-hetim/",
+      "description": "Gazetari Ardit Rada, në një intervistë në “Ora e Fundit” në ABC News, komentoi marrëveshjen mes Shqipërisë dhe Shteteve të Bashkuara, duke u ndalur te qëndrimi i Partisë Demokratike dhe retorika e saj ndaj aleatit strategjik të vendit. Sipas Radës, kundërshtimi i marrëveshjes nga Partia Demokratike ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-29T21:46:28+00:00",
+      "dateStr": "29 Jul, 21:46",
+      "isNew": true,
+      "id": "abc01785361588"
+    },
+    {
+      "title": "FIFA hetim ndaj Argjentinës/ Institucioni i presidentit Infantino ka dy akuza të rënda",
+      "link": "https://abcnews.al/fifa-hetim-ndaj-argjentines-institucioni-i-presidentit-infantino-ka-dy-akuza-te-renda/",
+      "description": "Ishte e pritshme, por duket se çështjet politike prishën edhe më shumë punë. FIFA ka halle apo ide të tjera këto kohë, por gjithsesi, e bëri realitet atë që kishte premtuar, pra që do të hapte një hetim për Argjentinën. Nënkampionët e botës janë nën akuzë për dy veprime, që janë krejt të ndryshme ng",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-29T21:45:57+00:00",
+      "dateStr": "29 Jul, 21:45",
+      "isNew": true,
+      "id": "abc11785361557"
+    },
+    {
+      "title": "Të huajt duhet të paguajnë shërbimin shëndetësor, nis aplikimi në qendrat verore",
+      "link": "https://24-ore.com/te-huajt-duhet-te-paguajne-sherbimin-shendetesor-nis-aplikimi-ne-qendrat-verore/",
+      "description": "Shërbimet mjekësore që do të jepen për pushuesit e huaj në qendrat shëndetësore do të jenë me pagesë. Tarifat ka nisur të aplikohet në Qendrat Shëndetësore Verore, pas vendimit të Ministrisë së Shëndetësisë. Shërbimet mjekësore që do të jepen për pushuesit e huaj në qendrat shëndetësore do të jenë m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T21:22:37+00:00",
+      "dateStr": "29 Jul, 21:22",
+      "isNew": true,
+      "id": "24 11785360157"
+    },
+    {
+      "title": "Braçe zbardh debatet me Ramën në grupin parlamentar: Nuk jam dakord me mënyrën si bëhen emërimet",
+      "link": "https://24-ore.com/brace-zbardh-debatet-me-ramen-ne-grupin-parlamentar-nuk-jam-dakord-me-menyren-si-behen-emerimet/",
+      "description": "Erion Braçe, deputet i Partisë Socialiste, ka folur këtë të mërkurë në emisionin Now me Erla Mëhillin për debatet e brendshme në parti. Braçe u shpreh se nuk është dakord me mënyrën se si Partia Socialiste bën emërimet, duke theksuar se ky është një problem që, sipas tij, reflektohet edhe te protest",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T21:22:16+00:00",
+      "dateStr": "29 Jul, 21:22",
+      "isNew": true,
+      "id": "24 21785360136"
+    },
+    {
+      "title": "Erion Braçe bën deklaratën e fortë përballë Erlës: PS ka luftë të brendshme, duan të më eliminojnë politikisht",
+      "link": "https://24-ore.com/erion-brace-ben-deklaraten-e-forte-perballe-erles-ps-ka-lufte-te-brendshme-duan-te-me-eliminojne-politikisht/",
+      "description": "Erion Braçe ka folur këtë të mërkurë në emisionin Now me Erla Mëhillin, lidhur me debatet e brendshme në Partinë Socialiste. Braçe ka pranuar se në PS ka një luftë të brendshme, duke thënë se ka persona që duan ta eliminojnë politikisht. Braçe: I nxjerrin mesazhet sepse kanë qëllim të më poshtërojnë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T21:22:03+00:00",
+      "dateStr": "29 Jul, 21:22",
+      "isNew": true,
+      "id": "24 31785360123"
+    },
+    {
+      "title": "A ka të drejtë Spiropali? Braçe përgjigjet për “Partinë-Shtet”",
+      "link": "https://24-ore.com/a-ka-te-drejte-spiropali-brace-pergjigjet-per-partine-shtet/",
+      "description": "Deputeti socialist, Erion Braçe i ftuar këtë të mërkurë në emisionin “Now” me Erla Mëhillin ka folur lidhur me nocionin e Elisa Spiropalit për partinë-shtet. I pyetur lidhur me këtë nocion të Spiropalit, Braçe u shpreh se Partia Socialiste nuk është parti-shtet. “E kam dëgjuar këtë edhe nga një disk",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T21:21:47+00:00",
+      "dateStr": "29 Jul, 21:21",
+      "isNew": true,
+      "id": "24 41785360107"
+    },
+    {
+      "title": "“Po nëse Rama vijon me Manastirliun për Tiranën?” Braçe: Nuk tërhiqem, është detyrim statutor që të bëhen zgjedhje të brendshme",
+      "link": "https://24-ore.com/po-nese-rama-vijon-me-manastirliun-per-tiranen-brace-nuk-terhiqem-eshte-detyrim-statutor-qe-te-behen-zgjedhje-te-brendshme/",
+      "description": "Erion Braçe, deputeti i PS-së, ka folur këtë të mërkurë me Erla Mëhillin në “Now” lidhur me zhvillimet e brendshme dhe të përgjithshme politike në vend. Braçe i është përgjigjur moderatores edhe për betejën për zgjedhjet në Tiranë, ku ka shprehur kandidaturën për Bashkinë e Tiranës. Sipas tij, ai do",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T21:21:33+00:00",
+      "dateStr": "29 Jul, 21:21",
+      "isNew": true,
+      "id": "24 51785360093"
+    },
+    {
+      "title": "Kërkohet në Senat për Covid-19, Anthony Fauci refuzon të dëshmojë dhe thërret Amendamentin e Pestë",
+      "link": "https://24-ore.com/kerkohet-ne-senat-per-covid-19-anthony-fauci-refuzon-te-deshmoje-dhe-therret-amendamentin-e-peste/",
+      "description": "Ish-këshilltari kryesor për pandeminë Covid-19 në SHBA, Dr. Anthony Fauci, refuzoi të dëshmojë këtë të mërkurë para Komitetit të Senatit për Sigurinë Kombëtare dhe Çështjet Qeveritare, duke ushtruar të drejtën e tij kushtetuese sipas Amendamentit të Pestë, që e mbron nga vetëinkriminimi.Vetëm pak mi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T21:21:20+00:00",
+      "dateStr": "29 Jul, 21:21",
+      "isNew": true,
+      "id": "24 61785360080"
+    },
+    {
+      "title": "Trump: Do të zhgënjehesha shumë nëse Kina i shet armë Iranit",
+      "link": "https://24-ore.com/trump-do-te-zhgenjehesha-shume-nese-kina-i-shet-arme-iranit/",
+      "description": "Presidenti amerikan, Donald Trump tha të mërkurën se do të zhgënjehej shumë me homologun e tij kinez, Xi Jinping nëse ai do t’i siguronte armë Iranit. Reuters raportoi të mërkurën se Irani pritet të marrë një dërgesë prej 300-400 raketash mbrojtëse ajrore me qitje të prodhuara në Kinë brenda disa ja",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T21:21:06+00:00",
+      "dateStr": "29 Jul, 21:21",
+      "isNew": true,
+      "id": "24 71785360066"
+    },
+    {
+      "title": "“War Report” me Sali Doçi, (29/07/2026)",
+      "link": "https://abcnews.al/war-report-me-sali-doci-29-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-29T21:06:58+00:00",
+      "dateStr": "29 Jul, 21:06",
+      "isNew": true,
+      "id": "abc21785359218"
+    },
+    {
+      "title": "ARGJENTINË – Shtatë të vdekur pas rrëzimit të një helikopteri zjarrfikës",
+      "link": "https://24-ore.com/argjentine-shtate-te-vdekur-pas-rrezimit-te-nje-helikopteri-zjarrfikes/",
+      "description": "BUENOS AIRES, 29 korrik /ATSH-AFP/ – Shtatë persona humbën jetën sot pasi një helikopter i angazhuar në operacionet për luftimin e zjarreve pyjore u rrëzua në një park natyror në perëndim të Argjentinës, njoftuan autoritetet provinciale. Sipas Agjencisë Federale të Emergjencave (AFE), kontakti me he",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T21:03:41+00:00",
+      "dateStr": "29 Jul, 21:03",
+      "isNew": true,
+      "id": "24 81785359021"
+    },
+    {
+      "title": "Sali Berisha dhe thirrjet “Opozitë e shitur! ”",
+      "link": "https://24-ore.com/sali-berisha-dhe-thirrjet-opozite-e-shitur/",
+      "description": "Sot protesta në Tiranë hyri në ditën e 60-të. Mijëra qytetarë kërkuan largimin e klasës politike që ka drejtuar Shqipërinë gjatë 35 viteve të fundit dhe ndërtimin e një vendi me konkurrencë të hapur e të drejtë në politikë, ekonomi dhe shoqëri. Një nga thirrjet më të forta është: “Opozitë e shitur!”",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-29T21:02:31+00:00",
+      "dateStr": "29 Jul, 21:02",
+      "isNew": true,
+      "id": "24 91785358951"
     },
     {
       "title": "Mediat zbardhin detaje: Çfarë bisedoi Donald Trump me kryeministrin e Izraelit",
@@ -23,29 +155,7 @@
       "date": "2026-07-29T20:48:57+00:00",
       "dateStr": "29 Jul, 20:48",
       "isNew": true,
-      "id": "abc01785358137"
-    },
-    {
-      "title": "Emërimi i Fetait në Bruksel, reagon Osmani: Krijimi i një kanali paralel e dëmton diplomacinë shtetërore",
-      "link": "https://24-ore.com/emerimi-i-fetait-ne-bruksel-reagon-osmani-krijimi-i-nje-kanali-paralel-e-demton-diplomacine-shteterore/",
-      "description": "Nënkryetari i Bashkimit Demokratik për Integrim, Bujar Osmani, ka reaguar ndaj emërimit të Arben Fetait si përfaqësues i ri në Bruksel, duke vënë në pikëpyetje nevojën për këtë funksion. Sipas tij, Maqedonia e Veriut tashmë ka një Mision të Përhershëm pranë Bashkimit Evropian, me ambasador dhe staf ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T20:41:15+00:00",
-      "dateStr": "29 Jul, 20:41",
-      "isNew": true,
-      "id": "24 11785357675"
-    },
-    {
-      "title": "Dyshimet për varrezën masive në Zubin Potok, flet djali i njërit prej 23 intelektualëve të zhdukur të Mitrovicës",
-      "link": "https://24-ore.com/dyshimet-per-varrezen-masive-ne-zubin-potok-flet-djali-i-njerit-prej-23-intelektualeve-te-zhdukur-te-mitrovices/",
-      "description": "Pas nisjes së gërmimeve në fshatin Kalludër e Vogël të Zubin Potokut, në një lokacion ku dyshohet për ekzistimin e një varreze masive nga lufta e fundit në Kosovë, është ngritur dyshimi se mbetjet mortore të gjetura mund t’u përkasin grupit prej 23 intelektualësh të Mitrovicës, të zhdukur më 19 pril",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T20:41:03+00:00",
-      "dateStr": "29 Jul, 20:41",
-      "isNew": true,
-      "id": "24 21785357663"
+      "id": "abc31785358137"
     },
     {
       "title": "Shumica e amerikanëve: Trump nuk po u kushton vëmendje problemeve kryesore",
@@ -56,29 +166,7 @@
       "date": "2026-07-29T20:34:42+00:00",
       "dateStr": "29 Jul, 20:34",
       "isNew": true,
-      "id": "abc11785357282"
-    },
-    {
-      "title": "A ka të drejtë Spiropali? Erion Braçe përgjigjet për “Partinë-Shtet”",
-      "link": "https://24-ore.com/a-ka-te-drejte-spiropali-erion-brace-pergjigjet-per-partine-shtet/",
-      "description": "Deputeti socialist, Erion Braçe i ftuar këtë të mërkurë në emisionin “Now” me Erla Mëhillin ka folur lidhur me nocionin e Elisa Spiropalit për partinë-shtet. I pyetur lidhur me këtë nocion të Spiropalit, Braçe u shpreh se Partia Socialiste nuk është parti-shtet. “E kam dëgjuar këtë edhe nga një disk",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T20:34:41+00:00",
-      "dateStr": "29 Jul, 20:34",
-      "isNew": true,
-      "id": "24 31785357281"
-    },
-    {
-      "title": "HAPËSIRË – Ylli gjigant “Betelgeuse” nuk është i vetëm",
-      "link": "https://24-ore.com/hapesire-ylli-gjigant-betelgeuse-nuk-eshte-i-vetem/",
-      "description": "– Astronomët kanë arritur një zbulim të rëndësishëm, pasi për herë të parë kanë fotografuar drejtpërdrejt yllin shoqërues të “Betelgeuse”, duke konfirmuar se ai nuk është një yll i vetëm, por pjesë e një sistemi binar, sipas Reuters. “Betelgeuse” është një supergjigant i kuq në yjësinë e Orionit dhe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T20:30:07+00:00",
-      "dateStr": "29 Jul, 20:30",
-      "isNew": true,
-      "id": "24 41785357007"
+      "id": "abc41785357282"
     },
     {
       "title": "Forcat amerikane ndalojnë 20 anije tregtare t’u afrohen porteve iraniane",
@@ -89,62 +177,7 @@
       "date": "2026-07-29T20:23:22+00:00",
       "dateStr": "29 Jul, 20:23",
       "isNew": true,
-      "id": "abc21785356602"
-    },
-    {
-      "title": "Kurti në 25-vjetorin e rënies së Tahir Sinanit: UÇK-së iu bashkua një nga oficerët më të aftë dhe më të dobishëm",
-      "link": "https://24-ore.com/kurti-ne-25-vjetorin-e-renies-se-tahir-sinanit-uck-se-iu-bashkua-nje-nga-oficeret-me-te-afte-dhe-me-te-dobishem/",
-      "description": "Kryeministri në detyrë i Kosovës, Albin Kurti, ka organizuar të martën një Akademi Përkujtimore me rastin e 25-vjetorit të rënies së gjeneralit Tahir Sinani. Në fjalën e tij, Kurti e ka vlerësuar lart figurën e Sinanit, duke e cilësuar atë si një nga luftëtarët më të spikatur të çështjes kombëtare s",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T20:21:05+00:00",
-      "dateStr": "29 Jul, 20:21",
-      "isNew": true,
-      "id": "24 51785356465"
-    },
-    {
-      "title": "Braçe zbardh debatet me Ramën në grupin parlamentar: Nuk jam dakord me emërimet…",
-      "link": "https://24-ore.com/brace-zbardh-debatet-me-ramen-ne-grupin-parlamentar-nuk-jam-dakord-me-emerimet/",
-      "description": "Erion Braçe, deputet i Partisë Socialiste, ka folur këtë të mërkurë në emisionin Now me Erla Mëhillin për debatet e brendshme në parti. Braçe u shpreh se nuk është dakord me mënyrën se si Partia Socialiste bën emërimet, duke theksuar se ky është një problem që, sipas tij, reflektohet edhe te protest",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T20:20:19+00:00",
-      "dateStr": "29 Jul, 20:20",
-      "isNew": true,
-      "id": "24 61785356419"
-    },
-    {
-      "title": "Vdekja e punëtorit në Prishtinë, Hoti: Përgjegjësia të shkojë deri në fund, do të nisim inspektime me dronë",
-      "link": "https://24-ore.com/vdekja-e-punetorit-ne-prishtine-hoti-pergjegjesia-te-shkoje-deri-ne-fund-do-te-nisim-inspektime-me-drone/",
-      "description": "Ministri në detyrë për Punë, Familje dhe Vlerat e Luftës Çlirimtare, Andin Hoti, ka reaguar pas aksidentit tragjik në një kantier ndërtimi në Lagjen e Spitalit në Prishtinë, ku humbi jetën një 26-vjeçar pasi u rrëzua një vinç. Në një prononcim për KosovaPress, Hoti tha se Inspektorati Qendror i Punë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T20:11:00+00:00",
-      "dateStr": "29 Jul, 20:11",
-      "isNew": true,
-      "id": "24 71785355860"
-    },
-    {
-      "title": "MPB: Janë sanksionuar 43 shoferë për moslëshimin e automjeteve me përparësi kalimi",
-      "link": "https://24-ore.com/mpb-jane-sanksionuar-43-shofere-per-mosleshimin-e-automjeteve-me-perparesi-kalimi/",
-      "description": "Sot (29.07.2026), në periudhën nga ora 07:00 deri në orën 12:00, është realizuar një aksion kontrollues në territorin e Republikës së Maqedonisë së Veriut për sanksionimin e shkeljeve lidhur me moslëshimin e automjeteve me përparësi kalimi. Gjatë kontrollit janë shqiptuar gjithsej 43 masa për këtë l",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T20:05:57+00:00",
-      "dateStr": "29 Jul, 20:05",
-      "isNew": true,
-      "id": "24 81785355557"
-    },
-    {
-      "title": "La trafikun e drogës për të punuar në ndërtim, shqiptarit i bëjnë atentat ish-shokët e grupit kriminal",
-      "link": "https://24-ore.com/la-trafikun-e-droges-per-te-punuar-ne-ndertim-shqiptarit-i-bejne-atentat-ish-shoket-e-grupit-kriminal/",
-      "description": "Një zgjedhje për të ndryshuar jetën u shndërrua në një makth për një 25-vjeçar shqiptar në Itali. Pasi vendosi t’i jepte fund përfshirjes në trafikun e drogës dhe të punonte në sektorin e ndërtimit, ai u bë objekt i një atentati, që sipas hetuesve u organizua nga ish-anëtarët e grupit kriminal me të",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-29T20:02:19+00:00",
-      "dateStr": "29 Jul, 20:02",
-      "isNew": true,
-      "id": "24 91785355339"
+      "id": "abc51785356602"
     },
     {
       "title": "Eksperti i Sigurisë: SHBA synon të frenojë Iranin pa hyrë në një luftë të gjatë, por konflikti ka gjasa të zgjerohet!",
@@ -155,7 +188,7 @@
       "date": "2026-07-29T19:56:55+00:00",
       "dateStr": "29 Jul, 19:56",
       "isNew": true,
-      "id": "abc31785355015"
+      "id": "abc61785355015"
     },
     {
       "title": "“Faqja 4” me Jeta Kasemi, (29/07/2026)",
@@ -166,7 +199,7 @@
       "date": "2026-07-29T19:49:43+00:00",
       "dateStr": "29 Jul, 19:49",
       "isNew": true,
-      "id": "abc41785354583"
+      "id": "abc71785354583"
     },
     {
       "title": "Qeveria franceze në trazira për pesticidet/ Sa të rrezikshme janë ato?",
@@ -177,7 +210,7 @@
       "date": "2026-07-29T19:42:28+00:00",
       "dateStr": "29 Jul, 19:42",
       "isNew": true,
-      "id": "abc51785354148"
+      "id": "abc81785354148"
     },
     {
       "title": "Koloneli Neziri: Irani lufton për mbijetesë, negociatat me SHBA do të mbeten të vështira",
@@ -188,40 +221,7 @@
       "date": "2026-07-29T19:36:55+00:00",
       "dateStr": "29 Jul, 19:36",
       "isNew": true,
-      "id": "abc61785353815"
-    },
-    {
-      "title": "Ligji i ri kundër pirjes së duhanit në Spanjë, ku do të ndalohet pirja e duhanit?",
-      "link": "https://abcnews.al/ligji-i-ri-kunder-pirjes-se-duhanit-ne-spanje-ku-do-te-ndalohet-pirja-e-duhanit/",
-      "description": "Projektligji zgjeron zonat pa duhan, ndalon pirjen e duhanit për personat nën 18 vjeç, i trajton cigaret elektronike si duhan dhe shtrëngon rregullat për shitjen, reklamimin dhe sponsorizimin e tyre. Të martën, Spanja ndërmori një hap të ri në strategjinë e saj për të ulur konsumin e duhanit. Këshil",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-29T19:26:22+00:00",
-      "dateStr": "29 Jul, 19:26",
-      "isNew": true,
-      "id": "abc71785353182"
-    },
-    {
-      "title": "Rifillojnë pas 14 vitesh fluturimet direkte nga Gjermania në Siri",
-      "link": "https://abcnews.al/rifillojne-pas-14-vitesh-fluturimet-direkte-nga-gjermania-ne-siri/",
-      "description": "Fluturimet direkte nga Gjermania drejt Sirisë rifilluan të mërkurën pas një ndërprerjeje gati 14-vjeçare, sipas raportimeve të mediave, transmeton Anadolu. Një avion Airbus A320-200 i kompanisë ajrore LEAV Aviation me seli në Këln u nis në mëngjes nga Dyseldorfi drejt kryeqytetit sirian, Damask, bër",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-29T19:16:00+00:00",
-      "dateStr": "29 Jul, 19:16",
-      "isNew": true,
-      "id": "abc81785352560"
-    },
-    {
-      "title": "Ministri Karakaçi mesazh për tragjedinë në Postribë: Solidaritet me familjen, apel për kujdes në këto ditë të nxehta",
-      "link": "https://abcnews.al/ministri-karakaci-mesazh-per-tragjedine-ne-postribe-solidaritet-me-familjen-apel-per-kujdes-ne-keto-dite-te-nxehta/",
-      "description": "Ministri Enea Karakaçi, njëherësh drejtues politik i Partisë Socialiste për qarkun Shkodër ka reaguar për ngjarjen e rëndë të ndodhur ditën e sotme në Postribë, ku si pasojë e një zjarri humbën jetën një nënë dhe dy fëmijët e saj të mitur. “Nuk ka fjalë që mund ta lehtësojnë një dhimbje kaq të madhe",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-29T18:54:07+00:00",
-      "dateStr": "29 Jul, 18:54",
-      "isNew": true,
-      "id": "abc91785351247"
+      "id": "abc91785353815"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
