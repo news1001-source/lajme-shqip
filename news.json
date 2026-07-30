@@ -1,84 +1,205 @@
 {
-  "lastUpdated": "2026-07-30T19:17:55.997428+00:00",
+  "lastUpdated": "2026-07-30T21:02:44.823649+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Evropianisti i kafenesë",
-      "link": "https://24-ore.com/evropianisti-i-kafenese/",
-      "description": "Qemali kishte filluar të ndihej evropian. Në jetën e tij nuk kishte ndryshuar ndonjë gjë e dukshme, por qeveria e siguronte çdo ditë se Shqipëria ishte shumë pranë Bashkimit Evropian. Qemali nuk e dinte sa pranë, sepse largësia ndryshonte sipas kanalit, emisionit, ministrit dhe orës së lajmeve, por ",
+      "title": "“Robi plaket kur don vet”, Sali Berisha tregon se ku e sheh veten në 2029-ën",
+      "link": "https://24-ore.com/robi-plaket-kur-don-vet-sali-berisha-tregon-se-ku-e-sheh-veten-ne-2029-en/",
+      "description": "Kreu i Partisë Demokratike, Sali Berisha, i ftuar në emisionin “Off the Record” nga gazetari Andrea Danglli në A2CNN, ka folur mbi të ardhmen e tij politike dhe sfidat e moshës në drejtimin e partisë dhe vendit nëse do të rizgjidhet kryeministër. I pyetur nga gazetari se ku e sheh veten në shtator t",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-07-30T19:16:34+00:00",
+      "date": "2026-07-30T21:01:44+00:00",
+      "dateStr": "30 Jul, 21:01",
+      "isNew": true,
+      "id": "24 01785445304"
+    },
+    {
+      "title": "Mbyllet pas marshimit protesta e 61-të, protestuesit thërrasin tubimin mbarëkombëtar të shtunën",
+      "link": "https://24-ore.com/mbyllet-pas-marshimit-protesta-e-61-te-protestuesit-therrasin-tubimin-mbarekombetar-te-shtunen/",
+      "description": "Protesta e bulevardit është kundër ndarjes territoriale. Në ditën e 61 poshtë Kryeministrisë, protestuesit u shprehën kundër hartës së re të Partisë Socialiste dhe asaj të Partisë Demokratike. Organizatorët njoftuan protestë kombëtare të shtunën e 1 gushtit, duke ftuar në shesh edhe diasporën. Një n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-30T21:01:26+00:00",
+      "dateStr": "30 Jul, 21:01",
+      "isNew": true,
+      "id": "24 11785445286"
+    },
+    {
+      "title": "KOMENT – Rrëzimi i një rakete të dyshuar ruse në Poloni alarmon NATO-n",
+      "link": "https://24-ore.com/koment-rrezimi-i-nje-rakete-te-dyshuar-ruse-ne-poloni-alarmon-nato-n/",
+      "description": "VARSHAVË/BRUKSEL, 30 korrik /ATSH-DPA/ – Sekretari i përgjithshëm i NATO-s, Mark Rutte, shprehu solidaritetin e tij me aleatin Poloni pasi një objekt fluturues, i dyshuar nga qeveria në Varshavë të ishte një raketë ruse, u rrëzua pranë kufirit ukrainas. Rutte diskutoi “shkeljen e hapësirës ajrore të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-30T21:00:09+00:00",
+      "dateStr": "30 Jul, 21:00",
+      "isNew": true,
+      "id": "24 21785445209"
+    },
+    {
+      "title": "Abdixhiku i mbijetoi nismës së shkarkimit, flet Muhaxheri",
+      "link": "https://24-ore.com/abdixhiku-i-mbijetoi-nismes-se-shkarkimit-flet-muhaxheri/",
+      "description": "Kryetari i Komunës së Pejës, Gazmend Muhaxheri, një nga iniciuesit e nismës për shkarkimin e Lumir Abdixhikut nga posti i kryetarit të Lidhjes Demokratike të Kosovës (LDK), ka reaguar pas përfundimit të votimit në Kuvendin e jashtëzakonshëm, ku Abdixhiku u rikonfirmua në krye të partisë. Në një dekl",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-30T20:54:25+00:00",
+      "dateStr": "30 Jul, 20:54",
+      "isNew": true,
+      "id": "24 31785444865"
+    },
+    {
+      "title": "Sinani: Diskriminim, asnjë shqiptar nuk u pranua në konkursin për zjarrfikës në Preshevë dhe Bujanoc",
+      "link": "https://24-ore.com/sinani-diskriminim-asnje-shqiptar-nuk-u-pranua-ne-konkursin-per-zjarrfikes-ne-presheve-dhe-bujanoc/",
+      "description": "Kryetarja e Komunës së Preshevës, Ardita Sinani, ka reaguar pas publikimit të rezultateve të konkursit për pranimin e 400 pjesëtarëve të rinj në Shërbimin e Zjarrfikësve në Serbi, duke thënë se asnjë shqiptar nga Presheva dhe Bujanoci nuk është punësuar. Sipas Sinanit, nga Komuna e Preshevës janë pr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-30T20:34:51+00:00",
+      "dateStr": "30 Jul, 20:34",
+      "isNew": true,
+      "id": "24 41785443691"
+    },
+    {
+      "title": "Krijohet Regjistri Kombëtar për Kanabisin Mjekësor e Industrial, monitorim digjital nga kultivimi te asgjësimi",
+      "link": "https://24-ore.com/krijohet-regjistri-kombetar-per-kanabisin-mjekesor-e-industrial-monitorim-digjital-nga-kultivimi-te-asgjesimi/",
+      "description": "Këshilli i Ministrave ka miratuar krijimin e bazës së të dhënave shtetërore “Regjistri Kombëtar i Aktivitetit të Licencuar dhe të Lejuar të Bimës së Cannabis-it”, duke zyrtarizuar ngritjen e një sistemi digjital me kontroll të rreptë dhe gjurmueshmëri të plotë për të gjithë zinxhirin e kultivimit dh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-30T20:31:25+00:00",
+      "dateStr": "30 Jul, 20:31",
+      "isNew": true,
+      "id": "24 51785443485"
+    },
+    {
+      "title": "KIEV – Zelensky: Raketa që vrau një familje të tërë prodhim koreano-verior",
+      "link": "https://24-ore.com/kiev-zelensky-raketa-qe-vrau-nje-familje-te-tere-prodhim-koreano-verior/",
+      "description": "KIEV, 30 korrik /ATSH-AFP/ – Presidenti ukrainas, Volodymyr Zelensky deklaroi sot se, sipas informacioneve paraprake, raketa e përdorur nga ushtria ruse në një sulm që shfarosi një familje në qendër të Ukrainës ishte prodhuar në Korenë e Veriut. Në fjalimin e tij të përditshëm, Zelensky tha se sulmi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-30T20:30:07+00:00",
+      "dateStr": "30 Jul, 20:30",
+      "isNew": true,
+      "id": "24 61785443407"
+    },
+    {
+      "title": "Dëmet nga moti i ligë në spitalin e Shtipit pritet të jenë disa milionë denarë",
+      "link": "https://24-ore.com/demet-nga-moti-i-lige-ne-spitalin-e-shtipit-pritet-te-jene-disa-milione-denare/",
+      "description": "ëvendësdrejtoresha e Spitalit Klinik të Shtipit, Biljana Eftimova, deklaroi sot se vlerësimi fillestar i dëmit të shkaktuar nga moti i lig që goditi Shtipin më 21 korrik arrin në disa milionë denarë, ndërsa ende pritet raporti zyrtar nga kompania e sigurimeve. Eftimova sqaroi se, përveç raportit të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-30T20:29:39+00:00",
+      "dateStr": "30 Jul, 20:29",
+      "isNew": true,
+      "id": "24 71785443379"
+    },
+    {
+      "title": "Bllokohen ndërtimet në bregdet deri më 15 Shtator, ja punimet që përjashtohen dhe orari i lejuar",
+      "link": "https://24-ore.com/bllokohen-ndertimet-ne-bregdet-deri-me-15-shtator-ja-punimet-qe-perjashtohen-dhe-orari-i-lejuar/",
+      "description": "Për të garantuar një mjedis të qetë e pa ndotje për pushuesit vendas e të huaj, Këshilli i Ministrave ka miratuar vendimin për pezullimin e menjëhershëm të punimeve të ndërtimit dhe aktiviteteve lidhëse në të gjitha zonat turistike të vendit gjatë sezonit veror 2026. Vendimi, i mbështetur në Ligjin ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-30T20:20:24+00:00",
+      "dateStr": "30 Jul, 20:20",
+      "isNew": true,
+      "id": "24 81785442824"
+    },
+    {
+      "title": "“Ma ço lart atë që nisi Zana Çela”, demokratja e emëruar në krye të AKT zbulon bisedën me Ramën: Më tha &#",
+      "link": "https://24-ore.com/ma-co-lart-ate-qe-nisi-zana-cela-demokratja-e-emeruar-ne-krye-te-akt-zbulon-biseden-me-ramen-me-tha/",
+      "description": "Jola Hysaj ka reaguar pas emërimit të saj në postin e drejtoreshës së Agjencisë Kombëtare të Turizmit, duke konfirmuar marrjen e detyrës dhe duke shprehur mirënjohje për besimin e dhënë. Në deklaratën e saj, ajo thotë se e ka takuar kryeministrin Edi Rama, i cili sipas saj i ka kërkuar të fokusohet ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-30T20:20:12+00:00",
+      "dateStr": "30 Jul, 20:20",
+      "isNew": true,
+      "id": "24 91785442812"
+    },
+    {
+      "title": "VIDEO/ Tjetër vatër zjarri në Mallakastër, flakët përfshijnë zonën pranë fshatit Drenovë",
+      "link": "https://abcnews.al/video-tjeter-vater-zjarri-ne-mallakaster-flaket-perfshijne-zonen-prane-fshatit-drenove/",
+      "description": "Një tjetër vatër zjarri është regjistruar në Mallakastër, këtë herë në afërsi të fshatit Drenovë. Forcat zjarrfikëse kanë mbërritur në vendngjarje dhe po punojnë për vënien nën kontroll të situatës. Me mbërritjen e zjarrfikësve është izoluar vatra pranë fshatit duke shmangur rrezikun për banesat. Nd",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-30T20:13:51+00:00",
+      "dateStr": "30 Jul, 20:13",
+      "isNew": true,
+      "id": "abc01785442431"
+    },
+    {
+      "title": "Forcimi i mbrojtjes/ BE disburson 3,5 miliardë euro për Ukrainën",
+      "link": "https://abcnews.al/forcimi-i-mbrojtjes-be-disburson-35-miliarde-euro-per-ukrainen/",
+      "description": "Komisioni Evropian njoftoi të enjten një disbursim të ri prej 3,47 miliardë eurosh për Ukrainën, në kuadër të komponentit të mbrojtjes të Kredisë së Mbështetjes për Ukrainën prej 90 miliardë eurosh, me synim forcimin e kapaciteteve ushtarake të Kievit. Sipas një deklarate, fondet do të mbështesin pr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-30T20:00:41+00:00",
+      "dateStr": "30 Jul, 20:00",
+      "isNew": true,
+      "id": "abc11785441641"
+    },
+    {
+      "title": "Ledion Krisafi: Konflikti në Iran po merr përmasa më të gjera, SHBA synon të shmangë përshkallëzimin e luftës",
+      "link": "https://abcnews.al/ledion-krisafi-konflikti-ne-iran-po-merr-permasa-me-te-gjera-shba-synon-te-shmange-pershkallezimin-e-luftes/",
+      "description": "Eksperti i marrëdhënieve ndërkombëtare, Ledion Krisafi, vlerëson se regjimi iranian po shfaq një nivel të lartë vetëbesimi në zhvillimet e fundit në Lindjen e Mesme, ndërsa paralajmëron se konflikti po merr përmasa gjithnjë e më të gjera. Në një intervistë në emisionin &#8220;War Report&#8221; në AB",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-30T19:52:41+00:00",
+      "dateStr": "30 Jul, 19:52",
+      "isNew": true,
+      "id": "abc21785441161"
+    },
+    {
+      "title": "SHBA do të përdorë bazat e tyre/ Irani paralajmëron Qipron dhe Bullgarinë: Mbani përgjegjësi për pasojat",
+      "link": "https://abcnews.al/shba-do-te-perdore-bazat-e-tyre-irani-paralajmeron-qipron-dhe-bullgarine-mbani-pergjegjesi-per-pasojat/",
+      "description": "Irani ka paralajmëruar dy vende evropiane që të mos lejojnë Shtetet e Bashkuara të përdorin bazat e tyre për të nisur sulme të mundshme ndaj Republikës Islamike. Në një telefonatë midis ministrave të jashtëm të Iranit dhe Qipros, Abbas Araghchi theksoi nevojën për të parandaluar që çdo forcë armike ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-30T19:39:57+00:00",
+      "dateStr": "30 Jul, 19:39",
+      "isNew": true,
+      "id": "abc31785440397"
+    },
+    {
+      "title": "Eksperti i Sigurisë: Konflikti në Lindjen e Mesme po merr një dimension të ri",
+      "link": "https://abcnews.al/eksperti-i-sigurise-konflikti-ne-lindjen-e-mesme-po-merr-nje-dimension-te-ri/",
+      "description": "Profesori i asociuar i çështjeve të sigurisë, Xhavit Shala, deklaroi se zhvillimet e fundit tregojnë se konflikti në Lindjen e Mesme po hyn në një fazë të re, me përfshirje gjithnjë e më të gjerë të aktorëve rajonalë. Në një intervistë për emisionin &#8220;War Report&#8221; në ABC News, Shala u shpr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-30T19:37:22+00:00",
+      "dateStr": "30 Jul, 19:37",
+      "isNew": true,
+      "id": "abc41785440242"
+    },
+    {
+      "title": "Arabia Saudite synon aleancë shumëkombëshe për mbrojtjen detare",
+      "link": "https://abcnews.al/arabia-saudite-synon-aleance-shumekombeshe-per-mbrojtjen-detare/",
+      "description": "Arabia Saudite tha të enjten se ka organizuar një takim ndërkombëtar në Riad për të përmbyllur krijimin e një aleance shumëkombëshe të mbrojtjes detare, që synon ruajtjen e lirisë së lundrimit në Detin e Kuq dhe ngushticën Bab el-Mandeb. Në një deklaratë, Ministria saudite e Mbrojtjes tha se në taki",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-30T19:30:50+00:00",
+      "dateStr": "30 Jul, 19:30",
+      "isNew": true,
+      "id": "abc51785439850"
+    },
+    {
+      "title": "Zjarri në Shkozet shkakton ndërprerje të energjisë në Durrës, Karakaçi: Po punohet për rikthimin e plotë të furnizimit",
+      "link": "https://abcnews.al/zjarri-ne-shkozet-shkakton-nderprerje-te-energjise-ne-durres-karakaci-po-punohet-per-rikthimin-e-plote-te-furnizimit/",
+      "description": "Një zjarr i rënë në një objekt privat (magazinë) pranë rrjetit 110 kV në Shkozet ka shkaktuar ndërprerje të furnizimit me energji elektrike në qytetin e Durrësit. Sipas njoftimit zyrtar të Ministrisë së Infrastrukturës dhe Energjisë, në orën 15:40 u stakuan linjat 110 kV që furnizojnë nënstacionin e",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-30T19:16:15+00:00",
       "dateStr": "30 Jul, 19:16",
       "isNew": true,
-      "id": "24 01785438994"
+      "id": "abc61785438975"
     },
     {
-      "title": "“Kur të marrin dënimin, më duket sikur mu ka ngjallë vëllau”, Lutfije Ademi kërkon drejtësi për të zhdukurit e grupit të intelektualëve",
-      "link": "https://24-ore.com/kur-te-marrin-denimin-me-duket-sikur-mu-ka-ngjalle-vellau-lutfije-ademi-kerkon-drejtesi-per-te-zhdukurit-e-grupit-te-intelektualeve/",
-      "description": "Gërmimet në Kalludër të Vogël të Zubin Potokut, ku është konfirmuar se janë gjetur mbetje mortore me origjinë njerëzore, kanë rikthyer shpresën e familjeve të 23 intelektualëve shqiptarë, të zhdukur gjatë luftës së fundit në Kosovë. Lutfije Ademi-Vokshi, motra e kirurgut Adem Ademi, njëri nga 23 anë",
-      "source": "24 ORE",
+      "title": "Vala e të nxehtit, thahet liqeni Brenets në kufirin zvicerano-francez",
+      "link": "https://abcnews.al/vala-e-te-nxehtit-thahet-liqeni-brenets-ne-kufirin-zvicerano-francez/",
+      "description": "Liqeni Brenets në kufirin zvicerano-francez është pothuajse i tharë dhe ka qenë i palundrueshëm për më shumë se një javë për shkak të një thatësire të zgjatur që ka goditur rrugët ujore në të gjithë Evropën. Liqeni normalisht është i mbushur me kampistë, notarë dhe kanoeistë gjatë verës, ndërsa tre ",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-07-30T19:10:23+00:00",
-      "dateStr": "30 Jul, 19:10",
+      "date": "2026-07-30T19:05:15+00:00",
+      "dateStr": "30 Jul, 19:05",
       "isNew": true,
-      "id": "24 11785438623"
-    },
-    {
-      "title": "Zvërneci, Berisha: Nuk mbështes projekte që nuk përputhen me ligjin",
-      "link": "https://24-ore.com/zverneci-berisha-nuk-mbeshtes-projekte-qe-nuk-perputhen-me-ligjin/",
-      "description": "Kryedemokrati Sali Berisha tha se projekti i Zvërnecit nuk është në përputhje me ligjin. Në një intervistë për emisionin “Off the Record” me Andrea Dangllin në A2CNN, Berisha theksoi se ai nuk mbështet asnjë projekt i cili nuk përputhet me ligjin. Referuar projektit të Zvërnecit, kreu i selisë blu t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-30T19:02:12+00:00",
-      "dateStr": "30 Jul, 19:02",
-      "isNew": true,
-      "id": "24 21785438132"
-    },
-    {
-      "title": "Rikthehen “lule gjelat”; në sulm ndaj faqeve të SHBA në Tiranë",
-      "link": "https://24-ore.com/rikthehen-lule-gjelat-ne-sulm-ndaj-faqeve-te-shba-ne-tirane/",
-      "description": "Nga Ylli Pata Lufta hibride që u vu re në ditët e Flamingo Revolution me trolle fake mbi “përmbytjen izraelite” në Zvërnec, apo sulmet agresive ndaj familjes Trump, që vinte kryesisht nga faqe iraniane apo të lidhura me aleancat e Teheranit, nuk është fenomeni i tillë i parë në mejdanin virtual digj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-30T19:01:35+00:00",
-      "dateStr": "30 Jul, 19:01",
-      "isNew": true,
-      "id": "24 31785438095"
-    },
-    {
-      "title": "MPB: Nga sot “Safe City” në funksion në Debërcë, së shpejti edhe në Ohër",
-      "link": "https://24-ore.com/mpb-nga-sot-safe-city-ne-funksion-ne-deberce-se-shpejti-edhe-ne-oher/",
-      "description": "Nga sot janë vënë në funksion kamerat e sistemit “Qyteti i Sigurt” në një pjesë të komunës së Debërcës, ndërsa së shpejti do të fillojnë të funksionojnë edhe në Ohër. Ministria e Punëve të Brendshme njofton opinionin se, pas përfundimit të testimeve finale, janë vënë në funksion kamerat e sigurisë t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-30T18:55:57+00:00",
-      "dateStr": "30 Jul, 18:55",
-      "isNew": true,
-      "id": "24 41785437757"
-    },
-    {
-      "title": "Zyrtare: Stones vishet zikaltër",
-      "link": "https://24-ore.com/zyrtare-stones-vishet-zikalter/",
-      "description": "Interi mirëpret John Stonesin, por… vetëm për pak orë. Mbrojtësi anglez mbërriti në Milano këtë mëngjes – pak pas orës 09:00, me fjalët “Jam shumë i lumtur, shihemi së shpejti” – për t’iu nënshtruar kontrolleve mjekësore të zakonshme; këto përfunduan rreth orës së drekës dhe u pasuan nga vlerësimi i",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-30T18:55:42+00:00",
-      "dateStr": "30 Jul, 18:55",
-      "isNew": true,
-      "id": "24 51785437742"
-    },
-    {
-      "title": "Qeveria ndryshon rregullat për shërbimet jashtë vendit, klasifikimi i hoteleve sipas kategorive dhe mbulimi i shpenzimeve",
-      "link": "https://24-ore.com/qeveria-ndryshon-rregullat-per-sherbimet-jashte-vendit-klasifikimi-i-hoteleve-sipas-kategorive-dhe-mbulimi-i-shpenzimeve/",
-      "description": "Këshilli i Ministrave ka miratuar një vendim të ri të propozuar nga ministri i Financave, i cili rregullon në mënyrë të detajuar procedurat, shpenzimet dhe kompensimin financiar për punonjësit e njësive të qeverisjes së përgjithshme që dërgohen me shërbim ose trajnime afatshkurtra (jo më shumë se nj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-30T18:55:22+00:00",
-      "dateStr": "30 Jul, 18:55",
-      "isNew": true,
-      "id": "24 61785437722"
+      "id": "abc71785438315"
     },
     {
       "title": "Sulmi në Ukrainë/ Zelensky: Të dhënat paraprake tregojnë se Rusia përdori raketë balistike të Koresë së Veriut",
@@ -89,29 +210,7 @@
       "date": "2026-07-30T18:53:54+00:00",
       "dateStr": "30 Jul, 18:53",
       "isNew": true,
-      "id": "abc01785437634"
-    },
-    {
-      "title": "UEFA i shpall luftë totale FIFA-s: Do të bojkotojmë çdo kompeticion derisa Infantino të bëjë një hap pas",
-      "link": "https://24-ore.com/uefa-i-shpall-lufte-totale-fifa-s-do-te-bojkotojme-cdo-kompeticion-derisa-infantino-te-beje-nje-hap-pas/",
-      "description": "55 federatat anëtare të UEFA-s kanë votuar për të bojkotuar Kupën e Botës nëse FIFA vijon me planin e saj për të shitur pjesë të aksioneve në kompeticionet që organizon tek investitorë privatë. Vendimi u mor në një mbledhje urgjente të zhvilluar të enjten, ku u diskutuan propozimet që FIFA, organi d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-30T18:49:13+00:00",
-      "dateStr": "30 Jul, 18:49",
-      "isNew": true,
-      "id": "24 71785437353"
-    },
-    {
-      "title": "61 ditë protestë, qytetarët marshojnë sërish drejt Kryeministrisë",
-      "link": "https://24-ore.com/61-dite-proteste-qytetaret-marshojne-serish-drejt-kryeministrise/",
-      "description": "Protesta kundër qeverisë hyn sot në ditën e saj të 61-të, teksa edhe këtë pasdite qytetarët u mblodhën në sheshin Skënderbej dhe më pas marshuan drejt godinës së Kryeministrisë për të vijuar mobilizimin e përditshëm. Ajo që nisi si një reagim ndaj zhvillimeve në Zvërnec është shndërruar në një lëviz",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-30T18:48:42+00:00",
-      "dateStr": "30 Jul, 18:48",
-      "isNew": true,
-      "id": "24 81785437322"
+      "id": "abc81785437634"
     },
     {
       "title": "Edicioni Qendror me Emilian Islami, (30/07/2026)",
@@ -122,106 +221,7 @@
       "date": "2026-07-30T18:46:59+00:00",
       "dateStr": "30 Jul, 18:46",
       "isNew": true,
-      "id": "abc11785437219"
-    },
-    {
-      "title": "Vihet në kontroll zjarri në Cfir të Mallakastrës, digjen 2 hektarë toke dhe 50 rrënjë ulliri",
-      "link": "https://abcnews.al/vihet-ne-kontroll-zjarri-ne-cfir-te-mallakastres-digjen-2-hektare-toke-dhe-50-rrenje-ulliri/",
-      "description": "Eshtë vendosur nën kontroll zjarri ne fshatin Cfir të Mallakastrës. Zjarrfikësit e Mallakastrës punuan për më shumë se 4 orë për shuarjen dhe izolimin e vatrave të zjarrit. Si pasojë e zjarrit janë djegur rreth 2 hektarë sipërfaqe me pyll dhe rreth 50 rrënjë ullinj. Aktualisht situata është nën kont",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-30T18:42:55+00:00",
-      "dateStr": "30 Jul, 18:42",
-      "isNew": true,
-      "id": "abc21785436975"
-    },
-    {
-      "title": "Turizmit shqiptar i marrshin të ligat!",
-      "link": "https://24-ore.com/turizmit-shqiptar-i-marrshin-te-ligat/",
-      "description": "Nga Fatos Çoçoli Korriku po mbaron dhe sezoni turistik veror është kulmin e vet. Dhe është mirë, megjithë problematikat e përhershme. Gjysma e parë e vitit 2026 konfirmoi se turizmi vijon të jetë industria numër një e Shqipërisë, duke ia kaluar në PBB kontributit nga ndërtimi dhe bujqësia. Sipas INS",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-30T18:31:52+00:00",
-      "dateStr": "30 Jul, 18:31",
-      "isNew": true,
-      "id": "24 91785436312"
-    },
-    {
-      "title": "Një nga kinematë më të hershme të Spanjës shndërrohet në një hotel luksoz në San Sebastián",
-      "link": "https://abcnews.al/nje-nga-kinemate-me-te-hershme-te-spanjes-shnderrohet-ne-nje-hotel-luksoz-ne-san-sebastian/",
-      "description": "Një nga kinematë më të vjetra të Spanjës ka nisur një kapitull të ri, pasi ndërtesa historike është restauruar dhe shndërruar në një hotel modern në qytetin bregdetar të San Sebastián. Projekti ruan trashëgiminë arkitekturore të ish-kinemasë Astoria, ndërsa i jep asaj një funksion të ri si një hapës",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-30T18:28:08+00:00",
-      "dateStr": "30 Jul, 18:28",
-      "isNew": true,
-      "id": "abc31785436088"
-    },
-    {
-      "title": "Hita nga Berati: Lufta ndaj krimit dhe narkotikëve do të vijojë pa kompromis",
-      "link": "https://abcnews.al/hita-nga-berati-lufta-ndaj-krimit-dhe-narkotikeve-do-te-vijoje-pa-kompromis/",
-      "description": "Drejtori i Përgjithshëm i Policisë së Shtetit, Drejtues Madhor Skender Hita, deklaroi se Drejtoria Vendore e Policisë Berat renditet ndër strukturat me nivelin më të ulët të kriminalitetit në vend, duke theksuar se kjo nuk do të thotë ulje e angazhimit në luftën kundër krimit. Deklaratat u bënë pas ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-30T18:17:52+00:00",
-      "dateStr": "30 Jul, 18:17",
-      "isNew": true,
-      "id": "abc41785435472"
-    },
-    {
-      "title": "752 emigrantë kalojnë Kanalin Anglez brenda një dite, rekord i ri në Britani",
-      "link": "https://abcnews.al/752-emigrante-kalojne-kanalin-anglez-brenda-nje-dite-rekord-i-ri-ne-britani/",
-      "description": "Britania e Madhe ka regjistruar një rekord të ri të mbërritjeve të emigrantëve me varka të vogla gjatë këtij viti. Sipas të dhënave të Ministrisë së Brendshme britanike, të mërkurën 752 emigrantë kaluan Kanalin Anglez me nëntë varka të fryra, duke shënuar numrin më të lartë të mbërritjeve brenda 24 ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-30T18:15:05+00:00",
-      "dateStr": "30 Jul, 18:15",
-      "isNew": true,
-      "id": "abc51785435305"
-    },
-    {
-      "title": "Tragjedi në Kretë/ Dy shqiptarë humbin jetën në aksident",
-      "link": "https://abcnews.al/tragjedi-ne-krete-dy-shqiptare-humbin-jeten-ne-aksident/",
-      "description": "Dy të rinj shqiptarë kanë humbur jetën si pasojë e një aksidenti të rëndë rrugor, i ndodhur në zonën e Kolymbarit, në Hania të Kretës. Sipas mediave greke, aksidenti ndodhi rreth orës 03:00 në autostradën kombëtare, kur motoçikleta me të cilën udhëtonin dy shtetas shqiptarë, të moshave 28 dhe 34 vje",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-30T17:56:58+00:00",
-      "dateStr": "30 Jul, 17:56",
-      "isNew": true,
-      "id": "abc61785434218"
-    },
-    {
-      "title": "Paralajmëron OKB: Pothuajse një në tre persona nuk mund të përballojnë një dietë të shëndetshme!",
-      "link": "https://abcnews.al/paralajmeron-okb-pothuajse-nje-ne-tre-persona-nuk-mund-te-perballojne-nje-diete-te-shendetshme/",
-      "description": "Gati tre miliardë njerëz në mbarë botën nuk janë në gjendje të përballojnë një dietë të shëndetshme, pasi kostoja e të ngrënit shëndetshëm është rritur ndjeshëm vitet e fundit. Kostoja globale e një diete të shëndetshme është rritur me 25% gjatë pesë viteve të fundit, duke tejkaluar vijën e varfëris",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-30T17:48:24+00:00",
-      "dateStr": "30 Jul, 17:48",
-      "isNew": true,
-      "id": "abc71785433704"
-    },
-    {
-      "title": "BE miraton rregulla më të rrepta për hyrjen e ukrainasve në moshë ushtarake",
-      "link": "https://abcnews.al/be-miraton-rregulla-me-te-rrepta-per-hyrjen-e-ukrainasve-ne-moshe-ushtarake/",
-      "description": "Vendet anëtare të Bashkimit Evropian kanë miratuar rregulla më të rrepta për hyrjen e burrave ukrainas në moshë për shërbim ushtarak. Vendimi u mor me kërkesë të autoriteteve në Kiev dhe synon të pengojë ata që largohen nga Ukraina vetëm për t’iu shmangur detyrimeve ushtarake. Sipas marrëveshjes së ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-30T17:47:47+00:00",
-      "dateStr": "30 Jul, 17:47",
-      "isNew": true,
-      "id": "abc81785433667"
-    },
-    {
-      "title": "“Protesta, synon të sabotojë investimet e huaja”, Spaho: Faktori politik të jetë i unifikuar për në BE, PD bëri “autogol”",
-      "link": "https://abcnews.al/protesta-synon-te-sabotoje-investimet-e-huaja-spaho-faktori-politik-te-jete-i-unifikuar-per-ne-be-pd-beri-autogol/",
-      "description": "TIRANË&#8211; Ish-nënkryetari i Partisë Demokratike, Edmond Spaho, është shprehur kundër protestave duke i cilësuar ato si të dëmshme për interesat e vendit, investimeve të huaja dhe për vetë procesin e integrimit europian. I ftuar në &#8220;Edicionin qendror&#8221; të lajmeve në ABC News, Spaho tha",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-30T17:37:45+00:00",
-      "dateStr": "30 Jul, 17:37",
-      "isNew": true,
-      "id": "abc91785433065"
+      "id": "abc91785437219"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
