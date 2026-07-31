@@ -1,8 +1,195 @@
 {
-  "lastUpdated": "2026-07-31T11:54:35.032966+00:00",
+  "lastUpdated": "2026-07-31T13:53:14.612144+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "BE do të ndërtojë gigafabrikat e veta të IA-së",
+      "link": "https://abcnews.al/be-do-te-ndertoje-gigafabrikat-e-veta-te-ia-se/",
+      "description": "Komisioni Evropian ka hapur thirrje për oferta që synon të gjenerojë mbi 30 miliardë euro financim publik dhe privat për ndërtimin e shtatë të ashtuquajturave gigafabrika të Inteligjencës Artificiale për të forcuar pavarësinë e Bashkimit Evropian në këtë fushë. 10 miliardë euro do të vihen në dispoz",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-31T13:50:29+00:00",
+      "dateStr": "31 Jul, 13:50",
+      "isNew": true,
+      "id": "abc01785505829"
+    },
+    {
+      "title": "PD me hartë të vetën territoriale, Berisha: Edi Rama kërkon shpopullimin e vendit, kërkojmë referendum",
+      "link": "https://24-ore.com/pd-me-harte-te-veten-territoriale-berisha-edi-rama-kerkon-shpopullimin-e-vendit-kerkojme-referendum/",
+      "description": "Në kushtet kur, sipas opozitës, socialistët thyen konsensusin politik dhe paraqitën në mënyrë të njëanshme draftin e tyre për reformën territoriale, Partia Demokratike bëri publik propozimin e vet. Ndryshe nga PS, e cila synon që nga 61 njësi vendore të reduktohen 15, demokratët kërkojnë shtimin e t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-31T13:40:13+00:00",
+      "dateStr": "31 Jul, 13:40",
+      "isNew": true,
+      "id": "24 01785505213"
+    },
+    {
+      "title": "Tensione në FIFA, këshilltari i afërt i Infantinos jep dorëheqjen",
+      "link": "https://24-ore.com/tensione-ne-fifa-keshilltari-i-afert-i-infantinos-jep-doreheqjen/",
+      "description": "‘Turbulencat’ në FIFA po marrin përmasa edhe më të mëdha. Carlos Cordeiro, një nga këshilltarët më të afërt të presidentit Gianni Infantino, ka dhënë dorëheqjen në shenjë kundërshtimi ndaj planeve të diskutueshme të qeverisë së futbollit botëror për shitjen e aksioneve të garave të FIFA-s tek invest",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-31T13:34:21+00:00",
+      "dateStr": "31 Jul, 13:34",
+      "isNew": true,
+      "id": "24 11785504861"
+    },
+    {
+      "title": "Dimitrieska-Koçoska: Borxhi publik në tremujorin e dytë arriti në 58.8% të BPV-së",
+      "link": "https://24-ore.com/dimitrieska-kocoska-borxhi-publik-ne-tremujorin-e-dyte-arriti-ne-58-8-te-bpv-se/",
+      "description": "Borxhi publik në tremujorin e dytë shënoi rënie krahasuar me gjendjen e borxhit publik në tremujorin paraardhës për 0.1 pikë përqindjeje ose në vlerë absolute për 21 milionë euro. Shprehur në përqindje ndaj BPV-së, borxhi publik në tremujorin e dytë të vitit 2026 shënoi një rënie krahasuar me gjendj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-31T13:30:56+00:00",
+      "dateStr": "31 Jul, 13:30",
+      "isNew": true,
+      "id": "24 21785504656"
+    },
+    {
+      "title": "“Nafta u rrit në prag të fundjavës”, Braçe: Po i jepet goditje sezonit turistik",
+      "link": "https://24-ore.com/nafta-u-rrit-ne-prag-te-fundjaves-brace-po-i-jepet-goditje-sezonit-turistik/",
+      "description": "Deputeti socialist Erion Braçe thotë se do duhet të kthehet edhe një herë Bordi i Transparencës, pas rritjes së fundit që i është bërë naftës në vendin tonë, duke shkruar në 214 lekë për litër. Në një reagim në rrjetet sociale, Braçe shprehet se rritja është e qëllimshme dhe se sezoni turistik mund ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-31T13:30:41+00:00",
+      "dateStr": "31 Jul, 13:30",
+      "isNew": true,
+      "id": "24 31785504641"
+    },
+    {
+      "title": "Mitaj transferohet në Serie A, mbrojtësi i kombëtares firmos me Genoan",
+      "link": "https://24-ore.com/mitaj-transferohet-ne-serie-a-mbrojtesi-i-kombetares-firmos-me-genoan/",
+      "description": "Mbrojtësi i kombëtares shqiptare, Mario Mitaj do të nisë një aventurë të re në karrierën e tij. 22-vjeçari shqiptar largohet nga Al Ittihad për të nisur një eksperiencë të re në karrierë me fanellën e Genoas. Marrëveshja mes palëve është mbyllur me sukses dhe klubi italian ka mposhtur konkurencën e ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-31T13:30:35+00:00",
+      "dateStr": "31 Jul, 13:30",
+      "isNew": true,
+      "id": "24 41785504635"
+    },
+    {
+      "title": "Greqia, tri ditë luftë me flakët/ Zjarre në Kretë, Paros dhe Lesbos, evakuohen banorë e turistë",
+      "link": "https://abcnews.al/greqia-tri-dite-lufte-me-flaket-zjarre-ne-krete-paros-dhe-lesbos-evakuohen-banore-e-turiste/",
+      "description": "Beteja me flakët në Greqi vazhdon për të tretën ditë me radhë. Situata më e vështirë paraqitet në ishullin e Kretës, Paros dhe Lesbos. Zjarret kanë shkaktuar viktima mes zjarrfikësve, dëme në shtëpi dhe toka bujqësore, si edhe evakuimin e banorëve dhe turistëve. Mbi 200 zjarrfikës, mjete ajrore dhe ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-31T13:30:06+00:00",
+      "dateStr": "31 Jul, 13:30",
+      "isNew": true,
+      "id": "abc11785504606"
+    },
+    {
+      "title": "QSUT mban barrën kryesore të shërbimeve spitalore, me 40% të shtrimeve në rang vendi",
+      "link": "https://24-ore.com/qsut-mban-barren-kryesore-te-sherbimeve-spitalore-me-40-te-shtrimeve-ne-rang-vendi/",
+      "description": "Pothuajse 40% e të gjitha shtrimeve spitalore në Shqipëri përqendrohen në një institucion të vetëm, Qendrën Spitalore Universitare “Nënë Tereza”, ndërsa shumë spitale rajonale funksionojnë me nivele të ulëta aktiviteti. Përqendrimi i shërbimeve në pak qendra dhe përdorimi i ulët i një pjese të rrjet",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-31T13:22:18+00:00",
+      "dateStr": "31 Jul, 13:22",
+      "isNew": true,
+      "id": "24 51785504138"
+    },
+    {
+      "title": "Raporti i Eurostat: Në Europë ka më shumë femra edhe pse lindin më shumë meshkuj",
+      "link": "https://24-ore.com/raporti-i-eurostat-ne-europe-ka-me-shume-femra-edhe-pse-lindin-me-shume-meshkuj/",
+      "description": "Në të gjithë Europën dhe në Shqipëri lindin më shumë meshkuj se femra, por kjo situatë përmbyset më vonë, duke bërë që raporti meshkuj femra të jetë në favor të femrave, kjo sipas ekspertëve është pasi femrat jetojnë më gjatë. Shqipëria është ndër vendet europiane ku diferenca mes numrit të grave dh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-31T13:22:05+00:00",
+      "dateStr": "31 Jul, 13:22",
+      "isNew": true,
+      "id": "24 61785504125"
+    },
+    {
+      "title": "Raporti OBSH: Infektimet me HIV në rënie ndërsa infeksionet seksualisht të transmetueshme në rritje",
+      "link": "https://24-ore.com/raporti-obsh-infektimet-me-hiv-ne-renie-ndersa-infeksionet-seksualisht-te-transmetueshme-ne-rritje/",
+      "description": "32 milionë persona që jetojnë me HIV në botë po marrin trajtim, por 9 milionë të tjerë ende nuk kanë akses në terapinë që u shpëton jetën. Ndërkohë, hepatitet virale vazhdojnë të shkaktojnë rreth 1.3 milionë vdekje në vit, ndërsa rastet e infeksioneve seksualisht të transmetueshme po rriten në disa ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-31T13:21:53+00:00",
+      "dateStr": "31 Jul, 13:21",
+      "isNew": true,
+      "id": "24 71785504113"
+    },
+    {
+      "title": "Berisha: PD do të kërkojë reformë të re territoriale që t’i shërbejë ripopullimit të vendit",
+      "link": "https://24-ore.com/berisha-pd-do-te-kerkoje-reforme-te-re-territoriale-qe-ti-sherbeje-ripopullimit-te-vendit/",
+      "description": "Kryetari i Partisë Demokratike, Sali Berisha, deklaroi se opozita do të angazhohet për hartimin e një reforme të re territoriale, e cila, sipas tij, duhet të synojë zhvillimin e zonave rurale, përmirësimin e shërbimeve për qytetarët dhe ripopullimin e vendit. Në një konferencë për mediat nga selia e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-31T13:21:41+00:00",
+      "dateStr": "31 Jul, 13:21",
+      "isNew": true,
+      "id": "24 81785504101"
+    },
+    {
+      "title": "Bashkimi Evropian, procesi i zgjerimit rrezikon të bëhet viktimë e suksesit të tij",
+      "link": "https://24-ore.com/bashkimi-evropian-procesi-i-zgjerimit-rrezikon-te-behet-viktime-e-suksesit-te-tij/",
+      "description": "Komisionit Evropian po i shterojnë kapacitetet për të menaxhuar proceset e shumta të anëtarësimit në të njëjtën kohë dhe më e keqja pritet ende të vijë. Drejtoria e Përgjithshme për Zgjerimin dhe Frontin Lindor po përballet me sfida në rritje sa i takon aftësive të saj, kanë deklaruar tre burime të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-31T13:21:24+00:00",
+      "dateStr": "31 Jul, 13:21",
+      "isNew": true,
+      "id": "24 91785504084"
+    },
+    {
+      "title": "Newsline me Fabiola Hoxha, (31/07/2026)",
+      "link": "https://abcnews.al/newsline-me-fabiola-hoxha-31-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-31T13:17:22+00:00",
+      "dateStr": "31 Jul, 13:17",
+      "isNew": true,
+      "id": "abc21785503842"
+    },
+    {
+      "title": "Harta e PD: 100 bashki/ Luçiano Boçi: Filozofia jonë, decentralizimi",
+      "link": "https://abcnews.al/harta-e-pd-100-bashki-luciano-boci-filozofia-jone-decentralizimi/",
+      "description": "PS më pak, PD më shumë bashki. Demokratët zbuluan reformën alternative territoriale përballë asaj të socialistëve. Varianti i propozuar nga PD nuk ndryshon shumë në kohë dhe në cilësi. I qëndron filozofisë për shtim numri bashkish dhe më shumë copëzim të territorit, këtë herë propozohet 100 bashki d",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-31T13:03:47+00:00",
+      "dateStr": "31 Jul, 13:03",
+      "isNew": true,
+      "id": "abc31785503027"
+    },
+    {
+      "title": "Aksident i rëndë në Algjeri/ Autobusi përmbyset, 25 viktima",
+      "link": "https://abcnews.al/te-pakten-25-persona-humbin-jeten-pasi-nje-autobus-pasagjeresh-permbyset-ne-algjeri/",
+      "description": "Të paktën 25 persona kanë humbur jetën dhe disa të tjerë janë plagosur pasi një autobus pasagjerësh u përmbys në një aksident të rëndë rrugor në Algjeri. Sipas autoriteteve lokale, autobusi ishte duke transportuar pasagjerë kur, për arsye që ende nuk janë bërë të ditura, humbi kontrollin dhe u përmb",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-31T12:48:48+00:00",
+      "dateStr": "31 Jul, 12:48",
+      "isNew": true,
+      "id": "abc41785502128"
+    },
+    {
+      "title": "Fier, historia e ciceronit të parë/ Busti i heroit të monumenteve të Apolonisë, drejt restaurimit",
+      "link": "https://abcnews.al/fier-historia-e-ciceronit-te-pare-busti-i-heroit-te-monumenteve-te-apolonise-drejt-restaurimit/",
+      "description": "Në historinë e Apolonisë ka figura që nuk u shënuan me monumente të mëdha, por lanë gjurmë të pashlyeshme përmes përkushtimit të tyre. Një prej tyre është Pilo Samarxhiu, njeriu që për dekada ruajti sekretet e qytetit antik, duke mbrojtur thesaret arkeologjike në kohë lufte dhe paqeje. Ai fshehu sta",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-31T12:23:54+00:00",
+      "dateStr": "31 Jul, 12:23",
+      "isNew": true,
+      "id": "abc51785500634"
+    },
+    {
+      "title": "Goditje për Infantinon: Këshilltari i tij jep dorëheqjen, tri konfederata kundër planit të FIFA-s",
+      "link": "https://abcnews.al/goditje-per-infantinon-keshilltari-i-tij-jep-doreheqjen-tri-konfederata-kunder-planit-te-fifa-s/",
+      "description": "Presidenti i FIFA-s, Gianni Infantino, po përballet me kundërshtim të fortë ndaj planit të tij për të shitur pjesë të aksioneve në kompeticionet e FIFA-s tek investitorë privatë. Vetëm pak orë pasi edhe Konfederata Aziatike e Futbollit (AFC) iu bashkua kritikave, një nga këshilltarët e tij më të afë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-31T12:09:54+00:00",
+      "dateStr": "31 Jul, 12:09",
+      "isNew": true,
+      "id": "abc61785499794"
+    },
     {
       "title": "Armët e testuara në luftë, tani në treg! Ukraina nis eksportet e pajisjeve ushtarake",
       "link": "https://abcnews.al/armet-e-testuara-ne-lufte-tani-ne-treg-ukraina-nis-eksportet-e-pajisjeve-ushtarake/",
@@ -12,84 +199,7 @@
       "date": "2026-07-31T11:50:08+00:00",
       "dateStr": "31 Jul, 11:50",
       "isNew": true,
-      "id": "abc01785498608"
-    },
-    {
-      "title": "“2027 me bashki të reja”, Mazniku shpjegon pse PS kërkon shkrirjen e 15 bashkive",
-      "link": "https://24-ore.com/2027-me-bashki-te-reja-mazniku-shpjegon-pse-ps-kerkon-shkrirjen-e-15-bashkive/",
-      "description": "Kryetari i Komisionit të Reformës Zgjedhore Arbjan Mazniku ka folur për propozimin e mazhorancës për shkrirjen e 15 bashkive, duke thënë se vendi do të shkojë në zgjedhjet e ardhshme vendore me një sistem të ri. Për mediat, Mazniku ka treguar qëllimin e kësaj harte të re. “Në muajin maj të 2027 do k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-31T11:49:50+00:00",
-      "dateStr": "31 Jul, 11:49",
-      "isNew": true,
-      "id": "24 01785498590"
-    },
-    {
-      "title": "Fjala sot quhet krim",
-      "link": "https://24-ore.com/fjala-sot-quhet-krim/",
-      "description": "Nga Ylli Manjani  Një seancë pyetjesh e zhvilluar në GJKKO, ku prokurori i drejtohet të pandehurit me pyetjen: “Çfarë ke dashur të thuash me këto fjalë?”, është ndoshta fotografia më e qartë e mënyrës se si po funksionon sot ndjekja penale në Shqipëri. Vetë pyetja është shqetësuese. Jo sepse prokuro",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-31T11:49:19+00:00",
-      "dateStr": "31 Jul, 11:49",
-      "isNew": true,
-      "id": "24 11785498559"
-    },
-    {
-      "title": "​Haxhiu kritikon KGJK-në për ish-gjyqtarët serbë: Pres veprim në përputhje me përgjegjësitë",
-      "link": "https://24-ore.com/haxhiu-kritikon-kgjk-ne-per-ish-gjyqtaret-serbe-pres-veprim-ne-perputhje-me-pergjegjesite/",
-      "description": "Ushtruesja e detyrës së presidentes, Albulena Haxhiu, ka kritikuar Këshillin Gjyqësor të Kosovës (KGJK) për mungesë veprimi lidhur me çështjen e ish-gjyqtarëve serbë. Haxhiu ka bërë të ditur se i ka dërguar sërish një shkresë kryesuesit të KGJK-së, ku e ka njoftuar për një raport që posedon lidhur m",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-31T11:44:54+00:00",
-      "dateStr": "31 Jul, 11:44",
-      "isNew": true,
-      "id": "24 21785498294"
-    },
-    {
-      "title": "Nebi Rexhepi: BDI është ideatori i çdo të arriture të shqiptarëve në Maqedoninë e Veriut",
-      "link": "https://24-ore.com/nebi-rexhepi-bdi-eshte-ideatori-i-cdo-te-arriture-te-shqiptareve-ne-maqedonine-e-veriut/",
-      "description": "Sekretari i BDI-së Nebi Rexhepi, i ftuar në emisionin PodGo në Telegrafi Maqedoni tha se BDI është ideatori dhe mbrojtësi i çdo të arriture për shqiptarët e Maqedonisë së Veriut. Rexhepi i cili në Kongresin e dhjetorit të vitit të kaluar u emërua sekretar i partisë, tha se BDI-ja e mban flamurin e r",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-31T11:39:58+00:00",
-      "dateStr": "31 Jul, 11:39",
-      "isNew": true,
-      "id": "24 31785497998"
-    },
-    {
-      "title": "Një person me pesë identitete, arrestohet i dyshuari në Prishtinë – del të jetë shtetas i Shqipërisë, i dënuar për vrasje",
-      "link": "https://24-ore.com/nje-person-me-pese-identitete-arrestohet-i-dyshuari-ne-prishtine-del-te-jete-shtetas-i-shqiperise-i-denuar-per-vrasje/",
-      "description": "Prokuroria Themelore në Prishtinë, në koordinim të ngushtë me Policinë e Kosovës, respektivisht me Drejtorinë për Hetimin e Krimeve Ekonomike dhe Korrupsionit (DHKEK), si dhe në bashkëpunim me partnerët ndërkombëtar të zbatimit të ligjit, ka zhvilluar një operacion, i cili ka rezultuar me identifiki",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-31T11:39:48+00:00",
-      "dateStr": "31 Jul, 11:39",
-      "isNew": true,
-      "id": "24 41785497988"
-    },
-    {
-      "title": "Biblioteka Kombëtare dhe Agjencia e Diasporës do të promovojnë trashëgiminë dokumentare e kulturore brenda dhe jashtë vendit",
-      "link": "https://24-ore.com/biblioteka-kombetare-dhe-agjencia-e-diaspores-do-te-promovojne-trashegimine-dokumentare-e-kulturore-brenda-dhe-jashte-vendit/",
-      "description": "Biblioteka Kombëtare dhe Agjencia Kombëtare e Diasporës nënshkruan një marrëveshje bashkëpunimi, me synim ruajtjen, dokumentimin dhe promovimin e trashëgimisë dokumentare e kulturore shqiptare, brenda dhe jashtë vendit. Marrëveshja parashikon zhvillimin e projekteve të përbashkëta, ekspozitave, konf",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-31T11:34:12+00:00",
-      "dateStr": "31 Jul, 11:34",
-      "isNew": true,
-      "id": "24 51785497652"
-    },
-    {
-      "title": "Klubi “Bashkimi”, vatra ku lindi ideja e alfabetit të njësuar shqip, përkujtohet në 118-vjetorin e themelimit",
-      "link": "https://24-ore.com/klubi-bashkimi-vatra-ku-lindi-ideja-e-alfabetit-te-njesuar-shqip-perkujtohet-ne-118-vjetorin-e-themelimit/",
-      "description": "Një nga institucionet më të rëndësishme të Rilindjes Kombëtare shqiptare, Klubi “Bashkimi” i Manastirit, u përkujtua sot nga Akademia e Shkencave në përvjetorin e themelimit të tij. I krijuar më 31 korrik 1908, klubi u shndërrua në qendrën ku morën formë përpjekjet për përhapjen e gjuhës shqipe dhe ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-31T11:34:03+00:00",
-      "dateStr": "31 Jul, 11:34",
-      "isNew": true,
-      "id": "24 61785497643"
+      "id": "abc71785498608"
     },
     {
       "title": "Zelensky publikon shifrat e humbjeve ukrainase në luftën kundër Rusisë",
@@ -100,29 +210,7 @@
       "date": "2026-07-31T11:33:44+00:00",
       "dateStr": "31 Jul, 11:33",
       "isNew": true,
-      "id": "abc11785497624"
-    },
-    {
-      "title": "“Asnjë qytetar nuk e kërkoi”, Tabaku kundër reformës territoriale të PS: Është një lojë numrash",
-      "link": "https://24-ore.com/asnje-qytetar-nuk-e-kerkoi-tabaku-kunder-reformes-territoriale-te-ps-eshte-nje-loje-numrash/",
-      "description": "Deputetja e Partisë Demokratike, Jorida Tabaku, kundërshtoi sot planin e socialistëve për ndarjen e re territoriale, duke argumentuar se shkrirja e 15 bashkive nuk bazohet në analiza apo kërkesa të qytetarëve, por në llogari politike. “Propozimi për të reduktuar numrin e bashkive është një lojë numr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-31T11:31:58+00:00",
-      "dateStr": "31 Jul, 11:31",
-      "isNew": true,
-      "id": "24 71785497518"
-    },
-    {
-      "title": "Ajvazi: Shqetësim serioz situata me të dhënat e bizneseve në faqen e ARBK-së",
-      "link": "https://24-ore.com/ajvazi-shqetesim-serioz-situata-me-te-dhenat-e-bizneseve-ne-faqen-e-arbk-se/",
-      "description": "Kryetari i Shoqatës së Prodhuesve të Kosovës, Kushtrim Ajvazi, ka reaguar sot lidhur me siç thotë ekspozimin e dokumenteve, nënshkrimeve apo kopjeve të identifikimit nga Agjencia për Regjistrimin e Bizneseve, duke thënë se kjo mund të krijojë rrezik për falsifikime, mashtrime financiare dhe keqpërdo",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-31T11:30:11+00:00",
-      "dateStr": "31 Jul, 11:30",
-      "isNew": true,
-      "id": "24 81785497411"
+      "id": "abc81785497624"
     },
     {
       "title": "Theu masën e arrestit shtëpiak dhe vodhi një automjet/ Fier, vihet në pranga 43-vjeçari",
@@ -133,95 +221,7 @@
       "date": "2026-07-31T11:30:10+00:00",
       "dateStr": "31 Jul, 11:30",
       "isNew": true,
-      "id": "abc21785497410"
-    },
-    {
-      "title": "KINEMA – Pesë filmat më të mirë të rinj për tu parë këtë fundjavë",
-      "link": "https://24-ore.com/kinema-pese-filmat-me-te-mire-te-rinj-per-tu-pare-kete-fundjave/",
-      "description": "LOS ANXHELES, 31 /ATSH/ – Të shohësh filma në platformat streaming nuk është edhe aq e lehtë. Sigurisht, nëse je adhurues i kinemasë, pothuajse çdo film që mund të dëshirosh ta shohësh është vetëm disa klikime larg, shkruan timeout.com. Por pikërisht këtu qëndron problemi: të dish se çfarë ofrohet d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-31T11:30:07+00:00",
-      "dateStr": "31 Jul, 11:30",
-      "isNew": true,
-      "id": "24 91785497407"
-    },
-    {
-      "title": "Reforma e re Territoriale/ Mazniku argumenton shkurtimin e bashkive: Efiçenca dhe ekonomia, kriteret e reja",
-      "link": "https://abcnews.al/reforma-e-re-territoriale-mazniku-argumenton-shkurtimin-e-bashkive-eficenca-dhe-ekonomia-kriteret-e-reja/",
-      "description": "Bashkëkryetari i Komisionit për Reformën Territoriale, Arbian Mazniku, ka prezantuar draftin e ri që parashikon reduktimin e numrit të bashkive në vend nga 61 në 46. Gjatë një konference për mediat, ai sqaroi se ky propozim bazohet në një sërë kriteresh kryesore si ngurtësia buxhetore, efiçenca e st",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T11:20:24+00:00",
-      "dateStr": "31 Jul, 11:20",
-      "isNew": true,
-      "id": "abc31785496824"
-    },
-    {
-      "title": "Edicioni i Mesditës me Erneta Shevroja, (31/07/2026)",
-      "link": "https://abcnews.al/edicioni-i-mesdites-me-erneta-shevroja-31-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T11:20:24+00:00",
-      "dateStr": "31 Jul, 11:20",
-      "isNew": true,
-      "id": "abc41785496824"
-    },
-    {
-      "title": "Shqipëria Sot me Fabiola Hoxha, (31/07/2026)",
-      "link": "https://abcnews.al/shqiperia-sot-me-fabiola-hoxha-31-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T11:14:09+00:00",
-      "dateStr": "31 Jul, 11:14",
-      "isNew": true,
-      "id": "abc51785496449"
-    },
-    {
-      "title": "Sherr me sende të forta në Tepelenë, 3 persona mbeten të plagosur",
-      "link": "https://abcnews.al/sherr-me-sende-te-forta-ne-tepelene-3-persona-mbeten-te-plagosur/",
-      "description": "Një sherr për motive të dobëta ka ndodhur në qytetin e Tepelenës. Gjatë konflitit si pasojë e goditjeve me sende të forta, dy vëllezër dhe djali i xhaxhait të tyre, të tre banues në Tepelenë. Të dëmtuarit ndodhen në spital, jashtë rrezikut për jetën. Grupi hetimor po punon për identifikimin e person",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T11:06:18+00:00",
-      "dateStr": "31 Jul, 11:06",
-      "isNew": true,
-      "id": "abc61785495978"
-    },
-    {
-      "title": "Harta e re territoriale/ Mazniku: Do forcojmë rolin e bashkive. Reforma, në shërbim të qytetarëve",
-      "link": "https://abcnews.al/harta-e-re-territoriale-mazniku-do-forcojme-rolin-e-bashkive-reforma-ne-sherbim-te-qytetareve/",
-      "description": "Bashkëkryetari i komisionit për reformën territoriale, Arbjan Mazniku deklaroi se me reformën e re, do të forcohet roli i bashkive. Në një deklaratë për mediat, Mazniku u shpreh se reforma do të bëhet në shërbim të qytetarëve. Sipas Maznikut, bashkitë do të ofrojnë shërbimet më të mira të mundshme. ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T11:00:44+00:00",
-      "dateStr": "31 Jul, 11:00",
-      "isNew": true,
-      "id": "abc71785495644"
-    },
-    {
-      "title": "Meloni: Spanja, jashtë Schengen/ Krizë e paprecedentë në Ceuta, Franca blindon kufirin",
-      "link": "https://abcnews.al/meloni-spanja-jashte-schengen-krize-e-paprecedente-ne-ceuta-franca-blindon-kufirin/",
-      "description": "Kalimi i dhjetëra mijëra emigrantëve marokenë drejt Spanjës përmes enklavës së Ceutës ka shkaktuar shqetësim në vendet e Bashkimit Europian për përballjen e unionit 27-anëtarësh me një valë të paprecedentë të emigracionit të paligjshëm. Paralajmërimi më i ashpër mbi atë që po përshkruhet si fenomeni",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T10:50:24+00:00",
-      "dateStr": "31 Jul, 10:50",
-      "isNew": true,
-      "id": "abc81785495024"
-    },
-    {
-      "title": "Breaking News me Fabiola Hoxha, (31/07/2026)",
-      "link": "https://abcnews.al/breaking-news-me-fabiola-hoxha-31-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T10:41:08+00:00",
-      "dateStr": "31 Jul, 10:41",
-      "isNew": true,
-      "id": "abc91785494468"
+      "id": "abc91785497410"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
