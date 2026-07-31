@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-07-31T20:59:20.700357+00:00",
+  "lastUpdated": "2026-07-31T22:10:18.787408+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Lëvizte i armatosur në Lungomare, arrestohet një person në Vlorë",
+      "link": "https://abcnews.al/levizte-i-armatosur-ne-lungomare-arrestohet-nje-person-ne-vlore/",
+      "description": "Një person është arrestuar mbrëmjen e sotme nga Policia e Vlorës, pasi dyshohet se është kapur duke lëvizur me armë zjarri pa leje në zonën e Lungomares. Pas marrjes së një sinjalizimi për praninë e një personi të armatosur, forca të shumta policie janë angazhuar në zonë, duke ndërhyrë për lokalizim",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-31T21:42:34+00:00",
+      "dateStr": "31 Jul, 21:42",
+      "isNew": true,
+      "id": "abc01785534154"
+    },
+    {
+      "title": "Reforma territoriale, Nura: Qeveria kërkon që t’i bëjë shërbimet më efikase",
+      "link": "https://abcnews.al/reforma-territoriale-nura-qeveria-kerkon-qe-ti-beje-sherbimet-me-efikase/",
+      "description": "Analisti Artur Nura ka komentuar reformën territoriale dhe propozimet e forcave politike gjatë një interviste në emisionin “Ora e Fundit” në ABC News. Nura u shpreh se Partia Socialiste kërkon të ulë numrin e njësive vendore me synim rritjen e eficencës së shërbimeve publike. Sipas tij, qeveria syno",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-31T21:36:06+00:00",
+      "dateStr": "31 Jul, 21:36",
+      "isNew": true,
+      "id": "abc11785533766"
+    },
+    {
+      "title": "Policia aksion për zhurmat/ Ministri Lamallari: Garantojmë sezon turistik të qetë e të sigurt",
+      "link": "https://abcnews.al/policia-aksion-per-zhurmat-ministri-lamallari-garantojme-sezon-turistik-te-qete-e-te-sigurt/",
+      "description": "Policia e Shtetit po kryen monitorime në të gjithë vendin për të garantuar një sezon turistik të qetë dhe të sigurt për çdo pushues, familje e vizitor, në zbatim të udhëzimit të rishikuar për nivelin e lejuar të zhurmave. Në një postim në Facebook, ministri i Punëve të Brendshme, Besfort Lamallari, ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-31T21:29:29+00:00",
+      "dateStr": "31 Jul, 21:29",
+      "isNew": true,
+      "id": "abc21785533369"
+    },
+    {
+      "title": "Mitaj në elitën italiane/ Mbrojtësi kuqezi firmos për një vit me klubin e njohur, Genoa",
+      "link": "https://abcnews.al/mitaj-ne-eliten-italiane-mbrojtesi-kuqezi-firmos-per-nje-vit-me-klubin-e-njohur-genoa/",
+      "description": "Më në fund e kemi një rikthim në këtë kampionat. Seria A pak vite më parë ka qenë shtëpia e madhe e shqiptarëve, ndërsa tani duhet të gëzohemi që aty mbërriti Mario Mitaj. Mbrojtësi i kombëtares shqiptare do të luajë këtë sezon me Genoan, ndërsa klubi italian bëri prezantimin dhe dha njoftimin zyrta",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-07-31T21:05:23+00:00",
+      "dateStr": "31 Jul, 21:05",
+      "isNew": true,
+      "id": "abc31785531923"
+    },
+    {
+      "title": "SHBA – Trump tërhiqet nga premtimi për prodhimin e raketave “Patriot” në Ukrainë",
+      "link": "https://24-ore.com/shba-trump-terhiqet-nga-premtimi-per-prodhimin-e-raketave-patriot-ne-ukraine/",
+      "description": "UASHINGTON, 31 korrik /ATSH-DPA/ – Presidenti amerikan, Donald Trump, ka zbutur qëndrimin e tij lidhur me mundësinë që Ukraina të marrë licencë për të prodhuar raketat mbrojtëse “Patriot”, duke deklaruar se ende nuk është arritur asnjë marrëveshje, pavarësisht pretendimeve të presidentit ukrainas, V",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-07-31T21:00:09+00:00",
+      "dateStr": "31 Jul, 21:00",
+      "isNew": true,
+      "id": "24 01785531609"
+    },
     {
       "title": "DMSh-ja në gatishmëri kundër zjarreve pyjore",
       "link": "https://24-ore.com/dmsh-ja-ne-gatishmeri-kunder-zjarreve-pyjore/",
@@ -12,7 +67,7 @@
       "date": "2026-07-31T20:55:08+00:00",
       "dateStr": "31 Jul, 20:55",
       "isNew": true,
-      "id": "24 01785531308"
+      "id": "24 11785531308"
     },
     {
       "title": "Shtohen kontrollet për ndotjen akustike, Lamallari: Kush lëshon muzikën mbi normat e lejuara, do të përballet me pasojat",
@@ -23,7 +78,7 @@
       "date": "2026-07-31T20:50:12+00:00",
       "dateStr": "31 Jul, 20:50",
       "isNew": true,
-      "id": "24 11785531012"
+      "id": "24 21785531012"
     },
     {
       "title": "Maradona me fanellën e Baresit: Mbrojtësi më i mirë",
@@ -34,7 +89,7 @@
       "date": "2026-07-31T20:35:15+00:00",
       "dateStr": "31 Jul, 20:35",
       "isNew": true,
-      "id": "24 21785530115"
+      "id": "24 31785530115"
     },
     {
       "title": "Mickoski-Macut: Rajon më i qëndrueshëm përmes bashkëpunimit dhe fqinjësisë së mirë RMV-Serbi",
@@ -45,7 +100,7 @@
       "date": "2026-07-31T20:30:13+00:00",
       "dateStr": "31 Jul, 20:30",
       "isNew": true,
-      "id": "24 31785529813"
+      "id": "24 41785529813"
     },
     {
       "title": "FOKUS – 11 vende perëndimore paralajmërojnë kompanitë për punësimin e specialistëve IT nga Koreja e Veriut",
@@ -56,7 +111,7 @@
       "date": "2026-07-31T20:30:08+00:00",
       "dateStr": "31 Jul, 20:30",
       "isNew": true,
-      "id": "24 41785529808"
+      "id": "24 51785529808"
     },
     {
       "title": "“Nëse do të ishe president, çfarë do të bëje?” – ChatGPT jep përgjigjen",
@@ -67,7 +122,7 @@
       "date": "2026-07-31T20:25:35+00:00",
       "dateStr": "31 Jul, 20:25",
       "isNew": true,
-      "id": "24 51785529535"
+      "id": "24 61785529535"
     },
     {
       "title": "Dita e 62-të e protestës, qytetarët nisin marshimin në rrugët e Tiranës",
@@ -78,7 +133,7 @@
       "date": "2026-07-31T20:22:48+00:00",
       "dateStr": "31 Jul, 20:22",
       "isNew": true,
-      "id": "24 61785529368"
+      "id": "24 71785529368"
     },
     {
       "title": "“Ksamili është transformuar”, ministri Gonxhja: Dikur nuk bëhej dot plazh nga motorët e ujit",
@@ -89,7 +144,7 @@
       "date": "2026-07-31T20:22:37+00:00",
       "dateStr": "31 Jul, 20:22",
       "isNew": true,
-      "id": "24 71785529357"
+      "id": "24 81785529357"
     },
     {
       "title": "“Përveç bukurive natyrore, Shqipëria nuk ofron asgjë tjetër”, eksperti Sefa: Jemi në fazë tranzicioni",
@@ -100,18 +155,7 @@
       "date": "2026-07-31T20:22:25+00:00",
       "dateStr": "31 Jul, 20:22",
       "isNew": true,
-      "id": "24 81785529345"
-    },
-    {
-      "title": "Shqipëria ‘Maldivet’ e Evropës? Gazetarja: Çmimet janë të larta, shërbimet nuk i justifikojnë",
-      "link": "https://24-ore.com/shqiperia-maldivet-e-evropes-gazetarja-cmimet-jane-te-larta-sherbimet-nuk-i-justifikojne/",
-      "description": "Gazetarja e ekonomisë, Mirilda Tili, e ftuar këtë të premte në emisionin Review me Greta Topjana në Euronews Albania, ka folur për Shqipërinë si destinacion turistik për turistët e huaj. Sipas gazetares, Shqipëria është ende një territor i pazbuluar dhe i paeksploruar plotësisht, duke e konsideruar ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-07-31T20:22:12+00:00",
-      "dateStr": "31 Jul, 20:22",
-      "isNew": true,
-      "id": "24 91785529332"
+      "id": "24 91785529345"
     },
     {
       "title": "Turizmi mbush arkën e Turqisë/ Dalin shifrat, sa përfitoi buxheti në gjashtë muajt e parë të 2026",
@@ -122,7 +166,7 @@
       "date": "2026-07-31T20:20:44+00:00",
       "dateStr": "31 Jul, 20:20",
       "isNew": true,
-      "id": "abc01785529244"
+      "id": "abc41785529244"
     },
     {
       "title": "VIDEO/ Tërmet i fortë në Napoli, dëme nga rrëshqitjet e dheut, banorët dalin në rrugë",
@@ -133,7 +177,7 @@
       "date": "2026-07-31T20:03:23+00:00",
       "dateStr": "31 Jul, 20:03",
       "isNew": true,
-      "id": "abc11785528203"
+      "id": "abc51785528203"
     },
     {
       "title": "Italia planifikon të ndalojë karrocat turistike të tërhequra nga kuajt në Romë dhe qytete të tjera artistike",
@@ -144,7 +188,7 @@
       "date": "2026-07-31T20:02:55+00:00",
       "dateStr": "31 Jul, 20:02",
       "isNew": true,
-      "id": "abc21785528175"
+      "id": "abc61785528175"
     },
     {
       "title": "Gjermania do të zgjasë kontrollet kufitare për shkak të krizës së emigrantëve në Ceuta",
@@ -155,7 +199,7 @@
       "date": "2026-07-31T19:40:40+00:00",
       "dateStr": "31 Jul, 19:40",
       "isNew": true,
-      "id": "abc31785526840"
+      "id": "abc71785526840"
     },
     {
       "title": "Me urdhër mbretëror/ Spanja nxjerr monedhë të re euro për të festuar suksesin në Kupën e Botës në futboll",
@@ -166,7 +210,7 @@
       "date": "2026-07-31T19:39:57+00:00",
       "dateStr": "31 Jul, 19:39",
       "isNew": true,
-      "id": "abc41785526797"
+      "id": "abc81785526797"
     },
     {
       "title": "“Sheshi i Dollarit” me Genta Dobra, (31/07/2026)",
@@ -177,51 +221,7 @@
       "date": "2026-07-31T19:35:03+00:00",
       "dateStr": "31 Jul, 19:35",
       "isNew": true,
-      "id": "abc51785526503"
-    },
-    {
-      "title": "Edicioni Qendror me Emilian Islami, (31/07/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-emilian-islami-31-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T19:30:33+00:00",
-      "dateStr": "31 Jul, 19:30",
-      "isNew": true,
-      "id": "abc61785526233"
-    },
-    {
-      "title": "Devolli Corporation dhe CNN përgatiten të sjellin D1 – Një kapitull i ri për gazetarinë në Kosovë dhe audiencën shqipfolëse në Maqedoninë e Veriut",
-      "link": "https://abcnews.al/devolli-corporation-dhe-cnn-pergatiten-te-sjellin-d1-nje-kapitull-i-ri-per-gazetarine-ne-kosove-dhe-audiencen-shqipfolese-ne-maqedonine-e-veriut/",
-      "description": "Kosova do të hyjë së shpejti në një epokë të re të medias informative me nisjen e transmetimeve të D1, televizionit të parë informativ që do të transmetojë 24 orë në ditë, në shtatë ditë të javës. D1 është partneri zyrtar ekskluziv i CNN për Kosovën, si dhe audiencën shqipfolëse në Maqedoninë e Veri",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T19:28:07+00:00",
-      "dateStr": "31 Jul, 19:28",
-      "isNew": true,
-      "id": "abc71785526087"
-    },
-    {
-      "title": "Rrëzohet një avion F-35 pranë bazës ajrore amerikane në Kaliforni",
-      "link": "https://abcnews.al/rrezohet-nje-avion-f-35-prane-bazes-ajrore-amerikane-ne-kaliforni/",
-      "description": "Ekipet e emergjencës i janë përgjigjur rrëzimit të një avioni luftarak F-35 në Bazën Ajrore Miramar në San Diego, në shtetin amerikan të Kalifornisë, raportoi të premten televizioni lokal KGTV. Zyrtarë, të cilët nuk janë identifikuan me emër, kanë thënë se incidenti ka ndodhur rreth orës 10:00 sipas",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T19:18:35+00:00",
-      "dateStr": "31 Jul, 19:18",
-      "isNew": true,
-      "id": "abc81785525515"
-    },
-    {
-      "title": "Departamenti amerikan i Shtetit do të ofrojë pasaporta amerikane me foton e Trump",
-      "link": "https://abcnews.al/vihet-nen-kontroll-vatra-e-zjarrit-ne-kalimash/",
-      "description": "Amerikanët do të jenë në gjendje të marrin pasaporta me edicion të kufizuar që përmbajnë një fotografi të presidentit Donald Trump, njoftoi departamenti i shtetit. 27 agjencitë e pasaportave të departamentit në të gjithë vendin do të fillojnë të ofrojnë dokumentet speciale të udhëtimit muajin tjetër",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T19:08:47+00:00",
-      "dateStr": "31 Jul, 19:08",
-      "isNew": true,
-      "id": "abc91785524927"
+      "id": "abc91785526503"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
