@@ -1,8 +1,140 @@
 {
-  "lastUpdated": "2026-08-01T13:42:15.371169+00:00",
+  "lastUpdated": "2026-08-01T14:55:55.881406+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Analiza/ A rrezikon bota një luftë mes Ukrainës dhe Iranit?",
+      "link": "https://abcnews.al/analiza-a-rrezikon-bota-nje-lufte-mes-ukraines-dhe-iranit/",
+      "description": "Tensionet mes Ukrainës dhe Iranit janë përshkallëzuar, duke krijuar një front të ri indirekt në përplasjen më të gjerë gjeopolitike mes Rusisë, Perëndimit dhe aleatëve të tyre. Marrëdhëniet mes Kievit dhe Teheranit janë përkeqësuar kryesisht për shkak të mbështetjes ushtarake që Irani i ka dhënë Rus",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T14:32:20+00:00",
+      "dateStr": "01 Aug, 14:32",
+      "isNew": true,
+      "id": "abc01785594740"
+    },
+    {
+      "title": "Risi në mjekësi, veshkat nga derrat mund të shpëtojnë mijëra jetë",
+      "link": "https://abcnews.al/risi-ne-mjekesi-veshkat-nga-derra-mund-te-shpetojne-mijera-jete/",
+      "description": "Një nga zhvillimet më të rëndësishme të muajve të fundit në fushën e nefrologjisë lidhet me transplantin e veshkave nga derra të modifikuar gjenetikisht te njerëzit, shkruan corriere it Kjo teknologji, e njohur si ksenotransplantim, po shihet si një shpresë e madhe për mijëra pacientë që presin prej",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T14:24:05+00:00",
+      "dateStr": "01 Aug, 14:24",
+      "isNew": true,
+      "id": "abc11785594245"
+    },
+    {
+      "title": "PD kërkon rikthimin në 1996",
+      "link": "https://24-ore.com/pd-kerkon-rikthimin-ne-1996/",
+      "description": "Nga Artur Ajazi Partia Demokratike, në raportin përfundimtar për Komisionin e Reformës Territoriale, na paskësh pergatitur një “surprize”. Kërkon që vendi të ketë 100 bashki dhe komuna. Kërkon rikthimin në 1996, duke na kujtuar vitet e “arta” kur kryetarët e komunave vidhnin paratë e investimeve dhe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T14:20:38+00:00",
+      "dateStr": "01 Aug, 14:20",
+      "isNew": true,
+      "id": "24 01785594038"
+    },
+    {
+      "title": "Gonxhja: Kalaja e Rozafës hyn në një etapë të re investimesh",
+      "link": "https://24-ore.com/gonxhja-kalaja-e-rozafes-hyn-ne-nje-etape-te-re-investimesh/",
+      "description": "Kalaja e Rozafës në Shkodër po hyn në një etapë të re zhvillimi përmes projektit “Improving Cultural Tourism Potential through the Intervention at Rozafa Castle in Shkodra”, që synon përmirësimin e aksesit publik dhe turistik në një prej monumenteve më të rëndësishme të trashëgimisë kulturore në ven",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T14:19:58+00:00",
+      "dateStr": "01 Aug, 14:19",
+      "isNew": true,
+      "id": "24 11785593998"
+    },
+    {
+      "title": "Gjatë 24 orëve, janë privuar nga liria 18 shoferë për drejtim të papërgjegjshëm të automjeteve",
+      "link": "https://24-ore.com/gjate-24-oreve-jane-privuar-nga-liria-18-shofere-per-drejtim-te-papergjegjshem-te-automjeteve/",
+      "description": "Policia gjatë 24 orëve të fundit privuan nga liria 18 shoferë në të gjithë territorin e shtetit për shkak të drejtimit të papërgjegjshëm të automjetit, njofton Ministria e Punëve të Brendshme. Prej tyre, 17 shoferë drejtonin automjete pa patentë shoferi. Pesë u kapën në Shkup, tre në Prilep, ndërsa ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T14:16:00+00:00",
+      "dateStr": "01 Aug, 14:16",
+      "isNew": true,
+      "id": "24 21785593760"
+    },
+    {
+      "title": "​Deputetëve iu dërgohen ftesat për seancë konstituive, ky është rendi i ditës",
+      "link": "https://24-ore.com/deputeteve-iu-dergohen-ftesat-per-seance-konstituive-ky-eshte-rendi-i-dites/",
+      "description": "Ushtruesja e detyrës së presidentes dhe ish-kryetarja e Kuvendit, Albulena Haxhiu ua ka dërguar deputetëve të zgjedhur ftesat për seancën konstituive të Kuvendit. Seanca konstituive do të mbahet të enjten në orën 10:00. Në ftesë është bashkëngjitur edhe rendi i ditës së asaj seance. Si pikë e parë ë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T14:15:48+00:00",
+      "dateStr": "01 Aug, 14:15",
+      "isNew": true,
+      "id": "24 31785593748"
+    },
+    {
+      "title": "Daku shënon gol në Rusi, Rubin Kazan merr fitoren e parë në kampionat",
+      "link": "https://24-ore.com/daku-shenon-gol-ne-rusi-rubin-kazan-merr-fitoren-e-pare-ne-kampionat/",
+      "description": "Sirenat e Spartakut të Moskës nuk kanë shpërqëndruar Mirlind Dakun. Sulmuesi i Rubin Kazan ka gjetur golin e parë në sezonin e ri të Premier League ruse në javën e dytë të këtij turneu. Sulmuesi shqiptar ka qenë autori i golit të dytë të Rubin Kazan, i cili fitoi në transfertë 2-1 përballë Akron Tog",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T14:15:38+00:00",
+      "dateStr": "01 Aug, 14:15",
+      "isNew": true,
+      "id": "24 41785593738"
+    },
+    {
+      "title": "Alpinizmi në zi, humb jetën Nirmal Purja, alpinisti i rekordeve",
+      "link": "https://24-ore.com/alpinizmi-ne-zi-humb-jeten-nirmal-purja-alpinisti-i-rekordeve/",
+      "description": "Frika më e keqe u konfirmua. Nirmal Purja, alpinisti nepalez i cili u bë i famshëm pasi ngjiti 14 majat më të larta të tokës në 190 ditë, ndërroi jetë në Broad Peak (8,047 metra). Ekspedita në të cilën ai bënte pjesë, së bashku me nëntë alpinistë të tjerë, “u varros” nga një ortek të [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T14:15:25+00:00",
+      "dateStr": "01 Aug, 14:15",
+      "isNew": true,
+      "id": "24 51785593725"
+    },
+    {
+      "title": "Pezullohen ndërtimet në zonat turistike/ Qetësi për turistët, ndalimi nga 1 gushti deri në 15 shtator",
+      "link": "https://24-ore.com/pezullohen-ndertimet-ne-zonat-turistike-qetesi-per-turistet-ndalimi-nga-1-gushti-deri-ne-15-shtator/",
+      "description": "Hyn në fuqi vendimi për pezullimin e ndërtimeve gjatë sezonit turistik. Për një periudhë 45 ditore, nuk lejohet asnjë punim ndërtimi në terren qe cenon turistet. Kategoritë që përfshihen në masat e pezullimit janë, punimet në karriera, pikat e nxjerrjes, përpunimit dhe shfrytëzimit të inerteve si dh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T14:11:45+00:00",
+      "dateStr": "01 Aug, 14:11",
+      "isNew": true,
+      "id": "24 61785593505"
+    },
+    {
+      "title": "Çfarë ndodh kur mjekët pushojnë së foluri si shkencëtarë?!",
+      "link": "https://24-ore.com/cfare-ndodh-kur-mjeket-pushojne-se-foluri-si-shkencetare/",
+      "description": "Nga Neli Demi Ditët e fundit kam lexuar me vëmendje reagime të shumta rreth Anthony Fauci-t, pandemisë dhe dokumenteve që po publikohen në Shtetet e Bashkuara. Nëse këto dokumente provojnë gabime, manipulime apo edhe mashtrime, atëherë ato duhet të hetohen deri në fund. Askush nuk duhet të jetë mbi ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T14:11:10+00:00",
+      "dateStr": "01 Aug, 14:11",
+      "isNew": true,
+      "id": "24 71785593470"
+    },
+    {
+      "title": "FOKUS – UEFA: Kemi humbur besimin te drejtimi i FIFA-s nga Infantino",
+      "link": "https://24-ore.com/fokus-uefa-kemi-humbur-besimin-te-drejtimi-i-fifa-s-nga-infantino/",
+      "description": "– UEFA thotë se ka humbur besimin te drejtimi i FIFA-s nga Gianni Infantino, ndërsa pasojat nga plani i diskutueshëm i investimeve të anuluar po përshkallëzohen, shkruan BBC. Të shtunën, Infantino tha se FIFA nuk do të vazhdojë më me propozimin për t’u shitur investitorëve privatë pjesë të kompetici",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T14:10:58+00:00",
+      "dateStr": "01 Aug, 14:10",
+      "isNew": true,
+      "id": "24 81785593458"
+    },
+    {
+      "title": "Aksident i rëndë në një minierë në Bulqizë, materiali i kromit zë poshtë minatorin",
+      "link": "https://abcnews.al/aksident-i-rende-ne-nje-miniere-ne-bulqize-materiali-i-kromit-ze-poshte-minatorin/",
+      "description": "Një ngjarje e rëndë është regjistruar rreth orës 13:00 në Tërnovë e Madhe, në bashkinë Bulqizë, ku një minator dyshohet se ka rënë në një furnelë gjatë procesit të punës. Sipas informacionit paraprak,  40 vjeçari, banues në Burrel dhe me detyrë minator/brigadier në një subjekt privat, dyshohet se ës",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T13:55:13+00:00",
+      "dateStr": "01 Aug, 13:55",
+      "isNew": true,
+      "id": "abc21785592513"
+    },
     {
       "title": "Mela: U dhuruan 47 banesa sociale në Dibër",
       "link": "https://24-ore.com/mela-u-dhuruan-47-banesa-sociale-ne-diber/",
@@ -12,18 +144,7 @@
       "date": "2026-08-01T13:30:53+00:00",
       "dateStr": "01 Aug, 13:30",
       "isNew": true,
-      "id": "24 01785591053"
-    },
-    {
-      "title": "Zjarr i madh në Lezhë, rrezikohen banesat! Temperaturat e larta dhe era e fortë favorizojnë flakët",
-      "link": "https://24-ore.com/zjarr-i-madh-ne-lezhe-rrezikohen-banesat-temperaturat-e-larta-dhe-era-e-forte-favorizojne-flaket/",
-      "description": "Një zjarr i madh ra pak minuta më parë në Lagjen e Spitalit në Lezhë. Flakët nisën fillimisht në një grumbull mbeturinash dhe më pas u përhapën me shpejtësi në drejtim të banesave, duke krijuar rrezik serioz për banorët e zonës. Falë ndërhyrjes së shpejtë të forcave zjarrfikëse dhe strukturave të Em",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T13:30:42+00:00",
-      "dateStr": "01 Aug, 13:30",
-      "isNew": true,
-      "id": "24 11785591042"
+      "id": "24 91785591053"
     },
     {
       "title": "Zelensky: Ukrainës i kanë mbaruar raketat interceptuese “Patriot”",
@@ -34,95 +155,7 @@
       "date": "2026-08-01T13:28:58+00:00",
       "dateStr": "01 Aug, 13:28",
       "isNew": true,
-      "id": "abc01785590938"
-    },
-    {
-      "title": "Hapja e konsullatës serbe në Shkodër, reagon Marjana Koçeku: E papranueshme, të dielën protestë në qytet",
-      "link": "https://24-ore.com/hapja-e-konsullates-serbe-ne-shkoder-reagon-marjana-koceku-e-papranueshme-te-dielen-proteste-ne-qytet/",
-      "description": "Ish-deputetja e Partisë Socialiste, Marjana Koçeku, ka reaguar lidhur me diskutimet për hapjen e konsullatës serbe në qytetin e Shkodrës, duke e cilësuar këtë iniciativë si një akt të papranueshëm. Përmes një reagimi, Koçeku ka bërë me dije se ditën e diel në Shkodër do të organizohet një protestë k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T13:22:42+00:00",
-      "dateStr": "01 Aug, 13:22",
-      "isNew": true,
-      "id": "24 21785590562"
-    },
-    {
-      "title": "Shkrirja e Selenicës me Vlorën, kryebashkiaku Bellaj: Do mbetemi bashki më vete, plotësojmë çdo kusht",
-      "link": "https://24-ore.com/shkrirja-e-selenices-me-vloren-kryebashkiaku-bellaj-do-mbetemi-bashki-me-vete-plotesojme-cdo-kusht/",
-      "description": "Kryetari i Bashkisë së Selenicës, Nertil Bellaj, ka reaguar këtë të shtunë përmes një deklarate në rrjetin social Facebook, ndaj propozimeve për shkrirjen e kësaj bashkie dhe bashkimin e saj me Vlorën në kuadër të reformës së re administrativo-territoriale. Bellaj i është përgjigjur drejtpërdrejt de",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T13:22:33+00:00",
-      "dateStr": "01 Aug, 13:22",
-      "isNew": true,
-      "id": "24 31785590553"
-    },
-    {
-      "title": "Rama ndan pamjet nga punimet në aksin Elbasan-Qafë Thanë: Një nga investimet më të rëndësishme për vizionin “Shqipëria 2030″",
-      "link": "https://24-ore.com/rama-ndan-pamjet-nga-punimet-ne-aksin-elbasan-qafe-thane-nje-nga-investimet-me-te-rendesishme-per-vizionin-shqiperia-2030/",
-      "description": "Kryeministri Edi Rama ka ndarë në rrjetet sociale pamje nga ecuria e punimeve në aksin rrugor Elbasan-Qafë Thanë, duke e cilësuar atë si një nga investimet më të rëndësishme infrastrukturore në vend. Përmes një postimi në Facebook, Rama bëri me dije se punimet po vijojnë me ritme të larta dhe se ky ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T13:22:24+00:00",
-      "dateStr": "01 Aug, 13:22",
-      "isNew": true,
-      "id": "24 41785590544"
-    },
-    {
-      "title": "Çfarë janë Ceuta dhe Melilla dhe pse janë të rëndësishme në rrugën e emigrantëve?",
-      "link": "https://24-ore.com/cfare-jane-ceuta-dhe-melilla-dhe-pse-jane-te-rendesishme-ne-rrugen-e-emigranteve/",
-      "description": "Ditët e fundit, enklavat spanjolle në bregdetin afrikan janë vënë nën presion të madh, veçanërisht Ceuta. Mijëra emigrantë kaluan kufirin në të gjitha mënyrat e mundshme. Disa prej tyre notuan, disa prej tyre u ngjitën mbi gardhet mbrojtëse, kaluan me forcë kalimet kufitare dhe kaluan terren kodrino",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T13:22:09+00:00",
-      "dateStr": "01 Aug, 13:22",
-      "isNew": true,
-      "id": "24 51785590529"
-    },
-    {
-      "title": "Mbi 2 000 persona evakuohen për shkak të zjarreve në Francën juglindore",
-      "link": "https://24-ore.com/mbi-2-000-persona-evakuohen-per-shkak-te-zjarreve-ne-francen-juglindore/",
-      "description": "Sipas raportimeve të mediave lokale, 1,500 zjarrfikës, 10 aeroplanë zjarrfikës dhe 6 helikopterë po luftojnë me zjarrin që u rishfaq dje në provincën Var, si nga ajri ashtu edhe nga toka. Zjarri, i cili u përhap në një sipërfaqe prej më shumë se 1000 hektarësh në një kohë të shkurtër, ende nuk është",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T13:21:52+00:00",
-      "dateStr": "01 Aug, 13:21",
-      "isNew": true,
-      "id": "24 61785590512"
-    },
-    {
-      "title": "Dy dronë ukrainas fundosin anijen ruse në Detin e Zi, shpëtojnë 17 anëtarët e ekuipazhit (VIDEO)",
-      "link": "https://24-ore.com/dy-drone-ukrainas-fundosin-anijen-ruse-ne-detin-e-zi-shpetojne-17-anetaret-e-ekuipazhit-video/",
-      "description": "Dy dronë ukrainas goditën dhe fundosën një anije civile që i përkiste kompanisë shtetërore ruse të energjisë bërthamore Rosatom gjatë natës në Detin e Zi, tha të shtunën kreu i kompanisë, Alexei Likhachev. Të 17 anëtarët e ekuipazhit i mbijetuan sulmit ndaj anijes, e cila transportonte mallra, përfs",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T13:21:36+00:00",
-      "dateStr": "01 Aug, 13:21",
-      "isNew": true,
-      "id": "24 71785590496"
-    },
-    {
-      "title": "MADRID – Sánchez akuzon disa vende të BE-së për mungesë solidariteti ndaj Spanjës",
-      "link": "https://24-ore.com/madrid-sanchez-akuzon-disa-vende-te-be-se-per-mungese-solidariteti-ndaj-spanjes/",
-      "description": "MADRID, 1 gusht /ATSH -ANSA/ Në letrën e dërguar Brukselit, kryeministri spanjoll Pedro Sánchez e ka cilësuar reagimin e Bashkimit Evropian ndaj krizës në Ceuta si “mjaft asimetrik”. “Shumica” e qeverive “na kanë treguar mbështetje dhe solidaritet, duke ofruar ndihmë”, shkruan ai. “Të tjera, përkund",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T13:03:41+00:00",
-      "dateStr": "01 Aug, 13:03",
-      "isNew": true,
-      "id": "24 81785589421"
-    },
-    {
-      "title": "“Uniteti i UEFA-s bëri diferencën”, Duka flet pasi Infantino u tërhoq nga plani për privatizimin e garave të FIFA-s",
-      "link": "https://24-ore.com/uniteti-i-uefa-s-beri-diferencen-duka-flet-pasi-infantino-u-terhoq-nga-plani-per-privatizimin-e-garave-te-fifa-s/",
-      "description": "Presidenti i Federatës Shqiptare të Futbollit dhe njëherazi zëvendëspresident i UEFA-s, Armand Duka, ka reaguar pas vendimit të FIFA-s për t’u tërhequr nga plani për shitjen e një pjese të të drejtave të saj te investitorë privatë. Përmes një deklarate publike, Duka e ka mirëpritur tërheqjen e FIFA-",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T13:01:50+00:00",
-      "dateStr": "01 Aug, 13:01",
-      "isNew": true,
-      "id": "24 91785589310"
+      "id": "abc31785590938"
     },
     {
       "title": "Zjarr pranë banesave në Lagjen e Spitalit në Lezhë, flakët vihen nën kontroll",
@@ -133,7 +166,7 @@
       "date": "2026-08-01T12:53:21+00:00",
       "dateStr": "01 Aug, 12:53",
       "isNew": true,
-      "id": "abc11785588801"
+      "id": "abc41785588801"
     },
     {
       "title": "Francë, “qetësohen” zjarret/ Kthehen në banesa 200 mijë persona të zhvendosur",
@@ -144,7 +177,7 @@
       "date": "2026-08-01T12:52:48+00:00",
       "dateStr": "01 Aug, 12:52",
       "isNew": true,
-      "id": "abc21785588768"
+      "id": "abc51785588768"
     },
     {
       "title": "Shqipëria Sot me Jeta Kasemin, (01/08/2026)",
@@ -155,7 +188,7 @@
       "date": "2026-08-01T12:47:37+00:00",
       "dateStr": "01 Aug, 12:47",
       "isNew": true,
-      "id": "abc31785588457"
+      "id": "abc61785588457"
     },
     {
       "title": "Pezullohen ndërtimet në zonat turistike/ Qetësi për turistët, ndalimi nga 1 gushti deri në 15 shtator",
@@ -166,7 +199,7 @@
       "date": "2026-08-01T12:37:07+00:00",
       "dateStr": "01 Aug, 12:37",
       "isNew": true,
-      "id": "abc41785587827"
+      "id": "abc71785587827"
     },
     {
       "title": "“Dhimbje koke” për Asanin/ Në Iran kanë frikë se mos shqiptari do të largohet përsëri",
@@ -177,7 +210,7 @@
       "date": "2026-08-01T12:20:12+00:00",
       "dateStr": "01 Aug, 12:20",
       "isNew": true,
-      "id": "abc51785586812"
+      "id": "abc81785586812"
     },
     {
       "title": "Daku në Moskë për 11 milionë/ Spartak paguan klauzolën në kontratën e sulmuesit kuqezi",
@@ -188,40 +221,7 @@
       "date": "2026-08-01T12:15:36+00:00",
       "dateStr": "01 Aug, 12:15",
       "isNew": true,
-      "id": "abc61785586536"
-    },
-    {
-      "title": "Lokalizohet zjarri në Llogara/ Nën kontroll flakët pranë tunelit, ujë nga ajri me helikopter",
-      "link": "https://abcnews.al/lokalizohet-zjarri-ne-llogara-nen-kontroll-flaket-prane-tunelit-uje-nga-ajri-me-helikopter/",
-      "description": "Flakët që përfshinë kodrën pranë Palasës në jug të vendit po vihen nën kontroll. Pas ndërhyrjes nga ajri të dy  helikopterëve të ushtrisë të cilët prej mëngjesit të së shtunës nisën të hedhin ujë për neutralizmin e vatrës   pranë tunelit të Llogarasë duket se është arritur lokalizmi i zjarrit. Flakë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T12:03:05+00:00",
-      "dateStr": "01 Aug, 12:03",
-      "isNew": true,
-      "id": "abc71785585785"
-    },
-    {
-      "title": "Durmishi sërish “zotëri i vjetër”/ Juventus aktivizon sulmuesin shqiptar në miqësoren e dytë",
-      "link": "https://abcnews.al/durmishi-serish-zoteri-i-vjeter-juventus-aktivizon-sulmuesin-shqiptar-ne-miqesoren-e-dyte/",
-      "description": "E njohin mirë se kush është dhe duan t’ia japin shansin. Arman Durmishi është një investim I Juventusit, që ka shënuar shumë gola në kategoritë e të rinjve për “Zonjën e Vjetër”, dhe trajneri Luçiano Spaleti e aktivizoi për të dytën miqësore e radhazi. Piemontezët fituan 2-0 ndaj skuadrës franceze, ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T12:01:44+00:00",
-      "dateStr": "01 Aug, 12:01",
-      "isNew": true,
-      "id": "abc81785585704"
-    },
-    {
-      "title": "Real është “mbreti i futbollit”/ Klubi spanjoll është lëshuar “pa frena” në blerje lojtarësh",
-      "link": "https://abcnews.al/real-eshte-mbreti-i-futbollit-klubi-spanjoll-eshte-leshuar-pa-frena-ne-blerje-lojtaresh/",
-      "description": "Janë vërtet në një nivel tjetër. Jo më kot madrilenët cilësohen “mbretërit e futbollit”, dhe Reali si klubi më I madh I botës. Kjo verë vërtet vazhdon nën shenjën e shpenzimeve të jashtëzakonshme të Premier Ligës angleze, veçse në “Santiago Bernabeu” kanë përzgjedhur shumë emra dhe mjaft prej tyre y",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T11:52:26+00:00",
-      "dateStr": "01 Aug, 11:52",
-      "isNew": true,
-      "id": "abc91785585146"
+      "id": "abc91785586536"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
