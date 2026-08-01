@@ -1,32 +1,197 @@
 {
-  "lastUpdated": "2026-08-01T10:37:35.542084+00:00",
+  "lastUpdated": "2026-08-01T11:59:25.521021+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "VLEN: Ali Ahmeti sakrifikoi frymën e Marrëveshjes së Ohrit për Ballkanin e Hapur",
-      "link": "https://24-ore.com/vlen-ali-ahmeti-sakrifikoi-frymen-e-marreveshjes-se-ohrit-per-ballkanin-e-hapur/",
-      "description": "Partia VLEN reaguan sot duke thënë se marrëveshja e Ohrit, e cila i dha fund konfliktit të vitit 2001, për më shumë se dy dekada u përdor nga BDI-ja për përfitime politike, pasi sipas tyre, partia e Ahmetit e paraqiti atë si themelin e veprimit të saj politik dhe e vendosi në qendër të narrativës [&",
+      "title": "Privohen nga liria tre persona në Bllacë, u kapen duke ngarkuar mall të kontrabanduar nga Kosova",
+      "link": "https://24-ore.com/privohen-nga-liria-tre-persona-ne-bllace-u-kapen-duke-ngarkuar-mall-te-kontrabanduar-nga-kosova/",
+      "description": "Tre persona janë arrestuar mbrëmjen e 31 korrikut në zonën kufitare të Bllacës, pasi u kapën në flagrancë duke ngarkuar mall të kontrabanduar që ishte futur ilegalisht nga Kosova. Sipas policisë, rreth orës 23:00, nëpunës të Qendrës Rajonale për Çështje Kufitare – Veri, duke vepruar në bazë të një p",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-01T10:35:07+00:00",
-      "dateStr": "01 Aug, 10:35",
+      "date": "2026-08-01T11:55:50+00:00",
+      "dateStr": "01 Aug, 11:55",
       "isNew": true,
-      "id": "24 01785580507"
+      "id": "24 01785585350"
     },
     {
-      "title": "Vendosja e akullit në pjesën e pasme të qafës mund të ndihmojë në qetësimin e ankthit",
-      "link": "https://24-ore.com/vendosja-e-akullit-ne-pjesen-e-pasme-te-qafes-mund-te-ndihmoje-ne-qetesimin-e-ankthit/",
+      "title": "Real është “mbreti i futbollit”/ Klubi spanjoll është lëshuar “pa frena” në blerje lojtarësh",
+      "link": "https://abcnews.al/real-eshte-mbreti-i-futbollit-klubi-spanjoll-eshte-leshuar-pa-frena-ne-blerje-lojtaresh/",
+      "description": "Janë vërtet në një nivel tjetër. Jo më kot madrilenët cilësohen “mbretërit e futbollit”, dhe Reali si klubi më I madh I botës. Kjo verë vërtet vazhdon nën shenjën e shpenzimeve të jashtëzakonshme të Premier Ligës angleze, veçse në “Santiago Bernabeu” kanë përzgjedhur shumë emra dhe mjaft prej tyre y",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T11:52:26+00:00",
+      "dateStr": "01 Aug, 11:52",
+      "isNew": true,
+      "id": "abc01785585146"
+    },
+    {
+      "title": "BDI: Skandal i paprecedentë – Qeveria VMRO- VLEN ia ndau komunitetit serb rreth 90% të granteve të destinuara për zbatimin e Marrëveshjes së Ohrit",
+      "link": "https://24-ore.com/bdi-skandal-i-paprecedente-qeveria-vmro-vlen-ia-ndau-komunitetit-serb-rreth-90-te-granteve-te-destinuara-per-zbatimin-e-marreveshjes-se-ohrit/",
+      "description": "Ajo që u konfirmua publikisht nga vetë përfaqësuesit e Qeverisë përbën një skandal të paprecedentë dhe një alarm serioz për drejtimin në të cilin po shtyhet shteti.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T11:50:48+00:00",
+      "dateStr": "01 Aug, 11:50",
+      "isNew": true,
+      "id": "24 11785585048"
+    },
+    {
+      "title": "Rama nxjerr pamjet: Punimet në rrugën Elbasan-Qafë Thanë vijojnë me ritme të larta",
+      "link": "https://24-ore.com/rama-nxjerr-pamjet-punimet-ne-rrugen-elbasan-qafe-thane-vijojne-me-ritme-te-larta/",
+      "description": "Kryeministri Edi Rama ka postuar sot në 1 gusht pamje nga punimet në rrugën nacionale Elbasan- Qafë Thanë. Rama shprehet se punimet në këtë aks vijojnë me ritme të larta. Kreu i qeverisë shton se është gjithnjë e më pranë përfundimi i një prej investimeve më të rëndësishme infrastrukturore në vend. ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T11:49:55+00:00",
+      "dateStr": "01 Aug, 11:49",
+      "isNew": true,
+      "id": "24 21785584995"
+    },
+    {
+      "title": "Dyshimet për varrezë masive, Kurti në Zubin Potok: Gërmimet do të vazhdojnë ndoshta edhe me muaj, eshtrat e gjetura janë të shpërndara dhe buzë një përroi",
+      "link": "https://24-ore.com/dyshimet-per-varreze-masive-kurti-ne-zubin-potok-germimet-do-te-vazhdojne-ndoshta-edhe-me-muaj-eshtrat-e-gjetura-jane-te-shperndara-dhe-buze-nje-perroi/",
+      "description": "“Është dhimbje, pikëllim e mundim të shohësh se si 27 vjet pas përfundimit të luftës, e vërteta që u përpoqën ta heshtin e zhdukin, bërtet dhe sa ishin ne aty u zbuluan edhe disa kocka të reja meqenëse gërmimet po vazhdojnë”, ka thënë Kurti. Ai falënderoi Institutin e Mjekësisë Ligjore, ekspertët e ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T11:35:34+00:00",
+      "dateStr": "01 Aug, 11:35",
+      "isNew": true,
+      "id": "24 31785584134"
+    },
+    {
+      "title": "“Punimet në aksin Elbasan–Qafë Thanë vijojnë me ritme të larta”/ Rama ndan pamjet nga projekti infrastrukturor",
+      "link": "https://abcnews.al/punimet-ne-aksin-elbasan-qafe-thane-vijojne-me-ritme-te-larta-rama-ndan-pamjet-nga-projekti-infrastrukturor/",
+      "description": "Punimet në rrugën Elbasan–Qafë Thanë po vijojnë me ritme të larta, duke e çuar çdo ditë e më pranë përfundimin një prej projekteve më të rëndësishme infrastrukturore në Shqipëri. Pamjet e transformimit të këtij aksi janë ndarë së fundmi nga Kryeministri Edi Rama, i cili theksoi përkushtimin për ndër",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T11:32:05+00:00",
+      "dateStr": "01 Aug, 11:32",
+      "isNew": true,
+      "id": "abc11785583925"
+    },
+    {
+      "title": "BDI: 300 milionë denarë investime vetëm në letër, ndërsa shkurtohen fondet shëndetësore",
+      "link": "https://24-ore.com/bdi-300-milione-denare-investime-vetem-ne-leter-ndersa-shkurtohen-fondet-shendetesore/",
+      "description": "&#8220;Dokumentet e ribalancit të buxhetit të Ministrisë së Shëndetësisë zbulojnë një skemë seriozisht shqetësuese: nga njëra anë, Qeveria paraqet qindra milionë denarë investime kapitale pa mbulim të qartë financiar, ndërsa nga ana tjetër shkurton fondet për programet preventive, kontrollet e fëmij",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T11:26:35+00:00",
+      "dateStr": "01 Aug, 11:26",
+      "isNew": true,
+      "id": "24 41785583595"
+    },
+    {
+      "title": "BDI: Gjithsej 300 milionë denarë investime vetëm në letër, ndërsa shkurtohen fondet për parandalimin dhe mbrojtjen e shëndetit të qytetarëve",
+      "link": "https://24-ore.com/bdi-gjithsej-300-milione-denare-investime-vetem-ne-leter-ndersa-shkurtohen-fondet-per-parandalimin-dhe-mbrojtjen-e-shendetit-te-qytetareve/",
+      "description": "Dokumentet e ribalancit të buxhetit të Ministrisë së Shëndetësisë zbulojnë një skemë seriozisht shqetësuese: nga njëra anë, Qeveria paraqet qindra milionë denarë investime kapitale pa mbulim të qartë financiar, ndërsa nga ana tjetër shkurton fondet për programet preventive, kontrollet e fëmijëve, sh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T11:26:24+00:00",
+      "dateStr": "01 Aug, 11:26",
+      "isNew": true,
+      "id": "24 51785583584"
+    },
+    {
+      "title": "Humbën rrugën në Karaburun/ Shpëtohen dy të miturit gjermanë pas disa orësh kërkime",
+      "link": "https://abcnews.al/humben-rrugen-ne-karaburun-shpetohen-dy-te-miturit-gjermane-pas-disa-oresh-kerkime/",
+      "description": "Gjatë natës së mbrëmshme, dy të mitur me shtetësi gjermane humbën rrugën në zonën e Karaburunit, duke kërkuar ndihmë përmes sinjalit SOS. Menjëherë pas marrjes së njoftimit, në terren u angazhuan shërbimet e Policisë, ekipi i Kërkim-Shpëtimit, si dhe punonjës të Administratës së Zonave të Mbrojtura,",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T11:24:40+00:00",
+      "dateStr": "01 Aug, 11:24",
+      "isNew": true,
+      "id": "abc21785583480"
+    },
+    {
+      "title": "Nga festa në bord te përballja me policinë, anija turistike në Vlorë gjobitet me 400 mijë lekë",
+      "link": "https://24-ore.com/nga-festa-ne-bord-te-perballja-me-policine-anija-turistike-ne-vlore-gjobitet-me-400-mije-leke/",
+      "description": "Një anije turistike është ndëshkuar me masë administrative prej 400 mijë lekësh të rinj, pasi është konstatuar duke lëshuar muzikë me volum mbi normat e lejuara gjatë lundrimit pas mesnate në zonën bregdetare të Vlorës. Ndërhyrja e Policisë erdhi pas ankesave të qytetarëve për zhurmat e krijuara. Sh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T11:21:02+00:00",
+      "dateStr": "01 Aug, 11:21",
+      "isNew": true,
+      "id": "24 61785583262"
+    },
+    {
+      "title": "Berisha sulmon hartën e re territoriale të PS: Akt antishqiptar, Rama synon zbrazjen e Shqipërisë!",
+      "link": "https://24-ore.com/berisha-sulmon-harten-e-re-territoriale-te-ps-akt-antishqiptar-rama-synon-zbrazjen-e-shqiperise/",
+      "description": "Kreu i PD, Sali Berisha e quan një akt antishqiptar propozimin e Partisë Socialsite për hartën e re territoriale që parashikon shkrirjen e 15 bashkive. Në një komunikim me qytetarët në rrjetet sociale, Berisha tha se kryeministri synon zbrazjen e Shqipërisë. “Edi Rama është një anti-shqiptar me misi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T11:20:43+00:00",
+      "dateStr": "01 Aug, 11:20",
+      "isNew": true,
+      "id": "24 71785583243"
+    },
+    {
+      "title": "Ora e Fundit me Emilian Islami, (31/07/2026)",
+      "link": "https://abcnews.al/ora-e-fundit-me-emilian-islami-31-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T11:20:36+00:00",
+      "dateStr": "01 Aug, 11:20",
+      "isNew": true,
+      "id": "abc31785583236"
+    },
+    {
+      "title": "PD duhet të na tregojë hartën e saj të bashkive",
+      "link": "https://24-ore.com/pd-duhet-te-na-tregoje-harten-e-saj-te-bashkive/",
+      "description": "Nga Ylli Manjani  Të thuash se harta e re e bashkive që propozon PS “nuk vlen”, është shumë pak për një parti si PD, e cila ka qeverisur këtë vend dhe ka qenë vetë autore e reformave të rëndësishme administrative. Kritika, sado e fortë qoftë, nuk mund të zëvendësojë alternativën. Kam frikë se, edhe ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T11:19:52+00:00",
+      "dateStr": "01 Aug, 11:19",
+      "isNew": true,
+      "id": "24 81785583192"
+    },
+    {
+      "title": "“Science Direct”: Një copë akull në qafë mund të ndihmojë në uljen e ankthit",
+      "link": "https://24-ore.com/science-direct-nje-cope-akull-ne-qafe-mund-te-ndihmoje-ne-uljen-e-ankthit/",
       "description": "&#8211; Një këshillë që është bërë virale në rrjetet sociale, pretendon se vendosja e një kubi akulli në pjesën e pasme të qafës, mund të qetësojë ankthin brenda pak minutash, sipas “Science Direct”. Ekspertët thonë se ekspozimi i shkurtër ndaj të ftohtit, mund të ndihmojë përkohësisht disa persona ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-01T10:33:41+00:00",
-      "dateStr": "01 Aug, 10:33",
+      "date": "2026-08-01T11:18:42+00:00",
+      "dateStr": "01 Aug, 11:18",
       "isNew": true,
-      "id": "24 11785580421"
+      "id": "24 91785583122"
     },
     {
-      "title": "Shqipëria në “top listë” e të huajave për pensionim/ Forbes: Ndër 24 vendet më të mirë për të kaluar pensionin",
+      "title": "Zjarri në Halilaj të Krujës hyn në ditën e 11-të, vatrat mbeten ende aktive",
+      "link": "https://abcnews.al/zjarri-ne-halilaj-te-krujes-hyn-ne-diten-e-11-te-vatrat-mbeten-ende-aktive/",
+      "description": "Zjarri pranë fshatit Halilaj në Krujë vijon të jetë aktiv edhe në ditën e 11-të, ndërsa disa vatra ende nuk janë neutralizuar plotësisht. Forcat zjarrfikëse të Krujës po punojnë herë pas here për izolimin e vatrave të zjarrit pranë vendgrumbullimit të mbetjeve, por ndërkohë janë shfaqur edhe vatra t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T11:08:43+00:00",
+      "dateStr": "01 Aug, 11:08",
+      "isNew": true,
+      "id": "abc41785582523"
+    },
+    {
+      "title": "Ministri izraelit refuzon marrëveshjen me Hamasin: Vrasjet dhe shpërngulja e palestinezëve duhet të vazhdojnë",
+      "link": "https://abcnews.al/ministri-izraelit-refuzon-marreveshjen-me-hamasin-vrasjet-dhe-shperngulja-e-palestinezeve-duhet-te-vazhdojne/",
+      "description": "Ministri izraelit i Sigurisë Kombëtare, Itamar Ben-Gvir, ka refuzuar publikisht marrëveshjen për çarmatimin e plotë të Hamasit dhe grupeve të tjera të armatosura në Gaza, duke deklaruar se operacionet ushtarake izraelite duhet të vazhdojnë. Komiteti për Paqe njoftoi më herët se ishte arritur një mar",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T11:02:04+00:00",
+      "dateStr": "01 Aug, 11:02",
+      "isNew": true,
+      "id": "abc51785582124"
+    },
+    {
+      "title": "Kontrolle me radarë, shtohen gjobat/ Policia: Është shtuar monitorimi në rrugë me pajisje inteligjente",
+      "link": "https://abcnews.al/kontrolle-me-radare-shtohen-gjobat-policia-eshte-shtuar-monitorimi-ne-rruge-me-pajisje-inteligjente/",
+      "description": "Më shumë kontrolle në rrugë, më shumë gjoba, por edhe një ulje e rasteve penale në qarkullimin rrugor. Ky është bilanci i Policisë Rrugore për gjashtëmujorin e parë të vitit 2026. Të dhënat që ABC News ka siguruar tregojnë se, krahasuar me të njëjtën periudhë të vitit 2025, është regjistruar një rën",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T10:48:11+00:00",
+      "dateStr": "01 Aug, 10:48",
+      "isNew": true,
+      "id": "abc61785581291"
+    },
+    {
+      "title": "Shqipëria në “top listën” e të huajave për pensionim/ Forbes: Ndër 24 vendet më të mira për të kaluar pensionin",
       "link": "https://abcnews.al/shqiperia-ne-top-liste-e-te-huajave-per-pensionim-forbes-nder-24-vendet-me-te-mire-per-te-kaluar-pensionin/",
       "description": "Revista prestigjoze amerikane, Forbes rendit Shqipërinë si një nga 24 vendet më të mira për tu pensionuar jashtë vendit. Artikulli i Forbes i drejtohet kryesisht amerikanëve, sipas së cilës, për shkak të klimës politike dhe ekonomike në SHBA, po shtyhen më shumë të pensionohen jashtë vendit të tyre.",
       "source": "ABC News",
@@ -34,95 +199,7 @@
       "date": "2026-08-01T10:32:19+00:00",
       "dateStr": "01 Aug, 10:32",
       "isNew": true,
-      "id": "abc01785580339"
-    },
-    {
-      "title": "Nga jugosllavizimi i historisë te serbizimi i debatit politik",
-      "link": "https://24-ore.com/nga-jugosllavizimi-i-historise-te-serbizimi-i-debatit-politik/",
-      "description": "Nga Marenglen Kasmi Lajmi për hapjen e mundshme të një Konsullate të Republikës së Shqipërisë në Luginën e Preshevës dhe i një konsullate serbe në Shkodër, riktheu edhe një herë retorikën e zakonshme të “patriotizmit” shqiptar. Diskutimi u zhvendos menjëherë nga analiza e interesit kombëtar te akuza",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T10:31:29+00:00",
-      "dateStr": "01 Aug, 10:31",
-      "isNew": true,
-      "id": "24 21785580289"
-    },
-    {
-      "title": "SHBA – Trump kërcënon Iranin me sulme të reja, tensionet përshkallëzohen në Lindjen e Mesme",
-      "link": "https://24-ore.com/shba-trump-kercenon-iranin-me-sulme-te-reja-tensionet-pershkallezohen-ne-lindjen-e-mesme/",
-      "description": "&#8211; Presidenti i SHBA-së, Donald Trump, ka paralajmëruar se Shtetet e Bashkuara të Amerikes do të vazhdojnë sulmet ndaj Iranit, ndërsa Uashingtoni kërkon rihapjen e Ngushticës së Hormuzit, një nga rrugët më të rëndësishme të transportit të naftës në botë, sipas AP. Gjatë një takimi me kabinetin ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T10:30:11+00:00",
-      "dateStr": "01 Aug, 10:30",
-      "isNew": true,
-      "id": "24 31785580211"
-    },
-    {
-      "title": "UEFA Europa League/ Treimanis do të jetë arbitri i ndeshjes Shamrock Rovers–Egnatia",
-      "link": "https://24-ore.com/uefa-europa-league-treimanis-do-te-jete-arbitri-i-ndeshjes-shamrock-rovers-egnatia/",
-      "description": "UEFA ka njoftuar se arbitri i ndeshjes mes Shamrock Rovers dhe Egnatia do të jetë Andris Treimanis. Arbitri nga Letonia do të jetë kryesori i këtij dueli, i cili do të luhet më 4 gusht në Dublin. Për 41-vjeçarin kjo ndeshje nuk do të jetë e para këtë sezon pasi UEFA i ka besuar edhe [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T10:25:31+00:00",
-      "dateStr": "01 Aug, 10:25",
-      "isNew": true,
-      "id": "24 41785579931"
-    },
-    {
-      "title": "Pezullohen punimet e ndërtimit në zonat turistike deri më 15 shtator",
-      "link": "https://24-ore.com/pezullohen-punimet-e-ndertimit-ne-zonat-turistike-deri-me-15-shtator/",
-      "description": "Qeveria ka vendosur pezullimin e përkohshëm të punimeve të ndërtimit dhe aktiviteteve të lidhura me to në zonat turistike gjatë sezonit veror. Masa hyn menjëherë në fuqi dhe do të jetë në zbatim deri më 15 shtator 2026. Lajmin e bëri të ditur ministri i Turizmit, Blendi Gonxhja, i cili sqaroi se ven",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T10:22:28+00:00",
-      "dateStr": "01 Aug, 10:22",
-      "isNew": true,
-      "id": "24 51785579748"
-    },
-    {
-      "title": "Selenica kundër bashkimit me Vlorën, banorët zhvillojnë Kuvendin për të mbrojtur bashkinë",
-      "link": "https://24-ore.com/selenica-kunder-bashkimit-me-vloren-banoret-zhvillojne-kuvendin-per-te-mbrojtur-bashkine/",
-      "description": "Banorë, intelektualë, përfaqësues të Bashkisë së Selenicës dhe të fshatrave të zonës janë mbledhur në qendër të qytetit për të zhvilluar Kuvendin e Selenicës, ku po diskutohet kundërshtimi ndaj reformës së re territoriale që parashikon shkrirjen e bashkisë. Gjatë takimit, pjesëmarrësit shprehën argu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T10:22:14+00:00",
-      "dateStr": "01 Aug, 10:22",
-      "isNew": true,
-      "id": "24 61785579734"
-    },
-    {
-      "title": "Muzikë me zë të lartë pas mesnate në det, gjobitet me 400 mijë lekë anija turistike në Vlorë",
-      "link": "https://24-ore.com/muzike-me-ze-te-larte-pas-mesnate-ne-det-gjobitet-me-400-mije-leke-anija-turistike-ne-vlore/",
-      "description": "Një anije turistike është ndëshkuar me masë administrative prej 400 mijë lekësh të rinj, pasi është konstatuar duke lëshuar muzikë me volum mbi normat e lejuara gjatë lundrimit pas mesnate në zonën bregdetare të Vlorës. Ndërhyrja e Policisë erdhi pas ankesave të qytetarëve për zhurmat e krijuara. Sh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T10:21:59+00:00",
-      "dateStr": "01 Aug, 10:21",
-      "isNew": true,
-      "id": "24 71785579719"
-    },
-    {
-      "title": "Belshi kundër hartës së re territoriale, banorët protestojnë ndaj bashkimit me Elbasanin",
-      "link": "https://24-ore.com/belshi-kunder-hartes-se-re-territoriale-banoret-protestojne-ndaj-bashkimit-me-elbasanin/",
-      "description": "Kundërshtimet ndaj hartës së re administrativo-territoriale janë shtrirë edhe në Belsh, ku këtë të shtunë banorët kanë dalë në protestë kundër propozimit për bashkimin e bashkisë së tyre me Bashkinë e Elbasanit. Qytetarët shprehen se kjo reformë rrezikon të dobësojë përfaqësimin lokal dhe të cenojë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T10:21:46+00:00",
-      "dateStr": "01 Aug, 10:21",
-      "isNew": true,
-      "id": "24 81785579706"
-    },
-    {
-      "title": "Policia kontrolle të shtuara në Tiranë, sekuestron armë të ftohta dhe lëndë narkotike, shoqërohen 6 persona",
-      "link": "https://24-ore.com/policia-kontrolle-te-shtuara-ne-tirane-sekuestron-arme-te-ftohta-dhe-lende-narkotike-shoqerohen-6-persona/",
-      "description": "Drejtoria Vendore e Policisë Tiranë ka intensifikuar kontrollet në terren me qëllim parandalimin dhe goditjen e paligjshmërisë, si dhe rritjen e parametrave të sigurisë në qytet. Forca e Posaçme Operacionale dhe Forca e Posaçme “Shqiponja”, në bashkëpunim me shërbimet e Policisë Rrugore, kanë zhvill",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T10:21:33+00:00",
-      "dateStr": "01 Aug, 10:21",
-      "isNew": true,
-      "id": "24 91785579693"
+      "id": "abc71785580339"
     },
     {
       "title": "Qetësohet kriza në Ceuta/ Shumica e emigrantëve kthehen nga enklava spanjolle në Marok",
@@ -133,7 +210,7 @@
       "date": "2026-08-01T10:20:03+00:00",
       "dateStr": "01 Aug, 10:20",
       "isNew": true,
-      "id": "abc11785579603"
+      "id": "abc81785579603"
     },
     {
       "title": "Greqi, ishujt në flakë/ Zjarret në Kretë, Paros dhe Lesbos. Digjen shtëpi, evakuohen banorët",
@@ -144,84 +221,7 @@
       "date": "2026-08-01T10:06:50+00:00",
       "dateStr": "01 Aug, 10:06",
       "isNew": true,
-      "id": "abc21785578810"
-    },
-    {
-      "title": "Pas kaosit në kufirin Spanjë-Marok shkon në 57 numri i personave të vdekur",
-      "link": "https://abcnews.al/pas-kaosit-ne-kufirin-spanje-marok-shkon-ne-57-numri-i-personave-te-vdekur/",
-      "description": "Spanja ka njoftuar se ka arritur të frenojë valën masive të emigrantëve që hynë në enklavën spanjolle të Ceutës në Afrikën e Veriut, ndërsa shumica e më shumë se 50 mijë personave që kaluan kufirin me rrugë tokësore dhe detare tashmë po kthehen vullnetarisht në Marok. Përfaqësuesi i qeverisë spanjol",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T09:37:02+00:00",
-      "dateStr": "01 Aug, 09:37",
-      "isNew": true,
-      "id": "abc31785577022"
-    },
-    {
-      "title": "SHBA mund të nisë sulme të reja ushtarake ndaj Iranit",
-      "link": "https://abcnews.al/shba-mund-te-nise-sulme-te-reja-ushtarake-ndaj-iranit/",
-      "description": "Shtetet e Bashkuara mund të ndërmarrin sulme të reja ushtarake ndaj Iranit që këtë fundjavë, kanë konfirmuar për CNN dy zyrtarë amerikanë të njohur me planet e administratës. Edhe pse përmasat e sakta të operacionit dhe objektivat konkrete ende nuk janë përcaktuar plotësisht, zyrtarët paralajmërojnë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T09:20:15+00:00",
-      "dateStr": "01 Aug, 09:20",
-      "isNew": true,
-      "id": "abc41785576015"
-    },
-    {
-      "title": "Vlorë/ Muzikë me volum të lartë pas mesnate, 400 mijë lekë gjobë për anijen turistike",
-      "link": "https://abcnews.al/vlore-muzike-me-volum-te-larte-pas-mesnate-400-mije-leke-gjobe-per-anijen-turistike/",
-      "description": "Vlorë / Muzikë mbi normat e lejuara pas orës 24:00 gjatë lundrimit, ndëshkohet me 400 000 lekë gjobë administratori i një anijeje turistike. Pas ankesave të qytetarëve, shërbimet e Policisë kanë ndërhyrë në afërsi të zonës së Ujit të Ftohtë, në drejtim të Lungomares, duke konstatuar një anije turist",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T08:55:54+00:00",
-      "dateStr": "01 Aug, 08:55",
-      "isNew": true,
-      "id": "abc51785574554"
-    },
-    {
-      "title": "Orteku në Pakistan, vazhdojnë kërkimet për shtatë alpinistët e zhdukur",
-      "link": "https://abcnews.al/orteku-ne-pakistan-vazhdojne-kerkimet-per-shtate-alpinistet-e-zhdukur/",
-      "description": "Ekipet e shpëtimit në Pakistan po vazhdojnë për të dytën ditë radhazi operacionin e kërkimit për shtatë alpinistë që rezultojnë të zhdukur pas një orteku në malin Broad Peak, maja e 12-të më e lartë në botë. Mes të zhdukurve është edhe alpinisti i njohur me origjinë nga Nepali, Nirmal Purja, i cili ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T08:40:32+00:00",
-      "dateStr": "01 Aug, 08:40",
-      "isNew": true,
-      "id": "abc61785573632"
-    },
-    {
-      "title": "VIDEO/ Zjarr në Palasë prej mesnatës, ndërhyjnë edhe dy helikopterë",
-      "link": "https://abcnews.al/video-zjarr-ne-palase-prej-mesnates-nderhyjne-edhe-dy-helikoptere/",
-      "description": "Prej mesnates vijon Nje vater zjarri në zonën e Llogarasë, pranë tunelit, ku flakët prej orësh po përfshijnë sipërfaqe me shkurre dhe pyll. Në terren ndodhen dhjetëra forca zjarrfikëse, efektivë të Ushtrisë dhe struktura të tjera të emergjencave civile, të angazhuara për izolimin dhe shuarjen e vatr",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T08:24:07+00:00",
-      "dateStr": "01 Aug, 08:24",
-      "isNew": true,
-      "id": "abc71785572647"
-    },
-    {
-      "title": "Shqipëria miraton për herë të parë Planin Kombëtar për Eliminimin e Hepatiteve Virale",
-      "link": "https://abcnews.al/shqiperia-miraton-per-here-te-pare-planin-kombetar-per-eliminimin-e-hepatiteve-virale/",
-      "description": "Shqipëria ka miratuar për herë të parë Planin Kombëtar për Eliminimin e Hepatiteve Virale, një iniciativë e bërë me dije nga Kryeministri Rama. Ministria e Shëndetësisë dhe Mirëqenies Sociale, Evis Sala e vlerëson këtë plan si një hallkë kyçe në luftën kundër kancerit, meqenëse hepatitet virale përb",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T08:19:13+00:00",
-      "dateStr": "01 Aug, 08:19",
-      "isNew": true,
-      "id": "abc81785572353"
-    },
-    {
-      "title": "Armëmbajtje pa leje dhe shpërndarje të lëndëve narkotike/ Vlorë, pranga 4 personave",
-      "link": "https://abcnews.al/armembajtje-pa-leje-dhe-shperndarje-te-lendeve-narkotike-vlore-pranga-4-personave/",
-      "description": "Katër persona kanë rënë në prangat e Policisë gjatë dy operacioneve të zhvilluara në 24 orët e fundit në Vlorë dhe Sarandë, të koduara &#8220;Siguria&#8221; dhe &#8220;Transportuesit&#8221;, kundër armëmbajtjes pa leje dhe shpërndarjes së lëndëve narkotike. Gjatë operacioneve u sekuestruan një armë ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T07:58:24+00:00",
-      "dateStr": "01 Aug, 07:58",
-      "isNew": true,
-      "id": "abc91785571104"
+      "id": "abc91785578810"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
