@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-08-01T20:43:58.604838+00:00",
+  "lastUpdated": "2026-08-01T21:52:10.330323+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Qëlloi me armë ndaj automjetit të 30-vjeçarit në Lezhë, identifikohet dhe shpallet në kërkim autori i dyshuar",
+      "link": "https://24-ore.com/qelloi-me-arme-ndaj-automjetit-te-30-vjecarit-ne-lezhe-identifikohet-dhe-shpallet-ne-kerkim-autori-i-dyshuar/",
+      "description": "Një ngjarje e rëndë është shënuar pasditen e kësaj të shtune në Lezhë, ku një automjet është qëlluar me armë zjarri, por fatmirësisht pa pasoja në njerëz. Sipas policisë, rreth orës 18:00, shtetasi Gj. Gj., i cili lëvizte me një automjet tip “Audi”, ka qëlluar me armë zjarri në drejtim të një automj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T21:20:46+00:00",
+      "dateStr": "01 Aug, 21:20",
+      "isNew": true,
+      "id": "24 01785619246"
+    },
+    {
+      "title": "Rama: Kërcënimi më i madh për Shqipërinë janë vetë shqiptarët, duhet të bëjmë më shumë për integrimin në BE",
+      "link": "https://24-ore.com/rama-kercenimi-me-i-madh-per-shqiperine-jane-vete-shqiptaret-duhet-te-bejme-me-shume-per-integrimin-ne-be/",
+      "description": "Kryeministri Edi Rama ka deklaruar se kërcënimi më i madh për Shqipërinë nuk vjen nga faktorë të jashtëm, por nga vetë shqiptarët, nëse vendi nuk vijon përpjekjet për reforma dhe afrimin me Bashkimin Evropian. Deklarata e Ramës u bë gjatë një interviste me Tik-Tokeri e njohur, Max Klymenko, gjatë sa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T21:20:33+00:00",
+      "dateStr": "01 Aug, 21:20",
+      "isNew": true,
+      "id": "24 11785619233"
+    },
+    {
+      "title": "I riu qëllohet me armë/ 30-vjeçari po lëviztë me makinë, i shpëton sulmit",
+      "link": "https://abcnews.al/i-riu-qellohet-me-arme-30-vjecari-po-levizte-me-makine-i-shpeton-sulmit/",
+      "description": "LEZHË- Të shtëna me armë zjarri janë regjistruar pasditen e së shtunës në Lezhë, pranë Urës së Milotit. Sipas informacioneve paraprake nga Policia e Lezhës, dyshohet se objektiv ka qenë një 30-vjeçar nga Rubiku, i cili lëvizte me një automjet tip &#8220;Audi&#8221;. Ndërkohë, edhe autori i dyshuar i",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T21:12:47+00:00",
+      "dateStr": "01 Aug, 21:12",
+      "isNew": true,
+      "id": "abc01785618767"
+    },
+    {
+      "title": "Rama: Shumë punë për në BE/ Kryeministri mendon se shqiptarët duhet të jenë të vetëdijshëm për ngarkesën",
+      "link": "https://abcnews.al/rama-shume-pune-per-ne-be-kryeministri-mendon-se-shqiptaret-duhet-te-jene-te-vetedijshem-per-ngarkesen/",
+      "description": "TIRANË- Kryeministri Edi Rama mendon se shqiptarët duhet të jenë të vetëdijshëm se i pret një punë e madhe përpara dhe të vazhdojnë të jenë të përqendruar drejt hyrjes në Bashkimin Evropian. Kreu i ekzekutivit u intervistua nga TikToker-i  i njohur Max Klymenko gjatë Samitit të NATO-s, që u mbajt di",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T21:03:32+00:00",
+      "dateStr": "01 Aug, 21:03",
+      "isNew": true,
+      "id": "abc11785618212"
+    },
+    {
+      "title": "Shkelësit e ligjit në “lupën” e Policisë së Shtetit/ Lamallari nxjerr pamjet: Siguria e qytetarëve e para",
+      "link": "https://abcnews.al/shkelesit-e-ligjit-ne-lupen-e-policise-se-shtetit-lamallari-nxjerr-pamjet-siguria-e-qytetareve-e-para/",
+      "description": "TIRANË- Ministri i Brendshëm, Besfort Lamallari, ka publikuar pamje nga operacionet e fundit të Policisë së Shtetit, e cila vijon kontrollet në rrugët e Tiranës për të garantuar sigurinë e qytetarëve. Sipas tij, në fokus të kontrolleve kanë qenë mjetet luksoze me xhama të errësuar në kundërshtim me ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T20:50:40+00:00",
+      "dateStr": "01 Aug, 20:50",
+      "isNew": true,
+      "id": "abc21785617440"
+    },
     {
       "title": "OBSH: Korporatat e ushqimit ultra të përpunuar pengojnë përpjekjet për të trajtuar krizën e obezitetit",
       "link": "https://abcnews.al/obsh-korporatat-e-ushqimit-ultra-te-perpunuar-pengojne-perpjekjet-per-te-trajtuar-krizen-e-obezitetit/",
@@ -12,7 +67,7 @@
       "date": "2026-08-01T20:35:04+00:00",
       "dateStr": "01 Aug, 20:35",
       "isNew": true,
-      "id": "abc01785616504"
+      "id": "abc31785616504"
     },
     {
       "title": "“Paratë e blerësve ndërtojnë pallatet”",
@@ -23,7 +78,7 @@
       "date": "2026-08-01T20:30:49+00:00",
       "dateStr": "01 Aug, 20:30",
       "isNew": true,
-      "id": "24 01785616249"
+      "id": "24 21785616249"
     },
     {
       "title": "“Blerësi me kontratë porosie në prona të sekuestruara do të gjendet në pingpongun e drejtësisë”",
@@ -34,7 +89,7 @@
       "date": "2026-08-01T20:30:33+00:00",
       "dateStr": "01 Aug, 20:30",
       "isNew": true,
-      "id": "24 11785616233"
+      "id": "24 31785616233"
     },
     {
       "title": "Aksion kërkimi në Jezerc, dy motoristë dyshohet se kanë humbur rrugën",
@@ -45,7 +100,7 @@
       "date": "2026-08-01T20:30:14+00:00",
       "dateStr": "01 Aug, 20:30",
       "isNew": true,
-      "id": "24 21785616214"
+      "id": "24 41785616214"
     },
     {
       "title": "Juristët rekomandojnë ndalimin e shitjeve në gropë",
@@ -56,7 +111,7 @@
       "date": "2026-08-01T20:19:38+00:00",
       "dateStr": "01 Aug, 20:19",
       "isNew": true,
-      "id": "24 31785615578"
+      "id": "24 51785615578"
     },
     {
       "title": "50 mln euro apartamente të sekuestruara, çfarë ndodh me blerësit, a e humbasin banesën, kush i mbron",
@@ -67,7 +122,7 @@
       "date": "2026-08-01T20:19:27+00:00",
       "dateStr": "01 Aug, 20:19",
       "isNew": true,
-      "id": "24 41785615567"
+      "id": "24 61785615567"
     },
     {
       "title": "ChatGPT bëhet top basketbolli, OpenAI prezanton produktin e ri",
@@ -78,7 +133,7 @@
       "date": "2026-08-01T20:15:13+00:00",
       "dateStr": "01 Aug, 20:15",
       "isNew": true,
-      "id": "24 51785615313"
+      "id": "24 71785615313"
     },
     {
       "title": "A ka Kosova rezervave të ujit?",
@@ -89,7 +144,7 @@
       "date": "2026-08-01T19:45:11+00:00",
       "dateStr": "01 Aug, 19:45",
       "isNew": true,
-      "id": "24 61785613511"
+      "id": "24 81785613511"
     },
     {
       "title": "Studimet: Jo vetëm mëlçinë, alkooli prek edhe trurin",
@@ -100,7 +155,7 @@
       "date": "2026-08-01T19:42:40+00:00",
       "dateStr": "01 Aug, 19:42",
       "isNew": true,
-      "id": "abc11785613360"
+      "id": "abc41785613360"
     },
     {
       "title": "Presidenti Begaj dekreton marrëveshjen e huasë 302 milionë dollarëshe me SHBA-në",
@@ -111,7 +166,7 @@
       "date": "2026-08-01T19:30:50+00:00",
       "dateStr": "01 Aug, 19:30",
       "isNew": true,
-      "id": "24 71785612650"
+      "id": "24 91785612650"
     },
     {
       "title": "Turqia dhe Iraku nënshkruajnë marrëveshje për tubacionin e naftës së papërpunuar",
@@ -122,40 +177,18 @@
       "date": "2026-08-01T19:21:42+00:00",
       "dateStr": "01 Aug, 19:21",
       "isNew": true,
-      "id": "abc21785612102"
+      "id": "abc51785612102"
     },
     {
-      "title": "Muzeu Marubi publikon fotografi të rralla të Bekim Fehmiut gjatë vizitës së tij në Shkodër më 1972",
-      "link": "https://24-ore.com/muzeu-marubi-publikon-fotografi-te-rralla-te-bekim-fehmiut-gjate-vizites-se-tij-ne-shkoder-me-1972/",
-      "description": "Muzeu Kombëtar i Fotografisë “Marubi” ka ndarë me publikun fotografi të rralla nga arkivi i tij, që dokumentojnë vizitën e aktorit të njohur shqiptar Bekim Fehmiu në Shqipëri në vitin 1972. I cilësuar “Uliksi shqiptar” i kinemasë botërore, Bekim Fehmiu mbërriti në Shqipëri jo thjesht si aktor në kul",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T19:19:05+00:00",
-      "dateStr": "01 Aug, 19:19",
-      "isNew": true,
-      "id": "24 81785611945"
-    },
-    {
-      "title": "Kryetarja e Dimalit kundërshton shkrirjen e bashkisë: Kemi identitet dhe potencial ekonomik",
-      "link": "https://24-ore.com/kryetarja-e-dimalit-kundershton-shkrirjen-e-bashkise-kemi-identitet-dhe-potencial-ekonomik/",
-      "description": "Kryetarja e Bashkisë së Dimalit, Juliana Memaj, ka reaguar përmes një statusi të gjatë në rrjetet sociale kundër propozimeve për riorganizimin e ri territorial, duke argumentuar se kjo bashki duhet të mbetet një njësi vendore më vete. Memaj e ka bazuar qëndrimin e saj te historia, identiteti dhe pot",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T19:10:50+00:00",
-      "dateStr": "01 Aug, 19:10",
-      "isNew": true,
-      "id": "24 91785611450"
-    },
-    {
-      "title": "Presidenti Begaj dekreton marrëveshjen e huasë me SHBA",
+      "title": "Begaj dekreton marrëveshjen me SHBA/ Ligji hyn në fuqi në momentin e publikimit në Fletoren Zyrtare",
       "link": "https://abcnews.al/presidenti-begaj-dekreton-marreveshjen-e-huase-me-shba/",
-      "description": "TIRANË- Presidenti i Republikës, Bajram Begaj, ka dekretuar marrëveshjen e huasë direkte prej 302 milionë dollarësh me Shtetet e Bashkuara të Amerikës, në kuadër të financimit të jashtëm ushtarak (FMF) për fushën e mbrojtjes. Marrëveshja është pjesë e financimit të jashtëm ushtarak amerikan (Foreign",
+      "description": "TIRANË- Presidenti i Republikës, Bajram Begaj, ka dekretuar marrëveshjen e huasë direkte prej 302 milionë dollarësh ndërmjet Shqipërisë dhe Shteteve të Bashkuara të Amerikës, në kuadër të financimit të jashtëm ushtarak. Në dekretin e tij, kreu i shtetit shqiptar ka dhënë pëlqimin për hyrjen në fuqi ",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-08-01T18:20:25+00:00",
       "dateStr": "01 Aug, 18:20",
       "isNew": true,
-      "id": "abc31785608425"
+      "id": "abc61785608425"
     },
     {
       "title": "Edicioni qendror me Fabiola Hoxha, (01/08/2026)",
@@ -166,7 +199,7 @@
       "date": "2026-08-01T18:11:04+00:00",
       "dateStr": "01 Aug, 18:11",
       "isNew": true,
-      "id": "abc41785607864"
+      "id": "abc71785607864"
     },
     {
       "title": "Ermal Beqiri, kështjellë në Francë/ SPAK: E ka blerë 2,6 milionë euro, edhe apartamente e llogari bankare",
@@ -177,7 +210,7 @@
       "date": "2026-08-01T17:46:09+00:00",
       "dateStr": "01 Aug, 17:46",
       "isNew": true,
-      "id": "abc51785606369"
+      "id": "abc81785606369"
     },
     {
       "title": "Kardinal Troshani “rikthehet” në burg/ Ceremoni në Spaç për nderimin e të persekutuarve nga diktatura",
@@ -188,40 +221,7 @@
       "date": "2026-08-01T17:02:05+00:00",
       "dateStr": "01 Aug, 17:02",
       "isNew": true,
-      "id": "abc61785603725"
-    },
-    {
-      "title": "Rumania përballet me rritjen e sulmeve të arinjve, autoritetet në alarm",
-      "link": "https://abcnews.al/rumania-perballet-me-rritjen-e-sulmeve-te-arinjve-autoritetet-ne-alarm/",
-      "description": "Në vetëm tre orë, gjatë një mëngjesi me diell në rrugën piktoreske malore Transfagarasan në Rumani, të paktën 20 arinj të murrmë dolën nga pylli dhe iu afruan shoferëve që kishin ndaluar për t’i ushqyer dhe për të bërë selfie me ta. Shoferët injoruan tabelat përgjatë kthesave të rrugës, e cila përsh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T16:34:09+00:00",
-      "dateStr": "01 Aug, 16:34",
-      "isNew": true,
-      "id": "abc71785602049"
-    },
-    {
-      "title": "Trump konfirmon se mbështet Todd Blanch për Prokuror të Përgjithshëm të SHBA",
-      "link": "https://abcnews.al/trump-konfirmon-se-mbeshtet-todd-blanch-per-prokuror-te-pergjithshem-te-shba/",
-      "description": "Presidenti amerikan Donald Trump shkroi në rrjetin &#8220;Truth Social&#8221; se, pavarësisht kundërshtimit të disa senatorëve, ai mbështet emërimin e Todd Blanche si Prokuror i Përgjithshëm. “Nëse senatorët Cornyn dhe Tillis, të dy të zemëruar sepse unë nuk i mbështeta, nuk do ta miratojnë Todd Bla",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T15:50:21+00:00",
-      "dateStr": "01 Aug, 15:50",
-      "isNew": true,
-      "id": "abc81785599421"
-    },
-    {
-      "title": "News Hour me Fabiola Hoxha, (01/08/2026)",
-      "link": "https://abcnews.al/news-hour-me-fabiola-hoxha-01-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T15:41:51+00:00",
-      "dateStr": "01 Aug, 15:41",
-      "isNew": true,
-      "id": "abc91785598911"
+      "id": "abc91785603725"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
