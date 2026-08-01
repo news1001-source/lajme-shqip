@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-01T21:52:10.330323+00:00",
+  "lastUpdated": "2026-08-01T22:50:04.486650+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Dënimi pa vendim",
+      "link": "https://abcnews.al/denimi-pa-vendim/",
+      "description": "Akuza më e lehtë e kapitullit të prokurimeve po mban dosjen më të rëndë në godinën e SPAK-ut. Një lexim ligjor i çështjes Balluku. Renada Bici* Belinda Balluku ishte thirrur në Prokurorinë e Posaçme të premten, në orën dhjetë të mëngjesit; u paraqit në dy të pasdites, e shoqëruar nga avokati, duke k",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T22:21:52+00:00",
+      "dateStr": "01 Aug, 22:21",
+      "isNew": true,
+      "id": "abc01785622912"
+    },
     {
       "title": "Qëlloi me armë ndaj automjetit të 30-vjeçarit në Lezhë, identifikohet dhe shpallet në kërkim autori i dyshuar",
       "link": "https://24-ore.com/qelloi-me-arme-ndaj-automjetit-te-30-vjecarit-ne-lezhe-identifikohet-dhe-shpallet-ne-kerkim-autori-i-dyshuar/",
@@ -34,7 +45,7 @@
       "date": "2026-08-01T21:12:47+00:00",
       "dateStr": "01 Aug, 21:12",
       "isNew": true,
-      "id": "abc01785618767"
+      "id": "abc11785618767"
     },
     {
       "title": "Rama: Shumë punë për në BE/ Kryeministri mendon se shqiptarët duhet të jenë të vetëdijshëm për ngarkesën",
@@ -45,7 +56,7 @@
       "date": "2026-08-01T21:03:32+00:00",
       "dateStr": "01 Aug, 21:03",
       "isNew": true,
-      "id": "abc11785618212"
+      "id": "abc21785618212"
     },
     {
       "title": "Shkelësit e ligjit në “lupën” e Policisë së Shtetit/ Lamallari nxjerr pamjet: Siguria e qytetarëve e para",
@@ -56,7 +67,7 @@
       "date": "2026-08-01T20:50:40+00:00",
       "dateStr": "01 Aug, 20:50",
       "isNew": true,
-      "id": "abc21785617440"
+      "id": "abc31785617440"
     },
     {
       "title": "OBSH: Korporatat e ushqimit ultra të përpunuar pengojnë përpjekjet për të trajtuar krizën e obezitetit",
@@ -67,7 +78,7 @@
       "date": "2026-08-01T20:35:04+00:00",
       "dateStr": "01 Aug, 20:35",
       "isNew": true,
-      "id": "abc31785616504"
+      "id": "abc41785616504"
     },
     {
       "title": "“Paratë e blerësve ndërtojnë pallatet”",
@@ -155,7 +166,7 @@
       "date": "2026-08-01T19:42:40+00:00",
       "dateStr": "01 Aug, 19:42",
       "isNew": true,
-      "id": "abc41785613360"
+      "id": "abc51785613360"
     },
     {
       "title": "Presidenti Begaj dekreton marrëveshjen e huasë 302 milionë dollarëshe me SHBA-në",
@@ -177,7 +188,7 @@
       "date": "2026-08-01T19:21:42+00:00",
       "dateStr": "01 Aug, 19:21",
       "isNew": true,
-      "id": "abc51785612102"
+      "id": "abc61785612102"
     },
     {
       "title": "Begaj dekreton marrëveshjen me SHBA/ Ligji hyn në fuqi në momentin e publikimit në Fletoren Zyrtare",
@@ -188,7 +199,7 @@
       "date": "2026-08-01T18:20:25+00:00",
       "dateStr": "01 Aug, 18:20",
       "isNew": true,
-      "id": "abc61785608425"
+      "id": "abc71785608425"
     },
     {
       "title": "Edicioni qendror me Fabiola Hoxha, (01/08/2026)",
@@ -199,7 +210,7 @@
       "date": "2026-08-01T18:11:04+00:00",
       "dateStr": "01 Aug, 18:11",
       "isNew": true,
-      "id": "abc71785607864"
+      "id": "abc81785607864"
     },
     {
       "title": "Ermal Beqiri, kështjellë në Francë/ SPAK: E ka blerë 2,6 milionë euro, edhe apartamente e llogari bankare",
@@ -210,18 +221,7 @@
       "date": "2026-08-01T17:46:09+00:00",
       "dateStr": "01 Aug, 17:46",
       "isNew": true,
-      "id": "abc81785606369"
-    },
-    {
-      "title": "Kardinal Troshani “rikthehet” në burg/ Ceremoni në Spaç për nderimin e të persekutuarve nga diktatura",
-      "link": "https://abcnews.al/kardinal-troshani-rikthehet-ne-burg-ceremoni-ne-spac-per-nderimin-e-te-persekutuarve-nga-diktatura/",
-      "description": "MIRDITË&#8211; Pas disa dekadash, Eminenca e tij, Kardinali Ernest Troshan Simoni rikthehet në Spaç, në burgun ku dikur iu mohua liria dhe ku ndau vuajtjet me qindra të burgosur politikë. Në oborrin e ish-burgut, mes mureve që mbajnë ende gjurmët e së shkuarës, Kardinali kremton Meshën e Shenjtë ne ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T17:02:05+00:00",
-      "dateStr": "01 Aug, 17:02",
-      "isNew": true,
-      "id": "abc91785603725"
+      "id": "abc91785606369"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
