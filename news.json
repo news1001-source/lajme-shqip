@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-01T02:57:34.849267+00:00",
+  "lastUpdated": "2026-08-01T05:56:05.526190+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "A është kriza në Ceuta vala më e madhe e migracionit të paligjshëm në historinë e BE-së?",
+      "link": "https://abcnews.al/a-eshte-kriza-ne-ceuta-vala-me-e-madhe-e-migracionit-te-paligjshem-ne-historine-e-be-se/",
+      "description": "Që nga e enjtja, mijëra migrantë kanë kaluar nga Maroku në enklavën spanjolle të Afrikës së Veriut, Ceuta. Vlerësimet e fundit nga qeveria spanjolle e vendosin numrin në rreth 60,000. Nëse shifrat konfirmohen, kjo do të ishte rritja më e madhe e mbërritjeve të parregullta të regjistruara ndonjëherë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T05:54:22+00:00",
+      "dateStr": "01 Aug, 05:54",
+      "isNew": true,
+      "id": "abc01785563662"
+    },
+    {
+      "title": "Parashikimi i motit, 1 gusht 2026/ Temperaturat mbeten të larta",
+      "link": "https://abcnews.al/parashikimi-i-motit-1-gusht-2026-temperaturat-mbeten-te-larta/",
+      "description": "Edhe dita e sotme, 1 gusht 2026, do të karakterizohet nga mot i kthjellët dhe temperatura të larta në të gjithë vendin. Masat ajrore të nxehta vijojnë të dominojnë territorin, duke bërë që në shumë zona termometri t’i afrohet sërish 37-38 gradë Celsius. Temperaturat minimale pritet të luhaten nga 18",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T05:33:35+00:00",
+      "dateStr": "01 Aug, 05:33",
+      "isNew": true,
+      "id": "abc11785562415"
+    },
+    {
+      "title": "Horoskopi 1 gusht 2026, zbuloni parashikimet e yjeve",
+      "link": "https://abcnews.al/horoskopi-1-gusht-2026-zbuloni-parashikimet-e-yjeve/",
+      "description": "Dashi Ngadalësoni dhe mbani një qasje më të rezervuar, veçanërisht kur bëhet fjalë për çështje që përfshijnë dashurinë dhe bukurinë. Do të zbuloni se keni një nivel më të lartë sensualiteti. Tregohuni të kujdesshëm dhe gjithçka do të shkojë ashtu siç deshironi. Demi Mund të jesh në një pike kulmore ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T05:25:19+00:00",
+      "dateStr": "01 Aug, 05:25",
+      "isNew": true,
+      "id": "abc21785561919"
+    },
     {
       "title": "Ndahet nga jeta në moshën 86-vjeçare operatori i filmit Faruk Basha",
       "link": "https://24-ore.com/ndahet-nga-jeta-ne-moshen-86-vjecare-operatori-i-filmit-faruk-basha/",
@@ -34,7 +67,7 @@
       "date": "2026-07-31T21:42:34+00:00",
       "dateStr": "31 Jul, 21:42",
       "isNew": true,
-      "id": "abc01785534154"
+      "id": "abc31785534154"
     },
     {
       "title": "Reforma territoriale, Nura: Qeveria kërkon që t’i bëjë shërbimet më efikase",
@@ -45,7 +78,7 @@
       "date": "2026-07-31T21:36:06+00:00",
       "dateStr": "31 Jul, 21:36",
       "isNew": true,
-      "id": "abc11785533766"
+      "id": "abc41785533766"
     },
     {
       "title": "Policia aksion për zhurmat/ Ministri Lamallari: Garantojmë sezon turistik të qetë e të sigurt",
@@ -56,7 +89,7 @@
       "date": "2026-07-31T21:29:29+00:00",
       "dateStr": "31 Jul, 21:29",
       "isNew": true,
-      "id": "abc21785533369"
+      "id": "abc51785533369"
     },
     {
       "title": "Mitaj në elitën italiane/ Mbrojtësi kuqezi firmos për një vit me klubin e njohur, Genoa",
@@ -67,7 +100,7 @@
       "date": "2026-07-31T21:05:23+00:00",
       "dateStr": "31 Jul, 21:05",
       "isNew": true,
-      "id": "abc31785531923"
+      "id": "abc61785531923"
     },
     {
       "title": "SHBA – Trump tërhiqet nga premtimi për prodhimin e raketave “Patriot” në Ukrainë",
@@ -166,7 +199,7 @@
       "date": "2026-07-31T20:20:44+00:00",
       "dateStr": "31 Jul, 20:20",
       "isNew": true,
-      "id": "abc41785529244"
+      "id": "abc71785529244"
     },
     {
       "title": "VIDEO/ Tërmet i fortë në Napoli, dëme nga rrëshqitjet e dheut, banorët dalin në rrugë",
@@ -177,7 +210,7 @@
       "date": "2026-07-31T20:03:23+00:00",
       "dateStr": "31 Jul, 20:03",
       "isNew": true,
-      "id": "abc51785528203"
+      "id": "abc81785528203"
     },
     {
       "title": "Italia planifikon të ndalojë karrocat turistike të tërhequra nga kuajt në Romë dhe qytete të tjera artistike",
@@ -188,40 +221,7 @@
       "date": "2026-07-31T20:02:55+00:00",
       "dateStr": "31 Jul, 20:02",
       "isNew": true,
-      "id": "abc61785528175"
-    },
-    {
-      "title": "Gjermania do të zgjasë kontrollet kufitare për shkak të krizës së emigrantëve në Ceuta",
-      "link": "https://abcnews.al/gjermania-do-te-zgjase-kontrollet-kufitare-per-shkak-te-krizes-se-emigranteve-ne-ceuta/",
-      "description": "Gjermania do të zgjasë kontrollet e brendshme kufitare përtej shtatorit, pas një rritjeje të migrimit të parregullt të lidhur me enklavën spanjolle Ceuta, tha të premten ministri i Brendshëm Alexander Dobrindt. “Ne do ta zgjasim mundësinë e kontrolleve të brendshme kufitare përtej shtatorit. Situata",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T19:40:40+00:00",
-      "dateStr": "31 Jul, 19:40",
-      "isNew": true,
-      "id": "abc71785526840"
-    },
-    {
-      "title": "Me urdhër mbretëror/ Spanja nxjerr monedhë të re euro për të festuar suksesin në Kupën e Botës në futboll",
-      "link": "https://abcnews.al/me-urdher-mbreteror-spanja-nxjerr-monedhe-te-re-euro-per-te-festuar-suksesin-ne-kupen-e-botes-ne-futboll/",
-      "description": "Spanja ka prezantuar një monedhë të re përkujtimore euro, të miratuar me urdhër mbretëror, për të festuar suksesin e saj në Kupën e Botës FIFA 2026. Emetimi i posaçëm është pjesë e programit zyrtar numizmatik të vendit dhe synon të nderojë arritjet e futbollit spanjoll në një nga ngjarjet më të mëdh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T19:39:57+00:00",
-      "dateStr": "31 Jul, 19:39",
-      "isNew": true,
-      "id": "abc81785526797"
-    },
-    {
-      "title": "“Sheshi i Dollarit” me Genta Dobra, (31/07/2026)",
-      "link": "https://abcnews.al/sheshi-i-dollarit-me-genta-dobra-31-07-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-07-31T19:35:03+00:00",
-      "dateStr": "31 Jul, 19:35",
-      "isNew": true,
-      "id": "abc91785526503"
+      "id": "abc91785528175"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
