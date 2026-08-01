@@ -1,117 +1,161 @@
 {
-  "lastUpdated": "2026-08-01T15:58:21.651687+00:00",
+  "lastUpdated": "2026-08-01T17:03:18.976057+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Mallkimi dhe nevoja e partive në Shqipëri",
-      "link": "https://24-ore.com/mallkimi-dhe-nevoja-e-partive-ne-shqiperi/",
-      "description": "Nga Ben Andoni Ka një kërkesë të pandryshuar në “Protestën e Flamingove” që brohoritet hapur dhe fort kundër establishmentit politik aktual, përkundër secilit protagonisti politik, kundër çdo gjëje që lidhet me politikën e pas viteve ’90 dhe madje deri edhe kundër personazheve që janë indiferente nd",
+      "title": "Kardinal Troshani “rikthehet” në burg/ Ceremoni në Spaç për nderimin e të persekutuarve nga diktatura",
+      "link": "https://abcnews.al/kardinal-troshani-rikthehet-ne-burg-ceremoni-ne-spac-per-nderimin-e-te-persekutuarve-nga-diktatura/",
+      "description": "Pas disa dekadash, Eminenca e tij, Kardinali Ernest Troshan Simoni rikthehet në Spaç, në burgun ku dikur iu mohua liria dhe ku ndau vuajtjet me qindra të burgosur politikë. Në oborrin e ish-burgut, mes mureve që mbajnë ende gjurmët e së shkuarës, Kardinali kremton Meshën e Shenjtë ne prani te ish-të",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T17:02:05+00:00",
+      "dateStr": "01 Aug, 17:02",
+      "isNew": true,
+      "id": "abc01785603725"
+    },
+    {
+      "title": "Ministria e Shëndetësisë: Mbeten vetëm 13 raste me ethet e Nilit Perëndimor, nuk ka raste të reja",
+      "link": "https://24-ore.com/ministria-e-shendetesise-mbeten-vetem-13-raste-me-ethet-e-nilit-perendimor-nuk-ka-raste-te-reja/",
+      "description": "Numri i rasteve të konfirmuara me ethet e Nilit Perëndimor në vend mbetet 13, ndërsa për tre pacientë të tjerë që janë të hospiatlizuar në Klinikën Infektive aktualisht po kryhen analizat laboratorike dhe priten rezultatet përfundimtare, të cilat duhet të konfirmojnë ose mohojnë praninë e virusit. “",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-01T15:58:14+00:00",
+      "date": "2026-08-01T16:51:05+00:00",
+      "dateStr": "01 Aug, 16:51",
+      "isNew": true,
+      "id": "24 01785603065"
+    },
+    {
+      "title": "Vrasja e Liridona Ademajt u inskenua si grabitje, motivi ishte përfitimi pasuror",
+      "link": "https://24-ore.com/vrasja-e-liridona-ademajt-u-inskenua-si-grabitje-motivi-ishte-perfitimi-pasuror/",
+      "description": "Gjykata Themelore në Prishtinë kishte dënuar me burgim të përjetshëm Naim Murselin dhe Granit Plavën, ndërsa Kushtrim Kokallën me 30 vjet burgim për vrasjen e Liridona Ademajt. Sipas aktgjykimit të arsyetuar, vrasja ishte planifikuar dhe inskenuar si grabitje, ndërsa motivi kryesor ishte përfitimi p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T16:50:53+00:00",
+      "dateStr": "01 Aug, 16:50",
+      "isNew": true,
+      "id": "24 11785603053"
+    },
+    {
+      "title": "Kolona në kufi, mbi dy orë pritje për të hyrë në Kosovë te Dheu i Bardhë",
+      "link": "https://24-ore.com/kolona-ne-kufi-mbi-dy-ore-pritje-per-te-hyre-ne-kosove-te-dheu-i-bardhe/",
+      "description": "Qendra Kombëtare për Menaxhimin Kufitar (QKMK) ka përditësuar të dhënat për fluksin dhe kohën e pritjes në pikat kufitare të Kosovës. Sipas të dhënave të fundit, pritjet më të gjata janë regjistruar në hyrje të vendit. Në pikën kufitare te Dheu i Bardhë pritjet për të hyrë në Kosovë zgjasin mbi dy o",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T16:50:42+00:00",
+      "dateStr": "01 Aug, 16:50",
+      "isNew": true,
+      "id": "24 21785603042"
+    },
+    {
+      "title": "Policia zbardh dinamikën e incidentit me italianin në Tiranë: U përfshi në një konflikt me disa të mitur",
+      "link": "https://24-ore.com/policia-zbardh-dinamiken-e-incidentit-me-italianin-ne-tirane-u-perfshi-ne-nje-konflikt-me-disa-te-mitur/",
+      "description": "Policia e Shtetit ka reaguar në lidhje me incidentin ku mbeti i dëmtuar një shtetas italian në Tiranë, duke sqaruar se ngjarja ka ndodhur mbrëmjen e 29 korrikut, rreth orës 22:00, në zonën pas Pallatit të Kulturës dhe është trajtuar menjëherë për veprën penale “Plagosja e lehtë me dashje”. Sipas Pol",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T16:50:31+00:00",
+      "dateStr": "01 Aug, 16:50",
+      "isNew": true,
+      "id": "24 31785603031"
+    },
+    {
+      "title": "FOKUS – Spanja: Pothuajse të gjithë migrantët janë kthyer në Marok nga Ceuta",
+      "link": "https://24-ore.com/fokus-spanja-pothuajse-te-gjithe-migrantet-jane-kthyer-ne-marok-nga-ceuta/",
+      "description": "MADRID, 1 gusht /ATSH -AA/ – Pothuajse të gjithë migrantët që hynë në Ceuta janë kthyer në Marok, njoftoi të premten ministri i Jashtëm i Spanjës, duke bërë thirrje që të ndalet “dezinformimi i qëllimshëm. “Nuk është e mundur të udhëtosh nga Ceuta dhe Melilla drejt territorit kontinental të Spanjës ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T16:48:40+00:00",
+      "dateStr": "01 Aug, 16:48",
+      "isNew": true,
+      "id": "24 41785602920"
+    },
+    {
+      "title": "Italianët u dhunuan në Tiranë, policia: U ndihmuan nga Policia Bashkiake, njëri prej tyre ishte konfliktuar me…",
+      "link": "https://24-ore.com/italianet-u-dhunuan-ne-tirane-policia-u-ndihmuan-nga-policia-bashkiake-njeri-prej-tyre-ishte-konfliktuar-me/",
+      "description": "Policia e Tiranës ka reaguar lidhur me lajmin duke marrë shkas nga videot e shpërndara në rrjetet sociale dhe shpjegon se ngjarja ka ndodhur pas Pallatit të Kulturës. Atje policia ka gjetur një prej italianëve të lënduar lehtë si dhe dy prej shokëve të tij. Fillimisht, atyre u ishte ofruar ndihmë ng",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T16:48:04+00:00",
+      "dateStr": "01 Aug, 16:48",
+      "isNew": true,
+      "id": "24 51785602884"
+    },
+    {
+      "title": "Ndërtoi pa leje në Kepin e Rodonit kur ishte në detyrë, Prokuroria dërgon për gjykim ish-kreun e IMT Ardian Halili",
+      "link": "https://24-ore.com/ndertoi-pa-leje-ne-kepin-e-rodonit-kur-ishte-ne-detyre-prokuroria-dergon-per-gjykim-ish-kreun-e-imt-ardian-halili/",
+      "description": "Prokuroria e Tiranës përfundon hetimet dhe dorëzon për gjykim dosjen penale ndaj ish-kryeinspektorit të IMT-së, Ardian Halili, ndaj të cilit rëndojnë akuzat “Ndërtimi i paligjshëm” dhe “Shpërdorimi i detyrës”. Ndërsa Saimir Mezja, me profesion jurist dhe aktualisht inspektor në IMT Durrës, akuzohet ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T16:47:50+00:00",
+      "dateStr": "01 Aug, 16:47",
+      "isNew": true,
+      "id": "24 61785602870"
+    },
+    {
+      "title": "Rumania përballet me rritjen e sulmeve të arinjve, autoritetet në alarm",
+      "link": "https://abcnews.al/rumania-perballet-me-rritjen-e-sulmeve-te-arinjve-autoritetet-ne-alarm/",
+      "description": "Në vetëm tre orë, gjatë një mëngjesi me diell në rrugën piktoreske malore Transfagarasan në Rumani, të paktën 20 arinj të murrmë dolën nga pylli dhe iu afruan shoferëve që kishin ndaluar për t’i ushqyer dhe për të bërë selfie me ta. Shoferët injoruan tabelat përgjatë kthesave të rrugës, e cila përsh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-01T16:34:09+00:00",
+      "dateStr": "01 Aug, 16:34",
+      "isNew": true,
+      "id": "abc11785602049"
+    },
+    {
+      "title": "Detaje nga aksidenti në galerinë e kromit në Tërnovë të Bulqizës, minatori ra në furnelë gjatë procesit të punës",
+      "link": "https://24-ore.com/detaje-nga-aksidenti-ne-galerine-e-kromit-ne-ternove-te-bulqizes-minatori-ra-ne-furnele-gjate-procesit-te-punes/",
+      "description": "Një aksident i rëndë është regjistruar në një minierë kromi në zonën e Tërnovës së Madhe, në bashkinë Bulqizë, ku një minator 40-vjeçar ka mbetur i bllokuar gjatë procesit të punës. Viktima është identifikuar si Ilir Kalaveri, banues në Burrel, i cili punonte si minator/brigadier në subjektin privat",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T16:00:38+00:00",
+      "dateStr": "01 Aug, 16:00",
+      "isNew": true,
+      "id": "24 71785600038"
+    },
+    {
+      "title": "Identiteti historik i qyteteve dhe identiteti i revoltës së kryetarëve të bashkive të shkurtuara",
+      "link": "https://24-ore.com/identiteti-historik-i-qyteteve-dhe-identiteti-i-revoltes-se-kryetareve-te-bashkive-te-shkurtuara/",
+      "description": "Nga Bjorn Runa Drafti i Reformës Territoriale i propozuar nga Partia Socialiste ka nxitur këtë javë një debat që, të paktën në 15 bashkitë që do të bashkohen me ato fqinje, nuk ka thuajse asnjë lidhje me efikasitetin që humbasin ose fitojnë qeveritë lokale, duke u përqëndruar thuajse krejtësisht tek",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-01T15:58:29+00:00",
       "dateStr": "01 Aug, 15:58",
       "isNew": true,
-      "id": "24 01785599894"
+      "id": "24 81785599909"
     },
     {
-      "title": "Interi e mposht City-n në miqësore pas gjuajtjeve të penalltive",
-      "link": "https://24-ore.com/interi-e-mposht-city-n-ne-miqesore-pas-gjuajtjeve-te-penalltive/",
-      "description": "Ndeshja miqësore midis Manchester Cityt dhe Interit në Hong Kong përfundoi 1-1(koha e rregullt), ndërsa lotaria e penalltive u buzëqesh zikaltërve të cilët fituan me rezultatin 3-1. City zhbllokoi sfidën në minutën e 14-të me anë të Muamba. Ndërkohë, Interi arriti të vendosë barazpeshën me anë të Pa",
+      "title": "Në Shkup u privua nga liria 22 vjeçari nga Kosova, ishte i kërkuar për vjedhje të rëndë",
+      "link": "https://24-ore.com/ne-shkup-u-privua-nga-liria-22-vjecari-nga-kosova-ishte-i-kerkuar-per-vjedhje-te-rende/",
+      "description": "Të premten, në orën 17:00, në Shkup, në zonën e Bit Pazarit, nëpunës policorë të Sektorit për Bashkëpunim Ndërkombëtar Policor, arrestuan shtetasin e Kosovës G.K. (22-vjeç). Sipas Ministrisë së Brendshme maqedonase, ai kërkohej me urdhërarrest ndërkombëtar për kryerjen e veprave penale të vjedhjes, ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-01T15:58:14+00:00",
+      "date": "2026-08-01T15:58:25+00:00",
       "dateStr": "01 Aug, 15:58",
       "isNew": true,
-      "id": "24 11785599894"
+      "id": "24 91785599905"
     },
     {
-      "title": "Presidenti i FSHF-së, Armdn Duka: Mirëpres vendimin e fundit të FIFA-s, por…",
-      "link": "https://24-ore.com/presidenti-i-fshf-se-armdn-duka-mirepres-vendimin-e-fundit-te-fifa-s-por/",
-      "description": "Presidenti i FSHF-së, Armand Duka ka reaguar me një postim në rrjetet sociale për tërheqjen e FIFA-s nga plani i saj për investitorë privatë. “Zhvillimet që shoqëruan këtë proces kanë ngritur në mënyrë të pashmangshme pikëpyetje serioze mbi integritetin, transparencën, llogaridhënien dhe qeverisjen ",
-      "source": "24 ORE",
+      "title": "Trump konfirmon se mbështet Todd Blanch për Prokuror të Përgjithshëm të SHBA",
+      "link": "https://abcnews.al/trump-konfirmon-se-mbeshtet-todd-blanch-per-prokuror-te-pergjithshem-te-shba/",
+      "description": "Presidenti amerikan Donald Trump shkroi në rrjetin &#8220;Truth Social&#8221; se, pavarësisht kundërshtimit të disa senatorëve, ai mbështet emërimin e Todd Blanche si Prokuror i Përgjithshëm. “Nëse senatorët Cornyn dhe Tillis, të dy të zemëruar sepse unë nuk i mbështeta, nuk do ta miratojnë Todd Bla",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-01T15:58:04+00:00",
-      "dateStr": "01 Aug, 15:58",
+      "date": "2026-08-01T15:50:21+00:00",
+      "dateStr": "01 Aug, 15:50",
       "isNew": true,
-      "id": "24 21785599884"
+      "id": "abc21785599421"
     },
     {
-      "title": "SPAK jep detaje nga arrestimi i Ermal Beqirit në Francë: Mbi 2 mln euro pasuri dhe një kështjellë",
-      "link": "https://24-ore.com/spak-jep-detaje-nga-arrestimi-i-ermal-beqirit-ne-france-mbi-2-mln-euro-pasuri-dhe-nje-keshtjelle/",
-      "description": "Struktura e Posaçme kundër Korrupsionit dhe Krimit të Organizuar (SPAK) ka dhënë detaje për arrestimin e biznesmenit Ermal Beqiri të shtunën e kaluar në Francë. Sipas njoftimit të SPAK, autoritetet franceze “identifikuan disa asete me origjinë kriminale të ndodhura në Francë, veçanërisht llogari ban",
-      "source": "24 ORE",
+      "title": "News Hour me Fabiola Hoxha, (01/08/2026)",
+      "link": "https://abcnews.al/news-hour-me-fabiola-hoxha-01-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-01T15:57:52+00:00",
-      "dateStr": "01 Aug, 15:57",
+      "date": "2026-08-01T15:41:51+00:00",
+      "dateStr": "01 Aug, 15:41",
       "isNew": true,
-      "id": "24 31785599872"
-    },
-    {
-      "title": "Eurostat: 53% e familjeve shqiptare nuk përballojnë dot 1 javë pushime në vit",
-      "link": "https://24-ore.com/eurostat-53-e-familjeve-shqiptare-nuk-perballojne-dot-1-jave-pushime-ne-vit/",
-      "description": "Më shumë se gjysma e shqiptarëve nuk kanë mundësi financiare të përballojnë një javë pushime në vit larg banesës së tyre. Sipas të dhënave të Eurostat, që për Europën i takojnë vitit 2025 dhe për Shqipërinë vitit 2023, rreth 53% e familjeve në Shqipëri e kanë të pamundur të përballojnë shpenzimet pë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T15:57:40+00:00",
-      "dateStr": "01 Aug, 15:57",
-      "isNew": true,
-      "id": "24 41785599860"
-    },
-    {
-      "title": "Pas emigrimit masiv, fshati Strelcë ringjallet nga turizmi malor",
-      "link": "https://24-ore.com/pas-emigrimit-masiv-fshati-strelce-ringjallet-nga-turizmi-malor/",
-      "description": "Vetëm 25 kilometra larg qytetit të Maliqit ndodhet Strelca, një nga fshatrat më të njohur të krahinës së Gorës, që vitet e fundit po përjeton një ringjallje falë zhvillimit të turizmit. Dikur fshati numëronte mbi 300 shtëpi dhe më shumë se 1.400 banorë, ndërsa sot aty jetojnë rreth 60 familje me afr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T15:57:28+00:00",
-      "dateStr": "01 Aug, 15:57",
-      "isNew": true,
-      "id": "24 51785599848"
-    },
-    {
-      "title": "Gushti nis me temperatura të larta, plazhet e Vlorës tejmbushen nga pushues vendas dhe të huaj",
-      "link": "https://24-ore.com/gushti-nis-me-temperatura-te-larta-plazhet-e-vlores-tejmbushen-nga-pushues-vendas-dhe-te-huaj/",
-      "description": "Fundjava e parë e muajit gusht e ka gjetur Vlorën të mbushur me pushues. Ky 1 gusht ka sjellë një fluks të lartë vizitorësh, ku plazhet e qytetit janë tejmbushur me turistë vendas dhe të huaj që kanë zgjedhur bregdetin e Vlorës për të kaluar ditët e nxehta të verës. Temperaturat, që gjatë kësaj fund",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T15:57:17+00:00",
-      "dateStr": "01 Aug, 15:57",
-      "isNew": true,
-      "id": "24 61785599837"
-    },
-    {
-      "title": "Selenica kundërshton shkrirjen, banorët mobilizohen kundër reformës territoriale",
-      "link": "https://24-ore.com/selenica-kundershton-shkrirjen-banoret-mobilizohen-kunder-reformes-territoriale/",
-      "description": "Kundërshtimet ndaj reformës së re territoriale vijuan edhe këtë të shtunë në Bashkinë e Selenicës. Banorë të zonës, përfaqësues të fshatrave, intelektualë, drejtues vendorë dhe qytetarë u mblodhën në qendër të qytetit, ku zhvilluan Kuvendin e Selenicës për të diskutuar mbi të ardhmen e bashkisë. Gja",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T15:57:05+00:00",
-      "dateStr": "01 Aug, 15:57",
-      "isNew": true,
-      "id": "24 71785599825"
-    },
-    {
-      "title": "Kriza e emigrimit masiv në Ceuta, Spanja vendos barrierën mbrojtëse në kufirin me Marokun",
-      "link": "https://24-ore.com/kriza-e-emigrimit-masiv-ne-ceuta-spanja-vendos-barrieren-mbrojtese-ne-kufirin-me-marokun/",
-      "description": "Spanja njoftoi se po instalonte një barrierë kontrolluese 500 metra të gjatë në kufirin detar midis territorit të saj të Afrikës së Veriut, Ceutës, dhe Marokut fqinj, pasi midis 50,000 dhe 60,000 emigrantë kaluan kufirin më parë këtë javë. Numri i të vdekurve është rritur në 67, përfshirë disa që u ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T15:56:53+00:00",
-      "dateStr": "01 Aug, 15:56",
-      "isNew": true,
-      "id": "24 81785599813"
-    },
-    {
-      "title": "Presidenti Begaj viziton Plavën e Gucinë: Të ruajmë trashëgiminë dhe të ndërtojmë të ardhmen",
-      "link": "https://24-ore.com/presidenti-begaj-viziton-plaven-e-gucine-te-ruajme-trashegimine-dhe-te-ndertojme-te-ardhmen/",
-      "description": "Presidenti Bajram Begaj mori pjesë në manifestimin: “Mirë se vini në Alpet Shqiptare – Vuthaj 2026”, një aktivitet që e vlerësoi si një urë që bashkon shqiptarët me vendlindjen, ruan identitetin kombëtar dhe forcon lidhjet mes brezave. “Alpet Shqiptare janë një pjesë e historisë së shqiptarit, e kar",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-01T15:56:47+00:00",
-      "dateStr": "01 Aug, 15:56",
-      "isNew": true,
-      "id": "24 91785599807"
+      "id": "abc31785598911"
     },
     {
       "title": "Presidenti Begaj në manifestimin “Mirë se vini në Alpet Shqiptare – Vuthaj 2026”: Të ruajmë trashëgiminë",
@@ -122,7 +166,7 @@
       "date": "2026-08-01T14:41:08+00:00",
       "dateStr": "01 Aug, 14:41",
       "isNew": true,
-      "id": "abc01785595268"
+      "id": "abc41785595268"
     },
     {
       "title": "Analiza/ A rrezikon bota një luftë mes Ukrainës dhe Iranit?",
@@ -133,7 +177,7 @@
       "date": "2026-08-01T14:32:20+00:00",
       "dateStr": "01 Aug, 14:32",
       "isNew": true,
-      "id": "abc11785594740"
+      "id": "abc51785594740"
     },
     {
       "title": "Risi në mjekësi, veshkat nga derrat mund të shpëtojnë mijëra jetë",
@@ -144,7 +188,7 @@
       "date": "2026-08-01T14:24:05+00:00",
       "dateStr": "01 Aug, 14:24",
       "isNew": true,
-      "id": "abc21785594245"
+      "id": "abc61785594245"
     },
     {
       "title": "Aksident i rëndë në një minierë në Bulqizë, materiali i kromit zë poshtë minatorin",
@@ -155,7 +199,7 @@
       "date": "2026-08-01T13:55:13+00:00",
       "dateStr": "01 Aug, 13:55",
       "isNew": true,
-      "id": "abc31785592513"
+      "id": "abc71785592513"
     },
     {
       "title": "Zelensky: Ukrainës i kanë mbaruar raketat interceptuese “Patriot”",
@@ -166,7 +210,7 @@
       "date": "2026-08-01T13:28:58+00:00",
       "dateStr": "01 Aug, 13:28",
       "isNew": true,
-      "id": "abc41785590938"
+      "id": "abc81785590938"
     },
     {
       "title": "Edicioni i mesditës me Jeta Kasemin, (01/08/2026)",
@@ -177,51 +221,7 @@
       "date": "2026-08-01T13:00:51+00:00",
       "dateStr": "01 Aug, 13:00",
       "isNew": true,
-      "id": "abc51785589251"
-    },
-    {
-      "title": "Zjarr pranë banesave në Lagjen e Spitalit në Lezhë, flakët vihen nën kontroll",
-      "link": "https://abcnews.al/zjarr-prane-banesave-ne-lagjen-e-spitalit-ne-lezhe-flaket-vihen-nen-kontroll/",
-      "description": "Flakët kanë alarmuar banorët e Lagjes së Spitalit në Lezhë pasditen e sotme, kur një zjarr u përhap me shpejtësi pranë zonës së banuar. Sipas të dhënave të para, zjarri nisi në një grumbull mbeturinash dhe më pas është përhapur me shpejtësi drejt banesave, duke krijuar rrezik serioz për banorët. Ndë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T12:53:21+00:00",
-      "dateStr": "01 Aug, 12:53",
-      "isNew": true,
-      "id": "abc61785588801"
-    },
-    {
-      "title": "Francë, “qetësohen” zjarret/ Kthehen në banesa 200 mijë persona të zhvendosur",
-      "link": "https://abcnews.al/france-qetesohen-zjarret-kthehen-ne-banesa-200-mije-persona-te-zhvendosur/",
-      "description": "Situata në jugperëndim të Francës po shkon drejt normalizimit, ndërsa pjesa me e madhe e banorëve të evakuuar nga zjarret kanë nisur të rikthehen në banesat e tyre. Nga rreth 220 mijë persona që u detyruan të largoheshin për shkak të flakëve, afro 200 mijë janë lejuar të kthehen, pas përmirësimit të",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T12:52:48+00:00",
-      "dateStr": "01 Aug, 12:52",
-      "isNew": true,
-      "id": "abc71785588768"
-    },
-    {
-      "title": "Shqipëria Sot me Jeta Kasemin, (01/08/2026)",
-      "link": "https://abcnews.al/shqiperia-sot-me-jeta-kasemin-01-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T12:47:37+00:00",
-      "dateStr": "01 Aug, 12:47",
-      "isNew": true,
-      "id": "abc81785588457"
-    },
-    {
-      "title": "Pezullohen ndërtimet në zonat turistike/ Qetësi për turistët, ndalimi nga 1 gushti deri në 15 shtator",
-      "link": "https://abcnews.al/pezullohen-ndertimet-ne-zonat-turistike-qetesi-per-turistet-ndalimi-nga-1-gushti-deri-ne-15-shtator/",
-      "description": "Hyn në fuqi vendimi për pezullimin e ndërtimeve gjatë sezonit turistik. Për një periudhë 45 ditore, nuk lejohet asnjë punim ndërtimi në terren qe cenon turistet. Kategoritë që përfshihen në masat e pezullimit janë, punimet në karriera, pikat e nxjerrjes, përpunimit dhe shfrytëzimit të inerteve si dh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-01T12:37:07+00:00",
-      "dateStr": "01 Aug, 12:37",
-      "isNew": true,
-      "id": "abc91785587827"
+      "id": "abc91785589251"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
