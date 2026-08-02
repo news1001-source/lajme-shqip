@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-02T20:48:42.166911+00:00",
+  "lastUpdated": "2026-08-02T21:50:48.857619+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Gjendja në pikat kufitare të Kosovës",
+      "link": "https://24-ore.com/gjendja-ne-pikat-kufitare-te-kosoves/",
+      "description": "Sipas të dhënave të publikuara nga Qendra Kombëtare për Menaxhim Kufitar (QKMK), mbrëmjen e 2 gushtit 2026, shumica e pikave të kalimit kufitar në Kosovë vazhdojnë të funksionojnë pa pritje të konsiderueshme, me kohë pritjeje prej vetëm 3–5 minutash për automjete dhe kamionë. Megjithatë, në disa pik",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T21:14:52+00:00",
+      "dateStr": "02 Aug, 21:14",
+      "isNew": true,
+      "id": "24 01785705292"
+    },
+    {
+      "title": "Haxhiu: Zbulimi i varrezave masive dëshmi se drejtësia ende nuk është përmbushur",
+      "link": "https://24-ore.com/haxhiu-zbulimi-i-varrezave-masive-deshmi-se-drejtesia-ende-nuk-eshte-permbushur/",
+      "description": "Ushtruesja e detyrës së presidentes së Kosovës, Albulena Haxhiu, ka reaguar lidhur me dyshimet për zbulimin e një varreze të dytë masive në Kosovë, duke e cilësuar atë si një rikujtim të rëndë të krimeve të kryera gjatë luftës. Haxhiu ka deklaruar se dyshimet për varrezën e re dëshmojnë se procesi i",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T21:05:12+00:00",
+      "dateStr": "02 Aug, 21:05",
+      "isNew": true,
+      "id": "24 11785704712"
+    },
+    {
+      "title": "Retorika e zyrtarëve serbë rikthen narrativat e viteve 90-ta kundër Kosovës",
+      "link": "https://24-ore.com/retorika-e-zyrtareve-serbe-rikthen-narrativat-e-viteve-90-ta-kunder-kosoves/",
+      "description": "Gërmimet për varreza të dyshuara masive në Zubin Potok po vazhdojnë, ndërsa autoritetet e Kosovës po hetojnë edhe një lokacion të ri në fshatin Jabukë, ku dyshohet për praninë e mbetjeve mortore. Zbulimet e mundshme në këto lokacione mund të sjellin dëshmi të reja për krimet e kryera gjatë luftës në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T21:04:58+00:00",
+      "dateStr": "02 Aug, 21:04",
+      "isNew": true,
+      "id": "24 21785704698"
+    },
     {
       "title": "Aksident tragjik në Itali/ Përplasen autobusi, kamperi dhe tre makina: 6 të vdekur, 27 të plagosur",
       "link": "https://abcnews.al/aksident-tragjik-ne-itali-perplasen-autobusi-kamperi-dhe-tre-makina-6-te-vdekur-27-te-plagosur/",
@@ -56,7 +89,7 @@
       "date": "2026-08-02T19:59:48+00:00",
       "dateStr": "02 Aug, 19:59",
       "isNew": true,
-      "id": "24 01785700788"
+      "id": "24 31785700788"
     },
     {
       "title": "Të paktën 14 të vrarë, disa të plagosur pas një sulmi vetëvrasës në Pakistan",
@@ -78,7 +111,7 @@
       "date": "2026-08-02T19:21:00+00:00",
       "dateStr": "02 Aug, 19:21",
       "isNew": true,
-      "id": "24 11785698460"
+      "id": "24 41785698460"
     },
     {
       "title": "Vijon dita e 64 e protestës qytetare në Tiranë",
@@ -89,7 +122,7 @@
       "date": "2026-08-02T19:20:42+00:00",
       "dateStr": "02 Aug, 19:20",
       "isNew": true,
-      "id": "24 21785698442"
+      "id": "24 51785698442"
     },
     {
       "title": "Dy orë kontroll në det, Italia ndalon anijen ruse të naftës pranë Siçilisë",
@@ -100,7 +133,7 @@
       "date": "2026-08-02T19:20:27+00:00",
       "dateStr": "02 Aug, 19:20",
       "isNew": true,
-      "id": "24 31785698427"
+      "id": "24 61785698427"
     },
     {
       "title": "Robert Kennedy Jr. sulmon Faucin dhe sfidon narrativën për vaksinat",
@@ -111,7 +144,7 @@
       "date": "2026-08-02T19:20:15+00:00",
       "dateStr": "02 Aug, 19:20",
       "isNew": true,
-      "id": "24 41785698415"
+      "id": "24 71785698415"
     },
     {
       "title": "E rëndë në plazhin e Pishporos, 49-vjeçari humb jetën pasi dyshohet se pësoi arrest kardiak në det",
@@ -144,7 +177,7 @@
       "date": "2026-08-02T19:05:26+00:00",
       "dateStr": "02 Aug, 19:05",
       "isNew": true,
-      "id": "24 51785697526"
+      "id": "24 81785697526"
     },
     {
       "title": "Gomonia shkel perimetrin e sigurisë dhe rrezikon pushuesit në Ksamil, gjobitet drejtuesi",
@@ -155,40 +188,7 @@
       "date": "2026-08-02T19:01:29+00:00",
       "dateStr": "02 Aug, 19:01",
       "isNew": true,
-      "id": "24 61785697289"
-    },
-    {
-      "title": "Kumbulla mbetet në LaLiga, mbrojtësi do të luajë për Rayo Vallecanon këtë sezon",
-      "link": "https://24-ore.com/kumbulla-mbetet-ne-laliga-mbrojtesi-do-te-luaje-per-rayo-vallecanon-kete-sezon/",
-      "description": "Mbrojtësi i kombëtares shqiptare Marash Kumbulla do të vazhdojë të luajë në kampionatin spanjoll edhe sezonin e ardhshëm. Sipas mediave italiane, 26-vjeçari është shumë pranë huazimit te Rayo Vallecano. Kumbulla nuk bën pjesë në planet e Romës, skuadra që zotëron kartonin e tij. Mbrojtësi shqiptar k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T18:59:54+00:00",
-      "dateStr": "02 Aug, 18:59",
-      "isNew": true,
-      "id": "24 71785697194"
-    },
-    {
-      "title": "Prokuroria me Policinë identifikojnë lokacion të ri në Jabukë ku mund të ketë mbetje mortore",
-      "link": "https://24-ore.com/prokuroria-me-policine-identifikojne-lokacion-te-ri-ne-jabuke-ku-mund-te-kete-mbetje-mortore/",
-      "description": "Prokuroria Speciale e Republikës së Kosovës, në bashkëpunim me Policinë e Kosovës, ka njoftuar se gjatë veprimeve hetimore lidhur me rastin në Zubin Potok është identifikuar një lokacion i dyshuar ku mund të ketë mbetje mortore. Sipas njoftimit të përbashkët të Prokurorisë Speciale dhe Policisë së K",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T18:54:49+00:00",
-      "dateStr": "02 Aug, 18:54",
-      "isNew": true,
-      "id": "24 81785696889"
-    },
-    {
-      "title": "Kryengritja e kryetarëve që s’kanë asnjë kompetencë",
-      "link": "https://24-ore.com/kryengritja-e-kryetareve-qe-skane-asnje-kompetence/",
-      "description": "Nga Mero Baze Kur u bë reforma administrative më 2015, projekti i parë ishte me 47 bashki. Pothuajse i njëjti që është sot në tryezë si version i Partisë Socialiste. Për ta bërë më dëshpëruese gjendjen për PD-në, Ilir Meta propozoi në minutat e fundit të përfshihej edhe Shpëtim Idrizi në marrëveshje",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T18:50:01+00:00",
-      "dateStr": "02 Aug, 18:50",
-      "isNew": true,
-      "id": "24 91785696601"
+      "id": "24 91785697289"
     },
     {
       "title": "Newsroom me Erneta Shevroja, (02/08/2026)",
