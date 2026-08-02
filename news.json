@@ -1,106 +1,161 @@
 {
-  "lastUpdated": "2026-08-02T14:58:02.776044+00:00",
+  "lastUpdated": "2026-08-02T16:02:10.866794+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Dy orë në këmbë për të shuar flakët, zjarrfikësit neutralizojnë zjarrin në malin e Vinës, Gramsh",
-      "link": "https://24-ore.com/dy-ore-ne-kembe-per-te-shuar-flaket-zjarrfikesit-neutralizojne-zjarrin-ne-malin-e-vines-gramsh-2/",
-      "description": "Terreni i pakalueshëm nuk i ndaloi zjarrfikësit e Gramshit të ndërhynin për shuarjen e një zjarri të rënë në malin e Vinës. Për të mbërritur në vatrën e flakëve, efektivët ecën rreth dy orë në këmbë, pasi mjetet zjarrfikëse nuk mund të depërtonin në zonë. Të pajisur me pompa krahu dhe mjete rrethano",
+      "title": "Alarmi nga minat detare! Turqia, Rumania dhe Bullgaria ndërhyjnë me plan të përbashkët",
+      "link": "https://24-ore.com/alarmi-nga-minat-detare-turqia-rumania-dhe-bullgaria-nderhyjne-me-plan-te-perbashket/",
+      "description": "Turqia, Rumania dhe Bullgaria kanë nënshkruar një marrëveshje për krijimin e një grupi të përbashkët që do të pastrojë minat detare në Detin e Zi, të vendosura si pasojë e luftës në Ukrainë. Marrëveshja u nënshkrua në Stamboll nga ministri turk i Mbrojtjes, Yasar Guler, ministri rumun i Mbrojtjes, A",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-02T14:49:50+00:00",
-      "dateStr": "02 Aug, 14:49",
+      "date": "2026-08-02T16:01:07+00:00",
+      "dateStr": "02 Aug, 16:01",
       "isNew": true,
-      "id": "24 01785682190"
+      "id": "24 01785686467"
     },
     {
-      "title": "Islami: Arrestimet e fundit të shqiptarëve në Serbi dëshmojnë vazhdimësinë e politikës së Millosheviqit",
-      "link": "https://24-ore.com/islami-arrestimet-e-fundit-te-shqiptareve-ne-serbi-deshmojne-vazhdimesine-e-politikes-se-millosheviqit/",
-      "description": "Eksperti i sigurisë, Avni Islami, ka reaguar pas zhvillimeve të fundit në veri të Kosovës dhe arrestimeve të raportuara në Serbi, duke akuzuar Beogradin se po vazhdon të veprojë në kundërshtim me normat e së drejtës ndërkombëtare dhe, sipas tij, edhe me ligjet e veta. Në një reagim publik, Islami th",
-      "source": "24 ORE",
+      "title": "BE mbledh ministrat e Brendshëm pas krizës në Ceuta",
+      "link": "https://abcnews.al/be-mbledh-ministrat-e-brendshem-pas-krizes-ne-ceuta/",
+      "description": "Bashkimi Evropian do të zhvillojë të martën, më 4 gusht, një takim urgjent të ministrave të Brendshëm, pas mbërritjes së mbi 50 mijë emigrantëve në enklavën spanjolle të Ceutës dhe mosmarrëveshjeve që kjo situatë ka shkaktuar mes vendeve anëtare. Vendimi për mbledhjen u mor unanimisht gjatë një taki",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-02T14:40:19+00:00",
-      "dateStr": "02 Aug, 14:40",
+      "date": "2026-08-02T16:00:54+00:00",
+      "dateStr": "02 Aug, 16:00",
       "isNew": true,
-      "id": "24 11785681619"
+      "id": "abc01785686454"
     },
     {
-      "title": "Enea Jorgji vendos drejtësi në Conference League",
-      "link": "https://24-ore.com/enea-jorgji-vendos-drejtesi-ne-conference-league/",
-      "description": "Një skuadër arbitrash shqiptarë do të vendosë drejtësi në ndeshjen Debrecen-FC Copenhagen, e vlefshme për turin e tretë kualifikues të Conference League. Enea Jorgji do të jetë arbitri kryesor i ndeshjes që do të luhet të enjten në orën 19:00 në Hungari, ndërsa Denis Rexha dhe Xhulio Mani do të jenë",
+      "title": "​Rama –LVV-së: Para pesë vjetëve s’latë mjet pa përdorur për bllokim të Sunny Hill, sot krenoheni",
+      "link": "https://24-ore.com/rama-lvv-se-para-pese-vjeteve-slate-mjet-pa-perdorur-per-bllokim-te-sunny-hill-sot-krenoheni/",
+      "description": "Kryetari i Prishtinës, Përparim Rama, ka akuzuar Lëvizjen Vetëvendosje për ndryshim të qëndrimit ndaj festivalit Sunny Hill, duke thënë se partia që sot e promovon festivalin, dikur ishte përpjekur ta pengonte organizimin e tij. Përmes një reagimi publik, Rama tha se pesë vjet më parë Vetëvendosje k",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-02T14:40:08+00:00",
-      "dateStr": "02 Aug, 14:40",
+      "date": "2026-08-02T15:40:20+00:00",
+      "dateStr": "02 Aug, 15:40",
       "isNew": true,
-      "id": "24 21785681608"
+      "id": "24 11785685220"
     },
     {
-      "title": "Aksident në autostradën Tetovë-Shkup, përplasje zinxhirore një veturë dhe dy motoçikleta",
-      "link": "https://24-ore.com/aksident-ne-autostraden-tetove-shkup-perplasje-zinxhirore-nje-veture-dhe-dy-motocikleta/",
-      "description": "Ministria e Punëve të Brendshme njoftoi se mbrëmë ka ndodhur një aksident i rëndë komunikacioni në autostradën „Nënë Tereza“, në afërsi të pikës pagesore të Glumovës, në drejtim nga Tetova për në Shkup. Sipas informacioneve, incidenti ka ndodhur në orën 20:20, me ç’rast në një përplasje zinxhirore k",
+      "title": "IKShPK apelon për kujdes nga temperaturat e larta: Mos i lini fëmijët vetëm në veturë, kontrolloni të moshuarit",
+      "link": "https://24-ore.com/ikshpk-apelon-per-kujdes-nga-temperaturat-e-larta-mos-i-lini-femijet-vetem-ne-veture-kontrolloni-te-moshuarit/",
+      "description": "Instituti Kombëtar i Shëndetësisë Publike i Kosovës (IKShPK) ka bërë thirrje për kujdes të shtuar gjatë ditëve me temperatura të larta, duke u kërkuar qytetarëve të mbrojnë grupet më të ndjeshme dhe të njohin shenjat paralajmëruese të rrezikut nga vapa. Përmes një njoftimi, IKShPK ka apeluar që qyte",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-02T14:35:22+00:00",
-      "dateStr": "02 Aug, 14:35",
+      "date": "2026-08-02T15:35:44+00:00",
+      "dateStr": "02 Aug, 15:35",
       "isNew": true,
-      "id": "24 31785681322"
+      "id": "24 21785684944"
     },
     {
-      "title": "Tri pyetje (…në fakt, vetëm një një)",
-      "link": "https://24-ore.com/tri-pyetje-ne-fakt-vetem-nje-nje/",
-      "description": "Nga Ardi Stefa “Ta duam Shqipërinë në mënyrë primitive? Ta shesim në mënyrë moderne? Apo ta duam në mënyrë moderne?” Në të vërtetë, këto nuk janë tri pyetje. Është vetëm një, që në thelb kërkon të përcaktojmë se çfarë marrëdhënieje kemi me vendin tonë. Ta duash Shqipërinë në mënyrë primitive është e",
+      "title": "Juventusi prezanton Alajbegoviç, kontratë deri në vitin 2031",
+      "link": "https://24-ore.com/juventusi-prezanton-alajbegovic-kontrate-deri-ne-vitin-2031/",
+      "description": "Kerim Alajbegoviç është një lojtar i Juventusit. Anësori boshnjak, i lindur në vitin 2007, ka nënshkruar një kontratë 5-vjeçare me bardhezinjtë, deri në vitin 2031, siç është njoftuar nga klubi Njoftimi për shtyp gjithashtu detajon tarifën e transferimit. Ai vjen nga Bayer Leverkusen për 30 milionë ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-02T14:31:43+00:00",
-      "dateStr": "02 Aug, 14:31",
+      "date": "2026-08-02T15:35:33+00:00",
+      "dateStr": "02 Aug, 15:35",
       "isNew": true,
-      "id": "24 41785681103"
+      "id": "24 31785684933"
     },
     {
-      "title": "Chelsea blen Pep Chavarria, shitje rekord për Rayo Vallecano-n e Ivan Balliut",
-      "link": "https://24-ore.com/chelsea-blen-pep-chavarria-shitje-rekord-per-rayo-vallecano-n-e-ivan-balliut/",
-      "description": "Chelsea ka mbyllur marrëveshjen për afrimin e Chavarria nga Rayo Vallecano. Anësori i majtë do të kalojë te blutë e Londrës për 25 milionë euro, plus bonuset. Bëhet fjalë për një shitje rekord për klubin spanjoll, ku prej vitesh aktivizohet edhe mbrojtësi i Kombëtares shqiptare, Ivan Balliu. Rayo nu",
+      "title": "FSHF vijon investimet në “Arena e Demave”, avancojnë punimet",
+      "link": "https://24-ore.com/fshf-vijon-investimet-ne-arena-e-demave-avancojne-punimet/",
+      "description": "Federata Shqiptare e Futbollit vijon me ritme intensive investimet në infrastrukturën sportive në kuadër të përgatitjeve për organizimin e finaleve të Kampionatit Europian U-21 2027, që Shqipëria do të presë si një nga vendet bashkëorganizatore. Punimet në stadiumin “Arena e Demave” po avancojnë sip",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-02T14:20:49+00:00",
-      "dateStr": "02 Aug, 14:20",
+      "date": "2026-08-02T15:35:20+00:00",
+      "dateStr": "02 Aug, 15:35",
       "isNew": true,
-      "id": "24 51785680449"
+      "id": "24 41785684920"
     },
     {
-      "title": "Mbrojtësi i kombëtares shqiptare shkëlqen në miqësore, Pilo shënon 2 gola",
-      "link": "https://24-ore.com/mbrojtesi-i-kombetares-shqiptare-shkelqen-ne-miqesore-pilo-shenon-2-gola/",
-      "description": "Mbrojtësi i kombëtares shqiptare, Stavro Pilo, ka shënuar 2 gola me fanellën e AEK-ut të Athinës në miqësoren e fituar me rezultatin 3-0 ndaj St.Truiden. 25-vjeçari shqiptar zhbllokoi sfidën në minutën e 7-të, ndërsa në minutën e 18-të shënoi edhe golin e dytë personal. Titullar me fanellën e AEK-ut",
+      "title": "12-vjeçari kapet duke drejtuar një Jet Ski në Dhërmi, Policia gjobit me 10 mijë lekë pronarin dhe bllokon mjetin lundrues",
+      "link": "https://24-ore.com/12-vjecari-kapet-duke-drejtuar-nje-jet-ski-ne-dhermi-policia-gjobit-me-10-mije-leke-pronarin-dhe-bllokon-mjetin-lundrues/",
+      "description": "Policia Kufitare dhe Njësia Policore Detare kanë ndëshkuar me gjobë pronarin e një mjeti lundrues tip Jet Ski, pasi ia kishte dhënë për përdorim një të mituri 12-vjeçar në zonën e plazhit të Dhërmiut. Sipas njoftimit të Policisë, pas ndalimit, u konstatua se përveçse drejtohej nga një i mitur, mjeti",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-02T14:20:28+00:00",
-      "dateStr": "02 Aug, 14:20",
+      "date": "2026-08-02T15:31:17+00:00",
+      "dateStr": "02 Aug, 15:31",
       "isNew": true,
-      "id": "24 61785680428"
+      "id": "24 51785684677"
     },
     {
-      "title": "Kryeministri Rama: Nis restaurimi i filmit ikonik “Dimri i Fundit”",
-      "link": "https://24-ore.com/kryeministri-rama-nis-restaurimi-i-filmit-ikonik-dimri-i-fundit/",
-      "description": "Kreu i qeverisë, Edi Rama ka njoftuar se ka nisur procesi i restaurimit të filmit ikonik shqiptar “Dimri i Fundit”, një prej veprave më të rëndësishme të kinematografisë shqiptare. Përmes një postimi në rrjetin social Facebook, Rama e cilësoi restaurimin si rikthimin në jetë të një tjetër “guri të ç",
+      "title": "Bashkimi i Dimalit me Beratin, kryebashkiakja socialiste kundër partisë: Vendimi, jo transparent",
+      "link": "https://24-ore.com/bashkimi-i-dimalit-me-beratin-kryebashkiakja-socialiste-kunder-partise-vendimi-jo-transparent/",
+      "description": "Jo vetëm demokratët, por dhe socialistët kanë dalë kundër projektit të Edi Ramës për ta ndarë territorin e 46 bashki. Kryetarja e bashkisë Juliana Memaj në studion e Ditarit të Fundjavës në A2 CNN e shprehu hapur që është kundër bashkimit të Dimalit me Beratin, siç ka propozuar partia e saj mazhoran",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-02T14:20:26+00:00",
-      "dateStr": "02 Aug, 14:20",
+      "date": "2026-08-02T15:30:59+00:00",
+      "dateStr": "02 Aug, 15:30",
       "isNew": true,
-      "id": "24 71785680426"
+      "id": "24 61785684659"
     },
     {
-      "title": "KIEV – Zelensky rinovon thirrjen për më shumë raketa “Patriot” pas sulmeve të fundit ruse",
-      "link": "https://24-ore.com/kiev-zelensky-rinovon-thirrjen-per-me-shume-raketa-patriot-pas-sulmeve-te-fundit-ruse/",
-      "description": "KIEV, 2 gusht /ATSH-DPA/- Presidenti i ukrainas, Volodymyr Zelensky, përsëriti thirrjen për dërgimin urgjent të raketave të mbrojtjes ajrore “Patriot”, pas sulmeve të fundit me raketa të kryera nga Rusia ndaj Kievit. “Ne kemi nevojë për përgjigje ndaj këtij terrori rus, përgjigje reale nga bota”, th",
+      "title": "Rrahu një 15 vjeçar pas një konflikti, privohet nga liria 21 vjeçari nga fshati Idrizovë",
+      "link": "https://24-ore.com/rrahu-nje-15-vjecar-pas-nje-konflikti-privohet-nga-liria-21-vjecari-nga-fshati-idrizove/",
+      "description": "MPB ka njoftuar se më 01.08.2026, në orën 12:30, në Shkup, nëpunës policorë të SPB Shkup e kanë privuar nga liria V.H. (21) nga fshatin Idrizovë, rrethina e Shkupit, pas denoncimit paraprak të I.B. (44), se më 31.07.2026, në orën 23:50, në fsh. Idrizovë, V.H. i ka shkaktuar lëndim të rëndë trupor dj",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-02T14:18:42+00:00",
-      "dateStr": "02 Aug, 14:18",
+      "date": "2026-08-02T15:25:29+00:00",
+      "dateStr": "02 Aug, 15:25",
       "isNew": true,
-      "id": "24 81785680322"
+      "id": "24 71785684329"
+    },
+    {
+      "title": "Tërmeti godet Elbasanin, lëkundjet prekin qytetin! Ja sa ishte magnituda",
+      "link": "https://24-ore.com/termeti-godet-elbasanin-lekundjet-prekin-qytetin-ja-sa-ishte-magnituda/",
+      "description": "Një lëkundje sizmike me magnitudë 3.5 të shkallës Rihter ka goditur pasditen e sotme zonën e Elbasanit, duke shkaktuar shqetësim dhe panik te banorët. Sipas të dhënave paraprake, tërmeti është ndier në disa zona përreth qytetit, ndërsa qytetarë të shumtë kanë raportuar se kanë dalë jashtë banesave p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T15:21:06+00:00",
+      "dateStr": "02 Aug, 15:21",
+      "isNew": true,
+      "id": "24 81785684066"
+    },
+    {
+      "title": "Gjendet trupi i pajetë i 40-vjeçarit pas aksidentit në minierën e Bulqizës",
+      "link": "https://24-ore.com/gjendet-trupi-i-pajete-i-40-vjecarit-pas-aksidentit-ne-minieren-e-bulqizes/",
+      "description": "Është gjetur dhe nxjerrë trupi i pajetë i një 40-vjeçari, i cili humbi jetën pas një aksidenti gjatë procesit të punës në zonën e Tërnovës së Madhe, në bashkinë Bulqizë. Sipas informacionit zyrtar të policisë, kërkimet intensive nga ekipet e kërkim-shpëtimit, shërbimet e Policisë dhe personeli tekni",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T15:20:54+00:00",
+      "dateStr": "02 Aug, 15:20",
+      "isNew": true,
+      "id": "24 91785684054"
+    },
+    {
+      "title": "News Line me Sali Doçi, (02/07/2026)",
+      "link": "https://abcnews.al/news-line-me-sali-doci-02-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-02T15:12:33+00:00",
+      "dateStr": "02 Aug, 15:12",
+      "isNew": true,
+      "id": "abc11785683553"
+    },
+    {
+      "title": "Dhërmi/ I dha “Jet Ski” një 12-vjeçari, gjobitet pronari dhe bllokohet mjeti lundrues",
+      "link": "https://abcnews.al/dhermi-i-dha-jet-ski-nje-12-vjecari-gjobitet-pronari-dhe-bllokohet-mjeti-lundrues/",
+      "description": "Policia Kufitare dhe Njësia Policore Detare kanë ndëshkuar me gjobë një pronar mjeti lundrues në Dhërmi, pasi kishte lejuar një 12-vjeçar të drejtonte një Jet Ski. Gjatë kontrolleve për garantimin e rendit dhe sigurisë në hapësirat detare, shërbimet e Policisë konstatuan përballë plazhit të Dhërmiut",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-02T14:54:42+00:00",
+      "dateStr": "02 Aug, 14:54",
+      "isNew": true,
+      "id": "abc21785682482"
+    },
+    {
+      "title": "VIDEO/ Pamje tragjike! Dyshohet për dy viktima nga përplasja e dy helikopterëve zjarrfikës gjatë shuarjes së flakëve në Greqi",
+      "link": "https://abcnews.al/video-pamje-tragjike-dyshohet-per-dy-viktima-nga-perplasja-e-dy-helikoptereve-zjarrfikes-gjate-shuarjes-se-flakeve-ne-greqi/",
+      "description": "Dy helikopterë që merrnin pjesë në operacionin për shuarjen e zjarreve pyjore në zonën e Psathas, në Greqi, u përplasën në ajër gjatë ndërhyrjes. Pas aksidentit, autoritetet greke mobilizuan menjëherë forcat e kërkim-shpëtimit për ekuipazhet e dy helikopterëve. Sipas informacioneve paraprake, dy per",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-02T14:45:08+00:00",
+      "dateStr": "02 Aug, 14:45",
+      "isNew": true,
+      "id": "abc31785681908"
     },
     {
       "title": "VIDEO/ Përplasen dy helikopterë zjarrfikës gjatë operacionit për shuarjen e flakëve në Greqi",
@@ -111,18 +166,7 @@
       "date": "2026-08-02T14:13:33+00:00",
       "dateStr": "02 Aug, 14:13",
       "isNew": true,
-      "id": "abc01785680013"
-    },
-    {
-      "title": "Ftohet nga prokuroria e Kosovës për krime lufte, ish-gjenerali serb thotë se dikush e tradhtoi në Beograd",
-      "link": "https://24-ore.com/ftohet-nga-prokuroria-e-kosoves-per-krime-lufte-ish-gjenerali-serb-thote-se-dikush-e-tradhtoi-ne-beograd/",
-      "description": "Gjenerali në pension i Ushtrisë së Serbisë, Stojan Stojanoviq, është thirrur sërish për t’u paraqitur në lidhje me një procedurë për krime lufte, ndërsa ai pretendon se të dhënat e tij personale i janë dorëzuar institucioneve të drejtësisë në Kosovë nga dikush brenda aparatit shtetëror serb. Sipas d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T14:10:13+00:00",
-      "dateStr": "02 Aug, 14:10",
-      "isNew": true,
-      "id": "24 91785679813"
+      "id": "abc41785680013"
     },
     {
       "title": "News Hour me Sali Doçi, (02/07/2026)",
@@ -133,7 +177,7 @@
       "date": "2026-08-02T14:05:59+00:00",
       "dateStr": "02 Aug, 14:05",
       "isNew": true,
-      "id": "abc11785679559"
+      "id": "abc51785679559"
     },
     {
       "title": "Ministri i Jashtëm gjerman: Mbrojtja e kufijve të jashtëm, prioritet absolut për BE",
@@ -144,18 +188,18 @@
       "date": "2026-08-02T13:48:25+00:00",
       "dateStr": "02 Aug, 13:48",
       "isNew": true,
-      "id": "abc21785678505"
+      "id": "abc61785678505"
     },
     {
-      "title": "Rama: Protestat për reformën territoriale janë normale, të gjithë do të dëgjohen gjatë konsultimit publik",
-      "link": "https://abcnews.al/rama-protestat-per-reformen-territoriale-jane-normale-te-gjithe-do-te-degjohen-gjate-konsultimit-publik/",
-      "description": "Kryeministri Edi Rama ka reaguar përmes një postimi në Facebook lidhur me debatet dhe kundërshtimet për projektin e reformës së re territoriale, duke i cilësuar protestat dhe qëndrimet kundërshtuese si pjesë normale të procesit të konsultimit publik. Rama hodhi poshtë pretendimet se protestat e disa",
+      "title": "Harta e re, Rama: Të gjithë do dëgjohen!/ Polemikat për territorialen, kryeministri: Debati është i mirëpritur",
+      "link": "https://abcnews.al/harta-e-re-rama-te-gjithe-do-degjohen-polemikat-per-territorialen-kryeministri-debati-eshte-i-mirepritur/",
+      "description": "Reagon për herë të parë kryeministri Edi Rama mbi ndarjen e re territoriale me 46 bashki dhe debatet që po bëhen këto ditë mbi të. Sipas Ramës, debatet janë normale, por ai përjashton rastin e Poliçanit, ku pati protestë edhe me djegien e teserave të PS. “Përjashto aktin e turpshëm të djegies së tes",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-08-02T13:44:36+00:00",
       "dateStr": "02 Aug, 13:44",
       "isNew": true,
-      "id": "abc31785678276"
+      "id": "abc71785678276"
     },
     {
       "title": "“Smart City” do parandalojë aksidentet”/ Lamallari: Përplasjet e mjeteve, shkaktari kryesor i vdekjeve",
@@ -166,7 +210,7 @@
       "date": "2026-08-02T13:12:09+00:00",
       "dateStr": "02 Aug, 13:12",
       "isNew": true,
-      "id": "abc41785676329"
+      "id": "abc81785676329"
     },
     {
       "title": "A mund ta përjashtojë BE Spanjën nga zona Schengen për shkak të krizës në Ceuta?",
@@ -177,51 +221,7 @@
       "date": "2026-08-02T12:45:19+00:00",
       "dateStr": "02 Aug, 12:45",
       "isNew": true,
-      "id": "abc51785674719"
-    },
-    {
-      "title": "Kontrolle ‘blic’ në Tiranë e Fushë Krujë, pranga 2 personave/ Sekuestrohen kokainë, armë të ftohta dhe një automjet luksoz",
-      "link": "https://abcnews.al/kontrolle-blic-ne-tirane-e-fushe-kruje-pranga-2-personave-sekuestrohen-kokaine-arme-te-ftohta-dhe-nje-automjet-luksoz/",
-      "description": "Forca e Posaçme Operacionale dhe Forca e Posaçme &#8220;Shqiponja&#8221;, në bashkëpunim me Policinë Rrugore, kanë intensifikuar kontrollet në terren në kuadër të planit të masave për rritjen e sigurisë publike dhe goditjen e paligjshmërive. Operacioni është zhvilluar në akset kryesore rrugore dhe n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-02T12:32:47+00:00",
-      "dateStr": "02 Aug, 12:32",
-      "isNew": true,
-      "id": "abc61785673967"
-    },
-    {
-      "title": "Bizneset paguajnë deri në 100 mijë dollarë për t’i parë më shpejt postimet e Trumpit",
-      "link": "https://abcnews.al/bizneset-paguajne-deri-ne-100-mije-dollare-per-ti-pare-me-shpejt-postimet-e-trumpit/",
-      "description": "Kompania mediatike e presidentit amerikan, Donald Trump, Trump Media &#38; Technology Group, ka lançuar një shërbim të ri të të dhënave që u mundëson klientëve qasje më të shpejtë në postimet e tij në platformën Truth Social dhe në llogari të tjera me ndikim. Shërbimi i quajtur “Truth API” është kri",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-02T12:13:50+00:00",
-      "dateStr": "02 Aug, 12:13",
-      "isNew": true,
-      "id": "abc71785672830"
-    },
-    {
-      "title": "Daku shënon përsëri/ Sulmuesi kuqezi realizon golin e dytë të sezonit në Rusi",
-      "link": "https://abcnews.al/daku-shenon-perseri-sulmuesi-kuqezi-realizon-golin-e-dyte-te-sezonit-ne-rusi/",
-      "description": "Mirlind Daku vazhdon të jetë në formë shumë të mirë në kampionatin rus. Sulmuesi I kombëtares shqiptare shënoi përsëri, duke ndihmuar ekipin e tij, Rubin, që të arrijë një fitore të rëndësishme jashtë fushe. Rubin mundi rivalin Akron me rezultatin 2-1 dhe Daku realizoi golin e dytë në minutën e 19-t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-02T11:55:10+00:00",
-      "dateStr": "02 Aug, 11:55",
-      "isNew": true,
-      "id": "abc81785671710"
-    },
-    {
-      "title": "Rikthehet Lionel Messi/ Legjenda e topit hyn si zëvendësues në Ligën Amerikane",
-      "link": "https://abcnews.al/rikthehet-lionel-messi-legjenda-e-topit-hyn-si-zevendesues-ne-ligen-amerikane/",
-      "description": "E ndjen shumë përgjegjësinë ndaj fanelës. Lionel Mesi, edhe pse 39 vjeç, edhe pse ka pasur 12 muaj tepër të ngarkuar, nuk u vonua shumë me pushimet dhe ja ku është gati për të ndihmuar ekipin e tij në Shtetet e Bashkuara. Legjenda argjentinase, ish-kampion I botës, dhe tani nënkampion në fuqi, u kth",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-02T11:34:18+00:00",
-      "dateStr": "02 Aug, 11:34",
-      "isNew": true,
-      "id": "abc91785670458"
+      "id": "abc91785674719"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
