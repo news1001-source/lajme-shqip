@@ -1,29 +1,172 @@
 {
-  "lastUpdated": "2026-08-02T11:58:09.628659+00:00",
+  "lastUpdated": "2026-08-02T13:34:50.914886+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Mbi 12 mijë shkelje të konstatuara në një javë, Policia Rrugore “blindon” Tiranën",
-      "link": "https://24-ore.com/mbi-12-mije-shkelje-te-konstatuara-ne-nje-jave-policia-rrugore-blindon-tiranen/",
-      "description": "Policia Rrugore e Tiranës ka vijuar kontrollet intensive në akset kryesore dhe në rrugët me qarkullim të lartë, me synim parandalimin e aksidenteve dhe rritjen e sigurisë rrugore. Sipas bilancit të javës së fundit, shërbimet e Policisë Rrugore, të mbështetura nga monitorimi me mjete bashkëkohore, ka",
+      "title": "Kundërshtimet ndaj reformës territoriale, Rama: Dokumenti është në fazën e konsultimit publik",
+      "link": "https://24-ore.com/kundershtimet-ndaj-reformes-territoriale-rama-dokumenti-eshte-ne-fazen-e-konsultimit-publik/",
+      "description": "Kryeministri Edi Rama ka reaguar përmes një postimi në platformën X lidhur me debatin për reformën territoriale dhe kundërshtimet e ngritura. Rama shprehet se procesi aktual është pjesë e fazës së konsultimit publik ligjor 60-ditor dhe se kjo periudhë synon që çdo palë të shprehë qëndrimin e saj për",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-02T11:49:06+00:00",
-      "dateStr": "02 Aug, 11:49",
+      "date": "2026-08-02T13:22:36+00:00",
+      "dateStr": "02 Aug, 13:22",
       "isNew": true,
-      "id": "24 01785671346"
+      "id": "24 01785676956"
     },
     {
-      "title": "BDI: Qeveria e fotografive – dje në Dibër shpërndau çelësat e projektit të Qeverisë së kaluar",
-      "link": "https://24-ore.com/bdi-qeveria-e-fotografive-dje-ne-diber-shperndau-celesat-e-projektit-te-qeverise-se-kaluar/",
-      "description": "Projekti është përgatitur, financuar dhe nisur nga Qeveria e kaluar. Këta erdhën në fund, kur gjithçka ishte gati, për të shpërndarë çelësat dhe për t’u fotografuar.",
+      "title": "Kryebashkiaku kundërshton bashkimin e Patosit me Fierin: Jemi një ndër bashkitë më funksionale në vend",
+      "link": "https://24-ore.com/kryebashkiaku-kundershton-bashkimin-e-patosit-me-fierin-jemi-nje-nder-bashkite-me-funksionale-ne-vend/",
+      "description": "Kryetari i Bashkisë Patos, Fation Duro, ka reaguar ndaj propozimit për bashkimin e Bashkisë Patos me Bashkinë Fier, duke argumentuar se raporti përfundimtar i Komisionit për reformën territoriale nuk mbështet një vendim të tillë. Përmes një postimi në rrjetet sociale, Duro thekson se Patosi nuk rezu",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-02T11:45:13+00:00",
-      "dateStr": "02 Aug, 11:45",
+      "date": "2026-08-02T13:22:22+00:00",
+      "dateStr": "02 Aug, 13:22",
       "isNew": true,
-      "id": "24 11785671113"
+      "id": "24 11785676942"
+    },
+    {
+      "title": "Sekuestrohen drogë, armë dhe një automjet luksoz pas kontrolleve në Tiranë dhe Krujë, arrestohen 2 persona",
+      "link": "https://24-ore.com/sekuestrohen-droge-arme-dhe-nje-automjet-luksoz-pas-kontrolleve-ne-tirane-dhe-kruje-arrestohen-2-persona/",
+      "description": "Policia ka vijuar kontrollet intensive në terren për parandalimin dhe goditjen e paligjshmërive, me fokus rritjen e parametrave të sigurisë publike. Kontrollet janë shtrirë edhe në zonën e Krujës, ku janë arrestuar dy persona dhe janë sekuestruar lëndë narkotike e dyshuar kokainë, armë e ftohtë dhe ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T13:22:10+00:00",
+      "dateStr": "02 Aug, 13:22",
+      "isNew": true,
+      "id": "24 21785676930"
+    },
+    {
+      "title": "Rama reagon për herë të parë për Reformën Territoriale: Djegia e teserave të PS një akt i turpshëm, nuk ka regjim do konsultohemi",
+      "link": "https://24-ore.com/rama-reagon-per-here-te-pare-per-reformen-territoriale-djegia-e-teserave-te-ps-nje-akt-i-turpshem-nuk-ka-regjim-do-konsultohemi/",
+      "description": "Kryeministri Edi Rama ka reaguar për herë të parë pas debateve dhe kundërshtive të ngritura lidhur me draftin e Reformës së re Territoriale. Përmes një postimi në rrjetet sociale, kreu i qeverisë i cilësoi normale reagimet dhe qëndrimet kundër projektit, duke theksuar se dokumenti ndodhet në fazën 6",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T13:21:54+00:00",
+      "dateStr": "02 Aug, 13:21",
+      "isNew": true,
+      "id": "24 31785676914"
+    },
+    {
+      "title": "Zjarr në një zonë industriale në Francë, 30 mijë banorë urdhërohen të qëndrojnë brenda",
+      "link": "https://24-ore.com/zjarr-ne-nje-zone-industriale-ne-france-30-mije-banore-urdherohen-te-qendrojne-brenda/",
+      "description": "Rreth 30 mijë persona në lindje të Francës janë urdhëruar të qëndrojnë në banesat e tyre të dielën, pasi një zjarr shpërtheu në një objekt industrial ku ruheshin substanca toksike. Sipas transmetuesit francez Franceinfo, zjarri ra në ambientet e kompanisë Safe, në zonën industriale të Gandrange, në ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T13:21:37+00:00",
+      "dateStr": "02 Aug, 13:21",
+      "isNew": true,
+      "id": "24 41785676897"
+    },
+    {
+      "title": "“Nuk do e lejojmë”, Irani mohon marrëveshjen për rihapjen e Ngushticës së Hormuzit",
+      "link": "https://24-ore.com/nuk-do-e-lejojme-irani-mohon-marreveshjen-per-rihapjen-e-ngushtices-se-hormuzit/",
+      "description": "Irani ka mohuar zyrtarisht raportimet se ka rënë dakord për rihapjen e Ngushticës së Hormuzit, duke theksuar se nuk do të lejojë rifillimin e lundrimit në këtë rrugë strategjike detare për sa kohë që Shtetet e Bashkuara vazhdojnë, sipas Teheranit, “veprimet armiqësore”. Agjencitë iraniane raportuan ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T13:21:27+00:00",
+      "dateStr": "02 Aug, 13:21",
+      "isNew": true,
+      "id": "24 51785676887"
+    },
+    {
+      "title": "Zjarri masiv pranë Athinës vazhdon prej tri ditësh, urdhërohen evakuime të reja në Greqi",
+      "link": "https://24-ore.com/zjarri-masiv-prane-athines-vazhdon-prej-tri-ditesh-urdherohen-evakuime-te-reja-ne-greqi/",
+      "description": "Një zjarr i madh në perëndim të Athinës ka vijuar të përhapet për të tretën ditë radhazi, duke detyruar autoritetet greke të urdhërojnë evakuime të reja në disa zona pranë qytetit të Megarës. Sipas mediave greke, përfshirë Ekathimerini, autoritetet urdhëruan largimin e banorëve nga parku industrial ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T13:21:15+00:00",
+      "dateStr": "02 Aug, 13:21",
+      "isNew": true,
+      "id": "24 61785676875"
+    },
+    {
+      "title": "Sulme të reja në jug të Libanit, Izraeli plagos pesë ushtarë",
+      "link": "https://24-ore.com/sulme-te-reja-ne-jug-te-libanit-izraeli-plagos-pese-ushtare/",
+      "description": "Pesë ushtarë libanezë u plagosën të dielën gjatë një sulmi izraelit në jug të Libanit, njoftoi ushtria libaneze. Sipas një deklarate zyrtare, ushtarët pësuan lëndime të lehta në qytetin Kafra, në distriktin Bint Jbeil, ndërsa ishin duke shoqëruar civilë me një automjet ushtarak. Ushtria libaneze nuk",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T13:21:04+00:00",
+      "dateStr": "02 Aug, 13:21",
+      "isNew": true,
+      "id": "24 71785676864"
+    },
+    {
+      "title": "Trageti indonezian përfshihet nga flakët në mes të detit, pesë të vdekur dhe 41 të zhdukur",
+      "link": "https://24-ore.com/trageti-indonezian-perfshihet-nga-flaket-ne-mes-te-detit-pese-te-vdekur-dhe-41-te-zhdukur/",
+      "description": "Të paktën pesë persona kanë humbur jetën dhe 41 të tjerë rezultojnë të zhdukur pasi një traget indonezian u përfshi nga flakët gjatë lundrimit në det të dielën. Sipas Agjencisë Kombëtare të Kërkimit dhe Shpëtimit të Indonezisë (Basarnas), disa pasagjerë u detyruan të hidheshin në det për t’i shpëtua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T13:20:50+00:00",
+      "dateStr": "02 Aug, 13:20",
+      "isNew": true,
+      "id": "24 81785676850"
+    },
+    {
+      "title": "Ekstradimi e Ermal Beqirajt në Shqipëri mund të zgjatë disa javë! Mediat franceze japin detaje për procedurën",
+      "link": "https://24-ore.com/ekstradimi-e-ermal-beqirajt-ne-shqiperi-mund-te-zgjate-disa-jave-mediat-franceze-japin-detaje-per-proceduren/",
+      "description": "Rasti i biznesmenit shqiptar Ermal Beqiraj ka marrë vëmendje në mediat franceze, pas arrestimit të tij në Francë për fluturimin me avion të lehtë mbi centralin bërthamor Penly në Normandi. Mediat franceze raportojnë se Shqipëria ka kërkuar ekstradimin e tij, ndërsa ai ndodhet në paraburgim në pritje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T13:20:50+00:00",
+      "dateStr": "02 Aug, 13:20",
+      "isNew": true,
+      "id": "24 91785676850"
+    },
+    {
+      "title": "“Smart City” do parandalojë aksidentet”/ Lamallari: Përplasjet e mjeteve, shkaktari kryesor i vdekjeve",
+      "link": "https://abcnews.al/smart-city-do-parandaloje-aksidentet-lamallari-perplasjet-e-mjeteve-shkaktari-kryesor-i-vdekjeve/",
+      "description": "Aksidentet rrugore vijojnë të jenë një ndër shkaqet kryesore të humbjes së jetëve njerëzore, pavarësisht se vitet e fundit është shënuar një tendencë në rënie e numrit të tyre. Ministri i Brendshëm, Besfort Lamallari, përmes një reagimi publik, beri apel për më shumë ndërgjegjësim dhe përgjegjësi ng",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-02T13:12:09+00:00",
+      "dateStr": "02 Aug, 13:12",
+      "isNew": true,
+      "id": "abc01785676329"
+    },
+    {
+      "title": "A mund ta përjashtojë BE Spanjën nga zona Schengen për shkak të krizës në Ceuta?",
+      "link": "https://abcnews.al/a-mund-ta-perjashtoje-be-spanjen-nga-zona-schengen-per-shkak-te-krizes-ne-ceuta/",
+      "description": "Ndërsa rreth 60,000 emigrantë hynë në mënyrë të parregullt në enklavën spanjolle të Ceutës, disa vende të BE-së po kërkojnë që Spanja të përjashtohet përkohësisht nga zona e lëvizjes së lirë Shengen, një masë e fundit që mund të përdoret vetëm në rrethana të jashtëzakonshme. Rritja më e madhe e mbër",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-02T12:45:19+00:00",
+      "dateStr": "02 Aug, 12:45",
+      "isNew": true,
+      "id": "abc11785674719"
+    },
+    {
+      "title": "Kontrolle ‘blic’ në Tiranë e Fushë Krujë, pranga 2 personave/ Sekuestrohen kokainë, armë të ftohta dhe një automjet luksoz",
+      "link": "https://abcnews.al/kontrolle-blic-ne-tirane-e-fushe-kruje-pranga-2-personave-sekuestrohen-kokaine-arme-te-ftohta-dhe-nje-automjet-luksoz/",
+      "description": "Forca e Posaçme Operacionale dhe Forca e Posaçme &#8220;Shqiponja&#8221;, në bashkëpunim me Policinë Rrugore, kanë intensifikuar kontrollet në terren në kuadër të planit të masave për rritjen e sigurisë publike dhe goditjen e paligjshmërive. Operacioni është zhvilluar në akset kryesore rrugore dhe n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-02T12:32:47+00:00",
+      "dateStr": "02 Aug, 12:32",
+      "isNew": true,
+      "id": "abc21785673967"
+    },
+    {
+      "title": "Bizneset paguajnë deri në 100 mijë dollarë për t’i parë më shpejt postimet e Trumpit",
+      "link": "https://abcnews.al/bizneset-paguajne-deri-ne-100-mije-dollare-per-ti-pare-me-shpejt-postimet-e-trumpit/",
+      "description": "Kompania mediatike e presidentit amerikan, Donald Trump, Trump Media &#38; Technology Group, ka lançuar një shërbim të ri të të dhënave që u mundëson klientëve qasje më të shpejtë në postimet e tij në platformën Truth Social dhe në llogari të tjera me ndikim. Shërbimi i quajtur “Truth API” është kri",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-02T12:13:50+00:00",
+      "dateStr": "02 Aug, 12:13",
+      "isNew": true,
+      "id": "abc31785672830"
+    },
+    {
+      "title": "Daku shënon përsëri/ Sulmuesi kuqezi realizon golin e dytë të sezonit në Rusi",
+      "link": "https://abcnews.al/daku-shenon-perseri-sulmuesi-kuqezi-realizon-golin-e-dyte-te-sezonit-ne-rusi/",
+      "description": "Mirlind Daku vazhdon të jetë në formë shumë të mirë në kampionatin rus. Sulmuesi I kombëtares shqiptare shënoi përsëri, duke ndihmuar ekipin e tij, Rubin, që të arrijë një fitore të rëndësishme jashtë fushe. Rubin mundi rivalin Akron me rezultatin 2-1 dhe Daku realizoi golin e dytë në minutën e 19-t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-02T11:55:10+00:00",
+      "dateStr": "02 Aug, 11:55",
+      "isNew": true,
+      "id": "abc41785671710"
     },
     {
       "title": "Rikthehet Lionel Messi/ Legjenda e topit hyn si zëvendësues në Ligën Amerikane",
@@ -34,21 +177,10 @@
       "date": "2026-08-02T11:34:18+00:00",
       "dateStr": "02 Aug, 11:34",
       "isNew": true,
-      "id": "abc01785670458"
+      "id": "abc51785670458"
     },
     {
-      "title": "ZAGREB – Mijëra udhëtarë përballen me 10 orë pritje në kufirin Kroaci-Mali i Zi",
-      "link": "https://24-ore.com/zagreb-mijera-udhetare-perballen-me-10-ore-pritje-ne-kufirin-kroaci-mali-i-zi/",
-      "description": "– Kolona të gjata automjetesh dhe pritje që në disa raste kanë arritur deri në 10 orë janë regjistruar gjatë fundjavës në pikën kufitare Karasoviçi–Debeli Brijeg, në kufirin mes Kroacisë dhe Malit të Zi, duke krijuar një nga situatat më të vështira të sezonit turistik në rajonin e Adriatikut, sipas ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T11:30:10+00:00",
-      "dateStr": "02 Aug, 11:30",
-      "isNew": true,
-      "id": "24 21785670210"
-    },
-    {
-      "title": "SHBA/ Mijëra të evakuar nga zjarret në Uashington",
+      "title": "SHBA/ Mijëra të evakuuar nga zjarret në Uashington",
       "link": "https://abcnews.al/shba-mijera-te-evakuar-nga-zjarret-ne-uashington/",
       "description": "Mijëra njerëz u urdhëruan të largoheshin nga shtëpitë e tyre në Spokane, shteti i Uashingtonit, në veriperëndim të Shteteve të Bashkuara, për shkak të një zjarri që i është afruar. Situata e krijuar detyroi guvernatorin lokal të shpallte gjendjen e jashtëzakonshme. Rreth 81 mijë hektarë u dogjën në ",
       "source": "ABC News",
@@ -56,84 +188,7 @@
       "date": "2026-08-02T11:25:51+00:00",
       "dateStr": "02 Aug, 11:25",
       "isNew": true,
-      "id": "abc11785669951"
-    },
-    {
-      "title": "Mbi 12 mijë shkelje të konstatuara në një javë, Policia Rrugore e Tiranës intensifikon kontrollet",
-      "link": "https://24-ore.com/mbi-12-mije-shkelje-te-konstatuara-ne-nje-jave-policia-rrugore-e-tiranes-intensifikon-kontrollet/",
-      "description": "Policia Rrugore e Tiranës ka vijuar kontrollet intensive në akset kryesore dhe në rrugët me qarkullim të lartë, me synim parandalimin e aksidenteve dhe rritjen e sigurisë rrugore. Sipas bilancit të javës së fundit, shërbimet e Policisë Rrugore, të mbështetura nga monitorimi me mjete bashkëkohore, ka",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T11:23:36+00:00",
-      "dateStr": "02 Aug, 11:23",
-      "isNew": true,
-      "id": "24 31785669816"
-    },
-    {
-      "title": "Përfshihet nga flakët një apartament në Vlorë (VIDEO)",
-      "link": "https://24-ore.com/perfshihet-nga-flaket-nje-apartament-ne-vlore-video/",
-      "description": "Një apartament është përfshirë nga flakët në katin e tretë të një pallati, në rrugën Transballkanike. Menjëherë pas marrjes së njoftimit, në vendngjarje kanë mbërritur disa mjete dhe forca të shumta të shërbimit zjarrfikës, të cilat kanë ndërhyrë me shpejtësi për të vënë situatën nën kontroll dhe pë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T11:23:24+00:00",
-      "dateStr": "02 Aug, 11:23",
-      "isNew": true,
-      "id": "24 41785669804"
-    },
-    {
-      "title": "Të rinj me pagesë – vrasësit adoleshentë të rekrutuar për të vrarë në të gjithë Evropën",
-      "link": "https://24-ore.com/te-rinj-me-pagese-vrasesit-adoleshente-te-rekrutuar-per-te-vrare-ne-te-gjithe-evropen/",
-      "description": "Marrë nga BBC Në një periferi të Stokholmit, një burrë i veshur me të zeza u shfaq nga nata e dimrit. Duke mbajtur një pistoletë, ai iu afrua 20-vjeçarit Murad Abdelkader, një student që po kthehej nga një turn në McDonald’s. Personi i armatosur hapi zjarr, duke qëlluar vazhdimisht ndërsa i afrohej ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T11:23:08+00:00",
-      "dateStr": "02 Aug, 11:23",
-      "isNew": true,
-      "id": "24 51785669788"
-    },
-    {
-      "title": "Kriza e migracionit, Italia vendos kontrolle kufitare për të ardhurit nga Spanja",
-      "link": "https://24-ore.com/kriza-e-migracionit-italia-vendos-kontrolle-kufitare-per-te-ardhurit-nga-spanja/",
-      "description": "Kriza e migracionit në enklavën spanjolle të Ceutës ka shkaktuar tensione politike mes Italisë dhe Spanjës, pasi qeveria italiane njoftoi rivendosjen e përkohshme të kontrolleve kufitare për lidhjet detare dhe ajrore me Spanjën. Vendimi erdhi pasi mijëra migrantë mbërritën në Ceuta, duke nxitur spek",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T11:22:53+00:00",
-      "dateStr": "02 Aug, 11:22",
-      "isNew": true,
-      "id": "24 61785669773"
-    },
-    {
-      "title": "Greqi, 2 persona arrestohen për zjarrin në Beoti, të shkaktuar nga shkëndijat në rrjetin e turbinave me erë",
-      "link": "https://24-ore.com/greqi-2-persona-arrestohen-per-zjarrin-ne-beoti-te-shkaktuar-nga-shkendijat-ne-rrjetin-e-turbinave-me-ere/",
-      "description": "Dy persona janë arrestuar për një zjarr të madh që shpërtheu në rajonin grek të Beotisë dhe u përhap në Atikë, njoftoi sot Drejtoria Greke për Luftimin e Veprave Penale të Zjarrvënieve. Inxhinieri elektrik që nënshkroi projektin dhe mbikëqyri punimet, si dhe kontraktori përgjegjës për ndërtimin e rr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T11:22:35+00:00",
-      "dateStr": "02 Aug, 11:22",
-      "isNew": true,
-      "id": "24 71785669755"
-    },
-    {
-      "title": "Shkon në 72 numri i viktimave nga kriza e migracionit në Ceuta, mbi 48 mijë migrantë janë kthyer në Marok",
-      "link": "https://24-ore.com/shkon-ne-72-numri-i-viktimave-nga-kriza-e-migracionit-ne-ceuta-mbi-48-mije-migrante-jane-kthyer-ne-marok/",
-      "description": "Numri i viktimave nga kriza e migracionit në enklavën spanjolle të Ceutës ka arritur në 72, ndërsa më shumë se 48,300 migrantë janë kthyer në Marok, raportoi të dielën transmetuesi publik spanjoll RTVE. Sipas autoriteteve, ekipet e shpëtimit kanë nxjerrë trupat e 72 personave që u mbytën gjatë përpj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T11:22:19+00:00",
-      "dateStr": "02 Aug, 11:22",
-      "isNew": true,
-      "id": "24 81785669739"
-    },
-    {
-      "title": "Tërmet me magnitudë 5.9 godet Ishullin e Veriut në Zelandën e Re",
-      "link": "https://24-ore.com/termet-me-magnitude-5-9-godet-ishullin-e-veriut-ne-zelanden-e-re/",
-      "description": "Një tërmet me magnitudë 5.9 ballë të shkallës Rihter goditi të dielën bregun lindor të Ishullit të Veriut në Zelandën e Re, njoftoi Qendra Gjermane e Kërkimeve për Gjeoshkencat (GFZ). Sipas GFZ-së, lëkundjet sizmike u regjistruan në orën 08:35 GMT dhe epiqendra e tërmetit ishte në një thellësi prej ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T11:21:56+00:00",
-      "dateStr": "02 Aug, 11:21",
-      "isNew": true,
-      "id": "24 91785669716"
+      "id": "abc61785669951"
     },
     {
       "title": "Edicioni i mesditës me Sali Doçin, (02/08/2026)",
@@ -144,7 +199,7 @@
       "date": "2026-08-02T11:00:20+00:00",
       "dateStr": "02 Aug, 11:00",
       "isNew": true,
-      "id": "abc21785668420"
+      "id": "abc71785668420"
     },
     {
       "title": "Pamjet brenda banesës së dëmtuar në Vlorë/ Ndërhyrja e shpejtë e zjarrfikësve izoloi flakët",
@@ -155,7 +210,7 @@
       "date": "2026-08-02T10:58:55+00:00",
       "dateStr": "02 Aug, 10:58",
       "isNew": true,
-      "id": "abc31785668335"
+      "id": "abc81785668335"
     },
     {
       "title": "Nis fushata “Infantino Ik”/ Pritet “luftë civile” në FIFA për postin e presidentit",
@@ -166,62 +221,7 @@
       "date": "2026-08-02T10:57:35+00:00",
       "dateStr": "02 Aug, 10:57",
       "isNew": true,
-      "id": "abc41785668255"
-    },
-    {
-      "title": "Trump fal sërish Iranin/ Presidenti: Anuluam planet për goditjen ushtarake ndaj Teheranit",
-      "link": "https://abcnews.al/trump-fal-serish-iranin-presidenti-anuluam-planet-per-goditjen-ushtarake-ndaj-teheranit/",
-      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump, deklaroi se ka anuluar planet për sulme ushtarake ndaj Iranit, me kusht që të arrihet &#8220;me shpejtësi&#8221; një marrëveshje me Teheranin. Në një postim në platformën Truth Social, Trump tha se Irani dhe disa vende të Lindjes së Mesme i kanë kërk",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-02T10:35:23+00:00",
-      "dateStr": "02 Aug, 10:35",
-      "isNew": true,
-      "id": "abc51785666923"
-    },
-    {
-      "title": "Policia Rrugore “skanon” Tiranën/ Mbi 12 mijë gjoba në një javë, procedohet një drejtues për ryshfet",
-      "link": "https://abcnews.al/policia-rrugore-skanon-tiranen-mbi-12-mije-gjoba-ne-nje-jave-procedohet-nje-drejtues-per-ryshfet/",
-      "description": "Policia Rrugore e Tiranës ka intensifikuar kontrollet në akset kryesore dhe ato me fluks të lartë qarkullimi, me qëllim parandalimin e aksidenteve dhe rritjen e sigurisë rrugore. Sipas bilancit të javës së fundit, janë konstatuar 12 505 shkelje të rregullave të qarkullimit rrugor, ndërsa janë eviden",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-02T10:24:52+00:00",
-      "dateStr": "02 Aug, 10:24",
-      "isNew": true,
-      "id": "abc61785666292"
-    },
-    {
-      "title": "Përmbytjet në Kinë, rritet numri i viktimave",
-      "link": "https://abcnews.al/permbytjet-ne-kine-rritet-numri-i-viktimave/",
-      "description": "Numri i të vdekurve nga përmbytja që goditi një vend turistik në Kinën veriperëndimore, një javë më parë, është rritur nga 10 në 25, siç raportuan sot mediat shtetërore. Përmbytja, që gjithashtu shkaktoi 23 të plagosur shkatërroi zonën turistike Shuangshimen, më 26 korrik. Shuangshimen është një des",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-02T10:15:47+00:00",
-      "dateStr": "02 Aug, 10:15",
-      "isNew": true,
-      "id": "abc71785665747"
-    },
-    {
-      "title": "Dronët zbulojnë parcelën me drogë/ Policia e Dibrës arreston dy kultivuesit, kanabisi asgjësohet me djegie",
-      "link": "https://abcnews.al/dronet-zbulojne-parcelen-me-droge-policia-e-dibres-arreston-dy-kultivuesit-kanabisi-asgjesohet-me-djegie/",
-      "description": "Monitorimi me dronë nga ajri për parandalimin dhe goditjen e rasteve të kultivimit të bimëve narkotike, zbuloi këtë parcelë kanabisi në dibër. Droga u zbulua dhe u asgjësua nga policia e Dibrës, ndërsa në pranga kanë përfunduar dy persona të dyshuar si kultivuesit e saj. Operacioni antidrogë i kodua",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-02T10:14:34+00:00",
-      "dateStr": "02 Aug, 10:14",
-      "isNew": true,
-      "id": "abc81785665674"
-    },
-    {
-      "title": "Të shtëna me armë në një restorant në SHBA, tre të vrarë dhe shtatë të plagosur",
-      "link": "https://abcnews.al/te-shtena-me-arme-ne-nje-restorant-ne-shba-tre-te-vrare-dhe-shtate-te-plagosur/",
-      "description": "Tre persona kanë humbur jetën dhe shtatë të tjerë janë plagosur pas një sulmi me armë zjarri në një restorant të rrjetit “In-N-Out Burger” në jug të Idaho-s, në Shtetet e Bashkuara të Amerikës. Ngjarja ndodhi pasditen e së shtunës në një zonë të frekuentuar tregtare në qytetin Twin Falls, ku qindra ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-02T09:44:50+00:00",
-      "dateStr": "02 Aug, 09:44",
-      "isNew": true,
-      "id": "abc91785663890"
+      "id": "abc91785668255"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
