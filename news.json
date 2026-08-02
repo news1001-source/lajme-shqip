@@ -1,18 +1,139 @@
 {
-  "lastUpdated": "2026-08-02T16:02:10.866794+00:00",
+  "lastUpdated": "2026-08-02T17:57:36.787007+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Alarmi nga minat detare! Turqia, Rumania dhe Bullgaria ndërhyjnë me plan të përbashkët",
-      "link": "https://24-ore.com/alarmi-nga-minat-detare-turqia-rumania-dhe-bullgaria-nderhyjne-me-plan-te-perbashket/",
-      "description": "Turqia, Rumania dhe Bullgaria kanë nënshkruar një marrëveshje për krijimin e një grupi të përbashkët që do të pastrojë minat detare në Detin e Zi, të vendosura si pasojë e luftës në Ukrainë. Marrëveshja u nënshkrua në Stamboll nga ministri turk i Mbrojtjes, Yasar Guler, ministri rumun i Mbrojtjes, A",
+      "title": "OVL-UÇK reagon ndaj nderimit të njësive serbe: Po glorifikohen mohuesit e krimeve të luftës",
+      "link": "https://24-ore.com/ovl-uck-reagon-ndaj-nderimit-te-njesive-serbe-po-glorifikohen-mohuesit-e-krimeve-te-luftes/",
+      "description": "Organizata e Veteranëve të Luftës së Ushtrisë Çlirimtare të Kosovës (OVL-UÇK) ka reaguar pas nderimit të njësive ushtarake serbe, duke e cilësuar këtë veprim si institucionalizim të mohimit të krimeve të luftës dhe mbrojtje të pandëshkueshmërisë. Në një reagim publik, OVL-UÇK ka deklaruar se nderimi",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-02T16:01:07+00:00",
-      "dateStr": "02 Aug, 16:01",
+      "date": "2026-08-02T17:54:49+00:00",
+      "dateStr": "02 Aug, 17:54",
       "isNew": true,
-      "id": "24 01785686467"
+      "id": "24 01785693289"
+    },
+    {
+      "title": "Biserko: Zbulimi i varrezave të reja masive hap çështjen e përgjegjësisë së Serbisë për krimet në Kosovë",
+      "link": "https://24-ore.com/biserko-zbulimi-i-varrezave-te-reja-masive-hap-ceshtjen-e-pergjegjesise-se-serbise-per-krimet-ne-kosove/",
+      "description": "Kryetarja e Komitetit të Helsinkit për të Drejtat e Njeriut, Sonja Biserko ka deklaruar se në Kosovë ende ekzistojnë shumë varreza masive të pazbuluara, të cilat, sipas saj, dëshmojnë për përmasat e krimeve të kryera gjatë luftës. Në një intervistë për “Info Magazine” në Klan Kosova, Biserko tha se ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T17:49:55+00:00",
+      "dateStr": "02 Aug, 17:49",
+      "isNew": true,
+      "id": "24 11785692995"
+    },
+    {
+      "title": "Komuna e Studeniçanit formon komision për vlerësimin e dëmeve nga stuhia",
+      "link": "https://24-ore.com/komuna-e-studenicanit-formon-komision-per-vleresimin-e-demeve-nga-stuhia/",
+      "description": "Stuhia e fuqishme që përfshiu Shkupin ka shkaktuar dëme në disa komuna të qytetit. Erërat e forta kanë lënë pas dëme të mëdha matriale, duke rrëzuar pemë, dëmtuar çati të shtëpive dhe shkaktuar ndërprerje të energjisë elektrike në disa zona. Në Komunën e Studeniçanit, pasojat janë vërejtur kryesisht",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T17:39:52+00:00",
+      "dateStr": "02 Aug, 17:39",
+      "isNew": true,
+      "id": "24 21785692392"
+    },
+    {
+      "title": "Fati i kërkesave, nga negocimi te numrat dhe anasjelltas!",
+      "link": "https://24-ore.com/fati-i-kerkesave-nga-negocimi-te-numrat-dhe-anasjelltas/",
+      "description": "Nga Preç Zogaj Në historinë e demokracisë sonë të re, protestat popullore me kërkesa politike kanë patur secila veçoritë e tyre të lidhura me kohën, kontekstin, imperativin, e tjerë. Kanë patur sakaq një gjë të përbashkët: në fund të herës qëllimet i kanë arritur në tryezën e bisedimeve me palën për",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T17:31:42+00:00",
+      "dateStr": "02 Aug, 17:31",
+      "isNew": true,
+      "id": "24 31785691902"
+    },
+    {
+      "title": "Debati mbi 46 bashkitë/ Elezi: Do të ketë një konsultim publik në të gjitha bashkitë",
+      "link": "https://abcnews.al/debati-mbi-46-bashkite-elezi-do-te-kete-nje-konsultim-publik-ne-te-gjitha-bashkite/",
+      "description": "Deputeti i Partisë Socialiste, Ermal Elezi, ka folur për reformën territoriale dhe propozimin e PS-së për riorganizimin e njësive vendore. Në një intervistë për emisionin “Newsroom” në ABC News, Elezi tha se diskutimet për këtë reformë vijojnë dhe se ende nuk ka një vendim përfundimtar. Ai theksoi s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-02T17:30:46+00:00",
+      "dateStr": "02 Aug, 17:30",
+      "isNew": true,
+      "id": "abc01785691846"
+    },
+    {
+      "title": "MJEKËSI – Një analizë gjaku mund të identifikojë personat e shëndetshëm me rrezik të lartë për Alzheimer",
+      "link": "https://24-ore.com/mjekesi-nje-analize-gjaku-mund-te-identifikoje-personat-e-shendetshem-me-rrezik-te-larte-per-alzheimer/",
+      "description": "– Një analizë gjaku mund të parashikojë nëse të moshuarit që aktualisht nuk shfaqin simptoma kanë gjasa të zhvillojnë sëmundjen e Alzheimerit brenda pesë ose dhjetë viteve të ardhshme, sipas AP. Një studim i ri i publikuar në revistën “JAMA”, tregon se testi mund të ndihmojë në identifikimin e perso",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T17:30:08+00:00",
+      "dateStr": "02 Aug, 17:30",
+      "isNew": true,
+      "id": "24 41785691808"
+    },
+    {
+      "title": "Rama tha se Reforma Territoriale nuk është konsultuar ende, reagon PD",
+      "link": "https://24-ore.com/rama-tha-se-reforma-territoriale-nuk-eshte-konsultuar-ende-reagon-pd/",
+      "description": "Partia Demokratike ka reaguar ndaj deklaratave të kryeministrit Edi Rama për Reformën Territoriale dhe debatit mbi ndryshimet e mundshme në hartën administrative të vendit. Bashkëkryetari i Komisionit për Reformën Territoriale, Luçiano Boçi, ka kundërshtuar qëndrimet e kreut të qeverisë, duke akuzua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T17:20:09+00:00",
+      "dateStr": "02 Aug, 17:20",
+      "isNew": true,
+      "id": "24 51785691209"
+    },
+    {
+      "title": "Fillimi i ri i Merz dështon shpejt",
+      "link": "https://24-ore.com/fillimi-i-ri-i-merz-deshton-shpejt/",
+      "description": "Në kohë normale, pushimet verore parlamentare të Gjermanisë janë koha kur politikanët e lartë marrin frymë lirisht, dhe gazetarët lihen të kërkojnë të ashtuquajturat histori të Sommerloch : histori verore rreth kafshëve të arratisura dhe grabitqarëve misteriozë, kërcënimi i të cilëve tenton të zbehe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T17:19:56+00:00",
+      "dateStr": "02 Aug, 17:19",
+      "isNew": true,
+      "id": "24 61785691196"
+    },
+    {
+      "title": "Muçi ndëshkon Udinesen",
+      "link": "https://24-ore.com/muci-ndeshkon-udinesen/",
+      "description": "Ernest Muçi ka gjetur rrugën e rrjetës në miqësoren që Trabzonspori luajti kundër Udinezes. Skuadra fitoi me rezultatin 1-0 përballë italianëve falë golit të shënuar nga sulmuesi shqiptar. Sezonin e kaluar Muçi shkëlqeu në kampionatin turk dhe pritshmëritë për këtë sezon janë shumë të larta për sulm",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T17:10:28+00:00",
+      "dateStr": "02 Aug, 17:10",
+      "isNew": true,
+      "id": "24 71785690628"
+    },
+    {
+      "title": "QMK: Regjistrohen 13 zjarre, pesë prej tyre janë ende aktive",
+      "link": "https://24-ore.com/qmk-regjistrohen-13-zjarre-pese-prej-tyre-jane-ende-aktive/",
+      "description": "Si pasojë e valës së të nxehtit që ka përfshirë vendin, është rritur edhe numri i zjarreve në hapësira të hapura. Sipas Qendrës për Menaxhim me Kriza, deri në orën 13:00 të kësaj të diele janë regjistruar gjithsej 13 zjarre në mbarë vendin. Pesë prej tyre mbeten aktive, dy janë vënë nën kontroll, nd",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T16:49:56+00:00",
+      "dateStr": "02 Aug, 16:49",
+      "isNew": true,
+      "id": "24 81785689396"
+    },
+    {
+      "title": "Kundërshtimet për reformën territoriale, Boçi i përgjigjet Ramës: Për ‘kalorësin’ që ecën mbi gomar",
+      "link": "https://24-ore.com/kundershtimet-per-reformen-territoriale-boci-i-pergjigjet-rames-per-kaloresin-qe-ecen-mbi-gomar/",
+      "description": "Bashkëkryetari i Komisionti të Reformës Territoriale, Luçiano Boçi i është përgjigjur Edi Ramës pas deklaratave të tij për kundërshtimet brenda Partisë Socialiste dhe debatit mbi ndryshimin e hartës administrative. Boçi akuzon kreun e qeverisë se po përpiqet të paraqesë si ‘pluralizëm’ atë që sipas ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T16:48:56+00:00",
+      "dateStr": "02 Aug, 16:48",
+      "isNew": true,
+      "id": "24 91785689336"
+    },
+    {
+      "title": "VIDEO/ Tragjedia në Indonezi, anija u përfshi nga flakët, të paktën 5 viktima",
+      "link": "https://abcnews.al/video-tragjedia-ne-indonezi-anija-u-perfshi-nga-flaket-te-pakten-5-viktima/",
+      "description": "Të paktën pesë persona kanë humbur jetën dhe 41 të tjerë rezultojnë të zhdukur pasi një zjarr përfshiu një anije pranë ishullit Madura, në Indonezi. Sipas autoriteteve indoneziane të kërkim-shpëtimit, në bordin e tragetit ndodheshin gjithsej 271 persona, përfshirë pasagjerët dhe anëtarët e ekuipazhi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-02T16:20:32+00:00",
+      "dateStr": "02 Aug, 16:20",
+      "isNew": true,
+      "id": "abc11785687632"
     },
     {
       "title": "BE mbledh ministrat e Brendshëm pas krizës në Ceuta",
@@ -23,106 +144,7 @@
       "date": "2026-08-02T16:00:54+00:00",
       "dateStr": "02 Aug, 16:00",
       "isNew": true,
-      "id": "abc01785686454"
-    },
-    {
-      "title": "​Rama –LVV-së: Para pesë vjetëve s’latë mjet pa përdorur për bllokim të Sunny Hill, sot krenoheni",
-      "link": "https://24-ore.com/rama-lvv-se-para-pese-vjeteve-slate-mjet-pa-perdorur-per-bllokim-te-sunny-hill-sot-krenoheni/",
-      "description": "Kryetari i Prishtinës, Përparim Rama, ka akuzuar Lëvizjen Vetëvendosje për ndryshim të qëndrimit ndaj festivalit Sunny Hill, duke thënë se partia që sot e promovon festivalin, dikur ishte përpjekur ta pengonte organizimin e tij. Përmes një reagimi publik, Rama tha se pesë vjet më parë Vetëvendosje k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T15:40:20+00:00",
-      "dateStr": "02 Aug, 15:40",
-      "isNew": true,
-      "id": "24 11785685220"
-    },
-    {
-      "title": "IKShPK apelon për kujdes nga temperaturat e larta: Mos i lini fëmijët vetëm në veturë, kontrolloni të moshuarit",
-      "link": "https://24-ore.com/ikshpk-apelon-per-kujdes-nga-temperaturat-e-larta-mos-i-lini-femijet-vetem-ne-veture-kontrolloni-te-moshuarit/",
-      "description": "Instituti Kombëtar i Shëndetësisë Publike i Kosovës (IKShPK) ka bërë thirrje për kujdes të shtuar gjatë ditëve me temperatura të larta, duke u kërkuar qytetarëve të mbrojnë grupet më të ndjeshme dhe të njohin shenjat paralajmëruese të rrezikut nga vapa. Përmes një njoftimi, IKShPK ka apeluar që qyte",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T15:35:44+00:00",
-      "dateStr": "02 Aug, 15:35",
-      "isNew": true,
-      "id": "24 21785684944"
-    },
-    {
-      "title": "Juventusi prezanton Alajbegoviç, kontratë deri në vitin 2031",
-      "link": "https://24-ore.com/juventusi-prezanton-alajbegovic-kontrate-deri-ne-vitin-2031/",
-      "description": "Kerim Alajbegoviç është një lojtar i Juventusit. Anësori boshnjak, i lindur në vitin 2007, ka nënshkruar një kontratë 5-vjeçare me bardhezinjtë, deri në vitin 2031, siç është njoftuar nga klubi Njoftimi për shtyp gjithashtu detajon tarifën e transferimit. Ai vjen nga Bayer Leverkusen për 30 milionë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T15:35:33+00:00",
-      "dateStr": "02 Aug, 15:35",
-      "isNew": true,
-      "id": "24 31785684933"
-    },
-    {
-      "title": "FSHF vijon investimet në “Arena e Demave”, avancojnë punimet",
-      "link": "https://24-ore.com/fshf-vijon-investimet-ne-arena-e-demave-avancojne-punimet/",
-      "description": "Federata Shqiptare e Futbollit vijon me ritme intensive investimet në infrastrukturën sportive në kuadër të përgatitjeve për organizimin e finaleve të Kampionatit Europian U-21 2027, që Shqipëria do të presë si një nga vendet bashkëorganizatore. Punimet në stadiumin “Arena e Demave” po avancojnë sip",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T15:35:20+00:00",
-      "dateStr": "02 Aug, 15:35",
-      "isNew": true,
-      "id": "24 41785684920"
-    },
-    {
-      "title": "12-vjeçari kapet duke drejtuar një Jet Ski në Dhërmi, Policia gjobit me 10 mijë lekë pronarin dhe bllokon mjetin lundrues",
-      "link": "https://24-ore.com/12-vjecari-kapet-duke-drejtuar-nje-jet-ski-ne-dhermi-policia-gjobit-me-10-mije-leke-pronarin-dhe-bllokon-mjetin-lundrues/",
-      "description": "Policia Kufitare dhe Njësia Policore Detare kanë ndëshkuar me gjobë pronarin e një mjeti lundrues tip Jet Ski, pasi ia kishte dhënë për përdorim një të mituri 12-vjeçar në zonën e plazhit të Dhërmiut. Sipas njoftimit të Policisë, pas ndalimit, u konstatua se përveçse drejtohej nga një i mitur, mjeti",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T15:31:17+00:00",
-      "dateStr": "02 Aug, 15:31",
-      "isNew": true,
-      "id": "24 51785684677"
-    },
-    {
-      "title": "Bashkimi i Dimalit me Beratin, kryebashkiakja socialiste kundër partisë: Vendimi, jo transparent",
-      "link": "https://24-ore.com/bashkimi-i-dimalit-me-beratin-kryebashkiakja-socialiste-kunder-partise-vendimi-jo-transparent/",
-      "description": "Jo vetëm demokratët, por dhe socialistët kanë dalë kundër projektit të Edi Ramës për ta ndarë territorin e 46 bashki. Kryetarja e bashkisë Juliana Memaj në studion e Ditarit të Fundjavës në A2 CNN e shprehu hapur që është kundër bashkimit të Dimalit me Beratin, siç ka propozuar partia e saj mazhoran",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T15:30:59+00:00",
-      "dateStr": "02 Aug, 15:30",
-      "isNew": true,
-      "id": "24 61785684659"
-    },
-    {
-      "title": "Rrahu një 15 vjeçar pas një konflikti, privohet nga liria 21 vjeçari nga fshati Idrizovë",
-      "link": "https://24-ore.com/rrahu-nje-15-vjecar-pas-nje-konflikti-privohet-nga-liria-21-vjecari-nga-fshati-idrizove/",
-      "description": "MPB ka njoftuar se më 01.08.2026, në orën 12:30, në Shkup, nëpunës policorë të SPB Shkup e kanë privuar nga liria V.H. (21) nga fshatin Idrizovë, rrethina e Shkupit, pas denoncimit paraprak të I.B. (44), se më 31.07.2026, në orën 23:50, në fsh. Idrizovë, V.H. i ka shkaktuar lëndim të rëndë trupor dj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T15:25:29+00:00",
-      "dateStr": "02 Aug, 15:25",
-      "isNew": true,
-      "id": "24 71785684329"
-    },
-    {
-      "title": "Tërmeti godet Elbasanin, lëkundjet prekin qytetin! Ja sa ishte magnituda",
-      "link": "https://24-ore.com/termeti-godet-elbasanin-lekundjet-prekin-qytetin-ja-sa-ishte-magnituda/",
-      "description": "Një lëkundje sizmike me magnitudë 3.5 të shkallës Rihter ka goditur pasditen e sotme zonën e Elbasanit, duke shkaktuar shqetësim dhe panik te banorët. Sipas të dhënave paraprake, tërmeti është ndier në disa zona përreth qytetit, ndërsa qytetarë të shumtë kanë raportuar se kanë dalë jashtë banesave p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T15:21:06+00:00",
-      "dateStr": "02 Aug, 15:21",
-      "isNew": true,
-      "id": "24 81785684066"
-    },
-    {
-      "title": "Gjendet trupi i pajetë i 40-vjeçarit pas aksidentit në minierën e Bulqizës",
-      "link": "https://24-ore.com/gjendet-trupi-i-pajete-i-40-vjecarit-pas-aksidentit-ne-minieren-e-bulqizes/",
-      "description": "Është gjetur dhe nxjerrë trupi i pajetë i një 40-vjeçari, i cili humbi jetën pas një aksidenti gjatë procesit të punës në zonën e Tërnovës së Madhe, në bashkinë Bulqizë. Sipas informacionit zyrtar të policisë, kërkimet intensive nga ekipet e kërkim-shpëtimit, shërbimet e Policisë dhe personeli tekni",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T15:20:54+00:00",
-      "dateStr": "02 Aug, 15:20",
-      "isNew": true,
-      "id": "24 91785684054"
+      "id": "abc21785686454"
     },
     {
       "title": "News Line me Sali Doçi, (02/07/2026)",
@@ -133,7 +155,7 @@
       "date": "2026-08-02T15:12:33+00:00",
       "dateStr": "02 Aug, 15:12",
       "isNew": true,
-      "id": "abc11785683553"
+      "id": "abc31785683553"
     },
     {
       "title": "Dhërmi/ I dha “Jet Ski” një 12-vjeçari, gjobitet pronari dhe bllokohet mjeti lundrues",
@@ -144,7 +166,7 @@
       "date": "2026-08-02T14:54:42+00:00",
       "dateStr": "02 Aug, 14:54",
       "isNew": true,
-      "id": "abc21785682482"
+      "id": "abc41785682482"
     },
     {
       "title": "VIDEO/ Pamje tragjike! Dyshohet për dy viktima nga përplasja e dy helikopterëve zjarrfikës gjatë shuarjes së flakëve në Greqi",
@@ -155,7 +177,7 @@
       "date": "2026-08-02T14:45:08+00:00",
       "dateStr": "02 Aug, 14:45",
       "isNew": true,
-      "id": "abc31785681908"
+      "id": "abc51785681908"
     },
     {
       "title": "VIDEO/ Përplasen dy helikopterë zjarrfikës gjatë operacionit për shuarjen e flakëve në Greqi",
@@ -166,7 +188,7 @@
       "date": "2026-08-02T14:13:33+00:00",
       "dateStr": "02 Aug, 14:13",
       "isNew": true,
-      "id": "abc41785680013"
+      "id": "abc61785680013"
     },
     {
       "title": "News Hour me Sali Doçi, (02/07/2026)",
@@ -177,7 +199,7 @@
       "date": "2026-08-02T14:05:59+00:00",
       "dateStr": "02 Aug, 14:05",
       "isNew": true,
-      "id": "abc51785679559"
+      "id": "abc71785679559"
     },
     {
       "title": "Ministri i Jashtëm gjerman: Mbrojtja e kufijve të jashtëm, prioritet absolut për BE",
@@ -188,7 +210,7 @@
       "date": "2026-08-02T13:48:25+00:00",
       "dateStr": "02 Aug, 13:48",
       "isNew": true,
-      "id": "abc61785678505"
+      "id": "abc81785678505"
     },
     {
       "title": "Harta e re, Rama: Të gjithë do dëgjohen!/ Polemikat për territorialen, kryeministri: Debati është i mirëpritur",
@@ -199,29 +221,7 @@
       "date": "2026-08-02T13:44:36+00:00",
       "dateStr": "02 Aug, 13:44",
       "isNew": true,
-      "id": "abc71785678276"
-    },
-    {
-      "title": "“Smart City” do parandalojë aksidentet”/ Lamallari: Përplasjet e mjeteve, shkaktari kryesor i vdekjeve",
-      "link": "https://abcnews.al/smart-city-do-parandaloje-aksidentet-lamallari-perplasjet-e-mjeteve-shkaktari-kryesor-i-vdekjeve/",
-      "description": "Aksidentet rrugore vijojnë të jenë një ndër shkaqet kryesore të humbjes së jetëve njerëzore, pavarësisht se vitet e fundit është shënuar një tendencë në rënie e numrit të tyre. Ministri i Brendshëm, Besfort Lamallari, përmes një reagimi publik, beri apel për më shumë ndërgjegjësim dhe përgjegjësi ng",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-02T13:12:09+00:00",
-      "dateStr": "02 Aug, 13:12",
-      "isNew": true,
-      "id": "abc81785676329"
-    },
-    {
-      "title": "A mund ta përjashtojë BE Spanjën nga zona Schengen për shkak të krizës në Ceuta?",
-      "link": "https://abcnews.al/a-mund-ta-perjashtoje-be-spanjen-nga-zona-schengen-per-shkak-te-krizes-ne-ceuta/",
-      "description": "Ndërsa rreth 60,000 emigrantë hynë në mënyrë të parregullt në enklavën spanjolle të Ceutës, disa vende të BE-së po kërkojnë që Spanja të përjashtohet përkohësisht nga zona e lëvizjes së lirë Shengen, një masë e fundit që mund të përdoret vetëm në rrethana të jashtëzakonshme. Rritja më e madhe e mbër",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-02T12:45:19+00:00",
-      "dateStr": "02 Aug, 12:45",
-      "isNew": true,
-      "id": "abc91785674719"
+      "id": "abc91785678276"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
