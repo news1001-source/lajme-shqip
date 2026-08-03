@@ -1,8 +1,129 @@
 {
-  "lastUpdated": "2026-08-03T20:23:11.425791+00:00",
+  "lastUpdated": "2026-08-03T22:03:44.748374+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "BRUKSEL – Hyn në fuqi Ligji i BE-së për Inteligjencën Artificiale",
+      "link": "https://24-ore.com/bruksel-hyn-ne-fuqi-ligji-i-be-se-per-inteligjencen-artificiale/",
+      "description": "BRUKSEL, 3 korrik /ATSH -AA/ – Rregullat e Bashkimit Evropian që u kërkojnë kompanive të identifikojnë materialet e krijuara dhe të manipuluara nga Inteligjenca Artificiale (IA), hynë në fuqi të dielën si pjesë e Aktit gjithëpërfshirës të Inteligjencës Artificiale të bllokut. Neni 50 i ligjit kërkon",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-03T21:30:09+00:00",
+      "dateStr": "03 Aug, 21:30",
+      "isNew": true,
+      "id": "24 01785792609"
+    },
+    {
+      "title": "Më vjen turp, për ty, Albin",
+      "link": "https://24-ore.com/me-vjen-turp-per-ty-albin/",
+      "description": "Nga Baton Haxhiu Kur e dëgjova Albin Kurtin t’i tregonte diasporës historinë e një pronari gjerman që e pyet punëtorin shqiptar nëse, në rast se Rusia do ta sulmonte Gjermaninë, ai do të kthehej në Kosovë, nuk mendova për shqiptarin e shkret qe u be pjese e rrefimit imagjinar. Mendova për gjermanin ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-03T21:19:22+00:00",
+      "dateStr": "03 Aug, 21:19",
+      "isNew": true,
+      "id": "24 11785791962"
+    },
+    {
+      "title": "SHBA – Raportohen dy vdekjet e para nga shpërthimi i ciklosporiazës në Miçigan",
+      "link": "https://24-ore.com/shba-raportohen-dy-vdekjet-e-para-nga-shperthimi-i-ciklosporiazes-ne-micigan/",
+      "description": "UASHINGTON, 3 gusht /ATSH-DPA/- Dy persona kanë vdekur në Miçigan pas shpërthimit të ciklosporiazës, një sëmundje e zorrëve e shkaktuar nga një parazit. Autoritetet lokale njoftuan sot se këto janë vdekjet e para të regjistruara pas këtij shpërthimi që ka përfshirë SHBA-në. “Bazuar në të dhënat mjek",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-03T21:03:42+00:00",
+      "dateStr": "03 Aug, 21:03",
+      "isNew": true,
+      "id": "24 21785791022"
+    },
+    {
+      "title": "Tifozët e Spartak Moskës kundër afrimit të Dakut, slogane fyese ndaj shqiptarëve dhe Kosovës",
+      "link": "https://24-ore.com/tifozet-e-spartak-moskes-kunder-afrimit-te-dakut-slogane-fyese-ndaj-shqiptareve-dhe-kosoves/",
+      "description": "Mirlind Daku mbylli kapitullin me Rubin Kazan mes emocionesh, ndërsa transferimi te Spartak Moska po shoqërohet me polemika. Sulmuesi i Kombëtares shqiptare zhvilloi ndeshjen e tij të fundit me fanellën që e mbajti veshur për tre sezone, duke e mbyllur aventurën në mënyrën më të bukur. Tifozëve u dh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-03T21:01:50+00:00",
+      "dateStr": "03 Aug, 21:01",
+      "isNew": true,
+      "id": "24 31785790910"
+    },
+    {
+      "title": "Danimarka zgjeron shërbimin e detyrueshëm ushtarak si përgjigje ndaj Rusisë dhe Trump",
+      "link": "https://abcnews.al/danimarka-zgjeron-sherbimin-e-detyrueshem-ushtarak-si-pergjigje-ndaj-rusise-dhe-trump/",
+      "description": "Rreth 1,600 rekrutë ushtarakë danezë filluan të hënën shërbimin e ri të zgjatur të detyrueshëm ushtarak, duke nisur një periudhë shërbimi 11-mujore, ndërsa Danimarka përshpejton forcimin e mbrojtjes së saj si pasojë e presioneve të sigurisë në Arktik dhe luftës në Ukrainë. Në vitin 2024, Danimarka k",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-03T20:55:41+00:00",
+      "dateStr": "03 Aug, 20:55",
+      "isNew": true,
+      "id": "abc01785790541"
+    },
+    {
+      "title": "Korriku, muaji me fluksin më të lartë/ 138 mijë pasagjerë në Qafë Bota dhe Porti i Sarandës",
+      "link": "https://abcnews.al/korriku-muaji-me-fluksin-me-te-larte-138-mije-pasagjere-ne-qafe-bota-dhe-porti-i-sarandes/",
+      "description": "Muaji korrik ka shënuar fluksin më të lartë të lëvizjeve në Pikën e Kalimit Kufitar të Qafë Botës dhe Terminalin e Trageteve në Portin e Sarandës, me gjithsej 138 mijë e 189 pasagjerë në hyrje dhe dalje. Sipas të dhënave zyrtare, gjatë gjithë muajit strukturat kufitare dhe terminali kanë operuar me ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-03T20:48:29+00:00",
+      "dateStr": "03 Aug, 20:48",
+      "isNew": true,
+      "id": "abc11785790109"
+    },
+    {
+      "title": "Nën kontroll zjarri në Finiq/ Angazhimi i zjarrfikësve dhe tre helikopterëve të FA shmangu rrezikun",
+      "link": "https://abcnews.al/nen-kontroll-zjarri-ne-finiq-angazhimi-i-zjarrfikesve-dhe-tre-helikoptereve-te-fa-shmangu-rrezikun/",
+      "description": "Pas disa orësh ndërhyrje me 3 helikopterë, në bashkëpunim me forcat zjarrfikëse dhe forcat e armatosura, flakët e zjarrit në bashkinë e Finiqit janë vënë nën kontroll. Zjarri nisi gjatë paradites të së hënës dhe menjëherë zjarrfikësit nisën nga puna për shuarjen e tij. Por situata u bë kritike, pasi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-03T20:38:24+00:00",
+      "dateStr": "03 Aug, 20:38",
+      "isNew": true,
+      "id": "abc21785789504"
+    },
+    {
+      "title": "“Rolex” ndalon fluturimin e dronëve mbi fabrikën e re, frikë nga vjedhja e të dhënave",
+      "link": "https://abcnews.al/rolex-ndalon-fluturimin-e-droneve-mbi-fabriken-e-re-frike-nga-vjedhja-e-te-dhenave/",
+      "description": "“Rolex” ka marrë një masë të jashtëzakonshme për të mbrojtur sigurinë dhe sekretet e kompanisë, duke ndaluar fluturimin e dronëve mbi kantierin e fabrikës së re në Bulle, në kantonin zviceran të Fribourgut, deri më 31 dhjetor 2032. Gjiganti zviceran i orëve luksoze po ndërton një kompleks të ri ku p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-03T20:34:02+00:00",
+      "dateStr": "03 Aug, 20:34",
+      "isNew": true,
+      "id": "abc31785789242"
+    },
+    {
+      "title": "UASHINGTON – Trump: Bisedimet e reja janë shansi i fundit për Iranin",
+      "link": "https://24-ore.com/uashington-trump-bisedimet-e-reja-jane-shansi-i-fundit-per-iranin/",
+      "description": "UASHINGTON, 3 gusht /ATSH-DPA/- Presidenti amerikan Donald Trump i ka cilësuar bisedimet e reja me Iranin si “një shans të fundit” për Teheranin. Trump tha sot në Shtëpinë e Bardhë se negociatat po zhvillohen me kërkesë të Iranit. Ai theksoi se disa vende i kishin kërkuar SHBA-së, t’i jepte edhe një",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-03T20:30:21+00:00",
+      "dateStr": "03 Aug, 20:30",
+      "isNew": true,
+      "id": "24 41785789021"
+    },
+    {
+      "title": "KIEV – Zelensky shkarkon ambasadoren e Ukrainës në SHBA",
+      "link": "https://24-ore.com/kiev-zelensky-shkarkon-ambasadoren-e-ukraines-ne-shba/",
+      "description": "KIEV, 3 gusht /ATSH-DPA/- Presidenti ukrainas Volodymyr Zelensky ka shkarkuar ambasadoren e Ukrainës në SHBA, Olha Stefanishyna, konfirmoi sot zyra presidenciale në Kiev. Zyra publikoi një dekret për ndryshimin e drejtimit të ambasadës në Uashington, një post me rëndësi të madhe për Ukrainën. Stefan",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-03T20:30:10+00:00",
+      "dateStr": "03 Aug, 20:30",
+      "isNew": true,
+      "id": "24 51785789010"
+    },
+    {
+      "title": "Zelensky shkarkon ambasadoren e Ukrainës në SHBA",
+      "link": "https://abcnews.al/zelensky-shkarkon-ambasadoren-e-ukraines-ne-shba/",
+      "description": "Presidenti ukrainas Volodymyr Zelensky ka shkarkuar ambasadoren e Ukrainës në Shtetet e Bashkuara, Olga Stefanyshyna, e cila kishte mbajtur këtë post për gati një vit. Shkarkimi i saj, i cili pritej prej disa javësh, përkon me një sërë ndryshimesh të bëra javët e fundit në pozicione të larta , duke ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-03T20:29:21+00:00",
+      "dateStr": "03 Aug, 20:29",
+      "isNew": true,
+      "id": "abc41785788961"
+    },
     {
       "title": "Martesë në fshehtësi? Bradley Cooper dhe Gigi Hadid ndezin thashethemet",
       "link": "https://24-ore.com/martese-ne-fshehtesi-bradley-cooper-dhe-gigi-hadid-ndezin-thashethemet/",
@@ -12,7 +133,7 @@
       "date": "2026-08-03T20:21:24+00:00",
       "dateStr": "03 Aug, 20:21",
       "isNew": true,
-      "id": "24 01785788484"
+      "id": "24 61785788484"
     },
     {
       "title": "“Shtëpitë u blenë me paratë e drogës”, familja Çela denoncon për shpifje në Itali ish-kreun e SPAK",
@@ -23,7 +144,7 @@
       "date": "2026-08-03T20:20:57+00:00",
       "dateStr": "03 Aug, 20:20",
       "isNew": true,
-      "id": "24 11785788457"
+      "id": "24 71785788457"
     },
     {
       "title": "FOTO/ Zjarri në Golem, gjashtë persona përfundojnë në spital pas asfiksisë nga tymi",
@@ -34,7 +155,7 @@
       "date": "2026-08-03T20:20:35+00:00",
       "dateStr": "03 Aug, 20:20",
       "isNew": true,
-      "id": "24 21785788435"
+      "id": "24 81785788435"
     },
     {
       "title": "FOKUS – Plagët mund të shërohen më shpejt falë një medikamenti të ri “inteligjent”",
@@ -45,40 +166,7 @@
       "date": "2026-08-03T20:18:52+00:00",
       "dateStr": "03 Aug, 20:18",
       "isNew": true,
-      "id": "24 31785788332"
-    },
-    {
-      "title": "FOKUS – Bordi i Paqes: Izraeli do të tërhiqet nga Gaza vetëm pasi Hamasi të çarmatoset",
-      "link": "https://24-ore.com/fokus-bordi-i-paqes-izraeli-do-te-terhiqet-nga-gaza-vetem-pasi-hamasi-te-carmatoset/",
-      "description": "TEL AVIV, 3 gusht /ATSH-DPA/- Bordi i Paqes i udhëhequr nga SHBA-ja pret që ushtria izraelite të tërhiqet plotësisht, nga Rripi i Gazës vetëm pasi Hamasi të jetë çarmatosur. “Ndryshe nga raportimet e pasakta, theksojmë se tërheqja e Forcave të Mbrojtjes së Izraelit (IDF) përtej vijës së verdhë, do t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-03T20:18:41+00:00",
-      "dateStr": "03 Aug, 20:18",
-      "isNew": true,
-      "id": "24 41785788321"
-    },
-    {
-      "title": "Edhe këtë ditëlindje pa të birin pranë, nëna e Thaqit mbush 89 vjet",
-      "link": "https://24-ore.com/edhe-kete-ditelindje-pa-te-birin-prane-nena-e-thaqit-mbush-89-vjet/",
-      "description": "Nëna e ish-presidentit të Kosovës, Hashim Thaçi, sot feston ditëlindjen. Ajo ka mbushur 89 vjet. Edhe këtë festë, Nëna Hyrë do ta kalojë pa praninë fizike të të birit, i cili ndodhet në vitin e gjashtë në Hagë. Ditëlindjet e saj, ajo rëndom i ka festuar me pritjen e shumë mysafirëve që i shkojnë për",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-03T20:14:37+00:00",
-      "dateStr": "03 Aug, 20:14",
-      "isNew": true,
-      "id": "24 51785788077"
-    },
-    {
-      "title": "LDK në takim, PDK e AAK zgjodhën të qëndrojnë jashtë tryeze – Kurti kërkon marrëveshje para 6 gushtit",
-      "link": "https://24-ore.com/ldk-ne-takim-pdk-e-aak-zgjodhen-te-qendrojne-jashte-tryeze-kurti-kerkon-marreveshje-para-6-gushtit/",
-      "description": "Kjo javë mund të sjellë zhvillime konkrete në bisedimet me Lidhjen Demokratike për formimin e institucioneve të reja, ka paralajmëruar kryeministri në detyrë Albin Kurti. Me seancën konstituive të Kuvendit të caktuar më 6 gusht, ai ka thënë se partitë duhet të jenë të përgatitura. Kryeministri në de",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-03T20:05:22+00:00",
-      "dateStr": "03 Aug, 20:05",
-      "isNew": true,
-      "id": "24 61785787522"
+      "id": "24 91785788332"
     },
     {
       "title": "Aeroporti i Stambollit vendos rekord të ri, regjistron 289 mijë pasagjerë në një ditë",
@@ -89,40 +177,7 @@
       "date": "2026-08-03T20:00:57+00:00",
       "dateStr": "03 Aug, 20:00",
       "isNew": true,
-      "id": "abc01785787257"
-    },
-    {
-      "title": "METEO – Britania e Madhe përjetoi korrikun më të thatë në gati 190 vite",
-      "link": "https://24-ore.com/meteo-britania-e-madhe-perjetoi-korrikun-me-te-thate-ne-gati-190-vite/",
-      "description": "LONDËR, 3 gusht /ATSH-DPA/- Anglia dhe Uellsi kanë regjistruar korrikun më të thatë, që nga fillimi i matjeve zyrtare në vitin 1836, sipas të dhënave paraprake të Shërbimit Meteorologjik Britanik (Met Office). Edhe Anglia jugore ka përjetuar muajin më të thatë të regjistruar ndonjëherë, ndërsa vendi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-03T20:00:12+00:00",
-      "dateStr": "03 Aug, 20:00",
-      "isNew": true,
-      "id": "24 71785787212"
-    },
-    {
-      "title": "Dinamo, Lorenco Vila: Të tregojmë më të mirën, është një sfidë shumë e vështirë",
-      "link": "https://24-ore.com/dinamo-lorenco-vila-te-tregojme-me-te-miren-eshte-nje-sfide-shume-e-veshtire/",
-      "description": "Sulmuesi i Dinamos, Lorenco Vila ka dalë në konferencë për shtyp, bashkë me trajnerin Daja, duke komentuar në funksion të sfidës me skuadrën letoneze, Auda “Po, kam shënuar dy gola në dy raundet e deritanishme të Conference League dhe jam në formë të mirë. Jam shumë i lumtur për shokët e skuadrës, s",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-03T19:54:52+00:00",
-      "dateStr": "03 Aug, 19:54",
-      "isNew": true,
-      "id": "24 81785786892"
-    },
-    {
-      "title": "Elvis Kabashi gati të niset nga Seria C, marrëveshje verbale me Perugian",
-      "link": "https://24-ore.com/elvis-kabashi-gati-te-niset-nga-seria-c-marreveshje-verbale-me-perugian/",
-      "description": "E ardhmja e mesfushorit Elvis Kabashi, aktualisht një lojtar i lirë pas përvojës së tij të fundit në Pontedera, mund të jetë ende në Serie C, një kategori që ai e njeh shumë mirë duke pasur parasysh mbi 170 paraqitjet e tij të akumuluara ndër vite. Sipas TMW, lojtari i lindur në vitin 1994 ka [&#823",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-03T19:54:39+00:00",
-      "dateStr": "03 Aug, 19:54",
-      "isNew": true,
-      "id": "24 91785786879"
+      "id": "abc51785787257"
     },
     {
       "title": "Ushtria izraelite vret një komandant të Xhihadit Islamik në Gaza",
@@ -133,7 +188,7 @@
       "date": "2026-08-03T19:42:45+00:00",
       "dateStr": "03 Aug, 19:42",
       "isNew": true,
-      "id": "abc11785786165"
+      "id": "abc61785786165"
     },
     {
       "title": "Dikur mësues, sot librashitës/ Ilir Bobo: Prej shtatë vitesh ndodhem me stendën në Himarë, libri është vetë jeta!",
@@ -144,7 +199,7 @@
       "date": "2026-08-03T19:34:38+00:00",
       "dateStr": "03 Aug, 19:34",
       "isNew": true,
-      "id": "abc21785785678"
+      "id": "abc71785785678"
     },
     {
       "title": "Zgjodhi Vlorën para emigrimit/ Rrëfimi i kamarierit 20-vjeçarit që sfidon trendin e largimit",
@@ -155,7 +210,7 @@
       "date": "2026-08-03T19:24:01+00:00",
       "dateStr": "03 Aug, 19:24",
       "isNew": true,
-      "id": "abc31785785041"
+      "id": "abc81785785041"
     },
     {
       "title": "Aleati kryesor i Zelenskyt emërohet në krye të Shërbimit të Inteligjencës së Jashtme të Ukrainës",
@@ -166,62 +221,7 @@
       "date": "2026-08-03T19:19:40+00:00",
       "dateStr": "03 Aug, 19:19",
       "isNew": true,
-      "id": "abc41785784780"
-    },
-    {
-      "title": "Trump: Hormuzi mund të rihapet nesër",
-      "link": "https://abcnews.al/trump-hormuzi-mund-te-rihapet-neser/",
-      "description": "Donald Trump ka thënë se po diskutohet rihapja e plotë e ngushticës së Hormuzit brenda ditës së nesërme. Ai deklaroi se bisedimet do të ecin shpejt dhe më pas do të trajtohet edhe çështja e kapaciteteve bërthamore të Iranit. Trump shtoi se SHBA-të duhej të kishte goditur Iranin shumë më ashpër. Ai t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-03T19:05:25+00:00",
-      "dateStr": "03 Aug, 19:05",
-      "isNew": true,
-      "id": "abc51785783925"
-    },
-    {
-      "title": "Trump paralajmëron Iranin: Keni mundësinë e fundit për të nënshkruar një marrëveshje të mirë",
-      "link": "https://abcnews.al/trump-paralajmeron-iranin-keni-mundesine-e-fundit-per-te-nenshkruar-nje-marreveshje-te-mire/",
-      "description": "Presidenti amerikan, Donald Trump deklaroi se bisedimet me Iranin janë duke u zhvilluar. Ai u tha gazetarëve në Shtëpinë e Bardhë sse SHBA-të do ta godisnin Iranin &#8220;më fort se çdo sulm që nga Lufta e Dytë Botërore&#8221; përpara se ai t&#8217;i anulonte sulmet. &#8220;Ky është shansi i fundit ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-03T18:36:37+00:00",
-      "dateStr": "03 Aug, 18:36",
-      "isNew": true,
-      "id": "abc61785782197"
-    },
-    {
-      "title": "Trageti ‘Leonardo’ i Lombardisë ka transportuar pasagjerë për 500 vjet",
-      "link": "https://abcnews.al/trageti-leonardo-i-lombardise-ka-transportuar-pasagjere-per-500-vjet/",
-      "description": "Për më shumë se 500 vjet, një traget i pazakontë prej druri ka transportuar banorë dhe udhëtarë mbi lumin Adda në rajonin italian të Lombardisë. I njohur si “Traghetto di Leonardo” (Trageti i Leonardos), ai konsiderohet një nga mjetet më të vjetra të transportit që vazhdon të funksionojë ende sot. M",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-03T18:28:36+00:00",
-      "dateStr": "03 Aug, 18:28",
-      "isNew": true,
-      "id": "abc71785781716"
-    },
-    {
-      "title": "Berlini ndryshon kurs? AfD kryeson garën para zgjedhjeve",
-      "link": "https://abcnews.al/berlini-ndryshon-kurs-afd-kryeson-garen-para-zgjedhjeve/",
-      "description": "Nëse zgjedhjet do të mbaheshin të dielën e ardhshme në Berlin, kryeqyteti gjerman do të përjetonte një tronditje politike. Sipas sondazhit të institutit Insa, partia e ekstremit të djathtë AfD kryeson me 19% të mbështetjes, duke lënë pas me një pikë si CDU-në ashtu edhe Die Linke, të cilat renditen ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-03T18:24:57+00:00",
-      "dateStr": "03 Aug, 18:24",
-      "isNew": true,
-      "id": "abc81785781497"
-    },
-    {
-      "title": "Edicioni qendror me Sali Doçin, (03/08/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-sali-docin-03-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-03T18:15:59+00:00",
-      "dateStr": "03 Aug, 18:15",
-      "isNew": true,
-      "id": "abc91785780959"
+      "id": "abc91785784780"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
