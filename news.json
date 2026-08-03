@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-02T23:54:04.273392+00:00",
+  "lastUpdated": "2026-08-03T02:23:47.115936+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Kompania e kryeministrit që prodhon makina me buxhet total rrogash 12 mijë euro në muaj",
+      "link": "https://24-ore.com/kompania-e-kryeministrit-qe-prodhon-makina-me-buxhet-total-rrogash-12-mije-euro-ne-muaj/",
+      "description": "Kryeministri Edi Rama promovoi dje me bujë të madhe 40 makinat e para ushtarake, sipas tij të prodhuara në Shqipëri, nga partneriteti mes shoqërisë publike Kayo dhe asaj private Timak. Por kur qytetarët vërshuan me komente në rrjetet sociale se si një kompani shqiptare prodhon automjete Toyota, Land",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-02T23:58:37+00:00",
+      "dateStr": "02 Aug, 23:58",
+      "isNew": true,
+      "id": "24 01785715117"
+    },
     {
       "title": "Gjendja në pikat kufitare të Kosovës",
       "link": "https://24-ore.com/gjendja-ne-pikat-kufitare-te-kosoves/",
@@ -12,7 +23,7 @@
       "date": "2026-08-02T21:14:52+00:00",
       "dateStr": "02 Aug, 21:14",
       "isNew": true,
-      "id": "24 01785705292"
+      "id": "24 11785705292"
     },
     {
       "title": "Haxhiu: Zbulimi i varrezave masive dëshmi se drejtësia ende nuk është përmbushur",
@@ -23,7 +34,7 @@
       "date": "2026-08-02T21:05:12+00:00",
       "dateStr": "02 Aug, 21:05",
       "isNew": true,
-      "id": "24 11785704712"
+      "id": "24 21785704712"
     },
     {
       "title": "Retorika e zyrtarëve serbë rikthen narrativat e viteve 90-ta kundër Kosovës",
@@ -34,7 +45,7 @@
       "date": "2026-08-02T21:04:58+00:00",
       "dateStr": "02 Aug, 21:04",
       "isNew": true,
-      "id": "24 21785704698"
+      "id": "24 31785704698"
     },
     {
       "title": "Aksident tragjik në Itali/ Përplasen autobusi, kamperi dhe tre makina: 6 të vdekur, 27 të plagosur",
@@ -89,7 +100,7 @@
       "date": "2026-08-02T19:59:48+00:00",
       "dateStr": "02 Aug, 19:59",
       "isNew": true,
-      "id": "24 31785700788"
+      "id": "24 41785700788"
     },
     {
       "title": "Të paktën 14 të vrarë, disa të plagosur pas një sulmi vetëvrasës në Pakistan",
@@ -111,7 +122,7 @@
       "date": "2026-08-02T19:21:00+00:00",
       "dateStr": "02 Aug, 19:21",
       "isNew": true,
-      "id": "24 41785698460"
+      "id": "24 51785698460"
     },
     {
       "title": "Vijon dita e 64 e protestës qytetare në Tiranë",
@@ -122,7 +133,7 @@
       "date": "2026-08-02T19:20:42+00:00",
       "dateStr": "02 Aug, 19:20",
       "isNew": true,
-      "id": "24 51785698442"
+      "id": "24 61785698442"
     },
     {
       "title": "Dy orë kontroll në det, Italia ndalon anijen ruse të naftës pranë Siçilisë",
@@ -133,7 +144,7 @@
       "date": "2026-08-02T19:20:27+00:00",
       "dateStr": "02 Aug, 19:20",
       "isNew": true,
-      "id": "24 61785698427"
+      "id": "24 71785698427"
     },
     {
       "title": "Robert Kennedy Jr. sulmon Faucin dhe sfidon narrativën për vaksinat",
@@ -144,7 +155,7 @@
       "date": "2026-08-02T19:20:15+00:00",
       "dateStr": "02 Aug, 19:20",
       "isNew": true,
-      "id": "24 71785698415"
+      "id": "24 81785698415"
     },
     {
       "title": "E rëndë në plazhin e Pishporos, 49-vjeçari humb jetën pasi dyshohet se pësoi arrest kardiak në det",
@@ -177,18 +188,7 @@
       "date": "2026-08-02T19:05:26+00:00",
       "dateStr": "02 Aug, 19:05",
       "isNew": true,
-      "id": "24 81785697526"
-    },
-    {
-      "title": "Gomonia shkel perimetrin e sigurisë dhe rrezikon pushuesit në Ksamil, gjobitet drejtuesi",
-      "link": "https://24-ore.com/gomonia-shkel-perimetrin-e-sigurise-dhe-rrezikon-pushuesit-ne-ksamil-gjobitet-drejtuesi/",
-      "description": "Një drejtues mjeti lundrues është ndëshkuar me gjobë prej 500 mijë lekësh të rinj në Ksamil, pasi ka hyrë me gomone në zonën e sigurisë pranë plazhit, duke rrezikuar pushuesit. Sipas Policisë, mjeti lundrues ishte futur brenda perimetrit të sigurisë në zonën e “Plazhit Publik” në Ishujt e Ksamilit. ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-02T19:01:29+00:00",
-      "dateStr": "02 Aug, 19:01",
-      "isNew": true,
-      "id": "24 91785697289"
+      "id": "24 91785697526"
     },
     {
       "title": "Newsroom me Erneta Shevroja, (02/08/2026)",
