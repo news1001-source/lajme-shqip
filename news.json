@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-04T21:06:51.918051+00:00",
+  "lastUpdated": "2026-08-04T22:58:11.365037+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Vijon protesta qytetare në Tiranë, mbahet tubimi i 66-të radhazi",
+      "link": "https://24-ore.com/vijon-protesta-qytetare-ne-tirane-mbahet-tubimi-i-66-te-radhazi/",
+      "description": "Në Tiranë u zhvillua këtë të martë protesta e 66-të qytetare, e organizuar nga aktivistë dhe qytetarë. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej”, për të vijuar më pas marshimin drejt Bulevardit “Dëshmorët e Kombit”, ku u ndalën përpara godinës së Kryeministrisë. Edhe gjatë këtij tub",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-04T22:19:53+00:00",
+      "dateStr": "04 Aug, 22:19",
+      "isNew": true,
+      "id": "24 01785881993"
+    },
     {
       "title": "Tjetër Shkodra, tjetër Skadar",
       "link": "https://24-ore.com/tjeter-shkodra-tjeter-skadar/",
@@ -12,7 +23,7 @@
       "date": "2026-08-04T21:01:47+00:00",
       "dateStr": "04 Aug, 21:01",
       "isNew": true,
-      "id": "24 01785877307"
+      "id": "24 11785877307"
     },
     {
       "title": "STAMBOLL – Turqia: Sulmet në Detin e Zi kërcënojnë sigurinë ushqimore",
@@ -23,7 +34,7 @@
       "date": "2026-08-04T21:00:11+00:00",
       "dateStr": "04 Aug, 21:00",
       "isNew": true,
-      "id": "24 11785877211"
+      "id": "24 21785877211"
     },
     {
       "title": "Abdixhiku tregon se a i ka të gjitha votat brenda LDK-së nëse arrihet marrëveshja me LVV-në",
@@ -34,7 +45,7 @@
       "date": "2026-08-04T20:59:29+00:00",
       "dateStr": "04 Aug, 20:59",
       "isNew": true,
-      "id": "24 21785877169"
+      "id": "24 31785877169"
     },
     {
       "title": "Policia italiane në Durrës/ Bashkëpunimi mes dy vendeve, karabinierët patrullojnë në qytetin bregdetar",
@@ -78,7 +89,7 @@
       "date": "2026-08-04T20:44:57+00:00",
       "dateStr": "04 Aug, 20:44",
       "isNew": true,
-      "id": "24 31785876297"
+      "id": "24 41785876297"
     },
     {
       "title": "Gjini akuzon Kurtin se po përgatit terrenin për zgjedhje të reja: Po manipulon opinionin publik",
@@ -89,7 +100,7 @@
       "date": "2026-08-04T20:44:46+00:00",
       "dateStr": "04 Aug, 20:44",
       "isNew": true,
-      "id": "24 41785876286"
+      "id": "24 51785876286"
     },
     {
       "title": "Katari: Izraeli po pengon procesin e paqes në Gaza",
@@ -111,7 +122,7 @@
       "date": "2026-08-04T20:30:10+00:00",
       "dateStr": "04 Aug, 20:30",
       "isNew": true,
-      "id": "24 51785875410"
+      "id": "24 61785875410"
     },
     {
       "title": "Mbyllen aplikimet për Prokurorin e Përgjithshëm, 5 kandidatë në garë, pritet të nisi faza e verifikimit nga KLP",
@@ -122,7 +133,7 @@
       "date": "2026-08-04T20:21:03+00:00",
       "dateStr": "04 Aug, 20:21",
       "isNew": true,
-      "id": "24 61785874863"
+      "id": "24 71785874863"
     },
     {
       "title": "Gjini i përgjigjet Kurtit: Më mirë ia di emrin gjermanit se sa Aleancës",
@@ -133,7 +144,7 @@
       "date": "2026-08-04T20:20:42+00:00",
       "dateStr": "04 Aug, 20:20",
       "isNew": true,
-      "id": "24 71785874842"
+      "id": "24 81785874842"
     },
     {
       "title": "Zjarr në varrezat e fshatit Libonik, zjarrfikësit në terren për shuarjen e flakëve (VIDEO)",
@@ -144,18 +155,7 @@
       "date": "2026-08-04T20:20:27+00:00",
       "dateStr": "04 Aug, 20:20",
       "isNew": true,
-      "id": "24 81785874827"
-    },
-    {
-      "title": "Anija u përfshi nga flakët, shpëtohen mbi 170 persona në Kanalin Anglez",
-      "link": "https://24-ore.com/anija-u-perfshi-nga-flaket-shpetohen-mbi-170-persona-ne-kanalin-anglez/",
-      "description": "Më shumë se 170 persona janë shpëtuar të martën gjatë një operacioni të madh kërkim-shpëtimi në Kanalin Anglez, teksa përpiqeshin të kalonin nga Franca drejt Mbretërisë së Bashkuar. Sipas autoriteteve franceze dhe britanike, varka e fryrë me të cilën udhëtonin personat ndodhej ende në zonën franceze",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-04T20:20:13+00:00",
-      "dateStr": "04 Aug, 20:20",
-      "isNew": true,
-      "id": "24 91785874813"
+      "id": "24 91785874827"
     },
     {
       "title": "Anija u përfshi nga flakët, shpëtohen mbi 170 persona në Kanalin Anglez",
