@@ -1,51 +1,293 @@
 {
-  "lastUpdated": "2026-08-05T18:16:43.395722+00:00",
+  "lastUpdated": "2026-08-05T20:21:42.977599+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "LSDM: Spitali i Gostivarit nuk ka kapacitete për tu përballur me epideminë, po i dërgon pacientët në Tetovë",
-      "link": "https://24-ore.com/lsdm-spitali-i-gostivarit-nuk-ka-kapacitete-per-tu-perballur-me-epidemine-po-i-dergon-pacientet-ne-tetove/",
-      "description": "LSDM akuzoi sistemin e kujdesit shëndetësor në Gostivar se nuk ka kapacitet të mjaftueshëm për t&#8217;u përballur me epideminë e shkaktuar nga uji i ndotur dhe se spitali ka vetëm një specialist të sëmundjeve infektive, katër banorë dhe dermatologë në detyrë. Nga LSDM pretendojnë se për shkak të si",
+      "title": "Kufijtë e padukshëm të kombit",
+      "link": "https://24-ore.com/kufijte-e-padukshem-te-kombit/",
+      "description": "Nga Kristaq Xharo Edmund Burke, një nga mendimtarët britanikë më të thellë të filozofisë politike, na kujton se kombi nuk është pronë e brezit që jeton sot, por një amanet i marrë nga të parët dhe një detyrim moral ndaj atyre që do të vijnë. Por çfarë përfshin ky amanet? Kufijtë e dukshëm: trojet, d",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-05T18:14:42+00:00",
-      "dateStr": "05 Aug, 18:14",
+      "date": "2026-08-05T20:20:28+00:00",
+      "dateStr": "05 Aug, 20:20",
       "isNew": true,
-      "id": "24 01785953682"
+      "id": "24 01785961228"
     },
     {
-      "title": "Dy ish-pjesëtarë të “Mbrojtjes Civile” largohen nga institucionet e Kosovës",
-      "link": "https://24-ore.com/dy-ish-pjesetare-te-mbrojtjes-civile-largohen-nga-institucionet-e-kosoves/",
-      "description": "Ministrja në detyrë e Mjedisit dhe Planifikimit Hapësinor, Fitore Pacolli, ka bërë të ditur se janë ndërprerë kontratat e punës për nëntë zyrtarë të institucioneve që veprojnë në kuadër të kësaj ministrie. Sipas njoftimit të Pacollit, shtatë prej zyrtarëve janë nga Agjencia për Mbrojtjen e Mjedisit ",
+      "title": "Vendimi i komunave në Mal të Zi, MPJ: S’kanë kompetencë ta ç’njohin Kosovën",
+      "link": "https://24-ore.com/vendimi-i-komunave-ne-mal-te-zi-mpj-skane-kompetence-ta-cnjohin-kosoven/",
+      "description": "Disa muaj pasi kishte shpallur pavarësinë, Mali i Zi e njohu Kosovën si shtet të pavarur. Por, 18 vjet më pas, disa komuna në shtetin fqinj kanë vendosur ta “çnjohin” pavarësinë e Kosovës. Nisma kundër njohjes së pavarësisë së Kosovës nisi në maj të këtij viti. Komuna e parë që miratoi një vendim të",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-05T18:09:32+00:00",
-      "dateStr": "05 Aug, 18:09",
+      "date": "2026-08-05T20:19:59+00:00",
+      "dateStr": "05 Aug, 20:19",
       "isNew": true,
-      "id": "24 11785953372"
+      "id": "24 11785961199"
     },
     {
-      "title": "14 vatra zjarri në vend në 10 orët e fundit, 7 mbeten ende aktive",
-      "link": "https://24-ore.com/14-vatra-zjarri-ne-vend-ne-10-oret-e-fundit-7-mbeten-ende-aktive/",
-      "description": "Gjatë 10 orëve të fundit janë raportuar 14 vatra zjarri, nga të cilat 7 mbeten aktive, njoftuan autoritetet. “Strukturat e sistemit të mbrojtjes civile vijojnë operacionet në terren me 29 automjete zjarrfikëse, 246 forca operacionale, 90 efektivë të Forcave të Armatosura, 1 helikopter dhe 1 avion “A",
-      "source": "24 ORE",
+      "title": "VIDEO/ Rrufeja godet gjatë ndeshjes në Tajlandë, humb jetën futbollisti 24-vjeçar, plagosen 12 të tjerë",
+      "link": "https://shekulli.com.al/2026/08/05/video-rrufeja-godet-gjate-ndeshjes-ne-tajlande-humb-jeten-futbollisti-24-vjecar-plagosen-12-te-tjere/",
+      "description": "Një ngjarje tragjike ka tronditur futbollin tajlandez, ku një futbollist 24-vjeçar humbi jetën pasi fusha u godit nga një rrufe gjatë zhvillimit të një ndeshjeje. Si pasojë e incidentit, 12 persona të tjerë mbetën të plagosur. Viktima është identifikuar si Sofwan Awae, i cili u godit nga rrufeja në ",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-05T18:02:05+00:00",
-      "dateStr": "05 Aug, 18:02",
+      "date": "2026-08-05T20:15:46+00:00",
+      "dateStr": "05 Aug, 20:15",
       "isNew": true,
-      "id": "24 21785952925"
+      "id": "she01785960946"
     },
     {
-      "title": "Rregulla të reja për shërbimet e punonjësve publikë jashtë vendit",
-      "link": "https://24-ore.com/rregulla-te-reja-per-sherbimet-e-punonjesve-publike-jashte-vendit/",
-      "description": "Këshilli i Ministrave ka miratuar vendimin i cili vendos një kuadër të ri rregullator për procedurat, mbulimin e shpenzimeve dhe kompensimin financiar të punonjësve të administratës publike që udhëtojnë me shërbim jashtë Shqipërisë. Akti i ri normativ shfuqizon vendimin e mëparshëm të vitit 2011 dhe",
+      "title": "Kosovë, LDK kërkon postin e presidentit",
+      "link": "https://shekulli.com.al/2026/08/05/kosove-ldk-kerkon-postin-e-presidentit/",
+      "description": "Deputetë të zgjedhur të Lidhjes Demokratike të Kosovës kanë shprehur qëndrimin se kërkesa e partisë së tyre është që të kenë postin e presidentit. Hykmete Bajrami dhe Jehona Lushaku Sadriu artikuluan këtë kërkesë, një ditë pasi kreu i LDK-së, Lumir Abdixhiku, dhe ai i Lëvizjes Vetëvendosje, Albin Ku",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-05T20:04:16+00:00",
+      "dateStr": "05 Aug, 20:04",
+      "isNew": true,
+      "id": "she11785960256"
+    },
+    {
+      "title": "Roli i flamingove të radikalizuar dhe pse Vlen-i u ekspozua në protestat kundër Edi Ramës?",
+      "link": "https://24-ore.com/roli-i-flamingove-te-radikalizuar-dhe-pse-vlen-i-u-ekspozua-ne-protestat-kunder-edi-rames/",
+      "description": "Nga Ylli Pata Sali Berisha, ka dalë në një konferencë shtypi duke mbrojtur publikisht dhe glorifikuar personazhet e shpallura Non Grata nga ministri i Brendshëm, Besford Lamallari. Një akt politik i qartë, jo vetëm në mbajtjen e debatit politik në lidhje me aktin e qeverisë shqiptare, por edhe një h",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-05T17:54:49+00:00",
-      "dateStr": "05 Aug, 17:54",
+      "date": "2026-08-05T20:02:24+00:00",
+      "dateStr": "05 Aug, 20:02",
       "isNew": true,
-      "id": "24 31785952489"
+      "id": "24 21785960144"
+    },
+    {
+      "title": "Ariana Grande zbulon arsyen pse do të tërhiqet nga jeta publike",
+      "link": "https://24-ore.com/ariana-grande-zbulon-arsyen-pse-do-te-terhiqet-nga-jeta-publike/",
+      "description": "Ariana Grande ka reaguar ndaj komenteve negative që qarkullojnë në rrjet, duke siguruar fansat se kritikat nuk kanë ndikuar tek ajo. Gjatë koncertit të turneut “Eternal Sunshine” në Çikago, këngëtarja mbajti një fjalim emocional, ku foli për vendimin e saj për t&#8217;u tërhequr përkohësisht nga jet",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-05T20:00:49+00:00",
+      "dateStr": "05 Aug, 20:00",
+      "isNew": true,
+      "id": "24 31785960049"
+    },
+    {
+      "title": "Izraeli godet jugun e Libanit, një i vrarë dhe 11 të plagosur nga sulmet ajrore",
+      "link": "https://shekulli.com.al/2026/08/05/izraeli-godet-jugun-e-libanit-nje-i-vrare-dhe-11-te-plagosur-ne-sulmet-ajrore/",
+      "description": "Të paktën një person humbi jetën dhe 11 të tjerë mbetën të plagosur pas sulmeve ajrore izraelite në jug të Libanit, në atë që konsiderohet një nga bombardimet më të rënda që prej hyrjes në fuqi të armëpushimit në qershor. Sipas Ministrisë libaneze të Shëndetësisë, një nga sulmet goditi qytetin Tebni",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-05T20:00:45+00:00",
+      "dateStr": "05 Aug, 20:00",
+      "isNew": true,
+      "id": "she21785960045"
+    },
+    {
+      "title": "Platformë e re për pagesat online, Gent Sejko: TIPS Clone do t’i kursejë ekonomisë deri në 35 miliardë lekë në vit",
+      "link": "https://shekulli.com.al/2026/08/05/platforme-e-re-per-pagesat-online-gent-sejko-tips-clone-do-ti-kurseje-ekonomise-deri-ne-35-miliarde-leke-ne-vit/",
+      "description": "Guvernatori i Bankës së Shqipërisë, Gent Sejko, ka konfirmuar se një nga prioritetet kryesore të institucionit mbetet vënia në funksion e platformës TIPS Clone, një projekt që synon modernizimin e sistemit të pagesave online dhe përafrimin e tij me standardet evropiane. Sipas Sejkos, synimi është që",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-05T19:52:12+00:00",
+      "dateStr": "05 Aug, 19:52",
+      "isNew": true,
+      "id": "she31785959532"
+    },
+    {
+      "title": "Shawn Mendes konfirmon romancën me Bruna Marquezine",
+      "link": "https://24-ore.com/shawn-mendes-konfirmon-romancen-me-bruna-marquezine/",
+      "description": "Shawn Mendes ka konfirmuar zyrtarisht lidhjen e tij me aktoren dhe modelen braziliane Bruna Marquezine, përmes një dedikimi romantik në Instagram me rastin e 31-vjetorit të saj. Këngëtari 27-vjeçar publikoi një seri fotosh dhe videosh nga vizita e tyre në Casa Amarela Providencia në Rio de Janeiro, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-05T19:49:41+00:00",
+      "dateStr": "05 Aug, 19:49",
+      "isNew": true,
+      "id": "24 41785959381"
+    },
+    {
+      "title": "Jared Leto largohet nga filmi “Assassination” mes akuzave",
+      "link": "https://24-ore.com/jared-leto-largohet-nga-filmi-assassination-mes-akuzave/",
+      "description": "Jared Leto thuhet se ka humbur një rol të rëndësishëm në filmin politik &#8220;Assassination&#8221;, pasi producentët vendosën të mos vazhdonin me përfshirjen e tij për shkak të akuzave të shumta për sjellje të papërshtatshme seksuale. Sipas burimeve të Page Six, aktori fitues i çmimit Oscar ishte n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-05T19:49:38+00:00",
+      "dateStr": "05 Aug, 19:49",
+      "isNew": true,
+      "id": "24 51785959378"
+    },
+    {
+      "title": "Aeroporti i Vlorës drejt arbitrazhit, juristi Ylli Manjani: Ndërhyrja e shtetit nuk ka të bëjë me përqindjet",
+      "link": "https://24-ore.com/aeroporti-i-vlores-drejt-arbitrazhit-juristi-ylli-manjani-nderhyrja-e-shtetit-nuk-ka-te-beje-me-perqindjet/",
+      "description": "Çështja e aeroportit të Vlorës, nuk duhet parë si një debat politik, por si një çështje që lidhet me interesin e Republikës së Shqipërisë. Kështu u shpreh juristi Ylli Manjani, në rubrikën “Përballë Lajmit” në Klan News, për gazetarin Besard Jacaj. Manjani theksoi se aeroporti i Vlorës është një inv",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-05T19:49:14+00:00",
+      "dateStr": "05 Aug, 19:49",
+      "isNew": true,
+      "id": "24 61785959354"
+    },
+    {
+      "title": "BM – Katër të plagosur në një sulm në qendër të Londrës",
+      "link": "https://24-ore.com/bm-kater-te-plagosur-ne-nje-sulm-ne-qender-te-londres/",
+      "description": "&#8211; Policia e Londrës njoftoi sot se një grua është arrestuar, pasi katër persona u plagosën me thikë në zonën Covent Garden, një nga zonat qendrore të kryeqytetit britanik, e frekuentuar nga turistët, sipas AP. Policia Metropolitane tha se hetimet e para tregojnë se ngjarja mund të ketë lidhje ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-05T19:48:43+00:00",
+      "dateStr": "05 Aug, 19:48",
+      "isNew": true,
+      "id": "24 71785959323"
+    },
+    {
+      "title": "Newcastle zyrtarizon trajnerin e ri, është Matthias Jaissle",
+      "link": "https://24-ore.com/newcastle-zyrtarizon-trajnerin-e-ri-eshte-matthias-jaissle/",
+      "description": "Newcastle United ka zyrtarizuar trajnerin e ri, i cili është Matthias Jaissle. I njohur gjerësisht si një nga trajnerët e rinj më të mirë të Evropës, gjermani 38-vjeçar mbërrin në Angli pas punës së mirë të bërë me Red Bull Salzburg dhe Al-Ahli. Pas një procesi të plotë, rigoroz dhe konfidencial për",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-05T19:44:59+00:00",
+      "dateStr": "05 Aug, 19:44",
+      "isNew": true,
+      "id": "24 81785959099"
+    },
+    {
+      "title": "Miqësore/ Skënderbeu mposht Kukësin, barazon Flamurtari",
+      "link": "https://24-ore.com/miqesore-skenderbeu-mposht-kukesin-barazon-flamurtari/",
+      "description": "Skënderbeu ka fituar me rezultatin 2-1 miqësoren përballë Kukësit, që është luajtur ditën e sotme në Korçë. Pjesa e parë është mbyllur në barazim pa gola, por korçarët kanë humbur një 11-metërsh në minutën e 40-të. Në pjesën e dytë Shaqe kalon në avantazh vendasit, ndërsa Valichkovski shënon golin e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-05T19:44:44+00:00",
+      "dateStr": "05 Aug, 19:44",
+      "isNew": true,
+      "id": "24 91785959084"
+    },
+    {
+      "title": "Dita e 67-të e protestës para kryeministrisë, protestuesit thirrje SPAK-ut për hetimin e Ramës: Shijo pushimet e fundit në liri",
+      "link": "https://shekulli.com.al/2026/08/05/dita-e-67-te-e-protestes-para-kryeministrise-protestuesit-thirrje-spak-ut-per-hetimin-e-rames-shijo-pushimet-e-fundit-ne-liri/",
+      "description": "TIRANË &#8211; Protesta e përnatshme para godinës së kryeministrisë vijoi edhe këtë mbrëmje, duke shënuar ditën e 67-të radhazi. Gjatë tubimit, protestuesit përsëritën thirrjet drejtuar Prokurorisë së Posaçme (SPAK), duke kërkuar hetimin e kryeministrit Edi Rama. Aktivisti Edison Lika u shpreh gjatë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-05T19:38:00+00:00",
+      "dateStr": "05 Aug, 19:38",
+      "isNew": true,
+      "id": "she41785958680"
+    },
+    {
+      "title": "Zelensky me apel për aleatët pas sulmit rus që la 17 të vdekur",
+      "link": "https://abcnews.al/zelensky-me-apel-per-aleatet-pas-sulmit-rus-qe-la-17-te-vdekur/",
+      "description": "Presidenti ukrainas, Volodymyr Zelensky, ka fajësuar aleatët për vonesat në dërgimin e sistemeve të mbrojtjes ajrore, pasi Ukraina nuk arriti të rrëzonte asnjë raketë ruse gjatë një sulmi vdekjeprurës në orët e para të së mërkurës, nga i cili mbetën të vdekur të paktën 17 persona dhe të lënduar dhje",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-05T19:37:15+00:00",
+      "dateStr": "05 Aug, 19:37",
+      "isNew": true,
+      "id": "abc01785958635"
+    },
+    {
+      "title": "Flakët përhapen me shpejtësi në Mallakastër, zjarri del jashtë kontrollit",
+      "link": "https://shekulli.com.al/2026/08/05/flaket-perhapen-me-shpejtesi-ne-mallakaster-zjarri-del-jashte-kontrollit/",
+      "description": "Situata e zjarrit në Mallakastër vijon të mbetet kritike, ndërsa flakët kanë dalë jashtë kontrollit dhe po përhapen me ritme të shpejta, duke përfshirë sipërfaqe të mëdha me pyje pishe. Sipas informacioneve nga terreni, era e fortë po favorizon përhapjen e vatrës së zjarrit, e cila ka kaluar edhe rr",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-05T19:28:04+00:00",
+      "dateStr": "05 Aug, 19:28",
+      "isNew": true,
+      "id": "she51785958084"
+    },
+    {
+      "title": "48 mijë dosje në pritje në Apel, KLGJ zgjeron listën e çështjeve që do të gjykohen me procedurë të përshpejtuar",
+      "link": "https://shekulli.com.al/2026/08/05/48-mije-dosje-ne-pritje-ne-apel-klgj-zgjeron-listen-e-ceshtjeve-qe-do-te-gjykohen-me-procedure-te-pershpejtuar/",
+      "description": "Gjykata e Apelit vijon të përballet me një ngarkesë të lartë pune, ndërsa numri i çështjeve të pazgjidhura ka arritur në rreth 48 mijë dosje në pritje për shqyrtim. Për t&#8217;i dhënë përgjigje këtij stoku, Këshilli i Lartë Gjyqësor (KLGJ) ka vendosur të zgjerojë kategoritë e çështjeve që mund të s",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-05T19:22:28+00:00",
+      "dateStr": "05 Aug, 19:22",
+      "isNew": true,
+      "id": "she61785957748"
+    },
+    {
+      "title": "Izraeli nis sulme të reja në jug të Libanit",
+      "link": "https://abcnews.al/izraeli-nis-sulme-te-reja-ne-jug-te-libanit/",
+      "description": "Ushtria izraelite njoftoi se kishte nisur sulme në Libanin jugor në përgjigje, siç thotë ajo, të një shkeljeje të armëpushimit nga Hezbollahu, ndërsa negociatat midis Izraelit dhe qeverisë libaneze vazhdojnë në Romë. “Në përgjigje të një shkeljeje flagrante të armëpushimit nga organizata terroriste ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-05T19:20:29+00:00",
+      "dateStr": "05 Aug, 19:20",
+      "isNew": true,
+      "id": "abc11785957629"
+    },
+    {
+      "title": "Zbulim unik në detin Jon/ Gjendet pas 83 vitesh anija gjermane e Luftës së Dytë Botërore, e vetmja e llojit të saj në botë",
+      "link": "https://shekulli.com.al/2026/08/05/zbulim-unik-ne-detin-jon-gjendet-pas-83-vitesh-anija-gjermane-e-luftes-se-dyte-boterore-e-vetmja-e-llojit-te-saj-ne-bote/",
+      "description": "Një zbulim i rrallë arkeologjik është bërë në ujërat e detit Jon, ku pas 83 vitesh është identifikuar rrënoja e një prej mjeteve më të veçanta të marinës gjermane gjatë Luftës së Dytë Botërore. Në një thellësi prej 96 metrash, mes Lefkadës dhe Prevezës, zhytësit kanë gjetur pothuajse të paprekur mot",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-05T19:14:56+00:00",
+      "dateStr": "05 Aug, 19:14",
+      "isNew": true,
+      "id": "she71785957296"
+    },
+    {
+      "title": "“Fatkeqësisht, nuk është më surprizë”, MABCO-s i dorëzohet shkresa për anulimin e koncensionit për Aeroportin e Vlorës, Pacolli: Nuk më lanë rrugë tjetër…",
+      "link": "https://shekulli.com.al/2026/08/05/fatkeqesisht-nuk-eshte-me-surprize-mabco-s-i-dorezohet-shkresa-per-anulimin-e-koncensionit-per-aeroportin-e-vlores-pacolli-nuk-me-lane-rruge-tjeter/",
+      "description": "TIRANË- Kompania MABCO, e biznesmenit Behgjet Pacolli, është njohur zyrtarisht me shkresën e Ministrisë së Infrastrukturës dhe Energjitikës, për nisjen e procedurave për anullimin e koncensionit për Aeroportin e Vlorës. Në një reagim në rrjetet sociale, Pacolli shprehet se nuk i ka mbetur asnjë rrug",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-05T19:01:37+00:00",
+      "dateStr": "05 Aug, 19:01",
+      "isNew": true,
+      "id": "she81785956497"
+    },
+    {
+      "title": "Përtej mantelit të drejtësisë/ Saimir Vishaj: Ëndrra për aktrim më ndihmoi të fitoj 80 përqind të çështjeve",
+      "link": "https://abcnews.al/pertej-mantelit-te-drejtesise-saimir-vishaj-endrra-per-aktrim-me-ndihmoi-te-fitoj-80-perqind-te-ceshtjeve/",
+      "description": "Në një rrëfim ndryshe përtej mantelit të drejtësisë në emisionin “Summer Time Show”, avokati i njohur Saimir Vishaj tregoi se si ëndrra e tij e hershme për aktrim e ka ndihmuar të arrijë një sukses prej 80% të çështjeve të fituara. Ai ndau detaje mbi natyrën e tij me humor në jetën e përditshme përk",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-05T18:54:32+00:00",
+      "dateStr": "05 Aug, 18:54",
+      "isNew": true,
+      "id": "abc21785956072"
+    },
+    {
+      "title": "Kamarier prej 18 vitesh/ Albi rrëfen “sekretet” e profesionit: Fitoja deri në 5 milionë lekë në muaj",
+      "link": "https://abcnews.al/kamarier-prej-18-vitesh-albi-rrefen-sekretet-e-profesionit-fitoja-deri-ne-5-milione-leke-ne-muaj/",
+      "description": "Me më shumë se 18 vite përvojë në shërbim, Albi ka rrëfyer në emisionin “Summer Time Show” lidhjen e tij të fortë me profesionin e kamarierit, të cilin e ka nisur që në moshën 13-vjeçare. I shtyrë nga pasioni dhe dashuria për këtë punë, ai shprehet se nuk ka menduar kurrë ta ndërrojë këtë rrugëtim. ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-05T18:41:48+00:00",
+      "dateStr": "05 Aug, 18:41",
+      "isNew": true,
+      "id": "abc31785955308"
+    },
+    {
+      "title": "Zjarri në Mallakastër/ Digjen pisha në fshatrat Ngraçan dhe Drenie, ndërhyrje nga ajri me helikopter",
+      "link": "https://abcnews.al/zjarri-ne-mallakaster-digjen-pisha-ne-fshatrat-ngracan-dhe-drenie-nderhyrje-nga-ajri-me-helikopter/",
+      "description": "Zjarri në Mallakastër ka dalë jashtë kontrollit në fshatrat Ngraçan dhe Drenie, duke djegur masivë me pisha. Për të bërë të mundur shuarjen e flakëve, ka edhe ndërhyrje nga ajri me helikopter. Operacioni po zhvillohet në një terren të vështirë, ku era dhe bimësia e dendur po favorizojnë avancimin e ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-05T18:31:38+00:00",
+      "dateStr": "05 Aug, 18:31",
+      "isNew": true,
+      "id": "abc41785954698"
+    },
+    {
+      "title": "Edicioni Qendror me Sali Doçin, (05/08/2026)",
+      "link": "https://abcnews.al/edicioni-qendror-me-sali-docin-05-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-05T18:24:17+00:00",
+      "dateStr": "05 Aug, 18:24",
+      "isNew": true,
+      "id": "abc51785954257"
+    },
+    {
+      "title": "Arrestohet në Francë ish-lojtari i Kombëtares Shqiptare, dyshohet për shpërndarje kokaine, Muka: Isha papunë",
+      "link": "https://shekulli.com.al/2026/08/05/arrestohet-ne-france-ish-lojtari-i-kombetares-shqiptare-dyshohet-per-shperndarje-kokaine-muka-isha-papune/",
+      "description": "FRANCË- Ish-futbollisti i Kombëtares shqiptare, Olgerd Muka, është arrestuar në Francë nën dyshimet për shpërndarje të lëndëve narkotike, konkretisht kokainë. 46-vjeçari u ndalua nga policia në qytetin e Dizhonit pas një operacioni që zgjati mbi 10 ditë, gjatë të cilit autoritetet e kishin mbajtur n",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-05T18:18:53+00:00",
+      "dateStr": "05 Aug, 18:18",
+      "isNew": true,
+      "id": "she91785953933"
     },
     {
       "title": "Pas pak “Summer Time Show”, na ndiqni në ABC News",
@@ -56,51 +298,7 @@
       "date": "2026-08-05T17:50:35+00:00",
       "dateStr": "05 Aug, 17:50",
       "isNew": true,
-      "id": "abc01785952235"
-    },
-    {
-      "title": "Banorët e Klosit nisin protestën kundër shkrirjes së bashkisë: Anëtarët e PS dhe PD të djegin teserat…",
-      "link": "https://24-ore.com/banoret-e-klosit-nisin-protesten-kunder-shkrirjes-se-bashkise-anetaret-e-ps-dhe-pd-te-djegin-teserat/",
-      "description": "Ka nisur protesta në qendër të qytetit të Klosit, kundër vendimit të qeverisë për shkrirjen e Bashkisë Klos dhe bashkimin e saj me Bashkinë Mat. Qytetarë të shumtë, pa dallime politike, i janë bashkuar protestës, duke kundërshtuar këtë vendim dhe duke kërkuar që Bashkia Klos të ruajë statusin e saj ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-05T17:50:25+00:00",
-      "dateStr": "05 Aug, 17:50",
-      "isNew": true,
-      "id": "24 41785952225"
-    },
-    {
-      "title": "Rregullorja e censurës në Gjykatën e Posaçme",
-      "link": "https://24-ore.com/rregullorja-e-censures-ne-gjykaten-e-posacme/",
-      "description": "Nga Zylyftar Bregu Ditën kur magjistratët e rinj marrin detyrën, Shkolla e Magjistraturës e shoqëron ceremonialin me një konferencë mbi sfidat e shumta të sistemit të drejtësisë në Shqipëri. Më 29 qershor, për tetë orë me radhë u diskutua marrëdhënia e vështirë mes medias dhe drejtësisë. Ekspertët v",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-05T17:49:39+00:00",
-      "dateStr": "05 Aug, 17:49",
-      "isNew": true,
-      "id": "24 51785952179"
-    },
-    {
-      "title": "Sulm me thikë në Londër, plagosen 4 persona, arrestohet një grua",
-      "link": "https://shekulli.com.al/2026/08/05/sulm-me-thike-ne-londer-plagosen-4-persona-arrestohet-nje-grua/",
-      "description": "LONDËR – Katër persona kanë mbetur të plagosur pas një sulmi me thikë në qendër të Londrës, në zonën e frekuentuar të Covent Garden. Ngjarja ndodhi në rrugën Endell Street, ku një grua 47-vjeçare u arrestua nga policia britanike nën dyshimin për sulm dhe mbajtje të një arme të ftohtë. Sipas autorite",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-05T17:49:02+00:00",
-      "dateStr": "05 Aug, 17:49",
-      "isNew": true,
-      "id": "she01785952142"
-    },
-    {
-      "title": "OBRM-PDUKM: Me investime kapitale dhe reforma, po forcojmë stabilitetin energjetik të Maqedonisë",
-      "link": "https://24-ore.com/obrm-pdukm-me-investime-kapitale-dhe-reforma-po-forcojme-stabilitetin-energjetik-te-maqedonise/",
-      "description": "Një nga rezultatet më të rëndësishme është riaktivizimi i gazsjellësit Selanik-Shkup pas një ndërprerjeje 13-vjeçare. Vënia në funksion e tij siguron transport më të besueshëm të derivateve të naftës, rrit stabilitetin e furnizimit dhe forcon sigurinë energjetike të vendit, theksojnë nga OBRM-PDUKM.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-05T17:44:25+00:00",
-      "dateStr": "05 Aug, 17:44",
-      "isNew": true,
-      "id": "24 61785951865"
+      "id": "abc61785952235"
     },
     {
       "title": "Italia vendos 27 qytetet kryesore në nivelin më të lartë të alarmit për nxehtësi",
@@ -111,7 +309,7 @@
       "date": "2026-08-05T17:43:51+00:00",
       "dateStr": "05 Aug, 17:43",
       "isNew": true,
-      "id": "abc11785951831"
+      "id": "abc71785951831"
     },
     {
       "title": "Situata e zjarreve/ 7 vatra ende aktive, ja zonat më problematike",
@@ -122,29 +320,7 @@
       "date": "2026-08-05T17:36:34+00:00",
       "dateStr": "05 Aug, 17:36",
       "isNew": true,
-      "id": "abc21785951394"
-    },
-    {
-      "title": "Kufizime në autoudhë për automjetet mbi 20 tonë, shkak temperaturat e larta",
-      "link": "https://24-ore.com/kufizime-ne-autoudhe-per-automjetet-mbi-20-tone-shkak-temperaturat-e-larta/",
-      "description": "Ministria e Infrastrukturës dhe Transportit ka njoftuar se nesër do të vendoset kufizim i përkohshëm i qarkullimit për automjetet e transportit të mallrave me masë totale mbi 20 tonë. Sipas njoftimit zyrtar, vendimi vjen si pasojë e temperaturave të larta të parashikuara, të cilat pritet të arrijnë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-05T17:34:29+00:00",
-      "dateStr": "05 Aug, 17:34",
-      "isNew": true,
-      "id": "24 71785951269"
-    },
-    {
-      "title": "POLONI – Tusk u bën thirrje bizneseve të kujdesen për punëtorët që punojnë në temperatura ekstreme",
-      "link": "https://24-ore.com/poloni-tusk-u-ben-thirrje-bizneseve-te-kujdesen-per-punetoret-qe-punojne-ne-temperatura-ekstreme/",
-      "description": "VARSHAVË, 5 gusht /ATSh-Kryeministri polak Donald Tusk sot u kërkoi punëdhënësve të marrin masa për të mbrojtur punëtorët pasi një valë intensive e të nxehtit pritet të shtyjë temperaturat afër 40 gradë Celsius në disa pjesë të vendit. Në një video-mesazh të postuar në kompaninë amerikane të mediave",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-05T17:30:10+00:00",
-      "dateStr": "05 Aug, 17:30",
-      "isNew": true,
-      "id": "24 81785951010"
+      "id": "abc81785951394"
     },
     {
       "title": "SHBA-të po përballen me mungesë raketash pas fushatës ndaj Iranit",
@@ -155,183 +331,7 @@
       "date": "2026-08-05T17:28:20+00:00",
       "dateStr": "05 Aug, 17:28",
       "isNew": true,
-      "id": "abc31785950900"
-    },
-    {
-      "title": "Orteku në Pakistan merr 10 jetë, gjenden katër trupa të tjerë alpinistësh",
-      "link": "https://abcnews.al/orteku-ne-pakistan-merr-10-jete-gjenden-kater-trupa-te-tjere-alpinistesh/",
-      "description": "Trupat e alpinistit të famshëm botëror Nirmal Purja dhe tre alpinistëve të tjerë që vdiqën në një ortek në Broad Peak të Pakistanit më 30 korrik u morën nga mali në kampin bazë. Aksioni i uljes së trupit ishte shumë i mundimshëm dhe në të u përfshi edhe ushtria pakistaneze, raporton Kathmandu Post. ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-05T17:24:49+00:00",
-      "dateStr": "05 Aug, 17:24",
-      "isNew": true,
-      "id": "abc41785950689"
-    },
-    {
-      "title": "Arsovski: Ndërsa jemi jashtë procesit të integrimit evropian, po e tretim ngadalë veten si “bretkosat”",
-      "link": "https://24-ore.com/arsovski-ndersa-jemi-jashte-procesit-te-integrimit-evropian-po-e-tretim-ngadale-veten-si-bretkosat/",
-      "description": "Shoqëria në Maqedoni është përshkruar si thellësisht e politizuar dhe e ndarë për vite me radhë. Megjithatë, sipas analistit politik Petar Arsovski, sot nuk bëhet fjalë më vetëm për angazhim të fortë politik, por për një fenomen që është njohur prej kohësh në shkencat politike, dhe në vendin tonë qu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-05T17:21:48+00:00",
-      "dateStr": "05 Aug, 17:21",
-      "isNew": true,
-      "id": "24 91785950508"
-    },
-    {
-      "title": "Tirana Live me Rovena Neziri, (05/08/2026)",
-      "link": "https://abcnews.al/tirana-live-me-rovena-neziri-05-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-05T17:12:51+00:00",
-      "dateStr": "05 Aug, 17:12",
-      "isNew": true,
-      "id": "abc51785949971"
-    },
-    {
-      "title": "Ballkan Update me Habi Hoxha, (05/08/2026)",
-      "link": "https://abcnews.al/ballkan-update-me-habi-hoxha-05-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-05T17:08:43+00:00",
-      "dateStr": "05 Aug, 17:08",
-      "isNew": true,
-      "id": "abc61785949723"
-    },
-    {
-      "title": "Spanja kërkon transferimin e qindra të miturve emigrantë nga Ceuta drejt territorit kontinental",
-      "link": "https://abcnews.al/spanja-kerkon-transferimin-e-qindra-te-miturve-emigrante-nga-ceuta-drejt-territorit-kontinental/",
-      "description": "Autoritetet e Ceutës në Spanjë po kërkojnë që qindra të mitur emigrantë të pashoqëruar, të cilët ndodhen ende në enklavën spanjolle në Afrikë, të transferohen në pjesën kontinentale të vendit. Kërkesa vjen pas një fluksi të madh emigrantësh, ku rreth 72 mijë persona mbërritën në brigjet e Ceutës bre",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-05T16:43:36+00:00",
-      "dateStr": "05 Aug, 16:43",
-      "isNew": true,
-      "id": "abc71785948216"
-    },
-    {
-      "title": "Dy shqiptarë të RMV, non grata/ Leka: Kush shan Shqipërinë, nuk duhet lejuar në vend. Qarqe të huaja duan destabilitet",
-      "link": "https://abcnews.al/dy-shqiptare-te-rmv-non-grata-leka-kush-shan-shqiperine-nuk-duhet-lejuar-ne-vend-qarqe-te-huaja-duan-destabilitet/",
-      "description": "Valon Bela dhe Bekir Halimi, të dy shtetas të Maqedonisë së Veriut janë personat e radhës që janë shpallur non grata nga Ministria e Brendshme, pasi konsiderohen me rrezik potencial për sigurinë e vendit. Analisti Martin Leka tha se personat që shajnë Shqipërinë, nuk duhen lejuar në vend. Në një int",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-05T16:35:52+00:00",
-      "dateStr": "05 Aug, 16:35",
-      "isNew": true,
-      "id": "abc81785947752"
-    },
-    {
-      "title": "India heq dorë nga blerja e aeroplanëve të rinj luftarakë rusë",
-      "link": "https://abcnews.al/india-heq-dore-nga-blerja-e-aeroplaneve-te-rinj-luftarake-ruse/",
-      "description": "India nuk do të blejë në një të ardhme të afërt aeroplanë të rinj luftarakë rusë të familjes Sukhoi, përfshirë modelin Su-57, deklaroi sekretari i Ministrisë së Mbrojtjes së Indisë, Rajesh Kumar Singh. Sipas tij, autoritetet indiane aktualisht janë të përqendruara në modernizimin e flotës ekzistuese",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-05T16:15:24+00:00",
-      "dateStr": "05 Aug, 16:15",
-      "isNew": true,
-      "id": "abc91785946524"
-    },
-    {
-      "title": "Ekstradimi i Beqirajt, Ministria e Drejtësisë reagim zyrtar: Sot ia përcollëm dokumentet palës franceze",
-      "link": "https://shekulli.com.al/2026/08/05/ekstradimi-i-beqirajt-ministria-e-drejtesise-reagim-zyrtar-sot-ia-percollem-dokumentet-pales-franceze/",
-      "description": "Ministria e Drejtësisë e Shqipërisë ka nisur zyrtarisht drejt autoriteteve franceze kërkesën për ekstradimin e Ermal Beqirajt, i cili është arrestuar në Francë në bazë të një urdhër-arresti ndërkombëtar të lëshuar në kuadër të hetimeve të SPAK. “Ministria e Drejtësisë bën me dije se, në përputhje me",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-05T15:12:03+00:00",
-      "dateStr": "05 Aug, 15:12",
-      "isNew": true,
-      "id": "she11785942723"
-    },
-    {
-      "title": "Tronditëse në Greqi, 9-vjeçarja shqiptare abuzohet seksualisht nga njerku i saj, e kërcënonte se do i vriste gjyshen dhe…",
-      "link": "https://shekulli.com.al/2026/08/05/tronditese-ne-greqi-9-vjecarja-shqiptare-abuzohet-seksualisht-nga-njerku-i-saj-e-kercenonte-se-do-i-vriste-gjyshen-dhe/",
-      "description": "GREQI- Një ngjarje tronditëse ka tronditur komunitetet e Almiros, Magnesias dhe Tyrnavos në Greqi, ku një 41-vjeçar është dërguar për gjykim para Gjykatës së Krimeve të Rënda të Larisës, pasi akuzohet se ka abuzuar seksualisht në mënyrë të përsëritur me vajzën 9-vjeçare të bashkëshortes së tij.  Sip",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-05T14:23:27+00:00",
-      "dateStr": "05 Aug, 14:23",
-      "isNew": true,
-      "id": "she21785939807"
-    },
-    {
-      "title": "Shqipëria me flotën më të vjetër të automjeteve në Europë, 91% e tyre janë mbi 10 vjeçare",
-      "link": "https://shekulli.com.al/2026/08/05/shqiperia-me-floten-me-te-vjeter-te-automjeteve-ne-europe-91-e-tyre-jane-mbi-10-vjecare/",
-      "description": "TIRANË- Shqipëria vijon të ketë një nga flotat më të vjetra të automjeteve në Europë, ndonëse vitet e fundit është rritur interesi për makinat elektrike, hibride dhe ato me kilometrazh zero. Të dhënat më të fundit të Eurostat-it për strukturën e autoveturave sipas moshës tregojnë se në fund të vitit",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-05T14:01:43+00:00",
-      "dateStr": "05 Aug, 14:01",
-      "isNew": true,
-      "id": "she31785938503"
-    },
-    {
-      "title": "Çfarë është skema e ‘vejushave të zeza’ në Rusi/ Martesa të rreme me ushtarët për të fituar miliona pas vdekjes së tyre",
-      "link": "https://shekulli.com.al/2026/08/05/cfare-eshte-skema-e-vejushave-te-zeza-ne-rusi-martesa-te-rreme-me-ushtaret-per-te-fituar-miliona-pas-vdekjes-se-tyre/",
-      "description": "RUSI- Një skemë mashtrimi, e njohur si ajo e “vejushave të zeza”, po trondit Rusinë, ndërsa gjithnjë e më shumë raste të martesave të rreme me ushtarë që nisen në luftën në Ukrainë po dalin në dritë. Sipas raportimeve të mediave ndërkombëtare, disa gra dyshohet se lidhin martesa fiktive me ushtarë v",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-05T13:49:35+00:00",
-      "dateStr": "05 Aug, 13:49",
-      "isNew": true,
-      "id": "she41785937775"
-    },
-    {
-      "title": "Fondet e pakta për shëndetësinë, Dhoma Amerikane e Tregtisë: Mijëra shqiptarë po humbin jetën parakohe",
-      "link": "https://shekulli.com.al/2026/08/05/fondet-e-pakta-per-shendetesine-dhoma-amerikane-e-tregtise-mijera-shqiptare-po-humbin-jeten-parakohe/",
-      "description": "TIRANË- Mijëra shqiptarë janë duke humbur jetën në mënyrë të parakoheshme për shkak të shpenzimeve të ulëta që qeveria bën për shëndetësinë. Ky është përfundimi i një raporti të hartuar nga ekspertë të huaj për llogari të Dhomës Amerikane të Tregtisë. Por drama e vdekjeve të parakohshme është vetëm ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-05T13:30:51+00:00",
-      "dateStr": "05 Aug, 13:30",
-      "isNew": true,
-      "id": "she51785936651"
-    },
-    {
-      "title": "Grabitet me armë argjendaria në Tiranë, dy persona me kallash terrorizojnë zonën",
-      "link": "https://shekulli.com.al/2026/08/05/grabitet-me-arme-argjendaria-ne-tirane-dy-persona-me-kallash-terrorizojne-zonen/",
-      "description": "TIRANË- Një grabitje me armë zjarri ka ndodhur këtë të mërkurë në një argjendari zonën e Paskuqanit në Tiranë. Mësohet se dy autorët e dyshuar kanë qenë të armatosur me kallashnikovë dhe kanë lëvizur me motor. Burime nga Policia bëjnë me dije se ata janë larguar në drejtim të zonës së Institutit Buj",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-05T13:20:06+00:00",
-      "dateStr": "05 Aug, 13:20",
-      "isNew": true,
-      "id": "she61785936006"
-    },
-    {
-      "title": "E dyshuar për pjesëmarrje në organizatë terroriste, arrestohet shtetasja turke në Rinas (Emri)",
-      "link": "https://shekulli.com.al/2026/08/05/e-dyshuar-per-pjesemarrje-ne-organizate-terroriste-arrestohet-shtetasja-turke-ne-rinas-emri/",
-      "description": "TIRANË- Policia Kufitare ka arrestuar në Rinas një shtetase turke të shpallur në kërkim ndërkombëtar, me qëllim ekstradimin e saj drejt Turqisë. Bëhet fjalë për shtetasen Julide Yazici e cila është dënuar nga Gjykata e Krimeve të Rënda e Stambollit me 4 vjet e 2 muaj burgim për veprat penale “Dhënia",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-05T13:01:19+00:00",
-      "dateStr": "05 Aug, 13:01",
-      "isNew": true,
-      "id": "she71785934879"
-    },
-    {
-      "title": "Çfarë ndodhi në Selenicë? Zjarri shkrumbon dhjetra makina",
-      "link": "https://shekulli.com.al/2026/08/05/cfare-ndodhi-ne-selenice-zjarri-shkrumbon-dhjetra-makina/",
-      "description": "Një zjarr i rënë rreth mesditës së kësaj të mërkure në fshatin Penkovë, në Bashkinë e Selenicës, ka përfshirë dhe një pikë grumbullimi automjetesh për pjesë këmbimi. Si pasojë e flakëve janë djegur rreth dhjetëra automjete, ndërsa janë shkaktuar dëme të konsiderueshme materiale. Në vendngjarje kanë ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-05T12:47:17+00:00",
-      "dateStr": "05 Aug, 12:47",
-      "isNew": true,
-      "id": "she81785934037"
-    },
-    {
-      "title": "U përfol për një krisje mes saj dhe Grida Dumës, Lori Hoxha i vë ‘vulën’ me daljen e fundit",
-      "link": "https://shekulli.com.al/2026/08/05/u-perfol-per-nje-krisje-mes-saj-dhe-grida-dumes-lori-hoxha-i-ve-vulen-me-daljen-e-fundit/",
-      "description": "TIRANË- Trashëgimtarja e Top Channel, Lori Hoxha, ka mohuar zërat që kanë qarkulluar së fundi në media, për një krisje të marrëdhënies mes saj dhe moderatores Grida Duma. Lori është parë mbrëmjen e djeshme në festën që Duma kishte organizuar për 21-vjetorin e djalit të saj, Darienit, ku nuk i kurseu",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-05T12:39:48+00:00",
-      "dateStr": "05 Aug, 12:39",
-      "isNew": true,
-      "id": "she91785933588"
+      "id": "abc91785950900"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
