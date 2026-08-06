@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-08-06T02:11:06.663873+00:00",
+  "lastUpdated": "2026-08-06T05:43:31.995696+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "​Temperaturat e larta, edhe sot kufizohet qarkullimi i kamionëve mbi 20 tonë në autoudhë",
+      "link": "https://24-ore.com/temperaturat-e-larta-edhe-sot-kufizohet-qarkullimi-i-kamioneve-mbi-20-tone-ne-autoudhe/",
+      "description": "Ministria e Infrastrukturës dhe Transportit ka njoftuar se sot do të zbatohet kufizim i përkohshëm i qarkullimit për automjetet e transportit të mallrave me masë totale mbi 20 tonë në autoudhë, për shkak të temperaturave të larta të parashikuara. Sipas njoftimit, kufizimi do të jetë në fuqi nga ora ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T05:29:06+00:00",
+      "dateStr": "06 Aug, 05:29",
+      "isNew": true,
+      "id": "24 01785994146"
+    },
+    {
+      "title": "DW: Pagjumësia nga nxehtësia, problem serioz në Evropë",
+      "link": "https://abcnews.al/dw-pagjumesia-nga-nxehtesia-problem-serioz-ne-evrope/",
+      "description": "Gjatë valës së të nxehtit këtë verë me temperatura rekord në Evropën Perëndimore, 65 përqind e të rriturve u ankuan se qëndronin zgjuar për tre ose më shumë orë në natë në vend që të flinin, sipas një ankete të kryer në Britaninë e Madhe. Çrregullimet e gjumit janë një pasojë e pashmangshme e verave",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T05:21:30+00:00",
+      "dateStr": "06 Aug, 05:21",
+      "isNew": true,
+      "id": "abc01785993690"
+    },
+    {
+      "title": "Parashikimi i motit, 6 gusht 2026",
+      "link": "https://abcnews.al/parashikimi-i-motit-6-gusht-2026/",
+      "description": "Ditën e enjte vendi ynë parashikohet të vijojë të jetë në ndikim të masave ajrore të qëndrueshme dhe të nxehta. Moti parashikohet kryesisht i kthjellët e vranësira të pakta kalimtare në orët e mesditës. Era me drejtim nga kuadrati i perëndimit me shpejtësi mesatare deri në 5 m/s, e cila hera-herës p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T05:17:32+00:00",
+      "dateStr": "06 Aug, 05:17",
+      "isNew": true,
+      "id": "abc11785993452"
+    },
+    {
+      "title": "Horoskopi, zbuloni parashikimin e yjeve për shenjën tuaj",
+      "link": "https://abcnews.al/horoskopi-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj-186/",
+      "description": "Dashi Ata që janë në një lidhje do të ndihen të plotësuar dhe nuk do të kërkojnë të bëjnë asgjë të re. Çdo moment do të jetë i veçantë. Do të ketë dashuri me shikim të parë sot për beqarët dhe shumë gjëra do të ndryshojnë përgjithmonë. Sektori i financave do të vazhdojë të mbetet [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T05:07:24+00:00",
+      "dateStr": "06 Aug, 05:07",
+      "isNew": true,
+      "id": "abc21785992844"
+    },
+    {
+      "title": "Francezët zgjerojnë epërsinë në Airbnb-të shqiptare, gjermanët të dytët por pesha e tyre në rënie",
+      "link": "https://24-ore.com/francezet-zgjerojne-epersine-ne-airbnb-te-shqiptare-gjermanet-te-dytet-por-pesha-e-tyre-ne-renie/",
+      "description": "Francez&#235;t po forcojn&#235; pozicionin si tregu kryesor i huaj p&#235;r qirat&#235; ditore n&#235; Shqip&#235;ri, nd&#235;rsa vizitor&#235;t nga Shtetet e Bashkuara po i afrohen Gjermanis&#235; n&#235; renditjen e net&#235;ve t&#235; q&#235;ndrimit. T&#235; dh&#235;nat e AirDNA p&#235;r periudh&",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T04:00:53+00:00",
+      "dateStr": "06 Aug, 04:00",
+      "isNew": true,
+      "id": "24 11785988853"
+    },
     {
       "title": "Toyota që shitet për “Ujk”: si keqinformon hapur qeveria për prodhimet ushtarake",
       "link": "https://24-ore.com/toyota-qe-shitet-per-ujk-si-keqinformon-hapur-qeveria-per-prodhimet-ushtarake/",
@@ -12,7 +67,7 @@
       "date": "2026-08-06T01:29:24+00:00",
       "dateStr": "06 Aug, 01:29",
       "isNew": true,
-      "id": "24 01785979764"
+      "id": "24 21785979764"
     },
     {
       "title": "Gashi: Nëse LDK-ja insiston për postin e presidentit, situata komplikohet – pres që të ketë lëshim",
@@ -23,7 +78,7 @@
       "date": "2026-08-05T21:59:25+00:00",
       "dateStr": "05 Aug, 21:59",
       "isNew": true,
-      "id": "24 11785967165"
+      "id": "24 31785967165"
     },
     {
       "title": "Dita e 67-të e protestës në Tiranë, qytetarët marshojnë pas fjalimeve para Kryeministrisë",
@@ -34,7 +89,7 @@
       "date": "2026-08-05T21:21:33+00:00",
       "dateStr": "05 Aug, 21:21",
       "isNew": true,
-      "id": "24 21785964893"
+      "id": "24 41785964893"
     },
     {
       "title": "Përfshihet nga flakët një automjet në Tiranë, dyshimet e para",
@@ -45,7 +100,7 @@
       "date": "2026-08-05T21:21:21+00:00",
       "dateStr": "05 Aug, 21:21",
       "isNew": true,
-      "id": "24 31785964881"
+      "id": "24 51785964881"
     },
     {
       "title": "Gjykata gjermane dënon 8 adoleshentë për sulme ndaj refugjatëve dhe aktivistëve",
@@ -56,7 +111,7 @@
       "date": "2026-08-05T21:21:10+00:00",
       "dateStr": "05 Aug, 21:21",
       "isNew": true,
-      "id": "24 41785964870"
+      "id": "24 61785964870"
     },
     {
       "title": "Një tërmet i fortë godet Indonezinë, sa ishte magnituda",
@@ -67,7 +122,7 @@
       "date": "2026-08-05T21:20:56+00:00",
       "dateStr": "05 Aug, 21:20",
       "isNew": true,
-      "id": "24 51785964856"
+      "id": "24 71785964856"
     },
     {
       "title": "Huthët sulmojnë tankerin e dytë saudit në Gjirin e Adenit",
@@ -78,7 +133,7 @@
       "date": "2026-08-05T21:20:43+00:00",
       "dateStr": "05 Aug, 21:20",
       "isNew": true,
-      "id": "24 61785964843"
+      "id": "24 81785964843"
     },
     {
       "title": "Dokumentet e FBI-së zbulojnë se Trumpi u hetua si “agjent rus”",
@@ -89,29 +144,7 @@
       "date": "2026-08-05T21:20:30+00:00",
       "dateStr": "05 Aug, 21:20",
       "isNew": true,
-      "id": "24 71785964830"
-    },
-    {
-      "title": "SHBA-të pezullojnë importin e avokados nga Meksika për shkak të shqetësimeve për sigurinë",
-      "link": "https://24-ore.com/shba-te-pezullojne-importin-e-avokados-nga-meksika-per-shkak-te-shqetesimeve-per-sigurine/",
-      "description": "Shtetet e Bashkuara kanë pezulluar importet e avokados nga prodhuesi më i madh i Meksikës , duke përmendur shqetësime për sigurinë, thanë të hënën shoqata e prodhuesve dhe qeveria e shtetit Michoacan. “Asnjë dërgesë frutash për eksport nuk është autorizuar”, tha në një deklaratë Shoqata e Prodhuesve",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-05T21:20:17+00:00",
-      "dateStr": "05 Aug, 21:20",
-      "isNew": true,
-      "id": "24 81785964817"
-    },
-    {
-      "title": "Zelensky i kërkon NATO-s më shumë ndihmë me mbrojtjen ajrore",
-      "link": "https://24-ore.com/zelensky-i-kerkon-nato-s-me-shume-ndihme-me-mbrojtjen-ajrore/",
-      "description": "Presidenti ukrainas Volodymyr Zelensky tha se kishte diskutuar me Sekretarin e Përgjithshëm të NATO-s Mark Rutte mundësinë e blerjes nga Kievi të më shumë raketave interceptuese për mbrojtjen e saj ajrore . “Mark Rutte është i informuar mirë për kërcënimet dhe ne i koordinuam përpjekjet tona” në lid",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-05T21:20:04+00:00",
-      "dateStr": "05 Aug, 21:20",
-      "isNew": true,
-      "id": "24 91785964804"
+      "id": "24 91785964830"
     },
     {
       "title": "Pikëpyetjet/ Vdekja e turistes gjermane në jug të vendit, policia: Shkaqe natyrale! Gazetarja: Helikopteri mbeti në ajër, nuk kishte ku të ulej",
@@ -133,7 +166,7 @@
       "date": "2026-08-05T20:54:15+00:00",
       "dateStr": "05 Aug, 20:54",
       "isNew": true,
-      "id": "abc01785963255"
+      "id": "abc31785963255"
     },
     {
       "title": "Aksident me vdekje në Durrës",
@@ -144,7 +177,7 @@
       "date": "2026-08-05T20:47:06+00:00",
       "dateStr": "05 Aug, 20:47",
       "isNew": true,
-      "id": "abc11785962826"
+      "id": "abc41785962826"
     },
     {
       "title": "E trishtë, makina përplas për vdekje këmbësorin në Durrës",
@@ -166,7 +199,7 @@
       "date": "2026-08-05T20:37:57+00:00",
       "dateStr": "05 Aug, 20:37",
       "isNew": true,
-      "id": "abc21785962277"
+      "id": "abc51785962277"
     },
     {
       "title": "Paqe midis Turqisë dhe PKK-së kurde/ Turqia paraqet projektligjin për riintegrimin e militantëve",
@@ -177,7 +210,7 @@
       "date": "2026-08-05T20:29:26+00:00",
       "dateStr": "05 Aug, 20:29",
       "isNew": true,
-      "id": "abc31785961766"
+      "id": "abc61785961766"
     },
     {
       "title": "Shpërthen makina në zonën e Laprakës, digjet plotësisht. Problem teknik në lëvizje",
@@ -210,7 +243,7 @@
       "date": "2026-08-05T20:16:25+00:00",
       "dateStr": "05 Aug, 20:16",
       "isNew": true,
-      "id": "abc41785960985"
+      "id": "abc71785960985"
     },
     {
       "title": "VIDEO/ Rrufeja godet gjatë ndeshjes në Tajlandë, humb jetën futbollisti 24-vjeçar, plagosen 12 të tjerë",
@@ -276,7 +309,7 @@
       "date": "2026-08-05T19:37:15+00:00",
       "dateStr": "05 Aug, 19:37",
       "isNew": true,
-      "id": "abc51785958635"
+      "id": "abc81785958635"
     },
     {
       "title": "Flakët përhapen me shpejtësi në Mallakastër, zjarri del jashtë kontrollit",
@@ -298,40 +331,7 @@
       "date": "2026-08-05T19:20:29+00:00",
       "dateStr": "05 Aug, 19:20",
       "isNew": true,
-      "id": "abc61785957629"
-    },
-    {
-      "title": "Përtej mantelit të drejtësisë/ Saimir Vishaj: Ëndrra për aktrim më ndihmoi të fitoj 80 përqind të çështjeve",
-      "link": "https://abcnews.al/pertej-mantelit-te-drejtesise-saimir-vishaj-endrra-per-aktrim-me-ndihmoi-te-fitoj-80-perqind-te-ceshtjeve/",
-      "description": "Në një rrëfim ndryshe përtej mantelit të drejtësisë në emisionin “Summer Time Show”, avokati i njohur Saimir Vishaj tregoi se si ëndrra e tij e hershme për aktrim e ka ndihmuar të arrijë një sukses prej 80% të çështjeve të fituara. Ai ndau detaje mbi natyrën e tij me humor në jetën e përditshme përk",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-05T18:54:32+00:00",
-      "dateStr": "05 Aug, 18:54",
-      "isNew": true,
-      "id": "abc71785956072"
-    },
-    {
-      "title": "Kamarier prej 18 vitesh/ Albi rrëfen “sekretet” e profesionit: Fitoja deri në 5 milionë lekë në muaj",
-      "link": "https://abcnews.al/kamarier-prej-18-vitesh-albi-rrefen-sekretet-e-profesionit-fitoja-deri-ne-5-milione-leke-ne-muaj/",
-      "description": "Me më shumë se 18 vite përvojë në shërbim, Albi ka rrëfyer në emisionin “Summer Time Show” lidhjen e tij të fortë me profesionin e kamarierit, të cilin e ka nisur që në moshën 13-vjeçare. I shtyrë nga pasioni dhe dashuria për këtë punë, ai shprehet se nuk ka menduar kurrë ta ndërrojë këtë rrugëtim. ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-05T18:41:48+00:00",
-      "dateStr": "05 Aug, 18:41",
-      "isNew": true,
-      "id": "abc81785955308"
-    },
-    {
-      "title": "Zjarri në Mallakastër ende aktiv/ Flakët përparojnë drejt Ngraçanit dhe Drenies, autoritetet në gatishmëri",
-      "link": "https://abcnews.al/zjarri-ne-mallakaster-ende-aktiv-flaket-perparojne-drejt-ngracanit-dhe-drenies-autoritetet-ne-gatishmeri/",
-      "description": "Këto janë pamjet e momentit kur flakët përpijnë sipërfaqe të mëdha të kodrave me pisha në Mallakastër, ndërsa zjarri në këtë zonë është jashtë kontrollit, pavarësisht angazhimit të zjarrfikësve dhe forcave të ushtrisë. Vatrat vijojnë të mbeten aktive në disa zona të Mallakastrës, por situata paraqit",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-05T18:31:38+00:00",
-      "dateStr": "05 Aug, 18:31",
-      "isNew": true,
-      "id": "abc91785954698"
+      "id": "abc91785957629"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
