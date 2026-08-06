@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-05T23:55:33.889010+00:00",
+  "lastUpdated": "2026-08-06T02:11:06.663873+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Toyota që shitet për “Ujk”: si keqinformon hapur qeveria për prodhimet ushtarake",
+      "link": "https://24-ore.com/toyota-qe-shitet-per-ujk-si-keqinformon-hapur-qeveria-per-prodhimet-ushtarake/",
+      "description": "Të premten e shkuar, Kryeministri qëndroi në mënyrë solemne para një salle të mbushur me drejtuesit më të lartë qeveritarë dhe ushtarakë dhe deklaroi se ajo ditë ishte “në kuptimin më të plotë dhe më të drejtpërdrejtë të fjalës, një ditë historike për industrinë e re ushtarake”. Arsyeja? “Flota e pr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T01:29:24+00:00",
+      "dateStr": "06 Aug, 01:29",
+      "isNew": true,
+      "id": "24 01785979764"
+    },
     {
       "title": "Gashi: Nëse LDK-ja insiston për postin e presidentit, situata komplikohet – pres që të ketë lëshim",
       "link": "https://24-ore.com/gashi-nese-ldk-ja-insiston-per-postin-e-presidentit-situata-komplikohet-pres-qe-te-kete-leshim/",
@@ -12,7 +23,7 @@
       "date": "2026-08-05T21:59:25+00:00",
       "dateStr": "05 Aug, 21:59",
       "isNew": true,
-      "id": "24 01785967165"
+      "id": "24 11785967165"
     },
     {
       "title": "Dita e 67-të e protestës në Tiranë, qytetarët marshojnë pas fjalimeve para Kryeministrisë",
@@ -23,7 +34,7 @@
       "date": "2026-08-05T21:21:33+00:00",
       "dateStr": "05 Aug, 21:21",
       "isNew": true,
-      "id": "24 11785964893"
+      "id": "24 21785964893"
     },
     {
       "title": "Përfshihet nga flakët një automjet në Tiranë, dyshimet e para",
@@ -34,7 +45,7 @@
       "date": "2026-08-05T21:21:21+00:00",
       "dateStr": "05 Aug, 21:21",
       "isNew": true,
-      "id": "24 21785964881"
+      "id": "24 31785964881"
     },
     {
       "title": "Gjykata gjermane dënon 8 adoleshentë për sulme ndaj refugjatëve dhe aktivistëve",
@@ -45,7 +56,7 @@
       "date": "2026-08-05T21:21:10+00:00",
       "dateStr": "05 Aug, 21:21",
       "isNew": true,
-      "id": "24 31785964870"
+      "id": "24 41785964870"
     },
     {
       "title": "Një tërmet i fortë godet Indonezinë, sa ishte magnituda",
@@ -56,7 +67,7 @@
       "date": "2026-08-05T21:20:56+00:00",
       "dateStr": "05 Aug, 21:20",
       "isNew": true,
-      "id": "24 41785964856"
+      "id": "24 51785964856"
     },
     {
       "title": "Huthët sulmojnë tankerin e dytë saudit në Gjirin e Adenit",
@@ -67,7 +78,7 @@
       "date": "2026-08-05T21:20:43+00:00",
       "dateStr": "05 Aug, 21:20",
       "isNew": true,
-      "id": "24 51785964843"
+      "id": "24 61785964843"
     },
     {
       "title": "Dokumentet e FBI-së zbulojnë se Trumpi u hetua si “agjent rus”",
@@ -78,7 +89,7 @@
       "date": "2026-08-05T21:20:30+00:00",
       "dateStr": "05 Aug, 21:20",
       "isNew": true,
-      "id": "24 61785964830"
+      "id": "24 71785964830"
     },
     {
       "title": "SHBA-të pezullojnë importin e avokados nga Meksika për shkak të shqetësimeve për sigurinë",
@@ -89,7 +100,7 @@
       "date": "2026-08-05T21:20:17+00:00",
       "dateStr": "05 Aug, 21:20",
       "isNew": true,
-      "id": "24 71785964817"
+      "id": "24 81785964817"
     },
     {
       "title": "Zelensky i kërkon NATO-s më shumë ndihmë me mbrojtjen ajrore",
@@ -100,7 +111,7 @@
       "date": "2026-08-05T21:20:04+00:00",
       "dateStr": "05 Aug, 21:20",
       "isNew": true,
-      "id": "24 81785964804"
+      "id": "24 91785964804"
     },
     {
       "title": "Pikëpyetjet/ Vdekja e turistes gjermane në jug të vendit, policia: Shkaqe natyrale! Gazetarja: Helikopteri mbeti në ajër, nuk kishte ku të ulej",
@@ -112,17 +123,6 @@
       "dateStr": "05 Aug, 21:07",
       "isNew": true,
       "id": "she01785964068"
-    },
-    {
-      "title": "E përplasi makina, humb jetën këmbësori në Durrës",
-      "link": "https://24-ore.com/e-perplasi-makina-humb-jeten-kembesori-ne-durres/",
-      "description": "Një aksident rrugor me pasojë humbjen e jetës së një këmbësori është regjistruar mbrëmjen e sotme në 5 gusht në qytetin e Durrësit. Ngjarja ka ndodhur rreth orës 21:45 në lagjen nr. 15. Sipas informacioneve paraprake të Policisë, një automjet i drejtuar nga shtetasi D. N. ka përplasur këmbësorin me ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-05T21:02:11+00:00",
-      "dateStr": "05 Aug, 21:02",
-      "isNew": true,
-      "id": "24 91785963731"
     },
     {
       "title": "Gjirokastër/ Zjarr në kurorën e gjelbër në shpatin e Malit të Gjerë",
