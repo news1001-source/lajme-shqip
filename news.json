@@ -1,29 +1,282 @@
 {
-  "lastUpdated": "2026-08-06T11:17:09.128635+00:00",
+  "lastUpdated": "2026-08-06T13:54:17.965642+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Zjarret në Mallakastër, situata e qëndrueshme/ Dy helikopterë operojnë nga ajri, dhjetëra forca në terren",
-      "link": "https://abcnews.al/zjarret-ne-mallakaster-situata-e-qendrueshme-dy-helikoptere-operojne-nga-ajri-dhjetera-forca-ne-terren/",
-      "description": "Situata e krijuar nga zjarret në Mallakastër paraqitet më e qetë në zonat e Ngraçanit, Rribanit dhe Drenies, ku forcat në terren kanë arritur të vënë nën kontroll vatrat kryesore të flakëve. Në operacion janë angazhuar reparti zjarrfikës i Mallakastrës në Ngraçan dhe Rriban, me mbështetjen e forcave",
-      "source": "ABC News",
+      "title": "PD kundër Reformës Territoriale, zbardhet udhëzimi që iu ka dërguar degëve: Takim urgjent me…",
+      "link": "https://shekulli.com.al/2026/08/06/pd-kunder-reformes-territoriale-zbardhet-udhezimi-qe-iu-ka-derguar-degeve-takim-urgjent-me/",
+      "description": "TIRANË- Partia Demokratike ka shpërndarë një udhëzim zyrtar për të gjitha strukturat e saj në vend, ku kërkon angazhim të menjëhershëm në organizimin e një qëndrese qytetare kundër projektit të qeverisë për rishikimin e hartës administrative-territoriale, e cila synon uljen e numrit të bashkive. Në ",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-06T11:15:30+00:00",
-      "dateStr": "06 Aug, 11:15",
+      "date": "2026-08-06T13:45:37+00:00",
+      "dateStr": "06 Aug, 13:45",
       "isNew": true,
-      "id": "abc01786014930"
+      "id": "she01786023937"
     },
     {
-      "title": "Kurti: Pa marrëveshje për presidentin, konstituimi i Kuvendit do të çonte vendin në zgjedhje të reja",
-      "link": "https://24-ore.com/kurti-pa-marreveshje-per-presidentin-konstituimi-i-kuvendit-do-te-conte-vendin-ne-zgjedhje-te-reja/",
-      "description": "Kryeministri në detyrë, njëherësh kryetari i Lëvizjes Vetëvendosje (LVV), Albin Kurti ka deklaruar se ndërprerja e seancës konstituive të Kuvendit të Kosovës është bërë për t’i dhënë hapësirë vazhdimit të bisedimeve politike për zgjedhjen e presidentit të ardhshëm. Në një konferencë për media pas nd",
+      "title": "Sadiku kritikon bashpartiakë për qëndrimin ndaj ligjit për shtetësinë: Ne është dashur të protestojmë, nuk e bëmë",
+      "link": "https://24-ore.com/sadiku-kritikon-bashpartiake-per-qendrimin-ndaj-ligjit-per-shtetesine-ne-eshte-dashur-te-protestojme-nuk-e-beme/",
+      "description": "Deputeti i Lidhjes Demokratike të Kosovës, Ermal Sadiku, ka kritikuar partinë e tij për mënyrën se si ka kundërshtuar ligjin për fitimin e shtetësisë për ata që kanë hequr dorë më herët, duke thënë se LDK-ja nuk ka bërë mjaftueshëm për ta penguar miratimin e tij. Në një postim në Facebook, Sadiku th",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-06T11:15:25+00:00",
-      "dateStr": "06 Aug, 11:15",
+      "date": "2026-08-06T13:39:30+00:00",
+      "dateStr": "06 Aug, 13:39",
       "isNew": true,
-      "id": "24 01786014925"
+      "id": "24 01786023570"
+    },
+    {
+      "title": "Janevska: Këtë vit shkollor do të ketë 4.900 nxënës më pak në klasën e parë",
+      "link": "https://24-ore.com/janevska-kete-vit-shkollor-do-te-kete-4-900-nxenes-me-pak-ne-klasen-e-pare/",
+      "description": "Në shtator do të ketë rreth 4.900 nxënës të klasës së parë më pak se vitin e kaluar. Këtë e ka bërë të ditur sot ministrja e Arsimit dhe Shkencës, Vesna Janevska, duke shtuar se kjo shifër nuk është përfundimtare. Numri i studentëve po zvogëlohet, duke pasur parasysh se kemi gjithnjë e më pak nxënës",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T13:34:39+00:00",
+      "dateStr": "06 Aug, 13:34",
+      "isNew": true,
+      "id": "24 11786023279"
+    },
+    {
+      "title": "“Albin, mjaft – konstituoje Kuvendin dhe lëre Kosovën të ecë përpara”, reagon Çitaku",
+      "link": "https://24-ore.com/albin-mjaft-konstituoje-kuvendin-dhe-lere-kosoven-te-ece-perpara-reagon-citaku/",
+      "description": "Deputetja e Partisë Demokratike të Kosovës (PDK), Vlora Çitaku ka reaguar pas zhvillimeve të fundit pas ndërprerjes së seancës konstituive të Kuvendit të Kosovës. Çitaku përmes një psotimi në rrjetin social në Facebook ka shkruar se u pa qartë se zvarritja e krijimit të institucioneve nuk është paso",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T13:34:30+00:00",
+      "dateStr": "06 Aug, 13:34",
+      "isNew": true,
+      "id": "24 21786023270"
+    },
+    {
+      "title": "Nga Amerika e Jugut drejt Europës/ Sekuestrohen 5 ton kokainë në anijen e mallrave në Portugali, arrestohen 3 persona",
+      "link": "https://abcnews.al/nga-amerika-e-jugut-drejt-europes-sekuestrohen-5-ton-kokaine-ne-anijen-e-mallrave-ne-portugali-arrestohen-3-persona/",
+      "description": "Autoritetet portugeze kanë sekuestruar rreth pesë ton kokainë nga një anije mallrash e ndaluar në brigjet e vendit. Anija, e cila ishte nisur nga Amerika e Jugut, u hip në bord në një operacion të përbashkët që përfshinte Policinë Gjyqësore të Portugalisë, Forcat Ajrore dhe Marinën, me mbështetjen e",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T13:32:42+00:00",
+      "dateStr": "06 Aug, 13:32",
+      "isNew": true,
+      "id": "abc01786023162"
+    },
+    {
+      "title": "Posti i presidenti mban pezull konstituimin e Kuvendit të Kosovës",
+      "link": "https://24-ore.com/posti-i-presidenti-mban-pezull-konstituimin-e-kuvendit-te-kosoves/",
+      "description": "Konstituimi i Kuvendit, si hap i par&#235; n&#235; procesin e formimit t&#235; institucioneve t&#235; reja t&#235; Kosov&#235;s, nuk u p&#235;rmbyll si&#231; pritej. &#160;Seanca konstituive e s&#235; enjtes u shty nga kryesuesi i saj, pas betimit t&#235; deputet&#235;ve t&#235; rinj. Deputet&#235;t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T13:30:30+00:00",
+      "dateStr": "06 Aug, 13:30",
+      "isNew": true,
+      "id": "24 31786023030"
+    },
+    {
+      "title": "Bella Thorne rrëfen presionin e famës dhe konkurrencën me Zendaya-n",
+      "link": "https://24-ore.com/bella-thorne-rrefen-presionin-e-fames-dhe-konkurrencen-me-zendaya-n/",
+      "description": "Bella Thorne ka folur për fillimet e saj në famë dhe marrëdhënien me Zendaya gjatë kohës kur të dyja luanin në serialin e Disney Channel, “Shake It Up”. Aktorja 28-vjeçare ishte e ftuar në podcastin “Call Her Daddy” të mërkurën, ku foli për karrierën e saj pas periudhës në Disney, përgjegjësinë që k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T13:21:29+00:00",
+      "dateStr": "06 Aug, 13:21",
+      "isNew": true,
+      "id": "24 41786022489"
+    },
+    {
+      "title": "Begaj në Panairin e Librit në Ulqin: Libri duhet të trajtohet si një përparësi kombëtare",
+      "link": "https://24-ore.com/begaj-ne-panairin-e-librit-ne-ulqin-libri-duhet-te-trajtohet-si-nje-perparesi-kombetare/",
+      "description": "Presidenti, Bajram Begaj, mori pjesë në ceremoninë e hapjes së edicionit jubilar të 25-të të Panairit të Librit në Ulqin. Panairi konsiderohet një nga ngjarjet më të rëndësishme kulturore të rajonit dhe mbledh autorë, botues, krijues dhe dashamirës të librit nga Mali i Zi, Shqipëria, Kosova, Maqedon",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T13:20:56+00:00",
+      "dateStr": "06 Aug, 13:20",
+      "isNew": true,
+      "id": "24 51786022456"
+    },
+    {
+      "title": "Blerja e 3 avionëve për shuarjen e zjarreve, Ministria e Mbrojtjes: Çdo procedurë në respektim të ligjit",
+      "link": "https://24-ore.com/blerja-e-3-avioneve-per-shuarjen-e-zjarreve-ministria-e-mbrojtjes-cdo-procedure-ne-respektim-te-ligjit/",
+      "description": "Ministria e Mbrojtjes ka dalë me një reagim lidhur me deklaratën e bërë së fundmi nga Partia Demokratike mbi procedurën e prokurimit për blerjen e tre avionëve për shuarjen e zjarreve. Ministria e Mbrojtjes në reagim sqaron se çdo procedurë prokurimi në fushën e mbrojtjes dhe sigurisë zhvillohet në ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T13:20:43+00:00",
+      "dateStr": "06 Aug, 13:20",
+      "isNew": true,
+      "id": "24 61786022443"
+    },
+    {
+      "title": "PD kundër reformës territoriale, shpërndan udhëzim për degët në rrethe",
+      "link": "https://24-ore.com/pd-kunder-reformes-territoriale-shperndan-udhezim-per-deget-ne-rrethe/",
+      "description": "Partia Demokratike ka shpërndarë një udhëzim për degët e saj në rrethe, duke u kërkuar të kundërshtojnë reformën territoriale të propozuar nga Partia Socialiste. Sipas udhëzimit, strukturat e PD-së duhet të mbështesin protestat që po zhvillohen në bashkitë që, sipas propozimit të PS-së, të preken ng",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T13:20:30+00:00",
+      "dateStr": "06 Aug, 13:20",
+      "isNew": true,
+      "id": "24 71786022430"
+    },
+    {
+      "title": "Përplasi për vdekje dy persona dhe plagosi 40 të tjerë në Mynih, dënohet me burgim të përjetshëm autori",
+      "link": "https://24-ore.com/perplasi-per-vdekje-dy-persona-dhe-plagosi-40-te-tjere-ne-mynih-denohet-me-burgim-te-perjetshem-autori/",
+      "description": "Një afgan 25-vjeçar i cili përplasi makinën e tij në një tubim sindikal në Mynih vitin e kaluar, duke vrarë dy persona, është dënuar me burgim të përjetshëm. Gjykata e konsideroi krimin si të rëndë, tha një zëdhënës i Gjykatës së Lartë Rajonale të Mynihut. Ai u shpall fajtor për akuza, përfshirë dy ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T13:20:13+00:00",
+      "dateStr": "06 Aug, 13:20",
+      "isNew": true,
+      "id": "24 81786022413"
+    },
+    {
+      "title": "Një 47-vjeçare në Londër akuzohet për sulm me thikë, katër burra mbetën të plagosur",
+      "link": "https://24-ore.com/nje-47-vjecare-ne-londer-akuzohet-per-sulm-me-thike-kater-burra-mbeten-te-plagosur/",
+      "description": "Një grua 47-vjeçare është akuzuar pas një sulmi me thikë në zonën Covent Garden të Londrës qendrore, ku katër burra mbetën të plagosur, njoftoi Policia Metropolitane. Stella Gollovena përballet me katër akuza për plagosje me qëllim shkaktimin e dëmtimeve të rënda trupore, si dhe një akuzë për mbajtj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-06T13:19:57+00:00",
+      "dateStr": "06 Aug, 13:19",
+      "isNew": true,
+      "id": "24 91786022397"
+    },
+    {
+      "title": "Rusia godet portet e Ukrainës, eksportet e grurit në rrezik",
+      "link": "https://abcnews.al/rusia-godet-portet-e-ukraines-eksportet-e-grurit-ne-rrezik/",
+      "description": "Rusia ka intensifikuar sulmet ndaj porteve të Ukrainës në Detin e Zi, duke vënë në rrezik eksportet e grurit dhe duke e bërë punën në zonat portuale një nga më të rrezikshmet në vend. Punonjësit e portit të Odesës tregojnë se sulmet me raketa dhe dronë janë bërë të përditshme. Svitlana Halçenko, për",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T13:17:25+00:00",
+      "dateStr": "06 Aug, 13:17",
+      "isNew": true,
+      "id": "abc11786022245"
+    },
+    {
+      "title": "“El Nino” godet motin dhe… xhepat/ Fenomeni klimatik, dëme në ekonominë globale",
+      "link": "https://abcnews.al/el-nino-godet-motin-dhe-xhepat-fenomeni-klimatik-deme-ne-ekonomine-globale/",
+      "description": "Fenomeni El Niño pritet të sjellë pasoja të mëdha në mbarë botën, duke ndikuar jo vetëm në kushtet e motit, por edhe në ekonominë globale. Ky fenomen klimatik, që përsëritet zakonisht çdo 2 deri në 4 vjet, lidhet me rritjen e temperaturave të ujërave në Oqeanin Paqësor dhe shoqërohet me ndryshime ek",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T13:13:28+00:00",
+      "dateStr": "06 Aug, 13:13",
+      "isNew": true,
+      "id": "abc21786022008"
+    },
+    {
+      "title": "Avionët zjarrfikës përplasin politikën! PD: Tenderi u zhvillua fshehtas! Ministria e Mbrojtjes: Çdo procedurë u bë sipas ligjit në fuqi",
+      "link": "https://shekulli.com.al/2026/08/06/avionet-zjarrfikes-perplasin-politiken-pd-tenderi-u-zhvillua-fshehtas-ministria-e-mbrojtjes-cdo-procedure-u-be-sipas-ligjit-ne-fuqi/",
+      "description": "TIRANË- Tenderi për blerjen e tre avionëve zjarrfikës nga shteti shqiptar, që pritet të jenë gati në fund të këtij viti, ka sjellë një përplasje mes Partisë Demokratike dhe qeverisë. Gjatë ditës së sotme, PD kërkoi anulimin e tenderit me vlerë rreth 15 milionë euro, duke ngritur akuza për parregulls",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-06T13:07:54+00:00",
+      "dateStr": "06 Aug, 13:07",
+      "isNew": true,
+      "id": "she11786021674"
+    },
+    {
+      "title": "“Avullon” liqeni i Fierzës/ Bie niveli i ujit në kaskadë, por mbetet më lart se vitet e tjera",
+      "link": "https://abcnews.al/avullon-liqeni-i-fierzes-bie-niveli-i-ujit-ne-kaskade-por-mbetet-me-lart-se-vitet-e-tjera/",
+      "description": "I nxehti  muajit të fundit dhe mungesa e reshjeve kanë ndikuar në uljen e nivelit të ujit në Fierzë. Nëse shohim historikun e nivelit të ujit në Fierzë nga të dhënat e Korporatës Elektroenergjitike Shqiptare  rezulton se janë të rralla nivele të tilla  për gushtin  duke siguruar prodhim të  pandërpr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T13:05:32+00:00",
+      "dateStr": "06 Aug, 13:05",
+      "isNew": true,
+      "id": "abc31786021532"
+    },
+    {
+      "title": "Rriten pagesat në euro/ Banka e Shqipërisë: Në 6 muaj, 700 milionë më shumë se në 2025",
+      "link": "https://abcnews.al/rriten-pagesat-ne-euro-banka-e-shqiperise-ne-6-muaj-700-milione-me-shume-se-ne-2025/",
+      "description": "Trasaksionet në monedhën europiane kanë regjistruar nivele rekord në ekonominë shqiptare fakt që reflekton një aktivitet më të lartë ekonomik në euro.Sipas të dhënave zyrtare të Bankës së Shqipërisë pagesat në euro të kryera brenda vendit përmes sistemit AIPS EURO kanë vijuar të zgjerohen si në numë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T13:02:59+00:00",
+      "dateStr": "06 Aug, 13:02",
+      "isNew": true,
+      "id": "abc41786021379"
+    },
+    {
+      "title": "News Line me Rovena Neziri, (06/08/2026)",
+      "link": "https://abcnews.al/news-line-me-rovena-neziri-06-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T13:00:32+00:00",
+      "dateStr": "06 Aug, 13:00",
+      "isNew": true,
+      "id": "abc51786021232"
+    },
+    {
+      "title": "Karakaçi publikon videon: Po avancohet në çdo kantier për të përmbyllur projektet e nisura",
+      "link": "https://abcnews.al/karakaci-publikon-videon-po-avancohet-ne-cdo-kantier-per-te-permbyllur-projektet-e-nisura/",
+      "description": "Ministri i Infrastrukturës dhe Energjisë, Enea Karakaçi ka publikuar një video me projektet e finalizuara nga MIE në këto 7 muajt e parë të këtij viti. “7 mujori i MIE. Kemi avancuar me projekte të rëndësishme në infastrukturë dhe energji”, shkruan Karakaçi në videon e publikuar ku pasqyrohen disa p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T12:57:28+00:00",
+      "dateStr": "06 Aug, 12:57",
+      "isNew": true,
+      "id": "abc61786021048"
+    },
+    {
+      "title": "Edicioni i Mesditës me Kasandra Palin, (06/08/2026)",
+      "link": "https://abcnews.al/edicioni-i-mesdites-me-kasandra-palin-06-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T12:57:03+00:00",
+      "dateStr": "06 Aug, 12:57",
+      "isNew": true,
+      "id": "abc71786021023"
+    },
+    {
+      "title": "Pas afateve të tejkaluara, konflikti mes ortakëve e çoi koncesionin e Aeroportit të Vlorës drejt zgjidhjes së kontratës",
+      "link": "https://abcnews.al/pas-afateve-te-tejkaluara-konflikti-mes-ortakeve-e-coi-koncesionin-e-aeroportit-te-vlores-drejt-zgjidhjes-se-kontrates/",
+      "description": "Nga Fatos Çoçoli Argumenti kryesor i paraqitur nga Ministria e Infrastrukturës dhe Energjisë për zgjidhjen e kontratës koncesionare të Aeroportit Ndërkombëtar të Vlorës është mosrespektimi i afateve kontraktore për përfundimin dhe vënien në funksion të aeroportit. Megjithatë, dokumentacioni i admini",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T12:55:12+00:00",
+      "dateStr": "06 Aug, 12:55",
+      "isNew": true,
+      "id": "abc81786020912"
+    },
+    {
+      "title": "Spektakli qiellor/ Hëna mbulon Diellin, ja kur mund të shihet!",
+      "link": "https://abcnews.al/spektakli-qiellor-hena-mbulon-diellin-ja-kur-mund-te-shihet/",
+      "description": "Kur Hëna do të mbulojë Diellin më 12 gusht, ekipe shkencëtarësh do të hidhen në veprim për të studiuar fushën magnetike të tij, atmosferën dhe motin e furishëm diellor që ndonjëherë shkakton ndërprerje këtu në Tokë. Ky fenomen qiellor ofron një mundësi unike për të thelluar njohuritë tona rreth ylli",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T12:46:45+00:00",
+      "dateStr": "06 Aug, 12:46",
+      "isNew": true,
+      "id": "abc91786020405"
+    },
+    {
+      "title": "Kanali i Suezit nën presion: si ndikon kriza në Detin e Kuq?",
+      "link": "https://shekulli.com.al/2026/08/06/kanali-i-suezit-nen-presion-si-ndikon-kriza-ne-detin-e-kuq/",
+      "description": "Kanali i Suezit shtrihet në një gjatësi prej rreth 193 kilometrash. Kjo rrugë ujore, që lidh Detin Mesdhe me Detin e Kuq, u kursen anijeve që lundrojnë mes Evropës dhe Azisë një devijim prej rreth 10.700 kilometrash rreth Kepit të Shpresës së Mirë. Që nga hapja e tij në vitin 1869, kanali është kons",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-06T12:36:02+00:00",
+      "dateStr": "06 Aug, 12:36",
+      "isNew": true,
+      "id": "she21786019762"
+    },
+    {
+      "title": "Nga besimi te empatia dhe shërbimi/ Rama nxjerr kartolinën “BESA”, si e shpjegon me 4 fjalë",
+      "link": "https://shekulli.com.al/2026/08/06/nga-besimi-te-empatia-dhe-sherbimi-rama-nxjerr-kartolinen-besa-si-e-shpjegon-me-4-fjale/",
+      "description": "Kryeministri Edi Rama ka publikuar një reagim në lidhje me dokumentin “Besa”, një qasje që ai e ka prezantuar si metodën e re të punës për mandatin e katërt qeverisës. Në një postim të bërë në rrjetet sociale, Rama e ka përmbledhur kuptimin e “Besës” me katër fjalë: “Besim, Empati, Shërbim dhe Angaz",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-06T11:33:27+00:00",
+      "dateStr": "06 Aug, 11:33",
+      "isNew": true,
+      "id": "she31786016007"
+    },
+    {
+      "title": "“Jam shërbëtorja juaj”, kryebashkiakja e Klosit me zërin e dridhur: Nëse qytetarët nuk e duan Reformën, edhe unë nuk e dua…",
+      "link": "https://shekulli.com.al/2026/08/06/jam-sherbetorja-juaj-kryebashkiakja-e-klosit-me-zerin-e-dridhur-nese-qytetaret-nuk-e-duan-reformen-edhe-une-nuk-e-dua/",
+      "description": "KLOS- Këshilli Bashkiak i Klosit është mbledhur këtë të enjte për të diskutuar në lidhje me projektin e propozuar nga PS për ndarjen e re territoriale, që parashikon shkrirjen e Bashkisë Klos dhe bashkimin me Bashkinë Mat. Në mbledhje mori pjesë edhe kryetarja e Bashkisë Klos, Valbona Kola, e zgjedh",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-06T11:22:55+00:00",
+      "dateStr": "06 Aug, 11:22",
+      "isNew": true,
+      "id": "she41786015375"
     },
     {
       "title": "Autoriteti i Konkurrencës, asnjë konkluzion për indeksimin e çmimeve nga operatorët e komunikimeve",
@@ -34,128 +287,7 @@
       "date": "2026-08-06T11:12:32+00:00",
       "dateStr": "06 Aug, 11:12",
       "isNew": true,
-      "id": "she01786014752"
-    },
-    {
-      "title": "PDK: Kurti zgjodhi sërish bllokadën dhe shpërfilli aktgjykimin e Gjykatës Kushtetuese",
-      "link": "https://24-ore.com/pdk-kurti-zgjodhi-serish-bllokaden-dhe-shperfilli-aktgjykimin-e-gjykates-kushtetuese/",
-      "description": "Partia Demokratike e Kosovës ka shprehur shqetësimin e saj për dështimin e seancës së sotme për konstituimin e Kuvendit të Republikës së Kosovës. PDK thekson se moskonstituimi i Kuvendit përbën vazhdim të bllokadës institucionale nga ana e Kurtit, në kundërshtim me frymën dhe detyrimet e përcaktuara",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-06T11:10:27+00:00",
-      "dateStr": "06 Aug, 11:10",
-      "isNew": true,
-      "id": "24 11786014627"
-    },
-    {
-      "title": "Çitaku i reagon Kurtit: Albin, mjaft! Konstituoje Kuvendin dhe lëre Kosovën të ecë përpara!",
-      "link": "https://abcnews.al/citaku-i-reagon-kurtit-albin-mjaft-konstituoje-kuvendin-dhe-lere-kosoven-te-ece-perpara/",
-      "description": "Deputetja e betuar e PDK-së, Vlora Çitaku ka reaguar lidhur me shtyrjen e seancës konstituive, me kërkesë të kryeministrit në detyrë, Albin Kurti, i cili kërkoi më shumë kohë për çështjen e presidentit. Përmes një postimi në Facebook, ajo tha se, sipas saj, sot u pa qartë se zvarritja e krijimit të ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T11:08:02+00:00",
-      "dateStr": "06 Aug, 11:08",
-      "isNew": true,
-      "id": "abc11786014482"
-    },
-    {
-      "title": "Rama prezanton kuptimin e “BESA”-s. Ja katër shtyllat dhe prova e parë në Zvërnec",
-      "link": "https://24-ore.com/rama-prezanton-kuptimin-e-besa-s-ja-kater-shtyllat-dhe-prova-e-pare-ne-zvernec/",
-      "description": "Kryeministri Edi Rama ka ‘zbërthyer’ kuptimin e dokumentit strategjik “BESA”, që qeveria e ka prezantuar si bazën e një qasjeje të re në vendimmarrje dhe marrëdhënien me qytetarët, një hap që erdhi në shenjë reflektimi ndaj të ashtuquajturës “Protesta e Flamingove”. Përmes një postimi në rrjetet soc",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-06T11:03:51+00:00",
-      "dateStr": "06 Aug, 11:03",
-      "isNew": true,
-      "id": "24 21786014231"
-    },
-    {
-      "title": "“BESA”/ Rama ndan foton e ditës: Besim, Empati, Shërbim, Angazhim",
-      "link": "https://abcnews.al/besa-rama-ndan-foton-e-dites-besim-empati-sherbim-angazhim/",
-      "description": "Besim, Empati, Shërbim dhe angazhim, është ky mesazhi që vjen nga kryeministri Edi Rama, përmes një foto të postuar në rrjetet sociale, shkruar prej tij. Mesazhi vjen pasi kreu i qeverisë prezantoi pak javë më parë dokumentin politike “Besa”, një platformë që ai e ka cilësuar si një aleancë të re pë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T11:02:01+00:00",
-      "dateStr": "06 Aug, 11:02",
-      "isNew": true,
-      "id": "abc21786014121"
-    },
-    {
-      "title": "Ndahet nga jeta kompozitori italian Francesco Guccini, simbol i viteve ’70",
-      "link": "https://abcnews.al/ndahet-nga-jeta-kompozitori-italian-francesco-guccini-simbol-i-viteve-70/",
-      "description": "Është ndarë nga jeta në moshën 86-vjeçare kantautori, kompozitori dhe shkrimtari i njohur italian Francesco Guccini, një prej figurave më të rëndësishme të muzikës italiane. I lindur në vitin 1940 në Modena, Guccini e kaloi pjesën më të madhe të jetës së tij në rajonin e Emilia-Romagna. Përpara se t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T10:58:10+00:00",
-      "dateStr": "06 Aug, 10:58",
-      "isNew": true,
-      "id": "abc31786013890"
-    },
-    {
-      "title": "Digjet një banesë në Gostivar, tre persona, mes tyre dy policë, përfundojnë në urgjencë",
-      "link": "https://24-ore.com/digjet-nje-banese-ne-gostivar-tre-persona-mes-tyre-dy-police-perfundojne-ne-urgjence/",
-      "description": "SPB Tetovë njofton se ka shpërthyer zjarr në një banesë në Gostivar, ndërsa tre persona, mes tyre dy policë, përfundojnë në urgjencë. &#8220;Më 05.08.2026 në orën 17:15, në DPB Gostivar është denoncuar se ka shpërthyer zjarr në një banesë në rrugën &#8220;18 Nëntori&#8221; në Gostivar, pronë e G.S. ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-06T10:55:11+00:00",
-      "dateStr": "06 Aug, 10:55",
-      "isNew": true,
-      "id": "24 31786013711"
-    },
-    {
-      "title": "Zemaj: Shpresoj që brenda ditës të ketë lëvizje pozitive",
-      "link": "https://24-ore.com/zemaj-shpresoj-qe-brenda-dites-te-kete-levizje-pozitive/",
-      "description": "Deputeti i Lidhjes Demokratike të Kosovës, Armend Zemaj tha sot se shpreson që brenda ditës të ketë lëvizje pozitive, në drejtim të konstituimit të plotë të Kuvendit të Kosovës. Zemaj tha se votat për kryetar i takojnë gjithmonë shumicës. “E gjithë koha kushtetuese është në ditën e sotme, nëse hyjmë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-06T10:54:56+00:00",
-      "dateStr": "06 Aug, 10:54",
-      "isNew": true,
-      "id": "24 41786013696"
-    },
-    {
-      "title": "Policia- herë  si zot, herë si mallkim",
-      "link": "https://abcnews.al/policia-here-si-zot-here-si-mallkim/",
-      "description": "Nga Frrok Çupi Këto ditë, për shembull, Policia ka marrë hijen e zotit. Policia, por edhe Ushtria, forca civile, aktivistë, patronazhistë, qytetarë të preokupuar. Të gjithë që mund të ndihmojnë njeriun. Sepse këto ditë bota jonë nuk pushtohet nga pushteti i brutales, por nga pushteti i kënaqësive tu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T10:54:00+00:00",
-      "dateStr": "06 Aug, 10:54",
-      "isNew": true,
-      "id": "abc41786013640"
-    },
-    {
-      "title": "“Shqipëria Sot”, me Kasandra Pali, (06/08/2026)",
-      "link": "https://abcnews.al/shqiperia-sot-me-kasandra-pali-06-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T10:52:15+00:00",
-      "dateStr": "06 Aug, 10:52",
-      "isNew": true,
-      "id": "abc51786013535"
-    },
-    {
-      "title": "Horoskopi ditor për nesër, e Premte 7 Gusht 2026",
-      "link": "https://24-ore.com/horoskopi-ditor-per-neser-e-premte-7-gusht-2026/",
-      "description": "Dashi Ata qe janë ne një lidhje do ndihmohen tej mase nga Neptuni dhe gjerat do ju shkojnë me mire se me pare. Pasdite ose ne mbrëmje do kaloni edhe momente te veçanta dhe tejet emocionuese. Për beqaret do ketë vetëm një takim, por ai mund te jete vendimtar. Ne planin financiar do kryeni transaksion",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-06T10:51:00+00:00",
-      "dateStr": "06 Aug, 10:51",
-      "isNew": true,
-      "id": "24 51786013460"
-    },
-    {
-      "title": "Profesion unik në AQSHF, kimistja që ruan filmat në 35 mm",
-      "link": "https://24-ore.com/profesion-unik-ne-aqshf-kimistja-qe-ruan-filmat-ne-35-mm/",
-      "description": "Pas çdo filmi të ruajtur në Arkivin Qendror Shtetëror të Filmit fshihet edhe puna e një profesioni sa i veçantë, aq edhe i rrallë në Shqipëri. Prej dy dekadash, Hermelinda Troqe, inxhiniere kimiste dhe specialiste e shiritit 35 mm, kujdeset për ruajtjen e fondit filmik kombëtar, duke ndërthurur njoh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-06T10:50:09+00:00",
-      "dateStr": "06 Aug, 10:50",
-      "isNew": true,
-      "id": "24 61786013409"
+      "id": "she51786014752"
     },
     {
       "title": "Operacioni- Europol shkatërron grupin e kokainës që vepronte në Spanjë dhe Ekuador, e lidhur me shqiptarët në Dubai. Sekuestrohen 21 ton…",
@@ -166,84 +298,7 @@
       "date": "2026-08-06T10:47:00+00:00",
       "dateStr": "06 Aug, 10:47",
       "isNew": true,
-      "id": "she11786013220"
-    },
-    {
-      "title": "Kurti nuk prezanton kandidatin për kryeparlementar: Na duhet dakordim për president unifikues",
-      "link": "https://24-ore.com/kurti-nuk-prezanton-kandidatin-per-kryeparlementar-na-duhet-dakordim-per-president-unifikues/",
-      "description": "Kryeministri në detyrë, Albin Kurti, njëherësh kryetar i Lëvizjes Vetëvendosje në seancën konstituive të Kuvendit të Kosovës nuk prezantoi emrin për kryetar/e të Kuvendit, gjersa kërkoi kohë shtesë për marrëveshje politike me partitë. Kurti para deputetëve tha se u duhet dakordim sa më i gjerë për p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-06T10:44:51+00:00",
-      "dateStr": "06 Aug, 10:44",
-      "isNew": true,
-      "id": "24 71786013091"
-    },
-    {
-      "title": "“Të çmendur” për Salah/ Pritje madhështore për sulmuesin egjiptian nga tifozët e Trabzonspor",
-      "link": "https://abcnews.al/te-cmendur-per-salah-pritje-madheshtore-per-sulmuesin-egjiptian-nga-tifozet-e-trabzonspor/",
-      "description": "Mohamed Salah ka mbërritur zyrtarisht në Turqi për të nisur aventurën e re me Trabzonsporin, ndërsa është pritur në mënyrë spektakolare nga mijëra tifozë të klubit. Ylli egjiptian zbarkoi në Trabzon, ku sipas mediave turke rreth 25 mijë tifozë u mblodhën për ta mirëpritur me këngë, fishekzjarrë dhe ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T10:44:18+00:00",
-      "dateStr": "06 Aug, 10:44",
-      "isNew": true,
-      "id": "abc61786013058"
-    },
-    {
-      "title": "Nga heroi i Kupës së Botës te idhulli i Colo-Colos: Vozinha prezantohet para 30 mijë tifozëve",
-      "link": "https://abcnews.al/nga-heroi-i-kupes-se-botes-te-idhulli-i-colo-colos-vozinha-prezantohet-para-30-mije-tifozeve/",
-      "description": "Vetëm disa javë pasi i magjepsi tifozët e futbollit në mbarë botën me performancat e tij të paharrueshme në Kupën e Botës 2026, portieri i Kepit të Gjelbër, Vozinha, ka filluar zyrtarisht kapitullin tjetër të karrierës së tij të jashtëzakonshme. Portieri 40-vjeçar u prezantua si transferimi më i ri ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T10:41:23+00:00",
-      "dateStr": "06 Aug, 10:41",
-      "isNew": true,
-      "id": "abc71786012883"
-    },
-    {
-      "title": "Daku, zyrtarisht në Moskë/ Klubi moskovit e lajmëron shqiptarin si futbollistin e vet",
-      "link": "https://abcnews.al/daku-zyrtarisht-ne-moske-klubi-moskovit-e-lajmeron-shqiptarin-si-futbollistin-e-vet/",
-      "description": "Tashmë, gjithçka është zyrtare. Mirlind Daku është përfundimisht lojtar i Spartakut të Moskës, dhe klubi nga kryeqyteti rus bëri lajmërimin në faqet e veta në në rrjetet sociale. Sulmuesi i kombëtares shqiptare do të ketë kontratë 3-vjeçare, deri në 2029, me të drejtë zgjatje edhe për një sezon tjet",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T10:39:53+00:00",
-      "dateStr": "06 Aug, 10:39",
-      "isNew": true,
-      "id": "abc81786012793"
-    },
-    {
-      "title": "Spanja, frikë për “Botërorin 2030”/ Qeveria iberike shpreson të mos ketë hakmarrje nga FIFA",
-      "link": "https://abcnews.al/spanja-frike-per-boterorin-2030-qeveria-iberike-shpreson-te-mos-kete-hakmarrje-nga-fifa/",
-      "description": "Është e vështirë të besohet që kjo mund të ndodhë. Gjithsesi, në jetë ngjan gjithçka, dhe shqetësimi i qeverisë spanjolle për organizimin nga Spanja të Kupës së Botës në vitin 2030 duket I ligjshëm. Kryeministri iberik, Pedro Sançez, por sidomos ministrja e sportit, Milagros Tolon, e kanë shprehur d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T10:37:58+00:00",
-      "dateStr": "06 Aug, 10:37",
-      "isNew": true,
-      "id": "abc91786012678"
-    },
-    {
-      "title": "Basha: Po vazhdojnë kontrollet ndaj automjeteve të mbingarkuara",
-      "link": "https://24-ore.com/basha-po-vazhdojne-kontrollet-ndaj-automjeteve-te-mbingarkuara/",
-      "description": "Ministria e Infrastrukturës dhe Transportit, në bashkëpunim me Policinë e Kosovës, po vazhdon kontrollet ndaj automjeteve që tejkalojnë kufijtë e lejuar të peshës. Kështu ka bërë të ditur ministri në detyrë i Infrastrukturës dhe Transportit, Dimal Basha, i cili tha se mbingarkesa e automjeteve paraq",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-06T10:34:54+00:00",
-      "dateStr": "06 Aug, 10:34",
-      "isNew": true,
-      "id": "24 81786012494"
-    },
-    {
-      "title": "Pas afateve të tejkaluara, konflikti mes ortakëve e çoi koncesionin e Aeroportit të Vlorës drejt zgjidhjes së kontratës",
-      "link": "https://24-ore.com/pas-afateve-te-tejkaluara-konflikti-mes-ortakeve-e-coi-koncesionin-e-aeroportit-te-vlores-drejt-zgjidhjes-se-kontrates/",
-      "description": "Nga Fatos Çoçoli Argumenti kryesor i paraqitur nga Ministria e Infrastrukturës dhe Energjisë për zgjidhjen e kontratës koncesionare të Aeroportit Ndërkombëtar të Vlorës është mosrespektimi i afateve kontraktore për përfundimin dhe vënien në funksion të aeroportit. Megjithatë, dokumentacioni i admini",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-06T10:32:44+00:00",
-      "dateStr": "06 Aug, 10:32",
-      "isNew": true,
-      "id": "24 91786012364"
+      "id": "she61786013220"
     },
     {
       "title": "Kosova sërish në udhëkryq! Albin Kurti kërkon kohë për marrëveshjen me LDK-në, shtyhet seanca konstituive e Kuvendit",
@@ -254,7 +309,7 @@
       "date": "2026-08-06T10:09:52+00:00",
       "dateStr": "06 Aug, 10:09",
       "isNew": true,
-      "id": "she21786010992"
+      "id": "she71786010992"
     },
     {
       "title": "“Më morën para dhe një Rolex”, taksisti nga Lezha kallëzon në Polici: Dy persona më bënë pritë dhe më grabitën me dhunë",
@@ -265,7 +320,7 @@
       "date": "2026-08-06T09:54:51+00:00",
       "dateStr": "06 Aug, 09:54",
       "isNew": true,
-      "id": "she31786010091"
+      "id": "she81786010091"
     },
     {
       "title": "Detaje të reja nga grabitja e argjendari “Luani” në Paskuqan/ Njëri prej autorëve u shtir si klient, u vodhën bizhuteri me vlerë…",
@@ -276,62 +331,7 @@
       "date": "2026-08-06T09:44:59+00:00",
       "dateStr": "06 Aug, 09:44",
       "isNew": true,
-      "id": "she41786009499"
-    },
-    {
-      "title": "“Nuk dua të bëhet si Biden”, moment epik nga Trump, shpëton vogëlushin që po binte nga skena",
-      "link": "https://shekulli.com.al/2026/08/06/nuk-dua-te-behet-si-biden-moment-epik-nga-trump-shpeton-vogelushin-qe-po-binte-nga-skena/",
-      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump, u bë protagonist i një momenti komik gjatë një aktiviteti në Las Vegas, teksa ndërhyri për të ndaluar një vogëlush të largohej nga skena, përpara se të bënte edhe një batutë që shkaktoi të qeshura te të pranishmit. Ngjarja ndodhi gjatë një eventi të ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-06T09:23:40+00:00",
-      "dateStr": "06 Aug, 09:23",
-      "isNew": true,
-      "id": "she51786008220"
-    },
-    {
-      "title": "E kritikojnë si të shëndoshë/ Georgina Rodriguez zbulon bisedën me Ronaldon: Më thotë që njerëzit më kanë zili…",
-      "link": "https://shekulli.com.al/2026/08/06/e-kritikojne-si-te-shendoshe-georgina-rodriguez-zbulon-biseden-me-ronaldon-me-thote-qe-njerezit-me-kane-zili/",
-      "description": "PORTUGALI&#8211; Georgina Rodriguez ka reaguar publikisht pasi u përball me një valë kritikash në rrjetet sociale për pamjen e saj fizike. Partnerja e Cristiano Ronaldos publikoi disa fotografi me rroba banje dhe shfrytëzoi rastin për të përcjellë një mesazh mbi vetëpranimin, duke theksuar se vlera ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-06T09:13:46+00:00",
-      "dateStr": "06 Aug, 09:13",
-      "isNew": true,
-      "id": "she61786007626"
-    },
-    {
-      "title": "Tronditje, mot ekstrem dhe rritje e çmimit të ushqimeve/ Si pritet ta godasë El Niño ekonominë botërore",
-      "link": "https://shekulli.com.al/2026/08/06/tronditje-mot-ekstrem-dhe-rritje-e-cmimit-te-ushqimeve-si-pritet-ta-godase-el-nino-ekonomine-boterore/",
-      "description": "Një &#8220;super” El Niño mund të rrisë kostot e jetesës në mbarë botën. Ekspertët paralajmërojnë se deri në fund të vitit mund të shfaqet një nga fenomenet më të forta El Niño të regjistruara në 140 vitet e fundit. Ky fenomen natyror nuk ndikon vetëm te kushtet e motit, por mund të ketë pasoja të m",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-06T08:54:33+00:00",
-      "dateStr": "06 Aug, 08:54",
-      "isNew": true,
-      "id": "she71786006473"
-    },
-    {
-      "title": "Shqiptarëve u duhen 28 mijë dollarë në vit për të arritur “pragun e lumturisë”, nga 10 mijë që kanë sot",
-      "link": "https://shekulli.com.al/2026/08/06/shqiptareve-u-duhen-28-mije-dollare-ne-vit-per-te-arritur-pragun-e-lumturise-nga-10-mije-qe-kane-sot/",
-      "description": "TIRANË- Një individ në Shqipëri do të duhej të siguronte rreth 28,000 dollarë të ardhura në vit për të arritur të ashtuquajturin “prag të lumturisë”, nivel pas të cilit rritja e mëtejshme e të ardhurave nuk sjell përmirësim domethënës të kënaqësisë nga jeta. Sipas renditjes së publikuar nga Visual C",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-06T08:43:54+00:00",
-      "dateStr": "06 Aug, 08:43",
-      "isNew": true,
-      "id": "she81786005834"
-    },
-    {
-      "title": "PAMJET- Momenti kur zbret me charter në Rinas Sokol Hoxha, vrasësi i shumërkërkuar i 3 personave. U arrestua në SHBA",
-      "link": "https://shekulli.com.al/2026/08/06/pamjet-momenti-kur-zbret-me-charter-ne-rinas-sokol-hoxha-vrasesi-i-shumerkerkar-i-3-personave-u-arrestua-ne-shba/",
-      "description": "TIRANË- Kanë dalë pamjet nga deportimi i Sokol Hoxhës, në aeroportin e Rinasit nga SHBA-të. Hoxha, sot 51-vjeç, ishte në kërkim prej afro 30 vitesh, pas tre vrasjeve të kryer në Shqipëri dhe Belgjikë. Në mars 1997, ai u dënua në Shqipëri për vrasjen e dy vëllezërve në Patos. Për këtë krim, Gjykata e",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-06T08:24:48+00:00",
-      "dateStr": "06 Aug, 08:24",
-      "isNew": true,
-      "id": "she91786004688"
+      "id": "she91786009499"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
