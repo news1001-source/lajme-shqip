@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-08-07T22:29:36.461576+00:00",
+  "lastUpdated": "2026-08-07T23:28:57.943175+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Kevin Durant kritikon notën për gjuajtjet nga mesfusha në NBA 2K27",
+      "link": "https://24-ore.com/kevin-durant-kritikon-noten-per-gjuajtjet-nga-mesfusha-ne-nba-2k27/",
+      "description": "Kevin Durant shprehu pakënaqësi për vlerësimin e tij të gjuajtjeve nga mesfusha në lojën e ardhshme NBA 2K27, duke reaguar në rrjetin Threads për notën që...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T23:26:18+00:00",
+      "dateStr": "07 Aug, 23:26",
+      "isNew": true,
+      "id": "24 01786145178"
+    },
+    {
+      "title": "Jahmyr Gibbs apo Bijan Robinson: Kush është running back-u më i mirë? Pritshmëritë për rookie-n Jeremiyah Love",
+      "link": "https://24-ore.com/jahmyr-gibbs-apo-bijan-robinson-kush-eshte-running-back-u-me-i-mire-pritshmerite-per-rookie-n-jeremiyah-love/",
+      "description": "Debati për atë që konsiderohet running back-u më i mirë vazhdon të jetë i ngushtë midis Jahmyr Gibbs dhe Bijan Robinson. Të dy lojtarët, zgjedhur në raundi...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T23:22:04+00:00",
+      "dateStr": "07 Aug, 23:22",
+      "isNew": true,
+      "id": "24 11786144924"
+    },
+    {
+      "title": "Washington Mystics dhe Atlanta Dream përballen në CareFirst Arena më 7 gusht 2026",
+      "link": "https://24-ore.com/washington-mystics-dhe-atlanta-dream-perballen-ne-carefirst-arena-me-7-gusht-2026/",
+      "description": "Më 7 gusht 2026, Washington Mystics do të presin Atlanta Dream në CareFirst Arena në Washington, D.C., në një përballje të rëndësishme të sezonit të rregul...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T22:50:30+00:00",
+      "dateStr": "07 Aug, 22:50",
+      "isNew": true,
+      "id": "24 21786143030"
+    },
+    {
+      "title": "Një mësues zëvendësues bën komentimin në radio për Phillies pas fitimit të ankandit me 22,010 dollarë",
+      "link": "https://24-ore.com/nje-mesues-zevendesues-ben-komentimin-ne-radio-per-phillies-pas-fitimit-te-ankandit-me-22010-dollare/",
+      "description": "Një mësues zëvendësues nga zona e Filadelfias, Lewis Kalb, mori përsipër komentimin në studio për një inning gjatë ndeshjes së Phillies dhe la përshtypje m...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T22:45:28+00:00",
+      "dateStr": "07 Aug, 22:45",
+      "isNew": true,
+      "id": "24 31786142728"
+    },
+    {
+      "title": "Matt Duchene ruan besimin te Dallas Stars dhe tek Jim Nill pas eleminimit të hershëm",
+      "link": "https://24-ore.com/matt-duchene-ruan-besimin-te-dallas-stars-dhe-tek-jim-nill-pas-eleminimit-te-hershem/",
+      "description": "Matt Duchene shprehet i bindur se Dallas Stars do të kthehen fuqishëm pas eleminimit të papritur në playoff të fundit, për sa kohë që menaxheri i përgjiths...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T22:41:55+00:00",
+      "dateStr": "07 Aug, 22:41",
+      "isNew": true,
+      "id": "24 41786142515"
+    },
     {
       "title": "Rhea Ripley njofton për operacionin e gju dhe publikon foto me ortozë",
       "link": "https://24-ore.com/rhea-ripley-njofton-per-operacionin-e-gju-dhe-publikon-foto-me-ortoze/",
@@ -12,7 +67,7 @@
       "date": "2026-08-07T22:11:42+00:00",
       "dateStr": "07 Aug, 22:11",
       "isNew": true,
-      "id": "24 01786140702"
+      "id": "24 51786140702"
     },
     {
       "title": "Kevin Love shpreh interes për ribashkim me LeBron James te 76ers",
@@ -23,7 +78,7 @@
       "date": "2026-08-07T22:06:22+00:00",
       "dateStr": "07 Aug, 22:06",
       "isNew": true,
-      "id": "24 11786140382"
+      "id": "24 61786140382"
     },
     {
       "title": "Përmbledhje e lajmeve kryesore: kontrata, nënshkrime dhe ngjarje nga kampet përgatitore",
@@ -34,7 +89,7 @@
       "date": "2026-08-07T22:01:42+00:00",
       "dateStr": "07 Aug, 22:01",
       "isNew": true,
-      "id": "24 21786140102"
+      "id": "24 71786140102"
     },
     {
       "title": "LDK largohet nga Kuvendi, Haziri: Kërkuam që seanca konstituive të mbahet sonte",
@@ -45,7 +100,7 @@
       "date": "2026-08-07T21:44:06+00:00",
       "dateStr": "07 Aug, 21:44",
       "isNew": true,
-      "id": "24 31786139046"
+      "id": "24 81786139046"
     },
     {
       "title": "Arrowhead Stadium rikthen emrin klasik pas heqjes së ‘GEHA Field’",
@@ -56,62 +111,7 @@
       "date": "2026-08-07T21:21:51+00:00",
       "dateStr": "07 Aug, 21:21",
       "isNew": true,
-      "id": "24 41786137711"
-    },
-    {
-      "title": "Deputetët mblidhen, dera e sallës së Kuvendit e mbyllur",
-      "link": "https://24-ore.com/deputetet-mblidhen-dera-e-salles-se-kuvendit-e-mbyllur/",
-      "description": "Deputetë të partive opozitare janë mbledhur në Kuvendin e Kosovës teksa kanë kërkuar nga Lëvizja Vetëvendosje që të mbahet sonte seanca konstituive sipas afateve kushtetuese e jo nesër siç është thirrur nga kryesuesi i saj. Mirëpo, deputetët e mbledhur siç merr vesh Dukagjini kanë mbetur në hollin e",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T21:20:45+00:00",
-      "dateStr": "07 Aug, 21:20",
-      "isNew": true,
-      "id": "24 51786137645"
-    },
-    {
-      "title": "9 vatra zjarri në vend, Ministria e Mbrojtjes: S’ka rrezik për zonat e banuara",
-      "link": "https://24-ore.com/9-vatra-zjarri-ne-vend-ministria-e-mbrojtjes-ska-rrezik-per-zonat-e-banuara/",
-      "description": "Ministria e Mbrojtjes ka bërë bilancin e situatës së zjarreve gjatë ditës së sotme, duke njoftuar se janë monitoruar gjithsej nëntë vatra në zona të ndryshme të vendit. Sipas ministrisë, falë ndërhyrjes së koordinuar të forcave zjarrfikëse, strukturave vendore, Forcave të Armatosura dhe mjeteve ajro",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T21:20:29+00:00",
-      "dateStr": "07 Aug, 21:20",
-      "isNew": true,
-      "id": "24 61786137629"
-    },
-    {
-      "title": "Tre vatra zjarri në Gramsh, zjarrfikësit përballen me flakët në terren të vështirë (VIDEO)",
-      "link": "https://24-ore.com/tre-vatra-zjarri-ne-gramsh-zjarrfikesit-perballen-me-flaket-ne-terren-te-veshtire-video/",
-      "description": "Tre vatra zjarri janë regjistruar gjatë ditës në zona të ndryshme të bashkisë së Gramshit, duke angazhuar për disa orë shërbimin zjarrfikës në terrene të vështira malore. Ndërhyrja e parë u zhvillua në Janç Mal, në kufi me qarkun e Beratit, ku forcat zjarrfikëse të Gramshit punuan në bashkëpunim me ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T21:20:15+00:00",
-      "dateStr": "07 Aug, 21:20",
-      "isNew": true,
-      "id": "24 71786137615"
-    },
-    {
-      "title": "Protesta hyn në ditën e 69-të, qytetarët marshojnë në rrugët e Tiranës",
-      "link": "https://24-ore.com/protesta-hyn-ne-diten-e-69-te-qytetaret-marshojne-ne-rruget-e-tiranes/",
-      "description": "Protesta e përditshme në Tiranë ka hyrë këtë të premte në ditën e 69-të radhazi. Ashtu si në mbrëmjet e mëparshme, protestuesit u mblodhën fillimisht në sheshin “Skënderbej” dhe më pas marshuan drejt godinës së Kryeministrisë. Para selisë së qeverisë, ata zhvilluan tubimin me thirrje dhe fjalime nga",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T21:20:00+00:00",
-      "dateStr": "07 Aug, 21:20",
-      "isNew": true,
-      "id": "24 81786137600"
-    },
-    {
-      "title": "Shkrumbohet një banesë në Shkodër, zjarrfikësit neutralizojnë flakët",
-      "link": "https://24-ore.com/shkrumbohet-nje-banese-ne-shkoder-zjarrfikesit-neutralizojne-flaket/",
-      "description": "Një banesë është përfshirë nga flakët mbrëmjen e së premtes në bulevardin “Bujar Bishanaku” në Shkodër. Menjëherë pas njoftimit, në vendngjarje mbërritën forcat e shërbimit zjarrfikës, të cilat ndërhynë për të vënë nën kontroll zjarrin dhe për të shmangur përhapjen e flakëve në objektet përreth. Fat",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T21:19:50+00:00",
-      "dateStr": "07 Aug, 21:19",
-      "isNew": true,
-      "id": "24 91786137590"
+      "id": "24 91786137711"
     },
     {
       "title": "Seanca shtyhet të shtunën/ Konstituimi i Kuvendit të Kosovës, afati përfundon sot në orën 24:00",
