@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-08-07T03:46:31.760618+00:00",
-  "totalSources": 4,
-  "totalNews": 40,
+  "lastUpdated": "2026-08-07T05:36:24.739858+00:00",
+  "totalSources": 3,
+  "totalNews": 30,
   "news": [
+    {
+      "title": "Austin FC synon të shfrytëzojë fitoren hapëse në Leagues Cup për të rikthyer formën",
+      "link": "https://24-ore.com/austin-fc-synon-te-shfrytezoje-fitoren-hapese-ne-leagues-cup-per-te-rikthyer-formen/",
+      "description": "Austin FC fitoi 2-0 ndaj Club Tijuana në Q2 Stadium, një rezultat që skuadra shpreson ta përdorë si nisjen e rikthimit drejt një sezoni më të mirë në 2026....",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T05:35:37+00:00",
+      "dateStr": "07 Aug, 05:35",
+      "isNew": true,
+      "id": "24 01786080937"
+    },
+    {
+      "title": "Mot i nxehtë, temperaturat deri në 37 gradë",
+      "link": "https://24-ore.com/mot-i-nxehte-temperaturat-deri-ne-37-grade/",
+      "description": "Instituti Hidrometeorologjik i Kosovës bën të ditur se sot do të mbajë mot me diell dhe i nxehtë. IHK njofton se temperaturat minimale do të lëvizin nga 13°C deri në 18°C, ndërsa maksimalet nga 33°C deri në 37°C. Do të fryjë erë e lehtë deri mesatare nga veriu dhe veriperëndimi, me shpejtësi 1–5 m/s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T05:14:12+00:00",
+      "dateStr": "07 Aug, 05:14",
+      "isNew": true,
+      "id": "24 11786079652"
+    },
     {
       "title": "Turneu i rrugës sjell hokejin në Porto Riko dhe synon të rritë pjesëmarrjen në ishull",
       "link": "https://24-ore.com/turneu-i-rruges-sjell-hokejin-ne-porto-riko-dhe-synon-te-rrite-pjesemarrjen-ne-ishull/",
@@ -12,7 +34,7 @@
       "date": "2026-08-07T03:22:05+00:00",
       "dateStr": "07 Aug, 03:22",
       "isNew": true,
-      "id": "24 01786072925"
+      "id": "24 21786072925"
     },
     {
       "title": "Një mbrojtës qendror i Chicago Fire, Mbekezeli Mbokazi, jashtë për pjesën tjetër të sezonit",
@@ -23,7 +45,7 @@
       "date": "2026-08-07T02:55:41+00:00",
       "dateStr": "07 Aug, 02:55",
       "isNew": true,
-      "id": "24 11786071341"
+      "id": "24 31786071341"
     },
     {
       "title": "Stina e pestë",
@@ -34,7 +56,7 @@
       "date": "2026-08-07T02:18:06+00:00",
       "dateStr": "07 Aug, 02:18",
       "isNew": true,
-      "id": "24 21786069086"
+      "id": "24 41786069086"
     },
     {
       "title": "Arizona Cardinals mundin Carolina Panthers 20-17 në Hall of Fame Game",
@@ -45,7 +67,7 @@
       "date": "2026-08-07T02:11:05+00:00",
       "dateStr": "07 Aug, 02:11",
       "isNew": true,
-      "id": "24 31786068665"
+      "id": "24 51786068665"
     },
     {
       "title": "Çfarë tha Jaylen Brown për transferimin te 76ers dhe bashkëpunimin me LeBron James",
@@ -56,7 +78,7 @@
       "date": "2026-08-07T02:06:26+00:00",
       "dateStr": "07 Aug, 02:06",
       "isNew": true,
-      "id": "24 41786068386"
+      "id": "24 61786068386"
     },
     {
       "title": "Raportohet se një pjesëtar i MUP-it serb është ndaluar në Jarinë",
@@ -67,7 +89,7 @@
       "date": "2026-08-07T00:43:58+00:00",
       "dateStr": "07 Aug, 00:43",
       "isNew": true,
-      "id": "24 51786063438"
+      "id": "24 71786063438"
     },
     {
       "title": "Aksident me vdekje në Mirditë, humb jetën 38-vjeçari",
@@ -78,7 +100,7 @@
       "date": "2026-08-06T22:19:30+00:00",
       "dateStr": "06 Aug, 22:19",
       "isNew": true,
-      "id": "24 61786054770"
+      "id": "24 81786054770"
     },
     {
       "title": "Humb jetën pas një sherri 69-vjeçari në Roskovec, i pranishëm edhe i biri! Dinamika e ngjarjes dhe çfarë dyshohet",
@@ -89,40 +111,7 @@
       "date": "2026-08-06T21:30:24+00:00",
       "dateStr": "06 Aug, 21:30",
       "isNew": true,
-      "id": "24 71786051824"
-    },
-    {
-      "title": "UASHINGTON – SHBA-ja: Progres në negociatat Liban-Izrael, synohet zgjerimi i zonave pilot",
-      "link": "https://24-ore.com/uashington-shba-ja-progres-ne-negociatat-liban-izrael-synohet-zgjerimi-i-zonave-pilot/",
-      "description": "UASHINGTON, 6 gusht /ATSH-DPA/- Departamenti Amerikan i Shtetit njoftoi sot se Libani dhe Izraeli kanë bërë progres në negociatat për zbatimin e marrëveshjes së sigurisë, pas bisedimeve teknike dhe në nivel ekspertësh të zhvilluara në Romë. Sipas zëdhënësit të Departamentit Amerikan të Shtetit, palë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-06T21:03:50+00:00",
-      "dateStr": "06 Aug, 21:03",
-      "isNew": true,
-      "id": "24 81786050230"
-    },
-    {
-      "title": "ITALI – Zjarret djegin 70 mijë hektarë",
-      "link": "https://24-ore.com/itali-zjarret-djegin-70-mije-hektare/",
-      "description": "ROMË, 6 gusht /ATSH – AA/ – Zjarret kanë djegur rreth 70 mijë hektarë në Itali deri më tani këtë vit, një rritje prej 133 për qind krahasuar me mesataren e dy dekadave të fundit, tha të mërkurën Fondi Botëror për Natyrën (WWF). Zona e djegur është e barabartë me afërsisht 100 mijë fusha futbolli [&#",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-06T21:03:40+00:00",
-      "dateStr": "06 Aug, 21:03",
-      "isNew": true,
-      "id": "24 91786050220"
-    },
-    {
-      "title": "Roskovec/ 69-vjeçari dërgohet pa shenja jete në qendrën shëndetësore, detajet e para",
-      "link": "https://abcnews.al/roskovec-69-vjecari-dergohet-pa-shenja-jete-ne-qendren-shendetesore-detajet-e-para/",
-      "description": "Një 69-vjeçar është dërguar pa shenja jete në Qendrën Shëndetësore Roskovec. Nga veprimet e para hetimore dyshohet se 69-vjeçari ka pësuar arrest kardiak, pasi ka qenë i pranishëm gjatë një konflikti të çastit ndërmjet djalit të tij dhe një shtetasi tjetër, pa qenë vetë i përfshirë në konflikt. Grup",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T21:00:45+00:00",
-      "dateStr": "06 Aug, 21:00",
-      "isNew": true,
-      "id": "abc01786050045"
+      "id": "24 91786051824"
     },
     {
       "title": "Aksident fatal në Mirditë, humb jetën një 38-vjeçar nga Kosova pasi doli nga rruga me motor",
@@ -136,17 +125,6 @@
       "id": "she01786049915"
     },
     {
-      "title": "Aksident me vdekje në Mirditë",
-      "link": "https://abcnews.al/aksident-me-vdekje-ne-mirdite/",
-      "description": "Një aksident ka ndodhur rreth orës 20:00, në autostradë, në afërsi të fshatit Fan, Mirditë. Një 38 vjeçar nga Kosova, duke drejtuar motomjetin e tij, dyshohet se ka humbur kontrollin mbi drejtimin e motomjetit dhe, për pasojë, ka dalë nga rruga. Si pasojë e aksidentit, drejtuesi i motomjetit është t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T20:52:04+00:00",
-      "dateStr": "06 Aug, 20:52",
-      "isNew": true,
-      "id": "abc11786049524"
-    },
-    {
       "title": "Rafineri kokaine në një vilë në Itali, arrestohen pesë persona, mes tyre edhe një shqiptar",
       "link": "https://shekulli.com.al/2026/08/06/rafineri-kokaine-ne-nje-vile-ne-itali-arrestohen-pese-persona-mes-tyre-edhe-nje-shqiptar/",
       "description": "Një operacion antidrogë i zhvilluar nga autoritetet italiane në provincën e Latinës ka çuar në zbulimin e një rafinerie kokaine të ngritur brenda një vile, sekuestrimin e 28 kilogramëve lëndë narkotike dhe arrestimin e pesë personave, mes të cilëve edhe një shtetas shqiptar. Sipas mediave italiane, ",
@@ -158,17 +136,6 @@
       "id": "she11786049187"
     },
     {
-      "title": "Koreja e Veriut lëshon një raketë balistike me rreze të shkurtër veprimi",
-      "link": "https://abcnews.al/koreja-e-veriut-leshon-nje-rakete-balistike-me-rreze-te-shkurter-veprimi/",
-      "description": "Koreja e Veriut lëshoi ​​një raketë balistike me rreze të shkurtër veprimi në det pranë bregut të saj lindor të martën, tha ushtria e Koresë së Jugut, lëshimi i parë i tillë në më shumë se 40 ditë që nga një seri testesh në fillim të këtij viti. Lëshimi erdhi përpara stërvitjeve të përbashkëta ushta",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T20:43:30+00:00",
-      "dateStr": "06 Aug, 20:43",
-      "isNew": true,
-      "id": "abc21786049010"
-    },
-    {
       "title": "Mashtrim spektakolar në Francë, pensionistët humbasin pasuri prej 1.1 milionë eurosh nga “punonjësit e sigurisë”",
       "link": "https://shekulli.com.al/2026/08/06/mashtrim-spektakolar-ne-france-pensionistet-humbasin-pasuri-prej-1-1-milione-eurosh-nga-punonjesit-e-sigurise/",
       "description": "Një çift pensionistësh në Francë kanë rënë preh e një skeme të sofistikuar mashtrimi, duke humbur pasuri me vlerë rreth 1.1 milionë euro pasi u mashtruan nga persona që u prezantuan si punonjës të një kompanie sigurie. Ngjarja ndodhi në Lainville-en-Vexin, një fshat në departamentin Yvelines. Sipas ",
@@ -178,28 +145,6 @@
       "dateStr": "06 Aug, 20:31",
       "isNew": true,
       "id": "she21786048264"
-    },
-    {
-      "title": "Pesë viktima në një anije në lumin Kongo, nis kontrolli për Ebola dhe kolerë",
-      "link": "https://abcnews.al/pese-viktima-ne-nje-anije-ne-lumin-kongo-nis-kontrolli-per-ebola-dhe-kolere/",
-      "description": "Autoritetet në Republikën Demokratike të Kongos po kryejnë kontrolle për Ebola dhe kolerë për të gjithë 255 pasagjerët që ndodhen në bordin e një anijeje të ndaluar në lumin Kongo. Anija Yingfeng 2, e operuar nga një kompani kineze, u ndal pranë portit Bende Bende, rreth 65 kilometra në rrjedhën e s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T20:28:54+00:00",
-      "dateStr": "06 Aug, 20:28",
-      "isNew": true,
-      "id": "abc31786048134"
-    },
-    {
-      "title": "Zjarr në një banesë dy katëshe në Fier/ Zjarrfikësit në vendngjarje, nuk raportohet për të lënduar",
-      "link": "https://abcnews.al/zjarr-ne-nje-banese-dy-kateshe-ne-fier-zjarrfikesit-ne-vendngjarje-nuk-raportohet-per-te-lenduar/",
-      "description": "Një zjarr ka rënë mbrëmjen e sotme në një banesë dy katëshe në lagjen 16 prilli në Fier. Flakët kanë përfshirë katin e dytë të banesës, duke shkaktuar dëme të konsiderueshme materiale. Në vendngjarje kanë mbërritur menjëherë shërbimet zjarrfikëse dhe forcat e Policisë, të cilat kanë punuar për vënie",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T20:27:33+00:00",
-      "dateStr": "06 Aug, 20:27",
-      "isNew": true,
-      "id": "abc41786048053"
     },
     {
       "title": "Dita e 68-të e protestës, qytetarët marshojnë në rrugët e Tiranës dhe përsërisin kërkesat",
@@ -224,28 +169,6 @@
       "id": "she41786047440"
     },
     {
-      "title": "Hungaria dhe Rumania kursejnë energji dhe fikin dritat në kryeqytete",
-      "link": "https://abcnews.al/hungaria-dhe-rumania-kursejne-energji-dhe-fikin-dritat-ne-kryeqytete/",
-      "description": "Temperaturat ekstreme po detyrojnë gjithnjë e më shumë vende europiane të marrin masa për të kursyer energjinë. Rumania dhe Hungaria kanë nisur të fikin ndriçimin në kryeqytetet e tyre, pasi vala e të nxehtit po e vendos rrjetin elektrik nën presion. Në Bukuresht, autoritetet kanë ulur me një të tre",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T20:05:51+00:00",
-      "dateStr": "06 Aug, 20:05",
-      "isNew": true,
-      "id": "abc51786046751"
-    },
-    {
-      "title": "Gjermania vendos mbrojtje të reja në aeroporte, synohet neutralizimi i dronëve",
-      "link": "https://abcnews.al/gjermania-vendos-mbrojtje-te-reja-ne-aeroporte-synohet-neutralizimi-i-droneve/",
-      "description": "Tetë aeroportet më të mëdha të vendit pajisen me teknologji të re pas rritjes së incidenteve të sigurisë. Gjermania ka nisur instalimin me urgjencë të sistemeve moderne kundër dronëve në aeroportet kryesore të vendit, në një përpjekje për të rritur sigurinë e trafikut ajror dhe për të parandaluar kë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T19:43:42+00:00",
-      "dateStr": "06 Aug, 19:43",
-      "isNew": true,
-      "id": "abc61786045422"
-    },
-    {
       "title": "I dënuar me 14 vite burg, ekstradohet nga Kolumbia “kimisti” i laboratorit të kokainës në Fier",
       "link": "https://shekulli.com.al/2026/08/06/i-denuar-me-14-vite-burg-ekstradohet-nga-kolumbia-kimisti-i-laboratorit-te-kokaines-ne-fier/",
       "description": "Shtetasi kolumbian Samir Rosales Rodriguez, i njohur si “kimisti” i laboratorit të kokainës në Frakull të Fierit, është ekstraduar drejt Shqipërisë, pas arrestimit të tij në Kolumbi me urdhër ndërkombëtar kërkimi. Rodriguez ishte personi i kërkuar nga drejtësia shqiptare për rolin e tij në laborator",
@@ -266,39 +189,6 @@
       "dateStr": "06 Aug, 19:32",
       "isNew": true,
       "id": "she61786044774"
-    },
-    {
-      "title": "Ekstradohet kimisti nga Kolumbia/ Saimir Rosales Rodriguez i dënuar me 14 vite për perpunimin e kokainës në Frakull",
-      "link": "https://abcnews.al/ekstradohet-kimisti-nga-kolumbia-saimir-rosales-rodriguez-i-denuar-me-14-vite-per-perpunimin-e-kokaines-ne-frakull/",
-      "description": "Ekstradohet nga Kolumbia në Shqipëri Saimir Rosales Rodriguez, pjesë e dosjes së laboratorit të kokainës në Frakull. Rodriguez do të vuajë 14 vite burg në Shqipëri, pasi akuzohej si kimisti që do të përpunonte dhe ndante kokainën në laboratorin e zbuluar në Frakull. Gjykata e Posaçme e dënoi me 14 v",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T19:28:59+00:00",
-      "dateStr": "06 Aug, 19:28",
-      "isNew": true,
-      "id": "abc71786044539"
-    },
-    {
-      "title": "Jet Ski brenda zonës së pushuesve në Zvërnec, gjobitet me 300 mijë lekë drejtuesi",
-      "link": "https://abcnews.al/jet-ski-brenda-zones-se-pushuesve-ne-zvernec-gjobitet-me-300-mije-leke-drejtuesi/",
-      "description": "Shkeli perimetrin e sigurisë duke rrezikuar jetën e pushuesve, Policia Kufitare bllokon mjetin lundrues (Jet Ski) dhe ndëshkon drejtuesin me masë administrative 300.000 lekë të rinj. Shërbimet e Policisë Kufitare dhe Njësia Policore Detare kanë intensifikuar kontrollet dhe patrullimet përgjatë gjith",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T19:15:47+00:00",
-      "dateStr": "06 Aug, 19:15",
-      "isNew": true,
-      "id": "abc81786043747"
-    },
-    {
-      "title": "Vala e të nxehtit alarmon Korenë e Jugut, 21 viktima",
-      "link": "https://abcnews.al/vala-e-te-nxehtit-alarmon-korene-e-jugut-21-viktima/",
-      "description": "Presidenti i Koresë së Jugut, Lee Jae Myung, ka urdhëruar qeverinë të angazhojë të gjitha burimet në dispozicion për të përballuar valën rekord të të nxehtit që ka përfshirë vendin. Gjatë një takimi me ministrat dhe drejtues të pushtetit vendor, Lee kërkoi aktivizimin e një sistemi të plotë reagimi ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-06T19:00:14+00:00",
-      "dateStr": "06 Aug, 19:00",
-      "isNew": true,
-      "id": "abc91786042814"
     },
     {
       "title": "Aksident i rëndë në Gjermani/ Përplasen dy tramvaje, 25 të plagosur, 3 në gjendje kritike",
