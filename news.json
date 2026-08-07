@@ -1,8 +1,261 @@
 {
-  "lastUpdated": "2026-08-07T09:56:36.336782+00:00",
+  "lastUpdated": "2026-08-07T10:50:49.692110+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Mbi antishqiptarinë e shqiptarëve",
+      "link": "https://24-ore.com/mbi-antishqiptarine-e-shqiptareve/",
+      "description": "Nga Ilir Yzeiri Shpallja « non grata » e dy shqiptarëve nga Maqedonia, njëri hoxhë dhe tjetri politikan llafexhi, do të duhej të ishte objekt debati për një temë më të gjerë dhe jo thjesht për një incident në një protestë ku, hoxha dhe ky politikani llafexhi, janë shprehur me tone kërcënuese për jet",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T10:49:20+00:00",
+      "dateStr": "07 Aug, 10:49",
+      "isNew": true,
+      "id": "24 01786099760"
+    },
+    {
+      "title": "Lindja në SHBA nuk garanton më shtetësinë? Trump hap betejën e re",
+      "link": "https://shekulli.com.al/2026/08/07/lindja-ne-shba-nuk-garanton-me-shtetesine-trump-hap-betejen-e-re/",
+      "description": "SHBA- Presidenti amerikan Donald Trump ka ndërmarrë një tjetër hap në kuadër të politikave të tij kundër emigracionit, duke nënshkruar dy urdhra ekzekutivë që synojnë kufizimin e shtetësisë automatike për disa kategori fëmijësh të lindur në territorin e Shteteve të Bashkuara. Masat prekin veçanërish",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T10:48:33+00:00",
+      "dateStr": "07 Aug, 10:48",
+      "isNew": true,
+      "id": "she01786099713"
+    },
+    {
+      "title": "Kontratë rekord për Daliç/ Ish-trajneri i kombëtares shkon në Emirate e Bashkuara Arabe",
+      "link": "https://abcnews.al/kontrate-rekord-per-dalic-ish-trajneri-i-kombetares-shkon-ne-emirate-e-bashkuara-arabe/",
+      "description": "Oferta pati pa numër dhe ishte e logjikshme. Zllatko Daliç I dha fund aventurës së tij të gjatë e të shkëlqyer në stolin e Kroacisë, dhe më në fund bëri zgjedhjen për të ardhmen. Trajneri 59-vjeçar do të thyejë rekordet e rrogave të njerëzve të stolit të Kroacisë, duke pranuar që të drejtojë kombëta",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T10:46:52+00:00",
+      "dateStr": "07 Aug, 10:46",
+      "isNew": true,
+      "id": "abc01786099612"
+    },
+    {
+      "title": "Diomande, blerja rekord e Real/ Zbulohen shifrat e transferimit, më i shtrenjti në histori",
+      "link": "https://abcnews.al/diomande-blerja-rekord-e-real-zbulohen-shifrat-e-transferimit-me-i-shtrenjti-ne-histori/",
+      "description": "Real Madridi zyrtarizoi transferimin e Yan Diomande. Klubi arriti një marrëveshje me lojtarin dhe më pasedhe me Leipzig, që arkëton menjëherë 125 milionë euro. Por kjo shifër që mund të shkojë deri në 140 milionë euro nëse plotësohen bonuset e lidhura me performance e lojtarit. Diomande ka nënshkrua",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T10:44:10+00:00",
+      "dateStr": "07 Aug, 10:44",
+      "isNew": true,
+      "id": "abc11786099450"
+    },
+    {
+      "title": "Drita shkon drejt grupeve/ Kampionia e Kosovës arrin sukses në Ligën e Konferencës",
+      "link": "https://abcnews.al/drita-shkon-drejt-grupeve-kampionia-e-kosoves-arrin-sukses-ne-ligen-e-konferences/",
+      "description": "Një ekip që thuajse e ka mbyllur me sukses, dhe një tjetër që ka shpresë. E tillë ishte mbrëmja e fundit e futbollit europian për skuadra shqiptare që janë jashtë Shqipërisë. Drita e Gjilanit, kampionia e Kosovës, është praktikisht në plej ofin e Ligës së Konferencës, me fitoren 4-1 në San Marino. R",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T10:42:08+00:00",
+      "dateStr": "07 Aug, 10:42",
+      "isNew": true,
+      "id": "abc21786099328"
+    },
+    {
+      "title": "Gonxhja nxjerr shifrat: Në Korrik pati një rritje të ndjeshme të numrit të turistëve, ndikoi koncerti i Kanye West dhe…",
+      "link": "https://shekulli.com.al/2026/08/07/gonxhja-nxjerr-shifrat-ne-korrik-pati-nje-rritje-te-ndjeshme-te-numrit-te-turisteve-ndikoi-koncerti-i-kanye-west-dhe/",
+      "description": "TIRANË- Shqipëria ka regjistruar rritje të numrit të vizitorëve të huaj gjatë muajit korrik 2026, sipas të dhënave të publikuara nga ministri i Kulturës dhe Turizmit, Blendi Gonxhja. Sipas të dhënave që janë bërë publike prej tij, në korrik vendi u vizitua nga 1,955,099 shtetas të huaj, ndërsa në ko",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T10:41:12+00:00",
+      "dateStr": "07 Aug, 10:41",
+      "isNew": true,
+      "id": "she11786099272"
+    },
+    {
+      "title": "Infantino donte të “vidhte” Champions / Zbulohet plani sekret për krijimin e Superligës nga FIFA",
+      "link": "https://abcnews.al/infantino-donte-te-vidhte-champions-zbulohet-plani-sekret-per-krijimin-e-superliges-nga-fifa/",
+      "description": "Përplasja mes UEFA dhe FIFA nuk lidhet vetëm me propozimin për të shitur një pjesë të aseteve komerciale të garave përfshirë edhe Kupën e Botës. Qeveria europiane e futbollit duket se ka një tjetër arsye më të fortë për të sulmuar Gianni Infantino, pas zbulimit të fundit të “The Guardian”. E përditë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T10:38:59+00:00",
+      "dateStr": "07 Aug, 10:38",
+      "isNew": true,
+      "id": "abc31786099139"
+    },
+    {
+      "title": "SPGPM: Gazetarët duhet të kenë qasje në informacion",
+      "link": "https://24-ore.com/spgpm-gazetaret-duhet-te-kene-qasje-ne-informacion/",
+      "description": "Sindikata e Pavarur e Gazetarëve dhe Punonjësve të Medias së Maqedonisë (SPGPM) vëren me shqetësim se po shfaqet një praktikë në të cilën Qeveria refuzon sistematikisht t&#8217;u përgjigjet pyetjeve gazetareske dhe kufizon qasjen në informacionin me interes publik. E njëjta gjë u përsërit në ngjarje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T10:35:09+00:00",
+      "dateStr": "07 Aug, 10:35",
+      "isNew": true,
+      "id": "24 11786098909"
+    },
+    {
+      "title": "Hoti: LDK ka vullnet për themelimin e institucioneve, por kërkon kompromis",
+      "link": "https://24-ore.com/hoti-ldk-ka-vullnet-per-themelimin-e-institucioneve-por-kerkon-kompromis/",
+      "description": "Deputeti i Lidhjes Demokratike të Kosovës (LDK), Avdullah Hoti ka reaguar ndaj zhvillimeve të fundit në vend duke thënë se zhbllokimi i situatës politike mund të arrihet vetëm përmes kompromisit. Përmes një postimi në rrjetin social në Facebook, Hoti tha se ka përcjellë qëndrimet politike të djeshme",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T10:34:54+00:00",
+      "dateStr": "07 Aug, 10:34",
+      "isNew": true,
+      "id": "24 21786098894"
+    },
+    {
+      "title": "Aksident në Fier-Shegan, plagoset rëndë një person, detajet e para",
+      "link": "https://24-ore.com/aksident-ne-fier-shegan-plagoset-rende-nje-person-detajet-e-para/",
+      "description": "Një aksident i rëndë rrugor është regjistruar në aksin nacional Fier-Shegan, në zonën e njohur si Pushimi i Shoferit. Sipas informacioneve paraprake të siguruar nga gazetarja Anila Sefa, një automjet tip “Benz” dhe një furgon janë përplasur në kryqëzimin e fshatit Toshkëz. Si pasojë e përplasjes së ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T10:31:51+00:00",
+      "dateStr": "07 Aug, 10:31",
+      "isNew": true,
+      "id": "24 31786098711"
+    },
+    {
+      "title": "Nufi viziton kantierin detar të FINCANTIERI në Itali: Praktikat më të mira për projektin “Fincantieri Albania” në Vlor",
+      "link": "https://24-ore.com/nufi-viziton-kantierin-detar-te-fincantieri-ne-itali-praktikat-me-te-mira-per-projektin-fincantieri-albania-ne-vlor/",
+      "description": "Ministri i Mbrojtjes, Ermal Nufi, zhvilloi një vizitë në Divizionin e Anijeve Detare të kompanisë FINCANTIERI në Muggiano të Italisë, në kuadër të partneritetit mes Shqipërisë dhe gjigantit italian të industrisë detare. Gjatë vizitës, ministri u njoh nga afër me proceset e projektimit, prodhimit dhe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T10:31:36+00:00",
+      "dateStr": "07 Aug, 10:31",
+      "isNew": true,
+      "id": "24 41786098696"
+    },
+    {
+      "title": "Argjentina i “kthen nderin” Infantino / Federata amerikano jugore mbështet presidentin e FIFA",
+      "link": "https://abcnews.al/argjentina-i-kthen-nderin-infantino-federata-amerikano-jugore-mbeshtet-presidentin-e-fifa/",
+      "description": "Argjentina është akuzuar jo pak herë si “e përkëdhelur” dhe “e favorizuar” nga Gianni Infantino dhe FIFA. Për këtë arsye deklarata e fundit e Federatës Argjentinase në mbështetje të presidentit të qeverisë botërore të futbollit dhe presidentit të saj është konsideruar si një “kthim nderi”. Federata ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T10:31:18+00:00",
+      "dateStr": "07 Aug, 10:31",
+      "isNew": true,
+      "id": "abc41786098678"
+    },
+    {
+      "title": "Huaja 100 milionë euro, një tjetër shkak madhor për zgjidhjen e kontratës së koncesionit të Aeroportit të Vlorës",
+      "link": "https://abcnews.al/huaja-100-milione-euro-nje-tjeter-shkak-madhor-per-zgjidhjen-e-kontrates-se-koncesionit-te-aeroportit-te-vlores/",
+      "description": "Nga Fatos Çoçoli Një tjetër problem serioz që e detyroi Qeverinë shqiptare të niste procedurat për zgjidhjen e kontratës së koncesionit të Aeroportit Ndërkombëtar të Vlorës lidhej me një hua prej 100 milionë eurosh, të marrë nga njëra prej kompanive të koncesionarit pa miratimin paraprak të Shtetit ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T10:26:54+00:00",
+      "dateStr": "07 Aug, 10:26",
+      "isNew": true,
+      "id": "abc51786098414"
+    },
+    {
+      "title": "Nufi viziton kantierin detar të FINCANTIERI në Itali: Praktikat më të mira për projektin “Fincantieri Albania” në Vlorë",
+      "link": "https://24-ore.com/nufi-viziton-kantierin-detar-te-fincantieri-ne-itali-praktikat-me-te-mira-per-projektin-fincantieri-albania-ne-vlore/",
+      "description": "Ministri i Mbrojtjes, Ermal Nufi, zhvilloi një vizitë në Divizionin e Anijeve Detare të kompanisë FINCANTIERI në Muggiano të Italisë, në kuadër të partneritetit mes Shqipërisë dhe gjigantit italian të industrisë detare. Gjatë vizitës, ministri u njoh nga afër me proceset e projektimit, prodhimit dhe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T10:25:21+00:00",
+      "dateStr": "07 Aug, 10:25",
+      "isNew": true,
+      "id": "24 51786098321"
+    },
+    {
+      "title": "Shuhet familja nga Kosova/ Gjermani, babai, djali dhe nipi humbin jetën në aksidentin tragjik",
+      "link": "https://abcnews.al/shuhet-familja-nga-kosova-gjermani-babai-djali-dhe-nipi-humbin-jeten-ne-aksidentin-tragjik/",
+      "description": "E trefishtë dhimbja për familjen Aliu nga Ferizaj në Kosovë.  Tahir Aliu (61 vjeç), djali i tij Gentian Aliu (34 vjeç) dhe nipi Laurent Aliu (16 vjeç) humbën jetën në një aksident tragjik në Gjermani, teksa po udhëtonin drejt banesës së tyre pas pushimeve në vendlindje. Aksidenti i rëndë ndodhi të e",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T10:23:39+00:00",
+      "dateStr": "07 Aug, 10:23",
+      "isNew": true,
+      "id": "abc61786098219"
+    },
+    {
+      "title": "Pamje tronditëse nga Japonia/ Salla e operacionit lëkundet nga tërmeti 7 ballë, mjekët nuk braktisin pacientin",
+      "link": "https://abcnews.al/pamje-tronditese-nga-japonia-salla-e-operacionit-lekundet-nga-termeti-7-balle-mjeket-nuk-braktisin-pacientin/",
+      "description": "Një video tronditëse nga një kamera në   një sallë operacioni  në momentin e tërmetit 7.1 Richter në Japoni më 28 korrik , i cili la dhjetëra të vdekur dhe dëme të konsiderueshme , u publikua dje, të enjten. Në videon nga kamera e sallës së operacionit në një spital në qytetin e Kumamotos, ndërsa op",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T10:22:21+00:00",
+      "dateStr": "07 Aug, 10:22",
+      "isNew": true,
+      "id": "abc71786098141"
+    },
+    {
+      "title": "Ambasadori Ajeti ngushëllon familjet e viktimave të aksidentit në Gjermani: Jemi në kontakt me autoritetet gjermane",
+      "link": "https://24-ore.com/ambasadori-ajeti-ngushellon-familjet-e-viktimave-te-aksidentit-ne-gjermani-jemi-ne-kontakt-me-autoritetet-gjermane/",
+      "description": "Ambasadori i Republikës së Kosovës në Gjermani, Faruk Ajeti, ka reaguar pas aksidentit tragjik pranë Nittendorfit, në rajonin e Regensburgut të Bavarisë, ku humbën jetën tre bashkatdhetarë nga Kosova. Përmes një reagimi publik, Ajeti tha se lajmi për humbjen e jetës së tre shtetasve të Kosovës është",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T10:20:43+00:00",
+      "dateStr": "07 Aug, 10:20",
+      "isNew": true,
+      "id": "24 61786098043"
+    },
+    {
+      "title": "Federata e Norvegjisë kërkon dorëheqjen e menjëhershme të Infantino-s nga kreu i FIFA-s",
+      "link": "https://24-ore.com/federata-e-norvegjise-kerkon-doreheqjen-e-menjehershme-te-infantino-s-nga-kreu-i-fifa-s/",
+      "description": "Federata Norvegjeze e Futbollit (NFF) do t’i kërkojë presidentit të FIFA-s, Gianni Infantino, të japë dorëheqjen e menjëhershme, pas tentativës për të shitur kuotat e Kupës së Botës tek investitorët privatë. Lajmi bëhet i ditur nga “The Guardian”. Norvegjia bëhet federata e parë që do të kërkojë pub",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T10:20:28+00:00",
+      "dateStr": "07 Aug, 10:20",
+      "isNew": true,
+      "id": "24 71786098028"
+    },
+    {
+      "title": "Transportonin emigrantë drejt Malit të Zi, arrestohen dy të rinj në Shkodër",
+      "link": "https://abcnews.al/transportonin-emigrante-drejt-malit-te-zi-arrestohen-dy-te-rinj-ne-shkoder/",
+      "description": "Policia Kufitare e Shkodrës ka finalizuar operacionin e koduar “Halfway”, duke goditur një rast të dhënies ndihmë emigrantëve për kalim të paligjshëm të kufirit. Në kuadër të këtij operacioni janë arrestuar në flagrancë dy shtetas, të cilët dyshohet se transportonin kundrejt pagesës 15 emigrantë nga",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T10:19:18+00:00",
+      "dateStr": "07 Aug, 10:19",
+      "isNew": true,
+      "id": "abc81786097958"
+    },
+    {
+      "title": "AUSTRI – Reshjet e dendura shkaktojnë përmbytje dhe bllokojnë rrugë",
+      "link": "https://24-ore.com/austri-reshjet-e-dendura-shkaktojne-permbytje-dhe-bllokojne-rruge/",
+      "description": "VJENË, 7 gusht /ATSH-DPA/ – Reshjet e dendura dhe stuhitë e forta kanë shkaktuar përmbytje dhe rrëshqitje toke në zonat malore të Austrisë perëndimore, duke bllokuar rrugë dhe lënë disa alpinistë të izoluar në një strehë malore. Sipas policisë, dje në mbrëmje u regjistruan tre rrëshqitje tokë në raj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T10:18:44+00:00",
+      "dateStr": "07 Aug, 10:18",
+      "isNew": true,
+      "id": "24 81786097924"
+    },
+    {
+      "title": "Nga vrasja e biznesmenit të kromit, te operacioni i RENEA-s për kapjen e tij, kush është ‘i forti i Bulqizës’ që u ekstradua sot nga Italia",
+      "link": "https://shekulli.com.al/2026/08/07/nga-vrasja-e-biznesmenit-te-kromit-te-operacioni-i-renea-s-per-kapjen-e-tij-kush-eshte-i-forti-i-bulqizes-qe-u-ekstradua-sot-nga-italia/",
+      "description": "BULQIZË- Fadil Tërnova, një emër i njohur për drejtësinë shqiptare, është ekstraduar sot nga Italia, pas arrestimit për llogari të shtetit tonë. Tërnova, i cili njihet dhe me nofkën ‘i forti i Bulqizës’, ka një profil të lartë të lidhur me ngjarje kriminale, përfshirë vrasje, plagosje dhe së fundi “",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T10:12:30+00:00",
+      "dateStr": "07 Aug, 10:12",
+      "isNew": true,
+      "id": "she21786097550"
+    },
+    {
+      "title": "Rama për ”Financial Times”: Shqipëria në rrugë të qartë drejt Bashkimit Evropian",
+      "link": "https://abcnews.al/rama-per-financial-times-shqiperia-ne-rruge-te-qarte-drejt-bashkimit-evropian/",
+      "description": "Ne kemi një rrugë të qartë drejt Bashkimit Evropian, i deklaroi kryeministri Edi Rama prestigjiozes ”Finacial Times”. ”Prej 13 vitesh, klubi i vendeve të Bashkimit Evropian nuk ka pranuar asnjë anëtar të ri dhe, mes paqëndrueshmërisë gjeopolitike dhe konkurrencës së fuqive të mëdha, presioni po rrit",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T10:12:11+00:00",
+      "dateStr": "07 Aug, 10:12",
+      "isNew": true,
+      "id": "abc91786097531"
+    },
+    {
+      "title": "Gashi shpall zgjedhjet e jashtëzakonshme në Komunën e Bërvenicës më 18 tetor",
+      "link": "https://24-ore.com/gashi-shpall-zgjedhjet-e-jashtezakonshme-ne-komunen-e-bervenices-me-18-tetor/",
+      "description": "Kryetari i Kuvendit të Maqedonisë së Veriut, Afrim Gashi njofton se ka nënshkruar vendimin për shpalljen e zgjedhjeve të jashtëzakonshme për Kryetar të Komunës së Bërvenicës. &#8220;Sot, në përputhje me Kushtetutën, Kodin Zgjedhor dhe ligjet në fuqi, nënshkrova vendimin për shpalljen e zgjedhjeve të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T10:10:52+00:00",
+      "dateStr": "07 Aug, 10:10",
+      "isNew": true,
+      "id": "24 91786097452"
+    },
     {
       "title": "“Do të vijë një pako surprizë”, Prokuroria e Tiranës mbyll hetimet për nigerianin që shtirej si italian, kush ishte viktima e mashtrimit të tij",
       "link": "https://shekulli.com.al/2026/08/07/do-te-vije-nje-pako-surprize-prokuroria-e-tiranes-mbyll-hetimet-per-nigerianin-qe-shtirej-si-italian-kush-ishte-viktima-e-mashtrimit-te-tij/",
@@ -12,84 +265,7 @@
       "date": "2026-08-07T09:51:45+00:00",
       "dateStr": "07 Aug, 09:51",
       "isNew": true,
-      "id": "she01786096305"
-    },
-    {
-      "title": "Rama për “Financial Times”: Ne kemi një rrugë të qartë drejt Bashkimit Evropian",
-      "link": "https://24-ore.com/rama-per-financial-times-ne-kemi-nje-rruge-te-qarte-drejt-bashkimit-evropian/",
-      "description": "Ne kemi një rrugë të qartë drejt Bashkimit Evropian, i deklaroi kryeministri Edi Rama prestigjiozes ”Finacial Times”. ”Prej 13 vitesh, klubi i vendeve të Bashkimit Evropian nuk ka pranuar asnjë anëtar të ri dhe, mes paqëndrueshmërisë gjeopolitike dhe konkurrencës së fuqive të mëdha, presioni po rrit",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T09:50:22+00:00",
-      "dateStr": "07 Aug, 09:50",
-      "isNew": true,
-      "id": "24 01786096222"
-    },
-    {
-      "title": "SHBA – Senati voton për masa ndaj Anthony Faucit për mosrespektim të Kongresit",
-      "link": "https://24-ore.com/shba-senati-voton-per-masa-ndaj-anthony-faucit-per-mosrespektim-te-kongresit/",
-      "description": "UASHINGTON, 7 gusht /ATSH-DPA/- Një komision i Senatit të SHBA-së ka votuar për ta shpallur imunologun e njohur amerikan Anthony Fauci përgjegjës për mosrespektim të Kongresit, pasi ai refuzoi t’u përgjigjej pyetjeve lidhur me pandeminë e COVID-19. Vendimi u miratua nga Komisioni për Sigurinë Kombët",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T09:48:43+00:00",
-      "dateStr": "07 Aug, 09:48",
-      "isNew": true,
-      "id": "24 11786096123"
-    },
-    {
-      "title": "Reagon Pacolli e LVV-së: Presidenti nuk është i një partie, është i Republikës",
-      "link": "https://24-ore.com/reagon-pacolli-e-lvv-se-presidenti-nuk-eshte-i-nje-partie-eshte-i-republikes/",
-      "description": "Megjithëse deri tani nuk kishte reagime lidhur me mënyrën se si do të procedohet me Kuvend dhe çështjen e presidentit, Fitore Pacolli nga Lëvizja Vetëvendosje theksoi se për zgjedhjen e presidentit të vendit nuk mjafton vetëm vullneti i një partie apo i një shumice parlamentare. Ajo në një postim në",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T09:45:34+00:00",
-      "dateStr": "07 Aug, 09:45",
-      "isNew": true,
-      "id": "24 21786095934"
-    },
-    {
-      "title": "LSDM: Mickoski, Klekovski, Toshkovski, duhet të mbajnë përgjegjësi për helmimin në Gostivar dhe në të gjithë Maqedoninë",
-      "link": "https://24-ore.com/lsdm-mickoski-klekovski-toshkovski-duhet-te-mbajne-pergjegjesi-per-helmimin-ne-gostivar-dhe-ne-te-gjithe-maqedonine/",
-      "description": "Nga LSDM thonë se i gjithë qyteti i Gostivarit u helmua, mbi 4.000 njerëz u përballën me pasoja shëndetësore nga uji i ndotur, por askush nga pushteti nuk ka mbajtur përgjegjësi. &#8220;Mbi 50 vendbanime në Maqedoni janë helmuar me ujë të ndotur. Njerëzit po e paguajnë çmimin me shëndetin e tyre. Dh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T09:41:08+00:00",
-      "dateStr": "07 Aug, 09:41",
-      "isNew": true,
-      "id": "24 31786095668"
-    },
-    {
-      "title": "​Dështon përsëri të mbahet mbledhja e Këshillit Gjyqësor të Kosovës",
-      "link": "https://24-ore.com/deshton-perseri-te-mbahet-mbledhja-e-keshillit-gjyqesor-te-kosoves/",
-      "description": "Në mungesë të kuorumit, ka dështuar të mbahet mbledhja e Këshillit Gjyqësor të Kosovës (KGJK), ku në rend dite ishte paraparë shqyrtimi i kërkesës së ushtrueses së detyrës së Presidentes së Republikës së Kosovës, si dhe njoftimeve të gjyqtarëve dhe stafit administrativ nga komuniteti serb për tërheq",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T09:40:52+00:00",
-      "dateStr": "07 Aug, 09:40",
-      "isNew": true,
-      "id": "24 41786095652"
-    },
-    {
-      "title": "Pacolli e LVV-së: Presidenti nuk është president i një partie, është i Republikës",
-      "link": "https://24-ore.com/pacolli-e-lvv-se-presidenti-nuk-eshte-president-i-nje-partie-eshte-i-republikes/",
-      "description": "Fitore Pacolli nga Lëvizja Vetëvendosje ka thënë sot për zgjedhjen e presidentit të vendit nuk mjafton vetëm vullneti i një partie apo i një shumice parlamentare. Ajo thekson se Kushtetuta dhe vetë natyra e këtij posti kërkojnë një qasje që e përfshin edhe opozitën. “Presidenti nuk është president i",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T09:40:39+00:00",
-      "dateStr": "07 Aug, 09:40",
-      "isNew": true,
-      "id": "24 51786095639"
-    },
-    {
-      "title": "Trump kundër “turizmit të lindjes”, kufizon të drejtën për shtetësinë amerikane për fëmijët e lindur në SHBA",
-      "link": "https://abcnews.al/trump-kunder-turizmit-te-lindjes-kufizon-te-drejten-per-shtetesine-amerikane-per-femijet-e-lindur-ne-shba/",
-      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump, nënshkroi dy urdhra ekzekutivë që synojnë të kufizojnë të drejtën e shtetësisë automatike për fëmijët e lindur në territorin amerikan, duke sfiduar edhe një herë interpretimin e Amendamentit të 14-të të Kushtetutës së SHBA-së. Kufizimi i kësaj të dre",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T09:40:19+00:00",
-      "dateStr": "07 Aug, 09:40",
-      "isNew": true,
-      "id": "abc01786095619"
+      "id": "she31786096305"
     },
     {
       "title": "Vajza e ish-ministrit lë shtetësinë shqiptare, Presidenti Begaj dekreton vendimin e Deborah Beqajt",
@@ -100,106 +276,7 @@
       "date": "2026-08-07T09:37:30+00:00",
       "dateStr": "07 Aug, 09:37",
       "isNew": true,
-      "id": "she11786095450"
-    },
-    {
-      "title": "Mashtrimet online nëpërmjet dërgesave me postë, Prokuroria e Tiranës çon në gjyq nigerianin e pandehur! Ja si u zbulua n�",
-      "link": "https://24-ore.com/mashtrimet-online-nepermjet-dergesave-me-poste-prokuroria-e-tiranes-con-ne-gjyq-nigerianin-e-pandehur-ja-si-u-zbulua-n%ef%bf%bd/",
-      "description": "Prokuroria e Tiranës njoftoi sot (7 gusht) se ka përfunduar hetimet dhe dërgoi për gjykim shtetasin nigerian të pandehur, me inicialet L.O., i akuzuar për veprën penale “mashtrim kompjuterik”. Denoncimi ka ardhur nga punonjësja e një kompanie Call-Center në kryeqytet, e cila ka dëshmuar se një perso",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T09:35:24+00:00",
-      "dateStr": "07 Aug, 09:35",
-      "isNew": true,
-      "id": "24 61786095324"
-    },
-    {
-      "title": "Vrasja e Edmond Sulës/ Policia rikthehet në Bërxullë, kontrolle në disa banesa",
-      "link": "https://abcnews.al/vrasja-e-edmond-sules-policia-rikthehet-ne-berxulle-kontrolle-ne-disa-banesa/",
-      "description": "Policia e Tiranës po kryen kontrolle në Bërxullë lidhur me vrasjen e Edmond Sulës, kontrolle që vijojnë që prej atentatit. Sipas informacioneve disa shtetas jane shoqëruar në polici për t’u marrë në pyetje në cilësinë e personave që mund të kenë djeni për ngjarjen si dhe janë ushtruar sërish kontrol",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T09:30:49+00:00",
-      "dateStr": "07 Aug, 09:30",
-      "isNew": true,
-      "id": "abc11786095049"
-    },
-    {
-      "title": "Letër nga Brukseli: Episodi në Ceuta trazoi verën e BE-së",
-      "link": "https://24-ore.com/leter-nga-brukseli-episodi-ne-ceuta-trazoi-veren-e-be-se/",
-      "description": "Migrantë duke kaluar nga Maroku drejt enklavës spanjolle të Ceutës, më 30 korrik 2026. Nga: Gjeraqina Tuhina Javët që lidhin korrikun me gushtin janë zakonisht një periudhë kur ndërtesat e BE-së rreth Shumanit në Bruksel bien në qetësi dhe bisedat në grup të korrespondentëve heshtin pothuajse krejtë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T09:30:42+00:00",
-      "dateStr": "07 Aug, 09:30",
-      "isNew": true,
-      "id": "24 71786095042"
-    },
-    {
-      "title": "Rama për ”Financial Times”: Shqipëria në rrugë të qartë drejt Bashkimit Evropian",
-      "link": "https://24-ore.com/rama-per-financial-times-shqiperia-ne-rruge-te-qarte-drejt-bashkimit-evropian/",
-      "description": "– Ne kemi një rrugë të qartë drejt Bashkimit Evropian, i deklaroi kryeministri Edi Rama prestigjiozes ”Finacial Times”. ”Prej 13 vitesh, klubi i vendeve të Bashkimit Evropian nuk ka pranuar asnjë anëtar të ri dhe, mes paqëndrueshmërisë gjeopolitike dhe konkurrencës së fuqive të mëdha, presioni po rr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T09:30:13+00:00",
-      "dateStr": "07 Aug, 09:30",
-      "isNew": true,
-      "id": "24 81786095013"
-    },
-    {
-      "title": "Nigeriani në gjyq, vidhte shqiptarët/ U zhvaste paratë përmes mashtrimit në rrjete sociale",
-      "link": "https://abcnews.al/nigeriani-ne-gjyq-vidhte-shqiptaret-u-zhvaste-parate-permes-mashtrimit-ne-rrjete-sociale/",
-      "description": "Prokuroria pranë Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm, Tiranë, përfundoi hetimet dhe dërgon në gjyq shtetasin nigerian Lucky Omoregie, për veprën penale të ‘Mashtrimit Kompjuterik’ parashikuar nga nenet 143/b/1 të Kodit Penal. Hetimet mbi procedimin penal nr.2103 të vitit 20",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T09:25:41+00:00",
-      "dateStr": "07 Aug, 09:25",
-      "isNew": true,
-      "id": "abc21786094741"
-    },
-    {
-      "title": "Senatorët amerikanë kërkojnë që SHBA të rivendosë sanksione ndaj zyrtarëve të Republikës Sërpska",
-      "link": "https://24-ore.com/senatoret-amerikane-kerkojne-qe-shba-te-rivendose-sanksione-ndaj-zyrtareve-te-republikes-serpska/",
-      "description": "Një grup senatorësh amerikanë, republikanë dhe demokratë, kanë kërkuar nga administrata e presidentit Donald Trump, që të rivendosë sanksionet ndaj zyrtarëve të Republikës Sërpska, që u hoqën në tetor të vitit 2025. Kjo thirrje vjen pasi autoritetet në entitetin e Republikës Sërpska në Bosnje e Herc",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T09:22:46+00:00",
-      "dateStr": "07 Aug, 09:22",
-      "isNew": true,
-      "id": "24 91786094566"
-    },
-    {
-      "title": "Edicioni i Fundit me Sali Doçi, (06/08/2026)",
-      "link": "https://abcnews.al/edicioni-i-fundit-me-sali-doci-06-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T09:11:29+00:00",
-      "dateStr": "07 Aug, 09:11",
-      "isNew": true,
-      "id": "abc31786093889"
-    },
-    {
-      "title": "Kriza e energjisë elektrike/ Hungaria fik ndriçimin dekorativ në disa monumente ikonike të Budapestit",
-      "link": "https://abcnews.al/kriza-e-energjise-elektrike-hungaria-fik-ndricimin-dekorativ-ne-disa-monumente-ikonike-te-budapestit/",
-      "description": "Hungaria ka fikur ndriçimin dekorativ në disa prej monumenteve më ikonike të Budapestit, përfshirë ndërtesën e Parlamentit, Kështjellën e Budës dhe Urën e Zinxhirit, në një përpjekje për të kursyer energji gjatë valës ekstreme të të nxehtit. Masa ka zhgënjyer një pjesë të turistëve, por është mirëpr",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T09:09:22+00:00",
-      "dateStr": "07 Aug, 09:09",
-      "isNew": true,
-      "id": "abc41786093762"
-    },
-    {
-      "title": "“The Wall Street Journal”: Putin mund të testojë vendosmërinë e NATO-s me një ndërhyrje të kufizuar",
-      "link": "https://abcnews.al/the-wall-street-journal-putin-mund-te-testoje-vendosmerine-e-nato-s-me-nje-nderhyrje-te-kufizuar/",
-      "description": "Vlerësimet e inteligjencës amerikane ngrenë shqetësime se Moska mund të shqyrtojë forma presioni ndaj një vendi anëtar të NATO-s, në përpjekje për të forcuar pozicionin e saj strategjik dhe politik, shkruan &#8220;The Wall Street Journal&#8221;. Megjithatë, një ndërhyrje e drejtpërdrejtë ushtarake n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T09:03:42+00:00",
-      "dateStr": "07 Aug, 09:03",
-      "isNew": true,
-      "id": "abc51786093422"
+      "id": "she41786095450"
     },
     {
       "title": "Në Francë kishte fituar azil, Turqia e kërkon me ngulm! Fati i 32-vjeçares Julide vendoset sot nga Gjykata e Tiranës",
@@ -210,18 +287,7 @@
       "date": "2026-08-07T08:51:57+00:00",
       "dateStr": "07 Aug, 08:51",
       "isNew": true,
-      "id": "she21786092717"
-    },
-    {
-      "title": "Spanja në alarm, shërbimet inteligjente: Emigrantët mund të tentojnë të hyjnë sërish në Ceuta më 15 gusht",
-      "link": "https://abcnews.al/spanja-ne-alarm-sherbimet-inteligjente-emigrantet-mund-te-tentojne-te-hyjne-serish-ne-ceuta-me-15-gusht/",
-      "description": "Shërbimet inteligjente spanjolle e konsiderojnë “plotësisht të besueshme” fushatën e përhapur në rrjetet sociale që u bën thirrje njerëzve të tentojnë një hyrje të re masive në Ceuta më 15 gusht. Kështu raporton radioja Cadena Ser, duke cituar burime të shërbimeve sekrete, të cilat nuk përjashtojnë ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T08:43:17+00:00",
-      "dateStr": "07 Aug, 08:43",
-      "isNew": true,
-      "id": "abc61786092197"
+      "id": "she51786092717"
     },
     {
       "title": "Raiffeisen Bank bie pre e vjedhjes online, kush dyshohet se qëndron në krye të skemës, shfrytëzonte orët e natës për të…",
@@ -232,29 +298,7 @@
       "date": "2026-08-07T08:37:50+00:00",
       "dateStr": "07 Aug, 08:37",
       "isNew": true,
-      "id": "she31786091870"
-    },
-    {
-      "title": "Vala e të nxehtit/ Sllovakia thyen rekordin, temperaturat shkojnë në 42.2 gradë",
-      "link": "https://abcnews.al/vala-e-te-nxehtit-sllovakia-thyen-rekordin-temperaturat-shkojne-ne-42-2-grade/",
-      "description": "Sllovakia regjistroi një temperaturë rekord prej 42.2 gradë Celsius të mërkurën, gjatë një vale të nxehti që po godet Evropën Qendrore, njoftoi shërbimi kombëtar meteorologjik. Temperatura më e lartë, e regjistruar në Dolné Plastince, një fshat në jug të vendit, tejkaloi rekordin e mëparshëm prej 41",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T08:32:18+00:00",
-      "dateStr": "07 Aug, 08:32",
-      "isNew": true,
-      "id": "abc71786091538"
-    },
-    {
-      "title": "Trump firmos urdhra të rinj për të kufizuar shtetësinë automatike",
-      "link": "https://abcnews.al/trump-firmos-urdhra-te-rinj-per-te-kufizuar-shtetesine-automatike/",
-      "description": "Presidenti amerikan, Donald Trump, firmosi dy urdhra të rinj ekzekutivë në një tjetër përpjekje për të kufizuar të drejtën e shtetësisë automatike për fëmijët që lindin në territorin amerikan. Njëri prej urdhrave synon t’u mohojë shtetësinë automatike disa fëmijëve, prindërit e të cilëve nuk janë sh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T08:30:51+00:00",
-      "dateStr": "07 Aug, 08:30",
-      "isNew": true,
-      "id": "abc81786091451"
+      "id": "she61786091870"
     },
     {
       "title": "24 mijë paund për jetën londineze/ Shqiptari iu premtonte kalimin e kufirit me Range Rover, Sky News zbardh skemën e kontrabandës",
@@ -265,18 +309,7 @@
       "date": "2026-08-07T08:14:28+00:00",
       "dateStr": "07 Aug, 08:14",
       "isNew": true,
-      "id": "she41786090468"
-    },
-    {
-      "title": "Hiqet gjuha shqipe nga tabela në kufi, Bujar Osmani: Provokim i qëllimshëm",
-      "link": "https://abcnews.al/hiqet-gjuha-shqipe-nga-tabela-ne-kufi-bujar-osmani-provokim-i-qellimshem/",
-      "description": "Ish-ministri i Jashtëm i Maqedonisë së Veriut, Bujar Osmani, ka reaguar pasi në tabelën zyrtare të mirëseardhjes në kufirin shtetëror mungon gjuha shqipe. Përmes një postimi në rrjetet sociale, Osmani publikoi një fotografi të tabelës ku mbishkrimi “Mirë se vini në Republikën e Maqedonisë së Veriut”",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T08:06:09+00:00",
-      "dateStr": "07 Aug, 08:06",
-      "isNew": true,
-      "id": "abc91786089969"
+      "id": "she71786090468"
     },
     {
       "title": "Pa emigrantë, asgjë nuk funksionon në Portugali",
@@ -287,7 +320,7 @@
       "date": "2026-08-07T08:02:28+00:00",
       "dateStr": "07 Aug, 08:02",
       "isNew": true,
-      "id": "she51786089748"
+      "id": "she81786089748"
     },
     {
       "title": "Aksident tragjik në Greqi, humbin jetën nënë e bir nga Shqipëria pas përplasjes me kamionin",
@@ -298,40 +331,7 @@
       "date": "2026-08-07T07:22:52+00:00",
       "dateStr": "07 Aug, 07:22",
       "isNew": true,
-      "id": "she61786087372"
-    },
-    {
-      "title": "Masakër në një shkollë në Tajlandë, nxënësi hap zjarr: Të paktën 7 të vdekur dhe 15 të plagosur",
-      "link": "https://shekulli.com.al/2026/08/07/masaker-ne-nje-shkolle-ne-tajlande-nxenesi-hap-zjarr-te-pakten-7-te-vdekur-dhe-15-te-plagosur/",
-      "description": "Të paktën shtatë persona, përfshirë autorin, kanë humbur jetën pas një sulmi me armë zjarri në shkollën Debsirin Nonthaburi, në periferi të Bangkokut, në Tajlandë. Sipas autoriteteve, autori i dyshuar, një nxënës, hapi zjarr gjatë orarit të mësimit, duke vrarë tre mësues dhe tre nxënës, ndërsa 15 pe",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T07:12:09+00:00",
-      "dateStr": "07 Aug, 07:12",
-      "isNew": true,
-      "id": "she71786086729"
-    },
-    {
-      "title": "Aksident tragjik në Gjermani, humbin jetën 3 shqiptarë, anëtarë të së njëjtës familje",
-      "link": "https://shekulli.com.al/2026/08/07/aksident-tragjik-ne-gjermani-humbin-jeten-3-shqiptare-anetare-te-se-njejtes-familje/",
-      "description": "GJERMANI- Tre shtetas nga Kosova kanë humbur jetën tragjikisht në një aksident rrugor që ka ndodhur në Gjermani, ndërsa po udhëtonin drejt vendit ku jetonin. Viktimat janë identifikuar si Tahir Aliu, 61 vjeç, djali i tij Gentian Aliu, 34 vjeç, dhe nipi Laurent Aliu, 16 vjeç, nga Komogllava e Ferizaj",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T07:08:07+00:00",
-      "dateStr": "07 Aug, 07:08",
-      "isNew": true,
-      "id": "she81786086487"
-    },
-    {
-      "title": "Hapet për qarkullim një segment i ri i Korridorit VIII, Rama: Një tjetër hap drejt përfundimit të veprës strategjike",
-      "link": "https://shekulli.com.al/2026/08/07/hapet-per-qarkullim-nje-segment-i-ri-i-korridorit-viii-rama-nje-tjeter-hap-drejt-perfundimit-te-vepres-strategjike/",
-      "description": "Një segment i ri i Korridorit VIII është hapur për qarkullimin e automjeteve, duke shënuar një tjetër etapë në ndërtimin e një prej projekteve më të rëndësishme infrastrukturore në vend. Segmenti i ri është pjesë e aksit Elbasan–Qafë Thanë, i cili lidh Shqipërinë me Maqedoninë e Veriut dhe është pje",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T07:04:13+00:00",
-      "dateStr": "07 Aug, 07:04",
-      "isNew": true,
-      "id": "she91786086253"
+      "id": "she91786087372"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
