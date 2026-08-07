@@ -1,117 +1,271 @@
 {
-  "lastUpdated": "2026-08-07T05:36:24.739858+00:00",
-  "totalSources": 3,
-  "totalNews": 30,
+  "lastUpdated": "2026-08-07T07:07:03.773453+00:00",
+  "totalSources": 4,
+  "totalNews": 40,
   "news": [
     {
-      "title": "Austin FC synon të shfrytëzojë fitoren hapëse në Leagues Cup për të rikthyer formën",
-      "link": "https://24-ore.com/austin-fc-synon-te-shfrytezoje-fitoren-hapese-ne-leagues-cup-per-te-rikthyer-formen/",
-      "description": "Austin FC fitoi 2-0 ndaj Club Tijuana në Q2 Stadium, një rezultat që skuadra shpreson ta përdorë si nisjen e rikthimit drejt një sezoni më të mirë në 2026....",
+      "title": "Mbrëmë janë regjistruar 20 zjarre në Maqedoni, një është ende aktiv",
+      "link": "https://24-ore.com/mbreme-jane-regjistruar-20-zjarre-ne-maqedoni-nje-eshte-ende-aktiv/",
+      "description": "Deri në orën 7:30, janë regjistruar gjithsej 23 zjarre në hapësira të hapura në të gjithë vendin, nga të cilat një është aktiv, dy janë nën kontroll dhe 20 zjarre janë shuar, njoftoi këtë mëngjes Qendra e Menaxhimit të Krizave. Zjarri është aktiv në zonën Stojanova Naselba në fshatin Greshnicë në ko",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-07T05:35:37+00:00",
-      "dateStr": "07 Aug, 05:35",
+      "date": "2026-08-07T07:04:30+00:00",
+      "dateStr": "07 Aug, 07:04",
       "isNew": true,
-      "id": "24 01786080937"
+      "id": "24 01786086270"
     },
     {
-      "title": "Mot i nxehtë, temperaturat deri në 37 gradë",
-      "link": "https://24-ore.com/mot-i-nxehte-temperaturat-deri-ne-37-grade/",
-      "description": "Instituti Hidrometeorologjik i Kosovës bën të ditur se sot do të mbajë mot me diell dhe i nxehtë. IHK njofton se temperaturat minimale do të lëvizin nga 13°C deri në 18°C, ndërsa maksimalet nga 33°C deri në 37°C. Do të fryjë erë e lehtë deri mesatare nga veriu dhe veriperëndimi, me shpejtësi 1–5 m/s",
+      "title": "Protesta kundër qeverisë hyn në ditën e 69-të/ Qytetarët kërkojnë dorëheqjen e panegociueshme të Edi Ramës",
+      "link": "https://24-ore.com/protesta-kunder-qeverise-hyn-ne-diten-e-69-te-qytetaret-kerkojne-doreheqjen-e-panegociueshme-te-edi-rames/",
+      "description": "Protestat kundër qeverisë dhe kryeministrit Edi Rama kanë hyrë këtë të premte në ditën e 69-të, ndërsa qytetarët vijojnë të mblidhen çdo mbrëmje në bulevard, duke kërkuar largimin e kryeministrit dhe hetimin e tij nga SPAK. Prej 68 ditësh, protestuesit kanë shprehur vendosmërinë për të vijuar aksion",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-07T05:14:12+00:00",
-      "dateStr": "07 Aug, 05:14",
+      "date": "2026-08-07T07:04:27+00:00",
+      "dateStr": "07 Aug, 07:04",
       "isNew": true,
-      "id": "24 11786079652"
+      "id": "24 11786086267"
     },
     {
-      "title": "Turneu i rrugës sjell hokejin në Porto Riko dhe synon të rritë pjesëmarrjen në ishull",
-      "link": "https://24-ore.com/turneu-i-rruges-sjell-hokejin-ne-porto-riko-dhe-synon-te-rrite-pjesemarrjen-ne-ishull/",
-      "description": "Në San Juan u zhvillua një turne i hokejit rrugor që solli në fokus përpjekjet për të zgjeruar sportin në Porto Riko. Loja u mbajt në Parque Dr. José Celso...",
+      "title": "Mulliqi në “Përballje”: Serbia bën lobim, ne avokojmë dhe tregojmë të vërtetën – SHBA-ja është sistemi jetësor i Kosovës",
+      "link": "https://24-ore.com/mulliqi-ne-perballje-serbia-ben-lobim-ne-avokojme-dhe-tregojme-te-verteten-shba-ja-eshte-sistemi-jetesor-i-kosoves/",
+      "description": "Përfaqësuesi i organizatës “Albanians for America”, Gino Mulliqi, ka deklaruar se angazhimi i shqiptaro-amerikanëve për Kosovën nuk duhet të përkufizohet thjesht si lobim, por si avokim për të drejtat dhe paraqitje e së vërtetës para institucioneve amerikane. Në një intervistë për “Përballje Podcast",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-07T03:22:05+00:00",
-      "dateStr": "07 Aug, 03:22",
+      "date": "2026-08-07T07:04:17+00:00",
+      "dateStr": "07 Aug, 07:04",
       "isNew": true,
-      "id": "24 21786072925"
+      "id": "24 21786086257"
     },
     {
-      "title": "Një mbrojtës qendror i Chicago Fire, Mbekezeli Mbokazi, jashtë për pjesën tjetër të sezonit",
-      "link": "https://24-ore.com/nje-mbrojtes-qendror-i-chicago-fire-mbekezeli-mbokazi-jashte-per-pjesen-tjeter-te-sezonit/",
-      "description": "Trajneri Gregg Berhalter njoftoi të enjten se mbrojtësi qendror i Chicago Fire, 20-vjeçari Mbekezeli Mbokazi, nuk do të luajë më për pjesën e mbetur të sez...",
-      "source": "24 ORE",
+      "title": "Hapet për qarkullim një segment i ri i Korridorit VIII, Rama: Një tjetër hap drejt përfundimit të veprës strategjike",
+      "link": "https://shekulli.com.al/2026/08/07/hapet-per-qarkullim-nje-segment-i-ri-i-korridorit-viii-rama-nje-tjeter-hap-drejt-perfundimit-te-vepres-strategjike/",
+      "description": "Një segment i ri i Korridorit VIII është hapur për qarkullimin e automjeteve, duke shënuar një tjetër etapë në ndërtimin e një prej projekteve më të rëndësishme infrastrukturore në vend. Segmenti i ri është pjesë e aksit Elbasan–Qafë Thanë, i cili lidh Shqipërinë me Maqedoninë e Veriut dhe është pje",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-07T02:55:41+00:00",
-      "dateStr": "07 Aug, 02:55",
+      "date": "2026-08-07T07:04:13+00:00",
+      "dateStr": "07 Aug, 07:04",
       "isNew": true,
-      "id": "24 31786071341"
+      "id": "she01786086253"
     },
     {
-      "title": "Stina e pestë",
-      "link": "https://24-ore.com/stina-e-peste/",
-      "description": "Shqipëria ka një stinë të pestë, stina e kthimeve. Nis diku nga fundi i qershorit, kur aeroportet mbushen me përqafime, rrugët me targa të huaja dhe shtëpitë, të heshtura gjatë dimrit, çelin dritaret. Vera shqiptare, e një kombi emigrantësh, kthen fëmijët tek prindërit, motrat tek vëllezërit, nipëri",
+      "title": "U dogja pa dashje nga dielli këtë fundjavë – ja si m’u shërua lëkura deri të hënën",
+      "link": "https://24-ore.com/u-dogja-pa-dashje-nga-dielli-kete-fundjave-ja-si-mu-sherua-lekura-deri-te-henen/",
+      "description": "Foto: plantadeaofficial/ Pinterest   Edhe kur kremi kundër diellit përdoret rregullisht, një ditë e gjatë në plazh apo në natyrë mund të përfundojë me një djegie të pakëndshme. Lajmi i mirë është se ka disa hapa të thjeshtë që ndihmojnë në qetësimin e lëkurës, zvogëlimin e inflamacionit dhe përshpej",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-07T02:18:06+00:00",
-      "dateStr": "07 Aug, 02:18",
+      "date": "2026-08-07T07:01:58+00:00",
+      "dateStr": "07 Aug, 07:01",
       "isNew": true,
-      "id": "24 41786069086"
+      "id": "24 31786086118"
     },
     {
-      "title": "Arizona Cardinals mundin Carolina Panthers 20-17 në Hall of Fame Game",
-      "link": "https://24-ore.com/arizona-cardinals-mundin-carolina-panthers-20-17-ne-hall-of-fame-game/",
-      "description": "Arizona Cardinals fituan ndaj Carolina Panthers me rezultatin 20-17 në ndeshjen e Hall of Fame më 6 gusht 2026. Takimi u zhvillua si pjesë e para-sezonit d...",
+      "title": "Hapet një segment i ri i Korridorit VIII / Karakaçi: Përmirësohet qarkullimi dhe siguria rrugore",
+      "link": "https://24-ore.com/hapet-nje-segment-i-ri-i-korridorit-viii-karakaci-permiresohet-qarkullimi-dhe-siguria-rrugore/",
+      "description": "Ministri i Infrastrukturës dhe Energjisë, Enea Karakaçi, njoftoi këtë të premte, 7 gusht, hapjen për qarkullim të një tjetër segmenti të rëndësishëm të Korridorit VIII, në kuadër të projektit për zgjerimin e aksit rrugor Elbasan-Qafë Thanë. Segmenti i ri shtrihet nga dalja e fshatit Labinot-Fushë de",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-07T02:11:05+00:00",
-      "dateStr": "07 Aug, 02:11",
+      "date": "2026-08-07T07:00:49+00:00",
+      "dateStr": "07 Aug, 07:00",
       "isNew": true,
-      "id": "24 51786068665"
+      "id": "24 41786086049"
     },
     {
-      "title": "Çfarë tha Jaylen Brown për transferimin te 76ers dhe bashkëpunimin me LeBron James",
-      "link": "https://24-ore.com/cfare-tha-jaylen-brown-per-transferimin-te-76ers-dhe-bashkepunimin-me-lebron-james/",
-      "description": "Jaylen Brown pranoi se vendimi i Boston Celtics për ta shkëmbyer atë te Philadelphia 76ers ishte i papritur dhe se ai ende po e përpunon ngjarjen emocional...",
-      "source": "24 ORE",
+      "title": "Shqipëria, në fund të Europës për trajtimin e ujërave të ndotura, mbulohet vetëm 12.6% e popullsisë",
+      "link": "https://shekulli.com.al/2026/08/07/shqiperia-ne-fund-te-europes-per-trajtimin-e-ujerave-te-ndotura-mbulohet-vetem-12-6-e-popullsise/",
+      "description": "Shqipëria ka një nga nivelet më të ulëta në Europë për lidhjen e popullsisë me sistemet e trajtimit të ujërave të ndotura. Në vitin 2024, vetëm 12.6% e popullsisë rezultonte e lidhur me impiante që ofrojnë të paktën trajtim dytësor të ujërave të ndotura, sipas të dhënave të Eurostat. Treguesi mat pj",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-07T02:06:26+00:00",
-      "dateStr": "07 Aug, 02:06",
+      "date": "2026-08-07T06:58:24+00:00",
+      "dateStr": "07 Aug, 06:58",
       "isNew": true,
-      "id": "24 61786068386"
+      "id": "she11786085904"
     },
     {
-      "title": "Raportohet se një pjesëtar i MUP-it serb është ndaluar në Jarinë",
-      "link": "https://24-ore.com/raportohet-se-nje-pjesetar-i-mup-it-serb-eshte-ndaluar-ne-jarine/",
-      "description": "Një pjesëtar i Ministrisë së Punëve të Brendshme të Serbisë (MUP) është ndaluar nga autoritetet e Kosovës në pikëkalimin kufitar në Jarinjë, mbrëmjen e së enjtes. Policia e Kosovës ka konfirmuar rastin për “Kossev”. “Po merret në pyetje. Nuk do të thotë se ai do të dërgohet në mbajtje”, kanë deklaru",
+      "title": "DETAJE / Sherri mes komshinjve për drutë, i moshuari në Roskovec humbi jetën pasi i biri u përfshi në konflikt",
+      "link": "https://24-ore.com/detaje-sherri-mes-komshinjve-per-drute-i-moshuari-ne-roskovec-humbi-jeten-pasi-i-biri-u-perfshi-ne-konflikt/",
+      "description": "Një konflikt mes dy komshinjve për një turë drush ka përfunduar në mënyrë tragjike mbrëmjen e kësaj të enjteje në lagjen Vrapaj të Roskovecit, ku një 70-vjeçar ka humbur jetën pasi dyshohet se pësoi infarkt. Sipas burimeve zyrtare të Drejtorisë Vendore të Policisë Fier, viktima është Baftjar Vrapi. ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-07T00:43:58+00:00",
-      "dateStr": "07 Aug, 00:43",
+      "date": "2026-08-07T06:49:21+00:00",
+      "dateStr": "07 Aug, 06:49",
       "isNew": true,
-      "id": "24 71786063438"
+      "id": "24 51786085361"
     },
     {
-      "title": "Aksident me vdekje në Mirditë, humb jetën 38-vjeçari",
-      "link": "https://24-ore.com/aksident-me-vdekje-ne-mirdite-humb-jeten-38-vjecari/",
-      "description": "Një 38-vjeçar nga Kosova ka humbur jetën mbrëmjen e tsë mërkurës në një aksident rrugor në autostradën e Mirditës. Sipas informacionit paraprak të policisë, rreth orës 20:00, në afërsi të fshatit Fan, shtetasi me inicialet L. D., duke drejtuar motomjetin e tij, dyshohet se ka humbur kontrollin mbi d",
+      "title": "Tjetër mbrëmje super për Lionel Messi-in, arrin rekordin e radhës me Inter Miami",
+      "link": "https://24-ore.com/tjeter-mbremje-super-per-lionel-messi-in-arrin-rekordin-e-radhes-me-inter-miami/",
+      "description": "Lionel Messi është bërë shënuesi më i mirë i të gjitha kohërave në Kupën e Ligës, pasi ka realizuar dy herë në fitoren 4-2 të Inter Miami kundër skuadrës meksikane San Luis. Ylli argjentinas ka shkuar në kuotën e 14 golave në 12 ndeshje, duke kaluar Denis Bouanga, sulmuesin gabonez të Los Angeles FC",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-06T22:19:30+00:00",
-      "dateStr": "06 Aug, 22:19",
+      "date": "2026-08-07T06:49:18+00:00",
+      "dateStr": "07 Aug, 06:49",
       "isNew": true,
-      "id": "24 81786054770"
+      "id": "24 61786085358"
     },
     {
-      "title": "Humb jetën pas një sherri 69-vjeçari në Roskovec, i pranishëm edhe i biri! Dinamika e ngjarjes dhe çfarë dyshohet",
-      "link": "https://24-ore.com/humb-jeten-pas-nje-sherri-69-vjecari-ne-roskovec-i-pranishem-edhe-i-biri-dinamika-e-ngjarjes-dhe-cfare-dyshohet/",
-      "description": "Një ngjarje e rëndë ka ndodhur mbrëmjen e sotme (6 gusht) në Roskovec, ku një 69-vjeçar ka humbur jetën pasi dyshohet se ka pësuar arrest kardiak. Burime zyrtare policore thanë paraprakisht se ai ishte i pranishëm gjatë një konflikti të çastit mes djalit të tij dhe një shtetasi tjetër. Pas ngjarjes,",
+      "title": "Vijojnë punimet në aksin Elbasan–Qafë Thanë, Rama: Investim modern për juglindjen",
+      "link": "https://24-ore.com/vijojne-punimet-ne-aksin-elbasan-qafe-thane-rama-investim-modern-per-juglindjen/",
+      "description": "Punimet në aksin rrugor Elbasan–Qafë Thanë po vijojnë me ritme të larta. Kështu shkruan kreu i qeverisë, Edi Rama, në një postim në rrjete sociale të shpërndarë këtë të premte, 7 gusht, duke shoqëruar me pamje nga punimet. Sipas tij, investimi synon të përmirësojë lidhjen e Korçës dhe të gjithë jugl",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-06T21:30:24+00:00",
-      "dateStr": "06 Aug, 21:30",
+      "date": "2026-08-07T06:49:08+00:00",
+      "dateStr": "07 Aug, 06:49",
       "isNew": true,
-      "id": "24 91786051824"
+      "id": "24 71786085348"
+    },
+    {
+      "title": "Plani sekret i Infantino-s, FIFA do të kontrollonte Superligën për 12 vjet",
+      "link": "https://24-ore.com/plani-sekret-i-infantino-s-fifa-do-te-kontrollonte-superligen-per-12-vjet/",
+      "description": "Zbulohet jnë prapaskenë e pabesueshme e presidentit të FIFA-s, që donte të krijonte dhe të administronte kompeticionin anti-Champions. “The Guardian” rishkruan historinë e Superligës. Pas idesë për t’u shitur një kuotë të pjesës komerciale të Kupës së Botës investitorëve privatë, – e kundërshtuar fu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T06:49:07+00:00",
+      "dateStr": "07 Aug, 06:49",
+      "isNew": true,
+      "id": "24 81786085347"
+    },
+    {
+      "title": "Luftoi deri në fund me kancerin, shuhet në moshën 26-vjeçare influencerja që frymëzoi miliona njerëz",
+      "link": "https://shekulli.com.al/2026/08/07/luftoi-deri-ne-fund-me-kancerin-shuhet-ne-moshen-26-vjecare-influencerja-qe-frymezoi-miliona-njerez/",
+      "description": "Ylli i TikTok, Sydney Towle ka ndërruar jetë në moshën 26-vjeçare, pasi luftoi me një formë agresive të kancerit. Lajmi u njoftua në faqet e Towle në mediat sociale të enjten, më 6 gusht, një ditë pas lajmit të vdekjes së saj. &#8220;Ne gjithmonë do të të duam shumë, Sydney&#8221;, shkruhej në mbish",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T06:35:34+00:00",
+      "dateStr": "07 Aug, 06:35",
+      "isNew": true,
+      "id": "she21786084534"
+    },
+    {
+      "title": "Hapet një tjetër segment i Korridorit VIII, pjesë e projektit për zgjerimin e aksit rrugor Elbasan-Qafë Thanë",
+      "link": "https://abcnews.al/hapet-nje-tjeter-segment-i-korridorit-viii-pjese-e-projektit-per-zgjerimin-e-aksit-rrugor-elbasan-qafe-thane/",
+      "description": "Ministri i Infrastrukturës dhe Energjisë, Ene Karakaçi, ka njoftuar se është hapur për qarkullim një tjetër segment i rëndësishëm i Korridorit VIII, pjesë e projektit për zgjerimin e aksit rrugor Elbasan-Qafë Thanë. Përmes një postimi në Facebook, ministri bëri të ditur se tashmë është i aksesueshëm",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T06:24:41+00:00",
+      "dateStr": "07 Aug, 06:24",
+      "isNew": true,
+      "id": "abc01786083881"
+    },
+    {
+      "title": "Nis ndërhyrja nga ajri për shuarjen e zjarrit në Panahor, vijon operacioni edhe në terren",
+      "link": "https://abcnews.al/nis-nderhyrja-nga-ajri-per-shuarjen-e-zjarrit-ne-panahor-vijon-operacioni-edhe-ne-terren/",
+      "description": "Operacioni për shuarjen e zjarrit në zonën e Panahorit vijon me intensitet, ndërsa autoritetet kanë nisur edhe ndërhyrjen nga ajri për të vënë nën kontroll flakët. Sipas të dhënave zyrtare, fillimisht është ndërmarrë operacioni në perimetrin e jashtëm të vatrës së zjarrit, ndërsa aktualisht po punoh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T06:20:38+00:00",
+      "dateStr": "07 Aug, 06:20",
+      "isNew": true,
+      "id": "abc11786083638"
+    },
+    {
+      "title": "Meta urdhërohet të paguajë 567 milionë dollarë për dëmet ndaj fëmijëve në rrjetet sociale",
+      "link": "https://abcnews.al/meta-urdherohet-te-paguaje-567-milione-dollare-per-demet-ndaj-femijeve-ne-rrjetet-sociale/",
+      "description": "Një gjykatë në shtetin amerikan të New Mexico ka urdhëruar kompaninë &#8220;Meta&#8221;, pronare e Facebook, Instagram dhe WhatsApp, të paguajë 567 milionë dollarë për të adresuar dëmet e shkaktuara ndaj fëmijëve nga përdorimi i platformave të saj. Sipas vendimit, 420 milionë dollarë do të dedikohen",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T06:20:21+00:00",
+      "dateStr": "07 Aug, 06:20",
+      "isNew": true,
+      "id": "abc21786083621"
+    },
+    {
+      "title": "Zjarr i fuqishëm në një banesë dykatëshe në Fier, dëme të mëdha materiale",
+      "link": "https://24-ore.com/zjarr-i-fuqishem-ne-nje-banese-dykateshe-ne-fier-deme-te-medha-materiale/",
+      "description": "Një zjarr ka përfshirë mbrëmjen e djeshme në 6 gusht një banesë dykatëshe në lagjen “16 Prilli”, duke shkaktuar dëme të konsiderueshme materiale. Siç raporton gazetarja e Klan News Anila Sefa, flakët kanë përfshirë katin e dytë të banesës, ndërsa në vendngjarje kanë mbërritur menjëherë shërbimet zja",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T06:19:55+00:00",
+      "dateStr": "07 Aug, 06:19",
+      "isNew": true,
+      "id": "24 91786083595"
+    },
+    {
+      "title": "Rama: Punimet në aksin Elbasan-Qafë Thanë po ecin me ritme të larta",
+      "link": "https://abcnews.al/rama-punimet-ne-aksin-elbasan-qafe-thane-po-ecin-me-ritme-te-larta/",
+      "description": "Kryeministri Edi Rama ka ndarë një mesazh në rrjetet sociale, ku thekson ecurinë e punimeve në aksin rrugor Elbasan-Qafë Thanë, duke e cilësuar projektin si një investim të rëndësishëm për përmirësimin e infrastrukturës në juglindje të vendit. Në një postim në Facebook, Rama shkruan se punimet po vi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T06:02:02+00:00",
+      "dateStr": "07 Aug, 06:02",
+      "isNew": true,
+      "id": "abc31786082522"
+    },
+    {
+      "title": "Pa me sytë e tij sherrin e të birit, ndërron jetë 69-vjeçari në Roskovec, dyshohet se pësoi arrest kardiak",
+      "link": "https://shekulli.com.al/2026/08/07/pa-me-syte-e-tij-sherrin-e-te-birit-nderron-jete-69-vjecari-ne-roskovec-dyshohet-se-pesoi-arrest-kardiak/",
+      "description": "ROSKOVEC- Detaje të reja janë zbardhur nga ngjarja e rëndë e regjistruar në Roskovec, ku një 69-vjeçar humbi jetën pasi pa me sytë e tij konfliktin mes djalit dhe një personi tjetër. Viktima është identifikuar si Baftjar Vrapi, banues në Roskovec. Sipas të dhënave paraprake, mbrëmjen e së mërkurës a",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T06:01:49+00:00",
+      "dateStr": "07 Aug, 06:01",
+      "isNew": true,
+      "id": "she31786082509"
+    },
+    {
+      "title": "Gara e ekranit në 2025-n, tregu arrin 70 mln euro/ “TV Klan” dhe “Top Channel” marrin 63%",
+      "link": "https://shekulli.com.al/2026/08/07/gara-e-ekranit-ne-2025-n-tregu-arrin-70-mln-euro-tv-klan-dhe-top-channel-marrin-63/",
+      "description": "Të ardhurat e 10 televizioneve kryesore në vend arritën në rreth 6.8 miliardë lekë në vitin 2025, apo në rreth 70 milionë euro. Në krahasim me një vit më parë, të ardhurat shënuan rritje të lehtë me 3%, pas rënies me 0.5% në 2024-n, por larg ritmeve dyshifrore të zgjerimit prej 14% në vitin 2023. [&",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T05:57:51+00:00",
+      "dateStr": "07 Aug, 05:57",
+      "isNew": true,
+      "id": "she41786082271"
+    },
+    {
+      "title": "Arabia Saudite, Turqia dhe Pakistani pritet të nënshkruajnë marrëveshje të përbashkët mbrojtjeje",
+      "link": "https://abcnews.al/arabia-saudite-turqia-dhe-pakistani-pritet-te-nenshkruajne-marreveshje-te-perbashket-mbrojtjeje/",
+      "description": "Arabia Saudite, Turqia dhe Pakistani pritet të nënshkruajnë sot në Xheda një marrëveshje për mbrojtje të ndërsjellë, sipas burimeve ushtarake dhe qeveritare të cituara nga AFP. Marrëveshja vjen në një kohë kur situata e sigurisë në Lindjen e Mesme mbetet e tensionuar për shkak të konfliktit të vazhd",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T05:52:59+00:00",
+      "dateStr": "07 Aug, 05:52",
+      "isNew": true,
+      "id": "abc41786081979"
+    },
+    {
+      "title": "Spanja në pritje të eklipsit të Diellit më 12 gusht",
+      "link": "https://abcnews.al/spanja-ne-pritje-te-eklipsit-te-diellit-me-12-gusht/",
+      "description": "Spanja po përgatitet për eklipsin total të Diellit më 12 gusht, një nga ngjarjet astronomike më të rëndësishme të shekullit. Për herë të parë pas më shumë se 100 vjetësh, fenomeni do të jetë i dukshëm në mënyrë të plotë nga Gadishulli Iberik. Autoritetet spanjolle presin mbi 10 milionë vizitorë vend",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T05:25:27+00:00",
+      "dateStr": "07 Aug, 05:25",
+      "isNew": true,
+      "id": "abc51786080327"
+    },
+    {
+      "title": "Parashikimi i motit, 7 gusht 2026",
+      "link": "https://abcnews.al/parashikimi-i-motit-7-gusht-2026/",
+      "description": "Ditën e premte vendi ynë parashikohet të vijojë të jetë në ndikim të masave ajrore të qëndrueshme dhe të nxehta. Moti parashikohet kryesisht i kthjellët e vranësira të pakta kalimtare në orët e mesditës. Era me drejtim nga kuadrati i perëndimit me shpejtësi mesatare deri në 5 m/s, e cila hera-herës ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T05:17:21+00:00",
+      "dateStr": "07 Aug, 05:17",
+      "isNew": true,
+      "id": "abc61786079841"
+    },
+    {
+      "title": "Horoskopi, zbuloni parashikimin e yjeve për shenjën tuaj",
+      "link": "https://abcnews.al/horoskopi-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj-187/",
+      "description": "Dashi Ata që janë në një lidhje do ndihmohen tej mase nga Neptuni dhe gjërat do ju shkojnë më mirë se më parë. Pasdite ose në mbrëmje do kaloni edhe momente të veçanta dhe tejet emocionuese. Për beqarët do ketë vetëm një takim, por ai mund të jetë vendimtar. Në planin financiar do kryeni transaksion",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T05:07:51+00:00",
+      "dateStr": "07 Aug, 05:07",
+      "isNew": true,
+      "id": "abc71786079271"
+    },
+    {
+      "title": "Roskovec/ 69-vjeçari dërgohet pa shenja jete në qendrën shëndetësore, detajet e para",
+      "link": "https://abcnews.al/roskovec-69-vjecari-dergohet-pa-shenja-jete-ne-qendren-shendetesore-detajet-e-para/",
+      "description": "Një 69-vjeçar është dërguar pa shenja jete në Qendrën Shëndetësore Roskovec. Nga veprimet e para hetimore dyshohet se 69-vjeçari ka pësuar arrest kardiak, pasi ka qenë i pranishëm gjatë një konflikti të çastit ndërmjet djalit të tij dhe një shtetasi tjetër, pa qenë vetë i përfshirë në konflikt. Grup",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T21:00:45+00:00",
+      "dateStr": "06 Aug, 21:00",
+      "isNew": true,
+      "id": "abc81786050045"
     },
     {
       "title": "Aksident fatal në Mirditë, humb jetën një 38-vjeçar nga Kosova pasi doli nga rruga me motor",
@@ -122,7 +276,18 @@
       "date": "2026-08-06T20:58:35+00:00",
       "dateStr": "06 Aug, 20:58",
       "isNew": true,
-      "id": "she01786049915"
+      "id": "she51786049915"
+    },
+    {
+      "title": "Aksident me vdekje në Mirditë",
+      "link": "https://abcnews.al/aksident-me-vdekje-ne-mirdite/",
+      "description": "Një aksident ka ndodhur rreth orës 20:00, në autostradë, në afërsi të fshatit Fan, Mirditë. Një 38 vjeçar nga Kosova, duke drejtuar motomjetin e tij, dyshohet se ka humbur kontrollin mbi drejtimin e motomjetit dhe, për pasojë, ka dalë nga rruga. Si pasojë e aksidentit, drejtuesi i motomjetit është t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-06T20:52:04+00:00",
+      "dateStr": "06 Aug, 20:52",
+      "isNew": true,
+      "id": "abc91786049524"
     },
     {
       "title": "Rafineri kokaine në një vilë në Itali, arrestohen pesë persona, mes tyre edhe një shqiptar",
@@ -133,7 +298,7 @@
       "date": "2026-08-06T20:46:27+00:00",
       "dateStr": "06 Aug, 20:46",
       "isNew": true,
-      "id": "she11786049187"
+      "id": "she61786049187"
     },
     {
       "title": "Mashtrim spektakolar në Francë, pensionistët humbasin pasuri prej 1.1 milionë eurosh nga “punonjësit e sigurisë”",
@@ -144,7 +309,7 @@
       "date": "2026-08-06T20:31:04+00:00",
       "dateStr": "06 Aug, 20:31",
       "isNew": true,
-      "id": "she21786048264"
+      "id": "she71786048264"
     },
     {
       "title": "Dita e 68-të e protestës, qytetarët marshojnë në rrugët e Tiranës dhe përsërisin kërkesat",
@@ -155,7 +320,7 @@
       "date": "2026-08-06T20:25:56+00:00",
       "dateStr": "06 Aug, 20:25",
       "isNew": true,
-      "id": "she31786047956"
+      "id": "she81786047956"
     },
     {
       "title": "25 vatra zjarri në vend, 10 ende aktive, vijojnë ndërhyrjet nga toka dhe ajri",
@@ -166,62 +331,7 @@
       "date": "2026-08-06T20:17:20+00:00",
       "dateStr": "06 Aug, 20:17",
       "isNew": true,
-      "id": "she41786047440"
-    },
-    {
-      "title": "I dënuar me 14 vite burg, ekstradohet nga Kolumbia “kimisti” i laboratorit të kokainës në Fier",
-      "link": "https://shekulli.com.al/2026/08/06/i-denuar-me-14-vite-burg-ekstradohet-nga-kolumbia-kimisti-i-laboratorit-te-kokaines-ne-fier/",
-      "description": "Shtetasi kolumbian Samir Rosales Rodriguez, i njohur si “kimisti” i laboratorit të kokainës në Frakull të Fierit, është ekstraduar drejt Shqipërisë, pas arrestimit të tij në Kolumbi me urdhër ndërkombëtar kërkimi. Rodriguez ishte personi i kërkuar nga drejtësia shqiptare për rolin e tij në laborator",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-06T19:42:05+00:00",
-      "dateStr": "06 Aug, 19:42",
-      "isNew": true,
-      "id": "she51786045325"
-    },
-    {
-      "title": "Krahu i djathtë i Ilir Prodës, shpallet në kërkim ish-zyrtari i Policisë Uljan Shpataraku",
-      "link": "https://shekulli.com.al/2026/08/06/krahu-i-djathte-i-ilir-prodes-shpallet-ne-kerkim-ish-zyrtari-i-policise-uljan-shpataraku/",
-      "description": "Ish-zyrtari i lartë i Policisë së Shtetit, Uljan Shpataraku, është shpallur në kërkim nga autoritetet, sipas raportimeve të fundit, pas një sherri që ka pasur me punonjësit e një hoteli në Himarë. Sipas pretendimeve të kallëzuesve, ngjarja ka ndodhur pas një debati verbal, gjatë të cilit Shpataraku ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-06T19:32:54+00:00",
-      "dateStr": "06 Aug, 19:32",
-      "isNew": true,
-      "id": "she61786044774"
-    },
-    {
-      "title": "Aksident i rëndë në Gjermani/ Përplasen dy tramvaje, 25 të plagosur, 3 në gjendje kritike",
-      "link": "https://shekulli.com.al/2026/08/06/aksident-i-rende-ne-gjermani-perplasen-dy-tramvaje-25-te-plagosur-3-ne-gjendje-kritike/",
-      "description": "Një aksident i rëndë ka ndodhur pasditen e së enjtes në qytetin Gelsenkirchen të Gjermanisë, ku dy tramvaje janë përplasur, duke shkaktuar plagosjen e të paktën 25 personave. Tre prej të lënduarve ndodhen në gjendje kritike dhe autoritetet nuk përjashtojnë rrezikun për jetën e tyre. Sipas informacio",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-06T18:54:24+00:00",
-      "dateStr": "06 Aug, 18:54",
-      "isNew": true,
-      "id": "she71786042464"
-    },
-    {
-      "title": "Janë përfolur dorëheqjet e dy ministrave, Rama mbledh qeverinë në Pogradec, i paraprin Asamblesë së PS-së",
-      "link": "https://shekulli.com.al/2026/08/06/jane-perfolur-doreheqjet-e-dy-ministrave-rama-mbledh-qeverine-ne-pogradec-i-paraprin-asamblese-se-ps-se/",
-      "description": "Kryeministri Edi Rama do të mbledhë kabinetin qeveritar më 24 dhe 25 gusht në Pogradec, ku ministrat do të raportojnë për punën e deritanishme dhe objektivat e secilit dikaster. Lajmi bëhet i ditur nga Top Channel, duke cituar burime qeveritare. Sipas të njëjtave burime, takimi zhvillohet pak javë p",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-06T17:48:16+00:00",
-      "dateStr": "06 Aug, 17:48",
-      "isNew": true,
-      "id": "she81786038496"
-    },
-    {
-      "title": "“Koha e emocioneve ka kaluar”, Pacolli breshëri postimesh për aeroportin e Vlorës: Sa herë kemi kërkuar sqarime na kanë thënë…",
-      "link": "https://shekulli.com.al/2026/08/06/koha-e-emocioneve-ka-kaluar-pacolli-bresheri-postimesh-per-aeroportin-e-vlores/",
-      "description": "Biznesmeni Behgjet Pacolli ka paralajmëruar se çështja e Aeroportit Ndërkombëtar të Vlorës do të përfundojë në arbitrazh ndërkombëtar, duke deklaruar se “koha e emocioneve ka kaluar” dhe se tashmë mbeten vetëm faktet, dokumentet dhe detyrimet kontraktore. Në një reagim të gjatë publik, Pacolli thotë",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-06T17:25:53+00:00",
-      "dateStr": "06 Aug, 17:25",
-      "isNew": true,
-      "id": "she91786037153"
+      "id": "she91786047440"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
