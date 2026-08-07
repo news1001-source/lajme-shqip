@@ -1,8 +1,206 @@
 {
-  "lastUpdated": "2026-08-07T08:53:04.941748+00:00",
+  "lastUpdated": "2026-08-07T09:56:36.336782+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "“Do të vijë një pako surprizë”, Prokuroria e Tiranës mbyll hetimet për nigerianin që shtirej si italian, kush ishte viktima e mashtrimit të tij",
+      "link": "https://shekulli.com.al/2026/08/07/do-te-vije-nje-pako-surprize-prokuroria-e-tiranes-mbyll-hetimet-per-nigerianin-qe-shtirej-si-italian-kush-ishte-viktima-e-mashtrimit-te-tij/",
+      "description": "TIRANË&#8211; Prokuroria pranë Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm, Tiranë, përfundoi hetimet dhe ka dërguar në gjyq shtetasin nigerian L.O., për veprën penale të ‘Mashtrimit Kompjuterik’ parashikuar nga nenet 143/b/1 të Kodit Penal. Hetimet mbi procedimin penal nr.2103 të ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T09:51:45+00:00",
+      "dateStr": "07 Aug, 09:51",
+      "isNew": true,
+      "id": "she01786096305"
+    },
+    {
+      "title": "Rama për “Financial Times”: Ne kemi një rrugë të qartë drejt Bashkimit Evropian",
+      "link": "https://24-ore.com/rama-per-financial-times-ne-kemi-nje-rruge-te-qarte-drejt-bashkimit-evropian/",
+      "description": "Ne kemi një rrugë të qartë drejt Bashkimit Evropian, i deklaroi kryeministri Edi Rama prestigjiozes ”Finacial Times”. ”Prej 13 vitesh, klubi i vendeve të Bashkimit Evropian nuk ka pranuar asnjë anëtar të ri dhe, mes paqëndrueshmërisë gjeopolitike dhe konkurrencës së fuqive të mëdha, presioni po rrit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T09:50:22+00:00",
+      "dateStr": "07 Aug, 09:50",
+      "isNew": true,
+      "id": "24 01786096222"
+    },
+    {
+      "title": "SHBA – Senati voton për masa ndaj Anthony Faucit për mosrespektim të Kongresit",
+      "link": "https://24-ore.com/shba-senati-voton-per-masa-ndaj-anthony-faucit-per-mosrespektim-te-kongresit/",
+      "description": "UASHINGTON, 7 gusht /ATSH-DPA/- Një komision i Senatit të SHBA-së ka votuar për ta shpallur imunologun e njohur amerikan Anthony Fauci përgjegjës për mosrespektim të Kongresit, pasi ai refuzoi t’u përgjigjej pyetjeve lidhur me pandeminë e COVID-19. Vendimi u miratua nga Komisioni për Sigurinë Kombët",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T09:48:43+00:00",
+      "dateStr": "07 Aug, 09:48",
+      "isNew": true,
+      "id": "24 11786096123"
+    },
+    {
+      "title": "Reagon Pacolli e LVV-së: Presidenti nuk është i një partie, është i Republikës",
+      "link": "https://24-ore.com/reagon-pacolli-e-lvv-se-presidenti-nuk-eshte-i-nje-partie-eshte-i-republikes/",
+      "description": "Megjithëse deri tani nuk kishte reagime lidhur me mënyrën se si do të procedohet me Kuvend dhe çështjen e presidentit, Fitore Pacolli nga Lëvizja Vetëvendosje theksoi se për zgjedhjen e presidentit të vendit nuk mjafton vetëm vullneti i një partie apo i një shumice parlamentare. Ajo në një postim në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T09:45:34+00:00",
+      "dateStr": "07 Aug, 09:45",
+      "isNew": true,
+      "id": "24 21786095934"
+    },
+    {
+      "title": "LSDM: Mickoski, Klekovski, Toshkovski, duhet të mbajnë përgjegjësi për helmimin në Gostivar dhe në të gjithë Maqedoninë",
+      "link": "https://24-ore.com/lsdm-mickoski-klekovski-toshkovski-duhet-te-mbajne-pergjegjesi-per-helmimin-ne-gostivar-dhe-ne-te-gjithe-maqedonine/",
+      "description": "Nga LSDM thonë se i gjithë qyteti i Gostivarit u helmua, mbi 4.000 njerëz u përballën me pasoja shëndetësore nga uji i ndotur, por askush nga pushteti nuk ka mbajtur përgjegjësi. &#8220;Mbi 50 vendbanime në Maqedoni janë helmuar me ujë të ndotur. Njerëzit po e paguajnë çmimin me shëndetin e tyre. Dh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T09:41:08+00:00",
+      "dateStr": "07 Aug, 09:41",
+      "isNew": true,
+      "id": "24 31786095668"
+    },
+    {
+      "title": "​Dështon përsëri të mbahet mbledhja e Këshillit Gjyqësor të Kosovës",
+      "link": "https://24-ore.com/deshton-perseri-te-mbahet-mbledhja-e-keshillit-gjyqesor-te-kosoves/",
+      "description": "Në mungesë të kuorumit, ka dështuar të mbahet mbledhja e Këshillit Gjyqësor të Kosovës (KGJK), ku në rend dite ishte paraparë shqyrtimi i kërkesës së ushtrueses së detyrës së Presidentes së Republikës së Kosovës, si dhe njoftimeve të gjyqtarëve dhe stafit administrativ nga komuniteti serb për tërheq",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T09:40:52+00:00",
+      "dateStr": "07 Aug, 09:40",
+      "isNew": true,
+      "id": "24 41786095652"
+    },
+    {
+      "title": "Pacolli e LVV-së: Presidenti nuk është president i një partie, është i Republikës",
+      "link": "https://24-ore.com/pacolli-e-lvv-se-presidenti-nuk-eshte-president-i-nje-partie-eshte-i-republikes/",
+      "description": "Fitore Pacolli nga Lëvizja Vetëvendosje ka thënë sot për zgjedhjen e presidentit të vendit nuk mjafton vetëm vullneti i një partie apo i një shumice parlamentare. Ajo thekson se Kushtetuta dhe vetë natyra e këtij posti kërkojnë një qasje që e përfshin edhe opozitën. “Presidenti nuk është president i",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T09:40:39+00:00",
+      "dateStr": "07 Aug, 09:40",
+      "isNew": true,
+      "id": "24 51786095639"
+    },
+    {
+      "title": "Trump kundër “turizmit të lindjes”, kufizon të drejtën për shtetësinë amerikane për fëmijët e lindur në SHBA",
+      "link": "https://abcnews.al/trump-kunder-turizmit-te-lindjes-kufizon-te-drejten-per-shtetesine-amerikane-per-femijet-e-lindur-ne-shba/",
+      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump, nënshkroi dy urdhra ekzekutivë që synojnë të kufizojnë të drejtën e shtetësisë automatike për fëmijët e lindur në territorin amerikan, duke sfiduar edhe një herë interpretimin e Amendamentit të 14-të të Kushtetutës së SHBA-së. Kufizimi i kësaj të dre",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T09:40:19+00:00",
+      "dateStr": "07 Aug, 09:40",
+      "isNew": true,
+      "id": "abc01786095619"
+    },
+    {
+      "title": "Vajza e ish-ministrit lë shtetësinë shqiptare, Presidenti Begaj dekreton vendimin e Deborah Beqajt",
+      "link": "https://shekulli.com.al/2026/08/07/vajza-e-ish-ministrit-le-shtetesine-shqiptare-presidenti-begaj-dekreton-vendimin-e-deborah-beqajt/",
+      "description": "TIRANË- Vajza e ish-ministrit të shëndetësisë Ilir Beqaj ka lënë shtetësinë shqiptare, me gjasë për të marrë një shtetësi tjetër. Lënia e shtetësisë nga Deborah Beqaj, është zyrtarizuar përmes një dekreti të firmosur nga presidenti i vendit Bajram Begaj. Dekreti mban datën 30 Korrik, ndërsa familja ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T09:37:30+00:00",
+      "dateStr": "07 Aug, 09:37",
+      "isNew": true,
+      "id": "she11786095450"
+    },
+    {
+      "title": "Mashtrimet online nëpërmjet dërgesave me postë, Prokuroria e Tiranës çon në gjyq nigerianin e pandehur! Ja si u zbulua n�",
+      "link": "https://24-ore.com/mashtrimet-online-nepermjet-dergesave-me-poste-prokuroria-e-tiranes-con-ne-gjyq-nigerianin-e-pandehur-ja-si-u-zbulua-n%ef%bf%bd/",
+      "description": "Prokuroria e Tiranës njoftoi sot (7 gusht) se ka përfunduar hetimet dhe dërgoi për gjykim shtetasin nigerian të pandehur, me inicialet L.O., i akuzuar për veprën penale “mashtrim kompjuterik”. Denoncimi ka ardhur nga punonjësja e një kompanie Call-Center në kryeqytet, e cila ka dëshmuar se një perso",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T09:35:24+00:00",
+      "dateStr": "07 Aug, 09:35",
+      "isNew": true,
+      "id": "24 61786095324"
+    },
+    {
+      "title": "Vrasja e Edmond Sulës/ Policia rikthehet në Bërxullë, kontrolle në disa banesa",
+      "link": "https://abcnews.al/vrasja-e-edmond-sules-policia-rikthehet-ne-berxulle-kontrolle-ne-disa-banesa/",
+      "description": "Policia e Tiranës po kryen kontrolle në Bërxullë lidhur me vrasjen e Edmond Sulës, kontrolle që vijojnë që prej atentatit. Sipas informacioneve disa shtetas jane shoqëruar në polici për t’u marrë në pyetje në cilësinë e personave që mund të kenë djeni për ngjarjen si dhe janë ushtruar sërish kontrol",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T09:30:49+00:00",
+      "dateStr": "07 Aug, 09:30",
+      "isNew": true,
+      "id": "abc11786095049"
+    },
+    {
+      "title": "Letër nga Brukseli: Episodi në Ceuta trazoi verën e BE-së",
+      "link": "https://24-ore.com/leter-nga-brukseli-episodi-ne-ceuta-trazoi-veren-e-be-se/",
+      "description": "Migrantë duke kaluar nga Maroku drejt enklavës spanjolle të Ceutës, më 30 korrik 2026. Nga: Gjeraqina Tuhina Javët që lidhin korrikun me gushtin janë zakonisht një periudhë kur ndërtesat e BE-së rreth Shumanit në Bruksel bien në qetësi dhe bisedat në grup të korrespondentëve heshtin pothuajse krejtë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T09:30:42+00:00",
+      "dateStr": "07 Aug, 09:30",
+      "isNew": true,
+      "id": "24 71786095042"
+    },
+    {
+      "title": "Rama për ”Financial Times”: Shqipëria në rrugë të qartë drejt Bashkimit Evropian",
+      "link": "https://24-ore.com/rama-per-financial-times-shqiperia-ne-rruge-te-qarte-drejt-bashkimit-evropian/",
+      "description": "– Ne kemi një rrugë të qartë drejt Bashkimit Evropian, i deklaroi kryeministri Edi Rama prestigjiozes ”Finacial Times”. ”Prej 13 vitesh, klubi i vendeve të Bashkimit Evropian nuk ka pranuar asnjë anëtar të ri dhe, mes paqëndrueshmërisë gjeopolitike dhe konkurrencës së fuqive të mëdha, presioni po rr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T09:30:13+00:00",
+      "dateStr": "07 Aug, 09:30",
+      "isNew": true,
+      "id": "24 81786095013"
+    },
+    {
+      "title": "Nigeriani në gjyq, vidhte shqiptarët/ U zhvaste paratë përmes mashtrimit në rrjete sociale",
+      "link": "https://abcnews.al/nigeriani-ne-gjyq-vidhte-shqiptaret-u-zhvaste-parate-permes-mashtrimit-ne-rrjete-sociale/",
+      "description": "Prokuroria pranë Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm, Tiranë, përfundoi hetimet dhe dërgon në gjyq shtetasin nigerian Lucky Omoregie, për veprën penale të ‘Mashtrimit Kompjuterik’ parashikuar nga nenet 143/b/1 të Kodit Penal. Hetimet mbi procedimin penal nr.2103 të vitit 20",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T09:25:41+00:00",
+      "dateStr": "07 Aug, 09:25",
+      "isNew": true,
+      "id": "abc21786094741"
+    },
+    {
+      "title": "Senatorët amerikanë kërkojnë që SHBA të rivendosë sanksione ndaj zyrtarëve të Republikës Sërpska",
+      "link": "https://24-ore.com/senatoret-amerikane-kerkojne-qe-shba-te-rivendose-sanksione-ndaj-zyrtareve-te-republikes-serpska/",
+      "description": "Një grup senatorësh amerikanë, republikanë dhe demokratë, kanë kërkuar nga administrata e presidentit Donald Trump, që të rivendosë sanksionet ndaj zyrtarëve të Republikës Sërpska, që u hoqën në tetor të vitit 2025. Kjo thirrje vjen pasi autoritetet në entitetin e Republikës Sërpska në Bosnje e Herc",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T09:22:46+00:00",
+      "dateStr": "07 Aug, 09:22",
+      "isNew": true,
+      "id": "24 91786094566"
+    },
+    {
+      "title": "Edicioni i Fundit me Sali Doçi, (06/08/2026)",
+      "link": "https://abcnews.al/edicioni-i-fundit-me-sali-doci-06-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T09:11:29+00:00",
+      "dateStr": "07 Aug, 09:11",
+      "isNew": true,
+      "id": "abc31786093889"
+    },
+    {
+      "title": "Kriza e energjisë elektrike/ Hungaria fik ndriçimin dekorativ në disa monumente ikonike të Budapestit",
+      "link": "https://abcnews.al/kriza-e-energjise-elektrike-hungaria-fik-ndricimin-dekorativ-ne-disa-monumente-ikonike-te-budapestit/",
+      "description": "Hungaria ka fikur ndriçimin dekorativ në disa prej monumenteve më ikonike të Budapestit, përfshirë ndërtesën e Parlamentit, Kështjellën e Budës dhe Urën e Zinxhirit, në një përpjekje për të kursyer energji gjatë valës ekstreme të të nxehtit. Masa ka zhgënjyer një pjesë të turistëve, por është mirëpr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T09:09:22+00:00",
+      "dateStr": "07 Aug, 09:09",
+      "isNew": true,
+      "id": "abc41786093762"
+    },
+    {
+      "title": "“The Wall Street Journal”: Putin mund të testojë vendosmërinë e NATO-s me një ndërhyrje të kufizuar",
+      "link": "https://abcnews.al/the-wall-street-journal-putin-mund-te-testoje-vendosmerine-e-nato-s-me-nje-nderhyrje-te-kufizuar/",
+      "description": "Vlerësimet e inteligjencës amerikane ngrenë shqetësime se Moska mund të shqyrtojë forma presioni ndaj një vendi anëtar të NATO-s, në përpjekje për të forcuar pozicionin e saj strategjik dhe politik, shkruan &#8220;The Wall Street Journal&#8221;. Megjithatë, një ndërhyrje e drejtpërdrejtë ushtarake n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T09:03:42+00:00",
+      "dateStr": "07 Aug, 09:03",
+      "isNew": true,
+      "id": "abc51786093422"
+    },
     {
       "title": "Në Francë kishte fituar azil, Turqia e kërkon me ngulm! Fati i 32-vjeçares Julide vendoset sot nga Gjykata e Tiranës",
       "link": "https://shekulli.com.al/2026/08/07/ne-france-kishte-fituar-azil-turqia-e-kerkon-me-ngulm-fati-i-32-vjecares-julide-vendoset-sot-nga-gjykata-e-tiranes/",
@@ -12,29 +210,7 @@
       "date": "2026-08-07T08:51:57+00:00",
       "dateStr": "07 Aug, 08:51",
       "isNew": true,
-      "id": "she01786092717"
-    },
-    {
-      "title": "Ekzekutimi i Edmond Sulës, Policia ushtron kontrolle në 4 banesat e një fisi në Bërxullë, disa të shoqëruar! Ja për çf",
-      "link": "https://24-ore.com/ekzekutimi-i-edmond-sules-policia-ushtron-kontrolle-ne-4-banesat-e-nje-fisi-ne-berxulle-disa-te-shoqeruar-ja-per-cf/",
-      "description": "Ekzekutimi i Edmond Sulës vijon të mbetet pa persona të arrestuar, por Policia e Tiranës vijon kërkimet intensive për autorët e krimit të rëndë. Mësohet se orët e fundit, pas disa informacioneve në rrugë operative, uniformat blu kanë ndërmarrë një operacion të befasishëm me kontrollesh në zonën e Bë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T08:51:04+00:00",
-      "dateStr": "07 Aug, 08:51",
-      "isNew": true,
-      "id": "24 01786092664"
-    },
-    {
-      "title": "“Nuk ka më hapësirë për justifikime”, GLPS bën thirrje për konstituimin e Kuvendit brenda afatit kushtetues",
-      "link": "https://24-ore.com/nuk-ka-me-hapesire-per-justifikime-glps-ben-thirrje-per-konstituimin-e-kuvendit-brenda-afatit-kushtetues/",
-      "description": "Grupi për Studime Juridike dhe Politike (GLPS) i bën thirrje Lëvizjes Vetëvendosje, si subjekti fitues i zgjedhjeve dhe bartës i përgjegjësisë për propozimin e Kryetarit të Kuvendit, si dhe të gjitha partive parlamentare, që sot të ndërmarrin hapat e nevojshëm për konstituimin e Kuvendit të Republik",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T08:45:34+00:00",
-      "dateStr": "07 Aug, 08:45",
-      "isNew": true,
-      "id": "24 11786092334"
+      "id": "she21786092717"
     },
     {
       "title": "Spanja në alarm, shërbimet inteligjente: Emigrantët mund të tentojnë të hyjnë sërish në Ceuta më 15 gusht",
@@ -45,29 +221,7 @@
       "date": "2026-08-07T08:43:17+00:00",
       "dateStr": "07 Aug, 08:43",
       "isNew": true,
-      "id": "abc01786092197"
-    },
-    {
-      "title": "Parlamenti Studentor i UEJL-së dorëzon kërkesë për zhvillimin e Provimit të Jurisprudencës edhe në gjuhën shqipe",
-      "link": "https://24-ore.com/parlamenti-studentor-i-uejl-se-dorezon-kerkese-per-zhvillimin-e-provimit-te-jurisprudences-edhe-ne-gjuhen-shqipe/",
-      "description": "Studentët e Parlamentit Studentor të Universitetit të Evropës Juglindore njoftojnë se sot kanë dorëzuar kërkesë në Ministrinë e Drejtësisë për zhvillimin e Provimit të Jurisprudencës dhe provimeve të tjera profesionale edhe në gjuhën shqipe. &#8220;Sot, në emër të Parlamentit Studentor të Universite",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T08:40:44+00:00",
-      "dateStr": "07 Aug, 08:40",
-      "isNew": true,
-      "id": "24 21786092044"
-    },
-    {
-      "title": "FSHF miraton pjesëmarrjen e Elite Youth Academy në kampionatet elitare U-16 dhe U-17",
-      "link": "https://24-ore.com/fshf-miraton-pjesemarrjen-e-elite-youth-academy-ne-kampionatet-elitare-u-16-dhe-u-17/",
-      "description": "Komiteti Ekzekutiv i Federatës Shqiptare të Futbollit ka miratuar pjesëmarrjen e ekipeve të Elite Youth Academy në kampionatet Abissnet Superiore U-16 dhe U-17 për dy sezonet sportive 2026–2027 dhe 2027–2028. Një vendim që synon të forcojë zhvillimin e futbollit të moshave dhe të krijojë më shumë mu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T08:40:30+00:00",
-      "dateStr": "07 Aug, 08:40",
-      "isNew": true,
-      "id": "24 31786092030"
+      "id": "abc61786092197"
     },
     {
       "title": "Raiffeisen Bank bie pre e vjedhjes online, kush dyshohet se qëndron në krye të skemës, shfrytëzonte orët e natës për të…",
@@ -78,29 +232,7 @@
       "date": "2026-08-07T08:37:50+00:00",
       "dateStr": "07 Aug, 08:37",
       "isNew": true,
-      "id": "she11786091870"
-    },
-    {
-      "title": "Ekspozita “Fustanella” sjell në Berat simbolin e identitetit shqiptar",
-      "link": "https://24-ore.com/ekspozita-fustanella-sjell-ne-berat-simbolin-e-identitetit-shqiptar/",
-      "description": "Mes artit dhe traditës, ekspozita “Fustanella”, e hapur në Muzeun Etnografik të Beratit, solli për publikun një nga simbolet më përfaqësuese të identitetit shqiptar. Përmes kësaj ekspozite, fustanella u prezantua jo vetëm si një veshje tradicionale, por edhe si një pasuri e çmuar e trashëgimisë kult",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T08:35:00+00:00",
-      "dateStr": "07 Aug, 08:35",
-      "isNew": true,
-      "id": "24 41786091700"
-    },
-    {
-      "title": "Një person i vë zjarrin kazanëve të plehrave në Durrës, digjen 10 prej tyre, dëmtohen edhe tre mjete të parkuara! Polici",
-      "link": "https://24-ore.com/nje-person-i-ve-zjarrin-kazaneve-te-plehrave-ne-durres-digjen-10-prej-tyre-demtohen-edhe-tre-mjete-te-parkuara-polici/",
-      "description": "Sezoni i verës ka shpërthyer edhe vatrat e zjarrit në vend prej disa javësh, ku harta e tyre zgjerohet çdo ditë. Një seri vatrash që dyshohet të jenë të qëllimshme kanë rënë edhe sot në mëngjes në Durrës, ku informohet se janë djegur 10 kazanë mbetjesh dhe janë dëmtuar nga flakët 3 automjete të park",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T08:32:41+00:00",
-      "dateStr": "07 Aug, 08:32",
-      "isNew": true,
-      "id": "24 51786091561"
+      "id": "she31786091870"
     },
     {
       "title": "Vala e të nxehtit/ Sllovakia thyen rekordin, temperaturat shkojnë në 42.2 gradë",
@@ -111,7 +243,7 @@
       "date": "2026-08-07T08:32:18+00:00",
       "dateStr": "07 Aug, 08:32",
       "isNew": true,
-      "id": "abc11786091538"
+      "id": "abc71786091538"
     },
     {
       "title": "Trump firmos urdhra të rinj për të kufizuar shtetësinë automatike",
@@ -122,51 +254,7 @@
       "date": "2026-08-07T08:30:51+00:00",
       "dateStr": "07 Aug, 08:30",
       "isNew": true,
-      "id": "abc21786091451"
-    },
-    {
-      "title": "FOKUS – Vendosja e tarifave të reja amerikane për panelet diellore dhe çipat irriton Kinën",
-      "link": "https://24-ore.com/fokus-vendosja-e-tarifave-te-reja-amerikane-per-panelet-diellore-dhe-cipat-irriton-kinen/",
-      "description": "UASHINGTON/PEKIN, 7 gusht /ATSH-DPA/- Administrata e presidentit amerikan Donald Trump ka njoftuar masa të reja tregtare që synojnë importet e polisilikonit, një material thelbësor për prodhimin e paneleve diellore dhe gjysmëpërçuesve. Sipas Shtëpisë së Bardhë, vendimi synon të mbrojë prodhuesit ven",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T08:30:15+00:00",
-      "dateStr": "07 Aug, 08:30",
-      "isNew": true,
-      "id": "24 61786091415"
-    },
-    {
-      "title": "Akull, rërë dhe zgjim në orën 3 të natës! Stërvitja më masakruese në botë",
-      "link": "https://24-ore.com/akull-rere-dhe-zgjim-ne-oren-3-te-nates-stervitja-me-masakruese-ne-bote/",
-      "description": "Biseda e parë me një futbollist është e veçantë. Një nga pyetjet është, nëse është i gatshëm të zgjohet në orën 3 të natës për stërvitje. Nëse përgjigja është “jo”, vështirë se lavizja mund të kryhet. Ky është rasti i rrallë i Deportivo Riestra, klub i Primera Division në Argjentinë. Është klubi që ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T08:29:50+00:00",
-      "dateStr": "07 Aug, 08:29",
-      "isNew": true,
-      "id": "24 71786091390"
-    },
-    {
-      "title": "​Veç Bosnja më “poshtë” se Kosova në zbatimin e Planit të Rritjes, rrezikohen fondet nëse reformat vonohen",
-      "link": "https://24-ore.com/vec-bosnja-me-poshte-se-kosova-ne-zbatimin-e-planit-te-rritjes-rrezikohen-fondet-nese-reformat-vonohen/",
-      "description": "Kosova është ndër vendet që po ecin më ngadalë në zbatimin e reformave të parapara me Planin e Rritjes të Bashkimit Evropian për Ballkanin Perëndimor, ndërsa vonesat në përmbushjen e detyrimeve mund të çojnë edhe në humbjen e fondeve të destinuara për vendin. Sipas një materiali të publikuar nga WeB",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T08:25:09+00:00",
-      "dateStr": "07 Aug, 08:25",
-      "isNew": true,
-      "id": "24 81786091109"
-    },
-    {
-      "title": "Trafik kokaine dhe tentativë vrasjeje, Interpoli sjell nën pranga dy të shumëkërkuar nga Kolumbia dhe Italia",
-      "link": "https://24-ore.com/trafik-kokaine-dhe-tentative-vrasjeje-interpoli-sjell-nen-pranga-dy-te-shumekerkuar-nga-kolumbia-dhe-italia/",
-      "description": "Policia e Shtetit ka sjellë sot nën pranga 2 persona të shumëkërkuar nga Kolumbia dhe Italia. Në bashkëpunim me Interpol Bogotën dhe Interpol Romën, autoritetet shqiptare kanë ekstraduar kolumbianin Samir Rosales Rodriguez, 53 vjeç, dhe nga Italia shtetasin shqiptar Fadil Ternova, 38 vjeç. 53-vjeçar",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T08:21:41+00:00",
-      "dateStr": "07 Aug, 08:21",
-      "isNew": true,
-      "id": "24 91786090901"
+      "id": "abc81786091451"
     },
     {
       "title": "24 mijë paund për jetën londineze/ Shqiptari iu premtonte kalimin e kufirit me Range Rover, Sky News zbardh skemën e kontrabandës",
@@ -177,7 +265,7 @@
       "date": "2026-08-07T08:14:28+00:00",
       "dateStr": "07 Aug, 08:14",
       "isNew": true,
-      "id": "she21786090468"
+      "id": "she41786090468"
     },
     {
       "title": "Hiqet gjuha shqipe nga tabela në kufi, Bujar Osmani: Provokim i qëllimshëm",
@@ -188,7 +276,7 @@
       "date": "2026-08-07T08:06:09+00:00",
       "dateStr": "07 Aug, 08:06",
       "isNew": true,
-      "id": "abc31786089969"
+      "id": "abc91786089969"
     },
     {
       "title": "Pa emigrantë, asgjë nuk funksionon në Portugali",
@@ -199,40 +287,7 @@
       "date": "2026-08-07T08:02:28+00:00",
       "dateStr": "07 Aug, 08:02",
       "isNew": true,
-      "id": "she31786089748"
-    },
-    {
-      "title": "VIDEO/ Ekstradohen nga Kolumbia e Italia 2 persona të kërkuar për trafik droge dhe tentativë vrasjeje, mes tyre ‘kimisti’ i drogës në Frakull",
-      "link": "https://abcnews.al/video-ekstradohen-nga-kolumbia-e-italia-2-persona-te-kerkuar-per-trafik-droge-dhe-tentative-vrasjeje-mes-tyre-kimisti-i-droges-ne-frakull/",
-      "description": "Policia e Shtetit ka finalizuar dy faza të tjera të operacionit ndërkombëtar të koduar “The Wanted”, në bashkëpunim me partnerët ndërkombëtarë, duke sjellë në Shqipëri dy shtetas të kërkuar për vepra të rënda penale. Nga Kolumbia është ekstraduar shtetasi kolumbian  Saimir Rosales Rodriguez, 53 vjeç",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T07:46:24+00:00",
-      "dateStr": "07 Aug, 07:46",
-      "isNew": true,
-      "id": "abc41786088784"
-    },
-    {
-      "title": "Të premten afati i fundit për konstituimin e Kuvendit të Kosovës",
-      "link": "https://abcnews.al/te-premten-afati-i-fundit-per-konstituimin-e-kuvendit-te-kosoves/",
-      "description": "Sot përfundon afati kushtetues për konstituimin e Kuvendit të Kosovës, ndërsa ende nuk është bërë e ditur se kur do të vazhdojë seanca konstituive e ndërprerë një ditë më parë. Seanca u ndërpre me kërkesë të kryetarit të Lëvizjes Vetëvendosje, Albin Kurti, i cili kërkoi kohë shtesë për konsultime me",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T07:42:48+00:00",
-      "dateStr": "07 Aug, 07:42",
-      "isNew": true,
-      "id": "abc51786088568"
-    },
-    {
-      "title": "Aksident në Greqi, makina u përplas me kamionin, humbin jetën nënë e bir nga Shqipëria",
-      "link": "https://abcnews.al/aksident-ne-greqi-makina-u-perplas-me-kamionin-humbin-jeten-nene-e-bir-nga-shqiperia/",
-      "description": "Një aksident i rëndë me pasoja fatale ka ndodhur mëngjesin e sotëm në Greqi, ku kanë humbur jetën dy shtetas shqiptarë, nënë e bir. Ngjarja ka ndodhur rreth orës 07:30 në rrugën Amfipolis–Drama, pranë Paleokomit, në zonën e Serres. Sipas informacioneve paraprake, një automjet tip “makinë pasagjerësh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T07:24:13+00:00",
-      "dateStr": "07 Aug, 07:24",
-      "isNew": true,
-      "id": "abc61786087453"
+      "id": "she51786089748"
     },
     {
       "title": "Aksident tragjik në Greqi, humbin jetën nënë e bir nga Shqipëria pas përplasjes me kamionin",
@@ -243,29 +298,7 @@
       "date": "2026-08-07T07:22:52+00:00",
       "dateStr": "07 Aug, 07:22",
       "isNew": true,
-      "id": "she41786087372"
-    },
-    {
-      "title": "Zjarret në vend/ Ministria: 30 vatra në 24 orë, 8 mbeten aktive. Vijojnë operacionet e shuarjes",
-      "link": "https://abcnews.al/zjarret-ne-vend-ministria-30-vatra-ne-24-ore-8-mbeten-aktive-vijojne-operacionet-e-shuarjes/",
-      "description": "Ministria e Mbrojtjes ka bërë me dije situatën e zjarreve në vend gjatë 24 orëve të fundit, ku janë raportuar 30 vatra zjarri, ndërsa 8 prej tyre vijojnë të jenë aktive. Në operacionet për shuarjen e flakëve janë angazhuar 54 automjete zjarrfikëse dhe 502 forca operacionale, përmes koordinimit të Ag",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T07:13:03+00:00",
-      "dateStr": "07 Aug, 07:13",
-      "isNew": true,
-      "id": "abc71786086783"
-    },
-    {
-      "title": "Zjarret kanë djegur 70 mijë hektarë në Itali",
-      "link": "https://abcnews.al/zjarret-kane-djegur-70-mije-hektare-ne-itali/",
-      "description": "Zjarret pyjore kanë shkatërruar rreth 70 mijë hektarë sipërfaqe në Itali që nga fillimi i vitit, një rritje prej 133% krahasuar me mesataren e dy dekadave të fundit, sipas një raporti të publikuar nga Fondi Botëror për Natyrën (WWF). Sipas raportit të WWF Itali, sipërfaqja e djegur është e barabartë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T07:12:27+00:00",
-      "dateStr": "07 Aug, 07:12",
-      "isNew": true,
-      "id": "abc81786086747"
+      "id": "she61786087372"
     },
     {
       "title": "Masakër në një shkollë në Tajlandë, nxënësi hap zjarr: Të paktën 7 të vdekur dhe 15 të plagosur",
@@ -276,18 +309,7 @@
       "date": "2026-08-07T07:12:09+00:00",
       "dateStr": "07 Aug, 07:12",
       "isNew": true,
-      "id": "she51786086729"
-    },
-    {
-      "title": "Gjendet pa shenja jete një 47-vjeçar në shkallët e një pallati në Elbasan, nis hetimi",
-      "link": "https://abcnews.al/gjendet-pa-shenja-jete-nje-47-vjecar-ne-shkallet-e-nje-pallati-ne-elbasan-nis-hetimi/",
-      "description": "Një 47-vjeçar është gjetur pa shenja jete në sheshpushimin e katit të 8-të të një pallati në lagjen “Syrja Dylgjeri” në Elbasan. Sipas informacionit paraprak të policisë, ngjarja është raportuar rreth orës 08:00, ndërsa në vendngjarje kanë mbërritur menjëherë shërbimet e Policisë dhe grupi hetimor. ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T07:09:11+00:00",
-      "dateStr": "07 Aug, 07:09",
-      "isNew": true,
-      "id": "abc91786086551"
+      "id": "she71786086729"
     },
     {
       "title": "Aksident tragjik në Gjermani, humbin jetën 3 shqiptarë, anëtarë të së njëjtës familje",
@@ -298,7 +320,7 @@
       "date": "2026-08-07T07:08:07+00:00",
       "dateStr": "07 Aug, 07:08",
       "isNew": true,
-      "id": "she61786086487"
+      "id": "she81786086487"
     },
     {
       "title": "Hapet për qarkullim një segment i ri i Korridorit VIII, Rama: Një tjetër hap drejt përfundimit të veprës strategjike",
@@ -309,29 +331,7 @@
       "date": "2026-08-07T07:04:13+00:00",
       "dateStr": "07 Aug, 07:04",
       "isNew": true,
-      "id": "she71786086253"
-    },
-    {
-      "title": "Shqipëria, në fund të Europës për trajtimin e ujërave të ndotura, mbulohet vetëm 12.6% e popullsisë",
-      "link": "https://shekulli.com.al/2026/08/07/shqiperia-ne-fund-te-europes-per-trajtimin-e-ujerave-te-ndotura-mbulohet-vetem-12-6-e-popullsise/",
-      "description": "Shqipëria ka një nga nivelet më të ulëta në Europë për lidhjen e popullsisë me sistemet e trajtimit të ujërave të ndotura. Në vitin 2024, vetëm 12.6% e popullsisë rezultonte e lidhur me impiante që ofrojnë të paktën trajtim dytësor të ujërave të ndotura, sipas të dhënave të Eurostat. Treguesi mat pj",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T06:58:24+00:00",
-      "dateStr": "07 Aug, 06:58",
-      "isNew": true,
-      "id": "she81786085904"
-    },
-    {
-      "title": "Luftoi deri në fund me kancerin, shuhet në moshën 26-vjeçare influencerja që frymëzoi miliona njerëz",
-      "link": "https://shekulli.com.al/2026/08/07/luftoi-deri-ne-fund-me-kancerin-shuhet-ne-moshen-26-vjecare-influencerja-qe-frymezoi-miliona-njerez/",
-      "description": "Ylli i TikTok, Sydney Towle ka ndërruar jetë në moshën 26-vjeçare, pasi luftoi me një formë agresive të kancerit. Lajmi u njoftua në faqet e Towle në mediat sociale të enjten, më 6 gusht, një ditë pas lajmit të vdekjes së saj. &#8220;Ne gjithmonë do të të duam shumë, Sydney&#8221;, shkruhej në mbish",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T06:35:34+00:00",
-      "dateStr": "07 Aug, 06:35",
-      "isNew": true,
-      "id": "she91786084534"
+      "id": "she91786086253"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
