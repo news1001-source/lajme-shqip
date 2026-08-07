@@ -1,18 +1,260 @@
 {
-  "lastUpdated": "2026-08-07T12:52:25.108783+00:00",
+  "lastUpdated": "2026-08-07T14:09:03.961138+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Drejtësia nuk mjafton vetëm të shpallet; duhet edhe të shihet.",
-      "link": "https://24-ore.com/drejtesia-nuk-mjafton-vetem-te-shpallet-duhet-edhe-te-shihet/",
-      "description": "Nga Minella Aleksi Drejtësia nuk mjafton vetëm të shpallet; duhet edhe të Ka një paradoks që vetëm burokracia moderne e llojit “Rregullorja Bani” mund ta prodhojë, me aq seriozitet sa ta shesë si mençuri. Pretendohet se Drejtësia fiton besueshmëri pikërisht duke u bërë më pak e dukshme. Me fjalë të ",
+      "title": "“Çfarë të shihja kur erdha”, humbi djalin dhe bashkëshorten në aksident, dëshmia rrëqethëse e shqiptarit: Diçka po më tërhiqte në zemër…",
+      "link": "https://shekulli.com.al/2026/08/07/cfare-te-shihja-kur-erdha-humbi-djalin-dhe-bashkeshorten-ne-aksident-deshmia-rreqethese-e-shqiptarit-dicka-po-me-terhiqte-ne-zemer/",
+      "description": "GREQI- Një ngjarje e rëndë ka tronditur komunitetin shqiptar në Serres të Greqisë, ku një nënë 43-vjeçare dhe djali i saj 24-vjeçar humbën jetën pas një përplasjeje tragjike me një kamion. Viktimat ishin nisur herët në mëngjes për në punë në zonën e Amfipolit, por udhëtimi i tyre përfundoi në tragje",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T14:05:43+00:00",
+      "dateStr": "07 Aug, 14:05",
+      "isNew": true,
+      "id": "she01786111543"
+    },
+    {
+      "title": "“Kanë patur konflikte pronësie”! Vrasja e 50-vjeçarit në Bërxullë, shoqërohen disa persona",
+      "link": "https://24-ore.com/kane-patur-konflikte-pronesie-vrasja-e-50-vjecarit-ne-berxulle-shoqerohen-disa-persona/",
+      "description": "Afro 1 muaj pas ekzekutimit në derën e shtëpisë së 50-vjeçarit, Edmond Sula në fshatin Bërxullë, policia e Tiranës ka shoqëruar 7 persona të cilët kanë patur konflikte pronësie me viktimën. Burime pranë grupit të hetimit i thanë Tv Klan se të shoqëruarit janë pjesë e të njëjtit fis dhe banojnë në të",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-07T12:51:07+00:00",
-      "dateStr": "07 Aug, 12:51",
+      "date": "2026-08-07T14:02:37+00:00",
+      "dateStr": "07 Aug, 14:02",
       "isNew": true,
-      "id": "24 01786107067"
+      "id": "24 01786111357"
+    },
+    {
+      "title": "UASHINGTON – SHBA vendos sanksione ndaj zyrtarëve ushtarakë dhe kompanive kubaneze",
+      "link": "https://24-ore.com/uashington-shba-vendos-sanksione-ndaj-zyrtareve-ushtarake-dhe-kompanive-kubaneze/",
+      "description": "UASHINGTON, 7 gusht /ATSH-DPA/- Shtetet e Bashkuara të Amerikës kanë vendosur sanksione të reja ndaj disa zyrtarëve ushtarakë dhe kompanive kubaneze, të cilat, sipas Uashingtonit, ndihmojnë Kubën të sigurojë armë dhe të ruajë bashkëpunimin ushtarak me vende të tjera. Departamenti amerikan i Shtetit ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T14:00:13+00:00",
+      "dateStr": "07 Aug, 14:00",
+      "isNew": true,
+      "id": "24 11786111213"
+    },
+    {
+      "title": "Mbetjet e rrezikshme në Durrës, denoncon PD: Kontejnerët prej muajsh pranë zonave të banuara",
+      "link": "https://24-ore.com/mbetjet-e-rrezikshme-ne-durres-denoncon-pd-kontejneret-prej-muajsh-prane-zonave-te-banuara/",
+      "description": "Deputeti i Partisë Demokratike, Igli Cara, u shpreh i shqetësuar lidhur me kontejnerët me mbetje të rrezikshme, që prej shumë muajsh vazhdojnë të mbahen në periferi të qytetit të Durrësit. Ai ngriti disa pyetje për autoritetet, lidhur me sigurinë e qytetarëve që banojnë në atë zonë. “Cili është stat",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T13:51:04+00:00",
+      "dateStr": "07 Aug, 13:51",
+      "isNew": true,
+      "id": "24 21786110664"
+    },
+    {
+      "title": "Qeveria kroate rrit pensionet e veteranëve/ 3 euro për çdo muaj të kaluar në front",
+      "link": "https://abcnews.al/qeveria-kroate-rrit-pensionet-e-veteraneve-3-euro-per-cdo-muaj-te-kaluar-ne-front/",
+      "description": "Qeveria e Kroacisë ka prezantuar një model të ri për rritjen e pensioneve të veteranëve, i cili pritet të hyjë në fuqi më 1 janar 2027, nëse ndryshimet ligjore miratohen nga Parlamenti. Masa do të përfshijë edhe veteranët që pas luftës janë rikthyer në punë. Aktualisht, pensionet e këtyre veteranëve",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T13:50:02+00:00",
+      "dateStr": "07 Aug, 13:50",
+      "isNew": true,
+      "id": "abc01786110602"
+    },
+    {
+      "title": "Abdixhiku pas takimit me Kurtin: Jemi shumë larg marrëveshjes për presidentin",
+      "link": "https://24-ore.com/abdixhiku-pas-takimit-me-kurtin-jemi-shume-larg-marreveshjes-per-presidentin/",
+      "description": "Kryetari i Lidhjes Demokratike të Kosovës (LDK), Lumir Abdixhiku, ka deklaruar se takimi me liderin e Lëvizjes Vetëvendosje (LVV), Albin Kurti, nuk ka sjellë ndonjë marrëveshje, përfshirë edhe çështjen e presidentit. Pas përfundimit të takimit, Abdixhiku tha se qëndrimet mes palëve mbeten ende larg ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T13:49:32+00:00",
+      "dateStr": "07 Aug, 13:49",
+      "isNew": true,
+      "id": "24 31786110572"
+    },
+    {
+      "title": "Gjatë kësaj jave në Maqedoni janë regjistruar shtatë raste të reja me infeksion nga virusi i Nilit Perëndimor",
+      "link": "https://24-ore.com/gjate-kesaj-jave-ne-maqedoni-jane-regjistruar-shtate-raste-te-reja-me-infeksion-nga-virusi-i-nilit-perendimor/",
+      "description": "Ministria e Shëndetësisë në RMV njofton se gjatë kësaj jave në vend janë regjistruar shtatë raste të reja me infeksion nga virusi i Nilit Perëndimor (WNV). &#8220;Të gjitha rastet janë nga Shkupi: nga dy raste në komunat Kisella Vodë dhe Gazi Babë, si dhe nga një rast në Ilinden, Butel dhe Aerodrom.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T13:44:27+00:00",
+      "dateStr": "07 Aug, 13:44",
+      "isNew": true,
+      "id": "24 41786110267"
+    },
+    {
+      "title": "Goditet një rast i tentim-kontrabandës në Qafë Prush, konfiskohen 504 produkte të padeklaruara",
+      "link": "https://24-ore.com/goditet-nje-rast-i-tentim-kontrabandes-ne-qafe-prush-konfiskohen-504-produkte-te-padeklaruara/",
+      "description": "Zyrtarët doganorë të Doganës së Kosovës, në bashkëpunim me Policinë e Kosovës, kanë parandaluar një rast të tentim-kontrabandimit të mallrave në Pikën e Kalimit Kufitar Qafë Prush. Sipas një njoftimi për media thuhet se gjatë kontrollit të automjeteve në hyrje të Republikës së Kosovës, një automjet ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T13:39:39+00:00",
+      "dateStr": "07 Aug, 13:39",
+      "isNew": true,
+      "id": "24 51786109979"
+    },
+    {
+      "title": "Flakët pranë Athinës, në paraburgim kryebashkiaku i Stylidës, akuzohet për zjarrvënie",
+      "link": "https://shekulli.com.al/2026/08/07/flaket-prane-athines-ne-paraburgim-kryebashkiaku-i-stylides-akuzohet-per-zjarrvenie/",
+      "description": "Kryebashkiaku i qytetit Stylida në Greqi është lënë në paraburgim pasi është përfshirë në hetimet për një zjarr të madh që nisi në zonën e Beotisë dhe u përhap drejt Atikës, duke shkaktuar alarm pranë kryeqytetit grek. Bëhet fjalë për kryebashkiakun Ioannis Apostolou, i cili akuzohet për zjarrvënie ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T13:38:47+00:00",
+      "dateStr": "07 Aug, 13:38",
+      "isNew": true,
+      "id": "she11786109927"
+    },
+    {
+      "title": "I dënuari ekstradohet nga Italia/ Fadil Tërnova vjen përballë drejtësisë shqiptare",
+      "link": "https://abcnews.al/i-denuari-ekstradohet-nga-italia-fadil-ternova-vjen-perballe-drejtesise-shqiptare/",
+      "description": "Në kërkim për 3 ngjarje kriminale, ekstradohet nga Italia 38-vjeçari Fadil Tërnova i njohur si i forti i Dibrës. Tërnova iu dorëzua autoriteteve Shqiptare dhe do të përballet me akuza të rënda penale si vrasja me dashje mbetur në tentativë ndodhur 2 vite më parë e deri tek mosbindje të efektivëve të",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T13:38:21+00:00",
+      "dateStr": "07 Aug, 13:38",
+      "isNew": true,
+      "id": "abc11786109901"
+    },
+    {
+      "title": "Tentoi t’i digjte të gjallë motër e vëlla, në pranga 33-vjeçari në Vlorë",
+      "link": "https://24-ore.com/tentoi-ti-digjte-te-gjalle-moter-e-vella-ne-pranga-33-vjecari-ne-vlore/",
+      "description": "Policia e Vlorës ka zbardhur autorësinë e djegies së një apartamenti në lagjen “Lef Sallata”, ngjarje e ndodhur në orët e para të mëngjesit të 4 gushtit dhe e dyshuar fillimisht si aksidentale. Sipas Policisë, pas veprimeve hetimore të kryera nën drejtimin e Prokurorisë, është identifikuar dhe arres",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T13:35:31+00:00",
+      "dateStr": "07 Aug, 13:35",
+      "isNew": true,
+      "id": "24 61786109731"
+    },
+    {
+      "title": "Zjarr në Baldushk, rrezikohen disa banesa",
+      "link": "https://abcnews.al/zjarr-ne-baldushk-rrezikohen-disa-banesa/",
+      "description": "Një zjarr i përmasave të mëdha ka përfshirë zonën e Baldushkut, duke vënë në rrezik disa banesa pranë vatrës së flakëve. Zjarri është favorizuar nga temperaturat e larta dhe era, duke u përhapur me shpejtësi. Në terren ndodhen forcat zjarrfikëse dhe shërbimet e emergjencës, të cilat po punojnë për i",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T13:34:25+00:00",
+      "dateStr": "07 Aug, 13:34",
+      "isNew": true,
+      "id": "abc21786109665"
+    },
+    {
+      "title": "Zhvillime nga prapaskenat e WWE: Roman Reigns, Sol Ruca dhe shqetësime rreth Dominik Mysterio",
+      "link": "https://24-ore.com/zhvillime-nga-prapaskenat-e-wwe-roman-reigns-sol-ruca-dhe-shqetesime-rreth-dominik-mysterio/",
+      "description": "Pas një SummerSlam të fortë dhe me AEW All Out pranë, zërat nga prapaskenat e WWE po shtohen. Në qendër të diskutimeve është mbrojtja e titullit të World H...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T13:32:09+00:00",
+      "dateStr": "07 Aug, 13:32",
+      "isNew": true,
+      "id": "24 71786109529"
+    },
+    {
+      "title": "Brad Pitt dhe Angelina Jolie sërish në luftë për Miraval",
+      "link": "https://24-ore.com/brad-pitt-dhe-angelina-jolie-serish-ne-lufte-per-miraval/",
+      "description": "Brad Pitt po vazhdon përpjekjet për të siguruar dokumentet financiare dhe të pronësisë së Angelina Jolie në kuadër të betejës së tyre ligjore që lidhet me kantinën franceze të verës, Château Miraval. Avokatët e aktorit 62-vjeçar argumentojnë se Jolie ka paraqitur në mënyrë të pasaktë pretendimet e s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T13:31:07+00:00",
+      "dateStr": "07 Aug, 13:31",
+      "isNew": true,
+      "id": "24 81786109467"
+    },
+    {
+      "title": "Trump firmos urdhra të rinj për kufizimin e shtetësisë me lindje në SHBA",
+      "link": "https://abcnews.al/trump-firmos-urdhra-te-rinj-per-kufizimin-e-shtetesise-me-lindje-ne-shba/",
+      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump, ka bërë një përpjekje të dytë për të kufizuar të drejtën kushtetuese të shtetësisë automatike për fëmijët e lindur në SHBA, vetëm pak javë pasi Gjykata Supreme hodhi poshtë përpjekjen e tij të parë për të kufizuar këtë të drejtë. Trump nënshkroi të e",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T13:30:42+00:00",
+      "dateStr": "07 Aug, 13:30",
+      "isNew": true,
+      "id": "abc31786109442"
+    },
+    {
+      "title": "BUDAPEST – Thatësira në Danub zbulon eshtra ushtarësh gjermanë dhe relike të LIIB",
+      "link": "https://24-ore.com/budapest-thatesira-ne-danub-zbulon-eshtra-ushtaresh-gjermane-dhe-relike-te-liib/",
+      "description": "BUDAPEST, 7 gusht /ATSH-DPA/ – Nivelet jashtëzakonisht të ulëta të ujit në lumin Danub, të shkaktuara nga vala e të nxehtit dhe thatësira që ka përfshirë Evropën Qendrore, kanë nxjerrë në dritë eshtra të dy ushtarëve të Wehrmacht-it gjerman, një motoçikletë ushtarake dhe 35 mina antitank në Budapest",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T13:30:11+00:00",
+      "dateStr": "07 Aug, 13:30",
+      "isNew": true,
+      "id": "24 91786109411"
+    },
+    {
+      "title": "Sekreti i plazheve të bardha në Maldive? Rërën e krijojnë peshqit papagall",
+      "link": "https://shekulli.com.al/2026/08/07/sekreti-i-plazheve-te-bardha-ne-maldive-reren-e-krijojne-peshqit-papagall/",
+      "description": "Plazhet me rërë të bardhë të Maldiveve janë ndër më të famshmet në botë, por pak njerëz e dinë se një pjesë e madhe e tyre krijohet falë një peshku të veçantë. Bëhet fjalë për peshkun papagall (parrotfish), i cili luan një rol të rëndësishëm në ekosistemin detar. Ky peshk ushqehet duke kafshuar alga",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T13:29:55+00:00",
+      "dateStr": "07 Aug, 13:29",
+      "isNew": true,
+      "id": "she21786109395"
+    },
+    {
+      "title": "Emigracioni klandestin drejt Anglisë/ Trafikanti shqiptar: 24 mijë paund për kalimin nga Shqipëria në Londër",
+      "link": "https://abcnews.al/emigracioni-klandestin-drejt-anglise-trafikanti-shqiptar-24-mije-paund-per-kalimin-nga-shqiperia-ne-londer/",
+      "description": "Nje investigim nga Sky News hedh drite mbi nje nga rruget qe, sipas medias britanike, perdorin rrjetet e kontrabandes per te futur emigrante ne Mbreterine e Bashkuar. Ne qender te investigimit eshte nje trafikant shqiptar, i cili pretendon se, kundrejt 24 mije paundeve, mund te organizoje kalimin e ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T13:24:20+00:00",
+      "dateStr": "07 Aug, 13:24",
+      "isNew": true,
+      "id": "abc41786109060"
+    },
+    {
+      "title": "Meta gjobitet me 567 milionë dollarë për rrezikimin e fëmijëve në internet",
+      "link": "https://abcnews.al/meta-gjobitet-me-567-milione-dollare-per-rrezikimin-e-femijeve-ne-internet/",
+      "description": "Një gjykatë në shtetin amerikan të New Mexico ka urdhëruar kompaninë Meta të paguajë 567 milionë dollarë shtesë për dështimin në mbrojtjen e fëmijëve nga rreziqet në platformat e saj, duke e çuar vlerën totale të gjobave në 942 milionë dollarë. Bëhet fjalë për gjobën më të madhe të vendosur ndonjëhe",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T13:21:12+00:00",
+      "dateStr": "07 Aug, 13:21",
+      "isNew": true,
+      "id": "abc51786108872"
+    },
+    {
+      "title": "Punëdhënësit përballë rregullave të reja, pagat mund të bëhen publike për kompanitë me mbi 125 punonjës",
+      "link": "https://shekulli.com.al/2026/08/07/punedhenesit-perballe-rregullave-te-reja-pagat-mund-te-behen-publike-per-kompanite-me-mbi-125-punonjes/",
+      "description": "TIRANË- Punëdhënësit në Shqipëri do të duhet të publikojnë intervalin e pagës për çdo vend të lirë pune dhe kompanitë me të paktën 125 punonjës do të përballen me kuota për punësimin e personave nga grupe të veçanta, sipas një projektligji të Ministrisë së Ekonomisë dhe Inovacionit të nxjerrë për ko",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T13:19:27+00:00",
+      "dateStr": "07 Aug, 13:19",
+      "isNew": true,
+      "id": "she31786108767"
+    },
+    {
+      "title": "Arabia Saudite, Turqia dhe Pakistani nënshkruajnë pakt të përbashkët mbrojtjeje",
+      "link": "https://abcnews.al/arabia-saudite-turqia-dhe-pakistani-nenshkruajne-pakt-te-perbashket-mbrojtjeje/",
+      "description": "Arabia Saudite, Turqia dhe Pakistani kanë nënshkruar një marrëveshje të përbashkët mbrojtjeje, sipas së cilës çdo sulm ndaj njërës prej tyre do të konsiderohet si sulm ndaj të tre shteteve. Pakti u shpall pas një takimi në Mekë mes Princit të Kurorës së Arabisë Saudite, Mohammed bin Salman, presiden",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T13:14:55+00:00",
+      "dateStr": "07 Aug, 13:14",
+      "isNew": true,
+      "id": "abc61786108495"
+    },
+    {
+      "title": "Tetë vatra zjarresh aktive/ Ujë me avion në Cikallesh të Kavajës, rrezikohen banesat",
+      "link": "https://abcnews.al/tete-vatra-zjarresh-aktive-uje-me-avion-ne-cikallesh-te-kavajes-rrezikohen-banesat/",
+      "description": "Nga  30 vatra zjarri  që përfshinë vendin në  24 orët e fundit, të premten 8 prej tyre janë ende aktive.   Flakët kanë rënë ne zona me pyje dhe sipas Agjencisë Kombëtare  për Mbrojtjen Civile  po  punohet për  shuarjen e tyre. Dy helikopterë  të Forcave të Armatosura po  ndihmojnë   zjarrfikësit për",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T13:12:35+00:00",
+      "dateStr": "07 Aug, 13:12",
+      "isNew": true,
+      "id": "abc71786108355"
+    },
+    {
+      "title": "Bie protesta, ngrihet turizmi/ “Flamingot” nuk frenuan turistët, korriku shtoi vizitorët e huaj",
+      "link": "https://abcnews.al/bie-protesta-ngrihet-turizmi-flamingot-nuk-frenuan-turistet-korriku-shtoi-vizitoret-e-huaj/",
+      "description": "Protestat e mbajtura në Shqipëri duket se humbën efektin në dëmtimin e turizmit në vend. Pavarësisht  fushatave  online të cilat synuan të rrënojnë imazhin e bizneseve të  mëdha  sidomos në sektorin e turizmit statistikat zyrtare tregojnë se në korrik ka pasur një rritje të fortë të numrit të turist",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T13:01:29+00:00",
+      "dateStr": "07 Aug, 13:01",
+      "isNew": true,
+      "id": "abc81786107689"
     },
     {
       "title": "Dëshmi tronditëse në gjyqin për vdekjen e Maradonës: Nuk donte të hante dhe nuk ngrihej nga shtrati",
@@ -23,51 +265,7 @@
       "date": "2026-08-07T12:49:48+00:00",
       "dateStr": "07 Aug, 12:49",
       "isNew": true,
-      "id": "she01786106988"
-    },
-    {
-      "title": "Kallëzim penal ndaj një personi nga Koçani, i konfiskohen dy pushkë",
-      "link": "https://24-ore.com/kallezim-penal-ndaj-nje-personi-nga-kocani-i-konfiskohen-dy-pushke/",
-      "description": "MPB njofton se është ngritur kallëzim penal ndaj një 39-vjeçari nga Koçani, pasi që gjatë bastisjes në shtëpinë e tij policia ka gjetur dy pushkë gjuetie. Departamenti i Policisë së Koçanit ngriti kallëzim penal kundër M.K. (38) nga Koçani për shkak të ekzistencës së bazave të dyshimit për kryerjen ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T12:48:54+00:00",
-      "dateStr": "07 Aug, 12:48",
-      "isNew": true,
-      "id": "24 11786106934"
-    },
-    {
-      "title": "Allen Iverson shfaqet me fanellën e LeBron James të 76ers pas firmosjes së tij",
-      "link": "https://24-ore.com/allen-iverson-shfaqet-me-fanellen-e-lebron-james-te-76ers-pas-firmosjes-se-tij/",
-      "description": "Legjenda e Philadelphia 76ers, Allen Iverson, u shfaq të enjten me fanellën e LeBron James në ngjyrat e 76ers, sipas një fotografie të shpërndarë së fundi....",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T12:46:43+00:00",
-      "dateStr": "07 Aug, 12:46",
-      "isNew": true,
-      "id": "24 21786106803"
-    },
-    {
-      "title": "Parashikimet e playoff-ve të MLB pas afatit të transferimeve 2026",
-      "link": "https://24-ore.com/parashikimet-e-playoff-ve-te-mlb-pas-afatit-te-transferimeve-2026/",
-      "description": "Afati i transferimeve në Major League Baseball për vitin 2026 mbylli dhe tani vijnë parashikimet e përditësuara për rrugën drejt postseason-it. Disa skuadr...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T12:45:48+00:00",
-      "dateStr": "07 Aug, 12:45",
-      "isNew": true,
-      "id": "24 31786106748"
-    },
-    {
-      "title": "Një ikonë e Hall of Fame, Larry Fitzgerald, nuk do të deklarojë zyrtarisht pensionimin",
-      "link": "https://24-ore.com/nje-ikone-e-hall-of-fame-larry-fitzgerald-nuk-do-te-deklaroje-zyrtarisht-pensionimin/",
-      "description": "Ish-receiveri i Arizona Cardinals, Larry Fitzgerald, pritet të njihet si anëtar i Pro Football Hall of Fame këtë të shtunë, më shumë se pesë vjet pas ndesh...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T12:42:19+00:00",
-      "dateStr": "07 Aug, 12:42",
-      "isNew": true,
-      "id": "24 41786106539"
+      "id": "she41786106988"
     },
     {
       "title": "BE nën presion për anëtarët e rinj, Rama për Financial Times: Shqipëria ndodhet në momentin më të mire, rruga jonë është e qartë",
@@ -78,51 +276,18 @@
       "date": "2026-08-07T12:41:12+00:00",
       "dateStr": "07 Aug, 12:41",
       "isNew": true,
-      "id": "she11786106472"
+      "id": "she51786106472"
     },
     {
-      "title": "Tirana barazon 2-2 në miqësoren e paradites në Turqi, pasdite zhvillon një tjetër test",
-      "link": "https://24-ore.com/tirana-barazon-2-2-ne-miqesoren-e-paradites-ne-turqi-pasdite-zhvillon-nje-tjeter-test/",
-      "description": "Tirana kishte planifikuar dy ndeshje miqësore për sot në tokën turke, ku po zhvillon fazën përgatitore. Miqësoja e parë, e luajtur paradite në qytetin Bolu kundër Al Ittihad, ka përfunduar me rezultatin 2-2. Golat për bardheblutë u shënuan nga Ardit Krymi dhe Erdon Daci, dy prurje të reja. Trajneri ",
-      "source": "24 ORE",
+      "title": "News Line me Rovena Neziri, (07/08/2026)",
+      "link": "https://abcnews.al/news-line-me-rovena-neziri-07-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-07T12:39:09+00:00",
-      "dateStr": "07 Aug, 12:39",
+      "date": "2026-08-07T12:36:33+00:00",
+      "dateStr": "07 Aug, 12:36",
       "isNew": true,
-      "id": "24 51786106349"
-    },
-    {
-      "title": "Njoftimet për media po bëhen burim gjithnjë e më i rëndësishëm për IA-në",
-      "link": "https://24-ore.com/njoftimet-per-media-po-behen-burim-gjithnje-e-me-i-rendesishem-per-ia-ne/",
-      "description": "Mënyra se si kompanitë publikojnë informacionet e tyre online po ndryshon bashkë me mënyrën se si publiku kërkon përgjigje. Krahas Google dhe mediave sociale, ChatGPT, Claude dhe platforma të tjera të inteligjencës artificiale po përdoren gjithnjë e më shumë për të kërkuar informacione rreth kompani",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T12:34:38+00:00",
-      "dateStr": "07 Aug, 12:34",
-      "isNew": true,
-      "id": "24 61786106078"
-    },
-    {
-      "title": "Jakshiq e quan tradhtar Vuçiqin",
-      "link": "https://24-ore.com/jakshiq-e-quan-tradhtar-vuciqin/",
-      "description": "Ish-anëtari i ekipit negociator të Serbisë për Kosovën dhe ish-deputeti serb, Marko Jakshiq, i ka drejtuar një letër të hapur presidentit të Serbisë, Aleksandar Vuçiqit, duke e kritikuar ashpër politikën e tij ndaj Kosovës. Shkak për reagimin e Jakshiqit, sipas tij, është shembja e hotelit të të afë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T12:34:25+00:00",
-      "dateStr": "07 Aug, 12:34",
-      "isNew": true,
-      "id": "24 71786106065"
-    },
-    {
-      "title": "Fuqia fatale e lajmit të rrejshën: Nga Maroku i sotëm në pazarin e Prishtinës gjatë Perandorisë Osmane",
-      "link": "https://24-ore.com/fuqia-fatale-e-lajmit-te-rrejshen-nga-maroku-i-sotem-ne-pazarin-e-prishtines-gjate-perandorise-osmane/",
-      "description": "Lajmi i rrejshëm shpesh është më i fuqishëm se e vërteta. Prandaj duhet të luftohet. Dhe lufta fillon në shkollat fillore. Vetëm qytetarët që dinë të bëjnë dallimin mes lajmit të rrejshëm dhe lajmit të vërtetë mund të jenë edhe shtetas të përgjegjshëm. Enver Robelli Nuk dihet kush e nisi, por ditëve",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T12:32:26+00:00",
-      "dateStr": "07 Aug, 12:32",
-      "isNew": true,
-      "id": "24 81786105946"
+      "id": "abc91786106193"
     },
     {
       "title": "E rëndë në Vlorë, tentoi të digjte brenda apartamentit vëlla e motër për konkurencën në biznes, pranga 38-vjeçarit",
@@ -133,117 +298,7 @@
       "date": "2026-08-07T12:32:17+00:00",
       "dateStr": "07 Aug, 12:32",
       "isNew": true,
-      "id": "she21786105937"
-    },
-    {
-      "title": "FOKUS – Turqia, Arabia Saudite dhe Pakistani nënshkruajnë marrëveshje trepalëshe të mbrojtjes",
-      "link": "https://24-ore.com/fokus-turqia-arabia-saudite-dhe-pakistani-nenshkruajne-marreveshje-trepaleshe-te-mbrojtjes/",
-      "description": "MEKË, 7 gusht /ATSH-AA/ – Turqia, Arabia Saudite dhe Pakistani nënshkruan sot në Mekë një marrëveshje trepalëshe të mbrojtjes, në kuadër të përpjekjeve për të forcuar bashkëpunimin ushtarak dhe koordinimin strategjik mes tre vendeve. Marrëveshja u firmos nga presidenti turk Recep Tayip Erdogan, prin",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T12:30:14+00:00",
-      "dateStr": "07 Aug, 12:30",
-      "isNew": true,
-      "id": "24 91786105814"
-    },
-    {
-      "title": "Kina përgatit laborator të posaçëm për analizimin e mostrave që do të sillen nga Marsi",
-      "link": "https://abcnews.al/kina-pergatit-laborator-te-posacem-per-analizimin-e-mostrave-qe-do-te-sillen-nga-marsi/",
-      "description": "Në kuadër të misionit ambicioz Tianwen-3, Kina ka nisur përgatitjet për ndërtimin e një laboratori të avancuar të mbrojtjes planetare, i cili do të jetë pjesë e Qytetit të Shkencës Hapësinore në Hefei, në provincën Anhui. Objekti do të ketë një rol kyç në trajtimin e mostrave që pritet të mblidhen n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T12:07:39+00:00",
-      "dateStr": "07 Aug, 12:07",
-      "isNew": true,
-      "id": "abc01786104459"
-    },
-    {
-      "title": "Edicioni i Mesditës me Kasandra Pali, (07/08/2026)",
-      "link": "https://abcnews.al/edicioni-i-mesdites-me-kasandra-pali-07-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T11:46:30+00:00",
-      "dateStr": "07 Aug, 11:46",
-      "isNew": true,
-      "id": "abc11786103190"
-    },
-    {
-      "title": "“Shqipëria Sot”, me Kasandra Pali, (07/08/2026)",
-      "link": "https://abcnews.al/shqiperia-sot-me-kasandra-pali-07-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T11:43:58+00:00",
-      "dateStr": "07 Aug, 11:43",
-      "isNew": true,
-      "id": "abc21786103038"
-    },
-    {
-      "title": "Zbulohen dhe asgjësohen 130 bimë kanabis/ Pukë, arrestohet 55 vjeçari, procedohet kryeplaku i fshatit",
-      "link": "https://abcnews.al/zbulohen-dhe-asgjesohen-130-bime-kanabis-puke-arrestohet-55-vjecari-procedohet-kryeplaku-i-fshatit/",
-      "description": "Një operacion i Komisariatit të Policisë Pukë ka çuar në zbulimin dhe asgjësimin e 130 bimëve të dyshuara narkotike Cannabis Sativa në territorin e fshatit Arst. Operacioni, i koduar &#8220;Arsti&#8221;, u zhvillua pas kontrolleve intensive në terren dhe hetimeve të kryera me metoda proaktive, në ku",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T11:37:57+00:00",
-      "dateStr": "07 Aug, 11:37",
-      "isNew": true,
-      "id": "abc31786102677"
-    },
-    {
-      "title": "Breaking News me Erneta Shevroja, (07/08/2026)",
-      "link": "https://abcnews.al/breaking-news-me-erneta-shevroja-07-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T11:33:33+00:00",
-      "dateStr": "07 Aug, 11:33",
-      "isNew": true,
-      "id": "abc41786102413"
-    },
-    {
-      "title": "Monitorim intensiv në rrugët e Vlorës gjatë sezonit veror, 24 drejtues mjetesh të arrestuar dhe proceduar",
-      "link": "https://abcnews.al/monitorim-intensiv-ne-rruget-e-vlores-gjate-sezonit-veror-24-drejtues-mjetesh-te-arrestuar-dhe-proceduar/",
-      "description": "Policia Rrugore e Vlorës dhe Sarandës ka intensifikuar monitorimin e akseve rrugore në të gjithë qarkun, duke përdorur dronë, radarë dhe automjete inteligjente, me qëllim rritjen e sigurisë rrugore dhe menaxhimin e trafikut gjatë sezonit veror. Kontrollet janë përqendruar te drejtuesit e mjeteve që ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T11:31:24+00:00",
-      "dateStr": "07 Aug, 11:31",
-      "isNew": true,
-      "id": "abc51786102284"
-    },
-    {
-      "title": "Shkupi heq shqipen nga tabelat/ Çupi: Me akte të tilla provokojnë konflikt në kufi, përpjekje për të destabilizuar Tiranën",
-      "link": "https://abcnews.al/shkupi-heq-shqipen-nga-tabelat-cupi-me-akte-te-tilla-provokojne-konflikt-ne-kufi-perpjekje-per-te-destabilizuar-tiranen/",
-      "description": "Një tjetër skandal në Maqedoninë e Veriut nën hundën e shqiptarëve që bashkëqeverisin me Hristian Mickoskin. Në tabelën e mirëseardhjes në Tabanoc, pika kufitare me Serbinë, mungon shkrimi në gjuhën shqipe, edhe pse aty ka pasur vend për t’i thënë udhëtarëve “mirëseerdhët” në gjuhën maqedonase, angl",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T11:24:11+00:00",
-      "dateStr": "07 Aug, 11:24",
-      "isNew": true,
-      "id": "abc61786101851"
-    },
-    {
-      "title": "Aksident në bypass-in e Fierit, një person dërgohet në spital",
-      "link": "https://abcnews.al/aksident-ne-bypass-in-e-fierit-nje-person-dergohet-ne-spital/",
-      "description": "Një aksident është regjistruar pak minuta më parë në autostradën Fier–Levan, në bypass-in e Fierit. Një automjet tip Volkswagen ka humbur kontrollin dhe është përplasur me barrierat mbrojtëse të autostradës. Në automjet udhëtonin pesë persona, ndërsa një prej tyre ka marrë lëndime të lehta dhe është",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T11:19:04+00:00",
-      "dateStr": "07 Aug, 11:19",
-      "isNew": true,
-      "id": "abc71786101544"
-    },
-    {
-      "title": "Kontrolle në vijën bregdetare, lirohen hapësira publike në plazhin e Spilles, dy të proceduar",
-      "link": "https://abcnews.al/kontrolle-ne-vijen-bregdetare-lirohen-hapesira-publike-ne-plazhin-e-spilles-dy-te-proceduar/",
-      "description": "Vijon aksioni për lirimin e hapësirave publike në plazhe. Operacioni këtë herë ishte fokusuar në plazhin e Spilles. Gjatë operacionit janë hequr dhe sekuestruar 101 çadra dhe 202 shezlongë, ndërsa janë proceduar penalisht 2 persona, 37 dhe 71 vjeç. Shërbimet e Policisë do të vijojnë kontrollet përgj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T11:16:18+00:00",
-      "dateStr": "07 Aug, 11:16",
-      "isNew": true,
-      "id": "abc81786101378"
+      "id": "she61786105937"
     },
     {
       "title": "FOTOT/ U përplasën tragjikisht me kamionin, dalin fotot e nënës dhe djalit të saj që humbën jetën  në Greqi",
@@ -254,18 +309,7 @@
       "date": "2026-08-07T11:08:22+00:00",
       "dateStr": "07 Aug, 11:08",
       "isNew": true,
-      "id": "she31786100902"
-    },
-    {
-      "title": "Bedri Hamza refuzon takimin me Albin Kurtin: PDK mbetet në opozitë",
-      "link": "https://abcnews.al/bedri-hamza-refuzon-takimin-me-albin-kurtin-pdk-mbetet-ne-opozite/",
-      "description": "Kryetari i Partisë Demokratike të Kosovës, Bedri Hamza, e ka refuzuar ftesën për takim me kryetarin e Lëvizjes Vetëvendosje, Albin Kurti. Hamza i është përgjigjur përmes një letre Kurtit, ku i ka thënë se qëndrimi i PDK-së mbetet i njëjtë &#8211; se partia e tij qëndron në opozitë. Hamza ka shkruar ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T11:05:54+00:00",
-      "dateStr": "07 Aug, 11:05",
-      "isNew": true,
-      "id": "abc91786100754"
+      "id": "she71786100902"
     },
     {
       "title": "“Jam e persekutuar politike, më rrezikohet jeta”, lihet në burg e reja turke, qeveria e Erdogan e akuzon për organizatë terroriste",
@@ -276,7 +320,7 @@
       "date": "2026-08-07T11:03:08+00:00",
       "dateStr": "07 Aug, 11:03",
       "isNew": true,
-      "id": "she41786100588"
+      "id": "she81786100588"
     },
     {
       "title": "Qëlloi me armë në mes të dasmës, Policia e Kosovës nis hetimet për Labinot Rexhën",
@@ -287,51 +331,7 @@
       "date": "2026-08-07T10:56:48+00:00",
       "dateStr": "07 Aug, 10:56",
       "isNew": true,
-      "id": "she51786100208"
-    },
-    {
-      "title": "Lindja në SHBA nuk garanton më shtetësinë? Trump hap betejën e re",
-      "link": "https://shekulli.com.al/2026/08/07/lindja-ne-shba-nuk-garanton-me-shtetesine-trump-hap-betejen-e-re/",
-      "description": "SHBA- Presidenti amerikan Donald Trump ka ndërmarrë një tjetër hap në kuadër të politikave të tij kundër emigracionit, duke nënshkruar dy urdhra ekzekutivë që synojnë kufizimin e shtetësisë automatike për disa kategori fëmijësh të lindur në territorin e Shteteve të Bashkuara. Masat prekin veçanërish",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T10:48:33+00:00",
-      "dateStr": "07 Aug, 10:48",
-      "isNew": true,
-      "id": "she61786099713"
-    },
-    {
-      "title": "Gonxhja nxjerr shifrat: Në Korrik pati një rritje të ndjeshme të numrit të turistëve, ndikoi koncerti i Kanye West dhe…",
-      "link": "https://shekulli.com.al/2026/08/07/gonxhja-nxjerr-shifrat-ne-korrik-pati-nje-rritje-te-ndjeshme-te-numrit-te-turisteve-ndikoi-koncerti-i-kanye-west-dhe/",
-      "description": "TIRANË- Shqipëria ka regjistruar rritje të numrit të vizitorëve të huaj gjatë muajit korrik 2026, sipas të dhënave të publikuara nga ministri i Kulturës dhe Turizmit, Blendi Gonxhja. Sipas të dhënave që janë bërë publike prej tij, në korrik vendi u vizitua nga 1,955,099 shtetas të huaj, ndërsa në ko",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T10:41:12+00:00",
-      "dateStr": "07 Aug, 10:41",
-      "isNew": true,
-      "id": "she71786099272"
-    },
-    {
-      "title": "Nga vrasja e biznesmenit të kromit, te operacioni i RENEA-s për kapjen e tij, kush është ‘i forti i Bulqizës’ që u ekstradua sot nga Italia",
-      "link": "https://shekulli.com.al/2026/08/07/nga-vrasja-e-biznesmenit-te-kromit-te-operacioni-i-renea-s-per-kapjen-e-tij-kush-eshte-i-forti-i-bulqizes-qe-u-ekstradua-sot-nga-italia/",
-      "description": "BULQIZË- Fadil Tërnova, një emër i njohur për drejtësinë shqiptare, është ekstraduar sot nga Italia, pas arrestimit për llogari të shtetit tonë. Tërnova, i cili njihet dhe me nofkën ‘i forti i Bulqizës’, ka një profil të lartë të lidhur me ngjarje kriminale, përfshirë vrasje, plagosje dhe së fundi “",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T10:12:30+00:00",
-      "dateStr": "07 Aug, 10:12",
-      "isNew": true,
-      "id": "she81786097550"
-    },
-    {
-      "title": "“Do të vijë një pako surprizë”, Prokuroria e Tiranës mbyll hetimet për nigerianin që shtirej si italian, kush ishte viktima e mashtrimit të tij",
-      "link": "https://shekulli.com.al/2026/08/07/do-te-vije-nje-pako-surprize-prokuroria-e-tiranes-mbyll-hetimet-per-nigerianin-qe-shtirej-si-italian-kush-ishte-viktima-e-mashtrimit-te-tij/",
-      "description": "TIRANË&#8211; Prokuroria pranë Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm, Tiranë, përfundoi hetimet dhe ka dërguar në gjyq shtetasin nigerian L.O., për veprën penale të ‘Mashtrimit Kompjuterik’ parashikuar nga nenet 143/b/1 të Kodit Penal. Hetimet mbi procedimin penal nr.2103 të ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T09:51:45+00:00",
-      "dateStr": "07 Aug, 09:51",
-      "isNew": true,
-      "id": "she91786096305"
+      "id": "she91786100208"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
