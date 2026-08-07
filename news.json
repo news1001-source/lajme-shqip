@@ -1,29 +1,205 @@
 {
-  "lastUpdated": "2026-08-07T18:48:13.481512+00:00",
+  "lastUpdated": "2026-08-07T19:48:55.520323+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Ora Salming nderon trashëgiminë e legjendës së Maple Leafs dhe mbledh fonde për bamirësi",
-      "link": "https://24-ore.com/ora-salming-nderon-trashegimine-e-legjendes-se-maple-leafs-dhe-mbledh-fonde-per-bamiresi/",
-      "description": "Familjarët e Borje Salming u mblodhën në Hockey Hall of Fame për të zbuluar orën e veçantë të quajtur Salming 1,148, një homazh për numrin e ndeshjeve që a...",
+      "title": "BEOGRAD – Zelensky mbërrin në Serbi në vizitën e parë në vend",
+      "link": "https://24-ore.com/beograd-zelensky-mberrin-ne-serbi-ne-viziten-e-pare-ne-vend/",
+      "description": "BEOGRAD, 7 gusht /ATSH -AA/ – Presidenti i Ukrainës, Volodymyr Zelenskyy, mbërriti në Serbi, duke shënuar vizitën e tij të parë në vend që nga marrja e detyrës. Zelenskyy konfirmoi mbërritjen e tij në një deklaratë në platformën amerikane të mediave sociale X, duke thënë se për sot dhe të shtunën ka",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-07T18:42:59+00:00",
-      "dateStr": "07 Aug, 18:42",
+      "date": "2026-08-07T19:48:43+00:00",
+      "dateStr": "07 Aug, 19:48",
       "isNew": true,
-      "id": "24 01786128179"
+      "id": "24 01786132123"
     },
     {
-      "title": "VLEN: Korridori 8 po ndërtohet, deklaratat e BDI-së janë me doza ​humori",
-      "link": "https://24-ore.com/vlen-korridori-8-po-ndertohet-deklaratat-e-bdi-se-jane-me-doza-humori/",
-      "description": "VLEN ka reaguar ndaj kritikave të BDI-së për projektet infrastrukturore dhe punimet në Korridorin 8, duke i cilësuar akuzat e opozitës si propagandë dhe pretendime të pabazuara. Në reagim, VLEN ironizon deklaratat e BDI-së, duke thënë se ato janë të mbushura me “trillime” dhe “një dozë të lartë humo",
+      "title": "​Murati-opozitës për seancën konstitutive: Çka kanë sot?",
+      "link": "https://24-ore.com/murati-opozites-per-seancen-konstitutive-cka-kane-sot/",
+      "description": "Ministri në detyrë i Financave Hekuran Murati reagoi ndaj kritikave të opozitës për mosmbajtje sonte të seancës konstituive të Kuvendit të Kosovës brenda afatit kushtetues dhe caktimit për nesër i kësaj seance, që sipas opozitës, është shkelje kushtetuese. “Zgjedhjet e 9 shkurtit 2025 ishin certifik",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-07T18:34:27+00:00",
-      "dateStr": "07 Aug, 18:34",
+      "date": "2026-08-07T19:43:58+00:00",
+      "dateStr": "07 Aug, 19:43",
       "isNew": true,
-      "id": "24 11786127667"
+      "id": "24 11786131838"
+    },
+    {
+      "title": "Lushaku-Sadriu i bën thirrje LVV-së: Kuvendi duhet të konstituohet sonte",
+      "link": "https://24-ore.com/lushaku-sadriu-i-ben-thirrje-lvv-se-kuvendi-duhet-te-konstituohet-sonte/",
+      "description": "Deputetja e Lidhjes Demokratike të Kosovës, Jehona Lushaku-Sadriu, i ka bërë thirrje publike subjektit të parë parlamentar, Lëvizjes Vetëvendosje, që të mundësojë vazhdimin e seancës konstituive dhe përmbylljen e procesit brenda afatit kushtetues. Lushaku-Sadriu, në një prononcim nga oborri i Kuvend",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T19:39:35+00:00",
+      "dateStr": "07 Aug, 19:39",
+      "isNew": true,
+      "id": "24 21786131575"
+    },
+    {
+      "title": "Kakavijë, 5 km radha e automjeteve në tokën greke (VIDEO)",
+      "link": "https://24-ore.com/kakavije-5-km-radha-e-automjeteve-ne-token-greke-video/",
+      "description": "Mbrëmjen e së premtes, personat që udhëtojnë nga Greqia në drejtim të Shqipërisë po përballen me radhë të gjata pritje në tokën greke. Radha e automjeteve që presin për tu përpunuar në sportelet e doganës greke ka arritur në rreth 5 kilometra.Qindra udhëtarë që vijnë drejt Shqipërisë po përballen me",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T19:39:23+00:00",
+      "dateStr": "07 Aug, 19:39",
+      "isNew": true,
+      "id": "24 31786131563"
+    },
+    {
+      "title": "Gjykata ‘frenon’ Trump, ndal përkohësisht ndërtimin e sallës së re në Shtëpinë e Bardhë",
+      "link": "https://abcnews.al/gjykata-frenon-trump-ndal-perkohesisht-ndertimin-e-salles-se-re-ne-shtepine-e-bardhe/",
+      "description": "Një gjykatë federale e Apelit në Shtetet e Bashkuara ka urdhëruar administratën e presidentit Donald Trump të ndalojë përkohësisht ndërtimin e sallës së re të vallëzimit me vlerë 400 milionë dollarë në kompleksin e Shtëpisë së Bardhë, duke i dhënë një goditje të rëndësishme projektit dhe duke hapur ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T19:39:17+00:00",
+      "dateStr": "07 Aug, 19:39",
+      "isNew": true,
+      "id": "abc01786131557"
+    },
+    {
+      "title": "Marash Kumbulla prezantohet në klubin e ri! Mbetet përsëri në Spanjë, por ndërron ekip",
+      "link": "https://24-ore.com/marash-kumbulla-prezantohet-ne-klubin-e-ri-mbetet-perseri-ne-spanje-por-nderron-ekip/",
+      "description": "Marash Kumbulla ka siguruar sot kthimin për edicionin e tretë radhazi në kampionatin spanjoll të futbollit. Pas eksperiencave me Espanjol dhe Majorka, mbrojtësi i Kombëtares shqiptare është prezantuar sot si futbollisti më i ri i Rajo Vajekanos. “Marash Kumbulla është një futbollist i ri i Rajo Vaje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T19:32:37+00:00",
+      "dateStr": "07 Aug, 19:32",
+      "isNew": true,
+      "id": "24 41786131157"
+    },
+    {
+      "title": "Harta e zjarreve në vend, Ministria e Mbrojtjes përditëson situatën: Po monitorojmë 9 vatra, ja më problematiket!",
+      "link": "https://24-ore.com/harta-e-zjarreve-ne-vend-ministria-e-mbrojtjes-perditeson-situaten-po-monitorojme-9-vatra-ja-me-problematiket/",
+      "description": "Lufta me zjarret po vijon në të gjithë vendin, si nga toka ashtu edhe nga ajri. Ministria e Mbrojtjes ka bërë një përditësim mbi situatën e zjarreve në vend, duke njoftuar se “gjatë ditës së sotme janë ndjekur 9 vatra zjarri në zona të ndryshme të Shqipërisë”. Sipas ministrisë, ndërhyrja e koordinua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T19:32:05+00:00",
+      "dateStr": "07 Aug, 19:32",
+      "isNew": true,
+      "id": "24 51786131125"
+    },
+    {
+      "title": "Pentagoni publikon dosje të reja për UFO: Një trekëndësh bllokoi qiellin në 2002",
+      "link": "https://abcnews.al/pentagoni-publikon-dosje-te-reja-per-ufo-nje-trekendesh-bllokoi-qiellin-ne-2002/",
+      "description": "Pentagoni publikoi një grumbull të ri dokumentesh dhe imazhesh që lidhen me UFO, të njohura edhe si fenomene anomale të paidentifikuara ose UAP, duke përfshirë kujtimin e një piloti ushtarak për një trekëndësh të madh e të çuditshëm që bllokoi yjet mbi Afganistan në vitin 2002. 41 dosjet e reja, të ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T19:26:46+00:00",
+      "dateStr": "07 Aug, 19:26",
+      "isNew": true,
+      "id": "abc11786130806"
+    },
+    {
+      "title": "Negociatat e dështuara për formimin e institucioneve, PDK dhe LDK – Vetëvendosjes: Seanca konstituive të mbahet sot",
+      "link": "https://shekulli.com.al/2026/08/07/kosove-negocitat-e-deshtuara-per-formimin-e-institucioneve-pdk-dhe-ldk-vetevendosjes-seanca-konstituive-te-mbahet-sot-para-skadimit-te-afatit-kushtetues/",
+      "description": "Pas dështimit të përpjekjeve për arritjen e një marrëveshjeje për formimin e institucioneve të reja në Kosovë, Partia Demokratike e Kosovës (PDK) dhe Lidhja Demokratike e Kosovës (LDK) i kanë bërë thirrje Lëvizjes Vetëvendosje që seanca konstituive e Kuvendit të mbahet gjatë ditës së sotme. PDK ka m",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T19:24:48+00:00",
+      "dateStr": "07 Aug, 19:24",
+      "isNew": true,
+      "id": "she01786130688"
+    },
+    {
+      "title": "Pikat kryesore nga kampet stërvitore 2026 për të 32 skuadrat",
+      "link": "https://24-ore.com/pikat-kryesore-nga-kampet-stervitore-2026-per-te-32-skuadrat/",
+      "description": "Me mbërritjen e mbrojtëseve dhe nisjen e përplasjeve të para, kampet stërvitore të 2026 kanë nxjerrë sinjale të qarta për disa skuadra, por edhe pyetje të...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T19:22:33+00:00",
+      "dateStr": "07 Aug, 19:22",
+      "isNew": true,
+      "id": "24 61786130553"
+    },
+    {
+      "title": "Vittoria Ceretti përditëson stilin e daljeve të shkurtra gjatë pushimeve në Ibiza",
+      "link": "https://24-ore.com/vittoria-ceretti-perditeson-stilin-e-daljeve-te-shkurtra-gjate-pushimeve-ne-ibiza/",
+      "description": "Vittoria Ceretti po shijon pushimet në ishullin e Ibizës dhe u shfaq e veshur me stil ndërsa bënte pazare të thjeshta të mërkurën pasdite; ajo ishte në sho...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T19:20:53+00:00",
+      "dateStr": "07 Aug, 19:20",
+      "isNew": true,
+      "id": "24 71786130453"
+    },
+    {
+      "title": "Flakët shkrumbojnë makinën në mes të Fierit, nuk ka të lënduar! Shkak dyshohet një shkëndijë elektrike",
+      "link": "https://24-ore.com/flaket-shkrumbojne-makinen-ne-mes-te-fierit-nuk-ka-te-lenduar-shkak-dyshohet-nje-shkendije-elektrike/",
+      "description": "Zjarret nuk kursejnë as mjetet motorike në këtë vapë ekstreme që po përjeton vendi. Një automjet tip ‘Ford’ është përfshirë nga flakët mbrëmjen e sotme në zonën e Zogut të Zi, në Fier. Sipas informacioneve paraprake, drejtuesi i mjetit ka konstatuar tym që dilte nga kofanoja dhe ka ndaluar menjëherë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T19:20:43+00:00",
+      "dateStr": "07 Aug, 19:20",
+      "isNew": true,
+      "id": "24 81786130443"
+    },
+    {
+      "title": "Belgjika do të dërgojë trupa në Grenlandë",
+      "link": "https://24-ore.com/belgjika-do-te-dergoje-trupa-ne-grenlande/",
+      "description": "Ministri belg i Mbrojtjes, Theo Francken, njoftoi se 30 ushtarë belgë do të vendosen në Groenlandë midis 4 dhe 18 shtatorit. Francken e bëri deklaratën për transmetuesin publik në gjuhën frënge RTBF gjatë një vizite në Islandë. Francken deklaroi se 30 ushtarë belgë do të vendosen në Groenlandë midis",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T19:19:44+00:00",
+      "dateStr": "07 Aug, 19:19",
+      "isNew": true,
+      "id": "24 91786130384"
+    },
+    {
+      "title": "Zjarret, 9 vatra në zona të ndryshme të vendit/ Si paraqitet situata",
+      "link": "https://abcnews.al/zjarret-9-vatra-ne-zona-te-ndryshme-te-vendit-si-paraqitet-situata/",
+      "description": "Ministria e Mbrojtjes informon se gjatë ditës së sotme janë ndjekur 9 vatra zjarri në zona të ndryshme të vendit. Falë ndërhyrjes së koordinuar të strukturave operacionale nga toka dhe ajri, situata është përmirësuar ndjeshëm dhe aktualisht nuk raportohet asnjë situatë problematike apo rrezik për zo",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-07T19:18:27+00:00",
+      "dateStr": "07 Aug, 19:18",
+      "isNew": true,
+      "id": "abc21786130307"
+    },
+    {
+      "title": "Shuhen zjarret në Dajt dhe Priskë, vihen nën kontroll vatrat në Mallakastër, Çikallesh e Plan i Bardhë",
+      "link": "https://shekulli.com.al/2026/08/07/shuhen-zjarret-ne-dajt-dhe-priske-vihen-nen-kontroll-vatrat-ne-mallakaster-cikallesh-e-plan-i-bardhe/",
+      "description": "Operacionet për shuarjen e zjarreve kanë vijuar në disa qarqe të vendit, me angazhimin e strukturave vendore dhe Forcave të Armatosura. Agjencia për Media dhe Informim bëri me dije se në zonat e Dajtit dhe Priskës zjarret janë shuar plotësisht. Ndërkohë, në Çikallesh të Kavajës dhe në Mallakastër, v",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T19:17:54+00:00",
+      "dateStr": "07 Aug, 19:17",
+      "isNew": true,
+      "id": "she11786130274"
+    },
+    {
+      "title": "E pazakontë, ariu hyn në një teqe në Devoll, shkakton dëme",
+      "link": "https://shekulli.com.al/2026/08/07/e-pazakonte-ariu-hyn-ne-nje-teqe-ne-devoll-shkakton-deme/",
+      "description": "Një ari ka hyrë në një objekt të shenjtë (teqe) në fshatin Dobërgorë, në Bashkinë Devoll, duke shkaktuar dëme të shumta materiale. Sipas banorëve të zonës, kafsha e egër ka hyrë brenda objektit, ku ka shkatërruar orendi dhe sende të tjera që ndodheshin në ambientet e teqesë. Dobërgora njihet si një ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T19:00:19+00:00",
+      "dateStr": "07 Aug, 19:00",
+      "isNew": true,
+      "id": "she21786129219"
+    },
+    {
+      "title": "Çfarë ndodh nëse Kuvendi i Kosovës nuk konstituohet deri në mesnatë?",
+      "link": "https://shekulli.com.al/2026/08/07/cfare-ndodh-nese-kuvendi-i-kosoves-nuk-konstituohet-deri-ne-mesnate/",
+      "description": "Deputetët e rinj të Kuvendit të Kosovës kanë vetëm edhe disa orë deri në përfundimin, të premten në mesnatë, të afatit 30-ditor të caktuar nga Gjykata Kushtetuese për përfundimin e seancës konstituive të organit ligjvënës. Megjithatë, kryesuesi i seancës, Avni Dehari, ka vendosur që vazhdimi i saj t",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T18:52:52+00:00",
+      "dateStr": "07 Aug, 18:52",
+      "isNew": true,
+      "id": "she31786128772"
+    },
+    {
+      "title": "Protesta e 69-të radhazi kundër qeverisë, protestuesit: Dorëheqja e Kryeministrit mbetet kërkesë e panegociueshme",
+      "link": "https://shekulli.com.al/2026/08/07/protesta-e-69-te-radhazi-kunder-qeverise-protestuesit-doreheqja-e-kryeministrit-mbetet-kerkese-e-panegociueshme/",
+      "description": "TIRANË &#8211; Qytetarë u mblodhën edhe këtë të premte, më 7 gusht, para godinës së Kryeministrisë në protestën e 69-të radhazi kundër qeverisë, të njohur si ‘Revolucioni i Flamingove’. Gjatë tubimit, një nga protestuesit deklaroi se lëvizja do të vijojë deri në realizimin e kërkesës kryesore, duke ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-07T18:49:39+00:00",
+      "dateStr": "07 Aug, 18:49",
+      "isNew": true,
+      "id": "she41786128579"
     },
     {
       "title": "Emrat/ Tragjedi në Gjermani, kush janë tre anëtarët e familjes shqiptare që u shuan në aksident",
@@ -34,29 +210,18 @@
       "date": "2026-08-07T18:32:37+00:00",
       "dateStr": "07 Aug, 18:32",
       "isNew": true,
-      "id": "she01786127557"
+      "id": "she51786127557"
     },
     {
-      "title": "Kosovë, deputetët e PDK mblidhen në Kuvend, LDK dhe AAK thirrje Kurtit që të thërrasë sonte seancën e konstituimit e të",
-      "link": "https://24-ore.com/kosove-deputetet-e-pdk-mblidhen-ne-kuvend-ldk-dhe-aak-thirrje-kurtit-qe-te-therrase-sonte-seancen-e-konstituimit-e-te/",
-      "description": "Kosova rrezikon të hyjë përsëri në një krizë të thellë institucionale dhe konstitucionale, që mund ta çojë drejt zgjedhjeve të parakohshme të radhës. Deputetët e Partisë Demokratike të Kosovës (PDK) janë mbledhur në Kuvend, vetëm pak orë para skadimit të afatit kushtetues për konstituimin e legjisla",
-      "source": "24 ORE",
+      "title": "AI krijon viruse që luftojnë bakteret rezistente, ekspertët ngrejnë alarmin për rreziqet e sigurisë",
+      "link": "https://abcnews.al/ai-krijon-viruse-qe-luftojne-bakteret-rezistente-ekspertet-ngrejne-alarmin-per-rreziqet-e-sigurise/",
+      "description": "Shkencëtarët në Shtetet e Bashkuara kanë përdorur inteligjencën artificiale për të krijuar viruse të afta të shkatërrojnë bakteret e rrezikshme, një zhvillim që mund të hapë rrugën për trajtime të reja kundër infeksioneve rezistente ndaj antibiotikëve. Studiuesit e Universitetit Stanford përdorën mo",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-07T18:32:25+00:00",
-      "dateStr": "07 Aug, 18:32",
+      "date": "2026-08-07T18:30:25+00:00",
+      "dateStr": "07 Aug, 18:30",
       "isNew": true,
-      "id": "24 21786127545"
-    },
-    {
-      "title": "Aleanca kërkon seancë të jashtëzakonshme sonte për konstituimin e Kuvendit",
-      "link": "https://24-ore.com/aleanca-kerkon-seance-te-jashtezakonshme-sonte-per-konstituimin-e-kuvendit/",
-      "description": "Aleanca ka kërkuar që Kuvendi i Kosovës të mblidhet sonte në seancë të jashtëzakonshme, me synimin që procesi i konstituimit të përfundojë brenda afatit të përcaktuar. Shefi i Grupit Parlamentar të Aleancës, Besnik Tahiri, tha se kërkesa është bërë në koordinim me grupet e tjera parlamentare dhe se ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T18:24:36+00:00",
-      "dateStr": "07 Aug, 18:24",
-      "isNew": true,
-      "id": "24 31786127076"
+      "id": "abc31786127425"
     },
     {
       "title": "Fier/ Makina përfshihet nga flakët, shkak dyshohet një shkëndijë në pjesën e baterisë",
@@ -67,73 +232,7 @@
       "date": "2026-08-07T18:22:30+00:00",
       "dateStr": "07 Aug, 18:22",
       "isNew": true,
-      "id": "abc01786126950"
-    },
-    {
-      "title": "Ora luksoze ‘Rolex’ dhe 36 pako me puro, Dogana i sekuestron në hyrje të Portit të Durrësi!",
-      "link": "https://24-ore.com/ora-luksoze-rolex-dhe-36-pako-me-puro-dogana-i-sekuestron-ne-hyrje-te-portit-te-durresi/",
-      "description": "Parandalohet tentativa e kontrabandimit të orave luksoze dhe purove nga Porti i Durrësit. Dy ora dore me mbishkrimin ‘Rolex’ dhe 351 cigare puro, të markave të ndryshme, të ndara në 36 kuti dhe të padeklaruara, u përpoqën të hynin në Portin e Durrësit ditën e sotme dhe u sekuestruan, teksa po hetohe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T18:21:05+00:00",
-      "dateStr": "07 Aug, 18:21",
-      "isNew": true,
-      "id": "24 41786126865"
-    },
-    {
-      "title": "Zjarri në Plan të Matit shkrumbon 3 shtëpi, rrezikohen dhe dy të tjera, zbulohet shkaku i dyshuar!",
-      "link": "https://24-ore.com/zjarri-ne-plan-te-matit-shkrumbon-3-shtepi-rrezikohen-dhe-dy-te-tjera-zbulohet-shkaku-i-dyshuar/",
-      "description": "Zjarret nuk kanë të sosur në Shqipëri, duke shkaktuar katastrofë mjedisore dhe natyrore, por edhe tek banorët. Një zjarr i madh ka përfshirë sot pasdite (7 gusht) edhe fshatin Plani Bardhë, në Klos të Matit, duke shkaktuar dëme materiale. Sipas informacioneve paraprake, tre banesa janë djegur, ndërs",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T18:20:54+00:00",
-      "dateStr": "07 Aug, 18:20",
-      "isNew": true,
-      "id": "24 51786126854"
-    },
-    {
-      "title": "Amorim, koha për të zgjedhur te Milani: Duhet të marr disa vendime, jemi shumë",
-      "link": "https://24-ore.com/amorim-koha-per-te-zgjedhur-te-milani-duhet-te-marr-disa-vendime-jemi-shume/",
-      "description": "Pas kampit stërvitor dhe turneut veror, trajneri i ri i Milanit, Amorim, po bën një bilanc të punës. Me dy javë që kanë mbetur deri në fillimin e sezonit, ka sqaruar strategjinë e tij, e cila domosdoshmërisht do të përfshijë disa shkurtime të dhimbshme. Janë mbi tridhjetë lojtarë në skuadër, shumë p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T18:20:20+00:00",
-      "dateStr": "07 Aug, 18:20",
-      "isNew": true,
-      "id": "24 61786126820"
-    },
-    {
-      "title": "Zyrtare: Kumbulla huazohet te Rayo Vallecano",
-      "link": "https://24-ore.com/zyrtare-kumbulla-huazohet-te-rayo-vallecano/",
-      "description": "Mbrojtësi i kombëtares Marash Kumbulla është transferuar në kampionatin spanjoll, arty ku këtë sezon do të luajë për Rayo Vallecanon. 26-vjeçari është huazuar nga Roma te klubi spanjoll. Kumbulla ka luajtur me Majorkën dhe Espanjolin në Laliga dy sezonet e fundit, i huazuar nga skuadra verdhekuqe, q",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T18:20:08+00:00",
-      "dateStr": "07 Aug, 18:20",
-      "isNew": true,
-      "id": "24 71786126808"
-    },
-    {
-      "title": "Tirana barazon me Eyüpspor AȘ, Xhixha gabon nga pika e penalltisë",
-      "link": "https://24-ore.com/tirana-barazon-me-eyupspor-as-xhixha-gabon-nga-pika-e-penalltise/",
-      "description": "Dy miqësore brenda ditës. Pas barazimit 2-2 me Al Ittihad(golat u shënuan nga Ardit Krymi dhe Erdon Daci), Tirana ka barazuar 1-1 me skuadrën e superligës turke, Eyüpspor AȘ. Për bardheblutë realizoi Patrik Myslovic me penallti, ndërkohë që në fundin e takimit Xhixha gaboi nga pika e bardhë. Njoftim",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T18:19:53+00:00",
-      "dateStr": "07 Aug, 18:19",
-      "isNew": true,
-      "id": "24 81786126793"
-    },
-    {
-      "title": "Një huazim i Hirving “Chucky” Lozano, LA Galaxy forcojnë sulmin nga San Diego FC",
-      "link": "https://24-ore.com/nje-huazim-i-hirving-chucky-lozano-la-galaxy-forcojne-sulmin-nga-san-diego-fc/",
-      "description": "LA Galaxy njoftoi të premten marrëveshjen për të huazuar sulmuesin Hirving “Chucky” Lozano nga San Diego FC, një lëvizje që synon të forcojë repartin sulmu...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T18:15:45+00:00",
-      "dateStr": "07 Aug, 18:15",
-      "isNew": true,
-      "id": "24 91786126545"
+      "id": "abc41786126950"
     },
     {
       "title": "Tirana Live me Rovena Neziri, (07/08/2026)",
@@ -144,7 +243,7 @@
       "date": "2026-08-07T18:01:59+00:00",
       "dateStr": "07 Aug, 18:01",
       "isNew": true,
-      "id": "abc11786125719"
+      "id": "abc51786125719"
     },
     {
       "title": "Radhë kilometrike në aksin Tiranë – Elbasan dhe autostradën Tiranë – Durrës, qytetarja për Shekullin: Kemi një orë në trafik, ka fëmijë e të moshuar",
@@ -155,7 +254,7 @@
       "date": "2026-08-07T17:53:40+00:00",
       "dateStr": "07 Aug, 17:53",
       "isNew": true,
-      "id": "she11786125220"
+      "id": "she61786125220"
     },
     {
       "title": "Trump: Nuk do ta lejojmë Kinën të na mposhtë në Al dhe kripto",
@@ -166,7 +265,7 @@
       "date": "2026-08-07T17:51:11+00:00",
       "dateStr": "07 Aug, 17:51",
       "isNew": true,
-      "id": "abc21786125071"
+      "id": "abc61786125071"
     },
     {
       "title": "Prapaskenat/ Negociatat e dështuara në Kosovë, LDK kërkon Presidentin për Vjosa Osmanin, Kurti i ofron vetëm ministri",
@@ -177,7 +276,7 @@
       "date": "2026-08-07T17:36:42+00:00",
       "dateStr": "07 Aug, 17:36",
       "isNew": true,
-      "id": "she21786124202"
+      "id": "she71786124202"
     },
     {
       "title": "Konfirmohet varri i tretë masiv në Zubin Potok, autoritetet e Kosovës identifikojnë mbetje mortore",
@@ -188,7 +287,7 @@
       "date": "2026-08-07T17:27:08+00:00",
       "dateStr": "07 Aug, 17:27",
       "isNew": true,
-      "id": "she31786123628"
+      "id": "she81786123628"
     },
     {
       "title": "Përplasje në BE, shtatë vende kritikojnë Slloveninë për emërimin e Tanja Fajon në një post të lartë",
@@ -199,7 +298,7 @@
       "date": "2026-08-07T17:21:00+00:00",
       "dateStr": "07 Aug, 17:21",
       "isNew": true,
-      "id": "she41786123260"
+      "id": "she91786123260"
     },
     {
       "title": "Rreth 100 të vdekur nga përmbytjet në Indi",
@@ -210,18 +309,7 @@
       "date": "2026-08-07T17:17:01+00:00",
       "dateStr": "07 Aug, 17:17",
       "isNew": true,
-      "id": "abc31786123021"
-    },
-    {
-      "title": "A i ka fryrë shifrat Pacolli? Biznesmeni ka financuar vetëm 5.7 mln euro për ndërtimin e Aeroportit nga paratë e veta, edhe ato si hua",
-      "link": "https://shekulli.com.al/2026/08/07/a-i-ka-fryre-shifrat-pacolli-biznesmeni-ka-financuar-vetem-5-7-mln-euro-per-ndertimin-e-aeroportit-nga-parate-e-veta-edhe-ato-si-hua/",
-      "description": "VLORË- Që kur shpërtheu konflikti mes dy aksionerëve në Aeroportin e Vlorës, qytetarët shqiptarë janë bombarduar me shifra pompoze mbi investimin në këtë projekt. Por cila është e vërteta sipas dokumentave zyrtare. Të dhënat nga bilanci zyrtar tregojnë se deri në fund të vitit të kaluar, totali i ak",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T17:01:00+00:00",
-      "dateStr": "07 Aug, 17:01",
-      "isNew": true,
-      "id": "she51786122060"
+      "id": "abc71786123021"
     },
     {
       "title": "Arben Meçe: Heqja e tabelës në shqip në Tabanoc, faktor destabilizues për rajonin",
@@ -232,18 +320,7 @@
       "date": "2026-08-07T16:49:07+00:00",
       "dateStr": "07 Aug, 16:49",
       "isNew": true,
-      "id": "abc41786121347"
-    },
-    {
-      "title": "Bie pista e atentatit? Gjykata jep masat e sigurisë për 5 të rinjtë që u kapën me armë në Sarandë",
-      "link": "https://shekulli.com.al/2026/08/07/bie-pista-e-atentatit-gjykata-jep-masat-e-sigurise-per-5-te-rinjte-qe-u-kapen-me-arme-ne-sarande/",
-      "description": "SARANDË&#8211; Është zhvilluar pas mesditës së sotme seanca për caktimin e masës së sigurisë ndaj 5 personave të arrestuar mbrëmjen e së hënës në fshatin Gjashtë të Sarandës me dy armë zjarri pistoletë. 26-vjeçari Alfred Kaja dhe 33-vjeçari Sidorel Moriseni, dolën para gjyqtarit Mexhit Doço si të dy",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T16:48:15+00:00",
-      "dateStr": "07 Aug, 16:48",
-      "isNew": true,
-      "id": "she61786121295"
+      "id": "abc81786121347"
     },
     {
       "title": "Zjarr në fshatin Plani Bardhë të Matit, digjen tre banesa",
@@ -254,84 +331,7 @@
       "date": "2026-08-07T16:46:29+00:00",
       "dateStr": "07 Aug, 16:46",
       "isNew": true,
-      "id": "abc51786121189"
-    },
-    {
-      "title": "Kriza në familjen Beckham/ Brooklyn dhe Nicola Peltz nuk festojnë më përvjetorin e martesës, shkak Victoria",
-      "link": "https://shekulli.com.al/2026/08/07/kriza-ne-familjen-beckham-brooklyn-dhe-nicola-peltz-nuk-festojne-me-pervjetorin-e-marteses-shkak-victoria/",
-      "description": "Kriza familjare në familjen Beckham duket se vazhdon, ndërsa Brooklyn Beckham dhe bashkëshortja e tij Nicola Peltz kanë vendosur të mos e shënojnë më përvjetorin e martesës sipas datës së ceremonisë së parë, në një lëvizje që lidhet me konfliktin e tyre të gjatë me Victoria Beckham. Çifti u martua f",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T16:41:39+00:00",
-      "dateStr": "07 Aug, 16:41",
-      "isNew": true,
-      "id": "she71786120899"
-    },
-    {
-      "title": "Ballkan Update me Habi Hoxha, (07/08/2026)",
-      "link": "https://abcnews.al/ballkan-update-me-habi-hoxha-07-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T16:38:59+00:00",
-      "dateStr": "07 Aug, 16:38",
-      "isNew": true,
-      "id": "abc61786120739"
-    },
-    {
-      "title": "Zjarr i madh në Grizë, përfshihen nga flakët ullishtet",
-      "link": "https://abcnews.al/zjarr-i-madh-ne-grize-perfshihen-nga-flaket-ullishtet/",
-      "description": "Një zjarr i përmasave të mëdha ka përfshirë një masiv me ullishte në fshatin Grizë, pranë Borizanës, duke shkaktuar edhe djegien e një banese. Vatra e zjarrit është aktivizuar prej mesditës së sotme dhe është përhapur me shpejtësi në plantacionet me ullinj. Në vendngjarje janë angazhuar tre mjete zj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T16:33:57+00:00",
-      "dateStr": "07 Aug, 16:33",
-      "isNew": true,
-      "id": "abc71786120437"
-    },
-    {
-      "title": "Gjykata bllokon ndërtimin e sallës 400 milionë dollarëshe të Trumpit në Shtëpinë e Bardhë",
-      "link": "https://abcnews.al/gjykata-bllokon-ndertimin-e-salles-400-milione-dollareshe-te-trumpit-ne-shtepine-e-bardhe/",
-      "description": "Gjykata e apelit në SHBA ka bllokuar sallën e vallëzimit të Shtëpisë së Bardhë të Donald Trump, e cila kushton 400 milionë dollarë. Gjykata federale e apelit urdhëroi administratën Trump të ndalonte ndërtimin e sallës së vallëzimit në vendin e Krahut Lindor të Shtëpisë së Bardhë, i cili ishte shembu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T16:30:03+00:00",
-      "dateStr": "07 Aug, 16:30",
-      "isNew": true,
-      "id": "abc81786120203"
-    },
-    {
-      "title": "Greqia me të njëjtën skemë/ Punon me 1 ose 2 sportele në kulmin e sezonit, mijëra shqiptarë presin në radhë për të kaluar kufirin",
-      "link": "https://shekulli.com.al/2026/08/07/greqia-me-te-njejten-skeme-punon-me-1-ose-2-sportele-ne-kulmin-e-sezonit-mijera-shqiptare-presin-ne-radhe-per-te-kaluar-kufirin/",
-      "description": "GREQI- Radhë të gjata automjetesh janë krijuar në Pikën e Kalimit Kufitar të Kakavijës, ku fluksi i lartë i udhëtarëve ka shkaktuar pritje të konsiderueshme për qytetarët që po hyjnë në Shqipëri nga Greqia. Sipas raportimeve nga terreni, kolonat e automjeteve gjatë pasdites kanë arritur deri në rret",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T15:50:37+00:00",
-      "dateStr": "07 Aug, 15:50",
-      "isNew": true,
-      "id": "she81786117837"
-    },
-    {
-      "title": "Gjykata lë në burg dy të arrestuarit me armë në Sarandë, tre të tjerë në arrest shtëpie",
-      "link": "https://abcnews.al/gjykata-le-ne-burg-dy-te-arrestuarit-me-arme-ne-sarande-tre-te-tjere-ne-arrest-shtepie/",
-      "description": "Eshte zhvilluar pas mesditës së sotme seanca për caktimin e masës së sigurisë ndaj 5 personave të arrestuar mbrëmjen e së hënës në fshatin Gjashtë të Sarandës me dy armë zjarri pistoletë. Para gjyqtarit Mexhit Doci dolën 26-vjeçari Alfred Kaja dhe 33-vjeçari Sidorel Moriseni, të dyshuar për “armëmba",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-07T15:48:50+00:00",
-      "dateStr": "07 Aug, 15:48",
-      "isNew": true,
-      "id": "abc91786117730"
-    },
-    {
-      "title": "Aksident i rëndë në Berat, 6 të plagosur, 2 dërgohen te Trauma. Mjeti doli nga rruga teksa ngjiste Malin e Tomorrit",
-      "link": "https://shekulli.com.al/2026/08/07/aksident-i-rende-ne-berat-6-te-plagosur-2-dergohen-te-trauma-mjeti-doli-nga-rruga-teksa-ngjiste-malin-e-tomorrit/",
-      "description": "BERAT- Një aksident ka ndodhur sot përgjatë rrugës drejt Malit të Tomorrit, në fshatin Kapinovë. Mjeti, me targa AB 709 EH, që drejtohej nga shtetasi Dritan Muço, ka dalë nga rruga në vendin e quajtur &#8220;Sheshi i Danit&#8221;, në hyrje të fshatit Kapinovë. Si pasojë e aksidentit janë plagosur sh",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-07T15:34:51+00:00",
-      "dateStr": "07 Aug, 15:34",
-      "isNew": true,
-      "id": "she91786116891"
+      "id": "abc91786121189"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
