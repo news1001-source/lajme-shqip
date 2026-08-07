@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-08-07T21:33:58.075695+00:00",
+  "lastUpdated": "2026-08-07T22:29:36.461576+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Rhea Ripley njofton për operacionin e gju dhe publikon foto me ortozë",
+      "link": "https://24-ore.com/rhea-ripley-njofton-per-operacionin-e-gju-dhe-publikon-foto-me-ortoze/",
+      "description": "Rhea Ripley, kampionia e femrave në WWE, bëri me dije të enjten se iu nënshtrua një operacioni pas një dëmtimi të gjurit që e detyroi të mungojë në SummerS...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T22:11:42+00:00",
+      "dateStr": "07 Aug, 22:11",
+      "isNew": true,
+      "id": "24 01786140702"
+    },
+    {
+      "title": "Kevin Love shpreh interes për ribashkim me LeBron James te 76ers",
+      "link": "https://24-ore.com/kevin-love-shpreh-interes-per-ribashkim-me-lebron-james-te-76ers/",
+      "description": "Kevin Love ka shfaqur interes për t’u ribashkuar me LeBron James dhe të luajë përsëri në të njëjtën skuadër, por një vend në rosterin e Philadelphia 76ers...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T22:06:22+00:00",
+      "dateStr": "07 Aug, 22:06",
+      "isNew": true,
+      "id": "24 11786140382"
+    },
+    {
+      "title": "Përmbledhje e lajmeve kryesore: kontrata, nënshkrime dhe ngjarje nga kampet përgatitore",
+      "link": "https://24-ore.com/permbledhje-e-lajmeve-kryesore-kontrata-nenshkrime-dhe-ngjarje-nga-kampet-pergatitore/",
+      "description": "Tennessee Titans njoftuan zgjatjen e kontratës së linjës offensive Peter Skoronski, që e bën atë një nga guardët më të paguar, me një marrëveshje katërvjeç...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T22:01:42+00:00",
+      "dateStr": "07 Aug, 22:01",
+      "isNew": true,
+      "id": "24 21786140102"
+    },
+    {
+      "title": "LDK largohet nga Kuvendi, Haziri: Kërkuam që seanca konstituive të mbahet sonte",
+      "link": "https://24-ore.com/ldk-largohet-nga-kuvendi-haziri-kerkuam-qe-seanca-konstituive-te-mbahet-sonte/",
+      "description": "Nënkryetari i Lidhjes Demokratike të Kosovës (LDK), Lutfi Haziri, ka thënë se partia e tij ka kërkuar që seanca konstituive e Kuvendit të vazhdojë sonte deri në mesnatë, me synim respektimin e afatit kushtetues. Në një prononcim nga holli i Kuvendit, Haziri tha se qëndrimi i LDK-së bazohet në respek",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-07T21:44:06+00:00",
+      "dateStr": "07 Aug, 21:44",
+      "isNew": true,
+      "id": "24 31786139046"
+    },
     {
       "title": "Arrowhead Stadium rikthen emrin klasik pas heqjes së ‘GEHA Field’",
       "link": "https://24-ore.com/arrowhead-stadium-rikthen-emrin-klasik-pas-heqjes-se-geha-field/",
@@ -12,7 +56,7 @@
       "date": "2026-08-07T21:21:51+00:00",
       "dateStr": "07 Aug, 21:21",
       "isNew": true,
-      "id": "24 01786137711"
+      "id": "24 41786137711"
     },
     {
       "title": "Deputetët mblidhen, dera e sallës së Kuvendit e mbyllur",
@@ -23,7 +67,7 @@
       "date": "2026-08-07T21:20:45+00:00",
       "dateStr": "07 Aug, 21:20",
       "isNew": true,
-      "id": "24 11786137645"
+      "id": "24 51786137645"
     },
     {
       "title": "9 vatra zjarri në vend, Ministria e Mbrojtjes: S’ka rrezik për zonat e banuara",
@@ -34,7 +78,7 @@
       "date": "2026-08-07T21:20:29+00:00",
       "dateStr": "07 Aug, 21:20",
       "isNew": true,
-      "id": "24 21786137629"
+      "id": "24 61786137629"
     },
     {
       "title": "Tre vatra zjarri në Gramsh, zjarrfikësit përballen me flakët në terren të vështirë (VIDEO)",
@@ -45,7 +89,7 @@
       "date": "2026-08-07T21:20:15+00:00",
       "dateStr": "07 Aug, 21:20",
       "isNew": true,
-      "id": "24 31786137615"
+      "id": "24 71786137615"
     },
     {
       "title": "Protesta hyn në ditën e 69-të, qytetarët marshojnë në rrugët e Tiranës",
@@ -56,7 +100,7 @@
       "date": "2026-08-07T21:20:00+00:00",
       "dateStr": "07 Aug, 21:20",
       "isNew": true,
-      "id": "24 41786137600"
+      "id": "24 81786137600"
     },
     {
       "title": "Shkrumbohet një banesë në Shkodër, zjarrfikësit neutralizojnë flakët",
@@ -67,51 +111,7 @@
       "date": "2026-08-07T21:19:50+00:00",
       "dateStr": "07 Aug, 21:19",
       "isNew": true,
-      "id": "24 51786137590"
-    },
-    {
-      "title": "Ballistët socialistë si barcoletë shkodrane",
-      "link": "https://24-ore.com/ballistet-socialiste-si-barcolete-shkodrane/",
-      "description": "Nga Frrok Çupi Kur nisi revolta e socialistëve u duk sikur u kishte shkuar dhimbja në rrashtë për fatet e vendit. Nisën vajet me llahinga. Puthnin tokën dhe i flisnin në vesh: “O tokë që më mbajte zyrën, postin dhe hallallin. O tokë mos më tradhto!’ Lutu tokës e falu kokës. -Do të na mbulojnë/ [&#82",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T21:19:45+00:00",
-      "dateStr": "07 Aug, 21:19",
-      "isNew": true,
-      "id": "24 61786137585"
-    },
-    {
-      "title": "Ariu futet në objektin e shenjtë në Devoll, shkatërron çfarë i del përpara (VIDEO)",
-      "link": "https://24-ore.com/ariu-futet-ne-objektin-e-shenjte-ne-devoll-shkaterron-cfare-i-del-perpara-video/",
-      "description": "Një ari ka hyrë në objektin e shenjtë në fshatin Dobërgorë të Devollit, një vend i njohur si simbol i bashkëjetesës fetare mes të krishterëve dhe myslimanëve, duke shkaktuar dëme të konsiderueshme. Sipas banorëve të zonës, kafsha e egër ka shkatërruar gjithçka që i ka dalë përpara brenda ndërtesës, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T21:19:37+00:00",
-      "dateStr": "07 Aug, 21:19",
-      "isNew": true,
-      "id": "24 71786137577"
-    },
-    {
-      "title": "KINEMA – Spider-Man: Brand New Day” arkëton 500 milionë dollarë në vetëm 7 ditë",
-      "link": "https://24-ore.com/kinema-spider-man-brand-new-day-arketon-500-milione-dollare-ne-vetem-7-dite/",
-      "description": "LOS ANXHELES, 7 gusht /ATSH -AA/ – Spider-Man: Brand New Day” kaloi shifrën prej 500 milionë dollarësh në arkëtimet në Amerikën e Veriut brenda shtatë ditësh, duke u bërë filmi më i shpejtë që arrin këtë prag, njoftoi Sony Pictures. Parashikohej që filmi me superhero ta përfundonte javën e parë të p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T21:18:57+00:00",
-      "dateStr": "07 Aug, 21:18",
-      "isNew": true,
-      "id": "24 81786137537"
-    },
-    {
-      "title": "GJERMANI – Ambasada ruse në Berlin mohon përfshirjen e Rusisë në incidentin me dron",
-      "link": "https://24-ore.com/gjermani-ambasada-ruse-ne-berlin-mohon-perfshirjen-e-rusise-ne-incidentin-me-dron/",
-      "description": "&#8211; Ambasada ruse në Berlin e ka cilësuar si “provokim të sajuar” incidentin me një dron të pajisur me eksplozivë në aeroportin Leipzig/Halle, në Gjermani. Prokurorët federalë gjermanë kanë nisur një hetim për incidentin, të cilin e konsiderojnë serioz dhe potencialisht të rrezikshëm për sigurin",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T21:18:46+00:00",
-      "dateStr": "07 Aug, 21:18",
-      "isNew": true,
-      "id": "24 91786137526"
+      "id": "24 91786137590"
     },
     {
       "title": "Seanca shtyhet të shtunën/ Konstituimi i Kuvendit të Kosovës, afati përfundon sot në orën 24:00",
