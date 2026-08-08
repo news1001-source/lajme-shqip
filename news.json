@@ -1,8 +1,173 @@
 {
-  "lastUpdated": "2026-08-08T14:26:52.753140+00:00",
+  "lastUpdated": "2026-08-08T15:23:52.978137+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Muaji gusht sjell fluksin maksimal, Durrësi pritet të mbushë hotelet 100%",
+      "link": "https://24-ore.com/muaji-gusht-sjell-fluksin-maksimal-durresi-pritet-te-mbushe-hotelet-100/",
+      "description": "Java e parë e gushtit ka sjellë një fluks të lartë vizitorësh në bregdetin e Durrësit, duke e kthyer qytetin në një nga destinacionet më të frekuentuara të sezonit. Plazhet janë mbushur me pushues vendas, shqiptarë të diasporës dhe turistë të huaj, ndërsa operatorët turistikë raportojnë kërkesë të l",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T15:21:34+00:00",
+      "dateStr": "08 Aug, 15:21",
+      "isNew": true,
+      "id": "24 01786202494"
+    },
+    {
+      "title": "“Festivali Folklorik” çel siparin në Kotë të Selenicës, grupet e polifonisë labe në skenë",
+      "link": "https://24-ore.com/festivali-folklorik-cel-siparin-ne-kote-te-selenices-grupet-e-polifonise-labe-ne-skene/",
+      "description": "Ka celur siparin në Kotë të Selenicës “Festivali Folklorik, edicioni i 4”. Për tre ditë me radhë, në qendër të fshatit performojnë grupet e polifonisë labe nga fshatrat e Selenicës, në natën finale shpallet edhe fituesi i këtij edicioni. I ngjitur në skenë për fjalën përshëndetëse, kryetari i Bashki",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T15:21:20+00:00",
+      "dateStr": "08 Aug, 15:21",
+      "isNew": true,
+      "id": "24 11786202480"
+    },
+    {
+      "title": "Vritet 20-vjeçari në Korçë, policia në kërkim të autorit. Viktima pjesë e Forcave të Armatosura",
+      "link": "https://24-ore.com/vritet-20-vjecari-ne-korce-policia-ne-kerkim-te-autorit-viktima-pjese-e-forcave-te-armatosura/",
+      "description": "Një ngjarje e rëndë është raportuar pak minuta më parë në lagjen nr. 14 të qytetit të Korçës, ku një 20-vjeçar dyshohet se është vrarë me armë zjarri. Viktima është identifikuar si Joan Zhuko, 20 vjeç i cili mësohet se ishte pjesë e Forcave të Armatosura. Sipas informacioneve paraprake, arma e përdo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T15:21:00+00:00",
+      "dateStr": "08 Aug, 15:21",
+      "isNew": true,
+      "id": "24 21786202460"
+    },
+    {
+      "title": "Emiratet e Bashkuara Arabe: Irani shënjestroi një nga anijet tona në Hormuz",
+      "link": "https://24-ore.com/emiratet-e-bashkuara-arabe-irani-shenjestroi-nje-nga-anijet-tona-ne-hormuz/",
+      "description": "Një anije që i përkiste kompanisë shtetërore të naftës së Emirateve të Bashkuara Arabe, ADNOC, është sulmuar me raketa në Ngushticën e Hormuzit, gjatë orëve të mëngjesit. Sipas raportimeve nderkombetare nga sulmi nuk pati viktima apo të plagosur. Ministria e Punëve të Jashtme e Emirateve të Bashkuar",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T15:20:48+00:00",
+      "dateStr": "08 Aug, 15:20",
+      "isNew": true,
+      "id": "24 31786202448"
+    },
+    {
+      "title": "EMRI/ Zbardhen detajet e vrasjes në Korçë, viktima ushtarak! Autori e ndoqi me kallash, pas krimit u arratis",
+      "link": "https://24-ore.com/emri-zbardhen-detajet-e-vrasjes-ne-korce-viktima-ushtarak-autori-e-ndoqi-me-kallash-pas-krimit-u-arratis/",
+      "description": "Zbardhen detaje nga vrasja e ndodhur pasditen e sotme në Korçë. Viktima është Johan Zukon, rreth 20 vjeç. Sipas informacioneve paraprake, autori dyshohet se e ka ndjekur viktimën përpara se ta arrinte brenda një pallati në zonën ku ndodhi ngjarja. Johan Zuko, i cili nuk ishte banor i lagjes, dyshohe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T15:20:43+00:00",
+      "dateStr": "08 Aug, 15:20",
+      "isNew": true,
+      "id": "24 41786202443"
+    },
+    {
+      "title": "Shembet tuneli në Turqi, një viktimë",
+      "link": "https://24-ore.com/shembet-tuneli-ne-turqi-nje-viktime/",
+      "description": "Një tunel në ndërtim në lagjen Eğriçam të Turqisë, është shembur për shkaqe ende të paqarta. Tuneli ishte pjesë e Projektit të Ujit të Pijshëm Yedigöze, të administruar nga Administrata e Ujësjellësit dhe Kanalizimeve të Adanas (ASKİ). Pas marrjes së njoftimit në Qendrën e Thirrjeve të Emergjencave ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T15:20:34+00:00",
+      "dateStr": "08 Aug, 15:20",
+      "isNew": true,
+      "id": "24 51786202434"
+    },
+    {
+      "title": "Zelensky: Qëndrimi i Ukrainës për mosnjohjen e Kosovës mbetet i pandryshuar",
+      "link": "https://24-ore.com/zelensky-qendrimi-i-ukraines-per-mosnjohjen-e-kosoves-mbetet-i-pandryshuar/",
+      "description": "Presidenti ukrainas, Volodymyr Zelensky, deklaroi në Beograd se politika e Ukrainës ndaj pavarësisë së Kosovës mbetet e pandryshuar. Gjatë një konference të përbashkët për media me presidentin serb, Aleksandar Vuçiç, Zelensky theksoi se Ukraina respekton integritetin territorial të partnerëve të saj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T15:20:22+00:00",
+      "dateStr": "08 Aug, 15:20",
+      "isNew": true,
+      "id": "24 61786202422"
+    },
+    {
+      "title": "Sulmohen palestinezët në Betlehem, pas tyre edhe ekipi mjekësor që do u vinte në ndihmë",
+      "link": "https://24-ore.com/sulmohen-palestinezet-ne-betlehem-pas-tyre-edhe-ekipi-mjekesor-qe-do-u-vinte-ne-ndihme/",
+      "description": "Sipas raportimeve të mediave lokale, persona të armatosur izraelitë kanë sulmuar automjete palestineze në rrugën Abu Najim, në juglindje të Betlehemit. Gjatë incidentit, sulmuesit dyshohet se kanë sulmuar edhe personelin mjekësor që po përpiqej të mbërrinte te tre palestinezë të plagosur. Disa autom",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T15:20:09+00:00",
+      "dateStr": "08 Aug, 15:20",
+      "isNew": true,
+      "id": "24 71786202409"
+    },
+    {
+      "title": "Kreu tre sulme me thikë në Roterdam, arrestohet 26-vjeçari",
+      "link": "https://24-ore.com/kreu-tre-sulme-me-thike-ne-roterdam-arrestohet-26-vjecari/",
+      "description": "Një 26-vjeçar është arrestuar në Roterdam, pasi dy persona u plagosën në një seri sulmesh me thikë të shtunën në mëngjes. Sipas policisë së Roterdamit, dy burra, të cilët dyshohet se ishin viktima të rastësishme, u goditën me thikë në Schaepmanstraat dhe Marconiplein, në perëndim të qendrës së qytet",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T15:19:55+00:00",
+      "dateStr": "08 Aug, 15:19",
+      "isNew": true,
+      "id": "24 81786202395"
+    },
+    {
+      "title": "FOKUS – Ukraina godet rafineritë ruse të naftës",
+      "link": "https://24-ore.com/fokus-ukraina-godet-rafinerite-ruse-te-naftes/",
+      "description": "MOSKË, 8 gusht /ATSH-DPA/- Rusia tha sot se Ukraina kishte ndërmarrë një sulm masiv me dronë, duke pretenduar se gjatë natës ishin kapur rreth 400 dronë, ndërsa më shumë se 80 të tjerë ishin zbuluar dhe rrëzuar deri në mesditë. Pretendimet e Ministrisë ruse të Mbrojtjes nuk mund të verifikohen në më",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T15:18:56+00:00",
+      "dateStr": "08 Aug, 15:18",
+      "isNew": true,
+      "id": "24 91786202336"
+    },
+    {
+      "title": "DINAMIKA- Vrasja e 20-vjeçarit në Korçë, autori e ndoqi këmba-këmbës me kallash, viktima pjesë e FA-ve tentoi të fshihej në pallat",
+      "link": "https://shekulli.com.al/2026/08/08/dinamika-vrasja-e-20-vjecarit-ne-korce-autori-e-ndoqi-kemba-kembes-me-kallash-viktima-pjese-e-fa-ve-tentoi-te-fshihej-ne-pallat/",
+      "description": "Një krim i rëndë ka tronditur ka ndodhur pasditen e kësaj të shtune në qytetin e Korçës, ku një person ka mbetur i vrarë me armë zjarri në lagjen nr. 14. Viktima është identifikuar paraprakisht si Johan Zuko, i cili mësohet se është pjesë e Forcave të Armatosura, rreth 20-vjeç. Burime nga Policia bë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-08T15:16:06+00:00",
+      "dateStr": "08 Aug, 15:16",
+      "isNew": true,
+      "id": "she01786202166"
+    },
+    {
+      "title": "EMRI- Kush është 20-vjeçari që u vra sot në Korçë, pjesë e Forcave të Armatosura, u qëllua me kallashnikov",
+      "link": "https://shekulli.com.al/2026/08/08/emri-kush-eshte-20-vjecari-qe-u-vra-sot-ne-korce-pjese-e-forcave-te-armatosura-u-qellua-me-kallashnikov/",
+      "description": "KORÇË- Johan Zuko, është 20-vjeçari që ka mbetur i vdekur sot në Korçë, pas të shtënave me kallashnikov që u regjistruan në lagjen 14 të qytetit. Shekulli mëson se viktima ka qenë pjesë e Forcave të Armatosura, ndërsa ngjarja e sotme ka tronditur mbarë opinionin publik. Sipas informacioneve paraprak",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-08T15:04:01+00:00",
+      "dateStr": "08 Aug, 15:04",
+      "isNew": true,
+      "id": "she11786201441"
+    },
+    {
+      "title": "Vritet me armë zjarri një 20-vjeçar në Korçë/ Detaje: Viktima u fsheh në një apartament, autori e ndoqi dhe e vrau",
+      "link": "https://abcnews.al/vrasje-me-arme-zjarri-ne-korce/",
+      "description": "Një vrasje ka ndodhur në lagjen 14 në Korçë. Sipas informacioneve paraprake, bëhet fjalë për një viktimë rreth moshës 20 vjeç. Për kryerjen e krimit dyshohet të jetë përdorur një armë zjarri kallashnikov. Pas vrasjes, autori është arratisur. Autori e ka ndjekur viktimën. Viktima është fshehur në hyr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-08T14:52:27+00:00",
+      "dateStr": "08 Aug, 14:52",
+      "isNew": true,
+      "id": "abc01786200747"
+    },
+    {
+      "title": "Tronditet Korça, të shtëna me armë zjarri, vritet një person",
+      "link": "https://shekulli.com.al/2026/08/08/tronditet-korca-te-shtena-me-arme-zjarri-vritet-nje-person/",
+      "description": "KORÇË&#8211; Një ngjarje e rëndë është raportuar këtë të shtunë në qytetin e Korçës, ku dyshohet se një person është vrarë me armë zjarri, në lagjen 14 të qytetit. Sipas informacioneve paraprake, viktima është qëlluar me një armë zjarri tip kallashnikov. Autori i dyshuar është larguar nga vendi i ng",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-08T14:51:32+00:00",
+      "dateStr": "08 Aug, 14:51",
+      "isNew": true,
+      "id": "she21786200692"
+    },
+    {
+      "title": "Thatësia zbulon historinë/ Thahet Danubi, dalin mbetje të flotës gjermane të 1944",
+      "link": "https://abcnews.al/thatesia-zbulon-historine-thahet-danubi-dalin-mbetje-te-flotes-gjermane-te-1944/",
+      "description": "Thatësira e pazakontë që ka përfshirë Evropën këtë verë ka ulur ndjeshëm nivelin e lumit Danub, duke nxjerrë në sipërfaqe një pjesë të historisë së errët të Luftës së Dytë Botërore. Në Serbi, pranë portit të Prahovës, dhjetëra anije luftarake naziste, të fundosura rreth 80 vite më parë, janë bërë të",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-08T14:40:13+00:00",
+      "dateStr": "08 Aug, 14:40",
+      "isNew": true,
+      "id": "abc11786200013"
+    },
     {
       "title": "“Siguria rrugore mbetet prioritet”/ Rama: Së shpejti vihen në funksion kamerat e Qendrës Kombëtare",
       "link": "https://abcnews.al/siguria-rrugore-mbetet-prioritet-rama-se-shpejti-vihen-ne-funksion-kamerat-e-qendres-kombetare/",
@@ -12,29 +177,7 @@
       "date": "2026-08-08T14:25:08+00:00",
       "dateStr": "08 Aug, 14:25",
       "isNew": true,
-      "id": "abc01786199108"
-    },
-    {
-      "title": "“The Week”: Shqipëria, në krye të listës së destinacioneve të lira turistike",
-      "link": "https://24-ore.com/the-week-shqiperia-ne-krye-te-listes-se-destinacioneve-te-lira-turistike/",
-      "description": "&#8211; Shqipëria renditet në krye të shtatë vendeve të përzgjedhura si destinacione turistike ku turistët mund të përfitojnë më shumë, falë kostove të përballueshme për akomodimin, ushqimin dhe aktivitetet turistike, sipas medias amerikane “The Week”. Vija bregdetare shqiptare cilësohet si një nga ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T14:18:54+00:00",
-      "dateStr": "08 Aug, 14:18",
-      "isNew": true,
-      "id": "24 01786198734"
-    },
-    {
-      "title": "“Ethology”: Shkenca zbulon: Macet priren të krijojnë lidhje më të forta me gratë",
-      "link": "https://24-ore.com/ethology-shkenca-zbulon-macet-priren-te-krijojne-lidhje-me-te-forta-me-grate/",
-      "description": "&#8211; Macet mund të krijojnë lidhje më të ngushta sociale me gratë, ndërsa mënyra se si ndërveprojnë me pronarët mund të ndikohet nga gjinia e personit dhe nga sjellja e tij ndaj kafshës, sugjerojnë studimet shkencore, sipas “Ethology”. Një rishikim i kërkimeve mbi marrëdhëniet mace–njeri ka gjetu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T14:18:43+00:00",
-      "dateStr": "08 Aug, 14:18",
-      "isNew": true,
-      "id": "24 11786198723"
+      "id": "abc21786199108"
     },
     {
       "title": "Zelensky në Beograd, kundër Kosovës/ Presidenti i Ukrainës: Qëndrim i pandryshuar, nuk e njohim shtet",
@@ -45,7 +188,7 @@
       "date": "2026-08-08T14:18:21+00:00",
       "dateStr": "08 Aug, 14:18",
       "isNew": true,
-      "id": "abc11786198701"
+      "id": "abc31786198701"
     },
     {
       "title": "SHBA ‘përçau’ opozitën/ Kush janë deputetët që nuk dhanë firmën që marrëveshja të përfundonte në Kushtetuese, Bardhi mbajti sekret emrat",
@@ -56,40 +199,7 @@
       "date": "2026-08-08T14:18:21+00:00",
       "dateStr": "08 Aug, 14:18",
       "isNew": true,
-      "id": "she01786198701"
-    },
-    {
-      "title": "Parashikime të hershme për agjencinë e lirë të MLB pas afatit të transfereve 2026",
-      "link": "https://24-ore.com/parashikime-te-hershme-per-agjencine-e-lire-te-mlb-pas-afatit-te-transfereve-2026/",
-      "description": "Me afatin e transfereve të 2026 tashmë pas, vëmendja kthehet tek periudha e agjencisë së lirë, e cila nis pesë ditë pas përfundimit të World Series. Për kë...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T14:05:41+00:00",
-      "dateStr": "08 Aug, 14:05",
-      "isNew": true,
-      "id": "24 21786197941"
-    },
-    {
-      "title": "Fiesta de Hockey promovon dhe feston hokejin në Puerto Rico",
-      "link": "https://24-ore.com/fiesta-de-hockey-promovon-dhe-feston-hokejin-ne-puerto-rico/",
-      "description": "Në San Juan, Puerto Rico, 9-vjeçari Alejandro Cadeñas nga Dorado huazoi këpucët e babait dhe shënoi gjatë një shfaqjeje ball-hokeji me ekipin kombëtar femë...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T14:02:36+00:00",
-      "dateStr": "08 Aug, 14:02",
-      "isNew": true,
-      "id": "24 31786197756"
-    },
-    {
-      "title": "Rregullorja Bani, defibrilatori që nuk i ritmon dot gjyqet e (pa)hapura",
-      "link": "https://24-ore.com/rregullorja-bani-defibrilatori-qe-nuk-i-ritmon-dot-gjyqet-e-pahapura/",
-      "description": "Nga Ylli Manjani Në fakt, Erjon Bani nuk ka bërë ndonjë shpikje me rregulloren e re. Ka shkruar në letër, pak a shumë, atë që ndodh sot e gjithë ditën në GJKKO. Gazetarët nuk lejohen të filmojnë brenda sallës së gjyqit dhe as të komunikojnë me jashtë gjatë seancës. Janë vendosur në të njëjtin regjim",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T14:01:56+00:00",
-      "dateStr": "08 Aug, 14:01",
-      "isNew": true,
-      "id": "24 41786197716"
+      "id": "she31786198701"
     },
     {
       "title": "VIDEO/ Flakët përfshijnë malin mes Golemit dhe Progonatit, zjarrfikësit në terren",
@@ -100,40 +210,7 @@
       "date": "2026-08-08T13:59:34+00:00",
       "dateStr": "08 Aug, 13:59",
       "isNew": true,
-      "id": "abc21786197574"
-    },
-    {
-      "title": "Mbi 240 raste të Nilit Perëndimor në Evropë, Maqedonia është ndër vendet me më shumë raste",
-      "link": "https://24-ore.com/mbi-240-raste-te-nilit-perendimor-ne-evrope-maqedonia-eshte-nder-vendet-me-me-shume-raste/",
-      "description": "Virusi i Nilit Perëndimor është konfirmuar te më shumë se 240 persona në të gjithë Evropën këtë vit, përfshirë Maqedoninë, e cila është ndër vendet me më shumë raste. Sëmundja transmetohet nëpërmjet pickimeve të mushkonjave të infektuara dhe mund të shkaktojë probleme serioze shëndetësore. Më shumë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T13:55:00+00:00",
-      "dateStr": "08 Aug, 13:55",
-      "isNew": true,
-      "id": "24 51786197300"
-    },
-    {
-      "title": "“Qeveria nuk ka më legjitimitet”, Berisha: U përdorën 83 mandatet e krimit për të mbrojtur aferat",
-      "link": "https://24-ore.com/qeveria-nuk-ka-me-legjitimitet-berisha-u-perdoren-83-mandatet-e-krimit-per-te-mbrojtur-aferat/",
-      "description": "Reforma territoriale, protestat kundër qeverisë, si dhe akuzat për korrupsion dhe lidhje me krimin ishin në fokus të komunikimit të kreut të Partisë Demokratike, Sali Berisha, me ndjekësit e tij në rrjetet sociale. Berisha akuzoi kryeministrin Edi Rama dhe ish-zëvendëskryeministren Belinda Balluku s",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T13:54:50+00:00",
-      "dateStr": "08 Aug, 13:54",
-      "isNew": true,
-      "id": "24 61786197290"
-    },
-    {
-      "title": "Kurti: Të ulemi e të bëjmë marrëveshje për institucionet",
-      "link": "https://24-ore.com/kurti-te-ulemi-e-te-bejme-marreveshje-per-institucionet/",
-      "description": "Kryeministri në detyrë dhe kryetari i Lëvizjes Vetëvendosje, Albin Kurti, pas ndërprerjes së seancës konstituive ka thënë se LVV-ja nuk propozoi kandidat për kryetar të Kuvendit, ndonëse i ka votat, pasi sipas tij pa marrëveshje politike për zgjedhjen e presidentit vendi do të shkonte në zgjedhje të",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T13:39:42+00:00",
-      "dateStr": "08 Aug, 13:39",
-      "isNew": true,
-      "id": "24 71786196382"
+      "id": "abc41786197574"
     },
     {
       "title": "Nga zjarri te tritoli dhe krismat e armëve/ Pse bizneset e Noizyt janë gjithmonë në qendër te sulmeve?",
@@ -144,7 +221,7 @@
       "date": "2026-08-08T13:38:17+00:00",
       "dateStr": "08 Aug, 13:38",
       "isNew": true,
-      "id": "she11786196297"
+      "id": "she41786196297"
     },
     {
       "title": "Zbulim i ri shkencor hap rrugë për trajtimin e disa formave të kancerit",
@@ -155,29 +232,7 @@
       "date": "2026-08-08T13:35:51+00:00",
       "dateStr": "08 Aug, 13:35",
       "isNew": true,
-      "id": "abc31786196151"
-    },
-    {
-      "title": "Ambasada britanike thirrje për tejkalimin e krizës: Punoni bashkë për të mirën e qytetarëve të mrekullueshëm dhe partneritetit ndërkombëtar",
-      "link": "https://24-ore.com/ambasada-britanike-thirrje-per-tejkalimin-e-krizes-punoni-bashke-per-te-miren-e-qytetareve-te-mrekullueshem-dhe-partneritetit-nderkombetar/",
-      "description": "Ambasada e Mbretërisë së Bashkuar në Kosovë ka reaguar pas zhvillimeve të fundit në Kuvendin e Kosovës. Ambasada britanike thekson se politikanët tani duhet urgjentisht të punojnë së bashku për ta zgjidhur këtë situatë përmes dialogut dhe negociatave, për të mirën e qytetarëve të mrekullueshëm të Ko",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T13:34:31+00:00",
-      "dateStr": "08 Aug, 13:34",
-      "isNew": true,
-      "id": "24 81786196071"
-    },
-    {
-      "title": "Seattle Storm eliminohen nga garat për play-off-et e WNBA 2026",
-      "link": "https://24-ore.com/seattle-storm-eliminohen-nga-garat-per-play-off-et-e-wnba-2026/",
-      "description": "Seattle Storm janë eliminuar zyrtarisht nga garat për play-off-et e WNBA 2026 pas fitores së Washington Mystics ndaj Atlanta Dream të premten në mbrëmje; l...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T13:30:33+00:00",
-      "dateStr": "08 Aug, 13:30",
-      "isNew": true,
-      "id": "24 91786195833"
+      "id": "abc51786196151"
     },
     {
       "title": "Shpërthim me tritol në banesën e një të moshuari në Tiranë, shkak borxhi për mobiljet, shpallen në kërkim 3 vëllezërit (Emrat)",
@@ -188,7 +243,7 @@
       "date": "2026-08-08T13:18:05+00:00",
       "dateStr": "08 Aug, 13:18",
       "isNew": true,
-      "id": "she21786195085"
+      "id": "she51786195085"
     },
     {
       "title": "Pentagoni shkarkon gjeneralin që koordinonte ndihmën ushtarake për Ukrainën",
@@ -199,7 +254,7 @@
       "date": "2026-08-08T13:17:14+00:00",
       "dateStr": "08 Aug, 13:17",
       "isNew": true,
-      "id": "abc41786195034"
+      "id": "abc61786195034"
     },
     {
       "title": "“City AM”: Tirana, mes trashëgimisë dhe modernitetit, drejt një epoke të re turistike",
@@ -210,7 +265,7 @@
       "date": "2026-08-08T13:01:54+00:00",
       "dateStr": "08 Aug, 13:01",
       "isNew": true,
-      "id": "abc51786194114"
+      "id": "abc71786194114"
     },
     {
       "title": "News Line me Habi Hoxha, (08/08/2026)",
@@ -221,7 +276,7 @@
       "date": "2026-08-08T12:53:54+00:00",
       "dateStr": "08 Aug, 12:53",
       "isNew": true,
-      "id": "abc61786193634"
+      "id": "abc81786193634"
     },
     {
       "title": "Noizyt nuk i ndahen sulmet me tritol, çfarë zbuloi Policia në dyqanin e tij në zonën e Plazhit",
@@ -232,7 +287,7 @@
       "date": "2026-08-08T12:42:43+00:00",
       "dateStr": "08 Aug, 12:42",
       "isNew": true,
-      "id": "she31786192963"
+      "id": "she61786192963"
     },
     {
       "title": "Lumenjtë e Evropës po thahen, rrezik për ekosistemet dhe goditje për ekonominë",
@@ -243,18 +298,7 @@
       "date": "2026-08-08T12:41:14+00:00",
       "dateStr": "08 Aug, 12:41",
       "isNew": true,
-      "id": "abc71786192874"
-    },
-    {
-      "title": "Tiranë/ Shpërthimi me eksploziv në banesën në Tufinë, policia zbardh ngjarjen: Në kërkim 3 vëllezër",
-      "link": "https://abcnews.al/tirane-shperthimi-me-eksploziv-ne-banesen-ne-tufine-policia-zbardh-ngjarjen-ne-kerkim-3-vellezer/",
-      "description": "Tiranë – Një shpërthim me lëndë plasëse në derën e një banese private në lagjen “Tufinë” është zbardhur nga Policia e Tiranës, ndërsa tre vëllezër janë shpallur në kërkim si autorë të dyshuar të ngjarjes. Ngjarja ndodhi rreth orës 00:30, më 8 gusht në banesën e shtetasit J. M., 72 vjeç. Sipas Polici",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-08T12:36:49+00:00",
-      "dateStr": "08 Aug, 12:36",
-      "isNew": true,
-      "id": "abc81786192609"
+      "id": "abc91786192874"
     },
     {
       "title": "Vdes babai i Lionel Messit, njeriu që zbuloi talentin e tij. Nga diagnoza e hormonit të rritjes te udhëtimi në Barcelonë që iu ndryshoi jetën",
@@ -265,18 +309,7 @@
       "date": "2026-08-08T12:33:59+00:00",
       "dateStr": "08 Aug, 12:33",
       "isNew": true,
-      "id": "she41786192439"
-    },
-    {
-      "title": "Infantino, skandal me “pullë të kuqe”/ UEFA i pagoi shkollën të dashurës, kur ishte sekretar i përgjithshëm",
-      "link": "https://abcnews.al/infantino-skandal-me-pulle-te-kuqe-uefa-i-pagoi-shkollen-te-dashures-kur-ishte-sekretar-i-pergjithshem/",
-      "description": "Që nuk janë kohë të mira për Gianni Infantino, kjo është e qartë. Por presidenti i FIFA, i vendosur në qendër të akuzave dhe polemikave pas planit për të shitur një pjesë të aseteve komerciale të garave përfshirë edhe Kupën e Botës, tani duhet të përballet edhe me një skandal rozë. Sipas gazetës bri",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-08T12:15:08+00:00",
-      "dateStr": "08 Aug, 12:15",
-      "isNew": true,
-      "id": "abc91786191308"
+      "id": "she71786192439"
     },
     {
       "title": "Sherri mes ‘shokëve’ në burgun e Fierit/ Kush janë tre të dënuarit që u përfshinë në konflikt, nga “Metamorfoza” te kërkimi ndërkombëtar",
@@ -287,7 +320,7 @@
       "date": "2026-08-08T12:06:52+00:00",
       "dateStr": "08 Aug, 12:06",
       "isNew": true,
-      "id": "she51786190812"
+      "id": "she81786190812"
     },
     {
       "title": "“Jam i papunë dhe mbaj 6 persona”, Shpataraku pas shpalljes në kërkim: Nuk kam kërcënuar njeri me armë, Policia të reagojë për vrasjet…",
@@ -298,40 +331,7 @@
       "date": "2026-08-08T11:56:23+00:00",
       "dateStr": "08 Aug, 11:56",
       "isNew": true,
-      "id": "she61786190183"
-    },
-    {
-      "title": "Kërcënime me vdekje për Mesin dhe Ronaldon, zbardhet dosja e sigurisë së Botërorit",
-      "link": "https://shekulli.com.al/2026/08/08/kercenime-me-vdekje-per-mesin-dhe-ronaldon-zbardhet-dosja-e-sigurise-se-boterorit/",
-      "description": "Një dosje konfidenciale e sigurisë ka nxjerrë në dritë një seri incidentesh dhe kërcënimesh serioze gjatë Kupës së Botës 2026, e zhvilluar në SHBA, Meksikë dhe Kanada. Sipas raportimeve të mediave ndërkombëtare, autoritetet amerikane kanë regjistruar dhjetëra sinjalizime për rrezik gjatë turneut, du",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-08T11:40:17+00:00",
-      "dateStr": "08 Aug, 11:40",
-      "isNew": true,
-      "id": "she71786189217"
-    },
-    {
-      "title": "Kush është Time Kadrijaj, deputetja që qëlloi me vezë Albin Kurtin, dikur pjesë e UÇK-së",
-      "link": "https://shekulli.com.al/2026/08/08/kush-eshte-time-kadrijaj-deputetja-qe-qelloi-me-veze-albin-kurtin-dikur-pjese-e-uck-se/",
-      "description": "Kuvendi i Kosovës u përfshi sot nga një situatë tensioni, për shkak të ngërçit politik, për ndërtimin e qeverisë së re. Seanca u ndërpre për shkak se në një moment, deputetja e Ardhmërisë së Kosovës, Time Kadrijaj qëlloi me vezë në drejtim të kryeministrit në detyrë Albin Kurti. Kadrijaj, ka qenë pj",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-08T11:01:33+00:00",
-      "dateStr": "08 Aug, 11:01",
-      "isNew": true,
-      "id": "she81786186893"
-    },
-    {
-      "title": "Eskalon situata në Kuvendin e Kosovës, deputetja e AAK-së qëllon me vezë Albin Kurtin, ndërpritet seanca",
-      "link": "https://shekulli.com.al/2026/08/08/eskalon-situata-ne-kuvendin-e-kosoves-deputetja-e-aak-se-qellon-me-veze-albin-kurtin-nderpritet-seanca/",
-      "description": "Është shoqëruar me tensione të shumta seanca e sotme në Kuvendin e Kosovës, ku palët duhet të dakordësohen për krijimin e institucioneve të reja, në të kundërt vendi do të shkojë sërish në zgjedhje të parakohshme. Në një moment gjatë seancës, deputetja Time Kadrijaj nga radhët e partisë Aleanca për ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-08T10:32:54+00:00",
-      "dateStr": "08 Aug, 10:32",
-      "isNew": true,
-      "id": "she91786185174"
+      "id": "she91786190183"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
