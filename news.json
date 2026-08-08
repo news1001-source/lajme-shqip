@@ -1,117 +1,238 @@
 {
-  "lastUpdated": "2026-08-08T17:24:31.258176+00:00",
+  "lastUpdated": "2026-08-08T18:29:36.681750+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Angellov: Gjendja me ujin në Gostivar është përmirësuar dukshëm, por ende nuk lejohet për pije",
-      "link": "https://24-ore.com/angellov-gjendja-me-ujin-ne-gostivar-eshte-permiresuar-dukshem-por-ende-nuk-lejohet-per-pije/",
-      "description": "Gjendja me ujin në qytetin e Gostivarit gradualisht po stabilizohet, dhe numri i baktereve është ulur ndjeshëm, por megjithatë uji ende nuk është i pijshëm prandaj mbetet në fuqi ndalesa për pirjen dhe përdorimin e tij për gatim. Kështu ka deklaruar Drejtori i Drejtorisë për Mbrojtje dhe Shpëtim Sto",
-      "source": "24 ORE",
+      "title": "Edicioni Qendror me Rovena Nezirin, (08/08/2026)",
+      "link": "https://abcnews.al/edicioni-qendror-me-rovena-nezirin-08-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-08T17:24:13+00:00",
-      "dateStr": "08 Aug, 17:24",
+      "date": "2026-08-08T18:28:03+00:00",
+      "dateStr": "08 Aug, 18:28",
       "isNew": true,
-      "id": "24 01786209853"
+      "id": "abc01786213683"
     },
     {
-      "title": "Aksident në aksin Elbasan-Librazhd, plagoset një person",
-      "link": "https://24-ore.com/aksident-ne-aksin-elbasan-librazhd-plagoset-nje-person/",
-      "description": "Një aksident rrugor është regjistruar në aksin Elbasan-Librazhd, në vendin e quajtur Ura e Murashit, ku një automjet është përplasur me një motor. Si pasojë e përplasjes, njëri prej drejtuesve është transportuar në spital për të marrë ndihmë mjekësore. Ndërkohë, të dyja mjetet e përfshira në aksiden",
-      "source": "24 ORE",
+      "title": "Ekzekutimi i Johan Zukës, RENEA ‘zbarkon’ në Korçë për kapjen e autorit të dyshuar Kristjan Sterjo. Me viktimën ishin shokë, në konflikt të përfshirë edhe 3 persona të tjerë",
+      "link": "https://shekulli.com.al/2026/08/08/ekzekutimi-i-johan-zukes-renea-zbarkon-ne-korce-per-kapjen-e-autorit-kristjan-sterjo-me-viktimen-ishin-shoke-ne-konflikt-te-perfshire-edhe-3-persona-te-tjere/",
+      "description": "KORÇË &#8211; Kryeqendra e juglindjes së Shqipërisë, Korça, u trondit pasditen e sotme rreth orës 16:30 nga të shtënat e kallashnikovit që prishën qetësinë e banorëve në një ditë të nxehtë si kjo e 8 gushtit. 20-vjeçari Johan Zuka, anëtar i Forcave të Armatosura, mbeti i vrarë nga të shtënat e dorës",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-08T17:20:55+00:00",
-      "dateStr": "08 Aug, 17:20",
+      "date": "2026-08-08T18:21:56+00:00",
+      "dateStr": "08 Aug, 18:21",
       "isNew": true,
-      "id": "24 11786209655"
+      "id": "she01786213316"
     },
     {
-      "title": "Gjendet një sasi lënde eksploziv në derën e dyqanit të Noizyt në Durrës",
-      "link": "https://24-ore.com/gjendet-nje-sasi-lende-eksploziv-ne-deren-e-dyqanit-te-noizyt-ne-durres/",
-      "description": "Një sasi e dyshuar lënde eksplozive e pashpërthyer është gjetur në orët e para të mëngjesit në lagjen nr. 13, në zonën e Plazhit në Durrës. Lënda eksplozive është konstatuar në derën e një dyqani në pronësi të këngëtarit shqiptar Rigels Rajku, i njohur si Noizy. Pas njoftimit, në vendngjarje kanë mb",
-      "source": "24 ORE",
+      "title": "Krujë, zjarr në mal/ Rrezikohen disa banesa, ndërhyrje nga ajri me dy helikopterë",
+      "link": "https://abcnews.al/kruje-zjarr-ne-mal-rrezikohen-disa-banesa-nderhyrje-nga-ajri-me-dy-helikoptere/",
+      "description": "Një zjarr i përmasave të mëdha përfshiu një zonë pranë malit të Krujës pasditen e të shtunës. Efektivë të shërbimit zjarrfikës po punojnë për lokalizimin e flakëve të cilat, për shkak të erës, po përhapen me shpejtësi duke rrezikuar disa banesa aty pranë. Dy helikopterë po hedhin ujë në zonën e përf",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-08T17:20:41+00:00",
-      "dateStr": "08 Aug, 17:20",
+      "date": "2026-08-08T18:20:03+00:00",
+      "dateStr": "08 Aug, 18:20",
       "isNew": true,
-      "id": "24 21786209641"
+      "id": "abc11786213203"
     },
     {
-      "title": "Zv/Drejtori i Hetimit të Krimeve për vrasjen në Korçë: Viktima në dorë kishte një thikë, autori u largua drejt varrezave",
-      "link": "https://24-ore.com/zv-drejtori-i-hetimit-te-krimeve-per-vrasjen-ne-korce-viktima-ne-dore-kishte-nje-thike-autori-u-largua-drejt-varrezave/",
-      "description": "Detaje të reja janë bërë publike lidhur me ngjarjen e rëndë të ndodhur në Korçë, ku 20-vjeçari Joan Zhuko mbeti i vrarë me armë zjarri. Zv/Drejtori i Hetimit të Krimeve, Drejtues Sejfulla Metko, ka dhënë detaje për ngjarjen, duke bërë me dije se policia është vënë në ndjekje të një personi të dyshua",
+      "title": "Vrima plumbash në mure dhe njolla gjaku në dysheme, zbulohen pamjet e skenës së vrasjes në Korçë",
+      "link": "https://24-ore.com/vrima-plumbash-ne-mure-dhe-njolla-gjaku-ne-dysheme-zbulohen-pamjet-e-skenes-se-vrasjes-ne-korce/",
+      "description": "Këto janë pamjet nga skena e krimit në Korçë pasditen e sotme, ku mbeti i vrarë ushtaraku Johan Zuko në lagjen nr. 14 dhe autor i krimit në kërkim është shpallur shoku i tij i fëmijërisë, Kristjan Stejro, me precedentë penalë. Në muret e pallatit shihen shenjat e lëna nga plumbat, duke dëshmuar për ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-08T17:20:29+00:00",
-      "dateStr": "08 Aug, 17:20",
+      "date": "2026-08-08T18:19:06+00:00",
+      "dateStr": "08 Aug, 18:19",
       "isNew": true,
-      "id": "24 31786209629"
+      "id": "24 01786213146"
     },
     {
-      "title": "Banorja e pallatit rrëfen momentet pas vrasjes në Korçë: Dëgjova një zhurmë të madhe, pashë të riun të shtrirë, ishte tmerr",
-      "link": "https://24-ore.com/banorja-e-pallatit-rrefen-momentet-pas-vrasjes-ne-korce-degjova-nje-zhurme-te-madhe-pashe-te-riun-te-shtrire-ishte-tmerr/",
-      "description": "Kozeta Shagla banore e pallatit ku u vra dhe 20-vjeçari Joan Zhuko në Korçë, ka rrëfyer momentet e para pas të shtënave. Shagla tregon se ndodhej në banesë së bashku me nënën e saj kur dëgjoi një zhurmë të fortë dhe doli nga banesa për të parë se çfarë kishte ndodhur. Ajo tregon se sapo [&#8230;]",
+      "title": "Ndarja territoriale dhe marrëzitë e debatit mbi të në këtë verë të nxehtë",
+      "link": "https://24-ore.com/ndarja-territoriale-dhe-marrezite-e-debatit-mbi-te-ne-kete-vere-te-nxehte/",
+      "description": "Kemi krijuar një praktikë shqiptare për të bërë reforma: fillojmë me përgjigjen dhe pastaj parashtrojmë pyetjen. Kështu nisi dhe po vazhdon edhe debati mbi ndarjen territoriale në këtë verë të nxehtë. Dikush ka gjetur numrin ideal të bashkive. Dikush ka zbuluar hartën perfekte. Dikush tjetër propozo",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-08T17:20:15+00:00",
-      "dateStr": "08 Aug, 17:20",
+      "date": "2026-08-08T18:07:40+00:00",
+      "dateStr": "08 Aug, 18:07",
       "isNew": true,
-      "id": "24 41786209615"
+      "id": "24 11786212460"
     },
     {
-      "title": "EMRI/ Zbulohet identiteti i autorit të vrasjes së ushtarakut! E ndoqi dhe e qëlloi shokun me tek plumb “Kallashnikovi” ng",
-      "link": "https://24-ore.com/emri-zbulohet-identiteti-i-autorit-te-vrasjes-se-ushtarakut-e-ndoqi-dhe-e-qelloi-shokun-me-tek-plumb-kallashnikovi-ng/",
-      "description": "E ndoqi nga pas me kallash shokun e tij dhe e vrau me një tek plumb. Kjo është dinamika e forenzikës paraprake nga këqyrja në vendngjarje e Policisë dhe ekspertëve. Detajet kanë dalë në dritë rreth tre orë pas krimit të rëndë që tronditi Korçën dhe ku viktimë mbeti ushtaraku Johan Zuko, 20 vjeç, ish",
+      "title": "Temperaturat ekstreme, Xhemaili: Siguria e punëtorëve duhet të jetë prioritet",
+      "link": "https://24-ore.com/temperaturat-ekstreme-xhemaili-siguria-e-punetoreve-duhet-te-jete-prioritet/",
+      "description": "Temperaturat e larta po vështirësojnë punën për ata që aktivitetin e tyre e zhvillojnë në ambiente të hapura. Vala e të nxehtit rrit rrezikun për shëndetin e punëtorëve, veçanërisht në ndërtim, bujqësi dhe sektorë të tjerë të ekspozuar ndaj diellit. Lidhja e Sindikatave të Maqedonisë ka bërë apel pë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-08T17:20:10+00:00",
-      "dateStr": "08 Aug, 17:20",
+      "date": "2026-08-08T18:04:18+00:00",
+      "dateStr": "08 Aug, 18:04",
       "isNew": true,
-      "id": "24 51786209610"
+      "id": "24 21786212258"
     },
     {
-      "title": "“Varet nga SHBA…”, Irani vendos kushte për rihapjen e Hormuzit",
-      "link": "https://24-ore.com/varet-nga-shba-irani-vendos-kushte-per-rihapjen-e-hormuzit/",
-      "description": "Një zyrtar iranian, Zulqadr, deklaroi se rihapja e Ngushticës së Hormuzit varet nga ndryshimi i qëndrimit të Shteteve të Bashkuara. Në një deklaratë me shkrim, Zulqadr tha se “Ngushtica e Hormuzit nuk do të hapet derisa SHBA-të të korrigjojnë sjelljen e tyre”. Sipas tij, për rihapjen e ngushticës, U",
+      "title": "Një sezon i fundit për Lane Johnson? Mbrojtësi i Eagles thotë se 2026 mund të jetë viti i tij i fundit",
+      "link": "https://24-ore.com/nje-sezon-i-fundit-per-lane-johnson-mbrojtesi-i-eagles-thote-se-2026-mund-te-jete-viti-i-tij-i-fundit/",
+      "description": "Lane Johnson, mbrojtësi i djathtë i Philadelphia Eagles, paralajmëroi se sezoni 2026 mund të shënojë përfundimin e karrierës së tij profesionale. Ai u rikt...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-08T17:19:54+00:00",
-      "dateStr": "08 Aug, 17:19",
+      "date": "2026-08-08T18:02:23+00:00",
+      "dateStr": "08 Aug, 18:02",
       "isNew": true,
-      "id": "24 61786209594"
+      "id": "24 31786212143"
     },
     {
-      "title": "Të shtëna në shkollë në Tajlandë, 9 viktima",
-      "link": "https://24-ore.com/te-shtena-ne-shkolle-ne-tajlande-9-viktima/",
-      "description": "Numri i viktimave nga incidenti me të shtëna në një shkollë të mesme në provincën Nonthaburi, në veri të Bangkokut, ka shkuar në nëntë, përfshirë edhe autorin e dyshuar të sulmit, raportojnë mediat tajlandeze. Një nxënëse 12-vjeçare ka ndërruar jetë në spital, pavarësisht përpjekjeve të mjekëve për ",
-      "source": "24 ORE",
+      "title": "“Varet nga SHBA”, Irani vendos kushte për rihapjen e Hormuzit",
+      "link": "https://abcnews.al/varet-nga-shba-irani-vendos-kushte-per-rihapjen-e-hormuzit/",
+      "description": "Zyrtari më i lartë i sigurisë në Iran tha se Ngushtica e Hormuzit do të mbetet e mbyllur derisa SHBA-të të ndryshojnë atë që ai e përshkroi si politika të saj armiqësore dhe të përmbushin një sërë kërkesash iraniane. Në një deklaratë, Mohammad Bagher Zolghadr, sekretari i Këshillit Suprem të Siguris",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-08T17:19:44+00:00",
-      "dateStr": "08 Aug, 17:19",
+      "date": "2026-08-08T18:02:18+00:00",
+      "dateStr": "08 Aug, 18:02",
       "isNew": true,
-      "id": "24 71786209584"
+      "id": "abc21786212138"
     },
     {
-      "title": "Debutim me klas i Leon Parduzit në Bundesliga 2, mbrojtësi 19-vjeçar shkëlqen me Holstein Kiel",
-      "link": "https://24-ore.com/debutim-me-klas-i-leon-parduzit-ne-bundesliga-2-mbrojtesi-19-vjecar-shkelqen-me-holstein-kiel/",
-      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor August 2026 M T W T F S S   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 [&#8230;]",
+      "title": "Klubi amerikan i MLS i fiksuar pas Alvaro Moratës, do që ta bashkojë me mbrojtësin e Kombëtares shqiptare!",
+      "link": "https://24-ore.com/klubi-amerikan-i-mls-i-fiksuar-pas-alvaro-morates-do-qe-ta-bashkoje-me-mbrojtesin-e-kombetares-shqiptare/",
+      "description": "Klubi i Atlanta Junajtid në MLS kërkon me çdo kusht një emër të madh për sulmin dhe kjo është arsyeja pse ka kthyer vëmendjen nga Seria A duke kërkuar emra të njohur që mund t’i bashkohen ekipit ku luan edhe mbrojtësi i Kombëtares, Enea Mihaj. Fillimisht klubi në fjalë kërkoi shërbimet e Romelu Luka",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-08T17:18:56+00:00",
-      "dateStr": "08 Aug, 17:18",
+      "date": "2026-08-08T18:02:10+00:00",
+      "dateStr": "08 Aug, 18:02",
       "isNew": true,
-      "id": "24 81786209536"
+      "id": "24 41786212130"
     },
     {
-      "title": "FOKUS – Zelensky në Serbi, Beogradi dhe Kievi nënshkruajnë memorandum bashkëpunimi",
-      "link": "https://24-ore.com/fokus-zelensky-ne-serbi-beogradi-dhe-kievi-nenshkruajne-memorandum-bashkepunimi/",
-      "description": "BEOGRAD, 8 gusht /ATSH-Ukrinform/ – Presidenti i Ukrainës, Volodymyr Zelensky ka mbërritur sot në Serbi, ku u prit zyrtarisht nga presidenti serb, Aleksandar Vuçiç, në kuadër të vizitës së tij në Beograd. Pas ceremonisë zyrtare të pritjes, dy presidentët zhvilluan bisedime, ku në fokus ishin zgjerim",
+      "title": "Zbulohet FOTO e autorit të dyshuar të krimit, vrau shokun e fëmijërisë pas sherrit! RENEA në ndjekje të tij",
+      "link": "https://24-ore.com/zbulohet-foto-e-autorit-te-dyshuar-te-krimit-vrau-shokun-e-femijerise-pas-sherrit-renea-ne-ndjekje-te-tij/",
+      "description": "Ky në foto është autori i dyshuar i krimit, Kristjan Sterjo, që vrau me kallash pasditen e sotme në lagjen nr. 14 të Korçës shokun e tij të fëmijërisë, ushtarakun dhe ish-futbollistin e akademisë së Skënderbeut, Johan Zuko, 20 vjeç, pas një sherri me motive ende të panjohura. Mësohet se pak minuta m",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-08T17:18:44+00:00",
-      "dateStr": "08 Aug, 17:18",
+      "date": "2026-08-08T18:01:11+00:00",
+      "dateStr": "08 Aug, 18:01",
       "isNew": true,
-      "id": "24 91786209524"
+      "id": "24 51786212071"
+    },
+    {
+      "title": "“Science”: Pse ekspertët rekomandojnë konsumimin e qiqrave për të lehtësuar dhimbjet e shpinës?",
+      "link": "https://24-ore.com/science-pse-ekspertet-rekomandojne-konsumimin-e-qiqrave-per-te-lehtesuar-dhimbjet-e-shpines/",
+      "description": "&#8211; Personat që vuajnë nga dhimbjet e shpinës duhet të përfshijnë më shumë qiqra në regjimin ushqimor, pasi ato janë të pasura me proteina bimore, fibra dhe minerale të rëndësishme për shëndetin e kockave dhe muskujve, sipas “Science”. Qiqrat përmbajnë proteina që ndihmojnë në mirëmbajtjen e mas",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T18:00:18+00:00",
+      "dateStr": "08 Aug, 18:00",
+      "isNew": true,
+      "id": "24 61786212018"
+    },
+    {
+      "title": "20-vjeçari i Forcave të Armatosura u vra në Korçë, forcat RENEA kontrolle edhe në varreza! Autori Kristjan Sterjo u pa aty për herë të fundit",
+      "link": "https://shekulli.com.al/2026/08/08/20-vjecari-i-forcave-te-armatosura-u-vra-ne-korce-forcat-renea-kontrolle-edhe-ne-varreza-autori-kristjan-sterjo-u-pa-aty-per-here-te-fundit/",
+      "description": "Korça është tronditur pasditen e sotme nga vrasja e 20-vjeçarit Johan Zuko, anëtar i Forcave të Armatosura. Mësohet se viktima kishte në trup një plumb, që rezultoi fatal. Autori dyshuar, Kristjan Sterjo, e ka goditur me kallashnikov me një plumb në pjesën e poshtme të shpatullës, plumb i cili i ka ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-08T18:00:14+00:00",
+      "dateStr": "08 Aug, 18:00",
+      "isNew": true,
+      "id": "she11786212014"
+    },
+    {
+      "title": "Ndalet në Jarinjë një pjesëtar i MUP-it serb, MPB-ja i heq shtetësinë e Kosovës",
+      "link": "https://24-ore.com/ndalet-ne-jarinje-nje-pjesetar-i-mup-it-serb-mpb-ja-i-heq-shtetesine-e-kosoves/",
+      "description": "Një pjesëtar i Ministrisë së Punëve të Brendshme të Serbisë (MUP) është ndaluar të enjten në mbrëmje në pikëkalimin kufitar në Jarinjë. Policia e Kosovës e ka konfirmuar rastin, duke bërë të ditur se personi është nga Kosova dhe se është marrë në pyetje. Sipas Policisë, marrja në pyetje nuk nënkupto",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T17:54:07+00:00",
+      "dateStr": "08 Aug, 17:54",
+      "isNew": true,
+      "id": "24 71786211647"
+    },
+    {
+      "title": "Mediat zbulojnë sekretet e kontratës së Salah te Trabzonspor, 30 mln euro pagë, shpenzime parukerie, për letër higjienike",
+      "link": "https://24-ore.com/mediat-zbulojne-sekretet-e-kontrates-se-salah-te-trabzonspor-30-mln-euro-page-shpenzime-parukerie-per-leter-higjienike/",
+      "description": "Transferimi i Mohamed Salah te Trabzonspor është lajmi i verës deri më tani. Superylli 35-vjeçar egjiptian është larguar nga Liverpooli pas një dekade dhe po vazhdon me Trabzonspor, në një transferim surprizë që ka ngjallur shumë diskutime. Siç është logjike, një transferim i tillë shkakton edhe shu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T17:50:09+00:00",
+      "dateStr": "08 Aug, 17:50",
+      "isNew": true,
+      "id": "24 81786211409"
+    },
+    {
+      "title": "Britanikët rekord në shpërdorimin e ilaçeve! Brenda një viti hodhën në plehra 3400 tonë medikamente, do të mbushnin 75",
+      "link": "https://24-ore.com/britaniket-rekord-ne-shperdorimin-e-ilaceve-brenda-nje-viti-hodhen-ne-plehra-3400-tone-medikamente-do-te-mbushnin-75/",
+      "description": "Sasia e ilaçeve të papërdorura të hedhura në Angli  vetëm në një vit mund të mbushë 75 pishina, tha Shoqata Kombëtare Farmaceutike (NPA). Shoqata vlerëson se 3,400 tonë ilaçe të përdorura pjesërisht u hodhën në Angli në vitet 2024-25. NPA, e cila analizoi të dhënat nga autoritetet lokale shëndetësor",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T17:49:35+00:00",
+      "dateStr": "08 Aug, 17:49",
+      "isNew": true,
+      "id": "24 91786211375"
+    },
+    {
+      "title": "“S’e harroj dot!”/ Vrasja në Korçë, dëshmitarja: E pashë djalin të shtrirë, gjaku i rridhte nga koka",
+      "link": "https://abcnews.al/se-harroj-dot-vrasja-ne-korce-deshmitarja-e-pashe-djalin-te-shtrire-gjaku-i-rridhte-nga-koka/",
+      "description": "Lidhur me ngjarjen e rëndë të regjistruar këtë të shtunë, 8 gusht 2026, në lagjen numër 14 të qytetit të Korçës ka rrëfyer momentet tronditëse pas ngjarjes, një dëshmitare, e cila banonte në pallatin ku ndodhi ngjarja. Ajo tregon se ndodhej në banesë me nënën e saj kur dëgjoi një zhurmë të fortë. Fi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-08T17:48:41+00:00",
+      "dateStr": "08 Aug, 17:48",
+      "isNew": true,
+      "id": "abc31786211321"
+    },
+    {
+      "title": "Pamje nga banesa e autorit të vrasjes në Korçë/ Kristjan Sterjo jetonte vetëm me babain, prindërit i ishin divorcuar",
+      "link": "https://abcnews.al/pamje-nga-banesa-e-autorit-te-vrasjes-ne-korce-kristjan-sterjo-jetonte-vetem-me-babain-prinderit-i-ishin-divorcuar/",
+      "description": "ABC News ka arritur që të sigurojë pamje të banesës së autorit të dyshuar, të vrasjes së 20-vjeçarit Johan Zuko. Autori i dyshuar i ngjarjes, i cili ndodhet ende në arrati, Kristjan Sterjo jetojnë vetëm me babain, pasi prindërit i kishte të divorcuar. Forcat e RENEA-s kanë zbarkuar në qytetin e Korç",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-08T17:41:31+00:00",
+      "dateStr": "08 Aug, 17:41",
+      "isNew": true,
+      "id": "abc41786210891"
+    },
+    {
+      "title": "FOTO/ Ky është autori i vrasjes në Korçë, forcat RENEA kontrolle në banesë, Kristjan Sterjo vijon në arrati",
+      "link": "https://shekulli.com.al/2026/08/08/foto-ky-eshte-autori-i-vrasjes-ne-korce-forcat-renea-kontrolle-ne-banese-kristjan-sterjo-vijon-ne-arrati/",
+      "description": "Kristjan Sterjo është autori i vrasjes së 20-vjeçarit Johan Zuko në Korçë. Forcat RENEA kanë zbarkuar në Korçë dhe bashkë me forca të shumta policie, kanë shkuar pranë banesës së autorit, por nuk kanë mundur dot ta gjejnë atje. Sterjo vijon të jetë në arrati dhe për kapjen e tij janë mobilizuar forc",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-08T17:37:56+00:00",
+      "dateStr": "08 Aug, 17:37",
+      "isNew": true,
+      "id": "she21786210676"
+    },
+    {
+      "title": "Pas konfliktit vrau 20-vjeçarin/ Del fotoja e autorit të vrasjes. RENEA zbarkon në Korçë",
+      "link": "https://abcnews.al/pas-konfliktit-vrau-20-vjecarin-del-fotoja-e-autorit-te-vrasjes-renea-zbarkon-ne-korce/",
+      "description": "Zbulohet fotoja e Kristjan Sterjos, autorit të dyshuar për vrasjen e 20-vjeçarit Johan Zuko në Korçë. Sterjo vijon të jetë në kërkim, ndërsa Policia ka intensifikuar kontrollet për lokalizimin dhe kapjen e tij. Sipas të dhënave të hetimit, Sterjo dhe viktima kanë qenë shokë dhe janë rritur bashkë. M",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-08T17:33:10+00:00",
+      "dateStr": "08 Aug, 17:33",
+      "isNew": true,
+      "id": "abc51786210390"
+    },
+    {
+      "title": "Vrasja e 20-vjeçarit në Korçë, banorja flet e tronditur: Dëgjova shumë zhurmë, djali ishte shtrirë dhe i dilte gjak nga koka",
+      "link": "https://shekulli.com.al/2026/08/08/vrasja-e-20-vjecarit-ne-korce-banorja-flet-e-tronditur-degjova-shume-zhurme-djali-ishte-shtrire-dhe-i-dilte-gjak-nga-koka/",
+      "description": "Korça është tronditur pasditen e sotme nga vrasja e 20-vjeçarit Johan Zuko, anëtar i Forcave të Armatosura. Mësohet se viktima kishte në trup një plumb, që rezultoi fatal. Autori dyshuar, Kristjan Sterjo, e ka goditur me kallashnikov me një plumb në pjesën e poshtme të shpatullës, plumb i cili i ka ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-08T17:31:22+00:00",
+      "dateStr": "08 Aug, 17:31",
+      "isNew": true,
+      "id": "she31786210282"
+    },
+    {
+      "title": "Kolumbia ka presidentin e ri, De la Espriella merr zyrtarisht detyrën",
+      "link": "https://abcnews.al/kolumbia-ka-presidentin-e-ri-de-la-espriella-merr-zyrtarisht-detyren/",
+      "description": "Avokati dhe politikani i ri në skenën politike Abelardo de la Espriella bëri betimin si president i Kolumbisë, gjatë një ceremonie në qytetin jugperëndimor të Kalit. Ceremonia, e zhvilluar jashtë kryeqytetit Bogota, thyen për herë të parë pas më shumë se një shekulli traditën. Inaugurimi shënon një ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-08T17:27:19+00:00",
+      "dateStr": "08 Aug, 17:27",
+      "isNew": true,
+      "id": "abc61786210039"
     },
     {
       "title": "EMRI/ Ishin rritur bashkë, mësohet identiteti i autorit të dyshuar për vrasjen e ndodhur në Korçë",
@@ -122,18 +243,18 @@
       "date": "2026-08-08T17:17:19+00:00",
       "dateStr": "08 Aug, 17:17",
       "isNew": true,
-      "id": "she01786209439"
+      "id": "she41786209439"
     },
     {
       "title": "Plumbi e shpoi tej për tej, viktima në Korçë u qëllua nga pas duke ngjitur shkallët",
       "link": "https://shekulli.com.al/2026/08/08/plumbi-e-shpoi-tej-per-tej-viktima-ne-korce-u-qellua-nga-pas-duke-ngjitur-shkallet/",
-      "description": "Korça është tronditur pasditen e sotme nga vrasja e 20-vjeçarit Johan Zuko, anëtar i Forcave të Armatosura. Mësohet se viktima kishte në trup një plumb, që rezultoi fatal. Autori dyshuar, Kristjan Sterjo, i cili është identifikuar nga policia, e ka goditur me kallashnikov me një plumb në pjesën e po",
+      "description": "Korça është tronditur pasditen e sotme nga vrasja e 20-vjeçarit Johan Zuko, anëtar i Forcave të Armatosura. Mësohet se viktima kishte në trup një plumb, që rezultoi fatal. Autori dyshuar, Kristjan Sterjo, e ka goditur me kallashnikov me një plumb në pjesën e poshtme të shpatullës, plumb i cili i ka ",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-08-08T17:09:51+00:00",
       "dateStr": "08 Aug, 17:09",
       "isNew": true,
-      "id": "she11786208991"
+      "id": "she51786208991"
     },
     {
       "title": "Vrasja në Korçë/ Identifikohet autori: E qëlloi viktimën nga pas teksa po ngjiste shkallët e pallatit (EMRI)",
@@ -144,7 +265,7 @@
       "date": "2026-08-08T17:07:34+00:00",
       "dateStr": "08 Aug, 17:07",
       "isNew": true,
-      "id": "abc01786208854"
+      "id": "abc71786208854"
     },
     {
       "title": "Vrasja e 20-vjeçarit në Korçë, shoqërohen në polici 3 persona, dyshohet se u përfshinë në konfikt",
@@ -155,7 +276,7 @@
       "date": "2026-08-08T16:59:49+00:00",
       "dateStr": "08 Aug, 16:59",
       "isNew": true,
-      "id": "she21786208389"
+      "id": "she61786208389"
     },
     {
       "title": "NewsHour me Rovena Neziri, (08/08/2026)",
@@ -166,7 +287,7 @@
       "date": "2026-08-08T16:44:39+00:00",
       "dateStr": "08 Aug, 16:44",
       "isNew": true,
-      "id": "abc11786207479"
+      "id": "abc81786207479"
     },
     {
       "title": "“Konflikti ishte i mbartur”/ Vrasja në Korçë, policia zbardh dinamikën: Autori është parë të shkojë në drejtim të varrezave",
@@ -177,7 +298,7 @@
       "date": "2026-08-08T16:41:51+00:00",
       "dateStr": "08 Aug, 16:41",
       "isNew": true,
-      "id": "abc21786207311"
+      "id": "abc91786207311"
     },
     {
       "title": "“Konflikt i mbartur, ishim në dijeni”, zyrtari i policisë për vrasjen e 20-vjeçarit: Autori u largua drejt varrezave",
@@ -188,18 +309,7 @@
       "date": "2026-08-08T16:37:55+00:00",
       "dateStr": "08 Aug, 16:37",
       "isNew": true,
-      "id": "she31786207075"
-    },
-    {
-      "title": "Spanja vendos kontrolle kufitare ndaj Italisë, përshkallëzohet përplasja për fluksin e migrantëve në Ceuta",
-      "link": "https://abcnews.al/spanja-vendos-kontrolle-kufitare-ndaj-italise-pershkallezohet-perplasja-per-fluksin-e-migranteve-ne-ceuta/",
-      "description": "Spanja ka vendosur kontrolle kufitare për të gjitha udhëtimet ajrore dhe detare nga Italia, ndërsa përplasja mes dy vendeve anëtare të BE-së për çështjen e migracionit po përshkallëzohet. Masat, të cilat nisën në mesnatëdhe do të zgjasin për një muaj, vijnë një javë pasi Italia vendosi kufizime të n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-08T16:26:57+00:00",
-      "dateStr": "08 Aug, 16:26",
-      "isNew": true,
-      "id": "abc31786206417"
+      "id": "she71786207075"
     },
     {
       "title": "Vrasja e 20-vjeçarit në Korçë, banorët të frikësuar: Dëgjuam një zhurmë të madhe, dolëm jashtë dhe…",
@@ -210,18 +320,7 @@
       "date": "2026-08-08T16:25:01+00:00",
       "dateStr": "08 Aug, 16:25",
       "isNew": true,
-      "id": "she41786206301"
-    },
-    {
-      "title": "Zjarri rrezikon banesat në Mallakastër, evakuohen disa familje",
-      "link": "https://abcnews.al/zjarri-rrezikon-banesat-ne-mallakaster-evakuohen-disa-familje/",
-      "description": "Zjarri rrezikon banesat në fshatin Koilac, Policia evakuon disa familje. Vijon operacioni për shuarjen e flakëve. Shërbimet e Policisë kanë ndërhyrë menjëherë për evakuimin e disa familjeve nga fshati Koilac, Mallakastër, pasi zjarri masiv që ka përfshirë sipërfaqe të mëdha toke është përhapur me sh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-08T16:00:16+00:00",
-      "dateStr": "08 Aug, 16:00",
-      "isNew": true,
-      "id": "abc41786204816"
+      "id": "she81786206301"
     },
     {
       "title": "E vrau shoku/ Detaje të reja nga vrasja e Johan Zukos në Korçë, me autorin ishin rritur bashkë…",
@@ -232,106 +331,7 @@
       "date": "2026-08-08T15:52:20+00:00",
       "dateStr": "08 Aug, 15:52",
       "isNew": true,
-      "id": "she51786204340"
-    },
-    {
-      "title": "FOTO+EMRI/ Ky është 20-vjeçari që u vra sot në Korçë, viktima pjesë e Forcave të Armatosura. Tentoi t’i ikte autorit me kallash… por nuk ia doli!",
-      "link": "https://shekulli.com.al/2026/08/08/fotoemri-ky-eshte-20-vjecari-qe-u-vra-sot-ne-korce-viktima-pjese-e-forcave-te-armatosura-tentoi-ti-ikte-autorit-me-kallash-por-nuk-ia-doli/",
-      "description": "SHEKULLI ka siguruar foton e viktimës Johan Zuko, i cili u vra sot me kallashnikov në lagjen 14 të qytetit të Korçës. Burime bëjnë me dije se viktima, rreth 20 vjeç ka qenë pjesë e Forcave të Armatosura, ndërsa me autorin e dyshuar kanë qenë shokë dhe janë rritur bashkë. Autori i dyshuar rezulton të",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-08T15:37:06+00:00",
-      "dateStr": "08 Aug, 15:37",
-      "isNew": true,
-      "id": "she61786203426"
-    },
-    {
-      "title": "Një dron hyn nga Rumania dhe shpërthen mbi Bullgari, ‘alarm’ në krahun lindor të NATO-s",
-      "link": "https://abcnews.al/nje-dron-hyn-nga-rumania-dhe-shperthen-mbi-bullgari-alarm-ne-krahun-lindor-te-nato-s/",
-      "description": "Një dron ende i paidentifikuar shpërtheu mbi Bullgari, pranë kufirit me Rumaninë, njoftuan autoritetet. Sipas kryeministrit bullgar Rumen Radev, droni hyri në hapësirën ajrore të Bullgarisë nga Rumania dhe shpërtheu rreth 1,000 metra larg një stacioni kompresor të gazsjellësit Trans-Ballkanik, pranë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-08T15:27:33+00:00",
-      "dateStr": "08 Aug, 15:27",
-      "isNew": true,
-      "id": "abc51786202853"
-    },
-    {
-      "title": "DINAMIKA- Vrasja e 20-vjeçarit në Korçë, autori e ndoqi këmba-këmbës me kallash, viktima pjesë e FA-ve tentoi të fshihej në pallat",
-      "link": "https://shekulli.com.al/2026/08/08/dinamika-vrasja-e-20-vjecarit-ne-korce-autori-e-ndoqi-kemba-kembes-me-kallash-viktima-pjese-e-fa-ve-tentoi-te-fshihej-ne-pallat/",
-      "description": "Një krim i rëndë ka tronditur ka ndodhur pasditen e kësaj të shtune në qytetin e Korçës, ku një person ka mbetur i vrarë me armë zjarri në lagjen nr. 14. Viktima është identifikuar paraprakisht si Johan Zuko, i cili mësohet se është pjesë e Forcave të Armatosura, rreth 20-vjeç. Burime nga Policia bë",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-08T15:16:06+00:00",
-      "dateStr": "08 Aug, 15:16",
-      "isNew": true,
-      "id": "she71786202166"
-    },
-    {
-      "title": "U qëllua me kallashnikov/ Vrasja në Korçë, 20-vjeçari pjesë e Forcave të Armatosura (FOTO)",
-      "link": "https://abcnews.al/u-qellua-me-kallashnikov-vrasja-ne-korce-20-vjecari-pjese-e-forcave-te-armatosura/",
-      "description": "Detaje të reja kanë dalë lidhur me vrasjen në lagjen numër 14 në qytetin e Korçës. ABC News ka mësuar se viktima, është 20 vjeçari Johan Zuko. Zuko mësohet të ketë qenë ushtarak dhe pjesë e Forcave të Armatosura të Shqipërisë. Sipas informacioneve paraprake 20-vjeçari ishte fshehur në hyrjen e një a",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-08T15:07:07+00:00",
-      "dateStr": "08 Aug, 15:07",
-      "isNew": true,
-      "id": "abc61786201627"
-    },
-    {
-      "title": "EMRI- Kush është 20-vjeçari që u vra sot në Korçë, pjesë e Forcave të Armatosura, u qëllua me kallashnikov",
-      "link": "https://shekulli.com.al/2026/08/08/emri-kush-eshte-20-vjecari-qe-u-vra-sot-ne-korce-pjese-e-forcave-te-armatosura-u-qellua-me-kallashnikov/",
-      "description": "KORÇË- Johan Zuko, është 20-vjeçari që ka mbetur i vdekur sot në Korçë, pas të shtënave me kallashnikov që u regjistruan në lagjen 14 të qytetit. Shekulli mëson se viktima ka qenë pjesë e Forcave të Armatosura, ndërsa ngjarja e sotme ka tronditur mbarë opinionin publik. Sipas informacioneve paraprak",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-08T15:04:01+00:00",
-      "dateStr": "08 Aug, 15:04",
-      "isNew": true,
-      "id": "she81786201441"
-    },
-    {
-      "title": "Vritet me armë zjarri një 20-vjeçar në Korçë/ Detaje: Viktima u fsheh në një apartament, autori e ndoqi dhe e vrau",
-      "link": "https://abcnews.al/vrasje-me-arme-zjarri-ne-korce/",
-      "description": "Një vrasje ka ndodhur në lagjen 14 në Korçë. Sipas informacioneve paraprake, bëhet fjalë për një viktimë rreth moshës 20 vjeç. Për kryerjen e krimit dyshohet të jetë përdorur një armë zjarri kallashnikov. Pas vrasjes, autori është arratisur. Autori e ka ndjekur viktimën. Viktima është fshehur në hyr",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-08T14:52:27+00:00",
-      "dateStr": "08 Aug, 14:52",
-      "isNew": true,
-      "id": "abc71786200747"
-    },
-    {
-      "title": "Tronditet Korça, të shtëna me armë zjarri, vritet një person",
-      "link": "https://shekulli.com.al/2026/08/08/tronditet-korca-te-shtena-me-arme-zjarri-vritet-nje-person/",
-      "description": "KORÇË&#8211; Një ngjarje e rëndë është raportuar këtë të shtunë në qytetin e Korçës, ku dyshohet se një person është vrarë me armë zjarri, në lagjen 14 të qytetit. Sipas informacioneve paraprake, viktima është qëlluar me një armë zjarri tip kallashnikov. Autori i dyshuar është larguar nga vendi i ng",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-08T14:51:32+00:00",
-      "dateStr": "08 Aug, 14:51",
-      "isNew": true,
-      "id": "she91786200692"
-    },
-    {
-      "title": "Thatësia zbulon historinë/ Thahet Danubi, dalin mbetje të flotës gjermane të 1944",
-      "link": "https://abcnews.al/thatesia-zbulon-historine-thahet-danubi-dalin-mbetje-te-flotes-gjermane-te-1944/",
-      "description": "Thatësira e pazakontë që ka përfshirë Evropën këtë verë ka ulur ndjeshëm nivelin e lumit Danub, duke nxjerrë në sipërfaqe një pjesë të historisë së errët të Luftës së Dytë Botërore. Në Serbi, pranë portit të Prahovës, dhjetëra anije luftarake naziste, të fundosura rreth 80 vite më parë, janë bërë të",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-08T14:40:13+00:00",
-      "dateStr": "08 Aug, 14:40",
-      "isNew": true,
-      "id": "abc81786200013"
-    },
-    {
-      "title": "“Siguria rrugore mbetet prioritet”/ Rama: Së shpejti vihen në funksion kamerat e Qendrës Kombëtare",
-      "link": "https://abcnews.al/siguria-rrugore-mbetet-prioritet-rama-se-shpejti-vihen-ne-funksion-kamerat-e-qendres-kombetare/",
-      "description": "Përmes një postimi në rrjetet sociale, kryeministri Edi Rama deklaroi se siguria rrugore mbetet prioritet dhe njoftoi se së shpejti kamerat e Qendrës Kombëtare të Monitorimit do të vihen në funksion për të forcuar kontrollin në akset kryesore. Paralelisht me apelin për drejtuesit e mjeteve që të shm",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-08T14:25:08+00:00",
-      "dateStr": "08 Aug, 14:25",
-      "isNew": true,
-      "id": "abc91786199108"
+      "id": "she91786204340"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
