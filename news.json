@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-08T03:20:34.948520+00:00",
+  "lastUpdated": "2026-08-08T04:51:52.674804+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Charlotte FC mposht Atlas 2-0 dhe kryeson tabelën e Leagues Cup",
+      "link": "https://24-ore.com/charlotte-fc-mposht-atlas-2-0-dhe-kryeson-tabelen-e-leagues-cup/",
+      "description": "Charlotte FC arriti fitoren e dytë radhazi në Leagues Cup, duke mundur Atlas 2-0 në Bank of America Stadium. Golat u shënuan nga ndërkombëtari izraelit Lie...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T04:15:24+00:00",
+      "dateStr": "08 Aug, 04:15",
+      "isNew": true,
+      "id": "24 01786162524"
+    },
+    {
+      "title": "Një fitore 3-2 për Los Angeles Dodgers ndaj Arizona Diamondbacks",
+      "link": "https://24-ore.com/nje-fitore-3-2-per-los-angeles-dodgers-ndaj-arizona-diamondbacks/",
+      "description": "Los Angeles Dodgers fituan 3-2 ndaj Arizona Diamondbacks në ndeshjen e luajtur më 7 gusht 2026 në Chase Field. Dodgers shënuan nga një herë në pjesët e gja...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T04:11:16+00:00",
+      "dateStr": "08 Aug, 04:11",
+      "isNew": true,
+      "id": "24 11786162276"
+    },
+    {
+      "title": "Nash Roed duket i gatshëm për NHL, por do të presë shansin në draftin e 2028",
+      "link": "https://24-ore.com/nash-roed-duket-i-gatshem-per-nhl-por-do-te-prese-shansin-ne-draftin-e-2028/",
+      "description": "Nash Roed shfaqi formë të shkëlqyer me një hat-trick në gjysmëfinalen e Hlinka Gretzky Cup, duke ndihmuar Shtetet e Bashkuara të fitojnë 5-2 ndaj Sllovakis...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T03:22:04+00:00",
+      "dateStr": "08 Aug, 03:22",
+      "isNew": true,
+      "id": "24 21786159324"
+    },
     {
       "title": "Gjykatësi i Teksasit hedh poshtë akuzën për armë ndaj James Harden",
       "link": "https://24-ore.com/gjykatesi-i-teksasit-hedh-poshte-akuzen-per-arme-ndaj-james-harden/",
@@ -12,7 +45,7 @@
       "date": "2026-08-08T02:46:46+00:00",
       "dateStr": "08 Aug, 02:46",
       "isNew": true,
-      "id": "24 01786157206"
+      "id": "24 31786157206"
     },
     {
       "title": "Netflix po zhvillon një serial dramatik për New York Yankees që shtrihet në periudha të ndryshme të historisë së ekipit",
@@ -23,7 +56,7 @@
       "date": "2026-08-08T02:45:56+00:00",
       "dateStr": "08 Aug, 02:45",
       "isNew": true,
-      "id": "24 11786157156"
+      "id": "24 41786157156"
     },
     {
       "title": "Top 20 mbrojtës për sezonin 2026–27: pritshmëritë dhe kandidatët kryesorë",
@@ -34,7 +67,7 @@
       "date": "2026-08-08T02:42:19+00:00",
       "dateStr": "08 Aug, 02:42",
       "isNew": true,
-      "id": "24 21786156939"
+      "id": "24 51786156939"
     },
     {
       "title": "Golden State Valkyries në epërsi 30-23 ndaj Dallas Wings, 9:04 në çerekun e dytë",
@@ -45,7 +78,7 @@
       "date": "2026-08-08T02:10:56+00:00",
       "dateStr": "08 Aug, 02:10",
       "isNew": true,
-      "id": "24 31786155056"
+      "id": "24 61786155056"
     },
     {
       "title": "Jaylen Brown takohet me Jalen Hurts në stërvitjen e Eagles pas transferimit te 76ers",
@@ -56,7 +89,7 @@
       "date": "2026-08-08T02:06:32+00:00",
       "dateStr": "08 Aug, 02:06",
       "isNew": true,
-      "id": "24 41786154792"
+      "id": "24 71786154792"
     },
     {
       "title": "Rays dhe Mariners 0-0 në pjesën e dytë, Mariners regjistrojnë një goditje",
@@ -67,7 +100,7 @@
       "date": "2026-08-08T02:05:47+00:00",
       "dateStr": "08 Aug, 02:05",
       "isNew": true,
-      "id": "24 51786154747"
+      "id": "24 81786154747"
     },
     {
       "title": "Padres të San Diegos përballë Astros të Houstonit në Petco Park, 7 gusht 2026",
@@ -78,40 +111,7 @@
       "date": "2026-08-08T01:25:41+00:00",
       "dateStr": "08 Aug, 01:25",
       "isNew": true,
-      "id": "24 61786152341"
-    },
-    {
-      "title": "Rangimi i përditësuar i yjeve meshkuj të WWE pas SummerSlam",
-      "link": "https://24-ore.com/rangimi-i-perditesuar-i-yjeve-meshkuj-te-wwe-pas-summerslam/",
-      "description": "SummerSlam solli kthime të befasishme, ndryshime titujsh dhe mbyllje të disa linjave historike, duke ridizajnuar skenarin për pjesën e dytë të vitit dhe pë...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T00:52:03+00:00",
-      "dateStr": "08 Aug, 00:52",
-      "isNew": true,
-      "id": "24 71786150323"
-    },
-    {
-      "title": "Yankees ndaj Braves në Bronx, 7 gusht 2026: fillimi i ndeshjes i shtyrë nga shirat",
-      "link": "https://24-ore.com/yankees-ndaj-braves-ne-bronx-7-gusht-2026-fillimi-i-ndeshjes-i-shtyre-nga-shirat/",
-      "description": "Në Yankee Stadium në Bronx u planifikua takimi mes New York Yankees dhe Atlanta Braves më 7 gusht 2026. Para ndeshjes, skuadrat kishin bilancet përkatëse 7...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T00:46:00+00:00",
-      "dateStr": "08 Aug, 00:46",
-      "isNew": true,
-      "id": "24 81786149960"
-    },
-    {
-      "title": "Blake Monroe propozon Sabrina Carpenter për himnin e hyrjes së saj para debutimit në ring",
-      "link": "https://24-ore.com/blake-monroe-propozon-sabrina-carpenter-per-himnin-e-hyrjes-se-saj-para-debutimit-ne-ring/",
-      "description": "WWE-ja po përgatit debutimin në rosterin kryesor të Blake Monroe, dhe vetë Monroe ka sugjeruar që këngëtarja pop Sabrina Carpenter të interpretojë himnin e...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T00:11:46+00:00",
-      "dateStr": "08 Aug, 00:11",
-      "isNew": true,
-      "id": "24 91786147906"
+      "id": "24 91786152341"
     },
     {
       "title": "Seanca shtyhet të shtunën/ Konstituimi i Kuvendit të Kosovës, afati përfundon sot në orën 24:00",
