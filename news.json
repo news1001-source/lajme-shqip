@@ -1,8 +1,85 @@
 {
-  "lastUpdated": "2026-08-08T01:13:33.306834+00:00",
+  "lastUpdated": "2026-08-08T03:20:34.948520+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Gjykatësi i Teksasit hedh poshtë akuzën për armë ndaj James Harden",
+      "link": "https://24-ore.com/gjykatesi-i-teksasit-hedh-poshte-akuzen-per-arme-ndaj-james-harden/",
+      "description": "Një akuzë e gjendjes së lehtë për posedim arme kundër yllit të Cleveland Cavaliers, James Harden, u hoq pasi ai përfundoi një program alternativ që i mundë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T02:46:46+00:00",
+      "dateStr": "08 Aug, 02:46",
+      "isNew": true,
+      "id": "24 01786157206"
+    },
+    {
+      "title": "Netflix po zhvillon një serial dramatik për New York Yankees që shtrihet në periudha të ndryshme të historisë së ekipit",
+      "link": "https://24-ore.com/netflix-po-zhvillon-nje-serial-dramatik-per-new-york-yankees-qe-shtrihet-ne-periudha-te-ndryshme-te-historise-se-ekipit/",
+      "description": "Netflix dhe Major League Baseball po punojnë së bashku për zhvillimin e një seriali dramatik që do të fokusohet tek historia e New York Yankees. Projektin...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T02:45:56+00:00",
+      "dateStr": "08 Aug, 02:45",
+      "isNew": true,
+      "id": "24 11786157156"
+    },
+    {
+      "title": "Top 20 mbrojtës për sezonin 2026–27: pritshmëritë dhe kandidatët kryesorë",
+      "link": "https://24-ore.com/top-20-mbrojtes-per-sezonin-2026-27-pritshmerite-dhe-kandidatet-kryesore/",
+      "description": "Lista e 20 mbrojtësve më të mirë për sezonin 2026–27 pritet të publikohet të dielën në mbrëmje, dhe përpara zbulimit analistët po vlerësojnë se cilët lojta...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T02:42:19+00:00",
+      "dateStr": "08 Aug, 02:42",
+      "isNew": true,
+      "id": "24 21786156939"
+    },
+    {
+      "title": "Golden State Valkyries në epërsi 30-23 ndaj Dallas Wings, 9:04 në çerekun e dytë",
+      "link": "https://24-ore.com/golden-state-valkyries-ne-epersi-30-23-ndaj-dallas-wings-904-ne-cerekun-e-dyte/",
+      "description": "Golden State Valkyries udhëheqin ndaj Dallas Wings 30-23, me 9:04 të mbetura në çerekun e dytë. Valkyries kanë bilancin 21-9, ndërsa Wings janë 19-12.Siç r...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T02:10:56+00:00",
+      "dateStr": "08 Aug, 02:10",
+      "isNew": true,
+      "id": "24 31786155056"
+    },
+    {
+      "title": "Jaylen Brown takohet me Jalen Hurts në stërvitjen e Eagles pas transferimit te 76ers",
+      "link": "https://24-ore.com/jaylen-brown-takohet-me-jalen-hurts-ne-stervitjen-e-eagles-pas-transferimit-te-76ers/",
+      "description": "Pas transferimit nga Boston Celtics muajin e kaluar, Jaylen Brown u shfaq të premten në kampin stërvitor të Philadelphia Eagles. Ai u pa duke ndjekur stërv...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T02:06:32+00:00",
+      "dateStr": "08 Aug, 02:06",
+      "isNew": true,
+      "id": "24 41786154792"
+    },
+    {
+      "title": "Rays dhe Mariners 0-0 në pjesën e dytë, Mariners regjistrojnë një goditje",
+      "link": "https://24-ore.com/rays-dhe-mariners-0-0-ne-pjesen-e-dyte-mariners-regjistrojne-nje-goditje/",
+      "description": "Në ndeshjen e 7 gushtit 2026 midis Tampa Bay Rays dhe Seattle Mariners, skuadrat ishin të barabarta pa gola në pjesën e dytë. Tampa Bay hynte me rekord 68-...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T02:05:47+00:00",
+      "dateStr": "08 Aug, 02:05",
+      "isNew": true,
+      "id": "24 51786154747"
+    },
+    {
+      "title": "Padres të San Diegos përballë Astros të Houstonit në Petco Park, 7 gusht 2026",
+      "link": "https://24-ore.com/padres-te-san-diegos-perballe-astros-te-houstonit-ne-petco-park-7-gusht-2026/",
+      "description": "Në Petco Park të San Diegos më 7 gusht 2026, San Diego Padres presin Houston Astros në një përballje që vë në qendër startuesit. Houston pritet të hedhë në...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T01:25:41+00:00",
+      "dateStr": "08 Aug, 01:25",
+      "isNew": true,
+      "id": "24 61786152341"
+    },
     {
       "title": "Rangimi i përditësuar i yjeve meshkuj të WWE pas SummerSlam",
       "link": "https://24-ore.com/rangimi-i-perditesuar-i-yjeve-meshkuj-te-wwe-pas-summerslam/",
@@ -12,7 +89,7 @@
       "date": "2026-08-08T00:52:03+00:00",
       "dateStr": "08 Aug, 00:52",
       "isNew": true,
-      "id": "24 01786150323"
+      "id": "24 71786150323"
     },
     {
       "title": "Yankees ndaj Braves në Bronx, 7 gusht 2026: fillimi i ndeshjes i shtyrë nga shirat",
@@ -23,7 +100,7 @@
       "date": "2026-08-08T00:46:00+00:00",
       "dateStr": "08 Aug, 00:46",
       "isNew": true,
-      "id": "24 11786149960"
+      "id": "24 81786149960"
     },
     {
       "title": "Blake Monroe propozon Sabrina Carpenter për himnin e hyrjes së saj para debutimit në ring",
@@ -34,84 +111,7 @@
       "date": "2026-08-08T00:11:46+00:00",
       "dateStr": "08 Aug, 00:11",
       "isNew": true,
-      "id": "24 21786147906"
-    },
-    {
-      "title": "Rangers vs. Orioles, 7 gusht 2026: Eovaldi përballë S. Baz në Globe Life Field",
-      "link": "https://24-ore.com/rangers-vs-orioles-7-gusht-2026-eovaldi-perballe-s-baz-ne-globe-life-field/",
-      "description": "Në 7 gusht 2026, Texas Rangers pritën Baltimore Orioles në Globe Life Field në Arlington. Startuesit e ndeshjes ishin S. Baz (4-10, 3.86 ERA) për Orioles d...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T00:05:44+00:00",
-      "dateStr": "08 Aug, 00:05",
-      "isNew": true,
-      "id": "24 31786147544"
-    },
-    {
-      "title": "Maxx Crosby dhe Kirk Cousins ndeshen me zë gjatë stërvitjes së Raiders",
-      "link": "https://24-ore.com/maxx-crosby-dhe-kirk-cousins-ndeshen-me-ze-gjate-stervitjes-se-raiders/",
-      "description": "Gjatë një seance të stërvitjes së Las Vegas Raiders, pas-rusheri Maxx Crosby dhe quarterbacku Kirk Cousins u përfshinë në një përplasje verbale pas një pas...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T23:31:22+00:00",
-      "dateStr": "07 Aug, 23:31",
-      "isNew": true,
-      "id": "24 41786145482"
-    },
-    {
-      "title": "Kevin Durant kritikon notën për gjuajtjet nga mesfusha në NBA 2K27",
-      "link": "https://24-ore.com/kevin-durant-kritikon-noten-per-gjuajtjet-nga-mesfusha-ne-nba-2k27/",
-      "description": "Kevin Durant shprehu pakënaqësi për vlerësimin e tij të gjuajtjeve nga mesfusha në lojën e ardhshme NBA 2K27, duke reaguar në rrjetin Threads për notën që...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T23:26:18+00:00",
-      "dateStr": "07 Aug, 23:26",
-      "isNew": true,
-      "id": "24 51786145178"
-    },
-    {
-      "title": "Jahmyr Gibbs apo Bijan Robinson: Kush është running back-u më i mirë? Pritshmëritë për rookie-n Jeremiyah Love",
-      "link": "https://24-ore.com/jahmyr-gibbs-apo-bijan-robinson-kush-eshte-running-back-u-me-i-mire-pritshmerite-per-rookie-n-jeremiyah-love/",
-      "description": "Debati për atë që konsiderohet running back-u më i mirë vazhdon të jetë i ngushtë midis Jahmyr Gibbs dhe Bijan Robinson. Të dy lojtarët, zgjedhur në raundi...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T23:22:04+00:00",
-      "dateStr": "07 Aug, 23:22",
-      "isNew": true,
-      "id": "24 61786144924"
-    },
-    {
-      "title": "Washington Mystics dhe Atlanta Dream përballen në CareFirst Arena më 7 gusht 2026",
-      "link": "https://24-ore.com/washington-mystics-dhe-atlanta-dream-perballen-ne-carefirst-arena-me-7-gusht-2026/",
-      "description": "Më 7 gusht 2026, Washington Mystics do të presin Atlanta Dream në CareFirst Arena në Washington, D.C., në një përballje të rëndësishme të sezonit të rregul...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T22:50:30+00:00",
-      "dateStr": "07 Aug, 22:50",
-      "isNew": true,
-      "id": "24 71786143030"
-    },
-    {
-      "title": "Një mësues zëvendësues bën komentimin në radio për Phillies pas fitimit të ankandit me 22,010 dollarë",
-      "link": "https://24-ore.com/nje-mesues-zevendesues-ben-komentimin-ne-radio-per-phillies-pas-fitimit-te-ankandit-me-22010-dollare/",
-      "description": "Një mësues zëvendësues nga zona e Filadelfias, Lewis Kalb, mori përsipër komentimin në studio për një inning gjatë ndeshjes së Phillies dhe la përshtypje m...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T22:45:28+00:00",
-      "dateStr": "07 Aug, 22:45",
-      "isNew": true,
-      "id": "24 81786142728"
-    },
-    {
-      "title": "Matt Duchene ruan besimin te Dallas Stars dhe tek Jim Nill pas eleminimit të hershëm",
-      "link": "https://24-ore.com/matt-duchene-ruan-besimin-te-dallas-stars-dhe-tek-jim-nill-pas-eleminimit-te-hershem/",
-      "description": "Matt Duchene shprehet i bindur se Dallas Stars do të kthehen fuqishëm pas eleminimit të papritur në playoff të fundit, për sa kohë që menaxheri i përgjiths...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-07T22:41:55+00:00",
-      "dateStr": "07 Aug, 22:41",
-      "isNew": true,
-      "id": "24 91786142515"
+      "id": "24 91786147906"
     },
     {
       "title": "Seanca shtyhet të shtunën/ Konstituimi i Kuvendit të Kosovës, afati përfundon sot në orën 24:00",
