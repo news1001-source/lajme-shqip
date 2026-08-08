@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-08-08T22:22:59.153051+00:00",
-  "totalSources": 4,
-  "totalNews": 40,
+  "lastUpdated": "2026-08-08T23:22:48.677751+00:00",
+  "totalSources": 3,
+  "totalNews": 30,
   "news": [
+    {
+      "title": "Caitlin Clark prezanton ngjyrën ‘Hot Punch’ të atleteve Nike Caitlin 1 para ndeshjes me Chicago Sky",
+      "link": "https://24-ore.com/caitlin-clark-prezanton-ngjyren-hot-punch-te-atleteve-nike-caitlin-1-para-ndeshjes-me-chicago-sky/",
+      "description": "Caitlin Clark, ylli i Indiana Fever, prezantoi ngjyrën e re \"Hot Punch\" të modelit të saj të parë firmë, Nike Caitlin 1, pak para ndeshjes kundër Chicago S...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T22:50:34+00:00",
+      "dateStr": "08 Aug, 22:50",
+      "isNew": true,
+      "id": "24 01786229434"
+    },
+    {
+      "title": "Texas Rangers – Baltimore Orioles: deGrom përballet me Bradish në Globe Life Field (8 gusht 2026)",
+      "link": "https://24-ore.com/texas-rangers-baltimore-orioles-degrom-perballet-me-bradish-ne-globe-life-field-8-gusht-2026/",
+      "description": "Në takimin e mesëm të serisë që zhvillohet mbrëmjen e 8 gushtit 2026 në Globe Life Field në Arlington, Texas, Texas Rangers presin Baltimore Orioles. Fille...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-08T22:45:59+00:00",
+      "dateStr": "08 Aug, 22:45",
+      "isNew": true,
+      "id": "24 11786229159"
+    },
     {
       "title": "Dorëheqja e Ramës e panegociueshme! Katër orë revoltë, mbyllet dita e 70-të e protestave: “Nesër më shumë!”",
       "link": "https://24-ore.com/doreheqja-e-rames-e-panegociueshme-kater-ore-revolte-mbyllet-dita-e-70-te-e-protestave-neser-me-shume/",
@@ -12,7 +34,7 @@
       "date": "2026-08-08T22:22:06+00:00",
       "dateStr": "08 Aug, 22:22",
       "isNew": true,
-      "id": "24 01786227726"
+      "id": "24 21786227726"
     },
     {
       "title": "Kapet autori i vrasjes në Korçë, pranë banesës së tij (VIDEO)",
@@ -23,7 +45,7 @@
       "date": "2026-08-08T22:19:15+00:00",
       "dateStr": "08 Aug, 22:19",
       "isNew": true,
-      "id": "24 11786227555"
+      "id": "24 31786227555"
     },
     {
       "title": "Evakuim i detyrueshëm në Krujë nga zjarri/ Ministrat Nufi e Lamallari në terren apel qytetarëve: Bashkëpunoni, jeta është e shenjtë",
@@ -56,7 +78,7 @@
       "date": "2026-08-08T21:35:24+00:00",
       "dateStr": "08 Aug, 21:35",
       "isNew": true,
-      "id": "24 21786224924"
+      "id": "24 41786224924"
     },
     {
       "title": "Menaxheri i White Sox pranon se vizita në gropën e hedhësit e detyroi pa qëllim largimin e Noah Schultz",
@@ -67,7 +89,7 @@
       "date": "2026-08-08T21:25:44+00:00",
       "dateStr": "08 Aug, 21:25",
       "isNew": true,
-      "id": "24 31786224344"
+      "id": "24 51786224344"
     },
     {
       "title": "Vrau me kallashnikov shokun e tij, merr fund arratia e Kristjan Sterjos, arrestohet pranë banesës",
@@ -133,7 +155,7 @@
       "date": "2026-08-08T20:50:45+00:00",
       "dateStr": "08 Aug, 20:50",
       "isNew": true,
-      "id": "24 41786222245"
+      "id": "24 61786222245"
     },
     {
       "title": "Michael Kay mbron komentet për tifozët e Red Sox pas ringritjes së klubit",
@@ -144,7 +166,7 @@
       "date": "2026-08-08T20:45:55+00:00",
       "dateStr": "08 Aug, 20:45",
       "isNew": true,
-      "id": "24 51786221955"
+      "id": "24 71786221955"
     },
     {
       "title": "Ministri Lamallari në Krujë: Policia ka arrestuar autorin e zjarrvënies së qëllimshme",
@@ -155,7 +177,7 @@
       "date": "2026-08-08T20:44:24+00:00",
       "dateStr": "08 Aug, 20:44",
       "isNew": true,
-      "id": "24 61786221864"
+      "id": "24 81786221864"
     },
     {
       "title": "Në kërkim prej dy vitesh për dosjen e inceneratorit të Tiranës, arrestohet në vilën në Palasë, Renardo Nallbani",
@@ -177,7 +199,7 @@
       "date": "2026-08-08T20:42:28+00:00",
       "dateStr": "08 Aug, 20:42",
       "isNew": true,
-      "id": "24 71786221748"
+      "id": "24 91786221748"
     },
     {
       "title": "VIDEO/ Zjarri në Malin e Krujës del sërish jashtë kontrollit, flakët zbresin drejt zonave të banuara",
@@ -211,28 +233,6 @@
       "dateStr": "08 Aug, 20:33",
       "isNew": true,
       "id": "she41786221223"
-    },
-    {
-      "title": "Flakët në Malin e Krujës dalin jashtë kontrollit, zjarri zbret drejt zonave të banuara",
-      "link": "https://24-ore.com/flaket-ne-malin-e-krujes-dalin-jashte-kontrollit-zjarri-zbret-drejt-zonave-te-banuara/",
-      "description": "Zjarri në Malin e Krujës ka nisur që prej mesditës së sotme dhe, pas ndërhyrjes nga ajri, situata është përkeqësuar pas largimit të helikopterëve të emergjencave civile. Flakët kanë dalë sërish jashtë kontrollit dhe po zbresin në drejtim të zonave më poshtë, duke rritur shqetësimin për objektet e ba",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T20:32:52+00:00",
-      "dateStr": "08 Aug, 20:32",
-      "isNew": true,
-      "id": "24 81786221172"
-    },
-    {
-      "title": "Tirana, e dyta në Europë për barrën e qirasë ndaj pagës",
-      "link": "https://24-ore.com/tirana-e-dyta-ne-europe-per-barren-e-qirase-ndaj-pages/",
-      "description": "Në Tiranë, çmimi mesatar i qirasë për muajin maj 2026 arriti 710 euro në muaj dhe për përballimin e saj një individ me të ardhura neto mesatare prej 760 eurosh në muaj duhej të shpenzojë mesatarisht 93% të pagës për strehim, sipas të dhënave të raportit “Tradingpedia” i cili krahasoi qiratë mesatare",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-08T20:31:58+00:00",
-      "dateStr": "08 Aug, 20:31",
-      "isNew": true,
-      "id": "24 91786221118"
     },
     {
       "title": "Ndezi zjarr për të djegur barin, flakët përfshijnë malin e Krujës, arrestohet 73-vjeçari",
@@ -332,116 +332,6 @@
       "dateStr": "08 Aug, 19:27",
       "isNew": true,
       "id": "abc91786217267"
-    },
-    {
-      "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
-      "link": "https://www.lajme.al/rama-kerkon-mbledhje-urgjente-me-deputetet-e-ps-diten-e-shtune-zbulohet-agjenda/",
-      "description": "Kryeministri Edi Rama pritet paraditen e së shtunës të drejtojë mbledhjen e Grupit Parlamentar të Partisë Socialiste, ku do të marrin pjesë edhe ministrat. Gazetari Muhamed Veliu ka zbuluar agjendën e kësaj mbledhjeje, të cilën do ta nisë kreu i Grupit, Taulant Balla, vijuar nga fjala e Kryeministri",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-06-19T18:05:35+00:00",
-      "dateStr": "19 Jun, 18:05",
-      "isNew": false,
-      "id": "laj01781892335"
-    },
-    {
-      "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
-      "link": "https://www.lajme.al/lajme-al-uron-te-gjithe-besimtaret-gezuar-kurban-bajramin/",
-      "description": "Urime festa e Kurban Bajramit! Gëzuar këtë festë të shenjtë dhe për shumë vite me paqe, shëndet e begati! Urojmë që kjo ditë e bekuar të sjellë qetësi në zemrat tona, harmoni në familje dhe dashuri mes njerëzve. Le të jetë një ditë që na afron më shumë me njëri-tjetrin, duke na kujtuar rëndësinë e [",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-05-27T06:00:19+00:00",
-      "dateStr": "27 May, 06:00",
-      "isNew": false,
-      "id": "laj11779861619"
-    },
-    {
-      "title": "Greqi: Flet babai i 19-vjeçares shqiptare: Humba jo engjëllin tim, por jetën time. Vajzën ma futën në kurth, e flakën pasi i bënë gjëra të tmerrshme!",
-      "link": "https://www.lajme.al/greqi-flet-babai-i-19-vjecares-shqiptare-humba-jo-engjellin-tim-por-jeten-time-vajzen-ma-futen-ne-kurth-e-flaken-pasi-i-bene-gjera-te-tmerrshme/",
-      "description": "Babai i 19-vjeçares që u gjet e pajetë në Kefaloni të Greqisë, foli sonte për mediat greke dhe tha se vajza e tij nuk kishte asnjë lidhje as me lëndë narkotike dhe as me alkool Trishtim i madh ka përfshirë Kefaloninë pas lajmit për vdekjen e 19-vjeçares shqiptare e identifikuar si Mirto, e cila u [&",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-04-16T16:54:53+00:00",
-      "dateStr": "16 Apr, 16:54",
-      "isNew": false,
-      "id": "laj21776358493"
-    },
-    {
-      "title": "Gashi: Diasporës parapëlqej t’i them mërgatë, të krijojmë kushtet për rikthimin e tyre në vendlindje",
-      "link": "https://www.lajme.al/gashi-diaspores-parapelqej-ti-them-mergate-te-krijojme-kushtet-per-rikthimin-e-tyre-ne-vendlindje/",
-      "description": "Kryetari i Kuvendit të Maqedonisë së Veriut, Afrim Gashi, ka theksuar rëndësinë e diasporës dhe nevojën për forcimin e lidhjeve me qytetarët që jetojnë jashtë vendit. Në fjalën e mbajtur në Samitin e IV të Diasporës, Gashi e cilësoi diasporën si një pjesë të pandashme të identitetit, duke u shprehur",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-04-14T14:24:35+00:00",
-      "dateStr": "14 Apr, 14:24",
-      "isNew": false,
-      "id": "laj31776176675"
-    },
-    {
-      "title": "Fitër Bajrami – Festë e Besimit, Mirësisë dhe Solidaritetit",
-      "link": "https://www.lajme.al/fiter-bajrami-feste-e-besimit-miresise-dhe-solidaritetit/",
-      "description": "Me përfundimin e muajit të Ramazanit, besimtarët myslimanë anembanë botës festojnë Fitër Bajramin – një nga festat më të rëndësishme në kalendarin islam. Kjo ditë e shënuar është një moment falënderimi ndaj Zotit, reflektimi për muajin që lamë pas, si dhe një rast për të ndarë gëzim dhe dashuri me t",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-03-20T00:03:28+00:00",
-      "dateStr": "20 Mar, 00:03",
-      "isNew": false,
-      "id": "laj41773965008"
-    },
-    {
-      "title": "Albano Bogdo pranon publikisht: “Kam kryer marrëdhënie me një ish-banore të BBV Albania”",
-      "link": "https://www.lajme.al/albano-bogdo-pranon-publikisht-kam-kryer-marredhenie-me-nje-ish-banore-te-bbv-albania/",
-      "description": "Aktori i njohur i humorit, Albano Bogdo, ka bërë një deklaratë të papritur gjatë pjesëmarrjes së tij në emisionin “Andale”. Gjatë një loje me pyetje provokuese, u lexua pohimi: “Kam bërë marrëdhënie seksuale me një ish-banore që ka qenë në Big Brother Vip Albania”. Pa hezituar, Albano ngriti menjëhe",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-25T16:28:58+00:00",
-      "dateStr": "25 Feb, 16:28",
-      "isNew": false,
-      "id": "laj51772036938"
-    },
-    {
-      "title": "Del FOTO e rrallë nga arkiva: Ja si dukej Brikena e BBVA para famës",
-      "link": "https://www.lajme.al/del-foto-e-rralle-nga-arkiva-ja-si-dukej-brikena-e-bbva-para-fames/",
-      "description": "Brikena Selmani është kthyer padyshim në një nga banoret më të komentuara dhe që ka tërhequr vëmendjen në këtë edicion të “Big Brother VIP Albania”, jo vetëm për dinamikat në lojë, por edhe për pamjen e saj. Por, duket se sharmi i modeles daton shumë më herët se dritat e famës televizive. Në rrjetet",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-25T12:23:06+00:00",
-      "dateStr": "25 Feb, 12:23",
-      "isNew": false,
-      "id": "laj61772022186"
-    },
-    {
-      "title": "LAJM I FUNDIT! Tërmeti shkund Shqipërinë!",
-      "link": "https://www.lajme.al/lajm-i-fundit-termeti-shkund-shqiperine/",
-      "description": "Elbasani u trondit këtë të martë pasdite nga një tërmet i papritur. Sipas raportimeve të para, lekundjet u ndjenw me intensite. Sipas të dhënave të fundit, një tërmet me magnitudë 4.3 të shkallës Rihter ka goditur Shqipërinë mbrëmjen e sotme, më 24 shkurt 2026. Lëkundjet u regjistruan rreth orës 20:",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T19:16:36+00:00",
-      "dateStr": "24 Feb, 19:16",
-      "isNew": false,
-      "id": "laj71771960596"
-    },
-    {
-      "title": "Diss për Xhensilën? Bes Kallaku publikon këngën e re: “Mes meje dhe teje, dihet kush ishte thëngjilli”",
-      "link": "https://www.lajme.al/diss-per-xhensilen-bes-kallaku-publikon-kengen-e-re-mes-meje-dhe-teje-dihet-kush-ishte-thengjilli/",
-      "description": "Aktori dhe këngëtari Bes Kallaku ka tërhequr vëmendjen e të gjithë ndjekësve me projektin e tij më të fundit muzikor, një këngë mjaft personale që ngjan me një rrëfim të hapur për ulje-ngritjet e jetës së tij. Menjëherë pas publikimit, rrjeti ka nisur të ziejë nga aludimet se disa prej rreshtave më ",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T19:11:16+00:00",
-      "dateStr": "24 Feb, 19:11",
-      "isNew": false,
-      "id": "laj81771960276"
-    },
-    {
-      "title": "Momenti viral: Takimi i DJ Gimbos me Egli Takon, çfarë u tha mes tyre?",
-      "link": "https://www.lajme.al/momenti-viral-takimi-i-dj-gimbos-me-egli-takon-cfare-u-tha-mes-tyre/",
-      "description": "Mbrëmjen e djeshme, e ftuar në Big Brother VIP Albania ishte ish-banorja Egli Tako, si pjesë e jurisë së “Miss &#38; Mister Big Brother”. Megjithatë, momenti që mori më shumë vëmendje në rrjet ishte takimi i saj me DJ Gimbon, mikun e ngushtë të Gjestit. Përshëndetja mes tyre ishte e ngrohtë dhe e af",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T16:13:31+00:00",
-      "dateStr": "24 Feb, 16:13",
-      "isNew": false,
-      "id": "laj91771949611"
     }
   ]
 }
