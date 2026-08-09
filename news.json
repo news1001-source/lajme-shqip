@@ -1,40 +1,238 @@
 {
-  "lastUpdated": "2026-08-09T08:36:17.531171+00:00",
+  "lastUpdated": "2026-08-09T09:34:15.452493+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "QMK: Gjatë 24 orëve ka pasur 25 vatra zjarri, aktualisht mbeten aktive vetëm 2",
-      "link": "https://24-ore.com/qmk-gjate-24-oreve-ka-pasur-25-vatra-zjarri-aktualisht-mbeten-aktive-vetem-2/",
-      "description": "Në 24 orët e fundit, në territorin e vendit janë regjistruar gjithsej 25 zjarre në hapësira të hapura, nga të cilat dy janë aktive, një është nën kontroll dhe 22 janë shuar plotësisht, informon Qendra për Menaxhim me Kriza. Zjarret në Gorno Lisice, Komuna e Aerodromit, ku digjet bimësi e ulët, dru d",
-      "source": "24 ORE",
+      "title": "Policia Kufitare ‘në vijën e parë’ të frontit, shpëtohen nga mbytja dy pushues në plazhin e Velipojës",
+      "link": "https://abcnews.al/policia-kufitare-ne-vijen-e-pare-te-frontit-shpetohen-nga-mbytja-dy-pushues-ne-plazhin-e-velipojes/",
+      "description": "Dy pushues janë shpëtuar nga mbytja në plazhin e Velipojës, falë ndërhyrjes së menjëhershme të shërbimeve të Policisë Kufitare. Gjatë monitorimit intensiv të zonave bregdetare me dronë dhe mjete lundruese, shërbimet e Drejtorisë Vendore për Kufirin dhe Migracionin Shkodër konstatuan dy persona që rr",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-09T08:34:00+00:00",
-      "dateStr": "09 Aug, 08:34",
+      "date": "2026-08-09T09:31:23+00:00",
+      "dateStr": "09 Aug, 09:31",
       "isNew": true,
-      "id": "24 01786264440"
+      "id": "abc01786267883"
     },
     {
-      "title": "Chivu nuk heq dorë nga Curtis Jones për mesfushën, Liverpool kërkon 40 milionë euro",
-      "link": "https://24-ore.com/chivu-nuk-heq-dore-nga-curtis-jones-per-mesfushen-liverpool-kerkon-40-milione-euro/",
-      "description": "Lojtari i ekipit anglez është i përzgjedhuri i trajnerit rumun, por “Reds” kërkojnë 40 milionë euro. Për zhbllokimin e situatës duhen bërë shitje. Pas dy javësh nis kampionati dhe Interi synon të fitojë sërish. Nisja do të jetë thelbësore, prandaj dhe grupi duhet të jetë i kompletuar në kohë për të ",
+      "title": "Zjarret në vend/ Ministria e Mbrojtjes: Disa vatra vijojnë aktive, situata nën kontroll në Krujë dhe Mallakastër",
+      "link": "https://24-ore.com/zjarret-ne-vend-ministria-e-mbrojtjes-disa-vatra-vijojne-aktive-situata-nen-kontroll-ne-kruje-dhe-mallakaster/",
+      "description": "Disa vatra zjarri vijojnë të jenë aktive në zona të ndryshme të vendit, ndërsa situata e përgjithshme paraqitet e stabilizuar dhe nën kontroll. Ministria e Mbrojtjes ka bërë me dije se Strukturat e Mbrojtjes Civile dhe shërbimet zjarrfikëse janë në terren, duke monitoruar zonat e prekura dhe duke nd",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-09T08:24:22+00:00",
-      "dateStr": "09 Aug, 08:24",
+      "date": "2026-08-09T09:30:37+00:00",
+      "dateStr": "09 Aug, 09:30",
       "isNew": true,
-      "id": "24 11786263862"
+      "id": "24 01786267837"
     },
     {
-      "title": "Fatjon Tafaj: Klubet do të fitojnë sportivisht dhe ekonomikisht nga rregulli i ri",
-      "link": "https://24-ore.com/fatjon-tafaj-klubet-do-te-fitojne-sportivisht-dhe-ekonomikisht-nga-rregulli-i-ri/",
-      "description": "Rregulli i ri i miratuar nga Federata e Futbollit, i cili do të hyjë në fuqi duke nisur nga sezoni i ri dhe parashikon aktivizimin e rregullt të lojtarëve të rinj në kampionat, është vlerësuar edhe nga trajneri i Kombëtares shqiptare U-19, Fatjon Tafaj. Në një prononcim për fshf.org, trajneri i Komb",
+      "title": "SHBA – Shkencëtarët përdorin për herë të parë IA -në për të krijuar viruse të reja",
+      "link": "https://24-ore.com/shba-shkencetaret-perdorin-per-here-te-pare-ia-ne-per-te-krijuar-viruse-te-reja/",
+      "description": "STENDFORD, 8 gusht /ATSH – AA/ – Shkencëtarët amerikanë publikuan një studim të ri të enjten që përshkruan se si, në një risi të parë shkencore, ata përdorën inteligjencën artificiale gjeneruese për të dizajnuar viruse të reja që nuk gjenden në natyrë, duke i hapur rrugën potencialisht krijimit të s",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-09T08:24:05+00:00",
-      "dateStr": "09 Aug, 08:24",
+      "date": "2026-08-09T09:30:12+00:00",
+      "dateStr": "09 Aug, 09:30",
       "isNew": true,
-      "id": "24 21786263845"
+      "id": "24 11786267812"
+    },
+    {
+      "title": "Ministria e Jashtme për vizitën e Zelenskyt në Serbi: Kosova nuk mund të vihet në ekuacion me çdo situatë tjetër ndërkombëtare",
+      "link": "https://abcnews.al/ministria-e-jashtme-per-viziten-e-zelenskyt-ne-serbi-kosova-nuk-mund-te-vihet-ne-ekuacion-me-cdo-situate-tjeter-nderkombetare/",
+      "description": "Ministria për Evropën dhe Punët e Jashtme ka reaguar për vizitën e Presidentit ukrainas Volodymyr Zelensky në Serbi, duke e cilësuar dialogun si të mirëpritur, por duke theksuar se çështja e Kosovës nuk mund të vendoset në të njëjtin ekuacion me situatën në Ukrainë. Në reagimin e saj, ministria thek",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-09T09:25:29+00:00",
+      "dateStr": "09 Aug, 09:25",
+      "isNew": true,
+      "id": "abc11786267529"
+    },
+    {
+      "title": "“E vrava se më ngacmoi të dashurën dhe bënte trimin” – zbardhet dëshmia e 20 vjeçarit që vrau bashkëmoshatarin në Korçë",
+      "link": "https://24-ore.com/e-vrava-se-me-ngacmoi-te-dashuren-dhe-bente-trimin-zbardhet-deshmia-e-20-vjecarit-qe-vrau-bashkemoshatarin-ne-korce/",
+      "description": "Zbardhen detaje të reja nga hetimet për vrasjen e 20-vjeçarit Johan Zuko në Korçë. Autori Kristjan Sterjo, i cili u kap pas rreth 6 orësh arrati, ka dhënë dëshminë e tij përpara grupit hetimor lidhur me motivin e ngjarjes së rëndë. Sipas dëshmisë së tij, konflikti mes dy të rinjve lidhej me disa epi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T09:20:26+00:00",
+      "dateStr": "09 Aug, 09:20",
+      "isNew": true,
+      "id": "24 21786267226"
+    },
+    {
+      "title": "PAMJET/ Momenti i arrestimit të autorit të vrasjes së 20-vjeçarit në Korçë",
+      "link": "https://24-ore.com/pamjet-momenti-i-arrestimit-te-autorit-te-vrasjes-se-20-vjecarit-ne-korce/",
+      "description": "Ky është momenti i arrestimit të Kristi Sterjos, 20-vjeçarit të dyshuar për vrasjen e Joan Zukos. Sterjo u arrestua në mesnatë nga efektivët e Policisë së Korçës, pranë Mitropolisë. Sipas të dhënave paraprake, i riu ishte kthyer në zonë për të shkuar në banesë, ku dyshohet se do të merrte para për t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T09:20:09+00:00",
+      "dateStr": "09 Aug, 09:20",
+      "isNew": true,
+      "id": "24 31786267209"
+    },
+    {
+      "title": "Shkodër, kontrolle me dron, radarë dhe makina inteligjente, mbi 1200 masa në një javë",
+      "link": "https://24-ore.com/shkoder-kontrolle-me-dron-radare-dhe-makina-inteligjente-mbi-1200-masa-ne-nje-jave/",
+      "description": "Policia Rrugore e Shkodrës ka intensifikuar kontrollet në të gjitha akset rrugore të qarkut, me përdorimin e dronëve, radarëve dhe makinave inteligjente, me qëllim parandalimin e aksidenteve dhe menaxhimin e trafikut gjatë sezonit veror. Fokusi kryesor i kontrolleve është evidentimi dhe ndëshkimi i ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T09:19:52+00:00",
+      "dateStr": "09 Aug, 09:19",
+      "isNew": true,
+      "id": "24 41786267192"
+    },
+    {
+      "title": "Deklarata e Zelenskyt për Kosovën, reagon Shqipëria: Nuk ka asnjë paralelizëm me Ukrainën",
+      "link": "https://24-ore.com/deklarata-e-zelenskyt-per-kosoven-reagon-shqiperia-nuk-ka-asnje-paralelizem-me-ukrainen/",
+      "description": "Ministria për Evropën dhe Punët e Jashtme e Shqipërisë ka reaguar pas deklaratës së presidentit ukrainas Volodymyr Zelensky gjatë vizitës së tij në Beograd, ku theksoi se Ukraina nuk e ka ndryshuar qëndrimin e saj për mosnjohjen e pavarësisë së Kosovës. Në reagimin e saj, Shqipëria rithekson mbështe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T09:19:39+00:00",
+      "dateStr": "09 Aug, 09:19",
+      "isNew": true,
+      "id": "24 51786267179"
+    },
+    {
+      "title": "VIDEO / “Shtrihu në tokë, mos lëviz”, dalin pamjet e arrestimit të autorit të vrasjes në Korçë",
+      "link": "https://24-ore.com/video-shtrihu-ne-toke-mos-leviz-dalin-pamjet-e-arrestimit-te-autorit-te-vrasjes-ne-korce/",
+      "description": "Janë publikuar të tjera pamje nga arrestimi i 20-vjeçarit K.S, autorit të vrasjes së bashkëmoshatarit të tij në Korçë. Siç shikohet në pamje, arrestimi i autorit të krimit të rëndë në Korçë ka ndodhur në mesnatën e 8 gushtit. Në video, shihet autori teksa qëndron në këmbë. Menjëherë i afrohet një of",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T09:16:15+00:00",
+      "dateStr": "09 Aug, 09:16",
+      "isNew": true,
+      "id": "24 61786266975"
+    },
+    {
+      "title": "Pakti i mbrojtjes Turqi-Pakistan-Arabia Saudite, Ankaraja: Irani nuk shënjestrohet",
+      "link": "https://abcnews.al/pakti-i-mbrojtjes-turqi-pakistan-arabia-saudite-ankaraja-irani-nuk-shenjestrohet/",
+      "description": "Ministri i Jashtëm turk tha se marrëveshja e mbrojtjes e nënshkruar nga Turqia, Pakistani dhe Arabia Saudite nuk e shënjestron Iranin, megjithëse u shpreh se teknikisht, është e njëjtë me Nenin 5 të NATO-s, sipas të cilit një sulm ndaj njërit konsiderohet sulm ndaj të gjithë anëtarëve të aleancës. F",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-09T09:15:54+00:00",
+      "dateStr": "09 Aug, 09:15",
+      "isNew": true,
+      "id": "abc21786266954"
+    },
+    {
+      "title": "Jet Ski rrezikoi pushuesit në Bunec, Policia bllokon mjetin dhe gjobit drejtuesin me 300 mijë lekë",
+      "link": "https://shekulli.com.al/2026/08/09/jet-ski-rrezikoi-pushuesit-ne-bunec-policia-bllokon-mjetin-dhe-gjobit-drejtuesin-me-300-mije-leke/",
+      "description": "HIMARË – Një mjet lundrues tip Jet Ski ka shkelur perimetrin e sigurisë në plazhin e Bunecit, duke rrezikuar jetën e pushuesve. Pas raportimit nga qytetarët, Policia Kufitare, në bashkëpunim me Njësinë Policore Detare, ndërhyri menjëherë për ndalimin e mjetit. Shërbimet policore konstatuan Jet Ski-n",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-09T09:14:27+00:00",
+      "dateStr": "09 Aug, 09:14",
+      "isNew": true,
+      "id": "she01786266867"
+    },
+    {
+      "title": "BDI: 83 seanca në Qeveri pa procesverbale në gjuhën shqipe",
+      "link": "https://24-ore.com/bdi-83-seanca-ne-qeveri-pa-procesverbale-ne-gjuhen-shqipe/",
+      "description": "Bashkimi Demokratik për Integrim ka reaguar ndaj siç thonë ata një skandali të ri, pasi është zbuluar se në Qeverinë e Maqedonisë së Veriut, për afro një vit, procesverbalet e mbledhjeve të Qeverisë nuk janë publikuar në gjuhën shqipe. Procesverbali i fundit i publikuar në shqip është i datës 19 sht",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T09:14:07+00:00",
+      "dateStr": "09 Aug, 09:14",
+      "isNew": true,
+      "id": "24 71786266847"
+    },
+    {
+      "title": "Një betejë diplomatike që kërkon unitet, mençuri dhe angazhim",
+      "link": "https://abcnews.al/nje-beteje-diplomatike-qe-kerkon-unitet-mencuri-dhe-angazhim/",
+      "description": "Gjatë dy javëve të fundit, në korridoret e Senatit, Shtëpisë së Bardhë dhe Departamentit të Shtetit në Washington, D.C, kam parë nga afër një angazhim të madh diplomatik nga dhjetëra diplomatë, lobistë dhe përfaqësues të Ambasadës së Serbisë, të cilët po zhvillojnë takime të vazhdueshme me zyrtarë a",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-09T09:11:26+00:00",
+      "dateStr": "09 Aug, 09:11",
+      "isNew": true,
+      "id": "abc31786266686"
+    },
+    {
+      "title": "Situata me zjarret/ Mbrojtja: Flakët “nën kontroll”, vijon beteja në disa zona të vendit",
+      "link": "https://abcnews.al/situata-me-zjarret-mbrojtja-flaket-nen-kontroll-vijon-beteja-ne-disa-zona-te-vendit/",
+      "description": "Situata e zjarreve në vend paraqitet përgjithësisht e stabilizuar dhe nën kontroll, ndërsa strukturat e Mbrojtjes Civile vijojnë punën për shuarjen e vatrave aktive dhe monitorimin e zonave të prekura. Ministria e Mbrojtjes bën me dije se aktualisht nuk raportohet rrezik për zonat e banuara, ndërsa ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-09T09:05:33+00:00",
+      "dateStr": "09 Aug, 09:05",
+      "isNew": true,
+      "id": "abc41786266333"
+    },
+    {
+      "title": "“Plaka thoshte të digjem brenda”, dëshmitë tronditëse të banorëve që përjetuan ferrin në Krujë: Kaos i papamë…",
+      "link": "https://shekulli.com.al/2026/08/09/plaka-thoshte-te-digjem-brenda-deshmite-tronditese-te-banoreve-qe-perjetuan-ferrin-ne-kruje-kaos-i-papame/",
+      "description": "“Plaka qante nëpër shtëpi, thoshte: le të digjem brenda”.&#160;Kjo është dëshmia tronditëse e një banori që përjetoi nga afër momentet e tmerrit, teksa flakët rrethuan banesat dhe i detyruan banorët të luftonin vetë për të shpëtuar shtëpitë dhe familjarët. Sipas tij, zjarri u përhap brenda pak minut",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-09T09:04:04+00:00",
+      "dateStr": "09 Aug, 09:04",
+      "isNew": true,
+      "id": "she11786266244"
+    },
+    {
+      "title": "“U parandalua një katastrofë”, Nufi pas shuarjes së zjarrit masiv në Krujë: Asnjë jetë e cenuar, asnjë banesë e dje",
+      "link": "https://24-ore.com/u-parandalua-nje-katastrofe-nufi-pas-shuarjes-se-zjarrit-masiv-ne-kruje-asnje-jete-e-cenuar-asnje-banese-e-dje/",
+      "description": "Zjarri masiv që përfshiu Malin e Krujës është vënë plotësisht nën kontroll, ndërsa situata në terren paraqitet e qetë. Lajmi u bë i ditur nga ministri i Mbrojtjes, Ermal Nufi, përmes një postimi në rrjetin social Facebook, shoqëruar dhe me pamje. Sipas Nufit, zjarri është vendosur nën kontroll që pr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T09:00:41+00:00",
+      "dateStr": "09 Aug, 09:00",
+      "isNew": true,
+      "id": "24 81786266041"
+    },
+    {
+      "title": "BDI: Skandal në Qeveri, 83 seanca pa procesverbale të publikuara në gjuhën shqipe",
+      "link": "https://24-ore.com/bdi-skandal-ne-qeveri-83-seanca-pa-procesverbale-te-publikuara-ne-gjuhen-shqipe/",
+      "description": "Shkup, 9 gusht 2026&#160; Një skandal i ri është zbuluar në Qeverinë e Maqedonisë së Veriut. Për afro&#8230;",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T09:00:37+00:00",
+      "dateStr": "09 Aug, 09:00",
+      "isNew": true,
+      "id": "24 91786266037"
+    },
+    {
+      "title": "Kontrollet në rrugët e Shkodrës, mbi 1200 masa administrative në një javë",
+      "link": "https://abcnews.al/kontrollet-ne-rruget-e-shkodres-mbi-1200-masa-administrative-ne-nje-jave/",
+      "description": "Policia Rrugore e Shkodrës ka intensifikuar kontrollet në të gjitha akset rrugore të qarkut, duke përdorur dronë, radarë dhe makina inteligjente, me qëllim parandalimin e aksidenteve dhe menaxhimin e trafikut gjatë sezonit veror. Kontrollet janë përqendruar veçanërisht te drejtuesit që qarkullojnë n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-09T08:59:15+00:00",
+      "dateStr": "09 Aug, 08:59",
+      "isNew": true,
+      "id": "abc51786265955"
+    },
+    {
+      "title": "Jet Ski futet në zonën e sigurisë në Bunec, gjobitet me 300 mijë lekë drejtuesi",
+      "link": "https://abcnews.al/jet-ski-futet-ne-zonen-e-sigurise-ne-bunec-gjobitet-me-300-mije-leke-drejtuesi/",
+      "description": "Një mjet lundrues tip Jet Ski është bllokuar nga Policia Kufitare në plazhin e Bunecit, pasi kishte shkelur perimetrin e sigurisë dhe po rrezikonte pushuesit. Ngjarja u raportua nga pushuesit në Policinë e Shtetit, e cila reagoi menjëherë duke organizuar ndërhyrjen e shërbimeve të Policisë Kufitare,",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-09T08:55:06+00:00",
+      "dateStr": "09 Aug, 08:55",
+      "isNew": true,
+      "id": "abc61786265706"
+    },
+    {
+      "title": "“Shtrihu në tokë!”/ Momenti i arrestimit të 20 vjeçarit në Korçë, shkoi në banesë për të marrë para",
+      "link": "https://abcnews.al/shtrihu-ne-toke-momenti-i-arrestimit-te-20-vjecarit-ne-korce-shkoi-ne-banese-per-te-marre-para/",
+      "description": "Momenti i arrestimit të Kristjan Sterjo, 20 vjeçari që vrau Joan Zuko. Sterjo u arrestua në mesnatë nga policia e Korçës afër mitropolise, ku po kthehej në banesë për të marrë lek dhe vazhduar arratinë, pas 6 orësh duke u fshehur afër varrezave të qytetit, në zonën e quajtur &#8220;Fusha e Druve&#82",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-09T08:36:11+00:00",
+      "dateStr": "09 Aug, 08:36",
+      "isNew": true,
+      "id": "abc71786264571"
+    },
+    {
+      "title": "Retë e hirit nga Etna detyrojnë aeroportin e Katanias të pezullojë fluturimet",
+      "link": "https://abcnews.al/rete-e-hirit-nga-etna-detyrojne-aeroportin-e-katanias-te-pezulloje-fluturimet-2/",
+      "description": "Një re e dendur tymi dhe hiri vullkanik ka dalë nga mali Etna në Siçili, duke shkaktuar pezullimin e përkohshëm të fluturimeve në mbërritje në aeroportin ndërkombëtar të Katanias. Autoritetet aeroportuale njoftuan se hapësira ajrore në zonën e prekur nga reja e hirit është mbyllur për shkak të aktiv",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-09T08:32:42+00:00",
+      "dateStr": "09 Aug, 08:32",
+      "isNew": true,
+      "id": "abc81786264362"
     },
     {
       "title": "Zjarri në Krujë vihet plotësisht nën kontroll, ministri Nufi: U parandalua një katastrofë e mundshme",
@@ -45,7 +243,7 @@
       "date": "2026-08-09T08:20:51+00:00",
       "dateStr": "09 Aug, 08:20",
       "isNew": true,
-      "id": "she01786263651"
+      "id": "she21786263651"
     },
     {
       "title": "‘Çmenduri’ në Madeira për ‘dasmën’ e Ronaldos, por çifti nuk u shfaq askund",
@@ -56,7 +254,7 @@
       "date": "2026-08-09T08:07:50+00:00",
       "dateStr": "09 Aug, 08:07",
       "isNew": true,
-      "id": "she11786262870"
+      "id": "she31786262870"
     },
     {
       "title": "“Nuk e di si kemi shpëtuar!”, banori në Krujë: Mu dogjën 250 rrënjë ullinj dhe pemë",
@@ -67,29 +265,7 @@
       "date": "2026-08-09T08:01:15+00:00",
       "dateStr": "09 Aug, 08:01",
       "isNew": true,
-      "id": "abc01786262475"
-    },
-    {
-      "title": "Riaktivizohet vatra e zjarrit në Panahor të Mallakastrës, flakët avancojnë drejt Greshicës",
-      "link": "https://24-ore.com/riaktivizohet-vatra-e-zjarrit-ne-panahor-te-mallakastres-flaket-avancojne-drejt-greshices/",
-      "description": "Vijon puna në terren për izolimin e dy vatrave të zjarrit që kanë përfshirë zonën e Mallakastrës së Egër. Ekipet po punojnë për të frenuar përhapjen e flakëve, ndërsa terreni i thepisur dhe era e fortë po vështirësojnë ndjeshëm ndërhyrjen. Një prej vatrave është riaktivizuar në zonën e Panahorit, nd",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T07:47:27+00:00",
-      "dateStr": "09 Aug, 07:47",
-      "isNew": true,
-      "id": "24 31786261647"
-    },
-    {
-      "title": "FOKUS – 81 vjet nga Nagasaki: Japonia përkujton viktimat e bombës atomike",
-      "link": "https://24-ore.com/fokus-81-vjet-nga-nagasaki-japonia-perkujton-viktimat-e-bombes-atomike/",
-      "description": "NAGASAKI, 9 gusht /ATSH – ANSA/ – Tre ditë pas përkujtimit të bombardimit të Hiroshimës, Japonia përkujton 81-vjetorin e bombardimit atomik të Nagasakit, i cili ndodhi në mëngjesin e 9 gushtit 1945. Në orën 11:02 me orën lokale pikërisht në momentin kur ndodhi shpërthimi, qyteti mbajti një minutë he",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T07:46:38+00:00",
-      "dateStr": "09 Aug, 07:46",
-      "isNew": true,
-      "id": "24 41786261598"
+      "id": "abc91786262475"
     },
     {
       "title": "Të paktën 600 euro në muaj/ Shtëpitë me qira bëhen “mollë e ndaluar” për shqiptarët",
@@ -100,51 +276,7 @@
       "date": "2026-08-09T07:36:38+00:00",
       "dateStr": "09 Aug, 07:36",
       "isNew": true,
-      "id": "she21786260998"
-    },
-    {
-      "title": "Zbardhet dëshmia e vrasësit të 20-vjeçarit Johan Zuko në Korçë. Ja motivet e ngjarjes së rëndë",
-      "link": "https://24-ore.com/zbardhet-deshmia-e-vrasesit-te-20-vjecarit-johan-zuko-ne-korce-ja-motivet-e-ngjarjes-se-rende/",
-      "description": "Zbardhen detaje të reja nga hetimet për vrasjen e 20-vjeçarit Johan Zuko në Korçë. Autori Kristjan Sterjo, i cili u kap pas rreth 6 orësh arrati, ka dhënë dëshminë e tij përpara grupit hetimor lidhur me motivin e ngjarjes së rëndë. Sipas dëshmisë së tij, konflikti mes dy të rinjve lidhej me disa epi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T07:31:25+00:00",
-      "dateStr": "09 Aug, 07:31",
-      "isNew": true,
-      "id": "24 51786260685"
-    },
-    {
-      "title": "Zjarret vijojnë në Mallakastër, riaktivizohet vatra në Panahor",
-      "link": "https://abcnews.al/zjarret-vijojne-ne-mallakaster-riaktivizohet-vatra-ne-panahor/",
-      "description": "Pas nje normalizimi gjatë orëve të natës vatra e zjarrit në Panahor është riaktivizuar e ndihmuar nga era e fortë ndërsa zjarri po përparon drejt Greshicës. Ekipet zjarrfikës po punojnë për të frenuar përhapjen e flakëve, në terren të thepisur dhe kushte të pavaforshme.Vatra tjetër vijon të jetë akt",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-09T07:30:01+00:00",
-      "dateStr": "09 Aug, 07:30",
-      "isNew": true,
-      "id": "abc11786260601"
-    },
-    {
-      "title": "Vrau shokun e fëmijërisë në Korçë/ Momenti kur autori shoqërohet në Polici",
-      "link": "https://abcnews.al/vrau-shokun-e-femijerise-ne-korce-momenti-kur-autori-shoqerohet-ne-polici/",
-      "description": "Ky është momenti kur Policia shoqëron autorin e dyshuar të vrasjes së ndodhur pasditen e djeshme në Korçë, pas disa orësh kërkimesh intensive. Në pranga ka rënë Kristjan Sterjo, 20 vjeç, banues në Korçë, i dyshuar se ka vrarë me armë zjarri, kallashnikov, Johan Zukos, 21 vjeç, pas një konflikti për ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-09T07:27:26+00:00",
-      "dateStr": "09 Aug, 07:27",
-      "isNew": true,
-      "id": "abc21786260446"
-    },
-    {
-      "title": "Një gol në shtesë i Eddie Segura i jep LAFC fitoren 1-0 ndaj Toluca",
-      "link": "https://24-ore.com/nje-gol-ne-shtese-i-eddie-segura-i-jep-lafc-fitoren-1-0-ndaj-toluca/",
-      "description": "Një përfundim spektakolar vendosi ndeshjen: mbrojtësi kolumbian Eddie Segura shënoi në minutën e 91 dhe i dhuroi LAFC-së fitoren 1-0 ndaj Toluca në BMO Sta...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T07:21:13+00:00",
-      "dateStr": "09 Aug, 07:21",
-      "isNew": true,
-      "id": "24 61786260073"
+      "id": "she41786260998"
     },
     {
       "title": "“Më ngacmoi të dashurën”, zbardhet dëshmia e autorit të vrasjes së 20-vjeçarit në Korçë",
@@ -155,62 +287,7 @@
       "date": "2026-08-09T07:19:54+00:00",
       "dateStr": "09 Aug, 07:19",
       "isNew": true,
-      "id": "she31786259994"
-    },
-    {
-      "title": "Aksident në magjistralen Gostivar-Kërçovë, një i vdekur dhe një i lënduar rëndë",
-      "link": "https://24-ore.com/aksident-ne-magjistralen-gostivar-kercove-nje-i-vdekur-dhe-nje-i-lenduar-rende/",
-      "description": "Sot (08.08.2026) rreth orës 17:10, në Stacionin Policor të Gostivarit është raportuar se në rrugën magjistrale Gostivar – Kërçovë, në afërsi të një objekti hotelier, ka ndodhur një aksident i rëndë komunikacioni ku kanë qenë të përfshira dy automjete udhëtarësh, “Peugeot” me targa të Gostivarit i dr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T07:19:36+00:00",
-      "dateStr": "09 Aug, 07:19",
-      "isNew": true,
-      "id": "24 71786259976"
-    },
-    {
-      "title": "Rama për zjarrin në Krujë: Shteti ishte në këmbë, heronjtë tanë shmangën një tragjedi",
-      "link": "https://24-ore.com/rama-per-zjarrin-ne-kruje-shteti-ishte-ne-kembe-heronjte-tane-shmangen-nje-tragjedi/",
-      "description": "Kryeministri Edi Rama ka reaguar përmes një postimi në rrjetin social X lidhur me situatën e krijuar nga zjarri në malin e Krujës, duke vlerësuar angazhimin e forcave zjarrfikëse, ushtrisë dhe policisë në përballimin e flakëve. Rama thekson se zjarri, i favorizuar nga era e fortë dhe vështirësitë pë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T07:19:23+00:00",
-      "dateStr": "09 Aug, 07:19",
-      "isNew": true,
-      "id": "24 81786259963"
-    },
-    {
-      "title": "7 orë luftë me flakët, zjarrfikësit neutralizojnë zjarrin pranë dy fshatrave në Gjirokastër",
-      "link": "https://24-ore.com/7-ore-lufte-me-flaket-zjarrfikesit-neutralizojne-zjarrin-prane-dy-fshatrave-ne-gjirokaster/",
-      "description": "Pas 7 orësh përballje të pandërprerë me flakët, zjarrfikësit kanë arritur të shuajnë plotësisht një zjarr të përmasave të mëdha që përfshiu gjatë natës një sipërfaqe me pyje dhe shkurre në territorin ndërmjet fshatrave Andon Poçi dhe Hundëkuq. Alarmi është dhënë në orën 22:38, pas njoftimit të një q",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T07:17:52+00:00",
-      "dateStr": "09 Aug, 07:17",
-      "isNew": true,
-      "id": "24 91786259872"
-    },
-    {
-      "title": "Zjarr gjatë natës në Gjirokastër, rrezik për përhapjen e flakëve drejt zonave të banuara",
-      "link": "https://abcnews.al/zjarr-gjate-nates-ne-gjirokaster-rrezik-per-perhapjen-e-flakeve-drejt-zonave-te-banuara/",
-      "description": "Një zjarr i përmasave të mëdha është aktivizuar në zonën ndërmjet fshatrave Andon Poçi dhe Hundëkuq, duke paraqitur rrezik për përhapjen e flakëve drejt zonave të banuara. Zjarri është i ndarë në dy vatra aktive, me një perimetër të përgjithshëm rreth 4 km. Terreni i thyer dhe bimësia e dendur e bëj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-09T07:12:45+00:00",
-      "dateStr": "09 Aug, 07:12",
-      "isNew": true,
-      "id": "abc31786259565"
-    },
-    {
-      "title": "Vrasja e 20 vjeçarit në Korçë/ Rivaliteti për ‘të fortin’ e lagjes solli konflikte, dyshohet se viktima i ngacmoi të dashurën",
-      "link": "https://abcnews.al/vrasja-e-20-vjecarit-ne-korce-rivaliteti-per-te-fortin-e-lagjes-solli-konflikte-dyshohet-se-viktima-i-ngacmoi-te-dashuren/",
-      "description": "Detaje të reja dalin nga hetimet për vrasjen e 20-vjeçarit Johan Zuko në Korçë. Kristjan Sterjo, i dyshuari për krimin, i cili u arrestua rreth 6 orë pas ngjarjes, ka dhënë dëshminë e tij para grupit hetimor lidhur me rrethanat dhe motivin e konfliktit që përfundoi në mënyrë tragjike. Sipas dëshmisë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-09T07:07:15+00:00",
-      "dateStr": "09 Aug, 07:07",
-      "isNew": true,
-      "id": "abc41786259235"
+      "id": "she51786259994"
     },
     {
       "title": "Nga mbreti i skandaleve te vetëlëndimi ‘live’ në TikTok/ Çfarë fshihet pas dramës së Perez Hilton? Njeriut që ekspozonte sekretet e VIP-ave",
@@ -221,7 +298,7 @@
       "date": "2026-08-09T06:59:36+00:00",
       "dateStr": "09 Aug, 06:59",
       "isNew": true,
-      "id": "she41786258776"
+      "id": "she61786258776"
     },
     {
       "title": "“U dogj vetëm një magazinë, asnjë qytetar i dëmtuar”, Rama për zjarrin në Krujë: Respekt për heronjtë e vijës së parë",
@@ -232,29 +309,7 @@
       "date": "2026-08-09T06:43:17+00:00",
       "dateStr": "09 Aug, 06:43",
       "isNew": true,
-      "id": "she51786257797"
-    },
-    {
-      "title": "“Zjarri në Krujë përfundoi pa asnjë banor të dëmtuar”, Rama: Ushtria dhe Policia vepruan me heroizëm dhe profesionalizëm",
-      "link": "https://abcnews.al/zjarri-ne-kruje-perfundoi-pa-asnje-banor-te-demtuar-rama-ushtria-dhe-policia-vepruan-me-heroizem-dhe-profesionalizem/",
-      "description": "Kryeministri Edi Rama ka reaguar pas situatës së rëndë të krijuar nga zjarri në malin e Krujës, duke bërë me dije se beteja me flakët është mbyllur pa viktima dhe pa dëme te banorët. Përmes një postimi në rrjetin social X, Rama deklaroi se zjarri përfundoi me vetëm një magazinë të shkrumbuar, ndërsa",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-09T06:42:15+00:00",
-      "dateStr": "09 Aug, 06:42",
-      "isNew": true,
-      "id": "abc51786257735"
-    },
-    {
-      "title": "Kreu i ushtrisë së SHBA kërkon të dalë nga lufta me Iranin",
-      "link": "https://abcnews.al/kreu-i-ushtrise-se-shba-kerkon-te-dale-nga-lufta-me-iranin/",
-      "description": "Dështimi i përpjekjeve të Shteteve të Bashkuara për të detyruar Iranin përmes bombardimeve ajrore të pranojë një marrëveshje paqjeje, që garanton fundin e programit bërthamor dhe atij raketor, ka shqetësuar shefin e shtabit të përgjithshëm të ushtrisë amerikane. Sipas CNN, Gjenerali Dan Caine u ka b",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-09T06:26:12+00:00",
-      "dateStr": "09 Aug, 06:26",
-      "isNew": true,
-      "id": "abc61786256772"
+      "id": "she71786257797"
     },
     {
       "title": "Pas natës së ferrit, Kruja merr frymë sërish! Flakët vihen nën kontroll, operacioni vijon nga ajri",
@@ -265,40 +320,7 @@
       "date": "2026-08-09T06:22:27+00:00",
       "dateStr": "09 Aug, 06:22",
       "isNew": true,
-      "id": "she61786256547"
-    },
-    {
-      "title": "Zjarri në Krujë, mbi 280 efektivë në terren, ndërhyhet edhe nga ajri",
-      "link": "https://abcnews.al/zjarri-ne-kruje-mbi-280-efektive-ne-terren-nderhyhet-edhe-nga-ajri/",
-      "description": "Mbi 280 efektivë dhe forca operacionale janë angazhuar deri tani në menaxhimin e situatës së zjarrit në Krujë, ndërsa operacioni për vënien nën kontroll të flakëve vijon pa ndërprerje. Në terren janë angazhuar mbi 200 efektivë të strukturave të emergjencave civile dhe Forcave të Armatosura, si dhe 8",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-09T06:05:43+00:00",
-      "dateStr": "09 Aug, 06:05",
-      "isNew": true,
-      "id": "abc71786255543"
-    },
-    {
-      "title": "Finalizohet operacioni “Vila”, arrestohet në Palasë një 50-vjeçar i shpallur në kërkim nga SPAK",
-      "link": "https://abcnews.al/finalizohet-operacioni-vila-arrestohet-ne-palase-nje-50-vjecar-i-shpallur-ne-kerkim-nga-spak/",
-      "description": "Finalizohet operacioni policor i koduar “Vila”, në kuadër të të cilit është arrestuar në Palasë një 50-vjeçar i shpallur në kërkim nga SPAK, për veprimtari kriminale në kuadër të një grupi të strukturuar kriminal. Operacioni u zhvillua nga Forcat Operacionale të Drejtorisë Vendore të Policisë Vlorë,",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-09T05:30:52+00:00",
-      "dateStr": "09 Aug, 05:30",
-      "isNew": true,
-      "id": "abc81786253452"
-    },
-    {
-      "title": "Horoskopi, 9 gusht 2026",
-      "link": "https://abcnews.al/horoskopi-9-gusht-2026/",
-      "description": "Dashi Gjatë gjithë ditës do të jeni të gatshëm për të ndërmarrë disa iniciativa. Yjet ju këshillojnë të mbani veten nën kontroll dhe të tregoni kujdes me veprimet që bëni në mënyrë spontane. Nëse mbani përgjegjësitë tuaja për familjen dhe krijoni një ambient të ngrohtë, do të rrisë mjaft pikët tuaja",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-09T05:05:08+00:00",
-      "dateStr": "09 Aug, 05:05",
-      "isNew": true,
-      "id": "abc91786251908"
+      "id": "she81786256547"
     },
     {
       "title": "Vrau me kallashnikov shokun e tij, merr fund arratia e Kristjan Sterjos, arrestohet pranë banesës",
@@ -309,29 +331,7 @@
       "date": "2026-08-08T21:05:11+00:00",
       "dateStr": "08 Aug, 21:05",
       "isNew": true,
-      "id": "she71786223111"
-    },
-    {
-      "title": "Arrestohet autori i zjarrvënies në Krujë, 73-vjeçari e ndezi për të djegur bar, tani rrezikohen banesat dhe njerëzit",
-      "link": "https://shekulli.com.al/2026/08/08/arrestohet-autori-i-zjarrit-ne-kruje-73-vjecari-e-ndezi-per-te-djegur-bar-tani-rrezikohen-banesat/",
-      "description": "Zbulohet autori i ndezjes së zjarrit që vijon të jetë aktiv në zonën e Krujës dhe që ka vënë në rrezik banesat pranë fshatit Abaze. Në pranga ka rënë Qemal Berhami, 73 vjeç, banor i lagjes “Abaze”, një prej zonave më të rrezikuara nga përhapja e flakëve. Sipas të dhënave paraprake, 73-vjeçari ka nde",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-08T20:57:17+00:00",
-      "dateStr": "08 Aug, 20:57",
-      "isNew": true,
-      "id": "she81786222637"
-    },
-    {
-      "title": "Në kërkim prej dy vitesh për dosjen e inceneratorit të Tiranës, arrestohet në vilën në Palasë, Renardo Nallbani",
-      "link": "https://shekulli.com.al/2026/08/08/ne-kerkim-prej-dy-vitesh-per-dosjen-e-inceneratorit-te-tiranes-arrestohet-ne-vilen-ne-palase-renardo-nallbani/",
-      "description": "Nën zë shpesh thuhej se biznesi i dherave të inceneratorit fillimisht drejtohej pikërisht nga Nallbani. Policia e Vlorës ka arrestuar mbrëmjen e kësaj të shtune Renardo Nallbanin, i shpallur në kërkim prej rreth dy vitesh në kuadër të hetimeve për inceneratorin e Tiranës. Nallbani është lokalizuar d",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-08T20:44:08+00:00",
-      "dateStr": "08 Aug, 20:44",
-      "isNew": true,
-      "id": "she91786221848"
+      "id": "she91786223111"
     }
   ]
 }
