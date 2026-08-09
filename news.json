@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-08-09T07:50:17.771825+00:00",
+  "lastUpdated": "2026-08-09T08:36:17.531171+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "QMK: Gjatë 24 orëve ka pasur 25 vatra zjarri, aktualisht mbeten aktive vetëm 2",
+      "link": "https://24-ore.com/qmk-gjate-24-oreve-ka-pasur-25-vatra-zjarri-aktualisht-mbeten-aktive-vetem-2/",
+      "description": "Në 24 orët e fundit, në territorin e vendit janë regjistruar gjithsej 25 zjarre në hapësira të hapura, nga të cilat dy janë aktive, një është nën kontroll dhe 22 janë shuar plotësisht, informon Qendra për Menaxhim me Kriza. Zjarret në Gorno Lisice, Komuna e Aerodromit, ku digjet bimësi e ulët, dru d",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T08:34:00+00:00",
+      "dateStr": "09 Aug, 08:34",
+      "isNew": true,
+      "id": "24 01786264440"
+    },
+    {
+      "title": "Chivu nuk heq dorë nga Curtis Jones për mesfushën, Liverpool kërkon 40 milionë euro",
+      "link": "https://24-ore.com/chivu-nuk-heq-dore-nga-curtis-jones-per-mesfushen-liverpool-kerkon-40-milione-euro/",
+      "description": "Lojtari i ekipit anglez është i përzgjedhuri i trajnerit rumun, por “Reds” kërkojnë 40 milionë euro. Për zhbllokimin e situatës duhen bërë shitje. Pas dy javësh nis kampionati dhe Interi synon të fitojë sërish. Nisja do të jetë thelbësore, prandaj dhe grupi duhet të jetë i kompletuar në kohë për të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T08:24:22+00:00",
+      "dateStr": "09 Aug, 08:24",
+      "isNew": true,
+      "id": "24 11786263862"
+    },
+    {
+      "title": "Fatjon Tafaj: Klubet do të fitojnë sportivisht dhe ekonomikisht nga rregulli i ri",
+      "link": "https://24-ore.com/fatjon-tafaj-klubet-do-te-fitojne-sportivisht-dhe-ekonomikisht-nga-rregulli-i-ri/",
+      "description": "Rregulli i ri i miratuar nga Federata e Futbollit, i cili do të hyjë në fuqi duke nisur nga sezoni i ri dhe parashikon aktivizimin e rregullt të lojtarëve të rinj në kampionat, është vlerësuar edhe nga trajneri i Kombëtares shqiptare U-19, Fatjon Tafaj. Në një prononcim për fshf.org, trajneri i Komb",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T08:24:05+00:00",
+      "dateStr": "09 Aug, 08:24",
+      "isNew": true,
+      "id": "24 21786263845"
+    },
+    {
+      "title": "Zjarri në Krujë vihet plotësisht nën kontroll, ministri Nufi: U parandalua një katastrofë e mundshme",
+      "link": "https://shekulli.com.al/2026/08/09/zjarri-ne-kruje-vihet-plotesisht-nen-kontroll-ministri-nufi-u-parandalua-nje-katastrofe-e-mundshme/",
+      "description": "Zjarri masiv që përfshiu Malin e Krujës është vënë plotësisht nën kontroll që prej orës 06:00 të mëngjesit të sotëm. Lajmin e ka bërë të ditur ministri i Mbrojtjes, Ermal Nufi, i cili tha se situata në terren është tashmë e qetë, ndërsa vijon monitorimi për të parandaluar riaktivizimin e vatrave. Nj",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-09T08:20:51+00:00",
+      "dateStr": "09 Aug, 08:20",
+      "isNew": true,
+      "id": "she01786263651"
+    },
+    {
+      "title": "‘Çmenduri’ në Madeira për ‘dasmën’ e Ronaldos, por çifti nuk u shfaq askund",
+      "link": "https://shekulli.com.al/2026/08/09/cmenduri-ne-madeira-per-dasmen-e-ronaldos-por-cifti-nuk-u-shfaq-askund/",
+      "description": "Qindra persona u mblodhën këtë të shtunë pranë vendeve ku raportohej se do të zhvillohej dasma e Cristiano Ronaldos dhe Georgina Rodríguez, por gjithçka rezultoi të ishte vetëm një thashethem. Ishulli i Madeira-s u përfshi nga një atmosferë e pazakontë, pasi qindra turistë dhe banorë u grumbulluan p",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-09T08:07:50+00:00",
+      "dateStr": "09 Aug, 08:07",
+      "isNew": true,
+      "id": "she11786262870"
+    },
+    {
+      "title": "“Nuk e di si kemi shpëtuar!”, banori në Krujë: Mu dogjën 250 rrënjë ullinj dhe pemë",
+      "link": "https://abcnews.al/nuk-e-di-si-kemi-shpetuar-banori-ne-kruje-mu-dogjen-250-rrenje-ullinj-dhe-peme/",
+      "description": "Qyteti i Krujës përjetoi mbrëmjen e djeshme orë tensioni mes luftës së vazhdueshme me flakët që përpijnë kodrat e qytetit. Mbi 200 efektivë zjarrfikës dhe mbi 200 efektivë të Forcave të Armatosura, si dhe helikopterë ndërhynë duke bërë të mundur neutralizimin e flakëve në orët e para të mëngjesi. Nj",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-09T08:01:15+00:00",
+      "dateStr": "09 Aug, 08:01",
+      "isNew": true,
+      "id": "abc01786262475"
+    },
     {
       "title": "Riaktivizohet vatra e zjarrit në Panahor të Mallakastrës, flakët avancojnë drejt Greshicës",
       "link": "https://24-ore.com/riaktivizohet-vatra-e-zjarrit-ne-panahor-te-mallakastres-flaket-avancojne-drejt-greshices/",
@@ -12,7 +78,7 @@
       "date": "2026-08-09T07:47:27+00:00",
       "dateStr": "09 Aug, 07:47",
       "isNew": true,
-      "id": "24 01786261647"
+      "id": "24 31786261647"
     },
     {
       "title": "FOKUS – 81 vjet nga Nagasaki: Japonia përkujton viktimat e bombës atomike",
@@ -23,7 +89,7 @@
       "date": "2026-08-09T07:46:38+00:00",
       "dateStr": "09 Aug, 07:46",
       "isNew": true,
-      "id": "24 11786261598"
+      "id": "24 41786261598"
     },
     {
       "title": "Të paktën 600 euro në muaj/ Shtëpitë me qira bëhen “mollë e ndaluar” për shqiptarët",
@@ -34,7 +100,7 @@
       "date": "2026-08-09T07:36:38+00:00",
       "dateStr": "09 Aug, 07:36",
       "isNew": true,
-      "id": "she01786260998"
+      "id": "she21786260998"
     },
     {
       "title": "Zbardhet dëshmia e vrasësit të 20-vjeçarit Johan Zuko në Korçë. Ja motivet e ngjarjes së rëndë",
@@ -45,7 +111,7 @@
       "date": "2026-08-09T07:31:25+00:00",
       "dateStr": "09 Aug, 07:31",
       "isNew": true,
-      "id": "24 21786260685"
+      "id": "24 51786260685"
     },
     {
       "title": "Zjarret vijojnë në Mallakastër, riaktivizohet vatra në Panahor",
@@ -56,7 +122,7 @@
       "date": "2026-08-09T07:30:01+00:00",
       "dateStr": "09 Aug, 07:30",
       "isNew": true,
-      "id": "abc01786260601"
+      "id": "abc11786260601"
     },
     {
       "title": "Vrau shokun e fëmijërisë në Korçë/ Momenti kur autori shoqërohet në Polici",
@@ -67,7 +133,7 @@
       "date": "2026-08-09T07:27:26+00:00",
       "dateStr": "09 Aug, 07:27",
       "isNew": true,
-      "id": "abc11786260446"
+      "id": "abc21786260446"
     },
     {
       "title": "Një gol në shtesë i Eddie Segura i jep LAFC fitoren 1-0 ndaj Toluca",
@@ -78,7 +144,7 @@
       "date": "2026-08-09T07:21:13+00:00",
       "dateStr": "09 Aug, 07:21",
       "isNew": true,
-      "id": "24 31786260073"
+      "id": "24 61786260073"
     },
     {
       "title": "“Më ngacmoi të dashurën”, zbardhet dëshmia e autorit të vrasjes së 20-vjeçarit në Korçë",
@@ -89,7 +155,7 @@
       "date": "2026-08-09T07:19:54+00:00",
       "dateStr": "09 Aug, 07:19",
       "isNew": true,
-      "id": "she11786259994"
+      "id": "she31786259994"
     },
     {
       "title": "Aksident në magjistralen Gostivar-Kërçovë, një i vdekur dhe një i lënduar rëndë",
@@ -100,7 +166,7 @@
       "date": "2026-08-09T07:19:36+00:00",
       "dateStr": "09 Aug, 07:19",
       "isNew": true,
-      "id": "24 41786259976"
+      "id": "24 71786259976"
     },
     {
       "title": "Rama për zjarrin në Krujë: Shteti ishte në këmbë, heronjtë tanë shmangën një tragjedi",
@@ -111,7 +177,7 @@
       "date": "2026-08-09T07:19:23+00:00",
       "dateStr": "09 Aug, 07:19",
       "isNew": true,
-      "id": "24 51786259963"
+      "id": "24 81786259963"
     },
     {
       "title": "7 orë luftë me flakët, zjarrfikësit neutralizojnë zjarrin pranë dy fshatrave në Gjirokastër",
@@ -122,29 +188,7 @@
       "date": "2026-08-09T07:17:52+00:00",
       "dateStr": "09 Aug, 07:17",
       "isNew": true,
-      "id": "24 61786259872"
-    },
-    {
-      "title": "Censura e institucioneve ushqen kancerin e lajmeve të rreme (dhe Besa duhet të vlejë edhe për mediat)",
-      "link": "https://24-ore.com/censura-e-institucioneve-ushqen-kancerin-e-lajmeve-te-rreme-dhe-besa-duhet-te-vleje-edhe-per-mediat/",
-      "description": "Nga Carlo Bollino Në vendet e Bashkimit Europian, ku Shqipëria po përgatitet të anëtarësohet, një nga sfidat më të mëdha që lidhet me lirinë e shtypit është lufta ndaj kancerit të dezinformimit. Të ashtuquajturat “fake news”, ose lajmet e rreme, përhapen lehtësisht në rrjetet sociale dhe shpërndahen",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T07:16:54+00:00",
-      "dateStr": "09 Aug, 07:16",
-      "isNew": true,
-      "id": "24 71786259814"
-    },
-    {
-      "title": "FOKUS – Irani: Ngushtica e Hormuzit nuk do të rihapet nëse SHBA nuk ndryshon sjellje",
-      "link": "https://24-ore.com/fokus-irani-ngushtica-e-hormuzit-nuk-do-te-rihapet-nese-shba-nuk-ndryshon-sjellje/",
-      "description": "TEHERAN, 9 gusht /ATSH -ANSA/ – Derisa Amerika të mos korrigjojë sjelljen e saj, Ngushtica e Hormuzit nuk do të rihapet,. Këshilli i Lartë i Sigurisë Kombëtare nuk do të tërhiqet kurrë, as në luftë dhe as në negociata., deklaroi sekretari i Këshillit të Lartë të Sigurisë Kombëtare të Iranit, Mohamma",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T07:15:58+00:00",
-      "dateStr": "09 Aug, 07:15",
-      "isNew": true,
-      "id": "24 81786259758"
+      "id": "24 91786259872"
     },
     {
       "title": "Zjarr gjatë natës në Gjirokastër, rrezik për përhapjen e flakëve drejt zonave të banuara",
@@ -155,7 +199,7 @@
       "date": "2026-08-09T07:12:45+00:00",
       "dateStr": "09 Aug, 07:12",
       "isNew": true,
-      "id": "abc21786259565"
+      "id": "abc31786259565"
     },
     {
       "title": "Vrasja e 20 vjeçarit në Korçë/ Rivaliteti për ‘të fortin’ e lagjes solli konflikte, dyshohet se viktima i ngacmoi të dashurën",
@@ -166,18 +210,7 @@
       "date": "2026-08-09T07:07:15+00:00",
       "dateStr": "09 Aug, 07:07",
       "isNew": true,
-      "id": "abc31786259235"
-    },
-    {
-      "title": "Me “rreshterin” Mourinho nuk bëhet shaka, ja rregullat e reja te Real Madridi",
-      "link": "https://24-ore.com/me-rreshterin-mourinho-nuk-behet-shaka-ja-rregullat-e-reja-te-real-madridi/",
-      "description": "Me Mourinhon, çdo detaj është thelbësor. Dhe kështu ai donte të revolucionarizonte gjithçka që ekzistonte në qendrën stërvitore Valdebebas të Real Madridit. Lojtarët kishin gjithçka që u nevojitej për të organizuar rutinat e tyre të përditshme sipas dëshirës, ​​çdo rehati. Dhe pikërisht kjo, duke e ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T07:06:44+00:00",
-      "dateStr": "09 Aug, 07:06",
-      "isNew": true,
-      "id": "24 91786259204"
+      "id": "abc41786259235"
     },
     {
       "title": "Nga mbreti i skandaleve te vetëlëndimi ‘live’ në TikTok/ Çfarë fshihet pas dramës së Perez Hilton? Njeriut që ekspozonte sekretet e VIP-ave",
@@ -188,7 +221,7 @@
       "date": "2026-08-09T06:59:36+00:00",
       "dateStr": "09 Aug, 06:59",
       "isNew": true,
-      "id": "she21786258776"
+      "id": "she41786258776"
     },
     {
       "title": "“U dogj vetëm një magazinë, asnjë qytetar i dëmtuar”, Rama për zjarrin në Krujë: Respekt për heronjtë e vijës së parë",
@@ -199,7 +232,7 @@
       "date": "2026-08-09T06:43:17+00:00",
       "dateStr": "09 Aug, 06:43",
       "isNew": true,
-      "id": "she31786257797"
+      "id": "she51786257797"
     },
     {
       "title": "“Zjarri në Krujë përfundoi pa asnjë banor të dëmtuar”, Rama: Ushtria dhe Policia vepruan me heroizëm dhe profesionalizëm",
@@ -210,7 +243,7 @@
       "date": "2026-08-09T06:42:15+00:00",
       "dateStr": "09 Aug, 06:42",
       "isNew": true,
-      "id": "abc41786257735"
+      "id": "abc51786257735"
     },
     {
       "title": "Kreu i ushtrisë së SHBA kërkon të dalë nga lufta me Iranin",
@@ -221,7 +254,7 @@
       "date": "2026-08-09T06:26:12+00:00",
       "dateStr": "09 Aug, 06:26",
       "isNew": true,
-      "id": "abc51786256772"
+      "id": "abc61786256772"
     },
     {
       "title": "Pas natës së ferrit, Kruja merr frymë sërish! Flakët vihen nën kontroll, operacioni vijon nga ajri",
@@ -232,7 +265,7 @@
       "date": "2026-08-09T06:22:27+00:00",
       "dateStr": "09 Aug, 06:22",
       "isNew": true,
-      "id": "she41786256547"
+      "id": "she61786256547"
     },
     {
       "title": "Zjarri në Krujë, mbi 280 efektivë në terren, ndërhyhet edhe nga ajri",
@@ -243,7 +276,7 @@
       "date": "2026-08-09T06:05:43+00:00",
       "dateStr": "09 Aug, 06:05",
       "isNew": true,
-      "id": "abc61786255543"
+      "id": "abc71786255543"
     },
     {
       "title": "Finalizohet operacioni “Vila”, arrestohet në Palasë një 50-vjeçar i shpallur në kërkim nga SPAK",
@@ -254,7 +287,7 @@
       "date": "2026-08-09T05:30:52+00:00",
       "dateStr": "09 Aug, 05:30",
       "isNew": true,
-      "id": "abc71786253452"
+      "id": "abc81786253452"
     },
     {
       "title": "Horoskopi, 9 gusht 2026",
@@ -265,18 +298,7 @@
       "date": "2026-08-09T05:05:08+00:00",
       "dateStr": "09 Aug, 05:05",
       "isNew": true,
-      "id": "abc81786251908"
-    },
-    {
-      "title": "Parashikimi i motit, 9 gusht 2026",
-      "link": "https://abcnews.al/parashikimi-i-motit-9-gusht-2026/",
-      "description": "Ditën e diel, vendi ynë do të jetë nën ndikimin e kushteve atmosferike të qëndrueshme. Moti parashikohet i kthjellët, ndërsa vranësirat të pakta kalimtare në jug në orët e mesditës. Era do të fryjë me drejtim veriperëndim-verilindje, me shpejtësi mesatare 7m/s. Përgjatë vijës bregdetare dhe zonat lu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-09T05:03:02+00:00",
-      "dateStr": "09 Aug, 05:03",
-      "isNew": true,
-      "id": "abc91786251782"
+      "id": "abc91786251908"
     },
     {
       "title": "Vrau me kallashnikov shokun e tij, merr fund arratia e Kristjan Sterjos, arrestohet pranë banesës",
@@ -287,7 +309,7 @@
       "date": "2026-08-08T21:05:11+00:00",
       "dateStr": "08 Aug, 21:05",
       "isNew": true,
-      "id": "she51786223111"
+      "id": "she71786223111"
     },
     {
       "title": "Arrestohet autori i zjarrvënies në Krujë, 73-vjeçari e ndezi për të djegur bar, tani rrezikohen banesat dhe njerëzit",
@@ -298,7 +320,7 @@
       "date": "2026-08-08T20:57:17+00:00",
       "dateStr": "08 Aug, 20:57",
       "isNew": true,
-      "id": "she61786222637"
+      "id": "she81786222637"
     },
     {
       "title": "Në kërkim prej dy vitesh për dosjen e inceneratorit të Tiranës, arrestohet në vilën në Palasë, Renardo Nallbani",
@@ -309,29 +331,7 @@
       "date": "2026-08-08T20:44:08+00:00",
       "dateStr": "08 Aug, 20:44",
       "isNew": true,
-      "id": "she71786221848"
-    },
-    {
-      "title": "Ukraina nuk e njeh shtetin e Kosovës, Zelensky nga Beogradi: Qendrimi ynë mbetet i pandryshuar, respektojmë integritetin territorial të Serbisë",
-      "link": "https://shekulli.com.al/2026/08/08/ukraina-nuk-e-njeh-shtetin-e-kosoves-zelensky-nga-beogradi-qendrimi-yne-mbetet-i-pandryshuar-respektojme-integritetin-territorial-te-serbise/",
-      "description": "Presidenti i Ukrainës, Volodymyr Zelensky, ka zhvilluar një takim ditën e sotme me presidentin e Serbisë, Aleksandar Vuçiç, gjatë vizitës së tij zyrtare në Beograd. Gjatë fjalës së tij Zelensky ka deklaruar se Ukraina nuk ka ndryshuar qendrim për mosnjohjen e shtetit të Kosovës. Sipas tij Ukraina re",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-08T20:39:20+00:00",
-      "dateStr": "08 Aug, 20:39",
-      "isNew": true,
-      "id": "she81786221560"
-    },
-    {
-      "title": "I nxehti ekstrem drejt fundit? Meteorologia tregon kur pritet rënia e temperaturave në Shqipëri",
-      "link": "https://shekulli.com.al/2026/08/08/i-nxehti-ekstrem-drejt-fundit-meteorologia-tregon-kur-pritet-renia-e-temperaturave-ne-shqiperi/",
-      "description": "Ditëve me temperatura ekstremisht të larta në vend duket se po u vjen gradualisht fundi. Meteorologia Tanja Porja paralajmëron se vala e të nxehtit mund të vijojë edhe për dy deri në tre ditë, ndërsa më pas pritet një ulje graduale e temperaturave. Sipas Porjes, kjo është vala më intensive e të nxeh",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-08T20:33:43+00:00",
-      "dateStr": "08 Aug, 20:33",
-      "isNew": true,
-      "id": "she91786221223"
+      "id": "she91786221848"
     }
   ]
 }
