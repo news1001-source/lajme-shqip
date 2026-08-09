@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-08-09T04:59:26.312587+00:00",
+  "lastUpdated": "2026-08-09T05:50:49.685110+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Horoskopi, 9 gusht 2026",
+      "link": "https://abcnews.al/horoskopi-9-gusht-2026/",
+      "description": "Dashi Gjatë gjithë ditës do të jeni të gatshëm për të ndërmarrë disa iniciativa. Yjet ju këshillojnë të mbani veten nën kontroll dhe të tregoni kujdes me veprimet që bëni në mënyrë spontane. Nëse mbani përgjegjësitë tuaja për familjen dhe krijoni një ambient të ngrohtë, do të rrisë mjaft pikët tuaja",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-09T05:05:08+00:00",
+      "dateStr": "09 Aug, 05:05",
+      "isNew": true,
+      "id": "abc01786251908"
+    },
+    {
+      "title": "Parashikimi i motit, 9 gusht 2026",
+      "link": "https://abcnews.al/parashikimi-i-motit-9-gusht-2026/",
+      "description": "Ditën e diel, vendi ynë do të jetë nën ndikimin e kushteve atmosferike të qëndrueshme. Moti parashikohet i kthjellët, ndërsa vranësirat të pakta kalimtare në jug në orët e mesditës. Era do të fryjë me drejtim veriperëndim-verilindje, me shpejtësi mesatare 7m/s. Përgjatë vijës bregdetare dhe zonat lu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-09T05:03:02+00:00",
+      "dateStr": "09 Aug, 05:03",
+      "isNew": true,
+      "id": "abc11786251782"
+    },
     {
       "title": "FC Dallas befasoi Chivas 1-0 dhe forcon shpresat për fazën nokaut të Leagues Cup",
       "link": "https://24-ore.com/fc-dallas-befasoi-chivas-1-0-dhe-forcon-shpresat-per-fazen-nokaut-te-leagues-cup/",
@@ -122,7 +144,7 @@
       "date": "2026-08-08T21:57:09+00:00",
       "dateStr": "08 Aug, 21:57",
       "isNew": true,
-      "id": "abc01786226229"
+      "id": "abc21786226229"
     },
     {
       "title": "VIDEO/ Flakët jashtë kontrollit, rëndohet situata në Krujë, banorët braktisin banesat",
@@ -133,7 +155,7 @@
       "date": "2026-08-08T21:41:19+00:00",
       "dateStr": "08 Aug, 21:41",
       "isNew": true,
-      "id": "abc11786225279"
+      "id": "abc31786225279"
     },
     {
       "title": "Vrau me kallashnikov shokun e tij, merr fund arratia e Kristjan Sterjos, arrestohet pranë banesës",
@@ -155,7 +177,7 @@
       "date": "2026-08-08T21:01:42+00:00",
       "dateStr": "08 Aug, 21:01",
       "isNew": true,
-      "id": "abc21786222902"
+      "id": "abc41786222902"
     },
     {
       "title": "Arrestohet autori i zjarrvënies në Krujë, 73-vjeçari e ndezi për të djegur bar, tani rrezikohen banesat dhe njerëzit",
@@ -177,7 +199,7 @@
       "date": "2026-08-08T20:55:54+00:00",
       "dateStr": "08 Aug, 20:55",
       "isNew": true,
-      "id": "abc31786222554"
+      "id": "abc51786222554"
     },
     {
       "title": "Vance paralajmëron: Lufta me Iranin nuk ka përfunduar, jemi në mes të lojës",
@@ -188,7 +210,7 @@
       "date": "2026-08-08T20:52:09+00:00",
       "dateStr": "08 Aug, 20:52",
       "isNew": true,
-      "id": "abc41786222329"
+      "id": "abc61786222329"
     },
     {
       "title": "Në kërkim prej dy vitesh për dosjen e inceneratorit të Tiranës, arrestohet në vilën në Palasë, Renardo Nallbani",
@@ -210,7 +232,7 @@
       "date": "2026-08-08T20:40:04+00:00",
       "dateStr": "08 Aug, 20:40",
       "isNew": true,
-      "id": "abc51786221604"
+      "id": "abc71786221604"
     },
     {
       "title": "Ukraina nuk e njeh shtetin e Kosovës, Zelensky nga Beogradi: Qendrimi ynë mbetet i pandryshuar, respektojmë integritetin territorial të Serbisë",
@@ -243,7 +265,7 @@
       "date": "2026-08-08T20:29:50+00:00",
       "dateStr": "08 Aug, 20:29",
       "isNew": true,
-      "id": "abc61786220990"
+      "id": "abc81786220990"
     },
     {
       "title": "I shpallur në kërkim prej dy vitesh nën akuzë për incineratorin e Tiranës, arrestohet Renardo Nallbani",
@@ -254,7 +276,7 @@
       "date": "2026-08-08T20:26:48+00:00",
       "dateStr": "08 Aug, 20:26",
       "isNew": true,
-      "id": "abc71786220808"
+      "id": "abc91786220808"
     },
     {
       "title": "Aksident në Gjirokastër – Tepelenë, përplasen 3 automjete, trafik i rënduar",
@@ -290,17 +312,6 @@
       "id": "she71786219278"
     },
     {
-      "title": "Todd Blanche konfirmohet si Prokurori i Përgjithshëm i SHBA-ve",
-      "link": "https://abcnews.al/todd-blanche-konfirmohet-si-prokurori-i-pergjithshem-i-shba-ve/",
-      "description": "Todd Blanche, ish-avokati personal i presidentit amerikan Donald Trump, është konfirmuar me rezultat të ngushtë në postin e prokurorit të përgjithshëm të Shteteve të Bashkuara, zyrtari më i lartë i vendit për zbatimin e ligjit. Votimi i dha fund një përplasjeje të gjatë mes republikanëve në Senat dh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-08T19:50:47+00:00",
-      "dateStr": "08 Aug, 19:50",
-      "isNew": true,
-      "id": "abc81786218647"
-    },
-    {
       "title": "Zjarri në Krujë kërcënon banesat, Lamallari: Është arrestuar autori i dyshuar i zjarrvënies, kemi nisur me evakuimet",
       "link": "https://shekulli.com.al/2026/08/08/zjarri-ne-kruje-kercenon-banesat-lamallari-eshte-arrestuar-autori-i-dyshuar-i-zjarrvenies/",
       "description": "Zjarri në Abaze të Krujës që po kërcënon banesat është shkaktuar qëllimisht, ndërsa Policia e Shtetit ka arrestuar autorin e dyshuar të zjarrvënies. Lajmin e ka bërë të ditur ministri i Brendshëm, Besfort Lamallari, i cili gjatë pasdites ka qenë në Krujë së bashku me ministrin e Mbrojtjes, Ermal Nuf",
@@ -321,17 +332,6 @@
       "dateStr": "08 Aug, 19:34",
       "isNew": true,
       "id": "she91786217657"
-    },
-    {
-      "title": "Sulmohen palestinezët në Betlehem, pas tyre edhe ekipi mjekësor që do u vinte në ndihmë",
-      "link": "https://abcnews.al/sulmohen-palestinezet-ne-betlehem-pas-tyre-edhe-ekipi-mjekesor-qe-do-u-vinte-ne-ndihme/",
-      "description": "Sipas raportimeve të mediave lokale, persona të armatosur izraelitë kanë sulmuar automjete palestineze në rrugën Abu Najim, në juglindje të Betlehemit. Gjatë incidentit, sulmuesit dyshohet se kanë sulmuar edhe personelin mjekësor që po përpiqej të mbërrinte te tre palestinezë të plagosur. Disa autom",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-08T19:27:47+00:00",
-      "dateStr": "08 Aug, 19:27",
-      "isNew": true,
-      "id": "abc91786217267"
     }
   ]
 }
