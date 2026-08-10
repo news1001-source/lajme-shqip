@@ -1,8 +1,96 @@
 {
-  "lastUpdated": "2026-08-10T21:36:08.383578+00:00",
+  "lastUpdated": "2026-08-10T22:32:02.942255+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "76ers përkujtojnë LeBron James dhe Joel Embiid për përvjetorin e dytë të medaljes së artë të SHBA-së në Paris",
+      "link": "https://24-ore.com/76ers-perkujtojne-lebron-james-dhe-joel-embiid-per-pervjetorin-e-dyte-te-medaljes-se-arte-te-shba-se-ne-paris/",
+      "description": "Philadelphia 76ers përkujtuan përvjetorin e dytë të medaljes së artë të Team USA në Lojërat Olimpike të Parisit, duke publikuar fotografi të LeBron James d...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T22:31:45+00:00",
+      "dateStr": "10 Aug, 22:31",
+      "isNew": true,
+      "id": "24 01786401105"
+    },
+    {
+      "title": "Regionet e Little League 2026: rezultatet dhe ndeshjet e së hënës",
+      "link": "https://24-ore.com/regionet-e-little-league-2026-rezultatet-dhe-ndeshjet-e-se-henes/",
+      "description": "Fazat rajonale për Little League World Series vazhduan të hënën, me shumë ekipe që luftuan për të siguruar vendin në ndeshjet për titull në rajonet e tyre....",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T22:30:42+00:00",
+      "dateStr": "10 Aug, 22:30",
+      "isNew": true,
+      "id": "24 11786401042"
+    },
+    {
+      "title": "Ksamil, hyn me Jet Ski në zonën e pushuesve, gjobitet me 5 mln lekë",
+      "link": "https://24-ore.com/ksamil-hyn-me-jet-ski-ne-zonen-e-pushuesve-gjobitet-me-5-mln-leke/",
+      "description": "Policia Kufitare ka ndëshkuar me 500 mijë lekë të rinj drejtuesin e një mjeti lundrues Jet Ski, i cili shkeli perimetrin e sigurisë në plazhin e Ksamilit, duke rrezikuar pushuesit. Shkelja u konstatua gjatë patrullimeve në zonën e quajtur “Bar Bistro”, ku mjeti kishte hyrë brenda hapësirës së rezerv",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T22:20:43+00:00",
+      "dateStr": "10 Aug, 22:20",
+      "isNew": true,
+      "id": "24 21786400443"
+    },
+    {
+      "title": "Nigel Farage: Mbi 10 mijë kriminelët e huaj do t’i dërgojmë në burgje në Kosovë dhe El Salvador",
+      "link": "https://24-ore.com/nigel-farage-mbi-10-mije-kriminelet-e-huaj-do-ti-dergojme-ne-burgje-ne-kosove-dhe-el-salvador/",
+      "description": "Lideri i Partisë Reform UK, Nigel Farage, ka deklaruar se personat që kanë shkuar në Britaninë e Madhe dhe kryejnë vrasje ose përdhunime duhet të dërgohen për të vuajtur dënimin në burgje jashtë vendit duke përmendur si opsion dhe Kosovën. Në një postim në rrjetet sociale ai shkroi: “Nëse keni ardhu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T22:20:31+00:00",
+      "dateStr": "10 Aug, 22:20",
+      "isNew": true,
+      "id": "24 31786400431"
+    },
+    {
+      "title": "Një qendër 7’5″ Jamarion Sharp firmos me Clippers dhe bëhet lojtari më i gjatë aktiv në NBA",
+      "link": "https://24-ore.com/nje-qender-75-jamarion-sharp-firmos-me-clippers-dhe-behet-lojtari-me-i-gjate-aktiv-ne-nba/",
+      "description": "Los Angeles Clippers nënshkruan me qendër Jamarion Sharp një kontratë two-way, duke i shtuar skuadrës madhësi në zonën e pikturës. Me lartësi 7'5\", Sharp ë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T21:50:41+00:00",
+      "dateStr": "10 Aug, 21:50",
+      "isNew": true,
+      "id": "24 41786398641"
+    },
+    {
+      "title": "Senatorja amerikane viziton Kosovën, pritet në Ambasadën e SHBA-së në Prishtinë",
+      "link": "https://24-ore.com/senatorja-amerikane-viziton-kosoven-pritet-ne-ambasaden-e-shba-se-ne-prishtine/",
+      "description": "E Ngarkuara me Punë në Ambasadën e Shteteve të Bashkuara të Amerikës në Prishtinë, Anu Prattipati, ka mirëpritur në Kosovë senatoren amerikane Joni Ernst. Sipas Ambasadës së SHBA-së, senatorja Ernst gjatë pasdites ka zhvilluar takime në Ambasadën amerikane në Prishtinë. Gjatë qëndrimit në Kosovë, Er",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T21:50:08+00:00",
+      "dateStr": "10 Aug, 21:50",
+      "isNew": true,
+      "id": "24 51786398608"
+    },
+    {
+      "title": "Një zgjatje trevjeçare 105.9 milionë dollarë: Cowboys rinovojnë kontratën e Quinnen Williams",
+      "link": "https://24-ore.com/nje-zgjatje-trevjecare-105-9-milione-dollare-cowboys-rinovojne-kontraten-e-quinnen-williams/",
+      "description": "Dallas Cowboys nënshkruan një zgjatje trevjeçare për defensive tackle Quinnen Williams, me vlerë 105.9 milionë dollarë. Kontrata parashikon një pagë mesata...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T21:46:32+00:00",
+      "dateStr": "10 Aug, 21:46",
+      "isNew": true,
+      "id": "24 61786398392"
+    },
+    {
+      "title": "Policia shpëton të moshuarin që ra në bunar në Shtime",
+      "link": "https://24-ore.com/policia-shpeton-te-moshuarin-qe-ra-ne-bunar-ne-shtime/",
+      "description": "Policia e Kosovës ka shpëtuar sot një të moshuar, i cili kishte rënë aksidentalisht në një bunar në fshatin Muzeqinë të Shtimes. Sipas njoftimit të Policisë, ngjarja ka ndodhur derisa i moshuari ishte duke ujitur kopshtin në oborrin e shtëpisë së tij, kur për shkaqe ende të panjohura ka rënë në buna",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T21:45:13+00:00",
+      "dateStr": "10 Aug, 21:45",
+      "isNew": true,
+      "id": "24 71786398313"
+    },
     {
       "title": "Vuçiqit i “dhemb” reagimi i Shqipërisë për lumin Ibër, vazhdon të hedhë akuza të pabaza ndaj Kosovës",
       "link": "https://24-ore.com/vuciqit-i-dhemb-reagimi-i-shqiperise-per-lumin-iber-vazhdon-te-hedhe-akuza-te-pabaza-ndaj-kosoves/",
@@ -12,7 +100,7 @@
       "date": "2026-08-10T21:25:29+00:00",
       "dateStr": "10 Aug, 21:25",
       "isNew": true,
-      "id": "24 01786397129"
+      "id": "24 81786397129"
     },
     {
       "title": "Vuçiqit i “dhemb” reagimi i Shqipërisë për lumin Ibër, vazhdon të hedhë akuza ndaj Kosovës",
@@ -23,62 +111,7 @@
       "date": "2026-08-10T21:20:23+00:00",
       "dateStr": "10 Aug, 21:20",
       "isNew": true,
-      "id": "24 11786396823"
-    },
-    {
-      "title": "Vende të përshtatshme për 10 agjentët kryesorë të lirë të NFL përpara presezonit 2026",
-      "link": "https://24-ore.com/vende-te-pershtatshme-per-10-agjentet-kryesore-te-lire-te-nfl-perpara-presezonit-2026/",
-      "description": "Me nisjen e presezonit, klubet e NFL po përpiqen të mbyllin boshllëqet në skemë dhe në listat e lojtarëve. Dëmtimet gjatë dy javëve të para të stërvitjeve...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T21:11:40+00:00",
-      "dateStr": "10 Aug, 21:11",
-      "isNew": true,
-      "id": "24 21786396300"
-    },
-    {
-      "title": "Si një marrëveshje katërskuadre mund ta sjellë Jonathan Kuminga te Los Angeles Lakers",
-      "link": "https://24-ore.com/si-nje-marreveshje-katerskuadre-mund-ta-sjelle-jonathan-kuminga-te-los-angeles-lakers/",
-      "description": "Los Angeles Lakers po kërkojnë të forcojnë pozitën e forvardit titullar dhe kanë shfaqur interes për Jonathan Kuminga të Atlanta Hawks. Për t’i plotësuar n...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T21:06:43+00:00",
-      "dateStr": "10 Aug, 21:06",
-      "isNew": true,
-      "id": "24 31786396003"
-    },
-    {
-      "title": "Nga Dielli te truri i njeriut: Çfarë zbulojnë shkencëtarët gjatë eklipseve?",
-      "link": "https://24-ore.com/nga-dielli-te-truri-i-njeriut-cfare-zbulojne-shkencetaret-gjate-eklipseve/",
-      "description": "Eklipset tregojnë se si ka ndryshuar marrëdhënia e njerëzimit me dijen. Në lashtësi, errësimi i papritur i Diellit shihej si një ogur i keq dhe shkaktonte frikë. Sot, eklipset janë kthyer në një mundësi të rëndësishme për shkencëtarët për të studiuar Diellin, Tokën, kafshët dhe edhe reagimet e njerë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T21:02:18+00:00",
-      "dateStr": "10 Aug, 21:02",
-      "isNew": true,
-      "id": "24 41786395738"
-    },
-    {
-      "title": "Pse kanë marrë zemër 20 vjeçarët?",
-      "link": "https://24-ore.com/pse-kane-marre-zemer-20-vjecaret/",
-      "description": "Nga Artur Ajazi Nga Janari 2026 deri sot, në Shqipëri janë vrarë me armë zjarri apo armë të tjera, 11 persona. Autorët janë 18 deri 20 vjeçarë. Nuk ua bën “syri tërr”, kur bëjnë vrzsjan, pasi e kanë provuar edhe para 6 muajsh apo para 1 viti, duke kryer plagosje, grabitje me pasojë plagosje, pengmar",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T21:01:24+00:00",
-      "dateStr": "10 Aug, 21:01",
-      "isNew": true,
-      "id": "24 51786395684"
-    },
-    {
-      "title": "SHBA – Trump kërkon dëmshpërblime nga Irani si kusht për negociatat",
-      "link": "https://24-ore.com/shba-trump-kerkon-demshperblime-nga-irani-si-kusht-per-negociatat/",
-      "description": "UASHINGTON, 10 gusht /ATSH-DPA/ – Presidenti amerikan, Donald Trump kërkoi sot që Irani të paguajë dëmshpërblime për viktimat dhe dëmet e shkaktuara gjatë konflikteve të ndryshme, duke e vendosur këtë si kusht për negociatat e ardhshme për zgjidhjen e konfliktit mes dy vendeve. Në një postim në plat",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T21:00:12+00:00",
-      "dateStr": "10 Aug, 21:00",
-      "isNew": true,
-      "id": "24 61786395612"
+      "id": "24 91786396823"
     },
     {
       "title": "Shqipëria dështon që në nisje, Burraj dhe Mema eliminohen nga Evropiani i Atletikës",
@@ -90,17 +123,6 @@
       "dateStr": "10 Aug, 20:58",
       "isNew": true,
       "id": "she01786395488"
-    },
-    {
-      "title": "Tridhjetë autobusët e parë elektrikë pritet të arrijnë në Maqedoni në dhjetor ose janar",
-      "link": "https://24-ore.com/tridhjete-autobuset-e-pare-elektrike-pritet-te-arrijne-ne-maqedoni-ne-dhjetor-ose-janar/",
-      "description": "Tridhjetë autobusët e parë elektrikë pritet të arrijnë në vend në dhjetor ose janar, ndërsa furnizimi i gjithsej 150 pritet të përfundojë për një vit e gjysmë. Është parashtruar një ankesë, e cila sot është refuzuar nga Komisioni i shkallës së dytë për ankesa për prokurime publike, njoftoi zëvendësk",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T20:55:10+00:00",
-      "dateStr": "10 Aug, 20:55",
-      "isNew": true,
-      "id": "24 71786395310"
     },
     {
       "title": "VIDEO/ Deputetja britanike Sarah Pochin: Shqipëria të marrë të dënuarit, ndryshe t’i bllokojmë vizat dhe ndihmat",
@@ -125,17 +147,6 @@
       "id": "abc01786394902"
     },
     {
-      "title": "RUSI – 13 të vrarë pas sulmit ukrainas me dronë në Tatarstan",
-      "link": "https://24-ore.com/rusi-13-te-vrare-pas-sulmit-ukrainas-me-drone-ne-tatarstan/",
-      "description": "MOSKË, 10 gusht /ATSH-DPA/ – Të paktën 13 persona u vranë dhe 78 të tjerë u plagosën pas një sulmi masiv me dronë ukrainas në qytetin Nizhnekamsk, në republikën ruse të Tatarstanit, njoftuan sot autoritetet ruse. Mes viktimave janë edhe shtetas të Uzbekistanit dhe Taxhikistanit. Sipas agjencisë shte",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T20:46:01+00:00",
-      "dateStr": "10 Aug, 20:46",
-      "isNew": true,
-      "id": "24 81786394761"
-    },
-    {
       "title": "SHBA/ Meta prezanton modelin IA me funksione edhe në PC",
       "link": "https://abcnews.al/shba-meta-prezanton-modelin-ia-me-funksione-edhe-ne-pc/",
       "description": "Kompania Meta ka prezantuar një model të ri të inteligjencës artificiale (IA), i cili mund të funksionojë edhe në një kompjuter personal (PC), ndërsa drejtori ekzekutiv Mark Zuckerberg bëri thirrje për më pak kufizime ndaj inteligjencës artificiale me burim të hapur. Zuckerberg deklaroi se Meta do t",
@@ -156,17 +167,6 @@
       "dateStr": "10 Aug, 20:41",
       "isNew": true,
       "id": "abc21786394511"
-    },
-    {
-      "title": "“Më dërguan planin për ndarjen e Maqedonisë”/ Ali Ahmeti zbulon prapaskenën: Si reaguan Nano dhe Berisha",
-      "link": "https://24-ore.com/me-derguan-planin-per-ndarjen-e-maqedonise-ali-ahmeti-zbulon-prapaskenen-si-reaguan-nano-dhe-berisha/",
-      "description": "Ali Ahmeti, lideri i Bashkimit Demokratik për Integrim, në një intervistë për gazetarin e njohur Arbër Vllahiu, deklaroi se ka ekzistuar një plan i qartë për ndarjen e Maqedonisë. Ahmeti, në intervistën për televizionin 21 deklaroi se ky plan ka ardhur para marrëveshjes së Ohrit nga aktorë të rëndës",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T20:32:21+00:00",
-      "dateStr": "10 Aug, 20:32",
-      "isNew": true,
-      "id": "24 91786393941"
     },
     {
       "title": "Zjarri përhapet në Krastë të Krujës, flakët rrezikojnë depot e eksplozivit në Zidoll",
