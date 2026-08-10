@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-08-09T23:25:33.626929+00:00",
+  "lastUpdated": "2026-08-10T01:20:16.946430+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Las Vegas Aces fitojnë 86-84 ndaj Indiana Fever në vazhdime, Chelsea Gray vendos ndeshjen",
+      "link": "https://24-ore.com/las-vegas-aces-fitojne-86-84-ndaj-indiana-fever-ne-vazhdime-chelsea-gray-vendos-ndeshjen/",
+      "description": "Las Vegas Aces fituan 86-84 ndaj Indiana Fever në vazhdime, në një ndeshje të vendosur në sekondat e fundit. Chelsea Gray shënoi trepikëshin barazues në fu...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T01:02:07+00:00",
+      "dateStr": "10 Aug, 01:02",
+      "isNew": true,
+      "id": "24 01786323727"
+    },
+    {
+      "title": "Jacob deGrom hedh pesë inçione me nëntë eliminime në fitoren 5-1 të Rangers ndaj Orioles",
+      "link": "https://24-ore.com/jacob-degrom-hedh-pese-incione-me-nente-eliminime-ne-fitoren-5-1-te-rangers-ndaj-orioles/",
+      "description": "Jacob deGrom shkëlqeu në paraqitjen e tij të parë pas refuzimit të një këmbimi, duke hedhur pesë nëçione dhe regjistruar nëntë eliminime në fitoren 5-1 të...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T00:56:58+00:00",
+      "dateStr": "10 Aug, 00:56",
+      "isNew": true,
+      "id": "24 11786323418"
+    },
+    {
+      "title": "MLB 2026: Renditjet e play-offit, rekordet e ekipeve dhe panorama e garës me shtatë javë të mbetura",
+      "link": "https://24-ore.com/mlb-2026-renditjet-e-play-offit-rekordet-e-ekipeve-dhe-panorama-e-gares-me-shtate-jave-te-mbetura/",
+      "description": "Me shtatë javë të mbetura në sezonin e rregullt të MLB-së, tabloja e playoff-it po bëhet më e qartë. Në Ligën Amerikane kryeson Tampa Bay Rays me 70 fitore...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T00:15:57+00:00",
+      "dateStr": "10 Aug, 00:15",
+      "isNew": true,
+      "id": "24 21786320957"
+    },
+    {
+      "title": "Seattle Sounders rikthehen te fitoret, mposhtin Querétaro 3-0 në Lumen Field",
+      "link": "https://24-ore.com/seattle-sounders-rikthehen-te-fitoret-mposhtin-queretaro-3-0-ne-lumen-field/",
+      "description": "Seattle Sounders arritën fitoren e shumëpritur, duke mundur Querétaro 3-0 të dielën në Lumen Field. Ky triumf i jep skuadrës tre pikë të vlefshme për të mb...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T23:45:34+00:00",
+      "dateStr": "09 Aug, 23:45",
+      "isNew": true,
+      "id": "24 31786319134"
+    },
+    {
+      "title": "Padres vs. Astros: takimi në Petco Park më 9 gusht 2026",
+      "link": "https://24-ore.com/padres-vs-astros-takimi-ne-petco-park-me-9-gusht-2026/",
+      "description": "San Diego Padres presin Houston Astros në Petco Park të San Diego më 9 gusht 2026. Ndeshja paraqet një përballje mes të drejtuesve të ndeshjes: C. Javier (...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-09T23:35:38+00:00",
+      "dateStr": "09 Aug, 23:35",
+      "isNew": true,
+      "id": "24 41786318538"
+    },
     {
       "title": "Shkodër, 23-vjeçarja dhunohet në banesën e saj nga dy persona",
       "link": "https://24-ore.com/shkoder-23-vjecarja-dhunohet-ne-banesen-e-saj-nga-dy-persona/",
@@ -12,7 +67,7 @@
       "date": "2026-08-09T23:20:22+00:00",
       "dateStr": "09 Aug, 23:20",
       "isNew": true,
-      "id": "24 01786317622"
+      "id": "24 51786317622"
     },
     {
       "title": "Los Angeles Sparks – Golden State Valkyries: Përballje në Crypto.com Arena më 9 gusht 2026",
@@ -23,7 +78,7 @@
       "date": "2026-08-09T22:56:24+00:00",
       "dateStr": "09 Aug, 22:56",
       "isNew": true,
-      "id": "24 11786316184"
+      "id": "24 61786316184"
     },
     {
       "title": "Kartela e diskutueshme e Honus Wagner shitet për çmimin më të ulët në gjashtë vjet, e nxjerrë në ankand nga Keith Olbermann",
@@ -34,7 +89,7 @@
       "date": "2026-08-09T22:51:54+00:00",
       "dateStr": "09 Aug, 22:51",
       "isNew": true,
-      "id": "24 21786315914"
+      "id": "24 71786315914"
     },
     {
       "title": "Kayla McBride vendos rekordin e WNBA-së me 10 tre-pikëshe dhe shënon 43 pikë në fitoren e Lynx",
@@ -45,7 +100,7 @@
       "date": "2026-08-09T22:15:42+00:00",
       "dateStr": "09 Aug, 22:15",
       "isNew": true,
-      "id": "24 31786313742"
+      "id": "24 81786313742"
     },
     {
       "title": "Pacolli kërkon reagimin e ndërkombëtarëve pas deklaratave të Vuçiqit për ndryshimin e rrjedhës së Ibrit",
@@ -56,62 +111,7 @@
       "date": "2026-08-09T21:45:22+00:00",
       "dateStr": "09 Aug, 21:45",
       "isNew": true,
-      "id": "24 41786311922"
-    },
-    {
-      "title": "Një faull i ashpër ndaj Sophie Cunningham sjell përjashtimin e DiJonai Carrington në fitore të Fever 90-86",
-      "link": "https://24-ore.com/nje-faull-i-ashper-ndaj-sophie-cunningham-sjell-perjashtimin-e-dijonai-carrington-ne-fitore-te-fever-90-86/",
-      "description": "Indiana Fever fitoi 90-86 ndaj Chicago Sky, ndërsa ndeshja u ndez që në çerekun e parë pas një kontakti të rrezikshëm ndaj mbrojtëses së Fever, Sophie Cunn...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T21:35:36+00:00",
-      "dateStr": "09 Aug, 21:35",
-      "isNew": true,
-      "id": "24 51786311336"
-    },
-    {
-      "title": "Haradinaj – Kurtit: Rruga është e vetmja rrugë për ta rikthyer Kosovën, shtatori po vjen, Albin",
-      "link": "https://24-ore.com/haradinaj-kurtit-rruga-eshte-e-vetmja-rruge-per-ta-rikthyer-kosoven-shtatori-po-vjen-albin/",
-      "description": "Anëtari i Aleancës për Ardhmërinë e Kosovës (AAK), Daut Haradinaj, ka përsëritur qëndrimin e tij për organizimin e protestave në rrugë kundër kryeministrit në detyrë, Albin Kurti. Haradinaj, përmes një postimi në Facebook, ka thënë se sipas tij “rruga është e vetmja rrugë” për ta rikthyer Kosovën në",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T21:35:22+00:00",
-      "dateStr": "09 Aug, 21:35",
-      "isNew": true,
-      "id": "24 61786311322"
-    },
-    {
-      "title": "Bryson Stott prezanton këpucët e personalizuara që nderojnë legjendat e Phillies për ndeshjen Field of Dreams",
-      "link": "https://24-ore.com/bryson-stott-prezanton-kepucet-e-personalizuara-qe-nderojne-legjendat-e-phillies-per-ndeshjen-field-of-dreams/",
-      "description": "Pesë ditë para ndeshjes Field of Dreams, mesfushori i Philadelphia Phillies, Bryson Stott, zbuloi këpucët e personalizuara që do të veshë në eventin specia...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T21:30:38+00:00",
-      "dateStr": "09 Aug, 21:30",
-      "isNew": true,
-      "id": "24 71786311038"
-    },
-    {
-      "title": "Dita 71 e protestës, tubimi zhvendoset para ambasadave të Serbisë dhe Ukrainës",
-      "link": "https://24-ore.com/dita-71-e-protestes-tubimi-zhvendoset-para-ambasadave-te-serbise-dhe-ukraines/",
-      "description": "Marshimi në kuadër të ditës së 71-të të tubimit në Tiranë është zhvendosur mbrëmjen e së dielës përpara ambasadave të Serbisë dhe Ukrainës. Gjatë marshimit, protestuesit janë dëgjuar duke thirrur disa herë “UÇK, UÇK”, ndërsa qëndronin pranë godinave të dy përfaqësive diplomatike. Tubimi vjen një dit",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T21:25:48+00:00",
-      "dateStr": "09 Aug, 21:25",
-      "isNew": true,
-      "id": "24 81786310748"
-    },
-    {
-      "title": "Vera po bëhet e padurueshme, eksperti paralajmëron: Njerëzit nuk do të mund të përshtaten pafund",
-      "link": "https://24-ore.com/vera-po-behet-e-padurueshme-eksperti-paralajmeron-njerezit-nuk-do-te-mund-te-pershtaten-pafund/",
-      "description": "Më shumë pemë dhe hapësira të gjelbra, më pak beton dhe rikthimi i sipërfaqeve që lejojnë depërtimin e ujit janë disa nga masat që, sipas ekspertëve, mund të zbusin efektet e valëve të të nxehtit. Specia njerëzore ka treguar gjatë historisë një aftësi të madhe për t’u përshtatur, por kjo mund të mos",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-09T21:25:35+00:00",
-      "dateStr": "09 Aug, 21:25",
-      "isNew": true,
-      "id": "24 91786310735"
+      "id": "24 91786311922"
     },
     {
       "title": "Deputeti ukrainas kritikon Zelenskyn për deklaratën në Beograd: Gabim diplomatik, Ukraina duhet ta njohë Kosovën",
