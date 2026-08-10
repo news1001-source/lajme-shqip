@@ -1,18 +1,293 @@
 {
-  "lastUpdated": "2026-08-10T09:14:00.636326+00:00",
+  "lastUpdated": "2026-08-10T11:03:18.206665+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Konjufca: Do të vazhdojmë përpjekjet për konstituimin e Kuvendit",
-      "link": "https://24-ore.com/konjufca-do-te-vazhdojme-perpjekjet-per-konstituimin-e-kuvendit/",
-      "description": "Ministri në detyrë i Punëve të Jashtme dhe deputeti i Kuvendit të Kosovës nga radhët e Lëvizjes Vetëvendosje, Glauk Konjufca ka folur para gazetarëve lidhur me zhvillimet e fundit në procesin e konstituimit të institucioneve. Konjufca tha se hapat e ardhshëm janë pjesë e procesit të mëtejshëm konsti",
+      "title": "Inceneratori i Tiranës/ GJKKO lë në burg Renardo Nallbanin, u arrestua dy ditë më parë në Palasë",
+      "link": "https://abcnews.al/inceneratori-i-tiranes-gjkko-le-ne-burg-renardo-nallbanin-u-arrestua-dy-dite-me-pare-ne-palase/",
+      "description": "Gjykata e Posaçme miraton masën “arrest në burg” për Renardo Nallbanin, i cili u arrestua dy ditë më parë në Palasë, pas më shumë se dy vitesh në kërkim nga SPAK. Prokurori i çështjes Dritan Prençi kërkoi nga shkalla e parë e gjyqësorit të lihet në fuqi masa e arrestit lëshuar më herër ndaj Nallbani",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T11:02:46+00:00",
+      "dateStr": "10 Aug, 11:02",
+      "isNew": true,
+      "id": "abc01786359766"
+    },
+    {
+      "title": "Lufta e topit/ UEFA, CONCACAF dhe AFC, kundër Infantino-s: Besim i tradhtuar nga mashtrimi!",
+      "link": "https://24-ore.com/lufta-e-topit-uefa-concacaf-dhe-afc-kunder-infantino-s-besim-i-tradhtuar-nga-mashtrimi-2/",
+      "description": "Komunikatë e fortë nga tre konferedarat e futbollit pas tentativës së kreut të FIFA-s për privatizimin e Kupës së Botës. “Forca e futbollit ka qenë gjithmonë uniteti. Kërkojmë që ky unitet të nderohet tani, për një lidership që të jetë në shërbim të futbollit, jo të kërkojë ta dominojë atë”. Ky ësht",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-10T09:05:00+00:00",
-      "dateStr": "10 Aug, 09:05",
+      "date": "2026-08-10T11:00:29+00:00",
+      "dateStr": "10 Aug, 11:00",
       "isNew": true,
-      "id": "24 01786352700"
+      "id": "24 01786359629"
+    },
+    {
+      "title": "​Kurti: Po bëjmë përpjekje të arrijmë marrëveshjet që t’i shmangim zgjedhjet",
+      "link": "https://24-ore.com/kurti-po-bejme-perpjekje-te-arrijme-marreveshjet-qe-ti-shmangim-zgjedhjet/",
+      "description": "Kryetari i Vetëvendosjes, Albin Kurti u ka bërë thirrje përsëri partive politike parlamentare për të pasur një marrëveshje politike për konstituimin e institucioneve të Kosovës. Kurti tha se është në komunikim me Lidhjen Demokratike të Kosovës. Zgjidhja siç tha ai për të mos shkuar në zgjedhje është",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T11:00:23+00:00",
+      "dateStr": "10 Aug, 11:00",
+      "isNew": true,
+      "id": "24 11786359623"
+    },
+    {
+      "title": "Kandidati për president në Hungari/ “Armiku” i Orban mund të bëhet kreu i ri i shtetit",
+      "link": "https://abcnews.al/kandidati-per-president-ne-hungari-armiku-i-orban-mund-te-behet-kreu-i-ri-i-shtetit/",
+      "description": "Një emër i njohur për përplasjet me qeverinë e Viktor Orbanit mund të rikthehet në qendër të politikës hungareze, këtë herë si kreu i shtetit. Andras Baka, ish-kryetar i Gjykatës së Lartë të Hungarisë, është kandidati i propozuar nga partia në pushtet Tisza për postin e presidentit. Zgjedhja e tij p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T11:00:21+00:00",
+      "dateStr": "10 Aug, 11:00",
+      "isNew": true,
+      "id": "abc11786359621"
+    },
+    {
+      "title": "Karakaçi inspektim pranë Albcontrol: Numër rekord fluturimesh, masa të shtuara për të përballuar fluksin",
+      "link": "https://abcnews.al/karakaci-inspektim-prane-albcontrol-numer-rekord-fluturimesh-masa-te-shtuara-per-te-perballuar-fluksin/",
+      "description": "Viti 2026 po shënon një rekord të ri sa i takon aviacionit civil, duke arritur në shifra të paregjistruara më parë. Sezoni turistik veror është periudha e cila shënon një fluks të lartë sa i takon numrit të fluturimeve dhe pasagjerëve. Ministri i Infrastrukturës dhe Energjisë, Enea Karakaçi ishte pr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T10:51:58+00:00",
+      "dateStr": "10 Aug, 10:51",
+      "isNew": true,
+      "id": "abc21786359118"
+    },
+    {
+      "title": "Konfiskohet marihuanë dhe kokainë në Shtip, ndalohen tre persona",
+      "link": "https://24-ore.com/konfiskohet-marihuane-dhe-kokaine-ne-shtip-ndalohen-tre-persona/",
+      "description": "MPB Maqedoni njofton se pas konstatimeve të mëparshme dhe masave të ndërmarra, më 08.08.2026 rreth orës 22:00, në rr. „Shtipski Sokak“, nëpunës policorë të Seksionit për Tregti të Palejuar të Drogës dhe Armëve pranë SPB Shtip i kapën në flagrancë personat M.B. dhe M.Xh.U. (24) nga Turqia, me qëndrim",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T10:50:38+00:00",
+      "dateStr": "10 Aug, 10:50",
+      "isNew": true,
+      "id": "24 21786359038"
+    },
+    {
+      "title": "Ndryshimet në Kodin Rrugor, shkelësit e përsëritur për alkoolin duhet ti thonë ‘lamtumirë’ patentës",
+      "link": "https://shekulli.com.al/2026/08/10/ndryshimet-ne-kodin-rrugor-shkelesit-e-perseritur-per-alkoolin-duhet-ti-thone-lamtumire-patentes/",
+      "description": "Drejtori i Policisë Rrugore, Drejtues i Parë Perlat Vatoci, në një deklaratë për mediat, ka prezantuar sot ndryshimet në Kodin Rrugor, që synojnë ashpërsimin e masave, për shoferët problematikë. Ndër masat kryesore që kanë hyrë në fuqi nga data 7 Gusht, është dhe ajo për heqjen përgjithmonë të lejes",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-10T10:50:35+00:00",
+      "dateStr": "10 Aug, 10:50",
+      "isNew": true,
+      "id": "she01786359035"
+    },
+    {
+      "title": "BDI: Asnjë seancë të qeverisë nuk e ka kryesuar zëvendëskryeministri i parë shqiptar",
+      "link": "https://24-ore.com/bdi-asnje-seance-te-qeverise-nuk-e-ka-kryesuar-zevendeskryeministri-i-pare-shqiptar/",
+      "description": "BDI: Asnjë seancë të qeverisë nuk e ka kryesuar zëvendëskryeministri i parë shqiptar",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T10:50:27+00:00",
+      "dateStr": "10 Aug, 10:50",
+      "isNew": true,
+      "id": "24 31786359027"
+    },
+    {
+      "title": "Po ndërtonte pa leje 5-katëshin në Himarë, arrestohet 39-vjeçari, në kërkim 3 punonjës të IMT-së",
+      "link": "https://24-ore.com/po-ndertonte-pa-leje-5-kateshin-ne-himare-arrestohet-39-vjecari-ne-kerkim-3-punonjes-te-imt-se/",
+      "description": "Një 39-vjeçar është arrestuar në Himarë pasi dyshohet se po ndërtonte pa leje një objekt 5-katësh, ndërsa tre punonjës të Inspektoratit të Mbrojtjes së Territorit të Bashkisë Himarë janë shpallur në kërkim për shpërdorim detyre. Mes tyre është edhe kryeinspektori i IMT-së. Sipas policisë, në vendin ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T10:50:16+00:00",
+      "dateStr": "10 Aug, 10:50",
+      "isNew": true,
+      "id": "24 41786359016"
+    },
+    {
+      "title": "‘Nuk e njohim pavarësinë e Kosovës’, Berisha zulmon Zelenskyn: Deklaratë e papërgjegjshme!",
+      "link": "https://24-ore.com/nuk-e-njohim-pavaresine-e-kosoves-berisha-zulmon-zelenskyn-deklarate-e-papergjegjshme/",
+      "description": "Kreu i Partisë Demokratike Sali Berisha mbajti një deklaratë për mediat sot në 10 gusht. Në hyrje të fjalës së tij, Berisha tha se opozita po censurohet dhe se nuk po i jepet hapësira, që i takon. Ai tha se qeveria ka kapur çdo gjë dhe nuk lejon lirinë e fjalës. “Opozita në Shqipëri censurohet [&#82",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T10:49:40+00:00",
+      "dateStr": "10 Aug, 10:49",
+      "isNew": true,
+      "id": "24 51786358980"
+    },
+    {
+      "title": "Ramadani ia numëron VV-së ditët e bllokadës: Duhet të ishim në Kuvend për të votuar ligje për qytetarët",
+      "link": "https://24-ore.com/ramadani-ia-numeron-vv-se-ditet-e-bllokades-duhet-te-ishim-ne-kuvend-per-te-votuar-ligje-per-qytetaret/",
+      "description": "Deputeti i Aleancës, Burim Ramadani, ka reaguar lidhur me vazhdimin e bllokadës së Kuvendit, duke e akuzuar Vetëvendosjen për joseriozitet dhe humbje të kohës së institucioneve. Ramadani, përmes një reagimi në Facebook, ka thënë se sot deputetët do të duhej të ishin në sallë për të votuar ligje në s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T10:45:36+00:00",
+      "dateStr": "10 Aug, 10:45",
+      "isNew": true,
+      "id": "24 61786358736"
+    },
+    {
+      "title": "Po ndërtonte pa leje një objekt 5-katësh në Himarë, arrestohet 39-vjeçari, në kërkim 3 punonjës të IMT-së",
+      "link": "https://shekulli.com.al/2026/08/10/po-ndertonte-pa-leje-nje-objekt-5-katesh-ne-himare-arrestohet-39-vjecari-ne-kerkim-3-punonjes-te-imt-se/",
+      "description": "Një ndërtim 5-katësh pa leje është konstatuar në zonën e quajtur “Sugë” në Himarë. Policia ka arrestuar pronarin e objektit, ndërsa ka shpallur në kërkim tre punonjës të Inspektoratit të Mbrojtjes së Territorit të Bashkisë Himarë. Policia e Himarës ka ndërhyrë pas konstatimit të një objekti 5-katësh",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-10T10:40:39+00:00",
+      "dateStr": "10 Aug, 10:40",
+      "isNew": true,
+      "id": "she11786358439"
+    },
+    {
+      "title": "Një “Zidane” i ri vjen nga Kolumbia/ Babai ishte tifoz i çmendur, i vendosi djalit emrin e yllit francez",
+      "link": "https://abcnews.al/nje-zidane-i-ri-vjen-nga-kolumbia-babai-ishte-tifoz-i-cmendur-i-vendosi-djalit-emrin-e-yllit-francez/",
+      "description": "A është rikthyer Zinedine Zidane në fushë? Fatkeqësisht jo, edhe pse emri i tij po bën bujë që nga Amerika e Jugut. Në fakt, atje luan një Zinedine Zidane, por nuk bëhet fjalë për yllin francez dhe ikonën botërore të futbollit. Emri i tij i plotë është Zinedine Zidane Bedoya Morales dhe është një ko",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T10:35:31+00:00",
+      "dateStr": "10 Aug, 10:35",
+      "isNew": true,
+      "id": "abc31786358131"
+    },
+    {
+      "title": "Ndryshimet në Kod, drejtori i Policisë Rrugore: Qëllimi ynë parandalimi i aksidenteve",
+      "link": "https://24-ore.com/ndryshimet-ne-kod-drejtori-i-policise-rrugore-qellimi-yne-parandalimi-i-aksidenteve/",
+      "description": "Drejtori i Policisë Rrugore Perlat Vatoci zhvilloi sot një prononcim për mediat lidhur me ndryshimet e reja të bëra në Kodin Rrugor që kanë hyrë në fuqi më 5 gusht. Vatoci e vuri theksin te ashpërsimi i masave ndëshkuese për çdo shkelës të rregullave të qarkullimit me qëllim parandalimin e aksidente",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T10:32:41+00:00",
+      "dateStr": "10 Aug, 10:32",
+      "isNew": true,
+      "id": "24 71786357961"
+    },
+    {
+      "title": "Horoskopi ditor për nesër, e Martë 11 Gusht 2026",
+      "link": "https://24-ore.com/horoskopi-ditor-per-neser-e-marte-11-gusht-2026/",
+      "description": "Dashi Dita është e mirë për aktivitete krijuese, ngjarje festive dhe fushata promocionale. Ju mund të përqendroheni në një ide interesante e cila ka nevojë për rivlerësim. Duke qenë të rrethuar nga njerëz ose duke punuar për një projekt krijues, do promovoni jetën tuaj dashurore. Demi Përpiquni ta b",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T10:31:52+00:00",
+      "dateStr": "10 Aug, 10:31",
+      "isNew": true,
+      "id": "24 81786357912"
+    },
+    {
+      "title": "Bashkohen “armiqtë” e Infantino/ UEFA, CONCCAF dhe AFC, letër të përbashkët në FIFA",
+      "link": "https://abcnews.al/bashkohen-armiqte-e-infantino-uefa-conccaf-dhe-afc-leter-te-perbashket-ne-fifa/",
+      "description": "&#8220;Forca e futbollit ka qenë gjithmonë uniteti i tij. Ne bëjmë thirrje që ky unitet të respektohet tani, përmes një udhëheqjeje që i shërben sportit në vend që të kërkojë ta dominojë atë.&#8221; Ky është qëndrimi i mbajtur nga UEFA, CONCACAF dhe AFC në një letër të hapur të nënshkruar nga presid",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T10:30:55+00:00",
+      "dateStr": "10 Aug, 10:30",
+      "isNew": true,
+      "id": "abc41786357855"
+    },
+    {
+      "title": "Trepça suspendon dy punonjës, dyshohet se organizuan transport të xehes jashtë orarit",
+      "link": "https://24-ore.com/trepca-suspendon-dy-punonjes-dyshohet-se-organizuan-transport-te-xehes-jashte-orarit/",
+      "description": "Kryeshefi Ekzekutiv i Trepça Sh.A. ka marrë vendim për largimin e përkohshëm nga puna të dy punonjësve të Njësisë Biznesore “Minierat me Flotacion Kishnicë dhe Artanë”. Sipas njoftimit të ndërmarrjes, vendimi është nxjerrë më 10 gusht 2026 dhe përfshin punonjësit me inicialet Z.R. dhe H.K. “Punonjës",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T10:30:35+00:00",
+      "dateStr": "10 Aug, 10:30",
+      "isNew": true,
+      "id": "24 91786357835"
+    },
+    {
+      "title": "Infantino, “provat” e skandalit/ FIFA mohoi akuzat, “The Telegraph” publikon detaje të reja",
+      "link": "https://abcnews.al/infantino-provat-e-skandalit-fifa-mohoi-akuzat-the-telegraph-publikon-detaje-te-reja/",
+      "description": "Nuk ka qetësi për Gianni Infantino. Ai që është cilësuar si “skandali rozë” i presidetit të FIFA është pasuruar me detaje të reja nga e përditëshmja britanike “The Telegraph”. Ishte kjo gazetë që publikoi e para lajmin, se në kohën kur ishte Sekretar i Përgjithshëm i UEFA, Infantino kishte promovuar",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T10:28:51+00:00",
+      "dateStr": "10 Aug, 10:28",
+      "isNew": true,
+      "id": "abc51786357731"
+    },
+    {
+      "title": "Hyjnë në fuqi ndryshimet në Kodin Rrugor/ Ashpërsohen masat, shoferët që kapen me alkool mbi 0.5 gr/l në gjak u hiqet patenta përjetë",
+      "link": "https://abcnews.al/hyjne-ne-fuqi-ndryshimet-ne-kodin-rrugor-ashpersohen-masat-shoferet-qe-kapen-me-alkool-mbi-0-5-gr-l-ne-gjak-u-hiqet-patenta-perjete/",
+      "description": "Ndryshimet në Kodin Rrugor kanë hyrë në fuqi. Masat e ashpërsuara ndëshkojnë rëndë të dehurit në timon që janë përsëritës dhe që u hiqet përjetë patenta. Konkretisht, nëse je i dehur, je ndëshkuar më parë nga policia për këtë shkelje të Kodit Rrugor dhe drejton makinën sërish me më shumë se 0.5 g/li",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T10:14:14+00:00",
+      "dateStr": "10 Aug, 10:14",
+      "isNew": true,
+      "id": "abc61786356854"
+    },
+    {
+      "title": "Ku po ‘fluturojnë’ flamingot? Revolucioni në ditët e ‘provës së rezistencës’, premtohet rikthim i fuqishëm në 7 Shtator",
+      "link": "https://shekulli.com.al/2026/08/10/ku-po-fluturojne-flamingot-revolucioni-ne-ditet-e-proves-se-rezistences-premtohet-rikthim-i-fuqishem-ne-7-shtator/",
+      "description": "TIRANË- Protesta që nisi si një revoltë kundër ndërtimeve në zonën e Mbrojtur të Nartës, i ka kapërcyer 70 ditët, me një qëndresë si asnjëherë më parë në këto 30 vite demokraci në Shqipëri. Mijëra qytetarë iu bashkuan protestës që në ditët e para, ndërsa me kalimin e javëve, edhe pse numrat duket se",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-10T10:05:04+00:00",
+      "dateStr": "10 Aug, 10:05",
+      "isNew": true,
+      "id": "she21786356304"
+    },
+    {
+      "title": "Breaking News me Erneta Shevroja, (10/08/2026)",
+      "link": "https://abcnews.al/breaking-news-me-erneta-shevroja-10-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T10:02:11+00:00",
+      "dateStr": "10 Aug, 10:02",
+      "isNew": true,
+      "id": "abc71786356131"
+    },
+    {
+      "title": "Po ndërtonte pa leje një objekt 5-katësh, pranga 39-vjeçarit në Himarë/ Në kërkim kryeinspektori dhe 2 inspektorë të IMT",
+      "link": "https://abcnews.al/po-ndertonte-pa-leje-nje-objekt-5-katesh-pranga-39-vjecarit-ne-himare-ne-kerkim-kryeinspektori-dhe-2-inspektore-te-imt/",
+      "description": "Një 39-vjeçar nga Tirana, Lulzim Bujari është arrestuar në Himarë pasi po ndërtonte pa leje një objekt 5-katësh. Shërbimet e Komisariatit të Policisë Himarë konstatuan se një objekt 5-katësh, njëri kat, nën tokë, në vendin e quajtur “Sugë”, aktualisht në proces ndërtimi, ishte pa leje. 6 punonjësit ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T09:52:04+00:00",
+      "dateStr": "10 Aug, 09:52",
+      "isNew": true,
+      "id": "abc81786355524"
+    },
+    {
+      "title": "Zjarri në fshatin Vilëz të malësisë së Kurbinit vihet nën kontroll, u dogjën masive me ullinj dhe pyje",
+      "link": "https://abcnews.al/zjarri-ne-fshatin-vilez-te-malesise-se-kurbinit-vihet-nen-kontroll-u-dogjen-masive-me-ullinj-dhe-pyje/",
+      "description": "Zjarri në fshatin Vilëz të malësisë së Kurbinit është vënë nën kontroll nga mjetet zjarrfikëse, pas ndërhyrjes nga ajri. Nga zjarri janë djegur masive me ullinj dhe pyje. Është ndërhyrë me mjete zjarrfikëse, ndonëse në terren të vështirë, ndërsa është mundësuar ardhja e dy helikopterëve, për të neut",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T09:38:20+00:00",
+      "dateStr": "10 Aug, 09:38",
+      "isNew": true,
+      "id": "abc91786354700"
+    },
+    {
+      "title": "VIDEO/ Drake i habit të gjithë, reperi leh si qen për “dashurinë e jetës”",
+      "link": "https://shekulli.com.al/2026/08/10/video-drake-i-habit-te-gjithe-reperi-leh-si-qen-per-dashurine-e-jetes/",
+      "description": "Një moment i pazakontë është bërë viral në rrjetet sociale, pasi reperi i njohur Drake pranoi të lehëte si qen gjatë një bisede flirtuese. Drake ka shkaktuar të qeshura dhe reagime të shumta në rrjetet sociale pas një momenti të pazakontë gjatë një spektakli online takimesh. Reperi kanadez ishte pje",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-10T09:36:49+00:00",
+      "dateStr": "10 Aug, 09:36",
+      "isNew": true,
+      "id": "she31786354609"
+    },
+    {
+      "title": "Çfarë ndodhi? Çim Peka kritikon Berishën: Po të vdes Partia, nuk mund të rregullosh dhëmbët e parë sa për foto, e të prishet goja…",
+      "link": "https://shekulli.com.al/2026/08/10/cfare-ndodhi-cim-peka-kritikon-berishen-po-te-vdes-partia-nuk-mund-te-rregullosh-dhembet-e-pare-sa-per-foto-e-te-prishet-goja/",
+      "description": "Gazetari Çim Peka, i cili njihet si i afërt me familjen e ish-kryeministrit Sali Berisha, në një postim në rrjetet sociale, ka kritikuar zhvillimet në radhët e partisë më të madhe opozitare në vend. Teksa heq një paralelizëm mes Sali Berishës dhe Ibrahim Rugovës, liderit legjendar të LDK-së, Peka sh",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-10T09:27:10+00:00",
+      "dateStr": "10 Aug, 09:27",
+      "isNew": true,
+      "id": "she41786354030"
+    },
+    {
+      "title": "Vapa ‘prek’ edhe burgjet! Pas plagosjes në Fier, tjetër incident në Tiranë, Viktor Ymeri qëllon me shuplakë të dënuarin: Mos bëj zhurmë…",
+      "link": "https://shekulli.com.al/2026/08/10/vapa-prek-edhe-burgjet-pas-plagosjes-ne-fier-tjeter-incident-ne-tirane-viktor-ymeri-qellon-me-shuplake-te-denuarin-mos-bej-zhurme/",
+      "description": "TIRANË- Një tjetë incident është regjistruar në institucionet e vuajtjes së dënimit në vendin tonë. Pas plagosjes së dyfishtë në burgun e Fierit, konflikti i radhës është zhvilluar në ambientet e “302” në Tiranë, ku Viktor Ymeri ka qëlluar me shuplakë një të dënuar nga Kosova. Viktor Ymeri, i kishte",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-10T09:15:07+00:00",
+      "dateStr": "10 Aug, 09:15",
+      "isNew": true,
+      "id": "she51786353307"
     },
     {
       "title": "Rekord i ri i temperaturave në Europë, Qershori dhe Korriku më të nxehtët që kemi përjetuar ndonjëherë",
@@ -23,18 +298,7 @@
       "date": "2026-08-10T09:02:38+00:00",
       "dateStr": "10 Aug, 09:02",
       "isNew": true,
-      "id": "she01786352558"
-    },
-    {
-      "title": "Grabitja e argjendarisë në Kamëz, gjendet motori i autorëve! Ende asnjë gjurmë prej tyre",
-      "link": "https://24-ore.com/grabitja-e-argjendarise-ne-kamez-gjendet-motori-i-autoreve-ende-asnje-gjurme-prej-tyre/",
-      "description": "Ende nuk ka asnjë gjurmë nga autorët e grabitjes së argjendarisë në Kamëz, ngjarje e ndodhur më 5 gusht. Dy persona, të maskuar dhe me kallashnikovë, hynë brenda në argjendari dhe arritën të merrnin me vete bizhuteri që e kalojnë vlerën e 1.5 milionë lekëve. Policia e Tiranës ka zbuluar sot motorin ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T09:01:03+00:00",
-      "dateStr": "10 Aug, 09:01",
-      "isNew": true,
-      "id": "24 11786352463"
+      "id": "she61786352558"
     },
     {
       "title": "Tragjedia në familjen Marku, kjo është vogëlushja që u përplas aksidentalisht nga babai i saj në Ksamil",
@@ -45,161 +309,7 @@
       "date": "2026-08-10T08:53:35+00:00",
       "dateStr": "10 Aug, 08:53",
       "isNew": true,
-      "id": "she11786352015"
-    },
-    {
-      "title": "Letër e hapur Ambasadës së Ukrainës në Tiranë",
-      "link": "https://24-ore.com/leter-e-hapur-ambasades-se-ukraines-ne-tirane/",
-      "description": "Nga Albatros Rexhaj (Tiranë) Më 9 gusht Ministria për Evropën dhe Punët e Jashtme publikoi deklaratën e saj për vizitën e Presidentit Zelenskyy në Serbi. Po ju shkruajmë që asgjë prej saj të mos merret si rutinë. Ministria e quajti vizitën të rëndësishme dhe dialogun të mirëpritur. Pastaj shkroi një",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T08:49:24+00:00",
-      "dateStr": "10 Aug, 08:49",
-      "isNew": true,
-      "id": "24 21786351764"
-    },
-    {
-      "title": "SHANGAI – Kina evakuon një milion banorë nga shtëpitë për shkak të tajfunit",
-      "link": "https://24-ore.com/shangai-kina-evakuon-nje-milion-banore-nga-shtepite-per-shkak-te-tajfunit/",
-      "description": "– Autoritetet kineze kanë evakuuar më shumë se një milion njerëz nga shtëpitë e tyre në Kinën lindore, përfshirë kryeqytetin financiar Shangai, ndërsa tajfuni Dolphin arriti në tokë. Tajfuni solli shira të rrëmbyeshëm dhe ndaloi transportin në të gjithë rajonin. Vetëm në Shangai të hënën u anuluan g",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T08:45:58+00:00",
-      "dateStr": "10 Aug, 08:45",
-      "isNew": true,
-      "id": "24 31786351558"
-    },
-    {
-      "title": "Uzuni e nis si “bomber”/ Sulmuesi kuqezi shënon tre gola me Austin në Kupën e Ligës",
-      "link": "https://abcnews.al/uzuni-e-nis-si-bomber-sulmuesi-kuqezi-shenon-tre-gola-me-austin-ne-kupen-e-liges/",
-      "description": "Myrto Uzuni është në formë, në vigjilje të sezonit të ri me Austin në Shtetet e Bashkuara të Amerikës. Sulmuesi i kombëtares kuqezi shkëlqeu me tre gola në ndeshjen e fundit, duke vulosur fitoren e skuadrës së tij në Kupën e Ligës kundër mekasikanëve të Puebla. Uzuni zhbllokoi sfidën që në minutën e",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T08:44:21+00:00",
-      "dateStr": "10 Aug, 08:44",
-      "isNew": true,
-      "id": "abc01786351461"
-    },
-    {
-      "title": "Aksident i dyfishtë në aksin Levan-Tepelenë, plagosen katër persona",
-      "link": "https://abcnews.al/aksident-i-dyfishte-ne-aksin-levan-tepelene-plagosen-kater-persona/",
-      "description": "Një aksident i rëndë ka ndodhur mëngjesin e së hënës në aksin rrugor Levan-Tepelenë, në afërsi të fshatit Mollaj. Dy automjete tip “Benz” janë përplasur me njëri-tjetrin, ndërsa njëri prej tyre ka përfunduar në kanalin anësor të rrugës. Si pasojë e aksidentit janë lënduar katër persona. Të plagosuri",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T08:40:42+00:00",
-      "dateStr": "10 Aug, 08:40",
-      "isNew": true,
-      "id": "abc11786351242"
-    },
-    {
-      "title": "ISHP me rekomandime gjatë ditëve të nxehta: Të moshuarit janë më të rrezikuar",
-      "link": "https://24-ore.com/ishp-me-rekomandime-gjate-diteve-te-nxehta-te-moshuarit-jane-me-te-rrezikuar/",
-      "description": "Të moshuarit janë ndër kategoritë më të rrezikuara kur bëhet fjalë për temperaturat e larta dhe valët e të nxehtit, paralajmëron Instituti i Shëndetit Publik. Personat mbi 65 vjeç e kanë më të vështirë të përshtaten me nxehtësinë ekstreme, dhe rreziku rritet më tej tek ata që kanë sëmundje kronike o",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T08:35:24+00:00",
-      "dateStr": "10 Aug, 08:35",
-      "isNew": true,
-      "id": "24 41786350924"
-    },
-    {
-      "title": "Ministria e Energjisë: Maqedonia po e ndjek me kujdes situatën në Evropë, sistemi i brendshëm elektroenergjetik mbetet stabil dhe i gatshëm",
-      "link": "https://24-ore.com/ministria-e-energjise-maqedonia-po-e-ndjek-me-kujdes-situaten-ne-evrope-sistemi-i-brendshem-elektroenergjetik-mbetet-stabil-dhe-i-gatshem/",
-      "description": "Ministria e energjisë, minierave dhe burimeve minerale e ndjek në mënyrë të vazhdueshme gjendjen në rajon dhe në Evropë, si dhe treguesit hidrologjikë në vend. Nga Ministria thonë se sipas të dhënave të disponueshme, gjendja në Maqedoni është stabile dhe aktualisht nuk ka indikacione se nivelet e ul",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T08:35:13+00:00",
-      "dateStr": "10 Aug, 08:35",
-      "isNew": true,
-      "id": "24 51786350913"
-    },
-    {
-      "title": "Irani kërkon rihapjen e Ngushticës së Hormuzit, rriten çmimet e naftës",
-      "link": "https://abcnews.al/irani-kerkon-rihapjen-e-ngushtices-se-hormuzit-rriten-cmimet-e-naftes/",
-      "description": "Kontratat e naftës u rritën me 1.2% të dielën, pasi Teherani tha se nuk po angazhohej në negociata me Shtetet e Bashkuara dhe paraqiti një listë kërkesash për rihapjen e Ngushticës së Hormuzit. Nafta e papërpunuar Brent, çmimi ndërkombëtar i referencës, u rrit me rreth 1.2% në 84.58 dollarë për fuçi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T08:31:33+00:00",
-      "dateStr": "10 Aug, 08:31",
-      "isNew": true,
-      "id": "abc21786350693"
-    },
-    {
-      "title": "Shkupi pas 114 vjetëve, nga kryeqendra historike te horizonti evropian",
-      "link": "https://24-ore.com/shkupi-pas-114-vjeteve-nga-kryeqendra-historike-te-horizonti-evropian/",
-      "description": "114-vjetori i çlirimit të Shkupit shërben si një thirrje alarmi kundër administrimit të lirisë pa vizion, pasi që rreziku më i madh për kombin shqiptar sot vjen nga mungesa e koordinimit dhe përgjegjësisë historike. Duke trashëguar metodën politike të Hasan Prishtinës dhe Isa Boletinit, ky çast kërk",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T08:30:11+00:00",
-      "dateStr": "10 Aug, 08:30",
-      "isNew": true,
-      "id": "24 61786350611"
-    },
-    {
-      "title": "Zbulohet një anije e lashtë romake e mbytur në brigjet e Siçilisë",
-      "link": "https://abcnews.al/zbulohet-nje-anije-e-lashte-romake-e-mbytur-ne-brigjet-e-sicilise/",
-      "description": "Zhytës italianë kanë zbuluar një anije të lashtë romake të mbytur në brigjet e Siçilisë, e cila besohet të jetë më shumë se 2,000 vjet e vjetër.  Anija u gjet e mbushur me qindra enë të ruajtura në gjendje të mirë, të cilat përdorëshin për transportin e produkteve si vera dhe vaji i ullirit. Ministr",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T08:29:16+00:00",
-      "dateStr": "10 Aug, 08:29",
-      "isNew": true,
-      "id": "abc31786350556"
-    },
-    {
-      "title": "Zjarret në Mallakastër me intensitet të ulët, forcat zjarrfikëse në terren për izolimin e vatrave",
-      "link": "https://abcnews.al/zjarret-ne-mallakaster-me-intensitet-te-ulet-forcat-zjarrfikese-ne-terren-per-izolimin-e-vatrave/",
-      "description": "Vatrat e zjarrit që nisën një javë më parë në Mallakastër kanë intensitet të ulët, ndërkohë që forcat operacionale janë përqendruar në Patos, aty ku përfunduan flakët që përshkuan Rribani dhe Ngraçani. Në Mallakastër ka filluar puna për kontrollin e perimetrit të vatrës së zjarrit, ku po operojnë 20",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T08:14:54+00:00",
-      "dateStr": "10 Aug, 08:14",
-      "isNew": true,
-      "id": "abc41786349694"
-    },
-    {
-      "title": "Seferi shkëlqen me dy gola në Turqi, i jep fitoren Kayserisporit dhe zgjidhet lojtari i ndeshjes",
-      "link": "https://24-ore.com/seferi-shkelqen-me-dy-gola-ne-turqi-i-jep-fitoren-kayserisporit-dhe-zgjidhet-lojtari-i-ndeshjes/",
-      "description": "Taulant Seferi, një tjetër futbollist i Kombëtares shqiptare, ka folur me gjuhën e golave në fundjavë. Ai realizoi një dopietë me fanellën e Kayserisporit në Turqi, duke i dhënë kësaj skuadre fitoren e parë në kampionat, me rezultatin 0-2. Seferi ishte bashkuar me këtë skuadër vetëm pak ditë më parë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T08:05:17+00:00",
-      "dateStr": "10 Aug, 08:05",
-      "isNew": true,
-      "id": "24 71786349117"
-    },
-    {
-      "title": "Bilanci i Ministrisë së Mbrojtjes: Si paraqitet situata me zjarret në 24 orët e fundit",
-      "link": "https://24-ore.com/bilanci-i-ministrise-se-mbrojtjes-si-paraqitet-situata-me-zjarret-ne-24-oret-e-fundit/",
-      "description": "Ministria e Mbrojtjes ka publikuar sot në 10 gusht bilancin e situatës së zjarreve në vend gjatë 24 orëve të fundit. Sipas të dhënave zyrtare, janë raportuar gjithsej 27 vatra zjarri, ndërsa 5 prej tyre vijojnë të jenë aktive. Dy vatra të tjera po mbahen nën monitorim nga strukturat e emergjencave c",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T08:01:46+00:00",
-      "dateStr": "10 Aug, 08:01",
-      "isNew": true,
-      "id": "24 81786348906"
-    },
-    {
-      "title": "A mund t’i priten pemët Lulit të Pukës nëse ‘a tu rrejtë’ katundin",
-      "link": "https://24-ore.com/a-mund-ti-priten-pemet-lulit-te-pukes-nese-a-tu-rrejte-katundin/",
-      "description": "Nga Frrok Çupi Në versionin normativ të gjuhës, nuk do të kisha shkruar ‘a tu rrejtë’, por në versionin se Luli ‘po gënjen katundin’. Gjithë ‘odiseja’ e këtij tregimi lëviz në hapësira të mëdha, nga Mesjeta deri në 8 korrik 2026. Ashtu si edhe gjuha jonë ka lëvizur dhe lëviz nëpër shtigje normash, d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T08:00:54+00:00",
-      "dateStr": "10 Aug, 08:00",
-      "isNew": true,
-      "id": "24 91786348854"
-    },
-    {
-      "title": "Ukraina, sulm masiv me dronë ndaj Rusisë/ Goditet rafineria ruse e naftës, 12 persona të vrarë",
-      "link": "https://abcnews.al/ukraina-sulm-masiv-me-drone-ndaj-rusise-goditet-rafineria-ruse-e-naftes-12-persona-te-vrare/",
-      "description": "Një sulm me dron ukrainas u krye ndaj një rafinerie të madhe ruse të naftës në rajonin e Tatarstanit, më shumë se 600 milje brenda vendit. Kryetari i bashkisë së Nizhnekamsk, Radmir Belyayev, thotë tani se të paktën 12 persona janë vrarë dhe 39 të tjerë janë plagosur në sulmin ndaj qytetit. Rafineri",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T07:41:52+00:00",
-      "dateStr": "10 Aug, 07:41",
-      "isNew": true,
-      "id": "abc51786347712"
+      "id": "she71786352015"
     },
     {
       "title": "27 vatra në 24 orët e fundit, 5 ende aktive/ Ministria e Mbrojtjes bën bilancin e zjarreve në vend",
@@ -210,7 +320,7 @@
       "date": "2026-08-10T07:39:55+00:00",
       "dateStr": "10 Aug, 07:39",
       "isNew": true,
-      "id": "she21786347595"
+      "id": "she81786347595"
     },
     {
       "title": "“Jeta jote kaq e pati!”, zbardhet dëshmia e Denis Bajrit: Aldo Gjini dhe Zotaj më hynë në qeli, pas telefonit ishte Ibrahim Lici",
@@ -221,117 +331,7 @@
       "date": "2026-08-10T07:28:03+00:00",
       "dateStr": "10 Aug, 07:28",
       "isNew": true,
-      "id": "she31786346883"
-    },
-    {
-      "title": "Një grusht njerëzish, dhe ceremoni totalisht private, Lionel Messi i jep lamtumirën e fundit babait të tij",
-      "link": "https://shekulli.com.al/2026/08/10/nje-grusht-njerezish-dhe-ceremoni-totalisht-private-lionel-messi-i-jep-lamtumiren-e-fundit-babait-te-tij/",
-      "description": "Lionel Messi ka marrë pjesë të dielën në ceremoninë mortore të babait të tij, Jorge Messi, në Rosario të Argjentinës. Ylli argjentinas mbërriti në varreza së bashku me bashkëshorten e tij, Antonela Roccuzzo, ndërsa familjarë dhe të afërm u mblodhën për t’i dhënë lamtumirën e fundit Jorge Messit. Jor",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T07:20:00+00:00",
-      "dateStr": "10 Aug, 07:20",
-      "isNew": true,
-      "id": "she41786346400"
-    },
-    {
-      "title": "Zjarret në vend/ Ministria e Mbrojtjes: 27 vatra në 24 orët e fundit, pesë ende aktive",
-      "link": "https://abcnews.al/zjarret-ne-vend-ministria-e-mbrojtjes-27-vatra-ne-24-oret-e-fundit-pese-ende-aktive/",
-      "description": "Ministria e Mbrojtjes informon se gjatë 24 orëve të fundit janë raportuar 27 vatra zjarri, nga të cilat 5 mbeten aktive dhe 2 janë në monitorim. Në operacionet për shuarjen e tyre janë angazhuar 42 automjete zjarrfikëse dhe 371 forca operacionale. Në mbështetje janë angazhuar gjithashtu 153 efektivë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T07:17:51+00:00",
-      "dateStr": "10 Aug, 07:17",
-      "isNew": true,
-      "id": "abc61786346271"
-    },
-    {
-      "title": "Thatësira godet Evropën, kriza e energjisë thellohet",
-      "link": "https://abcnews.al/thatesira-godet-evropen-kriza-e-energjise-thellohet/",
-      "description": "Shtretërit e lumenjve që ngjajnë me përrenj, asfalti i zbutur dhe fushat e thara janë aktualisht imazhet më mbresëlënëse të thatësirës në Evropën Qendrore dhe Juglindore. Mungesa rekord e reshjeve në muajt e fundit dhe valët e nxehtësisë së verës kanë shkaktuar dëme serioze në ekonomi dhe infrastruk",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T07:09:27+00:00",
-      "dateStr": "10 Aug, 07:09",
-      "isNew": true,
-      "id": "abc71786345767"
-    },
-    {
-      "title": "“Nuk e njohim Kosovën!”/ Deklarata e Zelensky krah Vuçiç shkakton ‘tërmet’ në Tiranë, Prishtinë dhe Kiev, të gjitha reagimet",
-      "link": "https://shekulli.com.al/2026/08/10/nuk-e-njohim-kosoven-deklarata-e-zelensky-krah-vucic-shkakton-termet-ne-tirane-prishtine-dhe-kiev-te-gjitha-reagimet/",
-      "description": "UKRAINË- Një deklaratë e presidentit ukrainas Volodymyr Zelensky në Beograd, ku rikonfirmoi se Ukraina nuk e njeh pavarësinë e Kosovës, ka shkaktuar reagime të forta në Shqipëri dhe Kosovë. Gjatë konferencës së përbashkët për shtyp me presidentin serb Aleksandar Vuçiç, Zelensky u pyet disa ditë më p",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T06:49:11+00:00",
-      "dateStr": "10 Aug, 06:49",
-      "isNew": true,
-      "id": "she51786344551"
-    },
-    {
-      "title": "Zjarri në masivin pyjor të Krujës, rinis ndërhyrja nga toka dhe ajri për shuarjen e flakëve",
-      "link": "https://abcnews.al/zjarri-ne-masivin-pyjor-te-krujes-rinis-nderhyrja-nga-toka-dhe-ajri-per-shuarjen-e-flakeve/",
-      "description": "Mëngjesin e sotëm ka nisur operacioni në shuarjen e zjarrit në zonën e Krastës. Zjarri në këtë zonë ka nisur ditën e djeshme në pyjet me pisha, ndërsa gjatë natës kanë punuar zjarrfikësit e Krujës. Operacioni ka nisur dhe nga ajri. Në ndihmë janë dhe forcat e ushtrisë, ndërsa po lokalizohet e gjithë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T06:46:29+00:00",
-      "dateStr": "10 Aug, 06:46",
-      "isNew": true,
-      "id": "abc81786344389"
-    },
-    {
-      "title": "Fermat e mëdha kërkojnë rishikimin e skemës së TVSH-së për të nxitur zhvillimin e blegtorisë",
-      "link": "https://shekulli.com.al/2026/08/10/fermat-e-medha-kerkojne-rishikimin-e-skemes-se-tvsh-se-per-te-nxitur-zhvillimin-e-blegtorise/",
-      "description": "Sivjet prodhimi vendas i qumështit ka shënuar rritje, si rezultat i zgjerimit të fermave të mëdha dhe përmirësimit të produktivitetit, sipas përfaqësuesve të sektorit. Ata theksojnë se fermat e vogla po pakësohen gradualisht, ndërsa prodhimi po përqendrohet te fermat më të organizuara, të cilat po i",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T06:41:39+00:00",
-      "dateStr": "10 Aug, 06:41",
-      "isNew": true,
-      "id": "she61786344099"
-    },
-    {
-      "title": "Dy avionë civilë shkelin zonën e ndalim-fluturimit pranë klubit të Trump, u interceptuan nga ‘F-16’",
-      "link": "https://abcnews.al/dy-avione-civile-shkelin-zonen-e-ndalim-fluturimit-prane-klubit-te-trump-u-interceptuan-nga-f-16/",
-      "description": "Zyrtarët amerikanë thanë se të paktën tre avionë të aviacionit të përgjithshëm shkelën kufizimet e përkohshme të fluturimit pranë Bedminster, New Jersey, të dielën, ndërsa Presidenti Donald Trump kaloi fundjavën në klubin e tij të golfit, ku po mbahej turneu katër-ditor i golfit LIV në New York. Kom",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T06:26:29+00:00",
-      "dateStr": "10 Aug, 06:26",
-      "isNew": true,
-      "id": "abc91786343189"
-    },
-    {
-      "title": "“Keni shqyer gojën si çorap”, Egla Ceno shpërthen në rrjetet sociale: Merreni me mua, më zuri a nuk më zuri filani… s’më gudulisni as qimet!",
-      "link": "https://shekulli.com.al/2026/08/10/keni-shqyer-gojen-si-corap-egla-ceno-shperthen-ne-rrjetet-sociale-merreni-me-mua-me-zuri-a-nuk-me-zuri-filani-sme-gudulisni-as-qimet/",
-      "description": "TIRANË&#8211; Aktorja Egla Ceno, ka reaguar ashpër në rrjetet sociale, pas sulmeve që i janë bërë në lidhje me qëndrimin e saj në protestën e banorëve të Poliçanit, kundër hartës së re territoriale. Në një postim të gjatë në rrjetet sociale, Ceno shprehet se njerëz anonime vijnë në profilin e saj dh",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T06:18:07+00:00",
-      "dateStr": "10 Aug, 06:18",
-      "isNew": true,
-      "id": "she71786342687"
-    },
-    {
-      "title": "Panik në ajër, dy avion civilë hynë mbi hapësirën e fushës së golfit të Trump, aktivizohen menjëherë F-16",
-      "link": "https://shekulli.com.al/2026/08/10/panik-ne-ajer-dy-avion-civile-hyne-mbi-hapesiren-e-fushes-se-golfit-te-trump-aktivizohen-menjehere-f-16/",
-      "description": "SHBA- Dy avionë luftarakë amerikanë F-16 u vunë në lëvizje të dielën pasi dy avionë civilë hynë në hapësirën ajrore të kufizuar mbi Bedminster, në Neë Jersey, pranë klubit të golfit të presidentit Donald Trump. Sipas Komandës së Mbrojtjes së Hapësirës Ajrore të Amerikës së Veriut (NORAD), avionët us",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T06:11:09+00:00",
-      "dateStr": "10 Aug, 06:11",
-      "isNew": true,
-      "id": "she81786342269"
-    },
-    {
-      "title": "“Më detyroi të pastroja dyshemenë duke u zvarritur”/ Ish-punonjësi rrëfen akuzat ndaj Sara Netanyahu",
-      "link": "https://shekulli.com.al/2026/08/10/me-detyroi-te-pastroja-dyshemene-duke-u-zvarritur-ish-punonjesi-rrefen-akuzat-ndaj-sara-netanyahu/",
-      "description": "Një seri dëshmish të ish-punonjësve të rezidencës së kryeministrit izraelit Benjamin Netanyahu ka rikthyer në qendër të vëmendjes akuzat për trajtim poshtërues dhe abuziv ndaj stafit nga bashkëshortja e tij, Sara Netanyahu. Sipas një investigimi të publikuar nga gazeta izraelite Yedioth Ahronoth, ja",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T06:04:26+00:00",
-      "dateStr": "10 Aug, 06:04",
-      "isNew": true,
-      "id": "she91786341866"
+      "id": "she91786346883"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
