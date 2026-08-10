@@ -1,51 +1,216 @@
 {
-  "lastUpdated": "2026-08-10T18:50:25.700289+00:00",
+  "lastUpdated": "2026-08-10T19:51:56.012257+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "“Nuk e mendova dy herë”- Shqiptari hero, zhytet në ujërat e oqeanit në SHBA dhe shpëton të moshuarin: Në raste të ti",
-      "link": "https://24-ore.com/nuk-e-mendova-dy-here-shqiptari-hero-zhytet-ne-ujerat-e-oqeanit-ne-shba-dhe-shpeton-te-moshuarin-ne-raste-te-ti/",
-      "description": "Një shqiptar në New Jersey është bërë protagonist i një akti heroik, duke ndihmuar në shpëtimin e një 70-vjeçari që rrezikonte të mbytej në ujërat e oqeanit. Xhemo Lanica rrëfen momentet e vështira të ndërhyrjes dhe mënyrën se si, së bashku me disa shpëtimtarë të plazhit, arritën ta nxirrnin në breg",
-      "source": "24 ORE",
+      "title": "Summer Time Show, (10/08/2026)",
+      "link": "https://abcnews.al/summer-time-show-10-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-10T18:49:42+00:00",
-      "dateStr": "10 Aug, 18:49",
+      "date": "2026-08-10T19:48:20+00:00",
+      "dateStr": "10 Aug, 19:48",
       "isNew": true,
-      "id": "24 01786387782"
+      "id": "abc01786391300"
     },
     {
-      "title": "Liverpool zyrtarizon transferimin e Araujos nga Barcelona, mbrojtësi pozon me fanelën e “Reds”: Ramë dakord dhe f",
-      "link": "https://24-ore.com/liverpool-zyrtarizon-transferimin-e-araujos-nga-barcelona-mbrojtesi-pozon-me-fanelen-e-reds-rame-dakord-dhe-f/",
-      "description": "Ronald Araujo është zyrtarisht lojtar i Liverpoolit, i huazuar nga Barcelona. Qendërmbrojtësi 27-vjeçar uruguaian, njëkohësisht një nga kapitenët e katalanasve, është njoftuar si lojtar për “Reds”, pasi është marrë në huazim nga Barcelona për sezonin e ardhshëm. Araujo luajti 38 ndeshje me katalanas",
-      "source": "24 ORE",
+      "title": "U shkoi pushuesve ‘mbi kokë’ me Jet Ski, 5 milionë lekë gjobë drejtuesit të mjetit lundrues në Ksamil",
+      "link": "https://shekulli.com.al/2026/08/10/u-shkoi-pushuesve-mbi-koke-me-jet-ski-5-milion-leke-gjobe-drejtuesit-te-mjetit-lundrues-ne-ksamil/",
+      "description": "Policia Kufitare dhe Njësia Policore Detare, gjatë një patrullimi në sektorin detar të Ksamilit, pranë zonës së njohur si “Bar Bistro”, kanë konstatuar një mjet lundrues Jet Ski që kishte hyrë brenda perimetrit të sigurisë, duke rrezikuar pushuesit që ndodheshin në plazh. Pas përfundimit të procedur",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-10T18:47:06+00:00",
-      "dateStr": "10 Aug, 18:47",
+      "date": "2026-08-10T19:46:31+00:00",
+      "dateStr": "10 Aug, 19:46",
       "isNew": true,
-      "id": "24 11786387626"
+      "id": "she01786391191"
     },
     {
-      "title": "SHBA – Meta prezanton modelin IA me funksione edhe në PC",
-      "link": "https://24-ore.com/shba-meta-prezanton-modelin-ia-me-funksione-edhe-ne-pc/",
-      "description": "UASHINGTON, 10 gusht /ATSH-AFP/ – Kompania Meta ka prezantuar një model të ri të inteligjencës artificiale (IA), i cili mund të funksionojë edhe në një kompjuter personal (PC), ndërsa drejtori ekzekutiv Mark Zuckerberg bëri thirrje për më pak kufizime ndaj inteligjencës artificiale me burim të hapur",
+      "title": "KOLUMBI – De la Espriella shpall gjendjen e jashtëzakonshme pas tërmetit të fuqishëm",
+      "link": "https://24-ore.com/kolumbi-de-la-espriella-shpall-gjendjen-e-jashtezakonshme-pas-termetit-te-fuqishem/",
+      "description": "BOGOTA, 10 gusht /ATSH-AFP/ – Presidenti kolumbian, Abelardo de La Espriella do të shpallë sot gjendjen e jashtëzakonshme në Kolumbi, pas një tërmeti të fuqishëm që ka vrarë të paktën 111 persona dhe ka plagosur 87 të tjerë në pjesën perëndimore të vendit. “Është vendosur të shpallet gjendja përkatë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-10T18:46:40+00:00",
-      "dateStr": "10 Aug, 18:46",
+      "date": "2026-08-10T19:46:12+00:00",
+      "dateStr": "10 Aug, 19:46",
       "isNew": true,
-      "id": "24 21786387600"
+      "id": "24 01786391172"
     },
     {
-      "title": "Fruthi në rritje në Kosovë, regjistrohen 112 raste – 50 raste të reja në vetëm një muaj",
-      "link": "https://24-ore.com/fruthi-ne-rritje-ne-kosove-regjistrohen-112-raste-50-raste-te-reja-ne-vetem-nje-muaj/",
-      "description": "Instituti Kombëtar i Shëndetësisë Publike të Kosovës (IKSHPK) ka njoftuar për 13 raste të reja të fruthit gjatë javës së fundit, ndërsa numri i përgjithshëm i rasteve të regjistruara në Kosovë ka arritur në 112. Sipas IKSHPK-së, shqetësues mbetet ritmi i rritjes së rasteve, veçanërisht gjatë një per",
+      "title": "RUSI – Gjykata përjashton partinë opozitare ”Jabloko” nga zgjedhjet parlamentare",
+      "link": "https://24-ore.com/rusi-gjykata-perjashton-partine-opozitare-jabloko-nga-zgjedhjet-parlamentare/",
+      "description": "MOSKË, 10 gusht /ATSH-DPA/ – Gjykata e Lartë e Rusisë vendosi sot të përjashtojë partinë liberale opozitare ”Jabloko” nga zgjedhjet parlamentare të shtatorit, duke argumentuar se partia ka shkelur rregullat zgjedhore. Vendimi u mor nga gjyqtari kryesues Vyacheslav Kirillov, pas kërkesës së prokurori",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-10T18:40:34+00:00",
-      "dateStr": "10 Aug, 18:40",
+      "date": "2026-08-10T19:45:58+00:00",
+      "dateStr": "10 Aug, 19:45",
       "isNew": true,
-      "id": "24 31786387234"
+      "id": "24 11786391158"
+    },
+    {
+      "title": "AIP dhe ATK bashkojnë forcat për mbikëqyrjen e bizneseve online dhe portaleve mediale",
+      "link": "https://24-ore.com/aip-dhe-atk-bashkojne-forcat-per-mbikeqyrjen-e-bizneseve-online-dhe-portaleve-mediale/",
+      "description": "Agjencia për Informim dhe Privatësi (AIP) dhe Administrata Tatimore e Kosovës (ATK) kanë nënshkruar Memorandum Bashkëpunimi për forcimin e mbikëqyrjes së aktiviteteve ekonomike që zhvillohen në mjedisin digjital. Sipas marrëveshjes, dy institucionet do të zhvillojnë inspektime të përbashkëta dhe të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T19:45:28+00:00",
+      "dateStr": "10 Aug, 19:45",
+      "isNew": true,
+      "id": "24 21786391128"
+    },
+    {
+      "title": "Nikolloski: Nuk ka ndryshime kushtetuese nën diktatin bullgar, bllokada është tërësisht politike",
+      "link": "https://24-ore.com/nikolloski-nuk-ka-ndryshime-kushtetuese-nen-diktatin-bullgar-bllokada-eshte-teresisht-politike/",
+      "description": "Nuk ka asgjë sekret. Qeveria ka një qëndrim të qartë dhe të vendosur se nuk do të pranojë ndryshime kushtetuese nën diktatin bullgar, tha zv. kryeministri dhe Ministri i Transportit i RMV-së, Aleksandar Nikolloski. Nikolloski për &#8220;Sitel&#8221; tha se bllokada nga Sofja është politike dhe nuk k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T19:40:33+00:00",
+      "dateStr": "10 Aug, 19:40",
+      "isNew": true,
+      "id": "24 31786390833"
+    },
+    {
+      "title": "VIDEO/ “Jet Ski” hyn në zonën e pushuesve në Ksamil, gjobitet drejtuesi dhe bllokohet mjeti",
+      "link": "https://abcnews.al/video-jet-ski-hyn-ne-zonen-e-pushuesve-ne-ksamil-gjobitet-drejtuesi-dhe-bllokohet-mjeti/",
+      "description": "Një drejtues mjeti lundrues është ndëshkuar me 500 mijë lekë të rinj pasi ka shkelur perimetrin e sigurisë në zonën e Ksamilit, duke rrezikuar pushuesit. Ngjarja është konstatuar gjatë patrullimeve të Policisë Kufitare dhe Njësisë Policore Detare përgjatë vijës bregdetare, me fokus garantimin e sigu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T19:38:59+00:00",
+      "dateStr": "10 Aug, 19:38",
+      "isNew": true,
+      "id": "abc11786390739"
+    },
+    {
+      "title": "Prapashtica rrëfen për PKMLSHJ-në: Në vitin 1978 e themeluam organizatën, synimi ishte Republika Shqiptare në Jugosllavi",
+      "link": "https://24-ore.com/prapashtica-rrefen-per-pkmlshj-ne-ne-vitin-1978-e-themeluam-organizaten-synimi-ishte-republika-shqiptare-ne-jugosllavi/",
+      "description": "Abdullah Prapashtica ka rrëfyer në emisionin “Dosjet”, në RTVD për mënyrën se si nisi organizimi politik ilegal i tij dhe i bashkëpunëtorëve të tij gjatë viteve ’70. Në rrëfimin e tij, Prapashtica ka treguar se procesi i organizimit kishte nisur para themelimit të Partisë Komuniste Marksiste-Leninis",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T19:35:41+00:00",
+      "dateStr": "10 Aug, 19:35",
+      "isNew": true,
+      "id": "24 41786390541"
+    },
+    {
+      "title": "Inspektimet në treg: Tërhiqen produkte qumështi me yndyrë bimore, kontrollet vazhdojnë në Prishtinë dhe Prizren",
+      "link": "https://24-ore.com/inspektimet-ne-treg-terhiqen-produkte-qumeshti-me-yndyre-bimore-kontrollet-vazhdojne-ne-prishtine-dhe-prizren/",
+      "description": "Inspektorati Qendror i Mbikëqyrjes së Tregut (IQMT) ka vazhduar gjatë ditës së sotme inspektimet në treg, në kuadër të kontrolleve për produktet e qumështit dhe produktet e ngjashme me bazë bimore, të cilat Agjencia e Ushqimit dhe Veterinarisë (AUV) ditë më parë ka urdhëruar të hiqen nga tregu në Re",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T19:35:31+00:00",
+      "dateStr": "10 Aug, 19:35",
+      "isNew": true,
+      "id": "24 51786390531"
+    },
+    {
+      "title": "Edicioni Qendror me Rovena Neziri, (10/08/2026)",
+      "link": "https://abcnews.al/edicioni-qendror-me-rovena-neziri-10-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T19:34:16+00:00",
+      "dateStr": "10 Aug, 19:34",
+      "isNew": true,
+      "id": "abc21786390456"
+    },
+    {
+      "title": "Operacion masiv në Krujë, 3 helikopterë kundër zjarreve! Flakët rrezikojnë të zbresin në zonat e banuara",
+      "link": "https://24-ore.com/operacion-masiv-ne-kruje-3-helikoptere-kunder-zjarreve-flaket-rrezikojne-te-zbresin-ne-zonat-e-banuara/",
+      "description": "Situata e zjarreve në Krujë vijon të jetë problematike, ndërsa flakët rrezikojnë të zbresin drejt zonës së Halilit, duke kërcënuar edhe disa banesa. Në terren ndodhen forcat zjarrfikëse dhe Emergjencat Civile, të cilat po punojnë për izolimin e vatrave dhe parandalimin e përhapjes së mëtejshme të zj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T19:32:19+00:00",
+      "dateStr": "10 Aug, 19:32",
+      "isNew": true,
+      "id": "24 61786390339"
+    },
+    {
+      "title": "Heshtje e të nëpërkëmburve",
+      "link": "https://24-ore.com/heshtje-e-te-neperkemburve/",
+      "description": "Nga Bajram Peçi Është tronditëse kur sheh se Zelencki, President i Ukrainës, me papjekuri jo vetëm diplomatike, përdoret nga Vuçiç, President i Serbisë, kur në një konferencë shtypi deklaron se nuk do ta njohin Kosovën dhe se shteti i tij i përmbahet qendrimeve të Serbisë. Një burrë shteti, në kusht",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T19:31:38+00:00",
+      "dateStr": "10 Aug, 19:31",
+      "isNew": true,
+      "id": "24 71786390298"
+    },
+    {
+      "title": "Përplasja për lumin Ibër, Vuçiç dhe Gjuriç i përgjigjen Tiranës: Serbia vendos vetë për burimet e saj",
+      "link": "https://24-ore.com/perplasja-per-lumin-iber-vucic-dhe-gjuric-i-pergjigjen-tiranes-serbia-vendos-vete-per-burimet-e-saj/",
+      "description": "Deklarata e Presidentit serb lidhur me mundësinë e devijimit të rrjedhës së lumit Ibër ka sjellë reagime diplomatike mes Shqipërisë dhe Serbisë. Pas reagimit zyrtar të Tiranës, ku Ministria për Evropën dhe Punët e Jashtme shprehu shqetësimin për një ndërhyrje të mundshme në një sistem ujor ndërkufit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T19:30:22+00:00",
+      "dateStr": "10 Aug, 19:30",
+      "isNew": true,
+      "id": "24 81786390222"
+    },
+    {
+      "title": "Pritje të gjata në kufi, deri në 60 minuta në Dheu i Bardhë dhe Muçibabë",
+      "link": "https://24-ore.com/pritje-te-gjata-ne-kufi-deri-ne-60-minuta-ne-dheu-i-bardhe-dhe-mucibabe/",
+      "description": "Fluks i ndryshëm i automjeteve është raportuar mbrëmjen e së hënës në pikat e kalimit kufitar të Kosovës. Sipas të dhënave të fundit të publikuara nga Qendra Kombëtare për Menaxhim Kufitar, të përditësuara më 10 gusht 2026 në ora 19:58, pritjet më të gjata për automjete janë regjistruar në pikën kuf",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T19:25:26+00:00",
+      "dateStr": "10 Aug, 19:25",
+      "isNew": true,
+      "id": "24 91786389926"
+    },
+    {
+      "title": "Nxehtësia rrezikon ekonominë e BE-së/ 180 miliardë euro humbje nga temperaturat ekstreme",
+      "link": "https://abcnews.al/nxehtesia-rrezikon-ekonomine-e-be-se-180-miliarde-euro-humbje-nga-temperaturat-ekstreme/",
+      "description": "Rritja ekonomike e Europës këtë vit mund të bllokohet nga nxehtësia ekstreme dhe thatësira që ka prekur gjithë kontinentin, sipas një studimi të bankës holandeze Triodos. Komisioni Europian kishte parashikuar se rritja ekonomike e bllokut do të arrinte 1.1 përqind këtë vit. Banka, e cila është e spe",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T19:20:27+00:00",
+      "dateStr": "10 Aug, 19:20",
+      "isNew": true,
+      "id": "abc31786389627"
+    },
+    {
+      "title": "VIDEO/ Zjarri në zonën e Krastës, flakët rrezikojnë të përhapen drejt banesave, zjarrfikësit në terren",
+      "link": "https://abcnews.al/video-zjarri-ne-zonen-e-krastes-flaket-rrezikojne-te-perhapen-drejt-banesave-zjarrfikesit-ne-terren/",
+      "description": "Situatë e vështirë në zonën e Fshatit Halilaj dhe Krastës, ku flakët po përparojnë dhe rrezikojnë të zbresin drejt banesave. Forcat zjarrfikëse dhe Emergjencat Civile ndodhen në terren për neutralizimin e vatrave të zjarrit. Terreni i thepisur dhe malor po e vështirëson ndërhyrjen e forcave nga toka",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T19:10:06+00:00",
+      "dateStr": "10 Aug, 19:10",
+      "isNew": true,
+      "id": "abc41786389006"
+    },
+    {
+      "title": "Përplasjet Tiranë-Beograd për Ibrin, Vuçiç i “habitur”: Nuk e di çfarë lidhje ka me Shqipërinë",
+      "link": "https://shekulli.com.al/2026/08/10/perplasjet-tirane-beograd-per-ibrin-vucic-lumi-eshte-ceshtje-e-brendshme-e-serbise-nuk-e-di-cfare-lidhje-ka-me-shqiperine/",
+      "description": "Presidenti i Serbisë, Aleksandër Vuçiç, ka reaguar sërish pas debatit të krijuar nga deklaratat e tij për mundësinë e ndryshimit të rrjedhës së lumit Ibër, i cili furnizon liqenin e Ujmanit, një burim jetik për furnizimin me ujë të Kosovës. Në një intervistë për RTS, Vuçiç e cilësoi ndryshimin e mun",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-10T19:09:18+00:00",
+      "dateStr": "10 Aug, 19:09",
+      "isNew": true,
+      "id": "she11786388958"
+    },
+    {
+      "title": "Ndryshimi i rrjedhës së lumit Ibër, Beogradi i përgjigjet Tiranës. Marko Djuric:  Shqipëria nuk merr vendime për Serbinë, s’ka vend për Shqipërinë e Madhe",
+      "link": "https://shekulli.com.al/2026/08/10/ndryshimi-i-rrjedhes-se-lumit-iber-beogradi-i-pergjigjet-tiranes-marko-djuric-shqiperia-nuk-merr-vendime-per-serbine-ska-vend-per-shqiperine-e-madhe/",
+      "description": "Ministri i Jashtëm i Serbisë, Marko Djuric, i është përgjigjur kryediplomatit shqiptar Ferit Hoxha pas shqetësimeve të ngritura nga Tirana lidhur me deklaratat e presidentit serb Aleksandër Vuçiç për mundësinë e ndryshimit të rrjedhës së lumit Ibër. Djuric e ka cilësuar reagimin e Hoxhës si një përp",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-10T18:59:37+00:00",
+      "dateStr": "10 Aug, 18:59",
+      "isNew": true,
+      "id": "she21786388377"
+    },
+    {
+      "title": "VIDEO/ Thellohet bilanci, mbi 100 viktima nga tërmeti. Kolumbia shpall gjendjen “katastrofe kombëtare”",
+      "link": "https://abcnews.al/video-thellohet-bilanci-mbi-100-viktima-nga-termeti-kolumbia-shpall-gjendjen-katastrofe-kombetare/",
+      "description": "Një tërmet i fuqishëm me magnitudë 7.4 ballë goditi të hënën Kolumbinë. Numri i viktimave ka arritur në 111 viktima dhe dhjetëra të plagosur. Epiqendra e tërmetit është regjistruar në provincën Choco, në një thellësi prej rreth 115 kilometrash. Lëkundjet e forta janë ndjerë në disa zona të vendit, s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T18:58:14+00:00",
+      "dateStr": "10 Aug, 18:58",
+      "isNew": true,
+      "id": "abc51786388294"
     },
     {
       "title": "Kremi mbrojtës i diellit, ‘aksesori’ i domosdoshëm i verës/ Dermatologia: Nuk ka nxirje të shëndetshme! Dëmtimi nga rrezet vjen gradualisht",
@@ -56,7 +221,7 @@
       "date": "2026-08-10T18:39:21+00:00",
       "dateStr": "10 Aug, 18:39",
       "isNew": true,
-      "id": "abc01786387161"
+      "id": "abc61786387161"
     },
     {
       "title": "“Futa rrobat në lavatriçe dhe armën në thes…”, vrasësi i 20 vjeçarit në Korçë marrëdhënie konfliktuale me të atin, prindërit ishin ndarë kur ishte vetëm 2 vjeç",
@@ -67,62 +232,7 @@
       "date": "2026-08-10T18:37:20+00:00",
       "dateStr": "10 Aug, 18:37",
       "isNew": true,
-      "id": "she01786387040"
-    },
-    {
-      "title": "Araujo do të luajë për Liverpulin këtë sezon",
-      "link": "https://24-ore.com/araujo-do-te-luaje-per-liverpulin-kete-sezon/",
-      "description": "Liverpuli ka arritur marrëveshjen për të marrë në huazim mbrojtësin Ronald Araujo nga FC Barcelona për sezonin 2026-27. Futbollisti me përvojë i kombëtares së Uruguait do t’u bashkohet “Të Kuqve”, pasi ka regjistruar më shumë se 200 paraqitje për skuadrën e La Ligës. Araujo ka kontribuar në tre titu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T18:35:38+00:00",
-      "dateStr": "10 Aug, 18:35",
-      "isNew": true,
-      "id": "24 41786386938"
-    },
-    {
-      "title": "VIDEO/ Historia e pabesueshme, qyteti i Alaskës ku rreth 90% e banorëve jetojnë në të njëjtën ndërtesë!",
-      "link": "https://24-ore.com/video-historia-e-pabesueshme-qyteti-i-alaskes-ku-rreth-90-e-banoreve-jetojne-ne-te-njejten-ndertese/",
-      "description": "Në Alaskë ndodhet një qytet i vogël ku distanca midis shtëpisë, shkollës, postës dhe shërbimeve bazë mund të jetë vetëm disa metra. Në Whittier, rreth 300 njerëz e kanë përshtatur jetën e tyre të përditshme me kushtet ekstreme të zonës, me 80% deri në 90% të tyre që jetojnë në të njëjtën ndërtesë 14",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T18:30:35+00:00",
-      "dateStr": "10 Aug, 18:30",
-      "isNew": true,
-      "id": "24 51786386635"
-    },
-    {
-      "title": "Austin FC dhe Club América përballen për një vend në çerekfinalet e Leagues Cup",
-      "link": "https://24-ore.com/austin-fc-dhe-club-america-perballen-per-nje-vend-ne-cerekfinalet-e-leagues-cup/",
-      "description": "Austin FC pret Club América në Q2 Stadium të Austin-it të enjten më 13 gusht në një përballje që përcakton kualifikimin për fazën nokaut të Leagues Cup. Të...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T18:30:34+00:00",
-      "dateStr": "10 Aug, 18:30",
-      "isNew": true,
-      "id": "24 61786386634"
-    },
-    {
-      "title": "BM – Sekuestrohen 2,9 tonë kokainë me vlerë 232 milionë paund",
-      "link": "https://24-ore.com/bm-sekuestrohen-29-tone-kokaine-me-vlere-232-milione-paund/",
-      "description": "LONDËR, 10 gusht /ATSH-DPA/ – Autoritetet britanike kanë sekuestruar 2,9 tonë kokainë, me një vlerë të përllogaritur në treg prej rreth 232 milionë paund, pasi droga u zbulua e fshehur në një ngarkesë me banane nga Amerika e Jugut. Sekuestrimi u krye të enjten nga oficerët e Forcës Kufitare në Londo",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T18:30:20+00:00",
-      "dateStr": "10 Aug, 18:30",
-      "isNew": true,
-      "id": "24 71786386620"
-    },
-    {
-      "title": "ITALI – Meloni & Frederiksen: Mbështesim krijimin e qendrave të kthimit të migrantëve në vende të treta",
-      "link": "https://24-ore.com/itali-meloni-frederiksen-mbeshtesim-krijimin-e-qendrave-te-kthimit-te-migranteve-ne-vende-te-treta/",
-      "description": "– Kryeministrja italiane, Giorgia Meloni dhe homologia e saj daneze, Mette Frederiksen kanë përsëritur kundërshtimin e tyre ndaj emigracionit të pakontrolluar, duke kërkuar përshpejtimin e zbatimit të plotë të Paktit Evropian për Migracionin dhe Azilin. Në një mesazh të përbashkët të publikuar në rr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T18:30:10+00:00",
-      "dateStr": "10 Aug, 18:30",
-      "isNew": true,
-      "id": "24 81786386610"
+      "id": "she31786387040"
     },
     {
       "title": "Tirana Live me Rovena Neziri, (10/08/2026)",
@@ -133,18 +243,7 @@
       "date": "2026-08-10T18:28:52+00:00",
       "dateStr": "10 Aug, 18:28",
       "isNew": true,
-      "id": "abc11786386532"
-    },
-    {
-      "title": "Uji në Kumanovë është i sigurt për pije",
-      "link": "https://24-ore.com/uji-ne-kumanove-eshte-i-sigurt-per-pije/",
-      "description": "Uji në sistemin ujësjellës të Kumanovës është i sigurt për pije, tregojnë analizat e deritanishme nga Qendra për shëndet publik, laboratoi i Stacionit filtrues dhe Institutit për shëndet publik, informoi Toni Jonçevski, udhëheqës i Stacionit filtrues Kumanovë. Në kushte të vapave të verës, nga furni",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T18:25:58+00:00",
-      "dateStr": "10 Aug, 18:25",
-      "isNew": true,
-      "id": "24 91786386358"
+      "id": "abc71786386532"
     },
     {
       "title": "E reja kundër Kosovës, nuk vjen as nga Zelenski as nga Vuçiqi, por nga Perëndimi",
@@ -155,7 +254,7 @@
       "date": "2026-08-10T18:20:50+00:00",
       "dateStr": "10 Aug, 18:20",
       "isNew": true,
-      "id": "abc21786386050"
+      "id": "abc81786386050"
     },
     {
       "title": "Berat Gjimshiti i thotë lamtumirë Atalantës pas dhjetë vitesh, bëhet futbollisti më i paguar i Kombëtares: Bergamo është shtëpia ime",
@@ -166,7 +265,7 @@
       "date": "2026-08-10T18:12:27+00:00",
       "dateStr": "10 Aug, 18:12",
       "isNew": true,
-      "id": "she11786385547"
+      "id": "she41786385547"
     },
     {
       "title": "Tërmet 7.4 ballë në Kolumbi/ Shkon në 69 numri i viktimave, dhjetëra të plagosur",
@@ -177,7 +276,7 @@
       "date": "2026-08-10T18:10:40+00:00",
       "dateStr": "10 Aug, 18:10",
       "isNew": true,
-      "id": "abc31786385440"
+      "id": "abc91786385440"
     },
     {
       "title": "Kushtetuesja rrëzon Rovena Vodën: Nuk u shkel prezumimi i pafajësisë",
@@ -188,29 +287,7 @@
       "date": "2026-08-10T18:01:01+00:00",
       "dateStr": "10 Aug, 18:01",
       "isNew": true,
-      "id": "she21786384861"
-    },
-    {
-      "title": "Nga konflikti fizik në shkrepjen e armës/ Zbardhet dëshmia e plotë, autori: Viktima më ofendoi, pas të shtënave shkova në banesë",
-      "link": "https://abcnews.al/nga-konflikti-fizik-ne-shkrepjen-e-armes-zbardhet-deshmia-e-plote-autori-viktima-me-ofendoi-pas-te-shtenave-shkova-ne-banese/",
-      "description": "Në datë 08.08.2026, ora 23:40, u mor deklarimi i shtetasit Kristjan Sterjo si person ndaj të cilit zhvillohen hetimet. Në deklarimin e tij ky shtetas deklaroi se nuk ka mundësi për një avokat mbrojtës dhe se shpjegimet e tij do t’i japë në prani të avokatit të zgjedhur prej tij, kryesisht, z. Robert",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T17:37:01+00:00",
-      "dateStr": "10 Aug, 17:37",
-      "isNew": true,
-      "id": "abc41786383421"
-    },
-    {
-      "title": "Si flakët shkrumbuan ullishtet/ Banorët e Koilaçit: Zjarri shkatërroi gjithçka, na rrënoi ekonominë",
-      "link": "https://abcnews.al/si-flaket-shkrumbuan-ullishtet-banoret-e-koilacit-zjarri-shkaterroi-gjithcka-na-rrenoi-ekonomine/",
-      "description": "Në fshatin Koilaç të Mallakastrës, zjarri i së shtunës ka shkatërruar dhjetëra hektarë me ullinj, vreshta dhe pemëtari. Banorët tregojnë se flakët përpinë çdo gjë që gjenin përpara. Ata thonë se zjarret fatmirësisht nuk lënduan njerëz, por u shkatërruan ekonomitë e tyre familjare. Mbi 50 hektarë tok",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T17:36:37+00:00",
-      "dateStr": "10 Aug, 17:36",
-      "isNew": true,
-      "id": "abc51786383397"
+      "id": "she51786384861"
     },
     {
       "title": "“Siguria i kalon Policisë së Kosovës”, KFOR nis tranzicionin gradual nga Ura e Ibrit, Sveçla: Kosova po forcohet",
@@ -221,18 +298,7 @@
       "date": "2026-08-10T17:31:11+00:00",
       "dateStr": "10 Aug, 17:31",
       "isNew": true,
-      "id": "she31786383071"
-    },
-    {
-      "title": "Tetë policë të arrestuar në korrik/ AMP referoi në Prokurori 54 policë për shkelje të ndryshme",
-      "link": "https://abcnews.al/tete-police-te-arrestuar-ne-korrik-amp-referoi-ne-prokurori-54-police-per-shkelje-te-ndryshme/",
-      "description": "AGJENCIA E MBIKËQYRJES POLICORE vetem gjate mujait korrik ka cuar per ndjekje penale ne prokurori si te dyshuar per shkelje te ndryshme 54 police, 15 nga te cilet ne nivel drejtues. Po ne kete muaj, AMP ka arrestuar në flagrancë 11 persona, 8 prej tyre punonjës policie. 25 çështje të referuara lidhe",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T17:24:08+00:00",
-      "dateStr": "10 Aug, 17:24",
-      "isNew": true,
-      "id": "abc61786382648"
+      "id": "she61786383071"
     },
     {
       "title": "8 punonjës policie të arrestuar dhe 6 nën hetim disiplinor, AMP publikon bilancin e korrikut: 54 raste janë referuar në Prokurori",
@@ -243,7 +309,7 @@
       "date": "2026-08-10T17:23:37+00:00",
       "dateStr": "10 Aug, 17:23",
       "isNew": true,
-      "id": "she41786382617"
+      "id": "she71786382617"
     },
     {
       "title": "“Deklaratat e Vuçiçit janë kërcënim për Kosovën”, Haxhiu: Diplomatët të informojnë partnerët për rrezikun ndaj Ibrit",
@@ -254,29 +320,7 @@
       "date": "2026-08-10T17:20:39+00:00",
       "dateStr": "10 Aug, 17:20",
       "isNew": true,
-      "id": "she51786382439"
-    },
-    {
-      "title": "Çmimi i naftës rrit inflacionin/ Arrin 3,4 përqind, tejkalon objektivin e Bankës së Shqipërisë",
-      "link": "https://abcnews.al/cmimi-i-naftes-rrit-inflacionin-arrin-34-perqind-tejkalon-objektivin-e-bankes-se-shqiperise/",
-      "description": "Përshkallëzimi i konfliktit në Lindjen e mesme ka rikthyer përsëri efektin e rritjes së çmimeve  të cilat janë reflektuar edhe në Shqipëri. Sipas të dhënave të INSTAT gjatë muajit korrik niveli I çmimeve në vend pësoi rritje I ndikuar nga karburantet, qiratë dhe ushqimet. Ndërsa inflacioni në muajin",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T17:15:51+00:00",
-      "dateStr": "10 Aug, 17:15",
-      "isNew": true,
-      "id": "abc71786382151"
-    },
-    {
-      "title": "Balkan Update me Habi Hoxha, (10/08/2026)",
-      "link": "https://abcnews.al/balkan-update-me-habi-hoxha-10-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T17:12:17+00:00",
-      "dateStr": "10 Aug, 17:12",
-      "isNew": true,
-      "id": "abc81786381937"
+      "id": "she81786382439"
     },
     {
       "title": "Shkon në 110 numri i viktimave nga tërmeti 7.4 ballë në Kolumbi, SHBA dhe Ekuadori ofrojnë ndihmë, s’ka rrezik për cunami",
@@ -287,51 +331,7 @@
       "date": "2026-08-10T17:07:12+00:00",
       "dateStr": "10 Aug, 17:07",
       "isNew": true,
-      "id": "she61786381632"
-    },
-    {
-      "title": "Eksodi i shqiptarëve matanë detit/ Historia e 8 gushtit 1991, qyteti i Barit priti anijen “Vlora”",
-      "link": "https://abcnews.al/eksodi-i-shqiptareve-matane-detit-historia-e-8-gushtit-1991-qyteti-i-barit-priti-anijen-vlora/",
-      "description": "Kanë kaluar 35 vite, që kur anija “Vlora” me rreth 20 mijë shqiptarë në bord, u shfaq në portin e Barit. Kështu 8 gushti u bë pjesë e historisë së dy vendeve, e kujtesës së dy popujve dhe e fatit të mijëra njerëzve, të shtyrë nga një ëndërr e thjeshtë dhe e madhe njëkohësisht: të [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T17:02:23+00:00",
-      "dateStr": "10 Aug, 17:02",
-      "isNew": true,
-      "id": "abc91786381343"
-    },
-    {
-      "title": "Ndërtimi i hotelit 5 katësh pa leje në Qeparo, Hita pezullon nga detyra të gjithë zinxhirin komandues të policisë në Himarë",
-      "link": "https://shekulli.com.al/2026/08/10/ndertimi-i-hotelit-5-katesh-pa-leje-ne-qeparo-hita-pezullon-nga-detyra-te-gjithe-zinxhirin-komandues-te-policise-ne-himare/",
-      "description": "Drejtori i Përgjithshëm i Policisë së Shtetit, Skënder Hita, ka pezulluar nga detyra gjithë zinxhirin komandues të Komisariatit të Policisë Himarë, që kanë qenë në detyrë gjatë periudhës kur është ndërtuar një objekt 5-katësh pa leje në Qeparo, Himarë. Bëhet fjalë për nënkomisar Ferit Merkaj, komisa",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T16:48:25+00:00",
-      "dateStr": "10 Aug, 16:48",
-      "isNew": true,
-      "id": "she71786380505"
-    },
-    {
-      "title": "E PLOTË/ Rrëfehet vrasësi i 20-vjeçarit në Korçë: Johani tentoi të më qëllonte me thikë, nuk doja të vdiste por…",
-      "link": "https://shekulli.com.al/2026/08/10/e-plote-rrefehet-vrasesi-i-20-vjecarit-ne-korce-johani-tentoi-te-me-qellonte-me-thike-nuk-doja-te-vdiste-por/",
-      "description": "Është zbardhur e plotë dëshmia e autorit të vrasjes së 20-vjeçarit Johan Zuko, ngjarje e ndodhur pasditen e të shtunës në Korçë. Në dëshminë e tij para grupit hetimor, i riu Kristjan Sterjo ka deklaruar se viktima e kishte kërcënuar dhe kishte tentuar ta plagoste me thikë. Sipas Sterjos, përplasja m",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T16:29:47+00:00",
-      "dateStr": "10 Aug, 16:29",
-      "isNew": true,
-      "id": "she81786379387"
-    },
-    {
-      "title": "Tërmet i fuqishëm në Kolumbi, shkon në 22 numri i viktimave, shemben ndërtesa dhe vijojnë kërkimet nën rrënoja",
-      "link": "https://shekulli.com.al/2026/08/10/termet-i-fuqishem-ne-kolumbi-shkon-ne-22-numri-i-viktimave-shemben-ndertesa-dhe-vijojne-kerkimet-nen-rrenoja/",
-      "description": "Të paktën 22 persona kanë humbur jetën pas tërmetit të fuqishëm që goditi Kolumbinë mëngjesin e së hënës, ndërsa dhjetëra të tjerë janë plagosur dhe ekipet e emergjencave vijojnë kërkimet në zonat më të prekura. Tërmeti kishte një magnitudë prej 7.4 ballësh dhe epiqendra e tij u regjistrua pranë San",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T16:20:30+00:00",
-      "dateStr": "10 Aug, 16:20",
-      "isNew": true,
-      "id": "she91786378830"
+      "id": "she91786381632"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
