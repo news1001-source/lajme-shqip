@@ -1,29 +1,216 @@
 {
-  "lastUpdated": "2026-08-10T14:18:55.522818+00:00",
+  "lastUpdated": "2026-08-10T15:55:29.570564+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Zjarr i madh edhe në malësinë e Klosit, rrezikohet një fshat i tërë! Kërkohet dhe ndërhyrje nga ajri, dyshohet i qëllim",
-      "link": "https://24-ore.com/zjarr-i-madh-edhe-ne-malesine-e-klosit-rrezikohet-nje-fshat-i-tere-kerkohet-dhe-nderhyrje-nga-ajri-dyshohet-i-qellim/",
-      "description": "Një zjarr i madh ka përfshirë pasditen e sotme (10 gusht) edhe fshatin Kujtime, në lagjen Grkaj të Njësinë Administrative Kurdar, Bashkia Klos. Fillimisht, flakët janë shfaqur në disa sipërfaqe me barishte, por më pas zjarri ka dalë jashtë kontrollit. Si pasojë, raportohet se janë djegur disa mullar",
-      "source": "24 ORE",
+      "title": "PS dhe PD bashkojnë votat, këshilltarët e Bashkisë Dimal kundërshtojnë bashkimin me Beratin",
+      "link": "https://shekulli.com.al/2026/08/10/ps-dhe-pd-bashkojne-votat-keshilltaret-e-bashkise-dimal-kundershtojne-bashkimin-me-beratin/",
+      "description": "PS dhe PD kanë bashkuar votat në Këshillin Bashkiak të Dimalit, duke kundërshtuar propozimin për shkrirjen e Bashkisë Dimal dhe bashkimin e saj me Bashkinë Berat. Bashkia Dimal ka zhvilluar sot një mbledhje emergjente të Këshillit Bashkiak, ku në fokus ka qenë propozimi për riorganizimin territorial",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-10T14:18:37+00:00",
-      "dateStr": "10 Aug, 14:18",
+      "date": "2026-08-10T15:45:49+00:00",
+      "dateStr": "10 Aug, 15:45",
       "isNew": true,
-      "id": "24 01786371517"
+      "id": "she01786376749"
     },
     {
-      "title": "Ministria e Mbrojtjes përditëson situatën e zjarreve: 10 vatra ditën e sotme, 5 ende aktive! 125 forca dhe 2 helikopterë n�",
-      "link": "https://24-ore.com/ministria-e-mbrojtjes-perditeson-situaten-e-zjarreve-10-vatra-diten-e-sotme-5-ende-aktive-125-forca-dhe-2-helikoptere-n%ef%bf%bd/",
-      "description": "Ministria e Mbrojtjes ka përditësuar sot pasdite (10 gusht) situatën e zjarreve në vend, deri në orën 14:00, ku janë raportuar 10 vatra. Pesë prej tyre vijojnë të jenë aktive, ndërsa katër janë nën monitorim. Në operacionet për shuarjen e flakëve janë angazhuar 21 automjete zjarrfikëse dhe 153 forca",
+      "title": "“Mokra n’Fest”, promovim i traditës dhe kulturës",
+      "link": "https://24-ore.com/mokra-nfest-promovim-i-tradites-dhe-kultures/",
+      "description": "Edicioni i shtatë i festivalit “Mokra n’Fest” promovoi traditat, kulturën, trashëgiminë dhe bukuritë natyrore të kësaj treve, në një aktivitet që mblodhi banorë dhe vizitorë nga zona të ndryshme të vendit. Kryeministri Edi Rama ndau sot pamje nga ky aktivitet që e ktheu Mokrën në një hapësirë të pro",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-10T14:18:22+00:00",
+      "date": "2026-08-10T15:32:55+00:00",
+      "dateStr": "10 Aug, 15:32",
+      "isNew": true,
+      "id": "24 01786375975"
+    },
+    {
+      "title": "KOLUMBI – 20 viktima në Pereira dhe 20 ndërtesa të shembura në Kali pas tërmetit 7,4 ballë",
+      "link": "https://24-ore.com/kolumbi-20-viktima-ne-pereira-dhe-20-ndertesa-te-shembura-ne-kali-pas-termetit-74-balle/",
+      "description": "BOGOTA, 10 gusht /ATSH-ANSA-AFP/ – Të paktën 20 persona kanë vdekur në qytetin e Pereiras pas tërmetit të fuqishëm që goditi sot Kolumbinë perëndimore, njoftoi kryebashkiaku i qytetit, i cili ndodhet në rajonin turistik të kultivimit të kafesë. “Situata është kritike”, tha Mauricio Salazar, kryebash",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T15:30:25+00:00",
+      "dateStr": "10 Aug, 15:30",
+      "isNew": true,
+      "id": "24 11786375825"
+    },
+    {
+      "title": "FOKUS – Irani planifikon tarifa për kalimin e anijeve në Ngushticën e Hormuzit",
+      "link": "https://24-ore.com/fokus-irani-planifikon-tarifa-per-kalimin-e-anijeve-ne-ngushticen-e-hormuzit/",
+      "description": "TEHERAN, 10 gusht /ATSH-DPA/ – Irani planifikon të vendosë tarifa për anijet tregtare që kalojnë në Ngushticën e Hormuzit, një nga rrugët më të rëndësishme detare në botë për transportin e naftës dhe gazit, bëri të ditur sot Ministria e Jashtme iraniane. Zëdhënësi i ministrisë, Esmaeil Baghaei, tha ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T15:30:11+00:00",
+      "dateStr": "10 Aug, 15:30",
+      "isNew": true,
+      "id": "24 21786375811"
+    },
+    {
+      "title": "Rëndohet kriza politike në Kosovë/ Bislimi: Situata është dramatike, rrezikojmë sërish të shkojmë në zgjedhje",
+      "link": "https://abcnews.al/rendohet-kriza-politike-ne-kosove-bislimi-situata-eshte-dramatike-rrezikojme-serish-te-shkojme-ne-zgjedhje/",
+      "description": "Labinot Bislimi ka reaguar lidhur me ngërçin politik në Kosovë, duke e cilësuar situatën aktuale si një krizë të thellë që po dëmton vendin. Bislimi ka kritikuar deklaratën e kryetarit të Kuvendit, Glauk Konjufca, se situata politike nuk është dramatike. Sipas tij, vazhdimi i ngërçit politik për një",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T15:28:15+00:00",
+      "dateStr": "10 Aug, 15:28",
+      "isNew": true,
+      "id": "abc01786375695"
+    },
+    {
+      "title": "Gigi dhe Bella Hadid shfaqin flokë bjonde të përafërta gjatë pushimeve familjare në plazh",
+      "link": "https://24-ore.com/gigi-dhe-bella-hadid-shfaqin-floke-bjonde-te-peraferta-gjate-pushimeve-familjare-ne-plazh/",
+      "description": "Gigi Hadid publikoi këtë mëngjes në Instagram disa foto nga një shëtitje e fundit në plazh me të bijën, Khai, dhe motrën Bella Hadid. Një nga selfie-t ësht...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T15:26:32+00:00",
+      "dateStr": "10 Aug, 15:26",
+      "isNew": true,
+      "id": "24 31786375592"
+    },
+    {
+      "title": "“Ferri i zjarreve” përfshin Kanadanë dhe Amerikën e Veriut: Mijëra njerëz largohen nga shtëpitë",
+      "link": "https://abcnews.al/ferri-i-zjarreve-perfshin-kanadane-dhe-ameriken-e-veriut-mijera-njerez-largohen-nga-shtepite/",
+      "description": "Zjarret masive që po përhapen në pjesën perëndimore të Shteteve të Bashkuara dhe në Kanada kanë vënë banorët në gatishmëri të lartë, ndërsa presin urdhra të mundshëm për evakuim, shkruan aol.com. Ndërkohë, mijëra njerëz që tashmë janë larguar nga shtëpitë e tyre presin me ankth të mësojnë se çfarë k",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T15:18:29+00:00",
+      "dateStr": "10 Aug, 15:18",
+      "isNew": true,
+      "id": "abc11786375109"
+    },
+    {
+      "title": "Barcelona po bëhej gati ta shiste, lojtari i cilësuar si talent i “La Massia” dëmtohet rëndë në stërvitje",
+      "link": "https://24-ore.com/barcelona-po-behej-gati-ta-shiste-lojtari-i-cilesuar-si-talent-i-la-massia-demtohet-rende-ne-stervitje/",
+      "description": "Barcelona ka marrë një goditje të rëndë sot, pasi ka marrë lajmin se Roni Bardaxhi është dëmtuar në gju gjatë stërvitjes dhe mendohet se është diçka shumë serioze. Në klub nuk kanë dhënë informacione të hollësishme për këtë dëmtim, por sipas mediave spanjolle, ekziston frika se ai mund të ketë pësua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T15:17:41+00:00",
+      "dateStr": "10 Aug, 15:17",
+      "isNew": true,
+      "id": "24 41786375061"
+    },
+    {
+      "title": "Ndërhyrje e paligjshme në ujësjellësin e Kreshpanit, nisin hetimet",
+      "link": "https://abcnews.al/nderhyrje-e-paligjshme-ne-ujesjellesin-e-kreshpanit-nisin-hetimet/",
+      "description": "Një ndërhyrje e paligjshme në magjistralin kryesor të ujësjellësit është evidentuar në zonën e Kreshpanit, gjatë kontrolleve të zhvilluara nga Task-Forca. Ndërhyrja ka cenuar funksionimin normal të rrjetit dhe rrezikuar furnizimin me ujë të komunitetit. Pas konstatimit të rastit, autoritetet kanë bë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T15:08:28+00:00",
+      "dateStr": "10 Aug, 15:08",
+      "isNew": true,
+      "id": "abc21786374508"
+    },
+    {
+      "title": "KFOR-i nis “tranzicionin gradual” të pranisë nga ura mbi Ibër, Lista Serbe kundërshton",
+      "link": "https://24-ore.com/kfor-i-nis-tranzicionin-gradual-te-pranise-nga-ura-mbi-iber-lista-serbe-kundershton/",
+      "description": "Misioni paqeruajtës i NATO-s në Kosovë, KFOR-i, ka njoftuar se ka nisur &#8220;tranzicionin gradual të pranisë&#8221; së tij të përhershme nga ura kryesore mbi lumin Ibër në Mitrovicë. Në një deklaratë për Radion Evropa e Lirë, KFOR-i tha se ky hap po ndërmerret në përputhje me përmirësimin e situat",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T15:06:41+00:00",
+      "dateStr": "10 Aug, 15:06",
+      "isNew": true,
+      "id": "24 51786374401"
+    },
+    {
+      "title": "Pëhapi informacione “fake” për transferimin e yllit të Bajernit, arrestohet gazetari sportiv: Po vë kokën në rrezik!",
+      "link": "https://24-ore.com/pehapi-informacione-fake-per-transferimin-e-yllit-te-bajernit-arrestohet-gazetari-sportiv-po-ve-koken-ne-rrezik/",
+      "description": "Një gazetar sportiv turk i cili mbulon kryesisht klubin e Gallatasarajt, Burhan Can Terzi, është arrestuar pas një hetimi të nisur mbi raportimet që kishte bërë në lidhje me Xhamal Musiala. Ai akuzohet për “shpërndarje publikisht të informacionit mashtrues”. Burhan Can Terzi u arrestua me urdhër të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T15:02:19+00:00",
+      "dateStr": "10 Aug, 15:02",
+      "isNew": true,
+      "id": "24 61786374139"
+    },
+    {
+      "title": "OBRM-PDUKM: Problemi me ujin në Gostivar nuk është nga sot, por nga dekada neglizhence nga autoritetet lokale",
+      "link": "https://24-ore.com/obrm-pdukm-problemi-me-ujin-ne-gostivar-nuk-eshte-nga-sot-por-nga-dekada-neglizhence-nga-autoritetet-lokale/",
+      "description": "Nga OBRM-PDUKM-ja thonë se me vite Filipçe dhe qeveria e udhëhequr nga partia e tij morën raporte nga institucionet shtetërore se uji në Gostivar nuk është i pijshëm, por se e kanë fshehur atë dhe nuk kanë ndërmarrë asnjë masë. Nga OBRM-PDUKM thonë se problemi në Gostivar nuk është nga sot, por nga ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T15:01:38+00:00",
+      "dateStr": "10 Aug, 15:01",
+      "isNew": true,
+      "id": "24 71786374098"
+    },
+    {
+      "title": "Protestojnë bujqit në Strumicë, kërkojnë çmime më të larta për blerje",
+      "link": "https://24-ore.com/protestojne-bujqit-ne-strumice-kerkojne-cmime-me-te-larta-per-blerje/",
+      "description": "Bujqit e Strumicës edhe sot protestuan dhe bllokuan qendrën e Strumicës, duke kërkuar çmime më të larta të blerjes për specin e kuq. Ata janë të revoltuar nga, siç thonë, qëndrimi injorues i Ministrisë së Bujqësisë dhe blerësve. Aktualisht, klasi ekstra i destinuar për eksport blihet me 40 denarë pë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T15:01:27+00:00",
+      "dateStr": "10 Aug, 15:01",
+      "isNew": true,
+      "id": "24 81786374087"
+    },
+    {
+      "title": "LSH Strugë: Fjalë shumë për “One Stop Shop”, në realitet kolona të gjata në Qafë Thanë",
+      "link": "https://24-ore.com/lsh-struge-fjale-shume-per-one-stop-shop-ne-realitet-kolona-te-gjata-ne-qafe-thane/",
+      "description": "Torturë e panevojshme dhe e pamëshirshme për të gjithë qytetarët që kalojnë vendkalimin kufitar &#8211; Qafë Thanë. Një çmenduri e vërtetë që s&#8217;po merr fund!",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T15:01:14+00:00",
+      "dateStr": "10 Aug, 15:01",
+      "isNew": true,
+      "id": "24 91786374074"
+    },
+    {
+      "title": "Pamje apokaliptike/ Tërmeti me magnitudë 7.4 ballë godet Kolumbinë, disa të lënduar",
+      "link": "https://abcnews.al/pamje-apokaliptike-termeti-me-magnitude-7-4-balle-godet-kolumbine-disa-te-lenduar/",
+      "description": "Një tërmet apokaliptik me magnitudë 7.4 ballë goditi Kolumbinë të hënën, njoftoi Qendra Sizmologjike Evropiane Mesdhetare (EMSC). Tërmeti kishte një thellësi prej 115 km dhe shkaktoi dëme në ndërtesa. Agjencia gjeologjike e Kolumbisë tha se epiqendra ishte në provincën Choco, në bregdetin e Paqësori",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T14:59:05+00:00",
+      "dateStr": "10 Aug, 14:59",
+      "isNew": true,
+      "id": "abc31786373945"
+    },
+    {
+      "title": "Atentati ndaj gazetarit italian/ Pasi bëri lëmsh gjithë Shqipërinë, zbulohet më në fund porositësi. Ishte miku i tij biznesmen",
+      "link": "https://shekulli.com.al/2026/08/10/atentati-ndaj-gazetarit-italian-pasi-beri-lemsh-mafian-shqiptare-zbulohet-me-ne-fund-porositesi-ishte-miku-i-tij-biznesmen/",
+      "description": "ITALI- Karabinierët e Njësive Hetimore të Romës dhe Frascatit kanë ekzekutuar sot një udhër arresti ne burg për biznesmenin dhe ish-gazetarin  Valter Lavitola, i cili dyshohet se ka porositur atentatin ndaj gazetarit investigative të RAI-t, Sigfrido Ranucci. Në lidhje me shpërthimin e shumëpërfolur ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-10T14:41:43+00:00",
+      "dateStr": "10 Aug, 14:41",
+      "isNew": true,
+      "id": "she11786372903"
+    },
+    {
+      "title": "Ashpërsohet Kodi Rrugor/ Parandalimi i aksidenteve, shtohen kontrollet",
+      "link": "https://abcnews.al/ashpersohet-kodi-rrugor-parandalimi-i-aksidenteve-shtohen-kontrollet/",
+      "description": "Ndryshimet e reja në Kodin Rrugor kane nisur të japin rezultatet e para jo vetëm me ashpërsimin e masave administrative për përdoruesit e rrugës që konstatohen në shkelje, por për disa vepra penale arrin deri në pezullimin e lejes së drejtimit apo heqjen përgjithmonë të patentës. Një nga masat më të",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T14:24:49+00:00",
+      "dateStr": "10 Aug, 14:24",
+      "isNew": true,
+      "id": "abc41786371889"
+    },
+    {
+      "title": "Ëndërron të shohësh Koloseun pas errësirës?/ Italia zgjeron oraret e hapjes në vendet kryesore kulturore",
+      "link": "https://abcnews.al/enderron-te-shohesh-koloseun-pas-erresires-italia-zgjeron-oraret-e-hapjes-ne-vendet-kryesore-kulturore/",
+      "description": "Për turistët që ëndërrojnë të shohin monumentet e Italisë nën dritat e mbrëmjes, një mundësi e re po hapet këtë verë. Vendet kryesore kulturore dhe arkeologjike në vend po zgjerojnë oraret e vizitave, duke u dhënë turistëve më shumë kohë për të eksploruar disa prej thesareve më të famshme të vendit.",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T14:24:38+00:00",
+      "dateStr": "10 Aug, 14:24",
+      "isNew": true,
+      "id": "abc51786371878"
+    },
+    {
+      "title": "News Hour me Habi Hoxha, (10/08/2026)",
+      "link": "https://abcnews.al/news-hour-me-habi-hoxha-10-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T14:18:15+00:00",
       "dateStr": "10 Aug, 14:18",
       "isNew": true,
-      "id": "24 11786371502"
+      "id": "abc61786371495"
     },
     {
       "title": "E rëndë në Pogradec, u hodh nga varka ku po lundronte, humb jetën 30-vjeçari",
@@ -34,7 +221,18 @@
       "date": "2026-08-10T14:17:08+00:00",
       "dateStr": "10 Aug, 14:17",
       "isNew": true,
-      "id": "she01786371428"
+      "id": "she21786371428"
+    },
+    {
+      "title": "Italia thotë se nuk ka plane të rishikojë kontrollet kufitare me Spanjën deri më 15 gusht",
+      "link": "https://abcnews.al/italia-thote-se-nuk-ka-plane-te-rishikoje-kontrollet-kufitare-me-spanjen-deri-me-15-gusht/",
+      "description": "Italia ka bërë të ditur se nuk planifikon të rishikojë vendimin për kontrollet kufitare ndaj udhëtarëve që mbërrijnë nga Spanja përpara datës 15 gusht, duke rritur tensionet me Madridin për mënyrën e menaxhimit të kufijve dhe migracionit në hapësirën Schengen. Vendimi i Romës lidhet me krizën e fund",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-10T14:10:33+00:00",
+      "dateStr": "10 Aug, 14:10",
+      "isNew": true,
+      "id": "abc71786371033"
     },
     {
       "title": "Hoteli 6 katësh nën sytë e IMT Himarë/ Tavo pas shkrirjes së institucionit: Do t’i kërkoj IKMT-së që ta marrë në juridiksionin e saj",
@@ -45,18 +243,7 @@
       "date": "2026-08-10T14:07:52+00:00",
       "dateStr": "10 Aug, 14:07",
       "isNew": true,
-      "id": "abc01786370872"
-    },
-    {
-      "title": "MBP: Gjenden 32 paketime me lëndë narkotike te një i burgosur në Idrizovë",
-      "link": "https://24-ore.com/mbp-gjenden-32-paketime-me-lende-narkotike-te-nje-i-burgosur-ne-idrizove/",
-      "description": "MBP njofton se në burgun e Idrizovës janë gjetur 32 paketime me lëndë narkotike te një i burgosur 48-vjeçar. &#8220;Më 09.08.2026, në orën 13:40, SPB Shkup ka pranuar një informacion nga Institucioni ndëshkues-përmirësues Burgu Idrizovë se, rreth orës 11:00, gjatë kontrollit të kryer të një pakoje p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T14:06:43+00:00",
-      "dateStr": "10 Aug, 14:06",
-      "isNew": true,
-      "id": "24 21786370803"
+      "id": "abc81786370872"
     },
     {
       "title": "Euro preku kufirin e 93 lekëve për herë të parë në histori, si ra me 34% nga 2011-a",
@@ -67,51 +254,7 @@
       "date": "2026-08-10T14:05:57+00:00",
       "dateStr": "10 Aug, 14:05",
       "isNew": true,
-      "id": "she11786370757"
-    },
-    {
-      "title": "Anne Hathaway shfaq barkun e shtatzënisë me bluzë të prerë dhe xhinse me bel të ulët",
-      "link": "https://24-ore.com/anne-hathaway-shfaq-barkun-e-shtatzenise-me-bluze-te-prere-dhe-xhinse-me-bel-te-ulet/",
-      "description": "Anne Hathaway e përqafi barkun e saj të shtatzënisë me një veshje të guximshme në premierën e filmit \"The End of Oak Street\" në Los Anxhelos. Aktorja zgjod...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T14:05:47+00:00",
-      "dateStr": "10 Aug, 14:05",
-      "isNew": true,
-      "id": "24 31786370747"
-    },
-    {
-      "title": "A mund të konsiderohet sëmundje obeziteti?",
-      "link": "https://24-ore.com/a-mund-te-konsiderohet-semundje-obeziteti/",
-      "description": "Dr. Megi Lekbello ka folur për obezitetin dhe pasojat e tij në shëndet në podcastin “Obeziteti, le të flasim për të”, duke theksuar se obeziteti nuk duhet parë thjesht si një çështje peshe apo pamjeje, por si një sëmundje kronike. Sipas saj, indi dhjamor nuk është thjesht një depozitë energjie, por ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T14:03:27+00:00",
-      "dateStr": "10 Aug, 14:03",
-      "isNew": true,
-      "id": "24 41786370607"
-    },
-    {
-      "title": "Rikthehen zjarret në Krastë të Krujës, situata kritike për shkak të depos me lëndë plasëse! Era favorizon flakët, vat�",
-      "link": "https://24-ore.com/rikthehen-zjarret-ne-kraste-te-krujes-situata-kritike-per-shkak-te-depos-me-lende-plasese-era-favorizon-flaket-vat%ef%bf%bd/",
-      "description": "Rikthehen zjarret në Krujë. Një tjetër vatër e re është shënuar në zonën e Krastës. Këtë herë në pjesën veriore të saj, duke rikthyer shqetësimin për situatën e zjarreve në këtë zonë. Dyshohet se zjarri është i qëllimshëm dhe po përparon me shpejtësi, i favorizuar edhe nga era e fortë. Situata bëhet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T14:02:07+00:00",
-      "dateStr": "10 Aug, 14:02",
-      "isNew": true,
-      "id": "24 51786370527"
-    },
-    {
-      "title": "Bashkia e Dimalit mban mbledhje urgjente, Këshilli voton kundër relacionit për shkrirjen, 18 nga 21 anëtarët kundër bashki",
-      "link": "https://24-ore.com/bashkia-e-dimalit-mban-mbledhje-urgjente-keshilli-voton-kunder-relacionit-per-shkrirjen-18-nga-21-anetaret-kunder-bashki/",
-      "description": "Bashkia e Dimalit ka zhvilluar sot një mbledhje urgjente të Këshillit Bashkiak. Qëllimi i kësaj mbledhja ka qenë miratimi me votat e këshillit i mosshkrirjes së bashkisë si pjesë e Reformës Territoriale që ka propozuar PS. Fillimisht, në mbledhjen e zhvilluar u lexua relacioni i propozuar për shkrir",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T14:01:47+00:00",
-      "dateStr": "10 Aug, 14:01",
-      "isNew": true,
-      "id": "24 61786370507"
+      "id": "she31786370757"
     },
     {
       "title": "Situata me zjarret/ Ministria e Mbrojtjes: Pesë vatra aktive, vijon ndërhyrja në Krujë dhe Priskë",
@@ -122,40 +265,7 @@
       "date": "2026-08-10T13:56:20+00:00",
       "dateStr": "10 Aug, 13:56",
       "isNew": true,
-      "id": "abc11786370180"
-    },
-    {
-      "title": "Kryetari i Komisionit parlamentar ukrainas shpjegon pse Ukraina nuk e njeh Kosovën: Krimea, Serbia dhe municioni",
-      "link": "https://24-ore.com/kryetari-i-komisionit-parlamentar-ukrainas-shpjegon-pse-ukraina-nuk-e-njeh-kosoven-krimea-serbia-dhe-municioni/",
-      "description": "Kryetari i Komisionit për Politikë të Jashtme dhe Bashkëpunim Ndërparlamentar në Parlamentin ukrainas, Oleksandr Merezhko, thotë se në Ukrainë ka qëndrime të ndryshme për njohjen e Kosovës, por se vendimi përfundimtar i takon presidentit Volodymyr Zelensky. Duke iu përgjigjur pyetjeve të Shërbimit t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T13:51:31+00:00",
-      "dateStr": "10 Aug, 13:51",
-      "isNew": true,
-      "id": "24 71786369891"
-    },
-    {
-      "title": "“U prehsh në paqe engjëlli i mamit”- Djalin ia vrau shoku i fëmijërisë, nëna e Joan Zukos prek me mesazhin: Do të mba",
-      "link": "https://24-ore.com/u-prehsh-ne-paqe-engjelli-i-mamit-djalin-ia-vrau-shoku-i-femijerise-nena-e-joan-zukos-prek-me-mesazhin-do-te-mba/",
-      "description": "Nëna e 20-vjeçarit Joan Zuko, Ornela Zuko, ka reaguar pas vrasjes së të birit në Korçë, duke njoftuar edhe datën e ceremonisë së lamtumirës së fundit. Përmes një postimi prekës në rrjetet sociale, ajo ka bërë të ditur se Joani do të përcillet për në banesën e fundit më 11 gusht, në orën 12:00. Nëna ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T13:47:52+00:00",
-      "dateStr": "10 Aug, 13:47",
-      "isNew": true,
-      "id": "24 81786369672"
-    },
-    {
-      "title": "FOKUS – Shqipëria përmirëson pozicionin në Indeksin Global të Paqes 2026",
-      "link": "https://24-ore.com/fokus-shqiperia-permireson-pozicionin-ne-indeksin-global-te-paqes-2026/",
-      "description": "– Rezultati i përgjithshëm i Indeksit Global të Paqes (GPI) për Shqipërinë në vitin 2026 Ka rezultuar në kuotën 1.725, ndërsa në vitin 2025 indeksi ishte 1.812 pikë, shkruan visionofhumanity.com. Duke qenë se një rezultat më i ulët tregon një nivel më të lartë paqeje, kjo përfaqëson një përmirësim t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T13:45:59+00:00",
-      "dateStr": "10 Aug, 13:45",
-      "isNew": true,
-      "id": "24 91786369559"
+      "id": "abc91786370180"
     },
     {
       "title": "Shpërthimi me tritol në banesën e Ranuccit, arrestohet biznesmeni italian që porositi sulmin, ishin miq me gazetarin",
@@ -166,7 +276,7 @@
       "date": "2026-08-10T13:40:57+00:00",
       "dateStr": "10 Aug, 13:40",
       "isNew": true,
-      "id": "she21786369257"
+      "id": "she41786369257"
     },
     {
       "title": "“Do të mbaj brenda shpirtit deri në frymën e fundit”, e ëma e 20-vjeçarit të vrarë trondit me fjalët, varrimi i të riut bëhet nesër",
@@ -177,18 +287,7 @@
       "date": "2026-08-10T13:12:50+00:00",
       "dateStr": "10 Aug, 13:12",
       "isNew": true,
-      "id": "she31786367570"
-    },
-    {
-      "title": "Rënie rekord e kredive të këqija/ Në qershor arritën nivelin më të ulët prej 2008",
-      "link": "https://abcnews.al/kredite-me-probleme-renie-rekord-bsh-ne-qershor-arriten-nivelin-3-7-me-i-uleti-qe-prej-vitit-2008/",
-      "description": "Qytetarët dhe bizneset kanë shlyer  në kohë këstet e kredive në banka.Të dhënat e Bankës së Shqipërisë tregojnë se kreditë me probleme kanë vijuar uljen duke arritur në 3.7% në fund të muajit qershor. Ky rezulton se është një ndër nivelet më të ulëta të regjistruara në gati dy dekada.Sipas statistik",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T13:11:21+00:00",
-      "dateStr": "10 Aug, 13:11",
-      "isNew": true,
-      "id": "abc21786367481"
+      "id": "she51786367570"
     },
     {
       "title": "Vuçiç kërcënoi me ndryshimin e rrjedhës së lumit Ibër, Ferit Hoxha i përgjigjet nga Tirana: Uji nuk mund të përdoret për presion politik",
@@ -199,62 +298,7 @@
       "date": "2026-08-10T13:03:55+00:00",
       "dateStr": "10 Aug, 13:03",
       "isNew": true,
-      "id": "she41786367035"
-    },
-    {
-      "title": "News Line me Sali Doçi, (10/08/2026)",
-      "link": "https://abcnews.al/news-line-me-sali-doci-10-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T13:01:35+00:00",
-      "dateStr": "10 Aug, 13:01",
-      "isNew": true,
-      "id": "abc31786366895"
-    },
-    {
-      "title": "Hoxha reagon ndaj Vuçiç: Shqipëria kundër çdo ndryshimi të njëanshëm të rrjedhës së lumit Ibër",
-      "link": "https://abcnews.al/hoxha-reagon-ndaj-vucicit-shqiperia-kunder-cdo-ndryshimi-te-njeanshem-te-rrjedhes-se-lumit-iber/",
-      "description": "Ministri për Evropën dhe Punët e jashtme Ferit Hoxha reagoi sot ndaj deklaratës së Presidentit të Serbisë, Aleksandar Vuçiç, lidhur me mundësinë e ndryshimit të rrjedhës së lumit Ibër dhe përfshirjen e ekspertëve dhe institucioneve serbe në shqyrtimin e një mundësie të tillë Hoxha shprehu në një rea",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T13:00:07+00:00",
-      "dateStr": "10 Aug, 13:00",
-      "isNew": true,
-      "id": "abc41786366807"
-    },
-    {
-      "title": "“Zemër, na i kanë zvogëluar çokollatat Mars”/ Gruaja gjen një Mars 35-vjeçar: Dy herë më i madh se sot",
-      "link": "https://abcnews.al/zemer-na-i-kane-zvogeluar-cokollatat-mars-gruaja-gjen-nje-mars-35-vjecar-dy-here-me-i-madh-se-sot/",
-      "description": "Një çokollatë Mars, 35 vjeçare, është gjetur gjatë pastrimit të një shtëpie dhe zbulimi është bërë viral, mes pretendimeve se tregon efektin e “shrinkflation”, pra zvogëlimit të sasisë së produktit, ndërsa çmimi mbetet i njëjtë ose rritet. Çokollata, me datë konsumimi të rekomanduar në vitin 1991, u",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T12:55:10+00:00",
-      "dateStr": "10 Aug, 12:55",
-      "isNew": true,
-      "id": "abc51786366510"
-    },
-    {
-      "title": "“Wanted 37”/ Kapet në Durrës për llogari të drejtësisë italiane Kastriot Dyrmishi, i dënuar për trafik narkotikësh",
-      "link": "https://abcnews.al/wanted-37-kapet-ne-durres-per-llogari-te-drejtesise-italiane-kastriot-dyrmishi-i-denuar-per-trafik-narkotikesh/",
-      "description": "Lokalizohet dhe kapet një shtetas i dënuar në Itali, me 14 vjet burgim, për trafikim të lëndëve narkotike. Si rezultat i koordinimit informativ dhe operacional me homologët në Itali, nëpërmjet Interpol Tiranës, si dhe i veprimeve të shpejta policore, specialistët e Seksionit për Mbështetjen Operacio",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T12:49:24+00:00",
-      "dateStr": "10 Aug, 12:49",
-      "isNew": true,
-      "id": "abc61786366164"
-    },
-    {
-      "title": "Ndërtoi pa leje në Qeparo, IKMT shemb objektin 4 katësh",
-      "link": "https://abcnews.al/ndertoi-pa-leje-ne-qeparo-ikmt-shemb-objektin-4-katesh/",
-      "description": "Inspektorati Kombëtar për Mbrojtjen e Territorit ka ndërhyrë gjatë ditës së sotme duke shembur një objekt 4-kate me 1 kat nëntokë karabina me konstruksion beton arme të ndërtuar pa leje në kushtet e flagrancës, e ndodhur në zonën e Qeparoit, pjesë e Bashkisë së Himarës. Nga verifikimi i rastit ka re",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T12:46:23+00:00",
-      "dateStr": "10 Aug, 12:46",
-      "isNew": true,
-      "id": "abc71786365983"
+      "id": "she61786367035"
     },
     {
       "title": "Grabitën argjendarinë në zonën e Paskuqanit, Policia zbulon motorin që dyshohet se u përdor nga autorët",
@@ -265,29 +309,7 @@
       "date": "2026-08-10T12:26:24+00:00",
       "dateStr": "10 Aug, 12:26",
       "isNew": true,
-      "id": "she51786364784"
-    },
-    {
-      "title": "Kayserispor bën goditje të dyfishtë shqiptare, zyrtarizon Florent Hasanin dhe Taulant Seferin",
-      "link": "https://abcnews.al/kayserispor-ben-goditje-te-dyfishte-shqiptare-zyrtarizon-florent-hasanin-dhe-taulant-seferin/",
-      "description": "Kayserispor ka bërë një lëvizje të rëndësishme në merkato duke zyrtarizuar brenda së njëjtës ditë transferimin e dy futbollistëve shqiptarë, Florent Hasanit dhe Taulant Seferit. Klubi turk ka njoftuar afrimin e dy sulmuesve, të cilët pritet të forcojnë repartin ofensiv të skuadrës për sezonin e ri n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T12:21:52+00:00",
-      "dateStr": "10 Aug, 12:21",
-      "isNew": true,
-      "id": "abc81786364512"
-    },
-    {
-      "title": "Evropa ‘përvëlohet’, qershori dhe korriku thyejnë rekordet historike të temperaturave",
-      "link": "https://abcnews.al/evropa-pervelohet-qershori-dhe-korriku-thyejne-rekordet-historike-te-temperaturave/",
-      "description": "Evropa Perëndimore përjetoi qershor-korrikun më të nxehtë të regjistruar ndonjëherë, ndërsa ndryshimet klimatike nxisin një verë historike me vapë, thatësira dhe zjarre në të gjithë rajonin, tha monitoruesi i ngrohjes globale i BE-së. Evropa është kontinenti që po ngrohet më shpejt në botë dhe dy mu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T12:19:29+00:00",
-      "dateStr": "10 Aug, 12:19",
-      "isNew": true,
-      "id": "abc91786364369"
+      "id": "she71786364784"
     },
     {
       "title": "U arrestua në vilën luksoze në Palasë, GJKKO refuzon garancinë pasurore, lë në burg Renardo Nallbanin",
@@ -298,7 +320,7 @@
       "date": "2026-08-10T12:06:33+00:00",
       "dateStr": "10 Aug, 12:06",
       "isNew": true,
-      "id": "she61786363593"
+      "id": "she81786363593"
     },
     {
       "title": "Kërkoi leje për varrimin e të ëmës, Burgjet refuzojnë Ardian Çapjan, policia nuk mori përsipër sigurinë e tij",
@@ -309,29 +331,7 @@
       "date": "2026-08-10T11:49:50+00:00",
       "dateStr": "10 Aug, 11:49",
       "isNew": true,
-      "id": "she71786362590"
-    },
-    {
-      "title": "Zbulimi i pallatit 5-katësh pa leje, Vangjel Tavo ‘shkrin’ IMT-në e Bashkisë së Himarës, e njëjta skemë në dy vite",
-      "link": "https://shekulli.com.al/2026/08/10/zbulimi-i-pallatit-5-katesh-pa-leje-vangjel-tavo-shkrin-imt-ne-e-bashkise-se-himares-e-njejta-skeme-ne-dy-vite/",
-      "description": "HIMARË- Kryetari i Bashkisë Himarë, Vangjel Tavo, ka vendosur të shkrijë strukturën e Inspektoratit të Mbrojtjes së Territorit (IMT), pas konstatimit të rasteve të ndërtimeve pa leje në territor. Bëhet fjalë për një pallat 5 katësh, që ishte ndërtuar pa leje në Himarë, për të cilin u shpallën në kër",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T11:40:35+00:00",
-      "dateStr": "10 Aug, 11:40",
-      "isNew": true,
-      "id": "she81786362035"
-    },
-    {
-      "title": "“E bëri Pakistani….”, Braçe: Kam 4 vite që kërkoj të hiqet TVSH për pecetat higjienike, dhe ditë pushimi gjatë ciklit",
-      "link": "https://shekulli.com.al/2026/08/10/e-beri-pakistani-brace-kam-4-vite-qe-kerkoj-te-hiqet-tvsh-per-pecetat-higjienike-dhe-dite-pushimi-gjate-ciklit/",
-      "description": "Deputeti socialist Erion Braçe, i është rikthyer propozimit të tij për heqjen e TVSH-së për produktet e higjienes së grave, duke marrë shkas nga një vendim i tillë që ka marrë së fundi Pakistani. Braçe shprehet se prej 4 vitesh, sa herë që kalon Paketa Fiskale në Kuvend, propozimi i tij është rrëzua",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T11:20:47+00:00",
-      "dateStr": "10 Aug, 11:20",
-      "isNew": true,
-      "id": "she91786360847"
+      "id": "she91786362590"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
