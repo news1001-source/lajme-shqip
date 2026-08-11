@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-08-11T21:40:55.630926+00:00",
+  "lastUpdated": "2026-08-11T22:36:17.277666+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Riaktivizohet zjarri në lagjen “Abaze” të Krujës",
+      "link": "https://24-ore.com/riaktivizohet-zjarri-ne-lagjen-abaze-te-krujes/",
+      "description": "Mbrëmjen e sotme zjarri në lagjen Abaze të Krujës është riaktivizuar sërish. Kreu i PD në Krujë, Aulon Kalaj, në një reagim në rrjetet sociale shkruan: “Riaktivizohet dhe një herë zjarri në lagjen “Abaze”, në Krujë! Banorët më thonë se autoritetet përkatëse nuk kanë shkuar ende në terren, tek vatra ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T22:19:08+00:00",
+      "dateStr": "11 Aug, 22:19",
+      "isNew": true,
+      "id": "24 01786486748"
+    },
+    {
+      "title": "Detajet e operacionit në Turqi, si e fsheh shërbimi sekret presidentin amerikan",
+      "link": "https://24-ore.com/detajet-e-operacionit-ne-turqi-si-e-fsheh-sherbimi-sekret-presidentin-amerikan/",
+      "description": "Më 8 korrik, presidenti amerikan Donald Trump hipi në avionin presidencial Air Force One përpara kamerave televizive, teksa largohej nga samiti i NATO-s në Turqi. Por kur avioni i madh Boeing u ngrit nga Ankaraja, presidenti thuhet se ishte larguar fshehurazi me një kamion të furnizimit ushqimor dre",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T22:18:51+00:00",
+      "dateStr": "11 Aug, 22:18",
+      "isNew": true,
+      "id": "24 11786486731"
+    },
+    {
+      "title": "10 uniformat sportive më ikonike të të gjitha kohërave",
+      "link": "https://24-ore.com/10-uniformat-sportive-me-ikonike-te-te-gjitha-koherave/",
+      "description": "Çfarë i bën disa uniforme sportive të paharrueshme? Ndonjëherë janë lidhjet me momente historike ose legjendat që i vunë në skenë; herë të tjera ndikojnë t...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T22:11:50+00:00",
+      "dateStr": "11 Aug, 22:11",
+      "isNew": true,
+      "id": "24 21786486310"
+    },
+    {
+      "title": "Vuçiqi nuk zbrapset për lumin Ibër, sulmon ashpër BE-në dhe Kosovën",
+      "link": "https://24-ore.com/vuciqi-nuk-zbrapset-per-lumin-iber-sulmon-ashper-be-ne-dhe-kosoven/",
+      "description": "Presidenti i Serbisë, Aleksandar Vuçiq, nuk po heq dorë nga retorika për ndryshimin e mundshëm të rrjedhës së lumit Ibër, pavarësisht reagimeve të ashpra nga Bashkimi Evropian, Shtetet e Bashkuara dhe Gjermania. Pas kritikave të Brukselit për deklaratat e tij, Vuçiq ka zgjedhur të mos tërhiqet, por ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T22:07:15+00:00",
+      "dateStr": "11 Aug, 22:07",
+      "isNew": true,
+      "id": "24 31786486035"
+    },
+    {
+      "title": "UASHINGTON – SHBA sulmon një tanker me flamur panamez që po i afrohej Iranit",
+      "link": "https://24-ore.com/uashington-shba-sulmon-nje-tanker-me-flamur-panamez-qe-po-i-afrohej-iranit/",
+      "description": "UASHINGTON, 11 gusht /ATSH-DPA/ – Ushtria amerikane ka sulmuar një tanker me flamur panamez në Gjirin e Omanit, me qëllim që ta pengonte të vazhdonte drejt një porti iranian, njoftoi sot Komanda Qendrore e SHBA-së (CENTCOM). Sipas CENTCOM, një helikopter i marinës amerikane lëshoi dy raketa “Hellfir",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T22:00:25+00:00",
+      "dateStr": "11 Aug, 22:00",
+      "isNew": true,
+      "id": "24 41786485625"
+    },
+    {
+      "title": "I kemi letrat në rregull",
+      "link": "https://24-ore.com/i-kemi-letrat-ne-rregull/",
+      "description": "E kisha parashikuar. Kur Shqipëria zuri vendin e nëntë në botë në një renditje për sigurinë kibernetike, shkrova se me këtë ritëm do të vinte shpejt dita që të dilnim të parët. Dhe ja ku erdhi. Sipas National Cyber Security Index, Shqipëria është sot e para në botë. Lajmin e dha vetë Edi Rama, me [&",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T21:29:04+00:00",
+      "dateStr": "11 Aug, 21:29",
+      "isNew": true,
+      "id": "24 51786483744"
+    },
     {
       "title": "‘Po digjet Lura’, këshilltari i Sigurisë në PD jep alarmin: Zjarri djeg gjithçka prej 8 orësh, situata jashtë kontrollit",
       "link": "https://shekulli.com.al/2026/08/11/po-digjet-lura-keshilltari-i-sigurise-ne-pd-jep-alarmin-zjarri-djeg-gjithcka-prej-8-oresh-situata-jashte-kontrollit/",
@@ -23,7 +89,7 @@
       "date": "2026-08-11T20:56:17+00:00",
       "dateStr": "11 Aug, 20:56",
       "isNew": true,
-      "id": "24 01786481777"
+      "id": "24 61786481777"
     },
     {
       "title": "Bobby Portis përplaset me Norman Powell pas komentit për shkëmbimin me Giannis: ‘Mbaje emrin tim larg gojës’",
@@ -34,7 +100,7 @@
       "date": "2026-08-11T20:50:48+00:00",
       "dateStr": "11 Aug, 20:50",
       "isNew": true,
-      "id": "24 11786481448"
+      "id": "24 71786481448"
     },
     {
       "title": "Takimi Rama-Soros në Dhërmi, gazetari: Kryeministri i takon publikisht miqtë, pa komplekse, pavarësisht ndarjeve politike",
@@ -45,7 +111,7 @@
       "date": "2026-08-11T20:47:26+00:00",
       "dateStr": "11 Aug, 20:47",
       "isNew": true,
-      "id": "24 21786481246"
+      "id": "24 81786481246"
     },
     {
       "title": "Vapa ndryshon tregun e banesave në Francë, blerësit kërkojnë shtëpi më të freskëta",
@@ -56,7 +122,7 @@
       "date": "2026-08-11T20:46:34+00:00",
       "dateStr": "11 Aug, 20:46",
       "isNew": true,
-      "id": "24 31786481194"
+      "id": "24 91786481194"
     },
     {
       "title": "Ibri ‘përmbyt’ Vuçiçin, presidenti serb kundër Komisionit Evropian: Po mbroni shërbëtorët shqiptarë, patëm komunikim të keq me KFOR-in",
@@ -70,17 +136,6 @@
       "id": "she11786481164"
     },
     {
-      "title": "BUKURESHT – Rumania shkatërron dy dronë pranë një projekti gazi në Detin e Zi",
-      "link": "https://24-ore.com/bukuresht-rumania-shkaterron-dy-drone-prane-nje-projekti-gazi-ne-detin-e-zi/",
-      "description": "– Zhytësit e ushtrisë rumune kanë shkatërruar me shpërthim të kontrolluar dy dronë të tipit “Gerbera” që po lëviznin në zonën ekonomike ekskluzive të Rumanisë në Detin e Zi, pranë projektit të madh të gazit “Neptun Deep”, sipas Reuters. Dronët u zbuluan nga një anije civile që punonte pranë projekti",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T20:46:02+00:00",
-      "dateStr": "11 Aug, 20:46",
-      "isNew": true,
-      "id": "24 41786481162"
-    },
-    {
       "title": "“Odisea” e Nolan pushton Greqinë, debat për Helenën e Trojës",
       "link": "https://shekulli.com.al/2026/08/11/odisea-e-nolan-pushton-greqine-debat-per-helenen-e-trojes/",
       "description": "Filmi “Odisea” i Christopher Nolan ka ngjallur interes të madh në Greqi, duke u kthyer në një fenomen kulturor. Sipas një sondazhi të Kapa Research, 71% e personave që e kanë parë filmin e vlerësojnë pozitivisht. Sondazhi tregon se rreth 90% e grekëve kanë dëgjuar për filmin, ndërsa 48% janë përfshi",
@@ -90,61 +145,6 @@
       "dateStr": "11 Aug, 20:35",
       "isNew": true,
       "id": "she21786480541"
-    },
-    {
-      "title": "24 vatra zjarri në një ditë. Tetë janë ende aktive",
-      "link": "https://24-ore.com/24-vatra-zjarri-ne-nje-dite-tete-jane-ende-aktive/",
-      "description": "Ministria e Mbrojtjes bën me dije se gjatë 12 orëve të fundit janë raportuar 23 vatra zjarri në të gjithë vendin, nga të cilat 8 vijojnë të jenë aktive. Në operacionet për përballimin e situatës janë angazhuar 26 automjete zjarrfikëse, 310 forca operacionale, 103 efektivë të Forcave të Armatosura, 3",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T20:31:32+00:00",
-      "dateStr": "11 Aug, 20:31",
-      "isNew": true,
-      "id": "24 51786480292"
-    },
-    {
-      "title": "Prapashtica: Parashikuam se Kosova do të bëhej Republikë ose Jugosllavia do të zhdukej nga harta",
-      "link": "https://24-ore.com/prapashtica-parashikuam-se-kosova-do-te-behej-republike-ose-jugosllavia-do-te-zhdukej-nga-harta/",
-      "description": "Abdullah Prapashtica, një nga figurat e Partisë Komuniste Marksiste-Leniniste të Shqiptarëve në Jugosllavi (PKMLShJ), ka deklaruar se zhvillimet e mëvonshme historike dëshmuan parashikimet e organizatës për të ardhmen e Kosovës dhe ish-Jugosllavisë. Në ciklin e intervistave “Dosjet”, në “Debat Plus”",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T20:26:20+00:00",
-      "dateStr": "11 Aug, 20:26",
-      "isNew": true,
-      "id": "24 61786479980"
-    },
-    {
-      "title": "Shqipëria e para për sigurinë kibernetike, Rama pas reagimeve: U vërsulën si tufa sorrash me turlilloj krrakrrash",
-      "link": "https://24-ore.com/shqiperia-e-para-per-sigurine-kibernetike-rama-pas-reagimeve-u-versulen-si-tufa-sorrash-me-turlilloj-krrakrrash/",
-      "description": "Kryeministri Edi Rama përmes një postimi në “Facebook” ka reaguar lidhur me renditjen e Shqipërisë e para në indeksin global të sigurisë kibernetike. Rama shkruan se kjo renditje ka sjellë reagime dhe urrejtje të cilat sipas tij janë tufa sorrash e korbash me turlilloj krrakrrash. Ndër të tjera, Ram",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T20:22:26+00:00",
-      "dateStr": "11 Aug, 20:22",
-      "isNew": true,
-      "id": "24 71786479746"
-    },
-    {
-      "title": "Zjarr në një sipërfaqe pyjore mbi fshatin Sinicë në Devoll, zjarrfikësit në vendngjarje (VIDEO)",
-      "link": "https://24-ore.com/zjarr-ne-nje-siperfaqe-pyjore-mbi-fshatin-sinice-ne-devoll-zjarrfikesit-ne-vendngjarje-video/",
-      "description": "Një zjarr ka përfshirë pasditen e kësaj të martë një sipërfaqe pyjore në zonën e njohur si “Lëndina e Madhe”, mbi fshatin Sinicë në Devoll. Pas marrjes së njoftimit për flakët nga shërbimi zjarrfikës i Bashkisë Devoll, drejt zonës është nisur një ekip prej 11 zjarrfikësish dhe 3 punonjësish të shërb",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T20:22:11+00:00",
-      "dateStr": "11 Aug, 20:22",
-      "isNew": true,
-      "id": "24 81786479731"
-    },
-    {
-      "title": "Venezuela vendos shërbime konsullore me Izraelin pas një ndërprerjeje diplomatike 17-vjeçare",
-      "link": "https://24-ore.com/venezuela-vendos-sherbime-konsullore-me-izraelin-pas-nje-nderprerjeje-diplomatike-17-vjecare/",
-      "description": "Qeveria e Venezuelës njoftoi këtë të martë se ka rënë dakord me Izraelin për të krijuar një mekanizëm koordinimi për të mundësuar shërbimet konsullore, një ndryshim ‘dramatik’ pasi ajo prishi marrëdhëniet me Izraelin në vitin 2009. Venezuela, e cila i dha fund marrëdhënieve 17 vjet më parë për shkak",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T20:21:58+00:00",
-      "dateStr": "11 Aug, 20:21",
-      "isNew": true,
-      "id": "24 91786479718"
     },
     {
       "title": "UNESCO: 2,4 milionë vajza afgane të përjashtuara nga shkollimi i mesëm",
