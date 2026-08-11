@@ -1,161 +1,293 @@
 {
-  "lastUpdated": "2026-08-11T08:09:55.447810+00:00",
+  "lastUpdated": "2026-08-11T09:55:46.464801+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
+      "title": "Çfarë ndodhi me Pacollin? Biznesmeni zbutet dhe i shtrin dorën qeverisë shqiptare: I besoj tani ata që më thoshin është ‘kurth i planifikuar’",
+      "link": "https://shekulli.com.al/2026/08/11/cfare-ndodhi-me-pacollin-biznesmeni-zbutet-dhe-i-shtrin-doren-qeverise-shqiptare-i-besoj-tani-ata-qe-me-thoshin-eshte-kurth-i-planifikuar/",
+      "description": "TIRANË&#8211; Biznesmeni Behgjet Pacolli ka ende shpresa në gjetjen e një marrëveshje me qeverinë shqiptare, pavarësisht nisjes së procedurave për anulimin e kontratës koncensionare për Aeroportin e Vlorës. Në një postim të bërë së fundi në rrjetet sociale, Pacolli shfaqet me tone më të buta, e madj",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-11T09:40:39+00:00",
+      "dateStr": "11 Aug, 09:40",
+      "isNew": true,
+      "id": "she01786441239"
+    },
+    {
+      "title": "OBRM-PDUKM: Zaev dikton çmimin e blerjes së specit të kuq",
+      "link": "https://24-ore.com/obrm-pdukm-zaev-dikton-cmimin-e-blerjes-se-specit-te-kuq/",
+      "description": "Pas tre ditësh protestash nga fermerët në Strumicë për çmimin e ulët prej 25 denarësh për specin e kuq, partia në pushtet OBRM-PDUKM iu përgjigj kritikave nga LSDM duke thënë se biznesi familjar i ish-kryeministrit Zoran Zaev dikton çmimin. &#8220;Është hipokrite që LSD po ndërhyn në një luftë dhe l",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T09:36:12+00:00",
+      "dateStr": "11 Aug, 09:36",
+      "isNew": true,
+      "id": "24 01786440972"
+    },
+    {
+      "title": "Mulliqi: Kosova në NATO do ta stabilizonte Ballkanin – dialogu strategjik me SHBA-në duhet të rifillojë",
+      "link": "https://24-ore.com/mulliqi-kosova-ne-nato-do-ta-stabilizonte-ballkanin-dialogu-strategjik-me-shba-ne-duhet-te-rifilloje/",
+      "description": "Përfaqësuesi i organizatës “Albanians for America”, Gino Mulliqi, ka thënë se lidhjet e drejtpërdrejta me kongresmenë dhe senatorë amerikanë janë thelbësore për avancimin e çështjeve që lidhen me Kosovën në Washington. Në një intervistë në “Përballje Podcast”, Mulliqi tha se një pjesë e rëndësishme ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T09:35:52+00:00",
+      "dateStr": "11 Aug, 09:35",
+      "isNew": true,
+      "id": "24 11786440952"
+    },
+    {
+      "title": "Flakët rrezikojnë kurorën e gjelbër të Pukës, dyshohet për zjarrvënie të qëllimshme",
+      "link": "https://24-ore.com/flaket-rrezikojne-kuroren-e-gjelber-te-pukes-dyshohet-per-zjarrvenie-te-qellimshme/",
+      "description": "Kurora e gjelbër e qytetit të Pukës është rrezikuar seriozisht mëngjesin e kësaj të marte në 11 gusht, pasi një vatër zjarri përfshiu një pjesë të zonës së pyllëzuar pranë qytetit. Dyshimet paraprake janë se zjarri mund të jetë shkaktuar qëllimisht, ndërsa për ngjarjen ka nisur një hetim nga autorit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T09:32:48+00:00",
+      "dateStr": "11 Aug, 09:32",
+      "isNew": true,
+      "id": "24 21786440768"
+    },
+    {
+      "title": "Çfarë ndodh nëse obeziteti lihet i patrajtuar",
+      "link": "https://24-ore.com/cfare-ndodh-nese-obeziteti-lihet-i-patrajtuar/",
+      "description": "Dr. Megi Lekbello, e ftuar në ciklin e podcasteve “Obeziteti – Le të flasim për të”, ka folur për pasojat që mund të sjellë në organizëm obeziteti, nëse lihet i patrajtuar. Mjekja theksoi se obeziteti duhet konsideruar dhe trajtuar si një sëmundje kronike, njësoj si hipertensioni apo diabeti, duke n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T09:31:16+00:00",
+      "dateStr": "11 Aug, 09:31",
+      "isNew": true,
+      "id": "24 31786440676"
+    },
+    {
+      "title": "Infantino, komplot kundër Platini/ Të tjera akuza për presidentin e FIFA, “lojë e pisët” politike",
+      "link": "https://abcnews.al/infantino-komplot-kunder-platini-te-tjera-akuza-per-presidentin-e-fifa-loje-e-piset-politike/",
+      "description": "Me një kapitull të ri që shpaloset çdo ditë, vera e Gianni Infantinos po bëhet më e nxehtë dhe pozicioni i tij në krye të FIFA duket gjithnjë e më i pasigurt. Detajet e reja të zbuluara nga “The Telegraph” në lidhje me “skandalin rozë” kur ishte Sekretar i Përgjithshëm i UEFA e kanë dëmtuar [...]Rea",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T09:27:53+00:00",
+      "dateStr": "11 Aug, 09:27",
+      "isNew": true,
+      "id": "abc01786440473"
+    },
+    {
+      "title": "Shantazhoi një person nëpërmjet hapjes së profileve-fake në rrjetet sociale, arrestohet 24-vjeçari",
+      "link": "https://24-ore.com/shantazhoi-nje-person-nepermjet-hapjes-se-profileve-fake-ne-rrjetet-sociale-arrestohet-24-vjecari/",
+      "description": "Këtë të martë policia e shtetit bën me dije se ka vendosur në pranga një 24 vjeçar, banues në Tiranë i cili kishte përndjekur dhe shantazhuar një person nëpërmjet profileve të falsifikuara në rrjete sociale, me qëllim për t’i marrë një shumë parash. Pas marrjes së një njoftimi se 24 vjeçari , në mën",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T09:23:05+00:00",
+      "dateStr": "11 Aug, 09:23",
+      "isNew": true,
+      "id": "24 41786440185"
+    },
+    {
+      "title": "Ministri i Jashtëm i Serbisë, Marko Gjuric i përgjigjet Ramës: Shqipëria nuk ka të drejtë të ndërhyjë, lëreni diplomacinë e altoparlantëve",
+      "link": "https://24-ore.com/ministri-i-jashtem-i-serbise-marko-gjuric-i-pergjigjet-rames-shqiperia-nuk-ka-te-drejte-te-nderhyje-lereni-diplomacine-e-altoparlanteve/",
+      "description": "Ministri i Jashtëm i Serbisë, Marko Gjuric, i është përgjigjur deklaratave të Kryeministrit Edi Rama lidhur me lumin Ibër dhe zhvillimet në veri të Kosovës, duke e akuzuar qeverinë e Albin Kurtit për “shkatërrim sistematik” të pronave të serbëve. Në një reagim të gjatë në rrjetin social X, Gjuric e ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T09:22:47+00:00",
+      "dateStr": "11 Aug, 09:22",
+      "isNew": true,
+      "id": "24 51786440167"
+    },
+    {
+      "title": "Ferit Hoxha i përgjigjet Djuric: Lumenjtë duhet të mbartin ujë, jo kërcënime",
+      "link": "https://24-ore.com/ferit-hoxha-i-pergjigjet-djuric-lumenjte-duhet-te-mbartin-uje-jo-kercenime/",
+      "description": "Ministri i Jashtëm i Shqipërisë, Ferit Hoxha, i është përgjigjur deklaratës së homologut serb, Marko Djuric, duke e zhvendosur debatin te nevoja për dialog, bashkëpunim dhe ruajtjen e paqes në rajon. Në reagimin e tij, Hoxha vlerëson tonin më të qetë të mesazhit të ministrit serb, ndërsa thekson se ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T09:22:32+00:00",
+      "dateStr": "11 Aug, 09:22",
+      "isNew": true,
+      "id": "24 61786440152"
+    },
+    {
+      "title": "Gjykata Supreme e Rusisë ndalon regjistrimin e partisë Yabloko në zgjedhjet parlamentare",
+      "link": "https://24-ore.com/gjykata-supreme-e-rusise-ndalon-regjistrimin-e-partise-yabloko-ne-zgjedhjet-parlamentare/",
+      "description": "Gjykata Supreme e Rusisë anuloi të hënën regjistrimin e të vetmes parti liberale kundër luftës, Yabloko, për zgjedhjet parlamentare të vendit, të njohura edhe si zgjedhjet e Dumës Shtetërore. Vendimi erdhi pasi partia nacionaliste pro-Kremlinit, Rodina, ngriti një padi më 7 gusht, duke kërkuar të la",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T09:22:15+00:00",
+      "dateStr": "11 Aug, 09:22",
+      "isNew": true,
+      "id": "24 71786440135"
+    },
+    {
+      "title": "Shkatërrohet depoja me furnizime mjekësore e OBSH-së në Ukrainë pas sulmeve gjatë natës",
+      "link": "https://24-ore.com/shkaterrohet-depoja-me-furnizime-mjekesore-e-obsh-se-ne-ukraine-pas-sulmeve-gjate-nates/",
+      "description": "Një depo humanitare e Organizatës Botërore të Shëndetësisë që mbante furnizime mjekësore me vlerë rreth 500,000 dollarë është shkatërruar, ndërkohë që Kievi dhe Moska kanë shkëmbyer sulme me raketa gjatë fundjavës. Sipas zyrës evropiane të OBSH-së, kolapsi i ndërtesës erdhi pasi ishte goditur dy her",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T09:21:52+00:00",
+      "dateStr": "11 Aug, 09:21",
+      "isNew": true,
+      "id": "24 81786440112"
+    },
+    {
+      "title": "Aksident i dyfishtë në aksin Fier-Patos/ Plagosen dy persona, dërgohen në spital",
+      "link": "https://abcnews.al/aksident-i-dyfishte-ne-aksin-fier-patos-plagosen-dy-persona-dergohen-ne-spital/",
+      "description": "Një aksident është regjistruar mesditën e sotme në aksin rrugor Fier–Patos, në fshatin Mbyet, në vendin e quajtur “Çezma e Mbyetit”. Në aksident janë përfshirë dy automjete, një Benz dhe një Audi. Në automjetin Audi udhëtonin edhe dy pasagjerë, të cilët, pas përplasjes, janë transportuar në spital d",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T09:21:35+00:00",
+      "dateStr": "11 Aug, 09:21",
+      "isNew": true,
+      "id": "abc11786440095"
+    },
+    {
+      "title": "Zbulohet një rrjet trafikimi koralesh në ishullin e Egjeut, ngrihen dyshime për një sasi me vlerë rreth 800.000 euro",
+      "link": "https://24-ore.com/zbulohet-nje-rrjet-trafikimi-koralesh-ne-ishullin-e-egjeut-ngrihen-dyshime-per-nje-sasi-me-vlere-rreth-800-000-euro/",
+      "description": "Autoritetet greke kanë arrestuar anëtarë të një rrjeti italian të kontrabandës së koraleve, të kapur në ishullin e Egjeut, Skopelos. Shtetasit italianë besohet se kanë hequr korale të kuqe nga shtrati i detit me një vlerë prej rreth 800,000 eurosh, me ngarkesën e cila planifikohej të shkonte drejt I",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T09:21:35+00:00",
+      "dateStr": "11 Aug, 09:21",
+      "isNew": true,
+      "id": "24 91786440095"
+    },
+    {
+      "title": "Durrës/ Arrestohet 29-vjeçari suedez me armë zjarri, një tjetër në pranga pasi tentoi të vidhte një kasafortë",
+      "link": "https://abcnews.al/durres-arrestohet-29-vjecari-suedez-me-arme-zjarri-nje-tjeter-ne-pranga-pasi-tentoi-te-vidhte-nje-kasaforte/",
+      "description": "Dy faza të tjera të operacionit të koduar “Siguria” janë finalizuar nga shërbimet e Stacionit të Policisë Plazh në Durrës, duke goditur një rast të armëmbajtjes pa leje dhe parandaluar një tentativë vjedhjeje. Gjatë kontrolleve të intensifikuara, patrullimeve dhe punës informative në terren, në kuad",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T09:19:14+00:00",
+      "dateStr": "11 Aug, 09:19",
+      "isNew": true,
+      "id": "abc21786439954"
+    },
+    {
+      "title": "Riaktivizohet zjarri në Drenie të Mallakastrës, vështirësi në ndërhyrje për shkak të terrenit",
+      "link": "https://abcnews.al/riaktivizohet-zjarri-ne-drenie-te-mallakastres-veshtiresi-ne-nderhyrje-per-shkak-te-terrenit/",
+      "description": "Riaktivizohet zjarri në Drenie, flakët përhapen në pjesën veriore – vështirësi në ndërhyrje për shkak të terrenit Zjarri në zonën e Drenies është riaktivizuar gjatë ditës së sotme, kryesisht në pjesën veriore të vatrës, në drejtim të fshatit Drenie. Për përballimin e situatës dhe normalizimin e gjen",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T09:17:36+00:00",
+      "dateStr": "11 Aug, 09:17",
+      "isNew": true,
+      "id": "abc31786439856"
+    },
+    {
+      "title": "Ish-presidenti i Sirisë, Bashar al-Assad dënohet me vdekje për krime lufte dhe krime kundër njerëzimit",
+      "link": "https://abcnews.al/ish-presidenti-i-sirise-bashar-al-assad-denohet-me-vdekje-per-krime-lufte-dhe-krime-kunder-njerezimit/",
+      "description": "Ish-presidenti i Sirisë, Bashar al-Assad, është dënuar me vdekje në mungesë nga një gjykatë siriane, nën akuzat për krime kundër njerëzimit dhe krime lufte. Assad u largua nga Damasku dhe u arratis drejt Moskës në dhjetor të vitit 2024, pasi regjimi i tij u rrëzua pas një ofensive të shpejtë nga for",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T09:17:36+00:00",
+      "dateStr": "11 Aug, 09:17",
+      "isNew": true,
+      "id": "abc41786439856"
+    },
+    {
+      "title": "Anulohet fluturimi në Kanada, fëmija refuzoi të vendoste rripin e sigurimit",
+      "link": "https://abcnews.al/anulohet-fluturimi-ne-kanada-femija-refuzoi-te-vendoste-rripin-e-sigurimit/",
+      "description": "Anulimi i një fluturimi në Kanada, pasi një fëmijë refuzoi të vendoste rripin e sigurimit, ka rindezur debatin mbi sjelljen dhe rregullat e sigurisë për fëmijët që udhëtojnë me avion. Fluturimi i kompanisë ajrore Porter Airlines, i cili do të nisej nga Victoria drejt Torontos më 6 gusht, u detyrua t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T09:15:37+00:00",
+      "dateStr": "11 Aug, 09:15",
+      "isNew": true,
+      "id": "abc51786439737"
+    },
+    {
+      "title": "Dronë të paidentifikuar mbi bazën ushtarake gjermane",
+      "link": "https://abcnews.al/drone-te-paidentifikuar-mbi-bazen-ushtarake-gjermane/",
+      "description": "Dy dronë u konstatuan mbi një bazë ushtarake në perëndim të Gjermanisë, vetëm pak ditë pasi një pajisje eksplozive u gjet në aeroportin e Lajpcigut. Forcat e armatosura gjermane konfirmuan se dronët u vunë re mbrëmjen e së enjtes në bazën Mechernich, në afërsi të qytetit të Bonit, ku ndodhen përbërë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T09:08:34+00:00",
+      "dateStr": "11 Aug, 09:08",
+      "isNew": true,
+      "id": "abc61786439314"
+    },
+    {
+      "title": "Trump u largua nga Turqia me një fluturim sekret mes kërcënimeve iraniane",
+      "link": "https://abcnews.al/trump-u-largua-nga-turqia-me-nje-fluturim-sekret-mes-kercenimeve-iraniane/",
+      "description": "Presidenti amerikan Donald Trump u largua fshehurazi nga Turqia me një avion ushtarak muajin e kaluar mes një kërcënimi të dyshuar për vrasje nga Irani kundër tij ndërsa Shtëpia e Bardhë tha publikisht se ai ishte në bordin e &#8220;Air Force One&#8221;, njoftuan mediat amerikane të hënën, duke citu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T09:01:09+00:00",
+      "dateStr": "11 Aug, 09:01",
+      "isNew": true,
+      "id": "abc71786438869"
+    },
+    {
+      "title": "Izraeli mban eshtrat e rreth 1,700 palestinezëve për shkëmbime të mundshme në të ardhmen",
+      "link": "https://abcnews.al/izraeli-mban-eshtrat-e-rreth-1700-palestinezeve-per-shkembime-te-mundshme-ne-te-ardhmen/",
+      "description": "Izraeli po mban trupat e rreth 1,700 palestinezëve, me synimin që ato të mund të përdoren në shkëmbime të ardhshme, pavarësisht se aktualisht nuk ka pengje izraelite që mbahen nga Hamasi. Sipas raportimit, shifra prej rreth 1,700 trupash është diskutuar së fundmi brenda strukturave të sigurisë izrae",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T08:56:14+00:00",
+      "dateStr": "11 Aug, 08:56",
+      "isNew": true,
+      "id": "abc81786438574"
+    },
+    {
+      "title": "Mrekulli mes rrënojave në Kolumbi! Nxirret gjallë foshnja 6-muajshe dhe nëna e saj, momentet emocionuese",
+      "link": "https://shekulli.com.al/2026/08/11/mrekulli-mes-rrenojave-ne-kolumbi-nxirret-gjalle-foshnja-6-muajshe-dhe-nena-e-saj-momentet-emocionuese/",
+      "description": "Mes tragjedisë së shkaktuar nga tërmeti i fuqishëm me magnitudë 7.4, që goditi Kolumbinë më 10 gusht, një moment emocionues në Cali është kthyer në simbol shprese. Ekipet e kërkim-shpëtimit kanë arritur të nxjerrin të gjallë nga rrënojat e një ndërtese të shembur një foshnjë vetëm gjashtë muajshe, e",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-11T08:53:11+00:00",
+      "dateStr": "11 Aug, 08:53",
+      "isNew": true,
+      "id": "she11786438391"
+    },
+    {
+      "title": "“Donte të hidhte në erë një qendër tregtare”, dëbohet nga Italia 22-vjeçari shqiptar, i dyshuar për radikalizim",
+      "link": "https://shekulli.com.al/2026/08/11/donte-te-hidhte-ne-ere-nje-qender-tregtare-debohet-nga-italia-22-vjecari-shqiptar-i-dyshuar-per-radikalizim/",
+      "description": "ITALI- Një 22-vjeçar shqiptar, identiteti i të cilit nuk bëhet i ditur nga mediat, është dëbuar nga Italia pasi autoritetet e konsideruan të rrezikshëm për sigurinë kombëtare dhe dyshuan se ishte radikalizuar online, ndërsa kishte nisur të interesohej për ndërtimin e një bombe. Sipas mediave italian",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-11T08:44:32+00:00",
+      "dateStr": "11 Aug, 08:44",
+      "isNew": true,
+      "id": "she21786437872"
+    },
+    {
+      "title": "Prodhim i 2026! Mbërrin në portin e Durrësit superjahti luksoz, do furnizohet me naftë",
+      "link": "https://shekulli.com.al/2026/08/11/prodhim-i-2026-mberrin-ne-portin-e-durresit-superjahti-luksoz-do-furnizohet-me-nafte/",
+      "description": "Në portin e Durrësit, mëngjesin e sotëm është ankoruar një superjaht luksoz, prodhim i vitit të fundit. Bëhet fjalë për mjetin lundrues M/Y Deep Blue, superjaht i ri i ndërtuar në kantierin Lürssen në Gjermani në vitin 2026. Ai ka një gjatësi rreth 134 m dhe kushtin rreth 450 milionë USD Pronari i s",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-11T08:38:37+00:00",
+      "dateStr": "11 Aug, 08:38",
+      "isNew": true,
+      "id": "she31786437517"
+    },
+    {
+      "title": "Ndërtimi i objektit 5-katësh në Qeparo/ Arrestohen dy punonjës policie, dy të tjerë shpallen në kërkim pasi nuk u gjetën në banesa",
+      "link": "https://shekulli.com.al/2026/08/11/ndertimi-i-objektit-5-katesh-ne-qeparo-arrestohen-dy-punonjes-policie-dy-te-tjere-shpallen-ne-kerkim-pasi-nuk-u-gjeten-ne-banesa/",
+      "description": "Lejimi i ndërtimit të një objekti 5 katësh, në zonën e Qeparoit, pjesë e bashkisë së Himarës, ka sjellë furtunë në një sërë institucionesh. Pas shpalljes në kërkim të 3 punonjësve të IMT-së së Himarës, pasoja ka pasur dhe në radhët e punonjësve të policisë, që kanë qenë në detyrë, në momentin e ndër",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-11T08:25:16+00:00",
+      "dateStr": "11 Aug, 08:25",
+      "isNew": true,
+      "id": "she41786436716"
+    },
+    {
+      "title": "Vullkani Etna shpërthen sërish, mbyllet hapësira ajrore mbi Katania",
+      "link": "https://abcnews.al/vullkani-etna-shperthen-serish-mbyllet-hapesira-ajrore-mbi-katania/",
+      "description": "Autoritetet pezulluan fluturimet për në aeroportin e Katanias pas një shpërthimi të ri të vullkanit Etna që nxori hi kilometra larg. Aeroporti i Katanias është qendra ajrore më e ngarkuar e Siçilisë dhe ka pezulluar të gjitha mbërritjet. “Për shkak të aktivitetit shpërthyes të Etnës dhe lëshimit të ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T08:25:04+00:00",
+      "dateStr": "11 Aug, 08:25",
+      "isNew": true,
+      "id": "abc91786436704"
+    },
+    {
       "title": "Përndiqte dhe kanoste një person përmes rrjeteve sociale, arrestohet 24-vjeçari në Tiranë, momenti kur Policia e shtrin në mes të rrugës",
       "link": "https://shekulli.com.al/2026/08/11/perndiqte-dhe-kanoste-nje-person-permes-rrjetet-sociale-arrestohet-24-vjecari-ne-tirane-momenti-kur-policia-e-shtrin-ne-mes-te-rruges/",
-      "description": "Përndoqi dhe kanosi një shtetas, nëpërmjet profileve të falsifikuara në rrjete sociale, me qëllim për t’i marrë një shumë parash, arrestohet në flagrancë 24-vjeçari. Pas marrjes njoftim se një shtetas, në mënyrë të përsëritur, përndiqte dhe kanoste nëpërmjet platformave virtuale një shtetas, duke i ",
+      "description": "Një 24-vjeçar është arrestuar nga Policia e Tiranës pasi dyshohet se përndiqte dhe kërcënonte një person përmes rrjeteve sociale, me qëllim për t’i marrë para. Sipas policisë, i riu, i identifikuar si Klevis Gega, përdorte profile të rreme në rrjetet sociale për të ushtruar presion dhe për të kërkua",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-08-11T08:07:28+00:00",
       "dateStr": "11 Aug, 08:07",
       "isNew": true,
-      "id": "she01786435648"
-    },
-    {
-      "title": "BDI: Qeveria publikoi spotin e pavarësisë ku përjashtoheshin shqiptarët dhe arritjet strategjike të vendit",
-      "link": "https://24-ore.com/bdi-qeveria-publikoi-spotin-e-pavaresise-ku-perjashtoheshin-shqiptaret-dhe-arritjet-strategjike-te-vendit/",
-      "description": "Qeveria ka publikuar spotin me të cilin synon të shënojë 35-vjetorin e pavarësisë së shtetit. Por në vend që ky jubile të përfaqësojë të gjithë qytetarët dhe rrugëtimin e përbashkët të shtetit, Qeveria ka zgjedhur të paraqesë një version ekskluzivisht maqedonas të tij, thuhet në reagimin e sotëm të ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T08:04:57+00:00",
-      "dateStr": "11 Aug, 08:04",
-      "isNew": true,
-      "id": "24 01786435497"
-    },
-    {
-      "title": "E bujshme nga Argjentina, pas vdekjes së babait Lionel Messi merr pushim të pacaktuar në afat! I duhet kohë për të rikuper",
-      "link": "https://24-ore.com/e-bujshme-nga-argjentina-pas-vdekjes-se-babait-lionel-messi-merr-pushim-te-pacaktuar-ne-afat-i-duhet-kohe-per-te-rikuper/",
-      "description": "Sipas ‘Footmercato’ dhe shtypit argjentinas, Lionel Messi ka vendosur të pezullojë për një kohë të pacaktuar karrierën e tij si futbollist, në mënyrë që t’i përkushtohet familjes pas vdekjes së fundit të babait të tij, Jorge. Jorge Messi, i cili ndërroi jetë në moshën 68 vjeç në Rosario pas një bete",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T08:01:14+00:00",
-      "dateStr": "11 Aug, 08:01",
-      "isNew": true,
-      "id": "24 11786435274"
-    },
-    {
-      "title": "Riaktivizohet vatra e zjarrit në Drenie, flakë të fuqishme dhe terren i vështirë! 40 efektivë dhe 5 zjarrfikëse në opera",
-      "link": "https://24-ore.com/riaktivizohet-vatra-e-zjarrit-ne-drenie-flake-te-fuqishme-dhe-terren-i-veshtire-40-efektive-dhe-5-zjarrfikese-ne-opera/",
-      "description": "Zjarret në Shqipëri janë kthyer në rrezik për shkak të riaktivizimit të tyre, por edhe aktivitetit të piromanëve. Gjatë ditës së sotme është riaktivizuar vatra e zjarrit në Drenie të Patosit, në pjesën veriore të zonës, në drejtim të fshatit. Në terren janë angazhuar 5 mjete zjarrfikëse, 25 efektivë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T08:00:40+00:00",
-      "dateStr": "11 Aug, 08:00",
-      "isNew": true,
-      "id": "24 21786435240"
-    },
-    {
-      "title": "​Franca përgatitet për valën e re të të nxehtit, parashikohen temperatura deri 40 gradë Celsius",
-      "link": "https://abcnews.al/franca-pergatitet-per-valen-e-re-te-te-nxehtit-parashikohen-temperatura-deri-40-grade-celsius/",
-      "description": "Franca po përgatitet për valën e pestë të të nxehtit që nga qershori, ndërsa 22 departamente janë vendosur në alarm portokalli për shkak të temperaturave të larta. Shërbimi kombëtar meteorologjik i Francës, “Météo-France”, ka lëshuar alarmin për 22 departamente, pasi temperaturat pritet t’i afrohen ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T07:53:36+00:00",
-      "dateStr": "11 Aug, 07:53",
-      "isNew": true,
-      "id": "abc01786434816"
-    },
-    {
-      "title": "Dron shpërthyes në aeroportin e Leipzigut, gjenden gjurmët e ADN-së",
-      "link": "https://24-ore.com/dron-shperthyes-ne-aeroportin-e-leipzigut-gjenden-gjurmet-e-adn-se/",
-      "description": "Pas zbulimit të një droni shpërthyes pranë një avioni ukrainas Antonov në aeroportin e Leipzig, janë gjetur gjurmë ADN-je. Sipas gjetjeve të reja, të raportuara nga e përjavshmja Die Zeit , pamjet e kamerave të sigurisë tregojnë se rreth orës 19:30 droni fluturoi qëllimisht drejt avionit ukrainas të",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T07:50:33+00:00",
-      "dateStr": "11 Aug, 07:50",
-      "isNew": true,
-      "id": "24 31786434633"
-    },
-    {
-      "title": "Trump nënshkruan urdhër që kërkon më pak vaksina për fëmijë",
-      "link": "https://24-ore.com/trump-nenshkruan-urdher-qe-kerkon-me-pak-vaksina-per-femije/",
-      "description": "Urdhri rekomandon dhënien e të gjitha vaksinave të fëmijërisë në vizita të ndara sa herë që është e mundur, gjë që më parë ishte bllokuar nga një gjykatës federal, dhe ndarjen e vaksinës kundër fruthit, shytave dhe rubeolës në tre injeksione të veçanta të veçanta. Presidenti i SHBA-së, Donald Trump,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T07:50:20+00:00",
-      "dateStr": "11 Aug, 07:50",
-      "isNew": true,
-      "id": "24 41786434620"
-    },
-    {
-      "title": "Operacioni i pabesueshëm i “arratisjes” së Trump nga Turqia: Si u fsheh në një kontejner dhe fluturoi me avion ushtarak",
-      "link": "https://24-ore.com/operacioni-i-pabesueshem-i-arratisjes-se-trump-nga-turqia-si-u-fsheh-ne-nje-kontejner-dhe-fluturoi-me-avion-ushtarak/",
-      "description": "Donald Trump u largua në fshehtësi nga Turqia drejt Britanisë muajin e kaluar me një avion ushtarak, ndërsa Shtëpia e Bardhë la të kuptohej se presidenti amerikan po udhëtonte me Air Force One. Operacioni i pazakontë u ndërmor për shkak të një kërcënimi të besueshëm iranian për atentat ndaj Trumpit,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T07:50:09+00:00",
-      "dateStr": "11 Aug, 07:50",
-      "isNew": true,
-      "id": "24 51786434609"
-    },
-    {
-      "title": "Programi Kombëtar i Praktikave të Punës, 1207 vende për të rinjtë në administratë dhe bashki",
-      "link": "https://24-ore.com/programi-kombetar-i-praktikave-te-punes-1207-vende-per-te-rinjte-ne-administrate-dhe-bashki/",
-      "description": "Prej një dekade, Programi Kombëtar i Praktikave të Punës u ka krijuar të rinjve mundësinë të fitojnë përvojë profesionale, të zhvillojnë aftësitë e tyre dhe të hedhin hapat e parë drejt një karriere të suksesshme. Ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja kujtoi të rinjtë se, thirrja",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T07:48:44+00:00",
-      "dateStr": "11 Aug, 07:48",
-      "isNew": true,
-      "id": "24 61786434524"
-    },
-    {
-      "title": "“Sot nis një kapitull i ri”- Gjimshiti bëhet zyrtarisht “sheik”, kalon në Arabinë Saudite! Mesazhi: Atalanta gjithnj",
-      "link": "https://24-ore.com/sot-nis-nje-kapitull-i-ri-gjimshiti-behet-zyrtarisht-sheik-kalon-ne-arabine-saudite-mesazhi-atalanta-gjithnj/",
-      "description": "Pas tetë vite e gjysmë, 334 ndeshjeve, lojtari i 4-ët me më shumë ndeshje në historinë e Atalantës, Berat Gjimshiti largohet nga Bergamo për të nisur një aventurë të re në Arabinë Saudite. Qendërmbrojtësi kuqezi transferohet tek ekipi i Al-Diriyah me titull definitiv për 3 milionë euro duke firmosur",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T07:47:23+00:00",
-      "dateStr": "11 Aug, 07:47",
-      "isNew": true,
-      "id": "24 71786434443"
-    },
-    {
-      "title": "HARTA e zjarreve në Shqipëri, Ministria e Mbrojtjes bën bilancin, 25 vatra në 24 orë: Aksion me 365 forca dhe 4 helikopter�",
-      "link": "https://24-ore.com/harta-e-zjarreve-ne-shqiperi-ministria-e-mbrojtjes-ben-bilancin-25-vatra-ne-24-ore-aksion-me-365-forca-dhe-4-helikopter%ef%bf%bd/",
-      "description": "Rrezikshmëria e zjarreve në Shqipëri mbetet e lartë dhe orë pas ore shfaqen edhe vatra të reja. Gjatë 24 orëve të fundit janë raportuar 25 vatra zjarri në të gjithë vendin, pjesa më e madhe e të cilave janë shuar. Aktualisht, 5 vatra mbeten aktive, ndërsa një zonë vijon të jetë nën monitorim. Minist",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T07:46:34+00:00",
-      "dateStr": "11 Aug, 07:46",
-      "isNew": true,
-      "id": "24 81786434394"
-    },
-    {
-      "title": "Sulmet ruse vrasin 9 persona në Ukrainë/ Kievi kundërpërgjigjet duke goditur objektiva energjetike në Rusi",
-      "link": "https://abcnews.al/sulmet-ruse-vrasin-9-persona-ne-ukraine-kievi-kunderpergjigjet-duke-goditur-objektiva-energjetike-ne-rusi/",
-      "description": "Të paktën nëntë persona kanë humbur jetën gjatë natës si pasojë e sulmeve ruse ndaj Ukrainës, ndërsa Kievi ka vijuar sulmet me dronë me rreze të gjatë veprimi në territorin e Rusisë. Në rajonin e Zaporizhzhias, sulmet ruse kanë shkaktuar vdekjen e gjashtë personave, ndërsa tre të tjerë janë vrarë në",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T07:46:28+00:00",
-      "dateStr": "11 Aug, 07:46",
-      "isNew": true,
-      "id": "abc11786434388"
-    },
-    {
-      "title": "Çmimet e derivateve, shtrenjtohet nafta",
-      "link": "https://24-ore.com/cmimet-e-derivateve-shtrenjtohet-nafta/",
-      "description": "Ministria e Industrisë, Tregtisë dhe Ndërmarrësisë ka publikuar sërish çmimet maksimale të derivateve për sot dhe nesër. Sipas njoftimit, çmimi i naftës edhe për sot është 1.64 euro-cent për litër, në krahasim me një ditë më parë që ishte 1.63 euro-cent. Ndërsa çmimi i benzinës është është njëjtë si",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T07:39:50+00:00",
-      "dateStr": "11 Aug, 07:39",
-      "isNew": true,
-      "id": "24 91786433990"
-    },
-    {
-      "title": "Situata me zjarret/ Mbrojtja: Shuhen flakët në Mallakastër, aktualisht aktive 5 vatra në vend",
-      "link": "https://abcnews.al/situata-me-zjarret-mbrojtja-shuhen-flaket-ne-mallakaster-aktualisht-aktive-5-vatra-ne-vend/",
-      "description": "Ministria e Mbrojtjes informon se gjatë 24 orëve të fundit janë raportuar 25 vatra zjarri, nga të cilat pjesa më e madhe janë shuar. Aktualisht 5 vatra mbeten aktive dhe 1 zonë është në monitorim. Në operacionet për menaxhimin e situatës janë angazhuar 37 automjete zjarrfikëse dhe 365 forca operacio",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T07:37:52+00:00",
-      "dateStr": "11 Aug, 07:37",
-      "isNew": true,
-      "id": "abc21786433872"
+      "id": "she51786435648"
     },
     {
       "title": "Operacioni sekret i Trump në Turqi, u fsheh në një kamion kateringu ndërsa Air Force One shërbeu si karrem",
@@ -166,18 +298,7 @@
       "date": "2026-08-11T07:29:55+00:00",
       "dateStr": "11 Aug, 07:29",
       "isNew": true,
-      "id": "she11786433395"
-    },
-    {
-      "title": "Jahti luksoz i miliarderit kinez mbërrin në Durrës, furnizimi me karburant mund t’i sjellë shtetit rreth 120 mijë euro",
-      "link": "https://abcnews.al/jahti-luksoz-i-miliarderit-kinez-mberrin-ne-durres-furnizimi-me-karburant-mund-ti-sjelle-shtetit-rreth-120-mije-euro/",
-      "description": "Një nga superjahtet më të mëdha dhe më luksoze në botë, M/Y Deep Blue, ka mbërritur në Portin e Durrësit, sipas informacionit të raportuar. Jahti, i ndërtuar nga gjiganti gjerman Lürssen dhe i dorëzuar në vitin 2026, është rreth 137 metra i gjatë, mban flamurin e Ishujve Kajman dhe ka numrin IMO 995",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T07:24:08+00:00",
-      "dateStr": "11 Aug, 07:24",
-      "isNew": true,
-      "id": "abc31786433048"
+      "id": "she61786433395"
     },
     {
       "title": "Zjarret që shkrumbuan Krujën, lirohet nga qelia i moshuari që u arrestua dy ditë më parë",
@@ -188,29 +309,7 @@
       "date": "2026-08-11T07:14:36+00:00",
       "dateStr": "11 Aug, 07:14",
       "isNew": true,
-      "id": "she21786432476"
-    },
-    {
-      "title": "Trump mbron Infantino: Do të ishte një gabim i tmerrshëm largimi i tij nga FIFA",
-      "link": "https://abcnews.al/trump-mbron-infantino-do-te-ishte-nje-gabim-i-tmerrshem-largimi-i-tij-nga-fifa/",
-      "description": "Presidenti amerikan Donald Trump ka dalë në mbështetje të presidentit të FIFA-s, Gianni Infantino, në një moment kur kreu i futbollit botëror po përballet me presion të madh. Në një postim në rrjetin e tij Truth Social, Trump paralajmëroi se largimi i Infantinos do të ishte një “gabim i tmerrshëm”. ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T07:06:42+00:00",
-      "dateStr": "11 Aug, 07:06",
-      "isNew": true,
-      "id": "abc41786432002"
-    },
-    {
-      "title": "Tajfuni “Dolphin” godet Kinën, evakuohen mbi 1 milion banorë",
-      "link": "https://abcnews.al/tajfuni-dolphin-godet-kinen-evakuohen-mbi-1-milion-banore/",
-      "description": "Më shumë se 1 milion njerëz janë evakuuar nga shtëpitë e tyre në lindje të Kinës, përfshirë edhe qytetin e Shangait, pasi tajfuni “Dolphin” goditi vendin me reshje të dendura dhe erëra të forta. Stuhia shkaktoi probleme të mëdha në transport. Vetëm në Shangai, rreth 1 mijë fluturime u anuluan të hën",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T06:49:40+00:00",
-      "dateStr": "11 Aug, 06:49",
-      "isNew": true,
-      "id": "abc51786430980"
+      "id": "she71786432476"
     },
     {
       "title": "Aksident i frikshëm në Gjirokastër-Kakavijë, përplasen dy automjete, 3 të plagosur",
@@ -221,7 +320,7 @@
       "date": "2026-08-11T06:48:18+00:00",
       "dateStr": "11 Aug, 06:48",
       "isNew": true,
-      "id": "she31786430898"
+      "id": "she81786430898"
     },
     {
       "title": "Trump ‘trondit’ politikën e vaksinimit, firmos urdhrin për më pak vaksina rutinë për fëmijët në SHBA",
@@ -232,106 +331,7 @@
       "date": "2026-08-11T06:44:06+00:00",
       "dateStr": "11 Aug, 06:44",
       "isNew": true,
-      "id": "she41786430646"
-    },
-    {
-      "title": "Dy helikopterë nisin ndërhyrjen nga ajri për shuarjen e flakëve në Bojë të Krujës",
-      "link": "https://abcnews.al/dy-helikoptere-nisin-nderhyrjen-nga-ajri-per-shuarjen-e-flakeve-ne-boje-te-krujes/",
-      "description": "Dy helikopterë, nisën operacionin nga ajri në shuarjen e flakëve te zjarrit ne zonën e quajtur Boje. Një ndër zonat me problematike nga terreni o vështire per të ndërhyrë nga toka. Gjatë gjithë natës në zonat e prekura nga zjarri, forcat zjarrfikëse, dhe ato te ushtrise kanë punuar në izolimin e vat",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T06:34:09+00:00",
-      "dateStr": "11 Aug, 06:34",
-      "isNew": true,
-      "id": "abc61786430049"
-    },
-    {
-      "title": "58 mijë makina hynë në qarkullim në rrugët e vendit në janar-korrik, 11% elektrike",
-      "link": "https://shekulli.com.al/2026/08/11/58-mije-makina-hyne-ne-qarkullim-ne-rruget-e-vendit-ne-janar-korrik-11-elektrike/",
-      "description": "Në shtatë muajt e parë të këtij viti kanë hyrë në qarkullim për herë të parë 58.4 mijë automjete, sipas të dhënave të publikuara nga Drejtoria e Përgjithshme e Transportit Rrugor. Në krahasim me një vit më parë, numri i mjeteve të regjistruara për herë të parë u rrit me 1.6%, ndërsa ky është niveli ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-11T06:33:35+00:00",
-      "dateStr": "11 Aug, 06:33",
-      "isNew": true,
-      "id": "she51786430015"
-    },
-    {
-      "title": "Tërmeti në Kolumbi, mbi 130 të vdekur/ SHBA ofron 15.5 milionë dollarë ndihmë",
-      "link": "https://abcnews.al/termeti-ne-kolumbi-mbi-130-te-vdekur-shba-ofron-15-5-milione-dollare-ndihme/",
-      "description": "Një tërmet me magnitudë 7.4 ka goditur Kolumbinë, duke shkaktuar shembje ndërtesash, evakuime masive dhe të paktën 132 viktima. Qeveria kolumbiane ka shpallur situatën “fatkeqësi kombëtare” pas një mbledhjeje emergjente. Tërmeti u regjistrua pak pas orës 07:30 me kohën lokale, me epiqendër pranë San",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T06:24:35+00:00",
-      "dateStr": "11 Aug, 06:24",
-      "isNew": true,
-      "id": "abc71786429475"
-    },
-    {
-      "title": "“Serbia e humbi Kosovën!”, Rama: Kosova është shtet më vete, Ibri është sistem ujor ndërkufitar",
-      "link": "https://abcnews.al/serbia-e-humbi-kosoven-rama-kosova-eshte-shtet-me-vete-iberi-eshte-sistem-ujor-nderkufitar/",
-      "description": "Shqipëria i është përgjigjur deklaratave të Serbisë për Kosovën dhe lumin Ibër, duke hedhur poshtë akuzat për pretendime territoriale apo për “Shqipëri të Madhe”. Në reagimin e Rames theksohet se Kosova është shtet më vete, ndërsa shqiptarët e Kosovës kanë institucionet dhe të drejtën për të përcakt",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T06:13:16+00:00",
-      "dateStr": "11 Aug, 06:13",
-      "isNew": true,
-      "id": "abc81786428796"
-    },
-    {
-      "title": "Televizionet që kanë fondet më të larta të pagave, sa paguhen mesatarisht gazetarët e TV",
-      "link": "https://shekulli.com.al/2026/08/11/16820/",
-      "description": "Më se një dekadë më parë, puna në televizion ishte ndër më të paguarat, duke konkurruar dhe me bankat, sidomos për drejtuesit. Bankat u zgjeruan me shpejtësi, ndërsa televizionet u përballën me rritje të ulët të të ardhurave për shkak të tregut të vogël të reklamave, madje TV e lajmeve janë në përgj",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-11T06:11:05+00:00",
-      "dateStr": "11 Aug, 06:11",
-      "isNew": true,
-      "id": "she61786428665"
-    },
-    {
-      "title": "Tërmeti katastrofik në Kolumbi, 132 të vdekur dhe 570 të plagosur, vijojnë kërkimet nën rrënoja",
-      "link": "https://shekulli.com.al/2026/08/11/termeti-katastrofik-ne-kolumbi-132-te-vdekur-dhe-570-te-plagosur-vijojne-kerkimet-nen-rrenoja/",
-      "description": "Është rënduar bilanci i tërmetit shkatërrues që goditi Kolumbinë, me të paktën 132 persona të vdekur dhe 570 të plagosur. Autoritetet kanë shpallur gjendjen e katastrofës kombëtare, ndërsa ekipet e emergjencave vijojnë operacionet e kërkim-shpëtimit në zonat më të prekura. Tërmeti me magnitudë 7.4 g",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-11T05:59:29+00:00",
-      "dateStr": "11 Aug, 05:59",
-      "isNew": true,
-      "id": "she71786427969"
-    },
-    {
-      "title": "Situata me zjarret në Krujë, ‘në flakë’ 4 zona/ Pritet ndërhyrja nga ajri në Bojë",
-      "link": "https://abcnews.al/situata-me-zjarret-ne-kruje-ne-flake-4-zona-pritet-nderhyrja-nga-ajri-ne-boje/",
-      "description": "Gjatë gjithë natës disa mjete zjarrfikëse kanë kryer operacione në zonën e Bojes, në Zidoll pranë fshatit Halilaj, ku dhe situata paraqitej më problematike. Në Boje pranë Krastës vijojn operacioni me forcat e ushtrise, pasi terreni është i vështirë për mjetet zjarrfikëse, ndërsa në Zidoll janë aktiv",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T05:30:46+00:00",
-      "dateStr": "11 Aug, 05:30",
-      "isNew": true,
-      "id": "abc91786426246"
-    },
-    {
-      "title": "“Nuk kemi asnjë pretendim për territorin tuaj”, Rama i përgjigjet Vuçiç pas tensioneve për Ibrin: Serbia e ka humbur Kosovën",
-      "link": "https://shekulli.com.al/2026/08/11/nuk-kemi-asnje-pretendim-per-territorin-tuaj-rama-i-pergjigjet-vucic-pas-tensioneve-per-ibrin-serbia-e-ka-humbur-kosoven/",
-      "description": "Kryeministri Edi Rama i është përgjigjur deklaratave të presidentit serb Aleksandar Vuçiç lidhur me lumin Ibër dhe zhvillimet mes Kosovës dhe Serbisë, duke theksuar se Shqipëria nuk ka pretendime territoriale ndaj Serbisë. Reagimi i Ramës vjen pas deklaratave të Vuçiçit për mundësinë e ndërhyrjes në",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-11T05:29:28+00:00",
-      "dateStr": "11 Aug, 05:29",
-      "isNew": true,
-      "id": "she81786426168"
-    },
-    {
-      "title": "Shqipëria dështon që në nisje, Burraj dhe Mema eliminohen nga Evropiani i Atletikës",
-      "link": "https://shekulli.com.al/2026/08/10/shqiperia-deshton-qe-ne-nisje-burraj-dhe-mema-eliminohen-nga-evropiani-i-atletikes/",
-      "description": "Nis me rezultate zhgënjyese për Shqipërinë Kampionati Evropian i Atletikës, që po zhvillohet në Birmingham të Anglisë. Në ditën e parë të garave, Franko Burraj në 400 metra dhe Markelo Mema në hedhjen e çekiçit nuk kanë arritur të sigurojnë kualifikimin për në fazat e mëtejshme. Franko Burraj, rekor",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T20:58:08+00:00",
-      "dateStr": "10 Aug, 20:58",
-      "isNew": true,
-      "id": "she91786395488"
+      "id": "she91786430646"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
