@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-08-10T23:29:38.227890+00:00",
+  "lastUpdated": "2026-08-11T01:18:08.461719+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Norman Powell jep një vlerësim të sinqertë: Bulls mund të jenë ‘shumë të mirë’ ose ‘shumë të dobët’ këtë sezon",
+      "link": "https://24-ore.com/norman-powell-jep-nje-vleresim-te-sinqerte-bulls-mund-te-jene-shume-te-mire-ose-shume-te-dobet-kete-sezon/",
+      "description": "Norman Powell, i cili nënshkroi me Chicago Bulls gjatë afatit të fundit të transfertave, pranon se po i bashkohet një skuadre në rindërtim dhe ka dhënë një...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T01:16:40+00:00",
+      "dateStr": "11 Aug, 01:16",
+      "isNew": true,
+      "id": "24 01786411000"
+    },
+    {
+      "title": "Fantasy NFL 2026: Dy zgjedhjet ideale për çdo vend në draft në një ligë me 12 ekipe",
+      "link": "https://24-ore.com/fantasy-nfl-2026-dy-zgjedhjet-ideale-per-cdo-vend-ne-draft-ne-nje-lige-me-12-ekipe/",
+      "description": "Në ndërtimin e një skuadre fantasy, dy rregulla themelore janë të qarta: keni një plan, por mos u mbyllni pas tij. Zgjedhjet në rundin e parë dhe të dytë p...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T01:12:06+00:00",
+      "dateStr": "11 Aug, 01:12",
+      "isNew": true,
+      "id": "24 11786410726"
+    },
+    {
+      "title": "Brock Rechsteiner mund të kalojë në WWE, Tatum Paxley promovuar nga Charlotte Flair; e ardhmja e Enzo Amore mbetet e paqartë",
+      "link": "https://24-ore.com/brock-rechsteiner-mund-te-kaloje-ne-wwe-tatum-paxley-promovuar-nga-charlotte-flair-e-ardhmja-e-enzo-amore-mbetet-e-paqarte/",
+      "description": "New Orleans Saints kanë në radhët e tyre një të ri me lidhje të forta me botën e wrestlingut: Brock Rechsteiner, djali i legjendës Scott Steiner. Në të një...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T00:41:29+00:00",
+      "dateStr": "11 Aug, 00:41",
+      "isNew": true,
+      "id": "24 21786408889"
+    },
+    {
+      "title": "Phillies dhe Cardinals 0-0 në pjesën e parë; Harper do të jetë DH (10 gusht 2026)",
+      "link": "https://24-ore.com/phillies-dhe-cardinals-0-0-ne-pjesen-e-pare-harper-do-te-jete-dh-10-gusht-2026/",
+      "description": "Më 10 gusht 2026 në Busch Stadium, Philadelphia Phillies dhe St. Louis Cardinals po e nisën ndeshjen pa gola, 0-0 pas pjesës së parë. Në krye të pjesës së...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-10T23:52:04+00:00",
+      "dateStr": "10 Aug, 23:52",
+      "isNew": true,
+      "id": "24 31786405924"
+    },
     {
       "title": "Atlanta Dream përballet me Toronto Tempo më 10 gusht 2026 në Gateway Center Arena",
       "link": "https://24-ore.com/atlanta-dream-perballet-me-toronto-tempo-me-10-gusht-2026-ne-gateway-center-arena/",
@@ -12,7 +56,7 @@
       "date": "2026-08-10T23:15:42+00:00",
       "dateStr": "10 Aug, 23:15",
       "isNew": true,
-      "id": "24 01786403742"
+      "id": "24 41786403742"
     },
     {
       "title": "AJ Dybantsa, Darryn Peterson dhe Cameron Boozer kryesojnë renditjen e rookie-ve në NBA 2K27",
@@ -23,7 +67,7 @@
       "date": "2026-08-10T23:11:49+00:00",
       "dateStr": "10 Aug, 23:11",
       "isNew": true,
-      "id": "24 11786403509"
+      "id": "24 51786403509"
     },
     {
       "title": "Toronto Blue Jays dhe Boston Red Sox, 10 gusht 2026 — 0-0 pas pjesës së parë",
@@ -34,7 +78,7 @@
       "date": "2026-08-10T23:10:56+00:00",
       "dateStr": "10 Aug, 23:10",
       "isNew": true,
-      "id": "24 21786403456"
+      "id": "24 61786403456"
     },
     {
       "title": "76ers përkujtojnë LeBron James dhe Joel Embiid për përvjetorin e dytë të medaljes së artë të SHBA-së në Paris",
@@ -45,7 +89,7 @@
       "date": "2026-08-10T22:31:45+00:00",
       "dateStr": "10 Aug, 22:31",
       "isNew": true,
-      "id": "24 31786401105"
+      "id": "24 71786401105"
     },
     {
       "title": "Regionet e Little League 2026: rezultatet dhe ndeshjet e së hënës",
@@ -56,7 +100,7 @@
       "date": "2026-08-10T22:30:42+00:00",
       "dateStr": "10 Aug, 22:30",
       "isNew": true,
-      "id": "24 41786401042"
+      "id": "24 81786401042"
     },
     {
       "title": "Ksamil, hyn me Jet Ski në zonën e pushuesve, gjobitet me 5 mln lekë",
@@ -67,51 +111,7 @@
       "date": "2026-08-10T22:20:43+00:00",
       "dateStr": "10 Aug, 22:20",
       "isNew": true,
-      "id": "24 51786400443"
-    },
-    {
-      "title": "Nigel Farage: Mbi 10 mijë kriminelët e huaj do t’i dërgojmë në burgje në Kosovë dhe El Salvador",
-      "link": "https://24-ore.com/nigel-farage-mbi-10-mije-kriminelet-e-huaj-do-ti-dergojme-ne-burgje-ne-kosove-dhe-el-salvador/",
-      "description": "Lideri i Partisë Reform UK, Nigel Farage, ka deklaruar se personat që kanë shkuar në Britaninë e Madhe dhe kryejnë vrasje ose përdhunime duhet të dërgohen për të vuajtur dënimin në burgje jashtë vendit duke përmendur si opsion dhe Kosovën. Në një postim në rrjetet sociale ai shkroi: “Nëse keni ardhu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T22:20:31+00:00",
-      "dateStr": "10 Aug, 22:20",
-      "isNew": true,
-      "id": "24 61786400431"
-    },
-    {
-      "title": "Një qendër 7’5″ Jamarion Sharp firmos me Clippers dhe bëhet lojtari më i gjatë aktiv në NBA",
-      "link": "https://24-ore.com/nje-qender-75-jamarion-sharp-firmos-me-clippers-dhe-behet-lojtari-me-i-gjate-aktiv-ne-nba/",
-      "description": "Los Angeles Clippers nënshkruan me qendër Jamarion Sharp një kontratë two-way, duke i shtuar skuadrës madhësi në zonën e pikturës. Me lartësi 7'5\", Sharp ë...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T21:50:41+00:00",
-      "dateStr": "10 Aug, 21:50",
-      "isNew": true,
-      "id": "24 71786398641"
-    },
-    {
-      "title": "Senatorja amerikane viziton Kosovën, pritet në Ambasadën e SHBA-së në Prishtinë",
-      "link": "https://24-ore.com/senatorja-amerikane-viziton-kosoven-pritet-ne-ambasaden-e-shba-se-ne-prishtine/",
-      "description": "E Ngarkuara me Punë në Ambasadën e Shteteve të Bashkuara të Amerikës në Prishtinë, Anu Prattipati, ka mirëpritur në Kosovë senatoren amerikane Joni Ernst. Sipas Ambasadës së SHBA-së, senatorja Ernst gjatë pasdites ka zhvilluar takime në Ambasadën amerikane në Prishtinë. Gjatë qëndrimit në Kosovë, Er",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T21:50:08+00:00",
-      "dateStr": "10 Aug, 21:50",
-      "isNew": true,
-      "id": "24 81786398608"
-    },
-    {
-      "title": "Një zgjatje trevjeçare 105.9 milionë dollarë: Cowboys rinovojnë kontratën e Quinnen Williams",
-      "link": "https://24-ore.com/nje-zgjatje-trevjecare-105-9-milione-dollare-cowboys-rinovojne-kontraten-e-quinnen-williams/",
-      "description": "Dallas Cowboys nënshkruan një zgjatje trevjeçare për defensive tackle Quinnen Williams, me vlerë 105.9 milionë dollarë. Kontrata parashikon një pagë mesata...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-10T21:46:32+00:00",
-      "dateStr": "10 Aug, 21:46",
-      "isNew": true,
-      "id": "24 91786398392"
+      "id": "24 91786400443"
     },
     {
       "title": "Shqipëria dështon që në nisje, Burraj dhe Mema eliminohen nga Evropiani i Atletikës",
