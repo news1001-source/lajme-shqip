@@ -1,18 +1,205 @@
 {
-  "lastUpdated": "2026-08-11T06:57:57.640284+00:00",
+  "lastUpdated": "2026-08-11T08:09:55.447810+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Ymeri: Deklarata e Vuçiqit për ndryshimin e lumit Ibër lidhet me kartën nacionaliste të VV-së",
-      "link": "https://24-ore.com/ymeri-deklarata-e-vuciqit-per-ndryshimin-e-lumit-iber-lidhet-me-karten-nacionaliste-te-vv-se/",
-      "description": "Deputetja e Lidhjes Demokratike të Kosovës, Janina Imeri, ka reaguar ndaj deklaratës së presidentit serb, Aleksandar Vuçiq, lidhur me mundësinë e ndryshimit të rrjedhës së lumit Ibër. Imeri ka lidhur deklaratën e Vuçiqit me zhvillimet politike në Kosovë, duke argumentuar se çështja e burimeve ujore ",
+      "title": "Përndiqte dhe kanoste një person përmes rrjeteve sociale, arrestohet 24-vjeçari në Tiranë, momenti kur Policia e shtrin në mes të rrugës",
+      "link": "https://shekulli.com.al/2026/08/11/perndiqte-dhe-kanoste-nje-person-permes-rrjetet-sociale-arrestohet-24-vjecari-ne-tirane-momenti-kur-policia-e-shtrin-ne-mes-te-rruges/",
+      "description": "Përndoqi dhe kanosi një shtetas, nëpërmjet profileve të falsifikuara në rrjete sociale, me qëllim për t’i marrë një shumë parash, arrestohet në flagrancë 24-vjeçari. Pas marrjes njoftim se një shtetas, në mënyrë të përsëritur, përndiqte dhe kanoste nëpërmjet platformave virtuale një shtetas, duke i ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-11T08:07:28+00:00",
+      "dateStr": "11 Aug, 08:07",
+      "isNew": true,
+      "id": "she01786435648"
+    },
+    {
+      "title": "BDI: Qeveria publikoi spotin e pavarësisë ku përjashtoheshin shqiptarët dhe arritjet strategjike të vendit",
+      "link": "https://24-ore.com/bdi-qeveria-publikoi-spotin-e-pavaresise-ku-perjashtoheshin-shqiptaret-dhe-arritjet-strategjike-te-vendit/",
+      "description": "Qeveria ka publikuar spotin me të cilin synon të shënojë 35-vjetorin e pavarësisë së shtetit. Por në vend që ky jubile të përfaqësojë të gjithë qytetarët dhe rrugëtimin e përbashkët të shtetit, Qeveria ka zgjedhur të paraqesë një version ekskluzivisht maqedonas të tij, thuhet në reagimin e sotëm të ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-11T06:49:43+00:00",
-      "dateStr": "11 Aug, 06:49",
+      "date": "2026-08-11T08:04:57+00:00",
+      "dateStr": "11 Aug, 08:04",
       "isNew": true,
-      "id": "24 01786430983"
+      "id": "24 01786435497"
+    },
+    {
+      "title": "E bujshme nga Argjentina, pas vdekjes së babait Lionel Messi merr pushim të pacaktuar në afat! I duhet kohë për të rikuper",
+      "link": "https://24-ore.com/e-bujshme-nga-argjentina-pas-vdekjes-se-babait-lionel-messi-merr-pushim-te-pacaktuar-ne-afat-i-duhet-kohe-per-te-rikuper/",
+      "description": "Sipas ‘Footmercato’ dhe shtypit argjentinas, Lionel Messi ka vendosur të pezullojë për një kohë të pacaktuar karrierën e tij si futbollist, në mënyrë që t’i përkushtohet familjes pas vdekjes së fundit të babait të tij, Jorge. Jorge Messi, i cili ndërroi jetë në moshën 68 vjeç në Rosario pas një bete",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T08:01:14+00:00",
+      "dateStr": "11 Aug, 08:01",
+      "isNew": true,
+      "id": "24 11786435274"
+    },
+    {
+      "title": "Riaktivizohet vatra e zjarrit në Drenie, flakë të fuqishme dhe terren i vështirë! 40 efektivë dhe 5 zjarrfikëse në opera",
+      "link": "https://24-ore.com/riaktivizohet-vatra-e-zjarrit-ne-drenie-flake-te-fuqishme-dhe-terren-i-veshtire-40-efektive-dhe-5-zjarrfikese-ne-opera/",
+      "description": "Zjarret në Shqipëri janë kthyer në rrezik për shkak të riaktivizimit të tyre, por edhe aktivitetit të piromanëve. Gjatë ditës së sotme është riaktivizuar vatra e zjarrit në Drenie të Patosit, në pjesën veriore të zonës, në drejtim të fshatit. Në terren janë angazhuar 5 mjete zjarrfikëse, 25 efektivë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T08:00:40+00:00",
+      "dateStr": "11 Aug, 08:00",
+      "isNew": true,
+      "id": "24 21786435240"
+    },
+    {
+      "title": "​Franca përgatitet për valën e re të të nxehtit, parashikohen temperatura deri 40 gradë Celsius",
+      "link": "https://abcnews.al/franca-pergatitet-per-valen-e-re-te-te-nxehtit-parashikohen-temperatura-deri-40-grade-celsius/",
+      "description": "Franca po përgatitet për valën e pestë të të nxehtit që nga qershori, ndërsa 22 departamente janë vendosur në alarm portokalli për shkak të temperaturave të larta. Shërbimi kombëtar meteorologjik i Francës, “Météo-France”, ka lëshuar alarmin për 22 departamente, pasi temperaturat pritet t’i afrohen ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T07:53:36+00:00",
+      "dateStr": "11 Aug, 07:53",
+      "isNew": true,
+      "id": "abc01786434816"
+    },
+    {
+      "title": "Dron shpërthyes në aeroportin e Leipzigut, gjenden gjurmët e ADN-së",
+      "link": "https://24-ore.com/dron-shperthyes-ne-aeroportin-e-leipzigut-gjenden-gjurmet-e-adn-se/",
+      "description": "Pas zbulimit të një droni shpërthyes pranë një avioni ukrainas Antonov në aeroportin e Leipzig, janë gjetur gjurmë ADN-je. Sipas gjetjeve të reja, të raportuara nga e përjavshmja Die Zeit , pamjet e kamerave të sigurisë tregojnë se rreth orës 19:30 droni fluturoi qëllimisht drejt avionit ukrainas të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T07:50:33+00:00",
+      "dateStr": "11 Aug, 07:50",
+      "isNew": true,
+      "id": "24 31786434633"
+    },
+    {
+      "title": "Trump nënshkruan urdhër që kërkon më pak vaksina për fëmijë",
+      "link": "https://24-ore.com/trump-nenshkruan-urdher-qe-kerkon-me-pak-vaksina-per-femije/",
+      "description": "Urdhri rekomandon dhënien e të gjitha vaksinave të fëmijërisë në vizita të ndara sa herë që është e mundur, gjë që më parë ishte bllokuar nga një gjykatës federal, dhe ndarjen e vaksinës kundër fruthit, shytave dhe rubeolës në tre injeksione të veçanta të veçanta. Presidenti i SHBA-së, Donald Trump,",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T07:50:20+00:00",
+      "dateStr": "11 Aug, 07:50",
+      "isNew": true,
+      "id": "24 41786434620"
+    },
+    {
+      "title": "Operacioni i pabesueshëm i “arratisjes” së Trump nga Turqia: Si u fsheh në një kontejner dhe fluturoi me avion ushtarak",
+      "link": "https://24-ore.com/operacioni-i-pabesueshem-i-arratisjes-se-trump-nga-turqia-si-u-fsheh-ne-nje-kontejner-dhe-fluturoi-me-avion-ushtarak/",
+      "description": "Donald Trump u largua në fshehtësi nga Turqia drejt Britanisë muajin e kaluar me një avion ushtarak, ndërsa Shtëpia e Bardhë la të kuptohej se presidenti amerikan po udhëtonte me Air Force One. Operacioni i pazakontë u ndërmor për shkak të një kërcënimi të besueshëm iranian për atentat ndaj Trumpit,",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T07:50:09+00:00",
+      "dateStr": "11 Aug, 07:50",
+      "isNew": true,
+      "id": "24 51786434609"
+    },
+    {
+      "title": "Programi Kombëtar i Praktikave të Punës, 1207 vende për të rinjtë në administratë dhe bashki",
+      "link": "https://24-ore.com/programi-kombetar-i-praktikave-te-punes-1207-vende-per-te-rinjte-ne-administrate-dhe-bashki/",
+      "description": "Prej një dekade, Programi Kombëtar i Praktikave të Punës u ka krijuar të rinjve mundësinë të fitojnë përvojë profesionale, të zhvillojnë aftësitë e tyre dhe të hedhin hapat e parë drejt një karriere të suksesshme. Ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja kujtoi të rinjtë se, thirrja",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T07:48:44+00:00",
+      "dateStr": "11 Aug, 07:48",
+      "isNew": true,
+      "id": "24 61786434524"
+    },
+    {
+      "title": "“Sot nis një kapitull i ri”- Gjimshiti bëhet zyrtarisht “sheik”, kalon në Arabinë Saudite! Mesazhi: Atalanta gjithnj",
+      "link": "https://24-ore.com/sot-nis-nje-kapitull-i-ri-gjimshiti-behet-zyrtarisht-sheik-kalon-ne-arabine-saudite-mesazhi-atalanta-gjithnj/",
+      "description": "Pas tetë vite e gjysmë, 334 ndeshjeve, lojtari i 4-ët me më shumë ndeshje në historinë e Atalantës, Berat Gjimshiti largohet nga Bergamo për të nisur një aventurë të re në Arabinë Saudite. Qendërmbrojtësi kuqezi transferohet tek ekipi i Al-Diriyah me titull definitiv për 3 milionë euro duke firmosur",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T07:47:23+00:00",
+      "dateStr": "11 Aug, 07:47",
+      "isNew": true,
+      "id": "24 71786434443"
+    },
+    {
+      "title": "HARTA e zjarreve në Shqipëri, Ministria e Mbrojtjes bën bilancin, 25 vatra në 24 orë: Aksion me 365 forca dhe 4 helikopter�",
+      "link": "https://24-ore.com/harta-e-zjarreve-ne-shqiperi-ministria-e-mbrojtjes-ben-bilancin-25-vatra-ne-24-ore-aksion-me-365-forca-dhe-4-helikopter%ef%bf%bd/",
+      "description": "Rrezikshmëria e zjarreve në Shqipëri mbetet e lartë dhe orë pas ore shfaqen edhe vatra të reja. Gjatë 24 orëve të fundit janë raportuar 25 vatra zjarri në të gjithë vendin, pjesa më e madhe e të cilave janë shuar. Aktualisht, 5 vatra mbeten aktive, ndërsa një zonë vijon të jetë nën monitorim. Minist",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T07:46:34+00:00",
+      "dateStr": "11 Aug, 07:46",
+      "isNew": true,
+      "id": "24 81786434394"
+    },
+    {
+      "title": "Sulmet ruse vrasin 9 persona në Ukrainë/ Kievi kundërpërgjigjet duke goditur objektiva energjetike në Rusi",
+      "link": "https://abcnews.al/sulmet-ruse-vrasin-9-persona-ne-ukraine-kievi-kunderpergjigjet-duke-goditur-objektiva-energjetike-ne-rusi/",
+      "description": "Të paktën nëntë persona kanë humbur jetën gjatë natës si pasojë e sulmeve ruse ndaj Ukrainës, ndërsa Kievi ka vijuar sulmet me dronë me rreze të gjatë veprimi në territorin e Rusisë. Në rajonin e Zaporizhzhias, sulmet ruse kanë shkaktuar vdekjen e gjashtë personave, ndërsa tre të tjerë janë vrarë në",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T07:46:28+00:00",
+      "dateStr": "11 Aug, 07:46",
+      "isNew": true,
+      "id": "abc11786434388"
+    },
+    {
+      "title": "Çmimet e derivateve, shtrenjtohet nafta",
+      "link": "https://24-ore.com/cmimet-e-derivateve-shtrenjtohet-nafta/",
+      "description": "Ministria e Industrisë, Tregtisë dhe Ndërmarrësisë ka publikuar sërish çmimet maksimale të derivateve për sot dhe nesër. Sipas njoftimit, çmimi i naftës edhe për sot është 1.64 euro-cent për litër, në krahasim me një ditë më parë që ishte 1.63 euro-cent. Ndërsa çmimi i benzinës është është njëjtë si",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T07:39:50+00:00",
+      "dateStr": "11 Aug, 07:39",
+      "isNew": true,
+      "id": "24 91786433990"
+    },
+    {
+      "title": "Situata me zjarret/ Mbrojtja: Shuhen flakët në Mallakastër, aktualisht aktive 5 vatra në vend",
+      "link": "https://abcnews.al/situata-me-zjarret-mbrojtja-shuhen-flaket-ne-mallakaster-aktualisht-aktive-5-vatra-ne-vend/",
+      "description": "Ministria e Mbrojtjes informon se gjatë 24 orëve të fundit janë raportuar 25 vatra zjarri, nga të cilat pjesa më e madhe janë shuar. Aktualisht 5 vatra mbeten aktive dhe 1 zonë është në monitorim. Në operacionet për menaxhimin e situatës janë angazhuar 37 automjete zjarrfikëse dhe 365 forca operacio",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T07:37:52+00:00",
+      "dateStr": "11 Aug, 07:37",
+      "isNew": true,
+      "id": "abc21786433872"
+    },
+    {
+      "title": "Operacioni sekret i Trump në Turqi, u fsheh në një kamion kateringu ndërsa Air Force One shërbeu si karrem",
+      "link": "https://shekulli.com.al/2026/08/11/operacioni-sekret-i-trump-ne-turqi-u-fsheh-ne-nje-kamion-kateringu-ndersa-air-force-one-sherbeu-si-karrem/",
+      "description": "TURQI&#8211; Një operacion i jashtëzakonshëm sigurie është përdorur për të nxjerrë presidentin amerikan Donald Trump nga Turqia, pas një kërcënimi të besueshëm për një atentat të mundshëm nga Irani. Sipas raportimeve të mediave amerikane, Trump nuk është larguar nga Ankaraja me avionin që publiku dh",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-11T07:29:55+00:00",
+      "dateStr": "11 Aug, 07:29",
+      "isNew": true,
+      "id": "she11786433395"
+    },
+    {
+      "title": "Jahti luksoz i miliarderit kinez mbërrin në Durrës, furnizimi me karburant mund t’i sjellë shtetit rreth 120 mijë euro",
+      "link": "https://abcnews.al/jahti-luksoz-i-miliarderit-kinez-mberrin-ne-durres-furnizimi-me-karburant-mund-ti-sjelle-shtetit-rreth-120-mije-euro/",
+      "description": "Një nga superjahtet më të mëdha dhe më luksoze në botë, M/Y Deep Blue, ka mbërritur në Portin e Durrësit, sipas informacionit të raportuar. Jahti, i ndërtuar nga gjiganti gjerman Lürssen dhe i dorëzuar në vitin 2026, është rreth 137 metra i gjatë, mban flamurin e Ishujve Kajman dhe ka numrin IMO 995",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T07:24:08+00:00",
+      "dateStr": "11 Aug, 07:24",
+      "isNew": true,
+      "id": "abc31786433048"
+    },
+    {
+      "title": "Zjarret që shkrumbuan Krujën, lirohet nga qelia i moshuari që u arrestua dy ditë më parë",
+      "link": "https://shekulli.com.al/2026/08/11/zjarret-qe-shkrumbuan-krujen-lirohet-nga-qelia-i-moshuari-qe-u-arrestua-dy-dite-me-pare/",
+      "description": "Një vatër e vogël zjarri vijon të jetë aktive në lagjen Abazë të Krujës, pas flakëve që përfshinë një sipërfaqe të konsiderueshme pyjore dhe rrezikuan banesa e biznese në zonë. Për shuarjen e flakëve vijon ndërhyrja e forcave zjarrfikëse, ndërsa operacioni po mbështetet edhe nga ajri. Dy helikopterë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-11T07:14:36+00:00",
+      "dateStr": "11 Aug, 07:14",
+      "isNew": true,
+      "id": "she21786432476"
+    },
+    {
+      "title": "Trump mbron Infantino: Do të ishte një gabim i tmerrshëm largimi i tij nga FIFA",
+      "link": "https://abcnews.al/trump-mbron-infantino-do-te-ishte-nje-gabim-i-tmerrshem-largimi-i-tij-nga-fifa/",
+      "description": "Presidenti amerikan Donald Trump ka dalë në mbështetje të presidentit të FIFA-s, Gianni Infantino, në një moment kur kreu i futbollit botëror po përballet me presion të madh. Në një postim në rrjetin e tij Truth Social, Trump paralajmëroi se largimi i Infantinos do të ishte një “gabim i tmerrshëm”. ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-11T07:06:42+00:00",
+      "dateStr": "11 Aug, 07:06",
+      "isNew": true,
+      "id": "abc41786432002"
     },
     {
       "title": "Tajfuni “Dolphin” godet Kinën, evakuohen mbi 1 milion banorë",
@@ -23,7 +210,7 @@
       "date": "2026-08-11T06:49:40+00:00",
       "dateStr": "11 Aug, 06:49",
       "isNew": true,
-      "id": "abc01786430980"
+      "id": "abc51786430980"
     },
     {
       "title": "Aksident i frikshëm në Gjirokastër-Kakavijë, përplasen dy automjete, 3 të plagosur",
@@ -34,18 +221,7 @@
       "date": "2026-08-11T06:48:18+00:00",
       "dateStr": "11 Aug, 06:48",
       "isNew": true,
-      "id": "she01786430898"
-    },
-    {
-      "title": "SHBA – Trump: Përshkallëzimi masiv ndaj Iranit mbetet një mundësi",
-      "link": "https://24-ore.com/shba-trump-pershkallezimi-masiv-ndaj-iranit-mbetet-nje-mundesi/",
-      "description": "UASHINGTON, 11 gusht /ATSH-AA/ – Presidenti Donald Trump refuzoi të thoshte se çfarë do të pasojë në bisedimet me Iranin, por la të kuptohet se SHBA-ja ruan mundësinë për të ndërmarrë një përshkallëzim të madh ushtarak. Duke folur me gazetarët në Shtëpinë e Bardhë, Trump tha: “Do ta merrni vesh”, ku",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T06:46:09+00:00",
-      "dateStr": "11 Aug, 06:46",
-      "isNew": true,
-      "id": "24 11786430769"
+      "id": "she31786430898"
     },
     {
       "title": "Trump ‘trondit’ politikën e vaksinimit, firmos urdhrin për më pak vaksina rutinë për fëmijët në SHBA",
@@ -56,18 +232,7 @@
       "date": "2026-08-11T06:44:06+00:00",
       "dateStr": "11 Aug, 06:44",
       "isNew": true,
-      "id": "she11786430646"
-    },
-    {
-      "title": "“Non grata” për Belën dhe Alimin, Ahmeti: Jam i sigurt se shteti shqiptar nuk u bie në qafë shqiptarëve",
-      "link": "https://24-ore.com/non-grata-per-belen-dhe-alimin-ahmeti-jam-i-sigurt-se-shteti-shqiptar-nuk-u-bie-ne-qafe-shqiptareve/",
-      "description": "Kryetari i BDI-së, Ali Ahmeti, ka komentuar vendimet e fundit të Ministrisë së Brendshme të Shqipërisë për shpalljen “non grata” të Valon Belës dhe Bekir Halimit I pyetur në emisionin “Click” se si i vlerëson këto vendime, Ahmeti tha se institucionet shqiptare duhet të kenë pasur fakte për të ndërma",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T06:40:00+00:00",
-      "dateStr": "11 Aug, 06:40",
-      "isNew": true,
-      "id": "24 21786430400"
+      "id": "she41786430646"
     },
     {
       "title": "Dy helikopterë nisin ndërhyrjen nga ajri për shuarjen e flakëve në Bojë të Krujës",
@@ -78,7 +243,7 @@
       "date": "2026-08-11T06:34:09+00:00",
       "dateStr": "11 Aug, 06:34",
       "isNew": true,
-      "id": "abc11786430049"
+      "id": "abc61786430049"
     },
     {
       "title": "58 mijë makina hynë në qarkullim në rrugët e vendit në janar-korrik, 11% elektrike",
@@ -89,18 +254,7 @@
       "date": "2026-08-11T06:33:35+00:00",
       "dateStr": "11 Aug, 06:33",
       "isNew": true,
-      "id": "she21786430015"
-    },
-    {
-      "title": "Lirohet pas një ditë i moshuari që dyshohet për zjarrvënien në Krujë! Riaktivizohet vatra në Abazaj, ndërhyrje nga toka",
-      "link": "https://24-ore.com/lirohet-pas-nje-dite-i-moshuari-qe-dyshohet-per-zjarrvenien-ne-kruje-riaktivizohet-vatra-ne-abazaj-nderhyrje-nga-toka/",
-      "description": "Lirohet nga qelia e paraburgimit i moshuari që dyshohet si piroman për vatrat e rrezikshme të zjarrit pranë qytetit të Krujës tre ditë më parë. Qemal Berhami, i cili dyshohet se lidhet me nisjen e zjarrit në lagjen ‘Abazaj’, është liruar dhe është kthyer në banesë mbrëmjen e kaluar. Nuk ka detaje pë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T06:30:58+00:00",
-      "dateStr": "11 Aug, 06:30",
-      "isNew": true,
-      "id": "24 31786429858"
+      "id": "she51786430015"
     },
     {
       "title": "Tërmeti në Kolumbi, mbi 130 të vdekur/ SHBA ofron 15.5 milionë dollarë ndihmë",
@@ -111,29 +265,7 @@
       "date": "2026-08-11T06:24:35+00:00",
       "dateStr": "11 Aug, 06:24",
       "isNew": true,
-      "id": "abc21786429475"
-    },
-    {
-      "title": "Zjarret kërcënojnë edhe pyjet e Pukës, vatër flakësh në kurorën me pisha! Shuhet në kohë, dyshohet e qëllimshme",
-      "link": "https://24-ore.com/zjarret-kercenojne-edhe-pyjet-e-pukes-vater-flakesh-ne-kuroren-me-pisha-shuhet-ne-kohe-dyshohet-e-qellimshme/",
-      "description": "Zjarret kanë përfshirë edhe pyjet e Pukës prej mëngjesit të sotëm, ndërsa një vatër u shfaq në kurorën me pisha, jo shumë larg qytetit. Dyshimet e para janë se zjarri mund të jetë shkaktuar qëllimisht, ndërsa përballë flakëve kanë ndërhyrë menjëherë shërbimet zjarrfikëse të Pukës, të ndihmuara edhe ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T06:17:46+00:00",
-      "dateStr": "11 Aug, 06:17",
-      "isNew": true,
-      "id": "24 41786429066"
-    },
-    {
-      "title": "VIDEO/ Rëndohet bilanci nga tërmeti apokaliptik në Kolumbi, mbi 130 të vdekur dhe 570 të plagosur! Shpallet gjendja e katas",
-      "link": "https://24-ore.com/video-rendohet-bilanci-nga-termeti-apokaliptik-ne-kolumbi-mbi-130-te-vdekur-dhe-570-te-plagosur-shpallet-gjendja-e-katas/",
-      "description": "Numri i të vdekurve nga një tërmet shkatërrues me magnitudë 7.4 që goditi Kolumbinë perëndimore dje (10 gusht) po rritet në mënyrë dramatike. Të paktën 132 persona të vdekur dhe 570 të plagosur raportohen, ndërsa ekipet e shpëtimit vazhdojnë të kërkojnë për të mbijetuar të bllokuar në rrënoja. Numri",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T06:17:31+00:00",
-      "dateStr": "11 Aug, 06:17",
-      "isNew": true,
-      "id": "24 51786429051"
+      "id": "abc71786429475"
     },
     {
       "title": "“Serbia e humbi Kosovën!”, Rama: Kosova është shtet më vete, Ibri është sistem ujor ndërkufitar",
@@ -144,7 +276,7 @@
       "date": "2026-08-11T06:13:16+00:00",
       "dateStr": "11 Aug, 06:13",
       "isNew": true,
-      "id": "abc31786428796"
+      "id": "abc81786428796"
     },
     {
       "title": "Televizionet që kanë fondet më të larta të pagave, sa paguhen mesatarisht gazetarët e TV",
@@ -155,7 +287,7 @@
       "date": "2026-08-11T06:11:05+00:00",
       "dateStr": "11 Aug, 06:11",
       "isNew": true,
-      "id": "she31786428665"
+      "id": "she61786428665"
     },
     {
       "title": "Tërmeti katastrofik në Kolumbi, 132 të vdekur dhe 570 të plagosur, vijojnë kërkimet nën rrënoja",
@@ -166,29 +298,7 @@
       "date": "2026-08-11T05:59:29+00:00",
       "dateStr": "11 Aug, 05:59",
       "isNew": true,
-      "id": "she41786427969"
-    },
-    {
-      "title": "KIEV – Zelensky: Koreja e Veriut po furnizon Rusinë me armë dhe po përmirëson raketat e saj",
-      "link": "https://24-ore.com/kiev-zelensky-koreja-e-veriut-po-furnizon-rusine-me-arme-dhe-po-permireson-raketat-e-saj/",
-      "description": "KIEV, 11 gusht /ATSH-ANSA/ – Koreja e Veriut vazhdon t’i furnizojë Rusisë armë, ndërsa përvoja e fituar gjatë luftës mund t’i mundësojë Phenianit të përmirësojë kapacitetet e veta raketore, deklaroi presidenti ukrainas Volodymyr Zelensky në një videomesazh të publikuar në rrjetet sociale. “Sa më shu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T05:46:35+00:00",
-      "dateStr": "11 Aug, 05:46",
-      "isNew": true,
-      "id": "24 61786427195"
-    },
-    {
-      "title": "Përplasja për Ibrin/ Rama i përgjigjet Beogradit: Lumenjtë ndjekin gjeografinë, jo pikat diplomatike. Serbia e humbi Kosovën",
-      "link": "https://24-ore.com/perplasja-per-ibrin-rama-i-pergjigjet-beogradit-lumenjte-ndjekin-gjeografine-jo-pikat-diplomatike-serbia-e-humbi-kosoven/",
-      "description": "Pas përplasjeve mes Ministrit të Jashtëm shqiptar Ferit Hoxha dhe ministrit të jashtëm serb Marko Gjuriç mbi pretendimet nga pala serbe për devijimin e lumit Ibër që përshkron dhe Kosovës, ka ardhur dhe reagimi i Kryeministrit Edi Rama. Ky i fundit e cilësoi debatin mes dy ministrave si një “shkëmbi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T05:34:57+00:00",
-      "dateStr": "11 Aug, 05:34",
-      "isNew": true,
-      "id": "24 71786426497"
+      "id": "she71786427969"
     },
     {
       "title": "Situata me zjarret në Krujë, ‘në flakë’ 4 zona/ Pritet ndërhyrja nga ajri në Bojë",
@@ -199,7 +309,7 @@
       "date": "2026-08-11T05:30:46+00:00",
       "dateStr": "11 Aug, 05:30",
       "isNew": true,
-      "id": "abc41786426246"
+      "id": "abc91786426246"
     },
     {
       "title": "“Nuk kemi asnjë pretendim për territorin tuaj”, Rama i përgjigjet Vuçiç pas tensioneve për Ibrin: Serbia e ka humbur Kosovën",
@@ -210,51 +320,7 @@
       "date": "2026-08-11T05:29:28+00:00",
       "dateStr": "11 Aug, 05:29",
       "isNew": true,
-      "id": "she51786426168"
-    },
-    {
-      "title": "Mike Gansey: Si shkëmbimi i Jaylen Brown hapi rrugën për LeBron James te 76ers",
-      "link": "https://24-ore.com/mike-gansey-si-shkembimi-i-jaylen-brown-hapi-rrugen-per-lebron-james-te-76ers/",
-      "description": "Presidenti i Philadelphia 76ers, Mike Gansey, thotë se blerja e Jaylen Brown nga Boston ishte vendimtare për të bindur LeBron James të bashkohej me skuadrë...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T05:26:30+00:00",
-      "dateStr": "11 Aug, 05:26",
-      "isNew": true,
-      "id": "24 81786425990"
-    },
-    {
-      "title": "Ditë e nxehtë në Kosovë, temperaturat arrijnë deri në 36 gradë",
-      "link": "https://24-ore.com/dite-e-nxehte-ne-kosove-temperaturat-arrijne-deri-ne-36-grade/",
-      "description": "Kosova gjatë ditës së sotme do të karakterizohet nga mot kryesisht me diell. Instituti Hidrometeorologjik bën të ditur se temperaturat minimale do të lëvizin nga 12 deri në 17 gradë Celsius, ndërsa temperaturat maksimale pritet të arrijnë nga 30 deri në 36 gradë Celsius. Era do të fryjë nga veriu dh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T05:14:36+00:00",
-      "dateStr": "11 Aug, 05:14",
-      "isNew": true,
-      "id": "24 91786425276"
-    },
-    {
-      "title": "Horoskopi, 11 gusht 2026",
-      "link": "https://abcnews.al/horoskopi-11-gusht-2026/",
-      "description": "Dashi Dita është e mirë për aktivitete krijuese, ngjarje festive dhe fushata promocionale. Ju mund të përqendroheni në një ide interesante e cila ka nevojë për rivlerësim. Duke qenë të rrethuar nga njerëz ose duke punuar për një projekt krijues, do promovoni jetën tuaj dashurore. Demi Përpiquni ta b",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T05:04:38+00:00",
-      "dateStr": "11 Aug, 05:04",
-      "isNew": true,
-      "id": "abc51786424678"
-    },
-    {
-      "title": "Parashikimi i motit, 11 gusht 2026",
-      "link": "https://abcnews.al/parashikimi-i-motit-11-gusht-2026/",
-      "description": "Këtë të martë, më 11 gusht, në orët e para të mëngjesit dhe në mesditë parashikohet që në vijën bregdetare dhe në qytetet e zonës së ulët të ketë intervale të gjata me diell. Ndërsa në zonat malore, herë pas here pritet të ketë kalime të lehta të vranësirave. Parashikohet që vranësirat të bëhen më [",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-11T05:04:26+00:00",
-      "dateStr": "11 Aug, 05:04",
-      "isNew": true,
-      "id": "abc61786424666"
+      "id": "she81786426168"
     },
     {
       "title": "Shqipëria dështon që në nisje, Burraj dhe Mema eliminohen nga Evropiani i Atletikës",
@@ -265,73 +331,7 @@
       "date": "2026-08-10T20:58:08+00:00",
       "dateStr": "10 Aug, 20:58",
       "isNew": true,
-      "id": "she61786395488"
-    },
-    {
-      "title": "VIDEO/ Deputetja britanike Sarah Pochin: Shqipëria të marrë të dënuarit, ndryshe t’i bllokojmë vizat dhe ndihmat",
-      "link": "https://shekulli.com.al/2026/08/10/deputetja-britanike-sarah-pochin-shqiperia-te-marre-te-denuarit-ndryshe-ti-bllokojme-vizat-dhe-ndihmat/",
-      "description": "Deputetja britanike e Reform UK, Sarah Pochin, ka kërkuar që qeveria e vendit të saj t’i vendosë Shqipërisë një ultimatum për pranimin e shtetasve shqiptarë të dënuar në Mbretërinë e Bashkuar. Në rast refuzimi, ajo ka propozuar bllokimin e vizave britanike dhe ndërprerjen e ndihmës financiare për Sh",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T20:51:22+00:00",
-      "dateStr": "10 Aug, 20:51",
-      "isNew": true,
-      "id": "she71786395082"
-    },
-    {
-      "title": "Gjimshiti largohet nga Atalanta/ Pas 10 vitesh, kapiteni i jep fund aventurës në Bergamo, shkon te Al Diriyah",
-      "link": "https://abcnews.al/gjimshiti-largohet-nga-atalanta-pas-10-vitesh-kapiteni-i-jep-fund-aventures-ne-bergamo-shkon-te-al-diriyah/",
-      "description": "Pas 1 dekade, Berat Gjimshiti i ka dhënë lamtumirën Atalantës dhe do të vazhdojë karrierën e tij te Al Diriyah, në Saudi Pro League. Kapiteni i Kombëtares shqiptare ka firmosur një kontratë dyvjeçare me skuadrën saudite, ndërsa bergamaskët kanë përfituar 3 milionë euro nga shitja e tij. Mbrojtësi i ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T20:48:22+00:00",
-      "dateStr": "10 Aug, 20:48",
-      "isNew": true,
-      "id": "abc71786394902"
-    },
-    {
-      "title": "SHBA/ Meta prezanton modelin IA me funksione edhe në PC",
-      "link": "https://abcnews.al/shba-meta-prezanton-modelin-ia-me-funksione-edhe-ne-pc/",
-      "description": "Kompania Meta ka prezantuar një model të ri të inteligjencës artificiale (IA), i cili mund të funksionojë edhe në një kompjuter personal (PC), ndërsa drejtori ekzekutiv Mark Zuckerberg bëri thirrje për më pak kufizime ndaj inteligjencës artificiale me burim të hapur. Zuckerberg deklaroi se Meta do t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T20:45:22+00:00",
-      "dateStr": "10 Aug, 20:45",
-      "isNew": true,
-      "id": "abc81786394722"
-    },
-    {
-      "title": "Aksion për ndërtimet pa leje në Vlorë/ Bashkia dhe IMT nisin prishjen në zonën e ish-gjykatës së vjetër",
-      "link": "https://abcnews.al/aksion-per-ndertimet-pa-leje-ne-vlore-bashkia-dhe-imt-nisin-prishjen-ne-zonen-e-ish-gjykates-se-vjeter/",
-      "description": "Bashkia e Vlorës ka nisur këtë të hënë aksionin për prishjen e ndërtimeve dhe shtesave pa leje në zonën e ish-Gjykatës së Vjetër. Ndërhyrja është zhvilluar në bashkëpunim me Inspektoratin e Mbrojtjes së Territorit dhe Policinë Bashkiake. Gjatë aksionit janë prishur disa ndërtime pa leje, shtesa dhe ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-10T20:41:51+00:00",
-      "dateStr": "10 Aug, 20:41",
-      "isNew": true,
-      "id": "abc91786394511"
-    },
-    {
-      "title": "Zjarri përhapet në Krastë të Krujës, flakët rrezikojnë depot e eksplozivit në Zidoll",
-      "link": "https://shekulli.com.al/2026/08/10/zjarri-perhapet-ne-kraste-te-krujes-flaket-rrezikojne-depot-e-eksplozivit-ne-zidoll/",
-      "description": "Pesë vatra zjarri vijojnë të jenë aktive në vend, ndërsa situata më problematike paraqitet në Krastë të Krujës. Në anën veriore të malit, flakët po përhapen me shpejtësi, duke rrezikuar edhe depot e eksplozivit në zonën e Zidollit. Në fshatin Zidoll, zjarri po përparon në drejtim të depove të eksplo",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T20:32:18+00:00",
-      "dateStr": "10 Aug, 20:32",
-      "isNew": true,
-      "id": "she81786393938"
-    },
-    {
-      "title": "Ndodh në aeroportin e Milanos, makina futet në pistë dhe përplas avionin",
-      "link": "https://shekulli.com.al/2026/08/10/ndodh-ne-aeroportin-e-milanos-makina-futet-ne-piste-dhe-perplas-avionin/",
-      "description": "Një incident i pazakontë është regjistruar paraditen e së hënës në aeroportin “Linate” të Milanos, ku një automjet shërbimi është përplasur me një avion privat që po lëvizte drejt pistës së ngritjes. Pamjet e kamerave të sigurisë, të publikuara nga Corriere della Sera, tregojnë se avioni privat, një",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-10T20:23:26+00:00",
-      "dateStr": "10 Aug, 20:23",
-      "isNew": true,
-      "id": "she91786393406"
+      "id": "she91786395488"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
