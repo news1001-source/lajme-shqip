@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-08-11T20:52:08.602502+00:00",
+  "lastUpdated": "2026-08-11T21:40:55.630926+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "‘Po digjet Lura’, këshilltari i Sigurisë në PD jep alarmin: Zjarri djeg gjithçka prej 8 orësh, situata jashtë kontrollit",
+      "link": "https://shekulli.com.al/2026/08/11/po-digjet-lura-keshilltari-i-sigurise-ne-pd-jep-alarmin-zjarri-djeg-gjithcka-prej-8-oresh-situata-jashte-kontrollit/",
+      "description": "Këshilltari për Sigurinë në Partinë Demokratike, Xhemal Gjunkshi, ka ngritur alarmin për situatën e zjarrit në Lurë, duke kërkuar ndërhyrje të menjëhershme dhe mobilizimin e mjeteve ajrore. Përmes një reagimi në rrjetet sociale, Gjunkshi pretendon se më shumë se tetë orë pas shpërthimit të zjarrit, ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-11T20:57:51+00:00",
+      "dateStr": "11 Aug, 20:57",
+      "isNew": true,
+      "id": "she01786481871"
+    },
+    {
+      "title": "Ndalohen pesë persona, zbardhen dy raste të grabitjeve në Shkup",
+      "link": "https://24-ore.com/ndalohen-pese-persona-zbardhen-dy-raste-te-grabitjeve-ne-shkup/",
+      "description": "MPB Maqedoni njofton se zyrtarë policorë nga SPB Shkup arrestuan pesë persona në lidhje me dy vepra penale, të raportuara më 09.08.2026. &#8220;Në koordinim me SPB Tetovë, J.J. (24), A.O. (22) dhe A.A. (24), të gjithë nga Gostivari, u arrestuan me dyshimin se më 09.08.2026 rreth orës 04:00, pranë pa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T20:56:17+00:00",
+      "dateStr": "11 Aug, 20:56",
+      "isNew": true,
+      "id": "24 01786481777"
+    },
     {
       "title": "Bobby Portis përplaset me Norman Powell pas komentit për shkëmbimin me Giannis: ‘Mbaje emrin tim larg gojës’",
       "link": "https://24-ore.com/bobby-portis-perplaset-me-norman-powell-pas-komentit-per-shkembimin-me-giannis-mbaje-emrin-tim-larg-gojes/",
@@ -12,7 +34,7 @@
       "date": "2026-08-11T20:50:48+00:00",
       "dateStr": "11 Aug, 20:50",
       "isNew": true,
-      "id": "24 01786481448"
+      "id": "24 11786481448"
     },
     {
       "title": "Takimi Rama-Soros në Dhërmi, gazetari: Kryeministri i takon publikisht miqtë, pa komplekse, pavarësisht ndarjeve politike",
@@ -23,7 +45,7 @@
       "date": "2026-08-11T20:47:26+00:00",
       "dateStr": "11 Aug, 20:47",
       "isNew": true,
-      "id": "24 11786481246"
+      "id": "24 21786481246"
     },
     {
       "title": "Vapa ndryshon tregun e banesave në Francë, blerësit kërkojnë shtëpi më të freskëta",
@@ -34,7 +56,7 @@
       "date": "2026-08-11T20:46:34+00:00",
       "dateStr": "11 Aug, 20:46",
       "isNew": true,
-      "id": "24 21786481194"
+      "id": "24 31786481194"
     },
     {
       "title": "Ibri ‘përmbyt’ Vuçiçin, presidenti serb kundër Komisionit Evropian: Po mbroni shërbëtorët shqiptarë, patëm komunikim të keq me KFOR-in",
@@ -45,7 +67,7 @@
       "date": "2026-08-11T20:46:04+00:00",
       "dateStr": "11 Aug, 20:46",
       "isNew": true,
-      "id": "she01786481164"
+      "id": "she11786481164"
     },
     {
       "title": "BUKURESHT – Rumania shkatërron dy dronë pranë një projekti gazi në Detin e Zi",
@@ -56,7 +78,7 @@
       "date": "2026-08-11T20:46:02+00:00",
       "dateStr": "11 Aug, 20:46",
       "isNew": true,
-      "id": "24 31786481162"
+      "id": "24 41786481162"
     },
     {
       "title": "“Odisea” e Nolan pushton Greqinë, debat për Helenën e Trojës",
@@ -67,7 +89,7 @@
       "date": "2026-08-11T20:35:41+00:00",
       "dateStr": "11 Aug, 20:35",
       "isNew": true,
-      "id": "she11786480541"
+      "id": "she21786480541"
     },
     {
       "title": "24 vatra zjarri në një ditë. Tetë janë ende aktive",
@@ -78,7 +100,7 @@
       "date": "2026-08-11T20:31:32+00:00",
       "dateStr": "11 Aug, 20:31",
       "isNew": true,
-      "id": "24 41786480292"
+      "id": "24 51786480292"
     },
     {
       "title": "Prapashtica: Parashikuam se Kosova do të bëhej Republikë ose Jugosllavia do të zhdukej nga harta",
@@ -89,7 +111,7 @@
       "date": "2026-08-11T20:26:20+00:00",
       "dateStr": "11 Aug, 20:26",
       "isNew": true,
-      "id": "24 51786479980"
+      "id": "24 61786479980"
     },
     {
       "title": "Shqipëria e para për sigurinë kibernetike, Rama pas reagimeve: U vërsulën si tufa sorrash me turlilloj krrakrrash",
@@ -100,7 +122,7 @@
       "date": "2026-08-11T20:22:26+00:00",
       "dateStr": "11 Aug, 20:22",
       "isNew": true,
-      "id": "24 61786479746"
+      "id": "24 71786479746"
     },
     {
       "title": "Zjarr në një sipërfaqe pyjore mbi fshatin Sinicë në Devoll, zjarrfikësit në vendngjarje (VIDEO)",
@@ -111,7 +133,7 @@
       "date": "2026-08-11T20:22:11+00:00",
       "dateStr": "11 Aug, 20:22",
       "isNew": true,
-      "id": "24 71786479731"
+      "id": "24 81786479731"
     },
     {
       "title": "Venezuela vendos shërbime konsullore me Izraelin pas një ndërprerjeje diplomatike 17-vjeçare",
@@ -122,18 +144,7 @@
       "date": "2026-08-11T20:21:58+00:00",
       "dateStr": "11 Aug, 20:21",
       "isNew": true,
-      "id": "24 81786479718"
-    },
-    {
-      "title": "Rumania shkatërron dy dronë “Gerbera” që lëvizën pranë një projekti të madh gazi në Detin e Zi",
-      "link": "https://24-ore.com/rumania-shkaterron-dy-drone-gerbera-qe-levizen-prane-nje-projekti-te-madh-gazi-ne-detin-e-zi/",
-      "description": "Ministri i Mbrojtjes i Rumanisë, Radu Miruta njoftoi se zhytësit e ushtrisë rumune shkatërruan dy dronë të tipit Gerbera që lëviznin në Detin e Zi të vendit, pranë projektit të gazit në det të hapur Neptun Deep. Shteti anëtar i NATO-s ndan një kufi tokësor prej 614 km me Ukrainën dhe ka parë dronë r",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T20:21:45+00:00",
-      "dateStr": "11 Aug, 20:21",
-      "isNew": true,
-      "id": "24 91786479705"
+      "id": "24 91786479718"
     },
     {
       "title": "UNESCO: 2,4 milionë vajza afgane të përjashtuara nga shkollimi i mesëm",
@@ -155,7 +166,7 @@
       "date": "2026-08-11T20:17:22+00:00",
       "dateStr": "11 Aug, 20:17",
       "isNew": true,
-      "id": "she21786479442"
+      "id": "she31786479442"
     },
     {
       "title": "VIDEO/ Riaktivizohet zjarri në Krujë, forcat zjarrfikëse kalojnë në gatishmëri",
@@ -177,7 +188,7 @@
       "date": "2026-08-11T20:06:00+00:00",
       "dateStr": "11 Aug, 20:06",
       "isNew": true,
-      "id": "she31786478760"
+      "id": "she41786478760"
     },
     {
       "title": "Tajfuni godet rajonin Kanto, paralajmërime për përmbytje në Japoni",
@@ -199,7 +210,7 @@
       "date": "2026-08-11T19:59:09+00:00",
       "dateStr": "11 Aug, 19:59",
       "isNew": true,
-      "id": "she41786478349"
+      "id": "she51786478349"
     },
     {
       "title": "Luiza Gega përtej medaljeve: Gjithmonë e kam menduar tërheqjen nga sporti, ka qenë rrugëtim i vështirë",
@@ -221,7 +232,7 @@
       "date": "2026-08-11T19:36:38+00:00",
       "dateStr": "11 Aug, 19:36",
       "isNew": true,
-      "id": "she51786476998"
+      "id": "she61786476998"
     },
     {
       "title": "Shqiptarët mblodhën 160 mijë euro për djalin e tij, Altin Hila nga protesta: Më keni rregulluar jetën",
@@ -232,7 +243,7 @@
       "date": "2026-08-11T19:22:28+00:00",
       "dateStr": "11 Aug, 19:22",
       "isNew": true,
-      "id": "she61786476148"
+      "id": "she71786476148"
     },
     {
       "title": "Kosovë/ PDK kërkon vazhdimin e seancës konstituive të mërkurën: Deputetët tanë do të jenë në Kuvend në orën 11:00",
@@ -254,7 +265,7 @@
       "date": "2026-08-11T19:17:03+00:00",
       "dateStr": "11 Aug, 19:17",
       "isNew": true,
-      "id": "she71786475823"
+      "id": "she81786475823"
     },
     {
       "title": "Rrëmbeu mbesën 10-ditëshe nga spitali, arrestohet gjyshja në Itali",
@@ -265,7 +276,7 @@
       "date": "2026-08-11T19:06:30+00:00",
       "dateStr": "11 Aug, 19:06",
       "isNew": true,
-      "id": "she81786475190"
+      "id": "she91786475190"
     },
     {
       "title": "“Stabiliteti në Ballkan, prioritet”/ Deklarata e Vuçiç për Lumin Ibër: Normalizimi Kosovë-Serbi është i domosdoshëm",
@@ -277,17 +288,6 @@
       "dateStr": "11 Aug, 18:41",
       "isNew": true,
       "id": "abc51786473670"
-    },
-    {
-      "title": "Tha se Shqipëria renditet e para në sigurinë kibernetike, Rama përgjigje kritikëve: Urrejtësit e mi besnikë mund të hidhen përpjetë, por tabela nuk ndryshon",
-      "link": "https://shekulli.com.al/2026/08/11/tha-se-shqiperia-renditet-e-para-ne-sigurine-kibernetike-rama-pergjigje-kritikeve-urrejtesit-e-mi-besnike-mund-te-hidhen-perpjete-por-tabela-nuk-ndryshon/",
-      "description": "Kryeministri Edi Rama u është kundërpërgjigjur kritikëve që vunë në dyshim renditjen e Shqipërisë në vendin e parë në National Cyber Security Index, duke e cilësuar rezultatin si një vlerësim të bazuar në metodologji ndërkombëtare dhe jo në propagandë. Në një postim në rrjetet sociale, Rama i cilëso",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-11T18:40:15+00:00",
-      "dateStr": "11 Aug, 18:40",
-      "isNew": true,
-      "id": "she91786473615"
     },
     {
       "title": "Edicioni Qendror me Juli Krisafi, (11/08/2026)",
