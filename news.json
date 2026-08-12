@@ -1,18 +1,249 @@
 {
-  "lastUpdated": "2026-08-12T10:59:12.674565+00:00",
+  "lastUpdated": "2026-08-12T11:51:48.216618+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Andovski: Nuk ka vend për panik, të respektohen masat e mbrojtjes personale nga ethet e Nilit Perëndimor",
-      "link": "https://24-ore.com/andovski-nuk-ka-vend-per-panik-te-respektohen-masat-e-mbrojtjes-personale-nga-ethet-e-nilit-perendimor/",
-      "description": "Zëvendësministri i Shëndetësisë, Jovica Andovski, së bashku me përfaqësuesit e Institutit të Shëndetit Publik, Qendrës së Shëndetit Publik Shkup dhe Klinikës së Sëmundjeve Infektive, në konferencën e sotme për shtyp informuan për situatën epidemiologjike lidhur me ethet e Nilit Perëndimor në vend. &",
+      "title": "25 vjet nga Marrëveshja e Ohrit, Hoxha: Stabiliteti i Maqedonisë së Veriut, pjesë e sigurisë së Ballkanit. Të drejtat e shqiptarëve nuk janë koncesion",
+      "link": "https://24-ore.com/25-vjet-nga-marreveshja-e-ohrit-hoxha-stabiliteti-i-maqedonise-se-veriut-pjese-e-sigurise-se-ballkanit-te-drejtat-e-shqiptareve-nuk-jane-koncesion/",
+      "description": "Ministri për Evropën dhe Punët e Jashtme, Ferit Hoxha, ka vlerësuar rëndësinë e Marrëveshjes Kornizë të Ohrit, në prag të 25-vjetorit të nënshkrimit të saj, duke e cilësuar atë një nga marrëveshjet më të rëndësishme politike dhe diplomatike për stabilitetin e Maqedonisë së Veriut dhe të gjithë Ballk",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-12T10:55:46+00:00",
-      "dateStr": "12 Aug, 10:55",
+      "date": "2026-08-12T11:50:51+00:00",
+      "dateStr": "12 Aug, 11:50",
       "isNew": true,
-      "id": "24 01786532146"
+      "id": "24 01786535451"
+    },
+    {
+      "title": "Një çerek shekulli nga Ohri: Marrëveshja që i dha Maqedonisë së Veriut të ardhmen",
+      "link": "https://24-ore.com/nje-cerek-shekulli-nga-ohri-marreveshja-qe-i-dha-maqedonise-se-veriut-te-ardhmen/",
+      "description": "Nga Ferit Hoxha / Ministër për Evropën dhe Punët e Jashtme i Republikës së Shqipërisë Ka momente në histori kur e ardhmja e një vendi përcaktohet nga një dokument i vetëm. Marrëveshje të tilla janë të rralla, por ndikimi i tyre ndihet për breza me radhë. Marrëveshja Kornizë e Ohrit është një prej ty",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T11:47:14+00:00",
+      "dateStr": "12 Aug, 11:47",
+      "isNew": true,
+      "id": "24 11786535234"
+    },
+    {
+      "title": "“Pasha Zotin krejt shtetin e rrotulloj”, në kërkim nga Policia, kush është i riu që po sfidon autoritetet në Kosovë: Më kanë rrethuar me snajper dhe drona",
+      "link": "https://shekulli.com.al/2026/08/12/pasha-zotin-krejt-shtetin-e-rrotulloj-ne-kerkim-nga-policia-kush-eshte-i-riu-qe-po-sfidon-autoritetet-ne-kosove-me-kane-rrethuar-me-snajper-dhe-drona/",
+      "description": "Vezir Haziraj, i shpallur në kërkim nga Policia e Kosovës, është shfaqur sërish në rrjetet sociale nga arratia, duke publikuar video me mesazhe sfiduese ndaj autoriteteve. Në një prej videove të fundit, ai shprehet: “Pasha Zotin, krejt shtetin e rrotulloj”, ndërsa në pamje është shfaqur edhe i armat",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-12T11:46:52+00:00",
+      "dateStr": "12 Aug, 11:46",
+      "isNew": true,
+      "id": "she01786535212"
+    },
+    {
+      "title": "Shpallet epidemi në disa komuna të Shkupit për shkak të përhapjes së “Etheve të Nilit perëndimor”",
+      "link": "https://24-ore.com/shpallet-epidemi-ne-disa-komuna-te-shkupit-per-shkak-te-perhapjes-se-etheve-te-nilit-perendimor/",
+      "description": "Zlatko Arsienievski nga Qendra e Shëndetit Publik Shkup informoi se dje u shpall epidemi në disa komuna të prekura të qytetit të Shkupit, si Kisella Voda, Gazi Babë, Aerodrom, Butel dhe Ilinden, si dhe në vendbanimet e prekura Draçevë, Përzhinë, Lisiçe e Poshtme, Kadino dhe Jurumleri. Nga Ministria ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T11:45:30+00:00",
+      "dateStr": "12 Aug, 11:45",
+      "isNew": true,
+      "id": "24 21786535130"
+    },
+    {
+      "title": "Krujë/ Vatër e re zjarri në kurorën me pisha në Boje, ndërhyrje me helikopter për shuarjen e flakëve",
+      "link": "https://abcnews.al/kruje-vater-e-re-zjarri-ne-kuroren-me-pisha-ne-boje-nderhyrje-me-helikopter-per-shuarjen-e-flakeve/",
+      "description": "Riaktivizohet një vatër zjarri në kurorën me pisha në Boje. Një helikopter, forca të ushtrisë po punojnë për izolimin e zjarrit. Herë pas here në disa zona të Krujës, vatrat e zjarrit riaktivizohen, ndërsa në gatishmëri qëndrojnë zjarrfikëse, ushtria, dhe helikopterët ushtarake. Në Boje nuk paraqet ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-12T11:43:38+00:00",
+      "dateStr": "12 Aug, 11:43",
+      "isNew": true,
+      "id": "abc01786535018"
+    },
+    {
+      "title": "“Gjuajtje me ujë, letra, kapje për duarsh”, tensione në Kuvend – deputetët përplasen fizikisht e verbalisht",
+      "link": "https://24-ore.com/gjuajtje-me-uje-letra-kapje-per-duarsh-tensione-ne-kuvend-deputetet-perplasen-fizikisht-e-verbalisht/",
+      "description": "Tensionet në Kuvendin e Kosovës kanë eskaluar gjatë zhvillimeve të fundit, me përplasje të shumta mes deputetëve të partive të ndryshme politike. Një nga incidentet ka ndodhur mes deputetit të PDK-së, Mërgim Lushtaku dhe deputetit të Lëvizjes Vetëvendosje, Adnan Rrustemi. Gjatë përplasjes, Lushtaku ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T11:40:39+00:00",
+      "dateStr": "12 Aug, 11:40",
+      "isNew": true,
+      "id": "24 31786534839"
+    },
+    {
+      "title": "Një çerek shekulli nga Ohri: Marrëveshja që i dha Maqedonisë së Veriut të ardhmen",
+      "link": "https://abcnews.al/nje-cerek-shekulli-nga-ohri-marreveshja-qe-i-dha-maqedonise-se-veriut-te-ardhmen/",
+      "description": "Nga Ferit Hoxha Ka momente në histori kur e ardhmja e një vendi përcaktohet nga një dokument i vetëm. Marrëveshje të tilla janë të rralla, por ndikimi i tyre ndihet për breza me radhë. Marrëveshja Kornizë e Ohrit është një prej tyre. Më 13 gusht 2001, njëzet e pesë vjet më parë, udhëheqësit politikë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-12T11:36:03+00:00",
+      "dateStr": "12 Aug, 11:36",
+      "isNew": true,
+      "id": "abc11786534563"
+    },
+    {
+      "title": "Tensione në Kuvend, Hamza: Kuvendi nuk është pronë e Albin Kurtit dhe e Lëvizjes Vetëvendosje",
+      "link": "https://24-ore.com/tensione-ne-kuvend-hamza-kuvendi-nuk-eshte-prone-e-albin-kurtit-dhe-e-levizjes-vetevendosje/",
+      "description": "Replika, përplasje verbale e fizike ka pasur sot në Kuvendin e Kosovës, ndërmjet deputetëve të PDK-së, AAK-së me ata të LVV-së. Kuvendit sot kishte hapur dyert për bashkatdhetarë, ndërsa PDK duke kërkuar mbajtjen e seancës konstituive kishte paralajmëruar se sot nga ora 11:00 do të jenë në Kuvend. K",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T11:35:14+00:00",
+      "dateStr": "12 Aug, 11:35",
+      "isNew": true,
+      "id": "24 41786534514"
+    },
+    {
+      "title": "Nënkryetarja e PD, Erisa Bajaziti: Përgjegjësi e madhe, dua të sjell një frymë të re bashkëpunimi",
+      "link": "https://24-ore.com/nenkryetarja-e-pd-erisa-bajaziti-pergjegjesi-e-madhe-dua-te-sjell-nje-fryme-te-re-bashkepunimi/",
+      "description": "E zgjedhur nga Këshilli Kombëtar, i zhvilluar më 15 korrik, në postin si nënkryetare e Partisë Demokratike, Erisa Bajaziti ishte e ftuar në studion e RTSH24, ku foli për përgjegjësinë e re politike, prioritetet e saj, diasporën dhe nevojën për një angazhim më të drejtpërdrejtë me qytetarët. Bajaziti",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T11:34:57+00:00",
+      "dateStr": "12 Aug, 11:34",
+      "isNew": true,
+      "id": "24 51786534497"
+    },
+    {
+      "title": "Njësi e re kimioterapie në Korçë/ Sala: Pacienti nuk duhet të udhëtojë qindra kilometra për trajtimin onkologjik",
+      "link": "https://24-ore.com/njesi-e-re-kimioterapie-ne-korce-sala-pacienti-nuk-duhet-te-udhetoje-qindra-kilometra-per-trajtimin-onkologjik/",
+      "description": "Shërbimi onkologjik po afrohet gjithnjë e më shumë me pacientët. Në Spitalin Rajonal të Korçës është rikualifikuar njësia e kimioterapisë ditore, e rikonstruktuar dhe e pajisur sipas standardeve bashkëkohore për trajtimin e pacientëve me sëmundje tumorale. Gjatë vizitës në njësinë e re, Ministrja e ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T11:31:29+00:00",
+      "dateStr": "12 Aug, 11:31",
+      "isNew": true,
+      "id": "24 61786534289"
+    },
+    {
+      "title": "Rama mbledh kryebashkiakët në Kuç të Vlorës, në fokus harta e re territoriale",
+      "link": "https://24-ore.com/rama-mbledh-kryebashkiaket-ne-kuc-te-vlores-ne-fokus-harta-e-re-territoriale/",
+      "description": "Kryeministri Edi Rama ka mbledhur në Kuç të Vlorës kryetarët e bashkive të vendit, në takimin e parë pas prezantimit të propozimit të PS për hartën e re territoriale. Në takim marrin pjesë edhe ministri për Pushtetin Vendor, Ervin Demo, si dhe Arbjan Mazniku, bashkëkryetar i Komisionit të Posaçëm Pa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T11:30:14+00:00",
+      "dateStr": "12 Aug, 11:30",
+      "isNew": true,
+      "id": "24 71786534214"
+    },
+    {
+      "title": "FOKUS – Putini: Rusia do të përgjigjet ndaj çdo sekuestrimi të anijeve të saj tregtare nga BE-ja",
+      "link": "https://24-ore.com/fokus-putini-rusia-do-te-pergjigjet-ndaj-cdo-sekuestrimi-te-anijeve-te-saj-tregtare-nga-be-ja/",
+      "description": "Presidenti rus Vladimir Putin tha sot se vendi i tij do t’i “përgjigjet në të njëjtën mënyrë” sekuestrimit të anijeve të tij tregtare nga vendet e Bashkimit Evropian, duke i përcaktuar planet e tilla si “asgjë më shumë se pirateri dhe grabitje. “Nëse kjo fillon të zbatohet në praktikë, ne do të jemi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T11:30:07+00:00",
+      "dateStr": "12 Aug, 11:30",
+      "isNew": true,
+      "id": "24 81786534207"
+    },
+    {
+      "title": "Rusia me ligj të ri, burg për personat që ofendojnë Putin",
+      "link": "https://abcnews.al/rusia-me-ligj-te-ri-burg-per-personat-qe-ofendojne-putin/",
+      "description": "Ligji i ri i lejon shtetit rus të bllokojë llogaritë, të ngrijë asetet dhe të mohojë shërbimet konsullore për rusët që jetojnë jashtë vendit. Ligji synon kryesisht ata që e kanë ofenduar Putinin. Ligji ka një titull të gjatë dhe të ndërlikuar: “Mbi masat e përkohshme kufizuese kundër personave që nd",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-12T11:28:40+00:00",
+      "dateStr": "12 Aug, 11:28",
+      "isNew": true,
+      "id": "abc21786534120"
+    },
+    {
+      "title": "Caitlin Clark shmang pezullimin pas anulimit të faullit teknik nga WNBA",
+      "link": "https://24-ore.com/caitlin-clark-shmang-pezullimin-pas-anulimit-te-faullit-teknik-nga-wnba/",
+      "description": "Caitlin Clark ishte e rrezikuar nga pezullimi për një ndeshje pasi mori tekniken e tetë këtë sezon, por WNBA e tërhoqi vendimin dhe anuloi faullin. Ajo u s...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T11:26:25+00:00",
+      "dateStr": "12 Aug, 11:26",
+      "isNew": true,
+      "id": "24 91786533985"
+    },
+    {
+      "title": "Merr flakë në automjeti në aksin Dibër-Rrëshen, flakët përfshijnë edhe një sipërfaqe pyjore në anë të rrugës",
+      "link": "https://abcnews.al/merr-flake-ne-automjeti-ne-aksin-rrugor-diber-rreshen-shkak-dyshohet-nje-defekt-teknik/",
+      "description": "Një automjet është përfshirë nga flakët pasditen e 11 gushtit në aksin rrugor “Dibër-Rrëshen”. Ngjarja ka ndodhur rreth orës 15:30, ndërsa dyshohet se zjarri është shkaktuar nga një defekt teknik. Automjeti ka marrë flakë gjatë lëvizjes. Si pasojë, automjeti është djegur plotësisht, ndërsa flakët ja",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-12T11:18:14+00:00",
+      "dateStr": "12 Aug, 11:18",
+      "isNew": true,
+      "id": "abc31786533494"
+    },
+    {
+      "title": "Shqipëria Sot me Fabiola Hoxha, (12/08/2026)",
+      "link": "https://abcnews.al/shqiperia-sot-me-fabiola-hoxha-12-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-12T11:13:49+00:00",
+      "dateStr": "12 Aug, 11:13",
+      "isNew": true,
+      "id": "abc41786533229"
+    },
+    {
+      "title": "Shqipëria Sot me Fabiola Hoxhën, (12/08/2026)",
+      "link": "https://abcnews.al/shqiperia-sot-me-fabiola-hoxhen-12-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-12T11:13:46+00:00",
+      "dateStr": "12 Aug, 11:13",
+      "isNew": true,
+      "id": "abc51786533226"
+    },
+    {
+      "title": "Zelensky: I kemi dorëzuar SHBA propozimet për t’i dhënë fund luftës",
+      "link": "https://abcnews.al/zelensky-i-kemi-dorezuar-shba-propozimet-per-ti-dhene-fund-luftes/",
+      "description": "Presidenti ukrainas Volodymyr Zelensky ka deklaruar se Ukraina i ka paraqitur Shteteve të Bashkuara propozimet e saj për t’i dhënë fund luftës me Rusinë. “Ne ia kaluam propozimet tona palës amerikane”, tha Zelensky në një fjalim të martën në mbrëmje. Sipas tij, SHBA-ja mund të ndihmojë në forcimin e",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-12T11:11:29+00:00",
+      "dateStr": "12 Aug, 11:11",
+      "isNew": true,
+      "id": "abc61786533089"
+    },
+    {
+      "title": "Breaking News me Fabiola Hoxha, (12/08/2026)",
+      "link": "https://abcnews.al/breaking-news-me-fabiola-hoxha-12-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-12T11:11:06+00:00",
+      "dateStr": "12 Aug, 11:11",
+      "isNew": true,
+      "id": "abc71786533066"
+    },
+    {
+      "title": "“Ik se po të vjen goja erë”, përplasje mes deputeteve në Kuvendin e Kosovës, PDK ndalon konferencën e Haxhiut",
+      "link": "https://shekulli.com.al/2026/08/12/ik-se-po-te-vjen-goja-ere-perplasje-mes-deputeteve-ne-kuvendin-e-kosoves-pdk-ndalon-konferencen-e-haxhiut/",
+      "description": "PRISHTINË- Kuvendi i Kosovës ka zhvilluar sot një tjetër seancë me kaosit, për shkak të tejkalimit të afateve për krijimin e institucioneve të reja. Ushtruesja e detyrës së Presidentit të Kosovës, Albulena Haxhiu, ka ndërprerë një konferencë për mediat në hollin e Kuvendit, pasi pranë saj u shfaqën ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-12T11:06:12+00:00",
+      "dateStr": "12 Aug, 11:06",
+      "isNew": true,
+      "id": "she11786532772"
+    },
+    {
+      "title": "Mrekullia ndodh në Kolumbi/ Momenti kur 31 vjeçarja nxiret e gjallë pas 36 orësh nën rrënoja",
+      "link": "https://abcnews.al/mrekullia-ndodh-ne-kolumbi-momenti-kur-31-vjecarja-nxiret-e-gjalle-pas-36-oresh-nen-rrenoja/",
+      "description": "Një 31-vjeçare është nxjerrë e gjallë nga rrënojat në Kolumbi, rreth 36 orë pasi mbeti e bllokuar pas tërmetit të fuqishëm me magnitudë 7.4 që goditi vendin. Shpëtimi i saj është një nga momentet e rralla të shpresës në një operacion masiv kërkimi, ndërsa ekipet e emergjencave vijojnë të kërkojnë pë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-12T11:04:11+00:00",
+      "dateStr": "12 Aug, 11:04",
+      "isNew": true,
+      "id": "abc81786532651"
+    },
+    {
+      "title": "Tërmeti godet Kolumbinë, BE jep 2 milionë euro ndihmë për zonat e prekura",
+      "link": "https://abcnews.al/termeti-godet-kolumbine-be-jep-2-milione-euro-ndihme-per-zonat-e-prekura/",
+      "description": "Bashkimi Evropian ka mobilizuar 2 milionë euro ndihmë për komunitetet e prekura nga tërmeti që goditi Kolumbinë, ndërsa ekipet e emergjencës vijojnë operacionet e kërkim-shpëtimit. Lajmi u bë i ditur nga presidentja e Komisionit Evropian, Ursula von der Leyen, e cila konfirmoi se fondet do të orient",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-12T10:59:00+00:00",
+      "dateStr": "12 Aug, 10:59",
+      "isNew": true,
+      "id": "abc91786532340"
     },
     {
       "title": "Nis takimi i Ramës me kryebashkiakët në Kuç, në fokus Reforma e re Territoriale, kush e shoqëron kryeministrin",
@@ -23,51 +254,7 @@
       "date": "2026-08-12T10:51:50+00:00",
       "dateStr": "12 Aug, 10:51",
       "isNew": true,
-      "id": "she01786531910"
-    },
-    {
-      "title": "“Po të vjen era e gojës”, përplasje verbale në Kuvend, Gërvalla përballet me deputetët e PDK-së",
-      "link": "https://24-ore.com/po-te-vjen-era-e-gojes-perplasje-verbale-ne-kuvend-gervalla-perballet-me-deputetet-e-pdk-se/",
-      "description": "Deputetja e Guxo-s, Donika Gërvalla është përballur me deputetë të tjerë të Kuvendit të Kosovës, të cilët po kërkojnë që partia fituese e zgjedhjeve të 7 qershorit të thërrasë seancën konstituive. Gjatë përplasjes verbale, Gërvalla u ka bërë thirrje deputetëve që të marrin pjesë në takime për të dis",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-12T10:50:30+00:00",
-      "dateStr": "12 Aug, 10:50",
-      "isNew": true,
-      "id": "24 11786531830"
-    },
-    {
-      "title": "Berisha: Rama drejt greminës politike, vjeshta vjen me protesta të shumta",
-      "link": "https://24-ore.com/berisha-rama-drejt-gremines-politike-vjeshta-vjen-me-protesta-te-shumta/",
-      "description": "Kreu i PD-së Sali Berisha në një deklaratë për mediat sot në 12 gusht tha se exit pollet e nxjerin Partinë Socialiste në një rënie tëper të madhe. Berisha u shpreh se një rënie popullariteti drastik ka pësuar veçanërisht kryeministri i vendit, Edi Rama. “Narkoshteti po shkërmoqet! Po degradon! Polle",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-12T10:47:25+00:00",
-      "dateStr": "12 Aug, 10:47",
-      "isNew": true,
-      "id": "24 21786531645"
-    },
-    {
-      "title": "Lojërat Mesdhetare “Taranto 2026”, Shqipëria U-21 nis aventurën më 22 gusht ndaj Italisë",
-      "link": "https://24-ore.com/lojerat-mesdhetare-taranto-2026-shqiperia-u-21-nis-aventuren-me-22-gusht-ndaj-italise/",
-      "description": "Kombëtarja shqiptare U-21 po përgatitet për një tjetër sfidë të rëndësishme ndërkombëtare. Kuqezinjtë do të marrin pjesë në Lojërat Mesdhetare “Taranto 2026”, që zhvillohen në Itali. Shqipëria është pjesë e Grupit B, së bashku me Italinë, Kosovën dhe Algjerinë, ndërsa tashmë është përcaktuar edhe ka",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-12T10:46:12+00:00",
-      "dateStr": "12 Aug, 10:46",
-      "isNew": true,
-      "id": "24 31786531572"
-    },
-    {
-      "title": "Zjarr me intensitet të lartë në Drenie të Patosit, flakët përhapen në drejtim të Gjinoqarit dhe Ngraçisë",
-      "link": "https://abcnews.al/zjarr-me-intensitet-te-larte-ne-drenie-te-patosit-flaket-perhapen-ne-drejtim-te-gjinoqarit-dhe-ngracise/",
-      "description": "Zjarri vijon të jetë aktiv me intensitet të lartë në zonën e Drenies, në Patos. Flakët po përhapen në drejtim të Gjinoqarit dhe Ngraçisë, duke rritur rrezikun për përhapjen e mëtejshme të vatrës. Forcat zjarrfikëse vijojnë ndërhyrjen në terren për të vënë nën kontroll situatën dhe për të parandaluar",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T10:44:50+00:00",
-      "dateStr": "12 Aug, 10:44",
-      "isNew": true,
-      "id": "abc01786531490"
+      "id": "she21786531910"
     },
     {
       "title": "Nuk u janë paguar paratë e qirasë së tokës, banorët e Patos Marinzës përplasen me rojet e Bankers Petroleum",
@@ -78,73 +265,7 @@
       "date": "2026-08-12T10:40:52+00:00",
       "dateStr": "12 Aug, 10:40",
       "isNew": true,
-      "id": "she11786531252"
-    },
-    {
-      "title": "Raportimet për keqtrajtim të Nenad Rashkoviqit, Inspektorati Policor fillon hetimet",
-      "link": "https://24-ore.com/raportimet-per-keqtrajtim-te-nenad-rashkoviqit-inspektorati-policor-fillon-hetimet/",
-      "description": "Inspektorati Policor i Kosovës (IPK) ka filluar një hetim preliminar sipas detyrës zyrtare bazuar në raportimet mediale dhe deklaratat publike të datës 11 gusht 2026 lidhur me pretendimet nga qytetari Nenad Rashkoviq për tejkalim të autorizimeve policore ndaj disa pjesëtarëve të Policisë së Kosovës.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-12T10:40:37+00:00",
-      "dateStr": "12 Aug, 10:40",
-      "isNew": true,
-      "id": "24 41786531237"
-    },
-    {
-      "title": "Kontrata rekord e Jokiç/ Basketbollisti serb “nënshkruan” historinë në NBA",
-      "link": "https://abcnews.al/kontrata-rekord-e-jokic-basketbollisti-serb-nenshkruan-historine-ne-nba/",
-      "description": "Nikola Jokic është shumë pranë hyrjes në historinë e NBA. Basketbollisti serb pritet të firmosë rinovimin e Denver Naggets, duke nënshkruar atë që do të ishte kontrata më fitimprurëse e të gjitha kohërave në basketbollin amerikan. “ESPN” raporton se Jokiç do të fitojë 359,5 milionë dollarë për pesë ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T10:39:43+00:00",
-      "dateStr": "12 Aug, 10:39",
-      "isNew": true,
-      "id": "abc11786531183"
-    },
-    {
-      "title": "Finalja e parë e Europës/ Në orën 21:00, Paris SG dhe Aston Villa përballen për Superkupën",
-      "link": "https://abcnews.al/finalja-e-pare-e-europes-ne-oren-2100-paris-sg-dhe-aston-villa-perballen-per-superkupen/",
-      "description": "Pushimet kanë përfunduar. Futbolli i madh kthehet sërish në fushë me sfidën e parë të rëndësishme të sezonit. Të gjithë sytë drejtohen në Salzburg, ku duke nisur nga ora 21:00 do të marrë jetë finalja e Superkupës së Europës. Fituesi i Champions, Paris SG do të përballet me Aston Villa, fituese e Eu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T10:38:01+00:00",
-      "dateStr": "12 Aug, 10:38",
-      "isNew": true,
-      "id": "abc21786531081"
-    },
-    {
-      "title": "Revanshi i Omar Artan/ Arbitri somalez në histori, i pari jo europian në finalen e Superkupës",
-      "link": "https://abcnews.al/revanshi-i-omar-artan-arbitri-somalez-ne-histori-i-pari-jo-europian-ne-finalen-e-superkupes/",
-      "description": "Arbitri somalez, Omar Artan do të drejtojë ndeshjen e Superkupës mes Paris Saint-Germain dhe Aston Villa-, dy muaj pasi iu ndalua hyrja në Shtetet e Bashkuara për të gjykuar në Kupën e Botës. 34 vjeçari u ndalua në aeroportin e Miami dhe u kthye pas për shkak të lidhjeve të pretenduara nga agjentët ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T10:38:00+00:00",
-      "dateStr": "12 Aug, 10:38",
-      "isNew": true,
-      "id": "abc31786531080"
-    },
-    {
-      "title": "MF: 2.9 milionë euro përkrahje e re për investimet e kompanive në Maqedoni, mjetet nga huaja hungareze, nxitje e fuqishme për ekonominë",
-      "link": "https://24-ore.com/mf-2-9-milione-euro-perkrahje-e-re-per-investimet-e-kompanive-ne-maqedoni-mjetet-nga-huaja-hungareze-nxitje-e-fuqishme-per-ekonomine/",
-      "description": "Ministria e Financave njofton se barti transfer të ri në vlerë prej 176.5 milionë denarësh, ose 2.9 milionë euro nga buxheti qendror drejt Bankës Zhvillimore për përkrahjen e projekteve investuese në kompanitë vendase. &#8220;Përkrahja e përgjithshme e Qeverisë për kompanitë vendase, me këtë transfe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-12T10:35:59+00:00",
-      "dateStr": "12 Aug, 10:35",
-      "isNew": true,
-      "id": "24 51786530959"
-    },
-    {
-      "title": "Horoskopi ditor për nesër, e Enjte 13 Gusht 2026",
-      "link": "https://24-ore.com/horoskopi-ditor-per-neser-e-enjte-13-gusht-2026/",
-      "description": "Dashi Duhet t’iu kushtoni dy herë më shumë vëmendje detajeve. Trajnoni aftësitë tuaja për të vëzhguar dhe përpiquni të zbuloni anët e fshehta të ngjarjeve. Nëse injoroni detajet e rëndësishme, do të humbni shumë. Ky nuk është momenti më i mirë për të marrë një iniciativë. Demi Jeta juaj po i kthehet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-12T10:31:40+00:00",
-      "dateStr": "12 Aug, 10:31",
-      "isNew": true,
-      "id": "24 61786530700"
+      "id": "she31786531252"
     },
     {
       "title": "Kurbin, qëlluan me armë drejt makinës së kushëririt, arrestohen 3 persona, një në kërkim",
@@ -155,84 +276,7 @@
       "date": "2026-08-12T10:30:57+00:00",
       "dateStr": "12 Aug, 10:30",
       "isNew": true,
-      "id": "she21786530657"
-    },
-    {
-      "title": "Çitaku përplaset verbalisht me Haxhiun: Do ta ndalim shkatërrimin e shtetit",
-      "link": "https://24-ore.com/citaku-perplaset-verbalisht-me-haxhiun-do-ta-ndalim-shkaterrimin-e-shtetit/",
-      "description": "Deputetja e Kuvendit të Kosovës nga radhët e PDK-së, Vlora Çitaku, ka reaguar pas përplasjes verbale me ushtruesen e detyrës së presidentes, Albulena Haxhiu. Çitaku ka publikuar një video nga momenti i debatit në Kuvend, të cilës i ka bashkëngjitur edhe një mesazh kritikues për situatën instituciona",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-12T10:26:16+00:00",
-      "dateStr": "12 Aug, 10:26",
-      "isNew": true,
-      "id": "24 71786530376"
-    },
-    {
-      "title": "Turizmi historik, restaurim monumenteve / Gjirokastër, ndërhyrje në disa objekte për mirëmbajtje",
-      "link": "https://abcnews.al/turizmi-historik-restaurim-monumenteve-gjirokaster-nderhyrje-ne-disa-objekte-per-mirembajtje/",
-      "description": "Monumentet dhe objektet e trashëgimisë kulturore në Qarkun e Gjirokastrës po i nënshtrohen restaurimit , me synim ruajtjen e vlerave historike, arkitekturore dhe kulturore, por edhe zhvillimin e mëtejshëm të turizmit.Sipas kreut të Drejtorisë së Monumenteve të Qarkut,Ardis Duka,projektet po zbatohen",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T10:25:36+00:00",
-      "dateStr": "12 Aug, 10:25",
-      "isNew": true,
-      "id": "abc41786530336"
-    },
-    {
-      "title": "Të shtëna me armë në rrugën e Patokut, arrestohen tre persona dhe shpallet në kërkim një tjetër",
-      "link": "https://24-ore.com/te-shtena-me-arme-ne-rrugen-e-patokut-arrestohen-tre-persona-dhe-shpallet-ne-kerkim-nje-tjeter/",
-      "description": "Një konflikt mes të afërmish ka përfunduar me të shtëna me armë zjarri në drejtim të një automjeti, në rrugën e Patokut. Ngjarja u regjistrua mesditën e djeshme, ndërsa fatmirësisht nuk pati persona të lënduar. Policia ka arrestuar tre persona, familjarë me njëri-tjetrin, të dyshuar për përfshirjen ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-12T10:24:57+00:00",
-      "dateStr": "12 Aug, 10:24",
-      "isNew": true,
-      "id": "24 81786530297"
-    },
-    {
-      "title": "Vrasja e 20-vjeçarit, Kristjan Sterjo në seancë: Kemi pasur konflikte, por nuk kisha qëllim ta vrisja",
-      "link": "https://24-ore.com/vrasja-e-20-vjecarit-kristjan-sterjo-ne-seance-kemi-pasur-konflikte-por-nuk-kisha-qellim-ta-vrisja/",
-      "description": "Gjykata e Korçës ka caktuar masën e sigurisë “arrest me burg” për Kristjan Sterjon, i dyshuar për vrasjen e 20-vjeçarit Joan Zyko, ngjarje e ndodhur më 8 gusht në qytetin e Korçës. Gjatë seancës gjyqësore, mësohet se Sterjo ka dhënë të njëjtën dëshmi për ngjarjen që kishte deklaruar më herët para gr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-12T10:24:38+00:00",
-      "dateStr": "12 Aug, 10:24",
-      "isNew": true,
-      "id": "24 91786530278"
-    },
-    {
-      "title": "Vazhdon kriza në Kosovë/ Opozita mësyn në Kuvend, kërkon mbajtjen e seancës konstituitive",
-      "link": "https://abcnews.al/vazhdon-kriza-ne-kosove-opozita-mesyn-ne-kuvend-kerkon-mbajtjen-e-seances-konstituitive/",
-      "description": "Një aksion i opozitës në Kosovë përballë refuzimit të Albin Kurtit për tu mbledhur në Kuvend dhe për të ngritur institucionet… Partia Demokratike e Kosovës dhe Aleanca u bashkuan në sallën e parlamentit me thirrjet drejtuar kryesuesit të seancës nga rradhët e VV Avni Dehari për konstituimin e kuvend",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T10:24:12+00:00",
-      "dateStr": "12 Aug, 10:24",
-      "isNew": true,
-      "id": "abc51786530252"
-    },
-    {
-      "title": "Turisti pëson dëmtime teksa hidhej nga shkëmbi/ Orikum, dërgohet me urgjencë në spital",
-      "link": "https://abcnews.al/turisti-peson-demtime-teksa-hidhej-nga-shkembi-orikum-dergohet-me-urgjence-ne-spital/",
-      "description": "Një shtetas është dëmtuar teksa po hidhej nga një shkëmb në zonën e Orikumit. Për shkak të dëmtimeve të marra, ai është transportuar me urgjencë drejt Spitalit Rajonal të Vlorës, ku ka marrë ndihmën e parë mjekësore. Në ambientet e spitalit kanë mbërritur edhe shërbimet e Policisë, të cilat kanë nis",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T10:16:40+00:00",
-      "dateStr": "12 Aug, 10:16",
-      "isNew": true,
-      "id": "abc61786529800"
-    },
-    {
-      "title": "Harta e territorit, Rama mbledh bashkiakët/ Diskutime për propozimin e socialistëve për ndarjen në 46 bashki",
-      "link": "https://abcnews.al/harta-e-territorit-rama-mbledh-bashkiaket-diskutime-per-propozimin-e-socialisteve-per-ndarjen-ne-46-bashki/",
-      "description": "Kryeministri Edi Rama pritet të zhvillojë sot, një takim në një prej lokaleve në zonën e Kuç &#8211; Qeparo, ku në fokus do të jetë Reforma Territoriale. Në takim pritet të marrin pjesë kryetarë të bashkive, ndërsa burime bëjnë me dije se do të jenë të pranishëm edhe kryetarët e bashkive që pritet t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T10:05:58+00:00",
-      "dateStr": "12 Aug, 10:05",
-      "isNew": true,
-      "id": "abc71786529158"
+      "id": "she41786530657"
     },
     {
       "title": "E kryqëzuan për deklaratën “Serbia e humbi Kosovën”, Rama në X: Ushtria e trollave më tregon që e kam bërë mirë detyrën",
@@ -243,18 +287,7 @@
       "date": "2026-08-12T10:00:02+00:00",
       "dateStr": "12 Aug, 10:00",
       "isNew": true,
-      "id": "she31786528802"
-    },
-    {
-      "title": "“Serbia e humbi Kosovën”/ Rama: Detyra si kryeministër e kryer me sukses, sa herë reagon baza e turbofolkut nacionalist në Prishtinë",
-      "link": "https://abcnews.al/serbia-e-humbi-kosoven-rama-detyra-si-kryeminister-e-kryer-me-sukses-sa-here-reagon-baza-e-turbofolkut-nacionalist-ne-prishtine/",
-      "description": "Kryeministri Edi Rama ka reaguar ndaj kritikave të ardhura nga Prishtina pas deklaratës së tij se “Serbia e humbi Kosovën”, duke e cilësuar këtë reagim si një tregues se qëndrimet e tij ndaj Serbisë dhe Kosovës kanë qenë të sakta. Në një postim në rrjetet sociale, Rama shkruan se e konsideron reagim",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T09:57:17+00:00",
-      "dateStr": "12 Aug, 09:57",
-      "isNew": true,
-      "id": "abc81786528637"
+      "id": "she51786528802"
     },
     {
       "title": "Reforma Territoriale, Rama zbret në terren, zhvillon sot konsultime me banorët në Kuç",
@@ -265,18 +298,7 @@
       "date": "2026-08-12T09:48:30+00:00",
       "dateStr": "12 Aug, 09:48",
       "isNew": true,
-      "id": "she41786528110"
-    },
-    {
-      "title": "Trafik droge me dronë në burgun francez/ Arrestohen 5 persona, mbi 1,800 dërgesa në 51 ditë",
-      "link": "https://abcnews.al/trafik-droge-me-drone-ne-burgun-francez-arrestohen-5-persona-mbi-1800-dergesa-ne-51-dite/",
-      "description": "Pesë persona janë arrestuar në Francë gjatë një operacioni për të shkatërruar një rrjet trafikimi droge që përdorte dronë për të dërguar lëndë narkotike në burgun Villefranche-sur-Saône, njoftoi policia franceze. Mes pesë të dyshuarve është edhe një i mitur, i cili do të dalë në gjyq në shtator. Ai ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T09:44:37+00:00",
-      "dateStr": "12 Aug, 09:44",
-      "isNew": true,
-      "id": "abc91786527877"
+      "id": "she61786528110"
     },
     {
       "title": "Plagosja e Denis Bajrit dhe Jurgen Zotajt në burgun e Fierit, pezullohen 8 efektivë",
@@ -287,7 +309,7 @@
       "date": "2026-08-12T09:36:34+00:00",
       "dateStr": "12 Aug, 09:36",
       "isNew": true,
-      "id": "she51786527394"
+      "id": "she71786527394"
     },
     {
       "title": "Gjykata pezullon martesën e 86-vjeçarit, me të fejuarën 35 vite më të re nga Shqipëria: Shfaqi konfuzion dhe i kishte dhënë shumë para",
@@ -298,7 +320,7 @@
       "date": "2026-08-12T09:04:39+00:00",
       "dateStr": "12 Aug, 09:04",
       "isNew": true,
-      "id": "she61786525479"
+      "id": "she81786525479"
     },
     {
       "title": "Kompensimi për naftën ende pa u disbursuar, operatorët e Transportit Publik kërkojnë ndërhyrje",
@@ -309,29 +331,7 @@
       "date": "2026-08-12T08:55:17+00:00",
       "dateStr": "12 Aug, 08:55",
       "isNew": true,
-      "id": "she71786524917"
-    },
-    {
-      "title": "Vrasja e Johan Zukos, Kristjan Sterjo shpreh pendesë në gjykatë: Nuk doja ta vrisja, por më nxori thikën…",
-      "link": "https://shekulli.com.al/2026/08/12/vrasja-e-johan-zukos-kristjan-sterjo-shpreh-pendese-ne-gjykate-nuk-doja-ta-vrisja-por-me-nxori-thiken/",
-      "description": "Gjykata e Korçës ka lënë në burg Kristjan Sterjon, 20 vjeç, i dyshuar për vrasjen me armë zjarri të Johan Zukos. Gjatë seancës për caktimin e masës së sigurisë, Sterjo ka mbajtur të njëjtin version që kishte dhënë edhe përpara grupit hetimor. Ai ka deklaruar se është penduar për atë që ka ndodhur dh",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-12T08:46:15+00:00",
-      "dateStr": "12 Aug, 08:46",
-      "isNew": true,
-      "id": "she81786524375"
-    },
-    {
-      "title": "Vrasja e 20-vjeçarit në Korçë, Gjykata lë në burg Kristjan Sterjon",
-      "link": "https://shekulli.com.al/2026/08/12/vrasja-e-20-vjecarit-ne-korce-gjykata-le-ne-burg-kristjan-sterjon/",
-      "description": "Gjykata e Korçës ka caktuar masën e sigurisë “arrest në burg” për Kristjan Sterjon, i dyshuar për vrasjen e 20-vjeçarit Johan Zuko në Korçë. Sterjo u arrestua rreth gjashtë orë pas ngjarjes, pasi dyshohet se u largua nga vendi i krimit dhe u fsheh për disa orë. Sipas hetimeve paraprake, ai dyshohet ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-12T08:12:58+00:00",
-      "dateStr": "12 Aug, 08:12",
-      "isNew": true,
-      "id": "she91786522378"
+      "id": "she91786524917"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
