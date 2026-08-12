@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-08-12T01:26:15.917448+00:00",
-  "totalSources": 4,
-  "totalNews": 40,
+  "lastUpdated": "2026-08-12T04:01:53.961749+00:00",
+  "totalSources": 3,
+  "totalNews": 30,
   "news": [
+    {
+      "title": "Braves mposhtin Mets 4-0, Olson dhe Albies vendosin fitoren e Atlantës",
+      "link": "https://24-ore.com/braves-mposhtin-mets-4-0-olson-dhe-albies-vendosin-fitoren-e-atlantes/",
+      "description": "Atlanta Braves fituan 4-0 ndaj New York Mets në ndeshjen e luajtur më 11 gusht 2026. Skuadra e Atlantës shënoi katër pikë me tre goditje dhe pa gabime në m...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T03:51:32+00:00",
+      "dateStr": "12 Aug, 03:51",
+      "isNew": true,
+      "id": "24 01786506692"
+    },
+    {
+      "title": "Cardinals fitojnë 2-0 ndaj Phillies, Everson Pereira vendos ndeshjen me homer",
+      "link": "https://24-ore.com/cardinals-fitojne-2-0-ndaj-phillies-everson-pereira-vendos-ndeshjen-me-homer/",
+      "description": "Më 11 gusht 2026, St. Louis Cardinals mposhtën Philadelphia Phillies me rezultatin 2-0. Të dyja skuadrat u përballën me fushën pa gabime defensivë, por Car...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T02:26:20+00:00",
+      "dateStr": "12 Aug, 02:26",
+      "isNew": true,
+      "id": "24 11786501580"
+    },
+    {
+      "title": "Los Angeles Dodgers dhe Kansas City Royals — 11 gusht 2026: 0-0 pas raundit të parë",
+      "link": "https://24-ore.com/los-angeles-dodgers-dhe-kansas-city-royals-11-gusht-2026-0-0-pas-raundit-te-pare/",
+      "description": "Më 11 gusht 2026, Los Angeles Dodgers pritën Kansas City Royals në një ndeshje që nisi me përballje të forta në raundin e parë. Pas dyja paleve qëndronte n...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T02:20:53+00:00",
+      "dateStr": "12 Aug, 02:20",
+      "isNew": true,
+      "id": "24 21786501253"
+    },
+    {
+      "title": "Një përballje mes Los Angeles Sparks dhe Phoenix Mercury në Galen Center më 11 gusht 2026",
+      "link": "https://24-ore.com/nje-perballje-mes-los-angeles-sparks-dhe-phoenix-mercury-ne-galen-center-me-11-gusht-2026/",
+      "description": "Më 11 gusht 2026, Los Angeles Sparks u përballën me Phoenix Mercury në Galen Center në Los Angeles në ndeshjen e këtij muaji në WNBA. Takimi zhvillohej në...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T01:45:36+00:00",
+      "dateStr": "12 Aug, 01:45",
+      "isNew": true,
+      "id": "24 31786499136"
+    },
+    {
+      "title": "Murali i ri i LeBron James shfaqet në Filadelfia, i frymëzuar nga fotografia ikonike me Dwyane Wade",
+      "link": "https://24-ore.com/murali-i-ri-i-lebron-james-shfaqet-ne-filadelfia-i-frymezuar-nga-fotografia-ikonike-me-dwyane-wade/",
+      "description": "Një mural i ri i LeBron James është zbuluar në Filadelfia, duke reflektuar entuziazmin e tifozëve pas ardhjes së tij te Philadelphia 76ers. Vepra paraqet L...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T01:41:52+00:00",
+      "dateStr": "12 Aug, 01:41",
+      "isNew": true,
+      "id": "24 41786498912"
+    },
+    {
+      "title": "Brewers në Petco Park: përballja me Padres, startuesit dhe gjendja për 11 gusht 2026",
+      "link": "https://24-ore.com/brewers-ne-petco-park-perballja-me-padres-startuesit-dhe-gjendja-per-11-gusht-2026/",
+      "description": "Milwaukee Brewers (74-45) vizitojnë San Diego Padres (63-57) më 11 gusht 2026 në Petco Park në San Diego. Startues për ndeshjen janë K. Harrison (9-2, 2.84...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T01:40:59+00:00",
+      "dateStr": "12 Aug, 01:40",
+      "isNew": true,
+      "id": "24 51786498859"
+    },
     {
       "title": "Një ndeshje hapëse mes LeBron James dhe Knicks në MSG, ku çmimet e biletave kapin mijëra dollarë",
       "link": "https://24-ore.com/nje-ndeshje-hapese-mes-lebron-james-dhe-knicks-ne-msg-ku-cmimet-e-biletave-kapin-mijera-dollare/",
@@ -12,7 +78,7 @@
       "date": "2026-08-12T01:00:55+00:00",
       "dateStr": "12 Aug, 01:00",
       "isNew": true,
-      "id": "24 01786496455"
+      "id": "24 61786496455"
     },
     {
       "title": "Yankees dhe Mariners 0-0 pas tri inningësh — përmbledhje e ndeshjes, 11 gusht 2026",
@@ -23,7 +89,7 @@
       "date": "2026-08-12T00:16:04+00:00",
       "dateStr": "12 Aug, 00:16",
       "isNew": true,
-      "id": "24 11786493764"
+      "id": "24 71786493764"
     },
     {
       "title": "Ngjitja, rënia dhe ringritja e Solo Sikoa në WWE",
@@ -34,7 +100,7 @@
       "date": "2026-08-11T23:41:53+00:00",
       "dateStr": "11 Aug, 23:41",
       "isNew": true,
-      "id": "24 21786491713"
+      "id": "24 81786491713"
     },
     {
       "title": "Indiana Fever në epërsi 13–7 ndaj New York Liberty pas periodës së parë",
@@ -45,73 +111,7 @@
       "date": "2026-08-11T23:40:30+00:00",
       "dateStr": "11 Aug, 23:40",
       "isNew": true,
-      "id": "24 31786491630"
-    },
-    {
-      "title": "Ja Morant dhe Dylan Harper renditen në vendet 51–60 në klasifikimin e NBA 2K27",
-      "link": "https://24-ore.com/ja-morant-dhe-dylan-harper-renditen-ne-vendet-51-60-ne-klasifikimin-e-nba-2k27/",
-      "description": "Zbulimi i listës së 100 lojtarëve më të vlerësuar në NBA 2K27 vazhdoi, dhe ndër emrat e fundit të publikuar janë Ja Morant i Portland Trail Blazers dhe Dyl...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T23:36:55+00:00",
-      "dateStr": "11 Aug, 23:36",
-      "isNew": true,
-      "id": "24 41786491415"
-    },
-    {
-      "title": "Esteury Ruiz jep avantazhin 1-0 për Marlins ndaj Pittsburgh Pirates",
-      "link": "https://24-ore.com/esteury-ruiz-jep-avantazhin-1-0-per-marlins-ndaj-pittsburgh-pirates/",
-      "description": "Miamit Marlins po udhëheqin 1-0 kundër Pittsburgh Pirates në ndeshjen e 11 gushtit 2026. Në kutinë e rezultateve, Pirates shënonin 0 gola me 2 goditje dhe...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T23:35:55+00:00",
-      "dateStr": "11 Aug, 23:35",
-      "isNew": true,
-      "id": "24 51786491355"
-    },
-    {
-      "title": "Cristiano Ronaldo dhe Georgina Rodríguez kurorëzojnë dashurinë, martohen në Portugali",
-      "link": "https://24-ore.com/cristiano-ronaldo-dhe-georgina-rodriguez-kurorezojne-dashurine-martohen-ne-portugali/",
-      "description": "Cristiano Ronaldo dhe partnerja e tij prej vitesh, Georgina Rodríguez, janë martuar në një ceremoni civile intime në Cascais të Portugalisë, më 11 gusht. Sipas People, ceremonia u zhvillua në rreth të ngushtë dhe në praninë e pesë fëmijëve të çiftit. Ronaldo, 41 vjeç, dhe Rodríguez, 32 vjeç, e kishi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T23:00:30+00:00",
-      "dateStr": "11 Aug, 23:00",
-      "isNew": true,
-      "id": "24 61786489230"
-    },
-    {
-      "title": "Mbiturizmi pushton Bregdetin Amalfitan, banorët: Kemi arritur kufirin",
-      "link": "https://24-ore.com/mbiturizmi-pushton-bregdetin-amalfitan-banoret-kemi-arritur-kufirin/",
-      "description": "Fluksi i madh i turistëve në Bregdetin Amalfitan të Italisë po kthehet në një problem gjithnjë e më shqetësues për banorët dhe bizneset lokale, me rrugicat e ngushta të qytezave bregdetare që gjatë sezonit mbushen deri në pikën ku lëvizja bëhet e vështirë. Sipas një raportimi të New York Post, qytet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T23:00:13+00:00",
-      "dateStr": "11 Aug, 23:00",
-      "isNew": true,
-      "id": "24 71786489213"
-    },
-    {
-      "title": "Seattle Storm mposht Chicago Sky 97-88 në ndeshjen e 10 gushtit 2026",
-      "link": "https://24-ore.com/seattle-storm-mposht-chicago-sky-97-88-ne-ndeshjen-e-10-gushtit-2026/",
-      "description": "Seattle Storm mposhtën Chicago Sky me rezultatin 97-88 në ndeshjen e zhvilluar më 10 gusht 2026. Një përmbledhje e rezultateve çerek pas çereku tregon: Sky...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T22:57:02+00:00",
-      "dateStr": "11 Aug, 22:57",
-      "isNew": true,
-      "id": "24 81786489022"
-    },
-    {
-      "title": "Adley Rutschman pritet të debutojë për Red Sox, parashikohet i treti në rreshtim kundër Blue Jays",
-      "link": "https://24-ore.com/adley-rutschman-pritet-te-debutoje-per-red-sox-parashikohet-i-treti-ne-rreshtim-kunder-blue-jays/",
-      "description": "Boston Red Sox do të aktivizojnë kapësin e sapo transferuar Adley Rutschman për ndeshjen e të martës mbrëma kundër Toronto Blue Jays; ai pritet të rreshtoh...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T22:51:52+00:00",
-      "dateStr": "11 Aug, 22:51",
-      "isNew": true,
-      "id": "24 91786488712"
+      "id": "24 91786491630"
     },
     {
       "title": "‘Po digjet Lura’, këshilltari i Sigurisë në PD jep alarmin: Zjarri djeg gjithçka prej 8 orësh, situata jashtë kontrollit",
@@ -332,116 +332,6 @@
       "dateStr": "11 Aug, 17:44",
       "isNew": true,
       "id": "abc91786470274"
-    },
-    {
-      "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
-      "link": "https://www.lajme.al/rama-kerkon-mbledhje-urgjente-me-deputetet-e-ps-diten-e-shtune-zbulohet-agjenda/",
-      "description": "Kryeministri Edi Rama pritet paraditen e së shtunës të drejtojë mbledhjen e Grupit Parlamentar të Partisë Socialiste, ku do të marrin pjesë edhe ministrat. Gazetari Muhamed Veliu ka zbuluar agjendën e kësaj mbledhjeje, të cilën do ta nisë kreu i Grupit, Taulant Balla, vijuar nga fjala e Kryeministri",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-06-19T18:05:35+00:00",
-      "dateStr": "19 Jun, 18:05",
-      "isNew": false,
-      "id": "laj01781892335"
-    },
-    {
-      "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
-      "link": "https://www.lajme.al/lajme-al-uron-te-gjithe-besimtaret-gezuar-kurban-bajramin/",
-      "description": "Urime festa e Kurban Bajramit! Gëzuar këtë festë të shenjtë dhe për shumë vite me paqe, shëndet e begati! Urojmë që kjo ditë e bekuar të sjellë qetësi në zemrat tona, harmoni në familje dhe dashuri mes njerëzve. Le të jetë një ditë që na afron më shumë me njëri-tjetrin, duke na kujtuar rëndësinë e [",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-05-27T06:00:19+00:00",
-      "dateStr": "27 May, 06:00",
-      "isNew": false,
-      "id": "laj11779861619"
-    },
-    {
-      "title": "Greqi: Flet babai i 19-vjeçares shqiptare: Humba jo engjëllin tim, por jetën time. Vajzën ma futën në kurth, e flakën pasi i bënë gjëra të tmerrshme!",
-      "link": "https://www.lajme.al/greqi-flet-babai-i-19-vjecares-shqiptare-humba-jo-engjellin-tim-por-jeten-time-vajzen-ma-futen-ne-kurth-e-flaken-pasi-i-bene-gjera-te-tmerrshme/",
-      "description": "Babai i 19-vjeçares që u gjet e pajetë në Kefaloni të Greqisë, foli sonte për mediat greke dhe tha se vajza e tij nuk kishte asnjë lidhje as me lëndë narkotike dhe as me alkool Trishtim i madh ka përfshirë Kefaloninë pas lajmit për vdekjen e 19-vjeçares shqiptare e identifikuar si Mirto, e cila u [&",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-04-16T16:54:53+00:00",
-      "dateStr": "16 Apr, 16:54",
-      "isNew": false,
-      "id": "laj21776358493"
-    },
-    {
-      "title": "Gashi: Diasporës parapëlqej t’i them mërgatë, të krijojmë kushtet për rikthimin e tyre në vendlindje",
-      "link": "https://www.lajme.al/gashi-diaspores-parapelqej-ti-them-mergate-te-krijojme-kushtet-per-rikthimin-e-tyre-ne-vendlindje/",
-      "description": "Kryetari i Kuvendit të Maqedonisë së Veriut, Afrim Gashi, ka theksuar rëndësinë e diasporës dhe nevojën për forcimin e lidhjeve me qytetarët që jetojnë jashtë vendit. Në fjalën e mbajtur në Samitin e IV të Diasporës, Gashi e cilësoi diasporën si një pjesë të pandashme të identitetit, duke u shprehur",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-04-14T14:24:35+00:00",
-      "dateStr": "14 Apr, 14:24",
-      "isNew": false,
-      "id": "laj31776176675"
-    },
-    {
-      "title": "Fitër Bajrami – Festë e Besimit, Mirësisë dhe Solidaritetit",
-      "link": "https://www.lajme.al/fiter-bajrami-feste-e-besimit-miresise-dhe-solidaritetit/",
-      "description": "Me përfundimin e muajit të Ramazanit, besimtarët myslimanë anembanë botës festojnë Fitër Bajramin – një nga festat më të rëndësishme në kalendarin islam. Kjo ditë e shënuar është një moment falënderimi ndaj Zotit, reflektimi për muajin që lamë pas, si dhe një rast për të ndarë gëzim dhe dashuri me t",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-03-20T00:03:28+00:00",
-      "dateStr": "20 Mar, 00:03",
-      "isNew": false,
-      "id": "laj41773965008"
-    },
-    {
-      "title": "Albano Bogdo pranon publikisht: “Kam kryer marrëdhënie me një ish-banore të BBV Albania”",
-      "link": "https://www.lajme.al/albano-bogdo-pranon-publikisht-kam-kryer-marredhenie-me-nje-ish-banore-te-bbv-albania/",
-      "description": "Aktori i njohur i humorit, Albano Bogdo, ka bërë një deklaratë të papritur gjatë pjesëmarrjes së tij në emisionin “Andale”. Gjatë një loje me pyetje provokuese, u lexua pohimi: “Kam bërë marrëdhënie seksuale me një ish-banore që ka qenë në Big Brother Vip Albania”. Pa hezituar, Albano ngriti menjëhe",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-25T16:28:58+00:00",
-      "dateStr": "25 Feb, 16:28",
-      "isNew": false,
-      "id": "laj51772036938"
-    },
-    {
-      "title": "Del FOTO e rrallë nga arkiva: Ja si dukej Brikena e BBVA para famës",
-      "link": "https://www.lajme.al/del-foto-e-rralle-nga-arkiva-ja-si-dukej-brikena-e-bbva-para-fames/",
-      "description": "Brikena Selmani është kthyer padyshim në një nga banoret më të komentuara dhe që ka tërhequr vëmendjen në këtë edicion të “Big Brother VIP Albania”, jo vetëm për dinamikat në lojë, por edhe për pamjen e saj. Por, duket se sharmi i modeles daton shumë më herët se dritat e famës televizive. Në rrjetet",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-25T12:23:06+00:00",
-      "dateStr": "25 Feb, 12:23",
-      "isNew": false,
-      "id": "laj61772022186"
-    },
-    {
-      "title": "LAJM I FUNDIT! Tërmeti shkund Shqipërinë!",
-      "link": "https://www.lajme.al/lajm-i-fundit-termeti-shkund-shqiperine/",
-      "description": "Elbasani u trondit këtë të martë pasdite nga një tërmet i papritur. Sipas raportimeve të para, lekundjet u ndjenw me intensite. Sipas të dhënave të fundit, një tërmet me magnitudë 4.3 të shkallës Rihter ka goditur Shqipërinë mbrëmjen e sotme, më 24 shkurt 2026. Lëkundjet u regjistruan rreth orës 20:",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T19:16:36+00:00",
-      "dateStr": "24 Feb, 19:16",
-      "isNew": false,
-      "id": "laj71771960596"
-    },
-    {
-      "title": "Diss për Xhensilën? Bes Kallaku publikon këngën e re: “Mes meje dhe teje, dihet kush ishte thëngjilli”",
-      "link": "https://www.lajme.al/diss-per-xhensilen-bes-kallaku-publikon-kengen-e-re-mes-meje-dhe-teje-dihet-kush-ishte-thengjilli/",
-      "description": "Aktori dhe këngëtari Bes Kallaku ka tërhequr vëmendjen e të gjithë ndjekësve me projektin e tij më të fundit muzikor, një këngë mjaft personale që ngjan me një rrëfim të hapur për ulje-ngritjet e jetës së tij. Menjëherë pas publikimit, rrjeti ka nisur të ziejë nga aludimet se disa prej rreshtave më ",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T19:11:16+00:00",
-      "dateStr": "24 Feb, 19:11",
-      "isNew": false,
-      "id": "laj81771960276"
-    },
-    {
-      "title": "Momenti viral: Takimi i DJ Gimbos me Egli Takon, çfarë u tha mes tyre?",
-      "link": "https://www.lajme.al/momenti-viral-takimi-i-dj-gimbos-me-egli-takon-cfare-u-tha-mes-tyre/",
-      "description": "Mbrëmjen e djeshme, e ftuar në Big Brother VIP Albania ishte ish-banorja Egli Tako, si pjesë e jurisë së “Miss &#38; Mister Big Brother”. Megjithatë, momenti që mori më shumë vëmendje në rrjet ishte takimi i saj me DJ Gimbon, mikun e ngushtë të Gjestit. Përshëndetja mes tyre ishte e ngrohtë dhe e af",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-02-24T16:13:31+00:00",
-      "dateStr": "24 Feb, 16:13",
-      "isNew": false,
-      "id": "laj91771949611"
     }
   ]
 }
