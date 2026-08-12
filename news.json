@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-08-11T23:34:37.101526+00:00",
+  "lastUpdated": "2026-08-12T01:26:15.917448+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Një ndeshje hapëse mes LeBron James dhe Knicks në MSG, ku çmimet e biletave kapin mijëra dollarë",
+      "link": "https://24-ore.com/nje-ndeshje-hapese-mes-lebron-james-dhe-knicks-ne-msg-ku-cmimet-e-biletave-kapin-mijera-dollare/",
+      "description": "Hapja e sezonit 2026-27 e NBA-së sjell në Madison Square Garden përballjen mes LeBron James-it dhe Philadelphia 76ers kundër Jalen Brunson-it dhe New York...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T01:00:55+00:00",
+      "dateStr": "12 Aug, 01:00",
+      "isNew": true,
+      "id": "24 01786496455"
+    },
+    {
+      "title": "Yankees dhe Mariners 0-0 pas tri inningësh — përmbledhje e ndeshjes, 11 gusht 2026",
+      "link": "https://24-ore.com/yankees-dhe-mariners-0-0-pas-tri-inningesh-permbledhje-e-ndeshjes-11-gusht-2026/",
+      "description": "New York Yankees (66-52) dhe Seattle Mariners (56-63) u përballën më 11 gusht 2026 në një ndeshje që, pas tre inningësh, ishte ende e barabartë 0-0. Përmbl...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-12T00:16:04+00:00",
+      "dateStr": "12 Aug, 00:16",
+      "isNew": true,
+      "id": "24 11786493764"
+    },
+    {
+      "title": "Ngjitja, rënia dhe ringritja e Solo Sikoa në WWE",
+      "link": "https://24-ore.com/ngjitja-renia-dhe-ringritja-e-solo-sikoa-ne-wwe/",
+      "description": "Solo Sikoa ka kaluar në pak muaj nga një emër i diskutueshëm në një prej figurave më të pëlqyera dhe interesante të rosterit të WWE. Nxitja e madhe si lide...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T23:41:53+00:00",
+      "dateStr": "11 Aug, 23:41",
+      "isNew": true,
+      "id": "24 21786491713"
+    },
+    {
+      "title": "Indiana Fever në epërsi 13–7 ndaj New York Liberty pas periodës së parë",
+      "link": "https://24-ore.com/indiana-fever-ne-epersi-13-7-ndaj-new-york-liberty-pas-periodes-se-pare/",
+      "description": "Më 11 gusht 2026, Indiana Fever arriti të përfundojë periodën e parë në avantazh ndaj New York Liberty, 13–7. Para këtij përballjeje ekipet kishin bilance...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T23:40:30+00:00",
+      "dateStr": "11 Aug, 23:40",
+      "isNew": true,
+      "id": "24 31786491630"
+    },
+    {
+      "title": "Ja Morant dhe Dylan Harper renditen në vendet 51–60 në klasifikimin e NBA 2K27",
+      "link": "https://24-ore.com/ja-morant-dhe-dylan-harper-renditen-ne-vendet-51-60-ne-klasifikimin-e-nba-2k27/",
+      "description": "Zbulimi i listës së 100 lojtarëve më të vlerësuar në NBA 2K27 vazhdoi, dhe ndër emrat e fundit të publikuar janë Ja Morant i Portland Trail Blazers dhe Dyl...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T23:36:55+00:00",
+      "dateStr": "11 Aug, 23:36",
+      "isNew": true,
+      "id": "24 41786491415"
+    },
+    {
+      "title": "Esteury Ruiz jep avantazhin 1-0 për Marlins ndaj Pittsburgh Pirates",
+      "link": "https://24-ore.com/esteury-ruiz-jep-avantazhin-1-0-per-marlins-ndaj-pittsburgh-pirates/",
+      "description": "Miamit Marlins po udhëheqin 1-0 kundër Pittsburgh Pirates në ndeshjen e 11 gushtit 2026. Në kutinë e rezultateve, Pirates shënonin 0 gola me 2 goditje dhe...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-11T23:35:55+00:00",
+      "dateStr": "11 Aug, 23:35",
+      "isNew": true,
+      "id": "24 51786491355"
+    },
     {
       "title": "Cristiano Ronaldo dhe Georgina Rodríguez kurorëzojnë dashurinë, martohen në Portugali",
       "link": "https://24-ore.com/cristiano-ronaldo-dhe-georgina-rodriguez-kurorezojne-dashurine-martohen-ne-portugali/",
@@ -12,7 +78,7 @@
       "date": "2026-08-11T23:00:30+00:00",
       "dateStr": "11 Aug, 23:00",
       "isNew": true,
-      "id": "24 01786489230"
+      "id": "24 61786489230"
     },
     {
       "title": "Mbiturizmi pushton Bregdetin Amalfitan, banorët: Kemi arritur kufirin",
@@ -23,7 +89,7 @@
       "date": "2026-08-11T23:00:13+00:00",
       "dateStr": "11 Aug, 23:00",
       "isNew": true,
-      "id": "24 11786489213"
+      "id": "24 71786489213"
     },
     {
       "title": "Seattle Storm mposht Chicago Sky 97-88 në ndeshjen e 10 gushtit 2026",
@@ -34,7 +100,7 @@
       "date": "2026-08-11T22:57:02+00:00",
       "dateStr": "11 Aug, 22:57",
       "isNew": true,
-      "id": "24 21786489022"
+      "id": "24 81786489022"
     },
     {
       "title": "Adley Rutschman pritet të debutojë për Red Sox, parashikohet i treti në rreshtim kundër Blue Jays",
@@ -45,73 +111,7 @@
       "date": "2026-08-11T22:51:52+00:00",
       "dateStr": "11 Aug, 22:51",
       "isNew": true,
-      "id": "24 31786488712"
-    },
-    {
-      "title": "Riaktivizohet zjarri në lagjen “Abaze” të Krujës",
-      "link": "https://24-ore.com/riaktivizohet-zjarri-ne-lagjen-abaze-te-krujes/",
-      "description": "Mbrëmjen e sotme zjarri në lagjen Abaze të Krujës është riaktivizuar sërish. Kreu i PD në Krujë, Aulon Kalaj, në një reagim në rrjetet sociale shkruan: “Riaktivizohet dhe një herë zjarri në lagjen “Abaze”, në Krujë! Banorët më thonë se autoritetet përkatëse nuk kanë shkuar ende në terren, tek vatra ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T22:19:08+00:00",
-      "dateStr": "11 Aug, 22:19",
-      "isNew": true,
-      "id": "24 41786486748"
-    },
-    {
-      "title": "Detajet e operacionit në Turqi, si e fsheh shërbimi sekret presidentin amerikan",
-      "link": "https://24-ore.com/detajet-e-operacionit-ne-turqi-si-e-fsheh-sherbimi-sekret-presidentin-amerikan/",
-      "description": "Më 8 korrik, presidenti amerikan Donald Trump hipi në avionin presidencial Air Force One përpara kamerave televizive, teksa largohej nga samiti i NATO-s në Turqi. Por kur avioni i madh Boeing u ngrit nga Ankaraja, presidenti thuhet se ishte larguar fshehurazi me një kamion të furnizimit ushqimor dre",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T22:18:51+00:00",
-      "dateStr": "11 Aug, 22:18",
-      "isNew": true,
-      "id": "24 51786486731"
-    },
-    {
-      "title": "10 uniformat sportive më ikonike të të gjitha kohërave",
-      "link": "https://24-ore.com/10-uniformat-sportive-me-ikonike-te-te-gjitha-koherave/",
-      "description": "Çfarë i bën disa uniforme sportive të paharrueshme? Ndonjëherë janë lidhjet me momente historike ose legjendat që i vunë në skenë; herë të tjera ndikojnë t...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T22:11:50+00:00",
-      "dateStr": "11 Aug, 22:11",
-      "isNew": true,
-      "id": "24 61786486310"
-    },
-    {
-      "title": "Vuçiqi nuk zbrapset për lumin Ibër, sulmon ashpër BE-në dhe Kosovën",
-      "link": "https://24-ore.com/vuciqi-nuk-zbrapset-per-lumin-iber-sulmon-ashper-be-ne-dhe-kosoven/",
-      "description": "Presidenti i Serbisë, Aleksandar Vuçiq, nuk po heq dorë nga retorika për ndryshimin e mundshëm të rrjedhës së lumit Ibër, pavarësisht reagimeve të ashpra nga Bashkimi Evropian, Shtetet e Bashkuara dhe Gjermania. Pas kritikave të Brukselit për deklaratat e tij, Vuçiq ka zgjedhur të mos tërhiqet, por ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T22:07:15+00:00",
-      "dateStr": "11 Aug, 22:07",
-      "isNew": true,
-      "id": "24 71786486035"
-    },
-    {
-      "title": "UASHINGTON – SHBA sulmon një tanker me flamur panamez që po i afrohej Iranit",
-      "link": "https://24-ore.com/uashington-shba-sulmon-nje-tanker-me-flamur-panamez-qe-po-i-afrohej-iranit/",
-      "description": "UASHINGTON, 11 gusht /ATSH-DPA/ – Ushtria amerikane ka sulmuar një tanker me flamur panamez në Gjirin e Omanit, me qëllim që ta pengonte të vazhdonte drejt një porti iranian, njoftoi sot Komanda Qendrore e SHBA-së (CENTCOM). Sipas CENTCOM, një helikopter i marinës amerikane lëshoi dy raketa “Hellfir",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T22:00:25+00:00",
-      "dateStr": "11 Aug, 22:00",
-      "isNew": true,
-      "id": "24 81786485625"
-    },
-    {
-      "title": "I kemi letrat në rregull",
-      "link": "https://24-ore.com/i-kemi-letrat-ne-rregull/",
-      "description": "E kisha parashikuar. Kur Shqipëria zuri vendin e nëntë në botë në një renditje për sigurinë kibernetike, shkrova se me këtë ritëm do të vinte shpejt dita që të dilnim të parët. Dhe ja ku erdhi. Sipas National Cyber Security Index, Shqipëria është sot e para në botë. Lajmin e dha vetë Edi Rama, me [&",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-11T21:29:04+00:00",
-      "dateStr": "11 Aug, 21:29",
-      "isNew": true,
-      "id": "24 91786483744"
+      "id": "24 91786488712"
     },
     {
       "title": "‘Po digjet Lura’, këshilltari i Sigurisë në PD jep alarmin: Zjarri djeg gjithçka prej 8 orësh, situata jashtë kontrollit",
