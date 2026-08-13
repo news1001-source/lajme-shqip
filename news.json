@@ -1,8 +1,250 @@
 {
-  "lastUpdated": "2026-08-13T09:58:37.815924+00:00",
+  "lastUpdated": "2026-08-13T11:02:39.795362+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Zjarri në Priskë të Madhe përhapet drejt Farkës e Lundrës, alarmohen banorët",
+      "link": "https://24-ore.com/zjarri-ne-priske-te-madhe-perhapet-drejt-farkes-e-lundres-alarmohen-banoret/",
+      "description": "Një zjarr i përmasave të konsiderueshme vijon prej disa orësh në Priskë të Madhe, duke shkaktuar frikë dhe panik te banorët e zonës. Flakët janë përhapur në drejtim të Farkës dhe pranë Lundrës, duke iu afruar ndjeshëm zonave të banuara. Situata ka alarmuar banorët, ndërsa forcat zjarrfikëse dhe stru",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T11:01:18+00:00",
+      "dateStr": "13 Aug, 11:01",
+      "isNew": true,
+      "id": "24 01786618878"
+    },
+    {
+      "title": "KLIMĒ – Gjermania regjistron rreth 12.500 vdekje të lidhura me të nxehtin deri më tani",
+      "link": "https://24-ore.com/klime-gjermania-regjistron-rreth-12-500-vdekje-te-lidhura-me-te-nxehtin-deri-me-tani/",
+      "description": "BERLIN, 13 gusht /ATSH -AA/ – ,Rreth 12.500 njerëz në Gjermani kanë vdekur nga shkaqe të lidhura me të nxehtin deri më tani këtë vit, tha sot Instituti i shëndetit publik në vend, duke shënuar numrin më të lartë vjetor që nga fillimi i regjistrimeve në vitin 2016,. Shifra vjen nga raporti i fundit i",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T11:00:12+00:00",
+      "dateStr": "13 Aug, 11:00",
+      "isNew": true,
+      "id": "24 11786618812"
+    },
+    {
+      "title": "E rëndë/ 30-vjeçari tenton të vrasë partneren dhe më pas veten, në gjendje kritike të dy",
+      "link": "https://shekulli.com.al/2026/08/13/e-rende-30-vjecari-tenton-te-vrase-partneren-dhe-me-pas-veten-ne-gjendje-kritike-te-dy/",
+      "description": "ITALI- Një konflikt mes dy ish-partnerëve ka përfunduar me të shtëna armësh në Mongrassano, në provincën e Kozencës, Itali. Një 30-vjeçar dyshohet se ka qëlluar me armë zjarri ndaj ish-partneres së tij, e cila është gjithashtu 30 vjeçe, dhe më pas ka kthyer armën ndaj vetes, në një tentativë për t’i",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-13T10:58:34+00:00",
+      "dateStr": "13 Aug, 10:58",
+      "isNew": true,
+      "id": "she01786618714"
+    },
+    {
+      "title": "Edicioni i Mesditës me Fabiola Hoxha, (13/08/2026)",
+      "link": "https://abcnews.al/edicioni-i-mesdites-me-fabiola-hoxha-13-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T10:57:57+00:00",
+      "dateStr": "13 Aug, 10:57",
+      "isNew": true,
+      "id": "abc01786618677"
+    },
+    {
+      "title": "Thirrje për kërkime të përbashkëta për Parkun Arkeologjik Kombëtar të Butrintit",
+      "link": "https://24-ore.com/thirrje-per-kerkime-te-perbashketa-per-parkun-arkeologjik-kombetar-te-butrintit/",
+      "description": "Butrinti, një nga sitet më të rëndësishme historike dhe arkeologjike të Shqipërisë, me përmasat dhe vlerat e tij, ngre vazhdimisht pyetje që lidhen jo vetëm me të kaluarën, por edhe me mënyrën se si kjo pasuri duhet të ruhet dhe të menaxhohet në të ardhmen. Nëpërmjet programit READ dhe Fondacionit t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T10:49:07+00:00",
+      "dateStr": "13 Aug, 10:49",
+      "isNew": true,
+      "id": "24 21786618147"
+    },
+    {
+      "title": "Zjarri në Priskë të Madhe përhapet në drejtim të Farkës dhe Lundrës, alarmohen banorët",
+      "link": "https://24-ore.com/zjarri-ne-priske-te-madhe-perhapet-ne-drejtim-te-farkes-dhe-lundres-alarmohen-banoret/",
+      "description": "Një zjarr i përmasave të konsiderueshme vijon prej disa orësh në Priskë të Madhe, duke shkaktuar frikë dhe panik te banorët e zonës. Flakët janë përhapur në drejtim të Farkës dhe pranë Lundrës, duke iu afruar ndjeshëm zonave të banuara. Situata ka alarmuar banorët, ndërsa forcat zjarrfikëse dhe stru",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T10:47:48+00:00",
+      "dateStr": "13 Aug, 10:47",
+      "isNew": true,
+      "id": "24 31786618068"
+    },
+    {
+      "title": "Aksident në Kërçovë, lëndohen rëndë dy persona",
+      "link": "https://24-ore.com/aksident-ne-kercove-lendohen-rende-dy-persona/",
+      "description": "Një aksident trafiku ka ndodhur sot në rajonin e Kërçovës pranë fshatit Tajmishtë, në të cilin janë lënduar dy persona. Në aksident janë përfshirë një makinë dhe një kamion. &#8220;Sot rreth orës tetë në Departamentin e Punëve të Brendshme të Kërçovës, është raportuar se ka ndodhur një aksident traf",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T10:46:04+00:00",
+      "dateStr": "13 Aug, 10:46",
+      "isNew": true,
+      "id": "24 41786617964"
+    },
+    {
+      "title": "Hollanda zgjedh Xavi Hernandez/ Vendimi surprizë, ish mesfushori merr drejtimin e “Tulipanëve”",
+      "link": "https://abcnews.al/hollanda-zgjedh-xavi-hernandez-vendimi-surprize-ish-mesfushori-merr-drejtimin-e-tulipaneve/",
+      "description": "Xavi Hernandez është zgjedhur si trajneri I ri i Hollandës. Një suprizë e vërtetë nga federata holandeze, me ish mesfushorin që ashtu si te Barcelona në sezonin 2021/2022 zëvendëson në pankinë Ronald Koeman. Kjo është përvoja e parë e trajnerit nga Katalonja në nivel kombëtaresh, duke nënshkruar një",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T10:45:25+00:00",
+      "dateStr": "13 Aug, 10:45",
+      "isNew": true,
+      "id": "abc11786617925"
+    },
+    {
+      "title": "Shitja rekord e Lakers/ Skuadra e NBA ndryshon pronarë për 12.5 miliardë dollarë",
+      "link": "https://abcnews.al/shitja-rekord-e-lakers-skuadra-e-nba-ndryshon-pronare-per-12-5-miliarde-dollare/",
+      "description": "Los Angeles Lakers do të ndryshojnë sërish pronarë, duke u shitur për shifrën më të lartë të paguar ndonjëherë për një skuadër në historinë e sportit. Dy prej biznesmenëve më të mëdhenj në Shtetet e Bashkuara të Amerikës, Josh Kushner, vëllai i dhëndrit të presidentit Donald Trump, Jared Kushner dhe",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T10:43:43+00:00",
+      "dateStr": "13 Aug, 10:43",
+      "isNew": true,
+      "id": "abc21786617823"
+    },
+    {
+      "title": "Shqiptarët e Europës zbresin në fushë/ Në orën 21:00, Egnatia pret Shamrock Rovers për Europa League",
+      "link": "https://abcnews.al/shqiptaret-e-europes-zbresin-ne-fushe-ne-oren-2100-egnatia-pret-shamrock-rovers-per-europa-league/",
+      "description": "Egnatia dhe Dinamo City zbresin mbrëmjen e sotme në fushën e lojës për sfidat e kthimit në Kupat e Europës. Kampionët e Shqipërisë presin në shtëpinë e tyre Shamrock Rovers në shansin e fundit për të vazhduar rrugën në play off e Europa League. Humbja 3-1 në ndeshjen e parë të luajtur në Dublin dety",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T10:41:47+00:00",
+      "dateStr": "13 Aug, 10:41",
+      "isNew": true,
+      "id": "abc31786617707"
+    },
+    {
+      "title": "Sytë nga mbrojtja! Ushtria lë pas rrugët dhe ujësjellësit, merr 70 mln euro në 6-mujorin e parë të vitit",
+      "link": "https://shekulli.com.al/2026/08/13/syte-nga-mbrojtja-ushtria-le-pas-rruget-dhe-ujesjellesit-merr-70-mln-euro-ne-6-mujorin-e-pare-te-vitit/",
+      "description": "Investimet në mbrojtje zënë vendin kryesor në listën e projekteve me financimin më të lartë nga buxheti. Vetëm katër projektet më të mëdha të Forcave të Armatosura përfituan rreth 6,8 miliardë lekë, duke lënë pas investimet individuale në rrugë, ujësjellës, zhvillim urban dhe teknologji. Sipas të dh",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-13T10:36:37+00:00",
+      "dateStr": "13 Aug, 10:36",
+      "isNew": true,
+      "id": "she11786617397"
+    },
+    {
+      "title": "Çfarë nuk thuhet për pretendimin e MABCO-s ndaj shtetit shqiptar",
+      "link": "https://24-ore.com/cfare-nuk-thuhet-per-pretendimin-e-mabco-s-ndaj-shtetit-shqiptar/",
+      "description": "Nga Ardit Rada Teza që po qarkullon nga Behgjet Pacolli për Aeroportin e Vlorës është e thjeshtë: shteti shqiptar e pengoi investitorin të përfundonte punën dhe më pas e ndëshkoi pikërisht për vonesat që, sipas kësaj teze, ishin shkaktuar nga ndërhyrja e shtetit. Është një histori që, në pamje të pa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T10:30:52+00:00",
+      "dateStr": "13 Aug, 10:30",
+      "isNew": true,
+      "id": "24 51786617052"
+    },
+    {
+      "title": "Shqipëria Sot me Fabiola Hoxha, (13/08/2026)",
+      "link": "https://abcnews.al/shqiperia-sot-me-fabiola-hoxha-13-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T10:27:39+00:00",
+      "dateStr": "13 Aug, 10:27",
+      "isNew": true,
+      "id": "abc41786616859"
+    },
+    {
+      "title": "Vdekja e ish-kryegjyqtarit të Vlorës, Eduard Halimi: Sa herë e shtymë atë drekën tonë, kur më tregoi se regjimi e kishte dënuar me vdekje…",
+      "link": "https://shekulli.com.al/2026/08/13/vdekja-e-ish-kryegjyqtarit-te-vlores-ish-ministri-prek-me-fjalet-sa-here-e-shtyme-ate-dreken-tone-kur-me-tregoi-se-regjimi-e-kishte-denuar-me-vdekje/",
+      "description": "TIRANË- Ndarja nga jeta e ish-kreut të Gjykatës së Vlorës, Skënder Haluci, ka lënë të shokuar familjarë dhe miq të tij. Ai u nda nga jeta në moshën 64-vjeçare, teksa po pushonte me familjen e tij në bjeshkët e Tropojës. Eduard Halimi, ish-ministër drejtësie dhe njëherësh mik me të ndjerin, ka bërë n",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-13T10:27:17+00:00",
+      "dateStr": "13 Aug, 10:27",
+      "isNew": true,
+      "id": "she21786616837"
+    },
+    {
+      "title": "Një 38-vjeçar gjendet i vdekur në Shkup",
+      "link": "https://24-ore.com/nje-38-vjecar-gjendet-i-vdekur-ne-shkup/",
+      "description": "MPB njofton se policia ka gjetur një person të vdekur në Shkup. &#8220;Sot rreth orës 09:25 të mëngjesit, SPB Shkup ka marrë njoftim se para një ndërtese në bulevardin &#8220;Krste Misirkov&#8221; në Shkup ka një person me lëndime. Në vendin e ngjarjes kanë dalë oficerë policie nga stacioni policor ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T10:26:03+00:00",
+      "dateStr": "13 Aug, 10:26",
+      "isNew": true,
+      "id": "24 61786616763"
+    },
+    {
+      "title": "Çfarë po ndodh me Etnën dhe pse ka aktivitet kaq intensiv vullkanik?",
+      "link": "https://abcnews.al/cfare-po-ndodh-me-etnen-dhe-pse-ka-aktivitet-kaq-intensiv-vullkanik/",
+      "description": "Mali Etna, një nga vullkanet më aktivë në botë, po përjeton një fazë të fuqishme aktiviteti në Siçili, duke shkaktuar probleme të mëdha për transportin ajror dhe mijëra udhëtarë në kulmin e sezonit turistik. Hiri vullkanik ka prekur hapësirën ajrore të rajonit dhe është zhvendosur edhe drejt Maltës,",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T10:14:40+00:00",
+      "dateStr": "13 Aug, 10:14",
+      "isNew": true,
+      "id": "abc51786616080"
+    },
+    {
+      "title": "Krujë, kalon rreziku në Abaze/ Vatra e zjarrit nën kontroll, nuk rrezikohen banesa",
+      "link": "https://abcnews.al/kruje-kalon-rreziku-ne-abaze-vatra-e-zjarrit-nen-kontroll-nuk-rrezikohen-banesa/",
+      "description": "Situata e krijuar nga zjarri në zonën e Abazajt, në Krujë, është përmirësuar. Vatra e zjarrit është tashmë nën kontroll dhe, sipas informacioneve paraprake, nuk ka rrezik për banesat. Forcat zjarrfikëse kanë vijuar punën në terren për izolimin e plotë të flakëve dhe shmangien e riaktivizimit të vatr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T10:11:20+00:00",
+      "dateStr": "13 Aug, 10:11",
+      "isNew": true,
+      "id": "abc61786615880"
+    },
+    {
+      "title": "Çfarë fshihet pas rivalitetit midis Marokut dhe Algjerisë?",
+      "link": "https://abcnews.al/cfare-fshihet-pas-rivalitetit-midis-marokut-dhe-algjerise/",
+      "description": "Më 20 korrik 2026, kryeministri spanjollPedro Sánchez udhëtoi për në Algjeri për bisedime. Qëllimi i takimeve me Presidentin Abdelmadjid Tebboune dhe Kryeministrin Sifi Ghrieba ishte kapërcimi përfundimtar i krizës diplomatike midis dy vendeve, e cila shpërtheu në vitin 2022 për shkak të konfliktit ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T10:09:46+00:00",
+      "dateStr": "13 Aug, 10:09",
+      "isNew": true,
+      "id": "abc71786615786"
+    },
+    {
+      "title": "Zgjodhi familjen! Kush është Karoline Leavitt, zëdhënësja që i dha lamtumirën Shtëpisë së Bardhë, por jo Donald Trumpit",
+      "link": "https://shekulli.com.al/2026/08/13/zgjodhi-familjen-kush-eshte-karoline-leavitt-zedhenesja-qe-i-dha-lamtumiren-shtepise-se-bardhe-por-jo-donald-trumpit/",
+      "description": "Për rreth 20 muaj, podiumi i Shtëpisë së Bardhë pati një nga zërat më të rinj dhe më të zhurmshëm të politikës amerikane. Karoline Leavitt, zëdhënësja e presidentit Donald Trump, njoftoi se do të largohet nga detyra në fund të gushtit, duke mbyllur një kapitull të rëndësishëm të karrierës së saj pol",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-13T10:08:52+00:00",
+      "dateStr": "13 Aug, 10:08",
+      "isNew": true,
+      "id": "she31786615732"
+    },
+    {
+      "title": "Arrestohet një person në Merdar nën dyshimin për spiunazh",
+      "link": "https://abcnews.al/arrestohet-nje-person-ne-merdar-nen-dyshimin-per-spiunazh/",
+      "description": "Një mësues në Kosovë-spiun për Serbinë. Fehim Sali është shtetasi i arrestuar nën dyshimet për veprën penale të spiunazhit. Ai u ndalua në pikën kufitare të Merdares në një operacion të përbashkët të Agjencisë Kosovare të Inteligjencës, Policisë dhe Prokurorisë Speciale. Fehim Sali dyshohet se për n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T10:06:27+00:00",
+      "dateStr": "13 Aug, 10:06",
+      "isNew": true,
+      "id": "abc81786615587"
+    },
+    {
+      "title": "MPB: Po identifikohen profilet dhe po thirren në bisedë informative persona lidhur me publikimet për ujin në Shkup",
+      "link": "https://24-ore.com/mpb-po-identifikohen-profilet-dhe-po-thirren-ne-bisede-informative-persona-lidhur-me-publikimet-per-ujin-ne-shkup/",
+      "description": "Ministria e Punëve të Brendshme vazhdon të thërrasë për bisedë informative persona nga profilet e të cilëve dje bëhej thirrje që të mos pihej uji në Shkup, për shkak të pretendimit për praninë e një bakteri. Pretendimi u demantua pasditen e djeshme nga kryetari i Shkupit, Orce Gjorgjievski, NP “Ujës",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T10:06:09+00:00",
+      "dateStr": "13 Aug, 10:06",
+      "isNew": true,
+      "id": "24 71786615569"
+    },
+    {
+      "title": "Tahiri i Aleancës kërkon takim me Deharin për vazhdimin e seancës konstituive",
+      "link": "https://24-ore.com/tahiri-i-aleances-kerkon-takim-me-deharin-per-vazhdimin-e-seances-konstituive/",
+      "description": "Deputeti i Aleancës, Besnik Tahiri ka bërë të ditur se ka kërkuar takim me kryesuesin e seancës, Avni Dehari për përgatitjet edhe koordinimin lidhur me seancën e radhës. Tahiri thekson se ka kërkuar që takimi të zhvillohet deri në ora 13:30. “Sot i kam drejtuar një kërkesë Kryesuesit të Seancës Kons",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T10:05:54+00:00",
+      "dateStr": "13 Aug, 10:05",
+      "isNew": true,
+      "id": "24 81786615554"
+    },
     {
       "title": "PDK tha se LVV po e shantazhon administratën e Kuvendit, reagon Haxhiu: ‘Opozita’ nuk duhet ta përfshijë stafin profesional në këto përplasje",
       "link": "https://24-ore.com/pdk-tha-se-lvv-po-e-shantazhon-administraten-e-kuvendit-reagon-haxhiu-opozita-nuk-duhet-ta-perfshije-stafin-profesional-ne-keto-perplasje/",
@@ -12,7 +254,7 @@
       "date": "2026-08-13T09:56:02+00:00",
       "dateStr": "13 Aug, 09:56",
       "isNew": true,
-      "id": "24 01786614962"
+      "id": "24 91786614962"
     },
     {
       "title": "Breaking News me Fabiola Hoxha, (13/08/2026)",
@@ -23,7 +265,7 @@
       "date": "2026-08-13T09:49:54+00:00",
       "dateStr": "13 Aug, 09:49",
       "isNew": true,
-      "id": "abc01786614594"
+      "id": "abc91786614594"
     },
     {
       "title": "Haaland ‘frymëzon’ trafikantët e kokainës/ Zbulohet sasi e madhe droge në kufirin mes Kolumbisë dhe Ekuadorit",
@@ -34,106 +276,7 @@
       "date": "2026-08-13T09:49:15+00:00",
       "dateStr": "13 Aug, 09:49",
       "isNew": true,
-      "id": "she01786614555"
-    },
-    {
-      "title": "Ishte me pushime me familjen, ndahet papritur nga jeta ish-kreu i Gjykatës së Vlorës Skënder Haluci",
-      "link": "https://24-ore.com/ishte-me-pushime-me-familjen-ndahet-papritur-nga-jeta-ish-kreu-i-gjykates-se-vlores-skender-haluci/",
-      "description": "Ish-kryetari i Gjykatës së Vlorës, Skënder Haluci është ndarë papritur nga jeta në moshën 64-vjeçare. Haluci ndodhej në bjeshkët e Tropojës, ku kishte shkuar për të pushuar së bashku me familjen. Mëngjesin e sotëm, ai u kishte treguar familjarëve se nuk ndihej mirë dhe disa minuta më pas është gjetu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T09:48:26+00:00",
-      "dateStr": "13 Aug, 09:48",
-      "isNew": true,
-      "id": "24 11786614506"
-    },
-    {
-      "title": "Kush po i vë zjarret?",
-      "link": "https://24-ore.com/kush-po-i-ve-zjarret/",
-      "description": "Nga Bajram Peçi Tek-tuk ka ndonjë derdimen që ndez zjarr dhe pakujdesisht i del situata nga dora, por duke parë vëndet (mbi 26) ku flaka po shkrumbon në pyje, maja malesh e zona të thella malore, vetiu mendon se zjarret provokohen, vihen qëllimisht. Ky derdimeni, rrallë herë kapet, por i qëllimti, z",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T09:47:34+00:00",
-      "dateStr": "13 Aug, 09:47",
-      "isNew": true,
-      "id": "24 21786614454"
-    },
-    {
-      "title": "Filmi i animuar shqiptar “Arushi hap tokë të re” do të restaurohet",
-      "link": "https://24-ore.com/filmi-i-animuar-shqiptar-arushi-hap-toke-te-re-do-te-restaurohet/",
-      "description": "Një tjetër vepër e rrallë e trashëgimisë kinematografike shqiptare do t’i nënshtrohet restaurimit. Bëhet fjalë për filmin e animuar “Arushi hap tokë të re”, prodhim i vitit 1979, me regji dhe pikturë të Tonin Vuksanit. Filmi, pjesë e fondit të filmave të animuar të ish-Kinostudios “Shqipëria e Re”, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T09:46:38+00:00",
-      "dateStr": "13 Aug, 09:46",
-      "isNew": true,
-      "id": "24 31786614398"
-    },
-    {
-      "title": "Vetëm 2% e këshillave për dietën në TikTok janë të sakta: 5 gjëra që duhet të dini",
-      "link": "https://24-ore.com/vetem-2-e-keshillave-per-dieten-ne-tiktok-jane-te-sakta-5-gjera-qe-duhet-te-dini/",
-      "description": "mixetto/Getty Images Dietat dhe këshillat për ushqyerjen qarkullojnë me shpejtësi në rrjete sociale, veçanërisht në TikTok. Por një studim i ri tregon se pjesa dërrmuese e këtyre këshillave nuk përputhet me udhëzimet shëndetësore dhe ushqimore. Sipas një sondazhi të ri, 57% e përdoruesve të TikTok n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T09:46:23+00:00",
-      "dateStr": "13 Aug, 09:46",
-      "isNew": true,
-      "id": "24 41786614383"
-    },
-    {
-      "title": "SHBA – Trump planifikon të shpenzojë mbi 900 milionë dollarë për rinovimin e Shtëpisë së Bardhë",
-      "link": "https://24-ore.com/shba-trump-planifikon-te-shpenzoje-mbi-900-milione-dollare-per-rinovimin-e-shtepise-se-bardhe/",
-      "description": "UASHINGTON, 13 gusht /ATSH – AA/ – Administrata e presidentit amerikan Donald Trump planifikon të shpenzojë mbi 900 milionë dollarë për projekte ndërtimi në të gjithë territorin e Shtëpisë së Bardhë, ku shumica e financimit pritet të vijë nga taksapaguesit, thanë raportet e mediave. Gazeta “Washingt",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T09:46:07+00:00",
-      "dateStr": "13 Aug, 09:46",
-      "isNew": true,
-      "id": "24 51786614367"
-    },
-    {
-      "title": "Doganat e Maqedonisë kapin tre imigrantë në Shkup, ishin fshehur në një kamion",
-      "link": "https://24-ore.com/doganat-e-maqedonise-kapin-tre-imigrante-ne-shkup-ishin-fshehur-ne-nje-kamion/",
-      "description": "Drejtoria e Doganave njofton se tre imigrantë të paligjshëm nga Sudani janë gjetur gjatë një kontrolli të një kamioni me mallra të deklaruara për zhdoganim importi në Kompleksin Doganor në Shkup. &#8220;Doganierët nga Dogana Shkup 1 në Doganën e Shkupit kanë gjetur tre imigrantë të paligjshëm nga Su",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T09:41:08+00:00",
-      "dateStr": "13 Aug, 09:41",
-      "isNew": true,
-      "id": "24 61786614068"
-    },
-    {
-      "title": "Prokuroria ngrit aktakuzë ndaj pesë personave për zjarrin në “Gate Club”, dëmi ishte mbi 969 mijë euro",
-      "link": "https://24-ore.com/prokuroria-ngrit-aktakuze-ndaj-pese-personave-per-zjarrin-ne-gate-club-demi-ishte-mbi-969-mije-euro/",
-      "description": "Prokuroria Themelore në Prishtinë ka ngritur aktakuzë ndaj pesë personave lidhur me zjarrin që përfshiu diskotekën “Gate Club” në zonën industriale Prishtinë–Fushë Kosovë, më 14 shkurt 2025. Sipas Prokurorisë, pas zhvillimit të hetimeve, mbledhjes dhe analizimit të provave, ndaj të pandehurve SH.T. ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T09:40:52+00:00",
-      "dateStr": "13 Aug, 09:40",
-      "isNew": true,
-      "id": "24 71786614052"
-    },
-    {
-      "title": "“Albin Kurti uzurpon shtetin”/PDK i bllokon hyrjen në zyrë, kërkesë në Kuvend për seancën",
-      "link": "https://abcnews.al/albin-kurti-uzurpon-shtetin-pdk-i-bllokon-hyrjen-ne-zyre-kerkese-ne-kuvend-per-seancen/",
-      "description": "Albin Kurti dhe ministrat e tij kanë uzurpuar zyrat e shtetit dhe po mbajnë peng Kosovën. Në një tjetër aksion pas përplasjeve në sallën e parlamentit, këtë të enjte deputetët e Partisë Demokratike të Kosovës bllokuan hyrjen e qeverisë, ndërsa paralajmëruan përdorimin e çdo mjeti për kthimin e rendi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T09:39:47+00:00",
-      "dateStr": "13 Aug, 09:39",
-      "isNew": true,
-      "id": "abc11786613987"
-    },
-    {
-      "title": "Sherri fizik degradon në tentativë vrasjeje, 6 të arrestuar në Divjakë",
-      "link": "https://24-ore.com/sherri-fizik-degradon-ne-tentative-vrasjeje-6-te-arrestuar-ne-divjake/",
-      "description": "Gjashtë persona janë arrestuar nga Policia e Divjakës pas një konflikti me sende të forta në një lokal. Mes të arrestuarve është një 22-vjeçar, i cili dyshohet se u rikthye disa orë më vonë i armatosur me pistoletë me silenciator, me qëllim vrasjen e një 51-vjeçari. Ndërhyrja e policisë parandaloi n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T09:31:55+00:00",
-      "dateStr": "13 Aug, 09:31",
-      "isNew": true,
-      "id": "24 81786613515"
+      "id": "she41786614555"
     },
     {
       "title": "Zjarri i frikshëm mori para gjithçka, banorët përjetuan tmerrin, si është tani situata në fshatrat e Tiranës",
@@ -144,40 +287,7 @@
       "date": "2026-08-13T09:31:16+00:00",
       "dateStr": "13 Aug, 09:31",
       "isNew": true,
-      "id": "she11786613476"
-    },
-    {
-      "title": "GLPS: Vendimmarrja e Qeverisë në detyrë është në kundërshtim me Kushtetutën dhe ligjin",
-      "link": "https://24-ore.com/glps-vendimmarrja-e-qeverise-ne-detyre-eshte-ne-kundershtim-me-kushtetuten-dhe-ligjin/",
-      "description": "Grupi për Studime Juridike dhe Politike (GLPS) ka shpreh shqetësim lidhur me vendimet e Qeverisë në detyrë që janë marrë në mbledhjen e mbajtur më 12 gusht 2026. GLPS në një komunikatë për media thekson se duke qenë se shumica e anëtarëve të Qeverisë në detyrë janë betuar si deputetë të Kuvendit të ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T09:30:57+00:00",
-      "dateStr": "13 Aug, 09:30",
-      "isNew": true,
-      "id": "24 91786613457"
-    },
-    {
-      "title": "Trump hap “thesin” për Shtëpinë e Bardhë, mbi 900 milionë dollarë për rikonstruksione",
-      "link": "https://abcnews.al/trump-hap-thesin-per-shtepine-e-bardhe-mbi-900-milione-dollare-per-rikonstruksione/",
-      "description": "Administrata e presidentit amerikan Donald Trump pritet të shpenzojë më shumë se 900 milionë dollarë për një sërë projektesh ndërtimi dhe rikonstruksioni në kompleksin e Shtëpisë së Bardhë, ku pjesa më e madhe e financimit besohet se do të vijë nga fondet publike, raportojnë mediat amerikane. Sipas ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T09:27:52+00:00",
-      "dateStr": "13 Aug, 09:27",
-      "isNew": true,
-      "id": "abc21786613272"
-    },
-    {
-      "title": "Zgjerimi i autostradës Tiranë-Durrës, ARRSH: Ja si do të devijohet trafiku më 14 dhe 15 gusht",
-      "link": "https://abcnews.al/zgjerimi-i-autostrades-tirane-durres-arrsh-ja-si-do-te-devijohet-trafiku-me-14-dhe-15-gusht/",
-      "description": "Autoriteti Rrugor Shqiptar njoftoi se më 14 dhe 15 gusht 2026, nga ora 23:00 deri në 05:00, do të aplikohet devijim i përkohshëm i trafikut në autostradën Tiranë-Durrës, për shkak të montimit të trarëve metalikë të mbikalimit të ri të Kasharit. Ndërhyrja kryhet në kuadër të punimeve për objektin “Zg",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T09:19:24+00:00",
-      "dateStr": "13 Aug, 09:19",
-      "isNew": true,
-      "id": "abc31786612764"
+      "id": "she51786613476"
     },
     {
       "title": "Ndërron jetë ish-kreu i Gjykatës së Vlorës, Skënder Haluci, i dënuar me vdekje për atentatin ndaj Ramiz Alisë",
@@ -188,51 +298,7 @@
       "date": "2026-08-13T09:17:39+00:00",
       "dateStr": "13 Aug, 09:17",
       "isNew": true,
-      "id": "she21786612659"
-    },
-    {
-      "title": "Ekuadori sekuestron 469 kilogramë kokainë, paketimet mbanin imazhin e futbollistit Erling Haaland",
-      "link": "https://abcnews.al/ekuadori-sekuestron-469-kilograme-kokaine-paketimet-mbanin-imazhin-e-futbollistit-erling-haaland/",
-      "description": "Policia në Ekuador është përballur me një zbulim të pazakontë gjatë sekuestrimit të 469 kilogramëve kokainë pranë kufirit me Kolumbinë: në paketat e drogës ishte stampuar fytyra e yllit norvegjez të futbollit, Erling Haaland. Policia arrestoi drejtuesin e kamionit dhe gjeti 370 pako të fshehura në n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T09:17:27+00:00",
-      "dateStr": "13 Aug, 09:17",
-      "isNew": true,
-      "id": "abc41786612647"
-    },
-    {
-      "title": "Qetësohen zjarret në Tiranë/ Riaktivizohet një vatër zjarri në zonën e Priskës",
-      "link": "https://abcnews.al/qetesohen-zjarret-ne-tirane-riaktivizohet-nje-vater-zjarri-ne-zonen-e-priskes/",
-      "description": "Pas disa orësh të vështira gjatë natës, vatrat e zjarrit në Dajt dhe Priskë janë qetësuar. Gazetarja Bleona Sari raporton për ABC News se janë dy vatra aktive të cilat janë riaktivizuar pak çaste më parë. Efektivë, zjarrfikësit si dhe banorë të zonës po ndërhyjnë për shuarjen e flakëve, ndërkohë që ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T09:14:10+00:00",
-      "dateStr": "13 Aug, 09:14",
-      "isNew": true,
-      "id": "abc51786612450"
-    },
-    {
-      "title": "Divjakë, parandalohet krimi/ 22-vjeçari tentoi të vriste një person pas sherrit me sende të forta në lokal, 6 në pranga",
-      "link": "https://abcnews.al/divjake-parandalohet-krimi-22-vjecari-tentoi-te-vriste-nje-person-pas-sherrit-me-sende-te-forta-ne-lokal-6-ne-pranga/",
-      "description": "Një konflikt i nisur në një lokal në Divjakë ka përfunduar me arrestimin e gjashtë personave, në kuadër të operacionit policor të koduar “Crime Prevented”. Sipas Policisë, konflikti ka nisur mes një 50-vjeçari dhe një 22-vjeçari, të cilët kanë mbetur të dëmtuar pas përplasjes me sende të forta. Pas ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T09:12:28+00:00",
-      "dateStr": "13 Aug, 09:12",
-      "isNew": true,
-      "id": "abc61786612348"
-    },
-    {
-      "title": "Lamallari e Gonxhja ndjekin nga afër masat për sezonin turistik në Sarandë: Asnjë tolerancë për paligjshmërinë!",
-      "link": "https://abcnews.al/lamallari-e-gonxhja-ndjekin-nga-afer-masat-per-sezonin-turistik-ne-sarande-asnje-tolerance-per-paligjshmerine/",
-      "description": "Ministri i Punëve të Brendshme, Besfort Lamallari, ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja dhe kryetari i Bashkisë Oltion Çaçi zhvilluan në Sarandë një inspektim të masave të marra për mbarëvajtjen e sezonit turistik, në një kohë kur flukset e turistëve dhe qytetarëve në portet dhe",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T09:10:21+00:00",
-      "dateStr": "13 Aug, 09:10",
-      "isNew": true,
-      "id": "abc71786612221"
+      "id": "she61786612659"
     },
     {
       "title": "Parandalohet vrasja në Divjakë, pas sherrit me dy të plagosur në lokal, i riu kthehet me armë. Ndërhyn policia, 6 në pranga",
@@ -243,18 +309,7 @@
       "date": "2026-08-13T09:00:06+00:00",
       "dateStr": "13 Aug, 09:00",
       "isNew": true,
-      "id": "she31786611606"
-    },
-    {
-      "title": "Irani riformon strukturën komanduese të goditur rëndë nga lufta",
-      "link": "https://abcnews.al/irani-riformon-strukturen-komanduese-te-goditur-rende-nga-lufta/",
-      "description": "Vendimi i liderit suprem të Iranit, Mojtaba Khamenei, për të zyrtarizuar gjashtë emërime të larta ushtarake dhe të sigurisë brenda 48 orësh është më pak një çështje emërimesh personale sesa kapitulli përmbyllës i një periudhe pesëmujore improvizimi. Të marra së bashku, emërimet e shpallura më 10 gus",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T08:57:55+00:00",
-      "dateStr": "13 Aug, 08:57",
-      "isNew": true,
-      "id": "abc81786611475"
+      "id": "she71786611606"
     },
     {
       "title": "ANALIZA- Çfarë fshihet pas rivalitetit midis Marokut dhe Algjerisë?",
@@ -265,7 +320,7 @@
       "date": "2026-08-13T08:49:57+00:00",
       "dateStr": "13 Aug, 08:49",
       "isNew": true,
-      "id": "she41786610997"
+      "id": "she81786610997"
     },
     {
       "title": "Messi rikthehet në fushë pas vdekjes së babait, por Inter Miami eliminohet nga Leagues Cup",
@@ -276,62 +331,7 @@
       "date": "2026-08-13T08:49:30+00:00",
       "dateStr": "13 Aug, 08:49",
       "isNew": true,
-      "id": "she51786610970"
-    },
-    {
-      "title": "Angli, ndalohen syzet inteligjente Meta në gjykata",
-      "link": "https://abcnews.al/angli-ndalohen-syzet-inteligjente-meta-ne-gjykata/",
-      "description": "Gjykatat në Angli dhe Uells kanë ndaluar përdorimin e syzeve inteligjente Meta, për shkak të shqetësimeve mbi mundësinë e regjistrimit të fshehtë të pamjeve dhe videove. Shërbimi i Gjykatave dhe Tribunaleve të Madhërisë së Tij (HMCTS) ka njoftuar se personave që tentojnë të hyjnë në ambientet e gjyk",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T08:39:26+00:00",
-      "dateStr": "13 Aug, 08:39",
-      "isNew": true,
-      "id": "abc91786610366"
-    },
-    {
-      "title": "12.5 miliardë dollarë për Lakers/ Vëllai i Jared Kushner dhe ish-CEO i Disney marrin klubin legjendar",
-      "link": "https://shekulli.com.al/2026/08/13/12-5-miliarde-dollare-per-lakers-vellai-i-jared-kushner-dhe-ish-ceo-i-disney-marrin-klubin-legjendar/",
-      "description": "Los Angeles Lakers pritet të kenë një pronësi të re, pasi investitori Joshua Kushner dhe ish-drejtori ekzekutiv i Disney, Bob Iger, kanë arritur marrëveshje për blerjen e një prej skuadrave më ikonike të NBA-së. Vlera e marrëveshjes arrin në rreth 12.5 miliardë dollarë, duke e bërë atë shitjen më të",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T07:47:18+00:00",
-      "dateStr": "13 Aug, 07:47",
-      "isNew": true,
-      "id": "she61786607238"
-    },
-    {
-      "title": "Përballja me Ols Dadon, Veliaj e çon çështjen në apel: Është emëruar në kundërshtim me ligjin",
-      "link": "https://shekulli.com.al/2026/08/13/perballja-me-ols-dadon-veliaj-e-con-ceshtjen-ne-apel-eshte-emeruar-ne-kundershtim-me-ligjin/",
-      "description": "TIRANË- Bashkia e Tiranës dhe kryebashkiaku Erion Veliaj kanë ankimuar në Gjykatën Administrative të Apelit vendimin e 24 korrikut të Gjykatës Administrative të Shkallës së Parë, e cila nuk pranoi të shqyrtonte në themel padinë për ligjshmërinë e emërimit të prokurorit Ols Dado. Në komunikimin e tij",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T07:35:04+00:00",
-      "dateStr": "13 Aug, 07:35",
-      "isNew": true,
-      "id": "she71786606504"
-    },
-    {
-      "title": "Nga kërcënimi me Arbitrazh, te kthesa për negociata/ Pse Mabco e Pacollit bëri hapa pas në përballjen me qeverinë",
-      "link": "https://shekulli.com.al/2026/08/13/nga-kercenimi-me-arbitrazh-te-kthesa-per-negociata-pse-mabco-e-pacollit-beri-hapa-pas-ne-perballjen-me-qeverine/",
-      "description": "MABCO Constructions ka kundërshtuar zyrtarisht vendimin e Ministrisë së Infrastrukturës dhe Energjisë për zgjidhjen e parakohshme të kontratës së koncesionit të Aeroportit Ndërkombëtar të Vlorës dhe i ka kërkuar qeverisë nisjen e negociatave në mirëbesim për zgjidhjen e mosmarrëveshjes. Në shkresën ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T07:23:31+00:00",
-      "dateStr": "13 Aug, 07:23",
-      "isNew": true,
-      "id": "she81786605811"
-    },
-    {
-      "title": "Eurovision ndryshon rregullat: Vendet në konflikt mund të fitojnë, por jo të organizojnë festivalin",
-      "link": "https://shekulli.com.al/2026/08/13/eurovision-ndryshon-rregullat-vendet-ne-konflikt-mund-te-fitojne-por-jo-te-organizojne-festivalin/",
-      "description": "Eurovision ka ndryshuar rregullat për organizimin e konkursit, duke hequr praktikisht garancinë që vendi fitues të presë automatikisht edicionin e ardhshëm. Sipas rregullores së re të Bashkimit Evropian të Transmetuesve (EBU), nëse transmetuesi i një vendi fitues ndodhet në një shtet të përfshirë në",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T07:04:07+00:00",
-      "dateStr": "13 Aug, 07:04",
-      "isNew": true,
-      "id": "she91786604647"
+      "id": "she91786610970"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
