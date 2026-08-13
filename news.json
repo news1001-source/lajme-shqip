@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-13T21:39:15.099967+00:00",
+  "lastUpdated": "2026-08-13T22:35:48.488517+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Anthony Davis dhe OG Anunoby në krye të vlerësimeve të NBA 2K27 për vendet 21–100",
+      "link": "https://24-ore.com/anthony-davis-dhe-og-anunoby-ne-krye-te-vleresimeve-te-nba-2k27-per-vendet-21-100/",
+      "description": "Lista e pjesës së dytë të 100 lojtarëve më të vlerësuar të NBA 2K27 u zbulua të enjten, duke përfshirë renditjet nga vendi 30 deri te 21. Midis emrave të p...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T22:07:07+00:00",
+      "dateStr": "13 Aug, 22:07",
+      "isNew": true,
+      "id": "24 01786658827"
+    },
     {
       "title": "Jim Ross i WWE dhe AEW kalon me sukses operacion në tru, vajza e tij e konfirmon te Conrad Thompson",
       "link": "https://24-ore.com/jim-ross-i-wwe-dhe-aew-kalon-me-sukses-operacion-ne-tru-vajza-e-tij-e-konfirmon-te-conrad-thompson/",
@@ -12,7 +23,7 @@
       "date": "2026-08-13T21:31:54+00:00",
       "dateStr": "13 Aug, 21:31",
       "isNew": true,
-      "id": "24 01786656714"
+      "id": "24 11786656714"
     },
     {
       "title": "Një rol në zyrën drejtuesse të Lakers për Chris Paul pas blerjes së klubit nga Bob Iger",
@@ -23,7 +34,7 @@
       "date": "2026-08-13T21:26:55+00:00",
       "dateStr": "13 Aug, 21:26",
       "isNew": true,
-      "id": "24 11786656415"
+      "id": "24 21786656415"
     },
     {
       "title": "Egnatia bën mrekullinë, përmbys Shamrockun dhe kualifikohet në Play Off-in e Europa League",
@@ -34,7 +45,7 @@
       "date": "2026-08-13T21:22:02+00:00",
       "dateStr": "13 Aug, 21:22",
       "isNew": true,
-      "id": "24 21786656122"
+      "id": "24 31786656122"
     },
     {
       "title": "Super Dinamo kualifikohet në Play Off-in e Conference League",
@@ -45,7 +56,7 @@
       "date": "2026-08-13T21:21:40+00:00",
       "dateStr": "13 Aug, 21:21",
       "isNew": true,
-      "id": "24 31786656100"
+      "id": "24 41786656100"
     },
     {
       "title": "Roth: E kuptoj zhgënjimin e Kosovës, por largimi i flamurit ukrainas ishte gabim",
@@ -56,7 +67,7 @@
       "date": "2026-08-13T21:11:21+00:00",
       "dateStr": "13 Aug, 21:11",
       "isNew": true,
-      "id": "24 41786655481"
+      "id": "24 51786655481"
     },
     {
       "title": "Historike! Egnatia shkon në Europë, rrogozhinasit përmbysin me 5 gola Shamrockun",
@@ -67,7 +78,7 @@
       "date": "2026-08-13T21:02:17+00:00",
       "dateStr": "13 Aug, 21:02",
       "isNew": true,
-      "id": "24 51786654937"
+      "id": "24 61786654937"
     },
     {
       "title": "SHBA – Pentagoni rishikon strategjinë bërthamore",
@@ -78,7 +89,7 @@
       "date": "2026-08-13T21:00:12+00:00",
       "dateStr": "13 Aug, 21:00",
       "isNew": true,
-      "id": "24 61786654812"
+      "id": "24 71786654812"
     },
     {
       "title": "Suedia ul moshën e përgjegjësisë penale në 14 vjeç",
@@ -100,7 +111,7 @@
       "date": "2026-08-13T20:48:05+00:00",
       "dateStr": "13 Aug, 20:48",
       "isNew": true,
-      "id": "24 71786654085"
+      "id": "24 81786654085"
     },
     {
       "title": "Weston Wilson vendos, Mariners fitojnë 1-0 ndaj Yankees",
@@ -111,18 +122,7 @@
       "date": "2026-08-13T20:47:28+00:00",
       "dateStr": "13 Aug, 20:47",
       "isNew": true,
-      "id": "24 81786654048"
-    },
-    {
-      "title": "Zjarri në Halkidiki, MPJ: Ndiqni me kujdes udhëzimet e autoriteteve",
-      "link": "https://24-ore.com/zjarri-ne-halkidiki-mpj-ndiqni-me-kujdes-udhezimet-e-autoriteteve/",
-      "description": "Zjarri që sot shpërtheu në Halkidiki shkaktoi evakuimin e turistëve dhe banorëve nga zonat e prekura, ndërsa në mesin e personave që kërkuan informacione dhe ndihmë janë edhe shtetas maqedonas. Nga Ministria e Punëve të Jashtme dhe Tregtisë së Jashtme informojnë se në përfaqësinë diplomatike-konsull",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T20:46:32+00:00",
-      "dateStr": "13 Aug, 20:46",
-      "isNew": true,
-      "id": "24 91786653992"
+      "id": "24 91786654048"
     },
     {
       "title": "Zjarre masive në Angli, të paktën gjashtë shtëpi digjen në Stourbridge",
