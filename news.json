@@ -1,95 +1,194 @@
 {
-  "lastUpdated": "2026-08-13T17:53:53.442308+00:00",
+  "lastUpdated": "2026-08-13T18:56:26.034937+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Zyrtare: Kotobelli rikthehet te Flamurtari",
-      "link": "https://24-ore.com/zyrtare-kotobelli-rikthehet-te-flamurtari/",
-      "description": "Tashmë është zyrtare: Blerim Kotobelli është një lojtar i Flamurtarit. Klubin vlonjat ka prezantuar afrimin e mbrojtësit me eksperiencë, me anë të një postimi në rrjetet sociale: “Mirë se u ktheve në familjen kuqezi! Familja kuqezi mirëpret mbrojtësin Blerim Kotobelli, i cili do të jetë pjesë e Flam",
-      "source": "24 ORE",
+      "title": "Edicioni Qendror e Juli Krisafi, (13/07/2026)",
+      "link": "https://abcnews.al/edicioni-qendror-e-juli-krisafi-13-07-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-13T17:51:24+00:00",
-      "dateStr": "13 Aug, 17:51",
+      "date": "2026-08-13T18:49:24+00:00",
+      "dateStr": "13 Aug, 18:49",
       "isNew": true,
-      "id": "24 01786643484"
+      "id": "abc01786646964"
     },
     {
-      "title": "Rama: Mbi 10 mijë vetë në natën e parë te Festës së Birrës në Korçë",
-      "link": "https://24-ore.com/rama-mbi-10-mije-vete-ne-naten-e-pare-te-festes-se-birres-ne-korce/",
-      "description": "Mbi 10 mijë persona morën pjesë në natën e parë të edicionit të 20-të të Festës së Birrës në Korçë, e cila këtë vit zhvillohet për herë të parë në Polin e Eventeve në Drenovë. Kryeministri Edi Rama ndau në rrjetet sociale pamje nga nata e parë e aktivitetit, duke vënë në dukje transformimin e [&#823",
+      "title": "Seattle Sounders dhe Vancouver Whitecaps rikthejnë rivalitetin e Cascadia Cup në javën 20 të MLS",
+      "link": "https://24-ore.com/seattle-sounders-dhe-vancouver-whitecaps-rikthejne-rivalitetin-e-cascadia-cup-ne-javen-20-te-mls/",
+      "description": "Rivalët e Cascadia Cup, Seattle Sounders FC dhe Vancouver Whitecaps FC, përballen këtë të diel në kuadër të javës së 20-të të Major League Soccer, në një n...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-13T17:51:18+00:00",
-      "dateStr": "13 Aug, 17:51",
+      "date": "2026-08-13T18:46:46+00:00",
+      "dateStr": "13 Aug, 18:46",
       "isNew": true,
-      "id": "24 11786643478"
+      "id": "24 01786646806"
     },
     {
-      "title": "Princesha Kate dhe Princi William planifikojnë udhëtimin e tyre të parë së bashku që nga diagnostikimi i saj me kancer",
-      "link": "https://24-ore.com/princesha-kate-dhe-princi-william-planifikojne-udhetimin-e-tyre-te-pare-se-bashku-qe-nga-diagnostikimi-i-saj-me-kancer/",
-      "description": "Princi i Uellsit dhe Princesha e Uellsit pritet të kthehen në Indi në nëntor, në atë që do të jetë udhëtimi i tyre i parë së bashku që nga diagnostikimi i...",
+      "title": "Gjini përshëndet vendimin e LDK-së: Kurti synon kontroll të plotë mbi institucionet",
+      "link": "https://24-ore.com/gjini-pershendet-vendimin-e-ldk-se-kurti-synon-kontroll-te-plote-mbi-institucionet/",
+      "description": "Kryetari i Aleancës, Ardian Gjini, ka përshëndetur vendimin e Lidhjes Demokratike të Kosovës (LDK) për të mos marrë pjesë në qeverisje me Lëvizjen Vetëvendosje dhe kryeministrin në detyrë, Albin Kurti. Gjini ka deklaruar se Aleanca prej kohësh ka kundërshtuar, siç e cilëson ai, “lojën e pandershme” ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-13T17:50:57+00:00",
-      "dateStr": "13 Aug, 17:50",
+      "date": "2026-08-13T18:46:23+00:00",
+      "dateStr": "13 Aug, 18:46",
       "isNew": true,
-      "id": "24 21786643457"
+      "id": "24 11786646783"
     },
     {
-      "title": "Rrezikoi jetën e pushuesve te plazhi i ‘Tre ishujve’ në Ksamil, Policia bllokon mjetin “Jet Ski” dhe gjobit pronarin m",
-      "link": "https://24-ore.com/rrezikoi-jeten-e-pushuesve-te-plazhi-i-tre-ishujve-ne-ksamil-policia-bllokon-mjetin-jet-ski-dhe-gjobit-pronarin-m/",
-      "description": "Policia Kufitare e Sarandës bllokoi sot (13 gusht) një mjet lundrues “Jet Ski” në zonën e Ksamilit, pasi hyri brenda perimetrit të sigurisë ku po laheshin pushuesit dhe u rrezikoi jetën. Pronari i mjetit u ndëshkua me masë administrative prej 500 000 lekësh të rinj, për ‘cenim të sigurisë së qytetar",
+      "title": "VLEN: Humbje e madhe për median shqiptare, ngushëllime për familjen Hajredini",
+      "link": "https://24-ore.com/vlen-humbje-e-madhe-per-median-shqiptare-ngushellime-per-familjen-hajredini/",
+      "description": "Me pikëllim të thellë morëm lajmin për ndarjen nga jeta të Lirim Hajredinit, drejtorit të televizionit nacional Alsat.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-13T17:48:45+00:00",
-      "dateStr": "13 Aug, 17:48",
+      "date": "2026-08-13T18:41:23+00:00",
+      "dateStr": "13 Aug, 18:41",
       "isNew": true,
-      "id": "24 31786643325"
+      "id": "24 21786646483"
     },
     {
-      "title": "Muhameti dhe Mehmeti shpëtojnë Amerikën nga komunizmi",
-      "link": "https://24-ore.com/muhameti-dhe-mehmeti-shpetojne-ameriken-nga-komunizmi/",
-      "description": "Nga THOMA GËLLÇI Muhametit emrin ia kishte vënë gjyshi në Peqin. Gjyshi kishte qenë besimtar në mënyrën e vet dhe kishte këmbëngulur që nipi të merrte emrin e Profetit. Kështu Muhameti hyri në jetë me një emër që shumë vite më vonë, në Warren të Michiganit, do ta përdorte gjithnjë e më rrallë. Në Am",
-      "source": "24 ORE",
+      "title": "Britania e Madhe paralajmërim për nxehtësi ekstreme, temperaturat në 38 gradë Celsius",
+      "link": "https://abcnews.al/britania-e-madhe-paralajmerim-per-nxehtesi-ekstreme-temperaturat-ne-38-grade-celsius/",
+      "description": "Agjencia meteorologjike e Mbretërisë së Bashkuar të enjten lëshoi paralajmërim portokalli për temperatura ekstreme, pasi në disa pjesë të vendit temperaturat pritet të arrijnë rreth 38 gradë Celsius. Paralajmërimi është në fuqi gjatë pjesës më të madhe të së enjtes dhe përfshin pjesë të Anglisë jugo",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-13T17:48:05+00:00",
-      "dateStr": "13 Aug, 17:48",
+      "date": "2026-08-13T18:41:14+00:00",
+      "dateStr": "13 Aug, 18:41",
       "isNew": true,
-      "id": "24 41786643285"
+      "id": "abc11786646474"
     },
     {
-      "title": "Shasivari: Marrëveshja e Ohrit është një standard që duhet të vazhdojmë ta ndërtojmë çdo ditë",
-      "link": "https://24-ore.com/shasivari-marreveshja-e-ohrit-eshte-nje-standard-qe-duhet-te-vazhdojme-ta-ndertojme-cdo-dite/",
-      "description": "Në seancën solemne të Qeverisë, sot u shënua 25-vjetori i Marrëveshjes Kornizë të Ohrit, ndërsa ministri i Drejtësisë, Jeton Shasivari, theksoi rëndësinë e saj jo vetëm si dokument historik, por edhe si përgjegjësi institucionale për të ardhmen e vendit. Shasivari tha se Marrëveshja e Ohrit i dha Ma",
+      "title": "Joe Lacob i Warriors i quan ‘clickbait’ thashethemnajat për tregtimin e Steph Curry pas dështimit për LeBron James",
+      "link": "https://24-ore.com/joe-lacob-i-warriors-i-quan-clickbait-thashethemnajat-per-tregtimin-e-steph-curry-pas-deshtimit-per-lebron-james/",
+      "description": "Pas dështimit për të siguruar LeBron James në lirinë e lojtarëve, pronari i Golden State Warriors, Joe Lacob, mohoi kategorikisht çdo mundësi që skuadra do...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-13T17:41:26+00:00",
-      "dateStr": "13 Aug, 17:41",
+      "date": "2026-08-13T18:40:59+00:00",
+      "dateStr": "13 Aug, 18:40",
       "isNew": true,
-      "id": "24 51786642886"
+      "id": "24 31786646459"
     },
     {
-      "title": "“Nuk ka rrezik për zonat e banuara”- Ministria e Mbrojtjes përditëson situatën e zjarreve, zonat më kritike: 14 vatra j",
-      "link": "https://24-ore.com/nuk-ka-rrezik-per-zonat-e-banuara-ministria-e-mbrojtjes-perditeson-situaten-e-zjarreve-zonat-me-kritike-14-vatra-j/",
-      "description": "Operacioni për shuarjen e vatrave të zjarrit në vend po vijon me intensitet nga toka dhe ajri. Ministria e Mbrojtjes përditësoi situatën deri në orën 18:00 të 13 gushtit, duke njoftuar se janë raportuar 31 vatra zjarri, ndërsa aktualisht vijojnë 18 vatra, prej të cilave 14 aktive, 2 në monitorim dhe",
-      "source": "24 ORE",
+      "title": "Zjarret/ Ministria e Mbrojtjes: Deri tani janë raportuar 38 vatra, s’ka rrezik për zonat e banuara",
+      "link": "https://abcnews.al/zjarret-ministria-e-mbrojtjes-deri-tani-jane-raportuar-31-vatra-zjarri-ska-rrezik-per-zonat-e-banuara/",
+      "description": "SHQIPËRI&#8211; Ministria e Mbrojtjes njofton se deri në orën 20:00 të 13 gushtit janë raportuar 38 vatra zjarri në të gjithë vendin, ndërsa aktualisht janë në ndjekje 18 vatra, prej të cilave 14 aktive. Angazhimi më i madh vijon në Gurë-Lurë të Dibrës, ku dhjetëra forca në terren mbështeten nga dy ",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-13T17:32:19+00:00",
-      "dateStr": "13 Aug, 17:32",
+      "date": "2026-08-13T18:40:01+00:00",
+      "dateStr": "13 Aug, 18:40",
       "isNew": true,
-      "id": "24 61786642339"
+      "id": "abc21786646401"
     },
     {
-      "title": "Haziri: LVV e shndërroi sallën e Kuvendit në zallamahi, nuk bëhet han ku ka sharje e thirrje për vrasje",
-      "link": "https://24-ore.com/haziri-lvv-e-shnderroi-sallen-e-kuvendit-ne-zallamahi-nuk-behet-han-ku-ka-sharje-e-thirrje-per-vrasje/",
-      "description": "Nënkryetari i Lidhjes Demokratike të Kosovës (LDK), Lutfi Haziri, ka reaguar pas zhvillimeve të fundit në sallën e Kuvendit të Kosovës, duke kritikuar ashpër situatën e krijuar gjatë seancës plenare. Haziri ka akuzuar Lëvizjen Vetëvendosje se ka kontribuar në tensionimin e situatës në Kuvend, duke t",
+      "title": "Aleanca për Shqiptarët i shpreh ngushëllimet më të sinqerta familjes Hajredini, të afërmve, miqve dhe kolegëve të tij në televizionin Alsat",
+      "link": "https://24-ore.com/aleanca-per-shqiptaret-i-shpreh-ngushellimet-me-te-sinqerta-familjes-hajredini-te-afermve-miqve-dhe-kolegeve-te-tij-ne-televizionin-alsat/",
+      "description": "Me pikëllim të thellë morëm lajmin për ndarjen e parakohshme nga jeta të Lirim Hajredinit, drejtor operativ i televizionit Alsat-M dhe një emër i njohur i medias shqiptare në Maqedoninë e Veriut.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-13T17:31:17+00:00",
-      "dateStr": "13 Aug, 17:31",
+      "date": "2026-08-13T18:36:18+00:00",
+      "dateStr": "13 Aug, 18:36",
       "isNew": true,
-      "id": "24 71786642277"
+      "id": "24 41786646178"
+    },
+    {
+      "title": "Cardi B përputh thonjtë e gjatë me çantën smeraldi në lançimin e Old Navy",
+      "link": "https://24-ore.com/cardi-b-perputh-thonjte-e-gjate-me-canten-smeraldi-ne-lancimin-e-old-navy/",
+      "description": "Cardi B mbeti besnike stilit të saj maksimalist, duke shfaqur maniçyrë të gjatë dhe të mprehtë që i përputhej me një çantë të ndezur smeraldi. Pamja e saj...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T18:31:33+00:00",
+      "dateStr": "13 Aug, 18:31",
+      "isNew": true,
+      "id": "24 51786645893"
+    },
+    {
+      "title": "Dita kur Maqedonia e Veriut zgjodhi PAQEN",
+      "link": "https://24-ore.com/dita-kur-maqedonia-e-veriut-zgjodhi-paqen/",
+      "description": "13 gushti i vitit 2001 është një nga ato ditë.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T18:31:20+00:00",
+      "dateStr": "13 Aug, 18:31",
+      "isNew": true,
+      "id": "24 61786645880"
+    },
+    {
+      "title": "EMRAT/ Aksident tragjik në Lushnjë, makina del nga rruga dhe bie në kanalin me ujë, humbin jetën 2 motrat!",
+      "link": "https://24-ore.com/emrat-aksident-tragjik-ne-lushnje-makina-del-nga-rruga-dhe-bie-ne-kanalin-me-uje-humbin-jeten-2-motrat/",
+      "description": "Një aksident i rëndë rrugor ka ndodhur në Delisufaj të Lushnjës mbrëmjen e sotme (13 gusht), ku një automjet ka dalë nga rruga dhe ka përfunduar në kanal. Si pasojë e aksidentit raportohet se tragjikisht kanë humbur jetën dy gra, të cilat ndodheshin në automjet. Viktimat janë identifikuar si Mirela ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T18:31:00+00:00",
+      "dateStr": "13 Aug, 18:31",
+      "isNew": true,
+      "id": "24 71786645860"
+    },
+    {
+      "title": "Lënda për rastin e “Lotarisë Shtetërore” fillon më 24 gusht",
+      "link": "https://24-ore.com/lenda-per-rastin-e-lotarise-shteterore-fillon-me-24-gusht/",
+      "description": "Lënda kundër ish-zëvendëskryeministrit Artan Grubi dhe shtatë personave të tjerë për keqpërdorime në SHA “Lotarinë Shtetërore” përmes shpërndarjes automatike i është përcaktuar një gjyqtari dhe është caktuar për 24 gusht, informojnë nga Gjykata Themelore Penale Shkup. Prokuroria Themelore Publike Sh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T18:26:39+00:00",
+      "dateStr": "13 Aug, 18:26",
+      "isNew": true,
+      "id": "24 81786645599"
+    },
+    {
+      "title": "Reijnders niset drejt Arabisë, feston edhe Milani",
+      "link": "https://24-ore.com/reijnders-niset-drejt-arabise-feston-edhe-milani/",
+      "description": "Pas vetëm një sezoni, Tijjani Reijnders largohet nga Manchester City për t’iu bashkuar Al Qadsiah. Holandezi ka rënë dakord për kalimin te klubi saudit, i cili do t’i paguajë klubit anglez pak më shumë se 60 milionë euro. Nga ky transferim përfiton edhe Milani; falë marrëveshjeve të arritura një vit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T18:26:26+00:00",
+      "dateStr": "13 Aug, 18:26",
+      "isNew": true,
+      "id": "24 91786645586"
+    },
+    {
+      "title": "Aksident i rëndë në Lushnje/ Makina përfundon në kanalin vaditës, ndërrojnë jetë dy motrat",
+      "link": "https://abcnews.al/aksident-i-rende-ne-lushnje-makina-perfundon-ne-kanalin-vadites-nderrojne-jete-dy-motrat/",
+      "description": "Një ngjarje tragjike është regjistruar në fshatin Delisufaj, ku dy motra kanë humbur jetën pasi automjeti me të cilin udhëtonin ka përfunduar në një kanal vaditës. Sipas informacioneve paraprake, në dalje të fshatit, automjeti nuk ka mundur të futet në urë dhe ka dalë nga rruga, duke përfunduar në k",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T18:21:26+00:00",
+      "dateStr": "13 Aug, 18:21",
+      "isNew": true,
+      "id": "abc31786645286"
+    },
+    {
+      "title": "Tirana Live me Rovena Neziri, (13/08/2026)",
+      "link": "https://abcnews.al/tirana-live-me-rovena-neziri-13-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T18:15:46+00:00",
+      "dateStr": "13 Aug, 18:15",
+      "isNew": true,
+      "id": "abc41786644946"
+    },
+    {
+      "title": "Balkan Update me Habi Hoxha, (13/08/2026)",
+      "link": "https://abcnews.al/balkan-update-me-habi-hoxha-13-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T18:13:06+00:00",
+      "dateStr": "13 Aug, 18:13",
+      "isNew": true,
+      "id": "abc51786644786"
+    },
+    {
+      "title": "OKB: Mbi 20 civilë të vrarë dhe shumë të plagosur në përleshjet në Sudan",
+      "link": "https://abcnews.al/okb-mbi-20-civile-te-vrare-dhe-shume-te-plagosur-ne-perleshjet-ne-sudan/",
+      "description": "Më shumë se 20 civilë u vranë dhe dhjetëra të tjerë u plagosën në përleshjet në qytetin juglindor sudanez Geisan, pranë kufirit me Etiopinë, tha Zyra humanitare e OKB-së. &#8220;Burime lokale në shtetin e Nilit të Kaltër raportuan se më shumë se 20 civilë u vranë dhe shumë të tjerë u plagosën në për",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T18:12:02+00:00",
+      "dateStr": "13 Aug, 18:12",
+      "isNew": true,
+      "id": "abc61786644722"
     },
     {
       "title": "Houthët pretendojnë se sulmuan me dronë një rafineri të Aramco-s në Arabinë Saudite",
@@ -100,29 +199,7 @@
       "date": "2026-08-13T17:30:57+00:00",
       "dateStr": "13 Aug, 17:30",
       "isNew": true,
-      "id": "abc01786642257"
-    },
-    {
-      "title": "UKRAINË – OKB: Korriku muaji më vdekjeprurës për civilët",
-      "link": "https://24-ore.com/ukraine-okb-korriku-muaji-me-vdekjeprures-per-civilet/",
-      "description": "KIEV, 13 gusht /ATSH-DPA/ – Sipas një raporti të publikuar sot nga Misioni i Monitorimit të të Drejtave të Njeriut të Kombeve të Bashkuara, të paktën 437 civilë u vranë dhe 2 610 u plagosën në Ukrainë gjatë korrikut, si pasojë e sulmeve ruse. Numri i viktimave civile u rrit me rreth 30% krahasuar me",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T17:30:09+00:00",
-      "dateStr": "13 Aug, 17:30",
-      "isNew": true,
-      "id": "24 81786642209"
-    },
-    {
-      "title": "I dyshuari për spiunazh ishte shkarkuar më 2024 nga një këshill pranë Presidencës",
-      "link": "https://24-ore.com/i-dyshuari-per-spiunazh-ishte-shkarkuar-me-2024-nga-nje-keshill-prane-presidences/",
-      "description": "Policia e Kosovës ka arrestuar një shtetas të Kosovës, Fehim Sali, nën dyshimin për kryerjen e veprës penale të spiunazhit. Ai kishte qenë anëtar i një këshilli pranë Presidencës, por sipas autoriteteve, ishte shkarkuar dy vjet më parë. Sipas njoftimit të Sistemi Prokurorial të Kosovës, arrestimi ës",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T17:26:24+00:00",
-      "dateStr": "13 Aug, 17:26",
-      "isNew": true,
-      "id": "24 91786641984"
+      "id": "abc71786642257"
     },
     {
       "title": "Jet Ski brenda perimetrit të sigurisë në Ksamil, pronari gjobitet me 500 mijë lekë",
@@ -133,7 +210,7 @@
       "date": "2026-08-13T17:19:12+00:00",
       "dateStr": "13 Aug, 17:19",
       "isNew": true,
-      "id": "abc11786641552"
+      "id": "abc81786641552"
     },
     {
       "title": "Zelensky kërkon 5% të rezervës amerikane të raketave “Patriot”",
@@ -144,84 +221,7 @@
       "date": "2026-08-13T17:05:34+00:00",
       "dateStr": "13 Aug, 17:05",
       "isNew": true,
-      "id": "abc21786640734"
-    },
-    {
-      "title": "Zjarret/ Ministria e Mbrojtjes: Deri tani janë raportuar 31 vatra, s’ka rrezik për zonat e banuara",
-      "link": "https://abcnews.al/zjarret-ministria-e-mbrojtjes-deri-tani-jane-raportuar-31-vatra-zjarri-ska-rrezik-per-zonat-e-banuara/",
-      "description": "Ministria e Mbrojtjes informoi se deri në orën 18:00 të 13 gushtit janë raportuar 31 vatra zjarri, ndërsa aktualisht vijojnë 18 vatra, prej të cilave 14 aktive, 2 në monitorim dhe 2 nën kontroll. Në operacionet për shuarjen e zjarreve janë angazhuar 309 efektivë të Forcave të Armatosura, 22 mjete, 9",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T16:38:01+00:00",
-      "dateStr": "13 Aug, 16:38",
-      "isNew": true,
-      "id": "abc31786639081"
-    },
-    {
-      "title": "Kosovë/ Abdixhiku: Heqim dorë nga çdo kërkesë, presidenti të jetë jopartiak",
-      "link": "https://abcnews.al/kosove-abdixhiku-heqim-dore-nga-cdo-kerkese-presidenti-te-jete-jopartiak/",
-      "description": "KOSOVË- Udhëheqësi i Lidhjes Demokratike të Kosovës, Lumir Abdixhiku, tha se partia e tij heq dorë nga çdo kërkesë për postin e kryeparlamentarit, presidentit dhe pjesëmarrjes në Qeveri, duke theksuar se Lëvizja Vetëvendosje mund t’i mbajë të gjitha. “Meqë LVV-ja nuk po e konsideron se ka nevojë për",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T16:24:13+00:00",
-      "dateStr": "13 Aug, 16:24",
-      "isNew": true,
-      "id": "abc41786638253"
-    },
-    {
-      "title": "Sherr mes çiftit në Durrës, të dy përfundojnë në spital të plagosur me thikë",
-      "link": "https://abcnews.al/sherr-mes-ciftit-ne-durres-te-dy-perfundojne-ne-spital-te-plagosur-me-thike/",
-      "description": "Një sherr mes një çifti bashkëshortësh në Durrës për pak sa nuk ka përfunduar në tragjedi. Pas një debati mes tyre në banesë, situata ka degraduar deri në përdorimin e një thike. Si pasojë, të dy bashkëshortët kanë mbetur të plagosur në pjesë të ndryshme të trupit dhe janë transportuar drejt Spitali",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T16:20:05+00:00",
-      "dateStr": "13 Aug, 16:20",
-      "isNew": true,
-      "id": "abc51786638005"
-    },
-    {
-      "title": "Humbi kontrollin e automjetit dhe u përplas me shtyllën, ndërron jetë 82-vjeçari në Divjakë",
-      "link": "https://abcnews.al/humbi-kontrollin-e-automjetit-dhe-u-perplas-me-shtyllen-nderron-jete-82-vjecari-ne-divjake/",
-      "description": "DIVJAKË- Në aksin rrugor “Çermë-Divjakë”, një 82 vjeçar, duke drejtuar automjetin, ka humbur kontrollin mbi drejtimin e tij dhe është përplasur me një shtyllë. I moshuari është transportuar menjëherë në spital, por më pas ka ndërruar jetë si pasojë e plagëve të marra. Grupi hetimor ndodhet në vendng",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T16:18:46+00:00",
-      "dateStr": "13 Aug, 16:18",
-      "isNew": true,
-      "id": "abc61786637926"
-    },
-    {
-      "title": "Përvëlimi “merr tatëpjetën”/ Temperaturat do të ulen në vlerat normale të gushtit",
-      "link": "https://abcnews.al/pervelimi-merr-tatepjeten-temperaturat-do-te-ulen-ne-vlerat-normale-te-gushtit/",
-      "description": "Rënie temperaturash parashikohet ditët në vijim në të gjithë vendin. Të premten, vlerat e termometrit, sipas Institutit të Gjeoshkencave, do të shkojnë deri në 36 gradë Celsius në zonat e ulëta, ndërsa në bregdet nuk do t’i kalojnë 34 gradë Celsius. Megjithatë, rreziku për zjarre nuk ka kaluar. That",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T16:17:41+00:00",
-      "dateStr": "13 Aug, 16:17",
-      "isNew": true,
-      "id": "abc71786637861"
-    },
-    {
-      "title": "Kruja e kalon sërish rrezikun / Zjarri në Abazaj nën kontroll, nuk rrezikohen banesa",
-      "link": "https://abcnews.al/kruja-e-kalon-serish-rrezikun-zjarri-ne-abazaj-nen-kontroll-nuk-rrezikohen-banesa/",
-      "description": "“E stabilizuar paraqitet situata në Abazaj të Krujës, ndërsa puna për neutralizimin e disa vatrave të vogla vijon nga forcat ajrore dhe ato tokësore. Në terren janë angazhuar forcat zjarrfikëse dhe një helikopter, ndërsa humusi dhe temperaturat e larta mbeten sfidë për ndërhyrjen. Zjarri është afrua",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T16:11:26+00:00",
-      "dateStr": "13 Aug, 16:11",
-      "isNew": true,
-      "id": "abc81786637486"
-    },
-    {
-      "title": "Shuhen flakët në Priskë/ Qetësohen zjarret në Tiranë, një vatër e izoluar në Selitë",
-      "link": "https://abcnews.al/shuhen-flaket-ne-priske-qetesohen-zjarret-ne-tirane-nje-vater-e-izoluar-ne-selite/",
-      "description": "Pas shumë orëve të vështira të përballjes me flakët e zjarrit, shiu ka dhënë një ndihmë të rëndësishme në izolimin dhe dobësimin e vatrave që po shtoheshin. Por përballë flakëve nuk ishin vetëm kushtet e motit. Në zemër të kësaj beteje kanë qenë forcat zjarrfikëse, por edhe ndihma nga ajri me heliko",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T16:08:59+00:00",
-      "dateStr": "13 Aug, 16:08",
-      "isNew": true,
-      "id": "abc91786637339"
+      "id": "abc91786640734"
     },
     {
       "title": "Rama i bëri për ‘ujë të ftohtë’ kundërshtarët e Reformës, Maliqi i del kundër, kreu i PS kalon në anën e qytetarëve",
