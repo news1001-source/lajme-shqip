@@ -1,73 +1,216 @@
 {
-  "lastUpdated": "2026-08-13T12:58:50.694256+00:00",
+  "lastUpdated": "2026-08-13T14:23:12.839220+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Gjermania rrit mbështetjen për FSK-në, nënshkruhet projekti prej 3 milionë eurosh",
-      "link": "https://24-ore.com/gjermania-rrit-mbeshtetjen-per-fsk-ne-nenshkruhet-projekti-prej-3-milione-eurosh/",
-      "description": "Në kuadër të bashkëpunimit bilateral me Republikën Federale të Gjermanisë, Sekretari i Përgjithshëm i Ministrisë së Mbrojtjes, Gafurr Dugolli dhe atasheu gjerman i mbrojtjes në Kosovë, nënkolonel Guido Altendorf, sot kanë nënshkruar marrëveshjen për projektin e donacionit gjerman Enable &#38; Enhanc",
+      "title": "Kristen Stewart dhe bashkëshortja Dylan Meyer veshin kostume në dy stile gjatë promovimit në Nju Jork",
+      "link": "https://24-ore.com/kristen-stewart-dhe-bashkeshortja-dylan-meyer-veshin-kostume-ne-dy-stile-gjate-promovimit-ne-nju-jork/",
+      "description": "Kristen Stewart dhe bashkëshortja Dylan Meyer, të martuara prej prillit të kaluar, po promovojnë së bashku komedinë e re The Wrong Girls në Nju Jork. Meyer...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-13T12:56:04+00:00",
-      "dateStr": "13 Aug, 12:56",
+      "date": "2026-08-13T14:21:49+00:00",
+      "dateStr": "13 Aug, 14:21",
       "isNew": true,
-      "id": "24 01786625764"
+      "id": "24 01786630909"
+    },
+    {
+      "title": "Siljanovska-Davkova: Struga është shembull i vlerave të Marrëveshjes së Ohrit dhe bashkëjetesës",
+      "link": "https://24-ore.com/siljanovska-davkova-struga-eshte-shembull-i-vlerave-te-marreveshjes-se-ohrit-dhe-bashkejeteses/",
+      "description": "&#8220;Struga është qytet që pajton dhe respekton dallimet etnike, fetare dhe të gjitha llojet e tyre, qytet që mund të jetë shembull i bashkëjetesës&#8221;, tha presidentja Gordana Siljanovska Davkova pas takimit të sotëm me kryetarin e Komunës së Strugës Mendi Qyra, në të cilin u diskutua gjendja ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T14:21:39+00:00",
+      "dateStr": "13 Aug, 14:21",
+      "isNew": true,
+      "id": "24 11786630899"
+    },
+    {
+      "title": "Kthesa e Mandatit të Katërt / Rama fton talentet e reja: Bashkohuni me “Rrjetin MIA” për të ndryshuar marrëdhënien shtet-qytetar",
+      "link": "https://24-ore.com/kthesa-e-mandatit-te-katert-rama-fton-talentet-e-reja-bashkohuni-me-rrjetin-mia-per-te-ndryshuar-marredhenien-shtet-qytetar/",
+      "description": "Në kuadër të riorganizimeve të paralajmëruara për “Kthesën e Mandatit të Katërt”, Kryeministri Edi Rama njoftoi hapjen e një nisme të re të quajtur “Rrjeti MIA”. Ky projekt, i menaxhuar nga Agjencia për Media dhe Informim (MIA), është një thirrje e hapur për profesionistë, të rinj, ekspertë dhe krij",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T14:21:18+00:00",
+      "dateStr": "13 Aug, 14:21",
+      "isNew": true,
+      "id": "24 21786630878"
+    },
+    {
+      "title": "25 vite nga Marrëveshja e Ohrit – një marrëveshje për paqen atëherë, një përgjegjësi për të ardhmen sot",
+      "link": "https://24-ore.com/25-vite-nga-marreveshja-e-ohrit-nje-marreveshje-per-paqen-atehere-nje-pergjegjesi-per-te-ardhmen-sot/",
+      "description": "Liridona Beqiri Ka momente në historinë e një shteti që nuk i përkasin vetëm një viti, një qeverie apo një gjenerate. Marrëveshja e Ohrit nuk është thjesht një dokument politik i vitit 2001. Është kontrata mbi të cilën u rindërtua vetë ky shtet. Është një pikë kthese që përcaktoi një mënyrë të re të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T14:20:10+00:00",
+      "dateStr": "13 Aug, 14:20",
+      "isNew": true,
+      "id": "24 31786630810"
+    },
+    {
+      "title": "Nicole Kidman: Do të hiqja dorë nga karriera për Tom Cruise",
+      "link": "https://24-ore.com/nicole-kidman-do-te-hiqja-dore-nga-karriera-per-tom-cruise/",
+      "description": "Nicole Kidman ka bërë një rrëfim të rrallë për martesën e saj me Tom Cruise, duke pranuar se në atë kohë e vendosi dashurinë përpara karrierës. “U dashuruam marrëzisht dhe ishte kaq e thjeshtë,” tha Kidman në një intervistë për British Vogue. “Më thoshin se kjo do të ndikonte në karrierën time, por ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T14:16:38+00:00",
+      "dateStr": "13 Aug, 14:16",
+      "isNew": true,
+      "id": "24 41786630598"
+    },
+    {
+      "title": "Arrestimi i mësueses turke në Shqipëri jehonë në mediat franceze, flasin familjarët: Nëse ekstradohet nuk do e shohim më",
+      "link": "https://shekulli.com.al/2026/08/13/arrestimi-i-mesueses-turke-ne-shqiperi-jehone-ne-mediat-franceze-flasin-familjaret-nese-ekstradohet-nuk-do-e-shohim-me/",
+      "description": "TIRANË- Jülide Yazici, doktorante në filozofi në Tours, kishte dhënë mësim për një vit në Segré, në departamentin Maine-et-Loire. Kjo aktiviste e majtë me origjinë turke, e cila ka statusin e refugjates politike në Francë, u arrestua më 4 gusht në vendin ku po kalonte pushimet, në Shqipëri, në bazë ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-13T14:16:26+00:00",
+      "dateStr": "13 Aug, 14:16",
+      "isNew": true,
+      "id": "she01786630586"
+    },
+    {
+      "title": "MUZIKË – Burgasi mikpret Eurovision 2027",
+      "link": "https://24-ore.com/muzike-burgasi-mikpret-eurovision-2027/",
+      "description": "SOFJE, 13 gusht /ATSH-BTA/ – Qyteti bregdetar bullgar i Burgasit do të mikpresë Festivalin e Këngës Eurovision vitin e ardhshëm, u njoftua në një konferencë të përbashkët për shtyp të Televizionit Kombëtar Bullgar (BNT) dhe Unionit Evropian të Transmetimeve (EBU). Dy gjysmëfinalet do të zhvillohen m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T14:16:13+00:00",
+      "dateStr": "13 Aug, 14:16",
+      "isNew": true,
+      "id": "24 51786630573"
+    },
+    {
+      "title": "Tentuan të privojnë nga jeta një person në Ferizaj, kërkohet paraburgim ndaj dy të dyshuarve",
+      "link": "https://24-ore.com/tentuan-te-privojne-nga-jeta-nje-person-ne-ferizaj-kerkohet-paraburgim-ndaj-dy-te-dyshuarve/",
+      "description": "Prokuroria Themelore në Ferizaj, ka bërë të ditur se ka kërkuar nga Gjykata Themelore në Ferizaj, caktimin e masës së paraburgimit ndaj të pandehurve: D.A.,dhe A.A., për shkak të dyshimit të veprës penale “Vrasja në tentativë”. Sipas kërkesës së Prokurorisë, ekziston dyshimi i bazuar se me datë 13 G",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T14:06:22+00:00",
+      "dateStr": "13 Aug, 14:06",
+      "isNew": true,
+      "id": "24 61786629982"
+    },
+    {
+      "title": "EMRI/ Qarkullonte i armatosur rrugëve të Elbasanit, arrestohet 21-vjeçari! Ja çfarë iu sekuestrua nga Policia",
+      "link": "https://24-ore.com/emri-qarkullonte-i-armatosur-rrugeve-te-elbasanit-arrestohet-21-vjecari-ja-cfare-iu-sekuestrua-nga-policia-2/",
+      "description": "Një 21-vjeçar u arrestua sot (13 gusht) në Elbasan, pasi u kap në afërsi të parkut “Aqif Pasha”, i armatosur me një pistoletë. Sipas policisë vendore, pas sigurimit të informacioneve se një person lëvizte me armë zjarri, u organizua ndërhyrja e menjëhershme, e cila çoi në kapjen e Jurgest Selamit. G",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T14:04:37+00:00",
+      "dateStr": "13 Aug, 14:04",
+      "isNew": true,
+      "id": "24 71786629877"
+    },
+    {
+      "title": "EMRI/ Qarkullonte i armatosur rrugëve të Elbasanit, arrestohet 21-vjeçari! Ja çfarë iu sekuestrua nga Policia",
+      "link": "https://24-ore.com/emri-qarkullonte-i-armatosur-rrugeve-te-elbasanit-arrestohet-21-vjecari-ja-cfare-iu-sekuestrua-nga-policia/",
+      "description": "Një 21-vjeçar u arrestua sot (13 gusht) në Elbasan, pasi u kap në afërsi të parkut “Aqif Pasha”, i armatosur me një pistoletë. Sipas policisë vendore, pas sigurimit të informacioneve se një person lëvizte me armë zjarri, u organizua ndërhyrja e menjëhershme, e cila çoi në kapjen e Jurgest Selamit. G",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T14:04:37+00:00",
+      "dateStr": "13 Aug, 14:04",
+      "isNew": true,
+      "id": "24 81786629877"
+    },
+    {
+      "title": "Trajnerët spanjollë pushtojnë Europën, janë atë më të mirët për vitin 2026",
+      "link": "https://24-ore.com/trajneret-spanjolle-pushtojne-europen-jane-ate-me-te-miret-per-vitin-2026/",
+      "description": "Ndeshja e parë zyrtare e sezonit të ri ka konfirmuar trendin e vitit të kaluar (edhe të Botërorit). PSG e Luis Enrique fitoi Superkupën e Europës kundër Aston Villa të Unai Emery, që kishte fituar Europa League, të dy teknikë spanjollë. Trajneri spanjoll i PSG-së, në ndeshjen e fundit të sezonit të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T14:00:30+00:00",
+      "dateStr": "13 Aug, 14:00",
+      "isNew": true,
+      "id": "24 91786629630"
+    },
+    {
+      "title": "Pamjet nga lart/ Zjarri në Priskë të Madhe, çfarë lanë pas flakët që ‘pushtuan’ zonën",
+      "link": "https://abcnews.al/pamjet-nga-lart-zjarri-ne-priske-te-madhe-cfare-lane-pas-flaket-qe-pushtuan-zonen/",
+      "description": "Kjo është panorama që lanë pas flakët që përpijnë zonën e Priskës së Madhe mbrëmjen e së mërkurës. Efektivë të Policisë, Forcave të Armatosura, zjarrfikës e banorë të zonës dhanë kontributin e tyre në shuarjen e flakëve të cilat shkrumbuan sipërfaqe toke me shkurre dhe pemë. Nga pamjet, duket hiri d",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T13:50:01+00:00",
+      "dateStr": "13 Aug, 13:50",
+      "isNew": true,
+      "id": "abc01786629001"
+    },
+    {
+      "title": "3 ekzekutime me vdekje në të njëjtën ditë/ Kush janë të dënuarit që presin fundin fatal, nga vrasësi i një 5-vjeçareje, te…",
+      "link": "https://shekulli.com.al/2026/08/13/3-ekzekutime-me-vdekje-ne-te-njejten-dite-kush-jane-te-denuarit-qe-presin-fundin-fatal-nga-vrasesi-i-nje-5-vjecareje-te/",
+      "description": "SHBA– Tre shtete amerikane, Tennessee, Alabama dhe Oklahoma, kanë planifikuar ekzekutimin e tre të dënuarve me vdekje brenda së njëjtës ditë, një ngjarje që nuk ka ndodhur në vend prej afro 16 vitesh. Nëse ekzekutimet kryhen sipas planit, 13 gushti do të shënojë herën e parë që nga 7 janari 2010 që ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-13T13:45:15+00:00",
+      "dateStr": "13 Aug, 13:45",
+      "isNew": true,
+      "id": "she11786628715"
+    },
+    {
+      "title": "Kthesa e mandatit të katërt/ Rama thirrje të rinjve: Aplikoni për Rrjetin MIA, duam të dimë çfarë mund të bëhet më mirë nesër",
+      "link": "https://abcnews.al/kthesa-e-mandatit-te-katert-rama-thirrje-te-rinjve-aplikoni-per-rrjetin-mia-duam-te-dime-cfare-mund-te-behet-me-mire-neser/",
+      "description": "Kryeministri Edi Rama ka publikuar thirrjen e hapur të Agjencisë për Media dhe Informim për krijimin e “Rrjetit MIA”, një nismë që synon të afrojë profesionistë, të rinj, ekspertë dhe krijues që duan të kontribuojnë në komunikimin publik. Në postimin e tij, Rama e prezanton nismën si një nga mundësi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T13:34:54+00:00",
+      "dateStr": "13 Aug, 13:34",
+      "isNew": true,
+      "id": "abc11786628094"
+    },
+    {
+      "title": "PD nuk e njeh, por i ankohet Endri Shabanit! Avokati i Popullit nuk e kursen ironinë: Faleminderit për besimin…",
+      "link": "https://shekulli.com.al/2026/08/13/pd-nuk-e-njeh-por-i-ankohet-endri-shabanit-avokati-i-popullit-nuk-e-kursen-ironine-faleminderit-te-legjitimimi/",
+      "description": "TIRANË- Partia Demokratike, duket se ka bërë një ‘autogol’ në raportin me institucionin e Avokatit të Popullit që përfaqësohet nga Endri Shabani. Edhe pse pretendon se nuk e njeh zgjedhjen e tij në krye të institucionit, dhe e ka dërguar emërimin në Gjykatën Kushtetuese, kjo nuk e ka penguar që të k",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-13T13:28:33+00:00",
+      "dateStr": "13 Aug, 13:28",
+      "isNew": true,
+      "id": "she21786627713"
+    },
+    {
+      "title": "FOTOLAJM/ Fëmijët e amputuar të Gazës i japin botës një mesazh shprese",
+      "link": "https://abcnews.al/fotolajm-femijet-e-amputuar-te-gazes-i-japin-botes-nje-mesazh-shprese/",
+      "description": "Mes shkatërrimit dhe pasojave të rënda të luftës në Gaza, një grup fëmijësh palestinezë që kanë humbur këmbë ose krahë po përpiqen të rikthejnë një pjesë të normalitetit përmes futbollit. Fëmijët marrin pjesë në stërvitjet e futbollit për persona të amputuar, të organizuara nga Heel Academy në Gaza.",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T13:26:07+00:00",
+      "dateStr": "13 Aug, 13:26",
+      "isNew": true,
+      "id": "abc21786627567"
+    },
+    {
+      "title": "Shitje rekord, Lakers ndryshon pronar/ Skuadra e NBA shitet për 12.5 miliardë dollarë",
+      "link": "https://abcnews.al/shitje-rekord-lakers-ndryshon-pronar-skuadra-e-nba-shitet-per-12-5-miliarde-dollare/",
+      "description": "Los Angeles Lakers do të ndryshojnë sërish pronarë, duke u shitur për shifrën më të lartë të paguar ndonjëherë për një skuadër në historinë e sportit. Dy prej biznesmenëve më të mëdhenj në Shtetet e Bashkuara të Amerikës, Josh Kushner, vëllai i dhëndrit të presidentit Donald Trump, Jared Kushner dhe",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T13:10:42+00:00",
+      "dateStr": "13 Aug, 13:10",
+      "isNew": true,
+      "id": "abc31786626642"
     },
     {
       "title": "E rëndë/ Gjendet i vdekur drejtori i televizionit të njohur shqiptar",
       "link": "https://shekulli.com.al/2026/08/13/e-rende-gjendet-i-vdekur-drejtori-i-televizionit-te-njohur-shqiptar/",
-      "description": "Mëngjesin e sotëm, trupi i pajetë i Lirim Hajredinit është gjetur pranë qendrës tregtare Mavrovka. Për më shumë se 16 vjet, Hajredini ka shërbyer si drejtor operativ i televizionit Alsat. Sipas informacioneve fillestare, dyshohet se bëhet fjalë për vetëvrasje. Vendi i ngjarjes është siguruar nga pol",
+      "description": "Një ngjarje e rëndë ka tronditur botën e medias shqiptare në Maqedoninë e Veriut. Lirim Hajredini, drejtori operativ i televizionit kombëtar “Alsat-M”, është gjetur i pajetë mëngjesin e së enjtes në Shkup. Trupi i 38-vjeçarit është gjetur në afërsi të qendrës tregtare “Mavrovasja”, ndërsa autoritete",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-08-13T12:55:45+00:00",
       "dateStr": "13 Aug, 12:55",
       "isNew": true,
-      "id": "she01786625745"
+      "id": "she31786625745"
     },
     {
-      "title": "Horoskopi ditor për nesër, e Premte 14 Gusht 2026",
-      "link": "https://24-ore.com/horoskopi-ditor-per-neser-e-premte-14-gusht-2026/",
-      "description": "Dashi Ka shume mundësi qe jeta juaj ne çift te mbetet delikate sot sepse ju do mbylleni ne vetvete dhe nuk do komunikoni aspak me partnerin. As beqaret nuk do jene gati për te filluar një lidhje kështu qe do mbeten me te njëjtin status qe kane qene. Financat duhet t’i mbani gjate gjithë kohës [&#823",
-      "source": "24 ORE",
+      "title": "Greqia “dridhet” nga Ethet e Nilit/ Dyfishohen rastet në një javë, shtohen në 9 viktimat e virusit",
+      "link": "https://abcnews.al/greqia-dridhet-nga-ethet-e-nilit-dyfishohen-rastet-ne-nje-jave-shtohen-ne-9-viktimat-e-virusit/",
+      "description": "Ethet e Nilit Perëndimor po përhapen me ritme shqetësuese në Greqi, ku numri i rasteve të transmetuara brenda vendit ka arritur në 110, pas 45 infektimeve të reja vetëm gjatë javës së fundit, ndërsa 9 persona kanë humbur jetën. Rastet e infektimin me Ethet e Nilit Perendimor gati jane dyfishuar vete",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-13T12:48:05+00:00",
-      "dateStr": "13 Aug, 12:48",
+      "date": "2026-08-13T12:50:25+00:00",
+      "dateStr": "13 Aug, 12:50",
       "isNew": true,
-      "id": "24 11786625285"
-    },
-    {
-      "title": "Nikolloski: Për pak ditë do të fillojmë ndërtimin e autostradës Shkup-Bllacë",
-      "link": "https://24-ore.com/nikolloski-per-pak-dite-do-te-fillojme-ndertimin-e-autostrades-shkup-bllace/",
-      "description": "Në 25-vjetorin e nënshkrimit të Marrëveshjes Kornizë të Ohrit, zv. kryeministri, Aleksandar Nikolloski njoftoi se ndërtimi i autostradës Shkup &#8211; Bllacë do të fillojë në ditët në vijim. &#8220;Sot, vendi po ndërtohet për të qenë i begatë përmes investimeve të forta në infrastrukturë, kujdes shë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T12:41:17+00:00",
-      "dateStr": "13 Aug, 12:41",
-      "isNew": true,
-      "id": "24 21786624877"
-    },
-    {
-      "title": "Tahiri: PDK nuk i nënshtrohet qasjes autoritare të deputetit Albin Kurti, të premten do të jemi të pranishëm në sallën plenare",
-      "link": "https://24-ore.com/tahiri-pdk-nuk-i-nenshtrohet-qasjes-autoritare-te-deputetit-albin-kurti-te-premten-do-te-jemi-te-pranishem-ne-sallen-plenare/",
-      "description": "Deputeti i Partisë Demokratike të Kosovës, Arian Tahiri është shprehur se PDK nuk i nënshtrohet qasjes abuzuese të deputetit të LVV-së, Albin Kurti, i cili, sipas tij, po e pengon konstituimin e Kuvendit. Tahiri, në një konferencë për media, tha se pushtetin autoritar dhe cenimin e rendit kushtetues",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T12:41:05+00:00",
-      "dateStr": "13 Aug, 12:41",
-      "isNew": true,
-      "id": "24 31786624865"
-    },
-    {
-      "title": "​Arrestohet në Serbi shtetasi kosovar Dugagjin Maxhuni",
-      "link": "https://24-ore.com/arrestohet-ne-serbi-shtetasi-kosovar-dugagjin-maxhuni/",
-      "description": "Shtetasi kosovar, Dugjagjin Maxhuni nga Beci i Gjakovës është arrestuar nga autoritetet serbe gjatë kalimit të kufirit mes Serbisë dhe Kroacisë. Lajmin e bëri të ditur avokati, Arianit Koci në Facebook, i cili tha se &#8220;Maxhuni i lindur më 10 maj 1979, fillimisht është ndaluar për verifikim, por",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T12:40:55+00:00",
-      "dateStr": "13 Aug, 12:40",
-      "isNew": true,
-      "id": "24 41786624855"
+      "id": "abc41786625425"
     },
     {
       "title": "Sherri masiv degjeneron me përdorimin e armëve në Tiranë, 4 në pranga dhe 2 në kërkim (Emrat)",
@@ -78,62 +221,7 @@
       "date": "2026-08-13T12:39:29+00:00",
       "dateStr": "13 Aug, 12:39",
       "isNew": true,
-      "id": "she11786624769"
-    },
-    {
-      "title": "Kush e rrahu Nenad Raškovićin?",
-      "link": "https://24-ore.com/kush-e-rrahu-nenad-raskovicin/",
-      "description": "Autoritet e Kosovës duhet urgjentisht të hetojnë dhe ndriçojnë rastin e keqtrajtimit të Nenad Raškovićit nga fshati Dren i Zubin Potokut. Nëse këtë e ka bërë ndonjë pjesëtar i policisë së Kosovës, konsekuencat duhet të jenë të pamëshirshme. Në qoftë se e tëra është inskenim për lojëra parapolitike n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T12:32:44+00:00",
-      "dateStr": "13 Aug, 12:32",
-      "isNew": true,
-      "id": "24 51786624364"
-    },
-    {
-      "title": "Travis Kelce flet për herë të parë pas dasmës me Taylor Swift",
-      "link": "https://24-ore.com/travis-kelce-flet-per-here-te-pare-pas-dasmes-me-taylor-swift/",
-      "description": "Travis Kelce ka folur për dasmën e tij madhështore me Taylor Swift në New York, duke e cilësuar ceremoninë si “natën më të bukur të jetës së tij”. Gjatë një konference për shtyp të mërkurën, ylli i Kansas City Chiefs, 36 vjeç, u pyet për dasmën e shumëpërfolur me këngëtaren 36-vjeçare. “Ishte një pe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T12:31:08+00:00",
-      "dateStr": "13 Aug, 12:31",
-      "isNew": true,
-      "id": "24 61786624268"
-    },
-    {
-      "title": "Masa për sezonin turistik, Lamallari dhe Gonxhja në Sarandë: Zero tolerancë ndaj paligjshmërisë",
-      "link": "https://24-ore.com/masa-per-sezonin-turistik-lamallari-dhe-gonxhja-ne-sarande-zero-tolerance-ndaj-paligjshmerise/",
-      "description": "Ministri i Punëve të Brendshme, Besfort Lamallari, ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja, dhe kryetari i Bashkisë Sarandë, Oltion Çaçi, zhvilluan një inspektim në Sarandë për të parë nga afër masat e marra për mbarëvajtjen e sezonit turistik. Në një periudhë kur flukset e turistë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T12:30:36+00:00",
-      "dateStr": "13 Aug, 12:30",
-      "isNew": true,
-      "id": "24 71786624236"
-    },
-    {
-      "title": "ZVICĒR – Nivelet e ujit bien në nivele rekord mes thatësirës",
-      "link": "https://24-ore.com/zvicer-nivelet-e-ujit-bien-ne-nivele-rekord-mes-thatesires/",
-      "description": "ZYRIH, 13 gusht /ATSH -AA/- Lumenjtë dhe përrenjtë në të gjithë Zvicrën kanë rënë në nivele jashtëzakonisht të ulëta pasi një thatësirë ka përfshirë vendin, sipas raporteve të mediave,. Thatësira e vazhdueshme ka bërë që nivelet e ujit në të gjithë Zvicrën të bien në nivele rekord, ku Zyra Federale ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T12:30:10+00:00",
-      "dateStr": "13 Aug, 12:30",
-      "isNew": true,
-      "id": "24 81786624210"
-    },
-    {
-      "title": "Osmani: Jemi në përkrahje të mbrojtjes së Kushtetutës",
-      "link": "https://24-ore.com/osmani-jemi-ne-perkrahje-te-mbrojtjes-se-kushtetutes/",
-      "description": "Deputetja e Lidhjes Demokratike të Kosovës (LDK), Vjosa Osmani e ka cilësuar si të zakonshme mbledhjen e sotme të Grupit Parlamentar të kësaj partie. Para fillimit të takimit, Osmani për media tha se deputetët e LDK-së do të diskutojnë për zhvillimet e fundit politike, ndërsa pas përfundimit të mble",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T12:26:10+00:00",
-      "dateStr": "13 Aug, 12:26",
-      "isNew": true,
-      "id": "24 91786623970"
+      "id": "she41786624769"
     },
     {
       "title": "News Line me Fabiola Hoxha, (13/08/2026)",
@@ -144,7 +232,7 @@
       "date": "2026-08-13T12:22:17+00:00",
       "dateStr": "13 Aug, 12:22",
       "isNew": true,
-      "id": "abc01786623737"
+      "id": "abc51786623737"
     },
     {
       "title": "Pamjet e dhimbshme të kafshëve që përpëliteshin nga vapa, Kopshti Zoologjik i Tiranës: Kanë pishina për t’u freskuar, iu bëjmë torta të ftohta…",
@@ -155,7 +243,7 @@
       "date": "2026-08-13T12:20:39+00:00",
       "dateStr": "13 Aug, 12:20",
       "isNew": true,
-      "id": "she21786623639"
+      "id": "she51786623639"
     },
     {
       "title": "Sherri me 10 persona në Tiranë/ Shkak, fyerjet mes të miturve. Arrestohen 4 persona, dy të tjerë në kërkim",
@@ -166,7 +254,7 @@
       "date": "2026-08-13T12:15:40+00:00",
       "dateStr": "13 Aug, 12:15",
       "isNew": true,
-      "id": "abc11786623340"
+      "id": "abc61786623340"
     },
     {
       "title": "Jemi me Ukrainën, jo me Rusinë!",
@@ -177,7 +265,7 @@
       "date": "2026-08-13T12:15:04+00:00",
       "dateStr": "13 Aug, 12:15",
       "isNew": true,
-      "id": "abc21786623304"
+      "id": "abc71786623304"
     },
     {
       "title": "Bota rrezikon “të mbetet pa kafe”?/ Tërmeti i Kolumbisë paralizon zinxhirët e furnizimit",
@@ -188,7 +276,7 @@
       "date": "2026-08-13T12:06:43+00:00",
       "dateStr": "13 Aug, 12:06",
       "isNew": true,
-      "id": "abc31786622803"
+      "id": "abc81786622803"
     },
     {
       "title": "Mbante armë pa leje/ Elbasan, vihet në pranga 21-vjeçari",
@@ -199,7 +287,7 @@
       "date": "2026-08-13T11:50:24+00:00",
       "dateStr": "13 Aug, 11:50",
       "isNew": true,
-      "id": "abc41786621824"
+      "id": "abc91786621824"
     },
     {
       "title": "Fundoset jahti 8 mln euro në Sardenja, në pronësi të sipërmarrësit italian, kishte 14 persona në bord",
@@ -210,40 +298,7 @@
       "date": "2026-08-13T11:48:30+00:00",
       "dateStr": "13 Aug, 11:48",
       "isNew": true,
-      "id": "she31786621710"
-    },
-    {
-      "title": "Rumania ngre në ajër avionët luftarakë F-16 pasi zbuluan 5 objektiva ajrore pranë kufirit me Ukrainën",
-      "link": "https://abcnews.al/rumania-ngre-ne-ajer-avionet-luftarake-f-16-pasi-zbuluan-5-objektiva-ajrore-prane-kufirit-me-ukrainen/",
-      "description": "Rumania njoftoi të enjten se kishte ngritur në ajër dy avionë luftarakë F-16 gjatë natës, pasi u zbuluan pesë objektiva ajrore pranë kufirit ukrainas. “Sistemi i mbikëqyrjes me radar i Ministrisë së Mbrojtjes Kombëtare të Rumanisë zbuloi, natën e 12-13 gushtit, në orën 01:27, një grup prej pesë obje",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T11:44:19+00:00",
-      "dateStr": "13 Aug, 11:44",
-      "isNew": true,
-      "id": "abc51786621459"
-    },
-    {
-      "title": "Rrëzohet helikopteri ushtarak/ SHBA, dy ushtarë humbin jetën. Hetime për aksidentin",
-      "link": "https://abcnews.al/rrezohet-helikopteri-ushtarak-shba-dy-ushtare-humbin-jeten-hetime-per-aksidentin/",
-      "description": "Dy ushtarë Amerikanë humbën jetën pas rrëzimit të helikopterit të tyre ushtarak në Teksasin qëndror të Shteteve të Bashkuara sipas asaj që kanë njofuar autoritetet amerikane. Ngjarja ndodhi pranë fshatit Salado ndersa policia raportoi se kishte marre nje telefonate emergjence per nje helikopter te r",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T11:39:23+00:00",
-      "dateStr": "13 Aug, 11:39",
-      "isNew": true,
-      "id": "abc61786621163"
-    },
-    {
-      "title": "Gjendet pa shenja jete drejtori i televizionit Alsat në RMV, Lirim Hajredini",
-      "link": "https://abcnews.al/gjendet-pa-shenja-jete-drejtori-i-televizionit-alsat-lirim-hajredini/",
-      "description": "Mëngjesin e sotëm, trupi i pajetë i Lirim Hajredinit është gjetur pranë qendrës tregtare Mavrovka. Për më shumë se 16 vjet, Hajredini ka shërbyer si drejtor operativ i televizionit Alsat. Sipas informacioneve fillestare, dyshohet se bëhet fjalë për vetëvrasje. Vendi i ngjarjes është siguruar nga pol",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T11:25:16+00:00",
-      "dateStr": "13 Aug, 11:25",
-      "isNew": true,
-      "id": "abc71786620316"
+      "id": "she61786621710"
     },
     {
       "title": "Deklaratat e Zelenskyt, Rama: Ukraina mund të jetë, dhe po, është, gabim për Kosovën, por…",
@@ -254,29 +309,7 @@
       "date": "2026-08-13T11:25:02+00:00",
       "dateStr": "13 Aug, 11:25",
       "isNew": true,
-      "id": "she41786620302"
-    },
-    {
-      "title": "I nxehti shton urgjencat në spital/ Vlorë, 120 raste kërkojnë ndihmë çdo ditë, problem dhe virozat",
-      "link": "https://abcnews.al/i-nxehti-shton-urgjencat-ne-spital-vlore-120-raste-kerkojne-ndihme-cdo-dite-problem-dhe-virozat/",
-      "description": "Këto ditë që shënojnë dhe kulimin e sezonit turistikë në vend, temperature më të larta por dhe fluks vizitorësh kanë sjell dhe numër të shtuar të pacientëve që këkrojnë ndihmë mjeksore. Në Vlorë, në Urgjencën e Spitalit paraqiten rreth 120 qytetarë në 24 orë, për të kërkuar ndihmë mjeksore, me simpt",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T11:22:14+00:00",
-      "dateStr": "13 Aug, 11:22",
-      "isNew": true,
-      "id": "abc81786620134"
-    },
-    {
-      "title": "U largua nga administrata Trump/ Sekretarja e shtypit, Karoline Leavitt: Ishte vendimi më i mirë për familjen",
-      "link": "https://abcnews.al/u-largua-nga-administrata-trump-sekretarja-e-shtypit-karoline-leavitt-ishte-vendimi-me-i-mire-per-familjen/",
-      "description": "Sekretarja e shtypit e Donald Trump do të largohet nga detyra e saj në Shtëpinë e Bardhë, ka njoftuar një ditë më parë presidenti amerikan. Duke e vlerësuar atë si “një nga bashkëpunëtoret më të besuara”, Trump tha se Karoline Leavitt do të largohet nga posti në fund të muajit, “për të kaluar më shu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T11:20:19+00:00",
-      "dateStr": "13 Aug, 11:20",
-      "isNew": true,
-      "id": "abc91786620019"
+      "id": "she71786620302"
     },
     {
       "title": "Në kulmin e sezonit! Bllokohen dy korsi të autostradës Tiranë-Durrës, njoftimi i ARRSH-së",
@@ -287,7 +320,7 @@
       "date": "2026-08-13T11:13:55+00:00",
       "dateStr": "13 Aug, 11:13",
       "isNew": true,
-      "id": "she51786619635"
+      "id": "she81786619635"
     },
     {
       "title": "E rëndë/ 30-vjeçari tenton të vrasë partneren dhe më pas veten, në gjendje kritike të dy",
@@ -298,40 +331,7 @@
       "date": "2026-08-13T10:58:34+00:00",
       "dateStr": "13 Aug, 10:58",
       "isNew": true,
-      "id": "she61786618714"
-    },
-    {
-      "title": "Sytë nga mbrojtja! Ushtria lë pas rrugët dhe ujësjellësit, merr 70 mln euro në 6-mujorin e parë të vitit",
-      "link": "https://shekulli.com.al/2026/08/13/syte-nga-mbrojtja-ushtria-le-pas-rruget-dhe-ujesjellesit-merr-70-mln-euro-ne-6-mujorin-e-pare-te-vitit/",
-      "description": "Investimet në mbrojtje zënë vendin kryesor në listën e projekteve me financimin më të lartë nga buxheti. Vetëm katër projektet më të mëdha të Forcave të Armatosura përfituan rreth 6,8 miliardë lekë, duke lënë pas investimet individuale në rrugë, ujësjellës, zhvillim urban dhe teknologji. Sipas të dh",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T10:36:37+00:00",
-      "dateStr": "13 Aug, 10:36",
-      "isNew": true,
-      "id": "she71786617397"
-    },
-    {
-      "title": "Vdekja e ish-kryegjyqtarit të Vlorës, Eduard Halimi: Sa herë e shtymë atë drekën tonë, kur më tregoi se regjimi e kishte dënuar me vdekje…",
-      "link": "https://shekulli.com.al/2026/08/13/vdekja-e-ish-kryegjyqtarit-te-vlores-ish-ministri-prek-me-fjalet-sa-here-e-shtyme-ate-dreken-tone-kur-me-tregoi-se-regjimi-e-kishte-denuar-me-vdekje/",
-      "description": "TIRANË- Ndarja nga jeta e ish-kreut të Gjykatës së Vlorës, Skënder Haluci, ka lënë të shokuar familjarë dhe miq të tij. Ai u nda nga jeta në moshën 64-vjeçare, teksa po pushonte me familjen e tij në bjeshkët e Tropojës. Eduard Halimi, ish-ministër drejtësie dhe njëherësh mik me të ndjerin, ka bërë n",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T10:27:17+00:00",
-      "dateStr": "13 Aug, 10:27",
-      "isNew": true,
-      "id": "she81786616837"
-    },
-    {
-      "title": "Zgjodhi familjen! Kush është Karoline Leavitt, zëdhënësja që i dha lamtumirën Shtëpisë së Bardhë, por jo Donald Trumpit",
-      "link": "https://shekulli.com.al/2026/08/13/zgjodhi-familjen-kush-eshte-karoline-leavitt-zedhenesja-qe-i-dha-lamtumiren-shtepise-se-bardhe-por-jo-donald-trumpit/",
-      "description": "Për rreth 20 muaj, podiumi i Shtëpisë së Bardhë pati një nga zërat më të rinj dhe më të zhurmshëm të politikës amerikane. Karoline Leavitt, zëdhënësja e presidentit Donald Trump, njoftoi se do të largohet nga detyra në fund të gushtit, duke mbyllur një kapitull të rëndësishëm të karrierës së saj pol",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T10:08:52+00:00",
-      "dateStr": "13 Aug, 10:08",
-      "isNew": true,
-      "id": "she91786615732"
+      "id": "she91786618714"
     }
   ]
 }
