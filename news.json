@@ -1,8 +1,151 @@
 {
-  "lastUpdated": "2026-08-13T04:06:35.926612+00:00",
+  "lastUpdated": "2026-08-13T06:12:36.255643+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Zjarri në Krujë/ Evakuohen banorët në lagjen “Abaze”, ndërhyrje me helikopter për izolimin e vatrave",
+      "link": "https://abcnews.al/zjarri-ne-kruje-evakuohen-banoret-ne-lagjen-abaze-nderhyrje-me-helikopter-per-izolimin-e-vatrave/",
+      "description": "Gjatë natës si rezultat i përhapjes se madhe të flakëve në lagjen Abaze, është bërë evakuimi banoreve. Disa forca zjarrfikëse ato të ushtrisë, kanë operuar në zonë me qëllim mbajtjen nën kontroll të vatrave të zjarrit. Mëngjesin e sotëm një helikopter nis operacionin nga ajri duke mundësuar izolimin",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T06:11:20+00:00",
+      "dateStr": "13 Aug, 06:11",
+      "isNew": true,
+      "id": "abc01786601480"
+    },
+    {
+      "title": "Ku do shkojë Tirana?! Në janar-qershor jepen 5-fish leje për ndërtime rekord, me vlerë 1.6 mld euro",
+      "link": "https://shekulli.com.al/2026/08/13/ku-do-shkoje-tirana-ne-janar-qershor-jepen-5-fish-leje-per-ndertime-rekord-me-vlere-1-6-mld-euro/",
+      "description": "Nëse mendoni që Tirana dhe bregdeti janë mbingarkuar me ndërtime, nuk keni parë gjë akoma. Të dhënat zyrtare të publikuara nga Ministria e Financave tregojnë se të ardhurat që mblidhen nga taksa e ndikimit në infrastrukturë për ndërtimet e reja kanë shënuar një rritje rekord në 6 muajt e parë të vit",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-13T06:03:48+00:00",
+      "dateStr": "13 Aug, 06:03",
+      "isNew": true,
+      "id": "she01786601028"
+    },
+    {
+      "title": "Arrestohet një person, i dyshuar për spiunazh",
+      "link": "https://24-ore.com/arrestohet-nje-person-i-dyshuar-per-spiunazh/",
+      "description": "Me urdhër të Prokurorisë Speciale të Republikës së Kosovës, hetuesit policorë nga Drejtoria për Hetimin e Krimit të Organizuar dhe Krimeve të Rënda, në pikën kufitare në Merdare të Podujevës, kanë arrestuar një shtetas të Republikës së Kosovës, me inicialet F.S., nën dyshimin se ka kryer veprën pena",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T05:55:48+00:00",
+      "dateStr": "13 Aug, 05:55",
+      "isNew": true,
+      "id": "24 01786600548"
+    },
+    {
+      "title": "Trump planifikon të shpenzojë 927 milionë dollarë për rinovimin e Shtëpisë së Bardhë",
+      "link": "https://abcnews.al/trump-planifikon-te-shpenzoje-927-milione-dollare-per-rinovimin-e-shtepise-se-bardhe/",
+      "description": "Administrata Trump po drejton të paktën 927 milionë dollarë drejt projekteve të mëdha ndërtimore në territorin e Shtëpisë së Bardhë, shumë më tepër se parashikimet e mëparshme. Pjesa dërrmuese e kostos do të mbulohet nga paratë e taksapaguesve. Sipas The Washington Post, në vend të kërkimit të fonde",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T05:54:00+00:00",
+      "dateStr": "13 Aug, 05:54",
+      "isNew": true,
+      "id": "abc11786600440"
+    },
+    {
+      "title": "AGJENDA NDËRKOMBËTARE 13.8.2026",
+      "link": "https://24-ore.com/agjenda-nderkombetare-13-8-2026/",
+      "description": "MIAMI (Shtetet e Bashkuara) – Seancë dëgjimore për ekstradimin e vëllezërve Tate për të përcaktuar rregullimet e tyre të paraburgimit. KOMBET E BASHKUARA (Shtetet e Bashkuara) – Informim i Këshillit të Sigurimit të OKB-së mbi Jemenin. CLACTON-ON-SEA (Mbretëria e Bashkuar) – Nigel Farage, udhëheqësi ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T05:46:51+00:00",
+      "dateStr": "13 Aug, 05:46",
+      "isNew": true,
+      "id": "24 11786600011"
+    },
+    {
+      "title": "RUMANI – Temperaturat e larta mbyllin centralin bërthamor",
+      "link": "https://24-ore.com/rumani-temperaturat-e-larta-mbyllin-centralin-berthamor/",
+      "description": "BUKURESHT, 13 gusht /ATSH-AFP/ – Rumania do të ndalojë sot centralin e saj të vetëm bërthamor, “Cernavoda”, pasi niveli i Danubit, ujërat e të cilit përdoren për ftohjen e reaktorëve, ka rënë në një nivel rekord. Ministria rumune e Energjisë njoftoi se reaktori i dytë i centralit do të fiket në mëny",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T05:46:37+00:00",
+      "dateStr": "13 Aug, 05:46",
+      "isNew": true,
+      "id": "24 21786599997"
+    },
+    {
+      "title": "Deputetët e PDK-së para hyrjes së Qeverisë, paralajmërojnë konferencë",
+      "link": "https://24-ore.com/deputetet-e-pdk-se-para-hyrjes-se-qeverise-paralajmerojne-konference/",
+      "description": "Deputetët e Partisë Demokratike të Kosovës sot në orët e hershme të mëngjesit janë para objektit të Qeverisë së Kosovës, ndërkaq kanë paralajmëruar mbajtjen e një konference. Deputetët janë para dyerve të Qeverisë, ndërkaq sipas një njoftimi për media të kësaj partie do të mbajë konferencë. “Partia ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T05:45:50+00:00",
+      "dateStr": "13 Aug, 05:45",
+      "isNew": true,
+      "id": "24 31786599950"
+    },
+    {
+      "title": "Horoskopi 13 gusht 2026, zbuloni parashikimet e yjeve",
+      "link": "https://abcnews.al/horoskopi-13-gusht-2026-zbuloni-parashikimet-e-yjeve/",
+      "description": "DASHI Këtë të enjte, mund të ndjeni një tension të lehtë në ajër, veçanërisht në mjedisin tuaj të punës, ku disa çështje të pazgjidhura kërkojnë vëmendjen tuaj të menjëhershme. Mos u kapni në tërbim: menaxhoni bashkëpunimet me kujdes dhe shmangni përballjet e drejtpërdrejta me kolegët ose eprorët. L",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T05:28:37+00:00",
+      "dateStr": "13 Aug, 05:28",
+      "isNew": true,
+      "id": "abc21786598917"
+    },
+    {
+      "title": "Bob Iger blen shumicën e Los Angeles Lakers për 12.5 miliardë dollarë, më parë kishte synuar një ekip në Las Vegas",
+      "link": "https://24-ore.com/bob-iger-blen-shumicen-e-los-angeles-lakers-per-12-5-miliarde-dollare-me-pare-kishte-synuar-nje-ekip-ne-las-vegas/",
+      "description": "Bob Iger bleu shumicën e aksioneve të skuadrës Los Angeles Lakers për 12.5 miliardë dollarë në një marrëveshje historike. Blerjen e realizoi në bashkëpronë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T05:26:42+00:00",
+      "dateStr": "13 Aug, 05:26",
+      "isNew": true,
+      "id": "24 41786598802"
+    },
+    {
+      "title": "OpenAI sjell ChatGPT në Linux",
+      "link": "https://24-ore.com/openai-sjell-chatgpt-ne-linux/",
+      "description": "ChatGPT është i pranishëm në kompjuterë në mbarë botën, por kishte një vend ku mungonte: komuniteti Linux. Tani kjo po ndryshon. Disa sektorë të komunitetit të zhvilluesve të softuerëve me burim të hapur (open-source) prej kohësh i kanë kërkuar kompanisë OpenAI që ta sjellë chatbotin e saj edhe në k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T05:25:44+00:00",
+      "dateStr": "13 Aug, 05:25",
+      "isNew": true,
+      "id": "24 51786598744"
+    },
+    {
+      "title": "Ndahet nga jeta Agim Bubeqi, ish-futbollisti i kohërave ‘të arta’ të Flamurtarit",
+      "link": "https://abcnews.al/ndahet-nga-jeta-agim-bubeqi-ish-futbollisti-i-koherave-te-arta-te-flamurtarit/",
+      "description": "Është ndarë nga jeta Agim Bubeqi, një prej futbollistëve të spikatur të Flamurtarit të Vlorës gjatë viteve ’80, periudhë e artë për klubin vlonjat. Bubeqi, i lindur më 7 prill 1963, e zhvilloi të gjithë karrierën e tij profesionale me fanellën e Flamurtarit, ku luajti në rolin e sulmuesit. Ai ishte ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T05:20:53+00:00",
+      "dateStr": "13 Aug, 05:20",
+      "isNew": true,
+      "id": "abc31786598453"
+    },
+    {
+      "title": "Mot me diell dhe vranësira konvektive – me mundësi për reshje shiu e stuhi të izoluara",
+      "link": "https://24-ore.com/mot-me-diell-dhe-vranesira-konvektive-me-mundesi-per-reshje-shiu-e-stuhi-te-izoluara/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot kryesisht me diell, por gjatë ditës pritet zhvillim i vranësirave konvektive, duke krijuar kushte për reshje lokale shiu, të shoqëruara me bubullima dhe mundësi për stuhi të izoluara. IHK njofton se temperaturat minimale do t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T05:15:55+00:00",
+      "dateStr": "13 Aug, 05:15",
+      "isNew": true,
+      "id": "24 61786598155"
+    },
+    {
+      "title": "Pse historia e NBA-së do t’u qeshë kritikëve të Russell Westbrook",
+      "link": "https://24-ore.com/pse-historia-e-nba-se-do-tu-qeshe-kritikeve-te-russell-westbrook/",
+      "description": "Pas 18 sezoneve në NBA dhe paraqitjeve me shtatë klube të ndryshme, Russell Westbrook njoftoi të mërkurën pensionimin përmes një postimi në rrjetet sociale...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T04:46:51+00:00",
+      "dateStr": "13 Aug, 04:46",
+      "isNew": true,
+      "id": "24 71786596411"
+    },
     {
       "title": "LeBron James përgëzon Russell Westbrook pas njoftimit të tërheqjes: ‘HOF e ardhshme’",
       "link": "https://24-ore.com/lebron-james-pergezon-russell-westbrook-pas-njoftimit-te-terheqjes-hof-e-ardhshme/",
@@ -12,7 +155,7 @@
       "date": "2026-08-13T04:05:43+00:00",
       "dateStr": "13 Aug, 04:05",
       "isNew": true,
-      "id": "24 01786593943"
+      "id": "24 81786593943"
     },
     {
       "title": "Lionel Messi rikthehet në fushë me Inter Miami pas vdekjes së babait",
@@ -23,95 +166,7 @@
       "date": "2026-08-13T03:31:23+00:00",
       "dateStr": "13 Aug, 03:31",
       "isNew": true,
-      "id": "24 11786591883"
-    },
-    {
-      "title": "Royals mposhtin Dodgers 1-0 në ndeshjen e 12 gushtit 2026",
-      "link": "https://24-ore.com/royals-mposhtin-dodgers-1-0-ne-ndeshjen-e-12-gushtit-2026/",
-      "description": "Në ndeshjen e 12 gushtit 2026, Kansas City Royals fituan 1-0 ndaj Los Angeles Dodgers. Royals përfunduan me 1 pikë, 2 goditje dhe 0 gabime, ndërsa Dodgers...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T02:40:44+00:00",
-      "dateStr": "13 Aug, 02:40",
-      "isNew": true,
-      "id": "24 21786588844"
-    },
-    {
-      "title": "Orari i NBA për Black Friday 2026: Giannis te Heat, përballje Heat–Knicks dhe Lakers–Spurs me Wembanyama",
-      "link": "https://24-ore.com/orari-i-nba-per-black-friday-2026-giannis-te-heat-perballje-heat-knicks-dhe-lakers-spurs-me-wembanyama/",
-      "description": "NBA ka vendosur dy ndeshje kryesore për ditën e Black Friday: Miami Heat do të përballet me kampionët në fuqi New York Knicks, ndërsa Los Angeles Lakers do...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T02:00:49+00:00",
-      "dateStr": "13 Aug, 02:00",
-      "isNew": true,
-      "id": "24 31786586449"
-    },
-    {
-      "title": "Texas Rangers – Los Angeles Angels, 12 gusht 2026: formacionet, dëmtimet dhe statistikat kryesore",
-      "link": "https://24-ore.com/texas-rangers-los-angeles-angels-12-gusht-2026-formacionet-demtimet-dhe-statistikat-kryesore/",
-      "description": "Më 12 gusht 2026, Texas Rangers përballuan Los Angeles Angels në Angel Stadium në Anaheim. Për këtë përballje të parashikuar si startues figurojnë C. Quant...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T01:58:01+00:00",
-      "dateStr": "13 Aug, 01:58",
-      "isNew": true,
-      "id": "24 41786586281"
-    },
-    {
-      "title": "Më pak kufizime, më shumë inteligjencë – ChatGPT përditësohet për miliona përdorues",
-      "link": "https://24-ore.com/me-pak-kufizime-me-shume-inteligjence-chatgpt-perditesohet-per-miliona-perdorues-2/",
-      "description": "OpenAI ka njoftuar se përdoruesit falas të ChatGPT së shpejti do të kenë biseda të pakufizuara me tekst, ndërsa kufizimet për gjenerimin e imazheve, ngarkimin e skedarëve dhe përdorimin e zërit do të mbeten në fuqi. Njëkohësisht, modeli i ri GPT-5.6 Luna do të bëhet modeli i parazgjedhur për të gjit",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T01:57:25+00:00",
-      "dateStr": "13 Aug, 01:57",
-      "isNew": true,
-      "id": "24 51786586245"
-    },
-    {
-      "title": "Danimarka ashpërson rregullat për përdorimin e Al në shkolla",
-      "link": "https://24-ore.com/danimarka-ashperson-rregullat-per-perdorimin-e-al-ne-shkolla/",
-      "description": "Nxënësit e shkollave të mesme në Danimarkë do t’i rikthehen mësimit javën e ardhshme me rregulla më të forta për përdorimin e Al, me synim parandalimin e kopjimit gjatë detyrave dhe provimeve. Ministri danez i Arsimit, Magnus Heunicke, njoftoi një paketë masash të menjëhershme për të luftuar përdori",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T01:57:00+00:00",
-      "dateStr": "13 Aug, 01:57",
-      "isNew": true,
-      "id": "24 61786586220"
-    },
-    {
-      "title": "Brock Nelson shikon përpara pas një viti të jashtëzakonshëm me Avalanche dhe medaljes olimpike",
-      "link": "https://24-ore.com/brock-nelson-shikon-perpara-pas-nje-viti-te-jashtezakonshem-me-avalanche-dhe-medaljes-olimpike/",
-      "description": "Brock Nelson përfundoi sezonin e tij të parë të plotë me Colorado Avalanche me disa arritje të rëndësishme: 65 pikë, përfshirë 33 gola dhe 32 asistime në 8...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T01:56:53+00:00",
-      "dateStr": "13 Aug, 01:56",
-      "isNew": true,
-      "id": "24 71786586213"
-    },
-    {
-      "title": "Ramadani: Adnan Rrustemi ishte në Kuvend kur familjari i tij kah dajët bëri thirrje për vrasjen e Ramush Haradinajt",
-      "link": "https://24-ore.com/ramadani-adnan-rrustemi-ishte-ne-kuvend-kur-familjari-i-tij-kah-dajet-beri-thirrje-per-vrasjen-e-ramush-haradinajt/",
-      "description": "Deputeti i zgjedhur i Aleancës për Ardhmërinë e Kosovës (AAK), Burim Ramadani, ka reaguar pas arrestimit të Skënder Llugiqit, i cili gjatë vizitës së tij në Kuvendin e Kosovës dyshohet se bëri thirrje për vrasjen e ish-kryeministrit Ramush Haradinaj. Ramadani, përmes një postimi, ka përmendur edhe d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T01:56:42+00:00",
-      "dateStr": "13 Aug, 01:56",
-      "isNew": true,
-      "id": "24 81786586202"
-    },
-    {
-      "title": "“Nuk e tregoj emrin”, Prapashtica flet për infiltrimet e UDB-së: Ishte bashkëpunëtor i yni",
-      "link": "https://24-ore.com/nuk-e-tregoj-emrin-prapashtica-flet-per-infiltrimet-e-udb-se-ishte-bashkepunetor-i-yni/",
-      "description": "Abdullah Prapashtica ka deklaruar se një person që fillimisht kishte qenë bashkëpunëtor i grupit të tij, më vonë ishte rekrutuar nga UDB-ja dhe kishte dhënë informacione për veprimtarinë e tyre. Në vazhdimin e intervistës për emisionin “Dosjet”, Prapashtica tha se në Gjermani kishin arritur të ident",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T01:56:12+00:00",
-      "dateStr": "13 Aug, 01:56",
-      "isNew": true,
-      "id": "24 91786586172"
+      "id": "24 91786591883"
     },
     {
       "title": "Kërcënohet me jetë Haradinaj/ Arrestohet një person, bëri thirrje për pushkatimin e tij",
@@ -122,7 +177,7 @@
       "date": "2026-08-12T21:03:57+00:00",
       "dateStr": "12 Aug, 21:03",
       "isNew": true,
-      "id": "abc01786568637"
+      "id": "abc41786568637"
     },
     {
       "title": "RENEA blindon Vlorën, aksion i befasishëm në zonën e Lungomares, dyshime për persona me rrezikshmëri të lartë",
@@ -133,7 +188,7 @@
       "date": "2026-08-12T20:48:48+00:00",
       "dateStr": "12 Aug, 20:48",
       "isNew": true,
-      "id": "she01786567728"
+      "id": "she11786567728"
     },
     {
       "title": "“Pasioni të lë të varfër”, Artan Kola për ‘Summer Time Show’: Jam penduar që…",
@@ -144,7 +199,7 @@
       "date": "2026-08-12T20:41:58+00:00",
       "dateStr": "12 Aug, 20:41",
       "isNew": true,
-      "id": "abc11786567318"
+      "id": "abc51786567318"
     },
     {
       "title": "Nga jetesa mes Gjermanisë e Shqipërisë tek etikimi ‘motra e Stines’, rrëfehet Alida Duka",
@@ -155,7 +210,7 @@
       "date": "2026-08-12T20:41:33+00:00",
       "dateStr": "12 Aug, 20:41",
       "isNew": true,
-      "id": "abc21786567293"
+      "id": "abc61786567293"
     },
     {
       "title": "Rusia godet portet ukrainase në Detin e Zi, pretendon se shënjestroi anije me pajisje ushtarake",
@@ -166,7 +221,7 @@
       "date": "2026-08-12T20:36:48+00:00",
       "dateStr": "12 Aug, 20:36",
       "isNew": true,
-      "id": "abc31786567008"
+      "id": "abc71786567008"
     },
     {
       "title": "VIDEO/ RENEA aksion në dy banesa në Vlorë, dyshohet se fshihen persona në kërkim",
@@ -177,7 +232,7 @@
       "date": "2026-08-12T20:35:41+00:00",
       "dateStr": "12 Aug, 20:35",
       "isNew": true,
-      "id": "abc41786566941"
+      "id": "abc81786566941"
     },
     {
       "title": "Nga Azerbajxhani për të punuar në Shqipëri/ I riu tregon eksperiencën në Vlorë: Njerëz mikpritës, ushqim i mirë",
@@ -188,51 +243,7 @@
       "date": "2026-08-12T20:26:59+00:00",
       "dateStr": "12 Aug, 20:26",
       "isNew": true,
-      "id": "abc51786566419"
-    },
-    {
-      "title": "Nga paragjykimet te ëndrrat për Policinë e Shtetit, rrëfehet shefja e Triportit në Vlorë, Amarilda Shabani",
-      "link": "https://abcnews.al/nga-paragjykimet-te-endrrat-per-policine-e-shtetit-rrefehet-shefja-e-triportit-ne-vlore-amarilda-shabani/",
-      "description": "Prej 14 vitesh është pjesë e strukturave të Policisë së Shtetit, ndërsa sot mban detyrën e Shefes së stacionit policor në triportin e Vlorës Amarilda Shabani, duke mbuluar një perimetër nga Vjosa deri në Bristan, 78 km vijë bregdetare. “Të gjithë dokumentacionet e mjeteve që operojnë në qarkun e Vlo",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T20:24:14+00:00",
-      "dateStr": "12 Aug, 20:24",
-      "isNew": true,
-      "id": "abc61786566254"
-    },
-    {
-      "title": "“Keqbërësit të ndëshkohen sipas ligjit”, Begaj: Respekt për çdo zjarrfikës dhe efektiv që po përballet me rrezikun në vijën e parë",
-      "link": "https://abcnews.al/keqberesit-te-ndeshkohen-sipas-ligjit-begaj-respekt-per-cdo-zjarrfikes-dhe-efektiv-qe-po-perballet-me-rrezikun-ne-vijen-e-pare/",
-      "description": "TIRANË- Presidenti i Republikës, Bajram Begaj, ka reaguar për situatën e zjarreve në disa zona të vendit, duke shprehur mirënjohjen për të gjithë efektivët dhe strukturat që po përballen me flakët. Përmes një reagimi në &#8220;Facebook&#8221;, Begaj vlerësoi punën e zjarrfikësve, efektivëve të Forca",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T20:18:04+00:00",
-      "dateStr": "12 Aug, 20:18",
-      "isNew": true,
-      "id": "abc71786565884"
-    },
-    {
-      "title": "Tërmeti në Kolumbi, ekipet e shpëtimit në luftë me kohën, shpresë për të mbijetuar mes rrënojave",
-      "link": "https://abcnews.al/termeti-ne-kolumbi-ekipet-e-shpetimit-ne-lufte-me-kohen-shprese-per-te-mbijetuar-mes-rrenojave/",
-      "description": "Ekipet e shpëtimit në Kolumbi vijojnë kërkimet për të mbijetuar, dy ditë pasi një tërmet i fuqishëm me magnitudë 7.4 goditi vendin, duke shkaktuar të paktën 250 viktima. Në Cali, qytetin e tretë më të madh të Kolumbisë, ekipet e shpëtimit po kërkojnë ende shenja jete në rrënojat e kompleksit të bani",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T20:02:16+00:00",
-      "dateStr": "12 Aug, 20:02",
-      "isNew": true,
-      "id": "abc81786564936"
-    },
-    {
-      "title": "Kosovë/ REL: Kuvendi mbetet pezull, tensionet rriten",
-      "link": "https://abcnews.al/kosove-rel-kuvendi-mbetet-pezull-tensionet-rriten/",
-      "description": "Përplasjet mes deputetëve në Kuvendin e Kosovës për vazhdimin e seancës konstituive u përshkallëzuan të mërkurën edhe në shtyrje fizike, ndërsa partitë vazhdojnë të kenë qëndrime të kundërta për mënyrën se si duhet të zhbllokohet procesi i konstituimit të legjislaturës së re. Deputetë të Partisë Dem",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-12T19:20:30+00:00",
-      "dateStr": "12 Aug, 19:20",
-      "isNew": true,
-      "id": "abc91786562430"
+      "id": "abc91786566419"
     },
     {
       "title": "Del jashtë kontrollit situata me zjarret në Tiranë, flakët po i afrohen Lundrës dhe Farkës së Madhe",
@@ -243,7 +254,7 @@
       "date": "2026-08-12T19:19:42+00:00",
       "dateStr": "12 Aug, 19:19",
       "isNew": true,
-      "id": "she11786562382"
+      "id": "she21786562382"
     },
     {
       "title": "“Po nxisni protestat”, kush janë kryebashkiakët që u kritikuan nga Rama gjatë mbledhjes",
@@ -254,7 +265,7 @@
       "date": "2026-08-12T17:48:58+00:00",
       "dateStr": "12 Aug, 17:48",
       "isNew": true,
-      "id": "she21786556938"
+      "id": "she31786556938"
     },
     {
       "title": "“O Sokol, hipi makinës dhe ik!”, momenti i frikshëm nga zjarri në Tiranë",
@@ -265,7 +276,7 @@
       "date": "2026-08-12T16:54:18+00:00",
       "dateStr": "12 Aug, 16:54",
       "isNew": true,
-      "id": "she31786553658"
+      "id": "she41786553658"
     },
     {
       "title": "Plas në mbledhjen e Ramës në Kuç, kryeministri përzë kryebashkiaken, i pari i Poliçanit braktis takimin",
@@ -276,7 +287,7 @@
       "date": "2026-08-12T16:36:55+00:00",
       "dateStr": "12 Aug, 16:36",
       "isNew": true,
-      "id": "she41786552615"
+      "id": "she51786552615"
     },
     {
       "title": "IKMT aksion në Karaburun, shembet objekti pa leje dhe ndalohet ndërtuesi",
@@ -287,7 +298,7 @@
       "date": "2026-08-12T16:26:14+00:00",
       "dateStr": "12 Aug, 16:26",
       "isNew": true,
-      "id": "she51786551974"
+      "id": "she61786551974"
     },
     {
       "title": "Zjarri përparon drejt banesave në Krujë, nis evakuimi i banorëve",
@@ -298,7 +309,7 @@
       "date": "2026-08-12T16:23:42+00:00",
       "dateStr": "12 Aug, 16:23",
       "isNew": true,
-      "id": "she61786551822"
+      "id": "she71786551822"
     },
     {
       "title": "I nxehti ekstrem/ Klimatologu: 2026 vera më e freskët e 300 viteve të ardhshme",
@@ -309,7 +320,7 @@
       "date": "2026-08-12T15:52:44+00:00",
       "dateStr": "12 Aug, 15:52",
       "isNew": true,
-      "id": "she71786549964"
+      "id": "she81786549964"
     },
     {
       "title": "Mbyllet pas 5 orësh takimi i Ramës me kryebashkiakët, zbardhet porosia: Reforma do të ecë përpara",
@@ -320,18 +331,7 @@
       "date": "2026-08-12T15:15:17+00:00",
       "dateStr": "12 Aug, 15:15",
       "isNew": true,
-      "id": "she81786547717"
-    },
-    {
-      "title": "Britney Spears rrëfen komplikacionin pas Botox-it: Më la syrin të varur për katër javë",
-      "link": "https://shekulli.com.al/2026/08/12/britney-spears-rrefen-komplikacionin-pas-botox-it-me-la-syrin-te-varur-per-kater-jave/",
-      "description": "Britney Spears ka ndarë me ndjekësit një përvojë të pakëndshme pas një trajtimi me Botox, duke treguar se procedura i shkaktoi një komplikacion pranë syrit të majtë. Këngëtarja 44-vjeçare tha se pas injektimit i ishte ulur qepalla e syrit, një problem që sipas saj zgjati për rreth katër javë, përpar",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-12T14:34:23+00:00",
-      "dateStr": "12 Aug, 14:34",
-      "isNew": true,
-      "id": "she91786545263"
+      "id": "she91786547717"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
