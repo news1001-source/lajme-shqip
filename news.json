@@ -1,150 +1,227 @@
 {
-  "lastUpdated": "2026-08-13T15:54:22.190938+00:00",
+  "lastUpdated": "2026-08-13T16:51:48.405185+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "BE-ja përgatitet për valën e re të zgjerimit, Euronews: Shqipëria pranë anëtarësimit",
-      "link": "https://24-ore.com/be-ja-pergatitet-per-valen-e-re-te-zgjerimit-euronews-shqiperia-prane-anetaresimit/",
-      "description": "Zgjerimi i Bashkimit Europian po hyn në një fazë vendimtare, me Shqipërinë dhe Malin e Zi që po i afrohen me shpejtësi anëtarësimit, ndërsa Ukraina dhe Moldavia po përparojnë në procesin e integrimit. Paralelisht, Brukseli po përgatitet për reforma të rëndësishme në mënyrën se si funksionon Unioni, ",
+      "title": "“Humbja jonë më e madhe”- Djalin ia vrau shoku i fëmijërisë, nëna e Joan Zukos tjetër mesazh prekës: Asgjë s’mund",
+      "link": "https://24-ore.com/humbja-jone-me-e-madhe-djalin-ia-vrau-shoku-i-femijerise-nena-e-joan-zukos-tjeter-mesazh-prekes-asgje-smund/",
+      "description": "Nëna e ushtarakut 20-vjeçar që u vra javën e kaluar nga shoku i tij i fëmijërisë pas një sherri, ka reaguar përsëri me një mesazh prekës në rrjetet sociale. Fjalët e Ornela Zukos janë të pakta, por mbajnë brenda dhimbjen që vetëm një nënë mund ta përjetojë. Teksa ka falënderuar të gjithë ata që i [&",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-13T15:51:24+00:00",
+      "date": "2026-08-13T16:50:06+00:00",
+      "dateStr": "13 Aug, 16:50",
+      "isNew": true,
+      "id": "24 01786639806"
+    },
+    {
+      "title": "Krim i rëndë në familje në Durrës, 43-vjeçari plagos me thikë në kokë gruan, por të dy përfundojnë në spital!",
+      "link": "https://24-ore.com/krim-i-rende-ne-familje-ne-durres-43-vjecari-plagos-me-thike-ne-koke-gruan-por-te-dy-perfundojne-ne-spital/",
+      "description": "Një krim i rëndë në familja ka ndodhur ditën e sotme në Durrës (13 gusht). Pas një sherri në familje, situata ka degraduar me dy të plagosur. Të dëmtuarit janë bashkëshortë. Policia vendore thanë se ngjarja ka ndodhur rreth orës 17:00, në lagjen 14, ku një 43-vjeçar, me inicialet Xh. L., dyshohet se",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T16:49:35+00:00",
+      "dateStr": "13 Aug, 16:49",
+      "isNew": true,
+      "id": "24 11786639775"
+    },
+    {
+      "title": "LAFC nënshkruan me Armindo Sieb nga Bayern Munich",
+      "link": "https://24-ore.com/lafc-nenshkruan-me-armindo-sieb-nga-bayern-munich/",
+      "description": "Los Angeles Football Club konfirmoi transferimin e sulmuesit Armindo Sieb, 23 vjeç, nga Bayern Munich. Mësohet se kontrata e tij shtrihet deri në sezonin 2...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T16:42:28+00:00",
+      "dateStr": "13 Aug, 16:42",
+      "isNew": true,
+      "id": "24 21786639348"
+    },
+    {
+      "title": "Zjarret/ Ministria e Mbrojtjes: Deri tani janë raportuar 31 vatra, s’ka rrezik për zonat e banuara",
+      "link": "https://abcnews.al/zjarret-ministria-e-mbrojtjes-deri-tani-jane-raportuar-31-vatra-zjarri-ska-rrezik-per-zonat-e-banuara/",
+      "description": "Ministria e Mbrojtjes informoi se deri në orën 18:00 të 13 gushtit janë raportuar 31 vatra zjarri, ndërsa aktualisht vijojnë 18 vatra, prej të cilave 14 aktive, 2 në monitorim dhe 2 nën kontroll. Në operacionet për shuarjen e zjarreve janë angazhuar 309 efektivë të Forcave të Armatosura, 22 mjete, 9",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T16:38:01+00:00",
+      "dateStr": "13 Aug, 16:38",
+      "isNew": true,
+      "id": "abc01786639081"
+    },
+    {
+      "title": "Caitlin Clark tregon versionin me ngjyrat e Iowa Hawkeyes të këpucës Nike Caitlin 1 në një foto",
+      "link": "https://24-ore.com/caitlin-clark-tregon-versionin-me-ngjyrat-e-iowa-hawkeyes-te-kepuces-nike-caitlin-1-ne-nje-foto/",
+      "description": "Caitlin Clark, ylli i Indiana Fever, publikoi në Instagram një storie ku shfaqet një version i ardhshëm i këpucës së saj Nike Caitlin 1 me ngjyrat e Iowa H...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T16:36:50+00:00",
+      "dateStr": "13 Aug, 16:36",
+      "isNew": true,
+      "id": "24 31786639010"
+    },
+    {
+      "title": "Rishpikja e draftit të NBA 2008 pas tërheqjes së Russell Westbrook",
+      "link": "https://24-ore.com/rishpikja-e-draftit-te-nba-2008-pas-terheqjes-se-russell-westbrook/",
+      "description": "Russell Westbrook njoftoi tërheqjen nga NBA pas 18 sezoneve dhe shtatë organizatave, duke i vënë vulën një karriere që për shumë matje konsiderohet ndër më...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T16:36:01+00:00",
+      "dateStr": "13 Aug, 16:36",
+      "isNew": true,
+      "id": "24 41786638961"
+    },
+    {
+      "title": "Si ndikon pronësia e Mark Walter te Dodgers në kontratën e Shohei Ohtani pas shitjes rekord të Lakers",
+      "link": "https://24-ore.com/si-ndikon-pronesia-e-mark-walter-te-dodgers-ne-kontraten-e-shohei-ohtani-pas-shitjes-rekord-te-lakers/",
+      "description": "Mark Walter shiti Los Angeles Lakers ndaj Bob Iger në një marrëveshje me vlerë rekord, por pritet të mbetet pronar i Los Angeles Dodgers, një lajm i mirë p...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T16:33:13+00:00",
+      "dateStr": "13 Aug, 16:33",
+      "isNew": true,
+      "id": "24 51786638793"
+    },
+    {
+      "title": "Kalendari i para-sezonit të NHL 2026-27 nis më 19 shtator",
+      "link": "https://24-ore.com/kalendari-i-para-sezonit-te-nhl-2026-27-nis-me-19-shtator/",
+      "description": "Para-sezoni i NHL për edicionin 2026-27 fillon më 19 shtator dhe zgjat deri më 26 shtator. Programi përbëhet nga 65 ndeshje të zhvilluara gjatë tetë ditëve...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T16:32:08+00:00",
+      "dateStr": "13 Aug, 16:32",
+      "isNew": true,
+      "id": "24 61786638728"
+    },
+    {
+      "title": "Josh Allen do të luajë në ndeshjen hapëse miqësore, ndërsa Chuba Hubbard ndiqet javë pas jave",
+      "link": "https://24-ore.com/josh-allen-do-te-luaje-ne-ndeshjen-hapese-miqesore-ndersa-chuba-hubbard-ndiqet-jave-pas-jave/",
+      "description": "Trajneri i Buffalo Bills, Joe Brady, deklaroi të enjten se quarterback Josh Allen dhe titullarët e shëndetshëm do të marrin pjesë në mënyrë të kufizuar në...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T16:31:04+00:00",
+      "dateStr": "13 Aug, 16:31",
+      "isNew": true,
+      "id": "24 71786638664"
+    },
+    {
+      "title": "UKRAINË – Zelensky kërkon 5% të rezervës amerikane të raketave “Patriot”",
+      "link": "https://24-ore.com/ukraine-zelensky-kerkon-5-te-rezerves-amerikane-te-raketave-patriot/",
+      "description": "KIEV, 13 gusht /ATSH- DPA/ – Presidenti ukrainas Volodymyr Zelensky i ka kërkuar Shteteve të Bashkuara të Amerikës t’i shesin Ukrainës 5% të rezervës së tyre të raketave interceptuese për sistemet “Patriot” duke argumentuar se kjo do ta ndihmonte vendin të përballonte sulmet ajrore ruse gjatë dimrit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T16:30:13+00:00",
+      "dateStr": "13 Aug, 16:30",
+      "isNew": true,
+      "id": "24 81786638613"
+    },
+    {
+      "title": "Kosovë/ Abdixhiku: Heqim dorë nga çdo kërkesë, presidenti të jetë jopartiak",
+      "link": "https://abcnews.al/kosove-abdixhiku-heqim-dore-nga-cdo-kerkese-presidenti-te-jete-jopartiak/",
+      "description": "KOSOVË- Udhëheqësi i Lidhjes Demokratike të Kosovës, Lumir Abdixhiku, tha se partia e tij heq dorë nga çdo kërkesë për postin e kryeparlamentarit, presidentit dhe pjesëmarrjes në Qeveri, duke theksuar se Lëvizja Vetëvendosje mund t’i mbajë të gjitha. “Meqë LVV-ja nuk po e konsideron se ka nevojë për",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T16:24:13+00:00",
+      "dateStr": "13 Aug, 16:24",
+      "isNew": true,
+      "id": "abc11786638253"
+    },
+    {
+      "title": "Katër avionë janë angazhuar për shuarjen e zjarrit mbi fshatin Gaber",
+      "link": "https://24-ore.com/kater-avione-jane-angazhuar-per-shuarjen-e-zjarrit-mbi-fshatin-gaber/",
+      "description": "Një zjarr i madh është përhapur në zonën pyjore mbi fshatin Gaber, ndërsa për shkak të terrenit të vështirë malor në shuarjen e tij janë angazhuar edhe mjete ajrore. Sipas informacioneve nga Qendra për Menaxhim me Kriza, situata në drejtim të vendbanimeve të fshatit Gaber aktualisht është nën kontro",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-13T16:21:32+00:00",
+      "dateStr": "13 Aug, 16:21",
+      "isNew": true,
+      "id": "24 91786638092"
+    },
+    {
+      "title": "Sherr mes çiftit në Durrës, të dy përfundojnë në spital të plagosur me thikë",
+      "link": "https://abcnews.al/sherr-mes-ciftit-ne-durres-te-dy-perfundojne-ne-spital-te-plagosur-me-thike/",
+      "description": "Një sherr mes një çifti bashkëshortësh në Durrës për pak sa nuk ka përfunduar në tragjedi. Pas një debati mes tyre në banesë, situata ka degraduar deri në përdorimin e një thike. Si pasojë, të dy bashkëshortët kanë mbetur të plagosur në pjesë të ndryshme të trupit dhe janë transportuar drejt Spitali",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T16:20:05+00:00",
+      "dateStr": "13 Aug, 16:20",
+      "isNew": true,
+      "id": "abc21786638005"
+    },
+    {
+      "title": "Humbi kontrollin e automjetit dhe u përplas me shtyllën, ndërron jetë 82-vjeçari në Divjakë",
+      "link": "https://abcnews.al/humbi-kontrollin-e-automjetit-dhe-u-perplas-me-shtyllen-nderron-jete-82-vjecari-ne-divjake/",
+      "description": "DIVJAKË- Në aksin rrugor “Çermë-Divjakë”, një 82 vjeçar, duke drejtuar automjetin, ka humbur kontrollin mbi drejtimin e tij dhe është përplasur me një shtyllë. I moshuari është transportuar menjëherë në spital, por më pas ka ndërruar jetë si pasojë e plagëve të marra. Grupi hetimor ndodhet në vendng",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T16:18:46+00:00",
+      "dateStr": "13 Aug, 16:18",
+      "isNew": true,
+      "id": "abc31786637926"
+    },
+    {
+      "title": "Përvëlimi “merr tatëpjetën”/ Temperaturat do të ulen në vlerat normale të gushtit",
+      "link": "https://abcnews.al/pervelimi-merr-tatepjeten-temperaturat-do-te-ulen-ne-vlerat-normale-te-gushtit/",
+      "description": "Rënie temperaturash parashikohet ditët në vijim në të gjithë vendin. Të premten, vlerat e termometrit, sipas Institutit të Gjeoshkencave, do të shkojnë deri në 36 gradë Celsius në zonat e ulëta, ndërsa në bregdet nuk do t’i kalojnë 34 gradë Celsius. Megjithatë, rreziku për zjarre nuk ka kaluar. That",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T16:17:41+00:00",
+      "dateStr": "13 Aug, 16:17",
+      "isNew": true,
+      "id": "abc41786637861"
+    },
+    {
+      "title": "Kruja e kalon sërish rrezikun / Zjarri në Abazaj nën kontroll, nuk rrezikohen banesa",
+      "link": "https://abcnews.al/kruja-e-kalon-serish-rrezikun-zjarri-ne-abazaj-nen-kontroll-nuk-rrezikohen-banesa/",
+      "description": "“E stabilizuar paraqitet situata në Abazaj të Krujës, ndërsa puna për neutralizimin e disa vatrave të vogla vijon nga forcat ajrore dhe ato tokësore. Në terren janë angazhuar forcat zjarrfikëse dhe një helikopter, ndërsa humusi dhe temperaturat e larta mbeten sfidë për ndërhyrjen. Zjarri është afrua",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T16:11:26+00:00",
+      "dateStr": "13 Aug, 16:11",
+      "isNew": true,
+      "id": "abc51786637486"
+    },
+    {
+      "title": "Shuhen flakët në Priskë/ Qetësohen zjarret në Tiranë, një vatër e izoluar në Selitë",
+      "link": "https://abcnews.al/shuhen-flaket-ne-priske-qetesohen-zjarret-ne-tirane-nje-vater-e-izoluar-ne-selite/",
+      "description": "Pas shumë orëve të vështira të përballjes me flakët e zjarrit, shiu ka dhënë një ndihmë të rëndësishme në izolimin dhe dobësimin e vatrave që po shtoheshin. Por përballë flakëve nuk ishin vetëm kushtet e motit. Në zemër të kësaj beteje kanë qenë forcat zjarrfikëse, por edhe ndihma nga ajri me heliko",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T16:08:59+00:00",
+      "dateStr": "13 Aug, 16:08",
+      "isNew": true,
+      "id": "abc61786637339"
+    },
+    {
+      "title": "News Hour me Habi Hoxha, (13/08/2026)",
+      "link": "https://abcnews.al/news-hour-me-habi-hoxha-13-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T16:03:31+00:00",
+      "dateStr": "13 Aug, 16:03",
+      "isNew": true,
+      "id": "abc71786637011"
+    },
+    {
+      "title": "VIDEO/ Greqia në flakë! Zjarr me përmasa të mëdha në Halkidiki, evakuohen banorët. Pushuesit largohen nga deti",
+      "link": "https://abcnews.al/video-greqia-ne-flake-zjarr-me-permasa-te-medha-ne-halkidiki-evakuohen-banoret-pushuesit-largohen-nga-deti/",
+      "description": "Një zjarr i madh që shpërtheu të enjten pasdite në Siviri të Halkidikisë është jashtë kontrollit, ndërsa flakët janë përhapur nga zonat bujqësore dhe pyjore drejt zonave të banuara. Sipas raportimeve, zjarri ka shkaktuar dëme materiale në disa banesa dhe automjete. Për shkak të situatës së rënduar d",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T15:57:57+00:00",
+      "dateStr": "13 Aug, 15:57",
+      "isNew": true,
+      "id": "abc81786636677"
+    },
+    {
+      "title": "Ukraina propozon armëpushim me Rusinë për shkak të objektivave civile në Detin e Zi",
+      "link": "https://abcnews.al/ukraina-propozon-armepushim-me-rusine-per-shkak-te-objektivave-civile-ne-detin-e-zi/",
+      "description": "Ukraina i ka dërguar Rusisë, përmes një vendi të tretë, një propozim për ndërprerjen e ndërsjellë të sulmeve ndaj objektivave civile në Detin e Zi, raportoi Reuters, duke cituar një burim të mirëinformuar. Sipas burimit, Kievi ende nuk ka marrë një përgjigje nga Moska lidhur me propozimin. Në javët ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-13T15:51:42+00:00",
       "dateStr": "13 Aug, 15:51",
       "isNew": true,
-      "id": "24 01786636284"
-    },
-    {
-      "title": "16 vende do të marrin pjesë në Lojërat e Dyta Botërore të Robotëve Humanoidë",
-      "link": "https://24-ore.com/16-vende-do-te-marrin-pjese-ne-lojerat-e-dyta-boterore-te-roboteve-humanoide/",
-      "description": "Lojërat e Dyta Botërore të Robotëve Humanoidë do të hapen më 22 gusht në Pallatin Oval Kombëtar të Patinazhit të Shpejtë në Pekin, të njohur edhe si “Fjongoja e Akullit”. Lojërat organizohen së bashku nga Bashkia e Pekinit, Grupi Mediatik i Kinës dhe organizata të tjera. Lojërat e këtij viti kanë të",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T15:50:21+00:00",
-      "dateStr": "13 Aug, 15:50",
-      "isNew": true,
-      "id": "24 11786636221"
-    },
-    {
-      "title": "Dy vatra zjarri ende aktive në Dibër e Bulqizë, era favorizon flakët, operacion nga toka për shuarjen!",
-      "link": "https://24-ore.com/dy-vatra-zjarri-ende-aktive-ne-diber-e-bulqize-era-favorizon-flaket-operacion-nga-toka-per-shuarjen/",
-      "description": "Dy vatra të reja zjarri janë shfaqur sot (13 gusht) dhe janë aktive në qarkun Dibër, në Selishtë dhe Bulqizë. Zjarri në zonën e Selishtës ka nisur që në orët e para të mëngjesit dhe vijon të jetë aktiv. Autoritetet thanë se për shuarjen e flakëve janë angazhuar punonjës të bashkive Dibër dhe Bulqizë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T15:49:55+00:00",
-      "dateStr": "13 Aug, 15:49",
-      "isNew": true,
-      "id": "24 21786636195"
-    },
-    {
-      "title": "Lundrime pa leje dhe skafe pa dokumente, e pësojnë pronarët në Sarandë, Policia i gjobit dhe u bllokon 5 mjetet (FOTO)",
-      "link": "https://24-ore.com/lundrime-pa-leje-dhe-skafe-pa-dokumente-e-pesojne-pronaret-ne-sarande-policia-i-gjobit-dhe-u-bllokon-5-mjetet-foto/",
-      "description": "Uniformat blu nuk i ndalin aksionet edhe gjatë vijës bregdetare në kuadër të sigurisë së pushuesve në këtë sezon veror. Shërbimet e Policisë Kufitare të Sarandës, kanë konstatuar pasditen e sotme (13 gusht) 5 mjete lundruese të llojit skaf plastik, pa dokumentacionin e detyrueshëm në bord. “Janë nda",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T15:49:35+00:00",
-      "dateStr": "13 Aug, 15:49",
-      "isNew": true,
-      "id": "24 31786636175"
-    },
-    {
-      "title": "Aubrey Plaza shfaqet në SoHo me xhinse ‘mom’ dhe Birkenstocks pas lindjes së parë",
-      "link": "https://24-ore.com/aubrey-plaza-shfaqet-ne-soho-me-xhinse-mom-dhe-birkenstocks-pas-lindjes-se-pare/",
-      "description": "Aubrey Plaza u shfaq në SoHo të New Yorkut duke bërë një kthim të qetë në veshje verore dhe të rehatuar. Theksi i dukjes ishin xhinset “mom”: me bel të ulë...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T15:46:17+00:00",
-      "dateStr": "13 Aug, 15:46",
-      "isNew": true,
-      "id": "24 41786635977"
-    },
-    {
-      "title": "VLEN: Hipokrizia e BDI-së, dy vite heshtën për rastin Llotaria",
-      "link": "https://24-ore.com/vlen-hipokrizia-e-bdi-se-dy-vite-heshten-per-rastin-llotaria/",
-      "description": "BDI heshti për dy vjet, ndërsa sot, kur Prokuroria ngriti aktakuzë për keqpërdorime në Lotarinë Shtetërore, kërkon mbikëqyrje ndërkombëtare.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T15:46:14+00:00",
-      "dateStr": "13 Aug, 15:46",
-      "isNew": true,
-      "id": "24 51786635974"
-    },
-    {
-      "title": "ROTERDAM – Një i vdekur dhe disa të plagosur nga shpërthimi në port",
-      "link": "https://24-ore.com/roterdam-nje-i-vdekur-dhe-disa-te-plagosur-nga-shperthimi-ne-port/",
-      "description": "ROTERDAM, 13 gusht /ATSH-DPA/ – Një person ka humbur jetën dhe disa të tjerë janë plagosur nga një shpërthim i ndodhur sot në Portin e Roterdamit, në Holandë, njoftoi policia. Shpërthimi ndodhi në një kompani në zonën Europoort, një nga pjesët kryesore industriale të portit. Shkaku i incidentit nuk ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T15:46:04+00:00",
-      "dateStr": "13 Aug, 15:46",
-      "isNew": true,
-      "id": "24 61786635964"
-    },
-    {
-      "title": "Itali, shpërthim i fortë në fabrikën e municioneve",
-      "link": "https://abcnews.al/itali-shperthim-i-forte-ne-fabriken-e-municioneve/",
-      "description": "Një shpërthim i fuqishëm ka tronditur pasditen e së enjtes kryeqytetin italian, teksa zhurma e fortë u dëgjua nga ambientet e fabrikës KNDS Ammo Italy, ish-Simmel Difesa, në zonën e Quarto Chilometro, përgjatë rrugës që lidh Colleferron me Artenën. Shprthimi në zonn provinciale të Romës shkaktoi ala",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T15:43:28+00:00",
-      "dateStr": "13 Aug, 15:43",
-      "isNew": true,
-      "id": "abc01786635808"
-    },
-    {
-      "title": "Abdixhiku: LDK heq dorë nga posti i presidentit, qëndrojmë në opozitë",
-      "link": "https://24-ore.com/abdixhiku-ldk-heq-dore-nga-posti-i-presidentit-qendrojme-ne-opozite/",
-      "description": "Kryetari i Lidhjes Demokratike të Kosovës (LDK), Lumir Abdixhiku, ka deklaruar pas mbledhjes së grupit parlamentar se partia e tij ka vendosur të tërhiqet nga çdo kërkesë për pjesëmarrje në qeveri, përfshirë edhe kërkesën për postin e presidentit. Abdixhiku tha se kërkesa për postin e presidentit is",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T15:41:11+00:00",
-      "dateStr": "13 Aug, 15:41",
-      "isNew": true,
-      "id": "24 71786635671"
-    },
-    {
-      "title": "​Rrënimi i objekteve në Ujman, Gjykata e Mitrovicës del në terren për vendshikim",
-      "link": "https://24-ore.com/rrenimi-i-objekteve-ne-ujman-gjykata-e-mitrovices-del-ne-terren-per-vendshikim/",
-      "description": "Gjatë muajit korrik të këtij viti janë rrënuar 17 objekte të ndërtuara pa leje në pronën e Ndërmarrjes Publike Hidroekonomike “Ibër-Lepenc”, pranë Liqenit të Ujmanit. Rrënimi i tyre u bë përmes një aksioni nga Inspektorati i Ministrisë së Mjedisit, Planifikimit Hapësinor dhe Infrastrukturës. Pas ngr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T15:36:19+00:00",
-      "dateStr": "13 Aug, 15:36",
-      "isNew": true,
-      "id": "24 81786635379"
-    },
-    {
-      "title": "EMRI/ Pjesë e rrjetit të kokainës në Itali, arrestohet 22-vjeçari shqiptar! E shpërndante me makinë, i ndaluar edhe më 2",
-      "link": "https://24-ore.com/emri-pjese-e-rrjetit-te-kokaines-ne-itali-arrestohet-22-vjecari-shqiptar-e-shperndante-me-makine-i-ndaluar-edhe-me-2/",
-      "description": "Karabinierët ndaluan një 22-vjeçar shqiptar të dyshuar për përfshirje në rrjetin e trafikut të kokainës në Itali. Oficerët e Sulmonas ndaluan makinën e tij, ku ndodhej me një bashkëmoshatar dhe me nëntëdhjetë gramë kokainë. I arrestuari është Daniele Musai, që u akuzua për posedim me qëllim shpërnda",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-13T15:33:28+00:00",
-      "dateStr": "13 Aug, 15:33",
-      "isNew": true,
-      "id": "24 91786635208"
-    },
-    {
-      "title": "“Rendi kushtetues në Kosovë nuk ekziston”/ Artan Berhami: Kurti ka qëllim të uzurpojë gjithçka!",
-      "link": "https://abcnews.al/rendi-kushtetues-ne-kosove-nuk-ekziston-artan-berhami-kurti-ka-qellim-te-uzurpoje-gjithcka/",
-      "description": "Deputeti i PDK-së, Artan Berhami, ka kritikuar kryeministrin në detyrë, Albin Kurti, duke e akuzuar se po tenton të zëvendësojë institucionet e shtetit me mekanizma partiakë. Berhami tha se, sipas tij, në Kosovë nuk po funksionon rendi normal institucional dhe se situata aktuale nuk paraqet normalit",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T15:18:50+00:00",
-      "dateStr": "13 Aug, 15:18",
-      "isNew": true,
-      "id": "abc11786634330"
-    },
-    {
-      "title": "Autoritetet italiane: Pezullimi i Schengen me Spanjën do të vazhdojë deri në zhdukjen e rreziqeve të sigurisë",
-      "link": "https://abcnews.al/autoritetet-italiane-pezullimi-i-schengen-me-spanjen-do-te-vazhdoje-deri-ne-zhdukjen-e-rreziqeve-te-sigurise/",
-      "description": "Ministri i Brendshëm italian Matteo Piantedosi tha të enjten se Italia do të vazhdojë pezullimin e Marrëveshjes së Schengen me Spanjën derisa të përjashtohen të gjitha rreziqet e mundshme të sigurisë, raportoi agjencia italiane e lajmeve ANSA. Piantedosi i tha Komisionit të Schengen në parlament se ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T15:12:32+00:00",
-      "dateStr": "13 Aug, 15:12",
-      "isNew": true,
-      "id": "abc21786633952"
+      "id": "abc91786636302"
     },
     {
       "title": "Rama i bëri për ‘ujë të ftohtë’ kundërshtarët e Reformës, Maliqi i del kundër, kreu i PS kalon në anën e qytetarëve",
@@ -169,17 +246,6 @@
       "id": "she11786631433"
     },
     {
-      "title": "Shpërthim në portin e Roterdamit, një i vdekur dhe disa të lënduar",
-      "link": "https://abcnews.al/shperthim-ne-portin-e-roterdamit-nje-i-vdekur-dhe-disa-te-lenduar/",
-      "description": "Të paktën një person humbi jetën dhe disa të tjerë u plagosën sot në një shpërthim në një kantier në portin e Roterdamit në Holandë, raportuan mediat lokale. Shpërthimi ndodhi pak pas mesditës në një kompani në Moezelweg në Europoort, pjesë e portit të Roterdamit, raportoi transmetuesi holandez NOS.",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T14:26:59+00:00",
-      "dateStr": "13 Aug, 14:26",
-      "isNew": true,
-      "id": "abc31786631219"
-    },
-    {
       "title": "Arrestimi i mësueses turke në Shqipëri jehonë në mediat franceze, flasin familjarët: Nëse ekstradohet nuk do e shohim më",
       "link": "https://shekulli.com.al/2026/08/13/arrestimi-i-mesueses-turke-ne-shqiperi-jehone-ne-mediat-franceze-flasin-familjaret-nese-ekstradohet-nuk-do-e-shohim-me/",
       "description": "TIRANË- Jülide Yazici, doktorante në filozofi në Tours, kishte dhënë mësim për një vit në Segré, në departamentin Maine-et-Loire. Kjo aktiviste e majtë me origjinë turke, e cila ka statusin e refugjates politike në Francë, u arrestua më 4 gusht në vendin ku po kalonte pushimet, në Shqipëri, në bazë ",
@@ -189,39 +255,6 @@
       "dateStr": "13 Aug, 14:16",
       "isNew": true,
       "id": "she21786630586"
-    },
-    {
-      "title": "Thatësira në Gjermani, n​ivelet e ulëta të ujit paralizojnë transportin në lumin Rhine",
-      "link": "https://abcnews.al/thatesira-ne-gjermani-nivelet-e-uleta-te-ujit-paralizojne-transportin-ne-lumin-rhine/",
-      "description": "Nuk ka mbetur pothuajse asnjë anije në lumin Rhine pranë Këlnit për shkak të niveleve të ulëta historike të ujit, njoftuan sot autoritetet gjermane të ujit, transmeton Anadolu. &#8220;Transporti do të ndalet vetvetiu&#8221;, tha për agjencinë gjermane e lajmeve (DPA), Markus Neumann, drejtori rajona",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T14:11:30+00:00",
-      "dateStr": "13 Aug, 14:11",
-      "isNew": true,
-      "id": "abc41786630290"
-    },
-    {
-      "title": "Fundoset jahti 8 mln euro në Sardenja, në pronësi të sipërmarrësit italian, kishte 14 persona në bord",
-      "link": "https://abcnews.al/fundoset-jahti-8-mln-euro-ne-sardenja-ne-pronesi-te-sipermarresit-italian-kishte-14-persona-ne-bord/",
-      "description": "Një jaht luksoz rreth 30 metra i gjatë dhe me vlerë mbi 8 milionë euro është fundosur në ujërat e Porto Cervos, në Costa Smeralda të Sardenjës. Në momentin e incidentit në bord ndodheshin 14 persona, të gjithë të shpëtuar dhe pa të lënduar. Jahti, i quajtur “Angiola II”, ishte një model Amer F100 dh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T14:00:46+00:00",
-      "dateStr": "13 Aug, 14:00",
-      "isNew": true,
-      "id": "abc51786629646"
-    },
-    {
-      "title": "Pamjet nga lart/ Zjarri në Priskë të Madhe, çfarë lanë pas flakët që ‘pushtuan’ zonën",
-      "link": "https://abcnews.al/pamjet-nga-lart-zjarri-ne-priske-te-madhe-cfare-lane-pas-flaket-qe-pushtuan-zonen/",
-      "description": "Kjo është panorama që lanë pas flakët që përpijnë zonën e Priskës së Madhe mbrëmjen e së mërkurës. Efektivë të Policisë, Forcave të Armatosura, zjarrfikës e banorë të zonës dhanë kontributin e tyre në shuarjen e flakëve të cilat shkrumbuan sipërfaqe toke me shkurre dhe pemë. Nga pamjet, duket hiri d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T13:50:01+00:00",
-      "dateStr": "13 Aug, 13:50",
-      "isNew": true,
-      "id": "abc61786629001"
     },
     {
       "title": "3 ekzekutime me vdekje në të njëjtën ditë/ Kush janë të dënuarit që presin fundin fatal, nga vrasësi i një 5-vjeçareje, te…",
@@ -235,17 +268,6 @@
       "id": "she31786628715"
     },
     {
-      "title": "Kthesa e mandatit të katërt/ Rama thirrje të rinjve: Aplikoni për Rrjetin MIA, duam të dimë çfarë mund të bëhet më mirë nesër",
-      "link": "https://abcnews.al/kthesa-e-mandatit-te-katert-rama-thirrje-te-rinjve-aplikoni-per-rrjetin-mia-duam-te-dime-cfare-mund-te-behet-me-mire-neser/",
-      "description": "Kryeministri Edi Rama ka publikuar thirrjen e hapur të Agjencisë për Media dhe Informim për krijimin e “Rrjetit MIA”, një nismë që synon të afrojë profesionistë, të rinj, ekspertë dhe krijues që duan të kontribuojnë në komunikimin publik. Në postimin e tij, Rama e prezanton nismën si një nga mundësi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T13:34:54+00:00",
-      "dateStr": "13 Aug, 13:34",
-      "isNew": true,
-      "id": "abc71786628094"
-    },
-    {
       "title": "PD nuk e njeh, por i ankohet Endri Shabanit! Avokati i Popullit nuk e kursen ironinë: Faleminderit për besimin…",
       "link": "https://shekulli.com.al/2026/08/13/pd-nuk-e-njeh-por-i-ankohet-endri-shabanit-avokati-i-popullit-nuk-e-kursen-ironine-faleminderit-te-legjitimimi/",
       "description": "TIRANË- Partia Demokratike, duket se ka bërë një ‘autogol’ në raportin me institucionin e Avokatit të Popullit që përfaqësohet nga Endri Shabani. Edhe pse pretendon se nuk e njeh zgjedhjen e tij në krye të institucionit, dhe e ka dërguar emërimin në Gjykatën Kushtetuese, kjo nuk e ka penguar që të k",
@@ -255,28 +277,6 @@
       "dateStr": "13 Aug, 13:28",
       "isNew": true,
       "id": "she41786627713"
-    },
-    {
-      "title": "FOTOLAJM/ Fëmijët e amputuar të Gazës i japin botës një mesazh shprese",
-      "link": "https://abcnews.al/fotolajm-femijet-e-amputuar-te-gazes-i-japin-botes-nje-mesazh-shprese/",
-      "description": "Mes shkatërrimit dhe pasojave të rënda të luftës në Gaza, një grup fëmijësh palestinezë që kanë humbur këmbë ose krahë po përpiqen të rikthejnë një pjesë të normalitetit përmes futbollit. Fëmijët marrin pjesë në stërvitjet e futbollit për persona të amputuar, të organizuara nga Heel Academy në Gaza.",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T13:26:07+00:00",
-      "dateStr": "13 Aug, 13:26",
-      "isNew": true,
-      "id": "abc81786627567"
-    },
-    {
-      "title": "Shitje rekord, Lakers ndryshon pronar/ Skuadra e NBA shitet për 12.5 miliardë dollarë",
-      "link": "https://abcnews.al/shitje-rekord-lakers-ndryshon-pronar-skuadra-e-nba-shitet-per-12-5-miliarde-dollare/",
-      "description": "Los Angeles Lakers do të ndryshojnë sërish pronarë, duke u shitur për shifrën më të lartë të paguar ndonjëherë për një skuadër në historinë e sportit. Dy prej biznesmenëve më të mëdhenj në Shtetet e Bashkuara të Amerikës, Josh Kushner, vëllai i dhëndrit të presidentit Donald Trump, Jared Kushner dhe",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-13T13:10:42+00:00",
-      "dateStr": "13 Aug, 13:10",
-      "isNew": true,
-      "id": "abc91786626642"
     },
     {
       "title": "E rëndë/ Gjendet i vdekur drejtori i televizionit të njohur shqiptar",
