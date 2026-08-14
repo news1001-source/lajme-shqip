@@ -1,40 +1,150 @@
 {
-  "lastUpdated": "2026-08-14T20:25:43.143506+00:00",
+  "lastUpdated": "2026-08-14T21:20:12.924918+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Dennis Schröder shkëmbehet te Charlotte Hornets, Cavaliers marrin Tre Mann",
-      "link": "https://24-ore.com/dennis-schroder-shkembehet-te-charlotte-hornets-cavaliers-marrin-tre-mann/",
-      "description": "Cleveland Cavaliers kanë arritur marrëveshjen për të transferuar Dennis Schröder te Charlotte Hornets në këmbim të Tre Mann, sipas gazetarit Shams Charania...",
+      "title": "BM – Dhjetëra shtëpi të shkatërruara nga zjarret masive",
+      "link": "https://24-ore.com/bm-dhjetera-shtepi-te-shkaterruara-nga-zjarret-masive/",
+      "description": "LONDËR, 14 gusht /ATSH-DPA/ – Një zjarr i madh pyjor në Anglinë qendrore ka shkatërruar plotësisht 29 shtëpi, pasi flakët u përhapën me shpejtësi drejt zonave të banuara gjatë ditës më të nxehtë të vitit në Britaninë e Madhe. Shefi i shërbimit zjarrfikës të Uest Midlands, Simon Tuhill, tha se ekipet",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-14T20:22:36+00:00",
-      "dateStr": "14 Aug, 20:22",
+      "date": "2026-08-14T21:16:08+00:00",
+      "dateStr": "14 Aug, 21:16",
       "isNew": true,
-      "id": "24 01786738956"
+      "id": "24 01786742168"
     },
     {
-      "title": "Një yll japonez, Teruaki Sato, tërheq interesin e Mets, Yankees, Dodgers dhe Phillies",
-      "link": "https://24-ore.com/nje-yll-japonez-teruaki-sato-terheq-interesin-e-mets-yankees-dodgers-dhe-phillies/",
-      "description": "New York Mets kanë shfaqur interes për sulmuesin japonez Teruaki Sato, 27 vjeç, një lojtar që pritet të bëjë kalimin në MLB pas sezonit 2026. Sipas raporte...",
+      "title": "Osmani: Mirë që tash Kurti e quan Abdixhikun mik, para dy javësh e krahasonte me lider fisesh",
+      "link": "https://24-ore.com/osmani-mire-qe-tash-kurti-e-quan-abdixhikun-mik-para-dy-javesh-e-krahasonte-me-lider-fisesh/",
+      "description": "Ish-presidentja e Kosovës, Vjosa Osmani, ka komentuar deklaratën e kryeministrit në detyrë, Albin Kurti, i cili sot e cilësoi kryetarin e LDK-së, Lumir Abdixhikun si mik. Osmani në Kanal 10 ka thënë se i vjen mirë që Kurti e quan Abdixhikun mik, por ka rikujtuar deklaratat e tij të mëhershme, kur e ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-14T20:21:04+00:00",
-      "dateStr": "14 Aug, 20:21",
+      "date": "2026-08-14T21:12:11+00:00",
+      "dateStr": "14 Aug, 21:12",
       "isNew": true,
-      "id": "24 11786738864"
+      "id": "24 11786741931"
     },
     {
-      "title": "Batuta mes kryebashkiakut të Selenicës e Kryeministrit! Bellaj: Kemi nxjerrë ujë të kripur këtu! Rama: Faleminderit që na",
-      "link": "https://24-ore.com/batuta-mes-kryebashkiakut-te-selenices-e-kryeministrit-bellaj-kemi-nxjerre-uje-te-kripur-ketu-rama-faleminderit-qe-na/",
+      "title": "Tensione në takimin e Stambollit, Novosella për gruan e Kadri Zekës: Ajo gënjen nga pak",
+      "link": "https://24-ore.com/tensione-ne-takimin-e-stambollit-novosella-per-gruan-e-kadri-zekes-ajo-genjen-nga-pak/",
+      "description": "Sabri Novosella, në emisionin “Dosje” të RTV Dukagjinit, të udhëhequr nga Ermal Panduri, ka folur për takimin e tetorit të vitit 1981 në Stamboll dhe raportet mes Kadri Zekës dhe Jusuf Gërvallës. I pyetur nga Panduri nëse situata ishte tensionuar gjatë takimit me Kadri Zekën dhe Bardhosh Gërvallën, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T21:07:00+00:00",
+      "dateStr": "14 Aug, 21:07",
+      "isNew": true,
+      "id": "24 21786741620"
+    },
+    {
+      "title": "Betejë me zjarret në 7 zona, Ministria e Mbrojtjes për situatën: 10 vatra aktive, në Lurë aksion me 300 forca e 2 avionë!",
+      "link": "https://24-ore.com/beteje-me-zjarret-ne-7-zona-ministria-e-mbrojtjes-per-situaten-10-vatra-aktive-ne-lure-aksion-me-300-forca-e-2-avione/",
+      "description": "Zjarret kanë zgjeruar edhe sot hartën e dëmeve të tyre, duke djegur dhjetëra hektarë me pyje e bimësi. Ministria e Mbrojtjes informoi në mbrëmje se gjatë orëve të fundit, në territorin e vendit janë në ndjekje 13 vatra zjarri, nga të cilat 10 mbeten aktive, 2 janë nën kontroll dhe 1 është shuar plot",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T21:03:29+00:00",
+      "dateStr": "14 Aug, 21:03",
+      "isNew": true,
+      "id": "24 31786741409"
+    },
+    {
+      "title": "Rama në Selenicë në “Vajza Fest”, batuta me kreun e Gjykatë së Lartë dhe Prefektin e Tiranës (VIDEO)",
+      "link": "https://24-ore.com/rama-ne-selenice-ne-vajza-fest-batuta-me-kreun-e-gjykate-se-larte-dhe-prefektin-e-tiranes-video/",
+      "description": "Fshati Vajzë i Selenicës është shndërruar në qendrën e vëmendjes kulturore dhe turistike përmes edicionit të katërt të “Vajza Fest”, një aktivitet tashmë i kthyer në një traditë të dashur për mbarë zonën. Ngjarja ka bashkuar traditën, kulturën dhe artin. Në këtë edicion, atmosfera festive është shoq",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T21:02:54+00:00",
+      "dateStr": "14 Aug, 21:02",
+      "isNew": true,
+      "id": "24 41786741374"
+    },
+    {
+      "title": "“Lura digjet, Prokuroria të zgjohet!”- Manja kritika organit të akuzës: Gjeni zjarrvënësit! Nëse zvarriten hetimet, i",
+      "link": "https://24-ore.com/lura-digjet-prokuroria-te-zgjohet-manja-kritika-organit-te-akuzes-gjeni-zjarrvenesit-nese-zvarriten-hetimet-i/",
+      "description": "Prej disa ditësh pyjet e parkut kombëtar të Lurës janë në flakë, por nuk ka ende një person përgjegjës për autorësinë. Dhe kjo ka shqetësuar së fundmi edhe kryetarin e Komisionit për Çështjet Ligjore dhe Administratën Publike, deputetin socialist Ulsi Manja. Ai ka reaguar sot (14 gusht) me një posti",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T21:02:53+00:00",
+      "dateStr": "14 Aug, 21:02",
+      "isNew": true,
+      "id": "24 51786741373"
+    },
+    {
+      "title": "Flakët përfshijnë ullishtet në Peqin, digjen mbi 2 hektarë, dyshohet për zjarrvënie të qëllimshme",
+      "link": "https://24-ore.com/flaket-perfshijne-ullishtet-ne-peqin-digjen-mbi-2-hektare-dyshohet-per-zjarrvenie-te-qellimshme/",
+      "description": "Një zjarr i përmasave të konsiderueshme përfshiu zonën e Paulesh–Vidhasasgjel, në Njësinë Administrative Pajovë të Peqinit. Flakët përshkuan një sipërfaqe me ullishte, pyll, ferra dhe bimësi të egër, ndërsa mbi 2 hektarë u përfshinë nga zjarri, kryesisht ullishte dhe barishte. Për shuarjen e flakëve",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T21:02:39+00:00",
+      "dateStr": "14 Aug, 21:02",
+      "isNew": true,
+      "id": "24 61786741359"
+    },
+    {
+      "title": "Presidenti Trump: Shumë shpejt do e shpallim Ngushticën e Hormuzit territor të SHBA",
+      "link": "https://24-ore.com/presidenti-trump-shume-shpejt-do-e-shpallim-ngushticen-e-hormuzit-territor-te-shba/",
+      "description": "Në fjalimi të mbajtur sot përpara forcave të rendit, Presidenti i SHBA-së, Donald Trump, bëri disa deklarata të forta lidhur me politikën e jashtme dhe tensionet në Lindjen e Mesme. Duke u ndalur te Irani, Presidenti Trump u shpreh se Irani po pëson një humbje të thellë dhe paralajmëroi një lëvizje ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T21:02:24+00:00",
+      "dateStr": "14 Aug, 21:02",
+      "isNew": true,
+      "id": "24 71786741344"
+    },
+    {
+      "title": "“Jemi një”, dita e 76-të e protestës, marshimi kuqezi nuk ndalet, protestës iu bashkuan dhe qindra emigrantë nga diaspora",
+      "link": "https://shekulli.com.al/2026/08/14/jemi-nje-dita-e-76-te-e-protestes-marshimi-kuqezi-nuk-ndalet-protestes-iu-bashkuan-dhe-qindra-emigrante-nga-diaspora/",
+      "description": "TIRANË- Dita e 76-të e protestës së Flamingove që po mbahet në Tiranë, që prej fundit të muajit Maj, bashkoi sot qëndrestarët e çdo dite, me një grup mbështetësish të ardhur nga diaspora. Shumica e atyre që u bashkuan sot me protestën, shfaqën pakënaqësitë që i detyruan të largoheshin nga vendi disa",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-14T20:48:50+00:00",
+      "dateStr": "14 Aug, 20:48",
+      "isNew": true,
+      "id": "she01786740530"
+    },
+    {
+      "title": "Beteja për sallën 400 milionë dollarëshe të Shtëpisë së Bardhë, Trump i drejtohet Gjykatës Supreme",
+      "link": "https://abcnews.al/beteja-per-sallen-400-milione-dollare-te-shtepise-se-bardhe-trump-i-drejtohet-gjykates-supreme/",
+      "description": "Presidenti i SHBA, Donald Trump, i ka kërkuar Gjykatës Supreme ta lejojë atë të vazhdojë ndërtimin e një salle vallëzimi me vlerë 400 milionë dollarë në Shtëpinë e Bardhë pa lejen e Kongresit. Kërkesa vjen një javë pasi një gjykatë apeli urdhëroi ndalimin e ndërtimit derisa Kongresi ta miratojë, duk",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-14T20:39:21+00:00",
+      "dateStr": "14 Aug, 20:39",
+      "isNew": true,
+      "id": "abc01786739961"
+    },
+    {
+      "title": "Hiri i Etna-s paralizon aeroportin e Catanias, qindra fluturime të anuluara dhe devijuara",
+      "link": "https://abcnews.al/hiri-i-etna-s-paralizon-aeroportin-e-catanias-qindra-fluturime-te-anuluara-dhe-devijuara/",
+      "description": "Aktiviteti i vazhdueshëm i vullkanit Etna ka shkaktuar probleme të mëdha në trafikun ajror në Siçili, për shkak të hirit vullkanik që ka mbuluar zonën përreth. Aeroporti i Catanias ka pezulluar mbërritjet dhe nisjet për shkak të pranisë së hirit vullkanik. Sipas operatorit të aeroportit, SAC, kufizi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-14T20:36:24+00:00",
+      "dateStr": "14 Aug, 20:36",
+      "isNew": true,
+      "id": "abc11786739784"
+    },
+    {
+      "title": "Batuta mes kryebashkiakut të Selenicës e Kryeministrit! Bellaj: Kemi nxjerrë ujë të kripur këtu! Rama: Faleminderit për i",
+      "link": "https://24-ore.com/batuta-mes-kryebashkiakut-te-selenices-e-kryeministrit-bellaj-kemi-nxjerre-uje-te-kripur-ketu-rama-faleminderit-per-i/",
       "description": "Festivali ‘Vajza Fest, i organizuar në fshatin Vajzë të Selenicës në Vlorë mbrëmjen e sotme (14 gusht), ka përballur kryeministrin Edi Rama me kryebashkiakun socialist të Selenicës, Nertil Bellaj, vetëm pak orë pasi këshilli bashkiak me votat e PD dhe PS votoi kundër Reformës Territoriale për shkrir",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-14T20:20:26+00:00",
-      "dateStr": "14 Aug, 20:20",
+      "date": "2026-08-14T20:32:49+00:00",
+      "dateStr": "14 Aug, 20:32",
       "isNew": true,
-      "id": "24 21786738826"
+      "id": "24 81786739569"
+    },
+    {
+      "title": "Kuvendi mbetet në ngërç, Kurti dhe opozita nuk pajtohen për hapin e parë",
+      "link": "https://24-ore.com/kuvendi-mbetet-ne-ngerc-kurti-dhe-opozita-nuk-pajtohen-per-hapin-e-pare/",
+      "description": "Ngërçi politik në Kosovë vazhdon edhe pas zhvillimeve të fundit në Kuvend. Palët politike mbeten larg një marrëveshjeje për hapat që do ta zhbllokonin situatën, ndërsa përplasjet rreth rendit të prioriteteve po e shtyjnë përpara krizën institucionale. Pa sinjale për pajtueshmëri se cili duhet të jet",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T20:31:57+00:00",
+      "dateStr": "14 Aug, 20:31",
+      "isNew": true,
+      "id": "24 91786739517"
     },
     {
       "title": "Rama shfaqet në festën e “Vajzës” krah Sokol Sadushit dhe Bamir Topit: Prefektin e Tiranës së kuptova pse ishte këtu…",
@@ -45,73 +155,7 @@
       "date": "2026-08-14T20:17:54+00:00",
       "dateStr": "14 Aug, 20:17",
       "isNew": true,
-      "id": "she01786738674"
-    },
-    {
-      "title": "Gruda i reagon LVV-së: Pse krahasimi me bllokadën e vitit 2014 është juridikisht i gabuar",
-      "link": "https://24-ore.com/gruda-i-reagon-lvv-se-pse-krahasimi-me-bllokaden-e-vitit-2014-eshte-juridikisht-i-gabuar/",
-      "description": "Deputeti i PDK-së, Përparim Gruda, ka reaguar ndaj krahasimeve mes bllokadës së vitit 2014 dhe situatës aktuale në Kuvendin e Kosovës. Gruda ka thënë se mes dy situatave ekziston një dallim thelbësor, pasi në vitin 2014 nuk kishte ekzistuar Aktgjykimi KO124/25 i Gjykatës Kushtetuese. Sipas tij, ky a",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T20:17:48+00:00",
-      "dateStr": "14 Aug, 20:17",
-      "isNew": true,
-      "id": "24 31786738668"
-    },
-    {
-      "title": "Gjyqtarja amerikane vendos: Idaho duhet të lejojë abortet për të ruajtur shëndetin e grave",
-      "link": "https://24-ore.com/gjyqtarja-amerikane-vendos-idaho-duhet-te-lejoje-abortet-per-te-ruajtur-shendetin-e-grave/",
-      "description": "Një gjyqtare amerikane ka vendosur që ndalimi pothuajse total i abortit në Idaho është jokushtetues sepse ofron përjashtime kur abortet janë shpëtimtare dhe jo për rreziqe më të gjera për shëndetin e grave shtatzëna. Gjyqtarja e Qarkut Amerikan Lynn Winmill në Boise tha në një vendim prej 81 faqesh,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T20:17:32+00:00",
-      "dateStr": "14 Aug, 20:17",
-      "isNew": true,
-      "id": "24 41786738652"
-    },
-    {
-      "title": "Rusia dënon një person me 23 vite burg për spiunazh për Poloninë",
-      "link": "https://24-ore.com/rusia-denon-nje-person-me-23-vite-burg-per-spiunazh-per-polonine/",
-      "description": "Një rus është dënuar nga një gjykatë në Moskë për spiunazh për Poloninë dhe është dënuar me 23 vjet burgim, tha të premten Shërbimi Federal i Sigurisë (FSB). Rastet e spiunazhit janë bërë gjithnjë e më të zakonshme në Rusi që nga fillimi i luftës në shkallë të plotë në Ukrainë, me gjykatat që shpesh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T20:16:57+00:00",
-      "dateStr": "14 Aug, 20:16",
-      "isNew": true,
-      "id": "24 51786738617"
-    },
-    {
-      "title": "Këshilltari i Trump akuzon armiqtë e Infantinos: Ata kanë nevojë për ekzaminim psikik! Janë xhelozë, kjo është politik�",
-      "link": "https://24-ore.com/keshilltari-i-trump-akuzon-armiqte-e-infantinos-ata-kane-nevoje-per-ekzaminim-psikik-jane-xheloze-kjo-eshte-politik%ef%bf%bd/",
-      "description": "Andrju Xhuliani, ish-këshilltar i presidentit amerikan Donald Tramp dhe ish-drejtor ekzekutiv i task-forcës së Shtëpisë së Bardhë për Kupën e Botës 2026, ka dalë në mbrojtje të presidentit të FIFA-s, Xhani Infantino. Në një intervistë për ‘The Independent’, amerikani i cilësoi kritikat ndaj Infantin",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T20:16:50+00:00",
-      "dateStr": "14 Aug, 20:16",
-      "isNew": true,
-      "id": "24 61786738610"
-    },
-    {
-      "title": "Daniela Avanzini shfaqet me pantallona capri të ulëta, të shkathëta dhe të verdha",
-      "link": "https://24-ore.com/daniela-avanzini-shfaqet-me-pantallona-capri-te-uleta-te-shkatheta-dhe-te-verdha/",
-      "description": "Pantallonat capri po rikthehen si një trend polarizues: modele të shkurtra që i kanë miratuar figura si Hailey Bieber, Olivia Rodrigo, Kendall dhe Kylie Je...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T20:16:09+00:00",
-      "dateStr": "14 Aug, 20:16",
-      "isNew": true,
-      "id": "24 71786738569"
-    },
-    {
-      "title": "BM – Jeff Bezos aksioneri i ri te “Liverpool”",
-      "link": "https://24-ore.com/bm-jeff-bezos-aksioneri-i-ri-te-liverpool/",
-      "description": "LONDËR, 14 gusht /ATSH-DPA/ – Pronarët e ekipit anglez të futbollit “Liverpool” “Fenway Sports Group” (FSG), kanë njoftuar shitjen e një pjese të aksioneve të klubit te një konsorcium investitorësh ku përfshihet edhe themeluesi i “Amazon”, Jeff Bezos. Mësohet se rreth 30% deri në një të tretën e klu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T20:16:09+00:00",
-      "dateStr": "14 Aug, 20:16",
-      "isNew": true,
-      "id": "24 81786738569"
+      "id": "she11786738674"
     },
     {
       "title": "Shkoi për të shuar sherrin e të birit me disa djem, humb jetën tragjikisht 50-vjeçari",
@@ -122,29 +166,18 @@
       "date": "2026-08-14T20:04:48+00:00",
       "dateStr": "14 Aug, 20:04",
       "isNew": true,
-      "id": "she11786737888"
+      "id": "she21786737888"
     },
     {
-      "title": "Novosella rrëfen për letrën e Jusuf Gërvallës nën presionin e UDB-së: Ai ishte një hero i gjallë",
-      "link": "https://24-ore.com/novosella-rrefen-per-letren-e-jusuf-gervalles-nen-presionin-e-udb-se-ai-ishte-nje-hero-i-gjalle/",
-      "description": "Sabri Novosella, në emisionin “Dosje” të RTV Dukagjinit, të udhëhequr nga moderatori i emisionit “Debat Plus”, Ermal Panduri, ka thënë se ilegalistët kosovarë e kanë dashur atdheun me zemër e shpirt dhe se i shikonin gjërat ndryshe krahasuar me shqiptarët e Shqipërisë. “Ne kosovarët e kemi dashur at",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T20:03:42+00:00",
-      "dateStr": "14 Aug, 20:03",
-      "isNew": true,
-      "id": "24 91786737822"
-    },
-    {
-      "title": "Gjermani, rreth dy mijë banorë evakuohen për shkak të zjarreve",
-      "link": "https://abcnews.al/gjermani-rreth-dy-mije-banore-evakuohen-per-shkak-te-zjarreve/",
+      "title": "Gjermani/ 1 800 banorë evakuohen për shkak të zjarreve të fuqishëm",
+      "link": "https://abcnews.al/gjermani-1-800-banore-evakuohen-per-shkak-te-zjarreve-te-fuqishem/",
       "description": "Rreth 1 800 persona janë detyruar të largohen nga shtëpitë e tyre në perëndim të Gjermanisë, pasi një zjarr i fuqishëm pyjor u përhap me shpejtësi pranë zonave të banuara. Zjarri ka përfshirë një zonë pranë qytetit Hurtgenvald, në landin Nordrhein-Uestfalen, afër kufijve me Belgjikën dhe Holandën. F",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-14T19:54:15+00:00",
-      "dateStr": "14 Aug, 19:54",
+      "date": "2026-08-14T20:01:12+00:00",
+      "dateStr": "14 Aug, 20:01",
       "isNew": true,
-      "id": "abc01786737255"
+      "id": "abc21786737672"
     },
     {
       "title": "Evropa rrit ndihmën ushtarake për Ukrainën, por ende varet nga armët amerikane",
@@ -155,18 +188,29 @@
       "date": "2026-08-14T19:22:57+00:00",
       "dateStr": "14 Aug, 19:22",
       "isNew": true,
-      "id": "abc11786735377"
+      "id": "abc31786735377"
     },
     {
-      "title": "Edicioni i “Vajzë Fest”/ Tradita dhe kultura bashkojnë banorët e Selenicës, i pranishëm edhe kryeministri Rama",
+      "title": "Festë në Vajzë të Selenicës/ I pranishëm kryeministri Rama, në aktivitetin special",
       "link": "https://abcnews.al/edicioni-i-vajze-fest-tradita-dhe-kultura-bashkojne-banoret-e-selenices-i-pranishem-edhe-kryeministri-rama/",
-      "description": "SELENICË- Është zhvilluar në fshatin Vajzë të Selenicës edicioni i katërt i “Vajzë Fest”, një aktivitet që tashmë është kthyer në traditë për zonën. Festivali sjell në vëmendje traditën, kulturën, artin, sportin dhe trashëgiminë e kësaj treve. I pranishëm në aktivitet ishte edhe kryeministri Edi Ram",
+      "description": "SELENICË- Në fshatin Vajzë të Selenicës u zhvillua edicioni i katërt i “Vajza Fest”, një aktivitet që tashmë është kthyer në një traditë të bukur dhe të rëndësishme për zonën. Një festë që bashkon traditën, kulturën, artin, sportin dhe trashëgiminë, duke sjellë në vëmendje vlerat dhe pasuritë e kësa",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-08-14T19:17:28+00:00",
       "dateStr": "14 Aug, 19:17",
       "isNew": true,
-      "id": "abc21786735048"
+      "id": "abc41786735048"
+    },
+    {
+      "title": "Edicioni qendror me Juli Krisafi, (14/08/2026)",
+      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-14-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-14T19:00:55+00:00",
+      "dateStr": "14 Aug, 19:00",
+      "isNew": true,
+      "id": "abc51786734055"
     },
     {
       "title": "Tirana Live me Rovena Neziri, (14/08/2026)",
@@ -177,7 +221,7 @@
       "date": "2026-08-14T19:00:33+00:00",
       "dateStr": "14 Aug, 19:00",
       "isNew": true,
-      "id": "abc31786734033"
+      "id": "abc61786734033"
     },
     {
       "title": "Euro “stacionohet” poshtë 93 lekëve, prek minimum të ri historik",
@@ -188,7 +232,7 @@
       "date": "2026-08-14T18:58:06+00:00",
       "dateStr": "14 Aug, 18:58",
       "isNew": true,
-      "id": "she21786733886"
+      "id": "she31786733886"
     },
     {
       "title": "Rrezikuan të mbyteshin në det, shpëtohen 3 persona në Palasë",
@@ -199,7 +243,7 @@
       "date": "2026-08-14T18:50:09+00:00",
       "dateStr": "14 Aug, 18:50",
       "isNew": true,
-      "id": "abc41786733409"
+      "id": "abc71786733409"
     },
     {
       "title": "Babai në burg për vrasjen e Renis Dobrës, arrestohet edhe i biri me kokainë. Tentoi të përplaste policët për të shpëtuar",
@@ -210,7 +254,7 @@
       "date": "2026-08-14T18:38:37+00:00",
       "dateStr": "14 Aug, 18:38",
       "isNew": true,
-      "id": "she31786732717"
+      "id": "she41786732717"
     },
     {
       "title": "Ndjekje e çmendur në bregdetin italian, dy shqiptarë terrorizojnë pushuesit me makinë",
@@ -221,7 +265,7 @@
       "date": "2026-08-14T18:15:57+00:00",
       "dateStr": "14 Aug, 18:15",
       "isNew": true,
-      "id": "she41786731357"
+      "id": "she51786731357"
     },
     {
       "title": "Arrestohet në Astir i dyshuari për trafik droge, në pranga djali i Petrit Çakrit",
@@ -232,7 +276,7 @@
       "date": "2026-08-14T18:00:17+00:00",
       "dateStr": "14 Aug, 18:00",
       "isNew": true,
-      "id": "abc51786730417"
+      "id": "abc81786730417"
     },
     {
       "title": "Kosovë/ Haxhiu mbledh liderët e partive në takim për tejkalimin e krizës politike në Kosovë",
@@ -243,7 +287,7 @@
       "date": "2026-08-14T17:51:59+00:00",
       "dateStr": "14 Aug, 17:51",
       "isNew": true,
-      "id": "abc61786729919"
+      "id": "abc91786729919"
     },
     {
       "title": "Tronditet sistemi i drejtësisë, Prokuroria Speciale arreston gjyqtarin në motel",
@@ -254,7 +298,7 @@
       "date": "2026-08-14T17:46:20+00:00",
       "dateStr": "14 Aug, 17:46",
       "isNew": true,
-      "id": "she51786729580"
+      "id": "she61786729580"
     },
     {
       "title": "Miliona nga Europa për klubet shqiptare, sa kanë fituar Dinamo dhe Egnatia",
@@ -265,18 +309,7 @@
       "date": "2026-08-14T17:34:10+00:00",
       "dateStr": "14 Aug, 17:34",
       "isNew": true,
-      "id": "she61786728850"
-    },
-    {
-      "title": "Vapa ekstreme në Evropë, Belgjika regjistron ditën më të nxehtë të vitit 2026",
-      "link": "https://abcnews.al/vapa-ekstreme-ne-evrope-belgjika-regjistron-diten-me-te-nxehte-te-vitit-2026/",
-      "description": "Belgjika të premten shënoi ditën më të nxehtë të vitit, me temperatura që në Uccle arritën në 35,9 gradë Celsius, raportuan mediat. Uccle, në Rajonin e Brukselit-Kryeqytet, shënoi temperaturën 35,9 gradë në orën 16:20 sipas kohës lokale, duke e bërë të premten ditën më të nxehtë të vitit 2026 në ven",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-14T17:29:27+00:00",
-      "dateStr": "14 Aug, 17:29",
-      "isNew": true,
-      "id": "abc71786728567"
+      "id": "she71786728850"
     },
     {
       "title": "32 alpinistë bllokohen në Mont Blanc, kryebashkiaku u refuzon helikopterin: Të zbresin në këmbë",
@@ -287,29 +320,7 @@
       "date": "2026-08-14T17:16:33+00:00",
       "dateStr": "14 Aug, 17:16",
       "isNew": true,
-      "id": "she71786727793"
-    },
-    {
-      "title": "REL: Spiunazh për BIA-n, çfarë dyshohet se zbuloi Fehim Sali?",
-      "link": "https://abcnews.al/rel-spiunazh-per-bia-n-cfare-dyshohet-se-zbuloi-fehim-sali/",
-      "description": "Gjykata Themelore në Prishtinë ka caktuar masën e paraburgimit prej një muaji ndaj Fehim Salit, i dyshuar për kryerjen e veprës penale të spiunazhit. Gjykata tha se vendosi që Sali të qëndrojë në paraburgim deri më 13 shtator, duke pasur parasysh rrezikun se ai mund të ikë, mund të ndikojë te dëshmi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-14T17:11:31+00:00",
-      "dateStr": "14 Aug, 17:11",
-      "isNew": true,
-      "id": "abc81786727491"
-    },
-    {
-      "title": "Shkatërrohet një rrjet ndërkombëtar mashtrimi bankar në Gjermani",
-      "link": "https://abcnews.al/shkaterrohet-nje-rrjet-nderkombetar-mashtrimi-bankar-ne-gjermani/",
-      "description": "Policia dhe prokurorët  kanë zbuluar një rrjet ndërkombëtar mashtrimi, i cili dyshohet se u ka shkaktuar klientëve të bankave dëme prej miliona eurosh. Pas disa vitesh hetime, autoritetet gjermane, në bashkëpunim me ato braziliane, kanë goditur rrjetin kriminal dhe kanë arrestuar disa persona të dys",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-14T16:59:33+00:00",
-      "dateStr": "14 Aug, 16:59",
-      "isNew": true,
-      "id": "abc91786726773"
+      "id": "she81786727793"
     },
     {
       "title": "Dosja “Aruba”/ Nga dylli i bletës te qymyri, si kamuflohej kokaina për t’u shpërndarë në Europë: Qeni s’ka shans ta kapë",
@@ -320,18 +331,7 @@
       "date": "2026-08-14T16:19:56+00:00",
       "dateStr": "14 Aug, 16:19",
       "isNew": true,
-      "id": "she81786724396"
-    },
-    {
-      "title": "Ndalimi i rrjeteve sociale për fëmijët nën 15-vjeç, Gjykata Kushtetuese kthen pas ligjin",
-      "link": "https://shekulli.com.al/2026/08/14/ndalimi-i-rrjeteve-sociale-per-femijet-nen-15-vjec-gjykata-kushtetuese-kthen-pas-ligjin/",
-      "description": "Franca ka marrë një kthesë të papritur në përpjekjen për të kufizuar përdorimin e rrjeteve sociale nga të miturit. Këshilli Kushtetues francez ka rrëzuar ligjin që ndalonte aksesin në rrjetet sociale për fëmijët nën 15 vjeç, duke vlerësuar se masa cenonte në mënyrë disproporcionale lirinë e shprehje",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-14T15:57:06+00:00",
-      "dateStr": "14 Aug, 15:57",
-      "isNew": true,
-      "id": "she91786723026"
+      "id": "she91786724396"
     }
   ]
 }
