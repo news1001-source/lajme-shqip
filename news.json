@@ -1,8 +1,283 @@
 {
-  "lastUpdated": "2026-08-14T09:55:18.142958+00:00",
+  "lastUpdated": "2026-08-14T10:54:29.975705+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Shqipëria Sot me Fabiola Hoxha, (14/08/2026)",
+      "link": "https://abcnews.al/shqiperia-sot-me-fabiola-hoxha-14-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-14T10:53:08+00:00",
+      "dateStr": "14 Aug, 10:53",
+      "isNew": true,
+      "id": "abc01786704788"
+    },
+    {
+      "title": "Aksidentohet një biçiklist në bulevardin “Bllagoja Toska” në Tetovë",
+      "link": "https://24-ore.com/aksidentohet-nje-biciklist-ne-bulevardin-bllagoja-toska-ne-tetove/",
+      "description": "SPB Tetovë njofton se ka ndodhur një aksident në komunikacion në Tetovë, në të cilën është lënduar një person. &#8220;Më 13.08.2026 në SPB Tetovë është denoncuar se në ora 12:45 në bul. „Bllagoja Toska“ në Tetovë ka ndodhur një aksident komunikacioni mes një automjeti pasagjerësh „Daihatsu“ me targa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T10:51:43+00:00",
+      "dateStr": "14 Aug, 10:51",
+      "isNew": true,
+      "id": "24 01786704703"
+    },
+    {
+      "title": "Uzuni “godet” sërish në Amerikë/ Sulmuesi kuqezi shënon, Austin kalon në çerekfinalet e League Cup",
+      "link": "https://abcnews.al/uzuni-godet-serish-ne-amerike-sulmuesi-kuqezi-shenon-austin-kalon-ne-cerekfinalet-e-league-cup/",
+      "description": "Myrto Uzuni ka konfirmuar formën e shkëlqyert dhe rolin e tij si protagonist në prag të sezonit të ri të Ligës Amerikane të Futbollit. Sulmuesi kuqezi shënoi sërish për Austin, duke ndihmuar skuadrën e tij të kualifikohet në çerekfinalet e Kupë së Ligës. Futbollisti i kombëtares shqiptare shënoi gol",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-14T10:50:46+00:00",
+      "dateStr": "14 Aug, 10:50",
+      "isNew": true,
+      "id": "abc11786704646"
+    },
+    {
+      "title": "Vazhdojnë zjarret në Lurë/ Dy avionë Air Tractor hedhin ujë për shuarjen e flakëve",
+      "link": "https://abcnews.al/vazhdojne-zjarret-ne-lure-dy-avione-air-tractor-hedhin-uje-per-shuarjen-e-flakeve/",
+      "description": "2 avionë air tractor  po  ndërhyjnë  nga ajri duke ndihmuar  zjarrfikësit  nga toka  për shuarjen e flakëve  në parkun kombëtar të Lurës. Pas dy ditësh operacionesh   është arritur të shmanget  rreziku   I flakëve pranë banesave. Megjithkëtë  kjo është vatra më problematike  ku  vijon dhe  angazhimi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-14T10:49:44+00:00",
+      "dateStr": "14 Aug, 10:49",
+      "isNew": true,
+      "id": "abc21786704584"
+    },
+    {
+      "title": "Togeri A.V. u largua nga puna pas 15 rasteve disiplinore, tre prej tyre për postime në rrjete sociale",
+      "link": "https://24-ore.com/togeri-a-v-u-largua-nga-puna-pas-15-rasteve-disiplinore-tre-prej-tyre-per-postime-ne-rrjete-sociale/",
+      "description": "Policia e Kosovës, me qëllim të informimit të drejtë të mediave dhe opinionit të gjerë, përmes kësaj komunikate zyrtare i bënë të ditura veprimet e ndërmarra lidhur me largimin nga puna të togerit policor A.V., me detyrë DHTQNJ në Pejë. Sipas një njoftimi për media thuhet se4 Policia e Kosovës, ësht",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T10:46:50+00:00",
+      "dateStr": "14 Aug, 10:46",
+      "isNew": true,
+      "id": "24 11786704410"
+    },
+    {
+      "title": "Cristiano Ronaldo shfaqet me unazë në stërvitje, shokët e klubit e urojnë për martesën, ‘skuqet’ portugezi",
+      "link": "https://shekulli.com.al/2026/08/14/cristiano-ronaldo-shfaqet-me-unaze-ne-stervitje-shoket-e-klubit-e-urojne-per-martesen-skuqet-portugezi/",
+      "description": "Cristiano Ronaldo është rikthyer në stërvitje me Al Nassr, vetëm pak ditë pasi kurorëzoi martesën me partneren e tij prej vitesh, Georgina Rodriguez. 41-vjeçari u shfaq në ambientet e klubit duke mbajtur në gisht unazën e martesës, ndërsa vëmendjen e tërhoqi edhe pamja e tij e re. Ronaldo kishte ndr",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-14T10:43:06+00:00",
+      "dateStr": "14 Aug, 10:43",
+      "isNew": true,
+      "id": "she01786704186"
+    },
+    {
+      "title": "Kurti për presidentin konsensual: I hapur për bisedime me emra konkretë",
+      "link": "https://24-ore.com/kurti-per-presidentin-konsensual-i-hapur-per-bisedime-me-emra-konkrete/",
+      "description": "Kryeministri në detyrë, Albin Kurti ka përsëritur qëndrimin e Lëvizjes Vetëvendosje se presidenti i ardhshëm i Kosovës duhet të jetë një figurë konsensuale, e mbështetur nga një shumicë sa më e gjerë parlamentare dhe shoqërore. Kurti tha se LVV-ja dëshiron të arrijë marrëveshje me partitë e tjera po",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T10:41:47+00:00",
+      "dateStr": "14 Aug, 10:41",
+      "isNew": true,
+      "id": "24 21786704107"
+    },
+    {
+      "title": "Nikolloski: Për transportuesit tanë kemi marrëveshje me Kroacinë, Zvicrën dhe Rumaninë",
+      "link": "https://24-ore.com/nikolloski-per-transportuesit-tane-kemi-marreveshje-me-kroacine-zvicren-dhe-rumanine/",
+      "description": "Qeveria dhe Ministria e Transportit vazhdojnë të punojnë për gjetjen e zgjidhjeve për problemet me të cilat përballen transportuesit nga Maqedonia për shkak të zbatimit të sistemit “EES” (Entry/Exit System) në Bashkimin Evropian, deklaroi sot zëvendëskryeministri dhe ministri i Transportit, Aleksand",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T10:36:59+00:00",
+      "dateStr": "14 Aug, 10:36",
+      "isNew": true,
+      "id": "24 31786703819"
+    },
+    {
+      "title": "Mblidhet Këshilli Bashkiak i Selenicës, Bellaj kundër bashkimit me Vlorën: Duhet të mbetemi të pavarur",
+      "link": "https://24-ore.com/mblidhet-keshilli-bashkiak-i-selenices-bellaj-kunder-bashkimit-me-vloren-duhet-te-mbetemi-te-pavarur/",
+      "description": "Këshilli Bashkiak i Selenicës është mbledhur në një seancë të jashtëzakonshme, ku në fokus të diskutimeve ka qenë projekti për bashkimin e Bashkisë së Selenicës me Bashkinë e Vlorës. Gjatë mbledhjes, kryetari i Bashkisë Selenicë, Nertil Bellaj, ka shprehur kundërshtimin e tij ndaj kësaj nisme, duke ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T10:31:47+00:00",
+      "dateStr": "14 Aug, 10:31",
+      "isNew": true,
+      "id": "24 41786703507"
+    },
+    {
+      "title": "Vetëm 6% e të papunëve punësohen me pagë në 3-muaj, Shqipëria e fundit në Europë",
+      "link": "https://shekulli.com.al/2026/08/14/vetem-6-e-te-papuneve-punesohen-me-page-ne-3-muaj-shqiperia-e-fundit-ne-europe/",
+      "description": "Kalimi drejt një vendi pune me pagë mbetet një mision i vështirë në Shqipëri, veçanërisht për personat e papunë ose të angazhuar në vetëpunësim. Të dhënat e Bankës Botërore e vendosin vendin tonë në grupin e ekonomive me norma relativisht të ulëta të gjetjes së punës, dukshëm pas shumicës së vendeve",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-14T10:29:05+00:00",
+      "dateStr": "14 Aug, 10:29",
+      "isNew": true,
+      "id": "she11786703345"
+    },
+    {
+      "title": "U zunë për pronën dhe nxori armën ndaj vëllait, arrestohet 47-vjeçari në Vlorë",
+      "link": "https://shekulli.com.al/2026/08/14/u-zune-per-pronen-dhe-nxori-armen-ndaj-vellait-arrestohet-47-vjecari-ne-vlore/",
+      "description": "Një konflikt për çështje pronësie mes dy vëllezërve në Vlorë ka përfunduar me ndërhyrjen e policisë dhe arrestimin e njërit prej tyre. Ngjarja ka ndodhur mëngjesin e 14 gushtit, kur 47-vjeçari dyshohet se ka kanosur me armë zjarri vëllain e tij gjatë një konflikti të lindur për motive pronësie. Sipa",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-14T10:24:00+00:00",
+      "dateStr": "14 Aug, 10:24",
+      "isNew": true,
+      "id": "she21786703040"
+    },
+    {
+      "title": "Tjetër humbje për Infantino/ Shtohen Federatat që tërheqin mbështetjen për rizgjedhjen e tij",
+      "link": "https://abcnews.al/tjeter-humbje-per-infantino-shtohen-federatat-qe-terheqin-mbeshtetjen-per-rizgjedhjen-e-tij/",
+      "description": "Presidenti i FIFA, Gianni Infantino vazhdon të humbasë mbështetjen e familjes botërore të futbollit. Federata e Zelandës së Re ka njoftuar tërheqjen e mbështetjes për rizgjedhjen e tij si dhe ka kërkuar një shqyrtim të pavarur të planit, tashmë të braktisur për t&#8217;ia hapur dyert e FIFA-s invest",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-14T10:23:43+00:00",
+      "dateStr": "14 Aug, 10:23",
+      "isNew": true,
+      "id": "abc31786703023"
+    },
+    {
+      "title": "SHBA nuk heq bllokadën në Hormuz/ Washingtoni vijon presionin ekonomik ndaj Teheranit",
+      "link": "https://abcnews.al/shba-nuk-heq-bllokaden-ne-hormuz-washingtoni-vijon-presionin-ekonomik-ndaj-teheranit/",
+      "description": "Shtetet e Bashkuara kanë paralajmëruar se mund të vijojnë të mbajnë pa afat përfundimtar bllokadën detare ndaj Iranit, me Washingtonin që kërkon të shtojë presionin ekonomik ndaj Teheranit, në një kohë kur negociatat për armëpushim kanë ngecur, furnizimet globale me naftë po bien dhe tensionet në Li",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-14T10:18:59+00:00",
+      "dateStr": "14 Aug, 10:18",
+      "isNew": true,
+      "id": "abc41786702739"
+    },
+    {
+      "title": "Je thjesht në ankth apo ke një çrregullim ankthi? Ja ku qëndron ndryshimi",
+      "link": "https://24-ore.com/je-thjesht-ne-ankth-apo-ke-nje-crregullim-ankthi-ja-ku-qendron-ndryshimi/",
+      "description": "Të ndihesh në ankth është një reagim krejt normal ndaj stresit dhe jo gjithmonë është diçka e keqe. Por kur shqetësimi bëhet i pakontrollueshëm, i tepruar dhe fillon të ndikojë në cilësinë e jetës, mund të jetë shenjë e një çrregullimi ankthi. Të kuptuarit e ndryshimit mes ankthit të zakonshëm dhe n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T10:18:23+00:00",
+      "dateStr": "14 Aug, 10:18",
+      "isNew": true,
+      "id": "24 51786702703"
+    },
+    {
+      "title": "Hamza: Kurti i ka numrat për konstituim – por ai nuk do bashkëpunim, partneritet, por nënshtrim",
+      "link": "https://24-ore.com/hamza-kurti-i-ka-numrat-per-konstituim-por-ai-nuk-do-bashkepunim-partneritet-por-nenshtrim/",
+      "description": "Kryetari i PDK-së, Bedri Hamza ka deklaruar se partia e tij nuk ka pasur vija të kuqe ndaj asnjë subjekti politik dhe se ka qenë e gatshme për bashkëpunim, përfshirë edhe bashkëpunimin qeverisës. Në një konferencë për media, Hamza tha se takimet e zhvilluara deri më tani nuk kanë prodhuar rezultate ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T10:16:46+00:00",
+      "dateStr": "14 Aug, 10:16",
+      "isNew": true,
+      "id": "24 61786702606"
+    },
+    {
+      "title": "Më pak familje me ndihmë ekonomike/ Gjirokastër, turizmi ka rritur numrin e të punësuarve",
+      "link": "https://abcnews.al/me-pak-familje-me-ndihme-ekonomike-gjirokaster-turizmi-ka-rritur-numrin-e-te-punesuarve/",
+      "description": "Turizmi në Gjirokastër ka rritur punësimin. Shumë persona kanë nisur punë në biznese që ushtrojnë aktivitetin kryesisht gjatë verës. Kjo ka ndikur dhe në rënien e familjeve të cilat mbështeten me ndihmë ekonomike. Ne këtë qark përfitojnë ketë pagesë 573 familje. Shërbimi social shtetërore bashkëpuno",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-14T10:16:35+00:00",
+      "dateStr": "14 Aug, 10:16",
+      "isNew": true,
+      "id": "abc51786702595"
+    },
+    {
+      "title": "“Kuptova sa shumë më do Zoti, kur më solli ty”, Selin emocionon me urimin e saj për Gimbon",
+      "link": "https://shekulli.com.al/2026/08/14/kuptova-sa-shume-me-do-zoti-kur-me-solli-ty-selin-emocionon-me-urimin-e-saj-per-gimbon/",
+      "description": "Fituesja e këtij edicioni të Big Brother, Selin, ka zgjedhur një dedikim të veçantë dhe plot emocione për partnerin e saj, Gimbon, me rastin e ditëlindjes së tij. Përmes një postimi në rrjetet sociale, ajo ka ndarë me ndjekësit disa momente të tyre së bashku, duke shoqëruar fotot me një mesazh të nd",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-14T10:13:50+00:00",
+      "dateStr": "14 Aug, 10:13",
+      "isNew": true,
+      "id": "she31786702430"
+    },
+    {
+      "title": "Pezullohet transferimi i Frattesi nga Inter te Lazio, Lega nuk ka dhënë miratimin",
+      "link": "https://24-ore.com/pezullohet-transferimi-i-frattesi-nga-inter-te-lazio-lega-nuk-ka-dhene-miratimin/",
+      "description": "Mesfushori duhej të largohej nga Milano mëngjesin e sotëm, por është ende në Appiano, për shkak të disa pengesave buroktratike. Frenim i papritur në bisedimet mes Inter dhe Lazio për mesfushorin Davide Frattesi. Lojtari duhej të ishte larguar nga Milano sot në mëngjes, por Lega nuk ka dhënë “ok”-in ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T10:12:20+00:00",
+      "dateStr": "14 Aug, 10:12",
+      "isNew": true,
+      "id": "24 71786702340"
+    },
+    {
+      "title": "FSHF prezanton spanjollin Bernardino González Vázquez si drejtorin e departamentit të arbitrimit",
+      "link": "https://24-ore.com/fshf-prezanton-spanjollin-bernardino-gonzalez-vazquez-si-drejtorin-e-departamentit-te-arbitrimit/",
+      "description": "Federata Shqiptare e Futbollit ka prezantuar sot zyrtarisht Bernardino González Vázquez si Drejtorin e ri të Departamentit të Arbitrimit. Ceremonia u zhvillua me pjesëmarrjen e Zv.presidentit të FSHF-së, Geri Çipi, dhe Kryetarit të Bashkimit të Arbitrave Shqiptarë të Futbollit, Tahir Kastrati. Emëri",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T10:12:01+00:00",
+      "dateStr": "14 Aug, 10:12",
+      "isNew": true,
+      "id": "24 81786702321"
+    },
+    {
+      "title": "Mandisa Çota rrëfen diskriminimin në Greqi: Pse, se jam nga Shqipëria, duhet të paguhem më pak?",
+      "link": "https://shekulli.com.al/2026/08/14/mandisa-cota-rrefen-diskriminimin-ne-greqi-pse-se-jam-nga-shqiperia-duhet-te-paguhem-me-pak/",
+      "description": "GREQI- Mandisa Çota, vajza shqiptare që spikati me talentin e saj në “Survivor Greece”, ka rrëfyer publikisht përvojat e vështira me racizmin dhe diskriminimin që, sipas saj, ka përjetuar për shkak të origjinës shqiptare. Gjatë një emisioni televiziv në Greqi, Çota tregoi se përballjet me paragjykim",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-14T10:09:56+00:00",
+      "dateStr": "14 Aug, 10:09",
+      "isNew": true,
+      "id": "she41786702196"
+    },
+    {
+      "title": "Dinamo jeton “ëndrrën” europiane/ Skuadra e Dajës mund 4-0 Auda, siguron play off e Conference League",
+      "link": "https://abcnews.al/dinamo-jeton-endrren-europiane-skuadra-e-dajes-mund-4-0-auda-siguron-play-off-e-conference-league/",
+      "description": "Dinamo City vijon aventurën e saj në Kupat e Europës, ndërsa është vetëm një hap larg kualifikimit për herë të parë në grupet e Konference League. Skuadra e drejtuar nga Ilir Daja jetoi një sfidë magjike, duke mundur 4-0 Auda, pas humbjes 1-0 në transfertën letoneze. Sfida e luajtur në “Elbasan Aren",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-14T10:08:57+00:00",
+      "dateStr": "14 Aug, 10:08",
+      "isNew": true,
+      "id": "abc61786702137"
+    },
+    {
+      "title": "Shëngjin, shtohen turistët/ Plazhe të pastra dhe me siguri për pushuesit",
+      "link": "https://abcnews.al/shengjin-shtohen-turistet-plazhe-te-pastra-dhe-me-siguri-per-pushuesit/",
+      "description": "Pastërtia, çmimet e përshtatshme dhe hapësirat e konsiderueshme publike e kanë kthyer plazhin e Shëngjinit në bregdetin e pëlqyer të shumë personave. Mesi i gushtit ka shtuar numrin e pushuesve në këtë bregdet. Shqiptarët e Kosovës janë ata që dominojnë, por këtë sezon është rritur dhe numri i vizit",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-14T10:06:56+00:00",
+      "dateStr": "14 Aug, 10:06",
+      "isNew": true,
+      "id": "abc71786702016"
+    },
+    {
+      "title": "MPJ: Pesë familje nga Maqedonia kanë kërkuar ndihmë për evakuim nga zonat e përfshira nga zjarret në Greqi",
+      "link": "https://24-ore.com/mpj-pese-familje-nga-maqedonia-kane-kerkuar-ndihme-per-evakuim-nga-zonat-e-perfshira-nga-zjarret-ne-greqi/",
+      "description": "Deri në këtë moment, gjithsej pesë familje nga Maqedonia kanë kërkuar ndihmë ose asistencë për evakuim nga zonat e përfshira nga zjarret në Greqi, sipas informacioneve nga përfaqësia diplomatike-konsullore në Selanik, njofton Ministria e Punëve të Jashtme dhe Tregtisë së Jashtme. Në koordinim me aut",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-14T10:06:48+00:00",
+      "dateStr": "14 Aug, 10:06",
+      "isNew": true,
+      "id": "24 91786702008"
+    },
+    {
+      "title": "Qiratë e papërballueshme po “përzënë” familjet e reja nga Tirana",
+      "link": "https://shekulli.com.al/2026/08/14/qirate-e-paperballueshme-po-perzene-familjet-e-reja-nga-tirana/",
+      "description": "Tirana po bëhet gjithnjë e më e shtrenjtë për familjet që kërkojnë të jetojnë me qira. Çmimet e banesave kanë vijuar rritjen gjatë vitit 2026, duke e bërë strehimin një nga kostot më të rënda për familjet e reja. Sipas të dhënave të publikuara nga Revista Monitor, në fillim të korrikut çmimi mesatar",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-14T10:01:47+00:00",
+      "dateStr": "14 Aug, 10:01",
+      "isNew": true,
+      "id": "she51786701707"
+    },
+    {
+      "title": "Videoja që po bën xhiron e rrjetit para dorëheqjes së Leavitt, rikthehet debati për “arratisjen” e Trump nga Air Force One",
+      "link": "https://shekulli.com.al/2026/08/14/videoja-qe-po-ben-xhiron-e-rrjetit-para-doreheqjes-se-leavitt-rikthehet-debati-per-arratisjen-e-trump-nga-air-force-one/",
+      "description": "Një video e publikuar në rrjetet sociale ka rikthyer vëmendjen te marrëdhënia mes Presidentit amerikan Donald Trump dhe zëdhënëses së Shtëpisë së Bardhë, Karoline Leavitt, vetëm pak orë para njoftimit të saj se do të largohet nga detyra. Leavitt njoftoi se do të japë dorëheqjen nga posti në fund të ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-14T09:56:00+00:00",
+      "dateStr": "14 Aug, 09:56",
+      "isNew": true,
+      "id": "she61786701360"
+    },
     {
       "title": "‘Nuk rri më të laj brekët e të tjerëve’, Kryemadhi flet hapur për një lidhje të re: Asnjë burrë s’ka gatuar për mua…",
       "link": "https://shekulli.com.al/2026/08/14/nuk-rri-me-te-laj-breket-e-te-tjereve-kryemadhi-flet-hapur-per-nje-lidhje-te-re-asnje-burre-ska-gatuar-per-mua/",
@@ -12,29 +287,7 @@
       "date": "2026-08-14T09:53:29+00:00",
       "dateStr": "14 Aug, 09:53",
       "isNew": true,
-      "id": "she01786701209"
-    },
-    {
-      "title": "Nga dita e hënë, tërheqja e dokumentit të shtetësisë bëhet në objektin e Agjencisë së Regjistrimit Civil",
-      "link": "https://24-ore.com/nga-dita-e-hene-terheqja-e-dokumentit-te-shtetesise-behet-ne-objektin-e-agjencise-se-regjistrimit-civil/",
-      "description": "Ministria e Punëve të Brendshme i njofton të gjithë qytetarët e Republikës së Kosovës se, nga dita e hënë, 17.08.2026, do të ndryshohet lokacioni i zyrës për pranimin e vendimeve për fitim, ri-fitim dhe humbje të shtetësisë me lirim. Zyra do të vendoset në objektin e Agjencisë për Regjistrim Civil, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T09:52:15+00:00",
-      "dateStr": "14 Aug, 09:52",
-      "isNew": true,
-      "id": "24 01786701135"
-    },
-    {
-      "title": "Ramadani nga Kuvendi: Vakuumi institucional po e rrezikon sigurinë kombëtare",
-      "link": "https://24-ore.com/ramadani-nga-kuvendi-vakuumi-institucional-po-e-rrezikon-sigurine-kombetare/",
-      "description": "Deputeti i Aleancës, Burim Ramadani ka deklaruar se vakuumi institucional përbën rrezik për sigurinë kombëtare të Kosovës. Nga salla e Kuvendit, Ramadani i bëri thirrje Lëvizjes Vetëvendosje (LVV), si subjekt fitues i zgjedhjeve të 7 qershorit, që të thërrasë seancën konstituive, me qëllim funksiona",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T09:52:02+00:00",
-      "dateStr": "14 Aug, 09:52",
-      "isNew": true,
-      "id": "24 11786701122"
+      "id": "she71786701209"
     },
     {
       "title": "“Momenti” çon në pranga dy persona, të rinjtë po shkëmbenin kokainën mes tyre, policia i kap në flagrancë",
@@ -45,7 +298,7 @@
       "date": "2026-08-14T09:51:34+00:00",
       "dateStr": "14 Aug, 09:51",
       "isNew": true,
-      "id": "she11786701094"
+      "id": "she81786701094"
     },
     {
       "title": "Shqipëria mban ende të forta lidhjet familjare, 24,6 % e popullsisë takohet përditë me familjen",
@@ -56,40 +309,7 @@
       "date": "2026-08-14T09:48:40+00:00",
       "dateStr": "14 Aug, 09:48",
       "isNew": true,
-      "id": "she21786700920"
-    },
-    {
-      "title": "Tiranë/ “Momenti” godet dy të rinjtë, kapen në flagrancë gjatë shitblerjes së drogës",
-      "link": "https://24-ore.com/tirane-momenti-godet-dy-te-rinjte-kapen-ne-flagrance-gjate-shitblerjes-se-droges/",
-      "description": "Goditet një rast i shitblerjes së drogave të forta në kryeqytet. Në kuadër të operacionit të koduar “Momenti”, policia ka arrestuar në flagrancë 2 të rinj gjatë momentit të shitblerjes së drogës. Një prej të arrestuarve, 19-vjeçari D. Sh u kap në flagrancë në rrugën “Egnatia”, duke i dorëzuar 26-vje",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T09:47:09+00:00",
-      "dateStr": "14 Aug, 09:47",
-      "isNew": true,
-      "id": "24 21786700829"
-    },
-    {
-      "title": "FOKUS – Zjarri në jugperëndim të Francës përhapet në 2.700 hektarë, evakuohen banorët",
-      "link": "https://24-ore.com/fokus-zjarri-ne-jugperendim-te-frances-perhapet-ne-2-700-hektare-evakuohen-banoret/",
-      "description": "PARIS, 14 gusht /ATSH -AA/ – Zjarri që shpërtheu në departamentin jugperëndimor të Landes në Francë ka djegur 1.100 hektarë, duke shkaktuar evakuimin e rreth 500 njerëzve, njoftoi sot transmetuesi BFMTV. Prefektura e Landes tha se zjarri, i cili shpërtheu të enjten, ishte përhapur në 1.100 hektarë n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T09:46:04+00:00",
-      "dateStr": "14 Aug, 09:46",
-      "isNew": true,
-      "id": "24 31786700764"
-    },
-    {
-      "title": "Si në filma/ Kili transferon drejt burgut të sigurisë së lartë 9 kapot më të rrezikshëm të bandave, mes tyre shqiptari Viktor Gjini",
-      "link": "https://shekulli.com.al/2026/08/14/si-ne-filma-kili-transferon-drejt-burgut-te-sigurise-se-larte-9-kapot-me-te-rrezikshem-te-bandave-mes-tyre-shqiptari-viktor-gjini/",
-      "description": "Autoritetet kiliane kanë zhvilluar një operacion të posaçëm sigurie për transferimin e nëntë prej të burgosurve më të rrezikshëm të vendit drejt burgut të sigurisë së lartë La Laguna, në Talca. Mes tyre është edhe shqiptari Viktor Gjini, i dënuar në Kili për trafik ndërkombëtar droge. Operacioni, i ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-14T09:44:54+00:00",
-      "dateStr": "14 Aug, 09:44",
-      "isNew": true,
-      "id": "she31786700694"
+      "id": "she91786700920"
     },
     {
       "title": "OKB: Korriku, muaji më vdekjeprurës për civilët në Ukrainë",
@@ -100,7 +320,7 @@
       "date": "2026-08-14T09:44:39+00:00",
       "dateStr": "14 Aug, 09:44",
       "isNew": true,
-      "id": "abc01786700679"
+      "id": "abc81786700679"
     },
     {
       "title": "Skenë filmash në Kroaci/ Shtëpi, automjete dhe varka digjen nga zjarret",
@@ -111,227 +331,7 @@
       "date": "2026-08-14T09:42:00+00:00",
       "dateStr": "14 Aug, 09:42",
       "isNew": true,
-      "id": "abc11786700520"
-    },
-    {
-      "title": "LSDM ngriti kallëzim kundër oficerëve të policisë dhe Manasievskit: Sekretet zyrtare përfunduan në OBRM-PDUKM",
-      "link": "https://24-ore.com/lsdm-ngriti-kallezim-kunder-oficereve-te-policise-dhe-manasievskit-sekretet-zyrtare-perfunduan-ne-obrm-pdukm/",
-      "description": "Kanë kaluar 9 ditë nga sulmi ndaj aktivistëve të rinj në Novo Selo dhe deri më tani askush nuk është thirrur për t&#8217;u marrë në pyetje, nuk ka hetim, nuk ka asgjë, thuhet në kumtesën e sotme të LSDM-së. Qeveria i mbron autorët, Prokuroria Publike hesht, Ministria e Brendshme hesht. Së pari i sul",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T09:41:48+00:00",
-      "dateStr": "14 Aug, 09:41",
-      "isNew": true,
-      "id": "24 41786700508"
-    },
-    {
-      "title": "Gati 40 vite në Universitetin e Elbasanit, ndahet nga jeta profesori Albert Riska, vlerë e shtuar për gjuhësinë",
-      "link": "https://shekulli.com.al/2026/08/14/gati-40-vite-ne-universitetin-e-elbasanit-ndahet-nga-jeta-profesori-albert-riska-vlere-e-shtuar-per-gjuhesine/",
-      "description": "Ndahet nga jeta profesori i Universitetit të Elbasanit, Albert Riska.&#160; Lajmi është bërë i ditur nga Universiteti i Elbasanit, i cili shpreh ngushëllimet për familjen, të afërmit, kolegët, studentët dhe të gjithë ata që e njohën profesorin. Albert Riska kishte një karrierë të gjatë akademike pra",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-14T09:39:06+00:00",
-      "dateStr": "14 Aug, 09:39",
-      "isNew": true,
-      "id": "she41786700346"
-    },
-    {
-      "title": "Deputetët e PDK-së nga salla e Kuvendit, Hamza deputetëve të LVV-së: I ftoj nga këtu ta konstituojmë Kuvendin",
-      "link": "https://24-ore.com/deputetet-e-pdk-se-nga-salla-e-kuvendit-hamza-deputeteve-te-lvv-se-i-ftoj-nga-ketu-ta-konstituojme-kuvendin/",
-      "description": "Kryetari i Partisë Demokratike të Kosovës (PDK), Bedri Hamza ka kërkuar nga foltorja e Kuvendit të Kosovës që të thirret seanca konstituive, duke deklaruar se tashmë janë tejkaluar të gjitha afatet kushtetuese për konstituimin e Kuvendit. Hamza, i cili ka folur para deputetëve të PDK-së dhe Aleancës",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T09:32:15+00:00",
-      "dateStr": "14 Aug, 09:32",
-      "isNew": true,
-      "id": "24 51786699935"
-    },
-    {
-      "title": "Elite Youth Academy në Abissnet Superiore U-16 dhe U-17, trajneri Dama: Hap i rëndësishëm për talentet",
-      "link": "https://24-ore.com/elite-youth-academy-ne-abissnet-superiore-u-16-dhe-u-17-trajneri-dama-hap-i-rendesishem-per-talentet/",
-      "description": "Komiteti Ekzekutiv i Federatës Shqiptare të Futbollit ka miratuar pjesëmarrjen e Elite Youth Academy në kampionatet Abissnet Superiore U-16 dhe U-17 për dy sezonet sportive 2026–2027 dhe 2027–2028. Vendimi është pjesë e strategjisë së FSHF-së për zhvillimin e futbollit të moshave dhe krijimin e një ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T09:31:55+00:00",
-      "dateStr": "14 Aug, 09:31",
-      "isNew": true,
-      "id": "24 61786699915"
-    },
-    {
-      "title": "Miti i mërgimtarit si daja nga Amerika",
-      "link": "https://24-ore.com/miti-i-mergimtarit-si-daja-nga-amerika/",
-      "description": "Nga Frrok Çupi Daja i kishte torturuar një jetë të tërë me arratisjen në Amerikë. Megjithatë, ishin ç’ishin nga soj e sorollopi, mbanin një vesh nga Zëri i Amerikës dhe një sy nga Oqeani. Kishin dëgjuar se vendi atje përtej kishte shumë mall e pasuri; daja kur të vinte një ditë, do të vinte i [&#823",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T09:30:16+00:00",
-      "dateStr": "14 Aug, 09:30",
-      "isNew": true,
-      "id": "24 71786699816"
-    },
-    {
-      "title": "Diplomojnë 100 zyrtarë të rinj korrektues, Kurti: Kosova ka nevojë për ta dhe pret shumë prej tyre",
-      "link": "https://24-ore.com/diplomojne-100-zyrtare-te-rinj-korrektues-kurti-kosova-ka-nevoje-per-ta-dhe-pret-shume-prej-tyre/",
-      "description": "Kryeministri në detyrë, Albin Kurti, ka ndarë diplomat për 100 kadetët e rinj të Shërbimit Korrektues të Kosovës, të cilët diplomuan sot, pas 23 javësh trajnime. Kurti në fjalën e tij u tha 100 kadetëve të rinj se të jesh zyrtar korrektues është përgjegjësi e madhe, e cila kërkon disiplinë, integrit",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T09:19:35+00:00",
-      "dateStr": "14 Aug, 09:19",
-      "isNew": true,
-      "id": "24 81786699175"
-    },
-    {
-      "title": "Dhuna në familje zbulon arsenalin e fshehur, 2 në pranga në Lezhë e Kurbin! Gjenden 5 kallëpë tritoli",
-      "link": "https://24-ore.com/dhuna-ne-familje-zbulon-arsenalin-e-fshehur-2-ne-pranga-ne-lezhe-e-kurbin-gjenden-5-kallepe-tritoli/",
-      "description": "Dy persona janë vënë në pranga në Lezhë dhe Kurbin, pasi dyshohet se kanë ushtruar dhunë ndaj familjarëve të tyre, ndërsa gjatë kontrolleve në banesat e tyre Policia gjeti armë zjarri, municion luftarak dhe lëndë plasëse. Sipas njoftimit të Policisë së Shtetit këtë të premte, në Lezhë u arrestua në ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-14T09:19:22+00:00",
-      "dateStr": "14 Aug, 09:19",
-      "isNew": true,
-      "id": "24 91786699162"
-    },
-    {
-      "title": "Mbyllet para kohe ekspozita në Salzburg/Zhduken mbi 200 statuja të Mozartit",
-      "link": "https://abcnews.al/mbyllet-para-kohe-ekspozita-ne-salzburg-zhduken-mbi-200-statuja-te-mozartit/",
-      "description": "Një ekspozitë kushtuar Wolfgang Amadeus Mozartit në Salzburg është mbyllur para kohe, pasi 210 skulptura të vogla të kompozitorit të famshëm u vodhën nga kopshti Mirabell. Ekspozita e artistit gjerman Otmar Hörl përfshinte rreth 320 skulptura të praruara të Mozartit, të vendosura në disa zona të qyt",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-14T09:17:39+00:00",
-      "dateStr": "14 Aug, 09:17",
-      "isNew": true,
-      "id": "abc21786699059"
-    },
-    {
-      "title": "Breaking News me Fabiola Hoxha, (14/08/2026)",
-      "link": "https://abcnews.al/breaking-news-me-fabiola-hoxha-14-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-14T09:01:00+00:00",
-      "dateStr": "14 Aug, 09:01",
-      "isNew": true,
-      "id": "abc31786698060"
-    },
-    {
-      "title": "Shisnin kokainë, pranga dy të rinjve në Tiranë",
-      "link": "https://abcnews.al/shisnin-kokaine-pranga-dy-te-rinjve-ne-tirane/",
-      "description": "Një operacion antidrogë i koduar “Momenti” është finalizuar nga specialistët e Seksionit për Hetimin e Narkotikëve, duke goditur një rast të shitblerjes së lëndëve narkotike. Në kuadër të operacionit, janë arrestuar në flagrancë dy shtetas, D. Sh., 19 vjeç, dhe D. F., 26 vjeç, të dy të përfshirë dys",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-14T08:55:32+00:00",
-      "dateStr": "14 Aug, 08:55",
-      "isNew": true,
-      "id": "abc41786697732"
-    },
-    {
-      "title": "Maroku heq vizat për shtetasit shqiptarë, vendimi hyn në fuqi më 15 gusht",
-      "link": "https://abcnews.al/maroku-heq-vizat-per-shtetasit-shqiptare-vendimi-hyn-ne-fuqi-me-15-gusht/",
-      "description": "Shtetasit shqiptarë do të mund të udhëtojnë drejt Marokut pa vizë për qëndrime afatshkurtra. Autoritetet kompetente të Mbretërisë së Marokut kanë vendosur heqjen e regjimit të vizave për shtetasit shqiptarë që udhëtojnë për qëndrime afatshkurtra. Vendimi hyn në fuqi më 15 gusht 2026. Lajmi është bër",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-14T08:53:36+00:00",
-      "dateStr": "14 Aug, 08:53",
-      "isNew": true,
-      "id": "abc51786697616"
-    },
-    {
-      "title": "Aksident i rëndë hekurudhor në Angli, treni me 150 pasagjerë del nga shinat",
-      "link": "https://abcnews.al/aksident-i-rende-hekurudhor-ne-angli-treni-me-150-pasagjere-del-nga-shinat/",
-      "description": "Të paktën 18 persona janë plagosur, dy prej tyre në gjendje të rëndë, pasi një tren pasagjerësh doli nga shinat në jug të Anglisë, pranë qytetit Lewes. Treni, i cili udhëtonte nga stacioni London Victoria drejt Eastbourne, doli nga shinat të enjten. Tre vagonët e fundit u përmbysën në njërën anë, du",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-14T08:50:18+00:00",
-      "dateStr": "14 Aug, 08:50",
-      "isNew": true,
-      "id": "abc61786697418"
-    },
-    {
-      "title": "“Reshje të paprecedenta” në Japoni, gjashtë viktima",
-      "link": "https://abcnews.al/reshje-te-paprecedenta-ne-japoni-gjashte-viktima/",
-      "description": "Të paktën gjashtë persona kanë humbur jetën dhe pesë të tjerë janë plagosur në lindje të Japonisë, pasi reshje rekord goditën prefekturën Chiba, pranë Tokios.  Autoritetet i kanë cilësuar reshjet si “të paprecedenta”. Më shumë se 20 mijë familje mbetën pa energji elektrike, ndërsa rreth 7 mijë udhët",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-14T08:32:35+00:00",
-      "dateStr": "14 Aug, 08:32",
-      "isNew": true,
-      "id": "abc71786696355"
-    },
-    {
-      "title": "Elon Musk u pagua me shifra marramendëse nga Tesla/ 2.5 milionë herë më shumë se punonjësi mesatar në vitin 2025",
-      "link": "https://abcnews.al/elon-musk-u-pagua-me-shifra-marramendese-nga-tesla-2-5-milione-here-me-shume-se-punonjesi-mesatar-ne-vitin-2025/",
-      "description": "Elon Musk mori në vitin 2025 një kompensim nga Tesla rreth 2.5 milionë herë më të madh se ai i punonjësit mesatar të kompanisë, sipas një raporti të AFL-CIO. Paketa e tij prej 158.3 miliardë dollarësh ka ndikuar ndjeshëm në hendekun mes pagave të drejtuesve të korporatave dhe punëtorëve në SHBA. Rap",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-14T08:18:54+00:00",
-      "dateStr": "14 Aug, 08:18",
-      "isNew": true,
-      "id": "abc81786695534"
-    },
-    {
-      "title": "Vijojnë flakët në Selitë/ Vatra e vetme në rrethinat e Tiranës, vazhdon ndërhyrja nga ajri",
-      "link": "https://abcnews.al/vijojne-flaket-ne-selite-vatra-e-vetme-ne-rrethinat-e-tiranes-vazhdon-nderhyrja-nga-ajri/",
-      "description": "Situata e zjarreve në Tiranë paraqitet e qetë, përveç një vatre në zonën e Selitës me shtrirje në Dajt. Aktualisht, po punohet nga ajri me 2 helikopterë, pasi nga rruga është e pamundur të afrohen forcat zjarrfikëse për shkak të terrenit të vështirë. Edhe pse është e vetmja vatër zjarri në rrethinat",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-14T08:08:04+00:00",
-      "dateStr": "14 Aug, 08:08",
-      "isNew": true,
-      "id": "abc91786694884"
-    },
-    {
-      "title": "Rama i bëri për ‘ujë të ftohtë’ kundërshtarët e Reformës, Maliqi i del kundër, kreu i PS kalon në anën e qytetarëve",
-      "link": "https://shekulli.com.al/2026/08/13/rama-i-beri-per-uje-te-ftohte-kundershtaret-e-reformes-maliqi-i-del-kunder-kreu-i-ps-kalon-ne-anen-e-qytetareve/",
-      "description": "Pavarësisht vendosmërisë së kryeministrit Edi Rama, për të çuar përpara draftin e socialistëve për Reformën Territoriale, kundërshtinë në bashkitë që preken nga shkrirja kanë vijuar edhe sot. Kryetari i PS-së së Maliqit, Ornid Demollari, është shprehur publikisht kundër projektit për shkrirjen e bas",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T14:51:10+00:00",
-      "dateStr": "13 Aug, 14:51",
-      "isNew": true,
-      "id": "she51786632670"
-    },
-    {
-      "title": "Pamje të frikshme, shpërthen fabrika e municioneve në Itali, flakët e fuqishme pushtojnë zonën",
-      "link": "https://shekulli.com.al/2026/08/13/pamje-te-frikshme-shperthen-fabrika-e-municioneve-ne-itali-flaket-e-fuqishme-pushtojne-zonen/",
-      "description": "ITALI- Një shpërthim i fuqishëm ka tronditur këtë pasdite zonën e Colleferros, në provincën e Romës, pas një incidenti të regjistruar në një fabrikë municionesh. Ngjarja ndodhi në uzinën e ish-Simmel Difesa, sot pjesë e grupit KNDS Ammo Italy, e specializuar në prodhimin e municioneve të kalibrave t",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T14:30:33+00:00",
-      "dateStr": "13 Aug, 14:30",
-      "isNew": true,
-      "id": "she61786631433"
-    },
-    {
-      "title": "Arrestimi i mësueses turke në Shqipëri jehonë në mediat franceze, flasin familjarët: Nëse ekstradohet nuk do e shohim më",
-      "link": "https://shekulli.com.al/2026/08/13/arrestimi-i-mesueses-turke-ne-shqiperi-jehone-ne-mediat-franceze-flasin-familjaret-nese-ekstradohet-nuk-do-e-shohim-me/",
-      "description": "TIRANË- Jülide Yazici, doktorante në filozofi në Tours, kishte dhënë mësim për një vit në Segré, në departamentin Maine-et-Loire. Kjo aktiviste e majtë me origjinë turke, e cila ka statusin e refugjates politike në Francë, u arrestua më 4 gusht në vendin ku po kalonte pushimet, në Shqipëri, në bazë ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T14:16:26+00:00",
-      "dateStr": "13 Aug, 14:16",
-      "isNew": true,
-      "id": "she71786630586"
-    },
-    {
-      "title": "3 ekzekutime me vdekje në të njëjtën ditë/ Kush janë të dënuarit që presin fundin fatal, nga vrasësi i një 5-vjeçareje, te…",
-      "link": "https://shekulli.com.al/2026/08/13/3-ekzekutime-me-vdekje-ne-te-njejten-dite-kush-jane-te-denuarit-qe-presin-fundin-fatal-nga-vrasesi-i-nje-5-vjecareje-te/",
-      "description": "SHBA– Tre shtete amerikane, Tennessee, Alabama dhe Oklahoma, kanë planifikuar ekzekutimin e tre të dënuarve me vdekje brenda së njëjtës ditë, një ngjarje që nuk ka ndodhur në vend prej afro 16 vitesh. Nëse ekzekutimet kryhen sipas planit, 13 gushti do të shënojë herën e parë që nga 7 janari 2010 që ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T13:45:15+00:00",
-      "dateStr": "13 Aug, 13:45",
-      "isNew": true,
-      "id": "she81786628715"
-    },
-    {
-      "title": "PD nuk e njeh, por i ankohet Endri Shabanit! Avokati i Popullit nuk e kursen ironinë: Faleminderit për besimin…",
-      "link": "https://shekulli.com.al/2026/08/13/pd-nuk-e-njeh-por-i-ankohet-endri-shabanit-avokati-i-popullit-nuk-e-kursen-ironine-faleminderit-te-legjitimimi/",
-      "description": "TIRANË- Partia Demokratike, duket se ka bërë një ‘autogol’ në raportin me institucionin e Avokatit të Popullit që përfaqësohet nga Endri Shabani. Edhe pse pretendon se nuk e njeh zgjedhjen e tij në krye të institucionit, dhe e ka dërguar emërimin në Gjykatën Kushtetuese, kjo nuk e ka penguar që të k",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-13T13:28:33+00:00",
-      "dateStr": "13 Aug, 13:28",
-      "isNew": true,
-      "id": "she91786627713"
+      "id": "abc91786700520"
     }
   ]
 }
