@@ -1,8 +1,118 @@
 {
-  "lastUpdated": "2026-08-15T19:17:39.738351+00:00",
+  "lastUpdated": "2026-08-15T20:16:34.945245+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Clark dhe Bueckers shënuan 29, por Indiana Fever fiton 98-87 ndaj Dallas Wings",
+      "link": "https://24-ore.com/clark-dhe-bueckers-shenuan-29-por-indiana-fever-fiton-98-87-ndaj-dallas-wings/",
+      "description": "Indiana Fever arritën fitore 98-87 ndaj Dallas Wings në një ndeshje ku dy zgjedhjet e para të draftit vazhduan të tregojnë vlerën e tyre: Caitlin Clark dhe...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T20:00:38+00:00",
+      "dateStr": "15 Aug, 20:00",
+      "isNew": true,
+      "id": "24 01786824038"
+    },
+    {
+      "title": "Përditësim për rikthimin e Shohei Ohtani pas seancës së fundit të bullpen-it",
+      "link": "https://24-ore.com/perditesim-per-rikthimin-e-shohei-ohtani-pas-seances-se-fundit-te-bullpen-it/",
+      "description": "Shohei Ohtani bëri një hap të rëndësishëm drejt rikthimit në të hedhurat pas një seance bullpen me 35 goditje, përpara fitores 3-1 të Los Angeles Dodgers n...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:56:09+00:00",
+      "dateStr": "15 Aug, 19:56",
+      "isNew": true,
+      "id": "24 11786823769"
+    },
+    {
+      "title": "Koreja e Jugut propozon bisedime për t’i dhënë fund zyrtarisht luftës me Korenë e Veriut",
+      "link": "https://abcnews.al/koreja-e-jugut-propozon-bisedime-per-ti-dhene-fund-zyrtarisht-luftes-me-korene-e-veriut/",
+      "description": "Presidenti i Koresë së Jugut ka propozuar bisedime me fqinjin e saj verior për t’i dhënë fund zyrtarisht luftës midis të dyjave. Lee Jae Myung sugjeroi një “sistem sigurie me shumë shtresa” për të shmangur përshkallëzimet përgjatë kufirit të vendeve, i njohur si zona e demilitarizuar (DMZ), dhe ofro",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-15T19:43:59+00:00",
+      "dateStr": "15 Aug, 19:43",
+      "isNew": true,
+      "id": "abc01786823039"
+    },
+    {
+      "title": "Fruthi alarmon Kosovën: 22 pacientë të shtrirë, mbi 100 raste të konfirmuara",
+      "link": "https://24-ore.com/fruthi-alarmon-kosoven-22-paciente-te-shtrire-mbi-100-raste-te-konfirmuara/",
+      "description": "Numri i të infektuarve me fruth nga prilli deri në gusht ka arritur në 112 raste. Pacientët e shtrirë në Klinikën Infektive janë në gjendje stabile, ndërkaq më të prekurit janë fëmijët nga 1 deri në 2 vjeç, të cilët nuk janë të vaksinuar. Pas shtimit të rasteve, është rritur interesimi për vaksinim.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:41:47+00:00",
+      "dateStr": "15 Aug, 19:41",
+      "isNew": true,
+      "id": "24 21786822907"
+    },
+    {
+      "title": "Rreth 750 viza pune nga Kosova u lëshuan në korrik, deputetja opozitare nga alarmin",
+      "link": "https://24-ore.com/rreth-750-viza-pune-nga-kosova-u-leshuan-ne-korrik-deputetja-opozitare-nga-alarmin/",
+      "description": "Ministria e Punëve të Brendshme ka publikuar statistikat për lejeqëndrimet e përkohshme të lëshuara në Kosovë gjatë muajit korrik, ku rezultojnë gjithsej 1,259 lejeqëndrime. Sipas të dhënave, 748 lejeqëndrime janë lëshuar për qëllime pune, duke përbërë kategorinë më të madhe. Ndërkohë, 478 janë dhën",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:26:51+00:00",
+      "dateStr": "15 Aug, 19:26",
+      "isNew": true,
+      "id": "24 31786822011"
+    },
+    {
+      "title": "Caitlin Clark: Kyçi i këmbës është në rregull pas fitores së Fever ndaj Wings",
+      "link": "https://24-ore.com/caitlin-clark-kyci-i-kembes-eshte-ne-rregull-pas-fitores-se-fever-ndaj-wings/",
+      "description": "Caitlin Clark shmangu një shqetësim të rëndësishëm në gjysmën e parë të ndeshjes së Indiana Fever, të cilët fituan 98-87 ndaj Dallas Wings. Pas takimit me...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:20:47+00:00",
+      "dateStr": "15 Aug, 19:20",
+      "isNew": true,
+      "id": "24 41786821647"
+    },
+    {
+      "title": "Alarm nga OKB: Ebola po vret një person çdo 30 minuta",
+      "link": "https://abcnews.al/alarm-nga-okb-ebola-po-vret-nje-person-cdo-30-minuta/",
+      "description": "Epidemia e Ebolës në Republikën Demokratike të Kongos po merr jetën e një personi çdo 30 minuta, njoftoi zyrtari më i lartë humanitar i OKB-së, duke i bërë thirrje bashkësisë ndërkombëtare të “zgjohet” dhe të “mobilizohet”. ”Ebola po fiton në Republikën Demokratike të Kongos. Nuk mund të lejojmë që ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-15T19:19:57+00:00",
+      "dateStr": "15 Aug, 19:19",
+      "isNew": true,
+      "id": "abc11786821597"
+    },
+    {
+      "title": "Mashtrimet online, polica thirrje qytetarëve: Mos klikoni linqet që u vijnë në SMS. Mos jepni asnjë të dhënë",
+      "link": "https://24-ore.com/mashtrimet-online-polica-thirrje-qytetareve-mos-klikoni-linqet-qe-u-vijne-ne-sms-mos-jepni-asnje-te-dhene/",
+      "description": "Policia e Shtetit ka lëshuar një njoftim zyrtar për qytetarët, duke bërë thirrje për vigjilencë dhe kujdes të shtuar ndaj një vale të re mesazhesh mashtruese të tipit “phishing” që po qarkullojnë përmes SMS-ve dhe aplikacioneve të komunikimit si WhatsApp. Sipas autoriteteve, autorët paraqiten në mën",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:18:05+00:00",
+      "dateStr": "15 Aug, 19:18",
+      "isNew": true,
+      "id": "24 51786821485"
+    },
+    {
+      "title": "Ministria e Mbrojtjes thirrje qytetarëve: Mos u bëj shkak për një zjarr",
+      "link": "https://24-ore.com/ministria-e-mbrojtjes-thirrje-qytetareve-mos-u-bej-shkak-per-nje-zjarr/",
+      "description": "Ministria e Mbrojtjes mbrëmjen e kësaj të shtunë përmes një postimi në “Facebook” ka bërë një apel për qytetatët që të mos bëhen shkak për krijimin e vatrave të reja të zjarreve. Ministria në postim bën thirrje që qytetarët të mos ndezin zjarre dhe të mos hedhin cigare të ndezura në natyrë. Ndër të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:17:55+00:00",
+      "dateStr": "15 Aug, 19:17",
+      "isNew": true,
+      "id": "24 61786821475"
+    },
+    {
+      "title": "31 vatra zjarri u regjistruan në vend, Ministria e Mbrojtjes: 11 ende aktive. Vijon puna për menaxhimin e situatës",
+      "link": "https://24-ore.com/31-vatra-zjarri-u-regjistruan-ne-vend-ministria-e-mbrojtjes-11-ende-aktive-vijon-puna-per-menaxhimin-e-situates/",
+      "description": "Ministria e Mbrojtjes ka dalë me një përditësim të fundit lidhur me situatën e zjarreve në vend deri në orën 20:00. Ministria e Mbrojtjes bën me dije se janë regjistruar 31 vatra zjarri, nga të cilat 11 mbeten aktive dhe 2 janë nën monitorim. Sipas ministrisë, për menaxhimin e situatës janë angazhua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:17:43+00:00",
+      "dateStr": "15 Aug, 19:17",
+      "isNew": true,
+      "id": "24 71786821463"
+    },
     {
       "title": "I zhdukur prej një viti, gjendet një trup i pa jetë në Rumani. Dyshohet se i përket alpinistit britanik",
       "link": "https://24-ore.com/i-zhdukur-prej-nje-viti-gjendet-nje-trup-i-pa-jete-ne-rumani-dyshohet-se-i-perket-alpinistit-britanik/",
@@ -12,7 +122,7 @@
       "date": "2026-08-15T19:17:32+00:00",
       "dateStr": "15 Aug, 19:17",
       "isNew": true,
-      "id": "24 01786821452"
+      "id": "24 81786821452"
     },
     {
       "title": "Qindra të arrestuar për zjarret në Francë, 70% e tyre akuzohen për zjarrvënie të qëllimshme",
@@ -23,84 +133,7 @@
       "date": "2026-08-15T19:17:21+00:00",
       "dateStr": "15 Aug, 19:17",
       "isNew": true,
-      "id": "24 11786821441"
-    },
-    {
-      "title": "Tërheqje masive e vezëve në SHBA për shkak të shpërthimit të salmonelës, rreth 100 persona të sëmurë",
-      "link": "https://24-ore.com/terheqje-masive-e-vezeve-ne-shba-per-shkak-te-shperthimit-te-salmoneles-rreth-100-persona-te-semure/",
-      "description": "Një tërheqje masive e vezëve është registruar në SHBA, ndërsa zyrtarët hetojnë një shpërthim të salmonelës që ka sëmurë gati 100 persona. Administrata Amerikane e Ushqimit dhe Barnave më 12 gusht riklasifikoi tërheqjen e gati 1.6 milion vezësh të bardha dhe kafe të kultivuara në kafaz, për shkak të ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T19:17:10+00:00",
-      "dateStr": "15 Aug, 19:17",
-      "isNew": true,
-      "id": "24 21786821430"
-    },
-    {
-      "title": "Policia marokene arreston 111 persona ndërsa përpiqeshin të hynin në Ceuta",
-      "link": "https://24-ore.com/policia-marokene-arreston-111-persona-ndersa-perpiqeshin-te-hynin-ne-ceuta/",
-      "description": "Policia marokene ka arrestuar 111 persona ndërsa ata përpiqeshin të hynin në territorin spanjoll Ceuta, mes masave të shtuara të sigurisë nga të dyja palët, pasi postimet në mediat sociale bënë thirrje për një kalim tjetër masiv kufitar. Tentativa e kalimit të shtunën erdhi dy javë pasi më shumë se ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T19:16:56+00:00",
-      "dateStr": "15 Aug, 19:16",
-      "isNew": true,
-      "id": "24 31786821416"
-    },
-    {
-      "title": "Koreja e Jugut propozon bisedime për t’i dhënë fund zyrtarisht luftës me Korenë e Veriut",
-      "link": "https://24-ore.com/koreja-e-jugut-propozon-bisedime-per-ti-dhene-fund-zyrtarisht-luftes-me-korene-e-veriut/",
-      "description": "Presidenti i Koresë së Jugut ka propozuar bisedime me fqinjin e saj verior për t’i dhënë fund zyrtarisht luftës midis të dyjave. Lee Jae Myung sugjeroi një “sistem sigurie me shumë shtresa” për të shmangur përshkallëzimet përgjatë kufirit të vendeve, i njohur si zona e demilitarizuar (DMZ), dhe ofro",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T19:16:45+00:00",
-      "dateStr": "15 Aug, 19:16",
-      "isNew": true,
-      "id": "24 41786821405"
-    },
-    {
-      "title": "Toronto Blue Jays dhe New York Yankees 0-0 në fillim të ndeshjes, 15 gusht 2026",
-      "link": "https://24-ore.com/toronto-blue-jays-dhe-new-york-yankees-0-0-ne-fillim-te-ndeshjes-15-gusht-2026/",
-      "description": "Në ndeshjen e 15 gushtit 2026 në Toronto, New York Yankees dhe Toronto Blue Jays ishin të barabarta 0-0 në fillim të takimit, gjatë topit të parë. Ndeshja...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T19:15:44+00:00",
-      "dateStr": "15 Aug, 19:15",
-      "isNew": true,
-      "id": "24 51786821344"
-    },
-    {
-      "title": "Anne Hathaway jep përditësim për filmin “The Princess Diaries 3” në ngjarjen D23",
-      "link": "https://24-ore.com/anne-hathaway-jep-perditesim-per-filmin-the-princess-diaries-3-ne-ngjarjen-d23/",
-      "description": "Anne Hathaway e shkoi prezencën e saj deri në Genovia gjatë ngjarjes për fansat e Disney, D23, më 14 gusht, ku aktorja dha një përditësim mbi punën në real...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T19:10:51+00:00",
-      "dateStr": "15 Aug, 19:10",
-      "isNew": true,
-      "id": "24 61786821051"
-    },
-    {
-      "title": "Zjarret “pushtojnë” Shqipërinë/ 31 vatra të regjistruara, 11 ende aktive, në terren qindra forca",
-      "link": "https://24-ore.com/zjarret-pushtojne-shqiperine-31-vatra-te-regjistruara-11-ende-aktive-ne-terren-qindra-forca/",
-      "description": "Ministria e Mbrojtjes informon se, deri në orën 20:00, në territorin e vendit janë regjistruar 31 vatra zjarri, nga të cilat 11 mbeten aktive dhe 2 janë nën monitorim. Për menaxhimin e situatës janë angazhuar 396 forca operacionale dhe 41 automjete zjarrfikëse, ndërsa Forcat e Armatosura kanë mbësht",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T19:02:13+00:00",
-      "dateStr": "15 Aug, 19:02",
-      "isNew": true,
-      "id": "24 71786820533"
-    },
-    {
-      "title": "Kompozitori Çesk Zadeja, figura më e madhe krijuese e muzikës shqiptare",
-      "link": "https://24-ore.com/kompozitori-cesk-zadeja-figura-me-e-madhe-krijuese-e-muzikes-shqiptare/",
-      "description": "Akademia e Shkencave përkujton sot me nderim, në ditën e ndarjes nga jeta, kompozitorin e shquar Çesk Zadeja. Çesk Zadeja lindi më 8 qershor 1927 në Shkodër dhe u nda nga jeta më 15 gusht 1997 në Romë. Hapat e parë i hodhi në shkollën françeskane të qytetit, ku u njoh me muzikën dhe mori [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T19:01:05+00:00",
-      "dateStr": "15 Aug, 19:01",
-      "isNew": true,
-      "id": "24 81786820465"
+      "id": "24 91786821441"
     },
     {
       "title": "“Ku janë biletat, ku janë fotot”, Rama kërkon prova për Arubën, flet për Spiropalin në mediat britanike: Nga Zvërneci nuk tërhiqemi",
@@ -114,17 +147,6 @@
       "id": "she01786820254"
     },
     {
-      "title": "I mori kumbullat dhe 5 vjet nuk i pagoi, 48 vjeçari përfundon në polici",
-      "link": "https://24-ore.com/i-mori-kumbullat-dhe-5-vjet-nuk-i-pagoi-48-vjecari-perfundon-ne-polici/",
-      "description": "Një marrëveshje për shitjen e kumbullave ka përfunduar në kallëzim penal, disa vite pas ngjarjes. Sipas policisë, në korrik të vitit 2021, një 48-vjeçar nga Shtipi kishte marrë 2.580 tonë* kumbulla nga një person, por shumën për to nuk e kishte paguar. Për shkak të mospagesës, ai dyshohet se ka shka",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T18:56:46+00:00",
-      "dateStr": "15 Aug, 18:56",
-      "isNew": true,
-      "id": "24 91786820206"
-    },
-    {
       "title": "Edicioni Qendror me Sali Doçi, (15/08/2026)",
       "link": "https://abcnews.al/edicioni-qendror-me-sali-doci-15-08-2026/",
       "description": "[...]Read More...",
@@ -133,7 +155,7 @@
       "date": "2026-08-15T18:54:41+00:00",
       "dateStr": "15 Aug, 18:54",
       "isNew": true,
-      "id": "abc01786820081"
+      "id": "abc21786820081"
     },
     {
       "title": "Zjarret në vend/ Ministria e Mbrojtjes: 31 vatra, 11 prej tyre janë ende aktive",
@@ -144,7 +166,7 @@
       "date": "2026-08-15T18:36:56+00:00",
       "dateStr": "15 Aug, 18:36",
       "isNew": true,
-      "id": "abc11786819016"
+      "id": "abc31786819016"
     },
     {
       "title": "Mashtrimet online, Policia e Shtetit paralajmëron qytetarët: Kujdes nga SMS-të dhe WhatsApp-i",
@@ -166,7 +188,7 @@
       "date": "2026-08-15T18:23:53+00:00",
       "dateStr": "15 Aug, 18:23",
       "isNew": true,
-      "id": "abc21786818233"
+      "id": "abc41786818233"
     },
     {
       "title": "Tragjedi në Genova/ 26-vjeçari plagos me thikë motrën dhe bie nga kati i pestë, humb jetën",
@@ -188,7 +210,7 @@
       "date": "2026-08-15T17:52:25+00:00",
       "dateStr": "15 Aug, 17:52",
       "isNew": true,
-      "id": "abc31786816345"
+      "id": "abc51786816345"
     },
     {
       "title": "Tërmeti shkatërrimtar në Indonezi, shtohen viktimat/ Të paktën 47 të vdekur",
@@ -199,7 +221,7 @@
       "date": "2026-08-15T17:20:46+00:00",
       "dateStr": "15 Aug, 17:20",
       "isNew": true,
-      "id": "abc41786814446"
+      "id": "abc61786814446"
     },
     {
       "title": "Tjetër mësymje drejt Ceuta/ Policia marokene pengon një valë emigrantësh drejt kufirit me enklavën",
@@ -210,7 +232,7 @@
       "date": "2026-08-15T16:55:04+00:00",
       "dateStr": "15 Aug, 16:55",
       "isNew": true,
-      "id": "abc51786812904"
+      "id": "abc71786812904"
     },
     {
       "title": "“Kam 8 vite që nuk kam asnjë lidhje me koncensionin e hemodializës”, Allajbeu: Asnjë interes, as tani dhe as në të ardhmen për të ofruar shërbimin",
@@ -232,7 +254,7 @@
       "date": "2026-08-15T16:29:01+00:00",
       "dateStr": "15 Aug, 16:29",
       "isNew": true,
-      "id": "abc61786811341"
+      "id": "abc81786811341"
     },
     {
       "title": "Përplasi për vdekje 7-vjeçarin në Elbasan, lirohet nga qelia Petri Bozo",
@@ -265,29 +287,7 @@
       "date": "2026-08-15T16:06:36+00:00",
       "dateStr": "15 Aug, 16:06",
       "isNew": true,
-      "id": "abc71786809996"
-    },
-    {
-      "title": "Elbasan/ Tentoi të vriste një person me armë zjarri, policia arreston autorin 52-vjeçar (EMRAT)",
-      "link": "https://abcnews.al/elbasan-tentoi-te-vriste-nje-person-me-arme-zjarri-policia-arreston-autorin-52-vjecar/",
-      "description": "Policia e Elbasanit ka arrestuar 52-vjeçarin Poli Boriçi, i cili tentoi të vriste me armë zjarri, 50-vjeçarin Ermir Kertezi. Njëkohësisht, shërbimet e Policisë gjetën dhe sekuestruan, në cilësinë e provës materiale, armën e zjarrit pistoletë me të cilën autori tentoi të vriste 50-vjeçarin. Ngjarja n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T15:51:53+00:00",
-      "dateStr": "15 Aug, 15:51",
-      "isNew": true,
-      "id": "abc81786809113"
-    },
-    {
-      "title": "Zjarret, 13 vatra ende aktive/ 200 ha pyll pishe e djegur në Lurë, në Krujë e Mirditë s’ka rrezik për zonat e banuara",
-      "link": "https://abcnews.al/zjarret-13-vatra-ende-aktive-200-ha-pyll-pishe-e-djegur-ne-lure-ne-kruje-e-mirdite-ska-rrezik-per-zonat-e-banuara/",
-      "description": "Ministria e Mbrojtjes informon se, deri në orën 17:00, në territorin e vendit janë regjistruar 23 vatra zjarri, nga të cilat 13 mbeten aktive dhe 2 janë nën monitorim. Në operacionet e sotme janë angazhuar 317 forca operacionale dhe 32 automjete zjarrfikëse. Në mbështetje janë angazhuar 120 efektivë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T15:38:57+00:00",
-      "dateStr": "15 Aug, 15:38",
-      "isNew": true,
-      "id": "abc91786808337"
+      "id": "abc91786809996"
     },
     {
       "title": "Misteri i atentatit të dështuar në Elbasan, arrestohet autori/ I ngeci arma apo u pendua në fund për vrasjen e Mir Bitocit",
