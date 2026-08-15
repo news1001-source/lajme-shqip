@@ -1,18 +1,172 @@
 {
-  "lastUpdated": "2026-08-15T18:20:34.016208+00:00",
+  "lastUpdated": "2026-08-15T19:17:39.738351+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Tentoi të vriste me armë 50-vjeçarin në Elbasan, arrestohet autori",
-      "link": "https://24-ore.com/tentoi-te-vriste-me-arme-50-vjecarin-ne-elbasan-arrestohet-autori/",
-      "description": "Policia e Elbasanit ka konfirmuar zyrtarisht arrestimin e 52-vjeçarit Polic Borici, i cili tentoi të vriste me armë zjarri në mes të ditës në qytet shtetasin Ermir Kërtezi, 50 vjeç, të njohur edhe si Mir Bitoci. “Pas marrjes së njoftimit, rreth orës 13:00, se në ambientet e jashtme të një lokali, në",
+      "title": "I zhdukur prej një viti, gjendet një trup i pa jetë në Rumani. Dyshohet se i përket alpinistit britanik",
+      "link": "https://24-ore.com/i-zhdukur-prej-nje-viti-gjendet-nje-trup-i-pa-jete-ne-rumani-dyshohet-se-i-perket-alpinistit-britanik/",
+      "description": "Një trup është gjetur gjatë kërkimeve për një 18-vjeçar britanik i cili u zhduk vitin e kaluar ndërsa po bënte ecje në Rumani. George Smyth, një student i gjeologjisë në Universitetin e Bristolit , u zhduk në nëntor. Të shtunën, policia e Avon dhe Somerset tha se një trup i gjetur në rajonin e malit",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-15T18:18:05+00:00",
-      "dateStr": "15 Aug, 18:18",
+      "date": "2026-08-15T19:17:32+00:00",
+      "dateStr": "15 Aug, 19:17",
       "isNew": true,
-      "id": "24 01786817885"
+      "id": "24 01786821452"
+    },
+    {
+      "title": "Qindra të arrestuar për zjarret në Francë, 70% e tyre akuzohen për zjarrvënie të qëllimshme",
+      "link": "https://24-ore.com/qindra-te-arrestuar-per-zjarret-ne-france-70-e-tyre-akuzohen-per-zjarrvenie-te-qellimshme/",
+      "description": "Gati 500 persona janë arrestuar që nga fillimi i verës në lidhje me zjarret në Francë, e cila po lufton me zjarre të mëdha që kanë djegur qindra mijëra hektarë tokë. Ministria e Brendshme tha se 474 persona janë arrestuar që nga 1 korriku, përfshirë 183 të mitur.70% e të arrestuarve akuzohen për zja",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:17:21+00:00",
+      "dateStr": "15 Aug, 19:17",
+      "isNew": true,
+      "id": "24 11786821441"
+    },
+    {
+      "title": "Tërheqje masive e vezëve në SHBA për shkak të shpërthimit të salmonelës, rreth 100 persona të sëmurë",
+      "link": "https://24-ore.com/terheqje-masive-e-vezeve-ne-shba-per-shkak-te-shperthimit-te-salmoneles-rreth-100-persona-te-semure/",
+      "description": "Një tërheqje masive e vezëve është registruar në SHBA, ndërsa zyrtarët hetojnë një shpërthim të salmonelës që ka sëmurë gati 100 persona. Administrata Amerikane e Ushqimit dhe Barnave më 12 gusht riklasifikoi tërheqjen e gati 1.6 milion vezësh të bardha dhe kafe të kultivuara në kafaz, për shkak të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:17:10+00:00",
+      "dateStr": "15 Aug, 19:17",
+      "isNew": true,
+      "id": "24 21786821430"
+    },
+    {
+      "title": "Policia marokene arreston 111 persona ndërsa përpiqeshin të hynin në Ceuta",
+      "link": "https://24-ore.com/policia-marokene-arreston-111-persona-ndersa-perpiqeshin-te-hynin-ne-ceuta/",
+      "description": "Policia marokene ka arrestuar 111 persona ndërsa ata përpiqeshin të hynin në territorin spanjoll Ceuta, mes masave të shtuara të sigurisë nga të dyja palët, pasi postimet në mediat sociale bënë thirrje për një kalim tjetër masiv kufitar. Tentativa e kalimit të shtunën erdhi dy javë pasi më shumë se ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:16:56+00:00",
+      "dateStr": "15 Aug, 19:16",
+      "isNew": true,
+      "id": "24 31786821416"
+    },
+    {
+      "title": "Koreja e Jugut propozon bisedime për t’i dhënë fund zyrtarisht luftës me Korenë e Veriut",
+      "link": "https://24-ore.com/koreja-e-jugut-propozon-bisedime-per-ti-dhene-fund-zyrtarisht-luftes-me-korene-e-veriut/",
+      "description": "Presidenti i Koresë së Jugut ka propozuar bisedime me fqinjin e saj verior për t’i dhënë fund zyrtarisht luftës midis të dyjave. Lee Jae Myung sugjeroi një “sistem sigurie me shumë shtresa” për të shmangur përshkallëzimet përgjatë kufirit të vendeve, i njohur si zona e demilitarizuar (DMZ), dhe ofro",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:16:45+00:00",
+      "dateStr": "15 Aug, 19:16",
+      "isNew": true,
+      "id": "24 41786821405"
+    },
+    {
+      "title": "Toronto Blue Jays dhe New York Yankees 0-0 në fillim të ndeshjes, 15 gusht 2026",
+      "link": "https://24-ore.com/toronto-blue-jays-dhe-new-york-yankees-0-0-ne-fillim-te-ndeshjes-15-gusht-2026/",
+      "description": "Në ndeshjen e 15 gushtit 2026 në Toronto, New York Yankees dhe Toronto Blue Jays ishin të barabarta 0-0 në fillim të takimit, gjatë topit të parë. Ndeshja...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:15:44+00:00",
+      "dateStr": "15 Aug, 19:15",
+      "isNew": true,
+      "id": "24 51786821344"
+    },
+    {
+      "title": "Anne Hathaway jep përditësim për filmin “The Princess Diaries 3” në ngjarjen D23",
+      "link": "https://24-ore.com/anne-hathaway-jep-perditesim-per-filmin-the-princess-diaries-3-ne-ngjarjen-d23/",
+      "description": "Anne Hathaway e shkoi prezencën e saj deri në Genovia gjatë ngjarjes për fansat e Disney, D23, më 14 gusht, ku aktorja dha një përditësim mbi punën në real...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:10:51+00:00",
+      "dateStr": "15 Aug, 19:10",
+      "isNew": true,
+      "id": "24 61786821051"
+    },
+    {
+      "title": "Zjarret “pushtojnë” Shqipërinë/ 31 vatra të regjistruara, 11 ende aktive, në terren qindra forca",
+      "link": "https://24-ore.com/zjarret-pushtojne-shqiperine-31-vatra-te-regjistruara-11-ende-aktive-ne-terren-qindra-forca/",
+      "description": "Ministria e Mbrojtjes informon se, deri në orën 20:00, në territorin e vendit janë regjistruar 31 vatra zjarri, nga të cilat 11 mbeten aktive dhe 2 janë nën monitorim. Për menaxhimin e situatës janë angazhuar 396 forca operacionale dhe 41 automjete zjarrfikëse, ndërsa Forcat e Armatosura kanë mbësht",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:02:13+00:00",
+      "dateStr": "15 Aug, 19:02",
+      "isNew": true,
+      "id": "24 71786820533"
+    },
+    {
+      "title": "Kompozitori Çesk Zadeja, figura më e madhe krijuese e muzikës shqiptare",
+      "link": "https://24-ore.com/kompozitori-cesk-zadeja-figura-me-e-madhe-krijuese-e-muzikes-shqiptare/",
+      "description": "Akademia e Shkencave përkujton sot me nderim, në ditën e ndarjes nga jeta, kompozitorin e shquar Çesk Zadeja. Çesk Zadeja lindi më 8 qershor 1927 në Shkodër dhe u nda nga jeta më 15 gusht 1997 në Romë. Hapat e parë i hodhi në shkollën françeskane të qytetit, ku u njoh me muzikën dhe mori [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T19:01:05+00:00",
+      "dateStr": "15 Aug, 19:01",
+      "isNew": true,
+      "id": "24 81786820465"
+    },
+    {
+      "title": "“Ku janë biletat, ku janë fotot”, Rama kërkon prova për Arubën, flet për Spiropalin në mediat britanike: Nga Zvërneci nuk tërhiqemi",
+      "link": "https://shekulli.com.al/2026/08/15/ku-jane-biletat-ku-jane-fotot-rama-kerkon-prova-per-aruben-flet-per-spiropalin-ne-mediat-britanike-nga-zverneci-nuk-terhiqemi/",
+      "description": "Kryeministri Edi Rama ka dhënë një intervistë për median britanike “UnHerd”, ku ka folur për projektin e Zvërnecit, protestat, akuzat për lidhje me trafikun e drogës dhe përplasjet brenda Partisë Socialiste. Rama ka deklaruar se projekti i zhvillimit në Zvërnec do të vijojë, pavarësisht kundërshtime",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-15T18:57:34+00:00",
+      "dateStr": "15 Aug, 18:57",
+      "isNew": true,
+      "id": "she01786820254"
+    },
+    {
+      "title": "I mori kumbullat dhe 5 vjet nuk i pagoi, 48 vjeçari përfundon në polici",
+      "link": "https://24-ore.com/i-mori-kumbullat-dhe-5-vjet-nuk-i-pagoi-48-vjecari-perfundon-ne-polici/",
+      "description": "Një marrëveshje për shitjen e kumbullave ka përfunduar në kallëzim penal, disa vite pas ngjarjes. Sipas policisë, në korrik të vitit 2021, një 48-vjeçar nga Shtipi kishte marrë 2.580 tonë* kumbulla nga një person, por shumën për to nuk e kishte paguar. Për shkak të mospagesës, ai dyshohet se ka shka",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T18:56:46+00:00",
+      "dateStr": "15 Aug, 18:56",
+      "isNew": true,
+      "id": "24 91786820206"
+    },
+    {
+      "title": "Edicioni Qendror me Sali Doçi, (15/08/2026)",
+      "link": "https://abcnews.al/edicioni-qendror-me-sali-doci-15-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-15T18:54:41+00:00",
+      "dateStr": "15 Aug, 18:54",
+      "isNew": true,
+      "id": "abc01786820081"
+    },
+    {
+      "title": "Zjarret në vend/ Ministria e Mbrojtjes: 31 vatra, 11 prej tyre janë ende aktive",
+      "link": "https://abcnews.al/zjarret-ne-vend-ministria-e-mbrojtjes-31-vatra-11-prej-tyre-jane-ende-aktive/",
+      "description": "Ministria e Mbrojtjes informon se, deri në orën 20:00, në territorin e vendit janë regjistruar 31 vatra zjarri, nga të cilat 11 mbeten aktive dhe 2 janë nën monitorim. Për menaxhimin e situatës janë angazhuar 396 forca operacionale dhe 41 automjete zjarrfikëse, ndërsa Forcat e Armatosura kanë mbësht",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-15T18:36:56+00:00",
+      "dateStr": "15 Aug, 18:36",
+      "isNew": true,
+      "id": "abc11786819016"
+    },
+    {
+      "title": "Mashtrimet online, Policia e Shtetit paralajmëron qytetarët: Kujdes nga SMS-të dhe WhatsApp-i",
+      "link": "https://shekulli.com.al/2026/08/15/mashtrimet-online-policia-e-shtetit-paralajmeron-qytetaret-kujdes-nga-sms-te-dhe-whatsapp-i/",
+      "description": "Policia e Shtetit ka ngritur alarmin për shtimin e rasteve të mashtrimeve online përmes mesazheve SMS dhe aplikacioneve të komunikimit, përfshirë WhatsApp-in. Sipas policisë, qytetarët po marrin mesazhe nga numra të ndryshëm telefoni, ku autorët paraqiten në mënyrë të rreme si përfaqësues të institu",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-15T18:33:25+00:00",
+      "dateStr": "15 Aug, 18:33",
+      "isNew": true,
+      "id": "she11786818805"
+    },
+    {
+      "title": "Zjarret vazhdojnë të shkatërrojnë Evropën, mijëra njerëz detyrohen të largohen nga shtëpitë e tyre",
+      "link": "https://abcnews.al/zjarret-vazhdojne-te-shkaterrojne-evropen-mijera-njerez-detyrohen-te-largohen-nga-shtepite-e-tyre/",
+      "description": "Evropa po vazhdon të përballet me një seri zjarresh shkatërruese, ndërsa kontinenti përballet me kushte më të nxehta dhe thatësira që përkeqësohen, me mijëra njerëz të detyruar të largohen nga shtëpitë e tyre. Në Francë, autoritetet thanë se 100 banorë dhe pushues të tjerë u evakuuan nga qyteti Lugl",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-15T18:23:53+00:00",
+      "dateStr": "15 Aug, 18:23",
+      "isNew": true,
+      "id": "abc21786818233"
     },
     {
       "title": "Tragjedi në Genova/ 26-vjeçari plagos me thikë motrën dhe bie nga kati i pestë, humb jetën",
@@ -23,117 +177,18 @@
       "date": "2026-08-15T18:13:14+00:00",
       "dateStr": "15 Aug, 18:13",
       "isNew": true,
-      "id": "she01786817594"
-    },
-    {
-      "title": "25 vjet nga Marrëveshja e Ohrit, Selmani: Shqiptarët ende pa barazi të plotë juridike",
-      "link": "https://24-ore.com/25-vjet-nga-marreveshja-e-ohrit-selmani-shqiptaret-ende-pa-barazi-te-plote-juridike/",
-      "description": "Pas 25 vitesh nga nënshkrimi i Marrëveshjes së Ohrit, partitë politike në vend vazhdojnë të kenë qëndrime të ndara për atë se çfarë ka ofruar kjo marrëveshje për shqiptarët. Megjithatë, njohësit e këtyre çështjeve, Marrëveshja e Ohrit vlerësohet se ka sjellë përfitime të rëndësishme, por njëkohësish",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T18:11:47+00:00",
-      "dateStr": "15 Aug, 18:11",
-      "isNew": true,
-      "id": "24 11786817507"
-    },
-    {
-      "title": "Solo Sikoa po shndërrohet në yllin e ri të WWE që të gjithë e vërejnë",
-      "link": "https://24-ore.com/solo-sikoa-po-shnderrohet-ne-yllin-e-ri-te-wwe-qe-te-gjithe-e-verejne/",
-      "description": "Solo Sikoa ka nisur të dali në plan të parë në programet javore të WWE, duke argëtuar audiencën në një nivel afër eventeve kryesore. Në vend që të mbetet t...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T18:00:28+00:00",
-      "dateStr": "15 Aug, 18:00",
-      "isNew": true,
-      "id": "24 21786816828"
-    },
-    {
-      "title": "4 gola në Shkodër, Vllaznia barazon me Vorën",
-      "link": "https://24-ore.com/4-gola-ne-shkoder-vllaznia-barazon-me-voren/",
-      "description": "Është mbyllur në barazim 2-2 miqësorja mes Vllaznisë dhe Vorës, që u luajt pasditen e sotme në stadiumin “Loro Boriçi”. Shkodranët mbyllin në avantazh 2-1 pjesën e parë falë golave të shënuar nga Balaj dhe Murataj. Trajkov shënon për miqtë në pjesën e dytë, duke barazuar shifrat. Mbyllet në barazim ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T17:56:47+00:00",
-      "dateStr": "15 Aug, 17:56",
-      "isNew": true,
-      "id": "24 31786816607"
-    },
-    {
-      "title": "Stephanie White e quan Caitlin Clark ‘maestro’ pas fitores së Indiana Fever ndaj Dallas Wings",
-      "link": "https://24-ore.com/stephanie-white-e-quan-caitlin-clark-maestro-pas-fitores-se-indiana-fever-ndaj-dallas-wings/",
-      "description": "Indiana Fever shënoi një fitore 98-87 ndaj Dallas Wings, me Caitlin Clark që udhëhoqi skuadrën dhe regjistroi një tjetër paraqitje vendimtare. Trajnerja St...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T17:55:30+00:00",
-      "dateStr": "15 Aug, 17:55",
-      "isNew": true,
-      "id": "24 41786816530"
+      "id": "she21786817594"
     },
     {
       "title": "Mashtrimet online, policia: Kujdes nga mesazhet që synojnë të dhënat bankare",
       "link": "https://abcnews.al/mashtrimet-online-policia-kujdes-nga-mesazhet-qe-synojne-te-dhenat-bankare/",
-      "description": "Policia e Shtetit Në vijim të njoftimeve të herëpashershme të bëra nga Policia e Shtetit, me qëllim parandalimin e mashtrimeve online dhe ndërgjegjësimin e qytetarëve, nisur edhe nga fakti që, ditët e fundit, janë konstatuar raste të mesazheve mashtruese të dërguara përmes SMS-ve dhe aplikacioneve t",
+      "description": "Policia e Shtetit ka kërkuar vigjilencë nga qytetarët teksa zbulon një tjetër skemë mashtrimi online, për t’u marrë para. Sipas policisë, ditët e fundit, janë konstatuar raste të mesazheve mashtruese të dërguara përmes SMS-ve dhe aplikacioneve të komunikimit, përfshirë WhatsApp-in, nga numra të ndry",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-08-15T17:52:25+00:00",
       "dateStr": "15 Aug, 17:52",
       "isNew": true,
-      "id": "abc01786816345"
-    },
-    {
-      "title": "Chicago Cubs ndaj St. Louis Cardinals, 15 gusht 2026 — startuesit, gjendja dhe lajmet kryesore",
-      "link": "https://24-ore.com/chicago-cubs-ndaj-st-louis-cardinals-15-gusht-2026-startuesit-gjendja-dhe-lajmet-kryesore/",
-      "description": "Më 15 gusht 2026, Chicago Cubs mikpresin St. Louis Cardinals në Wrigley Field në një përballje që mund të ndikojë në dinamikën e sezonit për të dy ekipet....",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T17:50:50+00:00",
-      "dateStr": "15 Aug, 17:50",
-      "isNew": true,
-      "id": "24 51786816250"
-    },
-    {
-      "title": "“Njeriu më i rrezikshëm i Gjermanisë”",
-      "link": "https://24-ore.com/njeriu-me-i-rrezikshem-i-gjermanise/",
-      "description": "Në numrin e fundit, revista gjermane “Der Spiegel” ka vendosur në ballinë politikanin Ulrich Siegmund nga partia e djathtë populiste AfD. Siegmund ka gjasa t’i fitojë zgjedhjet e 6 shtatorit në krahinën Sachsen-Anhalt. Në nivel të Gjermanisë, kjo parti ka qëndrime radikale kundër Kosovës. Nga Enver ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T17:48:18+00:00",
-      "dateStr": "15 Aug, 17:48",
-      "isNew": true,
-      "id": "24 61786816098"
-    },
-    {
-      "title": "President nga zarfi",
-      "link": "https://24-ore.com/president-nga-zarfi/",
-      "description": "Nga Mero Baze Kriza politike në Kosovë ka hyrë në një spirale që po gëlltit brenda saj shtetin e ri të Kosovës. Albin Kurti është i vendosur ta thellojë krizën, nëse shqiptarët dhe serbët nuk gjunjëzohen para tij dhe t’i dhurojnë gjithë pushtetin që nuk e ka fituar me votë. Kjo krizë politike, e nis",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T17:48:10+00:00",
-      "dateStr": "15 Aug, 17:48",
-      "isNew": true,
-      "id": "24 71786816090"
-    },
-    {
-      "title": "Deklaratat e Deharit për konflikt të mundshëm fizik në Kuvend, reagime të ashpra nga opozita",
-      "link": "https://24-ore.com/deklaratat-e-deharit-per-konflikt-te-mundshem-fizik-ne-kuvend-reagime-te-ashpra-nga-opozita/",
-      "description": "Kryesuesi i seancës konstituive të Kuvendit, Avni Dehari, ka bërë thirrje për arritjen e një marrëveshjeje politike para vazhdimit të punës së Kuvendit, duke paralajmëruar se përpjekjet për vazhdimin e seancës pa marrëveshje mund të rrisin tensionet. Dehari ka thënë se mirëpret ftesat për takime të ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T17:47:01+00:00",
-      "dateStr": "15 Aug, 17:47",
-      "isNew": true,
-      "id": "24 81786816021"
-    },
-    {
-      "title": "Nuk ka fitues në “Selman Stërmasi”, Tirana dhe Laçi ndahen në paqe",
-      "link": "https://24-ore.com/nuk-ka-fitues-ne-selman-stermasi-tirana-dhe-laci-ndahen-ne-paqe/",
-      "description": "Është mbyllur në barazim 2-2 miqësorja mes Tiranës dhe Laçit, që u luajt pasditen e sotme në stadiumin “Selman Stërmasi”. Bardheblutë mbyllin pjesën e parë në avantazh falë golit të shënuar nga Kis. Kurbinasit reagojnë në pjesën e dytë, duke barazuar shifrat me Stafën. Xhixha rikthehen në avantazh T",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T17:46:49+00:00",
-      "dateStr": "15 Aug, 17:46",
-      "isNew": true,
-      "id": "24 91786816009"
+      "id": "abc31786816345"
     },
     {
       "title": "Tërmeti shkatërrimtar në Indonezi, shtohen viktimat/ Të paktën 47 të vdekur",
@@ -144,7 +199,7 @@
       "date": "2026-08-15T17:20:46+00:00",
       "dateStr": "15 Aug, 17:20",
       "isNew": true,
-      "id": "abc11786814446"
+      "id": "abc41786814446"
     },
     {
       "title": "Tjetër mësymje drejt Ceuta/ Policia marokene pengon një valë emigrantësh drejt kufirit me enklavën",
@@ -155,7 +210,7 @@
       "date": "2026-08-15T16:55:04+00:00",
       "dateStr": "15 Aug, 16:55",
       "isNew": true,
-      "id": "abc21786812904"
+      "id": "abc51786812904"
     },
     {
       "title": "“Kam 8 vite që nuk kam asnjë lidhje me koncensionin e hemodializës”, Allajbeu: Asnjë interes, as tani dhe as në të ardhmen për të ofruar shërbimin",
@@ -166,7 +221,7 @@
       "date": "2026-08-15T16:52:08+00:00",
       "dateStr": "15 Aug, 16:52",
       "isNew": true,
-      "id": "she11786812728"
+      "id": "she31786812728"
     },
     {
       "title": "Greqia lëshon alarm të kuq për zjarret",
@@ -177,7 +232,7 @@
       "date": "2026-08-15T16:29:01+00:00",
       "dateStr": "15 Aug, 16:29",
       "isNew": true,
-      "id": "abc31786811341"
+      "id": "abc61786811341"
     },
     {
       "title": "Përplasi për vdekje 7-vjeçarin në Elbasan, lirohet nga qelia Petri Bozo",
@@ -188,7 +243,7 @@
       "date": "2026-08-15T16:14:48+00:00",
       "dateStr": "15 Aug, 16:14",
       "isNew": true,
-      "id": "she21786810488"
+      "id": "she41786810488"
     },
     {
       "title": "324 kg kanabis nga Shqipëria drejt Turqisë, goditet organizata kriminale në Selanik",
@@ -199,7 +254,7 @@
       "date": "2026-08-15T16:10:43+00:00",
       "dateStr": "15 Aug, 16:10",
       "isNew": true,
-      "id": "she31786810243"
+      "id": "she51786810243"
     },
     {
       "title": "Aksidentoi për vdekje 7-vjeçarin/ Petri Bozo lirohet nga qelia, në arrest shtëpiak",
@@ -210,7 +265,7 @@
       "date": "2026-08-15T16:06:36+00:00",
       "dateStr": "15 Aug, 16:06",
       "isNew": true,
-      "id": "abc41786809996"
+      "id": "abc71786809996"
     },
     {
       "title": "Elbasan/ Tentoi të vriste një person me armë zjarri, policia arreston autorin 52-vjeçar (EMRAT)",
@@ -221,7 +276,7 @@
       "date": "2026-08-15T15:51:53+00:00",
       "dateStr": "15 Aug, 15:51",
       "isNew": true,
-      "id": "abc51786809113"
+      "id": "abc81786809113"
     },
     {
       "title": "Zjarret, 13 vatra ende aktive/ 200 ha pyll pishe e djegur në Lurë, në Krujë e Mirditë s’ka rrezik për zonat e banuara",
@@ -232,7 +287,7 @@
       "date": "2026-08-15T15:38:57+00:00",
       "dateStr": "15 Aug, 15:38",
       "isNew": true,
-      "id": "abc61786808337"
+      "id": "abc91786808337"
     },
     {
       "title": "Misteri i atentatit të dështuar në Elbasan, arrestohet autori/ I ngeci arma apo u pendua në fund për vrasjen e Mir Bitocit",
@@ -243,40 +298,7 @@
       "date": "2026-08-15T15:34:41+00:00",
       "dateStr": "15 Aug, 15:34",
       "isNew": true,
-      "id": "she41786808081"
-    },
-    {
-      "title": "VIDEO/ Atentati i dështuar në Elbasan, momenti kur autori tentoi të vriste një person në lokal por i ngeci arma",
-      "link": "https://abcnews.al/video-atentati-i-deshtuar-ne-elbasan-momenti-kur-autori-tentoi-te-vriste-nje-person-ne-lokal-por-i-ngeci-arma/",
-      "description": "ABC News ka siguruar pamje nga atentati i dështuar në Elbasan, ku u tentua të vritej Ermir Kertezi jashtë ambienteve të një lokali. Nga pamjet, shihet personi me bluzë të zezë, Kertezi cili fillimisht ndodhej brenda lokalit. Ai qëndron për disa momente në ambientet e brendshme dhe më pas ngrihet nga",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T15:33:46+00:00",
-      "dateStr": "15 Aug, 15:33",
-      "isNew": true,
-      "id": "abc71786808026"
-    },
-    {
-      "title": "Trafik droge nga Shqipëria në Turqi, kapen në Greqi 324 kg marijuanë/ Arrestohen dy persona",
-      "link": "https://abcnews.al/trafik-droge-nga-shqiperia-ne-turqi-kapen-ne-greqi-324-kg-marijuane-arrestohen-dy-persona/",
-      "description": "Oficerët e policisë nga Nëndrejtoria Kundër Narkotikëve të Drejtorisë së Krimit të Organizuar në Greqi shpërbënë një organizatë kriminale ndërkombëtare, anëtarët e së cilës ishin aktivë në transportin e sasive të konsiderueshme të marijuanës nga Shqipëria në Turqi, nëpërmjet territorit grek. Për të ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T15:32:39+00:00",
-      "dateStr": "15 Aug, 15:32",
-      "isNew": true,
-      "id": "abc81786807959"
-    },
-    {
-      "title": "Aksident i dyfishtë në aksin Fier-Lushnje, plagosen babë e bir",
-      "link": "https://abcnews.al/aksident-i-dyfishte-ne-aksin-fier-lushnje-plagosen-babe-e-bir/",
-      "description": "Një aksident rrugor është regjistruar në aksin Fier–Lushnje, në vendin e quajtur &#8220;Ura e Mbrostarit&#8221;. Në aksident janë përfshirë një automjet tip Fiat dhe një automjet tip Volkswagen. Përplasja ka qenë e fortë, duke shkaktuat lëndime te drejtuesi i njërit prej mjeteve dhe pasagjeri. Të pl",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T15:02:23+00:00",
-      "dateStr": "15 Aug, 15:02",
-      "isNew": true,
-      "id": "abc91786806143"
+      "id": "she61786808081"
     },
     {
       "title": "Pamjet e frikshme nga lokali/ Kush është shënjestra e atentatit të dështuar në Elbasan, autori i vuri armën në kokë Mir Bitocit, por…",
@@ -287,7 +309,7 @@
       "date": "2026-08-15T14:40:21+00:00",
       "dateStr": "15 Aug, 14:40",
       "isNew": true,
-      "id": "she51786804821"
+      "id": "she71786804821"
     },
     {
       "title": "Dështon atentati në Elbasan, autori hyn në mes të lokalit të populluar dhe tenton të vrasë një person, i ngec arma",
@@ -298,7 +320,7 @@
       "date": "2026-08-15T14:26:47+00:00",
       "dateStr": "15 Aug, 14:26",
       "isNew": true,
-      "id": "she61786804007"
+      "id": "she81786804007"
     },
     {
       "title": "Shpërthen në flakë makina në Gjirokastër-Kakavijë, drejtuesi arrin të dalë në kohë, çfarë dyshohet",
@@ -309,29 +331,7 @@
       "date": "2026-08-15T14:05:01+00:00",
       "dateStr": "15 Aug, 14:05",
       "isNew": true,
-      "id": "she71786802701"
-    },
-    {
-      "title": "Amnistia prek rreth 10 mijë dosje/ Urdhri i Çelës: Prokurorët të pushojnë çështjet që përfitojnë nga ligji",
-      "link": "https://shekulli.com.al/2026/08/15/amnistia-prek-rreth-10-mije-dosje-urdhri-i-celes-prokuroret-te-pushojne-ceshtjet-qe-perfitojne-nga-ligji/",
-      "description": "Nga aksidentet pa pasoja te drejtimi i mjetit në gjendje të dehur dhe ndërtimet pa leje, mijëra procedime penale pritet të mbyllen pas zbatimit të ligjit të amnistisë 2026. Prokurori i Përgjithshëm, Olsian Çela, ka udhëzuar prokuroritë për mënyrën e veprimit. Rreth 10 mijë hetime dhe çështje penale ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-15T13:36:44+00:00",
-      "dateStr": "15 Aug, 13:36",
-      "isNew": true,
-      "id": "she81786801004"
-    },
-    {
-      "title": "Tronditëse/ Ndahet nga jeta në moshën 35-vjeçare Arlend Gjoni, shqiptari që Forbes e promovoi për inteligjencën artificiale në shëndetësi",
-      "link": "https://shekulli.com.al/2026/08/15/tronditese-ndahet-nga-jeta-ne-moshen-35-vjecare-arlend-gjoni-shqiptari-qe-forbes-e-promovoi-per-inteligjencen-artificiale-ne-shendetesi/",
-      "description": "Nga një prej sipërmarrësve shqiptarë të vlerësuar për projektet e tij në teknologji dhe inteligjencë artificiale, te një ndarje e papritur nga jeta në moshën vetëm 35-vjeçare. Arlend Prend Gjoni, i njohur si “Ledi”, ndërroi jetë pas një ataku kardiak. Një lajm i trishtë ka tronditur familjarët, miqt",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-15T12:18:21+00:00",
-      "dateStr": "15 Aug, 12:18",
-      "isNew": true,
-      "id": "she91786796301"
+      "id": "she91786802701"
     }
   ]
 }
