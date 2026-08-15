@@ -1,29 +1,194 @@
 {
-  "lastUpdated": "2026-08-15T15:15:22.176075+00:00",
+  "lastUpdated": "2026-08-15T16:17:48.927705+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Diana Taurasi synon të bëhet pjesë e pronësisë së Phoenix Mercury pas pensionimit në 2025",
-      "link": "https://24-ore.com/diana-taurasi-synon-te-behet-pjese-e-pronesise-se-phoenix-mercury-pas-pensionimit-ne-2025/",
-      "description": "Legjenda e Phoenix Mercury, Diana Taurasi, ka shprehur dëshirën që brenda një ose dy vjetësh të bëhet pjesë e grupit pronar të skuadrës, pas pensionimit të...",
+      "title": "Ministria e Mbrojtjes: 23 vatra zjarri në Shqipëri, 13 ende aktive, ja zonat më problematike",
+      "link": "https://24-ore.com/ministria-e-mbrojtjes-23-vatra-zjarri-ne-shqiperi-13-ende-aktive-ja-zonat-me-problematike/",
+      "description": "Ministria e Mbrojtjes informon se, deri në orën 17:00, në territorin e vendit janë regjistruar 23 vatra zjarri, nga të cilat 13 mbeten aktive dhe 2 janë nën monitorim. Në operacionet e sotme janë angazhuar 317 forca operacionale dhe 32 automjete zjarrfikëse. Në mbështetje janë angazhuar 120 efektivë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-15T15:10:39+00:00",
-      "dateStr": "15 Aug, 15:10",
+      "date": "2026-08-15T16:17:13+00:00",
+      "dateStr": "15 Aug, 16:17",
       "isNew": true,
-      "id": "24 01786806639"
+      "id": "24 01786810633"
     },
     {
-      "title": "Policia del me detaje për dorëzimin e Hazirajt: Për kapjen e tij u aktivizuan FIT dhe AKI",
-      "link": "https://24-ore.com/policia-del-me-detaje-per-dorezimin-e-hazirajt-per-kapjen-e-tij-u-aktivizuan-fit-dhe-aki/",
-      "description": "Vezir Haziraj, i dyshuari për plagosjen e 7 gushtit në fshatin Orobërdë të Istogut, është dorëzuar sot në Polici pas disa ditësh në arrati.Sipas Policisë së Kosovës, pas ngjarjes i dyshuari ishte larguar në drejtim të panjohur. Hetuesit e Sektorit Rajonal për Hetime në Pejë kishin punuar intensivish",
+      "title": "Europa League: Një arbitër francez do të vendosë drejtësi në ndeshjen Egnatia-Lillestrom",
+      "link": "https://24-ore.com/europa-league-nje-arbiter-francez-do-te-vendose-drejtesi-ne-ndeshjen-egnatia-lillestrom/",
+      "description": "Një skuadër arbitrash francezë do të vendosë drejtësi në sfidën Egnatia-Lillestrom, e vlefshme për fazën e Play Off-it të Europa League. Willy Delajod do të jetë gjyqtari kryesor i takimit, ndërsa Erwan Finjean dhe Valentin Évrard do të jenë asistentët e tij. Jérémy Stinat do të jetë gjyqtari i katë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-15T15:06:53+00:00",
-      "dateStr": "15 Aug, 15:06",
+      "date": "2026-08-15T16:16:50+00:00",
+      "dateStr": "15 Aug, 16:16",
       "isNew": true,
-      "id": "24 11786806413"
+      "id": "24 11786810610"
+    },
+    {
+      "title": "ITALI – Rifillojnë fluturimet në aeroportin e Katanias pas uljes së aktivitetit të Etna-s",
+      "link": "https://24-ore.com/itali-rifillojne-fluturimet-ne-aeroportin-e-katanias-pas-uljes-se-aktivitetit-te-etna-s/",
+      "description": "ROMË, 15 gusht /ATSH-DPA/ – Fluturimet në aeroportin e Katanias, në Sicili, rifilluan sot pasdite pasi autoritetet ulën nivelin e alarmit për aktivitetin vullkanik të malit Etna nga i kuq në portokalli. Operatori i aeroportit, SAC, njoftoi se fluturimet në mbërritje dhe nisje do të rifillonin pasdit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T16:16:15+00:00",
+      "dateStr": "15 Aug, 16:16",
+      "isNew": true,
+      "id": "24 21786810575"
+    },
+    {
+      "title": "Përplasi për vdekje 7-vjeçarin në Elbasan, lirohet nga qelia Petri Bozo",
+      "link": "https://shekulli.com.al/2026/08/15/perplasi-per-vdekje-7-vjecarin-ne-elbasan-lirohet-nga-qelia-petri-bozo/",
+      "description": "Gjykata e Apelit Tiranë ka vendosur ndryshimin e masës së sigurimit ndaj producentit Petri Bozo, duke zëvendësuar masën “arrest në burg” me “arrest në shtëpi” dhe duke urdhëruar lirimin e tij të menjëhershëm nga paraburgimi. Vendimi i Apelit vjen pas kërkesës së paraqitur më herët nga mbrojtja e Boz",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-15T16:14:48+00:00",
+      "dateStr": "15 Aug, 16:14",
+      "isNew": true,
+      "id": "she01786810488"
+    },
+    {
+      "title": "Aksidentoi për vdekje 7-vjeçarin/ Petri Bozo lirohet nga qelia, në arrest shtëpiak",
+      "link": "https://abcnews.al/aksidentoi-per-vdekje-7-vjecarin-petri-bozo-lirohet-nga-qelia-ne-arrest-shtepiak/",
+      "description": "Producenti Petri Bozo është liruar nga paraburgimi pas vendimit të Gjykatës së Apelit Tiranë, e cila ka pranuar kërkesën e mbrojtjes për zëvendësimin e masës së sigurisë. Apeli ka vendosur që masa “arrest në burg” të zëvendësohet me masën “arrest në shtëpi”, duke urdhëruar edhe lirimin e menjëhershë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-15T16:06:36+00:00",
+      "dateStr": "15 Aug, 16:06",
+      "isNew": true,
+      "id": "abc01786809996"
+    },
+    {
+      "title": "Ramadani: Ajo që tha Dehari janë paralajmërime ogurzeza të LVV-së",
+      "link": "https://24-ore.com/ramadani-ajo-qe-tha-dehari-jane-paralajmerime-ogurzeza-te-lvv-se/",
+      "description": "Deputeti i Aleancës, Burim Ramadani, ka reaguar pas deklaratës së kryesuesit të seancës konstituive të Kuvendit, Avni Dehari, i cili ka thënë se zhvillimet e para tri ditëve në Kuvend janë pikërisht ato për të cilat kishte “paralajmëruar”. Ramadani ka ngritur pikëpyetje lidhur me atë se për çfarë sk",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T16:01:52+00:00",
+      "dateStr": "15 Aug, 16:01",
+      "isNew": true,
+      "id": "24 31786809712"
+    },
+    {
+      "title": "Miti i diasporës së ndriçuar politikisht",
+      "link": "https://24-ore.com/miti-i-diaspores-se-ndricuar-politikisht/",
+      "description": "Nga Bjorn Runa Sa herë që Shqipëria përballet me kriza apo ngërçe politike në dukje të pazgjidhshme, ka një fantazi romantike se si të dilet prej tyre dhe që lidhet gjithmonë me idenë se herët ose vonë, diaspora do të vijë për të na shpëtuar. Është një lloj bindjeje se shqiptarët që jetojnë jashtë j",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T16:00:08+00:00",
+      "dateStr": "15 Aug, 16:00",
+      "isNew": true,
+      "id": "24 41786809608"
+    },
+    {
+      "title": "Elbasan/ Tentoi të vriste një person me armë zjarri, policia arreston autorin 52-vjeçar (EMRAT)",
+      "link": "https://abcnews.al/elbasan-tentoi-te-vriste-nje-person-me-arme-zjarri-policia-arreston-autorin-52-vjecar/",
+      "description": "Policia e Elbasanit ka arrestuar 52-vjeçarin Poli Boriçi, i cili tentoi të vriste me armë zjarri, 50-vjeçarin Ermir Kertezi. Njëkohësisht, shërbimet e Policisë gjetën dhe sekuestruan, në cilësinë e provës materiale, armën e zjarrit pistoletë me të cilën autori tentoi të vriste 50-vjeçarin. Ngjarja n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-15T15:51:53+00:00",
+      "dateStr": "15 Aug, 15:51",
+      "isNew": true,
+      "id": "abc11786809113"
+    },
+    {
+      "title": "Privohen nga liria 12 shoferë për drejtim të pakujdesshëm të automjetit",
+      "link": "https://24-ore.com/privohen-nga-liria-12-shofere-per-drejtim-te-pakujdesshem-te-automjetit/",
+      "description": "Gjatë 24 orëve të fundit, në të gjithë territorin e vendit, nëpunës policorë kanë privuar nga liria 12 shoferë për shkak të kryerjes së veprës penale “drejtim i pakujdesshëm i automjetit motorik”. Prej tyre, shtatë shoferë kanë drejtuar automjet pa patentë shoferi, nga të cilët njëri ishte i mitur, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T15:51:48+00:00",
+      "dateStr": "15 Aug, 15:51",
+      "isNew": true,
+      "id": "24 51786809108"
+    },
+    {
+      "title": "New York Giants – Minnesota Vikings: Parasezoni hapet në MetLife më 15 gusht 2026",
+      "link": "https://24-ore.com/new-york-giants-minnesota-vikings-parasezoni-hapet-ne-metlife-me-15-gusht-2026/",
+      "description": "New York Giants dhe Minnesota Vikings u përballën në ndeshjen e parë të parasezonit më 15 gusht 2026 në MetLife Stadium në East Rutherford, New Jersey. Fil...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T15:51:06+00:00",
+      "dateStr": "15 Aug, 15:51",
+      "isNew": true,
+      "id": "24 61786809066"
+    },
+    {
+      "title": "MJEKËSI – Pllaka inteligjente monitoron ilaçin për Parkinsonin përmes djersës",
+      "link": "https://24-ore.com/mjekesi-pllaka-inteligjente-monitoron-ilacin-per-parkinsonin-permes-djerses/",
+      "description": "– Një pajisje e vogël që vendoset në majën e gishtit mund të ndihmojë në përcaktimin shumë më të saktë të dozës së ilaçit për sëmundjen e Parkinsonit, duke përmirësuar ndjeshëm cilësinë e jetës së pacientëve, sipas Reuters. Këtë e tregojnë të dhënat e një studimi të ri të publikuar në revistën shken",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T15:46:36+00:00",
+      "dateStr": "15 Aug, 15:46",
+      "isNew": true,
+      "id": "24 71786808796"
+    },
+    {
+      "title": "Një tërheqje e Russell Westbrook i bën tifozët e NBA të reflektojnë për epokat ikonike që po përfundojnë",
+      "link": "https://24-ore.com/nje-terheqje-e-russell-westbrook-i-ben-tifozet-e-nba-te-reflektojne-per-epokat-ikonike-qe-po-perfundojne/",
+      "description": "Russell Westbrook njoftoi tërheqjen nga basketbolli profesionist në një video në rrjetet sociale, duke vulosur zyrtarisht përfundimin e një karriere të spi...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T15:46:31+00:00",
+      "dateStr": "15 Aug, 15:46",
+      "isNew": true,
+      "id": "24 81786808791"
+    },
+    {
+      "title": "Sadie Sink shfaqet si Jean Grey me një fustan arkivor Alexander McQueen në D23",
+      "link": "https://24-ore.com/sadie-sink-shfaqet-si-jean-grey-me-nje-fustan-arkivor-alexander-mcqueen-ne-d23/",
+      "description": "Sadie Sink zyrtarisht prezantoi rolin e Jean Grey gjatë eventit të tifozëve D23 në Los Angeles, pas debutimit të saj si superheroinë në Spider-Man: Brand N...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T15:40:47+00:00",
+      "dateStr": "15 Aug, 15:40",
+      "isNew": true,
+      "id": "24 91786808447"
+    },
+    {
+      "title": "Zjarret, 13 vatra ende aktive/ 200 ha pyll pishe e djegur në Lurë, në Krujë e Mirditë s’ka rrezik për zonat e banuara",
+      "link": "https://abcnews.al/zjarret-13-vatra-ende-aktive-200-ha-pyll-pishe-e-djegur-ne-lure-ne-kruje-e-mirdite-ska-rrezik-per-zonat-e-banuara/",
+      "description": "Ministria e Mbrojtjes informon se, deri në orën 17:00, në territorin e vendit janë regjistruar 23 vatra zjarri, nga të cilat 13 mbeten aktive dhe 2 janë nën monitorim. Në operacionet e sotme janë angazhuar 317 forca operacionale dhe 32 automjete zjarrfikëse. Në mbështetje janë angazhuar 120 efektivë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-15T15:38:57+00:00",
+      "dateStr": "15 Aug, 15:38",
+      "isNew": true,
+      "id": "abc21786808337"
+    },
+    {
+      "title": "Misteri i atentatit të dështuar në Elbasan, arrestohet autori/ I ngeci arma apo u pendua në fund për vrasjen e Mir Bitocit",
+      "link": "https://shekulli.com.al/2026/08/15/misteri-i-atentatit-te-deshtuar-ne-elbasan-arrestohet-autori-i-ngeci-arma-apo-u-pendua-ne-fund-per-vrasjen-e-mir-bitocit/",
+      "description": "Policia e Elbasanit ka vënë në pranga autorin e dyshuar, i identifikuar si Poli Boriçi, për atentatin e mesditës së sotme, ndaj Ermir (Mir) Bitocit, ndodhur në ambientet e jashtme të një lokali. Ngjarja, e cila mund të kishte përfunduar me pasoja tragjike, ka ndodhur rreth orës 13:00, ndërsa autori ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-15T15:34:41+00:00",
+      "dateStr": "15 Aug, 15:34",
+      "isNew": true,
+      "id": "she11786808081"
+    },
+    {
+      "title": "VIDEO/ Atentati i dështuar në Elbasan, momenti kur autori tentoi të vriste një person në lokal por i ngeci arma",
+      "link": "https://abcnews.al/video-atentati-i-deshtuar-ne-elbasan-momenti-kur-autori-tentoi-te-vriste-nje-person-ne-lokal-por-i-ngeci-arma/",
+      "description": "ABC News ka siguruar pamje nga atentati i dështuar në Elbasan, ku u tentua të vritej Ermir Kertezi jashtë ambienteve të një lokali. Nga pamjet, shihet personi me bluzë të zezë, Kertezi cili fillimisht ndodhej brenda lokalit. Ai qëndron për disa momente në ambientet e brendshme dhe më pas ngrihet nga",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-15T15:33:46+00:00",
+      "dateStr": "15 Aug, 15:33",
+      "isNew": true,
+      "id": "abc31786808026"
+    },
+    {
+      "title": "Trafik droge nga Shqipëria në Turqi, kapen në Greqi 324 kg marijuanë/ Arrestohen dy persona",
+      "link": "https://abcnews.al/trafik-droge-nga-shqiperia-ne-turqi-kapen-ne-greqi-324-kg-marijuane-arrestohen-dy-persona/",
+      "description": "Oficerët e policisë nga Nëndrejtoria Kundër Narkotikëve të Drejtorisë së Krimit të Organizuar në Greqi shpërbënë një organizatë kriminale ndërkombëtare, anëtarët e së cilës ishin aktivë në transportin e sasive të konsiderueshme të marijuanës nga Shqipëria në Turqi, nëpërmjet territorit grek. Për të ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-15T15:32:39+00:00",
+      "dateStr": "15 Aug, 15:32",
+      "isNew": true,
+      "id": "abc41786807959"
     },
     {
       "title": "Aksident i dyfishtë në aksin Fier-Lushnje, plagosen babë e bir",
@@ -34,73 +199,7 @@
       "date": "2026-08-15T15:02:23+00:00",
       "dateStr": "15 Aug, 15:02",
       "isNew": true,
-      "id": "abc01786806143"
-    },
-    {
-      "title": "Kostumi 100 dollarësh i Bob Gainey, pjesë e historisë së Kupës Stanley të Canadiens",
-      "link": "https://24-ore.com/kostumi-100-dollaresh-i-bob-gainey-pjese-e-historise-se-kupes-stanley-te-canadiens/",
-      "description": "Bob Gainey ka rigjetur një kopje të reklamës së tij në Montreal Star të 11 marsit 1976, një imazh i vogël ku shfaqet fotografia e tij dhe një përshëndetje...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T15:02:05+00:00",
-      "dateStr": "15 Aug, 15:02",
-      "isNew": true,
-      "id": "24 21786806125"
-    },
-    {
-      "title": "I drejtoi armën në kokë, detaje tronditëse nga atentati në Elbasan, ja si shpëtoi shënjestra",
-      "link": "https://24-ore.com/i-drejtoi-armen-ne-koke-detaje-tronditese-nga-atentati-ne-elbasan-ja-si-shpetoi-shenjestra/",
-      "description": "Detaje të reja dalin në dritë lidhur me incidentin e rëndë me armë zjarri të regjistruar mesditën e kësaj të shtune në një lokal të njohur në qytetin e Elbasanit, ku Mir Bitoci dyshohet se ka qenë objektivi i një atentati. Ngjarja dyshohet se ka ndodhur rreth orës 14:50, në momentin kur Bitoci po la",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T15:01:30+00:00",
-      "dateStr": "15 Aug, 15:01",
-      "isNew": true,
-      "id": "24 31786806090"
-    },
-    {
-      "title": "BRUKSEL – BE shuan zjarrin më të madh të regjistruar ndonjëherë në Belgjikë",
-      "link": "https://24-ore.com/bruksel-be-shuan-zjarrin-me-te-madh-te-regjistruar-ndonjehere-ne-belgjike/",
-      "description": "– Bashkimi Evropian ka mobilizuar tre helikopterë dhe dy avionë zjarrfikës për të ndihmuar Belgjikën në përballimin e një zjarri masiv në lindje të vendit, sipas Reuters. Ndihma u kërkua nga autoritetet belge pasi zjarri në zonën e High Fens, rezervati më i madh natyror i Belgjikës, vazhdon të përha",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T15:00:08+00:00",
-      "dateStr": "15 Aug, 15:00",
-      "isNew": true,
-      "id": "24 41786806008"
-    },
-    {
-      "title": "Ekskluzive/ Spikati me fanellën e Skënderbeut, Estrela transferohet te Flamurtari",
-      "link": "https://24-ore.com/ekskluzive-spikati-me-fanellen-e-skenderbeut-estrela-transferohet-te-flamurtari/",
-      "description": "Flamurtari vazhdon të përforcojë organikën me elementë cilësorë në prag të startit të sezonit të ri në Kategorinë e Parë. RTSH Sport mëson se klubi vlonjat ka arritur marrëveshjen me Skënderbeun për të blerë mesfushorin portugez Paulo Estrela. Tratativat janë mbyllur me sukses dhe në orët në vijim d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T14:56:54+00:00",
-      "dateStr": "15 Aug, 14:56",
-      "isNew": true,
-      "id": "24 51786805814"
-    },
-    {
-      "title": "Dorëzohet Vezir Haziraj, ndalohet për 48 orë pas intervistimit nga Policia",
-      "link": "https://24-ore.com/dorezohet-vezir-haziraj-ndalohet-per-48-ore-pas-intervistimit-nga-policia/",
-      "description": "Vezir Haziraj, i dyshuar për plagosjen e një personi në fshatin Orrobërd të Istogut, është dorëzuar para autoriteteve policore, ndërsa pas intervistimit nga hetuesit policorë pritet të ndalohet për 48 orë me urdhër të Prokurorit të Shtetit. Lajmin e e ka konfirmuar për Telegrafin zëdhënësi i Prokuro",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T14:46:46+00:00",
-      "dateStr": "15 Aug, 14:46",
-      "isNew": true,
-      "id": "24 61786805206"
-    },
-    {
-      "title": "Një “Qendër” për Shqipërinë",
-      "link": "https://24-ore.com/nje-qender-per-shqiperine/",
-      "description": "Nga Ben Andoni Çka po e mban ende të gjallë me karburant “Protestën e Flamingove” është një kërkesë e dakorduar instinktivisht që i veçon të dyja partitë kryesore nga mjedisi i saj dhe ankthi se: “Shqipëria po shitet”! Nuk po shtojmë antisemitizmin dhe paradokset që duken sërish pak në fakt, para ko",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T14:46:22+00:00",
-      "dateStr": "15 Aug, 14:46",
-      "isNew": true,
-      "id": "24 71786805182"
+      "id": "abc51786806143"
     },
     {
       "title": "Pamjet e frikshme nga lokali/ Kush është shënjestra e atentatit të dështuar në Elbasan, autori i vuri armën në kokë Mir Bitocit, por…",
@@ -111,29 +210,7 @@
       "date": "2026-08-15T14:40:21+00:00",
       "dateStr": "15 Aug, 14:40",
       "isNew": true,
-      "id": "she01786804821"
-    },
-    {
-      "title": "Tërmet në Gostivar",
-      "link": "https://24-ore.com/termet-ne-gostivar/",
-      "description": "Një tërmet me magnitudë 2.8 ka goditur Maqedoninë e Veriut. Dridhjet janë ndjerë në orën 16:10, teksa epidendra është rreth 8 kilometra në veri të qytetit të Gostivarit. Sipas të dhënave nga Enti Sizmologjik, epiqendra e tërmetit ka qenë rreth 2 kilometra në lindje të Negotinës së Vrapçishtit, në nj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T14:31:46+00:00",
-      "dateStr": "15 Aug, 14:31",
-      "isNew": true,
-      "id": "24 81786804306"
-    },
-    {
-      "title": "Si mund të zhvillohen sfidat e Roman Reigns për pjesën e mbetur të vitit 2026",
-      "link": "https://24-ore.com/si-mund-te-zhvillohen-sfidat-e-roman-reigns-per-pjesen-e-mbetur-te-vitit-2026/",
-      "description": "Roman Reigns ka konsoliduar pozicionin e tij si Kampion Botëror i Peshës së Rëndë në WWE dhe tani po përballet me serinë e sfidave që mund të përcaktojnë p...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T14:30:58+00:00",
-      "dateStr": "15 Aug, 14:30",
-      "isNew": true,
-      "id": "24 91786804258"
+      "id": "she21786804821"
     },
     {
       "title": "Dështon atentati në Elbasan, autori hyn në mes të lokalit të populluar dhe tenton të vrasë një person, i ngec arma",
@@ -144,7 +221,7 @@
       "date": "2026-08-15T14:26:47+00:00",
       "dateStr": "15 Aug, 14:26",
       "isNew": true,
-      "id": "she11786804007"
+      "id": "she31786804007"
     },
     {
       "title": "Elbasan/ Tentoi të vriste një person në një lokal, shpallet në kërkim",
@@ -155,7 +232,7 @@
       "date": "2026-08-15T14:24:52+00:00",
       "dateStr": "15 Aug, 14:24",
       "isNew": true,
-      "id": "abc11786803892"
+      "id": "abc61786803892"
     },
     {
       "title": "Sulme izraelite në Liban, 11 persona të vrarë/ Mes tyre edhe fëmijë",
@@ -166,7 +243,7 @@
       "date": "2026-08-15T14:21:57+00:00",
       "dateStr": "15 Aug, 14:21",
       "isNew": true,
-      "id": "abc21786803717"
+      "id": "abc71786803717"
     },
     {
       "title": "NewsHour me Sali Doçi, (15/08/2026)",
@@ -177,7 +254,7 @@
       "date": "2026-08-15T14:07:20+00:00",
       "dateStr": "15 Aug, 14:07",
       "isNew": true,
-      "id": "abc31786802840"
+      "id": "abc81786802840"
     },
     {
       "title": "Shpërthen në flakë makina në Gjirokastër-Kakavijë, drejtuesi arrin të dalë në kohë, çfarë dyshohet",
@@ -188,7 +265,7 @@
       "date": "2026-08-15T14:05:01+00:00",
       "dateStr": "15 Aug, 14:05",
       "isNew": true,
-      "id": "she21786802701"
+      "id": "she41786802701"
     },
     {
       "title": "Tjetër tërmet në Indonezi, regjistrohen lëkundje sizmike me magnitudë 6.9",
@@ -199,7 +276,7 @@
       "date": "2026-08-15T13:52:22+00:00",
       "dateStr": "15 Aug, 13:52",
       "isNew": true,
-      "id": "abc41786801942"
+      "id": "abc91786801942"
     },
     {
       "title": "Amnistia prek rreth 10 mijë dosje/ Urdhri i Çelës: Prokurorët të pushojnë çështjet që përfitojnë nga ligji",
@@ -210,62 +287,7 @@
       "date": "2026-08-15T13:36:44+00:00",
       "dateStr": "15 Aug, 13:36",
       "isNew": true,
-      "id": "she31786801004"
-    },
-    {
-      "title": "Plumba dhe zemërim, 5 të vrarë në SHBA/ Michigan, autori i sulmit dhe një tjetër gjenden të vrarë në makinë",
-      "link": "https://abcnews.al/plumba-dhe-zemerim-5-te-vrare-ne-shba-michigan-autori-i-sulmit-dhe-nje-tjeter-gjenden-te-vrare-ne-makine/",
-      "description": "Të paktën 5 persona kanë humbur jetën si pasojë e një serie të shtënash me armë zjarri në Michigan të Shteteve të Bashkuara të Amerikës pasditen e të premtes, në një dinamikë dhe motive që po hetohen nga autoritetet. Autori i dyshuar i vrasjeve, Chad Hickman, u raportua nga policia se u gjet i vdeku",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T13:31:21+00:00",
-      "dateStr": "15 Aug, 13:31",
-      "isNew": true,
-      "id": "abc51786800681"
-    },
-    {
-      "title": "Flakët e Bosnjes kalojnë në Kroaci/ Digjen pyjet kufitare, vatra zjarresh në disa rajone",
-      "link": "https://abcnews.al/flaket-e-bosnjes-kalojne-ne-kroaci-digjen-pyjet-kufitare-vatra-zjarresh-ne-disa-rajone/",
-      "description": "Kroacia po vijon përballjen e saj me zjarret shkatërruese. Situata më kritike këtë të shtunë paraqitet në Dugi Otok, ku zjarri është përhapur në mënyrë të shpejtë, i favorizuar nga erërat e forta. Terreni i mbuluar nga shkurre të dendura e ka bërë të vështirë ndërhyrjen e forcave tokësore. Deri më t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T13:26:52+00:00",
-      "dateStr": "15 Aug, 13:26",
-      "isNew": true,
-      "id": "abc61786800412"
-    },
-    {
-      "title": "News Line me Jeta Kasemin, (15/08/2026)",
-      "link": "https://abcnews.al/news-line-me-jeta-kasemin-15-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T13:06:55+00:00",
-      "dateStr": "15 Aug, 13:06",
-      "isNew": true,
-      "id": "abc71786799215"
-    },
-    {
-      "title": "Ekzekutoi me 9 plumba shqiptarin tjetër për larje hesapesh/ Lirohet para kohe nga qelia Angjelin Sterkaj",
-      "link": "https://abcnews.al/ekzekutoi-me-9-plumba-shqiptarin-tjeter-per-larje-hesapesh-lirohet-para-kohe-nga-qelia-angjelin-sterkaj/",
-      "description": "Angjelin Sterkaj, i cili në vitin 2023 u dënua nga Gjykata e Lartë e Islandës me 16 vjet burgim për vrasjen e Armando Beqirajt, jashtë shtëpisë së tij në Reykjavík në vitin 2021, tashmë ka përfituar lirimin me kusht dhe është dëbuar nga vendi. Atij i është vendosur ndalim rikthimi në Islandë dhe në ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T12:48:27+00:00",
-      "dateStr": "15 Aug, 12:48",
-      "isNew": true,
-      "id": "abc81786798107"
-    },
-    {
-      "title": "Zjarret, 9 vatra aktive/ Ndërhyrje intensive në Dajt dhe Gurë-Lurë, 285 forca dhe 4 mjete ajrore në terren",
-      "link": "https://abcnews.al/zjarret-9-vatra-aktive-nderhyrje-intensive-ne-dajt-dhe-gure-lure-285-forca-dhe-4-mjete-ajrore-ne-terren/",
-      "description": "Nëntë vatra zjarri vijojnë të jenë aktive në disa zona të vendit, ndërsa 2 të tjera janë nën monitorim, sipas përditësimit të Ministrisë së Mbrojtjes për situatën deri në orën 14:00 të 15 gushtit. Në operacionet për izolimin dhe shuarjen e flakëve janë angazhuar 285 forca operacionale, mes tyre 120 ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T12:35:21+00:00",
-      "dateStr": "15 Aug, 12:35",
-      "isNew": true,
-      "id": "abc91786797321"
+      "id": "she51786801004"
     },
     {
       "title": "Tronditëse/ Ndahet nga jeta në moshën 35-vjeçare Arlend Gjoni, shqiptari që Forbes e promovoi për inteligjencën artificiale në shëndetësi",
@@ -276,7 +298,7 @@
       "date": "2026-08-15T12:18:21+00:00",
       "dateStr": "15 Aug, 12:18",
       "isNew": true,
-      "id": "she41786796301"
+      "id": "she61786796301"
     },
     {
       "title": "Dy vite pa Lorenzon, nëna e 16-vjeçarit shqiptar: Dua të takoj njerëzit që jetojnë me organet e djalit tim",
@@ -287,7 +309,7 @@
       "date": "2026-08-15T12:11:38+00:00",
       "dateStr": "15 Aug, 12:11",
       "isNew": true,
-      "id": "she51786795898"
+      "id": "she71786795898"
     },
     {
       "title": "“A flini bashkë kur shkoni me pushime?”/ Nora Istrefi refuzon të përgjigjet për Robert Berishën",
@@ -298,7 +320,7 @@
       "date": "2026-08-15T12:03:09+00:00",
       "dateStr": "15 Aug, 12:03",
       "isNew": true,
-      "id": "she61786795389"
+      "id": "she81786795389"
     },
     {
       "title": "Lirohet pas 5 vitesh në burg dhe dëbohet nga Islanda shqiptari që ekzekutoi me 9 plumba Armando Beqirajn",
@@ -309,29 +331,7 @@
       "date": "2026-08-15T11:21:12+00:00",
       "dateStr": "15 Aug, 11:21",
       "isNew": true,
-      "id": "she71786792872"
-    },
-    {
-      "title": "“Larg qoftë nuk shpërthen ndonjë gjë”, zjarr i fuqishëm në hyrje të Elbasanit, qindra makina të bllokuara: Ambulanca nuk ka nga kalon",
-      "link": "https://shekulli.com.al/2026/08/15/larg-qofte-nuk-shperthen-ndonje-gje-zjarr-i-fuqishem-ne-hyrje-te-elbasanit-qindra-makina-te-bllokuara-ambulanca-nuk-ka-nga-kalon/",
-      "description": "ELBASAN- Trafiku i rënduar në Bradashesh nuk po shkakton vetëm vonesa dhe nervozizëm për drejtuesit e mjeteve. Këtë të shtunë, një autoveturë është përfshirë nga flakët në mes të radhës së gjatë të automjeteve, duke alarmuar drejtuesit që ndodheshin pranë saj. Radhët e gjata të automjeteve në dalje ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-15T11:16:50+00:00",
-      "dateStr": "15 Aug, 11:16",
-      "isNew": true,
-      "id": "she81786792610"
-    },
-    {
-      "title": "Nga skenat prestigjioze te paraburgimi/ Kush është violinisti shqiptar që u kap me 38.3 kg kokainë në Francë",
-      "link": "https://shekulli.com.al/2026/08/15/nga-skenat-prestigjioze-te-paraburgimi-kush-eshte-violinisti-shqiptar-qe-u-kap-me-38-3-kg-kokaine-ne-france/",
-      "description": "Shekulli mëson identitetin e 45-vjeçarit shqiptar, i cili u arrestua me një sasi të madhe kokaine të fshehur në makinën e tij. Në banesë iu gjetën armë, municion, jelek antiplumb dhe 88.900 euro cash. Violinisti shqiptar i arrestuar në Francë me 38.3 kilogramë kokainë është Beng Bakalli, mëson ekskl",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-15T10:10:41+00:00",
-      "dateStr": "15 Aug, 10:10",
-      "isNew": true,
-      "id": "she91786788641"
+      "id": "she91786792872"
     }
   ]
 }
