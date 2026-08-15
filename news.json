@@ -1,8 +1,96 @@
 {
-  "lastUpdated": "2026-08-15T21:15:59.168012+00:00",
+  "lastUpdated": "2026-08-15T22:15:30.533486+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Shohei Ohtani mund të rifillojë të hedhë para përfundimit të sezonit, thotë GM i Dodgers",
+      "link": "https://24-ore.com/shohei-ohtani-mund-te-rifilloje-te-hedhe-para-perfundimit-te-sezonit-thote-gm-i-dodgers/",
+      "description": "Los Angeles Dodgers po trajtojnë me kujdes rikthimin e Shohei Ohtani si pjesë e misionit të tyre si hedhës. Ylli dykësh nuk ka hedhur që prej 3 korrikut pë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T22:01:34+00:00",
+      "dateStr": "15 Aug, 22:01",
+      "isNew": true,
+      "id": "24 01786831294"
+    },
+    {
+      "title": "I tha ChatGPT-së se do të vriste ish-të dashurën, OpenAI njoftoi FBI",
+      "link": "https://24-ore.com/i-tha-chatgpt-se-se-do-te-vriste-ish-te-dashuren-openai-njoftoi-fbi/",
+      "description": "OpenAI raportoi në FBI një 25-vjeçar nga Florida, pasi ky i fundit shkroi në ChatGPT plane të hollësishme për përdhunimin dhe vrasjen e ish-të dashurës.Darren Zhou i shkroi robotit bashkëbisedues se do ta vriste të renë deri në fund të muajit.Sipas hetuesve, ish-analisti i një banke të njohur iu dre",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T21:42:04+00:00",
+      "dateStr": "15 Aug, 21:42",
+      "isNew": true,
+      "id": "24 11786830124"
+    },
+    {
+      "title": "Gjykatësi i jep të drejtë Madison Square Garden në padinë ndaj Charles Oakley, ish-lojtari nuk arriti të provojë sulmin",
+      "link": "https://24-ore.com/gjykatesi-i-jep-te-drejte-madison-square-garden-ne-padine-ndaj-charles-oakley-ish-lojtari-nuk-arriti-te-provoje-sulmin/",
+      "description": "Një gjykatë vendosi që Madison Square Garden nuk ishte përgjegjëse për sulmin që pretendonte të kishte pësuar Charles Oakley gjatë përjashtimit të tij nga...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T21:21:40+00:00",
+      "dateStr": "15 Aug, 21:21",
+      "isNew": true,
+      "id": "24 21786828900"
+    },
+    {
+      "title": "Joshua Báez i Cardinals bën histori në MLB me tre homerun në tre at-bat-et e para të karrierës",
+      "link": "https://24-ore.com/joshua-baez-i-cardinals-ben-histori-ne-mlb-me-tre-homerun-ne-tre-at-bat-et-e-para-te-karrieres/",
+      "description": "Joshua Báez, përforcuesi i St. Louis Cardinals, nisi karrierën e tij në Major League Baseball me një arritje të jashtëzakonshme: ai goditi homerun në secil...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T21:20:47+00:00",
+      "dateStr": "15 Aug, 21:20",
+      "isNew": true,
+      "id": "24 31786828847"
+    },
+    {
+      "title": "Rama për median britanike: Zvërneci nuk ndalet, do konsultohemi me palët e interesuara",
+      "link": "https://24-ore.com/rama-per-median-britanike-zverneci-nuk-ndalet-do-konsultohemi-me-palet-e-interesuara/",
+      "description": "Kryeministri Edi Rama ka zhvilluar së fundmi një intervistë për median britanike “UnHerd” teksa ka folur lidhur me protestat në Tiranë. Në intervistën për UnHerd, Rama u shpreh se protestat e sotme janë të nxitura kryesisht nga forca të vogla opozitare, si nga e majta ashtu edhe nga e djathta ekstre",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T21:17:35+00:00",
+      "dateStr": "15 Aug, 21:17",
+      "isNew": true,
+      "id": "24 41786828655"
+    },
+    {
+      "title": "Zjarret vijojnë të shkatërrojnë Evropën, mijëra njerëz detyrohen të braktisin shtëpitë",
+      "link": "https://24-ore.com/zjarret-vijojne-te-shkaterrojne-evropen-mijera-njerez-detyrohen-te-braktisin-shtepite/",
+      "description": "Presidentja e Komisionit Evropian, Ursula von der Leyen, deklaroi të shtunën pasdite se Evropa ndodhet në “gatishmëri të lartë për zjarret” dhe se presioni mbi vendet e Evropës Lindore po rritet. Evropa vijon të luftojë me një seri zjarresh shkatërruese, ndërsa kontinenti përballet me temperatura pë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T21:17:22+00:00",
+      "dateStr": "15 Aug, 21:17",
+      "isNew": true,
+      "id": "24 51786828642"
+    },
+    {
+      "title": "Para-sezoni NFL 2026, Java 1: Çfarë mësuam nga ndeshjet e së shtunës",
+      "link": "https://24-ore.com/para-sezoni-nfl-2026-java-1-cfare-mesuam-nga-ndeshjet-e-se-shtunes/",
+      "description": "Java e parë e para-sezonit NFL 2026 solli disa sinjale interesante për skuadrat që po përgatiten për kampionatin. Në ndeshjet e së shtunës u shënuan fitorj...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T21:17:11+00:00",
+      "dateStr": "15 Aug, 21:17",
+      "isNew": true,
+      "id": "24 61786828631"
+    },
+    {
+      "title": "Adoleshenti akuzohet për vrasjen e nënës dhe vëllait, përdori ChatGPT-në për të krijuar “histori fantazie” mbi vrasjen e familjes",
+      "link": "https://24-ore.com/adoleshenti-akuzohet-per-vrasjen-e-nenes-dhe-vellait-perdori-chatgpt-ne-per-te-krijuar-histori-fantazie-mbi-vrasjen-e-familjes/",
+      "description": "Një adoleshent nga Massachusettsi, i akuzuar për vrasjen e nënës dhe vëllait të tij më të vogël, kishte përdorur ChatGPT për të kërkuar “ide teorike ose histori fantazie” rreth vrasjes së familjes së tij, raporton CNN. Të enjten, 17-vjeçari Arjun Aravind tha se ishte i pafajshëm ndaj dy akuzave për ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-15T21:17:08+00:00",
+      "dateStr": "15 Aug, 21:17",
+      "isNew": true,
+      "id": "24 71786828628"
+    },
     {
       "title": "Apeli vërteton dënimin me 24 vjet burgim për të akuzuarin për vrasjen e dyfishtë në Vushtrri",
       "link": "https://24-ore.com/apeli-verteton-denimin-me-24-vjet-burgim-per-te-akuzuarin-per-vrasjen-e-dyfishte-ne-vushtrri/",
@@ -12,7 +100,7 @@
       "date": "2026-08-15T21:01:48+00:00",
       "dateStr": "15 Aug, 21:01",
       "isNew": true,
-      "id": "24 01786827708"
+      "id": "24 81786827708"
     },
     {
       "title": "Lufta e zhyt Iranin më thellë në krizë ekonomike",
@@ -34,40 +122,7 @@
       "date": "2026-08-15T20:36:40+00:00",
       "dateStr": "15 Aug, 20:36",
       "isNew": true,
-      "id": "24 11786826200"
-    },
-    {
-      "title": "Shteti hyn në tregun e banesave për të financuar strehimin social",
-      "link": "https://24-ore.com/shteti-hyn-ne-tregun-e-banesave-per-te-financuar-strehimin-social/",
-      "description": "Drafti i ri u jep institucioneve publike të drejtën të zhvillojnë dhe të shesin banesa me çmim tregu, krijon një Garanci Sovrane për kreditë e lehtësuara dhe trefishon pragun ligjor të grantit të menjëhershëm. Blerja e një banese është bërë gjithnjë e më e vështirë për shumë familje shqiptare, ndërs",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T20:31:15+00:00",
-      "dateStr": "15 Aug, 20:31",
-      "isNew": true,
-      "id": "24 21786825875"
-    },
-    {
-      "title": "Qiraja afatgjatë fiton terren, ndërsa ajo ditore po humbet avantazhin",
-      "link": "https://24-ore.com/qiraja-afatgjate-fiton-terren-ndersa-ajo-ditore-po-humbet-avantazhin/",
-      "description": "Kalimi masiv i apartamenteve drejt qiradhënies ditore uli ofertën për banim afatgjatë dhe ushtroi presion të fortë mbi çmimet në Tiranë. Në 6-mujorin e parë të vitit 2026, qiraja mesatare për apartamentet 1+1 arriti në 590 euro në muaj, ndërsa për banesat 2+1 në 954 euro, me rritje përkatësisht 4.4%",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T20:31:05+00:00",
-      "dateStr": "15 Aug, 20:31",
-      "isNew": true,
-      "id": "24 31786825865"
-    },
-    {
-      "title": "Kaia Gerber dhe Lewis Pullman ruajnë stilin e tyre të përjetshëm gjatë një darke në Los Angeles",
-      "link": "https://24-ore.com/kaia-gerber-dhe-lewis-pullman-ruajne-stilin-e-tyre-te-perjetshem-gjate-nje-darke-ne-los-angeles/",
-      "description": "Modelja e kthyer në aktore Kaia Gerber dhe partneri i saj, aktori Lewis Pullman, u panë në një dalje për darkë në Los Angeles, ku zgjodhën veshje të thjesh...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T20:31:01+00:00",
-      "dateStr": "15 Aug, 20:31",
-      "isNew": true,
-      "id": "24 41786825861"
+      "id": "24 91786826200"
     },
     {
       "title": "Migrantët tentojnë sërish kalimin drejt Ceutës, Maroku ndërhyn me forcë: 111 të ndaluar, 61 në pranga",
@@ -92,39 +147,6 @@
       "id": "abc11786825732"
     },
     {
-      "title": "Qytetet ku fitohet më shumë nga qiradhënia ditore, rekord bregdeti, po kryeqyteti?!",
-      "link": "https://24-ore.com/qytetet-ku-fitohet-me-shume-nga-qiradhenia-ditore-rekord-bregdeti-po-kryeqyteti/",
-      "description": "Cilat janë qytetet ku biznesi i qirasë afatshkurtër është më i zhvilluar? Sa fitohet nga qiradhënia sipas muajve me ditë dhe afatgjatë? A ia vlen të blesh një apartament për ta dhënë me qira? Pse leverdia më e madhe është në bregdet dhe jo në kryeqytet. Harta e qiradhënies afatshkurtër në Shqipëri p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T20:17:19+00:00",
-      "dateStr": "15 Aug, 20:17",
-      "isNew": true,
-      "id": "24 51786825039"
-    },
-    {
-      "title": "Arrijnë në 50 milionë euro fitimet nga dhënia e shtëpive me qira ditore në janar-qershor 2026",
-      "link": "https://24-ore.com/arrijne-ne-50-milione-euro-fitimet-nga-dhenia-e-shtepive-me-qira-ditore-ne-janar-qershor-2026/",
-      "description": "Në janar-qershor 2026, të gjithë ata që kanë dhënë shtëpinë me qiranë ditore, kanë arkëtuar në total gati 50 milionë euro. Gjithsesi, rritja e stokut të apartamenteve që hidhen në treg për t’u dhënë me qira ditore është ngadalësuar këtë vit. Në 6 muajt e parë të vitit 2026, rreth 27.7 mijë apartamen",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T20:17:08+00:00",
-      "dateStr": "15 Aug, 20:17",
-      "isNew": true,
-      "id": "24 61786825028"
-    },
-    {
-      "title": "Spotify merr masa kundër artistëve të rremë të krijuar nga AI",
-      "link": "https://24-ore.com/spotify-merr-masa-kunder-artisteve-te-rreme-te-krijuar-nga-ai/",
-      "description": "Spotify po prezanton një veçori të re që do t’u mundësojë përdoruesve të dallojnë nëse një artist është i krijuar nga Al. Nga mesi i shtatorit, në disa profile artistësh do të shfaqet një etiketë “AI Persona”, e cila do të tregojë se identiteti i artistit nuk i përket një personi real. Spotify thotë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T20:16:43+00:00",
-      "dateStr": "15 Aug, 20:16",
-      "isNew": true,
-      "id": "24 71786825003"
-    },
-    {
       "title": "Gjenden trupat e 21 palestinezëve nën rrënoja në Gaza",
       "link": "https://abcnews.al/gjenden-trupat-e-21-palestinezeve-nen-rrenoja-ne-gaza/",
       "description": "Ekipet e mbrojtjes civile në Gaza nxorën të shtunën mbetjet e 21 palestinezëve nën dy shtëpi të shkatërruara nga sulmet izraelite gjatë luftës në Rripin e Gazës. Ata filluan të kërkonin për eshtrat e 40 të tjerëve që besohet se ishin bllokuar nën një shtëpi të tretë. Trupat e 12 palestinezëve u gjet",
@@ -134,28 +156,6 @@
       "dateStr": "15 Aug, 20:07",
       "isNew": true,
       "id": "abc21786824453"
-    },
-    {
-      "title": "Clark dhe Bueckers shënuan 29, por Indiana Fever fiton 98-87 ndaj Dallas Wings",
-      "link": "https://24-ore.com/clark-dhe-bueckers-shenuan-29-por-indiana-fever-fiton-98-87-ndaj-dallas-wings/",
-      "description": "Indiana Fever arritën fitore 98-87 ndaj Dallas Wings në një ndeshje ku dy zgjedhjet e para të draftit vazhduan të tregojnë vlerën e tyre: Caitlin Clark dhe...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T20:00:38+00:00",
-      "dateStr": "15 Aug, 20:00",
-      "isNew": true,
-      "id": "24 81786824038"
-    },
-    {
-      "title": "Përditësim për rikthimin e Shohei Ohtani pas seancës së fundit të bullpen-it",
-      "link": "https://24-ore.com/perditesim-per-rikthimin-e-shohei-ohtani-pas-seances-se-fundit-te-bullpen-it/",
-      "description": "Shohei Ohtani bëri një hap të rëndësishëm drejt rikthimit në të hedhurat pas një seance bullpen me 35 goditje, përpara fitores 3-1 të Los Angeles Dodgers n...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T19:56:09+00:00",
-      "dateStr": "15 Aug, 19:56",
-      "isNew": true,
-      "id": "24 91786823769"
     },
     {
       "title": "Koreja e Jugut propozon bisedime për t’i dhënë fund zyrtarisht luftës me Korenë e Veriut",
