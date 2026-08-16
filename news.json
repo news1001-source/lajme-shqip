@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-08-16T22:15:17.528963+00:00",
+  "lastUpdated": "2026-08-16T23:14:29.886661+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Tensione në ditën e 78-të të protestës",
+      "link": "https://24-ore.com/tensione-ne-diten-e-78-te-te-protestes/",
+      "description": "Qytetarët u mbledhën sot sërish në orën 19:00 në sheshin “Skënderbej”, për të protestuar kundër qeverisë në ditën e 78 të protestës. Pas fjalimeve para kryeministrisë, më pas, protestuesit marshuan drejt Bulevardit “Dëshmorët e Kombit”. Gjatë tubimit, pati tensione mes dy grupe protestuesish. Person",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T22:17:50+00:00",
+      "dateStr": "16 Aug, 22:17",
+      "isNew": true,
+      "id": "24 01786918670"
+    },
+    {
+      "title": "I dërguari i Trump, Kushner takohet me liderin e Hamasit, diskutohet plani i paqes për Gazën",
+      "link": "https://24-ore.com/i-derguari-i-trump-kushner-takohet-me-liderin-e-hamasit-diskutohet-plani-i-paqes-per-gazen/",
+      "description": "I dërguari i Presidentit amerikan Donald Trump për Lindjen e Mesme, Jared Kushner, ka zhvilluar bisedime të rralla me drejtuesit e Hamasit për zbatimin e planit të mbështetur nga Shtetet e Bashkuara për paqen në Gaza. Një zyrtar palestinez i tha BBC-së se Kushner, u takua të dielën në Egjipt me një ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T22:17:37+00:00",
+      "dateStr": "16 Aug, 22:17",
+      "isNew": true,
+      "id": "24 11786918657"
+    },
     {
       "title": "Si lexon truri ynë? AI tregon pse disa fjalë i kalojmë dhe të tjerat i rilexojmë",
       "link": "https://24-ore.com/si-lexon-truri-yne-ai-tregon-pse-disa-fjale-i-kalojme-dhe-te-tjerat-i-rilexojme/",
@@ -12,7 +34,7 @@
       "date": "2026-08-16T21:57:25+00:00",
       "dateStr": "16 Aug, 21:57",
       "isNew": true,
-      "id": "24 01786917445"
+      "id": "24 21786917445"
     },
     {
       "title": "VIDEO/ Zjarr në Qishbardhë të Vlorës, era e fortë favorizon përhapjen e flakëve",
@@ -34,7 +56,7 @@
       "date": "2026-08-16T21:41:25+00:00",
       "dateStr": "16 Aug, 21:41",
       "isNew": true,
-      "id": "24 11786916485"
+      "id": "24 31786916485"
     },
     {
       "title": "Europiani i atletikës: Italia triumfon në “Birmingham 2026”, ndjekin Britania e Madhe dhe Gjermania",
@@ -45,7 +67,7 @@
       "date": "2026-08-16T21:17:22+00:00",
       "dateStr": "16 Aug, 21:17",
       "isNew": true,
-      "id": "24 21786915042"
+      "id": "24 41786915042"
     },
     {
       "title": "Koci: Arrestimet në Serbi po shtohen, institucionet e Kosovës nuk po më ndihmojnë",
@@ -56,7 +78,7 @@
       "date": "2026-08-16T21:12:24+00:00",
       "dateStr": "16 Aug, 21:12",
       "isNew": true,
-      "id": "24 31786914744"
+      "id": "24 51786914744"
     },
     {
       "title": "Europiani i atletikës: Duplantis mjaftohet më të artën, nuk synoi rekordin botëror",
@@ -67,7 +89,7 @@
       "date": "2026-08-16T21:02:42+00:00",
       "dateStr": "16 Aug, 21:02",
       "isNew": true,
-      "id": "24 41786914162"
+      "id": "24 61786914162"
     },
     {
       "title": "Aaron Judge pritet të rikthehet nga fraktura e brinjës; Aaron Boone jep përditësimin e fundit",
@@ -78,7 +100,7 @@
       "date": "2026-08-16T20:56:01+00:00",
       "dateStr": "16 Aug, 20:56",
       "isNew": true,
-      "id": "24 51786913761"
+      "id": "24 71786913761"
     },
     {
       "title": "VIDEO/ Tensione te “Revolucioni Flamingo,” përplasen fizikisht 2 grupe të protestuesve para Kryeministrisë",
@@ -122,7 +144,7 @@
       "date": "2026-08-16T20:17:29+00:00",
       "dateStr": "16 Aug, 20:17",
       "isNew": true,
-      "id": "24 61786911449"
+      "id": "24 81786911449"
     },
     {
       "title": "Dodgers ndaj Brewers në Dodger Stadium: nisje e qetë e ndeshjes më 16 gusht 2026",
@@ -133,18 +155,7 @@
       "date": "2026-08-16T20:15:37+00:00",
       "dateStr": "16 Aug, 20:15",
       "isNew": true,
-      "id": "24 71786911337"
-    },
-    {
-      "title": "I arrestuari për sulmin ndaj KFOR-it dhe Policisë dyshohet se ishte pjesëtar i policisë serbe",
-      "link": "https://24-ore.com/i-arrestuari-per-sulmin-ndaj-kfor-it-dhe-policise-dyshohet-se-ishte-pjesetar-i-policise-serbe/",
-      "description": "Kanë dalë detaje të reja për personin e arrestuar të shtunën në Zveçan, i dyshuar për përfshirje në sulmet ndaj pjesëtarëve të KFOR-it dhe Policisë së Kosovës gjatë tensioneve të majit të vitit 2023. Burime të KosovaPress-it kanë bërë të ditur se i arrestuari është Igor Markoviq, i cili, sipas të nj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T20:07:20+00:00",
-      "dateStr": "16 Aug, 20:07",
-      "isNew": true,
-      "id": "24 81786910840"
+      "id": "24 91786911337"
     },
     {
       "title": "VIDEO/ Dalin pamjet e grabitjes në muzeun në Siçili, momenti kur autorët vjedhin 4 vepra të Antonello da Messina",
@@ -156,17 +167,6 @@
       "dateStr": "16 Aug, 20:03",
       "isNew": true,
       "id": "abc41786910633"
-    },
-    {
-      "title": "“Messi, kontrollo Paredes-in. Nuk dua… e ka një të verdhë. Kontrolloje të lutem. Gjithmonë!”",
-      "link": "https://24-ore.com/messi-kontrollo-paredes-in-nuk-dua-e-ka-nje-te-verdhe-kontrolloje-te-lutem-gjithmone/",
-      "description": "Janë publikuar pamje të reja të gjyqtarit të finales së Kupës së Botës, i cili i lutet Lionel Messi-t për të “kontrolluar” Leandro Paredes-in përpara shpërthimit të tij të dhunshëm në fund të ndeshjes. Tani, është zbuluar se gjyqtari slloven, Slavko Vinçiç, i ka kërkuar kapitenit të Argjentinës, Mes",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T19:57:27+00:00",
-      "dateStr": "16 Aug, 19:57",
-      "isNew": true,
-      "id": "24 91786910247"
     },
     {
       "title": "Tragjedi në Itali/ U nisën me makinë me djalin, pas 100 kilometrash zbuluan se kishte vdekur",
