@@ -1,62 +1,205 @@
 {
-  "lastUpdated": "2026-08-16T16:17:59.174101+00:00",
+  "lastUpdated": "2026-08-16T17:15:00.110079+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Gonxhja: Gërmimi arkeologjik në Apoloni, të dhëna të reja mbi monumentin e qytetit antik",
-      "link": "https://24-ore.com/gonxhja-germimi-arkeologjik-ne-apoloni-te-dhena-te-reja-mbi-monumentin-e-qytetit-antik/",
-      "description": "Gërmimi arkeologjik studimor në Parkun Arkeologjik të Apolonisë po sjell në dritë të dhëna të reja mbi një prej monumenteve publike më të rëndësishme të qytetit antik. Ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja, bëri të ditur se kërkimet po zhvillohen në kuadër të misionit shqiptaro-f",
+      "title": "Hamza: 16 shtatori duhet të jetë dita e kthimit të Thaçit, Veselit, Krasniqit e Selimit në Kosovë",
+      "link": "https://24-ore.com/hamza-16-shtatori-duhet-te-jete-dita-e-kthimit-te-thacit-veselit-krasniqit-e-selimit-ne-kosove/",
+      "description": "Kryetari i Partisë Demokratike të Kosovës, Bedri Hamza, ka reaguar lidhur me procesin gjyqësor ndaj ish-krerëve të UÇK-së në Hagë, duke thënë se kanë mbetur edhe 30 ditë deri më 16 shtator, kur pritet të shpallet aktgjykimi në këtë rast. Hamza ka thënë se 16 shtatori duhet të shënojë fundin e asaj q",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-16T16:17:14+00:00",
+      "date": "2026-08-16T17:02:22+00:00",
+      "dateStr": "16 Aug, 17:02",
+      "isNew": true,
+      "id": "24 01786899742"
+    },
+    {
+      "title": "Ishte në arrati për tetë ditë, Prokuroria kërkon paraburgim ndaj Vezir Hazirajt, i dyshuar për disa vepra penale",
+      "link": "https://24-ore.com/ishte-ne-arrati-per-tete-dite-prokuroria-kerkon-paraburgim-ndaj-vezir-hazirajt-i-dyshuar-per-disa-vepra-penale/",
+      "description": "Prokuroria Themelore në Pejë ka kërkuar caktimin e masës së paraburgimit ndaj Vezir Hazirajt, i dyshuar për veprat penale vrasje e mbetur në tentativë, mbajtje të paautorizuar të armëve dhe kanosje. Kërkesa për paraburgim është paraqitur pas përfundimit të seancës dëgjimore, ndërsa vendimi për masën",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T16:57:29+00:00",
+      "dateStr": "16 Aug, 16:57",
+      "isNew": true,
+      "id": "24 11786899449"
+    },
+    {
+      "title": "Humbi sandalen mes 1 mijë palë këpucësh, ChatGPT i vjen në ndihmë",
+      "link": "https://24-ore.com/humbi-sandalen-mes-1-mije-pale-kepucesh-chatgpt-i-vjen-ne-ndihme/",
+      "description": "Një video ku një burrë përdor ChatGPT për të gjetur sandalen e humbur mes qindra palë këpucësh është bërë virale në rrjetet sociale. Në pamje shihet një hapësirë e mbushur me më shumë se 1,000 palë këpucë. Në vend që t’i kërkonte një nga një, burri fotografoi grumbullin dhe ia dërgoi imazhin ChatGPT",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T16:52:30+00:00",
+      "dateStr": "16 Aug, 16:52",
+      "isNew": true,
+      "id": "24 21786899150"
+    },
+    {
+      "title": "Lidhja Shqiptare: Qeveria aktuale i sulet arsimit shqip, do të na kthejë në vitet e 90-ta",
+      "link": "https://24-ore.com/lidhja-shqiptare-qeveria-aktuale-i-sulet-arsimit-shqip-do-te-na-ktheje-ne-vitet-e-90-ta/",
+      "description": "Partia Lidhja Shqiptare ka reaguar ndaj veprimeve dhe deklaratave të ministres së Arsimit, Vesna Janevska, duke vlerësuar se ato dëshmojnë, sipas tyre, një tendencë të Qeverisë për të anashkaluar mekanizmin e Badenterit dhe për të cenuar arsimin në gjuhën shqipe. Në reagimin e LSH-së, theksohet se v",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T16:52:22+00:00",
+      "dateStr": "16 Aug, 16:52",
+      "isNew": true,
+      "id": "24 31786899142"
+    },
+    {
+      "title": "Droni hyn në hapësirën ajrore rumune, rrëzohet nga një F-18 spanjoll",
+      "link": "https://abcnews.al/droni-hyn-ne-hapesiren-ajrore-rumune-rrezohet-nga-nje-f-18-spanjoll/",
+      "description": "Një dron që kishte hyrë në hapësirën ajrore të Rumanisë, pranë kufirit me Ukrainën dhe Moldavinë, është rrëzuar sot nga një avion luftarak spanjoll F-18, njoftoi Ministria rumune e Mbrojtjes. Sipas autoriteteve rumune, droni kishte ardhur nga drejtimi i Moldavisë dhe është rrëzuar në orën 05:01 me o",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T16:49:24+00:00",
+      "dateStr": "16 Aug, 16:49",
+      "isNew": true,
+      "id": "abc01786898964"
+    },
+    {
+      "title": "Pas zjarrit në hotel, operatorët turistikë në Vlorë hapin dyert për pushuesit: Akomodim falas dhe ndihmë për të dëmtua",
+      "link": "https://24-ore.com/pas-zjarrit-ne-hotel-operatoret-turistike-ne-vlore-hapin-dyert-per-pushuesit-akomodim-falas-dhe-ndihme-per-te-demtua/",
+      "description": "Shoqata e Operatorëve Turistikë të Vlorës është solidarizuar me pushuesit e prekur nga zjarri që përfshiu në orët e para të mëngjesit ambientet e hotelit “Brooklyn”. Disa njësi hoteliere në Vlorë, në bashkëpunim edhe me Bashkinë, kanë ofruar ambiente për akomodimin e pushuesve të prekur nga ngjarja,",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T16:48:25+00:00",
+      "dateStr": "16 Aug, 16:48",
+      "isNew": true,
+      "id": "24 41786898905"
+    },
+    {
+      "title": "“U bë armik nga protesta”, Gonxhja për fondin e Kanye West: Pse 3 milionë euro në Berlin janë normale dhe konce",
+      "link": "https://24-ore.com/u-be-armik-nga-protesta-gonxhja-per-fondin-e-kanye-west-pse-3-milione-euro-ne-berlin-jane-normale-dhe-konce/",
+      "description": "Ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja mbrojti edhe një herë mbështetjen me fond që qeveria i dha koncertit të Kanye West në Tiranë, vendim që u shoqërua me kritika në opinionin publik. I ftuar në emisionin “Ditari i Pasdites” nga Denisa Pasholli në A2CNN, Gonxhja solli në vëmendj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T16:48:11+00:00",
+      "dateStr": "16 Aug, 16:48",
+      "isNew": true,
+      "id": "24 51786898891"
+    },
+    {
+      "title": "Nesër kufizohen kamionët mbi 20 tonë në autoudhë",
+      "link": "https://24-ore.com/neser-kufizohen-kamionet-mbi-20-tone-ne-autoudhe/",
+      "description": "Ministria e Infrastrukturës dhe Transportit ka njoftuar qytetarët dhe operatorët ekonomikë se, bazuar në parashikimin zyrtar të temperaturave për ditën e nesërme, do të zbatohet kufizim i përkohshëm i qarkullimit për automjetet e transportit të mallrave me masë totale mbi 20 tonë. Kufizimi do të vle",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T16:47:19+00:00",
+      "dateStr": "16 Aug, 16:47",
+      "isNew": true,
+      "id": "24 61786898839"
+    },
+    {
+      "title": "RUSI – Çështje penale ndaj gazetarit që pyeti Zelenskyn",
+      "link": "https://24-ore.com/rusi-ceshtje-penale-ndaj-gazetarit-qe-pyeti-zelenskyn/",
+      "description": "MOSKË, 16 gusht /ATSH-DPA/ – Autoritetet ruse kanë hapur një çështje penale ndaj një gazetari gjerman pas një pyetjeje që ai i drejtoi presidentit ukrainas, Volodymyr Zelensky gjatë një konference për shtyp në Beograd, lidhur me vrasjen e ushtarëve rusë, raportoi sot agjencia shtetërore ruse e lajme",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T16:45:59+00:00",
+      "dateStr": "16 Aug, 16:45",
+      "isNew": true,
+      "id": "24 71786898759"
+    },
+    {
+      "title": "Përmbledhje lajmesh: Përditësimet kryesore të dielën, 16 gusht",
+      "link": "https://24-ore.com/permbledhje-lajmesh-perditesimet-kryesore-te-dielen-16-gusht/",
+      "description": "Skuadrat vazhduan stërvitjet para sezonit, me disa lojtarë që rikthyen ritmin dhe të tjerë që pësuan dëmtime që mund të ndikojnë në planet për ndeshjet e p...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T16:41:37+00:00",
+      "dateStr": "16 Aug, 16:41",
+      "isNew": true,
+      "id": "24 81786898497"
+    },
+    {
+      "title": "David Beckham fotografon Victorinë në Portofino",
+      "link": "https://24-ore.com/david-beckham-fotografon-victorine-ne-portofino/",
+      "description": "Familja Beckham vijoi pushimet buzëdetare në Evropë, duke udhëtuar me jaht nga Ibiza në Saint-Tropez e deri në Portofino. David dhe Victoria ishin së bashk...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T16:40:49+00:00",
+      "dateStr": "16 Aug, 16:40",
+      "isNew": true,
+      "id": "24 91786898449"
+    },
+    {
+      "title": "Pamje të reja nga konflikti në “Orange”, avokati: Mateo Bakalli erdhi i veshur si civil, nuk e ka dhunuar askush",
+      "link": "https://shekulli.com.al/2026/08/16/pamje-te-reja-nga-konflikti-ne-orange-avokati-mateo-bakalli-erdhi-i-veshur-si-civil-nuk-e-ka-dhunuar-askush/",
+      "description": "Është e rrethuar me mister ngjarja e ndodhur në orët e para të mëngjesit në &#8220;Orange&#8221; në Sarandë, ky u pretendua se u dhunua shefi i krimeve Mateo Bakalli. Për ngjarjen, Policia arrestoi 6 persona, kryesisht personelin e klubit, ndërsa dy punonjës policie u pezulluan nga detyra, për shkak",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-16T16:33:34+00:00",
+      "dateStr": "16 Aug, 16:33",
+      "isNew": true,
+      "id": "she01786898014"
+    },
+    {
+      "title": "News Hour me Rovena Neziri, (16/08/2026)",
+      "link": "https://abcnews.al/news-hour-me-rovena-neziri-16-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T16:27:00+00:00",
+      "dateStr": "16 Aug, 16:27",
+      "isNew": true,
+      "id": "abc11786897620"
+    },
+    {
+      "title": "Vlorë/ Sherr mes shitësve të biletave në Skelë, njëri goditet me thikë",
+      "link": "https://abcnews.al/vlore-sherr-mes-shitesve-te-biletave-ne-skele-njeri-goditet-me-thike/",
+      "description": "Një konflikt mes dy shitësve të biletave për anijet turistike është regjistruar në zonën e Skelës në Vlorë. Sipas të dhënave paraprake, dy personat, të cilët ushtrojnë aktivitetin e shitjes së biletave për turet turistike me anije, janë konfliktuar me njëri-tjetrin. Gjatë përplasjes, Edmond Gorishov",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T16:25:41+00:00",
+      "dateStr": "16 Aug, 16:25",
+      "isNew": true,
+      "id": "abc21786897541"
+    },
+    {
+      "title": "Papa Leoni XIV thirrje për ti dhënë fund dhunës kundër palestinezëve në Bregun Perëndimor",
+      "link": "https://abcnews.al/papa-leoni-xiv-thirrje-per-ti-dhene-fund-dhunes-kunder-palestinezeve-ne-bregun-perendimor/",
+      "description": "Papa Leoni XIV bëri thirrje sot për t’i dhënë fund akteve të përsëritura të dhunës kundër popullsisë civile palestineze në Bregun Perëndimor. “Unë përsëris apelin tim për t’i dhënë fund dhunës së vazhdueshme kundër popullsisë civile palestineze në Bregun Perëndimor”, tha ai. Papa Leoni XIV i bëri th",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T16:17:53+00:00",
       "dateStr": "16 Aug, 16:17",
       "isNew": true,
-      "id": "24 01786897034"
+      "id": "abc31786897073"
     },
     {
-      "title": "Hoxha: 50 milionë denarë për investime kapitale në Idrizovë",
-      "link": "https://24-ore.com/hoxha-50-milione-denare-per-investime-kapitale-ne-idrizove/",
-      "description": "Ministri i Mjedisit dhe Planifikimit Hapësinor, Muamet Hoxha, sot së bashku me kryeministrin Hristijan Mickoski,vizitoi Idrizovën, Komuna e Gazi Babës, ku inspektoi realizimin e projektit për ndërtimin e kanalizimit sekondar fekal dhe katër stacioneve të pompimit. Për realizimin e projektit, Ministr",
-      "source": "24 ORE",
+      "title": "Ronaldo: Ky mund të jetë viti im i fundit në futboll",
+      "link": "https://abcnews.al/ronaldo-ky-mund-te-jete-viti-im-i-fundit-ne-futboll/",
+      "description": "Cristiano Ronaldo ka paralajmëruar se mund t’i japë fund karrierës së tij futbollistike në përfundim të këtij sezoni. Ylli portugez, 41 vjeç, është shprehur për revistën ‘Vogue’ se ky mund të jetë viti i fundit në futboll për të, por ai ka një dëshirë: ta mbyllë karrierën me një trashëgimi të jashtë",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-16T16:12:16+00:00",
-      "dateStr": "16 Aug, 16:12",
+      "date": "2026-08-16T16:16:54+00:00",
+      "dateStr": "16 Aug, 16:16",
       "isNew": true,
-      "id": "24 11786896736"
+      "id": "abc41786897014"
     },
     {
-      "title": "Paige përgjigjet me një promo të prerë pas kthimit ‘heel’ të Nikki Bellas",
-      "link": "https://24-ore.com/paige-pergjigjet-me-nje-promo-te-prere-pas-kthimit-heel-te-nikki-bellas/",
-      "description": "Dy javë pasi Nikki dhe Brie Bella e sulmuan në SummerSlam, Paige mori fundimisht mundësinë për t’u përgjigjur në një promo të shkurtër që u publikua online...",
-      "source": "24 ORE",
+      "title": "E rëndë në Vlorë, 69-vjeçari i jep fund jetës, dyshohet se është vetëvrarë me armë zjarri",
+      "link": "https://abcnews.al/e-rende-ne-vlore-69-vjecari-i-jep-fund-jetes-dyshohet-se-eshte-vetevrare-me-arme-zjarri/",
+      "description": "Një ngjarje e rëndë është regjistruar pasditen e sotme në fshatin Mallkeq, në Vlorë. Rreth orës 16:00, 69-vjeçari me inicialet K. B. dyshohet se është vetëvrarë me armë zjarri automatike, në oborrin e banesës së tij. Sipas të dhënave paraprake, viktima dyshohet se vuante nga depresioni. Grupi hetimo",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-16T16:11:23+00:00",
-      "dateStr": "16 Aug, 16:11",
-      "isNew": true,
-      "id": "24 21786896683"
-    },
-    {
-      "title": "Anthony Edwards: Jam më i mirë në dunk se Michael Jordan dhe Ja Morant",
-      "link": "https://24-ore.com/anthony-edwards-jam-me-i-mire-ne-dunk-se-michael-jordan-dhe-ja-morant/",
-      "description": "Në një video të fundit, ylli i Minnesota Timberwolves, Anthony Edwards, deklaroi se e konsideron veten më të mirë në dunk se Hall of Famer Michael Jordan d...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T16:06:23+00:00",
-      "dateStr": "16 Aug, 16:06",
-      "isNew": true,
-      "id": "24 31786896383"
-    },
-    {
-      "title": "Tampa Bay Rays – Baltimore Orioles, 16 gusht 2026: përballja në Tropicana Field",
-      "link": "https://24-ore.com/tampa-bay-rays-baltimore-orioles-16-gusht-2026-perballja-ne-tropicana-field/",
-      "description": "Më 16 gusht 2026, Tampa Bay Rays përballet me Baltimore Orioles në Tropicana Field në St. Petersburg, Florida. Si startues për Orioles parashikohet T. Roge...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T16:05:33+00:00",
+      "date": "2026-08-16T16:05:14+00:00",
       "dateStr": "16 Aug, 16:05",
       "isNew": true,
-      "id": "24 41786896333"
+      "id": "abc51786896314"
+    },
+    {
+      "title": "Grabitje në Siçili, vidhen katër vepra të Antonello da Messina-s",
+      "link": "https://abcnews.al/grabitje-ne-sicili-vidhen-kater-vepra-te-antonello-da-messina-s/",
+      "description": "Një grabitje e bujshme ka tronditur qytetin sicilian të Mesinës, pasi katër vepra të rëndësishme të piktorit të njohur të Rilindjes, Antonello da Messina, janë vjedhur nga Muzeu Rajonal i Mesinës, MuMe. Ngjarja ndodhi të shtunën në mbrëmje. Sipas informacioneve paraprake, autorët arritën të anashkal",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T16:04:47+00:00",
+      "dateStr": "16 Aug, 16:04",
+      "isNew": true,
+      "id": "abc61786896287"
     },
     {
       "title": "Fundi i një epoke! Cristiano Ronaldo var këpucët në gozhdë: Ky mund të jetë viti im i fundit si futbollist",
@@ -67,62 +210,7 @@
       "date": "2026-08-16T16:03:27+00:00",
       "dateStr": "16 Aug, 16:03",
       "isNew": true,
-      "id": "she01786896207"
-    },
-    {
-      "title": "Bajrami kritikon klasën politike: Këto përplasje po i shkaktojnë humbje Kosovës",
-      "link": "https://24-ore.com/bajrami-kritikon-klasen-politike-keto-perplasje-po-i-shkaktojne-humbje-kosoves/",
-      "description": "Ish-ministri i Arsimit, Arsim Bajrami, u ka bërë thirrje deputetëve të Kuvendit të Kosovës dhe të gjithë akterëve politikë që t’i lënë mënjanë dallimet politike dhe të ulen për të gjetur një zgjidhje për konstituimin e institucioneve të vendit. Bajrami, duke folur në emisionin “InfoMagazine” në Klan",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T16:02:38+00:00",
-      "dateStr": "16 Aug, 16:02",
-      "isNew": true,
-      "id": "24 51786896158"
-    },
-    {
-      "title": "Ministri Nufi: Forcat e Armatosura në vijën e parë të zjarreve, 100 efektivë në Lurë dhe Dajt",
-      "link": "https://24-ore.com/ministri-nufi-forcat-e-armatosura-ne-vijen-e-pare-te-zjarreve-100-efektive-ne-lure-dhe-dajt/",
-      "description": "Forcat e Armatosura vijojnë angazhimin në terren për përballimin e vatrave të zjarrit në Lurë të Dibrës dhe në Malin e Dajtit, me qëllim shuarjen e flakëve dhe mbrojtjen e komuniteteve. Sipas ministrit Ermal Nufi, në Lurë të Dibrës janë angazhuar 50 efektivë të Forcave të Armatosura, të mbështetur n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T16:00:46+00:00",
-      "dateStr": "16 Aug, 16:00",
-      "isNew": true,
-      "id": "24 61786896046"
-    },
-    {
-      "title": "Kendall Jenner përdor brezin zig-zag të preferuar të Hailey Bieber",
-      "link": "https://24-ore.com/kendall-jenner-perdor-brezin-zig-zag-te-preferuar-te-hailey-bieber/",
-      "description": "Kendall Jenner u shfaq në Hawaii duke mbajtur flokët tërhequr me një brez të zi zig-zag gjatë festimit të ditëlindjes së motrës së saj, Kylie. Aksesor i th...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T16:00:34+00:00",
-      "dateStr": "16 Aug, 16:00",
-      "isNew": true,
-      "id": "24 71786896034"
-    },
-    {
-      "title": "Gonxhja për “rifreskimin” e qeverisë: Vendimin e merr Rama, nuk më trembin protestat e shtatorit",
-      "link": "https://24-ore.com/gonxhja-per-rifreskimin-e-qeverise-vendimin-e-merr-rama-nuk-me-trembin-protestat-e-shtatorit/",
-      "description": "Ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja foli në emisionin “Ditari i Pasdites” nga Denisa Pasholli në A2CNN për retreat-in në qeveri dhe aludimin për rifreskim të kabinetit. Gonxhja tha se retreat-et shërbejnë si një ndihmë për situatën dhe se pritet raportim nga ministrat. Ai theks",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T16:00:22+00:00",
-      "dateStr": "16 Aug, 16:00",
-      "isNew": true,
-      "id": "24 81786896022"
-    },
-    {
-      "title": "GREQI – Dy viktima dhe mbi 300 të evakuar pas zjarreve në Salamina",
-      "link": "https://24-ore.com/greqi-dy-viktima-dhe-mbi-300-te-evakuar-pas-zjarreve-ne-salamina/",
-      "description": "ATHINË, 16 gusht /ATSH-ANA/ – Një operacion i gjerë për evakuimin e civilëve me rrugë detare është duke u zhvilluar aktualisht në ishullin e Salaminës, ku dy vatra të mëdha zjarri kanë shkaktuar deri tani dy viktima në zonën e Peristerias. Sipas përditësimit të fundit të Rojës Bregdetare Helenike, o",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T16:00:09+00:00",
-      "dateStr": "16 Aug, 16:00",
-      "isNew": true,
-      "id": "24 91786896009"
+      "id": "she11786896207"
     },
     {
       "title": "Forcat e Armatosura në terren kundër zjarreve në Lurë dhe në Malin e Dajtit",
@@ -133,7 +221,7 @@
       "date": "2026-08-16T15:40:55+00:00",
       "dateStr": "16 Aug, 15:40",
       "isNew": true,
-      "id": "abc01786894855"
+      "id": "abc71786894855"
     },
     {
       "title": "VIDEO/ Mbi 800 dronë kundër Moskës. Tymi mbulon kryeqytetin e Rusisë, 12 viktima",
@@ -144,7 +232,7 @@
       "date": "2026-08-16T15:16:40+00:00",
       "dateStr": "16 Aug, 15:16",
       "isNew": true,
-      "id": "abc11786893400"
+      "id": "abc81786893400"
     },
     {
       "title": "Greqi/ Zjarr masiv në Salaminë, dy viktima dhe disa të plagosur",
@@ -155,18 +243,7 @@
       "date": "2026-08-16T14:58:19+00:00",
       "dateStr": "16 Aug, 14:58",
       "isNew": true,
-      "id": "abc21786892299"
-    },
-    {
-      "title": "News Hour me Fabiola Hoxha, (16/08/2026)",
-      "link": "https://abcnews.al/news-hour-me-fabiola-hoxha-16-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T14:54:54+00:00",
-      "dateStr": "16 Aug, 14:54",
-      "isNew": true,
-      "id": "abc31786892094"
+      "id": "abc91786892299"
     },
     {
       "title": "Dhunimi i shefit të Krimeve në Sarandë, arrestohen 6 persona, një në kërkim/ Pezullohen dy efektivë policie që punonin si roje",
@@ -177,29 +254,7 @@
       "date": "2026-08-16T14:39:23+00:00",
       "dateStr": "16 Aug, 14:39",
       "isNew": true,
-      "id": "she11786891163"
-    },
-    {
-      "title": "“Do ta dashurosh”/ Zhdukja e modeles gjermane 11 vite më parë, gjurmë të reja në dosjet e Jeffrey Epstein",
-      "link": "https://abcnews.al/do-ta-dashurosh-zhdukja-e-modeles-gjermane-11-vite-me-pare-gjurme-te-reja-ne-dosjet-e-jeffrey-epstein/",
-      "description": "Më shumë se një dekadë pas zhdukjes së një 22-vjeçareje gjermane, rasti i saj po rikthehet në vëmendje pas zbulimit të informacioneve të reja në dosjet e Jeffrey Epstein. Michelle u largua nga banesa e nënës së saj në shtator të vitit 2015, duke marrë me vete një valixhe dhe pasaportën. Familjarët e",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T14:31:29+00:00",
-      "dateStr": "16 Aug, 14:31",
-      "isNew": true,
-      "id": "abc41786890689"
-    },
-    {
-      "title": "VIDEO-EMRAT/ Konflikti në Sarandë! Goditën Shefin e Hetimit, arrestohen 6 persona, pezullohen dy policë",
-      "link": "https://abcnews.al/konflikti-ne-sarande-goditen-shefin-e-hetimit-arrestohen-6-persona-pezullohen-dy-police/",
-      "description": "Sarandë – Gjashtë persona janë arrestuar dhe një tjetër është shpallur në kërkim pas një konflikti të ndodhur gjatë orëve të para të mëngjesit në një lokal në Sarandë, ku është goditur edhe Shefi i Hetimit të Krimit të Komisariatit të Policisë Sarandë, Mateo Bakalli. Ngjarja ka ndodhur rreth orës 03",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T14:25:00+00:00",
-      "dateStr": "16 Aug, 14:25",
-      "isNew": true,
-      "id": "abc51786890300"
+      "id": "she21786891163"
     },
     {
       "title": "Shteti hyn në tregun e banesave për të financuar strehimin social",
@@ -210,7 +265,7 @@
       "date": "2026-08-16T14:19:34+00:00",
       "dateStr": "16 Aug, 14:19",
       "isNew": true,
-      "id": "she21786889974"
+      "id": "she31786889974"
     },
     {
       "title": "Kurti reagon pas zjarrit në hotelin në Vlorë: Jemi të tronditur, po monitorojmë gjendjen e qytetarëve tanë",
@@ -221,51 +276,7 @@
       "date": "2026-08-16T14:10:57+00:00",
       "dateStr": "16 Aug, 14:10",
       "isNew": true,
-      "id": "she31786889457"
-    },
-    {
-      "title": "Tërmeti shkatërrimtar në Indonezi, shkon në 53 numri i viktimave, mijëra të zhvendosur",
-      "link": "https://abcnews.al/termeti-shkaterrimtar-ne-indonezi-shkon-ne-53-numri-i-viktimave-mijera-te-zhvendosur/",
-      "description": "Një tërmet i fuqishëm me magnitudë 7.7 ballë, goditi ishullin indonezian Flores. Numri i viktimave është rritur në të paktën 53 dhe raportohet për dëme të konsiderueshme materiale. Mijëra banorë janë detyruar të largohen nga shtëpitë e tyre dhe kanë nevojë për ndihmë urgjente. Lëkundjet kanë dëmtuar",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T14:00:20+00:00",
-      "dateStr": "16 Aug, 14:00",
-      "isNew": true,
-      "id": "abc61786888820"
-    },
-    {
-      "title": "Akomodim për pushuesit e prekur/ Shoqata e operatorëve turistike solidarizohet: Pushimet e të prekurve do të vazhdojnë",
-      "link": "https://abcnews.al/akomodim-per-pushuesit-e-prekur-shoqata-e-operatoreve-turistike-solidarizohet-pushimet-e-te-prekurve-do-te-vazhdojne/",
-      "description": "Turistët e prekur nga zjarri i rënë në një hotel në Lungomare do të mund të vijojnë pushimet e tyre falas. Shoqata e Operatorëve Turistikë të Vlorës është solidarizuar me pushuesit e prekur nga zjarri  ndërsa disa njësi hoteliere në Vlorë, kanë ofruar ambiente për akomodimin e pushuesve të prekur ng",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T13:54:52+00:00",
-      "dateStr": "16 Aug, 13:54",
-      "isNew": true,
-      "id": "abc71786888492"
-    },
-    {
-      "title": "VIDEO/ Po kalonte urën dhe u ‘zhduk’ nën ujë, momente dramatike për çiklisten",
-      "link": "https://abcnews.al/video-po-kalonte-uren-dhe-u-zhduk-nen-uje-momente-dramatike-per-ciklisten/",
-      "description": "SHBA – Pamje dramatike janë regjistruar në Arizona, ku një 20-vjeçare u mor nga rrjedha e fuqishme e ujit teksa tentonte të kalonte një urë me biçikletën e saj. Në videon e shpërndarë në rrjetet sociale, e reja shihet duke u përpjekur të kalojë urën, pavarësisht prurjeve të mëdha të shkaktuara nga m",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T13:42:40+00:00",
-      "dateStr": "16 Aug, 13:42",
-      "isNew": true,
-      "id": "abc81786887760"
-    },
-    {
-      "title": "VIDEO/ Aksident në rrugën pranë portit në Durrës, përplasen dy automjete",
-      "link": "https://abcnews.al/video-aksident-ne-rrugen-prane-portit-ne-durres-perplasen-dy-automjete/",
-      "description": "Durrës – Një aksident rrugor është shënuar mesditën e kësaj të diele në rrugën pranë portit të Durrësit, ku dy automjete janë përplasur me njëri-tjetrin. Nga përplasja, njëri prej automjeteve ka përfunduar mbi trotuar. Fatmirësisht, nga informacionet paraprake nuk raportohet për persona të lënduar, ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T13:35:10+00:00",
-      "dateStr": "16 Aug, 13:35",
-      "isNew": true,
-      "id": "abc91786887310"
+      "id": "she41786889457"
     },
     {
       "title": "Nga atentati ndaj Pajtim Serjanit, te “truri” për vrasjen e Devi Kasmit, kush është Aurel Hoxhallari",
@@ -276,7 +287,7 @@
       "date": "2026-08-16T12:57:56+00:00",
       "dateStr": "16 Aug, 12:57",
       "isNew": true,
-      "id": "she41786885076"
+      "id": "she51786885076"
     },
     {
       "title": "I dënuar me burgim të përjetshëm për vrasjen e Devi Kasmit, arrestohet në Rumani i shumëkërkuari Aurel Hoxhallari",
@@ -287,7 +298,7 @@
       "date": "2026-08-16T12:23:09+00:00",
       "dateStr": "16 Aug, 12:23",
       "isNew": true,
-      "id": "she51786882989"
+      "id": "she61786882989"
     },
     {
       "title": "Çfarë ndodhi në klubin e njohur në Sarandë/ Dhunohet shefi i krimeve, shoqërohen disa nga truprojat. Versioni i ri: Bakalli ngacmoi…",
@@ -298,7 +309,7 @@
       "date": "2026-08-16T11:40:37+00:00",
       "dateStr": "16 Aug, 11:40",
       "isNew": true,
-      "id": "she61786880437"
+      "id": "she71786880437"
     },
     {
       "title": "Atentati në Elbasan, zbardhet dëshmia e autorit: E bëra për t’u hakmarrë për vëllain. Shënjestra: Jetonim normalisht pre 15 vitesh",
@@ -309,7 +320,7 @@
       "date": "2026-08-16T10:51:44+00:00",
       "dateStr": "16 Aug, 10:51",
       "isNew": true,
-      "id": "she71786877504"
+      "id": "she81786877504"
     },
     {
       "title": "E dhunuar barbarisht dhe e braktisur para spitalit, vdes 46-vjeçarja në Itali! Në kërkim partneri shqiptar",
@@ -320,18 +331,7 @@
       "date": "2026-08-16T10:02:23+00:00",
       "dateStr": "16 Aug, 10:02",
       "isNew": true,
-      "id": "she81786874543"
-    },
-    {
-      "title": "Arrijnë në 50 milionë euro fitimet nga dhënia e shtëpive me qira ditore në janar-qershor 2026",
-      "link": "https://shekulli.com.al/2026/08/16/arrijne-ne-50-milione-euro-fitimet-nga-dhenia-e-shtepive-me-qira-ditore-ne-janar-qershor-2026/",
-      "description": "Kthimi i Shqipërisë në një destinacion turistik hapi një mundësi të re biznesi për shumë qytetarë, të cilët nisën t’i jepnin banesat me qira ditore, sidomos në Tiranë dhe në bregdet. Për disa vite, tregu u zgjerua me shpejtësi, i nxitur nga rritja e turistëve dhe pritshmëritë për fitime të larta. Ta",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-16T09:57:01+00:00",
-      "dateStr": "16 Aug, 09:57",
-      "isNew": true,
-      "id": "she91786874221"
+      "id": "she91786874543"
     }
   ]
 }
