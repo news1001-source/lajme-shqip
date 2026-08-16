@@ -1,29 +1,172 @@
 {
-  "lastUpdated": "2026-08-16T11:15:31.681965+00:00",
+  "lastUpdated": "2026-08-16T12:29:16.560451+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Në shtator do të rriten pensionet në Maqedoni",
-      "link": "https://24-ore.com/ne-shtator-do-te-rriten-pensionet-ne-maqedoni/",
-      "description": "Pensionistët në Maqedoninë e Veriut në shtator pritet të përfitojnë një rritje të re të pensioneve, e cila këtë herë duhet të jetë në përqindje dhe varet nga lartësia e të ardhurave mujore. Pas disa rritjeve lineare gjatë periudhës së kaluar, kur pensionet u rritën me të njëjtën shumë, harmonizimi i",
-      "source": "24 ORE",
+      "title": "I dënuar me burgim të përjetshëm për vrasjen e Devi Kasmit, arrestohet në Rumani i shumëkërkuari Aurel Hoxhallari",
+      "link": "https://shekulli.com.al/2026/08/16/i-denuar-me-burgim-te-perjetshem-per-vrasjen-e-devi-kasmit-arrestohet-ne-rumani-i-shumekerkuari-aurel-hoxhallari/",
+      "description": "Një prej personave më të kërkuar në lidhje me ekzekutimin e Devi Kasmit është arrestuar në Rumani. Bëhet fjalë për Aurel Hoxhallarin, 49 vjeç, i cili është dënuar me burgim të përjetshëm nga GJKKO dhe pritet të ekstradohet drejt Shqipërisë. Hoxhallari ishte shpallur në kërkim ndërkombëtar pasi Gjyka",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-16T11:12:33+00:00",
-      "dateStr": "16 Aug, 11:12",
+      "date": "2026-08-16T12:23:09+00:00",
+      "dateStr": "16 Aug, 12:23",
       "isNew": true,
-      "id": "24 01786878753"
+      "id": "she01786882989"
     },
     {
-      "title": "Trabzonspor konfirmon dëmtimin e Muçit dhe zbulon diagnozën",
-      "link": "https://24-ore.com/trabzonspor-konfirmon-demtimin-e-mucit-dhe-zbulon-diagnozen/",
-      "description": "Shefi i stafit mjekësor i Trabzonsporit, Prof. Dr. Ahmet Beşîr, bëri me dije diagnozën e dëmtimit më të fundit të Ernest Muçit. Sipas Beşîr: “Ernest Muçi i është nënshtruar një ekzaminimi të hollësishëm pasi ankoi dhimbje në pjesën e përparme të kofshës së majtë gjatë stërvitjes. Pas kontrolloeve u ",
+      "title": "Arrestohet në Rumani i dënuari për vrasje, ekstradohet një tjetër shqiptar nga Mbretëria e Bashkuar për trafik droge",
+      "link": "https://24-ore.com/arrestohet-ne-rumani-i-denuari-per-vrasje-ekstradohet-nje-tjeter-shqiptar-nga-mbreteria-e-bashkuar-per-trafik-droge/",
+      "description": "Një 49-vjeçar shqiptar është arrestuar në Rumani për llogari të Shqipërisë dhe një tjetër është ekstraduar nga Mbretëria e Bashkuar në vendin tonë, të shpallur në kërkim ndërkombëtar për një sërë veprash penale. Gjykata e Posaçme Antikorrupsion (GJKKO) ka caktuar për A. H., 49 vjeç masën e sigurisë ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-16T11:12:20+00:00",
-      "dateStr": "16 Aug, 11:12",
+      "date": "2026-08-16T12:17:27+00:00",
+      "dateStr": "16 Aug, 12:17",
       "isNew": true,
-      "id": "24 11786878740"
+      "id": "24 01786882647"
+    },
+    {
+      "title": "FOKUS – ”Apple” paralajmëron përdoruesit e iPhone në 110 vende për sulme të mundshme kibernetike",
+      "link": "https://24-ore.com/fokus-apple-paralajmeron-perdoruesit-e-iphone-ne-110-vende-per-sulme-te-mundshme-kibernetike/",
+      "description": "ROMË, 16 gusht /ATSH-ANSA/ – ”Apple” ka nisur të dërgojë njoftime sigurie për përdoruesit në 110 vende, duke i paralajmëruar për sulme të mundshme kibernetike të lidhura me programe të sofistikuara spiunazhi, të njohura si “spyware mercenar”. Sipas të dhënave të publikuara nga TechCrunch, njoftimet ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T12:15:59+00:00",
+      "dateStr": "16 Aug, 12:15",
+      "isNew": true,
+      "id": "24 11786882559"
+    },
+    {
+      "title": "I dënuar më burgim të përjetshëm/ Kush është Aurel Hoxhallari dhe si ngriti skemën për vrasjen e Devi Kasmit",
+      "link": "https://abcnews.al/i-denuar-me-burgim-te-perjetshem-kush-eshte-aurel-hoxhallari-dhe-si-ngriti-skemen-per-vrasjen-e-devi-kasmit/",
+      "description": "SHQIPËRI&#8211; Në Rumani është arrestuar Aurel Hoxhallari, i cili ishte shpallur në kërkim prej vitit 2018 për vrasjen e Devi Kasmit. Ndaj Aurel Hoxhallarit, GJKKO ka caktuar masën e sigurisë “arrest në burg” për 5 vepra penale. Ky i fundit dyshohet se në bashkëpunim me një shtetas grek dhe disa të",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T12:07:22+00:00",
+      "dateStr": "16 Aug, 12:07",
+      "isNew": true,
+      "id": "abc01786882042"
+    },
+    {
+      "title": "“Dëgjuam ulërima dhe shkuam te dritarja”, pushuesit polakë rrëfejnë momentet e frikës në hotelin e përfshirë nga zjarri",
+      "link": "https://24-ore.com/degjuam-ulerima-dhe-shkuam-te-dritarja-pushuesit-polake-rrefejne-momentet-e-frikes-ne-hotelin-e-perfshire-nga-zjarri/",
+      "description": "Dëshmitë e pushuesve hedhin më shumë dritë mbi momentet e para të zjarrit që përfshiu një hotel në Vlorë gjatë orëve të para të mëngjesit. Një familje nga Polonia, e cila ndodhej brenda hotelit në momentin kur situata u bë e rrezikshme, tregon se gjithçka ndodhi në mes të natës. Sipas dëshmisë së dj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T12:02:42+00:00",
+      "dateStr": "16 Aug, 12:02",
+      "isNew": true,
+      "id": "24 21786881762"
+    },
+    {
+      "title": "BDI: Ligjet për arsim duhet të miratohen në pajtim me Kushtetutën dhe me shumicën e nevojshme të Badenterit",
+      "link": "https://24-ore.com/bdi-ligjet-per-arsim-duhet-te-miratohen-ne-pajtim-me-kushtetuten-dhe-me-shumicen-e-nevojshme-te-badenterit/",
+      "description": "Ligjet për arsimin duhet të miratohen në përputhje me Kushtetutën dhe me shumicën e kërkuar të BadEnterit. Deklarata e ministres së Arsimit, Vesna Janevska, përbën sulm të drejtpërdrejtë ndaj njërës prej shtyllave të Marrëveshjes së Ohrit, citon Bashkimi Demokratik për Integrim (BDI), në kumtesën të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T12:02:32+00:00",
+      "dateStr": "16 Aug, 12:02",
+      "isNew": true,
+      "id": "24 31786881752"
+    },
+    {
+      "title": "Horoskopi ditor për nesër, e Hënë 17 Gusht 2026",
+      "link": "https://24-ore.com/horoskopi-ditor-per-neser-e-hene-17-gusht-2026/",
+      "description": "Dashi Ne vend qe te mendoni për aventura dhe ta tradhtoni partnerin tuaj gjate kësaj dite, mundohuni te ndryshoni rutinën dhe te mendoni si ta bëni jetën ne çift sa me te bukur. Beqaret do jene joshës dhe do marrin propozime pa fund. Shume gjera kane për te qene me ndryshe për ta. Ne planin [&#8230;",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T12:01:08+00:00",
+      "dateStr": "16 Aug, 12:01",
+      "isNew": true,
+      "id": "24 41786881668"
+    },
+    {
+      "title": "Një lojtar me më shumë për të provuar te secila skuadër e NBA-së",
+      "link": "https://24-ore.com/nje-lojtar-me-me-shume-per-te-provuar-te-secila-skuader-e-nba-se/",
+      "description": "Në çdo skuadër të NBA-së ka të paktën një lojtar që hyn në sezon me më shumë për të dëshmuar se sa ç’kanë treguar deri tani. Nga yjet që duhet të mbajnë ri...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T11:56:04+00:00",
+      "dateStr": "16 Aug, 11:56",
+      "isNew": true,
+      "id": "24 51786881364"
+    },
+    {
+      "title": "Në kërkim ndërkombëtar/ Tre të arrestuar, mes tyre dhe i dënuari për vrasjen e Devi Kasmit",
+      "link": "https://abcnews.al/ne-kerkim-nderkombetar-tre-te-arrestuar-mes-tyre-dhe-i-dyshuari-i-per-vrasjen-e-devi-kasmit/",
+      "description": "SHQIPËRI&#8211; Policia e Shtetit, në bashkëpunim me partnerët ndërkombëtarë, ka finalizuar tre raste të reja të lokalizimit, arrestimit dhe ekstradimit të personave të shpallur në kërkim ndërkombëtar për vepra të rënda penale. Në Rinas është arrestuar provizorisht, me qëllim ekstradimi drejt Spanjë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T11:52:35+00:00",
+      "dateStr": "16 Aug, 11:52",
+      "isNew": true,
+      "id": "abc11786881155"
+    },
+    {
+      "title": "Aksioni “Vardaris” zbulon mbi 324 kg marihuanë në Selanik, në pranga një shtetas nga Maqedonia dhe një nga Kosova",
+      "link": "https://24-ore.com/aksioni-vardaris-zbulon-mbi-324-kg-marihuane-ne-selanik-ne-pranga-nje-shtetas-nga-maqedonia-dhe-nje-nga-kosova/",
+      "description": "Pas aksionit grek “Vardaris”, është hapur hetim dhe është caktuar paraburgim për një person nga Maqedonia e Veriut, i dyshuar për transportin e mbi 324 kilogramëve marihuanë, që u kapën në Selanik të Greqisë, njoftuan sot nga Prokuroria Publike e Republikës së Maqedonisë së Veriut. “Në fund të shkur",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T11:52:21+00:00",
+      "dateStr": "16 Aug, 11:52",
+      "isNew": true,
+      "id": "24 61786881141"
+    },
+    {
+      "title": "Faqja e njohur: Shqipëria mes vendeve turistike që ia vlen çdo qindarkë e shpenzuar",
+      "link": "https://abcnews.al/faqja-e-njohur-shqiperia-mes-vendeve-turistike-qe-ia-vlen-cdo-qindarke-e-shpenzuar/",
+      "description": "Rritja e çmimeve në shumë prej destinacioneve turistike të njohura në botë po i shtyn udhëtarët të kërkojnë vende ku përvoja e udhëtimit justifikon më mirë shpenzimet, shkruan Tyler Fox për faqen e njohur turistike traveloffpath.com. Sipas një vlerësimi të bazuar në përvojat e udhëtarëve që kanë eks",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T11:42:01+00:00",
+      "dateStr": "16 Aug, 11:42",
+      "isNew": true,
+      "id": "abc21786880521"
+    },
+    {
+      "title": "Çfarë ndodhi në klubin e njohur në Sarandë/ Dhunohet shefi i krimeve, shoqërohen disa nga truprojat. Versioni i ri: Bakalli ngacmoi…",
+      "link": "https://shekulli.com.al/2026/08/16/cfare-ndodhi-ne-klubin-e-njohur-ne-sarande-dhunohet-shefi-i-krimeve-shoqerohen-disa-nga-truprojat-versioni-i-ri-bakalli-ngacmoi/",
+      "description": "Një incident i dhunshëm ka ndodhur në orët e para të mëngjesit në ambientet e klubit “Orange” në Sarandë, ku ka përfunduar i dhunuar edhe shefi i Krimeve të Komisariatit të Sarandës, Mateo Bakalli. Sipas raportimeve paraprake, në lokal kishte nisur një konflikt dhe disa persona po dhunoheshin nga bo",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-16T11:40:37+00:00",
+      "dateStr": "16 Aug, 11:40",
+      "isNew": true,
+      "id": "she11786880437"
+    },
+    {
+      "title": "Dilema",
+      "link": "https://24-ore.com/dilema/",
+      "description": "Nga Auron Tare Për gati një javë me radhë u përpoqa të gjeja kujtimet e Jusuf Vrionit, intelektualit dhe përkthyesit të shquar shqiptar. E kisha njohur deri diku dhe e dija se kishte lënë kujtime interesante ne frëngjisht, te cilat ishin përkthyer më në fund edhe në shqip, por nuk po i gjeja dot. Pa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T11:31:22+00:00",
+      "dateStr": "16 Aug, 11:31",
+      "isNew": true,
+      "id": "24 71786879882"
+    },
+    {
+      "title": "“Vajzë Fest 2026”, ndërthurje e sportit dhe kulturës në Amantia",
+      "link": "https://24-ore.com/vajze-fest-2026-nderthurje-e-sportit-dhe-kultures-ne-amantia/",
+      "description": "“Vajzë Fest 2026” u çel në 14 gusht me Flakën Olimpike dhe vijoi me një spektakël sportiv në Parkun Arkeologjik të Amantias, duke sjellë një atmosferë të mbushur me energji, sport dhe pasion. Ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja ndau sot momente nga ceremonia e hapjes së këtij a",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T11:30:47+00:00",
+      "dateStr": "16 Aug, 11:30",
+      "isNew": true,
+      "id": "24 81786879847"
+    },
+    {
+      "title": "IRAN – 30 000 dollarë shpërblim për çdo ushtar amerikan të kapur rob ose të vrarë",
+      "link": "https://24-ore.com/iran-30-000-dollare-shperblim-per-cdo-ushtar-amerikan-te-kapur-rob-ose-te-vrare/",
+      "description": "TEHERAN, 16 gusht /ATSH-DPA/ – Ushtria iraniane ka ofruar një shpërblim me vlerë pothuajse 30 000 dollarë për çdo ushtar amerikan të vrarë ose të kapur rob, sipas një raporti nga portali i lajmeve Avash. Sipas raportit, dyfishi i shumës do t’u paguhej grave që kapin ose vrasin ushtarë amerikanë. Shp",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T11:30:06+00:00",
+      "dateStr": "16 Aug, 11:30",
+      "isNew": true,
+      "id": "24 91786879806"
     },
     {
       "title": "Përmbytje në Indiana të SHBA, të paktën 6 të vdekur",
@@ -34,7 +177,7 @@
       "date": "2026-08-16T10:54:12+00:00",
       "dateStr": "16 Aug, 10:54",
       "isNew": true,
-      "id": "abc01786877652"
+      "id": "abc31786877652"
     },
     {
       "title": "Atentati në Elbasan, zbardhet dëshmia e autorit: E bëra për t’u hakmarrë për vëllain. Shënjestra: Jetonim normalisht pre 15 vitesh",
@@ -45,73 +188,7 @@
       "date": "2026-08-16T10:51:44+00:00",
       "dateStr": "16 Aug, 10:51",
       "isNew": true,
-      "id": "she01786877504"
-    },
-    {
-      "title": "I nxori amnistia, rikthehen në burg! Avokatët: Institucionet kanë dështuar në rehabilitimin e të dënuarëve",
-      "link": "https://24-ore.com/i-nxori-amnistia-rikthehen-ne-burg-avokatet-institucionet-kane-deshtuar-ne-rehabilitimin-e-te-denuareve/",
-      "description": "“Ndoshta mund të rikthehem prapë. Në Shqipëri nuk mund të jetosh pa shkelur ligjin. Nuk jetohet pa përkrahje” Kjo ishte një deklaratë e një të burgosuri që përfitoi nga ulja e dënimit më 15 korrik duke lënë qelitë e Fierit. Një rrëfim përpara mediave qe u komentua gjërësisht, por nga ana tjetër për ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T10:47:39+00:00",
-      "dateStr": "16 Aug, 10:47",
-      "isNew": true,
-      "id": "24 21786877259"
-    },
-    {
-      "title": "Atentati i dështuar në Elbasan, 52-vjeçari donte të hakmerrej për plagosjen e të vëllait pas 15 vitesh",
-      "link": "https://24-ore.com/atentati-i-deshtuar-ne-elbasan-52-vjecari-donte-te-hakmerrej-per-plagosjen-e-te-vellait-pas-15-vitesh/",
-      "description": "Detaje të reja janë zbardhur nga atentati i dështuar i ndodhur një ditë më parë në një lokal në hyrje të Elbasanit, ku shënjestër ishte 50-vjeçari E. K. Për ngjarjen është arrestuar 52-vjeçari P. B., i cili, sipas burimeve hetimore, ka deklaruar se motivi i sulmit lidhet me një ngjarje të ndodhur vi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T10:47:25+00:00",
-      "dateStr": "16 Aug, 10:47",
-      "isNew": true,
-      "id": "24 31786877245"
-    },
-    {
-      "title": "BDI: Nga 549 policë të rinj, më pak se 40 shqiptarë, vetëm një shqiptar nga 30 të dekoruar",
-      "link": "https://24-ore.com/bdi-nga-549-police-te-rinj-me-pak-se-40-shqiptare-vetem-nje-shqiptar-nga-30-te-dekoruar/",
-      "description": "Bashkimi Demokratik për Integrim ka reaguar lidhur me përfaqësimin e shqiptarëve në Ministrinë e Punëve të Brendshme, duke ngritur alarmin se të dhënat e fundit tregojnë, sipas kësaj partie, një rënie serioze të përfaqësimit të drejtë dhe adekuat në polici. BDI bën të ditur se nga gjithsej 549 polic",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T10:32:06+00:00",
-      "dateStr": "16 Aug, 10:32",
-      "isNew": true,
-      "id": "24 41786876326"
-    },
-    {
-      "title": "JAPONI – Nëntë viktima pas shirave të rrëmbyer",
-      "link": "https://24-ore.com/japoni-nente-viktima-pas-shirave-te-rrembyer/",
-      "description": "TOKIO, 16 gusht /ATSH-AFP/ – Shirat e rrëmbyeshëm të kohëve të fundit pranë Tokios kanë lënë të paktën nëntë të vdekur, raportoi sot transmetuesi publik NHK. Shirat kanë përmbytur edhe më shumë se 1 000 shtëpi dhe kanë ndërprerë rëndë transportin. Disa viktima u gjetën të bllokuara në automjete të z",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T10:30:08+00:00",
-      "dateStr": "16 Aug, 10:30",
-      "isNew": true,
-      "id": "24 51786876208"
-    },
-    {
-      "title": "Tentim-vrasje, armë pa leje dhe kanosje – kërkohet paraburgim për Vezir Hazirajn",
-      "link": "https://24-ore.com/tentim-vrasje-arme-pa-leje-dhe-kanosje-kerkohet-paraburgim-per-vezir-hazirajn/",
-      "description": "Prokuroria Themelore në Pejë ka kërkuar caktimin e masës së paraburgimit ndaj Vezir Hazirajt, i dyshuar për vrasje të mbetur në tentativë, mbajtje të paautorizuar të armëve dhe kanosje. Sipas njoftimit të Prokurorisë, rasti ka ndodhur më 7 gusht 2026, rreth orës 20:40, në fshatin Orroberd të Istogut",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T10:22:09+00:00",
-      "dateStr": "16 Aug, 10:22",
-      "isNew": true,
-      "id": "24 61786875729"
-    },
-    {
-      "title": "Arrestohet 44 vjeçari në Pogradec, iu gjet në banesë automatik dhe fishekë (EMRI)",
-      "link": "https://24-ore.com/arrestohet-44-vjecari-ne-pogradec-iu-gjet-ne-banese-automatik-dhe-fisheke-emri/",
-      "description": "Policia e Pogradecit ka arrestuar 44 vjeçarin Besnik Baçi,në kuadër të operacionit “Befasia”. Sipas bluve, në banesë, 44 vjeçarit iu gjet një automatik dhe fishekë, të cilat iu sekuestruan në cilësinë e provës materiale. Njoftimi i policisë: Si rezultat i punës parandaluese, bazuar në kontrolle, het",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T10:17:46+00:00",
-      "dateStr": "16 Aug, 10:17",
-      "isNew": true,
-      "id": "24 71786875466"
+      "id": "she21786877504"
     },
     {
       "title": "Dy operacione në Korçë kundër kalimit të paligjshëm të kufirit, arrestohen dy 21-vjeçarë",
@@ -122,18 +199,7 @@
       "date": "2026-08-16T10:16:34+00:00",
       "dateStr": "16 Aug, 10:16",
       "isNew": true,
-      "id": "abc11786875394"
-    },
-    {
-      "title": "Europiani i atletikës: Alisa Vainio dominon maratonën e femrave",
-      "link": "https://24-ore.com/europiani-i-atletikes-alisa-vainio-dominon-maratonen-e-femrave/",
-      "description": "Edhe maratona e femrave ashtu si ajo e meshkujve u dominua nga një atlete. Alisa Vainio fitoi të artën falë kohës 2 orë 22 minuta dhe 26 sekonda në rrugët e Birmingham-it. Atletjka nga Finlanda arriti në fishin gati pesë minuta përpara ndjekëseve të kryesore, të cilat ishin hungarezja Lili Anna Vind",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T10:12:04+00:00",
-      "dateStr": "16 Aug, 10:12",
-      "isNew": true,
-      "id": "24 81786875124"
+      "id": "abc41786875394"
     },
     {
       "title": "E dhunuar barbarisht dhe e braktisur para spitalit, vdes 46-vjeçarja në Itali! Në kërkim partneri shqiptar",
@@ -144,18 +210,7 @@
       "date": "2026-08-16T10:02:23+00:00",
       "dateStr": "16 Aug, 10:02",
       "isNew": true,
-      "id": "she11786874543"
-    },
-    {
-      "title": "Europiani i atletikës: Petros i “artë” në maratonën e meshkujve me rekord",
-      "link": "https://24-ore.com/europiani-i-atletikes-petros-i-arte-ne-maratonen-e-meshkujve-me-rekord/",
-      "description": "Atleti gjerman Amanal Petros fitoi medaljen e artë në maratonën e meshkujve me kohën 2 orë 09 minuta dhe 11 sekonda në Birmingham. Kurrë më parë kjo disiplinë nuk ishte fituar me një kohë më të mirë se ajo e Petros në Europainin e Atletikës. Gjermani kontrolloi garën e transmetuar nga rrjeti i Radio",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T10:02:22+00:00",
-      "dateStr": "16 Aug, 10:02",
-      "isNew": true,
-      "id": "24 91786874542"
+      "id": "she31786874543"
     },
     {
       "title": "DETAJE/ Shpërthimi me tritol në derën e banesës së Ylli Zallës, çfarë dyshon grupi hetimor",
@@ -166,7 +221,7 @@
       "date": "2026-08-16T09:59:17+00:00",
       "dateStr": "16 Aug, 09:59",
       "isNew": true,
-      "id": "abc21786874357"
+      "id": "abc51786874357"
     },
     {
       "title": "Arrijnë në 50 milionë euro fitimet nga dhënia e shtëpive me qira ditore në janar-qershor 2026",
@@ -177,7 +232,7 @@
       "date": "2026-08-16T09:57:01+00:00",
       "dateStr": "16 Aug, 09:57",
       "isNew": true,
-      "id": "she21786874221"
+      "id": "she41786874221"
     },
     {
       "title": "Shpërthimi me tritol, pse Policia dyshon se Ylli Zalla mund ta ketë vendosur vetë. Bashkëshortja e tij…",
@@ -188,7 +243,7 @@
       "date": "2026-08-16T09:32:33+00:00",
       "dateStr": "16 Aug, 09:32",
       "isNew": true,
-      "id": "she31786872753"
+      "id": "she51786872753"
     },
     {
       "title": "Zjarri në hotel/ Operatorët turistikë në Vlorë solidarizohen me pushuesit e prekur: Akomodim dhe veshje falas",
@@ -199,7 +254,7 @@
       "date": "2026-08-16T09:31:09+00:00",
       "dateStr": "16 Aug, 09:31",
       "isNew": true,
-      "id": "abc31786872669"
+      "id": "abc61786872669"
     },
     {
       "title": "Zjarr i fuqishëm në një tjetër biznes në jug, flakët shkrumbojnë agroturizmin e njohur",
@@ -210,7 +265,7 @@
       "date": "2026-08-16T09:12:04+00:00",
       "dateStr": "16 Aug, 09:12",
       "isNew": true,
-      "id": "she41786871524"
+      "id": "she61786871524"
     },
     {
       "title": "I dyshuar për atentatin ndaj Gilmando Danit, kush është Ylli Zalla që sot iu vendos tritoli në banesë. Dora e fshehtë e…",
@@ -221,7 +276,7 @@
       "date": "2026-08-16T08:57:17+00:00",
       "dateStr": "16 Aug, 08:57",
       "isNew": true,
-      "id": "she51786870637"
+      "id": "she71786870637"
     },
     {
       "title": "I vunë tritol në derë të shtëpisë/ Kush është Ylli Zalla, në kërkim si i përfshirë në vrasjen e dyfishtë në Rinas",
@@ -232,7 +287,7 @@
       "date": "2026-08-16T08:51:33+00:00",
       "dateStr": "16 Aug, 08:51",
       "isNew": true,
-      "id": "abc41786870293"
+      "id": "abc71786870293"
     },
     {
       "title": "I vendoset tritol banesës së Ylli Zallës në Fushë-Krujë, digjet makina që ishte parkuar në oborr",
@@ -243,7 +298,7 @@
       "date": "2026-08-16T08:49:09+00:00",
       "dateStr": "16 Aug, 08:49",
       "isNew": true,
-      "id": "she61786870149"
+      "id": "she81786870149"
     },
     {
       "title": "VIDEO/ Flakët shkrumbojnë agroturizmin në Sarandë",
@@ -254,7 +309,7 @@
       "date": "2026-08-16T08:45:12+00:00",
       "dateStr": "16 Aug, 08:45",
       "isNew": true,
-      "id": "abc51786869912"
+      "id": "abc81786869912"
     },
     {
       "title": "Zjarri në hotelin në Vlorë, Ministria e Shëndetësisë: 5 të plagosur po mjekohen në Tiranë, një vajzë në gjendje të rëndë",
@@ -265,7 +320,7 @@
       "date": "2026-08-16T08:37:45+00:00",
       "dateStr": "16 Aug, 08:37",
       "isNew": true,
-      "id": "she71786869465"
+      "id": "she91786869465"
     },
     {
       "title": "Dhunohet shefi i krimeve në Sarandë, u konfliktua me disa persona",
@@ -276,62 +331,7 @@
       "date": "2026-08-16T08:21:14+00:00",
       "dateStr": "16 Aug, 08:21",
       "isNew": true,
-      "id": "abc61786868474"
-    },
-    {
-      "title": "As 30 milionë dollarë s’mjaftojnë! Ivanka Trump dhe Jared Kushner mbeten jashtë klubit elitar të Majamit",
-      "link": "https://shekulli.com.al/2026/08/16/as-30-milione-dollare-smjaftojne-ivanka-trump-dhe-jared-kushner-mbeten-jashte-klubit-elitar-te-majamit/",
-      "description": "Të kesh miliarda dhe një shtëpi luksoze në një nga ishujt më të shtrenjtë të Majamit nuk është e mjaftueshme për t’u bërë pjesë e një prej klubeve private më ekskluzive të SHBA-së.Indian Creek Country Club, në ishullin Indian Creek, i njohur si “Billionaire Bunker”, nuk ka pranuar ende në radhët e t",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-16T08:20:29+00:00",
-      "dateStr": "16 Aug, 08:20",
-      "isNew": true,
-      "id": "she81786868429"
-    },
-    {
-      "title": "Zjarri në hotelin në Vlorë, si është gjendjen e të lënduarve",
-      "link": "https://abcnews.al/zjarri-ne-hotelin-ne-vlore-si-eshte-gjendjen-e-te-lenduarve/",
-      "description": "TIRANË&#8211; Ministria e Shëndetësisë ka dhënë detaje mbi gjendjen shëndetësore të personave të lënduar nga zjarri që përfshiu një hotel në Vlorë. Sipas saj, në QSUT janë paraqitur tre persona, të cilët po marrin aktualisht trajtim mjekësor. Njëra prej pacienteve është në gjendje të rënduar për shk",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T08:17:11+00:00",
-      "dateStr": "16 Aug, 08:17",
-      "isNew": true,
-      "id": "abc71786868231"
-    },
-    {
-      "title": "Zjarri në hotelin “Brooklyn”, zbardhen emrat e 6 të rinjve të plagosur: 4 vajza dhe 2 djem",
-      "link": "https://shekulli.com.al/2026/08/16/zjarri-ne-hotelin-brooklyn-zbardhen-emrat-e-6-te-rinjve-te-plagosur-4-vajza-dhe-2-djem/",
-      "description": "Janë zbardhur identitetet e gjashtë personave që mbetën të lënduar nga zjarri i fuqishëm që përfshiu në orët e para të mëngjesit hotelin “Brooklyn” në Lungomaren e Vlorës. Të plagosurit janë të moshave nga 21 deri në 30 vjeç dhe mes tyre janë katër vajza dhe dy djem. Ata janë: &#8211; Ndorina Rexhep",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-16T08:08:11+00:00",
-      "dateStr": "16 Aug, 08:08",
-      "isNew": true,
-      "id": "she91786867691"
-    },
-    {
-      "title": "Zjarret/ Ministria e Mbrojtjes: Dhjetë vatra janë aktive, s’ka rrezik për zonat e banuara",
-      "link": "https://abcnews.al/zjarret-ministria-e-mbrojtjes-dhjete-vatra-jane-aktive-ska-rrezik-per-zonat-e-banuara/",
-      "description": "SHQIPËRI- Ministria e Mbrojtjes thotë se në 24 orët e fundit janë raportuar 43 vatra zjarri në vend, nga të cilat 10 mbeten aktive dhe 3 janë në monitorim. Në operacione janë angazhuar 499 forca dhe 43 automjete zjarrfikëse, ndërsa Forcat e Armatosura kanë kontribuar me 120 efektivë, 5 helikopterë d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T08:01:03+00:00",
-      "dateStr": "16 Aug, 08:01",
-      "isNew": true,
-      "id": "abc81786867263"
-    },
-    {
-      "title": "Aksident tragjik në Hungari/ Përmbyset autobusi polak, 12 të vdekur dhe të paktën 10 të plagosur",
-      "link": "https://abcnews.al/aksident-tragjik-ne-hungari-permbyset-autobusi-polak-12-te-vdekur-dhe-te-pakten-10-te-plagosur/",
-      "description": "Të paktën 12 persona kanë humbur jetën dhe të paktën 10 të tjerë janë plagosur pas përmbysjes së një autobusi polak në një autostradë në lindje të Hungarisë. Aksidenti ndodhi në orët e para të së dielës, pranë qytetit Mezőkeresztes. Sipas policisë, autobusi po udhëtonte në autostradën M3 në drejtim ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T07:45:32+00:00",
-      "dateStr": "16 Aug, 07:45",
-      "isNew": true,
-      "id": "abc91786866332"
+      "id": "abc91786868474"
     }
   ]
 }
