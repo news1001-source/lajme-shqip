@@ -1,8 +1,195 @@
 {
-  "lastUpdated": "2026-08-16T08:22:11.114769+00:00",
+  "lastUpdated": "2026-08-16T09:21:50.020185+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Rrëfimi i një prej pushuesve në hotelin e djegur në Vlorë: U hodha nga ballkoni nga frika",
+      "link": "https://24-ore.com/rrefimi-i-nje-prej-pushuesve-ne-hotelin-e-djegur-ne-vlore-u-hodha-nga-ballkoni-nga-frika/",
+      "description": "Një natë që nisi si një qëndrim i zakonshëm në hotel u kthye në një makth për pushuesit, të cilët u zgjuan të rrethuar nga tymi dhe flakët. Një prej të dëmtuarve tregon se gjithçka ndodhi në orët e para të mëngjesit. Pas alarmit të parë, ai dhe personat që ndodheshin me të tentuan të [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T09:18:14+00:00",
+      "dateStr": "16 Aug, 09:18",
+      "isNew": true,
+      "id": "24 01786871894"
+    },
+    {
+      "title": "“I gjithë kati ishte në flakë”/ Zjarrfikësi rrëfen tmerrin në hotelin e Vlorës: Pushuesit nuk dilnin dot nga shkallë",
+      "link": "https://24-ore.com/i-gjithe-kati-ishte-ne-flake-zjarrfikesi-rrefen-tmerrin-ne-hotelin-e-vlores-pushuesit-nuk-dilnin-dot-nga-shkalle/",
+      "description": "I gjithë kati i parë i hotel Brooklyn në Vlorë ishte i përfshirë nga flakët kur mbërriti zjarrfikësja, tregon Luan Kapaj. Zjarrfikësi thotë se ka qenë një telefonatë nga një banor ajo që ka mundësuar njoftimin në kohë të tyre dhe ndërhyrjen e shpejtë. Shefi i shërbimit zjarrfikës thotë se zjarri kis",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T09:18:05+00:00",
+      "dateStr": "16 Aug, 09:18",
+      "isNew": true,
+      "id": "24 11786871885"
+    },
+    {
+      "title": "Zjarri në hotel në Vlorë! Ministria i Shëndetësisë: 5 persona po marrin trajtim në Tiranë, një paciente në gjendje të rënduar",
+      "link": "https://24-ore.com/zjarri-ne-hotel-ne-vlore-ministria-i-shendetesise-5-persona-po-marrin-trajtim-ne-tirane-nje-paciente-ne-gjendje-te-renduar/",
+      "description": "Pesë persona të lënduar si pasojë e zjarrit të rënë në një hotel në Vlorë po marrin trajtim mjekësor në spitalet e Tiranës. Sipas Ministrisë së Shëndetësisë, tre prej të lënduarve janë paraqitur në Qendrën Spitalore Universitare “Nënë Tereza” (QSUT). Njëra prej pacienteve është në gjendje të rënduar",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T09:18:02+00:00",
+      "dateStr": "16 Aug, 09:18",
+      "isNew": true,
+      "id": "24 21786871882"
+    },
+    {
+      "title": "Dhunohet për shkak të detyrës shefi i Krimeve në Sarandë, Mateo Bakalli",
+      "link": "https://24-ore.com/dhunohet-per-shkak-te-detyres-shefi-i-krimeve-ne-sarande-mateo-bakalli/",
+      "description": "Shefi i Krimeve në Sarandë, Mateo Bakalli, është dhunuar gjatë ndërhyrjes për të neutralizuar një konflikt në një lokal në qytet. Sipas informacioneve paraprake, ngjarja ka ndodhur në një nga ambientet e njohura, ku disa persona, mes tyre edhe pjesëtarë të sigurisë, po përfshiheshin në një konflikt ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T09:17:54+00:00",
+      "dateStr": "16 Aug, 09:17",
+      "isNew": true,
+      "id": "24 31786871874"
+    },
+    {
+      "title": "Eksploziv në banesën e Ylli Zallës, gruaja lajmëroi Policinë nga Italia! Dyshimet se e ka vendosur vetë ai",
+      "link": "https://24-ore.com/eksploziv-ne-banesen-e-ylli-zalles-gruaja-lajmeroi-policine-nga-italia-dyshimet-se-e-ka-vendosur-vete-ai/",
+      "description": "Një sasi lënde plasëse ka shpërthyer në derën e banesës së Ylli Zallës, i shpallur në kërkim që prej nëntorit të kaluar pas dyshimeve se ka furnizuar me arsenal autorët e atentatit të bujshëm në Rinas. Shpërthimi ka lënë pas vetëm dëme materiale si dhe është djegur automjeti i Ylli Zallës që ishte p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T09:17:52+00:00",
+      "dateStr": "16 Aug, 09:17",
+      "isNew": true,
+      "id": "24 41786871872"
+    },
+    {
+      "title": "Zjarr i madh në hotelin në Lungomare, gjashtë të lënduar! Shefi i zjarrfikësve: Ishte e pamundur të kalohej nga shkallët",
+      "link": "https://24-ore.com/zjarr-i-madh-ne-hotelin-ne-lungomare-gjashte-te-lenduar-shefi-i-zjarrfikesve-ishte-e-pamundur-te-kalohej-nga-shkallet/",
+      "description": "Një zjarr i përmasave të mëdha përfshiu në orët e para të mëngjesit një hotel në zonën e Lungomares në Vlorë, duke lënë të lënduar gjashtë persona. Ngjarja ndodhi rreth orës 04:05, në lagjen “10 Korriku”. Sipas policisë, flakët nisën në ambientet e bar-restorantit në katin e parë të godinës dhe më p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T09:17:41+00:00",
+      "dateStr": "16 Aug, 09:17",
+      "isNew": true,
+      "id": "24 51786871861"
+    },
+    {
+      "title": "Shpërthim me tritol në Fushë-Krujë, digjet automjeti dhe dëmtohet banesa e Ylli Zallës",
+      "link": "https://24-ore.com/shperthim-me-tritol-ne-fushe-kruje-digjet-automjeti-dhe-demtohet-banesa-e-ylli-zalles/",
+      "description": "Një shpërthim i dyshuar me lëndë plasëse ka ndodhur gjatë natës në fshatin Zallë, në Fushë-Krujë, ku në derën e banesës së shtetasit me inicialet Ylli Zallës dyshohet se është vendosur dhe ka shpërthyer një sasi e lëndës plasëse. Nga shpërthimi janë shkaktuar dëme materiale në banesë, ndërsa automje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T09:17:30+00:00",
+      "dateStr": "16 Aug, 09:17",
+      "isNew": true,
+      "id": "24 61786871850"
+    },
+    {
+      "title": "Aksident tragjik në Hungari! Përmbyset autobusi me turistë polakë, 12 të vdekur dhe 10 të plagosur",
+      "link": "https://24-ore.com/aksident-tragjik-ne-hungari-permbyset-autobusi-me-turiste-polake-12-te-vdekur-dhe-10-te-plagosur/",
+      "description": "Të paktën 12 persona kanë humbur jetën dhe të paktën 10 të tjerë janë plagosur pas përmbysjes së një autobusi polak në një autostradë në lindje të Hungarisë. Aksidenti ndodhi në orët e para të së dielës, pranë qytetit Mezőkeresztes. Sipas policisë, autobusi po udhëtonte në autostradën M3 në drejtim ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T09:17:18+00:00",
+      "dateStr": "16 Aug, 09:17",
+      "isNew": true,
+      "id": "24 71786871838"
+    },
+    {
+      "title": "Vrau 11 burra të moshuar për pasurinë, dënohet me vdekje “Vejusha e Zezë” e Iranit",
+      "link": "https://24-ore.com/vrau-11-burra-te-moshuar-per-pasurine-denohet-me-vdekje-vejusha-e-zeze-e-iranit/",
+      "description": "Një nga rastet më të errëta të vrasjeve seriale në Iran ka tronditur opinionin publik. Kolshoum Akbari, e njohur në mediat iraniane si “Vejusha e Zezë”, është dënuar me vdekje pasi u shpall fajtore për vrasjen e 11 burrave të moshuar dhe një tentativë vrasjeje. Sipas hetimeve, aktiviteti kriminal i ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T09:17:04+00:00",
+      "dateStr": "16 Aug, 09:17",
+      "isNew": true,
+      "id": "24 81786871824"
+    },
+    {
+      "title": "Andonovska: Nuk ka më pritje e as vonesa për furnizime me barna dhe mjete mjekësore",
+      "link": "https://24-ore.com/andonovska-nuk-ka-me-pritje-e-as-vonesa-per-furnizime-me-barna-dhe-mjete-mjekesore/",
+      "description": "Instituti i Shëndetit Publik (ISHP) ka pastruar rastet e prapambetura dhe nuk ka më lista pritjeje për kërkesat e marra nga MALMED, informoi drejtoresha e Institutit. “Më parë pritej nga tre deri në gjashtë muaj dhe kishte një punë të prapambetur, raste… Disa madje mbaheshin në sirtarë, pyes veten p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T09:12:10+00:00",
+      "dateStr": "16 Aug, 09:12",
+      "isNew": true,
+      "id": "24 91786871530"
+    },
+    {
+      "title": "Zjarr i fuqishëm në një tjetër biznes në jug, flakët shkrumbojnë agroturizmin e njohur",
+      "link": "https://shekulli.com.al/2026/08/16/zjarr-i-fuqishem-ne-nje-tjeter-biznes-ne-jug-flaket-shkrumbojne-agroturizmin-e-njohur/",
+      "description": "Një tjetër biznes është përfshirë nga flakët në jug të vendit, në një ditë kur zjarret vijojnë të shkaktojnë probleme të mëdha në zonat turistike. Agroturizmi Mesopotam, i pozicionuar përgjatë rrugës Sarandë–Syri i Kaltër është përfshirë nga një zjarr i fuqishëm, duke shkaktuar dëme të mëdha materia",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-16T09:12:04+00:00",
+      "dateStr": "16 Aug, 09:12",
+      "isNew": true,
+      "id": "she01786871524"
+    },
+    {
+      "title": "I dyshuar për atentatin ndaj Gilmando Danit, kush është Ylli Zalla që sot iu vendos tritoli në banesë. Dora e fshehtë e…",
+      "link": "https://shekulli.com.al/2026/08/16/i-dyshuar-per-atentatin-ndaj-gilmando-danit-kush-eshte-ylli-zalla-qe-sot-iu-vendos-tritoli-ne-banese-dora-e-fshehte-e/",
+      "description": "Një sasi tritoli është vendosur sot në banesën e Ylli Zallës në zonën e Fushë-Krujës, duke rikthyer në vëmendje emrin e 49-vjeçarit, i cili prej muajsh është në arrati dhe konsiderohet nga autoritetet si person me rrezikshmëri të lartë. Zalla dyshohet se ka vepruar si dora e fahehtë e grupeve krimin",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-16T08:57:17+00:00",
+      "dateStr": "16 Aug, 08:57",
+      "isNew": true,
+      "id": "she11786870637"
+    },
+    {
+      "title": "I vunë tritol në derë të shtëpisë/ Kush është Ylli Zalla, në kërkim si i përfshirë në vrasjen e dyfishtë në Rinas",
+      "link": "https://abcnews.al/shperthim-me-tritol-ne-deren-e-shtepise-se-ylli-zalles-nje-emer-i-njohur-per-policine/",
+      "description": "FUSHË KRUJË- Një shpërthim  me tritol ka ndodhur gjatë natës në fshatin Zallë të Fushë-Krujës. Një sasi lëndë plasëse është vendosur në derën e banesës së Ylli Zallës, një emër i njohur për Policinë e Shtetit. Si pasojë e shpërthimit janë shkaktuar dëme materiale në banesë, ndërsa ka marrë flakë dhe",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T08:51:33+00:00",
+      "dateStr": "16 Aug, 08:51",
+      "isNew": true,
+      "id": "abc01786870293"
+    },
+    {
+      "title": "I vendoset tritol banesës së Ylli Zallës në Fushë-Krujë, digjet makina që ishte parkuar në oborr",
+      "link": "https://shekulli.com.al/2026/08/16/i-vendoset-tritol-baneses-se-ylli-zalles-ne-fushe-kruje-digjet-makina-qe-ishte-parkuar-ne-oborr/",
+      "description": "Një sasi tritoli është vendosur sot në banesën e Ylli Zallës në zonën e Fushë-Krujës, duke rikthyer në vëmendje emrin e 49-vjeçarit, i cili prej muajsh është në arrati dhe konsiderohet nga autoritetet si person me rrezikshmëri të lartë. Si pasojë e shpërthimit ka pasur dëme të shumta materiale, si d",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-16T08:49:09+00:00",
+      "dateStr": "16 Aug, 08:49",
+      "isNew": true,
+      "id": "she21786870149"
+    },
+    {
+      "title": "VIDEO/ Flakët shkrumbojnë agroturizmin në Sarandë",
+      "link": "https://abcnews.al/flaket-shkrumbojne-agroturizmin-ne-sarande/",
+      "description": "SARANDË- Një zjarr i fuqishëm ka përfshirë mëngjesin e kësaj të diele një agroturizëm, në rrugën Sarandë–Syri i Kaltër, duke e shkrumbuar tërësisht. Sipas informacioneve paraprake, zjarri ka rënë rreth orës 05:30 të mëngjesit. Flakët janë përhapur në ambientet e e agroturizmit, duke shkaktuar dëme t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T08:45:12+00:00",
+      "dateStr": "16 Aug, 08:45",
+      "isNew": true,
+      "id": "abc11786869912"
+    },
+    {
+      "title": "Zjarri në hotelin në Vlorë, Ministria e Shëndetësisë: 5 të plagosur po mjekohen në Tiranë, një vajzë në gjendje të rëndë",
+      "link": "https://shekulli.com.al/2026/08/16/zjarri-ne-hotelin-ne-vlore-ministria-e-shendetesise-5-te-plagosur-po-mjekohen-ne-tirane-nje-vajze-ne-gjendje-te-rende/",
+      "description": "Ministria e Shëndetësisë ka bërë të ditur përditësimin më të fundit mbi gjendjen e gjashtë personave që mbetën të lënduar nga zjarri i rënë në një hotel në Vlorë gjatë orëve të para të mëngjesit. Pesë prej të plagosurve janë transportuar drejt Tiranës për trajtim të specializuar. Tre pacientë po mar",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-16T08:37:45+00:00",
+      "dateStr": "16 Aug, 08:37",
+      "isNew": true,
+      "id": "she31786869465"
+    },
+    {
+      "title": "Dhunohet shefi i krimeve në Sarandë, u konfliktua me disa persona",
+      "link": "https://abcnews.al/dhunohet-shefi-i-krimeve-ne-sarande-u-konfliktua-me-disa-persona/",
+      "description": "SARANDË- Një ngjarje e rëndë është regjistruar në orët e para të mëngjesit në Sarandë, ku shefi i Krimeve, Mateo Bakalli, është përfshirë në një konflikt fizik me disa persona. Sipas të dhënave paraprake, gjatë përplasjes Bakalli është dhunuar dhe ka pësuar dëmtime në pjesë të ndryshme të trupit dhe",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T08:21:14+00:00",
+      "dateStr": "16 Aug, 08:21",
+      "isNew": true,
+      "id": "abc21786868474"
+    },
     {
       "title": "As 30 milionë dollarë s’mjaftojnë! Ivanka Trump dhe Jared Kushner mbeten jashtë klubit elitar të Majamit",
       "link": "https://shekulli.com.al/2026/08/16/as-30-milione-dollare-smjaftojne-ivanka-trump-dhe-jared-kushner-mbeten-jashte-klubit-elitar-te-majamit/",
@@ -12,29 +199,7 @@
       "date": "2026-08-16T08:20:29+00:00",
       "dateStr": "16 Aug, 08:20",
       "isNew": true,
-      "id": "she01786868429"
-    },
-    {
-      "title": "Këngët labe dhe tingujt e fyellit sjellin atmosferë festive në Parkun Arkeologjik të Amantias",
-      "link": "https://24-ore.com/kenget-labe-dhe-tingujt-e-fyellit-sjellin-atmosfere-festive-ne-parkun-arkeologjik-te-amantias/",
-      "description": "Parku Arkeologjik i Amantias u kthye në një skenë të veçantë të muzikës dhe traditës shqiptare, me tingujt e këngëve labe dhe interpretimet e artistëve në kuadër të aktiviteteve verore që zhvillohen në zonën e Selenicës. Grupi “Amantia” solli për publikun këngë të njohura të traditës labe, mes tyre ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T08:18:14+00:00",
-      "dateStr": "16 Aug, 08:18",
-      "isNew": true,
-      "id": "24 01786868294"
-    },
-    {
-      "title": "Akuza për mashtrim ndaj Selena Gomez, reagon avokati i këngëtares",
-      "link": "https://24-ore.com/akuza-per-mashtrim-ndaj-selena-gomez-reagon-avokati-i-kengetares/",
-      "description": "Selena Gomez dhe nëna e saj, Mandy Teefey, po përballen me një padi lidhur me kompaninë e tyre të shëndetit mendor, Wondermind. Avokati i këngëtares, Mathew S. Rosengart, reagoi ashpër ndaj akuzave, duke i cilësuar ato si të pabaza. “Pretendimet se Selena Gomez është përfshirë në çfarëdo mënyre në n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T08:17:17+00:00",
-      "dateStr": "16 Aug, 08:17",
-      "isNew": true,
-      "id": "24 11786868237"
+      "id": "she41786868429"
     },
     {
       "title": "Zjarri në hotelin në Vlorë, si është gjendjen e të lënduarve",
@@ -45,51 +210,7 @@
       "date": "2026-08-16T08:17:11+00:00",
       "dateStr": "16 Aug, 08:17",
       "isNew": true,
-      "id": "abc01786868231"
-    },
-    {
-      "title": "Zjarret/ 43 vatra në 24 orë, 10 ende aktive, flakët mbajnë në alarm disa zona të vendit",
-      "link": "https://24-ore.com/zjarret-43-vatra-ne-24-ore-10-ende-aktive-flaket-mbajne-ne-alarm-disa-zona-te-vendit/",
-      "description": "Dhjetë vatra zjarri vijojnë të mbeten aktive në territorin e vendit, ndërsa tre të tjera janë nën monitorim. Gjatë 24 orëve të fundit janë raportuar gjithsej 43 vatra zjarri, sipas informacionit të Ministrisë së Mbrojtjes. Situata më problematike paraqitet në disa zona malore, ku terreni i thyer dhe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T08:16:44+00:00",
-      "dateStr": "16 Aug, 08:16",
-      "isNew": true,
-      "id": "24 21786868204"
-    },
-    {
-      "title": "Zjarri në hotelin e Vlorës, Ministria e Shëndetësisë zbulon gjendjen e të plagosurve: Një paciente në gjendje të rëndu",
-      "link": "https://24-ore.com/zjarri-ne-hotelin-e-vlores-ministria-e-shendetesise-zbulon-gjendjen-e-te-plagosurve-nje-paciente-ne-gjendje-te-rendu/",
-      "description": "Gjashtë persona kanë mbetur të lënduar nga zjarri që përfshiu një hotel në Vlorë në orët e para të mëngjesit. Sipas Ministrisë së Shëndetësisë, të lënduarit kanë marrë ndihmën e parë në Spitalin Rajonal të Vlorës, ndërsa pesë prej tyre janë transportuar drejt Tiranës për trajtim më të specializuar. ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T08:16:28+00:00",
-      "dateStr": "16 Aug, 08:16",
-      "isNew": true,
-      "id": "24 31786868188"
-    },
-    {
-      "title": "HUNGARI – 12 të vdekur pas një aksidenti rrugor",
-      "link": "https://24-ore.com/hungari-12-te-vdekur-pas-nje-aksidenti-rrugor/",
-      "description": "BUDAPEST, 16 gusht /ATSH-DPA/ – Të paktën 12 persona kanë vdekur në një aksident që përfshinte një autobus polak në Hungarinë lindore, njoftoi sot policia. Disa pasagjerë të tjerë pësuan lëndime. ”Autobusi doli nga autostrada në M3 pranë Mezokeresztes, rreth 140 kilometra në lindje të Budapestit, dh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T08:16:01+00:00",
-      "dateStr": "16 Aug, 08:16",
-      "isNew": true,
-      "id": "24 41786868161"
-    },
-    {
-      "title": "PDK kërkon vazhdimin e seancës së Kuvendit, paralajmëron konferencë për media në orën 11:00",
-      "link": "https://24-ore.com/pdk-kerkon-vazhdimin-e-seances-se-kuvendit-paralajmeron-konference-per-media-ne-oren-1100/",
-      "description": "Partia Demokratike e Kosovës do të mbajë sot konferencë për media në hollin e Kuvendit të Kosovës, duke nisur nga ora 11:00. Konferenca vjen në kohën kur PDK-ja po kërkon vazhdimin e seancës konstituive të Kuvendit. Sekretarja e PDK-së, Vlora Çitaku, i ka dërguar letër kryesuesit të seancës konstitu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T08:12:02+00:00",
-      "dateStr": "16 Aug, 08:12",
-      "isNew": true,
-      "id": "24 51786867922"
+      "id": "abc31786868231"
     },
     {
       "title": "Zjarri në hotelin “Brooklyn”, zbardhen emrat e 6 të rinjve të plagosur: 4 vajza dhe 2 djem",
@@ -100,7 +221,7 @@
       "date": "2026-08-16T08:08:11+00:00",
       "dateStr": "16 Aug, 08:08",
       "isNew": true,
-      "id": "she11786867691"
+      "id": "she51786867691"
     },
     {
       "title": "Zjarret/ Ministria e Mbrojtjes: Dhjetë vatra janë aktive, s’ka rrezik për zonat e banuara",
@@ -111,18 +232,7 @@
       "date": "2026-08-16T08:01:03+00:00",
       "dateStr": "16 Aug, 08:01",
       "isNew": true,
-      "id": "abc11786867263"
-    },
-    {
-      "title": "“Në korridor tym, në ballkon flakë”/ 21-vjeçari hidhet nga kati i dytë për t’i shpëtuar zjarrit: Më zgjoi gruaja",
-      "link": "https://24-ore.com/ne-korridor-tym-ne-ballkon-flake-21-vjecari-hidhet-nga-kati-i-dyte-per-ti-shpetuar-zjarrit-me-zgjoi-gruaja/",
-      "description": "Luan Salihu, 21 vjeç, ia doli t’u shpëtonte flakëve që përfshinë hotelin në Lungomaren e Vlorës duke u hedhur nga ballkoni. Është pikërisht ai që duket edhe në videon e siguruar nga Report Tv, ku kërcen nga ballkoni i dhomës së tij në katin e dytë. I riu nga Lipjani thotë se ndodhej në gjumë [&#8230",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T08:00:38+00:00",
-      "dateStr": "16 Aug, 08:00",
-      "isNew": true,
-      "id": "24 61786867238"
+      "id": "abc41786867263"
     },
     {
       "title": "E rëndë në Sarandë, dhunohet shefi i krimeve Mateo Bakalli",
@@ -133,40 +243,7 @@
       "date": "2026-08-16T07:55:04+00:00",
       "dateStr": "16 Aug, 07:55",
       "isNew": true,
-      "id": "she21786866904"
-    },
-    {
-      "title": "Zjarr në një hotel në Lungomare, 6 të lënduar, 5 prej tyre dërgohen në Tiranë",
-      "link": "https://24-ore.com/zjarr-ne-nje-hotel-ne-lungomare-6-te-lenduar-5-prej-tyre-dergohen-ne-tirane/",
-      "description": "Një zjarr ka përfshirë në orët e para të mëngjesit një hotel në zonën e Lungomares në Vlorë, duke lënë të lënduar gjashtë persona. Ngjarja është regjistruar rreth orës 04:05, në lagjen “10 Korriku”. Sipas policisë, flakët kanë nisur në ambientet e restorantit të godinës dhe më pas janë përhapur në p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T07:52:09+00:00",
-      "dateStr": "16 Aug, 07:52",
-      "isNew": true,
-      "id": "24 71786866729"
-    },
-    {
-      "title": "“Flakë, tym…”/ Pushuesi tregon si u hodh nga ballkoni për t’i shpëtuar zjarrit në Vlorë",
-      "link": "https://24-ore.com/flake-tym-pushuesi-tregon-si-u-hodh-nga-ballkoni-per-ti-shpetuar-zjarrit-ne-vlore/",
-      "description": "Momente paniku dhe tmerri për të pushuesit që ndodheshin në hotelin e përfshirë nga zjarri. Një prej të dëmtuarve rrëfen momentet e para të ngjarjes dhe mënyrën se si tentoi të shpëtonte nga flakët, duke u detyruar të hidhej nga ballkoni. “Ishim në gjumë në orën 4 të mëngjesit, nuk e di. Dolëm në ko",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T07:47:15+00:00",
-      "dateStr": "16 Aug, 07:47",
-      "isNew": true,
-      "id": "24 81786866435"
-    },
-    {
-      "title": "FOKUS – Fake news ”vdes” Sam Altman",
-      "link": "https://24-ore.com/fokus-fake-news-vdes-sam-altman/",
-      "description": "ROMË, 16 gusht /ATSH-ANSA/ – Fjalia ”Sam Altman ka vdekur”, shfaqet si informacion i rremë në Wikipedia në kërkimin në Google. Sam Altman nuk vdiq më 12 gusht, ndryshe nga ajo që një rezultat kërkimi në Google mund ta kishte bërë dikë të besonte. Kjo u zbulua në orët e fundit nga përdoruesit e rrjet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T07:46:36+00:00",
-      "dateStr": "16 Aug, 07:46",
-      "isNew": true,
-      "id": "24 91786866396"
+      "id": "she61786866904"
     },
     {
       "title": "Aksident tragjik në Hungari/ Përmbyset autobusi polak, 12 të vdekur dhe të paktën 10 të plagosur",
@@ -177,7 +254,7 @@
       "date": "2026-08-16T07:45:32+00:00",
       "dateStr": "16 Aug, 07:45",
       "isNew": true,
-      "id": "abc21786866332"
+      "id": "abc51786866332"
     },
     {
       "title": "Një tërmet i fortë godet Ishujt Vanuatu",
@@ -188,7 +265,7 @@
       "date": "2026-08-16T07:35:21+00:00",
       "dateStr": "16 Aug, 07:35",
       "isNew": true,
-      "id": "abc31786865721"
+      "id": "abc61786865721"
     },
     {
       "title": "Zjarri në hotelin “Brooklyn”, Policia: Flakët nisën nga priza e frigoriferit, 6 pushues të lënduar",
@@ -199,7 +276,7 @@
       "date": "2026-08-16T07:28:35+00:00",
       "dateStr": "16 Aug, 07:28",
       "isNew": true,
-      "id": "she31786865315"
+      "id": "she71786865315"
     },
     {
       "title": "Zjarri në Vlorë/ Policia: Ka qenë aksidental, u shkaktua nga djegia e prizës elektrike",
@@ -210,7 +287,7 @@
       "date": "2026-08-16T07:19:32+00:00",
       "dateStr": "16 Aug, 07:19",
       "isNew": true,
-      "id": "abc41786864772"
+      "id": "abc71786864772"
     },
     {
       "title": "Zjarri në hotelin në Vlorë, pushuesi polak: Nuhatëm diçka të çuditshme, dëgjuam të bërtitura dhe u hodhëm nga dritarja",
@@ -221,7 +298,7 @@
       "date": "2026-08-16T07:17:22+00:00",
       "dateStr": "16 Aug, 07:17",
       "isNew": true,
-      "id": "she41786864642"
+      "id": "she81786864642"
     },
     {
       "title": "Zjarri më i madh në dekadat e fundit përfshin Belgjikën, evakuohen banorët",
@@ -232,7 +309,7 @@
       "date": "2026-08-16T06:41:26+00:00",
       "dateStr": "16 Aug, 06:41",
       "isNew": true,
-      "id": "abc51786862486"
+      "id": "abc81786862486"
     },
     {
       "title": "Momentet e tmerrit mes flakëve dhe tymit, pushuesi nga Kosova: Bashkë me të fejuarën u hodhëm nga ballkoni",
@@ -243,18 +320,7 @@
       "date": "2026-08-16T06:36:44+00:00",
       "dateStr": "16 Aug, 06:36",
       "isNew": true,
-      "id": "she51786862204"
-    },
-    {
-      "title": "Zjarri në hotelin në Lungomare, mjeku: Një paciente ka djegie në 100% të trupit, në rrezik për jetën",
-      "link": "https://shekulli.com.al/2026/08/16/zjarri-ne-hotelin-ne-lungomare-mjeku-nje-paciente-ka-djegie-ne-100-te-trupit-ne-rrezik-per-jeten/",
-      "description": "Detaje të rënda janë zbardhur për gjendjen shëndetësore të personave të plagosur nga zjarri që përfshiu një hotel në Lungomare të Vlorës gjatë orëve të para të mëngjesit. Shefi i reanimacionit të Vlorës, Edmond Breshanaj, ka bërë me dije se në spital mbërritën gjashtë persona të dëmtuar nga zjarri, ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-16T06:27:38+00:00",
-      "dateStr": "16 Aug, 06:27",
-      "isNew": true,
-      "id": "she61786861658"
+      "id": "she91786862204"
     },
     {
       "title": "“Isha në gjumë, kishte tym kudo”/ Shqiptari nga Kosova rrëfen si u hodh nga ballkoni i hotelit në Vlorë për t’i shpëtuar flakëve",
@@ -265,73 +331,7 @@
       "date": "2026-08-16T06:18:52+00:00",
       "dateStr": "16 Aug, 06:18",
       "isNew": true,
-      "id": "abc61786861132"
-    },
-    {
-      "title": "Natë tmerri në Lungomare, hoteli përfshihet nga flakët! Pushuesit hidhen nga ballkonet, 7 të plagosur",
-      "link": "https://shekulli.com.al/2026/08/16/nate-tmerri-ne-lungomare-hoteli-perfshihet-nga-flaket-pushuesit-hidhen-nga-ballkonet-7-te-plagosur/",
-      "description": "Një natë paniku është regjistruar në Lungomaren e Vlorës, ku një hotel është përfshirë nga flakët në orët e para të mëngjesit. Zjarri ka shkaktuar 7 të plagosur, ndërsa disa prej pushuesve janë detyruar të hidhen nga ballkonet për t’u shpëtuar flakëve dhe tymit. Sipas informacioneve paraprake, zjarr",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-16T06:18:02+00:00",
-      "dateStr": "16 Aug, 06:18",
-      "isNew": true,
-      "id": "she71786861082"
-    },
-    {
-      "title": "ABC News siguron pamjet/ Momenti kur zjarri nis në lokalin e Lungomares dhe përhapet në hotel",
-      "link": "https://abcnews.al/abc-news-siguron-pamjet-momenti-kur-zjarri-nis-ne-lokalin-e-lungomares-dhe-perhapet-ne-hotel/",
-      "description": "VLORË- Një zjarr i përmasave të mëdha përfshiu një godinë në zonën e Lungomares në Vlorë, në të cilën ndodhet edhe një hotel. Abc News ka siguruar momentin kur flakët kanë nisur fillimisht në lokalin në katin e parë të godinës, dhe më pas janë përhapur në katin e dytë, ku ndodhej hoteli, si dhe [...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T06:01:21+00:00",
-      "dateStr": "16 Aug, 06:01",
-      "isNew": true,
-      "id": "abc71786860081"
-    },
-    {
-      "title": "‘U hodha nga ballkoni’, pushuesi i dëmtuar rrëfen zjarrin në hotel: Ishim në gjumë kur…",
-      "link": "https://abcnews.al/u-hodha-nga-ballkoni-pushuesi-i-demtuar-rrefen-zjarrin-ne-hotel-ishim-ne-gjume-kur/",
-      "description": "Momente paniku dhe tmerri për të pushuesit që ndodheshin në hotelin e përfshirë nga zjarri. Një prej të dëmtuarve rrëfen momentet e para të ngjarjes dhe mënyrën se si tentoi të shpëtonte nga flakët, duke u detyruar të hidhej nga ballkoni. “Ishim në gjumë në orën 4 të mëngjesit, nuk e di. Dolëm në ko",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T06:01:16+00:00",
-      "dateStr": "16 Aug, 06:01",
-      "isNew": true,
-      "id": "abc81786860076"
-    },
-    {
-      "title": "Flakët në hotel/ Si paraqitet gjendja e të plagosurve, një vajzë në gjendje të rëndë",
-      "link": "https://abcnews.al/flaket-ne-hotel-si-paraqitet-gjendja-e-te-plagosurve-nje-vajze-ne-gjendje-te-rende/",
-      "description": "Edhe dy persona të tjerë të dëmtuar nga zjarri janë nisur drejt Tiranës për të marrë ndihmë mjekësore më të specializuar. Nga personat e dëmtuar, gjashtë kanë marrë ndihmë mjekësore në spitalin e Vlorës, ndërsa pesë prej tyre tashmë janë dërguar në Tiranë. Një prej të dëmtuarve është transportuar pë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-16T05:37:17+00:00",
-      "dateStr": "16 Aug, 05:37",
-      "isNew": true,
-      "id": "abc91786858637"
-    },
-    {
-      "title": "Migrantët tentojnë sërish kalimin drejt Ceutës, Maroku ndërhyn me forcë: 111 të ndaluar, 61 në pranga",
-      "link": "https://shekulli.com.al/2026/08/15/migrantet-tentojne-serish-kalimin-drejt-ceutes-maroku-nderhyn-me-force-111-te-ndaluar-61-ne-pranga/",
-      "description": "Një tjetër tentativë për kalim masiv të kufirit drejt Ceutës është penguar këtë të shtunë nga forcat e sigurisë marokene, të cilat kanë ndërhyrë në zonat pranë qytetit Fnideq, në afërsi të kufirit me enklavën spanjolle. Sipas burimeve të sigurisë marokene të cituara nga EFE, 111 migrantë u ndaluan g",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-15T20:29:27+00:00",
-      "dateStr": "15 Aug, 20:29",
-      "isNew": true,
-      "id": "she81786825767"
-    },
-    {
-      "title": "“Ku janë biletat, ku janë fotot”, Rama kërkon prova për Arubën, flet për Spiropalin në mediat britanike: Nga Zvërneci nuk tërhiqemi",
-      "link": "https://shekulli.com.al/2026/08/15/ku-jane-biletat-ku-jane-fotot-rama-kerkon-prova-per-aruben-flet-per-spiropalin-ne-mediat-britanike-nga-zverneci-nuk-terhiqemi/",
-      "description": "Kryeministri Edi Rama ka dhënë një intervistë për median britanike “UnHerd”, ku ka folur për projektin e Zvërnecit, protestat, akuzat për lidhje me trafikun e drogës dhe përplasjet brenda Partisë Socialiste. Rama ka deklaruar se projekti i zhvillimit në Zvërnec do të vijojë, pavarësisht kundërshtime",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-15T18:57:34+00:00",
-      "dateStr": "15 Aug, 18:57",
-      "isNew": true,
-      "id": "she91786820254"
+      "id": "abc91786861132"
     }
   ]
 }
