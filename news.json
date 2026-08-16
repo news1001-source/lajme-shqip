@@ -1,8 +1,195 @@
 {
-  "lastUpdated": "2026-08-16T05:22:20.839534+00:00",
+  "lastUpdated": "2026-08-16T06:31:29.256365+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Nashville SC forcon kandidaturën për Supporters’ Shield me fitore 4-1 ndaj Inter Miami",
+      "link": "https://24-ore.com/nashville-sc-forcon-kandidaturen-per-supporters-shield-me-fitore-4-1-ndaj-inter-miami/",
+      "description": "Nashville SC triumfoi 4-1 ndaj Inter Miami CF në GEODIS Park, duke regjistruar fitoren e nëntë në shtëpi dhe duke shkuar pesë pikë para kundërshtarit në ga...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T06:31:13+00:00",
+      "dateStr": "16 Aug, 06:31",
+      "isNew": true,
+      "id": "24 01786861873"
+    },
+    {
+      "title": "Zjarri në hotelin në Lungomare, mjeku: Një paciente ka djegie në 100% të trupit, në rrezik për jetën",
+      "link": "https://shekulli.com.al/2026/08/16/zjarri-ne-hotelin-ne-lungomare-mjeku-nje-paciente-ka-djegie-ne-100-te-trupit-ne-rrezik-per-jeten/",
+      "description": "Detaje të rënda janë zbardhur për gjendjen shëndetësore të personave të plagosur nga zjarri që përfshiu një hotel në Lungomare të Vlorës gjatë orëve të para të mëngjesit. Shefi i reanimacionit të Vlorës, Edmond Breshanaj, ka bërë me dije se në spital mbërritën gjashtë persona të dëmtuar nga zjarri, ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-16T06:27:38+00:00",
+      "dateStr": "16 Aug, 06:27",
+      "isNew": true,
+      "id": "she01786861658"
+    },
+    {
+      "title": "Mëngjes i ngarkuar në kufi, pritje dhe kolona në disa pika",
+      "link": "https://24-ore.com/mengjes-i-ngarkuar-ne-kufi-pritje-dhe-kolona-ne-disa-pika/",
+      "description": "Qendra Kombëtare për Menaxhim Kufitar ka publikuar të dhënat e fundit për fluksin në pikat e kalimit kufitar të Kosovës, të përditësuara më 16 gusht 2026 në orën 07:51. Sipas të dhënave, pritjet më të gjata janë regjistruar në pikën kufitare Dheu i Bardhë, ku në dalje të automjeteve koha e pritjes ë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T06:27:13+00:00",
+      "dateStr": "16 Aug, 06:27",
+      "isNew": true,
+      "id": "24 11786861633"
+    },
+    {
+      "title": "“Isha në gjumë, kishte tym kudo”/ Shqiptari nga Kosova rrëfen si u hodh nga ballkoni i hotelit në Vlorë për t’i shpëtuar flakëve",
+      "link": "https://abcnews.al/isha-ne-gjume-kishte-tym-kudo-shqiptari-nga-kosova-rrefen-si-u-hodh-nga-ballkoni-i-hotelit-ne-vlore-per-ti-shpetuar-flakeve/",
+      "description": "VLORË&#8211; Momente paniku në orët e para të mëngjesit në qytetin e Vlorës. Një hotel u përfshi nga flakët dhe për pasojë shtatë persona janë dërguar në spital për trajtim mjekësor. Një shqiptar nga Kosova, i cili ndodhej në hotel, ka rrëfyer momentet e panikut. Ai tregon se është hedhur nga ballko",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T06:18:52+00:00",
+      "dateStr": "16 Aug, 06:18",
+      "isNew": true,
+      "id": "abc01786861132"
+    },
+    {
+      "title": "Natë tmerri në Lungomare, hoteli përfshihet nga flakët! Pushuesit hidhen nga ballkonet, 7 të plagosur",
+      "link": "https://shekulli.com.al/2026/08/16/nate-tmerri-ne-lungomare-hoteli-perfshihet-nga-flaket-pushuesit-hidhen-nga-ballkonet-7-te-plagosur/",
+      "description": "Një natë paniku është regjistruar në Lungomaren e Vlorës, ku një hotel është përfshirë nga flakët në orët e para të mëngjesit. Zjarri ka shkaktuar 7 të plagosur, ndërsa disa prej pushuesve janë detyruar të hidhen nga ballkonet për t’u shpëtuar flakëve dhe tymit. Sipas informacioneve paraprake, zjarr",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-16T06:18:02+00:00",
+      "dateStr": "16 Aug, 06:18",
+      "isNew": true,
+      "id": "she11786861082"
+    },
+    {
+      "title": "“Keqpërdorimi i pozitës”, një muaj paraburgim për gjyqtarin e arrestuar Avdirrahman Gashi",
+      "link": "https://24-ore.com/keqperdorimi-i-pozites-nje-muaj-paraburgim-per-gjyqtarin-e-arrestuar-avdirrahman-gashi/",
+      "description": "Gjykata Themelore në Prishtinë, Departamenti Special, ka caktuar masën e paraburgimit prej një muaji ndaj gjyqtarit të arrestuar, Avdirrahman Gashi. Sipas njoftimit të gjykatës, masa është caktuar pas kërkesës së Prokurorisë Speciale, nën dyshimin se Gashi ka kryer veprën penale “Keqpërdorimi i pozi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T06:12:25+00:00",
+      "dateStr": "16 Aug, 06:12",
+      "isNew": true,
+      "id": "24 21786860745"
+    },
+    {
+      "title": "E diel me diell dhe temperatura të larta deri në 33 gradë",
+      "link": "https://24-ore.com/e-diel-me-diell-dhe-temperatura-te-larta-deri-ne-33-grade/",
+      "description": "Moti sot pritet të mbajë kryesisht me diell dhe me pak vranësira rreth relievit malor. Sipas Institutit Hidrometeorologjik të Kosovës temperaturat minimale do të lëvizin nga 10 deri në 14 gradë celsius, ndërsa maksimalet pritet të arrijnë nga 28 deri në 33 gradë celsius, raporton KosovaPress. Era do",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T06:12:12+00:00",
+      "dateStr": "16 Aug, 06:12",
+      "isNew": true,
+      "id": "24 31786860732"
+    },
+    {
+      "title": "AI nuk arriti ta zgjidhë misterin matematikor 170-vjeçar, por bëri një zbulim të ri",
+      "link": "https://24-ore.com/ai-nuk-arriti-ta-zgjidhe-misterin-matematikor-170-vjecar-por-beri-nje-zbulim-te-ri/",
+      "description": "Numrat e thjeshtë nuk ndjekin një model të rregullt, por matematikanët mund të matin se sa shpërndarja e tyre i afrohet një mesatareje të parashikueshme. Funksioni zeta i Riemannit, një shprehje matematikore e pafundme, është një nga mjetet kryesore në këtë fushë, pasi zerot e tij jotriviale përmbaj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T06:02:13+00:00",
+      "dateStr": "16 Aug, 06:02",
+      "isNew": true,
+      "id": "24 41786860133"
+    },
+    {
+      "title": "ABC News siguron pamjet/ Momenti kur zjarri nis në lokalin e Lungomares dhe përhapet në hotel",
+      "link": "https://abcnews.al/abc-news-siguron-pamjet-momenti-kur-zjarri-nis-ne-lokalin-e-lungomares-dhe-perhapet-ne-hotel/",
+      "description": "VLORË- Një zjarr i përmasave të mëdha përfshiu një godinë në zonën e Lungomares në Vlorë, në të cilën ndodhet edhe një hotel. Abc News ka siguruar momentin kur flakët kanë nisur fillimisht në lokalin në katin e parë të godinës, dhe më pas janë përhapur në katin e dytë, ku ndodhej hoteli, si dhe [...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T06:01:21+00:00",
+      "dateStr": "16 Aug, 06:01",
+      "isNew": true,
+      "id": "abc11786860081"
+    },
+    {
+      "title": "‘U hodha nga ballkoni’, pushuesi i dëmtuar rrëfen zjarrin në hotel: Ishim në gjumë kur…",
+      "link": "https://abcnews.al/u-hodha-nga-ballkoni-pushuesi-i-demtuar-rrefen-zjarrin-ne-hotel-ishim-ne-gjume-kur/",
+      "description": "Momente paniku dhe tmerri për të pushuesit që ndodheshin në hotelin e përfshirë nga zjarri. Një prej të dëmtuarve rrëfen momentet e para të ngjarjes dhe mënyrën se si tentoi të shpëtonte nga flakët, duke u detyruar të hidhej nga ballkoni. “Ishim në gjumë në orën 4 të mëngjesit, nuk e di. Dolëm në ko",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T06:01:16+00:00",
+      "dateStr": "16 Aug, 06:01",
+      "isNew": true,
+      "id": "abc21786860076"
+    },
+    {
+      "title": "Faqja e njohur: Shqipëria mes vendeve turistike që ia vlen çdo qindarkë e shpenzuar",
+      "link": "https://24-ore.com/faqja-e-njohur-shqiperia-mes-vendeve-turistike-qe-ia-vlen-cdo-qindarke-e-shpenzuar/",
+      "description": "– Rritja e çmimeve në shumë prej destinacioneve turistike të njohura në botë po i shtyn udhëtarët të kërkojnë vende ku përvoja e udhëtimit justifikon më mirë shpenzimet, shkruan Tyler Fox për faqen e njohur turistike traveloffpath.com. Sipas një vlerësimi të bazuar në përvojat e udhëtarëve që kanë e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T06:00:22+00:00",
+      "dateStr": "16 Aug, 06:00",
+      "isNew": true,
+      "id": "24 51786860022"
+    },
+    {
+      "title": "FOKUS – Përvojat stresuese të fëmijërisë lënë pasoja për të ardhmen",
+      "link": "https://24-ore.com/fokus-pervojat-stresuese-te-femijerise-lene-pasoja-per-te-ardhmen/",
+      "description": "UASHINGTON, 16 gusht /ATSH-ANSA/ – Përvojat stresuese të përjetuara gjatë fëmijërisë mund të lënë ”shenja” në tru, të cilat mund të ndikojnë në mënyrën se si organizmi reagon ndaj stresit edhe shumë vite më vonë. Studiuesit kanë zbuluar se qelizat në disa zona të trurit mund të ruajnë një lloj ”kujt",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T06:00:10+00:00",
+      "dateStr": "16 Aug, 06:00",
+      "isNew": true,
+      "id": "24 61786860010"
+    },
+    {
+      "title": "Guilherme shënon penallti, Houston Dynamo ngjitet në krye të Konferencës Perëndimore",
+      "link": "https://24-ore.com/guilherme-shenon-penallti-houston-dynamo-ngjitet-ne-krye-te-konferences-perendimore/",
+      "description": "Houston Dynamo fitoi 1:0 ndaj LA Galaxy përpara 21,063 spektatorëve në Shell Energy Stadium, duke regjistruar fitoren e katërt radhazi dhe të katërtën me p...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T05:50:33+00:00",
+      "dateStr": "16 Aug, 05:50",
+      "isNew": true,
+      "id": "24 71786859433"
+    },
+    {
+      "title": "Flakët në hotel/ Si paraqitet gjendja e të plagosurve, një vajzë në gjendje të rëndë",
+      "link": "https://abcnews.al/flaket-ne-hotel-si-paraqitet-gjendja-e-te-plagosurve-nje-vajze-ne-gjendje-te-rende/",
+      "description": "Edhe dy persona të tjerë të dëmtuar nga zjarri janë nisur drejt Tiranës për të marrë ndihmë mjekësore më të specializuar. Nga personat e dëmtuar, gjashtë kanë marrë ndihmë mjekësore në spitalin e Vlorës, ndërsa pesë prej tyre tashmë janë dërguar në Tiranë. Një prej të dëmtuarve është transportuar pë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T05:37:17+00:00",
+      "dateStr": "16 Aug, 05:37",
+      "isNew": true,
+      "id": "abc31786858637"
+    },
+    {
+      "title": "Parashikimi i motit/ Si do variojnë temperaturat përgjatë ditës",
+      "link": "https://abcnews.al/parashikimi-i-motit-si-do-variojne-temperaturat-pergjate-dites-131/",
+      "description": "Ditën e diel vendi ynë do të ndikohet nga kushte atmosferike relativisht të qëndrueshme. Moti parashikohet fillimisht i kthjellët dhe alternime vranësirash mesatare e hera-herës deri të dendura; prej orëve të mesditës deri ato pasdite, Vranësirat e dendura do të pasohen me reshje lokale dhe afatshku",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T05:28:44+00:00",
+      "dateStr": "16 Aug, 05:28",
+      "isNew": true,
+      "id": "abc41786858124"
+    },
+    {
+      "title": "Horoskopi, çfarë parashikojnë yjet për ju",
+      "link": "https://abcnews.al/horoskopi-cfare-parashikojne-yjet-per-ju-261/",
+      "description": "Dashi Asgjë nuk ka për te ecur mire sot ne jetën tuaj ne çift kështu qe duhet te tregoheni te kujdesshëm dhe te matur para se te flisni. Beqaret do jene me te privilegjuar dhe do mund te realizojnë edhe disa takime interesante. Shfrytëzojeni çdo mundësi. Gjendja financiare do mbetet gjithë kohës e e",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T05:23:49+00:00",
+      "dateStr": "16 Aug, 05:23",
+      "isNew": true,
+      "id": "abc51786857829"
+    },
+    {
+      "title": "Zjarri përfshin një hotel në Lungomare të Vlorës, 7 persona dërgohen në spital",
+      "link": "https://abcnews.al/zjarri-perfshin-nje-hotel-ne-lungomare-te-vlores-7-persona-dergohen-ne-spital/",
+      "description": "VLORË- Një zjarr ka përfshirë një godinë në zonën e Lungomares në Vlorë, ku ndodhet edhe një hotel. Sipas informacioneve paraprake, flakët kanë nisur fillimisht në lokalin në katin e parë të godinës, dhe më pas janë përhapur në katin e dytë, ku ndodhej hoteli, si dhe në fasadën e pallatit. Në vendng",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-16T05:17:25+00:00",
+      "dateStr": "16 Aug, 05:17",
+      "isNew": true,
+      "id": "abc61786857445"
+    },
     {
       "title": "Një gol spektakolar i Niklas Dorsch rikthen Toronto FC te fitoret",
       "link": "https://24-ore.com/nje-gol-spektakolar-i-niklas-dorsch-rikthen-toronto-fc-te-fitoret/",
@@ -12,7 +199,7 @@
       "date": "2026-08-16T04:26:15+00:00",
       "dateStr": "16 Aug, 04:26",
       "isNew": true,
-      "id": "24 01786854375"
+      "id": "24 81786854375"
     },
     {
       "title": "Dallas Cowboys mposhtin Seattle Seahawks 17-7 në ndeshjen e parë parasezonale",
@@ -23,95 +210,7 @@
       "date": "2026-08-16T03:41:02+00:00",
       "dateStr": "16 Aug, 03:41",
       "isNew": true,
-      "id": "24 11786851662"
-    },
-    {
-      "title": "Demarcus Lawrence njofton se sezoni 2026 do të jetë i fundit",
-      "link": "https://24-ore.com/demarcus-lawrence-njofton-se-sezoni-2026-do-te-jete-i-fundit/",
-      "description": "Rrusheri i Seattle Seahawks, Demarcus Lawrence, u rikthye për sezonin e 13-të për t’u përballur me presionin e të qenit skuadra kampione, por tani ka konfi...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T02:51:41+00:00",
-      "dateStr": "16 Aug, 02:51",
-      "isNew": true,
-      "id": "24 21786848701"
-    },
-    {
-      "title": "Brad Marchand konfirmon se i është nënshtruar operacionit pas stinës dhe do të mungojë në ndeshjen lamtumirëse",
-      "link": "https://24-ore.com/brad-marchand-konfirmon-se-i-eshte-nenshtruar-operacionit-pas-stines-dhe-do-te-mungoje-ne-ndeshjen-lamtumirese/",
-      "description": "Brad Marchand njoftoi përmes një videoje në rrjetet sociale se është nënshtruar një operacioni pas stinës për një dëmtim të pacaktuar. Për shkak të ndërhyr...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T01:27:10+00:00",
-      "dateStr": "16 Aug, 01:27",
-      "isNew": true,
-      "id": "24 31786843630"
-    },
-    {
-      "title": "Red Sox 1, Pirates 0 në pjesën e tretë të ndeshjes së 15 gushtit 2026",
-      "link": "https://24-ore.com/red-sox-1-pirates-0-ne-pjesen-e-trete-te-ndeshjes-se-15-gushtit-2026/",
-      "description": "Boston Red Sox po udhëheqin me 1-0 ndaj Pittsburgh Pirates gjatë pjesës së tretë në ndeshjen e zhvilluar më 15 gusht 2026; Red Sox kanë 1 pikë, 3 goditje d...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T00:06:02+00:00",
-      "dateStr": "16 Aug, 00:06",
-      "isNew": true,
-      "id": "24 41786838762"
-    },
-    {
-      "title": "Las Vegas Aces përballë Minnesota Lynx më 15 gusht 2026 në Las Vegas",
-      "link": "https://24-ore.com/las-vegas-aces-perballe-minnesota-lynx-me-15-gusht-2026-ne-las-vegas/",
-      "description": "Ndeshja mes Las Vegas Aces dhe Minnesota Lynx u zhvillua më 15 gusht 2026 në Michelob ULTRA Arena në Paradise, Nevada. Minnesota kishte bilanc sezonal 28-7...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T23:30:32+00:00",
-      "dateStr": "15 Aug, 23:30",
-      "isNew": true,
-      "id": "24 51786836632"
-    },
-    {
-      "title": "Atlanta Braves dhe Arizona Diamondbacks 0-0 pas pjesës së parë — 15 gusht 2026",
-      "link": "https://24-ore.com/atlanta-braves-dhe-arizona-diamondbacks-0-0-pas-pjeses-se-pare-15-gusht-2026/",
-      "description": "Më 15 gusht 2026, Atlanta Braves (73-49) u përballën me Arizona Diamondbacks (65-58) në një ndeshje që kishte mbetur 0-0 pas pjesës së parë. Fillimi i taki...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T23:25:44+00:00",
-      "dateStr": "15 Aug, 23:25",
-      "isNew": true,
-      "id": "24 61786836344"
-    },
-    {
-      "title": "Los Angeles Dodgers përballë Milwaukee Brewers në Dodger Stadium, 15 gusht 2026",
-      "link": "https://24-ore.com/los-angeles-dodgers-perballe-milwaukee-brewers-ne-dodger-stadium-15-gusht-2026/",
-      "description": "Ndeshja mes Los Angeles Dodgers dhe Milwaukee Brewers u zhvillua më 15 gusht 2026 në Dodger Stadium në Los Angeles. Startues për Milwaukee ishte J. Misioro...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T22:41:36+00:00",
-      "dateStr": "15 Aug, 22:41",
-      "isNew": true,
-      "id": "24 71786833696"
-    },
-    {
-      "title": "Shohei Ohtani mund të rifillojë të hedhë para përfundimit të sezonit, thotë GM i Dodgers",
-      "link": "https://24-ore.com/shohei-ohtani-mund-te-rifilloje-te-hedhe-para-perfundimit-te-sezonit-thote-gm-i-dodgers/",
-      "description": "Los Angeles Dodgers po trajtojnë me kujdes rikthimin e Shohei Ohtani si pjesë e misionit të tyre si hedhës. Ylli dykësh nuk ka hedhur që prej 3 korrikut pë...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T22:01:34+00:00",
-      "dateStr": "15 Aug, 22:01",
-      "isNew": true,
-      "id": "24 81786831294"
-    },
-    {
-      "title": "I tha ChatGPT-së se do të vriste ish-të dashurën, OpenAI njoftoi FBI",
-      "link": "https://24-ore.com/i-tha-chatgpt-se-se-do-te-vriste-ish-te-dashuren-openai-njoftoi-fbi/",
-      "description": "OpenAI raportoi në FBI një 25-vjeçar nga Florida, pasi ky i fundit shkroi në ChatGPT plane të hollësishme për përdhunimin dhe vrasjen e ish-të dashurës.Darren Zhou i shkroi robotit bashkëbisedues se do ta vriste të renë deri në fund të muajit.Sipas hetuesve, ish-analisti i një banke të njohur iu dre",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-15T21:42:04+00:00",
-      "dateStr": "15 Aug, 21:42",
-      "isNew": true,
-      "id": "24 91786830124"
+      "id": "24 91786851662"
     },
     {
       "title": "Lufta e zhyt Iranin më thellë në krizë ekonomike",
@@ -122,7 +221,7 @@
       "date": "2026-08-15T20:40:54+00:00",
       "dateStr": "15 Aug, 20:40",
       "isNew": true,
-      "id": "abc01786826454"
+      "id": "abc71786826454"
     },
     {
       "title": "Migrantët tentojnë sërish kalimin drejt Ceutës, Maroku ndërhyn me forcë: 111 të ndaluar, 61 në pranga",
@@ -133,7 +232,7 @@
       "date": "2026-08-15T20:29:27+00:00",
       "dateStr": "15 Aug, 20:29",
       "isNew": true,
-      "id": "she01786825767"
+      "id": "she21786825767"
     },
     {
       "title": "Ukraina godet me raketa qendrën hapësinore ruse",
@@ -144,7 +243,7 @@
       "date": "2026-08-15T20:28:52+00:00",
       "dateStr": "15 Aug, 20:28",
       "isNew": true,
-      "id": "abc11786825732"
+      "id": "abc81786825732"
     },
     {
       "title": "Gjenden trupat e 21 palestinezëve nën rrënoja në Gaza",
@@ -155,29 +254,7 @@
       "date": "2026-08-15T20:07:33+00:00",
       "dateStr": "15 Aug, 20:07",
       "isNew": true,
-      "id": "abc21786824453"
-    },
-    {
-      "title": "Koreja e Jugut propozon bisedime për t’i dhënë fund zyrtarisht luftës me Korenë e Veriut",
-      "link": "https://abcnews.al/koreja-e-jugut-propozon-bisedime-per-ti-dhene-fund-zyrtarisht-luftes-me-korene-e-veriut/",
-      "description": "Presidenti i Koresë së Jugut ka propozuar bisedime me fqinjin e saj verior për t’i dhënë fund zyrtarisht luftës midis të dyjave. Lee Jae Myung sugjeroi një “sistem sigurie me shumë shtresa” për të shmangur përshkallëzimet përgjatë kufirit të vendeve, i njohur si zona e demilitarizuar (DMZ), dhe ofro",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T19:43:59+00:00",
-      "dateStr": "15 Aug, 19:43",
-      "isNew": true,
-      "id": "abc31786823039"
-    },
-    {
-      "title": "Alarm nga OKB: Ebola po vret një person çdo 30 minuta",
-      "link": "https://abcnews.al/alarm-nga-okb-ebola-po-vret-nje-person-cdo-30-minuta/",
-      "description": "Epidemia e Ebolës në Republikën Demokratike të Kongos po merr jetën e një personi çdo 30 minuta, njoftoi zyrtari më i lartë humanitar i OKB-së, duke i bërë thirrje bashkësisë ndërkombëtare të “zgjohet” dhe të “mobilizohet”. ”Ebola po fiton në Republikën Demokratike të Kongos. Nuk mund të lejojmë që ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T19:19:57+00:00",
-      "dateStr": "15 Aug, 19:19",
-      "isNew": true,
-      "id": "abc41786821597"
+      "id": "abc91786824453"
     },
     {
       "title": "“Ku janë biletat, ku janë fotot”, Rama kërkon prova për Arubën, flet për Spiropalin në mediat britanike: Nga Zvërneci nuk tërhiqemi",
@@ -188,29 +265,7 @@
       "date": "2026-08-15T18:57:34+00:00",
       "dateStr": "15 Aug, 18:57",
       "isNew": true,
-      "id": "she11786820254"
-    },
-    {
-      "title": "Edicioni Qendror me Sali Doçi, (15/08/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-sali-doci-15-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T18:54:41+00:00",
-      "dateStr": "15 Aug, 18:54",
-      "isNew": true,
-      "id": "abc51786820081"
-    },
-    {
-      "title": "Zjarret në vend/ Ministria e Mbrojtjes: 31 vatra, 11 prej tyre janë ende aktive",
-      "link": "https://abcnews.al/zjarret-ne-vend-ministria-e-mbrojtjes-31-vatra-11-prej-tyre-jane-ende-aktive/",
-      "description": "Ministria e Mbrojtjes informon se, deri në orën 20:00, në territorin e vendit janë regjistruar 31 vatra zjarri, nga të cilat 11 mbeten aktive dhe 2 janë nën monitorim. Për menaxhimin e situatës janë angazhuar 396 forca operacionale dhe 41 automjete zjarrfikëse, ndërsa Forcat e Armatosura kanë mbësht",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T18:36:56+00:00",
-      "dateStr": "15 Aug, 18:36",
-      "isNew": true,
-      "id": "abc61786819016"
+      "id": "she31786820254"
     },
     {
       "title": "Mashtrimet online, Policia e Shtetit paralajmëron qytetarët: Kujdes nga SMS-të dhe WhatsApp-i",
@@ -221,18 +276,7 @@
       "date": "2026-08-15T18:33:25+00:00",
       "dateStr": "15 Aug, 18:33",
       "isNew": true,
-      "id": "she21786818805"
-    },
-    {
-      "title": "Zjarret vazhdojnë të shkatërrojnë Evropën, mijëra njerëz detyrohen të largohen nga shtëpitë e tyre",
-      "link": "https://abcnews.al/zjarret-vazhdojne-te-shkaterrojne-evropen-mijera-njerez-detyrohen-te-largohen-nga-shtepite-e-tyre/",
-      "description": "Evropa po vazhdon të përballet me një seri zjarresh shkatërruese, ndërsa kontinenti përballet me kushte më të nxehta dhe thatësira që përkeqësohen, me mijëra njerëz të detyruar të largohen nga shtëpitë e tyre. Në Francë, autoritetet thanë se 100 banorë dhe pushues të tjerë u evakuuan nga qyteti Lugl",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T18:23:53+00:00",
-      "dateStr": "15 Aug, 18:23",
-      "isNew": true,
-      "id": "abc71786818233"
+      "id": "she41786818805"
     },
     {
       "title": "Tragjedi në Genova/ 26-vjeçari plagos me thikë motrën dhe bie nga kati i pestë, humb jetën",
@@ -243,29 +287,7 @@
       "date": "2026-08-15T18:13:14+00:00",
       "dateStr": "15 Aug, 18:13",
       "isNew": true,
-      "id": "she31786817594"
-    },
-    {
-      "title": "Mashtrimet online, policia: Kujdes nga mesazhet që synojnë të dhënat bankare",
-      "link": "https://abcnews.al/mashtrimet-online-policia-kujdes-nga-mesazhet-qe-synojne-te-dhenat-bankare/",
-      "description": "Policia e Shtetit ka kërkuar vigjilencë nga qytetarët teksa zbulon një tjetër skemë mashtrimi online, për t’u marrë para. Sipas policisë, ditët e fundit, janë konstatuar raste të mesazheve mashtruese të dërguara përmes SMS-ve dhe aplikacioneve të komunikimit, përfshirë WhatsApp-in, nga numra të ndry",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T17:52:25+00:00",
-      "dateStr": "15 Aug, 17:52",
-      "isNew": true,
-      "id": "abc81786816345"
-    },
-    {
-      "title": "Tërmeti shkatërrimtar në Indonezi, shtohen viktimat/ Të paktën 47 të vdekur",
-      "link": "https://abcnews.al/termeti-shkaterrimtar-ne-indonezi-shtohen-viktimat-te-pakten-47-te-vdekur/",
-      "description": "Në garë me kohën, qindra ekipe kërkim shpëtimi në Indonezi  po vijojnë punën për të gjetur të mbijetuar në rrënojat e  shkaktuara nga tërmeti me magnitude 7,7 të shkallës Rihter që goditi Vendin. Dhjetëra ndërtesa janë shembur tërësisht  ndërsa autoritetet raportojnë deri më tani 47 viktima dhe qind",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-15T17:20:46+00:00",
-      "dateStr": "15 Aug, 17:20",
-      "isNew": true,
-      "id": "abc91786814446"
+      "id": "she51786817594"
     },
     {
       "title": "“Kam 8 vite që nuk kam asnjë lidhje me koncensionin e hemodializës”, Allajbeu: Asnjë interes, as tani dhe as në të ardhmen për të ofruar shërbimin",
@@ -276,7 +298,7 @@
       "date": "2026-08-15T16:52:08+00:00",
       "dateStr": "15 Aug, 16:52",
       "isNew": true,
-      "id": "she41786812728"
+      "id": "she61786812728"
     },
     {
       "title": "Përplasi për vdekje 7-vjeçarin në Elbasan, lirohet nga qelia Petri Bozo",
@@ -287,7 +309,7 @@
       "date": "2026-08-15T16:14:48+00:00",
       "dateStr": "15 Aug, 16:14",
       "isNew": true,
-      "id": "she51786810488"
+      "id": "she71786810488"
     },
     {
       "title": "324 kg kanabis nga Shqipëria drejt Turqisë, goditet organizata kriminale në Selanik",
@@ -298,7 +320,7 @@
       "date": "2026-08-15T16:10:43+00:00",
       "dateStr": "15 Aug, 16:10",
       "isNew": true,
-      "id": "she61786810243"
+      "id": "she81786810243"
     },
     {
       "title": "Misteri i atentatit të dështuar në Elbasan, arrestohet autori/ I ngeci arma apo u pendua në fund për vrasjen e Mir Bitocit",
@@ -309,29 +331,7 @@
       "date": "2026-08-15T15:34:41+00:00",
       "dateStr": "15 Aug, 15:34",
       "isNew": true,
-      "id": "she71786808081"
-    },
-    {
-      "title": "Pamjet e frikshme nga lokali/ Kush është shënjestra e atentatit të dështuar në Elbasan, autori i vuri armën në kokë Mir Bitocit, por…",
-      "link": "https://shekulli.com.al/2026/08/15/pamjet-e-frikshme-nga-lokali-kush-eshte-shenjestra-e-atentatit-te-deshtuar-ne-elbasan-autori-i-vuri-armen-ne-koke-mir-bitocit-por/",
-      "description": "Një ngjarje e rëndë, që për pak mund të përfundonte në tragjedi, është regjistruar në një lokal në Elbasan, mesditën e kësaj të shtune. Një person, ende i paidentifikuar nga policia, dyshohet se ka ndjekur dhe është përpjekur të qëllojë me armë drejt Mir Bitocit. Sipas të dhënave paraprake, të mbësh",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-15T14:40:21+00:00",
-      "dateStr": "15 Aug, 14:40",
-      "isNew": true,
-      "id": "she81786804821"
-    },
-    {
-      "title": "Dështon atentati në Elbasan, autori hyn në mes të lokalit të populluar dhe tenton të vrasë një person, i ngec arma",
-      "link": "https://shekulli.com.al/2026/08/15/deshton-atentati-ne-elbasan-autori-hyn-ne-mes-te-lokalit-te-populluar-dhe-tenton-te-vrase-nje-person-i-ngec-arma/",
-      "description": "Një incident i rëndë me armë zjarri është regjistruar mesditën e kësaj të shtune në një lokal të frekuentuar në qytetin e Elbasanit. Ngjarja ka ndodhur rreth orës 14:50, kur një person është afruar pranë një tjetër personi brenda ambienteve të lokalit dhe dyshohet se i ka drejtuar një armë zjarri. S",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-15T14:26:47+00:00",
-      "dateStr": "15 Aug, 14:26",
-      "isNew": true,
-      "id": "she91786804007"
+      "id": "she91786808081"
     }
   ]
 }
