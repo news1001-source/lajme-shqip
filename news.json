@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-08-17T00:58:20.598449+00:00",
+  "lastUpdated": "2026-08-17T02:20:14.734188+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Phoenix Mercury tërheq fanellën me numër 3 të Diana Taurasit dhe e përfshin në Ring of Honor",
+      "link": "https://24-ore.com/phoenix-mercury-terheq-fanellen-me-numer-3-te-diana-taurasit-dhe-e-perfshin-ne-ring-of-honor/",
+      "description": "Phoenix Mercury tërheq të dielën fanellën me numër 3 të Diana Taurasit, duke e përjetësuar emrin e saj në historinë e klubit dhe duke e futur në Ring of Ho...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T01:52:04+00:00",
+      "dateStr": "17 Aug, 01:52",
+      "isNew": true,
+      "id": "24 01786931524"
+    },
+    {
+      "title": "Ceremonia e Basketball Hall of Fame 2026: Përmbledhje e fjalimeve dhe reagimeve",
+      "link": "https://24-ore.com/ceremonia-e-basketball-hall-of-fame-2026-permbledhje-e-fjalimeve-dhe-reagimeve/",
+      "description": "Klasa e 2026 e Basketball Hall of Fame u përkujtua në një ceremoni në Springfield, ku në mesin e nëntë të futurve ishin yjet Candace Parker, Doc Rivers dhe...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T01:50:48+00:00",
+      "dateStr": "17 Aug, 01:50",
+      "isNew": true,
+      "id": "24 11786931448"
+    },
+    {
+      "title": "Mookie Betts: “Mbyll sytë dhe godit” kur përballet me Jacob Misiorowski",
+      "link": "https://24-ore.com/mookie-betts-mbyll-syte-dhe-godit-kur-perballet-me-jacob-misiorowski/",
+      "description": "Mookie Betts, ylli i Los Angeles Dodgers, thotë se kur përballesh me përbindëshin e Milwaukee Brewers, Jacob Misiorowski, nuk ka gjithmonë strategji të det...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T01:47:34+00:00",
+      "dateStr": "17 Aug, 01:47",
+      "isNew": true,
+      "id": "24 21786931254"
+    },
+    {
+      "title": "Portland Fire mposht Phoenix Mercury 81-80 në ndeshjen e 16 gushtit 2026",
+      "link": "https://24-ore.com/portland-fire-mposht-phoenix-mercury-81-80-ne-ndeshjen-e-16-gushtit-2026/",
+      "description": "Portland Fire fitoi ndaj Phoenix Mercury me rezultatin 81-80 në përballjen e zhvilluar më 16 gusht 2026. Portlandi realizoi 18, 18, 25 dhe 20 pikë në katër...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T01:10:35+00:00",
+      "dateStr": "17 Aug, 01:10",
+      "isNew": true,
+      "id": "24 31786929035"
+    },
+    {
+      "title": "Joshua Báez realizon debutimin historik: tre homerun në tre goditje radhazi për Cardinals",
+      "link": "https://24-ore.com/joshua-baez-realizon-debutimin-historik-tre-homerun-ne-tre-goditje-radhazi-per-cardinals/",
+      "description": "Joshua Báez, krahun e majtë i St. Louis Cardinals, bëri një debutim të jashtëzakonshëm në MLB në Wrigley Field, duke shënuar homerun në tre goditjet e tij...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T01:06:13+00:00",
+      "dateStr": "17 Aug, 01:06",
+      "isNew": true,
+      "id": "24 41786928773"
+    },
     {
       "title": "Fever fitojnë 95-91 në kohën shtesë — Gray 32, Clark 26 pikë dhe 9 asistime",
       "link": "https://24-ore.com/fever-fitojne-95-91-ne-kohen-shtese-gray-32-clark-26-pike-dhe-9-asistime/",
@@ -12,7 +67,7 @@
       "date": "2026-08-17T00:30:46+00:00",
       "dateStr": "17 Aug, 00:30",
       "isNew": true,
-      "id": "24 01786926646"
+      "id": "24 51786926646"
     },
     {
       "title": "Pamja e playoffs të MLB 2026: renditjet e fundit dhe garat kryesore në AL e NL",
@@ -23,7 +78,7 @@
       "date": "2026-08-17T00:25:22+00:00",
       "dateStr": "17 Aug, 00:25",
       "isNew": true,
-      "id": "24 11786926322"
+      "id": "24 61786926322"
     },
     {
       "title": "John Niland, tre herë All-Pro dhe anëtar i skuadrës që fitoi Super Bowl-in e parë të Cowboys, vdes në moshën 82-vjeçare",
@@ -34,7 +89,7 @@
       "date": "2026-08-17T00:21:16+00:00",
       "dateStr": "17 Aug, 00:21",
       "isNew": true,
-      "id": "24 21786926076"
+      "id": "24 71786926076"
     },
     {
       "title": "Mariners marrin avantazhin 1-0 ndaj Astros në nisje të ndeshjes më 16 gusht 2026",
@@ -45,7 +100,7 @@
       "date": "2026-08-16T23:41:53+00:00",
       "dateStr": "16 Aug, 23:41",
       "isNew": true,
-      "id": "24 31786923713"
+      "id": "24 81786923713"
     },
     {
       "title": "Tensione në ditën e 78-të të protestës",
@@ -56,29 +111,7 @@
       "date": "2026-08-16T22:17:50+00:00",
       "dateStr": "16 Aug, 22:17",
       "isNew": true,
-      "id": "24 41786918670"
-    },
-    {
-      "title": "I dërguari i Trump, Kushner takohet me liderin e Hamasit, diskutohet plani i paqes për Gazën",
-      "link": "https://24-ore.com/i-derguari-i-trump-kushner-takohet-me-liderin-e-hamasit-diskutohet-plani-i-paqes-per-gazen/",
-      "description": "I dërguari i Presidentit amerikan Donald Trump për Lindjen e Mesme, Jared Kushner, ka zhvilluar bisedime të rralla me drejtuesit e Hamasit për zbatimin e planit të mbështetur nga Shtetet e Bashkuara për paqen në Gaza. Një zyrtar palestinez i tha BBC-së se Kushner, u takua të dielën në Egjipt me një ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T22:17:37+00:00",
-      "dateStr": "16 Aug, 22:17",
-      "isNew": true,
-      "id": "24 51786918657"
-    },
-    {
-      "title": "Si lexon truri ynë? AI tregon pse disa fjalë i kalojmë dhe të tjerat i rilexojmë",
-      "link": "https://24-ore.com/si-lexon-truri-yne-ai-tregon-pse-disa-fjale-i-kalojme-dhe-te-tjerat-i-rilexojme/",
-      "description": "Studiues nga Universiteti Aalto në Finlandë, Universiteti i Shkencës dhe Teknologjisë i Hong Kongut, Universiteti i Qytetit të Hong Kongut dhe Universiteti Kombëtar i Singaporit kanë përdorur inteligjencën artificiale për të kuptuar më mirë se si njerëzit lexojnë. Për herë të parë, studiuesit përdor",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T21:57:25+00:00",
-      "dateStr": "16 Aug, 21:57",
-      "isNew": true,
-      "id": "24 61786917445"
+      "id": "24 91786918670"
     },
     {
       "title": "VIDEO/ Zjarr në Qishbardhë të Vlorës, era e fortë favorizon përhapjen e flakëve",
@@ -90,39 +123,6 @@
       "dateStr": "16 Aug, 21:44",
       "isNew": true,
       "id": "abc01786916686"
-    },
-    {
-      "title": "Indiana Fever në avantazh 34-27 ndaj Atlanta Dream në pjesën e parë",
-      "link": "https://24-ore.com/indiana-fever-ne-avantazh-34-27-ndaj-atlanta-dream-ne-pjesen-e-pare/",
-      "description": "Ndeshja mes Indiana Fever dhe Atlanta Dream, e zhvilluar më 16 gusht 2026, vazhdon të luhet live dhe Fever kanë fituar epërsinë në gjysmën e parë të takimi...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T21:41:25+00:00",
-      "dateStr": "16 Aug, 21:41",
-      "isNew": true,
-      "id": "24 71786916485"
-    },
-    {
-      "title": "Europiani i atletikës: Italia triumfon në “Birmingham 2026”, ndjekin Britania e Madhe dhe Gjermania",
-      "link": "https://24-ore.com/europiani-i-atletikes-italia-triumfon-ne-birmingham-2026-ndjekin-britania-e-madhe-dhe-gjermania/",
-      "description": "Italia performoi shkëlqyeshëm në Kampionatin Evropian të Atletikës në Birmingham! Në eventin, i cili erdhi për publikun shqiptra nëpërmjet rrejtit të Radio Televizonit Shqiptar, ekipi italian përfundoi në krye të tabelës së medaljeve, përpara Britanisë së Madhe. Medalja vendimtare e artë e italianëv",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T21:17:22+00:00",
-      "dateStr": "16 Aug, 21:17",
-      "isNew": true,
-      "id": "24 81786915042"
-    },
-    {
-      "title": "Koci: Arrestimet në Serbi po shtohen, institucionet e Kosovës nuk po më ndihmojnë",
-      "link": "https://24-ore.com/koci-arrestimet-ne-serbi-po-shtohen-institucionet-e-kosoves-nuk-po-me-ndihmojne/",
-      "description": "Avokati Arianit Koci ka kërkuar angazhim më të madh institucional për mbrojtjen e shtetasve të Kosovës që arrestohen në Serbi, duke thënë se autoritetet e Kosovës duhet të koordinohen më seriozisht për këto raste. Koci ka deklaruar se, bazuar në përvojën e tij ndër vite në mbrojtjen e personave të a",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T21:12:24+00:00",
-      "dateStr": "16 Aug, 21:12",
-      "isNew": true,
-      "id": "24 91786914744"
     },
     {
       "title": "VIDEO/ Tensione te “Revolucioni Flamingo,” përplasen fizikisht 2 grupe të protestuesve para Kryeministrisë",
