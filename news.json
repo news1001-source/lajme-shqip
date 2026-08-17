@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-08-16T23:14:29.886661+00:00",
+  "lastUpdated": "2026-08-17T00:58:20.598449+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Fever fitojnë 95-91 në kohën shtesë — Gray 32, Clark 26 pikë dhe 9 asistime",
+      "link": "https://24-ore.com/fever-fitojne-95-91-ne-kohen-shtese-gray-32-clark-26-pike-dhe-9-asistime/",
+      "description": "Indiana Fever mposhti Atlanta Dream 95-91 në kohën shtesë të dielën, në një përballje të fortë që nxori në pah rivalitetin mes Caitlin Clark dhe Angel Rees...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T00:30:46+00:00",
+      "dateStr": "17 Aug, 00:30",
+      "isNew": true,
+      "id": "24 01786926646"
+    },
+    {
+      "title": "Pamja e playoffs të MLB 2026: renditjet e fundit dhe garat kryesore në AL e NL",
+      "link": "https://24-ore.com/pamja-e-playoffs-te-mlb-2026-renditjet-e-fundit-dhe-garat-kryesore-ne-al-e-nl/",
+      "description": "Sezona e rregullt e MLB po shkon drejt fundit dhe tabela e playoff-ve po formësohet. Mbeten edhe pak javë deri në përfundim, ndërsa disa divizione dhe gara...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T00:25:22+00:00",
+      "dateStr": "17 Aug, 00:25",
+      "isNew": true,
+      "id": "24 11786926322"
+    },
+    {
+      "title": "John Niland, tre herë All-Pro dhe anëtar i skuadrës që fitoi Super Bowl-in e parë të Cowboys, vdes në moshën 82-vjeçare",
+      "link": "https://24-ore.com/john-niland-tre-here-all-pro-dhe-anetar-i-skuadres-qe-fitoi-super-bowl-in-e-pare-te-cowboys-vdes-ne-moshen-82-vjecare/",
+      "description": "John Niland, guard i tre herë All-Pro që ndihmoi Dallas Cowboys të fitonin titullin e tyre të parë në Super Bowl, ka ndërruar jetë në moshën 82-vjeçare. Gj...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T00:21:16+00:00",
+      "dateStr": "17 Aug, 00:21",
+      "isNew": true,
+      "id": "24 21786926076"
+    },
+    {
+      "title": "Mariners marrin avantazhin 1-0 ndaj Astros në nisje të ndeshjes më 16 gusht 2026",
+      "link": "https://24-ore.com/mariners-marrin-avantazhin-1-0-ndaj-astros-ne-nisje-te-ndeshjes-me-16-gusht-2026/",
+      "description": "Më 16 gusht 2026, Seattle Mariners po përballen me Houston Astros; në përfundim të pjesëve të para rezultati ishte 1-0 për Mariners, me dy goditje dhe pa g...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-16T23:41:53+00:00",
+      "dateStr": "16 Aug, 23:41",
+      "isNew": true,
+      "id": "24 31786923713"
+    },
     {
       "title": "Tensione në ditën e 78-të të protestës",
       "link": "https://24-ore.com/tensione-ne-diten-e-78-te-te-protestes/",
@@ -12,7 +56,7 @@
       "date": "2026-08-16T22:17:50+00:00",
       "dateStr": "16 Aug, 22:17",
       "isNew": true,
-      "id": "24 01786918670"
+      "id": "24 41786918670"
     },
     {
       "title": "I dërguari i Trump, Kushner takohet me liderin e Hamasit, diskutohet plani i paqes për Gazën",
@@ -23,7 +67,7 @@
       "date": "2026-08-16T22:17:37+00:00",
       "dateStr": "16 Aug, 22:17",
       "isNew": true,
-      "id": "24 11786918657"
+      "id": "24 51786918657"
     },
     {
       "title": "Si lexon truri ynë? AI tregon pse disa fjalë i kalojmë dhe të tjerat i rilexojmë",
@@ -34,7 +78,7 @@
       "date": "2026-08-16T21:57:25+00:00",
       "dateStr": "16 Aug, 21:57",
       "isNew": true,
-      "id": "24 21786917445"
+      "id": "24 61786917445"
     },
     {
       "title": "VIDEO/ Zjarr në Qishbardhë të Vlorës, era e fortë favorizon përhapjen e flakëve",
@@ -56,7 +100,7 @@
       "date": "2026-08-16T21:41:25+00:00",
       "dateStr": "16 Aug, 21:41",
       "isNew": true,
-      "id": "24 31786916485"
+      "id": "24 71786916485"
     },
     {
       "title": "Europiani i atletikës: Italia triumfon në “Birmingham 2026”, ndjekin Britania e Madhe dhe Gjermania",
@@ -67,7 +111,7 @@
       "date": "2026-08-16T21:17:22+00:00",
       "dateStr": "16 Aug, 21:17",
       "isNew": true,
-      "id": "24 41786915042"
+      "id": "24 81786915042"
     },
     {
       "title": "Koci: Arrestimet në Serbi po shtohen, institucionet e Kosovës nuk po më ndihmojnë",
@@ -78,29 +122,7 @@
       "date": "2026-08-16T21:12:24+00:00",
       "dateStr": "16 Aug, 21:12",
       "isNew": true,
-      "id": "24 51786914744"
-    },
-    {
-      "title": "Europiani i atletikës: Duplantis mjaftohet më të artën, nuk synoi rekordin botëror",
-      "link": "https://24-ore.com/europiani-i-atletikes-duplantis-mjaftohet-me-te-arten-nuk-synoi-rekordin-boteror/",
-      "description": "Disiplina e kërcimit së larti i dhuroi Suedisë të artën e radhës falë provës madhështore të Armand Duplantis. Atleti suedez arriti që të kërcente 6.15 metra duke siguruar vendin më të lartë në pod ndërsa habiti me kërkesën që i bëri komisarëve të garës ku u komunikoi se nuk do të tentonte rekordin b",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T21:02:42+00:00",
-      "dateStr": "16 Aug, 21:02",
-      "isNew": true,
-      "id": "24 61786914162"
-    },
-    {
-      "title": "Aaron Judge pritet të rikthehet nga fraktura e brinjës; Aaron Boone jep përditësimin e fundit",
-      "link": "https://24-ore.com/aaron-judge-pritet-te-rikthehet-nga-fraktura-e-brinjes-aaron-boone-jep-perditesimin-e-fundit/",
-      "description": "Trajneri i New York Yankees, Aaron Boone, thotë se nuk është ende e qartë kur saktësisht do të rikthehet Aaron Judge, por pritshmëria është që ylli të luaj...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T20:56:01+00:00",
-      "dateStr": "16 Aug, 20:56",
-      "isNew": true,
-      "id": "24 71786913761"
+      "id": "24 91786914744"
     },
     {
       "title": "VIDEO/ Tensione te “Revolucioni Flamingo,” përplasen fizikisht 2 grupe të protestuesve para Kryeministrisë",
@@ -134,28 +156,6 @@
       "dateStr": "16 Aug, 20:35",
       "isNew": true,
       "id": "abc31786912541"
-    },
-    {
-      "title": "Stuhi e fuqishme në SHBA, breshëri arrin deri në 90 centimetra",
-      "link": "https://24-ore.com/stuhi-e-fuqishme-ne-shba-bresheri-arrin-deri-ne-90-centimetra/",
-      "description": "Moti i keq ka goditur zonën metropolitane të Denverit në SHBA, ku reshjet e dendura të shiut dhe breshëri shkaktuan përmbytje të rrugëve, bllokuan automjete dhe detyruan ekipet e emergjencës të ndërhynin për shpëtimin e disa personave. Stuhitë goditën pasditen e së shtunës qarqet Douglas dhe Arapaho",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T20:17:29+00:00",
-      "dateStr": "16 Aug, 20:17",
-      "isNew": true,
-      "id": "24 81786911449"
-    },
-    {
-      "title": "Dodgers ndaj Brewers në Dodger Stadium: nisje e qetë e ndeshjes më 16 gusht 2026",
-      "link": "https://24-ore.com/dodgers-ndaj-brewers-ne-dodger-stadium-nisje-e-qete-e-ndeshjes-me-16-gusht-2026/",
-      "description": "Më 16 gusht 2026, Los Angeles Dodgers pritën Milwaukee Brewers në një përballje midis dy skuadrave që po kalojnë një sezon të fortë; Brewers hynin në ndesh...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-16T20:15:37+00:00",
-      "dateStr": "16 Aug, 20:15",
-      "isNew": true,
-      "id": "24 91786911337"
     },
     {
       "title": "VIDEO/ Dalin pamjet e grabitjes në muzeun në Siçili, momenti kur autorët vjedhin 4 vepra të Antonello da Messina",
