@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-17T03:44:41.774467+00:00",
+  "lastUpdated": "2026-08-17T04:35:36.584721+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Rivlerësimi dhe hetimet e SPAK ulin në qershor çmimet e apartamenteve, frenohet paraja informale",
+      "link": "https://24-ore.com/rivleresimi-dhe-hetimet-e-spak-ulin-ne-qershor-cmimet-e-apartamenteve-frenohet-paraja-informale/",
+      "description": "Prej një viti tashmë, çmimet mesatare të shitjes së apartamenteve në Tiranë vijojnë të qëndrojnë mbi nivelin e 2 mijë euro/m². Që prej 3-mujorit të dytë të vitit 2025, çmimet mesatare të apartamenteve kanë arritur në rreth 2,100 euro/m², duke mbetur në këto nivele edhe në tremujorin e dytë të vitit ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T04:19:32+00:00",
+      "dateStr": "17 Aug, 04:19",
+      "isNew": true,
+      "id": "24 01786940372"
+    },
+    {
+      "title": "Si ndahet torta 81 mln euro e buxhetit për shkencën, mbi gjysma shkon për universitetet",
+      "link": "https://24-ore.com/si-ndahet-torta-81-mln-euro-e-buxhetit-per-shkencen-mbi-gjysma-shkon-per-universitetet/",
+      "description": "Qeveria e Shqipërisë ka rritur vitit pas viti fondet për kërkimin shkencor, edhe pse alokimet nuk ndjekin të njëjtat ritme. Sipas të dhënave të Eurostat Shqipëria parashikoi 81.4 milionë euro fonde publike për kërkim dhe zhvillim në vitin 2025, me një rritje prej 10.3% krahasuar me 73.8 milionë euro",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T04:02:28+00:00",
+      "dateStr": "17 Aug, 04:02",
+      "isNew": true,
+      "id": "24 11786939348"
+    },
+    {
+      "title": "LA Galaxy transferon Miki Yamane te Urawa Red Diamonds",
+      "link": "https://24-ore.com/la-galaxy-transferon-miki-yamane-te-urawa-red-diamonds/",
+      "description": "LA Galaxy njoftoi transferimin e mbrojtësit Miki Yamane te Urawa Red Diamonds, skuadër e elitës japoneze.Siç raporton mlssoccer, Yamane kaloi tre sezonet e...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T04:01:31+00:00",
+      "dateStr": "17 Aug, 04:01",
+      "isNew": true,
+      "id": "24 21786939291"
+    },
     {
       "title": "Angel Reese pranon se luajti keq në pjesën e parë; Dream humbet 95-91 në shtesë ndaj Fever",
       "link": "https://24-ore.com/angel-reese-pranon-se-luajti-keq-ne-pjesen-e-pare-dream-humbet-95-91-ne-shtese-ndaj-fever/",
@@ -12,7 +45,7 @@
       "date": "2026-08-17T03:15:39+00:00",
       "dateStr": "17 Aug, 03:15",
       "isNew": true,
-      "id": "24 01786936539"
+      "id": "24 31786936539"
     },
     {
       "title": "Pierre-Edouard Bellemare emërohet specialist për zhvillimin e lojtarëve te Tampa Bay Lightning",
@@ -23,7 +56,7 @@
       "date": "2026-08-17T02:27:56+00:00",
       "dateStr": "17 Aug, 02:27",
       "isNew": true,
-      "id": "24 11786933676"
+      "id": "24 41786933676"
     },
     {
       "title": "Phoenix Mercury tërheq fanellën me numër 3 të Diana Taurasit dhe e përfshin në Ring of Honor",
@@ -34,7 +67,7 @@
       "date": "2026-08-17T01:52:04+00:00",
       "dateStr": "17 Aug, 01:52",
       "isNew": true,
-      "id": "24 21786931524"
+      "id": "24 51786931524"
     },
     {
       "title": "Ceremonia e Basketball Hall of Fame 2026: Përmbledhje e fjalimeve dhe reagimeve",
@@ -45,7 +78,7 @@
       "date": "2026-08-17T01:50:48+00:00",
       "dateStr": "17 Aug, 01:50",
       "isNew": true,
-      "id": "24 31786931448"
+      "id": "24 61786931448"
     },
     {
       "title": "Mookie Betts: “Mbyll sytë dhe godit” kur përballet me Jacob Misiorowski",
@@ -56,7 +89,7 @@
       "date": "2026-08-17T01:47:34+00:00",
       "dateStr": "17 Aug, 01:47",
       "isNew": true,
-      "id": "24 41786931254"
+      "id": "24 71786931254"
     },
     {
       "title": "Portland Fire mposht Phoenix Mercury 81-80 në ndeshjen e 16 gushtit 2026",
@@ -67,7 +100,7 @@
       "date": "2026-08-17T01:10:35+00:00",
       "dateStr": "17 Aug, 01:10",
       "isNew": true,
-      "id": "24 51786929035"
+      "id": "24 81786929035"
     },
     {
       "title": "Joshua Báez realizon debutimin historik: tre homerun në tre goditje radhazi për Cardinals",
@@ -78,40 +111,7 @@
       "date": "2026-08-17T01:06:13+00:00",
       "dateStr": "17 Aug, 01:06",
       "isNew": true,
-      "id": "24 61786928773"
-    },
-    {
-      "title": "Fever fitojnë 95-91 në kohën shtesë — Gray 32, Clark 26 pikë dhe 9 asistime",
-      "link": "https://24-ore.com/fever-fitojne-95-91-ne-kohen-shtese-gray-32-clark-26-pike-dhe-9-asistime/",
-      "description": "Indiana Fever mposhti Atlanta Dream 95-91 në kohën shtesë të dielën, në një përballje të fortë që nxori në pah rivalitetin mes Caitlin Clark dhe Angel Rees...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T00:30:46+00:00",
-      "dateStr": "17 Aug, 00:30",
-      "isNew": true,
-      "id": "24 71786926646"
-    },
-    {
-      "title": "Pamja e playoffs të MLB 2026: renditjet e fundit dhe garat kryesore në AL e NL",
-      "link": "https://24-ore.com/pamja-e-playoffs-te-mlb-2026-renditjet-e-fundit-dhe-garat-kryesore-ne-al-e-nl/",
-      "description": "Sezona e rregullt e MLB po shkon drejt fundit dhe tabela e playoff-ve po formësohet. Mbeten edhe pak javë deri në përfundim, ndërsa disa divizione dhe gara...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T00:25:22+00:00",
-      "dateStr": "17 Aug, 00:25",
-      "isNew": true,
-      "id": "24 81786926322"
-    },
-    {
-      "title": "John Niland, tre herë All-Pro dhe anëtar i skuadrës që fitoi Super Bowl-in e parë të Cowboys, vdes në moshën 82-vjeçare",
-      "link": "https://24-ore.com/john-niland-tre-here-all-pro-dhe-anetar-i-skuadres-qe-fitoi-super-bowl-in-e-pare-te-cowboys-vdes-ne-moshen-82-vjecare/",
-      "description": "John Niland, guard i tre herë All-Pro që ndihmoi Dallas Cowboys të fitonin titullin e tyre të parë në Super Bowl, ka ndërruar jetë në moshën 82-vjeçare. Gj...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T00:21:16+00:00",
-      "dateStr": "17 Aug, 00:21",
-      "isNew": true,
-      "id": "24 91786926076"
+      "id": "24 91786928773"
     },
     {
       "title": "VIDEO/ Zjarr në Qishbardhë të Vlorës, era e fortë favorizon përhapjen e flakëve",
