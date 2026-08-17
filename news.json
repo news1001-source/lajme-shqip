@@ -1,8 +1,206 @@
 {
-  "lastUpdated": "2026-08-17T09:35:15.608926+00:00",
+  "lastUpdated": "2026-08-17T10:26:46.346044+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "“Ylli Zalla u dorëzua”, Berisha: Ai doli në konferencë shtypi nga shtëpia e vetë, në Sarandë shefin e krimeve e nxorën si rrugaç nga lokali",
+      "link": "https://shekulli.com.al/2026/08/17/ylli-zalla-u-dorezua-berisha-ai-doli-ne-konference-shtypi-nga-shtepia-e-vete-ne-sarande-shefin-e-krimeve-e-nxoren-si-rrugac-nga-lokali/",
+      "description": "TIRANË- Kreu i Partisë Demokratike, Sali Berisha ka reaguar në lidhje me ngjarjet kriminale që ndodhën fundjavën që lamë pas në vend, nga konflikti në Sarandë, te arrestimi i Ylli Zallës, dhe atentati i dështuar në Elbasan. Në një deklaratë nga selia e PD, Berisha tha se aktualisht vendi është në do",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-17T10:20:35+00:00",
+      "dateStr": "17 Aug, 10:20",
+      "isNew": true,
+      "id": "she01786962035"
+    },
+    {
+      "title": "I armatosur me kallashnikov dhe i fshehur 500 metra nga banesa e tij, detaje nga arrestimi i Ylli Zallës",
+      "link": "https://24-ore.com/i-armatosur-me-kallashnikov-dhe-i-fshehur-500-metra-nga-banesa-e-tij-detaje-nga-arrestimi-i-ylli-zalles/",
+      "description": "I armatosur me një automatik kallashnikov me 3 krehra dhe i fshehur në një banesë rreth 500 metra larg shtëpisë së tij, kështu është kapur i shumëkërkuari Ylli Zalla gjatë një operacioni blic në Krujë. Sipas raportimeve, banesa ku strehohej i shumëkërkuarit është mbajtur prej ditësh nën vëzhgim me d",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T10:19:03+00:00",
+      "dateStr": "17 Aug, 10:19",
+      "isNew": true,
+      "id": "24 01786961943"
+    },
+    {
+      "title": "Policia njoftim zyrtar për arrestimin e Ylli Zallës: U kap me kallashnikov dhe 3 krehra në një zonë të pyllëzuar",
+      "link": "https://24-ore.com/policia-njoftim-zyrtar-per-arrestimin-e-ylli-zalles-u-kap-me-kallashnikov-dhe-3-krehra-ne-nje-zone-te-pyllezuar/",
+      "description": "Pas njoftimit të Ministrisë së Brendshme për arrestimin e 49-vjeçarit Ylli Zalla, edhe Policia e Shtetit ka bërë një njoftim zyrtar për arrestimin e të shumëkërkuarit. Sipas njoftimit të Policisë, 49-vjeçari u kap në një zonë të pyllëzuar në Krujë, ku gjatë momentit të arrestimit të shumëkërkuarit i",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T10:18:50+00:00",
+      "dateStr": "17 Aug, 10:18",
+      "isNew": true,
+      "id": "24 11786961930"
+    },
+    {
+      "title": "I ekstraduar nga Britania për kultivimin e 870 kg kanabisi në Berat, GJKKO lë në burg 31-vjeçarin",
+      "link": "https://24-ore.com/i-ekstraduar-nga-britania-per-kultivimin-e-870-kg-kanabisi-ne-berat-gjkko-le-ne-burg-31-vjecarin/",
+      "description": "Gjykata e Posaçme ka vendosur vijimin e masës së sigurisë caktuar në mungesë ndaj 31 vjeçarit të ekstraduar së fundmi nga Britania, Xhuliano Hoxha, nën akuzë si pjesë e grupit kriminal që kultivoi 870 kg kanabis në Dronovicë të Beratit, teksa operacioni u krye që në nëntor të 2022. Para gjyqtarit Bi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T10:18:38+00:00",
+      "dateStr": "17 Aug, 10:18",
+      "isNew": true,
+      "id": "24 21786961918"
+    },
+    {
+      "title": "“Epidemia e Ebolës më vdekjeprurësja në historinë e saj”, OKB: Shpërthimi më i shpejtë i regjistruar ndonjëherë",
+      "link": "https://24-ore.com/epidemia-e-eboles-me-vdekjepruresja-ne-historine-e-saj-okb-shperthimi-me-i-shpejte-i-regjistruar-ndonjehere/",
+      "description": "Shpërthimi i Ebolës në Republikën Demokratike të Kongos është tashmë më vdekjeprurësi në historinë e saj, sipas zyrtarëve të shëndetit publik. Gjithsej 2,325 persona kanë humbur jetën nga virusi që nga shpallja e shpërthimit më 15 maj, duke tejkaluar numrin e viktimave të shpërthimit të vitit 2018-2",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T10:18:27+00:00",
+      "dateStr": "17 Aug, 10:18",
+      "isNew": true,
+      "id": "24 31786961907"
+    },
+    {
+      "title": "BE planifikon sanksione të reja ndaj Rusisë në vjeshtë, Kallas: Presioni duhet të vazhdojë të rritet",
+      "link": "https://24-ore.com/be-planifikon-sanksione-te-reja-ndaj-rusise-ne-vjeshte-kallas-presioni-duhet-te-vazhdoje-te-rritet/",
+      "description": "Shefja e politikës së jashtme të Bashkimit Evropian, Kaja Kallas, është shprehur se blloku do të kërkojë sanksione më të ashpra ndaj Rusisë këtë vjeshtë, duke sinjalizuar një përpjekje të re për të rritur presionin ndaj Moskës. Në një intervistë për gazetën gjermane Die Welt, Kallas tha se gjatë mua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T10:18:14+00:00",
+      "dateStr": "17 Aug, 10:18",
+      "isNew": true,
+      "id": "24 41786961894"
+    },
+    {
+      "title": "Kryeministri Burnham bie pre e mashtrimit, shkëmbeu mesazhe me një person që hiqej si një nga këshilltarët e Trumpit",
+      "link": "https://24-ore.com/kryeministri-burnham-bie-pre-e-mashtrimit-shkembeu-mesazhe-me-nje-person-qe-hiqej-si-nje-nga-keshilltaret-e-trumpit/",
+      "description": "Kryeministri i Mbretërisë së Bashkuar, Andy Burnham, shkëmbeu mesazhe me një person që hiqej si një prej këshilltarëve më të afërt të Donald Trumpit, thanë katër zyrtarë për POLITICO. Kryeministri i ri komunikoi me një person që pretendonte se ishte shefja e kabinetit të Shtëpisë së Bardhë, Susie Wi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T10:18:03+00:00",
+      "dateStr": "17 Aug, 10:18",
+      "isNew": true,
+      "id": "24 51786961883"
+    },
+    {
+      "title": "Deklarata e bujshme e ministrit izraelit: Të vriten 30-40 palestinezë çdo natë, disa njerëz nuk meritojnë të jetojnë",
+      "link": "https://24-ore.com/deklarata-e-bujshme-e-ministrit-izraelit-te-vriten-30-40-palestineze-cdo-nate-disa-njerez-nuk-meritojne-te-jetojne/",
+      "description": "Ministri i Sigurisë Kombëtare i Izraelit, Itamar Ben-Gvir, tha se forcat izraelite duhet të “vrasin 30 ose 40” palestinezë në Gaza çdo natë dhe të mos kufizohen vetëm tek “ata që paraqesin rrezik në atë moment të veçantë”. Ministri i ekstremit të djathtë në qeverinë e Netanyahut i bëri këto deklarat",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T10:17:49+00:00",
+      "dateStr": "17 Aug, 10:17",
+      "isNew": true,
+      "id": "24 61786961869"
+    },
+    {
+      "title": "Nga dyshimet për atentatin e Rinasit te arratisjet spektakolare, kush është Ylli Zalla që u kap pas disa muajsh në kërkim",
+      "link": "https://24-ore.com/nga-dyshimet-per-atentatin-e-rinasit-te-arratisjet-spektakolare-kush-eshte-ylli-zalla-qe-u-kap-pas-disa-muajsh-ne-kerkim/",
+      "description": "Ylli Zalla është arrestuar këtë të hënë (17 gusht 2026) nga Policia e Shtetit, pas nëntë muajsh në kërkim. 49-vjeçari u kap në Krujë në kuadër të operacionit policor të koduar “Fundi i Arratisë”, pas një serie operacionesh të dështuara për lokalizimin dhe arrestimin e tij. Sipas Ministrisë së Brends",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T10:17:11+00:00",
+      "dateStr": "17 Aug, 10:17",
+      "isNew": true,
+      "id": "24 71786961831"
+    },
+    {
+      "title": "BRUKSEL – BE zgjeron sanksionet kundër Rusisë",
+      "link": "https://24-ore.com/bruksel-be-zgjeron-sanksionet-kunder-rusise/",
+      "description": "BRUKSEL, 17 gusht /ATSH-AFP/ – Bashkimi Evropian po përgatit paketën më gjithëpërfshirëse të sanksioneve ndaj Rusisë që prej fillimit të luftës në Ukrainë. Shefja e diplomacisë së BE-së, Kaja Kallas, deklaroi se në vjeshtë do të propozojë një listë të re masash që, nëse miratohen, do të rrisin me rr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T10:16:00+00:00",
+      "dateStr": "17 Aug, 10:16",
+      "isNew": true,
+      "id": "24 81786961760"
+    },
+    {
+      "title": "GLPS ankohet në AIP për heshtjen e Qeverisë në detyrë lidhur me dorëheqjet e ministrave",
+      "link": "https://24-ore.com/glps-ankohet-ne-aip-per-heshtjen-e-qeverise-ne-detyre-lidhur-me-doreheqjet-e-ministrave/",
+      "description": "Grupi për Studime Juridike dhe Politike (GLPS) ka parashtruar ankesë në Agjencinë për Informim dhe Privatësi (AIP), pasi Zyra e Kryeministrit nuk i është përgjigjur kërkesës së organizatës për qasje në dokumente publike lidhur me dorëheqjet e anëtarëve të Qeverisë në detyrë që janë zgjedhur deputetë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T10:12:41+00:00",
+      "dateStr": "17 Aug, 10:12",
+      "isNew": true,
+      "id": "24 91786961561"
+    },
+    {
+      "title": "E rëndë në Itali/ Shqiptari vdes në pistë, teksa avioni po bënte uljen",
+      "link": "https://shekulli.com.al/2026/08/17/e-rende-ne-itali-shqiptari-vdes-ne-piste-teksa-avioni-po-bente-uljen/",
+      "description": "Një 85-vjeçar shqiptar, ka humbur jetën, teksa avioni me të cilin udhëtonte ka qenë duke u ulur në aerportin e Bolonjës në Itali. Edhe pse shërbimet e urgjencës mbërritën direkt në aeroport, nuk mund të bënin asgjë për jetën e të moshuarit shqiptar. Tragjedia ndodhi gjatë natës midis 15 dhe 16 gusht",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-17T10:09:13+00:00",
+      "dateStr": "17 Aug, 10:09",
+      "isNew": true,
+      "id": "she11786961353"
+    },
+    {
+      "title": "U ekstradua nga Britania e Madhe, GJKKO vendos për Xhuljano Hoxhën! Ja akuzat që rëndojnë mbi të",
+      "link": "https://shekulli.com.al/2026/08/17/u-ekstradua-nga-britania-e-madhe-gjkko-vendos-per-xhuljano-hoxhen-ja-akuzat-qe-rendojne-mbi-te/",
+      "description": "Gjykata e  Posaçme kundër Korrupsionit dhe Krimit të Organizuar ka caktuar masën e sigurisë “arrest me burg” për Xhuljano Hoxhën, i cili është ekstraduar ditën e djeshme nga Britania. Para trupit gjykues Hoxha vendosi të heshte, teksa avokati i tij kërkoi një masë më të butë sigurisë por kjo nuk u p",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-17T10:08:47+00:00",
+      "dateStr": "17 Aug, 10:08",
+      "isNew": true,
+      "id": "she21786961327"
+    },
+    {
+      "title": "E rëndë në aeroportin e Bolonjës, 85-vjeçari shqiptar ndërron jetë pas një arresti kardiak",
+      "link": "https://abcnews.al/e-rende-ne-aeroportin-e-bolonjes-85-vjecari-shqiptar-nderron-jete-pas-nje-arresti-kardiak/",
+      "description": "Një shtetas shqiptar 85-vjeçar ka ndërruar jetë mbrëmjen e kaluar si pasojë e një gjendjeje të rënduar shëndetësore, teksa avioni me të cilin udhëtonte po kryente fazat e uljes në aeroportin “Marconi” të Bolonjës. Avioni që vinte nga Tirana, u ul në aeroport pak pas mesnatës. Sipas të dhënave parapr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-17T10:00:59+00:00",
+      "dateStr": "17 Aug, 10:00",
+      "isNew": true,
+      "id": "abc01786960859"
+    },
+    {
+      "title": "Aksident tragjik! Përplasen dy makina, ndërrojnë jetë dy shqiptarët",
+      "link": "https://shekulli.com.al/2026/08/17/aksident-tragjik-perplasen-dy-makina-nderrojne-jete-dy-shqiptaret/",
+      "description": "Një aksident tragjik ka ndodhur në Kosovë, ku dy persona kanë ndërruar jetë. Sipas mediave vendase, ngjarja ka ndodhur në fshatin Surkish të Podujevës, rreth orës 22:30 të mbrëmjes së djeshme. Në aksident është përfshirë një makinë me targa të huaja, që drejtohej nga një shqiptar i Kosovës, i cili d",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-17T09:55:32+00:00",
+      "dateStr": "17 Aug, 09:55",
+      "isNew": true,
+      "id": "she31786960532"
+    },
+    {
+      "title": "Konflikti me shefin e Krimeve, Policia ‘bastis’ sërish Orange Club, aksioni në orët e para të mëngjesit",
+      "link": "https://shekulli.com.al/2026/08/17/konflikti-me-shefin-e-krimeve-policia-bastis-serish-orange-club-aksioni-ne-oret-e-para-te-mengjesit/",
+      "description": "SARANDË- Efektivë të Policisë dhe Forcave Shqiponja, kanë bastisur sërish sot në orët e para të mëngjesit, klubin Orange në Sarandë. Efektivët kanë ndërhyrë pas largimit të klientëve nga lokali, ndërsa nuk dihet nëse kontrollet kanë pasur si qëllim verifikimin e ndonjë mjeti apo sendi të paligjshëm.",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-17T09:49:26+00:00",
+      "dateStr": "17 Aug, 09:49",
+      "isNew": true,
+      "id": "she41786960166"
+    },
+    {
+      "title": "Zbardhet skandali! Kryeministri britanik komunikoi me “mashtruesin” që hiqej si “krahu i djathtë” i Donald Trump",
+      "link": "https://shekulli.com.al/2026/08/17/zbardhet-skandali-kryeministri-britanik-komunikoi-me-mashtruesin-qe-hiqej-si-krahu-i-djathte-i-donald-trump/",
+      "description": "Kryeministri i sapo-zgjedhur i Britanisë së Madhe, Andy Burnham është përfshirë në një skandal pasi dyshohet se ka komunikuar me një mashtrues që hiqej si preson i afërt i presidentit amerikan Donald Trump. Mediat e huaja raportojnë se Burnham komunikoi me dikë që pretendonte se ishte Susie Wales, s",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-17T09:43:16+00:00",
+      "dateStr": "17 Aug, 09:43",
+      "isNew": true,
+      "id": "she51786959796"
+    },
+    {
+      "title": "Instagram dhe Facebook mund të ndryshojnë përgjithmonë nëse Meta humbet gjyqin për privatësinë e fëmijëve",
+      "link": "https://abcnews.al/instagram-dhe-facebook-mund-te-ndryshojne-pergjithmone-nese-meta-humbet-gjyqin-per-privatesine-e-femijeve/",
+      "description": "Meta është përballur me humbje të njëpasnjëshme në gjykata lidhur me mënyrën se si platformat e saj kanë synuar dhe dëmtuar përdoruesit e rinj. Por një gjyq me juri, që nis të martën, mund të përbëjë kërcënimin më të madh deri tani për mënyrën se si funksionojnë platformat e kompanisë. Çështja rrjed",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-17T09:37:34+00:00",
+      "dateStr": "17 Aug, 09:37",
+      "isNew": true,
+      "id": "abc11786959454"
+    },
     {
       "title": "Katër vende evropiane ndihmojnë Belgjikën të frenojë zjarrin në pyje",
       "link": "https://abcnews.al/kater-vende-evropiane-ndihmojne-belgjiken-te-frenoje-zjarrin-ne-pyje/",
@@ -12,7 +210,7 @@
       "date": "2026-08-17T09:34:33+00:00",
       "dateStr": "17 Aug, 09:34",
       "isNew": true,
-      "id": "abc01786959273"
+      "id": "abc21786959273"
     },
     {
       "title": "U ekstradua nga Britania, GJKKO lë në burg 31 vjeçarin Xhuliano Hoxha",
@@ -23,29 +221,7 @@
       "date": "2026-08-17T09:32:07+00:00",
       "dateStr": "17 Aug, 09:32",
       "isNew": true,
-      "id": "abc11786959127"
-    },
-    {
-      "title": "BRUKSEL- Katër vende evropiane ndihmojnë Belgjikën të frenojë zjarrin në pyje",
-      "link": "https://24-ore.com/bruksel-kater-vende-evropiane-ndihmojne-belgjiken-te-frenoje-zjarrin-ne-pyje/",
-      "description": "BRUKSEL, 17 gusht /ATSH-DPA/ – Përpjekjet për të vënë nën kontroll zjarrin e madh që ka përfshirë rezervatin natyror ”High Fens” në Belgjikë, pranë kufirit me Gjermaninë, vazhduan edhe sot në mëngjes, me ndihmë nga katër vende evropiane. Rreth 3 000 hektarë tokë janë përfshirë nga flakët që prej shp",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T09:30:07+00:00",
-      "dateStr": "17 Aug, 09:30",
-      "isNew": true,
-      "id": "24 01786959007"
-    },
-    {
-      "title": "VLEN: BDI-ja vetë pranon se funksionon si një “politbyro” famëkeqe",
-      "link": "https://24-ore.com/vlen-bdi-ja-vete-pranon-se-funksionon-si-nje-politbyro-famekeqe/",
-      "description": "BDI-ja vetë pranon se funksionon si një “politbyro” famëkeqe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T09:27:50+00:00",
-      "dateStr": "17 Aug, 09:27",
-      "isNew": true,
-      "id": "24 11786958870"
+      "id": "abc31786959127"
     },
     {
       "title": "Mister shkaku i vdekjes/ Intervista ku aktorja e njohur fliste hapur për varësinë nga droga dhe alkoli: Preka fundin!",
@@ -56,40 +232,7 @@
       "date": "2026-08-17T09:26:05+00:00",
       "dateStr": "17 Aug, 09:26",
       "isNew": true,
-      "id": "she01786958765"
-    },
-    {
-      "title": "Ndalohet një person nga Manastiri, dyshohet se shkaktoi zjarr",
-      "link": "https://24-ore.com/ndalohet-nje-person-nga-manastiri-dyshohet-se-shkaktoi-zjarr/",
-      "description": "MPB Maqedoni njofton se dje (16.08.2026), në orën 15:40, nëpunës policorë të SPB Manastir e kanë privuar nga liria B.S. (67) nga Manastiri. Ai dyshohet se rreth orës 12:35 ka shkaktuar një zjarr në rr. “4 Nëntori” në Manastir, me ç&#8217;rast ishin përfshirë bari i thatë dhe paletat e drurit në depo",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T09:17:59+00:00",
-      "dateStr": "17 Aug, 09:17",
-      "isNew": true,
-      "id": "24 21786958279"
-    },
-    {
-      "title": "Osmani: Hapja e urës mbi Ibër, hap historik për integrimin dhe sigurinë",
-      "link": "https://24-ore.com/osmani-hapja-e-ures-mbi-iber-hap-historik-per-integrimin-dhe-sigurine/",
-      "description": "Ish presidentja e vendit, Vjosa Osman e ka vlerësuar si zhvillim të mirëseardhur hapjen e urës kryesore mbi lumin Ibër në Mitrovicë dhe kalimin e përgjegjësive te Policia e Kosovës. Osmani në rrjetin social në Facebook ka shkruar se këto zhvillime përbëjnë një hap të rëndësishëm drejt integrimit të ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T09:17:48+00:00",
-      "dateStr": "17 Aug, 09:17",
-      "isNew": true,
-      "id": "24 31786958268"
-    },
-    {
-      "title": "Zjarret përfshijnë Dibrën! Tre vatra vijojnë aktive, flakët pranë banesave, rrezik për përhapje drejt Matit",
-      "link": "https://24-ore.com/zjarret-perfshijne-dibren-tre-vatra-vijojne-aktive-flaket-prane-banesave-rrezik-per-perhapje-drejt-matit/",
-      "description": "Tre vatra zjarri vijojnë të jenë aktive në qarkun e Dibrës, ndërsa autoritetet kanë angazhuar dhjetëra forca për monitorimin dhe përballimin e situatës. Vatra kryesore ndodhet në Parkun Kombëtar të Lurës, ku gjatë natës zjarri ka pasur zhvillime të pakta në tre drejtime: nga Gura e Lurës, nga Fushë-",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T09:17:25+00:00",
-      "dateStr": "17 Aug, 09:17",
-      "isNew": true,
-      "id": "24 41786958245"
+      "id": "she61786958765"
     },
     {
       "title": "Pas kontakteve me përfaqësues të Hamas në Egjipt/ Kushner takohet me Netanyahun, Gaza në fokus",
@@ -100,7 +243,7 @@
       "date": "2026-08-17T09:14:25+00:00",
       "dateStr": "17 Aug, 09:14",
       "isNew": true,
-      "id": "abc21786958065"
+      "id": "abc41786958065"
     },
     {
       "title": "VIDEO/ Detaje nga arrestimi i Ylli Zallës, momenti kur forcat “RENEA” e ndalojnë me kallashnikov në dorë",
@@ -111,7 +254,7 @@
       "date": "2026-08-17T09:07:49+00:00",
       "dateStr": "17 Aug, 09:07",
       "isNew": true,
-      "id": "she11786957669"
+      "id": "she71786957669"
     },
     {
       "title": "“Breaking News” me Fabiola Hoxha, (17/08/2026)",
@@ -122,62 +265,7 @@
       "date": "2026-08-17T09:07:28+00:00",
       "dateStr": "17 Aug, 09:07",
       "isNew": true,
-      "id": "abc31786957648"
-    },
-    {
-      "title": "I armatosur me kallashnikov dhe 3 krehëra, si u kap Ylli Zalla, fshihej vetëm 500 metra nga banesa",
-      "link": "https://24-ore.com/i-armatosur-me-kallashnikov-dhe-3-krehera-si-u-kap-ylli-zalla-fshihej-vetem-500-metra-nga-banesa/",
-      "description": "KRUJË- Detaje të reja dalin në dritë nga operacioni i Policisë së Shtetit dhe forcave RENEA për kapjen e Ylli Zallës, i cili ishte shpallur në kërkim prej vitit 2025. Ai u vu në pranga në orët e parë të mëngjesit të kësaj të hënë në Krujë. Lajmin e konfirmoi vetë ministri i Brendshëm Besfort [&#8230",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T09:03:25+00:00",
-      "dateStr": "17 Aug, 09:03",
-      "isNew": true,
-      "id": "24 51786957405"
-    },
-    {
-      "title": "I armatosur me kallashnikov dhe 3 krehëra, si u kap Ylli Zalla, fshihej vetëm 500 metra nga banesa",
-      "link": "https://24-ore.com/i-armatosur-me-kallashnikov-dhe-3-krehera-si-u-kap-ylli-zalla-fshihej-vetem-500-metra-nga-banesa-2/",
-      "description": "KRUJË- Detaje të reja dalin në dritë nga operacioni i Policisë së Shtetit dhe forcave RENEA për kapjen e Ylli Zallës, i cili ishte shpallur në kërkim prej vitit 2025. Ai u vu në pranga në orët e parë të mëngjesit të kësaj të hënë në Krujë. Lajmin e konfirmoi vetë ministri i Brendshëm Besfort [&#8230",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T09:03:25+00:00",
-      "dateStr": "17 Aug, 09:03",
-      "isNew": true,
-      "id": "24 61786957405"
-    },
-    {
-      "title": "Rrezikoi të mbytej në pishinë, lojtari i Cagliari-t në terapi intensive",
-      "link": "https://24-ore.com/rrezikoi-te-mbytej-ne-pishine-lojtari-i-cagliari-t-ne-terapi-intensive/",
-      "description": "Ankth te Cagliari për gjendjen shëndetësore të Yael Trepy. Sulmuesi i ri, titullar në Kupën e Italisë kundër Arezzo, ndodhet në repartin e terapisë intensive të spitalit “Santissima Annunziata” në Sassari, pas një incidenti të rëndë gjatë fundjavës së pushimit për skuadrën. Të dielën lojtari ndodhej",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T09:03:06+00:00",
-      "dateStr": "17 Aug, 09:03",
-      "isNew": true,
-      "id": "24 71786957386"
-    },
-    {
-      "title": "TEL AVIV – Ben-Gvir bën thirrje për vrasjen e më shumë palestinezëve në Gaza",
-      "link": "https://24-ore.com/tel-aviv-ben-gvir-ben-thirrje-per-vrasjen-e-me-shume-palestinezeve-ne-gaza/",
-      "description": "TEL AVIV, 17 gusht /ATSH-DPA/ – Ministri izraelit i Sigurisë Kombëtare, i krahut të ekstremit të djathtë, Itamar Ben-Gvir, ka bërë thirrje për vrasjen e më shumë palestinezëve në Gaza, në prag të bisedimeve për rendin e ardhshëm në territorin e shkatërruar nga lufta. Ai tha gjithashtu se nuk është d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T09:00:10+00:00",
-      "dateStr": "17 Aug, 09:00",
-      "isNew": true,
-      "id": "24 81786957210"
-    },
-    {
-      "title": "Bashkia e Shkupit: Nesër do të bëhet spërkatje kundër mushkonjave",
-      "link": "https://24-ore.com/bashkia-e-shkupit-neser-do-te-behet-sperkatje-kunder-mushkonjave/",
-      "description": "Të martën, në zonën e qytetit të Shkupit, do të kryhet spërkatje kundër larvave të mushkonjave tokësore.Bashkia e Shkupit informon se nëse kushtet e motit nuk janë të favorshme, dezinfektimi do të kryhet ditën e parë pasardhëse kur moti të jetë më i mirë. &#8220;Bletarëve u këshillohet të marrin mas",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T08:57:44+00:00",
-      "dateStr": "17 Aug, 08:57",
-      "isNew": true,
-      "id": "24 91786957064"
+      "id": "abc51786957648"
     },
     {
       "title": "Ishte i armatosur me automatik/ U vëzhgua me dron ‘Bayraktar’, si u zbulua vendi ku fshihej Ylli Zalla",
@@ -188,7 +276,7 @@
       "date": "2026-08-17T08:49:29+00:00",
       "dateStr": "17 Aug, 08:49",
       "isNew": true,
-      "id": "abc41786956569"
+      "id": "abc61786956569"
     },
     {
       "title": "Kaja Kallas: BE po përgatit paketën e re të sanksioneve kundër Rusisë",
@@ -199,7 +287,7 @@
       "date": "2026-08-17T08:48:53+00:00",
       "dateStr": "17 Aug, 08:48",
       "isNew": true,
-      "id": "abc51786956533"
+      "id": "abc71786956533"
     },
     {
       "title": "Arabia Saudite ndryshon strategjinë e eksportit të naftës, Egjipti fiton rol parësor",
@@ -210,7 +298,7 @@
       "date": "2026-08-17T08:39:14+00:00",
       "dateStr": "17 Aug, 08:39",
       "isNew": true,
-      "id": "abc61786955954"
+      "id": "abc81786955954"
     },
     {
       "title": "17 gusht 2026, “Telefonatat e Teleshikuesve” – Mirëmëngjes me Bashkim Hoxhën",
@@ -221,7 +309,7 @@
       "date": "2026-08-17T08:37:24+00:00",
       "dateStr": "17 Aug, 08:37",
       "isNew": true,
-      "id": "abc71786955844"
+      "id": "abc91786955844"
     },
     {
       "title": "Kush po e përçan protestën! Greta Shino: Janë njerëz të paguar nga Tom Doshi! Gent Progni: Kemi 10 ditë që ruajmë drogaxhinjtë…",
@@ -232,7 +320,7 @@
       "date": "2026-08-17T08:36:33+00:00",
       "dateStr": "17 Aug, 08:36",
       "isNew": true,
-      "id": "she21786955793"
+      "id": "she81786955793"
     },
     {
       "title": "Tronditëse! Ishte për pushime në Barcelonë, 21-vjeçari rrihet brutalisht dhe përfundon në koma",
@@ -243,95 +331,7 @@
       "date": "2026-08-17T08:35:37+00:00",
       "dateStr": "17 Aug, 08:35",
       "isNew": true,
-      "id": "she31786955737"
-    },
-    {
-      "title": "17 Gusht 2026, “Shtypi i ditës” – Mirëmëngjes me Bashkim Hoxhën",
-      "link": "https://abcnews.al/17-gusht-2026-shtypi-i-dites-miremengjes-me-bashkim-hoxhen/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T08:23:58+00:00",
-      "dateStr": "17 Aug, 08:23",
-      "isNew": true,
-      "id": "abc81786955038"
-    },
-    {
-      "title": "Kush po e djeg Shqipërinë?! Vijojnë zjarret nga Dajti në Bulqizë e Pukë, ja si paraqitet situata",
-      "link": "https://shekulli.com.al/2026/08/17/kush-po-e-djeg-shqiperine-vijojne-zjarret-nga-dajti-ne-bulqize-e-puke-ja-si-paraqitet-situata/",
-      "description": "Shqipëria vijon të përballet me një situatë të vështirë nga zjarret edhe këtë verë. Ministria e Mbrojtjes ka dalë me një njoftim, ku thuhet se në 24 orët e fundit janë raportuar 33 vatra zjarri, nga të cilat 8 vijojnë të jenë ende aktive. Situata më kritike paraqiten në zonën e Dajtit në Tiranë, ku ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-17T08:17:32+00:00",
-      "dateStr": "17 Aug, 08:17",
-      "isNew": true,
-      "id": "she41786954652"
-    },
-    {
-      "title": "Merr fund arratia e të shumëkërkuarit Ylli Zalla, Renea e arreston, dy ditë pas shpërthimit me tritol në banesën e tij",
-      "link": "https://shekulli.com.al/2026/08/17/merr-fund-arratia-e-te-shumekerkuarit-ylli-zalla-renea-e-arreston-dy-dite-pas-shperthimit-me-tritol-ne-banesen-e-tij/",
-      "description": "KRUJË&#8211; Policia e Shtetit ka arrestuar të shumëkërkuarin Ylli Zalla, pasi ky i fundit i sfidoi duke bërë video nga banesa e tij, pas shpërthimit me tritol që ndodhi mbrëmjen e të shtunës. Lajmi është dhënë nga Ministri i Brendshëm Besfort Lamallari, i cili shkruan: Përgëzime Policisë së Shtetit",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-17T08:15:28+00:00",
-      "dateStr": "17 Aug, 08:15",
-      "isNew": true,
-      "id": "she51786954528"
-    },
-    {
-      "title": "VIDEO/ I fshihej drejtësisë prej kohësh, arrestohet i shumëkërkuari Ylli Zalla",
-      "link": "https://abcnews.al/i-fshihej-drejtesise-prej-kohesh-arrestohet-i-shumekerkuari-ylli-zalla/",
-      "description": "KRUJË- Arrestohet në Krujë Ylli Zalla, një personazh i shumëkërkuar nga Policia. Lajmi është bërë i ditur nga ministri i Brendshëm, Besfort Lamallari, i cili ka përgëzuar strukturat e Policisë së Shtetit për përfundimin me sukses të operacionit. Sipas Lamallarit, operacioni u zhvillua në Krujë dhe n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T08:14:02+00:00",
-      "dateStr": "17 Aug, 08:14",
-      "isNew": true,
-      "id": "abc91786954442"
-    },
-    {
-      "title": "Tërmeti “godet” Shqipërinë! Ja sa ishte magnituda, epiqendra në juglindje të vendit",
-      "link": "https://shekulli.com.al/2026/08/17/termeti-godet-shqiperine-ja-sa-ishte-magnituda-epiqendra-ne-juglindje-te-vendit/",
-      "description": "Një tërmet ka tronditur ditën e sotme juglindjen e vendit, mëngjesin e sotëm. Raportohet se lëkundjet ishin me magnitudë 3.2 në orën 09:36, me epiqendër rreth 5 kilometra në jug-juglindje të Korçës. Tërmeti ka pasur një thellësi prej rreth 15 kilometrash. Deri në këtë moment nuk raportohet për dëme ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-17T07:53:56+00:00",
-      "dateStr": "17 Aug, 07:53",
-      "isNew": true,
-      "id": "she61786953236"
-    },
-    {
-      "title": "“Meta” në hall të madh! Ja gjyqi që mund të ndryshojë përfundimisht “Instagram” dhe “Facebook” për të gjithë",
-      "link": "https://shekulli.com.al/2026/08/17/meta-ne-hall-te-madh-ja-gjyqi-qe-mund-te-ndryshoje-perfundimisht-instagram-dhe-facebook-per-te-gjithe/",
-      "description": "Kompania “Meta” po përballet me problemet më të mëdha ligjore që ka patur ndonjëherë në historinë e saj. Sipas ekspertëve, në rast se kompania e Mark Zuckenberg e humb këtë gjyq, rrjetet sociale “Instagram” dhe “Facebook” që ne të gjithë përdorim, do të ndryshonin përgjithmonë. Po për çfarë bëhet fj",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-17T07:43:34+00:00",
-      "dateStr": "17 Aug, 07:43",
-      "isNew": true,
-      "id": "she71786952614"
-    },
-    {
-      "title": "E trishtë/ Vetëm 36-vjeç! Ndërron jetë aktorja e njohur, lë pas vajzën e mitur",
-      "link": "https://shekulli.com.al/2026/08/17/e-trishte-vetem-36-vjec-nderron-jete-aktorja-e-njohur-le-pas-vajzen-e-mitur/",
-      "description": "Një lajm i trishtë vjen nga bota e kinamatografisë, teksa aktorja e njohur Hayden Panettiere ka ndërruar jetë në moshën 36-vjeçare. Familja njoftoi lajmin por pa dhënë detaje mbi rrethanat. Kohët e fundit, vetë 36-vjeçarja kishte zbuluar se po përballej me varësinë nga lëndët narkotike, depresionin ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-17T07:29:04+00:00",
-      "dateStr": "17 Aug, 07:29",
-      "isNew": true,
-      "id": "she81786951744"
-    },
-    {
-      "title": "Torta e buxhetit të shkencës, shumica e fondeve prej 81 milionë eurosh shkojnë për Universitetet",
-      "link": "https://shekulli.com.al/2026/08/17/torta-e-buxhetit-te-shkences-shumica-e-fondeve-prej-81-milione-eurosh-shkojne-per-universitetet/",
-      "description": "Qeveria e Shqipërisë ka rritur vitit pas viti fondet për kërkimin shkencor, edhe pse alokimet nuk ndjekin të njëjtat ritme. Sipas të dhënave të Eurostat Shqipëria parashikoi 81.4 milionë euro fonde publike për kërkim dhe zhvillim në vitin 2025, me një rritje prej 10.3% krahasuar me 73.8 milionë euro",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-17T07:11:51+00:00",
-      "dateStr": "17 Aug, 07:11",
-      "isNew": true,
-      "id": "she91786950711"
+      "id": "she91786955737"
     }
   ]
 }
