@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-17T22:18:42.819576+00:00",
+  "lastUpdated": "2026-08-17T23:18:08.071339+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Pirates të Pittsburgh përballë Tigers të Detroit, 17 gusht 2026 — përmbledhje para ndeshjes",
+      "link": "https://24-ore.com/pirates-te-pittsburgh-perballe-tigers-te-detroit-17-gusht-2026-permbledhje-para-ndeshjes/",
+      "description": "Në PNC Park në Pittsburgh, më 17 gusht 2026, Detroit Tigers u përballën me Pittsburgh Pirates. Startues për Tigers ishte Framber Valdez (7-8, 4.26 ERA), nd...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T22:36:51+00:00",
+      "dateStr": "17 Aug, 22:36",
+      "isNew": true,
+      "id": "24 01787006211"
+    },
     {
       "title": "“Po riparonim motorin e skafit, mori flakë benzina”, flet një nga të plagosurit në Porto Palermo",
       "link": "https://24-ore.com/po-riparonim-motorin-e-skafit-mori-flake-benzina-flet-nje-nga-te-plagosurit-ne-porto-palermo/",
@@ -12,7 +23,7 @@
       "date": "2026-08-17T22:18:38+00:00",
       "dateStr": "17 Aug, 22:18",
       "isNew": true,
-      "id": "24 01787005118"
+      "id": "24 11787005118"
     },
     {
       "title": "PAMJE/ Momentet pas shpërthimit të skafit në Porto Palermo, qytetarët u vijnë në ndihmë të plagosurve",
@@ -23,7 +34,7 @@
       "date": "2026-08-17T22:18:25+00:00",
       "dateStr": "17 Aug, 22:18",
       "isNew": true,
-      "id": "24 11787005105"
+      "id": "24 21787005105"
     },
     {
       "title": "17 Gushti, “Dita e Maces së Zezë”: Supersticioni i fatit të keq mbetet në të kaluarën",
@@ -34,7 +45,7 @@
       "date": "2026-08-17T21:46:39+00:00",
       "dateStr": "17 Aug, 21:46",
       "isNew": true,
-      "id": "24 21787003199"
+      "id": "24 31787003199"
     },
     {
       "title": "“Protesta, në rrugë pa krye”/ Beqiri: Pritet arrestimi i Berishës për 21 janarin, ka dëshmitar okular për vrasjet në Tropojë",
@@ -56,7 +67,7 @@
       "date": "2026-08-17T21:33:20+00:00",
       "dateStr": "17 Aug, 21:33",
       "isNew": true,
-      "id": "24 31787002400"
+      "id": "24 41787002400"
     },
     {
       "title": "Philadelphia Phillies – Miami Marlins në Citizens Bank Park, 17 gusht 2026",
@@ -67,7 +78,7 @@
       "date": "2026-08-17T21:15:40+00:00",
       "dateStr": "17 Aug, 21:15",
       "isNew": true,
-      "id": "24 41787001340"
+      "id": "24 51787001340"
     },
     {
       "title": "Taksia përplas për vdekje 66-vjeçarin/ Pamjet tregojnë viktimën që po ecte në trotuar kur u godit",
@@ -89,7 +100,7 @@
       "date": "2026-08-17T21:02:35+00:00",
       "dateStr": "17 Aug, 21:02",
       "isNew": true,
-      "id": "24 51787000555"
+      "id": "24 61787000555"
     },
     {
       "title": "“Berisha do ta vrasë PD-në para se të largohet”, Kadilli: Në parti ka mbetur vetëm berishizmi",
@@ -100,7 +111,7 @@
       "date": "2026-08-17T21:02:21+00:00",
       "dateStr": "17 Aug, 21:02",
       "isNew": true,
-      "id": "24 61787000541"
+      "id": "24 71787000541"
     },
     {
       "title": "Protesta nuk është restorant",
@@ -111,7 +122,7 @@
       "date": "2026-08-17T20:47:18+00:00",
       "dateStr": "17 Aug, 20:47",
       "isNew": true,
-      "id": "24 71786999638"
+      "id": "24 81786999638"
     },
     {
       "title": "FOKUS – Farage premton ndalimin e përfitimeve sociale për të huajt në Britani",
@@ -122,18 +133,7 @@
       "date": "2026-08-17T20:46:08+00:00",
       "dateStr": "17 Aug, 20:46",
       "isNew": true,
-      "id": "24 81786999568"
-    },
-    {
-      "title": "Një hap përpara i Cavan Sullivan dhe Vancouver dominon derbin e Cascadia",
-      "link": "https://24-ore.com/nje-hap-perpara-i-cavan-sullivan-dhe-vancouver-dominon-derbin-e-cascadia/",
-      "description": "Javës së 20-të të kampionatit i shpëtuan surprizat dhe lajmërimet: Philadelphia Union u rikthye fuqishëm pas pushimit të Kupës së Botës me katër fitore rad...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T20:41:45+00:00",
-      "dateStr": "17 Aug, 20:41",
-      "isNew": true,
-      "id": "24 91786999305"
+      "id": "24 91786999568"
     },
     {
       "title": "Objekti i panjohur shkel hapësirën ajrore të Moldavisë",
