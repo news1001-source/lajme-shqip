@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-17T04:35:36.584721+00:00",
+  "lastUpdated": "2026-08-17T05:30:44.149654+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Nashville konfirmon formën, Houston në ngritje dhe ngjarjet kryesore të Ditës së Ndeshjeve 20",
+      "link": "https://24-ore.com/nashville-konfirmon-formen-houston-ne-ngritje-dhe-ngjarjet-kryesore-te-dites-se-ndeshjeve-20/",
+      "description": "Me ditët që shkurtohen dhe rikthimin e seasonës pas Kupës së Botës, Java e 20 e MLS sinjalizoi fillimin e fazës vendimtare të kampionatit, me ekipe që nise...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T05:26:01+00:00",
+      "dateStr": "17 Aug, 05:26",
+      "isNew": true,
+      "id": "24 01786944361"
+    },
+    {
+      "title": "Mot i nxehtë të hënën, temperaturat deri në 34 gradë Celsius",
+      "link": "https://24-ore.com/mot-i-nxehte-te-henen-temperaturat-deri-ne-34-grade-celsius/",
+      "description": "Kosova të hënën do të karakterizohet nga mot me diell dhe vranësira të pjesshme. Sipas parashikimit, temperaturat minimale do të lëvizin ndërmjet 10 dhe 14 gradë Celsius, ndërsa ato maksimale pritet të arrijnë nga 28 deri në 34 gradë Celsius. Era do të fryjë nga verilindja dhe veriperëndimi, me shpe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T05:17:36+00:00",
+      "dateStr": "17 Aug, 05:17",
+      "isNew": true,
+      "id": "24 11786943856"
+    },
+    {
+      "title": "Petar Musa rikthen kryesimin për Këpucën e Artë me fitore vendimtare në Copa Tejas",
+      "link": "https://24-ore.com/petar-musa-rikthen-kryesimin-per-kepucen-e-arte-me-fitore-vendimtare-ne-copa-tejas/",
+      "description": "Petar Musa shënoi golin vendimtar që i dha FC Dallas fitoren 2-1 ndaj rivalëve të shtetit, Austin FC. Goditja e tij e 14-të sezonal, një tentativë e saktë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T04:45:33+00:00",
+      "dateStr": "17 Aug, 04:45",
+      "isNew": true,
+      "id": "24 21786941933"
+    },
     {
       "title": "Rivlerësimi dhe hetimet e SPAK ulin në qershor çmimet e apartamenteve, frenohet paraja informale",
       "link": "https://24-ore.com/rivleresimi-dhe-hetimet-e-spak-ulin-ne-qershor-cmimet-e-apartamenteve-frenohet-paraja-informale/",
@@ -12,7 +45,7 @@
       "date": "2026-08-17T04:19:32+00:00",
       "dateStr": "17 Aug, 04:19",
       "isNew": true,
-      "id": "24 01786940372"
+      "id": "24 31786940372"
     },
     {
       "title": "Si ndahet torta 81 mln euro e buxhetit për shkencën, mbi gjysma shkon për universitetet",
@@ -23,7 +56,7 @@
       "date": "2026-08-17T04:02:28+00:00",
       "dateStr": "17 Aug, 04:02",
       "isNew": true,
-      "id": "24 11786939348"
+      "id": "24 41786939348"
     },
     {
       "title": "LA Galaxy transferon Miki Yamane te Urawa Red Diamonds",
@@ -34,7 +67,7 @@
       "date": "2026-08-17T04:01:31+00:00",
       "dateStr": "17 Aug, 04:01",
       "isNew": true,
-      "id": "24 21786939291"
+      "id": "24 51786939291"
     },
     {
       "title": "Angel Reese pranon se luajti keq në pjesën e parë; Dream humbet 95-91 në shtesë ndaj Fever",
@@ -45,7 +78,7 @@
       "date": "2026-08-17T03:15:39+00:00",
       "dateStr": "17 Aug, 03:15",
       "isNew": true,
-      "id": "24 31786936539"
+      "id": "24 61786936539"
     },
     {
       "title": "Pierre-Edouard Bellemare emërohet specialist për zhvillimin e lojtarëve te Tampa Bay Lightning",
@@ -56,7 +89,7 @@
       "date": "2026-08-17T02:27:56+00:00",
       "dateStr": "17 Aug, 02:27",
       "isNew": true,
-      "id": "24 41786933676"
+      "id": "24 71786933676"
     },
     {
       "title": "Phoenix Mercury tërheq fanellën me numër 3 të Diana Taurasit dhe e përfshin në Ring of Honor",
@@ -67,7 +100,7 @@
       "date": "2026-08-17T01:52:04+00:00",
       "dateStr": "17 Aug, 01:52",
       "isNew": true,
-      "id": "24 51786931524"
+      "id": "24 81786931524"
     },
     {
       "title": "Ceremonia e Basketball Hall of Fame 2026: Përmbledhje e fjalimeve dhe reagimeve",
@@ -78,40 +111,7 @@
       "date": "2026-08-17T01:50:48+00:00",
       "dateStr": "17 Aug, 01:50",
       "isNew": true,
-      "id": "24 61786931448"
-    },
-    {
-      "title": "Mookie Betts: “Mbyll sytë dhe godit” kur përballet me Jacob Misiorowski",
-      "link": "https://24-ore.com/mookie-betts-mbyll-syte-dhe-godit-kur-perballet-me-jacob-misiorowski/",
-      "description": "Mookie Betts, ylli i Los Angeles Dodgers, thotë se kur përballesh me përbindëshin e Milwaukee Brewers, Jacob Misiorowski, nuk ka gjithmonë strategji të det...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T01:47:34+00:00",
-      "dateStr": "17 Aug, 01:47",
-      "isNew": true,
-      "id": "24 71786931254"
-    },
-    {
-      "title": "Portland Fire mposht Phoenix Mercury 81-80 në ndeshjen e 16 gushtit 2026",
-      "link": "https://24-ore.com/portland-fire-mposht-phoenix-mercury-81-80-ne-ndeshjen-e-16-gushtit-2026/",
-      "description": "Portland Fire fitoi ndaj Phoenix Mercury me rezultatin 81-80 në përballjen e zhvilluar më 16 gusht 2026. Portlandi realizoi 18, 18, 25 dhe 20 pikë në katër...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T01:10:35+00:00",
-      "dateStr": "17 Aug, 01:10",
-      "isNew": true,
-      "id": "24 81786929035"
-    },
-    {
-      "title": "Joshua Báez realizon debutimin historik: tre homerun në tre goditje radhazi për Cardinals",
-      "link": "https://24-ore.com/joshua-baez-realizon-debutimin-historik-tre-homerun-ne-tre-goditje-radhazi-per-cardinals/",
-      "description": "Joshua Báez, krahun e majtë i St. Louis Cardinals, bëri një debutim të jashtëzakonshëm në MLB në Wrigley Field, duke shënuar homerun në tre goditjet e tij...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T01:06:13+00:00",
-      "dateStr": "17 Aug, 01:06",
-      "isNew": true,
-      "id": "24 91786928773"
+      "id": "24 91786931448"
     },
     {
       "title": "VIDEO/ Zjarr në Qishbardhë të Vlorës, era e fortë favorizon përhapjen e flakëve",
