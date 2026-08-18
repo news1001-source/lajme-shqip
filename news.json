@@ -1,18 +1,216 @@
 {
-  "lastUpdated": "2026-08-18T16:24:40.345713+00:00",
+  "lastUpdated": "2026-08-18T17:21:32.535059+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Pse nuk është absurd hetimi i SPAK për “çfarë ka bërë Veliaj” në 2000-shin, dhe është absurd hetimi për Olsi Dado",
-      "link": "https://24-ore.com/pse-nuk-eshte-absurd-hetimi-i-spak-per-cfare-ka-bere-veliaj-ne-2000-shin-dhe-eshte-absurd-hetimi-per-olsi-dado/",
-      "description": "Mora shkas nga një shkrim i Birn Albania ditën e sotme për këtë çështje. Ka një paradoks të bukur në këtë histori. Për të kuptuar nëse Veliaj ka bërë ndonjë gjë të paligjshme, na thuhet se duhet të kthehemi në vitin 2003. Të shohim apartamente, pagesa, transaksione, njohje, udhëtime, të ndjekim gjur",
+      "title": "Përplasen dy skuterë në Vlorë, plagosen dy drejtuesit",
+      "link": "https://24-ore.com/perplasen-dy-skutere-ne-vlore-plagosen-dy-drejtuesit/",
+      "description": "Një aksident rrugor është regjistruar pasditen e kësaj të marte në bulevardin “Ismail Qemali” në Vlorë, në zonën e njohur si Aleksandria. Dy skuterë janë përplasur me njëri-tjetrin, ndërsa si pasojë e aksidentit kanë mbetur të lënduar të dy drejtuesit e mjeteve. Të plagosurit janë transportuar drejt",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-18T16:16:47+00:00",
-      "dateStr": "18 Aug, 16:16",
+      "date": "2026-08-18T17:20:09+00:00",
+      "dateStr": "18 Aug, 17:20",
       "isNew": true,
-      "id": "24 01787069807"
+      "id": "24 01787073609"
+    },
+    {
+      "title": "Aksident me vdekje në Tiranë, humb jetën 55-vjeçarja",
+      "link": "https://24-ore.com/aksident-me-vdekje-ne-tirane-humb-jeten-55-vjecarja/",
+      "description": "Një aksident me pasojë vdekjen është regjistruar mbrëmjen së martes në zonën e ‘Misto Mames’, në Tiranë. Sipas policisë, rreth orës 18:30, një automjet që drejtohej nga një 23-vjeçar, me inicialet O. V., ka përplasur këmbësoren D. P., rreth 55 vjeçe. Si pasojë e përplasjes, 55-vjeçarja ka ndërruar j",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T17:19:53+00:00",
+      "dateStr": "18 Aug, 17:19",
+      "isNew": true,
+      "id": "24 11787073593"
+    },
+    {
+      "title": "Meloni vijon pushimet familjare, momenti spektakolar i hedhjes nga varka bën xhiron e rrjetit",
+      "link": "https://24-ore.com/meloni-vijon-pushimet-familjare-momenti-spektakolar-i-hedhjes-nga-varka-ben-xhiron-e-rrjetit/",
+      "description": "Giorgia Meloni po shijon disa ditë pushimi në Sardenjë, larg angazhimeve politike, së bashku me vajzën e saj, Ginevra. Kryeministrja italiane është fotografuar gjatë një daljeje me varkë në ujërat e ishujve të La Maddalena-s, mes Caprera, Spargi dhe Budelli, ku ka shijuar detin dhe temperaturat e la",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T17:19:43+00:00",
+      "dateStr": "18 Aug, 17:19",
+      "isNew": true,
+      "id": "24 21787073583"
+    },
+    {
+      "title": "Trump publikon hartën ku Ngushtica e Hormuzit paraqitet si territor i SHBA-së",
+      "link": "https://24-ore.com/trump-publikon-harten-ku-ngushtica-e-hormuzit-paraqitet-si-territor-i-shba-se/",
+      "description": "Presidenti amerikan Donald Trump ka publikuar një imazh ku Ngushtica e Hormuzit paraqitet si “territor i ri i SHBA-së”, duke rikthyer në vëmendje deklaratat e tij të fundit për këtë rrugë strategjike ujore. Trump shpërndau në rrjetet sociale një hartë të Ngushticës së Hormuzit, mbi të cilën ishte ve",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T17:19:30+00:00",
+      "dateStr": "18 Aug, 17:19",
+      "isNew": true,
+      "id": "24 31787073570"
+    },
+    {
+      "title": "“Hormuzi është një territor i SHBA”! Irani: Së shpejti iluzioni i Trump do korrigjohet",
+      "link": "https://24-ore.com/hormuzi-eshte-nje-territor-i-shba-irani-se-shpejti-iluzioni-i-trump-do-korrigjohet/",
+      "description": "Zëvendësministri i Jashtëm iranian, Kazem Gharibabadi, iu përgjigj postimit të një imazhi të Ngushticës së Hormuzit nga Presidenti i SHBA-së, Donald Trump, me mbishkrimin “Territori i Ri i SHBA-së”, duke paralajmëruar se “iluzioni” i Trump në lidhje me sovranitetin e Ngushticës do të korrigjohet së ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T17:19:20+00:00",
+      "dateStr": "18 Aug, 17:19",
+      "isNew": true,
+      "id": "24 41787073560"
+    },
+    {
+      "title": "Rusi, Google, Telegram dhe Microsoft gjobiten me 11.1 milionë rubla për përmbajtje të ndaluara",
+      "link": "https://24-ore.com/rusi-google-telegram-dhe-microsoft-gjobiten-me-11-1-milione-rubla-per-permbajtje-te-ndaluara/",
+      "description": "Një gjykatë në Moskë ka gjobitur Google, Telegram dhe Microsoft me një total prej 11.1 milionë rubla, rreth 130 mijë dollarë, për moslargimin e përmbajtjeve të ndaluara nga platformat e tyre. Gjykata e Qarkut Taganski vendosi që Google dhe Telegram të paguajnë nga 3.8 milionë rubla secila, ndërsa Mi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T17:19:05+00:00",
+      "dateStr": "18 Aug, 17:19",
+      "isNew": true,
+      "id": "24 51787073545"
+    },
+    {
+      "title": "Emiratet e Bashkuara Arabe në alarm, zbulohet kërcënim raketor ndaj vendit",
+      "link": "https://24-ore.com/emiratet-e-bashkuara-arabe-ne-alarm-zbulohet-kercenim-raketor-ndaj-vendit/",
+      "description": "Ministria e Mbrojtjes e Emirateve të Bashkuara Arabe ka njoftuar se sistemet e mbrojtjes ajrore të vendit kanë zbuluar një kërcënim raketor. Në një deklaratë të publikuar në rrjetet sociale, ministria u ka bërë thirrje qytetarëve dhe banorëve që të ndjekin vetëm njoftimet dhe udhëzimet e publikuara ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T17:18:53+00:00",
+      "dateStr": "18 Aug, 17:18",
+      "isNew": true,
+      "id": "24 61787073533"
+    },
+    {
+      "title": "Bizhuteritë e dasmës ‘modeste’ të Cristiano Ronaldo dhe Georgina Rodriguez arrijnë vlerën e 50 mln dollarëve",
+      "link": "https://24-ore.com/bizhuterite-e-dasmes-modeste-te-cristiano-ronaldo-dhe-georgina-rodriguez-arrijne-vleren-e-50-mln-dollareve/",
+      "description": "Cristiano Ronaldo mund të jetë martuar me partneren e tij prej shumë vitesh, Georgina Rodriguez, në një ceremoni të thjeshtë por çifti gjithsesi u kujdes të dukej mbresëlënës. Ata u martuan në 10-vjetorin e ditës kur u takuan për herë të parë në dyqanin Gucci në Madrid, ku Rodriguez punonte në atë k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T17:18:40+00:00",
+      "dateStr": "18 Aug, 17:18",
+      "isNew": true,
+      "id": "24 71787073520"
+    },
+    {
+      "title": "BESHOVIQ: TË GJITHA KAPACITETET NË GATISHMËRI, SITUATA MË E QËNDRUESHME",
+      "link": "https://24-ore.com/beshoviq-te-gjitha-kapacitetet-ne-gatishmeri-situata-me-e-qendrueshme/",
+      "description": "Budva, 11. avgusta 2025. &#8211; Poar na prevoju Kufin, u delu od Buljarice prema Baru jo nije ugaen ali je pod kontrolom, izjavio je komandir Slube zatite i spaavanja Budva Dragan Booviæ. Tokom noæi vetar je rairio poar preko magistrale i bile su ugroene kuæe, ali je brzom intervencijom v",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T17:18:26+00:00",
+      "dateStr": "18 Aug, 17:18",
+      "isNew": true,
+      "id": "24 81787073506"
+    },
+    {
+      "title": "Tani protesta duhet të ruajë edhe plazhet",
+      "link": "https://24-ore.com/tani-protesta-duhet-te-ruaje-edhe-plazhet/",
+      "description": "Ka dalë një detyrë e re për protestën në Tiranë. Përveçse duhet të kërkojë zgjedhje të ndershme, rregulla demokratike, institucione që funksionojnë, kontroll mbi pushtetin dhe një shtet normal, tani duhet të merret edhe me rendin në Ksamil. Mundësisht të caktojë nga dy protestues në çdo plazh, një t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T17:17:47+00:00",
+      "dateStr": "18 Aug, 17:17",
+      "isNew": true,
+      "id": "24 91787073467"
+    },
+    {
+      "title": "Pamje të rënda/ Aksident me vdekje në Tiranë, i riu në timon përplas një grua në mes të rrugës, ambulanca vonon 30 minuta",
+      "link": "https://shekulli.com.al/2026/08/18/pamje-te-renda-aksident-me-vdekje-ne-tirane-i-riu-ne-timon-perplas-nje-grua-ne-mes-te-rruges-ambulanca-vonon-30-minuta/",
+      "description": "Një aksident me vdekje ka ndodhur pasditen e sotme në Tiranë, ku një mjet tip audi ka përplasur një grua. Aksidenti ka ndodhur në zonën e Misto Mames, ndërsa burime nga vendi i ngjarjes i thanë SHEKULLI-t se ambulanca është vonuar rreth 30 minuta për të mbërritur në vendin e ngjarjes. Shoferi 23-vje",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T17:07:07+00:00",
+      "dateStr": "18 Aug, 17:07",
+      "isNew": true,
+      "id": "she01787072827"
+    },
+    {
+      "title": "Aksident me vdekje në Tiranë",
+      "link": "https://abcnews.al/aksident-me-vdekje-ne-tirane-10/",
+      "description": "Tiranë/Informacion paraprak Rreth orës 18:30, në Misto Mame, shtetasi O. V., rreth 23 vjeç, duke drejtuar automjetin, ka aksidentuar këmbësoren, shtetasen D. P., rreth 55 vjeçe. Si pasojë e përplasjes, shtetasja D. P., ka ndërruar jetë. Drejtuesi i automjetit është shoqëruar në Komisariat për veprim",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T17:02:48+00:00",
+      "dateStr": "18 Aug, 17:02",
+      "isNew": true,
+      "id": "abc01787072568"
+    },
+    {
+      "title": "Përplasen dy skuterë në Vlorë, dy persona përfundojnë në spital",
+      "link": "https://abcnews.al/perplasen-dy-skutere-ne-vlore-dy-persona-perfundojne-ne-spital/",
+      "description": "Një aksident rrugor është regjistruar pasditen e sotme në bulevardin “Ismail Qemali” në Vlorë, në zonën e njohur si Aleksandria. Dy mjete tip skuter janë përplasur me njëri-tjetrin, ndërsa si pasojë e aksidentit kanë mbetur të dëmtuar të dy personat që i drejtonin. Të lënduarit janë transportuar dre",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T17:02:06+00:00",
+      "dateStr": "18 Aug, 17:02",
+      "isNew": true,
+      "id": "abc11787072526"
+    },
+    {
+      "title": "Akuzat mes organizatorëve të protestës, Gent Progni nxjerr pamjet: Grupi i Visuar Dalipit me kokainë dhe hashash në tavolinë",
+      "link": "https://shekulli.com.al/2026/08/18/akuzat-mes-organizatoreve-te-protestes-gent-progni-nxjerr-pamjet-grupi-i-visuar-dalipit-me-kokaine-dhe-hashash-ne-tavoline/",
+      "description": "TIRANË- Përplasjet mes disa prej organizatorëve të protestës, janë bërë tashmë edhe më të ashpra, ndërsa së fundi një video e shpërndarë nga eksperti i sigurisë kibernetike dhe aktivisti Gent Progni, është bërë virale në rrjet. Në pamjet e shpërndara prej tij, Progni pretendon dhe akuzon drejtpërdre",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T16:56:45+00:00",
+      "dateStr": "18 Aug, 16:56",
+      "isNew": true,
+      "id": "she11787072205"
+    },
+    {
+      "title": "Shqipëria, sanksione Bjellorusisë/ 8 vende i bashkohen paketës së sanskioneve të BE ndaj Minskut",
+      "link": "https://abcnews.al/shqiperia-sanksione-bjellorusise-8-vende-i-bashkohen-paketes-se-sanskioneve-te-be-ndaj-minskut/",
+      "description": "8 vende jashtë Bashkimit Evropian, mes tyre edhe Shqipëria, i janë bashkuar paketës së fundit të sanksioneve të BE-së ndaj Bjellorusisë, për shkak të mbështetjes së Minskut për luftën e Rusisë në Ukrainë. Shqipëria, Bosnjë-Hercegovina, Islanda, Lihtenshtajni, Mali i Zi, Maqedonia e Veriut, Norvegjia",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T16:51:32+00:00",
+      "dateStr": "18 Aug, 16:51",
+      "isNew": true,
+      "id": "abc21787071892"
+    },
+    {
+      "title": "VIDEO/ Zjarr në Çorrush të Mallakastrës, digjen ullinj shekullorë",
+      "link": "https://abcnews.al/video-zjarr-ne-corrush-te-mallakastres-digjen-ullinj-shekullore/",
+      "description": "Një shkëndijë elektrike dyshohet se shkaktoi një zjarri pranë kabinës elektrike në fshatin Çorrush të Mallakastrës. Flakët përshkuan rreth 1 hektar sipërfaqe, ndërsa zjarri dëmtoi mbi 15 pemë ulliri shekullore. Situata u vu nën kontroll brenda disa orësh, duke shmangur përhapjen e mëtejshme të flakë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T16:44:03+00:00",
+      "dateStr": "18 Aug, 16:44",
+      "isNew": true,
+      "id": "abc31787071443"
+    },
+    {
+      "title": "FOTO/ Marsela Çibukaj dhe Vitmar Basha bëhen prindër për herë të parë, zbulojnë emrin e veçantë të djalit",
+      "link": "https://shekulli.com.al/2026/08/18/foto-marsela-cibukaj-dhe-vitmar-basha-behen-prinder-per-here-te-pare-zbulojne-emrin-e-vecante-te-djalit/",
+      "description": "Këngëtarja e njohur shqiptare Marsela Çibukaj është bërë nënë për herë të parë. Artistja dhe partneri i saj, Vitmar Basha, kanë mirëpritur në jetë një djalë. Lajmin e ëmbël e ka ndarë vetë Marsela në rrjetet sociale, ku ka publikuar edhe disa foto nga kjo periudhë e veçantë. Çifti ka zgjedhur një em",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T16:41:00+00:00",
+      "dateStr": "18 Aug, 16:41",
+      "isNew": true,
+      "id": "she21787071260"
+    },
+    {
+      "title": "Anija greke goditet në Ngushticën e Hormuzit, humb jetën anëtari i ekuipazhit",
+      "link": "https://abcnews.al/anija-greke-goditet-ne-ngushticen-e-hormuzit-humb-jeten-anetari-i-ekuipazhit/",
+      "description": "Komuniteti ndërkombëtar dhe grek i transportit detar është në një gjendje alarmi absolut pas dy sulmeve të njëpasnjëshme me raketa kundër anijeve tregtare në pronësi greke në dy fronte krejtësisht të ndryshme të tensionit gjeopolitik. Mbrëmjen e së hënës një anëtar i ekuipazhit humbi jetën në anijen",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T16:39:49+00:00",
+      "dateStr": "18 Aug, 16:39",
+      "isNew": true,
+      "id": "abc41787071189"
+    },
+    {
+      "title": "Përçahet “revolucioni i flamingove”/ Kejsi Elezi: Qytetarët e kuptuan që po shfrytëzoheshin në protestë",
+      "link": "https://abcnews.al/percahet-revolucioni-i-flamingove-kejsi-elezi-qytetaret-e-kuptuan-qe-po-shfrytezoheshin-ne-proteste/",
+      "description": "Ish kandidatja për deputete e PS, Kejsi Elezi thotë se qytetarët e kuptuan se protesta në bulevard ka interesa politike, ndaj dhe e kanë braktisur. Në një intervistë për &#8220;Tirana Live&#8221; në ABC News, Elezi u shpreh se protesta nisi paqësore, por u bë e dhunshme. &#8220;Ky mandat i katërt do",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T16:33:15+00:00",
+      "dateStr": "18 Aug, 16:33",
+      "isNew": true,
+      "id": "abc51787070795"
     },
     {
       "title": "Ksamil, vritet portugezi/ Eksperti Basha: Ngjarje e rëndë, duhet ndërhyrë te bizneset e policitë private",
@@ -23,29 +221,7 @@
       "date": "2026-08-18T16:15:04+00:00",
       "dateStr": "18 Aug, 16:15",
       "isNew": true,
-      "id": "abc01787069704"
-    },
-    {
-      "title": "ASH: Qeveria i ka lënë gratë pa skrining funksional për kancerin e gjirit",
-      "link": "https://24-ore.com/ash-qeveria-i-ka-lene-grate-pa-skrining-funksional-per-kancerin-e-gjirit/",
-      "description": "Shkup, 18 gusht 2026",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T16:13:32+00:00",
-      "dateStr": "18 Aug, 16:13",
-      "isNew": true,
-      "id": "24 11787069612"
-    },
-    {
-      "title": "Hany Mukhtar e çon përsëri Nashville SC në krye të renditjes",
-      "link": "https://24-ore.com/hany-mukhtar-e-con-perseri-nashville-sc-ne-krye-te-renditjes/",
-      "description": "Kjo javë në MLS solli momente vendimtare: Philadelphia Union përmbysi një disavantazh 0-2 për të fituar, Petar Musa shënoi golin vendimtar për FC Dallas, d...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T16:11:03+00:00",
-      "dateStr": "18 Aug, 16:11",
-      "isNew": true,
-      "id": "24 21787069463"
+      "id": "abc61787069704"
     },
     {
       "title": "UEFA vlerëson arbitrat shqiptarë/ Dy trupa kuqezi gjykojnë në play-off të Conference League",
@@ -56,73 +232,7 @@
       "date": "2026-08-18T16:02:56+00:00",
       "dateStr": "18 Aug, 16:02",
       "isNew": true,
-      "id": "she01787068976"
-    },
-    {
-      "title": "“Ana nuk është vetëm”- I mbijetoi zjarrit në hotelin e Vlorës, Koçiu reagon pas nisjes së 25-vjeçares në Turqi: Kur",
-      "link": "https://24-ore.com/ana-nuk-eshte-vetem-i-mbijetoi-zjarrit-ne-hotelin-e-vlores-kociu-reagon-pas-nisjes-se-25-vjecares-ne-turqi-kur/",
-      "description": "Ana Dyrmishi u transferua sot drejt Turqisë për të vijuar trajtimin e specializuar pas djegieve të rënda që pësoi nga zjarri në hotelin “Brooklyn” në Vlorë. Po sot, zv/kryeministrja Albana Koçiu përcolli një mesazh mbështetjeje për 25-vjeçaren, duke garantuar se qeveria shqiptare do të mbulojë të gj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T16:01:45+00:00",
-      "dateStr": "18 Aug, 16:01",
-      "isNew": true,
-      "id": "24 31787068905"
-    },
-    {
-      "title": "“Do ketë pasaportën dhe monedhën e vet”- Shteti Bektashi në shtator? Media franceze zbulon: Gjithçka është gati, ja d",
-      "link": "https://24-ore.com/do-kete-pasaporten-dhe-monedhen-e-vet-shteti-bektashi-ne-shtator-media-franceze-zbulon-gjithcka-eshte-gati-ja-d/",
-      "description": "Mediat franceze zbulon detaje nga negociatat për krijimin e shtetit Bektashi në Shqipëri, duke publikuar se gjithçka do të jetë gati në muajin shtator të këtij viti. Madje ndër të tjera theksohet se urdhri do të ketë pasaportën dhe paranë e emërtuar BEK. Gjithashtu për realizimin e gjithë procesit j",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T16:01:29+00:00",
-      "dateStr": "18 Aug, 16:01",
-      "isNew": true,
-      "id": "24 41787068889"
-    },
-    {
-      "title": "Ketel Marte vendoset në listën e kufizuar; kthehet në Arizona për kontrollin e gjujt",
-      "link": "https://24-ore.com/ketel-marte-vendoset-ne-listen-e-kufizuar-kthehet-ne-arizona-per-kontrollin-e-gjujt/",
-      "description": "Arizona Diamondbacks njoftuan të hënën se përpara ndeshjes kundër Boston Red Sox vendosën Ketel Marte në listën e kufizuar, pasi lojtari nuk u paraqit për...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T16:00:40+00:00",
-      "dateStr": "18 Aug, 16:00",
-      "isNew": true,
-      "id": "24 51787068840"
-    },
-    {
-      "title": "Abissnet Superiore nis me shumë pretendentë për titullin",
-      "link": "https://24-ore.com/abissnet-superiore-nis-me-shume-pretendente-per-titullin/",
-      "description": "Kush do të jetë kampioni i ri? Përgjigjen do ta japë fusha, por një gjë është e sigurt, Abissnet Superiore nis me shumë pretendentë për titullin dhe me një garë që premton emocione deri në fund. Egnatia vjen me peshën e kampiones dhe me një objektiv të qartë, të shkruajë historinë me titullin e katë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T15:58:38+00:00",
-      "dateStr": "18 Aug, 15:58",
-      "isNew": true,
-      "id": "24 61787068718"
-    },
-    {
-      "title": "Anders Lee i entuziazmuar për të luajtur në Winter Classic me Utah Mammoth",
-      "link": "https://24-ore.com/anders-lee-i-entuziazmuar-per-te-luajtur-ne-winter-classic-me-utah-mammoth/",
-      "description": "Anders Lee nënshkroi një kontratë trevjeçare me Utah Mammoth më 1 korrik, një marrëveshje me vlerë totale 16.2 milionë dollarë dhe me mesatare vjetore 5.4...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T15:57:38+00:00",
-      "dateStr": "18 Aug, 15:57",
-      "isNew": true,
-      "id": "24 71787068658"
-    },
-    {
-      "title": "Stili i shtatzënisë i Alexandra Leclerc: veshje të gëzuara gjatë pushimeve në Sardini",
-      "link": "https://24-ore.com/stili-i-shtatzenise-i-alexandra-leclerc-veshje-te-gezuara-gjate-pushimeve-ne-sardini/",
-      "description": "Alexandra Leclerc po kalon një periudhë të qetë dhe personale: së bashku me bashkëshortin e saj të ri, pilotin e Formula 1 Charles Leclerc, ajo po bën një...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T15:55:45+00:00",
-      "dateStr": "18 Aug, 15:55",
-      "isNew": true,
-      "id": "24 81787068545"
+      "id": "she31787068976"
     },
     {
       "title": "Zakynthos/ Anija turistike përplaset me betonin e portit në brigjet e ishullit, 6 të plagosur",
@@ -133,7 +243,7 @@
       "date": "2026-08-18T15:55:23+00:00",
       "dateStr": "18 Aug, 15:55",
       "isNew": true,
-      "id": "abc11787068523"
+      "id": "abc71787068523"
     },
     {
       "title": "Vrasja e turistit në Ksamil/ 12 në pranga, mes tyre polici që dyshohet se ndihmoi autorin të largohej dhe një punonjës i burgjeve. Në kërkim pronari i Principotes",
@@ -144,18 +254,7 @@
       "date": "2026-08-18T15:50:34+00:00",
       "dateStr": "18 Aug, 15:50",
       "isNew": true,
-      "id": "she11787068234"
-    },
-    {
-      "title": "Angellov: Gjatë 24 orëve janë regjistruar 29 zjarre, 6 ende aktive",
-      "link": "https://24-ore.com/angellov-gjate-24-oreve-jane-regjistruar-29-zjarre-6-ende-aktive/",
-      "description": "Situata me zjarret në vend vazhdon të shqetësoj qytetarët, gjatë ditës së djeshme janë regjistruar 29 zjarre në hapësira të hapura, prej të cilave 23 janë shuar, ndërsa gjashtë mbeten aktive. Situata më serioze është paraqitur në fshatin Çanishte pranë Prilepit, ku zjarri depërtoi mes shtëpive, por ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T15:48:32+00:00",
-      "dateStr": "18 Aug, 15:48",
-      "isNew": true,
-      "id": "24 91787068112"
+      "id": "she41787068234"
     },
     {
       "title": "SHBA dhe Kanadaja në bisedime për të shmangur tarifat 50 për qind",
@@ -166,7 +265,7 @@
       "date": "2026-08-18T15:47:21+00:00",
       "dateStr": "18 Aug, 15:47",
       "isNew": true,
-      "id": "abc21787068041"
+      "id": "abc81787068041"
     },
     {
       "title": "Siri, kushëriri i Bashar al-Assad dënohet me vdekje",
@@ -177,7 +276,7 @@
       "date": "2026-08-18T15:32:20+00:00",
       "dateStr": "18 Aug, 15:32",
       "isNew": true,
-      "id": "abc31787067140"
+      "id": "abc91787067140"
     },
     {
       "title": "Shqipëria shpenzon për arsimin 2.9% të PBB-së, e fundit në Europë",
@@ -188,40 +287,7 @@
       "date": "2026-08-18T15:28:15+00:00",
       "dateStr": "18 Aug, 15:28",
       "isNew": true,
-      "id": "she21787066895"
-    },
-    {
-      "title": "Kryeministri britanik i përgjigjet kërcënimit rus: Ne do të jemi aty për Ukrainën",
-      "link": "https://abcnews.al/kryeministri-britanik-i-pergjigjet-kercenimit-rus-ne-do-te-jemi-aty-per-ukrainen/",
-      "description": "Kryeministri britanik, Andy Burnham, deklaroi sot se Mbretëria e Bashkuar do të vazhdojë të mbështesë Ukrainën në përballjen me pushtimin rus, pavarësisht paralajmërimeve të Moskës për pasoja ndaj Londrës. “Mbretëria e Bashkuar po bën atë që ka thënë prej kohësh se do të bëjë, të mbështesë 100 përqi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T15:21:10+00:00",
-      "dateStr": "18 Aug, 15:21",
-      "isNew": true,
-      "id": "abc41787066470"
-    },
-    {
-      "title": "Zbulohet naftë pranë grykëderdhjes së Amazonës, Presidenti: Pasaportë drejt së ardhmes së vendit",
-      "link": "https://abcnews.al/zbulohet-nafte-prane-grykederdhjes-se-amazones-presidenti-pasaporte-drejt-se-ardhmes-se-vendit/",
-      "description": "Presidenti brazilian Luiz Inácio Lula da Silva ka përshëndetur zbulimin e një vendburimi nafte pranë grykëderdhjes së lumit Amazonë, duke e cilësuar atë si një mundësi që mund të jetë “pasaportë drejt së ardhmes së vendit”. Zbulimi u njoftua nga kompania shtetërore e naftës Petrobras dhe u bë në det",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T14:48:54+00:00",
-      "dateStr": "18 Aug, 14:48",
-      "isNew": true,
-      "id": "abc51787064534"
-    },
-    {
-      "title": "News Hour me Erneta Shevroja, (18/08/2026)",
-      "link": "https://abcnews.al/news-hour-me-erneta-shevroja-18-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T14:41:53+00:00",
-      "dateStr": "18 Aug, 14:41",
-      "isNew": true,
-      "id": "abc61787064113"
+      "id": "she51787066895"
     },
     {
       "title": "“Doja të merrja hakun e vëllait”/ Lihet në burg 52-vjeçari që tentoi të vriste Kërtezin në Elbasan",
@@ -232,29 +298,7 @@
       "date": "2026-08-18T14:27:14+00:00",
       "dateStr": "18 Aug, 14:27",
       "isNew": true,
-      "id": "she31787063234"
-    },
-    {
-      "title": "Modriç: Milani është në të njëjtin nivel me Real Madridin",
-      "link": "https://abcnews.al/modric-milani-eshte-ne-te-njejtin-nivel-me-real-madridin/",
-      "description": "Luka Modric është gati për sezonin e dytë te Milani. Kroati e ka bërë të qartë ambicien e tij, që është të garojë dhe të përmbushë objektivat e klubit. “Diku thellë brenda vetes e dija se doja të vazhdoja me Milanin, por gjithashtu duhej të shqyrtoja edhe disa çështje të tjera që do të ma [...]Read ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T14:13:14+00:00",
-      "dateStr": "18 Aug, 14:13",
-      "isNew": true,
-      "id": "abc71787062394"
-    },
-    {
-      "title": "News Line me Rovena Neziri, (18/08/2026)",
-      "link": "https://abcnews.al/news-line-me-rovena-neziri-18-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T14:01:51+00:00",
-      "dateStr": "18 Aug, 14:01",
-      "isNew": true,
-      "id": "abc81787061711"
+      "id": "she61787063234"
     },
     {
       "title": "Vrasja e Ardian Nikulajt/ Gjykata Supreme në Londër pranon apelimin e Shqipërisë për ekstradimin e grupit të vëzhgimit",
@@ -265,18 +309,7 @@
       "date": "2026-08-18T13:56:34+00:00",
       "dateStr": "18 Aug, 13:56",
       "isNew": true,
-      "id": "she41787061394"
-    },
-    {
-      "title": "Atentati i dështuar në Elbasan/ Gjykata lë në burg Poli Boriçin, akuzohet për tentativë vrasjeje",
-      "link": "https://abcnews.al/atentati-i-deshtuar-ne-elbasan-gjykata-le-ne-burg-poli-boricin-akuzohet-per-tentative-vrasjeje/",
-      "description": "Gjykata e Elbasanit ka vendosur masën e sigurisë “Arrest në burg” për Poli Boriçin, i cili tre ditë më parë dyshohet se tentoi të qëllonte me armë zjarri një shtetas tjetër. Gjatë seancës gjyqësore, Boriçi ka mohuar se ka pasur qëllim të vriste Ermir Kërtexin. Ai ka deklaruar se synonte vetëm ta fri",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T13:50:45+00:00",
-      "dateStr": "18 Aug, 13:50",
-      "isNew": true,
-      "id": "abc91787061045"
+      "id": "she71787061394"
     },
     {
       "title": "“Humbëm pasionin”, ana e panjohur e Guardiolës, momenti kur u rrëfeu lojtarëve divorcin: Po ndahem nga gruaja më e bukur në botë",
@@ -287,7 +320,7 @@
       "date": "2026-08-18T13:25:06+00:00",
       "dateStr": "18 Aug, 13:25",
       "isNew": true,
-      "id": "she51787059506"
+      "id": "she81787059506"
     },
     {
       "title": "Zjarri në hotelin në Lungomare/ Ana Dyrmishi niset drejt Turqisë, Shqipërisë i mungon ekspertiza për djegiet, biznesi doli pa ‘u lagur’",
@@ -298,40 +331,7 @@
       "date": "2026-08-18T13:06:45+00:00",
       "dateStr": "18 Aug, 13:06",
       "isNew": true,
-      "id": "she61787058405"
-    },
-    {
-      "title": "“U bë sherr i madh”/ Zbardhen dëshmitë për vrasjen në Ksamil, çfarë deklaruan turqit që shoqëronin Vatën dhe miqtë e viktimës",
-      "link": "https://shekulli.com.al/2026/08/18/u-be-sherr-i-madh-zbardhen-deshmite-per-vrasjen-ne-ksamil-cfare-deklaruan-turqit-qe-shoqeronin-vaten-dhe-miqte-e-viktimes/",
-      "description": "Detaje të reja janë zbardhur në lidhje me ngjarjen e rëndë të ndodhur në orët e para të mëngjesit të sotëm në Ksamil, ku u vra turisti portugez Luis Miguel Varela Mendes. Autori i dyshuar Sokrat Vata ka mbajtur gojën kyçur para autoriteteve, pasi u arrestua në tentativë për tu arratisur. Ata që kanë",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T12:58:37+00:00",
-      "dateStr": "18 Aug, 12:58",
-      "isNew": true,
-      "id": "she71787057917"
-    },
-    {
-      "title": "Pesë adoleshentë ndërrojnë jetë pas aksidentit të rëndë! Po lëviznin kundravajtje në autostradë për të marrë pëlqime në rrjetet sociale",
-      "link": "https://shekulli.com.al/2026/08/18/kater-adoleshente-nderrojne-jete-pas-aksidentit-te-rende-po-leviznin-kundravajtje-ne-autostrade-per-te-marre-pelqime-ne-rrjetet-sociale/",
-      "description": "Pesë adoleshentë kanë humbur jetë në një aksident tragjik në Irlandë, pasi makina në të cilën udhëtonin u përplas me një mjet tjetër. Sipas mediave të huaja, makinat janë përplasur ballë për ballë me njëra -tjetrën, pasi mjeti ku udhëtonin adoleshentët ishte në kundravajtje. &#160;Në mjetin e dytë n",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T12:44:49+00:00",
-      "dateStr": "18 Aug, 12:44",
-      "isNew": true,
-      "id": "she81787057089"
-    },
-    {
-      "title": "Mes luftrave dhe krizës së zjarreve, ja ku po i kalojnë pushimet liderët europianë",
-      "link": "https://shekulli.com.al/2026/08/18/mes-luftrave-dhe-krizes-se-zjarreve-ja-ku-po-i-kalojne-pushimet-lideret-europiane/",
-      "description": "Edhe pse mes konflikteve të armatosura, situatës kritike të zjarreve dhe një sërë problematikave të tjera, liderët europianë kanë nisur pushimet duke u larguar pak nga “kostumi” i drejtuesit të shtetit. Po ku po i kalojnë ata pushimet? Ursula von der Leyen Presidentja e Komisionit Europian, Ursula v",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T12:34:39+00:00",
-      "dateStr": "18 Aug, 12:34",
-      "isNew": true,
-      "id": "she91787056479"
+      "id": "she91787058405"
     }
   ]
 }
