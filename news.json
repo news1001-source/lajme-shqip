@@ -1,18 +1,161 @@
 {
-  "lastUpdated": "2026-08-18T18:30:11.997963+00:00",
+  "lastUpdated": "2026-08-18T19:23:11.355505+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
+      "title": "Një dalje e rrallë: Mbretëresha Camilla bën blerje me mbesën Eliza",
+      "link": "https://24-ore.com/nje-dalje-e-rralle-mbreteresha-camilla-ben-blerje-me-mbesen-eliza/",
+      "description": "Mbretëresha Camilla u pa në një dalje blerjesh për femra në Ballater, Skoci, disa milje larg Kështjellës Balmoral, rezidencës private të Mbretit Charles II...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T19:21:35+00:00",
+      "dateStr": "18 Aug, 19:21",
+      "isNew": true,
+      "id": "24 01787080895"
+    },
+    {
+      "title": "Kapet në flagrancë zjarrvënësi në Mirditë, Lamallari thirrje Prokurorisë: Çojeni çështjen deri në fund (VIDEO)",
+      "link": "https://24-ore.com/kapet-ne-flagrance-zjarrvenesi-ne-mirdite-lamallari-thirrje-prokurorise-cojeni-ceshtjen-deri-ne-fund-video/",
+      "description": "Një person është arrestuar në flagrancë nga Policia në Mirditë, pasi dyshohet se ka ndezur qëllimisht disa vatra zjarri në fshatin Gziq të Rrëshenit. Lajmi është bërë i ditur nga ministri i Brendshëm, Besfort Lamallari, i cili ka reaguar përmes një postimi, duke kërkuar që çështja të hetohet deri në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T19:20:43+00:00",
+      "dateStr": "18 Aug, 19:20",
+      "isNew": true,
+      "id": "24 11787080843"
+    },
+    {
+      "title": "Plagoset me thikë një person në Durrës",
+      "link": "https://abcnews.al/plagoset-me-thike-nje-person-ne-durres-2/",
+      "description": "Një i ri ka mbërritur me urgjencë në spitalin e Durrësit, me plagë të shkaktuara nga mjete prerëse. Burime bëjnë me dije se i riu është futur menjëherë në sallën e kirurgjisë, ndërsa ende nuk dihet gjendja e tij shëndetësore. Policia konfirmon për ABC News se ngjarja është regjistruar pak minuta më ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T19:20:36+00:00",
+      "dateStr": "18 Aug, 19:20",
+      "isNew": true,
+      "id": "abc01787080836"
+    },
+    {
+      "title": "Policia zbardh dinamikën e vrasjes së 20-vjeçarit portugez në Ksamil, 11 të arrestuar dhe 2 në kërkim (EMRAT)",
+      "link": "https://24-ore.com/policia-zbardh-dinamiken-e-vrasjes-se-20-vjecarit-portugez-ne-ksamil-11-te-arrestuar-dhe-2-ne-kerkim-emrat/",
+      "description": "Policia ka arrestuar 11 persona dhe ka shpallur në kërkim dy të tjerë në lidhje me vrasjen e 20-vjeçarit portugez në Ksamil, ngjarje e ndodhur në orët e para të mëngjesit të 18 gushtit. Në pranga ka rënë edhe 29-vjeçari S. L., alias S. V., nga Hasi, i dyshuar si autori që ka goditur disa [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T19:20:22+00:00",
+      "dateStr": "18 Aug, 19:20",
+      "isNew": true,
+      "id": "24 21787080822"
+    },
+    {
+      "title": "Franca po heton ndërhyrjen e mundshme ruse në zgjedhjet presidenciale të vitit 2027",
+      "link": "https://24-ore.com/franca-po-heton-nderhyrjen-e-mundshme-ruse-ne-zgjedhjet-presidenciale-te-vitit-2027/",
+      "description": "Sipas raportimeve të mediave lokale, Zyra e Prokurorit Publik të Parisit ka njoftuar se po heton ndërhyrjen e dyshuar të huaj në zgjedhjet presidenciale të vitit të ardhshëm. Zyra e prokurorit tha se hetimi ka të bëjë me fushatat e shpifjes dhe dezinformimit që synojnë kandidatin presidencial të par",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T19:19:57+00:00",
+      "dateStr": "18 Aug, 19:19",
+      "isNew": true,
+      "id": "24 31787080797"
+    },
+    {
+      "title": "Lavrov kërcënon Britaninë: Rrezikon të shihet si pjesë e luftës në Ukrainë",
+      "link": "https://24-ore.com/lavrov-kercenon-britanine-rrezikon-te-shihet-si-pjese-e-luftes-ne-ukraine/",
+      "description": "Ministri i Jashtëm rus Sergei Lavrov tha se Rusia ka të drejtë ta konsiderojë përfshirjen e drejtpërdrejtë të Britanisë në sulmet ndaj territorit rus si pjesëmarrje në luftën në Ukrainë, raportoi agjencia e lajmeve Interfax. Komentet e tij erdhën pas publikimit të një artikulli të Times të shtunën s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T19:19:37+00:00",
+      "dateStr": "18 Aug, 19:19",
+      "isNew": true,
+      "id": "24 41787080777"
+    },
+    {
+      "title": "Rusia po ngre baza sekrete për dronë në distancë goditjeje nga NATO-ja",
+      "link": "https://24-ore.com/rusia-po-ngre-baza-sekrete-per-drone-ne-distance-goditjeje-nga-nato-ja/",
+      "description": "Rusia ka instaluar baza sekrete të afta për të lëshuar dronë të fuqishëm thellë brenda vendeve të NATO-s, sipas një hetimi të Telegraph. Një artikull gazete zbulon prova të dhjetë bazave të Kremlinit me platforma lëshimi të ndërtuara rishtazi për dronët kamikazë më të përparuar me rreze të gjatë vep",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T19:19:22+00:00",
+      "dateStr": "18 Aug, 19:19",
+      "isNew": true,
+      "id": "24 51787080762"
+    },
+    {
+      "title": "MTV VMAs 2026: Madonna dhe Taylor Swift kryesojnë nominimet",
+      "link": "https://24-ore.com/mtv-vmas-2026-madonna-dhe-taylor-swift-kryesojne-nominimet/",
+      "description": "Së fundmi janë shpallur nominimet për MTV Video Music Awards 2026, me Madonna dhe Taylor Swift që kryesojnë listën e artistëve në garë për disa nga çmimet më prestigjioze të muzikës. Ceremonia e këtij viti do të transmetohet drejtpërdrejt më 27 shtator në CBS dhe MTV, ndërsa vëmendja është përqendru",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T19:16:55+00:00",
+      "dateStr": "18 Aug, 19:16",
+      "isNew": true,
+      "id": "24 61787080615"
+    },
+    {
+      "title": "Një thumbim për Travis Barker? Shanna Moakler zbulon titullin e librit të saj",
+      "link": "https://24-ore.com/nje-thumbim-per-travis-barker-shanna-moakler-zbulon-titullin-e-librit-te-saj/",
+      "description": "Shanna Moakler duket se i ka dërguar një mesazh të koduar ish-bashkëshortit të saj, Travis Barker, përmes titullit të librit të saj të ri me kujtime. Modelja 51-vjeçare njoftoi të hënën në Instagram se libri i saj do të titullohet “Blink of an Eye”, një zgjedhje që tërhoqi menjëherë vëmendjen për sh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T19:16:50+00:00",
+      "dateStr": "18 Aug, 19:16",
+      "isNew": true,
+      "id": "24 71787080610"
+    },
+    {
+      "title": "Rezoluta për SPAK-un/ Kuvendi kërkon shmangien e paraburgimeve dhe goditjen e pasurive të korrupsionit",
+      "link": "https://24-ore.com/rezoluta-per-spak-un-kuvendi-kerkon-shmangien-e-paraburgimeve-dhe-goditjen-e-pasurive-te-korrupsionit/",
+      "description": "Mazhoranca socialiste ka miratuar në 23 korrik rezolutën ndaj SPAK-ut të siguruar nga Top Channel, ku ndër të tjera e udhëzon për shmangien e paraburgimeve. Rezoluta, e cila mban firmën e kryeparlamentarit Niko Peleshi, i ka shkuar SPAK dhe i kërkohet që brenda 23 gushtit të hartojë një plan veprimi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T19:16:13+00:00",
+      "dateStr": "18 Aug, 19:16",
+      "isNew": true,
+      "id": "24 81787080573"
+    },
+    {
+      "title": "VIDEO/ E frikshme, Musiala humbet përsëri ndjenjat në fushë në miqësoren e Bayern! Shikoni pamjet tronditëse",
+      "link": "https://24-ore.com/video-e-frikshme-musiala-humbet-perseri-ndjenjat-ne-fushe-ne-miqesoren-e-bayern-shikoni-pamjet-tronditese/",
+      "description": "Dy ditë pasi i ra të fikët në një ndeshje miqësore kundër Leipzig, futbollisti Jamal Musiala pësoi një tjetër goditje shëndetësore. Këtë herë kundër Heidenheim, në një miqësore të Bayern Munich. Lojtari ndërkombëtar gjerman papritmas ra në tokë pa ndjenja, por disa minuta më vonë ai rifitoi vetëdije",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T19:00:54+00:00",
+      "dateStr": "18 Aug, 19:00",
+      "isNew": true,
+      "id": "24 91787079654"
+    },
+    {
+      "title": "Shëngjin/ 74 vjeçe dhe ende në shërbim të turistëve: T’u japim shërbimin më të mirë atyre, po sjellin të ardhura",
+      "link": "https://abcnews.al/shengjin-74-vjece-dhe-ende-ne-sherbim-te-turisteve-tu-japim-sherbimin-me-te-mire-atyre-po-sjellin-te-ardhura/",
+      "description": "Në hyrje të Shëngjinit, mes lëvizjes së turistëve që mbërrijnë çdo ditë në qytetin bregdetar, një 74-vjeçare qëndron e gatshme për t&#8217;i pritur me buzëqeshje. Toni Suli, e cila vite më parë jetoi në New York, sot ia ka kushtuar kohën akomodimit të pushuesve që zgjedhin Shëngjinin për të kaluar p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T18:58:31+00:00",
+      "dateStr": "18 Aug, 18:58",
+      "isNew": true,
+      "id": "abc11787079511"
+    },
+    {
+      "title": "E VRANË TË GJITHË! Policia zbardh ngjarjen te Principotes, turisti u godit nga edhe nga kamarierët, 3 punonjës shteti të punësuar në klub. Bulica ia mbathi",
+      "link": "https://shekulli.com.al/2026/08/18/e-vrane-te-gjithe-policia-zbardh-ngjarjen-te-principotes-turisti-u-godit-nga-edhe-nga-kamarieret-3-punonjes-shteti-te-punesuar-ne-klub-bulica-ia-mbathi/",
+      "description": "Policia ka zbardhur në detaje dinamikën e vrasjes së 20-vjeçarit portugez në Ksamil, ngjarje e ndodhur në orët e para të mëngjesit të 18 gushtit në ambientet e lokalit “Principote” dhe më pas në plazhin “Paradise”. Në përfundim të veprimeve intensive hetimore, 11 persona janë arrestuar, ndërsa dy të",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T18:46:24+00:00",
+      "dateStr": "18 Aug, 18:46",
+      "isNew": true,
+      "id": "she01787078784"
+    },
+    {
       "title": "Vrasja e portugezit në Ksamil, 11 të arrestuar/ Policia: 20-vjeçari u godit me grushte dhe u vra, në kërkim dy persona",
       "link": "https://abcnews.al/vrasja-e-portugezit-ne-ksamil-11-te-arrestuar-policia-20-vjecari-u-godit-me-grushte-dhe-u-vra-ne-kerkim-dy-persona/",
-      "description": "Ksamil, Sarandë Veprime intensive hetimore me metoda speciale të hetimit, të kryera nga strukturat hetimore të Drejtorisë Vendore të Policisë Vlorë dhe Komisariatit të Policisë Sarandë, nën drejtimin e Prokurorisë pranë Gjykatës së Shkallës së Parë të Juridiksionit të Përgjithshëm Sarandë, për dokum",
+      "description": "11 persona janë arrestuar nga policia lidhur me ngjarjen e rëndë të ndodhur në Ksamil, ku u vra një 20-vjeçar portugez. Të arrestuarit janë; Sokrat Lipan alias Sokrat Vata, Nuh Mahmutoglu, dhe Ezgi Perlak, të dy me shtetasi turke, Serxhi Selimi, Ervis Bunci, Ildi Cekani, Murat Zhabina, Miosid Matush",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-08-18T18:23:35+00:00",
       "dateStr": "18 Aug, 18:23",
       "isNew": true,
-      "id": "abc01787077415"
+      "id": "abc21787077415"
     },
     {
       "title": "Plot tetë shekuj mes historisë dhe besimit/ Kisha e Zojës Nunciatë në Lezhë, monument i rrallë i besimit që i ka rezistuar shekujve",
@@ -23,40 +166,7 @@
       "date": "2026-08-18T18:18:51+00:00",
       "dateStr": "18 Aug, 18:18",
       "isNew": true,
-      "id": "abc11787077131"
-    },
-    {
-      "title": "Orhan Murtezani merr detyrën e Ambasadorit dhe Përfaqësuesit të Përhershëm të Maqedonisë së Veriut në NATO",
-      "link": "https://24-ore.com/orhan-murtezani-merr-detyren-e-ambasadorit-dhe-perfaqesuesit-te-perhershem-te-maqedonise-se-veriut-ne-nato/",
-      "description": "Orhan Murtezani nga sot nis detyrën e re si Ambasador dhe Përfaqësues i Përhershëm i Republikës së Maqedonisë së Veriut në NATO. Murtezani, përmes një reagimi publik, tha se detyra e re paraqet një kapitull të ri profesional, por njëkohësisht edhe vazhdim të të njëjtit përkushtim për forcimin e pozi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T18:13:32+00:00",
-      "dateStr": "18 Aug, 18:13",
-      "isNew": true,
-      "id": "24 01787076812"
-    },
-    {
-      "title": "OG Anunoby: Si do të përballet Knicks me pritshmëritë pas titullit dhe çfarë vjen në sezonin 2026-27",
-      "link": "https://24-ore.com/og-anunoby-si-do-te-perballet-knicks-me-pritshmerite-pas-titullit-dhe-cfare-vjen-ne-sezonin-2026-27/",
-      "description": "OG Anunoby u shpreh në mënyrë të qetë se pritshmëritë e jashtme dhe parashikimet nuk do ta ndryshojnë qasjen e ekipit ndërsa Knicks përgatiten të mbrojnë t...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T18:06:49+00:00",
-      "dateStr": "18 Aug, 18:06",
-      "isNew": true,
-      "id": "24 11787076409"
-    },
-    {
-      "title": "Arben Gashi ironizon pas takimit Kurti-Abdixhiku: U mbars mali, polli ni mi",
-      "link": "https://24-ore.com/arben-gashi-ironizon-pas-takimit-kurti-abdixhiku-u-mbars-mali-polli-ni-mi/",
-      "description": "Deputeti i zgjedhur i Lidhjes Demokratike të Kosovës (LDK), Arben Gashi, ka reaguar pas takimit të fundit ndërmjet kryeministrit në detyrë, Albin Kurti, dhe kryetarit të LDK-së, Lumir Abdixhiku. Përmes një postimi, Gashi ka ironizuar deklaratat e bëra pas takimit, duke përdorur shprehjen popullore: ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T18:03:39+00:00",
-      "dateStr": "18 Aug, 18:03",
-      "isNew": true,
-      "id": "24 21787076219"
+      "id": "abc31787077131"
     },
     {
       "title": "Mirditë/ U kap në flagrancë duke ndezur disa vatra zjarri, vihet në pranga 65-vjeçari",
@@ -67,29 +177,7 @@
       "date": "2026-08-18T18:02:11+00:00",
       "dateStr": "18 Aug, 18:02",
       "isNew": true,
-      "id": "abc21787076131"
-    },
-    {
-      "title": "Jessica Alba me xhinse të gërshetuara me prerje që transformuan veshjen",
-      "link": "https://24-ore.com/jessica-alba-me-xhinse-te-gershetuara-me-prerje-qe-transformuan-veshjen/",
-      "description": "Jessica Alba u fotografua në Los Angeles te Steak 48, teksa shkonte për darkë me vajzën e saj. Kombinimi i saj ditë-natë përfshinte elemente sportive dhe p...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T18:01:10+00:00",
-      "dateStr": "18 Aug, 18:01",
-      "isNew": true,
-      "id": "24 31787076070"
-    },
-    {
-      "title": "Bozhinovska: Infrastruktura që po ndërtojmë sot do ta përcaktojë rolin energjetik të vendit nesër",
-      "link": "https://24-ore.com/bozhinovska-infrastruktura-qe-po-ndertojme-sot-do-ta-percaktoje-rolin-energjetik-te-vendit-neser/",
-      "description": "Ministrja e Energjetikës, Minierave dhe Burimeve Minerale, Sanja Bozhinovska, theksoi se infrastruktura energjetike planifikohet për dekada përpara dhe për rrjedha energjetike që tashmë po e ndryshojnë hartën e Evropës. Ajo prezantoi Studimin e parë Kombëtar për Hidrogjenin, i cili nuk është vetëm d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T17:58:44+00:00",
-      "dateStr": "18 Aug, 17:58",
-      "isNew": true,
-      "id": "24 41787075924"
+      "id": "abc41787076131"
     },
     {
       "title": "Trump publikon hartën ku Ngushtica e Hormuzit paraqitet si territor i SHBA",
@@ -100,18 +188,7 @@
       "date": "2026-08-18T17:53:34+00:00",
       "dateStr": "18 Aug, 17:53",
       "isNew": true,
-      "id": "abc31787075614"
-    },
-    {
-      "title": "VIDEO/ Piromani kapet duke vënë zjarret në Mirditë, arrestohet! Lamallari apel drejtësisë: Prokuroria dhe Gjykata t’i sh",
-      "link": "https://24-ore.com/video-piromani-kapet-duke-vene-zjarret-ne-mirdite-arrestohet-lamallari-apel-drejtesise-prokuroria-dhe-gjykata-ti-sh/",
-      "description": "Policia e Shtetit ka arrestuar një të dyshuar si piroman ditën e sotme. Madje në një video të shpërndarë edhe nga ministri i Brendshëm, Besfort Lamallari, theksohet se ky person kishte vendosur 3 vatra zjarri dhe dyshohet për të tjera. Piromani i dyshuar shihet teksa ndez zjarret në zonën e Mirditës",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T17:47:05+00:00",
-      "dateStr": "18 Aug, 17:47",
-      "isNew": true,
-      "id": "24 51787075225"
+      "id": "abc51787075614"
     },
     {
       "title": "Kurti dhe Abdixhiku pajtohen në parim për presidentin e ri: Ka vullnet për marrëveshje",
@@ -122,51 +199,7 @@
       "date": "2026-08-18T17:44:00+00:00",
       "dateStr": "18 Aug, 17:44",
       "isNew": true,
-      "id": "she01787075040"
-    },
-    {
-      "title": "TË GJITHA LLOJET E KARBURANTEVE SHTRENJTOHEN",
-      "link": "https://24-ore.com/te-gjitha-llojet-e-karburanteve-shtrenjtohen/",
-      "description": "Foto: Shutterstock Të gjitha llojet e karburanteve në Mal të Zi do të shtrenjtohen, njoftoi Ministria e Energjisë dhe Minierave. Çmimi i Eurosuper 98 do të rritet me shtatë centë dhe do të kushtojë 1.80 euro për litër. Me shtatë centë do të shtrenjtohet edhe Eurosuper 95, dhe do të kushtojë 1.76 eur",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T17:32:38+00:00",
-      "dateStr": "18 Aug, 17:32",
-      "isNew": true,
-      "id": "24 61787074358"
-    },
-    {
-      "title": "MINISTRIA: DREJTORESHA E SHKOLLËS NË ULQIN U ZGJODH SIPAS MERITËS, JO KOMBËSISË APO POLITIKËS",
-      "link": "https://24-ore.com/ministria-drejtoresha-e-shkolles-ne-ulqin-u-zgjodh-sipas-merites-jo-kombesise-apo-politikes/",
-      "description": "Foto: Qeveria e Malit të Zi / Vlada Crne Gore Ministria e Arsimit, Shkencës dhe Inovacionit ka reaguar ndaj deklaratave të zëvendëskryeministrit dhe kreut të Forumit Shqiptar, Nik Gjeloshaj, lidhur me emërimin e drejtoreshës së Shkollës së Mesme të Përzier “Vëllazërim-bashkim” në Ulqin. Nga ministri",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T17:32:29+00:00",
-      "dateStr": "18 Aug, 17:32",
-      "isNew": true,
-      "id": "24 71787074349"
-    },
-    {
-      "title": "GJELOSHAJ: EMËRIMI I DREJTORESHËS QË NUK FLET GJUHËN SHQIPE ËSHTË PROVOKIM INSTITUCIONAL",
-      "link": "https://24-ore.com/gjeloshaj-emerimi-i-drejtoreshes-qe-nuk-flet-gjuhen-shqipe-eshte-provokim-institucional/",
-      "description": "Foto: Qeveria e Malit të Zi / Vlada Crne Gore Kreu i Forumit Shqiptar, njëherësh zëvendëskryeministër për Politikë Ekonomike dhe ministër i Zhvillimit Ekonomik, Nik Gjeloshaj, ka reaguar kundër vendimit për emërimin e një drejtori të ri në një shkollë të mesme në Ulqin. Gjeloshaj e cilësoi si të pap",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T17:32:23+00:00",
-      "dateStr": "18 Aug, 17:32",
-      "isNew": true,
-      "id": "24 81787074343"
-    },
-    {
-      "title": "6 shenja që mund të tregojnë se trupi juaj ka nevojë për më shumë magnez",
-      "link": "https://24-ore.com/6-shenja-qe-mund-te-tregojne-se-trupi-juaj-ka-nevoje-per-me-shume-magnez/",
-      "description": "Magnezi është kthyer në një nga suplementet më të përfolura në rrjetet sociale, veçanërisht për lidhjen e tij me gjumin, relaksimin dhe rikuperimin. Por përpara se ta shtoni në rutinën tuaj, është e rëndësishme të dini se cilat shenja mund të lidhen me nivele të ulëta të magnezit dhe kur është e nev",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T17:32:03+00:00",
-      "dateStr": "18 Aug, 17:32",
-      "isNew": true,
-      "id": "24 91787074323"
+      "id": "she11787075040"
     },
     {
       "title": "Policia arreston zjarrvënësin në Mirditë/ Ministri Lamallari: Asnjë autor nuk do t’ia hedhë paq",
@@ -177,7 +210,7 @@
       "date": "2026-08-18T17:24:28+00:00",
       "dateStr": "18 Aug, 17:24",
       "isNew": true,
-      "id": "abc41787073868"
+      "id": "abc61787073868"
     },
     {
       "title": "Ekstradimi i vrasësve të Nikulajt/ Gjykata Supreme në Londër pranon apelimin e Shqipërisë",
@@ -188,7 +221,7 @@
       "date": "2026-08-18T17:16:44+00:00",
       "dateStr": "18 Aug, 17:16",
       "isNew": true,
-      "id": "abc51787073404"
+      "id": "abc71787073404"
     },
     {
       "title": "Pamje të rënda/ Aksident me vdekje në Tiranë, i riu në timon përplas një grua në mes të rrugës, ambulanca vonon 30 minuta",
@@ -199,7 +232,7 @@
       "date": "2026-08-18T17:07:07+00:00",
       "dateStr": "18 Aug, 17:07",
       "isNew": true,
-      "id": "she11787072827"
+      "id": "she21787072827"
     },
     {
       "title": "Aksident me vdekje në Tiranë",
@@ -210,7 +243,7 @@
       "date": "2026-08-18T17:02:48+00:00",
       "dateStr": "18 Aug, 17:02",
       "isNew": true,
-      "id": "abc61787072568"
+      "id": "abc81787072568"
     },
     {
       "title": "Përplasen dy skuterë në Vlorë, dy persona përfundojnë në spital",
@@ -221,7 +254,7 @@
       "date": "2026-08-18T17:02:06+00:00",
       "dateStr": "18 Aug, 17:02",
       "isNew": true,
-      "id": "abc71787072526"
+      "id": "abc91787072526"
     },
     {
       "title": "Akuzat mes organizatorëve të protestës, Gent Progni nxjerr pamjet: Grupi i Visuar Dalipit me kokainë dhe hashash në tavolinë",
@@ -232,29 +265,7 @@
       "date": "2026-08-18T16:56:45+00:00",
       "dateStr": "18 Aug, 16:56",
       "isNew": true,
-      "id": "she21787072205"
-    },
-    {
-      "title": "Shqipëria, sanksione Bjellorusisë/ 8 vende i bashkohen paketës së sanskioneve të BE ndaj Minskut",
-      "link": "https://abcnews.al/shqiperia-sanksione-bjellorusise-8-vende-i-bashkohen-paketes-se-sanskioneve-te-be-ndaj-minskut/",
-      "description": "8 vende jashtë Bashkimit Evropian, mes tyre edhe Shqipëria, i janë bashkuar paketës së fundit të sanksioneve të BE-së ndaj Bjellorusisë, për shkak të mbështetjes së Minskut për luftën e Rusisë në Ukrainë. Shqipëria, Bosnjë-Hercegovina, Islanda, Lihtenshtajni, Mali i Zi, Maqedonia e Veriut, Norvegjia",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T16:51:32+00:00",
-      "dateStr": "18 Aug, 16:51",
-      "isNew": true,
-      "id": "abc81787071892"
-    },
-    {
-      "title": "VIDEO/ Zjarr në Çorrush të Mallakastrës, digjen ullinj shekullorë",
-      "link": "https://abcnews.al/video-zjarr-ne-corrush-te-mallakastres-digjen-ullinj-shekullore/",
-      "description": "Një shkëndijë elektrike dyshohet se shkaktoi një zjarri pranë kabinës elektrike në fshatin Çorrush të Mallakastrës. Flakët përshkuan rreth 1 hektar sipërfaqe, ndërsa zjarri dëmtoi mbi 15 pemë ulliri shekullore. Situata u vu nën kontroll brenda disa orësh, duke shmangur përhapjen e mëtejshme të flakë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T16:44:03+00:00",
-      "dateStr": "18 Aug, 16:44",
-      "isNew": true,
-      "id": "abc91787071443"
+      "id": "she31787072205"
     },
     {
       "title": "FOTO/ Marsela Çibukaj dhe Vitmar Basha bëhen prindër për herë të parë, zbulojnë emrin e veçantë të djalit",
@@ -265,7 +276,7 @@
       "date": "2026-08-18T16:41:00+00:00",
       "dateStr": "18 Aug, 16:41",
       "isNew": true,
-      "id": "she31787071260"
+      "id": "she41787071260"
     },
     {
       "title": "UEFA vlerëson arbitrat shqiptarë/ Dy trupa kuqezi gjykojnë në play-off të Conference League",
@@ -276,7 +287,7 @@
       "date": "2026-08-18T16:02:56+00:00",
       "dateStr": "18 Aug, 16:02",
       "isNew": true,
-      "id": "she41787068976"
+      "id": "she51787068976"
     },
     {
       "title": "Vrasja e turistit në Ksamil/ 12 në pranga, mes tyre polici që dyshohet se ndihmoi autorin të largohej dhe një punonjës i burgjeve. Në kërkim pronari i Principotes",
@@ -287,7 +298,7 @@
       "date": "2026-08-18T15:50:34+00:00",
       "dateStr": "18 Aug, 15:50",
       "isNew": true,
-      "id": "she51787068234"
+      "id": "she61787068234"
     },
     {
       "title": "Shqipëria shpenzon për arsimin 2.9% të PBB-së, e fundit në Europë",
@@ -298,7 +309,7 @@
       "date": "2026-08-18T15:28:15+00:00",
       "dateStr": "18 Aug, 15:28",
       "isNew": true,
-      "id": "she61787066895"
+      "id": "she71787066895"
     },
     {
       "title": "“Doja të merrja hakun e vëllait”/ Lihet në burg 52-vjeçari që tentoi të vriste Kërtezin në Elbasan",
@@ -309,7 +320,7 @@
       "date": "2026-08-18T14:27:14+00:00",
       "dateStr": "18 Aug, 14:27",
       "isNew": true,
-      "id": "she71787063234"
+      "id": "she81787063234"
     },
     {
       "title": "Vrasja e Ardian Nikulajt/ Gjykata Supreme në Londër pranon apelimin e Shqipërisë për ekstradimin e grupit të vëzhgimit",
@@ -320,18 +331,7 @@
       "date": "2026-08-18T13:56:34+00:00",
       "dateStr": "18 Aug, 13:56",
       "isNew": true,
-      "id": "she81787061394"
-    },
-    {
-      "title": "“Humbëm pasionin”, ana e panjohur e Guardiolës, momenti kur u rrëfeu lojtarëve divorcin: Po ndahem nga gruaja më e bukur në botë",
-      "link": "https://shekulli.com.al/2026/08/18/humbem-pasionin-ana-e-panjohur-e-guardioles-momenti-kur-u-rrefeu-lojtareve-divorcin-po-ndahem-nga-gruaja-me-e-bukur-ne-bote/",
-      "description": "Një dokumentar i ri për vitet e fundit të Pep Guardiolës te Manchester City zbulon momente të panjohura nga jeta personale dhe profesionale e trajnerit spanjoll. Në një prej skenave më emocionuese, Guardiola u flet lojtarëve për divorcin nga Cristina Serra, me të cilën kishte qenë në një lidhje prej",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T13:25:06+00:00",
-      "dateStr": "18 Aug, 13:25",
-      "isNew": true,
-      "id": "she91787059506"
+      "id": "she91787061394"
     }
   ]
 }
