@@ -1,8 +1,217 @@
 {
-  "lastUpdated": "2026-08-18T08:30:09.686038+00:00",
+  "lastUpdated": "2026-08-18T09:26:41.702201+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Dyshohet se vrau 20-vjeçarin francez në Ksamil, del fotoja e 29-vjeçarit me precedentë penalë në Britani",
+      "link": "https://24-ore.com/dyshohet-se-vrau-20-vjecarin-francez-ne-ksamil-del-fotoja-e-29-vjecarit-me-precedente-penale-ne-britani/",
+      "description": "Sokrat Vata, 29-vjeçari nga Hasi i cili kërkohet nga policia si autori i dyshuar për vrasjen e një turisti francez Miguel Mendes, rreth 20-vjeç në Ksamil, nuk është një emër i panjohur për drejtësinë. Sipas raportimeve, ai rezulton me një të kaluar të pasur kriminale jashtë vendit, ku më parë është ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T09:20:23+00:00",
+      "dateStr": "18 Aug, 09:20",
+      "isNew": true,
+      "id": "24 01787044823"
+    },
+    {
+      "title": "Grabitja e argjendarisë në Kamëz, arrestohet në Qafë-Thanë një nga autorët e dyshuar. Po tentonte të largohej nga vendi",
+      "link": "https://24-ore.com/grabitja-e-argjendarise-ne-kamez-arrestohet-ne-qafe-thane-nje-nga-autoret-e-dyshuar-po-tentonte-te-largohej-nga-vendi/",
+      "description": "Këtë të martë, Policia e Tiranës dhe Komisariati nr. 5 kanë arritur të arrestojnë njërin prej autorëve të dyshuar të grabitjes me armë zjarri në argjendarinë në Paskuqan. Mësohet se, në pranga ka rënë Argys Kalsi 35 vjeç. Burime bëjnë me dije se autori i dyshuar është arrestuar në Qafë Thanë teksa p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T09:20:09+00:00",
+      "dateStr": "18 Aug, 09:20",
+      "isNew": true,
+      "id": "24 11787044809"
+    },
+    {
+      "title": "7 vatra zjarri aktive në vend! Mali i Dajtit, Dibra, Mati, Mirdita dhe Puka me situata më kritike",
+      "link": "https://24-ore.com/7-vatra-zjarri-aktive-ne-vend-mali-i-dajtit-dibra-mati-mirdita-dhe-puka-me-situata-me-kritike/",
+      "description": "Ministria e Mbrojtjes mëngjesin e kësaj të marte ka dhënë informacionin zyrtar mbi situatën e zjarreve në territorin e vendit gjatë 24 orëve të fundit, ku nga 24 vatra të raportuara, 7 prej tyre vijojnë të mbeten aktive dhe 2 të tjera janë nën monitorim. Për përballimin e emergjencave civile janë an",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T09:19:51+00:00",
+      "dateStr": "18 Aug, 09:19",
+      "isNew": true,
+      "id": "24 21787044791"
+    },
+    {
+      "title": "Arrestohet në Levan autori i vrasjes së 20-vjeçarit francez në Ksamil, u kap i fshehur në bagazhin e një makine (VIDEO)",
+      "link": "https://24-ore.com/arrestohet-ne-levan-autori-i-vrasjes-se-20-vjecarit-francez-ne-ksamil-u-kap-i-fshehur-ne-bagazhin-e-nje-makine-video/",
+      "description": "Policia ka arritur të lokalizojë dhe të vërë në pranga Sokrat Vatën, 29-vjeçarin nga Hasi i cili kërkohej si autori i dyshuar për vrasjen e turistit 20-vjeçar francez, ngjarje e ndodhur në orët e para të mëngjesit të kësaj të marte në plazhin e Ksamilit. Sipas raportimeve, kapja e tij u bë e mundur ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T09:19:37+00:00",
+      "dateStr": "18 Aug, 09:19",
+      "isNew": true,
+      "id": "24 31787044777"
+    },
+    {
+      "title": "Zjarret në zonën pyjore në Pukë, terreni i vështirë dhe era favorizojnë flakët! Nis ndërhyrja nga ajri (VIDEO)",
+      "link": "https://24-ore.com/zjarret-ne-zonen-pyjore-ne-puke-terreni-i-veshtire-dhe-era-favorizojne-flaket-nis-nderhyrja-nga-ajri-video/",
+      "description": "Situata e zjarreve në sipërfaqet pyjore të Fushë-Lajës dhe Tërbunit vijon të jetë aktive, ndërsa strukturat shtetërore dhe vendore janë të angazhuara maksimalisht për izolimin dhe shuarjen e vatrave. Sipas njoftimit të Bashkisë Pukë, pas disa ditësh përballjeje me flakët, terreni i vështirë, tempera",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T09:19:24+00:00",
+      "dateStr": "18 Aug, 09:19",
+      "isNew": true,
+      "id": "24 41787044764"
+    },
+    {
+      "title": "Sulmet masive drejt Moskës, kërcënon Rusia: Britania do të paguajë për furnizimin e Ukrainës me dronë",
+      "link": "https://24-ore.com/sulmet-masive-drejt-moskes-kercenon-rusia-britania-do-te-paguaje-per-furnizimin-e-ukraines-me-drone/",
+      "description": "Rusia ka akuzuar Britaninë e Madhe se po “zgjedh qëllimisht përshkallëzimin e krizës në Ukrainë”, pas konfirmimit se dronë të prodhuar në Britani janë përdorur në sulmet ndaj objektivave në Rusi. “Duke vepruar kështu, Mbretëria e Bashkuar po bëhet bashkëpunëtore dhe bashkëpërgjegjëse për krimet e pë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T09:19:11+00:00",
+      "dateStr": "18 Aug, 09:19",
+      "isNew": true,
+      "id": "24 51787044751"
+    },
+    {
+      "title": "Sulmi rus në Kharkiv lë 10 persona të vdekur, Ukraina i përgjigjet Moskës me 620 dronë",
+      "link": "https://24-ore.com/sulmi-rus-ne-kharkiv-le-10-persona-te-vdekur-ukraina-i-pergjigjet-moskes-me-620-drone/",
+      "description": "Një sulm rus në një fshat në rajonin e Kharkiv në verilindje të Ukrainës vrau të paktën 10 persona, tha të martën guvernatori lokal. Sulmi vjen në mes të një rritjeje të vdekjeve civile në luftën katërvjeçare e gjysmë. Forcat ruse “kryen një sulm me raketa në Pechenigy”, një fshat rreth 40 kilometra",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T09:18:57+00:00",
+      "dateStr": "18 Aug, 09:18",
+      "isNew": true,
+      "id": "24 61787044737"
+    },
+    {
+      "title": "Erdogan zhvillon bisedë telefonike me Trumpin, Presidenca turke zbulon diskutimet",
+      "link": "https://24-ore.com/erdogan-zhvillon-bisede-telefonike-me-trumpin-presidenca-turke-zbulon-diskutimet/",
+      "description": "Presidenca turke njoftoi të martën se Recep Tayyip Erdogan zhvilloi një bisedë telefonike me Presidentin e SHBA-së Donald Trump. Gjatë diskutimit, presidenti turk shprehu shpresën se bisedimet SHBA-Iran do të vazhdojnë, duke shtuar se Ankaraja do të vazhdojë të mbështesë përpjekjet për paqe. Sipas p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T09:18:43+00:00",
+      "dateStr": "18 Aug, 09:18",
+      "isNew": true,
+      "id": "24 71787044723"
+    },
+    {
+      "title": "Detaje nga arrestimi i Sokrat Vatës/ U fsheh brenda automjetit të 31-vjeçares turke, në makinë edhe një tjetër person",
+      "link": "https://shekulli.com.al/2026/08/18/detaje-nga-arrestimi-i-sokrat-vates-u-fsheh-brenda-automjetit-te-31-vjecares-turke-ne-makine-edhe-nje-tjeter-person/",
+      "description": "Detaje të reja janë zbardhur në lidhje me ngjarjen e ndodhur në Ksamil, ku një turist francez u vra brutalisht nga Sokrat Vata. Sipas policisë, Vata është arrestuar në aksin rrugor Levan-Fier, teksa ndodhej brenda bagazhit të një automjeti që drejtohej nga një 31-vjeçare turke. Si pasagjer në makinë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T09:18:15+00:00",
+      "dateStr": "18 Aug, 09:18",
+      "isNew": true,
+      "id": "she01787044695"
+    },
+    {
+      "title": "“Sipërmarrja u mbajt larg procesit të Integrimit”, Tabaku: Qeveria duhet t’i kishte ndihmuar me skema financimi për tregun europian",
+      "link": "https://shekulli.com.al/2026/08/18/sipermarrja-u-mbajt-larg-procesit-te-integrimit-tabaku-qeveria-duhet-ti-kishte-ndihmuar-me-skema-financimi-per-tregun-europian/",
+      "description": "TIRANË- Deputetja e Partisë Demokratike, Jorida Tabaku, ka kritikuar qeverinë shqiptare, në lidhje me përgatitjen e munguar ndaj biznesit shqiptar, për tregun europian, në momentin që Shqipëria do të bashkohet me Unionin. Tabaku shkruan se sipërmarrja në Shqipëri u mbajt larg procesit të integrimit,",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T09:13:13+00:00",
+      "dateStr": "18 Aug, 09:13",
+      "isNew": true,
+      "id": "she11787044393"
+    },
+    {
+      "title": "QMK: Pothuaj tërë shteti në zonë me rrezik të lartë nga zjarret",
+      "link": "https://24-ore.com/qmk-pothuaj-tere-shteti-ne-zone-me-rrezik-te-larte-nga-zjarret/",
+      "description": "Sipas indeksit meteorologjik të zjarreve, pothuajse i gjithë territori i Republikës së Maqedonisë së Veriut ndodhet në zonën me rrezik të lartë nga zjarret (ngjyra portokalli). Përjashtim bëjnë Mali Sharr dhe rrethina e Ohrit dhe Resnjës, ku është regjistruar indeks meteorologjik mesatar i rrezikut ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T09:08:06+00:00",
+      "dateStr": "18 Aug, 09:08",
+      "isNew": true,
+      "id": "24 81787044086"
+    },
+    {
+      "title": "7 shenja që trupi juaj po merr shumë pak dritë dielli",
+      "link": "https://24-ore.com/7-shenja-qe-trupi-juaj-po-merr-shume-pak-drite-dielli/",
+      "description": "Mund të flesh mjaftueshëm, të ushqehesh mirë dhe të bësh, pak a shumë, gjithçka siç duhet, por përsëri ta kalosh ditën sikur nuk ke energji. Kur nuk duket se ka ndonjë problem të dukshëm, shumica prej nesh ndalojnë së kërkuari arsyen. E quajmë stres. E quajmë lodhje. E quajmë moshë. Por trupi ynë ës",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T09:03:27+00:00",
+      "dateStr": "18 Aug, 09:03",
+      "isNew": true,
+      "id": "24 91787043807"
+    },
+    {
+      "title": "Arrestimi i Vatës, u gjet i fshehur në bagazhin e një makine në Levan, drejtohej nga vajza që dyshohet se u bë ‘mollë sherri’",
+      "link": "https://shekulli.com.al/2026/08/18/arrestimi-i-vates-u-gjet-i-fshehur-ne-bagazhin-e-nje-makine-ne-levan-drejtohej-nga-vajza-qe-dyshohet-se-u-be-molle-sherri/",
+      "description": "FIER&#8211; SHEKULLI mëson detaje të reja nga arrestimi i 29-vjeçarit Sokrat Vata, në zonën e Levanit në Fier, disa orë pasi vrau më thikë turistin francez Migel Mendes, 20-vjeç. Vata mësohet se ka qenë duke udhëtuar me një makinë që drejtohej nga një vajzë, e cila dyshohet se u bë dhe shkak për vra",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T09:03:13+00:00",
+      "dateStr": "18 Aug, 09:03",
+      "isNew": true,
+      "id": "she21787043793"
+    },
+    {
+      "title": "Aksident në Vlorë! Makina përplas drejtuesin e monopatinës, i riu në gjendje të rëndë",
+      "link": "https://shekulli.com.al/2026/08/18/aksident-ne-vlore-makina-perplas-drejtuesin-e-monopatines-i-riu-ne-gjendje-te-rende/",
+      "description": "Një aksident i rëndë me një të plagosur ka ndodhur paraditen e sotme në Vlorë. Raportohet se një makinë ka përplasur një monopatinë në “Bulevardin e Ri” pranë gjimnazit &#8220;Halim Xhelo&#8221;. Për pasojë, drejtuesi i mjetit elektrik është plagosur dhe është dërguar drejt spitalit.  Në vendngjarje",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T09:02:48+00:00",
+      "dateStr": "18 Aug, 09:02",
+      "isNew": true,
+      "id": "she31787043768"
+    },
+    {
+      "title": "Detaje të reja nga arrestimi i Sokrat Vatës, në automjet ishte edhe një shtetas turk",
+      "link": "https://abcnews.al/detaje-te-reja-nga-arrestimi-i-sokrat-vates-ne-automjet-ishte-edhe-nje-shtetas-turk/",
+      "description": "Të tjera detaje janë zbardhur lidhur me arrestimin e Sokrat Vatës. Sipas informacioneve të fundit, në automjetin ku u gjet Vata, në momentin e ndalimit, drejtuesja ishte një shtetase e huaj, ndërsa në cilësinë e pasagjerit ndodhej një shtetas turk. Vata dyshohet se, përveç angazhimit si roje plazhi ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T08:58:55+00:00",
+      "dateStr": "18 Aug, 08:58",
+      "isNew": true,
+      "id": "abc01787043535"
+    },
+    {
+      "title": "Vdekja e papritur e Hayden Panettiere, reagon për herë të parë ish-partneri Klischko: I tronditur! Vajzës sonë…",
+      "link": "https://shekulli.com.al/2026/08/18/vdekja-e-papritur-e-hayden-panettiere-reagon-per-here-te-pare-ish-partneri-klischko-i-tronditur-vajzes-sone/",
+      "description": "Ish-i fejuari i Hayden Panettiere, Wladimir Klitschko ka reaguar për herë të parë pas ndarjes së papritur nga jeta të aktores. Klitschko ndau një foto familjare ku ai, aktorja e ndjerë dhe vajza e tyre shfaqen së bashku të lumtur, teksa u shpreh se është i tronditur. “Familja jonë po kalon një kohë ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T08:45:31+00:00",
+      "dateStr": "18 Aug, 08:45",
+      "isNew": true,
+      "id": "she41787042731"
+    },
+    {
+      "title": "Telefonata Erdogan-Trump/ Në fokus Irani, Gaza dhe siguria rajonale",
+      "link": "https://abcnews.al/telefonata-erdogan-trump-ne-fokus-irani-gaza-dhe-siguria-rajonale/",
+      "description": "Presidenti turk Recep Tayyip Erdogan i ka bërë thirrje presidentit amerikan Donald Trump që të shfrytëzohet në maksimum rruga diplomatike për uljen e tensioneve mes Shteteve të Bashkuara dhe Iranit. Thirrja u bë gjatë një bisede telefonike mes dy liderëve të zhvilluar të hënën, më 17 gusht, ku në fo",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T08:36:20+00:00",
+      "dateStr": "18 Aug, 08:36",
+      "isNew": true,
+      "id": "abc11787042180"
+    },
+    {
+      "title": "Një incident mund të cënojë gjithë sezonin: Sigurimi që mbron biznesin, klientët dhe reputacionin",
+      "link": "https://abcnews.al/nje-incident-mund-te-cenoje-gjithe-sezonin-sigurimi-qe-mbron-biznesin-klientet-dhe-reputacionin/",
+      "description": "Një sezon i suksesshëm në turizëm, ndërtohet çdo ditë. Një klient i kënaqur lë një vlerësim pozitiv, rikthehet vitin tjetër dhe ua rekomandon eksperiencën të tjerëve. Por mund të ndodhë edhe e kundërta. Një incident çfarëdo, mund të kthehet në një histori që përhapet shpejt dhe të ndikojë në mënyrën",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T08:32:46+00:00",
+      "dateStr": "18 Aug, 08:32",
+      "isNew": true,
+      "id": "abc21787041966"
+    },
+    {
+      "title": "Shteti Bektashi realitet në muajt e ardhshëm! Nga monedha e veçantë tek pasaporta, nisin përgatitjet",
+      "link": "https://shekulli.com.al/2026/08/18/shteti-bektashi-realitet-ne-muajt-e-ardhshem-nga-monedha-e-vecante-tek-pasaporta-nisin-pergatitjet/",
+      "description": "Media franceze “Intelligence Online” i ka kushtuar një artikull idesë së hedhur nga kryeministri Edi Rama për krijimin e shtetit sovran “Urdhri Bektashi” në Tiranë. Sipas medias, tashmë kanë nisur përgatitjet e para dhe drejtuesit e komunitetit po punojnë për strukturat e ardhshme institucionale dhe",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T08:30:31+00:00",
+      "dateStr": "18 Aug, 08:30",
+      "isNew": true,
+      "id": "she51787041831"
+    },
     {
       "title": "Ministri belg i Mbrojtjes zgjedh Shqipërinë për pushimet verore",
       "link": "https://abcnews.al/ministri-belg-i-mbrojtjes-zgjedh-shqiperine-per-pushimet-verore/",
@@ -12,18 +221,7 @@
       "date": "2026-08-18T08:29:19+00:00",
       "dateStr": "18 Aug, 08:29",
       "isNew": true,
-      "id": "abc01787041759"
-    },
-    {
-      "title": "Haxhiu pas takimit me liderët politikë: Shpresoj që partitë të arrijnë marrëveshje për Presidentin",
-      "link": "https://24-ore.com/haxhiu-pas-takimit-me-lideret-politike-shpresoj-qe-partite-te-arrijne-marreveshje-per-presidentin/",
-      "description": "Ushtruesja e detyrës së presidentes së Kosovës, Albulena Haxhiu ka zhvilluar sot një takim konsultativ me liderët e partive politike dhe përfaqësues të komuniteteve jo shumicë, ku është diskutuar çështja e zgjedhjes së Presidentit të vendit. Pas takimit, Haxhiu tha para mediave se qëllimi i konsulti",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T08:27:47+00:00",
-      "dateStr": "18 Aug, 08:27",
-      "isNew": true,
-      "id": "24 01787041667"
+      "id": "abc31787041759"
     },
     {
       "title": "Vrau francezin në Ksamil/ Arrestohet autori i dyshuar i krimit, i fshehur në bagazhin e një makine",
@@ -34,7 +232,7 @@
       "date": "2026-08-18T08:22:04+00:00",
       "dateStr": "18 Aug, 08:22",
       "isNew": true,
-      "id": "abc11787041324"
+      "id": "abc41787041324"
     },
     {
       "title": "Tentoi të ndalonte sherrin mes gruas së dytë dhe fëmijëve të tij, trajneri i njohur përfundon në spital!",
@@ -45,29 +243,7 @@
       "date": "2026-08-18T08:20:25+00:00",
       "dateStr": "18 Aug, 08:20",
       "isNew": true,
-      "id": "she01787041225"
-    },
-    {
-      "title": "Vrasja në Ksamil/ 20-vjeçari u qëllua disa herë me thikë në shpinë e kraharor, zbardhet shkaku i konfliktit me kuksianin",
-      "link": "https://24-ore.com/vrasja-ne-ksamil-20-vjecari-u-qellua-disa-here-me-thike-ne-shpine-e-kraharor-zbardhet-shkaku-i-konfliktit-me-kuksianin/",
-      "description": "Zbardhen detaje nga ngjarja e rëndë në Ksamil, ku humbi jetën i goditur me thikë 20-vjeçari francez Miguel Mendes. Sipas burimeve nga mjeku që e pa trupin në morgun e Sarandës, mësojmë se 20-vjeçari kishte disa goditje me thikë në shpinë dhe në kraharor. Vdekja e tij ka qenë e menjëhershme. Ndërsa ë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T08:17:59+00:00",
-      "dateStr": "18 Aug, 08:17",
-      "isNew": true,
-      "id": "24 11787041079"
-    },
-    {
-      "title": "IZRAEL – Kushner: Përparime në bisedimet për Gazën, por ende pa marrëveshje",
-      "link": "https://24-ore.com/izrael-kushner-perparime-ne-bisedimet-per-gazen-por-ende-pa-marreveshje/",
-      "description": "TEL AVIV, 18 gusht /ATSH-DPA/ – I dërguari special i SHBA-së, Jared Kushner, zhvilloi bisedime në Jerusalem me kryeministrin izraelit Benjamin Netanyahu, ku palët deklaruan se kishin arritur marrëveshje për disa hapa drejt çarmatimit të Hamasit dhe zbatimit të planit amerikan për Gazën pas luftës. M",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T08:16:04+00:00",
-      "dateStr": "18 Aug, 08:16",
-      "isNew": true,
-      "id": "24 21787040964"
+      "id": "she61787041225"
     },
     {
       "title": "Vrau turistin francez në Ksamil, arrestohet në Levan Sokrat Vata, ishte fshehur në bagazhin e një makine",
@@ -78,7 +254,7 @@
       "date": "2026-08-18T08:14:51+00:00",
       "dateStr": "18 Aug, 08:14",
       "isNew": true,
-      "id": "she11787040891"
+      "id": "she71787040891"
     },
     {
       "title": "“Meta” përballë gjyqit në SHBA, 29 shtete kërkojnë miliarda dollarë për dëmet në rrjete sociale ndaj të miturve",
@@ -89,7 +265,7 @@
       "date": "2026-08-18T08:10:52+00:00",
       "dateStr": "18 Aug, 08:10",
       "isNew": true,
-      "id": "abc21787040652"
+      "id": "abc51787040652"
     },
     {
       "title": "“Si t’i themi fëmijëve që dikush është vrarë”/ Pushuesit flasin të tronditur pas krimit brutal në Ksamil: Na vjen keq",
@@ -100,7 +276,7 @@
       "date": "2026-08-18T08:10:08+00:00",
       "dateStr": "18 Aug, 08:10",
       "isNew": true,
-      "id": "she21787040608"
+      "id": "she81787040608"
     },
     {
       "title": "Studim: Gjenerata Z e trajton inteligjencën artificiale si mik",
@@ -111,7 +287,7 @@
       "date": "2026-08-18T08:09:29+00:00",
       "dateStr": "18 Aug, 08:09",
       "isNew": true,
-      "id": "abc31787040569"
+      "id": "abc61787040569"
     },
     {
       "title": "Motori i skafit mori flakë/ Ngjarja në Porto Palermo. Dy të plagosurit, me djegie 50 % po trajtohen në QSUT",
@@ -122,7 +298,7 @@
       "date": "2026-08-18T08:03:43+00:00",
       "dateStr": "18 Aug, 08:03",
       "isNew": true,
-      "id": "abc41787040223"
+      "id": "abc71787040223"
     },
     {
       "title": "Vrasja në Ksamil/ Sokrat Vata ishte i punësuar te “Principotes”, qëlloi disa herë me thikë turistin francez, shkak ngacmimi i një vajze",
@@ -133,29 +309,7 @@
       "date": "2026-08-18T08:03:22+00:00",
       "dateStr": "18 Aug, 08:03",
       "isNew": true,
-      "id": "she31787040202"
-    },
-    {
-      "title": "BDI: Ndërtimi pa leje në tokë shtetërore rifillon, Qyteti i Shkupit dhe komuna e Çairit heshtin",
-      "link": "https://24-ore.com/bdi-ndertimi-pa-leje-ne-toke-shteterore-rifillon-qyteti-i-shkupit-dhe-komuna-e-cairit-heshtin/",
-      "description": "BDI: Ndërtimi pa leje në tokë shtetërore rifillon, Qyteti i Shkupit dhe komuna e Çairit heshtin",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T08:02:38+00:00",
-      "dateStr": "18 Aug, 08:02",
-      "isNew": true,
-      "id": "24 31787040158"
-    },
-    {
-      "title": "Zjarret në vend, 7 vatra ende aktive, flakët përfshijnë Dajtin, Lurën, Matin dhe Pukën",
-      "link": "https://24-ore.com/zjarret-ne-vend-7-vatra-ende-aktive-flaket-perfshijne-dajtin-luren-matin-dhe-puken/",
-      "description": "Gjatë 24 orëve të fundit janë raportuar 24 vatra zjarri në të gjithë vendin, nga të cilat 7 vijojnë të jenë aktive dhe 2 të tjera janë në monitorim. Sipas Ministrisë së Mbrojtjes, për përballimin e situatës janë angazhuar 472 forca operacionale dhe 28 automjete zjarrfikëse. Forcat e Armatosura kanë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T08:01:53+00:00",
-      "dateStr": "18 Aug, 08:01",
-      "isNew": true,
-      "id": "24 41787040113"
+      "id": "she91787040202"
     },
     {
       "title": "Tërmet me magnitudë 6.1 godet ishullin indonezian",
@@ -166,40 +320,7 @@
       "date": "2026-08-18T07:56:28+00:00",
       "dateStr": "18 Aug, 07:56",
       "isNew": true,
-      "id": "abc51787039788"
-    },
-    {
-      "title": "Emri/ Grabitja në mes të ditës e argjendarisë në Kamëz, arrestohet një prej autorëve! Po tentonte të largohej nga Qafë-Thana",
-      "link": "https://shekulli.com.al/2026/08/18/emri-grabitja-ne-mes-te-dites-e-argjendarise-ne-kamez-arrestohet-nje-prej-autoreve-po-tentonte-te-largohej-nga-qafe-thana/",
-      "description": "Është arrestuar një prej autorëve të grabitjes së një argjendarie në zonën e Kamzës, dy javë më parë. Policia ka njoftuar se në pranga ka rënë 35-vjeçari Argys Kalci, i cili u kap teksa po tentonte të largohej nga vendi në pikën kufitare të Qafë-Thanës. Ngjarja ndodhi më 5 gusht, kur dy persona të m",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T07:53:01+00:00",
-      "dateStr": "18 Aug, 07:53",
-      "isNew": true,
-      "id": "she41787039581"
-    },
-    {
-      "title": "Grabitja me kallashnikov në argjendarinë e Paskuqanit, arrestohet njëri prej autorëve, ja si u kap",
-      "link": "https://24-ore.com/grabitja-me-kallashnikov-ne-argjendarine-e-paskuqanit-arrestohet-njeri-prej-autoreve-ja-si-u-kap/",
-      "description": "Policia e Tiranës dhe Komisariati nr. 5 kanë arrestuar njërin prej autorëve të dyshuar të grabitjes me armë zjarri në argjendarinë ‘Luani’ në Paskuqan. Në pranga ka rënë Argys Kalsi. Burime bëjnë me dije se autori i dyshuar është arrestuar në Qafë Thanë teksa po mundohej të largohej nga vendi. Në mo",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T07:48:10+00:00",
-      "dateStr": "18 Aug, 07:48",
-      "isNew": true,
-      "id": "24 51787039290"
-    },
-    {
-      "title": "“Fashistët” që protesta i zbuloi vetëm pasi u kthyen kundër saj",
-      "link": "https://24-ore.com/fashistet-qe-protesta-i-zbuloi-vetem-pasi-u-kthyen-kunder-saj/",
-      "description": "Nga Bjorn Runa Pas përplajses fizike mes disa prej protestuesve të dielën, duket se ka nisur një fushatë online për t’i denoncuar personat e përfshirë në atë incident, duke i etiketuar si njerëz të dhunshëm e me prirje fashiste, edhe pse çuditërisht asnjë prej denoncuesve nuk është në gjendje t’i pë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T07:47:26+00:00",
-      "dateStr": "18 Aug, 07:47",
-      "isNew": true,
-      "id": "24 61787039246"
+      "id": "abc81787039788"
     },
     {
       "title": "Grabitja e argjendarisë, arrestimi i një prej autorëve të dyshuar/ Policia jep detaje nga operacioni",
@@ -210,128 +331,7 @@
       "date": "2026-08-18T07:47:02+00:00",
       "dateStr": "18 Aug, 07:47",
       "isNew": true,
-      "id": "abc61787039222"
-    },
-    {
-      "title": "UKRAINË – 10 të vrarë pas një sulmi ajror rus në verilindje",
-      "link": "https://24-ore.com/ukraine-10-te-vrare-pas-nje-sulmi-ajror-rus-ne-verilindje/",
-      "description": "KIEV, 18 gusht /ATSH-AFP-DPA/ – Një sulm ajror rus në verilindje të Ukrainës ka vrarë të paktën 10 persona dhe ka plagosur tetë të tjerë, tha të martën kreu i administratës ushtarake të rajonit të Kharkiv, Oleg Synegubov. ”Sulmi ndodhi në një lokalitet rreth 60 kilometra nga qyteti i Kharkivit”, tha",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T07:45:56+00:00",
-      "dateStr": "18 Aug, 07:45",
-      "isNew": true,
-      "id": "24 71787039156"
-    },
-    {
-      "title": "NP “Ujësjellësi dhe Kanalizimi”: Uji në Shkup është i sigurt për pije",
-      "link": "https://24-ore.com/np-ujesjellesi-dhe-kanalizimi-uji-ne-shkup-eshte-i-sigurt-per-pije-2/",
-      "description": "Uji në territorin e Shkupit është i sigurt për pije, ka treguar raporti laboratorik javor për cilësinë dhe sigurinë e ujit për pije, njoftoi sot në mëngjes Ndërmarrja Publike “Ujësjellësi dhe Kanalizimi” – Shkup. Raporti është marrë nga analizat e zbatuara në Sektorin për Kontroll Sanitar, i cili ng",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T07:43:27+00:00",
-      "dateStr": "18 Aug, 07:43",
-      "isNew": true,
-      "id": "24 81787039007"
-    },
-    {
-      "title": "Situata e zjarreve në vend/ 24 vatra të raportuara në 24 orët e fundit, 7 mbeten aktive",
-      "link": "https://abcnews.al/situata-e-zjarreve-ne-vend-24-vatra-te-raportuara-ne-24-oret-e-fundit-7-mbeten-aktive/",
-      "description": "Gjatë 24 orëve të fundit në vend janë raportuar 24 vatra zjarri, ndërsa 7 prej tyre vijojnë të jenë aktive dhe 2 të tjera janë në monitorim. Për përballimin e situatës janë angazhuar 472 forca operacionale dhe 28 automjete zjarrfikëse. Forcat e Armatosura kanë mbështetur operacionet me 129 efektivë,",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T07:42:22+00:00",
-      "dateStr": "18 Aug, 07:42",
-      "isNew": true,
-      "id": "abc71787038942"
-    },
-    {
-      "title": "Atentati i dështuar në Elbasan “çmend” edhe meksikanët! Ja çfarë shkruhet për ngjarjen e rëndë",
-      "link": "https://shekulli.com.al/2026/08/18/atentati-i-deshtuar-ne-elbasan-cmend-edhe-meksikanet-ja-cfare-shkruhet-per-ngjarjen-e-rende/",
-      "description": "Atentati i dështuar, i ndodhur disa ditë më parë në Elbasan, duket se ka bërë bujë përtej oqeanit Atlantik, deri në Meksikë. Një nga mediat më të njohura meksikane “Azteca” ka publikuar videon e ngjarjes, ku shihet Poli Boriçi duke i vendosur armën në kokë Ermir Kërtezit. “Një burrë i shpëtoi vdekje",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T07:40:56+00:00",
-      "dateStr": "18 Aug, 07:40",
-      "isNew": true,
-      "id": "she51787038856"
-    },
-    {
-      "title": "Grabitja e argjendarisë në Paskuqan/ Kapet njëri prej autorëve, tentoi të largohej nga Shqipëria",
-      "link": "https://abcnews.al/grabitja-e-argjendarise-ne-paskuqan-kapet-njeri-prej-autoreve-tentoi-te-largohej-nga-shqiperia/",
-      "description": "PASKUQAN&#8211; Policia e Tiranës ka vënë në pranga njërin prej autorëve të dyshuar të grabitjes me armë zjarri në argjendarinë në Paskuqan. Në pranga ka rënë Argys Kalsi, që sipas informacioneve është arrestuar në Qafë Thanë, teksa po mundohej të largohej nga vendi. Në momentin që ai ka tentuar të ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T07:38:48+00:00",
-      "dateStr": "18 Aug, 07:38",
-      "isNew": true,
-      "id": "abc81787038728"
-    },
-    {
-      "title": "Munguan PDK, LDK e Aleanca, takimi i Haxhiut me kryetarët e partive tjera – fotografi",
-      "link": "https://24-ore.com/munguan-pdk-ldk-e-aleanca-takimi-i-haxhiut-me-kryetaret-e-partive-tjera-fotografi/",
-      "description": "Ushtruesja e detyrës së Presidentes së Kosovës, Albulena Haxhiu, ka pritur në takim sot kryetarët e partive parlamentare për të diskutuar për siç është thënë çështjen e Presidentit. Haxhiu u ka dërguar ftesë partive parlamentare, por jo të gjitha i janë përgjigjur pozitivisht. PDK, LDK, e Aleanca ka",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T07:37:41+00:00",
-      "dateStr": "18 Aug, 07:37",
-      "isNew": true,
-      "id": "24 91787038661"
-    },
-    {
-      "title": "Vrasja e francezit në Ksamil/ U qëllua disa herë me thikë, sherri dyshohet për një vajzë",
-      "link": "https://abcnews.al/vrasja-e-francezit-ne-ksamil-u-qellua-disa-here-me-thike-sherri-dyshohet-per-nje-vajze/",
-      "description": "KSAMIL- Detaje nga ngjarja e rëndë në Ksamil ku humbi jetën i goditur me thikë 20-vjeçari francez Miguel Mendes. Sipas mjekut, që e pa trupin në morgun e Sarandës,  20-vjeçari kishte disa goditje me thikë në shpinë dhe në kraharor. Vdekja e tij ka qenë e menjëhershme. Ndërsa është identifikuar autor",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T07:32:00+00:00",
-      "dateStr": "18 Aug, 07:32",
-      "isNew": true,
-      "id": "abc91787038320"
-    },
-    {
-      "title": "Tmerr brenda shkollës së mesme! Adoleshenti qëllon për vdekje nxënësin e më pas vret veten",
-      "link": "https://shekulli.com.al/2026/08/18/tmerr-brenda-shkolles-se-mesme-adoleshenti-qellon-per-vdekje-nxenesin-e-me-pas-vret-veten/",
-      "description": "Një ngjarje e rëndë ka ndodhur në Filipine ku dy adoleshentë kanë humbur jetën. Sipas mediave të huaja, ngjarja ka ndodhur në Zamboanga, teksa mes viktimave është dhe vetë autori i krimit. Adoleshenti hapi zjarr në drejtim të shokëve të klasës së tij, në një shkollë të mesme katolike. Plumbat kapën ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T07:31:51+00:00",
-      "dateStr": "18 Aug, 07:31",
-      "isNew": true,
-      "id": "she61787038311"
-    },
-    {
-      "title": "Pamjet e rënda/ Trupi i turistit francez ende i shtrirë pranë shezlloneve, Policia në kërkim të Sokrat Vatës",
-      "link": "https://shekulli.com.al/2026/08/18/pamjet-e-renda-trupi-i-turistit-francez-ende-i-shtrire-prane-shezlloneve-policia-ne-kerkim-te-sokrat-vates/",
-      "description": "KSAMIL&#8211; Trupi i pajetë i 20-vjeçarit Migel Mendes, vijon që të jetë pranë zonës së plazhit në Ksamil, ku u gjet mëngjesin e sotëm, ndërsa grupi hetimor mbledh provat me qëllim zbardhjen e ngjarjes së rëndë, që trondit sigurinë e këtij sezoni turistik. Ngjarja e rëndë ka ndodhur në orët e para ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T07:26:40+00:00",
-      "dateStr": "18 Aug, 07:26",
-      "isNew": true,
-      "id": "she71787038000"
-    },
-    {
-      "title": "Video/ Aksident në Maliq! Ambulanca përplaset me një tjetër mjet, pamjet nga vendngjarja",
-      "link": "https://shekulli.com.al/2026/08/18/video-aksident-ne-maliq-ambulanca-perplaset-me-nje-tjeter-mjet-pamjet-nga-vendngjarja/",
-      "description": "Një aksident i rëndë ka ndodhur mëngjesin e sotëm në Maliq, ku është përfshirë edhe një autoambulancë. Mësohet se ngjarja ka ndodhur rreth orës 05:00 të mëngjesit, në afërsi të fshatit Sovjan. Autoambulanca është përplasur me një tjetër mjet dhe për pasojë &#160;ka mbetur i plagosur drejtuesi i mjet",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T07:19:32+00:00",
-      "dateStr": "18 Aug, 07:19",
-      "isNew": true,
-      "id": "she81787037572"
-    },
-    {
-      "title": "I dënuar me 5 vite burg në Angli për trafik droge, kush është 29-vjeçari i dyshuar për vrasjen në Ksamil",
-      "link": "https://shekulli.com.al/2026/08/18/i-denuar-me-5-vite-burg-ne-angli-per-trafik-droge-kush-eshte-29-vjecari-i-dyshuar-per-vrasjen-ne-ksamil/",
-      "description": "29-vjeçari Sokrat Vata, i dyshuar për vrasjen e 20-vjeçarit francez Migel Mendes në Ksamil, rezulton të ketë një të kaluar kriminale në Britaninë e Madhe, ku është dënuar me 5 vite burg për trafik droge dhe vepra të tjera penale. Vata, banues në Has, është personi që Policia dyshon se ka qëndruar pa",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T06:48:32+00:00",
-      "dateStr": "18 Aug, 06:48",
-      "isNew": true,
-      "id": "she91787035712"
+      "id": "abc91787039222"
     }
   ]
 }
