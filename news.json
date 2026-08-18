@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-18T00:56:51.551183+00:00",
+  "lastUpdated": "2026-08-18T02:14:49.833041+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Dodgers mposhtin Rockies 7-1, Ohtani shënon homerin e 28-të të sezonit",
+      "link": "https://24-ore.com/dodgers-mposhtin-rockies-7-1-ohtani-shenon-homerin-e-28-te-te-sezonit/",
+      "description": "Los Angeles Dodgers fituan 7-1 ndaj Colorado Rockies në sfidën e 17 gushtit 2026. Skuadra e Los Angeles-it regjistroi shtatë pikë me shtatë goditje dhe pa...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T02:11:17+00:00",
+      "dateStr": "18 Aug, 02:11",
+      "isNew": true,
+      "id": "24 01787019077"
+    },
+    {
+      "title": "Ketel Marte vendoset në listën e kufizuar para ndeshjes në Fenway Park",
+      "link": "https://24-ore.com/ketel-marte-vendoset-ne-listen-e-kufizuar-para-ndeshjes-ne-fenway-park/",
+      "description": "Arizona Diamondbacks njoftuan të hënën se mesfushori i dytë, Ketel Marte, u vendos në listën e kufizuar përpara ndeshjes kundër Boston Red Sox në Fenway Pa...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T01:25:40+00:00",
+      "dateStr": "18 Aug, 01:25",
+      "isNew": true,
+      "id": "24 11787016340"
+    },
+    {
+      "title": "Mathew Barzal zbulon dy finalistët për konkursin e fanellës së tretë të Islanders",
+      "link": "https://24-ore.com/mathew-barzal-zbulon-dy-finalistet-per-konkursin-e-fanelles-se-trete-te-islanders/",
+      "description": "Mathew Barzal prezantoi dy finalistët që do të vendosin në raundin përfundimtar të votimit për fanellën e tretë të New York Islanders. Lojtari shfaqi dy di...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T01:22:04+00:00",
+      "dateStr": "18 Aug, 01:22",
+      "isNew": true,
+      "id": "24 21787016124"
+    },
     {
       "title": "Chicago Cubs fitojnë 2-0 ndaj Chicago White Sox në Wrigley Field",
       "link": "https://24-ore.com/chicago-cubs-fitojne-2-0-ndaj-chicago-white-sox-ne-wrigley-field/",
@@ -12,7 +45,7 @@
       "date": "2026-08-18T00:42:05+00:00",
       "dateStr": "18 Aug, 00:42",
       "isNew": true,
-      "id": "24 01787013725"
+      "id": "24 31787013725"
     },
     {
       "title": "Red Sox fitojnë 2-0 ndaj Diamondbacks në ndeshjen e 17 gushtit 2026",
@@ -23,7 +56,7 @@
       "date": "2026-08-18T00:06:20+00:00",
       "dateStr": "18 Aug, 00:06",
       "isNew": true,
-      "id": "24 11787011580"
+      "id": "24 41787011580"
     },
     {
       "title": "Avokati i Jeanie Buss mohon se familja do të shesë pjesën e Lakers te Bob Iger dhe Josh Kushner",
@@ -34,7 +67,7 @@
       "date": "2026-08-17T23:21:21+00:00",
       "dateStr": "17 Aug, 23:21",
       "isNew": true,
-      "id": "24 21787008881"
+      "id": "24 51787008881"
     },
     {
       "title": "Pirates të Pittsburgh përballë Tigers të Detroit, 17 gusht 2026 — përmbledhje para ndeshjes",
@@ -45,7 +78,7 @@
       "date": "2026-08-17T22:36:51+00:00",
       "dateStr": "17 Aug, 22:36",
       "isNew": true,
-      "id": "24 31787006211"
+      "id": "24 61787006211"
     },
     {
       "title": "“Po riparonim motorin e skafit, mori flakë benzina”, flet një nga të plagosurit në Porto Palermo",
@@ -56,7 +89,7 @@
       "date": "2026-08-17T22:18:38+00:00",
       "dateStr": "17 Aug, 22:18",
       "isNew": true,
-      "id": "24 41787005118"
+      "id": "24 71787005118"
     },
     {
       "title": "PAMJE/ Momentet pas shpërthimit të skafit në Porto Palermo, qytetarët u vijnë në ndihmë të plagosurve",
@@ -67,7 +100,7 @@
       "date": "2026-08-17T22:18:25+00:00",
       "dateStr": "17 Aug, 22:18",
       "isNew": true,
-      "id": "24 51787005105"
+      "id": "24 81787005105"
     },
     {
       "title": "17 Gushti, “Dita e Maces së Zezë”: Supersticioni i fatit të keq mbetet në të kaluarën",
@@ -78,7 +111,7 @@
       "date": "2026-08-17T21:46:39+00:00",
       "dateStr": "17 Aug, 21:46",
       "isNew": true,
-      "id": "24 61787003199"
+      "id": "24 91787003199"
     },
     {
       "title": "“Protesta, në rrugë pa krye”/ Beqiri: Pritet arrestimi i Berishës për 21 janarin, ka dëshmitar okular për vrasjet në Tropojë",
@@ -92,28 +125,6 @@
       "id": "abc01787002654"
     },
     {
-      "title": "Rrëfimi prekës i Avni Deharit për humbjen e dy djemve",
-      "link": "https://24-ore.com/rrefimi-prekes-i-avni-deharit-per-humbjen-e-dy-djemve/",
-      "description": "Deputeti i Kuvendit të Kosovës, Avni Dehari, ka folur për herë të parë në një rrëfim emocional për humbjen e dy djemve të tij, Arbnorit dhe Astritit. Në një intervistë në emisionin “Pressing One”, Dehari tha se ka qenë shumë i afërt me të dy djemtë dhe se humbja e tyre ka qenë një goditje [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T21:33:20+00:00",
-      "dateStr": "17 Aug, 21:33",
-      "isNew": true,
-      "id": "24 71787002400"
-    },
-    {
-      "title": "Philadelphia Phillies – Miami Marlins në Citizens Bank Park, 17 gusht 2026",
-      "link": "https://24-ore.com/philadelphia-phillies-miami-marlins-ne-citizens-bank-park-17-gusht-2026/",
-      "description": "Philadelphia Phillies dhe Miami Marlins u përballën më 17 gusht 2026 në Citizens Bank Park të Filadelfias. Ndeshja nisi me J. Junk (6-7, 4.41 ERA) për Marl...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T21:15:40+00:00",
-      "dateStr": "17 Aug, 21:15",
-      "isNew": true,
-      "id": "24 81787001340"
-    },
-    {
       "title": "Taksia përplas për vdekje 66-vjeçarin/ Pamjet tregojnë viktimën që po ecte në trotuar kur u godit",
       "link": "https://abcnews.al/taksia-perplas-per-vdekje-66-vjecarin-pamjet-tregojne-viktimen-qe-po-ecte-ne-trotuar-kur-u-godit/",
       "description": "Ky është momenti tragjik ku një 66-vjeçar humbi jetën pasi u përplas nga një taksi, ndërsa ishte duke ecur në trotuar. Ngjarja ndodhi gjatë paradites të së hënës, në lagjen nr. 13, në Durrës. Viktima, Fezi Dine, ishte duke ecur me një tjetër person kur u godit. Në trotuar kishte edhe këmbësorë të tj",
@@ -123,17 +134,6 @@
       "dateStr": "17 Aug, 21:06",
       "isNew": true,
       "id": "abc11787000818"
-    },
-    {
-      "title": "Del videoja, ja momenti i shpërthimit të motorit të skafit ku u plagosën 4 persona",
-      "link": "https://24-ore.com/del-videoja-ja-momenti-i-shperthimit-te-motorit-te-skafit-ku-u-plagosen-4-persona/",
-      "description": "Ky është momenti kur shpërtheu motori i një skafi në det, në zonën e Porto Palermos në Vlorë, ku mbetën të plagosur 4 persona. Të plagosurit janë Mateo Merdanaj, Aleks Doda, Xhemal Ismailaj dhe Ardinant Qaziu. Sipas informacioneve paraprake, ngjarja ka ndodhur në momentin kur personat po punonin për",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T21:02:35+00:00",
-      "dateStr": "17 Aug, 21:02",
-      "isNew": true,
-      "id": "24 91787000555"
     },
     {
       "title": "Objekti i panjohur shkel hapësirën ajrore të Moldavisë",
