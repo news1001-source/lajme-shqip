@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-18T04:29:53.352773+00:00",
-  "totalSources": 3,
-  "totalNews": 30,
+  "lastUpdated": "2026-08-18T05:23:31.922384+00:00",
+  "totalSources": 2,
+  "totalNews": 20,
   "news": [
+    {
+      "title": "Mot me vranësira, vende-vende reshje shiu e rritje e përkohshme e shpejtësisë së erës",
+      "link": "https://24-ore.com/mot-me-vranesira-vende-vende-reshje-shiu-e-rritje-e-perkohshme-e-shpejtesise-se-eres/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot me diell dhe vranësira, të cilat gjatë ditës, në vende të caktuara, mund të sjellin reshje shiu dhe shkarkime rrufesh. IHK njofton se në zonat me zhvillim konvektiv mund të ketë rritje të përkohshme të shpejtësisë së erës. Te",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T05:18:21+00:00",
+      "dateStr": "18 Aug, 05:18",
+      "isNew": true,
+      "id": "24 01787030301"
+    },
     {
       "title": "Dwayne ‘The Rock’ Johnson shpallet Disney Legend në D23",
       "link": "https://24-ore.com/dwayne-the-rock-johnson-shpallet-disney-legend-ne-d23/",
@@ -12,7 +23,7 @@
       "date": "2026-08-18T03:36:30+00:00",
       "dateStr": "18 Aug, 03:36",
       "isNew": true,
-      "id": "24 01787024190"
+      "id": "24 11787024190"
     },
     {
       "title": "Zhvillime të fundit në WWE: Solo Sikoa, pas kontratës së Bayley dhe Aalyah Mysterio në Performance Center",
@@ -23,7 +34,7 @@
       "date": "2026-08-18T02:55:57+00:00",
       "dateStr": "18 Aug, 02:55",
       "isNew": true,
-      "id": "24 11787021757"
+      "id": "24 21787021757"
     },
     {
       "title": "Valkyries në avantazh 33–25 ndaj Dallas Wings me 4:23 minuta në pjesën e dytë",
@@ -34,7 +45,7 @@
       "date": "2026-08-18T02:51:21+00:00",
       "dateStr": "18 Aug, 02:51",
       "isNew": true,
-      "id": "24 21787021481"
+      "id": "24 31787021481"
     },
     {
       "title": "Zdeno Chara organizon një ndeshje lamtumire në Trencin për miqtë dhe ish-shokët",
@@ -45,7 +56,7 @@
       "date": "2026-08-18T02:46:37+00:00",
       "dateStr": "18 Aug, 02:46",
       "isNew": true,
-      "id": "24 31787021197"
+      "id": "24 41787021197"
     },
     {
       "title": "Dodgers mposhtin Rockies 7-1, Ohtani shënon homerin e 28-të të sezonit",
@@ -56,7 +67,7 @@
       "date": "2026-08-18T02:11:17+00:00",
       "dateStr": "18 Aug, 02:11",
       "isNew": true,
-      "id": "24 41787019077"
+      "id": "24 51787019077"
     },
     {
       "title": "Ketel Marte vendoset në listën e kufizuar para ndeshjes në Fenway Park",
@@ -67,7 +78,7 @@
       "date": "2026-08-18T01:25:40+00:00",
       "dateStr": "18 Aug, 01:25",
       "isNew": true,
-      "id": "24 51787016340"
+      "id": "24 61787016340"
     },
     {
       "title": "Mathew Barzal zbulon dy finalistët për konkursin e fanellës së tretë të Islanders",
@@ -78,7 +89,7 @@
       "date": "2026-08-18T01:22:04+00:00",
       "dateStr": "18 Aug, 01:22",
       "isNew": true,
-      "id": "24 61787016124"
+      "id": "24 71787016124"
     },
     {
       "title": "Chicago Cubs fitojnë 2-0 ndaj Chicago White Sox në Wrigley Field",
@@ -89,7 +100,7 @@
       "date": "2026-08-18T00:42:05+00:00",
       "dateStr": "18 Aug, 00:42",
       "isNew": true,
-      "id": "24 71787013725"
+      "id": "24 81787013725"
     },
     {
       "title": "Red Sox fitojnë 2-0 ndaj Diamondbacks në ndeshjen e 17 gushtit 2026",
@@ -100,51 +111,7 @@
       "date": "2026-08-18T00:06:20+00:00",
       "dateStr": "18 Aug, 00:06",
       "isNew": true,
-      "id": "24 81787011580"
-    },
-    {
-      "title": "Avokati i Jeanie Buss mohon se familja do të shesë pjesën e Lakers te Bob Iger dhe Josh Kushner",
-      "link": "https://24-ore.com/avokati-i-jeanie-buss-mohon-se-familja-do-te-shese-pjesen-e-lakers-te-bob-iger-dhe-josh-kushner/",
-      "description": "Avokati i Jeanie Buss i ka dërguar një letër avokatëve të familjes së saj, duke mohuar se ajo ka ndërmend të shesë pjesën e saj në Los Angeles Lakers te Bo...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T23:21:21+00:00",
-      "dateStr": "17 Aug, 23:21",
-      "isNew": true,
-      "id": "24 91787008881"
-    },
-    {
-      "title": "“Protesta, në rrugë pa krye”/ Beqiri: Pritet arrestimi i Berishës për 21 janarin, ka dëshmitar okular për vrasjet në Tropojë",
-      "link": "https://abcnews.al/protesta-ne-rruge-pa-krye-beqiri-pritet-arrestimi-i-berishes-per-21-janarin-ka-deshmitar-okular-per-vrasjet-ne-tropoje/",
-      "description": "Avokati Idajet Beqiri thotë protesta në bulevard, është futur në një rrugë pa krye. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Beqiri u shpreh se qytetarët duhet të protestojnë për faktin se kreu i PD, Sali Berisha, nuk po dënohet për krimet që ka bërë. Beqiri shtoi se ka përfundu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T21:37:34+00:00",
-      "dateStr": "17 Aug, 21:37",
-      "isNew": true,
-      "id": "abc01787002654"
-    },
-    {
-      "title": "Taksia përplas për vdekje 66-vjeçarin/ Pamjet tregojnë viktimën që po ecte në trotuar kur u godit",
-      "link": "https://abcnews.al/taksia-perplas-per-vdekje-66-vjecarin-pamjet-tregojne-viktimen-qe-po-ecte-ne-trotuar-kur-u-godit/",
-      "description": "Ky është momenti tragjik ku një 66-vjeçar humbi jetën pasi u përplas nga një taksi, ndërsa ishte duke ecur në trotuar. Ngjarja ndodhi gjatë paradites të së hënës, në lagjen nr. 13, në Durrës. Viktima, Fezi Dine, ishte duke ecur me një tjetër person kur u godit. Në trotuar kishte edhe këmbësorë të tj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T21:06:58+00:00",
-      "dateStr": "17 Aug, 21:06",
-      "isNew": true,
-      "id": "abc11787000818"
-    },
-    {
-      "title": "Objekti i panjohur shkel hapësirën ajrore të Moldavisë",
-      "link": "https://abcnews.al/objekti-i-panjohur-shkel-hapesiren-ajrore-te-moldavise/",
-      "description": "Një objekt i paidentifikuar ka hyrë në hapësirën ajrore të Republikës së Moldavisë mbrëmjen e 17 gushtit, ndërsa pak më vonë autoritetet raportuan një shpërthim në një zonë pranë fshatit Talmaza, në rrethin Ștefan Vodă. Sipas mediave moldave, të cituara nga European Pravda, objekti u zbulua nga sist",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T20:31:12+00:00",
-      "dateStr": "17 Aug, 20:31",
-      "isNew": true,
-      "id": "abc21786998672"
+      "id": "24 91787011580"
     },
     {
       "title": "Analiza/ A është veriu i Kosovës gati për reduktimin e KFOR-it?",
@@ -158,28 +125,6 @@
       "id": "she01786998348"
     },
     {
-      "title": "VIDEO/ Skafi në det, momenti nga shpërthimi i motorit ku u plagosën 4 persona",
-      "link": "https://abcnews.al/video-skafi-ne-det-momenti-nga-shperthimi-i-motorit-ku-u-plagosen-4-persona/",
-      "description": "Ky është momenti kur shpërtheu motori i një skafi në det, në zonën e Porto Palermos në Vlorë, ku mbetën të plagosur 4 persona. Të plagosurit janë Mateo Merdanaj, Aleks Doda, Xhemal Ismailaj dhe Ardinant Qaziu. Sipas informacioneve paraprake, ngjarja ka ndodhur në momentin kur personat po punonin për",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T20:08:52+00:00",
-      "dateStr": "17 Aug, 20:08",
-      "isNew": true,
-      "id": "abc31786997332"
-    },
-    {
-      "title": "Shpërthimi në Vlorë, një prej të plagosurve: Motori mori flakë nga benzina që ishte derdhur",
-      "link": "https://abcnews.al/shperthimi-ne-vlore-nje-prej-te-plagosurve-motori-mori-flake-nga-benzina-qe-ishte-derdhur/",
-      "description": "Katër persona kanë pësuar djegie të shumta në trup, si pasojë e shpërthimit të motorit të një skafi në Porto Palermo të Vlorës. Një prej të plagosurve, tha se shkak i shpërthimit ka qenë benzina që gjendej në skaf. Ai u shpreh se po bënin riparime në motor. &#8220;Po i bënim shërbim. Mori flakë nga ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T19:39:46+00:00",
-      "dateStr": "17 Aug, 19:39",
-      "isNew": true,
-      "id": "abc41786995586"
-    },
-    {
       "title": "Zjarri në skaf në Porto Palermo, identifikohen 4 të plagosurit, nisen me urgjencë drejt Tiranës",
       "link": "https://shekulli.com.al/2026/08/17/zjarri-ne-skaf-ne-porto-palermo-identifikohen-4-te-plagosurit-nisen-me-urgjence-drejt-tiranes/",
       "description": "Katër personat e plagosur nga zjarri që përfshiu një skaf në Porto Palermo janë identifikuar si Mateo Merdanaj, Aleks Doda, Xhemal Ismailaj dhe Ardinant Qaziu. Të katër ndodheshin në skaf gjatë punimeve për riparimin e motorit, kur mjeti u përfshi nga flakët. Njëri prej të plagosurve ka pësuar djegi",
@@ -191,28 +136,6 @@
       "id": "she11786994938"
     },
     {
-      "title": "Trump: Është ide e shkëlqyer që Ngushtica e Hormuzit të bëhet territor i SHBA",
-      "link": "https://abcnews.al/trump-eshte-ide-e-shkelqyer-qe-ngushtica-e-hormuzit-te-behet-territor-i-shba/",
-      "description": "Presidenti amerikan Donald Trump ka deklaruar se ideja që Ngushtica e Hormuzit të bëhet territor i Shteteve të Bashkuara është një propozim “i shkëlqyer”, duke theksuar se SHBA aktualisht ushtron kontroll të plotë mbi këtë rrugë strategjike detare. Trump u pyet për deklaratat e tij të javës së kalua",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T19:25:34+00:00",
-      "dateStr": "17 Aug, 19:25",
-      "isNew": true,
-      "id": "abc51786994734"
-    },
-    {
-      "title": "Edicioni Qendror me Juli Krisafi, (17/08/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-17-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T19:03:36+00:00",
-      "dateStr": "17 Aug, 19:03",
-      "isNew": true,
-      "id": "abc61786993416"
-    },
-    {
       "title": "E rëndë në Porto Palermo/ Po riparonin motorin e skafit, pësojnë djegie 4 persona, dërgohen me urgjencë drejt spitalit",
       "link": "https://shekulli.com.al/2026/08/17/e-rende-ne-porto-palermo-shperthen-ne-flake-skafi-lendohen-4-persona/",
       "description": "PORTO PALERMO- Një ngjarje e rëndë ka ndodhur në Porto Palermo, ku si pasojë e rrjedhjes së benzinës nga motori i një skafi, 4 persona kanë mbetur të dëmtuar. Burime bëjnë me dije se shpërthimi ka ndodhur pas një rrjedhjeje të benzinës, e cila më pas është ndezur, duke lënë të plagosur personat që p",
@@ -222,39 +145,6 @@
       "dateStr": "17 Aug, 19:03",
       "isNew": true,
       "id": "she21786993415"
-    },
-    {
-      "title": "“Trupi i verës bëhet në dimër”, instruktori rrëfen sekretet e palestrës: Disa vijnë edhe vetëm për foto",
-      "link": "https://abcnews.al/trupi-i-veres-behet-ne-dimer-instruktori-rrefen-sekretet-e-palestres-disa-vijne-edhe-vetem-per-foto/",
-      "description": "Trajneri i fitnesit, Remil Peqini thotë se stërvitja për trupin nuk mund të jetë thjesht në një sezon, por duhet vazhdimësi. Për “Summer Time Show”, në ABC News, Peqini u shpreh se në palestër ka njerëz që vijnë edhe vetëm për foto. “Njerëzit mendojnë se do bëjnë trup brenda një muaji, e gjitha ësht",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T18:53:04+00:00",
-      "dateStr": "17 Aug, 18:53",
-      "isNew": true,
-      "id": "abc71786992784"
-    },
-    {
-      "title": "Nga Mianmari në Vlorë për të punuar, 20-vjeçarja: Më mungon familja, por do vijoj të qëndroj në Shqipëri",
-      "link": "https://abcnews.al/nga-mianmari-ne-vlore-per-te-punuar-20-vjecarja-me-mungon-familja-por-do-vijoj-te-qendroj-ne-shqiperi/",
-      "description": "Mia, 20-vjeçarja nga Myanmar, prej dy vitesh jeton e punon në Shqipëri, konkretisht në Vlorë. Gjuhën shqipe thotë se e ka përvetësuar duke punuar. Për “Summer Time Show”, në ABC News, ajo shprehet se i pëlqen Shqipëria dhe se do të vijojë të qëndrojë këtu. “Gjuhën shqipe e kam mësuar duke punuar. Më",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T18:45:31+00:00",
-      "dateStr": "17 Aug, 18:45",
-      "isNew": true,
-      "id": "abc81786992331"
-    },
-    {
-      "title": "Vlorë/ Shpërthen motori i një skafi, pësojnë djegie 4 persona. Dy prej tyre transportohen drejt Tiranës",
-      "link": "https://abcnews.al/vlore-shperthen-motori-i-nje-skafi-pesojne-djegie-4-persona-dy-prej-tyre-transportohen-drejt-tiranes/",
-      "description": "Katër persona kanë pësuar djegie në trup si pasojë e një shpërthimi të ndodhur në Porto Palermo, ku dyshohet se një rrjedhje benzine ka shkaktuar përfshirjen në flakë të motorit të një skafi. Të plagosurit janë Mateo Merdanaj, Aleks Doda, Xhemal Ismailaj dhe Ardinant Qaziu. Sipas informacioneve para",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T18:43:03+00:00",
-      "dateStr": "17 Aug, 18:43",
-      "isNew": true,
-      "id": "abc91786992183"
     },
     {
       "title": "“Paranoja” e Xi Jinping! Ja rreziqet e të rënit në dashuri me një të huaj si anëtar i Partisë Komuniste në Kinë",
