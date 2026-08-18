@@ -1,8 +1,151 @@
 {
-  "lastUpdated": "2026-08-18T20:17:31.034254+00:00",
+  "lastUpdated": "2026-08-18T21:18:14.885442+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Indonezia tronditet nga pasgoditjet, mbi 2 mijë lëkundje pas tërmetit me magnitudë 7.7",
+      "link": "https://abcnews.al/indonezia-tronditet-nga-pasgoditjet-mbi-2-mije-lekundje-pas-termetit-me-magnitude-7-7/",
+      "description": "Indonezia po përballet me një aktivitet të fortë sizmik pas tërmetit me magnitudë 7,7, që goditi vendin të shtunën. Sipas mediave lokale, deri tani janë regjistruar 2.119 pasgoditje, ndërsa autoritetet paralajmërojnë se lëkundjet mund të vazhdojnë edhe për tre deri në katër javë. Agjencia indonezian",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T21:12:08+00:00",
+      "dateStr": "18 Aug, 21:12",
+      "isNew": true,
+      "id": "abc01787087528"
+    },
+    {
+      "title": "Një Guilherme në formë, Houston Dynamo synon të vërtetojë statusin e pretendentit",
+      "link": "https://24-ore.com/nje-guilherme-ne-forme-houston-dynamo-synon-te-vertetoje-statusin-e-pretendentit/",
+      "description": "Guilherme po kalon një formë të shkëlqyer te Houston Dynamo këtë sezon. Sulmuesi brazilian, nën statusin e lojtarit të caktuar (Designated Player), shënoi...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:02:04+00:00",
+      "dateStr": "18 Aug, 21:02",
+      "isNew": true,
+      "id": "24 01787086924"
+    },
+    {
+      "title": "Konflikt brenda The Bloodline: Reigns, Sikoa dhe LA Knight përplasen në WWE Raw",
+      "link": "https://24-ore.com/konflikt-brenda-the-bloodline-reigns-sikoa-dhe-la-knight-perplasen-ne-wwe-raw/",
+      "description": "Gjatë një episode të nxehtë, Reigns i hoqi Solo syzet dhe i shkeli ato, duke e pyetur pse Sikoa po e shikonte në sy në vend që të kërkonte falje. Pa parala...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:01:10+00:00",
+      "dateStr": "18 Aug, 21:01",
+      "isNew": true,
+      "id": "24 11787086870"
+    },
+    {
+      "title": "Frank Beard, bateristi legjendar i ZZ Top, ndahet nga jeta në moshën 77-vjeçare",
+      "link": "https://24-ore.com/frank-beard-bateristi-legjendar-i-zz-top-ndahet-nga-jeta-ne-moshen-77-vjecare/",
+      "description": "– Bota e muzikës rock është në zi pas ndarjes nga jeta të Frank Beard, bateristit legjendar të grupit amerikan ZZ Top, në moshën 77-vjeçare. Beard ndërroi jetë në fermën e tij në Richmond, Teksas, ku ndodhej nën kujdes paliativ dhe ishte i rrethuar nga familjarët. Lajmi u konfirmua nga Zyra e Mjekës",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:00:33+00:00",
+      "dateStr": "18 Aug, 21:00",
+      "isNew": true,
+      "id": "24 21787086833"
+    },
+    {
+      "title": "PEKIN – Kina prezanton robotin humanoid “Superman” me shpejtësi rekord të vrapimit dhe kërcimit",
+      "link": "https://24-ore.com/pekin-kina-prezanton-robotin-humanoid-superman-me-shpejtesi-rekord-te-vrapimit-dhe-kercimit/",
+      "description": "PEKIN, 18 gusht /ATSH – AA/ – Kompania kineze e robotikës Unitree prezantoi një prototip të ri humanoid për të cilin thotë se mund të vrapojë më shpejt se njeriu me shpejtësinë më të madhe të regjistruar në sprint dhe të kërcejë 2 metra nga vendi ku qëndron në këmbë. Unitree Robotics tha se roboti, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:00:15+00:00",
+      "dateStr": "18 Aug, 21:00",
+      "isNew": true,
+      "id": "24 31787086815"
+    },
+    {
+      "title": "Kartat sportive më të vlefshme të viteve ’90: pesë shitjet rekord dhe kartat e vlerësuara",
+      "link": "https://24-ore.com/kartat-sportive-me-te-vlefshme-te-viteve-90-pese-shitjet-rekord-dhe-kartat-e-vleresuara/",
+      "description": "Vitet 1990 njihen shpesh si epoka e ‘‘Junk Wax’’, kur prodhimi masiv i kartave sportive uli vlerën e shumicës së tyre. Megjithatë, dekada solli edhe disa p...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T20:52:07+00:00",
+      "dateStr": "18 Aug, 20:52",
+      "isNew": true,
+      "id": "24 41787086327"
+    },
+    {
+      "title": "Capitals synojnë të rinovojnë Leonard dhe Sourdif për të shmangur ofertat e jashtme sezonin tjetër",
+      "link": "https://24-ore.com/capitals-synojne-te-rinovojne-leonard-dhe-sourdif-per-te-shmangur-ofertat-e-jashtme-sezonin-tjeter/",
+      "description": "Washingtoni ka nisur bisedimet kontraktuale me sulmuesin Ryan Leonard dhe synon që të arrijë marrëveshje përpara se ata të bëhen të drejtues të kufizuar (R...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T20:50:52+00:00",
+      "dateStr": "18 Aug, 20:50",
+      "isNew": true,
+      "id": "24 51787086252"
+    },
+    {
+      "title": "Justin dhe Hailey Bieber shkëmbejnë një puthje gjatë ndeshjes Dodgers–Brewers",
+      "link": "https://24-ore.com/justin-dhe-hailey-bieber-shkembejne-nje-puthje-gjate-ndeshjes-dodgers-brewers/",
+      "description": "Justin dhe Hailey Bieber ishin mysafirë në stadium të dielën mbrëma për të ndjekur përballjen mes Los Angeles Dodgers dhe Milwaukee Brewers. Justin publiko...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T20:46:00+00:00",
+      "dateStr": "18 Aug, 20:46",
+      "isNew": true,
+      "id": "24 61787085960"
+    },
+    {
+      "title": "Trump: Nuk po negociojmë dhe nuk ka plan për bisedime me Iranin",
+      "link": "https://abcnews.al/trump-nuk-po-negociojme-dhe-nuk-ka-plan-per-bisedime-me-iranin/",
+      "description": "Presidenti amerikan, Donald Trump ka deklaruar se nuk ka bisedime të planifikuara me Iranin, për t’i dhënë fund luftimeve. Përmes një postimi ne rrjetet sociale, Trump theksoi se bllokada detare amerikane në Ngushticën e Hormuzit do të mbetet në fuqi edhe në vijim. Shefi i Shtëpisë së Bardhë nënvizo",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T20:41:24+00:00",
+      "dateStr": "18 Aug, 20:41",
+      "isNew": true,
+      "id": "abc11787085684"
+    },
+    {
+      "title": "Fluks i lartë në Morinë! Mijëra kosovarë drejt bregdetit shqiptar, krijohet trafik në kufi",
+      "link": "https://24-ore.com/fluks-i-larte-ne-morine-mijera-kosovare-drejt-bregdetit-shqiptar-krijohet-trafik-ne-kufi/",
+      "description": "Në pikën e përbashkët kufitare të Morinit, fluksi i lëvizjeve të qytetarëve dhe mjeteve është pothuajse i njëjtë si gjatë fundjavës, por edhe në ditët e zakonshme. Mesa duket, qytetarët e Kosovës po shfrytëzojnë ditët e mbetura të këtij sezoni veror për të pushuar në bregdetin shqiptar. Edhe mëngjes",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T20:33:22+00:00",
+      "dateStr": "18 Aug, 20:33",
+      "isNew": true,
+      "id": "24 71787085202"
+    },
+    {
+      "title": "FOKUS – SHBA vendos sanksione ndaj kryetares dhe një zyrtari të Gjykatës Ndërkombëtare Penale",
+      "link": "https://24-ore.com/fokus-shba-vendos-sanksione-ndaj-kryetares-dhe-nje-zyrtari-te-gjykates-nderkombetare-penale/",
+      "description": "UASHINGTON, 18 gusht /ATSH -AA/- SHBA-ja vendosi të martën sanksione ndaj kryetares së Gjykatës Ndërkombëtare Penale (GJPN), Tomoko Akane, dhe zyrtarit Abdoulaye Seye. Akane, shtetase japoneze që shërben si kryetare e GJPN-së që nga viti 2024, dhe Seye, shtetas senegalez, u përfshinë në Listën e Sht",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T20:30:15+00:00",
+      "dateStr": "18 Aug, 20:30",
+      "isNew": true,
+      "id": "24 81787085015"
+    },
+    {
+      "title": "Vrasja e turistit në Ksamil, Fevziu: Kjo është katastrofë, jemi të këqinjtë e vetes",
+      "link": "https://shekulli.com.al/2026/08/18/vrasja-e-turistit-ne-ksamil-fevziu-kjo-eshte-katastrofe-jemi-te-keqinjte-e-vetes/",
+      "description": "Gazetari Blendi Fevziu ka reaguar pas vrasjes së turistit 20-vjeçar në Ksamil, duke e cilësuar ngjarjen si një goditje të rëndë për imazhin e turizmit shqiptar. Përmes një reagimi publik, Fevziu u shpreh se problemi nuk qëndron vetëm te ngjarja e rëndë, por edhe te mënyra se si shqiptarët sillen me ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T20:29:40+00:00",
+      "dateStr": "18 Aug, 20:29",
+      "isNew": true,
+      "id": "she01787084980"
+    },
+    {
+      "title": "Komiteti Disiplinor i MLS gjobit Surridge, Falcón dhe disa lojtarë pas Ditës së Ndeshjeve 20",
+      "link": "https://24-ore.com/komiteti-disiplinor-i-mls-gjobit-surridge-falcon-dhe-disa-lojtare-pas-dites-se-ndeshjeve-20/",
+      "description": "Komiteti Disiplinor i MLS ka shqiptuar gjoba ndaj disa lojtarëve pas Ditës së Ndeshjeve 20 të sezonit 2026, pas ndeshjeve të zhvilluara më 15 gusht.Siç rap...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T20:20:49+00:00",
+      "dateStr": "18 Aug, 20:20",
+      "isNew": true,
+      "id": "24 91787084449"
+    },
     {
       "title": "Edicioni Qendror me Juli Krisafi, (18/08/2026)",
       "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-18-08-2026/",
@@ -12,40 +155,7 @@
       "date": "2026-08-18T20:14:05+00:00",
       "dateStr": "18 Aug, 20:14",
       "isNew": true,
-      "id": "abc01787084045"
-    },
-    {
-      "title": "Montreal Canadiens nderojnë Carey Price më 10 nëntor, një ditë pas intron në Hockey Hall of Fame",
-      "link": "https://24-ore.com/montreal-canadiens-nderojne-carey-price-me-10-nentor-nje-dite-pas-intron-ne-hockey-hall-of-fame/",
-      "description": "Montreal Canadiens do të nderojnë Carey Price me një ceremoni në akull në Bell Centre më 10 nëntor, para ndeshjes kundër Minnesota Wild. Ceremonia vjen një...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T20:09:23+00:00",
-      "dateStr": "18 Aug, 20:09",
-      "isNew": true,
-      "id": "24 01787083763"
-    },
-    {
-      "title": "15 rookie të NFL që ia vlejnë një zgjedhje në raundet e fundit të fantasy 2026",
-      "link": "https://24-ore.com/15-rookie-te-nfl-qe-ia-vlejne-nje-zgjedhje-ne-raundet-e-fundit-te-fantasy-2026/",
-      "description": "Sezona e draftimeve të fantasy-së po afron, dhe për menaxherët që kërkojnë vlera në raundet e fundit, kjo klasë rookie ka disa emra që mund të japin kthim...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T20:08:12+00:00",
-      "dateStr": "18 Aug, 20:08",
-      "isNew": true,
-      "id": "24 11787083692"
-    },
-    {
-      "title": "Margot Robbie në Paris: korseti i zi dhe fundi midi në një look të thjeshtë e romantik",
-      "link": "https://24-ore.com/margot-robbie-ne-paris-korseti-i-zi-dhe-fundi-midi-ne-nje-look-te-thjeshte-e-romantik/",
-      "description": "Margot Robbie u shfaq në Paris me një kombinim totalisht të zi: një bustier me linja klasike dhe një fund midi me detaje florale, që krijonte një imazh të...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T20:06:12+00:00",
-      "dateStr": "18 Aug, 20:06",
-      "isNew": true,
-      "id": "24 21787083572"
+      "id": "abc21787084045"
     },
     {
       "title": "Tirana Live me Emilian Islami, (18/08/2026)",
@@ -56,7 +166,7 @@
       "date": "2026-08-18T20:05:09+00:00",
       "dateStr": "18 Aug, 20:05",
       "isNew": true,
-      "id": "abc11787083509"
+      "id": "abc31787083509"
     },
     {
       "title": "Zjarret/ Ministria e Mbrojtjes: 4 vatra ende aktive, nuk ka rrezik për zonat e banuara",
@@ -67,29 +177,7 @@
       "date": "2026-08-18T19:55:17+00:00",
       "dateStr": "18 Aug, 19:55",
       "isNew": true,
-      "id": "abc21787082917"
-    },
-    {
-      "title": "Isufi zbulon detaje nga nata e vrasjes së Kadri Zekës dhe vëllezërve Gërvalla: E di që i vrau UDB-ja",
-      "link": "https://24-ore.com/isufi-zbulon-detaje-nga-nata-e-vrasjes-se-kadri-zekes-dhe-vellezerve-gervalla-e-di-qe-i-vrau-udb-ja/",
-      "description": "Saime Isufi, veprimtare dhe bashkëshortja e heroit të kombit, Kadri Zeka, ka rrëfyer detaje nga nata kur ai u vra së bashku me veprimtarët Jusuf Gërvalla dhe Bardhosh Gërvalla në Gjermani. Në një intervistë në “Debat Plus”, në kuadër të ciklit të intervistave dhe emisioneve ekskluzive “Dosjet”, Isuf",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T19:49:25+00:00",
-      "dateStr": "18 Aug, 19:49",
-      "isNew": true,
-      "id": "24 31787082565"
-    },
-    {
-      "title": "SHBA – Trump poston një fotografi që e përshkruan Ngushticën e Hormuzit si “territor amerikan”",
-      "link": "https://24-ore.com/shba-trump-poston-nje-fotografi-qe-e-pershkruan-ngushticen-e-hormuzit-si-territor-amerikan/",
-      "description": "UASHINGTON, 18 gusht /ATSH- AA/- Presidenti i SHBA-së, Donald Trump, të martën shpërndau një imazh ku Ngushtica e Hormuzit paraqitet si territor i SHBA-së, disa ditë pasi tha se do ta shpallte këtë rrugë ujore strategjike pjesë të SHBA-së. Trump publikoi në llogarinë e tij në rrjetet sociale një ima",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T19:46:06+00:00",
-      "dateStr": "18 Aug, 19:46",
-      "isNew": true,
-      "id": "24 41787082366"
+      "id": "abc41787082917"
     },
     {
       "title": "Emiratet e Bashkuara Arabe në alarm, zbulohet kërcënim raketor ndaj vendit",
@@ -100,7 +188,7 @@
       "date": "2026-08-18T19:45:39+00:00",
       "dateStr": "18 Aug, 19:45",
       "isNew": true,
-      "id": "abc31787082339"
+      "id": "abc51787082339"
     },
     {
       "title": "Vëllai i Princeshës Diana publikon librin “Swan Song: Diana, Motra ime”: Dua t’i rrëfej botës të vërtetën",
@@ -111,62 +199,7 @@
       "date": "2026-08-18T19:42:32+00:00",
       "dateStr": "18 Aug, 19:42",
       "isNew": true,
-      "id": "she01787082152"
-    },
-    {
-      "title": "Rrezikoi të mbytej në pishinë, përmirësohet gjendja e sulmuesit të Cagliarit",
-      "link": "https://24-ore.com/rrezikoi-te-mbytej-ne-pishine-permiresohet-gjendja-e-sulmuesit-te-cagliarit/",
-      "description": "Gjendja e sulmuesit skuadrës sarde, i cili pësoi një aksident fatkeq në pishinë, po përmirësohet. Spitali “Santissima Annunziata” në Sassari jep lajmin e mirë: “Yael Trepy, futbollisti i Cagliarit që për pak sa nuk u mbyt në një pishinë, është shkëputur nga aparati i frymëmarrjes artificiale dhe ka ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T19:39:38+00:00",
-      "dateStr": "18 Aug, 19:39",
-      "isNew": true,
-      "id": "24 51787081978"
-    },
-    {
-      "title": "Vrasja e turistit portugez në Ksamil, zbardhen emrat e të arrestuarve",
-      "link": "https://24-ore.com/vrasja-e-turistit-portugez-ne-ksamil-zbardhen-emrat-e-te-arrestuarve/",
-      "description": "Janë zbardhur emrat e personave të cilët kanë përfunduar në pranga në lidhje me vrasjen e turistit portugez, që u masakrua nga goditjet me thikë në Ksamil nga autori Sokrat Vata. Bëhet fjalë për shtetasit : Sokrat Lipan alias Sokrat Vata Nuh Mahmutoglu, dhe Ezgi Perlak, të dy me shtetasi turke Serxh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T19:33:53+00:00",
-      "dateStr": "18 Aug, 19:33",
-      "isNew": true,
-      "id": "24 61787081633"
-    },
-    {
-      "title": "Durrës/ I riu plagoset me mjet prerës pas një sherri, dërgohet me urgjencë në spital",
-      "link": "https://24-ore.com/durres-i-riu-plagoset-me-mjet-preres-pas-nje-sherri-dergohet-me-urgjence-ne-spital/",
-      "description": "Një i ri ka mbërritur me urgjencë në spitalin e Durrësit, me plagë të shkaktuara nga mjete prerëse. Burime bëjnë me dije se i riu është futur menjëherë në sallën e kirurgjisë, ndërsa ende nuk dihet gjendja e tij shëndetësore. Policia konfirmon për ABC News se ngjarja është regjistruar pak minuta më ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T19:33:38+00:00",
-      "dateStr": "18 Aug, 19:33",
-      "isNew": true,
-      "id": "24 71787081618"
-    },
-    {
-      "title": "Jaylen Brown shpjegon ndikimin e pasurisë së NBA-së dhe streset që sjell",
-      "link": "https://24-ore.com/jaylen-brown-shpjegon-ndikimin-e-pasurise-se-nba-se-dhe-streset-qe-sjell/",
-      "description": "Jaylen Brown thotë se aftësitë e tij në basketboll janë kthyer në një karrierë shumë fitimprurëse, por ai e njeh mirë faktin që të ardhurat e mëdha sjellin...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T19:30:59+00:00",
-      "dateStr": "18 Aug, 19:30",
-      "isNew": true,
-      "id": "24 81787081459"
-    },
-    {
-      "title": "“E ka dërguar UDB-ja me detyrë”- Zbulohet çfarë kishte deklaruar Suzana Gërvalla për gruan e Kadri Zekës",
-      "link": "https://24-ore.com/e-ka-derguar-udb-ja-me-detyre-zbulohet-cfare-kishte-deklaruar-suzana-gervalla-per-gruan-e-kadri-zekes/",
-      "description": "“Më vonë mësuam se kjo quhet Saime Isufi (Jusufi), është nga fshati Gjyreshefc i Gjilanit dhe se flitet që e ka dërguar UBD-a me detyrë”, këto fjalë gjenden në një dokument në dosjen e Jusuf Gërvallës, të cilën Sigurimi i Shtetit Shqiptar e mbante për të. Këto pretendime i ka bë hiç më pak se [&#823",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T19:29:45+00:00",
-      "dateStr": "18 Aug, 19:29",
-      "isNew": true,
-      "id": "24 91787081385"
+      "id": "she11787082152"
     },
     {
       "title": "Vlorë/ Dyshime për eksploziv në një furgon, forcat e policisë në vendin e ngjarjes",
@@ -177,7 +210,7 @@
       "date": "2026-08-18T19:27:48+00:00",
       "dateStr": "18 Aug, 19:27",
       "isNew": true,
-      "id": "abc41787081268"
+      "id": "abc61787081268"
     },
     {
       "title": "Plagoset me thikë një person në Durrës",
@@ -188,7 +221,7 @@
       "date": "2026-08-18T19:20:36+00:00",
       "dateStr": "18 Aug, 19:20",
       "isNew": true,
-      "id": "abc51787080836"
+      "id": "abc71787080836"
     },
     {
       "title": "Shëngjin/ 74 vjeçe dhe ende në shërbim të turistëve: T’u japim shërbimin më të mirë atyre, po sjellin të ardhura",
@@ -199,7 +232,7 @@
       "date": "2026-08-18T18:58:31+00:00",
       "dateStr": "18 Aug, 18:58",
       "isNew": true,
-      "id": "abc61787079511"
+      "id": "abc81787079511"
     },
     {
       "title": "E VRANË TË GJITHË! Policia zbardh ngjarjen te Principotes, turisti u godit nga edhe nga kamarierët, 3 punonjës shteti të punësuar në klub. Bulica ia mbathi",
@@ -210,7 +243,7 @@
       "date": "2026-08-18T18:46:24+00:00",
       "dateStr": "18 Aug, 18:46",
       "isNew": true,
-      "id": "she11787078784"
+      "id": "she21787078784"
     },
     {
       "title": "Vrasja e portugezit në Ksamil, 11 të arrestuar/ Policia: 20-vjeçari u godit me grushte dhe u vra, në kërkim dy persona",
@@ -221,29 +254,7 @@
       "date": "2026-08-18T18:23:35+00:00",
       "dateStr": "18 Aug, 18:23",
       "isNew": true,
-      "id": "abc71787077415"
-    },
-    {
-      "title": "Plot tetë shekuj mes historisë dhe besimit/ Kisha e Zojës Nunciatë në Lezhë, monument i rrallë i besimit që i ka rezistuar shekujve",
-      "link": "https://abcnews.al/plot-tete-shekuj-mes-historise-dhe-besimit-kisha-e-zojes-nunciate-ne-lezhe-monument-i-rralle-i-besimit-qe-i-ka-rezistuar-shekujve/",
-      "description": "Mes historisë dhe besimit Kisha e Zojës Nunciate në Lezhë vazhdon të tërheqë vizitorë nga vende të ndryshme të botës E ngritur rreth 800 vite më parë, Kisha e Zojës Nunciate vijon të qëndrojë si një dëshmi e gjallë e historisë dhe besimit ndër shekuj Efekte Famullitari i kishës, Fra Sokol Pepushaj, ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T18:18:51+00:00",
-      "dateStr": "18 Aug, 18:18",
-      "isNew": true,
-      "id": "abc81787077131"
-    },
-    {
-      "title": "Mirditë/ U kap në flagrancë duke ndezur disa vatra zjarri, vihet në pranga 65-vjeçari",
-      "link": "https://abcnews.al/mirdite-u-kap-ne-flagrance-duke-ndezur-disa-vatra-zjarri-vihet-ne-pranga-65-vjecari/",
-      "description": "Mirditë/Finalizohet me sukses operacioni policor i koduar “Piromani” U kap në flagrancë duke ndezur disa vatra zjarri, vihet në pranga 65-vjeçari nga fshati Gziq. 65-vjeçari u kap si rezultat i punës gjurmuese prej tre ditësh, bazuar në informacionet e siguruara në rrugë operative se ky shtetas merr",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T18:02:11+00:00",
-      "dateStr": "18 Aug, 18:02",
-      "isNew": true,
-      "id": "abc91787076131"
+      "id": "abc91787077415"
     },
     {
       "title": "Kurti dhe Abdixhiku pajtohen në parim për presidentin e ri: Ka vullnet për marrëveshje",
@@ -254,7 +265,7 @@
       "date": "2026-08-18T17:44:00+00:00",
       "dateStr": "18 Aug, 17:44",
       "isNew": true,
-      "id": "she21787075040"
+      "id": "she31787075040"
     },
     {
       "title": "Pamje të rënda/ Aksident me vdekje në Tiranë, i riu në timon përplas një grua në mes të rrugës, ambulanca vonon 30 minuta",
@@ -265,7 +276,7 @@
       "date": "2026-08-18T17:07:07+00:00",
       "dateStr": "18 Aug, 17:07",
       "isNew": true,
-      "id": "she31787072827"
+      "id": "she41787072827"
     },
     {
       "title": "Akuzat mes organizatorëve të protestës, Gent Progni nxjerr pamjet: Grupi i Visuar Dalipit me kokainë dhe hashash në tavolinë",
@@ -276,7 +287,7 @@
       "date": "2026-08-18T16:56:45+00:00",
       "dateStr": "18 Aug, 16:56",
       "isNew": true,
-      "id": "she41787072205"
+      "id": "she51787072205"
     },
     {
       "title": "FOTO/ Marsela Çibukaj dhe Vitmar Basha bëhen prindër për herë të parë, zbulojnë emrin e veçantë të djalit",
@@ -287,7 +298,7 @@
       "date": "2026-08-18T16:41:00+00:00",
       "dateStr": "18 Aug, 16:41",
       "isNew": true,
-      "id": "she51787071260"
+      "id": "she61787071260"
     },
     {
       "title": "UEFA vlerëson arbitrat shqiptarë/ Dy trupa kuqezi gjykojnë në play-off të Conference League",
@@ -298,7 +309,7 @@
       "date": "2026-08-18T16:02:56+00:00",
       "dateStr": "18 Aug, 16:02",
       "isNew": true,
-      "id": "she61787068976"
+      "id": "she71787068976"
     },
     {
       "title": "Vrasja e turistit në Ksamil/ 12 në pranga, mes tyre polici që dyshohet se ndihmoi autorin të largohej dhe një punonjës i burgjeve. Në kërkim pronari i Principotes",
@@ -309,7 +320,7 @@
       "date": "2026-08-18T15:50:34+00:00",
       "dateStr": "18 Aug, 15:50",
       "isNew": true,
-      "id": "she71787068234"
+      "id": "she81787068234"
     },
     {
       "title": "Shqipëria shpenzon për arsimin 2.9% të PBB-së, e fundit në Europë",
@@ -320,18 +331,7 @@
       "date": "2026-08-18T15:28:15+00:00",
       "dateStr": "18 Aug, 15:28",
       "isNew": true,
-      "id": "she81787066895"
-    },
-    {
-      "title": "“Doja të merrja hakun e vëllait”/ Lihet në burg 52-vjeçari që tentoi të vriste Kërtezin në Elbasan",
-      "link": "https://shekulli.com.al/2026/08/18/doja-te-merrja-hakun-e-vellait-lihet-ne-burg-52-vjecari-qe-tentoi-te-vriste-kertezin-ne-elbasan/",
-      "description": "Gjykata e Elbasanit ka lënë në burg Poli Boriçin, 52 vjeç, i akuzuar për tentativë vrasjeje dhe armëmbajtje pa leje, pas atentatit të dështuar ndaj Ermir Kërtezit. Ngjarja ndodhi mesditën e së shtunës, në një lokal në Elbasan. Boriçi dyshohet se i ka drejtuar pistoletën në kokë Kërtezit, i cili arri",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T14:27:14+00:00",
-      "dateStr": "18 Aug, 14:27",
-      "isNew": true,
-      "id": "she91787063234"
+      "id": "she91787066895"
     }
   ]
 }
