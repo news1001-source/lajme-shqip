@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-08-18T22:17:12.654657+00:00",
+  "lastUpdated": "2026-08-18T23:17:01.669389+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Red Sox mposhtin Diamondbacks 11-1 në Fenway; Ketel Marte mungon para ndeshjes",
+      "link": "https://24-ore.com/red-sox-mposhtin-diamondbacks-11-1-ne-fenway-ketel-marte-mungon-para-ndeshjes/",
+      "description": "Në Fenway Park të Bostonit më 18 gusht 2026, Boston Red Sox fituan ndaj Arizona Diamondbacks me shifrat 11-1. Ndeshja u hap me titullarët M. Kelly për Diam...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T23:01:21+00:00",
+      "dateStr": "18 Aug, 23:01",
+      "isNew": true,
+      "id": "24 01787094081"
+    },
+    {
+      "title": "Zavier Gozo transferohet te Crystal Palace për shumën rekord të klubit",
+      "link": "https://24-ore.com/zavier-gozo-transferohet-te-crystal-palace-per-shumen-rekord-te-klubit/",
+      "description": "Real Salt Lake konfirmoi largimin e sulmuesit të rritur në akademi, Zavier Gozo, drejt Crystal Palace në Premier League për një shumë të raportuar prej 15...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T22:30:34+00:00",
+      "dateStr": "18 Aug, 22:30",
+      "isNew": true,
+      "id": "24 11787092234"
+    },
+    {
+      "title": "Toronto Tempo dhe Indiana Fever përballen në Scotiabank Arena më 18 gusht 2026",
+      "link": "https://24-ore.com/toronto-tempo-dhe-indiana-fever-perballen-ne-scotiabank-arena-me-18-gusht-2026/",
+      "description": "Toronto Tempo dhe Indiana Fever luajtën një ndeshje të rëndësishme në Scotiabank Arena në Toronto më 18 gusht 2026. Takimi tërhoqi vëmendjen përpara sezoni...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T22:25:37+00:00",
+      "dateStr": "18 Aug, 22:25",
+      "isNew": true,
+      "id": "24 21787091937"
+    },
+    {
+      "title": "Një rikthim i Carlos Rodón te Yankees për sfidën ndaj Orioles në Oriole Park, 18 gusht 2026",
+      "link": "https://24-ore.com/nje-rikthim-i-carlos-rodon-te-yankees-per-sfiden-ndaj-orioles-ne-oriole-park-18-gusht-2026/",
+      "description": "Më 18 gusht 2026, New York Yankees udhëtuan në Oriole Park at Camden Yards për një seri të rëndësishme ndaj Baltimore Orioles. Starting-pitcher për Yankees...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T22:20:49+00:00",
+      "dateStr": "18 Aug, 22:20",
+      "isNew": true,
+      "id": "24 31787091649"
+    },
     {
       "title": "Céline Dion e gatshme të rikthehet në skenë pas diagnostikimit me sindromën ‘stiff-person’",
       "link": "https://24-ore.com/celine-dion-e-gatshme-te-rikthehet-ne-skene-pas-diagnostikimit-me-sindromen-stiff-person/",
@@ -12,7 +56,7 @@
       "date": "2026-08-18T22:11:17+00:00",
       "dateStr": "18 Aug, 22:11",
       "isNew": true,
-      "id": "24 01787091077"
+      "id": "24 41787091077"
     },
     {
       "title": "Po shkon te psikologu për herë të parë? 3 gjëra që askush nuk t’i tregon",
@@ -23,7 +67,7 @@
       "date": "2026-08-18T22:01:20+00:00",
       "dateStr": "18 Aug, 22:01",
       "isNew": true,
-      "id": "24 11787090480"
+      "id": "24 51787090480"
     },
     {
       "title": "Real Salt Lake transferon Zavier Gozon te Crystal Palace për rreth 15 milionë dollarë",
@@ -34,7 +78,7 @@
       "date": "2026-08-18T21:41:58+00:00",
       "dateStr": "18 Aug, 21:41",
       "isNew": true,
-      "id": "24 21787089318"
+      "id": "24 61787089318"
     },
     {
       "title": "“Berisha do humbë thellë në zgjedhjet vendore”/ Balliu: E ka kthyer PD në dyqan, duhet opozitë e re",
@@ -56,7 +100,7 @@
       "date": "2026-08-18T21:32:29+00:00",
       "dateStr": "18 Aug, 21:32",
       "isNew": true,
-      "id": "24 31787088749"
+      "id": "24 71787088749"
     },
     {
       "title": "Céline Dion zbulon se ka pasur simptoma për 17 vjet para diagnostikimit me sindromën e trupit të ngurtë",
@@ -67,7 +111,7 @@
       "date": "2026-08-18T21:26:26+00:00",
       "dateStr": "18 Aug, 21:26",
       "isNew": true,
-      "id": "24 41787088386"
+      "id": "24 81787088386"
     },
     {
       "title": "Pa president, pa zgjidhje në Kushtetutë: Çfarë e pret Kosovën pas 4 tetorit?",
@@ -78,51 +122,7 @@
       "date": "2026-08-18T21:25:19+00:00",
       "dateStr": "18 Aug, 21:25",
       "isNew": true,
-      "id": "24 51787088319"
-    },
-    {
-      "title": "Dyshohet për lëndë plasëse në një furgon në Vlorë, policia e tërheq me karrotrec",
-      "link": "https://24-ore.com/dyshohet-per-lende-plasese-ne-nje-furgon-ne-vlore-policia-e-terheq-me-karrotrec/",
-      "description": "Një fugon i braktisur prej dy ditësh në rrugën “28 Nëntori” në Vlorë ka ngritur dyshime për praninë e një lënde plasëse. Policia ka mbërritur në vendngjarje dhe po kryen verifikimet përkatëse pas sinjalizimit për një objekt të dyshimtë brenda automjetit. Fugoni është tërhequr me karrotrec nga shërbi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T21:21:07+00:00",
-      "dateStr": "18 Aug, 21:21",
-      "isNew": true,
-      "id": "24 61787088067"
-    },
-    {
-      "title": "Protesta në Tiranë në ditën e 80-të, marshim drejt Kryeministrisë dhe thirrje për dorëheqjen e Ramës",
-      "link": "https://24-ore.com/protesta-ne-tirane-ne-diten-e-80-te-marshim-drejt-kryeministrise-dhe-thirrje-per-doreheqjen-e-rames/",
-      "description": "Protesta në Tiranë është zhvilluar edhe mbrëmjen e se martes, duke shënuar ditën e 80-të të tubimeve. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej”, prej nga nisën marshimin në drejtim të Bulevardit “Dëshmorët e Kombit”. Marshimi përfundoi përpara godinës së Kryeministrisë, ku protestue",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T21:20:52+00:00",
-      "dateStr": "18 Aug, 21:20",
-      "isNew": true,
-      "id": "24 71787088052"
-    },
-    {
-      "title": "Ministria e Mbrojtjes: 4 vatra zjarri mbeten aktive, shuhet zjarri në Gurë-Lurë",
-      "link": "https://24-ore.com/ministria-e-mbrojtjes-4-vatra-zjarri-mbeten-aktive-shuhet-zjarri-ne-gure-lure/",
-      "description": "Situata e zjarreve në vend paraqitet në përmirësim. Ministria e Mbrojtjes njofton se deri në orën 20:00 të 18 gushtit janë regjistruar 7 vatra zjarri, nga të cilat 4 mbeten aktive dhe 3 janë nën monitorim. Në operacionet për shuarjen e zjarreve janë angazhuar 140 efektivë të Forcave të Armatosura, n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T21:20:33+00:00",
-      "dateStr": "18 Aug, 21:20",
-      "isNew": true,
-      "id": "24 81787088033"
-    },
-    {
-      "title": "Trump mohon negociatat me Iranin: Nuk po zhvillohen bisedime. Përplasje e re për Ngushticën e Hormuzit",
-      "link": "https://24-ore.com/trump-mohon-negociatat-me-iranin-nuk-po-zhvillohen-bisedime-perplasje-e-re-per-ngushticen-e-hormuzit/",
-      "description": "Presidenti amerikan, Donald Trump, tha se aktualisht nuk po zhvillohen negociata me Iranin, një ditë pasi dhëndëri i tij, Jared Kushner, tha se kontaktet mes Uashingtonit dhe Teheranit po vazhdojnë. “Nuk po zhvillohen bisedime as nuk ka bisedime të planifikuara me Republikën Islamike”, shkroi Trump ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T21:20:16+00:00",
-      "dateStr": "18 Aug, 21:20",
-      "isNew": true,
-      "id": "24 91787088016"
+      "id": "24 91787088319"
     },
     {
       "title": "Indonezia tronditet nga pasgoditjet, mbi 2 mijë lëkundje pas tërmetit me magnitudë 7.7",
