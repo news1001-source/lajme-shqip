@@ -1,8 +1,129 @@
 {
-  "lastUpdated": "2026-08-18T21:18:14.885442+00:00",
+  "lastUpdated": "2026-08-18T22:17:12.654657+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Céline Dion e gatshme të rikthehet në skenë pas diagnostikimit me sindromën ‘stiff-person’",
+      "link": "https://24-ore.com/celine-dion-e-gatshme-te-rikthehet-ne-skene-pas-diagnostikimit-me-sindromen-stiff-person/",
+      "description": "Céline Dion po përgatitet të rikthehet në skenë pas një pauze gjashtëvjeçare të detyruar nga një gjendje shëndetësore serioze. Ajo ka luftuar me një formë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T22:11:17+00:00",
+      "dateStr": "18 Aug, 22:11",
+      "isNew": true,
+      "id": "24 01787091077"
+    },
+    {
+      "title": "Po shkon te psikologu për herë të parë? 3 gjëra që askush nuk t’i tregon",
+      "link": "https://24-ore.com/po-shkon-te-psikologu-per-here-te-pare-3-gjera-qe-askush-nuk-ti-tregon/",
+      "description": "Kur mendohet mirë, terapia është një propozim disi i pazakontë: dy të panjohur takohen dhe njëri prej tyre nis të flasë për disa nga pjesët më intime, të dhimbshme dhe të pathëna të jetës së tij. Pikërisht për këtë arsye, seanca e parë mund të shoqërohet me nervozizëm, siklet dhe shumë pikëpyetje. S",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T22:01:20+00:00",
+      "dateStr": "18 Aug, 22:01",
+      "isNew": true,
+      "id": "24 11787090480"
+    },
+    {
+      "title": "Real Salt Lake transferon Zavier Gozon te Crystal Palace për rreth 15 milionë dollarë",
+      "link": "https://24-ore.com/real-salt-lake-transferon-zavier-gozon-te-crystal-palace-per-rreth-15-milione-dollare/",
+      "description": "Real Salt Lake ka arritur marrëveshjen për të transferuar talentin e vet të rritur në akademi, Zavier Gozo, te skuadra angleze Crystal Palace. Sulmuesi-kra...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:41:58+00:00",
+      "dateStr": "18 Aug, 21:41",
+      "isNew": true,
+      "id": "24 21787089318"
+    },
+    {
+      "title": "“Berisha do humbë thellë në zgjedhjet vendore”/ Balliu: E ka kthyer PD në dyqan, duhet opozitë e re",
+      "link": "https://abcnews.al/berisha-do-humbe-thelle-ne-zgjedhjet-vendore-balliu-e-ka-kthyer-pd-ne-dyqan-duhet-opozite-e-re/",
+      "description": "Ish anëtarja e PD, Alesia Balliu thotë se kryedemokrati Sali Berisha do regjistrojë humbje edhe më të thellë në zgjedhjet e ardhshme vendore. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Balliu u shpreh se shqiptarët do e refuzojnë opozitën e shitur të Sali Berishës. Balloi shtoi se",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T21:36:46+00:00",
+      "dateStr": "18 Aug, 21:36",
+      "isNew": true,
+      "id": "abc01787089006"
+    },
+    {
+      "title": "Aaron Judge nis progresin nga dëmtimi në brinjë, thotë Aaron Boone",
+      "link": "https://24-ore.com/aaron-judge-nis-progresin-nga-demtimi-ne-brinje-thote-aaron-boone/",
+      "description": "Menaxheri i New York Yankees, Aaron Boone, dha një përditësim pozitiv për Aaron Judge: ylli i skuadrës, i jashtë lojës që nga maji për shkak të një problem...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:32:29+00:00",
+      "dateStr": "18 Aug, 21:32",
+      "isNew": true,
+      "id": "24 31787088749"
+    },
+    {
+      "title": "Céline Dion zbulon se ka pasur simptoma për 17 vjet para diagnostikimit me sindromën e trupit të ngurtë",
+      "link": "https://24-ore.com/celine-dion-zbulon-se-ka-pasur-simptoma-per-17-vjet-para-diagnostikimit-me-sindromen-e-trupit-te-ngurte/",
+      "description": "Në dhjetor të vitit 2022, Céline Dion njoftoi se i ishte diagnostikuar një çrregullim i rrallë neurologjik, i njohur si sindroma e trupit të ngurtë, që shk...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:26:26+00:00",
+      "dateStr": "18 Aug, 21:26",
+      "isNew": true,
+      "id": "24 41787088386"
+    },
+    {
+      "title": "Pa president, pa zgjidhje në Kushtetutë: Çfarë e pret Kosovën pas 4 tetorit?",
+      "link": "https://24-ore.com/pa-president-pa-zgjidhje-ne-kushtetute-cfare-e-pret-kosoven-pas-4-tetorit/",
+      "description": "Më 4 tetor përfundon periudha gjashtëmujore gjatë së cilës, sipas Kushtetutës, postin e presidentit të Kosovës mund ta mbajë një ushtrues detyre. Albulena Haxhiu, si kryeparlamentare e legjislaturës së dhjetë të Kuvendit të Kosovës, filloi ta ushtronte detyrën e presidentes më 4 prill, kur Vjosa Osm",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:25:19+00:00",
+      "dateStr": "18 Aug, 21:25",
+      "isNew": true,
+      "id": "24 51787088319"
+    },
+    {
+      "title": "Dyshohet për lëndë plasëse në një furgon në Vlorë, policia e tërheq me karrotrec",
+      "link": "https://24-ore.com/dyshohet-per-lende-plasese-ne-nje-furgon-ne-vlore-policia-e-terheq-me-karrotrec/",
+      "description": "Një fugon i braktisur prej dy ditësh në rrugën “28 Nëntori” në Vlorë ka ngritur dyshime për praninë e një lënde plasëse. Policia ka mbërritur në vendngjarje dhe po kryen verifikimet përkatëse pas sinjalizimit për një objekt të dyshimtë brenda automjetit. Fugoni është tërhequr me karrotrec nga shërbi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:21:07+00:00",
+      "dateStr": "18 Aug, 21:21",
+      "isNew": true,
+      "id": "24 61787088067"
+    },
+    {
+      "title": "Protesta në Tiranë në ditën e 80-të, marshim drejt Kryeministrisë dhe thirrje për dorëheqjen e Ramës",
+      "link": "https://24-ore.com/protesta-ne-tirane-ne-diten-e-80-te-marshim-drejt-kryeministrise-dhe-thirrje-per-doreheqjen-e-rames/",
+      "description": "Protesta në Tiranë është zhvilluar edhe mbrëmjen e se martes, duke shënuar ditën e 80-të të tubimeve. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej”, prej nga nisën marshimin në drejtim të Bulevardit “Dëshmorët e Kombit”. Marshimi përfundoi përpara godinës së Kryeministrisë, ku protestue",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:20:52+00:00",
+      "dateStr": "18 Aug, 21:20",
+      "isNew": true,
+      "id": "24 71787088052"
+    },
+    {
+      "title": "Ministria e Mbrojtjes: 4 vatra zjarri mbeten aktive, shuhet zjarri në Gurë-Lurë",
+      "link": "https://24-ore.com/ministria-e-mbrojtjes-4-vatra-zjarri-mbeten-aktive-shuhet-zjarri-ne-gure-lure/",
+      "description": "Situata e zjarreve në vend paraqitet në përmirësim. Ministria e Mbrojtjes njofton se deri në orën 20:00 të 18 gushtit janë regjistruar 7 vatra zjarri, nga të cilat 4 mbeten aktive dhe 3 janë nën monitorim. Në operacionet për shuarjen e zjarreve janë angazhuar 140 efektivë të Forcave të Armatosura, n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:20:33+00:00",
+      "dateStr": "18 Aug, 21:20",
+      "isNew": true,
+      "id": "24 81787088033"
+    },
+    {
+      "title": "Trump mohon negociatat me Iranin: Nuk po zhvillohen bisedime. Përplasje e re për Ngushticën e Hormuzit",
+      "link": "https://24-ore.com/trump-mohon-negociatat-me-iranin-nuk-po-zhvillohen-bisedime-perplasje-e-re-per-ngushticen-e-hormuzit/",
+      "description": "Presidenti amerikan, Donald Trump, tha se aktualisht nuk po zhvillohen negociata me Iranin, një ditë pasi dhëndëri i tij, Jared Kushner, tha se kontaktet mes Uashingtonit dhe Teheranit po vazhdojnë. “Nuk po zhvillohen bisedime as nuk ka bisedime të planifikuara me Republikën Islamike”, shkroi Trump ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T21:20:16+00:00",
+      "dateStr": "18 Aug, 21:20",
+      "isNew": true,
+      "id": "24 91787088016"
+    },
     {
       "title": "Indonezia tronditet nga pasgoditjet, mbi 2 mijë lëkundje pas tërmetit me magnitudë 7.7",
       "link": "https://abcnews.al/indonezia-tronditet-nga-pasgoditjet-mbi-2-mije-lekundje-pas-termetit-me-magnitude-7-7/",
@@ -12,84 +133,7 @@
       "date": "2026-08-18T21:12:08+00:00",
       "dateStr": "18 Aug, 21:12",
       "isNew": true,
-      "id": "abc01787087528"
-    },
-    {
-      "title": "Një Guilherme në formë, Houston Dynamo synon të vërtetojë statusin e pretendentit",
-      "link": "https://24-ore.com/nje-guilherme-ne-forme-houston-dynamo-synon-te-vertetoje-statusin-e-pretendentit/",
-      "description": "Guilherme po kalon një formë të shkëlqyer te Houston Dynamo këtë sezon. Sulmuesi brazilian, nën statusin e lojtarit të caktuar (Designated Player), shënoi...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T21:02:04+00:00",
-      "dateStr": "18 Aug, 21:02",
-      "isNew": true,
-      "id": "24 01787086924"
-    },
-    {
-      "title": "Konflikt brenda The Bloodline: Reigns, Sikoa dhe LA Knight përplasen në WWE Raw",
-      "link": "https://24-ore.com/konflikt-brenda-the-bloodline-reigns-sikoa-dhe-la-knight-perplasen-ne-wwe-raw/",
-      "description": "Gjatë një episode të nxehtë, Reigns i hoqi Solo syzet dhe i shkeli ato, duke e pyetur pse Sikoa po e shikonte në sy në vend që të kërkonte falje. Pa parala...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T21:01:10+00:00",
-      "dateStr": "18 Aug, 21:01",
-      "isNew": true,
-      "id": "24 11787086870"
-    },
-    {
-      "title": "Frank Beard, bateristi legjendar i ZZ Top, ndahet nga jeta në moshën 77-vjeçare",
-      "link": "https://24-ore.com/frank-beard-bateristi-legjendar-i-zz-top-ndahet-nga-jeta-ne-moshen-77-vjecare/",
-      "description": "– Bota e muzikës rock është në zi pas ndarjes nga jeta të Frank Beard, bateristit legjendar të grupit amerikan ZZ Top, në moshën 77-vjeçare. Beard ndërroi jetë në fermën e tij në Richmond, Teksas, ku ndodhej nën kujdes paliativ dhe ishte i rrethuar nga familjarët. Lajmi u konfirmua nga Zyra e Mjekës",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T21:00:33+00:00",
-      "dateStr": "18 Aug, 21:00",
-      "isNew": true,
-      "id": "24 21787086833"
-    },
-    {
-      "title": "PEKIN – Kina prezanton robotin humanoid “Superman” me shpejtësi rekord të vrapimit dhe kërcimit",
-      "link": "https://24-ore.com/pekin-kina-prezanton-robotin-humanoid-superman-me-shpejtesi-rekord-te-vrapimit-dhe-kercimit/",
-      "description": "PEKIN, 18 gusht /ATSH – AA/ – Kompania kineze e robotikës Unitree prezantoi një prototip të ri humanoid për të cilin thotë se mund të vrapojë më shpejt se njeriu me shpejtësinë më të madhe të regjistruar në sprint dhe të kërcejë 2 metra nga vendi ku qëndron në këmbë. Unitree Robotics tha se roboti, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T21:00:15+00:00",
-      "dateStr": "18 Aug, 21:00",
-      "isNew": true,
-      "id": "24 31787086815"
-    },
-    {
-      "title": "Kartat sportive më të vlefshme të viteve ’90: pesë shitjet rekord dhe kartat e vlerësuara",
-      "link": "https://24-ore.com/kartat-sportive-me-te-vlefshme-te-viteve-90-pese-shitjet-rekord-dhe-kartat-e-vleresuara/",
-      "description": "Vitet 1990 njihen shpesh si epoka e ‘‘Junk Wax’’, kur prodhimi masiv i kartave sportive uli vlerën e shumicës së tyre. Megjithatë, dekada solli edhe disa p...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T20:52:07+00:00",
-      "dateStr": "18 Aug, 20:52",
-      "isNew": true,
-      "id": "24 41787086327"
-    },
-    {
-      "title": "Capitals synojnë të rinovojnë Leonard dhe Sourdif për të shmangur ofertat e jashtme sezonin tjetër",
-      "link": "https://24-ore.com/capitals-synojne-te-rinovojne-leonard-dhe-sourdif-per-te-shmangur-ofertat-e-jashtme-sezonin-tjeter/",
-      "description": "Washingtoni ka nisur bisedimet kontraktuale me sulmuesin Ryan Leonard dhe synon që të arrijë marrëveshje përpara se ata të bëhen të drejtues të kufizuar (R...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T20:50:52+00:00",
-      "dateStr": "18 Aug, 20:50",
-      "isNew": true,
-      "id": "24 51787086252"
-    },
-    {
-      "title": "Justin dhe Hailey Bieber shkëmbejnë një puthje gjatë ndeshjes Dodgers–Brewers",
-      "link": "https://24-ore.com/justin-dhe-hailey-bieber-shkembejne-nje-puthje-gjate-ndeshjes-dodgers-brewers/",
-      "description": "Justin dhe Hailey Bieber ishin mysafirë në stadium të dielën mbrëma për të ndjekur përballjen mes Los Angeles Dodgers dhe Milwaukee Brewers. Justin publiko...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T20:46:00+00:00",
-      "dateStr": "18 Aug, 20:46",
-      "isNew": true,
-      "id": "24 61787085960"
+      "id": "abc11787087528"
     },
     {
       "title": "Trump: Nuk po negociojmë dhe nuk ka plan për bisedime me Iranin",
@@ -100,29 +144,7 @@
       "date": "2026-08-18T20:41:24+00:00",
       "dateStr": "18 Aug, 20:41",
       "isNew": true,
-      "id": "abc11787085684"
-    },
-    {
-      "title": "Fluks i lartë në Morinë! Mijëra kosovarë drejt bregdetit shqiptar, krijohet trafik në kufi",
-      "link": "https://24-ore.com/fluks-i-larte-ne-morine-mijera-kosovare-drejt-bregdetit-shqiptar-krijohet-trafik-ne-kufi/",
-      "description": "Në pikën e përbashkët kufitare të Morinit, fluksi i lëvizjeve të qytetarëve dhe mjeteve është pothuajse i njëjtë si gjatë fundjavës, por edhe në ditët e zakonshme. Mesa duket, qytetarët e Kosovës po shfrytëzojnë ditët e mbetura të këtij sezoni veror për të pushuar në bregdetin shqiptar. Edhe mëngjes",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T20:33:22+00:00",
-      "dateStr": "18 Aug, 20:33",
-      "isNew": true,
-      "id": "24 71787085202"
-    },
-    {
-      "title": "FOKUS – SHBA vendos sanksione ndaj kryetares dhe një zyrtari të Gjykatës Ndërkombëtare Penale",
-      "link": "https://24-ore.com/fokus-shba-vendos-sanksione-ndaj-kryetares-dhe-nje-zyrtari-te-gjykates-nderkombetare-penale/",
-      "description": "UASHINGTON, 18 gusht /ATSH -AA/- SHBA-ja vendosi të martën sanksione ndaj kryetares së Gjykatës Ndërkombëtare Penale (GJPN), Tomoko Akane, dhe zyrtarit Abdoulaye Seye. Akane, shtetase japoneze që shërben si kryetare e GJPN-së që nga viti 2024, dhe Seye, shtetas senegalez, u përfshinë në Listën e Sht",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T20:30:15+00:00",
-      "dateStr": "18 Aug, 20:30",
-      "isNew": true,
-      "id": "24 81787085015"
+      "id": "abc21787085684"
     },
     {
       "title": "Vrasja e turistit në Ksamil, Fevziu: Kjo është katastrofë, jemi të këqinjtë e vetes",
@@ -136,17 +158,6 @@
       "id": "she01787084980"
     },
     {
-      "title": "Komiteti Disiplinor i MLS gjobit Surridge, Falcón dhe disa lojtarë pas Ditës së Ndeshjeve 20",
-      "link": "https://24-ore.com/komiteti-disiplinor-i-mls-gjobit-surridge-falcon-dhe-disa-lojtare-pas-dites-se-ndeshjeve-20/",
-      "description": "Komiteti Disiplinor i MLS ka shqiptuar gjoba ndaj disa lojtarëve pas Ditës së Ndeshjeve 20 të sezonit 2026, pas ndeshjeve të zhvilluara më 15 gusht.Siç rap...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T20:20:49+00:00",
-      "dateStr": "18 Aug, 20:20",
-      "isNew": true,
-      "id": "24 91787084449"
-    },
-    {
       "title": "Edicioni Qendror me Juli Krisafi, (18/08/2026)",
       "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-18-08-2026/",
       "description": "[...]Read More...",
@@ -155,7 +166,7 @@
       "date": "2026-08-18T20:14:05+00:00",
       "dateStr": "18 Aug, 20:14",
       "isNew": true,
-      "id": "abc21787084045"
+      "id": "abc31787084045"
     },
     {
       "title": "Tirana Live me Emilian Islami, (18/08/2026)",
@@ -166,7 +177,7 @@
       "date": "2026-08-18T20:05:09+00:00",
       "dateStr": "18 Aug, 20:05",
       "isNew": true,
-      "id": "abc31787083509"
+      "id": "abc41787083509"
     },
     {
       "title": "Zjarret/ Ministria e Mbrojtjes: 4 vatra ende aktive, nuk ka rrezik për zonat e banuara",
@@ -177,7 +188,7 @@
       "date": "2026-08-18T19:55:17+00:00",
       "dateStr": "18 Aug, 19:55",
       "isNew": true,
-      "id": "abc41787082917"
+      "id": "abc51787082917"
     },
     {
       "title": "Emiratet e Bashkuara Arabe në alarm, zbulohet kërcënim raketor ndaj vendit",
@@ -188,7 +199,7 @@
       "date": "2026-08-18T19:45:39+00:00",
       "dateStr": "18 Aug, 19:45",
       "isNew": true,
-      "id": "abc51787082339"
+      "id": "abc61787082339"
     },
     {
       "title": "Vëllai i Princeshës Diana publikon librin “Swan Song: Diana, Motra ime”: Dua t’i rrëfej botës të vërtetën",
@@ -210,7 +221,7 @@
       "date": "2026-08-18T19:27:48+00:00",
       "dateStr": "18 Aug, 19:27",
       "isNew": true,
-      "id": "abc61787081268"
+      "id": "abc71787081268"
     },
     {
       "title": "Plagoset me thikë një person në Durrës",
@@ -221,7 +232,7 @@
       "date": "2026-08-18T19:20:36+00:00",
       "dateStr": "18 Aug, 19:20",
       "isNew": true,
-      "id": "abc71787080836"
+      "id": "abc81787080836"
     },
     {
       "title": "Shëngjin/ 74 vjeçe dhe ende në shërbim të turistëve: T’u japim shërbimin më të mirë atyre, po sjellin të ardhura",
@@ -232,7 +243,7 @@
       "date": "2026-08-18T18:58:31+00:00",
       "dateStr": "18 Aug, 18:58",
       "isNew": true,
-      "id": "abc81787079511"
+      "id": "abc91787079511"
     },
     {
       "title": "E VRANË TË GJITHË! Policia zbardh ngjarjen te Principotes, turisti u godit nga edhe nga kamarierët, 3 punonjës shteti të punësuar në klub. Bulica ia mbathi",
@@ -244,17 +255,6 @@
       "dateStr": "18 Aug, 18:46",
       "isNew": true,
       "id": "she21787078784"
-    },
-    {
-      "title": "Vrasja e portugezit në Ksamil, 11 të arrestuar/ Policia: 20-vjeçari u godit me grushte dhe u vra, në kërkim dy persona",
-      "link": "https://abcnews.al/vrasja-e-portugezit-ne-ksamil-11-te-arrestuar-policia-20-vjecari-u-godit-me-grushte-dhe-u-vra-ne-kerkim-dy-persona/",
-      "description": "11 persona janë arrestuar nga policia lidhur me ngjarjen e rëndë të ndodhur në Ksamil, ku u vra një 20-vjeçar portugez. Të arrestuarit janë; Sokrat Lipan alias Sokrat Vata, Nuh Mahmutoglu, dhe Ezgi Perlak, të dy me shtetasi turke, Serxhi Selimi, Ervis Bunci, Ildi Cekani, Murat Zhabina, Miosid Matush",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-18T18:23:35+00:00",
-      "dateStr": "18 Aug, 18:23",
-      "isNew": true,
-      "id": "abc91787077415"
     },
     {
       "title": "Kurti dhe Abdixhiku pajtohen në parim për presidentin e ri: Ka vullnet për marrëveshje",
