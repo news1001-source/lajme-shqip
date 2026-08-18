@@ -1,8 +1,162 @@
 {
-  "lastUpdated": "2026-08-18T06:34:05.179812+00:00",
+  "lastUpdated": "2026-08-18T07:32:57.402929+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Tmerr brenda shkollës së mesme! Adoleshenti qëllon për vdekje nxënësin e më pas vret veten",
+      "link": "https://shekulli.com.al/2026/08/18/tmerr-brenda-shkolles-se-mesme-adoleshenti-qellon-per-vdekje-nxenesin-e-me-pas-vret-veten/",
+      "description": "Një ngjarje e rëndë ka ndodhur në Filipine ku dy adoleshentë kanë humbur jetën. Sipas mediave të huaja, ngjarja ka ndodhur në Zamboanga, teksa mes viktimave është dhe vetë autori i krimit. Adoleshenti hapi zjarr në drejtim të shokëve të klasës së tij, në një shkollë të mesme katolike. Plumbat kapën ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T07:31:51+00:00",
+      "dateStr": "18 Aug, 07:31",
+      "isNew": true,
+      "id": "she01787038311"
+    },
+    {
+      "title": "Pamjet e rënda/ Trupi i turistit francez ende i shtrirë pranë shezlloneve, Policia në kërkim të Sokrat Vatës",
+      "link": "https://shekulli.com.al/2026/08/18/pamjet-e-renda-trupi-i-turistit-francez-ende-i-shtrire-prane-shezlloneve-policia-ne-kerkim-te-sokrat-vates/",
+      "description": "KSAMIL&#8211; Trupi i pajetë i 20-vjeçarit Migel Mendes, vijon që të jetë pranë zonës së plazhit në Ksamil, ku u gjet mëngjesin e sotëm, ndërsa grupi hetimor mbledh provat me qëllim zbardhjen e ngjarjes së rëndë, që trondit sigurinë e këtij sezoni turistik. Ngjarja e rëndë ka ndodhur në orët e para ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T07:26:40+00:00",
+      "dateStr": "18 Aug, 07:26",
+      "isNew": true,
+      "id": "she11787038000"
+    },
+    {
+      "title": "Video/ Aksident në Maliq! Ambulanca përplaset me një tjetër mjet, pamjet nga vendngjarja",
+      "link": "https://shekulli.com.al/2026/08/18/video-aksident-ne-maliq-ambulanca-perplaset-me-nje-tjeter-mjet-pamjet-nga-vendngjarja/",
+      "description": "Një aksident i rëndë ka ndodhur mëngjesin e sotëm në Maliq, ku është përfshirë edhe një autoambulancë. Mësohet se ngjarja ka ndodhur rreth orës 05:00 të mëngjesit, në afërsi të fshatit Sovjan. Autoambulanca është përplasur me një tjetër mjet dhe për pasojë &#160;ka mbetur i plagosur drejtuesi i mjet",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T07:19:32+00:00",
+      "dateStr": "18 Aug, 07:19",
+      "isNew": true,
+      "id": "she21787037572"
+    },
+    {
+      "title": "Gjendet pa shenja jete në shezlongët në Ksamil një 20-vjeçar francez, dyshohet se është vrarë me thikë nga një 29-vjeçar",
+      "link": "https://24-ore.com/gjendet-pa-shenja-jete-ne-shezlonget-ne-ksamil-nje-20-vjecar-francez-dyshohet-se-eshte-vrare-me-thike-nga-nje-29-vjecar/",
+      "description": "Një 20-vjeçar me shtetësi franceze është gjetur pa shenja jete orët e para të mëngjesit të kësaj të marte, në shezlongët e plazhit në Ksamil. Sipas raportimeve nga policia, trupi i viktimës, Miguel Mendes, rreth 20 vjeç, është gjetur rreth orës 05:15. Dyshohet se ai është goditur me mjet prerës, thi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T07:18:05+00:00",
+      "dateStr": "18 Aug, 07:18",
+      "isNew": true,
+      "id": "24 01787037485"
+    },
+    {
+      "title": "RUSI – Sobyanin: Moska sulmohet nga qindra dronë ukrainas",
+      "link": "https://24-ore.com/rusi-sobyanin-moska-sulmohet-nga-qindra-drone-ukrainas/",
+      "description": "MOSKË, 18 gusht /ATSH-DPA/ – Moska dhe rajoni përreth u përballën me një valë sulmesh me dronë ukrainas gjatë natës, në atë që agjencia shtetërore ruse e lajmeve TASS e përshkroi si sulmin më të rëndë të tillë në dy vjet. Kryebashkiaku i Moskës, Sergei Sobyanin, tha se 620 dronë kishin fluturuar dre",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T07:16:04+00:00",
+      "dateStr": "18 Aug, 07:16",
+      "isNew": true,
+      "id": "24 11787037364"
+    },
+    {
+      "title": "Klekovski me apel për qytetarët: Nëse shihni shpendë të ngordhura, raportoni në AUV",
+      "link": "https://24-ore.com/klekovski-me-apel-per-qytetaret-nese-shihni-shpende-te-ngordhura-raportoni-ne-auv/",
+      "description": "Ministri i Shëndetësisë Sasho Klekovski dje u bëri thirrje qytetarëve, nëse vërejnë një shpend të egër të ngordhur, veçanërisht një korb, ose ndonjë shpend tjetër, ta raportojnë rastin në Agjencinë e Ushqimit dhe Veterinarisë. &#8220;Rezervuarët më të zakonshëm të Etheve të Nilit Perëndimor janë kor",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T07:13:17+00:00",
+      "dateStr": "18 Aug, 07:13",
+      "isNew": true,
+      "id": "24 21787037197"
+    },
+    {
+      "title": "WNBA: Tifozët duhej të ishin të lirë të mbanin bluza me mesazhe për çështjen e personave trans",
+      "link": "https://24-ore.com/wnba-tifozet-duhej-te-ishin-te-lire-te-mbanin-bluza-me-mesazhe-per-ceshtjen-e-personave-trans/",
+      "description": "Gjatë ndeshjes së së dielës midis Atlanta Dream dhe Indiana Fever, punonjës të sigurisë së ligës i kërkuan të paktën tre tifozëve të mbulonin bluza që mban...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T07:01:51+00:00",
+      "dateStr": "18 Aug, 07:01",
+      "isNew": true,
+      "id": "24 31787036511"
+    },
+    {
+      "title": "Aksident i rëndë në Kosovë/ Përplasen tre automjete, një i vdekur dhe tre të lënduar",
+      "link": "https://abcnews.al/aksident-i-rende-ne-kosove-perplasen-tre-automjete-nje-i-vdekur-dhe-tre-te-lenduar/",
+      "description": "Një person ka humbur jetën dhe tre të tjerë janë lënduar si pasojë e një aksidenti rrugor, i cili ka ndodhur mëngjesin e sotëm në fshatin Kliqinë, në rrugën Pejë-Prishtinë. Në aksident janë përfshirë tre automjete. Zëdhënësi i Policisë së Kosovës për rajonin e Pejës, Fadil Gashi, konfirmoi se katër ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T06:57:09+00:00",
+      "dateStr": "18 Aug, 06:57",
+      "isNew": true,
+      "id": "abc01787036229"
+    },
+    {
+      "title": "FOTO/ Autoambulanca përplaset me automjetin në Maliq, një i lënduar",
+      "link": "https://abcnews.al/foto-autoambulanca-perplaset-me-automjetin-ne-maliq-nje-i-lenduar/",
+      "description": "Një aksident rrugor është shënuar rreth orës 05:00 të mëngjesit në afërsi të fshatit Sovjan, në Maliq. Në aksident janë përfshirë një autoambulancë dhe një tjetër automjet. Si pasojë e përplasjes ka mbetur i plagosur një person, i cili udhëtonte në mjetin e vogël. Sipas të dhënave paraprake, i plago",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T06:49:09+00:00",
+      "dateStr": "18 Aug, 06:49",
+      "isNew": true,
+      "id": "abc11787035749"
+    },
+    {
+      "title": "I dënuar me 5 vite burg në Angli për trafik droge, kush është 29-vjeçari i dyshuar për vrasjen në Ksamil",
+      "link": "https://shekulli.com.al/2026/08/18/i-denuar-me-5-vite-burg-ne-angli-per-trafik-droge-kush-eshte-29-vjecari-i-dyshuar-per-vrasjen-ne-ksamil/",
+      "description": "29-vjeçari Sokrat Vata, i dyshuar për vrasjen e 20-vjeçarit francez Migel Mendes në Ksamil, rezulton të ketë një të kaluar kriminale në Britaninë e Madhe, ku është dënuar me 5 vite burg për trafik droge dhe vepra të tjera penale. Vata, banues në Has, është personi që Policia dyshon se ka qëndruar pa",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-18T06:48:32+00:00",
+      "dateStr": "18 Aug, 06:48",
+      "isNew": true,
+      "id": "she31787035712"
+    },
+    {
+      "title": "QMK: Për një ditë janë regjistruar 29 zjarre, 22 janë shuar",
+      "link": "https://24-ore.com/qmk-per-nje-dite-jane-regjistruar-29-zjarre-22-jane-shuar/",
+      "description": "Gjatë 24 orëve të fundit në vend janë regjistruar gjithsej 29 zjarre në ambient të hapur, nga të cilat gjashtë janë aktive, një është nën kontroll dhe 22 janë shuar, njoftoi Qendra për Menaxhim me Kriza. &#8220;Zjarret aktive janë: në Komunën e Studeniçanit pranë fshatrave Morane, Vrtekica dhe Ramni",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T06:47:45+00:00",
+      "dateStr": "18 Aug, 06:47",
+      "isNew": true,
+      "id": "24 41787035665"
+    },
+    {
+      "title": "VIDEO/ Ambulanca përplaset me makinën me targa greke në aksin Maliq-Pogradec, plagoset emigranti",
+      "link": "https://24-ore.com/video-ambulanca-perplaset-me-makinen-me-targa-greke-ne-aksin-maliq-pogradec-plagoset-emigranti/",
+      "description": "Një aksident automobilistik është shënuar rreth orës 05:00 të mëngjesit të së martës në aksin rrugor Maliq – Pogradec, në afërsi të fshatit Sovjan. Nga informacionet, bëhet me dije se aksidenti ka ardhur si pasojë e humbjes së kontrollit të autoambulancës së Spitalit të Korçës, ku ka goditur një mje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T06:47:33+00:00",
+      "dateStr": "18 Aug, 06:47",
+      "isNew": true,
+      "id": "24 51787035653"
+    },
+    {
+      "title": "Protesta nuk është restorant",
+      "link": "https://24-ore.com/protesta-nuk-eshte-restorant-2/",
+      "description": "Nga THOMA GËLLÇI Ka një mënyrë shumë të rehatshme për ta gjykuar një protestë: sa njerëz dolën, sa zhurmë pati, sa të rinj ishin, kush foli, çfarë parulle u përsërit, nëse programi ishte interesant, nëse pati ndonjë risi dhe nëse publiku u mërzit. Sipas kësaj logjike, protesta duhet të prodhojë çdo ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T06:46:52+00:00",
+      "dateStr": "18 Aug, 06:46",
+      "isNew": true,
+      "id": "24 61787035612"
+    },
+    {
+      "title": "Detaje/ Dyshohet se vrau francezin në Ksamil, e shkuara e errët e shqiptarit në Britani të Madhe",
+      "link": "https://abcnews.al/detaje-dyshohet-se-vrau-francezin-ne-ksamil-e-shkuara-e-erret-e-shqiptarit-ne-britani-te-madhe/",
+      "description": "(Në Foto: Sokrat Vata, autori i dyshuar për vrasjen e francezit) KSAMIL- Detaje të reja janë bërë publike për 29-vjeçarin Sokrat Vata, i dyshuar nga Policia shqiptare për vrasjen me thikë të një shtetasi francez në Ksamil. Francezi i identifikuar si Miguel Mendes rreth 20 vjeç, u gjet pa shenja jete",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-18T06:32:43+00:00",
+      "dateStr": "18 Aug, 06:32",
+      "isNew": true,
+      "id": "abc21787034763"
+    },
     {
       "title": "Vrau francezin në Ksamil, e shkuara e errët e autorit Sokrat Vatës, 5 vite burg në Britani për trafik droge",
       "link": "https://24-ore.com/vrau-francezin-ne-ksamil-e-shkuara-e-erret-e-autorit-sokrat-vates-5-vite-burg-ne-britani-per-trafik-droge/",
@@ -12,7 +166,7 @@
       "date": "2026-08-18T06:31:37+00:00",
       "dateStr": "18 Aug, 06:31",
       "isNew": true,
-      "id": "24 01787034697"
+      "id": "24 71787034697"
     },
     {
       "title": "PDK edhe sot para Qeverisë: Albin eja në Kuvend dhe hapi rrugë rikthimit të rendit kushtetues",
@@ -23,7 +177,7 @@
       "date": "2026-08-18T06:18:06+00:00",
       "dateStr": "18 Aug, 06:18",
       "isNew": true,
-      "id": "24 11787033886"
+      "id": "24 81787033886"
     },
     {
       "title": "Tronditet Ksamili! 20-vjeçari francez gjendet i vrarë me thikë në shezlongët e një lokali, në kërkim autori nga Hasi",
@@ -34,84 +188,18 @@
       "date": "2026-08-18T06:18:04+00:00",
       "dateStr": "18 Aug, 06:18",
       "isNew": true,
-      "id": "24 21787033884"
+      "id": "24 91787033884"
     },
     {
-      "title": "Kritikoi presidentin Infantino, FIFA pushon nga puna drejtorin operativ Kevin Lamour",
-      "link": "https://24-ore.com/kritikoi-presidentin-infantino-fifa-pushon-nga-puna-drejtorin-operativ-kevin-lamour/",
-      "description": "Kevin Lamour, drejtori operativ i FIFA-s, është pushuar nga puna nga organizmi që drejton futbollin botëror. Drejtuesi francez gjatë javëve të fundit kishte kritikuar publikisht presidentin e FIFA-s, Gianni Infantino. Lamour ishte kundër planit të kreut të FIFA-s, që parashikonte shitjen tek investi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T06:17:53+00:00",
-      "dateStr": "18 Aug, 06:17",
-      "isNew": true,
-      "id": "24 31787033873"
-    },
-    {
-      "title": "“Protesta ka përfunduar”/ Deklarata e fortë e avokatit: 21 Janari është drejt fundit, pritet arrestimi i Berishës",
-      "link": "https://24-ore.com/protesta-ka-perfunduar-deklarata-e-forte-e-avokatit-21-janari-eshte-drejt-fundit-pritet-arrestimi-i-berishes/",
-      "description": "Avokati Idajet Beqiri thotë protesta në bulevard, është futur në një rrugë pa krye. Në një intervistë për “Ora e Fundit” në ABC News, Beqiri u shpreh se qytetarët duhet të protestojnë për faktin se kreu i PD, Sali Berisha, nuk po dënohet për krimet që ka bërë. Beqiri shtoi se ka përfunduar hetimi pë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T06:17:48+00:00",
-      "dateStr": "18 Aug, 06:17",
-      "isNew": true,
-      "id": "24 41787033868"
-    },
-    {
-      "title": "Gjendet i vdekur 20-vjeçari francez në Ksamil, dyshohet se është goditur me thikë",
+      "title": "EMRAT/ Francezi u gjet i vrarë në Ksamil, ky është autori i dyshuar i krimit",
       "link": "https://abcnews.al/gjendet-i-vdekur-20-vjecari-francez-ne-ksamil-dyshohet-se-eshte-goditur-me-thike/",
-      "description": "Një 20 vjeçar francez është gjetur pa shenja jete rreth orës 05:15 në shezlongët e plazhit, para një lokali në Ksamil. Sipas të dhënave paraprake, i riu Miguel Mendes dyshohet se është goditur me thikë, gjatë një konflikti për motive të dobëta. Policia dyshon se autor i ngjarjes është  29-vjeçari So",
+      "description": "(Në foto autori i dyshuar i krimit) Një 20 vjeçar francez është gjetur pa shenja jete rreth orës 05:15 në shezlongët e plazhit, para një lokali në Ksamil. Sipas të dhënave paraprake, i riu Miguel Mendes dyshohet se është goditur me thikë, gjatë një konflikti për motive të dobëta. Policia dyshon se a",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-08-18T06:09:35+00:00",
       "dateStr": "18 Aug, 06:09",
       "isNew": true,
-      "id": "abc01787033375"
-    },
-    {
-      "title": "‘Absurditet juridik’: Si e rrëzoi gjykata padinë e Veliajt për prokurorin Ols Dado",
-      "link": "https://24-ore.com/absurditet-juridik-si-e-rrezoi-gjykata-padine-e-veliajt-per-prokurorin-ols-dado/",
-      "description": "Kryebashkiaku Erion Veliaj në Gjykatën Administrative. Foto: LSA. Nga: Vladimir Karaj I izoluar në qelinë e paraburgimit prej 10 shkurtit 2025 për akuzat e korrupsionit dhe pastrimit të parave, kryebashkiaku i Tiranës, Erion Veliaj, ndërmori një ofensivë të shumëfishtë prokurorit të çështjes së tij ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T06:00:44+00:00",
-      "dateStr": "18 Aug, 06:00",
-      "isNew": true,
-      "id": "24 51787032844"
-    },
-    {
-      "title": "AGJENDA NDËRKOMBËTARE 18.8.2026",
-      "link": "https://24-ore.com/agjenda-nderkombetare-18-8-2026/",
-      "description": "OAKLAND (Shtetet e Bashkuara) – Varësia nga mediat sociale: Argumentet hapëse në gjyqin e Meta-s, i paditur nga rreth 30 shtete amerikane. KOMBET E BASHKUARA (Shtetet e Bashkuara) – Mbledhje e Këshillit të Sigurimit të OKB-së mbi Libinë. MOSKË (Rusi) – Putin pret udhëheqësen birmaneze Min Aung Hlain",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T06:00:24+00:00",
-      "dateStr": "18 Aug, 06:00",
-      "isNew": true,
-      "id": "24 61787032824"
-    },
-    {
-      "title": "“WorldBankECA”: Nga emigrimi te rikthimi: si turizmi po rilind qytetet shqiptare",
-      "link": "https://24-ore.com/worldbankeca-nga-emigrimi-te-rikthimi-si-turizmi-po-rilind-qytetet-shqiptare/",
-      "description": "– Për vite me radhë, komunitetet në jug të Shqipërisë përjetuan një zhvillim të ngadaltë dhe një largim të banorëve, veçanërisht të të rinjve, të cilët kërkonin mundësi më të mira diku tjetër – edhe pse vendi po shndërrohej me shpejtësi në një destinacion tërheqës turistik, shkruan World Bank’s Euro",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T06:00:09+00:00",
-      "dateStr": "18 Aug, 06:00",
-      "isNew": true,
-      "id": "24 71787032809"
-    },
-    {
-      "title": "PDK, LDK e AAK refuzuan, në takimin e thirrur nga Haxhiu pritet të jetë Kurti dhe kryetarët e komuniteteve joshumicë",
-      "link": "https://24-ore.com/pdk-ldk-e-aak-refuzuan-ne-takimin-e-thirrur-nga-haxhiu-pritet-te-jete-kurti-dhe-kryetaret-e-komuniteteve-joshumice/",
-      "description": "Ushtruesja e detyrës së Presidentes së Kosovës, Albulena Haxhiu, ka bërë thirrur për sot një takim me partitë parlamentare, për siç ka thënë për të gjetur një zgjidhje për çështjen e Presidentit. Haxhiu u ka dërguar ftesë partive më të mëdha parlamentare, por jo të gjitha i janë përgjigjur pozitivis",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T05:57:57+00:00",
-      "dateStr": "18 Aug, 05:57",
-      "isNew": true,
-      "id": "24 81787032677"
+      "id": "abc31787033375"
     },
     {
       "title": "Vrau turistin 20-vjeçar nga Franca dhe e braktisi para një lokali, ky është i riu nga Hasi që po kërkohet nga Policia në Ksamil",
@@ -122,7 +210,7 @@
       "date": "2026-08-18T05:39:14+00:00",
       "dateStr": "18 Aug, 05:39",
       "isNew": true,
-      "id": "she01787031554"
+      "id": "she41787031554"
     },
     {
       "title": "Britani e Madhe, qytetarëve u kërkohet të qëndrojnë vigjilentë për rreziqet e zjarreve",
@@ -133,7 +221,7 @@
       "date": "2026-08-18T05:30:14+00:00",
       "dateStr": "18 Aug, 05:30",
       "isNew": true,
-      "id": "abc11787031014"
+      "id": "abc41787031014"
     },
     {
       "title": "Tronditet Ksamili, i riu nga Hasi vret turistin francez, e braktis te shezlonet e një plazhi privat (emrat)",
@@ -144,7 +232,7 @@
       "date": "2026-08-18T05:25:11+00:00",
       "dateStr": "18 Aug, 05:25",
       "isNew": true,
-      "id": "she11787030711"
+      "id": "she51787030711"
     },
     {
       "title": "Parashikimi i motit, si do variojnë temperaturat përgjatë ditës",
@@ -155,18 +243,7 @@
       "date": "2026-08-18T05:20:39+00:00",
       "dateStr": "18 Aug, 05:20",
       "isNew": true,
-      "id": "abc21787030439"
-    },
-    {
-      "title": "Mot me vranësira, vende-vende reshje shiu e rritje e përkohshme e shpejtësisë së erës",
-      "link": "https://24-ore.com/mot-me-vranesira-vende-vende-reshje-shiu-e-rritje-e-perkohshme-e-shpejtesise-se-eres/",
-      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot me diell dhe vranësira, të cilat gjatë ditës, në vende të caktuara, mund të sjellin reshje shiu dhe shkarkime rrufesh. IHK njofton se në zonat me zhvillim konvektiv mund të ketë rritje të përkohshme të shpejtësisë së erës. Te",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-18T05:18:21+00:00",
-      "dateStr": "18 Aug, 05:18",
-      "isNew": true,
-      "id": "24 91787030301"
+      "id": "abc51787030439"
     },
     {
       "title": "Horoskopi, çfarë parashikojnë yjet për ju",
@@ -177,7 +254,7 @@
       "date": "2026-08-18T05:10:50+00:00",
       "dateStr": "18 Aug, 05:10",
       "isNew": true,
-      "id": "abc31787029850"
+      "id": "abc61787029850"
     },
     {
       "title": "“Protesta, në rrugë pa krye”/ Beqiri: Pritet arrestimi i Berishës për 21 janarin, ka dëshmitar okular për vrasjet në Tropojë",
@@ -188,7 +265,7 @@
       "date": "2026-08-17T21:37:34+00:00",
       "dateStr": "17 Aug, 21:37",
       "isNew": true,
-      "id": "abc41787002654"
+      "id": "abc71787002654"
     },
     {
       "title": "Taksia përplas për vdekje 66-vjeçarin/ Pamjet tregojnë viktimën që po ecte në trotuar kur u godit",
@@ -199,7 +276,7 @@
       "date": "2026-08-17T21:06:58+00:00",
       "dateStr": "17 Aug, 21:06",
       "isNew": true,
-      "id": "abc51787000818"
+      "id": "abc81787000818"
     },
     {
       "title": "Objekti i panjohur shkel hapësirën ajrore të Moldavisë",
@@ -210,7 +287,7 @@
       "date": "2026-08-17T20:31:12+00:00",
       "dateStr": "17 Aug, 20:31",
       "isNew": true,
-      "id": "abc61786998672"
+      "id": "abc91786998672"
     },
     {
       "title": "Analiza/ A është veriu i Kosovës gati për reduktimin e KFOR-it?",
@@ -221,29 +298,7 @@
       "date": "2026-08-17T20:25:48+00:00",
       "dateStr": "17 Aug, 20:25",
       "isNew": true,
-      "id": "she21786998348"
-    },
-    {
-      "title": "VIDEO/ Skafi në det, momenti nga shpërthimi i motorit ku u plagosën 4 persona",
-      "link": "https://abcnews.al/video-skafi-ne-det-momenti-nga-shperthimi-i-motorit-ku-u-plagosen-4-persona/",
-      "description": "Ky është momenti kur shpërtheu motori i një skafi në det, në zonën e Porto Palermos në Vlorë, ku mbetën të plagosur 4 persona. Të plagosurit janë Mateo Merdanaj, Aleks Doda, Xhemal Ismailaj dhe Ardinant Qaziu. Sipas informacioneve paraprake, ngjarja ka ndodhur në momentin kur personat po punonin për",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T20:08:52+00:00",
-      "dateStr": "17 Aug, 20:08",
-      "isNew": true,
-      "id": "abc71786997332"
-    },
-    {
-      "title": "Shpërthimi në Vlorë, një prej të plagosurve: Motori mori flakë nga benzina që ishte derdhur",
-      "link": "https://abcnews.al/shperthimi-ne-vlore-nje-prej-te-plagosurve-motori-mori-flake-nga-benzina-qe-ishte-derdhur/",
-      "description": "Katër persona kanë pësuar djegie të shumta në trup, si pasojë e shpërthimit të motorit të një skafi në Porto Palermo të Vlorës. Një prej të plagosurve, tha se shkak i shpërthimit ka qenë benzina që gjendej në skaf. Ai u shpreh se po bënin riparime në motor. &#8220;Po i bënim shërbim. Mori flakë nga ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T19:39:46+00:00",
-      "dateStr": "17 Aug, 19:39",
-      "isNew": true,
-      "id": "abc81786995586"
+      "id": "she61786998348"
     },
     {
       "title": "Zjarri në skaf në Porto Palermo, identifikohen 4 të plagosurit, nisen me urgjencë drejt Tiranës",
@@ -254,18 +309,7 @@
       "date": "2026-08-17T19:28:58+00:00",
       "dateStr": "17 Aug, 19:28",
       "isNew": true,
-      "id": "she31786994938"
-    },
-    {
-      "title": "Trump: Është ide e shkëlqyer që Ngushtica e Hormuzit të bëhet territor i SHBA",
-      "link": "https://abcnews.al/trump-eshte-ide-e-shkelqyer-qe-ngushtica-e-hormuzit-te-behet-territor-i-shba/",
-      "description": "Presidenti amerikan Donald Trump ka deklaruar se ideja që Ngushtica e Hormuzit të bëhet territor i Shteteve të Bashkuara është një propozim “i shkëlqyer”, duke theksuar se SHBA aktualisht ushtron kontroll të plotë mbi këtë rrugë strategjike detare. Trump u pyet për deklaratat e tij të javës së kalua",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-17T19:25:34+00:00",
-      "dateStr": "17 Aug, 19:25",
-      "isNew": true,
-      "id": "abc91786994734"
+      "id": "she71786994938"
     },
     {
       "title": "E rëndë në Porto Palermo/ Po riparonin motorin e skafit, pësojnë djegie 4 persona, dërgohen me urgjencë drejt spitalit",
@@ -276,7 +320,7 @@
       "date": "2026-08-17T19:03:35+00:00",
       "dateStr": "17 Aug, 19:03",
       "isNew": true,
-      "id": "she41786993415"
+      "id": "she81786993415"
     },
     {
       "title": "“Paranoja” e Xi Jinping! Ja rreziqet e të rënit në dashuri me një të huaj si anëtar i Partisë Komuniste në Kinë",
@@ -287,51 +331,7 @@
       "date": "2026-08-17T18:19:07+00:00",
       "dateStr": "17 Aug, 18:19",
       "isNew": true,
-      "id": "she51786990747"
-    },
-    {
-      "title": "Pas PPP-së, shteti tenderon dializën me kosto 43 % më të lartë se mesatarja e koncesionit",
-      "link": "https://shekulli.com.al/2026/08/17/pas-ppp-se-shteti-tenderon-dializen-me-kosto-43-me-te-larte-se-mesatarja-e-koncesionit/",
-      "description": "Pas përfundimit të koncesionit të dializës, shteti ka hapur një tender të ri për ofrimin e këtij shërbimi në pesë spitale rajonale, me një fond mesatar vjetor rreth 23% më të lartë se pagesa e kryer për PPP-në në vitin 2025 dhe 43 % më e lartë se mesatarja e pagesave&#160; vjetore nga viti 2017-2025",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-17T17:35:57+00:00",
-      "dateStr": "17 Aug, 17:35",
-      "isNew": true,
-      "id": "she61786988157"
-    },
-    {
-      "title": "Giorgia Meloni nis pushimet! Nga kostumi i kuq i banjës tek zhytja, fotot ndryshe të kryeministres",
-      "link": "https://shekulli.com.al/2026/08/17/giorgia-meloni-nis-pushimet-nga-kostumi-i-kuq-i-banjes-tek-zhytja-fotot-ndryshe-te-kryeministres/",
-      "description": "Kryeministrja italiane Giorgia Meloni ka nisur pushimet, duke tërhequr vëmendjen e të gjithëve. Kryeministrja po pushon në Sardenja, ku ka zgjedhur të bëjë edhe zhytje për të shijuar bukuritë nënujore të jugut të Italisë. Fotot e siguruara nga “Oggi” tregojnë Melonin jashtë “kostumit” të zyrtares, m",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-17T17:22:41+00:00",
-      "dateStr": "17 Aug, 17:22",
-      "isNew": true,
-      "id": "she71786987361"
-    },
-    {
-      "title": "Aksident i rëndë me dy të plagosur/ Makina përplaset me kamionçinën dhe përfundon në oborrin e servisit",
-      "link": "https://shekulli.com.al/2026/08/17/aksident-i-rende-me-dy-te-plagosur-makina-perplaset-me-kamioncinen-dhe-perfundon-ne-oborrin-e-servisit/",
-      "description": "Një aksident i rëndë është regjistruar pasditen e sotme në dalje të Prizrenit, në rrugën që lidh qytetin me Kukësin. Një automjet me targa të huaja është përplasur fillimisht me një kamionçinë dhe më pas ka dalë nga korsia, duke përfunduar në murin rrethues të një biznesi që shërben si servis automj",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-17T16:31:49+00:00",
-      "dateStr": "17 Aug, 16:31",
-      "isNew": true,
-      "id": "she81786984309"
-    },
-    {
-      "title": "Rrëzohet helikopteri privat në ishullin Sifnos në Greqi, raportohet për 6 viktima",
-      "link": "https://shekulli.com.al/2026/08/17/rrezohet-helikopteri-privat-ne-ishullin-sifnos-ne-greqi-raportohet-per-6-viktima/",
-      "description": "Një tragjedi e rëndë ka ndodhur mbrëmjen e së hënës në ishullin grek të Sifnos, ku një helikopter privat është rrëzuar në zonën e Tholos, pranë helipadit të ishullit. Helikopteri është rrëzuar rreth orës 18:17, pak pas ngritjes, ndërsa pas përplasjes në tokë ka shpërthyer edhe një zjarr. Në zonën e ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-17T16:26:32+00:00",
-      "dateStr": "17 Aug, 16:26",
-      "isNew": true,
-      "id": "she91786983992"
+      "id": "she91786990747"
     }
   ]
 }
