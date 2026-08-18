@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-17T23:18:08.071339+00:00",
+  "lastUpdated": "2026-08-18T00:56:51.551183+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Chicago Cubs fitojnë 2-0 ndaj Chicago White Sox në Wrigley Field",
+      "link": "https://24-ore.com/chicago-cubs-fitojne-2-0-ndaj-chicago-white-sox-ne-wrigley-field/",
+      "description": "Chicago Cubs mposhtën Chicago White Sox 2-0 në Wrigley Field më 17 gusht 2026. Cubs regjistruan 2 pikë, 5 goditje dhe 0 gabime, ndërsa White Sox mbetën pa...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T00:42:05+00:00",
+      "dateStr": "18 Aug, 00:42",
+      "isNew": true,
+      "id": "24 01787013725"
+    },
+    {
+      "title": "Red Sox fitojnë 2-0 ndaj Diamondbacks në ndeshjen e 17 gushtit 2026",
+      "link": "https://24-ore.com/red-sox-fitojne-2-0-ndaj-diamondbacks-ne-ndeshjen-e-17-gushtit-2026/",
+      "description": "Boston Red Sox mposhtën Arizona Diamondbacks me rezultatin 2-0 në ndeshjen e zhvilluar më 17 gusht 2026. Red Sox shënuan dy pikë dhe regjistruan tre goditj...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-18T00:06:20+00:00",
+      "dateStr": "18 Aug, 00:06",
+      "isNew": true,
+      "id": "24 11787011580"
+    },
+    {
+      "title": "Avokati i Jeanie Buss mohon se familja do të shesë pjesën e Lakers te Bob Iger dhe Josh Kushner",
+      "link": "https://24-ore.com/avokati-i-jeanie-buss-mohon-se-familja-do-te-shese-pjesen-e-lakers-te-bob-iger-dhe-josh-kushner/",
+      "description": "Avokati i Jeanie Buss i ka dërguar një letër avokatëve të familjes së saj, duke mohuar se ajo ka ndërmend të shesë pjesën e saj në Los Angeles Lakers te Bo...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-17T23:21:21+00:00",
+      "dateStr": "17 Aug, 23:21",
+      "isNew": true,
+      "id": "24 21787008881"
+    },
     {
       "title": "Pirates të Pittsburgh përballë Tigers të Detroit, 17 gusht 2026 — përmbledhje para ndeshjes",
       "link": "https://24-ore.com/pirates-te-pittsburgh-perballe-tigers-te-detroit-17-gusht-2026-permbledhje-para-ndeshjes/",
@@ -12,7 +45,7 @@
       "date": "2026-08-17T22:36:51+00:00",
       "dateStr": "17 Aug, 22:36",
       "isNew": true,
-      "id": "24 01787006211"
+      "id": "24 31787006211"
     },
     {
       "title": "“Po riparonim motorin e skafit, mori flakë benzina”, flet një nga të plagosurit në Porto Palermo",
@@ -23,7 +56,7 @@
       "date": "2026-08-17T22:18:38+00:00",
       "dateStr": "17 Aug, 22:18",
       "isNew": true,
-      "id": "24 11787005118"
+      "id": "24 41787005118"
     },
     {
       "title": "PAMJE/ Momentet pas shpërthimit të skafit në Porto Palermo, qytetarët u vijnë në ndihmë të plagosurve",
@@ -34,7 +67,7 @@
       "date": "2026-08-17T22:18:25+00:00",
       "dateStr": "17 Aug, 22:18",
       "isNew": true,
-      "id": "24 21787005105"
+      "id": "24 51787005105"
     },
     {
       "title": "17 Gushti, “Dita e Maces së Zezë”: Supersticioni i fatit të keq mbetet në të kaluarën",
@@ -45,7 +78,7 @@
       "date": "2026-08-17T21:46:39+00:00",
       "dateStr": "17 Aug, 21:46",
       "isNew": true,
-      "id": "24 31787003199"
+      "id": "24 61787003199"
     },
     {
       "title": "“Protesta, në rrugë pa krye”/ Beqiri: Pritet arrestimi i Berishës për 21 janarin, ka dëshmitar okular për vrasjet në Tropojë",
@@ -67,7 +100,7 @@
       "date": "2026-08-17T21:33:20+00:00",
       "dateStr": "17 Aug, 21:33",
       "isNew": true,
-      "id": "24 41787002400"
+      "id": "24 71787002400"
     },
     {
       "title": "Philadelphia Phillies – Miami Marlins në Citizens Bank Park, 17 gusht 2026",
@@ -78,7 +111,7 @@
       "date": "2026-08-17T21:15:40+00:00",
       "dateStr": "17 Aug, 21:15",
       "isNew": true,
-      "id": "24 51787001340"
+      "id": "24 81787001340"
     },
     {
       "title": "Taksia përplas për vdekje 66-vjeçarin/ Pamjet tregojnë viktimën që po ecte në trotuar kur u godit",
@@ -100,40 +133,7 @@
       "date": "2026-08-17T21:02:35+00:00",
       "dateStr": "17 Aug, 21:02",
       "isNew": true,
-      "id": "24 61787000555"
-    },
-    {
-      "title": "“Berisha do ta vrasë PD-në para se të largohet”, Kadilli: Në parti ka mbetur vetëm berishizmi",
-      "link": "https://24-ore.com/berisha-do-ta-vrase-pd-ne-para-se-te-largohet-kadilli-ne-parti-ka-mbetur-vetem-berishizmi/",
-      "description": "Fatbardh Kadilli analizon zhvillimet në PD, raportin e lidershipit me demokratët dhe qytetarët, mungesën e reflektimit dhe paralajmëron një të ardhme të zymtë për PD-në: Rugova ndërroi jetë pa e parë fundin e partisë së tij, ndërsa Berisha do ta vrasë partinë para se të largohet nga kjo botë. Berish",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T21:02:21+00:00",
-      "dateStr": "17 Aug, 21:02",
-      "isNew": true,
-      "id": "24 71787000541"
-    },
-    {
-      "title": "Protesta nuk është restorant",
-      "link": "https://24-ore.com/protesta-nuk-eshte-restorant/",
-      "description": "Ka një mënyrë shumë të rehatshme për ta gjykuar një protestë: sa njerëz dolën, sa zhurmë pati, sa të rinj ishin, kush foli, çfarë parulle u përsërit, nëse programi ishte interesant, nëse pati ndonjë risi dhe nëse publiku u mërzit. Sipas kësaj logjike, protesta duhet të prodhojë çdo mbrëmje diçka të ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T20:47:18+00:00",
-      "dateStr": "17 Aug, 20:47",
-      "isNew": true,
-      "id": "24 81786999638"
-    },
-    {
-      "title": "FOKUS – Farage premton ndalimin e përfitimeve sociale për të huajt në Britani",
-      "link": "https://24-ore.com/fokus-farage-premton-ndalimin-e-perfitimeve-sociale-per-te-huajt-ne-britani/",
-      "description": "LONDËR, 17 gusht /ATSH -ANSA/ – Partia e Nigel Farage, Reform UK, e cilësuar si parti trumpiane, ka njoftuar se synon të vendosë një ndalim për t’u penguar shtetasve të huaj aksesin në një pjesë të madhe të përfitimeve sociale në Mbretërinë e Bashkuar, nëse fiton zgjedhjet e ardhshme parlamentare, t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-17T20:46:08+00:00",
-      "dateStr": "17 Aug, 20:46",
-      "isNew": true,
-      "id": "24 91786999568"
+      "id": "24 91787000555"
     },
     {
       "title": "Objekti i panjohur shkel hapësirën ajrore të Moldavisë",
