@@ -1,18 +1,238 @@
 {
-  "lastUpdated": "2026-08-19T12:36:26.242793+00:00",
+  "lastUpdated": "2026-08-19T13:39:15.484000+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Horoskopi ditor për nesër, e Enjte 20 Gusht 2026",
-      "link": "https://24-ore.com/horoskopi-ditor-per-neser-e-enjte-20-gusht-2026/",
-      "description": "Dashi Edhe pse do të mundoheni të ndërveproni me disa persona njëkohësisht për të harruar një ngjarje të kohëve të fundit, do ta keni të kot pasi nuk do të mund t’ia arrini qëllimit. Do të shuani disa kuriozitete mbi disa persona gjatë kësaj dite, por këshilla më e mirë është të përjetoni çdo moment",
+      "title": "BBC: Ushtria izraelite urdhëron hetim penal për vrasjen e 5-vjeçares në Gaza",
+      "link": "https://abcnews.al/bbc-ushtria-izraelite-urdheron-hetim-penal-per-vrasjen-e-5-vjecares-ne-gaza/",
+      "description": "Forcat e Mbrojtjes së Izraelit (IDF) kanë urdhëruar hapjen e një hetimi penal për vrasjen e 5-vjeçares palestineze Hind Rajab në Gaza, një rast që shkaktoi reagime të forta ndërkombëtare. Hind Rajab ishte një nga shtatë anëtarët e një familjeje që po përpiqej të largohej nga bombardimet në qytetin e",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T13:39:02+00:00",
+      "dateStr": "19 Aug, 13:39",
+      "isNew": true,
+      "id": "abc01787146742"
+    },
+    {
+      "title": "Pozitiv me kokainë, pezullohet tenisti/ Nick Kyrgios dështoi në testet antidoping në turneun e Mallorca",
+      "link": "https://abcnews.al/pozitiv-me-kokaine-pezullohet-tenisti-nick-kyrgios-deshtoi-ne-testet-antidoping-ne-turneun-e-mallorca/",
+      "description": "Pasi prej vitesh e kishte shfaqur veten si një nga luftëtarët më të mëdhenj kundër substancave të ndaluara në tenis, Nick Kyrgios e gjen veten në qendër të një skandali doping. Australiani, i cili njihet për karakterin e tij kontrovers rezultoi pozitiv me kokainë gjatë një kontrolli të zhvilluar më ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T13:23:09+00:00",
+      "dateStr": "19 Aug, 13:23",
+      "isNew": true,
+      "id": "abc11787145789"
+    },
+    {
+      "title": "Hadjar dëmton kyçin e dorës, Lawson e zëvendëson te Red Bull në garën e Holandës",
+      "link": "https://24-ore.com/hadjar-demton-kycin-e-dores-lawson-e-zevendeson-te-red-bull-ne-garen-e-holandes/",
+      "description": "Piloti i Oracle Red Bull Racing, Isack Hadjar, ka pësuar një dëmtim në kyçin e dorës gjatë pushimeve të verës, që do t’i mohojë atij pjesëmarrjen në Çmimin e Madh të Holandës 2026. Lajmin e ka bërë të ditur vetë skuderia, që gjithashtu ka bërë të ditur edhe zëvendësuesin: “I urojmë rikthim të mbarë ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-19T12:33:01+00:00",
-      "dateStr": "19 Aug, 12:33",
+      "date": "2026-08-19T13:22:08+00:00",
+      "dateStr": "19 Aug, 13:22",
       "isNew": true,
-      "id": "24 01787142781"
+      "id": "24 01787145728"
+    },
+    {
+      "title": "Gjermani/ Uli Hoeness: Fle dhe zgjohem me mendjen te Musiala, ajo që po ndodh është dramatike!",
+      "link": "https://24-ore.com/gjermani-uli-hoeness-fle-dhe-zgjohem-me-mendjen-te-musiala-ajo-qe-po-ndodh-eshte-dramatike/",
+      "description": "Presidenti i Bayern-it të Mynihut, Uli Hoeness, komentoi sot për “RTL” situatën e krijuar pas problemeve fizike të Jamal Musiala. Fantazisti bavarez në miqësoren kundër Leipzig dhe atë kundër Heidenheim humbi ndjenjat. Gjermani shpjegoi në rrjetet e tij sociale se mjekët i kanë diagnostikuar çrregul",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T13:21:48+00:00",
+      "dateStr": "19 Aug, 13:21",
+      "isNew": true,
+      "id": "24 11787145708"
+    },
+    {
+      "title": "Zjarret në Shqipëri, 4 vatra aktive! Ministria e Mbrojtjes: Nuk ka rrezik për zonat e banuara",
+      "link": "https://24-ore.com/zjarret-ne-shqiperi-4-vatra-aktive-ministria-e-mbrojtjes-nuk-ka-rrezik-per-zonat-e-banuara/",
+      "description": "Ministria e Mbrojtjes ka bërë përditësimin e situatës së zjarreve në vend, duke njoftuar se deri në orën 14:00 janë regjistruar gjashtë vatra zjarri. Katër prej tyre vijojnë të jenë aktive, ndërsa dy të tjera janë nën monitorim. Në terren janë angazhuar 126 forca operacionale vendore. Ndërkohë, Forc",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T13:21:32+00:00",
+      "dateStr": "19 Aug, 13:21",
+      "isNew": true,
+      "id": "24 21787145692"
+    },
+    {
+      "title": "Dinamo, leku “letër”/ Kalojnë turin, Presidenti u jep shpërblimin lojtarëve",
+      "link": "https://abcnews.al/dinamo-leku-leter-kalojne-turin-presidenti-u-jep-shperblimin-lojtareve/",
+      "description": "Bonueset janë diçka normale në futboll, sidomos pas arritjeve të mëdha sportive. Ndryshimi i vetëm në Shqipëri lidhet me mënyrën si shpërndahen ato. Çështje tradite, pasi na pëlqen ta shohim paranë fizike dhe siç ndodh gjithmonë në raste gëzimi, ajo hidhet në mënyrë demonstrative. Kjo është edhe ars",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T13:21:19+00:00",
+      "dateStr": "19 Aug, 13:21",
+      "isNew": true,
+      "id": "abc21787145679"
+    },
+    {
+      "title": "“Shakaja” e senatorit amerikan për një aferë jashtëmartesore të Donald Trump me ndihmësen e tij trazon Shtëpinë e Bardhë",
+      "link": "https://24-ore.com/shakaja-e-senatorit-amerikan-per-nje-afere-jashtemartesore-te-donald-trump-me-ndihmesen-e-tij-trazon-shtepine-e-bardhe/",
+      "description": "Spekulimet rreth marrëdhënies së Donald Trump me një nga ndihmëset e tij më të ngushta duket se e kanë mërzitur gruan e tij, Melania. Shtëpia e Bardhë reagoi pasi senatori demokrat Jon Ossoff bëri shaka të hënën se presidenti amerikan ishte i shpërqendruar nga një lidhje jashtëmartesore me Natalie H",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T13:21:15+00:00",
+      "dateStr": "19 Aug, 13:21",
+      "isNew": true,
+      "id": "24 31787145675"
+    },
+    {
+      "title": "Kroacia arreston një shtetas ukrainas, si të dyshuar për sabotim të Nord-Stream",
+      "link": "https://24-ore.com/kroacia-arreston-nje-shtetas-ukrainas-si-te-dyshuar-per-sabotim-te-nord-stream/",
+      "description": "Autoritetet kroate kanë arrestuar shtetasin ukrainas Vladimir Z. në Pula, bazuar në një urdhër arresti evropian të lëshuar nga Gjermania. Dyshohet për përfshirje në sabotimin e gazsjellësit Nord-Stream. Sipas Zyrës së Prokurorit federal në Karlsruhe të Gjermanisë, arrestimi u krye nga Departamenti i",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T13:20:55+00:00",
+      "dateStr": "19 Aug, 13:20",
+      "isNew": true,
+      "id": "24 41787145655"
+    },
+    {
+      "title": "Callum Turner pas martesës me Dua Lipën: Do të doja të kisha një familje, të rrisja disa fëmijë",
+      "link": "https://24-ore.com/callum-turner-pas-marteses-me-dua-lipen-do-te-doja-te-kisha-nje-familje-te-rrisja-disa-femije/",
+      "description": "Callum Turner ka folur hapur për dëshirën e tij për t’u bërë baba dhe për të krijuar një familje me bashkëshorten e tij, këngëtaren Dua Lipa. Në një intervistë ekskluzive për Esquire UK, aktori 36-vjeçar tregoi se çfarë dëshiron të sjellë kapitulli i ardhshëm i jetës së tij. Kur u pyet se çfarë pret",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T13:20:39+00:00",
+      "dateStr": "19 Aug, 13:20",
+      "isNew": true,
+      "id": "24 51787145639"
+    },
+    {
+      "title": "Shpejtësia po vret më shumë, mbi 1500 patenta pezullohen në një javë! Ekspertët kërkojnë siguri dhe hetime të thelluar",
+      "link": "https://24-ore.com/shpejtesia-po-vret-me-shume-mbi-1500-patenta-pezullohen-ne-nje-jave-ekspertet-kerkojne-siguri-dhe-hetime-te-thelluar/",
+      "description": "Drejtimi i mjetit mbi limitin e shpejtësisë së rrugës dyshohet se çoi në aksidentin e mëngjesit të kësaj të mërkure ku humbën jetën 3 të rinj në Durrës. Shpejtësia duket se është një ndër shkeljet e rrezikshme që pavarësisht ashpërsimit të masave vijon të përsëritet në shifra mjaft të larta. Vetëm n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T13:19:21+00:00",
+      "dateStr": "19 Aug, 13:19",
+      "isNew": true,
+      "id": "24 61787145561"
+    },
+    {
+      "title": "Aksidenti me 3 viktima në Durrës, mediat italiane: 26-vjeçarja humbi jetën vetëm 3 ditë pas martesës",
+      "link": "https://shekulli.com.al/2026/08/19/aksidenti-me-3-viktima-ne-durres-mediat-italiane-26-vjecarja-humbi-jeten-vetem-3-dite-pas-marteses/",
+      "description": "Aksidenti i rëndë që ndodhi në orët e para të mëngjesit të sotëm në Manzë ka tërhequr vëmendjen e mediave italiane. Tgcom24 raporton për aksidentin fatal të ndodhur në Manzë, rreth 30 kilometra nga Tirana, ku humbën jetën tre persona. Mes viktimave ishte edhe Sara Brugnatelli, 26 vjeçe, nga Brescia,",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-19T13:18:24+00:00",
+      "dateStr": "19 Aug, 13:18",
+      "isNew": true,
+      "id": "she01787145504"
+    },
+    {
+      "title": "Aksident tragjik në Brazil/ Autobusi përplaset me kamionin, 23 të vdekur",
+      "link": "https://abcnews.al/aksident-tragjik-ne-brazil-autobusi-perplaset-me-kamionin-23-te-vdekur/",
+      "description": "Një aksident tragjik rrugor ka ndodhur mëngjesin e së mërkurës në shtetin brazilian të Paraná-s, ku një mikrobus i Shërbimit Shëndetësor të bashkisë së Imbituvës u përplas ballë për ballë me një kamion. Sipas të dhënave të përditësuara, 23 persona kanë humbur jetën, ndërsa pesë të tjerë janë plagosu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T13:17:12+00:00",
+      "dateStr": "19 Aug, 13:17",
+      "isNew": true,
+      "id": "abc31787145432"
+    },
+    {
+      "title": "HAPËSIRË – Sophie Adenot francezja e parë që shkon në ISS",
+      "link": "https://24-ore.com/hapesire-sophie-adenot-francezja-e-pare-qe-shkon-ne-iss/",
+      "description": "NJU JORK, 19 gusht /ATSH-DPA/- Astronautja franceze Sophie Adenot është bërë gruaja e parë franceze që ka kryer një ecje hapësinore në Stacionin Ndërkombëtar të Hapësirës (ISS). ”Adenot doli nga ISS për rreth gjashtë orë së bashku me kolegun e saj amerikan Anil Menon, për të hequr një antenë të dëmt",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T13:16:27+00:00",
+      "dateStr": "19 Aug, 13:16",
+      "isNew": true,
+      "id": "24 71787145387"
+    },
+    {
+      "title": "Janevska: Duart e politikës mbani larg arsimit",
+      "link": "https://24-ore.com/janevska-duart-e-politikes-mbani-larg-arsimit/",
+      "description": "&#8220;Duart e politikës mbani larg arsimit&#8221;, tha sot ministrja e Arsimit dhe Shkencës Vesna Janevska, duke vlerësuar se miratimi i tre ligjeve në fushën e arsimit të lartë, të cilat janë në procedurë parlamentare, është i rëndësishëm për rritjen e cilësisë së arsimit universitar dhe për përmi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T13:15:41+00:00",
+      "dateStr": "19 Aug, 13:15",
+      "isNew": true,
+      "id": "24 81787145341"
+    },
+    {
+      "title": "News Line me Rovena Neziri, (19/08/2026)",
+      "link": "https://abcnews.al/news-line-me-rovena-neziri-19-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T13:10:41+00:00",
+      "dateStr": "19 Aug, 13:10",
+      "isNew": true,
+      "id": "abc41787145041"
+    },
+    {
+      "title": "Shqiptarët, pa viza në Marok/ Hyn në fuqi marrëveshja, hiqen vizat për turizëm, biznes e kulturë",
+      "link": "https://abcnews.al/shqiptaret-pa-viza-ne-marok-hyn-ne-fuqi-marreveshja-hiqen-vizat-per-turizem-biznes-e-kulture/",
+      "description": "Maroku heq vizat me Shqipërinë. Nga data 15 gusht, shqiptarët mund të shkojnë pa viza në Marok, mjafton vetëm me një pasaportë , njësoj si në vendet e zonës Shengen. Për periudha afatshkurtëra, shqiptarët mund të qëndrojnë deri në 90 ditë në Marok, shteti në veriperëndim të Afrikës. Ky rregull zbato",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T13:07:09+00:00",
+      "dateStr": "19 Aug, 13:07",
+      "isNew": true,
+      "id": "abc51787144829"
+    },
+    {
+      "title": "PDK këmbëngul për vazhdimin e seancës konstituive, i shkuran sërish Deharit",
+      "link": "https://24-ore.com/pdk-kembengul-per-vazhdimin-e-seances-konstituive-i-shkuran-serish-deharit/",
+      "description": "Partia Demokratike e Kosovës (PDK) i është drejtuar sërish me kërkesë kryesuesit të seancës konstituive të Kuvendit, Avni Deharit, për caktimin e vazhdimit të seancës. Në letrën e datës 18 gusht 2026, të nënshkruar nga deputetja dhe Sekretarja e Përgjithshme e PDK-së, Vlora Çitaku, kërkohet që seanc",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T13:05:27+00:00",
+      "dateStr": "19 Aug, 13:05",
+      "isNew": true,
+      "id": "24 91787144727"
+    },
+    {
+      "title": "Zjarret në vend, 4 vatra aktive/ Ministria e Mbrojtjes: Situata nën kontroll",
+      "link": "https://abcnews.al/zjarret-ne-vend-4-vatra-aktive-ministria-e-mbrojtjes-situata-nen-kontroll/",
+      "description": "Ministria e Mbrojtjes ka bërë të ditur përditësimin e fundit mbi situatën e zjarreve në vend. Deri në orën 14:00 janë regjistruar 6 vatra zjarri, nga të cilat 4 vijojnë të jenë aktive, ndërsa 2 janë nën monitorim. Në terren janë angazhuar 126 forca operacionale vendore. Në mbështetje të operacioneve",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T13:01:08+00:00",
+      "dateStr": "19 Aug, 13:01",
+      "isNew": true,
+      "id": "abc61787144468"
+    },
+    {
+      "title": "Paralajmërimi: Nafta mund të shkojë në 3 euro për litër",
+      "link": "https://shekulli.com.al/2026/08/19/paralajmerimi-nafta-mund-te-shkoje-ne-3-euro-per-liter/",
+      "description": "ITALI- Çmimi i naftës mund të arrijë në 3 euro për litër brenda pak muajsh, nëse tensionet në Lindjen e Mesme dhe situata në Ngushticën e Hormuzit vijojnë të përshkallëzohen. Paralajmërimi është bërë nga Michele Marsiglia, president i FederPetroli Italia, i cili e konsideron situatën në tregjet ener",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-19T12:59:20+00:00",
+      "dateStr": "19 Aug, 12:59",
+      "isNew": true,
+      "id": "she11787144360"
+    },
+    {
+      "title": "VIDEO/ E  braktisi në mes të rrugës për t’i shpëtuar policisë, momenti kur qeni çon efektivët tek pronari",
+      "link": "https://shekulli.com.al/2026/08/19/video-e-braktisi-ne-mes-te-rruges-per-ti-shpetuar-policise-momenti-kur-qeni-con-efektivet-tek-pronari/",
+      "description": "Një labrador është kthyer në hero për policinë britanike, pasi i drejtoi efektivët drejt të zotit të tij, që ishte shpallur në kërkim. Qeni i racës labrador, ishte braktisur më herët nga pronari i tij, pasi ai po tentonte të arratisej nga policia me një skuter.  Charles Foy ishte arratisur me skuter",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-19T12:59:18+00:00",
+      "dateStr": "19 Aug, 12:59",
+      "isNew": true,
+      "id": "she21787144358"
+    },
+    {
+      "title": "Edicioni i Mesditës me Erneta Shevroja, (19/08/2026)",
+      "link": "https://abcnews.al/edicioni-i-mesdites-me-erneta-shevroja-19-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T12:41:10+00:00",
+      "dateStr": "19 Aug, 12:41",
+      "isNew": true,
+      "id": "abc71787143270"
     },
     {
       "title": "Të miturit gati për sherr me thika e kaçavida/ Zbardhen detaje: Konflikti nisi në “Tik Tok”, njërit i kishin ngacmuar motrën",
@@ -23,7 +243,7 @@
       "date": "2026-08-19T12:32:34+00:00",
       "dateStr": "19 Aug, 12:32",
       "isNew": true,
-      "id": "she01787142754"
+      "id": "she31787142754"
     },
     {
       "title": "“Më rrezikohet jeta”/ Iraniani paraqitet në aeroport me pasaportë false, pas ndalimit kërkon azil",
@@ -34,18 +254,7 @@
       "date": "2026-08-19T12:23:44+00:00",
       "dateStr": "19 Aug, 12:23",
       "isNew": true,
-      "id": "she11787142224"
-    },
-    {
-      "title": "Musliu: Kurti ishte në pishinë në Banjë të Malishevës derisa ne e prisnim para Qeverisë",
-      "link": "https://24-ore.com/musliu-kurti-ishte-ne-pishine-ne-banje-te-malisheves-derisa-ne-e-prisnim-para-qeverise/",
-      "description": "Deputetja e PDK-së, Ganimete Musliu ka thënë se lideri i LVV-së, njeherësh kryeministri në detyrë, Albin Kurti mëngjesin e sotëm, ndodhej në një pishinë në Banjë të Malishevës. Musliu, përmes një postimi në rrjetin social Facebook ka shkruar se Kurti ishte në pishinë së bashku me bashkëpartiakët Gan",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T12:20:18+00:00",
-      "dateStr": "19 Aug, 12:20",
-      "isNew": true,
-      "id": "24 11787142018"
+      "id": "she41787142224"
     },
     {
       "title": "“Jemi gati të përballemi”, NATO reagon pas kërcënimeve iraniane për sulme në Evropë",
@@ -56,51 +265,7 @@
       "date": "2026-08-19T12:19:14+00:00",
       "dateStr": "19 Aug, 12:19",
       "isNew": true,
-      "id": "abc01787141954"
-    },
-    {
-      "title": "Joe Tsai: Titulli i Knicks e bën situatën të sikletshme për Nets dhe acarcon tifozët",
-      "link": "https://24-ore.com/joe-tsai-titulli-i-knicks-e-ben-situaten-te-sikletshme-per-nets-dhe-acarcon-tifozet/",
-      "description": "Pronari i Brooklyn Nets, Joe Tsai, shprehu pakënaqësinë e tij pas fitimit të titullit NBA 2026 nga New York Knicks. Ai tha se fitorja e rivalëve lokalë i k...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T12:17:18+00:00",
-      "dateStr": "19 Aug, 12:17",
-      "isNew": true,
-      "id": "24 21787141838"
-    },
-    {
-      "title": "Roman Anthony komenton shkëmbimin e Marcelo Mayer: trishtim dhe urime për mundësinë e re",
-      "link": "https://24-ore.com/roman-anthony-komenton-shkembimin-e-marcelo-mayer-trishtim-dhe-urime-per-mundesine-e-re/",
-      "description": "Roman Anthony reagoi pas transferimit të Marcelo Mayer te San Francisco Giants, pas vendimit të Boston Red Sox gjatë afatit kalimtar të MLB-së. Ai tha se l...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T12:16:12+00:00",
-      "dateStr": "19 Aug, 12:16",
-      "isNew": true,
-      "id": "24 31787141772"
-    },
-    {
-      "title": "FRANCË – Macron firmos ligjin për vdekjen e asistuar",
-      "link": "https://24-ore.com/france-macron-firmos-ligjin-per-vdekjen-e-asistuar/",
-      "description": "– Presidenti francez Emmanuel Macron firmosi sot ligjin për vdekjen e asistuar, pasi Gjykata Kushtetuese e kishte konfirmuar javën e kaluar, duke i hapur rrugën Francës për t’iu bashkuar vendeve që e kanë legalizuar këtë praktikë, sipas “EUronews”. Zyra e presidentit Macron e cilësoi vendimin e Gjyk",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T12:16:06+00:00",
-      "dateStr": "19 Aug, 12:16",
-      "isNew": true,
-      "id": "24 41787141766"
-    },
-    {
-      "title": "Conference League/ Dinamo një hap larg historisë, nesër akti i parë ndaj Pafos",
-      "link": "https://24-ore.com/conference-league-dinamo-nje-hap-larg-historise-neser-akti-i-pare-ndaj-pafos/",
-      "description": "Dinamo City është gati për një tjetër sfidë të rëndësishme europiane. Skuadra e drejtuar nga Ilir Daja do të luajë nesër në mbrëmje ndeshjen e parë të play-off-it të UEFA Conference League ndaj Pafos, në “Elbasan Arena”, në orën 21:00. Pas një paraqitjeje fantastike ndaj Audës, ku triumfoi me rezult",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T12:15:33+00:00",
-      "dateStr": "19 Aug, 12:15",
-      "isNew": true,
-      "id": "24 51787141733"
+      "id": "abc81787141954"
     },
     {
       "title": "Ish-këshilltari i Faucit pranon fajësinë për fshehjen e të dhënave të koronavirusit",
@@ -111,7 +276,7 @@
       "date": "2026-08-19T12:14:17+00:00",
       "dateStr": "19 Aug, 12:14",
       "isNew": true,
-      "id": "abc11787141657"
+      "id": "abc91787141657"
     },
     {
       "title": "Foto që po trazon ujërat, pronari i Principotes Bekim Bulica në një tavolinë me drejtorin Endri Haxhiu",
@@ -122,51 +287,7 @@
       "date": "2026-08-19T12:11:24+00:00",
       "dateStr": "19 Aug, 12:11",
       "isNew": true,
-      "id": "she21787141484"
-    },
-    {
-      "title": "Sekuestrohen në Tiranë 450 mijë euro makina luksoze të vjedhura në Gjermani",
-      "link": "https://24-ore.com/sekuestrohen-ne-tirane-450-mije-euro-makina-luksoze-te-vjedhura-ne-gjermani/",
-      "description": "Tre automjete luksoze, me vlerë totale rreth 450 mijë euro, të dyshuara të vjedhura në Gjermani, janë sekuestruar nga Policia e Tiranës në kuadër të operacionit të koduar “Stolen Line”. Në lidhje me rastin janë proceduar penalisht në gjendje të lirë tre persona, ndërsa dy të tjerë janë identifikuar ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T12:07:16+00:00",
-      "dateStr": "19 Aug, 12:07",
-      "isNew": true,
-      "id": "24 61787141236"
-    },
-    {
-      "title": "Ndërpritet energjia në Portin e Vlorës, 700 pasagjerë dhe 180 automjete mbeten në pritje (VIDEO)",
-      "link": "https://24-ore.com/nderpritet-energjia-ne-portin-e-vlores-700-pasagjere-dhe-180-automjete-mbeten-ne-pritje-video/",
-      "description": "Ndërprerja e energjisë elektrike ka penguar procesin e imbarkimit të rreth 700 pasagjerëve dhe 180 automjeteve në portin e Vlorës. Mungesa e energjisë ka shkaktuar probleme në funksionimin normal të portit, duke sjellë vonesa dhe bllokimin e përkohshëm të procedurave të imbarkimit. Pasagjerët dhe au",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T12:06:58+00:00",
-      "dateStr": "19 Aug, 12:06",
-      "isNew": true,
-      "id": "24 71787141218"
-    },
-    {
-      "title": "Bie nga lartësia në Orikum, 67-vjeçari dërgohet me urgjencë në spital",
-      "link": "https://24-ore.com/bie-nga-lartesia-ne-orikum-67-vjecari-dergohet-me-urgjence-ne-spital/",
-      "description": "Një 67-vjeçar është dëmtuar pasi ka rënë nga lartësia në Orikum. Shtetasi me inicialet L. Q. ka pësuar frakturë në kokë si pasojë e rënies dhe është transportuar me urgjencë në spital, ku po merr ndihmën e nevojshme mjekësore. Ndërkohë, Policia ka nisur verifikimet për të zbardhur rrethanat e ngjarj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T12:06:42+00:00",
-      "dateStr": "19 Aug, 12:06",
-      "isNew": true,
-      "id": "24 81787141202"
-    },
-    {
-      "title": "Kultivoi 135 bimë narkotike në Dukat, arrestohet 33-vjeçari",
-      "link": "https://24-ore.com/kultivoi-135-bime-narkotike-ne-dukat-arrestohet-33-vjecari/",
-      "description": "Një 33-vjeçar është arrestuar në flagrancë në fshatin Dukat të Vlorës, pasi dyshohet se kishte kultivuar 135 bimë narkotike Cannabis Sativa. Në pranga ka rënë shtetasi H. K., 33 vjeç, banues në Dukat, në kuadër të operacionit policor të koduar “Afternoon”, të finalizuar nga shërbimet e Komisariatit ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T12:06:26+00:00",
-      "dateStr": "19 Aug, 12:06",
-      "isNew": true,
-      "id": "24 91787141186"
+      "id": "she51787141484"
     },
     {
       "title": "Tmerr/ Trupi i të miturës gjendet i zhveshur brenda valixhes, raportohet se ka pësuar dëmtime në tru",
@@ -177,29 +298,7 @@
       "date": "2026-08-19T12:03:28+00:00",
       "dateStr": "19 Aug, 12:03",
       "isNew": true,
-      "id": "she31787141008"
-    },
-    {
-      "title": "Ekspertiza zbardh dinamikën e aksidentit tragjik në Durrës: Makina lëvizte me 114 km/orë, drejtuesi nën efektin e alkoolit",
-      "link": "https://abcnews.al/ekspertiza-zbardh-dinamiken-e-aksidentit-tragjik-ne-durres-makina-levizte-me-114-km-ore-drejtuesi-nen-efektin-e-alkoolit/",
-      "description": "DURRËS&#8211; Detaje të reja dalin nga ekspertiza për aksidentin tragjik në Durrës, ku humbi jetën çifti i sapomartuar Kleo Vrioni dhe Sara Brugentelli dhe një i mitur 15 vjeç. Sipas konkluzioneve të ekspertëve, automjeti në momentet para aksidentit ka qenë duke lëvizur me një shpejtësi prej rreth 1",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T11:53:21+00:00",
-      "dateStr": "19 Aug, 11:53",
-      "isNew": true,
-      "id": "abc21787140401"
-    },
-    {
-      "title": "Aksidenti me 3 viktima në Durrës/ Eksperti Rrugor: Shpejtësia mund të ketë qenë faktor! Shoferët të jenë më të kujdesshëm",
-      "link": "https://abcnews.al/aksidenti-me-3-viktima-ne-durres-eksperti-rrugor-shpejtesia-mund-te-kete-qene-faktor-shoferet-te-jene-me-te-kujdesshem/",
-      "description": "Eksperti Rrugor Gëzim Hoxha, ka bërë një analizë të ngjarjes së rëndë të ndodhur mëngjesin e sotëm në Durrës. Ku pas një aksidenti, humbën jetën 3 të rinj. Gjatë intervistës në “News Line” në ABC News, Hoxha tha se dyshohet se shpejtësia mund të ketë qenë shkak i kësaj ngjarje të rëndë, por megjitha",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T11:41:30+00:00",
-      "dateStr": "19 Aug, 11:41",
-      "isNew": true,
-      "id": "abc31787139690"
+      "id": "she61787141008"
     },
     {
       "title": "“Sherri nisi mes…”/ Zbardhet dëshmia e Sokrat Vatës për vrasjen në Ksamil: Thika ishte e portugezit",
@@ -210,18 +309,7 @@
       "date": "2026-08-19T11:39:59+00:00",
       "dateStr": "19 Aug, 11:39",
       "isNew": true,
-      "id": "she41787139599"
-    },
-    {
-      "title": "Përçahet “revolucioni i flamingove”/ Çupi: Ajo ishte dhunë që bëhet për interesin e xhepave të tyre",
-      "link": "https://abcnews.al/percahet-revolucioni-i-flamingove-cupi-ajo-ishte-dhune-qe-behet-per-interesin-e-xhepave-te-tyre/",
-      "description": "TIRANË- Përçahet “revolucioni i flamingove”. Të dielën, në bulevard para kryeministrisë, protesta u karakterizua nga sherri dhe përplasjet e forta. Kjo përplasje ndodhi mes dy grupimeve që kanë dalë në shesh prej fillimit. Ata janë përplasur fizikisht mes tyre dhe ka qenë ndërhyrja e personave të tj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T11:34:29+00:00",
-      "dateStr": "19 Aug, 11:34",
-      "isNew": true,
-      "id": "abc41787139269"
+      "id": "she71787139599"
     },
     {
       "title": "Rrezikon deri në 10 vite burg! Rusia shpall në kërkim ndërkombëtar djalin e Robert F. Kennedy Jr",
@@ -232,18 +320,7 @@
       "date": "2026-08-19T11:32:48+00:00",
       "dateStr": "19 Aug, 11:32",
       "isNew": true,
-      "id": "she51787139168"
-    },
-    {
-      "title": "Sherr mes të miturve në Kombinat/ Iu gjetën thika e maska, procedohen 28 prej tyre",
-      "link": "https://abcnews.al/sherr-mes-te-miturve-ne-kombinat-iu-gjeten-thika-e-maska-procedohen-28-prej-tyre/",
-      "description": "Tiranë – Ndërhyrja e menjëhershme e Policisë ka parandaluar një konflikt të mundshëm mes disa grupeve të miturish në zonën e Kombinatit, në Tiranë. Shërbimet e Komisariatit të Policisë Nr. 6, në bashkëpunim me Forcën e Posaçme “Shqiponja”, morën informacion në rrugë operative se disa grupe të mituri",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T11:18:23+00:00",
-      "dateStr": "19 Aug, 11:18",
-      "isNew": true,
-      "id": "abc51787138303"
+      "id": "she81787139168"
     },
     {
       "title": "E rëndë në Tiranë, 28 të mitur do konfliktoheshin mes tyre në Kombinat, Policia ndërhyn dhe bën shoqërimin e tyre",
@@ -254,84 +331,7 @@
       "date": "2026-08-19T11:17:33+00:00",
       "dateStr": "19 Aug, 11:17",
       "isNew": true,
-      "id": "she61787138253"
-    },
-    {
-      "title": "Tërmet në Shqipëri! Ja sa ishte magnituda e lëkundjeve",
-      "link": "https://shekulli.com.al/2026/08/19/termet-ne-shqiperi-ja-sa-ishte-magnituda-e-lekundjeve/",
-      "description": "Lëkundje tërmeti janë regjistruar mesditën e sotme në vendin tonë. Raportohet se epiqendra e tërmetit ishte pranë Lushnjes, me magnitudë 3.9 ballë. Lëkundjet u ndjenë rreth orës 12:44, teksa thellësia e rënies së lëkundjeve të tërmetit ishte 5 kilometra nën tokë. Aktualisht nuk raportohet për person",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-19T11:13:43+00:00",
-      "dateStr": "19 Aug, 11:13",
-      "isNew": true,
-      "id": "she71787138023"
-    },
-    {
-      "title": "Sërish aksidente në vend! Dy raste brenda pak minutash në Bulqizë, një grua në gjendje të rëndë",
-      "link": "https://shekulli.com.al/2026/08/19/serish-aksidente-ne-vend-dy-raste-brenda-pak-minutash-ne-bulqize-nje-grua-ne-gjendje-te-rende/",
-      "description": "Aksidentet rrugore duket se nuk kanë fund gjatë këtij sezoni veror në vend. Pas ngjarjes tragjikë në Manzë të Durrësit ku humbën jetën 3 persona dhe u plagosën dy të tjerë, dy aksidente rrugore janë raportuar në Bulqizë. Mësohet se aksidentet janë regjistruar në vendin e quajtur Vajkal dhe në zonën ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-19T11:05:42+00:00",
-      "dateStr": "19 Aug, 11:05",
-      "isNew": true,
-      "id": "she81787137542"
-    },
-    {
-      "title": "“Shqipëria, ndër 10 destinacionet turistike”, “The Independent”: Alternativë e Greqisë dhe Kroacisë",
-      "link": "https://abcnews.al/shqiperia-nder-10-destinacionet-turistike-the-independent-alternative-e-greqise-dhe-kroacise/",
-      "description": "Jo vetëm destinacion i bukur, Shqipëria ka hyrë ndër 10 vendet më të lehta për tu aksesuar nga turistët e huaj për 2026 në Europë. Media britanike The Independent, i ka kushtuar një artikull pengesave e radhëve të gjata që po hasin turistët këtë vit me sistemin e ri biometrik të hyrje-daljes EES, që",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T11:00:34+00:00",
-      "dateStr": "19 Aug, 11:00",
-      "isNew": true,
-      "id": "abc61787137234"
-    },
-    {
-      "title": "“Duan të më vrasin”/ Zbardhet deklarata e Ylli Zallës para Gjykatës: Policët po i prisja, më kanë futur në hasmëri",
-      "link": "https://shekulli.com.al/2026/08/19/duan-te-me-vrasin-zbardhet-deklarata-e-ylli-zalles-para-gjykates-policet-po-i-prisja-me-kane-futur-ne-hasmeri/",
-      "description": "Është zbardhur deklarata e Ylli Zallës, para trupës gjyqësore në seancën e sotme për masën e sigurisë. Zalla ka deklaruar se nuk është përpjekur t’i shmanget policisë, por se është dorëzuar vetë gjatë operacionit, madje ka deklaruar se ishte duke i pritur efektivët që të vinin. “Jam vetëdorëzuar, i ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-19T10:57:15+00:00",
-      "dateStr": "19 Aug, 10:57",
-      "isNew": true,
-      "id": "she91787137035"
-    },
-    {
-      "title": "Harry Kane, “bomberi” i Europës/ Sulmuesi i Bayern merr zyrtarisht trofeun e “Këpucës së Artë”",
-      "link": "https://abcnews.al/harry-kane-bomberi-i-europes-sulmuesi-i-bayern-merr-zyrtarisht-trofeun-e-kepuces-se-arte/",
-      "description": "Harry Kane jeton një tjetër moment triumfi personal. Sulmuesi anglez I Bayern Munih merr këtë të martë zyrtatarisht trofeun e “Këpucës së Artë” që e nderon atë si golashënuesin më të mirë në ligat evropiane për sezonin 2025-26. Ai shënoi 36 gola në 31 ndeshje në edicionin e fundit të kampionatit gje",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T10:45:17+00:00",
-      "dateStr": "19 Aug, 10:45",
-      "isNew": true,
-      "id": "abc71787136317"
-    },
-    {
-      "title": "Infantino nuk mund të rizgjidhet/ Detaji nga statuti i FIFA ndez sërish “luftën” juridike në FIFA",
-      "link": "https://abcnews.al/infantino-nuk-mund-te-rizgjidhet-detaji-nga-statuti-i-fifa-ndez-serish-luften-juridike-ne-fifa/",
-      "description": "Ditët kalojnë, ndërsa pozicioni i Gianni Infantino vazhdon të rëndohet dhe misioni i tij për t’u rizgjedhur si president i FIFA bëhet më i pamundur. Kreu i qeverisë botërore të futbollit vijon të vuajë pasojat e planit të tij kontrovers për të përfshirë investitorë privatë dhe shitjen tek ata të aks",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T10:42:34+00:00",
-      "dateStr": "19 Aug, 10:42",
-      "isNew": true,
-      "id": "abc81787136154"
-    },
-    {
-      "title": "19 Gusht 2026, “Shtypi i ditës” – Mirëmëngjes me Bashkim Hoxhën",
-      "link": "https://abcnews.al/19-gusht-2026-shtypi-i-dites-miremengjes-me-bashkim-hoxhen/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T10:38:48+00:00",
-      "dateStr": "19 Aug, 10:38",
-      "isNew": true,
-      "id": "abc91787135928"
+      "id": "she91787138253"
     }
   ]
 }
