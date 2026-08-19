@@ -1,29 +1,216 @@
 {
-  "lastUpdated": "2026-08-19T08:30:35.716927+00:00",
+  "lastUpdated": "2026-08-19T09:27:59.608501+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Ngërçi institucional, Haxhiu diskuton me ambasadorin britanik",
-      "link": "https://24-ore.com/ngerci-institucional-haxhiu-diskuton-me-ambasadorin-britanik/",
-      "description": "U.D. Presidentja e Republikës së Kosovës, Albulena Haxhiu, ka pritur në takim Ambasadorin e Mbretërisë së Bashkuar në Kosovë, Jonathan Hargreaves, me të cilin ka diskutuar zhvillimet e fundit politike dhe situatën institucionale në vend. Sipas njoftimit të Presidencës, në takim është diskutuar për n",
-      "source": "24 ORE",
+      "title": "“U la i vdekur mes shezlongeve”/ Vrasja e turistit 21-vjeçar “merr dhenë” në Portugali, mediat: Pronari i “Principote” me rekorde kriminale",
+      "link": "https://shekulli.com.al/2026/08/19/u-la-i-vdekur-mes-shezlongeve-vrasja-e-turistit-21-vjecar-merr-dhene-ne-portugali-mediat-pronari-i-principote-me-rekorde-kriminale/",
+      "description": "Vrasja tragjike e turistit Luis Miguel Varela Mendes ka shkaktuar tronditje në atdheun e tij, Portugali, ku mediat raportojnë mbi ngjarjen. “Jornual de Noticias” raporton se 21-vjeari u qëllua për vdekje me thikë në një plazh të Shqipërisë, nga Sokrat Vata i cili tentoi të arratisej duke u fshehur n",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-19T08:30:27+00:00",
-      "dateStr": "19 Aug, 08:30",
+      "date": "2026-08-19T09:23:39+00:00",
+      "dateStr": "19 Aug, 09:23",
       "isNew": true,
-      "id": "24 01787128227"
+      "id": "she01787131419"
     },
     {
-      "title": "Nga 4-vjeçarja në Ksamil, tek 66-vjeçari dhe çifti i sapomartuar në Durrës/ Jetët e humbura nga aksidentet tragjike në vend",
+      "title": "Orikum, bie nga lartësia/ 67-vjeçari dërgohet me urgjencë në spital, me fraktura të shumta në trup",
+      "link": "https://abcnews.al/orikum-bie-nga-lartesia-57-vjecari-dergohet-me-urgjence-ne-spital-me-fraktura-te-shumta-ne-trup/",
+      "description": "VLORË- Një 67-vjeçar i identifikuar, Lumturim Qerimi është dërguar me urgjencë drejt spitalit të Vlorës. Ai dyshohet se ka rënë nga lartësia e banesës së tij, ndërsa po bënte rregullime. Megjithatë këto janë të dhënat e para mbi ngjarjen. Detajet e ngjarjes pritet t’i konfirmojë dhe Policia e Vlorës",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T09:21:10+00:00",
+      "dateStr": "19 Aug, 09:21",
+      "isNew": true,
+      "id": "abc01787131270"
+    },
+    {
+      "title": "Për 1.6 milionë euro do të ndërtohet parking te Kuvendi, do të jetë për deputetët dhe makinat zyrtare",
+      "link": "https://24-ore.com/per-1-6-milione-euro-do-te-ndertohet-parking-te-kuvendi-do-te-jete-per-deputetet-dhe-makinat-zyrtare/",
+      "description": "Hapësira pranë Kuvendit, e cila më parë ishte parking i paligjshëm dhe ku do të ndërtohej garazh shumëkatësh, do të transformohet në parking për automjetet e delegacioneve dhe makinat zyrtare. 101,951,456 denarë (rreth 1.6 milion euro) do të shpenzohen për rregullimin e zonës dhe ndërtimin e parking",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T09:20:35+00:00",
+      "dateStr": "19 Aug, 09:20",
+      "isNew": true,
+      "id": "24 01787131235"
+    },
+    {
+      "title": "Shtypi i ditës, falas për qytetarët në Bibliotekën Kombëtare",
+      "link": "https://24-ore.com/shtypi-i-dites-falas-per-qytetaret-ne-biblioteken-kombetare/",
+      "description": "Pas tetë vitesh ndërprerjeje, Biblioteka Kombëtare rikthen një shërbim të munguar për lexuesit: mundësinë për të lexuar falas shtypin e ditës në ambientet e Qendrës “Sotir Kolea”. Tani, qytetarët, studentët, studiuesit dhe të gjithë të interesuarit do të mund të ndjekin çdo ditë gazetat dhe botimet ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T09:18:47+00:00",
+      "dateStr": "19 Aug, 09:18",
+      "isNew": true,
+      "id": "24 11787131127"
+    },
+    {
+      "title": "Zjarret në Pukë/ Mali i Tërbunit qetësohet, flakët përhapen në Gjegjan-Gojan",
+      "link": "https://24-ore.com/zjarret-ne-puke-mali-i-terbunit-qetesohet-flaket-perhapen-ne-gjegjan-gojan/",
+      "description": "Situata në Malin e Tërbunit, pas disa ditësh në flakë, sot paraqitet e qetë. Ndërsa në zonën Gjegjan–Gojan vijon të jetë më dinamike, për shkak të përhapjes së zjarrit, e favorizuar nga temperaturat e larta dhe era. Në terren janë angazhuar dy mjete zjarrfikëse të Bashkive Pukë dhe Fushë-Arrëz, efek",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T09:16:26+00:00",
+      "dateStr": "19 Aug, 09:16",
+      "isNew": true,
+      "id": "24 21787130986"
+    },
+    {
+      "title": "Gjykata Ndërkombëtare Penale hedh poshtë sanksionet e reja të SHBA",
+      "link": "https://abcnews.al/gjykata-nderkombetare-penale-hedh-poshte-sanksionet-e-reja-te-shba/",
+      "description": "Gjykata Ndërkombëtare Penale (GJNP) të mërkurën hodhi poshtë fuqishëm sanksionet e reja të SHBA-së ndaj kryetares së gjykatës dhe një juristi të lartë në Zyrën e Prokurorit, duke i cilësuar masat si “sulm flagrant” ndaj pavarësisë gjyqësore. Sanksionet e fundit kanë në shënjestër kryetaren e GJNP-së",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T09:14:34+00:00",
+      "dateStr": "19 Aug, 09:14",
+      "isNew": true,
+      "id": "abc11787130874"
+    },
+    {
+      "title": "Franca miraton ligjin për vdekjen e asistuar, hyn zyrtarisht në fuqi",
+      "link": "https://abcnews.al/franca-miraton-ligjin-per-vdekjen-e-asistuar-hyn-zyrtarisht-ne-fuqi/",
+      "description": "Presidenti francez Emmanuel Macron ka shpallur ligjin që njeh të drejtën për vdekje të asistuar, duke i dhënë fund një debati disa-vjeçar politik dhe shoqëror në Francë. Ligji u publikua sot në Gazetën Zyrtare dhe ka hyrë zyrtarisht në fuqi. Megjithatë, zbatimi praktik i tij nuk do të nisë menjëherë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T09:10:45+00:00",
+      "dateStr": "19 Aug, 09:10",
+      "isNew": true,
+      "id": "abc21787130645"
+    },
+    {
+      "title": "Lojërat Mesdhetare Taranto 2026/ Bushi: Jo thjesht pjesëmarrës, të tregojmë personalitet",
+      "link": "https://24-ore.com/lojerat-mesdhetare-taranto-2026-bushi-jo-thjesht-pjesemarres-te-tregojme-personalitet/",
+      "description": "Kombëtarja shqiptare U-21 do të marrë pjesë në Lojërat Mesdhetare “Taranto 2026”, qw do tw transmetohen nw RTSH. Trajneri Alban Bushi ka publikuar listën e futbollistëve që do të përfaqësojnë Shqipërinë në këtë kompeticion të rëndësishëm ndërkombëtar. Pas publikimit të listës, ai ka folur për fshf.o",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T09:10:25+00:00",
+      "dateStr": "19 Aug, 09:10",
+      "isNew": true,
+      "id": "24 31787130625"
+    },
+    {
+      "title": "Surpriza/ Luka Modric mund të vazhdojë me Kroacinë, takim me trajnerin Bilic",
+      "link": "https://24-ore.com/surpriza-luka-modric-mund-te-vazhdoje-me-kroacine-takim-me-trajnerin-bilic/",
+      "description": "Trajneri Bilic, i rikthyer në krye të kombëtares, ka takuar ish-“Topin e Artë” për ta bindur të luajë në Nations League. Edhe pak ndeshje “shahu” Luka… Slaven Bilic prej një muaji ka marrë drejtimin e Kroacisë, trajneri i së cilës ka qenë nga 2006-a deri në 2012-ën. Ai menjëherë ka thënë: “Një nga g",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T09:09:59+00:00",
+      "dateStr": "19 Aug, 09:09",
+      "isNew": true,
+      "id": "24 41787130599"
+    },
+    {
+      "title": "U shemb dy herë në fushë, Musiala thyen heshtjen: Kam një çrregullim neurologjik, dua ta mbaj brenda rrethit tim të ngushtë…",
+      "link": "https://shekulli.com.al/2026/08/19/u-shemb-dy-here-ne-fushe-musiala-thyen-heshtjen-kam-nje-crregullim-neurologjik-dua-ta-mbaj-brenda-rrethit-tim-te-ngushte/",
+      "description": "Jamal Musiala ka reaguar pas episodit të dytë të fikëtit në pak ditë, duke qetësuar tifozët dhe duke dhënë detaje për gjendjen e tij shëndetësore. Ylli i Bayern Munichut u detyrua të largohej nga fusha edhe në ndeshjen miqësore të së martës ndaj Heidenheimit, pasi pësoi një tjetër episod të ngjashëm",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-19T09:09:16+00:00",
+      "dateStr": "19 Aug, 09:09",
+      "isNew": true,
+      "id": "she11787130556"
+    },
+    {
+      "title": "Vrasja e turistit portugez në Ksamil, pezullohen nga detyra dy efektivët e policisë (Emrat)",
+      "link": "https://shekulli.com.al/2026/08/19/vrasja-e-turistit-portugez-ne-ksamil-pezullohen-nga-detyra-dy-efektivet-e-policise-emrat/",
+      "description": "Miosid Matushaj dhe Romeo Shehu janë pezulluar nga detyra në strukturat e policisë së shtetit, për shkak të ngjarjes së rëndë të ndodhur në Ksamil, ku u vra turisti portugez &#160;Luis Miguel Varela Mendes. Matushaj, punonjës i strukturave të Policisë së Kufirit dhe Migracionit në Gjirokastër, dhe S",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-19T08:53:15+00:00",
+      "dateStr": "19 Aug, 08:53",
+      "isNew": true,
+      "id": "she21787129595"
+    },
+    {
+      "title": "Gjirokastër/ Merr flakë biznesi pranë Liqenit të Viroit",
+      "link": "https://24-ore.com/gjirokaster-merr-flake-biznesi-prane-liqenit-te-viroit/",
+      "description": "Një zjarr ka rënë në një biznes në afërsi të Liqenit të Viroit në Gjirokastër. Me mbërritjen e shërbimeve, u konstatua se flakët kishin përfshirë një ambient që përdorej për mbajtjen e kompresorëve të ajrit. Zjarrfikësit ndërhynë me shpejtësi, duke përdorur fikëse me pluhur dhe ujë. Falë ndërhyrjes ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T08:46:59+00:00",
+      "dateStr": "19 Aug, 08:46",
+      "isNew": true,
+      "id": "24 51787129219"
+    },
+    {
+      "title": "FOKUS – Çifti amerikan që shiti shtëpinë dhe la punën për të jetuar në Shqipëri",
+      "link": "https://24-ore.com/fokus-cifti-amerikan-qe-shiti-shtepine-dhe-la-punen-per-te-jetuar-ne-shqiperi/",
+      "description": "– Një shtëpi e rinovuar plotësisht, dy punë me të ardhura gjashtëshifrore që mund të kryheshin në distancë dhe një jetë e qëndrueshme, e ndërtuar hap pas hapi, megjithatë, në një moment e gjithë kjo nuk mjaftoi më dhe zgjedhja ishte të linin gjithçka pas për të nisur nga e para në Shqipëri, shkruan ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T08:46:10+00:00",
+      "dateStr": "19 Aug, 08:46",
+      "isNew": true,
+      "id": "24 61787129170"
+    },
+    {
+      "title": "VLEN: “Njerëzit e Artanit” u vërsulën kundër BDI-së",
+      "link": "https://24-ore.com/vlen-njerezit-e-artanit-u-versulen-kunder-bdi-se/",
+      "description": "Ali Ahmeti, i përjetshmi në krye të BDI-së, po e luan sërish lojën me dy fytyra. Nga njëra anë, gjoja po e shpëton Artanin nga arresti, ndërsa nga ana tjetër, përmes Artanit po ia fut këmbën Bujarit.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T08:44:50+00:00",
+      "dateStr": "19 Aug, 08:44",
+      "isNew": true,
+      "id": "24 71787129090"
+    },
+    {
+      "title": "Del foto/ Këta janë dy të rinjtë që humbën jetën nga aksidenti tragjik mëngjesin e sotëm",
+      "link": "https://shekulli.com.al/2026/08/19/del-foto-keta-jane-dy-te-rinjte-qe-humben-jeten-nga-aksidenti-tragjik-mengjesin-e-sotem/",
+      "description": "Janë publikuar fotot e dy të rinjve që humbën jetën tragjikisht, pas një aksidenti në rrugën “Mitrovicë-Prishtinë”. Viktimat janë identifikuar si Qëndrim Xhemajli dhe Rinor Zejnullahu, të cilët u aksidentuan rreth orës 02:53, pranë fshatit Smrekovnicë. Ende nuk janë bërë të ditura rrethanat e plotë ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-19T08:43:40+00:00",
+      "dateStr": "19 Aug, 08:43",
+      "isNew": true,
+      "id": "she31787129020"
+    },
+    {
+      "title": "QMK: 37 zjarre në ambiente të hapura në 24 orët e fundit, tre janë aktive",
+      "link": "https://24-ore.com/qmk-37-zjarre-ne-ambiente-te-hapura-ne-24-oret-e-fundit-tre-jane-aktive/",
+      "description": "Janë regjistruar gjithsej 37 zjarre në hapësira të hapura gjatë 24 orëve të fundit, ndërsa tre prej tyre ende janë aktive, një është nën kontroll dhe pjesa tjetër janë shuar, njoftoi Qendra për Menaxhim me Kriza (QMK). Nga zjarret aktive, pyll i përzier po digjet në Komunën e Studeniçanit, në rajoni",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T08:42:01+00:00",
+      "dateStr": "19 Aug, 08:42",
+      "isNew": true,
+      "id": "24 81787128921"
+    },
+    {
+      "title": "Zbardhen emrat e 3 të rinjve që humbën jetën në aksidentin e rëndë në Durrës, po ktheheshin nga një lokal nate",
+      "link": "https://24-ore.com/zbardhen-emrat-e-3-te-rinjve-qe-humben-jeten-ne-aksidentin-e-rende-ne-durres-po-ktheheshin-nga-nje-lokal-nate/",
+      "description": "Një aksident i rëndë tragjik ka ndodhur mëngjesin e kësaj të mërkure në rrugën dytësore të Manzës, në Durrës, duke shkaktuar tre viktima dhe dy të plagosur rëndë. Në automjet ndodheshin pesë të rinj, të gjithë banues në Sukth. Si pasojë e aksidentit kanë humbur jetën Kleo Vrioni, 25 vjeç, Sara Bruge",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T08:41:47+00:00",
+      "dateStr": "19 Aug, 08:41",
+      "isNew": true,
+      "id": "24 91787128907"
+    },
+    {
+      "title": "“Financial Times”: Irani shqyrton goditjen e objektivave amerikane në Evropë nëse Trump përshkallëzon konfliktin",
+      "link": "https://abcnews.al/financial-times-irani-shqyrton-goditjen-e-objektivave-amerikane-ne-evrope-nese-trump-pershkallezon-konfliktin/",
+      "description": "Irani ka shqyrtuar mundësinë e zgjerimit të konfliktit përtej Lindjes së Mesme, përfshirë sulme ndaj instalimeve ushtarake amerikane në Evropë, në rast se presidenti amerikan Donald Trump urdhëron sulme të reja ndaj Iranit. Sipas burimeve të cituara nga &#8220;Financial Times&#8221;, në skenarët e s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T08:33:27+00:00",
+      "dateStr": "19 Aug, 08:33",
+      "isNew": true,
+      "id": "abc31787128407"
+    },
+    {
+      "title": "Nga 4-vjeçarja në Ksamil, tek 66-vjeçari që u përplas nga taksia dhe çifti i sapomartuar në Durrës/ Jetët e humbura nga aksidentet tragjike në vend",
       "link": "https://shekulli.com.al/2026/08/19/nga-4-vjecarja-ne-ksamil-tek-66-vjecari-dhe-cifti-i-sapomartuar-ne-durres-jetet-e-humbura-nga-aksidentet-tragjike-ne-vend/",
-      "description": "Muaji gusht deri më tani ka regjistruar një bilanc të rëndë viktimash, si pasojë e aksidenteve rrugore. Plot 8 persona kanë humbur jetën në rrethana tragjike, në disa zona të vendit. Një ndër ngjarjet më të rënda ishte ajo e ndodhur në Ksamil, më 9 gusht, kur Ergys Marku do të përplaste aksidentalis",
+      "description": "Muaji gusht deri më tani ka regjistruar një bilanc të rëndë viktimash, si pasojë e aksidenteve rrugore. Plot 8 persona kanë humbur jetën në rrethana tragjike, në disa zona të vendit. Më poshtë &#8220;Shekulli&#8221; ju sjell një përmbledhje të ngjarjeve më të rënda që janë shënuar deri më tani, gjat",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-08-19T08:29:11+00:00",
       "dateStr": "19 Aug, 08:29",
       "isNew": true,
-      "id": "she01787128151"
+      "id": "she41787128151"
     },
     {
       "title": "“Për 10 vite iu dhashë e tëra krijimit të familjes”, Neda Balluku iu kërkon ndjesë mbështetësve të saj: Ju kam gënjyer…",
@@ -34,7 +221,29 @@
       "date": "2026-08-19T08:28:55+00:00",
       "dateStr": "19 Aug, 08:28",
       "isNew": true,
-      "id": "she11787128135"
+      "id": "she51787128135"
+    },
+    {
+      "title": "Ish-ministri i Mbrojtjes në Ukrainë kërkon zgjedhje gjatë luftës, sfidë e re për Zelenskyn",
+      "link": "https://abcnews.al/ish-ministri-i-mbrojtjes-ne-ukraine-kerkon-zgjedhje-gjate-luftes-sfide-e-re-per-zelenskyn/",
+      "description": "Ish-ministri ukrainas i Mbrojtjes, Mykhailo Fedorov, ka bërë thirrje për zhvillimin e zgjedhjeve edhe gjatë kohës së luftës, duke i shkaktuar një sfidë të re politike presidentit Volodymyr Zelensky. “Demokracia nuk mund të mbahet peng nga Rusia”, deklaroi Fedorov, 35 vjeç, në një video të publikuar ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T08:28:42+00:00",
+      "dateStr": "19 Aug, 08:28",
+      "isNew": true,
+      "id": "abc41787128122"
+    },
+    {
+      "title": "Zjarr në një biznes në Gjirokastër, zjarrfikësit ndërhyjnë për shuarjen e flakëve",
+      "link": "https://abcnews.al/zjarr-ne-nje-biznes-ne-gjirokaster-zjarrfikesit-nderhyjne-per-shuarjen-e-flakeve/",
+      "description": "Një zjarr ka rënë në një biznes në afërsi të Liqenit të Viroit në Gjirokastër. Me mbërritjen e shërbimeve, u konstatua se flakët kishin përfshirë një ambient që përdorej për mbajtjen e kompresorëve të ajrit. Zjarrfikësit ndërhynë me shpejtësi, duke përdorur fikëse me pluhur dhe ujë. Falë ndërhyrjes ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T08:25:56+00:00",
+      "dateStr": "19 Aug, 08:25",
+      "isNew": true,
+      "id": "abc51787127956"
     },
     {
       "title": "Dy të plagosurit e aksidentit, te Trauma/ 16-vjeçari në gjendje të rëndë shëndetësore",
@@ -45,62 +254,7 @@
       "date": "2026-08-19T08:20:08+00:00",
       "dateStr": "19 Aug, 08:20",
       "isNew": true,
-      "id": "abc01787127608"
-    },
-    {
-      "title": "I shpallur në kërkim nga Kosova për drogë, 32-vjeçari kapet me identitet të rremë në Rinas",
-      "link": "https://24-ore.com/i-shpallur-ne-kerkim-nga-kosova-per-droge-32-vjecari-kapet-me-identitet-te-rreme-ne-rinas/",
-      "description": "Një 32-vjeçar është vënë në pranga të policisë me qëllim ekstradimin drejt Kosovës. Ndaj 32-vjeçarit rëndon akuza “Blerja, posedimi, shpërndarja dhe shitja e paautorizuar e narkotikëve”. Në momentin e ndalimit në Rinas, ai i është prezantuar uniformave blu me një identitet të rremë me qëllim shmangi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T08:17:38+00:00",
-      "dateStr": "19 Aug, 08:17",
-      "isNew": true,
-      "id": "24 11787127458"
-    },
-    {
-      "title": "TEL AVIV – SHBA kritikon sulmin ajror izraelit ndaj një aeroporti ushtarak në Siri",
-      "link": "https://24-ore.com/tel-aviv-shba-kritikon-sulmin-ajror-izraelit-ndaj-nje-aeroporti-ushtarak-ne-siri/",
-      "description": "TEL AVIV, 19 gusht /ATSH-DPA/ – Izraeli ka sulmuar një aeroport ushtarak në veriperëndim të Sirisë, duke shkaktuar reagim të ashpër nga autoritetet siriane dhe shqetësim nga Shtetet e Bashkuaran të Amerikës. Ministria e Jashtme siriane tha se sulmi u krye dje në orët e para të mëngjesit dhe e dënoi ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T08:16:08+00:00",
-      "dateStr": "19 Aug, 08:16",
-      "isNew": true,
-      "id": "24 21787127368"
-    },
-    {
-      "title": "Kallëzim penal ndaj dy shtetasve turq, me kërcënime kanë detyruar dy gostivaras në veprime financiare në dëmin e tyre",
-      "link": "https://24-ore.com/kallezim-penal-ndaj-dy-shtetasve-turq-me-kercenime-kane-detyruar-dy-gostivaras-ne-veprime-financiare-ne-demin-e-tyre/",
-      "description": "MPB Maqedoni njofton se Zyra e Jashtme për Çështje Kriminalistike në Gostivar ka ngritur kallëzim penal kundër T.D. (55) dhe Z.D. (54) nga Turqia, për shkak të dyshimit të bazuar për kryerje të veprës penale “zhvatje”. &#8220;Të kallëzuarit, në vazhdimësi, nga viti 2019 deri në vitin 2026, me kërcën",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T08:10:46+00:00",
-      "dateStr": "19 Aug, 08:10",
-      "isNew": true,
-      "id": "24 31787127046"
-    },
-    {
-      "title": "Rodri i shkruan Guardiolës: Tani mund ta them, nuk i menaxhoja dot gjithë ato taktika!",
-      "link": "https://24-ore.com/rodri-i-shkruan-guardioles-tani-mund-ta-them-nuk-i-menaxhoja-dot-gjithe-ato-taktika/",
-      "description": "Rodri është zyrtarisht një lojtar i Barcelonës, pas shumë vitesh te Machester City. Për të përshëndetur tifozët e ekipit anglez ai ka shkruar një letër të gjatë në rrjetet sociale. Një mesazh prekës nga mesfushori spanjoll, i cili ka bërë edhe pak shaka, sidomos me ish-trajnerin e tij, spanjollin tj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T08:10:24+00:00",
-      "dateStr": "19 Aug, 08:10",
-      "isNew": true,
-      "id": "24 41787127024"
-    },
-    {
-      "title": "Një trup i pajetë u gjet në stadiumin e Charlton Athletic",
-      "link": "https://24-ore.com/nje-trup-i-pajete-u-gjet-ne-stadiumin-e-charlton-athletic/",
-      "description": "Një trup i pajetë u gjet në “The Valley”, stadiumi i Charlton Athletic, të martën në mëngjes. Për këtë ngjarje klubi nxorri një deklaratë të martën në mbrëmje. Charlton pohoi se “një individ i vdekur” ishte gjetur në ambientet e stadiumit. Ata shtuan se klubi po “mbështeste policinë me hetimet e tyr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T08:10:07+00:00",
-      "dateStr": "19 Aug, 08:10",
-      "isNew": true,
-      "id": "24 51787127007"
+      "id": "abc61787127608"
     },
     {
       "title": "Shirat e rrëmbyeshëm në Kinën jugperëndimore, 10 të vdekur dhe mbi 21 mijë të evakuuar",
@@ -111,7 +265,7 @@
       "date": "2026-08-19T08:08:49+00:00",
       "dateStr": "19 Aug, 08:08",
       "isNew": true,
-      "id": "abc11787126929"
+      "id": "abc71787126929"
     },
     {
       "title": "I kërkuar për trafik droge nga Kosova, arrestohet në Rinas 32-vjeçari (Emri+video)",
@@ -122,7 +276,7 @@
       "date": "2026-08-19T08:08:38+00:00",
       "dateStr": "19 Aug, 08:08",
       "isNew": true,
-      "id": "she21787126918"
+      "id": "she61787126918"
     },
     {
       "title": "Indi, nëntë persona humbin jetën nga zjarri në një hotel",
@@ -133,10 +287,10 @@
       "date": "2026-08-19T08:05:55+00:00",
       "dateStr": "19 Aug, 08:05",
       "isNew": true,
-      "id": "abc21787126755"
+      "id": "abc81787126755"
     },
     {
-      "title": "Në kërkim për veprimtari kriminale, arrestohet 32 vjecari në Kosovë, fshihej me identitet tjetër",
+      "title": "Në kërkim për veprimtari kriminale në Kosovë/ Arrestohet 32 vjecari, fshihej me identitet tjetër",
       "link": "https://abcnews.al/ne-kerkim-per-veprimtari-kriminale-arrestohet-32-vjecari-ne-kosove-fshihej-me-identitet-tjeter/",
       "description": "Akuzohet në Kosovë, për veprimtari kriminale në fushën e narkotikëve, kapet dhe arrestohet me qëllim ekstradimin, 32-vjeçari. Në momentin e ndalimit nga shërbimet e Policisë, ky shtetas është prezantuar me identitet tjetër, për të shmangur identifikimin dhe arrestimin e tij. Shërbimet e Forcës së Po",
       "source": "ABC News",
@@ -144,7 +298,7 @@
       "date": "2026-08-19T07:59:30+00:00",
       "dateStr": "19 Aug, 07:59",
       "isNew": true,
-      "id": "abc31787126370"
+      "id": "abc91787126370"
     },
     {
       "title": "Nga sherri që nisi në lokal, te lënia e kufomës pranë plazhit, dhe arratisja e pronarit të Principotes (Të gjitha detajet e krimit në Ksamil)",
@@ -155,73 +309,7 @@
       "date": "2026-08-19T07:53:11+00:00",
       "dateStr": "19 Aug, 07:53",
       "isNew": true,
-      "id": "she31787125991"
-    },
-    {
-      "title": "Gati pesë mijë fëmijë janë në pritje për një vend në kopshtet publike të Maqedonisë",
-      "link": "https://24-ore.com/gati-pese-mije-femije-jane-ne-pritje-per-nje-vend-ne-kopshtet-publike-te-maqedonise/",
-      "description": "Gati 5,000 fëmijë në Maqedoni ishin në listat e pritjes për një vend në kopshtet publike në vitin 2025, ndërsa që vendi të arrijë objektivin e planifikuar të mbulimit deri në vitin 2032, do të duhet të ofrojë rreth 19,000 vende të tjera. Në të njëjtën kohë, më shumë se 79,000 fëmijë të moshës 0 [&#8",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T07:49:50+00:00",
-      "dateStr": "19 Aug, 07:49",
-      "isNew": true,
-      "id": "24 61787125790"
-    },
-    {
-      "title": "“25 vatra zjarri, 4 mbeten aktive”, MM: Të angazhuar 3 helikopterë dhe 2 avionë Air Tractor",
-      "link": "https://24-ore.com/25-vatra-zjarri-4-mbeten-aktive-mm-te-angazhuar-3-helikoptere-dhe-2-avione-air-tractor/",
-      "description": "Ministria e Mbrojtjes ka bërë bilancin e zjarreve të 24 orëve të fundit, ku janë raportuar 25 vatra zjarri, nga të cilat 4 mbeten aktive dhe 1 është nën monitorim. Në operacionet e shuarjes janë angazhuar 350 forca operacionale dhe 26 automjete zjarrfikëse, ndërsa Forcat e Armatosura kanë mbështetur",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T07:47:07+00:00",
-      "dateStr": "19 Aug, 07:47",
-      "isNew": true,
-      "id": "24 71787125627"
-    },
-    {
-      "title": "Tirana një nga destinacionet më të përballueshme në Evropë për vitin 2026",
-      "link": "https://abcnews.al/tirana-nje-nga-destinacionet-me-te-perballueshme-ne-evrope-per-vitin-2026/",
-      "description": "Tirana është një nga kryeqytetet më të lira në Evropë për t’u vizituar, shkruan Cris Tolomia i Quartz, media ndërkombëtare me theks të fortë te biznesi dhe ekonomia, e ngjashme në profil me media si ”Bloomberg” ose ”Financial Times”, megjithëse me stil më digjital dhe më të gjerë. ”Tirana është shfa",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T07:41:33+00:00",
-      "dateStr": "19 Aug, 07:41",
-      "isNew": true,
-      "id": "abc41787125293"
-    },
-    {
-      "title": "Humbi ndjenjat për herë të dytë në fushë, Jamal Musiala shpjegon çfarë po i ndodh",
-      "link": "https://24-ore.com/humbi-ndjenjat-per-here-te-dyte-ne-fushe-jamal-musiala-shpjegon-cfare-po-i-ndodh-2/",
-      "description": "Bayern po përjeton një situatë ankthi që lidhet me gjendjen fizike të Jamal Musiala. Lojtari i talentuar, i lindur në 2003-shin, ishte protagonist i një tjetër episodi shqetësues gjatë një miqësoreje, pak ditë pas atij që ngriti alarmin. Vetë lojtari ka shpjeguar me detaje çfarë po i ndodh. Gjatë mi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T07:33:31+00:00",
-      "dateStr": "19 Aug, 07:33",
-      "isNew": true,
-      "id": "24 81787124811"
-    },
-    {
-      "title": "Humbi ndjenjat për herë të dytë në fushë, Jamal Musiala shpjegon çfarë po i ndodh",
-      "link": "https://24-ore.com/humbi-ndjenjat-per-here-te-dyte-ne-fushe-jamal-musiala-shpjegon-cfare-po-i-ndodh-3/",
-      "description": "Bayern po përjeton një situatë ankthi që lidhet me gjendjen fizike të Jamal Musiala. Lojtari i talentuar, i lindur në 2003-shin, ishte protagonist i një tjetër episodi shqetësues gjatë një miqësoreje, pak ditë pas atij që ngriti alarmin. Vetë lojtari ka shpjeguar me detaje çfarë po i ndodh. Gjatë mi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T07:33:31+00:00",
-      "dateStr": "19 Aug, 07:33",
-      "isNew": true,
-      "id": "24 91787124811"
-    },
-    {
-      "title": "Situata me zjarret/ ‘Mbrojtja’: 4 vatra vijojnë të jenë aktive, ja zonat problematike",
-      "link": "https://abcnews.al/situata-me-zjarret-mbrojtja-4-vatra-vijojne-te-jene-aktive-ja-zonat-problematike/",
-      "description": "Ministria e Mbrojtjes informon se gjatë 24 orëve të fundit janë raportuar 25 vatra zjarri, nga të cilat 4 mbeten aktive dhe 1 është nën monitorim. Në operacionet e shuarjes janë angazhuar 350 forca operacionale dhe 26 automjete zjarrfikëse, ndërsa Forcat e Armatosura kanë mbështetur me 140 efektivë,",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T07:31:39+00:00",
-      "dateStr": "19 Aug, 07:31",
-      "isNew": true,
-      "id": "abc51787124699"
+      "id": "she71787125991"
     },
     {
       "title": "Aksident tragjik/ Ndërrojnë jetë dy të rinjtë në aksin Mitrovicë-Prishtinë!",
@@ -232,7 +320,7 @@
       "date": "2026-08-19T07:31:25+00:00",
       "dateStr": "19 Aug, 07:31",
       "isNew": true,
-      "id": "she41787124685"
+      "id": "she81787124685"
     },
     {
       "title": "Kostot e larta “zhvendosin” dhe lindjet nga Tirana! Bien 5.5% në janar-qershor, rriten qarqet",
@@ -243,95 +331,7 @@
       "date": "2026-08-19T07:24:11+00:00",
       "dateStr": "19 Aug, 07:24",
       "isNew": true,
-      "id": "she51787124251"
-    },
-    {
-      "title": "Kosovë/ Aksident tragjik në Mitrovicë, humbin jetën dy të rinj",
-      "link": "https://abcnews.al/kosove-aksident-tragjik-ne-mitrovice-humbin-jeten-dy-te-rinj/",
-      "description": "Dy të rinj kanë humbur jetën si pasojë e një vetaksidenti që ka ndodhur gjatë natës në rrugën nacionale Mitrovicë-Prishtinë, përkatësisht në fshatin Smrekonicë. Sipas policisë, viktimat janë të moshës 22 dhe 24 vjeç. “Sipas të dhënave të para nga vendi i ngjarjes, në aksident është përfshirë një vet",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T07:18:59+00:00",
-      "dateStr": "19 Aug, 07:18",
-      "isNew": true,
-      "id": "abc61787123939"
-    },
-    {
-      "title": "Ishin martuar vetëm pak ditë më parë, publikohet foto e çiftit që humbi jetën në aksidentin në Manzë",
-      "link": "https://shekulli.com.al/2026/08/19/ishin-martuar-vetem-pak-dite-me-pare-publikohet-foto-e-ciftit-qe-humbi-jeten-ne-aksidentin-ne-manze/",
-      "description": "Personat që shihni në foton e mëposhtme janë Kleo Vrioni dhe Sara Brugentelli, çifti që humbi jetën në aksidentin tragjik të ndodhur gjatë natës në Manzë të Durrësit. 25-vjeçari shqiptar dhe bashkëshortja e tij italiane ishin martuar vetëm pak ditë më parë dhe ndodheshin në Shqipëri për pushime. Në ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-19T07:18:19+00:00",
-      "dateStr": "19 Aug, 07:18",
-      "isNew": true,
-      "id": "she61787123899"
-    },
-    {
-      "title": "Gjermania pritet të rizgjasë kontrollet kufitare",
-      "link": "https://abcnews.al/gjermania-pritet-te-rizgjase-kontrollet-kufitare/",
-      "description": "Kontrollet në kufijtë e jashtëm të Gjermanisë pritet të zgjaten edhe me gjashtë muaj të tjerë, pra deri në mesin e marsit 2027. Ministri i Brendshëm gjerman, Alexander Dobrindt, njoftoi zyrtarisht për këtë masë Komisionit Evropian. &#8220;Zhvillimet në kufijtë e jashtëm evropianë tregojnë se frenimi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T07:17:13+00:00",
-      "dateStr": "19 Aug, 07:17",
-      "isNew": true,
-      "id": "abc71787123833"
-    },
-    {
-      "title": "Detaje/ Aksidenti tragjik në Durrës, çifti që humbi jetën ishte martuar pak ditë më parë",
-      "link": "https://abcnews.al/detaje-aksidenti-tragjik-ne-durres-cifti-qe-humbi-jeten-ishte-martuar-pak-dite-me-pare/",
-      "description": "DURRËS- Të tjera detaje janë zbardhur nga aksidenti tragjik i ndodhur gjatë orëve të para të mëngjesit në rrugën dytësore në Manzë, ku humbën jetën tre persona dhe dy të tjerë mbetën të plagosur. Drejtuesi i automjetit, Kleo Vrioni dhe italiania Sara Brugentelli kishin kurorëzuar dashurinë e tyre në",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T07:08:32+00:00",
-      "dateStr": "19 Aug, 07:08",
-      "isNew": true,
-      "id": "abc81787123312"
-    },
-    {
-      "title": "Trump pezullon tarifat 50 për qind ndaj Kanadasë: Kemi arritur marrëveshje",
-      "link": "https://abcnews.al/trump-pezullon-tarifat-50-per-qind-ndaj-kanadase-kemi-arritur-marreveshje/",
-      "description": "Kam pezulluar tarifat doganore prej 50% ndaj Kanadasë, të cilat do të hynin në fuqi nesër në mëngjes, shkroi presidenti Donald Trump në rrjetin e tij Truth Social. ‘Kanadaja dhe SHBA  në pritje të përfundimit të dokumenteve – kanë arritur një marrëveshje!”, shkroi ai. Tubacioni i madh i naftës Keyst",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T06:45:30+00:00",
-      "dateStr": "19 Aug, 06:45",
-      "isNew": true,
-      "id": "abc91787121930"
-    },
-    {
-      "title": "Tragjedia në Manzë/ Çifti i sapomartuar humb jetën në aksident, mes viktimave edhe një 15-vjeçar (emrat)",
-      "link": "https://shekulli.com.al/2026/08/19/tragjedia-ne-manze-cifti-i-sapomartuar-humb-jeten-ne-aksident-mes-viktimave-edhe-nje-15-vjecar-emrat/",
-      "description": "Një aksident tragjik i ndodhur gjatë natës në Manzë të Durrësit u ka marrë jetën tre të rinjve, ndërsa dy të tjerë kanë mbetur të plagosur. Viktimat janë identifikuar si Kleo Vrioni, 25 vjeç, drejtuesi i automjetit, Sara Brugentelli, 26 vjeçe, shtetase italiane, dhe Alvi Muhaxhiri, 15 vjeç. Detaji m",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-19T06:27:52+00:00",
-      "dateStr": "19 Aug, 06:27",
-      "isNew": true,
-      "id": "she71787120872"
-    },
-    {
-      "title": "Aksident tragjik në Durrës, 3 të rinj humbin jetën, 2 të plagosur rëndë",
-      "link": "https://shekulli.com.al/2026/08/19/aksident-tragjik-ne-durres-3-te-rinj-humbin-jeten-2-te-plagosur-rende/",
-      "description": "Një aksident i rëndë ka ndodhur gjatë natës në Manzë të Durrësit, ku tre të rinj kanë humbur jetën dhe dy të tjerë janë plagosur. Ngjarja ndodhi rreth orës 02:22, në një rrugë dytësore të Manzës. Automjeti me të cilin udhëtonin pesë persona ka dalë nga rruga dhe është përplasur me një bordurë betoni",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-19T06:01:16+00:00",
-      "dateStr": "19 Aug, 06:01",
-      "isNew": true,
-      "id": "she81787119276"
-    },
-    {
-      "title": "Vrasja e turistit në Ksamil, Fevziu: Kjo është katastrofë, jemi të këqinjtë e vetes",
-      "link": "https://shekulli.com.al/2026/08/18/vrasja-e-turistit-ne-ksamil-fevziu-kjo-eshte-katastrofe-jemi-te-keqinjte-e-vetes/",
-      "description": "Gazetari Blendi Fevziu ka reaguar pas vrasjes së turistit 20-vjeçar në Ksamil, duke e cilësuar ngjarjen si një goditje të rëndë për imazhin e turizmit shqiptar. Përmes një reagimi publik, Fevziu u shpreh se problemi nuk qëndron vetëm te ngjarja e rëndë, por edhe te mënyra se si shqiptarët sillen me ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-18T20:29:40+00:00",
-      "dateStr": "18 Aug, 20:29",
-      "isNew": true,
-      "id": "she91787084980"
+      "id": "she91787124251"
     }
   ]
 }
