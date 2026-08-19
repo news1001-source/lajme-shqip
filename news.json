@@ -1,29 +1,183 @@
 {
-  "lastUpdated": "2026-08-19T15:26:10.799696+00:00",
+  "lastUpdated": "2026-08-19T16:24:44.815850+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Elbasani zyrtarizon Kleandro Lleshin, një alternativë më shumë për mbrojtjen dhe mesfushën",
-      "link": "https://24-ore.com/elbasani-zyrtarizon-kleandro-lleshin-nje-alternative-me-shume-per-mbrojtjen-dhe-mesfushen/",
-      "description": "Kleandro Lleshi është futbollisti më i ri i Elbasanit, që mbetet aktiv në merkaton e verës. Vetëm pak ditë më parë verdheblutë prezantuan mesfushorin Ardit Deliu, një lojtar më shumë eksperiencë në futbollin shqiptar. Lleshi së fundi ishte pjesë e Tiranës, ndërkohë që më parë ka veshur fanellën e La",
+      "title": "Eurodeputeti francez Raphaël Glucksmann përgatitet të shpallë kandidaturën për president",
+      "link": "https://24-ore.com/eurodeputeti-francez-raphael-glucksmann-pergatitet-te-shpalle-kandidaturen-per-president/",
+      "description": "Eurodeputeti francez Raphaël Glucksmann përgatitet të shpallë kandidaturën për presidentEurodeputeti i qendrës së majtë, Raphaël Glucksmann, do të njoftojë se do të kandidojë në zgjedhjet presidenciale të vitit të ardhshëm në Francë brenda pak ditëve të ardhshme, me shumë mundësi në një intervistë t",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-19T15:22:35+00:00",
-      "dateStr": "19 Aug, 15:22",
+      "date": "2026-08-19T16:24:35+00:00",
+      "dateStr": "19 Aug, 16:24",
       "isNew": true,
-      "id": "24 01787152955"
+      "id": "24 01787156675"
     },
     {
-      "title": "Curtis Jones është i Interit, 35 milionë euro në arkat e Liverpulit",
-      "link": "https://24-ore.com/curtis-jones-eshte-i-interit-35-milione-euro-ne-arkat-e-liverpulit/",
-      "description": "Ndjekja e gjatë po shkon drejt fundit: Curtis Jones është gati të veshë fanellën e Interit. Mesfushori – i lindur në vitin 2001 dhe një kërkesë specifike e Cristian Chivut për t’i shtuar skuadrës një lojtar cilësor e polivalent – ​​është shumë pranë kalimit te zikaltërit. Negociatat zhbllokuan situa",
+      "title": "NATO reagon pas kërcënimeve iraniane për sulme në Evropë",
+      "link": "https://24-ore.com/nato-reagon-pas-kercenimeve-iraniane-per-sulme-ne-evrope/",
+      "description": "“NATO deklaron se është e përgatitur të përballet me çdo kërcënim dhe të marrë të gjitha masat e nevojshme për mbrojtjen e aleatëve të saj, pas raportimeve se Irani ka shqyrtuar mundësinë e sulmeve ndaj objektivave ushtarake amerikane në Evropë në rast të përshkallëzimit të konfliktit nga administra",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-19T15:22:15+00:00",
-      "dateStr": "19 Aug, 15:22",
+      "date": "2026-08-19T16:24:12+00:00",
+      "dateStr": "19 Aug, 16:24",
       "isNew": true,
-      "id": "24 11787152935"
+      "id": "24 11787156652"
+    },
+    {
+      "title": "INSTAT: Inflacioni arrin 3.4%, Shqipëria mbi mesataren e BE-së",
+      "link": "https://24-ore.com/instat-inflacioni-arrin-3-4-shqiperia-mbi-mesataren-e-be-se/",
+      "description": "Inflacioni në Shqipëri arriti në 3.4% në korrik, duke qenë 0.4 pikë përqindjeje mbi mesataren e Bashkimit Evropian. Rritjen e çmimeve e udhëhoqën ushqimet, transporti dhe shërbimet e turizmit. Inflacioni në Shqipëri, i matur sipas metodologjisë së harmonizuar që përdoret për krahasimin e vendeve evr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T16:23:27+00:00",
+      "dateStr": "19 Aug, 16:23",
+      "isNew": true,
+      "id": "24 21787156607"
+    },
+    {
+      "title": "Venezuela braktis Maduron në fatin e tij",
+      "link": "https://24-ore.com/venezuela-braktis-maduron-ne-fatin-e-tij/",
+      "description": "Qeveria e Venezuelës duket se e ka braktisur ish-presidentin Nicolás Maduro që po përballet me drejtësinë amerikane në New York. Financial Times raporton se gjatë thuajse dy javëve bisedime me opozitën, ish-presidenti nuk është përmendur fare. Në janar, presidentja në detyrë Delcy Rodríguez e cilëso",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T16:23:10+00:00",
+      "dateStr": "19 Aug, 16:23",
+      "isNew": true,
+      "id": "24 31787156590"
+    },
+    {
+      "title": "“Po digjesha nga dëshira për ta nxjerrë nga vetja, por nuk mundesha”, rrëfimi emocional i Camillas për sekretin e sëmundjes së mbretit Charles",
+      "link": "https://24-ore.com/po-digjesha-nga-deshira-per-ta-nxjerre-nga-vetja-por-nuk-mundesha-rrefimi-emocional-i-camillas-per-sekretin-e-semundjes-se-mbretit-charles/",
+      "description": "Mbretëresha Camilla ka folur për herë të parë për vështirësinë që përjetoi kur iu desh të mbante sekret diagnozën e kancerit të bashkëshortit të saj, Mbretit Charles, përpara se lajmi të bëhej publik. Në një film të publikuar për 30-vjetorin e organizatës së mbështetjes për pacientët me kancer Maggi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T16:22:53+00:00",
+      "dateStr": "19 Aug, 16:22",
+      "isNew": true,
+      "id": "24 41787156573"
+    },
+    {
+      "title": "“Kurti po izolon Kosovën”/ Bislimi: Kriza institucionale ka krijuar edhe krizë ekonomike",
+      "link": "https://abcnews.al/kurti-po-izolon-kosoven-bislimi-kriza-institucionale-ka-krijuar-edhe-krize-ekonomike/",
+      "description": "Anëtari i kryesisë “Aleanca”, Labinot Bislimi thotë se kryeministri në detyrë i Kosovës, Albin Kurti e ka izoluar vendin dhe nuk ka aleatë. Në një intervistë për &#8220;Tirana Live&#8221; në ABC News, Bislimi u shpreh se kriza institucionale ka krijuar edhe krizë ekonomike. Sipas Bislimit, Kurti do ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T16:22:46+00:00",
+      "dateStr": "19 Aug, 16:22",
+      "isNew": true,
+      "id": "abc01787156566"
+    },
+    {
+      "title": "U shkarkua nga detyra, ish-ministri i Mbrojtjes i Ukrainës kërkon zgjedhje në sfidë ndaj Zelenskyt",
+      "link": "https://24-ore.com/u-shkarkua-nga-detyra-ish-ministri-i-mbrojtjes-i-ukraines-kerkon-zgjedhje-ne-sfide-ndaj-zelenskyt/",
+      "description": "Mykhailo Fedorov ka bërë thirrje për zgjedhje në Ukrainë pavarësisht pushtimit të vazhdueshëm të Rusisë, pasi shkarkimi i tij nga posti i ministrit të mbrojtjes shkaktoi protesta mbarëkombëtare kundër Presidentit Volodymyr Zelenskyy. Presidenti ka qenë nën presion në rritje në vend pas riorganizimit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T16:22:36+00:00",
+      "dateStr": "19 Aug, 16:22",
+      "isNew": true,
+      "id": "24 51787156556"
+    },
+    {
+      "title": "Çmimet e naftës rriten ndërsa bisedimet për paqe mes SHBA dhe Iranit ngecin",
+      "link": "https://24-ore.com/cmimet-e-naftes-rriten-ndersa-bisedimet-per-paqe-mes-shba-dhe-iranit-ngecin/",
+      "description": "Çmimet e naftës po qëndrojnë mbi 90 dollarë për fuçi, ndërsa bisedimet midis Iranit dhe Shteteve të Bashkuara mbeten në një ngërç. Brent tani po tregtohet në nivelin më të lartë në pothuajse një muaj, pasi tregtarët vlerësojnë një ndërprerje të zgjatur të rrjedhave të naftës përmes ngushticës së Hor",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T16:22:23+00:00",
+      "dateStr": "19 Aug, 16:22",
+      "isNew": true,
+      "id": "24 61787156543"
+    },
+    {
+      "title": "Emiratet e Bashkuara Arabe ndërpresin marrëdhëniet tregtare dhe financiare me Iranin pas sulmeve me raketa",
+      "link": "https://24-ore.com/emiratet-e-bashkuara-arabe-nderpresin-marredheniet-tregtare-dhe-financiare-me-iranin-pas-sulmeve-me-raketa/",
+      "description": "Emiratet e Bashkuara Arabe kanë ndërprerë të gjitha transaksionet tregtare, shkëmbimet tregtare dhe financiare me Iranin deri në njoftim të mëtejshëm, duke ndërprerë lidhjet ekonomike me fqinjin e tyre pas një raundi të ri raketash që shënjestruan vendin. “Në dritën e përshkallëzimeve rajonale, të g",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T16:22:09+00:00",
+      "dateStr": "19 Aug, 16:22",
+      "isNew": true,
+      "id": "24 71787156529"
+    },
+    {
+      "title": "U mbyt nga një copë proshutë, 28-vjeçarja humb jetën pas gjashtë ditësh",
+      "link": "https://shekulli.com.al/2026/08/19/u-mbyt-nga-nje-cope-proshute-28-vjecarja-humb-jeten-pas-gjashte-ditesh/",
+      "description": "Një ngjarje tragjike ka tronditur Capodimonte, në provincën e Viterbos në Itali, ku Rachele Ferrara, 28 vjeçe dhe nënë e dy fëmijëve, ka humbur jetën pasi u mbyt gjatë ngrënies. Ngjarja ndodhi më 13 gusht, kur një copë proshutë i bllokoi rrugët e frymëmarrjes. E reja doli në rrugë për të kërkuar ndi",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-19T16:19:50+00:00",
+      "dateStr": "19 Aug, 16:19",
+      "isNew": true,
+      "id": "she01787156390"
+    },
+    {
+      "title": "“Të jetoj i lirë” – Intervista e fundit e Thaçit para 16 shtatorit, të enjten në Debat Plus",
+      "link": "https://24-ore.com/te-jetoj-i-lire-intervista-e-fundit-e-thacit-para-16-shtatorit-te-enjten-ne-debat-plus/",
+      "description": "Presidenti, Hashim Thaçi, do të jetë protagonist i një interviste ekskluzive në emisionin “Debat Plus” të TV Dukagjinit, e cila do të transmetohet nesër, të enjten, në ora 20:30. Intervista me Thaçin vjen në një periudhë vendimtare, pak javë para shpalljes së aktgjykimit nga Dhomat e Specializuara t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T16:18:16+00:00",
+      "dateStr": "19 Aug, 16:18",
+      "isNew": true,
+      "id": "24 81787156296"
+    },
+    {
+      "title": "“Situata është nën kontroll”- Harta e zjarreve në vend, ministri Nufi: Operacion pa ndërprerje, nuk ka rrezik për zona",
+      "link": "https://24-ore.com/situata-eshte-nen-kontroll-harta-e-zjarreve-ne-vend-ministri-nufi-operacion-pa-nderprerje-nuk-ka-rrezik-per-zona/",
+      "description": "Situata e zjarreve gjatë ditës së sotme është paraqitur më e qetë, me vetëm 4 vatra aktive nga 6 të evidentuara gjithsej. Forcat e Armatosura po punojnë intensivisht për izolimin e vatrave të zjarrit në disa zona të vendit, kryesisht në Pukë dhe Dajt. Ministria e Mbrojtjes raportoi se ndërhyrjet jan",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T16:17:55+00:00",
+      "dateStr": "19 Aug, 16:17",
+      "isNew": true,
+      "id": "24 91787156275"
+    },
+    {
+      "title": "Vrasja në Ksamil/ Autori: Sherri nisi për zhurmën në lokal, thikën e kishte portugezi",
+      "link": "https://abcnews.al/vrasja-ne-ksamil-autori-sherri-nisi-per-zhurmen-ne-lokal-thiken-e-kishte-portugezi/",
+      "description": "Policia ka marrë në pyetje në cilësinë e dëshmitarëve turistët që ndodheshin në “Principote” në momentin kur u vra 20-vjeçari portugez, Luis Miguel Varela Mendes. Sipas dëshmive të tyre, ata nuk e kanë parë skenën e krimit dhe nuk e kanë kuptuar se shoku i tyre ishte goditur me thikë. Nga ana tjetër",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T15:54:37+00:00",
+      "dateStr": "19 Aug, 15:54",
+      "isNew": true,
+      "id": "abc11787154877"
+    },
+    {
+      "title": "FOTO/ Kush është turisti që u vra në Ksamil, Luisi zgjodhi Shqipërinë për të pushuar dhe do kthehet i pajetë në atdhe",
+      "link": "https://shekulli.com.al/2026/08/19/foto-kush-eshte-turisti-qe-u-vra-ne-ksamil-luisi-zgjodhi-shqiperine-per-te-pushuar-dhe-do-kthehet-i-pajete-ne-atdhe/",
+      "description": "TIRANË- Është publikuar fotoja e të riut, Luis Miguel Varela Mendes, që mbeti i vrarë në orët e para të mëngjesit të së hënës në Ksamil. 21-vjeçari mbeti i vrarë në Ksamil, ndërkohë që u arrestua autori i dyshuar Sokrat Vata, si dhe 10 persona të tjerë, nën akuzën e bashkëpunimit dhe moskallëzimin t",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-19T15:49:06+00:00",
+      "dateStr": "19 Aug, 15:49",
+      "isNew": true,
+      "id": "she11787154546"
+    },
+    {
+      "title": "Lavrov: Rusia dhe Koreja e Veriut synojnë “rend të ri botëror”",
+      "link": "https://abcnews.al/lavrov-rusia-dhe-koreja-e-veriut-synojne-rend-te-ri-boteror/",
+      "description": "Ministri i Jashtëm rus, Sergei Lavrov, i tha homologes së tij koreano-veriore, Choe Son Hui, se Rusia dhe Koreja e Veriut po punojnë për krijimin e një “rendi të ri dhe të drejtë botëror”, ndërsa dy vendet po thellojnë bashkëpunimin e tyre. Sipas agjencisë shtetërore koreano-verioreKCNA, Lavrov riko",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T15:32:39+00:00",
+      "dateStr": "19 Aug, 15:32",
+      "isNew": true,
+      "id": "abc21787153559"
+    },
+    {
+      "title": "Gjashtë gra të vrara në pak ditë, alarm në Itali: viktima nga Kalabria në Romë e Venecia",
+      "link": "https://shekulli.com.al/2026/08/19/gjashte-gra-te-vrara-ne-pak-dite-alarm-ne-itali-viktima-nga-kalabria-ne-rome-e-venecia/",
+      "description": "Italia është tronditur nga një seri vrasjesh të grave, me gjashtë femicide të regjistruara brenda pak ditësh në zona të ndryshme të vendit. Dy prej rasteve më të fundit ndodhën të martën. Në Kalabri, pranë Kozencës, një 72-vjeçare u vra brutalisht nga bashkëshorti i saj 74-vjeçar, i cili dyshohet se",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-19T15:28:55+00:00",
+      "dateStr": "19 Aug, 15:28",
+      "isNew": true,
+      "id": "she21787153335"
     },
     {
       "title": "Përplasja e dy mjeteve lundruese në Koman, dy helikopterë transportojnë të plagosurit në spitalin e Shkodrës",
@@ -34,73 +188,7 @@
       "date": "2026-08-19T15:21:55+00:00",
       "dateStr": "19 Aug, 15:21",
       "isNew": true,
-      "id": "abc01787152915"
-    },
-    {
-      "title": "Arbitrimi shqiptar përgatitet për sezonin e ri, mbyllet seminari 4-ditor për arbitrat e Kategorisë së Parë",
-      "link": "https://24-ore.com/arbitrimi-shqiptar-pergatitet-per-sezonin-e-ri-mbyllet-seminari-4-ditor-per-arbitrat-e-kategorise-se-pare/",
-      "description": "Sektori i Arbitrimit në Federatën Shqiptare të Futbollit përmbylli me sukses seminarin 4-ditor për arbitrat e Kategorisë së Parë, në kuadër të përgatitjeve për sezonin e ri futbollistik në kampionatin “Abissnet Superiore”. Në këtë seminar mori pjesë edhe instruktori i UEFA-s, Kosta Capitanis, i cili",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T15:21:48+00:00",
-      "dateStr": "19 Aug, 15:21",
-      "isNew": true,
-      "id": "24 21787152908"
-    },
-    {
-      "title": "Brock Rechsteiner rrëzon Jalen Thompson të Cowboys gjatë një përplasje në stërvitjen e përbashkët",
-      "link": "https://24-ore.com/brock-rechsteiner-rrezon-jalen-thompson-te-cowboys-gjate-nje-perplasje-ne-stervitjen-e-perbashket/",
-      "description": "Gjatë një stërvitjeje të përbashkët mes New Orleans Saints dhe Dallas Cowboys u zhvillua një përplasje që u shoqërua me tension; në një moment, wide receiv...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T15:21:35+00:00",
-      "dateStr": "19 Aug, 15:21",
-      "isNew": true,
-      "id": "24 31787152895"
-    },
-    {
-      "title": "Kelsey Mitchell u largua në dhomat e zhveshjes për shkak të mbinxehjes gjatë fitores së Fever ndaj Toronto",
-      "link": "https://24-ore.com/kelsey-mitchell-u-largua-ne-dhomat-e-zhveshjes-per-shkak-te-mbinxehjes-gjate-fitores-se-fever-ndaj-toronto/",
-      "description": "Kelsey Mitchell shënoi 29 pikë në tre çerekët e parë të ndeshjes që Indiana Fever fitoi 101-95 në transfertë ndaj Toronto Tempo, por u largua drejt dhomave...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T15:17:24+00:00",
-      "dateStr": "19 Aug, 15:17",
-      "isNew": true,
-      "id": "24 41787152644"
-    },
-    {
-      "title": "Si do të rindërtoheshin skuadrat me klasat e draftit NBA 2021–2025",
-      "link": "https://24-ore.com/si-do-te-rindertoheshin-skuadrat-me-klasat-e-draftit-nba-2021-2025/",
-      "description": "Në një ushtrim rishikimi të klasave të draftit të periudhës 2021–2025, analistë dhe redaktorë të NBA-së renditën lojtarët më të vlefshëm dhe propozuan mëny...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T15:16:04+00:00",
-      "dateStr": "19 Aug, 15:16",
-      "isNew": true,
-      "id": "24 51787152564"
-    },
-    {
-      "title": "Shasivari – Miller: Prioriteti ynë është interesi më i mirë i fëmijës, në përputhje me Konventën për të Drejtat e Fëmijës",
-      "link": "https://24-ore.com/shasivari-miller-prioriteti-yne-eshte-interesi-me-i-mire-i-femijes-ne-perputhje-me-konventen-per-te-drejtat-e-femijes/",
-      "description": "Ministri i Drejtësisë, Jeton Shasivari, sot realizoi një takim pune me përfaqësuesen e UNICEF‑it, Lesli Miller, në të cilin u shqyrtuan çështje kyçe që lidhen me përmirësimin e sistemit të drejtësisë për fëmijët. Në takim u theksua se interesi më i mirë i fëmijës mbetet prioritet kryesor, në përputh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T15:10:41+00:00",
-      "dateStr": "19 Aug, 15:10",
-      "isNew": true,
-      "id": "24 61787152241"
-    },
-    {
-      "title": "Programi ‘Hometown Remix’ sjell uniforma dhe koleksione veshjesh për të gjitha 32 skuadrat në sezonin 2026-27",
-      "link": "https://24-ore.com/programi-hometown-remix-sjell-uniforma-dhe-koleksione-veshjesh-per-te-gjitha-32-skuadrat-ne-sezonin-2026-27/",
-      "description": "Të gjitha 32 skuadrat e kampionatit do të prezantojnë një pamje të re këtë sezon: uniforma speciale që synojnë të nderojnë në mënyrë autentike tifozët, qyt...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T15:07:15+00:00",
-      "dateStr": "19 Aug, 15:07",
-      "isNew": true,
-      "id": "24 71787152035"
+      "id": "abc31787152915"
     },
     {
       "title": "Dy mjete lundruese përplasen në Liqenin e Komanit, 5 të plagosur",
@@ -111,29 +199,7 @@
       "date": "2026-08-19T15:05:06+00:00",
       "dateStr": "19 Aug, 15:05",
       "isNew": true,
-      "id": "abc11787151906"
-    },
-    {
-      "title": "Emma Roberts rigjallëzon kombinimin tee dhe xhinse me balerina florale Maison Margiela",
-      "link": "https://24-ore.com/emma-roberts-rigjallezon-kombinimin-tee-dhe-xhinse-me-balerina-florale-maison-margiela/",
-      "description": "Emma Roberts shndriti kombinimin e thjeshtë të një t-shirti grafik dhe xhinsave me bel të lartë gjatë një daljeje për kafe në Los Angeles, duke i shtuar pa...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T15:00:59+00:00",
-      "dateStr": "19 Aug, 15:00",
-      "isNew": true,
-      "id": "24 81787151659"
-    },
-    {
-      "title": "Dy oficerë, jo një popull",
-      "link": "https://24-ore.com/dy-oficere-jo-nje-popull/",
-      "description": "Kosova nuk toleron forcën policore të paligjshme. Gjithashtu, ajo nuk pranon që një rast që institucionet e saj po hetojnë të përdoret si provë e persekutimit të serbëve. Nga Albatros Rexhaj &#124; Inspektorati i Policisë së Kosovës ka rekomanduar pezullimin e dy oficerëve të Drejtorisë Rajonale në ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T15:00:54+00:00",
-      "dateStr": "19 Aug, 15:00",
-      "isNew": true,
-      "id": "24 91787151654"
+      "id": "abc41787151906"
     },
     {
       "title": "News Hour me Erneta Shevroja, (19/08/2026)",
@@ -144,7 +210,7 @@
       "date": "2026-08-19T14:48:57+00:00",
       "dateStr": "19 Aug, 14:48",
       "isNew": true,
-      "id": "abc21787150937"
+      "id": "abc51787150937"
     },
     {
       "title": "OpenAI ngadalëson trajnimin e modeleve të avancuara pas një sulmi kibernetik",
@@ -155,7 +221,7 @@
       "date": "2026-08-19T14:35:08+00:00",
       "dateStr": "19 Aug, 14:35",
       "isNew": true,
-      "id": "abc31787150108"
+      "id": "abc61787150108"
     },
     {
       "title": "Tragjedi në Angli, familja futet në det për të shpëtuar vajzën: prindërit dhe motra mbyten",
@@ -166,7 +232,7 @@
       "date": "2026-08-19T14:33:18+00:00",
       "dateStr": "19 Aug, 14:33",
       "isNew": true,
-      "id": "she01787149998"
+      "id": "she31787149998"
     },
     {
       "title": "SHBA godet rrjetin iranian të hakerëve: 17 të akuzuar për vjedhjen e miliarda dollarëve në të dhëna",
@@ -177,7 +243,7 @@
       "date": "2026-08-19T14:30:36+00:00",
       "dateStr": "19 Aug, 14:30",
       "isNew": true,
-      "id": "abc41787149836"
+      "id": "abc71787149836"
     },
     {
       "title": "Arrestohet në Kroaci një i dyshuar për shpërthimet në gazsjellësin Nord Stream",
@@ -188,7 +254,7 @@
       "date": "2026-08-19T14:15:14+00:00",
       "dateStr": "19 Aug, 14:15",
       "isNew": true,
-      "id": "abc51787148914"
+      "id": "abc81787148914"
     },
     {
       "title": "Tensione politike në Ukrainë mes bastisjeve kundër korrupsionit dhe sfidës së Fedorovit",
@@ -199,7 +265,7 @@
       "date": "2026-08-19T14:06:15+00:00",
       "dateStr": "19 Aug, 14:06",
       "isNew": true,
-      "id": "abc61787148375"
+      "id": "abc91787148375"
     },
     {
       "title": "Aksidenti me 3 viktima në Durrës, shoferi po ecte me 114km/h, kishte konsumuar alkool. Makina u zvarrit 40 metra para se…",
@@ -210,7 +276,7 @@
       "date": "2026-08-19T14:03:15+00:00",
       "dateStr": "19 Aug, 14:03",
       "isNew": true,
-      "id": "she11787148195"
+      "id": "she41787148195"
     },
     {
       "title": "Përplasen dy skafe pranë liqenit të Komanit, 5 persona të plagosur",
@@ -221,40 +287,7 @@
       "date": "2026-08-19T13:52:05+00:00",
       "dateStr": "19 Aug, 13:52",
       "isNew": true,
-      "id": "she21787147525"
-    },
-    {
-      "title": "BBC: Ushtria izraelite urdhëron hetim penal për vrasjen e 5-vjeçares në Gaza",
-      "link": "https://abcnews.al/bbc-ushtria-izraelite-urdheron-hetim-penal-per-vrasjen-e-5-vjecares-ne-gaza/",
-      "description": "Forcat e Mbrojtjes së Izraelit (IDF) kanë urdhëruar hapjen e një hetimi penal për vrasjen e 5-vjeçares palestineze Hind Rajab në Gaza, një rast që shkaktoi reagime të forta ndërkombëtare. Hind Rajab ishte një nga shtatë anëtarët e një familjeje që po përpiqej të largohej nga bombardimet në qytetin e",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T13:39:02+00:00",
-      "dateStr": "19 Aug, 13:39",
-      "isNew": true,
-      "id": "abc71787146742"
-    },
-    {
-      "title": "Pozitiv me kokainë, pezullohet tenisti/ Nick Kyrgios dështoi në testet antidoping në turneun e Mallorca",
-      "link": "https://abcnews.al/pozitiv-me-kokaine-pezullohet-tenisti-nick-kyrgios-deshtoi-ne-testet-antidoping-ne-turneun-e-mallorca/",
-      "description": "Pasi prej vitesh e kishte shfaqur veten si një nga luftëtarët më të mëdhenj kundër substancave të ndaluara në tenis, Nick Kyrgios e gjen veten në qendër të një skandali doping. Australiani, i cili njihet për karakterin e tij kontrovers rezultoi pozitiv me kokainë gjatë një kontrolli të zhvilluar më ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T13:23:09+00:00",
-      "dateStr": "19 Aug, 13:23",
-      "isNew": true,
-      "id": "abc81787145789"
-    },
-    {
-      "title": "Dinamo, leku “letër”/ Kalojnë turin, Presidenti u jep shpërblimin lojtarëve",
-      "link": "https://abcnews.al/dinamo-leku-leter-kalojne-turin-presidenti-u-jep-shperblimin-lojtareve/",
-      "description": "Bonueset janë diçka normale në futboll, sidomos pas arritjeve të mëdha sportive. Ndryshimi i vetëm në Shqipëri lidhet me mënyrën si shpërndahen ato. Çështje tradite, pasi na pëlqen ta shohim paranë fizike dhe siç ndodh gjithmonë në raste gëzimi, ajo hidhet në mënyrë demonstrative. Kjo është edhe ars",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T13:21:19+00:00",
-      "dateStr": "19 Aug, 13:21",
-      "isNew": true,
-      "id": "abc91787145679"
+      "id": "she51787147525"
     },
     {
       "title": "Aksidenti me 3 viktima në Durrës, mediat italiane: 26-vjeçarja humbi jetën vetëm 3 ditë pas martesës",
@@ -265,7 +298,7 @@
       "date": "2026-08-19T13:18:24+00:00",
       "dateStr": "19 Aug, 13:18",
       "isNew": true,
-      "id": "she31787145504"
+      "id": "she61787145504"
     },
     {
       "title": "Paralajmërimi: Nafta mund të shkojë në 3 euro për litër",
@@ -276,7 +309,7 @@
       "date": "2026-08-19T12:59:20+00:00",
       "dateStr": "19 Aug, 12:59",
       "isNew": true,
-      "id": "she41787144360"
+      "id": "she71787144360"
     },
     {
       "title": "VIDEO/ E  braktisi në mes të rrugës për t’i shpëtuar policisë, momenti kur qeni çon efektivët tek pronari",
@@ -287,7 +320,7 @@
       "date": "2026-08-19T12:59:18+00:00",
       "dateStr": "19 Aug, 12:59",
       "isNew": true,
-      "id": "she51787144358"
+      "id": "she81787144358"
     },
     {
       "title": "Të miturit gati për sherr me thika e kaçavida/ Zbardhen detaje: Konflikti nisi në “Tik Tok”, njërit i kishin ngacmuar motrën",
@@ -298,40 +331,7 @@
       "date": "2026-08-19T12:32:34+00:00",
       "dateStr": "19 Aug, 12:32",
       "isNew": true,
-      "id": "she61787142754"
-    },
-    {
-      "title": "“Më rrezikohet jeta”/ Iraniani paraqitet në aeroport me pasaportë false, pas ndalimit kërkon azil",
-      "link": "https://shekulli.com.al/2026/08/19/me-rrezikohet-jeta-iraniani-paraqitet-ne-aeroport-me-pasaporte-false-pas-ndalimit-kerkon-azil/",
-      "description": "Një shtetas iranian është ndaluar ne aeroportin e Prishtinës, pasi tentoi të hynë në Kosovë me pasaportë false. Sipas raportimeve, iraniani është paraqitur në aeroportin “Adem Jashari” me një pasaportë belge, teksa më pas pranoi se ajo nuk ishte e tija. Pasi u ndalua nga autoritetet ai ka kërkuar që",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-19T12:23:44+00:00",
-      "dateStr": "19 Aug, 12:23",
-      "isNew": true,
-      "id": "she71787142224"
-    },
-    {
-      "title": "Foto që po trazon ujërat, pronari i Principotes Bekim Bulica në një tavolinë me drejtorin Endri Haxhiu",
-      "link": "https://shekulli.com.al/2026/08/19/foto-qe-po-trazon-ujerat-pronari-i-principotes-bekim-bulica-ne-nje-tavoline-me-drejtorin-endri-haxhiu/",
-      "description": "TIRANË- Vrasja e turistit 20-vjeçar në Ksamil ka tronditur mbarë opinionin publik, ndërsa një foto që qarkullon së fundi, ka trazuar ujërat. Në fotografinë e publikuar nga Pamfleti shfaqet Bekim Bulica, pronari i Principotes, që u shpall në kërkim pas ngjarjes (në rreth jeshil djathtas) dhe Endri Ha",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-19T12:11:24+00:00",
-      "dateStr": "19 Aug, 12:11",
-      "isNew": true,
-      "id": "she81787141484"
-    },
-    {
-      "title": "Tmerr/ Trupi i të miturës gjendet i zhveshur brenda valixhes, raportohet se ka pësuar dëmtime në tru",
-      "link": "https://shekulli.com.al/2026/08/19/tmerr-trupi-i-te-mitures-gjendet-i-zhveshur-brenda-valixhes-raportohet-se-ka-pesuar-demtime-ne-tru/",
-      "description": "Një ngjarje e rëndë ka ndodhur në Tajlandë, ku një 17-vjeçare ka humbur jetën në rrethana tragjike. Viktima është identifikuar si Tunchanok Donhomla, trupi i së cilës është gjetur i zhveshur brenda një valixheje, pranë një stacioni treni. Autoritetet raportuan se shkaku i vdekjes ishte asfiksimi nga",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-19T12:03:28+00:00",
-      "dateStr": "19 Aug, 12:03",
-      "isNew": true,
-      "id": "she91787141008"
+      "id": "she91787142754"
     }
   ]
 }
