@@ -1,8 +1,162 @@
 {
-  "lastUpdated": "2026-08-19T13:39:15.484000+00:00",
+  "lastUpdated": "2026-08-19T14:27:25.734913+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Reagimi qesharak i LeBron James kur pa një pjatë të madhe me pulë dhe wafla",
+      "link": "https://24-ore.com/reagimi-qesharak-i-lebron-james-kur-pa-nje-pjate-te-madhe-me-pule-dhe-wafla/",
+      "description": "LeBron James pati një reagim komik kur pa një pjatë të madhe me pulë dhe wafla gjatë një pushimi në një lojë golfi. Ai i tha vetëm \"good luck\" kur vuri re...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T14:26:49+00:00",
+      "dateStr": "19 Aug, 14:26",
+      "isNew": true,
+      "id": "24 01787149609"
+    },
+    {
+      "title": "Një ndërhyrje spektakolare e Fernando Tatis Jr. shpëton fitoren e Padres ndaj Mets",
+      "link": "https://24-ore.com/nje-nderhyrje-spektakolare-e-fernando-tatis-jr-shpeton-fitoren-e-padres-ndaj-mets/",
+      "description": "Fernando Tatis Jr. ishte protagonisti i ndeshjes në fitoren 5-2 të San Diego Padres kundër New York Mets, duke shkëlqyer me dy home run-e dhe tre run-produ...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T14:25:48+00:00",
+      "dateStr": "19 Aug, 14:25",
+      "isNew": true,
+      "id": "24 11787149548"
+    },
+    {
+      "title": "Saints pa Alvin Kamara për të paktën një muaj; Giants shkëmbejnë Daniel Faalele te Jaguars",
+      "link": "https://24-ore.com/saints-pa-alvin-kamara-per-te-pakten-nje-muaj-giants-shkembejne-daniel-faalele-te-jaguars/",
+      "description": "New Orleans pritet të mbetet pa lojtari kryesor të vijës së vrapit, ndërsa një shkëmbim i rëndësishëm u krye mes New York Giants dhe Jacksonville Jaguars....",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T14:22:03+00:00",
+      "dateStr": "19 Aug, 14:22",
+      "isNew": true,
+      "id": "24 21787149323"
+    },
+    {
+      "title": "Mbretëresha Camilla flet për diagnostikimin e kancerit të Mbretit Charles dhe për përparimin e tij",
+      "link": "https://24-ore.com/mbreteresha-camilla-flet-per-diagnostikimin-e-kancerit-te-mbretit-charles-dhe-per-perparimin-e-tij/",
+      "description": "Mbretëresha Camilla ka folur publikisht për përjetimet e saj që pas diagnostikimit të kancerit tek bashkëshorti, Mbretit Charles III, duke rrëfyer si ka nd...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T14:21:03+00:00",
+      "dateStr": "19 Aug, 14:21",
+      "isNew": true,
+      "id": "24 31787149263"
+    },
+    {
+      "title": "Aksident dramatik në ujërat e Komanit, 8 të plagosur nga përplasja e dy skafeve në zonën turistike të Lumit të Shalës!",
+      "link": "https://24-ore.com/aksident-dramatik-ne-ujerat-e-komanit-8-te-plagosur-nga-perplasja-e-dy-skafeve-ne-zonen-turistike-te-lumit-te-shales/",
+      "description": "Një aksident i rëndë ka ndodhur pasditen e sotme (19 gusht) në zonën turistike të Komanit, në Shkodër. Dy mjete lundruese të llojit skafe janë përplasur me njëra-tjetrën, në afërsi të Lumit të Shalës. Siç raportohet nga informacionet e para, nga përplasja mes dy mjeteve dyshohet se kanë mbetur të pl",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T14:18:30+00:00",
+      "dateStr": "19 Aug, 14:18",
+      "isNew": true,
+      "id": "24 41787149110"
+    },
+    {
+      "title": "FOKUS – OKB-ja: Gaza mbetet vendi më vdekjeprurës në botë për punonjësit humanitarë për të tretin vit radhazi",
+      "link": "https://24-ore.com/fokus-okb-ja-gaza-mbetet-vendi-me-vdekjeprures-ne-bote-per-punonjesit-humanitare-per-te-tretin-vit-radhazi/",
+      "description": "GAZA, 19 gusht /ATSH -AA/ – Gaza mbeti vendi më vdekjeprurës në botë për punëtorët humanitarë për të tretin vit radhazi, me 186 personel ndihmash të vrarë në vitin 2025, tha të mërkurën zyra e çështjeve humanitare e OKB-së. Sudani renditet i dyti, me 71 punonjës të ndihmave të vrarë gjatë vitit, tha",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T14:16:12+00:00",
+      "dateStr": "19 Aug, 14:16",
+      "isNew": true,
+      "id": "24 51787148972"
+    },
+    {
+      "title": "Arrestohet në Kroaci një i dyshuar për shpërthimet në gazsjellësin Nord Stream",
+      "link": "https://abcnews.al/arrestohet-ne-kroaci-nje-i-dyshuar-per-shperthimet-ne-gazsjellesin-nord-stream/",
+      "description": "Policia në Kroaci ka arrestuar shtetasin ukrainas Vladimir Z., nën dyshimin se është i lidhur me shpërthimet që dëmtuan gazsjellësin Nord Stream mes Rusisë dhe Gjermanisë në vitin 2022, njoftoi më 19 gusht Prokuroria Federale e Gjermanisë. Ai u arrestua në Pula, në veriperëndim të Kroacisë, në bazë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T14:15:14+00:00",
+      "dateStr": "19 Aug, 14:15",
+      "isNew": true,
+      "id": "abc01787148914"
+    },
+    {
+      "title": "Kallëzim penal ndaj tre personave nga Shkupi, dyshohen për “dhunë” dhe “zhvatje”",
+      "link": "https://24-ore.com/kallezim-penal-ndaj-tre-personave-nga-shkupi-dyshohen-per-dhune-dhe-zhvatje/",
+      "description": "Njësia për Krime të Dhunshme &#8211; Departamenti për Krime të Dhunshme në SPB Shkup në koordinim me Prokurorinë Publike Shkup ngriti kallëzim penal me procedurë urgjente kundër V.A. (26), D.A. (27) dhe S.S., të tre nga Shkupi, për shkak të ekzistencës së bazave të dyshimit për kryerjen e veprave pe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T14:10:14+00:00",
+      "dateStr": "19 Aug, 14:10",
+      "isNew": true,
+      "id": "24 61787148614"
+    },
+    {
+      "title": "Tensione politike në Ukrainë mes bastisjeve kundër korrupsionit dhe sfidës së Fedorovit",
+      "link": "https://abcnews.al/tensione-politike-ne-ukraine-mes-bastisjeve-kunder-korrupsionit-dhe-sfides-se-fedorovit/",
+      "description": "Agjencia kundër korrupsionit në Ukrainë ka njoftuar hetime të reja që përqendrohen te deputetët dhe personat nga zyra e presidentit Volodymyr Zelensky, një ditë pasi ish-ministri i njohur i Mbrojtjes, Mykhaylo Fedorov, publikoi një video në të cilën bëri thirrje që të mbahen zgjedhje të reja. Byroja",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-19T14:06:15+00:00",
+      "dateStr": "19 Aug, 14:06",
+      "isNew": true,
+      "id": "abc11787148375"
+    },
+    {
+      "title": "Aksidenti me 3 viktima në Durrës, shoferi po ecte me 114km/h, kishte konsumuar alkool. Makina u zvarrit 40 metra para se…",
+      "link": "https://shekulli.com.al/2026/08/19/aksidenti-me-3-viktima-ne-durres-shoferi-po-ecte-me-114km-h-kishte-konsumuar-alkool-makina-u-zvarrit-40-metra-para-se/",
+      "description": "TIRANË- Ekspertiza ka zbardhur të dhëna të reja për aksidentin tragjik të ndodhur në Manzë të Durrësit, ku humbën jetën tre persona, mes tyre çifti i sapomartuar Kleo Vrioni dhe Sara Brugentelli, si dhe 15-vjeçari Alvi Muhaxhiri. Sipas ekspertëve, automjeti tip BMW po lëvizte me rreth 114 km/orë në ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-19T14:03:15+00:00",
+      "dateStr": "19 Aug, 14:03",
+      "isNew": true,
+      "id": "she01787148195"
+    },
+    {
+      "title": "​Cilat janë kriteret dhe tiparet e një presidenti konsensual?",
+      "link": "https://24-ore.com/cilat-jane-kriteret-dhe-tiparet-e-nje-presidenti-konsensual/",
+      "description": "Në kohën kur po zhvillohen takime politike mes Lëvizjes Vetëvendosje dhe Lidhjes Demokratike të Kosovës për zgjedhjen e presidentit të ardhshëm, në diskutim është edhe profili që duhet ta ketë një president konsensual. Por, përtej një marrëveshjeje politike për emrin, njohësit e çështjeve kushtetues",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T14:00:45+00:00",
+      "dateStr": "19 Aug, 14:00",
+      "isNew": true,
+      "id": "24 71787148045"
+    },
+    {
+      "title": "KROACI – Arrestohet zhytësi ukrainas i dyshuar për sabotimin e “Nord Stream”",
+      "link": "https://24-ore.com/kroaci-arrestohet-zhytesi-ukrainas-i-dyshuar-per-sabotimin-e-nord-stream/",
+      "description": "KARLSRUHE, 19 gusht /ATSH-DPA/ – Një shtetas ukrainas, i trajnuar si zhytës, u arrestua në mëngjes në Kroaci, nën dyshimin se ka qenë i përfshirë në sulmet ndaj gazsjellësve “Nord Stream” në shtator të vitit 2022, njoftoi Prokuroria Federale e Gjermanisë. Burri, i identifikuar si Vladimir Z., në për",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T14:00:22+00:00",
+      "dateStr": "19 Aug, 14:00",
+      "isNew": true,
+      "id": "24 81787148022"
+    },
+    {
+      "title": "Përplasen dy skafe pranë liqenit të Komanit, raportohet për 8 persona të plagosur",
+      "link": "https://shekulli.com.al/2026/08/19/perplasen-dy-skafe-prane-liqenit-te-komanit-raportohet-per-8-persona-te-plagosur/",
+      "description": "Një aksident ka ndodhur pasditen e kësaj të mërkure në Liqenin e Komanit, pranë zonës së lumit të Shalës, ku dy skafe dyshohet se janë përplasur me njëri-tjetrin. Sipas informacioneve paraprake, nga përplasja raportohet se kanë mbetur të plagosur 8 persona. Ende nuk dihen rrethanat e aksidentit dhe ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-19T13:52:05+00:00",
+      "dateStr": "19 Aug, 13:52",
+      "isNew": true,
+      "id": "she11787147525"
+    },
+    {
+      "title": "Normalizohet situata e zjarreve në vend, Ministria e Mbrojtjes: Vetëm 4 vatra aktive, nuk ka rrezik për banesat! Ja zonat ku",
+      "link": "https://24-ore.com/normalizohet-situata-e-zjarreve-ne-vend-ministria-e-mbrojtjes-vetem-4-vatra-aktive-nuk-ka-rrezik-per-banesat-ja-zonat-ku/",
+      "description": "Normalizohet ndjeshëm situata nga zjarret në Shqipëri, teksa ka rënë numri i vatrave aktive dhe është rritur ai i atyre që janë shuar apo që mbahen nën kontroll nga Emergjencat. Ministria e Mbrojtjes ka bërë përditësimin e situatës së zjarreve në vend deri në orët e pasdites së sotme (19 gusht), duk",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-19T13:48:31+00:00",
+      "dateStr": "19 Aug, 13:48",
+      "isNew": true,
+      "id": "24 91787147311"
+    },
     {
       "title": "BBC: Ushtria izraelite urdhëron hetim penal për vrasjen e 5-vjeçares në Gaza",
       "link": "https://abcnews.al/bbc-ushtria-izraelite-urdheron-hetim-penal-per-vrasjen-e-5-vjecares-ne-gaza/",
@@ -12,7 +166,7 @@
       "date": "2026-08-19T13:39:02+00:00",
       "dateStr": "19 Aug, 13:39",
       "isNew": true,
-      "id": "abc01787146742"
+      "id": "abc21787146742"
     },
     {
       "title": "Pozitiv me kokainë, pezullohet tenisti/ Nick Kyrgios dështoi në testet antidoping në turneun e Mallorca",
@@ -23,40 +177,7 @@
       "date": "2026-08-19T13:23:09+00:00",
       "dateStr": "19 Aug, 13:23",
       "isNew": true,
-      "id": "abc11787145789"
-    },
-    {
-      "title": "Hadjar dëmton kyçin e dorës, Lawson e zëvendëson te Red Bull në garën e Holandës",
-      "link": "https://24-ore.com/hadjar-demton-kycin-e-dores-lawson-e-zevendeson-te-red-bull-ne-garen-e-holandes/",
-      "description": "Piloti i Oracle Red Bull Racing, Isack Hadjar, ka pësuar një dëmtim në kyçin e dorës gjatë pushimeve të verës, që do t’i mohojë atij pjesëmarrjen në Çmimin e Madh të Holandës 2026. Lajmin e ka bërë të ditur vetë skuderia, që gjithashtu ka bërë të ditur edhe zëvendësuesin: “I urojmë rikthim të mbarë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T13:22:08+00:00",
-      "dateStr": "19 Aug, 13:22",
-      "isNew": true,
-      "id": "24 01787145728"
-    },
-    {
-      "title": "Gjermani/ Uli Hoeness: Fle dhe zgjohem me mendjen te Musiala, ajo që po ndodh është dramatike!",
-      "link": "https://24-ore.com/gjermani-uli-hoeness-fle-dhe-zgjohem-me-mendjen-te-musiala-ajo-qe-po-ndodh-eshte-dramatike/",
-      "description": "Presidenti i Bayern-it të Mynihut, Uli Hoeness, komentoi sot për “RTL” situatën e krijuar pas problemeve fizike të Jamal Musiala. Fantazisti bavarez në miqësoren kundër Leipzig dhe atë kundër Heidenheim humbi ndjenjat. Gjermani shpjegoi në rrjetet e tij sociale se mjekët i kanë diagnostikuar çrregul",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T13:21:48+00:00",
-      "dateStr": "19 Aug, 13:21",
-      "isNew": true,
-      "id": "24 11787145708"
-    },
-    {
-      "title": "Zjarret në Shqipëri, 4 vatra aktive! Ministria e Mbrojtjes: Nuk ka rrezik për zonat e banuara",
-      "link": "https://24-ore.com/zjarret-ne-shqiperi-4-vatra-aktive-ministria-e-mbrojtjes-nuk-ka-rrezik-per-zonat-e-banuara/",
-      "description": "Ministria e Mbrojtjes ka bërë përditësimin e situatës së zjarreve në vend, duke njoftuar se deri në orën 14:00 janë regjistruar gjashtë vatra zjarri. Katër prej tyre vijojnë të jenë aktive, ndërsa dy të tjera janë nën monitorim. Në terren janë angazhuar 126 forca operacionale vendore. Ndërkohë, Forc",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T13:21:32+00:00",
-      "dateStr": "19 Aug, 13:21",
-      "isNew": true,
-      "id": "24 21787145692"
+      "id": "abc31787145789"
     },
     {
       "title": "Dinamo, leku “letër”/ Kalojnë turin, Presidenti u jep shpërblimin lojtarëve",
@@ -67,51 +188,7 @@
       "date": "2026-08-19T13:21:19+00:00",
       "dateStr": "19 Aug, 13:21",
       "isNew": true,
-      "id": "abc21787145679"
-    },
-    {
-      "title": "“Shakaja” e senatorit amerikan për një aferë jashtëmartesore të Donald Trump me ndihmësen e tij trazon Shtëpinë e Bardhë",
-      "link": "https://24-ore.com/shakaja-e-senatorit-amerikan-per-nje-afere-jashtemartesore-te-donald-trump-me-ndihmesen-e-tij-trazon-shtepine-e-bardhe/",
-      "description": "Spekulimet rreth marrëdhënies së Donald Trump me një nga ndihmëset e tij më të ngushta duket se e kanë mërzitur gruan e tij, Melania. Shtëpia e Bardhë reagoi pasi senatori demokrat Jon Ossoff bëri shaka të hënën se presidenti amerikan ishte i shpërqendruar nga një lidhje jashtëmartesore me Natalie H",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T13:21:15+00:00",
-      "dateStr": "19 Aug, 13:21",
-      "isNew": true,
-      "id": "24 31787145675"
-    },
-    {
-      "title": "Kroacia arreston një shtetas ukrainas, si të dyshuar për sabotim të Nord-Stream",
-      "link": "https://24-ore.com/kroacia-arreston-nje-shtetas-ukrainas-si-te-dyshuar-per-sabotim-te-nord-stream/",
-      "description": "Autoritetet kroate kanë arrestuar shtetasin ukrainas Vladimir Z. në Pula, bazuar në një urdhër arresti evropian të lëshuar nga Gjermania. Dyshohet për përfshirje në sabotimin e gazsjellësit Nord-Stream. Sipas Zyrës së Prokurorit federal në Karlsruhe të Gjermanisë, arrestimi u krye nga Departamenti i",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T13:20:55+00:00",
-      "dateStr": "19 Aug, 13:20",
-      "isNew": true,
-      "id": "24 41787145655"
-    },
-    {
-      "title": "Callum Turner pas martesës me Dua Lipën: Do të doja të kisha një familje, të rrisja disa fëmijë",
-      "link": "https://24-ore.com/callum-turner-pas-marteses-me-dua-lipen-do-te-doja-te-kisha-nje-familje-te-rrisja-disa-femije/",
-      "description": "Callum Turner ka folur hapur për dëshirën e tij për t’u bërë baba dhe për të krijuar një familje me bashkëshorten e tij, këngëtaren Dua Lipa. Në një intervistë ekskluzive për Esquire UK, aktori 36-vjeçar tregoi se çfarë dëshiron të sjellë kapitulli i ardhshëm i jetës së tij. Kur u pyet se çfarë pret",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T13:20:39+00:00",
-      "dateStr": "19 Aug, 13:20",
-      "isNew": true,
-      "id": "24 51787145639"
-    },
-    {
-      "title": "Shpejtësia po vret më shumë, mbi 1500 patenta pezullohen në një javë! Ekspertët kërkojnë siguri dhe hetime të thelluar",
-      "link": "https://24-ore.com/shpejtesia-po-vret-me-shume-mbi-1500-patenta-pezullohen-ne-nje-jave-ekspertet-kerkojne-siguri-dhe-hetime-te-thelluar/",
-      "description": "Drejtimi i mjetit mbi limitin e shpejtësisë së rrugës dyshohet se çoi në aksidentin e mëngjesit të kësaj të mërkure ku humbën jetën 3 të rinj në Durrës. Shpejtësia duket se është një ndër shkeljet e rrezikshme që pavarësisht ashpërsimit të masave vijon të përsëritet në shifra mjaft të larta. Vetëm n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T13:19:21+00:00",
-      "dateStr": "19 Aug, 13:19",
-      "isNew": true,
-      "id": "24 61787145561"
+      "id": "abc41787145679"
     },
     {
       "title": "Aksidenti me 3 viktima në Durrës, mediat italiane: 26-vjeçarja humbi jetën vetëm 3 ditë pas martesës",
@@ -122,7 +199,7 @@
       "date": "2026-08-19T13:18:24+00:00",
       "dateStr": "19 Aug, 13:18",
       "isNew": true,
-      "id": "she01787145504"
+      "id": "she21787145504"
     },
     {
       "title": "Aksident tragjik në Brazil/ Autobusi përplaset me kamionin, 23 të vdekur",
@@ -133,29 +210,7 @@
       "date": "2026-08-19T13:17:12+00:00",
       "dateStr": "19 Aug, 13:17",
       "isNew": true,
-      "id": "abc31787145432"
-    },
-    {
-      "title": "HAPËSIRË – Sophie Adenot francezja e parë që shkon në ISS",
-      "link": "https://24-ore.com/hapesire-sophie-adenot-francezja-e-pare-qe-shkon-ne-iss/",
-      "description": "NJU JORK, 19 gusht /ATSH-DPA/- Astronautja franceze Sophie Adenot është bërë gruaja e parë franceze që ka kryer një ecje hapësinore në Stacionin Ndërkombëtar të Hapësirës (ISS). ”Adenot doli nga ISS për rreth gjashtë orë së bashku me kolegun e saj amerikan Anil Menon, për të hequr një antenë të dëmt",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T13:16:27+00:00",
-      "dateStr": "19 Aug, 13:16",
-      "isNew": true,
-      "id": "24 71787145387"
-    },
-    {
-      "title": "Janevska: Duart e politikës mbani larg arsimit",
-      "link": "https://24-ore.com/janevska-duart-e-politikes-mbani-larg-arsimit/",
-      "description": "&#8220;Duart e politikës mbani larg arsimit&#8221;, tha sot ministrja e Arsimit dhe Shkencës Vesna Janevska, duke vlerësuar se miratimi i tre ligjeve në fushën e arsimit të lartë, të cilat janë në procedurë parlamentare, është i rëndësishëm për rritjen e cilësisë së arsimit universitar dhe për përmi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T13:15:41+00:00",
-      "dateStr": "19 Aug, 13:15",
-      "isNew": true,
-      "id": "24 81787145341"
+      "id": "abc51787145432"
     },
     {
       "title": "News Line me Rovena Neziri, (19/08/2026)",
@@ -166,7 +221,7 @@
       "date": "2026-08-19T13:10:41+00:00",
       "dateStr": "19 Aug, 13:10",
       "isNew": true,
-      "id": "abc41787145041"
+      "id": "abc61787145041"
     },
     {
       "title": "Shqiptarët, pa viza në Marok/ Hyn në fuqi marrëveshja, hiqen vizat për turizëm, biznes e kulturë",
@@ -177,18 +232,7 @@
       "date": "2026-08-19T13:07:09+00:00",
       "dateStr": "19 Aug, 13:07",
       "isNew": true,
-      "id": "abc51787144829"
-    },
-    {
-      "title": "PDK këmbëngul për vazhdimin e seancës konstituive, i shkuran sërish Deharit",
-      "link": "https://24-ore.com/pdk-kembengul-per-vazhdimin-e-seances-konstituive-i-shkuran-serish-deharit/",
-      "description": "Partia Demokratike e Kosovës (PDK) i është drejtuar sërish me kërkesë kryesuesit të seancës konstituive të Kuvendit, Avni Deharit, për caktimin e vazhdimit të seancës. Në letrën e datës 18 gusht 2026, të nënshkruar nga deputetja dhe Sekretarja e Përgjithshme e PDK-së, Vlora Çitaku, kërkohet që seanc",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T13:05:27+00:00",
-      "dateStr": "19 Aug, 13:05",
-      "isNew": true,
-      "id": "24 91787144727"
+      "id": "abc71787144829"
     },
     {
       "title": "Zjarret në vend, 4 vatra aktive/ Ministria e Mbrojtjes: Situata nën kontroll",
@@ -199,7 +243,7 @@
       "date": "2026-08-19T13:01:08+00:00",
       "dateStr": "19 Aug, 13:01",
       "isNew": true,
-      "id": "abc61787144468"
+      "id": "abc81787144468"
     },
     {
       "title": "Paralajmërimi: Nafta mund të shkojë në 3 euro për litër",
@@ -210,7 +254,7 @@
       "date": "2026-08-19T12:59:20+00:00",
       "dateStr": "19 Aug, 12:59",
       "isNew": true,
-      "id": "she11787144360"
+      "id": "she31787144360"
     },
     {
       "title": "VIDEO/ E  braktisi në mes të rrugës për t’i shpëtuar policisë, momenti kur qeni çon efektivët tek pronari",
@@ -221,7 +265,7 @@
       "date": "2026-08-19T12:59:18+00:00",
       "dateStr": "19 Aug, 12:59",
       "isNew": true,
-      "id": "she21787144358"
+      "id": "she41787144358"
     },
     {
       "title": "Edicioni i Mesditës me Erneta Shevroja, (19/08/2026)",
@@ -232,7 +276,7 @@
       "date": "2026-08-19T12:41:10+00:00",
       "dateStr": "19 Aug, 12:41",
       "isNew": true,
-      "id": "abc71787143270"
+      "id": "abc91787143270"
     },
     {
       "title": "Të miturit gati për sherr me thika e kaçavida/ Zbardhen detaje: Konflikti nisi në “Tik Tok”, njërit i kishin ngacmuar motrën",
@@ -243,40 +287,18 @@
       "date": "2026-08-19T12:32:34+00:00",
       "dateStr": "19 Aug, 12:32",
       "isNew": true,
-      "id": "she31787142754"
+      "id": "she51787142754"
     },
     {
       "title": "“Më rrezikohet jeta”/ Iraniani paraqitet në aeroport me pasaportë false, pas ndalimit kërkon azil",
       "link": "https://shekulli.com.al/2026/08/19/me-rrezikohet-jeta-iraniani-paraqitet-ne-aeroport-me-pasaporte-false-pas-ndalimit-kerkon-azil/",
-      "description": "Një shtetas iranian është ndaluar ne aeroportin e Prishtinës, pasi tentoi të hynë në Kosovë me pasaportë false. Sipas raportimeve, iraniani është paraqitur në aeroportin “Adem Jashri” me një pasaportë belge, teksa më pas pranoi se ajo nuk ishte e tija. Pasi u ndalua nga autoritetet ai ka kërkuar që ",
+      "description": "Një shtetas iranian është ndaluar ne aeroportin e Prishtinës, pasi tentoi të hynë në Kosovë me pasaportë false. Sipas raportimeve, iraniani është paraqitur në aeroportin “Adem Jashari” me një pasaportë belge, teksa më pas pranoi se ajo nuk ishte e tija. Pasi u ndalua nga autoritetet ai ka kërkuar që",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-08-19T12:23:44+00:00",
       "dateStr": "19 Aug, 12:23",
       "isNew": true,
-      "id": "she41787142224"
-    },
-    {
-      "title": "“Jemi gati të përballemi”, NATO reagon pas kërcënimeve iraniane për sulme në Evropë",
-      "link": "https://abcnews.al/jemi-gati-te-perballemi-nato-reagon-pas-kercenimeve-iraniane-per-sulme-ne-evrope/",
-      "description": "&#8220;NATO deklaron se është e përgatitur të përballet me çdo kërcënim dhe të marrë të gjitha masat e nevojshme për mbrojtjen e aleatëve të saj, pas raportimeve se Irani ka shqyrtuar mundësinë e sulmeve ndaj objektivave ushtarake amerikane në Evropë në rast të përshkallëzimit të konfliktit nga admi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T12:19:14+00:00",
-      "dateStr": "19 Aug, 12:19",
-      "isNew": true,
-      "id": "abc81787141954"
-    },
-    {
-      "title": "Ish-këshilltari i Faucit pranon fajësinë për fshehjen e të dhënave të koronavirusit",
-      "link": "https://abcnews.al/ish-keshilltari-i-faucit-pranon-fajesine-per-fshehjen-e-te-dhenave-te-koronavirusit/",
-      "description": "David Morens, ish-zyrtar i lartë i Institutit Kombëtar të Alergjisë dhe Sëmundjeve Infektive (NIAID) dhe ish-ndihmës i Anthony Fauci-t, është deklaruar fajtor për konspiracion për të penguar zbatimin e ligjeve amerikane për transparencën dhe aksesin në dokumentet publike. Morens, 78 vjeç, u deklarua",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-19T12:14:17+00:00",
-      "dateStr": "19 Aug, 12:14",
-      "isNew": true,
-      "id": "abc91787141657"
+      "id": "she61787142224"
     },
     {
       "title": "Foto që po trazon ujërat, pronari i Principotes Bekim Bulica në një tavolinë me drejtorin Endri Haxhiu",
@@ -287,7 +309,7 @@
       "date": "2026-08-19T12:11:24+00:00",
       "dateStr": "19 Aug, 12:11",
       "isNew": true,
-      "id": "she51787141484"
+      "id": "she71787141484"
     },
     {
       "title": "Tmerr/ Trupi i të miturës gjendet i zhveshur brenda valixhes, raportohet se ka pësuar dëmtime në tru",
@@ -298,7 +320,7 @@
       "date": "2026-08-19T12:03:28+00:00",
       "dateStr": "19 Aug, 12:03",
       "isNew": true,
-      "id": "she61787141008"
+      "id": "she81787141008"
     },
     {
       "title": "“Sherri nisi mes…”/ Zbardhet dëshmia e Sokrat Vatës për vrasjen në Ksamil: Thika ishte e portugezit",
@@ -309,29 +331,7 @@
       "date": "2026-08-19T11:39:59+00:00",
       "dateStr": "19 Aug, 11:39",
       "isNew": true,
-      "id": "she71787139599"
-    },
-    {
-      "title": "Rrezikon deri në 10 vite burg! Rusia shpall në kërkim ndërkombëtar djalin e Robert F. Kennedy Jr",
-      "link": "https://shekulli.com.al/2026/08/19/rrezikon-deri-ne-10-vite-burg-rusia-shpall-ne-kerkim-nderkombetar-djali-ne-robert-f-kennedy-jr/",
-      "description": "Djali i Robert F. Kennedy Jr, Conor Kennedy është përfshirë në listën ndërkombëtare të të kërkuarve të Rusisë për luftime përkrah Ukrainës. Gjykata e Qarkut Basmanny të Moskës autorizoi “arrestimin në mungesë” të Kennedy-t të ri, duke e akuzuar atë se vepronte si mercenar për forcat e armatosura ukr",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-19T11:32:48+00:00",
-      "dateStr": "19 Aug, 11:32",
-      "isNew": true,
-      "id": "she81787139168"
-    },
-    {
-      "title": "E rëndë në Tiranë, 28 të mitur do konfliktoheshin mes tyre në Kombinat, Policia ndërhyn dhe bën shoqërimin e tyre",
-      "link": "https://shekulli.com.al/2026/08/19/e-rende-ne-tirane-28-te-mitur-do-konfliktoheshin-mes-tyre-ne-kombinat-policia-nderhyn-dhe-ben-shoqerimin-e-tyre/",
-      "description": "TIRANË- Policia e Tiranës ka parandaluar përshkallëzimin e një konflikti mes një grupi të miturish në zonën e Kombinatit në Tiranë, të cilëve u janë gjetur me vete armë të ftohta. NJOFTIMI I POLICISË Ndërhyrja e menjëhershme e Policisë, parandaloi zhvillimin e konfliktit ndërmjet disa të miturve. Pr",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-19T11:17:33+00:00",
-      "dateStr": "19 Aug, 11:17",
-      "isNew": true,
-      "id": "she91787138253"
+      "id": "she91787139599"
     }
   ]
 }
