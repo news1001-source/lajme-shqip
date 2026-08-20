@@ -1,29 +1,183 @@
 {
-  "lastUpdated": "2026-08-20T17:23:33.850194+00:00",
+  "lastUpdated": "2026-08-20T18:31:37.433829+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Gashi: Shpëtimi për Kosovën është marrëveshja LVV-LDK",
-      "link": "https://24-ore.com/gashi-shpetimi-per-kosoven-eshte-marreveshja-lvv-ldk/",
-      "description": "Avokati Tomë Gashi ka deklaruar se një marrëveshje politike mes Lëvizjes Vetëvendosje dhe Lidhjes Demokratike të Kosovës mund të jetë rruga për tejkalimin e ngërçit institucional në Kosovë. Duke folur në FIVE të TV Dukagjinit, Gashi tha se LVV dhe LDK kanë numrat e nevojshëm për të arritur një marrë",
+      "title": "Musa dhe Evander vendosën në Matchday 21, Celentano dhe Velde favoritet në ekipin e javës",
+      "link": "https://24-ore.com/musa-dhe-evander-vendosen-ne-matchday-21-celentano-dhe-velde-favoritet-ne-ekipin-e-javes/",
+      "description": "Petar Musa shënoi dy herë në fitoren 4-3 të FC Dallas në fushën e Real Salt Lake dhe theksoi më tej rivalitetin për Topin e Golit, ndërsa Evander i FC Cinc...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-20T17:21:55+00:00",
-      "dateStr": "20 Aug, 17:21",
+      "date": "2026-08-20T18:22:09+00:00",
+      "dateStr": "20 Aug, 18:22",
       "isNew": true,
-      "id": "24 01787246515"
+      "id": "24 01787250129"
     },
     {
-      "title": "Aksidentet e turistëve të huaj që na e bëjnë më të shtrenjtë mjekësinë falas",
-      "link": "https://24-ore.com/aksidentet-e-turisteve-te-huaj-qe-na-e-bejne-me-te-shtrenjte-mjekesine-falas/",
-      "description": "Nga Mero Baze Çdo vit kemi lajme se policia jonë ka shpëtuar disa turistë të huaj të rrezikuar për jetën apo të zhdukur në male apo kanione. Herë gjendet një baba i papërgjegjshëm që fut fëmijët në kanion e pastaj nuk di nga të dalë, herë tjetër zbulohen turistë të humbur maleve, turistë që i [&#823",
+      "title": "Ruby Rose publikon mesazhet e Hayden Panettiere për nënën e saj para vdekjes",
+      "link": "https://24-ore.com/ruby-rose-publikon-mesazhet-e-hayden-panettiere-per-nenen-e-saj-para-vdekjes/",
+      "description": "Aktorja Ruby Rose ka publikuar disa mesazhe që, sipas saj, i kishte shkëmbyer me aktoren Hayden Panettiere pak para vdekjes së saj në moshën 36-vjeçare. Në mesazhe, Panettiere pretendohet se fliste për marrëdhënien e vështirë me nënën e saj, Lesley Vogel. Rose, 40 vjeç, publikoi të mërkurën në Threa",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-20T17:19:37+00:00",
-      "dateStr": "20 Aug, 17:19",
+      "date": "2026-08-20T18:20:11+00:00",
+      "dateStr": "20 Aug, 18:20",
       "isNew": true,
-      "id": "24 11787246377"
+      "id": "24 11787250011"
+    },
+    {
+      "title": "Kosova ose shteti që mbahet peng",
+      "link": "https://24-ore.com/kosova-ose-shteti-qe-mbahet-peng/",
+      "description": "Nga Leonidha Mërtiri Deklarata e para disa ditëve në Beograd e Presidentit të Ukrainës, Volodymyr Zelensky për mosnjohjen e shtetit të Kosovës, i erdhi plotësisht për shtat Presidentit të Serbisë, Aleksandar Vuçiç, pavarësisht interesave strategjike të Kievit ndaj Serbisë, por dhe i kontribuon inter",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T18:18:27+00:00",
+      "dateStr": "20 Aug, 18:18",
+      "isNew": true,
+      "id": "24 21787249907"
+    },
+    {
+      "title": "Kryeministri i Maqedonisë së Veriut në Pustec, për të dytën herë nuk ekzekutohet himni shqiptar",
+      "link": "https://shekulli.com.al/2026/08/20/kryeministri-i-maqedonise-se-veriut-ne-pustec-per-te-dyten-here-nuk-ekzekutohet-himni-shqiptar/",
+      "description": "Kryeministri i Maqedonisë së Veriut, Hristijan Mickoski, ndodhet në Pustec në kuadër të një vizite zyrtare, ku po merr pjesë në një festival. Gjatë ceremonisë, për të dytën herë brenda një periudhe të shkurtër, nuk është ekzekutuar himni kombëtar shqiptar. Sipas protokollit shtetëror, në aktivitete ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-20T18:16:24+00:00",
+      "dateStr": "20 Aug, 18:16",
+      "isNew": true,
+      "id": "she01787249784"
+    },
+    {
+      "title": "BUKURESHT – Rumania shkatërron një dron detar pranë projektit të gazit, akuzon Rusinë",
+      "link": "https://24-ore.com/bukuresht-rumania-shkaterron-nje-dron-detar-prane-projektit-te-gazit-akuzon-rusine/",
+      "description": "BUKURESHT, 20 gusht /ATSH – ANSA/ – Një avion luftarak rumun F-16 shkatërroi të enjten një dron detar disa qindra metra larg projektit të gazit Neptun Deep, në Detin e Zi. Rumania, vend anëtar i NATO-s dhe fqinj me Ukrainën, e akuzoi Rusinë për incidentin. Droni ishte “i ngarkuar me eksplozivë” dhe ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T18:16:06+00:00",
+      "dateStr": "20 Aug, 18:16",
+      "isNew": true,
+      "id": "24 31787249766"
+    },
+    {
+      "title": "James Harden nënshkruan me Cavaliers: kontratë 97 milionë dollarëshe dhe fitime karriere prej 511 milionë",
+      "link": "https://24-ore.com/james-harden-nenshkruan-me-cavaliers-kontrate-97-milione-dollareshe-dhe-fitime-karriere-prej-511-milione/",
+      "description": "James Harden ka firmosur një kontratë trevjeçare me Cleveland Cavaliers, vlerë totale 97 milionë dollarë. Me këtë marrëveshje, të ardhurat e tij të karrier...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T18:13:35+00:00",
+      "dateStr": "20 Aug, 18:13",
+      "isNew": true,
+      "id": "24 41787249615"
+    },
+    {
+      "title": "Aleanca: Pushteti e ka kthyer KEK-un në terren vdekjeje, kërkohet hetim urgjent dhe dorëheqje",
+      "link": "https://24-ore.com/aleanca-pushteti-e-ka-kthyer-kek-un-ne-terren-vdekjeje-kerkohet-hetim-urgjent-dhe-doreheqje/",
+      "description": "Aleanca ka reaguar ashpër përmes një komunikate zyrtare për medie, pas rasteve të njëpasnjëshme tragjike në Korporatën Energjetike të Kosovës (KEK), ku brenda një viti kanë humbur jetën katër punëtorë.Në reagimin e saj, Aleanca thekson se vdekjet e punëtorëve Mixhen Sadiku, Milazim Binaku, Haxhi Goj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T18:11:51+00:00",
+      "dateStr": "20 Aug, 18:11",
+      "isNew": true,
+      "id": "24 51787249511"
+    },
+    {
+      "title": "CNN me artikull për shtegun ndërkufitar, vë në pah bukuritë natyrore të Kosovës, Shqipërisë dhe Malit të Zi",
+      "link": "https://24-ore.com/cnn-me-artikull-per-shtegun-nderkufitar-ve-ne-pah-bukurite-natyrore-te-kosoves-shqiperise-dhe-malit-te-zi/",
+      "description": "Shtegu i gjatë rreth 193 kilometra, përshkon Bjeshkët e Nemuna dhe kalon nëpër territorin e tri shteteve. Sipas CNN, udhëtarët mund ta nisin ditën në njërin shtet dhe ta përfundojnë atë me një darkë tradicionale në një shtet tjetër, pa hasur pika të dukshme kufitare që do ta prishnin përvojën e ecje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T18:11:35+00:00",
+      "dateStr": "20 Aug, 18:11",
+      "isNew": true,
+      "id": "24 61787249495"
+    },
+    {
+      "title": "Elvis Merzlikins jashtë për kohë të pacaktuar pas operacionit të shpatullës",
+      "link": "https://24-ore.com/elvis-merzlikins-jashte-per-kohe-te-pacaktuar-pas-operacionit-te-shpatulles/",
+      "description": "Elvis Merzlikins do të mungojë për kohë të pacaktuar te Columbus Blue Jackets pasi iu nënshtrua një operacioni në shpatullë, njoftoi skuadra të enjten.Sipa...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T18:11:00+00:00",
+      "dateStr": "20 Aug, 18:11",
+      "isNew": true,
+      "id": "24 71787249460"
+    },
+    {
+      "title": "Largohet pas 25 vitesh nga Fiks Fare drejtuesi Filip Çakuli si dhe moderatorët Julian Deda me Xhemi Shehu",
+      "link": "https://shekulli.com.al/2026/08/20/largohet-pas-25-vitesh-nga-fiks-fare-drejtuesi-filip-cakuli-si-dhe-moderatoret-julian-deda-me-xhemi-shehu/",
+      "description": "Edhe emisioni investigativ “Fiks Fare” në Top Channel do ta nisë sezonin e ri televiziv me ndryshime të forta. Drejtuesi jetëgjatë i emisionit, Filip Çakuli, do të largohet nga drejtimi i “Fiks Fare”. Bashkë me të do të largohen edhe moderatorët Julian Deda dhe Xhemi Shehu, ndërsa ndryshimi prek edh",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-20T18:08:54+00:00",
+      "dateStr": "20 Aug, 18:08",
+      "isNew": true,
+      "id": "she11787249334"
+    },
+    {
+      "title": "Anna Faris zbulon vendimin që i ndryshoi jetën: “Më duhej të bëja një hap pas”",
+      "link": "https://24-ore.com/anna-faris-zbulon-vendimin-qe-i-ndryshoi-jeten-me-duhej-te-beja-nje-hap-pas-2/",
+      "description": "Aktorja Anna Faris ka zbuluar se ka hequr dorë nga alkooli, duke treguar se vendimi ka pasur një ndikim të rëndësishëm në mënyrën se si e sheh veten dhe jetën e saj. Gjatë një interviste në podcastin “Dear Chelsea”, 49-vjeçarja tha se vetëm gjatë vitit të fundit ka filluar të ndihet më mirënjohëse p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T18:04:07+00:00",
+      "dateStr": "20 Aug, 18:04",
+      "isNew": true,
+      "id": "24 81787249047"
+    },
+    {
+      "title": "Anna Faris zbulon vendimin që i ndryshoi jetën: “Më duhej të bëja një hap pas”",
+      "link": "https://24-ore.com/anna-faris-zbulon-vendimin-qe-i-ndryshoi-jeten-me-duhej-te-beja-nje-hap-pas/",
+      "description": "Aktorja Anna Faris ka zbuluar se ka hequr dorë nga alkooli, duke treguar se vendimi ka pasur një ndikim të rëndësishëm në mënyrën se si e sheh veten dhe jetën e saj. Gjatë një interviste në podcastin “Dear Chelsea”, 49-vjeçarja tha se vetëm gjatë vitit të fundit ka filluar të ndihet më mirënjohëse p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T18:04:06+00:00",
+      "dateStr": "20 Aug, 18:04",
+      "isNew": true,
+      "id": "24 91787249046"
+    },
+    {
+      "title": "Tirana Live me Emilian Islami, (20/08/2026)",
+      "link": "https://abcnews.al/tirana-live-me-emilian-islami-20-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-20T17:50:43+00:00",
+      "dateStr": "20 Aug, 17:50",
+      "isNew": true,
+      "id": "abc01787248243"
+    },
+    {
+      "title": "Turistja e huaj akuzoi guidën për drogim dhe përdhunim, avokati i Saimir Kalbajt: Asnjë provë. Fation Plaku: Mos ‘e vrisni’ në bazë të opinioneve, duhen fakte",
+      "link": "https://shekulli.com.al/2026/08/20/turistja-e-huaj-akuzoi-guiden-per-drogim-dhe-perdhunim-avokati-i-saimir-kalbajt-asnje-prove-fation-plaku-mos-e-vrisni-ne-baze-te-opinioneve-duhen-fakte/",
+      "description": "Një denoncim i rëndë ndaj guidës alpine Saimir Kalbaj, me bazë në Bajram Curri, është bërë publik në rrjetet sociale nga një turiste e huaj, e cila pretendon se është droguar dhe sulmuar seksualisht gjatë një udhëtimi në Shqipëri. Denoncimi është publikuar në profilin e një influencereje (“@momabroa",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-20T17:48:02+00:00",
+      "dateStr": "20 Aug, 17:48",
+      "isNew": true,
+      "id": "she21787248082"
+    },
+    {
+      "title": "Kolumbi/ Shembet miniera e paligjshme e arit, 13 viktima dhe 7 të plagosur",
+      "link": "https://abcnews.al/kolumbi-shembet-miniera-e-paligjshme-e-arit-13-viktima-dhe-7-te-plagosur/",
+      "description": "Të paktën 13 punëtorë janë vrarë dhe shtatë të tjerë janë plagosur në një rrëshqitje dheu në një minierë të paligjshme në Kolumbinë jugore. Dëshmitarët dëgjuannjë shpërthim në minierën artizanale të arit në ajër të hapur të mërkurën pasdite, pak çaste para se punëtorët poshtë të mbeteshin të bllokua",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-20T17:37:51+00:00",
+      "dateStr": "20 Aug, 17:37",
+      "isNew": true,
+      "id": "abc11787247471"
+    },
+    {
+      "title": "NewsHour me Rovena Neziri, (20/08/2026)",
+      "link": "https://abcnews.al/newshour-me-rovena-neziri-20-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-20T17:28:32+00:00",
+      "dateStr": "20 Aug, 17:28",
+      "isNew": true,
+      "id": "abc21787246912"
     },
     {
       "title": "Zjarri del jashtë kontrollit në Pukë, urdhërohet evakuimi i Gojanit të Madh",
@@ -34,84 +188,7 @@
       "date": "2026-08-20T17:18:56+00:00",
       "dateStr": "20 Aug, 17:18",
       "isNew": true,
-      "id": "she01787246336"
-    },
-    {
-      "title": "Rizvanolli kërkon hetim për vdekjen e punëtorit të KEK-ut",
-      "link": "https://24-ore.com/rizvanolli-kerkon-hetim-per-vdekjen-e-punetorit-te-kek-ut/",
-      "description": "Ministrja e Ekonomisë, Artane Rizvanolli, ka reaguar pas vdekjes tragjike të punëtorit të Korporatës Energjetike të Kosovës (KEK), Arbenit Ahmeti. Rizvanolli ka shprehur ngushëllime për familjen Ahmeti, të afërmit dhe kolegët e punëtorit. Ajo ka bërë të ditur se ka kërkuar nga Bordi dhe menaxhmenti ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T17:17:45+00:00",
-      "dateStr": "20 Aug, 17:17",
-      "isNew": true,
-      "id": "24 21787246265"
-    },
-    {
-      "title": "Puka në luftë me zjarret, jepet urdhër evakuimi i menjëhershëm për banorët e një fshati",
-      "link": "https://24-ore.com/puka-ne-lufte-me-zjarret-jepet-urdher-evakuimi-i-menjehershem-per-banoret-e-nje-fshati/",
-      "description": "Situata e krijuar nga përhapja e një zjarri masiv në territorin e fshatit Gojan i Madh, në Njësinë Administrative Gjegjan, ka detyruar Bashkinë Pukë të urdhërojë evakuimin e menjëhershëm të banorëve. Vendimi është marrë për shkak të rrezikut të drejtpërdrejtë për jetën dhe pronën e banorëve, në zbat",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T17:17:28+00:00",
-      "dateStr": "20 Aug, 17:17",
-      "isNew": true,
-      "id": "24 31787246248"
-    },
-    {
-      "title": "E rëndë në Rjoll, 24-vjeçari bie nga gomonia dhe humb jetën pasi goditet nga helika",
-      "link": "https://24-ore.com/e-rende-ne-rjoll-24-vjecari-bie-nga-gomonia-dhe-humb-jeten-pasi-goditet-nga-helika/",
-      "description": "Një i ri 24-vjeçar, me inicialet K. G., ka humbur jetën pasditen e kësaj të enjte në Rjoll, pasi ka rënë nga një gomone në det të hapur dhe është goditur nga helikat e mjetit lundrues. Sipas informacioneve paraprake, mësohet se një grup të rinjsh po udhëtonin me një gomone, kur, në rrethana ende të ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T17:16:59+00:00",
-      "dateStr": "20 Aug, 17:16",
-      "isNew": true,
-      "id": "24 41787246219"
-    },
-    {
-      "title": "VIDEO/ Ronaldinjo i rikthehet futbollit profesionist në moshën 46-vjeçare, momenti kur ylli brazilian zbarkon në Itali për",
-      "link": "https://24-ore.com/video-ronaldinjo-i-rikthehet-futbollit-profesionist-ne-moshen-46-vjecare-momenti-kur-ylli-brazilian-zbarkon-ne-itali-per/",
-      "description": "Legjenda e futbollit brazilian, Ronaldinho, ka mbërritur të enjten në Itali për t’iu bashkuar zyrtarisht skuadrës së Serie C, Ravenna. Ish-fituesi i Topit të Artë dhe i Kampionatit Botëror 2002 ka zbarkuar me një avion privat në aeroportin e Forlì-t, i shoqëruar nga presidenti i klubit italian, Igna",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T17:16:59+00:00",
-      "dateStr": "20 Aug, 17:16",
-      "isNew": true,
-      "id": "24 51787246219"
-    },
-    {
-      "title": "Rriten sërish çmimet e karburanteve, ja sa po shiten nafta dhe benzina në Shqipëri",
-      "link": "https://24-ore.com/rriten-serish-cmimet-e-karburanteve-ja-sa-po-shiten-nafta-dhe-benzina-ne-shqiperi/",
-      "description": "Çmimet e karburanteve janë rritur sërish në Shqipëri, me naftën që ka arritur në 219 lekë për litër, nga 215 lekë që ishte më parë, duke shënuar një rritje prej 4 lekësh. Më e ndjeshme ka qenë rritja e benzinës, e cila është shtrenjtuar me 7 lekë, nga 198 në 205 lekë për litër. Rritja [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T17:16:48+00:00",
-      "dateStr": "20 Aug, 17:16",
-      "isNew": true,
-      "id": "24 61787246208"
-    },
-    {
-      "title": "Rekord historik në tregun valutor, çfarë ka ndodhur me euron në tre muajt e fundit",
-      "link": "https://24-ore.com/rekord-historik-ne-tregun-valutor-cfare-ka-ndodhur-me-euron-ne-tre-muajt-e-fundit/",
-      "description": "Vëllimi i tregtimit valutor në tregun e brendshëm arriti një rekord të ri historik në tremujorin e dytë të vitit sipas të dhënave të Bankës së Shqipërisë të cilat tregojnë se vlera e këmbimeve valutore arriti në gati 4.5 miliardë euro, një rritje me rreth 30% e krahasuar me të njëjtën periudhë të nj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T17:16:35+00:00",
-      "dateStr": "20 Aug, 17:16",
-      "isNew": true,
-      "id": "24 71787246195"
-    },
-    {
-      "title": "HAPËSIRË – Japonia drejt Marsit: Sonda do të mbledhë mostra nga Fobos",
-      "link": "https://24-ore.com/hapesire-japonia-drejt-marsit-sonda-do-te-mbledhe-mostra-nga-fobos/",
-      "description": "TOKIO, 29 gusht /ATSH -DPA) – Japonia do të nisë më 20 tetor një sondë hapësinore për të mbledhur dhe sjellë në Tokë mostra nga njëra prej hënave të Marsit, njoftoi të enjten agjencia hapësinore japoneze. Sonda MMX (Martian Moons eXploration) është pa ekuipazh dhe është zhvilluar në bashkëpunim me a",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T17:16:09+00:00",
-      "dateStr": "20 Aug, 17:16",
-      "isNew": true,
-      "id": "24 81787246169"
+      "id": "she31787246336"
     },
     {
       "title": "SHBA dërgon një tjetër aeroplanmbajtëse në Lindjen e Mesme",
@@ -122,18 +199,7 @@
       "date": "2026-08-20T17:10:02+00:00",
       "dateStr": "20 Aug, 17:10",
       "isNew": true,
-      "id": "abc01787245802"
-    },
-    {
-      "title": "Mickoski: Të drejtat e bullgarëve në Maqedoni garantohen me kushtetutë, por e njejta nuk ndodh me maqedonasit në Bullgari",
-      "link": "https://24-ore.com/mickoski-te-drejtat-e-bullgareve-ne-maqedoni-garantohen-me-kushtetute-por-e-njejta-nuk-ndodh-me-maqedonasit-ne-bullgari/",
-      "description": "„Politika bazohet në biseda. Unë jam nga ata politikanë që duan të bisedojnë derisa të arrihet zgjidhja. Edhe në rastin e parë, edhe në të dytin, ne do të vazhdojmë të bisedojmë. I dimë vijat tona të kuqe dhe brenda tyre do të përpiqemi ta gjejmë zgjidhjen“, deklaroi kryeministri Hristijan Mickoski.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T17:06:40+00:00",
-      "dateStr": "20 Aug, 17:06",
-      "isNew": true,
-      "id": "24 91787245600"
+      "id": "abc31787245802"
     },
     {
       "title": "IKMT, aksion në Sarandë/ Kontrolle në kantiere ndërtimi, gjenden shkelje e mungesa dokumentacioni",
@@ -144,7 +210,7 @@
       "date": "2026-08-20T16:50:48+00:00",
       "dateStr": "20 Aug, 16:50",
       "isNew": true,
-      "id": "abc11787244648"
+      "id": "abc41787244648"
     },
     {
       "title": "Detaje të reja nga tragjedia në Rrjoll, kush është 24-vjeçari që humbi jetën, u dëmtua rëndë nga helika e gomones",
@@ -155,7 +221,7 @@
       "date": "2026-08-20T16:37:55+00:00",
       "dateStr": "20 Aug, 16:37",
       "isNew": true,
-      "id": "she11787243875"
+      "id": "she41787243875"
     },
     {
       "title": "Situatë kritike nga zjarri në Pukë/ Evakuim i detyrueshëm i banorëve në fshatin Gojan i Madh",
@@ -166,7 +232,7 @@
       "date": "2026-08-20T16:31:26+00:00",
       "dateStr": "20 Aug, 16:31",
       "isNew": true,
-      "id": "abc21787243486"
+      "id": "abc51787243486"
     },
     {
       "title": "Kriza i bllokon fondet Kosovës/ Maliqi: Faji është i Vetëvendosjes. Kurti e ka bërë normë shkeljen e kushtetutës",
@@ -177,7 +243,7 @@
       "date": "2026-08-20T16:18:54+00:00",
       "dateStr": "20 Aug, 16:18",
       "isNew": true,
-      "id": "abc31787242734"
+      "id": "abc61787242734"
     },
     {
       "title": "Ndahet parakohe nga jeta Rezana Çeliku, aktorja që la pas një peng të madh",
@@ -188,7 +254,7 @@
       "date": "2026-08-20T16:17:27+00:00",
       "dateStr": "20 Aug, 16:17",
       "isNew": true,
-      "id": "she21787242647"
+      "id": "she51787242647"
     },
     {
       "title": "Përplasen dy skafe te Rana e Hedhun, humb jetën 25-vjeçari, plagoset rëndë një tjetër",
@@ -199,7 +265,7 @@
       "date": "2026-08-20T16:01:33+00:00",
       "dateStr": "20 Aug, 16:01",
       "isNew": true,
-      "id": "she31787241693"
+      "id": "she61787241693"
     },
     {
       "title": "Aksident në Shëngjin/ Përmbyset gomonia, një viktimë dhe dy të plagosur",
@@ -210,7 +276,7 @@
       "date": "2026-08-20T15:47:50+00:00",
       "dateStr": "20 Aug, 15:47",
       "isNew": true,
-      "id": "abc41787240870"
+      "id": "abc71787240870"
     },
     {
       "title": "Seuli: Koreja e Veriut lëshoi breshëri raketash balistike gjatë stërvitjes me SHBA",
@@ -221,7 +287,7 @@
       "date": "2026-08-20T15:43:02+00:00",
       "dateStr": "20 Aug, 15:43",
       "isNew": true,
-      "id": "abc51787240582"
+      "id": "abc81787240582"
     },
     {
       "title": "Krujë/ Zjarr në fshatin Bilaj, flakët pranë autostradës Thumanë-Kashar",
@@ -232,40 +298,7 @@
       "date": "2026-08-20T15:18:26+00:00",
       "dateStr": "20 Aug, 15:18",
       "isNew": true,
-      "id": "abc61787239106"
-    },
-    {
-      "title": "Zjarr në Milot, përfshihet nga flakët masivi pyjor/ Në vendngjarje zjarrfikësit dhe një helikopter",
-      "link": "https://abcnews.al/zjarr-ne-milot-perfshihet-nga-flaket-masivi-pyjor-ne-vendngjarje-zjarrfikesit-dhe-nje-helikopter/",
-      "description": "Zjarri ka përfshirë një masiv pyjor në zonën e Mal Milot. Në vendngjarje zjarrfikësit e Kurbinit, si dhe një helikopter i Forcave të Ushtrisë. Zjarri ende nuk përbën problem për banesa, ndërsa për helikopterin paraqet vështirësi nga linja e tensionit të lartë./abcnews.al [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T15:14:22+00:00",
-      "dateStr": "20 Aug, 15:14",
-      "isNew": true,
-      "id": "abc71787238862"
-    },
-    {
-      "title": "Harry dhe Meghan rikthehen në Britani, fati i sigurisë së tyre ende i paqartë",
-      "link": "https://abcnews.al/harry-dhe-meghan-rikthehen-ne-britani-fati-i-sigurise-se-tyre-ende-i-paqarte/",
-      "description": "Marrëveshjet e sigurisë për Dukën dhe Dukeshën e Sussex-it pas rikthimit të tyre në Mbretërinë e Bashkuar janë një “çështje private”, ka deklaruar kryeministri Andy Burnham. “Është një çështje për Harry-n dhe Meghan-in dhe u urojmë gjithë të mirat në këtë lëvizje që po bëjnë”, tha Burnham. Deklarata",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T14:57:08+00:00",
-      "dateStr": "20 Aug, 14:57",
-      "isNew": true,
-      "id": "abc81787237828"
-    },
-    {
-      "title": "Rumania shkatërron një dron detar pranë projektit strategjik të gazit, dyshohet se ishte rus",
-      "link": "https://abcnews.al/rumania-shkaterron-nje-dron-detar-prane-projektit-strategjik-te-gazit-dyshohet-se-ishte-rus/",
-      "description": "Rumania ka shkatërruar një dron detar të dyshuar si rus në Detin e Zi, vetëm disa qindra metra larg projektit strategjik të gazit natyror Neptun Deep, njoftoi më 20 gusht ministri rumun i Mbrojtjes, Radu Miruță. Sipas ministrit, roja bregdetare rumune sinjalizoi në orët e mëngjesit praninë e një dro",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T14:52:05+00:00",
-      "dateStr": "20 Aug, 14:52",
-      "isNew": true,
-      "id": "abc91787237525"
+      "id": "abc91787239106"
     },
     {
       "title": "Plagosja me armë në Shkodër, Pjerin Bitani qëlloi dy herë Vladimir Bruçin pas sherrit për kamerat",
@@ -276,7 +309,7 @@
       "date": "2026-08-20T14:43:51+00:00",
       "dateStr": "20 Aug, 14:43",
       "isNew": true,
-      "id": "she41787237031"
+      "id": "she71787237031"
     },
     {
       "title": "Nga Messi te Ronaldo, futbollistët po bëhen pronarë klubesh, cilat janë ‘perandoritë’ e reja të yjeve",
@@ -287,7 +320,7 @@
       "date": "2026-08-20T14:37:55+00:00",
       "dateStr": "20 Aug, 14:37",
       "isNew": true,
-      "id": "she51787236675"
+      "id": "she81787236675"
     },
     {
       "title": "La pas dy djem të mitur, ndahet nga jeta mësuesja e gjimnazit, Zyra e Arsimit: Le pas shumë kujtime, dashuri dhe mirënjohje…",
@@ -298,40 +331,7 @@
       "date": "2026-08-20T14:26:04+00:00",
       "dateStr": "20 Aug, 14:26",
       "isNew": true,
-      "id": "she61787235964"
-    },
-    {
-      "title": "Kush është Vladimir Bruçi, i plagosur me armë në Shkodër/ Dy vite më parë u dhunua nga 6 persona për një vend parkimi",
-      "link": "https://shekulli.com.al/2026/08/20/kush-eshte-vladimir-bruci-i-plagosur-me-arme-ne-shkoder-dy-vite-me-pare-u-dhunua-nga-6-persona-per-nje-vend-parkimi/",
-      "description": "SHKODËR- Vladimir Bruçi, 64 vjeç, është personi që mbeti i plagosur me armë zjarri mesditën e kësaj të enjteje në Shkodër. Ngjarja ndodhi rreth orës 14:30 në lagjen “Partizani”, pranë banesës së tij, ku dyshohet se fqinji i tij, Pjerin Bitani, e qëlloi me armë. Policia e ka cilësuar paraprakisht ngj",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T13:57:45+00:00",
-      "dateStr": "20 Aug, 13:57",
-      "isNew": true,
-      "id": "she71787234265"
-    },
-    {
-      "title": "Paralajmërimi i ambasadës së SHBA-ve, vizat mund t’u anulohen të huajve që kryejnë krime ose kërcënojnë sigurinë kombëtare",
-      "link": "https://shekulli.com.al/2026/08/20/paralajmerimi-i-ambasades-se-shba-ve-vizat-mund-tu-anulohen-te-huajve-qe-kryejne-krime-ose-kercenojne-sigurine-kombetare/",
-      "description": "Shtetet e Bashkuara kanë paralajmëruar se do të përdorin më gjerësisht autoritetin për t’u anuluar vizat shtetasve të huaj që kryejnë vepra penale, paraqesin rrezik për sigurinë kombëtare ose shkelin kushtet e qëndrimit në SHBA. Mesazhi i publikuar nga autoritetet amerikane, dhe i rishpërndarë nga f",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T13:45:12+00:00",
-      "dateStr": "20 Aug, 13:45",
-      "isNew": true,
-      "id": "she81787233512"
-    },
-    {
-      "title": "EMRAT/ Atentati në Shkodër, kush është autori që qëlloi mbi Vladimir Brucin, lidhja mes tyre",
-      "link": "https://shekulli.com.al/2026/08/20/emrat-atentati-ne-shkoder-kush-eshte-autori-qe-qelloi-mbi-vladimir-brucin-lidhja-mes-tyre/",
-      "description": "SHEKULLI mëson detaje të reja nga ngjarja e rëndë që ndodhi mesditën e kësaj të enjteje në Shkodër, ku mbeti i plagosur me armë zjarri Vladimir Bruci. Burime bëjnë me dije se autori i ngjarjes së rëndë është shtetasi Pjerin Bitani, i identifikuar dhe shpallur në kërmkim nga Policia. Bruci dhe Bitani",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T13:11:43+00:00",
-      "dateStr": "20 Aug, 13:11",
-      "isNew": true,
-      "id": "she91787231503"
+      "id": "she91787235964"
     }
   ]
 }
