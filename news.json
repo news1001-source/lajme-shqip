@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-08-19T23:18:15.236431+00:00",
+  "lastUpdated": "2026-08-20T00:57:00.526028+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Golden State Valkyries përballë Minnesota Lynx në Chase Center, 19 gusht 2026",
+      "link": "https://24-ore.com/golden-state-valkyries-perballe-minnesota-lynx-ne-chase-center-19-gusht-2026/",
+      "description": "Golden State Valkyries do të presin Minnesota Lynx më 19 gusht 2026 në Chase Center të San Franciskos në një përballje që pritet të jetë vendimtare për kon...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T00:40:41+00:00",
+      "dateStr": "20 Aug, 00:40",
+      "isNew": true,
+      "id": "24 01787186441"
+    },
+    {
+      "title": "Peyton Watson kalon te Cleveland Cavaliers në shkëmbim trepalësh",
+      "link": "https://24-ore.com/peyton-watson-kalon-te-cleveland-cavaliers-ne-shkembim-trepalesh/",
+      "description": "Peyton Watson u përfshi në një shkëmbim trepalësh që e çon atë te Cleveland Cavaliers, në një transaksion ku morën pjesë edhe Denver Nuggets dhe Los Angele...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T00:37:34+00:00",
+      "dateStr": "20 Aug, 00:37",
+      "isNew": true,
+      "id": "24 11787186254"
+    },
+    {
+      "title": "Dodgers përballë Rockies në Coors Field: Sasaki titullar kundër Freeland",
+      "link": "https://24-ore.com/dodgers-perballe-rockies-ne-coors-field-sasaki-titullar-kunder-freeland/",
+      "description": "Në Coors Field të Denverit, Los Angeles Dodgers dhe Colorado Rockies u takuan më 19 gusht 2026. Dodgers hynin në ndeshje me bilancin 76-51, ndërsa Rockies...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T00:36:24+00:00",
+      "dateStr": "20 Aug, 00:36",
+      "isNew": true,
+      "id": "24 21787186184"
+    },
+    {
+      "title": "WWE NXT, 18 gusht — Rezultatet dhe ngjarjet kryesore para Heatwave",
+      "link": "https://24-ore.com/wwe-nxt-18-gusht-rezultatet-dhe-ngjarjet-kryesore-para-heatwave/",
+      "description": "Zilla Fatu bëri debutimin e tij të fuqishëm në NXT, duke ndërhyrë në përballjen për vendin e parë që i kushtoi Cruz Montana një mundësie për titull në even...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T00:01:39+00:00",
+      "dateStr": "20 Aug, 00:01",
+      "isNew": true,
+      "id": "24 31787184099"
+    },
     {
       "title": "Adam ‘Edge’ Copeland: WWE i refuzoi shanset për një ndeshje lamtumire me John Cena",
       "link": "https://24-ore.com/adam-edge-copeland-wwe-i-refuzoi-shanset-per-nje-ndeshje-lamtumire-me-john-cena/",
@@ -12,7 +56,7 @@
       "date": "2026-08-19T23:17:16+00:00",
       "dateStr": "19 Aug, 23:17",
       "isNew": true,
-      "id": "24 01787181436"
+      "id": "24 41787181436"
     },
     {
       "title": "Vita Vea firmos një zgjatje njëvjeçare prej 30 milionë dollarësh dhe do të qëndrojë me Buccaneers deri në 2027",
@@ -23,7 +67,7 @@
       "date": "2026-08-19T23:08:09+00:00",
       "dateStr": "19 Aug, 23:08",
       "isNew": true,
-      "id": "24 11787180889"
+      "id": "24 51787180889"
     },
     {
       "title": "Harry dhe Meghan rikthehen në Mbretërinë e Bashkuar, të paktën përkohësisht",
@@ -34,7 +78,7 @@
       "date": "2026-08-19T23:05:58+00:00",
       "dateStr": "19 Aug, 23:05",
       "isNew": true,
-      "id": "24 21787180758"
+      "id": "24 61787180758"
     },
     {
       "title": "Yankees ndaj Orioles në Camden Yards: Warren përballë Bassitt, ndeshja e 19 gushtit 2026",
@@ -45,7 +89,7 @@
       "date": "2026-08-19T22:26:16+00:00",
       "dateStr": "19 Aug, 22:26",
       "isNew": true,
-      "id": "24 31787178376"
+      "id": "24 71787178376"
     },
     {
       "title": "Kurti priti në takim shefin e ri të EULEX-it, diskutohet për gjendjen e sigurisë dhe bashkëpunimin",
@@ -56,7 +100,7 @@
       "date": "2026-08-19T22:00:43+00:00",
       "dateStr": "19 Aug, 22:00",
       "isNew": true,
-      "id": "24 41787176843"
+      "id": "24 81787176843"
     },
     {
       "title": "Steve Cohen mbështet presidentin e Mets, David Stearns: ai mëson nga gabimet",
@@ -67,29 +111,7 @@
       "date": "2026-08-19T21:44:05+00:00",
       "dateStr": "19 Aug, 21:44",
       "isNew": true,
-      "id": "24 51787175845"
-    },
-    {
-      "title": "Philadelphia Flyers të uritur për hapin tjetër pas kthimit në play-off, thotë Jamie Drysdale",
-      "link": "https://24-ore.com/philadelphia-flyers-te-uritur-per-hapin-tjeter-pas-kthimit-ne-play-off-thote-jamie-drysdale/",
-      "description": "Jamie Drysdale thotë se Philadelphia Flyers hyjnë në sezonin e ri me shumë besim dhe dëshirë për të bërë më shumë, pas një përfundimi sezonit që u siguront...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T21:42:51+00:00",
-      "dateStr": "19 Aug, 21:42",
-      "isNew": true,
-      "id": "24 61787175771"
-    },
-    {
-      "title": "Një kandidat i mundshëm për Pro Bowl nga çdo skuadër e AFC për sezonin 2026",
-      "link": "https://24-ore.com/nje-kandidat-i-mundshem-per-pro-bowl-nga-cdo-skuader-e-afc-per-sezonin-2026/",
-      "description": "Para nisjes së sezonit 2026, këtu janë një lojtar nga secila skuadër e konferencës AFC që duket i vendosur të hyjë për herë të parë në Pro Bowl, bazuar në...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T21:41:55+00:00",
-      "dateStr": "19 Aug, 21:41",
-      "isNew": true,
-      "id": "24 71787175715"
+      "id": "24 91787175845"
     },
     {
       "title": "“Vetëvendosje po mban peng themelimin e institucioneve”/ Halimi: Kurti donte një president “kukull”",
@@ -112,28 +134,6 @@
       "dateStr": "19 Aug, 21:08",
       "isNew": true,
       "id": "abc11787173716"
-    },
-    {
-      "title": "Nneka Ogwumike njofton tërheqjen nga WNBA pas sezonit 2026",
-      "link": "https://24-ore.com/nneka-ogwumike-njofton-terheqjen-nga-wnba-pas-sezonit-2026/",
-      "description": "Los Angeles Sparks, Nneka Ogwumike, njoftoi se do të tërhiqet nga WNBA me përfundimin e sezonit 2026. Veteranja me 15 vjet karrierë ka kaluar 13 sezone me...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T21:05:54+00:00",
-      "dateStr": "19 Aug, 21:05",
-      "isNew": true,
-      "id": "24 81787173554"
-    },
-    {
-      "title": "Patrick Beverley mbron Russell Westbrook dhe kritikon mënyrën si media paraqiti lojën e tij",
-      "link": "https://24-ore.com/patrick-beverley-mbron-russell-westbrook-dhe-kritikon-menyren-si-media-paraqiti-lojen-e-tij/",
-      "description": "Patrick Beverley dalë në mbrojtje të Russell Westbrook pas vendimit të tij për t’u tërhequr nga NBA. Beverley, i cili dikur pati raporte të tensionuara me...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-19T21:02:17+00:00",
-      "dateStr": "19 Aug, 21:02",
-      "isNew": true,
-      "id": "24 91787173337"
     },
     {
       "title": "Portugalia merr masa, miraton ‘Ligjin e Burkës’. S’ka fytyrë të mbuluar në publik",
