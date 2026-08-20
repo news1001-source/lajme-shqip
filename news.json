@@ -1,117 +1,194 @@
 {
-  "lastUpdated": "2026-08-20T15:27:57.981772+00:00",
+  "lastUpdated": "2026-08-20T16:28:15.937165+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "LSM: Rritet shporta sindikale, për një familje duhen 68 mijë denarë në muaj",
-      "link": "https://24-ore.com/lsm-rritet-shporta-sindikale-per-nje-familje-duhen-68-mije-denare-ne-muaj/",
-      "description": "Sipas Lidhjes së Sindikatave të Maqedonisë, vlera e shportës minimale sindikale për muajin gusht 2026 është 68.675 denarë, që paraqet një rritje prej 177 denarësh krahasuar me muajin korrik, kur shporta minimale sindikale ishte 68.498 denarë, njoftoi Lidhja e Sindikatave të Maqedonisë (LSM). Të dhën",
-      "source": "24 ORE",
+      "title": "Kriza i bllokon fondet Kosovës/ Maliqi: Faji është i Vetëvendosjes. Kurti e ka bërë normë shkeljen e kushtetutës",
+      "link": "https://abcnews.al/kriza-i-bllokon-fondet-kosoves-maliqi-faji-eshte-i-vetevendosjes-kurti-e-ka-bere-norme-shkeljen-e-kushtetutes/",
+      "description": "Analistja Afërdita Maliqi thotë se kriza institucionale në Kosovë ka përgjegjës kreun e LVV dhe kryeministrin në detyrë, Albin Kurtin. Në një intervistë për &#8220;Tirana Live&#8221; në ABC News, Maliqi u shpreh se prej Kurtit, Kosova ndodhet në krizë prej një viti e gjysmë. Sipas Maliqit, Kurti dhe",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-20T15:22:49+00:00",
-      "dateStr": "20 Aug, 15:22",
+      "date": "2026-08-20T16:18:54+00:00",
+      "dateStr": "20 Aug, 16:18",
       "isNew": true,
-      "id": "24 01787239369"
+      "id": "abc01787242734"
     },
     {
-      "title": "‘Baby Gang’, si u parandalua përleshja me thika mes të miturve në Tiranë",
-      "link": "https://24-ore.com/baby-gang-si-u-parandalua-perleshja-me-thika-mes-te-miturve-ne-tirane/",
-      "description": "Policia ka parandaluar një konflikt masiv mes disa grupeve të miturish në Tiranë, konflikt që kishte nisur në rrjetin social TikTok dhe që rrezikonte të përshkallëzohej në një përleshje me përdorimin e armëve të ftohta. Detaje të reja janë bërë të ditura nga shefi i Komisariatit nr. 6 për Euronews A",
+      "title": "Ndahet parakohe nga jeta Rezana Çeliku, aktorja që la pas një peng të madh",
+      "link": "https://shekulli.com.al/2026/08/20/ndahet-nga-jeta-rezana-celiku-aktorja-qe-la-pas-nje-peng-te-madh/",
+      "description": "Rezana Çeliku, një nga figurat e njohura të kinematografisë dhe televizionit shqiptar, është ndarë nga jeta këtë të enjte, në moshën 66-vjeçare. Lajmi ka sjellë trishtim në botën e artit shqiptar, ndërsa nesër familjarët, miqtë dhe dashamirësit do t’i japin lamtumirën e fundit. E veçanta e historisë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-20T16:17:27+00:00",
+      "dateStr": "20 Aug, 16:17",
+      "isNew": true,
+      "id": "she01787242647"
+    },
+    {
+      "title": "Aksident i rëndë nga përplasja e dy mjeteve lundruese te “Rana e Hedhun” në Shëngjin, humb jetën 25-vjeçari, një tje",
+      "link": "https://24-ore.com/aksident-i-rende-nga-perplasja-e-dy-mjeteve-lundruese-te-rana-e-hedhun-ne-shengjin-humb-jeten-25-vjecari-nje-tje/",
+      "description": "Një aksident i rëndë ujor ka ndodhur këtë pasdite mes Rrjollit dhe Shëngjinit, ku si pasojë ka humbur jetën një person. Nga ngjarja është plagosur edhe një person tjetër, i cili është transportuar në spitalin e Lezhës. Si pasojë, mësohet se një 25 vjeçar me inicialet K.Gj., ka humbur jetën, ndërsa n",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-20T15:18:46+00:00",
+      "date": "2026-08-20T16:17:21+00:00",
+      "dateStr": "20 Aug, 16:17",
+      "isNew": true,
+      "id": "24 01787242641"
+    },
+    {
+      "title": "Situatë kritike me zjarrin në Gojan, flakët kërcënojnë shtëpitë! Bashkia e Pukës urdhëron evakuimin urgjent të banor�",
+      "link": "https://24-ore.com/situate-kritike-me-zjarrin-ne-gojan-flaket-kercenojne-shtepite-bashkia-e-pukes-urdheron-evakuimin-urgjent-te-banor%ef%bf%bd/",
+      "description": "Bashkia e Pukës ka urdhëruar sot (20 gusht) evakuimin e menjëhershëm të banorëve të fshatit Gojan i Madh, në Njësinë Administrative Gjegjan, për shkak të situatës kritike të krijuar nga përhapja e një zjarri masiv dhe rrezikut të drejtpërdrejtë për jetën dhe pronën e banorëve. Procesi i evakuimit do",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T16:16:47+00:00",
+      "dateStr": "20 Aug, 16:16",
+      "isNew": true,
+      "id": "24 11787242607"
+    },
+    {
+      "title": "FOKUS – Tusk: Kufiri lindor i Polonisë është më i sigurt se kurrë",
+      "link": "https://24-ore.com/fokus-tusk-kufiri-lindor-i-polonise-eshte-me-i-sigurt-se-kurre/",
+      "description": "VARSHAVË, 20 gusht /ATSH DPA/- Polonia është “më e sigurt se kurrë më parë” në kufirin e saj lindor, deklaroi të enjten kryeministri Donald Tusk. Projekti “Eastern Shield” (Mburoja Lindore), i cili synon forcimin e kufirit lindor të Polonisë me Rusinë dhe Bjellorusinë, po luan një rol kyç, tha Tusk.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T16:16:19+00:00",
+      "dateStr": "20 Aug, 16:16",
+      "isNew": true,
+      "id": "24 21787242579"
+    },
+    {
+      "title": "Evander vendos në minutën e 91 dhe i jep FC Cincinnati fitoren 2-1 ndaj New York City FC",
+      "link": "https://24-ore.com/evander-vendos-ne-minuten-e-91-dhe-i-jep-fc-cincinnati-fitoren-2-1-ndaj-new-york-city-fc/",
+      "description": "Evander shënoi një gol spektakolar në minutën e 91, duke i dhënë FC Cincinnati fitoren 2-1 ndaj New York City FC në ndeshjen e së mërkurës. Trajneri Pat No...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T16:11:56+00:00",
+      "dateStr": "20 Aug, 16:11",
+      "isNew": true,
+      "id": "24 31787242316"
+    },
+    {
+      "title": "Kosova, Ukraina dhe sprova e koherencës",
+      "link": "https://24-ore.com/kosova-ukraina-dhe-sprova-e-koherences/",
+      "description": "Rikonfirmimi i qëndrimit të Kievit në Beograd ngre pikëpyetje mbi koherencën e parimeve që e lidhin Kosovën dhe Ukrainën Albanians For America Më 8 gusht, Presidenti ukrainas Volodymyr Zelenskyy qëndroi përkrah Presidentit serb Aleksandar Vuçiq në Beograd dhe, kur u pyet për qëndrimin e Ukrainës nda",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T16:11:31+00:00",
+      "dateStr": "20 Aug, 16:11",
+      "isNew": true,
+      "id": "24 41787242291"
+    },
+    {
+      "title": "Lamtumirë, Rezana Çeliku! Aktorja që la gjurmë me talentin dhe mirësinë e saj",
+      "link": "https://24-ore.com/lamtumire-rezana-celiku-aktorja-qe-la-gjurme-me-talentin-dhe-miresine-e-saj/",
+      "description": "– Është ndarë nga jeta aktorja Rezana Çeliku, duke lënë pas dhimbje te familjarët, miqtë, kolegët dhe të gjithë ata që e njohën dhe e vlerësuan për talentin dhe karakterin e saj. Lajmi i hidhur është bërë i ditur nga të afërmit e saj, të cilët e kanë kujtuar Rezanën si një njeri të jashtëzakonshëm, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T16:02:35+00:00",
+      "dateStr": "20 Aug, 16:02",
+      "isNew": true,
+      "id": "24 51787241755"
+    },
+    {
+      "title": "Video e re tregon stërvitjen e parë të LeBron James, Jaylen Brown dhe Tyrese Maxey si shokë në 76ers",
+      "link": "https://24-ore.com/video-e-re-tregon-stervitjen-e-pare-te-lebron-james-jaylen-brown-dhe-tyrese-maxey-si-shoke-ne-76ers/",
+      "description": "Një video e re tregon se LeBron James, Jaylen Brown dhe Tyrese Maxey kanë nisur stërvitjet së bashku, duke filluar të ndërtojnë marrëdhënien e lojës si sho...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T16:02:34+00:00",
+      "dateStr": "20 Aug, 16:02",
+      "isNew": true,
+      "id": "24 61787241754"
+    },
+    {
+      "title": "Revizioni konstaton shkelje të shumta në konviktin studentor “Pellagonia”",
+      "link": "https://24-ore.com/revizioni-konstaton-shkelje-te-shumta-ne-konviktin-studentor-pellagonia/",
+      "description": "Enti Shtetëror i Revizionit ka konstatuar një sërë mospërputhjesh në prokurimet publike gjatë punës së konviktit studentor “Pelagonia” në Kisella Vodë. Në sy bie blerja e bukës me çmim prej 120 denarë për kilogram. „Pas futjes së evidencës ditore, faturat mujore në vitin 2025 u ulën ndjeshëm krahasu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T16:02:20+00:00",
+      "dateStr": "20 Aug, 16:02",
+      "isNew": true,
+      "id": "24 71787241740"
+    },
+    {
+      "title": "ShBA-ja do ta deportojë në Kosovë, ish-informatorin e CIA-s që u infiltrua në Al-Kaida",
+      "link": "https://24-ore.com/shba-ja-do-ta-deportoje-ne-kosove-ish-informatorin-e-cia-s-qe-u-infiltrua-ne-al-kaida/",
+      "description": "Blerim Skoro, babai 55-vjeçar i tre fëmijëve me origjinë nga Kosova, i cili u arrestua nga ICE-ja më 3 gusht, thotë “Kurrë nuk mendova se do të më tradhtonin kështu”. Administrata e presidentit Donald Trump po kërkon dëbimin e Blerim Skoros, baba i tre fëmijëve me origjinë nga Kosova, i cili thotë s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T16:02:05+00:00",
+      "dateStr": "20 Aug, 16:02",
+      "isNew": true,
+      "id": "24 81787241725"
+    },
+    {
+      "title": "Abissnet Superiore në RTSH starton me sfidën Vllaznia-Skënderbeu",
+      "link": "https://24-ore.com/abissnet-superiore-ne-rtsh-starton-me-sfiden-vllaznia-skenderbeu/",
+      "description": "Vllaznia dhe Skënderbeu do të hapin javën e parë të kampionatit të 88-të kombëtar me ndeshjen midis tyre të premten në orën 21.00 në stadiumin “Loro Boriçi” në Shkodër. Përballë do të jenë dy nga skuadrat më të vjetra të vendit, në një ndeshje traditash, ndonëse në start secila vjen në pozita të ndr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T16:01:44+00:00",
+      "dateStr": "20 Aug, 16:01",
+      "isNew": true,
+      "id": "24 91787241704"
+    },
+    {
+      "title": "Përplasen dy skafe te Rana e Hedhun, humb jetën 25-vjeçari, plagoset rëndë një tjetër",
+      "link": "https://shekulli.com.al/2026/08/20/perplasen-dy-skafe-te-rana-e-hedhun-humb-jeten-25-vjecari-plagoset-rende-nje-tjeter/",
+      "description": "Një aksident tragjik është regjistruar pasditen e sotme në zonën e Ranës së Hedhun në Shëngjin, ku dy skafe janë përplasur me njëri-tjetrin. Si pasojë e përplasjes ka humbur jetën 25-vjeçari K.Gj., ndërsa U.M. ka mbetur i plagosur rëndë. I plagosuri është transportuar për ndihmë mjekësore në spitali",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-20T16:01:33+00:00",
+      "dateStr": "20 Aug, 16:01",
+      "isNew": true,
+      "id": "she11787241693"
+    },
+    {
+      "title": "Aksident në Shëngjin/ Përmbyset gomonia, një viktimë dhe një i plagosur",
+      "link": "https://abcnews.al/aksident-ne-shengjin-permbyset-gomonia-nje-viktime-dhe-nje-i-plagosur/",
+      "description": "Një aksident i rëndë detar ka ndodhur në Shëngjin, ky një person ka mbetur i vdekur dhe një tjetër i plagosur. Një mjet lundrues tip gomone ka qenë duke udhëtuar në zonën e lundrimit nga Velipoja në drejtim të Ranës së Hedhun dhe në të ndodheshin dy personat. Në rrethana ende të paqarta, gomonia ësh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-20T15:47:50+00:00",
+      "dateStr": "20 Aug, 15:47",
+      "isNew": true,
+      "id": "abc11787240870"
+    },
+    {
+      "title": "Seuli: Koreja e Veriut lëshoi breshëri raketash balistike gjatë stërvitjes me SHBA",
+      "link": "https://abcnews.al/seuli-koreja-e-veriut-leshoi-bresheri-raketash-balistike-gjate-stervitjes-me-shba/",
+      "description": "Koreja e Veriut nisi të enjten një “breshëri raketash balistike me rreze të shkurtër veprimi” mes stërvitjeve të përbashkëta që po zhvillohen nga SHBA-të dhe Koreja e Jugut në Gadishullin Korean, tha Seuli. Zyra e kryeministrit japonez konfirmoi gjithashtu lëshime të reja raketash nga Pheniani në po",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-20T15:43:02+00:00",
+      "dateStr": "20 Aug, 15:43",
+      "isNew": true,
+      "id": "abc21787240582"
+    },
+    {
+      "title": "Krujë/ Zjarr në fshatin Bilaj, flakët pranë autostradës Thumanë-Kashar",
+      "link": "https://abcnews.al/kruje-zjarr-ne-fshatin-bilaj-flaket-prane-autostrades-thumane-kashar/",
+      "description": "Një vatër zjarri është shfaqur në fshatin Bilaj, duke përfshirë me dhjetëra ha tokë bujqësore. Zjarri po afrohet pranë linjës së autostradës Thumanë-Kashar. Zjarrfikësit e Krujës po punojnë për izolimin e vatrës./abcnews.al [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-20T15:18:26+00:00",
       "dateStr": "20 Aug, 15:18",
       "isNew": true,
-      "id": "24 11787239126"
+      "id": "abc31787239106"
     },
     {
-      "title": "SHBA anulon vizat për të huajt që kryejnë krime ose kërcënojnë sigurinë kombëtare",
-      "link": "https://24-ore.com/shba-anulon-vizat-per-te-huajt-qe-kryejne-krime-ose-kercenojne-sigurine-kombetare/",
-      "description": "Departamenti Amerikan i Shtetit po anulon vizat e shtetasve të huaj që kryejnë krime, nxisin dhunë ndaj amerikanëve ose kërcënojnë sigurinë kombëtare të Shteteve të Bashkuara. Lajmi është bërë i ditur nga Ambasada Amerikane në Tiranë përmes një postimi në rrjetet sociale. “Nën udhëheqjen e President",
-      "source": "24 ORE",
+      "title": "Zjarr në Milot, përfshihet nga flakët masivi pyjor/ Në vendngjarje zjarrfikësit dhe një helikopter",
+      "link": "https://abcnews.al/zjarr-ne-milot-perfshihet-nga-flaket-masivi-pyjor-ne-vendngjarje-zjarrfikesit-dhe-nje-helikopter/",
+      "description": "Zjarri ka përfshirë një masiv pyjor në zonën e Mal Milot. Në vendngjarje zjarrfikësit e Kurbinit, si dhe një helikopter i Forcave të Ushtrisë. Zjarri ende nuk përbën problem për banesa, ndërsa për helikopterin paraqet vështirësi nga linja e tensionit të lartë./abcnews.al [...]Read More...",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-20T15:18:12+00:00",
-      "dateStr": "20 Aug, 15:18",
+      "date": "2026-08-20T15:14:22+00:00",
+      "dateStr": "20 Aug, 15:14",
       "isNew": true,
-      "id": "24 21787239092"
-    },
-    {
-      "title": "Oilers në Koln dhe Bruins në Mynih: 2027 Global Series sjell ndeshje rregullore në Gjermani",
-      "link": "https://24-ore.com/oilers-ne-koln-dhe-bruins-ne-mynih-2027-global-series-sjell-ndeshje-rregullore-ne-gjermani/",
-      "description": "Liga e hokejit nordamerikan ka konfirmuar se ekipet Edmonton Oilers dhe Boston Bruins do të luajnë ndeshje të sezonit të rregullt në Gjermani si pjesë e 20...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T15:17:45+00:00",
-      "dateStr": "20 Aug, 15:17",
-      "isNew": true,
-      "id": "24 31787239065"
-    },
-    {
-      "title": "Droni rus në Rumani, Von der Leyen: Kjo është luftë hibride",
-      "link": "https://24-ore.com/droni-rus-ne-rumani-von-der-leyen-kjo-eshte-lufte-hibride/",
-      "description": "Presidentja e Komisionit Evropian Ursula von der Leyen ka reaguar pas rrëzimit të një droni rus në Rumani. Përmes një postimi në Telegram, ajo e cilësoi këtë gjë si ‘një luftë hibride’ “Sot, Rumania shkatërroi një dron detar të ngarkuar me eksplozivë pranë platformës Neptun Deep në Detin e Zi. Një p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T15:17:40+00:00",
-      "dateStr": "20 Aug, 15:17",
-      "isNew": true,
-      "id": "24 41787239060"
-    },
-    {
-      "title": "Gjermanët i kthejnë shpinën Friedrich Merz-it, kancelari del me minus në sondazhe! Partia e ekstremit të djathtë ruan epërsinë",
-      "link": "https://24-ore.com/gjermanet-i-kthejne-shpinen-friedrich-merz-it-kancelari-del-me-minus-ne-sondazhe-partia-e-ekstremit-te-djathte-ruan-epersine/",
-      "description": "Kancelari gjerman Friedrich Merz po vazhdon të humbasë mbështetjen e qytetarëve. Sipas një sondazhi të zhvilluar për televizionin ZDF nga instituti Wahlen, ai ka marrë vlerësimin -1.9 në një shkallë nga +5 në -5, rezultati më i dobët që nga marrja e detyrës. Në fund të korrikut, Merz, i cili është e",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T15:17:14+00:00",
-      "dateStr": "20 Aug, 15:17",
-      "isNew": true,
-      "id": "24 51787239034"
-    },
-    {
-      "title": "Ari dhe argjendi rriten në gusht, ndërsa frika në rritje e borxhit amerikan trondit tregjet",
-      "link": "https://24-ore.com/ari-dhe-argjendi-rriten-ne-gusht-ndersa-frika-ne-rritje-e-borxhit-amerikan-trondit-tregjet/",
-      "description": "Ari dhe argjendi kanë shënuar rritje këtë gusht, të nxitur nga një dollar në rënie, rritja e borxhit të qeverisë amerikane dhe zbehja e pritjeve për një rritje të mëtejshme të normës së interesit nga Rezerva Federale, ndërsa investitorët po kthehen në parajsa të sigurta. Metalet e çmuara janë bërë n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T15:16:45+00:00",
-      "dateStr": "20 Aug, 15:16",
-      "isNew": true,
-      "id": "24 61787239005"
-    },
-    {
-      "title": "Kush e kontrollon vërtet Detin Kaspik?",
-      "link": "https://24-ore.com/kush-e-kontrollon-vertet-detin-kaspik/",
-      "description": "Asnjëri nga pesë shtetet në brigjet e Detit Kaspik nuk zotëron ndonjë pjesë fikse të tij. Një konventë e vitit 2018 përcaktoi rregullat e lundrimit, sigurisë dhe peshkimit. Kufijtë e shtratit detar nuk janë zgjidhur. Për dekada me radhë, debati në Iran për Detin Kaspik është përqendruar shpesh rreth",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T15:16:32+00:00",
-      "dateStr": "20 Aug, 15:16",
-      "isNew": true,
-      "id": "24 71787238992"
-    },
-    {
-      "title": "“Reforma na shkatërron”- Banorët e Poliçanit përsëri kundër shkrirjes me Beratin, i përgjigjen Ramës: Nuk bëmë tur",
-      "link": "https://24-ore.com/reforma-na-shkaterron-banoret-e-policanit-perseri-kunder-shkrirjes-me-beratin-i-pergjigjen-rames-nuk-beme-tur/",
-      "description": "Bashkia e Poliçanit ka vijuar dëgjesat publike me qytetarët në kuadër të konsultimeve për reformën e re administrative-territoriale. Gjatë takimit të zhvilluar në qytet, banorët janë shprehur kategorikisht kundër propozimit për bashkimin e Bashkisë Poliçan me Bashkinë e Beratit, duke e cilësuar këtë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T15:16:23+00:00",
-      "dateStr": "20 Aug, 15:16",
-      "isNew": true,
-      "id": "24 81787238983"
-    },
-    {
-      "title": "Senior Bowl publikon Top 300 për Draftin 2027: kandidatë kryesorë për t’u ndjekur në 2026",
-      "link": "https://24-ore.com/senior-bowl-publikon-top-300-per-draftin-2027-kandidate-kryesore-per-tu-ndjekur-ne-2026/",
-      "description": "Panini Senior Bowl publikoi listën e tij vjetore Top 300, një përmbledhje paraprake e lojtarëve më premtues që mund të konkurrojnë në Draftin 2027. Departa...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T15:15:55+00:00",
-      "dateStr": "20 Aug, 15:15",
-      "isNew": true,
-      "id": "24 91787238955"
+      "id": "abc41787238862"
     },
     {
       "title": "Harry dhe Meghan rikthehen në Britani, fati i sigurisë së tyre ende i paqartë",
@@ -122,7 +199,7 @@
       "date": "2026-08-20T14:57:08+00:00",
       "dateStr": "20 Aug, 14:57",
       "isNew": true,
-      "id": "abc01787237828"
+      "id": "abc51787237828"
     },
     {
       "title": "Rumania shkatërron një dron detar pranë projektit strategjik të gazit, dyshohet se ishte rus",
@@ -133,7 +210,7 @@
       "date": "2026-08-20T14:52:05+00:00",
       "dateStr": "20 Aug, 14:52",
       "isNew": true,
-      "id": "abc11787237525"
+      "id": "abc61787237525"
     },
     {
       "title": "News Hour me Erneta Shevroja, (20/08/2026)",
@@ -144,7 +221,7 @@
       "date": "2026-08-20T14:49:40+00:00",
       "dateStr": "20 Aug, 14:49",
       "isNew": true,
-      "id": "abc21787237380"
+      "id": "abc71787237380"
     },
     {
       "title": "Plagosja me armë në Shkodër, Pjerin Bitani qëlloi dy herë Vladimir Bruçin pas sherrit për kamerat",
@@ -155,7 +232,7 @@
       "date": "2026-08-20T14:43:51+00:00",
       "dateStr": "20 Aug, 14:43",
       "isNew": true,
-      "id": "she01787237031"
+      "id": "she21787237031"
     },
     {
       "title": "U hodh nga shkëmbi në Vlorë, turisti italian përfundon në gjendje të rëndë në spitalin e Vlorës",
@@ -166,7 +243,7 @@
       "date": "2026-08-20T14:38:40+00:00",
       "dateStr": "20 Aug, 14:38",
       "isNew": true,
-      "id": "abc31787236720"
+      "id": "abc81787236720"
     },
     {
       "title": "Nga Messi te Ronaldo, futbollistët po bëhen pronarë klubesh, cilat janë ‘perandoritë’ e reja të yjeve",
@@ -177,7 +254,7 @@
       "date": "2026-08-20T14:37:55+00:00",
       "dateStr": "20 Aug, 14:37",
       "isNew": true,
-      "id": "she11787236675"
+      "id": "she31787236675"
     },
     {
       "title": "La pas dy djem të mitur, ndahet nga jeta mësuesja e gjimnazit, Zyra e Arsimit: Le pas shumë kujtime, dashuri dhe mirënjohje…",
@@ -188,7 +265,7 @@
       "date": "2026-08-20T14:26:04+00:00",
       "dateStr": "20 Aug, 14:26",
       "isNew": true,
-      "id": "she21787235964"
+      "id": "she41787235964"
     },
     {
       "title": "“Zero tolerancë ndaj shtetasve që kryejnë krime të dhunshme”, ambasada e SHBA: DASH po anulon vizat për …",
@@ -199,7 +276,7 @@
       "date": "2026-08-20T13:59:22+00:00",
       "dateStr": "20 Aug, 13:59",
       "isNew": true,
-      "id": "abc41787234362"
+      "id": "abc91787234362"
     },
     {
       "title": "Kush është Vladimir Bruçi, i plagosur me armë në Shkodër/ Dy vite më parë u dhunua nga 6 persona për një vend parkimi",
@@ -210,18 +287,7 @@
       "date": "2026-08-20T13:57:45+00:00",
       "dateStr": "20 Aug, 13:57",
       "isNew": true,
-      "id": "she31787234265"
-    },
-    {
-      "title": "“Kam humbur besimin tek ty”, nënkryetari i FIFA-s sulmon ashpër Infantinon",
-      "link": "https://abcnews.al/kam-humbur-besimin-tek-ty-nenkryetari-i-fifa-s-sulmon-ashper-infantinon/",
-      "description": "Presidenti i Federatës Hungareze të Futbollit dhe nënkryetari i FIFA-s, Sandor Csanyi, ka nisur një sulm të ashpër ndaj presidentit të FIFA-s, Gianni Infantino, duke vënë hapur në dyshim udhëheqjen e tij në organin qeverisës të futbollit botëror. Sipas The Guardian, Csanyi i dërgoi një letër Infanti",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T13:50:11+00:00",
-      "dateStr": "20 Aug, 13:50",
-      "isNew": true,
-      "id": "abc51787233811"
+      "id": "she51787234265"
     },
     {
       "title": "Paralajmërimi i ambasadës së SHBA-ve, vizat mund t’u anulohen të huajve që kryejnë krime ose kërcënojnë sigurinë kombëtare",
@@ -232,18 +298,7 @@
       "date": "2026-08-20T13:45:12+00:00",
       "dateStr": "20 Aug, 13:45",
       "isNew": true,
-      "id": "she41787233512"
-    },
-    {
-      "title": "Spanja rimerr 500 të mitura/ Autoritetet vendosën të zhvendosin në kontinent vajzat e pambrojtura",
-      "link": "https://abcnews.al/spanja-rimerr-500-te-mitura-autoritetet-vendosen-te-zhvendosin-ne-kontinent-vajzat-e-pambrojtura/",
-      "description": "Qeveria e Spanjës ka vendosur të lejojë zhvendosjen në territorin kontinental të rreth 500 të miturve emigrantë të pashoqëruar që ndodhen në Ceuta. Plani po përgatitet nga Ministria e Rinisë dhe Fëmijëve, në bashkëpunim me autoritetet lokale, me synimin për të lehtësuar situatën e krijuar pas fluksi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T13:40:02+00:00",
-      "dateStr": "20 Aug, 13:40",
-      "isNew": true,
-      "id": "abc61787233202"
+      "id": "she61787233512"
     },
     {
       "title": "EMRAT/ Atentati në Shkodër, kush është autori që qëlloi mbi Vladimir Brucin, lidhja mes tyre",
@@ -254,29 +309,7 @@
       "date": "2026-08-20T13:11:43+00:00",
       "dateStr": "20 Aug, 13:11",
       "isNew": true,
-      "id": "she51787231503"
-    },
-    {
-      "title": "Situata me zjarret në vend/ Deri në mesditë, 10 vatra zjarri, nga të cilat 7 mbeten aktive",
-      "link": "https://abcnews.al/situata-me-zjarret-ne-vend-deri-ne-mesdite-10-vatra-zjarri-nga-te-cilat-7-mbeten-aktive/",
-      "description": "Ministria e Mbrojtjes informon se deri në orën 14:00, janë regjistruar 10 vatra zjarri, nga të cilat 7 mbeten aktive dhe 2 janë nën monitorim. Në operacionet për shuarjen e tyre janë angazhuar 164 forca operacionale dhe 9 automjete zjarrfikëse, ndërsa Forcat e Armatosura mbështesin me 70 efektivë, 1",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T13:05:07+00:00",
-      "dateStr": "20 Aug, 13:05",
-      "isNew": true,
-      "id": "abc71787231107"
-    },
-    {
-      "title": "Detaje nga ngjarja në Delvinë, një javë më parë 45-vjeçari plagosi nipat e autorit në Sarandë",
-      "link": "https://abcnews.al/detaje-nga-ngjarja-ne-delvine-nje-jave-me-pare-45-vjecari-plagosi-nipat-e-autorit-ne-sarande/",
-      "description": "Ngjarja e ndodhur ditën e sotme në Delvinë rezulton të jetë një konflikt i mbartur prej një jave. 6 ditë më parë, në lagjen nr. 4 të Sarandës, në rrugën “Mitat Hoxha”, 45-vjeçari Xhike Hita, për motive banale, është konfliktuar dhe ka goditur me sende të forta e thikë nipat e 47-vjeçarit Lekan Tozo.",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T13:00:29+00:00",
-      "dateStr": "20 Aug, 13:00",
-      "isNew": true,
-      "id": "abc81787230829"
+      "id": "she71787231503"
     },
     {
       "title": "Atentat me armë zjarri në Shkodër! Ja kush ishte shënjestra",
@@ -287,18 +320,7 @@
       "date": "2026-08-20T12:57:41+00:00",
       "dateStr": "20 Aug, 12:57",
       "isNew": true,
-      "id": "she61787230661"
-    },
-    {
-      "title": "Plagosje me armë zjarri në Shkodër, Policia: Për motive të dobëta",
-      "link": "https://abcnews.al/plagosje-ne-shkoder-2/",
-      "description": "Një plagosje me armë zjarrë është regjistruar mesditën e kësaj të enjteje në Shkodër. Burime zyrtare të policisë thanë se ngjarja ka ndodhur rreth orës 14:30, në lagjen “Partizani”, ku dyshohet se shtetasi Pjerin Bitani ka plagosur me armë zjarri shtetasin Vladimir Burçaj, për motive të dobëta. Saka",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T12:57:18+00:00",
-      "dateStr": "20 Aug, 12:57",
-      "isNew": true,
-      "id": "abc91787230638"
+      "id": "she81787230661"
     },
     {
       "title": "1 mln lekë për të pasur makinë të blinduar! Çfarë parashikon sot ligji në Shqipëri, leja jepet nga drejtuesi i policisë vendore",
@@ -309,29 +331,7 @@
       "date": "2026-08-20T12:54:35+00:00",
       "dateStr": "20 Aug, 12:54",
       "isNew": true,
-      "id": "she71787230475"
-    },
-    {
-      "title": "Dikur njeriu më i pasur/ Biznesmeni i pasurive të paluajtshme dënohet me burgim të përjetshëm",
-      "link": "https://shekulli.com.al/2026/08/20/dikur-njeriu-me-i-pasur-biznesmeni-i-pasurive-te-paluajtshme-denohet-me-burgim-te-perjetshem/",
-      "description": "Hui Ka Yan, themeluesi i kompanisë kineze të pasurive të paluajtshme Evergrande dhe dikur njeriu më i pasur në Azi, është dënuar me burgim të përjetshëm. Raportohet se biznesmeni u shpall fajtor për disa vepra penale, mes tyre mashtrim financiar, keqpërodrim fondesh mbledhje të paligjshme parash, dh",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T12:49:45+00:00",
-      "dateStr": "20 Aug, 12:49",
-      "isNew": true,
-      "id": "she81787230185"
-    },
-    {
-      "title": "Misteri që rrethon atentatin ndaj oligarkut ukrainas/ Kush e pagoi autoren për ta hedhur në erë Yermolaav?",
-      "link": "https://shekulli.com.al/2026/08/20/misteri-qe-rrethon-atentatin-ndaj-oligarkut-ukrainas-kush-e-pagoi-autoren-yermolaav-per-ta-hedhur-ne-ere/",
-      "description": "Detaje të reja janë zbardhur në lidhje me atentatin ndaj oligarkut ukrainas Vadim Yermolaev në Monako. Yermolaev i mbijetoi një shpërthimi pranë banesës së tij, ndërsa gruaja e dyshuar për përfshirjen në atentat, Anastasia Berezovskaya, u largua nga Monako dhe disa ditë më vonë u gjet e vrarë me një",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T12:33:30+00:00",
-      "dateStr": "20 Aug, 12:33",
-      "isNew": true,
-      "id": "she91787229210"
+      "id": "she91787230475"
     }
   ]
 }
