@@ -1,8 +1,195 @@
 {
-  "lastUpdated": "2026-08-20T20:22:11.247428+00:00",
+  "lastUpdated": "2026-08-20T21:22:21.652988+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Ministria e Mbrojtjes publikon të dhënat mbi situatën e zjarreve: 18 vatra, 9 aktive dhe 3 nën monitorim",
+      "link": "https://24-ore.com/ministria-e-mbrojtjes-publikon-te-dhenat-mbi-situaten-e-zjarreve-18-vatra-9-aktive-dhe-3-nen-monitorim/",
+      "description": "Ministria e Mbrojtjes ka përditësuar të dhënat mbi situatën e zjarreve në vend, deri në orën 20:00 të kësaj të enjteje. Sipas ministrisë, gjatë ditës janë regjistruar 18 vatra zjarri, nga të cilat 9 mbeten aktive dhe 3 janë nën monitorim. Në operacionet në terren janë angazhuar 383 forca operacional",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T21:18:50+00:00",
+      "dateStr": "20 Aug, 21:18",
+      "isNew": true,
+      "id": "24 01787260730"
+    },
+    {
+      "title": "Zjarri përfshin zonën malore në Dukat, dyshohet i qëllimshëm (VIDEO)",
+      "link": "https://24-ore.com/zjarri-perfshin-zonen-malore-ne-dukat-dyshohet-i-qellimshem-video/",
+      "description": "Një vatër zjarri është shfaqur mbrëmjen e kësaj të enjte në fshatin Dukat, shumë pranë Parkut Kombëtar të Llogarasë. Flakët janë përhapur me shpejtësi në zonën malore, duke vështirësuar ndërhyrjen e forcave zjarrfikëse për shkak të terrenit të thyer. Paraprakisht dyshohet se zjarri mund të jetë i që",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T21:18:26+00:00",
+      "dateStr": "20 Aug, 21:18",
+      "isNew": true,
+      "id": "24 11787260706"
+    },
+    {
+      "title": "Protesta e 82-të në Tiranë, qytetarët mblidhen te Kryeministria",
+      "link": "https://24-ore.com/protesta-e-82-te-ne-tirane-qytetaret-mblidhen-te-kryeministria/",
+      "description": "Këtë të enjte u mbajt protesta e 82-të në Tiranë, e organizuar nga aktivistë dhe qytetarë. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej”, prej nga nisën marshimin në drejtim të Bulevardit “Dëshmorët e Kombit”. Marshimi përfundoi përpara godinës së Kryeministrisë, ku protestuesit vijuan ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T21:17:36+00:00",
+      "dateStr": "20 Aug, 21:17",
+      "isNew": true,
+      "id": "24 21787260656"
+    },
+    {
+      "title": "SHBA-ja dërgon një aeroplanmbajtës afër Hormuzit",
+      "link": "https://24-ore.com/shba-ja-dergon-nje-aeroplanmbajtes-afer-hormuzit/",
+      "description": "Komanda Qendrore e Ushtrisë së Shteteve të Bashkuara (CENTCOM) tha se aeroplanmbajtësi, USS George Washington, ka arritur në Detin Arabik. Deti Arabik lidh veriun e Gjirit të Omanit dhe më pas Ngushticën e Hormuzit. Ky dislokim vjen në kohën kur presidenti amerikan, Donald Trump, pretedon se Uashing",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T21:16:45+00:00",
+      "dateStr": "20 Aug, 21:16",
+      "isNew": true,
+      "id": "24 31787260605"
+    },
+    {
+      "title": "Messi, Lewandowski dhe Griezmann kryesojnë listën e lojtarëve më të vlerësuar të MLS në EA Sports FC 27",
+      "link": "https://24-ore.com/messi-lewandowski-dhe-griezmann-kryesojne-listen-e-lojtareve-me-te-vleresuar-te-mls-ne-ea-sports-fc-27/",
+      "description": "EA Sports FC 27 publikoi vlerësimet e lojtarëve të Major League Soccer para daljes së lojës më 24 shtator. Lionel Messi rezulton lojtari më i lartë i MLS,...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T21:15:30+00:00",
+      "dateStr": "20 Aug, 21:15",
+      "isNew": true,
+      "id": "24 41787260530"
+    },
+    {
+      "title": "Denveri po e zhgënjen Nikola Jokić",
+      "link": "https://24-ore.com/denveri-po-e-zhgenjen-nikola-jokic/",
+      "description": "Lajmi për shkëmbimin e Peyton Watson drejt Cleveland Cavaliers si pjesë e një marrëveshjeje me pesë ekipe ndezi debate rreth drejtimit të skuadrës së Denve...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T21:06:59+00:00",
+      "dateStr": "20 Aug, 21:06",
+      "isNew": true,
+      "id": "24 51787260019"
+    },
+    {
+      "title": "Vendimi i madh i Gjykatës Speciale më 16 shtator, cilat janë pritjet e Thaçit?",
+      "link": "https://24-ore.com/vendimi-i-madh-i-gjykates-speciale-me-16-shtator-cilat-jane-pritjet-e-thacit/",
+      "description": "Ish-presidenti i Kosovës, Hashim Thaçi, ka deklaruar se pret të shpallet i pafajshëm nga të gjitha akuzat në procesin gjyqësor që po zhvillohet ndaj tij në Dhomat e Specializuara të Kosovës në Hagë. Aktgjykimi në rastin ndaj Thaçit dhe ish-krerëve të tjerë të UÇK-së, Kadri Veselit, Rexhep Selimit dh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T21:06:44+00:00",
+      "dateStr": "20 Aug, 21:06",
+      "isNew": true,
+      "id": "24 61787260004"
+    },
+    {
+      "title": "Conference League/ Dinamo dhe Pafos ndajnë pikët në Elbasan, kualifikimi mbetet i hapur",
+      "link": "https://shekulli.com.al/2026/08/20/conference-league-dinamo-dhe-pafos-ndajne-piket-ne-elbasan-kualifikimi-mbetet-i-hapur/",
+      "description": "Dinamo nuk ka mundur të marrë fitoren në ndeshjen e parë të ‘play-off’-it të Conference League, teksa ‘Blutë’ barazuan 1-1 sot kundër qipriotëve të Pafos në “Elbasan Arena”. Sfida nisi e ekuilibruar, me të dyja skuadrat që patën momente të mira për të zhbllokuar rezultatin. Rasti më i rëndësishëm i ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-20T21:06:36+00:00",
+      "dateStr": "20 Aug, 21:06",
+      "isNew": true,
+      "id": "she01787259996"
+    },
+    {
+      "title": "Paralajmërimi i ambasadës së SHBA: Kush kërcenon SHBA dhe amerikanët, i hiqen vizat",
+      "link": "https://abcnews.al/paralajmerimi-i-ambasades-se-shba-kush-kercenon-shba-dhe-amerikanet-i-hiqen-vizat/",
+      "description": "Ambasada e SHBA-së në Tiranë ka përsëritur paralajmërimin për anulimin e vizave për shtetasit e huaj që kryejnë vepra penale, nxisin dhunë ndaj qytetarëve amerikanë ose përbëjnë kërcënim për sigurinë kombëtare të Shteteve të Bashkuara. Paralajmërimi është dhënë në emër të Departamentit të Shtetit, n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-20T21:03:51+00:00",
+      "dateStr": "20 Aug, 21:03",
+      "isNew": true,
+      "id": "abc01787259831"
+    },
+    {
+      "title": "Kryebashiaku i Pustecit distancohet nga vizita e Misckoskit: Nuk e organizuam ne!",
+      "link": "https://24-ore.com/kryebashiaku-i-pustecit-distancohet-nga-vizita-e-misckoskit-nuk-e-organizuam-ne/",
+      "description": "Ditën e sotme, në Bashkinë e Pustecit u zhvillua Festivali Folklorik Maqedonas, ku mori pjesë edhe kryeministri i Maqedonisë së Veriut, Hristijan Mickoski ndërsa gjatë ceremonisë u ekzekutua vetëm himni i Maqedonisë së Veriut dhe jo ai i Shqipërisë. Kreu i Bashkisë së Pustecit, Pali Kolefski, kërkoi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T21:02:51+00:00",
+      "dateStr": "20 Aug, 21:02",
+      "isNew": true,
+      "id": "24 71787259771"
+    },
+    {
+      "title": "Conference League, Dinamo barazon ndeshjen e parë ndaj Pafos",
+      "link": "https://24-ore.com/conference-league-dinamo-barazon-ndeshjen-e-pare-ndaj-pafos/",
+      "description": "Dinamo ka barazuar 1-1 me Pafos në “Elbasan Arena” në ndeshjen e parë të Play Off-it të Conference League. Pjesa e parë e sfidës është mbyllur në barazim pa gola 0-0, por duhet theksuar se qipriotët kanë humbur një 11-metërsh. David Luiz ka goditur jashtë penalltinë e gjuajtur në minutën e 37-të. Di",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T21:02:08+00:00",
+      "dateStr": "20 Aug, 21:02",
+      "isNew": true,
+      "id": "24 81787259728"
+    },
+    {
+      "title": "LONDĒR – Princi Harry dhe Meghan planifikojnë të kthehen në BM",
+      "link": "https://24-ore.com/londer-princi-harry-dhe-meghan-planifikojne-te-kthehen-ne-bm/",
+      "description": "LONDËR, 20 gusht /ATSH -AA/ – Princi Harry dhe Meghan, Duka dhe Dukesha e Sussexit, planifikojnë të rikthehen në Mbretërinë e Bashkuar në fund të këtij muaji së bashku me dy fëmijët e tyre, raportuan të mërkurën mediat britanike. Çifti synon të zhvendoset në një rezidencë private jombretërore jashtë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T21:01:09+00:00",
+      "dateStr": "20 Aug, 21:01",
+      "isNew": true,
+      "id": "24 91787259669"
+    },
+    {
+      "title": "Tërmeti 6.7 ballë trondit Perunë, lëkundjet ndihen edhe në Lima",
+      "link": "https://shekulli.com.al/2026/08/20/termeti-6-7-balle-trondit-perune-lekundjet-ndihen-edhe-ne-lima/",
+      "description": "Një tërmet i fuqishëm me magnitudë 6.7 ballë ka goditur jugun e Perusë, duke shkaktuar panik te banorët dhe lëkundje të forta në disa rajone të vendit. Sipas Institutit Gjeofizik të Perusë, epiqendra e tërmetit është lokalizuar rreth 35 kilometra në veri të qytetit Coracora, në departamentin Parinac",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-20T20:57:56+00:00",
+      "dateStr": "20 Aug, 20:57",
+      "isNew": true,
+      "id": "she11787259476"
+    },
+    {
+      "title": "“Kush hyn, nuk del gjallë”, Mark Zuckerberg sfidon legjendën! Blen kështjellën 35 milionë dollarëshe në Irlandë",
+      "link": "https://shekulli.com.al/2026/08/20/kush-hyn-nuk-del-gjalle-mark-zuckerberg-sfidon-legjenden-blen-keshtjellen-35-milione-dollareshe-ne-irlande/",
+      "description": "Një pjesë mahnitëse e historisë irlandeze ka shkuar në duart e njërit prej njerëzve më të fuqishëm në teknologji. Drejtori ekzekutiv i Meta, Mark Zuckerberg, dhe gruaja e tij Priscilla Chan, kanë blerë një kështjellë gjigante gotike të shekullit të 19-të në Qarkun Waterford, Irlandë. Sipas New York ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-20T20:48:16+00:00",
+      "dateStr": "20 Aug, 20:48",
+      "isNew": true,
+      "id": "she21787258896"
+    },
+    {
+      "title": "“Më tradhtuan”/ U infiltrua në Al-Kaeda si informator i CIA-s, por tani shqiptari arrestohet nga ICE dhe rrezikon dëbimin nga SHBA",
+      "link": "https://shekulli.com.al/2026/08/20/me-tradhtuan-u-infiltrua-ne-al-kaeda-si-informator-i-cia-s-por-tani-shqiptari-arrestohet-nga-ice-dhe-rrezikon-debimin-nga-shba/",
+      "description": "Një burrë me origjinë nga Kosova, i cili pretendon se ka punuar si informator për CIA-n dhe ka dhënë informacione të vlefshme për Osama bin Ladenin dhe persona të lidhur me terrorizmin, rrezikon të dëbohet nga Shtetet e Bashkuara të Amerikës. Blerim Skoro, 55 vjeç dhe baba i tre fëmijëve, u arrestua",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-20T20:30:34+00:00",
+      "dateStr": "20 Aug, 20:30",
+      "isNew": true,
+      "id": "she31787257834"
+    },
+    {
+      "title": "Rama e vizitoi në Hagë/ Thaçi: Njeri me vlera të larta morale dhe shqiptar i fortë",
+      "link": "https://abcnews.al/rama-e-vizitoi-ne-hage-thaci-njeri-me-vlera-te-larta-morale-dhe-shqiptar-i-forte/",
+      "description": "Ish presidenti i Kosovës, Hashim Thaçi ka folur për vizitën e kryeministrit shqiptar Edi Rama në Hagë, duke e cilësuar atë si një figurë me vlera të larta morale dhe një shqiptar të fortë. Në një intervistë për Debat Plus në RTV Dukagjini, Thaçi ka vlerësuar mbështetjen dhe mesazhin e përcjellë nga ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-20T20:27:35+00:00",
+      "dateStr": "20 Aug, 20:27",
+      "isNew": true,
+      "id": "abc11787257655"
+    },
+    {
+      "title": "Tragjedia në Manëz, familja e Sarës pret kthimin e trupit në Itali: Jemi të shkatërruar",
+      "link": "https://shekulli.com.al/2026/08/20/tragjedia-ne-manez-familja-e-sares-pret-kthimin-e-trupit-ne-itali-jemi-te-shkaterruar/",
+      "description": "Është kryer në Tiranë autopsia e trupit të Sara Brugnatellit, 26-vjeçares italiane nga Zocco, një lagje e Erbuscos, e cila humbi jetën në një aksident tragjik rrugor në Manëz. Në aksident humbën jetën edhe partneri i saj, Kleo Vrioni, 25 vjeç, i cili drejtonte automjetin, si dhe një 15-vjeçar. Pas p",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-20T20:24:15+00:00",
+      "dateStr": "20 Aug, 20:24",
+      "isNew": true,
+      "id": "she41787257455"
+    },
     {
       "title": "Gjermania raporton rekord prej 14 mijë vdekjesh të lidhura me nxehtësinë",
       "link": "https://abcnews.al/gjermania-raporton-rekord-prej-14-mije-vdekjesh-te-lidhura-me-nxehtesine/",
@@ -12,51 +199,7 @@
       "date": "2026-08-20T20:18:49+00:00",
       "dateStr": "20 Aug, 20:18",
       "isNew": true,
-      "id": "abc01787257129"
-    },
-    {
-      "title": "Mero Baze: 70% e myslimanëve shqiptarë janë bektashinj! Si i ‘zhdukën’ pas vitit 1991…",
-      "link": "https://24-ore.com/mero-baze-70-e-myslimaneve-shqiptare-jane-bektashinj-si-i-zhduken-pas-vitit-1991/",
-      "description": "Debati për krijimin e të ashtuquajturit “Shtet Bektashi” është rikthyer në vëmendje, por gazetari dhe botuesi Mero Baze thotë se çështja po keqinterpretohet dhe se nuk bëhet fjalë për krijimin e një shteti të ri apo për cenim të sovranitetit të Shqipërisë. Në një intervistë për TemA, Baze argumenton",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T20:17:43+00:00",
-      "dateStr": "20 Aug, 20:17",
-      "isNew": true,
-      "id": "24 01787257063"
-    },
-    {
-      "title": "Jacob Elordi shfaqet në tapisirin e kuq të premierës së The Dog Stars me një qen",
-      "link": "https://24-ore.com/jacob-elordi-shfaqet-ne-tapisirin-e-kuq-te-premieres-se-the-dog-stars-me-nje-qen/",
-      "description": "Aktori Jacob Elordi u paraqit në tapisirin e kuq të premierës botërore në Londër të filmit The Dog Stars, duke shoqëruar para kamerave një qen që dukej të...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T20:16:15+00:00",
-      "dateStr": "20 Aug, 20:16",
-      "isNew": true,
-      "id": "24 11787256975"
-    },
-    {
-      "title": "Fetoshi: Vuçiq e sheh urën si kërcënim, NATO-n si progres",
-      "link": "https://24-ore.com/fetoshi-vuciq-e-sheh-uren-si-kercenim-nato-n-si-progres/",
-      "description": "Arben Fetoshi, drejtor i Institutit OCTOPUS, ka reaguar ndaj letrës që presidenti i Serbisë, Aleksandar Vuçiq, i ka dërguar Sekretarit të Përgjithshëm të NATO-s, Mark Rutte, lidhur me hapjen e Urës së Ibrit për qarkullimin e automjeteve. Në një analizë të publikuar me titullin “Letra e Vuçiq në shta",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T20:12:09+00:00",
-      "dateStr": "20 Aug, 20:12",
-      "isNew": true,
-      "id": "24 21787256729"
-    },
-    {
-      "title": "NATO flet për Telegrafin pas letrës së Vuçiqit drejtuar sekretarit Rutte",
-      "link": "https://24-ore.com/nato-flet-per-telegrafin-pas-letres-se-vuciqit-drejtuar-sekretarit-rutte/",
-      "description": "Presidenti i Serbisë, Aleksandar Vuçiq, ka kërkuar nga sekretari i përgjithshëm i NATO-s, Mark Rutte, që KFOR-i të ndalë zvogëlimin gradual të pranisë së tij të përhershme në urën kryesore mbi lumin Ibër në Mitrovicë. Vuçiq tha më 20 gusht se i ka dërguar një letër sekretarit të përgjithshëm të NATO",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T20:11:49+00:00",
-      "dateStr": "20 Aug, 20:11",
-      "isNew": true,
-      "id": "24 31787256709"
+      "id": "abc21787257129"
     },
     {
       "title": "Edicioni Qendror me Juli Krisafi, (20/08/2026)",
@@ -67,62 +210,7 @@
       "date": "2026-08-20T20:04:07+00:00",
       "dateStr": "20 Aug, 20:04",
       "isNew": true,
-      "id": "abc11787256247"
-    },
-    {
-      "title": "Beteja me zjarret, 9 vatra aktive në vend, ndërhyhet me 4 helikopterë, eliminohet rreziku për banesat në Milot e Dajt",
-      "link": "https://24-ore.com/beteja-me-zjarret-9-vatra-aktive-ne-vend-nderhyhet-me-4-helikoptere-eliminohet-rreziku-per-banesat-ne-milot-e-dajt/",
-      "description": "Ministria e Mbrojtjes ka publikuar një përditësim zyrtar mbi situatën e zjarreve në të gjithë territorin e vendit, ku deri në orën 20:00 janë regjistruar gjithsej 18 vatra zjarri. Prej tyre, 9 vatra mbeten aktive, ndërsa 3 të tjera ndodhen nën monitorim të vazhdueshëm nga strukturat e emergjencës. M",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T20:03:36+00:00",
-      "dateStr": "20 Aug, 20:03",
-      "isNew": true,
-      "id": "24 41787256216"
-    },
-    {
-      "title": "Tiranë-Durrës, më shpejt dhe më sigurt?",
-      "link": "https://24-ore.com/tirane-durres-me-shpejt-dhe-me-sigurt-2/",
-      "description": "Nga Fatos Çoçoli Pas hapjes së gjashtë kilometrave të parë në segmentin Tiranë-Kashar, të cilat kanë lehtësuar ndjeshëm qarkullimin e automjeteve, puna po vijon në aksin Tiranë-Durrës me segmentin tjetër, nga mbikalimi i Kasharit në drejtim të mbikalimit të Limuthit. Punimet po zhvillohen me intensi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T20:02:38+00:00",
-      "dateStr": "20 Aug, 20:02",
-      "isNew": true,
-      "id": "24 51787256158"
-    },
-    {
-      "title": "Tiranë-Durrës, më shpejt dhe më sigurt?",
-      "link": "https://24-ore.com/tirane-durres-me-shpejt-dhe-me-sigurt/",
-      "description": "Nga Fatos Çoçoli Pas hapjes së gjashtë kilometrave të parë në segmentin Tiranë-Kashar, të cilat kanë lehtësuar ndjeshëm qarkullimin e automjeteve, puna po vijon në aksin Tiranë-Durrës me segmentin tjetër, nga mbikalimi i Kasharit në drejtim të mbikalimit të Limuthit. Punimet po zhvillohen me intensi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T20:02:37+00:00",
-      "dateStr": "20 Aug, 20:02",
-      "isNew": true,
-      "id": "24 61787256157"
-    },
-    {
-      "title": "Conference League, Drita ndalet në “Fadil Vokrri”",
-      "link": "https://24-ore.com/conference-league-drita-ndalet-ne-fadil-vokrri/",
-      "description": "Drita nuk ka arritur të marrë më shumë se një barazim përballë Inter Escaldes në “Fadil Vokrri”, në ndeshjen e parë të Play Off-it të Conference League. Është mbyllur në barazim 2-2 sfida në Prishtinë, duke lënë të hapur kualifikimin për në ndeshjen e kthimit në Andorrë pas një jave. Kampionët e Kos",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T20:02:03+00:00",
-      "dateStr": "20 Aug, 20:02",
-      "isNew": true,
-      "id": "24 71787256123"
-    },
-    {
-      "title": "KOMENT – Nga lufta në bujqësi: BE-ja hap rrugën për përdorimin e dronëve për pesticidet",
-      "link": "https://24-ore.com/koment-nga-lufta-ne-bujqesi-be-ja-hap-rrugen-per-perdorimin-e-droneve-per-pesticidet/",
-      "description": "– Më shumë dronë në qiellin e Evropës mund të mos duken si receta e duhur për të arritur konsensus mes ministrave të BE-së. shkruan politico. Megjithatë, heqja e ndalimit të vendosur prej kohësh për spërkatjen e pesticideve nga mjetet ajrore pa pilot është pjesa më pak e diskutueshme e reformës që K",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T20:00:41+00:00",
-      "dateStr": "20 Aug, 20:00",
-      "isNew": true,
-      "id": "24 81787256041"
+      "id": "abc31787256247"
     },
     {
       "title": "VIDEO/ Pak metra larg Komisariatit numër 2, i riu humbet toruan në mes të ditës, thyen me grushta xhamin e urbanit të Unazës në Tiranë",
@@ -133,18 +221,7 @@
       "date": "2026-08-20T20:00:36+00:00",
       "dateStr": "20 Aug, 20:00",
       "isNew": true,
-      "id": "she01787256036"
-    },
-    {
-      "title": "LIMA – Një tërmet i fuqishëm me magnitudë 6,7 godet jugun e Perusë",
-      "link": "https://24-ore.com/lima-nje-termet-i-fuqishem-me-magnitude-67-godet-jugun-e-peruse/",
-      "description": "LIMA, 20 gusht /ATSH – AA/ – Sipas Shërbimit Gjeologjik të SHBA-së (USGS), një tërmet i fuqishëm me magnitudë 6,7 goditi jugun e Perut pasditen e sotme, duke aktivizuar alarmet në disa rajone. Ndërkohë, Instituti Gjeofizik i Perut (IGP) raportoi një magnitudë prej 7,2 ballësh. Tërmeti ndodhi në orën",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T20:00:20+00:00",
-      "dateStr": "20 Aug, 20:00",
-      "isNew": true,
-      "id": "24 91787256020"
+      "id": "she51787256036"
     },
     {
       "title": "Hashim Thaçi: Pres lirimin nga çdo akuzë. Prokuroria po lartëson dëshmitë e fabrikuara nga epoka e regjimit të Millosheviçit",
@@ -155,7 +232,7 @@
       "date": "2026-08-20T19:40:20+00:00",
       "dateStr": "20 Aug, 19:40",
       "isNew": true,
-      "id": "abc21787254820"
+      "id": "abc41787254820"
     },
     {
       "title": "Shtrenjtohen sërish hidrokarburet, nafta arrin 219 lekë dhe benzina mbi 200 lekë për litër",
@@ -166,7 +243,7 @@
       "date": "2026-08-20T19:30:14+00:00",
       "dateStr": "20 Aug, 19:30",
       "isNew": true,
-      "id": "she11787254214"
+      "id": "she61787254214"
     },
     {
       "title": "“Në 2008, tur diplomatik për pavarësinë”/ Hashim Thaçi: Kishim takime të rregullta informuese me partnerët perëndimorë",
@@ -177,7 +254,7 @@
       "date": "2026-08-20T19:28:40+00:00",
       "dateStr": "20 Aug, 19:28",
       "isNew": true,
-      "id": "abc31787254120"
+      "id": "abc51787254120"
     },
     {
       "title": "Dhunohet me sende të forta 50-vjeçari në Vlorë, përfundon në gjendje të rëndë në spital, arrestohet një person",
@@ -188,7 +265,7 @@
       "date": "2026-08-20T19:18:42+00:00",
       "dateStr": "20 Aug, 19:18",
       "isNew": true,
-      "id": "she21787253522"
+      "id": "she71787253522"
     },
     {
       "title": "Europa League/ Egnatia dhe Lillestrom ndahen në paqe, gjithçka vendoset në Norvegji",
@@ -199,7 +276,7 @@
       "date": "2026-08-20T19:12:27+00:00",
       "dateStr": "20 Aug, 19:12",
       "isNew": true,
-      "id": "she31787253147"
+      "id": "she81787253147"
     },
     {
       "title": "Vlorë, aktivizohen disa vatra zjarri në kodrat e fshatit Dukat",
@@ -210,7 +287,7 @@
       "date": "2026-08-20T19:06:25+00:00",
       "dateStr": "20 Aug, 19:06",
       "isNew": true,
-      "id": "abc41787252785"
+      "id": "abc61787252785"
     },
     {
       "title": "“Këmbëngula që UÇK të mos shuhej”/ Hashim Thaçi flet para vendimit të Hagës: Rambujeja, e domosdoshme",
@@ -221,7 +298,7 @@
       "date": "2026-08-20T18:54:29+00:00",
       "dateStr": "20 Aug, 18:54",
       "isNew": true,
-      "id": "abc51787252069"
+      "id": "abc71787252069"
     },
     {
       "title": "Himni shqiptar ‘u harrua’ gjatë vizitës së Mickoskit në Pustec, kryebashkiaku: Kërkova që të ekzekutohej pas atij maqedonas, por…",
@@ -232,29 +309,18 @@
       "date": "2026-08-20T18:53:20+00:00",
       "dateStr": "20 Aug, 18:53",
       "isNew": true,
-      "id": "she41787252000"
+      "id": "she91787252000"
     },
     {
-      "title": "“Politika të ulet në tryezë”/ Thaçi nga Haga: Presidenti të zgjidhet nga populli, shmang krizën institucionale",
-      "link": "https://abcnews.al/politika-te-ulet-ne-tryeze-thaci-nga-haga-presidenti-te-zgjidhet-nga-populli-shmang-krizen-institucionale/",
-      "description": "Nga Haga, ish-presidenti i Kosovës Hashim Thaçi ka bërë thirrje për një tryezë të përbashkët politike për të diskutuar çështjet madhore me të cilat përballet vendi. Në qëndrimin e tij, Thaçi propozon që Presidenti i Kosovës të zgjidhet drejtpërdrejt nga populli, duke e cilësuar këtë si një mënyrë pë",
+      "title": "Thaçi: Politika të ulet në tryezë/ Ish presidenti kërkon pajtim për Kosovën",
+      "link": "https://abcnews.al/thaci-politika-te-ulet-ne-tryeze-ish-presidenti-kerkon-pajtim-per-kosoven/",
+      "description": "Një mesazh për partitë politike në Kosovë ka përcjellë ish-presidenti i Kosovës dhe ish-drejtuesi politik i UÇK-së, Hashim Thaçi, duke kërkuar që pozita dhe opozita të ulen në një tryezë të përbashkët dhe të arrijnë pajtim për çështje strategjike për vendin. Deklaratën ai e bëri gjatë një interviste",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-08-20T18:50:23+00:00",
       "dateStr": "20 Aug, 18:50",
       "isNew": true,
-      "id": "abc61787251823"
-    },
-    {
-      "title": "18 vatra zjarri në vend, 383 forca të angazhuara. 4 helikopterë ndërhynë nga ajri",
-      "link": "https://shekulli.com.al/2026/08/20/18-vatra-zjarri-ne-vend-383-forca-te-angazhuara-4-helikoptere-nderhyne-nga-ajri/",
-      "description": "Ministria e Mbrojtjes informon se deri në orën 20:00 janë regjistruar 18 vatra zjarri, nga të cilat 9 mbeten aktive dhe 3 janë nën monitorim. Në operacionet në terren janë angazhuar 383 forca operacionale dhe 24 automjete zjarrfikëse, të mbështetura nga 90 efektivë të Forcave të Armatosura, 1 automj",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T18:41:28+00:00",
-      "dateStr": "20 Aug, 18:41",
-      "isNew": true,
-      "id": "she51787251288"
+      "id": "abc81787251823"
     },
     {
       "title": "Zjarret, 9 vatra janë aktive/ Më problematike paraqitet situata në Pukë",
@@ -265,73 +331,7 @@
       "date": "2026-08-20T18:34:23+00:00",
       "dateStr": "20 Aug, 18:34",
       "isNew": true,
-      "id": "abc71787250863"
-    },
-    {
-      "title": "Shkodër/ Plagosi fqinjin e tij për kamerat e sigurisë, vetëdorëzohet në polici 70-vjeçari Pjerin Bitani",
-      "link": "https://shekulli.com.al/2026/08/20/shkoder-plagosi-fqinjin-e-tij-per-kamerat-e-sigurise-vetedorezohet-ne-polici-70-vjecari-pjerin-bitani/",
-      "description": "Është vetëdorëzuar në Policinë e Shkodrës këtë mbrëmje, Pjerin Bitani (70 vjeç), i dyshuar si autor i plagosjes me armë zjarri të Vladimir Bruçit (64 vjeç). Bitani është dorëzuar pas negociatave të zhvilluara me efektivët e Policisë së Shkodrës. Ngjarja ndodhi sot rreth orës 14:30, kur Vladimir Bruç",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T18:31:56+00:00",
-      "dateStr": "20 Aug, 18:31",
-      "isNew": true,
-      "id": "she61787250716"
-    },
-    {
-      "title": "Kryeministri i Maqedonisë së Veriut në Pustec, për të dytën herë nuk ekzekutohet himni shqiptar",
-      "link": "https://shekulli.com.al/2026/08/20/kryeministri-i-maqedonise-se-veriut-ne-pustec-per-te-dyten-here-nuk-ekzekutohet-himni-shqiptar/",
-      "description": "Kryeministri i Maqedonisë së Veriut, Hristijan Mickoski, ndodhet në Pustec në kuadër të një vizite zyrtare, ku po merr pjesë në një festival. Gjatë ceremonisë, për të dytën herë brenda një periudhe të shkurtër, nuk është ekzekutuar himni kombëtar shqiptar. Sipas protokollit shtetëror, në aktivitete ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T18:16:24+00:00",
-      "dateStr": "20 Aug, 18:16",
-      "isNew": true,
-      "id": "she71787249784"
-    },
-    {
-      "title": "Plagosja me armë e Vladimir Burçaj, vetëdorëzohet autori në Shkodër",
-      "link": "https://abcnews.al/plagosja-me-arme-e-vladimir-burcaj-vetedorezohet-autori-ne-shkoder/",
-      "description": "Është vetëdorëzuar në polici 70-vjeçari Pjerin Bitani, i dyshuar për plagosjen me armë zjarri të fqinjit të tij, 64-vjeçarit Vladimir Burçi., ngjarje e ndodhur mesditën e sotme në lagjen “Partizani” të Shkodrës. Pas kontrolleve të shumta dhe pamundësisë për t’u larguar e qëndruar i fshehur, si dhe n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T18:08:59+00:00",
-      "dateStr": "20 Aug, 18:08",
-      "isNew": true,
-      "id": "abc81787249339"
-    },
-    {
-      "title": "Largohet pas 25 vitesh nga Fiks Fare drejtuesi Filip Çakuli si dhe moderatorët Julian Deda me Xhemi Shehu",
-      "link": "https://shekulli.com.al/2026/08/20/largohet-pas-25-vitesh-nga-fiks-fare-drejtuesi-filip-cakuli-si-dhe-moderatoret-julian-deda-me-xhemi-shehu/",
-      "description": "Edhe emisioni investigativ “Fiks Fare” në Top Channel do ta nisë sezonin e ri televiziv me ndryshime të forta. Drejtuesi jetëgjatë i emisionit, Filip Çakuli, do të largohet nga drejtimi i “Fiks Fare”. Bashkë me të do të largohen edhe moderatorët Julian Deda dhe Xhemi Shehu, ndërsa ndryshimi prek edh",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T18:08:54+00:00",
-      "dateStr": "20 Aug, 18:08",
-      "isNew": true,
-      "id": "she81787249334"
-    },
-    {
-      "title": "Tirana Live me Emilian Islami, (20/08/2026)",
-      "link": "https://abcnews.al/tirana-live-me-emilian-islami-20-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T17:50:43+00:00",
-      "dateStr": "20 Aug, 17:50",
-      "isNew": true,
-      "id": "abc91787248243"
-    },
-    {
-      "title": "Turistja e huaj akuzoi guidën për drogim dhe përdhunim, avokati i Saimir Kalbajt: Asnjë provë. Fation Plaku: Mos ‘e vrisni’ në bazë të opinioneve, duhen fakte",
-      "link": "https://shekulli.com.al/2026/08/20/turistja-e-huaj-akuzoi-guiden-per-drogim-dhe-perdhunim-avokati-i-saimir-kalbajt-asnje-prove-fation-plaku-mos-e-vrisni-ne-baze-te-opinioneve-duhen-fakte/",
-      "description": "Një denoncim i rëndë ndaj guidës alpine Saimir Kalbaj, me bazë në Bajram Curri, është bërë publik në rrjetet sociale nga një turiste e huaj, e cila pretendon se është droguar dhe sulmuar seksualisht gjatë një udhëtimi në Shqipëri. Denoncimi është publikuar në profilin e një influencereje (“@momabroa",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T17:48:02+00:00",
-      "dateStr": "20 Aug, 17:48",
-      "isNew": true,
-      "id": "she91787248082"
+      "id": "abc91787250863"
     }
   ]
 }
