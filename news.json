@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-20T03:41:28.020767+00:00",
+  "lastUpdated": "2026-08-20T04:31:21.930895+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Një mbrëmje sensacionale e Alhassan Yusuf vendos fitoren e thellë të New England Revolution",
+      "link": "https://24-ore.com/nje-mbremje-sensacionale-e-alhassan-yusuf-vendos-fitoren-e-thelle-te-new-england-revolution/",
+      "description": "New England Revolution fitoi 3-0 ndaj D.C. United në Audi Field, me Alhassan Yusuf që shënoi të tre golat dhe udhëhoqi skuadrën drejt një rikthimi të fortë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T04:22:18+00:00",
+      "dateStr": "20 Aug, 04:22",
+      "isNew": true,
+      "id": "24 01787199738"
+    },
     {
       "title": "Minnesota Twins mposhtin Atlanta Braves 6-4 dhe kompletojnë serinë prej tre ndeshjesh",
       "link": "https://24-ore.com/minnesota-twins-mposhtin-atlanta-braves-6-4-dhe-kompletojne-serine-prej-tre-ndeshjesh/",
@@ -12,7 +23,7 @@
       "date": "2026-08-20T03:31:11+00:00",
       "dateStr": "20 Aug, 03:31",
       "isNew": true,
-      "id": "24 01787196671"
+      "id": "24 11787196671"
     },
     {
       "title": "Një vend i mundshëm për DeMar DeRozan pas shkëmbimit të Peyton Watson te Cavs",
@@ -23,7 +34,7 @@
       "date": "2026-08-20T02:47:53+00:00",
       "dateStr": "20 Aug, 02:47",
       "isNew": true,
-      "id": "24 11787194073"
+      "id": "24 21787194073"
     },
     {
       "title": "Një homer i Pete Alonso u quajt i jashtë loje pas rishikimi kontrovers, Yankees fituan 5-3",
@@ -34,7 +45,7 @@
       "date": "2026-08-20T02:46:57+00:00",
       "dateStr": "20 Aug, 02:46",
       "isNew": true,
-      "id": "24 21787194017"
+      "id": "24 31787194017"
     },
     {
       "title": "Morgan Rielly: Një mundësi e re për të luajtur me Maple Leafs të rinovuar",
@@ -45,7 +56,7 @@
       "date": "2026-08-20T02:45:48+00:00",
       "dateStr": "20 Aug, 02:45",
       "isNew": true,
-      "id": "24 31787193948"
+      "id": "24 41787193948"
     },
     {
       "title": "Peyton Watson kalon te Cavaliers në shkëmbim trepalësh; Strus shkon te Clippers, Nuggets marrin dy zgjedhje drafti",
@@ -56,7 +67,7 @@
       "date": "2026-08-20T02:05:41+00:00",
       "dateStr": "20 Aug, 02:05",
       "isNew": true,
-      "id": "24 41787191541"
+      "id": "24 51787191541"
     },
     {
       "title": "Një shkëmbim pesëskuadror dërgon Peyton Watson te Cleveland Cavaliers",
@@ -67,7 +78,7 @@
       "date": "2026-08-20T01:21:57+00:00",
       "dateStr": "20 Aug, 01:21",
       "isNew": true,
-      "id": "24 51787188917"
+      "id": "24 61787188917"
     },
     {
       "title": "Fillon Little League World Series 2026: rezultatet dhe momentet kryesore nga ndeshjet e para",
@@ -78,7 +89,7 @@
       "date": "2026-08-20T01:20:52+00:00",
       "dateStr": "20 Aug, 01:20",
       "isNew": true,
-      "id": "24 61787188852"
+      "id": "24 71787188852"
     },
     {
       "title": "Parasezona NFL 2026, Java 2: 10 pika kryesore për t’u ndjekur",
@@ -89,7 +100,7 @@
       "date": "2026-08-20T01:18:16+00:00",
       "dateStr": "20 Aug, 01:18",
       "isNew": true,
-      "id": "24 71787188696"
+      "id": "24 81787188696"
     },
     {
       "title": "Shumë pyetje për shtetin më të vogël në botë!",
@@ -100,18 +111,7 @@
       "date": "2026-08-20T01:08:53+00:00",
       "dateStr": "20 Aug, 01:08",
       "isNew": true,
-      "id": "24 81787188133"
-    },
-    {
-      "title": "Ideologjia që na dominon pa e njohur edhe kuptuar atë .",
-      "link": "https://24-ore.com/ideologjia-qe-na-dominon-pa-e-njohur-edhe-kuptuar-ate/",
-      "description": "&#8220;Nuk ka alternativë tjetër përveç kapitalizmit&#8221; tha Margaret Thatcher , sikur të donte të provonte se në shumicën e kohës ideologjia funksionon më mirë kur mbetet implicite e pa argumentuar , e pranuar në heshtje . Kjo shprehje nuk është gjë tjetër veçse një mekanizëm ideologjik që impon",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T01:06:05+00:00",
-      "dateStr": "20 Aug, 01:06",
-      "isNew": true,
-      "id": "24 91787187965"
+      "id": "24 91787188133"
     },
     {
       "title": "“Vetëvendosje po mban peng themelimin e institucioneve”/ Halimi: Kurti donte një president “kukull”",
