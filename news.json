@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-08-20T04:31:21.930895+00:00",
+  "lastUpdated": "2026-08-20T05:25:07.691068+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Petar Musa shënon dy gola dhe rrit avantazhin për Këpucën e Artë në fitoren 4-3 të Dallas",
+      "link": "https://24-ore.com/petar-musa-shenon-dy-gola-dhe-rrit-avantazhin-per-kepucen-e-arte-ne-fitoren-4-3-te-dallas/",
+      "description": "Petar Musa po kalon një periudhë të shkëlqyer me FC Dallas. Sulmuesi kroat realizoi dy gola në fitoren dramatike 4-3 ndaj Real Salt Lake në America First F...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T05:06:36+00:00",
+      "dateStr": "20 Aug, 05:06",
+      "isNew": true,
+      "id": "24 01787202396"
+    },
+    {
+      "title": "Buxhovi: Periudha e Hashim Thaçit ende nuk ka përfunduar",
+      "link": "https://24-ore.com/buxhovi-periudha-e-hashim-thacit-ende-nuk-ka-perfunduar/",
+      "description": "Historiani Jusuf Buxhovi ka deklaruar se periudha politike e ish-presidentit të Kosovës, Hashim Thaçi, ende nuk ka përfunduar. Buxhovi ishte i ftuar të mërkurën në emisionin “Pressing One” të T7, ku ka folur për zhvillimet politike dhe rolin e figurave të rëndësishme të politikës së Kosovës. Ai tha ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T05:06:11+00:00",
+      "dateStr": "20 Aug, 05:06",
+      "isNew": true,
+      "id": "24 11787202371"
+    },
+    {
+      "title": "Sot nxehtë, erë nga jugperëndimi dhe verilindja",
+      "link": "https://24-ore.com/sot-nxehte-ere-nga-jugperendimi-dhe-verilindja/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot kryesisht me diell. IHK njofton se vranësira të pakta priten kryesisht rreth zonave malore. Temperatura minimale do të lëvizin ndërmjet 9–13 gradë Celsius, ndërkaq ato maksimale nga 27 deri në 33 gradë. Era do të fryjë nga ju",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T05:05:55+00:00",
+      "dateStr": "20 Aug, 05:05",
+      "isNew": true,
+      "id": "24 21787202355"
+    },
+    {
+      "title": "Kinley Rasmus barazon rekordin e Mo’ne Davis për më shumë strikeouts nga një vajzë në një ndeshje të LLWS",
+      "link": "https://24-ore.com/kinley-rasmus-barazon-rekordin-e-mone-davis-per-me-shume-strikeouts-nga-nje-vajze-ne-nje-ndeshje-te-llws/",
+      "description": "Kinley Rasmus, pitcher‑ja e ekipit të Little League të Phenix City, Alabama, pati një paraqitje historike të mërkurën, duke regjistruar tetë strikeouts në...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-20T04:56:29+00:00",
+      "dateStr": "20 Aug, 04:56",
+      "isNew": true,
+      "id": "24 31787201789"
+    },
     {
       "title": "Një mbrëmje sensacionale e Alhassan Yusuf vendos fitoren e thellë të New England Revolution",
       "link": "https://24-ore.com/nje-mbremje-sensacionale-e-alhassan-yusuf-vendos-fitoren-e-thelle-te-new-england-revolution/",
@@ -12,7 +56,7 @@
       "date": "2026-08-20T04:22:18+00:00",
       "dateStr": "20 Aug, 04:22",
       "isNew": true,
-      "id": "24 01787199738"
+      "id": "24 41787199738"
     },
     {
       "title": "Minnesota Twins mposhtin Atlanta Braves 6-4 dhe kompletojnë serinë prej tre ndeshjesh",
@@ -23,7 +67,7 @@
       "date": "2026-08-20T03:31:11+00:00",
       "dateStr": "20 Aug, 03:31",
       "isNew": true,
-      "id": "24 11787196671"
+      "id": "24 51787196671"
     },
     {
       "title": "Një vend i mundshëm për DeMar DeRozan pas shkëmbimit të Peyton Watson te Cavs",
@@ -34,7 +78,7 @@
       "date": "2026-08-20T02:47:53+00:00",
       "dateStr": "20 Aug, 02:47",
       "isNew": true,
-      "id": "24 21787194073"
+      "id": "24 61787194073"
     },
     {
       "title": "Një homer i Pete Alonso u quajt i jashtë loje pas rishikimi kontrovers, Yankees fituan 5-3",
@@ -45,7 +89,7 @@
       "date": "2026-08-20T02:46:57+00:00",
       "dateStr": "20 Aug, 02:46",
       "isNew": true,
-      "id": "24 31787194017"
+      "id": "24 71787194017"
     },
     {
       "title": "Morgan Rielly: Një mundësi e re për të luajtur me Maple Leafs të rinovuar",
@@ -56,7 +100,7 @@
       "date": "2026-08-20T02:45:48+00:00",
       "dateStr": "20 Aug, 02:45",
       "isNew": true,
-      "id": "24 41787193948"
+      "id": "24 81787193948"
     },
     {
       "title": "Peyton Watson kalon te Cavaliers në shkëmbim trepalësh; Strus shkon te Clippers, Nuggets marrin dy zgjedhje drafti",
@@ -67,51 +111,7 @@
       "date": "2026-08-20T02:05:41+00:00",
       "dateStr": "20 Aug, 02:05",
       "isNew": true,
-      "id": "24 51787191541"
-    },
-    {
-      "title": "Një shkëmbim pesëskuadror dërgon Peyton Watson te Cleveland Cavaliers",
-      "link": "https://24-ore.com/nje-shkembim-peseskuadror-dergon-peyton-watson-te-cleveland-cavaliers/",
-      "description": "Peyton Watson po vazhdon karrierën te Cleveland Cavaliers pas një marrëveshjeje pesëskuadrore që përfshin Denver Nuggets, Los Angeles Clippers dhe ekipe të...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T01:21:57+00:00",
-      "dateStr": "20 Aug, 01:21",
-      "isNew": true,
-      "id": "24 61787188917"
-    },
-    {
-      "title": "Fillon Little League World Series 2026: rezultatet dhe momentet kryesore nga ndeshjet e para",
-      "link": "https://24-ore.com/fillon-little-league-world-series-2026-rezultatet-dhe-momentet-kryesore-nga-ndeshjet-e-para/",
-      "description": "Little League World Series 2026 nisi të mërkurën në Williamsport, Pennsylvania, me katër ndeshje që u zhvilluan gjatë ditës dhe me kuadrin e turneut të nda...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T01:20:52+00:00",
-      "dateStr": "20 Aug, 01:20",
-      "isNew": true,
-      "id": "24 71787188852"
-    },
-    {
-      "title": "Parasezona NFL 2026, Java 2: 10 pika kryesore për t’u ndjekur",
-      "link": "https://24-ore.com/parasezona-nfl-2026-java-2-10-pika-kryesore-per-tu-ndjekur/",
-      "description": "Java e dytë e parasezonës së 2026 do të japë më shumë minuta loje dhe informacione të rëndësishme për statusin e më shumë skuadrave, ndërsa stërvitjet zëve...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T01:18:16+00:00",
-      "dateStr": "20 Aug, 01:18",
-      "isNew": true,
-      "id": "24 81787188696"
-    },
-    {
-      "title": "Shumë pyetje për shtetin më të vogël në botë!",
-      "link": "https://24-ore.com/shume-pyetje-per-shtetin-me-te-vogel-ne-bote/",
-      "description": "Dy vjet më parë, në shtator 2024, gazeta New York Times shkroi se në Tiranë do të krijohej Shteti Sovran i Urdhrit Bektashi, një mikro-shtet i modeluar, të paktën në koncept, sipas Vatikanit dy mijë vjeçar, pavarësisht se nuk ka kurrefare afersie apo ngjashmërie me të. Një ditë më pas, kryeministri ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T01:08:53+00:00",
-      "dateStr": "20 Aug, 01:08",
-      "isNew": true,
-      "id": "24 91787188133"
+      "id": "24 91787191541"
     },
     {
       "title": "“Vetëvendosje po mban peng themelimin e institucioneve”/ Halimi: Kurti donte një president “kukull”",
