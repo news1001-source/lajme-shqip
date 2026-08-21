@@ -1,84 +1,260 @@
 {
-  "lastUpdated": "2026-08-21T06:37:11.262851+00:00",
+  "lastUpdated": "2026-08-21T07:37:49.589945+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Mot i kthjellët me temperatura deri në 37 gradë Celsius",
-      "link": "https://abcnews.al/mot-i-kthjellet-me-temperatura-deri-ne-37-grade-celsius/",
-      "description": "Vendi ynë ditën e premte pritet të ndikohet nga kushte atmosferike të qëndrueshme. Moti parashikohet i kthjellët, por nuk do të mungojnë alternime vranësirash të pakta deri mesatare dhe kalimtare. Era do të fryjë me drejtim kryesor veriperëndim-juglindje, me shpejtësi mesatare 6 m/s, shoqëruar me va",
+      "title": "U arrestua nga FBI/ 35-vjeçarja akuzohet se planifikoi sulm me bombë në Kapitol",
+      "link": "https://abcnews.al/u-arrestua-nga-fbi-35-vjecarja-akuzohet-se-planifikoi-sulm-me-bombe-ne-kapitol/",
+      "description": "Një 35-vjeçare nga Albany, Nju Jork, është arrestuar nga FBI dhe akuzohet se kishte planifikuar një sulm me bombë ndaj Kapitolit të Shtetit të Nju Jorkut, me synim vrasjen e ligjvënësve. Jessica Bowie përballet me akuzën për tentativë për të ofruar mbështetje materiale për ISIS-in. Sipas autoritetev",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-21T06:26:00+00:00",
-      "dateStr": "21 Aug, 06:26",
+      "date": "2026-08-21T07:34:08+00:00",
+      "dateStr": "21 Aug, 07:34",
       "isNew": true,
-      "id": "abc01787293560"
+      "id": "abc01787297648"
     },
     {
-      "title": "PDK edhe sot me aksion simbolik para Qeverisë, të pranishëm asamblistë nga Lipjani dhe deputetë të Aleancës",
-      "link": "https://24-ore.com/pdk-edhe-sot-me-aksion-simbolik-para-qeverise-te-pranishem-asambliste-nga-lipjani-dhe-deputete-te-aleances/",
-      "description": "Partia Demokratike e Kosovës edhe sot po mban një aksion simbolik para Qeverisë së Kosovës. PDK po kërkon nga kryeministri në detyrë, Albin Kurti që të konstituojë Kuvendin. Të pranishëm në aksionin e PDK-së janë edhe asamblistë nga Lipjani. Në aksionin e PDK-së janë po ashtu edhe deputetë nga Alean",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T06:11:32+00:00",
-      "dateStr": "21 Aug, 06:11",
-      "isNew": true,
-      "id": "24 01787292692"
-    },
-    {
-      "title": "Zjarri në Dukat vijon të jetë aktiv, dy avionë dhe 40 trupa në terren",
-      "link": "https://abcnews.al/zjarri-ne-dukat-vijon-te-jete-aktiv-dy-avione-dhe-40-trupa-ne-terren/",
-      "description": "Zjarri që ka nisur mbrëmjen e djeshme në zonën e Dukatit, në Vlorë, vijon të jetë aktiv, ndërsa strukturat e emergjencave janë angazhuar për izolimin dhe shuarjen e flakëve. Në ndihmë të forcave në terren janë nisur dy avionë dhe 40 trupa të Forcave të Armatosura. Në operacion janë angazhuar gjithas",
+      "title": "Situata me zjarret/ 20 vatra në 24 orë në Shqipëri, 9 vijojnë aktive, 235 forca në terren",
+      "link": "https://abcnews.al/situata-me-zjarret-20-vatra-ne-24-ore-ne-shqiperi-9-vijojne-aktive-235-forca-ne-terren/",
+      "description": "Ministria e Mbrojtjes ka bërë bilancin e situatës së zjarreve në vend gjatë 24 orëve të fundit, duke raportuar 20 vatra zjarri. Prej tyre, 9 mbeten aktive, ndërsa një vatër është nën monitorim. Në operacionet për përballimin e situatës janë angazhuar 235 forca operacionale dhe 33 automjete zjarrfikë",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-21T06:10:52+00:00",
-      "dateStr": "21 Aug, 06:10",
+      "date": "2026-08-21T07:31:49+00:00",
+      "dateStr": "21 Aug, 07:31",
       "isNew": true,
-      "id": "abc11787292652"
+      "id": "abc11787297509"
     },
     {
-      "title": "Horoskopi, zbuloni parashikimin e yjeve për shenjën tuaj",
-      "link": "https://abcnews.al/horoskopi-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj-190/",
-      "description": "Dashi Ditë shumë e kontrastuar kjo e sotmja për ata që janë në një lidhje. Do keni mosmarrëveshje me partnerin dhe asgjë nuk do t’ju ecë mirë. Beqarët do realizojnë disa takime interesante, por nuk do jenë ende gati për të marrë vendime. Në planin financiar, çdo gjë do të varet nga mënyra sesi ju [.",
+      "title": "Dyshohet se ra nga ballkoni i pallatit, humb jetën një 50-vjeçar në Vlorë",
+      "link": "https://abcnews.al/dyshohet-se-ra-nga-ballkoni-i-pallatit-humb-jeten-nje-50-vjecar-ne-vlore/",
+      "description": "Një person rreth 50 vjeç ka humbur jetën mëngjesin e sotëm, pasi ka rënë nga ballkoni i një pallati në lagjen “28 Nëntori”, pranë Kishës Ortodokse. Ngjarja është regjistruar rreth orës 09:00. Sipas të dhënave paraprake, personi ka rënë nga një lartësi dhe për pasojë ka humbur jetën. Në vendngjarje k",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-21T06:00:47+00:00",
-      "dateStr": "21 Aug, 06:00",
+      "date": "2026-08-21T07:30:27+00:00",
+      "dateStr": "21 Aug, 07:30",
       "isNew": true,
-      "id": "abc21787292047"
+      "id": "abc21787297427"
     },
     {
-      "title": "‘Mitralozë, mjete shpërthyese e uniforma’ – çfarë u gjet pranë varrezave masive në Zubin Potok- të gjitha nga konferenca e Policisë",
-      "link": "https://24-ore.com/mitraloze-mjete-shperthyese-e-uniforma-cfare-u-gjet-prane-varrezave-masive-ne-zubin-potok-te-gjitha-nga-konferenca-e-policise/",
-      "description": "Policia e Kosovës prezantoi të enjten armatimin dhe dëshmi e tjera relevante të gjetura dhe të konfiskuara gjatë operacioneve policore të zhvilluara në disa lokacione në veri të Mitrovicës. Armatimi i konfiskuar është ekspozuar në Qendrën e Njësive Speciale “Enver Zymeri” në Mitrovicë. Lidhur me kët",
-      "source": "24 ORE",
+      "title": "Aksident me vdekje në Durrës, humb jetën 32-vjeçari, zhduket mjeti që e përplasi",
+      "link": "https://shekulli.com.al/2026/08/21/aksident-me-vdekje-ne-durres-humb-jeten-32-vjecari-zhduket-mjeti-qe-e-perplasi/",
+      "description": "DURRËS- Një aksident me vdekje ka ndodhur në orët e para të mëngjesit të sotëm, në zonën e Rrashbullit, ku një i ri, drejtues i një biçiklete ka humbur jetën. Burime nga Policia bëjnë me dije për SHEKULLI-n se rreth orës 06:15, në aksin rrugor “Shkozet-Shijak”, në vendin e quajtur Rrashbull, një aut",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-21T05:52:22+00:00",
-      "dateStr": "21 Aug, 05:52",
+      "date": "2026-08-21T07:30:22+00:00",
+      "dateStr": "21 Aug, 07:30",
       "isNew": true,
-      "id": "24 11787291542"
+      "id": "she01787297422"
     },
     {
-      "title": "Prezantohet ChatGPT për adoleshentët, çfarë ndryshon fëmijë",
-      "link": "https://24-ore.com/prezantohet-chatgpt-per-adoleshentet-cfare-ndryshon-femije/",
-      "description": "OpenAI ka prezantuar një version të posaçëm të ChatGPT për përdoruesit nën 18 vjeç, të quajtur “ChatGPT for Teens”. Versioni i ri synon të krijojë një mjedis më të sigurt për adoleshentët dhe t’u japë prindërve më shumë mundësi kontrolli. Sipas NPR, sistemi është projektuar për përdoruesit nga 13 de",
-      "source": "24 ORE",
+      "title": "“Duhet bërë sa më parë”/ Propozimi i papritur i Braçes: Duhet të shkulim betonin e Tiranës!",
+      "link": "https://shekulli.com.al/2026/08/21/duhet-bere-sa-me-pare-propozimi-i-papritur-i-braces-duhet-te-shkulim-betonin-e-tiranes/",
+      "description": "Deputeti socialist Erion Braçe ka ngritur sot shqetësimin e temperaturave të larta që kanë prekur vendin, por gjithashtu dhe të betonizimit të kryeqytetit. Nga zona e njohur si &#8220;Xhamlliku&#8221;, Braçe shprehet se betoni i tepërt që mbizotëron ndikon që kjo lagje të nxehet më shumë gjatë ditëv",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-21T05:16:51+00:00",
-      "dateStr": "21 Aug, 05:16",
+      "date": "2026-08-21T07:29:43+00:00",
+      "dateStr": "21 Aug, 07:29",
       "isNew": true,
-      "id": "24 21787289411"
+      "id": "she11787297383"
     },
     {
-      "title": "Temperatura të larta, shmangni qëndrimin e gjatë në diell gjatë orëve të mesditës",
-      "link": "https://24-ore.com/temperatura-te-larta-shmangni-qendrimin-e-gjate-ne-diell-gjate-oreve-te-mesdites/",
-      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot me diell. IHK njofton se temperatura minimale do të lëvizin ndërmjet 11 deri 15 gradë Celsius, ndërkaq ato maksimale nga 29 –34 gradë. Era do të fryjë nga jugperëndimi dhe juglindja, me shpejtësi 1–5 m/s. Indeksi UV pritet të jetë i la",
+      "title": "Bombardimet ruse në Kiev, të paktën 16 të vrarë dhe 42 të plagosur",
+      "link": "https://abcnews.al/bombardimet-ruse-ne-kiev-te-pakten-16-te-vrare-dhe-42-te-plagosur/",
+      "description": "Të paktën 16 persona janë vrarë dhe 42 të tjerë janë plagosur si pasojë e një sulmi rus gjatë natës në kryeqytetin ukrainas, Kiev. Lajmi është bërë i ditur nga Shërbimi Shtetëror i Emergjencave të Ukrainës, sipas të cilit ky ishte sulmi i tretë ndaj Kievit brenda 24 orëve. Si pasojë e goditjeve, një",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T07:28:10+00:00",
+      "dateStr": "21 Aug, 07:28",
+      "isNew": true,
+      "id": "abc31787297290"
+    },
+    {
+      "title": "Durrës/ Makina përplas për vdekje 32-vjeçarin, shoferi largohet nga vendngjarja",
+      "link": "https://abcnews.al/durres-makina-perplas-per-vdekje-32-vjecarin-shoferi-largohet-nga-vendngjarja/",
+      "description": "Durrës- Një aksident tragjik ka ndodhur mëngjesin e sotëm në aksin rrugor “Shkozet-Shijak”, në vendin e quajtur Rrashbull. Rreth orës 06:15, një automjet ende i paidentifikuar ka përplasur një biçiklist, shtetasin V. H., 32 vjeç. Si pasojë e përplasjes, 32-vjeçari ka ndërruar jetë në vendngjarje. Pa",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T07:26:38+00:00",
+      "dateStr": "21 Aug, 07:26",
+      "isNew": true,
+      "id": "abc41787297198"
+    },
+    {
+      "title": "Kosovë/ PDK për të shtatën ditë bllokon hyrjen para Qeverisë, kërkon vazhdimin e seancës konstituive",
+      "link": "https://abcnews.al/kosove-pdk-per-te-shtaten-dite-bllokon-hyrjen-para-qeverise-kerkon-vazhdimin-e-seances-konstituive/",
+      "description": "Partia Demokratike e Kosovës (PDK) ka vijuar për të shtatën ditë radhazi aksionin para ndërtesës së Qeverisë së Kosovës, duke bllokuar hyrjen në shenjë proteste ndaj mosvazhdimit të seancës konstituive të Kuvendit. Në aksionin e sotëm janë bashkuar edhe deputetë të Aleancës, ndërsa pjesëmarrës janë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T07:20:46+00:00",
+      "dateStr": "21 Aug, 07:20",
+      "isNew": true,
+      "id": "abc51787296846"
+    },
+    {
+      "title": "“Duam naftë pa akcizë”/ Fermerët paralajmërojnë protesta: Nisim në shtator!",
+      "link": "https://shekulli.com.al/2026/08/21/duam-nafte-pa-akcize-fermeret-paralajmerojne-protesta-nisim-ne-shtator/",
+      "description": "Subvencionet e ulëta në bujqësi dhe blegtori, krahasuar me vendet e rajonit, kostot e larta të prodhimit, mungesa e kanaleve ujitëse dhe heqja e naftës pa akcizë janë ndër problematikat kryesore që vijojnë të penalizojnë fermerët dhe konkurrueshmërinë e sektorit. Përballë këtyre vështirësive, fermer",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-21T07:17:52+00:00",
+      "dateStr": "21 Aug, 07:17",
+      "isNew": true,
+      "id": "she21787296672"
+    },
+    {
+      "title": "Vijon aktiv zjarri në Dukat, era përhap flakët gjatë natës! Nis ndërhyrja nga ajri për izolimin e vatrave (VIDEO)",
+      "link": "https://24-ore.com/vijon-aktiv-zjarri-ne-dukat-era-perhap-flaket-gjate-nates-nis-nderhyrja-nga-ajri-per-izolimin-e-vatrave-video/",
+      "description": "Zjarri i madh në Dukat, i cili ka nisur që prej mbrëmjes së djeshme, vijon të jetë aktiv. Për përballimin e situatës dhe ndërhyrjen për shuarjen e flakëve, kanë mbërritur dy avionët që do të angazhohen në operacionin për shuarjen e flakëve. Janë nisur gjithashtu, 40 trupa të Forcave të Armatosura, s",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-21T05:06:32+00:00",
-      "dateStr": "21 Aug, 05:06",
+      "date": "2026-08-21T07:16:50+00:00",
+      "dateStr": "21 Aug, 07:16",
       "isNew": true,
-      "id": "24 31787288792"
+      "id": "24 01787296610"
+    },
+    {
+      "title": "SHBA paralajmëron “sanksionet më të ashpra në histori” ndaj Iranit",
+      "link": "https://24-ore.com/shba-paralajmeron-sanksionet-me-te-ashpra-ne-histori-ndaj-iranit/",
+      "description": "Shefi i Thesarit të SHBA-së, Scott Bessent, tha se Shtetet e Bashkuara do të vendosin “sanksionet më të ashpra në histori” ndaj Iranit, një veprim që ai sugjeroi se do të zvogëlonte nevojën për operacione të reja të mëdha ushtarake. Komentet e Bessent të enjten pasuan kërcënimin e presidentit Donald",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T07:16:36+00:00",
+      "dateStr": "21 Aug, 07:16",
+      "isNew": true,
+      "id": "24 11787296596"
+    },
+    {
+      "title": "OKB – SHBA dhe Rusia akuzojnë Baerbock për tejkalim të kompetencave në votimin për sekretar të përgjithshëm",
+      "link": "https://24-ore.com/okb-shba-dhe-rusia-akuzojne-baerbock-per-tejkalim-te-kompetencave-ne-votimin-per-sekretar-te-pergjithshem/",
+      "description": "NJU JORK, 21 gusht /ATSH-DPA/ – Rusia dhe Shtetet e Bashkuara kanë akuzuar presidenten e Asamblesë së Përgjithshme të OKB-së (PGA), Annalena Baerbock, për tejkalim të autoritetit të saj në përzgjedhjen e sekretarit të përgjithshëm të ardhshëm të OKB-së dhe për ndërhyrje në përgjegjësitë e Këshillit ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T07:16:08+00:00",
+      "dateStr": "21 Aug, 07:16",
+      "isNew": true,
+      "id": "24 21787296568"
+    },
+    {
+      "title": "LSDM: Vuçiqi i caktoi zgjedhjet, tani Mickoski menjëherë do ta bëjë",
+      "link": "https://24-ore.com/lsdm-vuciqi-i-caktoi-zgjedhjet-tani-mickoski-menjehere-do-ta-beje/",
+      "description": "Nga LSDM në një kumtesë për media thonë se Hristijan Mickoski sërish i ka rikthyer zgjedhjet në qarkullim. Sipas LSDM-së, pasi Vuçiqi shpalli zgjedhjet, Mickoski menjëherë gjithashtu. &#8220;Kjo nuk është rastësi. Ai tashmë po punon sipas urdhrave. Kjo është arsyeja pse ai tashmë e di kur janë zgjed",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T07:11:39+00:00",
+      "dateStr": "21 Aug, 07:11",
+      "isNew": true,
+      "id": "24 31787296299"
+    },
+    {
+      "title": "Princi i Kurorës së Arabisë Saudite udhëtim në Francë, takim me Macron për çështjet rajonale",
+      "link": "https://abcnews.al/princi-i-kurores-se-arabise-saudite-udhetim-ne-france-takim-me-macron-per-ceshtjet-rajonale/",
+      "description": "Princi i Kurorës së Arabisë Saudite, Mohammed bin Salman, do të zhvillojë një vizitë zyrtare në Francë më 23 dhe 24 gusht, ku do të takohet me presidentin Emmanuel Macron. Në qendër të bisedimeve pritet të jenë çështjet rajonale, si dhe forcimi i partneritetit strategjik mes dy vendeve. Vizita e lid",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T07:10:23+00:00",
+      "dateStr": "21 Aug, 07:10",
+      "isNew": true,
+      "id": "abc61787296223"
+    },
+    {
+      "title": "Nëna e Hashim Thaçit ndjek intervistën e të birit nga Haga/ Endrit Thaçi ndan momentin emocional të gjyshes",
+      "link": "https://abcnews.al/nena-e-hashim-thacit-ndjek-intervisten-e-te-birit-nga-haga-endrit-thaci-ndan-momentin-emocional-te-gjyshes/",
+      "description": "Endrit Thaçi, djali i ish-presidentit të Kosovës, Hashim Thaçi, ka ndarë një fotografi emocionuese të gjyshes së tij, Hyre Thaçi, teksa ndiqte në televizor intervistën e të birit nga Haga. Në fotografi, nëna e Hashim Thaçit shihet e ulur përpara televizorit, duke ndjekur intervistën e tij në emision",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T07:04:26+00:00",
+      "dateStr": "21 Aug, 07:04",
+      "isNew": true,
+      "id": "abc71787295866"
+    },
+    {
+      "title": "Vrasja e turistit portugez, 13 persona dalin sot para Gjykatës së Sarandës! Policia blindon tre qytete…",
+      "link": "https://24-ore.com/vrasja-e-turistit-portugez-13-persona-dalin-sot-para-gjykates-se-sarandes-policia-blindon-tre-qytete-2/",
+      "description": "13 persona do të dalin para togave të zeza në Sarandë këtë të premte, për t’u njohur me masat e sigurisë, pas vrasjes së bujshme të turistit portugez Luis Miguel Varela Mendes, ngjarje e ndodhur tre ditë më parë në ambientet e jashtme të një lokali në Ksamil. Policia ka kryer kontrolle në tre qytete",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T07:03:34+00:00",
+      "dateStr": "21 Aug, 07:03",
+      "isNew": true,
+      "id": "24 41787295814"
+    },
+    {
+      "title": "Vrasja e turistit portugez, 13 persona dalin sot para Gjykatës së Sarandës! Policia blindon tre qytete…",
+      "link": "https://24-ore.com/vrasja-e-turistit-portugez-13-persona-dalin-sot-para-gjykates-se-sarandes-policia-blindon-tre-qytete/",
+      "description": "13 persona do të dalin para togave të zeza në Sarandë këtë të premte, për t’u njohur me masat e sigurisë, pas vrasjes së bujshme të turistit portugez Luis Miguel Varela Mendes, ngjarje e ndodhur tre ditë më parë në ambientet e jashtme të një lokali në Ksamil. Policia ka kryer kontrolle në tre qytete",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T07:03:33+00:00",
+      "dateStr": "21 Aug, 07:03",
+      "isNew": true,
+      "id": "24 51787295813"
+    },
+    {
+      "title": "Muzeu Kombëtar i Lundrimit, rrëfenjë për lidhjen e hershme të Shkodrës me liqenin",
+      "link": "https://24-ore.com/muzeu-kombetar-i-lundrimit-rrefenje-per-lidhjen-e-hershme-te-shkodres-me-liqenin/",
+      "description": "Muzeu Kombëtar i Lundrimit po merr formë në hyrje të Shkodrës si një hapësirë që do të rrëfejë historinë dhe lidhjen e hershme të qytetit me liqenin, lumenjtë dhe lundrimin. Kryeministri Edi Rama publikoi në rrjetet sociale pamje nga puna që po kryhet për realizimin e kësaj vepre që i shtohet ofertë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T07:01:57+00:00",
+      "dateStr": "21 Aug, 07:01",
+      "isNew": true,
+      "id": "24 61787295717"
+    },
+    {
+      "title": "SHBA rrit presionin ndaj Iranit, kërkon mbështetjen e aleatëve dhe Kinës",
+      "link": "https://abcnews.al/shba-rrit-presionin-ndaj-iranit-kerkon-mbeshtetjen-e-aleateve-dhe-kines/",
+      "description": "Qeveria amerikane ka rritur presionin ndaj aleatëve dhe Kinës për t’iu bashkuar përpjekjeve të Uashingtonit për të ashpërsuar presionin ekonomik ndaj Iranit. Sipas administratës amerikane, kjo strategji mund të çojë në dobësimin dhe rrëzimin e regjimit në Teheran, pa qenë nevoja për përsëritjen e op",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T07:00:24+00:00",
+      "dateStr": "21 Aug, 07:00",
+      "isNew": true,
+      "id": "abc81787295624"
+    },
+    {
+      "title": "Trashëgimia kulturore nënujore, thesaret e fshehura të historisë",
+      "link": "https://24-ore.com/trashegimia-kulturore-nenujore-thesaret-e-fshehura-te-historise/",
+      "description": "Dita Ndërkombëtare e Trashëgimisë Kulturore Nënujore, e cila festohet çdo vit më 21 gusht, synon mbrojtjen e trashëgimisë kulturore të zhytur në oqeane, dete, lumenj dhe liqene. Më 21 gusht 2022 u nis misioni i parë ndërkombëtar i arkeologjisë nënujore, nën kujdesin e UNESCO-s, me pjesëmarrjen e tet",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T06:47:27+00:00",
+      "dateStr": "21 Aug, 06:47",
+      "isNew": true,
+      "id": "24 71787294847"
+    },
+    {
+      "title": "LAMM: Rritet intensiteti i trafikut, nuk ka pritje të gjata në pikat kufitare",
+      "link": "https://24-ore.com/lamm-rritet-intensiteti-i-trafikut-nuk-ka-pritje-te-gjata-ne-pikat-kufitare/",
+      "description": "Trafiku në rrugët shtetërore po zhvillohet pa probleme, në rrugë të thata. Intensiteti i trafikut në rrugët jashtë zonave urbane është rritur. Nuk ka vonesa të gjata në pikat kufitare në anën e RMV-së për hyrje dhe dalje nga vendi. LAMM rekomandon përshtatjen e shpejtësisë së lëvizjes, respektimin e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T06:47:06+00:00",
+      "dateStr": "21 Aug, 06:47",
+      "isNew": true,
+      "id": "24 81787294826"
+    },
+    {
+      "title": "“Gjyshja po të pret çdo ditë, bab” – djali i Hashim Thaçit me mesazh prekës",
+      "link": "https://24-ore.com/gjyshja-po-te-pret-cdo-dite-bab-djali-i-hashim-thacit-me-mesazh-prekes/",
+      "description": "Endrit Thaçi, djali i ish-presidentit të Kosovës, Hashim Thaçi ka ndarë një fotografi emocionuese të gjyshes së tij, Hyre Thaçi, teksa ajo ndiqte në televizion intervistën e të birit nga Haga. Krahas fotografisë, Endriti ka përcjellë një mesazh për babain e tij, duke vënë në pah mallin dhe pritjen e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T06:46:45+00:00",
+      "dateStr": "21 Aug, 06:46",
+      "isNew": true,
+      "id": "24 91787294805"
+    },
+    {
+      "title": "Aksident i rëndë në Durrës, makina del nga rruga dhe përfundon në humnerë",
+      "link": "https://abcnews.al/aksident-i-rende-ne-durres-makina-del-nga-rruga-dhe-perfundon-ne-humnere/",
+      "description": "Një aksident i rëndë është regjistruar rreth orës 02:30 të mëngjesit të kësaj të premteje, në zonën e Vilës së Zogut në Durrës. Sipas të dhënave paraprake, një automjet ka dalë nga rruga dhe ka përfunduar rreth 40 metra në humnerë. Përplasja ka qenë e fortë, ndërsa terreni i vështirë ka komplikuar n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T06:37:40+00:00",
+      "dateStr": "21 Aug, 06:37",
+      "isNew": true,
+      "id": "abc91787294260"
     },
     {
       "title": "Nuk ndalen! Rojet e Ara Club në Shëngjin dhunojnë të riun, pak para performancës së Ledri Vulës dhe Era Istrefit (Video)",
@@ -89,95 +265,7 @@
       "date": "2026-08-21T04:11:26+00:00",
       "dateStr": "21 Aug, 04:11",
       "isNew": true,
-      "id": "she01787285486"
-    },
-    {
-      "title": "Lëvizja e Flamingove tha “Jo”, tani i duhet guximi për të thënë “Po”",
-      "link": "https://24-ore.com/levizja-e-flamingove-tha-jo-tani-i-duhet-guximi-per-te-thene-po/",
-      "description": "Protestuesit mbajnë pankarta kundër kryeministrit Edi Rama dhe liderit të opozitës, Sali Berisha. Foto: LSA. Nga: Julia Aliçka Gjatë protestave që vazhdojnë në rrugët e Tiranës dëgjohet shpesh kënga Seven Nation Army. E shkruar nga White Stripes më shumë se 20 vjet më parë, kënga është zbërthyer dhe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T03:47:54+00:00",
-      "dateStr": "21 Aug, 03:47",
-      "isNew": true,
-      "id": "24 41787284074"
-    },
-    {
-      "title": "Vuçiç cakton datën e zgjedhjeve të parakohshme",
-      "link": "https://24-ore.com/vucic-cakton-daten-e-zgjedhjeve-te-parakohshme/",
-      "description": "Serbia do të mbajë zgjedhje të parakohshme parlamentare më 18 ose 25 tetor, deklaroi të enjten presidenti Aleksandar Vuçiç “Zgjedhjet parlamentare do të mbahen më 18 ose 25 tetor. Data e saktë do të bëhet e ditur në ditët e ardhshme”, tha Vuçiç gjatë një transmetimi të drejtpërdrejtë televiziv. Zgje",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T03:16:48+00:00",
-      "dateStr": "21 Aug, 03:16",
-      "isNew": true,
-      "id": "24 51787282208"
-    },
-    {
-      "title": "Pat McAfee: Nuk do të rikthehem te WWE pas humbjes së Randy Orton në WrestleMania 42",
-      "link": "https://24-ore.com/pat-mcafee-nuk-do-te-rikthehem-te-wwe-pas-humbjes-se-randy-orton-ne-wrestlemania-42/",
-      "description": "Pat McAfee deklaroi pas humbjes së Randy Orton në WrestleMania 42 se nuk do të jetë më i pranishëm në programet e WWE. Ai tha se kishte dhënë një premtim q...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T03:00:34+00:00",
-      "dateStr": "21 Aug, 03:00",
-      "isNew": true,
-      "id": "24 61787281234"
-    },
-    {
-      "title": "Një marrëveshje pesëskuadre dërgon Peyton Watson te Cavaliers; detajet e shkëmbimit dhe ndikimi në ekip",
-      "link": "https://24-ore.com/nje-marreveshje-peseskuadre-dergon-peyton-watson-te-cavaliers-detajet-e-shkembimit-dhe-ndikimi-ne-ekip/",
-      "description": "Denver Nuggets kanë arritur një marrëveshje firmo-dhe-ndryshim që dërgon Peyton Watson te Cleveland Cavaliers në kuadër të një pazari pesëskuadrat. Sipas k...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T02:51:49+00:00",
-      "dateStr": "21 Aug, 02:51",
-      "isNew": true,
-      "id": "24 71787280709"
-    },
-    {
-      "title": "Një rakun i rrëmben tifozit hot-dogun dhe lëkurat e kikirikut në Citi Field",
-      "link": "https://24-ore.com/nje-rakun-i-rremben-tifozit-hot-dogun-dhe-lekurat-e-kikirikut-ne-citi-field/",
-      "description": "Gjatë një ndeshjeje të New York Mets në Citi Field, një rakun u pa duke futur dorën përmes një vrime në tokë dhe duke marrë lëkurat e kikirikut dhe një hot...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T02:50:56+00:00",
-      "dateStr": "21 Aug, 02:50",
-      "isNew": true,
-      "id": "24 81787280656"
-    },
-    {
-      "title": "Atlanta Dream kryeson ndaj Los Angeles Sparks 9–2 në minutën 7:34 të çerekut të parë (20 gusht 2026)",
-      "link": "https://24-ore.com/atlanta-dream-kryeson-ndaj-los-angeles-sparks-9-2-ne-minuten-734-te-cerekut-te-pare-20-gusht-2026/",
-      "description": "Më 20 gusht 2026, në minutën 7:34 të çerekut të parë, Atlanta Dream po udhëhiqte ndaj Los Angeles Sparks me rezultatin 9–2. Para ndeshjes të dyja skuadrat...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T02:11:38+00:00",
-      "dateStr": "21 Aug, 02:11",
-      "isNew": true,
-      "id": "24 91787278298"
-    },
-    {
-      "title": "Ora e Fundit me Emilian Islami, (20/08/2026)",
-      "link": "https://abcnews.al/ora-e-fundit-me-emilian-islami-20-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T21:59:07+00:00",
-      "dateStr": "20 Aug, 21:59",
-      "isNew": true,
-      "id": "abc31787263147"
-    },
-    {
-      "title": "“Prokuroria Speciale në Hagë, antishqiptare”/ Petraj: Kurti e do Thaçin dhe komandantët e UÇK në burg",
-      "link": "https://abcnews.al/prokuroria-speciale-ne-hage-antishqiptare-petraj-kurti-e-do-thacin-dhe-komandantet-e-uck-ne-burg/",
-      "description": "Avokati Edmond Petraj thotë se Prokuroria Speciale në Hagë është antishqiptare. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Petraj u shpreh se akuzat ndaj komandantëve të UÇK janë fabrikuar nga Serbia. Petraj shtoi se kryeministri në detyrë i Kosovës, Albin Kuri e do ish presidenti",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T21:31:10+00:00",
-      "dateStr": "20 Aug, 21:31",
-      "isNew": true,
-      "id": "abc41787261470"
+      "id": "she31787285486"
     },
     {
       "title": "Conference League/ Dinamo dhe Pafos ndahen në paqe në Elbasan, kualifikimi mbetet i hapur",
@@ -188,18 +276,7 @@
       "date": "2026-08-20T21:06:36+00:00",
       "dateStr": "20 Aug, 21:06",
       "isNew": true,
-      "id": "she11787259996"
-    },
-    {
-      "title": "Paralajmërimi i ambasadës së SHBA: Kush kërcenon SHBA dhe amerikanët, i hiqen vizat",
-      "link": "https://abcnews.al/paralajmerimi-i-ambasades-se-shba-kush-kercenon-shba-dhe-amerikanet-i-hiqen-vizat/",
-      "description": "Ambasada e SHBA-së në Tiranë ka përsëritur paralajmërimin për anulimin e vizave për shtetasit e huaj që kryejnë vepra penale, nxisin dhunë ndaj qytetarëve amerikanë ose përbëjnë kërcënim për sigurinë kombëtare të Shteteve të Bashkuara. Paralajmërimi është dhënë në emër të Departamentit të Shtetit, n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T21:03:51+00:00",
-      "dateStr": "20 Aug, 21:03",
-      "isNew": true,
-      "id": "abc51787259831"
+      "id": "she41787259996"
     },
     {
       "title": "Tërmeti 6.7 ballë trondit Perunë, lëkundjet ndihen edhe në Lima",
@@ -210,7 +287,7 @@
       "date": "2026-08-20T20:57:56+00:00",
       "dateStr": "20 Aug, 20:57",
       "isNew": true,
-      "id": "she21787259476"
+      "id": "she51787259476"
     },
     {
       "title": "“Kush hyn, nuk del gjallë”, Mark Zuckerberg sfidon legjendën! Blen kështjellën 35 milionë dollarëshe në Irlandë",
@@ -221,7 +298,7 @@
       "date": "2026-08-20T20:48:16+00:00",
       "dateStr": "20 Aug, 20:48",
       "isNew": true,
-      "id": "she31787258896"
+      "id": "she61787258896"
     },
     {
       "title": "“Më tradhtuan”/ U infiltrua në Al-Kaeda si informator i CIA-s, por tani shqiptari arrestohet nga ICE dhe rrezikon dëbimin nga SHBA",
@@ -232,18 +309,7 @@
       "date": "2026-08-20T20:30:34+00:00",
       "dateStr": "20 Aug, 20:30",
       "isNew": true,
-      "id": "she41787257834"
-    },
-    {
-      "title": "Rama e vizitoi në Hagë/ Thaçi: Njeri me vlera të larta morale dhe shqiptar i fortë",
-      "link": "https://abcnews.al/rama-e-vizitoi-ne-hage-thaci-njeri-me-vlera-te-larta-morale-dhe-shqiptar-i-forte/",
-      "description": "Ish presidenti i Kosovës, Hashim Thaçi ka folur për vizitën e kryeministrit shqiptar Edi Rama në Hagë, duke e cilësuar atë si një figurë me vlera të larta morale dhe një shqiptar të fortë. Në një intervistë për Debat Plus në RTV Dukagjini, Thaçi ka vlerësuar mbështetjen dhe mesazhin e përcjellë nga ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T20:27:35+00:00",
-      "dateStr": "20 Aug, 20:27",
-      "isNew": true,
-      "id": "abc61787257655"
+      "id": "she71787257834"
     },
     {
       "title": "Tragjedia në Manëz, familja e Sarës pret kthimin e trupit në Itali: Jemi të shkatërruar",
@@ -254,29 +320,7 @@
       "date": "2026-08-20T20:24:15+00:00",
       "dateStr": "20 Aug, 20:24",
       "isNew": true,
-      "id": "she51787257455"
-    },
-    {
-      "title": "Gjermania raporton rekord prej 14 mijë vdekjesh të lidhura me nxehtësinë",
-      "link": "https://abcnews.al/gjermania-raporton-rekord-prej-14-mije-vdekjesh-te-lidhura-me-nxehtesine/",
-      "description": "Gjermania regjistroi një rekord prej rreth 14,000 vdekjesh të lidhura me nxehtësinë këtë verë, ndërsa Evropa luftoi përmes një serie valësh të nxehta ndëshkuese, treguan të dhënat zyrtare të enjten. Rreth 9,600 prej këtyre vdekjeve u regjistruan brenda një jave në fund të qershorit, kur Gjermania u ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T20:18:49+00:00",
-      "dateStr": "20 Aug, 20:18",
-      "isNew": true,
-      "id": "abc71787257129"
-    },
-    {
-      "title": "Edicioni Qendror me Juli Krisafi, (20/08/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-20-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T20:04:07+00:00",
-      "dateStr": "20 Aug, 20:04",
-      "isNew": true,
-      "id": "abc81787256247"
+      "id": "she81787257455"
     },
     {
       "title": "VIDEO/ Pak metra larg Komisariatit numër 2, i riu humbet toruan në mes të ditës, thyen me grushta xhamin e urbanit të Unazës në Tiranë",
@@ -287,51 +331,7 @@
       "date": "2026-08-20T20:00:36+00:00",
       "dateStr": "20 Aug, 20:00",
       "isNew": true,
-      "id": "she61787256036"
-    },
-    {
-      "title": "Hashim Thaçi: Pres lirimin nga çdo akuzë. Prokuroria po lartëson dëshmitë e fabrikuara nga epoka e regjimit të Millosheviçit",
-      "link": "https://abcnews.al/hashim-thaci-pres-lirimin-nga-cdo-akuze-prokuroria-po-larteson-deshmite-e-fabrikuara-nga-epoka-e-regjimit-te-milloshevicit/",
-      "description": "Ish presidenti i Kosovës, Hashim Thaçi ka deklaruar se pret të lirohet nga të gjitha akuzat në procesin gjyqësor në Hagë. Thaçi shprehet se nuk ka më çfarë t’u shtojë argumenteve të ekipit të mbrojtjes dhe fjalës së tij përfundimtare në sallën e gjyqit. Ai ka kritikuar Prokurorinë, duke pretenduar s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T19:40:20+00:00",
-      "dateStr": "20 Aug, 19:40",
-      "isNew": true,
-      "id": "abc91787254820"
-    },
-    {
-      "title": "Shtrenjtohen sërish hidrokarburet, nafta arrin 219 lekë dhe benzina mbi 200 lekë për litër",
-      "link": "https://shekulli.com.al/2026/08/20/shtrenjtohen-serish-hidrokarburet-nafta-arrin-219-leke-dhe-benzina-mbi-200-leke-per-liter/",
-      "description": "Çmimet e hidrokarbureve janë shtrenjtuar sërish në pikat e pakicës në Tiranë. Prej pasdites të ditës së djeshme çmimi i naftës ka arritur 219 lekë për litër nga 215 lekë që ishte më parë. Nafta është rritur me 4 lekë për litër. Shtrenjtim të ndjeshëm ka pasur edhe për çmimin e benzinës. Nga 198 lekë",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T19:30:14+00:00",
-      "dateStr": "20 Aug, 19:30",
-      "isNew": true,
-      "id": "she71787254214"
-    },
-    {
-      "title": "Dhunohet me sende të forta 50-vjeçari në Vlorë, përfundon në gjendje të rëndë në spital, arrestohet një person",
-      "link": "https://shekulli.com.al/2026/08/20/dhunohet-me-sende-te-forta-50-vjecari-ne-vlore-perfundon-ne-gjendje-te-rende-ne-spital-arrestohet-nje-person/",
-      "description": "VLORË &#8211; Një 50-vjeçar është dhunuar me sende të forta në zonën e Çentralës, pranë një karburanti, duke mbetur i plagosur rëndë. Sipas të dhënave paraprake, shtetasi M.K., 50 vjeç, është goditur në kokë nga 34-vjeçari I. Halili dhe dy persona të tjerë, të cilët ende nuk janë identifikuar nga po",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T19:18:42+00:00",
-      "dateStr": "20 Aug, 19:18",
-      "isNew": true,
-      "id": "she81787253522"
-    },
-    {
-      "title": "Europa League/ Egnatia dhe Lillestrom ndahen në paqe, gjithçka vendoset në Norvegji",
-      "link": "https://shekulli.com.al/2026/08/20/europa-league-egnatia-dhe-lillestrom-ndahen-ne-paqe-gjithcka-vendoset-ne-norvegji/",
-      "description": "RROGOZHINË &#8211; Egnatia dhe Lillestrom nuk kanë mundur të prodhojnë fitues në sfidën e parë të playoff-it të Europa League. Në “Egnatia Arena”, 90 minutat u mbyllën me rezultatin 0-0, duke lënë gjithçka të hapur për ndeshjen e kthimit në Norvegji. Sfida nisi me një gol të norvegjezëve. Në minutën",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-20T19:12:27+00:00",
-      "dateStr": "20 Aug, 19:12",
-      "isNew": true,
-      "id": "she91787253147"
+      "id": "she91787256036"
     }
   ]
 }
