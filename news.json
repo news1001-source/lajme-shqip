@@ -1,73 +1,205 @@
 {
-  "lastUpdated": "2026-08-21T19:21:52.856768+00:00",
+  "lastUpdated": "2026-08-21T20:19:39.948823+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Evakuohen disa familje nga zjarret në Mirditë, flakët rrezikuan 3 fshatra",
-      "link": "https://24-ore.com/evakuohen-disa-familje-nga-zjarret-ne-mirdite-flaket-rrezikuan-3-fshatra/",
-      "description": "Mirdita u përball këtë të premte me një situatë të vështirë nga zjarret, të cilat u shfaqën rreth mesditës dhe u përhapën me shpejtësi në një perimetër të gjerë. Flakët rrezikuan fshatrat Tenë, Kodër Rrëshen dhe Malaj, duke detyruar autoritetet të evakuojnë disa familje nga zonat e rrezikuara. Për s",
-      "source": "24 ORE",
+      "title": "Dëshmia e turkut që largoi me makinë Sokrat Vatën pas krimit te hotel “Principotes”: U fut në bagazh, tha do fle gjumë. S’dija gjë për vrasjen",
+      "link": "https://shekulli.com.al/2026/08/21/deshmia-e-turkut-qe-largoi-me-makine-sokrat-vaten-pas-krimit-te-hotel-principotes-u-fut-ne-bagazh-tha-do-fle-gjume-sdija-gje-per-vrasjen/",
+      "description": "“Eja më merr se kam bërë aksident me motor”. Kjo është telefonata që, sipas dëshmisë në Gjykatën e Sarandës, Nuh Mahmutoglu ka marrë nga Sokrat Vata pas ngjarjes së rëndë në Ksamil. Shtetasi turk pretendon se nuk kishte dijeni për vrasjen dhe se e mori Vatën me makinë duke besuar se kishte pësuar nj",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-21T19:18:15+00:00",
-      "dateStr": "21 Aug, 19:18",
+      "date": "2026-08-21T20:18:42+00:00",
+      "dateStr": "21 Aug, 20:18",
       "isNew": true,
-      "id": "24 01787339895"
+      "id": "she01787343522"
     },
     {
-      "title": "I dyshuari për shpërthimin në Nord Stream arrestohet në sheshxhirimin e një filmi me Sean Penn në Kroaci",
-      "link": "https://24-ore.com/i-dyshuari-per-shperthimin-ne-nord-stream-arrestohet-ne-sheshxhirimin-e-nje-filmi-me-sean-penn-ne-kroaci/",
-      "description": "Një shtetas ukrainas i dyshuar për përfshirje në sabotimin e gazsjellësit Nord Stream në vitin 2022 është arrestuar në Kroaci, ndërsa raportohet se në atë moment po punonte për një film hollivudian mbi luftën në Ukrainë, ku luajnë Sean Penn dhe Adrien Brody. Policia në Pula të Kroacisë arrestoi të m",
+      "title": "La vajzën 11-vjeçare vetëm për dy ditë për të ndjekur ndeshjen në Elbasan, babai nën hetim në Qipro",
+      "link": "https://24-ore.com/la-vajzen-11-vjecare-vetem-per-dy-dite-per-te-ndjekur-ndeshjen-ne-elbasan-babai-nen-hetim-ne-qipro/",
+      "description": "Një 11-vjeçare dyshohet se është lënë vetëm në shtëpi për dy ditë nga babai i saj, i cili kishte udhëtuar në Shqipëri për të ndjekur një ndeshje futbolli në Elbasan. Policia në Qipro ka nisur hetimet ndaj tij për neglizhencë dhe abuzim ndaj fëmijës. Policia në Qipro po heton një rast të dyshuar të n",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-21T19:17:48+00:00",
-      "dateStr": "21 Aug, 19:17",
+      "date": "2026-08-21T20:16:50+00:00",
+      "dateStr": "21 Aug, 20:16",
       "isNew": true,
-      "id": "24 11787339868"
+      "id": "24 01787343410"
     },
     {
-      "title": "Seanca maratonë zgjati 9 orë/ Gjykata e Sarandës shpall masën, lihet në burg vrasësi i turistit në Ksamil dhe 4 të tjerë",
+      "title": "Dita e 83-të / Protestuesi paralajmëron përshkallëzim në shtator: Do të bllokojmë rrugët!",
+      "link": "https://24-ore.com/dita-e-83-te-protestuesi-paralajmeron-pershkallezim-ne-shtator-do-te-bllokojme-rruget/",
+      "description": "Një protestues nga sheshi “Skënderbej” ka paralajmëruar përshkallëzim të protestave kundër qeverisë së kryeministrit Edi Rama gjatë muajit shtator. Ai tha se protestat, të cilat sipas tij vijojnë prej 83 ditësh, do të shoqërohen edhe me bllokime rrugësh. Gjatë protestës së zhvilluar sot në sheshin “",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T20:16:28+00:00",
+      "dateStr": "21 Aug, 20:16",
+      "isNew": true,
+      "id": "24 11787343388"
+    },
+    {
+      "title": "Zyrtare/ Një tjetër anglez për Interin, prezantohet mesfushori",
+      "link": "https://24-ore.com/zyrtare-nje-tjeter-anglez-per-interin-prezantohet-mesfushori/",
+      "description": "Curtis Jones është zyrtarisht lojtari më i ri i Interit, duke u transferuar te klubi zikaltër pas tetë sezonesh me Liverpoolin. Mesfushori anglez iu bashkua akademisë së Liverpoolit në moshën 6-vjeçare dhe refuzoi mundësinë për t’u afruar me Manchester United dhe Manchester City. Ai debutoi me ekipi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T20:01:45+00:00",
+      "dateStr": "21 Aug, 20:01",
+      "isNew": true,
+      "id": "24 21787342505"
+    },
+    {
+      "title": "Me gishtat e fashuar, publikohet fotoja e Sokrat Vatës gjatë seancës për vrasjen e turistit portugez",
+      "link": "https://shekulli.com.al/2026/08/21/me-gishtat-e-fashuar-publikohet-fotoja-e-sokrat-vates-gjate-seances-per-vrasjen-e-turistit-portugez/",
+      "description": "Publikohet fotoja e 29-vjeçarit Sokrat Vata gjatë seancës gjyqësore, i dyshuar si autori kryesor i vrasjes së turistit portugez 21-vjeçar, Luis Miguel Varela Mendes, pas një përplasjeje në lokalin “Principote” në Ksamil. Në pamjet e publikuara, Vata shfaqet i ulur në ambientet e gjykatës. Ai është i",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-21T20:01:27+00:00",
+      "dateStr": "21 Aug, 20:01",
+      "isNew": true,
+      "id": "she11787342487"
+    },
+    {
+      "title": "DËSHMITË/ Vata pranon vrasjen e portugezit, turku: Sokrati më tha se ishte rrëzuar nga motori…",
+      "link": "https://24-ore.com/deshmite-vata-pranon-vrasjen-e-portugezit-turku-sokrati-me-tha-se-ishte-rrezuar-nga-motori/",
+      "description": "Zbardhet dëshmia e Sokrat Vatës, të dyshuarit për vrasjen e 21-vjeçarit portugez në Ksamil, para trupit gjykues të Gjykatës së Sarandës. Vata ka pranuar autorësinë e krimit, por ka sqaruar rrethanat e ngjarjes, duke pretenduar se nuk e ka kuptuar momentin kur ka goditur me thikë turistin, për shkak ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T20:01:02+00:00",
+      "dateStr": "21 Aug, 20:01",
+      "isNew": true,
+      "id": "24 31787342462"
+    },
+    {
+      "title": "AMSTERDAM – Rritet presioni mbi Italinë: Holanda rikthen transferimet e migrantëve",
+      "link": "https://24-ore.com/amsterdam-rritet-presioni-mbi-italine-holanda-rikthen-transferimet-e-migranteve/",
+      "description": "AMSTERDAM, 21 gusht /ATSH – ANSA/ – Pas Gjermanisë, Zvicrës, Austrisë, Suedisë dhe Finlandës, edhe Holanda ka njoftuar se do të rifillojë transferimin drejt Romës të migrantëve që kanë mbërritur në Evropë përmes Italisë. Kjo qasje shkon paralelisht me një tjetër prirje gjithnjë e më të qartë: zhvend",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T20:00:12+00:00",
+      "dateStr": "21 Aug, 20:00",
+      "isNew": true,
+      "id": "24 41787342412"
+    },
+    {
+      "title": "SHBA vendos sanksione të reja ndaj Kubës",
+      "link": "https://abcnews.al/shba-vendos-sanksione-te-reja-ndaj-kubes/",
+      "description": "Shtetet e Bashkuara kanë vendosur një tjetër paketë sanksionesh ndaj zyrtarëve dhe kompanive kubaneze, sipas një njoftimi të Sekretarit amerikan të Shtetit, Marco Rubio. Në paketën e fundit të sanksioneve ekonomike janë përfshirë nëntë kompani shtetërore të sektorëve të minierave, metalurgjisë dhe n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T19:58:23+00:00",
+      "dateStr": "21 Aug, 19:58",
+      "isNew": true,
+      "id": "abc01787342303"
+    },
+    {
+      "title": "Sokrat Vata dëshmon para gjykatës dhe pranon krimin: Nuk e di si e godita, u kërkoj ndjesë familjarëve të turistit",
+      "link": "https://24-ore.com/sokrat-vata-deshmon-para-gjykates-dhe-pranon-krimin-nuk-e-di-si-e-godita-u-kerkoj-ndjese-familjareve-te-turistit/",
+      "description": "Gazetari i Euronews, Eni Ferati, ka zbardhur dëshminë e Sokrat Vatës, të dyshuarit për vrasjen e 21-vjeçarit portugez në Ksamil, para trupit gjykues të Gjykatës së Sarandës. Vata ka pranuar autorësinë e krimit, por ka sqaruar rrethanat e ngjarjes, duke pretenduar se nuk e ka kuptuar momentin kur ka ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T19:57:33+00:00",
+      "dateStr": "21 Aug, 19:57",
+      "isNew": true,
+      "id": "24 51787342253"
+    },
+    {
+      "title": "Protesta e 83-të, Tepelena thirrje 15 kryebashkiakëve: Bashkohuni në revoltën kundër qeverisë",
+      "link": "https://24-ore.com/protesta-e-83-te-tepelena-thirrje-15-kryebashkiakeve-bashkohuni-ne-revolten-kunder-qeverise/",
+      "description": "Këtë të premte u mbajt protesta e 83-të në Tiranë, e organizuar nga aktivistë dhe qytetarë. Protestuesit u mblodhën fillimisht në sheshin “Skënderbej”, prej nga nisën marshimin në drejtim të Bulevardit “Dëshmorët e Kombit” ndërsa më pas u mblodhën përpara godinës së Kryeministrisë, ku vijuan me thir",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T19:57:13+00:00",
+      "dateStr": "21 Aug, 19:57",
+      "isNew": true,
+      "id": "24 61787342233"
+    },
+    {
+      "title": "Ahmeti hap “Dosjen” e viteve ’80: Si organizoheshin shqiptarët nën syrin e UDB-së",
+      "link": "https://24-ore.com/ahmeti-hap-dosjen-e-viteve-80-si-organizoheshin-shqiptaret-nen-syrin-e-udb-se/",
+      "description": "Ish aktivisti i ilegales Ali Ahmeti ka rrëfyer për fillimet e angazhimit të tij politik, organizimin e studentëve shqiptarë dhe veprimtarinë e grupeve të fshehta kundër regjimit jugosllav. Në një intervistë për ciklin “Dosjet” të emisionit Debat Plus me Ermal Pandurin, Ahmeti ka thënë se kontaktet e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T19:52:08+00:00",
+      "dateStr": "21 Aug, 19:52",
+      "isNew": true,
+      "id": "24 71787341928"
+    },
+    {
+      "title": "Dave Bautista pritet të luajë Kratos në serialin ‘God of War’ pas dëmtimit të Ryan Hurst",
+      "link": "https://24-ore.com/dave-bautista-pritet-te-luaje-kratos-ne-serialin-god-of-war-pas-demtimit-te-ryan-hurst/",
+      "description": "Aktori dhe ish-yll i WWE, Dave Bautista, pritet të marrë rolin e Kratosit në serialin televiziv \"God of War\" të Amazon Prime, një projekt i bazuar në serin...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T19:50:58+00:00",
+      "dateStr": "21 Aug, 19:50",
+      "isNew": true,
+      "id": "24 81787341858"
+    },
+    {
+      "title": "Komisionerja e WNBA-së Cathy Engelbert: Po përpiqen të krijojnë ndasi në debatin për sportistet transgjinore",
+      "link": "https://24-ore.com/komisionerja-e-wnba-se-cathy-engelbert-po-perpiqen-te-krijojne-ndasi-ne-debatin-per-sportistet-transgjinore/",
+      "description": "Komisionerja e WNBA-së, Cathy Engelbert, kritikoi publikisht përpjekjet për të krijuar ndasi ndërsa liga përballet me një debat rreth pjesëmarrjes së sport...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T19:46:25+00:00",
+      "dateStr": "21 Aug, 19:46",
+      "isNew": true,
+      "id": "24 91787341585"
+    },
+    {
+      "title": "Tetë vatra zjarri mbeten aktive në vend, nuk ka rrezik për banesat",
+      "link": "https://abcnews.al/tete-vatra-zjarri-mbeten-aktive-ne-vend-nuk-ka-rrezik-per-banesat/",
+      "description": "Ministria e Mbrojtjes informon se deri në orën 21:00 janë regjistruar 26 vatra zjarri, nga të cilat 8 mbeten aktive, 4 nën mbikëqyrje dhe 1 nën kontroll. Për përballimin e situatës vijon angazhimi i koordinuar i strukturave vendore dhe qendrore, të mbështetura nga 270 efektivë të Forcave të Armatosu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T19:37:45+00:00",
+      "dateStr": "21 Aug, 19:37",
+      "isNew": true,
+      "id": "abc11787341065"
+    },
+    {
+      "title": "U la në burg, zbardhet dëshmia e Sokrat Vatës për vrasjen e turistit në Ksamil: Jam penduar, nuk e kujtoj si e godita",
+      "link": "https://shekulli.com.al/2026/08/21/gjykata-e-la-ne-burg-deshmia-e-sokrat-vates-per-vrasjen-e-turistit-ne-ksamil-jam-penduar-nuk-e-kujtoj-si-e-godita/",
+      "description": "Zbardhen dëshmitë e Sokrat Vatës dhe shtetasit turk Nuh Mahmutoglu, të dyshuar për vrasjen e turistit portugez në Ksamil. Në seancën gjyqësore, Vata ka shprehur pendesë për ngjarjen dhe ka pretenduar se goditja ndaj viktimës ka ndodhur gjatë përleshjes dhe në kushtet e një gjendjeje shoku. Gjykata e",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-21T19:36:45+00:00",
+      "dateStr": "21 Aug, 19:36",
+      "isNew": true,
+      "id": "she21787341005"
+    },
+    {
+      "title": "Vrau 20-vjeçarin portugez, lihet në burg Sokrat Vata",
+      "link": "https://abcnews.al/vrau-20-vjecarin-portugez-lihet-ne-burg-sokrat-vata/",
+      "description": "Gjykata ka caktuar masat e sigurisë për personat e arrestuar pas ngjarjes së rëndë të ndodhur në Ksamil ku u vra 20-vjeçari portugez. Për Sokrat Vatën është caktuar masa e sigurisë “arrest në burg”. Edhe për shtetasit Ezgi Parlak dhe Nuh Mahmutoglu është vendosur masa “arrest në burg”. Ndërkohë, për",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T19:28:16+00:00",
+      "dateStr": "21 Aug, 19:28",
+      "isNew": true,
+      "id": "abc21787340496"
+    },
+    {
+      "title": "Seanca maratonë zgjati 9 orë/ Gjykata e Sarandës shpall masën, lihet në burg vrasësi i turistit portugez në Ksamil dhe 4 të tjerë",
       "link": "https://shekulli.com.al/2026/08/21/seanca-maratone-gjykata-e-sarandes-shpall-masen-lihet-ne-burg-vrasesi-i-turistit-ne-ksamil/",
-      "description": "Pas një seance maratonë prej nëntë orësh në Gjykatën e Sarandës, Sokrat Vata dhe 4 të tjerë mbeten në burg. Sipas hetimeve, konflikti nisi në ambientet e lokalit “Principote” dhe më pas vijoi në plazhin e lokalit “Paradise”. 20-vjeçari portugez Luis Miguel Varela Mendes, dyshohet se u godit fillimis",
+      "description": "Pas një seance maratonë prej nëntë orësh në Gjykatën e Sarandës, Sokrat Vata dhe 4 të tjerë mbeten në burg si të dyshuar për vrasjen e turistit 21 vjeçar Luis Miguel Varela Mendes disa ditë më parë në lokalin “Principote” në Ksamil. Në lidhje me personat e tjerë të arrestuar pas ngjarjes së rëndë në",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-08-21T19:17:31+00:00",
       "dateStr": "21 Aug, 19:17",
       "isNew": true,
-      "id": "she01787339851"
+      "id": "she31787339851"
     },
     {
-      "title": "La vajzën 11-vjeçare vetëm për dy ditë për të parë ndeshjen në Elbasan, nën hetim babai",
-      "link": "https://24-ore.com/la-vajzen-11-vjecare-vetem-per-dy-dite-per-te-pare-ndeshjen-ne-elbasan-nen-hetim-babai/",
-      "description": "Policia në Qipro po heton një rast të rëndë të neglizhencës ndaj fëmijëve, pasi një vajzë 11-vjeçare dyshohet se ishte lënë vetëm në shtëpi për dy ditë. Policia u njoftua mbrëmjen e së enjtes dhe efektivët shkuan në banesën e familjes, ku gjetën 11-vjeçaren pa praninë e ndonjë të rrituri. Kur polici",
-      "source": "24 ORE",
+      "title": "Edicioni Qendror me Juli Krisafi, (21/08/2026)",
+      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-21-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-21T19:17:21+00:00",
-      "dateStr": "21 Aug, 19:17",
+      "date": "2026-08-21T19:04:20+00:00",
+      "dateStr": "21 Aug, 19:04",
       "isNew": true,
-      "id": "24 21787339841"
-    },
-    {
-      "title": "Jones është i Inter-it, mesfushori firmos kontratën deri në 2031",
-      "link": "https://24-ore.com/jones-eshte-i-inter-it-mesfushori-firmos-kontraten-deri-ne-2031/",
-      "description": "Curtis Jones është një lojtar i Inter-it. Mesfushori anglez ka firmosur një kontratë, e cila do ta mbajë në Milano deri në 30 qershor të 2031-it.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T19:12:38+00:00",
-      "dateStr": "21 Aug, 19:12",
-      "isNew": true,
-      "id": "24 31787339558"
-    },
-    {
-      "title": "Zjarret në Shqipëri po i ndezin ‘armiqtë e huaj’? Flet ministri i Mbrojtjes",
-      "link": "https://24-ore.com/zjarret-ne-shqiperi-po-i-ndezin-armiqte-e-huaj-flet-ministri-i-mbrojtjes/",
-      "description": "Ministri i Mbrojtjes Ermal Nufi, në një intervistë për Klan News me moderatorin Besard Jacaj, komentoi situatën e zjarreve në vendin tonë. I pyetur nëse ka ndonjë informacion që zjarret të jenë ndezur nga “armiq të huaj”, Nufi tha se ky është një detaj, që i takon Ministrisë së Brendshme. Ministri n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T19:02:25+00:00",
-      "dateStr": "21 Aug, 19:02",
-      "isNew": true,
-      "id": "24 41787338945"
+      "id": "abc31787339060"
     },
     {
       "title": "Territorialja/ Poliçani i thotë ‘’jo’’ bashkimit me Beratin, Cërriku pret dëgjesat me komunitetin: Do të ketë shpopullim",
@@ -78,51 +210,7 @@
       "date": "2026-08-21T18:52:28+00:00",
       "dateStr": "21 Aug, 18:52",
       "isNew": true,
-      "id": "she11787338348"
-    },
-    {
-      "title": "Misajllovski: Nga 1 janari paga më të larta për ushtarët dhe zgjidhje të përhershme për statusin e ushtarëve profesionistë",
-      "link": "https://24-ore.com/misajllovski-nga-1-janari-paga-me-te-larta-per-ushtaret-dhe-zgjidhje-te-perhershme-per-statusin-e-ushtareve-profesioniste/",
-      "description": "Armata e Maqedonisë po kalon një periudhë intensive modernizimi, e cila përfshin furnizimin me pajisje moderne ushtarake, reforma sistemike dhe një Marrëveshje të re kolektive, kushte të përmirësuara pune dhe një standard më të lartë për të gjithë pjesëtarët e saj. Këtë e theksoi ministri i Mbrojtje",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T18:52:13+00:00",
-      "dateStr": "21 Aug, 18:52",
-      "isNew": true,
-      "id": "24 51787338333"
-    },
-    {
-      "title": "Një vështrim përmes sondazheve për zgjedhjet amerikane të nëntorit",
-      "link": "https://24-ore.com/nje-veshtrim-permes-sondazheve-per-zgjedhjet-amerikane-te-nentorit/",
-      "description": "Zgjedhjet amerikane të 3 nëntorit 2026, ato që quhen zgjedhjet e mesmandatit, do të përcaktojnë kontrollin e të dyja dhomave të Kongresit amerikan. Në Dhomën e Përfaqësuesve republikanët kanë një shumicë shumë të ngushtë që sondazhet e japin siguri se do të kalojë në anën e demokratëve, ndërsa në Se",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T18:47:23+00:00",
-      "dateStr": "21 Aug, 18:47",
-      "isNew": true,
-      "id": "24 61787338043"
-    },
-    {
-      "title": "KLIMË – Belgjika regjistron verën më të nxehtë që nga viti 1833",
-      "link": "https://24-ore.com/klime-belgjika-regjistron-veren-me-te-nxehte-qe-nga-viti-1833/",
-      "description": "BRUKSEL, 21 gusht /ATSH -AA/ – Belgjika mund të regjistrojë verën më të nxehtë që nga fillimi i regjistrimeve meteorologjike në vitin 1833, ndërsa temperatura mesatare sezonale pritet të arrijë rreth 20,2-20,3 gradë Celsius. Meteorologu David Dehenauw nga Instituti Mbretëror Meteorologjik i Belgjikë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T18:46:09+00:00",
-      "dateStr": "21 Aug, 18:46",
-      "isNew": true,
-      "id": "24 71787337969"
-    },
-    {
-      "title": "Kurti-Abdixhiku pa takim të ri, analistët: Po kalkulohet procesi zgjedhor",
-      "link": "https://24-ore.com/kurti-abdixhiku-pa-takim-te-ri-analistet-po-kalkulohet-procesi-zgjedhor/",
-      "description": "Kryetarët e Lëvizjes Vetëvendosje e Lidhjes Demokratike të Kosovës nuk janë takuar më nga e mërkura për të diskutuar rreth emrit të presidentit konsensual. Analistë politik vlerësojnë që me këtë qasje po konsumohet kohë për t’iu afruar afateve zgjedhore. Për emra të përveçëm për president e formim t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T18:42:09+00:00",
-      "dateStr": "21 Aug, 18:42",
-      "isNew": true,
-      "id": "24 81787337729"
+      "id": "she41787338348"
     },
     {
       "title": "Operacion antidrogë në Korçë, arrestohet një person. Sekuestrohen kokainë, para dhe municione",
@@ -133,18 +221,7 @@
       "date": "2026-08-21T18:41:40+00:00",
       "dateStr": "21 Aug, 18:41",
       "isNew": true,
-      "id": "she21787337700"
-    },
-    {
-      "title": "Merr fund makthi për Medon Berishën, mesfushori merr “OK”-in e kirurgut për të rinisur stërvitjen",
-      "link": "https://24-ore.com/merr-fund-makthi-per-medon-berishen-mesfushori-merr-ok-in-e-kirurgut-per-te-rinisur-stervitjen/",
-      "description": "Muajt e fundit nuk kanë qënë aspak të lehta për Medon Berishën. Mesfushori vuante një nga këputje e tendinave të kofshës së djathtë dhe për të rikuperuar në siç duhet u desh ndërhyrja e një kirurgu si Lempainen. Sot Leçe bëri me dije se Berisha kompletoi me sukses testet fizike të kryera në Turku të",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T18:37:10+00:00",
-      "dateStr": "21 Aug, 18:37",
-      "isNew": true,
-      "id": "24 91787337430"
+      "id": "she51787337700"
     },
     {
       "title": "Operacion antidrogë në Korçë/ Kontrolle në disa banesa, arrestohet një person",
@@ -155,7 +232,7 @@
       "date": "2026-08-21T18:36:48+00:00",
       "dateStr": "21 Aug, 18:36",
       "isNew": true,
-      "id": "abc01787337408"
+      "id": "abc41787337408"
     },
     {
       "title": "Mbi 100 forca tokësore dhe dy avionë luftojnë me flakët në Dukat, zjarri vendoset nën kontroll",
@@ -166,7 +243,7 @@
       "date": "2026-08-21T18:28:16+00:00",
       "dateStr": "21 Aug, 18:28",
       "isNew": true,
-      "id": "she31787336896"
+      "id": "she61787336896"
     },
     {
       "title": "FIFA “masakron” Argjentinën/ Vendimet për dhunë në finalen e Botërorit, e pëson “i forti” Paredes",
@@ -177,7 +254,7 @@
       "date": "2026-08-21T18:15:38+00:00",
       "dateStr": "21 Aug, 18:15",
       "isNew": true,
-      "id": "abc11787336138"
+      "id": "abc51787336138"
     },
     {
       "title": "Vendimi i gjykatës britanike ‘bllokon’ deportimet e shqiptarëve të trafikuar",
@@ -188,7 +265,7 @@
       "date": "2026-08-21T18:15:06+00:00",
       "dateStr": "21 Aug, 18:15",
       "isNew": true,
-      "id": "she41787336106"
+      "id": "she71787336106"
     },
     {
       "title": "Turqia kërkon arrestimin e Netanyahut, kryeministri izraelit: Erdogani diktator antisemit, përpjekje patetike që nuk na frikëson",
@@ -199,7 +276,7 @@
       "date": "2026-08-21T17:51:13+00:00",
       "dateStr": "21 Aug, 17:51",
       "isNew": true,
-      "id": "she51787334673"
+      "id": "she81787334673"
     },
     {
       "title": "Tirana Live me Emilian Islami, (21/08/2026)",
@@ -210,7 +287,7 @@
       "date": "2026-08-21T17:48:03+00:00",
       "dateStr": "21 Aug, 17:48",
       "isNew": true,
-      "id": "abc21787334483"
+      "id": "abc61787334483"
     },
     {
       "title": "“Zjarret po përhapen jashtë logjikës njerëzore’’. Nufi: Situata më problematike në Dukat dhe Gojan",
@@ -221,18 +298,7 @@
       "date": "2026-08-21T17:41:55+00:00",
       "dateStr": "21 Aug, 17:41",
       "isNew": true,
-      "id": "she61787334115"
-    },
-    {
-      "title": "Gjyshja më e vjetër në Shqipëri mbush 117 vjeç, familja kërkon pension special",
-      "link": "https://shekulli.com.al/2026/08/21/gjyshja-me-e-vjeter-ne-shqiperi-mbush-117-vjec-familja-kerkon-pension-special/",
-      "description": "Qamile Marra, e konsideruar gruaja më e vjetër në Shqipëri, ka festuar 117-vjetorin e lindjes në familjen e saj në fshatin Ferras të Beratit. E rrethuar nga familjarët, ajo vijon të jetojë me një vitalitet të rrallë, ndërsa të afërmit i drejtojnë një apel shtetit për sigurimin e një pensioni special",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-21T17:33:36+00:00",
-      "dateStr": "21 Aug, 17:33",
-      "isNew": true,
-      "id": "she71787333616"
+      "id": "she91787334115"
     },
     {
       "title": "“Shqipëria, thesari i fshehur i Ballkanit”/ Forbes: Ofron histori, natyrë dhe mikpritje per turistët",
@@ -243,18 +309,7 @@
       "date": "2026-08-21T17:30:00+00:00",
       "dateStr": "21 Aug, 17:30",
       "isNew": true,
-      "id": "abc31787333400"
-    },
-    {
-      "title": "Zjarret në vend/ 24 vatra gjatë ditës, 8 ende aktive. Në Gojan digjen katër banesa, nis evakuimi",
-      "link": "https://shekulli.com.al/2026/08/21/zjarret-ne-vend-24-vatra-gjate-dites-8-ende-aktive-ne-gojan-digjen-kater-banesa/",
-      "description": "24 vatra zjarri janë regjistruar gjatë ditës së sotme në të gjithë territorin e Shqipërisë, ndërsa 8 prej tyre vijojnë të jenë aktive. Sipas Ministrisë së Mbrojtjes, 4 vatra janë nën mbikëqyrje dhe një tjetër nën kontroll. Për përballimin e situatës janë angazhuar të paktën 639 forca në nivel kombët",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-21T17:20:06+00:00",
-      "dateStr": "21 Aug, 17:20",
-      "isNew": true,
-      "id": "she81787332806"
+      "id": "abc71787333400"
     },
     {
       "title": "NewsHour me Rovena Neziri, (21/08/2026)",
@@ -265,7 +320,7 @@
       "date": "2026-08-21T17:16:38+00:00",
       "dateStr": "21 Aug, 17:16",
       "isNew": true,
-      "id": "abc41787332598"
+      "id": "abc81787332598"
     },
     {
       "title": "Aksident në autostradën Lushnje-Fier/ Makina përplaset me furgonin, disa të plagosur",
@@ -276,62 +331,7 @@
       "date": "2026-08-21T17:03:20+00:00",
       "dateStr": "21 Aug, 17:03",
       "isNew": true,
-      "id": "abc51787331800"
-    },
-    {
-      "title": "“Hashim Thaçi, burrë shteti i Kosovës/ Martin Leka: 16 shtatori në Hagë do bashkojë të gjithë shqiptarët",
-      "link": "https://abcnews.al/hashim-thaci-burre-shteti-i-kosoves-martin-leka-16-shtatori-ne-hage-do-bashkoje-te-gjithe-shqiptaret/",
-      "description": "Analisti Martin Leka thotë se Hashim Thaçi është burrë shteti i Kosovës. Në një intervistë për &#8220;Tirana Live&#8221; në ABC News, Leka u shpreh se 16 shtatori në Hagë, dita kur do jepet vendimi për Thaçin dhe komandantët e tjerë të UÇK, do bëjë bashkë të gjithë shqiptarët. &#8220;Hashim Thaçi ka",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T16:39:20+00:00",
-      "dateStr": "21 Aug, 16:39",
-      "isNew": true,
-      "id": "abc61787330360"
-    },
-    {
-      "title": "Mickoski në Pustec, pa himnin shqiptar/ Leka: Provokim nga qarqe naconaliste, por nuk ka ndikim",
-      "link": "https://abcnews.al/mickoski-ne-pustec-pa-himnin-shqiptar-leka-provokim-nga-qarqe-naconaliste-por-nuk-ka-ndikim/",
-      "description": "Në Pustec, protokolli shtetëror i Shqipërisë shkelet me të dyja këmbët. Në një aktivitet festiv folklorik të minoritetit maqedonas, me praninë e vetë kryeministrit të Maqedonisë së Veriut, Hristjan Mickoski, u këndua vetëm himni maqedonas, ndërsa himni shqiptar nuk u këndua, ndonëse Pusteci ndodhet ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T16:36:20+00:00",
-      "dateStr": "21 Aug, 16:36",
-      "isNew": true,
-      "id": "abc71787330180"
-    },
-    {
-      "title": "Zjarret, ministri Nufi nga Mirdita: Situata e vështirë, por flakët nën kontroll. Është evituar rreziku për banesat",
-      "link": "https://abcnews.al/zjarret-ministri-nufi-nga-mirdita-situata-e-veshtire-por-flaket-nen-kontroll-eshte-evituar-rreziku-per-banesat/",
-      "description": "Zjarret vijojnë të mbajnë nën alarm Mirditën, ku situata mbetet e vështirë për shkak të terrenit dhe vatrave të zjarrit. Ministri i Mbrojtjes, Ermal Nufi deklaroi nga zona se flakët janë nën kontroll dhe se është evituar rreziku për banesat, ndërsa në terren janë angazhuar strukturat vendore dhe eme",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T16:29:39+00:00",
-      "dateStr": "21 Aug, 16:29",
-      "isNew": true,
-      "id": "abc81787329779"
-    },
-    {
-      "title": "Zjarret/ Kryebashkiaku i Mirditës: Kemi evakuuar banorë.  Dom Gjergj Meta: Shqetësues fakti që flakët shkaktohen nga dora e njeriut",
-      "link": "https://abcnews.al/zjarret-kryebashkiaku-i-mirdites-kemi-evakuuar-banore-dom-gjergj-meta-shqetesues-fakti-qe-flaket-shkaktohen-nga-dora-e-njeriut/",
-      "description": "Zjarret vijojnë të jenë problematike në Mirditë, ku situata paraqitet e vështirë për shkak të terrenit dhe përhapjes së flakëve. Kryebashkiaku i Mirditës, Albert Melyshi, bëri me dije se është dashur edhe evakuimi i banorëve, ndërsa ndërhyrja e zjarrfikësve dhe e helikopterëve ka bërë të mundur shma",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T16:16:25+00:00",
-      "dateStr": "21 Aug, 16:16",
-      "isNew": true,
-      "id": "abc91787328985"
-    },
-    {
-      "title": "Principote Mykonos distancohet nga lokali në Ksamil: Nuk kemi asnjë lidhje, kanë përdorur ilegalisht emrin tonë",
-      "link": "https://shekulli.com.al/2026/08/21/principote-mykonos-distancohet-nga-lokali-ne-ksamil-nuk-kemi-asnje-lidhje-kane-perdorur-ilegalisht-emrin-tone/",
-      "description": "Pas vrasjes së 20-vjeçarit portugez Luis Miguel Varela Mendes në një beach-bar në Ksamil, ka reaguar edhe “Principote Mykonos”, biznesi i njohur në ishullin grek. Në një deklaratë publike, Principote Mykonos sqaron se nuk ka asnjë marrëdhënie biznesi apo bashkëpunimi me lokalin në Ksamil, pavarësish",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-21T16:08:26+00:00",
-      "dateStr": "21 Aug, 16:08",
-      "isNew": true,
-      "id": "she91787328506"
+      "id": "abc91787331800"
     }
   ]
 }
