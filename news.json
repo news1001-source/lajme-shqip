@@ -1,21 +1,241 @@
 {
-  "lastUpdated": "2026-08-21T10:24:05.726133+00:00",
+  "lastUpdated": "2026-08-21T11:20:37.134395+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Skandali me himnin në Pustec, Rama për zyrtarët e Maqedonisë së Veriut: Ardhja e cirkut të nacional-folklorizmit ballkanik…",
-      "link": "https://shekulli.com.al/2026/08/21/skandali-me-himnin-ne-pustec-rama-per-zyrtaret-e-maqedonise-se-veriut-ardhja-e-cirkut-te-nacional-folklorizmit-ballkanik/",
+      "title": "“Sokrat, jemi këtu o shpirt”, familjarët në mbështetje të Vatës dhe 10 të arrestuarve të tjerë, mblidhen para Gjykatës së Sarandës",
+      "link": "https://shekulli.com.al/2026/08/21/sokrat-jemi-ketu-o-shpirt-familjaret-ne-mbeshtetje-te-vates-dhe-10-te-arrestuarve-te-tjere-mblidhen-para-gjykates-se-sarandes/",
+      "description": "SARANDË- Është duke u mbajtur në Gjykatën e Sarandës, seanca për masën e sigurisë, ndaj 11 personave të arrestuar për vrasjen e turistit në Principotes, Ksamil. Në momentin e mbërritjes në Gjykatë, të 11 të arrestuarit janë shoqëruar me masa të shumta sigurie, ndërsa në ambientet e jashtme kanë qenë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-21T11:20:13+00:00",
+      "dateStr": "21 Aug, 11:20",
+      "isNew": true,
+      "id": "she01787311213"
+    },
+    {
+      "title": "Akullnajat në Alpe mund të zhduken brenda disa dekadash",
+      "link": "https://24-ore.com/akullnajat-ne-alpe-mund-te-zhduken-brenda-disa-dekadash/",
+      "description": "Akullnajat në Alpe po shkrihen me një ritëm të përshpejtuar dhe mund të zhduken plotësisht brenda disa dekadash, sipas hulumtimit më të fundit nga organizata italiane mjedisore Legambiente. Që nga viti 2000, sipërfaqja e akullnajës është zvogëluar me 39 përqind, gjë që thuhet se ka kontribuar në ngr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T11:20:08+00:00",
+      "dateStr": "21 Aug, 11:20",
+      "isNew": true,
+      "id": "24 01787311208"
+    },
+    {
+      "title": "Kina: Sanksionet dhe presioni i SHBA-së nuk janë zgjidhja e luftës me Iranin",
+      "link": "https://24-ore.com/kina-sanksionet-dhe-presioni-i-shba-se-nuk-jane-zgjidhja-e-luftes-me-iranin/",
+      "description": "Kina ka njoftuar se “sanksionet dhe presioni” i Shteteve të Bashkuara nuk janë një zgjidhje për luftën me Iranin, pasi administrata amerikane kërkon të rrisë presionin ekonomik mbi Teheranin. “Sanksionet dhe presioni nuk do të lejojnë që problemi të zgjidhet”, tha zëdhënësi i Ministrisë së Jashtme k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T11:19:41+00:00",
+      "dateStr": "21 Aug, 11:19",
+      "isNew": true,
+      "id": "24 11787311181"
+    },
+    {
+      "title": "Armë për agjentët e Putinit? Zbulohet një depo e fshehtë armësh në një pyll pranë Berlinit",
+      "link": "https://24-ore.com/arme-per-agjentet-e-putinit-zbulohet-nje-depo-e-fshehte-armesh-ne-nje-pyll-prane-berlinit/",
+      "description": "Në një pyll pranë Berlinit, autoritetet kanë zbuluar një depo që përmbante materiale shumë sensitive. Sipas informacioneve të siguruara nga WDR, NDR dhe Süddeutsche Zeitung (SZ), në depon e ngritur në mënyrë profesionale ishin ruajtur dy armë zjarri funksionale. Kush i vendosi aty? Agjencia gjermane",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T11:19:18+00:00",
+      "dateStr": "21 Aug, 11:19",
+      "isNew": true,
+      "id": "24 21787311158"
+    },
+    {
+      "title": "Vrau 5 persona dhe plagosi 10 të tjerë në vitin 2009, ekzekutohet 58-vjeçari në Japoni",
+      "link": "https://24-ore.com/vrau-5-persona-dhe-plagosi-10-te-tjere-ne-vitin-2009-ekzekutohet-58-vjecari-ne-japoni/",
+      "description": "Japonia ekzekutoi të premten një burrë, pasi ai u shpall fajtor për vrasjen e pesë personave. Ky është ekzekutimi i parë i këtij lloji që nga zgjedhja e Sanae Takaichi si kryeministre, tetorin e kaluar. Gjykata kishte konfirmuar dënimin me vdekje të 58-vjeçarit Sunao Takami në vitin 2016 dhe ai u ek",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T11:18:58+00:00",
+      "dateStr": "21 Aug, 11:18",
+      "isNew": true,
+      "id": "24 31787311138"
+    },
+    {
+      "title": "Tragjedi në Alaskë! Rrëzohet një avion civil pranë një stacioni radarësh, humbin jetën të 8 persona",
+      "link": "https://24-ore.com/tragjedi-ne-alaske-rrezohet-nje-avion-civil-prane-nje-stacioni-radaresh-humbin-jeten-te-8-persona/",
+      "description": "Një tragjedi ndodhi në Alaskën perëndimore, kur një avion civil me qira u rrëzua pranë një stacioni të izoluar radarësh, duke shkaktuar vdekjen e të tetë personave që ndodheshin në bord. Aksidenti ndodhi në aeroportin e stacionit të radarit me rreze të gjatë Cape Newenham, rreth 725 kilometra në per",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T11:18:42+00:00",
+      "dateStr": "21 Aug, 11:18",
+      "isNew": true,
+      "id": "24 41787311122"
+    },
+    {
+      "title": "“Sokrat, jemi këtu o shpirt, o vlla!”- Vrasja e turistit portugez në Ksamil, dalin para Gjykatës 11 të arrestuarit, fami",
+      "link": "https://24-ore.com/sokrat-jemi-ketu-o-shpirt-o-vlla-vrasja-e-turistit-portugez-ne-ksamil-dalin-para-gjykates-11-te-arrestuarit-fami/",
+      "description": "Po mbahet sot (21 gusht) në Gjykatën e Sarandës masa e sigurisë për autorin e krimit të vrasjes së turistit portugez pas sherrit në lokalin “Princepotes” në Ksamil, Sokrat vata dhe 12 të tjerëve, nga të cilët dy në mungesë. Teksa vijon në Gjykatë seanca për caktimin e masave të sigurisë për 11 perso",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T11:18:34+00:00",
+      "dateStr": "21 Aug, 11:18",
+      "isNew": true,
+      "id": "24 51787311114"
+    },
+    {
+      "title": "Pjesë e organizatës së Jetmir Papës, Greqia sjell nën pranga të kërkuarin Florian Vuka! Grupi akuzohet se trafikoi mbi 7",
+      "link": "https://24-ore.com/pjese-e-organizates-se-jetmir-papes-greqia-sjell-nen-pranga-te-kerkuarin-florian-vuka-grupi-akuzohet-se-trafikoi-mbi-7/",
+      "description": "Ekstradohet nga Greqia drejt Shqipërisë Florjan Vuka, i njohur edhe me mbiemrin Vathaj, i shpallur në kërkim nga Prokuroria e Posaçme si pjesë e grupit kriminal të Jetmir Papës, për trafik ndërkombëtar droge. Vuka pritet të dalë përpara GJKKO për vlerësimin e kushteve të masës së sigurisë. Alma Kodr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T11:17:59+00:00",
+      "dateStr": "21 Aug, 11:17",
+      "isNew": true,
+      "id": "24 61787311079"
+    },
+    {
+      "title": "Debati evropian për pirjen e duhanit: Pse rritja e çmimeve nuk është një politikë e mjaftueshme?",
+      "link": "https://24-ore.com/debati-evropian-per-pirjen-e-duhanit-pse-rritja-e-cmimeve-nuk-eshte-nje-politike-e-mjaftueshme/",
+      "description": "Statistikat evropiane të ndara së fundmi nga Eurostat janë të rëndësishme sepse tregojnë drejtimin në të cilin po lëviz përdorimi i duhanit dhe produkteve të ngjashme në kontinentin e vjetër. Mirëpo, vetë shifra nuk tregon pse një shtet ka rezultat më të mirë e një tjetër më të dobët. Për këtë nevoj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T11:13:31+00:00",
+      "dateStr": "21 Aug, 11:13",
+      "isNew": true,
+      "id": "24 71787310811"
+    },
+    {
+      "title": "ASH: Çdo euro e paguar pa nevojë për roaming është çmimi i vonesës së kësaj Qeverie",
+      "link": "https://24-ore.com/ash-cdo-euro-e-paguar-pa-nevoje-per-roaming-eshte-cmimi-i-voneses-se-kesaj-qeverie/",
+      "description": "Derisa vendet e rajonit po afrohen me sistemin evropian të roamingut, qytetarët e Maqedonisë së Veriut vazhdojnë të paguajnë një faturë që mund dhe duhet të ishte shmangur.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T11:08:57+00:00",
+      "dateStr": "21 Aug, 11:08",
+      "isNew": true,
+      "id": "24 81787310537"
+    },
+    {
+      "title": "OBRM-PDUKM: Rasti për tragjedinë në spitalin modular në Tetovë nuk duhet të mbetet në sirtar",
+      "link": "https://24-ore.com/obrm-pdukm-rasti-per-tragjedine-ne-spitalin-modular-ne-tetove-nuk-duhet-te-mbetet-ne-sirtar/",
+      "description": "Nga partia maqedonase në pushtet OBRM-PDUKM, thonë se &#8220;pesë vite pas formimit të lëndës, Prokuroria Publike për ndjekjen e krimit të organizuar dhe korrupsionit, e udhëhequr nga Islam Abazi, argat i Zoran Zaevit, Venko Filipçes dhe Ali Ahmetit, solli vendim ta mbyllë lëndën për 19 spitalet mod",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T11:03:29+00:00",
+      "dateStr": "21 Aug, 11:03",
+      "isNew": true,
+      "id": "24 91787310209"
+    },
+    {
+      "title": "Nis serie A, Inter mbetet favorit/ Kampionët në fuqi të Italisë janë skuadra për t’u mundur",
+      "link": "https://abcnews.al/nis-serie-a-inter-mbetet-favorit-kampionet-ne-fuqi-te-italise-jane-skuadra-per-tu-mundur/",
+      "description": "Me Inter si skuadra për t’u mundur, Seria A ngre këtë të shtunë siparin e sezonit 2026/2027. Kampionët në fuqi të Italisë shihen edhe në këtë edicion si pretendentët kryesorë për të fituar titullin kampion. Skuadra e drejtuar nga Cristian Chivu ka qenë shumë active në tregun e trensferimeve, megjith",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T10:54:11+00:00",
+      "dateStr": "21 Aug, 10:54",
+      "isNew": true,
+      "id": "abc01787309651"
+    },
+    {
+      "title": "Kategoria superiore kthehet në fushë/ Pushimet përfundojnë, nis sezonin 2026/2027 i kampionatit shqiptar",
+      "link": "https://abcnews.al/kategoria-superiore-kthehet-ne-fushe-pushimet-perfundojne-nis-sezonin-2026-2027-i-kampionatit-shqiptar/",
+      "description": "Pushimet kanë përfunduar. Kategoria Superiore kthehet në fushën e lojës për edicionin e ri me shumë pikëpyetje sa i përket skuadrave favorite për titullin kampion. Aventura që vazhdon e Egnatias dhe Dinamo City në Kupat e Europës mund të jetë një pikënisje për parashikimet, pasi të dyja skuadrat jan",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T10:52:46+00:00",
+      "dateStr": "21 Aug, 10:52",
+      "isNew": true,
+      "id": "abc11787309566"
+    },
+    {
+      "title": "Egnatia “përplaset” në traversë/ Vetëm barazim pa gola ndaj Lillestrom në sfidën e parë të play off",
+      "link": "https://abcnews.al/egnatia-perplaset-ne-traverse-vetem-barazim-pa-gola-ndaj-lillestrom-ne-sfiden-e-pare-te-play-off/",
+      "description": "Egnatia nuk shkoi më shumë se barazimi pa gola në sfidën e parë në play off e Europa League. Kampionët e Shqipërisë u ndanë pa gola kundër Lillestrom, duke mbajtur gjallë ëndrrën e madhe për një kualifikim historik në fazën e grupeve të turneut të dytë për nga rëndësia në futbollin për klube në kont",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T10:50:34+00:00",
+      "dateStr": "21 Aug, 10:50",
+      "isNew": true,
+      "id": "abc21787309434"
+    },
+    {
+      "title": "Tenis, kthehet Carlos Alcaraz/ Spanjolli konfirmon pjesmarrjen në turneun “US Open”",
+      "link": "https://abcnews.al/tenis-kthehet-carlos-alcaraz-spanjolli-konfirmon-pjesmarrjen-ne-turneun-us-open/",
+      "description": "Carlos Alcaraz më në fund po rikthehet në fushë! Vetë kampioni spanjoll konfirmoi pjesëmarrjen e tij në US Open përmes një mesazhi në profilet e tij në rrjetet sociale: &#8220;Ja ku jemi, jam rikthyer.&#8221; Ky lajm pritej me padurim pas pauzës së shkaktuar nga një problem fizik që e detyroi Carlos",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T10:48:01+00:00",
+      "dateStr": "21 Aug, 10:48",
+      "isNew": true,
+      "id": "abc31787309281"
+    },
+    {
+      "title": "E papritur! Zelensky bllokon serialin vizatimor “Masha dhe Ariu”: Kërcënim për sigurinë e Ukrainës",
+      "link": "https://shekulli.com.al/2026/08/21/e-papritur-zelensky-bllokon-serialin-vizatimor-masha-dhe-ariu-kercenim-per-sigurine-e-ukraines/",
+      "description": "Presidenti ukrainas Vlodymyr Zelenskyy ka nënshkruar një dekret të pazakontë, që vendos sanksione ndaj autorëve të serialit vizatimor “Madha dhe Ariu”. Sipas dekretit, thuhet se seriali promovon narrativë pro-ruse të maskuar si përmbajtje për fëmijë. Madje, thuhet se ky serial përbën kërcënim për si",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-21T10:45:55+00:00",
+      "dateStr": "21 Aug, 10:45",
+      "isNew": true,
+      "id": "she11787309155"
+    },
+    {
+      "title": "PAMJET- Vrasja e turistit portugez në Ksamil, Sokrat Vata dhe 10 të tjerët dalin përpara Gjykatës së Sarandës",
+      "link": "https://shekulli.com.al/2026/08/21/pamjet-vrasja-e-turistit-portugez-ne-ksamil-sokrat-vata-dhe-10-te-tjeret-dalin-perpara-gjykates-se-sarandes/",
+      "description": "Ka nisur rreth orës 11:30, në Gjykatën e Sarandës, seanca për caktimin e masës së sigurisë ndaj 11 personave të arrestuar si të përfshirë në vrasjen e 20-vjeçarit portugez, Luis Miguel Varela Mendes, ngjarje e ndodhur në orët e para të mëngjesit të së hënës në Ksamil. Të arrestuarit, nën masa të rre",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-21T10:29:31+00:00",
+      "dateStr": "21 Aug, 10:29",
+      "isNew": true,
+      "id": "she21787308171"
+    },
+    {
+      "title": "Shkoi me dhimbje barku tek QSUT-ja, 17-vjeçarja përfundon me çarje në zorrë pas ndërhyrjes! Niset për kurim në Turqi",
+      "link": "https://shekulli.com.al/2026/08/21/shkoi-me-dhimbje-barku-tek-qsut-ja-17-vjecarja-perfundon-me-carje-ne-zorre-pas-nderhyrjes-niset-per-kurim-ne-turqi/",
+      "description": "Gazetari Osman Stafa ka bërë një&#160; denoncim të rëndë, në lidhje me rastin e trajtimit të një 17-vjeçareje në Qendrën Spitalore Universitare “Nënë Tereza”. Sipas gazetarit, adoleshentja është paraqitur më 27 korrik pranë QSUT-së, me dhimbje të forta barku, të vjella dhe probleme me funksionimin e",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-21T10:28:40+00:00",
+      "dateStr": "21 Aug, 10:28",
+      "isNew": true,
+      "id": "she31787308120"
+    },
+    {
+      "title": "Vrasja e turistit në Ksamil/ Në masa të rrepta sigurie, të arrestuarit mbërrijnë në gjykatën e Sarandës",
+      "link": "https://abcnews.al/vrasja-e-turistit-ne-ksamil-ne-masa-te-rrepta-sigurie-te-arrestuarit-mberrijne-ne-gjykaten-e-sarandes/",
+      "description": "Ka nisur rreth orës 11:30 në Gjykatën e Sarandës seanca për caktimin e masave të sigurisë ndaj 11 personave të arrestuar, të dyshuar si të përfshirë në vrasjen e 20-vjeçarit portugez, Luis Mendes. Të arrestuarit janë shoqëruar në Gjykatën e Sarandës nën masa të rrepta sigurie, nga forcat “Shqiponja”",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T10:27:45+00:00",
+      "dateStr": "21 Aug, 10:27",
+      "isNew": true,
+      "id": "abc41787308065"
+    },
+    {
+      "title": "Shqipëria Sot me Fabiola Hoxha, (21/08/2026)",
+      "link": "https://abcnews.al/shqiperia-sot-me-fabiola-hoxha-21-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T10:23:22+00:00",
+      "dateStr": "21 Aug, 10:23",
+      "isNew": true,
+      "id": "abc51787307802"
+    },
+    {
+      "title": "Skandali me himnin në Pustec, Rama: Një parodi! Ardhja e cirkut të nacional-folklorizmit ballkanik…",
+      "link": "https://shekulli.com.al/2026/08/21/skandali-me-himnin-ne-pustec-rama-nje-parodi-ardhja-e-cirkut-te-nacional-folklorizmit-ballkanik/",
       "description": "Kryeministri Edi Rama ka reaguar në lidhje me skandalin e ndodhur në Pustec, ku u injorua himni shqiptar gjatë një eventi ku merrte pjesë edhe lideri maqedonas Hristijan Mitcocski. Në një shkrim në rrjetin social “X”, Rama e cilëson ngjarjen si një “parodi”, teksa shprehet se kryebashkiaku i Pusteci",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-08-21T10:23:20+00:00",
       "dateStr": "21 Aug, 10:23",
       "isNew": true,
-      "id": "she01787307800"
+      "id": "she41787307800"
     },
     {
-      "title": "Dosja “Balluku”/ GJKKO zbut masën e sigurisë për Gentian Gjylin, del nga arresti i shtëpisë",
+      "title": "Dosja “Balluku”/ GJKKO zbut masën e sigurisë për Gentian Gjylin dhe Erald Elezin, dalin nga arresti i shtëpisë",
       "link": "https://shekulli.com.al/2026/08/21/dosja-balluku-gjkko-zbut-masen-e-sigurise-per-gentian-gjylin-del-nga-arresti-i-shtepise/",
       "description": "Gjykata e Posaçme ka zbutur sot masën e sigurisë për Gentian Gjylin, ish-kreun e Autoritetit Rrugor Shqiptar (ARRSH). Gjyli, i cili është nën hetim për procedurat e tenderimit për ndërtimin e tunelit të Llogarasë, do të vazhdojë të qëndrojë nën masën e detyrimit të paraqitjes, dhe jo arrest shtëpie ",
       "source": "Shekulli",
@@ -23,29 +243,29 @@
       "date": "2026-08-21T10:22:56+00:00",
       "dateStr": "21 Aug, 10:22",
       "isNew": true,
-      "id": "she11787307776"
+      "id": "she51787307776"
     },
     {
-      "title": "Dëshmojnë miqtë e turistit që u vra në Ksamil: Sokrat Vata po ngacmonte një vajzë! Luis Mendes ndërhyri, por…",
-      "link": "https://24-ore.com/deshmojne-miqte-e-turistit-qe-u-vra-ne-ksamil-sokrat-vata-po-ngacmonte-nje-vajze-luis-mendes-nderhyri-por/",
-      "description": "Miqtë e 20-vjeçarit portugez Luis Miguel Varela Mendes, i cili humbi jetën pasi u godit me thikë në orët e para të së martës në Ksamil, kanë dhënë dëshmi në polici lidhur me dinamikën e ngjarjes. Të rinjtë janë marrë në pyetje nga policia gjatë pasdites të së enjtes dhe kanë deklaruar se Mendes kish",
-      "source": "24 ORE",
+      "title": "Mickoski në Pustec, pa himnin shqiptar/ Reagon kryeministri Rama: Shqipëria nuk do ta zbresë monedhën e vlerave në nivelet e parodisë",
+      "link": "https://abcnews.al/mickoski-ne-pustec-pa-himnin-shqiptar-reagon-kryeministri-rama-shqiperia-nuk-do-ta-zbrese-monedhen-e-vlerave-ne-nivelet-e-parodise/",
+      "description": "Në Pustec, protokolli shtetëror i Shqipërisë shkelet me të dyja këmbët. Në një aktivitet festiv folklorik të minoritetit maqedonas, me praninë e vetë kryeministrit të Maqedonisë së Veriut, Hristjan Mickoski, u këndua vetëm himni maqedonas, ndërsa himni shqiptar nuk u këndua, ndonëse Pusteci ndodhet ",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-21T10:18:26+00:00",
+      "date": "2026-08-21T10:18:50+00:00",
       "dateStr": "21 Aug, 10:18",
       "isNew": true,
-      "id": "24 01787307506"
+      "id": "abc61787307530"
     },
     {
-      "title": "Ky lloj ushtrimi mund t’i ndihmojë gratë të jetojnë më gjatë",
-      "link": "https://24-ore.com/ky-lloj-ushtrimi-mund-ti-ndihmoje-grate-te-jetojne-me-gjate/",
-      "description": "Foto: my_personaltrainer/ Pinterest Ushtrimet e forcës janë bërë gjithnjë e më të njohura vitet e fundit dhe për një arsye të mirë. Përveç ndërtimit të muskujve, ato ndihmojnë në ruajtjen e shëndetit të kockave, lëvizshmërisë dhe pavarësisë fizike me kalimin e moshës. Tani, një studim i ri sugjeron ",
-      "source": "24 ORE",
+      "title": "Dosja ARRSH/ Lirohen nga arresti dy ish-zyrtarët, Gentian Gjyli dhe Erald Elezi",
+      "link": "https://abcnews.al/dosja-arrsh-lirohen-nga-arresti-dy-ish-zyrtaret-gentian-gjyli-dhe-erald-elezi/",
+      "description": "Gjykata e Posaçme Kundër Korrupsionit dhe Krimit të Organizuar (GJKKO) ka ndryshuar masën e sigurisë ndaj ish-kreut të ARRSH-së, Gentian Gjyli, duke e zëvendësuar “arrestin në shtëpi” me masën “detyrim për paraqitje” dhe “ndalim të daljes jashtë shtetit”. Vendimi u shpall këtë të premte nga gjyqtarj",
+      "source": "ABC News",
       "category": "politike",
       "date": "2026-08-21T10:16:24+00:00",
       "dateStr": "21 Aug, 10:16",
       "isNew": true,
-      "id": "24 11787307384"
+      "id": "abc71787307384"
     },
     {
       "title": "Breaking News me Fabiola Hoxha, (21/08/2026)",
@@ -56,18 +276,7 @@
       "date": "2026-08-21T10:14:15+00:00",
       "dateStr": "21 Aug, 10:14",
       "isNew": true,
-      "id": "abc01787307255"
-    },
-    {
-      "title": "Islami: Reagimi i Petkoviqit pjesë e luftës hibride për kontrollin e narrativës",
-      "link": "https://24-ore.com/islami-reagimi-i-petkoviqit-pjese-e-luftes-hibride-per-kontrollin-e-narratives/",
-      "description": "Analisti i sigurisë, Avni Islami ka reaguar lidhur me deklaratat e drejtorit të Zyrës për Kosovë dhe Metohi në Qeverinë e Serbisë, Petar Petkoviq, pas operacionit të institucioneve të Kosovës në veri të vendit, ku u zbulua dhe konfiskua një sasi e konsiderueshme armatimi. Përmes një postimi në rrjet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T10:12:09+00:00",
-      "dateStr": "21 Aug, 10:12",
-      "isNew": true,
-      "id": "24 21787307129"
+      "id": "abc81787307255"
     },
     {
       "title": "Stuhia godet Gjermaninë, raportohet për viktima dhe të plagosur",
@@ -78,62 +287,7 @@
       "date": "2026-08-21T10:12:06+00:00",
       "dateStr": "21 Aug, 10:12",
       "isNew": true,
-      "id": "abc11787307126"
-    },
-    {
-      "title": "Deputetët rikthehen në punë më 2 shtator",
-      "link": "https://24-ore.com/deputetet-rikthehen-ne-pune-me-2-shtator/",
-      "description": "Me mbajtjen e seancës së sotme të Punës të Këshillit të Ambasadorëve, ku do të drejtohet presidenti i Kuvendit, Afrim Gashi, deputetët rikthehen në aktivitetet parlamentare pas pushimit të gushtit. Seanca e parë e re plenare e Kuvendit është caktuar për 2 shtator. Në faqen zyrtare të Kuvendit janë p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T10:02:38+00:00",
-      "dateStr": "21 Aug, 10:02",
-      "isNew": true,
-      "id": "24 31787306558"
-    },
-    {
-      "title": "Rrëzohet avioni civil në Alaskë, humbin jetën 8 persona",
-      "link": "https://abcnews.al/rrezohet-avioni-civil-ne-alaske-humbin-jeten-8-persona/",
-      "description": "Një tragjedi ajrore ka tronditur Alaskën perëndimore, ku një avion civil i marrë me kontratë u rrëzua pranë një stacioni të largët radarësh, duke shkaktuar vdekjen e të tetë personave që ndodheshin në bord. Sipas ushtrisë amerikane, avioni ishte një mjet civil i kontraktuar dhe transportonte tetë pe",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T10:01:35+00:00",
-      "dateStr": "21 Aug, 10:01",
-      "isNew": true,
-      "id": "abc21787306495"
-    },
-    {
-      "title": "TOKIO – Japonia proteston ndaj Rusisë për testimin e raketave pranë ishujve të diskutueshëm",
-      "link": "https://24-ore.com/tokio-japonia-proteston-ndaj-rusise-per-testimin-e-raketave-prane-ishujve-te-diskutueshem/",
-      "description": "TOKIO, 21 gusht /ATSH-AFP/ – Japonia ka protestuar pranë Rusisë pasi u informua se Moska planifikonte të kryente testime raketash në ujërat pranë ishujve të diskutueshëm, të cilët këtë muaj u vizituan nga presidenti rus, Vladimir Putin. “Kemi paraqitur një protestë në përgjigje të njoftimit për plan",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T10:00:14+00:00",
-      "dateStr": "21 Aug, 10:00",
-      "isNew": true,
-      "id": "24 41787306414"
-    },
-    {
-      "title": "Abissnet Superiore: Duka: Sezon i ri, më shumë konkurrencë, talente dhe ambicie",
-      "link": "https://24-ore.com/abissnet-superiore-duka-sezon-i-ri-me-shume-konkurrence-talente-dhe-ambicie/",
-      "description": "Nis sot sezoni i ri i Abissnet Superiore, që transmetohet në RTSH. Edicioni i 88-të në historinë e elitës së futbollit shqiptar hapet me Vllaznia–Skënderbeu, që do të luhet në orën 21:00 në stadiumin “Loro Boriçi”. Çelet zyrtarisht një kampionat që vjen me ndryshime të rëndësishme, më shumë konkurre",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T09:57:29+00:00",
-      "dateStr": "21 Aug, 09:57",
-      "isNew": true,
-      "id": "24 51787306249"
-    },
-    {
-      "title": "Kroos voton Kvaratskhelian për “Topin e Artë”: E meriton më shumë nga të gjithë!",
-      "link": "https://24-ore.com/kroos-voton-kvaratskhelian-per-topin-e-arte-e-meriton-me-shume-nga-te-gjithe/",
-      "description": "Toni Kroos, ish-mesfushori i shquar i Gjermanisë dhe Real Madrid, e ka bërë zgjedhjen e tij sa i takon trofeut më prestigjioz individual, “Topit të Artë” 2026. Gjermani mendon se lojtari që e meriton më shumë se të gjithë këtë çmim është gjeorgjiani i PSG-së, Khvicha Kvaratskhelia. “Ndoshta nuk ësht",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T09:57:01+00:00",
-      "dateStr": "21 Aug, 09:57",
-      "isNew": true,
-      "id": "24 61787306221"
+      "id": "abc91787307126"
     },
     {
       "title": "Aksidenti i frikshëm i merr jetën 29-vjeçarit! Një pjesë e makinës mbetet e varur në pemë (Foto)",
@@ -144,51 +298,7 @@
       "date": "2026-08-21T09:52:51+00:00",
       "dateStr": "21 Aug, 09:52",
       "isNew": true,
-      "id": "she21787305971"
-    },
-    {
-      "title": "Nëse Thaçi shpallet i pafajshëm, a lirohet menjëherë?",
-      "link": "https://24-ore.com/nese-thaci-shpallet-i-pafajshem-a-lirohet-menjehere/",
-      "description": "Gjykata Speciale do ta shpallë më 16 shtator në Hagë aktgjykimin në rastin ndaj katër ish-krerëve të Ushtrisë Çlirimtare të Kosovës: Hashim Thaçit, Kadri Veselit, Jakup Krasniqit dhe Rexhep Selimit. Para kësaj gjykate, e cila zyrtarisht quhet Dhomat e Specializuara dhe Zyra e Prokurorit të Specializ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T09:51:56+00:00",
-      "dateStr": "21 Aug, 09:51",
-      "isNew": true,
-      "id": "24 71787305916"
-    },
-    {
-      "title": "Pse shqiptari i bindet vetëm arrogancës?",
-      "link": "https://24-ore.com/pse-shqiptari-i-bindet-vetem-arrogances/",
-      "description": "Nga Ardi Stefa Përse shqiptarët historikisht dëgjojnë më shumë atë që bërtet, kërcënon dhe poshtëron, sesa atë që shpjegon, bind dhe respekton? Pse, në vend që të kërkojmë një lider të fortë në karakter, kërkojmë një lider të fortë në dorë? Ndoshta, sepse për shkak të formimit tonë kulturor e politi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T09:47:31+00:00",
-      "dateStr": "21 Aug, 09:47",
-      "isNew": true,
-      "id": "24 81787305651"
-    },
-    {
-      "title": "Dinastia Marubi, historia që ruhet në Muzeun Kombëtar të Fotografisë",
-      "link": "https://24-ore.com/dinastia-marubi-historia-qe-ruhet-ne-muzeun-kombetar-te-fotografise/",
-      "description": "Muzeu Kombëtar i Fotografisë “Marubi” në Shkodër ofron një udhëtim të veçantë në historinë e fotografisë shqiptare, përmes tre brezave të dinastisë Marubi dhe një fototeke që ruan qindra mijëra dëshmi të së shkuarës së vendit. Vizitorët mund të ndjekin nga afër rrugëtimin e fotografisë, që nga studi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T09:46:37+00:00",
-      "dateStr": "21 Aug, 09:46",
-      "isNew": true,
-      "id": "24 91787305597"
-    },
-    {
-      "title": "VIDEO/ Moti i keq përfshin veriun e Italisë, reshje intensive e përmbytje në disa zona",
-      "link": "https://abcnews.al/video-moti-i-keq-perfshin-veriun-e-italise-reshje-intensive-e-permbytje-ne-disa-zona/",
-      "description": "Zonat veriore dhe qendrore të Italisë po përballen me probleme të shumta për shkak të motit të keq, me reshje intensive, përmbytje dhe rrezik për rrëshqitje dherash. Sipas shërbimit italian të zjarrfikësve, ekipet e emergjencës kanë kryer rreth 1,000 ndërhyrje në zona të ndryshme të vendit. Situata ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T09:40:35+00:00",
-      "dateStr": "21 Aug, 09:40",
-      "isNew": true,
-      "id": "abc31787305235"
+      "id": "she61787305971"
     },
     {
       "title": "Pse duhet të bëjmë një film ndërkombëtar për Skënderbeun",
@@ -199,7 +309,7 @@
       "date": "2026-08-21T09:40:12+00:00",
       "dateStr": "21 Aug, 09:40",
       "isNew": true,
-      "id": "she31787305212"
+      "id": "she71787305212"
     },
     {
       "title": "Julide Yazici me një ‘këmbë’ drejt ekstradimit në Turqi, Gjykata e Apelit e lë në burg, refuzon kërkesën e mbrojtjes",
@@ -210,18 +320,7 @@
       "date": "2026-08-21T09:35:05+00:00",
       "dateStr": "21 Aug, 09:35",
       "isNew": true,
-      "id": "she41787304905"
-    },
-    {
-      "title": "Zjarri në Milot drejt shuarjes, ndërhyrje nga ajri dhe toka",
-      "link": "https://abcnews.al/zjarri-ne-milot-drejt-shuarjes-nderhyrje-nga-ajri-dhe-toka/",
-      "description": "Operacioni për shuarjen e zjarrit në zonën e Milotit është drejt përfundimit, pas një ndërhyrjeje të gjerë nga ajri dhe toka. Në terren janë angazhuar pesë mjete zjarrfikëse, forca të ushtrisë dhe strukturat e emergjencave civile të Bashkisë Kurbin. Operacioni ka vijuar intensivisht, ndërsa ndërhyrj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T09:33:36+00:00",
-      "dateStr": "21 Aug, 09:33",
-      "isNew": true,
-      "id": "abc41787304816"
+      "id": "she81787304905"
     },
     {
       "title": "“I kemi premtuar që do vish pas 16 shtatorit”/ Endrit Thaçi publikon foton prekëse, nëna duke ndjekur lajmet mbi të birin e burgosur",
@@ -232,106 +331,7 @@
       "date": "2026-08-21T09:29:18+00:00",
       "dateStr": "21 Aug, 09:29",
       "isNew": true,
-      "id": "she51787304558"
-    },
-    {
-      "title": "Pjesë e grupit të Jetmir Pepës, ekstradohet nga Greqia Florjan Vuka, në kërkim për trafikun e kokainës",
-      "link": "https://shekulli.com.al/2026/08/21/pjese-e-grupit-te-jetmir-pepes-ekstradohet-nga-greqia-florjan-vuka-ne-kerkim-per-trafikun-e-kokaines/",
-      "description": "TIRANË&#8211; Është ekstraduar nga Greqia për në Shqipëri shtetasi, Florjan Vuka, i njohur gjithashtu me mbiemrin Vathaj. I riu u vu në pranga në Greqi, pasu ishte shpallur në kërkim nga Prokuroria e Posaçme (SPAK) si një nga personat e dyshuar për përfshirje në grupin kriminal të drejtuar nga Jetmi",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-21T09:16:23+00:00",
-      "dateStr": "21 Aug, 09:16",
-      "isNew": true,
-      "id": "she61787303783"
-    },
-    {
-      "title": "Qesja me para në dhomat e zhveshjes, reagon për herë të parë presidenti i Dinamos: Çunat e merituan!",
-      "link": "https://shekulli.com.al/2026/08/21/qesja-me-para-ne-dhomat-e-zhveshjes-reagon-per-here-te-pare-presidenti-i-dinamos-cunat-e-merituan/",
-      "description": "Presidenti i klubit të Dinamos, Adrian Bardhi ka reaguar për herë të parë në lidhje me videon virale ku ai shfaqej duke me një shumë të madhe parash në dhomat e zhveshjes së ekipit, pas kualifikimit për në fazën “play off” të Conference League. Bardhi e quan qesen me para një “pako” që sipas tij, [&",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-21T09:14:07+00:00",
-      "dateStr": "21 Aug, 09:14",
-      "isNew": true,
-      "id": "she71787303647"
-    },
-    {
-      "title": "Përfshihet nga flakët një ndërtesë banimi në Zvicër, 5 të zhdukur dhe 8 të lënduar",
-      "link": "https://abcnews.al/perfshihet-nga-flaket-nje-ndertese-banimi-ne-zvicer-5-te-zhdukur-dhe-8-te-lenduar/",
-      "description": "Një zjarr ka përfshirë gjatë natës një ndërtesë banimi në qytetin e vogël Tousis, në lindje të Zvicrës, duke shkaktuar tetë të plagosur dhe pesë persona rezultojnë ende të zhdukur. Policia lokale u njoftua për ngjarjen pak pas mesnatës, ndërsa flakët përfshinë një restorant dhe disa apartamente në n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T09:03:11+00:00",
-      "dateStr": "21 Aug, 09:03",
-      "isNew": true,
-      "id": "abc51787302991"
-    },
-    {
-      "title": "Humbën jetën në aksidentin në Durrës/ Pse Kleo Vrioni dhe Sara Brugnatelli nuk i treguan familjes së italianes për martesën?",
-      "link": "https://shekulli.com.al/2026/08/21/humben-jeten-ne-aksidentin-ne-durres-pse-kleo-vrioni-dhe-sara-brugnatelli-nuk-i-treguan-familjes-se-italianes-per-martesen/",
-      "description": "Mediat italiane vijojnë të zbulojnë detaje të reja mbi çiftin Kleo Vrioni dhe Sara Brugnatelli, të cilët humbën jetën tragjikisht në aksidentin në Manzë të Durrësit. Sipas “Corriere della Sera”, çifti që ishin martuar vetëm pak ditë para aksidentit, duket se nuk kishin njoftuar familjarët e të resë ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-21T09:02:29+00:00",
-      "dateStr": "21 Aug, 09:02",
-      "isNew": true,
-      "id": "she81787302949"
-    },
-    {
-      "title": "Serbia do të shkojë në zgjedhje të parakohshme në Tetor, Vuçiç synon karrigen e kryeministrit",
-      "link": "https://shekulli.com.al/2026/08/21/serbia-do-te-shkoje-ne-zgjedhje-te-parakohshme-ne-tetor-vucic-synon-karrigen-e-kryeministrit/",
-      "description": "Serbia do të shkojë në zgjedhje të parakohshme parlamentare në tetor, ndërsa presidenti Aleksandar Vuçiç ka bërë të ditur se votimet do të zhvillohen më 18 ose 25 tetor 2026. Data përfundimtare pritet të përcaktohet në ditët në vijim. Zgjedhjet e parakohshme vijnë pas një periudhe të gjatë tensioni ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-21T08:49:24+00:00",
-      "dateStr": "21 Aug, 08:49",
-      "isNew": true,
-      "id": "she91787302164"
-    },
-    {
-      "title": "21 Gusht 2026, “Shtypi i ditës” – Mirëmëngjes me Bashkim Hoxhën",
-      "link": "https://abcnews.al/21-gusht-2026-shtypi-i-dites-miremengjes-me-bashkim-hoxhen/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T08:44:18+00:00",
-      "dateStr": "21 Aug, 08:44",
-      "isNew": true,
-      "id": "abc61787301858"
-    },
-    {
-      "title": "Pjesë e grupit të Jetmir Papës/ Ekstradohet nga Greqia i kërkuari nga SPAK, Florjan Vuka",
-      "link": "https://abcnews.al/pjese-e-grupit-te-jetmir-papes-ekstradohet-nga-greqia-i-kerkuari-nga-spak-florjan-vuka/",
-      "description": "Ekstradohet nga Greqia drejt Shqipërisë Florjan Vuka i njohur edhe me mbiemrin Vathaj, i shpallur në kërkim nga Prokuroria e Posaccme si pjesë e grupit kriminal të Jetmir Papës, për trafik ndërkombëtar droge. Vuka pritet të dalë përpara Gjykatës së Posaccme për vlerësimin e kushteve të masës së sigu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T08:38:23+00:00",
-      "dateStr": "21 Aug, 08:38",
-      "isNew": true,
-      "id": "abc71787301503"
-    },
-    {
-      "title": "Operacioni “Fokusi” në Lushnjë/ Arrestohen babë e bir, sekuestrohen kallashnikov, kokainë dhe municion",
-      "link": "https://abcnews.al/operacioni-fokusi-ne-lushnje-arrestohen-babe-e-bir-sekuestrohen-kallashnikov-kokaine-dhe-municion/",
-      "description": "Policia e Lushnjës ka finalizuar operacionin e koduar “Fokusi”, në kuadër të kontrolleve për goditjen e veprimtarive kriminale në fushën e armëmbajtjes pa leje dhe narkotikëve. Në pranga kanë rënë dy persona, babë e bir, shtetasit Shkëlqim Hajdari 56 vjeç dhe Hasan Hajdari 24 vjeç, banues në fshatin",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T08:27:16+00:00",
-      "dateStr": "21 Aug, 08:27",
-      "isNew": true,
-      "id": "abc81787300836"
-    },
-    {
-      "title": "Mickoski në Pustec, pa himnin shqiptar/ Reagon Tirana zyrtare: Nuk respektoi simbolet kombëtare të Shqipërisë",
-      "link": "https://abcnews.al/mickoski-ne-pustec-pa-himnin-shqiptar-reagon-tirana-zyrtare-nuk-respektoi-simbolet-kombetare-te-shqiperise/",
-      "description": "Në Pustec, protokolli shtetëror i Shqipërisë shkelet me të dyja këmbët. Në një aktivitet festiv folklorik të minoritetit maqedonas, me praninë e vetë kryeministrit të Maqedonisë së Veriut, Hristjan Mickoski, u këndua vetëm himni maqedonas, ndërsa himni shqiptar nuk u këndua, ndonëse Pusteci ndodhet ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T08:14:54+00:00",
-      "dateStr": "21 Aug, 08:14",
-      "isNew": true,
-      "id": "abc91787300094"
+      "id": "she91787304558"
     }
   ]
 }
