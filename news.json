@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-08-21T05:27:07.807714+00:00",
+  "lastUpdated": "2026-08-21T06:37:11.262851+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Mot i kthjellët me temperatura deri në 37 gradë Celsius",
+      "link": "https://abcnews.al/mot-i-kthjellet-me-temperatura-deri-ne-37-grade-celsius/",
+      "description": "Vendi ynë ditën e premte pritet të ndikohet nga kushte atmosferike të qëndrueshme. Moti parashikohet i kthjellët, por nuk do të mungojnë alternime vranësirash të pakta deri mesatare dhe kalimtare. Era do të fryjë me drejtim kryesor veriperëndim-juglindje, me shpejtësi mesatare 6 m/s, shoqëruar me va",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T06:26:00+00:00",
+      "dateStr": "21 Aug, 06:26",
+      "isNew": true,
+      "id": "abc01787293560"
+    },
+    {
+      "title": "PDK edhe sot me aksion simbolik para Qeverisë, të pranishëm asamblistë nga Lipjani dhe deputetë të Aleancës",
+      "link": "https://24-ore.com/pdk-edhe-sot-me-aksion-simbolik-para-qeverise-te-pranishem-asambliste-nga-lipjani-dhe-deputete-te-aleances/",
+      "description": "Partia Demokratike e Kosovës edhe sot po mban një aksion simbolik para Qeverisë së Kosovës. PDK po kërkon nga kryeministri në detyrë, Albin Kurti që të konstituojë Kuvendin. Të pranishëm në aksionin e PDK-së janë edhe asamblistë nga Lipjani. Në aksionin e PDK-së janë po ashtu edhe deputetë nga Alean",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T06:11:32+00:00",
+      "dateStr": "21 Aug, 06:11",
+      "isNew": true,
+      "id": "24 01787292692"
+    },
+    {
+      "title": "Zjarri në Dukat vijon të jetë aktiv, dy avionë dhe 40 trupa në terren",
+      "link": "https://abcnews.al/zjarri-ne-dukat-vijon-te-jete-aktiv-dy-avione-dhe-40-trupa-ne-terren/",
+      "description": "Zjarri që ka nisur mbrëmjen e djeshme në zonën e Dukatit, në Vlorë, vijon të jetë aktiv, ndërsa strukturat e emergjencave janë angazhuar për izolimin dhe shuarjen e flakëve. Në ndihmë të forcave në terren janë nisur dy avionë dhe 40 trupa të Forcave të Armatosura. Në operacion janë angazhuar gjithas",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T06:10:52+00:00",
+      "dateStr": "21 Aug, 06:10",
+      "isNew": true,
+      "id": "abc11787292652"
+    },
+    {
+      "title": "Horoskopi, zbuloni parashikimin e yjeve për shenjën tuaj",
+      "link": "https://abcnews.al/horoskopi-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj-190/",
+      "description": "Dashi Ditë shumë e kontrastuar kjo e sotmja për ata që janë në një lidhje. Do keni mosmarrëveshje me partnerin dhe asgjë nuk do t’ju ecë mirë. Beqarët do realizojnë disa takime interesante, por nuk do jenë ende gati për të marrë vendime. Në planin financiar, çdo gjë do të varet nga mënyra sesi ju [.",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T06:00:47+00:00",
+      "dateStr": "21 Aug, 06:00",
+      "isNew": true,
+      "id": "abc21787292047"
+    },
+    {
+      "title": "‘Mitralozë, mjete shpërthyese e uniforma’ – çfarë u gjet pranë varrezave masive në Zubin Potok- të gjitha nga konferenca e Policisë",
+      "link": "https://24-ore.com/mitraloze-mjete-shperthyese-e-uniforma-cfare-u-gjet-prane-varrezave-masive-ne-zubin-potok-te-gjitha-nga-konferenca-e-policise/",
+      "description": "Policia e Kosovës prezantoi të enjten armatimin dhe dëshmi e tjera relevante të gjetura dhe të konfiskuara gjatë operacioneve policore të zhvilluara në disa lokacione në veri të Mitrovicës. Armatimi i konfiskuar është ekspozuar në Qendrën e Njësive Speciale “Enver Zymeri” në Mitrovicë. Lidhur me kët",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T05:52:22+00:00",
+      "dateStr": "21 Aug, 05:52",
+      "isNew": true,
+      "id": "24 11787291542"
+    },
     {
       "title": "Prezantohet ChatGPT për adoleshentët, çfarë ndryshon fëmijë",
       "link": "https://24-ore.com/prezantohet-chatgpt-per-adoleshentet-cfare-ndryshon-femije/",
@@ -12,7 +67,7 @@
       "date": "2026-08-21T05:16:51+00:00",
       "dateStr": "21 Aug, 05:16",
       "isNew": true,
-      "id": "24 01787289411"
+      "id": "24 21787289411"
     },
     {
       "title": "Temperatura të larta, shmangni qëndrimin e gjatë në diell gjatë orëve të mesditës",
@@ -23,7 +78,7 @@
       "date": "2026-08-21T05:06:32+00:00",
       "dateStr": "21 Aug, 05:06",
       "isNew": true,
-      "id": "24 11787288792"
+      "id": "24 31787288792"
     },
     {
       "title": "Nuk ndalen! Rojet e Ara Club në Shëngjin dhunojnë të riun, pak para performancës së Ledri Vulës dhe Era Istrefit (Video)",
@@ -45,7 +100,7 @@
       "date": "2026-08-21T03:47:54+00:00",
       "dateStr": "21 Aug, 03:47",
       "isNew": true,
-      "id": "24 21787284074"
+      "id": "24 41787284074"
     },
     {
       "title": "Vuçiç cakton datën e zgjedhjeve të parakohshme",
@@ -56,7 +111,7 @@
       "date": "2026-08-21T03:16:48+00:00",
       "dateStr": "21 Aug, 03:16",
       "isNew": true,
-      "id": "24 31787282208"
+      "id": "24 51787282208"
     },
     {
       "title": "Pat McAfee: Nuk do të rikthehem te WWE pas humbjes së Randy Orton në WrestleMania 42",
@@ -67,7 +122,7 @@
       "date": "2026-08-21T03:00:34+00:00",
       "dateStr": "21 Aug, 03:00",
       "isNew": true,
-      "id": "24 41787281234"
+      "id": "24 61787281234"
     },
     {
       "title": "Një marrëveshje pesëskuadre dërgon Peyton Watson te Cavaliers; detajet e shkëmbimit dhe ndikimi në ekip",
@@ -78,7 +133,7 @@
       "date": "2026-08-21T02:51:49+00:00",
       "dateStr": "21 Aug, 02:51",
       "isNew": true,
-      "id": "24 51787280709"
+      "id": "24 71787280709"
     },
     {
       "title": "Një rakun i rrëmben tifozit hot-dogun dhe lëkurat e kikirikut në Citi Field",
@@ -89,7 +144,7 @@
       "date": "2026-08-21T02:50:56+00:00",
       "dateStr": "21 Aug, 02:50",
       "isNew": true,
-      "id": "24 61787280656"
+      "id": "24 81787280656"
     },
     {
       "title": "Atlanta Dream kryeson ndaj Los Angeles Sparks 9–2 në minutën 7:34 të çerekut të parë (20 gusht 2026)",
@@ -100,29 +155,18 @@
       "date": "2026-08-21T02:11:38+00:00",
       "dateStr": "21 Aug, 02:11",
       "isNew": true,
-      "id": "24 71787278298"
+      "id": "24 91787278298"
     },
     {
-      "title": "Cleveland Cavaliers: Si ndryshojnë kapaciteti i pagave dhe përbërja pas kontratës 3-vjeçare 97 mln$ të James Harden",
-      "link": "https://24-ore.com/cleveland-cavaliers-si-ndryshojne-kapaciteti-i-pagave-dhe-perberja-pas-kontrates-3-vjecare-97-mln-te-james-harden/",
-      "description": "Cleveland Cavaliers kanë mbyllur një verë aktive që ndryshon dukshëm strukturën e skuadrës dhe të shpenzimeve për pagat. Klubi arriti marrëveshje për të sh...",
-      "source": "24 ORE",
+      "title": "Ora e Fundit me Emilian Islami, (20/08/2026)",
+      "link": "https://abcnews.al/ora-e-fundit-me-emilian-islami-20-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-21T02:10:44+00:00",
-      "dateStr": "21 Aug, 02:10",
+      "date": "2026-08-20T21:59:07+00:00",
+      "dateStr": "20 Aug, 21:59",
       "isNew": true,
-      "id": "24 81787278244"
-    },
-    {
-      "title": "Dillon Brooks thotë se e kishte “numrin” e Shai Gilgeous-Alexander dhe pret një rivalitet të ri",
-      "link": "https://24-ore.com/dillon-brooks-thote-se-e-kishte-numrin-e-shai-gilgeous-alexander-dhe-pret-nje-rivalitet-te-ri/",
-      "description": "Dillon Brooks, lojtari i Phoenix Suns, tha se eliminimi i ekipit të tij në raundin e parë nga Oklahoma City Thunder mund të ketë vënë bazat e një rivalitet...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T01:27:05+00:00",
-      "dateStr": "21 Aug, 01:27",
-      "isNew": true,
-      "id": "24 91787275625"
+      "id": "abc31787263147"
     },
     {
       "title": "“Prokuroria Speciale në Hagë, antishqiptare”/ Petraj: Kurti e do Thaçin dhe komandantët e UÇK në burg",
@@ -133,10 +177,10 @@
       "date": "2026-08-20T21:31:10+00:00",
       "dateStr": "20 Aug, 21:31",
       "isNew": true,
-      "id": "abc01787261470"
+      "id": "abc41787261470"
     },
     {
-      "title": "Conference League/ Dinamo dhe Pafos ndajnë pikët në Elbasan, kualifikimi mbetet i hapur",
+      "title": "Conference League/ Dinamo dhe Pafos ndahen në paqe në Elbasan, kualifikimi mbetet i hapur",
       "link": "https://shekulli.com.al/2026/08/20/conference-league-dinamo-dhe-pafos-ndajne-piket-ne-elbasan-kualifikimi-mbetet-i-hapur/",
       "description": "Dinamo nuk ka mundur të marrë fitoren në ndeshjen e parë të ‘play-off’-it të Conference League, teksa ‘Blutë’ barazuan 1-1 sot kundër qipriotëve të Pafos në “Elbasan Arena”. Sfida nisi e ekuilibruar, me të dyja skuadrat që patën momente të mira për të zhbllokuar rezultatin. Rasti më i rëndësishëm i ",
       "source": "Shekulli",
@@ -155,7 +199,7 @@
       "date": "2026-08-20T21:03:51+00:00",
       "dateStr": "20 Aug, 21:03",
       "isNew": true,
-      "id": "abc11787259831"
+      "id": "abc51787259831"
     },
     {
       "title": "Tërmeti 6.7 ballë trondit Perunë, lëkundjet ndihen edhe në Lima",
@@ -199,7 +243,7 @@
       "date": "2026-08-20T20:27:35+00:00",
       "dateStr": "20 Aug, 20:27",
       "isNew": true,
-      "id": "abc21787257655"
+      "id": "abc61787257655"
     },
     {
       "title": "Tragjedia në Manëz, familja e Sarës pret kthimin e trupit në Itali: Jemi të shkatërruar",
@@ -221,7 +265,7 @@
       "date": "2026-08-20T20:18:49+00:00",
       "dateStr": "20 Aug, 20:18",
       "isNew": true,
-      "id": "abc31787257129"
+      "id": "abc71787257129"
     },
     {
       "title": "Edicioni Qendror me Juli Krisafi, (20/08/2026)",
@@ -232,7 +276,7 @@
       "date": "2026-08-20T20:04:07+00:00",
       "dateStr": "20 Aug, 20:04",
       "isNew": true,
-      "id": "abc41787256247"
+      "id": "abc81787256247"
     },
     {
       "title": "VIDEO/ Pak metra larg Komisariatit numër 2, i riu humbet toruan në mes të ditës, thyen me grushta xhamin e urbanit të Unazës në Tiranë",
@@ -254,7 +298,7 @@
       "date": "2026-08-20T19:40:20+00:00",
       "dateStr": "20 Aug, 19:40",
       "isNew": true,
-      "id": "abc51787254820"
+      "id": "abc91787254820"
     },
     {
       "title": "Shtrenjtohen sërish hidrokarburet, nafta arrin 219 lekë dhe benzina mbi 200 lekë për litër",
@@ -266,17 +310,6 @@
       "dateStr": "20 Aug, 19:30",
       "isNew": true,
       "id": "she71787254214"
-    },
-    {
-      "title": "“Në 2008, tur diplomatik për pavarësinë”/ Hashim Thaçi: Kishim takime të rregullta informuese me partnerët perëndimorë",
-      "link": "https://abcnews.al/ne-2008-tur-diplomatik-per-pavaresine-hashim-thaci-kishim-takime-te-rregullta-informuese-me-partneret-perendimore/",
-      "description": "Ish presidenti i Kosovës, Hashim Thaçi ka rrëfyer detaje nga periudha para shpalljes së pavarësisë së Kosovës, duke theksuar angazhimin diplomatik me partnerët perëndimorë gjatë vitit 2008. Ai kujton takimet me përfaqësues të SHBA-së dhe vendeve kryesore evropiane, ndërsa thekson se ekipi i tij mban",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T19:28:40+00:00",
-      "dateStr": "20 Aug, 19:28",
-      "isNew": true,
-      "id": "abc61787254120"
     },
     {
       "title": "Dhunohet me sende të forta 50-vjeçari në Vlorë, përfundon në gjendje të rëndë në spital, arrestohet një person",
@@ -299,39 +332,6 @@
       "dateStr": "20 Aug, 19:12",
       "isNew": true,
       "id": "she91787253147"
-    },
-    {
-      "title": "Vlorë, aktivizohen disa vatra zjarri në kodrat e fshatit Dukat",
-      "link": "https://abcnews.al/vlore-aktivizohen-disa-vatra-zjarri-ne-kodrat-e-fshatit-dukat/",
-      "description": "Disa vatra zjarri janë aktivizuar njëkohësisht në kodrat e fshatit Dukat. Zjarri është pikasur nga disa banorë, të cilët kanë njoftuar policinë dhe zjarrfikësen. Ndërsa edhe vetë disa banorë nisën drejt zonës. Zjarri po zgjerohet, ndërsa zona është e mbushur me shkurre, ndodhet larg banesave. Po ash",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T19:06:25+00:00",
-      "dateStr": "20 Aug, 19:06",
-      "isNew": true,
-      "id": "abc71787252785"
-    },
-    {
-      "title": "“Këmbëngula që UÇK të mos shuhej”/ Hashim Thaçi flet para vendimit të Hagës: Rambujeja, e domosdoshme",
-      "link": "https://abcnews.al/kembengula-qe-uck-te-mos-shuhej-hashim-thaci-flet-para-vendimit-te-hages-rambujeja-e-domosdoshme/",
-      "description": "Hashim Thaçi ka kujtuar ditët e luftës në Kosovë dhe përpjekjet për të ruajtur mundësinë e arritur në Rambuje. Në deklaratën e tij nga Haga, ish presidenti Thaçi thekson rëndësinë e aleatëve dhe të momentit politik për realizimin e të drejtave të popullit të Kosovës, ndërsa rrëfen edhe për udhëtimin",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T18:54:29+00:00",
-      "dateStr": "20 Aug, 18:54",
-      "isNew": true,
-      "id": "abc81787252069"
-    },
-    {
-      "title": "Thaçi: Politika të ulet në tryezë/ Ish presidenti kërkon pajtim për Kosovën",
-      "link": "https://abcnews.al/thaci-politika-te-ulet-ne-tryeze-ish-presidenti-kerkon-pajtim-per-kosoven/",
-      "description": "Një mesazh për partitë politike në Kosovë ka përcjellë ish-presidenti i Kosovës dhe ish-drejtuesi politik i UÇK-së, Hashim Thaçi, duke kërkuar që pozita dhe opozita të ulen në një tryezë të përbashkët dhe të arrijnë pajtim për çështje strategjike për vendin. Deklaratën ai e bëri gjatë një interviste",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-20T18:50:23+00:00",
-      "dateStr": "20 Aug, 18:50",
-      "isNew": true,
-      "id": "abc91787251823"
     }
   ]
 }
