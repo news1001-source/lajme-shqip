@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-21T02:57:33.011282+00:00",
+  "lastUpdated": "2026-08-21T03:50:57.925813+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Lëvizja e Flamingove tha “Jo”, tani i duhet guximi për të thënë “Po”",
+      "link": "https://24-ore.com/levizja-e-flamingove-tha-jo-tani-i-duhet-guximi-per-te-thene-po/",
+      "description": "Protestuesit mbajnë pankarta kundër kryeministrit Edi Rama dhe liderit të opozitës, Sali Berisha. Foto: LSA. Nga: Julia Aliçka Gjatë protestave që vazhdojnë në rrugët e Tiranës dëgjohet shpesh kënga Seven Nation Army. E shkruar nga White Stripes më shumë se 20 vjet më parë, kënga është zbërthyer dhe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T03:47:54+00:00",
+      "dateStr": "21 Aug, 03:47",
+      "isNew": true,
+      "id": "24 01787284074"
+    },
+    {
+      "title": "Vuçiç cakton datën e zgjedhjeve të parakohshme",
+      "link": "https://24-ore.com/vucic-cakton-daten-e-zgjedhjeve-te-parakohshme/",
+      "description": "Serbia do të mbajë zgjedhje të parakohshme parlamentare më 18 ose 25 tetor, deklaroi të enjten presidenti Aleksandar Vuçiç “Zgjedhjet parlamentare do të mbahen më 18 ose 25 tetor. Data e saktë do të bëhet e ditur në ditët e ardhshme”, tha Vuçiç gjatë një transmetimi të drejtpërdrejtë televiziv. Zgje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T03:16:48+00:00",
+      "dateStr": "21 Aug, 03:16",
+      "isNew": true,
+      "id": "24 11787282208"
+    },
+    {
+      "title": "Pat McAfee: Nuk do të rikthehem te WWE pas humbjes së Randy Orton në WrestleMania 42",
+      "link": "https://24-ore.com/pat-mcafee-nuk-do-te-rikthehem-te-wwe-pas-humbjes-se-randy-orton-ne-wrestlemania-42/",
+      "description": "Pat McAfee deklaroi pas humbjes së Randy Orton në WrestleMania 42 se nuk do të jetë më i pranishëm në programet e WWE. Ai tha se kishte dhënë një premtim q...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T03:00:34+00:00",
+      "dateStr": "21 Aug, 03:00",
+      "isNew": true,
+      "id": "24 21787281234"
+    },
     {
       "title": "Një marrëveshje pesëskuadre dërgon Peyton Watson te Cavaliers; detajet e shkëmbimit dhe ndikimi në ekip",
       "link": "https://24-ore.com/nje-marreveshje-peseskuadre-dergon-peyton-watson-te-cavaliers-detajet-e-shkembimit-dhe-ndikimi-ne-ekip/",
@@ -12,7 +45,7 @@
       "date": "2026-08-21T02:51:49+00:00",
       "dateStr": "21 Aug, 02:51",
       "isNew": true,
-      "id": "24 01787280709"
+      "id": "24 31787280709"
     },
     {
       "title": "Një rakun i rrëmben tifozit hot-dogun dhe lëkurat e kikirikut në Citi Field",
@@ -23,7 +56,7 @@
       "date": "2026-08-21T02:50:56+00:00",
       "dateStr": "21 Aug, 02:50",
       "isNew": true,
-      "id": "24 11787280656"
+      "id": "24 41787280656"
     },
     {
       "title": "Atlanta Dream kryeson ndaj Los Angeles Sparks 9–2 në minutën 7:34 të çerekut të parë (20 gusht 2026)",
@@ -34,7 +67,7 @@
       "date": "2026-08-21T02:11:38+00:00",
       "dateStr": "21 Aug, 02:11",
       "isNew": true,
-      "id": "24 21787278298"
+      "id": "24 51787278298"
     },
     {
       "title": "Cleveland Cavaliers: Si ndryshojnë kapaciteti i pagave dhe përbërja pas kontratës 3-vjeçare 97 mln$ të James Harden",
@@ -45,7 +78,7 @@
       "date": "2026-08-21T02:10:44+00:00",
       "dateStr": "21 Aug, 02:10",
       "isNew": true,
-      "id": "24 31787278244"
+      "id": "24 61787278244"
     },
     {
       "title": "Dillon Brooks thotë se e kishte “numrin” e Shai Gilgeous-Alexander dhe pret një rivalitet të ri",
@@ -56,7 +89,7 @@
       "date": "2026-08-21T01:27:05+00:00",
       "dateStr": "21 Aug, 01:27",
       "isNew": true,
-      "id": "24 41787275625"
+      "id": "24 71787275625"
     },
     {
       "title": "Nikola Jokić: Wembanyama mund të jetë lojtari më i mirë i të gjitha kohërave",
@@ -67,7 +100,7 @@
       "date": "2026-08-21T00:42:10+00:00",
       "dateStr": "21 Aug, 00:42",
       "isNew": true,
-      "id": "24 51787272930"
+      "id": "24 81787272930"
     },
     {
       "title": "Indiana Fever dhe Dallas Wings përballen në Dallas më 20 gusht 2026",
@@ -78,40 +111,7 @@
       "date": "2026-08-21T00:01:58+00:00",
       "dateStr": "21 Aug, 00:01",
       "isNew": true,
-      "id": "24 61787270518"
-    },
-    {
-      "title": "Dillon Brooks: Më pëlqen të luaj kundër LeBron James; meme-ja e ndeshjes së Lakers nuk ishte e inskenuar",
-      "link": "https://24-ore.com/dillon-brooks-me-pelqen-te-luaj-kunder-lebron-james-meme-ja-e-ndeshjes-se-lakers-nuk-ishte-e-inskenuar/",
-      "description": "Dillon Brooks thotë se ka kënaqësi kur përballet me LeBron James dhe nuk e konsideron marrëdhënien mes tyre si një rivalitet të pastër, por më shumë si një...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T00:00:57+00:00",
-      "dateStr": "21 Aug, 00:00",
-      "isNew": true,
-      "id": "24 71787270457"
-    },
-    {
-      "title": "Orioles kërkojnë ndryshim të rregullave të MLB për teknologji pranë shtyllës pas topit të Pete Alonso që u quajt i jashtëm",
-      "link": "https://24-ore.com/orioles-kerkojne-ndryshim-te-rregullave-te-mlb-per-teknologji-prane-shtylles-pas-topit-te-pete-alonso-qe-u-quajt-i-jashtem/",
-      "description": "Baltimore Orioles po kërkojnë që Major League Baseball të rishikojë rregullat dhe teknologjinë rreth vendimeve pranë shtyllës së jashtme, pas një situate k...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T23:57:40+00:00",
-      "dateStr": "20 Aug, 23:57",
-      "isNew": true,
-      "id": "24 81787270260"
-    },
-    {
-      "title": "Një portret i të fejuarit të kampiones së tenisit Aryna Sabalenka, Georgios Frangulis",
-      "link": "https://24-ore.com/nje-portret-i-te-fejuarit-te-kampiones-se-tenisit-aryna-sabalenka-georgios-frangulis/",
-      "description": "Aryna Sabalenka vazhdon të jetë në majë të karrierës së saj: renditet e para në botë në singëll dhe ka katër tituj Grand Slam, përfshirë fitoret në U.S. Op...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-20T23:51:08+00:00",
-      "dateStr": "20 Aug, 23:51",
-      "isNew": true,
-      "id": "24 91787269868"
+      "id": "24 91787270518"
     },
     {
       "title": "“Prokuroria Speciale në Hagë, antishqiptare”/ Petraj: Kurti e do Thaçin dhe komandantët e UÇK në burg",
