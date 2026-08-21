@@ -1,18 +1,172 @@
 {
-  "lastUpdated": "2026-08-21T13:40:31.380895+00:00",
+  "lastUpdated": "2026-08-21T14:29:11.679746+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Shokuese në Argjentinë, zbulohet skandali në gjyqin për vdekjene Maradonës: Analizat mjekësore i përkisnin të atit!",
-      "link": "https://24-ore.com/shokuese-ne-argjentine-zbulohet-skandali-ne-gjyqin-per-vdekjene-maradones-analizat-mjekesore-i-perkisnin-te-atit/",
-      "description": "Një kthesë e papritur dhe shokuese ka ndodhur në procesin gjyqësor për vdekjen e Diego Armando Maradonës, i cili po zhvillohet në San Isidro të Argjentinës. Seancat dëgjimore janë pezulluar pas një skandali me provat, pasi mbrojtja ka hedhur dyshime të forta mbi vërtetësinë e dokumentacionit mjekëso",
+      "title": "Përmbyllet procesi i gërmimeve në Zubin Potok, konfirmohen mbetje mortore të 23 personave",
+      "link": "https://24-ore.com/permbyllet-procesi-i-germimeve-ne-zubin-potok-konfirmohen-mbetje-mortore-te-23-personave/",
+      "description": "Ka përfunduar procesi katërjavor i gërmimeve vlerësuese dhe zhvarrosjes së mbetjeve mortore në tri lokacione të konfirmuara si varre masive në Kalludër dhe Jabukë të Zubin Potokut. Sipas Komisionit Qeveritar për Persona të Zhdukur, në lokacionin e tretë të varrit masiv është konfirmuar prania e mbet",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-21T13:32:34+00:00",
-      "dateStr": "21 Aug, 13:32",
+      "date": "2026-08-21T14:27:22+00:00",
+      "dateStr": "21 Aug, 14:27",
       "isNew": true,
-      "id": "24 01787319154"
+      "id": "24 01787322442"
+    },
+    {
+      "title": "News Hour me Erneta Shevroja, (21/08/2026)",
+      "link": "https://abcnews.al/news-hour-me-erneta-shevroja-21-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T14:26:10+00:00",
+      "dateStr": "21 Aug, 14:26",
+      "isNew": true,
+      "id": "abc01787322370"
+    },
+    {
+      "title": "Cole Hutson mbështetet te përvoja e vëllezërve për të ndërtuar karrierën në NHL",
+      "link": "https://24-ore.com/cole-hutson-mbeshtetet-te-pervoja-e-vellezerve-per-te-ndertuar-karrieren-ne-nhl/",
+      "description": "Cole Hutson po synon të vendosë emrin e tij në Ligën Kombëtare të Hokejit duke u mbështetur në shembullin e vëllezërve të tij. Mbrojtësi 20-vjeçar i Washin...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T14:23:05+00:00",
+      "dateStr": "21 Aug, 14:23",
+      "isNew": true,
+      "id": "24 11787322185"
+    },
+    {
+      "title": "Paga mesatare neto në muajin qershor ishte 48.381 denarë",
+      "link": "https://24-ore.com/paga-mesatare-neto-ne-muajin-qershor-ishte-48-381-denare/",
+      "description": "Paga mesatare neto në Maqedoni në qershor ka qenë 48.381 denarë, që është për 1.163 denarë më pak se paga e majit prej 49.544 denarë, tregojnë të dhënat më të fundit të Entit Shtetëror të Statistikës. Edhe pse në nivel vjetor pagat janë rritur për 6,4%, rënia mujore është shifër që qytetarët e ndiej",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T14:22:17+00:00",
+      "dateStr": "21 Aug, 14:22",
+      "isNew": true,
+      "id": "24 21787322137"
+    },
+    {
+      "title": "Presezonin NFL 2026, Java 2: Çfarë mësuam nga ndeshjet e së enjtes",
+      "link": "https://24-ore.com/presezonin-nfl-2026-java-2-cfare-mesuam-nga-ndeshjet-e-se-enjtes/",
+      "description": "Në ndeshjet e së enjtes të javës së dytë të presezonit 2026, Las Vegas Raiders fituan ndaj Houston Texans 22-20, ndërsa San Francisco 49ers shënuan fitore...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T14:22:07+00:00",
+      "dateStr": "21 Aug, 14:22",
+      "isNew": true,
+      "id": "24 31787322127"
+    },
+    {
+      "title": "IRAN – Pezeshkian kërkon mbarimin e luftës me SHBA-në",
+      "link": "https://24-ore.com/iran-pezeshkian-kerkon-mbarimin-e-luftes-me-shba-ne/",
+      "description": "TEHERAN, 21 gusht /ATSH-DPA/ – Presidenti iranian Masoud Pezeshkian ka bërë thirrje për përfundimin e luftës me Shtetet e Bashkuara të Amerikës, duke theksuar se Irani duhet ta mbyllë konfliktin ndërsa ndodhet, sipas tij, në një pozicion fuqie dhe dinjiteti. “Është më mirë ta përfundojmë sot, pasi n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T14:16:17+00:00",
+      "dateStr": "21 Aug, 14:16",
+      "isNew": true,
+      "id": "24 41787321777"
+    },
+    {
+      "title": "Aksident i rëndë te Pushimi i Shoferit, furgoni përplaset me barrierat anësore të rrugës, disa të plagosur",
+      "link": "https://shekulli.com.al/2026/08/21/aksident-i-rende-te-pushimi-i-shoferit-furgoni-perplaset-me-barrierat-anesore-te-rruges-disa-te-plagosur/",
+      "description": "Një aksident ka ndodhur mesditën e kësaj të premteje në vendin e quajtur Pushimi i Shoferit në autostradën Lushnje-Fier. Një automjet tip Volkswagen është përplasur me një furgon që transportonte udhëtarë drejt jugut. Furgoni për të shmangur përplasjen me makinën, ka devijuar dhe është përplasur me ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-21T14:14:51+00:00",
+      "dateStr": "21 Aug, 14:14",
+      "isNew": true,
+      "id": "she01787321691"
+    },
+    {
+      "title": "Vandalizohen pajisjet e shënjimit dimëror në Kodrën e Diellit, reagon Ambasada e Austrisë",
+      "link": "https://24-ore.com/vandalizohen-pajisjet-e-shenjimit-dimeror-ne-kodren-e-diellit-reagon-ambasada-e-austrise/",
+      "description": "Ambasada e Austrisë ka reaguar pas dëmtimit dhe largimit të një pjese të konsiderueshme të pajisjeve të reja për shënjimin dimëror të shtegut të Majës së Titos në Kodrën e Diellit, në gjatësi prej rreth 11 kilometrash. Sipas njoftimit, më shumë se 45 nga gjithsej 112 shtylla janë shkatërruar, dëmtua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T14:04:23+00:00",
+      "dateStr": "21 Aug, 14:04",
+      "isNew": true,
+      "id": "24 51787321063"
+    },
+    {
+      "title": "Mbi 824 mijë vizitorë në sitet e trashëgimisë kulturore, kryeson Kalaja e Gjirokastrës",
+      "link": "https://24-ore.com/mbi-824-mije-vizitore-ne-sitet-e-trashegimise-kulturore-kryeson-kalaja-e-gjirokastres/",
+      "description": "Institucionet dhe qendrat e trashëgimisë kulturore në Shqipëri kanë regjistruar një rritje të ndjeshme të vizitorëve gjatë shtatë muajve të parë të vitit 2026. Ministri i Turizmit, Kulturës dhe Sportit, Blendi Gonxhja, bëri publike shifrat e periudhës janar–korrik 2026, gjatë të cilës këto destinaci",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T14:04:13+00:00",
+      "dateStr": "21 Aug, 14:04",
+      "isNew": true,
+      "id": "24 61787321053"
+    },
+    {
+      "title": "Prania e KFOR-it te Ura e Ibrit, Maqedonci: Serbia po përpiqet të krijojë artificialisht krizë",
+      "link": "https://24-ore.com/prania-e-kfor-it-te-ura-e-ibrit-maqedonci-serbia-po-perpiqet-te-krijoje-artificialisht-krize/",
+      "description": "Ministri i Mbrojtjes, Ejup Maqedonci, ka deklaruar se optimizimi gradual i pranisë së KFOR-it, përfshirë përshtatjen e pranisë së misionit në urën mbi lumin Ibër, është reflektim i përmirësimit të situatës së sigurisë në Kosovë dhe rritjes së kapaciteteve të institucioneve vendore të sigurisë. Përme",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T14:04:07+00:00",
+      "dateStr": "21 Aug, 14:04",
+      "isNew": true,
+      "id": "24 71787321047"
+    },
+    {
+      "title": "I dënuari merr leje nga burgu i Reçit dhe nuk kthehet, lë letër për familjen: Po largohem ju dua shumë",
+      "link": "https://24-ore.com/i-denuari-merr-leje-nga-burgu-i-recit-dhe-nuk-kthehet-le-leter-per-familjen-po-largohem-ju-dua-shume/",
+      "description": "Petrit Ndoci, i dënuar që vuante dënimin në burgun e Reçit, është larguar gjatë kohës që ndodhej me leje dhe nuk është kthyer në institucionin e vuajtjes së dënimit. Sipas burimeve, Ndoci duhej të paraqitej në burg ditën e sotme, në orën 12:30. Punonjësit e institucionit kanë tentuar ta kontaktojnë ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T14:03:47+00:00",
+      "dateStr": "21 Aug, 14:03",
+      "isNew": true,
+      "id": "24 81787321027"
+    },
+    {
+      "title": "Situatë serioze në Rrëshen! Flakët pranë disa banesave, evakuohen 4 familje",
+      "link": "https://24-ore.com/situate-serioze-ne-rreshen-flaket-prane-disa-banesave-evakuohen-4-familje/",
+      "description": "Një vatër zjarri është regjistruar në fshatin Tenë, në afërsi të Rrëshenit. Pamjet nga vendi tregojnë një sasi të madhe tymi që ngrihet mbi zonën malore, ndërsa flakët janë përhapur në sipërfaqe me bimësi dhe pyje. Për shkak të situatës, 4 familje janë evakuuar nga zona e rrezikuar. Zjarri vijon të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-21T14:03:33+00:00",
+      "dateStr": "21 Aug, 14:03",
+      "isNew": true,
+      "id": "24 91787321013"
+    },
+    {
+      "title": "Nga Titanic te Covid-19/ Gruaja më e moshuar në botë mbush 117 vjeç",
+      "link": "https://abcnews.al/nga-titanic-te-covid-19-gruaja-me-e-moshuar-ne-bote-mbush-117-vjec/",
+      "description": "Personi më i moshuar në botë, Ethel Caterham, feston të premten 117-vjetorin e lindjes në Surrey, në prani të familjarëve dhe miqve. Ethel, e cila jeton në shtëpinë e kujdesit Hallmark Lakeview në Lightwater, u bë personi më i moshuar në botë në prill 2025, pas vdekjes së murgeshës braziliane Inah C",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T13:59:54+00:00",
+      "dateStr": "21 Aug, 13:59",
+      "isNew": true,
+      "id": "abc11787320794"
+    },
+    {
+      "title": "Sulm me shpatë në një shkollë në Suedi, disa të plagosur",
+      "link": "https://shekulli.com.al/2026/08/21/sulm-me-shpate-ne-nje-shkolle-ne-suedi-disa-te-plagosur/",
+      "description": "SUEDI- Një person i armatosur me shpatë ka sulmuar një shkollë në qytetin Fagersta, në Suedinë qendrore, duke plagosur disa persona. Ngjarja ndodhi të premten, 21 gusht, ndërsa autoritetet lokale konfirmuan se policia u njoftua për një rast të dhunës së rëndë në ambientet e shkollës. Forcat e polici",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-21T13:48:15+00:00",
+      "dateStr": "21 Aug, 13:48",
+      "isNew": true,
+      "id": "she11787320095"
+    },
+    {
+      "title": "Brabus hyn në botën e motoçikletave elektrike, prezanton një treshe modelesh luksoze",
+      "link": "https://abcnews.al/brabus-hyn-ne-boten-e-motocikletave-elektrike-prezanton-nje-treshe-modelesh-luksoze/",
+      "description": "Brabus, kompania gjermane e njohur për modifikimin e automjeteve me performancë të lartë, ka bashkëpunuar me prodhuesin francez të motoçikletave elektrike DAB Motors për të krijuar një gamë prej tre modelesh që ndërthurin dizajnin agresiv, teknologjinë elektrike dhe stilin ekskluziv të markës gjerma",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-21T13:45:25+00:00",
+      "dateStr": "21 Aug, 13:45",
+      "isNew": true,
+      "id": "abc21787319925"
     },
     {
       "title": "“Kushdo që e viziton vdes”, Zuckerberg sfidon legjendën, blen kështjellën historike",
@@ -23,29 +177,7 @@
       "date": "2026-08-21T13:31:33+00:00",
       "dateStr": "21 Aug, 13:31",
       "isNew": true,
-      "id": "abc01787319093"
-    },
-    {
-      "title": "“Më ofendoi në sy të familjes dhe…”- Plagosja e Vladimir Bruçit, zbardhet dëshmia e Pjerin Bitanit: Kamerat i dre",
-      "link": "https://24-ore.com/me-ofendoi-ne-sy-te-familjes-dhe-plagosja-e-vladimir-brucit-zbardhet-deshmia-e-pjerin-bitanit-kamerat-i-dre/",
-      "description": "Zbardhet dëshmia e autorit të dyshuar të plagosjes së Vladimir Bruçit dje në Shkodër. Detaje të reja dalin në dritë edhe nga hetimi për plagosjen me armë në lagjen “Rus”, ngjarje për të cilën është arrestuar 70-vjeçari Pjerin Bitani. Sipas të dhënave paraprake të hetimit, konflikti mes dy fqinjëve d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T13:31:22+00:00",
-      "dateStr": "21 Aug, 13:31",
-      "isNew": true,
-      "id": "24 11787319082"
-    },
-    {
-      "title": "“Iu dha një javë leje shpërblyese”- Petrit Ndoci u arratis dhe s’u kthye në qelitë e Reçit, Drejtoria e Burgjeve: Po",
-      "link": "https://24-ore.com/iu-dha-nje-jave-leje-shperblyese-petrit-ndoci-u-arratis-dhe-su-kthye-ne-qelite-e-recit-drejtoria-e-burgjeve-po/",
-      "description": "Petrit Ndoci u arratis nga Burgu i Reçit pasi nuk u kthye nga leja që i ishte dhënë, Drejtoria e Përgjithshme e Burgjeve del me reagim zyrtar. Institucioni njofton se pasi u konfirmua se në orën 12:30 të ditës së sotme (21 gusht) Ndoci, i dënuar për grabitje dhe armë, nuk ishte kthyer në qeli, [&#82",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T13:30:46+00:00",
-      "dateStr": "21 Aug, 13:30",
-      "isNew": true,
-      "id": "24 21787319046"
+      "id": "abc31787319093"
     },
     {
       "title": "“Gaza”, SHBA mbështet Shqipërinë/ Mjete të blinduara amerikane për misionin e Bordit të Paqes",
@@ -56,7 +188,7 @@
       "date": "2026-08-21T13:23:05+00:00",
       "dateStr": "21 Aug, 13:23",
       "isNew": true,
-      "id": "abc11787318585"
+      "id": "abc41787318585"
     },
     {
       "title": "“Më ofendoi para familjes”, zbardhet dëshmia e Pjerin Bitanit, si nisi konflikti me komshiun që e plagosi rëndë",
@@ -67,73 +199,7 @@
       "date": "2026-08-21T13:19:30+00:00",
       "dateStr": "21 Aug, 13:19",
       "isNew": true,
-      "id": "she01787318370"
-    },
-    {
-      "title": "Zgjedhjet e parakohshme parlamentare, VLEN i përgjigjet BDI-së: Shqiptarët i larguan nga të gjitha komunat shqiptare",
-      "link": "https://24-ore.com/zgjedhjet-e-parakohshme-parlamentare-vlen-i-pergjigjet-bdi-se-shqiptaret-i-larguan-nga-te-gjitha-komunat-shqiptare/",
-      "description": "Pas kërkesës së opozitares BDI për zgjedhje të parakohshme, ka reaguar VLEN që siç tha, askush nga partia e BDI-së nuk mori përgjegjësi për humbjen në zgjedhjet lokale duke shtuar se “BDI po i shpërblen humbësit”. VLEN tha se shqiptarët me votë i larguan nga të gjitha komunat me shumicë shqiptare. “",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T13:18:36+00:00",
-      "dateStr": "21 Aug, 13:18",
-      "isNew": true,
-      "id": "24 31787318316"
-    },
-    {
-      "title": "Shqipëria U-16, trajneri Armand Dama publikon listën për dy miqësoret ndaj Malit të Zi",
-      "link": "https://24-ore.com/shqiperia-u-16-trajneri-armand-dama-publikon-listen-per-dy-miqesoret-ndaj-malit-te-zi/",
-      "description": "Trajneri i Kombëtares U-16, Armand Dama, ka publikuar listën e lojtarëve të grumbulluar për dy ndeshjet miqësore ndaj Malit të Zi U-16, që do të zhvillohen më 25 dhe 27 gusht. Kuqezinjtë e kësaj grupmoshe do të përballen me bashkëmoshatarët malazezë në dy teste, të cilat do t’i shërbejnë stafit tekn",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T13:18:15+00:00",
-      "dateStr": "21 Aug, 13:18",
-      "isNew": true,
-      "id": "24 41787318295"
-    },
-    {
-      "title": "Harta e zjarreve, ja 4 zonat problematike! Ministria e Mbrojtjes: Nga 16 vatra deri tani, 10 ende aktive! 6 mjete ajrore e mbi 2",
-      "link": "https://24-ore.com/harta-e-zjarreve-ja-4-zonat-problematike-ministria-e-mbrojtjes-nga-16-vatra-deri-tani-10-ende-aktive-6-mjete-ajrore-e-mbi-2/",
-      "description": "Ministria e Mbrojtjes përditësoi situatën e zjarreve në vend për ditën e sotme (21 gusht). Bëhet me dije se deri në orën 14:00 janë regjistruar 16 vatra zjarri, nga të cilat 10 mbeten aktive dhe 2 nën mbikëqyrje. Në mbështetje të operacioneve janë angazhuar 240 forca ushtarake, 3 automjete zjarrfikë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T13:18:08+00:00",
-      "dateStr": "21 Aug, 13:18",
-      "isNew": true,
-      "id": "24 51787318288"
-    },
-    {
-      "title": "Chivu: Duam që Lautaro Martinez të qëndrojë tek Interi, por merkato është bastarde!",
-      "link": "https://24-ore.com/chivu-duam-qe-lautaro-martinez-te-qendroje-tek-interi-por-merkato-eshte-bastarde/",
-      "description": "Seria A 2026/27 nis me Inter-Monza. Menjëherë në fushë kampionët në fuqi të Italisë dhe trajneri Cristian Chivu nuk fshihet: “Rifillohet nga zero, por e dimë që jemi skuadra për t’u mundur. Duam të jemi kompetitivë. Objektivi është për të mbajtur nivelin që kjo skuadër ka treguar vitet e fundit, duk",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T13:17:51+00:00",
-      "dateStr": "21 Aug, 13:17",
-      "isNew": true,
-      "id": "24 61787318271"
-    },
-    {
-      "title": "U arrestua në Angli, i riu shqiptar pranon ekstradimin në Shqipëri! U mërzit nga paraburgimi, akuzohet për aksident me vdek",
-      "link": "https://24-ore.com/u-arrestua-ne-angli-i-riu-shqiptar-pranon-ekstradimin-ne-shqiperi-u-merzit-nga-paraburgimi-akuzohet-per-aksident-me-vdek/",
-      "description": "Një i kërkuar i drejtësisë shqiptare arrestuar në Londër ka pranuar të ekstradohet në Shqipëri. Sipas dokumenteve të gjykatës të ekstradimeve “City of Westmister Magistrate Court”, tregohet se Andi Hoxha 23 vjeç, i arrestuar disa muaj më parë, hoqi dorë nga kundërshtimi ekstradimit. Kur ai doli përp",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T13:17:41+00:00",
-      "dateStr": "21 Aug, 13:17",
-      "isNew": true,
-      "id": "24 71787318261"
-    },
-    {
-      "title": "LETONI – Zbulohet tuneli i dytë për kalimin e migrantëve nga Bjellorusi",
-      "link": "https://24-ore.com/letoni-zbulohet-tuneli-i-dyte-per-kalimin-e-migranteve-nga-bjellorusi/",
-      "description": "RIGA, 21 gusht /ATSH-DPA/ – Autoritetet letoneze kanë zbuluar një tjetër tunel nëpër të cilin migrantë të parregullt mund të hynin në vend nga Bjellorusia, duke kaluar nën kufirin e fortifikuar të Bashkimit Evropian. Rojat kufitare arrestuan sot 28 migrantë që kishin kaluar ilegalisht kufirin e jash",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T13:16:20+00:00",
-      "dateStr": "21 Aug, 13:16",
-      "isNew": true,
-      "id": "24 81787318180"
+      "id": "she21787318370"
     },
     {
       "title": "Themelko, hija e incidentit të Pustecit/ Ish-bashkiaku shqiptar, njeriu i VMRO që fyeu flamurin dhe himnin",
@@ -144,7 +210,7 @@
       "date": "2026-08-21T13:13:06+00:00",
       "dateStr": "21 Aug, 13:13",
       "isNew": true,
-      "id": "abc21787317986"
+      "id": "abc51787317986"
     },
     {
       "title": "News Line me Rovena Neziri, (21/08/2026)",
@@ -155,10 +221,10 @@
       "date": "2026-08-21T13:10:36+00:00",
       "dateStr": "21 Aug, 13:10",
       "isNew": true,
-      "id": "abc31787317836"
+      "id": "abc61787317836"
     },
     {
-      "title": "Arratiset Petrit Ndoci, nuk u kthye në burg pas përfundimit të lejes/ Shpallet në kërkim",
+      "title": "Arratiset i dënuari Petrit Ndoci, nuk u kthye në burg pas përfundimit të lejes/ Shpallet në kërkim",
       "link": "https://abcnews.al/arratiset-petrit-ndoci-nuk-u-kthye-ne-burg-pas-perfundimit-te-lejes-shpallet-ne-kerkim/",
       "description": "Petrit Ndoci, i dënuar për veprat penale “vjedhje me dhunë” dhe “armëmbajtje pa leje”, është shpallur në kërkim nga autoritetet pasi nuk është kthyer në burgun e Reçit pas përfundimit të lejes. Ndoci duhej të paraqitej sot, në orën 12:30, në institucionin e vuajtjes së dënimit, por nuk është kthyer ",
       "source": "ABC News",
@@ -166,18 +232,7 @@
       "date": "2026-08-21T13:07:51+00:00",
       "dateStr": "21 Aug, 13:07",
       "isNew": true,
-      "id": "abc41787317671"
-    },
-    {
-      "title": "Shpjegim: Fundi i një simboli të ndarjes? Ura e Ibrit, presioni i Vuçiqit, qëndrimi i NATO-s dhe vlerësimet e ekspertëve – çfarë dihet deri tani?",
-      "link": "https://24-ore.com/shpjegim-fundi-i-nje-simboli-te-ndarjes-ura-e-ibrit-presioni-i-vuciqit-qendrimi-i-nato-s-dhe-vleresimet-e-eksperteve-cfare-dihet-deri-tani/",
-      "description": "Kanë kaluar 27 vjet nga përfundimi i luftës në Kosovë dhe ura mbi lumin Ibër, e cila për vite me radhë ka simbolizuar ndarjen mes pjesës jugore dhe asaj veriore të Mitrovicës, mund të hyjë në një fazë të re. Së fundmi është diskutuar mundësia që ura të hapet gradualisht për qarkullimin e automjeteve",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-21T13:02:59+00:00",
-      "dateStr": "21 Aug, 13:02",
-      "isNew": true,
-      "id": "24 91787317379"
+      "id": "abc71787317671"
     },
     {
       "title": "Kursi i Euros e mbyll javën në rënie dhe me një minimum të ri pranë 92.5 lekëve",
@@ -188,7 +243,7 @@
       "date": "2026-08-21T13:02:14+00:00",
       "dateStr": "21 Aug, 13:02",
       "isNew": true,
-      "id": "she11787317334"
+      "id": "she31787317334"
     },
     {
       "title": "Reformat në energji, fonde të tjera nga BE/ Plotësuam standardet, gati 61 milionë euro të tjera nga plani i rritjes",
@@ -199,7 +254,7 @@
       "date": "2026-08-21T13:00:38+00:00",
       "dateStr": "21 Aug, 13:00",
       "isNew": true,
-      "id": "abc51787317238"
+      "id": "abc81787317238"
     },
     {
       "title": "Rama e “përzuri” nga mbledhja, Zotkaj nuk përmbahet: Do jetë turp për Kuvendin nëse shkrin bashkinë e Poliçanit",
@@ -210,7 +265,7 @@
       "date": "2026-08-21T12:36:19+00:00",
       "dateStr": "21 Aug, 12:36",
       "isNew": true,
-      "id": "she21787315779"
+      "id": "she41787315779"
     },
     {
       "title": "Çmimet e gazit në Europë arrijnë nivelin më të lartë që nga marsi, situata mund të përkeqësohet",
@@ -221,7 +276,7 @@
       "date": "2026-08-21T12:29:29+00:00",
       "dateStr": "21 Aug, 12:29",
       "isNew": true,
-      "id": "she31787315369"
+      "id": "she51787315369"
     },
     {
       "title": "Dyshime për përfshirje ruse, pas zbulimit të një depoje sekrete armësh në Berlin",
@@ -232,7 +287,7 @@
       "date": "2026-08-21T12:24:57+00:00",
       "dateStr": "21 Aug, 12:24",
       "isNew": true,
-      "id": "abc61787315097"
+      "id": "abc91787315097"
     },
     {
       "title": "“Po largohem, ju dua!”/ Zbardhet letra që Petrit Ndoci u la familjarëve para se të arratisej nga burgu",
@@ -243,29 +298,7 @@
       "date": "2026-08-21T12:12:43+00:00",
       "dateStr": "21 Aug, 12:12",
       "isNew": true,
-      "id": "she41787314363"
-    },
-    {
-      "title": "Pitoni, Jodie Foster bëhet gjarpri i parë që i nënshtrohet një trajtimi revolucionar për kancerin",
-      "link": "https://abcnews.al/pitoni-jodie-foster-behet-gjarpri-i-pare-qe-i-nenshtrohet-nje-trajtimi-revolucionar-per-kancerin/",
-      "description": "Pitoni 4.5 metra i nënshtrohet trajtimit të parë të këtij lloji kundër kancerit Një piton femër 4.5 metra i gjatë dhe rreth 50 kilogramë është bërë gjarpri i parë në botë që i është nënshtruar elektrokimioterapisë, një trajtim inovativ kundër kancerit që përdoret kryesisht te njerëzit dhe kafshët e ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T12:11:00+00:00",
-      "dateStr": "21 Aug, 12:11",
-      "isNew": true,
-      "id": "abc71787314260"
-    },
-    {
-      "title": "Elbasan/ Zjarri përfshin sipërfaqe toke në Gjinar, rrezikohet një banesë dhe biznes",
-      "link": "https://abcnews.al/elbasan-zjarri-perfshin-siperfaqe-toke-ne-gjinar-rrezikohet-nje-banese-dhe-biznes/",
-      "description": "Një vatër zjarri ka përfshirë rreth një hektar sipërfaqe në fshatin Derstil, në Njësinë Administrative Gjinar, në Elbasan. Zjarri dyshohet se ka nisur pranë një grumbulli mbetjesh dhe më pas është përhapur me shpejtësi, duke rrezikuar një banesë, ku në momentin e përhapjes së flakëve ndodhej një e m",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T12:04:21+00:00",
-      "dateStr": "21 Aug, 12:04",
-      "isNew": true,
-      "id": "abc81787313861"
+      "id": "she61787314363"
     },
     {
       "title": "Emri/ Arratiset nga burgu i Reçit i dënuarit! Kishte dalë me leje por nuk u kthye më",
@@ -276,18 +309,7 @@
       "date": "2026-08-21T12:02:46+00:00",
       "dateStr": "21 Aug, 12:02",
       "isNew": true,
-      "id": "she51787313766"
-    },
-    {
-      "title": "“Fatmirësisht ka një video demaskuese”, Rama reagon ndaj Arjan Konomit: Gënjeshtër e luftës liridashëse kundër regjimit imagjinar",
-      "link": "https://abcnews.al/fatmiresisht-ka-nje-video-demaskuese-rama-reagon-ndaj-arjan-konomi-genjeshter-e-luftes-liridashese-kunder-regjimit-imagjinar/",
-      "description": "Kryeministri Edi Rama i është përgjigjur sot me një video, pretendimit të gazetarit Arjan Konomi, i cili një ditë më parë tha se u shoqërua në komisariat pas një përplasjeje me familjen e kryeministrit në Vuno. Krahas videos me deklaratës e Konomit, kryeministri Rama publikoi edhe një video në rrjet",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T11:52:58+00:00",
-      "dateStr": "21 Aug, 11:52",
-      "isNew": true,
-      "id": "abc91787313178"
+      "id": "she71787313766"
     },
     {
       "title": "Arrestohet 39-vjeçari në Fier! Policia e kap “mat” në kantierin e ndërtimit pa leje",
@@ -298,7 +320,7 @@
       "date": "2026-08-21T11:50:23+00:00",
       "dateStr": "21 Aug, 11:50",
       "isNew": true,
-      "id": "she61787313023"
+      "id": "she81787313023"
     },
     {
       "title": "“Janë bisha”/ U aksidentua nga biçikleta, kryebashkiaku hakmerret duke ndaluar qarkullimin e çiklistëve",
@@ -309,29 +331,7 @@
       "date": "2026-08-21T11:41:45+00:00",
       "dateStr": "21 Aug, 11:41",
       "isNew": true,
-      "id": "she71787312505"
-    },
-    {
-      "title": "“Është nepërkë”, përplasja me Arjan Konomin, Rama tregon anën e tij të historisë: Shau si i përdalë një nënë (Lindën), e bullizoi bashkë me fëmijën",
-      "link": "https://shekulli.com.al/2026/08/21/eshte-neperke-perplasja-me-arjan-konomin-rama-tregon-anen-e-tij-te-historise-shau-si-i-perdale-nje-nene-linden-e-bullizoi-bashke-me-femijen/",
-      "description": "TIRANË- Kryeministri Edi Rama ka reaguar në lidhje me konfliktin që ndodhi paraditen e djeshme, në fshatin Vuno, mes tij dhe gazetarit Arjan Konomi. Rama pretendon se gazetari ka fyer dhe ka sharë bashkëshorten e tij, në prani të djalit të tyre Zaho, ndërsa tregon dhe një video që është xhiruar në m",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-21T11:34:50+00:00",
-      "dateStr": "21 Aug, 11:34",
-      "isNew": true,
-      "id": "she81787312090"
-    },
-    {
-      "title": "Video/ Mbarojnë “pushimet”! Rama mbledh ministrat në Pogradec, ja ku do zhvillohet takimi",
-      "link": "https://shekulli.com.al/2026/08/21/video-mbarojne-pushimet-rama-mbledh-ministrat-ne-pogradec-ja-ku-do-zhvillohet-takimi/",
-      "description": "Kryeministri Edi Rama do të zhvillojë një mbledhje me kabinetin qeveritar, në prag të rikthimit të aktivitetit politik pas pushimeve të verës. Mësohet se takimi do të mbahet në Pogradec, në një nga vilat e bllokut qeveritar, në qytetin liqenor. Formati i mbledhjes pritet të jetë “retreat”, ku minist",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-21T11:22:35+00:00",
-      "dateStr": "21 Aug, 11:22",
-      "isNew": true,
-      "id": "she91787311355"
+      "id": "she91787312505"
     }
   ]
 }
