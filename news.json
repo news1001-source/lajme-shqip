@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-08-22T05:21:29.248932+00:00",
+  "lastUpdated": "2026-08-22T06:31:14.266265+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "AGJENDA NDËRKOMBËTARE 22.8.2026",
+      "link": "https://24-ore.com/agjenda-nderkombetare-22-8-2026/",
+      "description": "SAN MARINO – Papa Leone XIV viziton San Marinon dhe Riminin. BUSAN (Koreja e Jugut) – Një anije kontejnerësh është planifikuar të niset për në Evropë nëpërmjet Arktikut. UASHINGTON (Shtetet e Bashkuara) – Tarifat amerikane prej 50% për një gamë produktesh kanadeze janë planifikuar të hyjnë në fuqi. ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T06:30:15+00:00",
+      "dateStr": "22 Aug, 06:30",
+      "isNew": true,
+      "id": "24 01787380215"
+    },
+    {
+      "title": "SOFT NEWS – Shkrimet e Mahatma Gandit shiten për 1,7 milionë dollarë",
+      "link": "https://24-ore.com/soft-news-shkrimet-e-mahatma-gandit-shiten-per-17-milione-dollare/",
+      "description": "MUMBAI, 22 gusht /ATSH-AFP/ – Një koleksion prej 688 shkrimesh të Mahatma Gandit është shitur në ankand në Mumbai për 1,7 milionë dollarë ose rreth 1,45 milionë euro duke vendosur një rekord për një dokument historik indian të shitur në ankand. Sipas shtëpisë indiane të ankandeve ”Saffronart”, dokum",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T06:16:19+00:00",
+      "dateStr": "22 Aug, 06:16",
+      "isNew": true,
+      "id": "24 11787379379"
+    },
+    {
+      "title": "FOKUS – SHBA miraton robotin e parë për marrjen e mostrave të gjakut",
+      "link": "https://24-ore.com/fokus-shba-miraton-robotin-e-pare-per-marrjen-e-mostrave-te-gjakut/",
+      "description": "UASHINGTON, 22 gusht /ATSH-ANSA/ – Autoritetet amerikane kanë miratuar robotin e parë të projektuar për marrjen e mostrave të gjakut në qendra mjekësore dhe ambulanca, një teknologji që synon të përshpejtojë një nga procedurat më të zakonshme mjekësore. Sistemi, i quajtur Aletta, përdor teknologji m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T06:16:03+00:00",
+      "dateStr": "22 Aug, 06:16",
+      "isNew": true,
+      "id": "24 21787379363"
+    },
+    {
+      "title": "Moti sot i qëndrueshëm dhe i nxehtë",
+      "link": "https://abcnews.al/moti-sot-i-qendrueshem-dhe-i-nxehte/",
+      "description": "Ditën e shtunë vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Moti parashikohet me kthjellime dhe alternime vranësirash mesatare, por kalimtare. Reshjet e shiut parashikohen të dobëta dhe në formë pikash në mënyrë të izoluar në veri e lindje, përgjatë maleve. Era do të fryjë me drej",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T06:11:08+00:00",
+      "dateStr": "22 Aug, 06:11",
+      "isNew": true,
+      "id": "abc01787379068"
+    },
+    {
+      "title": "Moti në fundjavë, e shtuna me vapë përvëluese – kujdes nga temperaturat e larta",
+      "link": "https://24-ore.com/moti-ne-fundjave-e-shtuna-me-vape-perveluese-kujdes-nga-temperaturat-e-larta/",
+      "description": "Instituti Hidrometeorologjik i Kosovës ka dhënë parashikimin e motit për fundjavë. IHK ka bërë të ditur se e shtuna do të jetë me diell dhe nxehtë. Temperaturat minimale do të jenë nga 11 deri në 15 gradë, ndërkaq ato maksimale nga 32 deri në 38 gradë. Era do të fryjë kryesisht nga veriu dhe veriper",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T06:07:19+00:00",
+      "dateStr": "22 Aug, 06:07",
+      "isNew": true,
+      "id": "24 31787378839"
+    },
+    {
+      "title": "Horoskopi, zbuloni parashikimin e yjeve për shenjën tuaj",
+      "link": "https://abcnews.al/horoskopi-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj-191/",
+      "description": "Dashi Do jeni në humor shumë të mirë gjatë gjithë kësaj dite dhe do bëni çdo gjë për ta mbajtur sa më pranë partnerin tuaj. Emocionet do jenë të njëpasnjëshme. Beqarët do kenë vetëm mundësi për aventura kalimtare, asgjë më tepër se aq. Çështjet financiare do jenë disi problematike. Nuk do arrini dot",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T06:00:03+00:00",
+      "dateStr": "22 Aug, 06:00",
+      "isNew": true,
+      "id": "abc11787378403"
+    },
     {
       "title": "“Centralizim i pushtetit”? Kritikët vënë në pikëpyetje planin e qeverisë me hartën e bashkive",
       "link": "https://24-ore.com/centralizim-i-pushtetit-kritiket-vene-ne-pikepyetje-planin-e-qeverise-me-harten-e-bashkive/",
@@ -12,7 +78,7 @@
       "date": "2026-08-22T05:16:41+00:00",
       "dateStr": "22 Aug, 05:16",
       "isNew": true,
-      "id": "24 01787375801"
+      "id": "24 41787375801"
     },
     {
       "title": "Dy mikesha, të dyja 109-vjeçe tregojnë sekretin e jetëgjatësisë",
@@ -23,7 +89,7 @@
       "date": "2026-08-22T03:17:34+00:00",
       "dateStr": "22 Aug, 03:17",
       "isNew": true,
-      "id": "24 11787368654"
+      "id": "24 51787368654"
     },
     {
       "title": "Një bast me temë Spider-Man i Julio Rodríguez zbulohet para MLB Players’ Weekend",
@@ -34,7 +100,7 @@
       "date": "2026-08-22T02:56:13+00:00",
       "dateStr": "22 Aug, 02:56",
       "isNew": true,
-      "id": "24 21787367373"
+      "id": "24 61787367373"
     },
     {
       "title": "CM Punk mposht Kevin Owens dhe ruan titullin e WWE pas ndërhyrjes së Sami Zayn",
@@ -45,7 +111,7 @@
       "date": "2026-08-22T02:21:18+00:00",
       "dateStr": "22 Aug, 02:21",
       "isNew": true,
-      "id": "24 31787365278"
+      "id": "24 71787365278"
     },
     {
       "title": "Yamamoto dhe Chandler titullarë në përballjen Dodgers–Pirates më 21 gusht 2026",
@@ -56,7 +122,7 @@
       "date": "2026-08-22T02:13:19+00:00",
       "dateStr": "22 Aug, 02:13",
       "isNew": true,
-      "id": "24 41787364799"
+      "id": "24 81787364799"
     },
     {
       "title": "Geno Smith çon Jets në fitore 17-0 ndaj Steelers në javën e dytë të presezonit të NFL 2026",
@@ -67,51 +133,7 @@
       "date": "2026-08-22T02:11:44+00:00",
       "dateStr": "22 Aug, 02:11",
       "isNew": true,
-      "id": "24 51787364704"
-    },
-    {
-      "title": "Trump: E konsideroj Ngushticën e Hormuzit territor amerikan",
-      "link": "https://24-ore.com/trump-e-konsideroj-ngushticen-e-hormuzit-territor-amerikan/",
-      "description": "Presidenti amerikan Donald Trump deklaroi se Irani nuk duhet të zotërojë kurrë armë bërthamore, ndërsa e cilësoi Ngushticën e Hormuzit si “territor amerikan”. Duke folur në një tubim në Karolinën e Jugut, Trump tha: “Nuk mund t’i lejojmë të kenë armë bërthamore, nuk mund ta lejojmë Iranin të ketë ar",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T01:17:32+00:00",
-      "dateStr": "22 Aug, 01:17",
-      "isNew": true,
-      "id": "24 61787361452"
-    },
-    {
-      "title": "Randy Orton ndërpret CM Punk dhe rivalitete të reja shfaqen në SmackDown më 21 gusht",
-      "link": "https://24-ore.com/randy-orton-nderpret-cm-punk-dhe-rivalitete-te-reja-shfaqen-ne-smackdown-me-21-gusht/",
-      "description": "Randy Orton ndërhyri në pjesën pas skenave ndërsa CM Punk po diskutonte për ndeshjen e tij kryesore kundër Kevin Owens. Sherri i shkurtër u shndërrua në nj...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T00:55:34+00:00",
-      "dateStr": "22 Aug, 00:55",
-      "isNew": true,
-      "id": "24 71787360134"
-    },
-    {
-      "title": "Programi i së Premtes në Little League World Series 2026: oraret, transmetimet dhe ndeshja kryesore",
-      "link": "https://24-ore.com/programi-i-se-premtes-ne-little-league-world-series-2026-oraret-transmetimet-dhe-ndeshja-kryesore/",
-      "description": "Shiu dhe stuhitë bënë që ndeshjet e Little League World Series 2026 të ndaloheshin të enjten në Williamsport, Pensilvani, duke shtyrë pjesën më të madhe të...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T00:46:26+00:00",
-      "dateStr": "22 Aug, 00:46",
-      "isNew": true,
-      "id": "24 81787359586"
-    },
-    {
-      "title": "SmackDown në Toronto: Owens sfidon CM Punk, debutimi i Blake Monroe dhe përplasje mes Orton dhe Rhodes",
-      "link": "https://24-ore.com/smackdown-ne-toronto-owens-sfidon-cm-punk-debutimi-i-blake-monroe-dhe-perplasje-mes-orton-dhe-rhodes/",
-      "description": "Në episodin e SmackDown të datës 21 gusht, vëmendja u përqendrua te ndeshja kryesore pas rikthimit surprizë të Kevin Owens në SummerSlam: Owens fitoi të dr...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T00:10:59+00:00",
-      "dateStr": "22 Aug, 00:10",
-      "isNew": true,
-      "id": "24 91787357459"
+      "id": "24 91787364704"
     },
     {
       "title": "“Pafajësia e Thaçit do ishte fitore për Kosovën”/ Hisen Berisha: Ka peshë të madhe politike me ato që ka bërë",
@@ -122,7 +144,7 @@
       "date": "2026-08-21T21:25:13+00:00",
       "dateStr": "21 Aug, 21:25",
       "isNew": true,
-      "id": "abc01787347513"
+      "id": "abc21787347513"
     },
     {
       "title": "Jill Biden flet për betejën e Joe me kancerin: Kam frikë, nuk mund ta imagjinoj jetën pa të",
@@ -133,7 +155,7 @@
       "date": "2026-08-21T21:02:13+00:00",
       "dateStr": "21 Aug, 21:02",
       "isNew": true,
-      "id": "abc11787346133"
+      "id": "abc31787346133"
     },
     {
       "title": "Nis edicioni i 88-të i Superligës, Vllaznia shpërdoron avantazhin e dy golave, Skënderbeu e barazon 2-2 në Shkodër",
@@ -177,7 +199,7 @@
       "date": "2026-08-21T20:23:03+00:00",
       "dateStr": "21 Aug, 20:23",
       "isNew": true,
-      "id": "abc21787343783"
+      "id": "abc41787343783"
     },
     {
       "title": "Dëshmia e turkut që largoi me makinë Sokrat Vatën pas krimit te hotel “Principotes”: U fut në bagazh, tha do fle gjumë. S’dija gjë për vrasjen",
@@ -199,7 +221,7 @@
       "date": "2026-08-21T20:15:21+00:00",
       "dateStr": "21 Aug, 20:15",
       "isNew": true,
-      "id": "abc31787343321"
+      "id": "abc51787343321"
     },
     {
       "title": "Me gishtat e fashuar, publikohet fotoja e Sokrat Vatës gjatë seancës për vrasjen e turistit portugez",
@@ -221,7 +243,7 @@
       "date": "2026-08-21T19:58:23+00:00",
       "dateStr": "21 Aug, 19:58",
       "isNew": true,
-      "id": "abc41787342303"
+      "id": "abc61787342303"
     },
     {
       "title": "Tetë vatra zjarri mbeten aktive në vend, nuk ka rrezik për banesat",
@@ -232,7 +254,7 @@
       "date": "2026-08-21T19:37:45+00:00",
       "dateStr": "21 Aug, 19:37",
       "isNew": true,
-      "id": "abc51787341065"
+      "id": "abc71787341065"
     },
     {
       "title": "U la në burg, zbardhet dëshmia e Sokrat Vatës për vrasjen e turistit në Ksamil: Jam penduar, nuk e kujtoj si e godita",
@@ -254,7 +276,7 @@
       "date": "2026-08-21T19:28:16+00:00",
       "dateStr": "21 Aug, 19:28",
       "isNew": true,
-      "id": "abc61787340496"
+      "id": "abc81787340496"
     },
     {
       "title": "Seanca maratonë zgjati 9 orë/ Gjykata e Sarandës shpall masën, lihet në burg vrasësi i turistit portugez në Ksamil dhe 4 të tjerë",
@@ -276,7 +298,7 @@
       "date": "2026-08-21T19:04:20+00:00",
       "dateStr": "21 Aug, 19:04",
       "isNew": true,
-      "id": "abc71787339060"
+      "id": "abc91787339060"
     },
     {
       "title": "Territorialja/ Poliçani i thotë ‘’jo’’ bashkimit me Beratin, Cërriku pret dëgjesat me komunitetin: Do të ketë shpopullim",
@@ -301,17 +323,6 @@
       "id": "she81787337700"
     },
     {
-      "title": "Operacion antidrogë në Korçë/ Kontrolle në disa banesa, arrestohet një person",
-      "link": "https://abcnews.al/operacion-antidroge-ne-korce-kontrolle-ne-disa-banesa-arrestohet-nje-person/",
-      "description": "Një operacion antidrogë është zhvilluar në Korçë mbrëmjen e së premtes. Sipas informacioneve, një operacion po zhvillohet nga policia e juglindjes për goditjen e personave të përfshirë në shitjen e narkotikëve. Deri më tani, mësohet se në pranga ka rënë një person. Gjatë kontrollit në mjet dhe në ba",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T18:36:48+00:00",
-      "dateStr": "21 Aug, 18:36",
-      "isNew": true,
-      "id": "abc81787337408"
-    },
-    {
       "title": "Mbi 100 forca tokësore dhe dy avionë luftojnë me flakët në Dukat, zjarri vendoset nën kontroll",
       "link": "https://shekulli.com.al/2026/08/21/mbi-100-forca-tokesore-dhe-dy-avione-luftojne-me-flaket-ne-dukat-zjarri-vendoset-nen-kontroll/",
       "description": "Ministri i Mbrojtjes, Ermal Nufi njoftoi sot se në Dukat (Vlorë) ka vijuar pa ndërprerje operacioni i Forcave të Armatosura për shuarjen dhe vënien nën kontroll të vatrave të zjarrit. Sipas tij, 70 efektivë të Forcës Tokësore, 29 efektivë të Komandës Mbështetëse, dy efektivë të Policisë Ushtarake dh",
@@ -321,17 +332,6 @@
       "dateStr": "21 Aug, 18:28",
       "isNew": true,
       "id": "she91787336896"
-    },
-    {
-      "title": "FIFA “masakron” Argjentinën/ Vendimet për dhunë në finalen e Botërorit, e pëson “i forti” Paredes",
-      "link": "https://abcnews.al/fifa-masakron-argjentinen-vendimet-per-dhune-ne-finalen-e-boterorit-e-peson-i-forti-paredes/",
-      "description": "Një muaj pas finales së Kupës së Botës mes Spanjës dhe Argjentinës dhe dhunës që pasoi ati, FIFA ka vendosur sanksione të rrepta ndaj lojtarëve të skuadrës “Albiceleste”. Lojtari argjentinas Leandro Pareres është pezulluar për dhjetë ndeshje dhe është gjobitur me 90,000 dollarë për sjellje të dhunsh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-21T18:15:38+00:00",
-      "dateStr": "21 Aug, 18:15",
-      "isNew": true,
-      "id": "abc91787336138"
     }
   ]
 }
