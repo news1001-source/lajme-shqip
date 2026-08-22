@@ -1,8 +1,173 @@
 {
-  "lastUpdated": "2026-08-22T20:16:27.602713+00:00",
+  "lastUpdated": "2026-08-22T21:16:18.933837+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Lojërat Mesdhetare: Shqipëria U21 barazon në debutim",
+      "link": "https://24-ore.com/lojerat-mesdhetare-shqiperia-u21-barazon-ne-debutim/",
+      "description": "Kombëtarja shqiptare Under 21 ka barazuar 1-1 përballë Italisë U21 në debutimin në Lojërat Mesdhetare, Taranto 2026. Marinaj kaloi në avantazh kuqezinjtë në fundin e pjesës së parë, por vendasit barazuan shifrat në pjesën e dytë. Ndonëse Italia ka pasur disa raste të mira për të shënuar, pjesa e par",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T21:12:47+00:00",
+      "dateStr": "22 Aug, 21:12",
+      "isNew": true,
+      "id": "24 01787433167"
+    },
+    {
+      "title": "Giants në avantazh 17-0 ndaj Dolphins në pjesën e dytë të ndeshjes paraprake në Miami",
+      "link": "https://24-ore.com/giants-ne-avantazh-17-0-ndaj-dolphins-ne-pjesen-e-dyte-te-ndeshjes-paraprake-ne-miami/",
+      "description": "Në ndeshjen paraprake të zhvilluar më 22 gusht 2026 në Miami, New York Giants po udhëheqin ndaj Miami Dolphins me rezultatin 17-0, ndërsa është ende në vaz...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T21:11:46+00:00",
+      "dateStr": "22 Aug, 21:11",
+      "isNew": true,
+      "id": "24 11787433106"
+    },
+    {
+      "title": "Marlins mposhtin Nationals 3-0 në ndeshjen e 22 gushtit 2026",
+      "link": "https://24-ore.com/marlins-mposhtin-nationals-3-0-ne-ndeshjen-e-22-gushtit-2026/",
+      "description": "Miami Marlins fituan 3-0 ndaj Washington Nationals më 22 gusht 2026, duke vendosur dy gola në pjesën e parë dhe një të dytën që siguruan fitoren. Pas këtij...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T21:05:41+00:00",
+      "dateStr": "22 Aug, 21:05",
+      "isNew": true,
+      "id": "24 21787432741"
+    },
+    {
+      "title": "Rrëzohet bllokimi i vizave në SHBA/ DASH bllokoi shtetasit e 75 vendeve, përfshirë nga Shqipëria, Kosova e RMV",
+      "link": "https://abcnews.al/rrezohet-bllokimi-i-vizave-ne-shba-dash-bllokoi-shtetasit-e-75-vendeve-perfshire-nga-shqiperia-kosova-e-rmv/",
+      "description": "Një gjykatë federale në Shtetet e Bashkuara ka rrëzuar vendimin e qeverisë amerikane për bllokimin e vizave për shtetasit e 75 shteteve, mes tyre Shqipëria, Kosova dhe Maqedonia e Veriut. Vendimi erdhi pas një padie të ngritur nga organizata për të drejtat e emigrantëve së bashku me aplikantë për vi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T21:04:09+00:00",
+      "dateStr": "22 Aug, 21:04",
+      "isNew": true,
+      "id": "abc01787432649"
+    },
+    {
+      "title": "Punëtorë nga Azia në Kosovë, të rinjtë tanë drejt Evropës – ku po dështon tregu i punës?",
+      "link": "https://24-ore.com/punetore-nga-azia-ne-kosove-te-rinjte-tane-drejt-evropes-ku-po-deshton-tregu-i-punes/",
+      "description": "Punëtorët e huaj po bëhen gjithnjë e më të pranishëm në tregun e punës në Kosovë, në kohën kur një pjesë e madhe e të rinjve kosovarë po e shohin jashtë vendit perspektivën për punë dhe jetë më të mirë. Sipas të dhënave të Ministrisë së Punëve të Brendshme të Kosovës, vetëm gjatë qershorit janë [&#8",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T21:03:00+00:00",
+      "dateStr": "22 Aug, 21:03",
+      "isNew": true,
+      "id": "24 31787432580"
+    },
+    {
+      "title": "Harry Styles dhe Zoë Kravitz veshin të kuruar gjatë udhëtimit në Nju Jork",
+      "link": "https://24-ore.com/harry-styles-dhe-zoe-kravitz-veshin-te-kuruar-gjate-udhetimit-ne-nju-jork/",
+      "description": "Të premten, më 21 gusht, Harry Styles dhe Zoë Kravitz mbërritën në Aeroportin Ndërkombëtar John F. Kennedy të Nju Jorkut, pak para nisjes së residencës së...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T21:00:59+00:00",
+      "dateStr": "22 Aug, 21:00",
+      "isNew": true,
+      "id": "24 41787432459"
+    },
+    {
+      "title": "Axios: 40 cisterna që transportonin 16 milionë fuçi naftë të papërpunuar kaluan nëpër Ngushticën e Hormuzit gjatë natës",
+      "link": "https://shekulli.com.al/2026/08/22/axios-40-cisterna-qe-transportonin-16-milione-fuci-nafte-te-paperpunuar-kaluan-neper-ngushticen-e-hormuzit-gjate-nates/",
+      "description": "Rreth 40 cisterna nafte kanë kaluar gjatë natës përmes Ngushticës së Hormuzit, duke përdorur kanalin jugor të ujërave të thella pranë brigjeve të Omanit, në një zhvillim që sinjalizon rritje të ndjeshme të trafikut detar në këtë korridor strategjik. Lajmi është raportuar nga gazetari i Axios, Barak ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T20:55:32+00:00",
+      "dateStr": "22 Aug, 20:55",
+      "isNew": true,
+      "id": "she01787432132"
+    },
+    {
+      "title": "Të shtëna me armë në Pukë, kultivuesit zbulojnë policinë pranë parcelës me kanabis dhe hapin zjarr, FNSH niset drejt zo",
+      "link": "https://24-ore.com/te-shtena-me-arme-ne-puke-kultivuesit-zbulojne-policine-prane-parceles-me-kanabis-dhe-hapin-zjarr-fnsh-niset-drejt-zo/",
+      "description": "Të shtëna me armë zjarri janë regjistruar mbrëmjen e kësaj të shtune në Pukë, në zonën e njohur si “Hamalla e Dedës”, pranë fshatit Qafë T’Mugu, në Qelëz. Sipas burimeve policore, në këtë zonë po monitorohej një parcelë e dyshuar me kanabis nga një skuadër policie. Dyshohet se efektivët janë pikasur",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T20:33:59+00:00",
+      "dateStr": "22 Aug, 20:33",
+      "isNew": true,
+      "id": "24 51787430839"
+    },
+    {
+      "title": "Kontroll në parcelat me drogë në Pukë/ Policia qëllon në ajër, i armatosuri arrin të arratiset",
+      "link": "https://abcnews.al/kontroll-ne-parcelat-me-droge-ne-puke-policia-qellon-ne-ajer-i-armatosuri-arrin-te-arratiset/",
+      "description": "Një person i armatosur ka mundur t’u shpëtojë shërbimeve të Policisë gjatë një kontrolli në një parcelë ku dyshohej se ishin kultivuar bimë narkotike, në fshatin Kodërbojë të Pukës. Sipas informacionit paraprak të Policisë, gjatë kontrollit të parcelës, efektivët kanë konstatuar një person të armato",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T20:31:40+00:00",
+      "dateStr": "22 Aug, 20:31",
+      "isNew": true,
+      "id": "abc11787430700"
+    },
+    {
+      "title": "Andy Pages dëmtohet në dorën e majtë pas goditjes me top; Dodgers shpresojnë rikthim brenda katër-pesë javësh",
+      "link": "https://24-ore.com/andy-pages-demtohet-ne-doren-e-majte-pas-goditjes-me-top-dodgers-shpresojne-rikthim-brenda-kater-pese-javesh/",
+      "description": "Pas fitores 5-4 kundër Pittsburgh Pirates, Los Angeles Dodgers njoftuan se Andy Pages pësoi një frakturë në pjesën e pasme të dorës së majtë pas një goditj...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T20:22:28+00:00",
+      "dateStr": "22 Aug, 20:22",
+      "isNew": true,
+      "id": "24 61787430148"
+    },
+    {
+      "title": "Një ndeshje nderimi ‘Zee’s Final Shift’ rikthen Zdeno Charën në akull",
+      "link": "https://24-ore.com/nje-ndeshje-nderimi-zees-final-shift-rikthen-zdeno-charen-ne-akull/",
+      "description": "Në stadiumin e akullit Pavol Demitra në Trenčín, Sllovaki, u zhvillua ndeshja nderuese \"Zee's Final Shift\", ku Zdeno Chara u përshëndet simbolikisht nga ba...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T20:21:03+00:00",
+      "dateStr": "22 Aug, 20:21",
+      "isNew": true,
+      "id": "24 71787430063"
+    },
+    {
+      "title": "Vatikani investon 100 milionë euro për energji të gjelbër",
+      "link": "https://24-ore.com/vatikani-investon-100-milione-euro-per-energji-te-gjelber/",
+      "description": "Vatikani do të ndërtojë një termocentral me energji të rinovueshme me vlerë rreth 100 milionë euro që mund të furnizojë me energji Selinë e Shenjtë brenda dy viteve nëpërmjet një sistemi që kombinon energjinë diellore dhe bujqësinë. Burime thanë për Reuters se ferma agrovoltaike pritet të ketë një k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T20:18:51+00:00",
+      "dateStr": "22 Aug, 20:18",
+      "isNew": true,
+      "id": "24 81787429931"
+    },
+    {
+      "title": "“Për mua, vetëm ti ke rëndësi”, letrat intime të asistentes së Trumpit ndezin polemika në Shtëpinë e Bardhë",
+      "link": "https://24-ore.com/per-mua-vetem-ti-ke-rendesi-letrat-intime-te-asistentes-se-trumpit-ndezin-polemika-ne-shtepine-e-bardhe/",
+      "description": "Një seri letrash personale të asistentes së Donald Trumpit, Natalie Harp, drejtuar presidentit amerikan kanë shkaktuar debate në Shtëpinë e Bardhë, për shkak të tonit tepër intim dhe emocional që përdoret në korrespondencë. Në letrat e saj, Harp i drejtohet Trumpit me shprehje si “Për mua, vetëm ti ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T20:18:34+00:00",
+      "dateStr": "22 Aug, 20:18",
+      "isNew": true,
+      "id": "24 91787429914"
+    },
+    {
+      "title": "Irani: Jemi gati për një luftë të zgjatur, prodhimi i armëve u trefishua",
+      "link": "https://abcnews.al/irani-jemi-gati-per-nje-lufte-te-zgjatur-prodhimi-i-armeve-u-trefishua/",
+      "description": "Zëdhënësi i Ministrisë së Mbrojtjes së Iranit, Reza Talaei-Nik, deklaroi se Irani është i përgatitur për një luftë të zgjatur me SHBA dhe Izraelin, teksa theksoi se prodhimi i armëve nga Teherani është trefishuar gjatë luftës së fundit 40 ditore. &#8220;Irani është më i përgatitur se kundërshtarët e",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T20:18:24+00:00",
+      "dateStr": "22 Aug, 20:18",
+      "isNew": true,
+      "id": "abc21787429904"
+    },
+    {
+      "title": "Operacion antikanabis në Pukë/ Policia qëllon me armë zjarri në ajër, kultivuesi i armatosur ia mbath ‘nga sytë këmbët’",
+      "link": "https://shekulli.com.al/2026/08/22/te-shtena-me-arme-zjarri-ne-puke/",
+      "description": "Një person i armatosur ka mundur t’i largohet këtë mbrëmje Policisë gjatë kontrollit të një parcele ku dyshohet se ishin kultivuar bimë narkotike, në fshatin Kodërbojë të Pukës. Sipas Policisë, gjatë kontrollit të parcelës, shërbimet kanë konstatuar një person të armatosur. Sapo ka vënë re efektivët",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T20:16:31+00:00",
+      "dateStr": "22 Aug, 20:16",
+      "isNew": true,
+      "id": "she11787429791"
+    },
     {
       "title": "Zjarri përfshin Malin e Çikës, flakët afrohen drejt Dhërmiut",
       "link": "https://shekulli.com.al/2026/08/22/zjarri-perfshin-malin-e-cikes-flaket-afrohen-drejt-dhermiut-dhe-palases/",
@@ -12,40 +177,7 @@
       "date": "2026-08-22T20:12:35+00:00",
       "dateStr": "22 Aug, 20:12",
       "isNew": true,
-      "id": "she01787429555"
-    },
-    {
-      "title": "Sinani reagon pas vizitës së Vuçiqit në Preshevë: Shqiptarët mos i trajtoni si qytetarë të dorës së dytë",
-      "link": "https://24-ore.com/sinani-reagon-pas-vizites-se-vuciqit-ne-presheve-shqiptaret-mos-i-trajtoni-si-qytetare-te-dores-se-dyte/",
-      "description": "Kryetarja e Preshevës, Ardita Sinani, ka reaguar pas vizitës së presidentit të Serbisë, Aleksandar Vuçiq, në këtë komunë, duke kërkuar trajtim të barabartë për të gjithë qytetarët. Sinani ka thënë se Presheva nuk duhet të trajtohet vetëm si një vend që vizitohet kur institucionet qendrore kanë nevoj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T19:57:50+00:00",
-      "dateStr": "22 Aug, 19:57",
-      "isNew": true,
-      "id": "24 01787428670"
-    },
-    {
-      "title": "Ballkani shënon fitoren e parë, Vushtrria mbetet pa pikë",
-      "link": "https://24-ore.com/ballkani-shenon-fitoren-e-pare-vushtrria-mbetet-pa-pike/",
-      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor August 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T19:48:41+00:00",
-      "dateStr": "22 Aug, 19:48",
-      "isNew": true,
-      "id": "24 11787428121"
-    },
-    {
-      "title": "Dukagjini mposht Feronikelin 74 nën dritën e reflektorëve",
-      "link": "https://24-ore.com/dukagjini-mposht-feronikelin-74-nen-driten-e-reflektoreve/",
-      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor August 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T19:48:22+00:00",
-      "dateStr": "22 Aug, 19:48",
-      "isNew": true,
-      "id": "24 21787428102"
+      "id": "she21787429555"
     },
     {
       "title": "Melania Trump thyen heshtjen pas javësh mungesë në daljet publike",
@@ -56,7 +188,7 @@
       "date": "2026-08-22T19:43:26+00:00",
       "dateStr": "22 Aug, 19:43",
       "isNew": true,
-      "id": "abc01787427806"
+      "id": "abc31787427806"
     },
     {
       "title": "PAMJE TË RËNDA/ Sherr mes dy vajzave shqiptare, 18-vjeçarja godet me grushta një 12-vjeçare (VIDEO)",
@@ -67,29 +199,7 @@
       "date": "2026-08-22T19:42:58+00:00",
       "dateStr": "22 Aug, 19:42",
       "isNew": true,
-      "id": "she11787427778"
-    },
-    {
-      "title": "Krasniqi: Buxheti për komunat është rritur 66%, Asociacioni të jetë zë i 38 komunave",
-      "link": "https://24-ore.com/krasniqi-buxheti-per-komunat-eshte-rritur-66-asociacioni-te-jete-ze-i-38-komunave/",
-      "description": "Ministri i Pushtetit Lokal, Elbert Krasniqi, ka reaguar ndaj deklarimeve të kryetarit të Asociacionit të Komunave të Kosovës, Sazan Ibrahimi gjatë një interviste në Telegrafi, lidhur me financimin e komunave. Krasniqi ka thënë se akuzat ndaj Qeverisë për financat e komunave nuk qëndrojnë, duke argum",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T19:32:54+00:00",
-      "dateStr": "22 Aug, 19:32",
-      "isNew": true,
-      "id": "24 31787427174"
-    },
-    {
-      "title": "Çfarë mësuam nga ndeshjet e shtunë në javën e dytë të presezonit NFL 2026",
-      "link": "https://24-ore.com/cfare-mesuam-nga-ndeshjet-e-shtune-ne-javen-e-dyte-te-presezonit-nfl-2026/",
-      "description": "Detroit Lions fituan 17-13 ndaj Washington Commanders në një përballje të presezonit që la më shumë pyetje për të ardhmen sesa përgjigje. Ndeshja shërbeu k...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T19:31:59+00:00",
-      "dateStr": "22 Aug, 19:31",
-      "isNew": true,
-      "id": "24 41787427119"
+      "id": "she31787427778"
     },
     {
       "title": "84 ditë qëndresë përpara kryeministrisë, protestuesit: Duam dorëheqjen e Ramës dhe qeveri tranzitore jopartiake",
@@ -100,7 +210,7 @@
       "date": "2026-08-22T19:30:26+00:00",
       "dateStr": "22 Aug, 19:30",
       "isNew": true,
-      "id": "she21787427026"
+      "id": "she41787427026"
     },
     {
       "title": "Putin: Sulmet ruse në rritje ndaj Ukrainës kanë rezultuar efektive",
@@ -111,40 +221,7 @@
       "date": "2026-08-22T19:21:52+00:00",
       "dateStr": "22 Aug, 19:21",
       "isNew": true,
-      "id": "abc11787426512"
-    },
-    {
-      "title": "Zbulohen dy biznese ‘mjedisore’ të dhëndrit të Berishës, shfaqet sërish Studio Pustina, si përfitonte para Mal",
-      "link": "https://24-ore.com/zbulohen-dy-biznese-mjedisore-te-dhendrit-te-berishes-shfaqet-serish-studio-pustina-si-perfitonte-para-mal/",
-      "description": "Nga Adriatik Doçi Dhëndri zëhollë i Sali Berishës, Jamarbër Malltezi, i pandehur për korrupsion dhe pastrim parash, krahas kompanive të sekustruara me kërkesë të SPAK për pastrim parash, ka hapur edhe dy biznese për ‘kauza mjedisore’, duke ngritur dyshime për një tjetër skemë përfitimi në emër të mb",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T19:19:19+00:00",
-      "dateStr": "22 Aug, 19:19",
-      "isNew": true,
-      "id": "24 51787426359"
-    },
-    {
-      "title": "Ukraina dhe Gjermania diskutojnë prodhimin dhe investimet e përbashkëta në mbrojtje",
-      "link": "https://24-ore.com/ukraina-dhe-gjermania-diskutojne-prodhimin-dhe-investimet-e-perbashketa-ne-mbrojtje/",
-      "description": "Ministri i Jashtëm i Ukrainës ka pritur sot homologun e tij gjerman dhe tha se vizita e tij vjen në një “moment të rëndësishëm”. Andrii Sybiha tha se e informoi Johann Wadephul mbi situatën në fushën e betejës dhe pasojat e sulmeve të fundit të Rusisë. “Ne diskutuam përpjekjet e vazhdueshme për paqe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T19:17:51+00:00",
-      "dateStr": "22 Aug, 19:17",
-      "isNew": true,
-      "id": "24 61787426271"
-    },
-    {
-      "title": "Futbollisti 25-vjeçar rrëzohet pa ndjenja gjatë ndeshjes, ndërron jetë në spital",
-      "link": "https://24-ore.com/futbollisti-25-vjecar-rrezohet-pa-ndjenja-gjate-ndeshjes-nderron-jete-ne-spital/",
-      "description": "Futbollisti portugez, 25-vjeçari Quevin Castro humbi jetën pasi u rrëzua pa ndjenja gjatë një ndeshjeje miqësore. Futbollisti i Real Sport Clube u ndje keq vetëm 10 minuta pas nisjes së takimit ndaj Estrela da Amadora, të zhvilluar të shtunën në stadiumin “Estádio das Seixas”, në Malveira. Castro u ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T19:16:51+00:00",
-      "dateStr": "22 Aug, 19:16",
-      "isNew": true,
-      "id": "24 71787426211"
+      "id": "abc41787426512"
     },
     {
       "title": "Aksident me motor në Pyllin e Sodës, plagoset një person, dërgohet në spital",
@@ -155,7 +232,7 @@
       "date": "2026-08-22T19:07:43+00:00",
       "dateStr": "22 Aug, 19:07",
       "isNew": true,
-      "id": "she31787425663"
+      "id": "she51787425663"
     },
     {
       "title": "Irani ndryshon doktrinën ushtarake: Nga mbrojtëse në sulmuese, shpërblime për kapjen e trupave amerikane",
@@ -166,7 +243,7 @@
       "date": "2026-08-22T19:03:49+00:00",
       "dateStr": "22 Aug, 19:03",
       "isNew": true,
-      "id": "abc21787425429"
+      "id": "abc51787425429"
     },
     {
       "title": "Jo vetëm për aeroportin e Vlorës, Pacolli dhe Valon Lluka përleshen edhe në gjykatat e Abu Dhabit, akuza për vjedhje",
@@ -177,18 +254,7 @@
       "date": "2026-08-22T18:58:26+00:00",
       "dateStr": "22 Aug, 18:58",
       "isNew": true,
-      "id": "she41787425106"
-    },
-    {
-      "title": "Detroit Lions mundin Washington Commanders 17-13 në miqësoren e 22 gushtit 2026",
-      "link": "https://24-ore.com/detroit-lions-mundin-washington-commanders-17-13-ne-miqesoren-e-22-gushtit-2026/",
-      "description": "Detroit Lions fituan ndeshjen miqësore kundër Washington Commanders me rezultatin 17-13, pas një serie ngjarjesh vendimtare në pjesën përfundimtare të taki...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T18:56:51+00:00",
-      "dateStr": "22 Aug, 18:56",
-      "isNew": true,
-      "id": "24 81787425011"
+      "id": "she61787425106"
     },
     {
       "title": "Serie A/ Interi e nis aty ku e la, kampionët mposhtin Monzën 4-1",
@@ -199,18 +265,7 @@
       "date": "2026-08-22T18:52:28+00:00",
       "dateStr": "22 Aug, 18:52",
       "isNew": true,
-      "id": "she51787424748"
-    },
-    {
-      "title": "Lojërat Mesdhetare: Mundja, shans për medalje në “Taranto 2026”",
-      "link": "https://24-ore.com/lojerat-mesdhetare-mundja-shans-per-medalje-ne-taranto-2026/",
-      "description": "Ardit Zeneli është i pari që i jep Shqipërisë shansin për medalje në Lojërat Mesdhetare “Taranto 2026”. Pikërisht në mundje, në peshën deri në 67 kilogram, Zeneli të dielën do të jetë në garë për medaljen e bronztë, teksa do të jetë përballë grekut Ntunias. Më parë në 1/8 e finaleve, Zeneli mundi it",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T18:47:48+00:00",
-      "dateStr": "22 Aug, 18:47",
-      "isNew": true,
-      "id": "24 91787424468"
+      "id": "she71787424748"
     },
     {
       "title": "Piratët rrëmbejnë një cisternë të lidhur me Iranin",
@@ -221,7 +276,7 @@
       "date": "2026-08-22T18:35:13+00:00",
       "dateStr": "22 Aug, 18:35",
       "isNew": true,
-      "id": "abc31787423713"
+      "id": "abc61787423713"
     },
     {
       "title": "IKMT e bllokoi, por treni i “Syrit të Kaltër” punon sërish. Zhupa: Kush urdhëroi moszbatimin e masës?",
@@ -232,7 +287,7 @@
       "date": "2026-08-22T18:31:53+00:00",
       "dateStr": "22 Aug, 18:31",
       "isNew": true,
-      "id": "she61787423513"
+      "id": "she81787423513"
     },
     {
       "title": "Edicioni Qendror me Emilian Islami, (22/08/2026)",
@@ -243,7 +298,7 @@
       "date": "2026-08-22T18:19:35+00:00",
       "dateStr": "22 Aug, 18:19",
       "isNew": true,
-      "id": "abc41787422775"
+      "id": "abc71787422775"
     },
     {
       "title": "Albin Kurti paralajmëron hapjen e plotë të urës mbi Ibër: Është absurde të vazhdojë të jetë e mbyllur",
@@ -254,7 +309,7 @@
       "date": "2026-08-22T18:13:54+00:00",
       "dateStr": "22 Aug, 18:13",
       "isNew": true,
-      "id": "she71787422434"
+      "id": "she91787422434"
     },
     {
       "title": "Shirat e rrëmbyeshëm godasin Spanjën, 7 të plagosur dhe 300 të evakuuar",
@@ -265,29 +320,7 @@
       "date": "2026-08-22T18:06:02+00:00",
       "dateStr": "22 Aug, 18:06",
       "isNew": true,
-      "id": "abc51787421962"
-    },
-    {
-      "title": "Celibashi: Reforma territoriale duhet të miratohet në kohë, zgjedhjet e 2027 rrezikojnë përgatitjet",
-      "link": "https://shekulli.com.al/2026/08/22/celibashi-reforma-territoriale-duhet-te-miratohet-me-kohe-zgjedhjet-e-2027-rrezikojne-pergatitjet/",
-      "description": "Reforma e re administrative-territoriale pritet të ndikojë drejtpërdrejt në organizimin e zgjedhjeve vendore të vitit 2027, ndërsa Komisioni Qendror i Zgjedhjeve kërkon qartësi dhe kohë të mjaftueshme për përgatitjen e procesit. Kreu i KQZ-së, Ilirjan Celibashi, ka paralajmëruar se ndryshimi i hartë",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T17:54:22+00:00",
-      "dateStr": "22 Aug, 17:54",
-      "isNew": true,
-      "id": "she81787421262"
-    },
-    {
-      "title": "Përdhunoi 22-vjeçaren greke në plazhin e shkretë në Halkidiki, bariu shqiptar prangoset pas katër vitesh në Malin e Zi",
-      "link": "https://shekulli.com.al/2026/08/22/perdhunoi-vajzen-greke-ne-plazhin-e-shkrete-bariu-shqiptar-prangoset-pas-kater-vitesh-ne-malin-e-zi/",
-      "description": "Pas katër vitesh nga një sulm seksual i ndodhur në Halkidiki të Greqisë, autoritetet kanë arrestuar personin e dyshuar për përdhunimin e një 26-vjeçareje në një plazh të izoluar në Kassandra. Sipas mediave greke, i dyshuari është një shtetas shqiptar 52-vjeçar, i cili u arrestua të mërkurën e kaluar",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T17:38:32+00:00",
-      "dateStr": "22 Aug, 17:38",
-      "isNew": true,
-      "id": "she91787420312"
+      "id": "abc81787421962"
     },
     {
       "title": "Rama mbledh qeverinë në Pogradec/ Artur Nura: Do ketë ndryshime në kabinet, përfliten 6 ministra",
@@ -298,40 +331,7 @@
       "date": "2026-08-22T17:35:24+00:00",
       "dateStr": "22 Aug, 17:35",
       "isNew": true,
-      "id": "abc61787420124"
-    },
-    {
-      "title": "Rambo sfidon Kurtin: Thaçi president! Nura: Zgjedhja formale e tij do sillte stabilitet në Kosovë. Haga e ka humbur moralin politik",
-      "link": "https://abcnews.al/rambo-sfidon-kurtin-thaci-president-nura-zgjedhja-formale-e-tij-do-sillte-stabilitet-ne-kosove-haga-e-ka-humbur-moralin-politik/",
-      "description": "Hashim Thaçi për president. Ky është propozimi i ish-kreut të Aleancës, Ramush Haradinaj, ndërsa Albin Kurti vazhdon ta mbajë Kosovën në krizë prej një viti e gjysmë, me zgjedhje të njëpasnjëshme, por pa institucionet kryesore të shtetit. Gazetari dhe analisti Artur Nura thotë se zgjedhja formale e ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T17:24:16+00:00",
-      "dateStr": "22 Aug, 17:24",
-      "isNew": true,
-      "id": "abc71787419456"
-    },
-    {
-      "title": "Vendimi për shqiptarët e trafikuar/ Autoritetet britanike nuk mund të deportojnë automatikisht meshkujt",
-      "link": "https://abcnews.al/vendimi-per-shqiptaret-e-trafikuar-autoritetet-britanike-nuk-mund-te-deportojne-automatikisht-meshkujt/",
-      "description": "Meshkujt shqiptarë që kanë qenë viktima të trafikimit në Britani nuk mund të deportohen automatikisht në Shqipëri. Ky është vendimi i fundit i drejtësisë britanike, e cila ka udhëzuar autoritetet që, përpara kthimit të tyre, të vlerësojnë nëse ekziston rrezik real për jetën dhe sigurinë e tyre. Gjyk",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T17:12:36+00:00",
-      "dateStr": "22 Aug, 17:12",
-      "isNew": true,
-      "id": "abc81787418756"
-    },
-    {
-      "title": "“Shpëtoni Sazanin”, por nuk shkuan në ishull/ Aktivistët e Gazës zbulojnë misionin: Me revolucionin në Tiranë!",
-      "link": "https://abcnews.al/shpetoni-sazanin-por-nuk-shkuan-ne-ishull-aktivistet-e-gazes-zbulojne-misionin-me-revolucionin-ne-tirane/",
-      "description": "Një grup aktivistësh në mbështetje të Gazës, që kishin njoftuar ardhjen në Shqipëri për të vizituar Sazanin, në një mision për mbrojtjen e ishullit, e zbuluan shpejt qëllimin e tyre të vërtetë. Menjëherë pas mbërritjes në portin e Vlorës, grupi u prit nga zyrtarë të turizmit, zëvendësministrja Marin",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T17:08:38+00:00",
-      "dateStr": "22 Aug, 17:08",
-      "isNew": true,
-      "id": "abc91787418518"
+      "id": "abc91787420124"
     }
   ]
 }
