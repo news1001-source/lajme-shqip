@@ -1,29 +1,183 @@
 {
-  "lastUpdated": "2026-08-22T14:15:54.984422+00:00",
+  "lastUpdated": "2026-08-22T15:15:22.091630+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Astrologjia zbulon shenjat që e vështirësojnë vetë lumturinë, nga dyshimet te pavendosmëria",
-      "link": "https://24-ore.com/astrologjia-zbulon-shenjat-qe-e-veshtiresojne-vete-lumturine-nga-dyshimet-te-pavendosmeria/",
-      "description": "Sipas astrologjisë, disa shenja të zodiakut kanë tendencë ta sabotojnë vetë lumturinë e tyre. Por mes tyre, Virgjëresha veçohet për një arsye: prirjen për të analizuar gjithçka dhe për të kërkuar probleme edhe kur gjërat shkojnë mirë. Kur përballet me një histori të bukur dashurie, një punë që e ka ",
+      "title": "ChatGPT sjell reklamat në Evropë nga e hëna",
+      "link": "https://24-ore.com/chatgpt-sjell-reklamat-ne-evrope-nga-e-hena/",
+      "description": "Nga 24 gushti, miliona përdorues të ChatGPT në 31 vende evropiane do të fillojnë të shohin reklama brenda bisedave me chatbot-in. Reklamat do të shfaqen vetëm në planet Free dhe Go, ndërsa abonentët e Plus, Pro dhe Enterprise do të vazhdojnë ta përdorin ChatGPT pa reklama. OpenAI thotë se reklamat d",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-22T14:02:37+00:00",
-      "dateStr": "22 Aug, 14:02",
+      "date": "2026-08-22T15:12:30+00:00",
+      "dateStr": "22 Aug, 15:12",
       "isNew": true,
-      "id": "24 01787407357"
+      "id": "24 01787411550"
     },
     {
-      "title": "DPHM: Prej nesër do të ketë temperatura më të ulëta",
-      "link": "https://24-ore.com/dphm-prej-neser-do-te-kete-temperatura-me-te-uleta/",
-      "description": "DPHM informon se prej nesër temperatura e ditës do të bie për disa gradë. Në orët e pasdites, siç bën të ditur, do të ketë paqëndrueshmëri lokale me shi të rrëmbyeshëm, bubullima dhe erë të fuqishme, ndërsa në disa vende do të ketë kushte për mot të ligë me erë të fuqishme dhe paraqitje të [&#8230;]",
+      "title": "Rafael Devers: Jam më i pjekur që nga transferimi te Red Sox dhe flas për rikthimin në Fenway me Giants",
+      "link": "https://24-ore.com/rafael-devers-jam-me-i-pjekur-qe-nga-transferimi-te-red-sox-dhe-flas-per-rikthimin-ne-fenway-me-giants/",
+      "description": "Rafael Devers tha se ndihet më i pjekur që nga prishja e marrëdhënies me Boston Red Sox dhe kalimi i tij te San Francisco Giants, ndërsa u përball me emoci...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-22T14:02:26+00:00",
-      "dateStr": "22 Aug, 14:02",
+      "date": "2026-08-22T15:12:25+00:00",
+      "dateStr": "22 Aug, 15:12",
       "isNew": true,
-      "id": "24 11787407346"
+      "id": "24 11787411545"
+    },
+    {
+      "title": "Pas Tabanocit, arkëtimi i gjobave nga “Safe City” për automjetet e huaja nis së shpejti edhe në Bllacë",
+      "link": "https://24-ore.com/pas-tabanocit-arketimi-i-gjobave-nga-safe-city-per-automjetet-e-huaja-nis-se-shpejti-edhe-ne-bllace/",
+      "description": "Sistemi për pagesën e gjobave të detektuara automatikisht nga sistemi “Safe City” e që kanë të bëjnë me shtetasit e huaj filloi të zbatohet në vendkalimin kufitar në Tabanoc. Mirëpo, është vetëm çështje ditësh kur e njëjta do të fillojë të aplikohet edhe në vendkalimet tjera kufitare, përfshirë edhe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T15:07:30+00:00",
+      "dateStr": "22 Aug, 15:07",
+      "isNew": true,
+      "id": "24 21787411250"
+    },
+    {
+      "title": "Moti i keq godet Poloninë, stuhi të fuqishme dhe përmbytje në disa zona",
+      "link": "https://abcnews.al/moti-i-keq-godet-polonine-stuhi-te-fuqishme-dhe-permbytje-ne-disa-zona/",
+      "description": "Stuhi, reshje të dendura shiu dhe erëra të forta kanë përfshirë disa pjesë të Polonisë, duke shkaktuar përmbytje, rrëzime pemësh, dëmtime dhe ndërprerje të energjisë elektrike. Shërbimi Shtetëror i Zjarrfikësve ka kryer më shumë se 4 mijë ndërhyrje që nga mesnata, kryesisht për largimin e pemëve të ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T15:00:44+00:00",
+      "dateStr": "22 Aug, 15:00",
+      "isNew": true,
+      "id": "abc01787410844"
+    },
+    {
+      "title": "TEL AVIV – Ish-kryeministri izraelit Bennett: Izraeli ka “humbur SHBA-në dhe botën”",
+      "link": "https://24-ore.com/tel-aviv-ish-kryeministri-izraelit-bennett-izraeli-ka-humbur-shba-ne-dhe-boten/",
+      "description": "TEL AVIV, 22 gusht /ATSH -AA/ – Ish-kryeministri izraelit, Naftali Bennett, ka deklaruar se Izraeli ka “humbur SHBA-në” dhe pjesën tjetër të botës, duke paralajmëruar se pozita ndërkombëtare e vendit ka arritur një nivel të ulët të paprecedentë Duke folur në Konferencën për Konceptin e Sigurisë së I",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T15:00:17+00:00",
+      "dateStr": "22 Aug, 15:00",
+      "isNew": true,
+      "id": "24 31787410817"
+    },
+    {
+      "title": "Liderët e Luginës në Tiranë, diskutojnë për hapjen e Konsullatës së Shqipërisë në Bujanoc",
+      "link": "https://24-ore.com/lideret-e-lugines-ne-tirane-diskutojne-per-hapjen-e-konsullates-se-shqiperise-ne-bujanoc/",
+      "description": "Kryetarja e Preshevës, Ardita Sinani, kryetari i Bujanocit, Arbër Pajaziti, deputeti shqiptar në Kuvendin e Serbisë, Shaip Kamberi, dhe kryetari i Këshillit Kombëtar Shqiptar, Enkel Rexhepi, kanë zhvilluar takim në Tiranë me ministrin për Evropën dhe Punët e Jashtme të Shqipërisë, Ferit Hoxha. Në fo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T14:57:37+00:00",
+      "dateStr": "22 Aug, 14:57",
+      "isNew": true,
+      "id": "24 41787410657"
+    },
+    {
+      "title": "“Ku e ke makinën, më ço në spital”, Sokrat Vata i kërkoi ndihmë DJ-it, pastaj ia mbathi zbathur në mes të rrugës",
+      "link": "https://shekulli.com.al/2026/08/22/ku-e-ke-makinen-me-co-ne-spital-sokrat-vata-i-kerkoi-ndihme-dj-it-pastaj-ia-mbathi-zbathur-ne-mes-te-rruges/",
+      "description": "Detaje të reja janë zbardhur nga dosja hetimore për vrasjen e 20-vjeçarit portugez në Ksamil, ku i dyshuar si autor është Sokrat Vata. Sipas dëshmisë së DJ-it të një prej lokaleve të zonës, rreth orës 05:00, Vata është shfaqur i mbuluar në gjak dhe i ka kërkuar që ta çonte me makinë në spital. &#822",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T14:56:38+00:00",
+      "dateStr": "22 Aug, 14:56",
+      "isNew": true,
+      "id": "she01787410598"
+    },
+    {
+      "title": "6 vatra zjarri të ndezura qëllimisht, Lamallari: Drejtësia të shkojë deri në fund ndaj zjarrvënësve",
+      "link": "https://24-ore.com/6-vatra-zjarri-te-ndezura-qellimisht-lamallari-drejtesia-te-shkoje-deri-ne-fund-ndaj-zjarrvenesve/",
+      "description": "Ministri i Brendshëm, Besfort Lamallari, ka reaguar pas arrestimit në flagrancë të një 62-vjeçari në Mirditë, i dyshuar për zjarrvënie të qëllimshme. Lamallari tha se Policia e Shtetit po ndjek çdo rast të zjarrvënieve dhe kërkoi që drejtësia të zbatojë ligjin ndaj personave përgjegjës. “Drejtësia t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T14:48:14+00:00",
+      "dateStr": "22 Aug, 14:48",
+      "isNew": true,
+      "id": "24 51787410094"
+    },
+    {
+      "title": "U dëmtua gjatë aksionit për shuarjen e flakëve në Mirditë, punonjësi i FA përfundon te Trauma (EMRI)",
+      "link": "https://abcnews.al/u-demtua-gjate-aksionit-per-shuarjen-e-flakeve-ne-mirdite-punonjesi-i-fa-perfundon-te-trauma-emri/",
+      "description": "Një punonjës i Forcave të Armatosura ka përfunduar në Spitalin e Traumës pasi është dëmtuar gjatë aksionit për shuarjen e flakëve në Mirditë. Sipas burimeve paraprake i plagosur ka mbetur 28 vjeçari Andrea Kaçi, i cili ka marrë plagë në kokë dhe aktualisht po i nënshtrohet ekzaminimeve mjekësore në ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T14:38:16+00:00",
+      "dateStr": "22 Aug, 14:38",
+      "isNew": true,
+      "id": "abc11787409496"
+    },
+    {
+      "title": "Koci: Besoj se Hashim Thaçi do të lirohet, por është e parakohshme të flitet për President",
+      "link": "https://24-ore.com/koci-besoj-se-hashim-thaci-do-te-lirohet-por-eshte-e-parakohshme-te-flitet-per-president/",
+      "description": "Avokati Arianit Koci ka shprehur besimin se ish-presidenti i Kosovës, Hashim Thaçi, do të lirohet, por ka vlerësuar se diskutimi për rikthimin e tij në postin e presidentit është i parakohshëm. Përmes një reagimi në Facebook, Koci ka thënë se edhe një aktgjykim lirues në shkallën e parë nuk do të në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T14:37:36+00:00",
+      "dateStr": "22 Aug, 14:37",
+      "isNew": true,
+      "id": "24 61787409456"
+    },
+    {
+      "title": "Aksident tragjik në Durrës, babai i tre fëmijëve u la 4 orë në rrugë pas përplasjes (foto)",
+      "link": "https://shekulli.com.al/2026/08/22/aksident-tragjik-ne-durres-babai-i-tre-femijeve-u-la-4-ore-ne-rruge-pas-perplasjes-foto/",
+      "description": "Një aksident i rëndë ka ndodhur në orët e para të mëngjesit të së premtes në aksin Shkozet–Shijak, në Rrashbull, ku humbi jetën 41-vjeçari Vasil Hasani, babai i tre fëmijëve. Sipas raportimeve, Hasani po kthehej nga puna me biçikletë rreth orës 02:00, kur u përplas nga një automjet. Pas aksidentit, ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T14:37:29+00:00",
+      "dateStr": "22 Aug, 14:37",
+      "isNew": true,
+      "id": "she11787409449"
+    },
+    {
+      "title": "Zhgënjen Manchester United, Hull feston me fitore rikthimin në Premier League",
+      "link": "https://24-ore.com/zhgenjen-manchester-united-hull-feston-me-fitore-rikthimin-ne-premier-league/",
+      "description": "Hull City feston me fitore rikthimin në Premier League duke mposhtur 2-0 Manchester United në debutimin sezonal në kampionat. Për herë të parë në historinë e klubit, Hull arrin që të mposhtë Manchester United në elitën e futbollit anglez. Ajayi zhbllokoi rezultatin në minutën e 17-të, ndërsa Mendy e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T14:37:21+00:00",
+      "dateStr": "22 Aug, 14:37",
+      "isNew": true,
+      "id": "24 71787409441"
+    },
+    {
+      "title": "Trump: Irani nuk është gati për marrëveshjen e duhur",
+      "link": "https://abcnews.al/trump-irani-nuk-eshte-gati-per-marreveshjen-e-duhur/",
+      "description": "Presidenti amerikan Donald Trump ka deklaruar se nuk beson se Irani është ende i gatshëm të arrijë një marrëveshje që do t’i japë fund konfliktit, ndërsa Shtetet e Bashkuara po shqyrtojnë hapat e mëtejshëm. Trump tha gjithashtu se SHBA-ja ka “kontrollin e plotë” të zonës përreth Ngushticës së Hormuz",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T14:33:41+00:00",
+      "dateStr": "22 Aug, 14:33",
+      "isNew": true,
+      "id": "abc21787409221"
+    },
+    {
+      "title": "Erdhën për të “shpëtuar” Sazanin, por refuzuan ta vizitojnë, Rama ironizon delegacionin e Global Sumud Flotilla në Vlo",
+      "link": "https://24-ore.com/erdhen-per-te-shpetuar-sazanin-por-refuzuan-ta-vizitojne-rama-ironizon-delegacionin-e-global-sumud-flotilla-ne-vlo/",
+      "description": "Delegacioni i Global Sumud Flotilla ka mbërritur ditën e sotme në Portin e Vlorës, pasi kishin njoftuar në rrjetet sociale se do të ‘shpëtonin’ Sazanin. Por me të mbërritur në port, ata janë pritur nga zv.ministrja e Kulturës e Turizmit, Marinela Prifti dhe drejtoresha e Përgjithshme e Agjencisë Kom",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T14:32:58+00:00",
+      "dateStr": "22 Aug, 14:32",
+      "isNew": true,
+      "id": "24 81787409178"
+    },
+    {
+      "title": "Si renditen liderët e homerëve në çdo skuadër të MLB për 2026: nga të priturat te surprizat",
+      "link": "https://24-ore.com/si-renditen-lideret-e-homereve-ne-cdo-skuader-te-mlb-per-2026-nga-te-priturat-te-surprizat/",
+      "description": "Sezona 2026 e MLB solli rezultatet e pritshme për disa ekipe dhe befasi të mëdha për të tjera: emra të tillë si Kyle Schwarber dhe Shohei Ohtani vazhduan t...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T14:30:55+00:00",
+      "dateStr": "22 Aug, 14:30",
+      "isNew": true,
+      "id": "24 91787409055"
+    },
+    {
+      "title": "Begaj në San Marzano di San Giuseppe: Arbëreshët, ura e gjallë e miqësisë historike shqiptaro-italiane",
+      "link": "https://abcnews.al/begaj-ne-san-marzano-di-san-giuseppe-arbereshet-ura-e-gjalle-e-miqesise-historike-shqiptaro-italiane/",
+      "description": "Presidenti i Republikës, Bajram Begaj, zhvilloi një takim me komunitetin arbëresh në San Marzano di San Giuseppe, në provincën e Tarantos. Gjatë vizitës, Kreu i Shtetit u prit me nderime nga autoritetet drejtuese të institucioneve dhe banorët e San Marzanos. Fillimisht, Presidenti Begaj vendosi një ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T14:20:16+00:00",
+      "dateStr": "22 Aug, 14:20",
+      "isNew": true,
+      "id": "abc31787408416"
     },
     {
       "title": "NASA: 5 valë të nxehtit ekstrem/ Rreth 10 mijë vdekje në Europë nga temperaturat rekord",
@@ -34,7 +188,7 @@
       "date": "2026-08-22T14:00:59+00:00",
       "dateStr": "22 Aug, 14:00",
       "isNew": true,
-      "id": "abc01787407259"
+      "id": "abc41787407259"
     },
     {
       "title": "‘Tropicals’: Shqipëria është numër një e turizmit në Europë",
@@ -45,62 +199,7 @@
       "date": "2026-08-22T14:00:32+00:00",
       "dateStr": "22 Aug, 14:00",
       "isNew": true,
-      "id": "abc11787407232"
-    },
-    {
-      "title": "“Jeta është një ëndërr”, Anthony Hopkins publikon albumin e tij të dytë klasik",
-      "link": "https://24-ore.com/jeta-eshte-nje-enderr-anthony-hopkins-publikon-albumin-e-tij-te-dyte-klasik/",
-      "description": "LONDËR, 22 gusht, ATSH/ Sir Anthony Hopkins, një nga aktorët më të njohur të kinemasë botërore dhe fitues i dy çmimeve Oscar, ka publikuar albumin e tij të ri me muzikë klasike, “Life is a Dream”, në moshën 88-vjeçare. Albumi është një projekt tejet personal për Hopkins, i cili ka kompozuar muzikë g",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T14:00:15+00:00",
-      "dateStr": "22 Aug, 14:00",
-      "isNew": true,
-      "id": "24 21787407215"
-    },
-    {
-      "title": "Packers mundin Broncos 33-13 në miqësoren e para-sezonit; debutime të forta për Bo Nix e Jaylen Waddle",
-      "link": "https://24-ore.com/packers-mundin-broncos-33-13-ne-miqesoren-e-para-sezonit-debutime-te-forta-per-bo-nix-e-jaylen-waddle/",
-      "description": "Green Bay Packers fituan 33-13 ndaj Denver Broncos në miqësoren e para-sezonit më 21 gusht 2026. Packers shënuan 7, 16, 0 dhe 10 pikë përkatësisht në çerek...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T13:51:37+00:00",
-      "dateStr": "22 Aug, 13:51",
-      "isNew": true,
-      "id": "24 31787406697"
-    },
-    {
-      "title": "Kanabisi vinte nga Kanadaja i fshehur në makinë/ Goditet grupi në Durrës, sekuestrohet lënda me vlerë 1 milion euro",
-      "link": "https://24-ore.com/kanabisi-vinte-nga-kanadaja-i-fshehur-ne-makine-goditet-grupi-ne-durres-sekuestrohet-lenda-me-vlere-1-milion-euro/",
-      "description": "Policia e Durrësit ka goditur trafikun e 80 kilogramëve kanabis nga Kanadaja drejt Shqipërisë. Lënda narkotike është kapur në portin e Durrësit pasi u zbulua nga qentë e antidrogës. Në pranga kanë rënë 3 shqiptarë nga Kosova: Taulant Duraku, 32 vjeç, Luan Gashi 26 vjec dhe Besfort Jaka, 40 vjeç. 2 t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T13:48:27+00:00",
-      "dateStr": "22 Aug, 13:48",
-      "isNew": true,
-      "id": "24 41787406507"
-    },
-    {
-      "title": "Nga Kanadaja në Shqipëri e Kosovë- sekustrohen në Durrës rreth 80 kg kanabis e llojit “Gelato” – goditet rrjeti i trafikimit",
-      "link": "https://24-ore.com/nga-kanadaja-ne-shqiperi-e-kosove-sekustrohen-ne-durres-rreth-80-kg-kanabis-e-llojit-gelato-goditet-rrjeti-i-trafikimit/",
-      "description": "Policia e Shtetit ka publikuar pamje nga operacioni policor “Anchor”, në Durrës ku është goditur një rast i trafikimit të lëndës narkotike kanabis nga Kanadaja drejt Shqipërisë, e më pas edhe në Kosovë. Në njoftim bëhet e ditur se janë sekuestruar rreth 80 kg kanabis e llojit “Gelato”, me përmbajtje",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T13:47:13+00:00",
-      "dateStr": "22 Aug, 13:47",
-      "isNew": true,
-      "id": "24 51787406433"
-    },
-    {
-      "title": "Little League World Series 2026: Orari i ndeshjeve të së shtunës, informacioni për televizionin dhe parashikimet e tabelës",
-      "link": "https://24-ore.com/little-league-world-series-2026-orari-i-ndeshjeve-te-se-shtunes-informacioni-per-televizionin-dhe-parashikimet-e-tabeles/",
-      "description": "Turneu Little League World Series 2026 vazhdon të shtunën në Williamsport, pas një të premteje me gjashtë ndeshje të luajtura në Lamade dhe Volunteer Stadi...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T13:46:03+00:00",
-      "dateStr": "22 Aug, 13:46",
-      "isNew": true,
-      "id": "24 61787406363"
+      "id": "abc51787407232"
     },
     {
       "title": "Ndarja nga jeta e aktores Rezana Çeliku, mesazhi prekës i kolegut Sokol Balza",
@@ -111,7 +210,7 @@
       "date": "2026-08-22T13:40:19+00:00",
       "dateStr": "22 Aug, 13:40",
       "isNew": true,
-      "id": "she01787406019"
+      "id": "she21787406019"
     },
     {
       "title": "Arsenal e nis si kampion/ “Topçinjtë” mundën 3-0 Coventry në sfidën e parë në Premier",
@@ -122,40 +221,7 @@
       "date": "2026-08-22T13:35:41+00:00",
       "dateStr": "22 Aug, 13:35",
       "isNew": true,
-      "id": "abc21787405741"
-    },
-    {
-      "title": "Bilanci i zjarreve në vend/ Ministria e Mbrojtjes: 7 vatra nën kontroll, 4 aktive, ndërhyrje nga toka dhe ajri",
-      "link": "https://24-ore.com/bilanci-i-zjarreve-ne-vend-ministria-e-mbrojtjes-7-vatra-nen-kontroll-4-aktive-nderhyrje-nga-toka-dhe-ajri-2/",
-      "description": "Ministria e Mbrojtjes ka bërë së fundmi bilancin e situatës së zjarreve që prej ditësh kanë përfshirë disa zona të vendit. Sipas ministrisë, gjatë 24 orëve të fundit janë raportuar gjithsej 11 vatra zjarri, 7 prej të cilave janë tashmë nën mbikëqyrje, ndërsa 4 vijojnë të jenë aktive. Për përballimin",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T13:34:23+00:00",
-      "dateStr": "22 Aug, 13:34",
-      "isNew": true,
-      "id": "24 71787405663"
-    },
-    {
-      "title": "Bilanci i zjarreve në vend/ Ministria e Mbrojtjes: 7 vatra nën kontroll, 4 aktive, ndërhyrje nga toka dhe ajri",
-      "link": "https://24-ore.com/bilanci-i-zjarreve-ne-vend-ministria-e-mbrojtjes-7-vatra-nen-kontroll-4-aktive-nderhyrje-nga-toka-dhe-ajri/",
-      "description": "Ministria e Mbrojtjes ka bërë së fundmi bilancin e situatës së zjarreve që prej ditësh kanë përfshirë disa zona të vendit. Sipas ministrisë, gjatë 24 orëve të fundit janë raportuar gjithsej 11 vatra zjarri, 7 prej të cilave janë tashmë nën mbikëqyrje, ndërsa 4 vijojnë të jenë aktive. Për përballimin",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T13:34:23+00:00",
-      "dateStr": "22 Aug, 13:34",
-      "isNew": true,
-      "id": "24 81787405663"
-    },
-    {
-      "title": "Franz Beckenbauer Super Cup/ Bayern-i dhe BVB kërkojnë trofeun e parë sezonal dhe… 3 mln €",
-      "link": "https://24-ore.com/franz-beckenbauer-super-cup-bayern-i-dhe-bvb-kerkojne-trofeun-e-pare-sezonal-dhe-3-mln-e/",
-      "description": "“Signal Iduna Park” do të jetë arena ku Gjermania ndan sot trofeun e parë sezonal. Bayern-i i Mynihut, fitues i Bundesliga-s dhe DFB Pokal, sfidon në Dortmund ekipin vendas në edicionin e 27-të të këtij kompeticioni. Bayern-i është formacioni më me shumë trofe në këtë kompeticion pasi ka festuar plo",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T13:32:51+00:00",
-      "dateStr": "22 Aug, 13:32",
-      "isNew": true,
-      "id": "24 91787405571"
+      "id": "abc61787405741"
     },
     {
       "title": "Video/ Policia e Durrësit zbulon drogën me vlerë 1 mln euro brenda makinës të porositur në Kanada! Tre persona të arrestuar",
@@ -166,7 +232,7 @@
       "date": "2026-08-22T13:06:42+00:00",
       "dateStr": "22 Aug, 13:06",
       "isNew": true,
-      "id": "she11787404002"
+      "id": "she31787404002"
     },
     {
       "title": "Zjarr në zonën e Pishporos në Vlorë, flakët përhapen në sipërfaqe të pyllëzuar",
@@ -177,7 +243,7 @@
       "date": "2026-08-22T13:04:02+00:00",
       "dateStr": "22 Aug, 13:04",
       "isNew": true,
-      "id": "abc31787403842"
+      "id": "abc71787403842"
     },
     {
       "title": "Tottenham “çmendet” në merkato/ Londinezët kanë shpenzuar më shumë se të gjithë, 350 milionë euro",
@@ -188,18 +254,18 @@
       "date": "2026-08-22T13:01:31+00:00",
       "dateStr": "22 Aug, 13:01",
       "isNew": true,
-      "id": "abc41787403691"
+      "id": "abc81787403691"
     },
     {
       "title": "Vrasja e portugezit/ Ja çfarë filmuan kamerat e sigurisë: 20-vjeçari vrapoi drejt detit për të shpëtuar, Vata e ndiqte nga pas",
       "link": "https://shekulli.com.al/2026/08/22/vrasja-e-portugezit-ja-cfare-filmuan-kamerat-e-sigurise-20-vjecari-vrapoi-drejt-detit-per-te-shpetuar-vata-e-ndiqte-nga-pas/",
-      "description": "Të tjera detaje janë zbardhur në lidhje me ngjarjen e ndodhur në resortin “Principote” në Ksamil, ku u vra turisti portugez Luis Miguel Varela Mendes. Top Channel raporotn se ka arritur të zbardhë pamjet e kamerave të sigurisë, që kanë filmuar momentet kur ndodhi krimi. Sipas asaj që kanë filmuar ka",
+      "description": "Të tjera detaje janë zbardhur në lidhje me ngjarjen e ndodhur në resortin “Principote” në Ksamil, ku u vra turisti portugez Luis Miguel Varela Mendes. Top Channel raporton se ka arritur të zbardhë pamjet e kamerave të sigurisë, që kanë filmuar momentet kur ndodhi krimi. Sipas asaj që kanë filmuar ka",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-08-22T12:59:46+00:00",
       "dateStr": "22 Aug, 12:59",
       "isNew": true,
-      "id": "she21787403586"
+      "id": "she41787403586"
     },
     {
       "title": "Nga Kanadaja drejt Shqipërisë/ Kapen 80 kg kanabis në Portin e Durrësit, arrestohen 3 persona",
@@ -210,29 +276,7 @@
       "date": "2026-08-22T12:55:07+00:00",
       "dateStr": "22 Aug, 12:55",
       "isNew": true,
-      "id": "abc51787403307"
-    },
-    {
-      "title": "Lë ndihmën ekonomike, zgjedh punën/ Roje prej një viti, 64-vjeçari: Siguroj vetë të ardhurat e mia",
-      "link": "https://abcnews.al/le-ndihmen-ekonomike-zgjedh-punen-roje-prej-nje-viti-64-vjecari-siguroj-vete-te-ardhurat-e-mia/",
-      "description": "Dikur përfitues i ndihmës ekonomike, sot Ibrahim Kola është pjesë e tregut të punës. Në moshën 63-vjeçare, ai vendosi të mos mbështetej më te ndihma ekonomike, por të kërkonte një vend pune. “Jam 64 vjeç. Kërkova punë sepse isha me ndihmë ekonomike, u futa në punë.”, thotë ai. Prej një viti ai punon",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T12:37:51+00:00",
-      "dateStr": "22 Aug, 12:37",
-      "isNew": true,
-      "id": "abc61787402271"
-    },
-    {
-      "title": "“El Clasico” për titullin/ Barcelona dhe Real bëjnë debutimin në sezonin e ri të La Liga",
-      "link": "https://abcnews.al/el-clasico-per-titullin-barcelona-dhe-real-bejne-debutimin-ne-sezonin-e-ri-te-la-liga/",
-      "description": "Barcelona dhe Real Madrid do të bëjnë debutimin e tyre në sezonin e ri të La Liga vetëm në javën e dytë. Madrilenët luajnë këtë të shtunë në fushën e Espanjol, ndërsa skuadra “blaugrana” luan të dielën në transfertën e Elçe. Por, në pritje që dy gjigandët e futbollit spanjoll të zbresin në fushë, që",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T12:30:46+00:00",
-      "dateStr": "22 Aug, 12:30",
-      "isNew": true,
-      "id": "abc71787401846"
+      "id": "abc91787403307"
     },
     {
       "title": "Video/ Gazetari britanik “zbërthen” shtëpitë e barit të shqiptarëve: Ja se si lindin, rriten dhe zhduken nën “hundën” e policisë",
@@ -243,29 +287,7 @@
       "date": "2026-08-22T12:29:25+00:00",
       "dateStr": "22 Aug, 12:29",
       "isNew": true,
-      "id": "she31787401765"
-    },
-    {
-      "title": "Zjarret në vend, situata drejt përmirësimit/ Ministria e Mbrojtjes: 4 vatra aktive, vijon ndërhyrja nga toka dhe ajri",
-      "link": "https://abcnews.al/zjarret-ne-vend-situata-drejt-permiresimit-ministria-e-mbrojtjes-4-vatra-aktive-vijon-nderhyrja-nga-toka-dhe-ajri/",
-      "description": "Situata e zjarreve në vend paraqitet në përmirësim, por 4 vatra vijojnë të jenë aktive. Ministria e Mbrojtjes njofton se gjatë ditës janë raportuar gjithsej 11 vatra zjarri, 7 prej të cilave janë tashmë nën mbikëqyrje. Në operacionet për shuarjen e flakëve janë angazhuar 332 forca operacionale dhe 1",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T12:19:27+00:00",
-      "dateStr": "22 Aug, 12:19",
-      "isNew": true,
-      "id": "abc81787401167"
-    },
-    {
-      "title": "News Line me Jeta Kasemi, (22/08/2026)",
-      "link": "https://abcnews.al/news-line-me-jeta-kasemi-22-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T12:10:26+00:00",
-      "dateStr": "22 Aug, 12:10",
-      "isNew": true,
-      "id": "abc91787400626"
+      "id": "she51787401765"
     },
     {
       "title": "“Shqiponjat” ndalojnë 40-vjeçarin tek Liqeni i Thatë! Në makinë i gjendet arma e mbushur me fishekë",
@@ -276,7 +298,7 @@
       "date": "2026-08-22T11:53:10+00:00",
       "dateStr": "22 Aug, 11:53",
       "isNew": true,
-      "id": "she41787399590"
+      "id": "she61787399590"
     },
     {
       "title": "Humbi jetën pasi u godit nga helika e motorit të gomones, përcillet për në banesën e fundit 22-vjeçari Klaus Gjergji",
@@ -287,7 +309,7 @@
       "date": "2026-08-22T11:45:04+00:00",
       "dateStr": "22 Aug, 11:45",
       "isNew": true,
-      "id": "she51787399104"
+      "id": "she71787399104"
     },
     {
       "title": "“Po nxit përçarje fetare”/ Berisha kundër shtetit Bektashi: Shqipëria është shtet laik!",
@@ -298,7 +320,7 @@
       "date": "2026-08-22T11:34:37+00:00",
       "dateStr": "22 Aug, 11:34",
       "isNew": true,
-      "id": "she61787398477"
+      "id": "she81787398477"
     },
     {
       "title": "Shpërthim tritoli në Kamëz! 41-vjeçari gjen makinën të dëmtuar, ja dyshimet e para",
@@ -309,29 +331,7 @@
       "date": "2026-08-22T11:07:38+00:00",
       "dateStr": "22 Aug, 11:07",
       "isNew": true,
-      "id": "she71787396858"
-    },
-    {
-      "title": "“I thamë të mos shkonte në Shqipëri”/ Flasin njerëzit pranë tij: Kush ishte portugezi Luis Miguel Varela Mendes",
-      "link": "https://shekulli.com.al/2026/08/22/i-thame-te-mos-shkonte-ne-shqiperi-flasin-njerezit-prane-tij-kush-ishte-portugezi-luis-miguel-varela-mendes/",
-      "description": "Detaje të reja  janë zbardhur në lidhje me Luis Miguel Varela Mendes, turistit portugez që u vra të martën e 18 gushtit në kompleksin luksoz “Principotes”. Media franceze “Nice Matin” ka publikuar detaje mbi jetën e të riut, i cili që në moshën 11-vjeçare jetonte në Nice të Francës. Në artikull thuh",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T10:44:59+00:00",
-      "dateStr": "22 Aug, 10:44",
-      "isNew": true,
-      "id": "she81787395499"
-    },
-    {
-      "title": "Kush po gënjen? Kontradiktat mes dëshmive për vrasjen e portugezit në Ksamil, ku ‘përplasen’ Sokrat Vata dhe Adib Ghanmi",
-      "link": "https://shekulli.com.al/2026/08/22/kush-po-genjen-kontradiktat-mes-deshmive-per-vrasjen-e-portugezit-ne-ksamil-ku-perplasen-sokrat-vata-dhe-adib-ghanmi/",
-      "description": "Tashmë kanë kaluar thuajse 4 ditë nga ngjarja e rëndë që tronditi Ksamilin dhe gjithë opinionin publik, vrasja e turistit portugez Luis Miguel Varela Mendes. Ngjarja vijon të jetë e rrethuar me grimca misteri, pavarësisht se policia ka dalë me njoftim zyrtar, ku zbardh dinamikët e sherrit që përfund",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T10:17:52+00:00",
-      "dateStr": "22 Aug, 10:17",
-      "isNew": true,
-      "id": "she91787393872"
+      "id": "she91787396858"
     }
   ]
 }
