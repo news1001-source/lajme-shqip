@@ -1,18 +1,216 @@
 {
-  "lastUpdated": "2026-08-22T17:15:54.237539+00:00",
+  "lastUpdated": "2026-08-22T18:21:31.200832+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Laçi-Elbasani në RTSH, Osmani: Treguam karakter",
-      "link": "https://24-ore.com/laci-elbasani-ne-rtsh-osmani-treguam-karakter/",
-      "description": "Trajneri i Laçit, Qatip Osmani foli për emisionin “Super Gol” në RTSH pas barazimit 1-1 përballë Elbasanit. Tekniku i kurbinasve thotë se skuadra e tij tregoi karakter, madje mund të shënonte edhe golin e dytë. osmani ka besim se ky grup me djem të rinj do të përmirësohet nga ndeshja në ndeshje. “Pa",
+      "title": "Temperaturat e larta rrezikojnë prodhimin e energjisë elektrike në Maqedoninë e Veriut",
+      "link": "https://24-ore.com/temperaturat-e-larta-rrezikojne-prodhimin-e-energjise-elektrike-ne-maqedonine-e-veriut/",
+      "description": "Temperaturat e larta dhe mungesa e reshjeve po shtojnë presionin mbi sistemin energjetik të vendit. Nivelet e ulëta të ujit në akumulimet dhe prurjet e dobëta në lumenj mund të ndikojnë në prodhimin e energjisë elektrike. Ekspertët theksojnë se vendi ka kapacitete të konsiderueshme prodhuese, por nj",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-22T17:02:52+00:00",
-      "dateStr": "22 Aug, 17:02",
+      "date": "2026-08-22T18:19:34+00:00",
+      "dateStr": "22 Aug, 18:19",
       "isNew": true,
-      "id": "24 01787418172"
+      "id": "24 01787422774"
+    },
+    {
+      "title": "AKK i reagon Muratit për buxhetin e komunave: Padrejtësi në ndarjet buxhetore",
+      "link": "https://24-ore.com/akk-i-reagon-muratit-per-buxhetin-e-komunave-padrejtesi-ne-ndarjet-buxhetore/",
+      "description": "Drejtori ekzekutiv i Asociacionit të Komunave të Kosovës, Sazan Ibrahimi, i ka reaguar ministrit në detyrë të Financave, Hekuran Murati, lidhur me deklaratën e tij për rritjen e buxhetit të komunave në rreth 907 milionë euro për vitin 2027. Murati, përmes një postimi në Facebook, ka deklaruar se bux",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T18:19:20+00:00",
+      "dateStr": "22 Aug, 18:19",
+      "isNew": true,
+      "id": "24 11787422760"
+    },
+    {
+      "title": "Vendimi i gjykatës britanike mund të frenojë deportimin e viktimave shqiptare të trafikimit",
+      "link": "https://24-ore.com/vendimi-i-gjykates-britanike-mund-te-frenoje-deportimin-e-viktimave-shqiptare-te-trafikimit/",
+      "description": "Një vendim i fundit i drejtësisë britanike mund të ndryshojë mënyrën se si autoritetet e Mbretërisë së Bashkuar trajtojnë rastet e shqiptarëve të identifikuar si viktima të trafikimit. Gjykata ka paralajmëruar se kthimi i disa prej tyre në Shqipëri mund t’i ekspozojë ndaj rrezikut të dhunës, ri-traf",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T18:19:04+00:00",
+      "dateStr": "22 Aug, 18:19",
+      "isNew": true,
+      "id": "24 21787422744"
+    },
+    {
+      "title": "NASA: 5 valë të nxehtit ekstrem, rreth 10 mijë vdekje në Europë nga temperaturat rekord",
+      "link": "https://24-ore.com/nasa-5-vale-te-nxehtit-ekstrem-rreth-10-mije-vdekje-ne-europe-nga-temperaturat-rekord/",
+      "description": "NASA tregon përmasat e valës së të nxehtit që ka përfshirë Evropën gjatë muajve të fundit. Pamjet, të përpunuara nga të dhënat satelitore, paraqesin temperaturat maksimale të regjistruara në kontinent nga 1 maji deri më 19 gusht, duke treguar qartë shtrirjen dhe intensitetin e të nxehtit. Sipas NASA",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T18:18:47+00:00",
+      "dateStr": "22 Aug, 18:18",
+      "isNew": true,
+      "id": "24 31787422727"
+    },
+    {
+      "title": "Irani ndryshon doktrinën ushtarake: Nga mbrojtëse në sulmuese, shpërblime për kapjen e trupave amerikane",
+      "link": "https://24-ore.com/irani-ndryshon-doktrinen-ushtarake-nga-mbrojtese-ne-sulmuese-shperblime-per-kapjen-e-trupave-amerikane/",
+      "description": "Ushtria iraniane ka njoftuar një ndryshim të rëndësishëm në doktrinën e saj ushtarake, duke kaluar gradualisht nga një qasje mbrojtëse në një strategji më sulmuese, pas mësimeve të nxjerra nga konfliktet e fundit. Gjeneral brigade Mohammad Akraminia, zëdhënës i ushtrisë iraniane, deklaroi për agjenc",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T18:18:32+00:00",
+      "dateStr": "22 Aug, 18:18",
+      "isNew": true,
+      "id": "24 41787422712"
+    },
+    {
+      "title": "Gjykata amerikane rrëzon bllokimin e vizave për 75 shtete, mes tyre Shqipëria",
+      "link": "https://24-ore.com/gjykata-amerikane-rrezon-bllokimin-e-vizave-per-75-shtete-mes-tyre-shqiperia/",
+      "description": "Një gjykatë federale e Shteteve të Bashkuara ka rrëzuar vendimin e qeverisë amerikane për bllokimin e vizave për shtetasit nga 75 vende, një masë që synonte të kufizonte vendosjen e tyre në SHBA për një kohë të pacaktuar. Vendimi, i marrë nga gjyqtarja Jeannette A. Vargas në Distriktin Jugor të Nju ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T18:18:14+00:00",
+      "dateStr": "22 Aug, 18:18",
+      "isNew": true,
+      "id": "24 51787422694"
+    },
+    {
+      "title": "Celibashi: Reforma territoriale duhet të miratohet në kohë, KQZ rrezikon vështirësi në zgjedhjet e 2027-ës",
+      "link": "https://24-ore.com/celibashi-reforma-territoriale-duhet-te-miratohet-ne-kohe-kqz-rrezikon-veshtiresi-ne-zgjedhjet-e-2027-es/",
+      "description": "Të parët që preken nga ndarja administrative territoriale janë organet drejtuese të KQZ, të cilët do duhet të organizojnë zgjedhjet vendore të 2027-tës. Por, sa kohë i duhet Komisionerit Ilirjan Celibashi për përgatitjen e procesit në një terren të ri? “Do të ishte mirë që koha në dispozicion të jet",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T18:16:58+00:00",
+      "dateStr": "22 Aug, 18:16",
+      "isNew": true,
+      "id": "24 61787422618"
+    },
+    {
+      "title": "Albin Kurti paralajmëron hapjen e plotë të urës mbi Ibër: Është absurde të vazhdojë të jetë e mbyllur",
+      "link": "https://shekulli.com.al/2026/08/22/albin-kurti-paralajmeron-hapjen-e-plote-te-ures-mbi-iber-eshte-absurde-te-vazhdoje-te-jete-e-mbyllur/",
+      "description": "Kryeministri në detyrë i Kosovës, Albin Kurti, tha se tha se institucionet e vendit janë në komunikim të vazhdueshëm me KFOR-in për hapjen e plotë të urës kryesore mbi lumin Ibër dhe “marrjen tërësisht nën kontroll” të saj nga Policia e Kosovës. Megjithatë, një takim i paralajmëruar nga vetë Kurti m",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T18:13:54+00:00",
+      "dateStr": "22 Aug, 18:13",
+      "isNew": true,
+      "id": "she01787422434"
+    },
+    {
+      "title": "Milwaukee Brewers presin Atlanta Braves në American Family Field — 22 gusht 2026",
+      "link": "https://24-ore.com/milwaukee-brewers-presin-atlanta-braves-ne-american-family-field-22-gusht-2026/",
+      "description": "Milwaukee Brewers dhe Atlanta Braves përballen në American Family Field në Milwaukee më 22 gusht 2026, në një ndeshje që ka rëndësi për garën në Divizionin...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T18:06:05+00:00",
+      "dateStr": "22 Aug, 18:06",
+      "isNew": true,
+      "id": "24 71787421965"
+    },
+    {
+      "title": "Rashawn Slater rikthehet në stërvitje me Chargers; Jake Bobo jashtë sezoni",
+      "link": "https://24-ore.com/rashawn-slater-rikthehet-ne-stervitje-me-chargers-jake-bobo-jashte-sezoni/",
+      "description": "Tackle i Los Angeles Chargers, Rashawn Slater, u rikthye në stërvitje të shtunën në formë të kufizuar pas disa mungesash të shkaktuara nga një lëndim i paq...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T18:01:26+00:00",
+      "dateStr": "22 Aug, 18:01",
+      "isNew": true,
+      "id": "24 81787421686"
+    },
+    {
+      "title": "Rama mbledh kabinetin në Pogradec/ Analisti: Mund të lëvizin deri në 6 ministra, priten “fytyra të reja”",
+      "link": "https://24-ore.com/rama-mbledh-kabinetin-ne-pogradec-analisti-mund-te-levizin-deri-ne-6-ministra-priten-fytyra-te-reja/",
+      "description": "Në nisje të sezonit të ri politik, kryeministri Edi Rama pritet të mbledhë ministrat e kabinetit të tij në një takim dyditor në Pogradec, më 23 dhe 24 gusht. Gazetari dhe analisti Artur Nura thotë se mund të ketë ndryshime në kabinetin qeveritar, ku përfliten 6 ministra. Në një intervistë për “Tiran",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T18:00:59+00:00",
+      "dateStr": "22 Aug, 18:00",
+      "isNew": true,
+      "id": "24 91787421659"
+    },
+    {
+      "title": "Celibashi: Reforma territoriale duhet të miratohet në kohë, zgjedhjet e 2027 rrezikojnë përgatitjet",
+      "link": "https://shekulli.com.al/2026/08/22/celibashi-reforma-territoriale-duhet-te-miratohet-me-kohe-zgjedhjet-e-2027-rrezikojne-pergatitjet/",
+      "description": "Reforma e re administrative-territoriale pritet të ndikojë drejtpërdrejt në organizimin e zgjedhjeve vendore të vitit 2027, ndërsa Komisioni Qendror i Zgjedhjeve kërkon qartësi dhe kohë të mjaftueshme për përgatitjen e procesit. Kreu i KQZ-së, Ilirjan Celibashi, ka paralajmëruar se ndryshimi i hartë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T17:54:22+00:00",
+      "dateStr": "22 Aug, 17:54",
+      "isNew": true,
+      "id": "she11787421262"
+    },
+    {
+      "title": "Përdhunoi 22-vjeçaren greke në plazhin e shkretë në Halkidiki, bariu shqiptar prangoset pas katër vitesh në Malin e Zi",
+      "link": "https://shekulli.com.al/2026/08/22/perdhunoi-vajzen-greke-ne-plazhin-e-shkrete-bariu-shqiptar-prangoset-pas-kater-vitesh-ne-malin-e-zi/",
+      "description": "Pas katër vitesh nga një sulm seksual i ndodhur në Halkidiki të Greqisë, autoritetet kanë arrestuar personin e dyshuar për përdhunimin e një 26-vjeçareje në një plazh të izoluar në Kassandra. Sipas mediave greke, i dyshuari është një shtetas shqiptar 52-vjeçar, i cili u arrestua të mërkurën e kaluar",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T17:38:32+00:00",
+      "dateStr": "22 Aug, 17:38",
+      "isNew": true,
+      "id": "she21787420312"
+    },
+    {
+      "title": "Rama mbledh qeverinë në Pogradec/ Artur Nura: Do ketë ndryshime në kabinet, përfliten 6 ministra",
+      "link": "https://abcnews.al/rama-mbledh-qeverine-ne-pogradec-artur-nura-do-kete-ndryshime-ne-kabinet-perfliten-6-ministra/",
+      "description": "Në nisje të sezonit të ri politik, kryeministri Edi Rama pritet të mbledhë ministrat e kabinetit të tij në një takim dyditor në Pogradec, më 23 dhe 24 gusht. Gazetari dhe analisti Artur Nura thotë se mund të ketë ndryshime në kabinetin qeveritar, ku përfliten 6 ministra. Në një intervistë për &#8220",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T17:35:24+00:00",
+      "dateStr": "22 Aug, 17:35",
+      "isNew": true,
+      "id": "abc01787420124"
+    },
+    {
+      "title": "Gjykata amerikane rrëzon pezullimin e vizave për 75 vende, mes tyre edhe Shqipëria",
+      "link": "https://shekulli.com.al/2026/08/22/gjykata-amerikane-rrezon-pezullimin-e-vizave-per-75-vende-mes-tyre-edhe-shqiperia/",
+      "description": "Një gjykatë federale në Nju Jork ka rrëzuar politikën e administratës së Donald Trump për pezullimin e lëshimit të vizave emigruese për shtetasit e 75 vendeve, mes tyre edhe Shqipëria. Vendimi u dha më 21 gusht nga gjyqtarja federale Jeannette Vargas. Politika ishte vendosur nga Departamenti Amerika",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T17:30:53+00:00",
+      "dateStr": "22 Aug, 17:30",
+      "isNew": true,
+      "id": "she31787419853"
+    },
+    {
+      "title": "Rast i pazakontë në Sarandë, librat e Sazan Gurit hidhen në det. Autori me lot në sy: Më mirë të më kishin vrarë",
+      "link": "https://shekulli.com.al/2026/08/22/rast-i-pazakonte-ne-sarande-librat-e-sazan-gurit-hidhen-ne-det-autori-me-lot-ne-sy-me-mire-te-me-kishin-vrare/",
+      "description": "Një ngjarje e pazakontë është raportuar sot në Sarandë, ku librat e profesor Sazan Gurit, të vendosura në një kënd pranë Muzeut Arkeologjik, janë hedhur në det dhe dëmtuar. Lajmin e ka bërë të ditur vetë Guri përmes një reagimi në rrjetet sociale, ku shpreh indinjatën për atë që e konsideron një akt",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T17:28:59+00:00",
+      "dateStr": "22 Aug, 17:28",
+      "isNew": true,
+      "id": "she41787419739"
+    },
+    {
+      "title": "Rambo sfidon Kurtin: Thaçi president! Nura: Zgjedhja formale e tij do sillte stabilitet në Kosovë. Haga e ka humbur moralin politik",
+      "link": "https://abcnews.al/rambo-sfidon-kurtin-thaci-president-nura-zgjedhja-formale-e-tij-do-sillte-stabilitet-ne-kosove-haga-e-ka-humbur-moralin-politik/",
+      "description": "Hashim Thaçi për president. Ky është propozimi i ish-kreut të Aleancës, Ramush Haradinaj, ndërsa Albin Kurti vazhdon ta mbajë Kosovën në krizë prej një viti e gjysmë, me zgjedhje të njëpasnjëshme, por pa institucionet kryesore të shtetit. Gazetari dhe analisti Artur Nura thotë se zgjedhja formale e ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T17:24:16+00:00",
+      "dateStr": "22 Aug, 17:24",
+      "isNew": true,
+      "id": "abc11787419456"
+    },
+    {
+      "title": "Vendimi për shqiptarët e trafikuar/ Autoritetet britanike nuk mund të deportojnë automatikisht meshkujt",
+      "link": "https://abcnews.al/vendimi-per-shqiptaret-e-trafikuar-autoritetet-britanike-nuk-mund-te-deportojne-automatikisht-meshkujt/",
+      "description": "Meshkujt shqiptarë që kanë qenë viktima të trafikimit në Britani nuk mund të deportohen automatikisht në Shqipëri. Ky është vendimi i fundit i drejtësisë britanike, e cila ka udhëzuar autoritetet që, përpara kthimit të tyre, të vlerësojnë nëse ekziston rrezik real për jetën dhe sigurinë e tyre. Gjyk",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T17:12:36+00:00",
+      "dateStr": "22 Aug, 17:12",
+      "isNew": true,
+      "id": "abc21787418756"
+    },
+    {
+      "title": "“Shpëtoni Sazanin”, por nuk shkuan në ishull/ Aktivistët e Gazës zbulojnë misionin: Me revolucionin në Tiranë!",
+      "link": "https://abcnews.al/shpetoni-sazanin-por-nuk-shkuan-ne-ishull-aktivistet-e-gazes-zbulojne-misionin-me-revolucionin-ne-tirane/",
+      "description": "Një grup aktivistësh në mbështetje të Gazës, që kishin njoftuar ardhjen në Shqipëri për të vizituar Sazanin, në një mision për mbrojtjen e ishullit, e zbuluan shpejt qëllimin e tyre të vërtetë. Menjëherë pas mbërritjes në portin e Vlorës, grupi u prit nga zyrtarë të turizmit, zëvendësministrja Marin",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T17:08:38+00:00",
+      "dateStr": "22 Aug, 17:08",
+      "isNew": true,
+      "id": "abc31787418518"
     },
     {
       "title": "NewsHour me Emilian Islami, (22/08/2026)",
@@ -23,29 +221,7 @@
       "date": "2026-08-22T17:00:47+00:00",
       "dateStr": "22 Aug, 17:00",
       "isNew": true,
-      "id": "abc01787418047"
-    },
-    {
-      "title": "Partizani-Teuta në RTSH, Bratu: I kënaqur me debutimin, një pikë që ngjan si tre",
-      "link": "https://24-ore.com/partizani-teuta-ne-rtsh-bratu-i-kenaqur-me-debutimin-nje-pike-qe-ngjan-si-tre/",
-      "description": "Trajneri i Partizanit, Florin Bratu, foli për emisionin “Super Gol” në RTSH pas barazimit 0-0 përballë Teutës në debutimin e tij në krye të kryeqytetasve në Abissnet Superiore. Tekniku i “demave” deklaron se është i kënaqur me pikën e fituar, sepse për mënyrën si rrodhi ndeshja, ky barazim ngjan si ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T16:52:32+00:00",
-      "dateStr": "22 Aug, 16:52",
-      "isNew": true,
-      "id": "24 11787417552"
-    },
-    {
-      "title": "Zbardhet dëshmia e çiftit turk për vrasjen e turistit: E futa në bagazh pa i treguar të dashurës! Dikush telefonoi dhe na",
-      "link": "https://24-ore.com/zbardhet-deshmia-e-ciftit-turk-per-vrasjen-e-turistit-e-futa-ne-bagazh-pa-i-treguar-te-dashures-dikush-telefonoi-dhe-na/",
-      "description": "Janë zbardhur dëshmitë e dhëna në polici për vrasjen 20-vjeçarit portugez Luis Miguel Varela Mendez në Ksamil, që mbeti viktimë e një konflikti në një beach bar në Ksamil më 18 gusht. Mes të tjerash, janë zbardhur edhe rrëfimet e Nuh Mahmutoglu e Ezgi Parlak, të dy shtetas turq, të cilët ndodhen në ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T16:47:56+00:00",
-      "dateStr": "22 Aug, 16:47",
-      "isNew": true,
-      "id": "24 21787417276"
+      "id": "abc41787418047"
     },
     {
       "title": "“Për mua, vetëm ti ke rëndësi”/ Letrat intime të asistentes së Trumpit, ngrenë pikëpyetje për marrëdhënien me presidentin",
@@ -56,73 +232,7 @@
       "date": "2026-08-22T16:47:10+00:00",
       "dateStr": "22 Aug, 16:47",
       "isNew": true,
-      "id": "she01787417230"
-    },
-    {
-      "title": "Platforma e re digjitale e PD: Të instalosh të ardhmen, pa ç’instaluar të shkuarën",
-      "link": "https://24-ore.com/platforma-e-re-digjitale-e-pd-te-instalosh-te-ardhmen-pa-cinstaluar-te-shkuaren/",
-      "description": "Nga Bjorn Runa Ka diçka tragjikomike në lajmin se Partia Demokratike, pas një pune pesëmujore (thuajse gjysmë viti), ka arritur të përgatisë një sistem monitorimi dhe pikëzimi ndaj aktivitetit të zyrtarëve dhe përfaqësuesve të saj. Sipas asaj që është raportuar në media, një platformë e re digjitale",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T16:47:09+00:00",
-      "dateStr": "22 Aug, 16:47",
-      "isNew": true,
-      "id": "24 31787417229"
-    },
-    {
-      "title": "Players’ Weekend 2026: Batet dhe pajisjet e Julio Rodríguez, Elly De La Cruz e të tjerëve zbulojnë motive personale",
-      "link": "https://24-ore.com/players-weekend-2026-batet-dhe-pajisjet-e-julio-rodriguez-elly-de-la-cruz-e-te-tjereve-zbulojne-motive-personale/",
-      "description": "Gjatë Players' Weekend të MLB-së, lojtarët shfrytëzojnë batet, dorezat dhe këpucët për të shprehur interesat dhe preferencat e tyre personale. Fotografitë...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T16:40:52+00:00",
-      "dateStr": "22 Aug, 16:40",
-      "isNew": true,
-      "id": "24 41787416852"
-    },
-    {
-      "title": "Yvon Lambert shfaq rezistencë në rikthim pas frakturave të hipit dhe femurit",
-      "link": "https://24-ore.com/yvon-lambert-shfaq-rezistence-ne-rikthim-pas-frakturave-te-hipit-dhe-femurit/",
-      "description": "Yvon Lambert, legjendë e Montreal Canadiens dhe autor i njërit prej golave më të njohur të klubit, po përballet me një proces rikuperimi pas një rënieje që...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T16:38:00+00:00",
-      "dateStr": "22 Aug, 16:38",
-      "isNew": true,
-      "id": "24 51787416680"
-    },
-    {
-      "title": "Zjarr i madh ka shpërthyer në rajonin e Strumicës, midis fshatrave Banicë dhe Vodoçë",
-      "link": "https://24-ore.com/zjarr-i-madh-ka-shperthyer-ne-rajonin-e-strumices-midis-fshatrave-banice-dhe-vodoce/",
-      "description": "Zjarri i madh që shpërtheu sot në mesditë midis fshatrave Banicë dhe Vodoçë të Strumicës dhe lokalitetit Sofilar afër Strumicës është vënë pjesërisht nën kontroll dhe po bëhen prerje të mekanizuara për të parandaluar përhapjen, por sipas informacioneve të fundit nga NJTKZ Strumicë, zjarri ka arritur",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T16:37:43+00:00",
-      "dateStr": "22 Aug, 16:37",
-      "isNew": true,
-      "id": "24 61787416663"
-    },
-    {
-      "title": "Laçi-Elbasani në RTSH, Gvozdenoviç: Ishim afër fitores, jave pas jave do të bëjmë më mirë",
-      "link": "https://24-ore.com/laci-elbasani-ne-rtsh-gvozdenovic-ishim-afer-fitores-jave-pas-jave-do-te-bejme-me-mire/",
-      "description": "Trajneri i Elbasanit, Ivan Gvozdenoviç, foli për emisionin “Super Gol” në RTSH pas barazimit 1-1 në transfertë përballë Laçit. Tekniku i verdhebluve deklaron se skuadra e tij i kishte mundësitë për të shënuar edhe golin e dytë, por gjithsesi nuk është i mërzitur nga ky barazim, sepse Laçi është një ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T16:37:30+00:00",
-      "dateStr": "22 Aug, 16:37",
-      "isNew": true,
-      "id": "24 71787416650"
-    },
-    {
-      "title": "Katie Holmes përqafon kombinimin purpur-rrush dhe të kuq domate me fustan satini",
-      "link": "https://24-ore.com/katie-holmes-perqafon-kombinimin-purpur-rrush-dhe-te-kuq-domate-me-fustan-satini/",
-      "description": "Vera e këtij viti nxori në modë kombinimin purpur të rrushit dhe të kuq të domates, dhe së fundmi aktorja Katie Holmes e ka veshur këtë paletë ngjyrash në...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T16:35:53+00:00",
-      "dateStr": "22 Aug, 16:35",
-      "isNew": true,
-      "id": "24 81787416553"
+      "id": "she51787417230"
     },
     {
       "title": "Macron: Do të dërgojmë raketa interceptuese në Ukrainë",
@@ -133,7 +243,7 @@
       "date": "2026-08-22T16:29:17+00:00",
       "dateStr": "22 Aug, 16:29",
       "isNew": true,
-      "id": "abc11787416157"
+      "id": "abc51787416157"
     },
     {
       "title": "Tragjedi në Portugali, futbollisti 25-vjeçar humb jetën gjatë ndeshjes",
@@ -144,7 +254,7 @@
       "date": "2026-08-22T16:29:09+00:00",
       "dateStr": "22 Aug, 16:29",
       "isNew": true,
-      "id": "she11787416149"
+      "id": "she61787416149"
     },
     {
       "title": "Ish-kampioni i botës në boks vritet në pritë, Zolani Tete qëllohet për vdekje jashtë shtëpisë",
@@ -155,18 +265,7 @@
       "date": "2026-08-22T16:20:59+00:00",
       "dateStr": "22 Aug, 16:20",
       "isNew": true,
-      "id": "she21787415659"
-    },
-    {
-      "title": "Abissnet Superiore: Mungojnë golat në Vorë, Partizani dhe Teuta ndajnë nga një pikë",
-      "link": "https://24-ore.com/abissnet-superiore-mungojne-golat-ne-vore-partizani-dhe-teuta-ndajne-nga-nje-pike/",
-      "description": "Mbyllet në barazim pa gola 0-0 ndeshja Partizani-Teuta, e vlefshme për javën e parë të kampionatit, sfidë e transmetuar drejtpërdrejt në RTSH 1. Durrsakët humbasin një penallti në pjesën e parë, ndërsa “të kuqtë” luajnë të gjithë pjesën e dytë me një lojtar më pak, sepse Human është ndëshkuar me kar",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T16:18:33+00:00",
-      "dateStr": "22 Aug, 16:18",
-      "isNew": true,
-      "id": "24 91787415513"
+      "id": "she71787415659"
     },
     {
       "title": "Zjarret, 4 vatra aktive/ Përmirësohet situata në Pukë, shuhet zjarri në Dukat",
@@ -177,7 +276,7 @@
       "date": "2026-08-22T16:03:31+00:00",
       "dateStr": "22 Aug, 16:03",
       "isNew": true,
-      "id": "abc21787414611"
+      "id": "abc61787414611"
     },
     {
       "title": "Ukraina dhe Gjermania diskutojnë prodhimin dhe investimet e përbashkëta në mbrojtje",
@@ -188,7 +287,7 @@
       "date": "2026-08-22T15:45:34+00:00",
       "dateStr": "22 Aug, 15:45",
       "isNew": true,
-      "id": "abc31787413534"
+      "id": "abc71787413534"
     },
     {
       "title": "Global Sumud Flotilla mbërrin në Vlorë, përplasje me qeverinë për Sazanin, Rama dhe Hysaj: Erdhën për ta shpëtuar, por refuzuan ta vizitonin ishullin",
@@ -199,7 +298,7 @@
       "date": "2026-08-22T15:43:55+00:00",
       "dateStr": "22 Aug, 15:43",
       "isNew": true,
-      "id": "she31787413435"
+      "id": "she81787413435"
     },
     {
       "title": "Ramush Haradinaj propozon Hashim Thaçin për president të Kosovës: Do të ishte nder për kombin",
@@ -210,18 +309,7 @@
       "date": "2026-08-22T15:32:32+00:00",
       "dateStr": "22 Aug, 15:32",
       "isNew": true,
-      "id": "she41787412752"
-    },
-    {
-      "title": "Efektivi i FA plagoset gjatë luftës me flakët në Mirditë, dërgohet me helikopter në Tiranë",
-      "link": "https://shekulli.com.al/2026/08/22/efektivi-i-fa-plagoset-gjate-luftes-me-flaket-ne-mirdite-dergohet-ne-tirane/",
-      "description": "Një efektiv i Forcave të Armatosura është plagosur gjatë operacionit për shuarjen e zjarreve në territorin e Mirditës. Ngjarja ka ndodhur teksa një automjet zjarrfikës po furnizohej me ujë. Gjatë procesit ka plasur një tub me diametër 120 milimetra, i pajisur me kokë metalike. Për shkak të presionit",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T15:26:02+00:00",
-      "dateStr": "22 Aug, 15:26",
-      "isNew": true,
-      "id": "she51787412362"
+      "id": "she91787412752"
     },
     {
       "title": "Putin paralajmëron: Ukraina ka hapur ‘kutinë e Pandorës’ me sulmet e fundit",
@@ -232,7 +320,7 @@
       "date": "2026-08-22T15:21:37+00:00",
       "dateStr": "22 Aug, 15:21",
       "isNew": true,
-      "id": "abc41787412097"
+      "id": "abc81787412097"
     },
     {
       "title": "Moti i keq godet Poloninë, stuhi të fuqishme dhe përmbytje në disa zona",
@@ -243,95 +331,7 @@
       "date": "2026-08-22T15:00:44+00:00",
       "dateStr": "22 Aug, 15:00",
       "isNew": true,
-      "id": "abc51787410844"
-    },
-    {
-      "title": "“Ku e ke makinën, më ço në spital”, Sokrat Vata i kërkoi ndihmë DJ-it, pastaj ia mbathi zbathur në mes të rrugës",
-      "link": "https://shekulli.com.al/2026/08/22/ku-e-ke-makinen-me-co-ne-spital-sokrat-vata-i-kerkoi-ndihme-dj-it-pastaj-ia-mbathi-zbathur-ne-mes-te-rruges/",
-      "description": "Detaje të reja janë zbardhur nga dosja hetimore për vrasjen e 20-vjeçarit portugez në Ksamil, ku i dyshuar si autor është Sokrat Vata. Sipas dëshmisë së DJ-it të një prej lokaleve të zonës, rreth orës 05:00, Vata është shfaqur i mbuluar në gjak dhe i ka kërkuar që ta çonte me makinë në spital. &#822",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T14:56:38+00:00",
-      "dateStr": "22 Aug, 14:56",
-      "isNew": true,
-      "id": "she61787410598"
-    },
-    {
-      "title": "U dëmtua gjatë aksionit për shuarjen e flakëve në Mirditë, punonjësi i FA përfundon te Trauma (EMRI)",
-      "link": "https://abcnews.al/u-demtua-gjate-aksionit-per-shuarjen-e-flakeve-ne-mirdite-punonjesi-i-fa-perfundon-te-trauma-emri/",
-      "description": "Një punonjës i Forcave të Armatosura ka përfunduar në Spitalin e Traumës pasi është dëmtuar gjatë aksionit për shuarjen e flakëve në Mirditë. Sipas burimeve paraprake i plagosur ka mbetur 28 vjeçari Andrea Kaçi, i cili ka marrë plagë në kokë dhe aktualisht po i nënshtrohet ekzaminimeve mjekësore në ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T14:38:16+00:00",
-      "dateStr": "22 Aug, 14:38",
-      "isNew": true,
-      "id": "abc61787409496"
-    },
-    {
-      "title": "Aksident tragjik në Durrës, babai i tre fëmijëve u la 4 orë në rrugë pas përplasjes (foto)",
-      "link": "https://shekulli.com.al/2026/08/22/aksident-tragjik-ne-durres-babai-i-tre-femijeve-u-la-4-ore-ne-rruge-pas-perplasjes-foto/",
-      "description": "Një aksident i rëndë ka ndodhur në orët e para të mëngjesit të së premtes në aksin Shkozet–Shijak, në Rrashbull, ku humbi jetën 41-vjeçari Vasil Hasani, babai i tre fëmijëve. Sipas raportimeve, Hasani po kthehej nga puna me biçikletë rreth orës 02:00, kur u përplas nga një automjet. Pas aksidentit, ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T14:37:29+00:00",
-      "dateStr": "22 Aug, 14:37",
-      "isNew": true,
-      "id": "she71787409449"
-    },
-    {
-      "title": "Trump: Irani nuk është gati për marrëveshjen e duhur",
-      "link": "https://abcnews.al/trump-irani-nuk-eshte-gati-per-marreveshjen-e-duhur/",
-      "description": "Presidenti amerikan Donald Trump ka deklaruar se nuk beson se Irani është ende i gatshëm të arrijë një marrëveshje që do t’i japë fund konfliktit, ndërsa Shtetet e Bashkuara po shqyrtojnë hapat e mëtejshëm. Trump tha gjithashtu se SHBA-ja ka “kontrollin e plotë” të zonës përreth Ngushticës së Hormuz",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T14:33:41+00:00",
-      "dateStr": "22 Aug, 14:33",
-      "isNew": true,
-      "id": "abc71787409221"
-    },
-    {
-      "title": "Begaj në San Marzano di San Giuseppe: Arbëreshët, ura e gjallë e miqësisë historike shqiptaro-italiane",
-      "link": "https://abcnews.al/begaj-ne-san-marzano-di-san-giuseppe-arbereshet-ura-e-gjalle-e-miqesise-historike-shqiptaro-italiane/",
-      "description": "Presidenti i Republikës, Bajram Begaj, zhvilloi një takim me komunitetin arbëresh në San Marzano di San Giuseppe, në provincën e Tarantos. Gjatë vizitës, Kreu i Shtetit u prit me nderime nga autoritetet drejtuese të institucioneve dhe banorët e San Marzanos. Fillimisht, Presidenti Begaj vendosi një ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T14:20:16+00:00",
-      "dateStr": "22 Aug, 14:20",
-      "isNew": true,
-      "id": "abc81787408416"
-    },
-    {
-      "title": "NASA: 5 valë të nxehtit ekstrem/ Rreth 10 mijë vdekje në Europë nga temperaturat rekord",
-      "link": "https://abcnews.al/nasa-5-vale-te-nxehtit-ekstrem-rreth-10-mije-vdekje-ne-europe-nga-temperaturat-rekord/",
-      "description": "NASA tregon përmasat e valës së të nxehtit që ka përfshirë Evropën gjatë muajve të fundit. Pamjet, të përpunuara nga të dhënat satelitore, paraqesin temperaturat maksimale të regjistruara në kontinent nga 1 maji deri më 19 gusht, duke treguar qartë shtrirjen dhe intensitetin e të nxehtit. Sipas NASA",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T14:00:59+00:00",
-      "dateStr": "22 Aug, 14:00",
-      "isNew": true,
-      "id": "abc91787407259"
-    },
-    {
-      "title": "Ndarja nga jeta e aktores Rezana Çeliku, mesazhi prekës i kolegut Sokol Balza",
-      "link": "https://shekulli.com.al/2026/08/22/ndarja-nga-jeta-aktorja-rezana-celiku-mesazhi-prekes-i-kolegut-sokol-balza/",
-      "description": "Aktorja e njohur shqiptare Rezana Çeliku është ndarë nga jeta në moshën 66-vjeçare. Lajmi ka prekur kolegët dhe miqtë e saj, mes tyre edhe aktorin Sokol Balza. Përmes një reagimi në rrjetet sociale, Balza ka shprehur dhimbjen për humbjen e artistes dhe mikes së tij.“Nuk më besohet, si ike shoqja ime",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T13:40:19+00:00",
-      "dateStr": "22 Aug, 13:40",
-      "isNew": true,
-      "id": "she81787406019"
-    },
-    {
-      "title": "Video/ Policia e Durrësit zbulon drogën me vlerë 1 mln euro brenda makinës të porositur në Kanada! Tre persona të arrestuar",
-      "link": "https://shekulli.com.al/2026/08/22/video-policia-e-durresit-gjen-kokainen-me-vlere-1-mln-euro-brenda-makines-te-porositur-ne-kanada-tre-persona-te-arrestuar/",
-      "description": "Tre persona janë arrestuar sot në Durrës dhe dy janë shpallur në kërkim, pas një operacioni anti-drogë. Sipas njoftimit, policia ka sekuestruar 80 kanabis, e cila dyshohet se vinte nga Kanadaja. Droga e llojit “Gelato”, me përmbajtje të lartë THC dhe vlerë tregu rreth 1 milion euro. Lënda narkotike ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T13:06:42+00:00",
-      "dateStr": "22 Aug, 13:06",
-      "isNew": true,
-      "id": "she91787404002"
+      "id": "abc91787410844"
     }
   ]
 }
