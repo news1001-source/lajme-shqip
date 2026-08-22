@@ -1,84 +1,205 @@
 {
-  "lastUpdated": "2026-08-22T09:21:42.286857+00:00",
+  "lastUpdated": "2026-08-22T10:17:39.974068+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Zjarri në Dukat dhe malin e Çikës vihet nën kontroll, vijon monitorimi i zonës",
-      "link": "https://24-ore.com/zjarri-ne-dukat-dhe-malin-e-cikes-vihet-nen-kontroll-vijon-monitorimi-i-zones/",
-      "description": "Zjarri i përmasave të mëdha që përfshiu prej më shumë se dy ditësh zonën e Dukatit dhe malin e Çikës është vënë nën kontroll nga forcat zjarrfikëse. Pavarësisht neutralizimit të flakëve, ekipet vijojnë punën në terren për të shmangur çdo mundësi riaktivizimi të vatrave. Ndërhyrja po zhvillohet në nj",
+      "title": "SPANJË – Zjarret në Valencia detyrojnë evakuimin e plotë të një komune",
+      "link": "https://24-ore.com/spanje-zjarret-ne-valencia-detyrojne-evakuimin-e-plote-te-nje-komune/",
+      "description": "– Bashkia e Valencias ka urdhëruar evakuimin e plotë të komunës së Gatovas për shkak të përparimit të zjarreve pyjore në zonën e Segorbes, ndërsa autoritetet u kanë dërguar banorëve një alarm përmes sistemit ES-Alert me udhëzime të detajuara për evakuimin, sipas https:/ Sipas Qendrës së Koordinimit ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-22T09:19:17+00:00",
-      "dateStr": "22 Aug, 09:19",
+      "date": "2026-08-22T10:16:10+00:00",
+      "dateStr": "22 Aug, 10:16",
       "isNew": true,
-      "id": "24 01787390357"
+      "id": "24 01787393770"
     },
     {
-      "title": "62-vjeçari kapet duke ndezur zjarr në Mirditë, dyshohet se është autori i 6 vatrave në pak ditë (VIDEO)",
-      "link": "https://24-ore.com/62-vjecari-kapet-duke-ndezur-zjarr-ne-mirdite-dyshohet-se-eshte-autori-i-6-vatrave-ne-pak-dite-video/",
-      "description": "Një 62-vjeçar është arrestuar në flagrancë në Mirditë, pasi dyshohet se i ka vënë qëllimisht zjarrin një sipërfaqeje me shkurre dhe pyje. Sipas Policisë, gjatë ditëve të fundit ai dyshohet se ka ndezur edhe pesë vatra të tjera zjarri në të njëjtën zonë. Arrestimi i shtetasit me inicialet Anton Deda,",
-      "source": "24 ORE",
+      "title": "Aksident tragjik në Britani, disa të vdekur pas përplasjes së makinave",
+      "link": "https://abcnews.al/aksident-tragjik-ne-britani-disa-te-vdekur-pas-perplasjes-se-makinave/",
+      "description": "Disa persona kanë humbur jetën në një aksident të rëndë rrugor në autostradën A66, pranë Middlesbrough në Britani. Aksidenti ndodhi rreth orës 03:39, sipas orës lokale, në zonën e South Bank, në Teesside, dhe përfshiu një automjet policie dhe një Volkswagen Passat. Sipas Shërbimit të Ambulancës së V",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-22T09:18:59+00:00",
-      "dateStr": "22 Aug, 09:18",
+      "date": "2026-08-22T10:14:50+00:00",
+      "dateStr": "22 Aug, 10:14",
       "isNew": true,
-      "id": "24 11787390339"
+      "id": "abc01787393690"
     },
     {
-      "title": "Zyrihu drejt pilotimit të javës 35-orëshe të punës, pa ulje pagash",
-      "link": "https://24-ore.com/zyrihu-drejt-pilotimit-te-javes-35-oreshe-te-punes-pa-ulje-pagash/",
-      "description": "Autoritetet e qytetit të zyrihut kanë miratuar një kornizë për zbatimin e një projekti pilot që parashikon shkurtimin e javës së punës nga 42 në 35 orë, pa reduktim të pagave. Megjithatë, ende nuk është përcaktuar se cilat departamente të administratës do të përfshihen në këtë projekt. Nisma për një",
-      "source": "24 ORE",
+      "title": "Bypass-i i Vlorës kthehet në atraksion turistik",
+      "link": "https://abcnews.al/bypass-i-i-vlores-kthehet-ne-atraksion-turistik/",
+      "description": "Përfundimi i Bypass-it të Vlorës nuk ka sjellë vetëm një alternativë të re për lëvizjen e automjeteve drejt jugut dhe lehtësimin e trafikut, veçanërisht gjatë sezonit turistik, por edhe një pikë të re panoramike që po tërheq gjithnjë e më shumë vizitorë. Një prej pikave më të frekuentuara ndodhet pë",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-22T09:18:40+00:00",
-      "dateStr": "22 Aug, 09:18",
+      "date": "2026-08-22T10:12:51+00:00",
+      "dateStr": "22 Aug, 10:12",
       "isNew": true,
-      "id": "24 21787390320"
+      "id": "abc11787393571"
     },
     {
-      "title": "Ish-kampioni i Botës në Boks vritet me armë zjarri në derë të shtëpisë",
-      "link": "https://24-ore.com/ish-kampioni-i-botes-ne-boks-vritet-me-arme-zjarri-ne-dere-te-shtepise/",
-      "description": "Ish-kampioni dy herë i botës në boks, tridhjetë e tetë vjeçari Zolani Tete, u vra në pragun e shtëpisë së tij në Republikën e Afrikës së Jugut, pasi u qëllua nga dy sulmues të maskuar me motoçikleta. Atleti fatkeq u sulmua në mes të ditës, ndërsa po qëndronte para shtëpisë së tij në Mdantsane në [&#",
+      "title": "Ramush Haradinaj propozon Thaçin për president: T’i vazhdohet mandati që iu ndal në gjysmë",
+      "link": "https://24-ore.com/ramush-haradinaj-propozon-thacin-per-president-ti-vazhdohet-mandati-qe-iu-ndal-ne-gjysme/",
+      "description": "Ish-kryetari i Aleancës, deputeti Ramush Haradinaj ka propozuar Hashim Thaçin për president, duke thënë se do të ishte nder për kombin që t’i vazhdohet mandati si president Thaçit, që i është marr nga një ndërhyrje ligjore. Haradinaj tha tutje se ka edhe opsione tjera për president. “Nëse do zgjidhj",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-22T09:18:20+00:00",
-      "dateStr": "22 Aug, 09:18",
+      "date": "2026-08-22T10:12:23+00:00",
+      "dateStr": "22 Aug, 10:12",
       "isNew": true,
-      "id": "24 31787390300"
+      "id": "24 11787393543"
     },
     {
-      "title": "Sulm i dyfishtë rus në Ukrainë, 16 të vrarë dhe mbi 130 të plagosur",
-      "link": "https://24-ore.com/sulm-i-dyfishte-rus-ne-ukraine-16-te-vrare-dhe-mbi-130-te-plagosur/",
-      "description": "Ekipet e shpëtimit në Krivyi Rih të Ukrainës janë ende duke kërkuar për viktima në rrënojat e një qendre tregtare, pasi një sulm i dyfishtë rus të premten vrau të paktën 16 persona dhe plagosi më shumë se 130. Guvernatori i rajonit të Dnipropetrovskit, ku ndodhet qyteti, vendlindja e Presidentit ukr",
-      "source": "24 ORE",
+      "title": "“Shqipëria Sot” me Jeta Kasemi, (22/08/2026)",
+      "link": "https://abcnews.al/shqiperia-sot-me-jeta-kasemi-22-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-22T09:17:56+00:00",
-      "dateStr": "22 Aug, 09:17",
+      "date": "2026-08-22T10:08:28+00:00",
+      "dateStr": "22 Aug, 10:08",
       "isNew": true,
-      "id": "24 41787390276"
+      "id": "abc21787393308"
     },
     {
-      "title": "SHBA, TikTok do paguajë 400 milionë dollarë pas padisë për të dhënat personale të të miturve",
-      "link": "https://24-ore.com/shba-tiktok-do-paguaje-400-milione-dollare-pas-padise-per-te-dhenat-personale-te-te-miturve/",
-      "description": "TikTok ka rënë dakord të paguajë 400 milionë dollarë për të zgjidhur një padi mbi mbledhjen e të dhënave personale të fëmijëve , njoftoi Departamenti i Drejtësisë i SHBA-së. Marrëveshja nuk përfshin pranimin e fajit, sqaron njoftimi i ministrisë, i cili thekson, ndër të tjera, ndryshimin në statusin",
-      "source": "24 ORE",
+      "title": "Ndahet nga jeta ish-kryeministri i Estonisë, Siim Kallas",
+      "link": "https://abcnews.al/ndahet-nga-jeta-ish-kryeministri-i-estonise-siim-kallas/",
+      "description": "Politikani estonez Siim Kallas, ish-kryeministër i Estonisë dhe ish-nënkryetar i Komisionit Evropian, ka ndërruar jetë. Lajmin e bëri të ditur vajza e tij, Kaja Kallas, Përfaqësuesja e Lartë e Bashkimit Evropian për Punët e Jashtme dhe Politikën e Sigurisë. “Me trishtim njoftoj se babai im i dashur,",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-22T09:17:36+00:00",
-      "dateStr": "22 Aug, 09:17",
+      "date": "2026-08-22T10:03:25+00:00",
+      "dateStr": "22 Aug, 10:03",
       "isNew": true,
-      "id": "24 51787390256"
+      "id": "abc31787393005"
     },
     {
-      "title": "Trump: Irani nuk është gati për marrëveshjen e duhur, SHBA monitoron situatën në Hormuz",
-      "link": "https://24-ore.com/trump-irani-nuk-eshte-gati-per-marreveshjen-e-duhur-shba-monitoron-situaten-ne-hormuz/",
-      "description": "Presidenti amerikan Donald Trump ka deklaruar se nuk beson se Irani është ende i gatshëm të arrijë një marrëveshje që do t’i japë fund konfliktit, ndërsa Shtetet e Bashkuara po shqyrtojnë hapat e mëtejshëm. Trump tha gjithashtu se SHBA-ja ka “kontrollin e plotë” të zonës përreth Ngushticës së Hormuz",
+      "title": "Agjenti i Julian Alvarez akuza ndaj drejtuesve të Atletiko Madrid: Mos pyesni kurrë një gënjeshtar se përse gënjeu…",
+      "link": "https://24-ore.com/agjenti-i-julian-alvarez-akuza-ndaj-drejtuesve-te-atletiko-madrid-mos-pyesni-kurre-nje-genjeshtar-se-perse-genjeu/",
+      "description": "Ndizet gjithnjë e më shumë situata te Atletico Madrid për Julian Alvarez. Ai që mendoi t’i hedhë benzinë zjarrit është agjenti i futbollistit, Fernando Hidalgo që përmes një postimi në Instagram Story shpërtheu zemërimin e tij pas deklaratave të Shefit Ekzekutiv të Los Colchoneros, Miguel Angel Gil ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-22T09:17:00+00:00",
-      "dateStr": "22 Aug, 09:17",
+      "date": "2026-08-22T10:02:49+00:00",
+      "dateStr": "22 Aug, 10:02",
       "isNew": true,
-      "id": "24 61787390220"
+      "id": "24 21787392969"
+    },
+    {
+      "title": "Agjenti i Julian Alvarez akuza ndaj drejtuesve të Atletiko Madrid: Mos pyesni kurrë një gënjeshtar se përse gënjeu…",
+      "link": "https://24-ore.com/agjenti-i-julian-alvarez-akuza-ndaj-drejtuesve-te-atletiko-madrid-mos-pyesni-kurre-nje-genjeshtar-se-perse-genjeu-2/",
+      "description": "Ndizet gjithnjë e më shumë situata te Atletico Madrid për Julian Alvarez. Ai që mendoi t’i hedhë benzinë zjarrit është agjenti i futbollistit, Fernando Hidalgo që përmes një postimi në Instagram Story shpërtheu zemërimin e tij pas deklaratave të Shefit Ekzekutiv të Los Colchoneros, Miguel Angel Gil ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T10:02:49+00:00",
+      "dateStr": "22 Aug, 10:02",
+      "isNew": true,
+      "id": "24 31787392969"
+    },
+    {
+      "title": "Studimi befasues, skaneri zbulon “Arkën e Noes” në Turqi! U mendua formacion shkëmbor, por…",
+      "link": "https://24-ore.com/studimi-befasues-skaneri-zbulon-arken-e-noes-ne-turqi-u-mendua-formacion-shkembor-por/",
+      "description": "Formacioni misterioz gjeologjik në formën e një varke, në malet e Turqisë lindore, është konsideruar prej shumë kohësh më tepër një masiv shkëmbor natyror. Por një ekip ndërkombëtar që po studion formacionin Durupınar, pranë malit Ararat, beson se ai është më shumë sesa thjesht gur, dhe mund të përm",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T10:02:19+00:00",
+      "dateStr": "22 Aug, 10:02",
+      "isNew": true,
+      "id": "24 41787392939"
+    },
+    {
+      "title": "“Do t’ju q* nënën ose…”/ Dëshmia e mikut të portugezit që u vra në Ksamil: Shokun tonë e goditën me kokë! Një tjetër erdhi me thikë në dorë",
+      "link": "https://shekulli.com.al/2026/08/22/do-tju-q-nenen-ose-deshmia-e-mikut-te-portugezit-qe-u-vra-ne-ksamil-shokun-tone-e-goditen-me-koke-nje-tjeter-erdhi-me-thike-ne-dore/",
+      "description": "Detaje të reja janë zbardhur nga ngjarja e rëndë në Ksamil, ku mbeti i vrarë turisti portugez Luis Miguel Varela Mendes. Nga dosja hetimore, është zbardhur dëshmia e një prej miqve të portugezit, i identifikuar si Adib Ghanmi, i cili pretendon se një person që fliste frëngjisht u është afruar dhe i ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T10:02:04+00:00",
+      "dateStr": "22 Aug, 10:02",
+      "isNew": true,
+      "id": "she01787392924"
+    },
+    {
+      "title": "Fluks i lartë dhe rekord në kufirin me Kosovën, në pesë orë hynë rreth 25 mijë persona dhe mbi 8 mijë mjete! Destinacio",
+      "link": "https://24-ore.com/fluks-i-larte-dhe-rekord-ne-kufirin-me-kosoven-ne-pese-ore-hyne-rreth-25-mije-persona-dhe-mbi-8-mije-mjete-destinacio/",
+      "description": "Kjo fundjavë gushti ka shënuar një tjetër fluks të lartë hyrjesh të mjeteve dhe udhëtarëve nga Kosova në Shqipëri, me destinacion kryesisht bregdetin. Në Stacionin e Policisë Kufitare Morinë në Kukës, gjatë ditës së shtunë (sot, 22 gusht), nga ora 05:00 deri në 10:00, kanë hyrë në Shqipëri 24,408 sh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T10:01:48+00:00",
+      "dateStr": "22 Aug, 10:01",
+      "isNew": true,
+      "id": "24 51787392908"
+    },
+    {
+      "title": "BDI: Shkrirja e VLEN-it në një parti është vetëm propagandë, Alternativa vazhdon të figurojë si parti e veçantë",
+      "link": "https://24-ore.com/bdi-shkrirja-e-vlen-it-ne-nje-parti-eshte-vetem-propagande-alternativa-vazhdon-te-figuroje-si-parti-e-vecante/",
+      "description": "Bashkimi Demokratik për Integrim ka ngritur akuza të reja ndaj VLEN, duke pretenduar se Alternativa vazhdon të figurojë si subjekt politik aktiv në Regjistrin Qendror, ndërsa në dokumentet zyrtare si kryetar i saj rezulton Zekirija Berisha. Sipas BDI-së, Berisha, i cili aktualisht është shef i kabin",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T09:52:04+00:00",
+      "dateStr": "22 Aug, 09:52",
+      "isNew": true,
+      "id": "24 61787392324"
+    },
+    {
+      "title": "Gonxhja në ceremoninë e pritjes së Lojërave Mesdhetare Taranto 2026, takime me personalitete të njohura",
+      "link": "https://24-ore.com/gonxhja-ne-ceremonine-e-pritjes-se-lojerave-mesdhetare-taranto-2026-takime-me-personalitete-te-njohura/",
+      "description": "Në Lojërat Mesdhetare Taranto 2026, Shqipëria përfaqësohet nga 72 sportistë në 17 disiplina, delegacioni më i madh kuqezi në historinë e pjesëmarrjeve tona në Lojërat Mesdhetare. Në ceremoninë e pritjes me rastin e hapjes së Lojërave Mesdhetare Taranto 2026, ministri i Turizmit, Kulturës dhe Sportit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T09:49:07+00:00",
+      "dateStr": "22 Aug, 09:49",
+      "isNew": true,
+      "id": "24 71787392147"
+    },
+    {
+      "title": "Aktiv prej dy ditësh, vihet në kontroll zjarri në Dukat dhe në “Malin e Çikës”",
+      "link": "https://24-ore.com/aktiv-prej-dy-ditesh-vihet-ne-kontroll-zjarri-ne-dukat-dhe-ne-malin-e-cikes/",
+      "description": "Zjarri i përmasave të mëdha që përfshiu zonën e Dukatit dhe malin e Çikës është vënë nën kontroll nga forcat zjarrfikëse. Pavarësisht neutralizimit të flakëve, zjarrfikësit vijojnë punën në terren, në një zonë të vështirë malore, duke kontrolluar trungjet dhe drurët e mbetur të djegur, me qëllim shm",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T09:47:33+00:00",
+      "dateStr": "22 Aug, 09:47",
+      "isNew": true,
+      "id": "24 81787392053"
+    },
+    {
+      "title": "“Mos më shaj nga nëna, se është e shenjtë!”- Shoku i turistit të vrarë portugez zbardhi krimin dhe identifikoi Vatën",
+      "link": "https://24-ore.com/mos-me-shaj-nga-nena-se-eshte-e-shenjte-shoku-i-turistit-te-vrare-portugez-zbardhi-krimin-dhe-identifikoi-vaten/",
+      "description": "Zbardhen detaje nga vrasja e turistit portugez Luis Miguel Varela Mendez në Ksamil pak ditë më parë. Pas hetimeve të kryera dhe seancës së djeshme në Gjykatën e Sarandës për 11 të arrestuarit, është zbardhur edhe dëshmia e Adib Ghanmi, shtetas francez që rrëfen detajet e ngjarjes. “Kam qenë me shokë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T09:47:17+00:00",
+      "dateStr": "22 Aug, 09:47",
+      "isNew": true,
+      "id": "24 91787392037"
+    },
+    {
+      "title": "Më 16 shtator vendimi për ish-krerët e UÇK/ Hamza: Kosova nuk harron! “Ora e Pritjes” edhe në qytete të tjera",
+      "link": "https://abcnews.al/me-16-shtator-vendimi-per-ish-kreret-e-uck-hamza-kosova-nuk-harron-ora-e-pritjes-edhe-ne-qytete-te-tjera/",
+      "description": "Kryetari i PDK-së, Bedri Hamza, ka bërë të ditur se ekranet me numërimin mbrapsht deri më 16 shtator do të vendosen jo vetëm në Prishtinë, por edhe në qytete të tjera të Kosovës. Deklarata u bë gjatë aktivitetit “Ora e Pritjes”, të organizuar nga platforma “Liria ka Emër” në sheshin “Nënë Tereza” në",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T09:32:05+00:00",
+      "dateStr": "22 Aug, 09:32",
+      "isNew": true,
+      "id": "abc41787391125"
+    },
+    {
+      "title": "“Ora e Pritjes” vendoset në Prishtinë, nis numërimi mbrapsht për 16 shtatorin, pritet vendimi për ish-krerët e UÇK",
+      "link": "https://abcnews.al/ora-e-pritjes-vendoset-ne-prishtine-nis-numerimi-mbrapsht-per-16-shtatorin-pritet-vendimi-per-ish-kreret-e-uck/",
+      "description": "Platforma “Liria ka Emër” ka vendosur në Prishtinë “Orën e Pritjes”, një ekran që shënon numërimin e ditëve deri më 16 shtator, datë kur pritet vendimi final për krerët e UÇK-së që po gjykohen në Hagë. Në ceremoninë e vendosjes së ekranit, kryetari i PDK-së, Bedri Hamza, e cilësoi “Orën e Pritjes” s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T09:27:49+00:00",
+      "dateStr": "22 Aug, 09:27",
+      "isNew": true,
+      "id": "abc51787390869"
+    },
+    {
+      "title": "Video/ Arrestohet në Durrës 57-vjeçari i shpallur në kërkim ndërkombëtar! Kush është “mashtruesi” i dënuar me burg (Emri)",
+      "link": "https://shekulli.com.al/2026/08/22/video-arrestohet-ne-durres-57-vjecari-i-shpallur-ne-kerkim-nderkombetar-kush-eshte-mashtruesi-i-denuar-me-burg-emri/",
+      "description": "Një 57-vjeçar i shpallur në kërkim ndërkombëtar, është arrestuar në Durrës. Policia ka njoftuar se ka arrestuar Enver Zhjeqin, i cili kërkohej nga autoritetet e Kosovës. 57-vjeçari është dënuar me 3 vite e 6 muaj burgim, pasi është shpallur fajtor për veprat penale “Falsifikimi i dokumenteve” dhe “M",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T09:21:59+00:00",
+      "dateStr": "22 Aug, 09:21",
+      "isNew": true,
+      "id": "she11787390519"
     },
     {
       "title": "Operacioni “Wanted 38”, arrestohet në Durrës 57-vjeçari i dënuar në Kosovë",
@@ -89,7 +210,7 @@
       "date": "2026-08-22T09:13:29+00:00",
       "dateStr": "22 Aug, 09:13",
       "isNew": true,
-      "id": "abc01787390009"
+      "id": "abc61787390009"
     },
     {
       "title": "Zjarri në Dukat dhe malin e Çikës vihet nën kontroll",
@@ -100,29 +221,7 @@
       "date": "2026-08-22T09:11:10+00:00",
       "dateStr": "22 Aug, 09:11",
       "isNew": true,
-      "id": "abc11787389870"
-    },
-    {
-      "title": "Zjarre në Lezhë e Mirditë, disa vatra ende aktive! Terreni vështirëson aksionin, kritike situate në Kashnjet dhe Tenë",
-      "link": "https://24-ore.com/zjarre-ne-lezhe-e-mirdite-disa-vatra-ende-aktive-terreni-veshtireson-aksionin-kritike-situate-ne-kashnjet-dhe-tene/",
-      "description": "Disa vatra zjarri vijojnë të jenë aktive në territorin e qarkut Lezhë, ndërsa autoritetet kanë angazhuar forca dhe mjete për përballimin e situatës. Sipas përditësimit të orës 08:00 të datës 22 gusht, në Bashkinë Kurbin nuk raportohen probleme. Në Bashkinë Lezhë, zjarri i ardhur nga fshati Vrrith i ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T09:02:35+00:00",
-      "dateStr": "22 Aug, 09:02",
-      "isNew": true,
-      "id": "24 71787389355"
-    },
-    {
-      "title": "“Ndezi 5 vatra e dogji 15 hektarë”- Piromani nuk heq dorë nga ‘vesi’, 62-vjeçari kapet përsëri duke i vënë zjarri",
-      "link": "https://24-ore.com/ndezi-5-vatra-e-dogji-15-hektare-piromani-nuk-heq-dore-nga-vesi-62-vjecari-kapet-perseri-duke-i-vene-zjarri/",
-      "description": "Një 62-vjeçar i dyshuar si piroman ka rënë përsëri në prangat e policisë për vendosje zjarresh në zonën e Mirditës. Burime zyrtare konfirmuan sot (22 gusht) lajmin, duke nisur edhe procedurat hetimore. “Shërbimet e Komisariatit të Policisë Mirditë finalizuan me sukses fazën e dytë të operacionit pol",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T09:02:05+00:00",
-      "dateStr": "22 Aug, 09:02",
-      "isNew": true,
-      "id": "24 81787389325"
+      "id": "abc71787389870"
     },
     {
       "title": "Video/ Arrestohet autori i 6 vatrave të zjarrit në Mirditë! Momenti kur policia e kap duke ndezur flakët (Emri)",
@@ -133,18 +232,7 @@
       "date": "2026-08-22T08:58:47+00:00",
       "dateStr": "22 Aug, 08:58",
       "isNew": true,
-      "id": "she01787389127"
-    },
-    {
-      "title": "Prapaskena/ U rikthye në fushë i dëmtuar, tifozët e Trabzonit vlerësojnë Muçin për sakrificën",
-      "link": "https://24-ore.com/prapaskena-u-rikthye-ne-fushe-i-demtuar-tifozet-e-trabzonit-vleresojne-mucin-per-sakrificen/",
-      "description": "Edhe pse dëmtimi i tij në kofshë u mendua se do ta linte jashtë fushave për dy javë, Ernest Muçi nuk u tërhoq kur ekipit të tij i duhej më shumë se kurrë kontributi i lojtarit në fushë. Rikthimi përpara kohe në aksion, madje në një ndeshje ku Trabzonspor-it i duhet të luajë dy takime [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T08:52:11+00:00",
-      "dateStr": "22 Aug, 08:52",
-      "isNew": true,
-      "id": "24 91787388731"
+      "id": "she21787389127"
     },
     {
       "title": "Mirditë/ Kapet në flagrancë 62-vjeçari, dyshohet se ndezi 6 vatra zjarri",
@@ -155,7 +243,7 @@
       "date": "2026-08-22T08:51:02+00:00",
       "dateStr": "22 Aug, 08:51",
       "isNew": true,
-      "id": "abc21787388662"
+      "id": "abc81787388662"
     },
     {
       "title": "E rëndë/ Po luante me kallashnikov, i mituri shqiptar shkrep armën dhe qëllon vëllain 10-vjeçar",
@@ -166,7 +254,7 @@
       "date": "2026-08-22T08:34:00+00:00",
       "dateStr": "22 Aug, 08:34",
       "isNew": true,
-      "id": "she11787387640"
+      "id": "she31787387640"
     },
     {
       "title": "Mbetet në burg taksisti që përplasi qytetarin në Durrës! Makina elektrike mori para viktimën nga pakujdesia e 26-vjeçarit",
@@ -177,7 +265,7 @@
       "date": "2026-08-22T08:23:33+00:00",
       "dateStr": "22 Aug, 08:23",
       "isNew": true,
-      "id": "she21787387013"
+      "id": "she41787387013"
     },
     {
       "title": "Studimi: IA po i bën nxënësit të mendojnë më pak",
@@ -188,29 +276,7 @@
       "date": "2026-08-22T08:22:44+00:00",
       "dateStr": "22 Aug, 08:22",
       "isNew": true,
-      "id": "abc31787386964"
-    },
-    {
-      "title": "Zjarret në Shqipëri/ 32 vatra të raportuara, 6 mbeten aktive",
-      "link": "https://abcnews.al/zjarret-ne-shqiperi-32-vatra-te-raportuara-6-mbeten-aktive/",
-      "description": "Tiranë – Ministria e Mbrojtjes ka bërë bilancin e situatës së zjarreve në vend gjatë 24 orëve të fundit. Sipas të dhënave zyrtare, janë raportuar gjithsej 32 vatra zjarri, prej të cilave 6 mbeten aktive, ndërsa 4 janë nën mbikëqyrje. Në operacionet e zhvilluara gjatë ditës së djeshme janë angazhuar ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T08:10:45+00:00",
-      "dateStr": "22 Aug, 08:10",
-      "isNew": true,
-      "id": "abc41787386245"
-    },
-    {
-      "title": "SHBA miraton robotin e parë për marrjen e mostrave të gjakut",
-      "link": "https://abcnews.al/shba-miraton-robotin-e-pare-per-marrjen-e-mostrave-te-gjakut/",
-      "description": "Autoritetet amerikane kanë miratuar robotin e parë të projektuar për marrjen e mostrave të gjakut në qendra mjekësore dhe ambulanca, një teknologji që synon të përshpejtojë një nga procedurat më të zakonshme mjekësore. Sistemi, i quajtur Aletta, përdor teknologji me rreze infra të kuqe dhe ultrating",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T08:00:30+00:00",
-      "dateStr": "22 Aug, 08:00",
-      "isNew": true,
-      "id": "abc51787385630"
+      "id": "abc91787386964"
     },
     {
       "title": "Kërkohej që prej vitit 2014, arrestohet në Greqi shqiptari! Ja për çfarë akuzohet",
@@ -221,18 +287,7 @@
       "date": "2026-08-22T07:52:58+00:00",
       "dateStr": "22 Aug, 07:52",
       "isNew": true,
-      "id": "she31787385178"
-    },
-    {
-      "title": "Zjarri në Spanjë/ Urdhër evakuimi në Valencia, flakët pranë banesave",
-      "link": "https://abcnews.al/zjarri-ne-spanje-urdher-evakuimi-ne-valencia-flaket-prane-banesave/",
-      "description": "Autoritetet rajonale në Valencia të Spanjës urdhëruan evakuimin e komunitetit të Gatovës, pas shpërthimit të një zjarri të fuqishëm në pyje, i cili dyshohet se u shkaktua nga rrufeja. Qindra banorë morën një alarm urgjent në telefonat e tyre celularë, me udhëzimin për t&#8217;u larguar menjëherë nga",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T07:25:43+00:00",
-      "dateStr": "22 Aug, 07:25",
-      "isNew": true,
-      "id": "abc61787383543"
+      "id": "she51787385178"
     },
     {
       "title": "“Çunat e Londrës” i shpëtojnë dëbimit nga Britania e Madhe! Gjykata: Janë viktima të trafikimit, në Shqipëri u kanoset rrezik real",
@@ -243,40 +298,7 @@
       "date": "2026-08-22T07:19:49+00:00",
       "dateStr": "22 Aug, 07:19",
       "isNew": true,
-      "id": "she41787383189"
-    },
-    {
-      "title": "Von der Leyen dënon planin e Izraelit për ndërtimin e banesave në Bregun Perëndimor",
-      "link": "https://abcnews.al/von-der-leyen-denon-planin-e-izraelit-per-ndertimin-e-banesave-ne-bregun-perendimor/",
-      "description": "Presidentja e Komisionit Evropian, Ursula von der Leyen, ka dënuar planin e qeverisë izraelite për të shpallur tenderë për ndërtimin e njësive të reja të banimit në kuadër të projektit “E1” në Bregun Perëndimor të pushtuar. “Vendimi i qeverisë izraelite për të publikuar një thirrje për tender për nd",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T07:15:10+00:00",
-      "dateStr": "22 Aug, 07:15",
-      "isNew": true,
-      "id": "abc71787382910"
-    },
-    {
-      "title": "Rama ndan pamjet nga Saranda, një nga destinacionet e preferuara turistike në jug të Shqipërisë",
-      "link": "https://abcnews.al/rama-ndan-pamjet-nga-saranda-nje-nga-destinacionet-e-preferuara-turistike-ne-jug-te-shqiperise/",
-      "description": "Saranda vijon të jetë një nga destinacionet më të frekuentuara turistike në jug të Shqipërisë, duke tërhequr çdo verë mijëra vizitorë vendas dhe të huaj. Kryeministri Edi Rama ka ndarë pamje nga Saranda në muajin gusht, ku bie në sy bregdeti i qytetit dhe prania e një anijeje turistike në ujërat për",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T07:06:25+00:00",
-      "dateStr": "22 Aug, 07:06",
-      "isNew": true,
-      "id": "abc81787382385"
-    },
-    {
-      "title": "PDK kërkon sërish vazhdimin e seancës së Kuvendit të Kosovës",
-      "link": "https://abcnews.al/pdk-kerkon-serish-vazhdimin-e-seances-se-kuvendit-te-kosoves/",
-      "description": "Deputetët e Partisë Demokratike të Kosovës (PDK) do të mblidhen sërish sot në sallën e Kuvendit të Kosovës, duke kërkuar vazhdimin e seancës konstituive të legjislaturës së 11-të. Deputetët e PDK-së, së bashku me ata të Aleancës, janë mbledhur çdo 48 orë në Kuvend që nga fillimi i gushtit, pas shtyr",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T07:00:58+00:00",
-      "dateStr": "22 Aug, 07:00",
-      "isNew": true,
-      "id": "abc91787382058"
+      "id": "she61787383189"
     },
     {
       "title": "Fakulteti i Mjekësisë publikon listat paraprake të studentëve fitues! Ja kur do të nisin regjistrimet",
@@ -287,7 +309,7 @@
       "date": "2026-08-22T06:59:47+00:00",
       "dateStr": "22 Aug, 06:59",
       "isNew": true,
-      "id": "she51787381987"
+      "id": "she71787381987"
     },
     {
       "title": "Shteti si pronar, privati si ndërtues: Pse garat po mbeten pa oferta",
@@ -298,7 +320,7 @@
       "date": "2026-08-22T06:46:09+00:00",
       "dateStr": "22 Aug, 06:46",
       "isNew": true,
-      "id": "she61787381169"
+      "id": "she81787381169"
     },
     {
       "title": "Nis edicioni i 88-të i Superligës, Vllaznia shpërdoron avantazhin e dy golave, Skënderbeu e barazon 2-2 në Shkodër",
@@ -309,29 +331,7 @@
       "date": "2026-08-21T20:59:11+00:00",
       "dateStr": "21 Aug, 20:59",
       "isNew": true,
-      "id": "she71787345951"
-    },
-    {
-      "title": "Divjaka vijon protestën kundër bashkimit me Lushnjën: Mazniku ”non grata”",
-      "link": "https://shekulli.com.al/2026/08/21/divjaka-vijon-protesten-kunder-bashkimit-me-lushnjen-mazniku-non-grata/",
-      "description": "Protesta kundër bashkimit të Bashkisë Divjakë me Bashkinë e Lushnjës ka hyrë në ditën e 22-të. Gjatë tubimit të mbrëmjes, banorët përsëritën kërkesat e tyre kundër shkrirjes së bashkisë dhe kërkuan që Divjaka të vijojë të funksionojë si njësi e veçantë administrative. Protestuesit iu drejtuan edhe d",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-21T20:40:58+00:00",
-      "dateStr": "21 Aug, 20:40",
-      "isNew": true,
-      "id": "she81787344858"
-    },
-    {
-      "title": "Presidenti Begaj në Itali, pritet nga Mattarella dhe Meloni. Mbështet kuqezinjtë në Lojërat Mesdhetare",
-      "link": "https://shekulli.com.al/2026/08/21/presidenti-begaj-ne-itali-pritet-nga-mattarella-dhe-meloni-mbeshtet-kuqezinjte-ne-lojerat-mesdhetare/",
-      "description": "Presidenti i Republikës, Bajram Begaj, mori pjesë në ceremoninë e hapjes së Lojërave Mesdhetare “Taranto 2026”, në mbështetje të ekipit të sportistëve shqiptarë, me ftesë të Presidentit të Republikës së Italisë, Sergio Mattarella. Kreu i Shtetit u prit nga Presidenti italian Sergio Mattarella dhe Kr",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-21T20:23:04+00:00",
-      "dateStr": "21 Aug, 20:23",
-      "isNew": true,
-      "id": "she91787343784"
+      "id": "she91787345951"
     }
   ]
 }
