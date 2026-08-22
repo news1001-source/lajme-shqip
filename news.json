@@ -1,8 +1,217 @@
 {
-  "lastUpdated": "2026-08-22T11:15:53.074517+00:00",
+  "lastUpdated": "2026-08-22T12:28:27.173306+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Ilja Dragunov largohet nga WWE pas skadimit të kontratës",
+      "link": "https://24-ore.com/ilja-dragunov-largohet-nga-wwe-pas-skadimit-te-kontrates/",
+      "description": "Ilja Dragunov nuk është më pjesë e WWE-së, pasi ka dalë jashtë kompanisë pas një periudhe mungese dhe skadimit të kontratës së tij. Lajmi e vendos luftëtar...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T12:26:52+00:00",
+      "dateStr": "22 Aug, 12:26",
+      "isNew": true,
+      "id": "24 01787401612"
+    },
+    {
+      "title": "James Harden pranon uljen e pagës dhe ndihmon rekrutimin e Peyton Watson te Cleveland",
+      "link": "https://24-ore.com/james-harden-pranon-uljen-e-pages-dhe-ndihmon-rekrutimin-e-peyton-watson-te-cleveland/",
+      "description": "James Harden ka pranuar të zvogëlojë pagën dhe ka luajtur rol vendimtar gjatë procesit që çoi te nënshkrimi i Peyton Watson nga Denveri, në krahun e Clevel...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T12:21:25+00:00",
+      "dateStr": "22 Aug, 12:21",
+      "isNew": true,
+      "id": "24 11787401285"
+    },
+    {
+      "title": "Një përditësim tregon se kur pritet të kthehet Vladimir Guerrero Jr. pas goditjes në kokë",
+      "link": "https://24-ore.com/nje-perditesim-tregon-se-kur-pritet-te-kthehet-vladimir-guerrero-jr-pas-goditjes-ne-koke/",
+      "description": "Vladimir Guerrero Jr. pritet të rikthehet të shtunën në renditjen e Toronto Blue Jays, pas një goditjeje në kokë që e ka mbajtur jashtë që nga 14 gushti. M...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T12:20:40+00:00",
+      "dateStr": "22 Aug, 12:20",
+      "isNew": true,
+      "id": "24 21787401240"
+    },
+    {
+      "title": "Zjarret në vend, situata drejt përmirësimit/ Ministria e Mbrojtjes: 4 vatra aktive, vijon ndërhyrja nga toka dhe ajri",
+      "link": "https://abcnews.al/zjarret-ne-vend-situata-drejt-permiresimit-ministria-e-mbrojtjes-4-vatra-aktive-vijon-nderhyrja-nga-toka-dhe-ajri/",
+      "description": "Situata e zjarreve në vend paraqitet në përmirësim, por 4 vatra vijojnë të jenë aktive. Ministria e Mbrojtjes njofton se gjatë ditës janë raportuar gjithsej 11 vatra zjarri, 7 prej të cilave janë tashmë nën mbikëqyrje. Në operacionet për shuarjen e flakëve janë angazhuar 332 forca operacionale dhe 1",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T12:19:27+00:00",
+      "dateStr": "22 Aug, 12:19",
+      "isNew": true,
+      "id": "abc01787401167"
+    },
+    {
+      "title": "Pelegrinazhi në Malin e Tomorit kulmon me ditën e Abaz Aliut, Baba Mondi: Të ruajmë paqen dhe respektin për njëri-tjetrin",
+      "link": "https://24-ore.com/pelegrinazhi-ne-malin-e-tomorit-kulmon-me-diten-e-abaz-aliut-baba-mondi-te-ruajme-paqen-dhe-respektin-per-njeri-tjetrin/",
+      "description": "Mijëra besimtarë nga Shqipëria dhe vende të ndryshme janë mbledhur në Malin e Tomorit për pelegrinazhin tradicional në nderim të Abaz Aliut. Sot, 22 gusht, shënohet dita kulmore e festimeve, ndërsa pelegrinazhi do të vijojë deri më 25 gusht. Kryegjyshi Botëror Bektashian, Haxhi Dede Baba Mondi u shp",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T12:19:03+00:00",
+      "dateStr": "22 Aug, 12:19",
+      "isNew": true,
+      "id": "24 31787401143"
+    },
+    {
+      "title": "“Tre pikët e para”- Gjimshiti debuton në kampionatin arab, titullar për 90 minuta në fitoren e Al Diriyah!",
+      "link": "https://24-ore.com/tre-piket-e-para-gjimshiti-debuton-ne-kampionatin-arab-titullar-per-90-minuta-ne-fitoren-e-al-diriyah/",
+      "description": "Berat Gjimshiti tashmë e ka nisur aventurën e tij të re në kampionatin arab të futbollit. Kapiteni i kombëtares shqiptare që pas një dekade në Serie A me Atalantën u largua nga klubi bergamask, ishte titullar në ndeshjen që skuadra e tij e re Al Diriyah fitoi me rezultatin 1-0. Gjimshiti i luajti të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T12:17:37+00:00",
+      "dateStr": "22 Aug, 12:17",
+      "isNew": true,
+      "id": "24 41787401057"
+    },
+    {
+      "title": "FOTO/ Dyshohet se do kryente krim në Tiranë, 40-vjeçari kapet me pistoletë të mbushur te “Liqeni i thatë”",
+      "link": "https://24-ore.com/foto-dyshohet-se-do-kryente-krim-ne-tirane-40-vjecari-kapet-me-pistolete-te-mbushur-te-liqeni-i-thate/",
+      "description": "Një 40-vjeçar është arrestuar sot (22 gusht) në flagrancë nga Policia e Tiranës, pasi u kap duke qarkulluar me një armë zjarri dhe municion luftarak, teksa dyshohet se do merrte pjesë në një krim. Kontrollet u kryen në zonën e Liqenit të Thatë, nga shërbimet e Sektorit Operacional, në bashkëpunim me",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T12:16:40+00:00",
+      "dateStr": "22 Aug, 12:16",
+      "isNew": true,
+      "id": "24 51787401000"
+    },
+    {
+      "title": "Agjencia e udhëtimeve ”Nomad Lawyer”: Shqipëria po rishkruan hartën e turizmit kulturor në Evropë",
+      "link": "https://24-ore.com/agjencia-e-udhetimeve-nomad-lawyer-shqiperia-po-rishkruan-harten-e-turizmit-kulturor-ne-evrope/",
+      "description": "– Shqipëria po shfaqet si destinacioni kulturor me rritjen më të shpejtë në Ballkan – – Shqipëria është kthyer në një nga historitë më të spikatura të turizmit kulturor në Ballkan në vitin 2026, shkruan Naina Thakur për agjencinë e udhëtimeve ”Nomad Lawyer”. ”Dikur pothuajse e padukshme në itinerare",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T12:16:14+00:00",
+      "dateStr": "22 Aug, 12:16",
+      "isNew": true,
+      "id": "24 61787400974"
+    },
+    {
+      "title": "Kurti: Armatimi ilegal me tyta të gjata nuk është për hajr, por veç për sherr",
+      "link": "https://24-ore.com/kurti-armatimi-ilegal-me-tyta-te-gjata-nuk-eshte-per-hajr-por-vec-per-sherr/",
+      "description": "Kryeministri në detyrë i Kosovës, Albin Kurti, ka lavdëruar punën e Policisë së Kosovës dhe Agjencisë së Kosovës për Inteligjencë (AKI), pas aksioneve të fundit që çuan në konfiskimin e një sasie të madhe armësh dhe municioni në veri të vendit. Kurti, gjatë një konference për media, ka thënë se në R",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T12:12:40+00:00",
+      "dateStr": "22 Aug, 12:12",
+      "isNew": true,
+      "id": "24 71787400760"
+    },
+    {
+      "title": "​“Absurde që ura e Ibrit të mbahet e mbyllur”, Kurti: Pasdite takohem me komandantin e KFOR-it",
+      "link": "https://24-ore.com/absurde-qe-ura-e-ibrit-te-mbahet-e-mbyllur-kurti-pasdite-takohem-me-komandantin-e-kfor-it/",
+      "description": "Kryeministri në detyrë, Albin Kurti, ka bërë të ditur se sot do të zhvillojë një takim me komandantin e KFOR-it, gjeneralin Ozkan Ulutash, ku një nga temat kryesore pritet të jetë hapja e plotë e Urës së Ibrit për qarkullim të automjeteve. Kurti tha se institucionet e Kosovës janë në komunikim të va",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T12:12:26+00:00",
+      "dateStr": "22 Aug, 12:12",
+      "isNew": true,
+      "id": "24 81787400746"
+    },
+    {
+      "title": "News Line me Jeta Kasemi, (22/08/2026)",
+      "link": "https://abcnews.al/news-line-me-jeta-kasemi-22-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T12:10:26+00:00",
+      "dateStr": "22 Aug, 12:10",
+      "isNew": true,
+      "id": "abc11787400626"
+    },
+    {
+      "title": "OBRM-PDUKM: Maqedonia përmirëson ndjeshëm pozicionin në indeksin global të sigurisë kibernetike",
+      "link": "https://24-ore.com/obrm-pdukm-maqedonia-permireson-ndjeshem-pozicionin-ne-indeksin-global-te-sigurise-kibernetike/",
+      "description": "Qeveria e udhëhequr nga OBRM-PDUKM ka bërë një hap të rëndësishëm në forcimin e sigurisë kibernetike të shtetit. Sipas tyre, si rezultat i masave të ndërmarra, Maqedonia është ngjitur nga vendi i 59-të në vendin e 30-të në botë në Indeksin Kombëtar të Sigurisë Kibernetike, me 84,17 pikë. Nga partia ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T12:03:50+00:00",
+      "dateStr": "22 Aug, 12:03",
+      "isNew": true,
+      "id": "24 91787400230"
+    },
+    {
+      "title": "“Edicioni i Mesditës” me Jeta Kasemi, (22/08/2026)",
+      "link": "https://abcnews.al/edicioni-i-mesdites-me-jeta-kasemi-22-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T11:54:26+00:00",
+      "dateStr": "22 Aug, 11:54",
+      "isNew": true,
+      "id": "abc21787399666"
+    },
+    {
+      "title": "“Shqiponjat” ndalojnë 40-vjeçarin tek Liqeni i Thatë! Në makinë i gjendet arma e mbushur me fishekë",
+      "link": "https://shekulli.com.al/2026/08/22/shqiponjat-ndalojne-40-vjecarin-tek-liqeni-i-thate-ne-makine-i-gjendet-arma-e-mbushur-me-fisheke/",
+      "description": "Një 40-vjeçar është arrestuar ditën e sotme në Tiranë, pasi u kap duke qarkulluar me armë. Mësohet se 40-vjeçari u ndalua nga Forcat “Shqiponja” në zonën e Liqenit të Thatë, për kontroll të automjetit me të cilin qarkullonte. Gjatë kontrollit fizik, atij iu gjet një armë zjarri pistoletë dhe një kre",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T11:53:10+00:00",
+      "dateStr": "22 Aug, 11:53",
+      "isNew": true,
+      "id": "she01787399590"
+    },
+    {
+      "title": "VIDEO/ Qarkullonte i armatosur, arrestohet 40-vjeçari në Tiranë",
+      "link": "https://abcnews.al/video-qarkullonte-i-armatosur-arrestohet-40-vjecari-ne-tirane/",
+      "description": "Një 40-vjeçar është arrestuar në flagrancë në Tiranë, pasi u kap duke qarkulluar me automjet i armatosur me pistoletë. Policia bën me dije se gjatë kontrolleve të befasishme të kryera në zonën e Liqenit të Thatë nga shërbimet e Sektorit Operacional, në bashkëpunim me Forcën e Posaçme “Shqiponja” dhe",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T11:52:19+00:00",
+      "dateStr": "22 Aug, 11:52",
+      "isNew": true,
+      "id": "abc31787399539"
+    },
+    {
+      "title": "Pelegrinazh në malin e Tomorrit/ Besimtarët bektashinj kremtojnë festën e Abaz Aliut",
+      "link": "https://abcnews.al/pelegrinazh-ne-malin-e-tomorrit-besimtaret-bektashinj-kremtojne-festen-e-abaz-aliut/",
+      "description": "Kjo e shtunë shënoi kulmimin e pelegrinazhit në malin e Tomorit. Qindra besimtarë  bektashinj nga i gjithë vendi ngjitën malin, në shenjë mirësie për të nderuar shenjtorin Abaz Aliu. Kryegjyshi boteëor Haxhi Dede Edmond Brahimaj u lut për paqe dhe mirësi. “Pelegrinazhi i Abaz Aliut është një udhëtim",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T11:49:33+00:00",
+      "dateStr": "22 Aug, 11:49",
+      "isNew": true,
+      "id": "abc41787399373"
+    },
+    {
+      "title": "Humbi jetën pasi u godit nga helika e motorit të gomones, përcillet për në banesën e fundit 22-vjeçari Klaus Gjergji",
+      "link": "https://shekulli.com.al/2026/08/22/humbi-jeten-pasi-u-godit-nga-helika-e-motorit-te-gomones-percillet-per-ne-banesen-e-fundit-22-vjecari-klaus-gjergji/",
+      "description": "Është përcjellë për në banesën e fundit 22-vjeçari Klaus Gjergji, i cili humbi jetën në mënyrë tragjike pas një aksidenti në det, në zonën mes Rjollit dhe Ranës së Hedhun. Aksidenti i rëndë ndodhi më 20 gusht, kur i riu ishte duke lundruar me gomone së bashku me dy shokë të tij, kur u rrëzua [&#8230",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T11:45:04+00:00",
+      "dateStr": "22 Aug, 11:45",
+      "isNew": true,
+      "id": "she11787399104"
+    },
+    {
+      "title": "“Po nxit përçarje fetare”/ Berisha kundër shtetit Bektashi: Shqipëria është shtet laik!",
+      "link": "https://shekulli.com.al/2026/08/22/po-nxit-percarje-fetare-berisha-kunder-shtetit-bektashi-shqiperia-eshte-shtet-laik/",
+      "description": "Kreu i Partisë Demokratike, Sali Berisha është shprehur kundër krijimit të shtetit bektashi në vendin tonë, duke e cilësuar nismën e propozuar nga kryeministri Edi Rama, si “antikushtetuese” dhe “antikombëtare”. Në një deklaratë të bërë ditën e sotme për mediat, Berisha tha se Partia Demokratike ka ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-22T11:34:37+00:00",
+      "dateStr": "22 Aug, 11:34",
+      "isNew": true,
+      "id": "she21787398477"
+    },
+    {
+      "title": "“Thaçi për president”, Haradinaj: Vazhdimi i mandatit të tij është nder për ne si shqiptarë",
+      "link": "https://abcnews.al/thaci-per-president-haradinaj-vazhdimi-i-mandatit-te-tij-eshte-nder-per-ne-si-shqiptaret/",
+      "description": "Ish-kryetari i Aleancës për Ardhmërinë e Kosovës, Ramush Haradinaj, ka kritikuar situatën aktuale institucionale në vend, duke e akuzuar kryeministrin në detyrë, Albin Kurti, për bllokimin e funksionimit të Kuvendit dhe zvarritjen e proceseve politike. Haradinaj tha se Kuvendi vazhdon të mbetet i pa",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-22T11:23:51+00:00",
+      "dateStr": "22 Aug, 11:23",
+      "isNew": true,
+      "id": "abc51787397831"
+    },
     {
       "title": "Shpërthim tritoli në Kamëz! 41-vjeçari gjen makinën të dëmtuar, ja dyshimet e para",
       "link": "https://shekulli.com.al/2026/08/22/shperthim-tritoli-ne-kamez-41-vjecari-gjen-makinen-te-demtuar-ja-dyshimet-e-para/",
@@ -12,7 +221,7 @@
       "date": "2026-08-22T11:07:38+00:00",
       "dateStr": "22 Aug, 11:07",
       "isNew": true,
-      "id": "she01787396858"
+      "id": "she31787396858"
     },
     {
       "title": "Shpërthim në Laknas, dëmtohet automjeti i një 41-vjeçari",
@@ -23,29 +232,7 @@
       "date": "2026-08-22T11:01:59+00:00",
       "dateStr": "22 Aug, 11:01",
       "isNew": true,
-      "id": "abc01787396519"
-    },
-    {
-      "title": "“Luisi ndërhyri të më mbronte mua”- U godit me thikë nga Sokrat Vata, miku i turistit portugez rrëfen krimin: Ja si nis",
-      "link": "https://24-ore.com/luisi-nderhyri-te-me-mbronte-mua-u-godit-me-thike-nga-sokrat-vata-miku-i-turistit-portugez-rrefen-krimin-ja-si-nis/",
-      "description": "Dalin në dritë detaje të reja nga dinamika, rrethanat dhe shkaqet e krimit të rëndë në Ksamil, ku u vra pas sherrit në lokalin “Princepote” turisti portugez nga i dyshuari Sokrat Vata. Sipas dëshmive, rezulton se turisti portugez Luis Miguel Varela Mendez u vra pasi ndërhyri për të ndihmuar shokun e",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T11:01:17+00:00",
-      "dateStr": "22 Aug, 11:01",
-      "isNew": true,
-      "id": "24 01787396477"
-    },
-    {
-      "title": "“Në protestë nuk shkoj sepse…”- Berisha thotë se do vizitojë SHBA-të, por jo se kur! Flet dhe për ambasadorin e",
-      "link": "https://24-ore.com/ne-proteste-nuk-shkoj-sepse-berisha-thote-se-do-vizitoje-shba-te-por-jo-se-kur-flet-dhe-per-ambasadorin-e/",
-      "description": "Kryetari i Partisë Demokratike tha sot se ai do t’i vizitonte SHBA-të së shpejti me rastin e ndonjë konference ndërkombëtare, por nuk dha as datë dhe as detaje se si do të ndodhte, pas deklarimit të mëparshëm se ishte hequr “non grata”. Gjithashtu ai dha mendim edhe për ambasadorin e ri të SHBA-ve n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T11:00:52+00:00",
-      "dateStr": "22 Aug, 11:00",
-      "isNew": true,
-      "id": "24 11787396452"
+      "id": "abc61787396519"
     },
     {
       "title": "Greqia përfshihet sërish nga vala e të nxehtit, temperaturat mund të kalojnë 42°C",
@@ -56,95 +243,18 @@
       "date": "2026-08-22T11:00:12+00:00",
       "dateStr": "22 Aug, 11:00",
       "isNew": true,
-      "id": "abc11787396412"
-    },
-    {
-      "title": "Çmimi i Madh i Holandës/ Russell fiton garën sprint, Leclerc dhe Norris plotësojnë podin",
-      "link": "https://24-ore.com/cmimi-i-madh-i-holandes-russell-fiton-garen-sprint-leclerc-dhe-norris-plotesojne-podin/",
-      "description": "Në Holandë gara Sprint i shkon Mercedes-it, por protagonist ishte Russel dhe kjo Antonelli. Britaniku konfirmoi se është një specialist i vërtetë i kësaj gare pasi për 28-vjeçarin bëhet fjalë për triumfin e katërt, vetëm Verstappen ka fituar më shumë (13). Në vendin e dytë dhe të tretë përfunduan re",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T10:57:31+00:00",
-      "dateStr": "22 Aug, 10:57",
-      "isNew": true,
-      "id": "24 21787396251"
-    },
-    {
-      "title": "I dënuar me 3 vjet e 6 muaj burgim në Kosovë, arrestohet në Durrës 57-vjeçari",
-      "link": "https://24-ore.com/i-denuar-me-3-vjet-e-6-muaj-burgim-ne-kosove-arrestohet-ne-durres-57-vjecari/",
-      "description": "Një 57-vjeçar i shpallur në kërkim ndërkombëtar është lokalizuar dhe arrestuar provizorisht në Durrës, me qëllim ekstradimin drejt Kosovës, ku është dënuar me 3 vjet e 6 muaj burgim. Arrestimi i shtetasit me inicialet E. Zh., lindur në Kosovë, u krye në lagjen nr. 13 të Durrësit, në kuadër të operac",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T10:53:42+00:00",
-      "dateStr": "22 Aug, 10:53",
-      "isNew": true,
-      "id": "24 31787396022"
-    },
-    {
-      "title": "Berisha: Objektet e ndërtuara me para të pista do të konfiskohen, do të ngremë agjenci të posaçme",
-      "link": "https://24-ore.com/berisha-objektet-e-ndertuara-me-para-te-pista-do-te-konfiskohen-do-te-ngreme-agjenci-te-posacme/",
-      "description": "Kreu i Partisë Demokratike, Sali Berisha, deklaroi se një qeveri e ardhshme e PD-së do të ndjekë një politikë me “zero tolerancë” ndaj krimit të organizuar dhe pastrimit të parave. Gjatë një bashkëbisedimi me ndjekësit në rrjetet sociale, Berisha tha se goditja e pasurive të krijuara nga aktiviteti ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T10:53:18+00:00",
-      "dateStr": "22 Aug, 10:53",
-      "isNew": true,
-      "id": "24 41787395998"
-    },
-    {
-      "title": "Kurti: Jemi në komunikim të vazhdueshëm me KFOR-in për hapjen e plotë të urës mbi Ibër",
-      "link": "https://24-ore.com/kurti-jemi-ne-komunikim-te-vazhdueshem-me-kfor-in-per-hapjen-e-plote-te-ures-mbi-iber/",
-      "description": "Kryeministri në detyrë i Kosovës, Albin Kurti, tha se institucionet e vendit janë në komunikim të vazhdueshëm me KFOR-in për hapjen e plotë të urës kryesore mbi lumin Ibër dhe “marrjen tërësisht nën kontroll” të saj nga Policia e Kosovës. “Jemi në komunikim të përditshëm, qoftë Kryeministria, qoftë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T10:52:52+00:00",
-      "dateStr": "22 Aug, 10:52",
-      "isNew": true,
-      "id": "24 51787395972"
-    },
-    {
-      "title": "Trump vendos tarifë 50% ndaj Kanadasë, Ottawa njofton një përgjigje të ashpër",
-      "link": "https://24-ore.com/trump-vendos-tarife-50-ndaj-kanadase-ottawa-njofton-nje-pergjigje-te-ashper/",
-      "description": "Shtetet e Bashkuara të Amerikës vendosën një tarifë prej 50 përqind për produktet kanadeze me vlerë 20 miliardë dollarë duke filluar nga mëngjesi i sotëm, dhe Kanadaja njoftoi menjëherë se do të hakmerrej, raportuan sot mediat amerikane. Negociatat u ndërprenë në minutën e fundit dhe të dy vendet nu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T10:52:27+00:00",
-      "dateStr": "22 Aug, 10:52",
-      "isNew": true,
-      "id": "24 61787395947"
-    },
-    {
-      "title": "“Në protestë nuk shkoj sepse…”- Berisha thotë se pse do shkojë në SHBA, por jo se kur, flet dhe për ambasadorin",
-      "link": "https://24-ore.com/ne-proteste-nuk-shkoj-sepse-berisha-thote-se-pse-do-shkoje-ne-shba-por-jo-se-kur-flet-dhe-per-ambasadorin/",
-      "description": "Kryetari i Partisë Demokratike tha sot se ai do t’i vizitonte SHBA-të së shpejti me rastin e ndonjë konference ndërkombëtare, por nuk dha as datë dhe as detaje se si do të ndodhte, pas deklarimit të mëparshëm se ishte hequr “non grata”. Gjithashtu ai dha mendim edhe për ambasadorin e ri të SHBA-ve n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T10:46:57+00:00",
-      "dateStr": "22 Aug, 10:46",
-      "isNew": true,
-      "id": "24 71787395617"
-    },
-    {
-      "title": "GREQI – Mbi 280 arrestime për zjarre, 29 raste për zjarrvënie të qëllimshme",
-      "link": "https://24-ore.com/greqi-mbi-280-arrestime-per-zjarre-29-raste-per-zjarrvenie-te-qellimshme/",
-      "description": "– Më shumë se 280 persona janë arrestuar në Greqi që nga fillimi i vitit për vepra penale të lidhura me zjarret, njoftoi shërbimi zjarrfikës, ndërsa vendi vijon të jetë në gatishmëri të lartë për shkak të rrezikut të përhapjes së vatrave të reja, sipas euractiv.com. Sipas zëdhënësit të shërbimit zja",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T10:46:08+00:00",
-      "dateStr": "22 Aug, 10:46",
-      "isNew": true,
-      "id": "24 81787395568"
+      "id": "abc71787396412"
     },
     {
       "title": "“I thamë të mos shkonte në Shqipëri”/ Flasin njerëzit pranë tij: Kush ishte portugezi Luis Miguel Varela Mendes",
       "link": "https://shekulli.com.al/2026/08/22/i-thame-te-mos-shkonte-ne-shqiperi-flasin-njerezit-prane-tij-kush-ishte-portugezi-luis-miguel-varela-mendes/",
-      "description": "Detaje të reja&#160; janë zbarhdur në lidhje me Luis Miguel Varela Mendes, turistit portugez që u vra të martën e 18 gushtit në kompleksin luksoz “Principotes”. Media franceze “Nice Matin” ka publikuar detaje mbi jetën e të riut, i cili që në moshën 11-vjeçare jetonte në Nice të Francës. Në artikull",
+      "description": "Detaje të reja  janë zbardhur në lidhje me Luis Miguel Varela Mendes, turistit portugez që u vra të martën e 18 gushtit në kompleksin luksoz “Principotes”. Media franceze “Nice Matin” ka publikuar detaje mbi jetën e të riut, i cili që në moshën 11-vjeçare jetonte në Nice të Francës. Në artikull thuh",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-08-22T10:44:59+00:00",
       "dateStr": "22 Aug, 10:44",
       "isNew": true,
-      "id": "she11787395499"
+      "id": "she41787395499"
     },
     {
       "title": "VIDEO/ Trafik kilometrik në hyrje të Elbasanit, fluks i lartë automjetesh drejt juglindjes",
@@ -155,18 +265,7 @@
       "date": "2026-08-22T10:44:19+00:00",
       "dateStr": "22 Aug, 10:44",
       "isNew": true,
-      "id": "abc21787395459"
-    },
-    {
-      "title": "​Prezantohet projekti i banimit social adekuat, Kurti e cilëson një investim të rëndësishëm për dinjitetin e familjeve",
-      "link": "https://24-ore.com/prezantohet-projekti-i-banimit-social-adekuat-kurti-e-cileson-nje-investim-te-rendesishem-per-dinjitetin-e-familjeve/",
-      "description": "Kryeministri në detyrë, Albin Kurti mori pjesë në konferencë për media të paralajmëruar nga ministrja në detyrë e Mjedisit dhe Planifikimit Hapësinor, Fitore Pacolli, dhe ministri në detyrë për Punë, Familje dhe Vlera të Luftës Çlirimtare, Andin Hoti. Kurti në konferencën që pati në fokus çështjet q",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T10:42:28+00:00",
-      "dateStr": "22 Aug, 10:42",
-      "isNew": true,
-      "id": "24 91787395348"
+      "id": "abc81787395459"
     },
     {
       "title": "“Tik Tok” arrin marrëveshje me SHBA/ I paguan 400 milionë dollarë qeverisë së SHBA për mbylljen e padisë",
@@ -177,7 +276,7 @@
       "date": "2026-08-22T10:20:38+00:00",
       "dateStr": "22 Aug, 10:20",
       "isNew": true,
-      "id": "abc31787394038"
+      "id": "abc91787394038"
     },
     {
       "title": "Kush po gënjen? Kontradiktat mes dëshmive për vrasjen e portugezit në Ksamil, ku ‘përplasen’ Sokrat Vata dhe Adib Ghanmi",
@@ -188,51 +287,7 @@
       "date": "2026-08-22T10:17:52+00:00",
       "dateStr": "22 Aug, 10:17",
       "isNew": true,
-      "id": "she21787393872"
-    },
-    {
-      "title": "Aksident tragjik në Britani, disa të vdekur pas përplasjes së makinave",
-      "link": "https://abcnews.al/aksident-tragjik-ne-britani-disa-te-vdekur-pas-perplasjes-se-makinave/",
-      "description": "Disa persona kanë humbur jetën në një aksident të rëndë rrugor në autostradën A66, pranë Middlesbrough në Britani. Aksidenti ndodhi rreth orës 03:39, sipas orës lokale, në zonën e South Bank, në Teesside, dhe përfshiu një automjet policie dhe një Volkswagen Passat. Sipas Shërbimit të Ambulancës së V",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T10:14:50+00:00",
-      "dateStr": "22 Aug, 10:14",
-      "isNew": true,
-      "id": "abc41787393690"
-    },
-    {
-      "title": "Bypass-i i Vlorës kthehet në atraksion turistik",
-      "link": "https://abcnews.al/bypass-i-i-vlores-kthehet-ne-atraksion-turistik/",
-      "description": "Përfundimi i Bypass-it të Vlorës nuk ka sjellë vetëm një alternativë të re për lëvizjen e automjeteve drejt jugut dhe lehtësimin e trafikut, veçanërisht gjatë sezonit turistik, por edhe një pikë të re panoramike që po tërheq gjithnjë e më shumë vizitorë. Një prej pikave më të frekuentuara ndodhet pë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T10:12:51+00:00",
-      "dateStr": "22 Aug, 10:12",
-      "isNew": true,
-      "id": "abc51787393571"
-    },
-    {
-      "title": "“Shqipëria Sot” me Jeta Kasemi, (22/08/2026)",
-      "link": "https://abcnews.al/shqiperia-sot-me-jeta-kasemi-22-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T10:08:28+00:00",
-      "dateStr": "22 Aug, 10:08",
-      "isNew": true,
-      "id": "abc61787393308"
-    },
-    {
-      "title": "Ndahet nga jeta ish-kryeministri i Estonisë, Siim Kallas",
-      "link": "https://abcnews.al/ndahet-nga-jeta-ish-kryeministri-i-estonise-siim-kallas/",
-      "description": "Politikani estonez Siim Kallas, ish-kryeministër i Estonisë dhe ish-nënkryetar i Komisionit Evropian, ka ndërruar jetë. Lajmin e bëri të ditur vajza e tij, Kaja Kallas, Përfaqësuesja e Lartë e Bashkimit Evropian për Punët e Jashtme dhe Politikën e Sigurisë. “Me trishtim njoftoj se babai im i dashur,",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T10:03:25+00:00",
-      "dateStr": "22 Aug, 10:03",
-      "isNew": true,
-      "id": "abc71787393005"
+      "id": "she51787393872"
     },
     {
       "title": "“Do t’ju q* nënën ose…”/ Dëshmia e mikut të portugezit që u vra në Ksamil: Shokun tonë e goditën me kokë! Një tjetër erdhi me thikë në dorë",
@@ -243,29 +298,7 @@
       "date": "2026-08-22T10:02:04+00:00",
       "dateStr": "22 Aug, 10:02",
       "isNew": true,
-      "id": "she31787392924"
-    },
-    {
-      "title": "Më 16 shtator vendimi për ish-krerët e UÇK/ Hamza: Kosova nuk harron! “Ora e Pritjes” edhe në qytete të tjera",
-      "link": "https://abcnews.al/me-16-shtator-vendimi-per-ish-kreret-e-uck-hamza-kosova-nuk-harron-ora-e-pritjes-edhe-ne-qytete-te-tjera/",
-      "description": "Kryetari i PDK-së, Bedri Hamza, ka bërë të ditur se ekranet me numërimin mbrapsht deri më 16 shtator do të vendosen jo vetëm në Prishtinë, por edhe në qytete të tjera të Kosovës. Deklarata u bë gjatë aktivitetit “Ora e Pritjes”, të organizuar nga platforma “Liria ka Emër” në sheshin “Nënë Tereza” në",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T09:32:05+00:00",
-      "dateStr": "22 Aug, 09:32",
-      "isNew": true,
-      "id": "abc81787391125"
-    },
-    {
-      "title": "“Ora e Pritjes” vendoset në Prishtinë, nis numërimi mbrapsht për 16 shtatorin, pritet vendimi për ish-krerët e UÇK",
-      "link": "https://abcnews.al/ora-e-pritjes-vendoset-ne-prishtine-nis-numerimi-mbrapsht-per-16-shtatorin-pritet-vendimi-per-ish-kreret-e-uck/",
-      "description": "Platforma “Liria ka Emër” ka vendosur në Prishtinë “Orën e Pritjes”, një ekran që shënon numërimin e ditëve deri më 16 shtator, datë kur pritet vendimi final për krerët e UÇK-së që po gjykohen në Hagë. Në ceremoninë e vendosjes së ekranit, kryetari i PDK-së, Bedri Hamza, e cilësoi “Orën e Pritjes” s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T09:27:49+00:00",
-      "dateStr": "22 Aug, 09:27",
-      "isNew": true,
-      "id": "abc91787390869"
+      "id": "she61787392924"
     },
     {
       "title": "Video/ Arrestohet në Durrës 57-vjeçari i shpallur në kërkim ndërkombëtar! Kush është “mashtruesi” i dënuar me burg (Emri)",
@@ -276,7 +309,7 @@
       "date": "2026-08-22T09:21:59+00:00",
       "dateStr": "22 Aug, 09:21",
       "isNew": true,
-      "id": "she41787390519"
+      "id": "she71787390519"
     },
     {
       "title": "Video/ Arrestohet autori i 6 vatrave të zjarrit në Mirditë! Momenti kur policia e kap duke ndezur flakët (Emri)",
@@ -287,7 +320,7 @@
       "date": "2026-08-22T08:58:47+00:00",
       "dateStr": "22 Aug, 08:58",
       "isNew": true,
-      "id": "she51787389127"
+      "id": "she81787389127"
     },
     {
       "title": "E rëndë/ Po luante me kallashnikov, i mituri shqiptar shkrep armën dhe qëllon vëllain 10-vjeçar",
@@ -298,40 +331,7 @@
       "date": "2026-08-22T08:34:00+00:00",
       "dateStr": "22 Aug, 08:34",
       "isNew": true,
-      "id": "she61787387640"
-    },
-    {
-      "title": "Mbetet në burg taksisti që përplasi qytetarin në Durrës! Makina elektrike mori para viktimën nga pakujdesia e 26-vjeçarit",
-      "link": "https://shekulli.com.al/2026/08/22/mbetet-ne-burg-taksisti-qe-perplasi-qytetarin-ne-durres-makina-elektrike-mori-para-viktimen-nga-pakujdesia-e-26-vjecarit/",
-      "description": "Është lënë në burg 26-vjeçari Aldi Talelli, i cili shkaktoi aksidentin e rëndë në Durrës, ku humbi jetën Fezi Dine. 26-vjeçari po hetohet për veprën penale “Shkelja e rregullave të qarkullimit rrugor”, me pasojë vdekjen, pasi më 17 gusht, përplasi 66-vjeçarin Dine teksa ai po tentonte të kalonte rru",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T08:23:33+00:00",
-      "dateStr": "22 Aug, 08:23",
-      "isNew": true,
-      "id": "she71787387013"
-    },
-    {
-      "title": "Kërkohej që prej vitit 2014, arrestohet në Greqi shqiptari! Ja për çfarë akuzohet",
-      "link": "https://shekulli.com.al/2026/08/22/kerkohej-qe-prej-vitit-2014-arrestohet-ne-greqi-shqiptari-ja-per-cfare-akuzohet/",
-      "description": "Një 60-vjeçar shqiptar ka rënë në prangat e policisë në Greqi, pasi ishte shpallur në kërkim ndërkombëtar. Mësohet se 60-vjeçari akuzohet për një rast mashtrimi, të kryer në vendin tonë, gjatë vitit 2014. Për këtë vepër penale, ai ishte dënuar me 3 vite burg, megjithatë, nuk kishte shërbyer asnjë di",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T07:52:58+00:00",
-      "dateStr": "22 Aug, 07:52",
-      "isNew": true,
-      "id": "she81787385178"
-    },
-    {
-      "title": "“Çunat e Londrës” i shpëtojnë dëbimit nga Britania e Madhe! Gjykata: Janë viktima të trafikimit, në Shqipëri u kanoset rrezik real",
-      "link": "https://shekulli.com.al/2026/08/22/cunat-e-londres-i-shpetojne-debimit-nga-britania-e-madhe-gjykata-jane-viktima-te-trafikimit-ne-shqiperi-u-kanoset-rrezik-real/",
-      "description": "Shumë shqiptarë mund t’i shpëtojnë dëbimit nga Britania e Madhe, pas një vendimi të fundit nga gjykata, që i ka cilësuar ata si viktima të trafikut. “The Guardian” raporton se  Ministria e Brendshme britanike mund të pengohet të deportojë shumë djem të rinj drejt Shqipërisë, pasi ata janë identifiku",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-22T07:19:49+00:00",
-      "dateStr": "22 Aug, 07:19",
-      "isNew": true,
-      "id": "she91787383189"
+      "id": "she91787387640"
     }
   ]
 }
