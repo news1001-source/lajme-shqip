@@ -1,18 +1,205 @@
 {
-  "lastUpdated": "2026-08-23T11:16:46.228388+00:00",
+  "lastUpdated": "2026-08-23T12:29:48.641422+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "FOKUS – Hakerët iranianë fikën për katër ditë një central elektrik në BM",
-      "link": "https://24-ore.com/fokus-hakeret-iraniane-fiken-per-kater-dite-nje-central-elektrik-ne-bm/",
-      "description": "LONDËR, 23 gusht /ATSH-ANSA/ – Hakerë të lidhur me regjimin iranian kanë arritur të paralizojnë për katër ditë një central elektrik në Britaninë e Madhe, në atë që konsiderohet një nga sulmet kibernetike më të suksesshme të këtij lloji. Sipas raportimeve, centrali britanik mbeti jashtë funksionit pë",
+      "title": "Zjarr në Krastë të Krujës, dyshohet zjarrvënie e qëllimshme nga një banor i fshatit",
+      "link": "https://abcnews.al/zjarr-ne-kraste-te-krujes-dyshohet-zjarrvenie-e-qellimshme-nga-nje-banor-i-fshatit/",
+      "description": "Nje vatër zjarri eshte shfaqur kete mesdite në zonën e Krastës. Nga zjarri janë djegur masive me pisha, ndërsa menjëherë zjarrfikësit dhe nje helikopter po punojnë për izolimin e vatrave të zjarrit pranë Krastës. Dyshohet zjarrvënje e qëllimshme sipas një banori të fshatit Halilaj. [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T12:22:13+00:00",
+      "dateStr": "23 Aug, 12:22",
+      "isNew": true,
+      "id": "abc01787487733"
+    },
+    {
+      "title": "Po të mposhte Solo Sikoa Roman Reigns dhe të fitonte titullin e peshës së rëndë të WWE?",
+      "link": "https://24-ore.com/po-te-mposhte-solo-sikoa-roman-reigns-dhe-te-fitonte-titullin-e-peshes-se-rende-te-wwe/",
+      "description": "Solo Sikoa ka shënuar një ngritje të dukshme në imazhin e tij gjatë muajve të fundit: ka bërë ndryshime të imëta në karakter, është më i relaksuar dhe shfa...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-23T11:16:09+00:00",
-      "dateStr": "23 Aug, 11:16",
+      "date": "2026-08-23T12:21:51+00:00",
+      "dateStr": "23 Aug, 12:21",
       "isNew": true,
-      "id": "24 01787483769"
+      "id": "24 01787487711"
+    },
+    {
+      "title": "Angel Reese me 31 pikë, Atlanta Dream sigurojnë vend në plej-ofin e WNBA 2026",
+      "link": "https://24-ore.com/angel-reese-me-31-pike-atlanta-dream-sigurojne-vend-ne-plej-ofin-e-wnba-2026/",
+      "description": "Atlanta Dream siguruan pjesëmarrjen në plej-ofin e WNBA 2026 pas fitores 99-89 ndaj Phoenix Mercury. Angel Reese shënoi karrierën e saj me 31 pikë dhe mori...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T12:20:35+00:00",
+      "dateStr": "23 Aug, 12:20",
+      "isNew": true,
+      "id": "24 11787487635"
+    },
+    {
+      "title": "Nga shkrirja e bashkive deri te zgjedhjet e vitit 2027, çfarë po diskuton Rama në Pogradec?",
+      "link": "https://24-ore.com/nga-shkrirja-e-bashkive-deri-te-zgjedhjet-e-vitit-2027-cfare-po-diskuton-rama-ne-pogradec/",
+      "description": "Ka nisur takimi i thirrur nga kryeministri Edi Rama në rezidencën qeveritare në Pogradec, ku marrin pjesë 12 drejtuesit politikë të qarqeve të Partisë Socialiste, si dhe kryetarët e komisioneve parlamentare. Drejtuesit politikë kanë mbërritur gradualisht në rezidencën qeveritare, ndërsa kryeministri",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T12:18:45+00:00",
+      "dateStr": "23 Aug, 12:18",
+      "isNew": true,
+      "id": "24 21787487525"
+    },
+    {
+      "title": "Brenda mbledhjes së Ramës me drejtuesit e qarqeve/ Kryesocialisti vendos detyrat: Përgatituni për zgjedhjet e 2027",
+      "link": "https://abcnews.al/brenda-mbledhjes-se-rames-me-drejtuesit-e-qarqeve-kryesocialisti-vendos-detyrat-pergatituni-per-zgjedhjet-e-2027/",
+      "description": "Kryeministri Edi Rama ka përcjellë një sërë porosish për drejtuesit politikë të qarqeve dhe përfaqësuesit e Partisë Socialiste gjatë mbledhjes së zhvilluar në Pogradec. Në fokus të diskutimeve ka qenë edhe “Dokumenti Besa” dhe “Prania Besnike”. Rama u ka kërkuar drejtuesve që t’i lexojnë me kujdes k",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T12:07:36+00:00",
+      "dateStr": "23 Aug, 12:07",
+      "isNew": true,
+      "id": "abc11787486856"
+    },
+    {
+      "title": "ASH: Pesë jetë humbura, janë alarm, nevojiten masa e jo vetëm fjalë",
+      "link": "https://24-ore.com/ash-pese-jete-humbura-jane-alarm-nevojiten-masa-e-jo-vetem-fjale/",
+      "description": "Aleanca për Shqiptarët shpreh shqetësim të thellë për përhapjen e etheve të Nilit Perëndimor që për pasojë fatkeqësisht pesë qytetarë kanë humbur jetën dhe numri i rasteve të konfirmuara është i lartë, gjegjësisht 43 raste të konfirmuara, dhe kjo paraqet një përkeqësim serioz të situatës së krijuar ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T12:07:34+00:00",
+      "dateStr": "23 Aug, 12:07",
+      "isNew": true,
+      "id": "24 31787486854"
+    },
+    {
+      "title": "Real, fitore në “frymën e fundit”/ Madrilenët nisën me sukses La Liga-n, mundën 2-1 Espanyol",
+      "link": "https://abcnews.al/real-fitore-ne-frymen-e-fundit-madrilenet-nisen-me-sukses-la-liga-n-munden-2-1-espanyol/",
+      "description": "Real Madrid vuan, por në fund feston në premierën e tij në sezonin e ri të La Liga. Një gol në limitet e kohës së rregullt nderoi Jose Mourinho në ndeshjen e parë pas rikthimit në pankinën e “los blancos”, që mundën në transfertë 2-1 Espanyol. Goli i parë i madrilenëve në kampionatin spanjoll mbanë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T12:05:16+00:00",
+      "dateStr": "23 Aug, 12:05",
+      "isNew": true,
+      "id": "abc21787486716"
+    },
+    {
+      "title": "Llamani, plazhi i tejmbushur me pushues vendas dhe të huaj",
+      "link": "https://24-ore.com/llamani-plazhi-i-tejmbushur-me-pushues-vendas-dhe-te-huaj/",
+      "description": "Plazhi i Llamanit në Himarë ka qenë këtë të diel i tejmbushur me pushues. I cilësuar si një nga plazhet më të bukura të rivierës shqiptare, me ujërat e kristalta dhe peizazhin karakteristik, Llamani ka tërhequr një numër të madh pushuesish vendas dhe të huaj. Të shumtë kanë zgjedhur këtë destinacion",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T12:03:16+00:00",
+      "dateStr": "23 Aug, 12:03",
+      "isNew": true,
+      "id": "24 41787486596"
+    },
+    {
+      "title": "Pas largimit nga detyra, reagon Arben Cara: Zjarri nuk luftohet me lajme dhe fotografi",
+      "link": "https://24-ore.com/pas-largimit-nga-detyra-reagon-arben-cara-zjarri-nuk-luftohet-me-lajme-dhe-fotografi/",
+      "description": "Ish-drejtori i Përgjithshëm i Shërbimit Zjarrfikës, Arben Cara, ka reaguar përmes një postimi në rrjetet sociale pas largimit të tij nga detyra në mes të gushtit, në një periudhë të shënuar nga zjarre të shumta në vend. Në reagimin e tij, Cara ka deklaruar se vendimi i zëvendësministrit të Brendshëm",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T12:03:10+00:00",
+      "dateStr": "23 Aug, 12:03",
+      "isNew": true,
+      "id": "24 51787486590"
+    },
+    {
+      "title": "Dy orë takim në Pogradec, Rama diskuton shkrirjen e bashkive dhe zgjedhjet e 2027",
+      "link": "https://24-ore.com/dy-ore-takim-ne-pogradec-rama-diskuton-shkrirjen-e-bashkive-dhe-zgjedhjet-e-2027/",
+      "description": "Prej dy orësh ka nisur në rezidencën qeveritare në Pogradec takimi i thirrur nga kryeministri Edi Rama me 12 drejtuesit politikë të qarqeve nga ana e PS, si dhe kryetarët e komisioneve parlamentare. Burime bëjnë me dije se deri më tani është mbajtur vetëm fjalimi nga kryeministri Rama rreth një orë.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T12:03:02+00:00",
+      "dateStr": "23 Aug, 12:03",
+      "isNew": true,
+      "id": "24 61787486582"
+    },
+    {
+      "title": "Norvegjia do të ofrojë 9.2 miliardë dollarë ndihmë të re për Ukrainën",
+      "link": "https://24-ore.com/norvegjia-do-te-ofroje-9-2-miliarde-dollare-ndihme-te-re-per-ukrainen/",
+      "description": "Norvegjia do t’i ofrojë Ukrainës 85 miliardë korona, rreth 9.2 miliardë dollarë, në ndihmë të re gjatë vitit 2027. Lajmi u bë i ditur të dielën nga kryeministri norvegjez Jonas Gahr Store gjatë vizitës së tij në Kiev. “Norvegjia do të vazhdojë të mbështesë luftën mbrojtëse të Ukrainës”, deklaroi Sto",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T12:02:49+00:00",
+      "dateStr": "23 Aug, 12:02",
+      "isNew": true,
+      "id": "24 71787486569"
+    },
+    {
+      "title": "“Nuk e dija për lidhjen”, flet gruaja e Allmuçës që vrau të dashurën dhe veten! Nëna e 45-vjeçares: Si e më",
+      "link": "https://24-ore.com/nuk-e-dija-per-lidhjen-flet-gruaja-e-allmuces-qe-vrau-te-dashuren-dhe-veten-nena-e-45-vjecares-si-e-me/",
+      "description": "Policia po mbledh prova të reja për të zbardhur rrethanat e ngjarjes së rëndë në Athinë, ku 50-vjeçari Altin Allmuça vrau të dashurën 45-vjeçare dhe më pas kreu vetëvrasje. Autoritetet po përpiqen të përcaktojnë marrëdhënien mes dy personave dhe motivin e krimit. Sipas informacioneve të publikuara n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T12:02:49+00:00",
+      "dateStr": "23 Aug, 12:02",
+      "isNew": true,
+      "id": "24 81787486569"
+    },
+    {
+      "title": "Angellov: Në Prilep u shmang një katastrofë e madhe, zjarri ishte afruar tek shtëpitë e fshatit Bonçe",
+      "link": "https://24-ore.com/angellov-ne-prilep-u-shmang-nje-katastrofe-e-madhe-zjarri-ishte-afruar-tek-shtepite-e-fshatit-bonce/",
+      "description": "Katastrofë ishte shmangur në fshatin Bonçe të Prilepit, pasi era e fuqishme sot në mëngjes e përhapi zjarrin drejt vendbanimit dhe vija e zjarrit i ishte afruar shtëpive, deklaroi drejtori i Drejtorisë për Mbrojtje dhe Shpëtim, Stojançe Angellov. Sipas Angellovit, zjarri rreth orës 4 ishte lëshuar d",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T11:57:46+00:00",
+      "dateStr": "23 Aug, 11:57",
+      "isNew": true,
+      "id": "24 91787486266"
+    },
+    {
+      "title": "United dështon që në të parën/ “Djajtë” u mundën 2-0 nga Hull City në nisje të Premier League",
+      "link": "https://abcnews.al/united-deshton-qe-ne-te-paren-djajte-u-munden-2-0-nga-hull-city-ne-nisje-te-premier-league/",
+      "description": "Manchester United zhgënjen që në daljen e tij të parë në edicionin e ri të Premier League. “Djajtë e kuq” u mundën 2-0 nga Hull City, skuadra që u promovua në elitën e futbollit anglez nga Championship. Dështimi i skuadrës së drejtuar nga Michael Carrick u siglua që në pjesën e parë. Të zotët e [...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T11:55:30+00:00",
+      "dateStr": "23 Aug, 11:55",
+      "isNew": true,
+      "id": "abc31787486130"
+    },
+    {
+      "title": "Vrasja e 45-vjeçares shqiptare në Athinë, nëna e saj: Nuk më kishte thënë asgjë për lidhjen…",
+      "link": "https://shekulli.com.al/2026/08/23/vrasja-e-45-vjecares-shqiptare-ne-athine-nena-e-saj-nuk-me-kishte-thene-asgje-per-lidhjen/",
+      "description": "Detaje të reja janë zbardhur pas krimit të rëndë që tronditi Athinën, ku një 45-vjeçare shqiptare u ekzekutua nga i dashuri i saj, një 48-vjeçar shqiptar, i cili më pas vrau veten. Ngjarja ndodhi mëngjesin e së dielës në zonën e Nea Smyrni.Nëna e viktimës ka rrëfyer se nuk kishte pasur dijeni për li",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-23T11:50:58+00:00",
+      "dateStr": "23 Aug, 11:50",
+      "isNew": true,
+      "id": "she01787485858"
+    },
+    {
+      "title": "Vrasja në Athinë, viktimat dyshohet se kishin lidhje/ Autori foto me armë në rrjetet sociale, 45-vjeçarja e kishte denoncuar për përvetësim prone",
+      "link": "https://abcnews.al/vrasja-ne-athine-viktimat-dyshohet-se-kishin-lidhje-autori-foto-me-arme-ne-rrjetet-sociale-45-vjecarja-e-kishte-denoncuar-per-pervetesim-prone/",
+      "description": "Detaje të reja janë zbardhur nga ngjarja e rëndë e ndodhur mëngjesin e sotëm në Nea Smyrni të Athinës, ku 45-vjeçarja Julieta Obzova u vra me armë zjarri, ndërsa autori i dyshuar, Altin Allmuça, më pas i dha fund jetës. Sipas hetimeve paraprake, viktima dhe autori kishin pasur një lidhje në të kalua",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T11:46:20+00:00",
+      "dateStr": "23 Aug, 11:46",
+      "isNew": true,
+      "id": "abc41787485580"
+    },
+    {
+      "title": "Krimi i dyfishtë në Athinë, 50-vjeçari shqiptar ishte i martuar dhe baba i një fëmije, flet gruaja e tij",
+      "link": "https://shekulli.com.al/2026/08/23/krimi-i-dyfishte-ne-athine-50-vjecari-shqiptar-ishte-i-martuar-dhe-baba-i-nje-femije-flet-gruaja-e-tij/",
+      "description": "Detaje të reja janë zbardhur nga krimi i dyfishtë që tronditi Athinën, ku 50-vjeçari shqiptar Altin Allmuça vrau 45-vjeçaren shqiptare dhe më pas i dha fund jetës. Hetuesit po përpiqen të zbardhin marrëdhënien mes dy personave dhe motivin që çoi në ngjarjen tragjike. Sipas të dhënave të bëra publike",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-23T11:44:03+00:00",
+      "dateStr": "23 Aug, 11:44",
+      "isNew": true,
+      "id": "she11787485443"
+    },
+    {
+      "title": "Tjetër tragjedi në futboll/ Portugezi Quévin Castro humb jetën në fushë gjatë një sfide",
+      "link": "https://abcnews.al/tjeter-tragjedi-ne-futboll-portugezi-quevin-castro-humb-jeten-ne-fushe-gjate-nje-sfide/",
+      "description": "Një tjetër dramë në futboll dhe një tjetër jetë e humbur në fushat e sportit më të dashur në botë. Quévin Castro, 25 vjeçari portugez është bërë viktima e radhës. Futbollisti që luante për Real SC në divizionin e dytë të kampionatit në Portugali, ndërroi jetë të shtunën gjatë një ndeshjeje miqësore ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T11:21:57+00:00",
+      "dateStr": "23 Aug, 11:21",
+      "isNew": true,
+      "id": "abc51787484117"
     },
     {
       "title": "Vrasja e turistit portugez në Ksamil, gjendet pas 7 ditësh thika që dyshohet se përdori Sokrat Vata",
@@ -23,62 +210,29 @@
       "date": "2026-08-23T11:09:24+00:00",
       "dateStr": "23 Aug, 11:09",
       "isNew": true,
-      "id": "she01787483364"
+      "id": "she21787483364"
     },
     {
-      "title": "Egnatia-Tirana në RTSH, Dede: Kjo ndeshje është një vitrinë luksi për Superioren",
-      "link": "https://24-ore.com/egnatia-tirana-ne-rtsh-dede-kjo-ndeshje-eshte-nje-vitrine-luksi-per-superioren/",
-      "description": "Trajneri i Egnatias, ka folur për kanalet zyrtare të klubit rrogozhinas, në prag të ndeshjes kundër Tiranës, që do të luhet sot në orën 21:00 dhe do të transmetohet në RTSH 1. “Harmonia në grup është maksimale, ky fakt na gëzon pa masë, kemi dy mungesa të rëndësishme, Bakajoko që do kohën e gjatë pë",
-      "source": "24 ORE",
+      "title": "Bayern e nis me Superkupën/ Bavarezët fituan trofeun e parë të sezonit në Gjermani",
+      "link": "https://abcnews.al/bayern-e-nis-me-superkupen-bavarezet-fituan-trofeun-e-pare-te-sezonit-ne-gjermani/",
+      "description": "Bayern Munich tregoi menjëherë forcën, duke fituar trofeun e parë të sezonit. Baverezët triumfuan 2-1 në finalen kundër rivalëve të përjetshëm të Borussia Dortmund, duke ngritur lart Superkupën e Gjermanisë. Sfida e luajtur në “Signal Iduna Park”u zhbllokua në minutën e 28-të. Braun kaloi kampionët ",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-23T11:02:49+00:00",
-      "dateStr": "23 Aug, 11:02",
-      "isNew": true,
-      "id": "24 11787482969"
-    },
-    {
-      "title": "Meghan Markle rikthehet në aktrim? Dukesha e Sussex-it në bisedime për një rol në Netflix",
-      "link": "https://24-ore.com/meghan-markle-rikthehet-ne-aktrim-dukesha-e-sussex-it-ne-bisedime-per-nje-rol-ne-netflix-2/",
-      "description": "Meghan Markle mund të rikthehet në aktrim më shpejt nga sa pritej. Dukesha e Sussex-it raportohet se po shqyrton mundësinë për të marrë një rol në sezonin e tretë të serialit të Netflix, “The Gentlemen”, ndërsa ajo dhe Princi Harry përgatiten të rikthehen në Mbretërinë e Bashkuar. Sipas “Deadline”, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T11:01:20+00:00",
-      "dateStr": "23 Aug, 11:01",
-      "isNew": true,
-      "id": "24 21787482880"
-    },
-    {
-      "title": "Meghan Markle rikthehet në aktrim? Dukesha e Sussex-it në bisedime për një rol në Netflix",
-      "link": "https://24-ore.com/meghan-markle-rikthehet-ne-aktrim-dukesha-e-sussex-it-ne-bisedime-per-nje-rol-ne-netflix/",
-      "description": "Meghan Markle mund të rikthehet në aktrim më shpejt nga sa pritej. Dukesha e Sussex-it raportohet se po shqyrton mundësinë për të marrë një rol në sezonin e tretë të serialit të Netflix, “The Gentlemen”, ndërsa ajo dhe Princi Harry përgatiten të rikthehen në Mbretërinë e Bashkuar. Sipas “Deadline”, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T11:01:17+00:00",
-      "dateStr": "23 Aug, 11:01",
-      "isNew": true,
-      "id": "24 31787482877"
-    },
-    {
-      "title": "Ky është boksieri shqiptar që vrau partneren dhe më pas veten në Greqi",
-      "link": "https://24-ore.com/ky-eshte-boksieri-shqiptar-qe-vrau-partneren-dhe-me-pas-veten-ne-greqi/",
-      "description": "Një 45-vjeçare, e identifikuar si Lulieta Obzova, dhe partneri i saj shqiptar, Altin Allmuça, kanë humbur jetën në një ngjarje të rëndë të ndodhur mëngjesin e sotëm në Athinë. Sipas informacioneve paraprake të raportuara nga mediat, dyshohet se mes çiftit ka pasur një konflikt përpara ngjarjes. Auto",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T11:00:37+00:00",
+      "date": "2026-08-23T11:00:55+00:00",
       "dateStr": "23 Aug, 11:00",
       "isNew": true,
-      "id": "24 41787482837"
+      "id": "abc61787482855"
     },
     {
-      "title": "FOKUS – Moti ekstrem godet Evropën, zjarre, përmbytje dhe stuhi detyrojnë mijëra njerëz të evakuohen",
-      "link": "https://24-ore.com/fokus-moti-ekstrem-godet-evropen-zjarre-permbytje-dhe-stuhi-detyrojne-mijera-njerez-te-evakuohen/",
-      "description": "– Evropa po përballet me një valë moti ekstrem, me zjarre të fuqishme pyjore, përmbytje dhe stuhi që kanë shkaktuar dëme në disa vende dhe kanë detyruar mijëra njerëz të largohen nga shtëpitë e tyre, sipas Euronews. Situata është veçanërisht e rëndë në Serbi, Bosnje e Hercegovinë, Spanjë dhe Poloni,",
-      "source": "24 ORE",
+      "title": "Thika e vrasësit u fsheh në ferra/ Arma e ftohtë e përdorur nga Vata u gjet në periferi të Ksamilit",
+      "link": "https://abcnews.al/vrasja-e-portugezit-ne-ksamil-gjendet-pas-disa-ditesh-thika-qe-dyshohet-se-perdori-autori-vata/",
+      "description": "Një provë e re i shtohet hetimit për vrasjen e turistit portugez në Ksamil. Hetuesit kanë gjetur një thikë, e cila dyshohet se mund të jetë përdorur në vrasjen e 20-vjeçarit Luis Miguel Varela Mendes. Thika është sekuestruar si provë materiale dhe pritet t’i nënshtrohet ekspertizave për të përcaktua",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-23T11:00:17+00:00",
-      "dateStr": "23 Aug, 11:00",
+      "date": "2026-08-23T10:59:45+00:00",
+      "dateStr": "23 Aug, 10:59",
       "isNew": true,
-      "id": "24 51787482817"
+      "id": "abc71787482785"
     },
     {
       "title": "Goditi gazetarin Elton Qyno, gjykata vendos dy masa sigurie për bashkëshorten e Florenc Çapjas",
@@ -89,7 +243,18 @@
       "date": "2026-08-23T10:57:57+00:00",
       "dateStr": "23 Aug, 10:57",
       "isNew": true,
-      "id": "she11787482677"
+      "id": "she31787482677"
+    },
+    {
+      "title": "Alarm në Britani/ Hakerët iranianë godasin termocentralin",
+      "link": "https://abcnews.al/alarm-ne-britani-hakeret-iraniane-godasin-termocentralin/",
+      "description": "Një termocentral në Britani mbeti jashtë funksionit për katër ditë pas një sulmi kibernetik që dyshohet se u krye nga hakerë të lidhur me Iranin, sipas një raporti të Telegraph. Incidenti ndodhi në korrik dhe konsiderohet një nga sulmet më serioze kibernetike ndaj infrastrukturës energjetike britani",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T10:53:45+00:00",
+      "dateStr": "23 Aug, 10:53",
+      "isNew": true,
+      "id": "abc81787482425"
     },
     {
       "title": "Edicioni i mesditës me Fabiola Hoxha, (23/08/2026)",
@@ -100,62 +265,7 @@
       "date": "2026-08-23T10:49:28+00:00",
       "dateStr": "23 Aug, 10:49",
       "isNew": true,
-      "id": "abc01787482168"
-    },
-    {
-      "title": "Lojërat Mesdhetare: Kevin Kupi garon për medaljen e bronztë",
-      "link": "https://24-ore.com/lojerat-mesdhetare-kevin-kupi-garon-per-medaljen-e-bronzte/",
-      "description": "Shqipëria ka një tjetër mundësi për të fituar medalje në Lojërat Mesdhetare Taranto 2026, që po transmetohen drejtpërdrejt në RTSH. Mundësi shqiptar Kevin Kupi do të garojë për medaljen e bronztë në Lojërat Mesdhetare “Taranto 2026”, në kategorinë 77 kg. Kupi mundi me rezultatin 4-3 algjerianin Doul",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T10:47:47+00:00",
-      "dateStr": "23 Aug, 10:47",
-      "isNew": true,
-      "id": "24 61787482067"
-    },
-    {
-      "title": "Vdekja e Hayden Panettiere, zbardhen detaje të reja: Çfarë ndodhi në orët e fundit të aktores",
-      "link": "https://24-ore.com/vdekja-e-hayden-panettiere-zbardhen-detaje-te-reja-cfare-ndodhi-ne-oret-e-fundit-te-aktores/",
-      "description": "Detaje të reja janë bërë publike lidhur me vdekjen e aktores Hayden Panettiere, e cila u gjet pa ndjenja më 16 gusht në një banesë me qira në Greenville, South Carolina. Më 21 gusht, Zach Hickerson, vëllai i ish-partnerit të Panettiere, Brian Hickerson, foli për TMZ dhe dha versionin e tij për atë q",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T10:47:42+00:00",
-      "dateStr": "23 Aug, 10:47",
-      "isNew": true,
-      "id": "24 71787482062"
-    },
-    {
-      "title": "Situata e zjarreve në Pukë përmirësohet, vatrat në Gjegjan të shuara, vijon monitorimi",
-      "link": "https://24-ore.com/situata-e-zjarreve-ne-puke-permiresohet-vatrat-ne-gjegjan-te-shuara-vijon-monitorimi/",
-      "description": "Situata në vatrat e zjarrit në territorin e Bashkisë Pukë paraqitet më e qetë dhe vijon të mbahet nën monitorim të vazhdueshëm nga strukturat e angazhuara. Në Njësinë Administrative Gjegjan, të gjitha vatrat e zjarrit janë izoluar dhe shuar, ndërsa Forcat e Armatosura së bashku me forcat operacional",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T10:47:03+00:00",
-      "dateStr": "23 Aug, 10:47",
-      "isNew": true,
-      "id": "24 81787482023"
-    },
-    {
-      "title": "Arrestohet 32-vjeçari: Në makinë i gjenden pistoleta, municion dhe 15 800 euro",
-      "link": "https://24-ore.com/arrestohet-32-vjecari-ne-makine-i-gjenden-pistoleta-municion-dhe-15-800-euro/",
-      "description": "Një 32-vjeçar është arrestuar në Tiranë pasi u kap duke qarkulluar me armë zjarri në automjet. Operacioni policor i koduar “Last Gun” u finalizua nga shërbimet e Komisariatit të Policisë Nr. 1, ndërsa gjatë kontrollit në makinë u sekuestruan një pistoletë me municion, dy telefona celularë dhe 15 800",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T10:46:35+00:00",
-      "dateStr": "23 Aug, 10:46",
-      "isNew": true,
-      "id": "24 91787481995"
-    },
-    {
-      "title": "Fitime rekord nga kriza, gjashtë vende të BE-së kërkojnë taksë për kompanitë e naftës",
-      "link": "https://abcnews.al/fitime-rekord-nga-kriza-gjashte-vende-te-be-se-kerkojne-takse-per-kompanite-e-naftes/",
-      "description": "Gjashtë vende të Bashkimit Evropian po shtojnë presionin për vendosjen e një takse të përbashkët ndaj fitimeve të kompanive të naftës, të cilat janë rritur ndjeshëm gjatë luftës në Lindjen e Mesme. Ministrat e Financave të Gjermanisë, Italisë, Austrisë, Polonisë dhe Portugalisë, së bashku me ministr",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T10:36:38+00:00",
-      "dateStr": "23 Aug, 10:36",
-      "isNew": true,
-      "id": "abc11787481398"
+      "id": "abc91787482168"
     },
     {
       "title": "Takimi i Ramës në vilën qeveritare në Pogradec, zbardhen diskutimet e para, çfarë i pret socialistët në Shtator",
@@ -166,18 +276,7 @@
       "date": "2026-08-23T10:17:12+00:00",
       "dateStr": "23 Aug, 10:17",
       "isNew": true,
-      "id": "she21787480232"
-    },
-    {
-      "title": "U dënua për përdhunimin e 18-vjeçares/ Kush është shqiptari që u kap në Angli, theu urdhrin e dëbimit",
-      "link": "https://abcnews.al/u-denua-per-perdhunimin-e-18-vjecares-kush-eshte-shqiptari-qe-u-kap-ne-angli-theu-urdhrin-e-debimit/",
-      "description": "Një 35-vjeçar shqiptar i dënuar për përdhunimin e një vajze 18-vjeçare është rikthyer në qeli në Mbretërinë e Bashkuar, pasi autoritetet zbuluan se ai kishte thyer urdhrin e dëbimit dhe jetonte sërish atje në mënyrë të paligjshme. Mësohet se, i dënuari Blerim Hajdarmataj, i cili përdorte edhe identi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T10:10:45+00:00",
-      "dateStr": "23 Aug, 10:10",
-      "isNew": true,
-      "id": "abc21787479845"
+      "id": "she41787480232"
     },
     {
       "title": "“Drejtësia ta ndëshkojë”/ Beqaj përplaset në distancë me Lamallarin: Shteti modern nuk hakmerret…",
@@ -188,29 +287,7 @@
       "date": "2026-08-23T10:06:57+00:00",
       "dateStr": "23 Aug, 10:06",
       "isNew": true,
-      "id": "she31787479617"
-    },
-    {
-      "title": "Tiranë/ Qarkullonte me pistoletë dhe 15 800 euro në makinë, arrestohet 32-vjeçari",
-      "link": "https://abcnews.al/tirane-qarkullonte-me-pistolete-dhe-15-800-euro-ne-makine-arrestohet-32-vjecari/",
-      "description": "Një 32-vjeçar është arrestuar në flagrancë në Tiranë, pasi u kap duke qarkulluar me automjet dhe dyshohet se mbante armë zjarri pa leje. Operacioni policor i koduar “Last Gun” u finalizua nga shërbimet e Komisariatit të Policisë Nr. 1, pas informacioneve operative se një person lëvizte me automjet d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T10:06:23+00:00",
-      "dateStr": "23 Aug, 10:06",
-      "isNew": true,
-      "id": "abc31787479583"
-    },
-    {
-      "title": "Tërmeti godet Japoninë, të paktën 37 persona të plagosur",
-      "link": "https://abcnews.al/termeti-godet-japonine-te-pakten-37-persona-te-plagosur/",
-      "description": "Një tërmet me magnitudë 5.9 goditi Japoninë mëngjesin e kësaj të diele, duke shkaktuar lëkundje të forta dhe duke plagosur të paktën 37 persona. Tërmeti u regjistrua në pjesën jugore të prefekturës Ibaraki, pranë Tokios, në një thellësi prej rreth 68 kilometrash. Agjencia Meteorologjike e Japonisë t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T09:51:08+00:00",
-      "dateStr": "23 Aug, 09:51",
-      "isNew": true,
-      "id": "abc41787478668"
+      "id": "she51787479617"
     },
     {
       "title": "E rëndë në Itali, gjendet i pajetë në bagazhin e makinës punëtori, i zhdukur nga data 4 Gusht",
@@ -221,40 +298,7 @@
       "date": "2026-08-23T09:49:50+00:00",
       "dateStr": "23 Aug, 09:49",
       "isNew": true,
-      "id": "she41787478590"
-    },
-    {
-      "title": "Gjykata Federale ‘rrëzon’ Trump, zhbllokon vizat për 75 vende përfshirë dhe Shqipërinë",
-      "link": "https://abcnews.al/gjykata-federale-rrezon-trump-zhbllokon-vizat-per-75-vende-perfshire-dhe-shqiperine/",
-      "description": "Një gjykatë federale në SHBA ka rrëzuar politikën e administratës amerikane për pezullimin e vizave të emigrimit për shtetasit e 75 vendeve, një vendim që prek edhe aplikantë nga Shqipëria, Kosova dhe Maqedonia e Veriut. Vendimi është marrë nga gjyqtarja federale Jeannette A. Vargas në Distriktin Ju",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T09:37:37+00:00",
-      "dateStr": "23 Aug, 09:37",
-      "isNew": true,
-      "id": "abc51787477857"
-    },
-    {
-      "title": "Rama “skanon” ministrat/ Pogradeci pret mbledhjen 2-ditore të qeverisë, analizë dhe sfidat e sezonit politik",
-      "link": "https://abcnews.al/takimi-me-ministrat-dhe-drejtuesit-politike-ne-pogradec-kryeministri-rama-mberrin-ne-vilen-qeveritare/",
-      "description": "Kryeministri Edi Rama ka mbledhur në Pogradec ministrat e kabinetit qeveritar dhe 12 drejtuesit politikë të qarqeve, në prag të nisjes së një sezoni të ri politik. Takimi do të zhvillohet për dy ditë në vilën qeveritare dhe do të shërbejë për analizën e punës së bërë gjatë periudhës së kaluar, por e",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T09:21:10+00:00",
-      "dateStr": "23 Aug, 09:21",
-      "isNew": true,
-      "id": "abc61787476870"
-    },
-    {
-      "title": "FOTOLAJM/ Krim pasioni në Greqi, identifikohen viktimat",
-      "link": "https://abcnews.al/fotolajm-krim-pasioni-ne-greqi-identifikohen-viktimat/",
-      "description": "Policia dhe grupi hetimor kanë identifikuar shqiptarin i cili vrau me armë zjrri një 45 vjecare ne Greqi e më pas i dha fund jetës së tij. Autori është identifikuar si Altin Allmuca nga Tirana. Pamjet e kamerave të sigurisë tregojnë se Allmuca i kishte ngritur pritë 45-vjeçares Julieta Obzova , e ci",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T09:18:00+00:00",
-      "dateStr": "23 Aug, 09:18",
-      "isNew": true,
-      "id": "abc71787476680"
+      "id": "she61787478590"
     },
     {
       "title": "Krimi i pasionit në Greqi, ky është Altin Allmuça, vrau partneren dhe më pas edhe veten",
@@ -265,18 +309,7 @@
       "date": "2026-08-23T09:13:16+00:00",
       "dateStr": "23 Aug, 09:13",
       "isNew": true,
-      "id": "she51787476396"
-    },
-    {
-      "title": "Dy të arrestuar në Tiranë/ Policia: Klajdi Mucalla vodhi para në 5 biznese",
-      "link": "https://abcnews.al/pranga-dy-grabitesve-serial-ne-tirane-vodhen-me-dhune-biznese-dhe-bizhuteri-ja-pamjet-e-kamerave-gjate-grabitjeve/",
-      "description": "Dy persona janë arrestuar nga policia e Tiranës, si të dyshuar për 6 episode vjedhjeje. Në pranga u vendos Klajdi Macalla i cili dyshohet se gjatë periudhës 14-22 gusht ka vjedhur shuma parash dhe disa produkte në 5 subjekte të ndryshme. Policia thotë, se pas arrestimit të tij, u konstatua se 23 vje",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T09:12:18+00:00",
-      "dateStr": "23 Aug, 09:12",
-      "isNew": true,
-      "id": "abc81787476338"
+      "id": "she71787476396"
     },
     {
       "title": "Rëndohet bilanci i aksidentit tragjik në Manzë, shkon në 4 numri i viktimave, vdes në spital pas disa ditësh 16-vjeçari",
@@ -287,18 +320,7 @@
       "date": "2026-08-23T08:55:03+00:00",
       "dateStr": "23 Aug, 08:55",
       "isNew": true,
-      "id": "she61787475303"
-    },
-    {
-      "title": "Roboti ‘thyen’ rekordin e Usain Bolt, përshkron 100 metra për 9.39 sekonda",
-      "link": "https://abcnews.al/roboti-thyen-rekordin-e-usain-bolt-pershkron-100-metra-per-9-39-sekonda/",
-      "description": "Një robot humanoid kinez ka tërhequr vëmendjen në botën e teknologjisë dhe robotikës pasi raportohet se ka përshkuar distancën prej 100 metrash për vetëm 9.39 sekonda. Koha e regjistruar është më e shpejtë se rekordi botëror prej 9.58 sekondash i vendosur nga legjenda e atletikësUsain Bolt në vitin ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T08:47:50+00:00",
-      "dateStr": "23 Aug, 08:47",
-      "isNew": true,
-      "id": "abc91787474870"
+      "id": "she81787475303"
     },
     {
       "title": "“Askush nuk më pyeti çfarë vendimesh morët në ato minuta kritike”, Arben Cara reagon pas shkarkimit si kreu i Zjarrfikësve: Flakët nuk shuhen me foto…",
@@ -309,29 +331,7 @@
       "date": "2026-08-23T08:42:22+00:00",
       "dateStr": "23 Aug, 08:42",
       "isNew": true,
-      "id": "she71787474542"
-    },
-    {
-      "title": "Fluks i madh në Portin e Vlorës, 8 mijë pasagjerë dhe 2,300 automjete nisen drejt Italisë",
-      "link": "https://shekulli.com.al/2026/08/23/fluks-i-madh-ne-portin-e-vlores-8-mije-pasagjere-dhe-2300-automjete-nisen-drejt-italise/",
-      "description": "Vlorë – Fluks i lartë udhëtarësh është regjistruar në Portin e Vlorës, ndërsa mijëra persona po udhëtojnë drejt Italisë në ditët e fundit të sezonit veror. Sipas të dhënave të raportuara, gjatë dy ditëve rreth 8 mijë pasagjerë dhe 2,300 automjete janë nisur nga Porti i Vlorës drejt porteve italiane.",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-23T08:22:48+00:00",
-      "dateStr": "23 Aug, 08:22",
-      "isNew": true,
-      "id": "she81787473368"
-    },
-    {
-      "title": "U dënua për përdhunimin e një 18-vjeçareje dhe u dëbua nga Britania, shqiptari rikthehet ilegalisht dhe përfundon sërish në burg",
-      "link": "https://shekulli.com.al/2026/08/23/u-denua-per-perdhunimin-e-nje-18-vjecareje-dhe-u-debua-nga-britania-shqiptari-rikthehet-ilegalisht-dhe-perfundon-serish-ne-burg/",
-      "description": "Një 35-vjeçar shqiptar, i dënuar më parë për përdhunimin e një 18-vjeçareje në Britani, është dënuar sërish me burg pasi u rikthye në vend pavarësisht urdhrit të dëbimit. Bëhet fjalë për Blerim Hajdarmatajn, i cili ka përdorur edhe emrat Ben Matka dhe Rinor Hajdarmataj. Ai u lokalizua në korrik të k",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-23T07:48:31+00:00",
-      "dateStr": "23 Aug, 07:48",
-      "isNew": true,
-      "id": "she91787471311"
+      "id": "she91787474542"
     }
   ]
 }
