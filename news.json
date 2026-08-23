@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-23T03:50:29.650313+00:00",
+  "lastUpdated": "2026-08-23T04:31:11.082640+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Një dopietë e Griezmann kthen Orlando City në zonën e play-off",
+      "link": "https://24-ore.com/nje-dopiete-e-griezmann-kthen-orlando-city-ne-zonen-e-play-off/",
+      "description": "Antoine Griezmann shënoi dy gola në fitoren 2-1 të Orlando City ndaj Real Salt Lake në Inter.co Stadium, duke realizuar kthesën që i siguroi skuadrës tri p...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T04:26:59+00:00",
+      "dateStr": "23 Aug, 04:26",
+      "isNew": true,
+      "id": "24 01787459219"
+    },
     {
       "title": "Cavan Sullivan shënon me kokë pas anulimit të kartonit të kuq",
       "link": "https://24-ore.com/cavan-sullivan-shenon-me-koke-pas-anulimit-te-kartonit-te-kuq/",
@@ -12,7 +23,7 @@
       "date": "2026-08-23T03:01:35+00:00",
       "dateStr": "23 Aug, 03:01",
       "isNew": true,
-      "id": "24 01787454095"
+      "id": "24 11787454095"
     },
     {
       "title": "Giancarlo Stanton dëmtohet duke rënë gjatë vrapimit; sezoni i tij në dyshim",
@@ -23,7 +34,7 @@
       "date": "2026-08-23T02:51:18+00:00",
       "dateStr": "23 Aug, 02:51",
       "isNew": true,
-      "id": "24 11787453478"
+      "id": "24 21787453478"
     },
     {
       "title": "Torey Lovullo komenton pamjet e Ketel Marte në kazino dhe vendimin për listën e të lënduarve",
@@ -34,7 +45,7 @@
       "date": "2026-08-23T02:07:19+00:00",
       "dateStr": "23 Aug, 02:07",
       "isNew": true,
-      "id": "24 21787450839"
+      "id": "24 31787450839"
     },
     {
       "title": "Little League World Series 2026: Rezultatet dhe momentet kryesore të së shtunës",
@@ -45,7 +56,7 @@
       "date": "2026-08-23T01:25:49+00:00",
       "dateStr": "23 Aug, 01:25",
       "isNew": true,
-      "id": "24 31787448349"
+      "id": "24 41787448349"
     },
     {
       "title": "Giants mundin Red Sox 2-0, Andrew Knizner vendos ndeshjen me homer",
@@ -56,7 +67,7 @@
       "date": "2026-08-23T00:41:06+00:00",
       "dateStr": "23 Aug, 00:41",
       "isNew": true,
-      "id": "24 41787445666"
+      "id": "24 51787445666"
     },
     {
       "title": "Pittsburgh Pirates mposhtën Los Angeles Dodgers 3-0 në ndeshjen e 22 gushtit",
@@ -67,7 +78,7 @@
       "date": "2026-08-22T23:57:08+00:00",
       "dateStr": "22 Aug, 23:57",
       "isNew": true,
-      "id": "24 51787443028"
+      "id": "24 61787443028"
     },
     {
       "title": "Kade Anderson debuton për Seattle ndaj Chicago Cubs më 22 gusht 2026",
@@ -78,7 +89,7 @@
       "date": "2026-08-22T23:15:50+00:00",
       "dateStr": "22 Aug, 23:15",
       "isNew": true,
-      "id": "24 61787440550"
+      "id": "24 71787440550"
     },
     {
       "title": "New York Liberty ndaj Indiana Fever, 22 gusht 2026: përballje në Barclays Center",
@@ -89,7 +100,7 @@
       "date": "2026-08-22T22:35:30+00:00",
       "dateStr": "22 Aug, 22:35",
       "isNew": true,
-      "id": "24 71787438130"
+      "id": "24 81787438130"
     },
     {
       "title": "Atletet ‘Space Jam’ Jordan 11 të Josh Naylor bëhen virale gjatë Players’ Weekend",
@@ -100,18 +111,7 @@
       "date": "2026-08-22T22:31:16+00:00",
       "dateStr": "22 Aug, 22:31",
       "isNew": true,
-      "id": "24 81787437876"
-    },
-    {
-      "title": "Jasharaj dhe Çeku në një tryezë me DKA-të, diskutojnë sfidat e arsimit në punëtorinë dyditore",
-      "link": "https://24-ore.com/jasharaj-dhe-ceku-ne-nje-tryeze-me-dka-te-diskutojne-sfidat-e-arsimit-ne-punetorine-dyditore/",
-      "description": "Më 21 dhe 22 gusht 2026, në Brezovicë u zhvillua një punëtori dyditore e organizuar nga Ministria e Arsimit dhe Shkencës, ku morën pjesë përfaqësues të ministrisë, drejtorë komunalë të arsimit dhe përfaqësues të SBASHK-ut. Në fokus të punëtorisë ishin sfidat dhe çështjet prioritare me të cilat përba",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T21:57:52+00:00",
-      "dateStr": "22 Aug, 21:57",
-      "isNew": true,
-      "id": "24 91787435872"
+      "id": "24 91787437876"
     },
     {
       "title": "Ku po shkon protesta? Beqiri: U kap nga agjentuarat e huaja dhe Saliu! Balliu: Berisha e ka kthyer PD në pronë private",
