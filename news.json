@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-23T04:31:11.082640+00:00",
+  "lastUpdated": "2026-08-23T05:23:37.104161+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "St. Louis CITY arrin nivel të ri me fitoren ndaj Houston Dynamo",
+      "link": "https://24-ore.com/st-louis-city-arrin-nivel-te-ri-me-fitoren-ndaj-houston-dynamo/",
+      "description": "St. Louis CITY SC fitoi 2-1 ndaj liderit Houston Dynamo në Energizer Park dhe tërhoqi vëmendjen e MLS. Me këtë fitore skuadra e Yoann Damet zgjati serinë p...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T05:11:24+00:00",
+      "dateStr": "23 Aug, 05:11",
+      "isNew": true,
+      "id": "24 01787461884"
+    },
+    {
+      "title": "Dallas Cowboys mposhtin Arizona Cardinals 34-13 në miqësoren e 22 gushtit 2026",
+      "link": "https://24-ore.com/dallas-cowboys-mposhtin-arizona-cardinals-34-13-ne-miqesoren-e-22-gushtit-2026/",
+      "description": "Dallas Cowboys fituan ndaj Arizona Cardinals 34-13 në miqësoren e NFL të zhvilluar më 22 gusht 2026 në Glendale, Arizona. Dallas shënoi 14 pikë në periodën...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T05:06:28+00:00",
+      "dateStr": "23 Aug, 05:06",
+      "isNew": true,
+      "id": "24 11787461588"
+    },
+    {
+      "title": "Horoskopi, 23 gusht 2026",
+      "link": "https://abcnews.al/horoskopi-23-gusht-2026/",
+      "description": "Dashi Nesër mund të ndiheni më të vendosur për të marrë një drejtim të ri. Në punë, një mundësi e papritur mund t&#8217;ju bëjë të ndryshoni planet. Në dashuri, komunikimi i sinqertë do të shmangë keqkuptimet. Financat kërkojnë pak më shumë kujdes. Demi Një ditë e përshtatshme për të vendosur rregul",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T05:00:49+00:00",
+      "dateStr": "23 Aug, 05:00",
+      "isNew": true,
+      "id": "abc01787461249"
+    },
     {
       "title": "Një dopietë e Griezmann kthen Orlando City në zonën e play-off",
       "link": "https://24-ore.com/nje-dopiete-e-griezmann-kthen-orlando-city-ne-zonen-e-play-off/",
@@ -12,7 +45,7 @@
       "date": "2026-08-23T04:26:59+00:00",
       "dateStr": "23 Aug, 04:26",
       "isNew": true,
-      "id": "24 01787459219"
+      "id": "24 21787459219"
     },
     {
       "title": "Cavan Sullivan shënon me kokë pas anulimit të kartonit të kuq",
@@ -23,7 +56,7 @@
       "date": "2026-08-23T03:01:35+00:00",
       "dateStr": "23 Aug, 03:01",
       "isNew": true,
-      "id": "24 11787454095"
+      "id": "24 31787454095"
     },
     {
       "title": "Giancarlo Stanton dëmtohet duke rënë gjatë vrapimit; sezoni i tij në dyshim",
@@ -34,7 +67,7 @@
       "date": "2026-08-23T02:51:18+00:00",
       "dateStr": "23 Aug, 02:51",
       "isNew": true,
-      "id": "24 21787453478"
+      "id": "24 41787453478"
     },
     {
       "title": "Torey Lovullo komenton pamjet e Ketel Marte në kazino dhe vendimin për listën e të lënduarve",
@@ -45,7 +78,7 @@
       "date": "2026-08-23T02:07:19+00:00",
       "dateStr": "23 Aug, 02:07",
       "isNew": true,
-      "id": "24 31787450839"
+      "id": "24 51787450839"
     },
     {
       "title": "Little League World Series 2026: Rezultatet dhe momentet kryesore të së shtunës",
@@ -56,7 +89,7 @@
       "date": "2026-08-23T01:25:49+00:00",
       "dateStr": "23 Aug, 01:25",
       "isNew": true,
-      "id": "24 41787448349"
+      "id": "24 61787448349"
     },
     {
       "title": "Giants mundin Red Sox 2-0, Andrew Knizner vendos ndeshjen me homer",
@@ -67,7 +100,7 @@
       "date": "2026-08-23T00:41:06+00:00",
       "dateStr": "23 Aug, 00:41",
       "isNew": true,
-      "id": "24 51787445666"
+      "id": "24 71787445666"
     },
     {
       "title": "Pittsburgh Pirates mposhtën Los Angeles Dodgers 3-0 në ndeshjen e 22 gushtit",
@@ -78,7 +111,7 @@
       "date": "2026-08-22T23:57:08+00:00",
       "dateStr": "22 Aug, 23:57",
       "isNew": true,
-      "id": "24 61787443028"
+      "id": "24 81787443028"
     },
     {
       "title": "Kade Anderson debuton për Seattle ndaj Chicago Cubs më 22 gusht 2026",
@@ -89,29 +122,7 @@
       "date": "2026-08-22T23:15:50+00:00",
       "dateStr": "22 Aug, 23:15",
       "isNew": true,
-      "id": "24 71787440550"
-    },
-    {
-      "title": "New York Liberty ndaj Indiana Fever, 22 gusht 2026: përballje në Barclays Center",
-      "link": "https://24-ore.com/new-york-liberty-ndaj-indiana-fever-22-gusht-2026-perballje-ne-barclays-center/",
-      "description": "Ndeshja mes New York Liberty dhe Indiana Fever zhvillohet më 22 gusht 2026 në Barclays Center të Brooklyn, me nisje rreth orës 18:00. Të dy ekipet hyjnë në...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T22:35:30+00:00",
-      "dateStr": "22 Aug, 22:35",
-      "isNew": true,
-      "id": "24 81787438130"
-    },
-    {
-      "title": "Atletet ‘Space Jam’ Jordan 11 të Josh Naylor bëhen virale gjatë Players’ Weekend",
-      "link": "https://24-ore.com/atletet-space-jam-jordan-11-te-josh-naylor-behen-virale-gjate-players-weekend/",
-      "description": "Josh Naylor, lojtar i pikës së parë i Seattle Mariners, u shfaq me një palë këpucë bejsbolli Jordan 11 të zbukuruara me gurë (‘iced-out’) të frymëzuara nga...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T22:31:16+00:00",
-      "dateStr": "22 Aug, 22:31",
-      "isNew": true,
-      "id": "24 91787437876"
+      "id": "24 91787440550"
     },
     {
       "title": "Ku po shkon protesta? Beqiri: U kap nga agjentuarat e huaja dhe Saliu! Balliu: Berisha e ka kthyer PD në pronë private",
@@ -122,7 +133,7 @@
       "date": "2026-08-22T21:34:34+00:00",
       "dateStr": "22 Aug, 21:34",
       "isNew": true,
-      "id": "abc01787434474"
+      "id": "abc11787434474"
     },
     {
       "title": "Rrëzohet bllokimi i vizave në SHBA/ DASH bllokoi shtetasit e 75 vendeve, përfshirë nga Shqipëria, Kosova e RMV",
@@ -133,7 +144,7 @@
       "date": "2026-08-22T21:04:09+00:00",
       "dateStr": "22 Aug, 21:04",
       "isNew": true,
-      "id": "abc11787432649"
+      "id": "abc21787432649"
     },
     {
       "title": "Axios: 40 cisterna që transportonin 16 milionë fuçi naftë të papërpunuar kaluan nëpër Ngushticën e Hormuzit gjatë natës",
@@ -155,7 +166,7 @@
       "date": "2026-08-22T20:31:40+00:00",
       "dateStr": "22 Aug, 20:31",
       "isNew": true,
-      "id": "abc21787430700"
+      "id": "abc31787430700"
     },
     {
       "title": "Irani: Jemi gati për një luftë të zgjatur, prodhimi i armëve u trefishua",
@@ -166,7 +177,7 @@
       "date": "2026-08-22T20:18:24+00:00",
       "dateStr": "22 Aug, 20:18",
       "isNew": true,
-      "id": "abc31787429904"
+      "id": "abc41787429904"
     },
     {
       "title": "Operacion antikanabis në Pukë/ Policia qëllon me armë zjarri në ajër, kultivuesi i armatosur ia mbath ‘nga sytë këmbët’",
@@ -199,7 +210,7 @@
       "date": "2026-08-22T19:43:26+00:00",
       "dateStr": "22 Aug, 19:43",
       "isNew": true,
-      "id": "abc41787427806"
+      "id": "abc51787427806"
     },
     {
       "title": "PAMJE TË RËNDA/ Sherr mes dy vajzave shqiptare, 18-vjeçarja godet me grushta një 12-vjeçare (VIDEO)",
@@ -232,7 +243,7 @@
       "date": "2026-08-22T19:21:52+00:00",
       "dateStr": "22 Aug, 19:21",
       "isNew": true,
-      "id": "abc51787426512"
+      "id": "abc61787426512"
     },
     {
       "title": "Aksident me motor në Pyllin e Sodës, plagoset një person, dërgohet në spital",
@@ -254,7 +265,7 @@
       "date": "2026-08-22T19:03:49+00:00",
       "dateStr": "22 Aug, 19:03",
       "isNew": true,
-      "id": "abc61787425429"
+      "id": "abc71787425429"
     },
     {
       "title": "Jo vetëm për aeroportin e Vlorës, Pacolli dhe Valon Lluka përleshen edhe në gjykatat e Abu Dhabit, akuza për vjedhje",
@@ -287,7 +298,7 @@
       "date": "2026-08-22T18:35:13+00:00",
       "dateStr": "22 Aug, 18:35",
       "isNew": true,
-      "id": "abc71787423713"
+      "id": "abc81787423713"
     },
     {
       "title": "IKMT e bllokoi, por treni i “Syrit të Kaltër” punon sërish. Zhupa: Kush urdhëroi moszbatimin e masës?",
@@ -309,7 +320,7 @@
       "date": "2026-08-22T18:19:35+00:00",
       "dateStr": "22 Aug, 18:19",
       "isNew": true,
-      "id": "abc81787422775"
+      "id": "abc91787422775"
     },
     {
       "title": "Albin Kurti paralajmëron hapjen e plotë të urës mbi Ibër: Është absurde të vazhdojë të jetë e mbyllur",
@@ -321,17 +332,6 @@
       "dateStr": "22 Aug, 18:13",
       "isNew": true,
       "id": "she91787422434"
-    },
-    {
-      "title": "Shirat e rrëmbyeshëm godasin Spanjën, 7 të plagosur dhe 300 të evakuuar",
-      "link": "https://abcnews.al/shirat-e-rrembyeshem-godasin-spanjen-7-te-plagosur-dhe-300-te-evakuuar/",
-      "description": "Shirat e rrëmbyeshëm kanë shkaktuar përmbytje të shumta në verilindje të Spanjës, duke lënë të paktën shtatë persona të plagosur dhe duke detyruar autoritetet të evakuojnë rreth 300 persona. Ngjarja më e rëndë u regjistrua në portin e Roda de Berà, rreth 75 kilometra në jugperëndim të Barcelonës, ku",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-22T18:06:02+00:00",
-      "dateStr": "22 Aug, 18:06",
-      "isNew": true,
-      "id": "abc91787421962"
     }
   ]
 }
