@@ -1,29 +1,183 @@
 {
-  "lastUpdated": "2026-08-23T14:18:07.345728+00:00",
+  "lastUpdated": "2026-08-23T15:16:43.913523+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Gazetari zbulon detaje nga takimi i socialistëve, zbardhen porositë e Ramës për lokalet 2027: Dua emra të pastër",
-      "link": "https://24-ore.com/gazetari-zbulon-detaje-nga-takimi-i-socialisteve-zbardhen-porosite-e-rames-per-lokalet-2027-dua-emra-te-paster/",
+      "title": "Haland ndryshon look:  Flokët e rinj, një kapitull i ri!",
+      "link": "https://abcnews.al/haland-ndryshon-look-floket-e-rinj-nje-kapitull-i-ri/",
+      "description": "Erling Haaland ka surprizuar fansat pak orë para debutimit të Manchester Cityt në sezonin e ri të Premier League, duke ndryshuar modelin e flokëve. Sulmuesi norvegjez ka hequr dorë nga pamja e tij karakteristike me flokë të gjatë dhe të lidhur, duke u rikthyer te një model më i shkurtër, i ngjashëm ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T15:14:53+00:00",
+      "dateStr": "23 Aug, 15:14",
+      "isNew": true,
+      "id": "abc01787498093"
+    },
+    {
+      "title": "Nesër fillon gjykimi kundër ish zëvendëskryeministrit të parë, Artan Grubi",
+      "link": "https://24-ore.com/neser-fillon-gjykimi-kunder-ish-zevendeskryeministrit-te-pare-artan-grubi/",
+      "description": "Pas gjashtë muajsh në arrest shtëpie, ish zëvendëskryeministri i parë Artan Grubi nesër do të ulet në bankën e të akuzuarit lidhur me keqpërdorimin e rreth 8.2 milionë eurove në Lotarinë Shtetërore. Krahas tij, i akuzuar i parë në këtë lëndë është ish drejtori i Lotarisë, Përparim Bajrami, megjithat",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T15:13:05+00:00",
+      "dateStr": "23 Aug, 15:13",
+      "isNew": true,
+      "id": "24 01787497985"
+    },
+    {
+      "title": "Phil Handy bashkohet me stafin e 76ers si trajner i ndihmës, fitues i dy titujve me LeBron James",
+      "link": "https://24-ore.com/phil-handy-bashkohet-me-stafin-e-76ers-si-trajner-i-ndihmes-fitues-i-dy-titujve-me-lebron-james/",
+      "description": "Philadelphia 76ers po finalizojnë marrëveshjen për të emëruar veteranin Phil Handy si trajner të ndihmës nën drejtimin e Nick Nurse. Emërimi pritet të riba...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T15:10:43+00:00",
+      "dateStr": "23 Aug, 15:10",
+      "isNew": true,
+      "id": "24 11787497843"
+    },
+    {
+      "title": "Vrasja e turistit/ Dëshmia e turkes që u kap për përkrahje të autorit: S’kisha dijeni që Sokrat Vata ishte në makin",
+      "link": "https://24-ore.com/vrasja-e-turistit-deshmia-e-turkes-qe-u-kap-per-perkrahje-te-autorit-skisha-dijeni-qe-sokrat-vata-ishte-ne-makin/",
+      "description": "Katër ditë pas vrasjes me thikë të 21-vjeçarit portugez Luis Mendes, policia e Sarandës ka gjetur armën e krimit. Përveç gjurmimit nëpërmjet kamerave të sigurisë për të parë lëvizjet që ka bërë autori i dyshuar, S.V., hetuesit kanë marrë edhe deklarimet e A.Z. Ky i fundit rezulton të jetë personi që",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T15:02:14+00:00",
+      "dateStr": "23 Aug, 15:02",
+      "isNew": true,
+      "id": "24 21787497334"
+    },
+    {
+      "title": "Joe dhe Shirley DioGuardi marrin nesër shtetësinë e Kosovës",
+      "link": "https://24-ore.com/joe-dhe-shirley-dioguardi-marrin-neser-shtetesine-e-kosoves/",
+      "description": "Ushtruesja e Detyrës së Presidentes së Republikës së Kosovës, Albulena Haxhiu, do t’ua dorëzojë nesër dekretin e shtetësisë së Kosovës ish-kongresistit amerikan Joe DioGuardi dhe aktivistes Shirley Cloyes DioGuardi. Ceremonia e veçantë do të mbahet në orën 11:00, ku Haxhiu do t’ua dorëzojë zyrtarish",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T14:58:03+00:00",
+      "dateStr": "23 Aug, 14:58",
+      "isNew": true,
+      "id": "24 31787497083"
+    },
+    {
+      "title": "ASH: Reagimi i VLEN-it për tragjedinë e Tetovës është një tjetër dëshmi e hipokrizisë së tyre politike",
+      "link": "https://24-ore.com/ash-reagimi-i-vlen-it-per-tragjedine-e-tetoves-eshte-nje-tjeter-deshmi-e-hipokrizise-se-tyre-politike/",
+      "description": "VLEN-i sot paska zbuluar se tragjedia e Tetovës kërkon përgjegjësi institucionale dhe se publiku “i detyrohet një përgjigje”.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T14:57:51+00:00",
+      "dateStr": "23 Aug, 14:57",
+      "isNew": true,
+      "id": "24 41787497071"
+    },
+    {
+      "title": "Irani ekzekuton një person lidhur me protestat e janarit",
+      "link": "https://abcnews.al/irani-ekzekuton-nje-person-lidhur-me-protestat-e-janarit/",
+      "description": "Gjyqësori në Iran njoftoi më 23 gusht se është ekzekutuar edhe një protestues i arrestuar gjatë protestave mbarëkombëtare në janar. Sipas mediave iraniane, Majid Adineh, u arrestua më 9 janar në zonën Mohamadshahr të Karaxhit. Gjyqësori iranian e akuzoi Adinehin për bashkëpunim me “grupe armiqësore”",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T14:56:27+00:00",
+      "dateStr": "23 Aug, 14:56",
+      "isNew": true,
+      "id": "abc11787496987"
+    },
+    {
+      "title": "Takimi i socialistëve në Pogradec, zbardhen porositë e Ramës për lokalet 2027: Dua emra të pastër",
+      "link": "https://24-ore.com/takimi-i-socialisteve-ne-pogradec-zbardhen-porosite-e-rames-per-lokalet-2027-dua-emra-te-paster/",
       "description": "Partia Socialiste ka nisur diskutimet për zgjedhjet vendore të vitit 2027 në takimin dyditor të thirrur nga kryeministri Edi Rama në rezidencën qeveritare në Drilon të Pogradecit. Mbledhja, ku marrin pjesë drejtuesit politikë të qarqeve, kryetarët e komisioneve parlamentare dhe anëtarë të qeverisë, ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-23T14:17:51+00:00",
-      "dateStr": "23 Aug, 14:17",
+      "date": "2026-08-23T14:47:50+00:00",
+      "dateStr": "23 Aug, 14:47",
       "isNew": true,
-      "id": "24 01787494671"
+      "id": "24 51787496470"
     },
     {
-      "title": "Musmurati: Prishtina vishet me flamujt e lirisë, Kosova pret kthimin e çlirimtarëve",
-      "link": "https://24-ore.com/musmurati-prishtina-vishet-me-flamujt-e-lirise-kosova-pret-kthimin-e-clirimtareve/",
-      "description": "Nënkryetarja e Prishtinës, Besianë Musmurati, ka njoftuar se kryeqyteti është dekoruar me flamuj në pritje të kthimit të ish-krerëve të Ushtrisë Çlirimtare të Kosovës. “Prishtina sot vishet me flamujt e lirisë sepse Kosova po pret kthimin e çlirimtarëve”, ka shkruar Musmurati. Ajo ka theksuar se në ",
+      "title": "Irani: Hormuzi i mbyllur, jemi në luftë me SHBA-në",
+      "link": "https://abcnews.al/irani-hormuzi-i-mbyllur-jemi-ne-lufte-me-shba-ne/",
+      "description": "Irani ka deklaruar se Ngushtica e Hormuzit do të mbetet e mbyllur derisa Shtetet e Bashkuara të ndryshojnë qëndrimin dhe të ndërmarrin hapa konkretë. Presidenti iranian Masoud Pezeshkian e përshkroi situatën si një “luftë të plotë ekonomike, ushtarake dhe sigurie” me SHBA-në, duke theksuar se Tehera",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T14:35:46+00:00",
+      "dateStr": "23 Aug, 14:35",
+      "isNew": true,
+      "id": "abc21787495746"
+    },
+    {
+      "title": "VIDEO/ 5 orë në pritje jashtë rezidencës në Pogradec, i moshuari: Dua ta përqafoj njëherë Ramën!",
+      "link": "https://24-ore.com/video-5-ore-ne-pritje-jashte-rezidences-ne-pogradec-i-moshuari-dua-ta-perqafoj-njehere-ramen/",
+      "description": "Një i moshuar ka qëndruar për 5 orë jashtë rezidencës qeveritare në Pogradec për të pritur përfundimin e mbledhjes së Partisë Socialiste me drejtuesit politikë. Në një intervistë për gazetarin e Euronews Albania, Xhensil Shkëmbin, i moshuari u shpreh se kërkon ta falënderojë personalisht kryeministr",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-23T14:17:48+00:00",
-      "dateStr": "23 Aug, 14:17",
+      "date": "2026-08-23T14:32:32+00:00",
+      "dateStr": "23 Aug, 14:32",
       "isNew": true,
-      "id": "24 11787494668"
+      "id": "24 61787495552"
+    },
+    {
+      "title": "Lil Yachty debuton në WWE: kundërreaksionet e tifozëve dhe detajet e ndeshjes me Baron Corbin",
+      "link": "https://24-ore.com/lil-yachty-debuton-ne-wwe-kunderreaksionet-e-tifozeve-dhe-detajet-e-ndeshjes-me-baron-corbin/",
+      "description": "Raperi Lil Yachty pritet të debutojë në WWE më 6 shtator në episodin Sunday Night's Main Event, ku do të përballet me Baron Corbin. Njoftimi i Triple H për...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T14:32:16+00:00",
+      "dateStr": "23 Aug, 14:32",
+      "isNew": true,
+      "id": "24 71787495536"
+    },
+    {
+      "title": "News Hour me Fabiola Hoxha, (23/08/2026)",
+      "link": "https://abcnews.al/news-hour-me-fabiola-hoxha-23-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T14:32:13+00:00",
+      "dateStr": "23 Aug, 14:32",
+      "isNew": true,
+      "id": "abc31787495533"
+    },
+    {
+      "title": "Reagimi i Bronny James pas largimit të LeBron nga Lakers te 76ers",
+      "link": "https://24-ore.com/reagimi-i-bronny-james-pas-largimit-te-lebron-nga-lakers-te-76ers/",
+      "description": "Bronny James u përgjigj shkurt e qetë kur një tifoz e pyeti për transferimin e babait të tij te Philadelphia 76ers: “S’ka problem, është babai im.”Siç rapo...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T14:26:56+00:00",
+      "dateStr": "23 Aug, 14:26",
+      "isNew": true,
+      "id": "24 81787495216"
+    },
+    {
+      "title": "Punonjësit e Red Sox vrapojnë në bazat e Fenway për të përcaktuar renditjen e draftit të fantazisë",
+      "link": "https://24-ore.com/punonjesit-e-red-sox-vrapojne-ne-bazat-e-fenway-per-te-percaktuar-renditjen-e-draftit-te-fantazise/",
+      "description": "Në Fenway Park, punonjësit e Boston Red Sox veshën uniforma të lojtarëve të skuadrës dhe zhvilluan një garë duke vrapuar në bazat për të përcaktuar renditj...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T14:25:49+00:00",
+      "dateStr": "23 Aug, 14:25",
+      "isNew": true,
+      "id": "24 91787495149"
+    },
+    {
+      "title": "Zjarr në një lokal në Zvërnec, rrezik për përhapjen e flakëve drejt Pyllit të Sodës",
+      "link": "https://shekulli.com.al/2026/08/23/zjarr-ne-nje-lokal-ne-zvernec-rrezik-per-perhapjen-e-flakeve-drejt-pyllit-te-sodes/",
+      "description": "Një zjarr ka përfshirë një lokal në zonën e Zvërnecit, në Vlorë, duke krijuar rrezik për përhapjen e flakëve drejt Pyllit të Sodës. Sipas raportimeve, zjarri ka rënë në një ambient biznesi pranë zonës pyjore, ndërsa flakët dhe era kanë shtuar rrezikun që vatra të përhapet në drejtim të bimësisë. Në ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-23T14:22:50+00:00",
+      "dateStr": "23 Aug, 14:22",
+      "isNew": true,
+      "id": "she01787494970"
+    },
+    {
+      "title": "Paris-Berlin, ndihmë e re për Ukrainën/ Franca përshpejton dërgimin e raketave, Gjermania 10 milionë euro për Kievin",
+      "link": "https://abcnews.al/paris-berlin-ndihme-e-re-per-ukrainen-franca-pershpejton-dergimin-e-raketave-gjermania-10-milione-euro-per-kievin/",
+      "description": "Franca dhe Gjermania po rrisin mbështetjen ushtarake dhe financiare për Ukrainën, ndërsa Kievi kërkon më shumë sisteme të mbrojtjes ajrore, pas një prej sulmeve më të rënda ruse ndaj civilëve. Vendimi vjen pas sulmit rus ndaj një qendre tregtare në Krivji Rih, ku të paktën 16 persona humbën jetën dh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T14:14:25+00:00",
+      "dateStr": "23 Aug, 14:14",
+      "isNew": true,
+      "id": "abc41787494465"
     },
     {
       "title": "Helikopteri u ul në plazhin e mbushur me pushues në Spetses, piloti justifikohet me një arsye të pazakontë",
@@ -34,84 +188,7 @@
       "date": "2026-08-23T14:09:34+00:00",
       "dateStr": "23 Aug, 14:09",
       "isNew": true,
-      "id": "she01787494174"
-    },
-    {
-      "title": "Pogradecari 5 orë pret Ramën: Më lini ta përqafoj, më zgjidhi hallet! Dua ta falenderoj (VIDEO)",
-      "link": "https://24-ore.com/pogradecari-5-ore-pret-ramen-me-lini-ta-perqafoj-me-zgjidhi-hallet-dua-ta-falenderoj-video/",
-      "description": "Pasi qeveria i ka zgjidhur problematikat e tij, një i moshuar ka qëndruar për 5 orë jashtë rezidencës qeveritare në Pogradec për të pritur përfundimin e mbledhjes së Partisë Socialiste me drejtuesit politikë. Në një intervistë për gazetarin e Euronews Albania, Xhensil Shkëmbin, i moshuari u shpreh s",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:09:12+00:00",
-      "dateStr": "23 Aug, 14:09",
-      "isNew": true,
-      "id": "24 21787494152"
-    },
-    {
-      "title": "Ministria e Mbrojtjes përditësim për zjarret: 7 vatra mbeten aktive, 213 forca të angazhuara në terren",
-      "link": "https://24-ore.com/ministria-e-mbrojtjes-perditesim-per-zjarret-7-vatra-mbeten-aktive-213-forca-te-angazhuara-ne-terren/",
-      "description": "Ministria e Mbrojtjes ka bërë përditësimin e situatës së zjarreve në vend gjatë kësaj të diele deri në orën 14:00. Sipas raporteve zyrtare, gjatë ditës janë raportuar 15 vatra zjarri, prej të cilave 7 vijojnë të jenë aktive, ndërsa 8 janë nën mbikëqyrje. Në operacionet për përballimin e situatës jan",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:08:56+00:00",
-      "dateStr": "23 Aug, 14:08",
-      "isNew": true,
-      "id": "24 31787494136"
-    },
-    {
-      "title": "Dalin pamjet nga takimi i Ramës me të deleguarit politikë në Pogradec (VIDEO)",
-      "link": "https://24-ore.com/dalin-pamjet-nga-takimi-i-rames-me-te-deleguarit-politike-ne-pogradec-video/",
-      "description": "Kryeministria ka publikuar pamjet nga takimi i Kryetarit të Partisë Socialiste, njëherësh kryeministër, Edi Rama, me të deleguarit politikë dhe kryetarët socialistë të komisioneve parlamentare, zhvilluar këtë të shtunë në Pogradec. Në pamjet e publikuara shfaqen momente nga diskutimet, ndarja e opin",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:08:36+00:00",
-      "dateStr": "23 Aug, 14:08",
-      "isNew": true,
-      "id": "24 41787494116"
-    },
-    {
-      "title": "Roboti humanoid kinez thyen rekordin botëror të Usain Bolt, vrapoi 100 metra për 9.39 sekonda",
-      "link": "https://24-ore.com/roboti-humanoid-kinez-thyen-rekordin-boteror-te-usain-bolt-vrapoi-100-metra-per-9-39-sekonda/",
-      "description": "Humanoidi kinez, i prodhuar nga Qendra e Pekinit për Robotikë Humanoide, vrapoi 100 metra në 9.39 sekonda në Lojërat Botërore të Robotëve Humanoide të shtunën, duke thyer rekordin botëror prej 9.58 sekondash të legjendës xhamajkane, të cilin ai e vendosi në Olympiastadion në Berlin në vitin 2009. “K",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:08:16+00:00",
-      "dateStr": "23 Aug, 14:08",
-      "isNew": true,
-      "id": "24 51787494096"
-    },
-    {
-      "title": "Irani: Sanksionet e reja të vendosura nga SHBA-ja e dëshpëruar do të dështojnë",
-      "link": "https://24-ore.com/irani-sanksionet-e-reja-te-vendosura-nga-shba-ja-e-deshperuar-do-te-deshtojne/",
-      "description": "Ministri i Jashtëm i Iranit e hodhi poshtë kërcënimin e sanksioneve të reja të SHBA-së si një shenjë dëshpërimi të dielën dhe tha se masat e reja të pritura nuk do të arrijnë ta mposhtin Teheranin. Sekretari i Thesarit i SHBA-së, Scott Bessent, ka kërcënuar të vendosë ” sanksionet më të ashpra në hi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:08:01+00:00",
-      "dateStr": "23 Aug, 14:08",
-      "isNew": true,
-      "id": "24 61787494081"
-    },
-    {
-      "title": "Nuk është thjesht çështje protokolli",
-      "link": "https://24-ore.com/nuk-eshte-thjesht-ceshtje-protokolli/",
-      "description": "Nga Leonidha Mërtiri Kryeministri i Maqedonisë së Veriut Cristijan Mickoski ishte këto ditë në Pustec, për të marrë pjesë në një aktivitet të kësaj zone. Në hapje të ceremonisë, ndërsa himni maqedonas u ekzekutua, himni ynë kombëtar, i cili njihet dhe si himn i flamurit, mbeti i përjashtuar. Si mund",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:01:47+00:00",
-      "dateStr": "23 Aug, 14:01",
-      "isNew": true,
-      "id": "24 71787493707"
-    },
-    {
-      "title": "Altin Kryeziu humbi jetën në krye të detyrës, Gjini e Çitaku ngushëllojnë familjen",
-      "link": "https://24-ore.com/altin-kryeziu-humbi-jeten-ne-krye-te-detyres-gjini-e-citaku-ngushellojne-familjen/",
-      "description": "Vdekja e pjesëtarit të Policisë së Kosovës, Altin Kryeziu, ka sjellë reagime të shumta nga figura politike, të cilët kanë shprehur ngushëllime për familjen dhe kolegët e tij. Kryetari i AAK-së, Ardian Gjini, ka shprehur dhimbjen për ndarjen nga jeta të Kryeziut, duke theksuar se ai ishte nga Bubavec",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T13:57:58+00:00",
-      "dateStr": "23 Aug, 13:57",
-      "isNew": true,
-      "id": "24 81787493478"
+      "id": "she11787494174"
     },
     {
       "title": "Turistët pushtojnë Shkodrën/ Të huajt preferojnë qytetin e veriut për natyrën dhe qetësinë",
@@ -122,18 +199,7 @@
       "date": "2026-08-23T13:53:48+00:00",
       "dateStr": "23 Aug, 13:53",
       "isNew": true,
-      "id": "abc01787493228"
-    },
-    {
-      "title": "5 kg drogë në makinë, policia vë në pranga dy persona në Tiranë, heroinë dhe kokainë drejt Durrësit",
-      "link": "https://24-ore.com/5-kg-droge-ne-makine-policia-ve-ne-pranga-dy-persona-ne-tirane-heroine-dhe-kokaine-drejt-durresit/",
-      "description": "Dy persona kanë rënë në pranga të Policisë së Tiranës, të dyshuar se po trafikonin lëndë narkotike heroinë e kokainë. Lajmin për zhvillimin e këtij operacioni e ka bërë publik drejtori i Policisë së Tiranës, Oliger Torba në një konferencë për shtyp. “Strukturat vendore të Policisë Tiranë janë të ang",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T13:48:25+00:00",
-      "dateStr": "23 Aug, 13:48",
-      "isNew": true,
-      "id": "24 91787492905"
+      "id": "abc51787493228"
     },
     {
       "title": "News Line me Fabiola Hoxha, (23/08/2026)",
@@ -144,7 +210,7 @@
       "date": "2026-08-23T13:34:29+00:00",
       "dateStr": "23 Aug, 13:34",
       "isNew": true,
-      "id": "abc11787492069"
+      "id": "abc61787492069"
     },
     {
       "title": "Arrestohet “Visi i garave” në Palasë, nga Audi R8 i vjedhur te tritoli në garazh",
@@ -155,7 +221,7 @@
       "date": "2026-08-23T13:32:28+00:00",
       "dateStr": "23 Aug, 13:32",
       "isNew": true,
-      "id": "she11787491948"
+      "id": "she21787491948"
     },
     {
       "title": "Spektakli qiellor në 28 gusht! Nga Amerika e Veriut në Europë, ja vendet që mund të shohin Hënën e Plotë",
@@ -166,7 +232,7 @@
       "date": "2026-08-23T13:30:44+00:00",
       "dateStr": "23 Aug, 13:30",
       "isNew": true,
-      "id": "abc21787491844"
+      "id": "abc71787491844"
     },
     {
       "title": "Kanosi të shoqen me armën që posedonte pa leje, arrestohet në Palasë Elvis Kosova",
@@ -177,7 +243,7 @@
       "date": "2026-08-23T13:29:44+00:00",
       "dateStr": "23 Aug, 13:29",
       "isNew": true,
-      "id": "abc31787491784"
+      "id": "abc81787491784"
     },
     {
       "title": "Zjarr në ambientet e jashtme të një lokali në Triport të Vlorës",
@@ -188,18 +254,7 @@
       "date": "2026-08-23T13:27:02+00:00",
       "dateStr": "23 Aug, 13:27",
       "isNew": true,
-      "id": "abc41787491622"
-    },
-    {
-      "title": "15 vatra zjarri në vend, 7 aktive/ Fokusi kryesor në Krastë, ndërhyrje nga ajri në Palasë, Krujë dhe Dajt",
-      "link": "https://abcnews.al/15-vatra-zjarri-ne-vend-7-aktive-fokusi-kryesor-ne-kraste-nderhyrje-nga-ajri-ne-palase-kruje-dhe-dajt/",
-      "description": "15 vatra zjarri janë raportuar në vend deri në orën 14:00 të kësaj të diele, 23 gusht, ndërsa 7 prej tyre vijojnë të jenë aktive dhe 8 të tjera janë nën mbikëqyrje. Sipas Ministrisë së Mbrojtjes, në operacionet për shuarjen e flakëve janë angazhuar 213 forca, mes tyre 153 forca operacionale dhe 60 e",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T13:08:39+00:00",
-      "dateStr": "23 Aug, 13:08",
-      "isNew": true,
-      "id": "abc51787490519"
+      "id": "abc91787491622"
     },
     {
       "title": "Kapet mbi 5.2 kg heroinë dhe kokainë në Tiranë, arrestohen dy persona",
@@ -210,51 +265,7 @@
       "date": "2026-08-23T12:57:53+00:00",
       "dateStr": "23 Aug, 12:57",
       "isNew": true,
-      "id": "she21787489873"
-    },
-    {
-      "title": "Kokainë drejt Durrësit, arrestohen “mushkat”/ Operacioni në Tiranë, dy të arrestuar, do transportonin drogën në qytetin bregdetar",
-      "link": "https://abcnews.al/operacion-antidroge-ne-tirane-drejtori-torba-5-kg-heroine-e-kokaine-do-te-transportoheshin-drejt-durresit-ne-pranga-dy-persona/",
-      "description": "Një operacion antidrogë është finalizuar mesditën e sotme në Tiranë, duke çuar në pranga dy persona të dyshuar për trafikimin e lëndëve narkotike në sasi të konsiderueshme. Lajmi është bërë i ditur nga drejtori i Policisë Vendore, Oliger Torba, i cili deklaroi se operacioni i koduar “Drejtimi” është",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T12:43:58+00:00",
-      "dateStr": "23 Aug, 12:43",
-      "isNew": true,
-      "id": "abc61787489038"
-    },
-    {
-      "title": "Kampionët e Serie A mundën 4-1 Monza në ndeshjen e parë",
-      "link": "https://abcnews.al/kampionet-e-serie-a-munden-4-1-monza-ne-ndeshjen-e-pare/",
-      "description": "Inter e nisi sezonin e ri të Serie A si kampion I vërtetë. Skuadra zikaltër fitoi me rezultatin 4-1 ndaj Monzës, sfidën që ngriti siparin e edicionit 2026/2027 të kampionatit italian. Një shfaqje force kjo për të besuarit e Kristian Chivu dhe një sinjal për të gjithë rivalët e mëdhenj në garën e re ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T12:30:49+00:00",
-      "dateStr": "23 Aug, 12:30",
-      "isNew": true,
-      "id": "abc71787488249"
-    },
-    {
-      "title": "Zjarr në Krastë të Krujës, dyshohet zjarrvënie e qëllimshme nga një banor i fshatit",
-      "link": "https://abcnews.al/zjarr-ne-kraste-te-krujes-dyshohet-zjarrvenie-e-qellimshme-nga-nje-banor-i-fshatit/",
-      "description": "Nje vatër zjarri eshte shfaqur kete mesdite në zonën e Krastës. Nga zjarri janë djegur masive me pisha, ndërsa menjëherë zjarrfikësit dhe nje helikopter po punojnë për izolimin e vatrave të zjarrit pranë Krastës. Dyshohet zjarrvënje e qëllimshme sipas një banori të fshatit Halilaj. [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T12:22:13+00:00",
-      "dateStr": "23 Aug, 12:22",
-      "isNew": true,
-      "id": "abc81787487733"
-    },
-    {
-      "title": "Brenda mbledhjes së Ramës me drejtuesit e qarqeve/ Kryesocialisti vendos detyrat: Përgatituni për zgjedhjet e 2027",
-      "link": "https://abcnews.al/brenda-mbledhjes-se-rames-me-drejtuesit-e-qarqeve-kryesocialisti-vendos-detyrat-pergatituni-per-zgjedhjet-e-2027/",
-      "description": "Kryeministri Edi Rama ka përcjellë një sërë porosish për drejtuesit politikë të qarqeve dhe përfaqësuesit e Partisë Socialiste gjatë mbledhjes së zhvilluar në Pogradec. Në fokus të diskutimeve ka qenë edhe “Dokumenti Besa” dhe “Prania Besnike”. Rama u ka kërkuar drejtuesve që t’i lexojnë me kujdes k",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T12:07:36+00:00",
-      "dateStr": "23 Aug, 12:07",
-      "isNew": true,
-      "id": "abc91787486856"
+      "id": "she31787489873"
     },
     {
       "title": "Vrasja e 45-vjeçares shqiptare në Athinë, nëna e saj: Nuk më kishte thënë asgjë për lidhjen…",
@@ -265,7 +276,7 @@
       "date": "2026-08-23T11:50:58+00:00",
       "dateStr": "23 Aug, 11:50",
       "isNew": true,
-      "id": "she31787485858"
+      "id": "she41787485858"
     },
     {
       "title": "Krimi i dyfishtë në Athinë, 50-vjeçari shqiptar ishte i martuar dhe baba i një fëmije, flet gruaja e tij",
@@ -276,7 +287,7 @@
       "date": "2026-08-23T11:44:03+00:00",
       "dateStr": "23 Aug, 11:44",
       "isNew": true,
-      "id": "she41787485443"
+      "id": "she51787485443"
     },
     {
       "title": "Vrasja e turistit portugez në Ksamil, gjendet pas 7 ditësh thika që dyshohet se përdori Sokrat Vata",
@@ -287,7 +298,7 @@
       "date": "2026-08-23T11:09:24+00:00",
       "dateStr": "23 Aug, 11:09",
       "isNew": true,
-      "id": "she51787483364"
+      "id": "she61787483364"
     },
     {
       "title": "Goditi gazetarin Elton Qyno, gjykata vendos dy masa sigurie për bashkëshorten e Florenc Çapjas",
@@ -298,7 +309,7 @@
       "date": "2026-08-23T10:57:57+00:00",
       "dateStr": "23 Aug, 10:57",
       "isNew": true,
-      "id": "she61787482677"
+      "id": "she71787482677"
     },
     {
       "title": "Takimi i Ramës në vilën qeveritare në Pogradec, zbardhen diskutimet e para, çfarë i pret socialistët në Shtator",
@@ -309,7 +320,7 @@
       "date": "2026-08-23T10:17:12+00:00",
       "dateStr": "23 Aug, 10:17",
       "isNew": true,
-      "id": "she71787480232"
+      "id": "she81787480232"
     },
     {
       "title": "“Drejtësia ta ndëshkojë”/ Beqaj përplaset në distancë me Lamallarin: Shteti modern nuk hakmerret…",
@@ -320,18 +331,7 @@
       "date": "2026-08-23T10:06:57+00:00",
       "dateStr": "23 Aug, 10:06",
       "isNew": true,
-      "id": "she81787479617"
-    },
-    {
-      "title": "E rëndë në Itali, gjendet i pajetë në bagazhin e makinës punëtori, i zhdukur nga data 4 Gusht",
-      "link": "https://shekulli.com.al/2026/08/23/e-rende-ne-itali-gjendet-i-pajete-ne-bagazhin-e-makines-punetori-i-zhdukur-nga-data-4-gusht/",
-      "description": "Një ngjarje e rëndë ka tronditur zonën e Foggias në Itali, ku trupi i pajetë i 32-vjeçarit pakistanez Sadam Houssain, punëtor në bujqësi, është gjetur në bagazhin e makinës së tij. Sadam Houssain ishte shpallur i zhdukur që prej 4 gushtit. Pas rreth një jave kërkimesh, trupi i tij u gjet pasditen e ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-23T09:49:50+00:00",
-      "dateStr": "23 Aug, 09:49",
-      "isNew": true,
-      "id": "she91787478590"
+      "id": "she91787479617"
     }
   ]
 }
