@@ -1,10 +1,208 @@
 {
-  "lastUpdated": "2026-08-23T15:16:43.913523+00:00",
+  "lastUpdated": "2026-08-23T16:18:48.903327+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Haland ndryshon look:  Flokët e rinj, një kapitull i ri!",
+      "title": "Të shtëna me armë në Dukagjin, vriten babë e bir, plagoset rëndë një tjetër (EMRAT)",
+      "link": "https://24-ore.com/te-shtena-me-arme-ne-dukagjin-vriten-babe-e-bir-plagoset-rende-nje-tjeter-emrat/",
+      "description": "Dy persona, babë e bir, janë vrarë me armë zjarri pasditen e kësaj të diele në fshatin Mgull të Njësisë Administrative Pult, në Dukagjin. Viktimat janë identifikuar si Lekë Gjoni dhe Prelë Gjoni, ndërsa i plagosur rëndë ka mbetur Aleks Preka. Ngjarja është raportuar rreth orës 17:20. Për shkak të la",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T16:17:00+00:00",
+      "dateStr": "23 Aug, 16:17",
+      "isNew": true,
+      "id": "24 01787501820"
+    },
+    {
+      "title": "Aksidenti tragjik në Rrashbull, kapet shoferi që la 41-vjeçarin pa ndihmë në rrugë për 4 orë",
+      "link": "https://24-ore.com/aksidenti-tragjik-ne-rrashbull-kapet-shoferi-qe-la-41-vjecarin-pa-ndihme-ne-rruge-per-4-ore/",
+      "description": "Policia ka identifikuar dhe kapur autorin e dyshuar të aksidentit tragjik në Rrashbull të Durrësit, në aksin Shkozet-Shijak, ku humbi jetën 41-vjeçari Vasil Hasani. Pas përplasjes, drejtuesi i automjetit u largua nga vendi i aksidentit, duke e lënë 41-vjeçarin, pa ndihmë, të shtrirë në rrugë, në err",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T16:16:42+00:00",
+      "dateStr": "23 Aug, 16:16",
+      "isNew": true,
+      "id": "24 11787501802"
+    },
+    {
+      "title": "Vriten me armë zjarri babë e bir në Dukagjin, policia niset drejt vendit të ngjarjes (EMRAT)",
+      "link": "https://24-ore.com/vriten-me-arme-zjarri-babe-e-bir-ne-dukagjin-policia-niset-drejt-vendit-te-ngjarjes-emrat/",
+      "description": "Dy persona kanë humbur jetën dhe një tjetër është plagosur pasditen e kësaj të diele, pas disa të shtënave me armë zjarri në fshatin Kir, në Dukagjin. Viktimat janë identifikuar si Lekë Gjoni dhe Prelë Gjoni, babë e bir, ndërsa i plagosur ka mbetur Aleks Preka. Forcat e Policisë janë nisur drejt ven",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T16:13:02+00:00",
+      "dateStr": "23 Aug, 16:13",
+      "isNew": true,
+      "id": "24 21787501582"
+    },
+    {
+      "title": "EMRAT/ Vrasja e dyfishtë në Dukagjin, viktimat janë babë e bir, një i tretë i plagosur",
+      "link": "https://shekulli.com.al/2026/08/23/emrat-vrasja-e-dyfishte-ne-dukagjin-viktimat-jane-babe-e-bir-nje-i-trete-i-plagosur/",
+      "description": "DUKAGJIN- Janë zbardhur identitetet e personave që mbetën të vrarë pasditen e kësaj të diele në Dukagjin. Viktimat janë shtetasit Lekë Gjoni dhe Prel Gjoni, babë e bir. Shekulli mëson se si pasojë e të shtënave me armë ka mbetur i plagosur rëndë dhe shtetasi Aleks Preka. Policia e Shkodrës është njo",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-23T16:11:45+00:00",
+      "dateStr": "23 Aug, 16:11",
+      "isNew": true,
+      "id": "she01787501505"
+    },
+    {
+      "title": "Vriten me armë zjarri 2 persona në Dukagjin, policia niset drejt vendit të ngjarjes",
+      "link": "https://24-ore.com/vriten-me-arme-zjarri-2-persona-ne-dukagjin-policia-niset-drejt-vendit-te-ngjarjes/",
+      "description": "Dy persona kanë humbur jetën dhe një tjetër është plagosur pasditen e kësaj të diele, pas disa të shtënave me armë zjarri në fshatin Kir, në Dukagjin. Forcat e Policisë janë nisur drejt vendit të ngjarjes, ndërsa rrethanat dhe shkaqet e incidentit mbeten ende të paqarta. Policia pritet të japë më sh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T16:03:07+00:00",
+      "dateStr": "23 Aug, 16:03",
+      "isNew": true,
+      "id": "24 31787500987"
+    },
+    {
+      "title": "News Hour me Kasandra Palin, (23/08/2026)",
+      "link": "https://abcnews.al/news-hour-me-kasandra-palin-23-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T16:02:27+00:00",
+      "dateStr": "23 Aug, 16:02",
+      "isNew": true,
+      "id": "abc01787500947"
+    },
+    {
+      "title": "“Visi i Garave” në pranga pas konfliktit me bashkëshorten, e kërcënoi me armë dhe fshihte pistoletën te tubat e ujit",
+      "link": "https://24-ore.com/visi-i-garave-ne-pranga-pas-konfliktit-me-bashkeshorten-e-kercenoi-me-arme-dhe-fshihte-pistoleten-te-tubat-e-ujit/",
+      "description": "Konflikti me bashkëshorten që përshkallëzoi deri në dhunë e kërcënimin me armë ka vënë në pranga Elvis Kosovën, i njohur si ‘Visi i Garave.’ Policia e Vlorës bën me dije se kur ka hyrë në banesë ka gjetur një pistoletë, 3 krehra dhe dy pako me fishekë që tanimë janë sekuestruar. Pistoleta ishte e fs",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T16:02:03+00:00",
+      "dateStr": "23 Aug, 16:02",
+      "isNew": true,
+      "id": "24 41787500923"
+    },
+    {
+      "title": "TRAVELLISIMO – Shqipëria renditet në vendin e parë në Evropë për turistët",
+      "link": "https://24-ore.com/travellisimo-shqiperia-renditet-ne-vendin-e-pare-ne-evrope-per-turistet/",
+      "description": "– Shqipëria po përjeton momentin e saj të artë dhe po shndërrohet me shpejtësi në një nga destinacionet turistike më emocionuese të Evropës, sipas faqes së internetit “Travellisimo”. Dikur e konsideruar si një nga sekretet më të ruajtura të Ballkanit, Shqipëria sot po tërheq gjithnjë e më shumë udhë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T16:00:15+00:00",
+      "dateStr": "23 Aug, 16:00",
+      "isNew": true,
+      "id": "24 51787500815"
+    },
+    {
+      "title": "(EMRAT)/ Vriten babë e bir në Dukagjin, një tjetër plagoset rëndë",
+      "link": "https://abcnews.al/emrat-vriten-babe-e-bir-ne-dukagjin-nje-tjeter-plagoset-rende/",
+      "description": "Një ngjarje e rëndë raportohet të ketë ndodhur në zonën e Dukagjinit, në Shkodër, ku sipas të dhënave paraprake, dy persona dyshohet se kanë humbur jetën dhe një tjetër është plagosur. Burime paraprake bëjnë me dije se një telefonatë për ngjarjen ka mbërritur në Policinë e Shkodrës. Viktimat janë Le",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T15:59:32+00:00",
+      "dateStr": "23 Aug, 15:59",
+      "isNew": true,
+      "id": "abc11787500772"
+    },
+    {
+      "title": "ASH: VLEN kërkon përgjegjësi për tragjedinë e Tetovës, por Kasami dhe Mexhiti aso kohe ishin pjesë e qeverisjes",
+      "link": "https://24-ore.com/ash-vlen-kerkon-pergjegjesi-per-tragjedine-e-tetoves-por-kasami-dhe-mexhiti-aso-kohe-ishin-pjese-e-qeverisjes/",
+      "description": "Nga Aleanca për Shqiptarët reagojnë ndaj deklaratave të VLEN-it për tragjedinë e Tetovës, duke i cilësuar ato si hipokrizi politike. Sipas ASH-së, para se VLEN-i të kërkojë përgjegjësi institucionale dhe drejtësi, duhet të japë përgjigje për rolin e drejtuesve të saj, Izet Mexhitit dhe Bilall Kasami",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T15:57:42+00:00",
+      "dateStr": "23 Aug, 15:57",
+      "isNew": true,
+      "id": "24 61787500662"
+    },
+    {
+      "title": "Vriten dy persona në Dukagjin, raportohet edhe për një të plagosur",
+      "link": "https://shekulli.com.al/2026/08/23/vriten-dy-persona-ne-dukagjin-raportohet-edhe-per-nje-te-plagosur/",
+      "description": "Dy persona raportohet se janë vrarë në zonën e Dukagjinit, në Shkodër, ndërsa një tjetër dyshohet se ka mbetur i plagosur. Ngjarja ka ndodhur pak minuta më parë, ndërsa informacionet e para janë ende të pakonfirmuara zyrtarisht. Forcat e Policisë janë nisur drejt zonës për të verifikuar rrethanat e ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-23T15:55:17+00:00",
+      "dateStr": "23 Aug, 15:55",
+      "isNew": true,
+      "id": "she11787500517"
+    },
+    {
+      "title": "Çmimi i Madh i Holandës/ Norris nuk ndalet më, mposht Antonelli-n dhe Russell-in në Zandvoort",
+      "link": "https://24-ore.com/cmimi-i-madh-i-holandes-norris-nuk-ndalet-me-mposht-antonelli-n-dhe-russell-in-ne-zandvoort/",
+      "description": "Pushimi prej katër javës i kampionatit të Formulës 1 duket se nuk ka ndikuar në formën e mirë të Lando Norris, i cili pas triumit në Hungari arriti që të siguronte edhe sot një tjetër fitore. Këtë herë piloti i McLaren triumfoi në Zandvoort ku la pas dy pilotët e Mercedes-it. Në vendin e dytë [&#823",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T15:52:54+00:00",
+      "dateStr": "23 Aug, 15:52",
+      "isNew": true,
+      "id": "24 71787500374"
+    },
+    {
+      "title": "Frika nga kursi, shqiptarët i kthejnë kursimet në lek",
+      "link": "https://24-ore.com/frika-nga-kursi-shqiptaret-i-kthejne-kursimet-ne-lek/",
+      "description": "Shqiptarët po zgjedhin të ruajnë kursimet me monedhën vendase. Depozitat në lek u rritën me 13.5%, ndërsa ato në valutë me 10.5%, duke bërë që leku të zërë për herë të parë në një dekadë mbi 50% të totalit. Zhvlerësimi i euros po shoqërohet me një ndryshim në vendimmarrjen e qytetarëve për sa u përk",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T15:48:09+00:00",
+      "dateStr": "23 Aug, 15:48",
+      "isNew": true,
+      "id": "24 81787500089"
+    },
+    {
+      "title": "2027 pritet të thyejë rekordin e temperaturave, fenomeni El Nino mund të jetë më i rrezikshëm",
+      "link": "https://24-ore.com/2027-pritet-te-thyeje-rekordin-e-temperaturave-fenomeni-el-nino-mund-te-jete-me-i-rrezikshem/",
+      "description": "El Nino, fenomeni natyror klimatik që shkaktohet nga ngrohja e pazakontë e ujërave të Oqeanit Paqësor, mund të jetë më i fuqishmi i regjistruar në kohët moderne. Shërbimi Meteorologjik britanik paralajmëron se ndikimi i tij, i kombinuar me ndryshimet klimatike, mund ta bëjë vitin 2027 më të nxehtin ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T15:47:55+00:00",
+      "dateStr": "23 Aug, 15:47",
+      "isNew": true,
+      "id": "24 91787500075"
+    },
+    {
+      "title": "Moti ekstrem në Europë/ Serbia në luftë me flakët, Spanja me përmbytjet, Polonia me stuhitë",
+      "link": "https://abcnews.al/moti-ekstrem-ne-europe-serbia-ne-lufte-me-flaket-spanja-me-permbytjet-polonia-me-stuhite/",
+      "description": "Zjarre, përmbytje dhe stuhi kanë përfshirë disa vende të Evropës, duke detyruar mijëra persona të largohen nga zonat e rrezikuara. Në Serbi, zjarret kanë djegur mbi 1 mijë e 600 hektarë bimësi. Për shuarjen e flakëve janë angazhuar helikopterë dhe avionë. Edhe në Bosnje dhe Hercegovinë zjarret kanë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T15:47:23+00:00",
+      "dateStr": "23 Aug, 15:47",
+      "isNew": true,
+      "id": "abc21787500043"
+    },
+    {
+      "title": "Detaje nga arrestimi i “Visit të garave” në Palasë, Kosova kanosi bashkëshorten me armë pasi i zbuloi tradhëtinë",
+      "link": "https://shekulli.com.al/2026/08/23/detaje-nga-arrestimi-i-visi-te-garave-ne-palase-kosova-kanosi-bashkeshorten-me-arme-pasi-i-zbuloi-tradhetine/",
+      "description": "Palasë – Elvis Kosova, i njohur në media edhe me nofkën “Visi i garave”, është arrestuar në flagrancë në zonën e Palasës, pas një konflikti familjar, ku dyshohet se ka dhunuar dhe kanosur bashkëshorten e tij me armë. Ngjarja u regjistrua rreth orës 13:40, në një vilë brenda një kompleksi në Palasë, ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-23T15:35:58+00:00",
+      "dateStr": "23 Aug, 15:35",
+      "isNew": true,
+      "id": "she21787499358"
+    },
+    {
+      "title": "Konflikti me gruan përfundon në arrestim/ Momenti i shoqërimit të Elvis Kosovës në komisariat, çfarë iu gjet në banesën në Tiranë",
+      "link": "https://abcnews.al/konflikti-me-gruan-perfundon-ne-arrestim-momenti-i-shoqerimit-te-elvis-kosoves-ne-komisariat-cfare-iu-gjet-ne-banesen-ne-tirane/",
+      "description": "Një konflikt familjar ka përfunduar me arrestimin e Elvis Kosovës në zonën e Palasës, pasi dyshohet se ka dhunuar dhe kanosur bashkëshorten e tij. Ngjarja u raportua rreth orës 13:40, në një vilë brenda një kompleksi në Palasë. Pas marrjes së njoftimit, shërbimet e Patrullës së Zonës dhe forcat shte",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-23T15:30:13+00:00",
+      "dateStr": "23 Aug, 15:30",
+      "isNew": true,
+      "id": "abc31787499013"
+    },
+    {
+      "title": "Arrestohet reperi italian Tony Boy, në shtëpi iu gjetën drogë dhe armë – gjithçka u transmetua live në rrjetet sociale",
+      "link": "https://shekulli.com.al/2026/08/23/arrestohet-reperi-italian-tony-boy-ne-shtepi-iu-gjeten-droge-dhe-arme-gjithcka-u-transmetua-live-ne-rrjetet-sociale/",
+      "description": "Reperi i njohur italian Tony Boy, emri i vërtetë i të cilit është Antonio Hueber, është arrestuar nga policia në Milano pas një kontrolli ku në banesën e tij u gjetën lëndë narkotike, një armë zjarri me numër serie të fshirë dhe dhjetëra fishekë. Ngjarja ka bërë bujë në Itali edhe për faktin se arti",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-23T15:22:16+00:00",
+      "dateStr": "23 Aug, 15:22",
+      "isNew": true,
+      "id": "she31787498536"
+    },
+    {
+      "title": "Haaland ndryshon look:  Flokët e rinj, një kapitull i ri!",
       "link": "https://abcnews.al/haland-ndryshon-look-floket-e-rinj-nje-kapitull-i-ri/",
       "description": "Erling Haaland ka surprizuar fansat pak orë para debutimit të Manchester Cityt në sezonin e ri të Premier League, duke ndryshuar modelin e flokëve. Sulmuesi norvegjez ka hequr dorë nga pamja e tij karakteristike me flokë të gjatë dhe të lidhur, duke u rikthyer te një model më i shkurtër, i ngjashëm ",
       "source": "ABC News",
@@ -12,62 +210,7 @@
       "date": "2026-08-23T15:14:53+00:00",
       "dateStr": "23 Aug, 15:14",
       "isNew": true,
-      "id": "abc01787498093"
-    },
-    {
-      "title": "Nesër fillon gjykimi kundër ish zëvendëskryeministrit të parë, Artan Grubi",
-      "link": "https://24-ore.com/neser-fillon-gjykimi-kunder-ish-zevendeskryeministrit-te-pare-artan-grubi/",
-      "description": "Pas gjashtë muajsh në arrest shtëpie, ish zëvendëskryeministri i parë Artan Grubi nesër do të ulet në bankën e të akuzuarit lidhur me keqpërdorimin e rreth 8.2 milionë eurove në Lotarinë Shtetërore. Krahas tij, i akuzuar i parë në këtë lëndë është ish drejtori i Lotarisë, Përparim Bajrami, megjithat",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T15:13:05+00:00",
-      "dateStr": "23 Aug, 15:13",
-      "isNew": true,
-      "id": "24 01787497985"
-    },
-    {
-      "title": "Phil Handy bashkohet me stafin e 76ers si trajner i ndihmës, fitues i dy titujve me LeBron James",
-      "link": "https://24-ore.com/phil-handy-bashkohet-me-stafin-e-76ers-si-trajner-i-ndihmes-fitues-i-dy-titujve-me-lebron-james/",
-      "description": "Philadelphia 76ers po finalizojnë marrëveshjen për të emëruar veteranin Phil Handy si trajner të ndihmës nën drejtimin e Nick Nurse. Emërimi pritet të riba...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T15:10:43+00:00",
-      "dateStr": "23 Aug, 15:10",
-      "isNew": true,
-      "id": "24 11787497843"
-    },
-    {
-      "title": "Vrasja e turistit/ Dëshmia e turkes që u kap për përkrahje të autorit: S’kisha dijeni që Sokrat Vata ishte në makin",
-      "link": "https://24-ore.com/vrasja-e-turistit-deshmia-e-turkes-qe-u-kap-per-perkrahje-te-autorit-skisha-dijeni-qe-sokrat-vata-ishte-ne-makin/",
-      "description": "Katër ditë pas vrasjes me thikë të 21-vjeçarit portugez Luis Mendes, policia e Sarandës ka gjetur armën e krimit. Përveç gjurmimit nëpërmjet kamerave të sigurisë për të parë lëvizjet që ka bërë autori i dyshuar, S.V., hetuesit kanë marrë edhe deklarimet e A.Z. Ky i fundit rezulton të jetë personi që",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T15:02:14+00:00",
-      "dateStr": "23 Aug, 15:02",
-      "isNew": true,
-      "id": "24 21787497334"
-    },
-    {
-      "title": "Joe dhe Shirley DioGuardi marrin nesër shtetësinë e Kosovës",
-      "link": "https://24-ore.com/joe-dhe-shirley-dioguardi-marrin-neser-shtetesine-e-kosoves/",
-      "description": "Ushtruesja e Detyrës së Presidentes së Republikës së Kosovës, Albulena Haxhiu, do t’ua dorëzojë nesër dekretin e shtetësisë së Kosovës ish-kongresistit amerikan Joe DioGuardi dhe aktivistes Shirley Cloyes DioGuardi. Ceremonia e veçantë do të mbahet në orën 11:00, ku Haxhiu do t’ua dorëzojë zyrtarish",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:58:03+00:00",
-      "dateStr": "23 Aug, 14:58",
-      "isNew": true,
-      "id": "24 31787497083"
-    },
-    {
-      "title": "ASH: Reagimi i VLEN-it për tragjedinë e Tetovës është një tjetër dëshmi e hipokrizisë së tyre politike",
-      "link": "https://24-ore.com/ash-reagimi-i-vlen-it-per-tragjedine-e-tetoves-eshte-nje-tjeter-deshmi-e-hipokrizise-se-tyre-politike/",
-      "description": "VLEN-i sot paska zbuluar se tragjedia e Tetovës kërkon përgjegjësi institucionale dhe se publiku “i detyrohet një përgjigje”.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:57:51+00:00",
-      "dateStr": "23 Aug, 14:57",
-      "isNew": true,
-      "id": "24 41787497071"
+      "id": "abc41787498093"
     },
     {
       "title": "Irani ekzekuton një person lidhur me protestat e janarit",
@@ -78,18 +221,7 @@
       "date": "2026-08-23T14:56:27+00:00",
       "dateStr": "23 Aug, 14:56",
       "isNew": true,
-      "id": "abc11787496987"
-    },
-    {
-      "title": "Takimi i socialistëve në Pogradec, zbardhen porositë e Ramës për lokalet 2027: Dua emra të pastër",
-      "link": "https://24-ore.com/takimi-i-socialisteve-ne-pogradec-zbardhen-porosite-e-rames-per-lokalet-2027-dua-emra-te-paster/",
-      "description": "Partia Socialiste ka nisur diskutimet për zgjedhjet vendore të vitit 2027 në takimin dyditor të thirrur nga kryeministri Edi Rama në rezidencën qeveritare në Drilon të Pogradecit. Mbledhja, ku marrin pjesë drejtuesit politikë të qarqeve, kryetarët e komisioneve parlamentare dhe anëtarë të qeverisë, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:47:50+00:00",
-      "dateStr": "23 Aug, 14:47",
-      "isNew": true,
-      "id": "24 51787496470"
+      "id": "abc51787496987"
     },
     {
       "title": "Irani: Hormuzi i mbyllur, jemi në luftë me SHBA-në",
@@ -100,29 +232,7 @@
       "date": "2026-08-23T14:35:46+00:00",
       "dateStr": "23 Aug, 14:35",
       "isNew": true,
-      "id": "abc21787495746"
-    },
-    {
-      "title": "VIDEO/ 5 orë në pritje jashtë rezidencës në Pogradec, i moshuari: Dua ta përqafoj njëherë Ramën!",
-      "link": "https://24-ore.com/video-5-ore-ne-pritje-jashte-rezidences-ne-pogradec-i-moshuari-dua-ta-perqafoj-njehere-ramen/",
-      "description": "Një i moshuar ka qëndruar për 5 orë jashtë rezidencës qeveritare në Pogradec për të pritur përfundimin e mbledhjes së Partisë Socialiste me drejtuesit politikë. Në një intervistë për gazetarin e Euronews Albania, Xhensil Shkëmbin, i moshuari u shpreh se kërkon ta falënderojë personalisht kryeministr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:32:32+00:00",
-      "dateStr": "23 Aug, 14:32",
-      "isNew": true,
-      "id": "24 61787495552"
-    },
-    {
-      "title": "Lil Yachty debuton në WWE: kundërreaksionet e tifozëve dhe detajet e ndeshjes me Baron Corbin",
-      "link": "https://24-ore.com/lil-yachty-debuton-ne-wwe-kunderreaksionet-e-tifozeve-dhe-detajet-e-ndeshjes-me-baron-corbin/",
-      "description": "Raperi Lil Yachty pritet të debutojë në WWE më 6 shtator në episodin Sunday Night's Main Event, ku do të përballet me Baron Corbin. Njoftimi i Triple H për...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:32:16+00:00",
-      "dateStr": "23 Aug, 14:32",
-      "isNew": true,
-      "id": "24 71787495536"
+      "id": "abc61787495746"
     },
     {
       "title": "News Hour me Fabiola Hoxha, (23/08/2026)",
@@ -133,29 +243,7 @@
       "date": "2026-08-23T14:32:13+00:00",
       "dateStr": "23 Aug, 14:32",
       "isNew": true,
-      "id": "abc31787495533"
-    },
-    {
-      "title": "Reagimi i Bronny James pas largimit të LeBron nga Lakers te 76ers",
-      "link": "https://24-ore.com/reagimi-i-bronny-james-pas-largimit-te-lebron-nga-lakers-te-76ers/",
-      "description": "Bronny James u përgjigj shkurt e qetë kur një tifoz e pyeti për transferimin e babait të tij te Philadelphia 76ers: “S’ka problem, është babai im.”Siç rapo...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:26:56+00:00",
-      "dateStr": "23 Aug, 14:26",
-      "isNew": true,
-      "id": "24 81787495216"
-    },
-    {
-      "title": "Punonjësit e Red Sox vrapojnë në bazat e Fenway për të përcaktuar renditjen e draftit të fantazisë",
-      "link": "https://24-ore.com/punonjesit-e-red-sox-vrapojne-ne-bazat-e-fenway-per-te-percaktuar-renditjen-e-draftit-te-fantazise/",
-      "description": "Në Fenway Park, punonjësit e Boston Red Sox veshën uniforma të lojtarëve të skuadrës dhe zhvilluan një garë duke vrapuar në bazat për të përcaktuar renditj...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T14:25:49+00:00",
-      "dateStr": "23 Aug, 14:25",
-      "isNew": true,
-      "id": "24 91787495149"
+      "id": "abc71787495533"
     },
     {
       "title": "Zjarr në një lokal në Zvërnec, rrezik për përhapjen e flakëve drejt Pyllit të Sodës",
@@ -166,7 +254,7 @@
       "date": "2026-08-23T14:22:50+00:00",
       "dateStr": "23 Aug, 14:22",
       "isNew": true,
-      "id": "she01787494970"
+      "id": "she41787494970"
     },
     {
       "title": "Paris-Berlin, ndihmë e re për Ukrainën/ Franca përshpejton dërgimin e raketave, Gjermania 10 milionë euro për Kievin",
@@ -177,7 +265,7 @@
       "date": "2026-08-23T14:14:25+00:00",
       "dateStr": "23 Aug, 14:14",
       "isNew": true,
-      "id": "abc41787494465"
+      "id": "abc81787494465"
     },
     {
       "title": "Helikopteri u ul në plazhin e mbushur me pushues në Spetses, piloti justifikohet me një arsye të pazakontë",
@@ -188,7 +276,7 @@
       "date": "2026-08-23T14:09:34+00:00",
       "dateStr": "23 Aug, 14:09",
       "isNew": true,
-      "id": "she11787494174"
+      "id": "she51787494174"
     },
     {
       "title": "Turistët pushtojnë Shkodrën/ Të huajt preferojnë qytetin e veriut për natyrën dhe qetësinë",
@@ -199,18 +287,7 @@
       "date": "2026-08-23T13:53:48+00:00",
       "dateStr": "23 Aug, 13:53",
       "isNew": true,
-      "id": "abc51787493228"
-    },
-    {
-      "title": "News Line me Fabiola Hoxha, (23/08/2026)",
-      "link": "https://abcnews.al/news-line-me-fabiola-hoxha-23-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T13:34:29+00:00",
-      "dateStr": "23 Aug, 13:34",
-      "isNew": true,
-      "id": "abc61787492069"
+      "id": "abc91787493228"
     },
     {
       "title": "Arrestohet “Visi i garave” në Palasë, nga Audi R8 i vjedhur te tritoli në garazh",
@@ -221,40 +298,7 @@
       "date": "2026-08-23T13:32:28+00:00",
       "dateStr": "23 Aug, 13:32",
       "isNew": true,
-      "id": "she21787491948"
-    },
-    {
-      "title": "Spektakli qiellor në 28 gusht! Nga Amerika e Veriut në Europë, ja vendet që mund të shohin Hënën e Plotë",
-      "link": "https://abcnews.al/spektakli-qiellor-ne-28-gusht-nga-amerika-e-veriut-ne-europe-ja-vendet-qe-mund-te-shohin-henen-e-plote/",
-      "description": "Qielli i fundit të verës do të ofrojë një nga fenomenet astronomike më emocionuese të vitit. Në orët e para të mëngjesit të 28 gushtit, Hëna e Plotë do të jetë në qendër të një eklipsi të thellë të pjesshëm hënor, duke tërhequr vëmendjen e miliona vëzhguesve. Kur Toka kalon drejtpërdrejt midis Diell",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T13:30:44+00:00",
-      "dateStr": "23 Aug, 13:30",
-      "isNew": true,
-      "id": "abc71787491844"
-    },
-    {
-      "title": "Kanosi të shoqen me armën që posedonte pa leje, arrestohet në Palasë Elvis Kosova",
-      "link": "https://abcnews.al/kanosi-te-shoqen-me-armen-qe-posedonte-pa-leje-arrestohet-ne-palase-elvis-kosova/",
-      "description": "Elvis Kosova, i njohur edhe si &#8216;Visi i garave&#8217; është arrestuar në Palasë gjatë një operacioni nga FNSH dhe RENEA pasi kanosi të shoqen me armën që posedonte pa leje. Kosova njihet si biznesmen në fushën e shitblerjes së automjeteve dhe zotëron edhe një biznes për makina me qira. Verën e ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T13:29:44+00:00",
-      "dateStr": "23 Aug, 13:29",
-      "isNew": true,
-      "id": "abc81787491784"
-    },
-    {
-      "title": "Zjarr në ambientet e jashtme të një lokali në Triport të Vlorës",
-      "link": "https://abcnews.al/zjarr-ne-ambientet-e-jashtme-te-nje-lokali-ne-triport-te-vlores/",
-      "description": "Një zjarr ka rënë në një nga lokalet në zonën e Triportit, në Vlorë, duke rrezikuar përhapjen. Menjëherë pas marrjes së njoftimit, në vendngjarje kanë mbërritur mjetet zjarrfikëse, të cilat kanë nisur ndërhyrjen për të vënë flakët nën kontroll dhe për të parandaluar përhapjen e zjarrit në zonën pyjo",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T13:27:02+00:00",
-      "dateStr": "23 Aug, 13:27",
-      "isNew": true,
-      "id": "abc91787491622"
+      "id": "she61787491948"
     },
     {
       "title": "Kapet mbi 5.2 kg heroinë dhe kokainë në Tiranë, arrestohen dy persona",
@@ -265,7 +309,7 @@
       "date": "2026-08-23T12:57:53+00:00",
       "dateStr": "23 Aug, 12:57",
       "isNew": true,
-      "id": "she31787489873"
+      "id": "she71787489873"
     },
     {
       "title": "Vrasja e 45-vjeçares shqiptare në Athinë, nëna e saj: Nuk më kishte thënë asgjë për lidhjen…",
@@ -276,7 +320,7 @@
       "date": "2026-08-23T11:50:58+00:00",
       "dateStr": "23 Aug, 11:50",
       "isNew": true,
-      "id": "she41787485858"
+      "id": "she81787485858"
     },
     {
       "title": "Krimi i dyfishtë në Athinë, 50-vjeçari shqiptar ishte i martuar dhe baba i një fëmije, flet gruaja e tij",
@@ -287,51 +331,7 @@
       "date": "2026-08-23T11:44:03+00:00",
       "dateStr": "23 Aug, 11:44",
       "isNew": true,
-      "id": "she51787485443"
-    },
-    {
-      "title": "Vrasja e turistit portugez në Ksamil, gjendet pas 7 ditësh thika që dyshohet se përdori Sokrat Vata",
-      "link": "https://shekulli.com.al/2026/08/23/vrasja-e-turistit-portugez-ne-ksamil-gjendet-pas-7-ditesh-thika-qe-dyshohet-se-perdori-sokrat-vata/",
-      "description": "Një tjetër provë e rëndësishme është siguruar nga hetuesit që po zbardhin vrasjen e turistit portugez në Ksamil. Policia ka gjetur dhe sekuestruar thikën që dyshohet se është përdorur në konfliktin ku humbi jetën 20-vjeçari Luis Miguel Varela Mendes. Thika pritet t’i nënshtrohet ekspertizave krimina",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-23T11:09:24+00:00",
-      "dateStr": "23 Aug, 11:09",
-      "isNew": true,
-      "id": "she61787483364"
-    },
-    {
-      "title": "Goditi gazetarin Elton Qyno, gjykata vendos dy masa sigurie për bashkëshorten e Florenc Çapjas",
-      "link": "https://shekulli.com.al/2026/08/23/goditi-gazetarin-qyno-gjykata-vendos-dy-masa-sigurie-per-bashkeshorten-e-florenc-capjas/",
-      "description": "Gjykata e Tiranës ka caktuar dy masa sigurie ndaj Rozalinda alias Rosela Nallbatit, bashkëshortes së Florenc Çapjas, e cila po hetohet për goditjen e gazetarit investigativ Elton Qyno. Gjykata ka vendosur masat “ndalim i daljes jashtë shtetit” dhe “detyrim për t’u paraqitur te Oficeri i Policisë Gjy",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-23T10:57:57+00:00",
-      "dateStr": "23 Aug, 10:57",
-      "isNew": true,
-      "id": "she71787482677"
-    },
-    {
-      "title": "Takimi i Ramës në vilën qeveritare në Pogradec, zbardhen diskutimet e para, çfarë i pret socialistët në Shtator",
-      "link": "https://shekulli.com.al/2026/08/23/takimi-i-rames-ne-vilen-qeveritare-ne-pogradec-zbardhen-diskutimet-e-para-cfare-i-pret-socialistet-ne-shtator/",
-      "description": "Ditët e fundit të gushtit shënojnë nisjen e një periudhe të rëndësishme politike për Partinë Socialiste, e cila ndodhet në mandatin e saj të katërt qeverisës. Kryeministri Edi Rama ka nisur një seri takimesh në Pogradec, ku në qendër janë organizimi i socialistëve, dokumenti “Besa”, përgatitjet për ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-23T10:17:12+00:00",
-      "dateStr": "23 Aug, 10:17",
-      "isNew": true,
-      "id": "she81787480232"
-    },
-    {
-      "title": "“Drejtësia ta ndëshkojë”/ Beqaj përplaset në distancë me Lamallarin: Shteti modern nuk hakmerret…",
-      "link": "https://shekulli.com.al/2026/08/23/drejtesia-ta-ndeshkoje-beqaj-perplaset-ne-distance-me-lamallarin-shteti-modern-nuk-hakmerret/",
-      "description": "Ish-ministri i Shëndetësisë, Ilir Beqaj, ka reaguar pas deklaratave të ministrit të Brendshëm, Besfort Lamallari, për drejtësinë dhe ndëshkimin e personave të dyshuar për zjarrvënie. Në një deklaratë publike, Beqaj e vë theksin te përdorimi i fjalës “ndëshkojë”, duke argumentuar se drejtësia nuk duh",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-23T10:06:57+00:00",
-      "dateStr": "23 Aug, 10:06",
-      "isNew": true,
-      "id": "she91787479617"
+      "id": "she91787485443"
     }
   ]
 }
