@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-22T23:15:30.283311+00:00",
+  "lastUpdated": "2026-08-23T01:01:52.300857+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Giants mundin Red Sox 2-0, Andrew Knizner vendos ndeshjen me homer",
+      "link": "https://24-ore.com/giants-mundin-red-sox-2-0-andrew-knizner-vendos-ndeshjen-me-homer/",
+      "description": "San Francisco Giants mposhtën Boston Red Sox 2-0 në ndeshjen e zhvilluar më 22 gusht 2026. Giants arritën dy vrapime me katër goditje dhe pa gabime në fush...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T00:41:06+00:00",
+      "dateStr": "23 Aug, 00:41",
+      "isNew": true,
+      "id": "24 01787445666"
+    },
+    {
+      "title": "Pittsburgh Pirates mposhtën Los Angeles Dodgers 3-0 në ndeshjen e 22 gushtit",
+      "link": "https://24-ore.com/pittsburgh-pirates-mposhten-los-angeles-dodgers-3-0-ne-ndeshjen-e-22-gushtit/",
+      "description": "Pittsburgh Pirates fituan ndaj Los Angeles Dodgers me rezultatin 3-0 në ndeshjen e zhvilluar më 22 gusht. Të tre pikët u shënuan në pjesën e sipërme të së...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T23:57:08+00:00",
+      "dateStr": "22 Aug, 23:57",
+      "isNew": true,
+      "id": "24 11787443028"
+    },
+    {
+      "title": "Kade Anderson debuton për Seattle ndaj Chicago Cubs më 22 gusht 2026",
+      "link": "https://24-ore.com/kade-anderson-debuton-per-seattle-ndaj-chicago-cubs-me-22-gusht-2026/",
+      "description": "Seattle Mariners pritën Chicago Cubs më 22 gusht 2026 në T-Mobile Park të Seattle-it, me David Peterson si titullar për Cubs (7-7, 5.29 ERA) dhe Kade Ander...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-22T23:15:50+00:00",
+      "dateStr": "22 Aug, 23:15",
+      "isNew": true,
+      "id": "24 21787440550"
+    },
     {
       "title": "New York Liberty ndaj Indiana Fever, 22 gusht 2026: përballje në Barclays Center",
       "link": "https://24-ore.com/new-york-liberty-ndaj-indiana-fever-22-gusht-2026-perballje-ne-barclays-center/",
@@ -12,7 +45,7 @@
       "date": "2026-08-22T22:35:30+00:00",
       "dateStr": "22 Aug, 22:35",
       "isNew": true,
-      "id": "24 01787438130"
+      "id": "24 31787438130"
     },
     {
       "title": "Atletet ‘Space Jam’ Jordan 11 të Josh Naylor bëhen virale gjatë Players’ Weekend",
@@ -23,7 +56,7 @@
       "date": "2026-08-22T22:31:16+00:00",
       "dateStr": "22 Aug, 22:31",
       "isNew": true,
-      "id": "24 11787437876"
+      "id": "24 41787437876"
     },
     {
       "title": "Jasharaj dhe Çeku në një tryezë me DKA-të, diskutojnë sfidat e arsimit në punëtorinë dyditore",
@@ -34,7 +67,7 @@
       "date": "2026-08-22T21:57:52+00:00",
       "dateStr": "22 Aug, 21:57",
       "isNew": true,
-      "id": "24 21787435872"
+      "id": "24 51787435872"
     },
     {
       "title": "Tasholli: Në shtatë zonat ku ka qenë UÇK-ja, do të jenë vizitat e lirisë",
@@ -45,7 +78,7 @@
       "date": "2026-08-22T21:47:43+00:00",
       "dateStr": "22 Aug, 21:47",
       "isNew": true,
-      "id": "24 31787435263"
+      "id": "24 61787435263"
     },
     {
       "title": "Ku po shkon protesta? Beqiri: U kap nga agjentuarat e huaja dhe Saliu! Balliu: Berisha e ka kthyer PD në pronë private",
@@ -67,7 +100,7 @@
       "date": "2026-08-22T21:12:47+00:00",
       "dateStr": "22 Aug, 21:12",
       "isNew": true,
-      "id": "24 41787433167"
+      "id": "24 71787433167"
     },
     {
       "title": "Giants në avantazh 17-0 ndaj Dolphins në pjesën e dytë të ndeshjes paraprake në Miami",
@@ -78,7 +111,7 @@
       "date": "2026-08-22T21:11:46+00:00",
       "dateStr": "22 Aug, 21:11",
       "isNew": true,
-      "id": "24 51787433106"
+      "id": "24 81787433106"
     },
     {
       "title": "Marlins mposhtin Nationals 3-0 në ndeshjen e 22 gushtit 2026",
@@ -89,7 +122,7 @@
       "date": "2026-08-22T21:05:41+00:00",
       "dateStr": "22 Aug, 21:05",
       "isNew": true,
-      "id": "24 61787432741"
+      "id": "24 91787432741"
     },
     {
       "title": "Rrëzohet bllokimi i vizave në SHBA/ DASH bllokoi shtetasit e 75 vendeve, përfshirë nga Shqipëria, Kosova e RMV",
@@ -103,28 +136,6 @@
       "id": "abc11787432649"
     },
     {
-      "title": "Punëtorë nga Azia në Kosovë, të rinjtë tanë drejt Evropës – ku po dështon tregu i punës?",
-      "link": "https://24-ore.com/punetore-nga-azia-ne-kosove-te-rinjte-tane-drejt-evropes-ku-po-deshton-tregu-i-punes/",
-      "description": "Punëtorët e huaj po bëhen gjithnjë e më të pranishëm në tregun e punës në Kosovë, në kohën kur një pjesë e madhe e të rinjve kosovarë po e shohin jashtë vendit perspektivën për punë dhe jetë më të mirë. Sipas të dhënave të Ministrisë së Punëve të Brendshme të Kosovës, vetëm gjatë qershorit janë [&#8",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T21:03:00+00:00",
-      "dateStr": "22 Aug, 21:03",
-      "isNew": true,
-      "id": "24 71787432580"
-    },
-    {
-      "title": "Harry Styles dhe Zoë Kravitz veshin të kuruar gjatë udhëtimit në Nju Jork",
-      "link": "https://24-ore.com/harry-styles-dhe-zoe-kravitz-veshin-te-kuruar-gjate-udhetimit-ne-nju-jork/",
-      "description": "Të premten, më 21 gusht, Harry Styles dhe Zoë Kravitz mbërritën në Aeroportin Ndërkombëtar John F. Kennedy të Nju Jorkut, pak para nisjes së residencës së...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T21:00:59+00:00",
-      "dateStr": "22 Aug, 21:00",
-      "isNew": true,
-      "id": "24 81787432459"
-    },
-    {
       "title": "Axios: 40 cisterna që transportonin 16 milionë fuçi naftë të papërpunuar kaluan nëpër Ngushticën e Hormuzit gjatë natës",
       "link": "https://shekulli.com.al/2026/08/22/axios-40-cisterna-qe-transportonin-16-milione-fuci-nafte-te-paperpunuar-kaluan-neper-ngushticen-e-hormuzit-gjate-nates/",
       "description": "Rreth 40 cisterna nafte kanë kaluar gjatë natës përmes Ngushticës së Hormuzit, duke përdorur kanalin jugor të ujërave të thella pranë brigjeve të Omanit, në një zhvillim që sinjalizon rritje të ndjeshme të trafikut detar në këtë korridor strategjik. Lajmi është raportuar nga gazetari i Axios, Barak ",
@@ -134,17 +145,6 @@
       "dateStr": "22 Aug, 20:55",
       "isNew": true,
       "id": "she01787432132"
-    },
-    {
-      "title": "Të shtëna me armë në Pukë, kultivuesit zbulojnë policinë pranë parcelës me kanabis dhe hapin zjarr, FNSH niset drejt zo",
-      "link": "https://24-ore.com/te-shtena-me-arme-ne-puke-kultivuesit-zbulojne-policine-prane-parceles-me-kanabis-dhe-hapin-zjarr-fnsh-niset-drejt-zo/",
-      "description": "Të shtëna me armë zjarri janë regjistruar mbrëmjen e kësaj të shtune në Pukë, në zonën e njohur si “Hamalla e Dedës”, pranë fshatit Qafë T’Mugu, në Qelëz. Sipas burimeve policore, në këtë zonë po monitorohej një parcelë e dyshuar me kanabis nga një skuadër policie. Dyshohet se efektivët janë pikasur",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T20:33:59+00:00",
-      "dateStr": "22 Aug, 20:33",
-      "isNew": true,
-      "id": "24 91787430839"
     },
     {
       "title": "Kontroll në parcelat me drogë në Pukë/ Policia qëllon në ajër, i armatosuri arrin të arratiset",
