@@ -1,62 +1,117 @@
 {
-  "lastUpdated": "2026-08-23T21:16:36.939986+00:00",
+  "lastUpdated": "2026-08-23T22:16:03.005108+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Abissnet Superiore: Dinamo City me mendjen te PAFOS, Vora falenderon dhe merr fitoren në “Elbasan Arena”",
-      "link": "https://24-ore.com/abissnet-superiore-dinamo-city-me-mendjen-te-pafos-vora-falenderon-dhe-merr-fitoren-ne-elbasan-arena/",
-      "description": "Dinamo City e Ilir Dajës ka pësuar një humbje befasuese në “Elbasan Arena” ku përballë kishte ekipin e Vorës. Formacioni i Arjan Bellait mori tri pikë mjaft të vlefshme në një transfertë të vështirë falë golit të shënuar nga Gjyla në të 11’. Daja kishte preferuar që të linte jashtë këtij dueli disa ",
+      "title": "Pretendohet se Trainkos dërgoi vagonë për riparim në Serbi, reagime nga deputetët e ish-opozitës",
+      "link": "https://24-ore.com/pretendohet-se-trainkos-dergoi-vagone-per-riparim-ne-serbi-reagime-nga-deputetet-e-ish-opozites/",
+      "description": "Përfaqësues të ndërmarrjes publike “Trainkos” kanë zhvilluar një vizitë zyrtare në Serbi, në kuadër të procesit për riparimin e vagonëve të trenit. Kështu së paku pretendohet nga zyrtyari i AAK-së Daut Haradinaj, i cili ka publikuar edhe dokumentin. Rasti është bërë temë debati publik pasi ndaj një ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-23T21:13:28+00:00",
-      "dateStr": "23 Aug, 21:13",
+      "date": "2026-08-23T21:48:33+00:00",
+      "dateStr": "23 Aug, 21:48",
       "isNew": true,
-      "id": "24 01787519608"
+      "id": "24 01787521713"
     },
     {
-      "title": "Policia demanton pretendimet serbe: Asnjë armë nga Kosova nuk është përdorur për zjarrin në territorin e Serbisë",
-      "link": "https://24-ore.com/policia-demanton-pretendimet-serbe-asnje-arme-nga-kosova-nuk-eshte-perdorur-per-zjarrin-ne-territorin-e-serbise/",
-      "description": "Policia e Kosovës ka reaguar ndaj raportimeve të disa mediave në Serbi, të cilat pretendojnë se zjarri në territorin e Serbisë, në zonën e Bënjakut, është shkaktuar nga territori i Kosovës. Në një komunikatë për media të publikuar të dielën, Policia i ka cilësuar këto raportime si të pavërteta dhe k",
+      "title": "Abissnet Superiore: Bellai: Fituam një ndeshje të vështirë, Dinamo City është përpara me përgatitjen fizike!",
+      "link": "https://24-ore.com/abissnet-superiore-bellai-fituam-nje-ndeshje-te-veshtire-dinamo-city-eshte-perpara-me-pergatitjen-fizike/",
+      "description": "Për trajnerin e Vorës triumfi në “Elbasan Arena” kishte mjaft vlera pasi u arrit përballë një skuadre të plotësuar dhe shumë përpara sa i përket përgatitjet fizike. “Ndeshja e sotme ishte shumë e vështirë për ne jo vetëm për faktin se dy ekipet kanë diferenca në organikë, por edhe për faktin se zbri",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-23T21:03:18+00:00",
-      "dateStr": "23 Aug, 21:03",
+      "date": "2026-08-23T21:48:15+00:00",
+      "dateStr": "23 Aug, 21:48",
       "isNew": true,
-      "id": "24 11787518998"
+      "id": "24 11787521695"
     },
     {
-      "title": "Ademi: Celina dhe Brovina, dy ikona që i dhanë shumë futbollit kosovar",
-      "link": "https://24-ore.com/ademi-celina-dhe-brovina-dy-ikona-qe-i-dhane-shume-futbollit-kosovar/",
+      "title": "Përmbledhje e TNA Lockdown 2026: Rezultatet, Fituesit dhe Momente kryesore",
+      "link": "https://24-ore.com/permbledhje-e-tna-lockdown-2026-rezultatet-fituesit-dhe-momente-kryesore/",
+      "description": "TNA Lockdown 2026 u zhvillua në Çikago me një kartë të pasur që përfshinte dhjetë takime brenda kafazeve. Në program ishin përballje si The Hardys ndaj The...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T21:46:11+00:00",
+      "dateStr": "23 Aug, 21:46",
+      "isNew": true,
+      "id": "24 21787521571"
+    },
+    {
+      "title": "Abissnet Superiore: Nevil Dede: Me Tiranën mora përgjigjet që kërkoja, merkato nuk është mbylllur ende!",
+      "link": "https://24-ore.com/abissnet-superiore-nevil-dede-me-tiranen-mora-pergjigjet-qe-kerkoja-merkato-nuk-eshte-mbylllur-ende/",
+      "description": "Trajner i Egnatias u shfaq i kënaqur në mikrofonin e “Super Gol” ku pranoi se nga rotacioni i aplikuar sot ka marrë përgjigjet që kërkonte. “Disa lojtarë, të cilët nuk mund t’i provoja në ndeshjet kualifikuese më kanë kënaqur sepse treguan se janë alternaativa të atyre që mund t’i konsiderojmë si lo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T21:38:09+00:00",
+      "dateStr": "23 Aug, 21:38",
+      "isNew": true,
+      "id": "24 31787521089"
+    },
+    {
+      "title": "Kade Anderson, një debutim me pesë strike: Mariners fitojnë 5-4 ndaj Cubs",
+      "link": "https://24-ore.com/kade-anderson-nje-debutim-me-pese-strike-mariners-fitojne-5-4-ndaj-cubs/",
+      "description": "Kade Anderson, i majtë, 22 vjeç dhe zgjedhja e tretë e draftit të 2025-it, bëri debutimin e tij në MLB më 23 gusht 2026 për Seattle Mariners, duke ndihmuar...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T21:37:27+00:00",
+      "dateStr": "23 Aug, 21:37",
+      "isNew": true,
+      "id": "24 41787521047"
+    },
+    {
+      "title": "Ademi rrëfen takimin me Trumpin: E falënderova për gjithçka që ka bërë për Kosovën",
+      "link": "https://24-ore.com/ademi-rrefen-takimin-me-trumpin-e-falenderova-per-gjithcka-qe-ka-bere-per-kosoven/",
       "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor August 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 [&#8230;]",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-23T21:02:28+00:00",
-      "dateStr": "23 Aug, 21:02",
+      "date": "2026-08-23T21:32:25+00:00",
+      "dateStr": "23 Aug, 21:32",
       "isNew": true,
-      "id": "24 21787518948"
+      "id": "24 51787520745"
     },
     {
-      "title": "Ademi: Kosova nuk e sheh veten si “outsider”, synimi është kualifikimi",
-      "link": "https://24-ore.com/ademi-kosova-nuk-e-sheh-veten-si-outsider-synimi-eshte-kualifikimi/",
+      "title": "Faturën e paguan populli që punon",
+      "link": "https://24-ore.com/faturen-e-paguan-populli-qe-punon/",
+      "description": "Toni i kryeministrit kanadez në konferencën e shtypit, ku mbajti fjalën për tërheqjen nga bisedimet tregtare midis Kanadasë dhe SHBA-së, i ngjante një alarmi luftarak: “We are under attack”. Dhe, në fakt, kjo është, në një lloj mënyre, një luftë. Me këtë prishje të bisedimeve, lufta tregtare mes Sht",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T21:30:24+00:00",
+      "dateStr": "23 Aug, 21:30",
+      "isNew": true,
+      "id": "24 61787520624"
+    },
+    {
+      "title": "Abissnet Superiore: Ilir Daja: Rotacioni i nevojshëm, katër ndeshje brenda pak ditësh janë shumë!",
+      "link": "https://24-ore.com/abissnet-superiore-ilir-daja-rotacioni-i-nevojshem-kater-ndeshje-brenda-pak-ditesh-jane-shume/",
+      "description": "Dinamo City humbi ndeshjen në “Elbasan Arena” përballë Vorës, e cila bëri gjithçka mirë për të marrë tri pikë të arta. Në fund të ndeshjes Ilir Daja, për mikrofonët e “Super Gol”, tha se rotacioni i rëndë që kishte aplikuar ishte i detyrueshëm dhe se këtë ndeshje ekipi i tij mund ta kishte zgjidhur ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T21:28:28+00:00",
+      "dateStr": "23 Aug, 21:28",
+      "isNew": true,
+      "id": "24 71787520508"
+    },
+    {
+      "title": "Abissnet Superiore: Klafuriç: Problemet e Tiranës dhe kualiteti i Eganatias bënë diferencën!",
+      "link": "https://24-ore.com/abissnet-superiore-klafuric-problemet-e-tiranes-dhe-kualiteti-i-eganatias-bene-diferencen/",
+      "description": "Në fund të ndeshjës trajner i ri i Tiranës, Klafuriç, u prononcua për “Super Gol” ku theksoi se kishte shumë probleme në përpilimin e një formacioni. “Të gjithë e dinë se përpara këtij takimi u përballëm me një problem të madh dhe unë e kisha të vështirë që të bëja formacionin. Me këtë nuk dua [&#82",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T21:23:51+00:00",
+      "dateStr": "23 Aug, 21:23",
+      "isNew": true,
+      "id": "24 81787520231"
+    },
+    {
+      "title": "Ademi: Transferimet e futbollistëve kosovarë në ligat e mëdha janë shumë të rëndësishme për Kombëtaren",
+      "link": "https://24-ore.com/ademi-transferimet-e-futbollisteve-kosovare-ne-ligat-e-medha-jane-shume-te-rendesishme-per-kombetaren/",
       "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor August 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 [&#8230;]",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-23T21:02:03+00:00",
-      "dateStr": "23 Aug, 21:02",
+      "date": "2026-08-23T21:17:40+00:00",
+      "dateStr": "23 Aug, 21:17",
       "isNew": true,
-      "id": "24 31787518923"
-    },
-    {
-      "title": "Abissnet Superiore: Monolog i Egnatias në Rrogozhinë, nis me disfatë aventura bardheblu e Dean Klafuriç",
-      "link": "https://24-ore.com/abissnet-superiore-monolog-i-egnatias-ne-rrogozhine-nis-me-disfate-aventura-bardheblu-e-dean-klafuric/",
-      "description": "Në “Egnatia Arena” kampionët në fuqi nuk treguan mëshirë karshi Tiranës, e cila nisi sezonin e ri me një humbje të thellë. Të besuarit e Nevil Dedes përdorën këtë ndeshje si një seancë stërvitore në vigjilje të takimit të kthimit me Lillestrom. Diabate (9’), Ajetovikj (29’) dhe Sota (40’) ishin auto",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T20:58:18+00:00",
-      "dateStr": "23 Aug, 20:58",
-      "isNew": true,
-      "id": "24 41787518698"
+      "id": "24 91787519860"
     },
     {
       "title": "Vlorë/ Turistët u larguan të alarmuar, vihet nën kontroll pas 30 minutash zjarri në Ujin e Ftohtë, rrezikoi restorante e hotele",
@@ -68,61 +123,6 @@
       "dateStr": "23 Aug, 20:57",
       "isNew": true,
       "id": "she01787518635"
-    },
-    {
-      "title": "Klay Thompson lirohet nga Mavericks dhe pritet të nënshkruajë me Miami Heat",
-      "link": "https://24-ore.com/klay-thompson-lirohet-nga-mavericks-dhe-pritet-te-nenshkruaje-me-miami-heat/",
-      "description": "Dallas Mavericks njoftuan se kanë blerë vitin e fundit të kontratës së Klay Thompson, lojtarit pesë herë të zgjedhur në All-Star. Thompson pritej të fitont...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T20:56:52+00:00",
-      "dateStr": "23 Aug, 20:56",
-      "isNew": true,
-      "id": "24 51787518612"
-    },
-    {
-      "title": "Little League World Series 2026: Orari i diel, informacioni për televizion dhe parashikimet",
-      "link": "https://24-ore.com/little-league-world-series-2026-orari-i-diel-informacioni-per-televizion-dhe-parashikimet/",
-      "description": "Little League World Series 2026 hyri në një fazë vendimtare këtë fundjavë: ndeshjet e eliminimit u zhvilluan të shtunën, ndërsa të dielën do të luajnë skua...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T20:55:55+00:00",
-      "dateStr": "23 Aug, 20:55",
-      "isNew": true,
-      "id": "24 61787518555"
-    },
-    {
-      "title": "Xavi Hernández konfirmon stafin e tij te Holanda, në stol do të ulet i vëllai, Sergio Alegre dhe Ruud van Nistelrooy!",
-      "link": "https://24-ore.com/xavi-hernandez-konfirmon-stafin-e-tij-te-holanda-ne-stol-do-te-ulet-i-vellai-sergio-alegre-dhe-ruud-van-nistelrooy/",
-      "description": "Xavi Hernández ka zyrtarizuar stafin e tij të trajnerëve vetëm pak ditë pasi mori drejtimin e kombëtares holandeze të futbollit. Përveç grupit të tij kryesor, i cili punoi me të si në Al-Sadd ashtu edhe te Barcelona, spanjolli ​​ka mbajtur Ruud van Nistelrooy si ndihmës trajner. KNVB njoftoi zyrtari",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T20:49:25+00:00",
-      "dateStr": "23 Aug, 20:49",
-      "isNew": true,
-      "id": "24 71787518165"
-    },
-    {
-      "title": "Zjarr në zonën e Ujit të Ftohtë në Vlorë, një hotel rrezikohet nga flakët",
-      "link": "https://24-ore.com/zjarr-ne-zonen-e-ujit-te-ftohte-ne-vlore-nje-hotel-rrezikohet-nga-flaket/",
-      "description": "Një zjarr ka rënë pranë një hoteli në Ujin e Ftohtë, Vlorë. Flakët kanë nisur në një sipërfaqe me pemë dhe bimësi të lartë, shumë pranë një hoteli dhe një restoranti. Ende nuk dihen shkaqet apo nëse ka të lënduar. Zjarrfikësit pritet të ndërhyjnë për të vënë situatën nën kontroll.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T20:49:13+00:00",
-      "dateStr": "23 Aug, 20:49",
-      "isNew": true,
-      "id": "24 81787518153"
-    },
-    {
-      "title": "E priti 5 orë në Pogradec, Rama takon të moshuarin (VIDEO)",
-      "link": "https://24-ore.com/e-priti-5-ore-ne-pogradec-rama-takon-te-moshuarin-video/",
-      "description": "Çelnik Shtupalli, 78-vjeçari nga fshati Homçan i Pogradecit, pasi kishte dëgjuar se kryeministri Edi Rama ndodhej në Pogradec, kishte shkuar pranë vilave qeveritare me shpresën se do ta takonte. Në një prononcim për gazetarët, ai tha se donte vetëm ta përqafonte. Pas përfundimit të mbledhjes 7-orësh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-23T20:48:55+00:00",
-      "dateStr": "23 Aug, 20:48",
-      "isNew": true,
-      "id": "24 91787518135"
     },
     {
       "title": "Lufta tregtare SHBA- Kanada, dy vendet shpallin tarifat përkatëse pas dështimit të marrëveshjes",
