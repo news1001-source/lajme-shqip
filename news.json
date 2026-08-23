@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-08-23T01:01:52.300857+00:00",
+  "lastUpdated": "2026-08-23T02:57:23.048515+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Giancarlo Stanton dëmtohet duke rënë gjatë vrapimit; sezoni i tij në dyshim",
+      "link": "https://24-ore.com/giancarlo-stanton-demtohet-duke-rene-gjate-vrapimit-sezoni-i-tij-ne-dyshim/",
+      "description": "Giancarlo Stanton pësoi një tendosje të viçit pas një rënieje gjatë një seance vrapimi, dhe menaxheri i New York Yankees, Aaron Boone, tha të shtunën se lo...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T02:51:18+00:00",
+      "dateStr": "23 Aug, 02:51",
+      "isNew": true,
+      "id": "24 01787453478"
+    },
+    {
+      "title": "Torey Lovullo komenton pamjet e Ketel Marte në kazino dhe vendimin për listën e të lënduarve",
+      "link": "https://24-ore.com/torey-lovullo-komenton-pamjet-e-ketel-marte-ne-kazino-dhe-vendimin-per-listen-e-te-lenduarve/",
+      "description": "Menaxheri i Arizona Diamondbacks, Torey Lovullo, u shpreh për raportimet rreth Ketel Marte pasi lojtarin e panë në një kazino të Scottsdale ndërsa skuadra...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T02:07:19+00:00",
+      "dateStr": "23 Aug, 02:07",
+      "isNew": true,
+      "id": "24 11787450839"
+    },
+    {
+      "title": "Little League World Series 2026: Rezultatet dhe momentet kryesore të së shtunës",
+      "link": "https://24-ore.com/little-league-world-series-2026-rezultatet-dhe-momentet-kryesore-te-se-shtunes/",
+      "description": "Të shtunën në Williamsport, Pennsylvania, pjesa e poshtme e bracket-it të Little League World Series zhvilloi ndeshje eliminimi ku ekipet kërkonin mbijetes...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-23T01:25:49+00:00",
+      "dateStr": "23 Aug, 01:25",
+      "isNew": true,
+      "id": "24 21787448349"
+    },
     {
       "title": "Giants mundin Red Sox 2-0, Andrew Knizner vendos ndeshjen me homer",
       "link": "https://24-ore.com/giants-mundin-red-sox-2-0-andrew-knizner-vendos-ndeshjen-me-homer/",
@@ -12,7 +45,7 @@
       "date": "2026-08-23T00:41:06+00:00",
       "dateStr": "23 Aug, 00:41",
       "isNew": true,
-      "id": "24 01787445666"
+      "id": "24 31787445666"
     },
     {
       "title": "Pittsburgh Pirates mposhtën Los Angeles Dodgers 3-0 në ndeshjen e 22 gushtit",
@@ -23,7 +56,7 @@
       "date": "2026-08-22T23:57:08+00:00",
       "dateStr": "22 Aug, 23:57",
       "isNew": true,
-      "id": "24 11787443028"
+      "id": "24 41787443028"
     },
     {
       "title": "Kade Anderson debuton për Seattle ndaj Chicago Cubs më 22 gusht 2026",
@@ -34,7 +67,7 @@
       "date": "2026-08-22T23:15:50+00:00",
       "dateStr": "22 Aug, 23:15",
       "isNew": true,
-      "id": "24 21787440550"
+      "id": "24 51787440550"
     },
     {
       "title": "New York Liberty ndaj Indiana Fever, 22 gusht 2026: përballje në Barclays Center",
@@ -45,7 +78,7 @@
       "date": "2026-08-22T22:35:30+00:00",
       "dateStr": "22 Aug, 22:35",
       "isNew": true,
-      "id": "24 31787438130"
+      "id": "24 61787438130"
     },
     {
       "title": "Atletet ‘Space Jam’ Jordan 11 të Josh Naylor bëhen virale gjatë Players’ Weekend",
@@ -56,7 +89,7 @@
       "date": "2026-08-22T22:31:16+00:00",
       "dateStr": "22 Aug, 22:31",
       "isNew": true,
-      "id": "24 41787437876"
+      "id": "24 71787437876"
     },
     {
       "title": "Jasharaj dhe Çeku në një tryezë me DKA-të, diskutojnë sfidat e arsimit në punëtorinë dyditore",
@@ -67,7 +100,7 @@
       "date": "2026-08-22T21:57:52+00:00",
       "dateStr": "22 Aug, 21:57",
       "isNew": true,
-      "id": "24 51787435872"
+      "id": "24 81787435872"
     },
     {
       "title": "Tasholli: Në shtatë zonat ku ka qenë UÇK-ja, do të jenë vizitat e lirisë",
@@ -78,7 +111,7 @@
       "date": "2026-08-22T21:47:43+00:00",
       "dateStr": "22 Aug, 21:47",
       "isNew": true,
-      "id": "24 61787435263"
+      "id": "24 91787435263"
     },
     {
       "title": "Ku po shkon protesta? Beqiri: U kap nga agjentuarat e huaja dhe Saliu! Balliu: Berisha e ka kthyer PD në pronë private",
@@ -90,39 +123,6 @@
       "dateStr": "22 Aug, 21:34",
       "isNew": true,
       "id": "abc01787434474"
-    },
-    {
-      "title": "Lojërat Mesdhetare: Shqipëria U21 barazon në debutim",
-      "link": "https://24-ore.com/lojerat-mesdhetare-shqiperia-u21-barazon-ne-debutim/",
-      "description": "Kombëtarja shqiptare Under 21 ka barazuar 1-1 përballë Italisë U21 në debutimin në Lojërat Mesdhetare, Taranto 2026. Marinaj kaloi në avantazh kuqezinjtë në fundin e pjesës së parë, por vendasit barazuan shifrat në pjesën e dytë. Ndonëse Italia ka pasur disa raste të mira për të shënuar, pjesa e par",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T21:12:47+00:00",
-      "dateStr": "22 Aug, 21:12",
-      "isNew": true,
-      "id": "24 71787433167"
-    },
-    {
-      "title": "Giants në avantazh 17-0 ndaj Dolphins në pjesën e dytë të ndeshjes paraprake në Miami",
-      "link": "https://24-ore.com/giants-ne-avantazh-17-0-ndaj-dolphins-ne-pjesen-e-dyte-te-ndeshjes-paraprake-ne-miami/",
-      "description": "Në ndeshjen paraprake të zhvilluar më 22 gusht 2026 në Miami, New York Giants po udhëheqin ndaj Miami Dolphins me rezultatin 17-0, ndërsa është ende në vaz...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T21:11:46+00:00",
-      "dateStr": "22 Aug, 21:11",
-      "isNew": true,
-      "id": "24 81787433106"
-    },
-    {
-      "title": "Marlins mposhtin Nationals 3-0 në ndeshjen e 22 gushtit 2026",
-      "link": "https://24-ore.com/marlins-mposhtin-nationals-3-0-ne-ndeshjen-e-22-gushtit-2026/",
-      "description": "Miami Marlins fituan 3-0 ndaj Washington Nationals më 22 gusht 2026, duke vendosur dy gola në pjesën e parë dhe një të dytën që siguruan fitoren. Pas këtij...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-22T21:05:41+00:00",
-      "dateStr": "22 Aug, 21:05",
-      "isNew": true,
-      "id": "24 91787432741"
     },
     {
       "title": "Rrëzohet bllokimi i vizave në SHBA/ DASH bllokoi shtetasit e 75 vendeve, përfshirë nga Shqipëria, Kosova e RMV",
