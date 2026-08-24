@@ -1,117 +1,194 @@
 {
-  "lastUpdated": "2026-08-24T05:33:38.079516+00:00",
+  "lastUpdated": "2026-08-24T06:46:56.303554+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Gati pesë vjet pas tragjedisë, sot shapllet vendimi për vrasjen e trefishtë në Gllogjan",
-      "link": "https://24-ore.com/gati-pese-vjet-pas-tragjedise-sot-shapllet-vendimi-per-vrasjen-e-trefishte-ne-gllogjan/",
-      "description": "Gjykata Themelore në Pejë, sot do të shpallë aktgjykimin ndaj Halil, Kreshnik dhe Kastriot Mehmetajt, të akuzuar për vrasjen e trefishtë në Gllogjan. Seanca për shpalljen e aktgjykimit nis në orën 14:30. Rasti ka të bëjë me ngjarjen e rëndë të 26 nëntorit 2021, kur një autobus që po qarkullonte në G",
+      "title": "TEHERAN – Irani: “Lufta ekonomike” e SHBA-së është skenar i përsëritur",
+      "link": "https://24-ore.com/teheran-irani-lufta-ekonomike-e-shba-se-eshte-skenar-i-perseritur/",
+      "description": "TEHERAN, 24 gusht /ATSH – AA/ – Ministri i iranian i Punëve të Jashtme, Abbas Araghchi, ka deklaruar se “lufta ekonomike” e Washingtonit është një skenar i përsëritur që Teherani di si ta përballojë. Duke folur gjatë një vizite në Teheran në mauzoleun e Ayatollah Ruhollah Khomeinit, themeluesit të R",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-24T05:28:05+00:00",
-      "dateStr": "24 Aug, 05:28",
+      "date": "2026-08-24T06:46:07+00:00",
+      "dateStr": "24 Aug, 06:46",
       "isNew": true,
-      "id": "24 01787549285"
+      "id": "24 01787553967"
     },
     {
-      "title": "Java e fundit e gushtit me vapë, temperatura deri në 36°C",
-      "link": "https://24-ore.com/java-e-fundit-e-gushtit-me-vape-temperatura-deri-ne-36c/",
-      "description": "Java e fundit e muajit gusht pritet të karakterizohet nga mot i nxehtë dhe kryesisht i qëndrueshëm, me intervale të gjata me diell dhe vranësira të herëpashershme. Sipas parashikimit meteorologjik, temperaturat do të jenë mbi vlerat mesatare për këtë periudhë të vitit, veçanërisht gjatë ditës. Në di",
+      "title": "QMK: Janë regjistruar 33 zjarre, katër janë ende aktiv",
+      "link": "https://24-ore.com/qmk-jane-regjistruar-33-zjarre-kater-jane-ende-aktiv/",
+      "description": "QMK njofton se 33 zjarre në ambient të hapur janë regjistruar në disa pjesë të vendit brenda 24 orëve të fundit, ndërsa situata më serioze mbetet në zonat ku zjarri është përhapur në pyje. Zjarret janë aktive pranë Moranës, Vrtekicës dhe Ramni Gaber, me një degëzim drejt Paligradit dhe mbi Vrazhale,",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-24T05:13:22+00:00",
-      "dateStr": "24 Aug, 05:13",
+      "date": "2026-08-24T06:42:58+00:00",
+      "dateStr": "24 Aug, 06:42",
       "isNew": true,
-      "id": "24 11787548402"
+      "id": "24 11787553778"
     },
     {
-      "title": "Francezët zbulojnë Pogradecin, çmimet e lira dhe ushqimi tradicional tërheqin turistët",
-      "link": "https://24-ore.com/francezet-zbulojne-pogradecin-cmimet-e-lira-dhe-ushqimi-tradicional-terheqin-turistet/",
-      "description": "Gjergji prej vitesh në qytetin e Pogradecit drejton një biznes të vogël për dhënien me qira të varkave për turistët buzë liqenit. Ai thotë se për këtë vit klientët kryesore që marrin varka me qira për vozitje në liqen janë shtetas të huaj, kryesuar nga francezët, amerikanët dhe italianët. Ndërsa num",
-      "source": "24 ORE",
+      "title": "Dita e dytë e analizës në Pogradec/ Ministritë ‘në lupën’ e Ramës",
+      "link": "https://abcnews.al/dita-e-dyte-e-analizes-ne-pogradec-ministrite-ne-lupen-e-rames/",
+      "description": "Ministrat e kabinetit qeveritar mblidhen këtë të hënë, më 24 gusht, në kuadër të një “retreat”-i të dedikuar analizës së punës së bërë gjatë pjesës së parë të mandatit të katërt. Takimi pritet të shërbejë për një bilanc të punës së çdo dikasteri, me fokus te rezultatet e arritura, problematikat e ev",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-24T04:18:33+00:00",
-      "dateStr": "24 Aug, 04:18",
+      "date": "2026-08-24T06:35:28+00:00",
+      "dateStr": "24 Aug, 06:35",
       "isNew": true,
-      "id": "24 21787545113"
+      "id": "abc01787553328"
     },
     {
-      "title": "Turizmi nuk është “industri të fortësh”, as nuk bëhet vetëm duke numëruar të huajt që hyjnë në vend",
-      "link": "https://24-ore.com/turizmi-nuk-eshte-industri-te-fortesh-as-nuk-behet-vetem-duke-numeruar-te-huajt-qe-hyjne-ne-vend/",
-      "description": "EDITORIAL MONITOR – Shqipëria po përjeton prej disa vitesh një rritje shumë të fortë të turizmit. Nga rreth 6.4 milionë hyrje të shtetasve të huaj në vitin 2019, sot vendi pret mbi 12 milionë. Ky ndryshim nuk ka ardhur rastësisht. Shqipëria ka përmirësuar ndjeshëm imazhin e saj, është promovuar më s",
-      "source": "24 ORE",
+      "title": "Aksident i trefishtë në aksin Levan-Tepelenë, një person i lënduar",
+      "link": "https://abcnews.al/aksident-i-trefishte-ne-aksin-levan-tepelene-nje-person-i-lenduar/",
+      "description": "Një aksident automobilistik është regjistruar mëngjesin e kësaj të hëne në aksin e autostradës Levan-Tepelenë. Në aksident janë përfshirë tre automjete, të cilat janë përplasur me njëra-tjetrën. Përplasja ka shkaktuar lendimin e një shtetasi që ndodhej në një prej makinave. I dëmtuari është transpor",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-24T04:02:26+00:00",
-      "dateStr": "24 Aug, 04:02",
+      "date": "2026-08-24T06:34:42+00:00",
+      "dateStr": "24 Aug, 06:34",
       "isNew": true,
-      "id": "24 31787544146"
+      "id": "abc11787553282"
     },
     {
-      "title": "Bota e sportit nderon Kobe Bryant në përkujtim të ditëlindjes së tij",
-      "link": "https://24-ore.com/bota-e-sportit-nderon-kobe-bryant-ne-perkujtim-te-ditelindjes-se-tij/",
-      "description": "Në ditën që do të mbushte 48 vjeç, komuniteti sportiv përkujtoi Kobe Bryant me homazhe dhe postime që shfaqnin karrierën dhe trashëgiminë e tij. Tifozë, ll...",
+      "title": "Përplasen dy Jet Ski në liqenin e Kukësit, dy persona dërgohen në spital",
+      "link": "https://24-ore.com/perplasen-dy-jet-ski-ne-liqenin-e-kukesit-dy-persona-dergohen-ne-spital/",
+      "description": "Një aksident mes dy mjeteve lundruese Jet Ski është regjistruar mbrëmjen e së dielës në liqenin e Kukësit. Si pasojë e përplasjes, dy persona kanë marrë dëmtime të lehta dhe janë transportuar për ndihmë mjekësore në spitalin e Prizrenit. Ngjarja ka ndodhur rreth orës 18:15, kur Jet Ski i drejtuar ng",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-24T03:26:51+00:00",
-      "dateStr": "24 Aug, 03:26",
+      "date": "2026-08-24T06:32:01+00:00",
+      "dateStr": "24 Aug, 06:32",
       "isNew": true,
-      "id": "24 41787542011"
+      "id": "24 21787553121"
     },
     {
-      "title": "Little League World Series 2026: Rezultatet dhe përmbledhja e ndeshjeve të së dielës",
-      "link": "https://24-ore.com/little-league-world-series-2026-rezultatet-dhe-permbledhja-e-ndeshjeve-te-se-dieles/",
-      "description": "Turneu Little League World Series 2026 u zhvillua të dielën në Williamsport, Pennsylvania, me katër ndeshje që përcaktuan përparimin e skuadrave në tabelën...",
+      "title": "Pas 7 orësh me drejtuesit e PS, Rama mbledh sot ministrat në Pogradec: Prioritetet e mandatit të katërt",
+      "link": "https://24-ore.com/pas-7-oresh-me-drejtuesit-e-ps-rama-mbledh-sot-ministrat-ne-pogradec-prioritetet-e-mandatit-te-katert/",
+      "description": "Pas takimit të një dite më parë me drejtuesit politikë socialistë në 12 qarqe dhe krerët e komisioneve parlamentare, kryeministri Edi Rama do të mbledh këtë të hënë ministrat –sërish në qytetin e Pogradecit. Në këtë takim i cili njihet një “retreat”, ministrat do të raportojnë për punën e bërë deri ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-24T03:25:57+00:00",
-      "dateStr": "24 Aug, 03:25",
+      "date": "2026-08-24T06:31:42+00:00",
+      "dateStr": "24 Aug, 06:31",
       "isNew": true,
-      "id": "24 51787541957"
+      "id": "24 31787553102"
     },
     {
-      "title": "Kampi Memorial “Bernie Parent” frymëzon portierët e rinj të hokejit",
-      "link": "https://24-ore.com/kampi-memorial-bernie-parent-frymezon-portieret-e-rinj-te-hokejit/",
-      "description": "Kampi memorial i emëruar për nder të Bernie Parent zhvillohej për herë të parë me 17–19 gusht në Flyers Training Center në New Jersey, ku më shumë se 35 po...",
-      "source": "24 ORE",
+      "title": "Aksident me Jet Ski në liqenin e Kukësit, dy persona të plagosur",
+      "link": "https://shekulli.com.al/2026/08/24/aksident-me-jet-ski-ne-liqenin-e-kukesit-dy-persona-te-plagosur/",
+      "description": "Një aksident me mjete lundruese është regjistruar pasditen e djeshme në liqenin e Kukësit, ku dy persona kanë mbetur të dëmtuar. Ngjarja ka ndodhur rreth orës 18:15. Sipas policisë, 29-vjeçari me inicialet E. T., banues në Kukës, ishte duke drejtuar një Jet Ski, ku ndodhej edhe 46-vjeçari E. P. Gjat",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-24T03:23:36+00:00",
-      "dateStr": "24 Aug, 03:23",
+      "date": "2026-08-24T06:26:35+00:00",
+      "dateStr": "24 Aug, 06:26",
       "isNew": true,
-      "id": "24 61787541816"
+      "id": "she01787552795"
     },
     {
-      "title": "Nashville përmbys në fund, Vancouver rikthehet dhe ngjarjet kryesore nga Java e 22-të",
-      "link": "https://24-ore.com/nashville-permbys-ne-fund-vancouver-rikthehet-dhe-ngjarjet-kryesore-nga-java-e-22-te/",
-      "description": "Java e 22-të e MLS solli përmbysje dramatike, fitore të mëdha dhe momente vendimtare që ndikuan dukshëm në renditje. Në fokus ishin përmbysjet e fundit të...",
-      "source": "24 ORE",
+      "title": "Aksident me Jet Ski në liqenin e Kukësit, dy persona të lënduar",
+      "link": "https://abcnews.al/aksident-me-jet-ski-ne-liqenin-e-kukesit-dy-persona-te-lenduar/",
+      "description": "Një aksident me dy mjete lundruese Jet Ski ka ndodhur në liqenin e Kukësit, rreth orës 18:15. Sipas policisë, një 29-vjeçar, duke drejtuar një Jet Ski ku ndodhej edhe një 46-vjeçar, është përplasur aksidentalisht me një tjetër mjet lundrues që po drejtohej drejt bregut për t’u ankoruar. Si pasojë e ",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-24T02:51:47+00:00",
-      "dateStr": "24 Aug, 02:51",
+      "date": "2026-08-24T06:21:17+00:00",
+      "dateStr": "24 Aug, 06:21",
       "isNew": true,
-      "id": "24 71787539907"
+      "id": "abc21787552477"
     },
     {
-      "title": "Washington Mystics kualifikohen në play-off-et e WNBA 2026 pas fitores ndaj Portlandit",
-      "link": "https://24-ore.com/washington-mystics-kualifikohen-ne-play-off-et-e-wnba-2026-pas-fitores-ndaj-portlandit/",
-      "description": "Washington Mystics siguruan një vend në play-off-et e WNBA për herë të parë që nga 2023, pas fitores së të dielës ndaj Portland Fire dhe humbjes së Chicago...",
+      "title": "Egnatia shkatërron Tiranën për 45 minuta: Dede thyen ish-skuadrën e tij, Klafuric “pa pankinë”",
+      "link": "https://24-ore.com/egnatia-shkaterron-tiranen-per-45-minuta-dede-thyen-ish-skuadren-e-tij-klafuric-pa-pankine/",
+      "description": "Egnatia e nis mbrojtjen e titullit në mënyrën më bindëse të mundshme. Kampionët në fuqi mposhtën 3-0 Tiranën në Rrogozhinë, në një ndeshje të kontrolluar thuajse tërësisht prej tyre dhe të vendosur praktikisht që në 45 minutat e para. Skuadra e Nevil Dedes tregoi qartësi në lojë, efikasitet përpara ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-24T02:45:41+00:00",
-      "dateStr": "24 Aug, 02:45",
+      "date": "2026-08-24T06:18:17+00:00",
+      "dateStr": "24 Aug, 06:18",
       "isNew": true,
-      "id": "24 81787539541"
+      "id": "24 41787552297"
     },
     {
-      "title": "Klay Thompson firmos me Miami Heat pas marrëveshjes së buyout me Mavericks",
-      "link": "https://24-ore.com/klay-thompson-firmos-me-miami-heat-pas-marreveshjes-se-buyout-me-mavericks/",
-      "description": "Klay Thompson ka firmosur zyrtarisht me Miami Heat dhe pritet të mbajë fanellën me numrin 11, të njëjtin numër që përdori gjatë 11 vjetëve të tij me Golden...",
+      "title": "Abissnet Superiore: Rezultatet dhe renditja pas javës së parë, kryeson Egnatia",
+      "link": "https://24-ore.com/abissnet-superiore-rezultatet-dhe-renditja-pas-javes-se-pare-kryeson-egnatia/",
+      "description": "Ka përfunduar java e parë e edicionit të ri të “Abissnet Superiore”, që transmetohet në RSTH. Ndeshjet ishin të programuara për t’u zhvilluar në tri ditë. Java nisi të premten me barazimin 2-2 mes Vllaznisë dhe Skënderbeut, ndërsa të shtunën u luajtën Partizani–Teuta, që përfundoi 0-0, dhe Laçi–AF E",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-24T02:41:59+00:00",
-      "dateStr": "24 Aug, 02:41",
+      "date": "2026-08-24T06:13:14+00:00",
+      "dateStr": "24 Aug, 06:13",
       "isNew": true,
-      "id": "24 91787539319"
+      "id": "24 51787551994"
+    },
+    {
+      "title": "AGJENDA NDËRKOMBËTARE 24.8.2026",
+      "link": "https://24-ore.com/agjenda-nderkombetare-24-8-2026/",
+      "description": "UASHINGTON (Shtetet e Bashkuara) – Sekretari i Thesarit Scott Bessent mban konferencë për shtyp në lidhje me presionin ekonomik mbi Iranin. KIEV (Ukrainë) – Festimet e Ditës së Pavarësisë së Ukrainës. EVROPË – Fillon përhapja e reklamave ChatGPT në Evropë. PARIS (Francë) – Kryeministri Sébastien Lec",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T06:01:41+00:00",
+      "dateStr": "24 Aug, 06:01",
+      "isNew": true,
+      "id": "24 61787551301"
+    },
+    {
+      "title": "“Toronto Star”: Shqipëria në kulmin e bumit turistik: Nga izolimi te destinacioni “must-see” i Evropës",
+      "link": "https://24-ore.com/toronto-star-shqiperia-ne-kulmin-e-bumit-turistik-nga-izolimi-te-destinacioni-must-see-i-evropes/",
+      "description": "&#8211; Dikur e izoluar nga pjesa tjetër e botës për shkak të regjimit komunist dhe politikës së saj të vetizolimit, Shqipëria po përjeton një transformim të shpejtë, duke u shndërruar në një prej destinacioneve turistike më të kërkuara në Evropë, shkruan Tim Johnson për median kanadeze “Toronto Sta",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T06:01:21+00:00",
+      "dateStr": "24 Aug, 06:01",
+      "isNew": true,
+      "id": "24 71787551281"
+    },
+    {
+      "title": "FOKUS – Liderët evropianë në Kiev, Zelensky kërkon mbështetje për planin e paqes",
+      "link": "https://24-ore.com/fokus-lideret-evropiane-ne-kiev-zelensky-kerkon-mbeshtetje-per-planin-e-paqes/",
+      "description": "KIEV, 24 gusht / ATSH-ANSA/ – Në prag të Ditës së Pavarësisë së Ukrainës, e cila 35 vjet më parë u shkëput nga Bashkimi Sovjetik, në Kiev mbërritën liderët evropianë të bllokut nordik dhe baltik për t’i dhënë mbështetje Volodymyr Zelenskyt dhe për të vendosur në rrugën e duhur fushatën e ndihmave pë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T06:00:39+00:00",
+      "dateStr": "24 Aug, 06:00",
+      "isNew": true,
+      "id": "24 81787551239"
+    },
+    {
+      "title": "“Science Direct”: A ëndërrojnë macet për pronarët e tyre?",
+      "link": "https://24-ore.com/science-direct-a-enderrojne-macet-per-pronaret-e-tyre/",
+      "description": "&#8211; Macet mund të ëndërrojnë gjatë gjumit, ndërsa kujtimet e përvojave të tyre të përditshme mund të kenë rol në përmbajtjen e këtyre ëndrrave, sipas “Science Direct”. Studiuesit e kanë të pamundur të përcaktojnë drejtpërdrejt se çfarë sheh një mace në ëndërr. Megjithatë, studimet e neuroshkencë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T06:00:18+00:00",
+      "dateStr": "24 Aug, 06:00",
+      "isNew": true,
+      "id": "24 91787551218"
+    },
+    {
+      "title": "E rëndë në Malishevë!/ Vritet me armë zjarri gruaja shtatzanë, plagoset rëndë një burrë",
+      "link": "https://abcnews.al/e-rende-ne-malisheve-vritet-me-arme-zjarri-gruaja-shtatzane-plagoset-rende-nje-burre/",
+      "description": "Një grua ka mbetur e vrarë dhe një burrë është plagosur rëndë nga të shtënat me armë zjarri në Malishevë, raporton Klan Kosova. Sipas informacioneve që ka siguruar KlanKosova.tv nga Qendra Klinike Universitare e Kosovës, gruaja që vdiq ishte shtatzënë në javën e 34 të shtatzënisë. Ndërkaq, burri ësh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T05:50:32+00:00",
+      "dateStr": "24 Aug, 05:50",
+      "isNew": true,
+      "id": "abc31787550632"
+    },
+    {
+      "title": "Parashikimi i motit, 24 gusht 2026",
+      "link": "https://abcnews.al/parashikimi-i-motit-24-gusht-2026/",
+      "description": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Sipas SHMU, moti parashikohet i kthjellët si dhe alternime vranësirash dhe hera-herës deri të dendura kalimtare përgjatë relieveve kodrinore – malore të vendit nga orët e mesditës deri ato të pasdites. Temperaturat maksima",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T05:48:21+00:00",
+      "dateStr": "24 Aug, 05:48",
+      "isNew": true,
+      "id": "abc41787550501"
+    },
+    {
+      "title": "Horoskopi, 24 gusht 2026",
+      "link": "https://abcnews.al/horoskopi-24-gusht-2026/",
+      "description": "Dashi Dita është e mirë për korrigjimin e planeve dhe plotësimin e tyre. Hiqni dorë nga shpresat e paarsyeshme dhe kjo do të lejojë që energjia juaj të fokusohet në realizimin e ideve më premtuese. Mbështetësit tuaj mund të jenë fare të paktë. Demi Kjo është një ditë e rëndësishme për të lindurit e ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T05:45:46+00:00",
+      "dateStr": "24 Aug, 05:45",
+      "isNew": true,
+      "id": "abc51787550346"
     },
     {
       "title": "Vlorë/ Turistët u larguan të alarmuar, vihet nën kontroll pas 30 minutash zjarri në Ujin e Ftohtë, rrezikoi restorante e hotele",
@@ -122,7 +199,7 @@
       "date": "2026-08-23T20:57:15+00:00",
       "dateStr": "23 Aug, 20:57",
       "isNew": true,
-      "id": "she01787518635"
+      "id": "she11787518635"
     },
     {
       "title": "Lufta tregtare SHBA- Kanada, dy vendet shpallin tarifat përkatëse pas dështimit të marrëveshjes",
@@ -133,7 +210,7 @@
       "date": "2026-08-23T20:45:05+00:00",
       "dateStr": "23 Aug, 20:45",
       "isNew": true,
-      "id": "abc01787517905"
+      "id": "abc61787517905"
     },
     {
       "title": "Rama “sy m’sy” me pensionistin: Rruga do të bëhet, mos vazhdo se do thonë je patronazhist!",
@@ -144,7 +221,7 @@
       "date": "2026-08-23T20:43:02+00:00",
       "dateStr": "23 Aug, 20:43",
       "isNew": true,
-      "id": "abc11787517782"
+      "id": "abc71787517782"
     },
     {
       "title": "Detaje nga vrasja e 45-vjeçares shqiptare në Athinë. Altin Allmuça e priti para banesës, e detyroi të gjunjëzohej dhe e qëlloi…",
@@ -155,7 +232,7 @@
       "date": "2026-08-23T20:36:26+00:00",
       "dateStr": "23 Aug, 20:36",
       "isNew": true,
-      "id": "she11787517386"
+      "id": "she21787517386"
     },
     {
       "title": "Zjarr pranë tunelit në zonën e Ujit të Ftohtë",
@@ -166,7 +243,7 @@
       "date": "2026-08-23T20:20:31+00:00",
       "dateStr": "23 Aug, 20:20",
       "isNew": true,
-      "id": "abc21787516431"
+      "id": "abc81787516431"
     },
     {
       "title": "VIDEO/ Zjarr i madh pranë një hoteli në Vlorë",
@@ -177,7 +254,7 @@
       "date": "2026-08-23T20:12:52+00:00",
       "dateStr": "23 Aug, 20:12",
       "isNew": true,
-      "id": "she21787515972"
+      "id": "she31787515972"
     },
     {
       "title": "Dyshohet se dhunoi gruan/ Zvicër, arrestohet pronari i barit ku ndodhi tragjedia me 41 viktima",
@@ -188,7 +265,7 @@
       "date": "2026-08-23T20:00:48+00:00",
       "dateStr": "23 Aug, 20:00",
       "isNew": true,
-      "id": "abc31787515248"
+      "id": "abc91787515248"
     },
     {
       "title": "Ermal Meta mbështet protestat në Shqipëri: Toka jonë nuk shitet",
@@ -199,7 +276,7 @@
       "date": "2026-08-23T20:00:47+00:00",
       "dateStr": "23 Aug, 20:00",
       "isNew": true,
-      "id": "she31787515247"
+      "id": "she41787515247"
     },
     {
       "title": "VIDEO/ E priti mbi 6 orë, gjyshi nga Pogradeci takon Ramën: Do të thonë që je patronazhist (Premtimi për rrugën)",
@@ -210,18 +287,7 @@
       "date": "2026-08-23T19:44:46+00:00",
       "dateStr": "23 Aug, 19:44",
       "isNew": true,
-      "id": "she41787514286"
-    },
-    {
-      "title": "Kina shtyn nisjen e një misioni të paprecedentë për kërkimin e ujit në hënë",
-      "link": "https://abcnews.al/kina-shtyn-nisjen-e-nje-misioni-te-paprecedente-per-kerkimin-e-ujit-ne-hene/",
-      "description": "Lëshimi i shumëpritur i misionit robotik kinez “Chang’e-7” i projektuar për të eksploruar polin jugor të Hënës në kërkim të akullit (ujit në gjendje të ngurtë), një burim me vlerë të lartë që edhe SHBA-ja shpreson ta shfrytëzojë “nuk mund të realizohet brenda afatit kohor të planifikuar për këtë vit",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T19:38:59+00:00",
-      "dateStr": "23 Aug, 19:38",
-      "isNew": true,
-      "id": "abc41787513939"
+      "id": "she51787514286"
     },
     {
       "title": "VIDEO/ Tërbohet moti në Korçë, shkarkesa elektrike, stuhi dhe breshër",
@@ -232,18 +298,7 @@
       "date": "2026-08-23T19:14:14+00:00",
       "dateStr": "23 Aug, 19:14",
       "isNew": true,
-      "id": "she51787512454"
-    },
-    {
-      "title": "Mbrojtja e privatësisë së fëmijëve / TikTok pranon të paguajë 400 milionë dollarë pas padisë nga SHBA",
-      "link": "https://abcnews.al/mbrojtja-e-privatesise-se-femijeve-tiktok-pranon-te-paguaje-400-milione-dollare-pas-padise-nga-shba/",
-      "description": "Rjeti social TikTok ka rënë dakord të paguajë një dëmshpërblim prej 400 milionë dollarësh pas arritjes së një marrëveshjeje me Departamentin e Drejtësisë të SHBA-së (DOJ), lidhur me padinë e ngritur për dështimin në mbrojtjen e privatësisë së fëmijëve në internet. Sipas deklaratës zyrtare të Departa",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T19:13:40+00:00",
-      "dateStr": "23 Aug, 19:13",
-      "isNew": true,
-      "id": "abc51787512420"
+      "id": "she61787512454"
     },
     {
       "title": "VIDEO/ Ekzekutohet në mes të ditës kreu i mafias kaukaziane në Izrael, momenti kur qëllohet pas koke",
@@ -254,29 +309,7 @@
       "date": "2026-08-23T18:53:02+00:00",
       "dateStr": "23 Aug, 18:53",
       "isNew": true,
-      "id": "she61787511182"
-    },
-    {
-      "title": "Vjeshtë në verë/ Reshje të dendura shiu dhe breshëri në Korçë",
-      "link": "https://abcnews.al/vjeshte-ne-vere-reshje-te-dendura-shiu-dhe-bresheri-ne-korce/",
-      "description": "Një rrebesh i fortë ka përfshirë Korçën gjatë mbrëmjes së sotme. Prej më shumë se dhjetë minutash, qyteti është përfshirë nga reshje të dendura shiu, të shoqëruara me breshër dhe erë të fortë. Intensiteti i lartë i reshjeve ka sjellë vështirësi të përkohshme në qarkullim, ndërsa situata vijon të mon",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T18:42:45+00:00",
-      "dateStr": "23 Aug, 18:42",
-      "isNew": true,
-      "id": "abc61787510565"
-    },
-    {
-      "title": "Irani i përgjigjet Trumpit: Kalifornia, territori i ri i Republikës Islamike",
-      "link": "https://abcnews.al/irani-i-pergjigjet-trumpit-kalifornia-territori-i-ri-i-republikes-islamike/",
-      "description": "Një llogari zyrtare iraniane në rrjete sociale e quajti Kaliforninë një &#8220;territor të ri&#8221; të Iranit, në përgjigje të postimit të një imazhi nga presidenti i SHBA-së, Donald Trump, që e portretizonte Ngushticën e Hormuzit si &#8220;Territor të ri të SHBA-së&#8221;. Trump e ndau imazhin në ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T18:36:20+00:00",
-      "dateStr": "23 Aug, 18:36",
-      "isNew": true,
-      "id": "abc71787510180"
+      "id": "she71787511182"
     },
     {
       "title": "Kuçovë/ Qëlloi me armë në drejtim të mjetit të një qytetari, shpallet në kërkim 32-vjeçari",
@@ -287,7 +320,7 @@
       "date": "2026-08-23T18:26:48+00:00",
       "dateStr": "23 Aug, 18:26",
       "isNew": true,
-      "id": "she71787509608"
+      "id": "she81787509608"
     },
     {
       "title": "Përplasi për vdekje babanë e tre të miturve dhe u largua nga vendi i ngjarjes, pranga shoferit 38 vjeçar në Durrës",
@@ -298,40 +331,7 @@
       "date": "2026-08-23T18:17:27+00:00",
       "dateStr": "23 Aug, 18:17",
       "isNew": true,
-      "id": "she81787509047"
-    },
-    {
-      "title": "Aksidentoi për vdekje 41 vjeçarin, pranga shoferit/ Durrës, viktima po lëvizte me biçikletë, drejtuesi u largua nga vendngjarja",
-      "link": "https://abcnews.al/aksidentoi-per-vdekje-41-vjecarin-pranga-shoferit-durres-viktima-po-levizte-me-biciklete-drejtuesi-u-largua-nga-vendngjarja/",
-      "description": "Pas 48 orësh hetime, Policia e Durrësit ka identifikuar dhe arrestuar drejtuesin e automjetit që dyshohet se përplasi për vdekje një biçiklist dhe u largua nga vendi i aksidentit. Ngjarja ndodhi në aksin rrugor Rrashbull–Xhafzotaj, ku më 21 gusht u gjet i pajetë një 41-vjeçar, banues në Rrashbull. P",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T18:08:09+00:00",
-      "dateStr": "23 Aug, 18:08",
-      "isNew": true,
-      "id": "abc81787508489"
-    },
-    {
-      "title": "“PS makineri elektorale, hapa para opozitës për lokalet”, Leka: Protesta u shndërrua në spektakël karnavalesh",
-      "link": "https://abcnews.al/ps-makineri-elektorale-hapa-para-opozites-per-lokalet-leka-protesta-u-shnderrua-ne-spektakel-karnavalesh/",
-      "description": "Analisti Martin Leka ka komentuar mbledhjen e zhvilluar nga Partia Socialiste në Pogradec, duke u ndalur te ndryshimet e mundshme në qeveri, administrata dhe përgatitjet për zgjedhjet lokale të vitit 2027. Leka tha se ministrat kanë peshë të rëndësishme institucionale, por sipas tij fokusi kryesor d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-23T17:57:21+00:00",
-      "dateStr": "23 Aug, 17:57",
-      "isNew": true,
-      "id": "abc91787507841"
-    },
-    {
-      "title": "VIDEO/ Priti gjashtë orë për të takuar Ramën, gjyshi nga Pogradeci: Amani më lini ta përqafoj, më zgjidhi hallin",
-      "link": "https://shekulli.com.al/2026/08/23/video-priti-gjashte-ore-per-te-takuar-ramen-gjyshi-nga-pogradeci-amani-me-lini-ta-perqafoj-me-zgjidhi-hallin/",
-      "description": "Një gjysh në Pogradec ka pritur për rreth gjashtë orë jashtë rezidencës qeveritare, në pritje të përfundimit të mbledhjes së Partisë Socialiste me drejtuesit politikë të qarqeve. I moshuari, i cili kishte shkuar për të takuar kryeministrin Edi Rama, tha se synonte ta falenderonte personalisht për zg",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-23T17:54:46+00:00",
-      "dateStr": "23 Aug, 17:54",
-      "isNew": true,
-      "id": "she91787507686"
+      "id": "she91787509047"
     }
   ]
 }
