@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-08-24T22:19:50.972106+00:00",
+  "lastUpdated": "2026-08-24T23:18:05.156476+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Bayley mungon në programet e WWE, Hendry për projekt jashtë ringut dhe dilema për të ardhmen e Ilja Dragunov",
+      "link": "https://24-ore.com/bayley-mungon-ne-programet-e-wwe-hendry-per-projekt-jashte-ringut-dhe-dilema-per-te-ardhmen-e-ilja-dragunov/",
+      "description": "Bayley nuk është parë në programet televizive të WWE që nga mesi i korrikut, por një shkëmbim publik mes saj dhe menaxherit të Raw, Adam Pearce, ka ndezur...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T23:07:03+00:00",
+      "dateStr": "24 Aug, 23:07",
+      "isNew": true,
+      "id": "24 01787612823"
+    },
+    {
+      "title": "Minnesota Lynx vs. Golden State Valkyries, 24 gusht 2026 — përballje në Target Center",
+      "link": "https://24-ore.com/minnesota-lynx-vs-golden-state-valkyries-24-gusht-2026-perballje-ne-target-center/",
+      "description": "Minnesota Lynx do të presin Golden State Valkyries më 24 gusht 2026 në Target Center të Minneapolisit, në një përballje që pritet të ndikojë në pozicionimi...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T23:05:40+00:00",
+      "dateStr": "24 Aug, 23:05",
+      "isNew": true,
+      "id": "24 11787612740"
+    },
+    {
+      "title": "Lewandowski përballet me Cuypers në çerekfinalen e Leagues Cup në Chicago",
+      "link": "https://24-ore.com/lewandowski-perballet-me-cuypers-ne-cerekfinalen-e-leagues-cup-ne-chicago/",
+      "description": "Chicago Fire përballet me CF Monterrey në çerekfinalen e Leagues Cup, një ndeshje eliminimi që zhvillohet në SeatGeek Stadium dhe nis në orën 20:30 ET me t...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T22:26:41+00:00",
+      "dateStr": "24 Aug, 22:26",
+      "isNew": true,
+      "id": "24 21787610401"
+    },
+    {
+      "title": "Pesë kandidatët më të mundshëm për të fituar valixhen e Money in the Bank 2026 te meshkujt",
+      "link": "https://24-ore.com/pese-kandidatet-me-te-mundshem-per-te-fituar-valixhen-e-money-in-the-bank-2026-te-meshkujt/",
+      "description": "WWE do të zhvillojë eventin Money in the Bank më 10 tetor në New Orleans, një ndër ngjarjet më të pritura të vitit për shkak të papriturive që sjell përpla...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T22:25:48+00:00",
+      "dateStr": "24 Aug, 22:25",
+      "isNew": true,
+      "id": "24 31787610348"
+    },
     {
       "title": "Një përballje një‑me‑një: Delonte West përballet me streamer‑in N3on dhe merr dhuratë për streaming",
       "link": "https://24-ore.com/nje-perballje-nje-me-nje-delonte-west-perballet-me-streamer-in-n3on-dhe-merr-dhurate-per-streaming/",
@@ -12,7 +56,7 @@
       "date": "2026-08-24T22:17:23+00:00",
       "dateStr": "24 Aug, 22:17",
       "isNew": true,
-      "id": "24 01787609843"
+      "id": "24 41787609843"
     },
     {
       "title": "Tampa Bay Rays përballë Detroit Tigers në Comerica Park më 24 gusht 2026",
@@ -23,7 +67,7 @@
       "date": "2026-08-24T22:16:14+00:00",
       "dateStr": "24 Aug, 22:16",
       "isNew": true,
-      "id": "24 11787609774"
+      "id": "24 51787609774"
     },
     {
       "title": "Oltion Bilalli “Ylli i Javës” në Superligë",
@@ -34,7 +78,7 @@
       "date": "2026-08-24T22:02:26+00:00",
       "dateStr": "24 Aug, 22:02",
       "isNew": true,
-      "id": "24 21787608946"
+      "id": "24 61787608946"
     },
     {
       "title": "“Nëse këta janë të pafajshëm, kush i ka vrarë tre personat në Gllogjan?” – Brajshori: Të akuzuarit munden me paditë shtetin",
@@ -45,7 +89,7 @@
       "date": "2026-08-24T21:59:34+00:00",
       "dateStr": "24 Aug, 21:59",
       "isNew": true,
-      "id": "24 31787608774"
+      "id": "24 71787608774"
     },
     {
       "title": "FOKUS – SHBA nis fushatën ”Economic Outcast” për të izoluar Iranin",
@@ -56,7 +100,7 @@
       "date": "2026-08-24T21:46:03+00:00",
       "dateStr": "24 Aug, 21:46",
       "isNew": true,
-      "id": "24 41787607963"
+      "id": "24 81787607963"
     },
     {
       "title": "Real Salt Lake zgjat kontratën e Sergi Solans deri në sezonin 2029–30",
@@ -67,7 +111,7 @@
       "date": "2026-08-24T21:42:04+00:00",
       "dateStr": "24 Aug, 21:42",
       "isNew": true,
-      "id": "24 51787607724"
+      "id": "24 91787607724"
     },
     {
       "title": "Një “shqiptar” mund një “maqedonas”/ Dudajev, kampion i Mesdheut në stilin e lirë të mundjes",
@@ -90,50 +134,6 @@
       "dateStr": "24 Aug, 21:36",
       "isNew": true,
       "id": "abc11787607399"
-    },
-    {
-      "title": "DeWanna Bonner lirohet nga Phoenix Mercury; klube të mundshme për transferim ndërsa afrojnë play-off-et",
-      "link": "https://24-ore.com/dewanna-bonner-lirohet-nga-phoenix-mercury-klube-te-mundshme-per-transferim-ndersa-afrojne-play-off-et/",
-      "description": "Phoenix Mercury njoftoi të hënën se ka arritur një marrëveshje për lirimin nga kontrata me DeWanna Bonner, gjashtë herë All-Star. Menaxheri i përgjithshëm...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T21:36:36+00:00",
-      "dateStr": "24 Aug, 21:36",
-      "isNew": true,
-      "id": "24 61787607396"
-    },
-    {
-      "title": "Lakers nisin sezonin 2026-27 me përbërje të rinovuar pas largimit të LeBron drejt 76ers",
-      "link": "https://24-ore.com/lakers-nisin-sezonin-2026-27-me-perberje-te-rinovuar-pas-largimit-te-lebron-drejt-76ers/",
-      "description": "Los Angeles Lakers vijnë në sezonin 2026–27 me një përbërje tërësisht të ri, pas largimeve të rëndësishme. Ndryshimi më i dukshëm ishte vendimi i yllit LeB...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T21:35:39+00:00",
-      "dateStr": "24 Aug, 21:35",
-      "isNew": true,
-      "id": "24 71787607339"
-    },
-    {
-      "title": "Miami Marlins – Boston Red Sox: Përballje në Miami me Suarez dhe Alcántara në majë të kastës (24 gusht 2026)",
-      "link": "https://24-ore.com/miami-marlins-boston-red-sox-perballje-ne-miami-me-suarez-dhe-alcantara-ne-maje-te-kastes-24-gusht-2026/",
-      "description": "Më 24 gusht 2026, në loanDepot Park të Miami, Miami Marlins pritën Boston Red Sox në një ndeshje që solli përballjen e dy asve të pamjaftueshëm: për Red So...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T21:33:48+00:00",
-      "dateStr": "24 Aug, 21:33",
-      "isNew": true,
-      "id": "24 81787607228"
-    },
-    {
-      "title": "Pesë tema kryesore nga Java e dytë e stërvitoreve të NFL ndërsa afron sezoni 2026",
-      "link": "https://24-ore.com/pese-tema-kryesore-nga-java-e-dyte-e-stervitoreve-te-nfl-ndersa-afron-sezoni-2026/",
-      "description": "Java e dytë e stërvitoreve të NFL nxori në pah disa dilema fillestare për ekipe dhe lojtarë që do të kenë ndikim direkt në nisjen e sezonit të rregullt. Ng...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T21:32:06+00:00",
-      "dateStr": "24 Aug, 21:32",
-      "isNew": true,
-      "id": "24 91787607126"
     },
     {
       "title": "Lushnje/ Krimi në familje, shkak i konfliktit dyshohet për para. I moshuari transportohet drejt Traumës",
