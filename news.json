@@ -1,62 +1,183 @@
 {
-  "lastUpdated": "2026-08-24T11:22:15.858659+00:00",
+  "lastUpdated": "2026-08-24T12:38:58.751588+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Qëlloi me armë policinë gjatë operacionit antikanabis në malësinë e Pukës, shpallet në kërkim 30-vjeçari! Ruante parc",
-      "link": "https://24-ore.com/qelloi-me-arme-policine-gjate-operacionit-antikanabis-ne-malesine-e-pukes-shpallet-ne-kerkim-30-vjecari-ruante-parc/",
-      "description": "Policia e Shkodrës sot (24 gusht) ka shpallur në kërkim një 30-vjeçar nga fshati Kodërbojë i Pukës, pasi dyshohet se ruante i armatosur një parcelë me bimë narkotike. Ngjarja ndodhi më 22 gusht, gjatë kontrolleve të territorit për evidentimin dhe goditjen e rasteve të kultivimit të kanabisit. Shërbi",
+      "title": "Detaje tronditëse nga krimi në Kosovë, bashkëshorti vrau gruan tetë muajshe shtatzënë! Mister motivi dhe se si mbeti i pl",
+      "link": "https://24-ore.com/detaje-tronditese-nga-krimi-ne-kosove-bashkeshorti-vrau-gruan-tete-muajshe-shtatzene-mister-motivi-dhe-se-si-mbeti-i-pl/",
+      "description": "Prokuroria Themelore në Gjakovë ka dhënë detaje të reja për ngjarjen e rëndë në Kërvasari të Malishevës, ku një 25-vjeçare shtatzënë humbi jetën pasi u plagos me armë zjarri. Sipas organit të akuzës, bashkëshorti i saj është personi i dyshuar për ngjarjen dhe ndodhet gjithashtu në gjendje kritike pë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-24T11:22:11+00:00",
+      "date": "2026-08-24T12:36:43+00:00",
+      "dateStr": "24 Aug, 12:36",
+      "isNew": true,
+      "id": "24 01787575003"
+    },
+    {
+      "title": "Dhuna ndaj shefit të Krimeve të Sarandës, Prokuroria kërkon burg për pronarin dhe menaxherin e “Orange”, por Gjykata re",
+      "link": "https://24-ore.com/dhuna-ndaj-shefit-te-krimeve-te-sarandes-prokuroria-kerkon-burg-per-pronarin-dhe-menaxherin-e-orange-por-gjykata-re/",
+      "description": "Gjykata refuzon të mbyllë në qeli dy nga të dyshuarit për dhunën ndaj kreut të Krimeve të Komisariatit të Sarandës, ngjarje e ndodhur disa ditë më parë në qytetin bregdetar. Prokuroria ka kërkuar “arrest me burg” në mungesë për pronarin e lokalit “Orange”, Spiro Iljadhi, dhe menaxherin Ermal Vata, l",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T12:36:16+00:00",
+      "dateStr": "24 Aug, 12:36",
+      "isNew": true,
+      "id": "24 11787574976"
+    },
+    {
+      "title": "News Line me Rovena Neziri, (24/08/2026)",
+      "link": "https://abcnews.al/news-line-me-rovena-neziri-24-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T12:34:29+00:00",
+      "dateStr": "24 Aug, 12:34",
+      "isNew": true,
+      "id": "abc01787574869"
+    },
+    {
+      "title": "Dekreti i shtetësisë së Kosovës për Joe DioGuardit dhe Shirley Cloyes DioGuardit, Haxhiu: Ishit miq të Kosovës përpara se ajo të bëhej shtet, prej sot jeni edhe qytetarë të saj",
+      "link": "https://24-ore.com/dekreti-i-shtetesise-se-kosoves-per-joe-dioguardit-dhe-shirley-cloyes-dioguardit-haxhiu-ishit-miq-te-kosoves-perpara-se-ajo-te-behej-shtet-prej-sot-jeni-edhe-qytetare-te-saj/",
+      "description": "Ushtruesja e Detyrës së Presidentes së Republikës së Kosovës, Albulena Haxhiu, në një ceremoni të veçantë ua ka dorëzuar dekretin e shtetësisë së Kosovës, Joe DioGuardit dhe Shirley Cloyes DioGuardit. Sipas një njoftimi për media thuhet se në fjalën e saj, Haxhiu tha se Kosova është shtet i ri, por ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T12:25:44+00:00",
+      "dateStr": "24 Aug, 12:25",
+      "isNew": true,
+      "id": "24 21787574344"
+    },
+    {
+      "title": "Ernest Muçi shkëlqen në krah të Salah, fundjavë e mirë edhe për legjionarët e tjerë kuqezi!",
+      "link": "https://24-ore.com/ernest-muci-shkelqen-ne-krah-te-salah-fundjave-e-mire-edhe-per-legjionaret-e-tjere-kuqezi/",
+      "description": "Një tjetër javë pozitive për legjionarët kuqezi në kampionatet ndërkombëtare, me gola dhe asiste. Në Turqi, Ernest Muçi u rikthye si titullar pas rikuperimit nga dëmtimi dhe ishte protagonist në fitoren 2-1 të Trabzonsporit ndaj Başakşehirit. Sulmuesi i Kombëtares shqiptare asistoi për golin e dytë ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T12:22:49+00:00",
+      "dateStr": "24 Aug, 12:22",
+      "isNew": true,
+      "id": "24 31787574169"
+    },
+    {
+      "title": "“Lale mos i jep muhabet këtij se është hasmi i Gjergjit”- Vrasja e ish-polici Arben Bilali, dëshmia e të penduarit nxje",
+      "link": "https://24-ore.com/lale-mos-i-jep-muhabet-ketij-se-eshte-hasmi-i-gjergjit-vrasja-e-ish-polici-arben-bilali-deshmia-e-te-penduarit-nxje/",
+      "description": "Pas vendimit të Gjykatës së Apelit, Prokuroria pritet të rihapë hetimet për Gjergj Cukalin, të “fortin” e rrugës “Myslym Shyri”, i dyshuar për vrasjen e ish-policit Arben Bilali shtatë vite më parë në zonën e Selitës, nën motive të hakmarrjeje. Detaje janë zbuluar se gjatë një seance në Gjykatën e P",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T12:21:50+00:00",
+      "dateStr": "24 Aug, 12:21",
+      "isNew": true,
+      "id": "24 41787574110"
+    },
+    {
+      "title": "“Ishin konfliktuar më parë”- Qëlloi me armë zjarri në lokalin ku po rrinte 23-vjeçari në Mullet, arrestohet i dyshuar",
+      "link": "https://24-ore.com/ishin-konfliktuar-me-pare-qelloi-me-arme-zjarri-ne-lokalin-ku-po-rrinte-23-vjecari-ne-mullet-arrestohet-i-dyshuar/",
+      "description": "Një 52-vjeçar është arrestuar sot (24 gusht) nga Policia, pasi akuzohet se ka qëlluar me armë zjarri në ajër. Në kuadër të operacionit të koduar “Njoftimi”, në pranga ra 53-vjeçari me inicialet F. Ç.. “Qëlloi me pistoletë në ajër, përballë lokalit në Mullet, ku ndodhej 23-vjeçari me të cilin ishte k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T12:21:25+00:00",
+      "dateStr": "24 Aug, 12:21",
+      "isNew": true,
+      "id": "24 51787574085"
+    },
+    {
+      "title": "Presidenti i UEFA-s: Infantino të japë dorëheqjen, ose mund të përballet me një kundërshtar në zgjedhjet e FIFA-s",
+      "link": "https://abcnews.al/presidenti-i-uefa-s-infantino-te-jape-doreheqjen-ose-mund-te-perballet-me-nje-kundershtar-ne-zgjedhjet-e-fifa-s/",
+      "description": "Presidenti i UEFA-s, Aleksander Ceferin, ka deklaruar se nuk do të kandidojë për presidencën e FIFA-s, por ka paralajmëruar se Gianni Infantino mund të përballet me një rival në zgjedhjet e marsit. Infantino është përballur me presion në rritje pas tërheqjes së planit për shitjen e aksioneve të Kupë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T12:17:25+00:00",
+      "dateStr": "24 Aug, 12:17",
+      "isNew": true,
+      "id": "abc11787573845"
+    },
+    {
+      "title": "KIEV – Burnham: Ukraina mban gjallë “Flakën e Lirisë” evropiane",
+      "link": "https://24-ore.com/kiev-burnham-ukraina-mban-gjalle-flaken-e-lirise-evropiane/",
+      "description": "KIEV, 24 gusht /ATSH-DPA/- Ukraina po mban gjallë Flakën e Lirisë evropiane përmes rezistencës së saj ndaj Rusisë, tha sot kryeministri britanik Andy Burnham, gjatë vizitës në Kiev, ku liderët evropianë u mblodhën për të shënuar 35-vjetorin e pavarësisë së Ukrainës. Në një fjalim pranë Katedrales së",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T12:16:43+00:00",
+      "dateStr": "24 Aug, 12:16",
+      "isNew": true,
+      "id": "24 61787573803"
+    },
+    {
+      "title": "Matt Cardona zbulon çarje të trícepsit pas ndeshjes së Main Event",
+      "link": "https://24-ore.com/matt-cardona-zbulon-carje-te-tricepsit-pas-ndeshjes-se-main-event/",
+      "description": "WWE Superylli Matt Cardona njoftoi të dielën se kishte pësuar një çarje të trícepsit. Në një postim në rrjetin X, ai publikoi një foto të krahut të fryrë d...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T12:12:57+00:00",
+      "dateStr": "24 Aug, 12:12",
+      "isNew": true,
+      "id": "24 71787573577"
+    },
+    {
+      "title": "Komentet e Caitlin Clark dhe trajneres Stephanie White pas humbjes së Indiana Fever ndaj Breanna Stewart dhe New York Liberty",
+      "link": "https://24-ore.com/komentet-e-caitlin-clark-dhe-trajneres-stephanie-white-pas-humbjes-se-indiana-fever-ndaj-breanna-stewart-dhe-new-york-liberty/",
+      "description": "Indiana Fever u mposhtën 109-102 nga New York Liberty, dhe trajnerja Stephanie White kërkoi më shumë konsistencë nga skuadra pas ndeshjes. Ajo përmendi mom...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T12:11:16+00:00",
+      "dateStr": "24 Aug, 12:11",
+      "isNew": true,
+      "id": "24 81787573476"
+    },
+    {
+      "title": "Nikolloski për çështjen e transportuesve: Po përpiqemi të arrijmë marrëveshje edhe me Gjermaninë",
+      "link": "https://24-ore.com/nikolloski-per-ceshtjen-e-transportuesve-po-perpiqemi-te-arrijme-marreveshje-edhe-me-gjermanine/",
+      "description": "Zëvendëskryeministri dhe ministri i Transportit, Aleksandar Nikolloski deklaroi sot se Qeveria po bën gjithçka që është në mundësitë e saj për t’u ndihmuar transportuesve. Ai tha se po lidhen marrëveshje dypalëshe me vendet anëtare të zonës Shengen. “Kemi mirëkuptim të plotë për transportuesit dhe p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T12:10:15+00:00",
+      "dateStr": "24 Aug, 12:10",
+      "isNew": true,
+      "id": "24 91787573415"
+    },
+    {
+      "title": "“Është shndërruar në një platformë për përçarje”/ Holanda tërhiqet nga “Eurovisioni”: Konkursi s’është më neutral!",
+      "link": "https://abcnews.al/eshte-shnderruar-ne-nje-platforme-per-percarje-holanda-terhiqet-nga-eurovisioni-konkursi-seshte-me-neutral/",
+      "description": "Transmetuesi publik holandez Avrotros njoftoi të hënën se Holanda nuk do të marrë pjesë në edicionin e ardhshëm të Eurovision Song Contest. Sipas transmetuesit, konkursi “nuk mund të konsiderohet më neutral”, për shkak të luftës në Gaza, raporto DW. Drejtori i Përgjithshëm i Avrotros, Taco Zimmerman",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T12:00:55+00:00",
+      "dateStr": "24 Aug, 12:00",
+      "isNew": true,
+      "id": "abc21787572855"
+    },
+    {
+      "title": "Kurti i jep Serbisë gjysmë milioni euro/ Zbulohet kontrata e fshehtë për riparimin e vagonëve të trenave",
+      "link": "https://abcnews.al/kurti-i-jep-serbise-gjysme-milioni-euro-zbulohet-kontrata-e-fshehte-per-riparimin-e-vagoneve-te-trenave/",
+      "description": "Albin Kurti i jep para Beogradit. Vagonat e ndërmarrjes publike të transportit hekurudhor në Kosovë janë dërguar në Serbi për tu riparuar dhe janë rikthyer përsëri në vend. Ministria e Ekonomisë ka paguar 423 mijë euro për rregullimin e tyre. Në daljen e saj publike më 16 korrik të vitit 2026, minis",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T11:47:35+00:00",
+      "dateStr": "24 Aug, 11:47",
+      "isNew": true,
+      "id": "abc31787572055"
+    },
+    {
+      "title": "Ndryshimi i yllit norvegjez mban ‘vulën’ shqiptare/ Kush është parukierja që transformoi Haaland",
+      "link": "https://abcnews.al/ndryshimi-i-yllit-norvegjez-mban-vulen-shqiptare-kush-eshte-parukierja-qe-transformoi-haaland/",
+      "description": "Erling Haaland ka surprizuar fansat në mbarë botën me një ndryshim të dukshëm në pamjen e tij. Ylli norvegjez i futbollit i ka dhënë fund flokëve të gjatë biondë, të cilët prej vitesh ishin kthyer në një prej tipareve të tij më karakteristike. Pas ndryshimit të ri në look-un e sulmuesit fshihet një ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T11:29:18+00:00",
+      "dateStr": "24 Aug, 11:29",
+      "isNew": true,
+      "id": "abc41787570958"
+    },
+    {
+      "title": "Analisti Meçe: “Flamingot”, reflektim i Ramës për shkëputjen e qeverisë nga qytetari. Ja skema e kryeministrit",
+      "link": "https://abcnews.al/analisti-mece-flamingot-reflektim-i-rames-per-shkeputjen-e-qeverise-nga-qytetari-ja-skema-e-kryeministrit/",
+      "description": "Analisti Arben Meçe e ka cilësuar si një reflektim të kryeministrit Edi Rama ndaj problematikave të qeverisjes atë që ai e quan “revolucioni i flamingove”. Sipas Meçes, ngjarjet e ditëve të fundit kanë shërbyer si një mesazh për qeverinë, duke nxjerrë në pah një problem të rëndësishëm: shkëputjen e ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T11:22:01+00:00",
       "dateStr": "24 Aug, 11:22",
       "isNew": true,
-      "id": "24 01787570531"
-    },
-    {
-      "title": "Dave Roberts: Shohei Ohtani mund të hedhë sërish në ndeshje brenda disa ditësh",
-      "link": "https://24-ore.com/dave-roberts-shohei-ohtani-mund-te-hedhe-serish-ne-ndeshje-brenda-disa-ditesh/",
-      "description": "Menaxheri i Los Angeles Dodgers, Dave Roberts, tha se mund të jetë çështje ditësh para se Shohei Ohtani të rikthehet si pitcher në ndeshjet e MLB. Ai u shp...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T11:21:59+00:00",
-      "dateStr": "24 Aug, 11:21",
-      "isNew": true,
-      "id": "24 11787570519"
-    },
-    {
-      "title": "Shoferët e pabindur, Policia Rrugore arreston dhe procedon 55 brenda javës, 36 ishin të dehur! Mbi 11 mijë gjoba",
-      "link": "https://24-ore.com/shoferet-e-pabindur-policia-rrugore-arreston-dhe-procedon-55-brenda-javes-36-ishin-te-dehur-mbi-11-mije-gjoba/",
-      "description": "Policia Rrugore e Tiranës ka vijuar aksionet në akset kryesore dhe në pikat hyrëse e dalëse të qytetit, me fokus parandalimin e aksidenteve dhe menaxhimin e trafikut dhe aksidenteve. Gjatë javës së fundit janë arrestuar dhe proceduar 55 persona, ndërsa janë vendosur gjithsej 11,420 masa administrati",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T11:21:44+00:00",
-      "dateStr": "24 Aug, 11:21",
-      "isNew": true,
-      "id": "24 21787570504"
-    },
-    {
-      "title": "“Pasqyrë Albania një mur për të mashtruar qytetarët”- Berisha akuza kryeministrit: Rama do që të vjedhë 130 mln euro",
-      "link": "https://24-ore.com/pasqyre-albania-nje-mur-per-te-mashtruar-qytetaret-berisha-akuza-kryeministrit-rama-do-qe-te-vjedhe-130-mln-euro/",
-      "description": "Kryetari i Partisë Demokratike Sali Berisha hodhi akuza ndaj kryeministrit Edi Rama gjatë konferencës së sotme për mediat (24 gusht) në lidhje me aeroportin e Vlorës. Ai tha se kreu i qeverisë dhe vartësit e tij duan të vjedhin 130 milionë euro në Aeroportin e Vlorës. “Aeroporti i Vlorës nuk duhej t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T11:21:16+00:00",
-      "dateStr": "24 Aug, 11:21",
-      "isNew": true,
-      "id": "24 31787570476"
-    },
-    {
-      "title": "Pretendimet se Trainkos dërgoi vagonë për riparim në Serbi, reagon Rizvanolli",
-      "link": "https://24-ore.com/pretendimet-se-trainkos-dergoi-vagone-per-riparim-ne-serbi-reagon-rizvanolli/",
-      "description": "Ministrja në detyrë e Ekonomisë, Artane Rizvanolli ka reaguar ndaj pretendimeve se përfaqësues të ndërmarrjes publike “Trainkos” kanë zhvilluar një vizitë zyrtare në Serbi, në kuadër të procesit për riparimin e vagonëve të trenit. Rizvanolli përmes një postimi në rrjetin social në Facebook ka shkrua",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T11:15:10+00:00",
-      "dateStr": "24 Aug, 11:15",
-      "isNew": true,
-      "id": "24 41787570110"
+      "id": "abc51787570521"
     },
     {
       "title": "“Me Diellën dhe Mirelën përpara fillimit të Ditës II të maratonës përgatitore”, Rama poston videon nga Pogradeci",
@@ -67,40 +188,7 @@
       "date": "2026-08-24T11:12:55+00:00",
       "dateStr": "24 Aug, 11:12",
       "isNew": true,
-      "id": "abc01787569975"
-    },
-    {
-      "title": "Arrestohet 34‑vjeçari që kanosi me armë zjarri tre shtetas, sekuestrohen pistoleta dhe municion luftarak",
-      "link": "https://24-ore.com/arrestohet-34-vjecari-qe-kanosi-me-arme-zjarri-tre-shtetas-sekuestrohen-pistoleta-dhe-municion-luftarak/",
-      "description": "Shërbimet e Komisariatit të Policisë Kurbin kanë finalizuar me sukses operacionin e koduar “Reagimi”, pas marrjes së informacionit se në fshatin Adriatik tre shtetas ishin kanosur me armë zjarri. Menjëherë u organizuan veprimet hetimore dhe operacionale, të cilat çuan në arrestimin në flagrancë të a",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T11:07:52+00:00",
-      "dateStr": "24 Aug, 11:07",
-      "isNew": true,
-      "id": "24 51787569672"
-    },
-    {
-      "title": "Shqiptarët nuk merren me beteja të vogla",
-      "link": "https://24-ore.com/shqiptaret-nuk-merren-me-beteja-te-vogla/",
-      "description": "Shqiptari nuk merret me beteja të vogla. Nuk merret me ujin që vjen me orar, me faturën e dritave që rritet, me pensionin që mbaron para datës 20, me rrogën që nuk arrin fundin e muajit, me shkollën që boshatiset, me spitalin ku duhet të njohësh dikë apo me gjykatën ku çështja mund të plaket [&#8230",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T11:07:14+00:00",
-      "dateStr": "24 Aug, 11:07",
-      "isNew": true,
-      "id": "24 61787569634"
-    },
-    {
-      "title": "Edhe një herë për të majtët që iu mbajnë flamurin fashistëve në protestë",
-      "link": "https://24-ore.com/edhe-nje-here-per-te-majtet-qe-iu-mbajne-flamurin-fashisteve-ne-proteste/",
-      "description": "Nga Bjorn Runa Pas përplasjeve të javës së kaluar dhe debatit të ditëve të fundit rreth asaj se nga kush financohen ata të cilët paraqiten si organizatorë dhe udhëheqës të protestës, sa vjen dhe bëhet më e qartë se protesta, në formën e saj aktuale, përbëhet kryesisht nga një segment me prirje të qa",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T11:06:24+00:00",
-      "dateStr": "24 Aug, 11:06",
-      "isNew": true,
-      "id": "24 71787569584"
+      "id": "abc61787569975"
     },
     {
       "title": "Të shtëna në ajër në Mullet, arrestohet 53-vjeçari/ Momenti kur kanosi me armë 23-vjeçarin (VIDEO)",
@@ -111,7 +199,7 @@
       "date": "2026-08-24T11:02:37+00:00",
       "dateStr": "24 Aug, 11:02",
       "isNew": true,
-      "id": "abc11787569357"
+      "id": "abc71787569357"
     },
     {
       "title": "Çmenduri në Tiranë, u konfliktua me të riun, 53-vjeçari i shkon te lokali ku po pinte kafe dhe qëllon me armë (Pamjet+emri)",
@@ -133,29 +221,7 @@
       "date": "2026-08-24T11:01:05+00:00",
       "dateStr": "24 Aug, 11:01",
       "isNew": true,
-      "id": "abc21787569265"
-    },
-    {
-      "title": "“Odyssey” dhe “Spider-Man” pushtojnë kinematë gjermane, mbi 100 milionë bileta pritet të shiten në 2026-ën",
-      "link": "https://24-ore.com/odyssey-dhe-spider-man-pushtojne-kinemate-gjermane-mbi-100-milione-bileta-pritet-te-shiten-ne-2026-en/",
-      "description": "BERLIN, 24 gusht /ATSH-DPA/- Më shumë se 100 milionë bileta kinemaje mund të shiten në Gjermani gjatë vitit 2026, për herë të parë që nga pandemia e koronavirusit. Rritja e numrit të shikuesve gjatë gjysmës së parë të vitit, së bashku me suksesin e dy filmave të rinj, “The Odyssey” dhe “Spider-Man: ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T11:00:21+00:00",
-      "dateStr": "24 Aug, 11:00",
-      "isNew": true,
-      "id": "24 81787569221"
-    },
-    {
-      "title": "Filipçe: Jemi gati për zgjedhje që nesër, por nuk do të jemi alibi e Mickoskit",
-      "link": "https://24-ore.com/filipce-jemi-gati-per-zgjedhje-qe-neser-por-nuk-do-te-jemi-alibi-e-mickoskit/",
-      "description": "Kryetari i LSDM-së, Venko Filipçe, tha se partia e tij është gati për zgjedhje, edhe nëse ato mbahen menjëherë, por nuk do të jetë alibi për Hristijan Mickoskin për llogaritjet e tij politike. &#8220;Nuk do të jemi alibi për zgjedhje të parakohshme për kryeministrin Hristijan Mickoski. Është e qartë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T10:55:51+00:00",
-      "dateStr": "24 Aug, 10:55",
-      "isNew": true,
-      "id": "24 91787568951"
+      "id": "abc81787569265"
     },
     {
       "title": "Rrëshqitje dheu në Guine, 30 të vdekur dhe 22 të plagosur",
@@ -166,7 +232,7 @@
       "date": "2026-08-24T10:51:00+00:00",
       "dateStr": "24 Aug, 10:51",
       "isNew": true,
-      "id": "abc31787568660"
+      "id": "abc91787568660"
     },
     {
       "title": "“Ta takoj dhe le të vdes pastaj, jam i çmendur!”, emigranti bën 5 orë rrugë për të parë kryeministrin Rama: Jam me të nderuarin Fatos Nano…",
@@ -180,39 +246,6 @@
       "id": "she11787568480"
     },
     {
-      "title": "Pogaçar nuk fal asgjë/ Çiklisti slloven lufton sërish për fitore në garën e Spanjës",
-      "link": "https://abcnews.al/pogacar-nuk-fal-asgje-ciklisti-slloven-lufton-serish-per-fitore-ne-garen-e-spanjes/",
-      "description": "Me siguri është në formë të madhe. Tadej Pogaçar provoi sërish të fitonte në Vueltën e Spanjës, duke arritur të paktën podiumin në etapën e dytë. Kjo, pas suksesit të vështirë në segmentin e parë, që ishte kronometër individual, me vetëm 9 të qindat ndaj britanikut Etën Hejtër. Çiklisti numër 1 i bo",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T10:35:33+00:00",
-      "dateStr": "24 Aug, 10:35",
-      "isNew": true,
-      "id": "abc41787567733"
-    },
-    {
-      "title": "Shitet topi i “dorës së Zotit”/ Maradona shënoi me të edhe “Golin e Shekullit” në futboll",
-      "link": "https://abcnews.al/shitet-topi-i-dores-se-zotit-maradona-shenoi-me-te-edhe-golin-e-shekullit-ne-futboll/",
-      "description": "Në Dallas u zhvillua një ankand shumëmilionësh për topin ikonik &#8220;Adidas Azteca&#8221;, i përdorur në ndeshjen çerekfinale të Kupës së Botës 1986 mes Argjentinës dhe Anglisë – pikërisht topi me të cilin Diego Armando Maradona shënoi si golin e diskutueshëm të &#8220;Dorës së Zotit&#8221;, ashtu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T10:27:46+00:00",
-      "dateStr": "24 Aug, 10:27",
-      "isNew": true,
-      "id": "abc51787567266"
-    },
-    {
-      "title": "Muçi shërben, Salah shënon/ Futbollisti kuqezi shkëlqen në start në Superligën turke",
-      "link": "https://abcnews.al/muci-sherben-salah-shenon-futbollisti-kuqezi-shkelqen-ne-start-ne-superligen-turke-2/",
-      "description": "E pamundur ta niste më mirë se kaq. Natyrisht, maksimumi do të kishte qenë të shënonte vetë, por kur në skuadër ke një superyll me emrin Mohamed Salah, duhet të jesh tepër I kënaqur me një asist. Këtë bëri Ernest Muçi në daljen e tij të parë në fushë në Superligën turke për këtë sezon. [...]Read Mor",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T10:25:50+00:00",
-      "dateStr": "24 Aug, 10:25",
-      "isNew": true,
-      "id": "abc61787567150"
-    },
-    {
       "title": "Aksion blic në burgun e Fushë-Krujës, sekuestrohet telefoni që dyshohet se përdorej nga Ramazan Rraja",
       "link": "https://shekulli.com.al/2026/08/24/aksion-blic-ne-burgun-e-fushe-krujes-sekuestrohet-telefoni-qe-dyshohet-se-perdorej-nga-ramazan-rraja/",
       "description": "Një operacion i Drejtorisë së Përgjithshme të Burgjeve është zhvilluar në IEVP Fushë-Krujë, ku gjatë kontrolleve është gjetur dhe sekuestruar një aparat celular që dyshohet se i përket të paraburgosurit Ramazan Rraja. Pajisja i është dorëzuar SPAK-ut për ekspertizë. Sipas burimeve, celulari pritet t",
@@ -222,39 +255,6 @@
       "dateStr": "24 Aug, 10:24",
       "isNew": true,
       "id": "she21787567049"
-    },
-    {
-      "title": "Shqipëria Sot me Fabiola Hoxha, (24/08/2026)",
-      "link": "https://abcnews.al/shqiperia-sot-me-fabiola-hoxha-24-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T10:23:45+00:00",
-      "dateStr": "24 Aug, 10:23",
-      "isNew": true,
-      "id": "abc71787567025"
-    },
-    {
-      "title": "Mehmeti, Premier mbetet një “ëndërr”  / Lojtari i Kombëtares mund të largohet nga elita e Anglisë",
-      "link": "https://abcnews.al/mehmeti-premier-mbetet-nje-enderr-lojtari-i-kombetares-mund-te-largohet-nga-elita-e-anglise/",
-      "description": "U duk se e preku qiellin me dorë. Në të vërtetë kjo ndodhi, sepse Anis Mehmeti u ngjit në Premier Ligën angleze, madje në mënyrë tepër të merituar, si protagonist, veçse e ardhmja nuk duket e qartë. Njëri nga lojtarët më të mirë të Ispuiç Taunit në edicionin e kaluar në Championship, u la në [...]Re",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T10:23:04+00:00",
-      "dateStr": "24 Aug, 10:23",
-      "isNew": true,
-      "id": "abc81787566984"
-    },
-    {
-      "title": "Barcelona e nis me “manita”/ Kampionët e Spanjës shkëlqejnë në startin e La Liga",
-      "link": "https://abcnews.al/barcelona-e-nis-me-manita-kampionet-e-spanjes-shkelqejne-ne-startin-e-la-liga/",
-      "description": "Problemet janë pa fund, por ky ekip duket si Anteu. Barcelona ringjallet nga hiri i saj sa herë që rrëzohet në tokë e i del shpirti nga probleme financiare, që nuk po i ndahen prej vitesh. Gjithsesi, kjo nuk e ka penguar të jetë kampione në fuqi e Spanjës, të fitojë 3 nga 4 sezonet [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T10:21:17+00:00",
-      "dateStr": "24 Aug, 10:21",
-      "isNew": true,
-      "id": "abc91787566877"
     },
     {
       "title": "E rëndë në Kurbin, kanosi me armë babanë dhe dy djemtë, arrestohet 34-vjeçari",
