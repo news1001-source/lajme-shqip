@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-08-24T03:50:09.024754+00:00",
+  "lastUpdated": "2026-08-24T04:39:15.466950+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Francezët zbulojnë Pogradecin, çmimet e lira dhe ushqimi tradicional tërheqin turistët",
+      "link": "https://24-ore.com/francezet-zbulojne-pogradecin-cmimet-e-lira-dhe-ushqimi-tradicional-terheqin-turistet/",
+      "description": "Gjergji prej vitesh në qytetin e Pogradecit drejton një biznes të vogël për dhënien me qira të varkave për turistët buzë liqenit. Ai thotë se për këtë vit klientët kryesore që marrin varka me qira për vozitje në liqen janë shtetas të huaj, kryesuar nga francezët, amerikanët dhe italianët. Ndërsa num",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T04:18:33+00:00",
+      "dateStr": "24 Aug, 04:18",
+      "isNew": true,
+      "id": "24 01787545113"
+    },
+    {
+      "title": "Turizmi nuk është “industri të fortësh”, as nuk bëhet vetëm duke numëruar të huajt që hyjnë në vend",
+      "link": "https://24-ore.com/turizmi-nuk-eshte-industri-te-fortesh-as-nuk-behet-vetem-duke-numeruar-te-huajt-qe-hyjne-ne-vend/",
+      "description": "EDITORIAL MONITOR – Shqipëria po përjeton prej disa vitesh një rritje shumë të fortë të turizmit. Nga rreth 6.4 milionë hyrje të shtetasve të huaj në vitin 2019, sot vendi pret mbi 12 milionë. Ky ndryshim nuk ka ardhur rastësisht. Shqipëria ka përmirësuar ndjeshëm imazhin e saj, është promovuar më s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T04:02:26+00:00",
+      "dateStr": "24 Aug, 04:02",
+      "isNew": true,
+      "id": "24 11787544146"
+    },
     {
       "title": "Bota e sportit nderon Kobe Bryant në përkujtim të ditëlindjes së tij",
       "link": "https://24-ore.com/bota-e-sportit-nderon-kobe-bryant-ne-perkujtim-te-ditelindjes-se-tij/",
@@ -12,7 +34,7 @@
       "date": "2026-08-24T03:26:51+00:00",
       "dateStr": "24 Aug, 03:26",
       "isNew": true,
-      "id": "24 01787542011"
+      "id": "24 21787542011"
     },
     {
       "title": "Little League World Series 2026: Rezultatet dhe përmbledhja e ndeshjeve të së dielës",
@@ -23,7 +45,7 @@
       "date": "2026-08-24T03:25:57+00:00",
       "dateStr": "24 Aug, 03:25",
       "isNew": true,
-      "id": "24 11787541957"
+      "id": "24 31787541957"
     },
     {
       "title": "Kampi Memorial “Bernie Parent” frymëzon portierët e rinj të hokejit",
@@ -34,7 +56,7 @@
       "date": "2026-08-24T03:23:36+00:00",
       "dateStr": "24 Aug, 03:23",
       "isNew": true,
-      "id": "24 21787541816"
+      "id": "24 41787541816"
     },
     {
       "title": "Nashville përmbys në fund, Vancouver rikthehet dhe ngjarjet kryesore nga Java e 22-të",
@@ -45,7 +67,7 @@
       "date": "2026-08-24T02:51:47+00:00",
       "dateStr": "24 Aug, 02:51",
       "isNew": true,
-      "id": "24 31787539907"
+      "id": "24 51787539907"
     },
     {
       "title": "Washington Mystics kualifikohen në play-off-et e WNBA 2026 pas fitores ndaj Portlandit",
@@ -56,7 +78,7 @@
       "date": "2026-08-24T02:45:41+00:00",
       "dateStr": "24 Aug, 02:45",
       "isNew": true,
-      "id": "24 41787539541"
+      "id": "24 61787539541"
     },
     {
       "title": "Klay Thompson firmos me Miami Heat pas marrëveshjes së buyout me Mavericks",
@@ -67,7 +89,7 @@
       "date": "2026-08-24T02:41:59+00:00",
       "dateStr": "24 Aug, 02:41",
       "isNew": true,
-      "id": "24 51787539319"
+      "id": "24 71787539319"
     },
     {
       "title": "Si po formohet tabela e play-off në MLB 2026: renditjet dhe rivalitetet kryesore",
@@ -78,7 +100,7 @@
       "date": "2026-08-24T02:41:06+00:00",
       "dateStr": "24 Aug, 02:41",
       "isNew": true,
-      "id": "24 61787539266"
+      "id": "24 81787539266"
     },
     {
       "title": "Klay Thompson firmos me Miami Heat pas blerjes së vitit të fundit të kontratës me Mavericks",
@@ -89,29 +111,7 @@
       "date": "2026-08-24T02:00:51+00:00",
       "dateStr": "24 Aug, 02:00",
       "isNew": true,
-      "id": "24 71787536851"
-    },
-    {
-      "title": "Brendan Donovan i Mariners vendoset në listën shtatëditore të lëndimeve për kokëdhembje pas goditjes në kafazin e stërvitjes",
-      "link": "https://24-ore.com/brendan-donovan-i-mariners-vendoset-ne-listen-shtateditore-te-lendimeve-per-kokedhembje-pas-goditjes-ne-kafazin-e-stervitjes/",
-      "description": "Brendan Donovan, futbollisti shumëfunksional i Seattle Mariners, u godit në kokë nga një top gjatë stërvitjes në kafazin e goditjeve para ndeshjes së së sh...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T01:57:32+00:00",
-      "dateStr": "24 Aug, 01:57",
-      "isNew": true,
-      "id": "24 81787536652"
-    },
-    {
-      "title": "Avery Styles, djali i anëtarit të WWE Hall of Fame AJ Styles, nënshkruan me TNA Wrestling",
-      "link": "https://24-ore.com/avery-styles-djali-i-anetarit-te-wwe-hall-of-fame-aj-styles-nenshkruan-me-tna-wrestling/",
-      "description": "Avery Styles, djali i anëtarit të WWE Hall of Fame, AJ Styles, njoftoi gjatë eventit Lockdown se ka nënshkruar me TNA Wrestling. Ai bëri debutimin si profe...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T01:23:51+00:00",
-      "dateStr": "24 Aug, 01:23",
-      "isNew": true,
-      "id": "24 91787534631"
+      "id": "24 91787536851"
     },
     {
       "title": "Vlorë/ Turistët u larguan të alarmuar, vihet nën kontroll pas 30 minutash zjarri në Ujin e Ftohtë, rrezikoi restorante e hotele",
