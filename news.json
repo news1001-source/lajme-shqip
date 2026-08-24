@@ -1,117 +1,260 @@
 {
-  "lastUpdated": "2026-08-24T18:32:35.545492+00:00",
+  "lastUpdated": "2026-08-24T19:29:15.898041+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Të gjitha It Girls po rikthejnë në modë kufjet me kabëll",
-      "link": "https://24-ore.com/te-gjitha-it-girls-po-rikthejne-ne-mode-kufjet-me-kabell/",
-      "description": "Një aksesor i thjeshtë dhe i papritur po shfaqet gjithnjë e më shpesh në dukjet e yjeve të modës: kufjet e lidhura me kabëll. Ndërsa shumë shtëpi mode dhe...",
+      "title": "Baba i Jayson Tatum e quan përbërjen e Celtics ‘s–t’ dhe parashikon fitoren e Knicks në titullin e NBA 2027",
+      "link": "https://24-ore.com/baba-i-jayson-tatum-e-quan-perberjen-e-celtics-s-t-dhe-parashikon-fitoren-e-knicks-ne-titullin-e-nba-2027/",
+      "description": "Baba i yllit të Boston Celtics, Jayson Tatum, dha një vlerësim të hapur për shanset e skuadrës për sezonin 2026-27 gjatë pjesëmarrjes së tij në podcastin U...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-24T18:30:51+00:00",
+      "date": "2026-08-24T19:25:46+00:00",
+      "dateStr": "24 Aug, 19:25",
+      "isNew": true,
+      "id": "24 01787599546"
+    },
+    {
+      "title": "Protesta në Tiranë vijon në ditën e 86-të, qytetarët përsërisin kërkesat: S’jemi lodhur, qeveria të reflektojë",
+      "link": "https://shekulli.com.al/2026/08/24/protesta-ne-tirane-vijon-ne-diten-e-86-te-qytetaret-perserisin-kerkesat-sjemi-lodhur-qeveria-te-reflektoje/",
+      "description": "Protesta para Kryeministrisë në Tiranë ka hyrë në ditën e 86-të, ndërsa qytetarët vijojnë të mblidhen dhe të kërkojnë plotësimin e kërkesave të tyre. Ata deklaruan se tubimet do të vijojnë deri në realizimin e kërkesave të parashtruara, teksa gjithçka nisi kundër ndërtimeve në zonën e mbrojtur të Na",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-24T19:21:04+00:00",
+      "dateStr": "24 Aug, 19:21",
+      "isNew": true,
+      "id": "she01787599264"
+    },
+    {
+      "title": "“Irani shënjestroi një nga djemtë e mi”, Netanyahu zbulon komplotin e dyshuar",
+      "link": "https://24-ore.com/irani-shenjestroi-nje-nga-djemte-e-mi-netanyahu-zbulon-komplotin-e-dyshuar/",
+      "description": "Kryeministri izraelit, Benjamin Netanyahu, ka deklaruar se Irani është përpjekur të vrasë një nga djemtë e tij ndërsa informacioni për komplotin e dyshuar është mbajtur i fshehtë për disa muaj. Netanyahu e bëri deklaratën gjatë një interviste telefonike me korrespondentin ushtarak të Channel 14, Noa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T19:20:11+00:00",
+      "dateStr": "24 Aug, 19:20",
+      "isNew": true,
+      "id": "24 11787599211"
+    },
+    {
+      "title": "Situata e zjarreve në vend, Ministria e Mbrojtjes: Janë shuar 14 vatra, 6 ende aktive",
+      "link": "https://24-ore.com/situata-e-zjarreve-ne-vend-ministria-e-mbrojtjes-jane-shuar-14-vatra-6-ende-aktive/",
+      "description": "Ministria e Mbrojtjes informon se gjatë ditës së sotme, deri në orën 20:00, situata e zjarreve paraqitet e përmirësuar dhe pa rrezik për zonat e banuara. Janë raportuar 26 vatra zjarri, nga të cilat 6 mbeten aktive, 6 janë nën mbikëqyrje dhe 14 janë shuar. Në operacionet e ditës janë angazhuar 311 f",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T19:19:33+00:00",
+      "dateStr": "24 Aug, 19:19",
+      "isNew": true,
+      "id": "24 21787599173"
+    },
+    {
+      "title": "Patriots bien dakord për të shkëmbyer Kayshon Boutte te Texans",
+      "link": "https://24-ore.com/patriots-bien-dakord-per-te-shkembyer-kayshon-boutte-te-texans/",
+      "description": "New England Patriots kanë rënë dakord të shkëmbejnë këndëshënuesin Kayshon Boutte te Houston Texans, në këmbim të mbrojtësit Jaylen Reed dhe një zgjedhjeje...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T19:16:52+00:00",
+      "dateStr": "24 Aug, 19:16",
+      "isNew": true,
+      "id": "24 31787599012"
+    },
+    {
+      "title": "Alket Islami për “Summer Time Show”: Lezha dhe Shëngjini, zona që duhet zbuluar nga lart",
+      "link": "https://abcnews.al/alket-islami-per-summer-time-show-lezha-dhe-shengjini-zona-qe-duhet-zbuluar-nga-lart/",
+      "description": "Në një intervistë për “Summer Time Show”, Alket Islami foli për edicionin e 15-të “Open Air”, ku e përzgjedhura për këtë vit është Lezha. Ai e cilësoi zonën mbresëlënëse, sidomos kur shihet nga lart, ndërsa theksoi edhe rolin që kanë pasur eventet e tyre në promovimin e Shqipërisë. Islami tregoi gji",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T19:15:49+00:00",
+      "dateStr": "24 Aug, 19:15",
+      "isNew": true,
+      "id": "abc01787598949"
+    },
+    {
+      "title": "‘Jam i shokuar, duket sikur po flasim për një person krejt tjetër”, shoku i Altinit flet pas ngjarjes që tronditi Greqi",
+      "link": "https://24-ore.com/jam-i-shokuar-duket-sikur-po-flasim-per-nje-person-krejt-tjeter-shoku-i-altinit-flet-pas-ngjarjes-qe-tronditi-greqi/",
+      "description": "Pozonte me armë, ekspozonte aftësitë e tij në artet marciale dhe publikonte në rrjetet sociale tufa me kartëmonedha 50-euroshe. 48-vjeçari me origjinë shqiptare vrau me gjakftohtësi ish-partneren e tij, nënë e një vajze të mitur. “(Disa) burra janë kriminelë. Nuk janë njerëz. Janë… çfarë të them?”, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T19:05:54+00:00",
+      "dateStr": "24 Aug, 19:05",
+      "isNew": true,
+      "id": "24 41787598354"
+    },
+    {
+      "title": "Del foto e Prelë dhe Lekë Gjonit, babë e bir që u ekzekutuan në Dukagjin",
+      "link": "https://24-ore.com/del-foto-e-prele-dhe-leke-gjonit-babe-e-bir-qe-u-ekzekutuan-ne-dukagjin/",
+      "description": "Është publikuar fotoja e Prelë Gjonit, 82 vjeç, dhe djalit të tij, Lekë Gjonit, 57 vjeç, babë e bir që mbetën të vrarë në atentatin e rëndë të ndodhur një ditë më parë në Dukagjin. Dy viktimat po udhëtonin me automjet drejt zonës së Grudës, pasi kishin qenë në banesën e tyre të vjetër në [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T19:05:30+00:00",
+      "dateStr": "24 Aug, 19:05",
+      "isNew": true,
+      "id": "24 51787598330"
+    },
+    {
+      "title": "Dudaev i sjell Shqipërisë medaljen e artë në “Taranto 2026”, Rama: Një ditë historike!",
+      "link": "https://abcnews.al/dudaev-i-sjell-shqiperise-medaljen-e-arte-ne-taranto-2026-rama-nje-dite-historike/",
+      "description": "Kryeministri Edi Rama ka reaguar pas suksesit të sportistit Islam Dudaev, i cili fitoi medaljen e artë në Lojërat Mesdhetare Taranto 2026. Rama e cilësoi këtë një moment historik për Shqipërinë, pasi Dudaev i dhuroi vendit medaljen e parë të artë në këto lojëra. “Medalja e parë e arit për Shqipërinë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T19:01:56+00:00",
+      "dateStr": "24 Aug, 19:01",
+      "isNew": true,
+      "id": "abc11787598116"
+    },
+    {
+      "title": "Deklarata e fortë e Benjamin Netanyahu: Irani tentoi të më vriste djalin!",
+      "link": "https://shekulli.com.al/2026/08/24/deklarata-e-forte-e-benjamin-netanyahu-irani-tentoi-te-me-vriste-djalin/",
+      "description": "Kryeministri izraelit Benjamin Netanyahu ka bërë një deklaratë të fortë, teksa tha  se Irani tentoi të vriste djali ne tij. Sipas kryeministrit izraelit, informacioni për komplotin ishte mbajtur i fshehtë për muaj të tërë, ndërsa theksoi se kërcënimi ndaj familjes së tij është një nga arsyet përse a",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-24T19:01:40+00:00",
+      "dateStr": "24 Aug, 19:01",
+      "isNew": true,
+      "id": "she11787598100"
+    },
+    {
+      "title": "KOMENT – Trump kërcënon me tarifa 50% për makinat kanadeze, ndërsa lufta tregtare përshkallëzohet",
+      "link": "https://24-ore.com/koment-trump-kercenon-me-tarifa-50-per-makinat-kanadeze-ndersa-lufta-tregtare-pershkallezohet/",
+      "description": "UASHIGNTON, 24 gusht /ATSH-DPA/ – Presidenti i SHBA-së, Donald Trump, përshkallëzoi sot luftën tregtare të vendit me Kanadanë duke kërcënuar të rrisë tarifat për një gamë të gjerë importesh të mëdha kanadeze në 50% nga 1 janari 2027. ”Tarifat për makinat, kamionët e mëdhenj dhe të vegjël, pjesët e a",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T19:01:25+00:00",
+      "dateStr": "24 Aug, 19:01",
+      "isNew": true,
+      "id": "24 61787598085"
+    },
+    {
+      "title": "Shën Kozmai, ‘Apostulli i ri’ që predikoi krishtërimin në Shqipërinë e pushtuar nga Osmanët. Mijëra orthodhoksë e nderojnë në Kolkondas të Fierit",
+      "link": "https://shekulli.com.al/2026/08/24/shen-kozmai-apostulli-i-ri-qe-predikoi-krishterimin-ne-shqiperine-e-pushtuar-nga-osmanet-mijera-orthodhokse-e-nderojne-ne-kolkondas-te-fierit/",
+      "description": "FIER &#8211; Mijëra besimtarë të krishterë orthodhoksë nga qytete të ndryshme të Shqipërisë, si dhe nga rajoni, janë mbledhur këtë të hënë në Manastirin e ‘Shën Kozmait’ në Kolkondas të Libofshës, për të marrë pjesë në ceremonitë fetare kushtuar shenjtorit. Pelegrinazhi ka nisur që mbrëmjen e së die",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-24T19:01:24+00:00",
+      "dateStr": "24 Aug, 19:01",
+      "isNew": true,
+      "id": "she21787598084"
+    },
+    {
+      "title": "Letonia dhe Lituania u goditën nga stuhia, dy viktima dhe 200 mijë familje pa energji elektrike",
+      "link": "https://abcnews.al/letonia-dhe-lituania-u-goditen-nga-stuhia-dy-viktima-dhe-200-mije-familje-pa-energji-elektrike/",
+      "description": "Dhjetëra mijëra familje mbetën sot pa energji elektrike në Letoni dhe Lituani, pasi dy vendet baltike u goditën nga stuhia më e rëndë e verës në historinë e kohëve të fundit. ”Energjia elektrike ende nuk është rikthyer në më shumë se 120 000 familje në Lituani”, tha operatori kombëtar të hënën në më",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T19:00:02+00:00",
+      "dateStr": "24 Aug, 19:00",
+      "isNew": true,
+      "id": "abc21787598002"
+    },
+    {
+      "title": "“Askush nuk guxon t’ju rrahë”, Kuçi krahason deklaratat e Vuçiqit në Preshevë me ato të Millosheviqit në Fushë Kosovë",
+      "link": "https://24-ore.com/askush-nuk-guxon-tju-rrahe-kuci-krahason-deklaratat-e-vuciqit-ne-presheve-me-ato-te-millosheviqit-ne-fushe-kosove/",
+      "description": "Eksperti i çështjeve të sigurisë, Gurakuç Kuçi, ka reaguar ndaj deklaratës së presidentit serb, Aleksandar Vuçiq, gjatë një vizite në Luginën e Preshevës, ku një qytetari i premtoi se brenda 48 orësh ai ose djali i tij do të kontaktohej për mundësinë e punësimit në Agjencinë e Informacionit dhe Sigu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T18:54:34+00:00",
+      "dateStr": "24 Aug, 18:54",
+      "isNew": true,
+      "id": "24 71787597674"
+    },
+    {
+      "title": "Horoskopi ditor për nesër, e Martë 25 Gusht 2026",
+      "link": "https://24-ore.com/horoskopi-ditor-per-neser-e-marte-25-gusht-2026/",
+      "description": "Dashi Mos e lini për asnjë moment pas dore partnerin tuaj sot sepse mund t’iu lindin debate dhe mosmarrëveshje te mëdha me vone. Beqaret do ndihen me te sigurte ne hapat qe do hedhin dhe gjithçka do ju ece ashtu si e kishin ëndërruar. Hëna dhe Plutoni do favorizojnë gjate gjithë kohës financat. Do j",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T18:48:40+00:00",
+      "dateStr": "24 Aug, 18:48",
+      "isNew": true,
+      "id": "24 81787597320"
+    },
+    {
+      "title": "Chicago Fire huazon mbrojtësin Christopher Cupps te Greenock Morton",
+      "link": "https://24-ore.com/chicago-fire-huazon-mbrojtesin-christopher-cupps-te-greenock-morton/",
+      "description": "Chicago Fire huazoi mbrojtësin e rritur në klub, Christopher Cupps, te skuadra skoceze Greenock Morton FC për pjesën e mbetur të vitit 2026. 18-vjeçari, qe...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T18:45:33+00:00",
+      "dateStr": "24 Aug, 18:45",
+      "isNew": true,
+      "id": "24 91787597133"
+    },
+    {
+      "title": "A preken shqiptarët? Kryetarja e “AfD”: Nëse marrim pushtetin dëbojmë emigrantët, dalim nga “Schengen” dhe eurozona",
+      "link": "https://shekulli.com.al/2026/08/24/a-preken-shqiptaret-kryetarja-e-afd-nese-marrim-pushtetin-debojme-emigrantet-dalim-nga-schengen-dhe-eurozona/",
+      "description": "Ekstremi i djathtë duket se po forcohet gjithmonë e më shumë në Gjermani, ku sondazhet e fundit e tregojnë partinë “Alternativa për Gjermaninë (AfD)” kryesuese. Teksa foli për këto rezultate, bashkëkryetarja e AfD, Alice Weidel paraqiti dhe premtimet që zotohet të plotësojë, nëse merr pushtetin. Dal",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-24T18:43:23+00:00",
+      "dateStr": "24 Aug, 18:43",
+      "isNew": true,
+      "id": "she31787597003"
+    },
+    {
+      "title": "Edicioni Qendror me Juli Krisafi, (24/08/2026)",
+      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-24-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T18:42:56+00:00",
+      "dateStr": "24 Aug, 18:42",
+      "isNew": true,
+      "id": "abc31787596976"
+    },
+    {
+      "title": "Netanyahu: Irani u përpoq të vriste një nga djemtë e mi",
+      "link": "https://abcnews.al/netanyahu-irani-u-perpoq-te-vriste-nje-nga-djemte-e-mi/",
+      "description": "Kryeministri izraelit Benjamin Netanyahu zbuloi se Irani dyshohet se është përpjekur të vrasë një nga djemtë e tij. Netanyahu tha se informacioni për komplotin ishte mbajtur i fshehtë për muaj të tërë, ndërsa theksoi se kërcënimi ndaj familjes së tij është një nga arsyet përse ajo vijon të ketë mbro",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T18:40:55+00:00",
+      "dateStr": "24 Aug, 18:40",
+      "isNew": true,
+      "id": "abc41787596855"
+    },
+    {
+      "title": "“Tirana Live” me Rovena Neziri, (24/08/2026)",
+      "link": "https://abcnews.al/tirana-live-me-rovena-neziri-24-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T18:37:09+00:00",
+      "dateStr": "24 Aug, 18:37",
+      "isNew": true,
+      "id": "abc51787596629"
+    },
+    {
+      "title": "Përmirësohet situata me zjarret në vend, sot u raportuan 26 vatra, 6 mbeten aktive",
+      "link": "https://shekulli.com.al/2026/08/24/permiresohet-situata-me-zjarret-ne-vend-sot-u-raportuan-26-vatra-6-mbeten-aktive/",
+      "description": "Ministria e Mbrojtjes informon se gjatë ditës së sotme, deri në orën 20:00, situata e zjarreve paraqitet e përmirësuar dhe pa rrezik për zonat e banuara. Janë raportuar 26 vatra zjarri, nga të cilat 6 mbeten aktive, 6 janë nën mbikëqyrje dhe 14 janë shuar. Në operacionet e ditës janë angazhuar 311 f",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-24T18:35:27+00:00",
+      "dateStr": "24 Aug, 18:35",
+      "isNew": true,
+      "id": "she41787596527"
+    },
+    {
+      "title": "Rriten eksportet, Prince Caffe depërton në mbi 40 shtete (VIDEO)",
+      "link": "https://abcnews.al/rriten-eksportet-prince-caffe-deperton-ne-mbi-40-shtete-video/",
+      "description": "Fabrika e Prince Caffe, pjesë e Devolli Corporation, po vazhdon të thyejë dita-ditës rekorde me eksportet e produkteve jashtë vendit. Madje, tashmë Princi nuk po njeh as kufinjë, duke e çuar shijen e tyre edhe deri në kontinentet më të largëta. Ngarkimi i kamionëve të shumtë për t’u nisur drejt cepe",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T18:35:23+00:00",
+      "dateStr": "24 Aug, 18:35",
+      "isNew": true,
+      "id": "abc61787596523"
+    },
+    {
+      "title": "Rama “skicon” Shqipërinë Sociale/ Kryeministri paralajmëroi një sërë nismash për strehimin dhe çmimet: Nis raport i ri qytetar-shtet dhe shtet-qytetar",
+      "link": "https://abcnews.al/rama-skicon-shqiperine-sociale-kryeministri-paralajmeroi-nje-sere-nismash-per-strehimin-dhe-cmimet-nis-raport-i-ri-qytetar-shtet-dhe-shtet-qytetar/",
+      "description": "Reflektimet, mësimet, protestat dhe mangësitë kanë nxjerrë në një konkluzion, Shqipërinë Sociale. Ky është vizioni i ri i kryeministrit Rama në fund të retreatit në Pogradec, pas takimeve me qeverinë, drejtuesit e PS dhe ata të administratës publike. &#8220;Ne duhet të bëjmë një Shqipëri Sociale. Sa",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T18:30:22+00:00",
       "dateStr": "24 Aug, 18:30",
       "isNew": true,
-      "id": "24 01787596251"
-    },
-    {
-      "title": "Ushtarët amerikanë aterojnë me dy Black Hawk në fabrikën Frutex",
-      "link": "https://24-ore.com/ushtaret-amerikane-aterojne-me-dy-black-hawk-ne-fabriken-frutex/",
-      "description": "Sot, kompania Frutex pati disa mysafirë të veçantë. Ajo priti 25 ushtarë të aviacionit amerikan në kuadër të KFOR-it. Edhe më të veçantë këtë vizitë e bëri mënyra e arritjes së tyre: ushtarët ateruan në ambientet e kompanisë me dy helikopterë të tipit Black Hawk. Gjatë vizitës, ata patën mundësinë t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T18:29:34+00:00",
-      "dateStr": "24 Aug, 18:29",
-      "isNew": true,
-      "id": "24 11787596174"
-    },
-    {
-      "title": "Mbledhja e qeverisë në Pogradec, Lamallari: Prioritet, siguria publike dhe modernizimi i Policisë së Shtetit",
-      "link": "https://24-ore.com/mbledhja-e-qeverise-ne-pogradec-lamallari-prioritet-siguria-publike-dhe-modernizimi-i-policise-se-shtetit/",
-      "description": "Ministri i Punëve të Brendshme Besfort Lamallari ka bërë të ditur se në takimin me kryeministrin Rama ka prezantuar disa prioritetet e panegociueshme në vazhdim, me fokus sigurinë publike, modernizimin e Policisë së Shtetit, luftën kundër paligjshmërisë dhe rritjen e standardeve të shërbimit ndaj qy",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T18:19:56+00:00",
-      "dateStr": "24 Aug, 18:19",
-      "isNew": true,
-      "id": "24 21787595596"
-    },
-    {
-      "title": "Deputeti i PDK-së kërkon bashkëqeverisje me LVV-në: Koha për të lëvizur përpara është tani",
-      "link": "https://24-ore.com/deputeti-i-pdk-se-kerkon-bashkeqeverisje-me-lvv-ne-koha-per-te-levizur-perpara-eshte-tani/",
-      "description": "Mustafa ka thënë se “koha për të lëvizur përpara është tani”, duke e cilësuar PDK-në si një faktor balancues përmes një koalicioni që, sipas tij, do të kontribuonte në normalizimin dhe funksionimin e shtetit. “Koha për të lëvizur përpara është TANI! Mbi bazën e rrënjëve tona të forta dhe vlerave që ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T18:19:50+00:00",
-      "dateStr": "24 Aug, 18:19",
-      "isNew": true,
-      "id": "24 31787595590"
-    },
-    {
-      "title": "FOKUS – Topi ”Dora e Zotit” i Maradonës shitet 3,35 milionë dollarë",
-      "link": "https://24-ore.com/fokus-topi-dora-e-zotit-i-maradones-shitet-335-milione-dollare/",
-      "description": "LONDËR, 24 gusht /ATSH-DPA/ – Topi i futbollit me të cilin Diego Maradona shënoi golin e tij ”Dora e Zotit” kundër Anglisë në Kupën e Botës 1986 është shitur në ankand për 3,35 milionë dollarë. Çmimi i shitjes i arritur nga ”Heritage Auctions” në Shtetet e Bashkuara ishte afërsisht 6,7 milionë dolla",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T18:16:24+00:00",
-      "dateStr": "24 Aug, 18:16",
-      "isNew": true,
-      "id": "24 41787595384"
-    },
-    {
-      "title": "Fjalëkryqi politik i Tiranës",
-      "link": "https://24-ore.com/fjalekryqi-politik-i-tiranes/",
-      "description": "Nga Ylli Pata Përtej zhurmës, trazirave politike që marrin një tjetër dimension në alegoritmin e rrjeteve, ka një problem, në realitet një “stand off” politik që është kyçi i zhvillimit politik shqiptar. Aq sa mund të jetë barometri i një ndryshimi politik jo vetëm në statusquo-në e asaj që politika",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T18:04:52+00:00",
-      "dateStr": "24 Aug, 18:04",
-      "isNew": true,
-      "id": "24 51787594692"
-    },
-    {
-      "title": "Ekipi i Javës pas Matchday 22: Griezmann vendimtar, Pereyra shkëlqen me rabona",
-      "link": "https://24-ore.com/ekipi-i-javes-pas-matchday-22-griezmann-vendimtar-pereyra-shkelqen-me-rabona/",
-      "description": "Matchday 22 solli momente dramatike në fund të ndeshjeve dhe gola me cilësi të lartë, që përcaktuan emrat e përfshirë në Ekipin e Javës. Sulmet e Antoine G...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T18:02:02+00:00",
-      "dateStr": "24 Aug, 18:02",
-      "isNew": true,
-      "id": "24 61787594522"
-    },
-    {
-      "title": "Lojërat Mesdhetare/ Dy medalje për Shqipërinë, mundësi Dudaev siguron të artën",
-      "link": "https://24-ore.com/lojerat-mesdhetare-dy-medalje-per-shqiperine-mundesi-dudaev-siguron-te-arten/",
-      "description": "Sporti i mundjes i ka dhuruar Shqipërisë dy medalje në Lojërat Mesdhetare “Taranto 2026”. Islam Dudaev arriti të fitonte medaljen e artë në peshën deri në 74 kg të stilit të lirë pas një dominimi të plotë. Në ndeshjen finale, mundësi kuqezi udhëhiqte 4-0 përballë Fati Vejselit nga Maqedonia e Veriut",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T18:01:46+00:00",
-      "dateStr": "24 Aug, 18:01",
-      "isNew": true,
-      "id": "24 71787594506"
-    },
-    {
-      "title": "“Jam e traumatizuar”, Khloé Kardashian rrëfen përvojën e saj me aktrimin",
-      "link": "https://24-ore.com/jam-e-traumatizuar-khloe-kardashian-rrefen-pervojen-e-saj-me-aktrimin/",
-      "description": "Khloé Kardashian nuk ka ndërmend të ndjekë hapat e motrave të saj në botën e aktrimit. Themeluesja e “Good American” ka rrëfyer se, ndonëse mori pjesë në një kurs aktrimi gjatë sezonit të tretë të “Keeping Up With the Kardashians”, ajo nuk ka aspirata për t’u bërë aktore, ndryshe nga motrat e saj Ki",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T18:01:27+00:00",
-      "dateStr": "24 Aug, 18:01",
-      "isNew": true,
-      "id": "24 81787594487"
-    },
-    {
-      "title": "Dalin të dhënat e raportit të FAO-s: Sa shqiptarë përballen me pasiguri ushqimore?",
-      "link": "https://24-ore.com/dalin-te-dhenat-e-raportit-te-fao-s-sa-shqiptare-perballen-me-pasiguri-ushqimore/",
-      "description": "Rreth 1 në 3 shqiptarë përballet me pasiguri ushqimore të moderuar ose të rëndë, sipas vlerësimit të FAO-s për periudhën 2023–2025. Megjithëse treguesi është përmirësuar me 1.2 pikë përqindjeje brenda një viti, Shqipëria vijon të ketë një nivel dukshëm më të lartë krahasuar me Europën dhe vendet e t",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T17:59:58+00:00",
-      "dateStr": "24 Aug, 17:59",
-      "isNew": true,
-      "id": "24 91787594398"
+      "id": "abc71787596222"
     },
     {
       "title": "Shoqata e Prokurorëve të Shqipërisë pranohet si anëtare me të drejta të plota e Shoqatës Ndërkombëtare të Prokurorëve",
@@ -122,7 +265,7 @@
       "date": "2026-08-24T17:59:53+00:00",
       "dateStr": "24 Aug, 17:59",
       "isNew": true,
-      "id": "she01787594393"
+      "id": "she51787594393"
     },
     {
       "title": "Foto/ U ekzekutuan me breshëri plumbash, këta janë babë e bir që u vranë në Dukagjin",
@@ -133,7 +276,7 @@
       "date": "2026-08-24T17:56:15+00:00",
       "dateStr": "24 Aug, 17:56",
       "isNew": true,
-      "id": "she11787594175"
+      "id": "she61787594175"
     },
     {
       "title": "“Gjurmën në hundë nuk e kam nga…”/ Rama u përgjigjet komentuesve: E mbaj për këtë vend! (Video)",
@@ -144,7 +287,7 @@
       "date": "2026-08-24T17:42:53+00:00",
       "dateStr": "24 Aug, 17:42",
       "isNew": true,
-      "id": "she21787593373"
+      "id": "she71787593373"
     },
     {
       "title": "“Zgjidhni presidentin, po rrezikoni shtetin”/ Ish-kongresmeni amerikan, DioGuardi, mesazh për Kosovën",
@@ -155,7 +298,7 @@
       "date": "2026-08-24T17:39:13+00:00",
       "dateStr": "24 Aug, 17:39",
       "isNew": true,
-      "id": "abc01787593153"
+      "id": "abc81787593153"
     },
     {
       "title": "Edi Rama pas takimit me kabinetin qeveritar: Nuk kemi pasur asnjëherë opozitë të na sfidojë realisht, e bëri vetëm protesta qytetare",
@@ -166,7 +309,7 @@
       "date": "2026-08-24T17:38:49+00:00",
       "dateStr": "24 Aug, 17:38",
       "isNew": true,
-      "id": "she31787593129"
+      "id": "she81787593129"
     },
     {
       "title": "“Do të rikthehem pa pasur më nevojë të tregoj pasaportën”, Gonzato i jep lamtumirën Shqipërisë pas tre vitesh",
@@ -177,7 +320,7 @@
       "date": "2026-08-24T17:31:25+00:00",
       "dateStr": "24 Aug, 17:31",
       "isNew": true,
-      "id": "she41787592685"
+      "id": "she91787592685"
     },
     {
       "title": "Vrasja në Athinë, flet gruaja e autorit: Kishte ndryshuar sjelljen, largohej nga shtëpia dhe ishte i dhunshëm",
@@ -188,150 +331,7 @@
       "date": "2026-08-24T17:23:18+00:00",
       "dateStr": "24 Aug, 17:23",
       "isNew": true,
-      "id": "abc11787592198"
-    },
-    {
-      "title": "Nga atentati në Shkodër tek krimet e pasionit në Kosovë e Greqi, 5 shqiptarë viktima në orët e fundit! Ngjarjet që tronditën vendin",
-      "link": "https://shekulli.com.al/2026/08/24/nga-atentati-ne-shkoder-tek-krimet-e-pasionit-ne-kosove-e-greqi-5-shqiptare-viktima-ne-oret-e-fundit-ngjarjet-qe-tronditen-vendin/",
-      "description": "24 orët e fundit regjistruan një bilanc të rëndë, teksa 5 shqiptarë humbën jetën. Nga Shqipëria, në Kosovë e deri në Greqi, u regjistruan 3 ngjarje tronditëse. Në Dukagjin të Shkodrës, babë e bir, Prel dhe Lekë Gjoni, 82 dhe 57 vjeç, u ekzekutuan me breshëri plumbash. Me ta ishte dhe një person i tr",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T17:18:41+00:00",
-      "dateStr": "24 Aug, 17:18",
-      "isNew": true,
-      "id": "she51787591921"
-    },
-    {
-      "title": "Taranto 2026/ Mundësi Islam Dudaev i jep Shqipërisë medaljen e parë të artë në Lojërat Mesdhetare",
-      "link": "https://shekulli.com.al/2026/08/24/taranto-2026-mundesi-islam-dudaev-i-jep-shqiperise-medaljen-e-pare-te-arte-ne-lojerat-mesdhetare/",
-      "description": "ITALI &#8211; Shqipëria ka siguruar medaljen e parë të artë në Lojërat Mesdhetare “Taranto 2026”, falë mundësit Islam Dudaev. Dudaev triumfoi të hënën në kategorinë deri në 74 kilogramë, në stilin e lirë, pasi kundërshtari i tij në finale, shqiptari që përfaqëson Maqedoninë e Veriut, Fati Vejseli, u",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T17:13:32+00:00",
-      "dateStr": "24 Aug, 17:13",
-      "isNew": true,
-      "id": "she61787591612"
-    },
-    {
-      "title": "Nga komentet te historia personale/ “Merren me shtrembërimin e hundës”, Rama: Kjo është një shenjë që trupi im do ta mbajë gjithë jetën”",
-      "link": "https://abcnews.al/nga-komentet-te-historia-personale-merren-me-shtremberimin-e-hundes-rama-kjo-eshte-nje-shenje-qe-trupi-im-do-ta-mbaje-gjithe-jeten/",
-      "description": "Kryeministri Edi Rama, gjatë komunikimit live në rrjetet sociale pas përfundimit të mbledhjes dyditore të qeverisë në Pogradec, ka ironizuar komentet që bëhen në rrjetet sociale për shtrembërimin e hundës së tij. Rama tha se shenja në fytyrën e tij është pasojë e një dhune të ushtruar ndaj tij vite ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T17:05:45+00:00",
-      "dateStr": "24 Aug, 17:05",
-      "isNew": true,
-      "id": "abc21787591145"
-    },
-    {
-      "title": "Video/ Mbledhja me ministrat, Rama zbardh detaje: Qasje e re për Reformën Territoriale! “BESA” në qendër të qeverisjes",
-      "link": "https://shekulli.com.al/2026/08/24/video-mbledhja-me-ministrat-rama-zbardh-detaje-qasje-e-re-per-reformen-territoriale-besa-ne-qender-te-qeverisjes/",
-      "description": "Kryeministri Edi Rama ka reaguar në lidhje me mbledhjen e zhvillaur ditqn e sotme në vilën qeveritare, në Pogradec. Në një video të publikuar në rrjetet sociale, Rama tregon çështjet kryesore të diskutuara, teksa thekson se Partia Socialiste do të vijë me një qasje të re ndaj Reformës Territoriale. ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T17:05:05+00:00",
-      "dateStr": "24 Aug, 17:05",
-      "isNew": true,
-      "id": "she71787591105"
-    },
-    {
-      "title": "“Sfida është cilësia e jetës, jo mbijetesa’, Rama: Protesta? Një dhuratë e madhe! Nga kjo vorbull qytetarët do të dalin më të fortë",
-      "link": "https://abcnews.al/sfida-eshte-cilesia-e-jetes-jo-mbijetesa-rama-protesta-nje-dhurate-e-madhe-nga-kjo-vorbull-qytetaret-do-te-dalin-me-te-forte/",
-      "description": "Kryeministri Edi Rama ka komentuar edhe protestat që po zhvillohen në bulevard, pranë zyrës së tij, &#8220;E kuptoj shumë mirë që ajo çfarë ka ndodhur në këtë periudhë ka gërryer një pjesë të një lumi të kësaj qeverisjeje dhe të raportit të qytetarit me shtetin, me qeverisjen, por jam i bindur se, s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T17:00:50+00:00",
-      "dateStr": "24 Aug, 17:00",
-      "isNew": true,
-      "id": "abc31787590850"
-    },
-    {
-      "title": "Rama: Qasja e re e qeverisë, kemi konsoliduar disa pozicione!",
-      "link": "https://abcnews.al/rama-qasja-e-re-e-qeverise-kemi-konsoliduar-disa-pozicione/",
-      "description": "Kryeministri Edi Rama i është drejtuar publikut përmes një videoje live pas përfundimit të takimit dyditor me ministrat në Pogradec, ku foli për përfundimet e mbledhjes dhe prioritetet e qeverisë për vijimësinë e mandatit. Rama deklaroi se gjatë takimit janë konsoliduar disa prej pozicioneve të qeve",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T16:50:12+00:00",
-      "dateStr": "24 Aug, 16:50",
-      "isNew": true,
-      "id": "abc41787590212"
-    },
-    {
-      "title": "“Përmirësojmë qeverisjen”, Rama: Shqipëria nuk ka qenë kurrë më e vlerësuar ndërkombëtarisht",
-      "link": "https://abcnews.al/permiresojme-qeverisjen-rama-shqiperia-nuk-ka-qene-kurre-me-e-vleresuar-nderkombetarisht/",
-      "description": "“Përmirësojmë qeverisjen”, kështu u shpreh kryeministri Edi Rama ndërsa zhvilloi në komunikim live me ndjekësit në Facebook, pas mbledhjes dyditore në Pogradec “Qeverisja do përmirësohet, nuk ka se si të ndodhë ndryshe. Ka qenë vërtet një dhuratë ajo që ka ndodhur. Nuk na mjaftojmë ato që janë bërë,",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T16:45:28+00:00",
-      "dateStr": "24 Aug, 16:45",
-      "isNew": true,
-      "id": "abc51787589928"
-    },
-    {
-      "title": "Kryeministri flet pas mbledhjes dyditore në Pogradec/ “Transparencë për qytetarin”, Rama: “Besa”, prioritet i qeverisë! Fokus te arsimi, shëndetësia e çmimet",
-      "link": "https://abcnews.al/kryeministri-flet-pas-mbledhjes-dyditore-ne-pogradec-transparence-per-qytetarin-rama-besa-prioritet-i-qeverise-fokus-te-arsimi-shendetesia-e-cmimet/",
-      "description": "Pas përfundimit të mbledhjes së qeverisë në Pogradec, kryeministri Edi Rama ka zhvilluar edhe një komunikim me ndjekësit në Facebook. Ai theksoi se tashmë “Besa” është prioritet i qeverisë dhe se “Pasqyrë Albania” do të jetë një mundësi ku qytetari do të informohet në kohë reale”. “Shkon qeveria te ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T16:39:51+00:00",
-      "dateStr": "24 Aug, 16:39",
-      "isNew": true,
-      "id": "abc61787589591"
-    },
-    {
-      "title": "Përfundon takimi i Ramës me ministrat! Ja çfarë ndodhi brenda vilës qeveritare në Pogradec",
-      "link": "https://shekulli.com.al/2026/08/24/perfundon-takimi-i-rames-me-ministrat-ja-cfare-ndodhi-brenda-viles-qeveritare-ne-pogradec/",
-      "description": "Ka përfunduar takimi i kryeministrit Edi Rama me kabinetin qeveritar, në qytetin e Pogradecit. &#160; Takimi, i cili nisi rreth orës 11:00 dhe përfundoi rreth orës 18:00, kishte në fokus qasjen e re që qeveria do të ketë në këtë vit të dytë të mandatit të katërt në raport me shërbimet ndaj qytetarëv",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T16:38:58+00:00",
-      "dateStr": "24 Aug, 16:38",
-      "isNew": true,
-      "id": "she81787589538"
-    },
-    {
-      "title": "Ndryshime në ligjin e policisë, nuk ka konkurs për drejtorët vendore dhe shefat e komisariateve",
-      "link": "https://abcnews.al/ndryshime-ne-ligjin-e-policise-nuk-ka-konkurs-per-drejtoret-vendore-dhe-shefat-e-komisariateve/",
-      "description": "Prej ditës së sotme, me hyrjen në fuqi të ndryshimeve në ligjin për Policinë e Shtetit, Drejtori i Përgjithshëm i Policisë do të ketë kompetencë të kryejë ndryshime në nivelin e drejtorive vendore dhe komisariateve. Mënyra e emërimit të drejtuesve të drejtorive vendore dhe komisariateve nuk do të je",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T16:35:24+00:00",
-      "dateStr": "24 Aug, 16:35",
-      "isNew": true,
-      "id": "abc71787589324"
-    },
-    {
-      "title": "“Pasqyra Albania”, platforma e qytetarëve”/ Albatros Rexhaj: Rama është i sinqertë në reflektimin e tij, duhet afrim me qytetarët!",
-      "link": "https://abcnews.al/pasqyra-albania-platforma-e-qytetareve-albatros-rexhaj-rama-eshte-i-sinqerte-ne-reflektimin-e-tij-duhet-afrim-me-qytetaret/",
-      "description": "Analisti Albatros Rexhaj komentoi zhvillimet e fundit politike në vend, duke u ndalur te takimi dyditor i kryeministrit Edi Rama në Pogradec dhe diskutimet për afrimin e qeverisë me qytetarët. Rexhaj u ndal te platforma e qytetarëve &#8220;Pasqyra Albania&#8221;, duke e cilësuar mbledhjen dhe përfsh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T16:33:28+00:00",
-      "dateStr": "24 Aug, 16:33",
-      "isNew": true,
-      "id": "abc81787589208"
-    },
-    {
-      "title": "Foto/ Kujdes! Skema e re e mashtrimit që shënjestron qytetarët shqiptarë, ja për çfarë bëhet fjalë",
-      "link": "https://shekulli.com.al/2026/08/24/foto-kujdes-skema-e-re-e-mashtrimit-qe-shenjestron-qytetaret-shqiptare-ja-per-cfare-behet-fjale/",
-      "description": "Duket se një skemë e re mashtrimi, që shënjestron qytetarët ka nisur në vendin tonë. Në rrjetet sociale, kryesisht në Facebook, shfaqen reklama (Ads) të cilët synojnë të shtyjnë përdoruesit të hapin faqe të pasigurta dhe mashtruese, ku u kërkohet të fusin të dhënat e tyre bankare, me justifikimin se",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T16:24:13+00:00",
-      "dateStr": "24 Aug, 16:24",
-      "isNew": true,
-      "id": "she91787588653"
-    },
-    {
-      "title": "Përfundon mbledhja e qeverisë/ Dita e dytë e takimit në Pogradec, ministrat prezantuan punën dhe prioritetet",
-      "link": "https://abcnews.al/perfundon-mbledhja-e-qeverise-dita-e-dyte-e-takimit-ne-pogradec-ministrat-prezantuan-punen-dhe-prioritet/",
-      "description": "Ka përfunduar në Pogradec dita e dytë e mbledhjes së qeverisë, e cila është përqendruar te analiza e punës së administratës shtetërore dhe objektivat për vijimin e mandatit qeverisës. Gazetari i ABC News, Andon Kello, tha se një nga shqetësimet kryesore të kryeministrit Edi Rama mbetet performanca e",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T16:15:57+00:00",
-      "dateStr": "24 Aug, 16:15",
-      "isNew": true,
-      "id": "abc91787588157"
+      "id": "abc91787592198"
     }
   ]
 }
