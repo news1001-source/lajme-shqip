@@ -1,29 +1,227 @@
 {
-  "lastUpdated": "2026-08-24T16:30:40.685862+00:00",
+  "lastUpdated": "2026-08-24T17:25:59.928344+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Një shkëmbim realist që mund të ndryshojë planet para nisjes së sezonit NBA",
-      "link": "https://24-ore.com/nje-shkembim-realist-qe-mund-te-ndryshoje-planet-para-nisjes-se-sezonit-nba/",
-      "description": "Jalen Duren, qendra 22-vjeçare që arriti një sezon të jashtëzakonshëm dhe fitoi vend në ekipin All-NBA, mbetet i pafirmosur si lojtar i lirë i kufizuar pas...",
+      "title": "Prokurorët shqiptarë pjesë e rrjetit ndërkombëtar, Shoqata e Prokurorëve anëtarësohet në IAP",
+      "link": "https://24-ore.com/prokuroret-shqiptare-pjese-e-rrjetit-nderkombetar-shoqata-e-prokuroreve-anetaresohet-ne-iap/",
+      "description": "Shoqata e Prokurorëve të Shqipërisë ka njoftuar pranimin e saj si anëtare me të drejta të plota në Shoqatën Ndërkombëtare të Prokurorëve (International Association of Prosecutors – IAP). Në njoftim, Shoqata e Prokurorëve e cilëson anëtarësimin si një moment të rëndësishëm për përfaqësimin e prokuror",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-24T16:27:19+00:00",
-      "dateStr": "24 Aug, 16:27",
+      "date": "2026-08-24T17:24:50+00:00",
+      "dateStr": "24 Aug, 17:24",
       "isNew": true,
-      "id": "24 01787588839"
+      "id": "24 01787592290"
     },
     {
-      "title": "Renditja e MLB: Phillies ndezin zjarrin, Braves humbin vrullin dhe Tigers rrezikojnë sezonin",
-      "link": "https://24-ore.com/renditja-e-mlb-phillies-ndezin-zjarrin-braves-humbin-vrullin-dhe-tigers-rrezikojne-sezonin/",
-      "description": "Me pak më shumë se pesë javë deri në përfundim të sezonit të rregullt, garat për vendet e play-off-it mbeten të hapura: 20 nga 30 skuadrat janë brenda pesë...",
+      "title": "Muzikë në të dy anët e Ibrit: Orkestra Rinore e Ballkanit Perëndimor performon me mbështetjen e BE-së",
+      "link": "https://24-ore.com/muzike-ne-te-dy-anet-e-ibrit-orkestra-rinore-e-ballkanit-perendimor-performon-me-mbeshtetjen-e-be-se/",
+      "description": "Pasditen e së dielës, më 23 gusht, tingujt e Orkestrës Rinore të Ballkanit Perëndimor, të mbështetur nga BE-ja, pasuruan Mitrovicën e Jugut dhe Mitrovicën e Veriut me dy koncerte. E themeluar në vitin 2019, Orkestra Rinore e Ballkanit Perëndimor bashkon muzikantë të rinj profesionistë nga Shqipëria,",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-24T16:26:04+00:00",
-      "dateStr": "24 Aug, 16:26",
+      "date": "2026-08-24T17:20:48+00:00",
+      "dateStr": "24 Aug, 17:20",
       "isNew": true,
-      "id": "24 11787588764"
+      "id": "24 11787592048"
+    },
+    {
+      "title": "“Kemi konsoliduar disa poste në qeveri”, Rama: Do të ketë transparencë për çmimet! Shqipëria sociale, e munds",
+      "link": "https://24-ore.com/kemi-konsoliduar-disa-poste-ne-qeveri-rama-do-te-kete-transparence-per-cmimet-shqiperia-sociale-e-munds/",
+      "description": "Kreu i qeverisë, Edi Rama, pas përfundimit të mbledhjes me socialistët, ka mbajtur një komunikim të drejtpërdrejtë nga rrjetet e tij sociale, duke ndarë dhe disa detaje mbi atë se çfarë është diskutuar. Duke folur për një nismë të re që lidhet me monitorimin e projekteve, Rama tha se qytetarët do të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T17:20:33+00:00",
+      "dateStr": "24 Aug, 17:20",
+      "isNew": true,
+      "id": "24 21787592033"
+    },
+    {
+      "title": "“Pasqyrë Albania”, Rama zbulon detajet e platformës së re: Qytetari do të ndjekë kërkesën deri në zgjidhje",
+      "link": "https://24-ore.com/pasqyre-albania-rama-zbulon-detajet-e-platformes-se-re-qytetari-do-te-ndjeke-kerkesen-deri-ne-zgjidhje/",
+      "description": "Kryeministri Edi Rama ka zbardhur përmes një video live në rrjetet sociale diskutimet e zhvilluara gjatë takimit me ministrat në Pogradec. Rama tha se gjatë mbledhjes janë konsoliduar qëndrime të reja për raportin qytetar-shtet, qasjen e Partisë Socialiste në territor dhe programet e vitit të dytë t",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T17:20:11+00:00",
+      "dateStr": "24 Aug, 17:20",
+      "isNew": true,
+      "id": "24 31787592011"
+    },
+    {
+      "title": "“Algoritmi është futur mes nesh”, Rama: Pas gjithë kësaj vorbulle qytetarët dhe qeveria e tyre do të dalin më të for",
+      "link": "https://24-ore.com/algoritmi-eshte-futur-mes-nesh-rama-pas-gjithe-kesaj-vorbulle-qytetaret-dhe-qeveria-e-tyre-do-te-dalin-me-te-for/",
+      "description": "Kryeministri Edi Rama u ka premtuar qytetarëve se pas protestave të muajve të fundit ata, dhe qeveria e tyre, do të dalin më të fortë. Në një videomesazh live në Facebook pas përfundimit të takimit të gjatë me ministrat dhe funksionarë të tjerë shtetërorë të zhvilluar në Pogradec, Rama tregoi edhe p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T17:19:59+00:00",
+      "dateStr": "24 Aug, 17:19",
+      "isNew": true,
+      "id": "24 41787591999"
+    },
+    {
+      "title": "“Protesta ishte një dhuratë”, Rama flet pas takimit me ministrat: Ja çfarë u diskutua në Pogradec",
+      "link": "https://24-ore.com/protesta-ishte-nje-dhurate-rama-flet-pas-takimit-me-ministrat-ja-cfare-u-diskutua-ne-pogradec/",
+      "description": "Menjëherë pas përfundimit të takimit me ministrat në Pogradec, kryeministri Edi Rama zhvilloi një video live në rrjetet sociale, gjatë rrugës së kthimit për në Tiranë, ku shpjegoi përmbajtjen dhe thelbin e diskutimeve. Rama e cilësoi protestat e zhvilluar në Tiranë si një “dhuratë”, duke thënë se Sh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T17:19:36+00:00",
+      "dateStr": "24 Aug, 17:19",
+      "isNew": true,
+      "id": "24 51787591976"
+    },
+    {
+      "title": "Nga atentati në Shkodër tek krimet e pasionit në Kosovë e Greqi, 5 shqiptarë viktima në orët e fundit! Ngjarjet që tronditën vendin",
+      "link": "https://shekulli.com.al/2026/08/24/nga-atentati-ne-shkoder-tek-krimet-e-pasionit-ne-kosove-e-greqi-5-shqiptare-viktima-ne-oret-e-fundit-ngjarjet-qe-tronditen-vendin/",
+      "description": "24 orët e fundit regjistruan një bilanc të rëndë, teksa 5 shqiptarë humbën jetën. Nga Shqipëria, në Kosovë e deri në Greqi, u regjistruan 3 ngjarje tronditëse. Në Dukagjin të Shkodrës, babë e bir, Prel dhe Lekë Gjoni, 82 dhe 57 vjeç, u ekzekutuan me breshëri plumbash. Me ta ishte dhe një person i tr",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-24T17:18:41+00:00",
+      "dateStr": "24 Aug, 17:18",
+      "isNew": true,
+      "id": "she01787591921"
+    },
+    {
+      "title": "KUVENDI MIRATON NDRYSHIMET KUSHTETUESE PËR DREJTËSINË DHE BANKËN QENDRORE",
+      "link": "https://24-ore.com/kuvendi-miraton-ndryshimet-kushtetuese-per-drejtesine-dhe-banken-qendrore/",
+      "description": "Foto: Kuvendi i Malit të Zi / Skupština Crne Gore Kuvendi i Malit të Zi miratoi me 68 vota pro amendamentet kushtetuese që lidhen me Këshillin Gjyqësor, Këshillin Prokurorial dhe Bankën Qendrore të Malit të Zi. Asnjë deputet nuk votoi kundër apo abstenoi. Me të njëjtin numër votash u miratua edhe ve",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T17:18:31+00:00",
+      "dateStr": "24 Aug, 17:18",
+      "isNew": true,
+      "id": "24 61787591911"
+    },
+    {
+      "title": "ÇOBI: PROBLEMI NUK ËSHTË KOMBËSIA E DREJTORESHËS SË ZGJEDHUR NË ULQIN, POR MOSRESPEKTIMI I KUSHTETUTËS DHE LIGJIT",
+      "link": "https://24-ore.com/cobi-problemi-nuk-eshte-kombesia-e-drejtoreshes-se-zgjedhur-ne-ulqin-por-mosrespektimi-i-kushtetutes-dhe-ligjit/",
+      "description": "Foto: Forumi Shqiptar Kreu i grupit parlamentar të Forumit Shqiptar, Artan Çobi, ka deklaruar se pretendimet e një pjese të mediave, disa politikanëve, analistëve të vetëshpallur dhe madje edhe të dy ministrive, se në rastin e drejtoreshës së një shkolle në Ulqin problemi është kombësia e saj, janë ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T17:18:20+00:00",
+      "dateStr": "24 Aug, 17:18",
+      "isNew": true,
+      "id": "24 71787591900"
+    },
+    {
+      "title": "Një gol i Andy Nájar vendos fitoren e Nashville SC në shtesë",
+      "link": "https://24-ore.com/nje-gol-i-andy-najar-vendos-fitoren-e-nashville-sc-ne-shtese/",
+      "description": "Nashville SC arriti një fitore dramatike 3-2 ndaj Columbus Crew, me Andy Nájar që shënoi golin vendimtar në minutën e pestë të shtesës së pjesës së dytë. I...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T17:17:17+00:00",
+      "dateStr": "24 Aug, 17:17",
+      "isNew": true,
+      "id": "24 81787591837"
+    },
+    {
+      "title": "E Majta: Vijojnë faturat paushalle për energjinë elektrike, OBRM-PDUKM premtoi fundin e këtij problemi por nuk ndërmorrën asgjë",
+      "link": "https://24-ore.com/e-majta-vijojne-faturat-paushalle-per-energjine-elektrike-obrm-pdukm-premtoi-fundin-e-ketij-problemi-por-nuk-ndermorren-asgje/",
+      "description": "&#8220;Në Maqedoni qytetarët marrin faturë për energjinë elektrike çdo muaj dhe matësi duhet gjithmonë të lexohet çdo muaj. Kur nuk ka lexim, fatura mund të përgatitet mbi bazën e konsumit të supozuar, ndërsa gjendja reale të barazohet më vonë. Do të thotë, EVN mund të mos e dijë saktësisht sa energ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-24T17:14:30+00:00",
+      "dateStr": "24 Aug, 17:14",
+      "isNew": true,
+      "id": "24 91787591670"
+    },
+    {
+      "title": "Taranto 2026/ Mundësi Islam Dudaev i jep Shqipërisë medaljen e parë të artë në Lojërat Mesdhetare",
+      "link": "https://shekulli.com.al/2026/08/24/taranto-2026-mundesi-islam-dudaev-i-jep-shqiperise-medaljen-e-pare-te-arte-ne-lojerat-mesdhetare/",
+      "description": "ITALI &#8211; Shqipëria ka siguruar medaljen e parë të artë në Lojërat Mesdhetare “Taranto 2026”, falë mundësit Islam Dudaev. Dudaev triumfoi të hënën në kategorinë deri në 74 kilogramë, në stilin e lirë, pasi kundërshtari i tij në finale, shqiptari që përfaqëson Maqedoninë e Veriut, Fati Vejseli, u",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-24T17:13:32+00:00",
+      "dateStr": "24 Aug, 17:13",
+      "isNew": true,
+      "id": "she11787591612"
+    },
+    {
+      "title": "Video/ Mbledhja me ministrat, Rama zbardh detaje: Qasje e re për Reformën Territoriale! “BESA” në qendër të qeverisjes",
+      "link": "https://shekulli.com.al/2026/08/24/video-mbledhja-me-ministrat-rama-zbardh-detaje-qasje-e-re-per-reformen-territoriale-besa-ne-qender-te-qeverisjes/",
+      "description": "Kryeministri Edi Rama ka reaguar në lidhje me mbledhjen e zhvillaur ditqn e sotme në vilën qeveritare, në Pogradec. Në një video të publikuar në rrjetet sociale, Rama tregon çështjet kryesore të diskutuara, teksa thekson se Partia Socialiste do të vijë me një qasje të re ndaj Reformës Territoriale. ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-24T17:05:05+00:00",
+      "dateStr": "24 Aug, 17:05",
+      "isNew": true,
+      "id": "she21787591105"
+    },
+    {
+      "title": "“Sfida është cilësia e jetës, jo mbijetesa’, Rama: Protesta? Një dhuratë e madhe! Nga kjo vorbull qytetarët do të dalin më të fortë",
+      "link": "https://abcnews.al/sfida-eshte-cilesia-e-jetes-jo-mbijetesa-rama-protesta-nje-dhurate-e-madhe-nga-kjo-vorbull-qytetaret-do-te-dalin-me-te-forte/",
+      "description": "Kryeministri Edi Rama ka komentuar edhe protestat që po zhvillohen në bulevard, pranë zyrës së tij, &#8220;E kuptoj shumë mirë që ajo çfarë ka ndodhur në këtë periudhë ka gërryer një pjesë të një lumi të kësaj qeverisjeje dhe të raportit të qytetarit me shtetin, me qeverisjen, por jam i bindur se, s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T17:00:50+00:00",
+      "dateStr": "24 Aug, 17:00",
+      "isNew": true,
+      "id": "abc01787590850"
+    },
+    {
+      "title": "Rama: Qasja e re e qeverisë, kemi konsoliduar disa pozicione!",
+      "link": "https://abcnews.al/rama-qasja-e-re-e-qeverise-kemi-konsoliduar-disa-pozicione/",
+      "description": "Kryeministri Edi Rama i është drejtuar publikut përmes një videoje live pas përfundimit të takimit dyditor me ministrat në Pogradec, ku foli për përfundimet e mbledhjes dhe prioritetet e qeverisë për vijimësinë e mandatit. Rama deklaroi se gjatë takimit janë konsoliduar disa prej pozicioneve të qeve",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T16:50:12+00:00",
+      "dateStr": "24 Aug, 16:50",
+      "isNew": true,
+      "id": "abc11787590212"
+    },
+    {
+      "title": "“Përmirësojmë qeverisjen”, Rama: Shqipëria nuk ka qenë kurrë më e vlerësuar ndërkombëtarisht",
+      "link": "https://abcnews.al/permiresojme-qeverisjen-rama-shqiperia-nuk-ka-qene-kurre-me-e-vleresuar-nderkombetarisht/",
+      "description": "“Përmirësojmë qeverisjen”, kështu u shpreh kryeministri Edi Rama ndërsa zhvilloi në komunikim live me ndjekësit në Facebook, pas mbledhjes dyditore në Pogradec “Qeverisja do përmirësohet, nuk ka se si të ndodhë ndryshe. Ka qenë vërtet një dhuratë ajo që ka ndodhur. Nuk na mjaftojmë ato që janë bërë,",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T16:45:28+00:00",
+      "dateStr": "24 Aug, 16:45",
+      "isNew": true,
+      "id": "abc21787589928"
+    },
+    {
+      "title": "Kryeministri flet pas mbledhjes dyditore në Pogradec/ “Transparencë për qytetarin”, Rama: “Besa”, prioritet i qeverisë! Fokus te arsimi, shëndetësia e çmimet",
+      "link": "https://abcnews.al/kryeministri-flet-pas-mbledhjes-dyditore-ne-pogradec-transparence-per-qytetarin-rama-besa-prioritet-i-qeverise-fokus-te-arsimi-shendetesia-e-cmimet/",
+      "description": "Pas përfundimit të mbledhjes së qeverisë në Pogradec, kryeministri Edi Rama ka zhvilluar edhe një komunikim me ndjekësit në Facebook. Ai theksoi se tashmë “Besa” është prioritet i qeverisë dhe se “Pasqyrë Albania” do të jetë një mundësi ku qytetari do të informohet në kohë reale”. “Shkon qeveria te ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T16:39:51+00:00",
+      "dateStr": "24 Aug, 16:39",
+      "isNew": true,
+      "id": "abc31787589591"
+    },
+    {
+      "title": "Përfundon takimi i Ramës me ministrat! Ja çfarë ndodhi brenda vilës qeveritare në Pogradec",
+      "link": "https://shekulli.com.al/2026/08/24/perfundon-takimi-i-rames-me-ministrat-ja-cfare-ndodhi-brenda-viles-qeveritare-ne-pogradec/",
+      "description": "Ka përfunduar takimi i kryeministrit Edi Rama me kabinetin qeveritar, në qytetin e Pogradecit. &#160; Takimi, i cili nisi rreth orës 11:00 dhe përfundoi rreth orës 18:00, kishte në fokus qasjen e re që qeveria do të ketë në këtë vit të dytë të mandatit të katërt në raport me shërbimet ndaj qytetarëv",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-24T16:38:58+00:00",
+      "dateStr": "24 Aug, 16:38",
+      "isNew": true,
+      "id": "she31787589538"
+    },
+    {
+      "title": "Ndryshime në ligjin e policisë, nuk ka konkurs për drejtorët vendore dhe shefat e komisariateve",
+      "link": "https://abcnews.al/ndryshime-ne-ligjin-e-policise-nuk-ka-konkurs-per-drejtoret-vendore-dhe-shefat-e-komisariateve/",
+      "description": "Prej ditës së sotme, me hyrjen në fuqi të ndryshimeve në ligjin për Policinë e Shtetit, Drejtori i Përgjithshëm i Policisë do të ketë kompetencë të kryejë ndryshime në nivelin e drejtorive vendore dhe komisariateve. Mënyra e emërimit të drejtuesve të drejtorive vendore dhe komisariateve nuk do të je",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T16:35:24+00:00",
+      "dateStr": "24 Aug, 16:35",
+      "isNew": true,
+      "id": "abc41787589324"
+    },
+    {
+      "title": "“Pasqyra Albania”, platforma e qytetarëve”/ Albatros Rexhaj: Rama është i sinqertë në reflektimin e tij, duhet afrim me qytetarët!",
+      "link": "https://abcnews.al/pasqyra-albania-platforma-e-qytetareve-albatros-rexhaj-rama-eshte-i-sinqerte-ne-reflektimin-e-tij-duhet-afrim-me-qytetaret/",
+      "description": "Analisti Albatros Rexhaj komentoi zhvillimet e fundit politike në vend, duke u ndalur te takimi dyditor i kryeministrit Edi Rama në Pogradec dhe diskutimet për afrimin e qeverisë me qytetarët. Rexhaj u ndal te platforma e qytetarëve &#8220;Pasqyra Albania&#8221;, duke e cilësuar mbledhjen dhe përfsh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-24T16:33:28+00:00",
+      "dateStr": "24 Aug, 16:33",
+      "isNew": true,
+      "id": "abc51787589208"
     },
     {
       "title": "Foto/ Kujdes! Skema e re e mashtrimit që shënjestron qytetarët shqiptarë, ja për çfarë bëhet fjalë",
@@ -34,29 +232,7 @@
       "date": "2026-08-24T16:24:13+00:00",
       "dateStr": "24 Aug, 16:24",
       "isNew": true,
-      "id": "she01787588653"
-    },
-    {
-      "title": "Presezoni NFL 2026, Java 2: Çfarë mësuam nga ndeshja Seahawks–Titans (Seahawks 16–Titans 19)",
-      "link": "https://24-ore.com/presezoni-nfl-2026-java-2-cfare-mesuam-nga-ndeshja-seahawks-titans-seahawks-16-titans-19/",
-      "description": "Tennessee Titans fituan 19-16 ndaj Seattle Seahawks në ndeshjen e javës së dytë të presezonit, por performanca e skuadrës së Titans la më shumë shqetësime...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T16:23:05+00:00",
-      "dateStr": "24 Aug, 16:23",
-      "isNew": true,
-      "id": "24 21787588585"
-    },
-    {
-      "title": "“E humbi të shtënën e parë, por me të dytën…”- Zbardhet ekspertiza e vrasjes në Greqi, Allmuça e qëlloi disa",
-      "link": "https://24-ore.com/e-humbi-te-shtenen-e-pare-por-me-te-dyten-zbardhet-ekspertiza-e-vrasjes-ne-greqi-allmuca-e-qelloi-disa/",
-      "description": "Detaje të reja rreth momenteve të fundit të 45-vjeçares Luljeta Ozbova në Nea Smyrni të Greqisë dhe mënyrës se si autori 48-vjeçar Altin Allmuça e vrau, kanë dalë nga ekzaminimi mjeko-ligjor në kombinim me gjetjet e tjera në dispozicion të Autoriteteve. Sipas informacioneve, 48-vjeçari po e priste 4",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T16:17:09+00:00",
-      "dateStr": "24 Aug, 16:17",
-      "isNew": true,
-      "id": "24 31787588229"
+      "id": "she41787588653"
     },
     {
       "title": "Përfundon mbledhja e qeverisë/ Dita e dytë e takimit në Pogradec, ministrat prezantuan punën dhe prioritetet",
@@ -67,7 +243,7 @@
       "date": "2026-08-24T16:15:57+00:00",
       "dateStr": "24 Aug, 16:15",
       "isNew": true,
-      "id": "abc01787588157"
+      "id": "abc61787588157"
     },
     {
       "title": "Pogradec, Rama dëgjon qytetarët/ I pret në vilën qeveritare, shprehin shqetësimet për pronat e legalizimet",
@@ -78,73 +254,7 @@
       "date": "2026-08-24T16:11:33+00:00",
       "dateStr": "24 Aug, 16:11",
       "isNew": true,
-      "id": "abc11787587893"
-    },
-    {
-      "title": "Ernest Muçi: Nder që luajmë më Salah, në mesjavë duhet të përmbysim Ferencvaroshin!",
-      "link": "https://24-ore.com/ernest-muci-nder-qe-luajme-me-salah-ne-mesjave-duhet-te-permbysim-ferencvaroshin/",
-      "description": "Karriera e Ernest Muçit ka kaluar në një tjetër nivel tani që kolegu i tij i reaprtit është Momo Salah. Sulmuesi shqiptar në një prononcim për mediet turke ka pranuar se impakti i transferimit të egjiptianit në kampionatin turk është i madh. “Salah është një lojtar i madh. Për të gjithë ne është një",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T16:09:44+00:00",
-      "dateStr": "24 Aug, 16:09",
-      "isNew": true,
-      "id": "24 41787587784"
-    },
-    {
-      "title": "I jepet lamtumira e fundit, policit që vdiq në krye të detyrës",
-      "link": "https://24-ore.com/i-jepet-lamtumira-e-fundit-policit-qe-vdiq-ne-krye-te-detyres/",
-      "description": "Policit të Kosovës, Altin Kryeziu, i është dhënë lamtumira e fundit në varrezat e fshatit Bubavec. Në ceremoninë mortore morën pjesë familjarë, miq, kolegë të Policisë së Kosovës dhe qytetarë të shumtë. Në mesin e të pranishmëve ishin edhe ministri në detyrë i Punëve të Brendshme, Xhelal Sveçla, dre",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T16:07:56+00:00",
-      "dateStr": "24 Aug, 16:07",
-      "isNew": true,
-      "id": "24 51787587676"
-    },
-    {
-      "title": "Mori me dhunë një shumë parash nga kasa e një marketi dhe u largua, në kërkim 26-vjeçari në Durrës",
-      "link": "https://24-ore.com/mori-me-dhune-nje-shume-parash-nga-kasa-e-nje-marketi-dhe-u-largua-ne-kerkim-26-vjecari-ne-durres/",
-      "description": "Një 26-vjeçar është shpallur në kërkim këtë të hënë nga Policia e Durrësit pasi rreth orës 15:00, në lagjen nr. 17, dyshohet se ka marrë me dhunë një shumë parash nga kasa e një marketi dhe është larguar. Sipas raportimeve të policisë, është identifikuar dhe shpallur në kërkim F. S., rreth 26 vjeç, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T16:07:38+00:00",
-      "dateStr": "24 Aug, 16:07",
-      "isNew": true,
-      "id": "24 61787587658"
-    },
-    {
-      "title": "E rëndë në Shëngjin, humb jetën një 19-vjeçar nga Kosova teksa po lahej në det! Dyshimet e para",
-      "link": "https://24-ore.com/e-rende-ne-shengjin-humb-jeten-nje-19-vjecar-nga-kosova-teksa-po-lahej-ne-det-dyshimet-e-para/",
-      "description": "Një 19-vjeçar nga Kosova ka humbur jetën këtë të hënë në zonën e Kunes, në Shëngjin, ndërsa mediat në Kosovë bëjnë të ditur se i riu është identifikuar si Shpëtim Syla. Sipas raportimeve, 19-vjeçari është gjetur pa shenja jete në ujë. Ende nuk janë të qarta rrethanat e sakta të ngjarjes, ndërsa auto",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T16:07:22+00:00",
-      "dateStr": "24 Aug, 16:07",
-      "isNew": true,
-      "id": "24 71787587642"
-    },
-    {
-      "title": "Dalin pamjet nga takimi i Ramës me ministrat në Pogradec (VIDEO)",
-      "link": "https://24-ore.com/dalin-pamjet-nga-takimi-i-rames-me-ministrat-ne-pogradec-video/",
-      "description": "Këto janë pamjet nga takimi i kryeministrit Edi Rama me ministrat në Pogradec. Takimi nisi këtë të hënë rreth orës 11:00 dhe në fokus ishte është qasja e re që qeveria do të ketë gjatë vitit të dytë të mandatit të katërt, veçanërisht në raport me shërbimet ndaj qytetarëve. Në fokus të diskutimeve, k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T16:06:57+00:00",
-      "dateStr": "24 Aug, 16:06",
-      "isNew": true,
-      "id": "24 81787587617"
-    },
-    {
-      "title": "Irani kërcënon Barron Trump, publikon video për lëvizjet dhe sigurinë e tij: 10 mln dollarë për kokën e djalit të presidentit",
-      "link": "https://24-ore.com/irani-kercenon-barron-trump-publikon-video-per-levizjet-dhe-sigurine-e-tij-10-mln-dollare-per-koken-e-djalit-te-presidentit/",
-      "description": "Televizioni shtetëror iranian ka transmetuar një video që sugjeron se po gjurmon lëvizjet e Barron Trump, djali 20-vjeçar i presidentit amerikan, mbi të cilin ka vendosur edhe një shpërblim prej 10 milionë dollarësh për kokën e tij. Pamjet, të publikuara nga media e kontrolluar nga Garda Revoluciona",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T16:06:39+00:00",
-      "dateStr": "24 Aug, 16:06",
-      "isNew": true,
-      "id": "24 91787587599"
+      "id": "abc71787587893"
     },
     {
       "title": "Trump përshkallëzon luftën tregtare me Kanadanë, tarifat për makinat dhe çelikun shkojnë në 50%",
@@ -155,7 +265,7 @@
       "date": "2026-08-24T15:51:01+00:00",
       "dateStr": "24 Aug, 15:51",
       "isNew": true,
-      "id": "abc21787586661"
+      "id": "abc81787586661"
     },
     {
       "title": "Konfirmohet rasti i parë me “Ethet e Nilit” në Shqipëri! Cilat janë simptomat dhe sa i rrezikshëm është virusi",
@@ -166,7 +276,7 @@
       "date": "2026-08-24T15:49:48+00:00",
       "dateStr": "24 Aug, 15:49",
       "isNew": true,
-      "id": "she11787586588"
+      "id": "she51787586588"
     },
     {
       "title": "“I ka nxjerrë armën”/ Detaje nga vrasja në Greqi, vëllai i viktimës tregon si Altin Allmuça e kërcënonte prej kohësh 45-vjeçaren",
@@ -177,7 +287,7 @@
       "date": "2026-08-24T15:36:29+00:00",
       "dateStr": "24 Aug, 15:36",
       "isNew": true,
-      "id": "she21787585789"
+      "id": "she61787585789"
     },
     {
       "title": "Ndërhyrje nga toka dhe ajri, Forcat e Armatosura vijojnë operacionet për shuarjen e zjarreve",
@@ -188,18 +298,7 @@
       "date": "2026-08-24T15:21:48+00:00",
       "dateStr": "24 Aug, 15:21",
       "isNew": true,
-      "id": "abc31787584908"
-    },
-    {
-      "title": "Macron: Moska do të shtojë provokimet, të jemi të përgatitur",
-      "link": "https://abcnews.al/macron-moska-do-te-shtoje-provokimet-te-jemi-te-pergatitur/",
-      "description": "Presidenti francez, Emmanuel Macron deklaroi se Rusia do të intensifikojë tensionet ndaj vendeve evropiane, me synimin për t’i dekurajuar ato nga vijimi i mbështetjes për Ukrainën. Gjatë fjalës së tij në Koalicionin e të Vullnetshëmve, Macron shprehu solidaritetin me kolegët që, sipas tij, janë vënë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T15:14:26+00:00",
-      "dateStr": "24 Aug, 15:14",
-      "isNew": true,
-      "id": "abc41787584466"
+      "id": "abc91787584908"
     },
     {
       "title": "“Jam Bashkim Ulaj, më duhen 100 mijë euro”/ Si e mashtruan dy të rinjtë 70-vjeçarin duke përdorur inteligjencën artificiale",
@@ -210,7 +309,7 @@
       "date": "2026-08-24T15:09:54+00:00",
       "dateStr": "24 Aug, 15:09",
       "isNew": true,
-      "id": "she31787584194"
+      "id": "she71787584194"
     },
     {
       "title": "Grabitet marketi në Durrës! Autori dhunon punonjësen dhe merr paratë nga kasa",
@@ -221,7 +320,7 @@
       "date": "2026-08-24T14:54:12+00:00",
       "dateStr": "24 Aug, 14:54",
       "isNew": true,
-      "id": "she41787583252"
+      "id": "she81787583252"
     },
     {
       "title": "Festë e “çmendur” mes luftës! “Tweerk”, shisha dhe akool, të rinjtë ukrainas harbohen në rrugët e Kharkivit",
@@ -232,106 +331,7 @@
       "date": "2026-08-24T14:40:22+00:00",
       "dateStr": "24 Aug, 14:40",
       "isNew": true,
-      "id": "she51787582422"
-    },
-    {
-      "title": "Pritën me orë të tëra, të moshuarve në Pogradec iu plotësohet dëshira, do takojnë Ramën. Nxitojnë kush të futet i pari",
-      "link": "https://shekulli.com.al/2026/08/24/priten-me-ore-te-tera-te-moshuarve-ne-pogradec-iu-plotesohet-deshira-do-takojne-ramen-nxitojne-kush-te-futet-i-pari/",
-      "description": "Disa të moshuar që kanë pritur me orë të tëra për të takuar kryeministrin Edi Rama, janë futur në ambientet e vilës qeveritare në Pogradec. Ata janë njoftuar nga punonjësit e gardës që do të priteshin në takim nga Rama, ndërsa shihen duke nxituar se kush do të hyjë i pari. Prej paradites së sotme, [",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T14:30:44+00:00",
-      "dateStr": "24 Aug, 14:30",
-      "isNew": true,
-      "id": "she61787581844"
-    },
-    {
-      "title": "News Hour me Habi Hoxha, (24/08/2026)",
-      "link": "https://abcnews.al/news-hour-me-habi-hoxha-24-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T14:29:02+00:00",
-      "dateStr": "24 Aug, 14:29",
-      "isNew": true,
-      "id": "abc51787581742"
-    },
-    {
-      "title": "Grabitet marketi në Durrës/ Autori shtyn punonjësen dhe merr paratë nga kasa, identifikohet nga policia",
-      "link": "https://abcnews.al/grabitet-marketi-ne-durres-autori-shtyn-punonjesen-dhe-merr-parate-nga-kasa-identifikohet-nga-policia/",
-      "description": "Një grabitje është shënuar rreth orës 15:00 në lagjen nr. 17 në Durrës, ku një person ka marrë me dhunë një shumë parash nga kasa e një marketi dhe më pas është larguar nga vendngjarja. Shërbimet e Policisë kanë mbërritur menjëherë në vendngjarje dhe, falë veprimeve të shpejta, kanë bërë të mundur i",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T14:15:12+00:00",
-      "dateStr": "24 Aug, 14:15",
-      "isNew": true,
-      "id": "abc61787580912"
-    },
-    {
-      "title": "“Mbaji paratë ti kesh”, i la 1 mijë euro gruas, dhe shkoi të vriste të dashurën! Momentet e fundit në jetë të Altin Allmuçës",
-      "link": "https://shekulli.com.al/2026/08/24/mbaji-parate-qe-ti-kesh-i-la-1-mije-euro-gruas-dhe-shkoi-te-vriste-te-dashuren-momentet-e-fundit-ne-jete-te-altin-allmuces/",
-      "description": "GREQI- Detaje të reja kanë dalë në dritë nga krimi që ndodhi në Greqi, ku Altin Allmuça vrau bashkëatdhetaren e tij, me të cilën dyshohej se kishte një lidhje intime, dhe më pas i dha fund jetës. Sipas asaj që raportojnë mediat greke, përpara se të largohej nga shtëpia, 48-vjeçari i la bashkëshortes",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T14:04:23+00:00",
-      "dateStr": "24 Aug, 14:04",
-      "isNew": true,
-      "id": "she71787580263"
-    },
-    {
-      "title": "Rasti i parë me ethet e Nilit në Shqipëri. Virusi konfirmohet në Korçë, një 72 vjeçar i prekur",
-      "link": "https://abcnews.al/ethet-e-nilit-ne-korce-konfirmohet-rasti-i-pare-i-virusit-ne-shqiperi/",
-      "description": "Konfirmohet rasti i parë i virusit ethet e Nilit në Shqipëri. I prekuri është një 72 vjeçar nga Korça i cili ndodhet aktualisht në karantim në Spitalin Rajonal të Korçës dhe po merr mjekimin përkatës. Sipas burimeve mësohet se 72 vjeçari jeton në qytetin e Korçës dhe ka qene duke dalë në lulishte, p",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T13:52:24+00:00",
-      "dateStr": "24 Aug, 13:52",
-      "isNew": true,
-      "id": "abc71787579544"
-    },
-    {
-      "title": "E rëndë në Shëngjin/ Gjendet i pajetë një 19 vjeçar dyshohet është mbytur në det",
-      "link": "https://abcnews.al/e-rende-ne-shengjin-gjendet-i-pajete-nje-19-vjecar-dyshohet-eshte-mbytur-ne-det/",
-      "description": "Një 19-vjeçar nga Kosova dyshohet se është mbytur mesditën e sotme në plazhin e Shëngjinit. Ngjarja ka ndodhur rreth orës 13:00, teksa i riu, me inicialet Sh. S., ishte duke u larë në det. Në vendngjarje ndodhet grupi hetimor, i cili po punon për dokumentimin e plotë të rrethanave të ngjarjes. Shëng",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T13:49:12+00:00",
-      "dateStr": "24 Aug, 13:49",
-      "isNew": true,
-      "id": "abc81787579352"
-    },
-    {
-      "title": "Inteligjenca Artificiale ‘fut duart’ edhe në krim! Si ra pre e zhvatjes kambisti në Tiranë, iu morën 100 mijë euro",
-      "link": "https://shekulli.com.al/2026/08/24/inteligjenca-artificiale-fut-duart-edhe-ne-krim-si-ra-pre-e-zhvatjes-kambisti-ne-tirane-iu-moren-100-mije-euro/",
-      "description": "TIRANË- Policia e Tiranës ka finalizuar gjatë 24 orëve të fundit dy operacione kundër krimeve ekonomike, duke zbardhur disa raste mashtrimi dhe vjedhjeje. Në operacionin e koduar “Shuma” janë arrestuar dy persona, ndërsa një tjetër është shpallur në kërkim. Sipas Policisë, autorët kanë përdorur inte",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T13:47:03+00:00",
-      "dateStr": "24 Aug, 13:47",
-      "isNew": true,
-      "id": "she81787579223"
-    },
-    {
-      "title": "Ukraina godet rrjetin logjistik të kompanisë së dytë më të madhe online në Rusi",
-      "link": "https://abcnews.al/ukraina-godet-rrjetin-logjistik-te-kompanise-se-dyte-me-te-madhe-online-ne-rusi/",
-      "description": "Depo dhe qendra logjistike të Ozon, shitësit të dytë më të madh online në Rusi, janë goditur nga një valë sulmesh me dronë ukrainas. Kompania raportoi zjarre në qendrat e saj në Krasnodar, Dagestan, Stavropol dhe Adigea, ndërsa disa persona u plagosën. Sulmet ndaj Ozon vijnë një ditë pasi një tjetër",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T13:43:19+00:00",
-      "dateStr": "24 Aug, 13:43",
-      "isNew": true,
-      "id": "abc91787578999"
-    },
-    {
-      "title": "E rëndë në Shëngjin, humb jetën duke u larë në det 19-vjeçari",
-      "link": "https://shekulli.com.al/2026/08/24/e-rende-ne-shengjin-humb-jeten-duke-u-lare-ne-det-19-vjecari/",
-      "description": "SHËNGJIN- Një ngjarje e rëndë ka ndodhur në Shëngjin, ku një 19-vjeçar nga Kosova ka humbur jetën, teksa ka qenë duke u larë në det. I riu ka humbur jetën në vendngjarje, ndërkohë që grupi hetimor është duke punuar për zbardhjen e rrethanave të rastit. “Rreth orës 13:00, në plazhin e Shëngjinit, sht",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T13:40:27+00:00",
-      "dateStr": "24 Aug, 13:40",
-      "isNew": true,
-      "id": "she91787578827"
+      "id": "she91787582422"
     }
   ]
 }
