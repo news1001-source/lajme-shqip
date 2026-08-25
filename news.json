@@ -1,29 +1,183 @@
 {
-  "lastUpdated": "2026-08-25T18:32:51.716953+00:00",
+  "lastUpdated": "2026-08-25T19:26:46.065994+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "MUZIKË – Vdes Dolly Parton legjenda e country-t",
-      "link": "https://24-ore.com/muzike-vdes-dolly-parton-legjenda-e-country-t/",
-      "description": "UASHINGTON, 25 gusht /ATSH-DPA/ – Superylli amerikan i muzikës country, Dolly Parton, ka vdekur në moshën 80-vjeçare, tha nipi i saj, Brian Seaver, në një video të ndarë në llogaritë e saj në mediat sociale të martën. Muzikantja ishte më e njohur për hitet e saj që përcaktojnë zhanrin, duke përfshir",
+      "title": "Elbasani prezanton afrimin e fundit në merkato",
+      "link": "https://24-ore.com/elbasani-prezanton-afrimin-e-fundit-ne-merkato/",
+      "description": "Elbasani prezanton afrimin e fundit në merkato. Cheikh Gueye është lojtari më i ri i Elbasanit. Mesfushori ka firmosur për 3 vite me klubin verdheblu. “Gueye vjen në Elbasan pas eksperiencës në elitën e Senegalit me Diambars. Mesfushori i datëlindjes 2007 gjithashtu është kontigjent i moshave U-17 t",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-25T18:31:26+00:00",
-      "dateStr": "25 Aug, 18:31",
+      "date": "2026-08-25T19:26:30+00:00",
+      "dateStr": "25 Aug, 19:26",
       "isNew": true,
-      "id": "24 01787682686"
+      "id": "24 01787685990"
     },
     {
-      "title": "Seattle Sounders nënshkruan sulmuesin Dejan Joveljić nga Sporting Kansas City",
-      "link": "https://24-ore.com/seattle-sounders-nenshkruan-sulmuesin-dejan-joveljic-nga-sporting-kansas-city/",
-      "description": "Seattle Sounders FC konfirmoi marrjen e sulmuesit Dejan Joveljić nga Sporting Kansas City në një shkëmbim me para, një lëvizje që synon të forcojë sulmin e...",
+      "title": "Pengoi arbitrin të hynte në dhomën e zhveshjes pas ndeshjes me Napolin, skualifikohet për dy javë drejtori sportiv i Genoas",
+      "link": "https://24-ore.com/pengoi-arbitrin-te-hynte-ne-dhomen-e-zhveshjes-pas-ndeshjes-me-napolin-skualifikohet-per-dy-jave-drejtori-sportiv-i-genoas/",
+      "description": "Protestat në përfundim të ndeshjes mes Genoas dhe Napolit i kushtuan Drejtorit Sportiv të klubit kuqeblu, Diego Lopez që u skualifikua deri në 8 shtator. Ky i fundit hyri në fushën e lojës për t’u ankuar për golin e parë të Napolit, atë të shënuar nga De Bruyne me belgun që fillimisht kishte prekur ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-25T18:26:48+00:00",
-      "dateStr": "25 Aug, 18:26",
+      "date": "2026-08-25T19:23:42+00:00",
+      "dateStr": "25 Aug, 19:23",
       "isNew": true,
-      "id": "24 11787682408"
+      "id": "24 11787685822"
+    },
+    {
+      "title": "Mbahet protesta e 87-të para Kryeministrisë, përsëriten kërkesat kundër Qeverisë!",
+      "link": "https://24-ore.com/mbahet-protesta-e-87-te-para-kryeministrise-perseriten-kerkesat-kunder-qeverise/",
+      "description": "Protesta në Tiranë hyri sot (25 gusht) në ditën e saj të 87-të. Qytetarët në numër përsëri të ulët që u grumbulluan në sheshin “Skënderbej” për të vijuar marshimin përgjatë bulevardit “Dëshmorët e Kombit” në drejtim të godinës së Kryeministrisë. Protesta e sotme u fokusua në mbajtjen e fjalimeve kry",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T19:22:20+00:00",
+      "dateStr": "25 Aug, 19:22",
+      "isNew": true,
+      "id": "24 21787685740"
+    },
+    {
+      "title": "​Gjini: Kurti po e çon Kosovën drejt zgjedhjeve, pritni dhe shihni",
+      "link": "https://24-ore.com/gjini-kurti-po-e-con-kosoven-drejt-zgjedhjeve-pritni-dhe-shihni/",
+      "description": "Kryetari i Aleancës, Ardian Gjini, ka kritikuar Lëvizjen Vetëvendosje për situatën politike dhe institucionale në vend, duke e akuzuar për bllokimin e konstituimit të Kuvendit, raporton KosovaPress. Gjini pas mbledhjes së kryesisë së Aleancës tha se Kosova ndodhet në një periudhë të vështirë, të cil",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T19:21:12+00:00",
+      "dateStr": "25 Aug, 19:21",
+      "isNew": true,
+      "id": "24 31787685672"
+    },
+    {
+      "title": "SHBA – FMN: Ekonomia globale në një tërheqje litari midis IA dhe goditjeve të përsëritura",
+      "link": "https://24-ore.com/shba-fmn-ekonomia-globale-ne-nje-terheqje-litari-midis-ia-dhe-goditjeve-te-perseritura/",
+      "description": "UASHINGTON, 25 gusht /ATSH-AFP/ – Ekonomia globale është e zënë në një tërheqje litari midis ndikimit pozitiv të investimeve në inteligjencën artificiale (IA) nga njëra anë dhe efekteve negative të goditjeve të përsëritura nga ana tjetër, tha sot drejtoresha menaxhuese e FMN-së, Kristalina Georgieva",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T19:16:16+00:00",
+      "dateStr": "25 Aug, 19:16",
+      "isNew": true,
+      "id": "24 41787685376"
+    },
+    {
+      "title": "PROFIL/ Nga meditimi për mbylljen e karrierës te zbehja e paragjykimeve. Islam Dudaev, mundësi çeçen që po ”lan në ar” Shqipërinë",
+      "link": "https://shekulli.com.al/2026/08/25/profil-nga-meditimi-per-mbylljen-e-karrieres-te-zbehja-e-paragjykimeve-islam-dudaev-mundesi-cecen-qe-po-lan-ne-ar-shqiperine/",
+      "description": "Shqipëria siguroi të hënën (24 gusht) medaljen e parë të artë në Lojërat Mesdhetare “Taranto 2026”, me mundësin Islam Dudaev që triumfoi në kategorinë deri në 74 kilogramë, në stilin e lirë. Dudaev u shpall fitues pasi kundërshtari i tij në finale, shqiptari Fati Vejseli, i cili përfaqëson Maqedonin",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-25T19:13:46+00:00",
+      "dateStr": "25 Aug, 19:13",
+      "isNew": true,
+      "id": "she01787685226"
+    },
+    {
+      "title": "Austin FC synon surprizën ndaj Toluca në çerekfinalet e Leagues Cup",
+      "link": "https://24-ore.com/austin-fc-synon-surprizen-ndaj-toluca-ne-cerekfinalet-e-leagues-cup/",
+      "description": "Ndeshja e çerekfinaleve të Leagues Cup 2026 në Sports Illustrated Stadium të mërkurën në mbrëmje (8:30 pm ET &#124; Apple TV) shfaqet si një nga takimet më të r...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T19:10:37+00:00",
+      "dateStr": "25 Aug, 19:10",
+      "isNew": true,
+      "id": "24 51787685037"
+    },
+    {
+      "title": "Betejë me zjarret në Dajt, Dibër dhe Librazhd, nuk ka rrezik për banesat! Ministria e Mbrojtjes: Sot 24 vatra, 6 ende aktive",
+      "link": "https://24-ore.com/beteje-me-zjarret-ne-dajt-diber-dhe-librazhd-nuk-ka-rrezik-per-banesat-ministria-e-mbrojtjes-sot-24-vatra-6-ende-aktive/",
+      "description": "Edhe pse shkon drejt normalizimit, vatrat e zjarrit mbeten me intensitet në numër. Ministria e Mbrojtjes informon se deri në orën 20:00 të datës 25 gusht, në vend janë raportuar 24 vatra zjarri, nga të cilat 6 mbeten aktive, ndërsa 5 vatra janë nën mbikëqyrje. “Në operacionet e zhvilluara gjatë ditë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T19:06:57+00:00",
+      "dateStr": "25 Aug, 19:06",
+      "isNew": true,
+      "id": "24 61787684817"
+    },
+    {
+      "title": "Zjarr i madh në Shashicë të Vlorës, flakët përhapen me shpejtësi për shkak të erës (VIDEO)",
+      "link": "https://24-ore.com/zjarr-i-madh-ne-shashice-te-vlores-flaket-perhapen-me-shpejtesi-per-shkak-te-eres-video/",
+      "description": "Një zjarr i madh ka rënë mbrëmjen e kësaj të marte në zonën e Shashicës, në Vlorë. Flakët, të favorizuara nga era, po përhapen me shpejtësi në terren, duke rritur rrezikun e përhapjes së vatrës. Drejt vendit të ngjarjes janë nisur shërbimet zjarrfikëse, të cilat kanë ndërhyrë për të vënë situatën në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T19:06:45+00:00",
+      "dateStr": "25 Aug, 19:06",
+      "isNew": true,
+      "id": "24 71787684805"
+    },
+    {
+      "title": "Ra nga 50 metra lartësi në humnerë, shpëtohet 51-vjeçari në Mallakastër",
+      "link": "https://24-ore.com/ra-nga-50-metra-lartesi-ne-humnere-shpetohet-51-vjecari-ne-mallakaster/",
+      "description": "Një operacion shpëtimi u zhvillua mbrëmjen e kësaj të marte në fshatin Kapaj të Mallakastrës, ku një 51-vjeçar ra aksidentalisht në një humnerë nga një lartësi prej rreth 50 metrash. Sipas burimeve, Fluturim Salobehaj, banues në fshatin Selitë të Mallakastrës, dyshohet se po tentonte të riparonte nj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T19:06:20+00:00",
+      "dateStr": "25 Aug, 19:06",
+      "isNew": true,
+      "id": "24 81787684780"
+    },
+    {
+      "title": "Situata nga zjarret, Ministria e Mbrojtjes: Mali i Dajtit vijon të jetë problematik, 6 vatra aktive nga 24 në total",
+      "link": "https://24-ore.com/situata-nga-zjarret-ministria-e-mbrojtjes-mali-i-dajtit-vijon-te-jete-problematik-6-vatra-aktive-nga-24-ne-total/",
+      "description": "Ministria e Mbrojtjes ka bërë të ditur situatën e zjarreve në vend, të përditësuar deri në orën 20:00 të kësaj të marte, 25 gusht. Sipas njoftimit, gjatë ditës janë raportuar 24 vatra zjarri në rang vendi, nga të cilat 6 mbeten aktive, ndërsa 5 janë nën monitorim. Në operacionet për shuarjen dhe kon",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T19:05:53+00:00",
+      "dateStr": "25 Aug, 19:05",
+      "isNew": true,
+      "id": "24 91787684753"
+    },
+    {
+      "title": "“Mbrojtja” reagon për situatën e zjarreve në vend: 6 vatra ende aktive, fokusi te Mali i Dajtit",
+      "link": "https://abcnews.al/mbrojtja-reagon-per-situaten-e-zjarreve-ne-vend-6-vatra-ende-aktive-fokusi-te-mali-i-dajtit/",
+      "description": "Tiranë- Ministria e Mbrojtjes ka bërë përditësimin e fundit mbi situatën e zjarreve në vend. Deri në orën 20:00 janë raportuar 24 vatra zjarri, prej të cilave 6 vijojnë të jenë aktive, ndërsa 5 të tjera janë nën monitorim. Gjatë ditës, në operacionet për shuarjen dhe monitorimin e zjarreve janë anga",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T18:49:38+00:00",
+      "dateStr": "25 Aug, 18:49",
+      "isNew": true,
+      "id": "abc01787683778"
+    },
+    {
+      "title": "SHBA përgatitet për revokim masiv vizash, rrezikojnë të preken rreth 200 mijë persona",
+      "link": "https://abcnews.al/shba-pergatitet-per-revokim-masiv-vizash-rrezikojne-te-preken-rreth-200-mije-persona/",
+      "description": "Administrata e presidentit amerikan Donald Trump po përgatitet të ndërmarrë një nga revokimet më të mëdha të vizave në historinë e Shteteve të Bashkuara, duke synuar deri në 200 mijë shtetas të huaj që kanë hyrë në vend me viza turistike ose biznesi dhe më pas kanë aplikuar për azil. Sipas zyrtarëve",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T18:42:06+00:00",
+      "dateStr": "25 Aug, 18:42",
+      "isNew": true,
+      "id": "abc11787683326"
+    },
+    {
+      "title": "E trishtë/ Ikona e hitit “Jolene”, ndahet nga jeta artistja Dolly Parton",
+      "link": "https://shekulli.com.al/2026/08/25/e-trishte-ikona-e-hitit-jolene-ndahet-nga-jeta-artistja-dolly-parton/",
+      "description": "Një lajm i trishtë ka ardhur nga bota e muzikës, teksa artisja ikonike&#160; Dolly Parton ka ndërruar jetë. Lajmi është konfirmuar nga familjarët e saj dhe është raportuar nga mediat ndërkombëtare. Një prej figurave më të mëdha të muzikës country dhe një ikonë e kulturës amerikane, është ndarë nga j",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-25T18:42:05+00:00",
+      "dateStr": "25 Aug, 18:42",
+      "isNew": true,
+      "id": "she11787683325"
+    },
+    {
+      "title": "SPAK pret ekstradimin e tij, Ermal Beqiri nis përpjekjet për t’u liruar nga burgu! Çfarë vendosi gjykata franceze",
+      "link": "https://shekulli.com.al/2026/08/25/spak-pret-ekstradimin-e-tij-ermal-beqiri-nis-perpjekjet-per-tu-liruar-nga-burgu-cfare-vendosi-gjykata-franceze/",
+      "description": "Ermal Beqiri, biznesmeni shqiptar që SPAK kërkon ta ekstradojë nga Franca, ka nisur përpjekjet për të fituar lirinë. Sipas mediave franceze, ai ka paraqitur më 20 gusht një kërkesë për t’u liruar nga qelia, para trupit gjykues të Apelit të Amiens. Prokuroria franceze kundërshton lirimin e biznesmeni",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-25T18:37:59+00:00",
+      "dateStr": "25 Aug, 18:37",
+      "isNew": true,
+      "id": "she21787683079"
+    },
+    {
+      "title": "Vlorë/ Zjarr në Shashicë, flakët përhapen me shpejtësi",
+      "link": "https://abcnews.al/vlore-zjarr-ne-shashice-flaket-perhapen-me-shpejtesi/",
+      "description": "Një zjarr ka rënë mbrëmjen e sotme në zonën e Shashicës, në Vlorë, ku flakët po përhapen me shpejtësi të favorizuara nga era. Nga zjarri është përfshirë një sipërfaqe me bimësi dhe shkurre, ndërsa përhapja e shpejtë e flakëve ka rritur rrezikun për zgjerimin e vatrës. Në vendngjarje kanë mbërritur s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T18:36:25+00:00",
+      "dateStr": "25 Aug, 18:36",
+      "isNew": true,
+      "id": "abc21787682985"
     },
     {
       "title": "Tirana Live me Emilian Islami, (25/08/2026)",
@@ -34,73 +188,18 @@
       "date": "2026-08-25T18:26:09+00:00",
       "dateStr": "25 Aug, 18:26",
       "isNew": true,
-      "id": "abc01787682369"
+      "id": "abc31787682369"
     },
     {
-      "title": "Mallakastër/ 51-vjeçari bie nga 50 metra lartësi, shpëtohet nga zjarrfikësit",
-      "link": "https://abcnews.al/mallakaster-51-vjecari-bie-nga-50-metra-lartesi-shpetohet-nga-zjarrfikesit/",
+      "title": "VIDEO/ Mallakastër, 51-vjeçari bie nga 50 metra lartësi, shpëtohet nga zjarrfikësit",
+      "link": "https://abcnews.al/video-mallakaster-51-vjecari-bie-nga-50-metra-lartesi-shpetohet-nga-zjarrfikesit/",
       "description": "Një 51-vjeçar nga fshati Selitë i Mallakastrës ka pësuar një aksident të rëndë pasi ka rënë nga një lartësi prej rreth 50 metrash. Ngjarja ka ndodhur pasditen e sotme, ndërsa dyshohet se 51-vjeçari po tentonte të riparonte një tubacion uji pranë fshatit. Për arsye ende të paqarta, ai ka humbur ekuil",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-08-25T18:23:07+00:00",
       "dateStr": "25 Aug, 18:23",
       "isNew": true,
-      "id": "abc11787682187"
-    },
-    {
-      "title": "Detajet dhe fotot nga droga e sekuestruar në burgun 313, arrestohet familjari i të burgosurit",
-      "link": "https://24-ore.com/detajet-dhe-fotot-nga-droga-e-sekuestruar-ne-burgun-313-arrestohet-familjari-i-te-burgosurit/",
-      "description": "Agjencia e Mbikëqyrjes në Sistemin e Ekzekutimit të Vendimeve Penale ka publikuar fotot dhe detajet në lidhje me sekuestrimin e një sasie lënde narkotike në burgun “Jordan Misja” (313) në Tiranë. Sipas njoftimit zyrtar, këtë të martë, më 25 gusht, u arrestuan në flagrancë shtetasi O. A., i burgosur ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T18:22:47+00:00",
-      "dateStr": "25 Aug, 18:22",
-      "isNew": true,
-      "id": "24 21787682167"
-    },
-    {
-      "title": "“Sheikët” e Parlamentit, 700 mijë euro për deputetët në korrik! Dieta, rimbursime, telefona, naftë e qira! Peleshi dhe",
-      "link": "https://24-ore.com/sheiket-e-parlamentit-700-mije-euro-per-deputetet-ne-korrik-dieta-rimbursime-telefona-nafte-e-qira-peleshi-dhe/",
-      "description": "Kostoja për deputetët e Kuvendit gjatë muajit korrik rezulton të jetë mbi 707 mijë euro ose rreth 65 milionë lekë. Përveç pagës bruto që shkon për të gjithë ligjvënësit më shumë se 42 milionë lekë çdo muaj, e për secilin mesatarisht 300 000, deputetët kanë përfituar edhe rimbursime në vlerë 23 milio",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T18:22:25+00:00",
-      "dateStr": "25 Aug, 18:22",
-      "isNew": true,
-      "id": "24 31787682145"
-    },
-    {
-      "title": "“Po e humbasim luftën ngadalë”, alarmi i ish-ministrit të shkarkuar të Mbrojtjes së Ukrainës",
-      "link": "https://24-ore.com/po-e-humbasim-luften-ngadale-alarmi-i-ish-ministrit-te-shkarkuar-te-mbrojtjes-se-ukraines/",
-      "description": "Ukraina po e humbet luftën me Rusinë “gradualisht, ngadalë” dhe ka vetëm disa muaj në dispozicion për të ndryshuar rrjedhën e konfliktit. Kështu deklaroi ish-ministri ukrainas i Mbrojtjes, Mykhailo Fedorov, në një intervistë për Reuters. Fedorov, shkarkimi i të cilit së fundmi nga presidenti Volodym",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T18:22:24+00:00",
-      "dateStr": "25 Aug, 18:22",
-      "isNew": true,
-      "id": "24 41787682144"
-    },
-    {
-      "title": "Avioni që dyshohet se transportonte drejtorin e CIA-s largohet nga Moska, çfarë thonë burimet ndërkombëtare",
-      "link": "https://24-ore.com/avioni-qe-dyshohet-se-transportonte-drejtorin-e-cia-s-largohet-nga-moska-cfare-thone-burimet-nderkombetare/",
-      "description": "Një avion që besohet se transportonte drejtorin e CIA-s, John Ratcliffe, është larguar nga Moska, sipas të dhënave të publikuara nga platforma e gjurmimit të fluturimeve Flightradar24. As Shtetet e Bashkuara dhe as Rusia nuk kanë komentuar mbi fluturimin dhe nuk kanë konfirmuar nëse Ratcliffe ndodhe",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T18:21:47+00:00",
-      "dateStr": "25 Aug, 18:21",
-      "isNew": true,
-      "id": "24 51787682107"
-    },
-    {
-      "title": "Ndahet nga jeta në moshën 80-vjeçare legjenda e muzikës country, Dolly Parton",
-      "link": "https://24-ore.com/ndahet-nga-jeta-ne-moshen-80-vjecare-legjenda-e-muzikes-country-dolly-parton/",
-      "description": "Legjenda e muzikës country, Dolly Parton, ka ndërruar jetë në moshën 80-vjeçare. Lajmi është konfirmuar nga familjarët e saj përmes një videoje të publikuar në rrjetet sociale. Parton kishte një karrierë të jashtëzakonshme që zgjati më shumë se gjashtë dekada dhe u kthye në një prej figurave më të d",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T18:21:18+00:00",
-      "dateStr": "25 Aug, 18:21",
-      "isNew": true,
-      "id": "24 61787682078"
+      "id": "abc41787682187"
     },
     {
       "title": "“Nuk do vritemi…”/ Zbardhet biseda e Altin Allmuçës me vëllain e 45-vjeçares pak ditë para vrasjes, përse donte që ta takonte",
@@ -111,7 +210,7 @@
       "date": "2026-08-25T18:19:44+00:00",
       "dateStr": "25 Aug, 18:19",
       "isNew": true,
-      "id": "she01787681984"
+      "id": "she31787681984"
     },
     {
       "title": "Ndahet nga jeta Dolly Parton, ikona e muzikës country",
@@ -122,18 +221,7 @@
       "date": "2026-08-25T18:19:04+00:00",
       "dateStr": "25 Aug, 18:19",
       "isNew": true,
-      "id": "abc21787681944"
-    },
-    {
-      "title": "Dallas Cowboys, kandidatët e vërtetë për Super Bowl 2026; tre skuadra që mund të jenë të mbivlerësuara",
-      "link": "https://24-ore.com/dallas-cowboys-kandidatet-e-vertete-per-super-bowl-2026-tre-skuadra-qe-mund-te-jene-te-mbivleresuara/",
-      "description": "Dallas Cowboys duken të përgatitur për një rikthim serioz në garën për titullin e 2026-s. Qendra e ekipit mbetet Dak Prescott, i cili ka treguar qëndrueshm...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T18:13:27+00:00",
-      "dateStr": "25 Aug, 18:13",
-      "isNew": true,
-      "id": "24 71787681607"
+      "id": "abc51787681944"
     },
     {
       "title": "Resorti në Shqipëri, demokratët në SHBA zgjerojnë hetimin ndaj dhëndrit të Donald Trump",
@@ -144,18 +232,7 @@
       "date": "2026-08-25T18:11:25+00:00",
       "dateStr": "25 Aug, 18:11",
       "isNew": true,
-      "id": "she11787681485"
-    },
-    {
-      "title": "Modernizohet Drejtoria për Punë Hidrometeorologjike, u prezantuan investimet prej një milion eurove",
-      "link": "https://24-ore.com/modernizohet-drejtoria-per-pune-hidrometeorologjike-u-prezantuan-investimet-prej-nje-milion-eurove/",
-      "description": "Kryeministri Hristian Mickoski sot inspektoi investimet e realizuara dhe modernizimin e Drejtorisë për Punë Hidrometeorologjike (DPHM), ku u prezantuan kapacitetet e reja hapësinore, teknike dhe laboratorike të institucionit. Siç informoi drejtori i DPHM-së, Igor Lazarovski, gjatë dy viteve të fundi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T18:10:48+00:00",
-      "dateStr": "25 Aug, 18:10",
-      "isNew": true,
-      "id": "24 81787681448"
+      "id": "she41787681485"
     },
     {
       "title": "VIDEO/ Tre viktima dhe mbi 100 të plagosur nga zjarri në një kantier industrial në Rusi",
@@ -166,18 +243,7 @@
       "date": "2026-08-25T17:59:53+00:00",
       "dateStr": "25 Aug, 17:59",
       "isNew": true,
-      "id": "abc31787680793"
-    },
-    {
-      "title": "Joe dhe Shirley DioGuardi marrin shtetësinë, Kurti: Miq të vjetër të Kosovës",
-      "link": "https://24-ore.com/joe-dhe-shirley-dioguardi-marrin-shtetesine-kurti-miq-te-vjeter-te-kosoves/",
-      "description": "Kryeministri në detyrë Albin Kurti ka bërë të ditur se ish-kongresisti amerikan me origjinë shqiptare, Joe DioGuardi, dhe bashkëshortja e tij, Shirley Cloyes DioGuardi, tashmë janë zyrtarisht shtetas të Republikës së Kosovës. Kurti ka njoftuar se dyshja janë pritur në Zyrën e Kryeministrit, ku i ka ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T17:58:53+00:00",
-      "dateStr": "25 Aug, 17:58",
-      "isNew": true,
-      "id": "24 91787680733"
+      "id": "abc61787680793"
     },
     {
       "title": "Greqia përfshihet nga zjarret, 39 vatra të reja brenda pak orësh",
@@ -188,7 +254,7 @@
       "date": "2026-08-25T17:46:39+00:00",
       "dateStr": "25 Aug, 17:46",
       "isNew": true,
-      "id": "abc41787679999"
+      "id": "abc71787679999"
     },
     {
       "title": "Territorialja/ Demokratët në Këshillin Bashkiak: Nisni konsultimet edhe në Tiranë. PS dhe PD përplasen në Elbasan, në Klos kundër bashkimit me Matin",
@@ -199,7 +265,7 @@
       "date": "2026-08-25T17:46:32+00:00",
       "dateStr": "25 Aug, 17:46",
       "isNew": true,
-      "id": "she21787679992"
+      "id": "she51787679992"
     },
     {
       "title": "Kosovë/ Gjini: Protesta e 12 shtatorit është për të mbrojtur historinë për luftën dhe lirinë e Kosovës",
@@ -210,7 +276,7 @@
       "date": "2026-08-25T17:34:32+00:00",
       "dateStr": "25 Aug, 17:34",
       "isNew": true,
-      "id": "abc51787679272"
+      "id": "abc81787679272"
     },
     {
       "title": "VIDEO/ Mojtaba Khamenei ka vdekur? Mediet në Iran publikojnë pamje të Liderit Suprem",
@@ -221,7 +287,7 @@
       "date": "2026-08-25T17:30:02+00:00",
       "dateStr": "25 Aug, 17:30",
       "isNew": true,
-      "id": "she31787679002"
+      "id": "she61787679002"
     },
     {
       "title": "Çfarë po ndodh mes SHBA-së dhe Rusisë? Kreu i CIA-s vizitë të paparalajmëruar në Moskë",
@@ -232,7 +298,7 @@
       "date": "2026-08-25T17:21:21+00:00",
       "dateStr": "25 Aug, 17:21",
       "isNew": true,
-      "id": "she41787678481"
+      "id": "she71787678481"
     },
     {
       "title": "“Balkan Update” me Habi Hoxha, (25/08/2026)",
@@ -243,7 +309,7 @@
       "date": "2026-08-25T17:09:33+00:00",
       "dateStr": "25 Aug, 17:09",
       "isNew": true,
-      "id": "abc61787677773"
+      "id": "abc91787677773"
     },
     {
       "title": "“Ato 1000 euro që m’i ka dhënë kanë qenë për…”/ Dosja “Sheholli”, reagon Milaim Zeka pas akuzave",
@@ -254,29 +320,7 @@
       "date": "2026-08-25T17:09:24+00:00",
       "dateStr": "25 Aug, 17:09",
       "isNew": true,
-      "id": "she51787677764"
-    },
-    {
-      "title": "Thatësira zbulon urën e Perandorit Neron nën lumin Tibër në Romë",
-      "link": "https://abcnews.al/thatesira-zbulon-uren-e-perandorit-neron-nen-lumin-tiber-ne-rome/",
-      "description": "Një periudhë e pazakontë thatësire në Romë ka bërë që ujërat e lumit Tibër të tërhiqen, duke nxjerrë përsëri në dritë pjesë të një strukture të lashtë që mund të lidhet me urën e ndërtuar gjatë periudhës së Perandorit Neron. Bëhet fjalë për rrënojat e një ure romake që për shekuj kanë qëndruar të fs",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T17:05:24+00:00",
-      "dateStr": "25 Aug, 17:05",
-      "isNew": true,
-      "id": "abc71787677524"
-    },
-    {
-      "title": "BBC: Shefi i CIA, vizitë të paparalajmëruar në Moskë",
-      "link": "https://abcnews.al/bbc-shefi-i-cia-vizite-te-paparalajmeruar-ne-moske/",
-      "description": "Drejtori i CIA-s, John Ratcliffe, ka udhëtuar në Moskë për bisedime të paparalajmëruara, raportojnë mediat amerikane, në një vizitë që vjen në një moment të tensionuar në marrëdhëniet mes Uashingtonit dhe Moskës. Ratcliffe mbërriti në kryeqytetin rus të martën, ndërsa as Shtëpia e Bardhë, as CIA dhe",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T17:04:54+00:00",
-      "dateStr": "25 Aug, 17:04",
-      "isNew": true,
-      "id": "abc81787677494"
+      "id": "she81787677764"
     },
     {
       "title": "Si Serbia tentoi të rekrutonte Albin Kurtin teksa ai ishte i burgosur/ Zbulohet dokumenti “Leptiri”",
@@ -287,51 +331,7 @@
       "date": "2026-08-25T17:01:44+00:00",
       "dateStr": "25 Aug, 17:01",
       "isNew": true,
-      "id": "she61787677304"
-    },
-    {
-      "title": "Minxhozi: Opozita ka pranuar fundin e saj, protesta i mori ‘fushën e lojës’!",
-      "link": "https://abcnews.al/minxhozi-opozita-ka-pranuar-fundin-e-saj-protesta-i-mori-fushen-e-lojes/",
-      "description": "TIRANË- “Protesta i mori territor opozitës”, kështu u shpreh analisti Skënder Mixhozi në një intervistë në “Tirana Live” në ABC News, ndërsa foli për zhvillimet e fundit në vend. Sipas analistit, opozita është identifikuar gjithnjë e më shumë me protestën, duke humbur një pjesë të rolit të saj polit",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T16:37:44+00:00",
-      "dateStr": "25 Aug, 16:37",
-      "isNew": true,
-      "id": "abc91787675864"
-    },
-    {
-      "title": "“Të dua shumë por më ke lënduar”/ Biseda e fundit mes Altin Allmuçës dhe vajzës së tij para krimit: Nuk do më shohësh më!",
-      "link": "https://shekulli.com.al/2026/08/25/te-dua-shume-por-me-ke-lenduar-biseda-e-fundit-mes-altin-allmuces-dhe-vajzes-se-tij-para-krimit-nuk-do-me-shohesh-me/",
-      "description": "Detaje të reja janë zbardhur në lidhje me krimin e rëndë të ndodhur në Greqi, ku Luljeta Obzova u vra nga partneri i saj Altin Allmuça. Vajza e Altin Allmuçës ka folur në mediat greke në lidhje me ngjarjen, duke treguar se është e tronditur . “Jam e tronditur nga e gjithë kjo që ka [&#8230;]\nThe pos",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-25T16:36:12+00:00",
-      "dateStr": "25 Aug, 16:36",
-      "isNew": true,
-      "id": "she71787675772"
-    },
-    {
-      "title": "“Të rinjtë do ikin, shqiptarët do përçahen”/ Dokumenti “Top Sekret” në telefonin e Shehollit: Ja plani për t’i hapur “dyert” Serbisë",
-      "link": "https://shekulli.com.al/2026/08/25/te-rinjte-do-ikin-shqiptaret-do-percahen-dokumenti-top-sekret-ne-telefonin-e-shehollit-ja-plani-per-ti-hapur-dyert-serbise/",
-      "description": "Prokuroria Speciale e Kosovës ka proceduar penalisht Fatmir Shehollin, duke e akuzuar për spiunazh dhe shantazh. Sheholli, i arrestuar në tetor të vitit të kaluar, akuzohet për veprën penale të spiunazhit pasi dyshohet se ka ndihmuar shërbimin Informativ të Serbisë. Mes provave të paraqitura në dosj",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-25T16:23:51+00:00",
-      "dateStr": "25 Aug, 16:23",
-      "isNew": true,
-      "id": "she81787675031"
-    },
-    {
-      "title": "Dalin mesazhet e Shehollit dhe Milaim Zekës, “spiuni” i premton gazetarit 2 mijë € për publikimin e materialeve të BIA-s serbe",
-      "link": "https://shekulli.com.al/2026/08/25/dalin-mesazhet-e-shehollit-dhe-milaim-zekes-spiuni-i-premton-gazetarit-2-mije-e-per-publikimin-e-materialeve-te-bia-s-serbe/",
-      "description": "Prokuroria Speciale e Kosovës ka proceduar penalisht Fatmir Shehollin, duke e akuzuar për spiunazh dhe shantazh.  Sheholli, i arrestuar në tetor të vitit të kaluar, akuzohet për veprën penale të spiunazhit pasi dyshohet se ka ndihmuar shërbimin Informativ të Serbisë. Përmes përgjimit dhe vëzhgimit, ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-25T16:08:17+00:00",
-      "dateStr": "25 Aug, 16:08",
-      "isNew": true,
-      "id": "she91787674097"
+      "id": "she91787677304"
     }
   ]
 }
