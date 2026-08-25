@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-08-25T21:22:02.436543+00:00",
+  "lastUpdated": "2026-08-25T22:20:42.286421+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Kelmendi: Natën para vrasjes, Jusuf Gërvalla, Kadri Zeka dhe unë u dakorduam për bashkim",
+      "link": "https://24-ore.com/kelmendi-naten-para-vrasjes-jusuf-gervalla-kadri-zeka-dhe-une-u-dakorduam-per-bashkim/",
+      "description": "Veprimtari Ibrahim Kelmendi ka rrëfyer detaje nga njohja dhe bashkëpunimi i tij me Jusuf Gërvallën, raportet mes Gërvallës dhe Kadri Zekës, si dhe takimin e 16-17 janarit 1982, pak para vrasjes së tyre. Në intervistën ekskluzive për emisionin “Debat Plus”, në kuadër të ciklit “Dosjet”, Kelmendi ka f",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T22:13:28+00:00",
+      "dateStr": "25 Aug, 22:13",
+      "isNew": true,
+      "id": "24 01787696008"
+    },
+    {
+      "title": "“Berisha e konsideron Shqipërinë si pronë të tij”/ Mahmutaj: Saliu, pengesa kryesore e opozitës",
+      "link": "https://abcnews.al/berisha-e-konsideron-shqiperine-si-prone-te-tij-mahmutaj-saliu-pengesa-kryesore-e-opozites/",
+      "description": "Gazetari Fatos Mahmutaj në një intervistë në “Ora e Fundit” në ABC News, foli për zhvillimet politike në vend. Gjatë intervistës u ndal edhe tek situata në PD, duke thënë se kreu i PD Sali Berisha e ka humbur betejën me qytetarët dhe se politika e tij ka prodhuar vetëm dhunë. Gazetari e cilësoi këtë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T21:43:48+00:00",
+      "dateStr": "25 Aug, 21:43",
+      "isNew": true,
+      "id": "abc01787694228"
+    },
+    {
+      "title": "Holanda si Italia: Donim Guardiolën për rolin e trajnerit, por ai na tha…",
+      "link": "https://24-ore.com/holanda-si-italia-donim-guardiolen-per-rolin-e-trajnerit-por-ai-na-tha/",
+      "description": "Jo vetëm Italia. Disponueshmëria e Pep Guardiolës, i cili u largua nga Manchester City në fund të sezonit të kaluar, ka tërhequr vëmendjen e shumë ekipeve kombëtare, të gatshme të rikthehen te trajneri spanjoll pas Kupës së Botës. Spanjolli përfundoi dhe në listën e Holandës, ndërsa ata kërkonin një",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T21:36:30+00:00",
+      "dateStr": "25 Aug, 21:36",
+      "isNew": true,
+      "id": "24 11787693790"
+    },
+    {
+      "title": "Lojërat Mesdhetare: Kosova U18 mundet nga Maroku",
+      "link": "https://24-ore.com/lojerat-mesdhetare-kosova-u18-mundet-nga-maroku/",
+      "description": "Kosova U18 për vajza ka pësuar një tjetër humbje në Lojërat Mesdhetare duke u mposhtur nga Maroku me rezultatin 4-0. Golat u shënuan nga Mouradi(6’ dhe 13’) dhe Abajiou(38’ dhe 49’). Në ndeshjen e luajtur në Franco Fanuzzi Stadium nuk kishte shumë histori, por për vajzat “Dardane” kjo mund të shërbe",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T21:36:10+00:00",
+      "dateStr": "25 Aug, 21:36",
+      "isNew": true,
+      "id": "24 21787693770"
+    },
     {
       "title": "Zjarri në Vlorë merr përmasa të mëdha, kryetarja e bashkisë: Nuk rrezikohen banesat",
       "link": "https://24-ore.com/zjarri-ne-vlore-merr-permasa-te-medha-kryetarja-e-bashkise-nuk-rrezikohen-banesat/",
@@ -12,7 +56,7 @@
       "date": "2026-08-25T21:21:09+00:00",
       "dateStr": "25 Aug, 21:21",
       "isNew": true,
-      "id": "24 01787692869"
+      "id": "24 31787692869"
     },
     {
       "title": "Bëri aksident me “Lamborghinin” që kushton 270 mijë paund, futbollisti i njohur rrezikon deri në 2 vite burg!",
@@ -23,7 +67,18 @@
       "date": "2026-08-25T21:20:25+00:00",
       "dateStr": "25 Aug, 21:20",
       "isNew": true,
-      "id": "24 11787692825"
+      "id": "24 41787692825"
+    },
+    {
+      "title": "“Një vajzë e varfër, një kitarë dhe një ëndërr”/ Dolly Parton, mbretëresha e muzikës që pushtoi botën",
+      "link": "https://abcnews.al/nje-vajze-e-varfer-nje-kitare-dhe-nje-enderr-dolly-parton-mbreteresha-e-muzikes-qe-pushtoi-boten/",
+      "description": "Dolly Parton, një prej ikonave më të mëdha të muzikës amerikane dhe një prej figurave më të dashura të kulturës pop, është ndarë nga jeta në moshën 80-vjeçare. Këngëtarja, kompozitorja, aktorja dhe filantropistja ndërroi jetë të martën në shtëpinë e saj në Nashville, sipas një deklarate të familjes.",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T21:18:05+00:00",
+      "dateStr": "25 Aug, 21:18",
+      "isNew": true,
+      "id": "abc11787692685"
     },
     {
       "title": "Skandali me mbetjet, Bashkia Rrogozhinë demaskon Qosen e Kavajës: Gënjen për kufijtë e bashkisë për t’i ikur përgjegj�",
@@ -34,7 +89,7 @@
       "date": "2026-08-25T21:04:46+00:00",
       "dateStr": "25 Aug, 21:04",
       "isNew": true,
-      "id": "24 21787691886"
+      "id": "24 51787691886"
     },
     {
       "title": "‘Vijat e kuqe’ të SHBA, opozita dhe revolucioni që s’ndezi as nga ‘Gaza’",
@@ -45,7 +100,7 @@
       "date": "2026-08-25T21:01:39+00:00",
       "dateStr": "25 Aug, 21:01",
       "isNew": true,
-      "id": "24 31787691699"
+      "id": "24 61787691699"
     },
     {
       "title": "SHBA – Trump ul flamujt në gjysmë shtizë në nderim të Dolly Parton",
@@ -56,7 +111,7 @@
       "date": "2026-08-25T21:01:12+00:00",
       "dateStr": "25 Aug, 21:01",
       "isNew": true,
-      "id": "24 41787691672"
+      "id": "24 71787691672"
     },
     {
       "title": "BIA serbe donte ta rekrutonte si spiun/ Çfarë ndodhi me Albin Kurtin në burgjet serbe në vitin 2001?",
@@ -78,7 +133,7 @@
       "date": "2026-08-25T20:49:49+00:00",
       "dateStr": "25 Aug, 20:49",
       "isNew": true,
-      "id": "24 51787690989"
+      "id": "24 81787690989"
     },
     {
       "title": "Kuba dënon zgjatjen e embargos amerikane",
@@ -89,7 +144,7 @@
       "date": "2026-08-25T20:48:37+00:00",
       "dateStr": "25 Aug, 20:48",
       "isNew": true,
-      "id": "abc01787690917"
+      "id": "abc21787690917"
     },
     {
       "title": "VIDEO/ Zjarri në Shashicë ende problematik, ndërhyjnë emergjencat civile dhe forcat zjarrikëse",
@@ -100,7 +155,7 @@
       "date": "2026-08-25T20:44:16+00:00",
       "dateStr": "25 Aug, 20:44",
       "isNew": true,
-      "id": "abc11787690656"
+      "id": "abc31787690656"
     },
     {
       "title": "Erdogan gati për luftë? Presidenti turk para ushtarëve “selxhukë”: Shekulli i Turqisë së madhe ka filluar",
@@ -122,18 +177,7 @@
       "date": "2026-08-25T20:35:37+00:00",
       "dateStr": "25 Aug, 20:35",
       "isNew": true,
-      "id": "24 61787690137"
-    },
-    {
-      "title": "Qytetarët e Divjakës kundër shkrirjes së bashkisë, mbajnë protestën e 26-të! Thirrje deputetëve të mos e votojnë Terr",
-      "link": "https://24-ore.com/qytetaret-e-divjakes-kunder-shkrirjes-se-bashkise-mbajne-protesten-e-26-te-thirrje-deputeteve-te-mos-e-votojne-terr/",
-      "description": "Qytetarët e Divjakës zhvilluan sot ditën e 26-të të protestës së tyre kundër reformës së re administrative-territoriale të propozuar nga Partia Socialiste, e cila parashikon shkrirjen e kësaj bashkie së bashku me 14 të tjera në shkallë vendi. Gjatë fjalimeve të mbajtura në shesh, organizatorët u kan",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T20:34:48+00:00",
-      "dateStr": "25 Aug, 20:34",
-      "isNew": true,
-      "id": "24 71787690088"
+      "id": "24 91787690137"
     },
     {
       "title": "“Babai ishte nga Kukësi”, ish-kongresmeni amerikan: Kam një jetë që flas për shqiptarët, kur dëgjova “gur-gur bëhet mur”, kuptova shqipen",
@@ -147,17 +191,6 @@
       "id": "she21787690007"
     },
     {
-      "title": "Nuggets prezantojnë parketin e ri para sezonit NBA 2026-27",
-      "link": "https://24-ore.com/nuggets-prezantojne-parketin-e-ri-para-sezonit-nba-2026-27/",
-      "description": "Denver Nuggets zbuluan dizajnin e ri të parketit për sezonin 2026-27, duke ndarë foto dhe video të instalimit. Parketi sjell një estetikë të ndryshme vizua...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T20:27:10+00:00",
-      "dateStr": "25 Aug, 20:27",
-      "isNew": true,
-      "id": "24 81787689630"
-    },
-    {
       "title": "Zjarri përfshin malin e Shashicës në Vlorë, flakët përhapen me shpejtësi",
       "link": "https://shekulli.com.al/2026/08/25/zjarri-perfshin-malin-e-shashices-ne-vlore-flaket-perhapen-me-shpejtesi/",
       "description": "Një vatër zjarri është aktivizuar mbrëmjen e sotme në malin e Shashicës, në Vlorë, duke alarmuar banorët dhe autoritetet lokale. Flakët janë përhapur me shpejtësi, të favorizuara nga era, e cila po vështirëson ndërhyrjen e forcave zjarrfikëse. Pas marrjes së njoftimit, në zonë janë nisur shërbimet z",
@@ -169,17 +202,6 @@
       "id": "she31787689476"
     },
     {
-      "title": "Ndahet nga jeta Dolly Parton",
-      "link": "https://24-ore.com/ndahet-nga-jeta-dolly-parton/",
-      "description": "Legjenda e muzikës country Dolly Parton ka ndërruar jetë në moshën 80-vjeçare. Lajmin e trishtë e bëri të ditur të martën nipi i saj dhe ish-kreu i sigurisë së saj prej më shumë se dy dekadash, Bryan Seaver, përmes një videoje të publikuar në Instagram. Edhe ekipi i publicitetit të këngëtares konfir",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T20:21:10+00:00",
-      "dateStr": "25 Aug, 20:21",
-      "isNew": true,
-      "id": "24 91787689270"
-    },
-    {
       "title": "Nuk ka liri per Ermal Beqirajn/ Apeli francez lë në qeli biznesmenin",
       "link": "https://abcnews.al/nuk-ka-liri-per-ermal-beqirajn-apeli-francez-le-ne-qeli-biznesmenin/",
       "description": "Drejtësia franceze ka vendosur të mbajë në paraburgim biznesmenin Ermal Beqiri, ndërsa në Francë vijon procedura për shqyrtimin e kërkesës së Shqipërisë për ekstradimin e tij. Gjykata e Apelit në Amiens ka rrëzuar kërkesën e Beqirit për lirimin nga qelia, pavarësisht pretendimit të mbrojtjes se ai p",
@@ -188,7 +210,7 @@
       "date": "2026-08-25T20:21:01+00:00",
       "dateStr": "25 Aug, 20:21",
       "isNew": true,
-      "id": "abc21787689261"
+      "id": "abc41787689261"
     },
     {
       "title": "E rëndë në Mallakastër! 51-vjeçari bie në humnerë nga 50 metra lartësi, familja lajmëron zjarrfikësit për ndihmë",
@@ -210,7 +232,7 @@
       "date": "2026-08-25T20:12:26+00:00",
       "dateStr": "25 Aug, 20:12",
       "isNew": true,
-      "id": "abc31787688746"
+      "id": "abc51787688746"
     },
     {
       "title": "Flet amerikani që po merret me projektin e shtetit bektashi në Tiranë: Nuk kemi qenë kurrë kaq afër",
@@ -232,7 +254,7 @@
       "date": "2026-08-25T20:05:11+00:00",
       "dateStr": "25 Aug, 20:05",
       "isNew": true,
-      "id": "abc41787688311"
+      "id": "abc61787688311"
     },
     {
       "title": "Telefonata me nënën mbi centralin bërthamor, Ermal Beqiri: Nuk zgjodha vendin më të mirë për t’u fshehur, mund të kisha shkuar në Dubai…",
@@ -276,7 +298,7 @@
       "date": "2026-08-25T19:29:12+00:00",
       "dateStr": "25 Aug, 19:29",
       "isNew": true,
-      "id": "abc51787686152"
+      "id": "abc71787686152"
     },
     {
       "title": "PROFIL/ Nga meditimi për mbylljen e karrierës te zbehja e paragjykimeve. Islam Dudaev, mundësi çeçen që po ”lan në ar” Shqipërinë",
@@ -298,7 +320,7 @@
       "date": "2026-08-25T18:49:38+00:00",
       "dateStr": "25 Aug, 18:49",
       "isNew": true,
-      "id": "abc61787683778"
+      "id": "abc81787683778"
     },
     {
       "title": "SHBA përgatitet për revokim masiv vizash, rrezikojnë të preken rreth 200 mijë persona",
@@ -309,29 +331,7 @@
       "date": "2026-08-25T18:42:06+00:00",
       "dateStr": "25 Aug, 18:42",
       "isNew": true,
-      "id": "abc71787683326"
-    },
-    {
-      "title": "Vlorë/ Zjarr në Shashicë, flakët përhapen me shpejtësi",
-      "link": "https://abcnews.al/vlore-zjarr-ne-shashice-flaket-perhapen-me-shpejtesi/",
-      "description": "Një zjarr ka rënë mbrëmjen e sotme në zonën e Shashicës, në Vlorë, ku flakët po përhapen me shpejtësi të favorizuara nga era. Nga zjarri është përfshirë një sipërfaqe me bimësi dhe shkurre, ndërsa përhapja e shpejtë e flakëve ka rritur rrezikun për zgjerimin e vatrës. Në vendngjarje kanë mbërritur s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T18:36:25+00:00",
-      "dateStr": "25 Aug, 18:36",
-      "isNew": true,
-      "id": "abc81787682985"
-    },
-    {
-      "title": "Tirana Live me Emilian Islami, (25/08/2026)",
-      "link": "https://abcnews.al/tirana-live-me-emilian-islami-25-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T18:26:09+00:00",
-      "dateStr": "25 Aug, 18:26",
-      "isNew": true,
-      "id": "abc91787682369"
+      "id": "abc91787683326"
     }
   ]
 }
