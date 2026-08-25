@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-08-25T04:33:40.706406+00:00",
+  "lastUpdated": "2026-08-25T05:26:12.128001+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Trump përshkallëzon luftën tregtare me Kanadanë, tarifat për automjetet shkojnë në 50%",
+      "link": "https://abcnews.al/trump-pershkallezon-luften-tregtare-me-kanadane-tarifat-per-automjetet-shkojne-ne-50/",
+      "description": "Presidenti amerikan Donald Trump ka paralajmëruar rritjen e tarifave doganore për automjetet dhe pjesët e makinave të importuara nga Kanadaja në 50%, duke nisur nga 1 janari 2027. Vendimi vjen pas dështimit të negociatave tregtare mes Uashingtonit dhe Otavës dhe ka shtuar ndjeshëm tensionet mes dy v",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T05:24:53+00:00",
+      "dateStr": "25 Aug, 05:24",
+      "isNew": true,
+      "id": "abc01787635493"
+    },
+    {
+      "title": "Parashikimi i motit, 25 gusht 2026/ Temperaturat mbeten të larta",
+      "link": "https://abcnews.al/parashikimi-i-motit-25-gusht-2026-temperaturat-mbeten-te-larta/",
+      "description": "Ditën e martë vendi ynë do të ndikohet nga të njëjtat kushte meteorologjike. Moti parashikohet me alternime kthjellimesh dhe vranësirash mesatare e kalimtare, por pa reshje shiu, ndërsa temperaturat në rritje. Era ka fryrë me drejtim kryesor veriperëndim-juglindje 7m/s, ndërsa në bregdet, male e lug",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T05:15:56+00:00",
+      "dateStr": "25 Aug, 05:15",
+      "isNew": true,
+      "id": "abc11787634956"
+    },
+    {
+      "title": "Mot i nxehtë, temperaturat deri në 35 gradë",
+      "link": "https://24-ore.com/mot-i-nxehte-temperaturat-deri-ne-35-grade/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot me diell dhe vranësira të shpërndara. IHK njofton se temperaturat minimale do të lëvizin ndërmjet 11 dhe 15 gradë Celsius, ndërkaq ato maksimale nga 30 deri në 35 gradë Celsius. Era do të fryjë nga verilindja, 1–4 m/s. /Teleg",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T05:14:06+00:00",
+      "dateStr": "25 Aug, 05:14",
+      "isNew": true,
+      "id": "24 01787634846"
+    },
+    {
+      "title": "Lakers nderojnë Kobe Bryant në ‘Mamba Day’ dhe Vanessa Bryant përkujton ditëlindjen e tij të 48-të",
+      "link": "https://24-ore.com/lakers-nderojne-kobe-bryant-ne-mamba-day-dhe-vanessa-bryant-perkujton-ditelindjen-e-tij-te-48-te/",
+      "description": "Jeanie Buss, guvernatore e Los Angeles Lakers, dhe klubi nderuan legjendën Kobe Bryant në përkujtim të asaj që njihet si \"Mamba Day\" më 24 gusht. Vanessa B...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T05:11:51+00:00",
+      "dateStr": "25 Aug, 05:11",
+      "isNew": true,
+      "id": "24 11787634711"
+    },
+    {
+      "title": "Horoskopi 25 gusht 2026, zbuloni parashikimin e yjeve për shenjën tuaj",
+      "link": "https://abcnews.al/horoskopi-25-gusht-2026-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj/",
+      "description": "Dashi Mos e lini për asnjë moment pas dore partnerin tuaj sot sepse mund t’iu lindin debate dhe mosmarrëveshje te mëdha me vone. Beqaret do ndihen me te sigurte ne hapat qe do hedhin dhe gjithçka do ju ece ashtu si e kishin ëndërruar. Hëna dhe Plutoni do favorizojnë gjate gjithë kohës financat. Do j",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T05:11:43+00:00",
+      "dateStr": "25 Aug, 05:11",
+      "isNew": true,
+      "id": "abc21787634703"
+    },
     {
       "title": "A është lëvizja “Bashkë” një parti marksiste?",
       "link": "https://24-ore.com/a-eshte-levizja-bashke-nje-parti-marksiste/",
@@ -12,7 +67,7 @@
       "date": "2026-08-25T03:44:04+00:00",
       "dateStr": "25 Aug, 03:44",
       "isNew": true,
-      "id": "24 01787629444"
+      "id": "24 21787629444"
     },
     {
       "title": "Giants fitojnë 5-0 ndaj Reds, Devers shpërthen me homer trepikësh; Whisenhunt largohet i dëmtuar",
@@ -23,7 +78,7 @@
       "date": "2026-08-25T03:20:44+00:00",
       "dateStr": "25 Aug, 03:20",
       "isNew": true,
-      "id": "24 11787628044"
+      "id": "24 31787628044"
     },
     {
       "title": "Chicago Cubs fitojnë 1-0 ndaj Arizona Diamondbacks; Pedro Ramirez vendos ndeshjen me tripël",
@@ -34,7 +89,7 @@
       "date": "2026-08-25T02:36:13+00:00",
       "dateStr": "25 Aug, 02:36",
       "isNew": true,
-      "id": "24 21787625373"
+      "id": "24 41787625373"
     },
     {
       "title": "Los Angeles Sparks përballë Atlanta Dream në Crypto.com Arena më 24 gusht 2026",
@@ -45,7 +100,7 @@
       "date": "2026-08-25T01:15:50+00:00",
       "dateStr": "25 Aug, 01:15",
       "isNew": true,
-      "id": "24 31787620550"
+      "id": "24 51787620550"
     },
     {
       "title": "Vlerësimet e rookie-ve në javën e dytë të parapërgatitjeve: David Bailey regjistron një sack, disa lojtarë ende të heshtur",
@@ -56,7 +111,7 @@
       "date": "2026-08-25T00:22:57+00:00",
       "dateStr": "25 Aug, 00:22",
       "isNew": true,
-      "id": "24 41787617377"
+      "id": "24 61787617377"
     },
     {
       "title": "Real Salt Lake rifillon garën për Leagues Cup me përballjen ndaj Club León",
@@ -67,7 +122,7 @@
       "date": "2026-08-24T23:51:54+00:00",
       "dateStr": "24 Aug, 23:51",
       "isNew": true,
-      "id": "24 51787615514"
+      "id": "24 71787615514"
     },
     {
       "title": "Jacob Young bën kapjen ‘Spider-Man’ dhe i ndalon Heriberto Hernández homerunin",
@@ -78,7 +133,7 @@
       "date": "2026-08-24T23:42:26+00:00",
       "dateStr": "24 Aug, 23:42",
       "isNew": true,
-      "id": "24 61787614946"
+      "id": "24 81787614946"
     },
     {
       "title": "Bayley mungon në programet e WWE, Hendry për projekt jashtë ringut dhe dilema për të ardhmen e Ilja Dragunov",
@@ -89,29 +144,7 @@
       "date": "2026-08-24T23:07:03+00:00",
       "dateStr": "24 Aug, 23:07",
       "isNew": true,
-      "id": "24 71787612823"
-    },
-    {
-      "title": "Minnesota Lynx vs. Golden State Valkyries, 24 gusht 2026 — përballje në Target Center",
-      "link": "https://24-ore.com/minnesota-lynx-vs-golden-state-valkyries-24-gusht-2026-perballje-ne-target-center/",
-      "description": "Minnesota Lynx do të presin Golden State Valkyries më 24 gusht 2026 në Target Center të Minneapolisit, në një përballje që pritet të ndikojë në pozicionimi...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T23:05:40+00:00",
-      "dateStr": "24 Aug, 23:05",
-      "isNew": true,
-      "id": "24 81787612740"
-    },
-    {
-      "title": "Lewandowski përballet me Cuypers në çerekfinalen e Leagues Cup në Chicago",
-      "link": "https://24-ore.com/lewandowski-perballet-me-cuypers-ne-cerekfinalen-e-leagues-cup-ne-chicago/",
-      "description": "Chicago Fire përballet me CF Monterrey në çerekfinalen e Leagues Cup, një ndeshje eliminimi që zhvillohet në SeatGeek Stadium dhe nis në orën 20:30 ET me t...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-24T22:26:41+00:00",
-      "dateStr": "24 Aug, 22:26",
-      "isNew": true,
-      "id": "24 91787610401"
+      "id": "24 91787612823"
     },
     {
       "title": "Një “shqiptar” mund një “maqedonas”/ Dudajev, kampion i Mesdheut në stilin e lirë të mundjes",
@@ -122,7 +155,7 @@
       "date": "2026-08-24T21:40:55+00:00",
       "dateStr": "24 Aug, 21:40",
       "isNew": true,
-      "id": "abc01787607655"
+      "id": "abc31787607655"
     },
     {
       "title": "Rama “skicon” Shqipërinë sociale/ Nura: Kryeministri po punon për zgjidhjen e problemeve të “Flamingove”",
@@ -133,7 +166,7 @@
       "date": "2026-08-24T21:36:39+00:00",
       "dateStr": "24 Aug, 21:36",
       "isNew": true,
-      "id": "abc11787607399"
+      "id": "abc41787607399"
     },
     {
       "title": "Lushnje/ Krimi në familje, shkak i konfliktit dyshohet për para. I moshuari transportohet drejt Traumës",
@@ -144,7 +177,7 @@
       "date": "2026-08-24T21:14:30+00:00",
       "dateStr": "24 Aug, 21:14",
       "isNew": true,
-      "id": "abc21787606070"
+      "id": "abc51787606070"
     },
     {
       "title": "SHBA heq Sirinë nga lista e shteteve sponsorizuese të terrorizmit",
@@ -155,7 +188,7 @@
       "date": "2026-08-24T21:12:25+00:00",
       "dateStr": "24 Aug, 21:12",
       "isNew": true,
-      "id": "abc31787605945"
+      "id": "abc61787605945"
     },
     {
       "title": "FOTO/ Vrau të ëmën dhe plagosi të atin me sqepar, ky është 45-vjeçari që u arrestua në Fier. Dyshohet se fillimisht u konfliktua me vëllanë…",
@@ -199,7 +232,7 @@
       "date": "2026-08-24T20:07:57+00:00",
       "dateStr": "24 Aug, 20:07",
       "isNew": true,
-      "id": "abc41787602077"
+      "id": "abc71787602077"
     },
     {
       "title": "EMRI-FOTO/ Krimi në familje, zbulohet identiteti i autorit të dyshuar të ngjarjes së rëndë në Lushnje",
@@ -210,7 +243,7 @@
       "date": "2026-08-24T20:02:47+00:00",
       "dateStr": "24 Aug, 20:02",
       "isNew": true,
-      "id": "abc51787601767"
+      "id": "abc81787601767"
     },
     {
       "title": "Emri/ Tmerr në Lushnje! I riu vret nënën me sqepar dhe plagos rëndë të atin",
@@ -232,7 +265,7 @@
       "date": "2026-08-24T19:51:33+00:00",
       "dateStr": "24 Aug, 19:51",
       "isNew": true,
-      "id": "abc61787601093"
+      "id": "abc91787601093"
     },
     {
       "title": "EMRI/ Plagoset turisti francez në Ksamil! 19-vjeçari dërgohet me urgjencë në spital",
@@ -244,17 +277,6 @@
       "dateStr": "24 Aug, 19:33",
       "isNew": true,
       "id": "she41787600024"
-    },
-    {
-      "title": "Summer Time Show, (24/08/2026)",
-      "link": "https://abcnews.al/summer-time-show-24-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T19:33:27+00:00",
-      "dateStr": "24 Aug, 19:33",
-      "isNew": true,
-      "id": "abc71787600007"
     },
     {
       "title": "Vuçiç për “topin e zjarrit nga Kosova”: Gjetëm një pajisje me parashutë. Policia e Kosovës e mohon",
@@ -277,28 +299,6 @@
       "dateStr": "24 Aug, 19:21",
       "isNew": true,
       "id": "she61787599264"
-    },
-    {
-      "title": "“Po tërheqin pafund të huaj”/ Alket Islami për “Summer Time Show”: Lezha dhe Shëngjini, zona që duhen zbuluar edhe nga lart",
-      "link": "https://abcnews.al/po-terheqin-pafund-te-huaj-alket-islami-per-summer-time-show-lezha-dhe-shengjini-zona-qe-duhen-zbuluar-edhe-nga-lart/",
-      "description": "Në një intervistë për “Summer Time Show”, Alket Islami foli për edicionin e 15-të “Open Air”, ku e përzgjedhura për këtë vit është Lezha. Ai e cilësoi zonën mbresëlënëse, sidomos kur shihet nga lart, ndërsa theksoi edhe rolin që kanë pasur eventet e tyre në promovimin e Shqipërisë. Islami tregoi gji",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T19:15:49+00:00",
-      "dateStr": "24 Aug, 19:15",
-      "isNew": true,
-      "id": "abc81787598949"
-    },
-    {
-      "title": "Dudaev i sjell Shqipërisë medaljen e artë në “Taranto 2026”, Rama: Një ditë historike!",
-      "link": "https://abcnews.al/dudaev-i-sjell-shqiperise-medaljen-e-arte-ne-taranto-2026-rama-nje-dite-historike/",
-      "description": "Kryeministri Edi Rama ka reaguar pas suksesit të sportistit Islam Dudaev, i cili fitoi medaljen e artë në Lojërat Mesdhetare Taranto 2026. Rama e cilësoi këtë një moment historik për Shqipërinë, pasi Dudaev i dhuroi vendit medaljen e parë të artë në këto lojëra. “Medalja e parë e arit për Shqipërinë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T19:01:56+00:00",
-      "dateStr": "24 Aug, 19:01",
-      "isNew": true,
-      "id": "abc91787598116"
     },
     {
       "title": "Deklarata e fortë e Benjamin Netanyahu: Irani tentoi të më vriste djalin!",
