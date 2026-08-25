@@ -1,84 +1,183 @@
 {
-  "lastUpdated": "2026-08-25T08:35:43.553144+00:00",
+  "lastUpdated": "2026-08-25T09:29:51.161348+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Hegseth: SHBA nuk e përjashton përdorimin e forcës ushtarake kundër Iranit",
-      "link": "https://24-ore.com/hegseth-shba-nuk-e-perjashton-perdorimin-e-forces-ushtarake-kunder-iranit/",
-      "description": "Sekretari amerikan i Mbrojtjes, Pete Hegseth, deklaroi se Shtetet e Bashkuara nuk e përjashtojnë përdorimin e forcës ushtarake kundër Iranit, përfshirë veprime në Ngushticën e Hormuzit dhe në territorin përreth Iranit. “Në asnjë mënyrë nuk e përjashtojmë mundësinë e sulmeve ushtarake në Ngushticën e",
+      "title": "21,1 gradë. oqeanet më të ngrohta se kurrë më parë",
+      "link": "https://abcnews.al/211-grade-oqeanet-me-te-ngrohta-se-kurre-me-pare/",
+      "description": "Më 22 gusht oqeanet e botës ishin më të ngrohta se kurrë më parë, që nga fillimi i matjeve në vitin 1979. Sipas të dhënave të programit të BE-së Copernicus temperatura mesatare globale e sipërfaqes së deteve dhe oqeaneve arriti në 21,1 gradë Celsius. Studiuesit e klimës u habitën veçanërisht nga koh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T09:22:30+00:00",
+      "dateStr": "25 Aug, 09:22",
+      "isNew": true,
+      "id": "abc01787649750"
+    },
+    {
+      "title": "Borxhi i shtetit ndaj sektorit privat arrin në 315 milionë euro",
+      "link": "https://24-ore.com/borxhi-i-shtetit-ndaj-sektorit-privat-arrin-ne-315-milione-euro/",
+      "description": "Në fund të qershorit, detyrimet e maturuara dhe të papaguara të institucioneve shtetërore, sipas të dhënave të Ministrisë së Financave, arritën në 692.523.113 euro. Krahasuar me fundin e dhjetorit të vitit 2025, detyrimet janë rritur për 26,37 milionë euro.Rritje e detyrimeve të maturuara dhe të pap",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-25T08:35:27+00:00",
+      "date": "2026-08-25T09:20:43+00:00",
+      "dateStr": "25 Aug, 09:20",
+      "isNew": true,
+      "id": "24 01787649643"
+    },
+    {
+      "title": "Tahiri: 120 deputetëve po u mohohet ushtrimi i mandatit të fituar nga populli",
+      "link": "https://24-ore.com/tahiri-120-deputeteve-po-u-mohohet-ushtrimi-i-mandatit-te-fituar-nga-populli/",
+      "description": "Shefi i Grupit Parlamentar të Aleancës, Besnik Tahiri, ka deklaruar sot para mediave se deputetëve të Kuvendit po u mohohet e drejta për të ushtruar mandatin e fituar në zgjedhje. Tahiri tha se mandati i deputetit buron nga vullneti i qytetarëve dhe se askush nuk mund ta pengojë ushtrimin e tij. “Ma",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T09:19:58+00:00",
+      "dateStr": "25 Aug, 09:19",
+      "isNew": true,
+      "id": "24 11787649598"
+    },
+    {
+      "title": "FOKUS – Përshkallëzohet lufta tregtare SHBA-Kanada, Otava përgatitet për kundërpërgjigje",
+      "link": "https://24-ore.com/fokus-pershkallezohet-lufta-tregtare-shba-kanada-otava-pergatitet-per-kunderpergjigje/",
+      "description": "&#8211; Presidenti amerikan, Donald Trump ka kërcënuar se do të dyfishojë nga 25% në 50% tarifat për automjetet dhe pjesët e makinave të importuara nga Kanadaja, duke nisur nga 1 janari, raportoi BBC. Ky vendim vjen pas dështimit të negociatat tregtare SHBA-Kanada në fundjavë. Të dyja palët akuzojnë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T09:16:04+00:00",
+      "dateStr": "25 Aug, 09:16",
+      "isNew": true,
+      "id": "24 21787649364"
+    },
+    {
+      "title": "Abdixhiku për vdekjen e Eqrem Kryeziut: LDK-ja dhe Kosova humbën një figurë të rëndësishme",
+      "link": "https://24-ore.com/abdixhiku-per-vdekjen-e-eqrem-kryeziut-ldk-ja-dhe-kosova-humben-nje-figure-te-rendesishme/",
+      "description": "Kryetari i Lidhjes Demokratike të Kosovës, Lumir Abdixhiku, ka reaguar pas vdekjes së Eqrem Kryeziut, ish-kryetarit të Komunës së Prizrenit dhe një prej figurave të hershme të LDK-së. Abdixhiku e ka cilësuar Kryeziun si një intelektual të shquar, veprimtar të brezit themeltar të LDK-së dhe shërbyes ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T09:10:33+00:00",
+      "dateStr": "25 Aug, 09:10",
+      "isNew": true,
+      "id": "24 31787649033"
+    },
+    {
+      "title": "Manchester City “peshkon” në Brazil, 40 milionë euro për sulmuesin Allan Elias",
+      "link": "https://24-ore.com/manchester-city-peshkon-ne-brazil-40-milione-euro-per-sulmuesin-allan-elias/",
+      "description": "Pasi ka shitur Savinho dhe Marmoush, të dy drejt Tottenham, Manchester City po mendon të plotësojë menjëherë këto vende të lëna bosh. Sipas shtypit britanik, “Citizens” pritet të zyrtarizojnë blerjen e Allan Elias. Bëhet fjalë për një sulmues anësor 22-vjeçar që luan me Palmeirasin në Brazil. Klubi ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T09:10:12+00:00",
+      "dateStr": "25 Aug, 09:10",
+      "isNew": true,
+      "id": "24 41787649012"
+    },
+    {
+      "title": "Ndërron jetë Eqrem Kryeziu",
+      "link": "https://24-ore.com/nderron-jete-eqrem-kryeziu/",
+      "description": "Ka vdekur Eqrem Kryeziu, ish-kryetar i Komunës së Prizrenit, ish-nënkryetar i Lidhjes Demokratike të Kosovës dhe ish-deputet i Kuvendit të Kosovës. Vdekjen e tij e ka konfirmuar përmes një postimi në Facebook drejtori i Bujqësisë dhe Zhvillimit Rural në Komunën e Prizrenit, i cili ka shprehur dhimbj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T09:05:34+00:00",
+      "dateStr": "25 Aug, 09:05",
+      "isNew": true,
+      "id": "24 51787648734"
+    },
+    {
+      "title": "VIDEO/ Vrau nënën me sqepar dhe plagosi të atin, momenti i arrestimit të 45-vjeçarit nga policia",
+      "link": "https://abcnews.al/video-vrau-nenen-me-sqepar-dhe-plagosi-te-atin-momenti-i-arrestimit-te-45-vjecarit-nga-policia/",
+      "description": "ABC News ka arritur të sigurojë videon e arrestimit të 45-vjeçarit Florjan Dalladaku. Pasi vrau nënën dhe plagosi rëndë babain me çekiç, 45-vjeçari u largua nga banesa e tij në fshatin Zhym të qytetit të Lushnjes, në përpjekje për t’u arratisur. Ai është ndaluar nga forcat e policisë, teksa po lëviz",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T09:03:29+00:00",
+      "dateStr": "25 Aug, 09:03",
+      "isNew": true,
+      "id": "abc11787648609"
+    },
+    {
+      "title": "Shifra deri në 3 mijë euro mbi rrogën, kush janë 10 deputetët e Kuvendit që morën pagesa të majme si dieta gjatë muajit Korrik",
+      "link": "https://shekulli.com.al/2026/08/25/shifra-deri-ne-3-mije-euro-mbi-rrogen-kush-jane-10-deputetet-e-kuvendit-qe-moren-pagesa-te-majme-si-dieta-gjate-muajit-korrik/",
+      "description": "TIRANË- Një pjesë e mirë e deputetëve të Shqipërisë, kanë përfituar dieta përgjatë muajit Korrik, në shifra që duken dhe më të larta se paga bazë që ata marrin. Në një dokument që është publikuar nga VNA, shihet se deputetët kanë përfituar pagesa mbi 2 mijë euro, që lidhen kryesisht me shpenzime për",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-25T08:59:31+00:00",
+      "dateStr": "25 Aug, 08:59",
+      "isNew": true,
+      "id": "she01787648371"
+    },
+    {
+      "title": "SHBA – Trump pritet të revokojë 200 000 viza për të huajt që kanë aplikuar për azil",
+      "link": "https://24-ore.com/shba-trump-pritet-te-revokoje-200-000-viza-per-te-huajt-qe-kane-aplikuar-per-azil/",
+      "description": "UASHINGTON, 25 gusht /ATSH-ANSA/ – Administrata e presidentit Trump po përgatitet të revokojë vizat e biznesit dhe turistike të afërsisht 200,000 të huajve që kanë aplikuar ose aktualisht po kërkojnë azil. Nëse zbatohet, masa do të përfaqësonte revokimin më të madh masiv të vizave në historinë e SHB",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T08:46:07+00:00",
+      "dateStr": "25 Aug, 08:46",
+      "isNew": true,
+      "id": "24 61787647567"
+    },
+    {
+      "title": "VLEN: Cili prokuror i ka ofruar marrëveshje Grubit",
+      "link": "https://24-ore.com/vlen-cili-prokuror-i-ka-ofruar-marreveshje-grubit/",
+      "description": "Nga VLEN thonë se pas seancës së parë gjyqësore ndaj Artan Grubit që u mbajt dje, gjithnjë e më shumë po dalin në pah pyetje serioze për atë që ka ndodhur prapa skenave dhe për përpjekjet për ta mbyllur këtë proces përmes një marrëveshjeje me Prokurorinë. Sipas VLEN-it, supozohet se Artan Grubi ësht",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T08:45:00+00:00",
+      "dateStr": "25 Aug, 08:45",
+      "isNew": true,
+      "id": "24 71787647500"
+    },
+    {
+      "title": "E priti 5 minuta pranë pallatit, dhe qëlloi dy herë! Detaje tronditëse nga krimi i dyfishtë në Greqi, vajza e Allmuçës ishte në dijeni të lidhjes jashtëmartesore",
+      "link": "https://shekulli.com.al/2026/08/25/e-priti-5-minuta-prane-pallatit-dhe-qelloi-dy-here-detaje-tronditese-nga-krimi-i-dyfishte-ne-greqi-vajza-e-altin-allmuces-ishte-ne-dijeni-te-lidhjes-jashtemartesore/",
+      "description": "GREQI- Detaje të reja kanë dalë në dritë nga krimi që ndodhi në Nea Smyrni, në Greqi, ku 48-vjeçari Altin Allmuça vrau me armë zjarri bashkëathdetaren e tij Julieta Obzova, me të cilën dyshohet se kishte një lidhje jashtëmartesore. Krimi, që është duke u hetuar nga autoritetet greke, është zhvilluar",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-25T08:41:11+00:00",
+      "dateStr": "25 Aug, 08:41",
+      "isNew": true,
+      "id": "she11787647271"
+    },
+    {
+      "title": "Mali i Dajtit ende në rrezik zjarri , ja si vijon situata e zjarreve në vend",
+      "link": "https://24-ore.com/mali-i-dajtit-ende-ne-rrezik-zjarri-ja-si-vijon-situata-e-zjarreve-ne-vend/",
+      "description": "Këtë të martë, Ministria e Mbrojtjes ka vijuar raportimin mbi situatën e zjarreve në vend duke informuar se gjatë 24 orëve të fundit, janë raportuar në total 31 vatra zjarri, nga të cilat 3 mbeten aktive dhe 6 janë nën mbikëqyrje. Situata vijon të mbetet e rënduar në malin e Dajtit ku gjatë ditës së",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T08:37:36+00:00",
+      "dateStr": "25 Aug, 08:37",
+      "isNew": true,
+      "id": "24 81787647056"
+    },
+    {
+      "title": "Braçe: Më thonë që Tiranën ia kanë premtuar “filanit”, unë do i shkoj deri në fund garës për bashkinë",
+      "link": "https://24-ore.com/brace-me-thone-qe-tiranen-ia-kane-premtuar-filanit-une-do-i-shkoj-deri-ne-fund-gares-per-bashkine/",
+      "description": "Deputeti socialist Erion Braçe ka rikthyer në vëmendje ambicien e tij për të garuar për Bashkinë e Tiranës në zgjedhjet vendore të vitit 2027. Në një postim në rrjetet sociale, Braçe shprehet se socialistët duhet të kenë mundësinë të zgjedhin mes alternativave dhe jo thjesht të përballen me një kand",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T08:37:10+00:00",
+      "dateStr": "25 Aug, 08:37",
+      "isNew": true,
+      "id": "24 91787647030"
+    },
+    {
+      "title": "SHBA heq Sirinë nga lista e shteteve sponsorizuese të terrorizmit",
+      "link": "https://abcnews.al/shba-heq-sirine-nga-lista-e-shteteve-sponsorizuese-te-terrorizmit-2/",
+      "description": "Shtetet e Bashkuara kanë hequr zyrtarisht Sirinë nga lista e “shteteve sponsorizuese të terrorizmit”, në një vendim që presidenti sirian Ahmed al-Sharaa e ka cilësuar si “historik” dhe një hap të rëndësishëm drejt rimëkëmbjes së vendit pas 14 vitesh luftë civile. Vendimi hyri në fuqi të hënën, pas p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T08:35:53+00:00",
       "dateStr": "25 Aug, 08:35",
       "isNew": true,
-      "id": "24 01787646927"
+      "id": "abc21787646953"
     },
     {
-      "title": "Braçe pas takimit në Pogradec: Socialistët nuk duhet të votojnë një njoftim si kandidat për Bashkinë e Tiranës",
-      "link": "https://24-ore.com/brace-pas-takimit-ne-pogradec-socialistet-nuk-duhet-te-votojne-nje-njoftim-si-kandidat-per-bashkine-e-tiranes-2/",
-      "description": "Pas mbledhjeve të kryeministrit Rama në Pogradec me drejtuesit e partisë dhe ministrat, deputeti i socialist, Erion Braçe, ka dalë me një deklaratë në rrjetet sociale, ku përsërit dëshirën për të kandiduar për kryetar bashkie dhe propozon që përzgjedhja të bëhet përmes votës së anëtarëve socialistë.",
-      "source": "24 ORE",
+      "title": "Fluks i lartë drejt bregdetit, trafik i rënduar në Rrugën e Kombit",
+      "link": "https://abcnews.al/fluks-i-larte-drejt-bregdetit-trafik-i-renduar-ne-rrugen-e-kombit/",
+      "description": "Fluksi i lartë i pushuesve që po udhëtojnë drejt bregdetit shqiptar ka sjellë trafik të rënduar edhe këtë të martë në Rrugën e Kombit, kryesisht në hyrje të Rrëshenit. Vështirësitë në qarkullim janë krijuar në pikën ku përfundon segmenti i autostrades dhe rruga ngushtohet, duke bërë që automjetet të",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-25T08:35:20+00:00",
-      "dateStr": "25 Aug, 08:35",
+      "date": "2026-08-25T08:25:30+00:00",
+      "dateStr": "25 Aug, 08:25",
       "isNew": true,
-      "id": "24 11787646920"
-    },
-    {
-      "title": "Braçe pas takimit në Pogradec: Socialistët nuk duhet të votojnë një njoftim si kandidat për Bashkinë e Tiranës",
-      "link": "https://24-ore.com/brace-pas-takimit-ne-pogradec-socialistet-nuk-duhet-te-votojne-nje-njoftim-si-kandidat-per-bashkine-e-tiranes/",
-      "description": "Pas mbledhjeve të kryeministrit Rama në Pogradec me drejtuesit e partisë dhe ministrat, deputeti i socialist, Erion Braçe, ka dalë me një deklaratë në rrjetet sociale, ku përsërit dëshirën për të kandiduar për kryetar bashkie dhe propozon që përzgjedhja të bëhet përmes votës së anëtarëve socialistë.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:35:20+00:00",
-      "dateStr": "25 Aug, 08:35",
-      "isNew": true,
-      "id": "24 21787646920"
-    },
-    {
-      "title": "Rama kthehet në zyrë, foto me qytetarët jashtë Kryeministrisë",
-      "link": "https://24-ore.com/rama-kthehet-ne-zyre-foto-me-qytetaret-jashte-kryeministrise-2/",
-      "description": "Edi Rama rikthehet në zyrë në Kryeministri. Pas Pogradecit, kanë vazhduar takimet me qytetarët edhe këtu në kryeqytet. Para se të hipte në automjetin e tij, ai ka bërë disa fotografi me disa qytetarë të cilët po rrinin pranë Kryeministrisë edhe po e prisnin. Rama organizoi një “retreat” 2-ditor në q",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:34:46+00:00",
-      "dateStr": "25 Aug, 08:34",
-      "isNew": true,
-      "id": "24 31787646886"
-    },
-    {
-      "title": "Rama kthehet në zyrë, foto me qytetarët jashtë Kryeministrisë",
-      "link": "https://24-ore.com/rama-kthehet-ne-zyre-foto-me-qytetaret-jashte-kryeministrise/",
-      "description": "Edi Rama rikthehet në zyrë në Kryeministri. Pas Pogradecit, kanë vazhduar takimet me qytetarët edhe këtu në kryeqytet. Para se të hipte në automjetin e tij, ai ka bërë disa fotografi me disa qytetarë të cilët po rrinin pranë Kryeministrisë edhe po e prisnin. Rama organizoi një “retreat” 2-ditor në q",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:34:46+00:00",
-      "dateStr": "25 Aug, 08:34",
-      "isNew": true,
-      "id": "24 41787646886"
-    },
-    {
-      "title": "SHBA – Disa persona, përfshirë fëmijë, viktima të një krimi familiar në Montana",
-      "link": "https://24-ore.com/shba-disa-persona-perfshire-femije-viktima-te-nje-krimi-familiar-ne-montana/",
-      "description": "MONTANA. 25 gusht /ATSH-AA/ – Disa persona, përfshirë fëmijë, u vranë kur një person i armatosur hapi zjarr në një shtëpi në shtetin amerikan Montana, thanë autoritetet. Policia e përshkroi incidentin pranë lagjes West End në qytetin Billings si një konflikt familjar. Personi i armatosur vdiq nga nj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:30:12+00:00",
-      "dateStr": "25 Aug, 08:30",
-      "isNew": true,
-      "id": "24 51787646612"
-    },
-    {
-      "title": "Abissnet Superiore: Partizani spostohet në Rrogozhinë për ndeshjen me Laçin",
-      "link": "https://24-ore.com/abissnet-superiore-partizani-spostohet-ne-rrogozhine-per-ndeshjen-me-lacin/",
-      "description": "Partizani nuk ka gati fushën e tij dhe për këto javë të para të kampionatit duhet të gjejë strehë në një stadium tjetër edhe si ekip pritës. Ndeshjen e parë të kuqtë e luajtën në stadiumin e Vorës, ku barazuan 0-0 me Teutën. Për ndeshjen e javës së dytë të Abissnet Superiore, që transmetohet në [&#8",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:29:48+00:00",
-      "dateStr": "25 Aug, 08:29",
-      "isNew": true,
-      "id": "24 61787646588"
+      "id": "abc31787646330"
     },
     {
       "title": "Gati vaksina kundër kancerit? Moderna dhe Merck nxjerrin lajmin e madh, studimet i hapin rrugën një vale trajtimesh të personalizuara për pacientët",
@@ -89,7 +188,7 @@
       "date": "2026-08-25T08:23:12+00:00",
       "dateStr": "25 Aug, 08:23",
       "isNew": true,
-      "id": "she01787646192"
+      "id": "she21787646192"
     },
     {
       "title": "U godit me sqepar nga i biri/ Krimi në Lushnje, 77-vjeçari në gjendje të rëndë: Ka plagë në kokë",
@@ -100,7 +199,7 @@
       "date": "2026-08-25T08:22:48+00:00",
       "dateStr": "25 Aug, 08:22",
       "isNew": true,
-      "id": "abc01787646168"
+      "id": "abc41787646168"
     },
     {
       "title": "Rasti i parë me Ethet e Nilit në Korçë, të mërkurën nisin depistimet",
@@ -111,29 +210,7 @@
       "date": "2026-08-25T08:18:53+00:00",
       "dateStr": "25 Aug, 08:18",
       "isNew": true,
-      "id": "abc11787645933"
-    },
-    {
-      "title": "Rrufetë gjatë verës, si të mbrohemi dhe cilat vende duhet të shmangim",
-      "link": "https://24-ore.com/rrufete-gjate-veres-si-te-mbrohemi-dhe-cilat-vende-duhet-te-shmangim/",
-      "description": "Stuhitë me rrufe janë një nga fenomenet atmosferike më të shpeshta gjatë verës. Gjeofizikanti Gabriel Rakaj shpjegon se temperaturat e larta të verës shoqërohen shpesh me ndryshime të menjëhershme të motit dhe zhvillim të stuhive me shkarkesa elektrike. “Rrufetë janë një fenomen natyror i zakonshëm,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:16:36+00:00",
-      "dateStr": "25 Aug, 08:16",
-      "isNew": true,
-      "id": "24 71787645796"
-    },
-    {
-      "title": "31 vatra zjarri në 24 orë, Ministria e Mbrojtjes: Ja zonat problematike",
-      "link": "https://24-ore.com/31-vatra-zjarri-ne-24-ore-ministria-e-mbrojtjes-ja-zonat-problematike/",
-      "description": "Ministria e Mbrojtjes njofton se gjatë 24 orëve të fundit janë raportuar 31 vatra zjarri në vend, nga të cilat 3 mbeten aktive dhe 6 janë nën mbikëqyrje. Vatrat aktive ndodhen në Malin e Dajtit, Ballenjë të Dibrës dhe Qafën e Helmës në Bulqizë, ndërsa sipas autoriteteve nuk paraqesin rrezik për zona",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:16:08+00:00",
-      "dateStr": "25 Aug, 08:16",
-      "isNew": true,
-      "id": "24 81787645768"
+      "id": "abc51787645933"
     },
     {
       "title": "25 gusht 2026, “Telefonatat e Teleshikuesve” – Mirëmëngjes me Bashkim Hoxhën",
@@ -144,18 +221,7 @@
       "date": "2026-08-25T08:15:08+00:00",
       "dateStr": "25 Aug, 08:15",
       "isNew": true,
-      "id": "abc21787645708"
-    },
-    {
-      "title": "LSDM: Edhe pas gjashtë javëve nuk është publikuar raporti për ujin në Gostivar",
-      "link": "https://24-ore.com/lsdm-edhe-pas-gjashte-javeve-nuk-eshte-publikuar-raporti-per-ujin-ne-gostivar/",
-      "description": "Kanë kaluar gjashtë javë dhe nuk ka asnjë dokument, raport apo analizë të ujit në Gostivar, thonë nga LSDM. Nga kjo parti thonë se gjithçka është gënjeshtër dhe propagandë. &#8220;Kush po përhap panik? Mickoski dhe Klekovski po përhapin panik. Duke mos e publikuar dokumentin për 6 javë dhe duke bërë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:14:44+00:00",
-      "dateStr": "25 Aug, 08:14",
-      "isNew": true,
-      "id": "24 91787645684"
+      "id": "abc61787645708"
     },
     {
       "title": "25 Gusht 2026, “Shtypi i ditës” – Mirëmëngjes me Bashkim Hoxhën",
@@ -166,7 +232,7 @@
       "date": "2026-08-25T08:13:41+00:00",
       "dateStr": "25 Aug, 08:13",
       "isNew": true,
-      "id": "abc31787645621"
+      "id": "abc71787645621"
     },
     {
       "title": "Vrau tre fëmijët e saj, psikologu rrëzon pretendimin e mbrojtjes, çështja e Lindsay Clancy do i kalojë jurisë për vendim",
@@ -177,7 +243,7 @@
       "date": "2026-08-25T08:13:29+00:00",
       "dateStr": "25 Aug, 08:13",
       "isNew": true,
-      "id": "she11787645609"
+      "id": "she31787645609"
     },
     {
       "title": "Ora e Fundit me Emilian Islamin, (24/08/2026)",
@@ -188,7 +254,7 @@
       "date": "2026-08-25T08:03:23+00:00",
       "dateStr": "25 Aug, 08:03",
       "isNew": true,
-      "id": "abc41787645003"
+      "id": "abc81787645003"
     },
     {
       "title": "“Ka pasur probleme me familjen”/ Krimi në Lushnje, banori: 45-vjeçari ka qenë me kartelë, vjet e çuan në Elbasan…",
@@ -199,7 +265,7 @@
       "date": "2026-08-25T07:59:56+00:00",
       "dateStr": "25 Aug, 07:59",
       "isNew": true,
-      "id": "abc51787644796"
+      "id": "abc91787644796"
     },
     {
       "title": "“I është thënë filanit dhe fistekes, që ti do të bëhesh kryetar i Bashkisë…”, Braçe e merr seriozisht garën për Tiranën: Do i shkoj deri në fund!",
@@ -210,29 +276,7 @@
       "date": "2026-08-25T07:54:55+00:00",
       "dateStr": "25 Aug, 07:54",
       "isNew": true,
-      "id": "she21787644495"
-    },
-    {
-      "title": "Hegseth: SHBA s’e përjashton përdorimin e forcës ushtarake kundër Iranit",
-      "link": "https://abcnews.al/hegseth-shba-se-perjashton-perdorimin-e-forces-ushtarake-kunder-iranit/",
-      "description": "Sekretari amerikan i Mbrojtjes, Pete Hegseth, tha se Shtetet e Bashkuara nuk e përjashtojnë përdorimin e forcës ushtarake kundër Iranit. Deklarata e tij vjen pasi Uashingtoni vendosi sanksione të reja kundër gati 60 subjekteve, individëve dhe anijeve, në kuadër të përpjekjeve për të shtuar presionin",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T07:50:24+00:00",
-      "dateStr": "25 Aug, 07:50",
-      "isNew": true,
-      "id": "abc61787644224"
-    },
-    {
-      "title": "Vrau nënën me sqepar dhe plagosi babain/ 45-vjeçari “kyç” gojën para grupit hetimor: Bën gjeste skizofrenie",
-      "link": "https://abcnews.al/vrau-nenen-me-sqepar-dhe-plagosi-babain-45-vjecari-kyc-gojen-para-grupit-hetimor-ben-gjeste-skizofrenie/",
-      "description": "Policia e Fierit ka marrë dëshminë paraprake të 45 vjeçarit Florjan Dalladaku për sulmin që u bëri prindërve të tij nga i cili mbeti e vdekur e ëma dhe u lëndua rëndë i ati. Burime pranë grupit hetimor thanë për ABC Neës se 45-vjeçari nuk reagon normalisht dhe se në vend të fjalëve bën gjeste [...]R",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T07:38:11+00:00",
-      "dateStr": "25 Aug, 07:38",
-      "isNew": true,
-      "id": "abc71787643491"
+      "id": "she41787644495"
     },
     {
       "title": "Vrau nënën dhe plagosi rëndë të atin, pamjet kur policia neutralizon Florion Dalladakun. Konflikti nisi me vëllanë që ishte kthyer nga Italia",
@@ -243,29 +287,7 @@
       "date": "2026-08-25T07:34:09+00:00",
       "dateStr": "25 Aug, 07:34",
       "isNew": true,
-      "id": "she31787643249"
-    },
-    {
-      "title": "31 vatra zjarri në 24 orë/ 3 mbeten aktive: Situata nën kontroll në të gjithë vendin",
-      "link": "https://abcnews.al/31-vatra-zjarri-ne-24-ore-3-mbeten-aktive-situata-nen-kontroll-ne-te-gjithe-vendin/",
-      "description": "Bazuar në informacionet e raportuara nga strukturat e sistemit të mbrojtjes civile, gjatë 24 orëve të fundit, janë raportuar në total 31 vatra zjarri, nga të cilat 3 mbeten aktive dhe 6 janë nën mbikëqyrje. Për menaxhimin e situatës janë angazhuar në total 370 forca operacionale dhe 22 automjete zja",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T07:34:02+00:00",
-      "dateStr": "25 Aug, 07:34",
-      "isNew": true,
-      "id": "abc81787643242"
-    },
-    {
-      "title": "A po ikin sërish rusët nga frika e mobilizimit ushtarak?",
-      "link": "https://abcnews.al/a-po-ikin-serish-ruset-nga-frika-e-mobilizimit-ushtarak/",
-      "description": "Për dy vjet, Sergei Rasokhin jetoi i fshehur në Rusi për t’iu shmangur shërbimit ushtarak. Së fundmi, ai arriti të largohej dhe të gjente strehim në Armeni. Ky vend ishte një nga destinacionet kryesore të rusëve që u larguan më 2022 dhe 2023 për t’iu shmangur mobilizimit për luftën në Ukrainë. Tash,",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T07:21:09+00:00",
-      "dateStr": "25 Aug, 07:21",
-      "isNew": true,
-      "id": "abc91787642469"
+      "id": "she51787643249"
     },
     {
       "title": "Kompensimi i naftës te Transporti Publik, Financat të gatshme për 3 muaj shtesë, pritet propozimi",
@@ -276,7 +298,7 @@
       "date": "2026-08-25T07:15:47+00:00",
       "dateStr": "25 Aug, 07:15",
       "isNew": true,
-      "id": "she41787642147"
+      "id": "she61787642147"
     },
     {
       "title": "Aksident tragjik pas mesnate në Durrës, humbin jetën dy persona",
@@ -287,7 +309,7 @@
       "date": "2026-08-25T06:23:39+00:00",
       "dateStr": "25 Aug, 06:23",
       "isNew": true,
-      "id": "she51787639019"
+      "id": "she71787639019"
     },
     {
       "title": "FOTO/ Vrau të ëmën dhe plagosi të atin me sqepar, ky është 45-vjeçari që u arrestua në Fier. Dyshohet se fillimisht u konfliktua me vëllanë…",
@@ -298,7 +320,7 @@
       "date": "2026-08-24T20:49:35+00:00",
       "dateStr": "24 Aug, 20:49",
       "isNew": true,
-      "id": "she61787604575"
+      "id": "she81787604575"
     },
     {
       "title": "Video/ Dhunë në protestë! Gruaja e pështyu, burri e godet me shkop",
@@ -309,29 +331,7 @@
       "date": "2026-08-24T20:37:25+00:00",
       "dateStr": "24 Aug, 20:37",
       "isNew": true,
-      "id": "she71787603845"
-    },
-    {
-      "title": "EMRAT/ Vrau nënën dhe plagosi rëndë babanë me sqepar, policia e Lushnjes: 45-vjeçari është në arrati, dyshohet për probleme të shëndetit mendor",
-      "link": "https://shekulli.com.al/2026/08/24/emrat-vrau-nenen-dhe-plagosi-rende-babane-me-sqepar-policia-45-vjecari-eshte-ne-arrati-dyshohet-per-probleme-te-shendetit-mendor/",
-      "description": "Fshati Zhymë në Lushnje u trondit mbrëmjen e sotme rreth orës 21:20, nga një krim brenda familjes. 45-vjeçari Florion Dalladaku ka vrarë nënën e tij Fanije Dalladaku, 80 vjeç, me sqepar, si dhe ka lënë të plagosur babanë e tij, Hasan Dalladaku, i cili është nën kujdesin e mjekëve. Policia bën me dij",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T20:14:24+00:00",
-      "dateStr": "24 Aug, 20:14",
-      "isNew": true,
-      "id": "she81787602464"
-    },
-    {
-      "title": "Emri/ Tmerr në Lushnje! I riu vret nënën me sqepar dhe plagos rëndë të atin",
-      "link": "https://shekulli.com.al/2026/08/24/emri-tmerr-ne-lushnje-i-riu-vret-nenen-me-sqepar-dhe-plagos-rende-te-atin/",
-      "description": "Një krim i rëndë brenda familjes ka ndodhur mbrëmjen e sotme në Lushnje, ku një persona ka vrarë nënën e tij dhe ka plagosur të atin. Ngjarja ka ndodhur në fshatin Zhymë, ku autori Florian Dalladaku ka goditur prindërit me sqepar, duke i marrë jetën nënës e duke plagosur rëndë babain. Pas krimit, ai",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T19:54:33+00:00",
-      "dateStr": "24 Aug, 19:54",
-      "isNew": true,
-      "id": "she91787601273"
+      "id": "she91787603845"
     }
   ]
 }
