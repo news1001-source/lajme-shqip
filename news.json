@@ -1,40 +1,205 @@
 {
-  "lastUpdated": "2026-08-25T06:37:33.681017+00:00",
+  "lastUpdated": "2026-08-25T07:39:29.127903+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Vrau nënën dhe plagosi babanë, Florion Dalladaku kishte tentuar të vriste me çifte edhe një bashkëfshatar",
-      "link": "https://24-ore.com/vrau-nenen-dhe-plagosi-babane-florion-dalladaku-kishte-tentuar-te-vriste-me-cifte-edhe-nje-bashkefshatar/",
-      "description": "Një ngjarje e rëndë ka tronditur fshatin Zhym, në Njësinë Administrative Krutje të Lushnjës, ku një 45-vjeçar dyshohet se ka sulmuar me sëpatë prindërit e tij. Si pasojë, nëna e tij 80-vjeçare ka humbur jetën, ndërsa babai është plagosur rëndë. Sipas të dhënave paraprake, Florion Dalladaku dyshohet ",
+      "title": "Juventusi vazhdon sondazhet për një numër 9, mes Zirkzee dhe Sorloth rishfaqet Mateta",
+      "link": "https://24-ore.com/juventusi-vazhdon-sondazhet-per-nje-numer-9-mes-zirkzee-dhe-sorloth-rishfaqet-mateta/",
+      "description": "Trajnerit Luciano Spalletti i duhet një qendërsulmues dhe orët e fundit ka dalë në skenë pista e shkëmbimit të francezit me Jonathan David. Që Luciano Spalletti nuk është i kënaqur nga merkatoja e Juventusit për sulmin, u kuptua nga fjalët e tij për Kolo Muani pas ndeshjes me Frosinone. Tentativa pë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-25T06:31:08+00:00",
-      "dateStr": "25 Aug, 06:31",
+      "date": "2026-08-25T07:35:08+00:00",
+      "dateStr": "25 Aug, 07:35",
       "isNew": true,
-      "id": "24 01787639468"
+      "id": "24 01787643308"
+    },
+    {
+      "title": "Ngushtohet rrethi për Infantino-n, edhe Fifa Legends kundër tij: Mjaft tani, duhet ndryshim!",
+      "link": "https://24-ore.com/ngushtohet-rrethi-per-infantino-n-edhe-fifa-legends-kunder-tij-mjaft-tani-duhet-ndryshim/",
+      "description": "Veron, Pires dhe Silvestre firmosin një komunikatë kundër kreut të FIFA-s, pasi kërkojnë një ndryshim struktural në administrimin e qeverisë së futbollit botëror. Një grup ish-kampionësh të futbollit ndërkombëtar, mes të cilëve Robert Pires, Juan Sebastian Veron dhe Mikael Silvestre, kanë shpërndarë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T07:34:46+00:00",
+      "dateStr": "25 Aug, 07:34",
+      "isNew": true,
+      "id": "24 11787643286"
+    },
+    {
+      "title": "Vrau nënën dhe plagosi rëndë të atin, pamjet kur policia neutralizon Florion Dalladakun. Konflikti nisi me vëllanë që ishte kthyer nga Italia",
+      "link": "https://shekulli.com.al/2026/08/25/vrau-nenen-dhe-plagosi-rende-te-atin-pamjet-kur-policia-neutralizon-florion-dalladakun-konflikti-nisi-me-vellane-qe-ishte-kthyer-nga-italia/",
+      "description": "LUSHNJE- Detaje të reja kanë dalë në dritë nga ngjarja e rëndë që ndodhi mbrëmjen e djeshme në Lushnje, ku 45-vjeçari Florion Dalladaku dyshohet se ka goditi me sqepar nënën e tij, 80-vjeçaren Fanije Dalladaku. E moshuara nuk ka mundur t’u mbijetojë plagëve të marra dhe ka ndërruar jetë. Gjatë ngjar",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-25T07:34:09+00:00",
+      "dateStr": "25 Aug, 07:34",
+      "isNew": true,
+      "id": "she01787643249"
+    },
+    {
+      "title": "Paratë e krimit pas bumit turistik në bregdetin shqiptar",
+      "link": "https://24-ore.com/parate-e-krimit-pas-bumit-turistik-ne-bregdetin-shqiptar/",
+      "description": "Foto nga Filip Bartos Nga: Edmond Hoxhaj Në mes të gushtit, Ksamili është një nga vendet më të mbipopulluara të Shqipërisë. Rrugët e fshatit mbushen me makina me targa të huaja, muzika nga baret vazhdon deri në orët e para të mëngjesit dhe plazhet e vogla përballë ishujve – të rrethuara nga hotele, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T07:31:57+00:00",
+      "dateStr": "25 Aug, 07:31",
+      "isNew": true,
+      "id": "24 21787643117"
+    },
+    {
+      "title": "Identifikohet një nga 2 personat që humbën jetën në aksidentin e Golemit në Durrës",
+      "link": "https://24-ore.com/identifikohet-nje-nga-2-personat-qe-humben-jeten-ne-aksidentin-e-golemit-ne-durres/",
+      "description": "Një aksident i rëndë me dy viktima është regjistruar në orët e para të mëngjesit të sotëm në Golem. Sipas informacionit paraprak të Policisë, ngjarja ka ndodhur rreth orës 00:20 të ditës së sotme e martë 25 gusht 2026. Një motomjet, në të cilin udhëtonin dy persona, është përplasur me një bordurë në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T07:31:54+00:00",
+      "dateStr": "25 Aug, 07:31",
+      "isNew": true,
+      "id": "24 31787643114"
+    },
+    {
+      "title": "RUSI – Kremlini: Fabrikat britanike të dronëve mund të sulmohen nga “burime të panjohura”",
+      "link": "https://24-ore.com/rusi-kremlini-fabrikat-britanike-te-droneve-mund-te-sulmohen-nga-burime-te-panjohura/",
+      "description": "&#8211; Fabrikat britanike që prodhojnë dronë për Ukrainën mund të përballen me sulme nga “burime të panjohura”, paralajmëroi Andrei Fedorov, këshilltar i Kremlinit dhe ish-zëvendësministër i Jashtëm i Rusisë, në një intervistë për BBC. Fedorov tha se mund të ketë një përgjigje “gjysmë-ushtarake” nd",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T07:31:11+00:00",
+      "dateStr": "25 Aug, 07:31",
+      "isNew": true,
+      "id": "24 41787643071"
+    },
+    {
+      "title": "BM – Burnham planifikon një udhëtim në SHBA për të nxitur Trumpin të mbështesë Ukrainën",
+      "link": "https://24-ore.com/bm-burnham-planifikon-nje-udhetim-ne-shba-per-te-nxitur-trumpin-te-mbeshtese-ukrainen/",
+      "description": "LONDËR, 25 gusht /. ATSH -AA/ – Kryeministri i Britanisë, Andy Burnham, tha të hënën se ai dhe liderë të tjerë evropianë po konsiderojnë të udhëtojnë në SHBA muajin e ardhshëm për të bërë presion ndaj Presidentit Donald Trump për të ndihmuar Ukrainën të sigurojë interceptues shtesë të mbrojtjes ajro",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T07:30:37+00:00",
+      "dateStr": "25 Aug, 07:30",
+      "isNew": true,
+      "id": "24 51787643037"
+    },
+    {
+      "title": "TEHERAN – Irani: Tërësisht të përgatitur për t’iu kundërpërgjigjur sanksioneve amerikane",
+      "link": "https://24-ore.com/teheran-irani-teresisht-te-pergatitur-per-tiu-kunderpergjigjur-sanksioneve-amerikane/",
+      "description": "TEHERAN/ UASHINGTON, 25 gusht /ATSH/- Irani deklaroi sot se është “tërësisht i përgatitur” për të përballuar zgjerimin e sanksioneve ekonomike amerikane, ndërsa Uashingtoni ka njoftuar një paketë të re masash që synojnë të izolojnë Teheranin nga ekonomia globale, raportoi BBC. Sekretari amerikan i T",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T07:30:16+00:00",
+      "dateStr": "25 Aug, 07:30",
+      "isNew": true,
+      "id": "24 61787643016"
+    },
+    {
+      "title": "A po ikin sërish rusët nga frika e mobilizimit ushtarak?",
+      "link": "https://abcnews.al/a-po-ikin-serish-ruset-nga-frika-e-mobilizimit-ushtarak/",
+      "description": "Për dy vjet, Sergei Rasokhin jetoi i fshehur në Rusi për t’iu shmangur shërbimit ushtarak. Së fundmi, ai arriti të largohej dhe të gjente strehim në Armeni. Ky vend ishte një nga destinacionet kryesore të rusëve që u larguan më 2022 dhe 2023 për t’iu shmangur mobilizimit për luftën në Ukrainë. Tash,",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T07:21:09+00:00",
+      "dateStr": "25 Aug, 07:21",
+      "isNew": true,
+      "id": "abc01787642469"
+    },
+    {
+      "title": "Ngrihet aktakuzë ndaj Fatmir Shehollit për “spiunazh” dhe “shantazh” – i rekrutuar nga BIA serbe jepte informacione për Kosovën",
+      "link": "https://24-ore.com/ngrihet-aktakuze-ndaj-fatmir-shehollit-per-spiunazh-dhe-shantazh-i-rekrutuar-nga-bia-serbe-jepte-informacione-per-kosoven/",
+      "description": "Prokuroria Speciale e Republikës së Kosovës ka ngritur aktakuzë ndaj të pandehurit Fatmir Shehollit, për dy vepra penale “Spiunazh” dhe “Shantazh”. Sipas aktakuzës, F.Sh., nga një datë e papërcaktuar e deri më 9 tetor 2025, në cilësinë e personit të rekrutuar nga Shërbimi Informativ i Serbisë, i njo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T07:21:02+00:00",
+      "dateStr": "25 Aug, 07:21",
+      "isNew": true,
+      "id": "24 71787642462"
+    },
+    {
+      "title": "Aksident tragjik në Golem, humbin jetën dy persona",
+      "link": "https://24-ore.com/aksident-tragjik-ne-golem-humbin-jeten-dy-persona/",
+      "description": "Një aksident tragjik është shënuar në orët e para të mëngjesit të së martës në Golem, ku dy persona kanë humbur jetën. Ngjarja ka ndodhur rreth orës 00:20 të datës 25 gusht 2026. Sipas policisë, një motomjet me dy persona është përplasur me një bordurë. Për pasojë, ka humbur jetën drejtuesi i motomj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T07:20:44+00:00",
+      "dateStr": "25 Aug, 07:20",
+      "isNew": true,
+      "id": "24 81787642444"
+    },
+    {
+      "title": "Hetuesit gjermanë gjejnë një dron të tretë dhe eksplozivë të dyshuar në aeroportin e Leipzig",
+      "link": "https://24-ore.com/hetuesit-gjermane-gjejne-nje-dron-te-trete-dhe-eksplozive-te-dyshuar-ne-aeroportin-e-leipzig/",
+      "description": "Aeroporti i Leipzig/Halle në Gjermaninë lindore luan një rol kyç në transportin e mallrave ushtarake, përfshirë ato nga ushtria gjermane dhe aleatët e NATO-s, dhe gjithashtu shërben si bazë për linjën ajrore Antonov të Ukrainës. Hetuesit në Gjermani kanë gjetur një dron të tretë dhe atë që dyshojnë ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T07:20:24+00:00",
+      "dateStr": "25 Aug, 07:20",
+      "isNew": true,
+      "id": "24 91787642424"
+    },
+    {
+      "title": "Kompensimi i naftës te Transporti Publik, Financat të gatshme për 3 muaj shtesë, pritet propozimi",
+      "link": "https://shekulli.com.al/2026/08/25/kompensimi-i-naftes-te-transporti-publik-financat-te-gatshme-per-3-muaj-shtese-pritet-propozimi/",
+      "description": "Shtrenjtimi i çmimit të naftës jo vetëm që po vështirëson koston e operimit te transporti publik privat, por ka rikthyer edhe një herë debatin mes ministrisë së Financave dhe asaj së Infrastrukturës dhe Energjisë (MIE). Që prej muajit maj shoqatat e transportit publik vijojnë të përsërisin shqetësim",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-25T07:15:47+00:00",
+      "dateStr": "25 Aug, 07:15",
+      "isNew": true,
+      "id": "she11787642147"
+    },
+    {
+      "title": "Detaje nga vrasja e 45-vjeçares shqiptare në Greqi/ Autori e shkelmoi dy herë dhe e qëlloi me plumb në kokë",
+      "link": "https://abcnews.al/detaje-nga-vrasja-e-45-vjecares-shqiptare-ne-greqi-autori-e-shkelmoi-dy-here-dhe-e-qelloi-me-plumb-ne-koke/",
+      "description": "Prova të reja kanë dalë në dritë në lidhje me vrasjen e 45 vjeçares Julieta Obzova në Nea Smyrni për autoritetet policore që po përpiqen të zbardhin enigmën e një krimi plotësisht të paramenduar. Pamjet nga kamerat e sigurisë kapin hap pas hapi veprimet e autorit të krimit, sulmin në hyrje të pallat",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T07:12:40+00:00",
+      "dateStr": "25 Aug, 07:12",
+      "isNew": true,
+      "id": "abc11787641960"
+    },
+    {
+      "title": "Si mund të kundërpërgjigjet Kanadaja për të dëmtuar ekonominë amerikane dhe Trumpin?",
+      "link": "https://abcnews.al/si-mund-te-kunderpergjigjet-kanadaja-per-te-demtuar-ekonomine-amerikane-dhe-trumpin/",
+      "description": "Çfarë ndikimi ka në të vërtetë Kanadaja, e cila shet rreth 70% të mallrave të saj në SHBA, në këtë mosmarrëveshje tregtare në spirale me fqinjin e saj jugor, i cili është gjithashtu ekonomia më e madhe në botë? Kanadaja është klienti kryesor për 26 shtete amerikane, duke përfshirë Maine, Michigan dh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T07:00:22+00:00",
+      "dateStr": "25 Aug, 07:00",
+      "isNew": true,
+      "id": "abc21787641222"
+    },
+    {
+      "title": "FBI i rikthen Egjiptit 48 objekte të lashta, dyshime për trafikim",
+      "link": "https://abcnews.al/fbi-i-rikthen-egjiptit-48-objekte-te-lashta-dyshime-per-trafikim/",
+      "description": "FBI-ja ka kthyer 48 objekte të lashta egjiptiane në Egjipt pas një hetimi nga Ekipi i saj i Krimit Kundër Artit. Koleksioni përfshin figurina, amuleta dhe pajisje varresh që datojnë nga periudhat faraonike, romake dhe kopte. Ndihmësdrejtori i FBI-së, Patrick Grandy, tha: “Këto objekte përfaqësojnë h",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T06:43:00+00:00",
+      "dateStr": "25 Aug, 06:43",
+      "isNew": true,
+      "id": "abc31787640180"
     },
     {
       "title": "Aksident i rëndë në Golem/ Motomjeti përplaset me bordurën, humbin jetën dy persona",
       "link": "https://abcnews.al/aksident-i-rende-ne-golem-motomjeti-perplaset-me-borduren-humbin-jeten-dy-persona/",
-      "description": "Rreth orës 00:20, të datës 25.08.2026, në Golem, një motomjet me dy persona është përplasur me një bordurë. Si pasojë e aksidentit, kanë humbur jetën drejtuesi i motomjetit, shtetasi E. L., 44 vjeç, si dhe pasagjeri, ende i paidentifikuar. Grupi hetimor ndodhet në vendngjarje dhe po punon për dokume",
+      "description": "Një aksident tragjik është shënuar rreth orës 00:20 në Golem. Sipas njoftimit të Policisë, një motomjet me dy persona është përplasur me një bordurë. Për pasojë, kanë humbur jetën drejtuesi i motomjetit, 44-vjeçari Elton Luzati, si dhe pasagjeri, i cili ende nuk është identifikuar. Në vendngjarje nd",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-08-25T06:26:00+00:00",
       "dateStr": "25 Aug, 06:26",
       "isNew": true,
-      "id": "abc01787639160"
+      "id": "abc41787639160"
     },
     {
       "title": "Aksident tragjik pas mesnate në Durrës, humbin jetën dy persona",
       "link": "https://shekulli.com.al/2026/08/25/aksident-tragjik-pas-mesnate-ne-durres-humbin-jeten-dy-persona/",
-      "description": "Rreth orës 00:20, të datës 25.08.2026, në Golem, një motomjet me dy persona është përplasur me një bordurë. Si pasojë e aksidentit, kanë humbur jetën drejtuesi i motomjetit, shtetasi E. L., 44 vjeç, si dhe pasagjeri, ende i paidentifikuar. Grupi hetimor ndodhet në vendngjarje dhe po punon për dokume",
+      "description": "Një aksident me dy persona të vdekur ka ndodhur pas mesnate në Durrës. Burime bëjnë me dije për Shekulli-n se viktimat po lëviznin me motomjet, dhe kanë humbur jetën si pasojë e përplasjes me bordurën. Njëri prej viktimave është ende i paidentifikuar. NJOFTIMI I POLICISË Rreth orës 00:20, të datës 2",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-08-25T06:23:39+00:00",
       "dateStr": "25 Aug, 06:23",
       "isNew": true,
-      "id": "she01787639019"
+      "id": "she21787639019"
     },
     {
       "title": "Paralajmërim nga Moska: Fabrikat britanike të dronëve mund të përballen me sulme",
@@ -45,40 +210,7 @@
       "date": "2026-08-25T06:15:37+00:00",
       "dateStr": "25 Aug, 06:15",
       "isNew": true,
-      "id": "abc11787638537"
-    },
-    {
-      "title": "“Travelweek”: Tirana moderne: Kryeqyteti shqiptar që po fiton një identitet të ri",
-      "link": "https://24-ore.com/travelweek-tirana-moderne-kryeqyteti-shqiptar-qe-po-fiton-nje-identitet-te-ri/",
-      "description": "&#8211; Tirana po përjeton një transformim të jashtëzakonshëm, duke u shndërruar nga një kryeqytet dikur i zymtë dhe i izoluar në një qytet modern, dinamik dhe gjithnjë e më tërheqës për turistët ndërkombëtarë, shkruan Tim Johnson për median kanadeze “Travelweek”. Ndryshimi vihet veçanërisht në pah ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T06:01:15+00:00",
-      "dateStr": "25 Aug, 06:01",
-      "isNew": true,
-      "id": "24 11787637675"
-    },
-    {
-      "title": "AGJENDA NDËRKOMBËTARE 25.8.2026",
-      "link": "https://24-ore.com/agjenda-nderkombetare-25-8-2026/",
-      "description": "KOMBET E BASHKUARA (Shtetet e Bashkuara) – Takim i Këshillit të Sigurimit të OKB-së mbi krizat ushqimore në zonat e konfliktit. COX’S BAZAR (Bangladesh) – Protesta e refugjatëve Rohingya për të shënuar nëntë vjet shtypje në Mianmar. MOSKË (Rusia) – Vizitë e kryepeshkopit Paul Richard Gallagher, sekr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T06:00:40+00:00",
-      "dateStr": "25 Aug, 06:00",
-      "isNew": true,
-      "id": "24 21787637640"
-    },
-    {
-      "title": "FOKUS – Mosmarrja e rregullt e ilaçeve për diabetin 2 rrit rrezikun për infarkt dhe goditje në tru",
-      "link": "https://24-ore.com/fokus-mosmarrja-e-rregullt-e-ilaceve-per-diabetin-2-rrit-rrezikun-per-infarkt-dhe-goditje-ne-tru/",
-      "description": "– Ata që ndjekin rregullisht trajtimin për diabetin e tipit 2 kanë më pak rrezik për infarkt dhe goditje në tru, sipas një studimi të Universitetit të Kopenhagës, i udhëhequr nga Jordi Merino, nga Novo Nordisk Foundation Center for Basic Metabolic Research, shkruan salute.eu. “Ilaçet nuk funksionojn",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T06:00:17+00:00",
-      "dateStr": "25 Aug, 06:00",
-      "isNew": true,
-      "id": "24 31787637617"
+      "id": "abc51787638537"
     },
     {
       "title": "UNICEF ngre alarmin për kequshqyerjen në Gaza",
@@ -89,18 +221,7 @@
       "date": "2026-08-25T05:58:23+00:00",
       "dateStr": "25 Aug, 05:58",
       "isNew": true,
-      "id": "abc21787637503"
-    },
-    {
-      "title": "Çfarë dihet për tragjedinë në Malishevë? Deklaratat e Policisë dhe Prokurorisë",
-      "link": "https://24-ore.com/cfare-dihet-per-tragjedine-ne-malisheve-deklaratat-e-policise-dhe-prokurorise/",
-      "description": "Një rast tragjik ka ndodhur të dielën, e 23 gushtit në orët e vona të mbrëmjes në fshatin Kërvasari të Malishevës, ku një grua shtatzënë është vrarë me armë zjarri. Dorasi dyshohet të jetë bashkëshorti i saj, i cili ka pësuar plagë të rënda nga arma e zjarrit dhe aktualisht ndodhet në gjendje të rën",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T05:54:21+00:00",
-      "dateStr": "25 Aug, 05:54",
-      "isNew": true,
-      "id": "24 41787637261"
+      "id": "abc61787637503"
     },
     {
       "title": "Irani përgatitet për dy vjet sanksione amerikane, SHBA paralajmëron “izolim të plotë ekonomik”",
@@ -111,7 +232,7 @@
       "date": "2026-08-25T05:41:08+00:00",
       "dateStr": "25 Aug, 05:41",
       "isNew": true,
-      "id": "abc31787636468"
+      "id": "abc71787636468"
     },
     {
       "title": "Trump përshkallëzon luftën tregtare me Kanadanë, tarifat për automjetet shkojnë në 50%",
@@ -122,7 +243,7 @@
       "date": "2026-08-25T05:24:53+00:00",
       "dateStr": "25 Aug, 05:24",
       "isNew": true,
-      "id": "abc41787635493"
+      "id": "abc81787635493"
     },
     {
       "title": "Parashikimi i motit, 25 gusht 2026/ Temperaturat mbeten të larta",
@@ -133,106 +254,7 @@
       "date": "2026-08-25T05:15:56+00:00",
       "dateStr": "25 Aug, 05:15",
       "isNew": true,
-      "id": "abc51787634956"
-    },
-    {
-      "title": "Mot i nxehtë, temperaturat deri në 35 gradë",
-      "link": "https://24-ore.com/mot-i-nxehte-temperaturat-deri-ne-35-grade/",
-      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot me diell dhe vranësira të shpërndara. IHK njofton se temperaturat minimale do të lëvizin ndërmjet 11 dhe 15 gradë Celsius, ndërkaq ato maksimale nga 30 deri në 35 gradë Celsius. Era do të fryjë nga verilindja, 1–4 m/s. /Teleg",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T05:14:06+00:00",
-      "dateStr": "25 Aug, 05:14",
-      "isNew": true,
-      "id": "24 51787634846"
-    },
-    {
-      "title": "Lakers nderojnë Kobe Bryant në ‘Mamba Day’ dhe Vanessa Bryant përkujton ditëlindjen e tij të 48-të",
-      "link": "https://24-ore.com/lakers-nderojne-kobe-bryant-ne-mamba-day-dhe-vanessa-bryant-perkujton-ditelindjen-e-tij-te-48-te/",
-      "description": "Jeanie Buss, guvernatore e Los Angeles Lakers, dhe klubi nderuan legjendën Kobe Bryant në përkujtim të asaj që njihet si \"Mamba Day\" më 24 gusht. Vanessa B...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T05:11:51+00:00",
-      "dateStr": "25 Aug, 05:11",
-      "isNew": true,
-      "id": "24 61787634711"
-    },
-    {
-      "title": "Horoskopi 25 gusht 2026, zbuloni parashikimin e yjeve për shenjën tuaj",
-      "link": "https://abcnews.al/horoskopi-25-gusht-2026-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj/",
-      "description": "Dashi Mos e lini për asnjë moment pas dore partnerin tuaj sot sepse mund t’iu lindin debate dhe mosmarrëveshje te mëdha me vone. Beqaret do ndihen me te sigurte ne hapat qe do hedhin dhe gjithçka do ju ece ashtu si e kishin ëndërruar. Hëna dhe Plutoni do favorizojnë gjate gjithë kohës financat. Do j",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T05:11:43+00:00",
-      "dateStr": "25 Aug, 05:11",
-      "isNew": true,
-      "id": "abc61787634703"
-    },
-    {
-      "title": "A është lëvizja “Bashkë” një parti marksiste?",
-      "link": "https://24-ore.com/a-eshte-levizja-bashke-nje-parti-marksiste/",
-      "description": "Për disa nuk ka asnjë dyshim se Arlind Qorri është komunist dhe se partia që ai drejton, “Lëvizja Bashkë”, është një parti marksiste. Madje, për ta nuk ka nevojë as për programe, as për analiza dhe as për shumë argumente. Arlindi mban syze dhe, meqë edhe Qemal Stafa mbante syze, ngjashmëria është më",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T03:44:04+00:00",
-      "dateStr": "25 Aug, 03:44",
-      "isNew": true,
-      "id": "24 71787629444"
-    },
-    {
-      "title": "Giants fitojnë 5-0 ndaj Reds, Devers shpërthen me homer trepikësh; Whisenhunt largohet i dëmtuar",
-      "link": "https://24-ore.com/giants-fitojne-5-0-ndaj-reds-devers-shperthen-me-homer-trepikesh-whisenhunt-largohet-i-demtuar/",
-      "description": "Më 24 gusht 2026, San Francisco Giants mposhtën Cincinnati Reds 5-0 në ndeshjen e zhvilluar në San Francisco. Giants regjistruan në total 9 goditje kundrej...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T03:20:44+00:00",
-      "dateStr": "25 Aug, 03:20",
-      "isNew": true,
-      "id": "24 81787628044"
-    },
-    {
-      "title": "Chicago Cubs fitojnë 1-0 ndaj Arizona Diamondbacks; Pedro Ramirez vendos ndeshjen me tripël",
-      "link": "https://24-ore.com/chicago-cubs-fitojne-1-0-ndaj-arizona-diamondbacks-pedro-ramirez-vendos-ndeshjen-me-tripel/",
-      "description": "Më 24 gusht 2026 Chicago Cubs fituan 1-0 ndaj Arizona Diamondbacks. Skuadra e Cubs regjistroi 1 pikë, 2 goditje dhe 0 gabime, ndërsa Diamondbacks mbetën me...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T02:36:13+00:00",
-      "dateStr": "25 Aug, 02:36",
-      "isNew": true,
-      "id": "24 91787625373"
-    },
-    {
-      "title": "Një “shqiptar” mund një “maqedonas”/ Dudajev, kampion i Mesdheut në stilin e lirë të mundjes",
-      "link": "https://abcnews.al/nje-shqiptar-mund-nje-maqedonas-dudajev-kampion-i-mesdheut-ne-stilin-e-lire-te-mundjes/",
-      "description": "Nuk është e para në histori, por e para këtë edicion. Shqipëria e fitoi medaljen e artë në Lojrat Mesdhetare që zhvillohen në Taranto të Italisë, dhe meritën e madhe për këtë e pati Islam Dudajev. Po, po! Pikërisht mundësi i natyralizuar i ardhur nga Dagestani shkëlqeu fort në tapet duke mundur riva",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T21:40:55+00:00",
-      "dateStr": "24 Aug, 21:40",
-      "isNew": true,
-      "id": "abc71787607655"
-    },
-    {
-      "title": "Rama “skicon” Shqipërinë sociale/ Nura: Kryeministri po punon për zgjidhjen e problemeve të “Flamingove”",
-      "link": "https://abcnews.al/rama-skicon-shqiperine-sociale-nura-kryeministri-po-punon-per-zgjidhjen-e-problemeve-te-flamingove/",
-      "description": "Analisti Artur Nura në një intervistë në &#8220;Ora e Fundit&#8221; në “ABC News” foli për takimin dyditor të mbajtur në Pogradec duke analizuar edhe qëndrimin e kryeministrit Edi Rama. Gjatë intervistës, Nura tha se kryeministri Edi Rama po punon për zgjidhjen e problemeve të shfaqura sipas tij nga",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T21:36:39+00:00",
-      "dateStr": "24 Aug, 21:36",
-      "isNew": true,
-      "id": "abc81787607399"
-    },
-    {
-      "title": "Lushnje/ Krimi në familje, shkak i konfliktit dyshohet për para. I moshuari transportohet drejt Traumës",
-      "link": "https://abcnews.al/lushnje-krimi-ne-familje-shkak-i-konfliktit-dyshohet-per-para-i-moshuari-transportohet-drejt-traumes/",
-      "description": "Një ngjarje e rëndë u raportua mbrëmjen e sotme në fshatin Zhymë në Lushnje. Një 45-vjeçar vrau nënën me sqepar dhe plagosi babanë. Pas rreth dy orësh kërkim autori i dyshuar i ngjarjes u arrestua nga policia. Gazetarja Valbona Davidhi tha për ABC News se dyshohet se ka pasur një konflikt në familje",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-24T21:14:30+00:00",
-      "dateStr": "24 Aug, 21:14",
-      "isNew": true,
-      "id": "abc91787606070"
+      "id": "abc91787634956"
     },
     {
       "title": "FOTO/ Vrau të ëmën dhe plagosi të atin me sqepar, ky është 45-vjeçari që u arrestua në Fier. Dyshohet se fillimisht u konfliktua me vëllanë…",
@@ -243,7 +265,7 @@
       "date": "2026-08-24T20:49:35+00:00",
       "dateStr": "24 Aug, 20:49",
       "isNew": true,
-      "id": "she11787604575"
+      "id": "she31787604575"
     },
     {
       "title": "Video/ Dhunë në protestë! Gruaja e pështyu, burri e godet me shkop",
@@ -254,7 +276,7 @@
       "date": "2026-08-24T20:37:25+00:00",
       "dateStr": "24 Aug, 20:37",
       "isNew": true,
-      "id": "she21787603845"
+      "id": "she41787603845"
     },
     {
       "title": "EMRAT/ Vrau nënën dhe plagosi rëndë babanë me sqepar, policia e Lushnjes: 45-vjeçari është në arrati, dyshohet për probleme të shëndetit mendor",
@@ -265,7 +287,7 @@
       "date": "2026-08-24T20:14:24+00:00",
       "dateStr": "24 Aug, 20:14",
       "isNew": true,
-      "id": "she31787602464"
+      "id": "she51787602464"
     },
     {
       "title": "Emri/ Tmerr në Lushnje! I riu vret nënën me sqepar dhe plagos rëndë të atin",
@@ -276,7 +298,7 @@
       "date": "2026-08-24T19:54:33+00:00",
       "dateStr": "24 Aug, 19:54",
       "isNew": true,
-      "id": "she41787601273"
+      "id": "she61787601273"
     },
     {
       "title": "EMRI/ Plagoset turisti francez në Ksamil! 19-vjeçari dërgohet me urgjencë në spital",
@@ -287,7 +309,7 @@
       "date": "2026-08-24T19:33:44+00:00",
       "dateStr": "24 Aug, 19:33",
       "isNew": true,
-      "id": "she51787600024"
+      "id": "she71787600024"
     },
     {
       "title": "Vuçiç për “topin e zjarrit nga Kosova”: Gjetëm një pajisje me parashutë. Policia e Kosovës e mohon",
@@ -298,7 +320,7 @@
       "date": "2026-08-24T19:32:05+00:00",
       "dateStr": "24 Aug, 19:32",
       "isNew": true,
-      "id": "she61787599925"
+      "id": "she81787599925"
     },
     {
       "title": "Protesta në Tiranë vijon në ditën e 86-të, qytetarët përsërisin kërkesat: S’jemi lodhur, qeveria të reflektojë",
@@ -309,29 +331,7 @@
       "date": "2026-08-24T19:21:04+00:00",
       "dateStr": "24 Aug, 19:21",
       "isNew": true,
-      "id": "she71787599264"
-    },
-    {
-      "title": "Deklarata e fortë e Benjamin Netanyahu: Irani tentoi të më vriste djalin!",
-      "link": "https://shekulli.com.al/2026/08/24/deklarata-e-forte-e-benjamin-netanyahu-irani-tentoi-te-me-vriste-djalin/",
-      "description": "Kryeministri izraelit Benjamin Netanyahu ka bërë një deklaratë të fortë, teksa tha  se Irani tentoi të vriste djali ne tij. Sipas kryeministrit izraelit, informacioni për komplotin ishte mbajtur i fshehtë për muaj të tërë, ndërsa theksoi se kërcënimi ndaj familjes së tij është një nga arsyet përse a",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T19:01:40+00:00",
-      "dateStr": "24 Aug, 19:01",
-      "isNew": true,
-      "id": "she81787598100"
-    },
-    {
-      "title": "Shën Kozmai, ‘Apostulli i ri’ që predikoi krishtërimin në Shqipërinë e pushtuar nga Osmanët. Mijëra orthodhoksë e nderojnë në Kolkondas të Fierit",
-      "link": "https://shekulli.com.al/2026/08/24/shen-kozmai-apostulli-i-ri-qe-predikoi-krishterimin-ne-shqiperine-e-pushtuar-nga-osmanet-mijera-orthodhokse-e-nderojne-ne-kolkondas-te-fierit/",
-      "description": "FIER &#8211; Mijëra besimtarë të krishterë orthodhoksë nga qytete të ndryshme të Shqipërisë, si dhe nga rajoni, janë mbledhur këtë të hënë në Manastirin e ‘Shën Kozmait’ në Kolkondas të Libofshës, për të marrë pjesë në ceremonitë fetare kushtuar shenjtorit. Pelegrinazhi ka nisur që mbrëmjen e së die",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T19:01:24+00:00",
-      "dateStr": "24 Aug, 19:01",
-      "isNew": true,
-      "id": "she91787598084"
+      "id": "she91787599264"
     }
   ]
 }
