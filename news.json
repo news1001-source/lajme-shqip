@@ -1,8 +1,239 @@
 {
-  "lastUpdated": "2026-08-25T09:29:51.161348+00:00",
+  "lastUpdated": "2026-08-25T10:25:50.019666+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Eksperti i Prokurorisë për rastin “Pulse”: Gjendja e objektit në vitin 2012 nuk e ka shkaktuar pasojën e zjarrit në vitin 2025",
+      "link": "https://24-ore.com/eksperti-i-prokurorise-per-rastin-pulse-gjendja-e-objektit-ne-vitin-2012-nuk-e-ka-shkaktuar-pasojen-e-zjarrit-ne-vitin-2025/",
+      "description": "Ekspertët e ndërtimtarisë në seancën e sotme për rastin “Puls” po u përgjigjen pyetjeve të mbrojtjes. Në fokus të marrjes në pyetje janë gjetjet lidhur me materialet e përdorura në objekt, veçanërisht sfungjeri poliuretanik për izolim akustik, si dhe rikonstruksionet dhe ndërhyrjet në strukturën e o",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T10:25:44+00:00",
+      "dateStr": "25 Aug, 10:25",
+      "isNew": true,
+      "id": "24 01787653544"
+    },
+    {
+      "title": "Klosi nis dëgjesat për ‘Territorialen’ kundërshton bashkimin me Matin",
+      "link": "https://24-ore.com/klosi-nis-degjesat-per-territorialen-kundershton-bashkimin-me-matin/",
+      "description": "Bashkia e Klosit ka nisur konsultimet me qytetarët për reformën e re administrative-territoriale, ndërsa në tryezën e parë të dëgjesës publike, në Njësinë Administrative Xibër, banorët shprehën kundërshtimin ndaj propozimit për bashkimin me Bashkinë e Matit. Shqetësimi kryesor i banorëve lidhet me d",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T10:23:31+00:00",
+      "dateStr": "25 Aug, 10:23",
+      "isNew": true,
+      "id": "24 11787653411"
+    },
+    {
+      "title": "I plagosuri eci 40 minuta në këmbë me plumbin në shpatull, si ndodhi atentati në Dukagjin",
+      "link": "https://24-ore.com/i-plagosuri-eci-40-minuta-ne-kembe-me-plumbin-ne-shpatull-si-ndodhi-atentati-ne-dukagjin/",
+      "description": "Për afro 40 minuta, Lazër Bashi ka ecur i plagosur në terrenin e thepisur të Dukagjinit, me një plumb në shpatull dhe duke humbur gjak. Pas tij kishte mbetur një skenë e përgjakshme: Prelë dhe Lekë Gjoni, babë e bir, të vrarë në automjet pas një breshërie armësh. Sipas të dhënave të bëra të ditura [",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T10:23:13+00:00",
+      "dateStr": "25 Aug, 10:23",
+      "isNew": true,
+      "id": "24 21787653393"
+    },
+    {
+      "title": "Reforma territoriale, Shoqata e Bashkive kërkon ndërhyrjen e Këshillit të Evropës",
+      "link": "https://24-ore.com/reforma-territoriale-shoqata-e-bashkive-kerkon-nderhyrjen-e-keshillit-te-evropes/",
+      "description": "Partia Demokratike njofton se sot në mesditë do të zhvillohet një dëgjesë mes përfaqësuesve të Shoqatës së Bashkive dhe të Zgjedhurve Vendorë të Shqipërisë dhe Kongresit të Autoriteteve Lokale e Rajonale të Këshillit të Evropës, lidhur me procesin e rishikimit të Reformës Administrativo-Territoriale",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T10:22:46+00:00",
+      "dateStr": "25 Aug, 10:22",
+      "isNew": true,
+      "id": "24 31787653366"
+    },
+    {
+      "title": "Netanyahu vendos debatin me Turqinë në qendër të fushatës zgjedhore: Ata duan të humbasim",
+      "link": "https://24-ore.com/netanyahu-vendos-debatin-me-turqine-ne-qender-te-fushates-zgjedhore-ata-duan-te-humbasim/",
+      "description": "Një billboard gjigant i vendosur në autostradën kryesore të Tel Avivit e ka vendosur Turqinë në qendër të fushatës zgjedhore të kryeministrit izraelit, Benjamin Netanyahu. Në të shfaqej presidenti turk, Recep Tayyip Erdogan, së bashku me liderët e Iranit, Hezbollahut dhe kryetarin e Bashkisë së Nju ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T10:22:30+00:00",
+      "dateStr": "25 Aug, 10:22",
+      "isNew": true,
+      "id": "24 41787653350"
+    },
+    {
+      "title": "Zjarrfikësit e BE-së ndihmuan në luftimin e zjarreve në Serbi",
+      "link": "https://24-ore.com/zjarrfikesit-e-be-se-ndihmuan-ne-luftimin-e-zjarreve-ne-serbi/",
+      "description": "Serbia ka aktivizuar Mekanizmin e Mbrojtjes Civile të Bashkimit Evropian dhe ka pranuar ndihmën nga disa shtete anëtare të BE-së në luftimin e zjarrit në Deliblato Sands, i cili ka prekur më shumë se 3,500 hektarë. Luka Çaušić, Shefi i Sektorit të Menaxhimit të Emergjencave në Ministrinë e Brendshme",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T10:22:15+00:00",
+      "dateStr": "25 Aug, 10:22",
+      "isNew": true,
+      "id": "24 51787653335"
+    },
+    {
+      "title": "Bitcoin rikthehet fuqishëm, kalon 80 mijë dollarë",
+      "link": "https://24-ore.com/bitcoin-rikthehet-fuqishem-kalon-80-mije-dollare/",
+      "description": "Bitcoin, kriptomonedha më e madhe në treg, ka kaluar mbi 80,000 dollarë për herë të parë që nga maji i vitit 2026, duke vijuar rritjen e ndjeshme të ditëve të fundit. Sipas të dhënave të CoinMarketCap, vlera totale e tregut global të kriptomonedhave arriti në 2.71 trilionë dollarë gjatë 24 orëve të ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T10:21:55+00:00",
+      "dateStr": "25 Aug, 10:21",
+      "isNew": true,
+      "id": "24 61787653315"
+    },
+    {
+      "title": "El Shara: Siria hiqet nga lista amerikane e shteteve që sponsorizojnë terrorizmin",
+      "link": "https://24-ore.com/el-shara-siria-hiqet-nga-lista-amerikane-e-shteteve-qe-sponsorizojne-terrorizmin/",
+      "description": "Presidenti sirian Ahmed al-Shara përshëndeti vendimin e Shteteve të Bashkuara të Amerikës për të hequr Sirinë nga lista e shteteve që mbështesin terrorizmin, duke vlerësuar se ky vendim përfaqëson një hap të rëndësishëm drejt lehtësimit të sanksioneve dhe rimëkëmbjes ekonomike të vendit. “Sot, Siria",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T10:21:38+00:00",
+      "dateStr": "25 Aug, 10:21",
+      "isNew": true,
+      "id": "24 71787653298"
+    },
+    {
+      "title": "SHBA dhe Koreja e Jugut forcojnë bashkëpunimin, çfarë deklaruan dy diplomatët",
+      "link": "https://24-ore.com/shba-dhe-koreja-e-jugut-forcojne-bashkepunimin-cfare-deklaruan-dy-diplomatet/",
+      "description": "Shtetet e Bashkuara dhe Koreja e Jugut kanë rënë dakord të ruajnë komunikimin dhe bashkëpunimin e ngushtë për çështjen bërthamore të Koresë së Veriut dhe promovimin e paqes në Gadishullin Korean. Marrëveshja u arrit gjatë një telefonate të hënën mes Sekretarit amerikan të Shtetit, Marco Rubio, dhe m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T10:21:20+00:00",
+      "dateStr": "25 Aug, 10:21",
+      "isNew": true,
+      "id": "24 81787653280"
+    },
+    {
+      "title": "OKB kërkon ndalimin e menjëhershëm te sulmeve ndaj civilëve në Ukrainë",
+      "link": "https://24-ore.com/okb-kerkon-ndalimin-e-menjehershem-te-sulmeve-ndaj-civileve-ne-ukraine/",
+      "description": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, ka bërë thirrje për ndalimin e menjëhershëm të sulmeve ndaj civilëve dhe infrastrukturës civile, në një kohë kur konflikti në Ukrainë vijon të përshkallëzohet. Zëdhënësi i OKB-së, Stephane Dujarric, tha se Guterres mbetet thellësisht i shqetësuar ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-25T10:20:59+00:00",
+      "dateStr": "25 Aug, 10:20",
+      "isNew": true,
+      "id": "24 91787653259"
+    },
+    {
+      "title": "Vodhën miliona lekë në një banesë në Sharrë, Policia ‘çmonton’ grupin kriminal, kush janë 3 të arrestuarit. Kontrollet në servis i fundosin…",
+      "link": "https://shekulli.com.al/2026/08/25/vodhen-miliona-leke-ne-nje-banese-ne-sharre-policia-cmonton-grupin-kriminal-kush-jane-3-te-arrestuarit-kontrollet-ne-servis-i-fundosin/",
+      "description": "TIRANË-3 persona janë vënë në pranga nga Policia e Tiranës, si autorë të dyshuar për vjedhjen e një banese në zonën e Sharrës, ngjarje e ndodhur kjo rreth 10 ditë më parë. Burime bëjnë me dije për SHEKULLI-n se në kuadër të operacionit “Last Scheme”, u ndaluan shtetasit Leonard Sinani dhe Kleand Tom",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-25T10:20:44+00:00",
+      "dateStr": "25 Aug, 10:20",
+      "isNew": true,
+      "id": "she01787653244"
+    },
+    {
+      "title": "Manja kthehet “bomber”/ Sulmuesi kuqezi shënon dy gola, Sivaspor barazon 2-2",
+      "link": "https://abcnews.al/manja-kthehet-bomber-sulmuesi-kuqezi-shenon-dy-gola-sivaspor-barazon-2-2/",
+      "description": "Rey Manaj u kthye të bëjë “bomberin” në Ligën e Parë turke, duke shënuar dy golat e tij të parë në sezonin e ri. Sulmuesi i kombëtares së Shqipërisë ishte protagonist në sfidën e javës së tretë, duke ndihmuar Sivaspor në barazimin 2-2 kundër Manisa. Manaj gjeti golin e parë sezonal në minutën e 17-t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T10:13:04+00:00",
+      "dateStr": "25 Aug, 10:13",
+      "isNew": true,
+      "id": "abc01787652784"
+    },
+    {
+      "title": "Pogaçar, kampion edhe në breshër/ Kampioni slloven ndaloi pedalimin në Vuelta të Spanjës",
+      "link": "https://abcnews.al/pogacar-kampion-edhe-ne-bresher-kampioni-slloven-ndaloi-pedalimin-ne-vuelta-te-spanjes/",
+      "description": "E tregoi veten se është një udhëheqës. Në etapën e tretë të Vueltës së Spanjës duhej marrë një vendim, pasi kushtet atmosferike u përkeqësuan gjithnjë e më shumë, dhe këtë e bëri Tadej Pogaçar, numri 1 I botës në çiklizëm. Itinerari ishte nga Gruiso në Font Romeu, ende në Francë, ndërsa Rrethi Çikli",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T10:05:05+00:00",
+      "dateStr": "25 Aug, 10:05",
+      "isNew": true,
+      "id": "abc11787652305"
+    },
+    {
+      "title": "“Ku të vrasim Barron Trump?”, Irani shënjestron djalin e presidentit, video transmetohet në TV shtetëror: 10 mln dollarë për ‘kokën’ e tij",
+      "link": "https://shekulli.com.al/2026/08/25/ku-te-vrasim-barron-trump-irani-shenjestron-djalin-e-presidentit-amerikan-video-transmetohet-ne-tv-shteteror-10-mln-dollare-per-koken-e-tij/",
+      "description": "SHBA- Një video e transmetuar nga media shtetërore iraniane ka ngritur alarmin në Shtetet e Bashkuara, pasi duket se shënjestron drejtpërdrejt Barron Trump, djalin më të vogël të presidentit amerikan Donald Trump. Videoja, e transmetuar nga IRIB, media shtetërore iraniane e lidhur me qarqet konserva",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-25T09:54:38+00:00",
+      "dateStr": "25 Aug, 09:54",
+      "isNew": true,
+      "id": "she11787651678"
+    },
+    {
+      "title": "Shqipëria fiton “derbin” me Kosovën/ Skuadra kuqezi U21 mundi 3-1 “Dardanët” në Lojërat Mesdhetare",
+      "link": "https://abcnews.al/shqiperia-fiton-derbin-me-kosoven-skuadra-kuqezi-u21-mundi-3-1-dardanet-ne-lojerat-mesdhetare/",
+      "description": "Kombëtarja e Shqipërisë U21 mori fitoren e saj të parë në Lojërat Mesdhetare “Taranto 2026”. Skuadra e drejtuar nga Alban Bushi triumfoi 3-1 në “derbin” kundër Kosovës në sfidën e dytë të Grupit B, duke hedhur një hap të sigurt drejt kualifikimit për në raundin tjetër të turneut. Pas pjesës së parë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T09:52:59+00:00",
+      "dateStr": "25 Aug, 09:52",
+      "isNew": true,
+      "id": "abc21787651579"
+    },
+    {
+      "title": "Roma, “poker” me të parën/ Kryeqytetasit e nisin fort Serinë A, Fiorentina “në tapet” 4-0",
+      "link": "https://abcnews.al/roma-poker-me-te-paren-kryeqytetasit-e-nisin-fort-serine-a-fiorentina-ne-tapet-4-0/",
+      "description": "Padyshim që nuk është favoritë. Nuk ka sesi Roma të vlerësohet e tillë në Serinë A, me Interin kampion dhe që cilësohet si më I forti, me Napolin që ka fituar dy tituj vitet e fundit, si dhe me të përhershmit Juventus e Milan. Gjithsesi, nisja e kampionatit nga skuadra kryeqytetase ishte e shkëlqyer",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T09:52:55+00:00",
+      "dateStr": "25 Aug, 09:52",
+      "isNew": true,
+      "id": "abc31787651575"
+    },
+    {
+      "title": "Chelsea e nis me fitore/ Blutë fituan derbin e parë të Londrës, Fulham dorëzohet 2-3",
+      "link": "https://abcnews.al/chelsea-e-nis-me-fitore-blute-fituan-derbin-e-pare-te-londres-fulham-dorezohet-2-3/",
+      "description": "Derbi i parë i Londrës në Premier League ishte një spektakël i vërtetë. Por festa ishte e gjitha për Chelsea, që nisi në mënyrën më të mirë sezonin e ri të kampionatit anglez me fitoren 3-2 në fushën e Fulham. Një debutim I shkëlqyer edhe për Xabi Alonso, që në aventurën e tij me “Blutë”, [...]Read ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T09:47:45+00:00",
+      "dateStr": "25 Aug, 09:47",
+      "isNew": true,
+      "id": "abc41787651265"
+    },
+    {
+      "title": "““Helsinki” i dytë për Europën”, Marta Kos: Shqipëria dhe Mali i Zi, shumë pranë anëtarësimit",
+      "link": "https://abcnews.al/helsinki-i-dyte-per-europen-marta-kos-shqiperia-dhe-mali-i-zi-shume-prane-anetaresimit/",
+      "description": "BE përgatitet për valën e re të anëtarësimeve. Nga Kroacia, komisionerja për zgjerimin e BE, Marta Kos paralajmëroi një “Moment Helsinki” të dytë për Europën, duke iu referuar Samitit të 1999 në kryeqytetin finlandez që i hapi rrugë anëtarësimit të vendeve të ish-bllokut komunist në BE. “Në shumë më",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T09:42:00+00:00",
+      "dateStr": "25 Aug, 09:42",
+      "isNew": true,
+      "id": "abc51787650920"
+    },
+    {
+      "title": "Breaking News me Fabiola Hoxha, (25/08/2026)",
+      "link": "https://abcnews.al/breaking-news-me-fabiola-hoxha-25-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T09:33:42+00:00",
+      "dateStr": "25 Aug, 09:33",
+      "isNew": true,
+      "id": "abc61787650422"
+    },
+    {
+      "title": "“Na thavi krahin”, fjalët e para të Lazër Bashit, të mbijetuarit nga atentati me dy viktima në Dukagjin. Eci 2km me plagën që i rridhte…",
+      "link": "https://shekulli.com.al/2026/08/25/na-thavi-krahin-fjalet-e-para-te-lazer-bashit-te-mbijetuarit-nga-atentati-me-dy-viktima-ne-dukagjin-eci-2km-me-plagen-qe-i-rridhte-per-te-kerkuar-ndihme/",
+      "description": "SHKODËR- Është e rrethua me mister, atentati që ndodhi të dielën në Dukagjin, ku babë e bir u vranë me breshëri plumbash, në një atentat të mirëmenduar në një zonë të thellë malore. Viktimë mbetën Prelë dhe Lekë Gjoni, babë e bir, mbi makinën e të cilëve u derdhën më shumë se 5 plumba, nga [&#8230;]",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-25T09:30:30+00:00",
+      "dateStr": "25 Aug, 09:30",
+      "isNew": true,
+      "id": "she21787650230"
+    },
+    {
+      "title": "Rasti i parë me “Ethet e Nilit” në Korçë/ Epidemiologia: Virusi është i transmetueshëm vetëm nga mushkonjat, nuk është ngjitëse",
+      "link": "https://abcnews.al/rasti-i-pare-me-ethet-e-nilit-ne-korce-epidemiologia-virusi-eshte-i-transmetueshem-vetem-nga-mushkonjat-nuk-eshte-ngjitese/",
+      "description": "Është konfirmuar rasti i parë i “Etheve të Nilit” në Shqipëri, te një 72-vjeçar nga Korça. Epidemiologia Adela Vasili theksoi se virusi transmetohet vetëm përmes pickimit të mushkonjave dhe nuk është ngjitës nga personi në person. Autoritetet kanë nisur dezinfektimin në terren dhe u bëjnë thirrje qy",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-25T09:29:55+00:00",
+      "dateStr": "25 Aug, 09:29",
+      "isNew": true,
+      "id": "abc71787650195"
+    },
     {
       "title": "21,1 gradë. oqeanet më të ngrohta se kurrë më parë",
       "link": "https://abcnews.al/211-grade-oqeanet-me-te-ngrohta-se-kurre-me-pare/",
@@ -12,73 +243,7 @@
       "date": "2026-08-25T09:22:30+00:00",
       "dateStr": "25 Aug, 09:22",
       "isNew": true,
-      "id": "abc01787649750"
-    },
-    {
-      "title": "Borxhi i shtetit ndaj sektorit privat arrin në 315 milionë euro",
-      "link": "https://24-ore.com/borxhi-i-shtetit-ndaj-sektorit-privat-arrin-ne-315-milione-euro/",
-      "description": "Në fund të qershorit, detyrimet e maturuara dhe të papaguara të institucioneve shtetërore, sipas të dhënave të Ministrisë së Financave, arritën në 692.523.113 euro. Krahasuar me fundin e dhjetorit të vitit 2025, detyrimet janë rritur për 26,37 milionë euro.Rritje e detyrimeve të maturuara dhe të pap",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T09:20:43+00:00",
-      "dateStr": "25 Aug, 09:20",
-      "isNew": true,
-      "id": "24 01787649643"
-    },
-    {
-      "title": "Tahiri: 120 deputetëve po u mohohet ushtrimi i mandatit të fituar nga populli",
-      "link": "https://24-ore.com/tahiri-120-deputeteve-po-u-mohohet-ushtrimi-i-mandatit-te-fituar-nga-populli/",
-      "description": "Shefi i Grupit Parlamentar të Aleancës, Besnik Tahiri, ka deklaruar sot para mediave se deputetëve të Kuvendit po u mohohet e drejta për të ushtruar mandatin e fituar në zgjedhje. Tahiri tha se mandati i deputetit buron nga vullneti i qytetarëve dhe se askush nuk mund ta pengojë ushtrimin e tij. “Ma",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T09:19:58+00:00",
-      "dateStr": "25 Aug, 09:19",
-      "isNew": true,
-      "id": "24 11787649598"
-    },
-    {
-      "title": "FOKUS – Përshkallëzohet lufta tregtare SHBA-Kanada, Otava përgatitet për kundërpërgjigje",
-      "link": "https://24-ore.com/fokus-pershkallezohet-lufta-tregtare-shba-kanada-otava-pergatitet-per-kunderpergjigje/",
-      "description": "&#8211; Presidenti amerikan, Donald Trump ka kërcënuar se do të dyfishojë nga 25% në 50% tarifat për automjetet dhe pjesët e makinave të importuara nga Kanadaja, duke nisur nga 1 janari, raportoi BBC. Ky vendim vjen pas dështimit të negociatat tregtare SHBA-Kanada në fundjavë. Të dyja palët akuzojnë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T09:16:04+00:00",
-      "dateStr": "25 Aug, 09:16",
-      "isNew": true,
-      "id": "24 21787649364"
-    },
-    {
-      "title": "Abdixhiku për vdekjen e Eqrem Kryeziut: LDK-ja dhe Kosova humbën një figurë të rëndësishme",
-      "link": "https://24-ore.com/abdixhiku-per-vdekjen-e-eqrem-kryeziut-ldk-ja-dhe-kosova-humben-nje-figure-te-rendesishme/",
-      "description": "Kryetari i Lidhjes Demokratike të Kosovës, Lumir Abdixhiku, ka reaguar pas vdekjes së Eqrem Kryeziut, ish-kryetarit të Komunës së Prizrenit dhe një prej figurave të hershme të LDK-së. Abdixhiku e ka cilësuar Kryeziun si një intelektual të shquar, veprimtar të brezit themeltar të LDK-së dhe shërbyes ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T09:10:33+00:00",
-      "dateStr": "25 Aug, 09:10",
-      "isNew": true,
-      "id": "24 31787649033"
-    },
-    {
-      "title": "Manchester City “peshkon” në Brazil, 40 milionë euro për sulmuesin Allan Elias",
-      "link": "https://24-ore.com/manchester-city-peshkon-ne-brazil-40-milione-euro-per-sulmuesin-allan-elias/",
-      "description": "Pasi ka shitur Savinho dhe Marmoush, të dy drejt Tottenham, Manchester City po mendon të plotësojë menjëherë këto vende të lëna bosh. Sipas shtypit britanik, “Citizens” pritet të zyrtarizojnë blerjen e Allan Elias. Bëhet fjalë për një sulmues anësor 22-vjeçar që luan me Palmeirasin në Brazil. Klubi ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T09:10:12+00:00",
-      "dateStr": "25 Aug, 09:10",
-      "isNew": true,
-      "id": "24 41787649012"
-    },
-    {
-      "title": "Ndërron jetë Eqrem Kryeziu",
-      "link": "https://24-ore.com/nderron-jete-eqrem-kryeziu/",
-      "description": "Ka vdekur Eqrem Kryeziu, ish-kryetar i Komunës së Prizrenit, ish-nënkryetar i Lidhjes Demokratike të Kosovës dhe ish-deputet i Kuvendit të Kosovës. Vdekjen e tij e ka konfirmuar përmes një postimi në Facebook drejtori i Bujqësisë dhe Zhvillimit Rural në Komunën e Prizrenit, i cili ka shprehur dhimbj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T09:05:34+00:00",
-      "dateStr": "25 Aug, 09:05",
-      "isNew": true,
-      "id": "24 51787648734"
+      "id": "abc81787649750"
     },
     {
       "title": "VIDEO/ Vrau nënën me sqepar dhe plagosi të atin, momenti i arrestimit të 45-vjeçarit nga policia",
@@ -89,7 +254,7 @@
       "date": "2026-08-25T09:03:29+00:00",
       "dateStr": "25 Aug, 09:03",
       "isNew": true,
-      "id": "abc11787648609"
+      "id": "abc91787648609"
     },
     {
       "title": "Shifra deri në 3 mijë euro mbi rrogën, kush janë 10 deputetët e Kuvendit që morën pagesa të majme si dieta gjatë muajit Korrik",
@@ -100,29 +265,7 @@
       "date": "2026-08-25T08:59:31+00:00",
       "dateStr": "25 Aug, 08:59",
       "isNew": true,
-      "id": "she01787648371"
-    },
-    {
-      "title": "SHBA – Trump pritet të revokojë 200 000 viza për të huajt që kanë aplikuar për azil",
-      "link": "https://24-ore.com/shba-trump-pritet-te-revokoje-200-000-viza-per-te-huajt-qe-kane-aplikuar-per-azil/",
-      "description": "UASHINGTON, 25 gusht /ATSH-ANSA/ – Administrata e presidentit Trump po përgatitet të revokojë vizat e biznesit dhe turistike të afërsisht 200,000 të huajve që kanë aplikuar ose aktualisht po kërkojnë azil. Nëse zbatohet, masa do të përfaqësonte revokimin më të madh masiv të vizave në historinë e SHB",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:46:07+00:00",
-      "dateStr": "25 Aug, 08:46",
-      "isNew": true,
-      "id": "24 61787647567"
-    },
-    {
-      "title": "VLEN: Cili prokuror i ka ofruar marrëveshje Grubit",
-      "link": "https://24-ore.com/vlen-cili-prokuror-i-ka-ofruar-marreveshje-grubit/",
-      "description": "Nga VLEN thonë se pas seancës së parë gjyqësore ndaj Artan Grubit që u mbajt dje, gjithnjë e më shumë po dalin në pah pyetje serioze për atë që ka ndodhur prapa skenave dhe për përpjekjet për ta mbyllur këtë proces përmes një marrëveshjeje me Prokurorinë. Sipas VLEN-it, supozohet se Artan Grubi ësht",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:45:00+00:00",
-      "dateStr": "25 Aug, 08:45",
-      "isNew": true,
-      "id": "24 71787647500"
+      "id": "she31787648371"
     },
     {
       "title": "E priti 5 minuta pranë pallatit, dhe qëlloi dy herë! Detaje tronditëse nga krimi i dyfishtë në Greqi, vajza e Allmuçës ishte në dijeni të lidhjes jashtëmartesore",
@@ -133,51 +276,7 @@
       "date": "2026-08-25T08:41:11+00:00",
       "dateStr": "25 Aug, 08:41",
       "isNew": true,
-      "id": "she11787647271"
-    },
-    {
-      "title": "Mali i Dajtit ende në rrezik zjarri , ja si vijon situata e zjarreve në vend",
-      "link": "https://24-ore.com/mali-i-dajtit-ende-ne-rrezik-zjarri-ja-si-vijon-situata-e-zjarreve-ne-vend/",
-      "description": "Këtë të martë, Ministria e Mbrojtjes ka vijuar raportimin mbi situatën e zjarreve në vend duke informuar se gjatë 24 orëve të fundit, janë raportuar në total 31 vatra zjarri, nga të cilat 3 mbeten aktive dhe 6 janë nën mbikëqyrje. Situata vijon të mbetet e rënduar në malin e Dajtit ku gjatë ditës së",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:37:36+00:00",
-      "dateStr": "25 Aug, 08:37",
-      "isNew": true,
-      "id": "24 81787647056"
-    },
-    {
-      "title": "Braçe: Më thonë që Tiranën ia kanë premtuar “filanit”, unë do i shkoj deri në fund garës për bashkinë",
-      "link": "https://24-ore.com/brace-me-thone-qe-tiranen-ia-kane-premtuar-filanit-une-do-i-shkoj-deri-ne-fund-gares-per-bashkine/",
-      "description": "Deputeti socialist Erion Braçe ka rikthyer në vëmendje ambicien e tij për të garuar për Bashkinë e Tiranës në zgjedhjet vendore të vitit 2027. Në një postim në rrjetet sociale, Braçe shprehet se socialistët duhet të kenë mundësinë të zgjedhin mes alternativave dhe jo thjesht të përballen me një kand",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T08:37:10+00:00",
-      "dateStr": "25 Aug, 08:37",
-      "isNew": true,
-      "id": "24 91787647030"
-    },
-    {
-      "title": "SHBA heq Sirinë nga lista e shteteve sponsorizuese të terrorizmit",
-      "link": "https://abcnews.al/shba-heq-sirine-nga-lista-e-shteteve-sponsorizuese-te-terrorizmit-2/",
-      "description": "Shtetet e Bashkuara kanë hequr zyrtarisht Sirinë nga lista e “shteteve sponsorizuese të terrorizmit”, në një vendim që presidenti sirian Ahmed al-Sharaa e ka cilësuar si “historik” dhe një hap të rëndësishëm drejt rimëkëmbjes së vendit pas 14 vitesh luftë civile. Vendimi hyri në fuqi të hënën, pas p",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T08:35:53+00:00",
-      "dateStr": "25 Aug, 08:35",
-      "isNew": true,
-      "id": "abc21787646953"
-    },
-    {
-      "title": "Fluks i lartë drejt bregdetit, trafik i rënduar në Rrugën e Kombit",
-      "link": "https://abcnews.al/fluks-i-larte-drejt-bregdetit-trafik-i-renduar-ne-rrugen-e-kombit/",
-      "description": "Fluksi i lartë i pushuesve që po udhëtojnë drejt bregdetit shqiptar ka sjellë trafik të rënduar edhe këtë të martë në Rrugën e Kombit, kryesisht në hyrje të Rrëshenit. Vështirësitë në qarkullim janë krijuar në pikën ku përfundon segmenti i autostrades dhe rruga ngushtohet, duke bërë që automjetet të",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T08:25:30+00:00",
-      "dateStr": "25 Aug, 08:25",
-      "isNew": true,
-      "id": "abc31787646330"
+      "id": "she41787647271"
     },
     {
       "title": "Gati vaksina kundër kancerit? Moderna dhe Merck nxjerrin lajmin e madh, studimet i hapin rrugën një vale trajtimesh të personalizuara për pacientët",
@@ -188,51 +287,7 @@
       "date": "2026-08-25T08:23:12+00:00",
       "dateStr": "25 Aug, 08:23",
       "isNew": true,
-      "id": "she21787646192"
-    },
-    {
-      "title": "U godit me sqepar nga i biri/ Krimi në Lushnje, 77-vjeçari në gjendje të rëndë: Ka plagë në kokë",
-      "link": "https://abcnews.al/u-godit-me-sqepar-nga-i-biri-krimi-ne-lushnje-77-vjecari-ne-gjendje-te-rende-ka-plage-ne-koke/",
-      "description": "77-vjeçari, i cili u godit me sqepar nga djali i tij në Lushnje, ditën e djeshme, po merr trajtim mjekësor në Spitalin e Traumës në Tiranë. Sipas burimeve nga bluzat e bardha për ABC News, i moshuari ndodhet në gjendje të rëndë shëndetësore dhe po trajtohet në shërbimin e reanimacionit. Mësohet se 7",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T08:22:48+00:00",
-      "dateStr": "25 Aug, 08:22",
-      "isNew": true,
-      "id": "abc41787646168"
-    },
-    {
-      "title": "Rasti i parë me Ethet e Nilit në Korçë, të mërkurën nisin depistimet",
-      "link": "https://abcnews.al/rasti-i-pare-me-ethet-e-nilit-ne-korce-te-merkuren-nisin-depistimet/",
-      "description": "Instituti i Shëndetit Publik në Korçë bën të ditur se gjatë ditës së sotme pritet të mbërrijnë epidemiologë nga Instituti i Shëndetit Publik në Tiranë, të cilët nesër do të kryejnë depistime në zona të ndryshme të Korçës për virusin e Etheve të Nilit Perëndimor. Ndërkohë, vijon të jetë e rëndë gjend",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T08:18:53+00:00",
-      "dateStr": "25 Aug, 08:18",
-      "isNew": true,
-      "id": "abc51787645933"
-    },
-    {
-      "title": "25 gusht 2026, “Telefonatat e Teleshikuesve” – Mirëmëngjes me Bashkim Hoxhën",
-      "link": "https://abcnews.al/25-gusht-2026-telefonatat-e-teleshikuesve-miremengjes-me-bashkim-hoxhen/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T08:15:08+00:00",
-      "dateStr": "25 Aug, 08:15",
-      "isNew": true,
-      "id": "abc61787645708"
-    },
-    {
-      "title": "25 Gusht 2026, “Shtypi i ditës” – Mirëmëngjes me Bashkim Hoxhën",
-      "link": "https://abcnews.al/25-gusht-2026-shtypi-i-dites-miremengjes-me-bashkim-hoxhen/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T08:13:41+00:00",
-      "dateStr": "25 Aug, 08:13",
-      "isNew": true,
-      "id": "abc71787645621"
+      "id": "she51787646192"
     },
     {
       "title": "Vrau tre fëmijët e saj, psikologu rrëzon pretendimin e mbrojtjes, çështja e Lindsay Clancy do i kalojë jurisë për vendim",
@@ -243,29 +298,7 @@
       "date": "2026-08-25T08:13:29+00:00",
       "dateStr": "25 Aug, 08:13",
       "isNew": true,
-      "id": "she31787645609"
-    },
-    {
-      "title": "Ora e Fundit me Emilian Islamin, (24/08/2026)",
-      "link": "https://abcnews.al/ora-e-fundit-me-emilian-islamin-24-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T08:03:23+00:00",
-      "dateStr": "25 Aug, 08:03",
-      "isNew": true,
-      "id": "abc81787645003"
-    },
-    {
-      "title": "“Ka pasur probleme me familjen”/ Krimi në Lushnje, banori: 45-vjeçari ka qenë me kartelë, vjet e çuan në Elbasan…",
-      "link": "https://abcnews.al/ka-pasur-probleme-me-familjen-krimi-ne-lushnje-banori-45-vjecari-ka-qene-me-kartele-vjet-e-cuan-ne-elbasan/",
-      "description": "Lidhur me krimin e rëndë që ndodhi mbrëmjen e djeshme, në një familje në Lushnje, ku 45-vjeçari Florjan Dalladaku goditi për vdekje me sqepar nënën dhe plagosi babain, ka dëshmuar për ABC News një prej fqinjëve. Sipas tij 45-vjeçari ka pasur probleme të mëparshme me familjen, ndërkohë që ka qenë I s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-25T07:59:56+00:00",
-      "dateStr": "25 Aug, 07:59",
-      "isNew": true,
-      "id": "abc91787644796"
+      "id": "she61787645609"
     },
     {
       "title": "“I është thënë filanit dhe fistekes, që ti do të bëhesh kryetar i Bashkisë…”, Braçe e merr seriozisht garën për Tiranën: Do i shkoj deri në fund!",
@@ -276,7 +309,7 @@
       "date": "2026-08-25T07:54:55+00:00",
       "dateStr": "25 Aug, 07:54",
       "isNew": true,
-      "id": "she41787644495"
+      "id": "she71787644495"
     },
     {
       "title": "Vrau nënën dhe plagosi rëndë të atin, pamjet kur policia neutralizon Florion Dalladakun. Konflikti nisi me vëllanë që ishte kthyer nga Italia",
@@ -287,7 +320,7 @@
       "date": "2026-08-25T07:34:09+00:00",
       "dateStr": "25 Aug, 07:34",
       "isNew": true,
-      "id": "she51787643249"
+      "id": "she81787643249"
     },
     {
       "title": "Kompensimi i naftës te Transporti Publik, Financat të gatshme për 3 muaj shtesë, pritet propozimi",
@@ -298,40 +331,7 @@
       "date": "2026-08-25T07:15:47+00:00",
       "dateStr": "25 Aug, 07:15",
       "isNew": true,
-      "id": "she61787642147"
-    },
-    {
-      "title": "Aksident tragjik pas mesnate në Durrës, humbin jetën dy persona",
-      "link": "https://shekulli.com.al/2026/08/25/aksident-tragjik-pas-mesnate-ne-durres-humbin-jeten-dy-persona/",
-      "description": "Një aksident me dy persona të vdekur ka ndodhur pas mesnate në Durrës. Burime bëjnë me dije për Shekulli-n se viktimat po lëviznin me motomjet, dhe kanë humbur jetën si pasojë e përplasjes me bordurën. Njëri prej viktimave është ende i paidentifikuar. NJOFTIMI I POLICISË Rreth orës 00:20, të datës 2",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-25T06:23:39+00:00",
-      "dateStr": "25 Aug, 06:23",
-      "isNew": true,
-      "id": "she71787639019"
-    },
-    {
-      "title": "FOTO/ Vrau të ëmën dhe plagosi të atin me sqepar, ky është 45-vjeçari që u arrestua në Fier. Dyshohet se fillimisht u konfliktua me vëllanë…",
-      "link": "https://shekulli.com.al/2026/08/24/foto-vrau-te-emen-dhe-plagosi-te-atin-me-sqepar-ky-eshte-45-vjecari-qe-u-arrestua-ne-fier-dyshohet-se-konflikti-nisi-me-vellane/",
-      "description": "Një ngjarje e rëndë tronditi mbrëmjen e së hënës fshatin Zhymë, në njësinë administrative Krutje të Lushnjës, ku 45-vjeçari Florion Dalladaku vrau nënën e tij 80-vjeçare dhe plagosi rëndë të atin me sqepar. Ngjarja ndodhi rreth orës 21:20. Sipas të dhënave paraprake, Florion Dalladaku dyshohet se ka",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T20:49:35+00:00",
-      "dateStr": "24 Aug, 20:49",
-      "isNew": true,
-      "id": "she81787604575"
-    },
-    {
-      "title": "Video/ Dhunë në protestë! Gruaja e pështyu, burri e godet me shkop",
-      "link": "https://shekulli.com.al/2026/08/24/video-dhune-ne-proteste-gruaja-e-peshtyu-burri-e-godet-me-shkop/",
-      "description": "Një incident i dhunshëm ka ndodhur mbrëmjen e sotme gjatë protestës qytetare, që u mbajt para godinës së Kryeministrisë. Raportohet se një konflikt ka nisur mes një gruaje dhe një burri, që dyshohet se vijnë nga e njëjta familje. Fillimisht burri dhe gruaja janë parë duke komunikuar, deri sa kjo e f",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-24T20:37:25+00:00",
-      "dateStr": "24 Aug, 20:37",
-      "isNew": true,
-      "id": "she91787603845"
+      "id": "she91787642147"
     }
   ]
 }
