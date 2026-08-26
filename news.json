@@ -1,8 +1,261 @@
 {
-  "lastUpdated": "2026-08-26T11:23:55.250716+00:00",
+  "lastUpdated": "2026-08-26T12:40:59.323707+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Rama dhe PS ‘ndezin’ motorët, pas Pogradecit, mbledh sërish ministrat dhe drejtuesit politikë të qarqeve",
+      "link": "https://shekulli.com.al/2026/08/26/rama-dhe-ps-ndezin-motoret-pas-pogradecit-mbledh-serish-ministrat-dhe-drejtuesit-politike-te-qarqeve/",
+      "description": "TIRANË- Pas një retreat-i dyditor në qytetin e Pogradecit, kryeministri Edi Rama do të mbledhë sërish ministrat dhe drejtuesit politikë të qarqeve, në një takim që pritet të mbahet të premten në selinë e PS. Burime bëjnë me dije për SHEKULLI-n, se takimi i të premtes do të ketë funksion organizativ,",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-26T12:35:49+00:00",
+      "dateStr": "26 Aug, 12:35",
+      "isNew": true,
+      "id": "she01787747749"
+    },
+    {
+      "title": "Investim strategjik në industrinë e mbrojtjes, ministri Nufi prezanton “Guna Tactical”: Projekt që synon mbi 1,000 vende",
+      "link": "https://24-ore.com/investim-strategjik-ne-industrine-e-mbrojtjes-ministri-nufi-prezanton-guna-tactical-projekt-qe-synon-mbi-1000-vende/",
+      "description": "Përmes një publikimi në rrjetin e tij social, Ministri i Mbrojtjes Ermal Nufi ka ndarë pamje nga kantieri i punës në kompaninë “Guna Tactical”, ku po ndërtohet një nga investimet më të rëndësishme të partneritetit publik-privat në industrinë shqiptare të mbrojtjes. “Kantierin “Guna Tactical” e posto",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T12:34:43+00:00",
+      "dateStr": "26 Aug, 12:34",
+      "isNew": true,
+      "id": "24 01787747683"
+    },
+    {
+      "title": "Ndarja e pasurive të sekuestruara të krimit të organizuar shqiptar, Mbretëria e Bashkuar dhe Shqipëria nënshkruajnë marr�",
+      "link": "https://24-ore.com/ndarja-e-pasurive-te-sekuestruara-te-krimit-te-organizuar-shqiptar-mbreteria-e-bashkuar-dhe-shqiperia-nenshkruajne-marr%ef%bf%bd/",
+      "description": "Shqipëria dhe Mbretëria e Bashkuar kanë nënshkruar një marrëveshje historike për Ndarjen e Pasurive pas përfundimit të një çështjeje të lidhur me drogën dhe rikuperimin e fondeve. Kjo shënon marrëveshjen e parë të këtij lloji në rajon dhe vendos një precedent të ri për bashkëpunimin ndërkombëtar në ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T12:34:19+00:00",
+      "dateStr": "26 Aug, 12:34",
+      "isNew": true,
+      "id": "24 11787747659"
+    },
+    {
+      "title": "6 punonjës të aeroportit të Frankfurtit infektohen me malaria, njëri prej tyre humb jetën",
+      "link": "https://abcnews.al/6-punonjes-te-aeroportit-te-frankfurtit-infektohen-me-malaria-njeri-prej-tyre-humb-jeten/",
+      "description": "Një punonjës i aeroportit të Frankfurtit në Gjermani ka humbur jetën nga malaria, ndërsa pesë persona të tjerë janë infektuar nga sëmundja në një rast të rrallë të transmetimit në aeroport. Autoritetet shëndetësore gjermane dyshojnë se mushkonjat që shkaktuan infektimet kanë mbërritur në aeroport me",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T12:32:26+00:00",
+      "dateStr": "26 Aug, 12:32",
+      "isNew": true,
+      "id": "abc01787747546"
+    },
+    {
+      "title": "NCAA miraton sistemin automatizuar të thirrjeve dhe ndryshime rregullash për sezonin e bejsbollit 2027",
+      "link": "https://24-ore.com/ncaa-miraton-sistemin-automatizuar-te-thirrjeve-dhe-ndryshime-rregullash-per-sezonin-e-bejsbollit-2027/",
+      "description": "Këshilli i NCAA njoftoi se ka miratuar përdorimin e sistemit të automatizuar për thirrjet “ball‑strike” (ABS) për sezonin e bejsbollit 2027, një ndryshim q...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T12:30:50+00:00",
+      "dateStr": "26 Aug, 12:30",
+      "isNew": true,
+      "id": "24 21787747450"
+    },
+    {
+      "title": "News Line me Rovena Neziri, (26/08/2026)",
+      "link": "https://abcnews.al/news-line-me-rovena-neziri-26-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T12:27:47+00:00",
+      "dateStr": "26 Aug, 12:27",
+      "isNew": true,
+      "id": "abc11787747267"
+    },
+    {
+      "title": "Alex Singleton: Bo Nix po luan jashtë çdo pritshmërie para sezonit të tretë",
+      "link": "https://24-ore.com/alex-singleton-bo-nix-po-luan-jashte-cdo-pritshmerie-para-sezonit-te-trete/",
+      "description": "Linebackeri Alex Singleton, që hyn në vitin e tij të 8-të dhe zakonisht vendoset rreth 5 jardash larg Bo Nix gjatë çdo përsëritjeje stërvitore, thotë se qu...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T12:27:10+00:00",
+      "dateStr": "26 Aug, 12:27",
+      "isNew": true,
+      "id": "24 31787747230"
+    },
+    {
+      "title": "Kombëtares shqiptare i bien ‘aksionet’, zhvlerësohet me 30 milionë euro! Ja sa vlen sot dhe lojtarët më të shtrenjtë",
+      "link": "https://24-ore.com/kombetares-shqiptare-i-bien-aksionet-zhvleresohet-me-30-milione-euro-ja-sa-vlen-sot-dhe-lojtaret-me-te-shtrenjte/",
+      "description": "Një Kombëtare me më pak vlerë në treg, një brez që po ndryshon dhe një lider i ri financiar. Shqipëria hyn në edicionin e ri të Nations League me rreth 30 milionë euro më pak vlerë se dy vite më parë. Nëse vlera e futbollistëve do të ishte një lloj termometri i gjendjes së një [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T12:20:30+00:00",
+      "dateStr": "26 Aug, 12:20",
+      "isNew": true,
+      "id": "24 41787746830"
+    },
+    {
+      "title": "Diplomatja e parë rezidente, Begaj pranon letrat kredenciale të ambasadores së Belgjikës në Shqipëri: Bashkëpunim brenda",
+      "link": "https://24-ore.com/diplomatja-e-pare-rezidente-begaj-pranon-letrat-kredenciale-te-ambasadores-se-belgjikes-ne-shqiperi-bashkepunim-brenda/",
+      "description": "Presidenti Bajram Begaj ka pranuar sot (26 gusht) letrat kredenciale të Ambasadores së Mbretërisë së Belgjikës në Shqipëri, Olga Cogen. Në një postim në rrjetet sociale, kreu i shtetit deklaron se në qendër të bisedimeve ishte marrëdhënia e shkëlqyera mes dy vendeve dhe zgjerimi i mëtejshëm i bashkë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T12:19:13+00:00",
+      "dateStr": "26 Aug, 12:19",
+      "isNew": true,
+      "id": "24 51787746753"
+    },
+    {
+      "title": "Mënyra e pazakontë/ Kokainë dhe kanabis brenda makaronave të gatuara, në pranga familjari që do ia çonte të dënuarit te 313-ta",
+      "link": "https://shekulli.com.al/2026/08/26/menyra-e-pazakonte-kokaine-dhe-kanabis-brenda-makaronave-te-gatuara-ne-pranga-familjari-qe-do-ia-conte-te-denuarit-te-313-ta/",
+      "description": "Një mënyrë e pazakontë është përdorur për të futur lëndë narkotike në ambientet e paraburgimit 313 në Tiranë. Gjatë një kontrolli të zhvilluar ditën e djeshme, autoritetet zbuluan 17 doza kanabisi dhe 12 doza kokaine, të fshehura brenda makaronave të gatuara që do të dërgoheshin për një të paraburgo",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-26T12:16:32+00:00",
+      "dateStr": "26 Aug, 12:16",
+      "isNew": true,
+      "id": "she11787746592"
+    },
+    {
+      "title": "Tragjedi në SHBA/ Burri vret 8 të afërm, mes tyre 4 fëmijë",
+      "link": "https://abcnews.al/tragjedi-ne-shba-burri-vret-8-te-aferm-mes-tyre-4-femije/",
+      "description": "Një burrë 44-vjeçar vrau tetë familjarë, përfshirë katër fëmijë, gjatë një darke familjare të dielën në mbrëmje në një banesë pranë Billings, Montana, përpara se të qëllonte veten dhe të ndërronte jetë. Sipas një familjari, i cituar nga Associated Press, autori i dyshuar është identifikuar si Alan S",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T12:11:01+00:00",
+      "dateStr": "26 Aug, 12:11",
+      "isNew": true,
+      "id": "abc21787746261"
+    },
+    {
+      "title": "Kanosi me armë të shoqen në Palasë/ Lihet në burg Elvis Kosova",
+      "link": "https://abcnews.al/kanosi-me-arme-te-shoqen-ne-palase-lihet-ne-burg-elvis-kosova/",
+      "description": "Seanca gjyqësore për masën e sigurisë ndaj Elvis Kosovës është zhvilluar ditën e sotme në ambientet e Gjykatës së Vlorës. Gjyqtari Nertil Meçaj ka lënë në fuqi kërkesën e Prokurorisë për caktimin e masës së sigurisë “arrest në burg” ndaj Kosovës. Vendimi është dhënë pas shqyrtimit të kërkesës së org",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T12:08:33+00:00",
+      "dateStr": "26 Aug, 12:08",
+      "isNew": true,
+      "id": "abc31787746113"
+    },
+    {
+      "title": "Sali: Autostrada Shkup–Bllacë, investim historik që afron qytetarët dhe lidh të ardhmen tonë evropiane",
+      "link": "https://24-ore.com/sali-autostrada-shkup-bllace-investim-historik-qe-afron-qytetaret-dhe-lidh-te-ardhmen-tone-evropiane/",
+      "description": "Zëvendëskryeministri i Parë dhe Ministri për Çështje Evropiane, Bekim Sali, mori pjesë sot në ceremoninë që shënoi fillimin e punimeve në autostradën Shkup–Bllacë, një projekt me rëndësi strategjike për lidhjen infrastrukturore, zhvillimin ekonomik dhe forcimin e bashkëpunimit ndërmjet Maqedonisë së",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T12:08:07+00:00",
+      "dateStr": "26 Aug, 12:08",
+      "isNew": true,
+      "id": "24 61787746087"
+    },
+    {
+      "title": "Reforma territoriale, Dorjan Teliti: PD kërkon konsensus politik",
+      "link": "https://24-ore.com/reforma-territoriale-dorjan-teliti-pd-kerkon-konsensus-politik/",
+      "description": "Sesioni i ri parlamentar do të risjellë debatet politike për hartën e re territoriale. Mazhoranca dhe opozita janë ndarë në numrin e bashkive të vendit. Partia Socialiste kërkon që të ulet me 15 numri i bashkive, ndërsa demokratët kërkojnë rritjen e tyre me argumentin se shumica po përpiqet në mënyr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T12:07:49+00:00",
+      "dateStr": "26 Aug, 12:07",
+      "isNew": true,
+      "id": "24 71787746069"
+    },
+    {
+      "title": "Finalizohet operacioni “Indicia”, arrestohet 37-vjeçari! 215 bimë kanabisi u zbuluan në dy parcela",
+      "link": "https://24-ore.com/finalizohet-operacioni-indicia-arrestohet-37-vjecari-215-bime-kanabisi-u-zbuluan-ne-dy-parcela/",
+      "description": "Një 37-vjeçar është arrestuar në Bulqizë, pasi u kap në flagrancë nga Policia në një zonë ku dyshohet se kishte kultivuar bimë narkotike. Operacioni i koduar “Indicia” u finalizua nga shërbimet e Komisariatit të Policisë Bulqizë, pas kontrolleve intensive në terren dhe informacioneve të siguruara në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T12:07:34+00:00",
+      "dateStr": "26 Aug, 12:07",
+      "isNew": true,
+      "id": "24 81787746054"
+    },
+    {
+      "title": "Përmbytje në Nepal, 17 të vdekur dhe qindra të zhdukur",
+      "link": "https://24-ore.com/permbytje-ne-nepal-17-te-vdekur-dhe-qindra-te-zhdukur/",
+      "description": "Të paktën 17 persona kanë humbur jetën dhe qindra të tjerë rezultojnë të zhdukur pas një përmbytjeje të menjëhershme në kufirin mes Nepalit dhe Tibetit. Sipas të dhënave paraprake të Bordit Turistik të Nepalit, mes personave të zhdukur janë të paktën 291 turistë të huaj. Më shumë se 100 prej tyre dy",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T12:07:18+00:00",
+      "dateStr": "26 Aug, 12:07",
+      "isNew": true,
+      "id": "24 91787746038"
+    },
+    {
+      "title": "Tjetër krim i rëndë brenda familjes në Kosovë, burri rreh për vdekje gruan",
+      "link": "https://shekulli.com.al/2026/08/26/tjeter-krim-i-rende-brenda-familjes-ne-kosove-burri-rreh-per-vdekje-gruan/",
+      "description": "KOSOVË- Një grua 80-vjeçare, me inicialet L.D., është gjetur pa shenja jete rreth orës 01:30 të ditës së sotme, në banesën e saj në Prizren. Lajmi është konfirmuar për mediat nga zëdhënësi i Policisë së Kosovës për rajonin e Prizrenit, Shaqir Bytyqi. Sipas policisë, pas marrjes së njoftimit, në vend",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-26T11:56:45+00:00",
+      "dateStr": "26 Aug, 11:56",
+      "isNew": true,
+      "id": "she21787745405"
+    },
+    {
+      "title": "Nisin shira, por nuk “thyhet” i nxehti/ Sinoptikanët: Reshje në disa zona, por temperaturat do rriten",
+      "link": "https://abcnews.al/nisin-shira-por-nuk-thyhet-i-nxehti-sinoptikanet-reshje-ne-disa-zona-por-temperaturat-do-rriten/",
+      "description": "Pas javësh të nxehta dhe të thata reshjet përfshinë Tiranën për pak minuta paraditen  e të mërkurës kur u duk se bashkë me shiun do të kthehej freskia, por nuk ndodhi kështu. Alternime kthjellimesh dhe vranësirash parashikojnë meteorologët për një pjesë të vendit tonë.  Në disa zona ato pritet të sh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T11:49:56+00:00",
+      "dateStr": "26 Aug, 11:49",
+      "isNew": true,
+      "id": "abc41787744996"
+    },
+    {
+      "title": "E rëndë në Rusi/ Zjarri në kantierin e ndërtimit lë të paktën 3 të vdekur e dhjetëra të lënduar",
+      "link": "https://abcnews.al/e-rende-ne-rusi-zjarri-ne-kantierin-e-ndertimit-le-te-pakten-3-te-vdekur-e-dhjetera-te-lenduar/",
+      "description": "Një zjarr i fuqishëm ka shpërthyer në një kompleks petrokimik në ndërtim në rajonin Amur, në Lindjen e Largët të Rusisë, duke shkaktuar viktima dhe dhjetëra të plagosur. Sipas raportimeve fillestare, tre persona humbën jetën dhe rreth 150 të tjerë u plagosën. Të dhënat e para nga kompania bënin me d",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T11:47:09+00:00",
+      "dateStr": "26 Aug, 11:47",
+      "isNew": true,
+      "id": "abc51787744829"
+    },
+    {
+      "title": "“Të parafundit në rajon”, Tabaku ngre alarmin: Shqipëria po humb betejën e teknologjisë, programuesit dhe sipermarrësit po largohen",
+      "link": "https://shekulli.com.al/2026/08/26/te-parafundit-ne-rajon-tabaku-ngre-alarmin-shqiperia-po-humb-betejen-e-teknologjise-programuesit-dhe-sipermarresit-po-largohen/",
+      "description": "TIRANË- Deputetja e Partisë Demokratike, Jorida Tabaku, ka ngritur shqetësimin për situatën e sektorit të teknologjisë në Shqipëri, që sipas saj po humb terren dita ditës në raport me vendet e tjera të rajonit. Sipas Tabakut, kjo nuk ndodh për shkak të mungesës së talentit, por për shkak të sistemit",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-26T11:46:10+00:00",
+      "dateStr": "26 Aug, 11:46",
+      "isNew": true,
+      "id": "she31787744770"
+    },
+    {
+      "title": "Shefi i CIA-s zhvilloi takime me shërbimet ruse të inteligjencës",
+      "link": "https://abcnews.al/shefi-i-cia-s-zhvilloi-takime-me-sherbimet-ruse-te-inteligjences/",
+      "description": "Kremlini ka konfirmuar se drejtori i CIA-s, John Ratcliffe, zhvilloi takime me agjencitë ruse të inteligjencës gjatë vizitës së papritur në Moskë. Ratcliffe udhëtoi në kryeqytetin rus të martën për bisedime, të cilat deri tani janë mbajtur kryesisht të fshehta. Zëdhënësi i Kremlinit, Dmitry Peskov, ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T11:43:08+00:00",
+      "dateStr": "26 Aug, 11:43",
+      "isNew": true,
+      "id": "abc61787744588"
+    },
+    {
+      "title": "Koreja e Jugut alarmohet/ Aeroplanët ushtarakë rusë hyjnë në zonën e saj të mbrojtjes ajrore",
+      "link": "https://abcnews.al/zjarr-ne-repartin-e-neonatologjise-ne-pakistan-humbin-jeten-14-foshnja/",
+      "description": "Koreja e Jugut ka ngritur në ajër aeroplanët e saj luftarakë pasi disa aeroplanë ushtarakë rusë hynë në zonën e identifikimit të mbrojtjes ajrore të vendit, në incidentin e dytë të tillë brenda pak javësh. Ministria e Mbrojtjes në Seul tha se aeroplanët rusë hynë dhe më pas u larguan nga zona mbi De",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T11:30:23+00:00",
+      "dateStr": "26 Aug, 11:30",
+      "isNew": true,
+      "id": "abc71787743823"
+    },
+    {
+      "title": "Riatdhesimi i 5 shqiptarëve/ Nura: Siria po ndjek politika më demokratike, do të ketë kthime të reja",
+      "link": "https://abcnews.al/riatdhesimi-i-5-shqiptareve-nura-siria-po-ndjek-politika-me-demokratike-do-te-kete-kthime-te-reja/",
+      "description": "“Jemi një shembull i tolerancës fetare”, tha analisti Artur Nura, duke komentuar riatdhesimin nga Siria të pesë shtetasve shqiptarë, mes tyre tre të mitur dhe një 79-vjeçare. Në një intervistë për “News Line” në ABC News, Nura vlerësoi ndërhyrjen e shtetit shqiptar për kthimin e tyre në atdhe, duke ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T11:28:34+00:00",
+      "dateStr": "26 Aug, 11:28",
+      "isNew": true,
+      "id": "abc81787743714"
+    },
     {
       "title": "Dhunoi bashkëshorten dhe u kap me armë në Palasë, Gjykata e Vlorës merr vendimin për “Visin e garave”",
       "link": "https://shekulli.com.al/2026/08/26/dhunoi-bashkeshorten-dhe-u-kap-me-arme-ne-palase-gjykata-e-vlores-merr-vendimin-per-visin-e-garave/",
@@ -12,62 +265,7 @@
       "date": "2026-08-26T11:22:48+00:00",
       "dateStr": "26 Aug, 11:22",
       "isNew": true,
-      "id": "she01787743368"
-    },
-    {
-      "title": "Projektet e resorteve luksoze me kapital të huaj nxisin zemërim në Ballkan",
-      "link": "https://24-ore.com/projektet-e-resorteve-luksoze-me-kapital-te-huaj-nxisin-zemerim-ne-ballkan/",
-      "description": "Foto nga protestat e vazhdueshme në Tiranë. Foto: BIRN. Nga: Ted Todorovic-Thomas Që prej nisjes në maj të protestave të “Revolucionit të Flamingove” në Shqipëri, ato kanë tërhequr vëmendjen ndërkombëtare dhe kanë nxitur debat, brenda dhe jashtë Ballkanit, mbi mega-projektet e investitorëve të profi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T11:22:03+00:00",
-      "dateStr": "26 Aug, 11:22",
-      "isNew": true,
-      "id": "24 01787743323"
-    },
-    {
-      "title": "Presidenti Begaj pranon Letrat Kredenciale të Ambasadores së Belgjikës në Shqipëri, duke riafirmuar marrëdhëniet dypalëshe dhe bashkëpunimin në NATO e BE",
-      "link": "https://24-ore.com/presidenti-begaj-pranon-letrat-kredenciale-te-ambasadores-se-belgjikes-ne-shqiperi-duke-riafirmuar-marredheniet-dypaleshe-dhe-bashkepunimin-ne-nato-e-be/",
-      "description": "Presidenti i Republikës, Bajram Begaj, priti sot në një takim Ambasadoren e Mbretërisë së Belgjikës në Shqipëri, znj. Olga Cogen me rastin e pranimit të Letrave Kredenciale. Presidenti i Republikës vlerësoi vendimin për hapjen për herë të parë të Ambasadës së Mbretërisë së Belgjikës me seli në Tiran",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T11:20:55+00:00",
-      "dateStr": "26 Aug, 11:20",
-      "isNew": true,
-      "id": "24 11787743255"
-    },
-    {
-      "title": "Nga Kamza në Bulqizë për të kultivuar dy parcela me hashash, arrestohet 37-vjeçari i dyshuar!",
-      "link": "https://24-ore.com/nga-kamza-ne-bulqize-per-te-kultivuar-dy-parcela-me-hashash-arrestohet-37-vjecari-i-dyshuar/",
-      "description": "Nga Kamza në Bulqizë për të kultivuar hashash, arrestohet 37-vjeçari i dyshuar. Policia e Dibrës njoftoi sot (26 gusht) se në fshatin Okshtun të Vogël, u zbuluan 2 parcela ku po kultivoheshin 215 bimë, aty ku u arrestua dhe 37-vjeçari nga Kamza. Operacioni është koduar “Indicia” dhe po hetohet për b",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T11:20:54+00:00",
-      "dateStr": "26 Aug, 11:20",
-      "isNew": true,
-      "id": "24 21787743254"
-    },
-    {
-      "title": "Drejtoi grupin xhihadist të qitësve në Siri, SHBA heq nga sanksionet snajperistin shqiptar me dy identitete!",
-      "link": "https://24-ore.com/drejtoi-grupin-xhihadist-te-qitesve-ne-siri-shba-heq-nga-sanksionet-snajperistin-shqiptar-me-dy-identitete/",
-      "description": "Njeriu që drejtoi grupin xhihadist, shqiptari Ebu Katede Albani ose Abdul Jashari, pjesëtar i grupit të snajperistëve në Siri “Xhemati Alban”, nuk është më nën sanksionet amerikane. Një masë e tillë vjen pasi Departamenti i Shtetit hoqi Sirinë nga lista e shteteve që mbështesin terrorizmin në një ha",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T11:20:25+00:00",
-      "dateStr": "26 Aug, 11:20",
-      "isNew": true,
-      "id": "24 31787743225"
-    },
-    {
-      "title": "Britania ndryshon udhëzimin për azilin e shqiptarëve të trafikuar, rastet do të vlerësohen individualisht",
-      "link": "https://24-ore.com/britania-ndryshon-udhezimin-per-azilin-e-shqiptareve-te-trafikuar-rastet-do-te-vleresohen-individualisht/",
-      "description": "LONDËR, 26 gusht, ATSH/ Britania e Madhe ka përditësuar udhëzimet për shqyrtimin e kërkesave për azil të shtetasve shqiptarë, pas një vendimi të Gjykatës së Apelit për Emigracionin që lidhet me viktimat meshkuj të trafikimit. Vendimi, i shpallur më 13 gusht 2026, përcakton se viktimat meshkuj shqipt",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T11:16:09+00:00",
-      "dateStr": "26 Aug, 11:16",
-      "isNew": true,
-      "id": "24 41787742969"
+      "id": "she41787743368"
     },
     {
       "title": "Edicioni i Mesditës me Fabiola Hoxha, (26/08/2026)",
@@ -78,62 +276,7 @@
       "date": "2026-08-26T11:11:02+00:00",
       "dateStr": "26 Aug, 11:11",
       "isNew": true,
-      "id": "abc01787742662"
-    },
-    {
-      "title": "​PDK e çon në Prokurori Speciale Kurtin me deputetët ministra",
-      "link": "https://24-ore.com/pdk-e-con-ne-prokurori-speciale-kurtin-me-deputetet-ministra/",
-      "description": "Deputeti i Partisë Demokratike të Kosovës, Përparim Gruda, ka thënë se gjatë ditës do të dorëzojnë kallëzim penal në Prokurori Speciale ndaj kryeministrit në detyrë, Albin Kurtit dhe të gjithë anëtarëve të qeverisë që janë betuar edhe si deputetë. Gruda tha se nevojitet aktivizimi i Prokurorisë së S",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T11:10:59+00:00",
-      "dateStr": "26 Aug, 11:10",
-      "isNew": true,
-      "id": "24 51787742659"
-    },
-    {
-      "title": "Vritet një grua në Prizren, arrestohet bashkëshorti i saj",
-      "link": "https://abcnews.al/vritet-nje-grua-ne-prizren-arrestohet-bashkeshorti-i-saj/",
-      "description": "Një tjetër krim brenda familjes trondit Kosovën. Një vrasje e rëndë ka ndodhur në orët e para të ditës së sotme në një banesë në Prizren, ku një burrë dyshohet se ka mbytur me duar bashkëshorten e tij. Rasti është konfirmuar nga Policia Rajonale e Prizrenit. Sipas informacioneve të para, viktima ësh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T11:07:28+00:00",
-      "dateStr": "26 Aug, 11:07",
-      "isNew": true,
-      "id": "abc11787742448"
-    },
-    {
-      "title": "Bastisje në rrethinë të Strumicës, gjendet drogë – ndalohen dy persona",
-      "link": "https://24-ore.com/bastisje-ne-rrethine-te-strumices-gjendet-droge-ndalohen-dy-persona/",
-      "description": "MPB Maqedoni njofton se dje (25.08.2026), në orën 17:00, në fsh. Bansko, rrethina e Strumicës, nëpunës policorë të SPB Strumicë i privuan nga liria E.N. (21) dhe Xh.M. (29), të dy nga fsh. Bansko. &#8220;Gjatë bastisjes në shtëpinë e E.N., të realizuar me urdhër gjykate, janë gjetur paketime me mari",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T11:06:28+00:00",
-      "dateStr": "26 Aug, 11:06",
-      "isNew": true,
-      "id": "24 61787742388"
-    },
-    {
-      "title": "Nga Kruja në Tiranë për të shitur pistoletën, arrestohet te ‘Kthesa e Kamzës’ 26-vjeçari",
-      "link": "https://24-ore.com/nga-kruja-ne-tirane-per-te-shitur-pistoleten-arrestohet-te-kthesa-e-kamzes-26-vjecari/",
-      "description": "Një 26-vjeçar nga Kruja është arrestuar në Tiranë, pasi dyshohet se po transportonte një armë zjarri me qëllim shitjen e saj. Policia njofton se operacioni i koduar “Price” u finalizua nga shërbimet e Forcës së Posaçme Operacionale, në bashkëpunim me specialistët e Seksionit për Hetimin e Trafiqeve.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T11:06:18+00:00",
-      "dateStr": "26 Aug, 11:06",
-      "isNew": true,
-      "id": "24 71787742378"
-    },
-    {
-      "title": "​Konjufca për aktakuzën ndaj Shehollit: Rrjetet e spiunazhit synojnë destabilizimin",
-      "link": "https://24-ore.com/konjufca-per-aktakuzen-ndaj-shehollit-rrjetet-e-spiunazhit-synojne-destabilizimin/",
-      "description": "Deputeti i Lëvizjes Vetëvendosje, Glauk Konjufca ka komentuar aktakuzën për spiunazh ndaj Fatmir Shehollit, duke deklaruar se kodi i Kosovës gjatë viteve të fundit kanë intensifikuar luftën kundër rrjeteve të tilla. Sipas tij, këto struktura kontrollohen, financohen dhe orkestrohen nga Serbia, ndërs",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T11:06:11+00:00",
-      "dateStr": "26 Aug, 11:06",
-      "isNew": true,
-      "id": "24 81787742371"
+      "id": "abc91787742662"
     },
     {
       "title": "Alarm në aeroportin e Frankfurtit, 6 punonjës infektohen nga malaria, njëri humb jetën",
@@ -144,51 +287,7 @@
       "date": "2026-08-26T11:05:10+00:00",
       "dateStr": "26 Aug, 11:05",
       "isNew": true,
-      "id": "she11787742310"
-    },
-    {
-      "title": "Horoskopi ditor për nesër, e Enjte 27 Gusht 2026",
-      "link": "https://24-ore.com/horoskopi-ditor-per-neser-e-enjte-27-gusht-2026/",
-      "description": "Dashi Priten probleme shume te mëdha sot ne jetën tuaj ne çift. Do jeni te dy kokëfortë dhe nuk do merreni vesh për asgjë. Beqaret do jene me shume fat dhe do gjejnë personin qe do ju përshtatet me se miri. Mbrëmja do jete e veçante dhe mjaft emocionuese. Me financat mundohuni te tregoheni te [&#823",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T11:03:03+00:00",
-      "dateStr": "26 Aug, 11:03",
-      "isNew": true,
-      "id": "24 91787742183"
-    },
-    {
-      "title": "“Shteti bektashi, më afër se kurrë”/ Ish këshilltari i Clinton: Është punuar dy vjet për finalizimin e tij",
-      "link": "https://abcnews.al/shteti-bektashi-me-afer-se-kurre-ish-keshilltari-i-clinton-eshte-punuar-dy-vjet-per-finalizimin-e-tij/",
-      "description": "Shteti i ri Bektashi, më afër se kurrë. I dërguari special i bektashinjve në SHBA, Kristofer Hyland, dikur ish-këshilltar i Presidentit të SHBA, Bill Clinton, në një artikull të posaçëm të gazetës së përditshme holandeze NRC, ka deklaruar se në 2 vite, janë marrë masa konkrete për të finalizuar krij",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T10:59:06+00:00",
-      "dateStr": "26 Aug, 10:59",
-      "isNew": true,
-      "id": "abc21787741946"
-    },
-    {
-      "title": "Kultivoi bimë narkotike, arrestohet 37-vjeçari në Bulqizë",
-      "link": "https://abcnews.al/kultivoi-bime-narkotike-arrestohet-37-vjecari-ne-bulqize/",
-      "description": "Arrestohet një 37-vjeçar, i cili u kap në flagrancë nga Policia në vendin ku dyshohet se kishte kultivuar 215 bimë të dyshuara narkotike Cannabis Sativa. Asgjësohen bimët narkotike. Shërbimet e Komisariatit të Policisë Bulqizë, si rezultat i kontrolleve intensive në terren, bazuar edhe në informacio",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T10:52:42+00:00",
-      "dateStr": "26 Aug, 10:52",
-      "isNew": true,
-      "id": "abc31787741562"
-    },
-    {
-      "title": "Sabah, një “përrallë” në Champions/ U krijua vetëm nëntë vite më parë, siguron fazën e grupeve",
-      "link": "https://abcnews.al/sabah-nje-perralle-ne-champions-u-krijua-vetem-nente-vite-me-pare-siguron-fazen-e-grupeve/",
-      "description": "Në futboll, asgjë nuk është e pamundur dhe jo rrallë herë, ëndrrat bëhen realitet. Sabah, një klub nga Azerbajxhani i themeluar vetëm në vitin 2017, ka siguruar një vend mes më të mëdhenjve të futbollit europian, pasi u kualifikua në fazën e grupeve të Ligës së Kampionëve. Skuadra azere eliminoi Hap",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T10:48:58+00:00",
-      "dateStr": "26 Aug, 10:48",
-      "isNew": true,
-      "id": "abc41787741338"
+      "id": "she51787742310"
     },
     {
       "title": "Nga dita 1 në të 88-tën/ 4 protagonistët e “Revolucionit Flamingo” flasin për Shekullin: Çfarë i mban në shesh dhe çfarë presin nga Shtatori",
@@ -199,29 +298,7 @@
       "date": "2026-08-26T10:47:00+00:00",
       "dateStr": "26 Aug, 10:47",
       "isNew": true,
-      "id": "she21787741220"
-    },
-    {
-      "title": "Asani, rekorde dhe “gjyqe”/ Futbollisti shqiptar shënon golin jubilar 1100 për ekipin e tij",
-      "link": "https://abcnews.al/asani-rekorde-dhe-gjyqe-futbollisti-shqiptar-shenon-golin-jubilar-1100-per-ekipin-e-tij/",
-      "description": "Azia I ka sjellë lavdi, por edhe shqetësime pa fund. Që nga Koreja e Jugut në Iran, Jasir Asani është një hero kontinental, dhe ja ku ishte autor I një goli jubilar. Futbollisti I kombëtares shqiptare realizoi për 1-0 në derbin ndaj Sepahanit, dhe kjo ishte rrjeta numër 1100 për klubin e tij, Estegl",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T10:40:55+00:00",
-      "dateStr": "26 Aug, 10:40",
-      "isNew": true,
-      "id": "abc51787740855"
-    },
-    {
-      "title": "Asllani, lojtari i “dy botëve”/ Klube nga Spanja e Katari në duel për yllin e kombëtares",
-      "link": "https://abcnews.al/asllani-lojtari-i-dy-boteve-klube-nga-spanja-e-katari-ne-duel-per-yllin-e-kombetares/",
-      "description": "Italia nuk bën për të, por nuk është I harruar. Kristjan Asllani ka bërë aq në karrierë saqë të ketë dashamirës në të katër anët e botës, dhe për momentin derbi është mes Lindjes së Mesme dhe Europës Juglindore. Në Katar e kërkon Al Xhazira e cila ka qenë shumë pranë mesfushorit kuqezi. Gazetarë të ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T10:31:11+00:00",
-      "dateStr": "26 Aug, 10:31",
-      "isNew": true,
-      "id": "abc61787740271"
+      "id": "she61787741220"
     },
     {
       "title": "Nga Kruja në Tiranë për të shitur pistoletën, arrestohet në flagrancë 26-vjeçari",
@@ -232,40 +309,7 @@
       "date": "2026-08-26T10:26:23+00:00",
       "dateStr": "26 Aug, 10:26",
       "isNew": true,
-      "id": "she31787739983"
-    },
-    {
-      "title": "Shqipëria Sot me Fabiol Hoxha, (26/08/2026)",
-      "link": "https://abcnews.al/shqiperia-sot-me-fabiol-hoxha-26-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T10:25:43+00:00",
-      "dateStr": "26 Aug, 10:25",
-      "isNew": true,
-      "id": "abc71787739943"
-    },
-    {
-      "title": "Pogaçar bën sërish ligjin/ Fitorja e dytë në tri etapa në klasiken Vuelta të Spanjës",
-      "link": "https://abcnews.al/pogacar-ben-serish-ligjin-fitorja-e-dyte-ne-tri-etapa-ne-klasiken-vuelta-te-spanjes/",
-      "description": "Një vend I vogël ka një kampion kaq të madh. Madje, ka dy. Tadej Pogaçar dhe Primozh Rogliç janë udhëheqësit e Vueltës së Spanjës, klasikes së tretë më të madhe të çiklizmit në botë. Kampioni I Turit të Francës padyshim meriton të ndahet veç dhe sërish dha një paraqitje të madhe e dominuese, me fito",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T10:25:15+00:00",
-      "dateStr": "26 Aug, 10:25",
-      "isNew": true,
-      "id": "abc81787739915"
-    },
-    {
-      "title": "Nga Kruja në Tiranë për të shitur një pistoletë, arrestohet 26-vjeçari",
-      "link": "https://abcnews.al/nga-kruja-ne-tirane-per-te-shitur-nje-pistolete-arrestohet-26-vjecari/",
-      "description": "Lëvizte nga Kruja në Tiranë, për të shitur një pistoletë, arrestohet 26-vjeçari. Sekuestrohet arma, automjeti me të cilin lëvizte i arrestuari dhe celulari i tij. “Shërbimet e Forcës së Posaçme Operacionale, në bashkëpunim me specialistët e Seksionit për Hetimin e Trafiqeve, si rezultat i administri",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T10:23:24+00:00",
-      "dateStr": "26 Aug, 10:23",
-      "isNew": true,
-      "id": "abc91787739804"
+      "id": "she71787739983"
     },
     {
       "title": "Kongresmeni amerikan letër Kushnerit: Ke kohë deri në datën 7 Shtator të sjellësh dokumentet për blerjen e tokës në Zvërnec…",
@@ -276,7 +320,7 @@
       "date": "2026-08-26T09:17:31+00:00",
       "dateStr": "26 Aug, 09:17",
       "isNew": true,
-      "id": "she41787735851"
+      "id": "she81787735851"
     },
     {
       "title": "Bizneset e Juglindjes ‘gjunjëzohen’ nga trafiku në autostradën e Elbasanit, bien turistët nga Tirana",
@@ -287,51 +331,7 @@
       "date": "2026-08-26T08:51:20+00:00",
       "dateStr": "26 Aug, 08:51",
       "isNew": true,
-      "id": "she51787734280"
-    },
-    {
-      "title": "Hajrie Taushani dhe Myrvete Dibra, kush janë dy gratë që u kthyen në mesnatë nga Siria. Njëra prej tyre ndërroi mendje 5 vite më parë…",
-      "link": "https://shekulli.com.al/2026/08/26/hajrie-taushani-dhe-myrvete-dibra-kush-jane-dy-grate-qe-u-kthyen-ne-mesnate-nga-siria-njera-prej-tyre-nderroi-mendje-5-vite-me-pare/",
-      "description": "TIRANË- 2 gra dhe tre fëmijë, janë riatdhesuar nga Siria mesnatën e sotme, ndërsa tashmë do të nisë puna për riintegrimin e tyre në Shqipëri. SHEKULLI mëson se dy gratë e kthyera janë Myrvete Dibra, ish-bashkëshortja e luftëtarit të ISIS-it, Hamid Beharovic, si dhe 79-vjeçarja Hajrije Taushani, e ci",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-26T08:36:02+00:00",
-      "dateStr": "26 Aug, 08:36",
-      "isNew": true,
-      "id": "she61787733362"
-    },
-    {
-      "title": "Tragjedi në Pakistan, zjarri përfshin maternitetin, 14 foshnja humbin jetën",
-      "link": "https://shekulli.com.al/2026/08/26/tragjedi-ne-pakistan-zjarri-perfshin-maternitetin-14-foshnja-humbin-jeten/",
-      "description": "PAKISTAN- Një tragjedi e rëndë ka tronditur kryeqytetin e Pakistanit, Islamabad, ku një zjarr i përmasave të mëdha përfshiu repartin e maternitetit në spitalin shtetëror Pakistan Institute of Medical Sciences (PIMS). Të paktën 14 foshnja të porsalindura kanë humbur jetën nga zjarri, ndërsa një tjetë",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-26T08:21:20+00:00",
-      "dateStr": "26 Aug, 08:21",
-      "isNew": true,
-      "id": "she71787732480"
-    },
-    {
-      "title": "Në kërkim për atentatin ndaj Guçit/ Policia i prish festën e ‘baby gender’ Bledar Çunit, i vë prangat në qytetin e Beratit (Detajet)",
-      "link": "https://shekulli.com.al/2026/08/26/ne-kerkim-per-atentatin-ndaj-gucit-policia-i-prish-festen-e-baby-gender-bledar-cunit-i-ve-prangat-ne-qytetin-e-beratit-detajet/",
-      "description": "Forcat e Ndërhyrjes së Shpejtë të Fierit kanë arrestuar mbrëmjen e djeshme në qytetin e Beratit, Bledar Çunin, person ky i shpallur në kërkim për “Vrasje të mbetur në tentativë” ndaj Fabion Kuçit, që njihet si personazh i njohur i Tik-Tok-ut me emrin “Guçi”. 35-vjeçari Çuni rezulton i shpallur në kë",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-26T08:10:42+00:00",
-      "dateStr": "26 Aug, 08:10",
-      "isNew": true,
-      "id": "she81787731842"
-    },
-    {
-      "title": "Fatura e ‘kripur’ që la pas ish-zyrtari i akuzuar për korrupsion Taulant Tushe",
-      "link": "https://shekulli.com.al/2026/08/26/fatura-e-kripur-qe-la-pas-ish-zyrtari-i-akuzuar-per-korrupsion-taulant-tushe/",
-      "description": "Para se emri i tij të bëhej i njohur në disa prej dosjeve më të bujshme kundër korrupsionit dhe shpërdorimit të detyrës në Shqipëri, nga afera e inceneratorëve te skandali i tenderave i njohur si “5D”, Taulant Tusha kishte lënë një tjetër gjurmë të mbresëlënëse në zyrat e shtetit. Vetëm se këtë herë",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-26T08:00:55+00:00",
-      "dateStr": "26 Aug, 08:00",
-      "isNew": true,
-      "id": "she91787731255"
+      "id": "she91787734280"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
