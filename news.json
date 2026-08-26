@@ -1,117 +1,194 @@
 {
-  "lastUpdated": "2026-08-26T09:35:20.646673+00:00",
+  "lastUpdated": "2026-08-26T10:29:46.603533+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "FOKUS – Fundi i politikës pro ruse të Orban, Hungaria shpall Rusinë kërcënim",
-      "link": "https://24-ore.com/fokus-fundi-i-politikes-pro-ruse-te-orban-hungaria-shpall-rusine-kercenim/",
-      "description": "BUDAPEST, 26 gusht /ATSH-DPA/- Qeveria e re e Hungarisë e ka cilësuar Rusinë një “kërcënim”, duke shënuar një ndryshim të rëndësishëm nga politika e jashtme pro-ruse e ndjekur gjatë viteve të qeverisjes së ish-kryeministrit Viktor Orban. Ky qëndrim është përfshirë në një dokument që përcakton udhëzi",
-      "source": "24 ORE",
+      "title": "Nga Kruja në Tiranë për të shitur pistoletën, arrestohet në flagrancë 26-vjeçari",
+      "link": "https://shekulli.com.al/2026/08/26/nga-kruja-ne-tirane-per-te-shitur-pistoleten-arrestohet-ne-flagrance-26-vjecari/",
+      "description": "TIRANË- Finalizohet operacioni i koduar “Price”. Goditet një tjetër tentativë për të shitur armë zjarri. Lëvizte nga Kruja në Tiranë, për të shitur një pistoletë, arrestohet 26-vjeçari. Sekuestrohet arma, automjeti me të cilin lëvizte i arrestuari dhe celulari i tij. Shërbimet e Forcës së Posaçme Op",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-26T09:31:17+00:00",
-      "dateStr": "26 Aug, 09:31",
+      "date": "2026-08-26T10:26:23+00:00",
+      "dateStr": "26 Aug, 10:26",
       "isNew": true,
-      "id": "24 01787736677"
+      "id": "she01787739983"
     },
     {
-      "title": "34 vatra zjarri në 24 orë, 5 mbeten aktive! Fokusi te Mali i Dajtit",
-      "link": "https://24-ore.com/34-vatra-zjarri-ne-24-ore-5-mbeten-aktive-fokusi-te-mali-i-dajtit/",
-      "description": "34 vatra zjarri janë raportuar në territorin e vendit gjatë 24 orëve të fundit. Sipas Ministrisë së Mbrojtjes, 5 vatra mbeten aktive, ndërsa 4 të tjera janë nën monitorim. Në përballimin e situatës janë angazhuar 219 forca operacionale dhe 35 automjete zjarrfikëse. Forcat e Armatosura kanë mbështetu",
+      "title": "Ylli Zalla monitorohej me dron ‘Bayraktar’, para arrestimit ‘patrullonte’ me kallash në dorë (VIDEO)",
+      "link": "https://24-ore.com/ylli-zalla-monitorohej-me-dron-bayraktar-para-arrestimit-patrullonte-me-kallash-ne-dore-video/",
+      "description": "Këto pamje janë gjatë monitorimit që policia e Tiranës i ka bërë të shumëkërkuarit Ylli Zalla, i cili u prangos pak ditë më parë në afërsi të banesës së tij në Krujë. Siç duket nga pamjet, ai është mbajtur nën vëzhgim me dron të teknologjisë së lartë, dronin “Bayraktar”, për të mbajtur nën kontroll ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-26T09:24:01+00:00",
+      "date": "2026-08-26T10:21:45+00:00",
+      "dateStr": "26 Aug, 10:21",
+      "isNew": true,
+      "id": "24 01787739705"
+    },
+    {
+      "title": "Conference League/ Dinamo luan ndeshjen e “jetës” ndaj Pafos, vetëm një mungesë për Dajën",
+      "link": "https://24-ore.com/conference-league-dinamo-luan-ndeshjen-e-jetes-ndaj-pafos-vetem-nje-mungese-per-dajen/",
+      "description": "Dinamo luan të enjten e 27 gushtit, në orën 19:00, ndeshjen e kthimit të Play-off-it të Conference League ndaj Pafos. Sfida që do të luhet “Limassol Stadium” do të përcaktojë skuadrën që do të vijojë më tej në fazën e ligës së kompeticionit. Barazimi 1-1 në “Elbasan Arena” ka lënë gjithçka të hapur ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T10:21:13+00:00",
+      "dateStr": "26 Aug, 10:21",
+      "isNew": true,
+      "id": "24 11787739673"
+    },
+    {
+      "title": "SHBA – Trump: Hormuzi është çminuar, çdo përpjekje e Iranit do të ndëshkohet",
+      "link": "https://24-ore.com/shba-trump-hormuzi-eshte-cminuar-cdo-perpjekje-e-iranit-do-te-ndeshkohet/",
+      "description": "&#8211; Presidenti i SHBA-së, Donald Trump deklaroi sot se Marina amerikane ka hequr ose ka shpërthyer të gjitha minat detare në Ngushticën e Hormuzit, një rrugë ujore jetike për transportin e naftës dhe gazit, të cilën Irani e ka mbyllur kryesisht që nga fillimi i luftës në Lindjen e Mesme, raporto",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T10:16:08+00:00",
+      "dateStr": "26 Aug, 10:16",
+      "isNew": true,
+      "id": "24 21787739368"
+    },
+    {
+      "title": "Merkato/ Julián Álvarez “sëmuret” dhe nuk stërvitet, Atlético Madrid e vendosur për të mos e shitur te Barça",
+      "link": "https://24-ore.com/merkato-julian-alvarez-semuret-dhe-nuk-stervitet-atletico-madrid-e-vendosur-per-te-mos-e-shitur-te-barca/",
+      "description": "Çështja “Julián Álvarez” në Spanjë me kalimin e ditëve po rëndohet edhe më shumë. Klubi madrilen ditën e sotme bëri me dije se sulmuesi argjentinas nuk është stërvitur me grupin për shkak të një problemi fizik. Për ekspertët e merkatos motivi i vërtetë i mungesës së argjentinasit ka të bëjë me qëndr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T10:11:17+00:00",
+      "dateStr": "26 Aug, 10:11",
+      "isNew": true,
+      "id": "24 31787739077"
+    },
+    {
+      "title": "LASK, histori në Champions/ Kampionia e Austrisë kualifikohet për herë të parë në grupe",
+      "link": "https://abcnews.al/lask-histori-ne-champions-kampionia-e-austrise-kualifikohet-per-here-te-pare-ne-grupe/",
+      "description": "Dikur e ka fituar Kupën e Kampionëve, por nuk të pyet kush se cili ke qenë. Sëlltik padyshim që mbetet një emër I madh në futbollin europian, veçse lavdia e vitit 1967 është vite drite larg, madje edhe suksesi i madh në 2003 kur arriti deri në finalen e Kupës UEFA, mundur nga Porto e [...]Read More.",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T10:10:25+00:00",
+      "dateStr": "26 Aug, 10:10",
+      "isNew": true,
+      "id": "abc01787739025"
+    },
+    {
+      "title": "Deputetët e PDK-së sërish në sallën plenare, Reçica: Vandali Kurti nuk mund t’ua marrë deputetëve mandatin, Kuvendi të konstituohet",
+      "link": "https://24-ore.com/deputetet-e-pdk-se-serish-ne-sallen-plenare-recica-vandali-kurti-nuk-mund-tua-marre-deputeteve-mandatin-kuvendi-te-konstituohet/",
+      "description": "Deputetët e Grupit Parlamentar të Partisë Demokratike të Kosovës edhe sot në orën 11:00 kanë qenë prezentë në sallën plenare të Kuvendit të Kosovës. Deputeti i PDK-së, Elmi Reçica nga foltorja e Kuvendit të Kosovës, tha se Albin Kurti nuk mund t’ua marrë deputetëve mandatin që ua kanë dhënë qytetarë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T10:07:24+00:00",
+      "dateStr": "26 Aug, 10:07",
+      "isNew": true,
+      "id": "24 41787738844"
+    },
+    {
+      "title": "Gogu: Drejtësia duhet të jetë shërbim, jo vetëm gjykim",
+      "link": "https://24-ore.com/gogu-drejtesia-duhet-te-jete-sherbim-jo-vetem-gjykim/",
+      "description": "Ministri i Drejtësisë, Toni Gogu, kërkon që matja e reformës në drejtësi të mos kufizohet vetëm te numri i çështjeve të zgjidhura, kohëzgjatja e tyre apo cilësia e vendimeve, por të përfshijë edhe përvojën konkrete të qytetarit në kontaktin e parë me sistemin. Në editorialin e dytë të serisë “Shënim",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T10:06:48+00:00",
+      "dateStr": "26 Aug, 10:06",
+      "isNew": true,
+      "id": "24 51787738808"
+    },
+    {
+      "title": "“Do të të vras, por jo para gruas”, sherr në Greqi mes një shqiptari dhe pronarit të një servisi makinash",
+      "link": "https://abcnews.al/do-te-te-vras-por-jo-para-gruas-sherr-ne-greqi-mes-nje-shqiptari-dhe-pronarit-te-nje-servisi-makinash/",
+      "description": "Një incident i dhunshëm ndodhi në një servis makinash në Neos Kosmos ku u përfshinë një shtetas 49-vjeçar shqiptar dhe pronari 45-vjeçar i biznesit, me origjinë armene. Sipas informacioneve, 49-vjeçari fillimisht kaloi nëpër dyqan dhe filloi ta fyente 45-vjeçarin, ndërsa më pas u përpoq ta sulmonte.",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T10:04:54+00:00",
+      "dateStr": "26 Aug, 10:04",
+      "isNew": true,
+      "id": "abc11787738694"
+    },
+    {
+      "title": "Kur drejtësia nis para gjykatës",
+      "link": "https://24-ore.com/kur-drejtesia-nis-para-gjykates-2/",
+      "description": "Nga Toni Gogu Një zonjë që mbërrin në një zyrë shteti me një shkresë në dorë kërkon mbrojtje. Nga frika dhe nxitimi ajo nuk arrin as të gjejë fjalët. Përballet me një formular që nuk arrin ta kuptojë dhe i drejtohet sportelit të radhës, ku e udhëzojnë të kthehet të nesërmen. Askush nuk i thotë [&#82",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T10:03:44+00:00",
+      "dateStr": "26 Aug, 10:03",
+      "isNew": true,
+      "id": "24 61787738624"
+    },
+    {
+      "title": "Kur drejtësia nis para gjykatës",
+      "link": "https://24-ore.com/kur-drejtesia-nis-para-gjykates/",
+      "description": "Nga Toni Gogu Një zonjë që mbërrin në një zyrë shteti me një shkresë në dorë kërkon mbrojtje. Nga frika dhe nxitimi ajo nuk arrin as të gjejë fjalët. Përballet me një formular që nuk arrin ta kuptojë dhe i drejtohet sportelit të radhës, ku e udhëzojnë të kthehet të nesërmen. Askush nuk i thotë [&#82",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T10:03:43+00:00",
+      "dateStr": "26 Aug, 10:03",
+      "isNew": true,
+      "id": "24 71787738623"
+    },
+    {
+      "title": "KINË – Një robot humanoid sfidon Usain Bolt: 100 metra për vetëm 8.86 sekonda",
+      "link": "https://24-ore.com/kine-nje-robot-humanoid-sfidon-usain-bolt-100-metra-per-vetem-8-86-sekonda/",
+      "description": "PEKIN, 26 gusht /ATSH-ANSA/ – Roboti kinez humanoid Tiangong Ultra vrapoi 100 metra në 8.86 sekonda, duke vendosur një rekord të ri në Lojërat e dyta Botërore të Robotëve Humanoidë, që po zhvillohen aktualisht në Pekin. Rekordi i mëparshëm i garës ishte 9.39 sekonda, i vendosur nga një robot tjetër.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T10:00:16+00:00",
+      "dateStr": "26 Aug, 10:00",
+      "isNew": true,
+      "id": "24 81787738416"
+    },
+    {
+      "title": "I shpallur në kërkim për vrasje të mbetur në tentativë, arrestohet në Berat 35-vjeçari",
+      "link": "https://abcnews.al/i-shpallur-ne-kerkim-per-vrasje-te-mbetur-ne-tentative-arrestohet-ne-berat-35-vjecari/",
+      "description": "Policia e Beratit ka arrestuar një person, i cili ishte shpallur në kërkim për vrasje të mbetur në tentativë. Sipas njoftimit të policisë është arrestuar B. Ç., 35 vjeç, banues në Durrës. Gjykata e Durrësit i ka caktuar masën e sigurisë “Arrest në burg”, për veprën penale “Vrasja me paramendim”, kry",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T09:58:50+00:00",
+      "dateStr": "26 Aug, 09:58",
+      "isNew": true,
+      "id": "abc21787738330"
+    },
+    {
+      "title": "“Kurti është gati, emrat i kemi”, Konjufca: Propabilitet i madh për marrëveshje për presidentin/en",
+      "link": "https://24-ore.com/kurti-eshte-gati-emrat-i-kemi-konjufca-propabilitet-i-madh-per-marreveshje-per-presidentin-en/",
+      "description": "Deputeti i Kuvendit të Kosovës nga radhët e Lëvizjes Vetëvendosje, Glauk Konjufca ka deklaruar para mediave se takimi i radhës ndërmjet kryetarit të LVV-së, Albin Kurti dhe kryetarit të LDK-së, Lumir Abdixhiku pritet të fokusohet në propozimin e emrave konkretë për presidentin e ardhshëm të Kosovës.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T09:56:12+00:00",
+      "dateStr": "26 Aug, 09:56",
+      "isNew": true,
+      "id": "24 91787738172"
+    },
+    {
+      "title": "Saranda mirëpret për herë të pestë kroçerën “Seabourn Quest” me 456 turistë",
+      "link": "https://abcnews.al/saranda-mirepret-per-here-te-peste-kroceren-seabourn-quest-me-456-turiste/",
+      "description": "Porti i Sarandës vijon të jetë një nga portat kryesore hyrëse për turistët e huaj gjatë sezonit veror. Sot, porti mirëpriti për herë të pestë kroçerën turistike “Seabourn Quest”, me 456 pasagjerë në bord, të cilët kanë zgjedhur rivierën shqiptare për të zbuluar pasuritë natyrore, historike dhe kultu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T09:45:35+00:00",
+      "dateStr": "26 Aug, 09:45",
+      "isNew": true,
+      "id": "abc31787737535"
+    },
+    {
+      "title": "Shërbimi Sekret Amerikan heton videon iraniane që kërcënon Barron Trump",
+      "link": "https://abcnews.al/sherbimi-sekret-amerikan-heton-videon-iraniane-qe-kercenon-barron-trump/",
+      "description": "Shërbimi Sekret Amerikan ka konfirmuar se po kryen një hetim mbi një video të transmetuar nga media shtetërore iraniane që duket se kërcënon jetën e Barron Trump, djalit më të vogël të Presidentit Donald Trump. &#8220;Shërbimi Sekret Amerikan është në dijeni të videos dhe heton çdo gjë që mund të pe",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T09:37:41+00:00",
+      "dateStr": "26 Aug, 09:37",
+      "isNew": true,
+      "id": "abc41787737061"
+    },
+    {
+      "title": "Sulmet ruse me dronë godasin pikat e karburantit në Ukrainë, qindra objekte të dëmtuara",
+      "link": "https://abcnews.al/sulmet-ruse-me-drone-godasin-pikat-e-karburantit-ne-ukraine-qindra-objekte-te-demtuara/",
+      "description": "Sulmet ruse me dronë ndaj pikave të karburantit në Ukrainë po bëhen gjithnjë e më të shpeshta, duke rritur rrezikun për civilët dhe duke detyruar autoritetet të marrin masa të posaçme sigurie. “Mbushuni shpejt dhe vazhdoni rrugën”, u ka bërë thirrje drejtuesve të automjeteve kryebashkiaku i Kharkivi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T09:24:59+00:00",
       "dateStr": "26 Aug, 09:24",
       "isNew": true,
-      "id": "24 11787736241"
-    },
-    {
-      "title": "I dënuar për grup kriminal me ish-drejtoreshën e Kadastrës, ndërron jetë në burg Ardjan Malasi",
-      "link": "https://24-ore.com/i-denuar-per-grup-kriminal-me-ish-drejtoreshen-e-kadastres-nderron-jete-ne-burg-ardjan-malasi/",
-      "description": "Ka humbur jetën në burgun e Fierit në rrethana të paqarta i dënuari Ardjan Malasi. Paraprakisht dyshohet se i dënuari i datëlindjes 1968, ka ndërruar jetë ppr shkak të hemoragjisë cerebrale. Ky i fundit mbahet nën arrest që prej 26 tetorit 2023, teksa GJKKO e ka dënuar me 8-vite burg (Siguri e lartë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T09:23:44+00:00",
-      "dateStr": "26 Aug, 09:23",
-      "isNew": true,
-      "id": "24 21787736224"
-    },
-    {
-      "title": "Zjarri në Shashicë vihet nën kontroll, Shefi i shërbimit zjarrfikës: Nuk ka asnjë vatër aktive",
-      "link": "https://24-ore.com/zjarri-ne-shashice-vihet-nen-kontroll-shefi-i-sherbimit-zjarrfikes-nuk-ka-asnje-vater-aktive/",
-      "description": "Zjarri, i cili ra mbrëmjen e së martës në malin e Shashicës dhe rrezikoi dy fshatrat, Sherishtën dhe Drashovicën, është vënë tashmë nën kontroll. Shefi i shërbimit zjarrfikës në Bashkinë e Vlorës, Luan Kapaj, deklaroi se situata gjatë mbrëmjes ishte problematike dhe e agravuar. Forcat zjarrfikëse u ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T09:23:20+00:00",
-      "dateStr": "26 Aug, 09:23",
-      "isNew": true,
-      "id": "24 31787736200"
-    },
-    {
-      "title": "Rama pas takimeve në Pogradec njofton mbledhje me drejtuesit politik dhe ministrat të premten në PS",
-      "link": "https://24-ore.com/rama-pas-takimeve-ne-pogradec-njofton-mbledhje-me-drejtuesit-politik-dhe-ministrat-te-premten-ne-ps/",
-      "description": "Vetëm pak ditë pas takimeve dyditore në Pogradec, kryeministri Edi Rama rikthen në selinë e Partisë Socialiste drejtuesit politikë të qarqeve dhe ministrat e kabinetit qeveritar. Mbledhja do të zhvillohet të premten. Takimi vjen në vijim të diskutimeve të zhvilluara në Pogradec, ku Rama vendosi në q",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T09:22:54+00:00",
-      "dateStr": "26 Aug, 09:22",
-      "isNew": true,
-      "id": "24 41787736174"
-    },
-    {
-      "title": "Zelensky thirrje Kinës: Na ndihmoni t’i japim fund luftës",
-      "link": "https://24-ore.com/zelensky-thirrje-kines-na-ndihmoni-ti-japim-fund-luftes/",
-      "description": "Presidenti ukrainas, Volodymyr Zelenskyy, i ka kërkuar Kinës të luajë një rol më të fuqishëm diplomatik në përpjekjet për t’i dhënë fund luftës së Rusisë kundër Ukrainës dhe për ta sjellë Moskën në tryezën e negociatave. Zelenskyy i bëri komentet teksa falënderoi liderët ndërkombëtarë për urimet me ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T09:22:37+00:00",
-      "dateStr": "26 Aug, 09:22",
-      "isNew": true,
-      "id": "24 51787736157"
-    },
-    {
-      "title": "Francë: 12 departamente nën alarm për stuhi",
-      "link": "https://24-ore.com/france-12-departamente-nen-alarm-per-stuhi/",
-      "description": "Shërbimi kombëtar meteorologjik i Francës, Meteo-France, ka vendosur 12 departamente në pjesën perëndimore dhe qendrore të vendit nën alarm portokalli për stuhi gjatë ditës së mërkurë. Sipas Meteo-France, priten breshër, reshje të dendura me akumulime deri në 30 milimetra në orë, erëra me shpejtësi ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T09:22:20+00:00",
-      "dateStr": "26 Aug, 09:22",
-      "isNew": true,
-      "id": "24 61787736140"
-    },
-    {
-      "title": "Rusia përgatit “Çernobilin Fluturues”? Putin lëviz avionët specialë në bazën e testimit të super raketës bërthamore",
-      "link": "https://24-ore.com/rusia-pergatit-cernobilin-fluturues-putin-leviz-avionet-speciale-ne-bazen-e-testimit-te-super-raketes-berthamore/",
-      "description": "Rusia po shfaq shenja se mund të jetë duke u përgatitur për një tjetër test të raketës së saj eksperimentale me energji bërthamore, Burevestnik, një armë që në Perëndim është pagëzuar me emrin shqetësues “Çernobili Fluturues”. Lëvizje të pazakonta të aviacionit rus janë regjistruar ditët e fundit në",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T09:21:59+00:00",
-      "dateStr": "26 Aug, 09:21",
-      "isNew": true,
-      "id": "24 71787736119"
-    },
-    {
-      "title": "Zjarr në një kompleks kimik në Rusi, shtatë të vdekur",
-      "link": "https://24-ore.com/zjarr-ne-nje-kompleks-kimik-ne-rusi-shtate-te-vdekur/",
-      "description": "Të paktën shtatë persona kanë humbur jetën nga zjarri që shpërtheu të martën në Kompleksin Kimik të Gazit Amur, në Lindjen e Largët të Rusisë, pranë kufirit me Kinën. Kompania konfirmoi të mërkurën se mes viktimave janë një shtetas rus dhe gjashtë shtetas kinezë. Gjatë operacioneve të kërkim-shpëtim",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T09:21:41+00:00",
-      "dateStr": "26 Aug, 09:21",
-      "isNew": true,
-      "id": "24 81787736101"
-    },
-    {
-      "title": "Avionët rusë hyjnë në zonën ajrore të Koresë së Jugut",
-      "link": "https://24-ore.com/avionet-ruse-hyjne-ne-zonen-ajrore-te-korese-se-jugut/",
-      "description": "Koreja e Jugut dërgoi avionë luftarakë të martën, pasi avionë ushtarakë rusë hynë në Zonën Koreane të Identifikimit të Mbrojtjes Ajrore (KADIZ), mbi ujërat pranë bregut lindor të vendit. Sipas ushtrisë së Seulit, avionët rusë hynë në KADIZ pranë ishujve Dokdo dhe Ulleung, përpara se të largoheshin n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T09:21:24+00:00",
-      "dateStr": "26 Aug, 09:21",
-      "isNew": true,
-      "id": "24 91787736084"
+      "id": "abc51787736299"
     },
     {
       "title": "Kongresmeni amerikan letër Kushnerit: Ke kohë deri në datën 7 Shtator të sjellësh dokumentet për blerjen e tokës në Zvërnec…",
@@ -122,7 +199,7 @@
       "date": "2026-08-26T09:17:31+00:00",
       "dateStr": "26 Aug, 09:17",
       "isNew": true,
-      "id": "she01787735851"
+      "id": "she11787735851"
     },
     {
       "title": "Breaking News me Fabiola Hoxha, (26/08/2026)",
@@ -133,7 +210,7 @@
       "date": "2026-08-26T09:10:02+00:00",
       "dateStr": "26 Aug, 09:10",
       "isNew": true,
-      "id": "abc01787735402"
+      "id": "abc61787735402"
     },
     {
       "title": "Bizneset e Juglindjes ‘gjunjëzohen’ nga trafiku në autostradën e Elbasanit, bien turistët nga Tirana",
@@ -144,7 +221,7 @@
       "date": "2026-08-26T08:51:20+00:00",
       "dateStr": "26 Aug, 08:51",
       "isNew": true,
-      "id": "she11787734280"
+      "id": "she21787734280"
     },
     {
       "title": "Bizneset e Dolly-t ndajnë homazhe: Ne gjithmonë do të të duam",
@@ -155,7 +232,7 @@
       "date": "2026-08-26T08:49:45+00:00",
       "dateStr": "26 Aug, 08:49",
       "isNew": true,
-      "id": "abc11787734185"
+      "id": "abc71787734185"
     },
     {
       "title": "“Nuk mundesh të shkosh në Kuvend si deputet e më pas si ministër në detyrë”, Tahiri dorëzon kallëzim penal ndaj Qeverisë",
@@ -166,7 +243,7 @@
       "date": "2026-08-26T08:39:20+00:00",
       "dateStr": "26 Aug, 08:39",
       "isNew": true,
-      "id": "abc21787733560"
+      "id": "abc81787733560"
     },
     {
       "title": "Hajrie Taushani dhe Myrvete Dibra, kush janë dy gratë që u kthyen në mesnatë nga Siria. Njëra prej tyre ndërroi mendje 5 vite më parë…",
@@ -177,7 +254,7 @@
       "date": "2026-08-26T08:36:02+00:00",
       "dateStr": "26 Aug, 08:36",
       "isNew": true,
-      "id": "she21787733362"
+      "id": "she31787733362"
     },
     {
       "title": "Shtatë të vrarë në Gaza, sulmi izraelit shkatërron magazinën me ndihma",
@@ -188,7 +265,7 @@
       "date": "2026-08-26T08:31:47+00:00",
       "dateStr": "26 Aug, 08:31",
       "isNew": true,
-      "id": "abc31787733107"
+      "id": "abc91787733107"
     },
     {
       "title": "Tragjedi në Pakistan, zjarri përfshin maternitetin, 14 foshnja humbin jetën",
@@ -199,18 +276,7 @@
       "date": "2026-08-26T08:21:20+00:00",
       "dateStr": "26 Aug, 08:21",
       "isNew": true,
-      "id": "she31787732480"
-    },
-    {
-      "title": "Rasti i parë me Ethet e Nilit në Shqipëri/ ISHP nis hetimin epidemiologjik në Korçë",
-      "link": "https://abcnews.al/rasti-i-pare-me-ethet-e-nilit-ne-shqiperi-ishp-nis-hetimin-epidemiologjik-ne-korce/",
-      "description": "Pas konfirmimit të rastit të parë me Ethet e Nilit në Shqipëri, Instituti i Shëndetit Publik ka nisur hetimin epidemiologjik në qarkun e Korçës. Një ekip specialistësh të ISHP-së nga Tirana ka mbërritur në terren për kryerjen e hetimit entomologjik dhe depistimin në vatër, me qëllim identifikimin e ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T08:16:50+00:00",
-      "dateStr": "26 Aug, 08:16",
-      "isNew": true,
-      "id": "abc41787732210"
+      "id": "she41787732480"
     },
     {
       "title": "Në kërkim për atentatin ndaj Guçit/ Policia i prish festën e ‘baby gender’ Bledar Çunit, i vë prangat në qytetin e Beratit (Detajet)",
@@ -221,29 +287,7 @@
       "date": "2026-08-26T08:10:42+00:00",
       "dateStr": "26 Aug, 08:10",
       "isNew": true,
-      "id": "she41787731842"
-    },
-    {
-      "title": "Me kallashnikov në krah, dalin pamjet e arrestimit të Ylli Zallës/ U mbajt në vëzhgim nga policia dhe dronët ‘Bayraktar’",
-      "link": "https://abcnews.al/me-kallashnikov-ne-krah-dalin-pamjet-e-arrestimit-te-ylli-zalles-u-mbajt-ne-vezhgim-nga-policia-dhe-dronet-bayraktar/",
-      "description": "U pretendua nga avokati i tij se u vetëdorëzua, dalin pamjet si u mbajt në vëzhgim nga policia e Tiranës Ylli Zalla, me dron të teknologjisë së lartë ‘Bayraktar’. Në pamjet e siguruara Zalla shfaqet duke ‘patrulluar’ në zonë me një kallashnikov në krah, armë që i’u sekuestrua bashkë me 3 karikatorë ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T08:09:44+00:00",
-      "dateStr": "26 Aug, 08:09",
-      "isNew": true,
-      "id": "abc51787731784"
-    },
-    {
-      "title": "“Durimit po i vjen fundi”, Haxhiu kritikon Kurtin për bllokimin e institucioneve",
-      "link": "https://abcnews.al/durimit-po-i-vjen-fundi-haxhiu-kritikon-kurtin-per-bllokimin-e-institucioneve/",
-      "description": "Deputetja e Aleancës, Teuta Haxhiu nga hyrja e objektit të Qeverisë së Kosovës i ka bërë thirrje kryeministri në detyrë, Albin Kurti që të marrë përgjegjësitë që i takojnë pas besimit që mori nga qytetarët në zgjedhjet parlamentare të 7 qershorit. Haxhiu tha se situata politike në vend ka krijuar nj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T08:01:05+00:00",
-      "dateStr": "26 Aug, 08:01",
-      "isNew": true,
-      "id": "abc61787731265"
+      "id": "she51787731842"
     },
     {
       "title": "Fatura e ‘kripur’ që la pas ish-zyrtari i akuzuar për korrupsion Taulant Tushe",
@@ -254,29 +298,7 @@
       "date": "2026-08-26T08:00:55+00:00",
       "dateStr": "26 Aug, 08:00",
       "isNew": true,
-      "id": "she51787731255"
-    },
-    {
-      "title": "34 vatra zjarri në 24 orë, 5 ende aktive/ Vijon beteja me flakët në Malin e Dajtit",
-      "link": "https://abcnews.al/34-vatra-zjarri-ne-24-ore-5-ende-aktive-vijon-beteja-me-flaket-ne-malin-e-dajtit/",
-      "description": "Ministria e Mbrojtjes informon se gjatë 24 orëve të fundit, në territorin e vendit janë raportuar 34 vatra zjarri, nga të cilat 5 mbeten aktive dhe 4 janë nën mbikëqyrje. Në operacionet për përballimin e situatës janë angazhuar në total 219 forca operacionale dhe 35 automjete zjarrfikëse. Forcat e A",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T07:54:38+00:00",
-      "dateStr": "26 Aug, 07:54",
-      "isNew": true,
-      "id": "abc71787730878"
-    },
-    {
-      "title": "SHBA pezullon terminet për viza për aplikantët në mbarë botën",
-      "link": "https://abcnews.al/shba-pezullon-terminet-per-viza-per-aplikantet-ne-mbare-boten/",
-      "description": "Administrata e presidentit amerikan, Donald Trump, ka pezulluar terminet për viza për aplikantët në mbarë botën. Vendimi është pjesë e një fushate të vazhdueshme të Qeverisë amerikane për ashpërsimin e politikave të emigracionit gjatë mandatit të dytë të udhëheqësit republikan në Shtëpinë e Bardhë. ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T07:52:36+00:00",
-      "dateStr": "26 Aug, 07:52",
-      "isNew": true,
-      "id": "abc81787730756"
+      "id": "she61787731255"
     },
     {
       "title": "E rëndë në burgun e Fierit, humb jetën në rrethana misterioze i dënuari, ishte transferuar nga 313-ta",
@@ -287,7 +309,7 @@
       "date": "2026-08-26T07:50:51+00:00",
       "dateStr": "26 Aug, 07:50",
       "isNew": true,
-      "id": "she61787730651"
+      "id": "she71787730651"
     },
     {
       "title": "SHBA planifikon revokim masiv të vizave për azilkërkuesit, preken 200 mijë persona",
@@ -298,18 +320,7 @@
       "date": "2026-08-26T07:44:54+00:00",
       "dateStr": "26 Aug, 07:44",
       "isNew": true,
-      "id": "she71787730294"
-    },
-    {
-      "title": "I dënuar nga GJKKO me 10 vjet burg, humb jetën në rrethana të paqarta në burgun e Fierit 49-vjeçari",
-      "link": "https://abcnews.al/i-denuar-nga-gjkko-me-10-vjet-burg-humb-jeten-ne-rrethana-te-paqarta-ne-burgun-e-fierit-49-vjecari/",
-      "description": "Ka humbur jetën në burgun e Fierit në rrethana të paqarta i dënuari Ardjan Malasi. Paraprakisht dyshohet se i dënuari i datëlindjes 1968, ka ndërruar jetë per shkak të hemoragjisë cerebrale ose çarjes së aortës. Megjithate do të jetë ekzaminimi që do të kryhet nga IML ajo që do të përcaktojë shkakun",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T07:40:22+00:00",
-      "dateStr": "26 Aug, 07:40",
-      "isNew": true,
-      "id": "abc91787730022"
+      "id": "she81787730294"
     },
     {
       "title": "Dolly Parton, gruaja që e ktheu varfërinë e maleve të Tennessee-t në një perandori muzikore dhe bamirësie. U rrit në një familje me 12 fëmijë",
@@ -320,18 +331,7 @@
       "date": "2026-08-26T07:31:25+00:00",
       "dateStr": "26 Aug, 07:31",
       "isNew": true,
-      "id": "she81787729485"
-    },
-    {
-      "title": "Pesë shqiptarë riatdhesohen nga kampet në Siri, mes tyre gra dhe fëmijë, nis puna për riintegrimin e tyre",
-      "link": "https://shekulli.com.al/2026/08/26/pese-shqiptare-riatdhesohen-nga-kampet-ne-siri-mes-tyre-gra-dhe-femije-nis-puna-per-riintegrimin-e-tyre/",
-      "description": "TIRANË- Pesë shtetas shqiptarë, mes tyre gra dhe fëmijë, janë riatdhesuar nga Siria në kuadër të një operacioni të zhvilluar këtë të mërkurë. Lajmi është bërë i ditur nga Ministria për Evropën dhe Punët e Jashtme, e cila njofton se operacioni për kthimin vullnetar të tyre është përmbyllur me sukses.",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-26T07:16:34+00:00",
-      "dateStr": "26 Aug, 07:16",
-      "isNew": true,
-      "id": "she91787728594"
+      "id": "she91787729485"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
