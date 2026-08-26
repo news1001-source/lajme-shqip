@@ -1,29 +1,249 @@
 {
-  "lastUpdated": "2026-08-26T07:41:07.188208+00:00",
+  "lastUpdated": "2026-08-26T08:37:04.135726+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Rreth 7 mijë shkelje nga drejtuesit e motoçikletve dhe katërçikleve, MPB me 503 kallëzime penale",
-      "link": "https://24-ore.com/rreth-7-mije-shkelje-nga-drejtuesit-e-motocikletve-dhe-katercikleve-mpb-me-503-kallezime-penale/",
-      "description": "MPB Maqedoni njofton se në periudhën nga 18.05.2026 deri më 31.07.2026, Sektori për Çështjet e Trafikut pranë Ministrisë së Punëve të Brendshme zhvilloi aksione kontrolli të përforcuara në të gjithë territorin e vendit, të fokusuara te drejtuesit e biçikletave me motor ndihmës, mopedëve, motoçikleta",
-      "source": "24 ORE",
+      "title": "Hajrie Taushani dhe Myrvete Dibra, kush janë dy gratë që u kthyen në mesnatë nga Siria. Njëra prej tyre ndërroi mendje 5 vite më parë…",
+      "link": "https://shekulli.com.al/2026/08/26/hajrie-taushani-dhe-myrvete-dibra-kush-jane-dy-grate-qe-u-kthyen-ne-mesnate-nga-siria-njera-prej-tyre-nderroi-mendje-5-vite-me-pare/",
+      "description": "TIRANË- 2 gra dhe tre fëmijë, janë riatdhesuar nga Siria mesnatën e sotme, ndërsa tashmë do të nisë puna për riintegrimin e tyre në Shqipëri. SHEKULLI mëson se dy gratë e kthyera janë Myrvete Dibra, ish-bashkëshortja e luftëtarit të ISIS-it, Hamid Beharovic, si dhe 79-vjeçarja Hajrije Taushani, e ci",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-08-26T07:36:16+00:00",
-      "dateStr": "26 Aug, 07:36",
+      "date": "2026-08-26T08:36:02+00:00",
+      "dateStr": "26 Aug, 08:36",
       "isNew": true,
-      "id": "24 01787729776"
+      "id": "she01787733362"
     },
     {
-      "title": "Yamal nuk buzëqesh më, Flick është “fajtori”",
-      "link": "https://24-ore.com/yamal-nuk-buzeqesh-me-flick-eshte-fajtori/",
-      "description": "Lamine Yamal qëndroi në fushë për 65’ në takimin e radhës së Barçës dhe në momentin e zëvendësimit u pa qartë se lojtari nuk ishte aspak i qetë. Sipas medieve spanjolle motivi pas humorit të keq të talentit 19-vjeçar nuk ka lidhje me largimin e tij nga fusha. Hansi Flick ka vendosur për të larguar [",
+      "title": "BDI: Tenderi prej 42 mijë euro në Spitalin “Bardovci” ka përfunduar te kushëriri i drejtorit",
+      "link": "https://24-ore.com/bdi-tenderi-prej-42-mije-euro-ne-spitalin-bardovci-ka-perfunduar-te-kusheriri-i-drejtorit/",
+      "description": "Nga BDI thonë se edhe një skandal i ri po del në sipërfaqe nën pushtetin e VLEN-it. Sipas tyre, tenderi në Spitalin Psikiatrik “Bardovci”, me vlerë deri në 42 mijë euro në vit, ka përfunduar te kompania në pronësi të kushëririt të drejtorit të spitalit. &#8220;Sipas informacioneve të publikuara, pro",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-26T07:35:57+00:00",
-      "dateStr": "26 Aug, 07:35",
+      "date": "2026-08-26T08:35:51+00:00",
+      "dateStr": "26 Aug, 08:35",
       "isNew": true,
-      "id": "24 11787729757"
+      "id": "24 01787733351"
+    },
+    {
+      "title": "EFC arrin kuotën e 850 klubeve anëtare, së fundi i bashkohet edhe Kastrioti",
+      "link": "https://24-ore.com/efc-arrin-kuoten-e-850-klubeve-anetare-se-fundi-i-bashkohet-edhe-kastrioti/",
+      "description": "European Football Clubs (EFC) ka njoftuar me krenari se ka arritur në kuotën e 850 klubeve anëtare. Sipas njoftimit të kësaj organizate, anëtarësimi së fundi i Real Racing Club (Spanjë), KS Kastrioti nga Shqipëria, FC Groningen (Holandë), FC Kolkheti Khobi (Gjeorgji) dhe Hull City AFC (Angli), përfa",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T08:35:31+00:00",
+      "dateStr": "26 Aug, 08:35",
+      "isNew": true,
+      "id": "24 11787733331"
+    },
+    {
+      "title": "Shtatë të vrarë në Gaza, sulmi izraelit shkatërron magazinën me ndihma",
+      "link": "https://abcnews.al/shtate-te-vrare-ne-gaza-sulmi-izraelit-shkaterron-magazinen-me-ndihma/",
+      "description": "Shtatë palestinezë janë vrarë në sulmet izraelite në Gaza, ndërsa vazhdojnë shkeljet e armëpushimit të vendosur tetorin e kaluar, sipas burimeve mjekësore lokale. Tre persona u vranë dhe të tjerë u plagosën nga një sulm ndaj një banese në Beit Lahiya, pranë spitalit Kamal Aduan. Më herët, një sulm m",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T08:31:47+00:00",
+      "dateStr": "26 Aug, 08:31",
+      "isNew": true,
+      "id": "abc01787733107"
+    },
+    {
+      "title": "METEO – Franca vendos 12 departamente në alarm portokalli për stuhi",
+      "link": "https://24-ore.com/meteo-franca-vendos-12-departamente-ne-alarm-portokalli-per-stuhi/",
+      "description": "PARIS, 26 gusht /ATSH -AA/ – Shërbimi kombëtar i motit i Francës vendosi 12 departamente perëndimore dhe qendrore nën një alarm portokalli për stuhi për ditën e sotme. “Ekziston rreziku i breshrit, shiut të dendur me akumulime deri në 30 milimetra në orë, erërash të rrëmbyeshme prej 80 deri në 100 k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T08:31:15+00:00",
+      "dateStr": "26 Aug, 08:31",
+      "isNew": true,
+      "id": "24 21787733075"
+    },
+    {
+      "title": "BDI: Tender prej 42 mijë eurove tek kushëriri i drejtorit të “Bardovcit”",
+      "link": "https://24-ore.com/bdi-tender-prej-42-mije-eurove-tek-kusheriri-i-drejtorit-te-bardovcit/",
+      "description": "Edhe një skandal i ri po del në sipërfaqe nën pushtetin e VLEN-it: tenderi në Spitalin Psikiatrik “Bardovci”, me vlerë deri në 42 mijë euro në vit, ka përfunduar te kompania në pronësi të kushëririt të drejtorit të spitalit, theksohet në kumtesën e BDI-së, të cilën MIA e transmeton integrale.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T08:30:20+00:00",
+      "dateStr": "26 Aug, 08:30",
+      "isNew": true,
+      "id": "24 31787733020"
+    },
+    {
+      "title": "Ndërron jetë i burgosuri në Fier, pjesë e grupit që pastronte paratë e kokainës në Belgjikë",
+      "link": "https://24-ore.com/nderron-jete-i-burgosuri-ne-fier-pjese-e-grupit-qe-pastronte-parate-e-kokaines-ne-belgjike/",
+      "description": "Një i burgosur ka ndërruar jetë sot në 26 gusht në burgun e Fierit. I burgosuri që ka ndërruar jetë është Ardian Malasi. Ai ishte dënuar me tetë vite heqje lirie. Dyshohet se Malasi ka pësuar hemoragji celebrale. Malasi, pjesë e grupit që pastroi paratë e kokainës në Belgjikë Ardian Malasi, që ndërr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T08:22:13+00:00",
+      "dateStr": "26 Aug, 08:22",
+      "isNew": true,
+      "id": "24 41787732533"
+    },
+    {
+      "title": "Tragjedi në Pakistan, zjarri përfshin maternitetin, 14 foshnja humbin jetën",
+      "link": "https://shekulli.com.al/2026/08/26/tragjedi-ne-pakistan-zjarri-perfshin-maternitetin-14-foshnja-humbin-jeten/",
+      "description": "PAKISTAN- Një tragjedi e rëndë ka tronditur kryeqytetin e Pakistanit, Islamabad, ku një zjarr i përmasave të mëdha përfshiu repartin e maternitetit në spitalin shtetëror Pakistan Institute of Medical Sciences (PIMS). Të paktën 14 foshnja të porsalindura kanë humbur jetën nga zjarri, ndërsa një tjetë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-26T08:21:20+00:00",
+      "dateStr": "26 Aug, 08:21",
+      "isNew": true,
+      "id": "she11787732480"
+    },
+    {
+      "title": "Deda: Teksti “Top Secret 2” nuk është shkruar nga dikush që serbishten e ka gjuhë amtare, autori duhet të zbulohet",
+      "link": "https://24-ore.com/deda-teksti-top-secret-2-nuk-eshte-shkruar-nga-dikush-qe-serbishten-e-ka-gjuhe-amtare-autori-duhet-te-zbulohet/",
+      "description": "Ish-deputeti, Ilir Deda ka reaguar sot lidhur me një nga materialet e gjetura në telefonin e Fatmir Shehollit, të akuzuar për spiunazh dhe shantazh. Në dokumentin e gjetur në telefonin e Shehollit, e që është e përfshirë në aktakuzë është një fotografi e gjetur gjatë analizimit të 20,914 imazheve në",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T08:19:54+00:00",
+      "dateStr": "26 Aug, 08:19",
+      "isNew": true,
+      "id": "24 51787732394"
+    },
+    {
+      "title": "Rasti i parë me Ethet e Nilit në Shqipëri/ ISHP nis hetimin epidemiologjik në Korçë",
+      "link": "https://abcnews.al/rasti-i-pare-me-ethet-e-nilit-ne-shqiperi-ishp-nis-hetimin-epidemiologjik-ne-korce/",
+      "description": "Pas konfirmimit të rastit të parë me Ethet e Nilit në Shqipëri, Instituti i Shëndetit Publik ka nisur hetimin epidemiologjik në qarkun e Korçës. Një ekip specialistësh të ISHP-së nga Tirana ka mbërritur në terren për kryerjen e hetimit entomologjik dhe depistimin në vatër, me qëllim identifikimin e ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T08:16:50+00:00",
+      "dateStr": "26 Aug, 08:16",
+      "isNew": true,
+      "id": "abc11787732210"
+    },
+    {
+      "title": "Viti i ri shkollor në Maqedoni do të fillojë me 300 paralele më pak",
+      "link": "https://24-ore.com/viti-i-ri-shkollor-ne-maqedoni-do-te-filloje-me-300-paralele-me-pak/",
+      "description": "Viti i ri shkollor 2026/2027 do të fillojë me një numër dukshëm më të vogël klasash në arsimin fillor dhe të mesëm. Sipas të dhënave të publikuara nga ministrja e Arsimit dhe Shkencës Vesna Janevska, këtë vit do të ketë rreth 200 klasa më pak në shkollat fillore, ndërsa në arsimin e mesëm numri do [",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T08:10:50+00:00",
+      "dateStr": "26 Aug, 08:10",
+      "isNew": true,
+      "id": "24 61787731850"
+    },
+    {
+      "title": "Në kërkim për atentatin ndaj Guçit/ Policia i prish festën e ‘baby gender’ Bledar Çunit, i vë prangat në qytetin e Beratit (Detajet)",
+      "link": "https://shekulli.com.al/2026/08/26/ne-kerkim-per-atentatin-ndaj-gucit-policia-i-prish-festen-e-baby-gender-bledar-cunit-i-ve-prangat-ne-qytetin-e-beratit-detajet/",
+      "description": "Forcat e Ndërhyrjes së Shpejtë të Fierit kanë arrestuar mbrëmjen e djeshme në qytetin e Beratit, Bledar Çunin, person ky i shpallur në kërkim për “Vrasje të mbetur në tentativë” ndaj Fabion Kuçit, që njihet si personazh i njohur i Tik-Tok-ut me emrin “Guçi”. 35-vjeçari Çuni rezulton i shpallur në kë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-26T08:10:42+00:00",
+      "dateStr": "26 Aug, 08:10",
+      "isNew": true,
+      "id": "she21787731842"
+    },
+    {
+      "title": "Me kallashnikov në krah, dalin pamjet e arrestimit të Ylli Zallës/ U mbajt në vëzhgim nga policia dhe dronët ‘Bayraktar’",
+      "link": "https://abcnews.al/me-kallashnikov-ne-krah-dalin-pamjet-e-arrestimit-te-ylli-zalles-u-mbajt-ne-vezhgim-nga-policia-dhe-dronet-bayraktar/",
+      "description": "U pretendua nga avokati i tij se u vetëdorëzua, dalin pamjet si u mbajt në vëzhgim nga policia e Tiranës Ylli Zalla, me dron të teknologjisë së lartë ‘Bayraktar’. Në pamjet e siguruara Zalla shfaqet duke ‘patrulluar’ në zonë me një kallashnikov në krah, armë që i’u sekuestrua bashkë me 3 karikatorë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T08:09:44+00:00",
+      "dateStr": "26 Aug, 08:09",
+      "isNew": true,
+      "id": "abc21787731784"
+    },
+    {
+      "title": "Lillestrom-Egnatia: Dy mungesa me peshë për Deden, Jago dhe Haime jashtë liste",
+      "link": "https://24-ore.com/lillestrom-egnatia-dy-mungesa-me-peshe-per-deden-jago-dhe-haime-jashte-liste/",
+      "description": "Kampionët në fuqi të Shqipërisë luajnë te enjten ndeshjen e kthimit të Play-Off-it të Europa League kundër Lillestrom. Ndeshja luhet në Norvegji, duke nisur nga ora 19:00 dhe transmetohet në RTSH. Egnatia synon kualifikimin dhe luan shanset e saj. Gjithçka është e hapur pas barazimit 0-0 një javë më",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T08:06:11+00:00",
+      "dateStr": "26 Aug, 08:06",
+      "isNew": true,
+      "id": "24 71787731571"
+    },
+    {
+      "title": "Fatura e ‘kripur’ që la pas ish-zyrtari i akuzuar për korrupsion Taulant Tushe",
+      "link": "https://shekulli.com.al/2026/08/26/fatura-e-kripur-qe-la-pas-ish-zyrtari-i-akuzuar-per-korrupsion-taulant-tushe/",
+      "description": "Para se emri i tij të bëhej i njohur në disa prej dosjeve më të bujshme kundër korrupsionit dhe shpërdorimit të detyrës në Shqipëri, nga afera e inceneratorëve te skandali i tenderave i njohur si “5D”, Taulant Tusha kishte lënë një tjetër gjurmë të mbresëlënëse në zyrat e shtetit. Vetëm se këtë herë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-26T08:00:55+00:00",
+      "dateStr": "26 Aug, 08:00",
+      "isNew": true,
+      "id": "she31787731255"
+    },
+    {
+      "title": "“Nuk mundesh të shkosh në Kuvend si deputet e mandej si ministër në detyrë”, Tahiri dorëzon kallëzim penal në Prokurorinë Speciale ndaj Qeverisë në detyrë",
+      "link": "https://24-ore.com/nuk-mundesh-te-shkosh-ne-kuvend-si-deputet-e-mandej-si-minister-ne-detyre-tahiri-dorezon-kallezim-penal-ne-prokurorine-speciale-ndaj-qeverise-ne-detyre/",
+      "description": "Kryetari i Aleancës, Besnik Tahiri ka dorëzuar sot në Prokurorinë Speciale të Kosovës një kallëzim penal ndaj ushtruesve të detyrës në Qeverinë e Kosovës, duke pretenduar se disa vendime të marra gjatë muajit gusht janë në kundërshtim me ligjin. Pas dorëzimit të kallëzimit, Tahiri deklaroi se Aleanc",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T07:55:40+00:00",
+      "dateStr": "26 Aug, 07:55",
+      "isNew": true,
+      "id": "24 81787730940"
+    },
+    {
+      "title": "34 vatra zjarri në 24 orë, 5 ende aktive/ Vijon beteja me flakët në Malin e Dajtit",
+      "link": "https://abcnews.al/34-vatra-zjarri-ne-24-ore-5-ende-aktive-vijon-beteja-me-flaket-ne-malin-e-dajtit/",
+      "description": "Ministria e Mbrojtjes informon se gjatë 24 orëve të fundit, në territorin e vendit janë raportuar 34 vatra zjarri, nga të cilat 5 mbeten aktive dhe 4 janë nën mbikëqyrje. Në operacionet për përballimin e situatës janë angazhuar në total 219 forca operacionale dhe 35 automjete zjarrfikëse. Forcat e A",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T07:54:38+00:00",
+      "dateStr": "26 Aug, 07:54",
+      "isNew": true,
+      "id": "abc31787730878"
+    },
+    {
+      "title": "SHBA pezullon terminet për viza për aplikantët në mbarë botën",
+      "link": "https://abcnews.al/shba-pezullon-terminet-per-viza-per-aplikantet-ne-mbare-boten/",
+      "description": "Administrata e presidentit amerikan, Donald Trump, ka pezulluar terminet për viza për aplikantët në mbarë botën. Vendimi është pjesë e një fushate të vazhdueshme të Qeverisë amerikane për ashpërsimin e politikave të emigracionit gjatë mandatit të dytë të udhëheqësit republikan në Shtëpinë e Bardhë. ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T07:52:36+00:00",
+      "dateStr": "26 Aug, 07:52",
+      "isNew": true,
+      "id": "abc41787730756"
+    },
+    {
+      "title": "E rëndë në burgun e Fierit, humb jetën në rrethana misterioze i dënuari, ishte transferuar nga 313-ta",
+      "link": "https://shekulli.com.al/2026/08/26/e-rende-ne-burgun-e-fierit-humb-jeten-ne-rrethana-misterioze-i-denuari-ishte-transferuar-nga-313-ta/",
+      "description": "Ardjan Malasi, 49-vjeç, që vuante dënimin në burgun e Fierit ka humbur jetën në rrethana ende të paqarta. Burime pranë IEVP Fier thonë se Malasi kishte kërkuar ndihmën mjekësore teksa ndodhej brenda qelisë, dhe ka humbur ndjenjat pasi u transferua në infermieri. Menjëherë është bërë transportimi i t",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-26T07:50:51+00:00",
+      "dateStr": "26 Aug, 07:50",
+      "isNew": true,
+      "id": "she41787730651"
+    },
+    {
+      "title": "PAKISTAN – Të paktën 15 foshnja të porsalindura humbin jetën nga zjarri në një spital",
+      "link": "https://24-ore.com/pakistan-te-pakten-15-foshnja-te-porsalindura-humbin-jeten-nga-zjarri-ne-nje-spital/",
+      "description": "ISLAMABAD, 26 gusht /ATSH-DPA/- Të paktën 15 foshnja të porsalindura kanë humbur jetën nga një zjarr, që përfshiu repartin e maternitetit në kryeqytetin e Pakistanit, Islamabad, njoftuan sot autoritetet lokale të emergjencave. Zjarri dyshohet se u shkaktua nga një defekt në një pajisje të ajrit të k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T07:46:08+00:00",
+      "dateStr": "26 Aug, 07:46",
+      "isNew": true,
+      "id": "24 91787730368"
+    },
+    {
+      "title": "SHBA planifikon revokim masiv të vizave për azilkërkuesit, preken 200 mijë persona",
+      "link": "https://shekulli.com.al/2026/08/26/shba-planifikon-revokim-masiv-te-vizave-per-azilkerkuesit-preken-200-mije-persona/",
+      "description": "SHBA- Administrata e Presidentit të Shteteve të Bashkuara,Donald Trump, po përgatitet të revokojë vizat për biznes dhe turizëm të shtetasve të huaj që kanë aplikuar ose që aktualisht po kërkojnë azil në SHBA, bëri të ditur Departamenti i Shtetit. Ende nuk është bërë e ditur se sa viza do të preken, ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-26T07:44:54+00:00",
+      "dateStr": "26 Aug, 07:44",
+      "isNew": true,
+      "id": "she51787730294"
+    },
+    {
+      "title": "I dënuar nga GJKKO me 10 vjet burg, humb jetën në rrethana të paqarta në burgun e Fierit 49-vjeçari",
+      "link": "https://abcnews.al/i-denuar-nga-gjkko-me-10-vjet-burg-humb-jeten-ne-rrethana-te-paqarta-ne-burgun-e-fierit-49-vjecari/",
+      "description": "Ka humbur jetën në burgun e Fierit në rrethana të paqarta i dënuari Ardjan Malasi. Paraprakisht dyshohet se i dënuari i datëlindjes 1968, ka ndërruar jetë per shkak të hemoragjisë cerebrale ose çarjes së aortës. Megjithate do të jetë ekzaminimi që do të kryhet nga IML ajo që do të përcaktojë shkakun",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-26T07:40:22+00:00",
+      "dateStr": "26 Aug, 07:40",
+      "isNew": true,
+      "id": "abc51787730022"
     },
     {
       "title": "26 Gusht 2026, “Shtypi i ditës” – Mirëmëngjes me Bashkim Hoxhën",
@@ -34,7 +254,7 @@
       "date": "2026-08-26T07:33:55+00:00",
       "dateStr": "26 Aug, 07:33",
       "isNew": true,
-      "id": "abc01787729635"
+      "id": "abc61787729635"
     },
     {
       "title": "26 gusht 2026, “Telefonatat e Teleshikuesve” – Mirëmëngjes me Bashkim Hoxhën",
@@ -45,29 +265,7 @@
       "date": "2026-08-26T07:32:29+00:00",
       "dateStr": "26 Aug, 07:32",
       "isNew": true,
-      "id": "abc11787729549"
-    },
-    {
-      "title": "Fatura e ‘kripur’ që la pas ish-zyrtari i akuzuar për korrupsion",
-      "link": "https://24-ore.com/fatura-e-kripur-qe-la-pas-ish-zyrtari-i-akuzuar-per-korrupsion/",
-      "description": "Taulant Tusha Nga: Vladimir Karaj Para se emri i tij të bëhej i njohur në disa prej dosjeve më të bujshme kundër korrupsionit dhe shpërdorimit të detyrës në Shqipëri, nga afera e inceneratorëve te skandali i tenderave i njohur si “5D”, Taulant Tusha kishte lënë një tjetër gjurmë të mbresëlënëse në z",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T07:32:28+00:00",
-      "dateStr": "26 Aug, 07:32",
-      "isNew": true,
-      "id": "24 21787729548"
-    },
-    {
-      "title": "Brazili gjobit pronarin e TikTok-ut, “ByteDance” për keqpërdorim të të dhënave të fëmijëve",
-      "link": "https://24-ore.com/brazili-gjobit-pronarin-e-tiktok-ut-bytedance-per-keqperdorim-te-te-dhenave-te-femijeve/",
-      "description": "RIO DE ZHANEIRO, 26 gusht /ATSH-DPA/- Autoriteti brazilian për mbrojtjen e të dhënave personale, ANPD, ka gjobitur me rreth 29,8 milionë dollarë kompaninë “ByteDance”, pronaren e TikTok-ut, për mbledhjen dhe përdorimin e të dhënave personale të fëmijëve dhe adoleshentëve pa bazë të mjaftueshme ligjo",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T07:31:40+00:00",
-      "dateStr": "26 Aug, 07:31",
-      "isNew": true,
-      "id": "24 31787729500"
+      "id": "abc71787729549"
     },
     {
       "title": "Dolly Parton, gruaja që e ktheu varfërinë e maleve të Tennessee-t në një perandori muzikore dhe bamirësie. U rrit në një familje me 12 fëmijë",
@@ -78,18 +276,7 @@
       "date": "2026-08-26T07:31:25+00:00",
       "dateStr": "26 Aug, 07:31",
       "isNew": true,
-      "id": "she01787729485"
-    },
-    {
-      "title": "FOKUS – SHBA përgatit stërvitje ushtarake trepalëshe me Korenë e Jugut dhe Japoninë",
-      "link": "https://24-ore.com/fokus-shba-pergatit-stervitje-ushtarake-trepaleshe-me-korene-e-jugut-dhe-japonine/",
-      "description": "UASHINGTON, 26 gusht /ATSH -AA/ SHBA-ja po përgatitet të zhvillojë një stërvitje ushtarake trepalëshe me Korenë e Jugut dhe Japoninë, njoftoi Komanda e SHBA-së për Paqësorin. Stërvitja mbetet në plan pavarësisht reduktimit të fundit të një stërvitjeje të veçantë të përbashkët mes SHBA-së dhe Koresë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T07:31:16+00:00",
-      "dateStr": "26 Aug, 07:31",
-      "isNew": true,
-      "id": "24 41787729476"
+      "id": "she61787729485"
     },
     {
       "title": "Riatdhesohen nga kampet e Sirisë 5 shqiptarë, Lamallari: Vijojmë punën për kthimin e të gjithë shtetasve shqiptarë",
@@ -100,18 +287,7 @@
       "date": "2026-08-26T07:30:54+00:00",
       "dateStr": "26 Aug, 07:30",
       "isNew": true,
-      "id": "abc21787729454"
-    },
-    {
-      "title": "Juventusi çon Miretti-n në Turqi dhe synon goditjen Kessie, në lojë hyn edhe Roma",
-      "link": "https://24-ore.com/juventusi-con-miretti-n-ne-turqi-dhe-synon-goditjen-kessie-ne-loje-hyn-edhe-roma/",
-      "description": "Janë ditë, ose ndoshta orë vendimtare për kalimin e Frank Kessie te Juventusi. Në pritje të një numri 9 për trajnerin Spalletti, klubi bardhezi ka bërë hapa përpara për të forcuar mesfushën. Pas largimit të Arthur, që ndërpreu kontratën, ikën edhe Fabio Miretti, i cili do të luajë për Beshiktash në ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T07:26:34+00:00",
-      "dateStr": "26 Aug, 07:26",
-      "isNew": true,
-      "id": "24 51787729194"
+      "id": "abc81787729454"
     },
     {
       "title": "Irani dhe Omani diskutojnë korridorin e përkohshëm në Ngushticën e Hormuzit",
@@ -122,7 +298,7 @@
       "date": "2026-08-26T07:21:38+00:00",
       "dateStr": "26 Aug, 07:21",
       "isNew": true,
-      "id": "abc31787728898"
+      "id": "abc91787728898"
     },
     {
       "title": "Pesë shqiptarë riatdhesohen nga kampet në Siri, mes tyre gra dhe fëmijë, nis puna për riintegrimin e tyre",
@@ -133,18 +309,7 @@
       "date": "2026-08-26T07:16:34+00:00",
       "dateStr": "26 Aug, 07:16",
       "isNew": true,
-      "id": "she11787728594"
-    },
-    {
-      "title": "Ora e Fundit me Emilian Islamin, (25/08/2026)",
-      "link": "https://abcnews.al/ora-e-fundit-me-emilian-islamin-25-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T07:11:54+00:00",
-      "dateStr": "26 Aug, 07:11",
-      "isNew": true,
-      "id": "abc41787728314"
+      "id": "she71787728594"
     },
     {
       "title": "Lista/ 50% të grupeve ushqimore i paguajmë më shtrenjtë se Europa, rekord dhe në rajon",
@@ -155,106 +320,7 @@
       "date": "2026-08-26T07:11:47+00:00",
       "dateStr": "26 Aug, 07:11",
       "isNew": true,
-      "id": "she21787728307"
-    },
-    {
-      "title": "Tre vatra zjarri aktive, katër janë nën kontroll",
-      "link": "https://24-ore.com/tre-vatra-zjarri-aktive-kater-jane-nen-kontroll/",
-      "description": "Në 24 orët e fundit, janë regjistruar gjithsej 31 zjarre në ambiente të hapura, nga të cilat tre janë aktive, katër janë nën kontroll dhe 24 janë shuar, njoftoi Qendra për Menaxhim me Kriza. Zjarre aktive ka në komunat Studeniçan dhe Zelenikovë &#8211; pranë fshatrave Moranë, Vërtekicë dhe Ramni Gab",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T07:11:33+00:00",
-      "dateStr": "26 Aug, 07:11",
-      "isNew": true,
-      "id": "24 61787728293"
-    },
-    {
-      "title": "Shuhet zjarri në Shashicë, 4 punonjës refuzuan evakuimin për të monitoruar zonën",
-      "link": "https://24-ore.com/shuhet-zjarri-ne-shashice-4-punonjes-refuzuan-evakuimin-per-te-monitoruar-zonen/",
-      "description": "Zjarri që përfshiu mbrëmjen e së hënës malin e Shashicës në Vlorë është shuar plotësisht gjatë natës pas një operacioni të vështirë të forcave zjarrfikëse. Flakët morën përmasa të konsiderueshme, të favorizuara nga era dhe terreni i vështirë malor. Mëngjesin e sotëm situata paraqitet e qetë, pa rrez",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T07:07:42+00:00",
-      "dateStr": "26 Aug, 07:07",
-      "isNew": true,
-      "id": "24 71787728062"
-    },
-    {
-      "title": "Kelmendi: Me Jusuf Gërvallën bashkëpunuam deri në ditët e fundit para vrasjes",
-      "link": "https://24-ore.com/kelmendi-me-jusuf-gervallen-bashkepunuam-deri-ne-ditet-e-fundit-para-vrasjes/",
-      "description": "Veprimtari Ibrahim Kelmendi ka rrëfyer detaje nga njohja dhe bashkëpunimi i tij me veprimtarin Jusuf Gërvalla, gjatë një interviste ekskluzive për emisionin “Debat Plus” në kuadër të ciklit “Dosjet”. Kelmendi tregoi se ishte njoftuar për ardhjen e Jusuf Gërvallës në Gjermani nga Bardhoshi, i cili e ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T07:06:05+00:00",
-      "dateStr": "26 Aug, 07:06",
-      "isNew": true,
-      "id": "24 81787727965"
-    },
-    {
-      "title": "Riatdhesimi nga Siria/ Kthehen në Shqipëri 5 shtetas, gra dhe fëmijë",
-      "link": "https://abcnews.al/perfundon-riatdhesimi-nga-siria-kthehen-ne-shqiperi-5-shtetas-gra-dhe-femije/",
-      "description": "Ministria për Evropën dhe Punët e Jashtme njofton se ka përfunduar operacioni për riatdhesimin vullnetar nga Siria të pesë shtetasve shqiptarë, mes tyre gra dhe fëmijë. Operacioni u finalizua më 26 gusht 2026, pas një procesi të gjatë dhe të kujdesshëm, që kërkoi bashkëpunim dhe koordinim të vazhdue",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T07:02:01+00:00",
-      "dateStr": "26 Aug, 07:02",
-      "isNew": true,
-      "id": "abc51787727721"
-    },
-    {
-      "title": "Komuna e Pehçevës hedh poshtë iniciativën për ndërtimin e një qendre të të dhënave",
-      "link": "https://24-ore.com/komuna-e-pehceves-hedh-poshte-iniciativen-per-ndertimin-e-nje-qendre-te-te-dhenave/",
-      "description": "Komuna e Pehçevës ka hedhur poshtë iniciativën për ndërtimin e një qendre të dhënash në fshatin Pançarevë. Nëntë këshilltarët që përbëjnë Këshillin Komunal votuan kundër, duke e refuzuar kështu këtë iniciativë unanimisht. Iniciativa që u vu në rend dite të seancës së sotme, më parë shkaktoi reagime ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T06:56:06+00:00",
-      "dateStr": "26 Aug, 06:56",
-      "isNew": true,
-      "id": "24 91787727366"
-    },
-    {
-      "title": "Tragjedi në Pakistan/ Vdesin 14 foshnja në maternitetin e Islamabadit",
-      "link": "https://abcnews.al/tragjedi-ra-zjarr-ne-spital-vdesin-14-foshnja-ne-maternitetin-e-islamabadit/",
-      "description": "Të paktën 14 foshnja të porsalindura kanë humbur jetën si pasojë e një zjarri që përfshiu repartin e neonatologjisë në një spital shtetëror në Islamabad, Pakistan. Kryeministri Shehbaz Sharif shprehu ngushëllimet për familjet e viktimave dhe urdhëroi nisjen e menjëhershme të një hetimi për zbardhjen",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T06:52:41+00:00",
-      "dateStr": "26 Aug, 06:52",
-      "isNew": true,
-      "id": "abc61787727161"
-    },
-    {
-      "title": "SHBA planifikon revokim masiv të vizave për azilkërkuesit",
-      "link": "https://abcnews.al/shba-planifikon-revokim-masiv-te-vizave-per-azilkerkuesit/",
-      "description": "Administrata e Presidentit të Shteteve të Bashkuara, Donald Trump, po përgatitet të revokojë vizat për biznes dhe turizëm të shtetasve të huaj që kanë aplikuar ose që aktualisht po kërkojnë azil në SHBA, bëri të ditur Departamenti i Shtetit. Ende nuk është bërë e ditur se sa viza do të preken, por s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T06:37:36+00:00",
-      "dateStr": "26 Aug, 06:37",
-      "isNew": true,
-      "id": "abc71787726256"
-    },
-    {
-      "title": "Avioni që dyshohet se transportonte drejtorin e CIA-s largohet nga Moska, çfarë thonë burimet ndërkombëtare",
-      "link": "https://abcnews.al/avioni-qe-dyshohet-se-transportonte-drejtorin-e-cia-s-largohet-nga-moska-cfare-thone-burimet-nderkombetare/",
-      "description": "Një avion që besohet se transportonte drejtorin e CIA-s, John Ratcliffe, është larguar nga Moska, sipas të dhënave të publikuara nga platforma e gjurmimit të fluturimeve Flightradar24. As Shtetet e Bashkuara dhe as Rusia nuk kanë komentuar mbi fluturimin dhe nuk kanë konfirmuar nëse Ratcliffe ndodhe",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T06:12:00+00:00",
-      "dateStr": "26 Aug, 06:12",
-      "isNew": true,
-      "id": "abc81787724720"
-    },
-    {
-      "title": "Zjarr i përmasave të mëdha në Malin e Shashicës, evakuohen 4 punonjës të gurores",
-      "link": "https://abcnews.al/zjarr-i-permasave-te-medha-ne-malin-e-shashices-evakuohen-4-punonjes-te-gurores/",
-      "description": "Një zjarr i përmasave të konsiderueshme ka përfshirë gjatë natës zonën e Shashicës, duke djegur një sipërfaqe të konsiderueshme me bimësi. Situata gjatë mbrëmjes së djeshme ka qenë e vështirë për shkak të përhapjes së flakëve, ndërsa ekipet në terren kanë punuar për izolimin e vatrave të zjarrit. Pë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-26T05:58:37+00:00",
-      "dateStr": "26 Aug, 05:58",
-      "isNew": true,
-      "id": "abc91787723917"
+      "id": "she81787728307"
     },
     {
       "title": "BIA serbe donte ta rekrutonte si spiun/ Çfarë ndodhi me Albin Kurtin në burgjet serbe në vitin 2001?",
@@ -265,73 +331,7 @@
       "date": "2026-08-25T20:53:10+00:00",
       "dateStr": "25 Aug, 20:53",
       "isNew": true,
-      "id": "she31787691190"
-    },
-    {
-      "title": "Erdogan gati për luftë? Presidenti turk para ushtarëve “selxhukë”: Shekulli i Turqisë së madhe ka filluar",
-      "link": "https://shekulli.com.al/2026/08/25/erdogan-gati-per-lufte-presidenti-turk-para-ushtareve-selxhuke-shekulli-i-turqise-se-madhe-ka-filluar/",
-      "description": "Presidenti Rexhep Tajip Erdogan ka reaguar sërish me një deklaratë të fortë ndaj Izraelit, teksa tha se për Turqinë po fillon një epokë e re. Ai e cilësoi Izralin si autorë të gjneocidit. “Tregtarët e gjakut, oportunistët që përfitojnë nga terrorizmi, njerëzit gjenocidalë që duan ta zhytin rajonin t",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-25T20:36:56+00:00",
-      "dateStr": "25 Aug, 20:36",
-      "isNew": true,
-      "id": "she41787690216"
-    },
-    {
-      "title": "“Babai ishte nga Kukësi”, ish-kongresmeni amerikan: Kam një jetë që flas për shqiptarët, kur dëgjova “gur-gur bëhet mur”, kuptova shqipen",
-      "link": "https://shekulli.com.al/2026/08/25/babai-ishte-nga-kukesi-ish-kongresmeni-amerikan-kam-nje-jete-qe-flas-per-shqiptaret-kur-degjova-gur-gur-behet-mur-kuptova-shqipen/",
-      "description": "Ish-kongresmeni amerikan me origjinë arbëreshe, Joe DioGuardi, ka folur për lidhjen e tij me shqiptarët dhe për dekadat e angazhimit në Shtetet e Bashkuara të Amerikës për çështjen shqiptare dhe atë të Kosovës. Në 37-vjetorin e Lidhjes Qytetare Shqiptaro-Amerikane dhe Fondacionit Qytetar Shqiptaro-A",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-25T20:33:27+00:00",
-      "dateStr": "25 Aug, 20:33",
-      "isNew": true,
-      "id": "she51787690007"
-    },
-    {
-      "title": "Zjarri përfshin malin e Shashicës në Vlorë, flakët përhapen me shpejtësi",
-      "link": "https://shekulli.com.al/2026/08/25/zjarri-perfshin-malin-e-shashices-ne-vlore-flaket-perhapen-me-shpejtesi/",
-      "description": "Një vatër zjarri është aktivizuar mbrëmjen e sotme në malin e Shashicës, në Vlorë, duke alarmuar banorët dhe autoritetet lokale. Flakët janë përhapur me shpejtësi, të favorizuara nga era, e cila po vështirëson ndërhyrjen e forcave zjarrfikëse. Pas marrjes së njoftimit, në zonë janë nisur shërbimet z",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-25T20:24:36+00:00",
-      "dateStr": "25 Aug, 20:24",
-      "isNew": true,
-      "id": "she61787689476"
-    },
-    {
-      "title": "E rëndë në Mallakastër! 51-vjeçari bie në humnerë nga 50 metra lartësi, familja lajmëron zjarrfikësit për ndihmë",
-      "link": "https://shekulli.com.al/2026/08/25/e-rende-ne-mallakaster-51-vjecari-bie-ne-humnere-nga-50-metra-lartesi-familja-lajmeron-zjarrfikesit-per-ndihme/",
-      "description": "Një operacion shpëtimi u zhvillua mbrëmjen e kësaj të marte në fshatin Kapaj të Mallakastrës, ku një 51-vjeçar kishte mbetur i plagosur. Mësohet se Fluturim Salobehaj ra aksidentalisht në një humnerë nga një lartësi prej rreth 50 metrash, teksa po tentonte të riparonte një tubacion uji pranë fshatit",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-25T20:18:26+00:00",
-      "dateStr": "25 Aug, 20:18",
-      "isNew": true,
-      "id": "she71787689106"
-    },
-    {
-      "title": "Flet amerikani që po merret me projektin e shtetit bektashi në Tiranë: Nuk kemi qenë kurrë kaq afër",
-      "link": "https://shekulli.com.al/2026/08/25/flet-amerikani-qe-po-merret-me-projektin-e-shtetit-bektashi-ne-tirane-nuk-kemi-qene-kurre-kaq-afer/",
-      "description": "Bektashinjtë, myslimanët sufi, kanë jetuar prej shekujsh në Evropë. Në kryeqytetin shqiptar, Tiranë, në një sipërfaqe prej njëmbëdhjetë hektarësh, do të ngrihet Shteti Sovran i Urdhrit Bektashi, sipas modelit të Vatikanit në Romë. Të paktën, ky është plani. Nga Mark Middel, NRC Christopher Hyland që",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-25T20:07:54+00:00",
-      "dateStr": "25 Aug, 20:07",
-      "isNew": true,
-      "id": "she81787688474"
-    },
-    {
-      "title": "Telefonata me nënën mbi centralin bërthamor, Ermal Beqiri: Nuk zgjodha vendin më të mirë për t’u fshehur, mund të kisha shkuar në Dubai…",
-      "link": "https://shekulli.com.al/2026/08/25/telefonata-me-nenen-mbi-centralin-berthamor-ermal-beqiri-nuk-zgjodha-vendin-me-te-mire-per-tu-fshehur-mund-te-kisha-shkuar-ne-dubai/",
-      "description": "Gjykata e Apelit në Francë e la në burg pasi Ermal Beqiri ankimoi arrestin, Shqipëria kërkon ekstradimin. “Ti nuk na merr kurrë në telefon!”, është një nga ato qortime që pothuajse çdo fëmijë e ka dëgjuar nga nëna, edhe kur e ka telefonuar vetëm një ditë më parë. Më 25 korrik, 44-vjeçari shqiptar Er",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-25T19:56:57+00:00",
-      "dateStr": "25 Aug, 19:56",
-      "isNew": true,
-      "id": "she91787687817"
+      "id": "she91787691190"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
