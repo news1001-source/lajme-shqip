@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-08-26T02:59:30.572167+00:00",
-  "totalSources": 3,
-  "totalNews": 30,
+  "lastUpdated": "2026-08-26T03:57:31.648370+00:00",
+  "totalSources": 4,
+  "totalNews": 40,
   "news": [
+    {
+      "title": "Merrill Kelly akuzon trajnerin e bazës së tretë të Cubs për vjedhje sinjalesh pas humbjes së Diamondbacks",
+      "link": "https://24-ore.com/merrill-kelly-akuzon-trajnerin-e-bazes-se-trete-te-cubs-per-vjedhje-sinjalesh-pas-humbjes-se-diamondbacks/",
+      "description": "Pas humbjes 7-0 të Arizona Diamondbacks ndaj Chicago Cubs, startuesi Merrill Kelly pati një përplasje në fushë me trajnerin e bazës së tretë të Cubs, Quint...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T03:45:53+00:00",
+      "dateStr": "26 Aug, 03:45",
+      "isNew": true,
+      "id": "24 01787715953"
+    },
+    {
+      "title": "Monterrey mposht Chicago Fire 2-1 dhe kualifikohet në gjysmëfinalet e Leagues Cup",
+      "link": "https://24-ore.com/monterrey-mposht-chicago-fire-2-1-dhe-kualifikohet-ne-gjysmefinalet-e-leagues-cup/",
+      "description": "CF Monterrey eliminoi Chicago Fire me rezultat 2-1 në çerekfinalet e Leagues Cup, në ndeshjen e zhvilluar të martën mbrëma në SeatGeek Stadium. Goli vendim...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T03:11:39+00:00",
+      "dateStr": "26 Aug, 03:11",
+      "isNew": true,
+      "id": "24 11787713899"
+    },
+    {
+      "title": "Rivalët dyshojnë që Dallas do ta mbajë Kyrie Irving për sezonin 2026-27",
+      "link": "https://24-ore.com/rivalet-dyshojne-qe-dallas-do-ta-mbaje-kyrie-irving-per-sezonin-2026-27/",
+      "description": "Dallas Mavericks kanë deklaruar se synojnë të mbajnë pikëmbrojtësin yll Kyrie Irving për sezonin 2026-27, por skuadrat e tjera të NBA-së duket se nuk janë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T03:02:39+00:00",
+      "dateStr": "26 Aug, 03:02",
+      "isNew": true,
+      "id": "24 21787713359"
+    },
+    {
+      "title": "Padres dhe Pirates pa gola pas gjashtë inningësh në San Diego",
+      "link": "https://24-ore.com/padres-dhe-pirates-pa-gola-pas-gjashte-inningesh-ne-san-diego/",
+      "description": "Më 25 gusht 2026 në Petco Park, Pittsburgh Pirates u përballën me San Diego Padres në një takim që u karakterizua nga duel i fortë në pitching. Paul Skenes...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T03:01:38+00:00",
+      "dateStr": "26 Aug, 03:01",
+      "isNew": true,
+      "id": "24 31787713298"
+    },
+    {
+      "title": "Victor Hedman i gatshëm për rikthim te Tampa Bay Lightning pas pushimit personal",
+      "link": "https://24-ore.com/victor-hedman-i-gatshem-per-rikthim-te-tampa-bay-lightning-pas-pushimit-personal/",
+      "description": "Victor Hedman po përgatitet për sezonin e tij të 18-të në NHL si pjesë e Tampa Bay Lightning, duke u ndjerë fizikisht dhe mendërisht më mirë pas një periud...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-26T03:00:44+00:00",
+      "dateStr": "26 Aug, 03:00",
+      "isNew": true,
+      "id": "24 41787713244"
+    },
     {
       "title": "Chicago Cubs vs Arizona Diamondbacks, 25 gusht 2026 — përmbledhje e pjesëve të para dhe statistika kryesore",
       "link": "https://24-ore.com/chicago-cubs-vs-arizona-diamondbacks-25-gusht-2026-permbledhje-e-pjeseve-te-para-dhe-statistika-kryesore/",
@@ -12,7 +67,7 @@
       "date": "2026-08-26T02:17:30+00:00",
       "dateStr": "26 Aug, 02:17",
       "isNew": true,
-      "id": "24 01787710650"
+      "id": "24 51787710650"
     },
     {
       "title": "15 opsione për Yankees për të zëvendësuar Giancarlo Stanton dhe për të gjetur bashkëlojtarin e ardhshëm të Aaron Judge në 2027",
@@ -23,7 +78,7 @@
       "date": "2026-08-26T01:36:09+00:00",
       "dateStr": "26 Aug, 01:36",
       "isNew": true,
-      "id": "24 11787708169"
+      "id": "24 61787708169"
     },
     {
       "title": "Columbus Crew përballet me Club América në çerekfinalen e Leagues Cup",
@@ -34,7 +89,7 @@
       "date": "2026-08-26T01:01:36+00:00",
       "dateStr": "26 Aug, 01:01",
       "isNew": true,
-      "id": "24 21787706096"
+      "id": "24 71787706096"
     },
     {
       "title": "Dolly Parton nderohet nga bota e sportit pas vdekjes së legjendës së muzikës country në moshën 80-vjeçare",
@@ -45,7 +100,7 @@
       "date": "2026-08-26T00:51:14+00:00",
       "dateStr": "26 Aug, 00:51",
       "isNew": true,
-      "id": "24 31787705474"
+      "id": "24 81787705474"
     },
     {
       "title": "Afati për skuadrat 53-lojtarësh në 2026: Kush pritet të pritet ose të shkëmbehet",
@@ -56,62 +111,7 @@
       "date": "2026-08-26T00:47:51+00:00",
       "dateStr": "26 Aug, 00:47",
       "isNew": true,
-      "id": "24 41787705271"
-    },
-    {
-      "title": "Bianca Belair tregon për gjendjen e dëmtimit: pa ndjesi në gishtin e operuar",
-      "link": "https://24-ore.com/bianca-belair-tregon-per-gjendjen-e-demtimit-pa-ndjesi-ne-gishtin-e-operuar/",
-      "description": "Bianca Belair nuk ka luftuar që nga prilli i vitit 2025 dhe rikthimi i saj në ring nuk duket i afërt. Në ndeshjen e fundit, në WrestleMania 41, ajo pësoi n...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T00:16:08+00:00",
-      "dateStr": "26 Aug, 00:16",
-      "isNew": true,
-      "id": "24 51787703368"
-    },
-    {
-      "title": "Angel Reese thyen rekordin e rikuperimeve të një ndeshjeje në WNBA",
-      "link": "https://24-ore.com/angel-reese-thyen-rekordin-e-rikuperimeve-te-nje-ndeshjeje-ne-wnba/",
-      "description": "Angel Reese, lojtare e Atlanta Dream, vendosi rekordin e WNBA-së për rikuperime në një ndeshje, duke realizuar 26 topa në tabela, përfshirë 8 në ofensivë,...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T00:11:59+00:00",
-      "dateStr": "26 Aug, 00:11",
-      "isNew": true,
-      "id": "24 61787703119"
-    },
-    {
-      "title": "Kinley Rasmus dhe rrënjët familjare pas paraqitjes historike në Little League World Series",
-      "link": "https://24-ore.com/kinley-rasmus-dhe-rrenjet-familjare-pas-paraqitjes-historike-ne-little-league-world-series/",
-      "description": "Kinley Rasmus ka qenë një nga lojtarët kryesorë të Phenix City Youth Baseball nga Alabama në fillimin e Little League World Series 2026. Ajo regjistroi 14...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T00:07:51+00:00",
-      "dateStr": "26 Aug, 00:07",
-      "isNew": true,
-      "id": "24 71787702871"
-    },
-    {
-      "title": "Parker Kelly synon të ndërtojë mbi sezonin e tij shpërthim te Colorado Avalanche",
-      "link": "https://24-ore.com/parker-kelly-synon-te-ndertoje-mbi-sezonin-e-tij-shperthim-te-colorado-avalanche/",
-      "description": "Parker Kelly thotë se dëshiron të shfrytëzojë sezonin e tij më të mirë për të bërë edhe një hap përpara me Colorado Avalanche. Sulmuesi mbetet i motivuar p...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-26T00:02:44+00:00",
-      "dateStr": "26 Aug, 00:02",
-      "isNew": true,
-      "id": "24 81787702564"
-    },
-    {
-      "title": "NBA 2K27 prezanton video të Sezonit 1 me Victor Wembanyama dhe Olivia Miles",
-      "link": "https://24-ore.com/nba-2k27-prezanton-video-te-sezonit-1-me-victor-wembanyama-dhe-olivia-miles/",
-      "description": "NBA 2K27 ka publikuar një video të re të lojës për Sezonin 1 që shfaq yjet Victor Wembanyama të San Antonio Spurs dhe Olivia Miles të Minnesota Lynx. Mater...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-25T23:25:45+00:00",
-      "dateStr": "25 Aug, 23:25",
-      "isNew": true,
-      "id": "24 91787700345"
+      "id": "24 91787705271"
     },
     {
       "title": "“Berisha e konsideron Shqipërinë si pronë të tij”/ Mahmutaj: Saliu, pengesa kryesore e opozitës",
@@ -332,6 +332,116 @@
       "dateStr": "25 Aug, 18:42",
       "isNew": true,
       "id": "abc91787683326"
+    },
+    {
+      "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
+      "link": "https://www.lajme.al/rama-kerkon-mbledhje-urgjente-me-deputetet-e-ps-diten-e-shtune-zbulohet-agjenda/",
+      "description": "Kryeministri Edi Rama pritet paraditen e së shtunës të drejtojë mbledhjen e Grupit Parlamentar të Partisë Socialiste, ku do të marrin pjesë edhe ministrat. Gazetari Muhamed Veliu ka zbuluar agjendën e kësaj mbledhjeje, të cilën do ta nisë kreu i Grupit, Taulant Balla, vijuar nga fjala e Kryeministri",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-06-19T18:05:35+00:00",
+      "dateStr": "19 Jun, 18:05",
+      "isNew": false,
+      "id": "laj01781892335"
+    },
+    {
+      "title": "Lajme.al uron të gjithë besimtarët: Gëzuar Kurban Bajramin",
+      "link": "https://www.lajme.al/lajme-al-uron-te-gjithe-besimtaret-gezuar-kurban-bajramin/",
+      "description": "Urime festa e Kurban Bajramit! Gëzuar këtë festë të shenjtë dhe për shumë vite me paqe, shëndet e begati! Urojmë që kjo ditë e bekuar të sjellë qetësi në zemrat tona, harmoni në familje dhe dashuri mes njerëzve. Le të jetë një ditë që na afron më shumë me njëri-tjetrin, duke na kujtuar rëndësinë e [",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-05-27T06:00:19+00:00",
+      "dateStr": "27 May, 06:00",
+      "isNew": false,
+      "id": "laj11779861619"
+    },
+    {
+      "title": "Greqi: Flet babai i 19-vjeçares shqiptare: Humba jo engjëllin tim, por jetën time. Vajzën ma futën në kurth, e flakën pasi i bënë gjëra të tmerrshme!",
+      "link": "https://www.lajme.al/greqi-flet-babai-i-19-vjecares-shqiptare-humba-jo-engjellin-tim-por-jeten-time-vajzen-ma-futen-ne-kurth-e-flaken-pasi-i-bene-gjera-te-tmerrshme/",
+      "description": "Babai i 19-vjeçares që u gjet e pajetë në Kefaloni të Greqisë, foli sonte për mediat greke dhe tha se vajza e tij nuk kishte asnjë lidhje as me lëndë narkotike dhe as me alkool Trishtim i madh ka përfshirë Kefaloninë pas lajmit për vdekjen e 19-vjeçares shqiptare e identifikuar si Mirto, e cila u [&",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-04-16T16:54:53+00:00",
+      "dateStr": "16 Apr, 16:54",
+      "isNew": false,
+      "id": "laj21776358493"
+    },
+    {
+      "title": "Gashi: Diasporës parapëlqej t’i them mërgatë, të krijojmë kushtet për rikthimin e tyre në vendlindje",
+      "link": "https://www.lajme.al/gashi-diaspores-parapelqej-ti-them-mergate-te-krijojme-kushtet-per-rikthimin-e-tyre-ne-vendlindje/",
+      "description": "Kryetari i Kuvendit të Maqedonisë së Veriut, Afrim Gashi, ka theksuar rëndësinë e diasporës dhe nevojën për forcimin e lidhjeve me qytetarët që jetojnë jashtë vendit. Në fjalën e mbajtur në Samitin e IV të Diasporës, Gashi e cilësoi diasporën si një pjesë të pandashme të identitetit, duke u shprehur",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-04-14T14:24:35+00:00",
+      "dateStr": "14 Apr, 14:24",
+      "isNew": false,
+      "id": "laj31776176675"
+    },
+    {
+      "title": "Fitër Bajrami – Festë e Besimit, Mirësisë dhe Solidaritetit",
+      "link": "https://www.lajme.al/fiter-bajrami-feste-e-besimit-miresise-dhe-solidaritetit/",
+      "description": "Me përfundimin e muajit të Ramazanit, besimtarët myslimanë anembanë botës festojnë Fitër Bajramin – një nga festat më të rëndësishme në kalendarin islam. Kjo ditë e shënuar është një moment falënderimi ndaj Zotit, reflektimi për muajin që lamë pas, si dhe një rast për të ndarë gëzim dhe dashuri me t",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-03-20T00:03:28+00:00",
+      "dateStr": "20 Mar, 00:03",
+      "isNew": false,
+      "id": "laj41773965008"
+    },
+    {
+      "title": "Albano Bogdo pranon publikisht: “Kam kryer marrëdhënie me një ish-banore të BBV Albania”",
+      "link": "https://www.lajme.al/albano-bogdo-pranon-publikisht-kam-kryer-marredhenie-me-nje-ish-banore-te-bbv-albania/",
+      "description": "Aktori i njohur i humorit, Albano Bogdo, ka bërë një deklaratë të papritur gjatë pjesëmarrjes së tij në emisionin “Andale”. Gjatë një loje me pyetje provokuese, u lexua pohimi: “Kam bërë marrëdhënie seksuale me një ish-banore që ka qenë në Big Brother Vip Albania”. Pa hezituar, Albano ngriti menjëhe",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-25T16:28:58+00:00",
+      "dateStr": "25 Feb, 16:28",
+      "isNew": false,
+      "id": "laj51772036938"
+    },
+    {
+      "title": "Del FOTO e rrallë nga arkiva: Ja si dukej Brikena e BBVA para famës",
+      "link": "https://www.lajme.al/del-foto-e-rralle-nga-arkiva-ja-si-dukej-brikena-e-bbva-para-fames/",
+      "description": "Brikena Selmani është kthyer padyshim në një nga banoret më të komentuara dhe që ka tërhequr vëmendjen në këtë edicion të “Big Brother VIP Albania”, jo vetëm për dinamikat në lojë, por edhe për pamjen e saj. Por, duket se sharmi i modeles daton shumë më herët se dritat e famës televizive. Në rrjetet",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-25T12:23:06+00:00",
+      "dateStr": "25 Feb, 12:23",
+      "isNew": false,
+      "id": "laj61772022186"
+    },
+    {
+      "title": "LAJM I FUNDIT! Tërmeti shkund Shqipërinë!",
+      "link": "https://www.lajme.al/lajm-i-fundit-termeti-shkund-shqiperine/",
+      "description": "Elbasani u trondit këtë të martë pasdite nga një tërmet i papritur. Sipas raportimeve të para, lekundjet u ndjenw me intensite. Sipas të dhënave të fundit, një tërmet me magnitudë 4.3 të shkallës Rihter ka goditur Shqipërinë mbrëmjen e sotme, më 24 shkurt 2026. Lëkundjet u regjistruan rreth orës 20:",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-24T19:16:36+00:00",
+      "dateStr": "24 Feb, 19:16",
+      "isNew": false,
+      "id": "laj71771960596"
+    },
+    {
+      "title": "Diss për Xhensilën? Bes Kallaku publikon këngën e re: “Mes meje dhe teje, dihet kush ishte thëngjilli”",
+      "link": "https://www.lajme.al/diss-per-xhensilen-bes-kallaku-publikon-kengen-e-re-mes-meje-dhe-teje-dihet-kush-ishte-thengjilli/",
+      "description": "Aktori dhe këngëtari Bes Kallaku ka tërhequr vëmendjen e të gjithë ndjekësve me projektin e tij më të fundit muzikor, një këngë mjaft personale që ngjan me një rrëfim të hapur për ulje-ngritjet e jetës së tij. Menjëherë pas publikimit, rrjeti ka nisur të ziejë nga aludimet se disa prej rreshtave më ",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-24T19:11:16+00:00",
+      "dateStr": "24 Feb, 19:11",
+      "isNew": false,
+      "id": "laj81771960276"
+    },
+    {
+      "title": "Momenti viral: Takimi i DJ Gimbos me Egli Takon, çfarë u tha mes tyre?",
+      "link": "https://www.lajme.al/momenti-viral-takimi-i-dj-gimbos-me-egli-takon-cfare-u-tha-mes-tyre/",
+      "description": "Mbrëmjen e djeshme, e ftuar në Big Brother VIP Albania ishte ish-banorja Egli Tako, si pjesë e jurisë së “Miss &#38; Mister Big Brother”. Megjithatë, momenti që mori më shumë vëmendje në rrjet ishte takimi i saj me DJ Gimbon, mikun e ngushtë të Gjestit. Përshëndetja mes tyre ishte e ngrohtë dhe e af",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-02-24T16:13:31+00:00",
+      "dateStr": "24 Feb, 16:13",
+      "isNew": false,
+      "id": "laj91771949611"
     }
   ]
 }
