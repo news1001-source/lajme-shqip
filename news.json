@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-08-29T22:14:14.947917+00:00",
+  "lastUpdated": "2026-08-30T00:58:14.029243+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Debutim me dy gola, Dejan Joveljić ngjall shpresë te Seattle Sounders",
+      "link": "https://24-ore.com/debutim-me-dy-gola-dejan-joveljic-ngjall-shprese-te-seattle-sounders/",
+      "description": "Dejan Joveljić realizoi një debutim të shkëlqyer për Seattle Sounders FC, duke shënuar në minutën e 12-të të ndeshjes në Lumen Field dhe më pas shtuar goli...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-30T00:56:34+00:00",
+      "dateStr": "30 Aug, 00:56",
+      "isNew": true,
+      "id": "24 01788051394"
+    },
+    {
+      "title": "Stanford kryeson 14-7 ndaj Hawai’i në gjysmë loje",
+      "link": "https://24-ore.com/stanford-kryeson-14-7-ndaj-hawaii-ne-gjysme-loje/",
+      "description": "Stanford udhëheq me 14-7 ndaj Hawai'i në gjysmë loje pas një ndeshjeje të hapur në Palo Alto. Quarterback Davis Warren përfundoi pjesën e parë 10-of-19 për...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-30T00:51:17+00:00",
+      "dateStr": "30 Aug, 00:51",
+      "isNew": true,
+      "id": "24 11788051077"
+    },
+    {
+      "title": "Përditësim mbi dëmtimin e Aaron Judge dhe skenari i rikthimit te Yankees",
+      "link": "https://24-ore.com/perditesim-mbi-demtimin-e-aaron-judge-dhe-skenari-i-rikthimit-te-yankees/",
+      "description": "Aaron Judge, që ka munguar tre muaj pasi pësoi një frakturë stresi në brinjën e parë të djathtë, pritet t'i bashkohet skuadrës së New York Yankees gjatë ud...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-30T00:46:26+00:00",
+      "dateStr": "30 Aug, 00:46",
+      "isNew": true,
+      "id": "24 21788050786"
+    },
+    {
+      "title": "Tarik Skubal kthehet në Comerica Park: shtatë strikeout dhe gjashtë innings kundër Tigers",
+      "link": "https://24-ore.com/tarik-skubal-kthehet-ne-comerica-park-shtate-strikeout-dhe-gjashte-innings-kunder-tigers/",
+      "description": "Pitcheri i Los Angeles Dodgers, Tarik Skubal, realizoi shtatë strikeout në gjashtë innings gjatë kthimit emocional në Comerica Park, në takimin e tij të pa...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-30T00:02:19+00:00",
+      "dateStr": "30 Aug, 00:02",
+      "isNew": true,
+      "id": "24 31788048139"
+    },
+    {
+      "title": "Milwaukee Brewers – Texas Rangers, 29 gusht 2026: Fillim pa gola dhe dy eliminime në çerekun e parë",
+      "link": "https://24-ore.com/milwaukee-brewers-texas-rangers-29-gusht-2026-fillim-pa-gola-dhe-dy-eliminime-ne-cerekun-e-pare/",
+      "description": "Në ndeshjen e 29 gushtit 2026 mes Milwaukee Brewers dhe Texas Rangers, çereku i parë përfundoi pa gola. Në pjesën e sipërme të fraksionit të parë u regjist...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-29T23:20:34+00:00",
+      "dateStr": "29 Aug, 23:20",
+      "isNew": true,
+      "id": "24 41788045634"
+    },
+    {
+      "title": "Vijesti: Kurti kërkon ndërhyrjen e BE-së dhe SHBA-së për shqiptarët e Luginës së Preshevës",
+      "link": "https://24-ore.com/vijesti-kurti-kerkon-nderhyrjen-e-be-se-dhe-shba-se-per-shqiptaret-e-lugines-se-presheves/",
+      "description": "Media malazeze Vijesti raportoi më 29 gusht se kryeministri në detyrë i Kosovës, Albin Kurti, i ka bërë thirrje Bashkimit Evropian dhe Shteteve të Bashkuara të reagojnë për atë që ai e përshkroi si diskriminim sistematik ndaj shqiptarëve në Preshevë, Bujanoc dhe Medvegjë. Deklaratat u bënë gjatë një",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-29T23:10:36+00:00",
+      "dateStr": "29 Aug, 23:10",
+      "isNew": true,
+      "id": "24 51788045036"
+    },
     {
       "title": "Çitaku: Mos lejoni që shqiptari ta shohë shqiptarin si armik për shkak të fesë",
       "link": "https://24-ore.com/citaku-mos-lejoni-qe-shqiptari-ta-shohe-shqiptarin-si-armik-per-shkak-te-fese/",
@@ -12,7 +78,7 @@
       "date": "2026-08-29T21:57:11+00:00",
       "dateStr": "29 Aug, 21:57",
       "isNew": true,
-      "id": "24 01788040631"
+      "id": "24 61788040631"
     },
     {
       "title": "Pete Crow-Armstrong shënon tre homerë dhe udhëheq Cubs në fitore 17-5 ndaj Reds",
@@ -23,18 +89,29 @@
       "date": "2026-08-29T21:52:14+00:00",
       "dateStr": "29 Aug, 21:52",
       "isNew": true,
-      "id": "24 11788040334"
+      "id": "24 71788040334"
+    },
+    {
+      "title": "Trump synon Hënën, themelon Akademinë e parë Hapësinore të SHBA-së",
+      "link": "https://abcnews.al/trump-synon-henen-themelon-akademine-e-pare-hapesinore-te-shba-se/",
+      "description": "Presidenti i SHBA-së, Donald Trump, nënshkroi një urdhër ekzekutiv për të themeluar Akademinë e parë Hapësinore të SHBA-së, ku do të trajnohet brezi i ardhshëm i udhëheqësve të hapësirës, njoftoi Agjencia Hapësinore e SHBA-së (NASA). Trump, kur nënshkroi Urdhrin Ekzekutiv për themelimin e Akademisë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-29T21:47:08+00:00",
+      "dateStr": "29 Aug, 21:47",
+      "isNew": true,
+      "id": "abc01788040028"
     },
     {
       "title": "“Protesta, nga faktorë të jashtëm”, Beqiri: Vendi ka kohë që është pa opozitë",
-      "link": "https://abcnews.al/2343466-2/",
+      "link": "https://abcnews.al/protesta-nga-faktore-te-jashtem-beqiri-vendi-ka-kohe-qe-eshte-pa-opozite/",
       "description": "Avokati Idajet Beqiri ka komentuar zhvillimet politike në vend, duke thënë se qeveria e re e Edi Ramës ka nisur të fokusohet në përmirësimin e pjesëve të qeverisjes ku ka mangësi. Avokati tha se vendi prej kohësh është pa një opozitë të fortë dhe se protestat mund të shërbenin për të plotësuar këtë ",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-08-29T21:38:06+00:00",
       "dateStr": "29 Aug, 21:38",
       "isNew": true,
-      "id": "abc01788039486"
+      "id": "abc11788039486"
     },
     {
       "title": "Superliga, plas në Elbasan/ Presidenti i Vllaznisë dyshohet se ka goditur një arbitër",
@@ -45,7 +122,7 @@
       "date": "2026-08-29T21:23:12+00:00",
       "dateStr": "29 Aug, 21:23",
       "isNew": true,
-      "id": "abc11788038592"
+      "id": "abc21788038592"
     },
     {
       "title": "Partizani, trajneri Bratu: Duhet të gjejmë zgjidhje",
@@ -56,7 +133,7 @@
       "date": "2026-08-29T21:18:21+00:00",
       "dateStr": "29 Aug, 21:18",
       "isNew": true,
-      "id": "24 21788038301"
+      "id": "24 81788038301"
     },
     {
       "title": "Komisioni i Ligave dhe Garave në FSHF përcakton kalendarin e 4 javëve të para të sezonit të ri",
@@ -67,51 +144,7 @@
       "date": "2026-08-29T21:18:06+00:00",
       "dateStr": "29 Aug, 21:18",
       "isNew": true,
-      "id": "24 31788038286"
-    },
-    {
-      "title": "Vllaznia, deklaratë për shtyp: Nuk kërkojmë privilegje, distancohemi nga çdo formë dhune",
-      "link": "https://24-ore.com/vllaznia-deklarate-per-shtyp-nuk-kerkojme-privilegje-distancohemi-nga-cdo-forme-dhune/",
-      "description": "Klubi i Futbollit Vllaznia ka reaguar me një deklaratë për shtyp pas ndeshjes në “Elbasan Arena”. Kuqeblutë e nisin deklaratën e tyre me mosrespektimin e rregulloreve për të boshatisur tribunat në një ndeshje që luhej pa tifozë, me personat përgjegjës që nuk kishin marrë masat e duhura për organizim",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-29T21:17:51+00:00",
-      "dateStr": "29 Aug, 21:17",
-      "isNew": true,
-      "id": "24 41788038271"
-    },
-    {
-      "title": "Nico Gonzalez dhe Koopmeiners, Juventusi me pikë të plota",
-      "link": "https://24-ore.com/nico-gonzalez-dhe-koopmeiners-juventusi-me-pike-te-plota/",
-      "description": "Juventusi mban ritmin dhe i përgjigjet Milanit. Në javën e dytë të Serie A, bardhezinjtë mposhtën Parmën 2-0. Loja e ekipit vendas në pjesën e parë ishte e pafrytshme, me Conceiçao që goditi shtyllën. Në pjesën e dytë, Nico Gonzalez zgjidhi problemin me një gjuajtje nga distanca me të majtën që u de",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-29T21:17:39+00:00",
-      "dateStr": "29 Aug, 21:17",
-      "isNew": true,
-      "id": "24 51788038259"
-    },
-    {
-      "title": "UEFA Futsal Champions League/Tirana eliminohet",
-      "link": "https://24-ore.com/uefa-futsal-champions-league-tirana-eliminohet/",
-      "description": "Tirana Futsal e ka mbyllur aventurën në fazën para-eliminatore të UEFA Futsal Champions League 2026/27 me një paraqitje dinjitoze, duke grumbulluar 6 pikë në tri ndeshje. Kampionët e Shqipërisë u mposhtën me rezultatin 5-7 nga Hjørring Futsal Klub në ndeshjen e fundit, duke e përfunduar grupin në ve",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-29T21:17:27+00:00",
-      "dateStr": "29 Aug, 21:17",
-      "isNew": true,
-      "id": "24 61788038247"
-    },
-    {
-      "title": "Shqipëria drejt anëtarësimit në Organizatën e Bashkëpunimit Digjital",
-      "link": "https://24-ore.com/shqiperia-drejt-anetaresimit-ne-organizaten-e-bashkepunimit-digjital/",
-      "description": "Shqipëria është një nga tetë vendet që kanë marrë miratimin për t’u anëtarësuar në Organizatën e Bashkëpunimit Digjital (DCO), një organizatë ndërkombëtare që synon bashkëpunimin mes shteteve në ekonominë digjitale, inteligjencën artificiale, qarkullimin ndërkufitar të të dhënave dhe tregtinë elektr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-29T21:17:15+00:00",
-      "dateStr": "29 Aug, 21:17",
-      "isNew": true,
-      "id": "24 71788038235"
+      "id": "24 91788038286"
     },
     {
       "title": "Juventusi i përgjigjet Milanit me fitore/ Gonzalez dhe Koopmeiners i japin “Zonjës së Vjetër” tre pikët ndaj Parmës",
@@ -133,7 +166,7 @@
       "date": "2026-08-29T20:51:17+00:00",
       "dateStr": "29 Aug, 20:51",
       "isNew": true,
-      "id": "abc21788036677"
+      "id": "abc31788036677"
     },
     {
       "title": "Zgjidhet ngërçi i aeroportit të Vlorës? Behgjet Pacolli: Zhvilluam një takim në ministri, propozuam vijimin e punës dhe një auditim financiar të pavarur",
@@ -145,28 +178,6 @@
       "dateStr": "29 Aug, 20:44",
       "isNew": true,
       "id": "she11788036249"
-    },
-    {
-      "title": "USC në pushim 28-0 ndaj San Jose State",
-      "link": "https://24-ore.com/usc-ne-pushim-28-0-ndaj-san-jose-state/",
-      "description": "Më 29 gusht 2026, USC shkoi në pushim me avantazh 28-0 ndaj San Jose State pas një gjysmë loje në të cilën Trojans arritën të dominonin në tabelë.Sipas Ble...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-29T20:31:31+00:00",
-      "dateStr": "29 Aug, 20:31",
-      "isNew": true,
-      "id": "24 81788035491"
-    },
-    {
-      "title": "Rritja e turizmit kërkon mbi të gjitha shërbime publike cilësore",
-      "link": "https://24-ore.com/rritja-e-turizmit-kerkon-mbi-te-gjitha-sherbime-publike-cilesore/",
-      "description": "Nga Av. Ardjana Shehi, MBA AK PARTNERS Legal &#38; Consulting Turizmi është një nga sektorët prioritarë të ekonomisë shqiptare dhe për promovimin e tij po punohet në shumë forma. Ligji për Turizmin dhe kuadri ligjor e nënligjor mbështetës (përfshirë edhe strategjia kombëtare e turizmit e plan veprim",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-29T20:31:26+00:00",
-      "dateStr": "29 Aug, 20:31",
-      "isNew": true,
-      "id": "24 91788035486"
     },
     {
       "title": "Dita e 91-të e tubimit në Tiranë, Dritan Goxhaj i përgjigjet Alfred Cakos: Kjo protestë s’ka dhe s’do të ketë asnjë drejtues",
@@ -188,7 +199,7 @@
       "date": "2026-08-29T20:17:17+00:00",
       "dateStr": "29 Aug, 20:17",
       "isNew": true,
-      "id": "abc31788034637"
+      "id": "abc41788034637"
     },
     {
       "title": "Nesër kishin dasmë, 6 familjarë të plagosur nga shpërthimi i bombolës në Lezhë, kryefamiljari dërgohet te Trauma",
@@ -210,7 +221,7 @@
       "date": "2026-08-29T19:53:47+00:00",
       "dateStr": "29 Aug, 19:53",
       "isNew": true,
-      "id": "abc41788033227"
+      "id": "abc51788033227"
     },
     {
       "title": "Front i ri përplasjeje, Ankaraja sfidon planin e Athinës",
@@ -221,7 +232,7 @@
       "date": "2026-08-29T19:48:33+00:00",
       "dateStr": "29 Aug, 19:48",
       "isNew": true,
-      "id": "abc51788032913"
+      "id": "abc61788032913"
     },
     {
       "title": "Plas në “Elbasan Arena”, presidenti i Vllaznisë godet me grusht një nga arbitrat e ndeshjes",
@@ -254,7 +265,7 @@
       "date": "2026-08-29T19:25:51+00:00",
       "dateStr": "29 Aug, 19:25",
       "isNew": true,
-      "id": "abc61788031551"
+      "id": "abc71788031551"
     },
     {
       "title": "Superliga/ Laçi mposht 2-1 Partizanin, Elbasani dhe Vllaznia ndahen në barazim dramatik 1-1",
@@ -276,7 +287,7 @@
       "date": "2026-08-29T19:14:02+00:00",
       "dateStr": "29 Aug, 19:14",
       "isNew": true,
-      "id": "abc71788030842"
+      "id": "abc81788030842"
     },
     {
       "title": "Ranë në kontakt me rrymën elektrike/ Vau i Dejës, rëndohet bilanci, pas 40 vjeçarit, vdes edhe elektricisti",
@@ -287,7 +298,7 @@
       "date": "2026-08-29T19:10:34+00:00",
       "dateStr": "29 Aug, 19:10",
       "isNew": true,
-      "id": "abc81788030634"
+      "id": "abc91788030634"
     },
     {
       "title": "6 anëtarë të një familjeje plagosen nga shpërthimi i bombolës së gazit në fshatin Markatomaj të Lezhës, 3 në gjendje të rëndë",
@@ -299,17 +310,6 @@
       "dateStr": "29 Aug, 19:04",
       "isNew": true,
       "id": "she71788030295"
-    },
-    {
-      "title": "E pazakontë në Egjipt/ Momenti kur hajdutët grabisin 105 kg mish pule nga furgoni në lëvizje",
-      "link": "https://abcnews.al/e-pazakonte-ne-egjipt-momenti-kur-hajdutet-grabisin-105-kg-mish-pule-nga-furgoni-ne-levizje/",
-      "description": "Një grabitje e pazakontë ne Egjipt është bërë virale në rrjetet sociale, pasi disa persona kanë arritur të vjedhin rreth 105 kilogramë mish pule nga një furgon që ishte në lëvizje. Pamjet e incidentit, të shpërndara me shpejtësi në internet, duken si të shkëputura nga një skenë filmi aksion. Në vide",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-29T19:02:57+00:00",
-      "dateStr": "29 Aug, 19:02",
-      "isNew": true,
-      "id": "abc91788030177"
     },
     {
       "title": "Situata me zjarret në vend, 16 vatra të raportuara, 5 mbeten aktive",
