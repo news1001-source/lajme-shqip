@@ -1,51 +1,271 @@
 {
-  "lastUpdated": "2026-08-30T17:08:53.304783+00:00",
+  "lastUpdated": "2026-08-30T20:26:30.630579+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "​Pritjet në pikat kufitare të Kosovës deri në dhjetë minuta",
-      "link": "https://24-ore.com/pritjet-ne-pikat-kufitare-te-kosoves-deri-ne-dhjete-minuta/",
-      "description": "Gjendja në pikëkalimet kufitare të Kosovës duket se është e qetë. Sipas të dhënave të Qendrës Kombëtare për Menaxhim Kufitar, pritjet më të gjata janë deri në dhjetë minuta. Ndërsa, mërgimtarë të shumtë nga Kosova kanë njoftuar se po presin me orë të tëra në kufirin Serbi-Kroaci.",
+      "title": "Një lojtar i Packers, Josh Jacobs, vendoset në Listën e Përjashtimit të Komisionerit të NFL",
+      "link": "https://24-ore.com/nje-lojtar-i-packers-josh-jacobs-vendoset-ne-listen-e-perjashtimit-te-komisionerit-te-nfl/",
+      "description": "Green Bay Packers kanë njoftuar se sulmuesi i skuadrës, Josh Jacobs, është vendosur në Listën e Përjashtimit të Komisionerit. Kjo masë administrative ndalo...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-30T17:02:47+00:00",
-      "dateStr": "30 Aug, 17:02",
+      "date": "2026-08-30T20:12:16+00:00",
+      "dateStr": "30 Aug, 20:12",
       "isNew": true,
-      "id": "24 01788109367"
+      "id": "24 01788120736"
     },
     {
-      "title": "Kush gënjen dhe kush abuzon?",
-      "link": "https://24-ore.com/kush-genjen-dhe-kush-abuzon/",
-      "description": "Nga ARTUR AJAZI Kushdo që ka një makinë sot, shkon natyrisht 1 herë në javë ta mbushë me karburant. Në qytete dhe akset tona rrugore, pikat e karburanteve janë shtuar si kërpudhat. Dikush ka 25 vjet, dikush tjeter 2-3 vjet që e ka hapur aktivitetin e tij në fushë e shitjes me pakicë apo shumicë [&#8",
+      "title": "Ekspozita “Ngjyrat e Lirisë” hapet në Prishtinë, arti në shërbim të kujtesës dhe historisë së luftës së UÇK-së",
+      "link": "https://24-ore.com/ekspozita-ngjyrat-e-lirise-hapet-ne-prishtine-arti-ne-sherbim-te-kujteses-dhe-historise-se-luftes-se-uck-se/",
+      "description": "30 gusht &#8211; Platforma qytetare “Liria ka Emër” ka hapur sot në FLORI Gallery, në Prishtina Mall, ekspozitën “Ngjyrat e Lirisë”, një aktivitet artistik kushtuar luftës së Ushtrisë Çlirimtare të Kosovës, sakrificës për liri dhe kujtesës kolektive. Në ekspozitë janë prezantuar vepra të piktorëve, ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-30T17:02:11+00:00",
-      "dateStr": "30 Aug, 17:02",
+      "date": "2026-08-30T20:02:54+00:00",
+      "dateStr": "30 Aug, 20:02",
       "isNew": true,
-      "id": "24 11788109331"
+      "id": "24 11788120174"
     },
     {
-      "title": "Drita mund me vështirësi Vushtrrinë, Manaj vendos ndeshjen",
-      "link": "https://24-ore.com/drita-mund-me-veshtiresi-vushtrrine-manaj-vendos-ndeshjen/",
+      "title": "Tragjedia në Qipro, shkon në 8 numri i viktimave nga përmbytja e tragetit",
+      "link": "https://abcnews.al/tragjedia-ne-qipro-shkon-ne-8-numri-i-viktimave-nga-permbytja-e-tragetit/",
+      "description": "Ka shkuar në tetë numri i personave që kanë humbur jetën pas përmbysjes së një trageti me pasagjerë në brigjet veriore të Qipros. Operacionet e kërkim-shpëtimit vijojnë për gjetjen e personave që rezultojnë ende të zhdukur. Trageti, që transportonte 267 persona, përfshirë 259 pasagjerë dhe tetë anët",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-30T19:57:59+00:00",
+      "dateStr": "30 Aug, 19:57",
+      "isNew": true,
+      "id": "abc01788119879"
+    },
+    {
+      "title": "Alessandro Di Battista në gjendje të rënduar shëndetësore në Kubë/ Çfarë ndodhi me ish-deputetin italian, mjekët e Gemellit nisen drejt Havanës",
+      "link": "https://shekulli.com.al/2026/08/30/alessandro-di-battista-ne-gjendje-te-renduar-shendetesore-ne-kube-cfare-ndodhi-me-ish-deputetin-italian-mjeket-e-gemellit-nisen-drejt-havanes/",
+      "description": "Ish-deputeti i Lëvizjes 5 Yjet, Alessandro Di Battista, ndodhet i shtruar në një spital në Havana të Kubës pas një problemi të rëndë shëndetësor. 48-vjeçari u ndje keq të premten, më 28 gusht, pasi fillimisht kishte pasur dhimbje të forta koke. Gjendja e tij u përkeqësua dhe ai humbi ndjenjat, duke ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-30T19:50:11+00:00",
+      "dateStr": "30 Aug, 19:50",
+      "isNew": true,
+      "id": "she01788119411"
+    },
+    {
+      "title": "OVL-UÇK: Serbia mban arkivat, kërkojmë të vërtetën e drejtësi për të zhdukurit",
+      "link": "https://24-ore.com/ovl-uck-serbia-mban-arkivat-kerkojme-te-verteten-e-drejtesi-per-te-zhdukurit/",
+      "description": "Organizata e Veteranëve të Luftës së Ushtrisë Çlirimtare të Kosovës (OVL e UÇK-së), në Ditën Ndërkombëtare të Viktimave të Zhdukjeve me Forcë, ka kërkuar zbardhjen e fatit të të gjithë personave të zhdukur gjatë luftës në Kosovë. Përmes një postimi në Facebook, OVL e UÇK-së ka thënë se qëndron pranë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-30T19:37:42+00:00",
+      "dateStr": "30 Aug, 19:37",
+      "isNew": true,
+      "id": "24 21788118662"
+    },
+    {
+      "title": "Ndeshje në errësirë/ Ikin dritat për herë të dytë në Teuta-Tirana, tifozët “ndezin” stadiumin me flakadanë",
+      "link": "https://shekulli.com.al/2026/08/30/ndeshje-ne-erresire-ikin-dritat-per-here-te-dyte-ne-teuta-tirana-tifozet-ndezin-stadiumin-me-flakadane/",
+      "description": "Një episod i pazakontë ka shoqëruar mbrëmjen e sotme sfidën mes Teutës dhe Tiranës, e vlefshme për javën e dytë të kampionatit shqiptar. Vetëm pak minuta pasi kishte nisur ndeshja, energjia elektrike u ndërpre në stadium, duke bërë që arbitri të ndalonte përkohësisht lojën. Stadiumi u përfshi nga er",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-30T19:33:54+00:00",
+      "dateStr": "30 Aug, 19:33",
+      "isNew": true,
+      "id": "she11788118434"
+    },
+    {
+      "title": "Kërcënim për vrasje, djali i Netanyahut largohet urgjentisht nga SHBA drejt Izraelit",
+      "link": "https://abcnews.al/kercenim-per-vrasje-djali-i-netanyahut-largohet-urgjentisht-nga-shba-drejt-izraelit/",
+      "description": "Yair Netanyahu, djali i madh i kryeministrit izraelit Benjamin Netanyahu, është kthyer urgjentisht nga SHBA në Izrael pasi shërbimi i inteligjencës së brendshme, Shin Bet, identifikoi një kërcënim serioz ndaj jetës së tij. Pas vlerësimit të situatës, autoritetet izraelite vendosën evakuimin e tij ng",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-30T19:33:45+00:00",
+      "dateStr": "30 Aug, 19:33",
+      "isNew": true,
+      "id": "abc11788118425"
+    },
+    {
+      "title": "Një natë me 3 homerë: Pete Crow-Armstrong kryeson favoritët për çmimin MVP të NL",
+      "link": "https://24-ore.com/nje-nate-me-3-homere-pete-crow-armstrong-kryeson-favoritet-per-cmimin-mvp-te-nl/",
+      "description": "Pete Crow-Armstrong shënoi tri homerë dhe realizoi gjashtë RBI në fitoren 17-5 të Chicago Cubs ndaj Cincinnati Reds, një paraqitje që e vendosi menjëherë n...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-30T19:32:17+00:00",
+      "dateStr": "30 Aug, 19:32",
+      "isNew": true,
+      "id": "24 31788118337"
+    },
+    {
+      "title": "Newsroom me Erneta Shevroja, (30/08/2026)",
+      "link": "https://abcnews.al/newsroom-me-erneta-shevroja-30-08-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-30T19:18:41+00:00",
+      "dateStr": "30 Aug, 19:18",
+      "isNew": true,
+      "id": "abc21788117521"
+    },
+    {
+      "title": "Trump: Nafta, një dhuratë nga Venezuela për popullin amerikan",
+      "link": "https://24-ore.com/trump-nafta-nje-dhurate-nga-venezuela-per-popullin-amerikan/",
+      "description": "Presidenti amerikan Donald Trump ka njoftuar se Rezerva Strategjike e Naftës në SHBA do të rimbushet përmes naftës bruto nga Venezuela. Ky vendim vjen pas një marrëveshjeje kryesore të arritur mes Uashingtonit dhe Karakasit, e cila i kalon Shteteve të Bashkuara kontrollin mbi shumicën e shfrytëzimit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-30T19:18:36+00:00",
+      "dateStr": "30 Aug, 19:18",
+      "isNew": true,
+      "id": "24 41788117516"
+    },
+    {
+      "title": "Panik në ajër në Rodos, avioni me 33 pasagjerë pëson defekt në motor, përfshihet nga flakët gjatë fluturimit",
+      "link": "https://24-ore.com/panik-ne-ajer-ne-rodos-avioni-me-33-pasagjere-peson-defekt-ne-motor-perfshihet-nga-flaket-gjate-fluturimit/",
+      "description": "Momente ankthi kanë kaluar 33 pasagjerë të një avioni që ishte nisur nga ishulli grek i Rodosit drejt Karpathosit. Avioni me helika ATR 42 i kompanisë Olympic Air, pjesë e grupit AEGEAN, u detyrua të kthehej në aeroportin “Diagoras” të Rodosit vetëm pak minuta pas ngritjes, për shkak të një problemi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-30T19:18:26+00:00",
+      "dateStr": "30 Aug, 19:18",
+      "isNew": true,
+      "id": "24 51788117506"
+    },
+    {
+      "title": "Ebola vijon të përhapet në Kongo, mbi 2.800 viktima",
+      "link": "https://24-ore.com/ebola-vijon-te-perhapet-ne-kongo-mbi-2-800-viktima/",
+      "description": "Epidemia e virusit Ebola në Republikën Demokratike të Kongos vazhdon të përkeqësohet, ndërsa numri i viktimave ka tejkaluar 2.800. Autoritetet shëndetësore kanë raportuar mijëra raste të konfirmuara në disa provinca të vendit. Të dhënat e fundit, të publikuara të dielën nga Ministria e Shëndetësisë,",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-30T19:18:16+00:00",
+      "dateStr": "30 Aug, 19:18",
+      "isNew": true,
+      "id": "24 61788117496"
+    },
+    {
+      "title": "Kërcënim për jetën, evakuohet urgjentisht djali i Netanyahut nga SHBA-ja dhe kthehet në Izrael",
+      "link": "https://24-ore.com/kercenim-per-jeten-evakuohet-urgjentisht-djali-i-netanyahut-nga-shba-ja-dhe-kthehet-ne-izrael/",
+      "description": "Djali i madh i kryeministrit izraelit Benjamin Netanyahu, Yair Netanyahu, është kthyer urgjentisht në Izrael nga Shtetet e Bashkuara, pasi autoritetet izraelite kanë identifikuar një kërcënim serioz ndaj jetës së tij. Shin Bet, shërbimi i inteligjencës së brendshme të Izraelit, konfirmoi të shtunën ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-30T19:18:04+00:00",
+      "dateStr": "30 Aug, 19:18",
+      "isNew": true,
+      "id": "24 71788117484"
+    },
+    {
+      "title": "Mojtaba Khamenei thirrje vendeve të Gjirit: Bashkohuni kundër “armikut të vërtetë” të myslimanëve",
+      "link": "https://24-ore.com/mojtaba-khamenei-thirrje-vendeve-te-gjirit-bashkohuni-kunder-armikut-te-vertete-te-myslimaneve/",
+      "description": "Udhëheqësi suprem i Iranit, Mojtaba Khamenei, u ka bërë thirrje vendeve myslimane, veçanërisht shteteve të Gjirit Persik, të bashkohen përballë asaj që ai e cilësoi si “armikun e tyre të vërtetë”. Sipas tij, përçarjet mes vendeve dhe popujve myslimanë u shërbejnë drejtpërdrejt interesave të kundërsh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-08-30T19:17:51+00:00",
+      "dateStr": "30 Aug, 19:17",
+      "isNew": true,
+      "id": "24 81788117471"
+    },
+    {
+      "title": "Prishtina shkëlqen në derbi, e mposht Llapin 4:0",
+      "link": "https://24-ore.com/prishtina-shkelqen-ne-derbi-e-mposht-llapin-40/",
       "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Post Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor August 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 [&#8230;]",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-08-30T17:01:49+00:00",
-      "dateStr": "30 Aug, 17:01",
+      "date": "2026-08-30T19:16:44+00:00",
+      "dateStr": "30 Aug, 19:16",
       "isNew": true,
-      "id": "24 21788109309"
+      "id": "24 91788117404"
     },
     {
-      "title": "Kontradikta e Linda Ramës me shkencën dhe diasporën: Nga Athina te dera e mbyllur e Tiranës",
-      "link": "https://24-ore.com/kontradikta-e-linda-rames-me-shkencen-dhe-diasporen-nga-athina-te-dera-e-mbyllur-e-tiranes/",
-      "description": "Në intervistën e saj të fundit për Fortune Greece, Linda Rama flet për disa prej problemeve më të mëdha me të cilat përballet sot Shqipëria dhe Ballkani Perëndimor: largimin e trurit, dobësinë e institucioneve, arsimin, meritokracinë dhe nevojën për ta kthyer diasporën në një aset zhvillimi. Është i",
-      "source": "24 ORE",
+      "title": "Islanda i tha “jo” BE-së, vjen reagimi nga Brukseli",
+      "link": "https://abcnews.al/islanda-i-tha-jo-be-se-vjen-reagimi-nga-brukseli/",
+      "description": "Institucionet e BE-së thonë se e respektojnë plotësisht zgjedhjen e popullit islandez pasi votuesit thanë “jo” për rihapjen e negociatave të pranimit. Rezultati kërcënon të ulë vrullin e politikës së zgjerimit. Komisioni Evropian ka lëshuar një reagim të heshtur pasi Islanda refuzoi rihapjen e negoc",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-08-30T17:01:30+00:00",
-      "dateStr": "30 Aug, 17:01",
+      "date": "2026-08-30T19:06:53+00:00",
+      "dateStr": "30 Aug, 19:06",
       "isNew": true,
-      "id": "24 31788109290"
+      "id": "abc31788116813"
+    },
+    {
+      "title": "Zjarret në vend/ 7 vatra aktive, kritike situata në Dibër",
+      "link": "https://abcnews.al/zjarret-ne-vend-7-vatra-aktive-kritike-situata-ne-diber/",
+      "description": "Ministria e Mbrojtjes ka publikuar përditësimin e fundit mbi situatën e zjarreve në territorin e vendit, referuar të dhënave operacionale të orës 20:00 të 30 gushtit 2026. Sipas informacionit zyrtar, gjatë ditës janë raportuar gjithsej 20 vatra zjarri, prej të cilave 7 vijojnë të jenë aktive, ndërsa",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-30T18:37:02+00:00",
+      "dateStr": "30 Aug, 18:37",
+      "isNew": true,
+      "id": "abc41788115022"
+    },
+    {
+      "title": "Kishin marrë me qera një banesë, dhe nuk largoheshin! Zbulimi shokues në Greqi, brenda valixhes gjendet një foshnjë e pajetë",
+      "link": "https://shekulli.com.al/2026/08/30/kishin-marre-me-qera-nje-banese-dhe-nuk-largoheshin-zbulimi-shokues-ne-greqi-brenda-valixhes-gjendet-nje-foshnje-e-pajete/",
+      "description": "GREQI- Një ngjarje tronditëse është zbuluar në lagjen Kypseli të Athinës, ku policia ka gjetur trupin e pajetë të një foshnjeje brenda një ene të fshehur në një valixhe. Sipas mediave greke, policia ndërhyri në një apartament që ishte dhënë me qira përmes Airbnb, pas një denoncimi të bërë nga pronar",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-30T18:31:53+00:00",
+      "dateStr": "30 Aug, 18:31",
+      "isNew": true,
+      "id": "she21788114713"
+    },
+    {
+      "title": "Goditje për Infantinon/ Holanda i tërheq mbështetjen dhe kërkon ndryshimin e drejtimit të FIFA-s",
+      "link": "https://shekulli.com.al/2026/08/30/goditje-per-infantinon-holanda-i-terheq-mbeshtetjen-dhe-kerkon-ndryshimin-e-drejtimit-te-fifa-s/",
+      "description": "Presioni ndaj presidentit të FIFA-s, Gianni Infantino, rritet. Federata Holandeze e Futbollit ka deklaruar se nuk ka më besim te drejtimi i tij dhe kërkon një ndryshim në krye të organizatës nga viti 2027. Në një deklaratë të publikuar të dielën, federata holandeze (KNVB) tha se “nuk ka më besim në ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-30T18:19:02+00:00",
+      "dateStr": "30 Aug, 18:19",
+      "isNew": true,
+      "id": "she31788113942"
+    },
+    {
+      "title": "“Fatura” e zjarreve/ Toromani: 10 mijë hektarë pyje të djegur, prekja e zonave të mbrojtura kërcënon ekosistemin",
+      "link": "https://abcnews.al/fatura-e-zjarreve-toromani-10-mije-hektare-pyje-te-djegur-prekja-e-zonave-te-mbrojtura-kercenon-ekosistemin/",
+      "description": "Deri më tani, zjarret në Shqipëri kanë djegur rreth 10,828 hektarë sipërfaqe pyjore, një shifër më e ulët se dy vitet e kaluara, por vatrat mbeten aktive. Inxhinieri i pyjeve, Elvin Toromani, deklaroi në emisionin “News Room” se rastet janë shtuar ndjeshëm gjatë muajit gusht, duke prekur edhe zonat ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-30T18:15:42+00:00",
+      "dateStr": "30 Aug, 18:15",
+      "isNew": true,
+      "id": "abc51788113742"
+    },
+    {
+      "title": "Kush abuzon me çmimet?/ “Price Watch Albania”, eksperti: Duhen masa konkrete ndaj abuzimeve",
+      "link": "https://abcnews.al/kush-abuzon-me-cmimet-price-watch-albania-eksperti-duhen-masa-konkrete-ndaj-abuzimeve/",
+      "description": "Nisma më e re e prezantuar nga Ministria e Ekonomisë, e quajtur “Price Watch Albania”, synon t’u mundësojë qytetarëve shqiptarë monitorimin në kohë reale dhe transparencën e çmimeve të produkteve ushqimore. I ftuar në emisionin “News Room” në ABC News, eksperti i ekonomisë Ergis Sefa theksoi se plat",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-30T17:57:21+00:00",
+      "dateStr": "30 Aug, 17:57",
+      "isNew": true,
+      "id": "abc61788112641"
+    },
+    {
+      "title": "“Price Watch Albania”/ Rrapaj: Çështje kardinale për tregun dhe mbrojtjen sociale të qytetarëve",
+      "link": "https://abcnews.al/price-watch-albania-rrapaj-ceshtje-kardinale-per-tregun-dhe-mbrojtjen-sociale-te-qytetareve/",
+      "description": "Çmimet e produkteve ushqimore në Shqipëri pritet të jenë transparente dhe të monitorohen në kohë reale nga vetë qytetarët përmes nismës më të re të prezantuar nga Ministria e Ekonomisë, të quajtur “Price Watch Albania”. Përmes kësaj platforme online, konsumatorët do të kenë mundësi të krahasojnë çmi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-30T17:35:37+00:00",
+      "dateStr": "30 Aug, 17:35",
+      "isNew": true,
+      "id": "abc71788111337"
+    },
+    {
+      "title": "Makina ra në humnerë/ Kush është 20-vjeçari që humbi jetën, po kthehej nga Lura me dy të rinjtë që u sollën te Trauma",
+      "link": "https://shekulli.com.al/2026/08/30/makina-ra-ne-humnere-kush-eshte-20-vjecari-qe-humbi-jeten-po-kthehej-nga-lura-me-dy-te-rinjte-qe-u-sollen-te-trauma/",
+      "description": "Detaje të reja janë zbardhur nga aksidenti tragjik i ndodhur pasditen e sotme në Kurbnesh të Mirditës, ku një 20-vjeçar humbi jetën dhe dy persona të tjerë mbetën të plagosur rëndë. I riu që humbi jetën është identifikuar si Klaudio Ndoji, rreth 20 vjeç. Ai ishte pasagjer në automjetin me të cilin p",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-08-30T17:31:09+00:00",
+      "dateStr": "30 Aug, 17:31",
+      "isNew": true,
+      "id": "she41788111069"
+    },
+    {
+      "title": "Mojtaba Khamenei u bën thirrje shteteve myslimane të bashkohen kundër SHBA dhe Izraelit",
+      "link": "https://abcnews.al/mojtaba-khamenei-u-ben-thirrje-shteteve-myslimane-te-bashkohen-kunder-shba-dhe-izraelit/",
+      "description": "Një mesazh me shkrim, që i atribuohet liderit suprem të Iranit, Mojtaba Khameneit, u publikua në kanalin e tij në Telegram më 30 gusht, ku u bëhet thirrje vendeve myslimane të bashkohen kundër atyre që ai i përshkroi si “armiqtë tanë të vërtetë”, Shtetet e Bashkuara dhe Izraeli. Mesazhi u publikua n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-08-30T17:21:58+00:00",
+      "dateStr": "30 Aug, 17:21",
+      "isNew": true,
+      "id": "abc81788110518"
     },
     {
       "title": "Stambolli në qendër të sigurisë rajonale/ Të hënën mbahet takimi i parë i Paktit të Mekës",
@@ -56,62 +276,7 @@
       "date": "2026-08-30T16:59:33+00:00",
       "dateStr": "30 Aug, 16:59",
       "isNew": true,
-      "id": "abc01788109173"
-    },
-    {
-      "title": "Aksident tragjik në Mirditë! Makina del nga rruga dhe përfundon në greminë, 1 viktimë dhe 2 të plagosur",
-      "link": "https://24-ore.com/aksident-tragjik-ne-mirdite-makina-del-nga-rruga-dhe-perfundon-ne-gremine-1-viktime-dhe-2-te-plagosur/",
-      "description": "Një aksident i rëndë automobilistik ka ndodhur në aksin Lurë–Rrëshen, në fshatin Kurbnesh të Mirditës, ku një 20-vjeçar ka humbur jetën dhe dy persona të tjerë kanë mbetur të plagosur. Sipas njoftimit të Policisë, automjeti drejtohej nga shtetasi A. K., rreth 20 vjeç, kur ka dalë nga rruga. Si pasoj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-30T16:48:17+00:00",
-      "dateStr": "30 Aug, 16:48",
-      "isNew": true,
-      "id": "24 41788108497"
-    },
-    {
-      "title": "Tabaku i përgjigjet MIA-s: Shfuqizoni ligjin për zonat e mbrojtura, këtë kërkon Europa dhe protestuesit",
-      "link": "https://24-ore.com/tabaku-i-pergjigjet-mia-s-shfuqizoni-ligjin-per-zonat-e-mbrojtura-kete-kerkon-europa-dhe-protestuesit/",
-      "description": "Pasi Agjencia për Media dhe Informim e cilësoi të rremë ripostimin e deputetes demokrate Jorida Tabaku që i atribuohej kryeministrit Edi Rama, ka ardhur edhe reagimi i deputetes. Në një postim në rrjetet sociale, Tabaku thekson se kërkesa e Parlamentit Europian për shfuqizimin e ndryshimeve në ligji",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-30T16:48:01+00:00",
-      "dateStr": "30 Aug, 16:48",
-      "isNew": true,
-      "id": "24 51788108481"
-    },
-    {
-      "title": "TEHERAN – Lufta në Iran dhe LM: Khamenei bën thirrje për bashkim kundër SHBA-së dhe Izraelit",
-      "link": "https://24-ore.com/teheran-lufta-ne-iran-dhe-lm-khamenei-ben-thirrje-per-bashkim-kunder-shba-se-dhe-izraelit/",
-      "description": "&#8211; Udhëheqësi i ri suprem i Iranit, Ayatollah Mojtaba Khamenei, u bëri thirrje vendeve myslimane të bashkohen kundër Izraelit dhe Shteteve të Bashkuara të Amerikës, raportoi AP. Në një letër drejtuar udhëheqësve fetarë, ai i cilësoi SHBA-në dhe Izraelin si “armiq të të gjitha vendeve islame”. U",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-30T16:45:57+00:00",
-      "dateStr": "30 Aug, 16:45",
-      "isNew": true,
-      "id": "24 61788108357"
-    },
-    {
-      "title": "Miami Marlins – Washington Nationals, 30 gusht 2026: ndeshje e ngushtë në pjesën e dytë",
-      "link": "https://24-ore.com/miami-marlins-washington-nationals-30-gusht-2026-ndeshje-e-ngushte-ne-pjesen-e-dyte/",
-      "description": "Miami Marlins dhe Washington Nationals u përballën më 30 gusht 2026 në një ndeshje të zhvilluar me intensitet të ulët në aspektin e goditjeve, ku rezultati...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-30T16:40:58+00:00",
-      "dateStr": "30 Aug, 16:40",
-      "isNew": true,
-      "id": "24 71788108058"
-    },
-    {
-      "title": "Aksident i rëndë në Mirditë/ Ndërron jetë 20-vjeçari, dy të lënduarit dërgohen drejt Traumës",
-      "link": "https://abcnews.al/aksident-i-rende-ne-mirdite-nderron-jete-20-vjecari-dy-te-lenduarit-dergohen-drejt-traumes/",
-      "description": "Një aksident i rëndë rrugor ka ndodhur pasditen e kësaj të diele në Kurbnesh të Mirditës. Sipas njoftimit nga policia, automjeti që drejtohej nga shtetasi A. K., rreth 20 vjeç, ka dalë nga rruga. Si pasojë, shtetasi C. N., rreth 20 vjeç, pasagjer në automjet, ka ndërruar jetë. Ndërkohë, drejtuesi i ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-30T16:38:10+00:00",
-      "dateStr": "30 Aug, 16:38",
-      "isNew": true,
-      "id": "abc11788107890"
+      "id": "abc91788109173"
     },
     {
       "title": "Tragjedi në Qipro/ Përmbyset trageti me 267 persona në bord, 7 të vdekur dhe 23 të zhdukur",
@@ -122,40 +287,7 @@
       "date": "2026-08-30T16:37:57+00:00",
       "dateStr": "30 Aug, 16:37",
       "isNew": true,
-      "id": "she01788107877"
-    },
-    {
-      "title": "Gjatë 24 orëve policia ka privuar nga liria 18 shoferë për vozitje të pakujdesshme",
-      "link": "https://24-ore.com/gjate-24-oreve-policia-ka-privuar-nga-liria-18-shofere-per-vozitje-te-pakujdesshme/",
-      "description": "Kamerat e “Safe City” nuk tolerojnë vozitjet e pakujdesshme në trafik. Ata kanë kapur shtetasin serb, i cili në vendin tonë në dy raste, ku shpejtësia e lejuar ka qenë 80 k/h, ai ka vozitur mbi 160. Siç ka bërë me dije MPB, 34 vjeçari D.P. është privuar nga liria në Pikën Kufitare Tabanoc, në [&#823",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-30T16:37:44+00:00",
-      "dateStr": "30 Aug, 16:37",
-      "isNew": true,
-      "id": "24 81788107864"
-    },
-    {
-      "title": "Finneas dhe Claudia Sulewski u martuan në një ceremoni bregdetare në Montecito",
-      "link": "https://24-ore.com/finneas-dhe-claudia-sulewski-u-martuan-ne-nje-ceremoni-bregdetare-ne-montecito/",
-      "description": "Finneas dhe Claudia Sulewski kurorëzuan lidhjen e tyre me një ceremoni të hapur që u mbajt sot në Montecito, Kaliforni. Ceremoninë e udhëhoqi motra më e vo...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-08-30T16:36:15+00:00",
-      "dateStr": "30 Aug, 16:36",
-      "isNew": true,
-      "id": "24 91788107775"
-    },
-    {
-      "title": "El Nino po bëhet më ekstrem, shkencëtarët paralajmërojnë për pasoja globale",
-      "link": "https://abcnews.al/el-nino-po-behet-me-ekstrem-shkencetaret-paralajmerojne-per-pasoja-globale/",
-      "description": "Një studim i ri shkencor ka zbuluar se ngrohja globale e shkaktuar nga djegia e lëndëve djegëse fosile po e bën fenomenin El Nino më intensiv dhe më të paparashikueshëm, duke rritur rrezikun për valë të forta të të nxehtit, përmbytje, thatësira dhe krizë ushqimore në pjesë të ndryshme të botës. El N",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-30T16:20:35+00:00",
-      "dateStr": "30 Aug, 16:20",
-      "isNew": true,
-      "id": "abc21788106835"
+      "id": "she51788107877"
     },
     {
       "title": "Aksident tragjik në Kurbnesh/ Makina del nga rruga dhe bie në greminë, humb jetën 20 vjeçari, plagosen dy të tjerë",
@@ -166,29 +298,7 @@
       "date": "2026-08-30T16:15:47+00:00",
       "dateStr": "30 Aug, 16:15",
       "isNew": true,
-      "id": "she11788106547"
-    },
-    {
-      "title": "“Liqeni Ontario, tani dhe përgjithmonë”/ Kanadaja vendos tabelën e re në përgjigje të Trumpit",
-      "link": "https://abcnews.al/liqeni-ontario-tani-dhe-pergjithmone-kanadaja-vendos-tabelen-e-re-ne-pergjigje-te-trumpit/",
-      "description": "Një tabelë e madhe me mesazhin “Lake Ontario. Now and Always” – “Liqeni Ontario. Tani dhe përgjithmonë” është vendosur në bregun kanadez të Liqenit Ontario, në një përgjigje të drejtpërdrejtë ndaj vendimit të Presidentit amerikan Donald Trump për ta riemërtuar atë “Lake America”. Kryeministri i Onta",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-30T16:04:06+00:00",
-      "dateStr": "30 Aug, 16:04",
-      "isNew": true,
-      "id": "abc31788105846"
-    },
-    {
-      "title": "Përmbytja e anijes në Qipro/ Erdogan: Përpjekjet për shpëtimin e të mbijetuarve vijojnë pa ndërprerje",
-      "link": "https://abcnews.al/permbytja-e-anijes-ne-qipro-erdogan-perpjekjet-per-shpetimin-e-te-mbijetuarve-vijojne-pa-nderprerje/",
-      "description": "Presidenti i Turqisë, Recep Tayyip Erdogan, ka deklaruar se operacionet e kërkim-shpëtimit pas përmbysjes së një anijeje në Mesdhe po vijojnë pa ndërprerje. Anija ishte nisur nga Kyrenia, në veri të Qipros, me destinacion Tasucunë në Turqi. “Menjëherë pas aksidentit, ne nisëm operacione të gjera kër",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-30T15:45:39+00:00",
-      "dateStr": "30 Aug, 15:45",
-      "isNew": true,
-      "id": "abc41788104739"
+      "id": "she61788106547"
     },
     {
       "title": "‘Populli shqiptar ka zgjedhur Referendumin’/ Kush e shpërndau postimin e rremë të Ramës në X? Reagon Agjencia për Media dhe Informim",
@@ -199,40 +309,7 @@
       "date": "2026-08-30T15:41:26+00:00",
       "dateStr": "30 Aug, 15:41",
       "isNew": true,
-      "id": "she21788104486"
-    },
-    {
-      "title": "News Hour me Fabiola Hoxha, (30/08/2026)",
-      "link": "https://abcnews.al/news-hour-me-fabiola-hoxha-30-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-30T15:40:45+00:00",
-      "dateStr": "30 Aug, 15:40",
-      "isNew": true,
-      "id": "abc51788104445"
-    },
-    {
-      "title": "News Line me Fabiola Hoxhën, (30/08/2026)",
-      "link": "https://abcnews.al/news-line-me-fabiola-hoxhen-30-08-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-30T15:27:24+00:00",
-      "dateStr": "30 Aug, 15:27",
-      "isNew": true,
-      "id": "abc61788103644"
-    },
-    {
-      "title": "Erjona Ismaili jep dorëheqjen si bashkëkryetare e PS në Vlorë",
-      "link": "https://abcnews.al/erjona-ismaili-jep-doreheqjen-si-bashkekryetare-e-ps-ne-vlore/",
-      "description": "Ministrja e Shtetit për Marrëdhëniet me Parlamentin, Erjona Ismaili ka dhënë dorëheqjen si bashkëkryetare e PS-së në Vlorë. Përmes një postimi në rrjetin social Facebook, Ismaili thotë se dha dorëheqjen nga ky post në kuadër të fazës së fundit të riorganizimit të PS-së, duke i hapur rrugë procesit d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-30T15:19:17+00:00",
-      "dateStr": "30 Aug, 15:19",
-      "isNew": true,
-      "id": "abc71788103157"
+      "id": "she71788104486"
     },
     {
       "title": "“Çfarë bastardësh”, rrahja e kamarierit që kërkoi pagën, gazetari: Ata katër dhunuesit kanë fshirë kamerat, të isha në vend të ministrave…",
@@ -243,29 +320,7 @@
       "date": "2026-08-30T14:55:17+00:00",
       "dateStr": "30 Aug, 14:55",
       "isNew": true,
-      "id": "she31788101717"
-    },
-    {
-      "title": "Ebola vijon të përhapet në Kongo, mbi 2.800 viktima",
-      "link": "https://abcnews.al/ebola-vijon-te-perhapet-ne-kongo-mbi-2-800-viktima/",
-      "description": "Epidemia e virusit Ebola në Republikën Demokratike të Kongos vazhdon të përkeqësohet, ndërsa numri i viktimave ka tejkaluar 2.800. Autoritetet shëndetësore kanë raportuar mijëra raste të konfirmuara në disa provinca të vendit. Të dhënat e fundit, të publikuara të dielën nga Ministria e Shëndetësisë,",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-30T14:54:57+00:00",
-      "dateStr": "30 Aug, 14:54",
-      "isNew": true,
-      "id": "abc81788101697"
-    },
-    {
-      "title": "Marina mbretërore kaloi tre ditë duke ndjekur anijet ruse në ujërat e Mbretërisë së Bashkuar",
-      "link": "https://abcnews.al/marina-mbreterore-kaloi-tre-dite-duke-ndjekur-anijet-ruse-ne-ujerat-e-mbreterise-se-bashkuar/",
-      "description": "Është zbuluar se Marina Mbretërore kaloi tre ditë duke ndjekur anijet ruse ndërsa ato kalonin nëpër ujërat e Mbretërisë së Bashkuar. Operacioni &#8220;intensiv&#8221; 72-orësh u zhvillua javën e kaluar, me radarë të përdorur për të monitoruar katër anije që u nisën nga Deti i Veriut deri në Kanal. F",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-08-30T14:29:17+00:00",
-      "dateStr": "30 Aug, 14:29",
-      "isNew": true,
-      "id": "abc91788100157"
+      "id": "she81788101717"
     },
     {
       "title": "Lëvizje në PS/ Ismaili jep dorëheqjen si bashkëkryetare e partisë në Vlorë, Kaso për SHEKULLI-n: Uroj të ngjisë sa më shumë shkallë drejtuese…",
@@ -276,62 +331,7 @@
       "date": "2026-08-30T14:25:49+00:00",
       "dateStr": "30 Aug, 14:25",
       "isNew": true,
-      "id": "she41788099949"
-    },
-    {
-      "title": "Aeroporti i Tiranës thyen rekordin/ Mbi 1.7 milion pasagjerë vetëm në muajin Gusht",
-      "link": "https://shekulli.com.al/2026/08/30/aeroporti-i-tiranes-thyen-rekordin-mbi-1-milion-pasagjere-vetem-ne-gusht/",
-      "description": "Aeroporti Ndërkombëtar i Tiranës ka shënuar një tjetër rekord në fluksin e udhëtarëve, me më shumë se 1.7 milion pasagjerë të përpunuar vetëm gjatë muajit gusht. Shifra është bërë publike nga ministri i Ekonomisë, Kulturës dhe Inovacionit, Blendi Gonxhja, i cili e ka cilësuar këtë rritje si një mund",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-30T13:59:55+00:00",
-      "dateStr": "30 Aug, 13:59",
-      "isNew": true,
-      "id": "she51788098395"
-    },
-    {
-      "title": "HEROI I PËRMBYTJEVE/ Drejtori shpëtoi 900 nxënës pasi mori katër telefonata paralajmëruese, lumi përfshiu shkollën",
-      "link": "https://shekulli.com.al/2026/08/30/heroi-i-permbytjeve-drejtori-shpetoi-900-nxenes-pasi-mori-kater-telefonata-paralajmeruese-lumi-perfshiu-shkollen/",
-      "description": "Një vendim i marrë në vetëm pak minuta ka shpëtuar qindra jetë në Nepal. Drejtori i një shkolle në Nuwakot, Rajendra Dawadi, urdhëroi evakuimin e rreth 900 nxënësve pasi mori disa telefonata që e paralajmëronin për rrezikun e një përmbytjeje të fuqishme. Dawadi, drejtuesi i shkollës së mesme Tribhuv",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-30T13:52:58+00:00",
-      "dateStr": "30 Aug, 13:52",
-      "isNew": true,
-      "id": "she61788097978"
-    },
-    {
-      "title": "“Mos ki frikë, do të të mposht me nokaut!”/ Nelson Hysa sfidon kampionin e botës, Kabayel: Hajde në Gjermani, jam gati",
-      "link": "https://shekulli.com.al/2026/08/30/mos-ki-frike-do-te-te-mposht-me-nokaut-nelson-hysa-sfidon-kampionin-e-botes-kabayel-hajde-ne-gjermani-jam-gati/",
-      "description": "Pas nokautit spektakolar në raundin e dytë ndaj norvegjezit Thomas Narmo në “O2 Arena”, Nelson Hysa kërkoi menjëherë sfidën e radhës. Boksieri shqiptar iu drejtua kampionit të botës, Agit Kabayel, duke i bërë një sfidë të drejtpërdrejtë përballë ringut. Tensioni mes dy boksierëve u rrit brenda pak s",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-30T13:36:55+00:00",
-      "dateStr": "30 Aug, 13:36",
-      "isNew": true,
-      "id": "she71788097015"
-    },
-    {
-      "title": "FSHF dënon dhunën në Elbasan-Vllaznia/ Presidenti Alban Xhaferri akuzohet se goditi asistentin e arbitrit",
-      "link": "https://shekulli.com.al/2026/08/30/fshf-denon-dhunen-ne-elbasan-vllaznia-presidenti-alban-xhaferri-akuzohet-se-goditi-asistentin-e-arbitrit/",
-      "description": "Federata Shqiptare e Futbollit ka reaguar ashpër pas incidentit të ndodhur në përfundim të ndeshjes AF Elbasani–Vllaznia, ku, sipas FSHF-së, presidenti i klubit shkodran, Alban Xhaferri, ka goditur fizikisht një prej asistentëve të arbitrit. Institucioni i futbollit shqiptar e ka cilësuar ngjarjen s",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-30T13:31:25+00:00",
-      "dateStr": "30 Aug, 13:31",
-      "isNew": true,
-      "id": "she81788096685"
-    },
-    {
-      "title": "Tragjedi në Poliçan/ Shembet masivi i dheut gjatë hapjes së pusit, humb jetën 31-vjeçari",
-      "link": "https://shekulli.com.al/2026/08/30/tragjedi-ne-polican-shembet-masivi-i-dheut-gjate-hapjes-se-pusit-humb-jeten-31-vjecari/",
-      "description": "Një punim për hapjen e një pusi uji është kthyer në tragjedi në Poliçan. Një masiv dheu është shembur papritur duke zënë poshtë një 31-vjeçar, i cili nuk ka mundur t’u mbijetojë plagëve të marra. Ngjarja e rëndë ka ndodhur në fshatin Zhitom të Poliçanit, ku shtetasi B. K., 31 vjeç, po kryente punime",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-08-30T12:46:10+00:00",
-      "dateStr": "30 Aug, 12:46",
-      "isNew": true,
-      "id": "she91788093970"
+      "id": "she91788099949"
     },
     {
       "title": "Rama kërkon mbledhje urgjente me deputetët e PS ditën e shtunë, zbulohet agjenda",
