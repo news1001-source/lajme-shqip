@@ -1,29 +1,227 @@
 {
-  "lastUpdated": "2026-09-01T20:26:36.952160+00:00",
+  "lastUpdated": "2026-09-01T22:56:53.921219+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Red Sox triumfojnë 9-8 ndaj Seattle Mariners pas shtesës në Fenway Park",
-      "link": "https://24-ore.com/red-sox-triumfojne-9-8-ndaj-seattle-mariners-pas-shteses-ne-fenway-park/",
-      "description": "Boston Red Sox fituan 9-8 ndaj Seattle Mariners në përballjen e 31 gushtit 2026, në një ndeshje që u vendos pas dhjetë inningësh. Ndeshja përfundoi me 12 g...",
+      "title": "Houston Dynamo transferon Jack McGlynn te Stoke City",
+      "link": "https://24-ore.com/houston-dynamo-transferon-jack-mcglynn-te-stoke-city/",
+      "description": "Houston Dynamo ka njoftuar transferimin e mesfushorit 23-vjeçar Jack McGlynn te Stoke City, skuadër që luan në EFL Championship. Sipas klubi, transferimi m...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-01T20:26:21+00:00",
-      "dateStr": "01 Sep, 20:26",
+      "date": "2026-09-01T22:41:12+00:00",
+      "dateStr": "01 Sep, 22:41",
       "isNew": true,
-      "id": "24 01788294381"
+      "id": "24 01788302472"
     },
     {
-      "title": "Tentativa për sulm me dron në aeroportin e Leipzig, reagon Rama: Akt agresioni rus ndaj Gjermanisë",
+      "title": "Penta fiton finalen e turneut dhe do të sfidojë Roman Reigns më 14 shtator në Mexico City",
+      "link": "https://24-ore.com/penta-fiton-finalen-e-turneut-dhe-do-te-sfidoje-roman-reigns-me-14-shtator-ne-mexico-city/",
+      "description": "WWE transmetoi një episod të regjistruar nga Cleveland, ku përballja kryesore ishte finalja e turneut për pretendentin numër 1 ndaj titullit të Botës së Pe...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-01T22:40:37+00:00",
+      "dateStr": "01 Sep, 22:40",
+      "isNew": true,
+      "id": "24 11788302437"
+    },
+    {
+      "title": "Shqipëria shet 4.89 miliardë lekë bono dhe obligacione qeveritare, rriten interesat në ankandet e fundit",
+      "link": "https://24-ore.com/shqiperia-shet-4-89-miliarde-leke-bono-dhe-obligacione-qeveritare-rriten-interesat-ne-ankandet-e-fundit/",
+      "description": "Qeveria shqiptare ka shitur 4.89 miliardë lekë tituj qeveritarë në dy ankande të zhvilluara më 1 shtator 2026, duke siguruar financim përmes obligacioneve afatgjata dhe bonove me maturim në vitin 2028. Lajmi është publikuar nga media ekonomike ndërkombëtare SeeNews, duke iu referuar të dhënave të Ba",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-01T22:39:52+00:00",
+      "dateStr": "01 Sep, 22:39",
+      "isNew": true,
+      "id": "24 21788302392"
+    },
+    {
+      "title": "San Francisco Giants vizitojnë Pittsburgh Pirates — Webb përballet me Skenes në PNC Park",
+      "link": "https://24-ore.com/san-francisco-giants-vizitojne-pittsburgh-pirates-webb-perballet-me-skenes-ne-pnc-park/",
+      "description": "Më 1 shtator 2026, San Francisco Giants udhëtuan për në PNC Park të Pittsburgh-ut për të përballuar ekipin vendas, Pittsburgh Pirates. Startuesët e ndeshje...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-01T22:31:08+00:00",
+      "dateStr": "01 Sep, 22:31",
+      "isNew": true,
+      "id": "24 31788301868"
+    },
+    {
+      "title": "Inside World Football: Federata Shqiptare dënon sulmin ndaj arbitrit pas Elbasani–Vllaznia, presidenti i klubit shkodran në qendër të incidentit",
+      "link": "https://24-ore.com/inside-world-football-federata-shqiptare-denon-sulmin-ndaj-arbitrit-pas-elbasani-vllaznia-presidenti-i-klubit-shkodran-ne-qender-te-incidentit/",
+      "description": "Një incident i rëndë në futbollin shqiptar ka kaluar kufijtë e medias vendase dhe është raportuar më 1 shtator 2026 nga media ndërkombëtare e specializuar Inside World Football. Në qendër të ngjarjes është presidenti i Vllaznisë, Alban Xhaferri, i cili akuzohet se ka goditur fizikisht një nga arbitr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-01T22:23:22+00:00",
+      "dateStr": "01 Sep, 22:23",
+      "isNew": true,
+      "id": "24 41788301402"
+    },
+    {
+      "title": "Vëllai godet me sëpatë vëllain në Korçë, arrestohet pak minuta pas ngjarjes",
+      "link": "https://24-ore.com/vellai-godet-me-sepate-vellain-ne-korce-arrestohet-pak-minuta-pas-ngjarjes/",
+      "description": "Një konflikt mes dy vëllezërve ka përfunduar me plagosjen e njërit prej tyre në lagjen nr. 13 të qytetit të Korçës. Ngjarja ka ndodhur në banesë, për motive të dobëta, ku njëri prej vëllezërve, i cili raportohet se ka probleme të shëndetit mendor, ka goditur me sëpatë vëllain e tij. Pas ngjarjes, au",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-01T22:20:18+00:00",
+      "dateStr": "01 Sep, 22:20",
+      "isNew": true,
+      "id": "24 51788301218"
+    },
+    {
+      "title": "FNSH zbarkon te komisariati Nr. 3, tensione pas shoqërimit të protestuesve",
+      "link": "https://24-ore.com/fnsh-zbarkon-te-komisariati-nr-3-tensione-pas-shoqerimit-te-protestuesve/",
+      "description": "Pas protestës te Kryeministria, protestuesit janë zhvendosur pranë Komisariatit nr. 3 në Tiranë, ku po mbahen disa prej personave të shoqëruar gjatë protestës. Në total, mbi 10 persona janë shoqëruar nga policia. Një pjesë e tyre po mbahen në Komisariatin nr. 1, ndërsa të tjerët në Komisariatin nr. ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-01T22:19:52+00:00",
+      "dateStr": "01 Sep, 22:19",
+      "isNew": true,
+      "id": "24 61788301192"
+    },
+    {
+      "title": "Tensionet te komisariati Nr. 3, një person transportohet me ambulancë",
+      "link": "https://24-ore.com/tensionet-te-komisariati-nr-3-nje-person-transportohet-me-ambulance/",
+      "description": "Pas protestës te Kryeministria, tensionet mes protestuesve dhe policisë janë zhvendosur pranë Komisariatit nr. 3, në rrugën “Mine Peza”. Protestuesit u mblodhën para komisariatit pas shoqërimit të mbi 10 personave gjatë tubimit të sotëm, ku u rrethua godina e Kryeministrisë. Në zonë pati përplasje m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-01T22:19:42+00:00",
+      "dateStr": "01 Sep, 22:19",
+      "isNew": true,
+      "id": "24 71788301182"
+    },
+    {
+      "title": "Protesta para Kryeministrisë, Berisha: Stop dhunës ndaj protestuesve",
+      "link": "https://24-ore.com/protesta-para-kryeministrise-berisha-stop-dhunes-ndaj-protestuesve/",
+      "description": "Kryetari i Partisë Demokratike, Sali Berisha, ka reaguar pas protestës së zhvilluar mbrëmjen e sotme, duke akuzuar kryeministrin Edi Rama dhe policinë për ushtrim dhune ndaj protestuesve. Në një deklaratë të Partisë Demokratike, Berisha pretendon se kryeministri provokoi protestuesit nga zyra e tij ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-01T22:19:33+00:00",
+      "dateStr": "01 Sep, 22:19",
+      "isNew": true,
+      "id": "24 81788301173"
+    },
+    {
+      "title": "“Nuk vrasim liderët në Ukrainë, sepse me dikë duhet të flasim”, Putin: A mund të godasim objektiva në Britani? Është sekret ushtarak",
+      "link": "https://24-ore.com/nuk-vrasim-lideret-ne-ukraine-sepse-me-dike-duhet-te-flasim-putin-a-mund-te-godasim-objektiva-ne-britani-eshte-sekret-ushtarak/",
+      "description": "Presidenti rus Vladimir Putin ka deklaruar se Rusia nuk po kryen sulme ndaj udhëheqjes ukrainase, duke argumentuar se duhet të ketë persona me të cilët të zhvillohen bisedime nëse Kievi vendos të ndjekë rrugën e paqes. Në konferenën më gazetarët në Kirgistan, i pyetur nëse udhëheqja ukrainase gëzon ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-01T22:19:23+00:00",
+      "dateStr": "01 Sep, 22:19",
+      "isNew": true,
+      "id": "24 91788301163"
+    },
+    {
+      "title": "“War Report” me Sali Doçin, (01/09/2026)",
+      "link": "https://abcnews.al/pas-pak-war-report-na-ndiqni-live-ne-abc-news-8/",
+      "description": "Abc News Live [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-01T21:48:35+00:00",
+      "dateStr": "01 Sep, 21:48",
+      "isNew": true,
+      "id": "abc01788299315"
+    },
+    {
+      "title": "Përplasen me policinë, nisin arrestimet/ Policia çon në komisariat 11 protestues, tentuan të bllokojnë Kryeministrinë",
+      "link": "https://abcnews.al/perplasen-me-policine-nisin-arrestimet-policia-con-ne-komisariat-11-protestues-tentuan-te-bllokojne-kryeministrine/",
+      "description": "Protesta e 94-t në Tiranë u shoqërua këtë të martë me tensione dhe përplasje mes protestuesve dhe forcave të Policisë së Shtetit. Tubimi nisi para Kryeministrisë, por më pas një grup protestuesish u zhvendos drejt hyrjeve të pasme të godinës, duke tentuar t’i afrohej Kryeministrisë. Policia ndërhyri",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-01T21:36:53+00:00",
+      "dateStr": "01 Sep, 21:36",
+      "isNew": true,
+      "id": "abc11788298613"
+    },
+    {
+      "title": "Berisha kalon oqeanin/ Beqiri: Nuk i është hequr ‘non grata’ nga SHBA. Biletë 100 milionë dollarë nga korrupsioni",
+      "link": "https://abcnews.al/berisha-kalon-oqeanin-beqiri-nuk-i-eshte-hequr-non-grata-nga-shba-bilete-100-milione-dollare-nga-korrupsioni/",
+      "description": "Lajmi se Sali Berisha ka marrë një vizë shtatëditore për të udhëtuar drejt Shteteve të Bashkuara të Amerikës ka nxitur reagime të forta politike dhe publike. I ftuar në “Ora e Fundit” në ABC News, avokati Idajet Beqiri e cilësoi këtë zhvillim si një përpjekje për të fshehur përgjegjësitë e tij, duke",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-01T21:33:28+00:00",
+      "dateStr": "01 Sep, 21:33",
+      "isNew": true,
+      "id": "abc21788298408"
+    },
+    {
+      "title": "Rritet kufiri moshor për policinë/ Ndryshojnë kriteret e pranimit, deri në 35 vjeç për patrullën",
+      "link": "https://abcnews.al/rritet-kufiri-moshor-per-policine-ndryshojne-kriteret-e-pranimit-deri-ne-35-vjec-per-patrullen/",
+      "description": "Mosha nuk do të jetë më një pengesë për të gjithë ata që duan t’i bashkohen Policisë së Shtetit. Ministri i Brendshëm, Besfort Lamallari, ka firmosur urdhrin që rishikon kufirin e moshës për pranimin në Polici dhe zgjeron mundësitë për aplikantët. Sipas ndryshimeve të reja, kandidatët që kanë përfun",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-01T21:07:03+00:00",
+      "dateStr": "01 Sep, 21:07",
+      "isNew": true,
+      "id": "abc31788296823"
+    },
+    {
+      "title": "Tensionohet situata te Komisariati 3, përplasje mes policisë dhe protestuesve, disa të shoqëruar me dhunë",
+      "link": "https://shekulli.com.al/2026/09/01/tensionohet-situata-te-komisariati-3-perplasje-mes-policise-dhe-protestuesve-disa-te-shoqeruar-me-dhune/",
+      "description": "TIRANË &#8211; Policia ka arrestuar disa protestues dhe ka tentuar të shpërndajë protestën e zhvendosur sot nga Bulevardi Dëshmorët e Kombit përballë Komisariatit numër 3. Situata është tensionuar gjatë protestës, ku efektivët e policisë u kanë bërë thirrje qytetarëve: “Hapni rrugën!”. Pas thirrjes,",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-01T21:06:14+00:00",
+      "dateStr": "01 Sep, 21:06",
+      "isNew": true,
+      "id": "she01788296774"
+    },
+    {
+      "title": "Kosovë/ Gjashtë deputetë të LDK-së kundër Bekim Sejdiut për president, Kurti: Marrëveshja qëndron, veprim negativ i tyre",
+      "link": "https://shekulli.com.al/2026/09/01/kosove-gjashte-deputete-te-ldk-se-kunder-bekim-sejdiut-per-president-kurti-marreveshja-qendron-veprim-negativ-i-tyre/",
+      "description": "PRISHTINË &#8211; Kryeministri në detyrë i Kosovës, Albin Kurti, ka reaguar pas qëndrimit të gjashtë deputetëve të Lidhjes Demokratike të Kosovës (LDK), të cilët kanë deklaruar se nuk do ta votojnë Bekim Sejdiun për president. Kurti tha se qëndrimi i deputetëve të LDK-së duket se lidhet më shumë me ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-01T20:48:53+00:00",
+      "dateStr": "01 Sep, 20:48",
+      "isNew": true,
+      "id": "she11788295733"
+    },
+    {
+      "title": "Konflikt mes dy vëllezërve në Korçë, një i plagosur me sëpatë",
+      "link": "https://abcnews.al/konflikt-mes-dy-vellezerve-ne-korce-nje-i-plagosur-me-sepate/",
+      "description": "Një konflikt mes dy vëllezërve ka përfunduar me plagosjen e njërit prej tyre në Korçë. Ngjarja mësohet se ka ndodhur në banesë, në lagjen nr 13 për motive të dobëta, ku njëri prej vëllezërve ka goditur me sëpatë të afërmin e tij. Pas ngjarjes, autori është larguar nga banesa, por është kapur pak min",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-01T20:44:59+00:00",
+      "dateStr": "01 Sep, 20:44",
+      "isNew": true,
+      "id": "abc41788295499"
+    },
+    {
+      "title": "Edicioni Qendror me Juli Krisafi, (01/09/2026)",
+      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-01-09-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-01T20:36:33+00:00",
+      "dateStr": "01 Sep, 20:36",
+      "isNew": true,
+      "id": "abc51788294993"
+    },
+    {
+      "title": "Sherr brenda familjes në Korçë, vëllai plagos vëllanë me sëpatë, arrestohet autori",
+      "link": "https://shekulli.com.al/2026/09/01/sherr-brenda-familjes-ne-korce-vellai-plagos-vellane-me-sepate-arrestohet-autori/",
+      "description": "Një konflikt mes dy vëllezërve ka përfunduar me plagosjen e njërit prej tyre mbrëmjen e sotme në lagjen nr. 13 të qytetit të Korçës. Sipas të dhënave paraprake, ngjarja ka ndodhur brenda banesës së familjes, ku dy vëllezërit janë përfshirë në një konflikt për motive të dobëta. Gjatë përplasjes, njër",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-01T20:35:31+00:00",
+      "dateStr": "01 Sep, 20:35",
+      "isNew": true,
+      "id": "she21788294931"
+    },
+    {
+      "title": "Rama: Akt agresioni rus kundër Gjermanisë/ “Solidaritet me popullin gjerman, s’ka hezitim përballë luftës hibride”",
       "link": "https://abcnews.al/tentativa-per-sulm-me-dron-ne-aeroportin-e-leipzig-reagon-rama-akt-agresioni-rus-ndaj-gjermanise/",
-      "description": "Kryeministri Edi Rama ka reaguar pas tentativës së një sulmi me dron të mbushur me eksplozivë në aeroportin e Leipzig/Halle në Gjermani. Rama e ka cilësuar ngjarjen si një akt agresioni rus ndaj Gjermanisë dhe sigurisë së Evropës. Përmes një postimi në rrjetet sociale, ai ka shprehur solidaritetin e",
+      "description": "Kryeministri Edi Rama ka reaguar lidhur me tentativën për një sulm me dron të mbushur me eksplozivë në aeroportin Leipzig/Halle, në Gjermani. Rama e ka konsideruar këtë ngjarje si një akt agresioni rus ndaj Gjermanisë dhe sigurisë së Evropës. Nëpërmjet një postimi në rrjetet sociale, kreu i qeverisë",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-09-01T20:25:12+00:00",
       "dateStr": "01 Sep, 20:25",
       "isNew": true,
-      "id": "abc01788294312"
+      "id": "abc61788294312"
     },
     {
       "title": "Sulmi me dron në aeroportin e Leipzigut, Rama: Nuk ndodhi në zonë gri, është akt agresioni rus kundër sigurisë së Evropës",
@@ -34,73 +232,7 @@
       "date": "2026-09-01T20:21:20+00:00",
       "dateStr": "01 Sep, 20:21",
       "isNew": true,
-      "id": "she01788294080"
-    },
-    {
-      "title": "Harry Styles dhe Zoë Kravitz drejt altarit: Zbulohen detajet e dasmës së tyre",
-      "link": "https://24-ore.com/harry-styles-dhe-zoe-kravitz-drejt-altarit-zbulohen-detajet-e-dasmes-se-tyre/",
-      "description": "Harry Styles dhe Zoë Kravitz duan që ceremonia e tyre e martesës të jetë e vogël dhe intime, por kur vjen puna te festimet, çifti duket se ka plane shumë më të mëdha. Një burim pranë çiftit ka treguar për PEOPLE se ata dëshirojnë “festa të mëdha” me muzikë live dhe shumë kërcime, ndërsa mbi [&#8230;",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-01T20:17:24+00:00",
-      "dateStr": "01 Sep, 20:17",
-      "isNew": true,
-      "id": "24 11788293844"
-    },
-    {
-      "title": "“A ishte kjo në tokë të vjedhur?”/ Billie Eilish kritikohet për dasmën e vëllait",
-      "link": "https://24-ore.com/a-ishte-kjo-ne-toke-te-vjedhur-billie-eilish-kritikohet-per-dasmen-e-vellait/",
-      "description": "Billie Eilish është përfshirë në një valë kritikash në rrjetet sociale pasi drejtoi ceremoninë e martesës së vëllait të saj, Finneas O’Connell, në një pronë që dikur i përkiste komuniteteve indigjene amerikane. Ceremonia u zhvillua të shtunën në rezidencën luksoze San Ysidro Ranch, në Montecito, Kal",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-01T20:17:21+00:00",
-      "dateStr": "01 Sep, 20:17",
-      "isNew": true,
-      "id": "24 21788293841"
-    },
-    {
-      "title": "Mbyllet dita e 94-t e protestës te Kryeministria, 10 persona të shoqëruar pas përplasjeve, disa efektivë të lënduar! Tubu",
-      "link": "https://24-ore.com/mbyllet-dita-e-94-t-e-protestes-te-kryeministria-10-persona-te-shoqeruar-pas-perplasjeve-disa-efektive-te-lenduar-tubu/",
-      "description": "Protesta e ditës së 94-t pati tensione e përplasje para Kryeministrisë, pasi tubuesit sulmuan Policinë me gurë dhe tentuan të hynin në godinën qeveritare me forcë. Pas përplasjes së protestuesve me gardhin policor të vendosur përpara godinës, Policia e Shtetit ka nisur edhe shoqërimet. Deri më tani ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-01T20:16:33+00:00",
-      "dateStr": "01 Sep, 20:16",
-      "isNew": true,
-      "id": "24 31788293793"
-    },
-    {
-      "title": "Protestuesit largohen nga bulevardi, Rama lë Kryeministrinë nën masa të rrepta sigurie!",
-      "link": "https://24-ore.com/protestuesit-largohen-nga-bulevardi-rama-le-kryeministrine-nen-masa-te-rrepta-sigurie/",
-      "description": "Pas përfundimit të protestës së 94-të dhe nisjes së marshimit të protestuesve në drejtim të Komisariatit nr. 1, kryeministri Edi Rama ka dalë nga ambientet e Kryeministrisë. Rama është larguar nga godina nën masa të rrepta sigurie, ndërsa në zonën përreth vijonte prania e shtuar e forcave të Policis",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-01T20:16:23+00:00",
-      "dateStr": "01 Sep, 20:16",
-      "isNew": true,
-      "id": "24 41788293783"
-    },
-    {
-      "title": "UASHINGTON – SHBA-ja planifikon sanksione të reja ndaj bankave në kuadër të presionit ndaj Iranit",
-      "link": "https://24-ore.com/uashington-shba-ja-planifikon-sanksione-te-reja-ndaj-bankave-ne-kuader-te-presionit-ndaj-iranit/",
-      "description": "UASHINGTON, 1 shtator /ATSH-DPA/- Shtetet e Bashkuara të Amerikës pritet të vendosin së shpejti sanksione ndaj bankave, si pjesë e presionit të shtuar ekonomik ndaj Iranit. Sekretari amerikan i Thesarit, Scott Bessent, tha sot se masat e reja pritet të shpallen këtë javë, ndërsa masa të tjera do të ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-01T20:16:10+00:00",
-      "dateStr": "01 Sep, 20:16",
-      "isNew": true,
-      "id": "24 51788293770"
-    },
-    {
-      "title": "FOKUS – Xi mbërrin në Egjipt për vizitën e parë në 10 vjet",
-      "link": "https://24-ore.com/fokus-xi-mberrin-ne-egjipt-per-viziten-e-pare-ne-10-vjet/",
-      "description": "KAJRO, 1 shtator /ATSH -AA/ – Presidenti kinez, Xi Jinping, ka mbërritur në mbrëmje në Kajro për vizitën e tij të parë zyrtare në Egjipt në 10 vjet. Sipas një korrespondenti të Anadolu-t, presidenti egjiptian, Abdel Fattah al-Sisi, e priti presidentin Xi në Aeroportin Ndërkombëtar të Kajros. Dy lide",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-01T20:15:58+00:00",
-      "dateStr": "01 Sep, 20:15",
-      "isNew": true,
-      "id": "24 61788293758"
+      "id": "she31788294080"
     },
     {
       "title": "Gjermania akuzon Rusinë për sulmin në aeroportin e Leipzigut, mbyll konsullatën ruse në Bon",
@@ -111,7 +243,7 @@
       "date": "2026-09-01T20:13:34+00:00",
       "dateStr": "01 Sep, 20:13",
       "isNew": true,
-      "id": "she11788293614"
+      "id": "she41788293614"
     },
     {
       "title": "VIDEO/ Protestuesit e bllokuan për 2 orë në zyrë, kryeministri Rama largohet nën masa të rrepta sigurie",
@@ -122,29 +254,7 @@
       "date": "2026-09-01T20:09:41+00:00",
       "dateStr": "01 Sep, 20:09",
       "isNew": true,
-      "id": "she21788293381"
-    },
-    {
-      "title": "Prokuroria kërkon paraburgim për 19-vjeçarin që theri me thikë një të mitur",
-      "link": "https://24-ore.com/prokuroria-kerkon-paraburgim-per-19-vjecarin-qe-theri-me-thike-nje-te-mitur/",
-      "description": "Prokuroria Themelore Publike në Shkup lëshoi Urdhër për të zhvilluar procedurë hetimore kundër një personi 19-vjeçar të dyshuar për kryerjen e veprës penale &#8220;Dhunë&#8221;. &#8220;I dyshuari dhe vëllai i tij i mitur, i cili është nën kufirin ligjor për përgjegjësi penale, kryen akte dhune që sh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-01T20:08:54+00:00",
-      "dateStr": "01 Sep, 20:08",
-      "isNew": true,
-      "id": "24 71788293334"
-    },
-    {
-      "title": "Platforma holandeze e turizmit: Shqipëria, destinacioni më i lirë i ngrohtë për pushime në shtator dhe tetor",
-      "link": "https://24-ore.com/platforma-holandeze-e-turizmit-shqiperia-destinacioni-me-i-lire-i-ngrohte-per-pushime-ne-shtator-dhe-tetor/",
-      "description": "Shqipëria rezulton destinacioni më ekonomik mes vendeve me klimë të ngrohtë për turistët holandezë që kërkojnë pushime gjatë muajve shtator dhe tetor 2026. Këtë e tregojnë të dhënat e publikuara më 1 shtator 2026 nga platforma holandeze e udhëtimeve Vakantieboekie, e cila ka krahasuar çmimet aktuale",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-01T20:05:50+00:00",
-      "dateStr": "01 Sep, 20:05",
-      "isNew": true,
-      "id": "24 81788293150"
+      "id": "she51788293381"
     },
     {
       "title": "Bllokuan hyrjen e kryeministrisë dhe u përplasën me policinë, protestuesit nisin marshimin drejt Komisariatit numër 1: Lironi të shoqëruarit",
@@ -155,7 +265,7 @@
       "date": "2026-09-01T19:58:22+00:00",
       "dateStr": "01 Sep, 19:58",
       "isNew": true,
-      "id": "she31788292702"
+      "id": "she61788292702"
     },
     {
       "title": "“BE është angazhuar në zgjerimin e Ballkanit Perëndimor”/ Edward P. Joseph: Shqipëria po ecën përpara",
@@ -166,29 +276,18 @@
       "date": "2026-09-01T19:56:01+00:00",
       "dateStr": "01 Sep, 19:56",
       "isNew": true,
-      "id": "abc11788292561"
+      "id": "abc71788292561"
     },
     {
-      "title": "Seattle Sounders huazon Osaze De Rosario te Sønderjyske në Superligën daneze",
-      "link": "https://24-ore.com/seattle-sounders-huazon-osaze-de-rosario-te-sonderjyske-ne-superligen-daneze/",
-      "description": "Seattle Sounders huazoi sulmuesin Osaze De Rosario te klubi danez i Superligës, Sønderjyske, në një marrëveshje që klubi njoftoi të martën.Sipas mlssoccer,...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-01T19:46:41+00:00",
-      "dateStr": "01 Sep, 19:46",
-      "isNew": true,
-      "id": "24 91788292001"
-    },
-    {
-      "title": "“Serbia kërkon të pengojë integrimin e Malit të Zi”/ Sulmet hibride, Edward P. Joseph: Shqipëria në shënjestër të Iranit",
+      "title": "Joesph: Shqipëria, në rrugën e duhur drejt BE/ Profesori amerikan: Mund të mbyllë kapitujt e negociatave brenda vitit",
       "link": "https://abcnews.al/serbia-kerkon-te-pengoje-integrimin-e-malit-te-zi-sulmet-hibride-edward-p-joseph-shqiperia-ne-shenjester-te-iranit/",
-      "description": "Në një intervistë për emisionin &#8220;War Report&#8221;, profesori i &#8220;Johns Hopkins University&#8221;, Edward P. Joseph, ka deklaruar se Serbia po ushtron një ndikim të fortë negativ mbi Malin e Zi përmes fushatave mediatike dhe narrativave destabilizuese. Sipas ekspertit amerikan, ka prova t",
+      "description": "Serbia është faktori kryesor i destabilizimit brenda rajonit të Ballkanit Perëndimor. Në një intervistë për ABC News, profesori Amerikan i Marrëdhënieve Ndërkombëtare në Universitetin Johns Hopkins në SHBA dhe ish i dërguari i SHBA për luftërat në Ish-Jugosllavi, Edward P. Joseph, komentoi raportime",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-09-01T19:38:23+00:00",
       "dateStr": "01 Sep, 19:38",
       "isNew": true,
-      "id": "abc21788291503"
+      "id": "abc81788291503"
     },
     {
       "title": "VIDEO/ Tensione te Kryeministria, Policia shoqëron Dritan Goxhajn dhe protestuesit e tjerë. Shehaj dhe Kapri u kërkojnë llogari efektivëve",
@@ -199,7 +298,7 @@
       "date": "2026-09-01T19:25:19+00:00",
       "dateStr": "01 Sep, 19:25",
       "isNew": true,
-      "id": "she41788290719"
+      "id": "she71788290719"
     },
     {
       "title": "Rutte, Burnham, Macron dhe Meloni në mbështetje të Gjermanisë pas sulmit hibrid rus në Leipzig",
@@ -210,7 +309,7 @@
       "date": "2026-09-01T19:23:46+00:00",
       "dateStr": "01 Sep, 19:23",
       "isNew": true,
-      "id": "abc31788290626"
+      "id": "abc91788290626"
     },
     {
       "title": "VIDEO/ Përleshje përpara Kryeministrisë, shoqërohen disa qytetarë. ‘’Kokat’’ e policisë në bulevard, prezente FNSH dhe autoboti i ujit",
@@ -221,29 +320,7 @@
       "date": "2026-09-01T19:04:06+00:00",
       "dateStr": "01 Sep, 19:04",
       "isNew": true,
-      "id": "she51788289446"
-    },
-    {
-      "title": "Pas pak “War Report”, na ndiqni live në ABC News",
-      "link": "https://abcnews.al/pas-pak-war-report-na-ndiqni-live-ne-abc-news-8/",
-      "description": "Abc News Live [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-01T18:58:35+00:00",
-      "dateStr": "01 Sep, 18:58",
-      "isNew": true,
-      "id": "abc41788289115"
-    },
-    {
-      "title": "Kina dhe Egjipti thellojnë bashkëpunimin, Xi Jinping viziton Kajron",
-      "link": "https://abcnews.al/kina-dhe-egjipti-thellojne-bashkepunimin-xi-jinping-viziton-kajron/",
-      "description": "Presidenti i Kinës, Xi Jinping, ka mbërritur në Kajro për një vizitë zyrtare në Egjipt, e para e tij në këtë vend pas një dekade. Në aeroportin ndërkombëtar të Kajros, kreu i shtetit kinez u prit nga presidenti egjiptian Abdel Fattah al-Sisi. Gjatë vizitës, dy liderët pritet të diskutojnë për thelli",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-01T18:52:40+00:00",
-      "dateStr": "01 Sep, 18:52",
-      "isNew": true,
-      "id": "abc51788288760"
+      "id": "she81788289446"
     },
     {
       "title": "VIDEO/ Përplasjet me policinë dhe rrethimi i Kryeministrisë, arsyeja pse ndryshoi skenari i protestës së sotme: Rama në zyrë…",
@@ -254,84 +331,7 @@
       "date": "2026-09-01T18:52:25+00:00",
       "dateStr": "01 Sep, 18:52",
       "isNew": true,
-      "id": "she61788288745"
-    },
-    {
-      "title": "Tensionet para Kryeministrisë, nisin shoqërimet e para, një qytetar merret nga policia",
-      "link": "https://shekulli.com.al/2026/09/01/tensionet-para-kryeministrise-nisin-shoqerimet-e-para-nje-qytetar-merret-nga-policia/",
-      "description": "TIRANË &#8211; Tensionet janë përshkallëzuar mbrëmjen e sotme pranë Kryeministrisë, gjatë protestës së 94-të radhazi kundër qeverisë së Edi Ramës. Pas përplasjes mes protestuesve dhe gardhit policor të vendosur përpara godinës së Kryeministrisë, Policia e Shtetit ka nisur shoqërimet e para. Protestu",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-01T18:42:12+00:00",
-      "dateStr": "01 Sep, 18:42",
-      "isNew": true,
-      "id": "she71788288132"
-    },
-    {
-      "title": "17 vatra zjarri në të gjithë vendin, 4 mbeten aktive/ Angazhohen 164 forca dhe 2 helikopterë",
-      "link": "https://abcnews.al/17-vatra-zjarri-ne-te-gjithe-vendin-4-mbeten-aktive-angazhohen-164-forca-dhe-2-helikoptere/",
-      "description": "Vijon situata e zjarreve në disa zona të vendit, ndërsa strukturat e Mbrojtjes Civile dhe Forcat e Armatosura janë të angazhuara në terren për monitorimin dhe shuarjen e vatrave aktive. Sipas përditësimit të Ministrisë së Mbrojtjes, bazuar në informacionin operacional të orës 20:00 të datës 1 shtato",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-01T18:35:53+00:00",
-      "dateStr": "01 Sep, 18:35",
-      "isNew": true,
-      "id": "abc61788287753"
-    },
-    {
-      "title": "“Tiranë Live” me Emilian Islami, (01/09/2026)",
-      "link": "https://abcnews.al/tirane-live-me-emilian-islami-01-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-01T18:14:59+00:00",
-      "dateStr": "01 Sep, 18:14",
-      "isNew": true,
-      "id": "abc71788286499"
-    },
-    {
-      "title": "VIDEO/ Përshkallëzon protesta, qytetarët bllokojnë derën e Kryeministrisë. Apel Ramës: Dil në bulevard",
-      "link": "https://shekulli.com.al/2026/09/01/pershkallezon-protesta-qytetaret-bllokojne-deren-e-kryeministrise-apel-rames-dil-ne-bulevard/",
-      "description": "Protesta e 94-të radhazi kundër qeverisë po zhvillohet këtë të martë në Tiranë, ndërsa situata është tensionuar në zonën përpara Kryeministrisë, teksa kryeministri Edi Rama ndodhet në godinë. Gjatë protestës, një grup protestuesish kanë tentuar të çajnë kordonin e forcave të policisë dhe të hyjnë në",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-01T18:07:10+00:00",
-      "dateStr": "01 Sep, 18:07",
-      "isNew": true,
-      "id": "she81788286030"
-    },
-    {
-      "title": "Defekti që ‘’u mori jetën’’ dy të rinjve në Vaun e Dejës, Urgjenca Kombëtare e pranon: Ambulanca e prishur, u vonua 1 orë e 41 minuta",
-      "link": "https://shekulli.com.al/2026/09/01/defekti-qe-u-mori-jeten-dy-te-rinjve-ne-vaun-e-dejes-urgjenca-kombetare-e-pranon-ambulanca-e-prishur-u-vonua-1-ore-e-41-minuta/",
-      "description": "Qendra Kombëtare e Urgjencës Mjekësore ka reaguar zyrtarisht për ngjarjen tragjike të 29 gushtit në Vaun e Dejës, ku Sokol Preka, 40 vjeç dhe David Deda, 46 vjeç, humbën jetën pasi ranë në kontakt me energjinë elektrike. QKUM bën me dije se ambulanca në Vaun e Dejës kishte defekt dhe për ndihmë u ni",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-01T18:01:22+00:00",
-      "dateStr": "01 Sep, 18:01",
-      "isNew": true,
-      "id": "she91788285682"
-    },
-    {
-      "title": "Eksplozivi në aeroport, Gjermania akuzon Rusinë/ Droni u zbulua më 4 gusht pranë një avioni ukrainas në Laipcig",
-      "link": "https://abcnews.al/eksplozivi-ne-aeroport-gjermania-akuzon-rusine-droni-u-zbulua-me-4-gusht-prane-nje-avioni-ukrainas-ne-laipcig/",
-      "description": "Qeveria gjermane ka akuzuar zyrtarisht Rusinë këtë të martë duke deklaruar se Moska qëndronte pas përpjekjeve për të kryer një sulm në aeroporin Leipzig/Halle muajin e kaluar përmes një droni me eksploziv. Droni u gjet në mbrëmjen e 4 gushtit pranë një avioni ukrainas në aeroport. Pajisja u çaktiviz",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-01T17:44:19+00:00",
-      "dateStr": "01 Sep, 17:44",
-      "isNew": true,
-      "id": "abc81788284659"
-    },
-    {
-      "title": "Meloni drejt rekordit si kryeministrja e qeverisë më jetëgjatë në historinë e Italisë",
-      "link": "https://abcnews.al/meloni-drejt-rekordit-si-kryeministrja-e-qeverise-me-jetegjate-ne-historine-e-italise/",
-      "description": "Kryeministrja e Italisë, Giorgia Meloni, pritet që më 4 shtator të vendosë rekord si drejtuesja e qeverisë më jetëgjatë në historinë e vendit. Megjithatë, ndryshimet e shpeshta të qeverive në Itali shpesh kanë fshehur një sistem politik më të qëndrueshëm sesa mund të duket në pamje të parë. Qeveria ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-01T17:39:30+00:00",
-      "dateStr": "01 Sep, 17:39",
-      "isNew": true,
-      "id": "abc91788284370"
+      "id": "she91788288745"
     },
     {
       "title": "Flora Shabani “mahnit” rrjetin! Moderatorja e njohur nga Maqedonia e Veriut me paraqitje glamuroze",
