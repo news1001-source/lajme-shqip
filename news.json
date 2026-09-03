@@ -1,139 +1,271 @@
 {
-  "lastUpdated": "2026-09-03T19:35:40.427011+00:00",
+  "lastUpdated": "2026-09-03T22:10:37.977887+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Colorado Rapids firmosin me anësorin nga Ghana, Ibrahim Sadiq",
-      "link": "https://24-ore.com/colorado-rapids-firmosin-me-anesorin-nga-ghana-ibrahim-sadiq/",
-      "description": "Colorado Rapids kanë njoftuar nënshkrimin e anësorit nga Ghana, Ibrahim Sadiq, i transferuar nga klubi holandez AZ Alkmaar. 26-vjeçari ka firmosur një kont...",
+      "title": "From “political assassinations” to “emigrant clashes”: Secret services’ versions of the murder of Kadri Zeka and the Gërvalla brothers",
+      "link": "https://24-ore.com/from-political-assassinations-to-emigrant-clashes-secret-services-versions-of-the-murder-of-kadri-zeka-and-the-gervalla-brothers/",
+      "description": "As part of the &#8220;Files&#8221; series of shows on Debat Plus with Ermal Panduri, documents from the Albanian and Yugoslav secret services have been published that speak about the circumstances of the murder of Kadri Zeka and the brothers Jusuf and Bardhosh Gërvalla, on January 17, 1982 in Unterg",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T19:31:41+00:00",
-      "dateStr": "03 Sep, 19:31",
+      "date": "2026-09-03T22:02:22+00:00",
+      "dateStr": "03 Sep, 22:02",
       "isNew": true,
-      "id": "24 01788463901"
+      "id": "24 01788472942"
     },
     {
-      "title": "Çitaku i përgjigjet Vuçiqit: Nuk ju frikëson Marshi për Liri, por verdikti në Hagë",
-      "link": "https://24-ore.com/citaku-i-pergjigjet-vuciqit-nuk-ju-frikeson-marshi-per-liri-por-verdikti-ne-hage/",
-      "description": "Presidenti i Serbisë, Aleksandar Vuçiq, ka deklaruar se është i shqetësuar për marshin e paralajmëruar në Prishtinë më 12 shtator, në mbështetje të ish-presidentit të Kosovës, Hashim Thaçi, dhe krerëve të tjerë të UÇK-së. “Jam veçanërisht i shqetësuar sepse shqiptarët kanë caktuar një ‘Marsh për Lir",
+      "title": "Jerusalem Post: Shqipëria po shihet nga turistët izraelitë si një nga destinacionet më të sigurta dhe të qeta në Ballkan",
+      "link": "https://24-ore.com/jerusalem-post-shqiperia-po-shihet-nga-turistet-izraelite-si-nje-nga-destinacionet-me-te-sigurta-dhe-te-qeta-ne-ballkan/",
+      "description": "Shqipëria po fiton terren në tregun izraelit të turizmit, jo vetëm për çmimet apo afërsinë gjeografike, por edhe si një destinacion që perceptohet si më i sigurt dhe më i qetë në një periudhë kur shqetësimet për sigurinë vazhdojnë të ndikojnë zgjedhjet e udhëtarëve izraelitë. Kjo del nga një analizë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T19:27:14+00:00",
-      "dateStr": "03 Sep, 19:27",
+      "date": "2026-09-03T21:47:47+00:00",
+      "dateStr": "03 Sep, 21:47",
       "isNew": true,
-      "id": "24 11788463634"
+      "id": "24 11788472067"
+    },
+    {
+      "title": "Sporting Kansas City huazon Ruben Ramos Jr. nga LA Galaxy",
+      "link": "https://24-ore.com/sporting-kansas-city-huazon-ruben-ramos-jr-nga-la-galaxy/",
+      "description": "Sporting Kansas City ka nënshkruar me huazim sulmuesin 19-vjeçar Ruben Ramos Jr. nga LA Galaxy, në një marrëveshje që zgjat deri në përfundim të sezonit ML...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T21:41:56+00:00",
+      "dateStr": "03 Sep, 21:41",
+      "isNew": true,
+      "id": "24 21788471716"
+    },
+    {
+      "title": "Ekzekutimi i Viktor Bardhit/ Karamuço: Vrasjet janë inkurajuar, policia nuk ka arritur t’i zbulojë",
+      "link": "https://abcnews.al/ekzekutimi-i-viktor-bardhit-karamuco-vrasjet-jane-inkurajuar-policia-nuk-ka-arritur-ti-zbuloje/",
+      "description": "Eksperti i kriminalistikës, Ervin Karamuço thotë se ekzekutimi i Viktor Bardhit në Mirditë është vijimi i sagës së vrasjeve për gjakmarrje. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Karamuço u shpreh se vrasjet janë inkurajuar, pasi policia nuk ka arritur t&#8217;i zbulojë ndër v",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T21:33:16+00:00",
+      "dateStr": "03 Sep, 21:33",
+      "isNew": true,
+      "id": "abc01788471196"
+    },
+    {
+      "title": "Rogers dhe Quebecor nënshkruajnë marrëveshje sublicence 12-vjeçare për transmetimet në frëngjisht",
+      "link": "https://24-ore.com/rogers-dhe-quebecor-nenshkruajne-marreveshje-sublicence-12-vjecare-per-transmetimet-ne-frengjisht/",
+      "description": "Rogers Communications dhe Quebecor njoftuan një marrëveshje sublicence 12-vjeçare që do të sigurojë transmetimin në gjuhën frënge të ndeshjeve të ligës kom...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T21:32:14+00:00",
+      "dateStr": "03 Sep, 21:32",
+      "isNew": true,
+      "id": "24 31788471134"
+    },
+    {
+      "title": "Mbrojtjet më të forta të NFL për 2026: Texans, Seahawks dhe Rams në krye; mos i nënvlerësoni Jaguars dhe Buccaneers",
+      "link": "https://24-ore.com/mbrojtjet-me-te-forta-te-nfl-per-2026-texans-seahawks-dhe-rams-ne-krye-mos-i-nenvleresoni-jaguars-dhe-buccaneers/",
+      "description": "Parashikimi i mbrojtjeve më të mira në 2026 kërkon të përcaktojmë jo thjesht sa pikë lejon një skuadër gjatë gjithë ndeshjes, por sa pikë i lejon kur mbroj...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T21:31:20+00:00",
+      "dateStr": "03 Sep, 21:31",
+      "isNew": true,
+      "id": "24 41788471080"
+    },
+    {
+      "title": "Hapet me një mbrëmje gala Festivali i 14-të Kombëtar i Filmit Shqiptar",
+      "link": "https://24-ore.com/hapet-me-nje-mbremje-gala-festivali-i-14-te-kombetar-i-filmit-shqiptar/",
+      "description": "Festivali Kombëtar i Filmit Shqiptar u rikthye sot në Tiranë, pas 14 vitesh mungesë, në edicionin e tij të 14-të, duke sjellë në vëmendje krijimtarinë kinematografike shqiptare, autorët, aktorët dhe veprat e realizuara ndër vite. Festivali çeli siparin me një mbrëmje gala në Akademinë e Arteve të Bu",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T21:30:17+00:00",
+      "dateStr": "03 Sep, 21:30",
+      "isNew": true,
+      "id": "24 51788471017"
+    },
+    {
+      "title": "“Në resortin në Vlorë u qëllua me armë, agresorët u prezantuan si kosovarë”/ Karamuço: Konflikti ka nisur me kohë, sot ishte finalizimi",
+      "link": "https://abcnews.al/ne-resortin-ne-vlore-u-qellua-me-arme-agresoret-u-prezantuan-si-kosovare-karamuco-konflikti-ka-nisur-me-kohe-sot-ishte-finalizimi/",
+      "description": "Eksperti i kriminalistikës, Ervin Karamuço thotë se në resortin e biznesmenit Vasil Bedinaj në Vlorë, u qëllua me armë nga agresorët, të cilët i kërkuan atij 5 milionë euro, ose të largohej nga vendi. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Karamuço u shpreh se personat që shku",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T21:22:31+00:00",
+      "dateStr": "03 Sep, 21:22",
+      "isNew": true,
+      "id": "abc11788470551"
+    },
+    {
+      "title": "Hasanpapaj: Rrëzimi i Qeverisë Hoti nuk duhet të përdoret kundër Sejdiut",
+      "link": "https://24-ore.com/hasanpapaj-rrezimi-i-qeverise-hoti-nuk-duhet-te-perdoret-kunder-sejdiut/",
+      "description": "Ish-kandidati për deputet nga LDK-ja, Bardhyl Hasanpapaj, ka kritikuar qasjen e disa deputetëve që kanë kundërshtuar kandidaturën për president të ish-gjyqtarit të Gjykatës Kushtetuese, Bekim Sejdiu. Hasanpapaj ka thënë se secili deputet ka të drejtë të shprehet pro ose kundër një kandidature, por k",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T21:22:15+00:00",
+      "dateStr": "03 Sep, 21:22",
+      "isNew": true,
+      "id": "24 61788470535"
+    },
+    {
+      "title": "Vijon marshimi i qytetarëve në ditën e 96-të të protestës (VIDEO)",
+      "link": "https://24-ore.com/vijon-marshimi-i-qytetareve-ne-diten-e-96-te-te-protestes-video/",
+      "description": "Protesta në ditën e 96-të të saj ka vazhduar edhe sot me thirrjet e zakonshme. Me ardhjen e muajit shtator është vënë re dhe një rritje e numrit të qytetarëve që i bashkohen protestës. Protestuesit deklarojnë se nuk do të tërhiqen dhe se do të vijojnë qëndresën deri në realizimin e kërkesave të tyre",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T21:18:25+00:00",
+      "dateStr": "03 Sep, 21:18",
+      "isNew": true,
+      "id": "24 71788470305"
+    },
+    {
+      "title": "Zjarret në vend, Ministria e Mbrojtjes: 27 vatra, 8 ende aktive, vijon ndërhyrja në disa qarqe",
+      "link": "https://24-ore.com/zjarret-ne-vend-ministria-e-mbrojtjes-27-vatra-8-ende-aktive-vijon-nderhyrja-ne-disa-qarqe/",
+      "description": "Ministria e Mbrojtjes ka publikuar përditësimin e fundit mbi situatën e zjarreve në vend, në orën 20:00 të 3 shtatorit 2026. Sipas informacionit operacional, gjatë ditës janë raportuar 27 vatra zjarri, prej të cilave 17 janë shuar plotësisht, 2 janë nën mbikëqyrje dhe 8 vijojnë të jenë aktive. Në op",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T21:18:14+00:00",
+      "dateStr": "03 Sep, 21:18",
+      "isNew": true,
+      "id": "24 81788470294"
+    },
+    {
+      "title": "Vangjeli: Konfliktet e pronësisë sjellin tragjedi, incidenti në Vlorë është vetëm një nga segmentet e pafundëm në Shqipëri",
+      "link": "https://24-ore.com/vangjeli-konfliktet-e-pronesise-sjellin-tragjedi-incidenti-ne-vlore-eshte-vetem-nje-nga-segmentet-e-pafundem-ne-shqiperi/",
+      "description": "Analisti Lorenc Vangjeli ka diskutuar në “Now” mbi përfshirjen e mundshme të elementëve ose segmenteve me uniformë shtetërore në ngjarje dhe konflikte, nisur nga incidenti më i fundit në Vlorë. “Për fat të keq, ky është vetëm njëri nga segmentet e pafundëm në Shqipëri dhe sërish, për fat të keq, edh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T21:18:01+00:00",
+      "dateStr": "03 Sep, 21:18",
+      "isNew": true,
+      "id": "24 91788470281"
+    },
+    {
+      "title": "Celular në burgun e Fierit/ “E pësojnë” dy të paraburgosur! Pezullohen nga detyra 4 punonjës",
+      "link": "https://abcnews.al/celular-ne-burgun-e-fierit-e-pesojne-dy-te-paraburgosur-pezullohen-nga-detyra-4-punonjes/",
+      "description": "Vijojnë kontrollet në qelitë e burgjeve për sende të ndaluara. Në Durrës janë gjetur 6 celularë në ambientet e përbashkëta, që i janë dërguar SPAK-ut për ekspertizë, ndërsa në Fier dy të paraburgosur janë arrestuar me vendim gjykate dhe 4 punonjës të burgut janë pezulluar nga detyra. Hetimet po vijo",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T21:03:50+00:00",
+      "dateStr": "03 Sep, 21:03",
+      "isNew": true,
+      "id": "abc21788469430"
+    },
+    {
+      "title": "Transporti publik, zgjatet kompensimi i karburantit edhe me 4 muaj, 50 lekë për litër për operatorët",
+      "link": "https://shekulli.com.al/2026/09/03/transporti-publik-zgjatet-kompensimi-i-karburantit-edhe-me-4-muaj-50-leke-per-liter-per-operatoret/",
+      "description": "Operatorët e transportit publik pritet të përfitojnë edhe për katër muaj të tjerë kompensimin prej 50 lekësh për litër për karburantin, për periudhën qershor-shtator. Dakordësia në parim për vijimin e masës është arritur në takimin e dytë të zhvilluar këtë pasdite mes përfaqësuesve të shoqatave të t",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-03T20:51:20+00:00",
+      "dateStr": "03 Sep, 20:51",
+      "isNew": true,
+      "id": "she01788468680"
+    },
+    {
+      "title": "Trump vë në pikëpyetje mbështetjen amerikane për Britaninë e Madhe mbi Ishujt Falkland",
+      "link": "https://abcnews.al/trump-ve-ne-pikepyetje-mbeshtetjen-amerikane-per-britanine-e-madhe-mbi-ishujt-falkland/",
+      "description": "Presidenti i SHBA-ve, Donald Trump, ka lënë të kuptohet se administrata amerikane po rishikon qëndrimin e saj ndaj sovranitetit britanik mbi Ishujt Falkland, duke ngritur shqetësime për marrëdhëniet e veçanta mes Washingtonit dhe Londrës. I pyetur në Shtëpinë e Bardhë nëse po rishikonte qëndrimin am",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T20:41:17+00:00",
+      "dateStr": "03 Sep, 20:41",
+      "isNew": true,
+      "id": "abc31788468077"
+    },
+    {
+      "title": "“Policia inskenoi aksidentin” detajet gjatë arrestimit të Ergys Agasit: Policëve u tha ‘ju s’më arrestoni dot mua’",
+      "link": "https://shekulli.com.al/2026/09/03/policia-inskenoi-aksidentin-detajet-gjate-arrestimit-te-ergys-agasit-policeve-u-tha-ju-sme-arrestoni-dot-mua/",
+      "description": "Gazetarja Klodiana Lala, e ftuar në emisionin “Opinion”, ka dhënë detaje lidhur me operacionin që çoi në arrestimin e Ergys Agasit, duke deklaruar se ai ishte mbajtur nën vëzhgim për rreth dy javë përpara ndërhyrjes së autoriteteve. Sipas Lalës, gjatë kësaj periudhe janë monitoruar bazat dhe banesat",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-03T20:25:12+00:00",
+      "dateStr": "03 Sep, 20:25",
+      "isNew": true,
+      "id": "she11788467112"
+    },
+    {
+      "title": "3 ciklone kërcënojnë Hawaiin, El Niño më i fortë se kurrë, shkencëtarët paralajmërojnë për skenarin më të keq",
+      "link": "https://abcnews.al/3-ciklone-kercenojne-hawaiin-el-nino-me-i-forte-se-kurre-shkencetaret-paralajmerojne-per-skenarin-me-te-keq/",
+      "description": "Dy ciklone të forta dhe një stuhi tropikale që po forcohet me shpejtësi u regjistruan në Oqeanin Paqësor të mërkurën. Ujërat e Paqësorit po ngrohen në mënyrë dramatike për shkak të fenomenit El Niño, i cili parashikohet të ketë një forcë historike këtë vit. Uraganet Lowell dhe Karina, të dy të klasi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T20:25:02+00:00",
+      "dateStr": "03 Sep, 20:25",
+      "isNew": true,
+      "id": "abc41788467102"
+    },
+    {
+      "title": "Akuzat për mbylljen e llogarive në Instagram/ Rama ndan postimin: Tani le ta bëjnë edhe këtë patronazhist",
+      "link": "https://abcnews.al/akuzat-per-mbylljen-e-llogarive-ne-instagram-rama-ndan-postimin-tani-le-ta-bejne-edhe-kete-patronazhist/",
+      "description": "Kryeministri Edi Rama ka reaguar me ironi ndaj pretendimeve se qeveria shqiptare mund të ketë rol në mbylljen apo bllokimin e llogarive në Instagram. Në një postim në Facebook, Rama ka shpërndarë një reagim të Blerim Gjeladinit, i cili argumenton se qeveritë nuk kanë akses të drejtpërdrejtë apo “bac",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T20:12:30+00:00",
+      "dateStr": "03 Sep, 20:12",
+      "isNew": true,
+      "id": "abc51788466350"
+    },
+    {
+      "title": "Pekini kërkon heqjen e sanksioneve amerikane ndaj kompanive kineze",
+      "link": "https://abcnews.al/pekini-kerkon-heqjen-e-sanksioneve-amerikane-ndaj-kompanive-kineze/",
+      "description": "Kina i ka kërkuar Shteteve të Bashkuara të heqin sanksionet e vendosura ndaj kompanive dhe shtetasve kinezë për shkak të lidhjeve të dyshuara me Iranin. Zëdhënësja e Ministrisë së Tregtisë së Kinës, Huang Ling, deklaroi të enjten se Pekini kundërshton në mënyrë të vendosur sanksionet e njëanshme që,",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T20:04:29+00:00",
+      "dateStr": "03 Sep, 20:04",
+      "isNew": true,
+      "id": "abc61788465869"
+    },
+    {
+      "title": "Ambasadori amerikan në NATO paralajmëron: Putini mund të shkojë përtej Ukrainës",
+      "link": "https://abcnews.al/ambasadori-amerikan-ne-nato-paralajmeron-putini-mund-te-shkoje-pertej-ukraines/",
+      "description": "Ambasadori i Shteteve të Bashkuara në NATO, Matthew Whitaker, ka paralajmëruar se Rusia mund të përbëjë kërcënim edhe për vendet anëtare të Aleancës, duke theksuar se deklaratat e fundit të presidentit rus Vladimir Putin nuk lënë shumë hapësirë për optimizëm. Whitaker tha se Ukraina duhet të ketë ka",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T19:53:17+00:00",
+      "dateStr": "03 Sep, 19:53",
+      "isNew": true,
+      "id": "abc71788465197"
+    },
+    {
+      "title": "E rëndë në Itali, 25-vjeçari u vra me thikë për një copë picë, pranga shqiptarit",
+      "link": "https://shekulli.com.al/2026/09/03/e-rende-ne-itali-25-vjecari-u-vra-me-thike-per-nje-cope-pice-pranga-shqiptarit/",
+      "description": "Një 17-vjeçar shqiptar është arrestuar në Itali si i dyshuari i dytë për vrasjen e një 25-vjeçari, punonjës poste, në Pavia. Adoleshenti akuzohet për bashkëpunim në vrasje me dashje, ndërsa hetimet po vijojnë për të zbardhur rolin e tij dhe të personave të tjerë të përfshirë në ngjarje. Ngjarja e rë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-03T19:47:57+00:00",
+      "dateStr": "03 Sep, 19:47",
+      "isNew": true,
+      "id": "she21788464877"
+    },
+    {
+      "title": "Pamjet, si mësynë në resort të armatosurit/ Biznesmenit Vasil Bedinaj i vunë gjobë 5 milionë euro",
+      "link": "https://abcnews.al/video-pamjet-si-mesyne-ne-resort-te-armatosurit-biznesmenit-vasil-bedinaj-i-vune-gjobe-5-milione-euro/",
+      "description": "Pesë persona janë arrestuar në Vlorë, ndërsa gjashtë të tjerë janë shpallur në kërkim, pas ngjarjes ku u kërcënua me armë dhe u dhunua Biznesmeni Vasil Bedinaj pronari i një hoteli në Radhimë, duke i kërkuar 5 milionë euro. Në pranga kanë rënë Luan Muça, Klaudio Lleshaj, Mandrit Lleshaj, Blerim Heta",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T19:40:51+00:00",
+      "dateStr": "03 Sep, 19:40",
+      "isNew": true,
+      "id": "abc81788464451"
+    },
+    {
+      "title": "“Gjermania po kthehet në superfuqi ushtarake”, Shala: Rusia po zhvillon luftë hibride ndaj Gjermanisë, synimi është politik",
+      "link": "https://abcnews.al/gjermania-po-kthehet-ne-superfuqi-ushtarake-shala-rusia-po-zhvillon-lufte-hibride-ndaj-gjermanise-synimi-eshte-politik/",
+      "description": "Eksperti Xhavit Shala ka komentuar zhvillimet e fundit mes Gjermanisë, Ukrainës dhe Rusisë, duke u ndalur te bashkëpunimi ushtarak dhe kërcënimet që, sipas tij, vijnë nga Moska. Sipas ekspertit, Gjermania po e realizon objektivin e shpallur për t’u shndërruar në fuqinë më të madhe ushtarake. Ai tha ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T19:31:19+00:00",
+      "dateStr": "03 Sep, 19:31",
+      "isNew": true,
+      "id": "abc91788463879"
     },
     {
       "title": "Mimoza Ahmeti humbet të atin, mesazhi prekës i poetes: Përqafoje nënën fort për mua…",
       "link": "https://shekulli.com.al/2026/09/03/mimoza-ahmeti-humbet-te-atin-mesazhi-prekes-i-poetes-perqafoje-nenen-fort-per-mua/",
-      "description": "Poetja Mimoza Ahmeti ka humbur sot të atin. Në një njoftim në kanalet e komunikimit, Ahmeti tregon se i ati ishte shtylla e jetë së saj. Mesazhi prekës: Sot u shua një pjesë e zemrës sime… Sot humba babanë tim të shtrenjtë. Ka dhimbje që nuk mund t’i mbajë asnjë fjalë. Sot, përballë ikjes tënde, [&#",
+      "description": "Poetja Mimoza Ahmeti ka humbur sot të atin. Në një njoftim në kanalet e komunikimit, Ahmeti tregon se i ati ishte shtylla e jetës së saj. Mesazhi prekës: Sot u shua një pjesë e zemrës sime… Sot humba babanë tim të shtrenjtë. Ka dhimbje që nuk mund t’i mbajë asnjë fjalë. Sot, përballë ikjes tënde, [&",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-09-03T19:26:09+00:00",
       "dateStr": "03 Sep, 19:26",
       "isNew": true,
-      "id": "she01788463569"
-    },
-    {
-      "title": "“Ke 48 orë kohë të largohesh”, policia e Vlorës zbardh ngjarjen në Radhimë: Pronarit të hotelit i vunë gjobë 5 mln euro",
-      "link": "https://24-ore.com/ke-48-ore-kohe-te-largohesh-policia-e-vlores-zbardh-ngjarjen-ne-radhime-pronarit-te-hotelit-i-vune-gjobe-5-mln-euro/",
-      "description": "Pesë persona janë arrestuar dhe gjashtë të tjerë janë shpallur në kërkim në lidhje me incidentin me armë zjarri të ndodhur mesditën e së enjtes në një hotel në zonën e Radhimës. Detajet e ngjarjes janë bërë publike nga drejtori i Policisë së Vlorës, Edvin Ndreu gjatë një deklarate për mediat. Sipas ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T19:19:03+00:00",
-      "dateStr": "03 Sep, 19:19",
-      "isNew": true,
-      "id": "24 21788463143"
-    },
-    {
-      "title": "Rama: Për ata që shpërndajnë dozën e helmit në kanalet sociale, nuk kam ndaluar asnjë lloj proteste",
-      "link": "https://24-ore.com/rama-per-ata-qe-shperndajne-dozen-e-helmit-ne-kanalet-sociale-nuk-kam-ndaluar-asnje-lloj-proteste/",
-      "description": "Kryeministri Edi Rama ka reaguar sërish lidhur me raportimet për kufizimin apo çaktivizimin e disa llogarive në rrjetet sociale, të cilat dyshohet se lidhen me protestën. Rama ka mohuar çdo përfshirje të qeverisë në këtë situatë, duke deklaruar se as institucionet shqiptare dhe as shumica e shteteve",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T19:18:51+00:00",
-      "dateStr": "03 Sep, 19:18",
-      "isNew": true,
-      "id": "24 31788463131"
-    },
-    {
-      "title": "Shqipëria ndalon importin e mishit nga Brazili, vinte 1/3 e sasisë",
-      "link": "https://24-ore.com/shqiperia-ndalon-importin-e-mishit-nga-brazili-vinte-1-3-e-sasise/",
-      "description": "Shqipëria ka ndaluar importet e mishit nga Brazili. Shteti latin mbulonte një të tretën e tregut shqiptare të mishit, ndërsa zëvendësimi i tij me tregje të tjera mund të sjellë kosto më të larta. Mishi i Brazilit nuk do të vijë më në Shqipëri, duke nisur nga kjo e enjte. Ndalimi i importeve i kërkua",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T19:18:40+00:00",
-      "dateStr": "03 Sep, 19:18",
-      "isNew": true,
-      "id": "24 41788463120"
-    },
-    {
-      "title": "Nesër masat e sigurisë për 14 të arrestuarit nga protesta, qytetarët njoftojnë prezencën e tyre te Gjykata",
-      "link": "https://24-ore.com/neser-masat-e-sigurise-per-14-te-arrestuarit-nga-protesta-qytetaret-njoftojne-prezencen-e-tyre-te-gjykata/",
-      "description": "Nesër në orën 10:00 protestuesit kanë njoftuar se do të jenë tek Gjykata e Tiranës, nga ku do të jepen masat e sigurisë për 14 të arrestuarit. Këta të fundit u vunë në pranga dy dite më pare për shkak të konfrontime fizike me policinë. Gjatë protestës, policia ka ndërhyrë për të shpërndarë protestue",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T19:18:28+00:00",
-      "dateStr": "03 Sep, 19:18",
-      "isNew": true,
-      "id": "24 51788463108"
-    },
-    {
-      "title": "Incident i ri mbi Baltik vetëm brenda pak ditësh, avionët polakë kapin një avion zbulimi rus Il-20",
-      "link": "https://24-ore.com/incident-i-ri-mbi-baltik-vetem-brenda-pak-ditesh-avionet-polake-kapin-nje-avion-zbulimi-rus-il-20/",
-      "description": "Avionët luftarakë polakë interceptuan një aeroplan zbulues rus Il-20 mbi Detin Baltik, rreth 40 kilometra larg bregdetit, incidenti i dytë i tillë këtë javë, si pjesë e asaj që ekspertët e quajnë përpjekjet e Moskës për të testuar përgjigjen e NATO-s, raporton sot Tvp world. Ministri polak i Mbrojtj",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T19:18:17+00:00",
-      "dateStr": "03 Sep, 19:18",
-      "isNew": true,
-      "id": "24 61788463097"
-    },
-    {
-      "title": "Estoni, ministri i Mbrojtjes jep dorëheqjen pas skandalit të municioneve në Ukrainë",
-      "link": "https://24-ore.com/estoni-ministri-i-mbrojtjes-jep-doreheqjen-pas-skandalit-te-municioneve-ne-ukraine/",
-      "description": "Ministri estonez Mbrojtjes, Hanno Pevkur, paraqiti dorëheqjen të mërkurën në mbrëmje, duke marrë përgjegjësi politike pas ankesave nga autoritetet kombëtare të auditimit në lidhje me parregullsitë në shpenzimet e mbrojtjes, si dhe një rast që përfshinte municione për Ukrainën që nuk u dorëzuan kurrë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T19:18:07+00:00",
-      "dateStr": "03 Sep, 19:18",
-      "isNew": true,
-      "id": "24 71788463087"
-    },
-    {
-      "title": "Rama e zgjodhi si ministre Shëndetësie, Spahiu: Do çoj përpara çdo angazhim",
-      "link": "https://24-ore.com/rama-e-zgjodhi-si-ministre-shendetesie-spahiu-do-coj-perpara-cdo-angazhim/",
-      "description": "Kryeministri i vendit, Edi Rama zgjodhi sot Klodiana Spahiun si pasuesen e Evis Salës, në krye të Ministrisë së Shëndetësisë. Pas këtij hapi ka reaguar vetë Spahiu, e cila ka falënderuar kreun e qeverisë për besimin, ndërsa thotë se do të punojë për të çuar para çdo angazhim në krye të këtij institu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T19:18:05+00:00",
-      "dateStr": "03 Sep, 19:18",
-      "isNew": true,
-      "id": "24 81788463085"
-    },
-    {
-      "title": "80 propozime për të ardhmen politike të vendit, ish-presidenti i Francës publikon librin e tij",
-      "link": "https://24-ore.com/80-propozime-per-te-ardhmen-politike-te-vendit-ish-presidenti-i-frances-publikon-librin-e-tij/",
-      "description": "Ish-presidenti socialist i Francës, François Hollande, ka publikuar të enjten librin e tij të ri, “Bashkohuni. Botë e Re, E Majta e Re”, ku paraqet 80 propozime për të ardhmen politike të vendit. Publikimi i librit shihet si një përpjekje e Hollande për t’iu drejtuar veçanërisht elektoratit të qendr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T19:17:56+00:00",
-      "dateStr": "03 Sep, 19:17",
-      "isNew": true,
-      "id": "24 91788463076"
-    },
-    {
-      "title": "27 vatra zjarri në vend, 8 aktive/ Situata më problematike në Lezhë",
-      "link": "https://abcnews.al/27-vatra-zjarri-ne-vend-8-aktive-situata-me-problematike-ne-lezhe/",
-      "description": "Tiranë, 3 shtator 2026 – Vijon të mbetet nën menaxhim situata e zjarreve në vend, ndërsa strukturat vendore dhe qendrore janë angazhuar në terren për shuarjen e vatrave aktive dhe mbrojtjen e zonave të banuara. Sipas përditësimit të Ministrisë së Mbrojtjes, deri në orën 20:00 janë raportuar 27 vatra",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-03T19:17:37+00:00",
-      "dateStr": "03 Sep, 19:17",
-      "isNew": true,
-      "id": "abc01788463057"
+      "id": "she31788463569"
     },
     {
       "title": "Klodiana Spahiu reagon pas emërimit si ministre e Shëndetësisë: Faleminderit Rama, çoj përpara çdo angazhim",
@@ -144,18 +276,7 @@
       "date": "2026-09-03T19:07:11+00:00",
       "dateStr": "03 Sep, 19:07",
       "isNew": true,
-      "id": "she11788462431"
-    },
-    {
-      "title": "Edicioni Qendror me Juli Krisafi, (03/09/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-03-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-03T19:02:37+00:00",
-      "dateStr": "03 Sep, 19:02",
-      "isNew": true,
-      "id": "abc11788462157"
+      "id": "she41788462431"
     },
     {
       "title": "Humbet telefoni i sekuestruar në burgun e Fierit, pezullohen 4 punonjës, nisin hetimet",
@@ -166,40 +287,7 @@
       "date": "2026-09-03T18:50:02+00:00",
       "dateStr": "03 Sep, 18:50",
       "isNew": true,
-      "id": "she21788461402"
-    },
-    {
-      "title": "Integrim i përshpejtuar i Ukrainës në BE? Hungaria e kundërshton",
-      "link": "https://abcnews.al/integrim-i-pershpejtuar-i-ukraines-ne-be-hungaria-e-kundershton/",
-      "description": "Hungaria nuk do të mbështesë në asnjë rrethanë një proces të përshpejtuar për anëtarësimin e Ukrainës në Bashkimin Evropian. Këtë qëndrim e ka bërë të ditur ministrja e Jashtme hungareze, Anita Orban, gjatë një konference kushtuar diplomacisë kulturore. Sipas ministres, Budapesti kërkon fillimisht z",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-03T18:47:28+00:00",
-      "dateStr": "03 Sep, 18:47",
-      "isNew": true,
-      "id": "abc21788461248"
-    },
-    {
-      "title": "Pjesë e uniformave blu, kush është Anxhelo Breshani, truproja e Vasil Bedinajt/ Në 2022 iu bë atentat në Vlorë",
-      "link": "https://abcnews.al/pjese-e-uniformave-blu-kush-eshte-anxhelo-breshani-truproja-e-vasil-bedinajt-ne-2022-iu-be-atentat-ne-vlore/",
-      "description": "Policia e Vlorës ka zbardhur dinamikën e konfliktit mes biznesmenëve Vasil Bedinaj dhe Luan Muça, ku ky i fundit i vendosi 5 milionë euro gjobë Bedinajt dhe ultimatumin për t’u larguar nga Shqipëria për 48 orë. Në pranga ranë 5 persona, ndërkohë që 6 të tjerë u shpallën në kërkim. Në një deklaratë p",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-03T18:37:51+00:00",
-      "dateStr": "03 Sep, 18:37",
-      "isNew": true,
-      "id": "abc31788460671"
-    },
-    {
-      "title": "Rubio konfirmon bisedimet me Ukrainën për prodhimin e raketave Patriot",
-      "link": "https://abcnews.al/rubio-konfirmon-bisedimet-me-ukrainen-per-prodhimin-e-raketave-patriot/",
-      "description": "Sekretari amerikan i Shtetit, Marco Rubio, ka konfirmuar se Uashingtoni dhe Kievi po negociojnë për një licencë që do t’i mundësonte Ukrainës të prodhonte raketa për sistemin amerikan të mbrojtjes ajrore Patriot, duke rikthyer në vëmendje një ide të cilën presidenti Donald Trump dukej se e kishte mi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-03T18:35:57+00:00",
-      "dateStr": "03 Sep, 18:35",
-      "isNew": true,
-      "id": "abc41788460557"
+      "id": "she51788461402"
     },
     {
       "title": "Bllokimi i pagave, Shoqata e Prokurorëve: Po shkelet vendimi i Kushtetueses, nuk kërkojmë privilegje",
@@ -210,7 +298,7 @@
       "date": "2026-09-03T18:34:01+00:00",
       "dateStr": "03 Sep, 18:34",
       "isNew": true,
-      "id": "she31788460441"
+      "id": "she61788460441"
     },
     {
       "title": "Shqipëria ndalon importin e mishit nga Brazili, vinte 1/3 e sasisë",
@@ -221,62 +309,7 @@
       "date": "2026-09-03T18:20:40+00:00",
       "dateStr": "03 Sep, 18:20",
       "isNew": true,
-      "id": "she41788459640"
-    },
-    {
-      "title": "“Tirana Live” me Erisa Koxhaj, (03/09/2026)",
-      "link": "https://abcnews.al/tirana-live-me-erisa-koxhaj-03-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-03T18:13:24+00:00",
-      "dateStr": "03 Sep, 18:13",
-      "isNew": true,
-      "id": "abc51788459204"
-    },
-    {
-      "title": "Kina kërkon heqjen e sanksioneve amerikane ndaj kompanive të saj",
-      "link": "https://abcnews.al/kina-kerkon-heqjen-e-sanksioneve-amerikane-ndaj-kompanive-te-saj-2/",
-      "description": "Pekini i ka kërkuar të enjten Shteteve të Bashkuara të heqin sanksionet e vendosura ndaj kompanive dhe shtetasve kinezë për lidhje të dyshuara me Iranin. Zëdhënësi i Ministrisë së Tregtisë së Kinës, Huang Ling, deklaroi se Pekini kundërshton në mënyrë të vendosur sanksionet e njëanshme që, sipas tij",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-03T18:12:57+00:00",
-      "dateStr": "03 Sep, 18:12",
-      "isNew": true,
-      "id": "abc61788459177"
-    },
-    {
-      "title": "Konflikti i biznesmenëve në Vlorë/ Policia sekuestron mjetin ‘Range Rover’ me shenja plumbash",
-      "link": "https://abcnews.al/konflikti-i-biznesmeneve-ne-vlore-policia-sekuestron-mjetin-range-rover-me-shenja-plumbash/",
-      "description": "Një automjet tip “Range Rover” është sekuestruar nga Policia pas një ndjekjeje në zonën e Vlorës. Mjeti, i cili rezulton me shenja të dyshuara plumbash, u ndalua pas konfliktit të sotëm mes biznesmenave. Ngjarja ka nisur rreth orës 12:00, në pikën e kontrollit në Rrethin e Alikokës, ku “Range Rover”",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-03T18:10:53+00:00",
-      "dateStr": "03 Sep, 18:10",
-      "isNew": true,
-      "id": "abc71788459053"
-    },
-    {
-      "title": "Norvegjia konfiskon një anije ruse për të zbatuar kërkesën për dëmshpërblim prej 4.2 miliardë dollarësh",
-      "link": "https://abcnews.al/norvegjia-konfiskon-nje-anije-ruse-per-te-zbatuar-kerkesen-per-demshperblim-prej-4-2-miliarde-dollaresh/",
-      "description": "Norvegjia ka konfiskuar një anije ruse në Arktik, me qëllim zbatimin e një kërkese për dëmshpërblim prej 4.22 miliardë dollarësh, të cilën kompania ukrainase e energjisë Naftogaz e ka fituar për shkak të konfiskimit të pronës së saj pas aneksimit të Krimesë nga Rusia në vitin 2014. Anija “Profesor M",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-03T18:00:01+00:00",
-      "dateStr": "03 Sep, 18:00",
-      "isNew": true,
-      "id": "abc81788458401"
-    },
-    {
-      "title": "Konflikti mes biznesmenëve në Vlorë/ Policia zbulon dinamikën: Pranga 5 personave, mes tyre edhe Luan Muça, në kërkim 6 të tjerë",
-      "link": "https://abcnews.al/konflikti-mes-biznesmeneve-ne-vlore-policia-zbulon-dinamiken-pranga-5-personave-mes-tyre-edhe-luan-muca-ne-kerkim-6-te-tjere/",
-      "description": "Rreth orës 12:00, në pikën e kontrollit në Rrethin e Alikokës, një automjet fuoristradë, tip “Range Rover”, me ngjyrë të zezë, nuk iu bind shërbimeve të Policisë për të ndaluar, duke vijuar rrugën në drejtim të fshatit Peshkëpi. Gjatë ndjekjes, në vendin e quajtur Ura e Peshkëpisë, ky automjet ka da",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-03T17:42:24+00:00",
-      "dateStr": "03 Sep, 17:42",
-      "isNew": true,
-      "id": "abc91788457344"
+      "id": "she71788459640"
     },
     {
       "title": "Akuzat se mbylli llogaritë në Instagram, Rama: Turp për të gjithë këtë bandë dështimesh, “revolucioni” është shfryrë",
@@ -287,7 +320,7 @@
       "date": "2026-09-03T17:28:03+00:00",
       "dateStr": "03 Sep, 17:28",
       "isNew": true,
-      "id": "she51788456483"
+      "id": "she81788456483"
     },
     {
       "title": "Situatë alarmante nga zjarri në Lezhë, digjen 25 banesa, ndërhyrje nga ajri",
@@ -298,40 +331,7 @@
       "date": "2026-09-03T17:16:42+00:00",
       "dateStr": "03 Sep, 17:16",
       "isNew": true,
-      "id": "she61788455802"
-    },
-    {
-      "title": "‘’Plumbin ballit’’. Kërcënoi me vdekje Albin Kurtin, arrestohet 57-vjeçari në Prishtinë",
-      "link": "https://shekulli.com.al/2026/09/03/plumbin-ballit-kercenoi-me-vdekje-albin-kurtin-arrestohet-57-vjecari-ne-prishtine/",
-      "description": "Një 57-vjeçar është arrestuar në Prishtinë, pasi dyshohet se ka kërcënuar me vdekje kryeministrin e Kosovës, Albin Kurti, përmes postimeve në rrjetin social Facebook. Sipas medias “Sinjali”, i arrestuari është Gazmend Halimi, ndërsa rasti po hetohet nga Prokuroria Speciale e Kosovës. Rasti është evi",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-03T17:09:51+00:00",
-      "dateStr": "03 Sep, 17:09",
-      "isNew": true,
-      "id": "she71788455391"
-    },
-    {
-      "title": "Po kalonte rrugën, makina përplas qytetaren në Durrës, dërgohet në spital",
-      "link": "https://shekulli.com.al/2026/09/03/po-kalonte-rrugen-makina-perplas-kembesoren-ne-rruge-dergohet-ne-spital/",
-      "description": "Një aksident është regjistruar pasditen e sotme në rrugën “Vëllazërimi” në Durrës, ku një automjet ka përplasur një grua që po kalonte rrugën. Pas përplasjes, këmbësorja është transportuar me autoambulancë drejt spitalit për të marrë ndihmë mjekësore. Sipas informacioneve paraprake, ajo ndodhet jash",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-03T16:40:51+00:00",
-      "dateStr": "03 Sep, 16:40",
-      "isNew": true,
-      "id": "she81788453651"
-    },
-    {
-      "title": "VIDEO/ I jepet lamtumira e fundit Laurent Krasniqit, pjesë e ceremonisë edhe ish-banorë të Big Brother VIP",
-      "link": "https://shekulli.com.al/2026/09/03/video-i-jepet-lamtumira-e-fundit-laurent-krasniqit-pjese-e-ceremonise-edhe-ish-banore-te-big-brother-vip/",
-      "description": "KOSOVË &#8211; Në varrezat e fshatit Llukar në Prishtinë, është zhvilluar ceremonia e varrimit të TikTokerit dhe ish-banorit të “Big Brother VIP Kosova 3”, Laurent Krasniqi. Krasniqi u nda nga jeta pas një aksidenti me motor, i ndodhur gjatë natës së kaluar. Lajmi për vdekjen e tij ka tronditur fami",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-03T16:32:44+00:00",
-      "dateStr": "03 Sep, 16:32",
-      "isNew": true,
-      "id": "she91788453164"
+      "id": "she91788455802"
     },
     {
       "title": "Flora Shabani “mahnit” rrjetin! Moderatorja e njohur nga Maqedonia e Veriut me paraqitje glamuroze",
