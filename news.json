@@ -1,172 +1,282 @@
 {
-  "lastUpdated": "2026-09-03T02:40:26.855562+00:00",
+  "lastUpdated": "2026-09-03T07:41:01.365521+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Kathimerini: Arrestohet shqiptari në Rodos, gati 1 milion euro cash në zyrën e kompanisë së pasurive të paluajtshme",
-      "link": "https://24-ore.com/kathimerini-arrestohet-shqiptari-ne-rodos-gati-1-milion-euro-cash-ne-zyren-e-kompanise-se-pasurive-te-paluajtshme/",
-      "description": "Autoritetet greke kanë arrestuar një 45-vjeçar shqiptar në ishullin e Rodosit, në kuadër të një hetimi për trafik droge, pastrim parash dhe krim të organizuar, ndërsa gjatë kontrollit në zyrat e kompanisë ku ai punonte janë sekuestruar pothuajse 1 milion euro në para të thata. Lajmi është publikuar ",
+      "title": "Kovaçevski: Maqedonia nuk ka marrë deri më sot një propozim më të mirë se ai francez",
+      "link": "https://24-ore.com/kovacevski-maqedonia-nuk-ka-marre-deri-me-sot-nje-propozim-me-te-mire-se-ai-francez/",
+      "description": "I pyetur nëse, nga këndvështrimi i sotëm, pranimi i propozimit francez dhe Kornizës Negociuese me BE-në ishte një vendim i gabuar, deputeti dhe ish-kryeministri Dimitar Kovaçevski deklaroi se ishte propozimi më i mirë për Maqedoninë dhe se deri më sot nuk ka ardhur asnjë propozim më i mirë. Ai kujto",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T02:31:29+00:00",
-      "dateStr": "03 Sep, 02:31",
+      "date": "2026-09-03T07:36:03+00:00",
+      "dateStr": "03 Sep, 07:36",
       "isNew": true,
-      "id": "24 01788402689"
+      "id": "24 01788420963"
     },
     {
-      "title": "Condé Nast Traveller: Shqipëria po kthehet nga destinacion i lirë në treg turistik më të sofistikuar",
-      "link": "https://24-ore.com/conde-nast-traveller-shqiperia-po-kthehet-nga-destinacion-i-lire-ne-treg-turistik-me-te-sofistikuar/",
-      "description": "Shqipëria po kalon nga imazhi i një destinacioni të lirë dhe relativisht të pazbuluar drejt një tregu turistik më të sofistikuar, ku hotelet e mëdha ndërkombëtare, resortet me pesë yje dhe strukturat boutique po zënë një vend gjithnjë e më të rëndësishëm. Kjo është tabloja që paraqet Condé Nast Trav",
+      "title": "VLEN: BDI-ja të tregojë a e mohon Gëzim Ostrenin?",
+      "link": "https://24-ore.com/vlen-bdi-ja-te-tregoje-a-e-mohon-gezim-ostrenin/",
+      "description": "Pas konferencës së djeshme për media të VLEN-it, në të cilën u ngritën publikisht deklaratat e Gëzim Ostrenit për Marrëveshjen e Ohrit dhe rolin e Ali Ahmetit, nga BDI-ja ende nuk ka ardhur asnjë përgjigje.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T02:28:12+00:00",
-      "dateStr": "03 Sep, 02:28",
+      "date": "2026-09-03T07:35:50+00:00",
+      "dateStr": "03 Sep, 07:35",
       "isNew": true,
-      "id": "24 11788402492"
+      "id": "24 11788420950"
     },
     {
-      "title": "Chicago Fire zgjat kontratën si Designated Player të Philip Zinckernagel deri në sezonin 2027–2028",
-      "link": "https://24-ore.com/chicago-fire-zgjat-kontraten-si-designated-player-te-philip-zinckernagel-deri-ne-sezonin-2027-2028/",
-      "description": "Chicago Fire njoftoi firmosjen e një zgjatjeje të kontratës së Philip Zinckernagel si Designated Player deri në sezonin 2027–2028. 31-vjeçari u bashkua me...",
+      "title": "Mbi 14 mijë vizitorë në muzeun e Onufrit gjatë muajit gusht",
+      "link": "https://24-ore.com/mbi-14-mije-vizitore-ne-muzeun-e-onufrit-gjate-muajit-gusht/",
+      "description": "Muzeu Kombëtar Ikonografik “Onufri” mbetet një prej destinacioneve më të vizituara të qytetit të Beratit. Ministri i Shtetit për Pushtetin Vendor, Ervin Demo, njëherësh drejtues politik i PS për qarkun Berat, u shpreh sot se “vetëm gjatë muajit Gusht, rreth 14 mijë vizitorë vizituan këtë thesar të t",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T02:11:33+00:00",
-      "dateStr": "03 Sep, 02:11",
+      "date": "2026-09-03T07:31:48+00:00",
+      "dateStr": "03 Sep, 07:31",
       "isNew": true,
-      "id": "24 21788401493"
+      "id": "24 21788420708"
     },
     {
-      "title": "Kawhi Leonard pranon përgjegjësinë dhe do të paguajë 700,000 dollarë, ndërsa Clippers humbin zgjedhje të para",
-      "link": "https://24-ore.com/kawhi-leonard-pranon-pergjegjesine-dhe-do-te-paguaje-700000-dollare-ndersa-clippers-humbin-zgjedhje-te-para/",
-      "description": "Kawhi Leonard do të paguajë 700,000 dollarë si kompensim, pas përfundimit të hetimit të NBA-së që gjeti shkelje të rregullave për shmangien e kufijve të pa...",
+      "title": "Vapa e vjeshtës favorizon virozat, mjekët: Më agresive se vitin e kaluar, po prek moshat në punë",
+      "link": "https://shekulli.com.al/2026/09/03/vapa-e-vjeshtes-favorizon-virozat-mjeket-me-agresive-se-vitin-e-kaluar-po-prek-moshat-ne-pune/",
+      "description": "Temperaturat e larta, jo të zakonshme për periudhën e vjeshtës, po shoqërohen me përhapjen e virozave, të cilat këtë vit po shfaqen me simptoma më të forta, sipas mjekëve. Temperatura e lartë ka qenë një nga simptomat kryesore të kësaj viroze, tha mjeku P. Male. Rastet paraqiten gjithashtu me dhimbj",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-03T07:31:39+00:00",
+      "dateStr": "03 Sep, 07:31",
+      "isNew": true,
+      "id": "she01788420699"
+    },
+    {
+      "title": "US Open/ Carlos Alcaraz fiton me përmbysje ndaj Faria, kalon në turin e tretë",
+      "link": "https://24-ore.com/us-open-carlos-alcaraz-fiton-me-permbysje-ndaj-faria-kalon-ne-turin-e-trete/",
+      "description": "Tenisti spanjoll ka rrezikuar pas setit të parë, pastaj është ngjitur në katedër dhe ka mundur 3-1 portugezin. Fitorja e dytë radhazi për Carlos Alcaraz pa rikthimit nga dëmtimi. Spanjolli ka kaluar në turin e tretë të US Open 2026, pasi ka triumfuar ndaj portugezit Jaime Faria me përmbysje. Ndeshja",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T02:05:38+00:00",
-      "dateStr": "03 Sep, 02:05",
+      "date": "2026-09-03T07:26:21+00:00",
+      "dateStr": "03 Sep, 07:26",
       "isNew": true,
-      "id": "24 31788401138"
+      "id": "24 31788420381"
     },
     {
-      "title": "Tifozët e Los Angeles Angels brohoritën ‘Mirupafshim, Arte’ pas shitjes historike prej 4 miliardë dollarësh te Stan Kroenke",
-      "link": "https://24-ore.com/tifozet-e-los-angeles-angels-brohoriten-mirupafshim-arte-pas-shitjes-historike-prej-4-miliarde-dollaresh-te-stan-kroenke/",
-      "description": "Tifozët e Los Angeles Angels nisën të brohorisin 'Mirupafshim, Arte' gjatë humbjes 7-3 kundër New York Yankees, duke shfaqur pakënaqësinë e tyre me pronari...",
+      "title": "Lojërat Mesdhetare: Calja pas medaljeve: 17 vite sakrifica, ende luftoj për Shqipërinë",
+      "link": "https://24-ore.com/lojerat-mesdhetare-calja-pas-medaljeve-17-vite-sakrifica-ende-luftoj-per-shqiperine/",
+      "description": "Peshëngritësi Briken Calja i dhuroi Shqipërisë dy medalje në Lojërat Mesdhetare Taranto 2026, që transmetohen në RTSH. Ai fitoi një medalje ari në stilin e shkëputjes dhe një medalje bronzi në stilin e shtytjes, duke vendosur edhe disa rekorde kombëtare e ndërkombëtare. Calja ka bërë një postim në f",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T02:02:55+00:00",
-      "dateStr": "03 Sep, 02:02",
+      "date": "2026-09-03T07:26:08+00:00",
+      "dateStr": "03 Sep, 07:26",
       "isNew": true,
-      "id": "24 41788400975"
+      "id": "24 41788420368"
     },
     {
-      "title": "Trey Augustine synon vendin e portierit titullar te Grand Rapids dhe pret mundësi me Detroit Red Wings",
-      "link": "https://24-ore.com/trey-augustine-synon-vendin-e-portierit-titullar-te-grand-rapids-dhe-pret-mundesi-me-detroit-red-wings/",
-      "description": "Trey Augustine, 21 vjeç, është një nga perspektivat kryesore për pozicionin e portierit në organizatën e Detroit Red Wings dhe këtë sezon do të luftojë për...",
+      "title": "Emri/ Vrasje për hakmarrje në Mirditë! Gjendet makina e djegur e autorëve të atentatit",
+      "link": "https://shekulli.com.al/2026/09/03/emri-vrasje-per-hakmarrje-ne-mirdite-gjendet-makina-e-djegur-e-autoreve-te-atentatit/",
+      "description": "Të shtëna me armë zjarri janë raportuar mëngjesin e sotëm në Mirditë, ku raportohet se një person ka humbur jetën. Raportohet se ngjarja ka ndodhur në fshatin Ndërfushas, ku viktima është identifikuar si Viktor Bardhi. Paraprakisht dyshohet se kemi të bëjmë me një krim për hakmarrje, pasi viktimës i",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-03T07:23:06+00:00",
+      "dateStr": "03 Sep, 07:23",
+      "isNew": true,
+      "id": "she11788420186"
+    },
+    {
+      "title": "Durrësi “zgjohet” i trazuar, dy tritole në dy biznese",
+      "link": "https://24-ore.com/durresi-zgjohet-i-trazuar-dy-tritole-ne-dy-biznese/",
+      "description": "Dy incidente me lëndë plasëse janë regjistruar gjatë orëve të para të mëngjesit në Durrës. Sipas informacioneve paraprake, në të dyja rastet janë shkaktuar vetëm dëme të lehta materiale. Rreth orës 03:50, në lagjen nr. 11 të Durrësit, në derën e jashtme të një lokali në pronësi të shtetasit me inici",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T02:02:02+00:00",
-      "dateStr": "03 Sep, 02:02",
+      "date": "2026-09-03T07:22:29+00:00",
+      "dateStr": "03 Sep, 07:22",
       "isNew": true,
-      "id": "24 51788400922"
+      "id": "24 51788420149"
     },
     {
-      "title": "Rihanna me trench të gjatë dhe çantë të qepur paralajmëron sezonin e vjeshtës",
-      "link": "https://24-ore.com/rihanna-me-trench-te-gjate-dhe-cante-te-qepur-paralajmeron-sezonin-e-vjeshtes/",
-      "description": "Rihanna u shfaq jashtë hotelit The Royal Monceau në Paris me një kombinim që evidenton kalimin drejt stinëve: një trench i gjatë dhe i gjerë tërheq vëmendj...",
+      "title": "“Tiktaku” i orës 10:00, Rama mbledh Grupin Parlamentar të PS-së, çfarë pritet sot",
+      "link": "https://24-ore.com/tiktaku-i-ores-1000-rama-mbledh-grupin-parlamentar-te-ps-se-cfare-pritet-sot/",
+      "description": "Kryeministri Edi Rama, njëkohësisht kryetar i Partisë Socialiste, do të mbledhë sot Grupin Parlamentar të PS-së dhe anëtarët e qeverisë. Takimi do të zhvillohet në orën 10:00, në Pallatin e Brigadave. Në fokus të mbledhjes pritet të jetë koncepti “Prania Besnike”, i prezantuar si pjesë e mënyrës së ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T01:55:33+00:00",
-      "dateStr": "03 Sep, 01:55",
+      "date": "2026-09-03T07:22:18+00:00",
+      "dateStr": "03 Sep, 07:22",
       "isNew": true,
-      "id": "24 61788400533"
+      "id": "24 61788420138"
     },
     {
-      "title": "Toronto FC përforcohet me Lewis Morgan nga San Diego FC",
-      "link": "https://24-ore.com/toronto-fc-perforcohet-me-lewis-morgan-nga-san-diego-fc/",
-      "description": "Toronto FC ka nënshkruar me sulmuesin në krah Lewis Morgan, në një marrëveshje me San Diego FC që përfshin një vend ndërkombëtar në listën e skuadrës për v...",
+      "title": "Hoxha takim me Zëvendëskryeministrin dhe Ministrin e jashtëm të Malit të Zi: Konfirmim i marrëdhënies së shëndetshme mes dy vendeve tona",
+      "link": "https://24-ore.com/hoxha-takim-me-zevendeskryeministrin-dhe-ministrin-e-jashtem-te-malit-te-zi-konfirmim-i-marredhenies-se-shendetshme-mes-dy-vendeve-tona/",
+      "description": "Ministri për Evropën dhe Punët e Jashtme, Ferit Hoxha dhe Ministri i Punëve të Jashtme të Malit të Zi, Ervin Ibrahimovic kanë zhvilluar një takim duke konfirmuar vazhdimësinë e marrëdhënies miqësore midis dy vendeve fqinje. Hoxha ka publikuar një foto në rrjetin e tij social X me ministrin malazez m",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T01:30:41+00:00",
-      "dateStr": "03 Sep, 01:30",
+      "date": "2026-09-03T07:22:04+00:00",
+      "dateStr": "03 Sep, 07:22",
       "isNew": true,
-      "id": "24 71788399041"
+      "id": "24 71788420124"
     },
     {
-      "title": "Fituesit dhe humbësit kryesorë pas vendimit të NBA-së për LA Clippers dhe Kawhi Leonard",
-      "link": "https://24-ore.com/fituesit-dhe-humbesit-kryesore-pas-vendimit-te-nba-se-per-la-clippers-dhe-kawhi-leonard/",
-      "description": "NBA ka shqiptuar masa ndaj Los Angeles Clippers dhe disa individëve të lidhur me hetimin për shmangie të kufijve të pagave. Pronarit Steve Ballmer i është...",
+      "title": "Pse kaq shumë vende duan të bashkohen me BE-në, përveç vendeve më të pasura të Evropës! Përmendet dhe Shqipëria",
+      "link": "https://24-ore.com/pse-kaq-shume-vende-duan-te-bashkohen-me-be-ne-pervec-vendeve-me-te-pasura-te-evropes-permendet-dhe-shqiperia/",
+      "description": "Nëntë vende kandidate po garojnë për t’u anëtarësuar në Bashkimin Evropian. Tre nga demokracitë më të pasura të Evropës po bëjnë gjithçka që munden për të qëndruar jashtë. A është më e dobët tërheqja e BE-së ndaj vendeve më të pasura të kontinentit? Ukraina dhe Moldavia kanë përfunduar shqyrtimin e ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T01:22:30+00:00",
-      "dateStr": "03 Sep, 01:22",
+      "date": "2026-09-03T07:21:49+00:00",
+      "dateStr": "03 Sep, 07:21",
       "isNew": true,
-      "id": "24 81788398550"
+      "id": "24 81788420109"
     },
     {
-      "title": "Yankees përballë Angels në Angel Stadium: Schlittler starton kundër Detmers më 2 shtator 2026",
-      "link": "https://24-ore.com/yankees-perballe-angels-ne-angel-stadium-schlittler-starton-kunder-detmers-me-2-shtator-2026/",
-      "description": "Më 2 shtator 2026, New York Yankees programuan ndeshjen ndaj Los Angeles Angels në Angel Stadium, Anaheim. Startues për Yankees ishte C. Schlittler (12-6,...",
+      "title": "Të shtëna me armë në një pallat në Minneapolis, 3 të vdekur dhe 5 të plagosur",
+      "link": "https://24-ore.com/te-shtena-me-arme-ne-nje-pallat-ne-minneapolis-3-te-vdekur-dhe-5-te-plagosur/",
+      "description": "Një ngjarje e rëndë ka tronditur qendrën e Minneapolisit në SHBA, ku tre persona kanë humbur jetën si pasojë e të shtënave më armë zjarri. Mes viktimave është edhe autori e dyshuar, ndërsa pesë të tjerë janë plagosur. Ngjarja ndodhi të mërkurën në një ndërtesë banimi në qendër të qytetit. Sipas auto",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T01:21:14+00:00",
-      "dateStr": "03 Sep, 01:21",
+      "date": "2026-09-03T07:21:35+00:00",
+      "dateStr": "03 Sep, 07:21",
       "isNew": true,
-      "id": "24 91788398474"
+      "id": "24 91788420095"
     },
     {
-      "title": "“Në të mirë dhe në të keqe”, çifti në Filipine kurorëzohet në kishën e përmbytur",
-      "link": "https://abcnews.al/ne-te-mire-dhe-ne-te-keqe-cifti-ne-filipine-kurorezohet-ne-kishen-e-permbytur/",
-      "description": "Një çift në Filipine ka zhvilluar ceremoninë e martesës në një kishë të përmbytur, pavarësisht kushteve të vështira të krijuara nga reshjet e dendura të musonit. Pamjet tregojnë Lhiane Galang dhe Gilbert Gibo Chico teksa kalojnë nëpër ujërat e përmbytjes, që u arrinin deri në kofshë, për të mbërritu",
+      "title": "Kosovë/ PDK kërkon konstituimin e Kuvendit: T’i jepet fund krizës shtetërore",
+      "link": "https://abcnews.al/kosove-pdk-kerkon-konstituimin-e-kuvendit-ti-jepet-fund-krizes-shteterore/",
+      "description": "Partia Demokratike e Kosovës ka kërkuar sërish sot konstituimin e menjëhershëm të Kuvendit të Kosovës, duke akuzuar kryeministrin në detyrë, Albin Kurti, për zgjatjen e krizës institucionale. Përmes një njoftimi, PDK deklaron se sot shënohet dita e 27-të e asaj që kjo parti e cilëson si “përmbysje t",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-02T21:49:56+00:00",
-      "dateStr": "02 Sep, 21:49",
+      "date": "2026-09-03T07:15:17+00:00",
+      "dateStr": "03 Sep, 07:15",
       "isNew": true,
-      "id": "abc01788385796"
+      "id": "abc01788419717"
     },
     {
-      "title": "Dy aksidente në pak orë, dy viktima/ Shkodër, makina godet motorin në Golem, vdes 17-vjeçari",
-      "link": "https://abcnews.al/dy-aksidente-ne-pak-ore-dy-viktima-shkoder-makina-godet-motorin-ne-golem-vdes-17-vjecari/",
-      "description": "Dy aksidente me pasoja të rënda janë regjistruar brenda së njëjtës ditë në dy akse rrugore. Aksidenti i parë ndodhi mesditën e së mërkurës në fshatin Golem të Shkodrës. Një 17-vjeçar humbi jetën, ndërsa 28-vjeçari Elvis Ndrejaj mbeti i plagosur dhe ndodhet në spitalin rajonal, nën kujdesin e mjekëve",
+      "title": "Pas largimit të Salës, ndryshime të tjera në qeveri? Rama mbledh sot grupin parlamentar të Partisë Socialiste",
+      "link": "https://shekulli.com.al/2026/09/03/pas-largimit-te-sales-ndryshime-te-tjera-ne-qeveri-rama-mbledh-sot-grupin-parlamentar-te-partise-socialiste/",
+      "description": "Evis Sala dha dorëheqjen, pas thuajse një viti në detyrën e ministres së Shëndetësisë\nThe post Pas largimit të Salës, ndryshime të tjera në qeveri? Rama mbledh sot grupin parlamentar të Partisë Socialiste appeared first on Shekulli.",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-03T07:13:42+00:00",
+      "dateStr": "03 Sep, 07:13",
+      "isNew": true,
+      "id": "she21788419622"
+    },
+    {
+      "title": "Të shtëna me armë zjarri në Mirditë, dyshohet për një të vrarë",
+      "link": "https://abcnews.al/te-shtena-me-arme-zjarri-ne-mirdite-dyshohet-per-nje-te-vrare/",
+      "description": "Të shtëna me armë zjarri janë raportuar në Ndërfushas në Mirditë. Sipas informacioneve paraprake, nga të shtënat me armë dyshohet për një të vrarë. [...]Read More...",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-02T21:35:27+00:00",
-      "dateStr": "02 Sep, 21:35",
+      "date": "2026-09-03T07:10:29+00:00",
+      "dateStr": "03 Sep, 07:10",
       "isNew": true,
-      "id": "abc11788384927"
+      "id": "abc11788419429"
     },
     {
-      "title": "“Rama, kryeministër i surprizave”, avokati: Sala, ministrja më e dobët në qeverisje. Fokusi duhet në administratë!",
-      "link": "https://abcnews.al/rama-kryeminister-i-surprizave-avokati-sala-ministrja-me-e-dobet-ne-qeverisje-fokusi-duhet-ne-administrate/",
-      "description": "Avokati Edmond Petraj ka komentuar ndryshimet e fundit në qeveri, duke u ndalur te largimi i Evis Salës nga drejtimi i Ministrisë së Shëndetësisë. Petraj e cilësoi Evis Salën si një nga ministret më të dobëta, duke theksuar se kritikat e tij nuk lidhen me formimin akademik, por me mënyrën e komuniki",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-02T21:26:35+00:00",
-      "dateStr": "02 Sep, 21:26",
-      "isNew": true,
-      "id": "abc21788384395"
-    },
-    {
-      "title": "“War Report” me Sali Doçin, (02/09/2026)",
-      "link": "https://abcnews.al/war-report-me-sali-docin-02-09-2026/",
+      "title": "03 Shtator 2026, “Telefonatat e Teleshikuesve” – Mirëmëngjes me Bashkim Hoxhën",
+      "link": "https://abcnews.al/03-shtator-2026-telefonatat-e-teleshikuesve-miremengjes-me-bashkim-hoxhen/",
       "description": "[...]Read More...",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-02T21:24:53+00:00",
-      "dateStr": "02 Sep, 21:24",
+      "date": "2026-09-03T07:07:52+00:00",
+      "dateStr": "03 Sep, 07:07",
       "isNew": true,
-      "id": "abc31788384293"
+      "id": "abc21788419272"
     },
     {
-      "title": "Turqia ka nisur anulimin e fluturimeve drejt Rusisë",
-      "link": "https://abcnews.al/turqia-ka-nisur-anulimin-e-fluturimeve-drejt-rusise/",
-      "description": "Fluturimet nga Turqia drejt Rusisë janë përfshirë nga anulime dhe vonesa të shumta gjatë 24 orëve të fundit, me rreth 80 fluturime të prekura në aeroportet e Moskës. Dhjetëra turistë rusë të bllokuar në Antalia kanë pritur për orë të tëra për t’u kthyer në Rusi. Disa prej tyre kanë thënë se kanë qën",
+      "title": "03 Shtator 2026, “Shtypi i ditës” – Mirëmëngjes me Bashkim Hoxhën",
+      "link": "https://abcnews.al/03-shtator-2026-shtypi-i-dites-miremengjes-me-bashkim-hoxhen/",
+      "description": "[...]Read More...",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-02T21:09:49+00:00",
-      "dateStr": "02 Sep, 21:09",
+      "date": "2026-09-03T07:06:27+00:00",
+      "dateStr": "03 Sep, 07:06",
       "isNew": true,
-      "id": "abc41788383389"
+      "id": "abc31788419187"
+    },
+    {
+      "title": "BBC: Kontrabandistët e emigrantëve ndryshojnë skemën, “mega-varkat” kërcënojnë me rritjen e kalimeve drejt Britanisë",
+      "link": "https://abcnews.al/bbc-kontrabandistet-e-emigranteve-ndryshojne-skemen-mega-varkat-kercenojne-me-rritjen-e-kalimeve-drejt-britanise/",
+      "description": "Një hetim i BBC-së ka zbuluar se rënia e numrit të varkave të vogla që kalojnë ilegalisht Kanalin Anglez po i detyron rrjetet e kontrabandës së emigrantëve të ndryshojnë mënyrën e tyre të veprimit. Sipas BBC-së, grupet kriminale po përdorin gjithnjë e më shumë varka më të mëdha, të ashtuquajtura “me",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T07:00:15+00:00",
+      "dateStr": "03 Sep, 07:00",
+      "isNew": true,
+      "id": "abc41788418815"
+    },
+    {
+      "title": "Kontroll në burgun e Durrësit, gjenden 5 celularë në sektorin ku ndodhet Erion Veliaj",
+      "link": "https://shekulli.com.al/2026/09/03/kontroll-ne-burgun-e-durresit-gjenden-5-celulare-ne-sektorin-ku-ndodhet-erion-veliaj/",
+      "description": "Një kontroll i befasishëm është zhvilluar në orët e para të mëngjesit në burgun e Durrësit, ku autoritetet kanë zbuluar pesë aparate celularë në një prej sektorëve të institucionit. Celularët janë gjetur në sektorin B, ku qëndrojnë disa ish-zyrtarë, mes tyre edhe kryetari i Bashkisë së Tiranës, Erio",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-03T06:56:36+00:00",
+      "dateStr": "03 Sep, 06:56",
+      "isNew": true,
+      "id": "she31788418596"
+    },
+    {
+      "title": "Çfarë ndodhi gjatë natës në Durrës, dy shpërthime me tritol trondisin qytetin",
+      "link": "https://shekulli.com.al/2026/09/03/cfare-ndodhi-gjate-nates-ne-durres-dy-shperthime-me-tritol-trondisin-qytetin/",
+      "description": "Dy shpërthime me tritol kanë ndodhur orët e para të mëngjesit në Durrës. Rreth orës 03:50, në lagjen nr. 11, Durrës, në derën e jashtme të një lokali në pronësi të shtetasit Gëzim Kajno, është hedhur një sasi e vogël lënde plasëse. Si pasojë, janë shkaktuar vetëm dëme të lehta materiale. Gjithashtu,",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-03T06:46:36+00:00",
+      "dateStr": "03 Sep, 06:46",
+      "isNew": true,
+      "id": "she41788417996"
+    },
+    {
+      "title": "VIDEO/ Dy shpërthime me lëndë plasëse gjatë natës në Durrës, dëme në një lokal dhe një garazh",
+      "link": "https://abcnews.al/dy-shperthime-me-lende-plasese-gjate-nates-ne-durres-deme-ne-nje-lokal-dhe-nje-garazh/",
+      "description": "Dy raste të hedhjes së lëndëve plasëse janë regjistruar gjatë orëve të para të mëngjesit në Durrës. Nga shpërthimet janë shkaktuar vetëm dëme materiale. Rasti i parë është regjistruar rreth orës 03:50, në lagjen nr. 11 të Durrësit. Sipas policisë, në derën e jashtme të një lokali në pronësi të shtet",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T06:36:58+00:00",
+      "dateStr": "03 Sep, 06:36",
+      "isNew": true,
+      "id": "abc51788417418"
+    },
+    {
+      "title": "Shqipëria në vëmendjen e turistëve të huaj: Plazhe të paprekura, mes destinacioneve që duhen vizituar tani",
+      "link": "https://abcnews.al/shqiperia-ne-vemendjen-e-turisteve-te-huaj-plazhe-te-paprekura-mes-destinacioneve-qe-duhen-vizituar-tani/",
+      "description": "Shqipëria po fiton gjithnjë e më shumë vëmendjen e turistëve ndërkombëtarë, ndërsa Riviera Shqiptare po cilësohet si një prej destinacioneve më autentike dhe ende relativisht të pazbuluara të Evropës. Gazetarja e udhëtimeve Becca Blond, në një artikull të publikuar në “Yahoo! Creators”, e ka renditu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T06:30:27+00:00",
+      "dateStr": "03 Sep, 06:30",
+      "isNew": true,
+      "id": "abc61788417027"
+    },
+    {
+      "title": "“Qielli rus nuk është i sigurt”/ Paralajmërimi i Zelenskyt, aviacioni civil në gatishmëri",
+      "link": "https://abcnews.al/qielli-rus-nuk-eshte-i-sigurt-paralajmerimi-i-zelenskyt-aviacioni-civil-ne-gatishmeri/",
+      "description": "ICAO paralajmëron për rrezikun në zonat e luftës: “Shtetet të mbrojnë avionët civilë” Organizata Ndërkombëtare e Aviacionit Civil (ICAO) ka përsëritur thirrjen ndaj shteteve anëtare për të forcuar masat për mbrojtjen e avionëve civilë nga rreziqet që vijnë prej zonave të konfliktit. Në një deklaratë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T06:19:09+00:00",
+      "dateStr": "03 Sep, 06:19",
+      "isNew": true,
+      "id": "abc71788416349"
+    },
+    {
+      "title": "Rama ndan pamje nga takimi me studentët e Prishtinës: Politika të jep mundësi që të bësh bashkë gjëra që vetëm si bën dot",
+      "link": "https://abcnews.al/rama-ndan-pamje-nga-takimi-me-studentet-e-prishtines-politika-te-jep-mundesi-qe-te-besh-bashke-gjera-qe-vetem-si-ben-dot/",
+      "description": "Kryeministri Edi Rama ka ndarë në rrjetet sociale pamje nga vizita e Këshillit Studentor të Fakultetit Filozofik të Prishtinës në Kryeministri. Në një postim në Facebook, Rama shkruan se videoja është nga vizita e studentëve në Kryeministri, pas takimit të tij me ta në auditorin e Fakultetit Filozof",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T06:19:01+00:00",
+      "dateStr": "03 Sep, 06:19",
+      "isNew": true,
+      "id": "abc81788416341"
+    },
+    {
+      "title": "“Wall Street Journal”: Trump shqyrton shpalljen e fundit të luftës me Iranin, Pentagoni zgjeron dislokimin në Lindjen e Mesme",
+      "link": "https://abcnews.al/wall-street-journal-trump-shqyrton-shpalljen-e-fundit-te-luftes-me-iranin-pentagoni-zgjeron-dislokimin-ne-lindjen-e-mesme/",
+      "description": "Presidenti i SHBA-së, Donald Trump, po shqyrton mundësinë e shpalljes së përfundimit të luftës me Iranin, ndërsa Pentagoni po zgjeron në heshtje dislokimin e forcave amerikane në Lindjen e Mesme. Lajmi është raportuar nga The Wall Street Journal, duke iu referuar burimeve të njohura me diskutimet në",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-03T06:03:52+00:00",
+      "dateStr": "03 Sep, 06:03",
+      "isNew": true,
+      "id": "abc91788415432"
     },
     {
       "title": "Tragjike/ Vdes në aksident rrugor ish-banori i Big Brother VIP",
@@ -177,18 +287,7 @@
       "date": "2026-09-02T20:56:42+00:00",
       "dateStr": "02 Sep, 20:56",
       "isNew": true,
-      "id": "she01788382602"
-    },
-    {
-      "title": "Trump bëhet presidenti i parë amerikan në detyrë që shfaqet në një monedhë",
-      "link": "https://abcnews.al/trump-behet-presidenti-i-pare-amerikan-ne-detyre-qe-shfaqet-ne-nje-monedhe/",
-      "description": "Thesari amerikan i monedhave (US Mint) ka nxjerrë në qarkullim monedhën 1-dollarëshe të vitit 2026 me portretin e presidentit Donald Trump, duke shënuar herën e parë që një president amerikan në detyrë shfaqet në një monedhë të destinuar për përdorim të përditshëm. Monedha, e quajtur “dollari i artë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-02T20:49:45+00:00",
-      "dateStr": "02 Sep, 20:49",
-      "isNew": true,
-      "id": "abc51788382185"
+      "id": "she51788382602"
     },
     {
       "title": "Tirana me stacion të ri hekurudhor në “Bulevardin e Ri” dhe kompleks Governativ (DETAJET)",
@@ -199,18 +298,7 @@
       "date": "2026-09-02T20:44:42+00:00",
       "dateStr": "02 Sep, 20:44",
       "isNew": true,
-      "id": "she11788381882"
-    },
-    {
-      "title": "Shqipëria, destinacioni më i mirë në Europë/ Promovimi i “Europe Explores”: Nga Riviera te qytetet UNESCO",
-      "link": "https://abcnews.al/shqiperia-destinacioni-me-i-mire-ne-europe-promovimi-i-europe-explores-nga-riviera-te-qytetet-unesco/",
-      "description": "Me titullin “Shqipëria kurorëzohet si destinacioni më i mirë turistik në Europë”, “Europe Explores” i kushton një postim Shqipërisë, duke e prezantuar si një prej destinacioneve më të përfolura të Europës Në përshkrim, faqja veçon ujërat e kristalta të Rivierës shqiptare dhe Ksamilit, qytetet histor",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-02T20:29:46+00:00",
-      "dateStr": "02 Sep, 20:29",
-      "isNew": true,
-      "id": "abc61788380986"
+      "id": "she61788381882"
     },
     {
       "title": "VIDEO/ Aksident i trefishtë në autostradën Tiranë – Durrës, përmbyset ‘Benzi’’, bllokohet qarkullimi",
@@ -221,40 +309,7 @@
       "date": "2026-09-02T20:11:28+00:00",
       "dateStr": "02 Sep, 20:11",
       "isNew": true,
-      "id": "she21788379888"
-    },
-    {
-      "title": "Trump propozon ndryshimin e emrit të Ngushticës së Hormuzit në “Ngushtica Trump”",
-      "link": "https://abcnews.al/trump-propozon-ndryshimin-e-emrit-te-ngushtices-se-hormuzit-ne-ngushtica-trump/",
-      "description": "Presidenti i SHBA-së, Donald Trump, ka hedhur një ide të pazakontë për ndryshimin e emrit të Ngushticës së Hormuzit, duke sugjeruar që ajo të quhet “Ngushtica Trump”. Në një postim në rrjetin e tij social, Trump shkroi “tani që e kemi nën kontrollin e SHBA-së, a duhet ta ndryshojmë emrin e Ngushticë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-02T20:01:03+00:00",
-      "dateStr": "02 Sep, 20:01",
-      "isNew": true,
-      "id": "abc71788379263"
-    },
-    {
-      "title": "Zjarret, 4 vatra ende aktive/ Qindra forca në terren, ndërhyrje nga ajri, nuk rrezikohen banesat",
-      "link": "https://abcnews.al/situata-me-zjarret-mbrojtja-4-vatra-ende-aktive-me-kryesorja-ne-dajt-qafe-priske/",
-      "description": "Vatrat aktive vijojnë në Dajt-Qafë Priskë, Vajkal të Bulqizës, Lundre dhe Mallunxë të Matit. Në Dajt, situata mbetet problematike, por pa rrezik për zonat e banuara. Në Vajkal, zjarri ka përshkuar më shumë se 13 hektarë, ndërsa vijon puna për izolimin dhe shuarjen e flakëve. Situata më e vështirë pa",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-02T19:59:21+00:00",
-      "dateStr": "02 Sep, 19:59",
-      "isNew": true,
-      "id": "abc81788379161"
-    },
-    {
-      "title": "Lufta SHBA-Iran, fund pa krye?/ Krisafi: Irani po bllokon vetveten me kufizimet në Hormuz",
-      "link": "https://abcnews.al/lufta-shba-iran-fund-pa-krye-krisafi-irani-po-bllokon-vetveten-me-kufizimet-ne-hormuz/",
-      "description": "Eksperti Ledion Krisafi ka komentuar situatën në Lindjen e Mesme, duke u ndalur te zhvillimet e fundit dhe ndikimi i presionit ekonomik ndaj Iranit. Sipas Krisafit, konflikti duket i qetë dhe kjo lidhet edhe me mënyrën se si Presidenti amerikan Donald Trump ka arritur të menaxhojë luftërat, duke shm",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-02T19:53:23+00:00",
-      "dateStr": "02 Sep, 19:53",
-      "isNew": true,
-      "id": "abc91788378803"
+      "id": "she71788379888"
     },
     {
       "title": "‘’Ju erdhi fundi’’, zhvillohet protesta e 95-të në Tiranë, shtatori rrit numrin e qytetarëve",
@@ -265,7 +320,7 @@
       "date": "2026-09-02T19:43:37+00:00",
       "dateStr": "02 Sep, 19:43",
       "isNew": true,
-      "id": "she31788378217"
+      "id": "she81788378217"
     },
     {
       "title": "OSHEE skemë lehtësuese për familjarët dhe bizneset që kanë detyrime të prapambetura të energjisë elektrike",
@@ -276,62 +331,7 @@
       "date": "2026-09-02T19:26:21+00:00",
       "dateStr": "02 Sep, 19:26",
       "isNew": true,
-      "id": "she41788377181"
-    },
-    {
-      "title": "Ndërtimet pa leje/ Qeveria miraton ndryshimet në ligj, një pjesë e objekteve të konfiskuara do të përdoren për strehim social",
-      "link": "https://shekulli.com.al/2026/09/02/ndertimet-pa-leje-qeveria-miraton-ndryshimet-ne-ligj-nje-pjese-e-objekteve-te-konfiskuara-do-te-perdoren-per-strehim-social/",
-      "description": "Këshilli i Ministrave në mbledhjen e sotme ka miratuar propozimin për ndryshime dhe shtesa në ligjin për administrimin e objekteve të konfiskuara si ndërtime pa leje. Ndryshimet synojnë që këto objekte të përdoren për interes publik, strehim social dhe për zbutjen e pasojave sociale të shkaktuara. P",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-02T19:12:43+00:00",
-      "dateStr": "02 Sep, 19:12",
-      "isNew": true,
-      "id": "she51788376363"
-    },
-    {
-      "title": "Dorëheqja e ministres Sala, reagime të forta nga opozita: Shkak superagjencia ‘izraelite’ që do kontrollojë 1.5 miliardë euro tendera",
-      "link": "https://shekulli.com.al/2026/09/02/doreheqja-e-ministres-sala-reagime-te-forta-nga-opozita-shkak-superagjensia-izraelite-qe-do-kontrolloje-1-5-miliarde-euro-tendera/",
-      "description": "Këtë të mërkurë ministrja e Shëndetësisë dhe Mirëqënies Sociale, Evis Sala, u dorëhoq pas afro një viti në këtë pozicion. Në mbledhjen e qeverisë, Sala njoftoi dorëheqjen për shkak të impenjmit të saj ndërkombëtar. Ky zhvillim ka sjellë reagime në kampin e opozitës, me disa deputetë dhe figura aktiv",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-02T18:59:26+00:00",
-      "dateStr": "02 Sep, 18:59",
-      "isNew": true,
-      "id": "she61788375566"
-    },
-    {
-      "title": "Uji shkatërroi gjithçka, por jo “shtëpinë jeshile”. Si ndërtesa trekatëshe në Nepal i mbijetoi furisë së përmbytjes, pronari i saj rrëfen tmerrin",
-      "link": "https://shekulli.com.al/2026/09/02/uji-shkaterroi-gjithcka-por-jo-shtepine-jeshile-si-ndertesa-trekateshe-ne-nepal-i-mbijetoi-furise-se-permbytjes-pronari-i-saj-rrefen-tmerrin/",
-      "description": "Një shtëpi trekatëshe me ngjyrë të gjelbër në Dhunge Bazaar të Nepalit është kthyer në një fenomen në rrjetet sociale, pasi i mbijetoi një përmbytjeje shkatërruese që përfshiu zonën. Banesa e familjes Pyakurel, e cilësuar nga përdoruesit në rrjet si “shtëpia mrekulli” apo “shtëpia virale”, u bë e nj",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-02T18:19:47+00:00",
-      "dateStr": "02 Sep, 18:19",
-      "isNew": true,
-      "id": "she71788373187"
-    },
-    {
-      "title": "Qeveria hap fondin e kompensimit për pronarët, 13 675 lekë për metër katror, zonat që përfshihen",
-      "link": "https://shekulli.com.al/2026/09/02/qeveria-hap-fondin-e-kompensimit-per-pronaret-13-675-leke-per-meter-katror-zonat-qe-perfshihen/",
-      "description": "Qeveria ka miratuar në mbledhjen e sotme vendimin për kompensimin financiar të pronarëve të pasurive të paluajtshme që preken nga ndërtimet e legalizuara. Sipas vendimit, fondi në dispozicion për kompensimin financiar është 840.7 milionë lekë dhe do të përdoret për një sipërfaqe totale prej 61 477 m",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-02T17:44:02+00:00",
-      "dateStr": "02 Sep, 17:44",
-      "isNew": true,
-      "id": "she81788371042"
-    },
-    {
-      "title": "Dështon zgjedhja e Presidentit, Kurti takon Abdixhikun, kreu i LDK-së: Jemi në një situatë të pamundur numerike",
-      "link": "https://shekulli.com.al/2026/09/02/deshton-zgjedhja-e-presidentit-kurti-takon-abdixhikun-kreu-i-ldk-se-jemi-ne-nje-situate-te-pamundur-numerike/",
-      "description": "PRISHTINË &#8211; Kryeministri në detyrë i Kosovës, Albin Kurti dhe kryetari i Lidhjes Demokratike të Kosovës (LDK), Lumir Abdixhiku, kanë zhvilluar një takim pas dështimit të sigurimit të mbështetjes së nevojshme në Kuvend për zgjedhjen e kandidatit për president, Bekim Sejdiu. Pas përfundimit të t",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-02T17:23:39+00:00",
-      "dateStr": "02 Sep, 17:23",
-      "isNew": true,
-      "id": "she91788369819"
+      "id": "she91788377181"
     },
     {
       "title": "Flora Shabani “mahnit” rrjetin! Moderatorja e njohur nga Maqedonia e Veriut me paraqitje glamuroze",
