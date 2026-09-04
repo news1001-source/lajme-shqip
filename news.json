@@ -1,18 +1,161 @@
 {
-  "lastUpdated": "2026-09-04T21:10:49.122884+00:00",
+  "lastUpdated": "2026-09-04T23:39:11.434007+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Zjarret në Fier, OSSH stakon energjinë elektrike në linjat e tensionit të lartë për arsye sigurie",
-      "link": "https://24-ore.com/zjarret-ne-fier-ossh-stakon-energjine-elektrike-ne-linjat-e-tensionit-te-larte-per-arsye-sigurie/",
-      "description": "Për shkak të rënies së zjarrit në afërsi të linjave të tensionit të lartë 35 kilovolt TEC Fier–Pojan dhe Fier–Kafaraj, Operatori i Sistemit të Shpërndarjes (OSSH) ka njoftuar se është stakuar energjia elektrike në disa zona të qarkut Fier për efekte sigurie. Sipas njoftimit zyrtar, energjia elektrik",
+      "title": "Red Sox mposhtin Orioles 1-0 në përballjen e 4 shtatorit 2026",
+      "link": "https://24-ore.com/red-sox-mposhtin-orioles-1-0-ne-perballjen-e-4-shtatorit-2026/",
+      "description": "Më 4 shtator 2026, Boston Red Sox po udhëhiqnin 1-0 ndaj Baltimore Orioles. Ndeshja ishte në zhvillim e sipër, me të dy skuadrat të regjistruara me nga një...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-04T21:01:10+00:00",
-      "dateStr": "04 Sep, 21:01",
+      "date": "2026-09-04T23:32:41+00:00",
+      "dateStr": "04 Sep, 23:32",
       "isNew": true,
-      "id": "24 01788555670"
+      "id": "24 01788564761"
+    },
+    {
+      "title": "Flakët “pushtojnë” Himarën, shkrumbohen qindra ullinj (VIDEO)",
+      "link": "https://24-ore.com/flaket-pushtojne-himaren-shkrumbohen-qindra-ullinj-video/",
+      "description": "Zjarri që ka përfshirë zonën e Himarës ka shkaktuar dëme të konsiderueshme, ndërsa raportohet se janë djegur qindra rrënjë ullinj. Situata vijon të paraqitet e vështirë për forcat zjarrfikëse, pasi flakët kanë përfshirë territore të thepisura dhe me akses të kufizuar. Për shkak të terrenit të vështi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T23:11:51+00:00",
+      "dateStr": "04 Sep, 23:11",
+      "isNew": true,
+      "id": "24 11788563511"
+    },
+    {
+      "title": "460 forca në terren për shuarjen e zjarrit në Himarë, angazhohen edhe 160 ushtarakë",
+      "link": "https://24-ore.com/460-forca-ne-terren-per-shuarjen-e-zjarrit-ne-himare-angazhohen-edhe-160-ushtarake/",
+      "description": "Rreth 460 efektivë dhe punonjës të strukturave të ndryshme janë angazhuar në terren për përballimin dhe shuarjen e zjarrit. Në operacion janë përfshirë rreth 300 forca, të mbështetura nga automjete zjarrfikëse dhe efektivë të MZSH-së nga Fier, Tiranë, Tepelenë, Himarë, Vlorë, Finiq, Delvinë, Sarandë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T23:11:36+00:00",
+      "dateStr": "04 Sep, 23:11",
+      "isNew": true,
+      "id": "24 21788563496"
+    },
+    {
+      "title": "Situata në Himarë drejt stabilizimit, nuk ka më rrezik për banesat",
+      "link": "https://24-ore.com/situata-ne-himare-drejt-stabilizimit-nuk-ka-me-rrezik-per-banesat/",
+      "description": "Situata e zjarrit në Himarë është duke shkuar drejt stabilizimit, ndërsa sipas informacionit të fundit nga Prefektura e Vlorës, aktualisht nuk paraqitet më rrezik për banesat. Forcat e angazhuara në terren vijojnë operacionin për vënien nën kontroll të plotë të flakëve dhe izolimin e vatrave të mbet",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T23:11:19+00:00",
+      "dateStr": "04 Sep, 23:11",
+      "isNew": true,
+      "id": "24 31788563479"
+    },
+    {
+      "title": "Çfarë paralajmëroi Dolly Parton pa e ditur, vetëm pak ditë para vdekjes",
+      "link": "https://24-ore.com/cfare-paralajmeroi-dolly-parton-pa-e-ditur-vetem-pak-dite-para-vdekjes/",
+      "description": "Foto: Jason Kempin / Getty Images Vetëm katër ditë para se të ndahej nga jeta, Dolly Parton foli publikisht për problemet shëndetësore që, sipas saj, i kishte lënë pas dore gjatë viteve kur kujdesej për bashkëshortin e saj, Carl Dean. “Po trajtohem për disa probleme shëndetësore të cilave nuk u kush",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T23:01:13+00:00",
+      "dateStr": "04 Sep, 23:01",
+      "isNew": true,
+      "id": "24 41788562873"
+    },
+    {
+      "title": "Nëse vëreni këto 5 shenja, me shumë gjasa po pini mjaftueshëm ujë",
+      "link": "https://24-ore.com/nese-vereni-keto-5-shenja-me-shume-gjasa-po-pini-mjaftueshem-uje/",
+      "description": "Foto: ingwervanille / Getty Images E dimë që duhet të pimë ujë, por shpesh e kuptojmë sa pak kemi pirë vetëm kur kemi etje, dhimbje koke apo ndihemi të lodhur. Hidratimi i mirë mund të sjellë disa ndryshime të dukshme në trup, sidomos nëse më parë nuk pinim mjaftueshëm. Sipas Verywell Health, këto j",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T23:01:09+00:00",
+      "dateStr": "04 Sep, 23:01",
+      "isNew": true,
+      "id": "24 51788562869"
+    },
+    {
+      "title": "FIBA Women’s World Cup 2026: Rezultatet e Ditës së Parë dhe shenuesit kryesorë",
+      "link": "https://24-ore.com/fiba-womens-world-cup-2026-rezultatet-e-dites-se-pare-dhe-shenuesit-kryesore/",
+      "description": "Turneu i FIBA Women's Basketball World Cup 2026 nisi në Berlin me tetë ndeshje të fazës së grupeve, ku ekipet kombëtare zhvilluan përballjet e para të garë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T22:55:46+00:00",
+      "dateStr": "04 Sep, 22:55",
+      "isNew": true,
+      "id": "24 61788562546"
+    },
+    {
+      "title": "Acuña dyfishon në qendër të së djathtës, Braves në avantazh ndaj Phillies — 4 shtator 2026",
+      "link": "https://24-ore.com/acuna-dyfishon-ne-qender-te-se-djathtes-braves-ne-avantazh-ndaj-phillies-4-shtator-2026/",
+      "description": "Në ndeshjen e 4 shtatorit 2026 midis Atlanta Braves dhe Philadelphia Phillies, Atlanta mori avantazhin e hershëm pas një dublë të Ronald Acuña Jr. që u shk...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T22:50:35+00:00",
+      "dateStr": "04 Sep, 22:50",
+      "isNew": true,
+      "id": "24 71788562235"
+    },
+    {
+      "title": "Zeev Buium nënshkruan kontratë tetëvjeçare me Vancouver Canucks",
+      "link": "https://24-ore.com/zeev-buium-nenshkruan-kontrate-tetevjecare-me-vancouver-canucks/",
+      "description": "Zeev Buium nënshkroi një kontratë tetëvjeçare me Vancouver Canucks me vlerë totale 75.04 milionë dollarë. Vlera mesatare vjetore e marrëveshjes është 9.38...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T22:47:17+00:00",
+      "dateStr": "04 Sep, 22:47",
+      "isNew": true,
+      "id": "24 81788562037"
+    },
+    {
+      "title": "Himarë, qytetarët largohen me makina nga zonat e rrezikuara prej zjarrit",
+      "link": "https://24-ore.com/himare-qytetaret-largohen-me-makina-nga-zonat-e-rrezikuara-prej-zjarrit/",
+      "description": "Zjarri në Himarë ka detyruar një pjesë të qytetarëve të largohen me automjetet e tyre nga zonat e rrezikuara. Në rrugë është krijuar trafik i rënduar, ndërsa banorë dhe pushues po përpiqen të largohen sa më shpejt nga zonat ku flakët janë afruar pranë banesave dhe bizneseve. Autoritetet u kanë bërë ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T22:22:26+00:00",
+      "dateStr": "04 Sep, 22:22",
+      "isNew": true,
+      "id": "24 91788560546"
+    },
+    {
+      "title": "Egnatia më në fund vuan në fitore/ Kampionia e vendit arrin suksesin e tretë në Superligë",
+      "link": "https://abcnews.al/egnatia-me-ne-fund-vuan-ne-fitore-kampionia-e-vendit-arrin-suksesin-e-trete-ne-superlige/",
+      "description": "Ishte apo nuk ishte i rregullt?! Kjo është pyetja që u bë menjëherë pasi Egnatia shënoi golin e dytë ndaj Skënderbeut në “Arenën” e Rrogozhinës. Ishte minuta e 84-ët kur topin në rrjetë e dërgoi Lukili. U deshën shumë minuta për të verifikuar aksionin dhe pozicionin e lojtarit vendas Albaneze, që ha",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-04T21:44:34+00:00",
+      "dateStr": "04 Sep, 21:44",
+      "isNew": true,
+      "id": "abc01788558274"
+    },
+    {
+      "title": "Gjadri, model për 5 vende të BE/ Shtetet e unionit dakordësohen për ngritjen e qendrave të kthimit jashtë kthimit",
+      "link": "https://abcnews.al/gjadri-model-per-5-vende-te-be-shtetet-e-unionit-dakordesohen-per-ngritjen-e-qendrave-te-kthimit-jashte-kthimit/",
+      "description": "Danimarka, Austria, Gjermania, Holanda dhe Greqia kanë rënë dakord për një model të përbashkët për krijimin e qendrave të kthimit të migrantëve jashtë territorit të Bashkimit Evropian. Pesë vendet synojnë të jenë gati në vitin 2027 për të transferuar jashtë vendit të tyre  migrantë të parregullt, kë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-04T21:33:35+00:00",
+      "dateStr": "04 Sep, 21:33",
+      "isNew": true,
+      "id": "abc11788557615"
+    },
+    {
+      "title": "Berisha në SHBA/ Mahmutaj: Po mashtron për arsye shëndetësore, nuk i është hequr non grata",
+      "link": "https://abcnews.al/berisha-ne-shba-mahmutaj-po-mashtron-per-arsye-shendetesore-nuk-i-eshte-hequr-non-grata/",
+      "description": "Gazetari Fatos Mahmutaj thotë se SHBA nuk e ka falur Sali Berishën, dhe se kryedemokrati po shkel tokën amerikane për arsye shëndetësore. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Mahmutaj u shpreh se Berishës nuk i është hequr non grata. &#8220;Berisha shkon në Amerikë për dy ar",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-04T21:30:00+00:00",
+      "dateStr": "04 Sep, 21:30",
+      "isNew": true,
+      "id": "abc21788557400"
+    },
+    {
+      "title": "Situata alarmante nga zjarri, policia mbyll qarkullimin në bypass-in e Himarës",
+      "link": "https://abcnews.al/situata-alarmante-nga-zjarri-policia-mbyll-qarkullimin-ne-baypassin-e-himares/",
+      "description": "Policia ka bllokuar qarkullimin në bypass-in Himarës, për shkak të situatës së krijuar nga zjarri që vijon të përhapet në zonë. Në këtë segment rrugor lejohen të qarkullojnë vetëm mjetet zjarrfikëse dhe ato të emergjencës, ndërsa mjetet e tjera nuk lejohen të kalojnë. Masa është marrë për të garantu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-04T21:16:49+00:00",
+      "dateStr": "04 Sep, 21:16",
+      "isNew": true,
+      "id": "abc31788556609"
     },
     {
       "title": "VIDEO/ Orë ferri për Himarën, turistët mblidhen në breg të detit, me sytë nga flakët që po përpijnë gjithçka",
@@ -26,39 +169,6 @@
       "id": "she01788555647"
     },
     {
-      "title": "Privohet nga liria 34 vjeçari nga Kërçova, kërkohej me urdhër-arrest",
-      "link": "https://24-ore.com/privohet-nga-liria-34-vjecari-nga-kercova-kerkohej-me-urdher-arrest/",
-      "description": "Më 03.09.2026, në ora 14:00, në Kërçovë, policë të Drejtorisë për Punë të Brendshme Kërçovë arrestuan E.A. (34 vjeç) nga Kërçova. Ai ishte i kërkuar me urdhër-arrest në bazë të një vendimi gjyqësor për të vuajtur dënimin me burg për veprën penale “vjedhje”, sipas nenit 235 të Kodit Penal. Personi u ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-04T20:56:34+00:00",
-      "dateStr": "04 Sep, 20:56",
-      "isNew": true,
-      "id": "24 11788555394"
-    },
-    {
-      "title": "Fronti Popullor, OMLK-ja dhe Enver Hoxha – çfarë parashihte dokumenti i Stambollit?",
-      "link": "https://24-ore.com/fronti-popullor-omlk-ja-dhe-enver-hoxha-cfare-parashihte-dokumenti-i-stambollit/",
-      "description": "Ajo që ndodhi në Stamboll në tetor të vitit 1981 nuk mund të kuptohet vetëm përmes rrëfimeve të atyre që ishin ulur në tavolinën e negociatave. Për të rindërtuar atë që ndodhi pas takimit, “Dosjet” sjellin edhe dëshminë e një personi që OMLK-ja e kishte ngarkuar të merrte shpjegime nga Kadri Zeka, m",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-04T20:56:25+00:00",
-      "dateStr": "04 Sep, 20:56",
-      "isNew": true,
-      "id": "24 21788555385"
-    },
-    {
-      "title": "Banesa përfshihet nga flakët e mëdha në Himarë, digjet e gjitha (VIDEO)",
-      "link": "https://24-ore.com/banesa-perfshihet-nga-flaket-e-medha-ne-himare-digjet-e-gjitha-video/",
-      "description": "Kjo është një nga banesat e përfshira nga zjarri i fuqishëm në Himarë. Banesa është përfshirë e gjitha nga flakët dhe është shkrumbuar plotësisht. Situata paraqitet e vështirë për zjarrfikësit, të cilët vijojnë të jenë në terren, duke punuar për shuarjen dhe izolimin e flakëve, me qëllim parandalimi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-04T20:51:42+00:00",
-      "dateStr": "04 Sep, 20:51",
-      "isNew": true,
-      "id": "24 31788555102"
-    },
-    {
       "title": "VIDEO/ Pamje apokaliptike nga flakët në Himarë, shkon në dy numri i banesave të djegura",
       "link": "https://abcnews.al/video-pamje-apokaliptike-nga-flaket-ne-himare-shkon-ne-dy-numri-i-banesave-te-djegura/",
       "description": "Shkon në dy numri i banesave të djegura në Himarë, ndërsa situata në terren vijon të mbetet kritike. Zjarri po përhapet me shpejtësi në zonë, i favorizuar edhe nga era e fortë, e cila ndihmon në përhapjen e flakëve dhe vështirëson ndërhyrjen e forcave zjarrfikëse. Për përballimin e situatës, është n",
@@ -67,51 +177,7 @@
       "date": "2026-09-04T20:51:05+00:00",
       "dateStr": "04 Sep, 20:51",
       "isNew": true,
-      "id": "abc01788555065"
-    },
-    {
-      "title": "LA Galaxy përballet me New England Revolution në përballjen e së shtunës në Carson",
-      "link": "https://24-ore.com/la-galaxy-perballet-me-new-england-revolution-ne-perballjen-e-se-shtunes-ne-carson/",
-      "description": "LA Galaxy presin New England Revolution në një ndeshje me peshë për të dy skuadrat, ndërsa Galaxy kërkon pikë për t'u afruar më shumë ndaj zonës së play-of...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-04T20:50:56+00:00",
-      "dateStr": "04 Sep, 20:50",
-      "isNew": true,
-      "id": "24 41788555056"
-    },
-    {
-      "title": "VIDEO / “Largohuni urgjent nga…”, shtohet rreziku nga zjarret në Himarë, Bashkia publikon numrat e emergjenc",
-      "link": "https://24-ore.com/video-largohuni-urgjent-nga-shtohet-rreziku-nga-zjarret-ne-himare-bashkia-publikon-numrat-e-emergjenc/",
-      "description": "Një zjarr me përmasa të mëdha ka përfshirë mbrëmjen e kësaj të premteje qytetin e Himarës, duke shkaktuar një situatë tepër kritike për shkak të afërsisë së flakëve me zonat e banuara dhe përkeqësimit nga era e fortë. Vatra e zjarrit është përhapur me shpejtësi në kodrat pranë lagjes “1 Maji” dhe në",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-04T20:47:09+00:00",
-      "dateStr": "04 Sep, 20:47",
-      "isNew": true,
-      "id": "24 51788554829"
-    },
-    {
-      "title": "Renditja e ndeshjeve më të mira të celebriteteve në WWE para përballjes Lil Yachty ndaj Baron Corbin",
-      "link": "https://24-ore.com/renditja-e-ndeshjeve-me-te-mira-te-celebriteteve-ne-wwe-para-perballjes-lil-yachty-ndaj-baron-corbin/",
-      "description": "Reperi Lil Yachty pritet të debutojë në ring këtë fundjavë, kur në Sunday Night's Main Event do të përballet me kampionin e Shteteve të Bashkuara, Baron Co...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-04T20:46:44+00:00",
-      "dateStr": "04 Sep, 20:46",
-      "isNew": true,
-      "id": "24 61788554804"
-    },
-    {
-      "title": "Parandalohet një tjetër tentativë sabotimi në Gjermani, gjenden mjete shpërthyese pranë linjave të energjisë",
-      "link": "https://abcnews.al/parandalohet-nje-tjeter-tentative-sabotimi-ne-gjermani-gjenden-mjete-shperthyese-prane-linjave-te-energjise-2/",
-      "description": "Autoritetet gjermane kanë parandaluar një tjetër incident të dyshuar sabotimi ndaj infrastrukturës energjetike të vendit. Në zonën e Görlitzit, pranë kufirit me Poloninë, u zbuluan mjete shpërthyese në dy nënstacione elektrike të vendosura pranë linjave të transmetimit të energjisë. Policia gjermane",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-04T20:41:19+00:00",
-      "dateStr": "04 Sep, 20:41",
-      "isNew": true,
-      "id": "abc11788554479"
+      "id": "abc41788555065"
     },
     {
       "title": "VIDEO/ Zjarri në Himarë ‘një përbindësh’, apeli i autoriteteve: Largohuni sa më parë nga shtëpitë dhe bizneset",
@@ -123,39 +189,6 @@
       "dateStr": "04 Sep, 20:41",
       "isNew": true,
       "id": "she11788554467"
-    },
-    {
-      "title": "Përkeqësohet situata e zjarrit në Himarë, digjet një banesë, rrezikojnë të tjerat përreth (VIDEO)",
-      "link": "https://24-ore.com/perkeqesohet-situata-e-zjarrit-ne-himare-digjet-nje-banese-rrezikojne-te-tjerat-perreth-video/",
-      "description": "Është përkeqësuar situata e zjarrit në Himarë. Për pasojë, një banesë raportohet të jetë e djegur, ndërkohë rrezikojnë dhe të tjera pranë. Flakët kanë marrë përmasa të konsiderueshme dhe po përhapen me shpejtësi, për shkak edhe të favorizimit nga era e fortë që fryn në zonë. Situata mbetet shqetësue",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-04T20:37:43+00:00",
-      "dateStr": "04 Sep, 20:37",
-      "isNew": true,
-      "id": "24 71788554263"
-    },
-    {
-      "title": "Zjarret në Mat, Lezhë dhe Fier, Forcat e Armatosura: Vijojnë operacionet për shuarjen e vatrave",
-      "link": "https://24-ore.com/zjarret-ne-mat-lezhe-dhe-fier-forcat-e-armatosura-vijojne-operacionet-per-shuarjen-e-vatrave/",
-      "description": "Forcat e Armatosura dhe Ministria e Mbrojtjes kanë njoftuar se po vijojnë angazhimin për përballimin e situatës së zjarreve në disa zona të vendit. Në njodtim theksohet se efektivët janë të përqendruar në Mat, Lezhë dhe Fier, ku po punojnë për izolimin dhe shuarjen e vatrave. Ndërkaq, autoritetet u ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-04T20:37:35+00:00",
-      "dateStr": "04 Sep, 20:37",
-      "isNew": true,
-      "id": "24 81788554255"
-    },
-    {
-      "title": "Përkeqësohet situata nga zjarri në Himarë, digjen 2 banesa, rrezikohen 40 të tjera, banorët kërkojnë ndihmë (VIDEO)",
-      "link": "https://24-ore.com/perkeqesohet-situata-nga-zjarri-ne-himare-digjen-2-banesa-rrezikohen-40-te-tjera-banoret-kerkojne-ndihme-video/",
-      "description": "Situata nga zjarri në Himarë vijon të përkeqësohet, ndërsa flakët po përhapen me shpejtësi në zonë. Deri më tani raportohet se janë djegur dy banesa, ndërsa rrezikohen edhe rreth 40 të tjera. Forcat zjarrfikëse vijojnë luftën me flakët në terren, ndërsa situata paraqitet e vështirë për shkak të përh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-04T20:37:23+00:00",
-      "dateStr": "04 Sep, 20:37",
-      "isNew": true,
-      "id": "24 91788554243"
     },
     {
       "title": "VIDEO/ Tmerr në Himarë, zjarri përpin dy banesa dhe rrezikon gjithë lagjen. Turistët largohen nga qyteti, tymi pushton zonën",
@@ -177,7 +210,7 @@
       "date": "2026-09-04T20:15:26+00:00",
       "dateStr": "04 Sep, 20:15",
       "isNew": true,
-      "id": "abc21788552926"
+      "id": "abc51788552926"
     },
     {
       "title": "Zjarri në Levan/ Ministri i Mbrojtjes, Ermal Nufi ndjek nga afër situatën e krijuar nga flakët në zonë",
@@ -188,7 +221,7 @@
       "date": "2026-09-04T20:07:14+00:00",
       "dateStr": "04 Sep, 20:07",
       "isNew": true,
-      "id": "abc31788552434"
+      "id": "abc61788552434"
     },
     {
       "title": "Ukraina optimiste për miratimin e projektligjit amerikan për sanksione ndaj Rusisë",
@@ -199,7 +232,7 @@
       "date": "2026-09-04T20:01:47+00:00",
       "dateStr": "04 Sep, 20:01",
       "isNew": true,
-      "id": "abc41788552107"
+      "id": "abc71788552107"
     },
     {
       "title": "VIDEO/ Situatë kritike në Himarë, flakët djegin dy banesa dhe rrezikojnë mbi 30 të tjera",
@@ -232,7 +265,7 @@
       "date": "2026-09-04T19:28:02+00:00",
       "dateStr": "04 Sep, 19:28",
       "isNew": true,
-      "id": "abc51788550082"
+      "id": "abc81788550082"
     },
     {
       "title": "“Po kalojmë një tronditje energjetike”, Besent fajëson Ukrainën për rritjen e çmimeve të energjisë",
@@ -243,18 +276,7 @@
       "date": "2026-09-04T19:21:55+00:00",
       "dateStr": "04 Sep, 19:21",
       "isNew": true,
-      "id": "abc61788549715"
-    },
-    {
-      "title": "Gjirokastër/ Shuhet plotësisht zjarri në fshatin Picar, situata nën kontroll",
-      "link": "https://abcnews.al/gjirokaster-shuhet-plotesisht-zjarri-ne-fshatin-picar-situata-nen-kontroll/",
-      "description": "Zjarri që përfshiu një zonë në fshatin Picar të Gjirokastrës është vënë nën kontroll dhe është shuar plotësisht. Falë ndërhyrjes së shpejtë dhe punës së efektivëve, zjarri u neutralizua dhe u shua plotësisht në orën 21:00, duke shmangur përhapjen e mëtejshme të tij. Në operacionin për shuarjen e zja",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-04T19:18:19+00:00",
-      "dateStr": "04 Sep, 19:18",
-      "isNew": true,
-      "id": "abc71788549499"
+      "id": "abc91788549715"
     },
     {
       "title": "Zjarr në katin e pestë të një hoteli në Velipojë, evakuohen pushuesit",
@@ -279,17 +301,6 @@
       "id": "she61788548832"
     },
     {
-      "title": "VIDEO/ Zjarri përfshin kodrat pranë Himarës, rrezikohen banesat",
-      "link": "https://abcnews.al/video-zjarri-perfshin-kodrat-prane-himares-rrezikohen-banesat/",
-      "description": "Një vatër zjarri ka përfshirë mbrëmjen e kësaj të premteje kodrat pranë lagjes “1 Maji” në qytetin e Himarës. Flakët janë përhapur me shpejtësi në zonë, duke rrezikuar banesat, por edhe sipërfaqet me pemëtari që ndodhen në afërsi. Në terren janë angazhuar forcat zjarrfikëse, ndërsa në ndihmë të tyre",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-04T18:59:46+00:00",
-      "dateStr": "04 Sep, 18:59",
-      "isNew": true,
-      "id": "abc81788548386"
-    },
-    {
       "title": "VIDEO/ Zjarr i madh pranë banesave në Himarë",
       "link": "https://shekulli.com.al/2026/09/04/video-zjarr-i-madh-prane-banesave-ne-himare/",
       "description": "Një zjarr i përmasave të mëdha ka rënë këtë mbrëmje në bypassin e Himarës. Temperaturat e larta dhe era nuk janë në favor të zjarrfikësve, teksa në zonë ndodhen edhe banesa. Flakët janë përhapur me shpejtësi në kodrat pranë lagjes 1 Maji, duke rrezikuar banesat, por edhe sipërfaqet me pemëtari që nd",
@@ -310,17 +321,6 @@
       "dateStr": "04 Sep, 18:47",
       "isNew": true,
       "id": "she81788547668"
-    },
-    {
-      "title": "Parandalohet një tjetër tentativë sabotimi në Gjermani, gjenden mjete shpërthyese pranë linjave të energjisë",
-      "link": "https://abcnews.al/parandalohet-nje-tjeter-tentative-sabotimi-ne-gjermani-gjenden-mjete-shperthyese-prane-linjave-te-energjise/",
-      "description": "Autoritetet gjermane kanë parandaluar një tjetër incident të dyshuar sabotimi ndaj infrastrukturës energjetike të vendit. Në zonën e Görlitzit, pranë kufirit me Poloninë, u zbuluan mjete shpërthyese në dy nënstacione elektrike të vendosura pranë linjave të transmetimit të energjisë. Policia gjermane",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-04T18:45:03+00:00",
-      "dateStr": "04 Sep, 18:45",
-      "isNew": true,
-      "id": "abc91788547503"
     },
     {
       "title": "Nderimet për vdekjen e Mlladic, Kurti: Ish-ministri i Milloshevicit po respekton një kriminel lufte",
