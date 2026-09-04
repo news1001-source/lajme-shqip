@@ -1,18 +1,73 @@
 {
-  "lastUpdated": "2026-09-03T22:10:37.977887+00:00",
+  "lastUpdated": "2026-09-04T00:40:03.365556+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "From “political assassinations” to “emigrant clashes”: Secret services’ versions of the murder of Kadri Zeka and the Gërvalla brothers",
-      "link": "https://24-ore.com/from-political-assassinations-to-emigrant-clashes-secret-services-versions-of-the-murder-of-kadri-zeka-and-the-gervalla-brothers/",
-      "description": "As part of the &#8220;Files&#8221; series of shows on Debat Plus with Ermal Panduri, documents from the Albanian and Yugoslav secret services have been published that speak about the circumstances of the murder of Kadri Zeka and the brothers Jusuf and Bardhosh Gërvalla, on January 17, 1982 in Unterg",
+      "title": "Pse AEW po dominon ndaj WWE-së në luftën e wrestlingut profesionist në 2026",
+      "link": "https://24-ore.com/pse-aew-po-dominon-ndaj-wwe-se-ne-luften-e-wrestlingut-profesionist-ne-2026/",
+      "description": "All Elite Wrestling zhvilloi ngjarjen kryesore të vitit, All In, në Wembley Stadium të Londrës, ku shfaqja ofroi befasi, zgjidhje të pritura të rivalitetev...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-03T22:02:22+00:00",
-      "dateStr": "03 Sep, 22:02",
+      "date": "2026-09-04T00:35:38+00:00",
+      "dateStr": "04 Sep, 00:35",
       "isNew": true,
-      "id": "24 01788472942"
+      "id": "24 01788482138"
+    },
+    {
+      "title": "Chicago Cubs dhe Milwaukee Brewers, 3 shtator 2026 — ndeshje me pak goditje në inningët e hershëm",
+      "link": "https://24-ore.com/chicago-cubs-dhe-milwaukee-brewers-3-shtator-2026-ndeshje-me-pak-goditje-ne-inninget-e-hershem/",
+      "description": "Më 3 shtator 2026, Chicago Cubs pritën Milwaukee Brewers në një përballje që në inningët e hershëm prodhoi pak aktivitet ofansiv: në ato momente Brewers ki...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T23:42:18+00:00",
+      "dateStr": "03 Sep, 23:42",
+      "isNew": true,
+      "id": "24 11788478938"
+    },
+    {
+      "title": "Red Sox në Baltimore: Adley Rutschman kthehet, Boston përballet me Orioles në Camden Yards më 3 shtator 2026",
+      "link": "https://24-ore.com/red-sox-ne-baltimore-adley-rutschman-kthehet-boston-perballet-me-orioles-ne-camden-yards-me-3-shtator-2026/",
+      "description": "Më 3 shtator 2026, Boston Red Sox udhëtojnë në Oriole Park at Camden Yards për të luajtur ndaj Baltimore Orioles. Startuesit e ndeshjes janë J. Bennett për...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T23:00:36+00:00",
+      "dateStr": "03 Sep, 23:00",
+      "isNew": true,
+      "id": "24 21788476436"
+    },
+    {
+      "title": "Alphonso Smith, dy herë All‑American dhe ish‑mbrojtës i Detroit Lions, vdes në moshën 40 vjeç",
+      "link": "https://24-ore.com/alphonso-smith-dy-here-all-american-dhe-ish-mbrojtes-i-detroit-lions-vdes-ne-moshen-40-vjec/",
+      "description": "Alphonso Smith, dy herë i përzgjedhur All‑America si defensive back dhe ish‑lojtar në NFL, vdiq të mërkurën në moshën 40 vjeç. Wake Forest tha se ishte njo...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T22:56:48+00:00",
+      "dateStr": "03 Sep, 22:56",
+      "isNew": true,
+      "id": "24 31788476208"
+    },
+    {
+      "title": "Pesë pritshmëri për Kupën e Botës FIBA për Femra 2026",
+      "link": "https://24-ore.com/pese-pritshmeri-per-kupen-e-botes-fiba-per-femra-2026/",
+      "description": "Kupë e Botës FIBA për Femra 2026 hapet në Berlin më 4 shtator dhe do të zhvillohet deri më 13 shtator, me 16 ekipe që përfaqësojnë Amerikën e Veriut, Evrop...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T22:20:24+00:00",
+      "dateStr": "03 Sep, 22:20",
+      "isNew": true,
+      "id": "24 41788474024"
+    },
+    {
+      "title": "Familja Khosla mbyll blerjen e Seattle Seahawks për 9.612 miliardë dollarë",
+      "link": "https://24-ore.com/familja-khosla-mbyll-blerjen-e-seattle-seahawks-per-9-612-miliarde-dollare/",
+      "description": "Familja Khosla mbylli zyrtarisht blerjen e skuadrës kampione të Super Bowl-it, Seattle Seahawks, për 9.612 miliardë dollarë. Njoftimi për përfundimin e tra...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-03T22:11:58+00:00",
+      "dateStr": "03 Sep, 22:11",
+      "isNew": true,
+      "id": "24 51788473518"
     },
     {
       "title": "Jerusalem Post: Shqipëria po shihet nga turistët izraelitë si një nga destinacionet më të sigurta dhe të qeta në Ballkan",
@@ -23,7 +78,7 @@
       "date": "2026-09-03T21:47:47+00:00",
       "dateStr": "03 Sep, 21:47",
       "isNew": true,
-      "id": "24 11788472067"
+      "id": "24 61788472067"
     },
     {
       "title": "Sporting Kansas City huazon Ruben Ramos Jr. nga LA Galaxy",
@@ -34,7 +89,7 @@
       "date": "2026-09-03T21:41:56+00:00",
       "dateStr": "03 Sep, 21:41",
       "isNew": true,
-      "id": "24 21788471716"
+      "id": "24 71788471716"
     },
     {
       "title": "Ekzekutimi i Viktor Bardhit/ Karamuço: Vrasjet janë inkurajuar, policia nuk ka arritur t’i zbulojë",
@@ -56,7 +111,7 @@
       "date": "2026-09-03T21:32:14+00:00",
       "dateStr": "03 Sep, 21:32",
       "isNew": true,
-      "id": "24 31788471134"
+      "id": "24 81788471134"
     },
     {
       "title": "Mbrojtjet më të forta të NFL për 2026: Texans, Seahawks dhe Rams në krye; mos i nënvlerësoni Jaguars dhe Buccaneers",
@@ -67,18 +122,7 @@
       "date": "2026-09-03T21:31:20+00:00",
       "dateStr": "03 Sep, 21:31",
       "isNew": true,
-      "id": "24 41788471080"
-    },
-    {
-      "title": "Hapet me një mbrëmje gala Festivali i 14-të Kombëtar i Filmit Shqiptar",
-      "link": "https://24-ore.com/hapet-me-nje-mbremje-gala-festivali-i-14-te-kombetar-i-filmit-shqiptar/",
-      "description": "Festivali Kombëtar i Filmit Shqiptar u rikthye sot në Tiranë, pas 14 vitesh mungesë, në edicionin e tij të 14-të, duke sjellë në vëmendje krijimtarinë kinematografike shqiptare, autorët, aktorët dhe veprat e realizuara ndër vite. Festivali çeli siparin me një mbrëmje gala në Akademinë e Arteve të Bu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T21:30:17+00:00",
-      "dateStr": "03 Sep, 21:30",
-      "isNew": true,
-      "id": "24 51788471017"
+      "id": "24 91788471080"
     },
     {
       "title": "“Në resortin në Vlorë u qëllua me armë, agresorët u prezantuan si kosovarë”/ Karamuço: Konflikti ka nisur me kohë, sot ishte finalizimi",
@@ -90,50 +134,6 @@
       "dateStr": "03 Sep, 21:22",
       "isNew": true,
       "id": "abc11788470551"
-    },
-    {
-      "title": "Hasanpapaj: Rrëzimi i Qeverisë Hoti nuk duhet të përdoret kundër Sejdiut",
-      "link": "https://24-ore.com/hasanpapaj-rrezimi-i-qeverise-hoti-nuk-duhet-te-perdoret-kunder-sejdiut/",
-      "description": "Ish-kandidati për deputet nga LDK-ja, Bardhyl Hasanpapaj, ka kritikuar qasjen e disa deputetëve që kanë kundërshtuar kandidaturën për president të ish-gjyqtarit të Gjykatës Kushtetuese, Bekim Sejdiu. Hasanpapaj ka thënë se secili deputet ka të drejtë të shprehet pro ose kundër një kandidature, por k",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T21:22:15+00:00",
-      "dateStr": "03 Sep, 21:22",
-      "isNew": true,
-      "id": "24 61788470535"
-    },
-    {
-      "title": "Vijon marshimi i qytetarëve në ditën e 96-të të protestës (VIDEO)",
-      "link": "https://24-ore.com/vijon-marshimi-i-qytetareve-ne-diten-e-96-te-te-protestes-video/",
-      "description": "Protesta në ditën e 96-të të saj ka vazhduar edhe sot me thirrjet e zakonshme. Me ardhjen e muajit shtator është vënë re dhe një rritje e numrit të qytetarëve që i bashkohen protestës. Protestuesit deklarojnë se nuk do të tërhiqen dhe se do të vijojnë qëndresën deri në realizimin e kërkesave të tyre",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T21:18:25+00:00",
-      "dateStr": "03 Sep, 21:18",
-      "isNew": true,
-      "id": "24 71788470305"
-    },
-    {
-      "title": "Zjarret në vend, Ministria e Mbrojtjes: 27 vatra, 8 ende aktive, vijon ndërhyrja në disa qarqe",
-      "link": "https://24-ore.com/zjarret-ne-vend-ministria-e-mbrojtjes-27-vatra-8-ende-aktive-vijon-nderhyrja-ne-disa-qarqe/",
-      "description": "Ministria e Mbrojtjes ka publikuar përditësimin e fundit mbi situatën e zjarreve në vend, në orën 20:00 të 3 shtatorit 2026. Sipas informacionit operacional, gjatë ditës janë raportuar 27 vatra zjarri, prej të cilave 17 janë shuar plotësisht, 2 janë nën mbikëqyrje dhe 8 vijojnë të jenë aktive. Në op",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T21:18:14+00:00",
-      "dateStr": "03 Sep, 21:18",
-      "isNew": true,
-      "id": "24 81788470294"
-    },
-    {
-      "title": "Vangjeli: Konfliktet e pronësisë sjellin tragjedi, incidenti në Vlorë është vetëm një nga segmentet e pafundëm në Shqipëri",
-      "link": "https://24-ore.com/vangjeli-konfliktet-e-pronesise-sjellin-tragjedi-incidenti-ne-vlore-eshte-vetem-nje-nga-segmentet-e-pafundem-ne-shqiperi/",
-      "description": "Analisti Lorenc Vangjeli ka diskutuar në “Now” mbi përfshirjen e mundshme të elementëve ose segmenteve me uniformë shtetërore në ngjarje dhe konflikte, nisur nga incidenti më i fundit në Vlorë. “Për fat të keq, ky është vetëm njëri nga segmentet e pafundëm në Shqipëri dhe sërish, për fat të keq, edh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T21:18:01+00:00",
-      "dateStr": "03 Sep, 21:18",
-      "isNew": true,
-      "id": "24 91788470281"
     },
     {
       "title": "Celular në burgun e Fierit/ “E pësojnë” dy të paraburgosur! Pezullohen nga detyra 4 punonjës",
