@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-09-04T00:40:03.365556+00:00",
+  "lastUpdated": "2026-09-04T05:23:36.810206+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Sot mot me diell dhe vranësira",
+      "link": "https://24-ore.com/sot-mot-me-diell-dhe-vranesira/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot me diell dhe vranësira të shpërndara. IHK njofton se temperatura minimale do të lëvizin ndërmjet 10 dhe 14 gradë Celsius, ndërkaq ato maksimale nga 27 deri në 32 gradë. Era do të fryjë nga veriperëndimi dhe verilindja, me shp",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T05:07:09+00:00",
+      "dateStr": "04 Sep, 05:07",
+      "isNew": true,
+      "id": "24 01788498429"
+    },
+    {
+      "title": "Ukko-Pekka Luukkonen i përqendruar për të ndihmuar Buffalo Sabres të bëhen pretendentë për Kupën Stanley",
+      "link": "https://24-ore.com/ukko-pekka-luukkonen-i-perqendruar-per-te-ndihmuar-buffalo-sabres-te-behen-pretendente-per-kupen-stanley/",
+      "description": "Ukko-Pekka Luukkonen thotë se është i përqendruar plotësisht te sezoni i ri dhe te sfidat që e presin me Buffalo Sabres, me synimin që të përparojnë si pre...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T02:36:04+00:00",
+      "dateStr": "04 Sep, 02:36",
+      "isNew": true,
+      "id": "24 11788489364"
+    },
+    {
+      "title": "Dodgers – Cardinals në Dodger Stadium: situata para ndeshjes më 3 shtator 2026",
+      "link": "https://24-ore.com/dodgers-cardinals-ne-dodger-stadium-situata-para-ndeshjes-me-3-shtator-2026/",
+      "description": "Los Angeles Dodgers pritën St. Louis Cardinals më 3 shtator 2026 në UNIQLO Field at Dodger Stadium në Los Angeles, në një ndeshje me rëndësi për kalendarin...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T01:52:18+00:00",
+      "dateStr": "04 Sep, 01:52",
+      "isNew": true,
+      "id": "24 21788486738"
+    },
+    {
+      "title": "Le Monde: Arkitektët e famshëm botërorë nën kritikë në Shqipëri, “Revolucioni i Flamingove” i akuzon se po legjitimojnë spekulimin urban",
+      "link": "https://24-ore.com/le-monde-arkitektet-e-famshem-boterore-nen-kritike-ne-shqiperi-revolucioni-i-flamingove-i-akuzon-se-po-legjitimojne-spekulimin-urban/",
+      "description": "Protestat që prej më shumë se tre muajsh zhvillohen në Shqipëri kundër qeverisë së Edi Ramës dhe projekteve të mëdha turistike e ndërtimore kanë marrë një dimension të ri në shtypin ndërkombëtar: përgjegjësinë e arkitektëve të njohur botërorë që bashkëpunojnë me qeverinë shqiptare. Gazeta franceze L",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-04T01:24:41+00:00",
+      "dateStr": "04 Sep, 01:24",
+      "isNew": true,
+      "id": "24 31788485081"
+    },
     {
       "title": "Pse AEW po dominon ndaj WWE-së në luftën e wrestlingut profesionist në 2026",
       "link": "https://24-ore.com/pse-aew-po-dominon-ndaj-wwe-se-ne-luften-e-wrestlingut-profesionist-ne-2026/",
@@ -12,7 +56,7 @@
       "date": "2026-09-04T00:35:38+00:00",
       "dateStr": "04 Sep, 00:35",
       "isNew": true,
-      "id": "24 01788482138"
+      "id": "24 41788482138"
     },
     {
       "title": "Chicago Cubs dhe Milwaukee Brewers, 3 shtator 2026 — ndeshje me pak goditje në inningët e hershëm",
@@ -23,7 +67,7 @@
       "date": "2026-09-03T23:42:18+00:00",
       "dateStr": "03 Sep, 23:42",
       "isNew": true,
-      "id": "24 11788478938"
+      "id": "24 51788478938"
     },
     {
       "title": "Red Sox në Baltimore: Adley Rutschman kthehet, Boston përballet me Orioles në Camden Yards më 3 shtator 2026",
@@ -34,7 +78,7 @@
       "date": "2026-09-03T23:00:36+00:00",
       "dateStr": "03 Sep, 23:00",
       "isNew": true,
-      "id": "24 21788476436"
+      "id": "24 61788476436"
     },
     {
       "title": "Alphonso Smith, dy herë All‑American dhe ish‑mbrojtës i Detroit Lions, vdes në moshën 40 vjeç",
@@ -45,7 +89,7 @@
       "date": "2026-09-03T22:56:48+00:00",
       "dateStr": "03 Sep, 22:56",
       "isNew": true,
-      "id": "24 31788476208"
+      "id": "24 71788476208"
     },
     {
       "title": "Pesë pritshmëri për Kupën e Botës FIBA për Femra 2026",
@@ -56,7 +100,7 @@
       "date": "2026-09-03T22:20:24+00:00",
       "dateStr": "03 Sep, 22:20",
       "isNew": true,
-      "id": "24 41788474024"
+      "id": "24 81788474024"
     },
     {
       "title": "Familja Khosla mbyll blerjen e Seattle Seahawks për 9.612 miliardë dollarë",
@@ -67,29 +111,7 @@
       "date": "2026-09-03T22:11:58+00:00",
       "dateStr": "03 Sep, 22:11",
       "isNew": true,
-      "id": "24 51788473518"
-    },
-    {
-      "title": "Jerusalem Post: Shqipëria po shihet nga turistët izraelitë si një nga destinacionet më të sigurta dhe të qeta në Ballkan",
-      "link": "https://24-ore.com/jerusalem-post-shqiperia-po-shihet-nga-turistet-izraelite-si-nje-nga-destinacionet-me-te-sigurta-dhe-te-qeta-ne-ballkan/",
-      "description": "Shqipëria po fiton terren në tregun izraelit të turizmit, jo vetëm për çmimet apo afërsinë gjeografike, por edhe si një destinacion që perceptohet si më i sigurt dhe më i qetë në një periudhë kur shqetësimet për sigurinë vazhdojnë të ndikojnë zgjedhjet e udhëtarëve izraelitë. Kjo del nga një analizë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T21:47:47+00:00",
-      "dateStr": "03 Sep, 21:47",
-      "isNew": true,
-      "id": "24 61788472067"
-    },
-    {
-      "title": "Sporting Kansas City huazon Ruben Ramos Jr. nga LA Galaxy",
-      "link": "https://24-ore.com/sporting-kansas-city-huazon-ruben-ramos-jr-nga-la-galaxy/",
-      "description": "Sporting Kansas City ka nënshkruar me huazim sulmuesin 19-vjeçar Ruben Ramos Jr. nga LA Galaxy, në një marrëveshje që zgjat deri në përfundim të sezonit ML...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T21:41:56+00:00",
-      "dateStr": "03 Sep, 21:41",
-      "isNew": true,
-      "id": "24 71788471716"
+      "id": "24 91788473518"
     },
     {
       "title": "Ekzekutimi i Viktor Bardhit/ Karamuço: Vrasjet janë inkurajuar, policia nuk ka arritur t’i zbulojë",
@@ -101,28 +123,6 @@
       "dateStr": "03 Sep, 21:33",
       "isNew": true,
       "id": "abc01788471196"
-    },
-    {
-      "title": "Rogers dhe Quebecor nënshkruajnë marrëveshje sublicence 12-vjeçare për transmetimet në frëngjisht",
-      "link": "https://24-ore.com/rogers-dhe-quebecor-nenshkruajne-marreveshje-sublicence-12-vjecare-per-transmetimet-ne-frengjisht/",
-      "description": "Rogers Communications dhe Quebecor njoftuan një marrëveshje sublicence 12-vjeçare që do të sigurojë transmetimin në gjuhën frënge të ndeshjeve të ligës kom...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T21:32:14+00:00",
-      "dateStr": "03 Sep, 21:32",
-      "isNew": true,
-      "id": "24 81788471134"
-    },
-    {
-      "title": "Mbrojtjet më të forta të NFL për 2026: Texans, Seahawks dhe Rams në krye; mos i nënvlerësoni Jaguars dhe Buccaneers",
-      "link": "https://24-ore.com/mbrojtjet-me-te-forta-te-nfl-per-2026-texans-seahawks-dhe-rams-ne-krye-mos-i-nenvleresoni-jaguars-dhe-buccaneers/",
-      "description": "Parashikimi i mbrojtjeve më të mira në 2026 kërkon të përcaktojmë jo thjesht sa pikë lejon një skuadër gjatë gjithë ndeshjes, por sa pikë i lejon kur mbroj...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-03T21:31:20+00:00",
-      "dateStr": "03 Sep, 21:31",
-      "isNew": true,
-      "id": "24 91788471080"
     },
     {
       "title": "“Në resortin në Vlorë u qëllua me armë, agresorët u prezantuan si kosovarë”/ Karamuço: Konflikti ka nisur me kohë, sot ishte finalizimi",
