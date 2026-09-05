@@ -1,8 +1,107 @@
 {
-  "lastUpdated": "2026-09-05T21:51:42.782571+00:00",
+  "lastUpdated": "2026-09-05T23:29:48.875662+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Një rikthim i mundshëm i Kevin Love te Minnesota Timberwolves para sezonit 2026-27",
+      "link": "https://24-ore.com/nje-rikthim-i-mundshem-i-kevin-love-te-minnesota-timberwolves-para-sezonit-2026-27/",
+      "description": "Një rikthim i mundshëm i Kevin Love te Minnesota Timberwolves po diskutohet si një zgjidhje që mund të realizohet para se të nisë sezoni 2026-27. Si lojtar...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-05T23:25:48+00:00",
+      "dateStr": "05 Sep, 23:25",
+      "isNew": true,
+      "id": "24 01788650748"
+    },
+    {
+      "title": "San Diego Padres – New York Yankees, 5 shtator 2026: përmbledhje e hapjes së ndeshjes",
+      "link": "https://24-ore.com/san-diego-padres-new-york-yankees-5-shtator-2026-permbledhje-e-hapjes-se-ndeshjes/",
+      "description": "Ndeshja mes San Diego Padres dhe New York Yankees u zhvillua më 5 shtator 2026 në Petco Park, me startin e parashikuar në orën 16:16 PT. Fillimi i takimit...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-05T23:22:43+00:00",
+      "dateStr": "05 Sep, 23:22",
+      "isNew": true,
+      "id": "24 11788650563"
+    },
+    {
+      "title": "New Statesman: Protestat kundër projektit të Kushnerit ngrenë një çështje më të madhe – sovranitetin e Shqipërisë",
+      "link": "https://24-ore.com/new-statesman-protestat-kunder-projektit-te-kushnerit-ngrene-nje-ceshtje-me-te-madhe-sovranitetin-e-shqiperise/",
+      "description": "Revista britanike New Statesman i kushton sot, më 5 shtator 2026, një analizë të gjerë protestave në Shqipëri kundër projektit turistik të lidhur me Jared Kushnerin, por e zhvendos vëmendjen nga vetë projekti te një çështje më e thellë: çfarë do të thotë sovraniteti shqiptar pas më shumë se tri deka",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-05T22:49:53+00:00",
+      "dateStr": "05 Sep, 22:49",
+      "isNew": true,
+      "id": "24 21788648593"
+    },
+    {
+      "title": "Jared Kushner nuk mund ta pushtojë Ballkanin",
+      "link": "https://24-ore.com/jared-kushner-nuk-mund-ta-pushtoje-ballkanin/",
+      "description": "Në Kongresin e Berlinit të vitit 1878, kancelari gjerman Otto von Bismarck tha në mënyrë të famshme se Shqipëria nuk ishte asgjë më shumë se “një shprehje gjeografike”. Për t’iu kundërvënë këtij qëndrimi, udhëheqësit shqiptarë krijuan Lidhjen e Prizrenit për të mbrojtur interesat shqiptare dhe të dr",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-05T22:47:11+00:00",
+      "dateStr": "05 Sep, 22:47",
+      "isNew": true,
+      "id": "24 31788648431"
+    },
+    {
+      "title": "Diamondbacks–Astros në Houston, 5 shtator 2026: Pfaadt për AZ, Pecko për HOU dhe lista e dëmtimeve",
+      "link": "https://24-ore.com/diamondbacks-astros-ne-houston-5-shtator-2026-pfaadt-per-az-pecko-per-hou-dhe-lista-e-demtimeve/",
+      "description": "Më 5 shtator 2026, Houston Astros pritën Arizona Diamondbacks në Daikin Park në Houston. Startues për Diamondbacks ishte B. Pfaadt (7-2, 3.49 ERA), ndërsa...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-05T22:40:40+00:00",
+      "dateStr": "05 Sep, 22:40",
+      "isNew": true,
+      "id": "24 41788648040"
+    },
+    {
+      "title": "Si renditet skandali i Clippers për shmangien e kufirit të pagave mes ndëshkimeve më të rënda në histori të sportit",
+      "link": "https://24-ore.com/si-renditet-skandali-i-clippers-per-shmangien-e-kufirit-te-pagave-mes-ndeshkimeve-me-te-renda-ne-histori-te-sportit/",
+      "description": "Ligat sportive nxjerrin rregulla për të mbrojtur konkurrencën, por zbatimi i tyre shpeshherë është sfidues. Gjatë dekadave, skuadrat, lojtarët dhe drejtues...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-05T21:56:59+00:00",
+      "dateStr": "05 Sep, 21:56",
+      "isNew": true,
+      "id": "24 51788645419"
+    },
+    {
+      "title": "Aaron Judge nis stërvitjet me top të gjallë në Yankee Stadium pas frakturës së brinjës së djathtë",
+      "link": "https://24-ore.com/aaron-judge-nis-stervitjet-me-top-te-gjalle-ne-yankee-stadium-pas-fraktures-se-brinjes-se-djathte/",
+      "description": "Aaron Judge do të përballet me gjuajtje të gjalla të hënën në Yankee Stadium si pjesë e programit të tij të rehabilitimit pas frakturës së brinjës së djath...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-05T21:56:11+00:00",
+      "dateStr": "05 Sep, 21:56",
+      "isNew": true,
+      "id": "24 61788645371"
+    },
+    {
+      "title": "Në një organizimin madhështor, UBT mban Ceremoninë e Gradimit të studentëve të gjeneratës së 23-të",
+      "link": "https://24-ore.com/ne-nje-organizimin-madheshtor-ubt-mban-ceremonine-e-gradimit-te-studenteve-te-gjenerates-se-23-te/",
+      "description": "UBT ka organizuar ceremoninë solemne të gradimit për gjeneratën e 23-të të studentëve, duke shënuar një nga momentet më të rëndësishme të vitit akademik. Në ceremoni morën pjesë mbi një mijë absolventë, familjarë, profesorë dhe drejtues institucionesh. Ceremonia u hap me intonimin e himnit kombëtar,",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-05T21:55:08+00:00",
+      "dateStr": "05 Sep, 21:55",
+      "isNew": true,
+      "id": "24 71788645308"
+    },
+    {
+      "title": "Surpriza të “hidhura” për Sali Berishën? Çupi: Mund të hetohet nga FBI-ja, kudo ku shkon krijon përçarje",
+      "link": "https://abcnews.al/surpriza-te-hidhura-per-sali-berishen-cupi-mund-te-hetohet-nga-fbi-ja-kudo-ku-shkon-krijon-percarje/",
+      "description": "TIRANË&#8211; Më keq se kaq nuk mund ta niste vizitën e parë në SHBA pas 5 vitesh. Kryetari i Partisë Demokratike, Sali Berisha ka ndërruar vendin e takimit me demokratë në Neë Jersey, pas paralajmërimeve të shqiptarëve në Amerikë se do ta prisnin me protesta. Por, duket se Berisha nuk do të shpëtoj",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-05T21:44:21+00:00",
+      "dateStr": "05 Sep, 21:44",
+      "isNew": true,
+      "id": "abc01788644661"
+    },
     {
       "title": "Flet i dashuri 20 vjet më i ri i vajzës së Brigitte Macron: E kemi seriozisht",
       "link": "https://24-ore.com/flet-i-dashuri-20-vjet-me-i-ri-i-vajzes-se-brigitte-macron-e-kemi-seriozisht/",
@@ -12,7 +111,7 @@
       "date": "2026-09-05T21:16:28+00:00",
       "dateStr": "05 Sep, 21:16",
       "isNew": true,
-      "id": "24 01788642988"
+      "id": "24 81788642988"
     },
     {
       "title": "PDK e Aleanca paralajmërojnë fazë tjetër të veprimit për të “kthyer ligjshmërinë”, nga LVV kërkojnë reagimin e institucioneve të sigurisë",
@@ -23,18 +122,7 @@
       "date": "2026-09-05T21:15:19+00:00",
       "dateStr": "05 Sep, 21:15",
       "isNew": true,
-      "id": "24 11788642919"
-    },
-    {
-      "title": "Oliver Marmol kritikon nxjerrjen jashtë pas urdhërit që Rincon t’i rregullonte kapelën",
-      "link": "https://24-ore.com/oliver-marmol-kritikon-nxjerrjen-jashte-pas-urdherit-qe-rincon-ti-rregullonte-kapelen/",
-      "description": "Trajneri i St. Louis Cardinals, Oliver Marmol, nxori akuza ndaj arbitrit të home plate Doug Eddings pas një incidenti gjatë debutimit në MLB të fillestarit...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T21:12:21+00:00",
-      "dateStr": "05 Sep, 21:12",
-      "isNew": true,
-      "id": "24 21788642741"
+      "id": "24 91788642919"
     },
     {
       "title": "Himara nën flakë, “zhduket” Vangjel Tavo, kryebashkiaku mungoi edhe gjatë vizitës së Ramës",
@@ -48,17 +136,6 @@
       "id": "she01788641222"
     },
     {
-      "title": "“Dëmshpërblim për të prekurit”/ Rama takon banorët pas flakëve në Himarë: Çfarë s’na vret na bën më të fortë",
-      "link": "https://24-ore.com/demshperblim-per-te-prekurit-rama-takon-banoret-pas-flakeve-ne-himare-cfare-sna-vret-na-ben-me-te-forte/",
-      "description": "Kryeministri Edi Rama ishte pasditen e sotme në 5 shtator në Himarë, në zonën e prekur nga zjarri gjatë natës së kaluar, ku pa nga afër situatën dhe angazhimin në terren. Kryeministri takoi dhe falënderoi efektivët e Emergjencave Civile, Forcave të Armatosura, shërbimeve zjarrfikëse dhe të gjitha st",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T20:46:15+00:00",
-      "dateStr": "05 Sep, 20:46",
-      "isNew": true,
-      "id": "24 31788641175"
-    },
-    {
       "title": "Megaoperacion antidrogë në Sarandë, disa të arrestuar, sekuestrohet kokainë, kanabis dhe armë",
       "link": "https://shekulli.com.al/2026/09/05/megaoperacion-antidroge-ne-sarande-disa-te-arrestuar-sekuestrohet-kokaine-kanabis-dhe-arme/",
       "description": "Një megaoperacion antidrogë është zhvilluar këtë mbrëmje në Sarandë, duke çuar në arrestimin e disa personave dhe sekuestrimin e lëndëve narkotike dhe armëve. Sipas burimeve paraprake, mes personave të arrestuar dyshohet se janë edhe individë të konsideruar si drejtues të grupeve që merreshin me shp",
@@ -70,39 +147,6 @@
       "id": "she11788640615"
     },
     {
-      "title": "Vrasja e 65-vjeçarit në Mirditë, avokati Ibraj: Policia të mbikëqyrë familjet e përfshira në gjakmarrje",
-      "link": "https://24-ore.com/vrasja-e-65-vjecarit-ne-mirdite-avokati-ibraj-policia-te-mbikeqyre-familjet-e-perfshira-ne-gjakmarrje/",
-      "description": "Në një lidhje të drejtpërdrejtë për emisionin “Review” me Greta Topjanën, avokati Kujtim Ibraj foli për vrasjen e Viktor Bardhit në Mirditë, duke e cilësuar ngjarjen si një tragjedi të rëndë për familjen dhe zonën. Ibraj, i cili tha se është vetë nga ajo zonë, theksoi se familja Bardhi ka humbur tre",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T20:31:44+00:00",
-      "dateStr": "05 Sep, 20:31",
-      "isNew": true,
-      "id": "24 41788640304"
-    },
-    {
-      "title": "Bilanci zyrtar i zjarrit në Himarë: Prefektura e Vlorës: 5 banesa të djegura, 36 persona të evakuuar",
-      "link": "https://24-ore.com/bilanci-zyrtar-i-zjarrit-ne-himare-prefektura-e-vlores-5-banesa-te-djegura-36-persona-te-evakuuar/",
-      "description": "Prefektura e Vlorës ka bërë bilancin zyrtar të zjarrit që përfshiu zonën e Potamit, në lagjen “1 Maj” të Himarës, duke dhënë të dhënat mbi dëmet e shkaktuara, personat e evakuuar dhe ndërhyrjen për shuarjen e flakëve. Sipas Prefekturës së Vlorës, zjarri ka rënë më 4 shtator, rreth orës 19:20, në një",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T20:31:18+00:00",
-      "dateStr": "05 Sep, 20:31",
-      "isNew": true,
-      "id": "24 51788640278"
-    },
-    {
-      "title": "Rama viziton Himarën pas zjarrit: Çfarë s’na vret na bën më të fortë (VIDEO)",
-      "link": "https://24-ore.com/rama-viziton-himaren-pas-zjarrit-cfare-sna-vret-na-ben-me-te-forte-video/",
-      "description": "Kryeministri Edi Rama ishte pasditen e kësaj të shtune në Himarë, në zonën e prekur nga zjarri gjatë natës së kaluar, ku pa nga afër situatën dhe dëmet e shkaktuara nga flakët, ndërsa u njoh me angazhimin e strukturave në terren. Gjatë vizitës, Rama takoi dhe falënderoi efektivët e Emergjencave Civi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T20:30:58+00:00",
-      "dateStr": "05 Sep, 20:30",
-      "isNew": true,
-      "id": "24 61788640258"
-    },
-    {
       "title": "“Ç’nuk na vret na bën më të fortë”, Rama takon banorët në Himarë: Angazhim maksimal për përballimin e situatës",
       "link": "https://abcnews.al/zjarri-ne-himare-rama-takon-banoret-e-prekur-angazhim-maksimal-per-perballimin-e-situates/",
       "description": "HIMARË- Kryeministri Edi Rama ishte pasditen e sotme në Himarë, në zonën e prekur nga zjarri gjatë natës së kaluar, ku pa nga afër situatën dhe angazhimin në terren. Kryeministri takoi dhe falënderoi efektivët e Emergjencave Civile, Forcave të Armatosura, shërbimeve zjarrfikëse dhe të gjitha struktu",
@@ -111,7 +155,7 @@
       "date": "2026-09-05T20:20:10+00:00",
       "dateStr": "05 Sep, 20:20",
       "isNew": true,
-      "id": "abc01788639610"
+      "id": "abc11788639610"
     },
     {
       "title": "‘’Ç’nuk na vret na bën më t’fortë’’, Rama viziton zonat e prekura nga zjarret në Himarë (VIDEO)",
@@ -123,17 +167,6 @@
       "dateStr": "05 Sep, 20:10",
       "isNew": true,
       "id": "she21788639004"
-    },
-    {
-      "title": "“Situatë e paprecedentë dhe e rrezikshme”, ekspertët paralajmërojnë pasoja nëse nuk zgjidhet presidenti",
-      "link": "https://24-ore.com/situate-e-paprecedente-dhe-e-rrezikshme-ekspertet-paralajmerojne-pasoja-nese-nuk-zgjidhet-presidenti/",
-      "description": "Njohësit e politikës kërkojnë që partitë politike të vendosin sa më shpejt nëse duan të bëjnë kompromise për zgjedhjen e presidentit apo të shpallen zgjedhjet e reja. Kjo pasi, sipas tyre, pas 5 tetorit Kosova do të mbetet pa president. Çdo vonesë në formimin e institucioneve para tetorit vlerësohet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T20:05:17+00:00",
-      "dateStr": "05 Sep, 20:05",
-      "isNew": true,
-      "id": "24 71788638717"
     },
     {
       "title": "Situata me zjarret në vend, sot u raportuan 21 vatra, 11 mbeten aktive",
@@ -166,18 +199,7 @@
       "date": "2026-09-05T19:57:23+00:00",
       "dateStr": "05 Sep, 19:57",
       "isNew": true,
-      "id": "abc11788638243"
-    },
-    {
-      "title": "Ndërron jetë bashkëluftëtari i Ramush Haradinajt, Afrim Mehmetaj",
-      "link": "https://24-ore.com/nderron-jete-bashkeluftetari-i-ramush-haradinajt-afrim-mehmetaj/",
-      "description": "Ramush Haradinaj njofton për vdekjen e bashkëluftëtarit Afrim Mehmetaj Ish-kryetari i AAK-së, Ramush Haradinaj, ka njoftuar për vdekjen e bashkëluftëtarit të tij nga orët e para të luftës, Afrim Mehmetaj nga Gllogjani. Haradinaj ka shprehur ngushëllime për familjen Mehmetaj, miqtë dhe bashkëluftëtar",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T19:55:18+00:00",
-      "dateStr": "05 Sep, 19:55",
-      "isNew": true,
-      "id": "24 81788638118"
+      "id": "abc21788638243"
     },
     {
       "title": "Si po e ndan Serbinë funerali për Ratko Mladiçin",
@@ -189,17 +211,6 @@
       "dateStr": "05 Sep, 19:49",
       "isNew": true,
       "id": "she51788637757"
-    },
-    {
-      "title": "Chicago Cubs fitojnë 6-1 ndaj Miami Marlins, Imanaga udhëheq paraqitjen dominante",
-      "link": "https://24-ore.com/chicago-cubs-fitojne-6-1-ndaj-miami-marlins-imanaga-udheheq-paraqitjen-dominante/",
-      "description": "Chicago Cubs fituan 6-1 ndaj Miami Marlins në ndeshjen e zhvilluar më 5 shtator në Miami, mbyllur me një paraqitje të fortë të stafit të lëshimit dhe mbësh...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T19:46:27+00:00",
-      "dateStr": "05 Sep, 19:46",
-      "isNew": true,
-      "id": "24 91788637587"
     },
     {
       "title": "U gjetën në burgun e Durrësit, kujt i përkisnin 6 celularët e fshehur në thes",
@@ -232,7 +243,7 @@
       "date": "2026-09-05T19:28:37+00:00",
       "dateStr": "05 Sep, 19:28",
       "isNew": true,
-      "id": "abc21788636517"
+      "id": "abc31788636517"
     },
     {
       "title": "Dita e 98-të e protestës, qytetarët paralajmërojnë ”rrethimin” e Kuvendit: Çdo seancë me vezë, nuk na përfaqëson Noka dhe Zeqineja",
@@ -254,7 +265,7 @@
       "date": "2026-09-05T18:48:52+00:00",
       "dateStr": "05 Sep, 18:48",
       "isNew": true,
-      "id": "abc31788634132"
+      "id": "abc41788634132"
     },
     {
       "title": "Himara merr frymë, pas tmerrit/ Gjashtë banesa të shkrumbuara, flakët lanë pas shkatërrim",
@@ -265,7 +276,7 @@
       "date": "2026-09-05T18:43:35+00:00",
       "dateStr": "05 Sep, 18:43",
       "isNew": true,
-      "id": "abc41788633815"
+      "id": "abc51788633815"
     },
     {
       "title": "VIDEO/ Kristjan Asllani debuton me supergol në Abu Dhabi",
@@ -287,7 +298,7 @@
       "date": "2026-09-05T18:33:06+00:00",
       "dateStr": "05 Sep, 18:33",
       "isNew": true,
-      "id": "abc51788633186"
+      "id": "abc61788633186"
     },
     {
       "title": "Në Frashër për 245-vjetorin e Teqesë/ Presidenti Begaj vlerëson kontributin e bektashinjve",
@@ -298,7 +309,7 @@
       "date": "2026-09-05T18:27:16+00:00",
       "dateStr": "05 Sep, 18:27",
       "isNew": true,
-      "id": "abc61788632836"
+      "id": "abc71788632836"
     },
     {
       "title": "Zjarret në Fier/ Prefekti Anduel Xhindi për ABC News: Nuk ka rrezik për zonat e banuara, vatrat janë nën kontroll",
@@ -309,7 +320,7 @@
       "date": "2026-09-05T18:04:41+00:00",
       "dateStr": "05 Sep, 18:04",
       "isNew": true,
-      "id": "abc71788631481"
+      "id": "abc81788631481"
     },
     {
       "title": "Shkon për vetulla, por gjen protesta/ Meçe: Sali Berishës nuk i është hequr “non grata”, është ftuar nga të tjerë",
@@ -320,18 +331,7 @@
       "date": "2026-09-05T17:52:04+00:00",
       "dateStr": "05 Sep, 17:52",
       "isNew": true,
-      "id": "abc81788630724"
-    },
-    {
-      "title": "“BE, tre pista për integrimin e Shqipërisë”, Meçe: Integrimi pa të drejtë vetoje, mënyra me e mirë",
-      "link": "https://abcnews.al/be-tre-pista-per-integrimin-e-shqiperise-mece-integrimi-pa-te-drejte-vetoje-menyra-me-e-mire/",
-      "description": "Integrimi gradual në BE, pa të drejtën e vetos do të ishte zgjidhja më e mirë për anëtarësimin e Shqipërisë në Union.  Kryeministri Rama përsërit idenë e lançuar prej tij, duke theksuar se kjo do të jetë mënyra më e mirë për t&#8217;u bërë pjesë e familjes europiane, ndërkohë që nga disa vende të Eu",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-05T17:39:35+00:00",
-      "dateStr": "05 Sep, 17:39",
-      "isNew": true,
-      "id": "abc91788629975"
+      "id": "abc91788630724"
     },
     {
       "title": "Flora Shabani “mahnit” rrjetin! Moderatorja e njohur nga Maqedonia e Veriut me paraqitje glamuroze",
