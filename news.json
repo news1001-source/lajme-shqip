@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-09-05T23:29:48.875662+00:00",
+  "lastUpdated": "2026-09-06T02:35:24.960043+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Itali, tre të rinj shqiptarë arrestohen brenda një muaji: media lokale zbulon skemën e “turistëve-korrierë” të kokainës",
+      "link": "https://24-ore.com/itali-tre-te-rinj-shqiptare-arrestohen-brenda-nje-muaji-media-lokale-zbulon-skemen-e-turisteve-korriere-te-kokaines/",
+      "description": "Një seri prej tre arrestimesh të të rinjve shqiptarë brenda më pak se një muaji në zonën e Ankonës dhe Jesit, në Itali, po nxjerr në pah një metodë të organizuar të shpërndarjes së kokainës, ku persona pa precedentë penalë dyshohet se dërgohen nga Shqipëria si “turistë”, me makinë, strehim dhe shpen",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T02:22:38+00:00",
+      "dateStr": "06 Sep, 02:22",
+      "isNew": true,
+      "id": "24 01788661358"
+    },
+    {
+      "title": "White Sox prezantojnë vizualizime për stadiumin e ri të propozuar në South Loop të Çikagos",
+      "link": "https://24-ore.com/white-sox-prezantojne-vizualizime-per-stadiumin-e-ri-te-propozuar-ne-south-loop-te-cikagos/",
+      "description": "Udhëheqësit e Chicago White Sox kanë publikuar detaje të reja mbi një propozim për të zhvendosur skuadrën pranë bregut të lumit, në lagjen South Loop të Çi...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T01:32:35+00:00",
+      "dateStr": "06 Sep, 01:32",
+      "isNew": true,
+      "id": "24 11788658355"
+    },
+    {
+      "title": "TGI Fridays hyn për herë të parë në Shqipëri dhe Ballkan, marrëveshje për 10 restorante me Devolli Group",
+      "link": "https://24-ore.com/tgi-fridays-hyn-per-here-te-pare-ne-shqiperi-dhe-ballkan-marreveshje-per-10-restorante-me-devolli-group/",
+      "description": "Rrjeti amerikan TGI Fridays do të hyjë për herë të parë në tregun shqiptar dhe në Ballkan, pas një marrëveshjeje të re zhvillimi me Devolli Group për hapjen e gjithsej 10 restoranteve në Shqipëri, Kosovë dhe Maqedoninë e Veriut. Marrëveshja u bë publike më 4 shtator 2026 nga TGI Fridays përmes PR Ne",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T01:09:57+00:00",
+      "dateStr": "06 Sep, 01:09",
+      "isNew": true,
+      "id": "24 21788656997"
+    },
+    {
+      "title": "12 transferimet e verës në MLS që morën pjesë në Kupën e Botës 2026",
+      "link": "https://24-ore.com/12-transferimet-e-veres-ne-mls-qe-moren-pjese-ne-kupen-e-botes-2026/",
+      "description": "Dritarja e dytë e transferimeve në MLS është mbyllur, dhe gjatë verës u finalizuan 12 nënshkrime të lojtarëve që garuan në Kupën e Botës FIFA 2026. Këto lë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T01:00:40+00:00",
+      "dateStr": "06 Sep, 01:00",
+      "isNew": true,
+      "id": "24 31788656440"
+    },
     {
       "title": "Një rikthim i mundshëm i Kevin Love te Minnesota Timberwolves para sezonit 2026-27",
       "link": "https://24-ore.com/nje-rikthim-i-mundshem-i-kevin-love-te-minnesota-timberwolves-para-sezonit-2026-27/",
@@ -12,7 +56,7 @@
       "date": "2026-09-05T23:25:48+00:00",
       "dateStr": "05 Sep, 23:25",
       "isNew": true,
-      "id": "24 01788650748"
+      "id": "24 41788650748"
     },
     {
       "title": "San Diego Padres – New York Yankees, 5 shtator 2026: përmbledhje e hapjes së ndeshjes",
@@ -23,7 +67,7 @@
       "date": "2026-09-05T23:22:43+00:00",
       "dateStr": "05 Sep, 23:22",
       "isNew": true,
-      "id": "24 11788650563"
+      "id": "24 51788650563"
     },
     {
       "title": "New Statesman: Protestat kundër projektit të Kushnerit ngrenë një çështje më të madhe – sovranitetin e Shqipërisë",
@@ -34,7 +78,7 @@
       "date": "2026-09-05T22:49:53+00:00",
       "dateStr": "05 Sep, 22:49",
       "isNew": true,
-      "id": "24 21788648593"
+      "id": "24 61788648593"
     },
     {
       "title": "Jared Kushner nuk mund ta pushtojë Ballkanin",
@@ -45,7 +89,7 @@
       "date": "2026-09-05T22:47:11+00:00",
       "dateStr": "05 Sep, 22:47",
       "isNew": true,
-      "id": "24 31788648431"
+      "id": "24 71788648431"
     },
     {
       "title": "Diamondbacks–Astros në Houston, 5 shtator 2026: Pfaadt për AZ, Pecko për HOU dhe lista e dëmtimeve",
@@ -56,7 +100,7 @@
       "date": "2026-09-05T22:40:40+00:00",
       "dateStr": "05 Sep, 22:40",
       "isNew": true,
-      "id": "24 41788648040"
+      "id": "24 81788648040"
     },
     {
       "title": "Si renditet skandali i Clippers për shmangien e kufirit të pagave mes ndëshkimeve më të rënda në histori të sportit",
@@ -67,29 +111,7 @@
       "date": "2026-09-05T21:56:59+00:00",
       "dateStr": "05 Sep, 21:56",
       "isNew": true,
-      "id": "24 51788645419"
-    },
-    {
-      "title": "Aaron Judge nis stërvitjet me top të gjallë në Yankee Stadium pas frakturës së brinjës së djathtë",
-      "link": "https://24-ore.com/aaron-judge-nis-stervitjet-me-top-te-gjalle-ne-yankee-stadium-pas-fraktures-se-brinjes-se-djathte/",
-      "description": "Aaron Judge do të përballet me gjuajtje të gjalla të hënën në Yankee Stadium si pjesë e programit të tij të rehabilitimit pas frakturës së brinjës së djath...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T21:56:11+00:00",
-      "dateStr": "05 Sep, 21:56",
-      "isNew": true,
-      "id": "24 61788645371"
-    },
-    {
-      "title": "Në një organizimin madhështor, UBT mban Ceremoninë e Gradimit të studentëve të gjeneratës së 23-të",
-      "link": "https://24-ore.com/ne-nje-organizimin-madheshtor-ubt-mban-ceremonine-e-gradimit-te-studenteve-te-gjenerates-se-23-te/",
-      "description": "UBT ka organizuar ceremoninë solemne të gradimit për gjeneratën e 23-të të studentëve, duke shënuar një nga momentet më të rëndësishme të vitit akademik. Në ceremoni morën pjesë mbi një mijë absolventë, familjarë, profesorë dhe drejtues institucionesh. Ceremonia u hap me intonimin e himnit kombëtar,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T21:55:08+00:00",
-      "dateStr": "05 Sep, 21:55",
-      "isNew": true,
-      "id": "24 71788645308"
+      "id": "24 91788645419"
     },
     {
       "title": "Surpriza të “hidhura” për Sali Berishën? Çupi: Mund të hetohet nga FBI-ja, kudo ku shkon krijon përçarje",
@@ -101,28 +123,6 @@
       "dateStr": "05 Sep, 21:44",
       "isNew": true,
       "id": "abc01788644661"
-    },
-    {
-      "title": "Flet i dashuri 20 vjet më i ri i vajzës së Brigitte Macron: E kemi seriozisht",
-      "link": "https://24-ore.com/flet-i-dashuri-20-vjet-me-i-ri-i-vajzes-se-brigitte-macron-e-kemi-seriozisht/",
-      "description": "“Nuk është një aventurë verore. Është dashuri, është serioze dhe kemi plane për të ardhmen.” Me këto fjalë, 22-vjeçari Antoine Lecomte përshkruan marrëdhënien e tij me Tiphaine Auzière, vajzën 42-vjeçare të Brigitte Macron. Kitesurferi dhe sipërmarrësi i ri pohon se mosha nuk është pengesë për çifti",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T21:16:28+00:00",
-      "dateStr": "05 Sep, 21:16",
-      "isNew": true,
-      "id": "24 81788642988"
-    },
-    {
-      "title": "PDK e Aleanca paralajmërojnë fazë tjetër të veprimit për të “kthyer ligjshmërinë”, nga LVV kërkojnë reagimin e institucioneve të sigurisë",
-      "link": "https://24-ore.com/pdk-e-aleanca-paralajmerojne-faze-tjeter-te-veprimit-per-te-kthyer-ligjshmerine-nga-lvv-kerkojne-reagimin-e-institucioneve-te-sigurise/",
-      "description": "PDK-ja bashkë me Aleancën paralajmëruan fazë të re të veprimit politik dhe juridik në lidhje me situatën politike. Kreu i Partisë Demokratike të Kosovës (PDK), Bedri Hamza, ka paralajmëruar veprime politike, institucionale dhe juridike lidhur me bllokadën e konstituimit të Kuvendit të Kosovës. Duke ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-05T21:15:19+00:00",
-      "dateStr": "05 Sep, 21:15",
-      "isNew": true,
-      "id": "24 91788642919"
     },
     {
       "title": "Himara nën flakë, “zhduket” Vangjel Tavo, kryebashkiaku mungoi edhe gjatë vizitës së Ramës",
