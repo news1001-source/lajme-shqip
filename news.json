@@ -1,8 +1,63 @@
 {
-  "lastUpdated": "2026-09-06T21:54:51.789715+00:00",
+  "lastUpdated": "2026-09-06T23:25:35.336002+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
+    {
+      "title": "Pesë lojtarë të NBA-së që pritet të bëjnë hapin drejt nivelit tjetër",
+      "link": "https://24-ore.com/pese-lojtare-te-nba-se-qe-pritet-te-bejne-hapin-drejt-nivelit-tjeter/",
+      "description": "Parashikimi i një zhvillimi të madh te lojtarët e rinj në NBA është i vështirë, por disa emra duken gati të bëjnë një hap përpara pas performancave të fund...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T23:15:30+00:00",
+      "dateStr": "06 Sep, 23:15",
+      "isNew": true,
+      "id": "24 01788736530"
+    },
+    {
+      "title": "Renditja e Playoff-ve të MLB 2026: tabela aktuale dhe garat kryesore për t’u ndjekur",
+      "link": "https://24-ore.com/renditja-e-playoff-ve-te-mlb-2026-tabela-aktuale-dhe-garat-kryesore-per-tu-ndjekur/",
+      "description": "Sezoni i rregullt i MLB po shkon drejt përfundimit dhe ekipet po luftojnë për vendet që çojnë në playoff. Disa skuadra kanë krijuar avantazhe të qarta, ndë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T23:12:07+00:00",
+      "dateStr": "06 Sep, 23:12",
+      "isNew": true,
+      "id": "24 11788736327"
+    },
+    {
+      "title": "Het-triku historik i Janssen, festimi ‘LeBron’ i Cavan dhe spektakli i golave në Xhiron 24",
+      "link": "https://24-ore.com/het-triku-historik-i-janssen-festimi-lebron-i-cavan-dhe-spektakli-i-golave-ne-xhiron-24/",
+      "description": "Xhiroja e 24-t solli një fundjavë të mbushur me gola dhe kthesa dramatike, me disa ndeshje që vendosën ritmin e kampionatit. Mes shumë episodeve spektakola...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T22:40:46+00:00",
+      "dateStr": "06 Sep, 22:40",
+      "isNew": true,
+      "id": "24 21788734446"
+    },
+    {
+      "title": "White Sox dhe Twins barazojnë 0-0 pas fillimit të ndeshjes më 6 shtator 2026",
+      "link": "https://24-ore.com/white-sox-dhe-twins-barazojne-0-0-pas-fillimit-te-ndeshjes-me-6-shtator-2026/",
+      "description": "Në përballjen mes Chicago White Sox dhe Minnesota Twins më 6 shtator 2026, ndeshja hapi me një fillim të ngjeshur dhe pa gola. Në pjesën e parë të takimit...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T22:30:43+00:00",
+      "dateStr": "06 Sep, 22:30",
+      "isNew": true,
+      "id": "24 31788733843"
+    },
+    {
+      "title": "Lexis King dhe Carolina Cruz fejojnë pas propozimit që u përhap në rrjetet sociale",
+      "link": "https://24-ore.com/lexis-king-dhe-carolina-cruz-fejojne-pas-propozimit-qe-u-perhap-ne-rrjetet-sociale/",
+      "description": "Ylli i NXT, Lexis King, dhe ish-ylli i WWE-së, Carolina Cruz, u fejuan gjatë fundjavës. Një video e momentit të propozitës u shpërnda gjerësisht në rrjetet...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T21:55:40+00:00",
+      "dateStr": "06 Sep, 21:55",
+      "isNew": true,
+      "id": "24 41788731740"
+    },
     {
       "title": "Shohei Ohtani mund të shkojë në listën e të lënduarve, thotë trajneri i Dodgers",
       "link": "https://24-ore.com/shohei-ohtani-mund-te-shkoje-ne-listen-e-te-lenduarve-thote-trajneri-i-dodgers/",
@@ -12,7 +67,7 @@
       "date": "2026-09-06T21:46:30+00:00",
       "dateStr": "06 Sep, 21:46",
       "isNew": true,
-      "id": "24 01788731190"
+      "id": "24 51788731190"
     },
     {
       "title": "Zjarret në vend, Ministria e Mbrojtjes: 11 vatra aktive, situatë problematike vijon te Mali i Dajtit",
@@ -23,7 +78,7 @@
       "date": "2026-09-06T21:21:08+00:00",
       "dateStr": "06 Sep, 21:21",
       "isNew": true,
-      "id": "24 11788729668"
+      "id": "24 61788729668"
     },
     {
       "title": "Situatë alarmante në Pukë, Mali i Tërbunit përfshihet nga zjarret",
@@ -34,7 +89,7 @@
       "date": "2026-09-06T21:20:57+00:00",
       "dateStr": "06 Sep, 21:20",
       "isNew": true,
-      "id": "24 21788729657"
+      "id": "24 71788729657"
     },
     {
       "title": "Gazetari nga Rusia: Putin dhe Kushner drekuan në restorant luksoz, presidenti rus priti 3 muaj për takimin",
@@ -45,7 +100,7 @@
       "date": "2026-09-06T21:20:44+00:00",
       "dateStr": "06 Sep, 21:20",
       "isNew": true,
-      "id": "24 31788729644"
+      "id": "24 81788729644"
     },
     {
       "title": "Nurellari: Protesta në shesh të jetë reflektim për partitë e reja!",
@@ -56,18 +111,7 @@
       "date": "2026-09-06T21:20:32+00:00",
       "dateStr": "06 Sep, 21:20",
       "isNew": true,
-      "id": "24 41788729632"
-    },
-    {
-      "title": "Washington kryeson 10-0 ndaj Washington State në pjesën e parë",
-      "link": "https://24-ore.com/washington-kryeson-10-0-ndaj-washington-state-ne-pjesen-e-pare/",
-      "description": "Më 6 shtator 2026, Washington Huskies udhëheqin 10-0 ndaj Washington State Cougars, me 10:09 të pjesës së dytë në tabelë. Huskies kishin shënuar 3 pikë në...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T21:07:16+00:00",
-      "dateStr": "06 Sep, 21:07",
-      "isNew": true,
-      "id": "24 51788728836"
+      "id": "24 91788729632"
     },
     {
       "title": "Konflikt te ish-Parku në Tiranë, 26-vjeçari plagoset me thikë",
@@ -79,39 +123,6 @@
       "dateStr": "06 Sep, 21:04",
       "isNew": true,
       "id": "abc01788728647"
-    },
-    {
-      "title": "Cardinals mbështesin Hancel Rincon me kapela të pjerrëta, Goodman i Rockies mohon se u ankua te arbitri",
-      "link": "https://24-ore.com/cardinals-mbeshtesin-hancel-rincon-me-kapela-te-pjerreta-goodman-i-rockies-mohon-se-u-ankua-te-arbitri/",
-      "description": "Para ndeshjes së së shtunës kundër Colorado Rockies, disa lojtarë të St. Louis Cardinals vendosën kapelat e pjerrëta si shenjë mbështetje për dërgenin e ri...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T21:02:25+00:00",
-      "dateStr": "06 Sep, 21:02",
-      "isNew": true,
-      "id": "24 61788728545"
-    },
-    {
-      "title": "Giants firmosin një kontratë dyvjeçare me quarterbackun Jameis Winston",
-      "link": "https://24-ore.com/giants-firmosin-nje-kontrate-dyvjecare-me-quarterbackun-jameis-winston/",
-      "description": "Skuadrat e NFL vijojnë me lëvizje në përbërje dhe njoftime për gjendjen e lojtarëve ndërsa afrohet sezoni. Kjo përmbledhje përfshin kontrata të reja, lëndi...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T21:00:39+00:00",
-      "dateStr": "06 Sep, 21:00",
-      "isNew": true,
-      "id": "24 71788728439"
-    },
-    {
-      "title": "Sulmi ndaj kapitenit të Njësive Speciale, dy të arrestuarit dalin të jenë djem të një polici",
-      "link": "https://24-ore.com/sulmi-ndaj-kapitenit-te-njesive-speciale-dy-te-arrestuarit-dalin-te-jene-djem-te-nje-polici/",
-      "description": "Dy persona janë prangosur sot, më 06.09.2026, në një qendër tregtare pas një incidenti ku u përfshi kapiteni i Njësive Speciale të Policisë së Kosovës, Besart Ahmeti. Sipas Kallxo, dy personat e arrestuar, njëri 16 dhe tjetri mbi 20-vjeç, janë djem të një polici të Kosovës me mbiemrin Aliu, ndërsa i",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T20:59:39+00:00",
-      "dateStr": "06 Sep, 20:59",
-      "isNew": true,
-      "id": "24 81788728379"
     },
     {
       "title": "Shpërthimi vullkanik bllokon mbi 150 mijë pasagjerë në Indonezi",
@@ -178,17 +189,6 @@
       "dateStr": "06 Sep, 20:20",
       "isNew": true,
       "id": "abc41788726058"
-    },
-    {
-      "title": "Yankees dhe Padres në San Diego: Cole përballë King, 0-0 pas pjesës së parë (6 shtator 2026)",
-      "link": "https://24-ore.com/yankees-dhe-padres-ne-san-diego-cole-perballe-king-0-0-pas-pjeses-se-pare-6-shtator-2026/",
-      "description": "Më 6 shtator 2026, New York Yankees udhëtuan në San Diego për ndeshjen ndaj San Diego Padres. Përpara fillimit të takimit, Yankees kishin bilanc 81-61, ndë...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T20:20:39+00:00",
-      "dateStr": "06 Sep, 20:20",
-      "isNew": true,
-      "id": "24 91788726039"
     },
     {
       "title": "Trump i lumtur me fitoren e AfD në landin Saksoni-Anhalt! Ja postimi i presidentit për partinë gjermane",
