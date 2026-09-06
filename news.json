@@ -1,73 +1,293 @@
 {
-  "lastUpdated": "2026-09-06T14:48:53.253173+00:00",
+  "lastUpdated": "2026-09-06T17:27:47.017820+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "VATIKAN – Papa Leone XIV: Shpresoj që negociatat për Ukrainën të japin rezultate konkrete",
-      "link": "https://24-ore.com/vatikan-papa-leone-xiv-shpresoj-qe-negociatat-per-ukrainen-te-japin-rezultate-konkrete/",
-      "description": "VATIKAN, 6 shtator /ATSH-ANSA/ – Papa Leone XIV ka shprehur dhimbjen për sulmet e dhunshme të fundit që kanë goditur disa qytete dhe infrastruktura civile në Ukrainë, duke shkaktuar viktima mes popullsisë së pafajshme. Gjatë lutjes së Angelusit, papa tha se e ka ndjekur me shqetësim lajmin për sulme",
+      "title": "Phillies në epërsi të ngushtë 1-0 ndaj Braves në pjesën e parë (6 shtator 2026)",
+      "link": "https://24-ore.com/phillies-ne-epersi-te-ngushte-1-0-ndaj-braves-ne-pjesen-e-pare-6-shtator-2026/",
+      "description": "Më 6 shtator 2026, Philadelphia Phillies kishin epërsinë 1-0 ndaj Atlanta Braves në përfundim të pjesës së parë, në një transmetim kombëtar në NBC/Peacock....",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-06T14:45:57+00:00",
-      "dateStr": "06 Sep, 14:45",
+      "date": "2026-09-06T17:26:24+00:00",
+      "dateStr": "06 Sep, 17:26",
       "isNew": true,
-      "id": "24 01788705957"
+      "id": "24 01788715584"
+    },
+    {
+      "title": "Mexhiti priti në takim një delegacion arbëresh nga Vakarici i Italisë",
+      "link": "https://24-ore.com/mexhiti-priti-ne-takim-nje-delegacion-arberesh-nga-vakarici-i-italise/",
+      "description": "Kryetari i Komunës së Çairit, Izet Mexhiti, ka pritur sot një delegacion arbëresh nga Vakarici i Italisë, të kryesuar nga kryetari Antonio Pomillo, në vizitën e tyre të parë në Maqedoninë e Veriut. Në takim janë trajtuar edhe çështje që lidhen me komunitetin shqiptar në Shkup, përfshirë emërtimet sh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T17:25:37+00:00",
+      "dateStr": "06 Sep, 17:25",
+      "isNew": true,
+      "id": "24 11788715537"
+    },
+    {
+      "title": "Barcelona shënon pesë gola ndaj Valencias dhe merr e vetme kreun e LaLiga-s",
+      "link": "https://24-ore.com/barcelona-shenon-pese-gola-ndaj-valencias-dhe-merr-e-vetme-kreun-e-laliga-s/",
+      "description": "Në javën e katërt të La Ligës, Barcelona merr e vetme kreun e renditjes pas fitores 5–0 në transfertë ndaj Valencias. Talenti spanjoll Yamal hapi dhe mbylli serinë e golave, duke shënuar dy herë, ndërsa mes këtyre realizimeve erdhën golat e Ferminit (i cili dha edhe dy asiste), Raphinhas dhe Pedrit;",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T17:22:16+00:00",
+      "dateStr": "06 Sep, 17:22",
+      "isNew": true,
+      "id": "24 21788715336"
+    },
+    {
+      "title": "Konflikti në Vlorë, reagon biznesmeni Luan Muça",
+      "link": "https://24-ore.com/konflikti-ne-vlore-reagon-biznesmeni-luan-muca/",
+      "description": "Biznesmeni Luan Muça ka reaguar publikisht mbi konfliktin me pronarin e një hoteli në Radhimë, Vasil Bedinaj. Në një deklaratë, Muça jep versionin e tij për përplasjen, duke pretenduar se bëhet fjalë për një konflikt pronësie, konflikt për të cilin Muça shprehet se është takuar me Bedinaj për ta zgj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T17:22:04+00:00",
+      "dateStr": "06 Sep, 17:22",
+      "isNew": true,
+      "id": "24 31788715324"
+    },
+    {
+      "title": "Zjarr i madh në Kropisht të Selenicës, flakët rrezikojnë banesat (VIDEO)",
+      "link": "https://24-ore.com/zjarr-i-madh-ne-kropisht-te-selenices-flaket-rrezikojne-banesat-video/",
+      "description": "Një zjarr i përmasave të mëdha ka përfshirë pasditen e sotme kodrat e fshatit Kropisht, në Bashkinë Selenicë. Flakët kanë përfshirë sipërfaqe të konsiderueshme me ullinj dhe po afrohen drejt disa banesave, duke rritur rrezikun për zonën e banuar. Nëse zjarri vijon të përhapet me shpejtësi gjatë orëv",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T17:21:53+00:00",
+      "dateStr": "06 Sep, 17:21",
+      "isNew": true,
+      "id": "24 41788715313"
+    },
+    {
+      "title": "Zjarr pranë banesave në Krastë të Elbasanit, rrezikohen dy shtëpi (VIDEO)",
+      "link": "https://24-ore.com/zjarr-prane-banesave-ne-kraste-te-elbasanit-rrezikohen-dy-shtepi-video/",
+      "description": "Një vatër zjarri është përhapur pas Kodrës së Krastës në Elbasan, duke rrezikuar nga flakët edhe dy banesa pranë zonës. Situata ka kërkuar ndërhyrjen e shërbimit zjarrfikës, i cili ka mobilizuar tre mjete dhe 12 efektivë për të vënë nën kontroll flakët. Për shkak të afërsisë me banesat, ndërhyrja ës",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T17:21:42+00:00",
+      "dateStr": "06 Sep, 17:21",
+      "isNew": true,
+      "id": "24 51788715302"
+    },
+    {
+      "title": "Berisha në SHBA: Ata që firmosën ndalimin tim, sot janë non-grata në vendin e tyre, mirënjohje Trump dhe Rubio",
+      "link": "https://24-ore.com/berisha-ne-shba-ata-qe-firmosen-ndalimin-tim-sot-jane-non-grata-ne-vendin-e-tyre-mirenjohje-trump-dhe-rubio/",
+      "description": "Kryetari i Partisë Demokratike, Sali Berisha zhvilloi sot një takim me diasporën shqiptare në New Jersey të SHBA-së. Gjatë fjalimit, Berisha u ndal te rikthimi i tij në Shtetet e Bashkuara, duke e cilësuar si një moment emocionues ku siç e thekson ai, katër vite më parë iu mohua hyrja. “Për ne sot, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T17:21:33+00:00",
+      "dateStr": "06 Sep, 17:21",
+      "isNew": true,
+      "id": "24 61788715293"
+    },
+    {
+      "title": "Von der Leyen viziton Groenlandën, BE rrit mbështetjen ndaj ishullit",
+      "link": "https://24-ore.com/von-der-leyen-viziton-groenlanden-be-rrit-mbeshtetjen-ndaj-ishullit/",
+      "description": "Presidentja e Komisionit Evropian, Ursula von der Leyen, do të vizitojë Groenlandën të dielën dhe të hënën, në një shenjë të mbështetjes së vazhdueshme të Bashkimit Evropian për ishullin, në një kohë kur Presidenti i SHBA-së, Donald Trump, ka përsëritur synimin e tij për ta marrë nën kontroll. Gjatë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T17:21:21+00:00",
+      "dateStr": "06 Sep, 17:21",
+      "isNew": true,
+      "id": "24 71788715281"
+    },
+    {
+      "title": "Zgjedhje që mund të ndryshojnë politikën gjermane, AfD fiton bindshëm në Saksoni-Anhalt",
+      "link": "https://24-ore.com/zgjedhje-qe-mund-te-ndryshojne-politiken-gjermane-afd-fiton-bindshem-ne-saksoni-anhalt/",
+      "description": "Sondazhet pas mbylljes së votimit në zgjedhjet rajonale në Saksoni-Anhalt tregojnë një epërsi të thellë të AfD-së së ekstremit të djathtë, e cila, sipas parashikimeve të ARD-së, ka siguruar rreth 44.5% të votave. Pas saj renditet CDU me 18.5%, ndërsa Die Linke parashikohet të marrë 9.5% dhe SPD 8%. ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T17:21:11+00:00",
+      "dateStr": "06 Sep, 17:21",
+      "isNew": true,
+      "id": "24 81788715271"
+    },
+    {
+      "title": "Përfundon raundi i parë i bisedimeve Zelensky-Witkoff-Kushner",
+      "link": "https://24-ore.com/perfundon-raundi-i-pare-i-bisedimeve-zelensky-witkoff-kushner/",
+      "description": "Ka përfunduar raundi i parë i bisedimeve në Kiev mes presidentit ukrainas Volodymyr Zelensky dhe të dërguarve amerikanë Steve Witkoff dhe Jared Kushner. Pas takimit me palën ukrainase, delegacioni amerikan ka kaluar në fazën e dytë të konsultimeve, këtë herë me përfaqësuesit evropianë. Në diskutime ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T17:20:59+00:00",
+      "dateStr": "06 Sep, 17:20",
+      "isNew": true,
+      "id": "24 91788715259"
+    },
+    {
+      "title": "Berisha pritet me protesta në SHBA/ Boduri: Jemi kërcënuar nga njerëzit e PD. Ai vazhdon të jetë ‘non grata’ për shqiptarët",
+      "link": "https://abcnews.al/berisha-pritet-me-protesta-ne-shba-boduri-jemi-kercenuar-nga-njerezit-e-pd-ai-vazhdon-te-jete-non-grata-per-shqiptaret/",
+      "description": "Vizita e Sali Berishës në SHBA pas 14 vitesh është shoqëruar me protesta nga disa pjesëtarë të komunitetit shqiptar atje. Sipas protestuesit Jurgen Boduri, manifestuesit kanë dashur të përcjellin mesazhin se Berisha mbetet &#8220;non grata&#8221; për shqiptarët e Amerikës, pavarësisht pretendimeve p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T17:19:39+00:00",
+      "dateStr": "06 Sep, 17:19",
+      "isNew": true,
+      "id": "abc01788715179"
+    },
+    {
+      "title": "Video/ Zjarr në Krastë të Elbasanit! Flakët shumë pranë banesave",
+      "link": "https://shekulli.com.al/2026/09/06/video-zjarr-ne-kraste-te-elbasanit-flaket-shume-prane-banesave/",
+      "description": "Një zjarr i madh ka përfshirë zonën pranë Kodrës së krastës në Elbasan, duke u kthyer në rrezik për banesat. Menjëherë në vendngjarje kanë ndërhyrë forcat e shërbimit zjarrfikës, të cilët kanë mobilizuar tre mjete dhe 12 efektivë për të vënë nën kontroll flakët. Për shkak të afërsisë me banesat, ndë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-06T17:16:35+00:00",
+      "dateStr": "06 Sep, 17:16",
+      "isNew": true,
+      "id": "she01788714995"
+    },
+    {
+      "title": "Të dërguarit e Trump japin sinjalin e parë pas takimeve në Rusi e Ukrainë",
+      "link": "https://abcnews.al/te-derguarit-e-trump-japin-sinjalin-e-pare-pas-takimeve-ne-rusi-e-ukraine/",
+      "description": "Të dërguarit e Donald Trumpit kanë thënë se janë të inkurajuar pas bisedimeve në Kiev. Jaredh Kushner dhe Steve Witkoff janë deklaruar pas raundeve fillestare të bisedimeve midis delegacionit amerikan dhe delegacionit ukrainas. &#8220;Do të thoja se kemi pasur diskutime shumë kuptimplote. Përmbajtës",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T16:53:07+00:00",
+      "dateStr": "06 Sep, 16:53",
+      "isNew": true,
+      "id": "abc11788713587"
+    },
+    {
+      "title": "Harta e re e botës/ Serbia abstenon propozimin e OKB-së: Kosova paraqitet si shtet më vete, nuk mund ta mbështesim",
+      "link": "https://shekulli.com.al/2026/09/06/harta-e-re-e-botes-serbia-abstenon-propozimin-e-okb-se-kosova-paraqitet-si-shtet-me-vete-nuk-mund-ta-mbeshtesim/",
+      "description": "OKB-ja miratoi këtë javë një hartë të re të botës, për të reflektuar madhësinë e vërtetë të Afrikës. 164 shtete votuan pro, vetëm SHBA-ja kundër dhe 6 shtete abstenuan. Në mesin e atyre që abstenuan ishte edhe Serbia. Arsyeja për këtë është se harta e paraqitur në OKB e njeh Kosovën si shtet të pava",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-06T16:51:55+00:00",
+      "dateStr": "06 Sep, 16:51",
+      "isNew": true,
+      "id": "she11788713515"
+    },
+    {
+      "title": "News Hour me Erneta Shevroja, (06/09/2026)",
+      "link": "https://abcnews.al/news-hour-me-erneta-shevroja-06-09-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T16:38:32+00:00",
+      "dateStr": "06 Sep, 16:38",
+      "isNew": true,
+      "id": "abc21788712712"
+    },
+    {
+      "title": "Vlorë/ Zjarri përfshin Kropishtin, kërkohet ndërhyrje nga ajri (VIDEO)",
+      "link": "https://abcnews.al/vlore-zjarri-perfshin-kropishtin-kerkohet-nderhyrje-nga-ajri-video/",
+      "description": "Një zjarr i konsiderueshëm ka rënë në zonën e Kropishtit, në territorin e bashkisë Selenicë. Në vendngjarje janë angazhuar forcat zjarrfikëse të Selenicës, ndërsa për shkak të përmasave të flakëve është kërkuar ndërhyrja edhe e shërbimit zjarrfikës të Vlorës. Zjarri është përhapur në një gjatësi pre",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T16:23:19+00:00",
+      "dateStr": "06 Sep, 16:23",
+      "isNew": true,
+      "id": "abc31788711799"
+    },
+    {
+      "title": "“Ata që përgatitën mashtrimin, janë pas hekurave”/ Berisha nga SHBA-ja për “non grata”-n: Qëndroj me dy këmbë në tokën që donin të ma ndalonin",
+      "link": "https://shekulli.com.al/2026/09/06/ata-qe-pergatiten-mashtrimin-jane-pas-hekurave-berisha-nga-shba-ja-per-non-grata-n-qendroj-me-dy-kembe-ne-token-qe-donin-te-ma-ndalonin/",
+      "description": "Kryedemokrati Sali Berisha ndodhet në Shtetet e Bashkuara të Amerikës, ku ka zhvilluar një takim me shqiptarët në New Jersey. Berisha është ndalur të flasë edhe për shpalljen “non grata” nga DASH 5 vite më parë, duke thënë se sanksionet erdhën pas mashtrimit të krijuar nga ekstremi i majtë. Ai shtoi",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-06T16:18:35+00:00",
+      "dateStr": "06 Sep, 16:18",
+      "isNew": true,
+      "id": "she21788711515"
+    },
+    {
+      "title": "Vijon të jetë aktiv zjarri në grykëderdhjen e lumit Seman, tre të shoqëruar në polici",
+      "link": "https://abcnews.al/vijon-te-jete-aktiv-zjarri-ne-grykederdhjen-e-lumit-seman-policia-shoqeron-nje-bari-si-te-dyshuar-per-zjarrvenie/",
+      "description": "Zjarri vijon të jetë aktiv në zonën e grykëderdhjes së lumit Seman, pranë fshatit Ndërnenas, ndërsa tre persona janë shoqëruar në polici si të dyshuar për zjarrvënien. Forcat zjarrfikëse vijojnë prej orësh betejën me flakët për izolimin e vatrës së zjarrit në zonën e godullës së Semanit. Situata par",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T16:08:36+00:00",
+      "dateStr": "06 Sep, 16:08",
+      "isNew": true,
+      "id": "abc41788710916"
+    },
+    {
+      "title": "E rëndë/ Shembet ndërtesa studentore! Një i vdekur dhe dhjetëra persona të zhdukur nën rrënoja",
+      "link": "https://shekulli.com.al/2026/09/06/e-rende-shembet-ndertesa-studentore-nje-i-vdekur-dhe-dhjetera-persona-te-zhdukur-nen-rrenoja/",
+      "description": "Një ngjarje e rëndë ka ndodhur në Indi, ku një ndërtesë banimi pesëkatëshe është shembur në kryeqytetin Delhi. Raportohet se ngjarja ndodhi rreth orës 13:30, duke shkaktuar një viktimë dhe duke lënë dhjetëra persona, kryesisht studentë, të dyshuar të bllokuar nën rrënoja. Dëshmitarët kanë deklaruar ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-06T16:03:37+00:00",
+      "dateStr": "06 Sep, 16:03",
+      "isNew": true,
+      "id": "she31788710617"
+    },
+    {
+      "title": "VIDEO/ Izolohen disa vatra zjarri në Ndërnenas, por ende ka vatra aktive",
+      "link": "https://abcnews.al/video-izolohen-disa-vatra-zjarri-ne-ndernenas-por-ende-ka-vatra-aktive/",
+      "description": "Janë izoluar disa vatra zjarri në zonën e Ndërnenasit, ndërsa vijojnë të jenë aktive edhe vatra të tjera. Forcat zjarrfikëse po punojnë për shuarjen dhe vënien nën kontroll të flakëve. [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T15:50:25+00:00",
+      "dateStr": "06 Sep, 15:50",
+      "isNew": true,
+      "id": "abc51788709825"
+    },
+    {
+      "title": "SHBA merr “pjesën e luanit” të naftës së Venezuelës",
+      "link": "https://abcnews.al/shba-merr-pjesen-e-luanit-te-naftes-se-venezueles/",
+      "description": "Presidenti amerikan, Donald Trump, njoftoi më 28 gusht një marrëveshje që i jep Shteteve të Bashkuara kontrollin e më shumë se 65 miliardë fuçi të rezervave të naftës së Venezuelës përmes një partneriteti me kompani private. Në një postim në Truth Social, kreu i Shtëpisë së Bardhë tha se kjo marrëve",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T15:41:03+00:00",
+      "dateStr": "06 Sep, 15:41",
+      "isNew": true,
+      "id": "abc61788709263"
+    },
+    {
+      "title": "“Punonjës sezonalë” për të shitur drogë në Sarandë! Zbulohet si funksiononte grupi kriminal i “Boraqit”",
+      "link": "https://shekulli.com.al/2026/09/06/punonjes-sezonale-per-te-shitur-droge-ne-sarande-zbulohet-si-funksiononte-grupi-kriminal-i-boraqit/",
+      "description": "Detaje të reja janë zbardhur nga operacioni anti-drogë në Sarandë, i cili çoi në kapjen e 20 persona, mes tyre edhe 49-vjeçarin Altin Arapi, i njohur me pseudonimin “Boraqi”. Mësohet se shumë nga shpërndarësit vinin nga Tirana dhe Elbasani dhe shisnin drogë vetëm gjatë sezonit veror. Ata shpërndanin",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-06T15:37:18+00:00",
+      "dateStr": "06 Sep, 15:37",
+      "isNew": true,
+      "id": "she41788709038"
+    },
+    {
+      "title": "Greqia: Mbështesim anëtarësimin e Shqipërisë/ Athina kërkon përparim të mëtejshëm për të drejtat e minoritetit grek",
+      "link": "https://abcnews.al/greqia-mbeshtesim-anetaresimin-e-shqiperise-athina-kerkon-perparim-te-metejshem-per-te-drejtat-e-minoritetit-grek/",
+      "description": "Greqia mbështet me rezerva anëtarësimin e Shqipërisë në BE. Në konferencën ndërkombëtare të Selanikut, kryeministri i Greqisë, Kiriakos Mitsotakis, rikonfirmoi mbështetjen e Greqisë për integrimin evropian të Ballkanit Perëndimor. “Greqia mbetet në favor të perspektivës evropiane të Ballkanit Perënd",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T15:21:39+00:00",
+      "dateStr": "06 Sep, 15:21",
+      "isNew": true,
+      "id": "abc71788708099"
+    },
+    {
+      "title": "News Hour me Fabiola Hoxha, (06/09/2026)",
+      "link": "https://abcnews.al/news-hour-me-fabiola-hoxha-06-09-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T15:04:42+00:00",
+      "dateStr": "06 Sep, 15:04",
+      "isNew": true,
+      "id": "abc81788707082"
+    },
+    {
+      "title": "Katër të vrarë nga sulmet izraelite në jug të Libanit, mes tyre dy gra",
+      "link": "https://abcnews.al/kater-te-vrare-nga-sulmet-izraelite-ne-jug-te-libanit-mes-tyre-dy-gra/",
+      "description": "Të paktën katër persona, përfshirë dy gra, janë vrarë në sulmet izraelite në jug të Libanit, ka njoftuar Ministria libaneze e Shëndetësisë. Sipas autoriteteve libaneze, dy burra u vranë në një qytet pranë një zone të shpallur nga Izraeli si zonë sigurie, ku vazhdojnë të jenë të pranishme trupat izra",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T14:48:49+00:00",
+      "dateStr": "06 Sep, 14:48",
+      "isNew": true,
+      "id": "abc91788706129"
     },
     {
       "title": "“Talent i madh politik por nuk e mbajti dot peshën e pushtetit”/ Ja për kë i thotë këto fjalë Edi Rama",
       "link": "https://shekulli.com.al/2026/09/06/talent-i-madh-politik-por-nuk-e-mbajti-dot-peshen-e-pushtetit-ja-per-ke-i-thote-keto-fjale-edi-rama/",
-      "description": "Kryeministri Edi Rama njoftoi sot rinisjen e podkastit “Flasim”, ku në episodin e parë u shfaq përballë gazetares Rudina Xhunga. Aju e pyet mes të tjerash hedhe për Ilir Metën, të cilin Rama e përshkruan si një “talent politik”. Megjithatë, Rama shton se Meta nuk e mbajti dot peshën e pushtetit dhe ",
+      "description": "Kryeministri Edi Rama njoftoi sot rinisjen e podkastit “Flasim”, ku në episodin e parë u shfaq përballë gazetares Rudina Xhunga. Aju e pyet mes të tjerash edhe për Ilir Metën, të cilin Rama e përshkruan si një “talent politik”. Megjithatë, Rama shton se Meta nuk e mbajti dot peshën e pushtetit dhe u",
       "source": "Shekulli",
       "category": "politike",
       "date": "2026-09-06T14:44:38+00:00",
       "dateStr": "06 Sep, 14:44",
       "isNew": true,
-      "id": "she01788705878"
-    },
-    {
-      "title": "LSH: Nuk e shohim veten pjesë të Qeverisë, nuk bëhemi pjesë e tregtisë me të drejtat e shqiptarëve",
-      "link": "https://24-ore.com/lsh-nuk-e-shohim-veten-pjese-te-qeverise-nuk-behemi-pjese-e-tregtise-me-te-drejtat-e-shqiptareve/",
-      "description": "Zijadin Sela ka komentuar deklaratën e Bilall Kasamit i cili tha Sela mund të bëhet pjesë e qeverisë, por jo edhe pjesë e koalicionit VLEN. Kasami theksoi se bisedimet për zgjerimin e kabinetit qeveritar janë të hapura për të gjithë ata që pranojnë programin e tij. “Nuk besoj që ka bisedime në drejt",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T14:36:03+00:00",
-      "dateStr": "06 Sep, 14:36",
-      "isNew": true,
-      "id": "24 11788705363"
-    },
-    {
-      "title": "Uk Lushi: Kurti e di verdiktin e Speciales për ish-krerët e UÇK-së",
-      "link": "https://24-ore.com/uk-lushi-kurti-e-di-verdiktin-e-speciales-per-ish-kreret-e-uck-se/",
-      "description": "Uk Lushi, aktivist dhe veprimtar në SHBA, ka bërë të ditur se kryeministri në detyrë Albin Kurti e di verdiktin e Speciales për katërshen e UÇK-së, i cili vendim do të shpallet më 16 shtator. Sipas Lushit, Albin Kurti është informuar nga sponsorët e tij në Berlin dhe Londër. “Albin Kurti e di verdik",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T14:35:52+00:00",
-      "dateStr": "06 Sep, 14:35",
-      "isNew": true,
-      "id": "24 21788705352"
-    },
-    {
-      "title": "Rama për Ilir Metën: Ishte talent i madh politik, por pushteti e katandisi në personazh qesharak",
-      "link": "https://24-ore.com/rama-per-ilir-meten-ishte-talent-i-madh-politik-por-pushteti-e-katandisi-ne-personazh-qesharak/",
-      "description": "Gjatë një interviste me gazetaren Rudina Xhunga në podcast-in e tij “Flasim,”, Kryeministri Edi Rama komentoi aktualitetin politik në Shqipëri. I pyetur për ish-presidentin Ilir Meta, kryesocialisti e cilësoi atë si një talent politik, por tha se nuk arriti ta përballonte peshën e pushtetit. Më tej ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T14:32:38+00:00",
-      "dateStr": "06 Sep, 14:32",
-      "isNew": true,
-      "id": "24 31788705158"
-    },
-    {
-      "title": "Një përplasje midis Red Sox dhe Orioles pas rrëshqitjes së Blaze Alexander",
-      "link": "https://24-ore.com/nje-perplasje-midis-red-sox-dhe-orioles-pas-rreshqitjes-se-blaze-alexander/",
-      "description": "Një përplasje midis skuadrave Boston Red Sox dhe Baltimore Orioles shpërtheu pas një rrëshqitjeje të fortë të Blaze Alexander në bazën e dytë gjatë ndeshje...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T14:32:30+00:00",
-      "dateStr": "06 Sep, 14:32",
-      "isNew": true,
-      "id": "24 41788705150"
+      "id": "she51788705878"
     },
     {
       "title": "Përplasja mes biznesmenëve, Luan Muça deklaratë për mediat: Si nisi konflikti me Vasil Bedinajn",
@@ -78,29 +298,7 @@
       "date": "2026-09-06T14:28:59+00:00",
       "dateStr": "06 Sep, 14:28",
       "isNew": true,
-      "id": "she11788704939"
-    },
-    {
-      "title": "Zjarri përfshin masivin me shkurre në Borje, ndërhyjnë zjarrfikësit nga Kukësi dhe Dragashi",
-      "link": "https://abcnews.al/zjarri-perfshin-masivin-me-shkurre-ne-borje-nderhyjne-zjarrfikesit-nga-kukesi-dhe-dragashi/",
-      "description": "Një vatër zjarri u shfaq mesditën e sotme në fshatin Borje, në Njësinë Administrative Shishtavec, duke përfshirë një masiv me shkurre dhe sipërfaqe me bar të thatë. Për shkak të erës së fortë dhe temperaturave të larta, flakët rrezikuan të përhapeshin me shpejtësi në zonën përreth. Banorët e Borjes ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-06T14:26:41+00:00",
-      "dateStr": "06 Sep, 14:26",
-      "isNew": true,
-      "id": "abc01788704801"
-    },
-    {
-      "title": "Gjermania hyn në epokën e raketave hapësinore: Spectrum arrin me sukses në orbitë",
-      "link": "https://abcnews.al/gjermania-hyn-ne-epoken-e-raketave-hapesinore-spectrum-arrin-me-sukses-ne-orbite/",
-      "description": "Një moment historik për industrinë hapësinore evropiane: raketa gjermane Spectrum ka arritur me sukses në orbitën e ulët të Tokës, duke shënuar fluturimin e parë të suksesshëm orbital të një kompanie evropiane me raketën e saj të zhvilluar në mënyrë private. Raketa, e zhvilluar nga kompania gjermane",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-06T14:16:15+00:00",
-      "dateStr": "06 Sep, 14:16",
-      "isNew": true,
-      "id": "abc11788704175"
+      "id": "she61788704939"
     },
     {
       "title": "Një tjetër Biden në Shtëpinë e Bardhë? Djali i ish-presidentit gati të kandidojë në zgjedhjet e vitit 2028",
@@ -111,62 +309,7 @@
       "date": "2026-09-06T14:13:12+00:00",
       "dateStr": "06 Sep, 14:13",
       "isNew": true,
-      "id": "she21788703992"
-    },
-    {
-      "title": "Burnley me statistika për EFL League One, Broja humb durimin dhe kapet me tifozët në parkingun e stadiumit",
-      "link": "https://24-ore.com/burnley-me-statistika-per-efl-league-one-broja-humb-durimin-dhe-kapet-me-tifozet-ne-parkingun-e-stadiumit/",
-      "description": "Starti i sezonit të ri nuk ka nisur në mënyrën më të mirë për Armando Brojën, i cili me Burnley-n e nisi me objektivin për tu rikthyer në Premier League. Një mision si ky nuk duhej i pamundur për ekipin në fjalë pasi në vitet e fundit Burnley u ngjit në Premier pas dy sezoneve [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T14:06:07+00:00",
-      "dateStr": "06 Sep, 14:06",
-      "isNew": true,
-      "id": "24 51788703567"
-    },
-    {
-      "title": "Mitsotakis: Shqipëria përparon drejt BE-së, por duhet të bëjë më shumë për minoritetin grek",
-      "link": "https://24-ore.com/mitsotakis-shqiperia-perparon-drejt-be-se-por-duhet-te-beje-me-shume-per-minoritetin-grek/",
-      "description": "Shqipëria dhe rruga e saj drejt Bashkimit Europian ishte një nga çështjet për të cilat u pyet në konferencën tradicionale për shtyp kryeministri grek Kyriakos Mitsotakis, në kuadër të Panairit të 90-të Ndërkombëtar të Selanikut. I pyetur për marrëdhëniet me Tiranën dhe problemet që lidhen me pronat ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T14:02:14+00:00",
-      "dateStr": "06 Sep, 14:02",
-      "isNew": true,
-      "id": "24 61788703334"
-    },
-    {
-      "title": "Fier/ Flakët riaktivizohen në Peshtan, banori ngre dyshime për zjarrvënie të qëllimshme",
-      "link": "https://24-ore.com/fier-flaket-riaktivizohen-ne-peshtan-banori-ngre-dyshime-per-zjarrvenie-te-qellimshme/",
-      "description": "Një banor i zonës së Peshtanit në Fier ka denoncuar përfshirjen nga zjarri të një sipërfaqeje pyjore, duke ngritur dyshime se flakët mund të jenë vendosur qëllimisht. Sipas banorit, zjarri i një dite më parë ishte shuar në zonë, ndërsa sot flakët janë shfaqur në një tjetër pjesë të pyllit, e cila më",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T14:02:02+00:00",
-      "dateStr": "06 Sep, 14:02",
-      "isNew": true,
-      "id": "24 71788703322"
-    },
-    {
-      "title": "WWE lirësoi dhjetë talentë pas SmackDown, lista e plotë e të liruarve",
-      "link": "https://24-ore.com/wwe-liresoi-dhjete-talente-pas-smackdown-lista-e-plote-e-te-liruarve/",
-      "description": "WWE lirësoi dhjetë talentë të nënshkruar pas edicionit të fundit të SmackDown. Në mesin e të larguarve janë emra si Jasper Troy, Wendy Choo, Ellen Akesson,...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T13:57:04+00:00",
-      "dateStr": "06 Sep, 13:57",
-      "isNew": true,
-      "id": "24 81788703024"
-    },
-    {
-      "title": "Zelensky takon të dërguarit e Trump në Kiev, përpjekja e re amerikane për t’i dhënë fund luftës",
-      "link": "https://abcnews.al/zelensky-takon-te-derguarit-e-trump-ne-kiev-perpjekja-e-re-amerikane-per-ti-dhene-fund-luftes/",
-      "description": "Presidenti ukrainas Volodymyr Zelensky ka takuar në Kiev të dërguarit e presidentit amerikan Donald Trump, Steve Witkoff dhe Jared Kushner, në kuadër të përpjekjeve të reja diplomatike për t’i dhënë fund luftës Rusi-Ukrainë. Takimi u zhvillua në qendër të Kievit, në sheshin Sofiiska, menjëherë pas m",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-06T13:55:57+00:00",
-      "dateStr": "06 Sep, 13:55",
-      "isNew": true,
-      "id": "abc21788702957"
+      "id": "she71788703992"
     },
     {
       "title": "Donald Trump ndryshon “look”! Shihni ngjyrën e re të flokëve të presidentit amerikan",
@@ -177,40 +320,7 @@
       "date": "2026-09-06T13:43:12+00:00",
       "dateStr": "06 Sep, 13:43",
       "isNew": true,
-      "id": "she31788702192"
-    },
-    {
-      "title": "BDI: Janë rritur çmimet e transportit ndërurban, goditen drejtpërdrejt studentët dhe qytetarët",
-      "link": "https://24-ore.com/bdi-jane-rritur-cmimet-e-transportit-nderurban-goditen-drejtperdrejt-studentet-dhe-qytetaret/",
-      "description": "Bashkimi Demokratik për Integrim ka reaguar ndaj rritjes së çmimeve të transportit ndërurban, duke vlerësuar se kjo masë rëndon veçanërisht mbi studentët dhe qytetarët që udhëtojnë çdo ditë. Partia kërkon nga institucionet kompetente sqarim publik për arsyet e rritjes së çmimeve dhe masa për lehtësi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-06T13:40:52+00:00",
-      "dateStr": "06 Sep, 13:40",
-      "isNew": true,
-      "id": "24 91788702052"
-    },
-    {
-      "title": "Ish-sekretari amerikan i Mbrojtjes paralajmëron: Lufta SHBA-Iran mund të zgjasë edhe gjashtë muaj",
-      "link": "https://abcnews.al/ish-sekretari-amerikan-i-mbrojtjes-paralajmeron-lufta-shba-iran-mund-te-zgjase-edhe-gjashte-muaj/",
-      "description": "Ish-sekretari amerikan i Mbrojtjes dhe ish-drejtori i CIA-s, Leon Panetta, ka dhënë një paralajmërim të fortë për konfliktin mes Shteteve të Bashkuara dhe Iranit, duke thënë se lufta mund të vazhdojë edhe për gjashtë muaj të tjerë, pa një zgjidhje të qartë në horizont. Në një intervistë për The Guar",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-06T13:39:25+00:00",
-      "dateStr": "06 Sep, 13:39",
-      "isNew": true,
-      "id": "abc31788701965"
-    },
-    {
-      "title": "“News Line” me Erisa Koxhaj, (06/09/2026)",
-      "link": "https://abcnews.al/news-line-me-erisa-koxhaj-06-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-06T13:21:40+00:00",
-      "dateStr": "06 Sep, 13:21",
-      "isNew": true,
-      "id": "abc41788700900"
+      "id": "she81788702192"
     },
     {
       "title": "Bie pista e gjobëvënies, Gjykata lë në detyrim paraqitje biznesmenin Luan Muça! Masat për personat e tjerë të përfshirë në konflikt",
@@ -221,117 +331,7 @@
       "date": "2026-09-06T13:15:53+00:00",
       "dateStr": "06 Sep, 13:15",
       "isNew": true,
-      "id": "she41788700553"
-    },
-    {
-      "title": "“Metastazat naziste po dalin në pah”/ Kërcënon Lavrov: Akuzat kundër Rusisë për dronin në Leipzig janë fillimi i një lufte të vërtetë",
-      "link": "https://shekulli.com.al/2026/09/06/metastazat-naziste-po-dalin-ne-pah-kercenon-lavrov-akuzat-kunder-rusise-per-dronin-ne-leipzig-jane-fillimi-i-nje-lufte-te-vertete/",
-      "description": "Ministri i Jashtëm rus, Sergei Lavrov ka reaguar në lidhje me akuzat e ngritura ndaj Rusisë, për sulmet me dron në Lejpzig. Lavrov nuk është kursyer, teksa tha se këto akuza janë, fillimi i një lufte të vërtetë mes Rusisë dhe NATO-së. “Në aeroportin e Leipzigut gjetën një dron. Thanë se ishte një dr",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-06T13:03:26+00:00",
-      "dateStr": "06 Sep, 13:03",
-      "isNew": true,
-      "id": "she51788699806"
-    },
-    {
-      "title": "Konflikti i biznesmenëve te ‘Regina Palm’ në Vlorë/ Gjykata vendos detyrim paraqitje për Luan Muçën",
-      "link": "https://abcnews.al/konflikti-i-biznesmeneve-te-regina-palm-ne-vlore-gjykata-vendos-detyrim-paraqitje-per-luan-mucen/",
-      "description": "Gjykata e Vlorës ka dhënë masat e sigurisë për pesë personat e arrestuar në lidhje me ngjarjen e ndodhur në “Regina Palm”, në Radhimë. Për Angjelo Breshanin është caktuar masa e sigurisë “arrest në shtëpi”, ndërsa për Luan Muçën është vendosur masa “detyrim paraqitjeje”. Për tre të arrestuarit e tje",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-06T12:59:30+00:00",
-      "dateStr": "06 Sep, 12:59",
-      "isNew": true,
-      "id": "abc51788699570"
-    },
-    {
-      "title": "Zjarr masiv në pyllin e Semanit, flakët përparojnë drejt masivit pyjor me pisha",
-      "link": "https://abcnews.al/zjarr-masiv-ne-pyllin-e-semanit-flaket-perparojne-drejt-masivit-pyjor-me-pisha/",
-      "description": "Një zjarr masiv ka përfshirë pyllin e Semanit, në afërsi të grykëderdhjes së lumit Seman. Aktualisht raportohen dy vatra zjarri në anën veriore të lumit. Flakët po përparojnë drejt masivit pyjor me pisha, të favorizuara nga era e fortë, duke vështirësuar ndërhyrjen për shuarjen e zjarrit. Në vendngj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-06T12:55:40+00:00",
-      "dateStr": "06 Sep, 12:55",
-      "isNew": true,
-      "id": "abc61788699340"
-    },
-    {
-      "title": "Joheirry Mola, Miss World 2026/ Triumfon në garën e bukurisë përfaqësuesja e Republikës Dominikane",
-      "link": "https://abcnews.al/joheirry-mola-miss-world-2026-triumfon-ne-garen-e-bukurise-perfaqesuesja-e-republikes-dominikane/",
-      "description": "Kurora e Miss World 2026 shkon për Republikën Dominikane. Joheirry Mola është shpallur fituese e konkursit prestigjioz ndërkombëtar të bukurisë, pas një gare ku morën pjesë përfaqësuese nga më shumë se 100 vende të botës. Për Republikën Dominikane, kjo është një fitore historike, pasi kurora riktheh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-06T12:49:58+00:00",
-      "dateStr": "06 Sep, 12:49",
-      "isNew": true,
-      "id": "abc71788698998"
-    },
-    {
-      "title": "Asllani debuton me gol/ Ylli kuqezi e nis siç duhet në Emiratet e Bashkuara Arabe",
-      "link": "https://abcnews.al/asllani-debuton-me-gol-ylli-kuqezi-e-nis-sic-duhet-ne-emiratet-e-bashkuara-arabe/",
-      "description": "Besimin tek vetja nuk e ka në nivelet më të larta, por shpresa mbetet. Kristian Asllani i bëri nisjen e duhur karrierës së tij në Lindjen e Mesme duke shënuar në debutim. Mesfushori i kombëtares shqiptare ishte në stol në startin e duelit që ekipi i tij, Al Xhazira, e luajti në fushën e rivalit [...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-06T12:30:28+00:00",
-      "dateStr": "06 Sep, 12:30",
-      "isNew": true,
-      "id": "abc81788697828"
-    },
-    {
-      "title": "Jeffrey Epstein nuk kreu vetëvrasje në burg?! Dëshmia e mjekut hedh dyshime të reja mbi vdekjen e pedofilit",
-      "link": "https://shekulli.com.al/2026/09/06/jeffrey-epstein-nuk-kreu-vetevrasje-ne-burg-deshmia-e-mjekut-hedh-dyshime-te-reja-mbi-vdekjen-e-pedofilit/",
-      "description": "Vdekja e Jeffrey Epstein vijon të jetë e rrethuar me mister, duke shërbyer si “ushqim” për shumë teori konspirative. Vendimi zyrtar është se pedofili i dënuar vdiq nga vetëvrasja pasi vari veten në qelinë e tij në Qendrën Korrektuese Metropolitan në Nju Jork. Megjithatë, shumë mbeten të bindur se ai",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-06T12:28:37+00:00",
-      "dateStr": "06 Sep, 12:28",
-      "isNew": true,
-      "id": "she61788697717"
-    },
-    {
-      "title": "Fund i serisë ëndërr bavareze/ Bayern humb kryesimin në Bundesligë pas barazimit 0-0",
-      "link": "https://abcnews.al/fund-i-serise-enderr-bavareze-bayern-humb-kryesimin-ne-bundeslige-pas-barazimit-0-0/",
-      "description": "Ndoshta nuk është aspak një shenjë e keqe. Bota qendron ende në këmbë edhe pasi Bajerni humbi kryesimin e Bundesligës, veçse kjo fundjavë do të mbahet mend, pa asnjë dyshim. Skuadra e madhe bavareze zbriti nga vendi i parë i kampionatit pas plot 68 javësh radhazi, që nga 1 shtatori 2024. Kjo, pas ba",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-06T12:26:46+00:00",
-      "dateStr": "06 Sep, 12:26",
-      "isNew": true,
-      "id": "abc91788697606"
-    },
-    {
-      "title": "Video/ Makinat luksoze në kryeqytet në “lupë”! Policia kontrolle kujt i përkasin dhe si janë blerë",
-      "link": "https://shekulli.com.al/2026/09/06/video-makinat-luksoze-ne-kryeqytet-ne-lupe-policia-kontrolle-kujt-i-perkasin-dhe-si-jane-blere/",
-      "description": "Policia e Tiranës ka ndërmarrë një aksion ndaj makinave luksoze që qarkullojnë në kryeqytet. Kontrollet po kryhen me qëllim verifikimin e origjinës së mjeteve dhe burimit të pasurisë së përdorur për blerjen e tyre. Gjatë kontrolleve janë verifikuar dhjetëra automjete luksoze përmes një aparature të ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-06T11:56:06+00:00",
-      "dateStr": "06 Sep, 11:56",
-      "isNew": true,
-      "id": "she71788695766"
-    },
-    {
-      "title": "Video/ Bebe Rexha shkëlqen në dasmën e të vëllait! Momenti kur kërcen valle me këngë popullore shqiptare",
-      "link": "https://shekulli.com.al/2026/09/06/video-bebe-rexha-shkelqen-ne-dasmen-e-te-vellait-momenti-kur-kercen-valle-me-kenge-popullore-shqiptare/",
-      "description": "Këngëtarja shqiptare me famë botërore, Bebe Rexha ka tërhequr vëmendjen e të gjithëve në dasmën e vëllait të saj. Në pamjet e publikuara në rrjetet sociale, artistja shihet tepër elegante duke iu bashkuar valles së bashku me disa vajza të tjera, nën ritmin e muzikës popullore shqiptare. Për këtë mbr",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-06T11:34:01+00:00",
-      "dateStr": "06 Sep, 11:34",
-      "isNew": true,
-      "id": "she81788694441"
-    },
-    {
-      "title": "Emrat/ Ja kush janë anëtarët e grupit kriminal që shpërndanin drogë në Sarandë, “koka” nën hetim prej vitesh",
-      "link": "https://shekulli.com.al/2026/09/06/emrat-ja-kush-jane-anetaret-e-grupit-kriminal-qe-shperndanin-droge-ne-sarande-koka-nen-hetim-prej-vitesh/",
-      "description": "Janë zbardhur detaje të reja mbi të arrestuarit pas një operacioni anti-drogë në Sarandë. Mësohet se në pranga ka rënë Altin Halit Arapi (Demiri), i cili dyshohet se është kreu i grupit kriminal, i cili organizonte shpërndarjen e drogës. Arapi konsiderohej nga Policia e Shtetit si një nga emrat më t",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-06T10:55:45+00:00",
-      "dateStr": "06 Sep, 10:55",
-      "isNew": true,
-      "id": "she91788692145"
+      "id": "she91788700553"
     },
     {
       "title": "Flora Shabani “mahnit” rrjetin! Moderatorja e njohur nga Maqedonia e Veriut me paraqitje glamuroze",
