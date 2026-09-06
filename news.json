@@ -1,117 +1,238 @@
 {
-  "lastUpdated": "2026-09-06T02:35:24.960043+00:00",
+  "lastUpdated": "2026-09-06T07:32:12.919789+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Itali, tre të rinj shqiptarë arrestohen brenda një muaji: media lokale zbulon skemën e “turistëve-korrierë” të kokainës",
-      "link": "https://24-ore.com/itali-tre-te-rinj-shqiptare-arrestohen-brenda-nje-muaji-media-lokale-zbulon-skemen-e-turisteve-korriere-te-kokaines/",
-      "description": "Një seri prej tre arrestimesh të të rinjve shqiptarë brenda më pak se një muaji në zonën e Ankonës dhe Jesit, në Itali, po nxjerr në pah një metodë të organizuar të shpërndarjes së kokainës, ku persona pa precedentë penalë dyshohet se dërgohen nga Shqipëria si “turistë”, me makinë, strehim dhe shpen",
+      "title": "“Do të shpëtoni nga unë kur…”, Rama flet në një intervistë maratonë: SPAK, Sazani, Tirana dhe pasardhë",
+      "link": "https://24-ore.com/do-te-shpetoni-nga-une-kur-rama-flet-ne-nje-interviste-maratone-spak-sazani-tirana-dhe-pasardhe/",
+      "description": "Kryeministri Edi Rama mund të ketë realizuar një mori intervistash me dhjetëra pyetje, por për herë të parë u përgjigjet plot 300 të tillave. Në një njoftim në rrjetet sociale, ai shihet përballë gazetares Rudina Xhunga, në një intervistë maratonë që i paraprin sezonit të ri të podcastit të kryemini",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-06T02:22:38+00:00",
-      "dateStr": "06 Sep, 02:22",
+      "date": "2026-09-06T07:31:53+00:00",
+      "dateStr": "06 Sep, 07:31",
       "isNew": true,
-      "id": "24 01788661358"
+      "id": "24 01788679913"
     },
     {
-      "title": "White Sox prezantojnë vizualizime për stadiumin e ri të propozuar në South Loop të Çikagos",
-      "link": "https://24-ore.com/white-sox-prezantojne-vizualizime-per-stadiumin-e-ri-te-propozuar-ne-south-loop-te-cikagos/",
-      "description": "Udhëheqësit e Chicago White Sox kanë publikuar detaje të reja mbi një propozim për të zhvendosur skuadrën pranë bregut të lumit, në lagjen South Loop të Çi...",
+      "title": "Nga informatika tek inteligjenca artificiale. Pse kam të drejtë të jem dyshues",
+      "link": "https://24-ore.com/nga-informatika-tek-inteligjenca-artificiale-pse-kam-te-drejte-te-jem-dyshues/",
+      "description": "Nga Ilir Beqaj Jam me profesion informaticien, diplomuar ne 1990. Edhe pse kanë kaluar rreth dyzet vjet që kur fillova studimet dhe pjesën më të madhe të jetës profesionale jam marrë edhe me fusha të tjera, vazhdoj ta përdor këtë fjalë: informaticien. Ndoshta edhe sepse i përkas një brezi tjetër. Po",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-06T01:32:35+00:00",
-      "dateStr": "06 Sep, 01:32",
+      "date": "2026-09-06T07:31:16+00:00",
+      "dateStr": "06 Sep, 07:31",
       "isNew": true,
-      "id": "24 11788658355"
+      "id": "24 11788679876"
     },
     {
-      "title": "TGI Fridays hyn për herë të parë në Shqipëri dhe Ballkan, marrëveshje për 10 restorante me Devolli Group",
-      "link": "https://24-ore.com/tgi-fridays-hyn-per-here-te-pare-ne-shqiperi-dhe-ballkan-marreveshje-per-10-restorante-me-devolli-group/",
-      "description": "Rrjeti amerikan TGI Fridays do të hyjë për herë të parë në tregun shqiptar dhe në Ballkan, pas një marrëveshjeje të re zhvillimi me Devolli Group për hapjen e gjithsej 10 restoranteve në Shqipëri, Kosovë dhe Maqedoninë e Veriut. Marrëveshja u bë publike më 4 shtator 2026 nga TGI Fridays përmes PR Ne",
+      "title": "FOKUS – Të qenit jashtë forme mund të jetë më i rrezikshëm se duhanpirja",
+      "link": "https://24-ore.com/fokus-te-qenit-jashte-forme-mund-te-jete-me-i-rrezikshem-se-duhanpirja/",
+      "description": "&#8211; Një studim i ri po nxit debat në botën e shëndetit publik, pasi sugjeron se mungesa e aktivitetit fizik dhe niveli i ulët i formës kardiovaskulare mund të paraqesin një rrezik më të madh për jetën sesa vetë duhanpirja, shkruan revista shkencore “Frontiers”. Autori i punimit, Chris Macdonald,",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-06T01:09:57+00:00",
-      "dateStr": "06 Sep, 01:09",
+      "date": "2026-09-06T07:30:56+00:00",
+      "dateStr": "06 Sep, 07:30",
       "isNew": true,
-      "id": "24 21788656997"
+      "id": "24 21788679856"
     },
     {
-      "title": "12 transferimet e verës në MLS që morën pjesë në Kupën e Botës 2026",
-      "link": "https://24-ore.com/12-transferimet-e-veres-ne-mls-qe-moren-pjese-ne-kupen-e-botes-2026/",
-      "description": "Dritarja e dytë e transferimeve në MLS është mbyllur, dhe gjatë verës u finalizuan 12 nënshkrime të lojtarëve që garuan në Kupën e Botës FIFA 2026. Këto lë...",
+      "title": "Cavan Sullivan vendos rekorde te Philadelphia dhe feston si LeBron James",
+      "link": "https://24-ore.com/cavan-sullivan-vendos-rekorde-te-philadelphia-dhe-feston-si-lebron-james/",
+      "description": "Cavan Sullivan, 16-vjeçari i Philadelphia Union, vazhdoi formën e shkëlqyer duke shënuar golin e tij të tretë radhazi dhe duke u bërë lojtari më i ri në hi...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-06T01:00:40+00:00",
-      "dateStr": "06 Sep, 01:00",
+      "date": "2026-09-06T07:30:44+00:00",
+      "dateStr": "06 Sep, 07:30",
       "isNew": true,
-      "id": "24 31788656440"
+      "id": "24 31788679844"
     },
     {
-      "title": "Një rikthim i mundshëm i Kevin Love te Minnesota Timberwolves para sezonit 2026-27",
-      "link": "https://24-ore.com/nje-rikthim-i-mundshem-i-kevin-love-te-minnesota-timberwolves-para-sezonit-2026-27/",
-      "description": "Një rikthim i mundshëm i Kevin Love te Minnesota Timberwolves po diskutohet si një zgjidhje që mund të realizohet para se të nisë sezoni 2026-27. Si lojtar...",
+      "title": "​27-vjetori i themelimit të Policisë së Kosovës",
+      "link": "https://24-ore.com/27-vjetori-i-themelimit-te-policise-se-kosoves/",
+      "description": "Policia e Kosovë sot mbush 27 vjet nga themelimi i saj. Më 6 shtator 1999, Misioni i OSBE-së në Kosovë, në pajtim me Rezolutën e Kombeve të Bashkuara 1244, ka hapur Shkollën e Policisë dhe ka filluar trajnimin e kandidatëve për pjesëtarë të Policisë së Kosovës. Gjenerata e parë e kandidatëve për pje",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-05T23:25:48+00:00",
-      "dateStr": "05 Sep, 23:25",
+      "date": "2026-09-06T07:30:24+00:00",
+      "dateStr": "06 Sep, 07:30",
       "isNew": true,
-      "id": "24 41788650748"
+      "id": "24 41788679824"
     },
     {
-      "title": "San Diego Padres – New York Yankees, 5 shtator 2026: përmbledhje e hapjes së ndeshjes",
-      "link": "https://24-ore.com/san-diego-padres-new-york-yankees-5-shtator-2026-permbledhje-e-hapjes-se-ndeshjes/",
-      "description": "Ndeshja mes San Diego Padres dhe New York Yankees u zhvillua më 5 shtator 2026 në Petco Park, me startin e parashikuar në orën 16:16 PT. Fillimi i takimit...",
+      "title": "Kryeziu: Kuvendi duhet të konstituohet, pastaj të shpërndahet dhe të shkohet në zgjedhje",
+      "link": "https://24-ore.com/kryeziu-kuvendi-duhet-te-konstituohet-pastaj-te-shperndahet-dhe-te-shkohet-ne-zgjedhje/",
+      "description": "Më 9 shtator, kryesuesi Avni Dehari, e ka thirrur vazhdimin e seancës konstituive të Kuvendit të Kosovës. Për këto dhe shumë tema tjera të aktualitetit politik në vend, dje ka folur ish-nënkryetari i Gjykatës Kushtetuese, Kadri Kryeziu. Sipas Kryeziut, parlamenti duhet të konstituohet në mënyrë që m",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-05T23:22:43+00:00",
-      "dateStr": "05 Sep, 23:22",
+      "date": "2026-09-06T07:30:12+00:00",
+      "dateStr": "06 Sep, 07:30",
       "isNew": true,
-      "id": "24 51788650563"
+      "id": "24 51788679812"
     },
     {
-      "title": "New Statesman: Protestat kundër projektit të Kushnerit ngrenë një çështje më të madhe – sovranitetin e Shqipërisë",
-      "link": "https://24-ore.com/new-statesman-protestat-kunder-projektit-te-kushnerit-ngrene-nje-ceshtje-me-te-madhe-sovranitetin-e-shqiperise/",
-      "description": "Revista britanike New Statesman i kushton sot, më 5 shtator 2026, një analizë të gjerë protestave në Shqipëri kundër projektit turistik të lidhur me Jared Kushnerin, por e zhvendos vëmendjen nga vetë projekti te një çështje më e thellë: çfarë do të thotë sovraniteti shqiptar pas më shumë se tri deka",
+      "title": "IRAN – SHBA godet tre cisterna nafte",
+      "link": "https://24-ore.com/iran-shba-godet-tre-cisterna-nafte/",
+      "description": "TEHERAN/BERLIN, 6 shtator /ATSH-DPA/ – Ushtria amerikane goditi tre cisterna iraniane që transportonin naftë bruto, duke deklaruar se sulmet ishin një përgjigje ndaj raketave të lëshuara nga Trupat e Gardës Revolucionare Islamike të Iranit (IRGC) kundër dy anijeve patrulluese amerikane. Komanda Qend",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-05T22:49:53+00:00",
-      "dateStr": "05 Sep, 22:49",
+      "date": "2026-09-06T07:30:07+00:00",
+      "dateStr": "06 Sep, 07:30",
       "isNew": true,
-      "id": "24 61788648593"
+      "id": "24 61788679807"
     },
     {
-      "title": "Jared Kushner nuk mund ta pushtojë Ballkanin",
-      "link": "https://24-ore.com/jared-kushner-nuk-mund-ta-pushtoje-ballkanin/",
-      "description": "Në Kongresin e Berlinit të vitit 1878, kancelari gjerman Otto von Bismarck tha në mënyrë të famshme se Shqipëria nuk ishte asgjë më shumë se “një shprehje gjeografike”. Për t’iu kundërvënë këtij qëndrimi, udhëheqësit shqiptarë krijuan Lidhjen e Prizrenit për të mbrojtur interesat shqiptare dhe të dr",
-      "source": "24 ORE",
+      "title": "“Zemër të marr më vonë”/ Video, momenti kur Meloni ndërpret fjalimin për t’iu përgjigjur telefonatës të së bijës",
+      "link": "https://shekulli.com.al/2026/09/06/zemer-te-marr-me-vone-video-momenti-kur-meloni-nderpret-fjalimin-per-tiu-pergjigjur-telefonates-te-se-bijes/",
+      "description": "Giorgia Meloni gjatë detyrës së saj si kryeministre e Italisë nuk ka nguruar të tregojë se është një nënë e përkushtuar, pavarësisht detyrës së rëndësishme që ka. Shpesh ajo merr të bijën në takime zyrtare, apo në vizita jashtë shtetit. Edhe në eventin e organizuar për të festuar faktin që qeveria e",
+      "source": "Shekulli",
       "category": "politike",
-      "date": "2026-09-05T22:47:11+00:00",
-      "dateStr": "05 Sep, 22:47",
+      "date": "2026-09-06T07:29:37+00:00",
+      "dateStr": "06 Sep, 07:29",
       "isNew": true,
-      "id": "24 71788648431"
+      "id": "she01788679777"
     },
     {
-      "title": "Diamondbacks–Astros në Houston, 5 shtator 2026: Pfaadt për AZ, Pecko për HOU dhe lista e dëmtimeve",
-      "link": "https://24-ore.com/diamondbacks-astros-ne-houston-5-shtator-2026-pfaadt-per-az-pecko-per-hou-dhe-lista-e-demtimeve/",
-      "description": "Më 5 shtator 2026, Houston Astros pritën Arizona Diamondbacks në Daikin Park në Houston. Startues për Diamondbacks ishte B. Pfaadt (7-2, 3.49 ERA), ndërsa...",
+      "title": "“Nuk kam ndërmend të zgjedh pasardhësin”, Rama paralajmëron nisjen e “Flasim”: Kur të dal nga ajo zyrë do shpëtoni nga mua",
+      "link": "https://24-ore.com/nuk-kam-ndermend-te-zgjedh-pasardhesin-rama-paralajmeron-nisjen-e-flasim-kur-te-dal-nga-ajo-zyre-do-shpetoni-nga-mua/",
+      "description": "Kryeministri Edi Rama ka paralajmëruar nisjen e një episodi të ri të podkastit të tij “Flasim”, por këtë herë në një rol ndryshe. Rama nuk do të jetë ai që drejton intervistën, por do t’u përgjigjet pyetjeve të drejtuara ndaj tij. Në fragmentet e publikuara për të prezantuar episodin, kryeministri n",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-05T22:40:40+00:00",
-      "dateStr": "05 Sep, 22:40",
+      "date": "2026-09-06T07:20:55+00:00",
+      "dateStr": "06 Sep, 07:20",
       "isNew": true,
-      "id": "24 81788648040"
+      "id": "24 71788679255"
     },
     {
-      "title": "Si renditet skandali i Clippers për shmangien e kufirit të pagave mes ndëshkimeve më të rënda në histori të sportit",
-      "link": "https://24-ore.com/si-renditet-skandali-i-clippers-per-shmangien-e-kufirit-te-pagave-mes-ndeshkimeve-me-te-renda-ne-histori-te-sportit/",
-      "description": "Ligat sportive nxjerrin rregulla për të mbrojtur konkurrencën, por zbatimi i tyre shpeshherë është sfidues. Gjatë dekadave, skuadrat, lojtarët dhe drejtues...",
+      "title": "Tragjedi në Kepin e Gjelbër, autobusi me studentë del nga rruga dhe bie 30 metra nga lartësia, 21 të vdekur",
+      "link": "https://24-ore.com/tragjedi-ne-kepin-e-gjelber-autobusi-me-studente-del-nga-rruga-dhe-bie-30-metra-nga-lartesia-21-te-vdekur/",
+      "description": "Në Kepin e Gjelbër, ndodhi një aksident trafiku kur një autobus plot me studentë ra nga një lartësi, duke vrarë të paktën 21 persona. Sipas një zyrtari lokal të mbrojtjes civile, aksidenti ndodhi pasi autobusi i shkollës doli nga rruga dhe ra nga një lartësi në ishullin Fogo në Kepin e Gjelbër të sh",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-05T21:56:59+00:00",
-      "dateStr": "05 Sep, 21:56",
+      "date": "2026-09-06T07:20:42+00:00",
+      "dateStr": "06 Sep, 07:20",
       "isNew": true,
-      "id": "24 91788645419"
+      "id": "24 81788679242"
+    },
+    {
+      "title": "“Do të shpëtoni nga unë kur…”, Rama flet në një intervistë maratonë: Nga Sazani, te SPAK dhe pasardhës",
+      "link": "https://24-ore.com/do-te-shpetoni-nga-une-kur-rama-flet-ne-nje-interviste-maratone-nga-sazani-te-spak-dhe-pasardhes/",
+      "description": "Kryeministri Edi Rama mund të ketë realizuar një mori intervistash me dhjetëra pyetje, por për herë të parë u përgjigjet plot 300 të tillave. Në një njoftim në rrjetet sociale, ai shihet përballë gazetares Rudina Xhunga, në një intervistë maratonë që i paraprin sezonit të ri të podcastit të kryemini",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-06T07:17:40+00:00",
+      "dateStr": "06 Sep, 07:17",
+      "isNew": true,
+      "id": "24 91788679060"
+    },
+    {
+      "title": "Nepal, 64-vjeçarja nxirret e gjallë nga shtëpia e mbuluar nga balta",
+      "link": "https://abcnews.al/nepal-64-vjecarja-nxirret-e-gjalle-nga-shtepia-e-mbuluar-nga-balta/",
+      "description": "Një moment i jashtëzakonshëm shprese është regjistruar në Nepal, ku një grua 64-vjeçare është gjetur e gjallë, më shumë se 10 ditë pasi një masë e madhe akulli, shkëmbinjsh dhe balte përfshiu një luginë në Himalaje. Chandika Shrestha u zbulua e gjallë më 5 shtator nga forcat e armatosura policore të",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T07:17:09+00:00",
+      "dateStr": "06 Sep, 07:17",
+      "isNew": true,
+      "id": "abc01788679029"
+    },
+    {
+      "title": "Ndërtimet dhe kaosi “largojnë” turistët nga bregdeti! Ja çfarë po i tërheq vizitorët drejt vendit tonë",
+      "link": "https://shekulli.com.al/2026/09/06/ndertimet-dhe-kaosi-largojne-turistet-nga-bregdeti-ja-cfare-po-i-terheq-vizitoret-drejt-vendit-tone/",
+      "description": "Nëse Shqipëria do ta gjykonte sezonin turistik vetëm nga fotografitë në Instagram, vera e vitit 2026 do të dukej thuajse e përsosur. Ujë i kaltër në Ksamil, kroçiere përpara Sarandës, tavolina buzë detit në Himarë dhe një lumë makinash që zbriste çdo fundjavë drejt Jugut. Por turistët e sotëm kanë n",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-06T07:10:43+00:00",
+      "dateStr": "06 Sep, 07:10",
+      "isNew": true,
+      "id": "she11788678643"
+    },
+    {
+      "title": "Zjarr i madh tek Syri i Kaltër! Shkrumbohen 4 kioska tregtimi privat, ja dyshimet e para",
+      "link": "https://shekulli.com.al/2026/09/06/zjarr-i-madh-tek-syri-i-kalter-shkrumbohen-4-kioska-tregtimi-privat-ja-dyshimet-e-para/",
+      "description": "Një zjarr i madh ka përfshirë në orët e para të mëngjesit të sotëm zonën rreth Syrit të Kaltër, në Finiq. Raportohet se flakët kanë nisur pak pas mesnatës, e për pasojë janë djegur 4 kioska tregtimi private. Pas informacionit të rënies së zjarrit ka shkuar në vend 3 mjete zjarrfikëse, 2 mjete polici",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-06T07:02:04+00:00",
+      "dateStr": "06 Sep, 07:02",
+      "isNew": true,
+      "id": "she21788678124"
+    },
+    {
+      "title": "Shuhen zjarret në Fier/ Aktive vetëm një vatër në Frakull, 30 forca të FA në terren",
+      "link": "https://abcnews.al/shuhen-zjarret-ne-fier-aktive-vetem-nje-vater-ne-frakull-30-forca-te-fa-ne-terren/",
+      "description": "Zjarret në Fier janë shuar, përveç një vatre ne Frakull ku po punojnë 30 forca të FA. Në pjesën tjetër të kodrave të Frakullës situata paraqitet e qetë. Megjithatë, ekipet janë duke monitoruar për ndonjë riaktivizim të zjarrit pasi zona është me pyll pishe çka lejon lehtësisht riaktivizim të flakëve",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T06:45:39+00:00",
+      "dateStr": "06 Sep, 06:45",
+      "isNew": true,
+      "id": "abc11788677139"
+    },
+    {
+      "title": "Zjarr në hyrje të ‘Syrit të Kaltër’/ Digjen 4 biznese, dyshohet nga një shkëndijë elektrike",
+      "link": "https://abcnews.al/zjarr-ne-hyrje-te-syrit-te-kalter-digjen-4-biznese-dyshohet-nga-nje-shkendije-elektrike/",
+      "description": "Një zjarr ka rënë në Syrin e Kaltër në orët e para të mëngjesit të së dielës. Nga zjarri i ndodhur në hyrje të Syrit të Kaltër janë djegur 4 kioska tregtimi private. Pas informacionit të rënies së zjarrit ka shkuar në vend 3 mjete zjarrfikëse, 2 mjete policie së bashku me forca policore. Për [...]Re",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T06:42:05+00:00",
+      "dateStr": "06 Sep, 06:42",
+      "isNew": true,
+      "id": "abc21788676925"
+    },
+    {
+      "title": "Irani paralajmëron: Sulmet ndaj ushtrisë amerikane mund të intensifikohen",
+      "link": "https://abcnews.al/irani-paralajmeron-sulmet-ndaj-ushtrise-amerikane-mund-te-intensifikohen/",
+      "description": "Mediat shtetërore të Iranit raportojnë se komanda ushtarake e vendit ka paralajmëruar se sulmet e saj ndaj anijeve ushtarake amerikane në rajon do të intensifikohen nëse Uashingtoni vazhdon rrethimin detar. SHBA-të vendosën një bllokadë në portet iraniane pasi Teherani mbylli në mënyrë efektive Ngus",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T06:32:51+00:00",
+      "dateStr": "06 Sep, 06:32",
+      "isNew": true,
+      "id": "abc31788676371"
+    },
+    {
+      "title": "Djali i Trump prezanton pasaportën e re amerikane me fytyrën e babait të tij",
+      "link": "https://abcnews.al/djali-i-trump-prezanton-pasaporten-e-re-amerikane-me-fytyren-e-babait-te-tij/",
+      "description": "Eric Trump ka tërhequr vëmendjen pasi publikoi një video ku prezanton pasaportën e re amerikane, në të cilën është vendosur portreti i babait të tij, Donald Trump. Dizajni i veçantë ka shkaktuar reagime dhe kritika në internet, ndërsa Eric Trump shprehu entuziazmin e tij për të. Eric Trump tregoi të",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T06:16:44+00:00",
+      "dateStr": "06 Sep, 06:16",
+      "isNew": true,
+      "id": "abc41788675404"
+    },
+    {
+      "title": "Takimi në Moskë/ Shtëpia e Bardhë: Të dërguarit e Trump dhe Putin diskutuan hapat e ardhshëm për t’i dhënë fund luftës në Ukrainë",
+      "link": "https://abcnews.al/takimi-ne-moske-shtepia-e-bardhe-te-derguarit-e-trump-dhe-putin-diskutuan-hapat-e-ardhshem-per-ti-dhene-fund-luftes-ne-ukraine/",
+      "description": "Të dërguarit e Donald Trump “diskutuan plane thelbësore për hapat e mëtejshëm” për t’i dhënë fund luftës midis Ukrainës dhe Rusisë gjatë takimit të tyre të shtunën në Moskë me Vladimir Putinin , tha Shtëpia e Bardhë. Këto hapa do të shpallen në “javët e ardhshme”, tha një zyrtar i Shtëpisë së Bardhë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T05:51:28+00:00",
+      "dateStr": "06 Sep, 05:51",
+      "isNew": true,
+      "id": "abc51788673888"
+    },
+    {
+      "title": "SHBA dhe Irani shkëmbejnë sulme hakmarrëse ndaj anijeve, rriten tensionet në Ngushticën e Hormuzit",
+      "link": "https://abcnews.al/shba-dhe-irani-shkembejne-sulme-hakmarrese-ndaj-anijeve-rriten-tensionet-ne-ngushticen-e-hormuzit/",
+      "description": "SHBA-të dhe Irani shkëmbyen sulme hakmarrëse ndaj anijeve të shtunën, në raundin e fundit të sulmeve që nga shpërthimi i luftimeve një javë më parë pas një muaji qetësie relative. Ushtria amerikane tha se kishte “çaktivizuar përgjithmonë” dy anije cisternash nafte të lidhura me Iranin, përfshirë një",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T05:34:50+00:00",
+      "dateStr": "06 Sep, 05:34",
+      "isNew": true,
+      "id": "abc61788672890"
+    },
+    {
+      "title": "Horoskopi 6 shtator 2026, zbuloni parashikimet e yjeve",
+      "link": "https://abcnews.al/horoskopi-6-shtator-2026-zbuloni-parashikimet-e-yjeve/",
+      "description": "Dashi Një çështje familjare ose personale mund t’ju marrë më shumë energji se zakonisht. Mos u përpiqni të impononi mendimin tuaj, sidomos në një bisedë të ndjeshme. Në dashuri, partneri mund t’ju ofrojë mbështetje të rëndësishme. Në punë, është momenti të rishikoni disa plane përpara se të hidhni h",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-06T05:15:48+00:00",
+      "dateStr": "06 Sep, 05:15",
+      "isNew": true,
+      "id": "abc71788671748"
     },
     {
       "title": "Surpriza të “hidhura” për Sali Berishën? Çupi: Mund të hetohet nga FBI-ja, kudo ku shkon krijon përçarje",
@@ -122,7 +243,7 @@
       "date": "2026-09-05T21:44:21+00:00",
       "dateStr": "05 Sep, 21:44",
       "isNew": true,
-      "id": "abc01788644661"
+      "id": "abc81788644661"
     },
     {
       "title": "Himara nën flakë, “zhduket” Vangjel Tavo, kryebashkiaku mungoi edhe gjatë vizitës së Ramës",
@@ -133,7 +254,7 @@
       "date": "2026-09-05T20:47:02+00:00",
       "dateStr": "05 Sep, 20:47",
       "isNew": true,
-      "id": "she01788641222"
+      "id": "she31788641222"
     },
     {
       "title": "Megaoperacion antidrogë në Sarandë, disa të arrestuar, sekuestrohet kokainë, kanabis dhe armë",
@@ -144,7 +265,7 @@
       "date": "2026-09-05T20:36:55+00:00",
       "dateStr": "05 Sep, 20:36",
       "isNew": true,
-      "id": "she11788640615"
+      "id": "she41788640615"
     },
     {
       "title": "“Ç’nuk na vret na bën më të fortë”, Rama takon banorët në Himarë: Angazhim maksimal për përballimin e situatës",
@@ -155,7 +276,7 @@
       "date": "2026-09-05T20:20:10+00:00",
       "dateStr": "05 Sep, 20:20",
       "isNew": true,
-      "id": "abc11788639610"
+      "id": "abc91788639610"
     },
     {
       "title": "‘’Ç’nuk na vret na bën më t’fortë’’, Rama viziton zonat e prekura nga zjarret në Himarë (VIDEO)",
@@ -166,7 +287,7 @@
       "date": "2026-09-05T20:10:04+00:00",
       "dateStr": "05 Sep, 20:10",
       "isNew": true,
-      "id": "she21788639004"
+      "id": "she51788639004"
     },
     {
       "title": "Situata me zjarret në vend, sot u raportuan 21 vatra, 11 mbeten aktive",
@@ -177,7 +298,7 @@
       "date": "2026-09-05T20:00:16+00:00",
       "dateStr": "05 Sep, 20:00",
       "isNew": true,
-      "id": "she31788638416"
+      "id": "she61788638416"
     },
     {
       "title": "Sezon i ri, përplasje të vjetra. Reforma territoriale testi i parë në Kuvend",
@@ -188,18 +309,7 @@
       "date": "2026-09-05T19:58:04+00:00",
       "dateStr": "05 Sep, 19:58",
       "isNew": true,
-      "id": "she41788638284"
-    },
-    {
-      "title": "Zjarre në vend/ Ministria e Mbrojtjes: Deri tani 11 vatra aktive",
-      "link": "https://abcnews.al/zjarre-ne-vend-ministria-e-mbrojtjes-deri-tani-11-vatra-aktive/",
-      "description": "21 vatra zjarri janë raportuar gjatë ditës së sotme në të gjithë vendin, ndërsa 11 prej tyre vijojnë të jenë aktive. Sipas përditësimit të Ministrisë së Mbrojtjes, 5 vatra janë nën mbikëqyrje, ndërsa 5 të tjera janë shuar. Në operacionet për përballimin e situatës janë angazhuar 587 forca operaciona",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-05T19:57:23+00:00",
-      "dateStr": "05 Sep, 19:57",
-      "isNew": true,
-      "id": "abc21788638243"
+      "id": "she71788638284"
     },
     {
       "title": "Si po e ndan Serbinë funerali për Ratko Mladiçin",
@@ -210,7 +320,7 @@
       "date": "2026-09-05T19:49:17+00:00",
       "dateStr": "05 Sep, 19:49",
       "isNew": true,
-      "id": "she51788637757"
+      "id": "she81788637757"
     },
     {
       "title": "U gjetën në burgun e Durrësit, kujt i përkisnin 6 celularët e fshehur në thes",
@@ -221,117 +331,7 @@
       "date": "2026-09-05T19:37:32+00:00",
       "dateStr": "05 Sep, 19:37",
       "isNew": true,
-      "id": "she61788637052"
-    },
-    {
-      "title": "Rregulla të reja për tarifat e këmbimit valutor në ATM dhe dyqane",
-      "link": "https://shekulli.com.al/2026/09/05/rregulla-te-reja-per-tarifat-e-kembimit-valutor-ne-atm-dhe-dyqane/",
-      "description": "Për të përdorur kartën e bankës me qëllim tërheqjen e parave në ATM ose për të bërë blerje në dyqane përmes POS-eve, shpesh qytetarët përballen edhe me tarifa shtesë për këmbimin e monedhës, të cilat I vënë re vetëm pasi u janë hequr nga llogaria. Por duket se këtij problemi i ka ardhur fundi. Banka",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-05T19:30:45+00:00",
-      "dateStr": "05 Sep, 19:30",
-      "isNew": true,
-      "id": "she71788636645"
-    },
-    {
-      "title": "Operacion “blic” në Sarandë/ Sekuestrohen armë dhe drogë, në pranga “kokat” e disa grupeve",
-      "link": "https://abcnews.al/operacion-blic-ne-sarande-sekuestrohen-arme-dhe-droge-ne-pranga-kokat-e-disa-grupeve/",
-      "description": "SARANDË&#8211; Një operacion antidrogë është zhvilluar mbrëmjen e së shtunës në Sarandë. Burime konfirmojnë për ABC News se ka disa persona të arrestuar. Mes të arrestuarve janë edhe “kokat” e grupeve, që shpërndanin drogë. Gjithashtu janë sekuestruar lëndë narkotike, kokainë, kanabis dhe armë. Oper",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-05T19:28:37+00:00",
-      "dateStr": "05 Sep, 19:28",
-      "isNew": true,
-      "id": "abc31788636517"
-    },
-    {
-      "title": "Dita e 98-të e protestës, qytetarët paralajmërojnë ”rrethimin” e Kuvendit: Çdo seancë me vezë, nuk na përfaqëson Noka dhe Zeqineja",
-      "link": "https://shekulli.com.al/2026/09/05/dita-e-98-te-e-protestes-tubuesit-paralajmerojne-marshim-drejt-kuvendit-cdo-seance-me-veze-nuk-na-perfaqeson-noka-dhe-zeqineja/",
-      "description": "Protesta e 98-të është zhvilluar këtë të shtunë në Tiranë, me pjesëmarrësit që janë mbledhur fillimisht në sheshin “Skënderbej” dhe më pas janë zhvendosur në drejtim të Kryeministrisë. Marshimi është shoqëruar me thirrje kundër qeverisë, ndërsa protestuesit janë ndalur përpara Kryeministrisë, ku kan",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-05T19:11:47+00:00",
-      "dateStr": "05 Sep, 19:11",
-      "isNew": true,
-      "id": "she81788635507"
-    },
-    {
-      "title": "Edicioni qendror me Emilian Islamin, (05/09/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-emilian-islamin-05-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-05T18:48:52+00:00",
-      "dateStr": "05 Sep, 18:48",
-      "isNew": true,
-      "id": "abc41788634132"
-    },
-    {
-      "title": "Himara merr frymë, pas tmerrit/ Gjashtë banesa të shkrumbuara, flakët lanë pas shkatërrim",
-      "link": "https://abcnews.al/himara-merr-fryme-pas-tmerrit-gjashte-banesa-te-shkrumbuara-flaket-lane-pas-shkaterrim/",
-      "description": "HIMARË- Pas një nate të vështirë, ku flakët vërshuan drejt banesave dhe strukturave akomoduese në Himarë, gjithçka që ka mbetur pas shuarjes së flakëve janë banesa të shkrumbuara tërësisht nga zjarri. Njëra prej këtyre banesave ndodhet pas shpinës time. Në vend të mureve tashmë janë rrënojat. Vangje",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-05T18:43:35+00:00",
-      "dateStr": "05 Sep, 18:43",
-      "isNew": true,
-      "id": "abc51788633815"
-    },
-    {
-      "title": "VIDEO/ Kristjan Asllani debuton me supergol në Abu Dhabi",
-      "link": "https://shekulli.com.al/2026/09/05/video-kristjan-asllani-debuton-me-supergol-ne-abu-dhabi/",
-      "description": "Kristjan Asllani e ka nisur në mënyrën më të mirë aventurën e tij të re në Emiratet e Bashkuara Arabe, duke shënuar që në debutimin me fanellën e Al Jaziras. Mesfushori shqiptar u aktivizua në minutën e 64-t të takimit ndaj Shabab Al-Ahli Dubai, por i mjaftuan pak minuta në fushë për të lënë gjurmën",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-05T18:38:57+00:00",
-      "dateStr": "05 Sep, 18:38",
-      "isNew": true,
-      "id": "she91788633537"
-    },
-    {
-      "title": "Rama mesazh BE: Serbia, jo dhuratë Moskës/ Kryeministri shqiptar dënon nderimet e Beogradit për Mlladiç",
-      "link": "https://abcnews.al/rama-mesazh-be-serbia-jo-dhurate-moskes-kryeministri-shqiptar-denon-nderimet-e-beogradit-per-mlladic/",
-      "description": "Shqipëria dënon ceremoninë funerale shtetërore dhe nderimet ushtarake nga Serbia për ish-gjeneralin Ratko Mlladiç të njohur edhe si “Kasapi i Bosnjes”. Për Ramën, kjo është një kambanë alarmi për BE, për ta afruar sa më shpejt Serbinë, dhe jo për ta larguar dhe lënë në prehrin e influencave të huaja",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-05T18:33:06+00:00",
-      "dateStr": "05 Sep, 18:33",
-      "isNew": true,
-      "id": "abc61788633186"
-    },
-    {
-      "title": "Në Frashër për 245-vjetorin e Teqesë/ Presidenti Begaj vlerëson kontributin e bektashinjve",
-      "link": "https://abcnews.al/ne-frasher-per-245-vjetorin-e-teqese-presidenti-begaj-vlereson-kontributin-e-bektashinjve/",
-      "description": "Presidenti i Republikës, Bajram Begaj, mori pjesë sot në 245-vjetorin e themelimit të Teqesë së Frashërit. Para besimtarëve bektashinj, të cilët 5 shtatorin e kanë ditë pelegrinazhi, Presidenti Begaj nderoi vëllezërit Frashëri dhe kujtoi vlerat historike të kësaj teqeje për përhapjen e dijes, për ru",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-05T18:27:16+00:00",
-      "dateStr": "05 Sep, 18:27",
-      "isNew": true,
-      "id": "abc71788632836"
-    },
-    {
-      "title": "Zjarret në Fier/ Prefekti Anduel Xhindi për ABC News: Nuk ka rrezik për zonat e banuara, vatrat janë nën kontroll",
-      "link": "https://abcnews.al/zjarret-ne-fier-prefekti-anduel-xhindi-per-abc-news-nuk-ka-rrezik-per-zonat-e-banuara-vatrat-jane-nen-kontroll/",
-      "description": "Pas zjarrit që shkrumboi 5 fshatra, në Fier sot ka vetëm tre vatra aktive zjarresh, nën kontroll dhe larg banesave. Në Frakull, Levan dhe Peshtan vazhdon ndërhyrja nga ajri për shuarjen e plotë të zjarreve. Natën e kaluar flakët prekën shtëpitë, duke dëmtuar ekonomitë familjare, kryesisht në ullisht",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-05T18:04:41+00:00",
-      "dateStr": "05 Sep, 18:04",
-      "isNew": true,
-      "id": "abc81788631481"
-    },
-    {
-      "title": "Shkon për vetulla, por gjen protesta/ Meçe: Sali Berishës nuk i është hequr “non grata”, është ftuar nga të tjerë",
-      "link": "https://abcnews.al/shkon-per-vetulla-por-gjen-protesta-mece-sali-berishes-nuk-i-eshte-hequr-non-grata-eshte-ftuar-nga-te-tjere/",
-      "description": "TIRANË&#8211; Më keq nuk mund ta niste vizitën e parë në SHBA pas 5 vitesh. Sali Berisha ka ndërruar vendin e takimit me demokratë në New Jersey, pas paralajmërimeve të shqiptarëve në Amerikë se do ta prisnin me protesta kryetarin e PD të shpallur “non grata”. Por duket se Berisha nuk do të shpëtojë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-05T17:52:04+00:00",
-      "dateStr": "05 Sep, 17:52",
-      "isNew": true,
-      "id": "abc91788630724"
+      "id": "she91788637052"
     },
     {
       "title": "Flora Shabani “mahnit” rrjetin! Moderatorja e njohur nga Maqedonia e Veriut me paraqitje glamuroze",
