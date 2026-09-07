@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-09-07T21:52:21.603781+00:00",
+  "lastUpdated": "2026-09-07T23:55:07.382530+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Një fushë volejbolli në Wrigley Field: ndeshja Nebraska–Missouri u pezullua për shkak të lagështisë",
+      "link": "https://24-ore.com/nje-fushe-volejbolli-ne-wrigley-field-ndeshja-nebraska-missouri-u-pezullua-per-shkak-te-lageshtise/",
+      "description": "Stadiumi i Chicago Cubs, Wrigley Field, u shndërrua të dielën në vendtakim për disa prej skuadrave më të spikatura të volejbollit kolegjial. Në kuadër të B...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-07T23:12:20+00:00",
+      "dateStr": "07 Sep, 23:12",
+      "isNew": true,
+      "id": "24 01788822740"
+    },
+    {
+      "title": "Një hap drejt rikthimit: Aaron Judge bën stërvitje live pas dëmtimit të brinjëve",
+      "link": "https://24-ore.com/nje-hap-drejt-rikthimit-aaron-judge-ben-stervitje-live-pas-demtimit-te-brinjeve/",
+      "description": "Aaron Judge, ylli i New York Yankees, bëri të hënën stërvitje me top të gjallë në New York, një lajm që tregon përparim në përpjekjet e tij për t’u rikthye...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-07T22:30:48+00:00",
+      "dateStr": "07 Sep, 22:30",
+      "isNew": true,
+      "id": "24 11788820248"
+    },
+    {
+      "title": "Rrëfimi i nënës së dy djemve të përfshirë në incidentin me kapitenin e Njësive Speciale, Besart Ahmetin",
+      "link": "https://24-ore.com/rrefimi-i-nenes-se-dy-djemve-te-perfshire-ne-incidentin-me-kapitenin-e-njesive-speciale-besart-ahmetin/",
+      "description": "Dy djemtë e një polici të Kosovës (njëri prej tyre i mitur) janë arrestuar të dielën, më 06.09.2026, pas një incidenti në të cilin ishte i përfshirë edhe kapiteni i Njësive Speciale të Policisë së Kosovës, Besart Ahmeti. Incidenti ka ndodhur në parkingun e një qendre tregtare. Lidhur me rastin, Prok",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-07T21:59:50+00:00",
+      "dateStr": "07 Sep, 21:59",
+      "isNew": true,
+      "id": "24 21788818390"
+    },
+    {
+      "title": "Vrasje, atentate dhe plagosje/ Gazetarja: Krimi është sofistikuar, kush ishte ngjarja më e rëndë gjatë kësaj vere",
+      "link": "https://abcnews.al/vrasje-atentate-dhe-plagosje-gazetarja-krimi-eshte-sofistikuar-kush-ishte-ngjarja-me-e-rende-gjate-kesaj-vere/",
+      "description": "TIRANË- Muajt e verës kanë qenë të ngarkuar sa i përket ngjarjeve kriminale në vend. Vrasje, atentate, plagosje, dhunë në familje, por edhe aksidente të shumta kanë shënuar muajt korrik dhe gusht. Gazetarja dhe autorja e emisionit “Gjërat Tona”në ABC News, Etleva Delia e ftuare në &#8220;Ora e Njëmb",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-07T21:52:14+00:00",
+      "dateStr": "07 Sep, 21:52",
+      "isNew": true,
+      "id": "abc01788817934"
+    },
     {
       "title": "Ole Miss mposht Louisville 41-38 në një përballje të tensionuar në Nashville",
       "link": "https://24-ore.com/ole-miss-mposht-louisville-41-38-ne-nje-perballje-te-tensionuar-ne-nashville/",
@@ -12,7 +56,7 @@
       "date": "2026-09-07T21:51:12+00:00",
       "dateStr": "07 Sep, 21:51",
       "isNew": true,
-      "id": "24 01788817872"
+      "id": "24 31788817872"
     },
     {
       "title": "Konjufca: Nderimi i Mlladiqit, turp i thellë moral dhe politik",
@@ -23,7 +67,7 @@
       "date": "2026-09-07T21:49:41+00:00",
       "dateStr": "07 Sep, 21:49",
       "isNew": true,
-      "id": "24 11788817781"
+      "id": "24 41788817781"
     },
     {
       "title": "Aroldis Chapman: Një moment i veçantë pas arritjes së 400 shpëtimeve në karrierë",
@@ -34,7 +78,7 @@
       "date": "2026-09-07T21:46:39+00:00",
       "dateStr": "07 Sep, 21:46",
       "isNew": true,
-      "id": "24 21788817599"
+      "id": "24 51788817599"
     },
     {
       "title": "Glorifikimi i Mladiç, Bosnjë dhe Hercegovina tërheq të gjithë personelin diplomatik nga Serbia",
@@ -45,7 +89,7 @@
       "date": "2026-09-07T21:46:35+00:00",
       "dateStr": "07 Sep, 21:46",
       "isNew": true,
-      "id": "24 31788817595"
+      "id": "24 61788817595"
     },
     {
       "title": "Sezona NFL 2026: Parashikimet për kryesuesit e statistikave në 11 kategori kryesore",
@@ -56,7 +100,7 @@
       "date": "2026-09-07T21:42:23+00:00",
       "dateStr": "07 Sep, 21:42",
       "isNew": true,
-      "id": "24 41788817343"
+      "id": "24 71788817343"
     },
     {
       "title": "Hoti e propozon për kryeministre, Bajrami thotë se synon postin e kryetares së LDK-së",
@@ -67,7 +111,18 @@
       "date": "2026-09-07T21:39:47+00:00",
       "dateStr": "07 Sep, 21:39",
       "isNew": true,
-      "id": "24 51788817187"
+      "id": "24 81788817187"
+    },
+    {
+      "title": "Berisha në SHBA, protestë dhe braktisje/ Petraj: “Non grata” nuk i hiqet, priten surpriza për “21 janarin” dhe “Gërdecin”",
+      "link": "https://abcnews.al/berisha-ne-shba-proteste-dhe-braktisje-petraj-non-grata-nuk-i-hiqet-priten-surpriza-per-21-janarin-dhe-gerdecin/",
+      "description": "TIRANË- Në takimin e parë në SHBA, ku shkoi triumfalisht 5 vite pas vendosjes së “non grata”, Sali Berisha nuk gjeti pritjen që mendonte. Në sallën luksoze, ku mbërriti me një limuzinë Maybach 250 mijë dollarëshe, ai gjeti shumë karrige bosh, ndërsa jashtë godinës, dhjetëra emigrantë që me megafon e",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-07T21:33:58+00:00",
+      "dateStr": "07 Sep, 21:33",
+      "isNew": true,
+      "id": "abc11788816838"
     },
     {
       "title": "Audiopërgjimi/ “Ti mbyllim gojën ambasadës amerikane”, plani i Yeffet për të shmangur vëmendjen nga trafiku i armëve",
@@ -89,40 +144,7 @@
       "date": "2026-09-07T21:06:30+00:00",
       "dateStr": "07 Sep, 21:06",
       "isNew": true,
-      "id": "24 61788815190"
-    },
-    {
-      "title": "Padres të San Diego vs. Nationals të Washington, 7 shtator 2026 — përballje në Petco Park",
-      "link": "https://24-ore.com/padres-te-san-diego-vs-nationals-te-washington-7-shtator-2026-perballje-ne-petco-park/",
-      "description": "Ndeshja mes San Diego Padres dhe Washington Nationals u zhvillua më 7 shtator 2026 në Petco Park në San Diego. Për këtë përballje filluan si titullarë për...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-07T21:02:35+00:00",
-      "dateStr": "07 Sep, 21:02",
-      "isNew": true,
-      "id": "24 71788814955"
-    },
-    {
-      "title": "Zjarret në Ungrej, Nufi: Rreziku për banesat është shmangur, vijon operacioni i Forcave të Armatosura",
-      "link": "https://24-ore.com/zjarret-ne-ungrej-nufi-rreziku-per-banesat-eshte-shmangur-vijon-operacioni-i-forcave-te-armatosura/",
-      "description": "Ministri i Mbrojtjes, Ermal Nufi, ishte mbrëmjen e sotme në njësinë administrative Ungrej në Lezhë, ku ndoqi nga afër situatën dhe operacionin për shuarjen e zjarreve. Nufi, së bashku me prefektin e qarkut Taulant Malshi, kryetarin e Bashkisë Lezhë Pjerin Ndreu dhe deputetin Admir Kadeli, u takua me",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-07T21:02:29+00:00",
-      "dateStr": "07 Sep, 21:02",
-      "isNew": true,
-      "id": "24 81788814949"
-    },
-    {
-      "title": "Çfarë domethënë 100 ditë protestë? Buzhala: Është akuzë më shumë sesa lëvdatë",
-      "link": "https://24-ore.com/cfare-domethene-100-dite-proteste-buzhala-eshte-akuze-me-shume-sesa-levdate/",
-      "description": "Qytetarët kanë përmbushur ciklin 100 ditor të protestave në Shqipëri. Por çfarë ka prodhuar kjo lëvizje qytetare? Në optikën e opinionistit Berat Buzhala, pjesë e panelit të mbrëmjes së sotme në “Opinion” me gazetarin Blendi Fevziu, 100 ditë protestë është më shumë akuzë sesa lëvdatë për qytetarët. ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-07T21:02:15+00:00",
-      "dateStr": "07 Sep, 21:02",
-      "isNew": true,
-      "id": "24 91788814935"
+      "id": "24 91788815190"
     },
     {
       "title": "‘’Përndjekje gjenocidale ndaj fëmijëve të mi’’, Arben Ahmetaj: Dërgimi im në burg do të çonte në eliminimin tim fizik",
@@ -144,7 +166,7 @@
       "date": "2026-09-07T20:35:07+00:00",
       "dateStr": "07 Sep, 20:35",
       "isNew": true,
-      "id": "abc01788813307"
+      "id": "abc21788813307"
     },
     {
       "title": "Arben Ahmetaj: Ditën që doli urdhërarresti im Veliaj festoi me uiski, do hapte shishe tjetër kur unë të ekzekutohesha",
@@ -177,7 +199,7 @@
       "date": "2026-09-07T20:25:11+00:00",
       "dateStr": "07 Sep, 20:25",
       "isNew": true,
-      "id": "abc11788812711"
+      "id": "abc31788812711"
     },
     {
       "title": "Turizmi/ Hila: Kemi rritje me 6.5 përqind të turistëve në 7 muaj, sezoni të zgjatet deri në tetor",
@@ -188,7 +210,7 @@
       "date": "2026-09-07T20:18:36+00:00",
       "dateStr": "07 Sep, 20:18",
       "isNew": true,
-      "id": "abc21788812316"
+      "id": "abc41788812316"
     },
     {
       "title": "Largimi i ministres, Ahmetaj: Rama tha në grup se Evis Sala iku pasi nuk firmosi “KAYO-n” në shëndetësi",
@@ -232,7 +254,7 @@
       "date": "2026-09-07T19:57:27+00:00",
       "dateStr": "07 Sep, 19:57",
       "isNew": true,
-      "id": "abc31788811047"
+      "id": "abc51788811047"
     },
     {
       "title": "Ligjërohet ChatGPT në Shqipëri, udhëzuesi i ri i ministrisë së arsimit përcakton përdorimin nga ushtrimet në klasë deri te vlerësimi i nxënësve",
@@ -254,7 +276,7 @@
       "date": "2026-09-07T19:47:48+00:00",
       "dateStr": "07 Sep, 19:47",
       "isNew": true,
-      "id": "abc41788810468"
+      "id": "abc61788810468"
     },
     {
       "title": "VIDEO/ Tubimi i 100-të në Tiranë, protestuesit krijojnë gardhin njerëzor rreth Kryeministrisë dhe AKSHI-t",
@@ -276,7 +298,7 @@
       "date": "2026-09-07T19:37:48+00:00",
       "dateStr": "07 Sep, 19:37",
       "isNew": true,
-      "id": "abc51788809868"
+      "id": "abc71788809868"
     },
     {
       "title": "Artisti shqiptaro-amerikan MIRUD triumfon në “Premios Juventud” me albumin “Desnudo”",
@@ -287,7 +309,7 @@
       "date": "2026-09-07T19:30:36+00:00",
       "dateStr": "07 Sep, 19:30",
       "isNew": true,
-      "id": "abc61788809436"
+      "id": "abc81788809436"
     },
     {
       "title": "Eksperti Tafani: Për Putinin, lufta në Ukrainë është një lojë mbijetese",
@@ -298,29 +320,7 @@
       "date": "2026-09-07T19:27:40+00:00",
       "dateStr": "07 Sep, 19:27",
       "isNew": true,
-      "id": "abc71788809260"
-    },
-    {
-      "title": "Lufta Rusi-Ukrainë/ Krisafi: Nuk do të ketë marrëveshje paqeje, të dyja palët mendojnë se do ta fitojnë luftën",
-      "link": "https://abcnews.al/lufta-rusi-ukraine-krisafi-nuk-do-te-kete-marreveshje-paqeje-te-dyja-palet-mendojne-se-do-ta-fitojne-luften/",
-      "description": "Analisti i marrëdhënieve ndërkombëtare, Ledion Krisafi, deklaroi se nuk pritet të ketë një marrëveshje paqeje mes Rusisë dhe Ukrainës, pasi të dyja palët vijojnë të besojnë se mund ta fitojnë luftën. Sipas Krisafit, Moska beson se mund të arrijë objektivat e saj përmes fushës së betejës dhe të marrë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-07T19:24:28+00:00",
-      "dateStr": "07 Sep, 19:24",
-      "isNew": true,
-      "id": "abc81788809068"
-    },
-    {
-      "title": "Përpjekjet për paqe në Ukrainë dhe Lindje të Mesme, Trump bisedë telefonike me kryeministrin britanik",
-      "link": "https://abcnews.al/perpjekjet-per-paqe-ne-ukraine-dhe-lindje-te-mesme-trump-bisede-telefonike-me-kryeministrin-britanik/",
-      "description": "Kryeministri britanik, Andy Burnham dhe presidenti amerikan, Donald Trump, kanë zhvilluar një bisedë telefonike për zhvillimet e fundit në Lindjen e Mesme, si dhe për luftën në Ukrainë. Gjatë bisedës, njoftoi zyra e kryeministrit britanik, Burnham e uroi Trumpin për të dhënat e fundit të punësimit n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-07T19:22:52+00:00",
-      "dateStr": "07 Sep, 19:22",
-      "isNew": true,
-      "id": "abc91788808972"
+      "id": "abc91788809260"
     },
     {
       "title": "AfD fitoi me thuajse 44% të votave në Sanksoni-Anhalt, çfarë pritet pas zgjedhjeve në landin gjerman",
