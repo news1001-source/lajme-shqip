@@ -1,139 +1,282 @@
 {
-  "lastUpdated": "2026-09-08T02:46:12.069299+00:00",
+  "lastUpdated": "2026-09-08T07:45:19.662626+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "5 Përgjimet e Arben Ahmetajt/ Hebreu që negocion në emër të Ramës, pasuritë e Shqipërisë",
-      "link": "https://24-ore.com/5-pergjimet-e-arben-ahmetajt-hebreu-qe-negocion-ne-emer-te-rames-pasurite-e-shqiperise/",
-      "description": "Këtë herë denoncimi i Arben Ahmetajt është fokusuar në zbulimin e përgjimeve të Ron Yeffet, mikut të ngushtë të Edi Ramës, i cili negocion për shitje pronat e Shqipërisë, pa tender dhe pa garë. Në intervistën e tij me Çim Pekën, Ahmetaj ka ekspozuar pjesë nga një përgjim tre orësh, për një bisedë që",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-08T02:32:47+00:00",
-      "dateStr": "08 Sep, 02:32",
-      "isNew": true,
-      "id": "24 01788834767"
-    },
-    {
-      "title": "Le Monde: “Revolucioni i flamingove” vë në shënjestër arkitektët e famshëm të Ramës",
-      "link": "https://24-ore.com/le-monde-revolucioni-i-flamingove-ve-ne-shenjester-arkitektet-e-famshem-te-rames/",
-      "description": "Gazeta franceze Le Monde i ka kushtuar më 7 shtator 2026 një analizë të posaçme protestave në Shqipëri, por këtë herë me një kënd të ri: rolin e arkitektëve të njohur ndërkombëtarë në projektet urbanistike dhe turistike të qeverisë së Edi Ramës. Ky është vazhdim i historisë së protestave të raportua",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-08T02:24:02+00:00",
-      "dateStr": "08 Sep, 02:24",
-      "isNew": true,
-      "id": "24 11788834242"
-    },
-    {
-      "title": "Parashikime për kartën e WWE Money in the Bank 2026 pas SNME",
-      "link": "https://24-ore.com/parashikime-per-karten-e-wwe-money-in-the-bank-2026-pas-snme/",
-      "description": "Pas debutimit të parë të Sunday Night's Main Event, vëmendja e Universit të WWE është kthyer te premium live-i vjetor Money in the Bank, i planifikuar këtë...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-08T02:15:36+00:00",
-      "dateStr": "08 Sep, 02:15",
-      "isNew": true,
-      "id": "24 21788833736"
-    },
-    {
-      "title": "Një rikthim i Shohei Ohtani te Dodgers pas katër ndeshjesh jashtë, formacioni startues konfirmohet",
-      "link": "https://24-ore.com/nje-rikthim-i-shohei-ohtani-te-dodgers-pas-kater-ndeshjesh-jashte-formacioni-startues-konfirmohet/",
-      "description": "Pas katër ndeshjesh jashtë, Shohei Ohtani do të kthehet në përbërjen e Los Angeles Dodgers për ndeshjen e të hënës mbrëma ndaj Cincinnati Reds. Skuadra ka...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-08T02:06:42+00:00",
-      "dateStr": "08 Sep, 02:06",
-      "isNew": true,
-      "id": "24 31788833202"
-    },
-    {
-      "title": "Elly De La Cruz vendos me homer, Reds 1-0 ndaj Dodgers (7 shtator 2026)",
-      "link": "https://24-ore.com/elly-de-la-cruz-vendos-me-homer-reds-1-0-ndaj-dodgers-7-shtator-2026/",
-      "description": "Më 7 shtator 2026 në Dodger Stadium, Cincinnati Reds morën epërsinë 1-0 ndaj Los Angeles Dodgers pas një goditjeje të hershme që ndryshoi ritmin e ndeshjes...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-08T01:22:51+00:00",
-      "dateStr": "08 Sep, 01:22",
-      "isNew": true,
-      "id": "24 41788830571"
-    },
-    {
-      "title": "Një rikthim i pritshëm: Aaron Judge aktivizohet dhe pritet të luajë kundër Colorado Rockies",
-      "link": "https://24-ore.com/nje-rikthim-i-pritshem-aaron-judge-aktivizohet-dhe-pritet-te-luaje-kunder-colorado-rockies/",
-      "description": "Aaron Judge u aktivizua nga lista e të lënduarve të hënën dhe pritet të jetë në dispozicion për ndeshjen e së martës kundër Colorado Rockies. Ylli i New Yo...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-08T00:40:37+00:00",
-      "dateStr": "08 Sep, 00:40",
-      "isNew": true,
-      "id": "24 51788828037"
-    },
-    {
-      "title": "Giants dhe Cardinals në Oracle Park: L. Webb kundër M. McGreevy",
-      "link": "https://24-ore.com/giants-dhe-cardinals-ne-oracle-park-l-webb-kunder-m-mcgreevy/",
-      "description": "Më 7 shtator 2026, San Francisco Giants pritën St. Louis Cardinals në Oracle Park në San Francisko. Ndeshja filloi në orën 17:10 PT; startues për Giants is...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-07T23:56:18+00:00",
-      "dateStr": "07 Sep, 23:56",
-      "isNew": true,
-      "id": "24 61788825378"
-    },
-    {
-      "title": "Një fushë volejbolli në Wrigley Field: ndeshja Nebraska–Missouri u pezullua për shkak të lagështisë",
-      "link": "https://24-ore.com/nje-fushe-volejbolli-ne-wrigley-field-ndeshja-nebraska-missouri-u-pezullua-per-shkak-te-lageshtise/",
-      "description": "Stadiumi i Chicago Cubs, Wrigley Field, u shndërrua të dielën në vendtakim për disa prej skuadrave më të spikatura të volejbollit kolegjial. Në kuadër të B...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-07T23:12:20+00:00",
-      "dateStr": "07 Sep, 23:12",
-      "isNew": true,
-      "id": "24 71788822740"
-    },
-    {
-      "title": "Një hap drejt rikthimit: Aaron Judge bën stërvitje live pas dëmtimit të brinjëve",
-      "link": "https://24-ore.com/nje-hap-drejt-rikthimit-aaron-judge-ben-stervitje-live-pas-demtimit-te-brinjeve/",
-      "description": "Aaron Judge, ylli i New York Yankees, bëri të hënën stërvitje me top të gjallë në New York, një lajm që tregon përparim në përpjekjet e tij për t’u rikthye...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-07T22:30:48+00:00",
-      "dateStr": "07 Sep, 22:30",
-      "isNew": true,
-      "id": "24 81788820248"
-    },
-    {
-      "title": "Rrëfimi i nënës së dy djemve të përfshirë në incidentin me kapitenin e Njësive Speciale, Besart Ahmetin",
-      "link": "https://24-ore.com/rrefimi-i-nenes-se-dy-djemve-te-perfshire-ne-incidentin-me-kapitenin-e-njesive-speciale-besart-ahmetin/",
-      "description": "Dy djemtë e një polici të Kosovës (njëri prej tyre i mitur) janë arrestuar të dielën, më 06.09.2026, pas një incidenti në të cilin ishte i përfshirë edhe kapiteni i Njësive Speciale të Policisë së Kosovës, Besart Ahmeti. Incidenti ka ndodhur në parkingun e një qendre tregtare. Lidhur me rastin, Prok",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-07T21:59:50+00:00",
-      "dateStr": "07 Sep, 21:59",
-      "isNew": true,
-      "id": "24 91788818390"
-    },
-    {
-      "title": "Vrasje, atentate dhe plagosje/ Gazetarja: Krimi është sofistikuar, kush ishte ngjarja më e rëndë gjatë kësaj vere",
-      "link": "https://abcnews.al/vrasje-atentate-dhe-plagosje-gazetarja-krimi-eshte-sofistikuar-kush-ishte-ngjarja-me-e-rende-gjate-kesaj-vere/",
-      "description": "TIRANË- Muajt e verës kanë qenë të ngarkuar sa i përket ngjarjeve kriminale në vend. Vrasje, atentate, plagosje, dhunë në familje, por edhe aksidente të shumta kanë shënuar muajt korrik dhe gusht. Gazetarja dhe autorja e emisionit “Gjërat Tona”në ABC News, Etleva Delia e ftuare në &#8220;Ora e Njëmb",
+      "title": "08 Shtator 2026, “Telefonatat e Teleshikuesve” – Mirëmëngjes me Bashkim Hoxhën",
+      "link": "https://abcnews.al/08-shtator-2026-telefonatat-e-teleshikuesve-miremengjes-me-bashkim-hoxhen/",
+      "description": "[...]Read More...",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-07T21:52:14+00:00",
-      "dateStr": "07 Sep, 21:52",
+      "date": "2026-09-08T07:40:53+00:00",
+      "dateStr": "08 Sep, 07:40",
       "isNew": true,
-      "id": "abc01788817934"
+      "id": "abc01788853253"
     },
     {
-      "title": "Berisha në SHBA, protestë dhe braktisje/ Petraj: “Non grata” nuk i hiqet, priten surpriza për “21 janarin” dhe “Gërdecin”",
-      "link": "https://abcnews.al/berisha-ne-shba-proteste-dhe-braktisje-petraj-non-grata-nuk-i-hiqet-priten-surpriza-per-21-janarin-dhe-gerdecin/",
-      "description": "TIRANË- Në takimin e parë në SHBA, ku shkoi triumfalisht 5 vite pas vendosjes së “non grata”, Sali Berisha nuk gjeti pritjen që mendonte. Në sallën luksoze, ku mbërriti me një limuzinë Maybach 250 mijë dollarëshe, ai gjeti shumë karrige bosh, ndërsa jashtë godinës, dhjetëra emigrantë që me megafon e",
+      "title": "08 Shtator 2026, “Shtypi i ditës” – Mirëmëngjes me Bashkim Hoxhën",
+      "link": "https://abcnews.al/08-shtator-2026-shtypi-i-dites-miremengjes-me-bashkim-hoxhen/",
+      "description": "[...]Read More...",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-07T21:33:58+00:00",
-      "dateStr": "07 Sep, 21:33",
+      "date": "2026-09-08T07:39:40+00:00",
+      "dateStr": "08 Sep, 07:39",
       "isNew": true,
-      "id": "abc11788816838"
+      "id": "abc11788853180"
+    },
+    {
+      "title": "Pacienti shkatërron urgjencën e spitalit dhe tenton të godasë infermierin me lavaman, stafi e mbyll në banjo",
+      "link": "https://shekulli.com.al/2026/09/08/pacienti-shkaterron-urgjencen-e-spitalit-dhe-tenton-te-godase-infermierin-me-lavaman-stafi-e-mbyll-ne-banjo/",
+      "description": "Momente paniku janë regjistruar në urgjencën e spitalit të Schiavonia-s, në zonën e Padovës, ku një pacient 52-vjeçar doli jashtë kontrollit dhe për më shumë se dy orë shkaktoi dëme të mëdha në repart. Burri, i cili kishte mbërritur në spital pas një gjendjeje të rënduar dhe ishte trajtuar për një i",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-08T07:39:29+00:00",
+      "dateStr": "08 Sep, 07:39",
+      "isNew": true,
+      "id": "she01788853169"
+    },
+    {
+      "title": "Fillon gjuetia për miliardat e grabitura",
+      "link": "https://24-ore.com/fillon-gjuetia-per-miliardat-e-grabitura/",
+      "description": "Qeveria e re ka nisur atë që për vite me radhë qytetarët e këtij vendi e kanë dëgjuar vetëm si premtim fushate: të gjenden miliardat e parave publike që dyshohet se përfunduan te familjarët e pushtetit, biznesmenët e preferuar, kompanitë që fitonin kontrata njëra pas tjetrës dhe njerëzit që, nga ano",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-08T07:34:01+00:00",
+      "dateStr": "08 Sep, 07:34",
+      "isNew": true,
+      "id": "24 01788852841"
+    },
+    {
+      "title": "Endometrioza mund të “maskohet”: Simptomat që shfaqen edhe pas ciklit",
+      "link": "https://24-ore.com/endometrioza-mund-te-maskohet-simptomat-qe-shfaqen-edhe-pas-ciklit/",
+      "description": "Për një kohë të gjatë, endometrioza është konsideruar kryesisht si një problem gjinekologjik, i lidhur me menstruacionet, dhimbjet dhe fertilitetin. Por studimet e fundit po tregojnë se kjo sëmundje mund të jetë shumë më komplekse dhe të ndikojë edhe në pjesë të tjera të organizmit. Endometrioza shf",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-08T07:32:44+00:00",
+      "dateStr": "08 Sep, 07:32",
+      "isNew": true,
+      "id": "24 11788852764"
+    },
+    {
+      "title": "Qeveria/ Presidenti Begaj dekreton shkarkimin e Evis Salës dhe emërimin e Klodiana Spahiut si ministre të Shëndetësisë, so",
+      "link": "https://24-ore.com/qeveria-presidenti-begaj-dekreton-shkarkimin-e-evis-sales-dhe-emerimin-e-klodiana-spahiut-si-ministre-te-shendetesise-so/",
+      "description": "Në ditën e parë të sesionit parlamentar, Presidenti i Republikës, Bajram Begaj, ka dekretuar sot shkarkimin e Evis Salës nga detyra e ministres së Shëndetësisë dhe Mirëqenies Sociale. Në të njëjtën ditë (8 shtator), kreu i shtetit ka dekretuar Klodiana Spahiun si ministre të re të Shëndetësisë dhe M",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-08T07:31:23+00:00",
+      "dateStr": "08 Sep, 07:31",
+      "isNew": true,
+      "id": "24 21788852683"
+    },
+    {
+      "title": "Polonia hap qendër të re logjistike ushtarake për të forcuar krahun lindor të NATO-s",
+      "link": "https://abcnews.al/polonia-hap-qender-te-re-logjistike-ushtarake-per-te-forcuar-krahun-lindor-te-nato-s/",
+      "description": "Polonia ka hapur një qendër të re të mbrojtjes, të ndërtuar me ekspertizën e Mbretërisë së Bashkuar, për të forcuar mbrojtjen ajrore të vendit dhe krahun lindor të NATO-s. Ministria britanike e Mbrojtjes njoftoi se qendra e riparimit dhe logjistikës në Czosnow, në Poloninë qendrore, do të ndihmojë n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-08T07:30:54+00:00",
+      "dateStr": "08 Sep, 07:30",
+      "isNew": true,
+      "id": "abc21788852654"
+    },
+    {
+      "title": "VARSHAVË – Polonia hap qendër të re logjistike ushtarake për të forcuar krahun lindor të NATO-s",
+      "link": "https://24-ore.com/varshave-polonia-hap-qender-te-re-logjistike-ushtarake-per-te-forcuar-krahun-lindor-te-nato-s/",
+      "description": "VARSHAVË, 8 shtator )ATSH -AA/- Polonia ka hapur një qendër të re të mbrojtjes, të ndërtuar me ekspertizën e Mbretërisë së Bashkuar, për të forcuar mbrojtjen ajrore të vendit dhe krahun lindor të NATO-s. Ministria britanike e Mbrojtjes njoftoi se qendra e riparimit dhe logjistikës në Czosnow, në Pol",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-08T07:30:23+00:00",
+      "dateStr": "08 Sep, 07:30",
+      "isNew": true,
+      "id": "24 31788852623"
+    },
+    {
+      "title": "METEO – Italia përjeton verën më të nxehtë në histori",
+      "link": "https://24-ore.com/meteo-italia-perjeton-veren-me-te-nxehte-ne-histori/",
+      "description": "ROMË, 8 shtator /ATSH-DPA/- Italia regjistroi këtë vit verën më të nxehtë që nga viti 1950, kur nisën regjistrimet zyrtare të temperaturave, njoftoi sot Këshilli Kombëtar i Kërkimeve (CNR). Temperatura mesatare gjatë verës arriti në 24,3 gradë Celsius në rang kombëtar. Veçanërisht i nxehtë ishte mua",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-08T07:30:08+00:00",
+      "dateStr": "08 Sep, 07:30",
+      "isNew": true,
+      "id": "24 41788852608"
+    },
+    {
+      "title": "Konflikti në Shkodër/ Del foto, ky është 24-vjeçari i cili mbeti i vrarë",
+      "link": "https://abcnews.al/konflikti-ne-shkoder-del-foto-ky-eshte-24-vjecari-i-cili-mbeti-i-vrare/",
+      "description": "Personi që shihni në foto është Ylber Luli, 24-vjeçari i cili mbeti i vrarë në një konflikt me armë në Shkodër. Ngjarja e rëndë ndodhi rreth orës 05:30, në lagjen “Kongresi i Përmetit”, ku dyshohet se 25-vjeçari Andri Vulaj ka qëlluar me armë zjarri ndaj Lulit dhe babait të tij 63-vjeçar. Në përlesh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-08T07:28:02+00:00",
+      "dateStr": "08 Sep, 07:28",
+      "isNew": true,
+      "id": "abc31788852482"
+    },
+    {
+      "title": "Shqipëria ndërton pa fund, por mbetet e treta në Europë për privimin e rëndë nga strehimi",
+      "link": "https://shekulli.com.al/2026/09/08/shqiperia-nderton-pa-fund-por-mbetet-e-treta-ne-europe-per-privimin-e-rende-nga-strehimi/",
+      "description": "Shqipëria është vendi ku ndërtimi zë peshën më të lartë në ekonomi në Europë, por bumi i apartamenteve nuk ka zgjidhur problemin e kushteve të banimit. Në vitin 2023, 12.7% e popullsisë jetonte në privim të rëndë nga strehimi, norma e tretë më e lartë mes vendeve europiane të përfshira në të dhënat ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-08T07:27:08+00:00",
+      "dateStr": "08 Sep, 07:27",
+      "isNew": true,
+      "id": "she11788852428"
+    },
+    {
+      "title": "Xhelal Sveçla dënohet me burgim me kusht për hedhjen e gazit lotsjellës në Kuvend",
+      "link": "https://24-ore.com/xhelal-svecla-denohet-me-burgim-me-kusht-per-hedhjen-e-gazit-lotsjelles-ne-kuvend/",
+      "description": "Ministri në detyrë i Punëve të Brendshme, Xhelal Sveçla, është dënuar nga gjykata me një vit burgim me kusht për hedhjen e gazit lotsjellës në Kuvendin e Kosovës. Sipas vendimit të gjykatës, Sveçlës i është caktuar dënimi prej një viti burgim, i cili nuk do të ekzekutohet nëse ai nuk kryen vepër tje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-08T07:26:10+00:00",
+      "dateStr": "08 Sep, 07:26",
+      "isNew": true,
+      "id": "24 51788852370"
+    },
+    {
+      "title": "Presidenti dekreton shkarkimin e Evis Salës, Klodiana Spahiu merr drejtimin e Ministrisë së Shëndetësisë",
+      "link": "https://shekulli.com.al/2026/09/08/presidenti-dekreton-shkarkimin-e-evis-sales-klodiana-spahiu-merr-drejtimin-e-ministrise-se-shendetesise/",
+      "description": "Presidenti Bajram Begaj ka dekretuar shkarkimin e Evis Salës nga detyra e ministres së Shëndetësisë dhe Mirëqenies Sociale, e po ashtu emërimin në krye të Klodiana Spahiut. Klodiana Spahiu u propozua si ministre e Shëndetësisë një ditë pasi Evis Sala njoftoi dorëheqjen. Pas dekretit të Presidentit, ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-08T07:26:07+00:00",
+      "dateStr": "08 Sep, 07:26",
+      "isNew": true,
+      "id": "she21788852367"
+    },
+    {
+      "title": "Maqedonia e Veriut sot shënon 35-vjetorin e pavarësisë",
+      "link": "https://24-ore.com/maqedonia-e-veriut-sot-shenon-35-vjetorin-e-pavaresise/",
+      "description": "Më 8 shtator 1991, qytetarët e Maqedonisë, në një referendum historik, votuan me shumicë dërrmuese &#8220;po&#8221; për pavarësinë e vendit. Vota në referendum shënoi një pikë kthese që nisi procesin e krijimit të një shteti të pavarur dhe ngritjen e institucioneve të veta, rrjetit diplomatik, siste",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-08T07:23:35+00:00",
+      "dateStr": "08 Sep, 07:23",
+      "isNew": true,
+      "id": "24 61788852215"
+    },
+    {
+      "title": "Një shtëpi, 147 të strehuar – Shala rrëfen historinë e jashtëzakonshme nga Llapqeva",
+      "link": "https://24-ore.com/nje-shtepi-147-te-strehuar-shala-rrefen-historine-e-jashtezakonshme-nga-llapqeva/",
+      "description": "Drejtori ekzekutiv i Shoqatës Humanitare Bamirëse “Nëna Terezë”, Zef Shala, ka rrëfyer një nga shembujt e solidaritetit të familjeve kosovare gjatë luftës, kur mijëra qytetarë detyroheshin të largoheshin nga zonat e luftimeve. Duke folur në “Përballje Podcast”, Shala tregoi se pas sulmeve në zonën e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-08T07:23:20+00:00",
+      "dateStr": "08 Sep, 07:23",
+      "isNew": true,
+      "id": "24 71788852200"
+    },
+    {
+      "title": "Shkodër, 25-vjeçari qëllon me armë babë e bir pas një sherri! Ndëron jetë 24-vjeçari",
+      "link": "https://24-ore.com/shkoder-25-vjecari-qellon-me-arme-babe-e-bir-pas-nje-sherri-nderon-jete-24-vjecari/",
+      "description": "Një konflikt i orëve të para të mëngjesit është kthyer në një ngjarje tragjike në Shkodër, ku një 24-vjeçar ka humbur jetën pasi u qëllua me armë zjarri. Ngjarja ndodhi rreth orës 05:30 në lagjen “Kongresi i Përmetit”. Sipas policisë, pas një konflikti për motive të dobëta, 25-vjeçari Andri Vulaj dy",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-08T07:23:06+00:00",
+      "dateStr": "08 Sep, 07:23",
+      "isNew": true,
+      "id": "24 81788852186"
+    },
+    {
+      "title": "Kuvendi nis sot punimet, jashtë parlamenti është thirrur protestë",
+      "link": "https://24-ore.com/kuvendi-nis-sot-punimet-jashte-parlamenti-eshte-thirrur-proteste/",
+      "description": "Kuvendi i Shqipërisë rikthehet sot në punimet parlamentare pas pushimeve verore, duke çelur sesionin e ri të legjislaturës së 11-të. Deputetët do të mblidhen në sallën e seancave plenare në orën 17:00, në një seancë që pritet të ketë karakter kryesisht ceremonial. Fjalën e hapjes do ta mbajë kryetar",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-08T07:22:53+00:00",
+      "dateStr": "08 Sep, 07:22",
+      "isNew": true,
+      "id": "24 91788852173"
+    },
+    {
+      "title": "Ora e Fundit me Emilian Islami, (08/09/2026)",
+      "link": "https://abcnews.al/ora-e-fundit-me-emilian-islami-08-09-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-08T07:17:46+00:00",
+      "dateStr": "08 Sep, 07:17",
+      "isNew": true,
+      "id": "abc41788851866"
+    },
+    {
+      "title": "Foto/ Ky është 24-vjeçari Ylber Luli që u vra sot në Shkodër! I ati mbeti i plagosur",
+      "link": "https://shekulli.com.al/2026/09/08/foto-ky-eshte-25-vjecari-ylber-luli-qe-u-vra-sot-ne-shkoder-i-ati-mbeti-i-plagosur/",
+      "description": "Personi që shihni në foto është 24-vjeçari Ylber Luli, i cili humbi jetën mëngjesin e sotëm në Shkodër. Luli ishte i angazhuar në sektorin e turizmit në Shkodër dhe ushtronte profesionin e udhërrëfyesit turistik. Ngjarja sipas policisë ka ndodhur rreth orës 05:30 në lagjen “Kongresi i Përmetit”, ku ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-08T07:17:17+00:00",
+      "dateStr": "08 Sep, 07:17",
+      "isNew": true,
+      "id": "she31788851837"
+    },
+    {
+      "title": "Ora e Njëmbëdhjetë me Erisa Koxhaj, (07/09/2026)",
+      "link": "https://abcnews.al/ora-e-njembedhjete-me-erisa-koxhaj-07-09-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-08T07:16:04+00:00",
+      "dateStr": "08 Sep, 07:16",
+      "isNew": true,
+      "id": "abc51788851764"
+    },
+    {
+      "title": "“Berisha, jo takim diplomatik”/ Alesia Balliu: Saliu në SHBA vetëm për të bërë foto propagandë, është ende non grata",
+      "link": "https://abcnews.al/berisha-jo-takim-diplomatik-alesia-balliu-saliu-ne-shba-vetem-per-te-bere-foto-propagande-eshte-ende-non-grata/",
+      "description": "Ish anëtarja e PD, Alesia Balliu thotë se Sali Berisha nuk ka zhvilluar asnjë takim diplomatik në SHBA. Në një intervistë për &#8220;Ora e Fundit&#8221; në ABC News, Balliu u shpreh se Berisha shkoi në SHBA vetëm për të bërë foto propagandë. Balliu shtoi se në faqen e DASH, Berisha dhe familjarët e ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-08T07:08:35+00:00",
+      "dateStr": "08 Sep, 07:08",
+      "isNew": true,
+      "id": "abc61788851315"
+    },
+    {
+      "title": "Presidenti Begaj dekreton dorëheqjen e Evis Salës dhe emërimin e Klodiana Spahiut si ministre e Shëndetësisë",
+      "link": "https://abcnews.al/presidenti-begaj-dekreton-doreheqjen-e-evis-sales-dhe-emerimin-e-klodiana-spahiut-si-ministre-e-shendetesise/",
+      "description": "Presidenti Bajram Begaj ka dekretuar dorëheqjen e Evis Salës dhe emërimin e Klodiana Spahiut si ministre Shëndetësie. Dekreti i kalon sot seancës plenare për votim dhe me pas Spahiu do duhet të betohet para Presidentit për të nisur detyrën. Deputetët rikthehen të marten, pas pushimeve, në sallën e p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-08T07:03:18+00:00",
+      "dateStr": "08 Sep, 07:03",
+      "isNew": true,
+      "id": "abc71788850998"
+    },
+    {
+      "title": "Kanadaja përgatitet për një luftë të zgjatur tregtare, hyjnë në fuqi tarifat hakmarrëse ndaj SHBA",
+      "link": "https://abcnews.al/kanadaja-pergatitet-per-nje-lufte-te-zgjatur-tregtare-hyjne-ne-fuqi-tarifat-hakmarrese-ndaj-shba/",
+      "description": "Tarifat hakmarrëse të Kanadasë për një gamë të gjerë mallrash amerikane hynë në fuqi të martën, pa asnjë shenjë të një marrëveshjeje tregtare në horizont. Tarifat do të zbatohen për produkte amerikane me vlerë gati 28 miliardë dollarë kanadezë (20 miliardë dollarë; 15 miliardë paund), nga çeliku te ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-08T06:44:20+00:00",
+      "dateStr": "08 Sep, 06:44",
+      "isNew": true,
+      "id": "abc81788849860"
+    },
+    {
+      "title": "“Shkolla “Mersin Duqi” në Bërzhitë, e rilindur”/ Rama: Mirëpret 160 nxënës e mësues në vitin e ri shkollor",
+      "link": "https://abcnews.al/shkolla-mersin-duqi-ne-berzhite-e-rilindur-rama-mirepret-160-nxenes-e-mesues-ne-vitin-e-ri-shkollor/",
+      "description": "Kryeministri Edi Rama ka ndarë pamje nga shkolla “Mersin Duqi” në Ibë të Poshtme, Bërzhitë, tanimë e rikonstruktuar. Përmes një postimi në rrjetet sociale, Rama u shpreh se shkolla do të mirëpresë 160 nxënës e mësues në vitin e ri shkollor. &#8220;Mirëmëngjes dhe me një tjetër shkollë të rilindur, “",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-08T06:28:04+00:00",
+      "dateStr": "08 Sep, 06:28",
+      "isNew": true,
+      "id": "abc91788848884"
+    },
+    {
+      "title": "Tronditet Shkodra, vritet me armë zjarri 24-vjeçari, dy të tjerë të plagosur (EMRAT)",
+      "link": "https://shekulli.com.al/2026/09/08/tronditet-shkodra-vritet-me-arme-zjarri-24-vjecari-dy-te-tjere-te-plagosur-emrat/",
+      "description": "SHKODËR – Një ngjarje e rëndë ka ndodhur sot në Shkodër, ku si pasojë e një konflikti me armë, një 24-vjeçar ka mbetur i vdekur dhe dy të tjerë janë plagosur. Ngjarja sipas policisë ka ndodhur rreth orës 05:30 në lagjen “Kongresi i Përmetit”, ku tre persona u përfshinë në një përplasje gjatë së cilë",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-08T06:18:57+00:00",
+      "dateStr": "08 Sep, 06:18",
+      "isNew": true,
+      "id": "she41788848337"
     },
     {
       "title": "Audiopërgjimi/ “Ti mbyllim gojën ambasadës amerikane”, plani i Yeffet për të shmangur vëmendjen nga trafiku i armëve",
@@ -144,7 +287,7 @@
       "date": "2026-09-07T21:18:14+00:00",
       "dateStr": "07 Sep, 21:18",
       "isNew": true,
-      "id": "she01788815894"
+      "id": "she51788815894"
     },
     {
       "title": "‘’Përndjekje gjenocidale ndaj fëmijëve të mi’’, Arben Ahmetaj: Dërgimi im në burg do të çonte në eliminimin tim fizik",
@@ -155,18 +298,7 @@
       "date": "2026-09-07T20:57:21+00:00",
       "dateStr": "07 Sep, 20:57",
       "isNew": true,
-      "id": "she11788814641"
-    },
-    {
-      "title": "“Turizmi nuk po zhgënjen”, Fatos Çoçoli: Të tregojmë kujdes me çmimet e pajustifikuara",
-      "link": "https://abcnews.al/turizmi-nuk-po-zhgenjen-fatos-cocoli-te-tregojme-kujdes-me-cmimet-e-pajustifikuara/",
-      "description": "TIRANË- Shqipëria edhe këtë vit shënoi një rritje të nurit të turistëve dhe këtë e dëshmojnë të dhënat e fluturimeve në Aeroportin e Rinasit. Eksperti i ekonomisë, Fatos Çoçoli, i ftuar në “Sheshi i Dollarit” në ABC News tha se sektori i truizmit nuk po zhgënjen me performancën e tij, pasi të dhënat",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-07T20:35:07+00:00",
-      "dateStr": "07 Sep, 20:35",
-      "isNew": true,
-      "id": "abc21788813307"
+      "id": "she61788814641"
     },
     {
       "title": "Arben Ahmetaj: Ditën që doli urdhërarresti im Veliaj festoi me uiski, do hapte shishe tjetër kur unë të ekzekutohesha",
@@ -177,7 +309,7 @@
       "date": "2026-09-07T20:33:05+00:00",
       "dateStr": "07 Sep, 20:33",
       "isNew": true,
-      "id": "she21788813185"
+      "id": "she71788813185"
     },
     {
       "title": "Bllokimi i pagave të magjistratëve, Olsian Çela thërret mbledhje urgjente me drejtuesit e prokurorive",
@@ -188,29 +320,7 @@
       "date": "2026-09-07T20:28:52+00:00",
       "dateStr": "07 Sep, 20:28",
       "isNew": true,
-      "id": "she31788812932"
-    },
-    {
-      "title": "“Jemi në një pozitë ku e kemi fituar imazhin e turizmit”/ Sefa: E rëndësishme të tërheqim turistë cilësorë",
-      "link": "https://abcnews.al/jemi-ne-nje-pozite-ku-e-kemi-fituar-imazhin-e-turizmit-sefa-e-rendesishme-te-terheqim-turiste-cilesore/",
-      "description": "Eksperti i ekonomisë, Ergis Sefa thotë se Shqipëria është një pozitë, ku e ka fituar imazhin sa i takon turizmit. Në emisionin &#8220;Sheshi i Dollarit&#8221; në ABC News, Sefa u shpreh se në vendin tonë, 15-20 përqind e turistëve vijnë të organizuar me paketa turistike. Sipas Sefës, e rëndësishme ë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-07T20:25:11+00:00",
-      "dateStr": "07 Sep, 20:25",
-      "isNew": true,
-      "id": "abc31788812711"
-    },
-    {
-      "title": "Turizmi/ Hila: Kemi rritje me 6.5 përqind të turistëve në 7 muaj, sezoni të zgjatet deri në tetor",
-      "link": "https://abcnews.al/turizmi-hila-kemi-rritje-me-6-5-perqind-te-turisteve-ne-7-muaj-sezoni-te-zgjatet-deri-ne-tetor/",
-      "description": "Përfaqësuesi i turoperatorëve, Aneo Hila thotë se në 7 muajt e parë të vitit, ka rritje të turistëve me 6.5 përqind, krahasuar me një vit më parë. Në emisionin &#8220;Sheshi i Dollarit&#8221; në ABC News, Hila u shpreh se ka një shtim të turistëve individualë. Hila shtoi se sezoni turistik duhet të ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-07T20:18:36+00:00",
-      "dateStr": "07 Sep, 20:18",
-      "isNew": true,
-      "id": "abc41788812316"
+      "id": "she81788812932"
     },
     {
       "title": "Largimi i ministres, Ahmetaj: Rama tha në grup se Evis Sala iku pasi nuk firmosi “KAYO-n” në shëndetësi",
@@ -221,117 +331,7 @@
       "date": "2026-09-07T20:16:18+00:00",
       "dateStr": "07 Sep, 20:16",
       "isNew": true,
-      "id": "she41788812178"
-    },
-    {
-      "title": "“Një furgon me raketa u kap në Itali, investigoni”, Ahmetaj zbardh trafikun e armëve: Vijnë nga Afrika, paketohen në Shqipëri dhe marrin rrugët nëpër botë",
-      "link": "https://shekulli.com.al/2026/09/07/nje-furgon-me-raketa-u-kap-ne-itali-investigoni-ahmetaj-zbardh-trafikun-e-armeve-vijne-nga-afrika-paketohen-ne-shqiperi-dhe-marrin-rruget-neper-bote/",
-      "description": "Ish-zëvendëskryeministri Arben Ahmetaj ka bërë akuza të rënda në emisionin “Çim Peka Live”, duke pretenduar se pas disa projekteve dhe kompanive në Shqipëri fshihet një skemë e trafikut ndërkombëtar të armëve. Ahmetaj tha se disponon informacione dhe materiale që, sipas tij, lidhen me një strukturë ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-07T20:14:56+00:00",
-      "dateStr": "07 Sep, 20:14",
-      "isNew": true,
-      "id": "she51788812096"
-    },
-    {
-      "title": "“Po tentojnë të grabisin Delvinën”/ Ahmetaj nxjerr audiopërgjimet: Ron Yeffet trafik armësh nga Shqipëria, si funksionon skema KAYO",
-      "link": "https://shekulli.com.al/2026/09/07/po-tentojne-te-grabisin-delvinen-ahmetaj-nxjerr-audiopergjimet-ron-yeffet-trafik-armesh-nga-shqiperia-si-funksionon-skema-kayo/",
-      "description": "Ish-zëvendëskryeministri Arben Ahmetaj ka dhënë një intervistë nga Zvicra për gazetarin Çim Peka, gjatë së cilës ka publikuar disa audiopërgjime që sipas tij hedhin dritë mbi një skemë të dyshuar abuzimi me fondet publike, grabitjeje të aseteve shtetërore dhe trafiku ndërkombëtar të armëve. Në qendë",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-07T20:12:25+00:00",
-      "dateStr": "07 Sep, 20:12",
-      "isNew": true,
-      "id": "she61788811945"
-    },
-    {
-      "title": "Pas pak “Sheshi i dollarit”, na ndiqni live në ABC News",
-      "link": "https://abcnews.al/pas-pak-sheshi-i-dollarit-na-ndiqni-live-ne-abc-news-25/",
-      "description": "Pas pak &#8220;Sheshi i dollarit&#8221;, na ndiqni live në ABC News [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-07T19:57:27+00:00",
-      "dateStr": "07 Sep, 19:57",
-      "isNew": true,
-      "id": "abc51788811047"
-    },
-    {
-      "title": "Ligjërohet ChatGPT në Shqipëri, udhëzuesi i ri i ministrisë së arsimit përcakton përdorimin nga ushtrimet në klasë deri te vlerësimi i nxënësve",
-      "link": "https://shekulli.com.al/2026/09/07/ligjerohet-chatgpt-ne-shqiperi-udhezuesi-i-ri-i-ministrise-se-arsimit-percakton-perdorimin-nga-ushtrimet-ne-klase-deri-te-vleresimi-i-nxenesve/",
-      "description": "Risia e vitit të ri shkollor është leja e përdorimit të inteligjencës artificiale nga mësuesit dhe nxënësit në gjithë sistemin parauniversitar. Ministria e Arsimit ka hartuar një udhëzues për IA në shkolla me mjete si CHATGPT, GEMINI, FULL FACT, etj që duhet të mbështesë dhe jo të zëvendësojë aftësi",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-07T19:54:57+00:00",
-      "dateStr": "07 Sep, 19:54",
-      "isNew": true,
-      "id": "she71788810897"
-    },
-    {
-      "title": "Finlanda përfundon gardhin 200 kilometra në kufirin me Rusinë: Duhet të jemi plotësisht të përgatitur",
-      "link": "https://abcnews.al/finlanda-perfundon-gardhin-200-kilometra-ne-kufirin-me-rusine-duhet-te-jemi-plotesisht-te-pergatitur/",
-      "description": "Finlanda ka përfunduar ndërtimin e një gardhi rreth 200 kilometra të gjatë përgjatë pjesëve strategjike të kufirit me Rusinë, në një masë të ndërmarrë për forcimin e sigurisë dhe parandalimin e kalimeve të paligjshme. Gardhi është ndërtuar në seksione të ndryshme përgjatë kufirit 1,340 kilometra të ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-07T19:47:48+00:00",
-      "dateStr": "07 Sep, 19:47",
-      "isNew": true,
-      "id": "abc61788810468"
-    },
-    {
-      "title": "VIDEO/ Tubimi i 100-të në Tiranë, protestuesit krijojnë gardhin njerëzor rreth Kryeministrisë dhe AKSHI-t",
-      "link": "https://shekulli.com.al/2026/09/07/video-tubimi-i-100-te-ne-tirane-protestuesit-krijojne-gardhin-njerezor-rreth-kryeministrise-dhe-akshi-t/",
-      "description": "Në ditën e 100 të tubimit përpara Kryeministrisë në Tiranë, protestuesit kanë krijuar një gardh njerëzor rreth e rrothull godinës së Kryeministrisë dhe godinës së AKSHI-t. Në mënyrë simbolike, qytetarët janë kapur për dore dhe kanë rrethuar dy godinat. Qindra qytetarë u mblodhën mbrëmjen e sotme për",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-07T19:41:57+00:00",
-      "dateStr": "07 Sep, 19:41",
-      "isNew": true,
-      "id": "she81788810117"
-    },
-    {
-      "title": "Çmimi i karburantit thyen rekordet në Portugali",
-      "link": "https://abcnews.al/cmimi-i-karburantit-thyen-rekordet-ne-portugali/",
-      "description": "Portugalia është përfshirë nga protesta pas një tjetër rritjeje rekord të çmimeve të karburantit, me naftën që ka arritur nivelin më të lartë të regjistruar ndonjëherë në vend. Rritja e re e çmimeve u shoqërua me protesta në rrugët kryesore të vendit. Në mëngjes, qytetarët zhvilluan një protestë me ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-07T19:37:48+00:00",
-      "dateStr": "07 Sep, 19:37",
-      "isNew": true,
-      "id": "abc71788809868"
-    },
-    {
-      "title": "Artisti shqiptaro-amerikan MIRUD triumfon në “Premios Juventud” me albumin “Desnudo”",
-      "link": "https://abcnews.al/artisti-shqiptaro-amerikan-mirud-triumfon-ne-premios-juventud-me-albumin-desnudo/",
-      "description": "Artisti shqiptaro-amerikan MIRUD, emri artistik i Durim Morinës, ka marrë një tjetër vlerësim në karrierën e tij ndërkombëtare. Më 3 shtator 2026, ai u vlerësua në ceremoninë “Premios Juventud” për albumin e tij në gjuhën spanjolle, “Desnudo”, në kategorinë “Best Pop Vocal Performance”. Ceremonia u ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-07T19:30:36+00:00",
-      "dateStr": "07 Sep, 19:30",
-      "isNew": true,
-      "id": "abc81788809436"
-    },
-    {
-      "title": "Eksperti Tafani: Për Putinin, lufta në Ukrainë është një lojë mbijetese",
-      "link": "https://abcnews.al/eksperti-tafani-per-putinin-lufta-ne-ukraine-eshte-nje-loje-mbijetese/",
-      "description": "Eksperti i marrëdhënieve ndërkombëtare, Endri Tafani, e ka cilësuar luftën në Ukrainë si një “lojë mbijetese” për presidentin rus Vladimir Putin, duke argumentuar se Kremlini nuk mund ta përballojë politikisht perceptimin e një disfate. Tafani është publikuar edhe më herët si autor dhe komentues mbi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-07T19:27:40+00:00",
-      "dateStr": "07 Sep, 19:27",
-      "isNew": true,
-      "id": "abc91788809260"
-    },
-    {
-      "title": "AfD fitoi me thuajse 44% të votave në Sanksoni-Anhalt, çfarë pritet pas zgjedhjeve në landin gjerman",
-      "link": "https://shekulli.com.al/2026/09/07/afd-fitoi-me-thuajse-44-te-votave-ne-sanksoni-anhalt-cfare-pritet-pas-zgjedhjeve-ne-landin-gjerman/",
-      "description": "Rezultati paraprak i zgjedhjeve tashmë është i qartë. AfD-ja ka marrë me 43,8 për qind të votave shumicën të fortë në Saksoni-Anhalt. Megjithatë, kjo nuk mjafton për shumicën absolute të mandateve në parlamentin e landit. Nga 83 vendet në Landtag, 39 i takojnë AfD-së. CDU-ja arriti 17,2 % të votave,",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-07T18:49:30+00:00",
-      "dateStr": "07 Sep, 18:49",
-      "isNew": true,
-      "id": "she91788806970"
+      "id": "she91788812178"
     }
   ]
 }
