@@ -1,128 +1,293 @@
 {
-  "lastUpdated": "2026-09-09T19:38:29.130716+00:00",
+  "lastUpdated": "2026-09-09T22:11:31.366948+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Haradinaj: Shkuarja në zgjedhje është skenar i Kurtit, afatet janë zvarritur qëllimisht",
-      "link": "https://24-ore.com/haradinaj-shkuarja-ne-zgjedhje-eshte-skenar-i-kurtit-afatet-jane-zvarritur-qellimisht/",
-      "description": "Ish-kryetari i Aleancës për Ardhmërinë e Kosovës, Ramush Haradinaj, ka deklaruar se shkuarja e vendit sërish në zgjedhje është një skenar i përgatitur prej kohësh nga kryeministri Albin Kurti. Në emisionin “Rubikon” në Klan Kosova, Haradinaj tha se zhvillimet e fundit politike, sipas tij, janë përdo",
+      "title": "Caitlin Clark e mikrofonuar gjatë stërvitjes së Team USA për Kupën Botërore 2026",
+      "link": "https://24-ore.com/caitlin-clark-e-mikrofonuar-gjate-stervitjes-se-team-usa-per-kupen-boterore-2026/",
+      "description": "Një video nga stërvitja e Team USA tregon Caitlin Clark të lidhur me mikrofonin ndërsa skuadra përgatitej për Kupën Botërore të FIBA 2026. Ylli i skuadrës,...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-09T19:36:07+00:00",
-      "dateStr": "09 Sep, 19:36",
+      "date": "2026-09-09T21:55:37+00:00",
+      "dateStr": "09 Sep, 21:55",
       "isNew": true,
-      "id": "24 01788982567"
+      "id": "24 01788990937"
     },
     {
-      "title": "“Dyfytyrësi e hipokrizi”, Mushkolaj: VV-ja vetë ka folur për ‘popull serb’ në Kosovë",
-      "link": "https://24-ore.com/dyfytyresi-e-hipokrizi-mushkolaj-vv-ja-vete-ka-folur-per-popull-serb-ne-kosove/",
-      "description": "Analisti politik Imer Mushkolaj ka deklaruar se bllokimi i konstituimit të Kuvendit po bëhet me qëllim që vendi të shkojë në zgjedhje të reja. Duke komentuar situatën e krijuar në Kuvend, pas përplasjes rreth propozimit të Listës Serbe për nënkryetar të Kuvendit, Mushkolaj tha në Debat Plus se arsye",
+      "title": "Aaron Judge rikthehet te Yankees dhe përshëndetet me duartrokitje në këmbë pas tre muajsh mungesë",
+      "link": "https://24-ore.com/aaron-judge-rikthehet-te-yankees-dhe-pershendetet-me-duartrokitje-ne-kembe-pas-tre-muajsh-mungese/",
+      "description": "Aaron Judge u rikthye në fushë për New York Yankees gjatë fitores 5-3 ndaj Colorado Rockies, dhe e përshkroi rikthimin si një ndjesi pozitive. Ai përfundoi...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-09T19:31:14+00:00",
-      "dateStr": "09 Sep, 19:31",
+      "date": "2026-09-09T21:51:20+00:00",
+      "dateStr": "09 Sep, 21:51",
       "isNew": true,
-      "id": "24 11788982274"
+      "id": "24 11788990680"
     },
     {
-      "title": "SHBA – “Apple” prezanton “iPhone Duo”, smartfonin e parë të palosshëm",
-      "link": "https://24-ore.com/shba-apple-prezanton-iphone-duo-smartfonin-e-pare-te-palosshem/",
-      "description": "SAN FRANÇISKO, 9 shtator /ATSH-AFP/ -“Apple” ka prezantuar sot smartfonin e saj të parë të palosshëm, “iPhone Duo”, duke hyrë zyrtarisht në një treg ku “Samsung” ka qenë prej vitesh një nga pionierët kryesorë. Prezantimi u bë gjatë eventit të parë të madh të kompanisë nën drejtimin e CEO-së së ri, J",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-09T19:30:08+00:00",
-      "dateStr": "09 Sep, 19:30",
-      "isNew": true,
-      "id": "24 21788982208"
-    },
-    {
-      "title": "“SHBA dominon në luftën në tokë dhe ajër”, Neziri: Nëse Irani godet luftëanijet amerikane, do ishte tregues për një përshkallëzim",
-      "link": "https://abcnews.al/shba-dominon-ne-luften-ne-toke-dhe-ajer-neziri-nese-irani-godet-lufteanijet-amerikane-do-ishte-tregues-per-nje-pershkallezim/",
-      "description": "Kolonel Sami Neziri ka komentuar zhvillimet e fundit në konfliktin mes SHBA dhe Iranit, duke theksuar se Shtetet e Bashkuara kanë epërsi në luftën në tokë dhe ajër, ndërsa Irani e kompenson këtë përmes gjeografisë dhe luftës asimetrike. Neziri tha se Irani vijon ta mbajë të kërcënuar Ngushticën e Ho",
+      "title": "Apple bën histori/ Prezanton gjeneratën e re të smartfonëve",
+      "link": "https://abcnews.al/apple-ben-histori-prezanton-gjeneraten-e-re-te-smartfoneve/",
+      "description": "Apple ka prezantuar zyrtarisht gjeneraten e saj te re te Smartfoneve duke shenuar nje kapitull te ri per kompanine dhe nje nga ndryshimet me te medha ne Historine e Iphone. Ne prezantimin zyrtar u lancua gjenerata e re e iphone 18 dhe 18 Pro Max, por surpriza më e madhe ishte debutimi i iPhone Duo, ",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-09T19:18:48+00:00",
-      "dateStr": "09 Sep, 19:18",
+      "date": "2026-09-09T21:45:17+00:00",
+      "dateStr": "09 Sep, 21:45",
       "isNew": true,
-      "id": "abc01788981528"
+      "id": "abc01788990317"
     },
     {
-      "title": "VIDEO/ Kjo Barcelonë është si “Disneyland”, e nis Championsin me spektakël! Shkatërron me një ‘pesëshe’ Feyenoord",
-      "link": "https://24-ore.com/video-kjo-barcelone-eshte-si-disneyland-e-nis-championsin-me-spektakel-shkaterron-me-nje-peseshe-feyenoord/",
-      "description": "Barcelona e ka nisur në mënyrën më të mirë aventurën e saj në Champions League, duke mposhtur Feyenoord me shifrat e thella 5-1. Katalanasit e zhbllokuan shumë shpejt sfidën, teksa Raphinha realizoi pas vetëm tre minutash lojë. Braziliani ishte protagonist edhe në pjesën e dytë, duke shënuar golin e",
-      "source": "24 ORE",
+      "title": "Dhunohet drejtori i Ujësjellësit në Elbasan/ Luan Tabaku u godit me sende të forta nga dy persona",
+      "link": "https://abcnews.al/dhunohet-drejtori-i-ujesjellesit-ne-elbasan-luan-tabaku-u-godit-me-sende-te-forta-nga-dy-persona/",
+      "description": "Dhunohet drejtori i Ujësjellësit të Elbasanit, Luan Tabaku. Ngjarja ka ndodhur rreth orës 10:45 të mëngjesit të së dielës, datë 6 shtator, në mes të qytetit. Tabaku dyshohet se është goditur nga dy persona. Autorët e dyshuar janë Endri Çopja dhe Horgito Peqini. Ndërsa dyshohet se gjatë sulmit janë p",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-09T19:18:12+00:00",
-      "dateStr": "09 Sep, 19:18",
+      "date": "2026-09-09T21:41:37+00:00",
+      "dateStr": "09 Sep, 21:41",
       "isNew": true,
-      "id": "24 31788981492"
+      "id": "abc11788990097"
     },
     {
-      "title": "Meghan Markle shfaqet për herë të parë në Britani pas rikthimit",
-      "link": "https://24-ore.com/meghan-markle-shfaqet-per-here-te-pare-ne-britani-pas-rikthimit/",
-      "description": "Meghan Markle është parë për herë të parë në Britaninë e Madhe që prej zhvendosjes së saj me bashkëshortin, Princ Harry. Dukesha e Sussex-it u fotografua duke pirë çaj në Soho Farmhouse, një resort ekskluziv në zonën e Cotswolds. Sipas Page Six, 45-vjeçarja Meghan Markle u pa të premten në shoqërinë",
-      "source": "24 ORE",
+      "title": "“Rama, fokusin te komunikimi me njerëzit”, Rexhaj: Kryeministri kërkon të instalojë mekanizmin e ‘llogaridhënies qytetare’",
+      "link": "https://abcnews.al/rama-fokusin-te-komunikimi-me-njerezit-rexhaj-kryeministri-kerkon-te-instaloje-mekanizmin-e-llogaridhenies-qytetare/",
+      "description": "TIRANË- Partia Socialiste ka nisur takimet intensivë me qytetarët, në kuadër të “Pranisë Besnike”, me anë të së cilës do të mbahen shënim të gjitha shqetësimet dhe problematikat me të cilat ato përballen çdo ditë. Këtë qasje të Partisë Socialiste dhe të qeverisë e komentoi dhe analisti Albatros Rexh",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-09T19:18:03+00:00",
-      "dateStr": "09 Sep, 19:18",
+      "date": "2026-09-09T21:36:14+00:00",
+      "dateStr": "09 Sep, 21:36",
       "isNew": true,
-      "id": "24 41788981483"
+      "id": "abc21788989774"
     },
     {
-      "title": "Shërbimi sekret shqiptar dyshonte se Ibrahim Kelmendi i shërbente UDB-së, Jugosllavia e lidhte me Sigurimin shqiptar",
-      "link": "https://24-ore.com/sherbimi-sekret-shqiptar-dyshonte-se-ibrahim-kelmendi-i-sherbente-udb-se-jugosllavia-e-lidhte-me-sigurimin-shqiptar/",
-      "description": "Në ciklin e emisioneve “Dosjet”, në kuadër të Debat Plus-it në Dukagjin, është trajtuar veprimtaria e Ibrahim Kelmendit dhe mënyra se si ai është ndjekur nga shërbimet sekrete të Jugosllavisë dhe Shqipërisë. Sipas dokumenteve të paraqitura në emision, Kelmendi ishte subjekt i Shërbimit Sekret Jugosl",
-      "source": "24 ORE",
+      "title": "Protesta/ Rama: Të pengosh deputetët dhe të godasësh qytetarët është dhunë",
+      "link": "https://abcnews.al/protesta-rama-te-pengosh-deputetet-dhe-te-godasesh-qytetaret-eshte-dhune/",
+      "description": "TIRANË- Kryeministri i vendit, Edi Rama ka reaguar në rrjetet sociale ndaj protestave dhe episodeve të dhunës, duke dhënë një përgjigje edhe demokratëve evropiane. Rama tha se prej 101 ditësh protesta është zhvilluar pa probleme sa i përket të drejtës për tubim, por theksoi se pengimi fizik i depute",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-09T19:17:57+00:00",
-      "dateStr": "09 Sep, 19:17",
+      "date": "2026-09-09T21:22:08+00:00",
+      "dateStr": "09 Sep, 21:22",
       "isNew": true,
-      "id": "24 51788981477"
+      "id": "abc31788988928"
     },
     {
-      "title": "Dita e 102-të e protestës, qytetarët mblidhen para Kryeministrisë. Disa protestues bllokojnë qarkullimin (VIDEO)",
-      "link": "https://24-ore.com/dita-e-102-te-e-protestes-qytetaret-mblidhen-para-kryeministrise-disa-protestues-bllokojne-qarkullimin-video/",
-      "description": "Protesta e aktivistëve dhe qytetarëve në Tiranë hyri këtë të mërkurë në ditën e saj të 102-të ndërsa si çdo pasdite, pas orës 19:00, ata u mblodhën fillimisht në sheshin “Skënderbej”, ku vijuan me thirrjet “Ju erdhi fundi”, “Shqipëri e re”, “Rama jep dorëheqjen”, ” Rama në burg, Berisha në burg”, et",
+      "title": "Përplasjet në protestë: Rama sfidon Demokratët Evropianë: Hajde, ji i guximshëm dhe dënoje! Kjo është dhunë",
+      "link": "https://24-ore.com/perplasjet-ne-proteste-rama-sfidon-demokratet-evropiane-hajde-ji-i-guximshem-dhe-denoje-kjo-eshte-dhune/",
+      "description": "Kryeministri Edi Rama ka reaguar sërish ndaj Demokratëve Evropianë lidhur me protestat në Tiranë, duke u ndalur te incidenti ku protestuesit rrethuan dhe goditën makinën e një qytetari. Me anë të një postimi në rrjetet sociale, Rama kërkon që edhe ky episod të dënohet qartë, duke e cilësuar si dhunë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-09T19:17:38+00:00",
-      "dateStr": "09 Sep, 19:17",
+      "date": "2026-09-09T21:16:24+00:00",
+      "dateStr": "09 Sep, 21:16",
       "isNew": true,
-      "id": "24 61788981458"
+      "id": "24 21788988584"
     },
     {
-      "title": "La makinën ndezur për pak çaste, 48-vjeçari ia vjedh. Arrestohet nga policia në Pogradec",
-      "link": "https://24-ore.com/la-makinen-ndezur-per-pak-caste-48-vjecari-ia-vjedh-arrestohet-nga-policia-ne-pogradec/",
-      "description": "Një 48-vjeçar është vënë në pranga nga policia në Pogradec. Arrestimi i tij ka ardhur pasi ai vodhi një mjet që ishte i ndaluar në rrugë me bllokazh. Ai është identifikuar si Aurel Hamolli. Ngjarja ka ndodhur mbrëmjen e sotme në lagjen numër 1 të qytetit të Pogradecit. 48-vjeçari ka parë që një mjet",
+      "title": "Rama i përgjigjet EDP-së dhe publikon videon nga protesta: Ky nuk është kundërshtim, është dhunë",
+      "link": "https://24-ore.com/rama-i-pergjigjet-edp-se-dhe-publikon-videon-nga-protesta-ky-nuk-eshte-kundershtim-eshte-dhune/",
+      "description": "Kryeministri Edi Rama ka reaguar në rrjetin social X ndaj qëndrimit të EDP-së (European Democratic Party) për protestat e qytetarëve, duke iu referuar veçanërisht episodeve të dhunës ndaj deputetëve dhe qytetarëve. Rama e ka nisur reagimin me një shprehje latine, të cilën thotë se ia ka mësuar gjysh",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-09T19:17:22+00:00",
-      "dateStr": "09 Sep, 19:17",
+      "date": "2026-09-09T21:16:10+00:00",
+      "dateStr": "09 Sep, 21:16",
       "isNew": true,
-      "id": "24 71788981442"
+      "id": "24 31788988570"
     },
     {
-      "title": "“Protesta me elementë fashistë”, Erion Braçe: Liria politike është kushtetuese",
-      "link": "https://24-ore.com/protesta-me-elemente-fashiste-erion-brace-liria-politike-eshte-kushtetuese/",
-      "description": "Deputeti i Partisë Socialiste, Erion Braçe i ftuar këtë të mërkurë në Euronews Albania në një intervistë me Mirela Milorin ka folur lidhur me ngjarjen e një dite më parë ku disa protestuese ndoqën nga pas dhe ofenduan deputeten Iris Luarasi. Ai theksoi se Briseida Çakërri dhe Luarasi janë ndaluar me",
+      "title": "Jalen Brunson nikoqir i premierës së sezonit 52 të ‘Saturday Night Live’ pas titullit të Knicks",
+      "link": "https://24-ore.com/jalen-brunson-nikoqir-i-premieres-se-sezonit-52-te-saturday-night-live-pas-titullit-te-knicks/",
+      "description": "Jalen Brunson do të jetë nikoqiri i premierës së sezonit të 52-të të emisionit \"Saturday Night Live\" më 26 shtator, pas udhëheqjes së New York Knicks drejt...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-09T19:17:01+00:00",
-      "dateStr": "09 Sep, 19:17",
+      "date": "2026-09-09T21:10:57+00:00",
+      "dateStr": "09 Sep, 21:10",
       "isNew": true,
-      "id": "24 81788981421"
+      "id": "24 41788988257"
     },
     {
-      "title": "Tirana duhet të “shkëputet” nga qeveria, Braçe: Duhet të iki nga “duart” e saj ekonomikisht",
-      "link": "https://24-ore.com/tirana-duhet-te-shkeputet-nga-qeveria-brace-duhet-te-iki-nga-duart-e-saj-ekonomikisht/",
-      "description": "Deputeti i Partisë Socialiste, Erion Braçe i ftuar në Euronews Albania në një intervistë me Mirela Milori, ka deklaruar se disa nga problemet kryesore të kryeqytetit, si pastërtia apo heqja e betonit të tepërt, mund të zgjidhen në një kohë shumë të shkurtër nëse ka vullnet dhe punë të përditshme. Si",
+      "title": "Protestuesit bllokuan makinën e qytetarit, Rama thirrje Demokratëve Europianë: Ky nuk është kundërshtim, është dhunë!",
+      "link": "https://shekulli.com.al/2026/09/09/protestuesit-bllokuan-makinen-e-qytetarit-rama-thirrje-demokrateve-europiane-ky-nuk-eshte-kundershtim-eshte-dhune/",
+      "description": "Kryeministri Edi Rama ka reaguar ashpër pas episodeve të dhunës të shënuara gjatë protestës, duke iu drejtuar edhe Demokratëve Europianë. Rama akuzon politikanët europianë se fillimisht dënuan dhunën ndaj deputetëve, por më pas e minimizuan atë si “akte të izoluara”. Sipas Ramës, protesta prej 101 d",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-09T21:10:38+00:00",
+      "dateStr": "09 Sep, 21:10",
+      "isNew": true,
+      "id": "she01788988238"
+    },
+    {
+      "title": "Connor McDavid: Ndihem i rifreskuar dhe me energji para kampit të Oilers",
+      "link": "https://24-ore.com/connor-mcdavid-ndihem-i-rifreskuar-dhe-me-energji-para-kampit-te-oilers/",
+      "description": "Connor McDavid thotë se ndihet i shëndetshëm, i rifreskuar dhe i motivuar për t’u rikthyer në fushë pas një pushimi të gjatë, ndërsa Edmonton Oilers përgat...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-09T19:16:49+00:00",
-      "dateStr": "09 Sep, 19:16",
+      "date": "2026-09-09T21:07:11+00:00",
+      "dateStr": "09 Sep, 21:07",
       "isNew": true,
-      "id": "24 91788981409"
+      "id": "24 51788988031"
+    },
+    {
+      "title": "Pagat e magjistratëve, 5 vite përplasje me qeverinë! Si nisi konflikti dhe pse u bllokuan rrogat",
+      "link": "https://24-ore.com/pagat-e-magjistrateve-5-vite-perplasje-me-qeverine-si-nisi-konflikti-dhe-pse-u-bllokuan-rrogat/",
+      "description": "Konflikti mes qeverisë e Kuvendit nga njëra anë dhe gjyqtarëve e prokurorëve nga ana tjetër për pagat në sistemin e drejtësisë është një betejë mbi 5-vjeçare. Nisi me një ndryshim ligjor të vitit 2021, një tjetër dy vite më pas, me dy vendime të gjykatës kushtetuese në këtë periudhë dhe që kulmoi kë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-09T21:01:24+00:00",
+      "dateStr": "09 Sep, 21:01",
+      "isNew": true,
+      "id": "24 61788987684"
+    },
+    {
+      "title": "Avokati përplaset me organizatorin e protestës: Ju paguan Sali Berisha o shpellarë, jeni korba e sorra!",
+      "link": "https://24-ore.com/avokati-perplaset-me-organizatorin-e-protestes-ju-paguan-sali-berisha-o-shpellare-jeni-korba-e-sorra/",
+      "description": "Juristi Ilir Xhemalaj, i cili është edhe një prej organizatorëve të protestave në Tiranë dhe avokati Idajet Beqiri janë ‘përplasur’ mbrëmjen e sotme në studion e emisionit ‘Repolitix’ me gazetarin Denis Minga në Report Tv, për protestat që po zhvillohen në kryeqytet. Beqiri akuzoi protestuesit dhe o",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-09T21:01:08+00:00",
+      "dateStr": "09 Sep, 21:01",
+      "isNew": true,
+      "id": "24 71788987668"
+    },
+    {
+      "title": "BRUKSEL – BE jep 115 milionë euro për të ndihmuar Spanjën me krizën e migracionit në Ceuta",
+      "link": "https://24-ore.com/bruksel-be-jep-115-milione-euro-per-te-ndihmuar-spanjen-me-krizen-e-migracionit-ne-ceuta/",
+      "description": "BRUKSEL 9 shtator /ATSH-DPA/ – Bashkimi Evropian do t’i akordojë Spanjës rreth 115 milionë euro për të përballuar krizën e migracionit në enklavën spanjolle të Ceutës, në Afrikën e Veriut. Sipas Komisionit Evropian, fondet do të përdoren për forcimin e mbrojtjes dhe mbikëqyrjes së kufirit, si dhe pë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-09T21:00:07+00:00",
+      "dateStr": "09 Sep, 21:00",
+      "isNew": true,
+      "id": "24 81788987607"
+    },
+    {
+      "title": "Hamza: Kurti e di qëndrimin e PDK-së, nuk është çështje emrash për nënkryetarët e Kuvendit",
+      "link": "https://24-ore.com/hamza-kurti-e-di-qendrimin-e-pdk-se-nuk-eshte-ceshtje-emrash-per-nenkryetaret-e-kuvendit/",
+      "description": "Kryetari i PDK-së, Bedri Hamza, ka deklaruar se çështja e zgjedhjes së nënkryetarëve të Kuvendit nuk lidhet me emrat e kandidatëve, por me respektimin e Kushtetutës dhe rregullave për përfaqësimin e subjekteve politike. Në një lidhje telefonike në Debat Plus, Hamza tha se qëndrimi i PDK-së është i q",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-09T20:56:02+00:00",
+      "dateStr": "09 Sep, 20:56",
+      "isNew": true,
+      "id": "24 91788987362"
+    },
+    {
+      "title": "Kush është ambasadorja që i kërkoi të bashkohej me Ramën? Adriatik Lapaj s’e mohon: Herën e parë më erdhi një biznesmen",
+      "link": "https://shekulli.com.al/2026/09/09/kush-eshte-ambasadorja-qe-i-kerkoi-te-bashkohej-me-ramen-adriatik-lapaj-se-mohon-heren-e-pare-me-erdhi-nje-biznesmen/",
+      "description": "Kryetari i partisë “Shqipëria Bëhet”, Adriatik Lapaj, tha sot në Euronews se gjatë vitit të kaluar është kontaktuar për t’u bërë pjesë e qeverisë, duke pretenduar se ofertat përfshinin postin e zëvendëskryeministrit dhe dy ministri. Lapaj tha se oferta është bërë në dy raste, më 30 qershor dhe më 11",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-09T20:53:30+00:00",
+      "dateStr": "09 Sep, 20:53",
+      "isNew": true,
+      "id": "she11788987210"
+    },
+    {
+      "title": "Eksodi i shqiptarëve drejt Barit/ Kryebashkiaku kujton anijen “Vlora” dhe aktin heroik të Enrico Dalfino",
+      "link": "https://abcnews.al/eksodi-i-shqiptareve-drejt-barit-kryebashkiaku-kujton-anijen-vlora-dhe-aktin-heroik-te-enrico-dalfino/",
+      "description": "BARI&#8211; 35 vite pas eksodit të shqiptarëve drejt Barit, kryetari aktual i Bashkisë, Vito Leccese, ka rikujtuar ngjarjet e gushtit 1991 dhe mbërritjen e anijes “Vlora” me mijë shqiptarë në portin e qytetit. Leccese, i cili në atë kohë ishte bashkëpunëtor i kryebashkiakut Enrico Dalfino, tregon se",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-09T20:50:29+00:00",
+      "dateStr": "09 Sep, 20:50",
+      "isNew": true,
+      "id": "abc41788987029"
+    },
+    {
+      "title": "Eksodi drejt Italisë/ Anna Dalfino: Bashkëshorti im ishte i vendosur të ndihmonte shqiptarët",
+      "link": "https://abcnews.al/eksodi-drejt-italise-anna-dalfino-bashkeshorti-im-ishte-i-vendosur-te-ndihmonte-shqiptaret/",
+      "description": "BARI- Anna Dalfino, bashkëshortja e ish-kryebashkiakut të Barit, Enrico Dalfino, ka rrëfyer emocionet dhe vështirësitë që përjetoi familja e saj gjatë eksodit masiv të shqiptarëve në vitin 1991 drejt shtetit fqinj. Në një intervistë për emisionin “Të gjitha rrugët të çojnë në Romë” të gazetarit Artu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-09T20:39:13+00:00",
+      "dateStr": "09 Sep, 20:39",
+      "isNew": true,
+      "id": "abc51788986353"
+    },
+    {
+      "title": "BE dhe Franca investojnë 118 mln euro në Durrës për një sistem të ri trajtimi të ujërave të ndotura",
+      "link": "https://shekulli.com.al/2026/09/09/be-dhe-franca-investojne-118-mln-euro-ne-durres-per-nje-sistem-te-ri-trajtimi-te-ujerave-te-ndotura/",
+      "description": "BE-ja, Agjencia Franceze e Zhvillimit dhe Shqipëria shënuan sot nisjen e fazës së parë të një projekti të madh për përmirësimin e infrastrukturës së ujërave të ndotura të Durrësit në përputhje me standardet e BE-së, duke përmirësuar shërbimet sanitare për qytetarët, ndërkohë që e sjellin Shqipërinë ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-09T20:29:18+00:00",
+      "dateStr": "09 Sep, 20:29",
+      "isNew": true,
+      "id": "she21788985758"
+    },
+    {
+      "title": "Vajza e ish-kryebashkiakut të Barit rrëfen ditët e krizës: Babai im ishte më i shqetësuar për shqiptarët sesa për pasojat politike",
+      "link": "https://abcnews.al/vajza-e-ish-kryebashkiakut-te-barit-rrefen-ditet-e-krizes-babai-im-ishte-me-i-shqetesuar-per-shqiptaret-sesa-per-pasojat-politike/",
+      "description": "BARI- 35 vjet pas mbërritjes së shqiptarëve në Bari, Lidia Dalfino, vajza e ish-kryebashkiakut të qytetit, Enrico Dalfino, ka rrëfyer se si i përjetoi familja ato ditë të vështira dhe vendimin e të atit për të mirëpritur mijëra shqiptarë. Në një intervistë për emisionin “Të gjitha rrugët të çojnë në",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-09T20:27:02+00:00",
+      "dateStr": "09 Sep, 20:27",
+      "isNew": true,
+      "id": "abc61788985622"
+    },
+    {
+      "title": "Gjithë rrugët të çojnë në Romë/ 35-vjetori i mikpritjes së Barit, përkujtohet lidhja mes shqiptarëve dhe italianëve",
+      "link": "https://abcnews.al/gjithe-rruget-te-cojne-ne-rome-35-vjetori-i-mikpritjes-se-barit-perkujtohet-lidhja-mes-shqiptareve-dhe-italianeve/",
+      "description": "BARI- 35-vjetori i mikpritjes së Barit ndaj shqiptarëve është përkujtuar me një aktivitet që riktheu në vëmendje një prej momenteve më të rëndësishme të afrimit mes dy popujve. Presidenti i Portit të Barit, Francesco Mastro, i ftuar në emisionin “Gjithë rrugët të çojnë në Romë” të gazetarit Artur Nu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-09T20:14:24+00:00",
+      "dateStr": "09 Sep, 20:14",
+      "isNew": true,
+      "id": "abc71788984864"
+    },
+    {
+      "title": "Mish kontrabandë në Kakavijë, sekuestrohen 685 kg bërxolla viçi dhe 83 kg peshk në autobusët që vinin nga Athina",
+      "link": "https://shekulli.com.al/2026/09/09/mish-kontrabande-ne-kakavije-sekuestrohen-685-kg-berxolla-vici-dhe-83-kg-peshk-ne-autobuset-qe-vinin-nga-athina/",
+      "description": "Policia Kufitare në Kakavijë ka sekuestruar një sasi të konsiderueshme mishi dhe peshku, që dyshohet se ishte futur kontrabandë në Shqipëri përmes linjave ndërkombëtare të autobusëve që vinin nga Athina. Gjatë kontrolleve, në autobusin e linjës Athinë-Gjirokastër, me drejtues një 54-vjeçar, u zbulua",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-09T20:04:29+00:00",
+      "dateStr": "09 Sep, 20:04",
+      "isNew": true,
+      "id": "she31788984269"
+    },
+    {
+      "title": "Kryeministri norvegjez: Avioni me të cilin udhëtonte Zelensky gati sa nuk u godit nga një dron",
+      "link": "https://abcnews.al/kryeministri-norvegjez-avioni-me-te-cilin-udhetonte-zelensky-gati-sa-nuk-u-godit-nga-nje-dron/",
+      "description": "Kryeministri norvegjez Jonas Gahr Store ka thënë se avioni me të cilin po udhëtonte presidenti ukrainas Volodymyr Zelensky nga Moldavia drejt Oslos, gati sa nuk u godit nga një dron, njofton transmetuesi shtetëror norvegjez “NRK”. Zelensky mbërriti në Norvegji të martën mbrëma për të marrë pjesë në ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-09T19:51:35+00:00",
+      "dateStr": "09 Sep, 19:51",
+      "isNew": true,
+      "id": "abc81788983495"
+    },
+    {
+      "title": "Aeroplani i Zelenskyt i shpëton sulmit me dron rus në Moldavi",
+      "link": "https://shekulli.com.al/2026/09/09/aeroplani-i-zelenskyt-i-shpeton-sulmit-me-dron-rus-ne-moldavi/",
+      "description": "Avioni që transportonte presidentin ukrainas, Volodymyr Zelensky, drejt Oslos për ceremoninë mortore të Mbretit Harald V të Norvegjisë, për pak u godit nga një dron rus gjatë ngritjes nga Moldavia. Lajmin e bëri të ditur kryeministri norvegjez, Jonas Gahr Støre, i cili tha për transmetuesin publik N",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-09T19:50:07+00:00",
+      "dateStr": "09 Sep, 19:50",
+      "isNew": true,
+      "id": "she41788983407"
+    },
+    {
+      "title": "Protestuesit ulen këmbëkryq përpara autobusit në ‘’Rrugën e Elbasanit’’, vijon bllokimi i akseve në Tiranë",
+      "link": "https://shekulli.com.al/2026/09/09/protestuesit-ulen-kembekryq-perpara-autobusit-ne-rrugen-e-elbasanit-vijon-bllokimi-i-akseve-ne-tirane/",
+      "description": "Gjatë ditës së 102-të të protestës në Tiranë, disa prej protestuesve kanë zgjedhur të bllokojnë disa prej akseve kryesore rrugore në kryeqytet. Fillimisht, protestuesit bllokuan qarkullimin te ura e madhe në Unazën e Vogël të qytetit, duke penguar kalimin e automjeteve. Më pas, gjatë marshimit nëpër",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-09T19:40:58+00:00",
+      "dateStr": "09 Sep, 19:40",
+      "isNew": true,
+      "id": "she51788982858"
+    },
+    {
+      "title": "Irani sulmon bazën amerikane në Jordani/ Veliu: Lufta po na atakon edhe ne me çmime të larta të naftës",
+      "link": "https://abcnews.al/irani-sulmon-bazen-amerikane-ne-jordani-veliu-lufta-po-na-atakon-edhe-ne-me-cmime-te-larta-te-naftes/",
+      "description": "Eksperti Lulëzim Veliu ka komentuar zhvillimet e fundit në Lindjen e Mesme, duke thënë se nga Irani ka pasur raportime për sulme ndaj 10 anijeve amerikane. Sipas tij, shteti jordanez e bëri të qartë se qindra raketa u nisën, ndërsa forcat mbrojtëse të Jordanisë arritën t’i neutralizonin. Ai theksoi ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-09T19:35:58+00:00",
+      "dateStr": "09 Sep, 19:35",
+      "isNew": true,
+      "id": "abc91788982558"
     },
     {
       "title": "Sarandë/ 22-vjeçari i arrestuar dëmtoi kamerën e sigurisë dhe disa orendi brenda Komisariatit, pezullohen tre punonjës policie",
@@ -133,29 +298,7 @@
       "date": "2026-09-09T19:08:59+00:00",
       "dateStr": "09 Sep, 19:08",
       "isNew": true,
-      "id": "she01788980939"
-    },
-    {
-      "title": "Analiza/ Mosmarrëveshjet tregtare SHBA–Kanada një “bonus” për Evropën?",
-      "link": "https://abcnews.al/analiza-mosmarreveshjet-tregtare-shba-kanada-nje-bonus-per-evropen/",
-      "description": "Mosmarrëveshjet tregtare mes Shteteve të Bashkuara të Amerikës dhe Kanadasë mund të krijojë mundësi të reja për Gjermaninë dhe Bashkimin Evropian, vlerësojnë shoqatat gjermane të tregtisë. Sipas tyre, vështirësimi i aksesit të kompanive kanadeze në tregun amerikan mund t’i shtyjë ato të kërkojnë tre",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-09T19:00:57+00:00",
-      "dateStr": "09 Sep, 19:00",
-      "isNew": true,
-      "id": "abc11788980457"
-    },
-    {
-      "title": "Dronët rusë godasin pikën kufitare mes Ukrainës dhe Moldavisë, vriten 2 persona",
-      "link": "https://abcnews.al/dronet-ruse-godasin-piken-kufitare-mes-ukraines-dhe-moldavise-vriten-2-persona/",
-      "description": "Dronët rusë goditën një pikëkalim kufitar midis Ukrainës dhe Moldavisë në rajonin jugor të Odesës, duke vrarë dy persona. Kështu kanë bërë me dije zyrtarë ukrainas dhe moldavë; ky veprim është pjesë e përpjekjeve të Moskës për të goditur rrugët tregtare e logjistike dhe për të shkaktuar dëme ekonomi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-09T18:56:15+00:00",
-      "dateStr": "09 Sep, 18:56",
-      "isNew": true,
-      "id": "abc21788980175"
+      "id": "she61788980939"
     },
     {
       "title": "VIDEO/ Protesta numër 102, një pjesë e qytetarëve bllokojnë Unazën e Vogël në Tiranë: Më 12 shtator Diaspora në shesh",
@@ -166,7 +309,7 @@
       "date": "2026-09-09T18:54:24+00:00",
       "dateStr": "09 Sep, 18:54",
       "isNew": true,
-      "id": "she11788980064"
+      "id": "she71788980064"
     },
     {
       "title": "“Zoti President, shpëtojeni!”/ Avokati i Lindsay Clancy i bën kërkesën e papritur Trumpit",
@@ -177,29 +320,7 @@
       "date": "2026-09-09T18:51:49+00:00",
       "dateStr": "09 Sep, 18:51",
       "isNew": true,
-      "id": "she21788979909"
-    },
-    {
-      "title": "Edicioni qendror me Juli Krisafi, (09/09/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-09-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-09T18:39:18+00:00",
-      "dateStr": "09 Sep, 18:39",
-      "isNew": true,
-      "id": "abc31788979158"
-    },
-    {
-      "title": "Tirana Live me Rovena Nezirin, (09/09/2026)",
-      "link": "https://abcnews.al/tirana-live-me-rovena-nezirin-09-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-09T18:36:06+00:00",
-      "dateStr": "09 Sep, 18:36",
-      "isNew": true,
-      "id": "abc41788978966"
+      "id": "she81788979909"
     },
     {
       "title": "EMRI/ Pogradecari i futet aventurës, vjedh makinën që i kishte çelësat në kroskot, arrestohet pas disa minutash",
@@ -210,128 +331,7 @@
       "date": "2026-09-09T18:34:27+00:00",
       "dateStr": "09 Sep, 18:34",
       "isNew": true,
-      "id": "she31788978867"
-    },
-    {
-      "title": "AKU i bllokoi sallamin Galbanetto, Conad për SHEKULLIN: Nuk ka dalë asnjëherë në shitje dhe nuk ka arritur te konsumatorët",
-      "link": "https://shekulli.com.al/2026/09/09/aku-i-bllokoi-sallamin-galbanetto-conad-per-shekullin-nuk-ka-dale-asnjehere-ne-shitje-dhe-nuk-ka-arritur-te-konsumatoret/",
-      "description": "Autoriteti Kombëtar i Ushqimit (AKU) lajmëroi sot konsumatorët në lidhje me një produkt, i cili nuk duhet të konsumohet. Sipas njoftimit të AKU-së, bëhet fjalë për produktin SALAME GALBANETTO G230 c.a, i cili tregtohet nga rrjeti i supermarketeve “Conad” në vendin tonë. Mirëpo ‘’Conad’’ në një reagi",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-09T18:25:23+00:00",
-      "dateStr": "09 Sep, 18:25",
-      "isNew": true,
-      "id": "she41788978323"
-    },
-    {
-      "title": "Spanja përjetoi verën më të nxehtë në historinë e matjeve të temperaturës",
-      "link": "https://abcnews.al/spanja-perjetoi-veren-me-te-nxehte-ne-historine-e-matjeve-te-temperatures/",
-      "description": "Spanja ka përjetuar verën më të nxehtë që nga fillimi i regjistrimeve meteorologjike në vitin 1961. Agjencia Kombëtare Meteorologjike e Spanjës, AEMET, raportoi se gjatë muajve qershor, korrik dhe gusht u regjistruan plot 61 ditë me valë të të nxehtit, një rekord i ri. Temperatura mesatare gjatë kët",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-09T18:17:37+00:00",
-      "dateStr": "09 Sep, 18:17",
-      "isNew": true,
-      "id": "abc51788977857"
-    },
-    {
-      "title": "Sot dita e 102-të e protestës në Tiranë, qytetarët marshojnë drejt Kryeministrisë: Shqipëria kërkon Revolucion",
-      "link": "https://shekulli.com.al/2026/09/09/sot-dita-e-102-te-e-protestes-ne-tirane-qytetaret-marshojne-drejt-kryeministrise-shqiperia-kerkon-revolucion/",
-      "description": "TIRANË &#8211; Po zhvillohet mbrëmjen e kësaj të mërkure protesta e 102-të radhazi kundër qeverisë dhe klasës politike në Shqipëri. Tubimi u nis nga ‘’Sheshi Skënderbej’’, ndërsa qytetarët vijuan lëvizjen përgjatë bulevardit “Dëshmorët e Kombit”. Me flamuj kombëtarë në duar, protestuesit kanë bërë t",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-09T18:08:15+00:00",
-      "dateStr": "09 Sep, 18:08",
-      "isNew": true,
-      "id": "she51788977295"
-    },
-    {
-      "title": "Zjarr në Topojë të Fierit, digjen pemë dhe shkurre",
-      "link": "https://abcnews.al/zjarr-ne-topoje-te-fierit-digjen-peme-dhe-shkurre/",
-      "description": "Një zjarr ka përfshirë një sipërfaqe toke në Topojë të Fierit, ku raportohet se po digjen pemë dhe shkurre. Zjarrfikësit kanë mbërritur në vendngjarje dhe po punojnë për vënien nën kontroll të flakëve. Ndërkohë, ende nuk dihet shkaku i rënies së zjarrit. [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-09T18:02:33+00:00",
-      "dateStr": "09 Sep, 18:02",
-      "isNew": true,
-      "id": "abc61788976953"
-    },
-    {
-      "title": "Shpërthimi në hidrocentralin në Zvicër/ Objekti përfshihet nga flakët, humbin jetën dy persona",
-      "link": "https://abcnews.al/shperthimi-ne-hidrocentralin-ne-zvicer-objekti-perfshihet-nga-flaket-humbin-jeten-dy-persona/",
-      "description": "Dy punëtorë kanë humbur jetën pas shpërthimit në një hidrocentral të vjetër në jug të Zvicrës, njoftuan autoritetet lokale. Ngjarja ka ndodhur në një hidrocentral në fshatin Piota, në kantonin e Ticinos. Sipas policisë, shpërthimi u pasua nga një zjarr, duke përfshirë dy punëtorët, të cilët ndërruan",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-09T17:49:40+00:00",
-      "dateStr": "09 Sep, 17:49",
-      "isNew": true,
-      "id": "abc71788976180"
-    },
-    {
-      "title": "Sulmet e protestuesve ndaj Gjuzit e Luarasit, deputetet e PS-së: Të identifikohen dhunuesit, rishikim të protokollit të sigurisë",
-      "link": "https://shekulli.com.al/2026/09/09/sulmet-e-protestuesve-ndaj-gjuzit-e-luarasit-deputetet-e-ps-se-te-identifikohen-dhunuesit-rishikim-te-protokollit-te-sigurise/",
-      "description": "Deputetet e Partisë Socialiste kanë dënuar sulmet e protestuesve ndaj Iris Luarasit dhe Ilva Gjuzit, duke i cilësuar ato si akte dhune të pajustifikueshme. Përmes një deklarate, deputetet socialiste kërkojnë që autoritetet të marrin masa konkrete për zbardhjen e ngjarjes. Sipas grave të PS-së, polic",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-09T17:43:17+00:00",
-      "dateStr": "09 Sep, 17:43",
-      "isNew": true,
-      "id": "she61788975797"
-    },
-    {
-      "title": "Bllokimi i trafikut ajror në Britani/ Hetimet: Shkak regjistrimi i një fluturimi ushtarak në sistemin civil",
-      "link": "https://abcnews.al/bllokimi-i-trafikut-ajror-ne-britani-hetimet-shkak-regjistrimi-i-nje-fluturimi-ushtarak-ne-sistemin-civil/",
-      "description": "Një plan I një fluturimi Ushtarak I cili u rregjistrua në Sistemin e Fluturimeve Komerciale me kordinata të pasakta , dyshohet se ka sjellë bllokimin e sistemit të trafikut ajror në Mbretërinë e bashkuar duke sjellë kaos në Aeroportet Britanike dhe solli anulimin e më shumë se 2 mijë fluturimeve. Si",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-09T17:30:10+00:00",
-      "dateStr": "09 Sep, 17:30",
-      "isNew": true,
-      "id": "abc81788975010"
-    },
-    {
-      "title": "Balkan Update me Habi Hoxha, (09/09/2026)",
-      "link": "https://abcnews.al/balkan-update-me-habi-hoxha-09-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-09T17:25:01+00:00",
-      "dateStr": "09 Sep, 17:25",
-      "isNew": true,
-      "id": "abc91788974701"
-    },
-    {
-      "title": "Minutat e fundit kritike të Giorgos Mazonakis, këngëtari pësoi arrest kardiak në klinikën private sapo iu vendos serumi",
-      "link": "https://shekulli.com.al/2026/09/09/minutat-e-fundit-kritike-te-giorgos-mazonakis-kengetari-pesoi-arrest-kardiak-ne-kliniken-private-sapo-iu-vendos-serumi/",
-      "description": "Lajmi për vdekjen e papritur të Giorgos Mazonakis, i cili pësoi arrest kardiak ndërsa ndodhej në klinikën Stem Cell në Kolonaki, ka shkaktuar tronditje. Gjithçka nisi këtë pasdite, kur Giorgos Mazonakis shkoi në adresën Karneadou 11, në klinikën e qelizave staminale në fjalë. Ai kishte bërë që një d",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-09T17:22:12+00:00",
-      "dateStr": "09 Sep, 17:22",
-      "isNew": true,
-      "id": "she71788974532"
-    },
-    {
-      "title": "Provat e reja të SPAK, Bardhi: Edhe sa vila duhet t’i zbulohen Ballukut për t’i hequr imunitetin…?",
-      "link": "https://shekulli.com.al/2026/09/09/provat-e-reja-te-spak-bardhi-edhe-sa-vila-duhet-ti-zbulohen-ballukut-per-ti-hequr-imunitetin/",
-      "description": "Kryetari i Grupit Parlamentar të Partisë Demokratike, Gazment Bardhi, ka reaguar pas zhvillimeve të fundit në hetimin e SPAK ndaj ish-zëvendëskryeministres dhe ish-ministres së Infrastrukturës dhe Energjisë, Belinda Balluku. Reagimi i Bardhit vjen pas të dhënave të reja të bëra publike nga Prokurori",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-09T17:05:34+00:00",
-      "dateStr": "09 Sep, 17:05",
-      "isNew": true,
-      "id": "she81788973534"
-    },
-    {
-      "title": "Sekuestrimi i vilës së Ballukut në Palasë, SPAK jep detajet për një biznesmen të përfshirë",
-      "link": "https://shekulli.com.al/2026/09/09/sekuestrimi-i-pronave-ne-palase-balluku-favorizoi-kompanine-e-arber-abazit-alko-impex-i-financoi-punimet-ne-vile/",
-      "description": "Prokuroria e Posaçme (SPAK) ka publikuar të dhëna të reja nga hetimi ndaj ish-zëvendëskryeministres dhe ish-ministres së Infrastrukturës dhe Energjisë, Belinda Balluku. Sipas njoftimit zyrtar të SPAK, hetimet kanë evidentuar dyshime të reja për korrupsion, fshehje pasurie dhe pastrim të produkteve t",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-09T16:49:04+00:00",
-      "dateStr": "09 Sep, 16:49",
-      "isNew": true,
-      "id": "she91788972544"
+      "id": "she91788978867"
     }
   ]
 }
