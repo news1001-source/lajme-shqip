@@ -1,40 +1,161 @@
 {
-  "lastUpdated": "2026-09-10T21:20:29.174847+00:00",
+  "lastUpdated": "2026-09-10T23:38:29.244550+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Haxhiu në Ditën Kombëtare të Zvicrës: Lidhjet mes dy vendeve janë të veçanta",
-      "link": "https://24-ore.com/haxhiu-ne-diten-kombetare-te-zvicres-lidhjet-mes-dy-vendeve-jane-te-vecanta/",
-      "description": "Kryetarja e zgjedhur e Kuvendit të Kosovës, Albulena Haxhiu, ka marrë pjesë të enjten në shënimin e Ditës Kombëtare të Zvicrës, ku ka vlerësuar lart marrëdhëniet mes dy vendeve dhe kontributin e diasporës shqiptare në shoqërinë zvicerane. Haxhiu ka thënë se Kosova dhe Zvicra kanë ndërtuar ndër vite ",
+      "title": "Aksident i rëndë në Zvicër, përmbyset autobusi me 48 turistë holandezë, disa viktima",
+      "link": "https://24-ore.com/aksident-i-rende-ne-zvicer-permbyset-autobusi-me-48-turiste-holandeze-disa-viktima/",
+      "description": "Një autobus turistik është përmbysur në një rrugë malore në lindje të Zvicrës, duke shkaktuar disa viktima dhe të plagosur. Aksidenti ndodhi të enjten në kantonin Graubünden, në luginën Engadine. Policia lokale ka konfirmuar se ka disa persona që kanë humbur jetën, por nuk ka bërë ende publik numrin",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-10T21:16:38+00:00",
-      "dateStr": "10 Sep, 21:16",
+      "date": "2026-09-10T23:16:44+00:00",
+      "dateStr": "10 Sep, 23:16",
       "isNew": true,
-      "id": "24 01789074998"
+      "id": "24 01789082204"
     },
     {
-      "title": "Kurti kërkon marrëveshje me opozitën për nënkryetarët, analistët dyshojnë për qëllimet",
-      "link": "https://24-ore.com/kurti-kerkon-marreveshje-me-opoziten-per-nenkryetaret-analistet-dyshojne-per-qellimet/",
-      "description": "Kuvendi të mërkurën u bë me kryetare të re, por mbeti pa nënkryetar. Si rrjedhojë, kreu i VV-së, Albin Kurti, kërkoi dakordim me liderët opozitarë për këtë çështje. Një ditë para seancës, asnjë indikacion nuk u dha se ka ndonjë pajtim e as që ka pasur përpjekje nga kryeparlamentarja Albulena Haxhiu ",
+      "title": "Pirates mposhtin White Sox 4-2 në Chicago, 10 shtator 2026",
+      "link": "https://24-ore.com/pirates-mposhtin-white-sox-4-2-ne-chicago-10-shtator-2026/",
+      "description": "Pittsburgh Pirates fituan 4-2 ndaj Chicago White Sox në Chicago më 10 shtator 2026. Ndeshja u zhvillua me startuesit J. Jones për Pirates (3-6, 4.46 ERA) d...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-10T21:11:42+00:00",
-      "dateStr": "10 Sep, 21:11",
+      "date": "2026-09-10T23:08:15+00:00",
+      "dateStr": "10 Sep, 23:08",
       "isNew": true,
-      "id": "24 11789074702"
+      "id": "24 11789081695"
     },
     {
-      "title": "Bruno Damiani i Philadelphia Union shpallet Lojtari i Javës pas hat-trickut ndaj FC Cincinnati",
-      "link": "https://24-ore.com/bruno-damiani-i-philadelphia-union-shpallet-lojtari-i-javes-pas-hat-trickut-ndaj-fc-cincinnati/",
-      "description": "Bruno Damiani, sulmuesi 24-vjeçar i Philadelphia Union, realizoi hat-trickun e parë në karrierë në MLS dhe ndihmoi ekipin të fitojë 5-0 ndaj FC Cincinnati....",
+      "title": "Wendel Clark kujton Barry Melrose: ‘Ai ishte thjesht një njeri i madh’",
+      "link": "https://24-ore.com/wendel-clark-kujton-barry-melrose-ai-ishte-thjesht-nje-njeri-i-madh/",
+      "description": "Barry Melrose, trajner i njohur dhe komentator i ESPN, u nda nga jeta të mërkurën në moshën 70 vjeçare. Wendel Clark, legjendë e Toronto Maple Leafs dhe ku...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-10T21:06:46+00:00",
-      "dateStr": "10 Sep, 21:06",
+      "date": "2026-09-10T23:07:09+00:00",
+      "dateStr": "10 Sep, 23:07",
       "isNew": true,
-      "id": "24 21789074406"
+      "id": "24 21789081629"
+    },
+    {
+      "title": "Një shfaqje surprizë e Princeshës Kate në mbështetje të iniciativës së Princit William për parandalimin e vetëvrasjeve",
+      "link": "https://24-ore.com/nje-shfaqje-surprize-e-princeshes-kate-ne-mbeshtetje-te-iniciatives-se-princit-william-per-parandalimin-e-vetevrasjeve/",
+      "description": "Princi William organizoi në mëngjes një ngjarje për parandalimin e vetëvrasjeve në stadiumin Hill Dickinson në Liverpool, ku bashkëpunoi me figura të njohu...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-10T23:00:57+00:00",
+      "dateStr": "10 Sep, 23:00",
+      "isNew": true,
+      "id": "24 31789081257"
+    },
+    {
+      "title": "Robert Lewandowski dhe Chicago Fire presin New England Revolution në Soldier Field",
+      "link": "https://24-ore.com/robert-lewandowski-dhe-chicago-fire-presin-new-england-revolution-ne-soldier-field/",
+      "description": "Chicago Fire FC do të presë New England Revolution të dielën, 13 shtator, në Soldier Field në Chicago në një përballje që mund të ndikojë në renditjen e Ko...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-10T22:35:39+00:00",
+      "dateStr": "10 Sep, 22:35",
+      "isNew": true,
+      "id": "24 41789079739"
+    },
+    {
+      "title": "New York Yankees–Colorado Rockies, 10 shtator 2026: përballja në Yankee Stadium",
+      "link": "https://24-ore.com/new-york-yankees-colorado-rockies-10-shtator-2026-perballja-ne-yankee-stadium/",
+      "description": "Më 10 shtator 2026, New York Yankees pritën Colorado Rockies në Yankee Stadium në Bronx për një ndeshje të rëndësishme të pjesës së fundit të sezonit. Star...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-10T22:25:35+00:00",
+      "dateStr": "10 Sep, 22:25",
+      "isNew": true,
+      "id": "24 51789079135"
+    },
+    {
+      "title": "Braeden Bowman nënshkruan kontratë 6-vjeçare me Vegas Golden Knights",
+      "link": "https://24-ore.com/braeden-bowman-nenshkruan-kontrate-6-vjecare-me-vegas-golden-knights/",
+      "description": "Braeden Bowman nënshkroi një kontratë gjashtëvjeçare me Vegas Golden Knights, me vlerë totale 20.4 milionë dollarë. Marrëveshja ka një mesatare vjetore pre...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-10T22:22:47+00:00",
+      "dateStr": "10 Sep, 22:22",
+      "isNew": true,
+      "id": "24 61789078967"
+    },
+    {
+      "title": "Parashikimet dhe analizat për Javën 1 të sezonit 2026 në futbollin amerikan",
+      "link": "https://24-ore.com/parashikimet-dhe-analizat-per-javen-1-te-sezonit-2026-ne-futbollin-amerikan/",
+      "description": "Redaktorët e stafit paraqitën parashikimet e Javës 1 të sezonit 2026, duke ofruar rezultatet e pritshme dhe arsyetimet kryesore për ndeshjet hapëse të kamp...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-10T22:21:47+00:00",
+      "dateStr": "10 Sep, 22:21",
+      "isNew": true,
+      "id": "24 71789078907"
+    },
+    {
+      "title": "“Akuzat e Dick Marty-t nuk çuan askund”, Thaçi: Ishin justifikim për themelimin e Speciales",
+      "link": "https://24-ore.com/akuzat-e-dick-marty-t-nuk-cuan-askund-thaci-ishin-justifikim-per-themelimin-e-speciales/",
+      "description": "Në një intervistë nga Haga në ‘Top Story’, ish presidenti Hashim Thaçi hodhi poshtë akuzat për trafikim organesh të ngritura pas raportit të Dick Marty-t, duke i cilësuar hetimet si një justifikim për themelimin e Gjykatës Speciale. Thaçi argumenton se UÇK-ja është hetuar dhe gjykuar më shumë se çdo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-10T22:06:40+00:00",
+      "dateStr": "10 Sep, 22:06",
+      "isNew": true,
+      "id": "24 81789078000"
+    },
+    {
+      "title": "Thaçi nga Haga: U përcaktuam për të keqen më të vogël, evituam Rusinë dhe Kinën – Ramës i jam mirënjohës nga zemra",
+      "link": "https://24-ore.com/thaci-nga-haga-u-percaktuam-per-te-keqen-me-te-vogel-evituam-rusine-dhe-kinen-rames-i-jam-mirenjohes-nga-zemra/",
+      "description": "Ish-presidenti i Kosovës, Hashim Thaçi, në intervistën ekskluzive për emisionin “Top Story” nga Haga, ka folur për Samitin e NATO-s që do të mbahet në Tiranë, raportet me kryeministrin shqiptar Edi Rama, themelimin e Gjykatës Speciale dhe procesin gjyqësor ndaj tij. Thaçi e ka cilësuar organizimin e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-10T22:01:59+00:00",
+      "dateStr": "10 Sep, 22:01",
+      "isNew": true,
+      "id": "24 91789077719"
+    },
+    {
+      "title": "Gushti 2026, më i nxehti ndonjëherë/ Barazohet rekordi i korrikut 2023",
+      "link": "https://abcnews.al/gushti-2026-me-i-nxehti-ndonjehere-barazohet-rekordi-i-korrikut-2023/",
+      "description": "Gushti 2026 ka qenë muaji më i nxehtë i regjistruar ndonjëherë në botë, duke barazuar rekordin e korrikut 2023, sipas shërbimit klimatik të Bashkimit Evropian, Copernicus. Temperatura mesatare globale gjatë gushtit ishte rreth 1.65 gradë Celsius mbi nivelet para-industriale, duke kaluar për të dytin",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-10T21:50:46+00:00",
+      "dateStr": "10 Sep, 21:50",
+      "isNew": true,
+      "id": "abc01789077046"
+    },
+    {
+      "title": "“Fustani i hakmarrjes” del në shitje/ Në treg një prej veshjeve më ikonike të Princeshë Dianës",
+      "link": "https://abcnews.al/fustani-i-hakmarrjes-del-ne-shitje-ne-treg-nje-prej-veshjeve-me-ikonike-te-princeshe-dianes/",
+      "description": "Një prej fustaneve më ikonike të Princeshës Diana, që njihet si “fustani i hakmarrjes”, do të dalë sërish në ankand pas 30 vitesh. Për herë të fundit, Princesha e veshi më 29 qershor 1994, ditën kur bashkëshorti i saj, Mbreti Charles, pranoi publikisht tradhtinë. Fustani do të ekspozohet në Londër, ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-10T21:40:22+00:00",
+      "dateStr": "10 Sep, 21:40",
+      "isNew": true,
+      "id": "abc11789076422"
+    },
+    {
+      "title": "Qielli i Nju Jorkut, memorial gjigant drite/ 25-vjetori i sulmeve terroriste, mijëra drone ngrenë kullat binjake",
+      "link": "https://abcnews.al/qielli-i-nju-jorkut-memorial-gjigant-drite-25-vjetori-i-sulmeve-terroriste-mijera-drone-ngrene-kullat-binjake/",
+      "description": "Në prag të 25-vjetorit të sulmeve terroriste të 11 Shtatorit 2001, qielli mbi portin e Nju Jorkut u kthye në një memorial gjigant drite. Kullat Binjake u rikthyen për pak minuta në horizontin e Nju Jorkut, këtë herë të krijuara nga mijëra dronë në qiell. 2,977 dronë të ndriçuar u ngritën mbi portin ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-10T21:26:55+00:00",
+      "dateStr": "10 Sep, 21:26",
+      "isNew": true,
+      "id": "abc21789075615"
+    },
+    {
+      "title": "“Drejtësia nuk është SPAK, reforma ka dështuar”/ Ish prokurori: Gjyqet po zgjasin me vite, pasojë e ‘shkencëtarëve’ …",
+      "link": "https://abcnews.al/drejtesia-nuk-eshte-spak-reforma-ka-deshtuar-ish-prokurori-gjyqet-po-zgjasin-me-vite-pasoje-e-shkencetareve/",
+      "description": "Ish-prokurori Ervin Karanxha ka komentuar debatin për pagat e gjyqtarëve dhe prokurorëve, duke thënë se konflikti për këtë çështje është i hershëm dhe se rritja e pagave ka qenë një nga objektivat që në fillim të reformës në drejtësi. Karanxha tha se gjatë reformës në drejtësi janë bërë referime të ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-10T21:21:30+00:00",
+      "dateStr": "10 Sep, 21:21",
+      "isNew": true,
+      "id": "abc31789075290"
     },
     {
       "title": "Gjyqtarët, “bonus” vetes 40 mln euro/ Fatura e rritjes së pagave, për periudhën 2023-2026, shkon në 125 mln euro",
@@ -45,40 +166,7 @@
       "date": "2026-09-10T21:04:17+00:00",
       "dateStr": "10 Sep, 21:04",
       "isNew": true,
-      "id": "abc01789074257"
-    },
-    {
-      "title": "SHBA dhe Franca sigurojnë vendet në gjysmëfinale të Kupës së Botës FIBA 2026",
-      "link": "https://24-ore.com/shba-dhe-franca-sigurojne-vendet-ne-gjysmefinale-te-kupes-se-botes-fiba-2026/",
-      "description": "Shtetet e Bashkuara dhe Franca avancuan në gjysmëfinalet e Kupës së Botës FIBA për femra, duke konfirmuar pritshmëritë pas paraqitjeve të tyre të forta në...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T21:01:27+00:00",
-      "dateStr": "10 Sep, 21:01",
-      "isNew": true,
-      "id": "24 31789074087"
-    },
-    {
-      "title": "Jalen Duren: negociatat e kontratës dhe e ardhmja te Detroit Pistons pas ofertës kualifikuese",
-      "link": "https://24-ore.com/jalen-duren-negociatat-e-kontrates-dhe-e-ardhmja-te-detroit-pistons-pas-ofertes-kualifikuese/",
-      "description": "Sezona 2026-27 e Detroit Pistons po afrohet dhe qendërmbrojtësi Jalen Duren ende nuk ka nënshkruar një kontratë të re. Insajderi i NBA-së Marc Stein tha se...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T21:00:39+00:00",
-      "dateStr": "10 Sep, 21:00",
-      "isNew": true,
-      "id": "24 41789074039"
-    },
-    {
-      "title": "UKRAINË – Zelensky: Nuk do të ketë bisedime trepalëshe për paqen para zgjedhjeve në Rusi",
-      "link": "https://24-ore.com/ukraine-zelensky-nuk-do-te-kete-bisedime-trepaleshe-per-paqen-para-zgjedhjeve-ne-rusi/",
-      "description": "– Presidenti ukrainas Volodymyr Zelensky deklaroi sot se nuk do të zhvillohet një takim trepalësh për mënyrën e përfundimit të luftës në Ukrainë para zgjedhjeve në Rusi, sipas Reuters. Presidenti Zelensky tha se negociatorët ukrainas dhe amerikanë janë në kontakt të vazhdueshëm dhe shprehu shpresën ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T21:00:08+00:00",
-      "dateStr": "10 Sep, 21:00",
-      "isNew": true,
-      "id": "24 51789074008"
+      "id": "abc41789074257"
     },
     {
       "title": "U shfaq në përgjime duke folur për trafik armësh, Arjeta Puca tregon si nisi bashkëpunimin me izraelitin Ron Yeffet",
@@ -92,39 +180,6 @@
       "id": "she01789073811"
     },
     {
-      "title": "Nga tragjedia te gjyqi, Alec Baldwin rrëfen gjithçka: “Doja vetëm të më linin të qetë”",
-      "link": "https://24-ore.com/nga-tragjedia-te-gjyqi-alec-baldwin-rrefen-gjithcka-doja-vetem-te-me-linin-te-qete/",
-      "description": "Alec Baldwin ka folur hapur për tragjedinë në sheshxhirimin e filmit “Rust” dhe procesin gjyqësor që pasoi, duke i cilësuar ato si një nga periudhat më të vështira të jetës së tij. Në trailerin e dokumentarit të ri “The Trial of Alec Baldwin”, aktori 68-vjeçar rrëfen momentet pas vdekjes aksidentale",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T20:48:30+00:00",
-      "dateStr": "10 Sep, 20:48",
-      "isNew": true,
-      "id": "24 61789073310"
-    },
-    {
-      "title": "“Protestuesit dolën sorra, siç tha Rama”, Basha debat me Çepanin: U rrahën me njëri-tjetrin",
-      "link": "https://24-ore.com/protestuesit-dolen-sorra-sic-tha-rama-basha-debat-me-cepanin-u-rrahen-me-njeri-tjetrin/",
-      "description": "Eksperti i sigurisë Faik Basha duke debatuar me aktivisten Edlira Çepani, bëri një dallim mes protestuesve të ditëve të para, që sipas tij ishin qytetarë që bënin publike hallet, me protestuesit aktualë që kanë interesa politike. Duke folur në emisionin “Off the Record” nga Andrea Danglli në A2CNN, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T20:48:04+00:00",
-      "dateStr": "10 Sep, 20:48",
-      "isNew": true,
-      "id": "24 71789073284"
-    },
-    {
-      "title": "Berisha flet nga New Jersey: Vendimi ‘non-grata’ ishte lobim korruptiv i Ramës dhe Sorosit",
-      "link": "https://24-ore.com/berisha-flet-nga-new-jersey-vendimi-non-grata-ishte-lobim-korruptiv-i-rames-dhe-sorosit/",
-      "description": "Kryetari i Partisë Demokratike, Sali Berisha, ka zhvilluar një takim me diasporën shqiptare në New Jersey të Shteteve të Bashkuara të Amerikës, pesë vite pas vendimit të Departamentit Amerikan të Shtetit për ta shpallur atë “non-grata”. Në një intervistë Berisha e ka cilësuar këtë rikthim si një tri",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T20:47:34+00:00",
-      "dateStr": "10 Sep, 20:47",
-      "isNew": true,
-      "id": "24 81789073254"
-    },
-    {
       "title": "Arrestohet 40-vjeçari me pistoletë/ Adrian Gjebeshi u kap me jelek antiplumb dhe 20 mijë euro",
       "link": "https://abcnews.al/arrestohet-ne-hotelin-e-tij-adrian-merlika-40-vjecari-me-precedent-ne-shqiperi-dhe-itali/",
       "description": "Policia e Shtetit ka vënë në pranga Adrian Gjebeshin i njohur dhe si Adrian Merlika. 40-vjeçari është arrestuar në një hotel në pronësi të tij në zonën e Fushë-Krujës pasi është kapur me një armë zjarri pistoletë. Policia ka sekuestruar një armë zjarri, një jelek antiplumb dhe një shumë parash rreth",
@@ -133,7 +188,7 @@
       "date": "2026-09-10T20:44:14+00:00",
       "dateStr": "10 Sep, 20:44",
       "isNew": true,
-      "id": "abc11789073054"
+      "id": "abc51789073054"
     },
     {
       "title": "Kompania shtetërore “KAYO” e përfshirë në trafik armësh? Administratori Ardi Veliu reagon për akuzat e Arben Ahmetajt",
@@ -147,17 +202,6 @@
       "id": "she11789072577"
     },
     {
-      "title": "GJENEVË – Njëzet e tetë të vdekur dhe disa të plagosur nga përmbysja e një autobusi holandez",
-      "link": "https://24-ore.com/gjeneve-njezet-e-tete-te-vdekur-dhe-disa-te-plagosur-nga-permbysja-e-nje-autobusi-holandez/",
-      "description": "GJENEVË, 10 shtator /ATSH-DPA/ – 21 belgë dhe 7 holandeze kanë humbur jetën dhe të tjerë janë plagosur në një aksident të rëndë me autobus në lindje të Zvicrës, njoftoi sonte policia në mbrëmje. Aksidenti ndodhi në kantonin Graubunden, në rrugën mes qyteteve Susch dhe Zernez. Sipas medieve zvicerane",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T20:30:57+00:00",
-      "dateStr": "10 Sep, 20:30",
-      "isNew": true,
-      "id": "24 91789072257"
-    },
-    {
       "title": "Nëntë stacione të metrosë së Shën Petersburgut do të shndërrohen në bunkerë",
       "link": "https://abcnews.al/nente-stacione-te-metrose-se-shen-petersburgut-do-te-shnderrohen-ne-bunkere/",
       "description": "Metroja e Shën Petersburgut po përgatitet të përshtatë infrastrukturën e saj për të përmbushur edhe “funksione mbrojtëse”, në kuadër të përgatitjeve për sulme të mundshme ajrore. Lajmi është publikuar nga gazeta lokale Fontanka, e cila ka bërë të ditur edhe tenderin përkatës. Sipas specifikimeve tek",
@@ -166,7 +210,7 @@
       "date": "2026-09-10T20:29:52+00:00",
       "dateStr": "10 Sep, 20:29",
       "isNew": true,
-      "id": "abc21789072192"
+      "id": "abc61789072192"
     },
     {
       "title": "E rëndë në Korfuz/ 51-vjeçari shqiptar akuzohet për përdhunimin e mbesës së tij 8-vjeçare",
@@ -177,7 +221,7 @@
       "date": "2026-09-10T20:24:39+00:00",
       "dateStr": "10 Sep, 20:24",
       "isNew": true,
-      "id": "abc31789071879"
+      "id": "abc71789071879"
     },
     {
       "title": "Video/ Përshkallëzohet protesta! Banorët e Patos-Marinzës ngujohen në zyrat e “Bankers Petroleum”",
@@ -199,7 +243,7 @@
       "date": "2026-09-10T20:18:11+00:00",
       "dateStr": "10 Sep, 20:18",
       "isNew": true,
-      "id": "abc41789071491"
+      "id": "abc81789071491"
     },
     {
       "title": "Kanadaja do të prodhojë 1 milion dronë për dy vjet, një e treta do t’i dërgohet Ukrainës",
@@ -210,7 +254,7 @@
       "date": "2026-09-10T20:08:55+00:00",
       "dateStr": "10 Sep, 20:08",
       "isNew": true,
-      "id": "abc51789070935"
+      "id": "abc91789070935"
     },
     {
       "title": "Ku shkuan 160 mijë eurot e mbledhura për nënë Filen dhe djalin e saj? Mes akuzave, reagon organizata që hapi “GoFundMe”",
@@ -222,17 +266,6 @@
       "dateStr": "10 Sep, 20:08",
       "isNew": true,
       "id": "she31789070899"
-    },
-    {
-      "title": "BE synon të kufizojë qiratë afatshkurtra si Airbnb",
-      "link": "https://abcnews.al/be-synon-te-kufizoje-qirate-afatshkurtra-si-airbnb/",
-      "description": "BE-ja ka propozuar rregulla të përbashkëta për të mbështetur qiratë afatgjata në qytetet me fluks të lartë turistik. Airbnb paralajmëron se plani krijon pasiguri për pronarët, pa garantuar më shumë banesa për qira afatgjatë. Bashkimi Europian ka prezantuar një plan për strehimin e përballueshëm, me ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-10T19:50:35+00:00",
-      "dateStr": "10 Sep, 19:50",
-      "isNew": true,
-      "id": "abc61789069835"
     },
     {
       "title": "Video/ Dy viktima nga moti i keq! Tornadoja i merr jetën gruas",
@@ -257,17 +290,6 @@
       "id": "she51789068672"
     },
     {
-      "title": "Houthi një kërcënim rajonal/ Krisafi: Arabia Saudite përballet me një dështim të madh",
-      "link": "https://abcnews.al/houthi-nje-kercenim-rajonal-krisafi-arabia-saudite-perballet-me-nje-deshtim-te-madh/",
-      "description": "Eksperti Ledion Krisafi ka komentuar situatën në Lindjen e Mesme, duke u ndalur te rëndësia strategjike e Ngushticës së Hormuzit dhe Bab el-Mandeb, si dhe te përballja me rebelët Houthi. Krisafi thekson se Ngushtica e Hormuzit dhe Bab el-Mandeb janë ndër pesë ngushticat më të rëndësishme në botë, me",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-10T19:28:20+00:00",
-      "dateStr": "10 Sep, 19:28",
-      "isNew": true,
-      "id": "abc71789068500"
-    },
-    {
       "title": "Asnjë gjurmë prej tij për 8 vite, Gjykata shpall zyrtarisht të zhdukur Elvis Troqen! Misteri që rrethon ngjarjen",
       "link": "https://shekulli.com.al/2026/09/10/asnje-gjurme-prej-tij-per-8-vite-gjykata-shpall-zyrtarisht-te-zhdukur-elvis-troqen-misteri-qe-rrethon-ngjarjen/",
       "description": "Tetë vite pas zhdukjes së 24-vjeçarit Elvis Troqe, Gjykata e Shkallës së Parë e Juridiksionit të Përgjithshëm Vlorë e ka shpallur zyrtarisht të zhdukur të riun. Vendimi i marrë më 15 qershor 2026, është publikuar sot në fletoren zyrtare. Sipas vendimit nr. 281 (61-2025-2587), Gjykata e Shkallës së P",
@@ -279,17 +301,6 @@
       "id": "she61789067968"
     },
     {
-      "title": "Emiratet e Bashkuara Arabe investojnë 40 miliardë euro në Gjermani",
-      "link": "https://abcnews.al/emiratet-e-bashkuara-arabe-investojne-40-miliarde-euro-ne-gjermani/",
-      "description": "Emiratet e Bashkuara Arabe planifikojnë të investojnë 40 miliardë euro në ekonominë gjermane, një marrëveshje e shpallur gjatë vizitës shtetërore të presidentit Mohamed bin Zayed Al Nahyan në Berlin. Shuma e re do të ishte më shumë se dyfishi i investimeve të mëparshme të Emirateve në ekonominë gjer",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-10T19:11:13+00:00",
-      "dateStr": "10 Sep, 19:11",
-      "isNew": true,
-      "id": "abc81789067473"
-    },
-    {
       "title": "Eshtrat u gjetën në pyll gati 50 vite më parë, identifikohet viktima: Një vajzë 15-vjeçare që u arratis nga shtëpia",
       "link": "https://shekulli.com.al/2026/09/10/eshtrat-u-gjeten-ne-pyll-gati-50-vite-me-pare-identifikohet-viktima-nje-vajze-15-vjecare-qe-u-arratis-nga-shtepia/",
       "description": "Një mister 49-vjeçar është zgjidhur në Shtetet e Bashkuara të Amerikës. &#160;Eshtrat e zbuluara në vitin 1977 në Karolinën e Veriut janë identifikuar si ato të një vajze 15-vjeçare që ishte arratisur nga shtëpia. Më 29 dhjetor 1977, mbetje skeletore dhe rroba u zbuluan në një zonë të pyllëzuar pran",
@@ -299,17 +310,6 @@
       "dateStr": "10 Sep, 19:04",
       "isNew": true,
       "id": "she71789067046"
-    },
-    {
-      "title": "Trump “korrigjon” veten: Lufta me Iranin mund të përfundojë para zgjedhjeve të mesmandatit",
-      "link": "https://abcnews.al/trump-korrigjon-veten-lufta-me-iranin-mund-te-perfundoje-para-zgjedhjeve-te-mesmandatit/",
-      "description": "Presidenti i SHBA, Donald Trump, tha të enjten se lufta me Iranin mund të përfundojë para zgjedhjeve të mesmandatit të 3 nëntorit, një ditë pasi kishte parashikuar se ajo do të përfundonte menjëherë pas tyre. “Nuk e di nëse ata do të jenë në gjendje të rezistojnë. Por kjo do të zgjidhet pas zgjedhje",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-10T19:01:58+00:00",
-      "dateStr": "10 Sep, 19:01",
-      "isNew": true,
-      "id": "abc91789066918"
     },
     {
       "title": "Kush po e përçan protestën/ Zërat pro dhe kundër mosbindjes civile: Diversantët e policisë po prodhojnë konflikt me qytetarët",
