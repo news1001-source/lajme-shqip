@@ -1,29 +1,117 @@
 {
-  "lastUpdated": "2026-09-09T22:11:31.366948+00:00",
+  "lastUpdated": "2026-09-10T00:46:51.709943+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Caitlin Clark e mikrofonuar gjatë stërvitjes së Team USA për Kupën Botërore 2026",
-      "link": "https://24-ore.com/caitlin-clark-e-mikrofonuar-gjate-stervitjes-se-team-usa-per-kupen-boterore-2026/",
-      "description": "Një video nga stërvitja e Team USA tregon Caitlin Clark të lidhur me mikrofonin ndërsa skuadra përgatitej për Kupën Botërore të FIBA 2026. Ylli i skuadrës,...",
+      "title": "Kreider do t’i mbyllet kontrata me Ducks dhe pritet të bëhet agjent i lirë",
+      "link": "https://24-ore.com/kreider-do-ti-mbyllet-kontrata-me-ducks-dhe-pritet-te-behet-agjent-i-lire/",
+      "description": "Anaheim Ducks vendosën të vënë Chris Kreider në waivers të pakushtëzuar me qëllim mbylljen e kontratës së tij. 35-vjeçari u vendos në listë këtë të mërkurë...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-09T21:55:37+00:00",
-      "dateStr": "09 Sep, 21:55",
+      "date": "2026-09-10T00:42:51+00:00",
+      "dateStr": "10 Sep, 00:42",
       "isNew": true,
-      "id": "24 01788990937"
+      "id": "24 01789000971"
     },
     {
-      "title": "Aaron Judge rikthehet te Yankees dhe përshëndetet me duartrokitje në këmbë pas tre muajsh mungesë",
-      "link": "https://24-ore.com/aaron-judge-rikthehet-te-yankees-dhe-pershendetet-me-duartrokitje-ne-kembe-pas-tre-muajsh-mungese/",
-      "description": "Aaron Judge u rikthye në fushë për New York Yankees gjatë fitores 5-3 ndaj Colorado Rockies, dhe e përshkroi rikthimin si një ndjesi pozitive. Ai përfundoi...",
+      "title": "Një citat i fuqishëm i Jaylen Brown: ‘Pa frikë’ dhe reflektime për trashëgiminë",
+      "link": "https://24-ore.com/nje-citat-i-fuqishem-i-jaylen-brown-pa-frike-dhe-reflektime-per-trashegimine/",
+      "description": "Para kampit të tij të parë stërvitor me Philadelphia 76ers, Jaylen Brown ka ndarë idetë e tij rreth mënyrës së të vepruarit dhe asaj që dëshiron të lërë pa...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-09T21:51:20+00:00",
-      "dateStr": "09 Sep, 21:51",
+      "date": "2026-09-10T00:02:36+00:00",
+      "dateStr": "10 Sep, 00:02",
       "isNew": true,
-      "id": "24 11788990680"
+      "id": "24 11788998556"
+    },
+    {
+      "title": "Denzel Ward blen pjesë të minorancës te Cleveland Guardians dhe i bashkohet grupit pronar",
+      "link": "https://24-ore.com/denzel-ward-blen-pjese-te-minorances-te-cleveland-guardians-dhe-i-bashkohet-grupit-pronar/",
+      "description": "Denzel Ward, cornerback i Cleveland Browns, është bërë anëtar i grupit pronar të Cleveland Guardians pas blerjes së një pjesë të minorancës. Në një deklara...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-10T00:01:46+00:00",
+      "dateStr": "10 Sep, 00:01",
+      "isNew": true,
+      "id": "24 21788998506"
+    },
+    {
+      "title": "Leo Carlsson i gatshëm për të përmbushur pritshmëritë pas kontratës me Anaheim Ducks",
+      "link": "https://24-ore.com/leo-carlsson-i-gatshem-per-te-permbushur-pritshmerite-pas-kontrates-me-anaheim-ducks/",
+      "description": "Leo Carlsson, qendra 21-vjeçare, thotë se nuk ndjen presion pavarësisht kontratës pesëvjeçare me Anaheim Ducks në vlerë 90 milionë dollarë. Ducks barazuan...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-10T00:00:37+00:00",
+      "dateStr": "10 Sep, 00:00",
+      "isNew": true,
+      "id": "24 31788998437"
+    },
+    {
+      "title": "Çerekfinalet e Botërorit të FIBA-së 2026: skuadrat e kualifikuara, orari dhe parashikimet",
+      "link": "https://24-ore.com/cerekfinalet-e-boterorit-te-fiba-se-2026-skuadrat-e-kualifikuara-orari-dhe-parashikimet/",
+      "description": "Kanë përfunduar ndeshjet e fazës grupore dhe janë përcaktuar tetë skuadrat që do të luftojnë për titullin në fundjavën finale të Botërorit të FIBA-së 2026:...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-09T23:21:23+00:00",
+      "dateStr": "09 Sep, 23:21",
+      "isNew": true,
+      "id": "24 41788996083"
+    },
+    {
+      "title": "Atlanta Braves dhe Tampa Bay Rays përballen në Truist Park më 9 shtator 2026",
+      "link": "https://24-ore.com/atlanta-braves-dhe-tampa-bay-rays-perballen-ne-truist-park-me-9-shtator-2026/",
+      "description": "Më 9 shtator 2026, në Truist Park të Atlanta u zhvillua përballja mes Atlanta Braves dhe Tampa Bay Rays. Për Rays nisi G. Jax (6-10, 3.82 ERA), ndërsa për...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-09T23:17:45+00:00",
+      "dateStr": "09 Sep, 23:17",
+      "isNew": true,
+      "id": "24 51788995865"
+    },
+    {
+      "title": "Gavin McKenna banohet me familjen e John Tavares para debutimit te Toronto Maple Leafs",
+      "link": "https://24-ore.com/gavin-mckenna-banohet-me-familjen-e-john-tavares-para-debutimit-te-toronto-maple-leafs/",
+      "description": "Gavin McKenna, zgjedhja e parë në draftin e NHL-it të vitit 2026, ka nisur jetën si pjesë e familjes së John Tavares te Toronto Maple Leafs dhe ka lënë një...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-09T23:16:49+00:00",
+      "dateStr": "09 Sep, 23:16",
+      "isNew": true,
+      "id": "24 61788995809"
+    },
+    {
+      "title": "New York Yankees përballë Colorado Rockies në Yankee Stadium më 9 shtator 2026",
+      "link": "https://24-ore.com/new-york-yankees-perballe-colorado-rockies-ne-yankee-stadium-me-9-shtator-2026/",
+      "description": "Më 9 shtator 2026, New York Yankees pritën Colorado Rockies në Yankee Stadium në Bronx. Startues për Rockies ishte T. Sugano (12-8, 5.20 ERA), ndërsa për Y...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-09T22:35:39+00:00",
+      "dateStr": "09 Sep, 22:35",
+      "isNew": true,
+      "id": "24 71788993339"
+    },
+    {
+      "title": "Quinn Hughes nuk nxitohet për nënshkrimin e kontratës me Wild para fillimit të stërvitjeve",
+      "link": "https://24-ore.com/quinn-hughes-nuk-nxitohet-per-nenshkrimin-e-kontrates-me-wild-para-fillimit-te-stervitjeve/",
+      "description": "Quinn Hughes thotë se nuk ka për qëllim të nënshkruajë menjëherë një marrëveshje të re me Minnesota Wild dhe do të marrë kohën e duhur për të vendosur. Mbr...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-09T22:32:45+00:00",
+      "dateStr": "09 Sep, 22:32",
+      "isNew": true,
+      "id": "24 81788993165"
+    },
+    {
+      "title": "Lista e Kryetares së Kuvendit",
+      "link": "https://24-ore.com/lista-e-kryetares-se-kuvendit/",
+      "description": "Nga Ardit Rada Të mërkurën pasdite, dy ditë pasi Ratko Mladić u varros në Beograd, kryetarja e Kuvendit të Serbisë publikoi një listë. Ana Brnabić e shkroi atë në anglisht dhe ia drejtoi Bashkimit Europian. “Serbia nuk kërkon trajtim të veçantë. Vetëm trajtim të barabartë”, shkroi ajo, duke renditur",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-09T22:17:43+00:00",
+      "dateStr": "09 Sep, 22:17",
+      "isNew": true,
+      "id": "24 91788992263"
     },
     {
       "title": "Apple bën histori/ Prezanton gjeneratën e re të smartfonëve",
@@ -70,39 +158,6 @@
       "id": "abc31788988928"
     },
     {
-      "title": "Përplasjet në protestë: Rama sfidon Demokratët Evropianë: Hajde, ji i guximshëm dhe dënoje! Kjo është dhunë",
-      "link": "https://24-ore.com/perplasjet-ne-proteste-rama-sfidon-demokratet-evropiane-hajde-ji-i-guximshem-dhe-denoje-kjo-eshte-dhune/",
-      "description": "Kryeministri Edi Rama ka reaguar sërish ndaj Demokratëve Evropianë lidhur me protestat në Tiranë, duke u ndalur te incidenti ku protestuesit rrethuan dhe goditën makinën e një qytetari. Me anë të një postimi në rrjetet sociale, Rama kërkon që edhe ky episod të dënohet qartë, duke e cilësuar si dhunë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-09T21:16:24+00:00",
-      "dateStr": "09 Sep, 21:16",
-      "isNew": true,
-      "id": "24 21788988584"
-    },
-    {
-      "title": "Rama i përgjigjet EDP-së dhe publikon videon nga protesta: Ky nuk është kundërshtim, është dhunë",
-      "link": "https://24-ore.com/rama-i-pergjigjet-edp-se-dhe-publikon-videon-nga-protesta-ky-nuk-eshte-kundershtim-eshte-dhune/",
-      "description": "Kryeministri Edi Rama ka reaguar në rrjetin social X ndaj qëndrimit të EDP-së (European Democratic Party) për protestat e qytetarëve, duke iu referuar veçanërisht episodeve të dhunës ndaj deputetëve dhe qytetarëve. Rama e ka nisur reagimin me një shprehje latine, të cilën thotë se ia ka mësuar gjysh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-09T21:16:10+00:00",
-      "dateStr": "09 Sep, 21:16",
-      "isNew": true,
-      "id": "24 31788988570"
-    },
-    {
-      "title": "Jalen Brunson nikoqir i premierës së sezonit 52 të ‘Saturday Night Live’ pas titullit të Knicks",
-      "link": "https://24-ore.com/jalen-brunson-nikoqir-i-premieres-se-sezonit-52-te-saturday-night-live-pas-titullit-te-knicks/",
-      "description": "Jalen Brunson do të jetë nikoqiri i premierës së sezonit të 52-të të emisionit \"Saturday Night Live\" më 26 shtator, pas udhëheqjes së New York Knicks drejt...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-09T21:10:57+00:00",
-      "dateStr": "09 Sep, 21:10",
-      "isNew": true,
-      "id": "24 41788988257"
-    },
-    {
       "title": "Protestuesit bllokuan makinën e qytetarit, Rama thirrje Demokratëve Europianë: Ky nuk është kundërshtim, është dhunë!",
       "link": "https://shekulli.com.al/2026/09/09/protestuesit-bllokuan-makinen-e-qytetarit-rama-thirrje-demokrateve-europiane-ky-nuk-eshte-kundershtim-eshte-dhune/",
       "description": "Kryeministri Edi Rama ka reaguar ashpër pas episodeve të dhunës të shënuara gjatë protestës, duke iu drejtuar edhe Demokratëve Europianë. Rama akuzon politikanët europianë se fillimisht dënuan dhunën ndaj deputetëve, por më pas e minimizuan atë si “akte të izoluara”. Sipas Ramës, protesta prej 101 d",
@@ -112,61 +167,6 @@
       "dateStr": "09 Sep, 21:10",
       "isNew": true,
       "id": "she01788988238"
-    },
-    {
-      "title": "Connor McDavid: Ndihem i rifreskuar dhe me energji para kampit të Oilers",
-      "link": "https://24-ore.com/connor-mcdavid-ndihem-i-rifreskuar-dhe-me-energji-para-kampit-te-oilers/",
-      "description": "Connor McDavid thotë se ndihet i shëndetshëm, i rifreskuar dhe i motivuar për t’u rikthyer në fushë pas një pushimi të gjatë, ndërsa Edmonton Oilers përgat...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-09T21:07:11+00:00",
-      "dateStr": "09 Sep, 21:07",
-      "isNew": true,
-      "id": "24 51788988031"
-    },
-    {
-      "title": "Pagat e magjistratëve, 5 vite përplasje me qeverinë! Si nisi konflikti dhe pse u bllokuan rrogat",
-      "link": "https://24-ore.com/pagat-e-magjistrateve-5-vite-perplasje-me-qeverine-si-nisi-konflikti-dhe-pse-u-bllokuan-rrogat/",
-      "description": "Konflikti mes qeverisë e Kuvendit nga njëra anë dhe gjyqtarëve e prokurorëve nga ana tjetër për pagat në sistemin e drejtësisë është një betejë mbi 5-vjeçare. Nisi me një ndryshim ligjor të vitit 2021, një tjetër dy vite më pas, me dy vendime të gjykatës kushtetuese në këtë periudhë dhe që kulmoi kë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-09T21:01:24+00:00",
-      "dateStr": "09 Sep, 21:01",
-      "isNew": true,
-      "id": "24 61788987684"
-    },
-    {
-      "title": "Avokati përplaset me organizatorin e protestës: Ju paguan Sali Berisha o shpellarë, jeni korba e sorra!",
-      "link": "https://24-ore.com/avokati-perplaset-me-organizatorin-e-protestes-ju-paguan-sali-berisha-o-shpellare-jeni-korba-e-sorra/",
-      "description": "Juristi Ilir Xhemalaj, i cili është edhe një prej organizatorëve të protestave në Tiranë dhe avokati Idajet Beqiri janë ‘përplasur’ mbrëmjen e sotme në studion e emisionit ‘Repolitix’ me gazetarin Denis Minga në Report Tv, për protestat që po zhvillohen në kryeqytet. Beqiri akuzoi protestuesit dhe o",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-09T21:01:08+00:00",
-      "dateStr": "09 Sep, 21:01",
-      "isNew": true,
-      "id": "24 71788987668"
-    },
-    {
-      "title": "BRUKSEL – BE jep 115 milionë euro për të ndihmuar Spanjën me krizën e migracionit në Ceuta",
-      "link": "https://24-ore.com/bruksel-be-jep-115-milione-euro-per-te-ndihmuar-spanjen-me-krizen-e-migracionit-ne-ceuta/",
-      "description": "BRUKSEL 9 shtator /ATSH-DPA/ – Bashkimi Evropian do t’i akordojë Spanjës rreth 115 milionë euro për të përballuar krizën e migracionit në enklavën spanjolle të Ceutës, në Afrikën e Veriut. Sipas Komisionit Evropian, fondet do të përdoren për forcimin e mbrojtjes dhe mbikëqyrjes së kufirit, si dhe pë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-09T21:00:07+00:00",
-      "dateStr": "09 Sep, 21:00",
-      "isNew": true,
-      "id": "24 81788987607"
-    },
-    {
-      "title": "Hamza: Kurti e di qëndrimin e PDK-së, nuk është çështje emrash për nënkryetarët e Kuvendit",
-      "link": "https://24-ore.com/hamza-kurti-e-di-qendrimin-e-pdk-se-nuk-eshte-ceshtje-emrash-per-nenkryetaret-e-kuvendit/",
-      "description": "Kryetari i PDK-së, Bedri Hamza, ka deklaruar se çështja e zgjedhjes së nënkryetarëve të Kuvendit nuk lidhet me emrat e kandidatëve, por me respektimin e Kushtetutës dhe rregullave për përfaqësimin e subjekteve politike. Në një lidhje telefonike në Debat Plus, Hamza tha se qëndrimi i PDK-së është i q",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-09T20:56:02+00:00",
-      "dateStr": "09 Sep, 20:56",
-      "isNew": true,
-      "id": "24 91788987362"
     },
     {
       "title": "Kush është ambasadorja që i kërkoi të bashkohej me Ramën? Adriatik Lapaj s’e mohon: Herën e parë më erdhi një biznesmen",
