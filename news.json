@@ -1,84 +1,304 @@
 {
-  "lastUpdated": "2026-09-11T19:23:48.935406+00:00",
+  "lastUpdated": "2026-09-11T22:09:59.417067+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Bota e sportit nderon 25-vjetorin e 11 Shtatorit me homazhe",
-      "link": "https://24-ore.com/bota-e-sportit-nderon-25-vjetorin-e-11-shtatorit-me-homazhe/",
-      "description": "Ligat, klubet dhe atletët e ndryshëm po kujtojnë sot viktimat e sulmeve terroriste të 11 shtatorit 2001, në përvjetorin e 25-të të ngjarjeve që morën jetën...",
+      "title": "SHBA shënon 25-vjetorin e sulmeve të 11 shtatorit: “Do t’ju kujtojmë gjithmonë”",
+      "link": "https://24-ore.com/shba-shenon-25-vjetorin-e-sulmeve-te-11-shtatorit-do-tju-kujtojme-gjithmone/",
+      "description": "Shtetet e Bashkuara shënuan të premten 25-vjetorin e sulmeve terroriste të 11 shtatorit 2001, me ceremoni solemne te Pentagoni, Ground Zero në New York dhe Shanksville, Pennsylvania. Momentet e heshtjes u mbajtën në orët që shënjojnë çastet kyçe të asaj dite: 8:46 kur avioni i parë goditi kullën ver",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-11T19:21:57+00:00",
-      "dateStr": "11 Sep, 19:21",
+      "date": "2026-09-11T22:07:53+00:00",
+      "dateStr": "11 Sep, 22:07",
       "isNew": true,
-      "id": "24 01789154517"
+      "id": "24 01789164473"
     },
     {
-      "title": "Sulmet e 11 Shtatorit, Ambasada e SHBA: Kujtojmë çdo jetë të humbur, mes tyre edhe tre shqiptaro-amerikanët",
-      "link": "https://shekulli.com.al/2026/09/11/sulmet-e-11-shtatorit-ambasada-e-shba-kujtojme-cdo-jete-te-humbur-mes-tyre-edhe-tre-shqiptaro-amerikanet/",
-      "description": "&#8220;Ne nuk do të harrojmë kurrë&#8221;, kështu është shprehur e ngarkuara me Punë e SHBA në Tiranë, Nancy VanHorn në fjalën e saj në përkujtimin e sulmeve të 11 Shtatorit. Flamuri amerikan është ulur në gjysmështizë në ambasadë, në nder të viktimave të sulmeve terroriste 25 vite më parë në zemër ",
+      "title": "Trump nga memoriali i Pentagonit mbron luftën me Iranin: “Sponsori numër një i terrorit”",
+      "link": "https://24-ore.com/trump-nga-memoriali-i-pentagonit-mbron-luften-me-iranin-sponsori-numer-nje-i-terrorit/",
+      "description": "Presidenti amerikan Donald Trump e shfrytëzoi ceremoninë e 25-vjetorit të sulmeve të 11 shtatorit te Memoriali i Pentagonit për të mbrojtur luftën e vazhdueshme me Iranin, duke e quajtur Teheranin &#8220;sponsorin numër një i terrorit në botë&#8221;. Në fjalimin e mbajtur në Arlington, Virginia — ku",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T22:06:27+00:00",
+      "dateStr": "11 Sep, 22:06",
+      "isNew": true,
+      "id": "24 11789164387"
+    },
+    {
+      "title": "AI po bëhet gjithnjë e më e fuqishme – a do mund ta mbajnë njerëzit nën kontroll?",
+      "link": "https://24-ore.com/ai-po-behet-gjithnje-e-me-e-fuqishme-a-do-mund-ta-mbajne-njerezit-nen-kontroll/",
+      "description": "“O Zot! Kemi gjetur agjentë të tjerë!” – ky ishte reagimi i një agjenti të Al pasi zbuloi një mënyrë për të komunikuar me agjentë të tjerë dhe për të dalë nga mjedisi i izoluar kompjuterik ku ishte vendosur. Mijëra mesazhe të ngjashme janë regjistruar nga qindra agjentë të AI, të cilët nisën ta quan",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T21:58:10+00:00",
+      "dateStr": "11 Sep, 21:58",
+      "isNew": true,
+      "id": "24 21789163890"
+    },
+    {
+      "title": "Djali i Jakup Krasniqit me dedikim emocional para vendimit në Hagë: Më 16 shtator, nëse do të ketë drejtësi, do të jetoni në liri",
+      "link": "https://24-ore.com/djali-i-jakup-krasniqit-me-dedikim-emocional-para-vendimit-ne-hage-me-16-shtator-nese-do-te-kete-drejtesi-do-te-jetoni-ne-liri/",
+      "description": "Altin Krasniqi, djali i ish-kryetarit të Kuvendit dhe ish-zëdhënësit të UÇK-së, Jakup Krasniqit, i ka kushtuar disa vargje babait të tij, pak ditë para shpalljes së vendimit në Hagë. Në një dedikim emocional, Altin Krasniqi ka rikujtuar vitet që babai i tij ka kaluar në paraburgim, duke shprehur shp",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T21:57:54+00:00",
+      "dateStr": "11 Sep, 21:57",
+      "isNew": true,
+      "id": "24 31789163874"
+    },
+    {
+      "title": "“Rrezikohet besimi te drejtësia”, Leka: Absurde që gjyqtarët dhe prokurorët të rrisin vetë pagat e tyre",
+      "link": "https://abcnews.al/rrezikohet-besimi-te-drejtesia-leka-absurde-qe-gjyqtaret-dhe-prokuroret-te-rrisin-vete-pagat-e-tyre/",
+      "description": "TIRANË- Ndërkohë që gjyqtarë e prokurorë u rreshtuan sot përballë shumicës socialiste, me akte dhe vepra, në një përballje të qartë politike, kryeministri Edi Rama ka zgjedhur sërish t’u përgjigjet atyre me estetikë verbale. Me një fjalor të zgjedhur, kryeministri ironizoi shpejtësinë me të cilën to",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-11T21:43:16+00:00",
+      "dateStr": "11 Sep, 21:43",
+      "isNew": true,
+      "id": "abc01789162996"
+    },
+    {
+      "title": "Statuset e lojtarëve para Javës 1 të sezonit 2026: raporti për të gjitha 16 ndeshjet",
+      "link": "https://24-ore.com/statuset-e-lojtareve-para-javes-1-te-sezonit-2026-raporti-per-te-gjitha-16-ndeshjet/",
+      "description": "Para hapjes së sezonit 2026, ekipe të ndryshme paraqitën lista të ndryshme dëmtimesh dhe statusesh për ndeshjet e Javës 1. Më poshtë janë të shënuara gjend...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T21:32:30+00:00",
+      "dateStr": "11 Sep, 21:32",
+      "isNew": true,
+      "id": "24 41789162350"
+    },
+    {
+      "title": "Besimi i konsumatorëve në SHBA bie në shtator: frika nga inflacioni rritet",
+      "link": "https://24-ore.com/besimi-i-konsumatoreve-ne-shba-bie-ne-shtator-frika-nga-inflacioni-rritet/",
+      "description": "Besimi i konsumatorëve amerikanë u përkeqësua në fillim të shtatorit, ndërsa rritja e çmimeve të karburanteve dhe tensionet tregtare ushqyen frikën për inflacion edhe më të lartë në 12 muajt e ardhshëm, tregoi të premten sondazhi i Universitetit të Michiganit. Indeksi i Besimit të Konsumatorit zbrit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T21:28:24+00:00",
+      "dateStr": "11 Sep, 21:28",
+      "isNew": true,
+      "id": "24 51789162104"
+    },
+    {
+      "title": "Kryeministri Rama del në terren: Prania besnike, një eksperiencë krejt ndryshe nga çdo gjë që kam jetuar në politikë",
+      "link": "https://24-ore.com/kryeministri-rama-del-ne-terren-prania-besnike-nje-eksperience-krejt-ndryshe-nga-cdo-gje-qe-kam-jetuar-ne-politike/",
+      "description": "Kryeministri Edi Rama ka zhvilluar një takim me banorë të zonës së Shkozës në Tiranë në kuadër të nismës “Prania besnike”, ku ka ndarë edhe një mesazh në rrjetet sociale. Rama ka publikuar një fotografi nga takimi, ndërsa e cilëson një nga eksperiencat më të veçanta që ka kaluar në politikë. “Prania",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T21:22:39+00:00",
+      "dateStr": "11 Sep, 21:22",
+      "isNew": true,
+      "id": "24 61789161759"
+    },
+    {
+      "title": "Enver Hoxhaj publikon marshin e UÇK-së të vitit 1999: Historia na thërret sërish, Kosova marshon përsëri",
+      "link": "https://24-ore.com/enver-hoxhaj-publikon-marshin-e-uck-se-te-vitit-1999-historia-na-therret-serish-kosova-marshon-perseri/",
+      "description": "Deputeti i PDK-së, Enver Hoxhaj, ka publikuar pamje emocionuese nga marshimi i UÇK-së në Prishtinë, i mbajtur në shtator të vitit 1999. Hoxhaj ka kujtuar se atëherë dhjetëra mijëra qytetarë marshuan për ta nderuar Ushtrinë Çlirimtare të Kosovës, e cila i solli vendit lirinë, në prag të transformimit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T21:17:41+00:00",
+      "dateStr": "11 Sep, 21:17",
+      "isNew": true,
+      "id": "24 71789161461"
+    },
+    {
+      "title": "Dokumentet sekrete të “11 shtatorit”/ Trump deklasifikon 100 faqe, ku flitet për kërcënimet e Al Qaeda",
+      "link": "https://abcnews.al/dokumentet-sekrete-te-11-shtatorit-trump-deklasifikon-100-faqe-ku-flitet-per-kercenimet-e-al-qaeda/",
+      "description": "CIA ka deklasifikuar 71 memorandume të inteligjencës presidenciale që lidhen me Al-Kaedën dhe ish-udhëheqësin e saj, Osama bin Laden, duke hedhur më shumë dritë mbi paralajmërimet që inteligjenca amerikane kishte marrë në vitet dhe muajt para sulmeve të 11 shtatorit 2001. Dokumentet, të bëra publike",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-11T21:13:00+00:00",
+      "dateStr": "11 Sep, 21:13",
+      "isNew": true,
+      "id": "abc11789161180"
+    },
+    {
+      "title": "Rama për Ergys Agasin: Në emrin tim nuk flet askush, unë jam tërësisht i çliruar",
+      "link": "https://24-ore.com/rama-per-ergys-agasin-ne-emrin-tim-nuk-flet-askush-une-jam-teresisht-i-cliruar/",
+      "description": "Kryeministri Edi Rama ka folur sot në podkastin e tij ‘Flasim’ për marrëdhëniet e tij me biznesmenin Ergys Agasi. Rama tha se shumë persona mund të flasin në emrin e tij, por shtoi se ai si kryeministër, nuk ka autorizuar asnjë që të flasë apo të bëjë punët e shtetit në emrin e tij. Më [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T21:01:28+00:00",
+      "dateStr": "11 Sep, 21:01",
+      "isNew": true,
+      "id": "24 81789160488"
+    },
+    {
+      "title": "Zelensky mesazh Rusisë: Nëse sulmoni, do merrni të njëjtën përgjigje",
+      "link": "https://abcnews.al/zelensky-mesazh-rusise-nese-sulmoni-do-merrni-te-njejten-pergjigje/",
+      "description": "Presidenti ukrainas, Volodymyr Zelensky, paralajmëroi të premten se Rusia do të përballet me kundërpërgjigje nëse sulmon sistemin energjetik të Ukrainës gjatë këtij dimri, transmeton Anadolu. “Rusia e di se nëse sulmon – dhe ajo po përgatitet të godasë sistemin tonë energjetik këtë dimër – Rusia do ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-11T21:01:15+00:00",
+      "dateStr": "11 Sep, 21:01",
+      "isNew": true,
+      "id": "abc21789160475"
+    },
+    {
+      "title": "FOKUS – Arabia Saudite mbyll tubacionin kryesor të naftës pas sulmeve me dronë",
+      "link": "https://24-ore.com/fokus-arabia-saudite-mbyll-tubacionin-kryesor-te-naftes-pas-sulmeve-me-drone/",
+      "description": "RIAD, /ATSH-DPA- Arabia Saudite ka mbyllur përkohësisht, tubacionin kryesor Lindje Perëndim, një nga linjat më të rëndësishme të transportit të naftës në vend, pas raportimit të sulmeve ndaj saj, njoftoi sot agjencia shtetërore SPA, duke cituar një burim në Ministrinë e Energjisë. Tubacioni, me gjat",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T21:00:09+00:00",
+      "dateStr": "11 Sep, 21:00",
+      "isNew": true,
+      "id": "24 91789160409"
+    },
+    {
+      "title": "Sa biondë dhe sy bojëqielli kishte midis Ilirëve?",
+      "link": "https://shekulli.com.al/2026/09/11/sa-bionde-dhe-sy-bojeqielli-kishte-midis-ilireve/",
+      "description": "Një studim i madh dhe i rëndësishëm i publikuar pak kohë më parë në revistën &#8220;Nature&#8221; zbuloi se shqiptarët modernë, në pjesën më të madhe të tyre janë pasardhës të drejtpërdrejtë të popullsive nga Epoka e Bronzit dhe Hekurit, mes tyre edhe ata të njohur si ilirët. Studimi bëri krahasimin",
       "source": "Shekulli",
       "category": "politike",
-      "date": "2026-09-11T19:21:50+00:00",
-      "dateStr": "11 Sep, 19:21",
+      "date": "2026-09-11T20:59:22+00:00",
+      "dateStr": "11 Sep, 20:59",
       "isNew": true,
-      "id": "she01789154510"
+      "id": "she01789160362"
     },
     {
-      "title": "“Nuk e pret Amerika”, Ngjela zbulon çfarë fshihet pas vizitës së Berishës në SHBA",
-      "link": "https://24-ore.com/nuk-e-pret-amerika-ngjela-zbulon-cfare-fshihet-pas-vizites-se-berishes-ne-shba/",
-      "description": "Sali Berisha mbetet “non grata” në Shtetet e Bashkuara dhe ky status, sipas avokatit Spartak Ngjela, nuk ndryshon edhe nga fakti që ai mori një vizë për të udhëtuar në SHBA. Duke komentuar vizitën e kreut të Partisë Demokratike përtej Atlantikut, Ngjela tha se PD ndërtoi një narrativë të rremë mbi v",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-11T19:17:33+00:00",
-      "dateStr": "11 Sep, 19:17",
-      "isNew": true,
-      "id": "24 11789154253"
-    },
-    {
-      "title": "Parku i Liqenit me syte nga qielli dhe SPAK",
-      "link": "https://24-ore.com/parku-i-liqenit-me-syte-nga-qielli-dhe-spak/",
-      "description": "Nga Feti ZENELI Parku i Madh i Tiranës dhe Liqeni Artificial kanë qenë prej dekadash midis hapësirave më të rëndësishme publike të kryeqytetit. Për mijëra qytetarë, ky mjedis urban nuk është thjesht një sipërfaqe e gjelbër, por një pjesë e kujtesës së qytetit, një vend shëtitjeje, sporti, çlodhjeje ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-11T19:16:33+00:00",
-      "dateStr": "11 Sep, 19:16",
-      "isNew": true,
-      "id": "24 21789154193"
-    },
-    {
-      "title": "Princesha Catherine viziton Spitalin Royal Marsden ku u trajtua për kancer",
-      "link": "https://24-ore.com/princesha-catherine-viziton-spitalin-royal-marsden-ku-u-trajtua-per-kancer/",
-      "description": "Princesha Catherine ka vijuar procesin e rikuperimit që pas lajmit në janar 2025 se ishte në remision nga kanceri. Ajo ishte diagnostikuar me një formë të...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-11T19:16:16+00:00",
-      "dateStr": "11 Sep, 19:16",
-      "isNew": true,
-      "id": "24 31789154176"
-    },
-    {
-      "title": "FOKUS – IA, një revolucion i ri në parashikimin e fatkeqësive natyrore",
-      "link": "https://24-ore.com/fokus-ia-nje-revolucion-i-ri-ne-parashikimin-e-fatkeqesive-natyrore/",
-      "description": "LUGANO, 11 shtator /ATSH-AFP/ – Një revolucion në parashikimin e fatkeqësive natyrore po merr formë në Zvicër, ku studiuesit po përdorin inteligjencën artificiale për të analizuar sasi gjigante të të dhënave klimatike dhe satelitore të NASA-s. Qëllimi është të identifikohen shumë më shpejt shenjat p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-11T19:15:57+00:00",
-      "dateStr": "11 Sep, 19:15",
-      "isNew": true,
-      "id": "24 41789154157"
-    },
-    {
-      "title": "Ishte nisur nga Zyrihu drejt Prishtinës, avioni lëshon kodin e emergjencës dhe bën ulje të detyrueshme",
-      "link": "https://shekulli.com.al/2026/09/11/ishte-nisur-nga-zyrihu-drejt-prishtines-avioni-leshon-kodin-e-emergjences-dhe-ben-ulje-te-detyrueshme/",
-      "description": "Një aeroplan i Chair Airlines që ishte nisur nga Zyrihu drejt Prishtinës ka kryer ulje të detyrueshme. Gazeta zvicerane Blick raporton se pilotët kanë transmetuar një kod emergjence dhe e kanë ulur aeroplanin vetëm pak minuta pas ngritjes nga pista. Devijimi i fluturimit është konfirmuar edhe përmes",
+      "title": "Arrestimi i Agasit, Rama flet për herë të parë: Unë s’kam autorizuar askënd që të flasë apo të bëjë punët e shtetit në emrin tim",
+      "link": "https://shekulli.com.al/2026/09/11/arrestimi-i-agasit-rama-flet-per-here-te-pare-une-skam-autorizuar-askend-qe-te-flase-apo-te-beje-punet-e-shtetit-ne-emrin-tim/",
+      "description": "Kryeministri Edi Rama ka folur për marrëdhëniet e tij me biznesmenin tanimë të arrestuar, Ergys Agasi, gjatë podcastit “Flasim”, duke u shprehur se askush nuk është i autorizuar të flasë apo të kryejë punë të shtetit në emër të tij. Rama deklaroi se persona të ndryshëm mund të pretendojnë se flasin ",
       "source": "Shekulli",
       "category": "politike",
-      "date": "2026-09-11T19:09:12+00:00",
-      "dateStr": "11 Sep, 19:09",
+      "date": "2026-09-11T20:51:17+00:00",
+      "dateStr": "11 Sep, 20:51",
       "isNew": true,
-      "id": "she11789153752"
+      "id": "she11789159877"
+    },
+    {
+      "title": "Apple sjell teknologjinë e re që tregon nëse një foto është origjinale apo me Al",
+      "link": "https://shekulli.com.al/2026/09/11/apple-sjell-teknologjine-e-re-qe-tregon-nese-nje-foto-eshte-origjinale-apo-me-al/",
+      "description": "Apple po përgatit një mënyrë të re për të vërtetuar nëse një fotografi është origjinale apo është manipuluar me Al. Funksioni i ri, i quajtur “Reference Image”, pritet të jetë pjesë e serisë iPhone 18 Pro dhe do të përdorë sensorin e ri të kamerës për të nënshkruar çdo piksel të fotografisë që kapet",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-11T20:36:00+00:00",
+      "dateStr": "11 Sep, 20:36",
+      "isNew": true,
+      "id": "she21789158960"
+    },
+    {
+      "title": "BE nuk fal abuzimet, kërkon rrjete sociale më të sigurta për të miturit",
+      "link": "https://abcnews.al/be-nuk-fal-abuzimet-kerkon-rrjete-sociale-me-te-sigurta-per-te-miturit/",
+      "description": "Më shumë se 130 organizata dhe ekspertë i kanë kërkuar Bashkimit Evropian të detyrojë kompanitë e teknologjisë t’i bëjnë rrjetet sociale më të sigurta për fëmijët, në vend që të vendosë ndalime të përgjithshme për të miturit. Thirrja vjen vetëm pak ditë përpara se presidentja e Komisionit Evropian, ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-11T20:26:31+00:00",
+      "dateStr": "11 Sep, 20:26",
+      "isNew": true,
+      "id": "abc31789158391"
+    },
+    {
+      "title": "Revoltë në rrjet/ Kryebashkiaku i Nju Jorkut filmohet duke qeshur gjatë ceremonisë për sulmet e 11 Shtatorit",
+      "link": "https://shekulli.com.al/2026/09/11/revolte-ne-rrjet-kryebashkiaku-i-nju-jorkut-filmohet-duke-qeshur-gjate-ceremonise-per-sulmet-e-11-shtatorit/",
+      "description": "Kryebashkiaku i Nju Jorkut Zohran Mamdani dhe përfaqësuesja demokrate Alexandria Ocasio-Cortez janë përballur me reagime negative në rrjetet sociale pasi u panë duke ndarë një çast gazmor gjatë leximit solemn të emrave të viktimave në memorialin e 11 Shtatorit. Transmetimi televiziv kaloi nga pamja ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-11T20:23:51+00:00",
+      "dateStr": "11 Sep, 20:23",
+      "isNew": true,
+      "id": "she31789158231"
+    },
+    {
+      "title": "Zjarret/ Ministria e Mbrojtjes: Pesë vatra aktive, asnjë rrezik për zonat e banuara",
+      "link": "https://shekulli.com.al/2026/09/11/zjarret-ministria-e-mbrojtjes-pese-vatra-aktive-asnje-rrezik-per-zonat-e-banuara/",
+      "description": "Ministria e Mbrojtjes bëri bilancin e situatës së zjarreve në vend gjatë 24 orëve të fundit.&#160; Sipas saj, janë raportuar 21 vatra, nga të cilat 5 vijojnë aktive, 9 janë nën mbikëqyrje dhe 7 janë shuar plotësisht. Në operacione janë angazhuar 324 forca vendore e lokale dhe 17 automjete zjarrfikës",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-11T20:15:43+00:00",
+      "dateStr": "11 Sep, 20:15",
+      "isNew": true,
+      "id": "she41789157743"
+    },
+    {
+      "title": "Apeli liron Agim Çekun/ Rrëzohet vendimi me 1 vit burg për ish-kryeministrin e Kosovës",
+      "link": "https://abcnews.al/apeli-liron-agim-cekun-rrezohet-vendimi-me-1-vit-burg-per-ish-kryeministrin-e-kosoves/",
+      "description": "Gjykata e Apelit në Kosovë ka liruar nga akuzat ish-kryeministrin Agim Çeku dhe 9 të akuzuarit e tjerë në rastin e njohur si “Veteranët”. Vendimi rrëzon dënimet me nga një vit burgim që ishin dhënë nga Gjykata Themelore në Prishtinë në vitin 2025. Apeli vlerësoi se nuk ishte provuar përtej nivelit t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-11T20:00:44+00:00",
+      "dateStr": "11 Sep, 20:00",
+      "isNew": true,
+      "id": "abc41789156844"
+    },
+    {
+      "title": "Tronditet futbolli në Kosovë, Rrahmani braktis përfaqësuesen mes akuzave të forta për drejtuesit",
+      "link": "https://shekulli.com.al/2026/09/11/tronditet-futbolli-ne-kosove-rrahmani-braktis-kombetaren-mes-akuzave-te-forta-per-drejtuesit/",
+      "description": "Futbollisti Amir Rrahmani, ka bërë të ditur se nuk do të jetë më pjesë e përfaqësueses së Kosovës, duke njoftuar përmes një postimi të gjatë në rrjetet sociale vendimin e tij. Rrahmani, i cili për 10 vite ka qenë pjesë e Kombëtares, prej shtatë vitesh edhe në rolin e kapitenit, ka thënë se vendimi v",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-11T19:56:14+00:00",
+      "dateStr": "11 Sep, 19:56",
+      "isNew": true,
+      "id": "she51789156574"
+    },
+    {
+      "title": "Goditje e madhe për Kombëtaren, Thomas Strakosha mungon në 4 ndeshjet e ardhshme të Ligës së Kombeve",
+      "link": "https://shekulli.com.al/2026/09/11/goditje-e-madhe-per-kombetaren-thomas-strakosha-mungon-ne-4-ndeshjet-e-ardhshme/",
+      "description": "Thomas Strakosha do të mungojë në startin e aventurës së Shqipërisë në Ligën e Kombeve, pasi dëmtimi i portierit kuqezi rezulton më serioz nga sa ishte raportuar fillimisht. Strakosha ka pësuar një frakturë në kyçin e dorës, dëmtim që pritet të kërkojë rreth një muaj rikuperim. Portieri i AEK-ut u d",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-11T19:50:27+00:00",
+      "dateStr": "11 Sep, 19:50",
+      "isNew": true,
+      "id": "she61789156227"
+    },
+    {
+      "title": "Arabia Saudite mbyll tubacionin më të madh të naftës bruto pas sulmeve",
+      "link": "https://shekulli.com.al/2026/09/11/arabia-saudite-mbyll-tubacionin-me-te-madh-te-naftes-bruto-pas-sulmeve/",
+      "description": "Arabia Saudite ka mbyllur tubacionin e saj jetik të naftës bruto që lidh lindjen me perëndimin, si masë paraprake pas disa sulmesh, njoftoi të premten Ministria e Energjisë e mbretërisë. Tubacioni i njohur si &#8220;Petroline&#8221; u godit në rajonet e Riadit dhe Medinës të enjten në mëngjes, bëri ",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-11T19:47:43+00:00",
+      "dateStr": "11 Sep, 19:47",
+      "isNew": true,
+      "id": "she71789156063"
+    },
+    {
+      "title": "“Diaspora në shtëpi, pse ndalohen në kufi?”/ Protestuesit thirrje përpara ambasadës së Malit të Zi në Tiranë: UÇK",
+      "link": "https://shekulli.com.al/2026/09/11/diaspora-ne-shtepi-pse-ndalohen-ne-kufi-protestuesit-thirrje-perpara-ambasades-se-malit-te-zi-ne-tirane-uck/",
+      "description": "Protestuesit kanë marshuar mbrëmjen e sotme drejt ambasadës së Malit të Zi në Tiranë, ku janë ndalur duke bërë thirrje për moslejimin e shqiptarëve të diasporës në kufirin malazez që të mbërrijnë në Shqipëri dhe t’i bashkohen protestës të së shtunës. Përpara ambasadës, protestuesit kanë hedhur thirr",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-11T19:37:43+00:00",
+      "dateStr": "11 Sep, 19:37",
+      "isNew": true,
+      "id": "she81789155463"
+    },
+    {
+      "title": "Arabia Saudite në alarm, mbyll tubacionin e naftësjellësit pas sulmeve",
+      "link": "https://abcnews.al/arabia-saudite-ne-alarm-mbyll-tubacioni-e-naftesjellesit-pas-sulmeve/",
+      "description": "Arabia Saudite njoftoi të premten se ka mbyllur Tubacionin Lindje-Perëndim pasi ai u godit nga disa sulme në rajonet e Riadit dhe Medinës një ditë më parë, duke lënë të plagosur disa persona. Një burim zyrtar në Ministrinë e Energjisë, në një deklaratë, tha se sulmet ndodhën të enjten në mëngjes. Bu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-11T19:34:59+00:00",
+      "dateStr": "11 Sep, 19:34",
+      "isNew": true,
+      "id": "abc51789155299"
+    },
+    {
+      "title": "“Ata e kanë problem sepse kushton shumë”, Rama zbulon ku kanë ngecur negociatat për Sazanin: Çfarë më tha Jared Kushner",
+      "link": "https://shekulli.com.al/2026/09/11/ata-e-kane-problem-sepse-kushton-shume-rama-zbulon-ku-kane-ngecur-negociatat-per-sazanin-cfare-me-tha-jared-kushner/",
+      "description": "Kryeministri Edi Rama&#160;ka folur për negociatat lidhur me zhvillimin e ishullit të Sazanit, duke u ndalur te furnizimi me ujë dhe energji elektrike. Rama tha se çështja e ujësjellësit dhe e linjës elektrike për në ishull mbetet një nga pikat më të vështira të negociatave, pasi sipas tij, Shqipëri",
+      "source": "Shekulli",
+      "category": "politike",
+      "date": "2026-09-11T19:28:26+00:00",
+      "dateStr": "11 Sep, 19:28",
+      "isNew": true,
+      "id": "she91789154906"
+    },
+    {
+      "title": "Kremlini paralajmëron Lituaninë: Do jesh në shënjestër të Rusisë nëse instalon armë bërthamore",
+      "link": "https://abcnews.al/kremlini-paralajmeron-lituanine-do-jesh-ne-shenjester-te-rusise-nese-instalon-arme-berthamore/",
+      "description": "Kremlini ka paralajmëruar se do t’i drejtojë armët bërthamore ruse drejt Lituanisë nëse vendi baltik, anëtar i NATO-s dhe fqinj i Rusisë, vendos koka bërthamore nga arsenalet e aleatëve të tij në territorin e saj. “Nëse armët bërthamore vendosen në territorin lituanez dhe drejtohen kundër nesh, atëh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-11T19:25:44+00:00",
+      "dateStr": "11 Sep, 19:25",
+      "isNew": true,
+      "id": "abc61789154744"
     },
     {
       "title": "Zjarret/ Ministria e Mbrojtjes: Pesë vatra aktive, asnjë rrezik për zonat e banuara",
@@ -89,95 +309,7 @@
       "date": "2026-09-11T19:08:06+00:00",
       "dateStr": "11 Sep, 19:08",
       "isNew": true,
-      "id": "abc01789153686"
-    },
-    {
-      "title": "U prangos në Greqi! Kush është trafikanti i kokainës që kërkohej nga Shqipëria për vrasje?",
-      "link": "https://24-ore.com/u-prangos-ne-greqi-kush-eshte-trafikanti-i-kokaines-qe-kerkohej-nga-shqiperia-per-vrasje/",
-      "description": "Policia greke prej 48 orësh i mban sekret emrat e personave të arrestuar në kuadër të operacionit “Lulet e së keqes”, të zhvilluar së bashku me DEA Amerikane, për goditjen e një grupi kriminal shqiptar përgjegjës për trafikimin e kokainës nga Kolumbia. Në operacionin ku u sekuestruan 84 kg kokainë, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-11T19:01:52+00:00",
-      "dateStr": "11 Sep, 19:01",
-      "isNew": true,
-      "id": "24 51789153312"
-    },
-    {
-      "title": "A e sheh veten President? Rama flet për të ardhmen: Nuk zgjedh pasardhës. Do vazhdoj të jem anëtar i PS",
-      "link": "https://24-ore.com/a-e-sheh-veten-president-rama-flet-per-te-ardhmen-nuk-zgjedh-pasardhes-do-vazhdoj-te-jem-anetar-i-ps/",
-      "description": "Kryeministri Edi Rama ka folur për të ardhmen e tij pas drejtimit të qeverisë dhe PS-së, duke hedhur poshtë mundësinë që ai të zgjedhë një pasardhës dhe aq më tepër të ndërhyjë në vendimmarrjen e tij. Sipas tij, gara për drejtimin e PS-së do të hapet në momentin e duhur dhe kushdo që aspiron këtë [&",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-11T19:01:34+00:00",
-      "dateStr": "11 Sep, 19:01",
-      "isNew": true,
-      "id": "24 61789153294"
-    },
-    {
-      "title": "E pazakontë/ Pas trëndafilave, kapen edhe lëpirëse me kokainë",
-      "link": "https://shekulli.com.al/2026/09/11/e-pazakonte-pas-trendafilave-kapen-edhe-lepirese-me-kokaine/",
-      "description": "Rreth 5 kg kokainë, e fshehur brenda lëpirëseve (lolipop), është sekuestruar nga zyrtarët doganorë dhe policia irlandeze në Aeroportin e Dublinit. Zbulimi u bë të enjten, kur punonjësit e doganës kontrolluan bagazhin e një pasagjeri dhe gjetën lëndën narkotike brenda paketimeve me ëmbëlsira. Në kont",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-11T18:59:55+00:00",
-      "dateStr": "11 Sep, 18:59",
-      "isNew": true,
-      "id": "she21789153195"
-    },
-    {
-      "title": "“S’kam folur kurrë me Trump për Zvërnecin”/ Nga projekti te ‘dorëheqja’, Rama: Kur Shqipëria të futet në BE, do shpëtoni nga unë",
-      "link": "https://shekulli.com.al/2026/09/11/skam-folur-kurre-me-trump-per-zvernecin-nga-projekti-te-doreheqja-rama-kur-shqiperia-te-futet-ne-be-do-shpetoni-nga-une/",
-      "description": "Kreu i qeverisë, Edi Rama, ka treguar se nëse Shqipëria do të futet në BE, ai largohet nga qeverisja. Në një intervistë me gazetaren Rudina Xhunga në podcastin ‘Flasim’ të Kryeministrit, Rama u shpreh se nuk synon “të bëhet mbret, apo të qeverisë në përjetësi”, por se vijon të jetë në këtë detyrë se",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-11T18:59:46+00:00",
-      "dateStr": "11 Sep, 18:59",
-      "isNew": true,
-      "id": "she31789153186"
-    },
-    {
-      "title": "Një ditë para Marshit për Liri, Haziri sjell dëshminë e Rugovës në hagë për UÇK-në",
-      "link": "https://24-ore.com/nje-dite-para-marshit-per-liri-haziri-sjell-deshmine-e-rugoves-ne-hage-per-uck-ne/",
-      "description": "Një ditë para “Marshit për Liri”, deputeti i Lidhjes Demokratike të Kosovës (LDK), Lutfi Haziri, ka publikuar një pjesë të dëshmisë së ish-presidentit Ibrahim Rugova në Hagë, në procesin gjyqësor kundër ish-presidentit të Jugosllavisë, Slobodan Millosheviq. Në pjesën e dëshmisë së publikuar nga Hazi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-11T18:52:54+00:00",
-      "dateStr": "11 Sep, 18:52",
-      "isNew": true,
-      "id": "24 71789152774"
-    },
-    {
-      "title": "Ambasada e Amerikës në Prishtinë nderon viktimat e 11 Shtatorit",
-      "link": "https://24-ore.com/ambasada-e-amerikes-ne-prishtine-nderon-viktimat-e-11-shtatorit/",
-      "description": "Komuniteti i Ambasadës së Shteteve të Bashkuara në Prishtinë u mblodh sot për të shënuar 25-vjetorin e sulmeve terroriste të 11 Shtatorit 2001, duke nderuar kujtimin e mijëra njerëzve që humbën jetën dhe guximin e atyre që u vunë në vijën e parë për të shpëtuar të tjerët. Më 11 shtator 2001, 19 terr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-11T18:52:40+00:00",
-      "dateStr": "11 Sep, 18:52",
-      "isNew": true,
-      "id": "24 81789152760"
-    },
-    {
-      "title": "Kandidat i VMRO-DPMNE-së për kryetar të Komunës së Bërvenicës do të jetë Stojanço Radiçevski",
-      "link": "https://24-ore.com/kandidat-i-vmro-dpmne-se-per-kryetar-te-komunes-se-bervenices-do-te-jete-stojanco-radicevski/",
-      "description": "Kandidat i VMRO-DPMNE-së për kryetar të Komunës së Bërvenicës do të jetë Stojanço Radiçevski",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-11T18:52:27+00:00",
-      "dateStr": "11 Sep, 18:52",
-      "isNew": true,
-      "id": "24 91789152747"
-    },
-    {
-      "title": "Protesta e 104-t në Tiranë, qytetarët marshojnë drejt ambasadës së Malit të Zi: Llogari për ndalimin në kufi të autokolonës nga Diaspora",
-      "link": "https://shekulli.com.al/2026/09/11/protesta-e-104-t-ne-tirane-qytetaret-marshojne-drejt-ambasades-se-malit-te-zi-llogari-per-ndalimin-ne-kufi-te-autokolones-nga-diaspora/",
-      "description": "TIRANË &#8211; Këtë mbrëmje është duke u zhvilluar protesta numër 104 radhazi kundër qeverisë shqiptare dhe klasës politike 36-vjeçare. Pas grumbullimit në sheshin ‘Skënderbej’ dhe marshimit drejt Kryeministrisë, qytetarët kanë mbajtur disa fjalime. Pas afro një ore protestuesit kanë vendosur të nis",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-11T18:49:45+00:00",
-      "dateStr": "11 Sep, 18:49",
-      "isNew": true,
-      "id": "she41789152585"
+      "id": "abc71789153686"
     },
     {
       "title": "Norvegjia e ka ulur numrin e divorceve me vetëm një ligj",
@@ -188,7 +320,7 @@
       "date": "2026-09-11T18:49:25+00:00",
       "dateStr": "11 Sep, 18:49",
       "isNew": true,
-      "id": "abc11789152565"
+      "id": "abc81789152565"
     },
     {
       "title": "Tirana Live me Rovena Nezirin, (11/09/2026)",
@@ -199,139 +331,7 @@
       "date": "2026-09-11T18:34:37+00:00",
       "dateStr": "11 Sep, 18:34",
       "isNew": true,
-      "id": "abc21789151677"
-    },
-    {
-      "title": "Britania i thotë “jo” projektligjit për vdekjen e asistuar",
-      "link": "https://shekulli.com.al/2026/09/11/britania-i-thote-jo-projektligjit-per-vdekjen-e-asistuar/",
-      "description": "Deputetët britanikë i kanë thënë jo ligjit për legalizimin vdekjes së asistuar në Angli dhe Uells. Siç raportojnë mediat britanike projektligji u hodh poshtë me 270 vota pro dhe 286 kundër, gjatë leximit të dytë në Dhomën e Ulët. Kjo ishte tentativa e dytë për të kaluar ligjin e shumëdiskutuar që do",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-11T18:33:01+00:00",
-      "dateStr": "11 Sep, 18:33",
-      "isNew": true,
-      "id": "she51789151581"
-    },
-    {
-      "title": "CNN: Tubacioni kryesor i naftës në Arabinë Saudite goditet nga predha",
-      "link": "https://abcnews.al/cnn-tubacioni-kryesor-i-naftes-ne-arabine-saudite-goditet-nga-predha/",
-      "description": "Një sistem i rëndësishëm tubacionesh nafte në Arabinë Saudite është goditur nga predha të enjten, duke shkaktuar zjarre në stacionet e pompimit, raportoi të premten CNN, duke cituar dy zyrtarë amerikanë të njohur me çështjen. Sipas raportimit, një vlerësim fillestar amerikan ka konstatuar se stacion",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-11T18:29:24+00:00",
-      "dateStr": "11 Sep, 18:29",
-      "isNew": true,
-      "id": "abc31789151364"
-    },
-    {
-      "title": "Mbi 300 qenushë kërkuan për të mbijetuar pas 11 shtatorit/ 25 vjet më vonë kujtohen heronjtë me katër putra",
-      "link": "https://abcnews.al/mbi-300-qenushe-kerkuan-per-te-mbijetuar-pas-11-shtatorit-25-vjet-me-vone-kujtohen-heronjte-me-kater-putra/",
-      "description": "Në përkujtimin e 25-vjetorit të sulmeve të 11 shtatorit, krahas viktimave, zjarrfikësve, policëve dhe ekipeve të shpëtimit, po rikthehet në vëmendje edhe një grup i veçantë që punoi mes rrënojave të Qendrës Botërore të Tregtisë: qentë e kërkim-shpëtimit. Më shumë se 300 qen morën pjesë në operacione",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-11T18:18:10+00:00",
-      "dateStr": "11 Sep, 18:18",
-      "isNew": true,
-      "id": "abc41789150690"
-    },
-    {
-      "title": "Mashtronin shtetasit europianë përmes “call-centerave”, GJKKO jep masat për tetë të ndaluarit (Emrat)",
-      "link": "https://shekulli.com.al/2026/09/11/mashtronin-shtetasit-europiane-permes-call-centerave-gjkko-jep-masat-per-tete-te-ndaluarit-emrat/",
-      "description": "Tre persona janë lënë në burg, me akuzën e mashtrimit kompjuterik përmes &#8220;call-centerave&#8221;. Gjykata e Posaçme Kundër Korrupsionit dhe Krimit të Organizuar ka dhënë sot masat edhe për pesë persona të tjerë, në total tetë, të ndaluar një ditë më parë në Tiranë. Bëhet fjalë për shtetasit Rob",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-11T18:03:41+00:00",
-      "dateStr": "11 Sep, 18:03",
-      "isNew": true,
-      "id": "she61789149821"
-    },
-    {
-      "title": "VIDEO/ Autokolona e makinave me flamujt shqiptarë bllokohet në Malin e Zi, qytetari bën fajtor shtetin shqiptar: Edhe nga malet do të vijmë për protestën",
-      "link": "https://shekulli.com.al/2026/09/11/autokolona-e-makinave-me-flamujt-shqiptare-bllokohet-ne-malin-e-zi-qytetari-ben-fajtor-shtetin-shqiptar-edhe-nga-malet-do-te-vijme-per-protesten/",
-      "description": "Më 12 shtator (nesër) në Tiranë është thirrur një protestë mbarëkombëtare, e cila përkon me ditën e 105-të të tubimeve kundër qeverisë dhe klasës politike në vend, në kuadër të asaj që quhet ‘Revolucioni Flamingo’. Disa nga aktivistët kanë denoncuar një situatë të paprecedentë në Malin e Zi, në kufi",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-11T17:58:56+00:00",
-      "dateStr": "11 Sep, 17:58",
-      "isNew": true,
-      "id": "she71789149536"
-    },
-    {
-      "title": "Lule dhe drogë/ Trafikuan 84 kg kokainë, policia greke hesht për identitetin e të arrestuarve, mes tyre edhe shqiptarë",
-      "link": "https://abcnews.al/lule-dhe-droge-trafikuan-84-kg-kokaine-policia-greke-hesht-per-identitetin-e-te-arrestuarve-mes-tyre-edhe-shqiptare/",
-      "description": "Policia greke prej 48 orësh i mban sekret emrat e personave të arrestuar në kuadër të operacionit “Lulet e së keqes”, të zhvilluar së bashku me DEA Amerikane, për goditjen e një grupi kriminal shqiptar përgjegjës për trafikimin e kokainës nga Kolumbia. Në operacionin ku u sekuestruan 84 kg kokainë, ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-11T17:41:25+00:00",
-      "dateStr": "11 Sep, 17:41",
-      "isNew": true,
-      "id": "abc51789148485"
-    },
-    {
-      "title": "Vdekja e Mazonakis/ Injeksionet e adrenalinës, kërkimi i udhëzimeve me IA dhe fotografia e fshirë",
-      "link": "https://shekulli.com.al/2026/09/11/vdekja-e-mazonakis-injeksionet-e-adrenalines-kerkimi-i-udhezimeve-me-ia-dhe-fotografia-e-fshire/",
-      "description": "Dalin në dritë detaje të reja rreth asaj që ndodhi para vdekjes së këngëtarit grek Giorgos Mazonakis, në klinikën në Kolonaki, ku dyshohet se pësoi një arrest kardiak gjatë plazmaferezës. Sipas informacioneve nga emisioni Live News, mjeku i akuzuar ishte ai që telefonoi urgjencën në orën 16:21 të di",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-11T17:28:16+00:00",
-      "dateStr": "11 Sep, 17:28",
-      "isNew": true,
-      "id": "she81789147696"
-    },
-    {
-      "title": "E rëndë në Patos, 45 vjeçari humb jetën pas rënies nga shtylla e energjisë elektrike",
-      "link": "https://abcnews.al/e-rende-ne-patos-45-vjecari-humb-jeten-pas-renies-nga-shtylla-e-energjise-elektrike/",
-      "description": "Një ngjarje e rëndë ka tronditur fshatin Margëlliç të Patosit, ku një 46-vjeçar ka humbur jetën tragjikisht gjatë punës. Sipas informacioneve paraprake, Ermal Debrova, 46 vjeç, ka qenë duke punuar në një shtyllë elektrike, kur për shkaqe ende të paqarta ka rënë bashkë me shtyllën. Përplasja ka rezul",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-11T17:23:28+00:00",
-      "dateStr": "11 Sep, 17:23",
-      "isNew": true,
-      "id": "abc61789147408"
-    },
-    {
-      "title": "Akuzat e Berishës për “krim pasioni”, shpërthen Rama: Nuk kam qenë me një burrë, por me një vajzë, ekzekutori është i njohur",
-      "link": "https://shekulli.com.al/2026/09/11/akuzat-e-berishes-per-krim-pasioni-shperthen-rama-nuk-kam-qene-me-nje-burre-por-me-nje-vajze-ekzekutori-eshte-i-njohur/",
-      "description": "Kryeministri Edi Rama ka reaguar ndaj deklaratave të Sali Berishës për një ngjarje të dhunshme nga e kaluara e tij, duke mohuar kategorikisht versionin se bëhej fjalë për një “krim pasioni”. I pyetur nga gazetarja Rudina Xhunga lidhur me deklaratën e Berishës se Rama ishte dhunuar dhe i ishte thyer ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-11T17:22:56+00:00",
-      "dateStr": "11 Sep, 17:22",
-      "isNew": true,
-      "id": "she91789147376"
-    },
-    {
-      "title": "Deputetët britanikë votojnë kundër legalizimit të vdekjes së asistuar",
-      "link": "https://abcnews.al/deputetet-britanike-votojne-kunder-legalizimit-te-vdekjes-se-asistuar/",
-      "description": "Deputetët britanikë hodhën poshtë të premten legalizimin e legjislacionit të debatueshëm për vdekjen e asistuar në Angli dhe Uells. Projektligji u hodh poshtë me 270 vota pro dhe 286 kundër gjatë leximit të dytë në Dhomën e Ulët. Kjo ishte përpjekja e dytë e deputetëve për të ndryshuar ligjin, pasi ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-11T17:15:13+00:00",
-      "dateStr": "11 Sep, 17:15",
-      "isNew": true,
-      "id": "abc71789146913"
-    },
-    {
-      "title": "Trump: 11 shtatori nuk harrohet kurrë / Presidenti: Amerika gjithmonë ka luftuar dhe fituar",
-      "link": "https://abcnews.al/trump-11-shtatori-nuk-harrohet-kurre-presidenti-amerika-gjithmone-ka-luftuar-dhe-fituar/",
-      "description": "Presidenti amerikan Donald Trump ka përkujtuar 25-vjetorin e sulmeve terroriste të 11 shtatorit 2001, gjatë një ceremonie në Pentagon, ku vuri në pah unitetin e amerikanëve dhe heroizmin e atyre që humbën jetën duke shpëtuar të tjerët. Trump i cilësoi sulmet “një moment I një të keqeje të madhe dhe ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-11T16:54:16+00:00",
-      "dateStr": "11 Sep, 16:54",
-      "isNew": true,
-      "id": "abc81789145656"
-    },
-    {
-      "title": "Balkan Update me Habi Hoxha, (11/09/2026)",
-      "link": "https://abcnews.al/balkan-update-me-habi-hoxha-11-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-11T16:41:09+00:00",
-      "dateStr": "11 Sep, 16:41",
-      "isNew": true,
-      "id": "abc91789144869"
+      "id": "abc91789151677"
     }
   ]
 }
