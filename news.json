@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-09-10T23:38:29.244550+00:00",
+  "lastUpdated": "2026-09-11T02:40:48.712657+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Përdori ChatGPT për të shkarkuar mijëra dokumente gjyqësore, bisedat me AI mund të bëhen provë në gjyq",
+      "link": "https://24-ore.com/perdori-chatgpt-per-te-shkarkuar-mijera-dokumente-gjyqesore-bisedat-me-ai-mund-te-behen-prove-ne-gjyq/",
+      "description": "Një 40-vjeçar në Australi akuzohet se ka përdorur Inteligjencën Artificiale për të krijuar programe që i mundësuan aksesin dhe shkarkimin masiv të dokumenteve të kufizuara nga faqja online e gjykatave. Sipas mediave australiane, Christopher John Duff akuzohet se përdori ChatGPT për të krijuar kode “",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T01:16:46+00:00",
+      "dateStr": "11 Sep, 01:16",
+      "isNew": true,
+      "id": "24 01789089406"
+    },
+    {
+      "title": "Trajtimi i gjyqtarëve si kulakë dhe zemërimi popullor me regji qeveritare",
+      "link": "https://24-ore.com/trajtimi-i-gjyqtareve-si-kulake-dhe-zemerimi-popullor-me-regji-qeveritare/",
+      "description": "Kur erdhi në pushtet, Edi Rama mbase nuk e dinte se kishte një mangësi të madhe, që iu kthye në hall të papritur. U bë kryeministër, por nuk ishte bërë pronar i të gjitha pushteteve. Kishte një sektor që deri atëherë nuk e kishte mësuar që nuk dilte nga zgjedhjet, që ishte pikërisht gjyqësori. Gjyka",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T00:17:54+00:00",
+      "dateStr": "11 Sep, 00:17",
+      "isNew": true,
+      "id": "24 11789085874"
+    },
+    {
+      "title": "OpenAI hedh në treg ChatGPT për financat. AI do të analizojë të dhëna dhe ndërtojë projekte financiare",
+      "link": "https://24-ore.com/openai-hedh-ne-treg-chatgpt-per-financat-ai-do-te-analizoje-te-dhena-dhe-ndertoje-projekte-financiare/",
+      "description": "OpenAI ka lançuar një version të ChatGPT të ndërtuar posaçërisht për industrinë e shërbimeve financiare, duke synuar fillimisht bankierët e investimeve dhe analistët e tregjeve. Produkti i ri, “ChatGPT for Financial Services”, kombinon Inteligjencën Artificiale me të dhëna financiare nga ofrues të s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T00:01:53+00:00",
+      "dateStr": "11 Sep, 00:01",
+      "isNew": true,
+      "id": "24 21789084913"
+    },
+    {
+      "title": "Iyo Sky shpjegon mungesën e saj pas humbjes ndaj Liv Morgan në SummerSlam",
+      "link": "https://24-ore.com/iyo-sky-shpjegon-mungesen-e-saj-pas-humbjes-ndaj-liv-morgan-ne-summerslam/",
+      "description": "Iyo Sky njoftoi të mërkurën në X se ka bërë një \"pushim të shkurtër veror\" në Tokio. Ylli japonez ka qenë larg programimeve televizive të WWE së fundmi; nd...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-11T00:00:47+00:00",
+      "dateStr": "11 Sep, 00:00",
+      "isNew": true,
+      "id": "24 31789084847"
+    },
+    {
+      "title": "Raptors janë të gatshëm të finalizojnë shkëmbimin për Kawhi Leonard pas hetimit të NBA-së",
+      "link": "https://24-ore.com/raptors-jane-te-gatshem-te-finalizojne-shkembimin-per-kawhi-leonard-pas-hetimit-te-nba-se/",
+      "description": "Kawhi Leonard shmangu pezullimin pas hetimit të NBA-së dhe u gjobit me 700,000 dollarë. Pas këtij vendimi, Toronto Raptors po përgatiten të realizojnë shkë...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-10T23:53:01+00:00",
+      "dateStr": "10 Sep, 23:53",
+      "isNew": true,
+      "id": "24 41789084381"
+    },
+    {
+      "title": "Leon Draisaitl: Oilers duhet të gjejnë ‘lojën A’ nën drejtimin e Mike Babcock",
+      "link": "https://24-ore.com/leon-draisaitl-oilers-duhet-te-gjejne-lojen-a-nen-drejtimin-e-mike-babcock/",
+      "description": "Leon Draisaitl thotë se Edmonton Oilers duhet të përforcohen për të qenë më konkurrues në playoff pas eleminimit në raundin e parë. Sulmuesi shpreson se nj...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-10T23:51:01+00:00",
+      "dateStr": "10 Sep, 23:51",
+      "isNew": true,
+      "id": "24 51789084261"
+    },
     {
       "title": "Aksident i rëndë në Zvicër, përmbyset autobusi me 48 turistë holandezë, disa viktima",
       "link": "https://24-ore.com/aksident-i-rende-ne-zvicer-permbyset-autobusi-me-48-turiste-holandeze-disa-viktima/",
@@ -12,7 +78,7 @@
       "date": "2026-09-10T23:16:44+00:00",
       "dateStr": "10 Sep, 23:16",
       "isNew": true,
-      "id": "24 01789082204"
+      "id": "24 61789082204"
     },
     {
       "title": "Pirates mposhtin White Sox 4-2 në Chicago, 10 shtator 2026",
@@ -23,7 +89,7 @@
       "date": "2026-09-10T23:08:15+00:00",
       "dateStr": "10 Sep, 23:08",
       "isNew": true,
-      "id": "24 11789081695"
+      "id": "24 71789081695"
     },
     {
       "title": "Wendel Clark kujton Barry Melrose: ‘Ai ishte thjesht një njeri i madh’",
@@ -34,7 +100,7 @@
       "date": "2026-09-10T23:07:09+00:00",
       "dateStr": "10 Sep, 23:07",
       "isNew": true,
-      "id": "24 21789081629"
+      "id": "24 81789081629"
     },
     {
       "title": "Një shfaqje surprizë e Princeshës Kate në mbështetje të iniciativës së Princit William për parandalimin e vetëvrasjeve",
@@ -45,73 +111,7 @@
       "date": "2026-09-10T23:00:57+00:00",
       "dateStr": "10 Sep, 23:00",
       "isNew": true,
-      "id": "24 31789081257"
-    },
-    {
-      "title": "Robert Lewandowski dhe Chicago Fire presin New England Revolution në Soldier Field",
-      "link": "https://24-ore.com/robert-lewandowski-dhe-chicago-fire-presin-new-england-revolution-ne-soldier-field/",
-      "description": "Chicago Fire FC do të presë New England Revolution të dielën, 13 shtator, në Soldier Field në Chicago në një përballje që mund të ndikojë në renditjen e Ko...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T22:35:39+00:00",
-      "dateStr": "10 Sep, 22:35",
-      "isNew": true,
-      "id": "24 41789079739"
-    },
-    {
-      "title": "New York Yankees–Colorado Rockies, 10 shtator 2026: përballja në Yankee Stadium",
-      "link": "https://24-ore.com/new-york-yankees-colorado-rockies-10-shtator-2026-perballja-ne-yankee-stadium/",
-      "description": "Më 10 shtator 2026, New York Yankees pritën Colorado Rockies në Yankee Stadium në Bronx për një ndeshje të rëndësishme të pjesës së fundit të sezonit. Star...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T22:25:35+00:00",
-      "dateStr": "10 Sep, 22:25",
-      "isNew": true,
-      "id": "24 51789079135"
-    },
-    {
-      "title": "Braeden Bowman nënshkruan kontratë 6-vjeçare me Vegas Golden Knights",
-      "link": "https://24-ore.com/braeden-bowman-nenshkruan-kontrate-6-vjecare-me-vegas-golden-knights/",
-      "description": "Braeden Bowman nënshkroi një kontratë gjashtëvjeçare me Vegas Golden Knights, me vlerë totale 20.4 milionë dollarë. Marrëveshja ka një mesatare vjetore pre...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T22:22:47+00:00",
-      "dateStr": "10 Sep, 22:22",
-      "isNew": true,
-      "id": "24 61789078967"
-    },
-    {
-      "title": "Parashikimet dhe analizat për Javën 1 të sezonit 2026 në futbollin amerikan",
-      "link": "https://24-ore.com/parashikimet-dhe-analizat-per-javen-1-te-sezonit-2026-ne-futbollin-amerikan/",
-      "description": "Redaktorët e stafit paraqitën parashikimet e Javës 1 të sezonit 2026, duke ofruar rezultatet e pritshme dhe arsyetimet kryesore për ndeshjet hapëse të kamp...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T22:21:47+00:00",
-      "dateStr": "10 Sep, 22:21",
-      "isNew": true,
-      "id": "24 71789078907"
-    },
-    {
-      "title": "“Akuzat e Dick Marty-t nuk çuan askund”, Thaçi: Ishin justifikim për themelimin e Speciales",
-      "link": "https://24-ore.com/akuzat-e-dick-marty-t-nuk-cuan-askund-thaci-ishin-justifikim-per-themelimin-e-speciales/",
-      "description": "Në një intervistë nga Haga në ‘Top Story’, ish presidenti Hashim Thaçi hodhi poshtë akuzat për trafikim organesh të ngritura pas raportit të Dick Marty-t, duke i cilësuar hetimet si një justifikim për themelimin e Gjykatës Speciale. Thaçi argumenton se UÇK-ja është hetuar dhe gjykuar më shumë se çdo",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T22:06:40+00:00",
-      "dateStr": "10 Sep, 22:06",
-      "isNew": true,
-      "id": "24 81789078000"
-    },
-    {
-      "title": "Thaçi nga Haga: U përcaktuam për të keqen më të vogël, evituam Rusinë dhe Kinën – Ramës i jam mirënjohës nga zemra",
-      "link": "https://24-ore.com/thaci-nga-haga-u-percaktuam-per-te-keqen-me-te-vogel-evituam-rusine-dhe-kinen-rames-i-jam-mirenjohes-nga-zemra/",
-      "description": "Ish-presidenti i Kosovës, Hashim Thaçi, në intervistën ekskluzive për emisionin “Top Story” nga Haga, ka folur për Samitin e NATO-s që do të mbahet në Tiranë, raportet me kryeministrin shqiptar Edi Rama, themelimin e Gjykatës Speciale dhe procesin gjyqësor ndaj tij. Thaçi e ka cilësuar organizimin e",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-10T22:01:59+00:00",
-      "dateStr": "10 Sep, 22:01",
-      "isNew": true,
-      "id": "24 91789077719"
+      "id": "24 91789081257"
     },
     {
       "title": "Gushti 2026, më i nxehti ndonjëherë/ Barazohet rekordi i korrikut 2023",
