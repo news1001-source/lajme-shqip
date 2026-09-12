@@ -1,18 +1,172 @@
 {
-  "lastUpdated": "2026-09-12T21:09:04.303488+00:00",
+  "lastUpdated": "2026-09-12T23:40:08.510337+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Ramadani reagon pas qëndrimit të ri të LVV-së: Ua kemi lexuar skenarin në xhep",
-      "link": "https://24-ore.com/ramadani-reagon-pas-qendrimit-te-ri-te-lvv-se-ua-kemi-lexuar-skenarin-ne-xhep/",
-      "description": "Deputeti i Aleancës , Burim R. Ramadani, se ka komentuar pozicionin e ri të Lëvizjes Vetëvendosje duke akuzuar atë se ka bllokuar vendin për interesa politike dhe për të kalkuluar zgjedhje të reja. Ramadani, përmes një postimi në Facebook, ka thënë se kryeministrit në detyrë, Albin Kurti, dhe LVV-së",
+      "title": "Ndryshime në tregjet e kriptomonedhave, ja sa shitet Bitcoin",
+      "link": "https://24-ore.com/ndryshime-ne-tregjet-e-kriptomonedhave-ja-sa-shitet-bitcoin/",
+      "description": "Bitcoin po tregohet rreth nivelit 77 mijë dollarë, pas një trafikjeje të lehtë nga niveli 78 mijë dollarë, ndërsa investitorët po tregohen më të kujdesshëm para takimit të Rezervës Federale të SHBA-së, përcjell KosovaPress. Sipas të dhënave të historisë, kriptovaluta më e madhe në botë po lëviz rret",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-12T21:03:17+00:00",
-      "dateStr": "12 Sep, 21:03",
+      "date": "2026-09-12T23:18:56+00:00",
+      "dateStr": "12 Sep, 23:18",
       "isNew": true,
-      "id": "24 01789246997"
+      "id": "24 01789255136"
+    },
+    {
+      "title": "Rreziku nga Inteligjenca Artificiale, drejtuesit e kompanive kryesore të AI kërkojnë ngadalësimin e zhvillimit të teknologjisë",
+      "link": "https://24-ore.com/rreziku-nga-inteligjenca-artificiale-drejtuesit-e-kompanive-kryesore-te-ai-kerkojne-ngadalesimin-e-zhvillimit-te-teknologjise/",
+      "description": "Drejtuesit e disa prej kompanive më të fuqishme të Inteligjencës Artificiale po kërkojnë ngadalësimin e zhvillimit të modeleve më të avancuara. Kërkesa vjen pas shqetësimeve se aftësitë e teknologjisë po ecin më shpejt sesa mundësia për ta kuptuar dhe kontrolluar atë. Drejtori ekzekutiv i Anthropic,",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-12T23:18:36+00:00",
+      "dateStr": "12 Sep, 23:18",
+      "isNew": true,
+      "id": "24 11789255116"
+    },
+    {
+      "title": "Atlanta Braves përballë Philadelphia Phillies në Truist Park, 12 shtator 2026",
+      "link": "https://24-ore.com/atlanta-braves-perballe-philadelphia-phillies-ne-truist-park-12-shtator-2026/",
+      "description": "Atlanta Braves pritën Philadelphia Phillies në Truist Park në Atlanta më 12 shtator 2026. Startuesit e ndeshjes ishin T. Mayza për Phillies (3-3, 3.23 ERA)...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-12T23:02:56+00:00",
+      "dateStr": "12 Sep, 23:02",
+      "isNew": true,
+      "id": "24 21789254176"
+    },
+    {
+      "title": "Texans dhe C.J. Stroud shtyjnë bisedimet për rinovimin deri pas sezonit",
+      "link": "https://24-ore.com/texans-dhe-c-j-stroud-shtyjne-bisedimet-per-rinovimin-deri-pas-sezonit/",
+      "description": "C.J. Stroud dhe Houston Texans kanë vendosur të pezullojnë negociatat për një kontratë të re dhe të rikthehen te bisedimet vetëm pas përfundimit të sezonit...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-12T23:01:36+00:00",
+      "dateStr": "12 Sep, 23:01",
+      "isNew": true,
+      "id": "24 31789254096"
+    },
+    {
+      "title": "Humus klasik mesdhetar — krem i butë qiqrash me tahin dhe vaj ulliri",
+      "link": "https://24-ore.com/humus-klasik-mesdhetar-krem-i-bute-qiqrash-me-tahin-dhe-vaj-ulliri/",
+      "description": "Një nga mezetë më të famshme të Lindjes së Mesme: krem i mëndafshtë me qiqra, tahin, limon e vaj ulliri — gati për 10 minuta dhe perfekt me bukë pite të ngrohtë.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-12T22:52:08+00:00",
+      "dateStr": "12 Sep, 22:52",
+      "isNew": true,
+      "id": "24 41789253528"
+    },
+    {
+      "title": "Para se të zemërohemi me pagat e gjyqtarëve",
+      "link": "https://24-ore.com/para-se-te-zemerohemi-me-pagat-e-gjyqtareve/",
+      "description": "Debati që ka shpërthyer në Shqipëri për pagat e gjyqtarëve dhe prokurorëve po paraqitet kryesisht si një konflikt midis interesit publik dhe kërkesave financiare të një kategorie që tashmë paguhet shumë më mirë se shumica e qytetarëve. Kryeministri Edi Rama ka folur për një rritje prej 51 për qind d",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-12T22:24:57+00:00",
+      "dateStr": "12 Sep, 22:24",
+      "isNew": true,
+      "id": "24 51789251897"
+    },
+    {
+      "title": "Chris Kreider firmos një vit me Montreal Canadiens pas shkëputjes së kontratës nga Anaheim Ducks",
+      "link": "https://24-ore.com/chris-kreider-firmos-nje-vit-me-montreal-canadiens-pas-shkeputjes-se-kontrates-nga-anaheim-ducks/",
+      "description": "Chris Kreider ka nënshkruar një kontratë njëvjeçare me Montreal Canadiens; termat financiarë nuk janë bërë publike. 35-vjeçari i mbetej një sezon nga kontr...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-12T22:18:28+00:00",
+      "dateStr": "12 Sep, 22:18",
+      "isNew": true,
+      "id": "24 61789251508"
+    },
+    {
+      "title": "Kur mund të bëjnë startet e para Fernando Mendoza dhe tetë të tjerë nga klasa e quarterbackëve e Draftit 2026",
+      "link": "https://24-ore.com/kur-mund-te-bejne-startet-e-para-fernando-mendoza-dhe-tete-te-tjere-nga-klasa-e-quarterbackeve-e-draftit-2026/",
+      "description": "Java e parë e sezonit 2026 fillon pa asnjë quarterback rookie të parashikuar si titullar, një ngjarje e rrallë që ndodh për herë të dytë në 19 sezonet e fu...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-12T22:17:26+00:00",
+      "dateStr": "12 Sep, 22:17",
+      "isNew": true,
+      "id": "24 71789251446"
+    },
+    {
+      "title": "“Marshi për Liri” bashkoi shqiptarët në Prishtinë – reagime nga Kosova, rajoni e bota",
+      "link": "https://24-ore.com/marshi-per-liri-bashkoi-shqiptaret-ne-prishtine-reagime-nga-kosova-rajoni-e-bota/",
+      "description": "Në Prishtinë është zhvilluar sot (shtunë) “Marshi për Liri”, në mbështetje të ish-krerëve të Ushtrisë Çlirimtare të Kosovës që po gjykohen në Hagë, vetëm katër ditë para shpalljes së aktgjykimit përfundimtar në rastin ndaj Hashim Thaçit, Kadri Veselit, Rexhep Selimit dhe Jakup Krasniqit. Në marsh mo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-12T22:14:10+00:00",
+      "dateStr": "12 Sep, 22:14",
+      "isNew": true,
+      "id": "24 81789251250"
+    },
+    {
+      "title": "Ora e Njëmbëdhjetë me Erisa Koxhaj, (12/09/2026)",
+      "link": "https://abcnews.al/ora-e-njembedhjete-me-erisa-koxhaj-12-09-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-12T21:55:06+00:00",
+      "dateStr": "12 Sep, 21:55",
+      "isNew": true,
+      "id": "abc01789250106"
+    },
+    {
+      "title": "Sesioni i ri parlamentar/ Elezi: Fokusi i mazhorancës, integrimi në BE. Prania besnike, më afër qytetarit",
+      "link": "https://abcnews.al/sesioni-i-ri-parlamentar-elezi-fokusi-i-mazhorances-integrimi-ne-be-prania-besnike-me-afer-qytetarit/",
+      "description": "Ish kandidatja për deputete e PS, Kejsi Elezi thotë se fokusi i mazhorancës është integrimi në BE. &#8220;Në një intervistë për &#8220;Ora e Njëmbëdhjetë&#8221; në ABC News, Elezi u shpreh se nisma e re e mazhorancës, Besa dhe Prania Besnike, kanë për qëllim të jenë më afër qytetarit. &#8220;Bashkë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-12T21:50:23+00:00",
+      "dateStr": "12 Sep, 21:50",
+      "isNew": true,
+      "id": "abc11789249823"
+    },
+    {
+      "title": "Jemeni dhe Arabia Saudite përgatiten t’i përgjigjen marrjes së Bab al-Mandebit nga Huthi-t",
+      "link": "https://24-ore.com/jemeni-dhe-arabia-saudite-pergatiten-ti-pergjigjen-marrjes-se-bab-al-mandebit-nga-huthi-t/",
+      "description": "Arabia Saudite dhe qeveria jemenasë e njohur ndërkombëtarisht kanë deklaruar se do t'i përgjigjen marrjes së Mokhës dhe ngushticës Bab al-Mandeb nga Huthi-t, raportoi Al Jazeera, ndërsa grupi i mbështetur nga Irani fiton levë për kërkesa politike, përfshirë lirimin e të burgosurve.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-12T21:49:22+00:00",
+      "dateStr": "12 Sep, 21:49",
+      "isNew": true,
+      "id": "24 91789249762"
+    },
+    {
+      "title": "Kosova pret Hashim Thaçin/ Beqiri: Argita Berisha e Lulzim Basha kundër UÇK, hartuan akuzat e rreme",
+      "link": "https://abcnews.al/kosova-pret-hashim-thacin-beqiri-argita-berisha-e-lulzim-basha-kunder-uck-hartuan-akuzat-e-rreme/",
+      "description": "Avokati Idajet Beqiri thotë se ish kryeministri Sali Berisha nuk e ka mbështetur UÇK-në, madje në fillimet e saj e ka cilësuar një organizatë terroriste. Në një intervistë për &#8220;Ora e Njëmbëdhjetë&#8221;, Beqiri u shpreh se Argita Berisha e Lulzim Basha hartuan akuzat e rreme ndaj krerëve të UÇ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-12T21:37:53+00:00",
+      "dateStr": "12 Sep, 21:37",
+      "isNew": true,
+      "id": "abc21789249073"
+    },
+    {
+      "title": "Teuta prin Superligën/ Durrsakët mundin 2-0 Vorën në shtëpi, në javen e katërt",
+      "link": "https://abcnews.al/teuta-prin-superligen-durrsaket-mundin-2-0-voren-ne-shtepi-ne-javen-e-katert/",
+      "description": "Teuta mori kreun e Superligës, të paktën në mënyrë të përkohshme pas fitores në javën e katërt ndaj Vorës. Në stadiumin “Niko Dovana”, vendasit ia dolën me golat e shënuar në fundin e secilës pjesë të lojës. I pari në minutën e dytë shtesë të pjesës së parë, ndërsa i dyti me penallti nga Pedro [...]",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-12T21:18:05+00:00",
+      "dateStr": "12 Sep, 21:18",
+      "isNew": true,
+      "id": "abc31789247885"
+    },
+    {
+      "title": "Dinamon s’ka “të kuq” që ta ndalin/ Blutë fitojnë me meritë 4-2 derbin e kryeqytetit ndaj Partizanit",
+      "link": "https://abcnews.al/dinamon-ska-te-kuq-qe-ta-ndalin-blute-fitojne-me-merite-4-2-derbin-e-kryeqytetit-ndaj-partizanit/",
+      "description": "Tifozët e kuq ndoshta kishin shpresë tek ndonjë mrekulli. Edhe pse po flasim për derbi, forma e Partizanit këtë sezon deri tani është e tillë që nuk të jep shumë shpresë, dhe sfida ndaj Dinamos konfirmoi krizën. Pavarësisht suksesit në Shkodër ndaj Vllaznisë, u kuptua se ishte e pamundur të shmangej",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-12T21:09:35+00:00",
+      "dateStr": "12 Sep, 21:09",
+      "isNew": true,
+      "id": "abc41789247375"
     },
     {
       "title": "“Këtu gjete të vendosësh vigon? Boll punë kemi”/ Gazetarja rrëfen ngjarjen e rëndë në Pediatrinë e QSUT-së: Infermieret nuk vendosin dot serumin",
@@ -34,51 +188,7 @@
       "date": "2026-09-12T20:50:47+00:00",
       "dateStr": "12 Sep, 20:50",
       "isNew": true,
-      "id": "abc01789246247"
-    },
-    {
-      "title": "Imam Bajalldi — patëllxhanë të mbushur në stilin osman",
-      "link": "https://24-ore.com/imam-bajalldi-patellxhane-te-mbushur-ne-stilin-osman/",
-      "description": "Patëllxhanë të fërguar, të mbushur me qepë të skuqura, speca, domate e hudhra dhe të ziera ngadalë në vaj ulliri — gjella legjendare osmane që, sipas legjendës, i \"ra të fikët\" vetë imamit nga kënaqësia.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-12T20:50:38+00:00",
-      "dateStr": "12 Sep, 20:50",
-      "isNew": true,
-      "id": "24 11789246238"
-    },
-    {
-      "title": "Çfarë fshihet pas teorisë së Prokurorisë? Eksperti amerikan ‘zbërthen’ rastin ndaj ish-krerëve të UÇK-së",
-      "link": "https://24-ore.com/cfare-fshihet-pas-teorise-se-prokurorise-eksperti-amerikan-zberthen-rastin-ndaj-ish-krereve-te-uck-se/",
-      "description": "Profesori amerikan Timothy Waters, ekspert i së drejtës penale ndërkombëtare, ka dhënë një intervistë për Radion Evropa e Lirë (REL), ku ka komentuar procesin gjyqësor ndaj Hashim Thaçit, Kadri Veselit, Rexhep Selimit dhe Jakup Krasniqit në Dhomat e Specializuara të Kosovës në Hagë. Waters, profesor",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-12T20:48:10+00:00",
-      "dateStr": "12 Sep, 20:48",
-      "isNew": true,
-      "id": "24 21789246090"
-    },
-    {
-      "title": "Kievi përgatitet për rifillimin e bisedimeve trepalëshe në tetor, thotë zyrtari i lartë ukrainas",
-      "link": "https://24-ore.com/kievi-pergatitet-per-rifillimin-e-bisedimeve-trepaleshe-ne-tetor-thote-zyrtari-i-larte-ukrainas/",
-      "description": "Shefi i stafit të presidentit ukrainas Volodymyr Zelensky, Kyrylo Budanov, deklaroi të shtunën se Kievi po përgatitet për rifillimin në tetor të bisedimeve trepalëshe me Rusinë dhe Shtetet e Bashkuara për t&#8217;i dhënë fund luftës që ka hyrë në vitin e pestë. Budanov, i cituar nga mediat ukrainase",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-12T20:40:36+00:00",
-      "dateStr": "12 Sep, 20:40",
-      "isNew": true,
-      "id": "24 31789245636"
-    },
-    {
-      "title": "“Askush nuk do t’i heqë logon Selenicës” – Rama garanton ruajtjen e identitetit dhe shtimin e funksioneve pas bashkimit me Vlorën",
-      "link": "https://24-ore.com/askush-nuk-do-ti-heqe-logon-selenices-rama-garanton-ruajtjen-e-identitetit-dhe-shtimin-e-funksioneve-pas-bashkimit-me-vloren/",
-      "description": "Kryeministri Edi Rama ishte këtë të shtunë, më 12 shtator, në Pallatin e Kulturës në Vlorë, ku zhvilloi një takim të zgjeruar me strukturat e Partisë Socialiste dhe qytetarët e zonës, me fokus Reformën Territoriale dhe konkretisht shkrirjen e bashkisë Selenicë për bashkimin e saj me Vlorën. Rama e p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-12T20:38:12+00:00",
-      "dateStr": "12 Sep, 20:38",
-      "isNew": true,
-      "id": "24 41789245492"
+      "id": "abc51789246247"
     },
     {
       "title": "Emri/ Mësuesit i hedhin tritolin në oborrin e banesës! Zbardhen detaje nga ngjarja në Shkodër",
@@ -111,62 +221,7 @@
       "date": "2026-09-12T20:24:00+00:00",
       "dateStr": "12 Sep, 20:24",
       "isNew": true,
-      "id": "abc11789244640"
-    },
-    {
-      "title": "Nga “Taken” te Thethi; TikTokeri, me 4 milionë ndjekës, që i tregoi botës një Shqipëri tjetër",
-      "link": "https://24-ore.com/nga-taken-te-thethi-tiktokeri-me-4-milione-ndjekes-qe-i-tregoi-botes-nje-shqiperi-tjeter/",
-      "description": "Kalani Smith, krijuesi amerikan i përmbajtjes i njohur si “Kalani Ghost Hunter”, me mbi 4 milionë ndjekës në platformat sociale, erdhi në Shqipëri duke ditur pak për vendin dhe me një imazh të krijuar pjesërisht nga e kaluara komuniste dhe kultura pop. U largua i befasuar nga Thethi, mikpritja, çmim",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-12T20:18:45+00:00",
-      "dateStr": "12 Sep, 20:18",
-      "isNew": true,
-      "id": "24 51789244325"
-    },
-    {
-      "title": "Shqipëria, me kostot më të larta të prodhimit bujqësor në rajon",
-      "link": "https://24-ore.com/shqiperia-me-kostot-me-te-larta-te-prodhimit-bujqesor-ne-rajon/",
-      "description": "Fermerët shqiptarë përballen me kosto më të larta prodhimi se konkurrentët e tyre në rajon, si pasojë e varësisë së madhe nga inputet e importuara, mbështetjes së ulët financiare nga shteti, mungesës së fuqisë punëtore dhe dobësive në infrastrukturën bujqësore. Kombinimi i këtyre faktorëve e bën pro",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-12T20:18:29+00:00",
-      "dateStr": "12 Sep, 20:18",
-      "isNew": true,
-      "id": "24 61789244309"
-    },
-    {
-      "title": "LVV mban mbledhje të jashtëzakonshme, vendos t’i votojë Çitakun e Shalën për nënkryetarë të Kuvendit",
-      "link": "https://24-ore.com/lvv-mban-mbledhje-te-jashtezakonshme-vendos-ti-votoje-citakun-e-shalen-per-nenkryetare-te-kuvendit/",
-      "description": "Kryesia e Lëvizjes Vetëvendosje ka mbajtur të shtunën në mbrëmje mbledhje të jashtëzakonshme, ku ka marrë vendim që në seancën e nesërme të Kuvendit t’i votojë kandidatët e PDK-së dhe LDK-së për nënkryetarë, Vlora Çitakun dhe Kujtim Shalën. Në njoftimin e LVV-së thuhet se vendimi është marrë në kuad",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-12T20:18:14+00:00",
-      "dateStr": "12 Sep, 20:18",
-      "isNew": true,
-      "id": "24 71789244294"
-    },
-    {
-      "title": "Sophie Cunningham publikon podcast të ri dhe flet për Caitlin Clark dhe komisionerin e ardhshëm të WNBA-së",
-      "link": "https://24-ore.com/sophie-cunningham-publikon-podcast-te-ri-dhe-flet-per-caitlin-clark-dhe-komisionerin-e-ardhshem-te-wnba-se/",
-      "description": "Sophie Cunningham, krahina e Indiana Fever, publikoi të enjten një episod të ri podcasti ku diskutoi mbi bashkëlojtësen Caitlin Clark dhe pritshmëritë për...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-12T20:15:44+00:00",
-      "dateStr": "12 Sep, 20:15",
-      "isNew": true,
-      "id": "24 81789244144"
-    },
-    {
-      "title": "Trump në Dublin: Ribashkimi i Irlandës “do të ndodhë përfundimisht”",
-      "link": "https://24-ore.com/trump-ne-dublin-ribashkimi-i-irlandes-do-te-ndodhe-perfundimisht/",
-      "description": "Presidenti amerikan Donald Trump deklaroi të shtunën në Dublin se ribashkimi i Irlandës &#8220;do të ishte një gjë fantastike&#8221; dhe se &#8220;do të ndodhë përfundimisht&#8221;, duke u hedhur në një temë shumë të ndjeshme gjatë takimit bilateral me kryeministrin irlandez Micheál Martin. Komentet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-12T20:13:48+00:00",
-      "dateStr": "12 Sep, 20:13",
-      "isNew": true,
-      "id": "24 91789244028"
+      "id": "abc61789244640"
     },
     {
       "title": "Takimi për reformën territoriale Vlorë, Rama: Bashkimi Vlorë–Selenicë, në funksion të fuqizimit ekonomik e social të komuniteteve",
@@ -188,7 +243,7 @@
       "date": "2026-09-12T20:01:26+00:00",
       "dateStr": "12 Sep, 20:01",
       "isNew": true,
-      "id": "abc21789243286"
+      "id": "abc71789243286"
     },
     {
       "title": "Territorialja, Rama: Bashkimi Vlorë–Selenicë, në funksion të fuqizimit ekonomik e social të komuniteteve",
@@ -199,7 +254,7 @@
       "date": "2026-09-12T19:57:46+00:00",
       "dateStr": "12 Sep, 19:57",
       "isNew": true,
-      "id": "abc31789243066"
+      "id": "abc81789243066"
     },
     {
       "title": "Shpërthim në oborrin e një banesë pranë bashkisë në Shkodër! Pamjet nga vendngjarja (Video)",
@@ -232,7 +287,7 @@
       "date": "2026-09-12T19:41:16+00:00",
       "dateStr": "12 Sep, 19:41",
       "isNew": true,
-      "id": "abc41789242076"
+      "id": "abc91789242076"
     },
     {
       "title": "“Nga sot nisim përshkallëzimin”/ Emigranti nga Britania paralajmëron në protestë: Nuk ka marshim, por qëndrim në shesh",
@@ -246,17 +301,6 @@
       "id": "she61789241944"
     },
     {
-      "title": "Zjarret, 3 vatra aktive/ Shuhen flakët në Dibër dhe Fier",
-      "link": "https://abcnews.al/zjarret-3-vatra-aktive-shuhen-flaket-ne-diber-dhe-fier/",
-      "description": "Në 24 orët e fundit janë raportuar 11 vatra zjarri në vend, nga të cilat 3 mbeten aktive, 2 janë nën mbikëqyrje dhe 6 janë shuar plotësisht. Në operacione janë angazhuar 119 forca operacionale vendore dhe lokale, 12 automjete zjarrfikëse, si dhe 25 efektivë të Forcave të Armatosura. Vatrat aktive nd",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-12T19:24:26+00:00",
-      "dateStr": "12 Sep, 19:24",
-      "isNew": true,
-      "id": "abc51789241066"
-    },
-    {
       "title": "Video/ Incident në protestë! Ambulanca tenton të kalojë mes qytetarëve, disa bllokojnë rrugën: Provokim",
       "link": "https://shekulli.com.al/2026/09/12/video-incident-ne-proteste-ambulanca-tenton-te-kaloje-mes-qytetareve-disa-bllokojne-rrugen-provokim/",
       "description": "Një incident ka ndodhur në ditën e 105 të protestës së qytetarëve, që po zhvillohet sot para godinës së kryeministrisë. Në bulevardin “Dëshmorët e Kombit”, ku qytetarët janë mbledhur, ka tentuar të kalojë një ambulancë. Teksa një pjesë e qytetarëve shihet që hapin rrugën që mjeti i urgjencës të kalo",
@@ -268,17 +312,6 @@
       "id": "she71789240707"
     },
     {
-      "title": "Edicioni Qendror me Fabiola Hoxha, (12/09/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-fabiola-hoxha-12-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-12T19:06:22+00:00",
-      "dateStr": "12 Sep, 19:06",
-      "isNew": true,
-      "id": "abc61789239982"
-    },
-    {
       "title": "Lulzim Caka “koka” e grupit/ Ja si trafikohej nga Kolumbia droga e fshehur në trëndafila (Foto)",
       "link": "https://shekulli.com.al/2026/09/12/lulzim-caka-koka-e-grupit-ja-si-trafikohej-nga-kolumbia-droga-e-fshehur-ne-trendafila-foto/",
       "description": "Detaje janë zbardhur nga arrestimi i Lulzim Cakës në Greqi, në lidhje me trafikun e drogës. Arrestimi u krye në kuadër të operacionit të koduar &#8220;Lulet e së keqes&#8221;, të zhvilluar nga autoritetet greke së bashku me DEA-n amerikane për goditjen e një grupi kriminal shqiptar, të dyshuar për t",
@@ -288,39 +321,6 @@
       "dateStr": "12 Sep, 18:47",
       "isNew": true,
       "id": "she81789238871"
-    },
-    {
-      "title": "Korrespondent me Kasandra Pali, (12/09/2026)",
-      "link": "https://abcnews.al/korrespondent-me-kasandra-pali-12-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-12T18:45:11+00:00",
-      "dateStr": "12 Sep, 18:45",
-      "isNew": true,
-      "id": "abc71789238711"
-    },
-    {
-      "title": "Një varkë mbi liqenin e Kukësit/ Për turistët, një tjetër mënyrë për të zbuluar bukuritë e vijës liqenore",
-      "link": "https://abcnews.al/nje-varke-mbi-liqenin-e-kukesit-per-turistet-nje-tjeter-menyre-per-te-zbuluar-bukurite-e-vijes-liqenore/",
-      "description": "Një varkë turistike, e ndërtuar enkas për liqenin e Kukës ishte risia e sezonit veror, që iu shtua dashamirësve dhe adhuruesve për bukuritë natyrore. Për Etmondin dhe Emriun, të cilët menaxhojnë këtë varkë nuk ishte e lehtë, marrë në konsideratë rrethanat dhe starti i kësaj iniciative, por mbi të gj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-12T18:42:27+00:00",
-      "dateStr": "12 Sep, 18:42",
-      "isNew": true,
-      "id": "abc81789238547"
-    },
-    {
-      "title": "Rrugëtimi i një biznesi me varkë/ Blerina Proj nisi si punëtore në turizëm, sot drejton agjencinë e saj",
-      "link": "https://abcnews.al/rrugetimi-i-nje-biznesi-me-varke-blerina-proj-nisi-si-punetore-ne-turizem-sot-drejton-agjencine-e-saj/",
-      "description": "Në Sarandë, vera nuk matet vetëm me temperaturat apo numrin e turistëve që mbushin plazhet. Për disa, sezoni turistik është edhe një histori personale, e ndërtuar vit pas viti, mes detit, turistëve dhe një ëndrre që nisi me vetëm një skaf. Kjo është historia e Linës, një gruaje që mbërriti në këtë i",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-12T18:38:51+00:00",
-      "dateStr": "12 Sep, 18:38",
-      "isNew": true,
-      "id": "abc91789238331"
     },
     {
       "title": "Trump hedh tjetër “zjarr” drejt Britanisë së Madhe: Do doja të shihja një Irlandë të bashkuar",
