@@ -1,8 +1,85 @@
 {
-  "lastUpdated": "2026-09-13T22:48:20.515493+00:00",
+  "lastUpdated": "2026-09-14T00:38:27.427499+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Breanna Stewart shpallet MVP, SHBA fiton medaljen e artë dhe titullin e pestë radhazi në Botërorin e Basketbollit Femra 2026",
+      "link": "https://24-ore.com/breanna-stewart-shpallet-mvp-shba-fiton-medaljen-e-arte-dhe-titullin-e-peste-radhazi-ne-boterorin-e-basketbollit-femra-2026/",
+      "description": "Skuadra e Shteteve të Bashkuara fitoi medaljen e artë në FIBA Women's World Cup 2026, duke mundur Francën 97-79 në ndeshjen finale. Breanna Stewart u shpal...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-14T00:15:51+00:00",
+      "dateStr": "14 Sep, 00:15",
+      "isNew": true,
+      "id": "24 01789344951"
+    },
+    {
+      "title": "Joey Chestnut: Oracle Park ka ushqimin më të mirë të stadiumeve",
+      "link": "https://24-ore.com/joey-chestnut-oracle-park-ka-ushqimin-me-te-mire-te-stadiumeve/",
+      "description": "Joey Chestnut, kampioni i njohur i konkurrimeve të ngrënies, vlerësoi se Oracle Park në San Francisko ofron ushqimin më të mirë midis stadiumeve sportive....",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-14T00:11:29+00:00",
+      "dateStr": "14 Sep, 00:11",
+      "isNew": true,
+      "id": "24 11789344689"
+    },
+    {
+      "title": "Debati për Inteligjencën Artificiale ndizet në Uashington: Obama kërkon rregulla, republikanët kundër",
+      "link": "https://24-ore.com/debati-per-inteligjencen-artificiale-ndizet-ne-uashington-obama-kerkon-rregulla-republikanet-kunder/",
+      "description": "Debati për Inteligjencën Artificiale po ndizet në Uashington: demokratët, me mbështetjen e Obama-s, kërkojnë rregulla urgjente pas esesë paralajmëruese të shefit të Anthropic, ndërsa republikanët thonë se rregullimi do t'i jepte fitoren Kinës.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-14T00:11:17+00:00",
+      "dateStr": "14 Sep, 00:11",
+      "isNew": true,
+      "id": "24 21789344677"
+    },
+    {
+      "title": "Pulë tikka masala — pjata klasike indiane me salcë kremozë domatesh dhe erëza",
+      "link": "https://24-ore.com/pule-tikka-masala-pjata-klasike-indiane-me-salce-kremoze-domatesh-dhe-ereza/",
+      "description": "Copa pule të marinuara në kos me erëza indiane, të pjekura e më pas të zhytura në një salcë të pasur kremozë me domate — një nga pjatat më të dashura të kuzhinës indiane, gati edhe në kuzhinën tuaj.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-13T23:52:25+00:00",
+      "dateStr": "13 Sep, 23:52",
+      "isNew": true,
+      "id": "24 31789343545"
+    },
+    {
+      "title": "Padres – Giants, 13 shtator 2026: përmbledhje e ndeshjes dhe zhvillime për skuadrat",
+      "link": "https://24-ore.com/padres-giants-13-shtator-2026-permbledhje-e-ndeshjes-dhe-zhvillime-per-skuadrat/",
+      "description": "Më 13 shtator 2026 San Diego Padres pritën San Francisco Giants në një ndeshje të ndjekur edhe në kanalin NBCSN. Para takimit, Padres paraqiteshin me rekor...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-13T23:27:49+00:00",
+      "dateStr": "13 Sep, 23:27",
+      "isNew": true,
+      "id": "24 41789342069"
+    },
+    {
+      "title": "Cal Nichols, që i mbajti Oilers në Edmonton në vitet 1990, vdes në moshën 84-vjeçare",
+      "link": "https://24-ore.com/cal-nichols-qe-i-mbajti-oilers-ne-edmonton-ne-vitet-1990-vdes-ne-moshen-84-vjecare/",
+      "description": "Cal Nichols, biznesmen dhe investitor që luajti një rol vendimtar për të mbajtur Edmonton Oilers në qytet gjatë viteve 1990, ka ndërruar jetë. Ai lindi në...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-13T23:26:45+00:00",
+      "dateStr": "13 Sep, 23:26",
+      "isNew": true,
+      "id": "24 51789342005"
+    },
+    {
+      "title": "Shopska sallatë — sallata ballkanike me domate, kastravec dhe djathë të bardhë",
+      "link": "https://24-ore.com/shopska-sallate-sallata-ballkanike-me-domate-kastravec-dhe-djathe-te-bardhe/",
+      "description": "Sallata më e famshme e Ballkanit — domate të freskëta, kastravec krokant, qepë dhe një shtresë bujare djathi të bardhë, e spërkatur me vaj ulliri.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-13T22:49:39+00:00",
+      "dateStr": "13 Sep, 22:49",
+      "isNew": true,
+      "id": "24 61789339779"
+    },
     {
       "title": "Droni rus godet trenin diplomatik në Yahodyn: Boris Johnson, David Petraeus dhe Carl Bildt i shpëtojnë sulmit pranë kufirit me Poloninë",
       "link": "https://24-ore.com/droni-rus-godet-trenin-diplomatik-ne-yahodyn-boris-johnson-david-petraeus-dhe-carl-bildt-i-shpetojne-sulmit-prane-kufirit-me-polonine/",
@@ -12,7 +89,7 @@
       "date": "2026-09-13T22:42:21+00:00",
       "dateStr": "13 Sep, 22:42",
       "isNew": true,
-      "id": "24 01789339341"
+      "id": "24 71789339341"
     },
     {
       "title": "Jennifer Lawrence rikthen ngjyrën teal në veshjet e përditshme",
@@ -23,7 +100,7 @@
       "date": "2026-09-13T22:40:43+00:00",
       "dateStr": "13 Sep, 22:40",
       "isNew": true,
-      "id": "24 11789339243"
+      "id": "24 81789339243"
     },
     {
       "title": "Drita-Gjilani pa gola, Prishtina vazhdon marshimin – Diatta shkëlqen në fitoren e prishtinasve",
@@ -34,84 +111,7 @@
       "date": "2026-09-13T22:31:00+00:00",
       "dateStr": "13 Sep, 22:31",
       "isNew": true,
-      "id": "24 21789338660"
-    },
-    {
-      "title": "Deputeti i AfD-së: Nuk mund të injorohet fakti se 92% e banorëve të Kosovës janë shqiptarë",
-      "link": "https://24-ore.com/deputeti-i-afd-se-nuk-mund-te-injorohet-fakti-se-92-e-banoreve-te-kosoves-jane-shqiptare/",
-      "description": "Deputeti i AfD-së, Tobias Teich i ftuar ka folur lidhur me qëndrimin e tij dhe të forcës së tij politike lidhur me çështjen e Kosovës dhe marrëdhëniet e saj me Serbinë. Sipas tij, përbërja etnike e Kosovës është një fakt që nuk mund të injorohet, megjithëse zgjidhja mbetet e ndërlikuar për shkak të ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-13T22:24:55+00:00",
-      "dateStr": "13 Sep, 22:24",
-      "isNew": true,
-      "id": "24 31789338295"
-    },
-    {
-      "title": "Qeveria e re e Kurtit votohet me 62 vota, opozita e konteston – përplasja zhvendoset në Kushtetuese",
-      "link": "https://24-ore.com/qeveria-e-re-e-kurtit-votohet-me-62-vota-opozita-e-konteston-perplasja-zhvendoset-ne-kushtetuese/",
-      "description": "Kuvendi i Kosovës e ka votuar të dielën Qeverinë e re të udhëhequr nga Albin Kurti, me 62 vota për, tetë kundër dhe asnjë abstenim. Me këtë votim, Kurti ka siguruar mandatin e katërt si kryeministër i Kosovës. Qeveria e re u votua vetëm disa orë pas konstituimit të Kuvendit, më 13 shtator 2026, ndër",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-13T22:24:34+00:00",
-      "dateStr": "13 Sep, 22:24",
-      "isNew": true,
-      "id": "24 41789338274"
-    },
-    {
-      "title": "Një mundësi e madhe për Ilya Protas te Washington Capitals",
-      "link": "https://24-ore.com/nje-mundesi-e-madhe-per-ilya-protas-te-washington-capitals/",
-      "description": "Ilya Protas, 20 vjeç, shkoi në stërvitjen e Washington Capitals me pritshmëri dhe pak nervozizëm pas paraqitjeve të mira në katër ndeshjet e para në NHL në...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-13T21:55:58+00:00",
-      "dateStr": "13 Sep, 21:55",
-      "isNew": true,
-      "id": "24 51789336558"
-    },
-    {
-      "title": "Një kuarterbek i Vikings, Kyler Murray, pëson konkusion në çerekun e parë ndaj Packers",
-      "link": "https://24-ore.com/nje-kuarterbek-i-vikings-kyler-murray-peson-konkusion-ne-cerekun-e-pare-ndaj-packers/",
-      "description": "Kuarterbeku i Minnesota Vikings, Kyler Murray, u nxorr nga loja pas një konkusioni që pësoi gjatë ndeshjes së së dielës kundër Green Bay Packers. Ai mori n...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-13T21:52:22+00:00",
-      "dateStr": "13 Sep, 21:52",
-      "isNew": true,
-      "id": "24 61789336342"
-    },
-    {
-      "title": "Künefe tradicionale — ëmbëlsirë turke me djathë dhe sherbet të ëmbël",
-      "link": "https://24-ore.com/kunefe-tradicionale-embelsire-turke-me-djathe-dhe-sherbet-te-embel/",
-      "description": "Fije të holla kadaifi me gjalpë, të mbushura me djathë të ëmbël që shkrihet, të shërbyera të nxehta me sherbet të lehtë dhe fistikë të shtypur — ëmbëlsira legjendare e kuzhinës turke, e njohur edhe në Ballkan.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-13T21:49:25+00:00",
-      "dateStr": "13 Sep, 21:49",
-      "isNew": true,
-      "id": "24 71789336165"
-    },
-    {
-      "title": "Trump minimizon rreziqet e AI-së: Kush fiton inteligjencën artificiale, fiton gjithçka",
-      "link": "https://24-ore.com/trump-minimizon-rreziqet-e-ai-se-kush-fiton-inteligjencen-artificiale-fiton-gjithcka/",
-      "description": "Presidenti amerikan Donald Trump ka minimizuar paralajmërimet gjithnjë e më të forta për rreziqet e inteligjencës artificiale, duke e vendosur theksin te gara strategjike me Kinën. “Kush fiton AI-në, fiton”, deklaroi Trump, ndërsa ekspertë dhe drejtues të industrisë kërkojnë ngadalësimin e zhvillimi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-13T21:39:03+00:00",
-      "dateStr": "13 Sep, 21:39",
-      "isNew": true,
-      "id": "24 81789335543"
-    },
-    {
-      "title": "Ulqini sërish pa ujë — ndërprerjet nga mungesa e energjisë në burimin Lisna Bori",
-      "link": "https://24-ore.com/ulqini-serish-pa-uje-nderprerjet-nga-mungesa-e-energjise-ne-burimin-lisna-bori/",
-      "description": "Pas ndërprerjes së djeshme në mëngjes, edhe sonte pritet furnizim i vështirë me ujë në të gjithë qytetin dhe në zonën e Anamalit.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-13T21:30:48+00:00",
-      "dateStr": "13 Sep, 21:30",
-      "isNew": true,
-      "id": "24 91789335048"
+      "id": "24 91789338660"
     },
     {
       "title": "Kishte dalë me leje nga burgu, Alket Rizai përplaset me armë në një “beach-bar” në Greqi! Arratiset pas ngjarjes",
