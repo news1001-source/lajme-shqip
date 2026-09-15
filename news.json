@@ -1,62 +1,139 @@
 {
-  "lastUpdated": "2026-09-14T21:20:53.595564+00:00",
-  "totalSources": 3,
-  "totalNews": 30,
+  "lastUpdated": "2026-09-15T00:11:31.169211+00:00",
+  "totalSources": 2,
+  "totalNews": 20,
   "news": [
     {
-      "title": "Britani, burri rrëfen se e drogoi dhe përdhunoi gruan e tij për dy dekada",
-      "link": "https://24-ore.com/britani-burri-rrefen-se-e-drogoi-dhe-perdhunoi-gruan-e-tij-per-dy-dekada/",
-      "description": "Një burrë britanik rrëfeu sot se e drogoi dhe e përdhunoi gruan e tij në shtëpinë e tyre për dy dekada. Burri, banor i Anglisë veriore, rreth moshës 60 vjeç, të dhënat e të cilit nuk janë bërë publike për të mos zbuluar identitetin e viktimës, u deklarua fajtor në Gjykatën e Kurorës së Mançesterit [",
+      "title": "Një i vrarë në sulmin izraelit në jug të Libanit",
+      "link": "https://24-ore.com/nje-i-vrare-ne-sulmin-izraelit-ne-jug-te-libanit/",
+      "description": "Forcat izraelite qëlluan dhe vranë një person në qytetin Baraachit në provincën Nabatieh, raporton agjencia palestineze e lajmeve Wafa, ndërsa përshkallëzimi vazhdon në frontin verior.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-14T21:20:50+00:00",
-      "dateStr": "14 Sep, 21:20",
+      "date": "2026-09-15T00:00:20+00:00",
+      "dateStr": "15 Sep, 00:00",
       "isNew": true,
-      "id": "24 01789420850"
+      "id": "24 01789430420"
     },
     {
-      "title": "Anthropic propozon metodën e mbylljes së plotë të inteligjencës artificiale: Mund të bëhet i detyrueshëm me ligj",
-      "link": "https://24-ore.com/anthropic-propozon-metoden-e-mbylljes-se-plote-te-inteligjences-artificiale-mund-te-behet-i-detyrueshem-me-ligj/",
-      "description": "Një “çelës vrasës” për inteligjencën artificiale, i cili do të mundësonte mbylljen e plotë të sistemeve në rast se ato bëhen shumë të rrezikshme, mund të duhet të bëhet i detyrueshëm për kompanitë e teknologjisë, sipas Jack Clark, një prej bashkëthemeluesve të Anthropic. Në një intervistë për BBC, C",
+      "title": "Erdogan: Turqia, Arabia Saudite dhe Pakistani dërgojnë sinjal për botën islame me paktin e mbrojtjes së Mekës",
+      "link": "https://24-ore.com/erdogan-turqia-arabia-saudite-dhe-pakistani-dergojne-sinjal-per-boten-islame-me-paktin-e-mbrojtjes-se-mekes/",
+      "description": "Presidenti turk tha se Ankaraja po e \"vë peshën e saj\" për të ndihmuar botën islame të kapërcejë sfidat, në mes të luftës SHBA–Iran dhe përshkallëzimit në Jemen.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-14T21:20:38+00:00",
-      "dateStr": "14 Sep, 21:20",
+      "date": "2026-09-14T23:55:40+00:00",
+      "dateStr": "14 Sep, 23:55",
       "isNew": true,
-      "id": "24 11789420838"
+      "id": "24 11789430140"
     },
     {
-      "title": "Afrika e Jugut, 21 të vdekur në një sulm me makinë-bombë",
-      "link": "https://24-ore.com/afrika-e-jugut-21-te-vdekur-ne-nje-sulm-me-makine-bombe/",
-      "description": "Të paktën 21 persona u vranë sot në Afrikën e Jugut , në një përplasje midis tre automjeteve – dy minibusë taksi dhe një makinë pasagjerësh – në provincën e Kepit Perëndimor, njoftuan autoritetet. Tre persona të tjerë u plagosën rëndë në aksidentin, i cili ndodhi në orët e para të mëngjesit midis qy",
+      "title": "Crème brûlée klasike franceze — ëmbëlsirë me vanilje dhe karamel të kërcitur",
+      "link": "https://24-ore.com/creme-brulee-klasike-franceze-embelsire-me-vanilje-dhe-karamel-te-kercitur/",
+      "description": "Krem vaniljeje i butë dhe i pjekur ngadalë, i mbuluar me një shtresë sheqeri të karamelizuar që kërcet nën lugë — ëmbëlsira franceze që nuk del kurrë nga moda.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-14T21:20:22+00:00",
-      "dateStr": "14 Sep, 21:20",
+      "date": "2026-09-14T23:53:09+00:00",
+      "dateStr": "14 Sep, 23:53",
       "isNew": true,
-      "id": "24 21789420822"
+      "id": "24 21789429989"
     },
     {
-      "title": "Ish-agjenti maroken ofroi informacione për spiunazhin e Marokut në këmbim të mbrojtjes nga ekstradimi në Spanjë",
-      "link": "https://24-ore.com/ish-agjenti-maroken-ofroi-informacione-per-spiunazhin-e-marokut-ne-kembim-te-mbrojtjes-nga-ekstradimi-ne-spanje/",
-      "description": "Ish-oficeri i inteligjencës marokene Mehdi Hijaouy kontaktoi gjatë verës së vitit 2024 persona të afërt me ish-shefin e inteligjencës ushtarake venezueliane Hugo Carvajal, duke ofruar informacione për autoritetet spanjolle në këmbim të mbrojtjes nga një ekstradim i mundshëm në Marok, raporton The Ob",
+      "title": "Rikthimet më të paharrueshme pas dëmtimeve në sportet e fundit",
+      "link": "https://24-ore.com/rikthimet-me-te-paharrueshme-pas-demtimeve-ne-sportet-e-fundit/",
+      "description": "Patrick Mahomes iu nënshtrua këputjes së ligamentit kryesor të gjurit (ACL) dhe ligamentit të brendshëm (LCL) në dhjetor 2025, një dëmtim që i shënoi fundi...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-14T21:20:07+00:00",
-      "dateStr": "14 Sep, 21:20",
+      "date": "2026-09-14T23:32:27+00:00",
+      "dateStr": "14 Sep, 23:32",
       "isNew": true,
-      "id": "24 31789420807"
+      "id": "24 31789428747"
     },
     {
-      "title": "Ron Yeffet donte me çdo kusht depozitat e gazit! “Delvina gas” e çon çështjen në ëashington: 100 mijë dollarë në muaj për lobimin",
-      "link": "https://shekulli.com.al/2026/09/14/ron-yeffet-donte-me-cdo-kusht-depozitat-e-gazit-delvina-gas-e-con-ceshtjen-ne-eashington-100-mije-dollare-ne-muaj-per-lobimin/",
-      "description": "Përgjimet e reja midis biznesmenit Ron Yeffet, një shtetasi ukrainas dhe një rusi, kanë hedhur dritë mbi prapaskenat për të shtënë në dorë një pasuri qindra-milionë dollarëshe, atë të depozitave të gazit në afërsi të qytetit të Delvinës. Yeffet dëgjohet në përgjime duke instruktuar shtetasit e huaj ",
-      "source": "Shekulli",
+      "title": "Nëse po e heq grimin kështu, lëkura jote mund të paguajë çmimin",
+      "link": "https://24-ore.com/nese-po-e-heq-grimin-keshtu-lekura-jote-mund-te-paguaje-cmimin/",
+      "description": "Heqja e grimit nuk do të thotë ta fërkosh fytyrën derisa të mos mbetet asgjë. Përkundrazi, sa më shumë ta sforcosh lëkurën, aq më shumë mund ta irritosh. Dermatologët shpjegojnë mënyrën më të mirë për të hequr çdo gjurmë grimi, pa dëmtuar lëkurën gjatë procesit. Pse duhet ta heqësh grimin çdo mbrëmj",
+      "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-14T21:19:30+00:00",
-      "dateStr": "14 Sep, 21:19",
+      "date": "2026-09-14T23:31:31+00:00",
+      "dateStr": "14 Sep, 23:31",
       "isNew": true,
-      "id": "she01789420770"
+      "id": "24 41789428691"
+    },
+    {
+      "title": "Nga lëkura te pesha dhe zemra: Çfarë mund të ndryshojë nëse ha disa bajame çdo ditë",
+      "link": "https://24-ore.com/nga-lekura-te-pesha-dhe-zemra-cfare-mund-te-ndryshoje-nese-ha-disa-bajame-cdo-dite/",
+      "description": "Një grusht bajame mund të duket si snack-u më i zakonshëm në botë, por nëse i ha rregullisht, efekti mund të shkojë përtej faktit që të mbajnë të ngopur mes vakteve. Bajamet përmbajnë proteina bimore, fibra, yndyrna të pangopura, vitaminë E, magnez dhe kalcium dhe ky kombinim është arsyeja pse sjell",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-14T23:31:11+00:00",
+      "dateStr": "14 Sep, 23:31",
+      "isNew": true,
+      "id": "24 51789428671"
+    },
+    {
+      "title": "New York Yankees në Target Field ndaj Minnesota Twins, 14 shtator 2026",
+      "link": "https://24-ore.com/new-york-yankees-ne-target-field-ndaj-minnesota-twins-14-shtator-2026/",
+      "description": "New York Yankees udhëtuan në Target Field të Minneapolis për ndeshjen e 14 shtatorit 2026 kundër Minnesota Twins. Për ndeshjen e mbrëmjes si fillestarë u p...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-14T23:31:07+00:00",
+      "dateStr": "14 Sep, 23:31",
+      "isNew": true,
+      "id": "24 61789428667"
+    },
+    {
+      "title": "Bobrovsky kalon nga kundërshtar në shok me Raddysh dhe Paul te Toronto Maple Leafs",
+      "link": "https://24-ore.com/bobrovsky-kalon-nga-kundershtar-ne-shok-me-raddysh-dhe-paul-te-toronto-maple-leafs/",
+      "description": "Sergei Bobrovsky thotë se rivalitetet e mëparshme me Darren Raddysh dhe Nick Paul tashmë i përkasin së shkuarës, pasi të tre janë pjesë e Toronto Maple Lea...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-14T23:28:27+00:00",
+      "dateStr": "14 Sep, 23:28",
+      "isNew": true,
+      "id": "24 71789428507"
+    },
+    {
+      "title": "Zyrtari i lartë i sigurisë iraniane hedh poshtë sinjalet e Trump-it për bisedime: “S’ka bisedime derisa të plotësohen kushtet e Iranit”",
+      "link": "https://24-ore.com/zyrtari-i-larte-i-sigurise-iraniane-hedh-poshte-sinjalet-e-trump-it-per-bisedime-ska-bisedime-derisa-te-plotesohen-kushtet-e-iranit/",
+      "description": "Mohsen Rezaei, sekretari i Këshillit të Lartë të Sigurisë Kombëtare të Iranit, e akuzoi presidentin amerikan Donald Trump për \"sinjale të përziera\" dhe deklaroi se me Uashingtonin nuk do të ketë bisedime derisa të plotësohen kushtet e Teheranit.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-14T23:27:38+00:00",
+      "dateStr": "14 Sep, 23:27",
+      "isNew": true,
+      "id": "24 81789428458"
+    },
+    {
+      "title": "Selena Gomez shkëlqen me fustan të ar në tapetin e kuq të Emmy-ve",
+      "link": "https://24-ore.com/selena-gomez-shkelqen-me-fustan-te-ar-ne-tapetin-e-kuq-te-emmy-ve/",
+      "description": "Selena Gomez tërhoqi vëmendjen në tapetin e kuq të Emmy-ve me një fustan kolone pa shpinë në nuancë ari metalik që shkëlqente si një sipërfaqe prej metali....",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-14T23:25:52+00:00",
+      "dateStr": "14 Sep, 23:25",
+      "isNew": true,
+      "id": "24 91789428352"
+    },
+    {
+      "title": "“Gjyqësori po i hedh benzinë zjarrit”/ Pagat e magjistratëve, Beqiri: Palë me opozitën që kërkon destabilitet",
+      "link": "https://abcnews.al/gjyqesori-po-i-hedh-benzine-zjarrit-pagat-e-magjistrateve-beqiri-pale-me-opoziten-qe-kerkon-destabilitet/",
+      "description": "Avokati Idajet Beqiri thotë se konflikti mes gjyqësorit dhe qeverisë për pagat e magjistratëve nuk duhej të ndodhte. Në një intervistë për &#8220;Ora e Njëmbëdhjetë&#8221; në ABC News, Beqiri u shpreh se gjyqësori duhej të konsultohej me ekzekutivin dhe legjislativin. Beqiri shtoi se pushteti gjyqës",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-14T21:33:50+00:00",
+      "dateStr": "14 Sep, 21:33",
+      "isNew": true,
+      "id": "abc01789421630"
+    },
+    {
+      "title": "Sheshi i Dollarit me Genta Dobra, (14/09/2026)",
+      "link": "https://abcnews.al/sheshi-i-dollarit-me-genta-dobra-14-09-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-14T21:28:15+00:00",
+      "dateStr": "14 Sep, 21:28",
+      "isNew": true,
+      "id": "abc11789421295"
     },
     {
       "title": "Balla: Policia bëri detyrën/ Kreu i grupit parlamentar të PS: Perimetri i sigurisë së shkollave është i paprekshëm",
@@ -67,18 +144,7 @@
       "date": "2026-09-14T21:18:09+00:00",
       "dateStr": "14 Sep, 21:18",
       "isNew": true,
-      "id": "abc01789420689"
-    },
-    {
-      "title": "“CBS News”: Të dyshuarit për mashtrim me fondet e pandemisë nuk do të marrin më kredi qeveritare",
-      "link": "https://24-ore.com/cbs-news-te-dyshuarit-per-mashtrim-me-fondet-e-pandemise-nuk-do-te-marrin-me-kredi-qeveritare/",
-      "description": "&#8211; Rreth 870 mijë persona të dyshuar për mashtrim me programet federale të ndihmës gjatë pandemisë COVID-19, do të përjashtohen nga mundësia për të marrë kredi të ardhshme nga qeveria amerikane, njoftoi sot zëvendëspresidenti i SHBA-së, JD Vance, sipas “CBS News“. Vance deklaroi se personat që ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-14T21:16:01+00:00",
-      "dateStr": "14 Sep, 21:16",
-      "isNew": true,
-      "id": "24 41789420561"
+      "id": "abc21789420689"
     },
     {
       "title": "Microsoft publikon rregulla të reja për kontrollin mbi Inteligjencën Artificiale",
@@ -89,62 +155,7 @@
       "date": "2026-09-14T21:14:21+00:00",
       "dateStr": "14 Sep, 21:14",
       "isNew": true,
-      "id": "abc11789420461"
-    },
-    {
-      "title": "“Kam qenë dëshmitar i vrasjes”, Spahiu flet për Azem Hajdarin: Pse SHBA i kërkoi PD-së të hiqnin dorë nga hak",
-      "link": "https://24-ore.com/kam-qene-deshmitar-i-vrasjes-spahiu-flet-per-azem-hajdarin-pse-shba-i-kerkoi-pd-se-te-hiqnin-dore-nga-hak/",
-      "description": "Juristi Kreshnik Spahiu ka rrëfyer detaje nga vrasja e Azem Hajdarit në vitin 1998, e cila u pasua me një grusht shteti të dështuar të organizuar nga Partia Demokratike në datat 13 dhe 14 shtator. Në një lidhje për emisionin ‘Repolitix’ me gazetarin Denis Minga në Report Tv, Spahiu tha se vrasja e A",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-14T21:03:16+00:00",
-      "dateStr": "14 Sep, 21:03",
-      "isNew": true,
-      "id": "24 51789419796"
-    },
-    {
-      "title": "“Kam qenë dëshmitar i vrasjes”, Spahiu flet për Azem Hajdarin: Pse SHBA i kërkoi PD-së të hiqnin dorë nga hak",
-      "link": "https://24-ore.com/kam-qene-deshmitar-i-vrasjes-spahiu-flet-per-azem-hajdarin-pse-shba-i-kerkoi-pd-se-te-hiqnin-dore-nga-hak-2/",
-      "description": "Juristi Kreshnik Spahiu ka rrëfyer detaje nga vrasja e Azem Hajdarit në vitin 1998, e cila u pasua me një grusht shteti të dështuar të organizuar nga Partia Demokratike në datat 13 dhe 14 shtator. Në një lidhje për emisionin ‘Repolitix’ me gazetarin Denis Minga në Report Tv, Spahiu tha se vrasja e A",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-14T21:03:16+00:00",
-      "dateStr": "14 Sep, 21:03",
-      "isNew": true,
-      "id": "24 61789419796"
-    },
-    {
-      "title": "“Vendimi i KLGJ dhe KLP, i turpshëm”/ Pagat e magjistratëve, Spaho: Vendosin Qeveria dhe Kuvendi!",
-      "link": "https://24-ore.com/vendimi-i-klgj-dhe-klp-i-turpshem-pagat-e-magjistrateve-spaho-vendosin-qeveria-dhe-kuvendi/",
-      "description": "Në një intervistë për emisionin “Sheshi i Dollarit”, Saho akuzoi qeverinë për arrogancë në vendimmarrje, ndërsa e konsideroi arbitrar vendimin e Gjykatës Kushtetuese. Ai kundërshtoi gjithashtu kërkesat për rritje të mëtejshme të pagave për gjyqtarët e GJKKO-së, SPAK-ut dhe gjyqësorit. “Për mendimin ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-14T21:03:00+00:00",
-      "dateStr": "14 Sep, 21:03",
-      "isNew": true,
-      "id": "24 71789419780"
-    },
-    {
-      "title": "“Vendimi i KLGJ dhe KLP, i turpshëm”/ Pagat e magjistratëve, Spaho: Vendosin Qeveria dhe Kuvendi!",
-      "link": "https://24-ore.com/vendimi-i-klgj-dhe-klp-i-turpshem-pagat-e-magjistrateve-spaho-vendosin-qeveria-dhe-kuvendi-2/",
-      "description": "Në një intervistë për emisionin “Sheshi i Dollarit”, Saho akuzoi qeverinë për arrogancë në vendimmarrje, ndërsa e konsideroi arbitrar vendimin e Gjykatës Kushtetuese. Ai kundërshtoi gjithashtu kërkesat për rritje të mëtejshme të pagave për gjyqtarët e GJKKO-së, SPAK-ut dhe gjyqësorit. “Për mendimin ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-14T21:03:00+00:00",
-      "dateStr": "14 Sep, 21:03",
-      "isNew": true,
-      "id": "24 81789419780"
-    },
-    {
-      "title": "Vdekja e Mazonakis: prokurorët ashpërsojnë akuzat ndaj dy mjekëve, deri në 20 vjet burg",
-      "link": "https://24-ore.com/vdekja-e-mazonakis-prokuroret-ashpersojne-akuzat-ndaj-dy-mjekeve-deri-ne-20-vjet-burg/",
-      "description": "Dy mjekë, çift, akuzohen për \"vrasje me dashje të mundshme\" pas vdekjes së këngëtarit Giorgos Mazonakis në klinikën e tyre private më 9 shtator, ndërsa policia thotë se ata u përpoqën të fshihnin provat.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-14T21:01:27+00:00",
-      "dateStr": "14 Sep, 21:01",
-      "isNew": true,
-      "id": "24 91789419687"
+      "id": "abc31789420461"
     },
     {
       "title": "Gjykatat “futen” në politikë/ Lami: Jemi përballë një precedenti të rrezikshëm. Leka: Në pikëpyetje besueshmëria e drejtësisë",
@@ -155,29 +166,7 @@
       "date": "2026-09-14T20:56:00+00:00",
       "dateStr": "14 Sep, 20:56",
       "isNew": true,
-      "id": "abc21789419360"
-    },
-    {
-      "title": "Daja i Zegjine Çaushit e plagosi me drapër, dëshmia tronditëse e 67-vjeçarit: Erdhi të më rrëmbente vajzën, e ka përdhunuar dhe mbajtur me forcë për 45 ditë",
-      "link": "https://shekulli.com.al/2026/09/14/daja-i-zegjine-caushit-e-plagosi-me-draper-deshmia-tronditese-e-67-vjecarit-erdhi-te-me-rrembente-vajzen-e-ka-perdhunuar-dhe-mbajtur-me-force/",
-      "description": "Mbrëmjen e djeshme në fshatin Suk të Roskovecit, Bledar Bakaj (52 vjeç) plagosi me drapër Enver Gremaj, 67 vjeç. Ky i fundit është i ati i ish-bashkëjetueses së tij, Merita Gremaj, e cila thotë se ka kaluar gjëra të tmerrshme dhe ka nevojë për psikolog. &#160; Bakaj është daja i deputetes socialiste",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-14T20:54:50+00:00",
-      "dateStr": "14 Sep, 20:54",
-      "isNew": true,
-      "id": "she11789419290"
-    },
-    {
-      "title": "Përgjimi i ri/ Ron Yeffet për depozitat e gazit në Shqipëri: Shkoni në Vlorë, bëni ç’të doni! Ministrinë e Energjisë ma lini mua",
-      "link": "https://shekulli.com.al/2026/09/14/pergjimi-i-ri-ron-yeffet-per-depozitat-e-gazit-ne-shqiperi-shkoni-ne-vlore-beni-cte-doni-ministrine-e-energjise-ma-lini-mua/",
-      "description": "Një audiopërgjim i ri i biznesmenit Ron Yeffet dhe tre shtetasve të huaj, ku diskuton për sigurimin e puseve të gazit në Vlorë, është publikuar mbrëmjen e sotme. Në audiopërgjim e siguruar nga ish-ministri Arben Ahmetaj, Yeffet zhvillon bisedë me tre shtetasit e huaj, mes tyre një ukrainas, një rus ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-14T20:45:10+00:00",
-      "dateStr": "14 Sep, 20:45",
-      "isNew": true,
-      "id": "she21789418710"
+      "id": "abc41789419360"
     },
     {
       "title": "“Qeveria ka dhënë pak më shumë sesa duhet”/ Edmond Spaho: Të mbyllet ky debat institucional",
@@ -188,7 +177,7 @@
       "date": "2026-09-14T20:35:09+00:00",
       "dateStr": "14 Sep, 20:35",
       "isNew": true,
-      "id": "abc31789418109"
+      "id": "abc51789418109"
     },
     {
       "title": "“Drejtësia e vonuar është padrejtësi”, Spaho: Me vendimin e KLP dhe KLGJ, morën atribute të legjislativit",
@@ -199,7 +188,7 @@
       "date": "2026-09-14T20:30:15+00:00",
       "dateStr": "14 Sep, 20:30",
       "isNew": true,
-      "id": "abc41789417815"
+      "id": "abc61789417815"
     },
     {
       "title": "“Vendimi i KLGJ dhe KLP, i turpshëm”/ Pagat e magjistratëve, Spaho: Qeveria dhe Kuvendi vendosin për pagat",
@@ -210,29 +199,7 @@
       "date": "2026-09-14T20:28:12+00:00",
       "dateStr": "14 Sep, 20:28",
       "isNew": true,
-      "id": "abc51789417692"
-    },
-    {
-      "title": "Ushtria polake gjen një dron të dyshuar rus në veri të vendit",
-      "link": "https://shekulli.com.al/2026/09/14/ushtria-polake-gjen-nje-dron-te-dyshuar-rus-ne-veri-te-vendit/",
-      "description": "Ushtria polake ka nxjerrë nga deti, në bregdetin e Baltikut në Poloninë veriore, një dron të dyshuar rus, deklaroi të hënën ministri i Mbrojtjes. Vendet në krahun lindor të NATO-s kanë raportuar inkursione të përsëritura me dronë, çka ka shtuar frikën se lufta midis Rusisë dhe Ukrainës mund të përha",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-14T20:22:41+00:00",
-      "dateStr": "14 Sep, 20:22",
-      "isNew": true,
-      "id": "she31789417361"
-    },
-    {
-      "title": "Behgjet Pacolli i lutet ministrit Karakaçi: Na lini ta përfundojmë aeroportin e Vlorës",
-      "link": "https://shekulli.com.al/2026/09/14/behgjet-pacolli-i-lutet-ministrit-karakaci-na-lini-ta-perfundojme-aeroportin-e-vlores/",
-      "description": "Biznesmeni Behgjet Pacolli i ka bërë një apel publik ministrit të Infrastrukturës dhe Energjisë, Enea Karakaçi, duke kërkuar ndërhyrjen institucionale për zhbllokimin dhe përfundimin e projektit të Aeroportit të Vlorës. Në një postim në Facebook, Pacolli, në emër të kompanisë MABCO, thotë se prej më",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-14T20:14:55+00:00",
-      "dateStr": "14 Sep, 20:14",
-      "isNew": true,
-      "id": "she41789416895"
+      "id": "abc71789417692"
     },
     {
       "title": "Vance: SHBA-të në bisedime të drejtpërdrejta me Huthit, situatën e kemi në dorë",
@@ -243,29 +210,7 @@
       "date": "2026-09-14T20:00:08+00:00",
       "dateStr": "14 Sep, 20:00",
       "isNew": true,
-      "id": "abc61789416008"
-    },
-    {
-      "title": "Tiranë/ Dita e 107-të e protestës, qytetarët ndalen para Bllokut të Sigurisë: Lironi çunat",
-      "link": "https://shekulli.com.al/2026/09/14/tirane-dita-e-107-te-e-protestes-qytetaret-ndalen-para-bllokut-te-sigurise-lironi-cunat/",
-      "description": "Protesta kundër klasës politikë në Shqipëri ka hyrë në ditën e 107-të, ndërsa qytetarë janë mbledhur edhe këtë të hënë në Tiranë, duke deklaruar se nuk janë dorëzuar që prej nisjes së tubimeve dhe se do të vijojnë protestat deri në përmbushjen e kërkesave të tyre. Protestuesit u mblodhën fillimisht ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-14T19:56:11+00:00",
-      "dateStr": "14 Sep, 19:56",
-      "isNew": true,
-      "id": "she51789415771"
-    },
-    {
-      "title": "Bëri thirrje pro Palestinës, Macklemore përjashtohet nga turneu i Ed Sheeran",
-      "link": "https://shekulli.com.al/2026/09/14/beri-thirrje-pro-palestines-macklemore-perjashtohet-nga-turneu-i-ed-sheeran/",
-      "description": "Këngëtari i njohur Macklemore është përjashtuar nga pjesa e mbetur e turneut të Ed Sheeran në Shtetet e Bashkuara të Amerikës. Vendimi vjen pasi Macklemore bëri deklarata në mbështetje të palestinezëve në Gaza dhe Bregun Perëndimor, ndërsa performonte si artist hapës për këngëtarin në Nju-Xhersi në ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-14T19:47:01+00:00",
-      "dateStr": "14 Sep, 19:47",
-      "isNew": true,
-      "id": "she61789415221"
+      "id": "abc81789416008"
     },
     {
       "title": "OKB-ja ngre alarmin: Sulmet në Gaza po marrin jetë civilësh",
@@ -276,62 +221,7 @@
       "date": "2026-09-14T19:46:24+00:00",
       "dateStr": "14 Sep, 19:46",
       "isNew": true,
-      "id": "abc71789415184"
-    },
-    {
-      "title": "Eksperti Krisafi: Mungesa e mbrojtjes kundërajrore po e vendos Ukrainën në një situatë paniku",
-      "link": "https://abcnews.al/eksperti-krisafi-mungesa-e-mbrojtjes-kunderajrore-po-e-vendos-ukrainen-ne-nje-situate-paniku/",
-      "description": "Eksperti i marrëdhënieve ndërkombëtare, Ledion Krisafi, ka komentuar situatën e krijuar në Ukrainë pas sulmeve të fundit ruse me dronë dhe raketa, duke theksuar mungesën e kapaciteteve të mjaftueshme të mbrojtjes kundërajrore. Sipas Krisafit, numri i madh i dronëve dhe raketave ruse që arrijnë në ob",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-14T19:43:29+00:00",
-      "dateStr": "14 Sep, 19:43",
-      "isNew": true,
-      "id": "abc81789415009"
-    },
-    {
-      "title": "Irani konfiskon pasuritë e 240 disidentëve dhe gazetarëve, mbi 6 mijë të arrestuar",
-      "link": "https://abcnews.al/irani-konfiskon-pasurite-e-240-disidenteve-dhe-gazetareve-mbi-6-mije-te-arrestuar/",
-      "description": "Teherani ka ngrirë qindra llogari bankare dhe ka konfiskuar prona të gazetarëve, aktivistëve dhe figurave publike, ndërsa autoritetet njoftojnë për më shumë se 6 mijë arrestime lidhur me protestat e janarit. Gjyqësori iranian ka sekuestruar pasuritë e 240 disidentëve, gazetarëve dhe figurave publike",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-14T19:32:09+00:00",
-      "dateStr": "14 Sep, 19:32",
-      "isNew": true,
-      "id": "abc91789414329"
-    },
-    {
-      "title": "VIDEO/ Skandaloze në Gjermani, politikania e AfD-së detyron emigrantët romë të pastrojnë rrugët: Bëjeni dhe largohuni",
-      "link": "https://shekulli.com.al/2026/09/14/video-skandaloze-ne-gjermani-politikania-e-afd-se-detyron-emigrantet-rome-te-pastrojne-rruget-bejeni-dhe-largohuni/",
-      "description": "Një video e publikuar në rrjetet sociale nga politikania e AfD-së, Enxhi Seli-Zacharias, ka shkaktuar reagime të forta në Gjermani, pasi në të shfaqen persona nga komunitetet rom dhe sinti duke u detyruar të pastrojnë rrugët në qytetin e Gelsenkirchenit. Në pamjet e publikuara nga vetë politikania, ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-14T19:30:41+00:00",
-      "dateStr": "14 Sep, 19:30",
-      "isNew": true,
-      "id": "she71789414241"
-    },
-    {
-      "title": "Habit me deklaratën deputeti në Kosovë: Nëse dënohen ish-krerët e UÇK-së, të armatosen qytetarët",
-      "link": "https://shekulli.com.al/2026/09/14/habit-me-deklaraten-deputeti-ne-kosove-nese-denohen-ish-kreret-e-uck-se-te-armatosen-qytetaret/",
-      "description": "Deputeti i Partisë Demokratike të Kosovës, Mërgim Lushtaku ka bërë një deklaratë të pazakontë lidhur me verdiktin që pritet të japë gjykata në Hagë për katër ish-krerët e Ushtrisë Çlirimtare të Kosovës. Në një emision televiziv, Lushtaku ka deklaruar se nëse ish-liderat e UÇK-së dënohen, qytetarëve ",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-14T19:20:00+00:00",
-      "dateStr": "14 Sep, 19:20",
-      "isNew": true,
-      "id": "she81789413600"
-    },
-    {
-      "title": "Një në tre vullnetarë konsiderohet i paaftë për ushtrinë gjermane",
-      "link": "https://shekulli.com.al/2026/09/14/nje-ne-tre-vullnetare-konsiderohet-i-paafte-per-ushtrine-gjermane/",
-      "description": "Sipas të dhënave të Ministrisë së Mbrojtjes, të cituara nga revista &#8220;Der Spiegel&#8221;, një në tre vullnetarë gjermanë konsiderohet fizikisht i papërshtatshëm për forcat e armatosura gjermane. Ekzaminimet mjekësore në tremujorin e dytë të këtij viti treguan se më shumë se 24% e vullnetarëve u",
-      "source": "Shekulli",
-      "category": "politike",
-      "date": "2026-09-14T19:01:56+00:00",
-      "dateStr": "14 Sep, 19:01",
-      "isNew": true,
-      "id": "she91789412516"
+      "id": "abc91789415184"
     }
   ]
 }
