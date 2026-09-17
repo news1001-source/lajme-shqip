@@ -1,51 +1,194 @@
 {
-  "lastUpdated": "2026-09-17T20:53:35.178509+00:00",
+  "lastUpdated": "2026-09-17T23:20:30.699067+00:00",
   "totalSources": 2,
   "totalNews": 20,
   "news": [
     {
-      "title": "Hoxhaj: Specialja preku direkt sovranitetin edhe të Shqipërisë, deklarata e Kuvendit nuk mjafton",
-      "link": "https://24-ore.com/hoxhaj-specialja-preku-direkt-sovranitetin-edhe-te-shqiperise-deklarata-e-kuvendit-nuk-mjafton/",
-      "description": "Deputeti dhe ish-ministri i Jashtëm i Kosovës, Enver Hoxhaj, ka reaguar pas deklaratës së miratuar nga Kuvendi i Shqipërisë, përmes së cilës kundërshtohet aktgjykimi i Gjykatës Speciale ndaj Hashim Thaçit, Kadri Veselit, Rexhep Selimit dhe Jakup Krasniqit. Kuvendi i Shqipërisë, përmes deklaratës së ",
+      "title": "Kandidati për ambasador të SHBA-së në Serbi: Do ta nxis Beogradin të zgjedhë të ardhmen me SHBA-në, jo me Rusinë dhe Kinën",
+      "link": "https://24-ore.com/kandidati-per-ambasador-te-shba-se-ne-serbi-do-ta-nxis-beogradin-te-zgjedhe-te-ardhmen-me-shba-ne-jo-me-rusine-dhe-kinen/",
+      "description": "Majkl Jang tha në Komitetin për Punë të Jashtme të Senatit amerikan se do të thellojë bashkëpunimin e mbrojtjes e të sigurisë dhe lidhjet ekonomike me Serbinë, duke e nxitur atë drejt pavarësisë energjetike dhe normalizimit të marrëdhënieve me Kosovën.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-17T20:51:30+00:00",
-      "dateStr": "17 Sep, 20:51",
+      "date": "2026-09-17T23:19:24+00:00",
+      "dateStr": "17 Sep, 23:19",
       "isNew": true,
-      "id": "24 01789678290"
+      "id": "24 01789687164"
     },
     {
-      "title": "Linguine alle vongole — makaronat italiane me midhje të freskëta",
-      "link": "https://24-ore.com/linguine-alle-vongole-makaronat-italiane-me-midhje-te-fresketa/",
-      "description": "Klasiku napolitan i kuzhinës së detit: linguine me midhje të freskëta, hudhër, verë të bardhë dhe majdanoz — e thjeshtë, e shpejtë dhe plot shije.",
+      "title": "Disney i kërkon gjykatës të bllokojë FCC-në: Kërcënimet e Trump ndaj gazetarëve janë sulm ndaj lirisë së fjalës",
+      "link": "https://24-ore.com/disney-i-kerkon-gjykates-te-bllokoje-fcc-ne-kercenimet-e-trump-ndaj-gazetareve-jane-sulm-ndaj-lirise-se-fjales/",
+      "description": "Kompania gjigante e argëtimit Disney dhe rrjeti i saj televiziv ABC kanë kërkuar të enjten, 17 shtator 2026, nga një gjyqtar federal amerikan që të bllokojë Komisionin Federal të Komunikimeve (FCC) nga rishikimi i parakohshëm i licencave të tetë stacioneve të ABC-së që zotëron Disney. Kërkesa është ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-17T20:51:19+00:00",
-      "dateStr": "17 Sep, 20:51",
+      "date": "2026-09-17T23:10:36+00:00",
+      "dateStr": "17 Sep, 23:10",
       "isNew": true,
-      "id": "24 11789678279"
+      "id": "24 11789686636"
     },
     {
-      "title": "Çështja e pagave, Xhafaj: Reagimet e gjyqtarëve kanë shkuar larg, kërkohet vetëpërmbajtje",
-      "link": "https://24-ore.com/ceshtja-e-pagave-xhafaj-reagimet-e-gjyqtareve-kane-shkuar-larg-kerkohet-vetepermbajtje/",
-      "description": "Deputeti i Partisë Socialiste, Fatmir Xhafaj, ka trajtuar në Kuvend lidhur me debatin e fundit për pagat e gjyqtarëve dhe prokurorëve, duke theksuar se disa veprime të fundit brenda sistemit të drejtësisë kanë kaluar kufijtë e pranueshëm. Sipas Xhafajt, reagimet e ditëve të fundit tregojnë se disa p",
-      "source": "24 ORE",
+      "title": "“Amanet mushkat se kuajt ikën”/ Rama ironizon Tabakun, sulmon Kaprin: Do kujtoheni si shfarosës pulash",
+      "link": "https://abcnews.al/amanet-mushkat-se-kuajt-iken-rama-ironizon-tabakun-sulmon-kaprin-do-kujtoheni-si-shfaroses-pulash/",
+      "description": "Kryeministri Edi Rama ka replikuar me deputetët e opozitës gjatë diskutimeve në Kuvend, teksa po flitej për pagat e magjistratëve. Duke iu drejtuar deputetes Jorida Tabaku, Rama tha: “Të jesh në opozitë, të të përzënë nga protesta, quhet amanet mushkat se kuajt ikën”. “Për të dashurin ballist Kaprin",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-17T20:51:10+00:00",
-      "dateStr": "17 Sep, 20:51",
+      "date": "2026-09-17T23:09:39+00:00",
+      "dateStr": "17 Sep, 23:09",
       "isNew": true,
-      "id": "24 21789678270"
+      "id": "abc01789686579"
     },
     {
-      "title": "Haga do ta zhvillojë vetë procedurën e reparacioneve për viktimat e UÇK-së: gjykatat e Kosovës “jo rrugë efektive”",
-      "link": "https://24-ore.com/haga-do-ta-zhvilloje-vete-proceduren-e-reparacioneve-per-viktimat-e-uck-se-gjykatat-e-kosoves-jo-rruge-efektive/",
-      "description": "Paneli gjykues i Dhomave të Specializuara të Kosovës në Hagë ka vendosur ta zhvillojë vetë në Hagë procedurën e reparacioneve për viktimat, pas dënimit në shkallë të parë të Hashim Thaçit, Kadri Veselit, Rexhep Selimit dhe Jakup Krasniqit, duke arsyetuar se gjykatat e Kosovës nuk ofrojnë “rrugë efek",
+      "title": "Saddiq Bey nënshkruan zgjatje trevjeçare prej 55.5 milionë dollarësh me New Orleans Pelicans",
+      "link": "https://24-ore.com/saddiq-bey-nenshkruan-zgjatje-trevjecare-prej-55-5-milione-dollaresh-me-new-orleans-pelicans/",
+      "description": "New Orleans Pelicans dhe Saddiq Bey ranë dakord për një zgjatje trevjeçare të kontratës, plotësisht të garantuar, me vlerë 55.5 milionë dollarë. Marrëveshj...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-17T20:51:05+00:00",
-      "dateStr": "17 Sep, 20:51",
+      "date": "2026-09-17T22:57:44+00:00",
+      "dateStr": "17 Sep, 22:57",
       "isNew": true,
-      "id": "24 31789678265"
+      "id": "24 21789685864"
+    },
+    {
+      "title": "New York Mets përballë Philadelphia Phillies në Citi Field, 17 shtator 2026",
+      "link": "https://24-ore.com/new-york-mets-perballe-philadelphia-phillies-ne-citi-field-17-shtator-2026/",
+      "description": "Takimi mes New York Mets dhe Philadelphia Phillies u zhvillua më 17 shtator 2026 në Citi Field, Flushing, Queens. Ndeshja nisi në orën 19:15 ET, ndërsa sta...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-17T22:56:36+00:00",
+      "dateStr": "17 Sep, 22:56",
+      "isNew": true,
+      "id": "24 31789685796"
+    },
+    {
+      "title": "Seth Jarvis përpara afatit në rikuperim pas operacionit të shpatullës",
+      "link": "https://24-ore.com/seth-jarvis-perpara-afatit-ne-rikuperim-pas-operacionit-te-shpatulles/",
+      "description": "Seth Jarvis u paraqit në stërvitjen e parë të kampit të Carolina Hurricanes me një fanellë pa kontakt, duke ecur në akull dhe duke shfaqur përparim më të s...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-17T22:55:50+00:00",
+      "dateStr": "17 Sep, 22:55",
+      "isNew": true,
+      "id": "24 41789685750"
+    },
+    {
+      "title": "Bouillabaisse marsiljeze — supa klasike franceze e peshkut me shafran",
+      "link": "https://24-ore.com/bouillabaisse-marsiljeze-supa-klasike-franceze-e-peshkut-me-shafran/",
+      "description": "Supa më e famshme e Provençës: peshq të freskët të Mesdheut, shafran aromatik dhe salca rouille e shërbyer me bukë të thekur.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-17T22:51:40+00:00",
+      "dateStr": "17 Sep, 22:51",
+      "isNew": true,
+      "id": "24 51789685500"
+    },
+    {
+      "title": "Cara Delevingne dhe Sam Worthington bashkohen me Liam Hemsworth në thrillerin erotik të Paul Schrader “Non Compos Mentis”",
+      "link": "https://24-ore.com/cara-delevingne-dhe-sam-worthington-bashkohen-me-liam-hemsworth-ne-thrillerin-erotik-te-paul-schrader-non-compos-mentis/",
+      "description": "Recast i madh për filmin e ri të skenaristit legjendar të \"Taxi Driver\": xhirimet nisin muajin e ardhshëm në Nju Jork.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-17T22:46:01+00:00",
+      "dateStr": "17 Sep, 22:46",
+      "isNew": true,
+      "id": "24 61789685161"
+    },
+    {
+      "title": "Rusia zgjeron sulmet ndaj qyteteve ukrainase edhe në mes të ditës",
+      "link": "https://24-ore.com/rusia-zgjeron-sulmet-ndaj-qyteteve-ukrainase-edhe-ne-mes-te-dites/",
+      "description": "Sulmet ruse ndaj qyteteve ukrainase vazhduan edhe të enjten, me një ndryshim të dukshëm strategjie: pasi shumicën e goditjeve i kryenin gjatë natës, në javët e fundit forcat ruse i kanë zgjeruar bombardimet edhe në orët e ditës. Në Kievi, alarmet ajrore ranë njëri pas tjetrit përgjatë gjithë ditës. ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-17T22:42:00+00:00",
+      "dateStr": "17 Sep, 22:42",
+      "isNew": true,
+      "id": "24 71789684920"
+    },
+    {
+      "title": "Një ditë pas aktgjykimit në Hagë, institucionet në Kosovë e Shqipëri në lëvizje",
+      "link": "https://24-ore.com/nje-dite-pas-aktgjykimit-ne-hage-institucionet-ne-kosove-e-shqiperi-ne-levizje/",
+      "description": "Një ditë pas aktgjykimit të Dhomave të Specializuara të Kosovës në Hagë ndaj ish-drejtuesve të Ushtrisë Çlirimtare të Kosovës, institucionet dhe përfaqësuesit politikë në Kosovë e Shqipëri kanë reaguar dhe kanë zhvilluar takime për situatën e krijuar pas vendimit. Kryetari i Partisë Demokratike të K",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-17T22:26:55+00:00",
+      "dateStr": "17 Sep, 22:26",
+      "isNew": true,
+      "id": "24 81789684015"
+    },
+    {
+      "title": "Juventusi tregon forcën në Evropë",
+      "link": "https://24-ore.com/juventusi-tregon-forcen-ne-evrope/",
+      "description": "Spalletti dhe Juventusi patën një debutim të mirë në Europa League, duke e kapërcyer lehtësisht skuadrën holandeze të NEC në Allianz Stadium, 5-0. Skuadrës italiane iu desh vetëm një pjesë loje për të kapërcyer pengesën jo aq të madhe të NEC Nijmegen. Nico Gonzalez e kaloi ekipin e tij në epërsi pas",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-17T22:26:48+00:00",
+      "dateStr": "17 Sep, 22:26",
+      "isNew": true,
+      "id": "24 91789684008"
+    },
+    {
+      "title": "Nisin konsultat në Prishtinë për “Hagën”/ Kryetari i PDK  Hamza takime të veçanta me Kurtin, Abdixhikun dhe Gjinin",
+      "link": "https://abcnews.al/nisin-konsultat-ne-prishtine-per-hagen-kryetari-i-pdk-hamza-takime-te-vecanta-me-kurtin-abdixhikun-dhe-gjinin/",
+      "description": "Pas aktgjykimit dënues ndaj ish-krerëve të Ushtrisë Çlirimtare të Kosovës, kreu i Partisë Demokratike të Kosovës, Bedri Hamza, tha se me kërkesë të tij, është takuar me udhëheqësit partiakë dhe shtetërorë. Hamza zhvilloi takime të ndara me udhëheqësin e Lëvizjes Vetëvendosje, njëherësh kryeministrin",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-17T21:53:28+00:00",
+      "dateStr": "17 Sep, 21:53",
+      "isNew": true,
+      "id": "abc11789682008"
+    },
+    {
+      "title": "“Populli iu ka bërë si zhele gabi”/ Rama opozitës për Becchettin: Ka hyrë në telash, është subjekt i të drejtës penale",
+      "link": "https://abcnews.al/populli-iu-ka-bere-si-zhele-gabi-rama-opozites-per-becchettin-ka-hyre-ne-telash-eshte-subjekt-i-te-drejtes-penale/",
+      "description": "Kryeministri Edi Rama replikoi me opozitën në Kuvend, për çështjen &#8220;Becchetti&#8217;, ku rrëzoi pretendimet se biznesmeni italian do përfitojë 100 milionë euro nga shteti shqiptar, pas vendimit në arbitrazh. Rama deklaroi se opozita nuk duhet ta bëjë për budalla popullin, pasi në çdo zgjedhje,",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-17T21:52:09+00:00",
+      "dateStr": "17 Sep, 21:52",
+      "isNew": true,
+      "id": "abc21789681929"
+    },
+    {
+      "title": "“Becchetti”/ Rama: Do marrë zero lekë nga shteti shqiptar. Kryeministri: Do përballet me drejtësinë",
+      "link": "https://abcnews.al/becchetti-rama-do-marre-zero-leke-nga-shteti-shqiptar-kryeministri-do-perballet-me-drejtesine/",
+      "description": "Kryeministri Edi Rama ka replikuar me opozitën në Kuvend, duke përgënjeshtruar pretendimin se biznesmeni italian, Francesco Becchetti do përfitojë 100 milionë euro nga shteti shqiptar, pas vendimit në arbitrazh. Në Kuvend, Rama deklaroi se Becchetti do marrë zero lekë nga shteti shqiptar dhe se do t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-17T21:43:12+00:00",
+      "dateStr": "17 Sep, 21:43",
+      "isNew": true,
+      "id": "abc31789681392"
+    },
+    {
+      "title": "“Vendimi ndaj Thaçit, politik”/ Frrok Çupi: Politika e Kosovës e padenjë, po rrezikohet shteti",
+      "link": "https://abcnews.al/vendimi-ndaj-thacit-politik-frrok-cupi-politika-e-kosoves-e-padenje-po-rrezikohet-shteti/",
+      "description": "Analisti Frrok Çupi e ka cilësuar politik vendimin e Gjykatës Speciale në Hagë, e cila dënoi me 81 vite burg ish krerët e UÇK. Në një intervistë për &#8220;Ora e Njëmbëdhjetë&#8221; në ABC News, Çupi u shpreh se politika e Kosovës po tregohet e padenjë për të mbrojtur liderët e saj. &#8220;Është ven",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-17T21:31:41+00:00",
+      "dateStr": "17 Sep, 21:31",
+      "isNew": true,
+      "id": "abc41789680701"
+    },
+    {
+      "title": "Protestës në Prishtinë për ish-krerët e UÇK-së i bashkohet Endrit Thaçi dhe Klestor Veseli",
+      "link": "https://abcnews.al/protestes-ne-prishtine-per-ish-kreret-e-uck-se-i-bashkohet-endrit-thaci-dhe-klestor-veseli/",
+      "description": "Po mbahet një protestë para objektit të Qeverisë së Kosovës, pas verdiktit të Gjykatës Speciale për ish-krerët e UÇK-së. Në këtë protestë ka arritur edhe ish-kryetari i Prishtinës, Memli Krasniqi, Endriti Thaçi dhe Klestor Veseli. Protestuesit kanë brohoritur ‘UÇK’. Qytetarë të shumtë janë mbledhur ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-17T21:26:32+00:00",
+      "dateStr": "17 Sep, 21:26",
+      "isNew": true,
+      "id": "abc51789680392"
+    },
+    {
+      "title": "“Vendi në rrezik nga tirania e ligjit”/ Frrok Çupi: Këta gjykatës kanë mësuar si të grabisin, jo të japin drejtësi",
+      "link": "https://abcnews.al/vendi-ne-rrezik-nga-tirania-e-ligjit-frrok-cupi-keta-gjykates-kane-mesuar-si-te-grabisin-jo-te-japin-drejtesi/",
+      "description": "Analisti Frrok Çupi thotë se vendi është në rrezik nga tirania e ligjit, teksa gjyqtarët kanë shkaktuar përplasje mes institucioneve, pasi kërkojnë rritje page. Në një intervistë për &#8220;Ora e Njëmbëdhjetë në ABC News, Çupi u shpreh se këta gjykatës kanë mësuar si të grabisin dhe jo të japin drej",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-17T21:19:06+00:00",
+      "dateStr": "17 Sep, 21:19",
+      "isNew": true,
+      "id": "abc61789679946"
     },
     {
       "title": "Kina i kërkon Iranit të frenojë Houthit",
@@ -56,73 +199,7 @@
       "date": "2026-09-17T20:47:32+00:00",
       "dateStr": "17 Sep, 20:47",
       "isNew": true,
-      "id": "abc01789678052"
-    },
-    {
-      "title": "Zbulohet emri i vajzës së Lady Gaga-s, kuptimi i veçantë pas tij",
-      "link": "https://24-ore.com/zbulohet-emri-i-vajzes-se-lady-gaga-s-kuptimi-i-vecante-pas-tij/",
-      "description": "Lady Gaga dhe i fejuari i saj, Michael Polansky, kanë zbuluar emrin e vajzës së tyre të parë. Vogëlushja quhet Rose Bean Polansky dhe ka lindur më 9 qershor në Los Angeles. Sipas certifikatës së lindjes, të siguruar nga TMZ, vajza e çiftit erdhi në jetë në orën 23:19 në spitalin Cedars-Sinai Medical",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-17T20:47:13+00:00",
-      "dateStr": "17 Sep, 20:47",
-      "isNew": true,
-      "id": "24 41789678033"
-    },
-    {
-      "title": "“Romeo + Juliet” e Baz Luhrmann kthehet pas 30 vitesh: shpallet turneu botëror i koncertit live-to-film",
-      "link": "https://24-ore.com/romeo-juliet-e-baz-luhrmann-kthehet-pas-30-vitesh-shpallet-turneu-boteror-i-koncertit-live-to-film/",
-      "description": "Premiera botërore më 29 shtator në Sydney Opera House; turneu nis më 9 janar dhe shtrihet në tre kontinente, me partiturën që luhet live në sinkron me filmin.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-17T20:46:14+00:00",
-      "dateStr": "17 Sep, 20:46",
-      "isNew": true,
-      "id": "24 51789677974"
-    },
-    {
-      "title": "“Nomad Lawyer”: Korça, Pogradeci dhe Përmeti, destinacionet që po i japin Shqipërisë një tjetër dimension turistik",
-      "link": "https://24-ore.com/nomad-lawyer-korca-pogradeci-dhe-permeti-destinacionet-qe-po-i-japin-shqiperise-nje-tjeter-dimension-turistik/",
-      "description": "&#8211; Shqipëria po tërheq gjithnjë e më shumë vëmendje edhe përtej bregdetit, ndërsa qytetet historike, zonat malore dhe luginat e lumenjve, po shfaqen si destinacione tërheqëse për turistët që kërkojnë natyrë, kulturë, histori dhe përvoja më autentike. Një artikull i publikuar së fundmi në platfo",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-17T20:46:04+00:00",
-      "dateStr": "17 Sep, 20:46",
-      "isNew": true,
-      "id": "24 61789677964"
-    },
-    {
-      "title": "Ryan Warsofsky nënshkruan kontratë shumëvjeçare me San Jose Sharks",
-      "link": "https://24-ore.com/ryan-warsofsky-nenshkruan-kontrate-shumevjecare-me-san-jose-sharks/",
-      "description": "Ryan Warsofsky nënshkroi të enjten një kontratë shumëvjeçare me San Jose Sharks. 37-vjeçari u emërua trajner më 13 qershor 2024 dhe po hynte në vitin e fun...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-17T20:45:46+00:00",
-      "dateStr": "17 Sep, 20:45",
-      "isNew": true,
-      "id": "24 71789677946"
-    },
-    {
-      "title": "Djali i Thaçit dhe Veselit i bashkohen protestës: Populli është me UÇK-në",
-      "link": "https://24-ore.com/djali-i-thacit-dhe-veselit-i-bashkohen-protestes-populli-eshte-me-uck-ne/",
-      "description": "Endrit Thaçi, djali i ish-presidentit Hashim Thaçi, ka falënderuar sërish popullin shqiptar për mbështetjen ndaj ish-krerëve të Ushtrisë Çlirimtare të Kosovës, duke thënë se UÇK-ja është e pastër. Ai gjatë protestës që po mbahet në sheshin “Skënderbeu” në Prishtinë ka falënderuar edhe mediat për bas",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-17T20:37:06+00:00",
-      "dateStr": "17 Sep, 20:37",
-      "isNew": true,
-      "id": "24 81789677426"
-    },
-    {
-      "title": "“Dëshmitarët nuk shkuan në sallë të gjyqit, u pranuan 130 deklarata me shkrim”, avokatja sjell detaje të forta nga Haga",
-      "link": "https://24-ore.com/deshmitaret-nuk-shkuan-ne-salle-te-gjyqit-u-pranuan-130-deklarata-me-shkrim-avokatja-sjell-detaje-te-forta-nga-haga/",
-      "description": "Rudina Jasini, ish-avokate e Hashim Thaçit, ka ndarë në emisionin “Now” në Euronews Albania detaje nga procesi gjyqësor në Dhomat e Specializuara të Kosovës në Hagë, ndaj katër ish-drejtuesve të Ushtrisë Çlirimtare të Kosovës. Jasini tha se pala mbrojtëse është përballur me një proces të vështirë, n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-17T20:36:50+00:00",
-      "dateStr": "17 Sep, 20:36",
-      "isNew": true,
-      "id": "24 91789677410"
+      "id": "abc71789678052"
     },
     {
       "title": "Pagat e gjyqtarëve, ministri Malaj: Prokurori i rrethit, presion për pagat. Në degën e thesarit, kërcënim për arrestim",
@@ -133,7 +210,7 @@
       "date": "2026-09-17T20:36:17+00:00",
       "dateStr": "17 Sep, 20:36",
       "isNew": true,
-      "id": "abc11789677377"
+      "id": "abc81789677377"
     },
     {
       "title": "Kongresi amerikan miraton ligjin për sanksione gjithëpërfshirëse ndaj Rusisë",
@@ -144,84 +221,7 @@
       "date": "2026-09-17T20:21:58+00:00",
       "dateStr": "17 Sep, 20:21",
       "isNew": true,
-      "id": "abc21789676518"
-    },
-    {
-      "title": "Francë-Jordani nënshkruajnë marrëveshje për bashkëpunim në fushën e mbrojtjes",
-      "link": "https://abcnews.al/france-jordani-nenshkruajne-marreveshje-per-bashkepunim-ne-fushen-e-mbrojtjes/",
-      "description": "Jordania dhe Franca nënshkruan sot marrëveshje për bashkëpunim në fushën e mbrojtjes, në prani të Mbretit të Jordanisë, Abdullahut II dhe presidentit francez Emmanuel Macron, në Paris. “Diskutova me presidentin Macron mbi mënyrat për të çuar përpara marrëdhëniet tona dypalëshe afatgjata dhe koordini",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-17T20:16:34+00:00",
-      "dateStr": "17 Sep, 20:16",
-      "isNew": true,
-      "id": "abc31789676194"
-    },
-    {
-      "title": "“Vendimi për ish-krerët e UÇK ishte paracaktuar”/ Krisafi: Gjykata Speciale u krijua vetëm për të dënuar, jo gjykuar",
-      "link": "https://abcnews.al/vendimi-per-ish-kreret-e-uck-ishte-paracaktuar-krisafi-gjykata-speciale-u-krijua-vetem-per-te-denuar-jo-gjykuar/",
-      "description": "Eksperti i marrëdhënieve ndërkombëtare, Ledion Krisafi, e ka cilësuar si të njëanshëm, politik dhe jo transparent vendimin e fundit të Gjykatës Speciale të Hagës ndaj katër ish-krerëve të UÇK-së. Në një intervistë për emisionin “War Report” në ABC News, ai deklaroi se ky vendim ishte i paracaktuar d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-17T19:45:08+00:00",
-      "dateStr": "17 Sep, 19:45",
-      "isNew": true,
-      "id": "abc41789674308"
-    },
-    {
-      "title": "Bosch: Presidenti i ri i Kosovës, mbase mund t’i falë të dënuarit nga Specialja",
-      "link": "https://abcnews.al/bosch-presidenti-i-ri-i-kosoves-mbase-mund-ti-fale-te-denuarit-nga-specialja/",
-      "description": "Ish-ambasadori i Holandës në Kosovë, Roberth Bosch, e ka cilësuar si skandaloz verdiktin që Gjykata Speciale e shqiptoi ndaj katërshës së Ushtrisë Çlirimtare të Kosovës në krye me ish-presidentin, Hashim Thaçi. Ai ka shfaqur habinë se si as trupi gjykues as prokurorët nuk i kanë marrë parasysh rreth",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-17T19:42:21+00:00",
-      "dateStr": "17 Sep, 19:42",
-      "isNew": true,
-      "id": "abc51789674141"
-    },
-    {
-      "title": "Ish-krerët e drejtësisë kritikojnë Hagën: Proces politik e jo transparent, aktgjykimi duhet të shfuqizohet",
-      "link": "https://abcnews.al/ish-kreret-e-drejtesise-kritikojne-hagen-proces-politik-e-jo-transparent-aktgjykimi-duhet-te-shfuqizohet/",
-      "description": "Ish-gjyqtarja e Gjykatës Supreme të Kosovës, Valdete Daka, dhe ish-kryetari i Gjykatës së Apelit, Hasan Shala, e kanë cilësuar si politik, të njëanshëm dhe jo transparent vendimin e fundit të Gjykatës Speciale të Hagës. Në një intervistë për “War Report”, ekspertët e drejtësisë kritikuan përdorimin ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-17T19:34:37+00:00",
-      "dateStr": "17 Sep, 19:34",
-      "isNew": true,
-      "id": "abc61789673677"
-    },
-    {
-      "title": "Debati për pagat e gjyqtarëve, kryeministri Edi Rama i bashkohet seancës në Kuvend",
-      "link": "https://abcnews.al/debati-per-pagat-e-gjyqtareve-kryeministri-edi-rama-i-bashkohet-seances-ne-kuvend/",
-      "description": "Kuvendi pritet të vendosë pagat e reja të magjistratëve, sipas vendimit të Gjykatës Kushtetuese. Kryeministri Edi Rama ka mbërritur në seancën plenare në Kuvend. Ndërkaq, Presidenti i Republikës është njohur me projektligjin dhe pas korrespondencës së Kuvendit, ka dhënë pëlqimin, për ta dekretuar me",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-17T19:26:26+00:00",
-      "dateStr": "17 Sep, 19:26",
-      "isNew": true,
-      "id": "abc71789673186"
-    },
-    {
-      "title": "Pesë të vrarë nga ‘lufta me dronë’ mes Arabisë Saudite dhe rebelëve Houthi",
-      "link": "https://abcnews.al/pese-te-vrare-nga-lufta-me-drone-mes-arabise-saudite-dhe-rebeleve-houthi/",
-      "description": "Tensionet dhe sulmet e ndërsjella mes Arabisë Saudite dhe rebelëve Houthi të Jemenit janë përshkallëzuar ndjeshëm, duke lënë të paktën pesë të vrarë, mes të cilëve tre fëmijë. Në Arabinë Saudite, mbrojtja ajrore interceptoi një dron të rebelëve Houthi në rajonin e Taif-it, por nga mbetjet e raketave",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-17T19:08:54+00:00",
-      "dateStr": "17 Sep, 19:08",
-      "isNew": true,
-      "id": "abc81789672134"
-    },
-    {
-      "title": "Prania besnike, Rama: Të premten, ora 17:00 në të gjithë Shqipërinë",
-      "link": "https://abcnews.al/prania-besnike-rama-te-premten-ora-1700-ne-te-gjithe-shqiperine/",
-      "description": "Këtë të premte, në orën 17:00 do të mbahet prania besnike në të gjithë Shqipërinë. &#8220;Prania besnike, e premte 17:00 në të gjithë Shqipërinë&#8221;, shkruan në rrjetet sociale  kryeminisri Edi Rama. Një detyrim ky, që çdo të premte, ora 17, drejtues politik, ministra, deputetë e zv.ministra nuk ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-17T18:57:37+00:00",
-      "dateStr": "17 Sep, 18:57",
-      "isNew": true,
-      "id": "abc91789671457"
+      "id": "abc91789676518"
     }
   ]
 }
