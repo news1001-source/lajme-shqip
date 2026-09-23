@@ -1,128 +1,304 @@
 {
-  "lastUpdated": "2026-09-23T13:16:42.067537+00:00",
+  "lastUpdated": "2026-09-23T18:11:15.505557+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
+      "title": "Andy Karl do të jetë Ebenezer Scrooge këtë festë: «A Christmas Carol» rikthehet Off-Broadway në PAC NYC",
+      "link": "https://24-ore.com/andy-karl-do-te-jete-ebenezer-scrooge-kete-feste-a-christmas-carol-rikthehet-off-broadway-ne-pac-nyc/",
+      "description": "Kandidati tre herë për çmimin Tony merr rolin e famshëm në adaptimin e Jack Thorne-së për sezonin e festave 2026, me regji të Matthew Warchus-it",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-23T18:04:36+00:00",
+      "dateStr": "23 Sep, 18:04",
+      "isNew": true,
+      "id": "24 01790186676"
+    },
+    {
+      "title": "Rozana Radi shijon ende ditët e verës – shfaqet në bikini duke marrë rreze dielli",
+      "link": "https://www.lajme.al/3212232322-2/",
+      "description": "☀️ Rozana Radi shijon ende ditët e verës – shfaqet në bikini duke marrë rreze dielli Këngëtarja dhe moderatorja shqiptare Rozana Radi ka ndarë me ndjekësit momente nga ditët e saj të pushimit, duke shijuar motin e ngrohtë dhe rrezet e diellit. Në fotografitë e publikuara në rrjetet sociale, Radi shf",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-23T18:03:59+00:00",
+      "dateStr": "23 Sep, 18:03",
+      "isNew": true,
+      "id": "laj01790186639"
+    },
+    {
+      "title": "Borxhi i jashtëm neto arrin 4,763 miliardë euro: rreth 2.620 euro për çdo qytetar",
+      "link": "https://24-ore.com/borxhi-i-jashtem-neto-arrin-4763-miliarde-euro-rreth-2-620-euro-per-cdo-qytetar/",
+      "description": "Sipas Bankës Popullore, borxhi i jashtëm neto i Maqedonisë së Veriut arriti në 4,763 miliardë euro në fund të qershorit 2026 — rreth 2.620 euro për çdo qytetar.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-23T18:03:26+00:00",
+      "dateStr": "23 Sep, 18:03",
+      "isNew": true,
+      "id": "24 11790186606"
+    },
+    {
+      "title": "Mickoski takohet në Nju Jork me Kurtin e Kosovës dhe Plenkovićin e Kroacisë: në fokus perspektiva europiane dhe fqinjësia e mirë",
+      "link": "https://24-ore.com/mickoski-takohet-ne-nju-jork-me-kurtin-e-kosoves-dhe-plenkovicin-e-kroacise-ne-fokus-perspektiva-europiane-dhe-fqinjesia-e-mire/",
+      "description": "Kryeministri Hristijan Mickoski u takua në Nju Jork me kryeministrin e Kosovës, Albin Kurti, dhe me kryeministrin e Kroacisë, Andrej Plenković. Në fokus: perspektiva europiane, fqinjësia e mirë dhe bashkëpunimi rajonal.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-23T18:03:01+00:00",
+      "dateStr": "23 Sep, 18:03",
+      "isNew": true,
+      "id": "24 21790186581"
+    },
+    {
+      "title": "Nations League / Kombëtarja vijon përgatitjet, Asllani stërvitje të diferencuar, Cake shfaq shqetësime muskulore",
+      "link": "https://24-ore.com/nations-league-kombetarja-vijon-pergatitjet-asllani-stervitje-te-diferencuar-cake-shfaq-shqetesime-muskulore-2/",
+      "description": "Kombëtarja shqiptare ka vijuar sot punën në kuadër të përgatitjeve për katër sfidat e ardhshme të UEFA Nations League. Kuqezinjtë zhvilluan një tjetër seancë stërvitore pasditen e sotme në ambientet e “Shtëpisë së Futbollit”. Trajneri Maran dhe stafi teknik zhvilluan një seancë të plotë stërvitore m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-23T18:02:51+00:00",
+      "dateStr": "23 Sep, 18:02",
+      "isNew": true,
+      "id": "24 31790186571"
+    },
+    {
+      "title": "Peleshi me ambasadorët e vendeve të “Miqve të Ballkanit Perëndimor”: Bashkëpunimi parlamentar, urë e rëndësishme dre",
+      "link": "https://24-ore.com/peleshi-me-ambasadoret-e-vendeve-te-miqve-te-ballkanit-perendimor-bashkepunimi-parlamentar-ure-e-rendesishme-dre/",
+      "description": "Takim në Kuvend me ambasadorët e vendeve partnere: Peleshi nënvizon rolin e diplomacisë parlamentare për integrimin në BE Kryetari i Kuvendit, Niko Peleshi, zhvilloi sot një takim me ambasadorët dhe Grupet e Miqësisë me vendet e njohura si “Miqtë e Ballkanit Perëndimor”, Austrinë, Çekinë, Greqinë, H",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-23T18:02:11+00:00",
+      "dateStr": "23 Sep, 18:02",
+      "isNew": true,
+      "id": "24 41790186531"
+    },
+    {
+      "title": "Kombëtarja stërvitet e plotë/ Trajneri Maran ka në dispozicion të gjithë lojtarët e listës",
+      "link": "https://abcnews.al/kombetarja-stervitet-e-plote-trajneri-maran-ka-ne-dispozicion-te-gjithe-lojtaret-e-listes/",
+      "description": "Kombëtarja shqiptare vazhdoi stërvitjen duke qenë e plotë, ndërsa mbeten edhe 3 ditë deri nga ndeshja e parë në Ligën e Kombeve, ndaj Bjellorusisë në Tiranë. KOMBETARJA STERVITET E PLOTE Trajneri Maran ka në dispozicion të gjithë lojtarët e listës Largimi është Qazim Laçi, Balliu në dyshim për lëndi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-23T18:00:54+00:00",
+      "dateStr": "23 Sep, 18:00",
+      "isNew": true,
+      "id": "abc01790186454"
+    },
+    {
+      "title": "«Toy Story 5» mbërrin sot në Disney+: animacioni miliardësh që theu rekordin e franshizës",
+      "link": "https://24-ore.com/toy-story-5-mberrin-sot-ne-disney-animacioni-miliardesh-qe-theu-rekordin-e-franshizes/",
+      "description": "Pas 1.14 miliardë dollarësh të arkëtuara në kinema, kapitulli i pestë i sagës së famshme të Disney-t dhe Pixar-it nis sot transmetimin në platformën Disney+.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-23T17:58:38+00:00",
+      "dateStr": "23 Sep, 17:58",
+      "isNew": true,
+      "id": "24 51790186318"
+    },
+    {
+      "title": "Quesadilla meksikane me pulë dhe djathë — receta klasike e kuzhinës meksikane",
+      "link": "https://24-ore.com/quesadilla-meksikane-me-pule-dhe-djathe-receta-klasike-e-kuzhines-meksikane/",
+      "description": "Tortilja të thekura në tigan me mbushje pule të marinuar me erëza, speca të kuq dhe djathë të shkrirë — mezeja më e dashur e kuzhinës meksikane, gati për vetëm 30 minuta.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-23T17:57:26+00:00",
+      "dateStr": "23 Sep, 17:57",
+      "isNew": true,
+      "id": "24 61790186246"
+    },
+    {
+      "title": "Steph Curry: Pati pamje të mjegullt për shkak të një gjendjeje të syrit gjatë dinastisë së Warriors",
+      "link": "https://24-ore.com/steph-curry-pati-pamje-te-mjegullt-per-shkak-te-nje-gjendjeje-te-syrit-gjate-dinastise-se-warriors/",
+      "description": "Steph Curry rrëfeu se gjatë periudhës më të suksesshme me Golden State Warriors pati vështirësi me shikimin, por nuk e kishte vënë re ndërkohë që fitonte ç...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-23T17:56:53+00:00",
+      "dateStr": "23 Sep, 17:56",
+      "isNew": true,
+      "id": "24 71790186213"
+    },
+    {
+      "title": "Renée Levi shndërron fasadën e Hayward Gallery në Londër: komisioni i parë i madh i artistes në Mbretërinë e Bashkuar",
+      "link": "https://24-ore.com/renee-levi-shnderron-fasaden-e-hayward-gallery-ne-londer-komisioni-i-pare-i-madh-i-artistes-ne-mbreterine-e-bashkuar/",
+      "description": "Një vepër e re dy-panelesh e artistes së lindur në Stamboll do të mbulojë fasadën brutaliste të galerisë londineze nga 23 shtatori deri më 15 nëntor 2026, në bashkëpunim me Audemars Piguet Contemporary.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-23T17:56:21+00:00",
+      "dateStr": "23 Sep, 17:56",
+      "isNew": true,
+      "id": "24 81790186181"
+    },
+    {
+      "title": "Pas pak “Real Story”, na ndiqni live në ABC News",
+      "link": "https://abcnews.al/pas-pak-real-story-na-ndiqni-live-ne-abc-news-172/",
+      "description": "Pas pak &#8220;Real Story&#8221;, na ndiqni live në ABC News [...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-23T17:55:29+00:00",
+      "dateStr": "23 Sep, 17:55",
+      "isNew": true,
+      "id": "abc11790186129"
+    },
+    {
+      "title": "Kënga “Mora fjalë” heqet nga interneti, autori Naim Gjoshi insiston në të drejtën autoriale",
+      "link": "https://24-ore.com/kenga-mora-fjale-heqet-nga-interneti-autori-naim-gjoshi-insiston-ne-te-drejten-autoriale/",
+      "description": "Versioni origjinal i këngës së famshme, i kënduar nga Shkurte Fejza, është larguar nga të gjitha platformat pas kërkesës së autorit përmes zyrës ligjore \"NewWay Consulting\".",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-23T17:55:13+00:00",
+      "dateStr": "23 Sep, 17:55",
+      "isNew": true,
+      "id": "24 91790186113"
+    },
+    {
+      "title": "Vidhen të dhënat personale të zyrtarëve/ “To Vima” zbulon skandalin, ekspozohen të dhënat e disa kryeministrave",
+      "link": "https://abcnews.al/vidhen-te-dhenat-personale-te-zyrtareve-to-vima-zbulon-skandalin-ekspozohen-te-dhenat-e-disa-kryeministrave/",
+      "description": "Një hetim madhor i publikuar nga gazeta greke To Vima ka nxjerrë në dritë një skandal të madh të sigurisë kibernetike, duke zbuluar se numri I kontaktit dhe të dhëna të tjera personale të Kryeministrit grek Kyriakos Mitsotakis, si dhe të qindra zyrtarëve të tjerë të lartë, ishin lehtësisht të aksesu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-23T17:54:13+00:00",
+      "dateStr": "23 Sep, 17:54",
+      "isNew": true,
+      "id": "abc21790186053"
+    },
+    {
+      "title": "Tirana Live me Rovena Neziri, (23/09/2026)",
+      "link": "https://abcnews.al/tirana-live-me-rovena-neziri-23-09-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-23T17:53:08+00:00",
+      "dateStr": "23 Sep, 17:53",
+      "isNew": true,
+      "id": "abc31790185988"
+    },
+    {
+      "title": "Sulmet ruse me dronë lënë rreth 100 mijë familje pa internet në Kiev",
+      "link": "https://abcnews.al/sulmet-ruse-me-drone-lene-rreth-100-mije-familje-pa-internet-ne-kiev/",
+      "description": "Rreth 100 mijë familje në Kiev dhe në zonat përreth kryeqytetit ukrainas kanë mbetur pa akses në internet pas sulmeve me dronë rusë. Lajmi u bë i ditur nga Ministria e Transformimit Dixhital të Ukrainës, e cila njoftoi se ekipet teknike po punojnë për vlerësimin e dëmeve dhe rikthimin e shërbimeve. ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-23T17:30:37+00:00",
+      "dateStr": "23 Sep, 17:30",
+      "isNew": true,
+      "id": "abc41790184637"
+    },
+    {
+      "title": "Nis një tjetër luftë në Afrikë? Përplasje të ashpra shpërthejnë në Etiopi",
+      "link": "https://www.lajme.al/54322233-2/",
+      "description": "🇪🇹 Rikthehen luftimet në Etiopi – Tigray shpall “luftë mbrojtëse” ndaj qeverisë federale Pas viteve të tensioneve dhe përpjekjeve për të ruajtur marrëveshjen e paqes, në veri të Etiopisë janë rikthyer përplasjet e armatosura. Forcat e lidhura me Frontin Çlirimtar të Popullit të Tigrayt (TPLF) kanë n",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-23T17:28:10+00:00",
+      "dateStr": "23 Sep, 17:28",
+      "isNew": true,
+      "id": "laj11790184490"
+    },
+    {
+      "title": "Sekretari i Shtetit Rubio dhe kryediplomatit rus takohen në kuadër të Asamblesë së Përgjithshme të OKB-së",
+      "link": "https://abcnews.al/sekretari-i-shtetit-rubio-dhe-kryediplomatit-rus-takohen-ne-kuader-te-asamblese-se-pergjithshme-te-okb-se/",
+      "description": "Sekretari amerikan i Shtetit, Marco Rubio dhe ministri rus i Punëve të Jashtme, Sergey Lavrov, janë takuar në New York në kuadër të Asamblesë së Përgjithshme të OKB-së. Bisedimet nisën pa deklarata hyrëse për mediat dhe vazhduan me dyer të mbyllura. Lavrov dhe Rubio ishin takuar për herë të fundit s",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-23T17:18:22+00:00",
+      "dateStr": "23 Sep, 17:18",
+      "isNew": true,
+      "id": "abc51790183902"
+    },
+    {
+      "title": "Italia i hap rrugën rikthimit të energjisë bërthamore, 40 vjet pas Çernobilit",
+      "link": "https://abcnews.al/italia-i-hap-rrugen-rikthimit-te-energjise-berthamore-40-vjet-pas-cernobilit/",
+      "description": "Senati i Italisë i dha të mërkurën miratimin përfundimtar ligjit që i hap rrugën rikthimit të energjisë bërthamore në vend. Ligji u miratua me 81 vota pro, 51 kundër dhe shtatë abstenime. Votimi shënon një hap të rëndësishëm në përpjekjet e qeverisë së kryeministres Giorgia Meloni për të forcuar sig",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-23T17:01:27+00:00",
+      "dateStr": "23 Sep, 17:01",
+      "isNew": true,
+      "id": "abc61790182887"
+    },
+    {
+      "title": "Studimi: Stresi dhe inflamacioni mund të dëmtojnë zemrën në heshtje",
+      "link": "https://abcnews.al/studimi-stresi-dhe-inflamacioni-mund-te-demtojne-zemren-ne-heshtje/",
+      "description": "Një studim i ri sugjeron se inflamacioni kronik mund të lidhet me ndryshime në strukturën dhe funksionin e zemrës, shumë përpara shfaqjes së simptomave. Studiues nga MRC Laboratory of Medical Sciences dhe Imperial College London analizuan të dhënat e 488,079 pjesëmarrësve në UK Biobank. Për rreth 70",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-23T17:00:50+00:00",
+      "dateStr": "23 Sep, 17:00",
+      "isNew": true,
+      "id": "abc71790182850"
+    },
+    {
+      "title": "BE: Negociatat mbyllen në 2027/ Nura: Brukseli erdhi te kërkesat e Shqipërisë, moment i rëndësishëm për vendin",
+      "link": "https://abcnews.al/be-negociatat-mbyllen-ne-2027-nura-brukseli-erdhi-te-kerkesat-e-shqiperise-moment-i-rendesishem-per-vendin/",
+      "description": "TIRANË- Bashkimi Evropian forcon pritshmëritë e mbylljes se procesit të anëtarësimit të Shqipërisë brenda vitit 2029. Ursula Van Der Leyen pritet të shpallë dhjetorin e vitit të ardhshëm si afat zyrtar për mbylljen e gjithë kapitujve të negociatave me vendin tonë, në atë që shihet si një përpjekje h",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-23T16:32:16+00:00",
+      "dateStr": "23 Sep, 16:32",
+      "isNew": true,
+      "id": "abc81790181136"
+    },
+    {
+      "title": "Një grua do të pilotojë aeroplanin e Papa Leone XIV/ Clémence Cousonnot në krye të avionit gjatë vizitës në Francë",
+      "link": "https://abcnews.al/nje-grua-do-te-pilotoje-aeroplanin-e-papa-leone-xiv-clemence-cousonnot-ne-krye-te-avionit-gjate-vizites-ne-france/",
+      "description": "Air France ka zgjedhur pilote­n Clémence Cousonnot për të drejtuar avionin që do të transportojë Papa Leone XIV gjatë vizitës së tij në Francë. Cousonnot do të jetë kapitenia e një Airbus A321 që do të fluturojë Papën nga Parisi drejt Lourdes të shtunën dhe më pas nga Lourdes në Metz-Nancy-Lorraine ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-23T16:25:09+00:00",
+      "dateStr": "23 Sep, 16:25",
+      "isNew": true,
+      "id": "abc91790180709"
+    },
+    {
+      "title": "Gani Geci flet për Astrit Deharin: “Në burg u takova me një njeri që më tregoi…”",
+      "link": "https://www.lajme.al/5252524-2/",
+      "description": "Gani Geci: “U takova me një person në burg, i cili më tregoi se si e humbi jetën Astrit Dehari” Ish-deputeti dhe veprimtari politik, Gani Geci, ka bërë një deklaratë lidhur me rastin e Astrit Deharit, duke pretenduar se gjatë qëndrimit në burg është takuar me një person që i ka treguar detaje rreth ",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-23T15:25:52+00:00",
+      "dateStr": "23 Sep, 15:25",
+      "isNew": true,
+      "id": "laj21790177152"
+    },
+    {
+      "title": "Dejona Mihali reagon pas vendimit të Gjykatës Kushtetuese: Ja çfarë tha!",
+      "link": "https://www.lajme.al/321456987-4/",
+      "description": "🚨 Mihali reagon ndaj vendimit të Gjykatës Kushtetuese: “Shumë mirë Gjykata, shumë mirë PDK” Koordinatorja e komiteteve në Lëvizjen Vetëvendosje, Dejona Mihali, ka reaguar ndaj aktgjykimit të Gjykatës Kushtetuese lidhur me zgjedhjen e Presidentit të Kosovës. Në reagimin e saj, Mihali ka shprehur pakë",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-23T15:14:26+00:00",
+      "dateStr": "23 Sep, 15:14",
+      "isNew": true,
+      "id": "laj31790176466"
+    },
+    {
+      "title": "Kjo është 25 vjeçarja që ia mori jetën vjehrra e saj për këtë arsye banale",
+      "link": "https://www.lajme.al/12345674-2/",
+      "description": "Një ngjarje e rëndë ka ndodhur në Stamboll të Turqisë, ku një 25-vjeçare, e identifikuar me inicialet B.S., ka humbur jetën brenda banesës së saj. Për rastin është arrestuar vjehrra e saj, 58-vjeçarja me inicialet N.K. Sipas raportimeve të mediave turke, ngjarja ka ndodhur të shtunën, pas një konfli",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-23T14:37:00+00:00",
+      "dateStr": "23 Sep, 14:37",
+      "isNew": true,
+      "id": "laj41790174220"
+    },
+    {
+      "title": "Britania lëshon njoftim urgjent shtetasit e saj, në lidhje me protestat",
+      "link": "https://www.lajme.al/321456987-3/",
+      "description": "Ministria e Jashtme e Britanisë së Madhe kanë lëshuar një njoftim për shtetasit që synojnë të udhëtojnë drejt Kosovës. Në njoftimin e publikuar në faqen zyrtare tregohet për protestat që po organizohen në Kosovë pas vendimit të Hagës. “Po zhvillohen grumbullime të mëdha, përfshirë edhe në Prishtinë ",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-23T13:25:48+00:00",
+      "dateStr": "23 Sep, 13:25",
+      "isNew": true,
+      "id": "laj51790169948"
+    },
+    {
       "title": "PLAS BETEJA/ “Mora fjalë” zhduket nga YouTube, çfarë po ndodh me këngën ikonike?",
-      "link": "https://www.lajme.al/plas-beteja-mora-fjale-zhduket-nga-youtube-cfare-po-ndodh-me-kengen-ikonike/",
+      "link": "https://www.lajme.al/321456987-2/",
       "description": "**“Mora fjalë” hiqet nga YouTube pas kërkesës për të drejtat e autorit, kënga kishte miliona shikime** Kënga “Mora fjalë”, e interpretuar nga këngëtarja **Shkurte Fejza** dhe e lidhur me figurën e komandantit të UÇK-së, Adem Jashari, është përfshirë në një zhvillim lidhur me të drejtat e autorit. Si",
       "source": "Lajme.al",
       "category": "politike",
       "date": "2026-09-23T13:16:31+00:00",
       "dateStr": "23 Sep, 13:16",
       "isNew": true,
-      "id": "laj01790169391"
-    },
-    {
-      "title": "31 mijë fëmijë më pak në listën e gushtit krahasuar me prillin, dyshohet abuzim me shtesat",
-      "link": "https://24-ore.com/31-mije-femije-me-pak-ne-listen-e-gushtit-krahasuar-me-prillin-dyshohet-abuzim-me-shtesat/",
-      "description": "Të dhënat e ASK-së: në gusht shtesat i morën 374,382 fëmijë, nga 405,935 në prill; eksperti Mujku llogarit abuzim me vlerë rreth 13.5 milionë euro në vit",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-23T13:16:28+00:00",
-      "dateStr": "23 Sep, 13:16",
-      "isNew": true,
-      "id": "24 01790169388"
-    },
-    {
-      "title": "Berisha mbledh deputetët, diskutohet reagimi pas masës ndaj Hysenit: SHISH në duart e krimit",
-      "link": "https://24-ore.com/berisha-mbledh-deputetet-diskutohet-reagimi-pas-mases-ndaj-hysenit-shish-ne-duart-e-krimit/",
-      "description": "Masa e arrestit ndaj Vlora Hyseni ishte kryefjala e takimit në selinë blu të Sali Berishës me deputetët. Në mbledhjen e grupit parlamentar, lider demokrat kërkoi prej të gjithë ridimensionin të aksionit opozitar pasi siç pohoi Shërbimi Informativ Shtetëror është në duart e krimit. “Dokumentet e fund",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-23T13:16:19+00:00",
-      "dateStr": "23 Sep, 13:16",
-      "isNew": true,
-      "id": "24 11790169379"
-    },
-    {
-      "title": "Kushtetuesja vendos: Kuvendi u konstituua pas afatit, zgjedhja e qeverisë më 13 shtator nuk është antikushtetuese",
-      "link": "https://24-ore.com/kushtetuesja-vendos-kuvendi-u-konstituua-pas-afatit-zgjedhja-e-qeverise-me-13-shtator-nuk-eshte-antikushtetuese/",
-      "description": "Afati 60-ditor për zgjedhjen e presidentit filloi më 8 gusht dhe përfundon më 6 tetor; deputetët duhet të zgjedhin \"sa më parë\" nënkryetarin e dytë nga radhët e PDK-së",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-23T13:13:59+00:00",
-      "dateStr": "23 Sep, 13:13",
-      "isNew": true,
-      "id": "24 21790169239"
-    },
-    {
-      "title": "Holanda s’ka besim dhe s’vlerëson Virgil van Dijk: Vërej ndryshim mes kombëtares dhe Liverpool-it!",
-      "link": "https://24-ore.com/holanda-ska-besim-dhe-svlereson-virgil-van-dijk-verej-ndryshim-mes-kombetares-dhe-liverpool-it/",
-      "description": "Virgil van Dijk nuk pati asnjë dyshim kur mori vendimin për të vazhduar si lojtar dhe si kapiten i kombëtares holandeze. Lojtari i Liverpool-it e deklaroi këtë një ditë para ndeshjes Holandë-Gjermani, e para ndeshje ndërkombëtare nën drejtimin e trajnerit të ri të kombëtares, Xavi Hernandez. “Kisha ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-23T13:09:50+00:00",
-      "dateStr": "23 Sep, 13:09",
-      "isNew": true,
-      "id": "24 31790168990"
-    },
-    {
-      "title": "Zgjedhjet e Parakohshme, tashmë janë domosdoshmëri",
-      "link": "https://24-ore.com/zgjedhjet-e-parakohshme-tashme-jane-domosdoshmeri/",
-      "description": "Nga Ben Andoni Thembra e Akilit për demokracinë shqiptare në rendin e ri politiko-ekonomiko-shoqëror që ngritëm pas viteve ’90 është dhe mbetet Procesi Zgjedhor. Megjithë certifikimet klasike të OSBE-ODHIR për zgjedhjet tona, ku pala organizatore asnjëherë nuk del keq, ato lënë dukshëm për të dëshir",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-23T13:04:28+00:00",
-      "dateStr": "23 Sep, 13:04",
-      "isNew": true,
-      "id": "24 41790168668"
-    },
-    {
-      "title": "Zgjedhjet e Parakohshme, tashmë janë domosdoshmëri",
-      "link": "https://24-ore.com/zgjedhjet-e-parakohshme-tashme-jane-domosdoshmeri-2/",
-      "description": "Nga Ben Andoni Thembra e Akilit për demokracinë shqiptare në rendin e ri politiko-ekonomiko-shoqëror që ngritëm pas viteve ’90 është dhe mbetet Procesi Zgjedhor. Megjithë certifikimet klasike të OSBE-ODHIR për zgjedhjet tona, ku pala organizatore asnjëherë nuk del keq, ato lënë dukshëm për të dëshir",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-23T13:04:28+00:00",
-      "dateStr": "23 Sep, 13:04",
-      "isNew": true,
-      "id": "24 51790168668"
-    },
-    {
-      "title": "Pse disa njerëz përjetojnë dridhje nga kafeina, ndërsa të tjerë jo",
-      "link": "https://24-ore.com/pse-disa-njerez-perjetojne-dridhje-nga-kafeina-ndersa-te-tjere-jo-2/",
-      "description": "Për disa njerëz, një filxhan kafe është i mjaftueshëm për t’i mbajtur zgjuar për orë të tëra. Për të tjerë, edhe dy kafe, një pije energjike dhe disa gota Coca-Cola nuk duket se bëjnë ndonjë ndryshim të madh. “Ka njerëz që mund të pinë kafe edhe para gjumit dhe të flenë pa problem, ndërsa të [&#8230",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-23T13:03:08+00:00",
-      "dateStr": "23 Sep, 13:03",
-      "isNew": true,
-      "id": "24 61790168588"
-    },
-    {
-      "title": "Pse disa njerëz përjetojnë dridhje nga kafeina, ndërsa të tjerë jo",
-      "link": "https://24-ore.com/pse-disa-njerez-perjetojne-dridhje-nga-kafeina-ndersa-te-tjere-jo/",
-      "description": "Për disa njerëz, një filxhan kafe është i mjaftueshëm për t’i mbajtur zgjuar për orë të tëra. Për të tjerë, edhe dy kafe, një pije energjike dhe disa gota Coca-Cola nuk duket se bëjnë ndonjë ndryshim të madh. “Ka njerëz që mund të pinë kafe edhe para gjumit dhe të flenë pa problem, ndërsa të [&#8230",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-23T13:03:06+00:00",
-      "dateStr": "23 Sep, 13:03",
-      "isNew": true,
-      "id": "24 71790168586"
-    },
-    {
-      "title": "Gjykata Kushtetuese i refuzon iniciativat e Levicës dhe Dinjitetit: Kuvendi vendos kush merr para shtetërore për fushata",
-      "link": "https://24-ore.com/gjykata-kushtetuese-i-refuzon-iniciativat-e-levices-dhe-dinjitetit-kuvendi-vendos-kush-merr-para-shteterore-per-fushata/",
-      "description": "Gjykata Kushtetuese e Maqedonisë së Veriut refuzoi sot iniciativat e Levicës dhe Dinjitetit kundër dispozitave të Kodit Zgjedhor mbi financimin shtetëror të fushatave: gjyqtarët arsyetuan se Kuvendi vendos me ligj se si shpërndahen paratë publike për reklamat politike.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-23T13:02:37+00:00",
-      "dateStr": "23 Sep, 13:02",
-      "isNew": true,
-      "id": "24 81790168557"
-    },
-    {
-      "title": "Ethet e Nilit Perëndimor: katër ditë pa raste të reja, 12 pacientë në Klinikën Infektive — tre në kujdes intensiv",
-      "link": "https://24-ore.com/ethet-e-nilit-perendimor-kater-dite-pa-raste-te-reja-12-paciente-ne-kliniken-infektive-tre-ne-kujdes-intensiv/",
-      "description": "Që nga 19 shtatori nuk ka asnjë shtrim të ri për virusin e Nilit Perëndimor në Klinikën Infektive në Shkup, ku po trajtohen 12 pacientë, tre prej tyre në kujdes intensiv.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-23T13:02:23+00:00",
-      "dateStr": "23 Sep, 13:02",
-      "isNew": true,
-      "id": "24 91790168543"
+      "id": "laj61790169391"
     },
     {
       "title": "E PABESUESHME/ Edi Rama në SPAK!? Zbardhen detajet",
@@ -133,29 +309,7 @@
       "date": "2026-09-23T12:54:51+00:00",
       "dateStr": "23 Sep, 12:54",
       "isNew": true,
-      "id": "laj11790168091"
-    },
-    {
-      "title": "Money Report me Genta Dobra, (23/09/2026)",
-      "link": "https://abcnews.al/money-report-me-genta-dobra-23-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T12:49:35+00:00",
-      "dateStr": "23 Sep, 12:49",
-      "isNew": true,
-      "id": "abc01790167775"
-    },
-    {
-      "title": "Gjirokastër/ Zjarr në fshatin Golem, digjet një banesë",
-      "link": "https://abcnews.al/gjirokaster-zjarr-ne-fshatin-golem-digjet-nje-banese/",
-      "description": "Një vatër zjarri ka rënë në fshatin Golem, Njësia Administrative Picar-Bashkia Gjirokastër, digjet një banesë. Forcat zjarrfikëse me dy automjete shkuan në vendngjarje, ku konstatuan flakët në një banesë të pabanuar, ndërsa rrezikoheshin edhe dy banesa të tjera. Falë ndërhyrjes së shpejtë të forcave",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T12:46:48+00:00",
-      "dateStr": "23 Sep, 12:46",
-      "isNew": true,
-      "id": "abc11790167608"
+      "id": "laj71790168091"
     },
     {
       "title": "Tension në Podujevë: I riu shkon i armatosur te shtëpia me flamurin serb, kapet nga Policia",
@@ -166,18 +320,7 @@
       "date": "2026-09-23T12:43:37+00:00",
       "dateStr": "23 Sep, 12:43",
       "isNew": true,
-      "id": "laj21790167417"
-    },
-    {
-      "title": "Teknologjia dhe bizneset/ Lahi: Duhen masa nxitëse për përdorimin e AI. Bizneset të përshtaten me standardet e BE",
-      "link": "https://abcnews.al/teknologjia-dhe-bizneset-lahi-duhen-masa-nxitese-per-perdorimin-e-ai-bizneset-te-pershtaten-me-standardet-e-be/",
-      "description": "Ndonëse bizneset kanë ndërtuar një prani të mirë online, ato po dështojnë të shfrytëzojnë inteligjencën artificiale dhe të dhënat për të rritur shitjet, deklaroi Rezart Lahi, ekspert sipërmarrjeje për “Money Report” në ABC News. Rreth dy të tretat e kompanive nuk e përdorin teknologjinë për të kursy",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T12:30:55+00:00",
-      "dateStr": "23 Sep, 12:30",
-      "isNew": true,
-      "id": "abc21790166655"
+      "id": "laj81790167417"
     },
     {
       "title": "E rëndë në Bulqizë: Aksidenti fatal i merr jetën shoferit (EMRI)",
@@ -188,150 +331,7 @@
       "date": "2026-09-23T12:14:50+00:00",
       "dateStr": "23 Sep, 12:14",
       "isNew": true,
-      "id": "laj31790165690"
-    },
-    {
-      "title": "Biznesi shqiptar përdor inteligjencën artificiale/ INSTAT: Gjatë këtij viti e përdorin mbi 28 përqind e ndërmarrjeve të mëdha",
-      "link": "https://abcnews.al/biznesi-shqiptar-perdor-inteligjencen-artificiale-instat-gjate-ketij-viti-e-perdorin-mbi-28-perqind-e-ndermarrjeve-te-medha/",
-      "description": "Biznesi shqiptar po përdor gjithnjë e më shumë inteligjencën artificiale. Të dhënat e vitit 2026 tregojnë se përdorimi i kësaj teknologjie është rritur veçanërisht në ndërmarrjet e mëdha, me mbi 250 të punësuar. Në vitin 2025, 24.8% e këtyre ndërmarrjeve përdornin inteligjencën artificiale, ndërsa n",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T12:10:55+00:00",
-      "dateStr": "23 Sep, 12:10",
-      "isNew": true,
-      "id": "abc31790165455"
-    },
-    {
-      "title": "Ja kush emërohet në krye të SHISH pas shkarkimit të Vlora Hysenit",
-      "link": "https://www.lajme.al/36985214-4/",
-      "description": "Elvis Lila ka marrë përkohësisht kompetencat e Drejtorit të Shërbimit Informativ të Shtetit (SHISH), pas shkarkimit të Vlora Hysenit nga detyra. Lila, i cili mban postin e Drejtorit të Departamentit Operativ në SHISH, është ngarkuar përkohësisht me ushtrimin e kompetencave të kreut të institucionit.",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T12:06:11+00:00",
-      "dateStr": "23 Sep, 12:06",
-      "isNew": true,
-      "id": "laj41790165171"
-    },
-    {
-      "title": "Kompensimi për fëmijët/ Rimbursohen mbi 2 mijë individë me vlerë 32.7 milionë lekë",
-      "link": "https://abcnews.al/kompensimi-per-femijet-rimbursohen-mbi-2-mije-individe-me-vlere-32-7-mln-leke/",
-      "description": "Mbi 2 mijë prindër kanë përfituar tashmë në llogaritë e tyre kompensimin për fëmijët, në kuadër të procesit të rimbursimit të Tatimit të Mbipaguar në DIVA për vitin 2025. Administrata Tatimore ka njoftuar se procesi i rimbursimit po vijon edhe për individët që kanë hasur problematika gjatë deklarimi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T12:05:19+00:00",
-      "dateStr": "23 Sep, 12:05",
-      "isNew": true,
-      "id": "abc41790165119"
-    },
-    {
-      "title": "Nafta bie nën 100 dollarë fuçia/ Rënia pas përparimit të bisedimeve SHBA-Iran",
-      "link": "https://abcnews.al/nafta-bie-nen-100-dollare-fucia-renia-pas-perparimit-te-bisedimeve-shba-iran/",
-      "description": "Çmimet e naftës ranë lehtë të mërkurën pasi presidenti amerikan Donald Trump tha se përfaqësuesit amerikanë zhvilluan bisedime productive me palën iraniane në Kombet e Bashkuara. Nafta e papërpunuar brent u ul në 98.4 dollarë për fuçi, nga rreth 100 dollarë që tregtohej një ditë më parë. Çmimet e ar",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T12:02:52+00:00",
-      "dateStr": "23 Sep, 12:02",
-      "isNew": true,
-      "id": "abc51790164972"
-    },
-    {
-      "title": "Albin Kurti me kerkes te veçant ne SHBA per “Bondsteel”",
-      "link": "https://www.lajme.al/36985214-3/",
-      "description": "Kryeministri i Kosovës, Albin Kurti, ka kërkuar që Kampi Bondsteel të shndërrohet në një bazë të përhershme ushtarake amerikane në Kosovë, duke e cilësuar këtë si një hap në funksion të paqes, stabilitetit dhe sigurisë afatgjatë në rajon.Ai e ka bërë këtë kërkesë gjatë një takimi në New York me kong",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T11:58:09+00:00",
-      "dateStr": "23 Sep, 11:58",
-      "isNew": true,
-      "id": "laj51790164689"
-    },
-    {
-      "title": "BE zhbllokon 4.2 miliardë euro për Hungarinë, von der Leyen: Ka forcuar sundimin e ligjit",
-      "link": "https://abcnews.al/be-zhbllokon-4-2-miliarde-euro-per-hungarine-von-der-leyen-ka-forcuar-sundimin-e-ligjit/",
-      "description": "Komisioni Evropian ka zhbllokuar 4.2 miliardë euro nga fondet e kohezionit për Hungarinë, pasi vlerësoi se Budapesti ka përmbushur kushtet e kërkuara për forcimin e sundimit të ligjit dhe mbrojtjen e fondeve të BE-së. Vendimi i hap gjithashtu rrugën që studentët dhe studiuesit hungarezë të rikthehen",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T11:54:48+00:00",
-      "dateStr": "23 Sep, 11:54",
-      "isNew": true,
-      "id": "abc61790164488"
-    },
-    {
-      "title": "Trump takohet me Zelensky: Do të arrihet marrëveshje për t’i dhënë fund luftës me Rusinë",
-      "link": "https://abcnews.al/trump-takohet-me-zelensky-do-te-arrihet-marreveshje-per-ti-dhene-fund-luftes-me-rusine/",
-      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump ka deklaruar se  mund të arrihet një marrëveshje mes ukraines dhe rusise per t&#8217;i dhënë fund luftës Trump i bëri komentet gjatë takimit dypalësh me Presidentin ukrainas, Volodymyr Zelenskyy, në kuadër të Asamblesë së Përgjithshme të Kombeve të Ba",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T11:42:41+00:00",
-      "dateStr": "23 Sep, 11:42",
-      "isNew": true,
-      "id": "abc71790163761"
-    },
-    {
-      "title": "Rama delegon kompetencat e Hysenit/ Elvis Lila drejton përkohësisht SHISH deri në emërimin e drejtorit të ri",
-      "link": "https://abcnews.al/shkarkimi-i-vlora-hysenit-elvis-lila-merr-perkohesisht-kompetencat-e-shish/",
-      "description": "SHISH do të ketë përkohësisht një drejtues të komanduar në detyrë. Pas shkarkimit të Vlora Hysenit, kryeministri Edi Rama ka firmosur urdhrin për t’ia deleguar kompetencat e drejtimit të SHISH, drejtorit të Departamentit Operativ, Elvis Lila. Qëndrimi në krye të SHISH i Elvis Lilës, pritet të zgjasë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T11:40:50+00:00",
-      "dateStr": "23 Sep, 11:40",
-      "isNew": true,
-      "id": "abc81790163650"
-    },
-    {
-      "title": "Edicioni i Mesditës me Fabiola Hoxha, (23/09/2026)",
-      "link": "https://abcnews.al/edicioni-i-mesdites-me-fabiola-hoxha-23-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T11:39:11+00:00",
-      "dateStr": "23 Sep, 11:39",
-      "isNew": true,
-      "id": "abc91790163551"
-    },
-    {
-      "title": "Ja sa vite dënohet 18-vjeçarin nga Kosova që tentoi të ia mer jetën mësueses në Gjermani",
-      "link": "https://www.lajme.al/123654787-2/",
-      "description": "Gjermani: 18-vjeçari nga Kosova dënohet me 9 vjet burg për sulmet me thikë Gjykata e Lartë Rajonale e Dyseldorfit ka dënuar me **nëntë vjet burgim** një 18-vjeçar nga Kosova, i cili është shpallur fajtor për dy raste të tentativës për vrasje dhe për lëndim të rrezikshëm trupor. Vendimi është shpallu",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T09:35:35+00:00",
-      "dateStr": "23 Sep, 09:35",
-      "isNew": true,
-      "id": "laj61790156135"
-    },
-    {
-      "title": "A do t’u hiqen shtesat këtyre fëmijëve? Ja çfarë po ndodh",
-      "link": "https://www.lajme.al/32145698-2/",
-      "description": "Nis verifikimi i përfituesve të shtesave për fëmijë në Kosovë Ministria e Financave, Punës dhe Transfereve ka nisur një proces të gjerë verifikimi të përfituesve të shtesave për fëmijë, me qëllim që pagesat nga buxheti i shtetit të vazhdojnë t’u jepen familjeve që plotësojnë kriteret e përcaktuara m",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T09:28:28+00:00",
-      "dateStr": "23 Sep, 09:28",
-      "isNew": true,
-      "id": "laj71790155708"
-    },
-    {
-      "title": "Lajm i mirë për të punësuarit/ Rritet paga mesatare, ja sa është!",
-      "link": "https://www.lajme.al/32123132-2/",
-      "description": "Rriten pagat në Maqedoninë e Veriut, paga mesatare neto arrin në 48.499 denarë Paga mesatare mujore neto e paguar për punonjës në Maqedoninë e Veriut ka shënuar rritje gjatë korrikut 2026, duke arritur në 48.499 denarë, njoftoi Enti Shtetëror i Statistikave (ESHS). Krahasuar me korrikun e vitit 2025",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T09:15:09+00:00",
-      "dateStr": "23 Sep, 09:15",
-      "isNew": true,
-      "id": "laj81790154909"
-    },
-    {
-      "title": "E FUNDIT/ Zjarr i fuqishëm pranë aeroportit të Vlorës",
-      "link": "https://www.lajme.al/23132131-2/",
-      "description": "Zjarri pranë aeroportit të Vlorës, era favorizon përhapjen e flakëve Një vatër zjarri është shfaqur në zonën e Akërnisë, pranë aeroportit të Vlorës, duke përfshirë një stan. Pas marrjes së njoftimit, shërbimet zjarrfikëse kanë mbërritur në vendngjarje dhe kanë nisur ndërhyrjen për izolimin dhe shuar",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T09:09:12+00:00",
-      "dateStr": "23 Sep, 09:09",
-      "isNew": true,
-      "id": "laj91790154552"
+      "id": "laj91790165690"
     }
   ]
 }
