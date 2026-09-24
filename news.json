@@ -1,62 +1,216 @@
 {
-  "lastUpdated": "2026-09-24T19:45:24.765502+00:00",
+  "lastUpdated": "2026-09-24T22:57:55.690367+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Dhjetë ndeshjet më të mirë të harruara të WWE në sezonin e vjeshtës",
-      "link": "https://24-ore.com/dhjete-ndeshjet-me-te-mire-te-harruara-te-wwe-ne-sezonin-e-vjeshtes/",
-      "description": "Muajt e vjeshtës në WWE shpesh konsiderohen si periudhë qetësie përpara rrugëtimit drejt WrestleMania, por nga shtatori në nëntor janë zhvilluar disa ndesh...",
+      "title": "Partia Rome në Serbi rishikon vendimin për dalje të pavarur në zgjedhjet e 25 tetorit",
+      "link": "https://24-ore.com/partia-rome-ne-serbi-rishikon-vendimin-per-dalje-te-pavarur-ne-zgjedhjet-e-25-tetorit/",
+      "description": "Romska partija e Srđan Šajnit do të rishqyrtojë vendimin e 13 shtatorit për garim të pavarur në zgjedhjet e parakohshme parlamentare të 25 tetorit në Serbi, në një kohë kur tre partitë e tjera rome kanë nënshkruar marrëveshje për dalje të përbashkët.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-24T19:41:10+00:00",
+      "date": "2026-09-24T22:55:28+00:00",
+      "dateStr": "24 Sep, 22:55",
+      "isNew": true,
+      "id": "24 01790290528"
+    },
+    {
+      "title": "«Hen»: filmi bizarr për pulën heroine, me producent ekzekutiv Ari Aster-in — del trailer-i dhe posteri zyrtar amerikan",
+      "link": "https://24-ore.com/hen-filmi-bizarr-per-pulen-heroine-me-producent-ekzekutiv-ari-aster-in-del-trailer-i-dhe-posteri-zyrtar-amerikan/",
+      "description": "Dekanalog njofton datat: hapja në Quad Cinema në Nju Jork më 6 nëntor, pastaj në Laemmle Theatres më 13 nëntor",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-24T22:48:01+00:00",
+      "dateStr": "24 Sep, 22:48",
+      "isNew": true,
+      "id": "24 11790290081"
+    },
+    {
+      "title": "Erblin Osmani, diamanti që debutoi me Kosovën në një mbrëmje magjike",
+      "link": "https://24-ore.com/erblin-osmani-diamanti-qe-debutoi-me-kosoven-ne-nje-mbremje-magjike/",
+      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor September 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-24T22:47:12+00:00",
+      "dateStr": "24 Sep, 22:47",
+      "isNew": true,
+      "id": "24 21790290032"
+    },
+    {
+      "title": "Jordania dënon sulmet iraniane përballë Araghchit në Nju Jork: “Do të mbrojmë territorin, sovranitetin dhe qytetarët tanë”",
+      "link": "https://24-ore.com/jordania-denon-sulmet-iraniane-perballe-araghchit-ne-nju-jork-do-te-mbrojme-territorin-sovranitetin-dhe-qytetaret-tane/",
+      "description": "Ministri i Jashtëm jordanez Ayman Safadi i tha homologut iranian Abbas Araghchi se Ammani do të marrë të gjitha masat e nevojshme për të mbrojtur vendin, duke dënuar sulmet e Iranit ndaj Jordanisë dhe vendeve të Gjirit.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-24T22:41:01+00:00",
+      "dateStr": "24 Sep, 22:41",
+      "isNew": true,
+      "id": "24 31790289661"
+    },
+    {
+      "title": "Bob Pettit ndahet nga jeta në moshën 93 vjeçare",
+      "link": "https://24-ore.com/bob-pettit-ndahet-nga-jeta-ne-moshen-93-vjecare/",
+      "description": "Legjenda e NBA-së Bob Pettit u nda nga jeta të mërkurën në moshën 93 vjeçare. Njoftimin për vdekjen e tij e bëri të enjten Naismith Basketball Hall of Fame...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-24T22:38:17+00:00",
+      "dateStr": "24 Sep, 22:38",
+      "isNew": true,
+      "id": "24 41790289497"
+    },
+    {
+      "title": "Pezeshkian në OKB: Irani dëshiron që SHBA-të t’i kthehen Memorandumit të Mirëkuptimit para zgjedhjeve të mesmandatit",
+      "link": "https://24-ore.com/pezeshkian-ne-okb-irani-deshiron-qe-shba-te-ti-kthehen-memorandumit-te-mirekuptimit-para-zgjedhjeve-te-mesmandatit/",
+      "description": "Presidenti iranian Masoud Pezeshkian deklaroi të enjten në Nju Jork se Teherani dëshiron që Uashingtoni t'i kthehet marrëveshjes që do të hapte bisedimet e paqes, para zgjedhjeve të nëntorit në SHBA.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-24T22:37:57+00:00",
+      "dateStr": "24 Sep, 22:37",
+      "isNew": true,
+      "id": "24 51790289477"
+    },
+    {
+      "title": "Një zyrtar i MLB: Yankees nuk kanë shanse për Serinë Botërore nëse Aaron Judge nuk rikthehet",
+      "link": "https://24-ore.com/nje-zyrtar-i-mlb-yankees-nuk-kane-shanse-per-serine-boterore-nese-aaron-judge-nuk-rikthehet/",
+      "description": "New York Yankees përballen me një sfidë të madhe në fazën finale të sezonit pasi ylli i tyre, Aaron Judge, mungon për shkak të një tërheqjeje të viçit të d...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-24T22:37:08+00:00",
+      "dateStr": "24 Sep, 22:37",
+      "isNew": true,
+      "id": "24 61790289428"
+    },
+    {
+      "title": "Përzgjedhja e Mike Babcock po jep vetëm rezultate pozitive për Edmonton Oilers",
+      "link": "https://24-ore.com/perzgjedhja-e-mike-babcock-po-jep-vetem-rezultate-pozitive-per-edmonton-oilers/",
+      "description": "Edmonton Oilers vlerësojnë se kampi përgatitor ka shkuar mirë nën drejtimin e trajnerit të ri Mike Babcock; po krijohet një marrëdhënie solide mes lojtarëv...",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-24T22:36:12+00:00",
+      "dateStr": "24 Sep, 22:36",
+      "isNew": true,
+      "id": "24 71790289372"
+    },
+    {
+      "title": "RIK konfirmon zyrtarisht tërheqjen e listës së Aleksiçit, Parandilloviçit dhe Çutës nga zgjedhjet e 25 tetorit",
+      "link": "https://24-ore.com/rik-konfirmon-zyrtarisht-terheqjen-e-listes-se-aleksicit-parandillovicit-dhe-cutes-nga-zgjedhjet-e-25-tetorit/",
+      "description": "Komisioni Republikan i Zgjedhjeve i Serbisë miratoi aktvendimin për tërheqjen e listës “Izbor naroda – Miroslav Miki Aleksić – Miloš Parandilović – Aleksandar Jovanović Ćuta” nga zgjedhjet e parakohshme parlamentare të 25 tetorit. Kërkesa u dorëzua nga koalicioni “Narodna Srbija” më 22 shtator; lajm",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-24T22:34:35+00:00",
+      "dateStr": "24 Sep, 22:34",
+      "isNew": true,
+      "id": "24 81790289275"
+    },
+    {
+      "title": "Aksident i rëndë zinxhiror pranë Pribojit: dy makina përfunduan në kanal, e treta u shtyp si kanaçe",
+      "link": "https://24-ore.com/aksident-i-rende-zinxhiror-prane-pribojit-dy-makina-perfunduan-ne-kanal-e-treta-u-shtyp-si-kanace/",
+      "description": "Tre makina u përfshinë në një aksident të rëndë zinxhiror sonte pranë Pribojit në Serbi. Në vendngjarje kanë mbërritur zjarrfikësit dhe ambulanca.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-24T22:25:04+00:00",
+      "dateStr": "24 Sep, 22:25",
+      "isNew": true,
+      "id": "24 91790288704"
+    },
+    {
+      "title": "Në Kanada, menduan për luftë me SHBA/ Kryeministri Carney: Mundësi e largët, por u përgatitën edhe për sulm nga fqinjët",
+      "link": "https://abcnews.al/ne-kanada-menduan-per-lufte-me-shba-kryeministri-carney-mundesi-e-larget-por-u-pergatiten-edhe-per-sulm-nga-fqinjet/",
+      "description": "Kryeministri kanadez Mark Carney ka shqyrtuar mundësinë, ndonëse shumë të largët, të një ndërhyrjeje ushtarake të SHBA-së kundër Kanadasë, sipas një interviste të dhënë prej tij për gazetën “The New York Times”. Carney i tha gazetës se qeveria e tij ka shqyrtuar me kujdes skenarin e “rrezikut ekstre",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-24T21:45:30+00:00",
+      "dateStr": "24 Sep, 21:45",
+      "isNew": true,
+      "id": "abc01790286330"
+    },
+    {
+      "title": "“Akuza ndaj Hysenit nuk po kuptohet”/ Leka: Rrjedhja e informacioneve, banale! SPAK nuk ka menduar për shtetin",
+      "link": "https://abcnews.al/akuza-ndaj-hysenit-nuk-po-kuptohet-leka-rrjedhja-e-informacioneve-banale-spak-nuk-ka-menduar-per-shtetin/",
+      "description": "Në një intervistë në emisionin “Ora e Njëmbëdhjetë”, në ABC News analisti Martin Leka ka komentuar çështjen e Vlora Hysenit, duke kërkuar që të ndahet roli i saj si person privat nga përgjegjësitë që ajo ka si drejtoreshë e Shërbimit Informativ të Shtetit. Sipas tij, posti i drejtueses së SHISH ësht",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-24T21:34:47+00:00",
+      "dateStr": "24 Sep, 21:34",
+      "isNew": true,
+      "id": "abc11790285687"
+    },
+    {
+      "title": "“War Report” me Sali Doçi, (24/09/2026)",
+      "link": "https://abcnews.al/war-report-me-sali-doci-24-09-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-24T21:29:30+00:00",
+      "dateStr": "24 Sep, 21:29",
+      "isNew": true,
+      "id": "abc21790285370"
+    },
+    {
+      "title": "Polemika në Asamblenë e OKB/ Delegatët lanë sallën kur kryeministri i Izraelit Netanyahu po bëhej gati për fjalim",
+      "link": "https://abcnews.al/polemika-ne-asamblene-e-okb-delegatet-lane-sallen-kur-kryeministri-i-izraelit-netanyahu-po-behej-gati-per-fjalim/",
+      "description": "Njësoj si një vit më parë, dhjetëra diplomatë të delegacioneve ndërkombëtare braktisën mbrëmjen e kësaj të enjteje sallën ku po mbahet Asambleja e Përgjithshme e Kombeve të Bashkuara, në shenjë proteste, sapo aty hyri kryeministri izraelit. Në një fjalim të nisur mes tensionesh, ku akuzoi ata që po ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-24T21:22:44+00:00",
+      "dateStr": "24 Sep, 21:22",
+      "isNew": true,
+      "id": "abc31790284964"
+    },
+    {
+      "title": "Dita e nëntë e protestës/ Qytetarët mbushin Prishtinën kundër vendimit të Hagës për 4 ish-krerët e UÇK-së",
+      "link": "https://abcnews.al/dita-e-nente-e-protestes-qytetaret-mbushin-prishtinen-kunder-vendimit-te-hages-per-4-ish-kreret-e-uck-se/",
+      "description": "Mijëra qytetarë u mblodhën edhe mbrëmjen e të enjtes për të protestuar nën moton “Jo në emrin tim”, në ditën e nëntë të tubimit kundër dënimit të Gjykatës Speciale me 81 vjet burgim ndaj katër ish-udhëheqësve të Ushtrisë Çlirimtare të Kosovës. Protesta e kësaj të enjteje nisi me një minutë heshtje n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-24T21:08:16+00:00",
+      "dateStr": "24 Sep, 21:08",
+      "isNew": true,
+      "id": "abc41790284096"
+    },
+    {
+      "title": "Bjellorusia liron 15 të burgosur, mes negociatave me SHBA",
+      "link": "https://abcnews.al/bjellorusia-liron-15-te-burgosur-mes-negociatave-me-shba/",
+      "description": "Presidenti i Bjellorusisë, Alexander Lukashenko, ka falur 15 të burgosur të tjerë, sipas një deklarate të publikuar nga zyra presidenciale. Vendimi vjen vetëm disa javë pas lirimit të 25 personave të tjerë në kuadër të faljeve të mëparshme, pas bisedimeve mes autoriteteve bjelloruse dhe përfaqësuesi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-24T20:16:23+00:00",
+      "dateStr": "24 Sep, 20:16",
+      "isNew": true,
+      "id": "abc51790280983"
+    },
+    {
+      "title": "Gërvalla pyetet për vendimin ndaj ish-krerëve të UÇK-së – ja si përgjigjet ministrja",
+      "link": "https://www.lajme.al/gervalla-pyetet-per-vendimin-ndaj-ish-krereve-te-uck-se-ja-si-pergjigjet-ministrja/",
+      "description": "**Gërvalla pyetet për vendimin e Gjykatës Speciale ndaj ish-krerëve të UÇK-së** Ministrja e Drejtësisë, Donika Gërvalla, ka marrë pjesë në akademinë përkujtimore të organizuar me rastin e trevjetorit të rënies së heroit të Kosovës, Afrim Bunjaku. Gjatë aktivitetit, Gërvalla është pyetur nga gazetari",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-24T19:47:34+00:00",
+      "dateStr": "24 Sep, 19:47",
+      "isNew": true,
+      "id": "laj01790279254"
+    },
+    {
+      "title": "“Sulmet e shkurtra me dron mund të ndodhin”/ Gazetari: Rusia mund të testojë gatishmërinë e NATO-s",
+      "link": "https://abcnews.al/sulmet-e-shkurtra-me-dron-mund-te-ndodhin-gazetari-rusia-mund-te-testoje-gatishmerine-e-nato-s/",
+      "description": "Gazetari Egon Loli ka folur në emisionin “War Report” në ABC News për përshkallëzimin e mundshëm të konfliktit dhe skenarët që mund të përballen vendet anëtare të NATO-s. Ai tha se ekzistojnë disa skenarë se si Rusia mund të veprojë ndaj vendeve të Aleancës, duke përmendur luftën hibride, sulmet me ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-24T19:41:53+00:00",
       "dateStr": "24 Sep, 19:41",
       "isNew": true,
-      "id": "24 01790278870"
+      "id": "abc61790278913"
     },
     {
-      "title": "“Prishtina më duket si BE” – Vlogeri kazak mahnitet me zhvillimin e kryeqytetit të Kosovës",
-      "link": "https://24-ore.com/prishtina-me-duket-si-be-vlogeri-kazak-mahnitet-me-zhvillimin-e-kryeqytetit-te-kosoves/",
-      "description": "Një turist nga Kazakistani ka ndarë përshtypjet e tij për Prishtinën, duke thënë se kryeqyteti i Kosovës i ngjan shumë vendeve të Bashkimit Evropian për nga infrastruktura dhe markat ndërkombëtare. Raiymbek, i cili është në një turne botëror, kishte planifikuar vetëm një ndalesë të shkurtër në Prish",
-      "source": "24 ORE",
+      "title": "Inteligjenca daneze: Rusia mund të sulmojë një shtet të NATO-s brenda disa muajsh",
+      "link": "https://abcnews.al/inteligjenca-daneze-rusia-mund-te-sulmoje-nje-shtet-te-nato-s-brenda-disa-muajsh/",
+      "description": "Rusia mund të kryejë sulm të kufizuar ushtarak ndaj një shteti, anëtar të NATO-s, në muajt e ardhshëm, ka paralajmëruar inteligjenca daneze, në një prej paralajmërimeve më të errëta deri tash nga shërbimet perëndimore të sigurimit. Në një raport të publikuar të enjten, shërbimi danez i inteligjencës",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-24T19:40:49+00:00",
-      "dateStr": "24 Sep, 19:40",
+      "date": "2026-09-24T19:38:32+00:00",
+      "dateStr": "24 Sep, 19:38",
       "isNew": true,
-      "id": "24 11790278849"
-    },
-    {
-      "title": "Mbyllet gara për rektor të Universitetit të Malit të Zi: Irena Orović, e vetmja kandidate",
-      "link": "https://24-ore.com/mbyllet-gara-per-rektor-te-universitetit-te-malit-te-zi-irena-orovic-e-vetmja-kandidate/",
-      "description": "Profesorja e rregullt e Fakultetit të Elektroteknikës dhe aktualisht prorektorja e Universitetit të Malit të Zi, Irena Orović, është deri tani kandidatja e vetme për rektor të këtij institucioni shtetëror të arsimit të lartë; konkursi u mbyll dje, ndërsa priten ende aplikimet e dërguara me postë.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-24T19:40:21+00:00",
-      "dateStr": "24 Sep, 19:40",
-      "isNew": true,
-      "id": "24 21790278821"
-    },
-    {
-      "title": "Jon Scheyer shpjegon pse vendosi të qëndrojë te Duke pas ofertës së Mavericks",
-      "link": "https://24-ore.com/jon-scheyer-shpjegon-pse-vendosi-te-qendroje-te-duke-pas-ofertes-se-mavericks/",
-      "description": "Jon Scheyer tha në Ditën e Mediave të Duke se do të vijojë punën në Durham dhe se ndihet i përkushtuar afatgjatë ndaj programit. Pas fillimit të suksesshëm...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-24T19:36:23+00:00",
-      "dateStr": "24 Sep, 19:36",
-      "isNew": true,
-      "id": "24 31790278583"
-    },
-    {
-      "title": "Tranzicioni energjetik, 15 mijë vende të reja pune?",
-      "link": "https://24-ore.com/tranzicioni-energjetik-15-mije-vende-te-reja-pune/",
-      "description": "Nga Fatos Çoçoli Sipas Planit Kombëtar të Energjisë dhe Klimës, tranzicioni energjetik në Shqipëri parashikohet të krijojë deri në 15 mijë vende të reja pune deri në vitin 2030, duke u shndërruar në një nga motorët kryesorë të tregut të punësimit në vend. Ky tranzicion energjetik nuk është vetëm një",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-24T19:32:43+00:00",
-      "dateStr": "24 Sep, 19:32",
-      "isNew": true,
-      "id": "24 41790278363"
+      "id": "abc71790278712"
     },
     {
       "title": "Presidenti hungarez: OKB përballet me “krizë besimi”",
@@ -67,18 +221,7 @@
       "date": "2026-09-24T19:28:44+00:00",
       "dateStr": "24 Sep, 19:28",
       "isNew": true,
-      "id": "abc01790278124"
-    },
-    {
-      "title": "Rritet sërish kërkesa e rusëve për banesa në Serbi — qiratë në Beograd u rritën me 20–30% që nga korriku",
-      "link": "https://24-ore.com/rritet-serish-kerkesa-e-ruseve-per-banesa-ne-serbi-qirate-ne-beograd-u-rriten-me-20-30-qe-nga-korriku/",
-      "description": "Pas thashethemeve për një valë të re mobilizimi në Rusi, agjentët e pasurive të patundshme në Novi Sad e Beograd raportojnë radhë për shikimin e banesave dhe qira më të larta — kërkesa ka arritur nivelin më të lartë që nga fillimi i vitit 2024.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-24T19:26:46+00:00",
-      "dateStr": "24 Sep, 19:26",
-      "isNew": true,
-      "id": "24 51790278006"
+      "id": "abc81790278124"
     },
     {
       "title": "“Pritet përshkallëzimi i luftës hibride të Rusisë ndaj Europës”, Krisafi: CIA nuk paralajmëron kot!",
@@ -89,142 +232,10 @@
       "date": "2026-09-24T19:26:35+00:00",
       "dateStr": "24 Sep, 19:26",
       "isNew": true,
-      "id": "abc11790277995"
+      "id": "abc91790277995"
     },
     {
-      "title": "Për të nëntën natë, qytetarët protestojnë kundër aktgjykimit të Speciales",
-      "link": "https://24-ore.com/per-te-nenten-nate-qytetaret-protestojne-kunder-aktgjykimit-te-speciales/",
-      "description": "Qytetarë të shumtë janë mbledhur sërish të enjten mbrëma në sheshin “Skënderbeu” në Prishtinë, në protestën “Jo në emrin tim”, e cila po mbahet kundër aktgjykimit të Dhomave të Specializuara të Kosovës në Hagë ndaj ish-krerëve të Ushtrisë Çlirimtare të Kosovës. Protesta po zhvillohet për të nëntën n",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-24T19:25:42+00:00",
-      "dateStr": "24 Sep, 19:25",
-      "isNew": true,
-      "id": "24 61790277942"
-    },
-    {
-      "title": "Frekuentim shumë i dobët në ndeshjen Serbi–Greqi: vetëm rreth 5.000 tifozë në “Rajko Mitić”",
-      "link": "https://24-ore.com/frekuentim-shume-i-dobet-ne-ndeshjen-serbi-greqi-vetem-rreth-5-000-tifoze-ne-rajko-mitic/",
-      "description": "Kombëtarja serbe e futbollit priti Greqinë në ndeshjen e parë të Ligës së Kombeve, me formacion befasues të selektorit Veljko Paunović — por tribunat e stadiumit mbetën pothuajse bosh.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-24T19:25:30+00:00",
-      "dateStr": "24 Sep, 19:25",
-      "isNew": true,
-      "id": "24 71790277930"
-    },
-    {
-      "title": "Senati amerikan hedh poshtë me 50-49 votë rezolutën për kufizimin e kompetencave të Trump-it në luftën me Iranin",
-      "link": "https://24-ore.com/senati-amerikan-hedh-poshte-me-50-49-vote-rezoluten-per-kufizimin-e-kompetencave-te-trump-it-ne-luften-me-iranin/",
-      "description": "Republikanët hodhën poshtë përpjekjen e demokratëve për t'i ndalur Trump-it luftën pa autorizimin e Kongresit, pak javë para zgjedhjeve të mesmandatit — katër senatorë republikanë votuan me demokratët.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-24T19:23:53+00:00",
-      "dateStr": "24 Sep, 19:23",
-      "isNew": true,
-      "id": "24 81790277833"
-    },
-    {
-      "title": "Aksident me dy të plagosur në aksin Vlorë-Orikum, përplasen dy automjete në Jonufër",
-      "link": "https://24-ore.com/aksident-me-dy-te-plagosur-ne-aksin-vlore-orikum-perplasen-dy-automjete-ne-jonufer/",
-      "description": "Një aksident rrugor është regjistruar mbrëmjen e kësaj të enjteje në Jonufër të Vlorës. Sipas raportimeve, dy makina janë përplasur me njëra-tjetrën, një makinë e tipit “Volkswagen Golf”, që vinte nga Orikumi në drejtim të Vlorës, dhe një makinë e tipit “Benz”, që udhëtonte nga Vlora në drejtim të O",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-24T19:22:06+00:00",
-      "dateStr": "24 Sep, 19:22",
-      "isNew": true,
-      "id": "24 91790277726"
-    },
-    {
-      "title": "Minxhozi për drejtësinë speciale: Ka vënë në lëvizje një mekanizëm të pakthyeshëm, t’i dalë për zot!",
-      "link": "https://abcnews.al/minxhozi-per-drejtesine-speciale-ka-vene-ne-levizje-nje-mekanizem-te-pakthyeshem-ti-dale-per-zot/",
-      "description": "Analisti Skënder Minxhozi ka komentuar zhvillimet rreth hetimit të SPAK ndaj ish-drejtoreshës së SHISH. Sipas tij, nëse provohet se Vlora Hyseni ka pasur një raport të papërshtatshëm me Agasin, situata do të bëhej e vështirë edhe për shtetin. Minxhozi ngriti pikëpyetje edhe mbi përgjegjësinë e insti",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-24T19:17:17+00:00",
-      "dateStr": "24 Sep, 19:17",
-      "isNew": true,
-      "id": "abc21790277437"
-    },
-    {
-      "title": "Mbretëria e Bashkuar e shqetësuar: Zgjidhja me dy shtete për Palestinën po shkatërrohet nga realiteti në terren",
-      "link": "https://abcnews.al/mbreteria-e-bashkuar-e-shqetesuar-zgjidhja-me-dy-shtete-per-palestinen-po-shkaterrohet-nga-realiteti-ne-terren/",
-      "description": "Sekretari britanik i Jashtëm, Ed Miliband, ka paralajmëruar se realitetet në terren në të gjithë territorin e pushtuar palestinez po dëmtojnë perspektivat për një zgjidhje me dy shtete ndërmjet izraelitëve dhe palestinezëve. “E vërteta është se të gjithë mund të shprehim besimin tonë në zgjidhjen me",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-24T19:15:26+00:00",
-      "dateStr": "24 Sep, 19:15",
-      "isNew": true,
-      "id": "abc31790277326"
-    },
-    {
-      "title": "Çështja Hyseni/ “ SPAK ka treguar papjekuri”, Beqiri: Të niset hetim për shpërdorim detyre në rradhët e SPAK",
-      "link": "https://abcnews.al/ceshtja-hyseni-spak-ka-treguar-papjekuri-beqiri-te-niset-hetim-per-shperdorim-detyre-ne-rradhet-e-spak/",
-      "description": "Avokati Idajet Beqiri ka kritikuar SPAK për mënyrën e veprimit ndaj dosjes së Ergys Agasit dhe lidhjen me ish drejtoreshën e SHISH Vlora Hyseni, duke e cilësuar institucionin si “të papjekur”. Sipas avokatit, për këtë çështje duhet të nisë një hetim brenda SPAK, ndërsa përgjegjësit, sipas tij, duhet",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-24T19:08:11+00:00",
-      "dateStr": "24 Sep, 19:08",
-      "isNew": true,
-      "id": "abc41790276891"
-    },
-    {
-      "title": "“SPAK rrëzoi shtetin shqiptar”/ Avokati: U dha masa “arrest shtëpiak”, pa ditur ku është Vlora Hyseni",
-      "link": "https://abcnews.al/spak-rrezoi-shtetin-shqiptar-avokati-u-dha-masa-arrest-shtepiak-pa-ditur-ku-eshte-vlora-hyseni/",
-      "description": "Avokati Idajet Beqiri ka komentuar çështjen e Vlora Hysenit në emisionin “Real Story” në ABC News, duke ngritur akuza të forta ndaj SPAK për mënyrën se si është trajtuar çështja. Beqiri tha se, sipas tij, mënyra e veprimit të organit të akuzës ka dëmtuar rëndë funksionimin e shtetit dhe besimin te i",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-24T18:55:17+00:00",
-      "dateStr": "24 Sep, 18:55",
-      "isNew": true,
-      "id": "abc51790276117"
-    },
-    {
-      "title": "“Sa ministra të brendshëm kemi ndërruar?”/ Emërimet e Ramës, Minxhozi: Një pjesë të historisë, nuk e ka sukses! Ka hyrë me eksperimente…",
-      "link": "https://abcnews.al/sa-ministra-te-brendshem-kemi-nderruar-emerimet-e-rames-minxhozi-nje-pjese-te-historise-nuk-e-ka-sukses-ka-hyre-me-eksperimente/",
-      "description": "Analisti Skënder Minxhozi ka komentuar emërimin e Vlorë Hysenit në krye të SHISH, duke e cilësuar atë si “eksperimentin e tretë” të kryeministrit Edi Rama. Sipas Minxhozit, dy eksperiencat e mëparshme nuk kanë rezultuar histori suksesi, ndërsa ngriti pikëpyetje edhe mbi ndryshimet e shpeshta në drej",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-24T18:48:09+00:00",
-      "dateStr": "24 Sep, 18:48",
-      "isNew": true,
-      "id": "abc61790275689"
-    },
-    {
-      "title": "“Europa bëhet gati për luftë, ne nuk…”, Bejko i ashpër: Pse u veprua gabim me rastin e Vlora Hysenit",
-      "link": "https://abcnews.al/europa-behet-gati-per-lufte-ne-nuk-bejko-i-ashper-pse-u-veprua-gabim-me-rastin-e-vlora-hysenit/",
-      "description": "TIRANË- Analisti i njohur, Roland Bejko, i ftuar në “Real Story” komentoni çështjen e ish-kryetares së SHISH, Vlora Hyseni, e cila u la në masën arrest në shtëpi. Ai u shpreh se në Shqipëria ekziston një problem i madh në zbatimin e procedurave të rregullta dhe sjelljen me etikë. Sipas tij, në rasti",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-24T18:45:48+00:00",
-      "dateStr": "24 Sep, 18:45",
-      "isNew": true,
-      "id": "abc71790275548"
-    },
-    {
-      "title": "Zjarri në Borizanë, digjet sipërfaqja me pemtari",
-      "link": "https://abcnews.al/zjarri-ne-borizane-digjet-siperfaqja-me-pemtari/",
-      "description": "Një vatër zjarri është shfaqur mbrëmjen e sotme pranë fshatit Borizanë, në zonën e Krujës, duke përfshirë pemtari. Në vendngjarje ndodhen shërbimet zjarrfikëse të Krujës, të cilat po punojnë për izolimin dhe shuarjen e flakëve, me qëllim parandalimin e përhapjes së zjarrit. Ende nuk dihen shkaqet e ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-24T18:30:05+00:00",
-      "dateStr": "24 Sep, 18:30",
-      "isNew": true,
-      "id": "abc81790274605"
-    },
-    {
-      "title": "“Vetëm puntata e parë e telenovelës”/ Minxhozi për çështjen e Vlora Hysenit: Histori me të panjohura, të respektohet procedura",
-      "link": "https://abcnews.al/vetem-puntata-e-pare-e-telenoveles-minxhozi-per-ceshtjen-e-vlora-hysenit-histori-me-te-panjohura-te-respektohet-procedura/",
-      "description": "Analisti Skënder Minxhozi ka komentuar çështjen e Vlora Hysenit në emisionin “Real Story” në ABC News, duke e cilësuar situatën si një histori të mbushur me paqartësi dhe të panjohura. Sipas Minxhozit, hapësira mes një marrëdhënieje personale dhe akuzave për shkelje të rënda mbetet e paqartë, ndërsa",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-24T18:26:08+00:00",
-      "dateStr": "24 Sep, 18:26",
-      "isNew": true,
-      "id": "abc91790274368"
-    },
-    {
-      "title": "Kosove – Irlande, ja ku mund ta shihni ndeshjen live",
+      "title": "Kosove – Irlande, formacionet",
       "link": "https://www.lajme.al/kosove-irlande-ja-ku-mund-ta-shihni-ndeshjen-live-2/",
       "description": "Kosova pret Irlandën sonte në “Fadil Vokrri”, ky është formacioni i mundshëm i Dardanëve Kosova nis sonte rrugëtimin në edicionin e ri të Ligës së Kombeve, me përballjen ndaj Republikës së Irlandës. Ndeshja zhvillohet në stadiumin “Fadil Vokrri” në Prishtinë, duke filluar nga ora 20:45, në kuadër të",
       "source": "Lajme.al",
@@ -232,7 +243,7 @@
       "date": "2026-09-24T18:23:38+00:00",
       "dateStr": "24 Sep, 18:23",
       "isNew": true,
-      "id": "laj01790274218"
+      "id": "laj11790274218"
     },
     {
       "title": "Zbulohen 9 emra që pritet të hyjnë në BBVK, mes tyre edhe një surprizë e madhe!",
@@ -243,7 +254,7 @@
       "date": "2026-09-24T18:16:44+00:00",
       "dateStr": "24 Sep, 18:16",
       "isNew": true,
-      "id": "laj11790273804"
+      "id": "laj21790273804"
     },
     {
       "title": "Kosove – Irlande, ja ku mund ta shihni ndeshjen live",
@@ -254,7 +265,7 @@
       "date": "2026-09-24T18:14:18+00:00",
       "dateStr": "24 Sep, 18:14",
       "isNew": true,
-      "id": "laj21790273658"
+      "id": "laj31790273658"
     },
     {
       "title": "Pas tërheqjes së Bekim Sejdiut, del emri i ri për President të Kosovës",
@@ -265,7 +276,7 @@
       "date": "2026-09-24T17:19:35+00:00",
       "dateStr": "24 Sep, 17:19",
       "isNew": true,
-      "id": "laj31790270375"
+      "id": "laj41790270375"
     },
     {
       "title": "LAJMI FUNDIT – Tërmet 5.1 ballë",
@@ -276,7 +287,7 @@
       "date": "2026-09-24T17:05:21+00:00",
       "dateStr": "24 Sep, 17:05",
       "isNew": true,
-      "id": "laj41790269521"
+      "id": "laj51790269521"
     },
     {
       "title": "Çfarë do të ndodhte nëse SHBA ndalon eksportet e naftës? Ja skenari që mund të tronditë tregjet",
@@ -287,7 +298,7 @@
       "date": "2026-09-24T16:49:11+00:00",
       "dateStr": "24 Sep, 16:49",
       "isNew": true,
-      "id": "laj51790268551"
+      "id": "laj61790268551"
     },
     {
       "title": "Tensionet shpërthejnë te Reali, Mourinho i del kundër Pérezit – kjo është arsyeja",
@@ -298,7 +309,7 @@
       "date": "2026-09-24T16:36:13+00:00",
       "dateStr": "24 Sep, 16:36",
       "isNew": true,
-      "id": "laj61790267773"
+      "id": "laj71790267773"
     },
     {
       "title": "Bomba e Berishës: Zbulon 3 emrat e gazetareve që, bashkëpunonin me Vlora Hysenin",
@@ -309,7 +320,7 @@
       "date": "2026-09-24T16:13:28+00:00",
       "dateStr": "24 Sep, 16:13",
       "isNew": true,
-      "id": "laj71790266408"
+      "id": "laj81790266408"
     },
     {
       "title": "Operacioni “The Wanted” godet sërish: 4 emra në prangat e Interpolit, ja kush janë",
@@ -320,18 +331,7 @@
       "date": "2026-09-24T15:55:26+00:00",
       "dateStr": "24 Sep, 15:55",
       "isNew": true,
-      "id": "laj81790265326"
-    },
-    {
-      "title": "Pensionistët do të marrin më shumë para: Ja sa rriten pensionet",
-      "link": "https://www.lajme.al/pensionistet-do-te-marrin-me-shume-para-ja-sa-rriten-pensionet/",
-      "description": "Pensionet do të rriten me 3 për qind, ndërsa rritja këtë herë do të zbatohet në bazë të shumës së pensionit që merr secili pensionist dhe nuk do të jetë lineare. Drejtori i Fondit për Sigurim Pensional dhe Invalidor, Nikolla Memov, ka konfirmuar se rritja e pensioneve për muajin shtator do të jetë 3",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-24T14:38:19+00:00",
-      "dateStr": "24 Sep, 14:38",
-      "isNew": true,
-      "id": "laj91790260699"
+      "id": "laj91790265326"
     }
   ]
 }
