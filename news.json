@@ -1,150 +1,183 @@
 {
-  "lastUpdated": "2026-09-23T21:58:52.432531+00:00",
-  "totalSources": 3,
-  "totalNews": 30,
+  "lastUpdated": "2026-09-24T00:19:39.198805+00:00",
+  "totalSources": 2,
+  "totalNews": 20,
   "news": [
     {
-      "title": "The Met njofton ekspozitën e parë të madhe për Felix Gonzalez-Torres në Nju Jork pas më shumë se 30 vjetësh: “The Spaces Between” hapet në qershor",
-      "link": "https://24-ore.com/the-met-njofton-ekspoziten-e-pare-te-madhe-per-felix-gonzalez-torres-ne-nju-jork-pas-me-shume-se-30-vjetesh-the-spaces-between-hapet-ne-qershor/",
-      "description": "Mbi 40 vepra të artistit konceptual do të shpërndahen në 14 galeri të koleksionit të përhershëm të muzeut, në dialog me 5.000 vjet krijimtari njerëzore",
+      "title": "SHBA dhe Kina zgjasin armëpushimin tregtar deri më 10 janar, pas pritjes historike të Xi nga Trump",
+      "link": "https://24-ore.com/shba-dhe-kina-zgjasin-armepushimin-tregtar-deri-me-10-janar-pas-pritjes-historike-te-xi-nga-trump/",
+      "description": "Presidenti Donald Trump e priti personalisht presidentin kinez Xi Jinping në pistën e bazës ushtarake Joint Base Andrews të mërkurën në mbrëmje, në një gjest të rrallë diplomatik — i pari i këtij lloji që nga viti 1962, kur John F. Kennedy priti në aeroport kryeministrin britanik Harold Macmillan. T",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-23T21:58:18+00:00",
-      "dateStr": "23 Sep, 21:58",
+      "date": "2026-09-24T00:16:34+00:00",
+      "dateStr": "24 Sep, 00:16",
       "isNew": true,
-      "id": "24 01790200698"
+      "id": "24 01790208994"
     },
     {
-      "title": "Vuçiç në Asamblenë e Përgjithshme të OKB-së: “Sistemi ndërkombëtar siç e njihnim është shkatërruar”",
-      "link": "https://24-ore.com/vucic-ne-asamblene-e-pergjithshme-te-okb-se-sistemi-nderkombetar-sic-e-njihnim-eshte-shkaterruar/",
-      "description": "Presidenti serb Aleksandër Vuçiç iu drejtua sonte debatit të përgjithshëm të sesionit të 81-të të Asamblesë së Përgjithshme të OKB-së në Nju-Jork, ku foli për lindjen e një rendi të ri botëror dhe për trajtimin e padrejtë të Serbisë në dekadat e kaluara.",
+      "title": "Rrëzohet padia e Trump kundër gazetës së Iowa-s dhe sondazhiere Ann Selzer",
+      "link": "https://24-ore.com/rrezohet-padia-e-trump-kunder-gazetes-se-iowa-s-dhe-sondazhiere-ann-selzer/",
+      "description": "Gjyqtari i distriktit të Iowa-s, Scott Beattie, rrëzoi të mërkurën (23 shtator) padinë e presidentit Donald Trump kundër gazetës Des Moines Register dhe sondazhiere J. Ann Selzer, duke e mbështetur vendimin në mbrojtjet e Amendamentit të Parë të Kushtetutës amerikane. Padia, e ngritur në fund të vit",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-23T21:57:20+00:00",
-      "dateStr": "23 Sep, 21:57",
+      "date": "2026-09-24T00:13:48+00:00",
+      "dateStr": "24 Sep, 00:13",
       "isNew": true,
-      "id": "24 11790200640"
+      "id": "24 11790208828"
     },
     {
-      "title": "Inteligjenca artificiale – robotë vrasës apo superinteligjencë",
-      "link": "https://24-ore.com/inteligjenca-artificiale-robote-vrases-apo-superinteligjence/",
-      "description": "Presidenti i SHBA-së, Donald Trump, dhe sekretari i përgjithshëm i OKB-së, Antonio Guterres, paraqitën vizione të kundërta për mënyrën se si bota duhet ta menaxhojë inteligjencën artificiale, gjatë fjalimeve të tyre në Asamblenë e Përgjithshme të OKB-së të martën. Ndërsa Trump kundërshtoi përpjekjet",
+      "title": "«Dogstar»: drama e re e Daisy Hall-it debuton botërisht në Hampstead Theatre — u shpall kasti i plotë",
+      "link": "https://24-ore.com/dogstar-drama-e-re-e-daisy-hall-it-debuton-boterisht-ne-hampstead-theatre-u-shpall-kasti-i-plote/",
+      "description": "Alex Austin, Justin Edwards dhe Abdul Jalloh në komedinë e zezë të mbijetesës në bordin e një anijeje të bllokuar në akull; premiera botërore nga 30 tetori deri më 5 dhjetor në Londër",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-23T21:55:52+00:00",
-      "dateStr": "23 Sep, 21:55",
+      "date": "2026-09-24T00:05:11+00:00",
+      "dateStr": "24 Sep, 00:05",
       "isNew": true,
-      "id": "24 21790200552"
+      "id": "24 21790208311"
     },
     {
-      "title": "Beqiri: Besojmë 100 për qind se aktgjykimi nuk do të konfirmohet në Apel",
-      "link": "https://24-ore.com/beqiri-besojme-100-per-qind-se-aktgjykimi-nuk-do-te-konfirmohet-ne-apel/",
-      "description": "Avokati i Jakup Krasniqit, Mentor Beqiri, ka thënë se ekipi mbrojtës pret që procedura në Apel të përfundojë brenda 12 muajve, ndërsa shprehet i bindur se aktgjykimi i shkallës së parë nuk do të konfirmohet. Në Debat Plus, Beqiri tha se mbrojtja beson plotësisht në rrëzimin e aktgjykimit të shkallës",
+      "title": "Udhërrëfyesit e BE-së për vendet kandidate do të përfshihen në raportet vjetore — Komisioni gati të mbështesë afatin 2027 për Shqipërinë",
+      "link": "https://24-ore.com/udherrefyesit-e-be-se-per-vendet-kandidate-do-te-perfshihen-ne-raportet-vjetore-komisioni-gati-te-mbeshtese-afatin-2027-per-shqiperine/",
+      "description": "Komisioni Europian është gati të mbështesë zyrtarisht afatin 2027 për anëtarësimin e Shqipërisë — von der Leyen njoftoi “udhërrëfyes” të rinj për vendet kandidate që do të përfshihen në paketën e zgjerimit në fund të tetorit.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-23T21:55:37+00:00",
-      "dateStr": "23 Sep, 21:55",
+      "date": "2026-09-24T00:05:08+00:00",
+      "dateStr": "24 Sep, 00:05",
       "isNew": true,
-      "id": "24 31790200537"
+      "id": "24 31790208308"
     },
     {
-      "title": "Byrek me kungull — receta tradicionale shqiptare me petë të holla dhe kungull të ëmbël",
-      "link": "https://24-ore.com/byrek-me-kungull-receta-tradicionale-shqiptare-me-pete-te-holla-dhe-kungull-te-embel/",
-      "description": "Petë të arta e krokante, mbushje me kungull të ëmbël, kanellë dhe arra — byreku i vjeshtës që i mbledh të gjithë rreth sofres.",
+      "title": "Investimet në kantina, eksportet e pijeve dhe alkoolit rriten me 33.5% në 8-mujor",
+      "link": "https://24-ore.com/investimet-ne-kantina-eksportet-e-pijeve-dhe-alkoolit-rriten-me-33-5-ne-8-mujor/",
+      "description": "Eksportet e pijeve, alkoolit dhe uthullave po shënojnë një rritje të fortë gjatë këtij viti. Sipas të dhënave të tregtisë së jashtme, në periudhën janar-gusht 2026, eksportet e këtij grupi arritën në 3.02 miliardë lekë, me rritje mbi 33% me të njëjtën periudhë të një viti më parë. Në 8-mujorin 2026 ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-23T21:54:23+00:00",
-      "dateStr": "23 Sep, 21:54",
+      "date": "2026-09-24T00:02:26+00:00",
+      "dateStr": "24 Sep, 00:02",
       "isNew": true,
-      "id": "24 41790200463"
+      "id": "24 41790208146"
     },
     {
-      "title": "​Kurti kërkon përshpejtimin e procedurave për tunelin Prizren–Tetovë",
-      "link": "https://24-ore.com/kurti-kerkon-pershpejtimin-e-procedurave-per-tunelin-prizren-tetove/",
-      "description": "Kryeministri Albin Kurti ka kërkuar përshpejtimin e procedurave për tunelin Prizren–Tetovë. Këtë çështje e diskutoi me homologun e tij nga Maqedonia e Veriut, Hristijan Mickoski, në Nju Jork. Sipas Kurtit, tuneli ka rëndësi për qytetarët, zhvillimin e turizmit dhe ekonomitë e të dyja vendeve. Në tak",
+      "title": "Christie’s hap divizionin global të kulturës pop: ankande filmash, muzike dhe memorabiliesh pas shitjes rekord 105.3 milionë dollarëshe të koleksionit Jim Irsay",
+      "link": "https://24-ore.com/christies-hap-divizionin-global-te-kultures-pop-ankande-filmash-muzike-dhe-memorabiliesh-pas-shitjes-rekord-105-3-milione-dollareshe-te-koleksionit-jim-irsay/",
+      "description": "Shtëpia e ankandeve Christie's ka hapur divizionin e ri global të Kulturës Pop, pas shitjes rekord të koleksionit të Jim Irsay për 105.3 milionë dollarë. Divizioni do të mbajë ankande të shumta çdo vit për memorabilie filmi, televizioni, muzike, sporti dhe teknologjie.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-23T21:50:39+00:00",
-      "dateStr": "23 Sep, 21:50",
+      "date": "2026-09-23T23:58:41+00:00",
+      "dateStr": "23 Sep, 23:58",
       "isNew": true,
-      "id": "24 51790200239"
+      "id": "24 51790207921"
     },
     {
-      "title": "Konjufca nga Nju Jorku për 3-vjetorin e sulmit në Banjskë: Kriminelët vazhdojnë të jenë të lirë në Serbi",
-      "link": "https://24-ore.com/konjufca-nga-nju-jorku-per-3-vjetorin-e-sulmit-ne-banjske-kriminelet-vazhdojne-te-jene-te-lire-ne-serbi/",
-      "description": "Zëvendëskryeministri dhe ministri i Jashtëm Glauk Konjufca u referua nga Nju Jorku sulmit në Banjskë, teksa nesër shënohen tri vjet nga vrasja e rreshterit Afrim Bunjaku.",
+      "title": "Fava greke — pureja kremoze e bizeles së verdhë me qepë, limon dhe vaj ulliri",
+      "link": "https://24-ore.com/fava-greke-pureja-kremoze-e-bizeles-se-verdhe-me-qepe-limon-dhe-vaj-ulliri/",
+      "description": "Mezeja klasike e tavernave greke: pure e butë dhe kremoze bizelesh të verdha me qepë të karamelizuar, lëng limoni dhe vaj ulliri ekstra të virgjër — recetë vegane për 4 persona.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-23T21:48:20+00:00",
-      "dateStr": "23 Sep, 21:48",
+      "date": "2026-09-23T23:52:42+00:00",
+      "dateStr": "23 Sep, 23:52",
       "isNew": true,
-      "id": "24 61790200100"
+      "id": "24 61790207562"
     },
     {
-      "title": "Jean Smart bashkohet me kastin e sequel-it të “The Family Stone”, pak pas fitores historike të pestë të Emmy-t",
-      "link": "https://24-ore.com/jean-smart-bashkohet-me-kastin-e-sequel-it-te-the-family-stone-pak-pas-fitores-historike-te-peste-te-emmy-t/",
-      "description": "Jean Smart, fituese e pestë historike e Emmy-t për serialin \"Hacks\", është ylli i parë i ri i konfirmuar për sequel-in e filmit kult të Krishtlindjeve të vitit 2005, \"The Family Stone\".",
+      "title": "New York Yankees mposhtën Tampa Bay Rays 3-0 më 23 shtator 2026",
+      "link": "https://24-ore.com/new-york-yankees-mposhten-tampa-bay-rays-3-0-me-23-shtator-2026/",
+      "description": "New York Yankees mposhtën Tampa Bay Rays 3-0 në ndeshjen e zhvilluar më 23 shtator 2026. Pas këtij takimi, Yankees shënuan bilancon 90-67, ndërsa Tampa Bay...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-23T21:47:42+00:00",
-      "dateStr": "23 Sep, 21:47",
+      "date": "2026-09-23T23:51:31+00:00",
+      "dateStr": "23 Sep, 23:51",
       "isNew": true,
-      "id": "24 71790200062"
+      "id": "24 71790207491"
     },
     {
-      "title": "Kurti takohet me Mickoskin në Nju Jork: flasin për tunelin Prizren–Tetovë dhe energjinë",
-      "link": "https://24-ore.com/kurti-takohet-me-mickoskin-ne-nju-jork-flasin-per-tunelin-prizren-tetove-dhe-energjine/",
-      "description": "Kryeministri i Kosovës Albin Kurti është takuar në Nju Jork me kryeministrin e Maqedonisë së Veriut Hristijan Mickoski. U diskutua për tunelin Prizren–Tetovë dhe bashkëpunimin në energji.",
+      "title": "Delroy Lindo debuton si regjisor me ‘Jabari’s People’: kasti me Winston Duke, Marianne Jean-Baptiste dhe Wendell Pierce",
+      "link": "https://24-ore.com/delroy-lindo-debuton-si-regjisor-me-jabaris-people-kasti-me-winston-duke-marianne-jean-baptiste-dhe-wendell-pierce/",
+      "description": "Delroy Lindo, 73 vjeç dhe i nominuar për Oscar për \"Sinners\", debuton si regjisor me \"Jabari's People\", një dramë familjare të xhiruar në Xhamajkë.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-23T21:45:01+00:00",
-      "dateStr": "23 Sep, 21:45",
+      "date": "2026-09-23T23:51:11+00:00",
+      "dateStr": "23 Sep, 23:51",
       "isNew": true,
-      "id": "24 81790199901"
+      "id": "24 81790207471"
     },
     {
-      "title": "Derek Carr i përgjigjet fotos së editimit me uniformën e Giants pas dëmtimit të Jaxson Dart",
-      "link": "https://24-ore.com/derek-carr-i-pergjigjet-fotos-se-editimit-me-uniformen-e-giants-pas-demtimit-te-jaxson-dart/",
-      "description": "Derek Carr reagoi ndaj një fotografie të redaktuar që e paraqet me uniformën e New York Giants, ndërsa pas dëmtimit të të rinjit Jaxson Dart u shfaqën spek...",
+      "title": "Protesta ka fytyrën e Shqipërisë së nesërme",
+      "link": "https://24-ore.com/protesta-ka-fytyren-e-shqiperise-se-neserme/",
+      "description": "Në Shqipëri qeverisja kalon nga një skandal te tjetri me një shpejtësi të tillë, sa skandali i ri nuk arrin më të tronditë; thjesht zë vendin e të vjetrit. Rasti më i fundit prek një nga institucionet më të ndjeshme të shtetit. Drejtoresha e SHISH-it, Vlora Hyseni, është pezulluar nga detyra dhe nda",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-23T21:43:48+00:00",
-      "dateStr": "23 Sep, 21:43",
+      "date": "2026-09-23T23:42:35+00:00",
+      "dateStr": "23 Sep, 23:42",
       "isNew": true,
-      "id": "24 91790199828"
+      "id": "24 91790206955"
     },
     {
-      "title": "Alarm në hotelin e Netanyahut në SHBA/ Hetime nga Shërbimi Sekret pas sjelljes së dyshimtë të tre personave",
-      "link": "https://abcnews.al/alarm-ne-hotelin-e-netanyahut-ne-shba-hetime-nga-sherbimi-sekret-pas-sjelljes-se-dyshimte-te-tre-personave/",
-      "description": "Shërbimi Sekret në Shtetet e Bashkuara dhe Departamenti i Policisë së Nju Jorkut kanë nisur një hetim urgjent, pasi tre persona u panë duke dalë nga një pusetë në Park Avenue, vetëm pak hapa larg hotelit ku pritet të qëndrojë Kryeministri izraelit Benjamin Netanyahu në Nju Jork. Ngjarja vjen teksa N",
-      "source": "ABC News",
+      "title": "Çarçafët e bardhë në hotele nuk janë rastësi – Ky është sekreti pas kësaj zgjedhjeje",
+      "link": "https://www.lajme.al/carcafet-e-bardhe-ne-hotele-nuk-jane-rastesi-ky-eshte-sekreti-pas-kesaj-zgjedhjeje/",
+      "description": "**Pse çarçafët e hoteleve janë kryesisht të bardhë? Arsyeja nuk është vetëm estetike** Nëse keni qëndruar ndonjëherë në hotel, me siguri keni vënë re një detaj të zakonshëm: **çarçafët, këllëfët e jastëkëve dhe shpesh edhe mbulesat janë të bardha.** Kjo zgjedhje nuk është thjesht çështje stili. E ba",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-09-23T21:35:30+00:00",
-      "dateStr": "23 Sep, 21:35",
+      "date": "2026-09-23T23:29:34+00:00",
+      "dateStr": "23 Sep, 23:29",
       "isNew": true,
-      "id": "abc01790199330"
+      "id": "laj01790206174"
     },
     {
-      "title": "Në Prishtinë jehon thirrja: “Lironi çlirimtarët!”/ Mijëra qytetarë në mbështetje të UÇK-së në natën e tetë të protestës",
-      "link": "https://abcnews.al/ne-prishtine-jehon-thirrja-lironi-clirimtaret-mijera-qytetare-ne-mbeshtetje-te-uck-se-ne-naten-e-tete-te-protestes/",
-      "description": "Mijëra qytetarë u mblodhën në sheshin “Skënderbeu” në Prishtinë, në natën e tetë të protestës kundër vendimit të Gjykatës Speciale ndaj ish-krerëve të Ushtrisë Çlirimtare të Kosovës. Me thirrjen “Jo në emrin tim”, protesta ka bërë bashkë qytetarë të shumtë në qendër të kryeqytetit, ndërsa mes tyre n",
-      "source": "ABC News",
+      "title": "Butoni “sekret” në lavatriçe që shumica e njerëzve e anashkalojnë – mund t’ju ulë faturën e rrymës",
+      "link": "https://www.lajme.al/butoni-sekret-ne-lavatrice-qe-shumica-e-njerezve-e-anashkalojne-mund-tju-ule-faturen-e-rrymes/",
+      "description": "**Lavatriçja mund të punojë për disa orë dhe të konsumojë më pak energji se një program më i shkurtër. Ja pse** Një program larjeje që zgjat dy ose tre orë nuk do të thotë domosdoshmërisht se lavatriçja konsumon më shumë energji elektrike. Një pjesë e rëndësishme e energjisë së përdorur gjatë larjes",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-09-23T21:30:36+00:00",
-      "dateStr": "23 Sep, 21:30",
+      "date": "2026-09-23T23:23:58+00:00",
+      "dateStr": "23 Sep, 23:23",
       "isNew": true,
-      "id": "abc11790199036"
+      "id": "laj11790205838"
     },
     {
-      "title": "Tirana si urë mes një familjeje dhe rrënjëve/ Roberta Faccani në Tiranë për martesën arbëreshe: Jam dashuruar me këtë histori",
-      "link": "https://abcnews.al/tirana-si-ure-mes-nje-familjeje-dhe-rrenjeve-roberta-faccani-ne-tirane-per-martesen-arbereshe-jam-dashuruar-me-kete-histori/",
-      "description": "Familja Blandi, me origjinë nga San Benedetto Ullano në Kalabri, ka zgjedhur Tiranën për martesën e vajzës së vetme, Rossella-s, me Francesco Metallo-n. Artistja italiane Roberta Faccani ndodhet në Tiranë si e ftuar në martesën e Rossella Bladit dhe Francesco Metallo-s, një ceremoni që bashkon një f",
-      "source": "ABC News",
+      "title": "4 shenja të horoskopit do të “notojnë” në para deri në fund të muajit",
+      "link": "https://www.lajme.al/4-shenja-te-horoskopit-do-te-notojne-ne-para-deri-ne-fund-te-muajit/",
+      "description": "Katër shenja të horoskopit që, sipas astrologjisë, mund të kenë mundësi të reja financiare deri në fund të shtatorit Sipas interpretimeve astrologjike, pjesa e mbetur e shtatorit mund të sjellë mundësi të reja financiare për disa shenja të zodiakut. Parashikimet flasin për përmirësim të të ardhurave",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-09-23T21:22:49+00:00",
-      "dateStr": "23 Sep, 21:22",
+      "date": "2026-09-23T23:19:43+00:00",
+      "dateStr": "23 Sep, 23:19",
       "isNew": true,
-      "id": "abc21790198569"
+      "id": "laj21790205583"
+    },
+    {
+      "title": "Nga mëngjeset e ftohta te reshjet e shiut – ja çfarë na pret me motin",
+      "link": "https://www.lajme.al/3652145-2/",
+      "description": "E enjte, 24 shtator 2026: Rajoni do të ketë përgjithësisht mot të qëndrueshëm, por me mëngjese të freskëta dhe vranësira të pjesshme në disa zona. 🇦🇱 Shqipëria: Pritet mot kryesisht i kthjellët, me vranësira të pakta e kalimtare, më të dukshme në zonat malore dhe lindore. Temperaturat mbeten relativ",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-23T23:13:21+00:00",
+      "dateStr": "23 Sep, 23:13",
+      "isNew": true,
+      "id": "laj31790205201"
+    },
+    {
+      "title": "Ngjarje e rëndë në kryeqytet/ 49-vjeçari humb jetën pas plagosjes me th1kë",
+      "link": "https://www.lajme.al/565657874-2/",
+      "description": "🚨 Tiranë – Humb jetën 49-vjeçari i plagosur me thikë pranë Liqenit Artificial Një ngjarje e rëndë është regjistruar mbrëmjen e sotme në Tiranë, ku një 49-vjeçar ka humbur jetën pasi u plagos me mjet prerës. Sipas informacioneve të konfirmuara nga Policia e Tiranës, viktima Kreshnik Cara, pavarësisht",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-23T22:45:51+00:00",
+      "dateStr": "23 Sep, 22:45",
+      "isNew": true,
+      "id": "laj41790203551"
+    },
+    {
+      "title": "Lajm i rëndë nga Kryeqyteti: Ndërron jetë 13-vjeçari i plagosur në një përleshje",
+      "link": "https://www.lajme.al/5432643358-2/",
+      "description": "Lajm i rëndë nga Çairi: Ndërron jetë 13-vjeçari i plagosur në një përleshje Ka ndërruar jetë 13-vjeçari i cili ishte plagosur rëndë me thikë gjatë një përleshjeje në rrugën “Brigada Maqedono-Kosovare” në Çair. Ngjarja kishte ndodhur në fillim të muajit shtator. Sipas informacioneve, në përleshje kan",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-23T22:12:29+00:00",
+      "dateStr": "23 Sep, 22:12",
+      "isNew": true,
+      "id": "laj51790201549"
     },
     {
       "title": "EKSKLUZIVE: Del në publik emri i të propozuarit për President",
@@ -155,51 +188,7 @@
       "date": "2026-09-23T21:19:44+00:00",
       "dateStr": "23 Sep, 21:19",
       "isNew": true,
-      "id": "laj01790198384"
-    },
-    {
-      "title": "U godit me thikë pas sherrit në Tiranë, ndërron jetë në spital 49-vjeçari",
-      "link": "https://abcnews.al/u-godit-me-thike-pas-sherrit-ne-tirane-nderron-jete-ne-spital-49-vjecari/",
-      "description": "Një ngjarje e rëndë ka ndodhur në Tiranë, në rrugën “Marko Boçari”, ku një 49-vjeçar ka humbur jetën pasi u godit disa herë me thikë. Bëhet fjalë për Kreshnik Carën, i cili kishte mbërritur në spital në gjendje të rëndë shëndetësore, me plagë të shumta në pjesën e barkut. Pavarësisht ndërhyrjes mjek",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T21:10:16+00:00",
-      "dateStr": "23 Sep, 21:10",
-      "isNew": true,
-      "id": "abc31790197816"
-    },
-    {
-      "title": "“War Report” me Sali Doçi, (23/09/2026)",
-      "link": "https://abcnews.al/war-report-me-sali-doci-23-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T20:54:29+00:00",
-      "dateStr": "23 Sep, 20:54",
-      "isNew": true,
-      "id": "abc41790196869"
-    },
-    {
-      "title": "Një martesë në Shqipëri, një histori pesë shekullore/ Familja arbëreshe zgjedh Tiranën për dasmën",
-      "link": "https://abcnews.al/nje-martese-ne-shqiperi-nje-histori-pese-shekullore-familja-arbereshe-zgjedh-tiranen-per-dasmen/",
-      "description": "Në një periudhë kur zgjedhja e vendit ku zhvillohet një martesë shpesh përcaktohet nga arsye ekonomike, logjistike apo prestigji, ka edhe nga ata që vendosin të ndjekin një rrugë tjetër. I tillë është rasti i familjes së njohur italo-arbëreshe Blandi, nga San Benedetto Ullano në Kalabri, e cila, ndo",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T20:50:48+00:00",
-      "dateStr": "23 Sep, 20:50",
-      "isNew": true,
-      "id": "abc51790196648"
-    },
-    {
-      "title": "“SHBA-Kinë, takimi që mund të ndryshojë zhvillimet”/ Koloneli: Irani dhe lufta Rusi-Ukrainë në qendër të diskutimeve",
-      "link": "https://abcnews.al/shba-kine-takimi-qe-mund-te-ndryshoje-zhvillimet-koloneli-irani-dhe-lufta-rusi-ukraine-ne-qender-te-diskutimeve/",
-      "description": "Koloneli Sami Neziri, në një intervistë në emisionin “War Report” në ABC News, komentoi takimin e pritshëm mes SHBA-së dhe Kinës dhe temat kryesore që pritet të diskutohen. Neziri tha se takimet paraprake mes palëve kanë krijuar terrenin për këtë takim, ndërsa ndër çështjet kryesore pritet të jenë m",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T20:18:37+00:00",
-      "dateStr": "23 Sep, 20:18",
-      "isNew": true,
-      "id": "abc61790194717"
+      "id": "laj61790198384"
     },
     {
       "title": "Klubi i natës në Vjenë kërkon punonjës meshkuj: Drejtuesja thotë se ka interes nga klientet gra",
@@ -210,29 +199,7 @@
       "date": "2026-09-23T20:01:34+00:00",
       "dateStr": "23 Sep, 20:01",
       "isNew": true,
-      "id": "laj11790193694"
-    },
-    {
-      "title": "Pas pak “Të gjitha rrugë çojnë në Romë”, na ndiqni në ABC News",
-      "link": "https://abcnews.al/pas-pak-te-gjitha-rruge-cojne-ne-rome-na-ndiqni-ne-abc-news-3/",
-      "description": "Pas pak “Të gjitha rrugë çojnë në Romë”, na ndiqni në ABC News [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T20:00:30+00:00",
-      "dateStr": "23 Sep, 20:00",
-      "isNew": true,
-      "id": "abc71790193630"
-    },
-    {
-      "title": "“Presidentit Trump nuk i leverdis një luftë tregtare me Kinën”/ Mema: Europa ndodhet në një situatë të vështirë!",
-      "link": "https://abcnews.al/presidentit-trump-nuk-i-leverdis-nje-lufte-tregtare-me-kinen-mema-europa-ndodhet-ne-nje-situate-te-veshtire/",
-      "description": "Medlir Mema, profesor i marrëdhënieve ndërkombëtare në SHBA, në një intervistë për “War Report” në ABC News, komentoi zhvillimet gjeopolitike dhe raportet mes fuqive të mëdha. Mema tha se Europa përballet me një situatë të vështirë për shkak të konflikteve në Ukrainë dhe Lindjen e Mesme. “Europa gje",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T19:56:21+00:00",
-      "dateStr": "23 Sep, 19:56",
-      "isNew": true,
-      "id": "abc81790193381"
+      "id": "laj71790193694"
     },
     {
       "title": "Baba Vanga, horoskopi dhe 5 SHENJAT që do të përjetojnë një bum financiar në fund të vitit 2026",
@@ -243,7 +210,7 @@
       "date": "2026-09-23T19:55:28+00:00",
       "dateStr": "23 Sep, 19:55",
       "isNew": true,
-      "id": "laj21790193328"
+      "id": "laj81790193328"
     },
     {
       "title": "“Kurti një detyrë të klasës së 7-të S’KA DITË ME E ZGJIDHË, anglishten e flet të BAUSHTELLËS”",
@@ -254,84 +221,7 @@
       "date": "2026-09-23T19:47:38+00:00",
       "dateStr": "23 Sep, 19:47",
       "isNew": true,
-      "id": "laj31790192858"
-    },
-    {
-      "title": "Tiranë/ Pas sherri 49-vjeçari goditet me thikë. Ndalohet autori",
-      "link": "https://abcnews.al/tirane-pas-sherri-49-vjecari-goditet-me-thike-ndalohet-autori/",
-      "description": "Një ngjarje e rëndë ka ndodhur në Tiranë. Gazetarja Bleona Sari tha për ABC News, një person është goditur me thikë. Ngjarja ka ndodhur në rrugën “Marko Boçari” në kryeqytet. Gazetarja Xhoana Çallaku raportoi se i plagosuri Kreshnik Cara ka mbërritur në spitalin e Tiranës dhe se sipas burimeve spita",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-23T19:43:30+00:00",
-      "dateStr": "23 Sep, 19:43",
-      "isNew": true,
-      "id": "abc91790192610"
-    },
-    {
-      "title": "“Me u anku per Gjermanine s’bon kurre hiq, ai qe ankohet kerkush se nal atje me zor” – Paga mesatare qe e merr 700 euro ketu eshte si me e marr 3mije euro jashte.",
-      "link": "https://www.lajme.al/369852174-2/",
-      "description": "Një qytetar ka ndarë një mendim mbi jetën dhe punën në Gjermani, duke theksuar se, sipas tij, vështirësitë ekonomike në vendet e huaja duhen parë në raport me mundësitë që ofrojnë. Per te shikuar videon ndiqe linkun ne vijim &#8211; https://www.facebook.com/reel/2520119445148791 “Me u anku për Gjerm",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T19:38:12+00:00",
-      "dateStr": "23 Sep, 19:38",
-      "isNew": true,
-      "id": "laj41790192292"
-    },
-    {
-      "title": "Shqiptari më qiti në pritë te serbët” – rrëfim i dhimbshëm i vëllezërve Arifi për vuajtjet e së kaluarës",
-      "link": "https://www.lajme.al/32145697-2/",
-      "description": "Një rrëfim emocional i vëllezërve Arifi sjell në vëmendje përjetimet e tyre gjatë një periudhe të vështirë dhe të trazuar, duke treguar për frikën, ndarjen dhe vuajtjet që, sipas dëshmive të tyre, kanë përjetuar. Në rrëfimin e tyre përmendet edhe një episod ku njëri prej vëllezërve pretendon se isht",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T19:32:29+00:00",
-      "dateStr": "23 Sep, 19:32",
-      "isNew": true,
-      "id": "laj51790191949"
-    },
-    {
-      "title": "Tensione në publik: Aktivistja i del përpara deputetes së PS dhe përplasen ashpër, ja çfarë ndodhi",
-      "link": "https://www.lajme.al/321466585-2/",
-      "description": "**“Zegjine, Zegjine…” – Përplasje verbale mes aktivistes Arvina Lleshi dhe deputetes Zegjine Çaushi** Një përplasje verbale është shënuar sot jashtë ambienteve të Kuvendit, mes aktivistes Arvina Lleshi dhe deputetes së Partisë Socialiste, Zegjine Çaushi. Sipas videove të publikuara në rrjetet social",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T19:14:50+00:00",
-      "dateStr": "23 Sep, 19:14",
-      "isNew": true,
-      "id": "laj61790190890"
-    },
-    {
-      "title": "Shum e rënd: Futbollisti njohur 20-vjeçar humb jetën pas një aksidenti të rëndë",
-      "link": "https://www.lajme.al/321654785-2/",
-      "description": "### Tragjedi në Poloni: Futbollisti 20-vjeçar humb jetën pas një aksidenti të rëndë me një dre Një ngjarje tragjike ka tronditur komunitetin e futbollit në Poloni, ku futbollisti 20-vjeçar Oskar Kordus humbi jetën disa orë pas përfshirjes në një aksident të rëndë rrugor. Aksidenti ndodhi mëngjesin e",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T19:04:30+00:00",
-      "dateStr": "23 Sep, 19:04",
-      "isNew": true,
-      "id": "laj71790190270"
-    },
-    {
-      "title": "Ndërron jetë nxënësi nga Shkupi",
-      "link": "https://www.lajme.al/nderron-jete-nxenesi-nga-shkupi/",
-      "description": "Me dhimbje të thellë morëm lajmin për ndarjen e parakohshme nga jeta të nxënësit tonë të dashur Edonit. Në këto momente të rënda, në emër të shkollës, drejtorisë, stafit dhe të gjithë nxënësve, i shprehim ngushëllimet më të sinqerta familjes, të afërmve, mësuesve dhe shokëve të tij. 🤲 U prehtë në pa",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T18:33:21+00:00",
-      "dateStr": "23 Sep, 18:33",
-      "isNew": true,
-      "id": "laj81790188401"
-    },
-    {
-      "title": "Rozana Radi shijon ende ditët e verës – shfaqet në bikini duke marrë rreze dielli",
-      "link": "https://www.lajme.al/3212232322-2/",
-      "description": "☀️ Rozana Radi shijon ende ditët e verës – shfaqet në bikini duke marrë rreze dielli Këngëtarja dhe moderatorja shqiptare Rozana Radi ka ndarë me ndjekësit momente nga ditët e saj të pushimit, duke shijuar motin e ngrohtë dhe rrezet e diellit. Në fotografitë e publikuara në rrjetet sociale, Radi shf",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-23T18:03:59+00:00",
-      "dateStr": "23 Sep, 18:03",
-      "isNew": true,
-      "id": "laj91790186639"
+      "id": "laj91790192858"
     }
   ]
 }
