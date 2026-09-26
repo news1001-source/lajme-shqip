@@ -1,194 +1,304 @@
 {
-  "lastUpdated": "2026-09-26T14:51:03.652336+00:00",
+  "lastUpdated": "2026-09-26T18:14:40.240709+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Zjarr në një hotel në Gjirokastër, forcat zjarrfikëse në terren",
-      "link": "https://24-ore.com/zjarr-ne-nje-hotel-ne-gjirokaster-forcat-zjarrfikese-ne-terren/",
-      "description": "Zjarr në katin e parë të një hoteli në Gjirokastër. Drejtoria e MZSH-së Gjirokastër, u njoftua nga një qytetare për rënien e një zjarri në katin e parë të hotel “Garden”, në lagjen 18 Shtatori, Gjirokastër. Menjëherë në vendngjarje u nis grupi i ndërhyrjes. Me mbërritjen u konstatua zjarr në kuzhinë",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-26T14:46:43+00:00",
-      "dateStr": "26 Sep, 14:46",
-      "isNew": true,
-      "id": "24 01790434003"
-    },
-    {
-      "title": "TAJLANDË – Reshjet e dendura përmbytin Bangkokun",
-      "link": "https://24-ore.com/tajlande-reshjet-e-dendura-permbytin-bangkokun/",
-      "description": "STAMBOLL, 26 shtator/ATSH-AA/ – Të 50 rrethinat e kryeqytetit të Tajlandës, Bangkok, janë shpallur zona fatkeqësie për shkak të reshjeve të dendura dhe përmbytjeve. Moti ka shkaktuar vështirësi në qarkullim dhe ka ndikuar në jetën e përditshme, ndërsa Bangkoku lindor është ndër zonat më të prekura, ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-26T14:45:59+00:00",
-      "dateStr": "26 Sep, 14:45",
-      "isNew": true,
-      "id": "24 11790433959"
-    },
-    {
-      "title": "Qeveria miratoi një varg projektligjesh, në fokus drejtësia, energjia dhe ekonomia",
-      "link": "https://24-ore.com/qeveria-miratoi-nje-varg-projektligjesh-ne-fokus-drejtesia-energjia-dhe-ekonomia/",
-      "description": "Qeveria e Kosovës ka zhvilluar mbrëmë një mbledhje elektronike, në të cilën ka miratuar një numër projektligjesh dhe vendimesh në fusha të ndryshme, përfshirë drejtësinë, energjinë, ekonominë dhe administratën publike. Ndër projektligjet e miratuara është ai për Byronë Shtetërore për Verifikimin e K",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-26T14:45:49+00:00",
-      "dateStr": "26 Sep, 14:45",
-      "isNew": true,
-      "id": "24 21790433949"
-    },
-    {
-      "title": "Wendt i paraqet letrat kredenciale presidentit Begaj, ambasada e SHBA-së: Çojmë përpara objektivat e Donald Trump",
-      "link": "https://24-ore.com/wendt-i-paraqet-letrat-kredenciale-presidentit-begaj-ambasada-e-shba-se-cojme-perpara-objektivat-e-donald-trump/",
-      "description": "Ambasada e Shteteve të Bashkuara të Amerikës ka përshëndetur mbërritjen e ambasadorit të ri dhe paraqitjen e letrave kredenciale në Presidencë të ambasadorit amerikan Eric Wendt. Përmes një njoftimi në rrjetet sociale, ambasada e SHBA-së shkruan se ambasadori i ri “i paraqiti letrat kredenciale Pres",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-26T14:41:09+00:00",
-      "dateStr": "26 Sep, 14:41",
-      "isNew": true,
-      "id": "24 31790433669"
-    },
-    {
-      "title": "Këshilli i Sigurisë së Iranit mohon hakmarrjen ushtarake për kufizimet e hapësirës ajrore: “Kundërmasat do të jenë joushtarake”",
-      "link": "https://24-ore.com/keshilli-i-sigurise-se-iranit-mohon-hakmarrjen-ushtarake-per-kufizimet-e-hapesires-ajrore-kundermasat-do-te-jene-joushtarake/",
-      "description": "Sekretariati i Këshillit Kombëtar Suprem të Sigurisë thotë se negociatat për heqjen e \"kufizimeve të paligjshme të hapësirës ajrore\" po ndiqen seriozisht; mohon \"interpretimet e pasakta\" të deklaratave të Mohsen Rezaei-t, i cili të mërkurën kishte paralajmëruar hakmarrje ndaj vendeve fqinje që bashk",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-26T14:32:56+00:00",
-      "dateStr": "26 Sep, 14:32",
-      "isNew": true,
-      "id": "24 41790433176"
-    },
-    {
-      "title": "Profili i Indrit Dokles/ Nga dënimi i përjetshëm te lirimi, lufta me Martinajn dhe dosja “Revanshi”",
-      "link": "https://24-ore.com/profili-i-indrit-dokles-nga-denimi-i-perjetshem-te-lirimi-lufta-me-martinajn-dhe-dosja-revanshi/",
-      "description": "Ish-kreu i një prej fraksioneve të Bandës së Durrësit, kundërshtari i përbetuar i Lulzim Berishës, ishte dënuar me burgim të përjetshëm për krime të rënda, kryesisht vrasje të kundërshtarëve. Në 2020, ai u lirua me kusht nga Gjykata e Krujës. Më herët, gjyqtarja Enkelejda Hoxha, e cila më vonë edhe ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-26T14:31:00+00:00",
-      "dateStr": "26 Sep, 14:31",
-      "isNew": true,
-      "id": "24 51790433060"
-    },
-    {
-      "title": "15 mijë $ për çdo ushtar amerikan, oferta e pazakontë e Polonisë për SHBA-të",
-      "link": "https://abcnews.al/15-mije-per-cdo-ushtar-amerikan-oferta-e-pazakonte-e-polonise-per-shba-te/",
-      "description": "Polonia po ofron të paguajë 15 mijë dollarë në vit për çdo ushtar amerikan të stacionuar në territorin e saj, si dhe të mbulojë kostot e infrastrukturës, ndërsa Varshava dhe Washingtoni po negociojnë krijimin e një baze të përhershme ushtarake amerikane. Zëvendësministri polak i Mbrojtjes, Paweł Zal",
+      "title": "“Faqja 4” me Jeta Kasemi, (26/09/2026)",
+      "link": "https://abcnews.al/faqja-4-me-jeta-kasemi-26-09-2026/",
+      "description": "[...]Read More...",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-26T14:29:42+00:00",
-      "dateStr": "26 Sep, 14:29",
+      "date": "2026-09-26T18:12:48+00:00",
+      "dateStr": "26 Sep, 18:12",
       "isNew": true,
-      "id": "abc01790432982"
+      "id": "abc01790446368"
     },
     {
-      "title": "Khamenei nuk është parë në publik prej muajsh/ Presidenti iranian flet për gjendjen shëndetësore të liderit suprem",
-      "link": "https://abcnews.al/khamenei-nuk-eshte-pare-ne-publik-prej-muajsh-presidenti-iranian-flet-per-gjendjen-shendetesore-te-liderit-suprem/",
-      "description": "Presidenti i Iranit, Masoud Pezeshkian, ka deklaruar se lideri suprem Mojtaba Khamenei, djali i ish-liderit suprem iranian, Ayatollah Ali Khamenei, nuk ka probleme shëndetësore. Pezeshkian, i cili është mjek me profesion, tha se nuk ka asnjë shqetësim të veçantë shëndetësor për Mojtaba Khamenein dhe",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T14:18:53+00:00",
-      "dateStr": "26 Sep, 14:18",
-      "isNew": true,
-      "id": "abc11790432333"
-    },
-    {
-      "title": "Wendt në Tiranë, ambasada e SHBA pas takimit me Begajn: Diskutuan për çuarjen përpara të përparësive të Trump",
-      "link": "https://24-ore.com/wendt-ne-tirane-ambasada-e-shba-pas-takimit-me-begajn-diskutuan-per-cuarjen-perpara-te-perparesive-te-trump/",
-      "description": "Ambasada amerikane njoftoi përmes një publikimi në Facebook dorëzimin e letrave kredenciale nga ambasadori Eric Wendt te Presidenti Bajram Begaj, duke shënuar kështu nisjen e misionit të tij diplomatik në Shqipëri. “Mirë se vjen, Ambasador Wendt! Ambasadori i ri i Shteteve të Bashkuara në Shqipëri, ",
+      "title": "Dita e 119-të e protestës, qytetarët mblidhen para Kryeministrisë",
+      "link": "https://24-ore.com/dita-e-119-te-e-protestes-qytetaret-mblidhen-para-kryeministrise/",
+      "description": "Qytetarë dhe aktivistë kanë dalë këtë të shtunë në protestën e radhës e cila hyri në ditën e saj të 119-të. Si çdo pasdite, pas orës 18:30, protestuesit u mblodhën fillimisht në sheshin “Skënderbej” teksa bënë thirrjet si: “Ju erdhi fundi”, “Shqipëri e re” dhe “Rama jep dorëheqjen”. Pas grumbullimit",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T14:17:49+00:00",
-      "dateStr": "26 Sep, 14:17",
+      "date": "2026-09-26T18:11:50+00:00",
+      "dateStr": "26 Sep, 18:11",
       "isNew": true,
-      "id": "24 61790432269"
+      "id": "24 01790446310"
     },
     {
-      "title": "PARIS – 700 000 besimtarë në meshën e papa Leones XIV",
-      "link": "https://24-ore.com/paris-700-000-besimtare-ne-meshen-e-papa-leones-xiv/",
-      "description": "PARIS, 26 shtator /ATSH-AFP/ – Mesha e kremtuar nga papa Leone XIV në ”Place de la Concorde”, në Paris, nisi sot pak pas orës 15:00, përpara një turme të madhe besimtarësh të mbledhur përgjatë Champs-Élysées. Sipas Vatikanit, rreth 700 000 persona po marrin pjesë në meshë, e cila përbën momentin kul",
+      "title": "I dënuar për vrasjen e gruas, 49-vjeçari gjendet i pajetë në burgun e Reçit",
+      "link": "https://24-ore.com/i-denuar-per-vrasjen-e-gruas-49-vjecari-gjendet-i-pajete-ne-burgun-e-recit/",
+      "description": "Një 49-vjeçar që vuante dënimin në burgun e Reçit është gjetur i pajetë në ambientet e institucionit. Viktima është identifikuar si Agron Llapushi, i dënuar për vrasjen e bashkëshortes së tij në vitin 2015. Sipas të dhënave paraprake, Llapushi është gjetur i varur në ambientet e dusheve. Dyshohet se",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T14:16:11+00:00",
-      "dateStr": "26 Sep, 14:16",
+      "date": "2026-09-26T18:11:35+00:00",
+      "dateStr": "26 Sep, 18:11",
       "isNew": true,
-      "id": "24 71790432171"
+      "id": "24 11790446295"
     },
     {
-      "title": "Aksion antidrogë në Kumanovë: Katër persona në pranga, sekuestrohen pako me lëndë të bardhë",
-      "link": "https://24-ore.com/aksion-antidroge-ne-kumanove-kater-persona-ne-pranga-sekuestrohen-pako-me-lende-te-bardhe/",
-      "description": "Policia e Kumanovës ndaloi katër persona, mes tyre edhe një grua, në një aksion kundër tregtisë së paligjshme të drogës; në banesën e njërit prej tyre u gjetën pako me lëndë të bardhë në formë guri.",
+      "title": "Lavrov akuza të forta në OKB: Evropa po bllokon bisedimet e paqes me Ukrainën, Perëndimi po shkon drejt rrugës pa krye",
+      "link": "https://24-ore.com/lavrov-akuza-te-forta-ne-okb-evropa-po-bllokon-bisedimet-e-paqes-me-ukrainen-perendimi-po-shkon-drejt-rruges-pa-krye/",
+      "description": "Ministri i Jashtëm rus Sergey Lavrov akuzoi të shtunën vendet evropiane se po bëjnë “gjithçka që munden për të penguar” perspektivat e bisedimeve të paqes midis Rusisë dhe Ukrainës, gjatë një fjalimi në Asamblenë e Përgjithshme të OKB-së në Nju Jork. Lavrov akuzoi Perëndimin për “furnizim” të Ukrain",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T14:14:34+00:00",
-      "dateStr": "26 Sep, 14:14",
+      "date": "2026-09-26T18:11:19+00:00",
+      "dateStr": "26 Sep, 18:11",
       "isNew": true,
-      "id": "24 81790432074"
+      "id": "24 21790446279"
     },
     {
-      "title": "Filipçe nga Shën Nikolla: Kërkojmë pagë minimale 600 euro, pushteti t’i mbështesë punëtorët",
-      "link": "https://24-ore.com/filipce-nga-shen-nikolla-kerkojme-page-minimale-600-euro-pushteti-ti-mbeshtese-punetoret/",
-      "description": "Kreu i SDSM-së, Venko Filipçe, nga Shën Nikolla i bëri thirrje Qeverisë të mbështesë projektligjin për pagën minimale prej 600 eurosh dhe të ndihmojë punëtorët përballë rritjes së kostos së jetesës.",
+      "title": "News Hour me Fabiola Hoxha, (26/ 09/2026)",
+      "link": "https://abcnews.al/news-hour-me-fabiola-hoxha-26-09-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T18:09:58+00:00",
+      "dateStr": "26 Sep, 18:09",
+      "isNew": true,
+      "id": "abc11790446198"
+    },
+    {
+      "title": "Srdanoviç në Kragujevac: “Nuk do të kemi despotizëm, as shef të vendit — Kushtetuta duhet të vlejë për të gjithë”",
+      "link": "https://24-ore.com/srdanovic-ne-kragujevac-nuk-do-te-kemi-despotizem-as-shef-te-vendit-kushtetuta-duhet-te-vleje-per-te-gjithe/",
+      "description": "I pari në Listën Studentore \"Studentët fitojnë\" foli për N1-in pas mbërritjes së çiklistëve \"Rojtarët e Kushtetutës\" në Kragujevac, duke premtuar se Kushtetuta do të zbatohet për këdo, pa përjashtim.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T14:09:12+00:00",
-      "dateStr": "26 Sep, 14:09",
+      "date": "2026-09-26T18:09:39+00:00",
+      "dateStr": "26 Sep, 18:09",
       "isNew": true,
-      "id": "24 91790431752"
+      "id": "24 31790446179"
     },
     {
-      "title": "Eric Wendt mori zyrtarisht detyrën/ Ambasada e SHBA: Me Begajn u diskutua mbrojtja, ekonomia dhe lufta ndaj grupeve kriminale",
-      "link": "https://abcnews.al/eric-wendt-mori-zyrtarisht-detyren-ambasada-e-shba-me-begajn-u-diskutua-mbrojtja-ekonomia-dhe-lufta-ndaj-grupeve-kriminale/",
-      "description": "Ambasada e SHBA në Tiranë ka reaguar pasi Eric Wendt mori zyrtarisht detyrën, duke dorëzuar letrat kredenciale te Presidenti Bajram Begaj, në Pallatin e Brigadave. Përmes një postimi në rrjetet sociale, ambasada u shpreh se Ambasadori Wendt dhe Presidenti Begaj riafirmuan partneritetin e fortë mes S",
-      "source": "ABC News",
+      "title": "Tyson Bagent i Bears kthehet në stërvitje pas daljes nga protokolli i goditjes në kokë",
+      "link": "https://24-ore.com/tyson-bagent-i-bears-kthehet-ne-stervitje-pas-daljes-nga-protokolli-i-goditjes-ne-koke/",
+      "description": "Chicago Bears mund të kenë disa opsione për vendin e quarterback-ut për ndeshjen e së hënës ndaj Eagles: rezervisti Tyson Bagent u lejuan të stërvitet të s...",
+      "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T13:58:39+00:00",
-      "dateStr": "26 Sep, 13:58",
+      "date": "2026-09-26T18:06:43+00:00",
+      "dateStr": "26 Sep, 18:06",
       "isNew": true,
-      "id": "abc21790431119"
+      "id": "24 41790446003"
     },
     {
-      "title": "Sharja e trajnerit serb të Greqisë/ Ivan Jovanoviç lëshoi një ofendim të rëndë në Beograd",
-      "link": "https://abcnews.al/sharja-e-trajnerit-serb-te-greqise-ivan-jovanovic-leshoi-nje-ofendim-te-rende-ne-beograd/",
-      "description": "Natyrisht, që nuk e pati të lehtë. Në stadiumin “Rajko Mitiç” të Beogradit, luhet ndeshja fillestare e sezonit të ri të Ligës së Kombeve, Serbi-Greqi, dhe në stolin e miqve ishte I ulur pikërisht një trajner serb. Ivan Jovanoviç, siç e tha edhe vetë përpara dhe pas ndeshjes, u ndodh në një pozicion ",
-      "source": "ABC News",
+      "title": "Kostoviç në finalen e turneut WTA 125 në Ankara — renditja më e mirë në karrierë e garantuar",
+      "link": "https://24-ore.com/kostovic-ne-finalen-e-turneut-wta-125-ne-ankara-renditja-me-e-mire-ne-karriere-e-garantuar/",
+      "description": "Tenistja 19-vjeçare serbe mposhti ruses Polina Jatçenko 7:5, 7:5 në gjysmëfinale dhe nga e hëna do të ketë renditjen më të mirë në karrierë.",
+      "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T13:53:38+00:00",
-      "dateStr": "26 Sep, 13:53",
+      "date": "2026-09-26T18:04:58+00:00",
+      "dateStr": "26 Sep, 18:04",
       "isNew": true,
-      "id": "abc31790430818"
+      "id": "24 51790445898"
     },
     {
-      "title": "Brazili “mbytet” me kritika/ Mediat në vendin e madh amerikanojugor, jo të kënaqura",
-      "link": "https://abcnews.al/brazili-mbytet-me-kritika-mediat-ne-vendin-e-madh-amerikanojugor-jo-te-kenaqura/",
-      "description": "Identiteti vazhdon të jetë i humbur. Brazili, kombëtarja më e madhe e futbollit në botë, mbetet në krizë lojë e rezultatesh, dhe tifozët provuan dëshpërimin e radhës. Pak javë pas eliminimit të dhimbshëm, veçse të merituar në Kupën e Botës përballë Norvegjisë, ja ku erdhi dëshmia më e fundit që “Sel",
-      "source": "ABC News",
+      "title": "I shkrumbuar krejtësisht/ Pamje e autobusit me turistë që u përfshi nga flakët afër tunelit të Kërrabës",
+      "link": "https://24-ore.com/i-shkrumbuar-krejtesisht-pamje-e-autobusit-me-turiste-qe-u-perfshi-nga-flaket-afer-tunelit-te-kerrabes/",
+      "description": "Një ngjarje e rëndë dhe me rrezikshmëri të lartë është regjistruar mbrëmjen e sotme në aksin kryesor rrugor Tiranë-Elbasan, ku një autobus udhëtarësh është përfshirë nga flakët e fuqishme vetëm pak metra pa hyrë në Tunelin e Krrabës. Për shkak të përhapjes së shpejtë të zjarrit, mjeti është shkrumbu",
+      "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T13:50:25+00:00",
-      "dateStr": "26 Sep, 13:50",
+      "date": "2026-09-26T18:03:44+00:00",
+      "dateStr": "26 Sep, 18:03",
       "isNew": true,
-      "id": "abc41790430625"
+      "id": "24 61790445824"
     },
     {
-      "title": "Italia e re në bankën e “të akuzuarve”/ Trajneri Roberto Mançini e nis me humbje 2-0 me Belgjikën",
-      "link": "https://abcnews.al/italia-e-re-ne-banken-e-te-akuzuarve-trajneri-roberto-mancini-e-nis-me-humbje-2-0-me-belgjiken/",
-      "description": "“La Gazeta delo Sport nuk pati asnjë mëshirë. E përditshmja më e madhe sportive në Apenine nxorri përfundimin se kjo kombëtare e Italisë është më e shëmtuar, më e dobët dhe e keqe për t’u parë sesa në të kaluarën, edhe pse u eliminua në tri Botërorë radhazi. Prova e parë e trajnerit Roberto Mançini,",
-      "source": "ABC News",
+      "title": "Sarma me gjethe rrushi — qepalla tradicionale ballkanike me mish të grirë dhe oriz",
+      "link": "https://24-ore.com/sarma-me-gjethe-rrushi-qepalla-tradicionale-ballkanike-me-mish-te-grire-dhe-oriz/",
+      "description": "Gjethe rrushi të mbështjellura me mbushje të butë mishi të grirë dhe orizi, të ziera ngadalë në lëng me domate — pjata klasike e tryezave ballkanike që nuk mungon në asnjë festë familjare.",
+      "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T13:47:11+00:00",
-      "dateStr": "26 Sep, 13:47",
+      "date": "2026-09-26T17:58:18+00:00",
+      "dateStr": "26 Sep, 17:58",
       "isNew": true,
-      "id": "abc51790430431"
+      "id": "24 71790445498"
     },
     {
-      "title": "Prona e konfiskuar në shërbim të viktimave të dhunës, prezantohet Qendra e Emergjencës në Tiranë",
-      "link": "https://abcnews.al/prona-e-konfiskuar-ne-sherbim-te-viktimave-te-dhunes-prezantohet-qendra-e-emergjences-ne-tirane/",
-      "description": "Dy apartamente të konfiskuara janë kthyer në një hapësirë sociale në shërbim të grave dhe vajzave viktima të dhunës, si dhe fëmijëve të tyre, përmes ngritjes së Qendrës së Emergjencës të prezantuar sot në Tiranë. Qendra është realizuar nga Qendra Shqiptare për Impakt Social (SICA), me mbështetjen e ",
+      "title": "Trump refuzon të konfirmojë deklaratën e Zelenskit për licencën e prodhimit të raketave Patriot",
+      "link": "https://24-ore.com/trump-refuzon-te-konfirmoje-deklaraten-e-zelenskit-per-licencen-e-prodhimit-te-raketave-patriot/",
+      "description": "Presidenti amerikan Donald Trump refuzoi të shtunën të thotë nëse ka rënë dakord që Ukraina të prodhojë vetë raketa interceptore Patriot, vetëm një ditë pasi presidenti ukrainas Volodymyr Zelensky deklaroi se një vendim i tillë ishte marrë. Deklarata e Zelenskit ishte bërë të premten, pas takimit të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-26T17:53:33+00:00",
+      "dateStr": "26 Sep, 17:53",
+      "isNew": true,
+      "id": "24 81790445213"
+    },
+    {
+      "title": "Aksident trafiku në Shtërpcë, pesë persona lëndohen",
+      "link": "https://24-ore.com/aksident-trafiku-ne-shterpce-pese-persona-lendohen/",
+      "description": "Dy vetura janë përplasur sot në magjistralen Ferizaj–Shtërpcë, në fshatin Biti e Poshtme; pesë persona kanë pësuar lëndime trupore.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-26T17:53:14+00:00",
+      "dateStr": "26 Sep, 17:53",
+      "isNew": true,
+      "id": "24 91790445194"
+    },
+    {
+      "title": "Surpriza në mbrojtje dhe sulm, publikohet formacioni i Shqipërisë ndaj Bjellorusisë",
+      "link": "https://abcnews.al/surpriza-ne-mbrojtje-dhe-sulm-publikohet-formacioni-i-shqiperise-ndaj-bjellorusise/",
+      "description": "Kombëtarja shqiptare nis sonte një kapitull të ri në Ligën e Kombeve, me përballjen ndaj Bjellorusisë në stadiumin “Air Albania”. Kuqezinjtë vijnë në këtë sfidë pas pesë humbjeve radhazi, ndërsa ende nuk kanë gjetur golin nën drejtimin e trajnerit të ri, Rolando Maran. Italiani, i cili mori drejtimi",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-26T13:39:49+00:00",
-      "dateStr": "26 Sep, 13:39",
+      "date": "2026-09-26T17:43:08+00:00",
+      "dateStr": "26 Sep, 17:43",
       "isNew": true,
-      "id": "abc61790429989"
+      "id": "abc21790444588"
+    },
+    {
+      "title": "Erdogan thumbon Netanyahun: Kriminelët e luftës i përkasin gjykatave, jo OKB-së",
+      "link": "https://abcnews.al/erdogan-thumbon-netanyahun-kriminelet-e-luftes-i-perkasin-gjykatave-jo-okb-se/",
+      "description": "Presidenti i Turqisë, Recep Tayyip Erdogan, ka reaguar ashpër për fjalimet e mbajtura në Asamblenë e OKB-së, duke mos e cituar drejtpërdrejt kryeministrin izraelit, Benjamin Netanyahu, duke thënë se “kriminelët e luftës” i përkasin gjykatave dhe jo skenës së OKB-së. Ai shtoi gjithashtu se ata që kry",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T17:21:37+00:00",
+      "dateStr": "26 Sep, 17:21",
+      "isNew": true,
+      "id": "abc31790443297"
+    },
+    {
+      "title": "Mijëra njerëz protestojnë në Madrid kundër menaxhimit të krizës së migracionit në Ceuta",
+      "link": "https://abcnews.al/mijera-njerez-protestojne-ne-madrid-kunder-menaxhimit-te-krizes-se-migracionit-ne-ceuta/",
+      "description": "Mijëra persona kanë protestuar të shtunën në Madrid, duke shprehur pakënaqësi ndaj mënyrës se si qeveria spanjolle ka menaxhuar krizën e migracionit në Ceuta. Ata kërkuan dorëheqjen e kryeministrit Pedro Sanchez dhe mbajtjen e zgjedhjeve të reja. Protesta, e quajtur “Marshi II për Dinjitet: Në mbroj",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T16:59:13+00:00",
+      "dateStr": "26 Sep, 16:59",
+      "isNew": true,
+      "id": "abc41790441953"
+    },
+    {
+      "title": "Kalaja e Rozafës, prej thesareve më të vizituara të trashëgimisë historike",
+      "link": "https://abcnews.al/kalaja-e-rozafes-prej-thesareve-me-te-vizituara-te-trashegimise-historike/",
+      "description": "Kalaja e Rozafës në Shkodër vijon të tërheqë gjithnjë e më shumë vizitorë vendas e të huaj. Ndërsa e cilësoi si një prej thesareve më të vizituara të trashëgimisë historike, Kryeministri Edi Rama ndau sot në rrjetet sociale pamje nga Kalaja e Rozafës e mbushur me turistë. Kalaja e Rozafës ngrihet mb",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T16:37:46+00:00",
+      "dateStr": "26 Sep, 16:37",
+      "isNew": true,
+      "id": "abc51790440666"
+    },
+    {
+      "title": "LAJMI I FUNDIT: I digjet shtëpia gazetarit Vudi Xhymshiti, publikohen pamjet",
+      "link": "https://www.lajme.al/lajmi-i-fundit-i-digjet-shtepia-gazetarit-vudi-xhymshiti-publikohen-pamjet/",
+      "description": "NË 1999 E DOGJËN FORCAT E 🇷🇸 MILLOSHEVIQIT. SOT, SHTËPISË SË PRINDËRVE TË MI IU VU ZJARRI PËRSËRI. Kjo është shtëpia e prindërve të mi të ndjerë. Sot është e djegur përsëri. Në vitin 1999, këtë shtëpi e dogjën forcat serbe të regjimit të Millosheviqit, gjatë fushatës së dokumentuar të dëbimeve, vras",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T16:20:17+00:00",
+      "dateStr": "26 Sep, 16:20",
+      "isNew": true,
+      "id": "laj01790439617"
+    },
+    {
+      "title": "Trump i përgjigjet ofertës së Iranit për Hormuzin, çfarë vendosi?",
+      "link": "https://abcnews.al/trump-i-pergjigjet-ofertes-se-iranit-per-hormuzin-cfare-vendosi/",
+      "description": "Irani i ka propozuar Shteteve të Bashkuara një plan shtatëditor për t’i dhënë fund luftimeve, për të rihapur Ngushticën e Hormuzit dhe për të rifilluar negociatat për programin bërthamor. Sipas propozimit iranian, SHBA-ja duhet të heqë bllokadën detare ndaj porteve iraniane, të lehtësojë sanksionet ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T16:16:10+00:00",
+      "dateStr": "26 Sep, 16:16",
+      "isNew": true,
+      "id": "abc61790439370"
+    },
+    {
+      "title": "Këto janë 3 Elementet që po pengojnë shtatëzaninë tuaj!?",
+      "link": "https://www.lajme.al/keto-jane-3-elementet-qe-po-pengojne-shtatezanine-tuaj/",
+      "description": "**Këto janë 3 faktorë që mund të ndikojnë në vështirësinë për të mbetur shtatzënë** Vështirësitë për të arritur një shtatzëni mund të lidhen me faktorë të ndryshëm te gruaja ose te burri. Ndër më të rëndësishmit janë **problemet me ovulacionin, cilësia e spermës dhe mosha**. Edhe stresi, pesha trupo",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T16:15:33+00:00",
+      "dateStr": "26 Sep, 16:15",
+      "isNew": true,
+      "id": "laj11790439333"
+    },
+    {
+      "title": "Si të bëni djalë? Doktori zbulon FORMULËN?",
+      "link": "https://www.lajme.al/372649-2/",
+      "description": "**Si të bëni djalë? Doktori shpjegon çfarë thotë shkenca për seksin e bebit** PER TE SHIKUAR VIDEON NDIQE LINKUN NE VIJIM &#8211; https://www.facebook.com/reel/2297166271037399 A ekziston një mënyrë për të rritur shanset për të pasur djalë? Kjo është një pyetje që shqetëson shumë çifte që planifikoj",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T16:11:59+00:00",
+      "dateStr": "26 Sep, 16:11",
+      "isNew": true,
+      "id": "laj21790439119"
+    },
+    {
+      "title": "EKSKLUZIVE/ Plagosja misterioze e 20 vjeçarit në parkingun e Ferizajt, kamerat zbulojnë çfarë ndodhi",
+      "link": "https://www.lajme.al/ekskluzive-plagosja-misterioze-e-20-vjecarit-ne-parkingun-e-ferizajt-kamerat-zbulojne-cfare-ndodhi/",
+      "description": "**Kamerat hedhin dritë mbi plagosjen e 20-vjeçarit në parkingun e Ferizajt** **FERIZAJ** – Një 20-vjeçar ka mbetur i plagosur nga arma e zjarrit në orët e para të mëngjesit në një parking në rrugën “12 Qershori” në Ferizaj. Sipas informacioneve të raportuara nga Sinjali, rreth orës 03:40, Emergjenca",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T16:06:46+00:00",
+      "dateStr": "26 Sep, 16:06",
+      "isNew": true,
+      "id": "laj31790438806"
+    },
+    {
+      "title": "TRONDITËSE NË ELBASAN! Autobusi me turistë përfshihet nga flakët",
+      "link": "https://www.lajme.al/tronditese-ne-elbasan-autobusi-me-turiste-perfshihet-nga-flaket/",
+      "description": "**Autobusi me turistë përfshihet nga flakët në hyrje të tunelit të Elbasanit, bllokohet qarkullimi** **ELBASAN** – Një autobus që transportonte turistë është përfshirë nga flakët në hyrje të tunelit të Elbasanit, duke shkaktuar bllokimin e përkohshëm të qarkullimit në këtë aks rrugor. Pas shfaqjes s",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T16:01:11+00:00",
+      "dateStr": "26 Sep, 16:01",
+      "isNew": true,
+      "id": "laj41790438471"
+    },
+    {
+      "title": "Bangkoku shpallet zonë fatkeqësie, përmbytjet paralizojnë kryeqytetin e Tajlandës",
+      "link": "https://abcnews.al/bangkoku-shpallet-zone-e-prekur-nga-fatkeqesia-permbytjet-paralizojne-kryeqytetin-e-tajlandes/",
+      "description": "Guvernatori i Bangkokut shpalli të shtunën kryeqytetin e Tajlandës zonë të prekur nga fatkeqësia, pasi reshjet e dendura shkaktuan përmbytje të përhapura në të gjithë qytetin. Ndërkohë, agjencia meteorologjike parashikoi stuhi gjatë fundjavës. Rrugët kryesore u përmbytën, me automjete pjesërisht të ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T15:58:39+00:00",
+      "dateStr": "26 Sep, 15:58",
+      "isNew": true,
+      "id": "abc71790438319"
+    },
+    {
+      "title": "Sulm në Pakistan, të paktën 12 të vrarë dhe 30 të plagosur",
+      "link": "https://abcnews.al/sulm-ne-pakistan-te-pakten-12-te-vrare-dhe-30-te-plagosur/",
+      "description": "Të paktën 12 persona kanë humbur jetën dhe rreth 30 të tjerë janë plagosur pas një sulmi vetëvrasës të ndodhur në një pikë kontrolli policore në distriktin Dera Ismail Khan, në provincën Khyber Pakhtunkhëa të Pakistanit. Ngjarja u regjistrua të shtunën pranë Aman Melas, në zonën Darazinda. Sipas aut",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T15:36:24+00:00",
+      "dateStr": "26 Sep, 15:36",
+      "isNew": true,
+      "id": "abc81790436984"
+    },
+    {
+      "title": "LAJM BOMBASTIK! 100 euro në muaj për fëmijët në këtë qytet të Kosovës",
+      "link": "https://www.lajme.al/lajm-bombastik-100-euro-ne-muaj-per-femijet-ne-kete-qytet-te-kosoves/",
+      "description": "Obiliq: Propozohet mbështetje prej 100 eurosh në muaj për fëmijët me aftësi të kufizuara Fëmijët me aftësi të kufizuara në Komunën e Obiliqit mund të përfitojnë 100 euro në muaj, nëse propozimi për mbështetje financiare miratohet përfundimisht nga Kuvendi Komunal. Propozimi ka marrë mbështetjen e Ko",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T15:24:12+00:00",
+      "dateStr": "26 Sep, 15:24",
+      "isNew": true,
+      "id": "laj51790436252"
+    },
+    {
+      "title": "OKB zgjeron listën e zezë: 61 kompani të tjera akuzohen për lidhje me vendbanimet izraelite",
+      "link": "https://abcnews.al/okb-zgjeron-listen-e-zeze-61-kompani-te-tjera-akuzohen-per-lidhje-me-vendbanimet-izraelite/",
+      "description": "Zyra e OKB-së për të Drejtat e Njeriut ka shtuar edhe 61 kompani të tjera në një listë të zezë të bizneseve që, sipas saj, janë të përfshira në shkeljen e të drejtave të njeriut të palestinezëve, përmes lidhjeve të tyre tregtare me vendbanimet izraelite në Bregun Perëndimor të pushtuar. Pjesa dërrmu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T15:21:32+00:00",
+      "dateStr": "26 Sep, 15:21",
+      "isNew": true,
+      "id": "abc91790436092"
+    },
+    {
+      "title": "💰 LAJM I MADH PËR PRINDËRIT! Rriten shtesat për fëmijët",
+      "link": "https://www.lajme.al/%f0%9f%92%b0-lajm-i-madh-per-prinderit-rriten-shtesat-per-femijet/",
+      "description": "Kurti paralajmëron rritje të shtesave për fëmijë deri në 90 euro Kryeministri në detyrë Albin Kurti ka deklaruar se, në mandatin e ardhshëm, synon që shtesat për fëmijë të rriten gradualisht dhe, varësisht nga numri i fëmijëve në familje, të arrijnë deri në 90 euro. Sipas tij, shtesat do të synohet ",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T15:12:17+00:00",
+      "dateStr": "26 Sep, 15:12",
+      "isNew": true,
+      "id": "laj61790435537"
     },
     {
       "title": "“Kam kryer marrëdhënie intime me Ballukun”- Personazhi i njohur e pranon në Prokurori?",
@@ -199,40 +309,7 @@
       "date": "2026-09-26T13:32:27+00:00",
       "dateStr": "26 Sep, 13:32",
       "isNew": true,
-      "id": "laj01790429547"
-    },
-    {
-      "title": "Moti i keq përmbyt Bangkokun/ Autoritetet shpallin gjendje katastrofe në Tajlandë",
-      "link": "https://abcnews.al/moti-i-keq-permbyt-bangkokun-autoritetet-shpallin-gjendje-katastrofe-ne-tajlande/",
-      "description": "Bangkoku nën ujë. Autoritetet e kryeqytetit tajlandez kanë shpallur gjendjen e katastrofës në të 50 distriktet e qytetit, pas reshjeve të dendura që kanë shkaktuar përmbytje të mëdha dhe kanë paralizuar qarkullimin në disa zona. në kryeqytet kanë rënë rreth 300 milimetra shi, ndërsa reshjet kanë vij",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T13:30:56+00:00",
-      "dateStr": "26 Sep, 13:30",
-      "isNew": true,
-      "id": "abc71790429456"
-    },
-    {
-      "title": "OKB dënon rebelët Huthi/ Sulmi ndaj Arabise Saudite, kërkohet ndalimi i furnizimit me armë e financime",
-      "link": "https://abcnews.al/okb-denon-rebelet-huthi-sulmi-ndaj-arabise-saudite-kerkohet-ndalimi-i-furnizimit-me-arme-e-financime/",
-      "description": "Këshilli i Sigurimit i Kombeve të Bashkuara ka dënuar sulmet e vazhdueshme të rebelëve Houthi ndaj Arabisë Saudite, përfshirë goditjet ndaj infrastrukturës civile dhe energjetike, ku janë plagosur edhe gra e fëmijë. Në deklaratën e tij, Këshilli ka theksuar gjithashtu nevojën për mbrojtjen e anijeve",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T13:20:06+00:00",
-      "dateStr": "26 Sep, 13:20",
-      "isNew": true,
-      "id": "abc81790428806"
-    },
-    {
-      "title": "Aksident në aksin Gjirokasër-Kakavijë, makina përplas këmbësoren",
-      "link": "https://abcnews.al/aksident-ne-aksin-gjirokaser-kakavije-makina-perplas-kembesoren/",
-      "description": "Një 77-vjeçare është aksidentuar në aksin rrugor “Gjirokastër-Kakavijë”, teksa po lëvizte në rrugë. Sipas informacionit paraprak të Policisë, shtetasi A. M., 29 vjeç, banues në Gjirokastër, duke drejtuar një automjet tip “Toyota”, ka aksidentuar këmbësoren. E dëmtuara është transportuar në Spitalin ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T13:04:06+00:00",
-      "dateStr": "26 Sep, 13:04",
-      "isNew": true,
-      "id": "abc91790427846"
+      "id": "laj71790429547"
     },
     {
       "title": "BE REAGON PËR ARRESTIMIN E VLORA HYSENIT – Ja çfarë thuhet",
@@ -243,7 +320,7 @@
       "date": "2026-09-26T12:37:06+00:00",
       "dateStr": "26 Sep, 12:37",
       "isNew": true,
-      "id": "laj11790426226"
+      "id": "laj81790426226"
     },
     {
       "title": "“PENSION PËR FËMIJËT” NË GJERMANI? Ja si pritet të funksionojë skema e re",
@@ -254,84 +331,7 @@
       "date": "2026-09-26T12:31:03+00:00",
       "dateStr": "26 Sep, 12:31",
       "isNew": true,
-      "id": "laj21790425863"
-    },
-    {
-      "title": "Detaje nga operacioni “Muri i Lartë”: Bledar Çafi arrestohet nga SPAK, zbardhet e kaluara në Itali",
-      "link": "https://www.lajme.al/detaje-nga-operacioni-muri-i-larte-bledar-cafi-arrestohet-nga-spak-zbardhet-e-kaluara-ne-itali/",
-      "description": "**OPERACIONI “MURI I LARTË” NË SHKODËR: ARRESTOHET BLEDAR ÇAFI, DALIN DETAJE NGA E KALUARA E TIJ** SHKODËR — Një 50-vjeçar është arrestuar në orët e para të mëngjesit në Shkodër, në kuadër të operacionit të koduar **“Muri i Lartë”**, të zhvilluar nga Policia e Shtetit dhe Byroja Kombëtare e Hetimit,",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T12:24:57+00:00",
-      "dateStr": "26 Sep, 12:24",
-      "isNew": true,
-      "id": "laj31790425497"
-    },
-    {
-      "title": "LAJMI I RËNDË NGA ATHINA: Tre shqiptarë humbin jetën nën rrënoja, mes tyre moter e vëlla dalin emrat",
-      "link": "https://www.lajme.al/lajmi-i-rende-nga-athina-tre-shqiptare-humbin-jeten-nen-rrenoja-mes-tyre-moter-e-vella-dalin-emrat/",
-      "description": "**TRAGJEDI NË ATHINË: GJASHTË VIKTIMA PAS SHPËRTHIMIT TË NDËRTESËS, TRE PREJ TYRE ME ORIGJINË SHQIPTARE** Një tragjedi e rëndë ka ndodhur në lagjen **Plaka të Athinës**, ku një ndërtesë u shkatërrua tërësisht pas një shpërthimi të fuqishëm. Sipas verifikimeve të raportuara nga mediat greke dhe shqip",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T11:47:39+00:00",
-      "dateStr": "26 Sep, 11:47",
-      "isNew": true,
-      "id": "laj41790423259"
-    },
-    {
-      "title": "LAJM I RËNDËSISHËM PËR SHQIPTARËT NË ZVICËR: Këto ndryshime hyjnë në fuqi nga 1 tetori",
-      "link": "https://www.lajme.al/372614-2/",
-      "description": "# Nga 1 tetori hyjnë në fuqi ndryshime të reja në Zvicër – çfarë duhet të dinë mërgimtarët Nga **1 tetori 2026**, në Zvicër hyjnë në fuqi një sërë ndryshimesh dhe rregullash të reja në fusha të ndryshme, të cilat mund të jenë me interes edhe për komunitetin shqiptar që jeton dhe punon në këtë [&#823",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T11:32:36+00:00",
-      "dateStr": "26 Sep, 11:32",
-      "isNew": true,
-      "id": "laj51790422356"
-    },
-    {
-      "title": "Të shtëna te “Gizzi” në Prishtinë, këta janë dy personat e plagosur",
-      "link": "https://www.lajme.al/te-shtena-te-gizzi-ne-prishtine-keta-jane-dy-personat-e-plagosur/",
-      "description": "**TË SHTËNA ME ARMË NË MAGJISTRALEN PRISHTINË–FERIZAJ, TRE PERSONA TË LËNDUAR** Sot, rreth orës 05:00, Policia e Kosovës ka pranuar një informatë për të shtëna me armë zjarri në magjistralen **Prishtinë–Ferizaj**. Sipas burimeve të Indeksonline, dy prej personave të lënduar janë identifikuar si **Ri",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T10:30:06+00:00",
-      "dateStr": "26 Sep, 10:30",
-      "isNew": true,
-      "id": "laj61790418606"
-    },
-    {
-      "title": "“Dëgjoi zëra në varreza gjatë natës – ajo që thuhet se gjeti më pas i la të gjithë pa fjalë”.",
-      "link": "https://www.lajme.al/degjoi-zera-ne-varreza-gjate-nates-ajo-qe-thuhet-se-gjeti-me-pas-i-la-te-gjithe-pa-fjale/",
-      "description": "Zëra në varreza në mes të natës – historia që ka habitur shumë njerëz Një ngjarje e pazakontë është bërë objekt diskutimi pas një rrëfimi ku një burrë i moshuar, teksa po kalonte nëpër një varrezë gjatë mbrëmjes, pretendohet se ka dëgjuar zëra që vinin nga një pjesë e vjetër e saj. Sipas rrëfimit, b",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T00:02:07+00:00",
-      "dateStr": "26 Sep, 00:02",
-      "isNew": true,
-      "id": "laj71790380927"
-    },
-    {
-      "title": "Artan Hoxha nxjerr detaje: Ja ku janë zhvendosur bosët e krimit pas largimit nga Dubai?",
-      "link": "https://www.lajme.al/artan-hoxha-nxjerr-detaje-ja-ku-jane-zhvendosur-boset-e-krimit-pas-largimit-nga-dubai/",
-      "description": "### Artan Hoxha: Disa shqiptarë të shpallur në kërkim janë zhvendosur nga Dubai drejt Rusisë Gazetari investigativ Artan Hoxha ka dhënë detaje mbi vendet ku, sipas tij, janë zhvendosur disa shqiptarë të shpallur në kërkim ndërkombëtar. I ftuar në **Euronews Albania**, Hoxha tha se ndër destinacionet",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-25T23:32:48+00:00",
-      "dateStr": "25 Sep, 23:32",
-      "isNew": true,
-      "id": "laj81790379168"
-    },
-    {
-      "title": "Njerëzit me këtë grup gjaku jetojnë më gjatë: shumë rrallë pësojnë sulm në zemër ose goditje në tru – ja pse",
-      "link": "https://www.lajme.al/njerezit-me-kete-grup-gjaku-jetojne-me-gjate-shume-rralle-pesojne-sulm-ne-zemer-ose-goditje-ne-tru-ja-pse/",
-      "description": "**A KA LIDHJE MES GRUPIT TË GJAKUT DHE RREZIKUT PËR INFARKT E GODITJE NË TRU? JA ÇFARË THONË STUDIMET** Grupi i gjakut mund të lidhet me rrezikun për disa sëmundje të zemrës dhe enëve të gjakut, sipas disa studimeve shkencore. Në veçanti, njerëzit me **grupin e gjakut O** janë gjetur në disa studime",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-25T23:28:34+00:00",
-      "dateStr": "25 Sep, 23:28",
-      "isNew": true,
-      "id": "laj91790378914"
+      "id": "laj91790425863"
     }
   ]
 }
