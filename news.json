@@ -1,117 +1,293 @@
 {
-  "lastUpdated": "2026-09-26T10:42:51.237745+00:00",
+  "lastUpdated": "2026-09-26T14:51:03.652336+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Wendt dorëzon letrat kredenciale – Ambasadori i ri amerikan në Tiranë takon Presidentin Bajram Begaj",
-      "link": "https://24-ore.com/wendt-dorezon-letrat-kredenciale-ambasadori-i-ri-amerikan-ne-tirane-takon-presidentin-bajram-begaj/",
-      "description": "Ambasadori i ri i Shteteve të Bashkuara të Amerikës në Shqipëri, Eric Wendt, nis zyrtarisht këtë të shtunë misionin e tij diplomatik në vendin tonë. Brenda më pak se 24 orësh nga mbërritja në Tiranë, Wendt i dorëzoi letrat kredenciale Presidentit të Republikës, Bajram Begaj, ndërsa zhvilloi edhe një",
+      "title": "Zjarr në një hotel në Gjirokastër, forcat zjarrfikëse në terren",
+      "link": "https://24-ore.com/zjarr-ne-nje-hotel-ne-gjirokaster-forcat-zjarrfikese-ne-terren/",
+      "description": "Zjarr në katin e parë të një hoteli në Gjirokastër. Drejtoria e MZSH-së Gjirokastër, u njoftua nga një qytetare për rënien e një zjarri në katin e parë të hotel “Garden”, në lagjen 18 Shtatori, Gjirokastër. Menjëherë në vendngjarje u nis grupi i ndërhyrjes. Me mbërritjen u konstatua zjarr në kuzhinë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T10:42:42+00:00",
-      "dateStr": "26 Sep, 10:42",
+      "date": "2026-09-26T14:46:43+00:00",
+      "dateStr": "26 Sep, 14:46",
       "isNew": true,
-      "id": "24 01790419362"
+      "id": "24 01790434003"
     },
     {
-      "title": "Nënkryetarët e DNP-së takohen me nënsekretaren amerikane Sarah Rogers: komunikim të hapur me partnerët ndërkombëtarë",
-      "link": "https://24-ore.com/nenkryetaret-e-dnp-se-takohen-me-nensekretaren-amerikane-sarah-rogers-komunikim-te-hapur-me-partneret-nderkombetare/",
-      "description": "Nënkryetarët e Partisë Demokratike Popullore (DNP), Milun Zogoviq dhe Maja Vukiqeviq, u takuan me nënsekretaren amerikane për diplomaci publike, Sarah B. Rogers, gjatë një eventi kushtuar bashkëpunimit teknologjik dhe dixhital. Sipas njoftimit të DNP-së, partia do të vazhdojë të zhvillojë komunikimi",
+      "title": "TAJLANDË – Reshjet e dendura përmbytin Bangkokun",
+      "link": "https://24-ore.com/tajlande-reshjet-e-dendura-permbytin-bangkokun/",
+      "description": "STAMBOLL, 26 shtator/ATSH-AA/ – Të 50 rrethinat e kryeqytetit të Tajlandës, Bangkok, janë shpallur zona fatkeqësie për shkak të reshjeve të dendura dhe përmbytjeve. Moti ka shkaktuar vështirësi në qarkullim dhe ka ndikuar në jetën e përditshme, ndërsa Bangkoku lindor është ndër zonat më të prekura, ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T10:41:35+00:00",
-      "dateStr": "26 Sep, 10:41",
+      "date": "2026-09-26T14:45:59+00:00",
+      "dateStr": "26 Sep, 14:45",
       "isNew": true,
-      "id": "24 11790419295"
+      "id": "24 11790433959"
     },
     {
-      "title": "Kriza e Hormuzit ekspozon ekonominë e Irakut: eksporte të ndërprera, importe më të shtrenjta, monedhë më e dobët",
-      "link": "https://24-ore.com/kriza-e-hormuzit-ekspozon-ekonomine-e-irakut-eksporte-te-nderprera-importe-me-te-shtrenjta-monedhe-me-e-dobet/",
-      "description": "Kryeministri Ali al-Zaidi e përshkroi vendin si përballë \"sfidave ekonomike të jashtëzakonshme\", ndërsa lufta SHBA–Izrael kundër Iranit dhe kriza e Hormuzit kanë përmbysur ekuilibrin tregtar të Irakut.",
+      "title": "Qeveria miratoi një varg projektligjesh, në fokus drejtësia, energjia dhe ekonomia",
+      "link": "https://24-ore.com/qeveria-miratoi-nje-varg-projektligjesh-ne-fokus-drejtesia-energjia-dhe-ekonomia/",
+      "description": "Qeveria e Kosovës ka zhvilluar mbrëmë një mbledhje elektronike, në të cilën ka miratuar një numër projektligjesh dhe vendimesh në fusha të ndryshme, përfshirë drejtësinë, energjinë, ekonominë dhe administratën publike. Ndër projektligjet e miratuara është ai për Byronë Shtetërore për Verifikimin e K",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T10:40:01+00:00",
-      "dateStr": "26 Sep, 10:40",
+      "date": "2026-09-26T14:45:49+00:00",
+      "dateStr": "26 Sep, 14:45",
       "isNew": true,
-      "id": "24 21790419201"
+      "id": "24 21790433949"
     },
     {
-      "title": "UEFA e dënon Partizanin me 42.000 euro gjobë dhe mbyllje të pjesshme të stadiumit për sjelljen e tifozëve ndaj Getafes",
-      "link": "https://24-ore.com/uefa-e-denon-partizanin-me-42-000-euro-gjobe-dhe-mbyllje-te-pjesshme-te-stadiumit-per-sjelljen-e-tifozeve-ndaj-getafes/",
-      "description": "Disiplinori i UEFA-s aktivizoi pezullimin e kushtëzuar të 28 korrikut: 5.000 vende mbyllen në Humsk në ndeshjen e ardhshme evropiane; 30.000 euro për sjellje raciste dhe diskriminuese.",
+      "title": "Wendt i paraqet letrat kredenciale presidentit Begaj, ambasada e SHBA-së: Çojmë përpara objektivat e Donald Trump",
+      "link": "https://24-ore.com/wendt-i-paraqet-letrat-kredenciale-presidentit-begaj-ambasada-e-shba-se-cojme-perpara-objektivat-e-donald-trump/",
+      "description": "Ambasada e Shteteve të Bashkuara të Amerikës ka përshëndetur mbërritjen e ambasadorit të ri dhe paraqitjen e letrave kredenciale në Presidencë të ambasadorit amerikan Eric Wendt. Përmes një njoftimi në rrjetet sociale, ambasada e SHBA-së shkruan se ambasadori i ri “i paraqiti letrat kredenciale Pres",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T10:36:44+00:00",
-      "dateStr": "26 Sep, 10:36",
+      "date": "2026-09-26T14:41:09+00:00",
+      "dateStr": "26 Sep, 14:41",
       "isNew": true,
-      "id": "24 31790419004"
+      "id": "24 31790433669"
     },
     {
-      "title": "BE paralajmëron “krizë çmimesh” energjetike për shkak të ndërprerjeve nga lufta e Iranit",
-      "link": "https://24-ore.com/be-paralajmeron-krize-cmimesh-energjetike-per-shkak-te-nderprerjeve-nga-lufta-e-iranit/",
-      "description": "Komisioneri i Energjisë Dan Jørgensen tha se Evropa po përballet me një krizë çmimesh të lidhur me krizën e furnizimit, ndërsa vendet e BE-së përpiqen të mbushin magazinat e gazit të zbrazura gjatë dimrit.",
+      "title": "Këshilli i Sigurisë së Iranit mohon hakmarrjen ushtarake për kufizimet e hapësirës ajrore: “Kundërmasat do të jenë joushtarake”",
+      "link": "https://24-ore.com/keshilli-i-sigurise-se-iranit-mohon-hakmarrjen-ushtarake-per-kufizimet-e-hapesires-ajrore-kundermasat-do-te-jene-joushtarake/",
+      "description": "Sekretariati i Këshillit Kombëtar Suprem të Sigurisë thotë se negociatat për heqjen e \"kufizimeve të paligjshme të hapësirës ajrore\" po ndiqen seriozisht; mohon \"interpretimet e pasakta\" të deklaratave të Mohsen Rezaei-t, i cili të mërkurën kishte paralajmëruar hakmarrje ndaj vendeve fqinje që bashk",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T10:36:19+00:00",
-      "dateStr": "26 Sep, 10:36",
+      "date": "2026-09-26T14:32:56+00:00",
+      "dateStr": "26 Sep, 14:32",
       "isNew": true,
-      "id": "24 41790418979"
+      "id": "24 41790433176"
     },
     {
-      "title": "Mali i Zi përgatit Kornizën Kombëtare të Politikës për infrastrukturën e karburanteve alternative: energjetika dhe transporti planifikohen bashkë",
-      "link": "https://24-ore.com/mali-i-zi-pergatit-kornizen-kombetare-te-politikes-per-infrastrukturen-e-karburanteve-alternative-energjetika-dhe-transporti-planifikohen-bashke/",
-      "description": "Zhvillimi i infrastrukturës për karburantet alternative kërkon që sektorët e transportit dhe të energjetikës të planifikohen së bashku, jo secili më vete. Ky ishte mesazhi kryesor i punëtorisë së organizuar nga Ministria e Transportit dhe Ministria e Energjisë dhe Minierave e Malit të Zi, në kuadër ",
+      "title": "Profili i Indrit Dokles/ Nga dënimi i përjetshëm te lirimi, lufta me Martinajn dhe dosja “Revanshi”",
+      "link": "https://24-ore.com/profili-i-indrit-dokles-nga-denimi-i-perjetshem-te-lirimi-lufta-me-martinajn-dhe-dosja-revanshi/",
+      "description": "Ish-kreu i një prej fraksioneve të Bandës së Durrësit, kundërshtari i përbetuar i Lulzim Berishës, ishte dënuar me burgim të përjetshëm për krime të rënda, kryesisht vrasje të kundërshtarëve. Në 2020, ai u lirua me kusht nga Gjykata e Krujës. Më herët, gjyqtarja Enkelejda Hoxha, e cila më vonë edhe ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T10:33:45+00:00",
-      "dateStr": "26 Sep, 10:33",
+      "date": "2026-09-26T14:31:00+00:00",
+      "dateStr": "26 Sep, 14:31",
       "isNew": true,
-      "id": "24 51790418825"
+      "id": "24 51790433060"
     },
     {
-      "title": "Pse Moody’s rrit vlerësimin për ekonominë e Shqipërisë?",
-      "link": "https://24-ore.com/pse-moodys-rrit-vleresimin-per-ekonomine-e-shqiperise/",
-      "description": "Nga Fatos Çoçoli Më 19 shtator 2026, agjencia ndërkombëtare prestigjoze “Moody’s”, e vlerësimit të aftësive borxh-shlyese të mbarë ekonomive të planetit, përmes vlerësimit për ecurinë e tyre, e rriti vlerësimin për ekonominë tonë nga “e qëndrueshme” në “pozitive”. Ky është një sinjal i rëndësishëm p",
-      "source": "24 ORE",
+      "title": "15 mijë $ për çdo ushtar amerikan, oferta e pazakontë e Polonisë për SHBA-të",
+      "link": "https://abcnews.al/15-mije-per-cdo-ushtar-amerikan-oferta-e-pazakonte-e-polonise-per-shba-te/",
+      "description": "Polonia po ofron të paguajë 15 mijë dollarë në vit për çdo ushtar amerikan të stacionuar në territorin e saj, si dhe të mbulojë kostot e infrastrukturës, ndërsa Varshava dhe Washingtoni po negociojnë krijimin e një baze të përhershme ushtarake amerikane. Zëvendësministri polak i Mbrojtjes, Paweł Zal",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-26T10:33:14+00:00",
-      "dateStr": "26 Sep, 10:33",
+      "date": "2026-09-26T14:29:42+00:00",
+      "dateStr": "26 Sep, 14:29",
       "isNew": true,
-      "id": "24 61790418794"
+      "id": "abc01790432982"
     },
     {
-      "title": "Ushtria iraniane paralajmëron: bazat dhe interesat amerikane në rajon do të goditen nëse Uashingtoni “bën gabim”",
-      "link": "https://24-ore.com/ushtria-iraniane-paralajmeron-bazat-dhe-interesat-amerikane-ne-rajon-do-te-goditen-nese-uashingtoni-ben-gabim/",
-      "description": "Komanda Qendrore Khatam al-Anbiya, komanda më e lartë operative e Iranit, tha se rajoni ndodhet në një nga momentet më të ndjeshme të sigurisë, ndërsa Teherani vlerëson përgjigjen ndaj refuzimit amerikan të planit 7-ditor për rihapjen e Hormuzit.",
-      "source": "24 ORE",
+      "title": "Khamenei nuk është parë në publik prej muajsh/ Presidenti iranian flet për gjendjen shëndetësore të liderit suprem",
+      "link": "https://abcnews.al/khamenei-nuk-eshte-pare-ne-publik-prej-muajsh-presidenti-iranian-flet-per-gjendjen-shendetesore-te-liderit-suprem/",
+      "description": "Presidenti i Iranit, Masoud Pezeshkian, ka deklaruar se lideri suprem Mojtaba Khamenei, djali i ish-liderit suprem iranian, Ayatollah Ali Khamenei, nuk ka probleme shëndetësore. Pezeshkian, i cili është mjek me profesion, tha se nuk ka asnjë shqetësim të veçantë shëndetësor për Mojtaba Khamenein dhe",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-26T10:32:33+00:00",
-      "dateStr": "26 Sep, 10:32",
+      "date": "2026-09-26T14:18:53+00:00",
+      "dateStr": "26 Sep, 14:18",
       "isNew": true,
-      "id": "24 71790418753"
+      "id": "abc11790432333"
     },
     {
-      "title": "Festivali Ndërkombëtar i Kërcimit rikthehet në Tiranë më 3 tetor, për herë të parë edhe në Prishtinë",
-      "link": "https://24-ore.com/festivali-nderkombetar-i-kercimit-rikthehet-ne-tirane-me-3-tetor-per-here-te-pare-edhe-ne-prishtine/",
-      "description": "Festivali Ndërkombëtar i Kërcimit Tiranë (IDFT) rikthehet nga 3 deri më 21 tetor, duke sjellë në kryeqytet një program me shfaqje të kërcimit bashkëkohor dhe, për herë të parë, duke u shtrirë edhe në Prishtinë. Edicioni i pestë i festivalit do të zhvillohet në nëntë hapësira të ndryshme në Tiranë, d",
+      "title": "Wendt në Tiranë, ambasada e SHBA pas takimit me Begajn: Diskutuan për çuarjen përpara të përparësive të Trump",
+      "link": "https://24-ore.com/wendt-ne-tirane-ambasada-e-shba-pas-takimit-me-begajn-diskutuan-per-cuarjen-perpara-te-perparesive-te-trump/",
+      "description": "Ambasada amerikane njoftoi përmes një publikimi në Facebook dorëzimin e letrave kredenciale nga ambasadori Eric Wendt te Presidenti Bajram Begaj, duke shënuar kështu nisjen e misionit të tij diplomatik në Shqipëri. “Mirë se vjen, Ambasador Wendt! Ambasadori i ri i Shteteve të Bashkuara në Shqipëri, ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T10:31:40+00:00",
-      "dateStr": "26 Sep, 10:31",
+      "date": "2026-09-26T14:17:49+00:00",
+      "dateStr": "26 Sep, 14:17",
       "isNew": true,
-      "id": "24 81790418700"
+      "id": "24 61790432269"
     },
     {
-      "title": "FOKUS – Zuckerberg: Jo ngadalësimit të IA-së në të gjitha industritë",
-      "link": "https://24-ore.com/fokus-zuckerberg-jo-ngadalesimit-te-ia-se-ne-te-gjitha-industrite/",
-      "description": "NJU JORK, 26 shtator /ATSH – AA/ – Miliarderi Mark Zuckerberg, themeluesi dhe shefi ekzekutiv i gjigantit amerikan të mediave sociale Meta, ka kundërshtuar thirrjet që kompanitë e inteligjencës artificiale të ngadalësojnë në mënyrë kolektive zhvillimin e sistemeve gjithnjë e më të fuqishme. “Unë nuk",
+      "title": "PARIS – 700 000 besimtarë në meshën e papa Leones XIV",
+      "link": "https://24-ore.com/paris-700-000-besimtare-ne-meshen-e-papa-leones-xiv/",
+      "description": "PARIS, 26 shtator /ATSH-AFP/ – Mesha e kremtuar nga papa Leone XIV në ”Place de la Concorde”, në Paris, nisi sot pak pas orës 15:00, përpara një turme të madhe besimtarësh të mbledhur përgjatë Champs-Élysées. Sipas Vatikanit, rreth 700 000 persona po marrin pjesë në meshë, e cila përbën momentin kul",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-26T10:30:20+00:00",
-      "dateStr": "26 Sep, 10:30",
+      "date": "2026-09-26T14:16:11+00:00",
+      "dateStr": "26 Sep, 14:16",
       "isNew": true,
-      "id": "24 91790418620"
+      "id": "24 71790432171"
+    },
+    {
+      "title": "Aksion antidrogë në Kumanovë: Katër persona në pranga, sekuestrohen pako me lëndë të bardhë",
+      "link": "https://24-ore.com/aksion-antidroge-ne-kumanove-kater-persona-ne-pranga-sekuestrohen-pako-me-lende-te-bardhe/",
+      "description": "Policia e Kumanovës ndaloi katër persona, mes tyre edhe një grua, në një aksion kundër tregtisë së paligjshme të drogës; në banesën e njërit prej tyre u gjetën pako me lëndë të bardhë në formë guri.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-26T14:14:34+00:00",
+      "dateStr": "26 Sep, 14:14",
+      "isNew": true,
+      "id": "24 81790432074"
+    },
+    {
+      "title": "Filipçe nga Shën Nikolla: Kërkojmë pagë minimale 600 euro, pushteti t’i mbështesë punëtorët",
+      "link": "https://24-ore.com/filipce-nga-shen-nikolla-kerkojme-page-minimale-600-euro-pushteti-ti-mbeshtese-punetoret/",
+      "description": "Kreu i SDSM-së, Venko Filipçe, nga Shën Nikolla i bëri thirrje Qeverisë të mbështesë projektligjin për pagën minimale prej 600 eurosh dhe të ndihmojë punëtorët përballë rritjes së kostos së jetesës.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-26T14:09:12+00:00",
+      "dateStr": "26 Sep, 14:09",
+      "isNew": true,
+      "id": "24 91790431752"
+    },
+    {
+      "title": "Eric Wendt mori zyrtarisht detyrën/ Ambasada e SHBA: Me Begajn u diskutua mbrojtja, ekonomia dhe lufta ndaj grupeve kriminale",
+      "link": "https://abcnews.al/eric-wendt-mori-zyrtarisht-detyren-ambasada-e-shba-me-begajn-u-diskutua-mbrojtja-ekonomia-dhe-lufta-ndaj-grupeve-kriminale/",
+      "description": "Ambasada e SHBA në Tiranë ka reaguar pasi Eric Wendt mori zyrtarisht detyrën, duke dorëzuar letrat kredenciale te Presidenti Bajram Begaj, në Pallatin e Brigadave. Përmes një postimi në rrjetet sociale, ambasada u shpreh se Ambasadori Wendt dhe Presidenti Begaj riafirmuan partneritetin e fortë mes S",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T13:58:39+00:00",
+      "dateStr": "26 Sep, 13:58",
+      "isNew": true,
+      "id": "abc21790431119"
+    },
+    {
+      "title": "Sharja e trajnerit serb të Greqisë/ Ivan Jovanoviç lëshoi një ofendim të rëndë në Beograd",
+      "link": "https://abcnews.al/sharja-e-trajnerit-serb-te-greqise-ivan-jovanovic-leshoi-nje-ofendim-te-rende-ne-beograd/",
+      "description": "Natyrisht, që nuk e pati të lehtë. Në stadiumin “Rajko Mitiç” të Beogradit, luhet ndeshja fillestare e sezonit të ri të Ligës së Kombeve, Serbi-Greqi, dhe në stolin e miqve ishte I ulur pikërisht një trajner serb. Ivan Jovanoviç, siç e tha edhe vetë përpara dhe pas ndeshjes, u ndodh në një pozicion ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T13:53:38+00:00",
+      "dateStr": "26 Sep, 13:53",
+      "isNew": true,
+      "id": "abc31790430818"
+    },
+    {
+      "title": "Brazili “mbytet” me kritika/ Mediat në vendin e madh amerikanojugor, jo të kënaqura",
+      "link": "https://abcnews.al/brazili-mbytet-me-kritika-mediat-ne-vendin-e-madh-amerikanojugor-jo-te-kenaqura/",
+      "description": "Identiteti vazhdon të jetë i humbur. Brazili, kombëtarja më e madhe e futbollit në botë, mbetet në krizë lojë e rezultatesh, dhe tifozët provuan dëshpërimin e radhës. Pak javë pas eliminimit të dhimbshëm, veçse të merituar në Kupën e Botës përballë Norvegjisë, ja ku erdhi dëshmia më e fundit që “Sel",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T13:50:25+00:00",
+      "dateStr": "26 Sep, 13:50",
+      "isNew": true,
+      "id": "abc41790430625"
+    },
+    {
+      "title": "Italia e re në bankën e “të akuzuarve”/ Trajneri Roberto Mançini e nis me humbje 2-0 me Belgjikën",
+      "link": "https://abcnews.al/italia-e-re-ne-banken-e-te-akuzuarve-trajneri-roberto-mancini-e-nis-me-humbje-2-0-me-belgjiken/",
+      "description": "“La Gazeta delo Sport nuk pati asnjë mëshirë. E përditshmja më e madhe sportive në Apenine nxorri përfundimin se kjo kombëtare e Italisë është më e shëmtuar, më e dobët dhe e keqe për t’u parë sesa në të kaluarën, edhe pse u eliminua në tri Botërorë radhazi. Prova e parë e trajnerit Roberto Mançini,",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T13:47:11+00:00",
+      "dateStr": "26 Sep, 13:47",
+      "isNew": true,
+      "id": "abc51790430431"
+    },
+    {
+      "title": "Prona e konfiskuar në shërbim të viktimave të dhunës, prezantohet Qendra e Emergjencës në Tiranë",
+      "link": "https://abcnews.al/prona-e-konfiskuar-ne-sherbim-te-viktimave-te-dhunes-prezantohet-qendra-e-emergjences-ne-tirane/",
+      "description": "Dy apartamente të konfiskuara janë kthyer në një hapësirë sociale në shërbim të grave dhe vajzave viktima të dhunës, si dhe fëmijëve të tyre, përmes ngritjes së Qendrës së Emergjencës të prezantuar sot në Tiranë. Qendra është realizuar nga Qendra Shqiptare për Impakt Social (SICA), me mbështetjen e ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T13:39:49+00:00",
+      "dateStr": "26 Sep, 13:39",
+      "isNew": true,
+      "id": "abc61790429989"
+    },
+    {
+      "title": "“Kam kryer marrëdhënie intime me Ballukun”- Personazhi i njohur e pranon në Prokurori?",
+      "link": "https://www.lajme.al/kam-kryer-marredhenie-intime-me-ballukun-personazhi-i-njohur-e-pranon-ne-prokurori/",
+      "description": "Gazetari Elton Qyno ka bërë deklarata të forta për hetimet që lidhen me ish-zv.kryeministren Belinda Balluku dhe ish-futbollistin e Kombëtares, Igli Tare. Në podcastin “MaShqip me Flamur Vezaj”, Qyno pretendoi se Tare ka pranuar në prokurori një marrëdhënie jashtëmartesore me Ballukun, ndërsa ka dhë",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T13:32:27+00:00",
+      "dateStr": "26 Sep, 13:32",
+      "isNew": true,
+      "id": "laj01790429547"
+    },
+    {
+      "title": "Moti i keq përmbyt Bangkokun/ Autoritetet shpallin gjendje katastrofe në Tajlandë",
+      "link": "https://abcnews.al/moti-i-keq-permbyt-bangkokun-autoritetet-shpallin-gjendje-katastrofe-ne-tajlande/",
+      "description": "Bangkoku nën ujë. Autoritetet e kryeqytetit tajlandez kanë shpallur gjendjen e katastrofës në të 50 distriktet e qytetit, pas reshjeve të dendura që kanë shkaktuar përmbytje të mëdha dhe kanë paralizuar qarkullimin në disa zona. në kryeqytet kanë rënë rreth 300 milimetra shi, ndërsa reshjet kanë vij",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T13:30:56+00:00",
+      "dateStr": "26 Sep, 13:30",
+      "isNew": true,
+      "id": "abc71790429456"
+    },
+    {
+      "title": "OKB dënon rebelët Huthi/ Sulmi ndaj Arabise Saudite, kërkohet ndalimi i furnizimit me armë e financime",
+      "link": "https://abcnews.al/okb-denon-rebelet-huthi-sulmi-ndaj-arabise-saudite-kerkohet-ndalimi-i-furnizimit-me-arme-e-financime/",
+      "description": "Këshilli i Sigurimit i Kombeve të Bashkuara ka dënuar sulmet e vazhdueshme të rebelëve Houthi ndaj Arabisë Saudite, përfshirë goditjet ndaj infrastrukturës civile dhe energjetike, ku janë plagosur edhe gra e fëmijë. Në deklaratën e tij, Këshilli ka theksuar gjithashtu nevojën për mbrojtjen e anijeve",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T13:20:06+00:00",
+      "dateStr": "26 Sep, 13:20",
+      "isNew": true,
+      "id": "abc81790428806"
+    },
+    {
+      "title": "Aksident në aksin Gjirokasër-Kakavijë, makina përplas këmbësoren",
+      "link": "https://abcnews.al/aksident-ne-aksin-gjirokaser-kakavije-makina-perplas-kembesoren/",
+      "description": "Një 77-vjeçare është aksidentuar në aksin rrugor “Gjirokastër-Kakavijë”, teksa po lëvizte në rrugë. Sipas informacionit paraprak të Policisë, shtetasi A. M., 29 vjeç, banues në Gjirokastër, duke drejtuar një automjet tip “Toyota”, ka aksidentuar këmbësoren. E dëmtuara është transportuar në Spitalin ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-26T13:04:06+00:00",
+      "dateStr": "26 Sep, 13:04",
+      "isNew": true,
+      "id": "abc91790427846"
+    },
+    {
+      "title": "BE REAGON PËR ARRESTIMIN E VLORA HYSENIT – Ja çfarë thuhet",
+      "link": "https://www.lajme.al/be-reagon-per-arrestimin-e-vlora-hysenit-ja-cfare-thuhet/",
+      "description": "**BE reagon për çështjen e Vlora Hysenit: Besim te SPAK për hetimin e krimit të organizuar** Bashkimi Evropian nuk ka komentuar drejtpërdrejt dosjen ndaj ish-drejtueses së SHISH, Vlora Hysenit, apo masën e sigurisë **“arrest në shtëpi”** të vendosur ndaj saj. I pyetur për këtë çështje, zëdhënësi i K",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T12:37:06+00:00",
+      "dateStr": "26 Sep, 12:37",
+      "isNew": true,
+      "id": "laj11790426226"
+    },
+    {
+      "title": "“PENSION PËR FËMIJËT” NË GJERMANI? Ja si pritet të funksionojë skema e re",
+      "link": "https://www.lajme.al/pension-per-femijet-ne-gjermani-ja-si-pritet-te-funksionoje-skema-e-re/",
+      "description": "🇩🇪 **Gjermania planifikon “pensionin e hershëm” për fëmijët – shteti do të paguajë 10 euro në muaj** Gjermania po përgatitet të prezantojë një skemë të re të quajtur **“Frühstartrente”**, përmes së cilës shteti planifikon të kontribuojë me **10 euro në muaj për çdo fëmijë nga mosha 6 deri në 18 vjeç",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T12:31:03+00:00",
+      "dateStr": "26 Sep, 12:31",
+      "isNew": true,
+      "id": "laj21790425863"
+    },
+    {
+      "title": "Detaje nga operacioni “Muri i Lartë”: Bledar Çafi arrestohet nga SPAK, zbardhet e kaluara në Itali",
+      "link": "https://www.lajme.al/detaje-nga-operacioni-muri-i-larte-bledar-cafi-arrestohet-nga-spak-zbardhet-e-kaluara-ne-itali/",
+      "description": "**OPERACIONI “MURI I LARTË” NË SHKODËR: ARRESTOHET BLEDAR ÇAFI, DALIN DETAJE NGA E KALUARA E TIJ** SHKODËR — Një 50-vjeçar është arrestuar në orët e para të mëngjesit në Shkodër, në kuadër të operacionit të koduar **“Muri i Lartë”**, të zhvilluar nga Policia e Shtetit dhe Byroja Kombëtare e Hetimit,",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T12:24:57+00:00",
+      "dateStr": "26 Sep, 12:24",
+      "isNew": true,
+      "id": "laj31790425497"
+    },
+    {
+      "title": "LAJMI I RËNDË NGA ATHINA: Tre shqiptarë humbin jetën nën rrënoja, mes tyre moter e vëlla dalin emrat",
+      "link": "https://www.lajme.al/lajmi-i-rende-nga-athina-tre-shqiptare-humbin-jeten-nen-rrenoja-mes-tyre-moter-e-vella-dalin-emrat/",
+      "description": "**TRAGJEDI NË ATHINË: GJASHTË VIKTIMA PAS SHPËRTHIMIT TË NDËRTESËS, TRE PREJ TYRE ME ORIGJINË SHQIPTARE** Një tragjedi e rëndë ka ndodhur në lagjen **Plaka të Athinës**, ku një ndërtesë u shkatërrua tërësisht pas një shpërthimi të fuqishëm. Sipas verifikimeve të raportuara nga mediat greke dhe shqip",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T11:47:39+00:00",
+      "dateStr": "26 Sep, 11:47",
+      "isNew": true,
+      "id": "laj41790423259"
+    },
+    {
+      "title": "LAJM I RËNDËSISHËM PËR SHQIPTARËT NË ZVICËR: Këto ndryshime hyjnë në fuqi nga 1 tetori",
+      "link": "https://www.lajme.al/372614-2/",
+      "description": "# Nga 1 tetori hyjnë në fuqi ndryshime të reja në Zvicër – çfarë duhet të dinë mërgimtarët Nga **1 tetori 2026**, në Zvicër hyjnë në fuqi një sërë ndryshimesh dhe rregullash të reja në fusha të ndryshme, të cilat mund të jenë me interes edhe për komunitetin shqiptar që jeton dhe punon në këtë [&#823",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T11:32:36+00:00",
+      "dateStr": "26 Sep, 11:32",
+      "isNew": true,
+      "id": "laj51790422356"
     },
     {
       "title": "Të shtëna te “Gizzi” në Prishtinë, këta janë dy personat e plagosur",
@@ -122,117 +298,7 @@
       "date": "2026-09-26T10:30:06+00:00",
       "dateStr": "26 Sep, 10:30",
       "isNew": true,
-      "id": "laj01790418606"
-    },
-    {
-      "title": "Ambasadori i SHBA merr detyrën/ Eric Wendt i dorëzon letrat kredenciale Begajt, largohet nga Pallati i Brigadave",
-      "link": "https://abcnews.al/ambasadori-i-shba-merr-detyren-eric-wendt-ne-pallatin-e-brigadave-pritet-nga-kreu-i-shtetit/",
-      "description": "Eric Wendt i ka dorëzuar letrat kredenciale Presidentit Bajram Begaj, për të nisur zyrtarisht detyrën si ambasador i Shteteve të Bashkuara të Amerikës në Tiranë. Wendt është pritur nga Presidenti Begaj në një takim. Në përditësim&#8230; [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T10:22:09+00:00",
-      "dateStr": "26 Sep, 10:22",
-      "isNew": true,
-      "id": "abc01790418129"
-    },
-    {
-      "title": "Pezeshkian: Irani qëndron i vendosur kundër SHBA dhe Izraelit",
-      "link": "https://abcnews.al/pezeshkian-irani-qendron-i-vendosur-kunder-shba-dhe-izraelit/",
-      "description": "Presidenti i Iranit, Masoud Pezeshkian ka deklaruar se SHBA-të dhe Izraeli po kërkojnë të parandalojnë Iranin të mbështetet vetëm te vetja. Ai theksoi se Irani do të investojë te populli i tij. “Menduan se mund ta shënjestronin popullin iranian me sanksione, i llogaritën gabim”, tha ai për Al Jazeer",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T10:15:42+00:00",
-      "dateStr": "26 Sep, 10:15",
-      "isNew": true,
-      "id": "abc11790417742"
-    },
-    {
-      "title": "Senatorët republikanë dhe demokratë i drejtohen Trump: Mos e fto Putin në Miami",
-      "link": "https://abcnews.al/senatoret-republikane-dhe-demokrate-i-drejtohen-trump-mos-e-fto-putin-ne-miami/",
-      "description": "Një grup prej 14 senatorësh amerikanë, nga radhët e të dyja partive kryesore, i kanë kërkuar presidentit Donald Trump të tërheqë ftesën për presidentin rus, Vladimir Putin në samitin e G20-s që do të mbahet në Miami. Në një letër drejtuar Trumpit, senatorët argumentojnë se pjesëmarrja e Putinit në s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T09:45:07+00:00",
-      "dateStr": "26 Sep, 09:45",
-      "isNew": true,
-      "id": "abc21790415907"
-    },
-    {
-      "title": "U arrestua nga SPAK/ Kush është Bledar Çafi, “i forti” i Shkodrës",
-      "link": "https://abcnews.al/u-arrestua-nga-spak-kush-eshte-bledar-cafi-i-forti-i-shkodres/",
-      "description": "Bledar Çafi, 50 vjeç, i njohur si &#8220;i forti&#8221; i Shkodrës&#8221; është arrestuar gjatë operacionit të koduar “Muri i Lartë”, të zhvilluar nga Policia e Shtetit, BKH-ja dhe strukturat e tjera operacionale, nën drejtimin e SPAK. Çafi u kap në banesën e tij në orët e para të mëngjesit, ndërsa ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T09:11:18+00:00",
-      "dateStr": "26 Sep, 09:11",
-      "isNew": true,
-      "id": "abc31790413878"
-    },
-    {
-      "title": "Goditje ndaj grupit të Rrajave/ SPAK aksion me BKH, pamje nga arrestimi i Bledar Çafit në Shkodër",
-      "link": "https://abcnews.al/goditje-ndaj-grupit-te-rrajave-spak-aksion-me-bkh-pamje-nga-arrestimi-i-bledar-cafit-ne-shkoder/",
-      "description": "Pamjet që shihni janë momentet e aksionit të SPAK dhe BKH në Shkodër, ku u arrestua në banesë 50-vjeçari Bledar Çafi, pjesë e grupit të Rrajave. Çafi akuzohet për për veprat penale “Trafikim i lëndëve narkotike”, kryer në bashkëpunim, në formë të grupit të strukturuar kriminal, si dhe “Grup i strukt",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T08:56:23+00:00",
-      "dateStr": "26 Sep, 08:56",
-      "isNew": true,
-      "id": "abc41790412983"
-    },
-    {
-      "title": "SPAK, operacion në Shkodër dhe Tiranë kundër grupit të Rrajave/ Arrestohet Bledar Çafi, në kërkim Indrit Dokle",
-      "link": "https://abcnews.al/spak-operacion-ne-shkoder-dhe-tirane-kunder-grupit-te-rrajave-arrestohet-bledar-cafi-ne-kerkim-indrit-dokle/",
-      "description": "Prokuroria e Posaçme në bashkëpunim me Byronë Kombëtare të Heimit ka nisur një operacion të koduar &#8220;Muri i Lartë&#8221; në Shkodër dhe Tiranë, në kuadër të një hetimi të zhvilluar prej kohësh për një grup të strukturuar kriminal. Deri më tani, mësohet se janë caktuar dy masa sigurie, ndërsa nj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T08:33:29+00:00",
-      "dateStr": "26 Sep, 08:33",
-      "isNew": true,
-      "id": "abc51790411609"
-    },
-    {
-      "title": "Vodhi makinën dhe përplasi 4 mjete teksa tentoi t’i shpëtojë policisë/ Arrestohet 30-vjeçari në Durrës",
-      "link": "https://abcnews.al/vodhi-makinen-dhe-perplasi-4-mjete-teksa-tentoi-ti-shpetoje-policise-arrestohet-30-vjecari-ne-durres/",
-      "description": "Një 30-vjeçar është arrestuar në Durrës pasi, sipas Policisë, kishte vjedhur një automjet në Tepelenë dhe, në përpjekje për t’iu shmangur shërbimeve të policisë, ka përplasur katër automjete. Ngjarja ndodhi rreth orës 23:00, në rrugën “Pavarësia”, ku shërbimet e Stacionit të Policisë Plazh, gjatë pa",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T08:22:19+00:00",
-      "dateStr": "26 Sep, 08:22",
-      "isNew": true,
-      "id": "abc61790410939"
-    },
-    {
-      "title": "Trump refuzon armëpushimin me Iranin/ Pas zgjedhjeve të nëntorit pritet rifillimi i bombardimeve",
-      "link": "https://abcnews.al/trump-refuzon-armepushimin-me-iranin-pas-zgjedhjeve-te-nentorit-pritet-rifillimi-i-bombardimeve/",
-      "description": "Presidenti amerikan Donald Trump ka hedhur poshtë propozimin e Iranit për një armëpushim shtatëditor dhe u ka thënë bashkëpunëtorëve të tij se pret të rifillojë bombardimet ndaj Iranit pas zgjedhjeve të mesmandatit të nëntorit, sipas “Wall Street Journal”. Propozimi i Teheranit parashikonte ndërprer",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T08:08:56+00:00",
-      "dateStr": "26 Sep, 08:08",
-      "isNew": true,
-      "id": "abc71790410136"
-    },
-    {
-      "title": "Në kërkim ndërkombëtar për trafik droge, arrestohet në Rinas 53-vjeçari nga Ukraina",
-      "link": "https://abcnews.al/ne-kerkim-nderkombetar-per-trafik-droge-arrestohet-ne-rinas-53-vjecari-nga-ukraina/",
-      "description": "Një 53-vjeçar ukrainas, i shpallur në kërkim nga autoritetet ligjzbatuese të Kievit për trafik të lëndëve narkotike dhe si pjesë e një organizate kriminale, është arrestuar nga Policia e Shtetit në aeroportin e Rinasit. Sipas Policisë së Shtetit, arrestimi i shtetasit me inicialet A. S. u krye në mo",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T07:41:11+00:00",
-      "dateStr": "26 Sep, 07:41",
-      "isNew": true,
-      "id": "abc81790408471"
-    },
-    {
-      "title": "Ora e Fundit me Emilian Islami, (26/09/2026)",
-      "link": "https://abcnews.al/ora-e-fundit-me-emilian-islami-26-09-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T07:26:45+00:00",
-      "dateStr": "26 Sep, 07:26",
-      "isNew": true,
-      "id": "abc91790407605"
+      "id": "laj61790418606"
     },
     {
       "title": "“Dëgjoi zëra në varreza gjatë natës – ajo që thuhet se gjeti më pas i la të gjithë pa fjalë”.",
@@ -243,7 +309,7 @@
       "date": "2026-09-26T00:02:07+00:00",
       "dateStr": "26 Sep, 00:02",
       "isNew": true,
-      "id": "laj11790380927"
+      "id": "laj71790380927"
     },
     {
       "title": "Artan Hoxha nxjerr detaje: Ja ku janë zhvendosur bosët e krimit pas largimit nga Dubai?",
@@ -254,7 +320,7 @@
       "date": "2026-09-25T23:32:48+00:00",
       "dateStr": "25 Sep, 23:32",
       "isNew": true,
-      "id": "laj21790379168"
+      "id": "laj81790379168"
     },
     {
       "title": "Njerëzit me këtë grup gjaku jetojnë më gjatë: shumë rrallë pësojnë sulm në zemër ose goditje në tru – ja pse",
@@ -265,73 +331,7 @@
       "date": "2026-09-25T23:28:34+00:00",
       "dateStr": "25 Sep, 23:28",
       "isNew": true,
-      "id": "laj31790378914"
-    },
-    {
-      "title": "“Gruaja edhe vajza me kane perzene nga shtepija, tere naten rrishin neper motele, me mu kurr nuk flejke, me thojke ‘Haram te kofte buka qe po e …’”",
-      "link": "https://www.lajme.al/gruaja-edhe-vajza-me-kane-perzene-nga-shtepija-tere-naten-rrishin-neper-motele-me-mu-kurr-nuk-flejke-me-thojke-haram-te-kofte-buka-qe-po-e/",
-      "description": "**Një rrëfim i rëndë për një situatë familjare** Një burrë ka rrëfyer publikisht për vështirësitë që pretendon se ka përjetuar në familje, duke thënë se bashkëshortja dhe vajza e tij e kanë përzënë nga shtëpia dhe se shpesh është detyruar të kalojë netët në motele. Në rrëfimin e tij, ai pretendon gj",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-25T23:23:48+00:00",
-      "dateStr": "25 Sep, 23:23",
-      "isNew": true,
-      "id": "laj41790378628"
-    },
-    {
-      "title": "Çfarë ndodh me shpirtin pasi ndërrojmë jetë? Studiuesi zbulon detaje tronditese",
-      "link": "https://www.lajme.al/cfare-ndodh-me-shpirtin-pasi-nderrojme-jete-studiuesi-zbulon-detaje-tronditese/",
-      "description": "Çfarë ndodh me vetëdijen dhe atë që njerëzit e quajnë “shpirt” pasi trupi ndalon së funksionuari? Kjo është një nga pyetjet më të vjetra dhe më të debatueshme, për të cilën ende nuk ekziston një përgjigje përfundimtare shkencore. Studiues nga fusha të ndryshme kanë analizuar përvojat e njerëzve që k",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-25T23:19:33+00:00",
-      "dateStr": "25 Sep, 23:19",
-      "isNew": true,
-      "id": "laj51790378373"
-    },
-    {
-      "title": "“Në konop me të qitë, pesë pare s’i jap!” – rrëfimi prekës për nënën e Adem Demaçit",
-      "link": "https://www.lajme.al/ne-konop-me-te-qite-pese-pare-si-jap-rrefimi-prekes-per-nenen-e-adem-demacit/",
-      "description": "### Nëna e Adem Demaçit, Nazife Lahuta – gruaja që e mbështeti të birin edhe në ditët më të vështira Nazife Lahuta, nëna e veprimtarit dhe shkrimtarit kosovar Adem Demaçi, u rrit jetime dhe, sipas rrëfimeve biografike, përjetoi tragjedi familjare që në moshë të re. Sipas historisë së përcjellë në li",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-25T23:13:51+00:00",
-      "dateStr": "25 Sep, 23:13",
-      "isNew": true,
-      "id": "laj61790378031"
-    },
-    {
-      "title": "Pas reshjeve vjen ndryshimi: Kështu do të jetë moti në ditët në vijim",
-      "link": "https://www.lajme.al/pas-reshjeve-vjen-ndryshimi-keshtu-do-te-jete-moti-ne-ditet-ne-vijim/",
-      "description": "**Moti në Shqipëri, Kosovë dhe Maqedoni të Veriut: Ja çfarë pritet gjatë fundjavës** Pas reshjeve dhe ndryshimeve të motit gjatë ditëve të fundit, fundjava pritet të sjellë **përmirësim të kushteve atmosferike** në pjesën më të madhe të Shqipërisë, Kosovës dhe Maqedonisë së Veriut. 🇦🇱 **Shqipëri** N",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-25T22:59:34+00:00",
-      "dateStr": "25 Sep, 22:59",
-      "isNew": true,
-      "id": "laj71790377174"
-    },
-    {
-      "title": "DRAMË NË STACIONIN POLICOR: Polici qëllon veten në kokë gjatë një operacioni, dalin detaje tronditëse",
-      "link": "https://www.lajme.al/drame-ne-stacionin-policor-polici-qellon-veten-ne-koke-gjate-nje-operacioni-dalin-detaje-tronditese/",
-      "description": "**Ngjarje e rëndë në një stacion policor në Bosnje, hetohen lidhje të dyshuara me rrjetin kriminal “Foxtrot”** Një ngjarje e rëndë në **Stacionin Policor Ilijaš në Bosnje dhe Hercegovinë** ka çuar në hapjen e një hetimi për lidhje të mundshme mes personave në vend dhe rrjetit kriminal suedez **“Foxt",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-25T22:54:37+00:00",
-      "dateStr": "25 Sep, 22:54",
-      "isNew": true,
-      "id": "laj81790376877"
-    },
-    {
-      "title": "PARALAJMËRIM I FRIKSHËM: Deklarata tronditëse e Bill Gates për inteligjencën artificiale ka tronditur botën sonte",
-      "link": "https://www.lajme.al/paralajmerim-i-frikshem-deklarata-tronditese-e-bill-gates-per-inteligjencen-artificiale-ka-tronditur-boten-sonte/",
-      "description": "**Bill Gates paralajmëron për rreziqet e inteligjencës artificiale: “Mund të shkaktojë ngjarje me një miliard viktima”** Bashkëthemeluesi i Microsoft, **Bill Gates**, ka dhënë një nga paralajmërimet e tij më të forta lidhur me zhvillimin e inteligjencës artificiale (AI). Në një intervistë për emisio",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-25T22:48:33+00:00",
-      "dateStr": "25 Sep, 22:48",
-      "isNew": true,
-      "id": "laj91790376513"
+      "id": "laj91790378914"
     }
   ]
 }
