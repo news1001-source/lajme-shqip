@@ -1,183 +1,227 @@
 {
-  "lastUpdated": "2026-09-27T17:24:52.144784+00:00",
+  "lastUpdated": "2026-09-27T20:45:45.168999+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Trump: Pres më shumë bisedime me Iranin këtë javë — edhe pse hodha poshtë propozimin për armëpushim",
-      "link": "https://24-ore.com/trump-pres-me-shume-bisedime-me-iranin-kete-jave-edhe-pse-hodha-poshte-propozimin-per-armepushim/",
-      "description": "Presidenti amerikan i tha Axios-it se Teherani dëshiron një marrëveshje, por \"jo marrëveshjen që dua unë\". Kur u pyet nëse po mendon për rifillimin e sulmeve ndaj Iranit, ai u përgjigj: \"Po e mendoj gjithmonë\".",
+      "title": "Zelenski: Sanksionet e reja ndaj Rusisë mund të hyjnë në fuqi në tetor",
+      "link": "https://24-ore.com/zelenski-sanksionet-e-reja-ndaj-rusise-mund-te-hyjne-ne-fuqi-ne-tetor/",
+      "description": "Paketat e reja të sanksioneve ndaj Rusisë, që synojnë skemat financiare, furnizuesit e komponentëve dhe pajisjeve që përdoren nga industria ruse e armatimeve, si dhe kompanitë dhe individët e përfshirë në prodhimin e raketave balistike ruse, mund të hyjnë në fuqi që në muajin tetor, njoftoi mbrëmjen",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T17:22:24+00:00",
-      "dateStr": "27 Sep, 17:22",
+      "date": "2026-09-27T20:43:24+00:00",
+      "dateStr": "27 Sep, 20:43",
       "isNew": true,
-      "id": "24 01790529744"
+      "id": "24 01790541804"
     },
     {
-      "title": "Pjesëtarët e FSK-së certifikohen pas trajnimit të avancuar për kërkim-shpëtim",
-      "link": "https://24-ore.com/pjesetaret-e-fsk-se-certifikohen-pas-trajnimit-te-avancuar-per-kerkim-shpetim/",
-      "description": "Ministri i Mbrojtjes, Ejup Maqedonci, ka bërë të ditur se ka përfunduar me sukses trajnimi i avancuar për Kërkim-Shpëtim në Qendrën Ndërkombëtare të Trajnimit për Kërkim-Shpëtim (QNTKSH). Maqedonci ka njoftuar se trajnimi ka zgjatur dy javë, gjatë të cilave pjesëtarët kanë zhvilluar aftësi të specia",
+      "title": "Protestë ‘Jo në emrin tim’ edhe në Gjakovë, në marsh merr pjesë edhe Nëna Ferdonije Qerkezi",
+      "link": "https://24-ore.com/proteste-jo-ne-emrin-tim-edhe-ne-gjakove-ne-marsh-merr-pjese-edhe-nena-ferdonije-qerkezi/",
+      "description": "Sonte në Gjakovë u mbajt protesta kundër aktgjykimit dënues ndaj drejtuesve të UÇK-së, e thirrur nga &#8220;Kuqezinjtë e Jakovës&#8221;, siç njofton KosovaPress. Qytetarët u mblodhën në qendër të qytetit për t&#8217;u shprehur mbështetje çlirimtarëve në Hagë. Sipas raportimit të KosovaPress, marshit",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T17:21:59+00:00",
-      "dateStr": "27 Sep, 17:21",
+      "date": "2026-09-27T20:41:41+00:00",
+      "dateStr": "27 Sep, 20:41",
       "isNew": true,
-      "id": "24 11790529719"
+      "id": "24 11790541701"
     },
     {
-      "title": "RTS i përgjigjet Listës Studentore dhe CRTA-s: ftesa për debat me Vuçiçin mbetet e hapur",
-      "link": "https://24-ore.com/rts-i-pergjigjet-listes-studentore-dhe-crta-s-ftesa-per-debat-me-vucicin-mbetet-e-hapur/",
-      "description": "RTS u përgjigjet zyrtarisht refuzimeve të CRTA-s dhe Listës Studentore, përsëriti ftesën për debat me Vuçiçin dhe hodhi poshtë pretendimin se nuk ka transmetuar asgjë për listën studentore në 18 ditë.",
+      "title": "Las Vegas Aces kundër Indiana Fever, 27 shtator 2026 — Aces 27-23 në fund të periodës së parë",
+      "link": "https://24-ore.com/las-vegas-aces-kunder-indiana-fever-27-shtator-2026-aces-27-23-ne-fund-te-periodes-se-pare/",
+      "description": "Më 27 shtator 2026, në ndeshjen mes Las Vegas Aces dhe Indiana Fever, Aces kryesojnë 27-23 në fund të periodës së parë, me 4 sekonda të mbetura në orë.Sipa...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T17:18:54+00:00",
-      "dateStr": "27 Sep, 17:18",
+      "date": "2026-09-27T20:36:54+00:00",
+      "dateStr": "27 Sep, 20:36",
       "isNew": true,
-      "id": "24 21790529534"
+      "id": "24 21790541414"
     },
     {
-      "title": "“200 metrat” që liruan Gotovinën dhe mësimi për katërshen e UÇK-së",
-      "link": "https://24-ore.com/200-metrat-qe-liruan-gotovinen-dhe-mesimi-per-katershen-e-uck-se/",
-      "description": "Nga Valona Tela, REL Pas dënimit për krime lufte të ish-krerëve të Ushtrisë Çlirimtare të Kosovës, Hashim Thaçi, Kadri Veseli, Jakup Krasniqi dhe Rexhep Selimi, “rasti Ante Gotovina” nisi të përmendej nga avokatë, komentues dhe media në Kosovë si pikë reference për fazën e apelit. Në pamje të parë, ",
+      "title": "Papa Leone XIV në Lurdë: Mesazhi kundër eutanazisë për 150 mijë besimtarë, takon 7 viktima abuzimi",
+      "link": "https://24-ore.com/papa-leone-xiv-ne-lurde-mesazhi-kunder-eutanazise-per-150-mije-besimtare-takon-7-viktima-abuzimi/",
+      "description": "Papa Leone XIV ka paraqitur të dielën në Lurdë të Francës mesazhin e tij të kundërshtimit ndaj eutanazisë dhe vdekjes mjekësisht të asistuar, siç njofton televizioni publik malazez RTCG. Papa u takua gjatë ditës me peshkopët francezë dhe më pas drejtoi meshën në fushën para bazilikës kryesore të Lur",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T17:17:03+00:00",
-      "dateStr": "27 Sep, 17:17",
+      "date": "2026-09-27T20:35:27+00:00",
+      "dateStr": "27 Sep, 20:35",
       "isNew": true,
-      "id": "24 31790529423"
+      "id": "24 31790541327"
     },
     {
-      "title": "Shtëpia e Bardhë i kërkon Kinës dënimin me vdekje për trafikantët e fentanilit pas samitit Trump–Xi",
-      "link": "https://24-ore.com/shtepia-e-bardhe-i-kerkon-kines-denimin-me-vdekje-per-trafikantet-e-fentanilit-pas-samitit-trump-xi/",
-      "description": "Shtëpia e Bardhë ka zbuluar se administrata Trump i ka “inkurajuar fuqimisht” autoritetet kineze të ekzekutojnë disa nga kriminelët që prodhojnë dhe shpërndajnë kimikatet pararendëse për fentanilin e paligjshëm — një kërkesë e rrallë që vjen pas samitit treditësh të javës së kaluar mes presidentit D",
+      "title": "Ndeshja ishte e barabartë, Austria i shfrytëzoi gabimet tona",
+      "link": "https://24-ore.com/ndeshja-ishte-e-barabarte-austria-i-shfrytezoi-gabimet-tona/",
+      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor September 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 [&#8230;]",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T17:15:04+00:00",
-      "dateStr": "27 Sep, 17:15",
+      "date": "2026-09-27T20:33:22+00:00",
+      "dateStr": "27 Sep, 20:33",
       "isNew": true,
-      "id": "24 41790529304"
+      "id": "24 41790541202"
     },
     {
-      "title": "Hetimi i 360 Stepeni: Rreth 290 mijë euro para shtetërore për shoqata e fondacione — kush janë fituesit dhe a kanë lidhje me pushtetin?",
-      "link": "https://24-ore.com/hetimi-i-360-stepeni-rreth-290-mije-euro-para-shteterore-per-shoqata-e-fondacione-kush-jane-fituesit-dhe-a-kane-lidhje-me-pushtetin/",
-      "description": "Sipas hetimit të redaksisë &#8220;360 Stepeni&#8221;, rreth 290 mijë euro nga buxheti i Maqedonisë së Veriut janë ndarë për 36 shoqata dhe fondacione përmes Ministrisë për Marrëdhëniet me Komunitetet. Thirrja publike u shpall më 4 mars 2026, ndërsa tre muaj më vonë Qeveria konfirmoi vendimin se cila",
+      "title": "Tetë fituesit dhe humbësit kryesorë të sezonit të rregullt të MLB-së 2026",
+      "link": "https://24-ore.com/tete-fituesit-dhe-humbesit-kryesore-te-sezonit-te-rregullt-te-mlb-se-2026/",
+      "description": "Sezoni i rregullt i MLB-së për 2026 u karakterizua nga disa shfaqje dominuese individuale dhe nga vendime që ndryshuan fatin e disa organizatave. Nga lojta...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T17:12:38+00:00",
-      "dateStr": "27 Sep, 17:12",
+      "date": "2026-09-27T20:33:07+00:00",
+      "dateStr": "27 Sep, 20:33",
       "isNew": true,
-      "id": "24 51790529158"
+      "id": "24 51790541187"
     },
     {
-      "title": "Chapecoense dhe Atletico Nacional, në fushë pas 10 vitesh nga rrëzimi i avionit",
-      "link": "https://24-ore.com/chapecoense-dhe-atletico-nacional-ne-fushe-pas-10-vitesh-nga-rrezimi-i-avionit/",
-      "description": "Dhjetë vjet pas aksidentit ajror që shkatërroi Chapecoense dhe tronditi botën e futbollit, klubi brazilian dhe Atlético Nacional u ribashkuan në Medellín të Kolumbisë, për të festuar një miqësi të lindur nga tragjedia. Në stadiumin Atanasio Girardot, ku ishte planifikuar të luhej ndeshja e parë e fi",
+      "title": "“Flesh Impact” i Maggie Gyllenhaal fiton Best Short Film në TIFF, propozohet për Oscar",
+      "link": "https://24-ore.com/flesh-impact-i-maggie-gyllenhaal-fiton-best-short-film-ne-tiff-propozohet-per-oscar-2/",
+      "description": "– “Flesh Impact”, filmi i shkurtër i regjisores amerikane Maggie Gyllenhaal, është shpallur fitues i çmimit “Best Short Film” në edicionin e 24-t të “Tirana International Film Festival” (TIFF), duke u bërë kështu filmi i propozuar nga TIFF për garën e Oscar-it, në përputhje me rregullat e Academy. F",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T17:12:12+00:00",
-      "dateStr": "27 Sep, 17:12",
+      "date": "2026-09-27T20:32:49+00:00",
+      "dateStr": "27 Sep, 20:32",
       "isNew": true,
-      "id": "24 61790529132"
+      "id": "24 61790541169"
     },
     {
-      "title": "Italia, Mançini: Edhe para suksesit në Evropian nuk kishte besim",
-      "link": "https://24-ore.com/italia-mancini-edhe-para-suksesit-ne-evropian-nuk-kishte-besim/",
-      "description": "“Duhet të qëndrojmë të qetë, pa u ndikuar nga tensioni që shoh përreth”. Roberto Mancini përpiqet të qetësojë atmosferën te të kaltërit në prag të ndeshjes Turqi-Itali. “Futbolli përbëhet nga episode”, tha trajneri për Sky Sport. “Të premten, loja mund të kishte ndryshuar në pjesën e dytë, por Belgj",
+      "title": "“Flesh Impact” i Maggie Gyllenhaal fiton Best Short Film në TIFF, propozohet për Oscar",
+      "link": "https://24-ore.com/flesh-impact-i-maggie-gyllenhaal-fiton-best-short-film-ne-tiff-propozohet-per-oscar/",
+      "description": "– “Flesh Impact”, filmi i shkurtër i regjisores amerikane Maggie Gyllenhaal, është shpallur fitues i çmimit “Best Short Film” në edicionin e 24-t të “Tirana International Film Festival” (TIFF), duke u bërë kështu filmi i propozuar nga TIFF për garën e Oscar-it, në përputhje me rregullat e Academy. F",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T17:12:01+00:00",
-      "dateStr": "27 Sep, 17:12",
+      "date": "2026-09-27T20:32:31+00:00",
+      "dateStr": "27 Sep, 20:32",
       "isNew": true,
-      "id": "24 71790529121"
+      "id": "24 71790541151"
     },
     {
-      "title": "Volejboll Meshkuj/Kupa e Federatës: Studenti rrëmben trofeun",
-      "link": "https://24-ore.com/volejboll-meshkuj-kupa-e-federates-studenti-rremben-trofeun/",
-      "description": "Studenti shkurorëzon Partizanin duke fituar Kupën e Federatës me rezulatin 3-0. Ekipi i drejtuar nga Kestrin Batalli tregoi supermaci në finalne e luajtur në Farkë, e transmetuar ekskluzivisht në rrjetin e Radio Televizionit Shqiptar. Në setin e parë Studenti fitoi me shifrat 25-17, ndërsa në të dyt",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T17:11:54+00:00",
-      "dateStr": "27 Sep, 17:11",
-      "isNew": true,
-      "id": "24 81790529114"
-    },
-    {
-      "title": "Venko Filipçe i quan “puçistë” e “skemaxhinj” kritikët brenda SDSM-së, platforma “12.05” i përgjigjet: “Manipulime!”",
-      "link": "https://24-ore.com/venko-filipce-i-quan-puciste-e-skemaxhinj-kritiket-brenda-sdsm-se-platforma-12-05-i-pergjigjet-manipulime/",
-      "description": "Sipas raportimit të televizionit 24 Vesti, kryetari i Lidhjes Socialdemokrate të Maqedonisë (SDSM), Venko Filipçe, ka dalë të dielën para mediave me akuza të rënda ndaj platformës së brendshme &#8220;Bisedime për të ardhmen në 12:05&#8221;. Nga foltorja e partisë, ai i ka përmendur me emër e mbiemër",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T17:09:05+00:00",
-      "dateStr": "27 Sep, 17:09",
-      "isNew": true,
-      "id": "24 91790528945"
-    },
-    {
-      "title": "Skenar lufte/ Lituania teston evakuimin e Vilniusit në rast sulmi, stërvitja më e madhe ushtarake përfshin mijëra zyrtarë",
-      "link": "https://abcnews.al/skenar-lufte-lituania-teston-evakuimin-e-vilniusit-ne-rast-sulmi-stervitja-me-e-madhe-ushtarake-perfshin-mijera-zyrtare/",
-      "description": "Lituania po zhvillon një nga skenarët më të mëdhenj të përgatitjes për një krizë të mundshme të sigurisë, duke testuar për herë të parë në nivel kombëtar një plan të detajuar për evakuimin e Vilniusit dhe zonave kufitare në rast të një kërcënimi ushtarak. Stërvitjet, të koduara “Vyčio skliautas 2026",
+      "title": "Papa Leo XIV kundër eutanazisë: Mjekësia s’mund t’i shërbejë një vdekjeje të programuar",
+      "link": "https://abcnews.al/papa-leo-xiv-kunder-eutanazise-mjekesia-smund-ti-sherbeje-nje-vdekjeje-te-programuar/",
+      "description": "Papa Leo XIV është shprehur kundër eutanazisë gjatë vizitës së tij në Lourdes, duke theksuar se ligjshmëria e një veprimi nuk nënkupton domosdoshmërisht se ai është edhe moralisht i drejtë. Teksa iu drejtua pacientëve dhe personave me aftësi të kufizuara që merrnin pjesë në një pelegrinazh, Papa vur",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T17:00:39+00:00",
-      "dateStr": "27 Sep, 17:00",
+      "date": "2026-09-27T20:30:02+00:00",
+      "dateStr": "27 Sep, 20:30",
       "isNew": true,
-      "id": "abc01790528439"
+      "id": "abc01790541002"
     },
     {
-      "title": "E rëndë në Cërrik/ Humbi kontrollin e motomjetit, vdes 21 vjeçari, plagoset adoleshenti",
-      "link": "https://abcnews.al/e-rende-ne-cerrik-humbi-kontrollin-e-motomjetit-vdes-21-vjecari-plagoset-adoleshenti/",
-      "description": "Në lagjen nr. 3, shtetasi O. M., 21 vjeç, duke drejtuar motomjetin, dyshohet se ka humbur kontrollin mbi drejtimin e tij dhe motomjeti është përplasur me një shtyllë. Si pasojë e përplasjes, shtetasi O. M. ka humbur jetën në vendngjarje. Ndërsa pasagjeri, shtetasi D. C., 17 vjeç, është transportuar ",
+      "title": "Po planifikonin sulme terroriste në bazën ajrore në Britaninë e Madhe, Trump: Do të kishin shkaktuar një dëm të madh",
+      "link": "https://abcnews.al/po-planifikonin-sulme-terroriste-ne-bazen-ajrore-ne-britanine-e-madhe-trump-do-te-kishin-shkaktuar-nje-dem-te-madh/",
+      "description": "Presidenti amerikan Donald Trump ka përshëndetur arrestimin e pesë burrave në Britani, të dyshuar për përgatitjen e një akti terrorist pranë bazës ajrore RAF Fairford. Trump tha se personat e arrestuar po planifikonin të shkaktonin “dëm të madh” dhe vlerësoi bashkëpunimin mes Shteteve të Bashkuara d",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T16:34:16+00:00",
-      "dateStr": "27 Sep, 16:34",
+      "date": "2026-09-27T20:21:22+00:00",
+      "dateStr": "27 Sep, 20:21",
       "isNew": true,
-      "id": "abc11790526856"
+      "id": "abc11790540482"
     },
     {
-      "title": "Zjarr në Ndërnenas, rrezikohen sera dhe stalla",
-      "link": "https://abcnews.al/zjarr-ne-ndernenas-rrezikohen-sera-dhe-stalla/",
-      "description": "Një zjarr që ka nisur në anë të kanaleve vaditës në fshatin Ndërnenas të Libofshës ka marrë përmasa të mëdha, duke përfshirë sipërfaqe të konsiderueshme me toka bujqësore. Flakët kanë përfshirë edhe parcela të kultivuara me ullinj. Zjarri po avancon drejt serave diellore, stallave të bagëtive dhe ha",
+      "title": "Austria e mposht Kosovën 3:1, “Dardanët” pa përgjigje në Vjenë",
+      "link": "https://24-ore.com/austria-e-mposht-kosoven-31-dardanet-pa-pergjigje-ne-vjene/",
+      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor September 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T20:19:47+00:00",
+      "dateStr": "27 Sep, 20:19",
+      "isNew": true,
+      "id": "24 81790540387"
+    },
+    {
+      "title": "Muriqi: Përgjegjësinë e humbjes e marrë unë, besoj në këtë ekip",
+      "link": "https://24-ore.com/muriqi-pergjegjesine-e-humbjes-e-marre-une-besoj-ne-kete-ekip/",
+      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor September 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T20:19:24+00:00",
+      "dateStr": "27 Sep, 20:19",
+      "isNew": true,
+      "id": "24 91790540364"
+    },
+    {
+      "title": "Aksidentohet autobusi me turistë në Gjermani, dy të vdekur dhe 19 të lënduar",
+      "link": "https://abcnews.al/aksidentohet-autobusi-me-turiste-ne-gjermani-dy-te-vdekur-dhe-19-te-lenduar/",
+      "description": "Një aksident i rëndë rrugor ka ndodhur pranë Mynihut, në Gjermani, ku një autobus turistik është përmbysur, duke shkaktuar vdekjen e të paktën dy personave dhe plagosjen e 19 të tjerëve. Autobusi transportonte rreth 35 turistë, shumica prej tyre me origjinë nga Filipinet. Sipas raportimeve, grupi is",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T16:22:36+00:00",
-      "dateStr": "27 Sep, 16:22",
+      "date": "2026-09-27T20:07:47+00:00",
+      "dateStr": "27 Sep, 20:07",
       "isNew": true,
-      "id": "abc21790526156"
+      "id": "abc21790539667"
     },
     {
-      "title": "Rusia rrit taksat për konsumatorët, Kremlini kërkon më shumë financime për luftën në Ukrainë",
-      "link": "https://abcnews.al/rusia-rrit-taksat-per-konsumatoret-kremlini-kerkon-me-shume-financime-per-luften-ne-ukraine/",
-      "description": "Qeveria ruse ka vendosur të rrisë taksat për konsumatorët, në një përpjekje për të siguruar më shumë të ardhura për financimin e luftës në Ukrainë. Masa vjen në një kohë kur deficiti buxhetor i Rusisë është rritur ndjeshëm dhe rezervat financiare po pakësohen. Sipas të dhënave zyrtare të institucion",
+      "title": "Gjermania: Vetoja për çështje dypalëshe të mos bllokojë BE-në",
+      "link": "https://abcnews.al/gjermania-vetoja-per-ceshtje-dypaleshe-te-mos-bllokoje-be-ne/",
+      "description": "Gjermania është shprehur edhe një herë kundër vendosjes së vetos nga shtetet anëtare për çështje dypalëshe, siç ka ndodhur në të kaluarën. “Unë jam kundër një bilateralizimi të integrimit në BE. Në Bashkimin Evropian, kemi pasur fatkeqësinë që shpesh shtetet që janë tashmë anëtare të Bashkimit Evrop",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T16:15:13+00:00",
-      "dateStr": "27 Sep, 16:15",
+      "date": "2026-09-27T19:42:29+00:00",
+      "dateStr": "27 Sep, 19:42",
       "isNew": true,
-      "id": "abc31790525713"
+      "id": "abc31790538149"
     },
     {
-      "title": "Papa Leo XIV përpara 700 mijë besimtarëve në Paris: Ndajeni besimin me njerëzit që takoni",
-      "link": "https://abcnews.al/papa-leo-xiv-perpara-700-mije-besimtareve-ne-paris-ndajeni-besimin-me-njerezit-qe-takoni/",
-      "description": "Papa Leo 14 vlerësoi energjinë, entuziazmin dhe përkushtimin e të rinjve ndaj Kishës Katolike, gjatë një meshe madhështore në Paris, ku morën pjesë rreth 700 mijë besimtarë. Ceremonia u zhvillua në Place de la Concorde, në ditën e dytë të vizitës katërditore të Papës në Francë. Përpara meshës, Papa ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-27T15:57:03+00:00",
-      "dateStr": "27 Sep, 15:57",
-      "isNew": true,
-      "id": "abc41790524623"
-    },
-    {
-      "title": "News Hour me Erneta Shevroja, (27/09/2026)",
-      "link": "https://abcnews.al/news-hour-me-erneta-shevroja-27-09-2026/",
+      "title": "Newsroom me Erneta Shevroja, (27/09/2026)",
+      "link": "https://abcnews.al/newsroom-me-erneta-shevroja-27-09-2026/",
       "description": "[...]Read More...",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T15:44:14+00:00",
-      "dateStr": "27 Sep, 15:44",
+      "date": "2026-09-27T19:14:54+00:00",
+      "dateStr": "27 Sep, 19:14",
       "isNew": true,
-      "id": "abc51790523854"
+      "id": "abc41790536494"
+    },
+    {
+      "title": "Vuçiç dorëhiqet nga posti i Presidenti të Serbisë, mesazh pasardhësit: Mos hiq dorë nga Kosova",
+      "link": "https://abcnews.al/vucic-dorehiqet-nga-posti-i-presidenti-te-serbise-mesazh-pasardhesit-mos-hiq-dore-nga-kosova/",
+      "description": "Aleksandër Vuçiç ka dhënë zyrtarisht dorëheqjen nga posti i presidentit të Serbisë, duke i dhënë fund para kohe mandatit të tij në krye të shtetit. Në fjalimin e largimit ai foli sfidat që e presin Serbinë dhe çështjen e Kosovës. Vuçiç konfirmoi dorëheqjen gjatë një adresimi publik të dielën në mbrë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T19:13:57+00:00",
+      "dateStr": "27 Sep, 19:13",
+      "isNew": true,
+      "id": "abc51790536437"
+    },
+    {
+      "title": "Gjërat Tona/ Kumbarët e kokainës. Nga Kolumbia e Ekuadori në Europë, si u trafikuan mbi 50 tonë drogë",
+      "link": "https://abcnews.al/gjerat-tona-kumbaret-e-kokaines-nga-kolumbia-e-ekuadori-ne-europe-si-u-trafikuan-mbi-50-tone-droge/",
+      "description": "Një rrjet që nisej nga Amerika Latine. Kontejnerë që udhëtonin mijëra kilometra nëpër oqean. Kokainë që hynte në portet e Europës. Miliona euro që ktheheshin mbrapsht. Dhe në fund të kësaj rruge prona, kompani, vila, hotele dhe pasuri në Shqipëri. SPAK thotë se pas kësaj strukture qëndronte një emër",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T19:03:34+00:00",
+      "dateStr": "27 Sep, 19:03",
+      "isNew": true,
+      "id": "abc61790535814"
+    },
+    {
+      "title": "Orteku godet ekspeditën në Himalaje, 10 alpinistë rezultojnë të zhdukur",
+      "link": "https://abcnews.al/orteku-godet-ekspediten-ne-himalaje-10-alpiniste-rezultojne-te-zhdukur/",
+      "description": "Të paktën 10 alpinistë nepalezë janë shpallur të zhdukur pasi një ortek goditi një strehë në Himalaje, në një zonë ku ata po përgatiteshin për një ekspeditë malore. Sipas autoriteteve nepaleze, alpinistët, të gjithë udhërrëfyes nepalezë, ndodheshin në një pikë grumbullimi pranë majës së Himalung Him",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T18:52:15+00:00",
+      "dateStr": "27 Sep, 18:52",
+      "isNew": true,
+      "id": "abc71790535135"
+    },
+    {
+      "title": "E rëndë në Fier/ Zjarri i shembi çatinë e shtëpisë, humb jetën 70 vjeçari i paralizuar",
+      "link": "https://abcnews.al/e-rende-ne-fier-zjarri-i-shembi-catine-e-shtepise-humb-jeten-75-vjecari/",
+      "description": "Një 74-vjeçar ka humbur jetën si pasojë e një zjarri që përfshiu banesën e tij mbrëmjen e së dielës në lagjen “Çlirim” të Fierit. Viktima është identifikuar si Flamur Braçe, 70 vjeç, i cili mësohet se jetonte i vetëm në banesë dhe ishte i paralizuar. Pas ndërhyrjes së forcave zjarrfikëse, në banesë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T18:12:44+00:00",
+      "dateStr": "27 Sep, 18:12",
+      "isNew": true,
+      "id": "abc81790532764"
+    },
+    {
+      "title": "Arrestimi i Hysenit, Rama i thotë të gjitha/ “Rama iu drejtua zgjedhësve”, Bejko: Kryeministri u distancua nga gjithçka",
+      "link": "https://abcnews.al/arrestimi-i-hysenit-rama-i-thote-te-gjitha-rama-iu-drejtua-zgjedhesve-bejko-kryeministri-u-distancua-nga-gjithcka/",
+      "description": "Analisti Roland Bejko ka komentuar deklaratat e Ramës pas kthimit nga Neë York, duke u ndalur te mënyra se si ai iu drejtua zgjedhësve dhe te pasojat politike që mund të kenë zhvillimet e fundit në drejtësi. Bejko tha se në këtë çështje krijohen kontradikta në memorien mediatike dhe atë të qytetarëv",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T17:57:30+00:00",
+      "dateStr": "27 Sep, 17:57",
+      "isNew": true,
+      "id": "abc91790531850"
     },
     {
       "title": "Austria–Kosova LIVE: Ndiqeni këtu ndeshjen e Dardanëve",
@@ -202,17 +246,6 @@
       "id": "laj11790523268"
     },
     {
-      "title": "Netanyahu: Egjipti s’na paralajmëroi për 7 Tetorin/ Qeveria izraelite hedh poshtë akuzat e medias amerikane",
-      "link": "https://abcnews.al/netanyahu-egjipti-sna-paralajmeroi-per-7-tetorin-qeveria-izraelite-hedh-poshte-akuzat-e-medias-amerikane/",
-      "description": "Zyra e kryeministrit izraelit Benjamin Netanyahu ka mohuar një raportim të ri të revistës amerikane The Atlantic, sipas të cilit kreu i inteligjencës egjiptiane kishte udhëtuar drejt Izraelit vetëm 11 ditë para sulmit të Hamasit, më 7 tetor 2023, për të paralajmëruar autoritetet izraelite për përgat",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-27T15:30:31+00:00",
-      "dateStr": "27 Sep, 15:30",
-      "isNew": true,
-      "id": "abc61790523031"
-    },
-    {
       "title": "Publikohen formacionet: Ja si rreshtohet Kosova përballë Austrisë",
       "link": "https://www.lajme.al/publikohen-formacionet-ja-si-rreshtohet-kosova-perballe-austrise/",
       "description": "**Janë publikuar formacionet zyrtare për ndeshjen ndërmjet Austrisë dhe Kosovës, e vlefshme për Ligën e Kombeve.** Përfaqësuesja e Kosovës, e udhëhequr nga trajneri Franco Foda, do ta nisë takimin me këtë 11-she: **Arijanet Muriç – Ron Raçi, Ilir Krasniqi, Lumbardh Dellova – Dion Gallapeni, Leon Avd",
@@ -233,39 +266,6 @@
       "dateStr": "27 Sep, 15:20",
       "isNew": true,
       "id": "laj31790522442"
-    },
-    {
-      "title": "Moskë-Berlin, takim surprizë pas 4 vitesh/ Ministri i Jashtëm gjerman: Rusia të tërhiqet nga përshkallëzimi",
-      "link": "https://abcnews.al/moske-berlin-takim-surprize-pas-4-vitesh-ministri-i-jashtem-gjerman-rusia-te-terhiqet-nga-pershkallezimi/",
-      "description": "Ministri i Jashtëm rus ka hedhur poshtë thirrjet e homologut gjerman që Moska të tërhiqet nga “hapat e rrezikshëm përshkallëzues”, duke akuzuar Berlinin se është sponsori kryesor i Ukrainës. Sergey Lavrov u takua me ministrin gjerman Johann Wadephul në kuadër të Asamblesë së Përgjithshme të OKB-se, ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-27T15:09:27+00:00",
-      "dateStr": "27 Sep, 15:09",
-      "isNew": true,
-      "id": "abc71790521767"
-    },
-    {
-      "title": "Eksperiment i pazakontë, lëshohen 30 mijë mushkonja sterile që nuk pickojnë",
-      "link": "https://abcnews.al/eksperiment-i-pazakonte-leshohen-30-mije-mushkonja-sterile-qe-nuk-pickojne/",
-      "description": "Rreth 30 mijë mushkonja meshkuj sterile do të lëshohen këtë të enjte në zonën e Alvalades, në Lisbonë, në kuadër të një projekti eksperimental që synon të reduktojë popullatën e mushkonjës tigër aziatike (Aedes albopictus), e njohur për aftësinë për të transmetuar sëmundje si dengue, Zika dhe ethet ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-27T14:40:05+00:00",
-      "dateStr": "27 Sep, 14:40",
-      "isNew": true,
-      "id": "abc81790520005"
-    },
-    {
-      "title": "Bitcoin mbi 84 mijë dollarë, pranë nivelit më të lartë në 8 muaj",
-      "link": "https://abcnews.al/bitcoin-mbi-84-mije-dollare-prane-nivelit-me-te-larte-ne-8-muaj/",
-      "description": "Bitcoin po tregtohet sot rreth 84,775 dollarë, me rritje prej rreth 0.7% gjatë ditës, sipas të dhënave të tregut financiar. Kriptovaluta më e madhe në botë ka mbetur pranë nivelit mbi 85 mijë dollarë, pasi ditë më parë arriti pikën më të lartë në 8 muaj. Sipas MarketWatch, Bitcoin kaloi nivelin prej",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-27T14:11:47+00:00",
-      "dateStr": "27 Sep, 14:11",
-      "isNew": true,
-      "id": "abc91790518307"
     },
     {
       "title": "LAJMI I FUNDIT: Një tërmet i fuqishem tronditi vendin",
@@ -308,7 +308,7 @@
       "category": "politike",
       "date": "2026-09-26T19:43:23+00:00",
       "dateStr": "26 Sep, 19:43",
-      "isNew": true,
+      "isNew": false,
       "id": "laj71790451803"
     },
     {
@@ -319,7 +319,7 @@
       "category": "politike",
       "date": "2026-09-26T19:38:17+00:00",
       "dateStr": "26 Sep, 19:38",
-      "isNew": true,
+      "isNew": false,
       "id": "laj81790451497"
     },
     {
@@ -330,7 +330,7 @@
       "category": "politike",
       "date": "2026-09-26T19:26:48+00:00",
       "dateStr": "26 Sep, 19:26",
-      "isNew": true,
+      "isNew": false,
       "id": "laj91790450808"
     }
   ]
