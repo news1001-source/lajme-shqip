@@ -1,205 +1,282 @@
 {
-  "lastUpdated": "2026-09-27T12:39:37.965293+00:00",
+  "lastUpdated": "2026-09-27T17:24:52.144784+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "“Prokurorët po përdorin gazetarë kamikazë”, Rama: SPAK nxori “sekrete” hetimore",
-      "link": "https://abcnews.al/prokuroret-po-perdorin-gazetare-kamikaze-rama-spak-nxori-sekrete-hetimore/",
-      "description": "“Prokurorët po përdorin gazetarë kamikazë”, Rama: SPAK nxori “sekrete” hetimore [...]Read More...",
+      "title": "Trump: Pres më shumë bisedime me Iranin këtë javë — edhe pse hodha poshtë propozimin për armëpushim",
+      "link": "https://24-ore.com/trump-pres-me-shume-bisedime-me-iranin-kete-jave-edhe-pse-hodha-poshte-propozimin-per-armepushim/",
+      "description": "Presidenti amerikan i tha Axios-it se Teherani dëshiron një marrëveshje, por \"jo marrëveshjen që dua unë\". Kur u pyet nëse po mendon për rifillimin e sulmeve ndaj Iranit, ai u përgjigj: \"Po e mendoj gjithmonë\".",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T17:22:24+00:00",
+      "dateStr": "27 Sep, 17:22",
+      "isNew": true,
+      "id": "24 01790529744"
+    },
+    {
+      "title": "Pjesëtarët e FSK-së certifikohen pas trajnimit të avancuar për kërkim-shpëtim",
+      "link": "https://24-ore.com/pjesetaret-e-fsk-se-certifikohen-pas-trajnimit-te-avancuar-per-kerkim-shpetim/",
+      "description": "Ministri i Mbrojtjes, Ejup Maqedonci, ka bërë të ditur se ka përfunduar me sukses trajnimi i avancuar për Kërkim-Shpëtim në Qendrën Ndërkombëtare të Trajnimit për Kërkim-Shpëtim (QNTKSH). Maqedonci ka njoftuar se trajnimi ka zgjatur dy javë, gjatë të cilave pjesëtarët kanë zhvilluar aftësi të specia",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T17:21:59+00:00",
+      "dateStr": "27 Sep, 17:21",
+      "isNew": true,
+      "id": "24 11790529719"
+    },
+    {
+      "title": "RTS i përgjigjet Listës Studentore dhe CRTA-s: ftesa për debat me Vuçiçin mbetet e hapur",
+      "link": "https://24-ore.com/rts-i-pergjigjet-listes-studentore-dhe-crta-s-ftesa-per-debat-me-vucicin-mbetet-e-hapur/",
+      "description": "RTS u përgjigjet zyrtarisht refuzimeve të CRTA-s dhe Listës Studentore, përsëriti ftesën për debat me Vuçiçin dhe hodhi poshtë pretendimin se nuk ka transmetuar asgjë për listën studentore në 18 ditë.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T17:18:54+00:00",
+      "dateStr": "27 Sep, 17:18",
+      "isNew": true,
+      "id": "24 21790529534"
+    },
+    {
+      "title": "“200 metrat” që liruan Gotovinën dhe mësimi për katërshen e UÇK-së",
+      "link": "https://24-ore.com/200-metrat-qe-liruan-gotovinen-dhe-mesimi-per-katershen-e-uck-se/",
+      "description": "Nga Valona Tela, REL Pas dënimit për krime lufte të ish-krerëve të Ushtrisë Çlirimtare të Kosovës, Hashim Thaçi, Kadri Veseli, Jakup Krasniqi dhe Rexhep Selimi, “rasti Ante Gotovina” nisi të përmendej nga avokatë, komentues dhe media në Kosovë si pikë reference për fazën e apelit. Në pamje të parë, ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T17:17:03+00:00",
+      "dateStr": "27 Sep, 17:17",
+      "isNew": true,
+      "id": "24 31790529423"
+    },
+    {
+      "title": "Shtëpia e Bardhë i kërkon Kinës dënimin me vdekje për trafikantët e fentanilit pas samitit Trump–Xi",
+      "link": "https://24-ore.com/shtepia-e-bardhe-i-kerkon-kines-denimin-me-vdekje-per-trafikantet-e-fentanilit-pas-samitit-trump-xi/",
+      "description": "Shtëpia e Bardhë ka zbuluar se administrata Trump i ka “inkurajuar fuqimisht” autoritetet kineze të ekzekutojnë disa nga kriminelët që prodhojnë dhe shpërndajnë kimikatet pararendëse për fentanilin e paligjshëm — një kërkesë e rrallë që vjen pas samitit treditësh të javës së kaluar mes presidentit D",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T17:15:04+00:00",
+      "dateStr": "27 Sep, 17:15",
+      "isNew": true,
+      "id": "24 41790529304"
+    },
+    {
+      "title": "Hetimi i 360 Stepeni: Rreth 290 mijë euro para shtetërore për shoqata e fondacione — kush janë fituesit dhe a kanë lidhje me pushtetin?",
+      "link": "https://24-ore.com/hetimi-i-360-stepeni-rreth-290-mije-euro-para-shteterore-per-shoqata-e-fondacione-kush-jane-fituesit-dhe-a-kane-lidhje-me-pushtetin/",
+      "description": "Sipas hetimit të redaksisë &#8220;360 Stepeni&#8221;, rreth 290 mijë euro nga buxheti i Maqedonisë së Veriut janë ndarë për 36 shoqata dhe fondacione përmes Ministrisë për Marrëdhëniet me Komunitetet. Thirrja publike u shpall më 4 mars 2026, ndërsa tre muaj më vonë Qeveria konfirmoi vendimin se cila",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T17:12:38+00:00",
+      "dateStr": "27 Sep, 17:12",
+      "isNew": true,
+      "id": "24 51790529158"
+    },
+    {
+      "title": "Chapecoense dhe Atletico Nacional, në fushë pas 10 vitesh nga rrëzimi i avionit",
+      "link": "https://24-ore.com/chapecoense-dhe-atletico-nacional-ne-fushe-pas-10-vitesh-nga-rrezimi-i-avionit/",
+      "description": "Dhjetë vjet pas aksidentit ajror që shkatërroi Chapecoense dhe tronditi botën e futbollit, klubi brazilian dhe Atlético Nacional u ribashkuan në Medellín të Kolumbisë, për të festuar një miqësi të lindur nga tragjedia. Në stadiumin Atanasio Girardot, ku ishte planifikuar të luhej ndeshja e parë e fi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T17:12:12+00:00",
+      "dateStr": "27 Sep, 17:12",
+      "isNew": true,
+      "id": "24 61790529132"
+    },
+    {
+      "title": "Italia, Mançini: Edhe para suksesit në Evropian nuk kishte besim",
+      "link": "https://24-ore.com/italia-mancini-edhe-para-suksesit-ne-evropian-nuk-kishte-besim/",
+      "description": "“Duhet të qëndrojmë të qetë, pa u ndikuar nga tensioni që shoh përreth”. Roberto Mancini përpiqet të qetësojë atmosferën te të kaltërit në prag të ndeshjes Turqi-Itali. “Futbolli përbëhet nga episode”, tha trajneri për Sky Sport. “Të premten, loja mund të kishte ndryshuar në pjesën e dytë, por Belgj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T17:12:01+00:00",
+      "dateStr": "27 Sep, 17:12",
+      "isNew": true,
+      "id": "24 71790529121"
+    },
+    {
+      "title": "Volejboll Meshkuj/Kupa e Federatës: Studenti rrëmben trofeun",
+      "link": "https://24-ore.com/volejboll-meshkuj-kupa-e-federates-studenti-rremben-trofeun/",
+      "description": "Studenti shkurorëzon Partizanin duke fituar Kupën e Federatës me rezulatin 3-0. Ekipi i drejtuar nga Kestrin Batalli tregoi supermaci në finalne e luajtur në Farkë, e transmetuar ekskluzivisht në rrjetin e Radio Televizionit Shqiptar. Në setin e parë Studenti fitoi me shifrat 25-17, ndërsa në të dyt",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T17:11:54+00:00",
+      "dateStr": "27 Sep, 17:11",
+      "isNew": true,
+      "id": "24 81790529114"
+    },
+    {
+      "title": "Venko Filipçe i quan “puçistë” e “skemaxhinj” kritikët brenda SDSM-së, platforma “12.05” i përgjigjet: “Manipulime!”",
+      "link": "https://24-ore.com/venko-filipce-i-quan-puciste-e-skemaxhinj-kritiket-brenda-sdsm-se-platforma-12-05-i-pergjigjet-manipulime/",
+      "description": "Sipas raportimit të televizionit 24 Vesti, kryetari i Lidhjes Socialdemokrate të Maqedonisë (SDSM), Venko Filipçe, ka dalë të dielën para mediave me akuza të rënda ndaj platformës së brendshme &#8220;Bisedime për të ardhmen në 12:05&#8221;. Nga foltorja e partisë, ai i ka përmendur me emër e mbiemër",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T17:09:05+00:00",
+      "dateStr": "27 Sep, 17:09",
+      "isNew": true,
+      "id": "24 91790528945"
+    },
+    {
+      "title": "Skenar lufte/ Lituania teston evakuimin e Vilniusit në rast sulmi, stërvitja më e madhe ushtarake përfshin mijëra zyrtarë",
+      "link": "https://abcnews.al/skenar-lufte-lituania-teston-evakuimin-e-vilniusit-ne-rast-sulmi-stervitja-me-e-madhe-ushtarake-perfshin-mijera-zyrtare/",
+      "description": "Lituania po zhvillon një nga skenarët më të mëdhenj të përgatitjes për një krizë të mundshme të sigurisë, duke testuar për herë të parë në nivel kombëtar një plan të detajuar për evakuimin e Vilniusit dhe zonave kufitare në rast të një kërcënimi ushtarak. Stërvitjet, të koduara “Vyčio skliautas 2026",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T12:39:22+00:00",
-      "dateStr": "27 Sep, 12:39",
+      "date": "2026-09-27T17:00:39+00:00",
+      "dateStr": "27 Sep, 17:00",
       "isNew": true,
-      "id": "abc01790512762"
+      "id": "abc01790528439"
     },
     {
-      "title": "Sulmi i Rouvikonas me varre në fabrikën Violanta në Larisa: thyehen xhamat, videoja në rrjetet sociale",
-      "link": "https://24-ore.com/sulmi-i-rouvikonas-me-varre-ne-fabriken-violanta-ne-larisa-thyehen-xhamat-videoja-ne-rrjetet-sociale/",
-      "description": "Anëtarë të grupit \"Rouvikonas\" sulmuan fabrikën Violanta në Larisa duke shkaktuar dëme materiale, në protestë për lirimin me kushte të pronarit të fabrikës, Tziorziotis.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T12:38:25+00:00",
-      "dateStr": "27 Sep, 12:38",
-      "isNew": true,
-      "id": "24 01790512705"
-    },
-    {
-      "title": "Liria e Kosovës nuk gjykohet: Protestuesit nisin të mblidhen në Sheshin ‘Skënderbeu’ në Shkup",
-      "link": "https://24-ore.com/liria-e-kosoves-nuk-gjykohet-protestuesit-nisin-te-mblidhen-ne-sheshin-skenderbeu-ne-shkup/",
-      "description": "Protesta kundër vendimit dënues të Gjykatës Speciale në Hagë ndaj ish-krerëve të UÇK-së ka nisur të mbledhë qytetarët në Sheshin 'Skënderbeu' në Shkup, me flamuj kuq e zi e të UÇK-së, nën sloganin 'Liria e Kosovës nuk gjykohet'.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T12:35:29+00:00",
-      "dateStr": "27 Sep, 12:35",
-      "isNew": true,
-      "id": "24 11790512529"
-    },
-    {
-      "title": "Vuçiçi pranon debatin me Listën Studentore në RTS: “Do të humbasin në çdo debat”",
-      "link": "https://24-ore.com/vucici-pranon-debatin-me-listen-studentore-ne-rts-do-te-humbasin-ne-cdo-debat/",
-      "description": "Presidenti i Serbisë, që jep sonte dorëheqjen, i është përgjigjur pozitivisht ftesës së RTS-së për debat parazgjedhor me kandidatin e studentëve Ilija Srdanoviç; studentët kërkojnë sqarime për temën, formatin dhe pjesëmarrësit.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T12:32:25+00:00",
-      "dateStr": "27 Sep, 12:32",
-      "isNew": true,
-      "id": "24 21790512345"
-    },
-    {
-      "title": "“Shteti do mbrojë SHISH”, Rama: Arrestimi i Hysenit shtangu partnerët",
-      "link": "https://abcnews.al/shteti-do-mbroje-shish-rama-arrestimi-i-hysenit-shtangu-partneret/",
-      "description": "“Arrestimi i Vlora Hysenit, masë ekstreme. Çdo akuzë duhet të hetohet deri në fund. SHISH u ekspozua përballë dëmit. Arrestimi i Hysenit shtangu partnerët. Nuk është hera e parë në historinë e botës që shefi i një shërbimi sekret merret i padehrur, por e para që institucioni i shërbimit sekret bëhet",
+      "title": "E rëndë në Cërrik/ Humbi kontrollin e motomjetit, vdes 21 vjeçari, plagoset adoleshenti",
+      "link": "https://abcnews.al/e-rende-ne-cerrik-humbi-kontrollin-e-motomjetit-vdes-21-vjecari-plagoset-adoleshenti/",
+      "description": "Në lagjen nr. 3, shtetasi O. M., 21 vjeç, duke drejtuar motomjetin, dyshohet se ka humbur kontrollin mbi drejtimin e tij dhe motomjeti është përplasur me një shtyllë. Si pasojë e përplasjes, shtetasi O. M. ka humbur jetën në vendngjarje. Ndërsa pasagjeri, shtetasi D. C., 17 vjeç, është transportuar ",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T12:32:00+00:00",
-      "dateStr": "27 Sep, 12:32",
+      "date": "2026-09-27T16:34:16+00:00",
+      "dateStr": "27 Sep, 16:34",
       "isNew": true,
-      "id": "abc11790512320"
+      "id": "abc11790526856"
     },
     {
-      "title": "LONDËR – Ministri i Mbrojtjes: Rusia dhe Putini, kërcënimi më i madh për sigurinë e BM-së",
-      "link": "https://24-ore.com/londer-ministri-i-mbrojtjes-rusia-dhe-putini-kercenimi-me-i-madh-per-sigurine-e-bm-se/",
-      "description": "LONDËR, 27 shtator /ATSH-DPA/- Ministri britanik i Mbrojtjes, Wes Streeting, e ka cilësuar Rusinë dhe presidentin Vladimir Putin si kërcënimin më të madh për sigurinë e Britanisë së Madhe. Sipas tij, Britania e Madhe, sot përballet me rrezikun më të madh për t’u përfshirë në një luftë krahasuar me ç",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T12:30:14+00:00",
-      "dateStr": "27 Sep, 12:30",
-      "isNew": true,
-      "id": "24 31790512214"
-    },
-    {
-      "title": "LIVE- Rama kthehet nga SHBA, kryeministri u drejtohet me mesazh shqiptarëve",
-      "link": "https://abcnews.al/live-rama-kthehet-nga-shba-kryeministri-u-drejtohet-me-mesazh-shqiptareve/",
-      "description": "RINAS- Kryeministri i Shqipërisë, Edi Rama, ka mbërritur në Aeroportin Ndërkombëtar i Tiranës “Nënë Tereza” së bashku me delegacionin, i cili e ka shoqëruar gjatë vizitës së tij disa ditore në SHBA, ku mori pjesë në punimet e Asamblesë së Përgjithshme të Organizatës së Kombeve të Bashkuara Asamblenë",
+      "title": "Zjarr në Ndërnenas, rrezikohen sera dhe stalla",
+      "link": "https://abcnews.al/zjarr-ne-ndernenas-rrezikohen-sera-dhe-stalla/",
+      "description": "Një zjarr që ka nisur në anë të kanaleve vaditës në fshatin Ndërnenas të Libofshës ka marrë përmasa të mëdha, duke përfshirë sipërfaqe të konsiderueshme me toka bujqësore. Flakët kanë përfshirë edhe parcela të kultivuara me ullinj. Zjarri po avancon drejt serave diellore, stallave të bagëtive dhe ha",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T12:27:10+00:00",
-      "dateStr": "27 Sep, 12:27",
+      "date": "2026-09-27T16:22:36+00:00",
+      "dateStr": "27 Sep, 16:22",
       "isNew": true,
-      "id": "abc21790512030"
+      "id": "abc21790526156"
     },
     {
-      "title": "Një nderim për Justin Verlander: Tigrit e Detroitit veshën t-shirt-e të personalizuara para startit të tij të fundit në MLB",
-      "link": "https://24-ore.com/nje-nderim-per-justin-verlander-tigrit-e-detroitit-veshen-t-shirt-e-te-personalizuara-para-startit-te-tij-te-fundit-ne-mlb/",
-      "description": "Lojtarët e Detroit Tigers u paraqitën në Comerica Park me t-shirt-e të personalizuara që mbanin fotografi të Justin Verlander, si shenjë nderimi përpara st...",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T12:26:46+00:00",
-      "dateStr": "27 Sep, 12:26",
-      "isNew": true,
-      "id": "24 41790512006"
-    },
-    {
-      "title": "Kongresisti amerikan i shkruan Kurtit, kërkon marrëveshje për zgjedhjen e presidentit dhe shmangien e zgjedhjeve të reja",
-      "link": "https://24-ore.com/kongresisti-amerikan-i-shkruan-kurtit-kerkon-marreveshje-per-zgjedhjen-e-presidentit-dhe-shmangien-e-zgjedhjeve-te-reja/",
-      "description": "Kryeministri i Kosovës, Albin Kurti, ka pranuar një letër urimi nga kongresisti amerikan George Latimer, me rastin e konstituimit të Kuvendit, formimit të Qeverisë dhe fillimit të mandatit të ri si kryeministër. Në letrën e tij, Latimer ka shprehur gatishmërinë për të bashkëpunuar me Kurtin dhe inst",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T12:25:45+00:00",
-      "dateStr": "27 Sep, 12:25",
-      "isNew": true,
-      "id": "24 51790511945"
-    },
-    {
-      "title": "Stuhi e fortë në Evi dhe Skiathos: mbi 100 mm shi në Psachna, përmbytet rruga kryesore e ishullit",
-      "link": "https://24-ore.com/stuhi-e-forte-ne-evi-dhe-skiathos-mbi-100-mm-shi-ne-psachna-permbytet-rruga-kryesore-e-ishullit/",
-      "description": "Shira të rrëmbyeshëm gjatë natës shkaktuan përmbytje dhe rrëshqitje dheu në Evi dhe Skiathos, ndërsa EMY ka lëshuar paralajmërim \"portokalli\" për motin ekstrem në Greqinë qendrore dhe jugore.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T12:24:34+00:00",
-      "dateStr": "27 Sep, 12:24",
-      "isNew": true,
-      "id": "24 61790511874"
-    },
-    {
-      "title": "Štipi vazhdon me investime: salla e re sportive ‘Dhekson’, garazh me kate dhe ofertë e pasur kulturore",
-      "link": "https://24-ore.com/stipi-vazhdon-me-investime-salla-e-re-sportive-dhekson-garazh-me-kate-dhe-oferte-e-pasur-kulturore/",
-      "description": "Kryetari Ivan Jordanov prezantoi projektet e realizuara: rrugë të rekonstruara, garazh i ri parkimi, park mega prej 70 mijë m² dhe festivale.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T12:20:08+00:00",
-      "dateStr": "27 Sep, 12:20",
-      "isNew": true,
-      "id": "24 71790511608"
-    },
-    {
-      "title": "Kurti pranon letër urimi nga kongresisti amerikan George Latimer: kërkohet marrëveshje për presidentin e ri",
-      "link": "https://24-ore.com/kurti-pranon-leter-urimi-nga-kongresisti-amerikan-george-latimer-kerkohet-marreveshje-per-presidentin-e-ri/",
-      "description": "Kongresisti amerikan George Latimer i dërgoi letër urimi kryeministrit Albin Kurti, duke inkurajuar partitë politike në Kosovë që të arrijnë marrëveshje për zgjedhjen e presidentit të ri dhe të shmangin një cikël tjetër zgjedhjesh parlamentare.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T12:18:46+00:00",
-      "dateStr": "27 Sep, 12:18",
-      "isNew": true,
-      "id": "24 81790511526"
-    },
-    {
-      "title": "“No Guns 5”, pranga 66-vjeçarit në Fier, iu gjetën me armë zjarri automatike në banesë dhe municion",
-      "link": "https://24-ore.com/no-guns-5-pranga-66-vjecarit-ne-fier-iu-gjeten-me-arme-zjarri-automatike-ne-banese-dhe-municion/",
-      "description": "Policia e Fierit ka finalizuar dy operacione për armëmbajtje pa leje dhe verifikimin e automjeteve luksoze. Në operacionin “No Guns 5”, u arrestua Rexhep Mehmeti, 66 vjeç, banues në Fier. Gjatë kontrollit në banesën e tij u sekuestruan një armë zjarri automatike dhe një krehër me 29 fishekë. Ndërkoh",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T12:16:50+00:00",
-      "dateStr": "27 Sep, 12:16",
-      "isNew": true,
-      "id": "24 91790511410"
-    },
-    {
-      "title": "Zjarr në qendër të qytetit të Shkodrës, flakët përfshijnë çatinë e një hoteli",
-      "link": "https://abcnews.al/zjarr-ne-qender-te-qytetit-te-shkodres-flaket-perfshijne-catine-e-nje-hoteli/",
-      "description": "SHKODËR- Një zjarr ka rënë në çatinë e një hoteli në qendër të qytetit, duke shkaktuar panik te banorët dhe kalimtarët. Menjëherë në vendngjarje kanë mbërritur tre mjete zjarrfikëse, të cilat kanë ndërhyrë për shuarjen e flakëve. Pas ndërhyrjes së zjarrfikësve, zjarri është neutralizuar. Nga informa",
+      "title": "Rusia rrit taksat për konsumatorët, Kremlini kërkon më shumë financime për luftën në Ukrainë",
+      "link": "https://abcnews.al/rusia-rrit-taksat-per-konsumatoret-kremlini-kerkon-me-shume-financime-per-luften-ne-ukraine/",
+      "description": "Qeveria ruse ka vendosur të rrisë taksat për konsumatorët, në një përpjekje për të siguruar më shumë të ardhura për financimin e luftës në Ukrainë. Masa vjen në një kohë kur deficiti buxhetor i Rusisë është rritur ndjeshëm dhe rezervat financiare po pakësohen. Sipas të dhënave zyrtare të institucion",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T12:09:06+00:00",
-      "dateStr": "27 Sep, 12:09",
+      "date": "2026-09-27T16:15:13+00:00",
+      "dateStr": "27 Sep, 16:15",
       "isNew": true,
-      "id": "abc31790510946"
+      "id": "abc31790525713"
     },
     {
-      "title": "Zelensky: Rusia lëshoi ​​mbi dy mijë dronë ndaj Ukrainës brenda një jave",
-      "link": "https://abcnews.al/zelensky-rusia-leshoi-mbi-dy-mije-drone-ndaj-ukraines-brenda-nje-jave/",
-      "description": "Presidenti ukrainas Volodymyr Zelensky tha të dielën se Rusia ka lëshuar më shumë se 2.200 dronë, rreth 1.650 bomba ajrore dhe 38 raketa të llojeve të ndryshme ndaj Ukrainës këtë javë. Në një deklaratë në Telegram, Zelensky tha gjithashtu se tre persona u vranë në rajonin e Zaporizhzhias dhe një bur",
+      "title": "Papa Leo XIV përpara 700 mijë besimtarëve në Paris: Ndajeni besimin me njerëzit që takoni",
+      "link": "https://abcnews.al/papa-leo-xiv-perpara-700-mije-besimtareve-ne-paris-ndajeni-besimin-me-njerezit-qe-takoni/",
+      "description": "Papa Leo 14 vlerësoi energjinë, entuziazmin dhe përkushtimin e të rinjve ndaj Kishës Katolike, gjatë një meshe madhështore në Paris, ku morën pjesë rreth 700 mijë besimtarë. Ceremonia u zhvillua në Place de la Concorde, në ditën e dytë të vizitës katërditore të Papës në Francë. Përpara meshës, Papa ",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T11:50:09+00:00",
-      "dateStr": "27 Sep, 11:50",
+      "date": "2026-09-27T15:57:03+00:00",
+      "dateStr": "27 Sep, 15:57",
       "isNew": true,
-      "id": "abc41790509809"
+      "id": "abc41790524623"
     },
     {
-      "title": "Edicioni i mesditës me Sali Doçin, (27/09/2026)",
-      "link": "https://abcnews.al/edicioni-i-mesdites-me-sali-docin-27-09-2026/",
+      "title": "News Hour me Erneta Shevroja, (27/09/2026)",
+      "link": "https://abcnews.al/news-hour-me-erneta-shevroja-27-09-2026/",
       "description": "[...]Read More...",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T11:43:38+00:00",
-      "dateStr": "27 Sep, 11:43",
+      "date": "2026-09-27T15:44:14+00:00",
+      "dateStr": "27 Sep, 15:44",
       "isNew": true,
-      "id": "abc51790509418"
+      "id": "abc51790523854"
     },
     {
-      "title": "Atentati në Athinë, për larje hesapesh/ Shqiptari Denis Luli kyç gojën para autoriteteve, por hetimet e nxjerrin zbuluar",
-      "link": "https://abcnews.al/atentati-ne-athine-per-larje-hesapesh-shqiptari-denis-luli-kyc-gojen-para-hetuesve-por-hetimet-e-nxjerrin-zbuluar/",
-      "description": "ATHINË&#8211; Autoritetet greke ia atribuojnë sulmin e armatosur në një kafene në Agios Panteleimona, i cili rezultoi në plagosjen e një fëmije dhjetëvjeçar, një larjeje hesapesh midis grupeve kriminale. Informacione më të reja që dalin në dritë zbulojnë mënyrën e veprimit të katër autorëve. Persona",
-      "source": "ABC News",
+      "title": "Austria–Kosova LIVE: Ndiqeni këtu ndeshjen e Dardanëve",
+      "link": "https://www.lajme.al/372707-2/",
+      "description": "🇦🇹⚽🇽🇰 AUSTRI – KOSOVË Një përballje interesante po afron! Austria dhe Kosova do të matin forcat në një ndeshje ku pritet rivalitet, intensitet dhe shumë emocione në fushë. 🔥 Dardanët do të kërkojnë të tregojnë karakter dhe të luftojnë për çdo top, ndërsa Austria do të synojë të shfrytëzojë avantazhi",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-09-27T11:16:00+00:00",
-      "dateStr": "27 Sep, 11:16",
+      "date": "2026-09-27T15:42:36+00:00",
+      "dateStr": "27 Sep, 15:42",
       "isNew": true,
-      "id": "abc61790507760"
+      "id": "laj01790523756"
     },
     {
-      "title": "Konflikti SHBA-Iran/ Trump refuzon propozimin e Iranit: I papranueshëm!",
-      "link": "https://abcnews.al/konflikti-shba-iran-trump-refuzon-propozimin-e-iranit-i-papranueshem/",
-      "description": "Fundi i konfliktit SHBA-Iran mund të vijë vetëm përmes negociatave. Me këtë përgjigje reagoi Teherani zyrtar pasi Presidenti Donald Trump hodhi poshtë publikisht një propozim që do të çonte ne rihapjen e Ngushticën e Hormuzit. Trump u tha gazetarëve në Shtëpinë e Bardhë se propozimi i Iranit nuk ish",
+      "title": "Dua Lipa “shkrin” dasmën në Pejë! Ja si vallëzon me muzikë shqiptare",
+      "link": "https://www.lajme.al/dua-lipa-shkrin-dasmen-ne-peje-ja-si-vallezon-me-muzike-shqiptare/",
+      "description": "**Këngëtarja me famë ndërkombëtare, Dua Lipa, po qëndron prej disa ditësh në Pejë, ku po kalon kohë pranë familjarëve të saj.** Pas pjesëmarrjes në një festë familjare gjatë ditës së djeshme, artistja ka vijuar mbrëmjen në një atmosferë festive. Në disa pamje të publikuara në rrjetet sociale, Dua Li",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-27T15:34:28+00:00",
+      "dateStr": "27 Sep, 15:34",
+      "isNew": true,
+      "id": "laj11790523268"
+    },
+    {
+      "title": "Netanyahu: Egjipti s’na paralajmëroi për 7 Tetorin/ Qeveria izraelite hedh poshtë akuzat e medias amerikane",
+      "link": "https://abcnews.al/netanyahu-egjipti-sna-paralajmeroi-per-7-tetorin-qeveria-izraelite-hedh-poshte-akuzat-e-medias-amerikane/",
+      "description": "Zyra e kryeministrit izraelit Benjamin Netanyahu ka mohuar një raportim të ri të revistës amerikane The Atlantic, sipas të cilit kreu i inteligjencës egjiptiane kishte udhëtuar drejt Izraelit vetëm 11 ditë para sulmit të Hamasit, më 7 tetor 2023, për të paralajmëruar autoritetet izraelite për përgat",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T11:03:52+00:00",
-      "dateStr": "27 Sep, 11:03",
+      "date": "2026-09-27T15:30:31+00:00",
+      "dateStr": "27 Sep, 15:30",
       "isNew": true,
-      "id": "abc71790507032"
+      "id": "abc61790523031"
+    },
+    {
+      "title": "Publikohen formacionet: Ja si rreshtohet Kosova përballë Austrisë",
+      "link": "https://www.lajme.al/publikohen-formacionet-ja-si-rreshtohet-kosova-perballe-austrise/",
+      "description": "**Janë publikuar formacionet zyrtare për ndeshjen ndërmjet Austrisë dhe Kosovës, e vlefshme për Ligën e Kombeve.** Përfaqësuesja e Kosovës, e udhëhequr nga trajneri Franco Foda, do ta nisë takimin me këtë 11-she: **Arijanet Muriç – Ron Raçi, Ilir Krasniqi, Lumbardh Dellova – Dion Gallapeni, Leon Avd",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-27T15:27:19+00:00",
+      "dateStr": "27 Sep, 15:27",
+      "isNew": true,
+      "id": "laj21790522839"
+    },
+    {
+      "title": "Xhuli publikon video nga spitali në Zvicër, teksa pret lindjen e binjakëve",
+      "link": "https://www.lajme.al/xhuli-publikon-video-nga-spitali-ne-zvicer-teksa-pret-lindjen-e-binjakeve/",
+      "description": "**Xhuli Nura vazhdon të qëndrojë në një spital në Zvicër, ndërsa pret lindjen e binjakëve të saj.** Ish-banorja e **Big Brother VIP Kosova** ka bërë të ditur përmes një postimi në InstaStory se lindja ende nuk ka ndodhur dhe se ajo, së bashku me ekipin mjekësor, po përpiqen që procesi të zhvillohet ",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-27T15:20:42+00:00",
+      "dateStr": "27 Sep, 15:20",
+      "isNew": true,
+      "id": "laj31790522442"
+    },
+    {
+      "title": "Moskë-Berlin, takim surprizë pas 4 vitesh/ Ministri i Jashtëm gjerman: Rusia të tërhiqet nga përshkallëzimi",
+      "link": "https://abcnews.al/moske-berlin-takim-surprize-pas-4-vitesh-ministri-i-jashtem-gjerman-rusia-te-terhiqet-nga-pershkallezimi/",
+      "description": "Ministri i Jashtëm rus ka hedhur poshtë thirrjet e homologut gjerman që Moska të tërhiqet nga “hapat e rrezikshëm përshkallëzues”, duke akuzuar Berlinin se është sponsori kryesor i Ukrainës. Sergey Lavrov u takua me ministrin gjerman Johann Wadephul në kuadër të Asamblesë së Përgjithshme të OKB-se, ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T15:09:27+00:00",
+      "dateStr": "27 Sep, 15:09",
+      "isNew": true,
+      "id": "abc71790521767"
+    },
+    {
+      "title": "Eksperiment i pazakontë, lëshohen 30 mijë mushkonja sterile që nuk pickojnë",
+      "link": "https://abcnews.al/eksperiment-i-pazakonte-leshohen-30-mije-mushkonja-sterile-qe-nuk-pickojne/",
+      "description": "Rreth 30 mijë mushkonja meshkuj sterile do të lëshohen këtë të enjte në zonën e Alvalades, në Lisbonë, në kuadër të një projekti eksperimental që synon të reduktojë popullatën e mushkonjës tigër aziatike (Aedes albopictus), e njohur për aftësinë për të transmetuar sëmundje si dengue, Zika dhe ethet ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T14:40:05+00:00",
+      "dateStr": "27 Sep, 14:40",
+      "isNew": true,
+      "id": "abc81790520005"
+    },
+    {
+      "title": "Bitcoin mbi 84 mijë dollarë, pranë nivelit më të lartë në 8 muaj",
+      "link": "https://abcnews.al/bitcoin-mbi-84-mije-dollare-prane-nivelit-me-te-larte-ne-8-muaj/",
+      "description": "Bitcoin po tregtohet sot rreth 84,775 dollarë, me rritje prej rreth 0.7% gjatë ditës, sipas të dhënave të tregut financiar. Kriptovaluta më e madhe në botë ka mbetur pranë nivelit mbi 85 mijë dollarë, pasi ditë më parë arriti pikën më të lartë në 8 muaj. Sipas MarketWatch, Bitcoin kaloi nivelin prej",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T14:11:47+00:00",
+      "dateStr": "27 Sep, 14:11",
+      "isNew": true,
+      "id": "abc91790518307"
+    },
+    {
+      "title": "LAJMI I FUNDIT: Një tërmet i fuqishem tronditi vendin",
+      "link": "https://www.lajme.al/lajmi-i-fundit-nje-termet-i-fuqishem-tronditi-vendin/",
+      "description": "Sipas të dhënave të disponueshme nga Observatori Sizmologjik pranë Fakultetit të Shkencave Matematiko-Natyrore në Shkup, sot, në orën 14:04, është regjistruar një tërmet me epiqendër në zonën epiqendrore të Prespës, rreth 127 km në jugperëndim të Shkupit. Tërmeti ka pasur magnitudë lokale ML 3.3 sip",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-27T13:22:27+00:00",
+      "dateStr": "27 Sep, 13:22",
+      "isNew": true,
+      "id": "laj41790515347"
     },
     {
       "title": "Aksion i madh në veri të Kosovës, nëntë të arrestuar",
@@ -210,29 +287,7 @@
       "date": "2026-09-27T11:02:27+00:00",
       "dateStr": "27 Sep, 11:02",
       "isNew": true,
-      "id": "laj01790506947"
-    },
-    {
-      "title": "Spanja “tremb” edhe Evropën/ “Furitë e Kuqe” mundën me përmbysje 3-2 Anglinë në “Wembley”",
-      "link": "https://abcnews.al/spanja-tremb-edhe-evropen-furite-e-kuqe-munden-me-permbysje-3-2-angline-ne-wembley/",
-      "description": "Siç e theksojnë me të drejtë mediat spanjolle, u dha një mesazh. Spanja, kampione e botës, e nisi me fitore edicionin e ri të Ligës së Kombeve, dhe me çfarë suksesi. Në një tempull të futbollit si “Wembley” i Londrës u arrit triumfi 3-2 ndaj Anglisë vendase, e pra ndaj njërit prej rivalëve më të [..",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-27T10:53:32+00:00",
-      "dateStr": "27 Sep, 10:53",
-      "isNew": true,
-      "id": "abc81790506412"
-    },
-    {
-      "title": "Kuqezinjtë, me besim për të ardhmen/ Lojtarët e Kombëtares, optimistë pas fitores me bjellorusët",
-      "link": "https://abcnews.al/kuqezinjte-me-besim-per-te-ardhmen-lojtaret-e-kombetares-optimiste-pas-fitores-me-bjelloruset/",
-      "description": "Ndoshta edhe ata vetë nuk ishin plotësisht të bindur. Eliminimi nga Botërori, ndryshimi I trajnerit, dhe sidomos humbja në dy miqësoret e kaluara, sikur i kishin tronditur lojtarët e kombëtares, ndonëse Bjellorusia kuptoi se gjithçka qëndronte ndryshe. Katër prej kuqezinjve folën pas fitores 2-0, dh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-27T10:50:31+00:00",
-      "dateStr": "27 Sep, 10:50",
-      "isNew": true,
-      "id": "abc91790506231"
+      "id": "laj51790506947"
     },
     {
       "title": "Diell apo shi? Ja çfarë pritet sot në rajon",
@@ -243,7 +298,7 @@
       "date": "2026-09-26T23:45:48+00:00",
       "dateStr": "26 Sep, 23:45",
       "isNew": true,
-      "id": "laj11790466348"
+      "id": "laj61790466348"
     },
     {
       "title": "Ja cila është Pozita më e mirë për të mbetur shtatzënë",
@@ -254,7 +309,7 @@
       "date": "2026-09-26T19:43:23+00:00",
       "dateStr": "26 Sep, 19:43",
       "isNew": true,
-      "id": "laj21790451803"
+      "id": "laj71790451803"
     },
     {
       "title": "“Sun po pres deri në mbramje me mar tragetin dhe me ik prej Kosoves, jam shume i zhgenjyer…”",
@@ -265,7 +320,7 @@
       "date": "2026-09-26T19:38:17+00:00",
       "dateStr": "26 Sep, 19:38",
       "isNew": true,
-      "id": "laj31790451497"
+      "id": "laj81790451497"
     },
     {
       "title": "Trump i përgjigjet ofertës së Iranit për Hormuzin – Ja çfarë vendosi?",
@@ -276,62 +331,7 @@
       "date": "2026-09-26T19:26:48+00:00",
       "dateStr": "26 Sep, 19:26",
       "isNew": true,
-      "id": "laj41790450808"
-    },
-    {
-      "title": "Rama nga Nju Jorku: Zvërneci pritet të sjellë 4 miliardë euro, ja çfarë po studiohet",
-      "link": "https://www.lajme.al/rama-nga-nju-jorku-zverneci-pritet-te-sjelle-4-miliarde-euro-ja-cfare-po-studiohet/",
-      "description": "**Rama nga Nju Jorku: Projekti i Zvërnecit dhe Sazanit, 4 miliardë euro investim – po studiohet ndikimi në mjedis** Kryeministri Edi Rama ka folur për projektet e planifikuara në **Zvërnec dhe Sazan**, gjatë një takimi me komunitetin shqiptar në Staten Island të Nju Jorkut. Rama deklaroi se projekti",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T19:07:01+00:00",
-      "dateStr": "26 Sep, 19:07",
-      "isNew": true,
-      "id": "laj51790449621"
-    },
-    {
-      "title": "DETAJE TRONDITËSE: Jastëk mbi fytyrë dhe goditje në kokë, 28-vjeçarja dyshohet se sulmoi gjyshen e burrit",
-      "link": "https://www.lajme.al/detaje-tronditese-jastek-mbi-fytyre-dhe-goditje-ne-koke-28-vjecarja-dyshohet-se-sulmoi-gjyshen-e-burrit/",
-      "description": "**28-vjeçarja dyshohet se tentoi ta vriste gjyshen e bashkëshortit, Prokuroria nis hetimet** Prokuroria Themelore Publike në Shkup ka nisur hetim ndaj një 28-vjeçareje, e cila dyshohet se gjatë një rasti të dhunës në familje është përpjekur t’i marrë jetën gjyshes së bashkëshortit, me të cilën jeton",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T18:58:55+00:00",
-      "dateStr": "26 Sep, 18:58",
-      "isNew": true,
-      "id": "laj61790449135"
-    },
-    {
-      "title": "Zbulohet sa kosovar morën viza për shtetet e BE-së nga 2020 deri në 2025",
-      "link": "https://www.lajme.al/zbulohet-sa-kosovar-moren-viza-per-shtetet-e-be-se-nga-2020-deri-ne-2025/",
-      "description": "**Mbi 250 mijë kosovarë morën leje qëndrimi në vendet e BE-së gjatë viteve 2020–2025** Instituti GAP ka publikuar të dhëna lidhur me emigrimin e qytetarëve të Kosovës drejt vendeve të Bashkimit Evropian. Sipas të dhënave të publikuara, vetëm gjatë vitit **2025**, rreth **44 mijë shtetas të Kosovës**",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T18:38:17+00:00",
-      "dateStr": "26 Sep, 18:38",
-      "isNew": true,
-      "id": "laj71790447897"
-    },
-    {
-      "title": "Shqipëria zbret në fushë ndaj Bjellorusisë – ndiqeni këtu LIVE!",
-      "link": "https://www.lajme.al/shqiperia-zbret-ne-fushe-ndaj-bjellorusise-ndiqeni-ketu-live/",
-      "description": "Ka nisur përballja mes Shqipërisë dhe Bjellorusisë në kuadër të Nations League. Kuqezinjtë synojnë një nisje pozitive në këtë sfidë, ndërsa vëmendja është përqendruar te “Air Albania”, ku po zhvillohet dueli i parë. PER TE SHIKUAR NDESHJEN NDIQENI LINKUN ME POSHT; https://futbollarena.com/shqippperi",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T18:24:02+00:00",
-      "dateStr": "26 Sep, 18:24",
-      "isNew": true,
-      "id": "laj81790447042"
-    },
-    {
-      "title": "E dhimbshme: Ky është 20-vjeçari që humbi jetën në aksidentin tragjik",
-      "link": "https://www.lajme.al/e-dhimbshme-ky-eshte-20-vjecari-qe-humbi-jeten-ne-aksidentin-tragjik/",
-      "description": "**Aksidenti tragjik në Lutogllav: Humb jetën 20-vjeçari Orlent Xhafiqi** Orlent Xhafiqi, 20-vjeçar, është viktima e aksidentit të rëndë që ndodhi gjatë orëve të para të mëngjesit të sotëm në fshatin Lutogllav të Prizrenit, raporton Sinjali. Sipas raportimeve, aksidenti ka ndodhur rreth orës 01:05, k",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T18:00:59+00:00",
-      "dateStr": "26 Sep, 18:00",
-      "isNew": true,
-      "id": "laj91790445659"
+      "id": "laj91790450808"
     }
   ]
 }
