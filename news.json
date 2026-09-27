@@ -1,150 +1,238 @@
 {
-  "lastUpdated": "2026-09-27T06:06:27.731706+00:00",
+  "lastUpdated": "2026-09-27T12:39:37.965293+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "«Diasporican Abstraction» hapet në San Juan: mbi 50 artistë zënë gjithë Muzeun e Artit Bashkëkohor të Porto Rikos",
-      "link": "https://24-ore.com/diasporican-abstraction-hapet-ne-san-juan-mbi-50-artiste-zene-gjithe-muzeun-e-artit-bashkekohor-te-porto-rikos/",
-      "description": "Ekspozita «Diasporican Abstraction: Identities Beyond Representation» u hap mbrëmjen e së shtunës në Museo de Arte Contemporáneo de Puerto Rico në San Juan, me mbi 50 artistë që zënë gjithë ndërtesën e muzeut deri më 28 mars 2027.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T05:55:00+00:00",
-      "dateStr": "27 Sep, 05:55",
-      "isNew": true,
-      "id": "24 01790488500"
-    },
-    {
-      "title": "Mish viçi Stroganoff — receta klasike ruse me salcë kosi dhe kërpudha",
-      "link": "https://24-ore.com/mish-vici-stroganoff-receta-klasike-ruse-me-salce-kosi-dhe-kerpudha/",
-      "description": "Fesa të buta viçi në salcë kremoze me kërpudha dhe kos — gjella ruse që pushtoi botën, gati për 40 minuta.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T05:48:46+00:00",
-      "dateStr": "27 Sep, 05:48",
-      "isNew": true,
-      "id": "24 11790488126"
-    },
-    {
-      "title": "Vicky Kaushal mbyll fushatën e „Love & War“: first-look me cigare, plagë dhe shikim që s’të lëshon",
-      "link": "https://24-ore.com/vicky-kaushal-mbyll-fushaten-e-love-war-first-look-me-cigare-plage-dhe-shikim-qe-ste-leshon/",
-      "description": "Producentët e filmit të ri të Sanjay Leela Bhansali-t publikuan më 26 shtator posterin e Vicky Kaushal-it — të fundit të zbulimit tre-ditor të kastit pas Ranbir Kapoor dhe Alia Bhatt; premiera tani më 21 janar 2027.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T05:46:50+00:00",
-      "dateStr": "27 Sep, 05:46",
-      "isNew": true,
-      "id": "24 21790488010"
-    },
-    {
-      "title": "AGJENDA NDËRKOMBËTARE 27.9.2026",
-      "link": "https://24-ore.com/agjenda-nderkombetare-27-9-2026/",
-      "description": "ISLAMABAD (Pakistan) – Partia pakistaneze ”Tehreek-e-Insaf” (PTI) bën thirrje për një marshim proteste duke kërkuar lirimin e ish-liderit, Imran Khan. BANGKOK (Tajlandë) – Takim joformal i krerëve të delegacionit në Komitetin Ndërqeveritar Negociator (INC) mbi ndotjen nga plastika. LOS ANXHELES (SHB",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T05:45:58+00:00",
-      "dateStr": "27 Sep, 05:45",
-      "isNew": true,
-      "id": "24 31790487958"
-    },
-    {
-      "title": "Fiksoi në fotografi eksodin e shqiptarëve në Bari, ndahet nga jeta Luca Turi",
-      "link": "https://abcnews.al/fiksoi-ne-fotografi-eksodin-e-shqiptareve-ne-bari-ndahet-nga-jeta-luca-turi/",
-      "description": "Është ndarë nga jeta në moshën 82-vjeçare fotoreporteri italian Luca Turi, i njohur për dokumentimin përmes fotografive të disa prej ngjarjeve më të rëndësishme të historisë së qytetit të Barit dhe Pulias gjatë pesë dekadave të karrierës së tij. Mes pamjeve më të fuqishme të realizuara prej tij janë",
+      "title": "“Prokurorët po përdorin gazetarë kamikazë”, Rama: SPAK nxori “sekrete” hetimore",
+      "link": "https://abcnews.al/prokuroret-po-perdorin-gazetare-kamikaze-rama-spak-nxori-sekrete-hetimore/",
+      "description": "“Prokurorët po përdorin gazetarë kamikazë”, Rama: SPAK nxori “sekrete” hetimore [...]Read More...",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T05:35:29+00:00",
-      "dateStr": "27 Sep, 05:35",
+      "date": "2026-09-27T12:39:22+00:00",
+      "dateStr": "27 Sep, 12:39",
       "isNew": true,
-      "id": "abc01790487329"
+      "id": "abc01790512762"
     },
     {
-      "title": "Forcat qeveritare të Jemenit nisin ofensivë ajrore dhe tokësore në provincën Taiz — dhjetëra luftëtarë të Huthi-t të vrarë, mes tyre komandantë",
-      "link": "https://24-ore.com/forcat-qeveritare-te-jemenit-nisin-ofensive-ajrore-dhe-tokesore-ne-provincen-taiz-dhjetera-luftetare-te-huthi-t-te-vrare-mes-tyre-komandante/",
-      "description": "Qeveria e Jemenit thotë se operacionet shënjestruan pozicionet dhe linjat e furnizimit të Huthi-t në provincën Taiz; pretendimet nga fusha e betejës nuk janë verifikuar në mënyrë të pavarur.",
+      "title": "Sulmi i Rouvikonas me varre në fabrikën Violanta në Larisa: thyehen xhamat, videoja në rrjetet sociale",
+      "link": "https://24-ore.com/sulmi-i-rouvikonas-me-varre-ne-fabriken-violanta-ne-larisa-thyehen-xhamat-videoja-ne-rrjetet-sociale/",
+      "description": "Anëtarë të grupit \"Rouvikonas\" sulmuan fabrikën Violanta në Larisa duke shkaktuar dëme materiale, në protestë për lirimin me kushte të pronarit të fabrikës, Tziorziotis.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T05:25:31+00:00",
-      "dateStr": "27 Sep, 05:25",
+      "date": "2026-09-27T12:38:25+00:00",
+      "dateStr": "27 Sep, 12:38",
       "isNew": true,
-      "id": "24 41790486731"
+      "id": "24 01790512705"
     },
     {
-      "title": "Një legjendë e klubit: Jordan Morris thyen rekordin e golave të Seattle Sounders",
-      "link": "https://24-ore.com/nje-legjende-e-klubit-jordan-morris-thyen-rekordin-e-golave-te-seattle-sounders/",
-      "description": "Jordan Morris forcoi statusin e tij si legjendë e Seattle Sounders FC duke shënuar golin e parë në fitoren 3-1 ndaj Minnesota United në Lumen Field të shtu...",
+      "title": "Liria e Kosovës nuk gjykohet: Protestuesit nisin të mblidhen në Sheshin ‘Skënderbeu’ në Shkup",
+      "link": "https://24-ore.com/liria-e-kosoves-nuk-gjykohet-protestuesit-nisin-te-mblidhen-ne-sheshin-skenderbeu-ne-shkup/",
+      "description": "Protesta kundër vendimit dënues të Gjykatës Speciale në Hagë ndaj ish-krerëve të UÇK-së ka nisur të mbledhë qytetarët në Sheshin 'Skënderbeu' në Shkup, me flamuj kuq e zi e të UÇK-së, nën sloganin 'Liria e Kosovës nuk gjykohet'.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T05:22:05+00:00",
-      "dateStr": "27 Sep, 05:22",
+      "date": "2026-09-27T12:35:29+00:00",
+      "dateStr": "27 Sep, 12:35",
       "isNew": true,
-      "id": "24 51790486525"
+      "id": "24 11790512529"
     },
     {
-      "title": "Parashikimi i motit/ Si do variojnë temperaturat përgjatë ditës",
-      "link": "https://abcnews.al/parashikimi-i-motit-si-do-variojne-temperaturat-pergjate-dites-142/",
-      "description": "Në territorin shqiptar pritet një rritje e lehtë e presionit atmosferik, çka do të favorizojë motin kryesisht të kthjellët në pjesën më të madhe të vendit. Gjatë orëve të pasdites dhe më tej, vranësirat do të shtohen disi, veçanërisht në zonat verilindore dhe juglindore. Megjithatë, mundësia për res",
+      "title": "Vuçiçi pranon debatin me Listën Studentore në RTS: “Do të humbasin në çdo debat”",
+      "link": "https://24-ore.com/vucici-pranon-debatin-me-listen-studentore-ne-rts-do-te-humbasin-ne-cdo-debat/",
+      "description": "Presidenti i Serbisë, që jep sonte dorëheqjen, i është përgjigjur pozitivisht ftesës së RTS-së për debat parazgjedhor me kandidatin e studentëve Ilija Srdanoviç; studentët kërkojnë sqarime për temën, formatin dhe pjesëmarrësit.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T12:32:25+00:00",
+      "dateStr": "27 Sep, 12:32",
+      "isNew": true,
+      "id": "24 21790512345"
+    },
+    {
+      "title": "“Shteti do mbrojë SHISH”, Rama: Arrestimi i Hysenit shtangu partnerët",
+      "link": "https://abcnews.al/shteti-do-mbroje-shish-rama-arrestimi-i-hysenit-shtangu-partneret/",
+      "description": "“Arrestimi i Vlora Hysenit, masë ekstreme. Çdo akuzë duhet të hetohet deri në fund. SHISH u ekspozua përballë dëmit. Arrestimi i Hysenit shtangu partnerët. Nuk është hera e parë në historinë e botës që shefi i një shërbimi sekret merret i padehrur, por e para që institucioni i shërbimit sekret bëhet",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T05:20:08+00:00",
-      "dateStr": "27 Sep, 05:20",
+      "date": "2026-09-27T12:32:00+00:00",
+      "dateStr": "27 Sep, 12:32",
       "isNew": true,
-      "id": "abc11790486408"
+      "id": "abc11790512320"
     },
     {
-      "title": "Dita e dorëheqjes: Vuçiç e jep sonte rreth orës 20:00 — në 12:30 në RTS do ta shpjegojë vendimin",
-      "link": "https://24-ore.com/dita-e-doreheqjes-vucic-e-jep-sonte-rreth-ores-2000-ne-1230-ne-rts-do-ta-shpjegoje-vendimin/",
-      "description": "Presidenti i Serbisë, Aleksandër Vuçiç, njoftoi nga Nju-Jorku se do të japë sonte dorëheqjen nga posti i presidentit të Serbisë — siç njofton RTS-ja, momenti i dorëheqjes pritet të ndodhë rreth orës 20:00. Në atë moment, siç njofton RTS-ja, Vuçiç do t&#8217;u drejtohet qytetarëve serbë dhe do ta shp",
+      "title": "LONDËR – Ministri i Mbrojtjes: Rusia dhe Putini, kërcënimi më i madh për sigurinë e BM-së",
+      "link": "https://24-ore.com/londer-ministri-i-mbrojtjes-rusia-dhe-putini-kercenimi-me-i-madh-per-sigurine-e-bm-se/",
+      "description": "LONDËR, 27 shtator /ATSH-DPA/- Ministri britanik i Mbrojtjes, Wes Streeting, e ka cilësuar Rusinë dhe presidentin Vladimir Putin si kërcënimin më të madh për sigurinë e Britanisë së Madhe. Sipas tij, Britania e Madhe, sot përballet me rrezikun më të madh për t’u përfshirë në një luftë krahasuar me ç",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T05:17:49+00:00",
-      "dateStr": "27 Sep, 05:17",
+      "date": "2026-09-27T12:30:14+00:00",
+      "dateStr": "27 Sep, 12:30",
       "isNew": true,
-      "id": "24 61790486269"
+      "id": "24 31790512214"
     },
     {
-      "title": "Zjarrfikësit: asnjë denoncim për erë gazi para shpërthimit në Plakë — kontrolle të reja në ndërtesat fqinje nga e hëna",
-      "link": "https://24-ore.com/zjarrfikesit-asnje-denoncim-per-ere-gazi-para-shperthimit-ne-plake-kontrolle-te-reja-ne-ndertesat-fqinje-nga-e-hena/",
-      "description": "Hetuesit shqyrtojnë skenarin e shkëndijës nga çelësi i dritës; trupi i 76-vjeçares u gjet në banjë; 10 ekspertë kundër zjarrekrimit në vendngjarje.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-27T05:10:53+00:00",
-      "dateStr": "27 Sep, 05:10",
-      "isNew": true,
-      "id": "24 71790485853"
-    },
-    {
-      "title": "Horoskopi, çfarë parashikojnë yjet për ju",
-      "link": "https://abcnews.al/horoskopi-cfare-parashikojne-yjet-per-ju-272/",
-      "description": "Dashi Dite tejet e tensionuar kjo e sotmja për ata qe janë ne një lidhje. Nuk do i pranojnë aspak kritikat e partnerit dhe te gjithë do duan te bëjnë atë qe do ju thotë mendja. Beqaret do jene me te kujdesshëm sot dhe do bëjnë zgjedhjet e duhura. Gjendja e financave do ketë përmirësime [...]Read Mor",
+      "title": "LIVE- Rama kthehet nga SHBA, kryeministri u drejtohet me mesazh shqiptarëve",
+      "link": "https://abcnews.al/live-rama-kthehet-nga-shba-kryeministri-u-drejtohet-me-mesazh-shqiptareve/",
+      "description": "RINAS- Kryeministri i Shqipërisë, Edi Rama, ka mbërritur në Aeroportin Ndërkombëtar i Tiranës “Nënë Tereza” së bashku me delegacionin, i cili e ka shoqëruar gjatë vizitës së tij disa ditore në SHBA, ku mori pjesë në punimet e Asamblesë së Përgjithshme të Organizatës së Kombeve të Bashkuara Asamblenë",
       "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-27T05:10:35+00:00",
-      "dateStr": "27 Sep, 05:10",
+      "date": "2026-09-27T12:27:10+00:00",
+      "dateStr": "27 Sep, 12:27",
       "isNew": true,
-      "id": "abc21790485835"
+      "id": "abc21790512030"
     },
     {
-      "title": "Trump kthehet kundër kongresistes republikane Salazar: “zbutur” për kufirin?",
-      "link": "https://24-ore.com/trump-kthehet-kunder-kongresistes-republikane-salazar-zbutur-per-kufirin/",
-      "description": "Presidenti amerikan Donald Trump ka kthyer shpinën publikisht ndaj kongresistes republikane María Elvira Salazar, përfaqësueses së një distrikti në Miami të Floridës, pas një debati të ashpër brenda partisë mbi politikën e emigracionit, siç njofton Washington Examiner. Gjithçka nisi kur Salazar publ",
+      "title": "Një nderim për Justin Verlander: Tigrit e Detroitit veshën t-shirt-e të personalizuara para startit të tij të fundit në MLB",
+      "link": "https://24-ore.com/nje-nderim-per-justin-verlander-tigrit-e-detroitit-veshen-t-shirt-e-te-personalizuara-para-startit-te-tij-te-fundit-ne-mlb/",
+      "description": "Lojtarët e Detroit Tigers u paraqitën në Comerica Park me t-shirt-e të personalizuara që mbanin fotografi të Justin Verlander, si shenjë nderimi përpara st...",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T05:10:15+00:00",
-      "dateStr": "27 Sep, 05:10",
+      "date": "2026-09-27T12:26:46+00:00",
+      "dateStr": "27 Sep, 12:26",
       "isNew": true,
-      "id": "24 81790485815"
+      "id": "24 41790512006"
     },
     {
-      "title": "Paralajmërim portokalli në Greqi: EMY përditëson buletinin e emergjencës — stuhi të forta sot në Thesali, Sporade, Evi dhe Kretë",
-      "link": "https://24-ore.com/paralajmerim-portokalli-ne-greqi-emy-perditeson-buletinin-e-emergjences-stuhi-te-forta-sot-ne-thesali-sporade-evi-dhe-krete/",
-      "description": "Shira të rrëmbyeshëm dhe stuhi sot në Greqinë lindore e qendrore, erëra 7–8 bofor në Egje; fenomenet dobësohen në mbrëmje.",
+      "title": "Kongresisti amerikan i shkruan Kurtit, kërkon marrëveshje për zgjedhjen e presidentit dhe shmangien e zgjedhjeve të reja",
+      "link": "https://24-ore.com/kongresisti-amerikan-i-shkruan-kurtit-kerkon-marreveshje-per-zgjedhjen-e-presidentit-dhe-shmangien-e-zgjedhjeve-te-reja/",
+      "description": "Kryeministri i Kosovës, Albin Kurti, ka pranuar një letër urimi nga kongresisti amerikan George Latimer, me rastin e konstituimit të Kuvendit, formimit të Qeverisë dhe fillimit të mandatit të ri si kryeministër. Në letrën e tij, Latimer ka shprehur gatishmërinë për të bashkëpunuar me Kurtin dhe inst",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-27T05:06:13+00:00",
-      "dateStr": "27 Sep, 05:06",
+      "date": "2026-09-27T12:25:45+00:00",
+      "dateStr": "27 Sep, 12:25",
       "isNew": true,
-      "id": "24 91790485573"
+      "id": "24 51790511945"
+    },
+    {
+      "title": "Stuhi e fortë në Evi dhe Skiathos: mbi 100 mm shi në Psachna, përmbytet rruga kryesore e ishullit",
+      "link": "https://24-ore.com/stuhi-e-forte-ne-evi-dhe-skiathos-mbi-100-mm-shi-ne-psachna-permbytet-rruga-kryesore-e-ishullit/",
+      "description": "Shira të rrëmbyeshëm gjatë natës shkaktuan përmbytje dhe rrëshqitje dheu në Evi dhe Skiathos, ndërsa EMY ka lëshuar paralajmërim \"portokalli\" për motin ekstrem në Greqinë qendrore dhe jugore.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T12:24:34+00:00",
+      "dateStr": "27 Sep, 12:24",
+      "isNew": true,
+      "id": "24 61790511874"
+    },
+    {
+      "title": "Štipi vazhdon me investime: salla e re sportive ‘Dhekson’, garazh me kate dhe ofertë e pasur kulturore",
+      "link": "https://24-ore.com/stipi-vazhdon-me-investime-salla-e-re-sportive-dhekson-garazh-me-kate-dhe-oferte-e-pasur-kulturore/",
+      "description": "Kryetari Ivan Jordanov prezantoi projektet e realizuara: rrugë të rekonstruara, garazh i ri parkimi, park mega prej 70 mijë m² dhe festivale.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T12:20:08+00:00",
+      "dateStr": "27 Sep, 12:20",
+      "isNew": true,
+      "id": "24 71790511608"
+    },
+    {
+      "title": "Kurti pranon letër urimi nga kongresisti amerikan George Latimer: kërkohet marrëveshje për presidentin e ri",
+      "link": "https://24-ore.com/kurti-pranon-leter-urimi-nga-kongresisti-amerikan-george-latimer-kerkohet-marreveshje-per-presidentin-e-ri/",
+      "description": "Kongresisti amerikan George Latimer i dërgoi letër urimi kryeministrit Albin Kurti, duke inkurajuar partitë politike në Kosovë që të arrijnë marrëveshje për zgjedhjen e presidentit të ri dhe të shmangin një cikël tjetër zgjedhjesh parlamentare.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T12:18:46+00:00",
+      "dateStr": "27 Sep, 12:18",
+      "isNew": true,
+      "id": "24 81790511526"
+    },
+    {
+      "title": "“No Guns 5”, pranga 66-vjeçarit në Fier, iu gjetën me armë zjarri automatike në banesë dhe municion",
+      "link": "https://24-ore.com/no-guns-5-pranga-66-vjecarit-ne-fier-iu-gjeten-me-arme-zjarri-automatike-ne-banese-dhe-municion/",
+      "description": "Policia e Fierit ka finalizuar dy operacione për armëmbajtje pa leje dhe verifikimin e automjeteve luksoze. Në operacionin “No Guns 5”, u arrestua Rexhep Mehmeti, 66 vjeç, banues në Fier. Gjatë kontrollit në banesën e tij u sekuestruan një armë zjarri automatike dhe një krehër me 29 fishekë. Ndërkoh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-27T12:16:50+00:00",
+      "dateStr": "27 Sep, 12:16",
+      "isNew": true,
+      "id": "24 91790511410"
+    },
+    {
+      "title": "Zjarr në qendër të qytetit të Shkodrës, flakët përfshijnë çatinë e një hoteli",
+      "link": "https://abcnews.al/zjarr-ne-qender-te-qytetit-te-shkodres-flaket-perfshijne-catine-e-nje-hoteli/",
+      "description": "SHKODËR- Një zjarr ka rënë në çatinë e një hoteli në qendër të qytetit, duke shkaktuar panik te banorët dhe kalimtarët. Menjëherë në vendngjarje kanë mbërritur tre mjete zjarrfikëse, të cilat kanë ndërhyrë për shuarjen e flakëve. Pas ndërhyrjes së zjarrfikësve, zjarri është neutralizuar. Nga informa",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T12:09:06+00:00",
+      "dateStr": "27 Sep, 12:09",
+      "isNew": true,
+      "id": "abc31790510946"
+    },
+    {
+      "title": "Zelensky: Rusia lëshoi ​​mbi dy mijë dronë ndaj Ukrainës brenda një jave",
+      "link": "https://abcnews.al/zelensky-rusia-leshoi-mbi-dy-mije-drone-ndaj-ukraines-brenda-nje-jave/",
+      "description": "Presidenti ukrainas Volodymyr Zelensky tha të dielën se Rusia ka lëshuar më shumë se 2.200 dronë, rreth 1.650 bomba ajrore dhe 38 raketa të llojeve të ndryshme ndaj Ukrainës këtë javë. Në një deklaratë në Telegram, Zelensky tha gjithashtu se tre persona u vranë në rajonin e Zaporizhzhias dhe një bur",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T11:50:09+00:00",
+      "dateStr": "27 Sep, 11:50",
+      "isNew": true,
+      "id": "abc41790509809"
+    },
+    {
+      "title": "Edicioni i mesditës me Sali Doçin, (27/09/2026)",
+      "link": "https://abcnews.al/edicioni-i-mesdites-me-sali-docin-27-09-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T11:43:38+00:00",
+      "dateStr": "27 Sep, 11:43",
+      "isNew": true,
+      "id": "abc51790509418"
+    },
+    {
+      "title": "Atentati në Athinë, për larje hesapesh/ Shqiptari Denis Luli kyç gojën para autoriteteve, por hetimet e nxjerrin zbuluar",
+      "link": "https://abcnews.al/atentati-ne-athine-per-larje-hesapesh-shqiptari-denis-luli-kyc-gojen-para-hetuesve-por-hetimet-e-nxjerrin-zbuluar/",
+      "description": "ATHINË&#8211; Autoritetet greke ia atribuojnë sulmin e armatosur në një kafene në Agios Panteleimona, i cili rezultoi në plagosjen e një fëmije dhjetëvjeçar, një larjeje hesapesh midis grupeve kriminale. Informacione më të reja që dalin në dritë zbulojnë mënyrën e veprimit të katër autorëve. Persona",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T11:16:00+00:00",
+      "dateStr": "27 Sep, 11:16",
+      "isNew": true,
+      "id": "abc61790507760"
+    },
+    {
+      "title": "Konflikti SHBA-Iran/ Trump refuzon propozimin e Iranit: I papranueshëm!",
+      "link": "https://abcnews.al/konflikti-shba-iran-trump-refuzon-propozimin-e-iranit-i-papranueshem/",
+      "description": "Fundi i konfliktit SHBA-Iran mund të vijë vetëm përmes negociatave. Me këtë përgjigje reagoi Teherani zyrtar pasi Presidenti Donald Trump hodhi poshtë publikisht një propozim që do të çonte ne rihapjen e Ngushticën e Hormuzit. Trump u tha gazetarëve në Shtëpinë e Bardhë se propozimi i Iranit nuk ish",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T11:03:52+00:00",
+      "dateStr": "27 Sep, 11:03",
+      "isNew": true,
+      "id": "abc71790507032"
+    },
+    {
+      "title": "Aksion i madh në veri të Kosovës, nëntë të arrestuar",
+      "link": "https://www.lajme.al/aksion-i-madh-ne-veri-te-kosoves-nente-te-arrestuar/",
+      "description": "Nëntë persona arrestohen në Zubin Potok nën dyshimin për krime lufte Nëntë persona janë arrestuar në Zubin Potok nën dyshimin për kryerjen e veprës penale “Krime lufte kundër popullsisë civile”, ka njoftuar Prokuroria Speciale e Republikës së Kosovës. Sipas njoftimit zyrtar, Policia e Kosovës, përka",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-27T11:02:27+00:00",
+      "dateStr": "27 Sep, 11:02",
+      "isNew": true,
+      "id": "laj01790506947"
+    },
+    {
+      "title": "Spanja “tremb” edhe Evropën/ “Furitë e Kuqe” mundën me përmbysje 3-2 Anglinë në “Wembley”",
+      "link": "https://abcnews.al/spanja-tremb-edhe-evropen-furite-e-kuqe-munden-me-permbysje-3-2-angline-ne-wembley/",
+      "description": "Siç e theksojnë me të drejtë mediat spanjolle, u dha një mesazh. Spanja, kampione e botës, e nisi me fitore edicionin e ri të Ligës së Kombeve, dhe me çfarë suksesi. Në një tempull të futbollit si “Wembley” i Londrës u arrit triumfi 3-2 ndaj Anglisë vendase, e pra ndaj njërit prej rivalëve më të [..",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T10:53:32+00:00",
+      "dateStr": "27 Sep, 10:53",
+      "isNew": true,
+      "id": "abc81790506412"
+    },
+    {
+      "title": "Kuqezinjtë, me besim për të ardhmen/ Lojtarët e Kombëtares, optimistë pas fitores me bjellorusët",
+      "link": "https://abcnews.al/kuqezinjte-me-besim-per-te-ardhmen-lojtaret-e-kombetares-optimiste-pas-fitores-me-bjelloruset/",
+      "description": "Ndoshta edhe ata vetë nuk ishin plotësisht të bindur. Eliminimi nga Botërori, ndryshimi I trajnerit, dhe sidomos humbja në dy miqësoret e kaluara, sikur i kishin tronditur lojtarët e kombëtares, ndonëse Bjellorusia kuptoi se gjithçka qëndronte ndryshe. Katër prej kuqezinjve folën pas fitores 2-0, dh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-27T10:50:31+00:00",
+      "dateStr": "27 Sep, 10:50",
+      "isNew": true,
+      "id": "abc91790506231"
     },
     {
       "title": "Diell apo shi? Ja çfarë pritet sot në rajon",
@@ -155,84 +243,7 @@
       "date": "2026-09-26T23:45:48+00:00",
       "dateStr": "26 Sep, 23:45",
       "isNew": true,
-      "id": "laj01790466348"
-    },
-    {
-      "title": "Vizita e Papës në Francë/ Në ditën e dytë, mijëra besimtarë në Champe-Elysee për ta përshëndetur",
-      "link": "https://abcnews.al/vizita-e-papes-ne-france-ne-diten-e-dyte-mijera-besimtare-ne-champe-elysee-per-ta-pershendetur/",
-      "description": "Papa Leoni XIV vijoi vizitën e tij apostolike në Francë. Në ditën e dytë të qëndrimit në vend, të shtunën, kreu i Kishës Katolike zhvilloi disa takime në Paris, përpara se të udhëtonte drejt Lourdes, një prej vendeve më të rëndësishme të pelegrinazhit katolik. Gjatë paradites, Papa vizitoi qendrën e",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T21:49:49+00:00",
-      "dateStr": "26 Sep, 21:49",
-      "isNew": true,
-      "id": "abc31790459389"
-    },
-    {
-      "title": "“Senati amerikan e ka Shqipërinë prioritet”/ Beqiri: Wendt, ogur i mirë tre vjet pas ikjes së Yuri Kim",
-      "link": "https://abcnews.al/senati-amerikan-e-ka-shqiperine-prioritet-beqiri-ambasadori-wendt-ogur-i-mire-tre-vjet-pas-ikjes-se-yuri-kim/",
-      "description": "Ambasadori i ri i Shteteve të Bashkuara të Amerikës, Eric Wendt, ka nisur zyrtarisht misionin e tij diplomatik në Shqipëri, duke e bërë vendin tonë të parin në rajon me një kryediplomat të ri amerikan. Në një intervistë për “Ora e Njëmbëdhjetë” në ABC News, avokati Idajet Beqiri e cilësoi këtë ardhj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T21:34:39+00:00",
-      "dateStr": "26 Sep, 21:34",
-      "isNew": true,
-      "id": "abc41790458479"
-    },
-    {
-      "title": "Donika Gërvalla reagon për akuzat/ Ministrja e drejtësisë mohoi bashkëpunimin me Dhomat e Specializuara të Kosovës",
-      "link": "https://abcnews.al/donika-gervalla-reagon-per-akuzat-ministrja-e-drejtesise-mohoi-bashkepunimin-me-dhomat-e-specializuara-te-kosoves/",
-      "description": "Ministrja e Drejtësisë e Kosovës, Donika Gërvalla, mohoi se ka bashkëpunuar me Dhomat e Specializuara të Kosovës dhe tha se deklarata të tilla tashmë janë bërë të tepërta. Ajo u shpreh se që nga dita e aktgjykimit ndaj katërshes së Ushtrisë Çlirimtare të Kosovës, po punon për instancën e radhës, atë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T21:17:35+00:00",
-      "dateStr": "26 Sep, 21:17",
-      "isNew": true,
-      "id": "abc51790457455"
-    },
-    {
-      "title": "11 ditë në shesh kundër Hagës/ Mijëra qytetarë në Prishtinë protestuan për dënimin e 4 ish-krerëve të UÇK",
-      "link": "https://abcnews.al/11-dite-ne-shesh-kunder-hages-mijera-qytetare-ne-prishtine-protestuan-per-denimin-e-4-ish-krereve-te-uck/",
-      "description": "Për të 11-tën natë  radhazi, shumë qytetarë u mblodhën në sheshin “Skenderbeu” në Prishtinë për të protestuar kundër vendimit të Hagës ndaj ish-krerëve të UÇK-së Pavarësisht temperaturave të ulëta, shumë qytetarë u mblodhën me pankarta, me flamuj e me bluza me simbolet e UÇK-së për të shprehur pakën",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T21:03:51+00:00",
-      "dateStr": "26 Sep, 21:03",
-      "isNew": true,
-      "id": "abc61790456631"
-    },
-    {
-      "title": "Melania Trump zbulon një detaj të panjohur për jetën me Barron",
-      "link": "https://abcnews.al/melania-trump-zbulon-nje-detaj-te-panjohur-per-jeten-me-barron/",
-      "description": "Melania Trump ka bërë një rrëfim të rrallë për jetën familjare, duke folur për marrëdhënien me djalin e saj, Barron Trump, dhe ndryshimet që kanë sjellë vitet e fundit. Në një intervistë për emisionin “The Big Money Show” të Fox Business, Zonja e Parë e SHBA-së u pyet se si arrin të ruajë kohën për ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T21:00:12+00:00",
-      "dateStr": "26 Sep, 21:00",
-      "isNew": true,
-      "id": "abc71790456412"
-    },
-    {
-      "title": "Shqipëria mund Bjellorusinë/ Kuqezinjtë fitojnë pastër 2 me 0 në sfidën e parë në Nations League",
-      "link": "https://abcnews.al/shqiperia-mund-bjellorusine-kuqezinjte-fitojne-paster-2-me-0-ne-sfiden-e-pare-ne-nations-league/",
-      "description": "Ishte premtuar se do të ishte një skuadër tjetër. Këtë e tha trajneri I Shqipërisë Rolando Maran në prag të duelit ndaj Bjellorusisë, dhe të paktën këtë herë fjala I doli. Kombëtarja shqiptare e futbollit e nisi me fitore Ligën e Kombeve, ndërsa objektivi është për t’u ngjitur sërish në Nivelin B. N",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T20:45:53+00:00",
-      "dateStr": "26 Sep, 20:45",
-      "isNew": true,
-      "id": "abc81790455553"
-    },
-    {
-      "title": "Lavrov akuza të forta në OKB: Evropa po bllokon bisedimet e paqes me Ukrainën, Perëndimi po shkon drejt rrugës pa krye",
-      "link": "https://abcnews.al/lavrov-akuza-te-forta-ne-okb-evropa-po-bllokon-bisedimet-e-paqes-me-ukrainen-perendimi-po-shkon-drejt-rruges-pa-krye/",
-      "description": "Ministri i Jashtëm rus Sergey Lavrov akuzoi të shtunën vendet evropiane se po bëjnë “gjithçka që munden për të penguar” perspektivat e bisedimeve të paqes midis Rusisë dhe Ukrainës, gjatë një fjalimi në Asamblenë e Përgjithshme të OKB-së në Nju Jork. Lavrov akuzoi Perëndimin për “furnizim” të Ukrain",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-26T20:22:52+00:00",
-      "dateStr": "26 Sep, 20:22",
-      "isNew": true,
-      "id": "abc91790454172"
+      "id": "laj11790466348"
     },
     {
       "title": "Ja cila është Pozita më e mirë për të mbetur shtatzënë",
@@ -243,7 +254,7 @@
       "date": "2026-09-26T19:43:23+00:00",
       "dateStr": "26 Sep, 19:43",
       "isNew": true,
-      "id": "laj11790451803"
+      "id": "laj21790451803"
     },
     {
       "title": "“Sun po pres deri në mbramje me mar tragetin dhe me ik prej Kosoves, jam shume i zhgenjyer…”",
@@ -254,7 +265,7 @@
       "date": "2026-09-26T19:38:17+00:00",
       "dateStr": "26 Sep, 19:38",
       "isNew": true,
-      "id": "laj21790451497"
+      "id": "laj31790451497"
     },
     {
       "title": "Trump i përgjigjet ofertës së Iranit për Hormuzin – Ja çfarë vendosi?",
@@ -265,7 +276,7 @@
       "date": "2026-09-26T19:26:48+00:00",
       "dateStr": "26 Sep, 19:26",
       "isNew": true,
-      "id": "laj31790450808"
+      "id": "laj41790450808"
     },
     {
       "title": "Rama nga Nju Jorku: Zvërneci pritet të sjellë 4 miliardë euro, ja çfarë po studiohet",
@@ -276,7 +287,7 @@
       "date": "2026-09-26T19:07:01+00:00",
       "dateStr": "26 Sep, 19:07",
       "isNew": true,
-      "id": "laj41790449621"
+      "id": "laj51790449621"
     },
     {
       "title": "DETAJE TRONDITËSE: Jastëk mbi fytyrë dhe goditje në kokë, 28-vjeçarja dyshohet se sulmoi gjyshen e burrit",
@@ -287,7 +298,7 @@
       "date": "2026-09-26T18:58:55+00:00",
       "dateStr": "26 Sep, 18:58",
       "isNew": true,
-      "id": "laj51790449135"
+      "id": "laj61790449135"
     },
     {
       "title": "Zbulohet sa kosovar morën viza për shtetet e BE-së nga 2020 deri në 2025",
@@ -298,7 +309,7 @@
       "date": "2026-09-26T18:38:17+00:00",
       "dateStr": "26 Sep, 18:38",
       "isNew": true,
-      "id": "laj61790447897"
+      "id": "laj71790447897"
     },
     {
       "title": "Shqipëria zbret në fushë ndaj Bjellorusisë – ndiqeni këtu LIVE!",
@@ -309,7 +320,7 @@
       "date": "2026-09-26T18:24:02+00:00",
       "dateStr": "26 Sep, 18:24",
       "isNew": true,
-      "id": "laj71790447042"
+      "id": "laj81790447042"
     },
     {
       "title": "E dhimbshme: Ky është 20-vjeçari që humbi jetën në aksidentin tragjik",
@@ -320,18 +331,7 @@
       "date": "2026-09-26T18:00:59+00:00",
       "dateStr": "26 Sep, 18:00",
       "isNew": true,
-      "id": "laj81790445659"
-    },
-    {
-      "title": "LAJMI I FUNDIT: I digjet shtëpia gazetarit Vudi Xhymshiti, publikohen pamjet",
-      "link": "https://www.lajme.al/lajmi-i-fundit-i-digjet-shtepia-gazetarit-vudi-xhymshiti-publikohen-pamjet/",
-      "description": "NË 1999 E DOGJËN FORCAT E 🇷🇸 MILLOSHEVIQIT. SOT, SHTËPISË SË PRINDËRVE TË MI IU VU ZJARRI PËRSËRI. Kjo është shtëpia e prindërve të mi të ndjerë. Sot është e djegur përsëri. Në vitin 1999, këtë shtëpi e dogjën forcat serbe të regjimit të Millosheviqit, gjatë fushatës së dokumentuar të dëbimeve, vras",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T16:20:17+00:00",
-      "dateStr": "26 Sep, 16:20",
-      "isNew": true,
-      "id": "laj91790439617"
+      "id": "laj91790445659"
     }
   ]
 }
