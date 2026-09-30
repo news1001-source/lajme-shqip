@@ -1,128 +1,183 @@
 {
-  "lastUpdated": "2026-09-29T21:13:23.230666+00:00",
+  "lastUpdated": "2026-09-30T00:58:59.499288+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Olympiacos arratiset nga Kaunas: Fournier hero me 19 pikë, fitore 93-91 ndaj Zalgiris",
-      "link": "https://24-ore.com/olympiacos-arratiset-nga-kaunas-fournier-hero-me-19-pike-fitore-93-91-ndaj-zalgiris/",
-      "description": "Francezi vendosi me dy trojka në 1.5 minutat e fundit; \"kuqebardhët\" 2-0 në EuroLeague, me Shaquille O'Neal në tribuna",
+      "title": "Khinkali gjeorgjiane — petëzat tradicionale me mish, lëng aromatik dhe erëza",
+      "link": "https://24-ore.com/khinkali-gjeorgjiane-petezat-tradicionale-me-mish-leng-aromatik-dhe-ereza/",
+      "description": "Petëzat e famshme gjeorgjiane me mbushje mishi dhe lëngun aromatik brenda — një pjatë tradicionale nga Kaukazi që hahet me duar dhe shërbehet me piper të zi.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-29T21:12:54+00:00",
-      "dateStr": "29 Sep, 21:12",
+      "date": "2026-09-30T00:50:43+00:00",
+      "dateStr": "30 Sep, 00:50",
       "isNew": true,
-      "id": "24 01790716374"
+      "id": "24 01790729443"
     },
     {
-      "title": "Vagiannidis jashtë për ndeshjet me Holandën dhe Gjermaninë: Jovanoviç thërret Tsapras",
-      "link": "https://24-ore.com/vagiannidis-jashte-per-ndeshjet-me-holanden-dhe-gjermanine-jovanovic-therret-tsapras/",
-      "description": "Mbrojtësi i djathtë nuk e kaloi dëmtimin; Triantafyllos Tsapras iu bashkua skuadrës për dy ndeshjet e Nations League më 1 dhe 4 tetor në \"Toumba\"",
+      "title": "«Anything But Ghosts», filmi i ri i Curry Barker pas «Obsession», del më 7 maj 2027 — në kast Aaron Paul dhe Bryce Dallas Howard",
+      "link": "https://24-ore.com/anything-but-ghosts-filmi-i-ri-i-curry-barker-7-maj-2027/",
+      "description": "Focus Features zyrtarizoi datën e publikimit të «Anything But Ghosts», horror-komedisë së re të Curry Barker pas suksesit të «Obsession»: 7 maj 2027, në kinematë e gjithë SHBA-së.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-29T21:09:32+00:00",
-      "dateStr": "29 Sep, 21:09",
+      "date": "2026-09-30T00:47:54+00:00",
+      "dateStr": "30 Sep, 00:47",
       "isNew": true,
-      "id": "24 11790716172"
+      "id": "24 11790729274"
     },
     {
-      "title": "Partizani e mposht Parisin 92:79 në Euroligë — beogradasi me 2 fitore në 2 ndeshje",
-      "link": "https://24-ore.com/partizani-e-mposht-parisin-9279-ne-eurolige-beogradasi-me-2-fitore-ne-2-ndeshje/",
-      "description": "Partizani fitoi 92:79 në transfertë ndaj Parisit në xhiron e dytë të Euroligës dhe mbetet e vetmja skuadër serbe me bilanc maksimal, pasi Crvena Zvezda humbi sonte në Beograd.",
+      "title": "Kryeministri libanez Salam në Uashington: senatorja Shaheen ngre legjislacionin dypartiak për çarmatimin e Hezbollahut",
+      "link": "https://24-ore.com/kryeministri-libanez-salam-ne-uashington-senatorja-shaheen-ngre-legjislacionin-dypartiak-per-carmatimin-e-hezbollahut/",
+      "description": "Kryeministri libanez Nawaf Salam u takua në Uashington me anëtarë të Komisionit të Senatit për Marrëdhëniet me Jashtë, ku senatorja Jeanne Shaheen ngriti legjislacionin dypartiak për çarmatimin e Hezbollahut, reformat bankare dhe forcimin e shtetit libanez.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-29T21:06:57+00:00",
-      "dateStr": "29 Sep, 21:06",
+      "date": "2026-09-30T00:30:39+00:00",
+      "dateStr": "30 Sep, 00:30",
       "isNew": true,
-      "id": "24 21790716017"
+      "id": "24 21790728239"
     },
     {
-      "title": "Sllovenia mposht Maqedoninë e Veriut 2-0 në Ligën e Kombeve",
-      "link": "https://24-ore.com/sllovenia-mposht-maqedonine-e-veriut-2-0-ne-ligen-e-kombeve/",
-      "description": "Sllovenia fitoi 2-0 ndaj Maqedonisë së Veriut në raundin e dytë të Ligës së Kombeve (Grupi B1), në ndeshjen e luajtur në stadiumin 'Stožice' në Lubjanë, siç njofton agjencia maqedonase Makfax.",
+      "title": "Policia britanike mbron lirimin e 5 të dyshuarve pranë RAF Fairford dhe zbut alarmin, në kundërshtim me narrativën amerikane",
+      "link": "https://24-ore.com/policia-britanike-mbron-lirimin-e-5-te-dyshuarve-prane-raf-fairford-dhe-zbut-alarmin-ne-kundershtim-me-narrativen-amerikane/",
+      "description": "Policia britanike mbrojti publikisht vendimin për lirimin me kusht të pesë të dyshuarve të arrestuar pranë bazës ajrore RAF Fairford dhe zbuti vlerësimin e rrezikut — një qëndrim që bie ndesh me pretendimet e Uashingtonit për një lidhje të mundshme me Iranin.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-29T21:05:48+00:00",
-      "dateStr": "29 Sep, 21:05",
+      "date": "2026-09-30T00:28:45+00:00",
+      "dateStr": "30 Sep, 00:28",
       "isNew": true,
-      "id": "24 31790715948"
+      "id": "24 31790728125"
     },
     {
-      "title": "Kelli Finglass, drejtorja e Dallas Cowboys Cheerleaders, debuton në Broadway me «Chicago»-në",
-      "link": "https://24-ore.com/kelli-finglass-drejtorja-e-dallas-cowboys-cheerleaders-debuton-ne-broadway-me-chicago-ne/",
-      "description": "Një tjetër yll i Dallas Cowboys Cheerleaders po ngjitet në skenën e Broadway-t. Kelli Finglass, e cila ka udhëhequr Dallas Cowboys Cheerleaders për 35 vjet, do të bëjë debutimin e saj në Broadway duke dorëzuar monologun hapës të muzikali «Chicago» në performancën e orës 20:00 të 3 tetorit në Ambassa",
+      "title": "«The Blue Parts» e Liba Vaynberg-it: premiera botërore Off-Broadway shënon rikthimin e Roundabout Underground",
+      "link": "https://24-ore.com/the-blue-parts-e-liba-vaynberg-it-premiera-boterore-off-broadway-shenon-rikthimin-e-roundabout-underground/",
+      "description": "Drama intime për migracionin në Brighton Beach nis preview-t më 18 shkurt 2027 në Black Box Theatre të New York-ut — biletat \"paguaj-sa-të-duash\" nga 10 dollarë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-29T21:05:04+00:00",
-      "dateStr": "29 Sep, 21:05",
+      "date": "2026-09-30T00:02:34+00:00",
+      "dateStr": "30 Sep, 00:02",
       "isNew": true,
-      "id": "24 41790715904"
+      "id": "24 41790726554"
     },
     {
-      "title": "Spanja shkatërron Kroacinë, shkëlqen katalanasi Yamal! Fitojnë Anglia dhe Zvicra, ja rezultatet e mbrëmjes në Ligën e Kom",
-      "link": "https://24-ore.com/spanja-shkaterron-kroacine-shkelqen-katalanasi-yamal-fitojne-anglia-dhe-zvicra-ja-rezultatet-e-mbremjes-ne-ligen-e-kom/",
-      "description": "Spanja ka dhuruar një tjetër spektakël në Ligën e Kombeve, duke mposhtur Kroacinë 4-1 në Sevilla, në një ndeshje ku protagonist kryesor ishte sërish Lamine Yamal. Kampionët e botës vijojnë kështu ecurinë pozitive në Grupin A3, ndërsa edhe Anglia ka marrë fitoren e parë në këtë edicion. Yamal ishte n",
+      "title": "«Tidal Crossing»: Jean Shin kthen kamuflazhin ushtarak në instalacion kundër luftës në Brooklyn Army Terminal",
+      "link": "https://24-ore.com/tidal-crossing-jean-shin-kthen-kamuflazhin-ushtarak-ne-instalacion-kunder-luftes-ne-brooklyn-army-terminal/",
+      "description": "Artistja koreano-amerikane Jean Shin ka krijuar instalacionin e ri «Tidal Crossing» (2026) në Brooklyn Army Terminal në Sunset Park të Brooklyn-it. Vepra përbëhet nga tri rrjeta në stil ushtarak të vendosura brenda harqeve të skybridge-it historik, mes të cilave artistja ka shtuar banderola kamuflaz",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-09-29T21:04:19+00:00",
+      "date": "2026-09-29T23:57:03+00:00",
+      "dateStr": "29 Sep, 23:57",
+      "isNew": true,
+      "id": "24 51790726223"
+    },
+    {
+      "title": "Tapenade provençale — salca klasike franceze me ullinj të zi, kapri dhe ançues",
+      "link": "https://24-ore.com/tapenade-provencale-salca-klasike-franceze-me-ullinj-te-zi-kapri-dhe-ancues/",
+      "description": "Salca aromatike e Provencës me ullinj të zi, kapri, ançues dhe vaj ulliri — e përkryer mbi bukë të thekur, si shoqëruese e djathërave ose si meze festive.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-29T23:50:02+00:00",
+      "dateStr": "29 Sep, 23:50",
+      "isNew": true,
+      "id": "24 61790725802"
+    },
+    {
+      "title": "Vuçiç dënon dhunën pas përleshjes mes aktivistëve të SNS-së dhe qytetarëve në Novi Sad",
+      "link": "https://24-ore.com/vucic-denon-dhunen-pas-perleshjes-mes-aktivisteve-te-sns-se-dhe-qytetareve-ne-novi-sad/",
+      "description": "Incidenti ndodhi mbrëmjen e kaluar pranë tregut të Futoskës në Novi Sad, ku një përpjekje për të rrëmbyer flamurin e mbështetësve të listës studentore shndërroi tensionin në përleshje fizike.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-29T23:48:57+00:00",
+      "dateStr": "29 Sep, 23:48",
+      "isNew": true,
+      "id": "24 71790725737"
+    },
+    {
+      "title": "James Jordan i bashkohet kastit të «They Follow»: aktori i «Landman»-it në vazhdimin e horror-it legjendar të David Robert Mitchell",
+      "link": "https://24-ore.com/james-jordan-i-bashkohet-kastit-te-they-follow-aktori-i-landman-it-ne-vazhdimin-e-horror-it-legjendar-te-david-robert-mitchell/",
+      "description": "Maika Monroe rikthehet si Jay Height në vazhdimin e shumëpritur të «It Follows» (2015); detajet e rolit të Jordan dhe intrigës mbeten të fshehta",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-29T23:45:04+00:00",
+      "dateStr": "29 Sep, 23:45",
+      "isNew": true,
+      "id": "24 81790725504"
+    },
+    {
+      "title": "Tubim mbështetës në Bežanijska kosa për këshilltaren Tanja Mićić: “E dimë se drejtësia nuk është e njëjtë për të gjithë”",
+      "link": "https://24-ore.com/tubim-mbeshtetes-ne-bezanijska-kosa-per-keshilltaren-tanja-micic-e-dime-se-drejtesia-nuk-eshte-e-njejte-per-te-gjithe/",
+      "description": "Mbrëmjen e së hënës, në lagjen Bežanijska kosa të Beogradit u mbajt tubimi mbështetës &#8220;Tanja ne laže&#8221; (Tanja nuk gënjen), i organizuar në shenjë solidariteti me këshilltaren e lëvizjes &#8220;Kreni-promeni&#8221; Tanja Mićić, e cila të dielën në mbrëmje pretendon se u sulmua nga kryebash",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-09-29T23:18:41+00:00",
+      "dateStr": "29 Sep, 23:18",
+      "isNew": true,
+      "id": "24 91790723921"
+    },
+    {
+      "title": "“Shqipëria pranon statusin e veçantë”/ Integrimi në BE, Nura: Ballkani Perëndimor, rëndësi gjeopolitike për Europën",
+      "link": "https://abcnews.al/shqiperia-pranon-statusin-e-vecante-integrimi-ne-be-nura-ballkani-perendimor-rendesi-gjeopolitike-per-europen/",
+      "description": "Gazetari Artur Nura thotë se presidentja e KE, Ursula Von der Leyen do vijë me mesazh të qartë në Tiranë, se Shqipëria është pjesë e Europës. Në një intervistë për &#8220;Ora e Njëmbëdhjetë&#8221; në ABC News, Nura u shpreh se kryeministri Edi Rama ka qenë dakord për anëtarësim në BE pa të drejtën e",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-29T21:34:04+00:00",
+      "dateStr": "29 Sep, 21:34",
+      "isNew": true,
+      "id": "abc01790717644"
+    },
+    {
+      "title": "Zyrtare, Man City është fajtor/ Organizatorët e kampionatit anglez konfirmojnë akuzat",
+      "link": "https://abcnews.al/zyrtare-man-city-eshte-fajtor-organizatoret-e-kampionatit-anglez-konfirmojne-akuzat/",
+      "description": "Premier Liga angleze konfirmon zyrtarisht se Mançester Siti është gjetur fajtor për thuajse të gjitha akuzat për shkeljen e rregullave financiare në futboll. Një komunikatë e Premier Ligës informon se Siti u gjet fajtor nga një komision i pavarur, i cili saktësoi se klubi ka firmosur kontrata sponso",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-29T21:08:09+00:00",
+      "dateStr": "29 Sep, 21:08",
+      "isNew": true,
+      "id": "abc11790716089"
+    },
+    {
+      "title": "14 ditë në shesh për të protestuar/ Kundërshtohet vendimi i Hagës për dënimin e 4 ish krerëve të UÇK",
+      "link": "https://abcnews.al/14-dite-ne-shesh-per-te-protestuar-kundershtohet-vendimi-i-hages-per-denimin-e-4-ish-krereve-te-uck/",
+      "description": "Qytetarët në Prishtinë u mblodhën për të 14-ën natë rradhazi në sheshin Skeënderbeu për të protestua kundër vendimit të Gjykatës Specialew në Hagë, e cila dënoi me 81 vite burgim në total 4 ish-drejtuesit e UÇK. Nata e 14-të e protestës “Jo në emrin tim” u shoqërua me mesazhe të forta drejtuar insti",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-09-29T21:04:09+00:00",
       "dateStr": "29 Sep, 21:04",
       "isNew": true,
-      "id": "24 51790715859"
+      "id": "abc21790715849"
     },
     {
-      "title": "Bebe Rexha zbulon mbështetjen e papritur nga Taylor Swift pas refuzimit të stilistëve",
-      "link": "https://24-ore.com/bebe-rexha-zbulon-mbeshtetjen-e-papritur-nga-taylor-swift-pas-refuzimit-te-stilisteve/",
-      "description": "Bebe Rexha ka rrëfyer se Taylor Swift e kontaktoi në një moment të vështirë për të, kur këngëtarja po përballej me refuzime nga stilistët për shkak të formave të saj trupore. Rexha e ndau historinë gjatë një interviste për E! News, teksa mori pjesë në ceremoninë e MTV Video Music Awards. “Mbaj mend ",
-      "source": "24 ORE",
+      "title": "45-vite në bujqësi, që 16-vjeç mbi traktor/ Historia e Flamur Ballës që e trashëgoi bujqësinë te vajza",
+      "link": "https://abcnews.al/45-vite-ne-bujqesi-qe-16-vjec-mbi-traktor-historia-e-flamur-balles-qe-e-trashegoi-bujqesine-te-vajza/",
+      "description": "“Toka Jonë” sot ndodhet në Jub Sukth të Durrësit, në një nga zonat ku bujqësia vijon të mbajë gjallë traditën dhe ekonominë e familjeve të fermerëve. Sot jemi me fermerin Flamur Balla, i cili prej 46 vitesh ia ka kushtuar jetën punës në bujqësi. Një jetë e tërë mes tokës, mundit dhe prodhimit, dhe s",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-29T21:04:13+00:00",
-      "dateStr": "29 Sep, 21:04",
+      "date": "2026-09-29T20:50:22+00:00",
+      "dateStr": "29 Sep, 20:50",
       "isNew": true,
-      "id": "24 61790715853"
+      "id": "abc31790715022"
     },
     {
-      "title": "“Zot, më bëj të famshëm”, dokumentari i ri zbulon anën e errët të jetës së Matthew Perry-t",
-      "link": "https://24-ore.com/zot-me-bej-te-famshem-dokumentari-i-ri-zbulon-anen-e-erret-te-jetes-se-matthew-perry-t/",
-      "description": "Një dokumentar i ri për jetën e Matthew Perry-t sjell në vëmendje karrierën e aktorit të njohur të “Friends”, betejën e tij të gjatë me varësinë dhe anën e errët të famës që nuk arriti t’i mbushte boshllëkun e brendshëm. Netflix publikoi të martën trailerin e ri të dokumentarit me tre pjesë, “The On",
-      "source": "24 ORE",
+      "title": "Trump “kopjon” Ramën: Lind America.gov",
+      "link": "https://abcnews.al/trump-kopjon-ramen-lind-america-gov/",
+      "description": "Presidenti Trump ka shpallur krijimin e një platforme dixhitale ku qytetarët do të kenë mundësi të shprehin shqetësimet e tyre dhe të marrin përgjigje në kohë reale nga autoritetet. Kjo është një përpjekje e ngjashme me nismën e qeverisë shqiptare, e quajtur Pasqyrë Albania ku qytetarët shqiptarë do",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-09-29T21:04:08+00:00",
-      "dateStr": "29 Sep, 21:04",
+      "date": "2026-09-29T20:47:50+00:00",
+      "dateStr": "29 Sep, 20:47",
       "isNew": true,
-      "id": "24 71790715848"
-    },
-    {
-      "title": "“Zot, më bëj të famshëm”, dokumentari i ri zbulon anën e errët të jetës së Matthew Perry-t",
-      "link": "https://24-ore.com/zot-me-bej-te-famshem-dokumentari-i-ri-zbulon-anen-e-erret-te-jetes-se-matthew-perry-t-2/",
-      "description": "Një dokumentar i ri për jetën e Matthew Perry-t sjell në vëmendje karrierën e aktorit të njohur të “Friends”, betejën e tij të gjatë me varësinë dhe anën e errët të famës që nuk arriti t’i mbushte boshllëkun e brendshëm. Netflix publikoi të martën trailerin e ri të dokumentarit me tre pjesë, “The On",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-29T21:04:08+00:00",
-      "dateStr": "29 Sep, 21:04",
-      "isNew": true,
-      "id": "24 81790715848"
-    },
-    {
-      "title": "Zjarr i madh pranë Urës së Kardhiqit, ndërhyrja shmang përhapjen e flakëve drejt banesave, digjen sipërfaqe të tëra me",
-      "link": "https://24-ore.com/zjarr-i-madh-prane-ures-se-kardhiqit-nderhyrja-shmang-perhapjen-e-flakeve-drejt-banesave-digjen-siperfaqe-te-tera-me/",
-      "description": "Një zjarr i madh ka rënë sot në orët e vona në Gjirokastër (29 shtator). Drejtoria e MZSH-së Gjirokastër, në orën 21:35, u njoftua për rënien e një zjarri në zonën e Urës së Kardhiqit. Menjëherë drejt vendngjarjes u nis grupi i ndërhyrjes. Me mbërritjen në vendngjarje u konstatua zjarr me përmasa të",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-09-29T21:03:31+00:00",
-      "dateStr": "29 Sep, 21:03",
-      "isNew": true,
-      "id": "24 91790715811"
+      "id": "abc41790714870"
     },
     {
       "title": "Shqipëria, e para në grup/ Liga e Kombeve, kuqezinjtë mposhtën San Marinon me rezultatin 0-3",
       "link": "https://abcnews.al/shqiperia-e-para-ne-grup-liga-e-kombeve-kuqezinjte-mposhten-san-marinon-me-rezultatin-0-3/",
-      "description": "Shqipëria ka marrë vendin e parë në grup, pasi mposhti me rezultatin 0-3 San Marinon në transfertë. Në përditësim&#8230; [...]Read More...",
+      "description": "Shqipëria ka marrë vendin e parë në grup, pasi mposhti me rezultatin 0-3 San Marinon në transfertë. Kuqezinjtë, me ndryshime të shumta në formacion kanë bërë gjithçka mirë përballë modestëve vendas, duke shënuar dy gola në pjesën e parë dhe një tjetër në të dytën. Goli i avantazhit erdhi në minutën ",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-09-29T20:37:43+00:00",
       "dateStr": "29 Sep, 20:37",
       "isNew": true,
-      "id": "abc01790714263"
+      "id": "abc51790714263"
     },
     {
       "title": "Rutte: Ruajmë qetësinë përballë provokimeve të Moskës",
@@ -133,7 +188,7 @@
       "date": "2026-09-29T20:28:02+00:00",
       "dateStr": "29 Sep, 20:28",
       "isNew": true,
-      "id": "abc11790713682"
+      "id": "abc61790713682"
     },
     {
       "title": "Shuhet zjarri në zonën e Urës së Kardhiqit/ Gjirokastër, nuk pati dëme në banesat përreth",
@@ -144,7 +199,7 @@
       "date": "2026-09-29T20:20:57+00:00",
       "dateStr": "29 Sep, 20:20",
       "isNew": true,
-      "id": "abc21790713257"
+      "id": "abc71790713257"
     },
     {
       "title": "Shqipëria shënon golin e tretë, Rey Manaj dërgon topin në rrjetë",
@@ -155,7 +210,7 @@
       "date": "2026-09-29T20:13:22+00:00",
       "dateStr": "29 Sep, 20:13",
       "isNew": true,
-      "id": "abc31790712802"
+      "id": "abc81790712802"
     },
     {
       "title": "Pas pak “Toka Jonë”, na ndiqni në ABC News",
@@ -166,62 +221,7 @@
       "date": "2026-09-29T19:55:32+00:00",
       "dateStr": "29 Sep, 19:55",
       "isNew": true,
-      "id": "abc41790711732"
-    },
-    {
-      "title": "Protesta masive në Francë, bllokohen qindra shkolla dhe arrestohen dhjetëra protestues (VIDEO)",
-      "link": "https://abcnews.al/protesta-masive-ne-france-bllokohen-qindra-shkolla-dhe-arrestohen-dhjetera-protestues-video/",
-      "description": "Protestat kundër politikave buxhetore të qeverisë franceze janë përshkallëzuar, me nxënës të shkollave të mesme që kanë bllokuar dhjetëra institucione arsimore dhe punonjës të sektorit publik që kanë hyrë në grevë. Lëvizja e protestës vjen dy ditë para prezantimit të projektbuxhetit për vitin 2027 d",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-29T19:40:40+00:00",
-      "dateStr": "29 Sep, 19:40",
-      "isNew": true,
-      "id": "abc51790710840"
-    },
-    {
-      "title": "Përfundojnë 45 minutat e para/ San Marino 0-2 Shqipëri, realizojnë Mehmeti dhe Uzuni",
-      "link": "https://abcnews.al/perfundojne-45-minutat-e-para-san-marino-0-2-shqiperi-realizojne-mehmeti-dhe-uzuni/",
-      "description": "Përfundojnë 45 minutat e para të ndeshjes San Marino-Shqipëri, e vlefshme për Ligën e Kombeve. Pjesa e parë u mbyll me dominimin e kuqezinjve, të cilët realizuan dy herë. Golat u shënuan nga Anis Mehmeti dhe Myrto Uzuni./abcnews.al [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-29T19:37:26+00:00",
-      "dateStr": "29 Sep, 19:37",
-      "isNew": true,
-      "id": "abc61790710646"
-    },
-    {
-      "title": "Lufta Rusi-Ukrainë/ Geron Kamberi: Ka qenë një luftë e dronëve dhe mikrofonëve",
-      "link": "https://abcnews.al/lufta-rusi-ukraine-geron-kamberi-ka-qene-nje-lufte-e-droneve-dhe-mikrofoneve/",
-      "description": "Eksperti Geron Kamberi ka komentuar zhvillimet në luftën Rusi-Ukrainë, duke e përshkruar atë si një konflikt ku përdorimi i dronëve dhe lufta e informacionit kanë marrë një rol të rëndësishëm. Sipas tij, ekziston një paradoks në mënyrën se si pasqyrohet konflikti, pasi ndërsa sulmet me dronë janë të",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-29T19:35:29+00:00",
-      "dateStr": "29 Sep, 19:35",
-      "isNew": true,
-      "id": "abc71790710529"
-    },
-    {
-      "title": "Eksperti Shala: Rusët nuk kanë mundësi të avancojnë, po intensifikojnë sulmet ajrore",
-      "link": "https://abcnews.al/eksperti-shala-ruset-nuk-kane-mundesi-te-avancojne-po-intensifikojne-sulmet-ajrore/",
-      "description": "Eksperti i sigurisë Xhavit Shala ka komentuar zhvillimet e fundit në luftën Rusi-Ukrainë, duke u ndalur te ecuria në terren, intensifikimi i sulmeve ajrore dhe përdorimi i dronëve. Shala tha se forcat ruse po hasin vështirësi për të avancuar në pikat kyçe të frontit, ndërsa sipas tij Moska po intens",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-29T19:25:25+00:00",
-      "dateStr": "29 Sep, 19:25",
-      "isNew": true,
-      "id": "abc81790709925"
-    },
-    {
-      "title": "Kuqezinjtë ndëshkojnë sërish San Marinon/ Myrto Uzuni shënon golin e dytë",
-      "link": "https://abcnews.al/kuqezinjte-ndeshkojne-serish-san-marinon-myrto-uzuni-shenon-golin-e-dyte/",
-      "description": "Në harkun e pak minutave, Shqipëria ka gjetur golin e dytë ndaj San Marinos. Goditja e dënimit e Rei Manajt pritet nga portieri, por topi shkon te Uzuni, i cili e dërgon në rrjetë. Rezultati shkon në 0-2./abcnews.al [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-09-29T19:18:44+00:00",
-      "dateStr": "29 Sep, 19:18",
-      "isNew": true,
-      "id": "abc91790709524"
+      "id": "abc91790711732"
     },
     {
       "title": "Austria–Kosova LIVE: Ndiqeni këtu ndeshjen e Dardanëve",
