@@ -1,106 +1,161 @@
 {
-  "lastUpdated": "2026-10-03T20:31:18.090276+00:00",
+  "lastUpdated": "2026-10-03T23:29:27.009763+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Studenti i Listës Studentore sulmohet me kosë bari në Grockë gjatë fushatës derë më derë",
-      "link": "https://24-ore.com/studenti-i-listes-studentore-sulmohet-me-kose-bari-ne-grocke-gjate-fushates-dere-me-dere/",
-      "description": "I riu përfundoi në Qendrën Urgjente me prerje në dorë, ndërsa policia mori deklaratat e pjesëmarrësve — studentët thonë se nuk do të tremben: \"Nuk jemi frikësuar dhe nuk do të dorëzohemi\"",
+      "title": "Medvedev: Rusia nuk do ta sakrifikojë kurrë marrëdhënien me Iranin — “partnerë strategjikë përgjithmonë”",
+      "link": "https://24-ore.com/medvedev-rusia-nuk-do-ta-sakrifikoje-kurre-marredhenien-me-iranin-partnere-strategjike-pergjithmone/",
+      "description": "Zëvendëskryetari i Këshillit të Sigurimit të Rusisë, Dmitry Medvedev, deklaroi se Moska \"kurrë nuk do t'i sakrifikojë marrëdhëniet me Republikën Islamike të Iranit\" dhe se dy vendet \"janë partnerë strategjikë dhe do të mbeten të tillë përgjithmonë\".",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T20:25:28+00:00",
-      "dateStr": "03 Oct, 20:25",
+      "date": "2026-10-03T23:23:14+00:00",
+      "dateStr": "03 Oct, 23:23",
       "isNew": true,
-      "id": "24 01791059128"
+      "id": "24 01791069794"
     },
     {
-      "title": "Kompania irakiane e cisternave transporton 2 milionë fuçi naftë përmes Hormuzit — operacioni i parë i tillë në dekada",
-      "link": "https://24-ore.com/kompania-irakiane-e-cisternave-transporton-2-milione-fuci-nafte-permes-hormuzit-operacioni-i-pare-i-tille-ne-dekada/",
-      "description": "Kompania Irakiane e Cisternave të Naftës ka transportuar 2 milionë fuçi naftë bruto irakiane me një cisternë gjigante përmes Ngushticës së Hormuzit. Operacioni, i pari i këtij lloji në dekada, vjen ndërsa ngushtica strategjike po tronditet nga një valë sulmesh ndaj cisternave këtë javë.",
+      "title": "500 mijë protestues në Madrid për krizën e banesave",
+      "link": "https://24-ore.com/500-mije-protestues-ne-madrid-per-krizen-e-banesave/",
+      "description": "Mijëra persona kanë dalë në protesta në disa qytete të Spanjës kundër krizës së strehimit, një ditë pasi Parlamenti rrëzoi dy dekrete të qeverisë që synonin të forconin mbrojtjen e qiramarrësve. Në Madrid, organizatorët thanë se rreth 500 mijë persona morën pjesë në protestë, ndërsa autoritetet e vl",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T20:25:10+00:00",
-      "dateStr": "03 Oct, 20:25",
+      "date": "2026-10-03T23:22:48+00:00",
+      "dateStr": "03 Oct, 23:22",
       "isNew": true,
-      "id": "24 11791059110"
+      "id": "24 11791069768"
     },
     {
-      "title": "Kontrollet e policisë në Vlorë, fokus automjetet me xhama të zinj dhe personat në kërkim",
-      "link": "https://24-ore.com/kontrollet-e-policise-ne-vlore-fokus-automjetet-me-xhama-te-zinj-dhe-personat-ne-kerkim/",
-      "description": "Policia ka shtuar kontrollet në disa pika të qytetit të Vlorës, në kuadër të masave për rritjen e sigurisë gjatë fundjavës. Një nga pikat e kontrollit është vendosur në rrethrrotullimin e Transballkanikes, ku efektivët ndalojnë dhe kontrollojnë automjetet që qarkullojnë në këtë aks. Vëmendje e veçan",
+      "title": "Gjashtë dekada negociata, Greqia i dorëzon Bullgarisë eshtrat e Car Samuilit",
+      "link": "https://24-ore.com/gjashte-dekada-negociata-greqia-i-dorezon-bullgarise-eshtrat-e-car-samuilit/",
+      "description": "Më shumë se 1,000 vjet pas vdekjes së tij dhe pas mbi gjashtë dekadash negociata, eshtrat e Car Samuilit janë kthyer nga Greqia në Bullgari, ku u pritën me nderime shtetërore dhe nga mijëra qytetarë. Ceremonia e dorëzimit u zhvillua në Muzeun e Kulturës Bizantine në Selanik. “Athina po përmbush dety",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T20:21:19+00:00",
-      "dateStr": "03 Oct, 20:21",
+      "date": "2026-10-03T23:22:34+00:00",
+      "dateStr": "03 Oct, 23:22",
       "isNew": true,
-      "id": "24 21791058879"
+      "id": "24 21791069754"
     },
     {
-      "title": "Konflikt mes dy personave në Korçë, njëri mbetet i lënduar",
-      "link": "https://24-ore.com/konflikt-mes-dy-personave-ne-korce-njeri-mbetet-i-lenduar/",
-      "description": "Një konflikt mes dy personave është regjistruar në Korçë, ndërsa njëri prej tyre ka mbetur i lënduar. Në vendngjarje është gjetur një 54-vjeçar, i cili dyshohet se ndodhej në gjendje të dehur, ndërsa është gjetur i lënduar në kokë. Policia ndodhet në vendngjarje për zbardhjen e rrethanave të rastit.",
+      "title": "Algoritmet, të dhënat personale dhe zgjedhjet, si manipulohet bindja politike online",
+      "link": "https://24-ore.com/algoritmet-te-dhenat-personale-dhe-zgjedhjet-si-manipulohet-bindja-politike-online/",
+      "description": "Rrjetet sociale, inteligjenca artificiale dhe sasia e madhe e të dhënave personale që përdoruesit lënë online po ndryshojnë mënyrën se si mund të ndikohen bindjet politike dhe sjellja e votuesve. Në një analizë të publikuar nga “Sunday Star Times”, eksperti i kërcënimeve informative Tim Niven argume",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T20:21:08+00:00",
-      "dateStr": "03 Oct, 20:21",
+      "date": "2026-10-03T23:22:13+00:00",
+      "dateStr": "03 Oct, 23:22",
       "isNew": true,
-      "id": "24 31791058868"
+      "id": "24 31791069733"
     },
     {
-      "title": "Drejtori i Agjencisë Ndërkombëtare të Energjisë: Mbi 80% e rezervave emergjente të naftës janë tashmë në treg",
-      "link": "https://24-ore.com/drejtori-i-agjencise-nderkombetare-te-energjise-mbi-80-e-rezervave-emergjente-te-naftes-jane-tashme-ne-treg/",
-      "description": "Më shumë se 80% e rezervave emergjente të naftës të premtuara nga vendet anëtare të Agjencisë Ndërkombëtare të Energjisë (IEA) në mars janë tashmë në treg, njoftoi të premten drejtori ekzekutiv i agjencisë, Fatih Birol. Sipas Birol, rreth 325 milionë fuçi nga 400 milionë fuçitë e premtuara fillimish",
+      "title": "Irani mirëpret daljen e forcave amerikane nga Iraku dhe kërkon që Uashingtoni të mbajë përgjegjësi",
+      "link": "https://24-ore.com/irani-mirepret-daljen-e-forcave-amerikane-nga-iraku-dhe-kerkon-qe-uashingtoni-te-mbaje-pergjegjesi/",
+      "description": "Ministria e Jashtme iraniane e quajti tërheqjen \"hap shumë të rëndësishëm dhe të nevojshëm\" për sovranitetin e Irakut, duke akuzuar SHBA-të për \"pasoja të pariparueshme\" që nga pushtimi i vitit 2003.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T20:20:49+00:00",
-      "dateStr": "03 Oct, 20:20",
+      "date": "2026-10-03T22:56:33+00:00",
+      "dateStr": "03 Oct, 22:56",
       "isNew": true,
-      "id": "24 41791058849"
+      "id": "24 41791068193"
     },
     {
-      "title": "Gjendet pa shenja jete një 19-vjeçar në fshatin Nikaj të Kaçanikut",
-      "link": "https://24-ore.com/gjendet-pa-shenja-jete-nje-19-vjecar-ne-fshatin-nikaj-te-kacanikut/",
-      "description": "Zëdhënësi i Policisë për rajonin e Ferizajt, Kanun Veseli, konfirmoi se nuk ka dyshime për përfshirjen e personave të tjerë; dyshohet për vetëvrasje.",
+      "title": "Trump thotë se Irani është “shkatërruar” dhe ka hequr dorë pothuajse nga programi bërthamor",
+      "link": "https://24-ore.com/trump-thote-se-irani-eshte-shkaterruar-dhe-ka-hequr-dore-pothuajse-nga-programi-berthamor/",
+      "description": "Presidenti amerikan Donald Trump deklaroi se Teherani ka hequr dorë \"praktikisht\" nga planet për armë bërthamore dhe paralajmëroi se vendimi për hapin e ardhshëm do të merret prej tij — \"ose me rrugën e lehtë, ose me rrugën e vështirë\".",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T20:05:31+00:00",
-      "dateStr": "03 Oct, 20:05",
+      "date": "2026-10-03T22:55:18+00:00",
+      "dateStr": "03 Oct, 22:55",
       "isNew": true,
-      "id": "24 51791057931"
+      "id": "24 51791068118"
     },
     {
-      "title": "Wendie Malick dhe Tony Shalhoub kryesojnë leximin e 100-të të «Portrait of a Woman in Repose» në Westport",
-      "link": "https://24-ore.com/wendie-malick-dhe-tony-shalhoub-kryesojne-leximin-e-100-te-te-portrait-of-a-woman-in-repose-ne-westport/",
-      "description": "Westport Country Playhouse feston 20-vjetorin e serisë «Script in Hand» me dramën e Nicky Glossman-it; leximi jubilar mbahet më 5 tetor në orën 19:00, nën regjinë e James Glossman-it.",
+      "title": "Pata pekineze — delikatesa kineze me lëkurë krokante dhe petulla të holla",
+      "link": "https://24-ore.com/pata-pekineze-delikatesa-kineze-me-lekure-krokante-dhe-petulla-te-holla/",
+      "description": "Rosë e pjekur sipas traditës së Pekinit me lëkurë të artë e krokante, servirur me petulla të avullta, kastravec, qepë të njoma dhe salcë hoisin — një nga pjatat më ikonike të kuzhinës kineze.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T20:02:57+00:00",
-      "dateStr": "03 Oct, 20:02",
+      "date": "2026-10-03T22:50:30+00:00",
+      "dateStr": "03 Oct, 22:50",
       "isNew": true,
-      "id": "24 61791057777"
+      "id": "24 61791067830"
     },
     {
-      "title": "Ndërron jetë Ingrid Wiener: artistja vienese e gobelinëve, bashkëpunëtorja e Valie Export dhe Dieter Roth",
-      "link": "https://24-ore.com/nderron-jete-ingrid-wiener-artistja-vienese-e-gobelineve-bashkepunetorja-e-valie-export-dhe-dieter-roth/",
-      "description": "Galeria Charim njoftoi në Instagram se Wiener vdiq më 1 tetor 2026, një ditë para ditëlindjes së saj të 84-t; për dekada të tëra ajo formësoi skenën artistike austriake me gobelinë, fotografi, pikturë dhe kolazhe.",
+      "title": "«Battlefield» shkon në Hollywood: Sony kryeson garën për filmin, me Christopher McQuarrie regjisor dhe Michael B. Jordan producent",
+      "link": "https://24-ore.com/battlefield-shkon-ne-hollywood-sony-kryeson-garen-per-filmin-me-christopher-mcquarrie-regjisor-dhe-michael-b-jordan-producent/",
+      "description": "«Battlefield», seria legjendare e lojërave video të Electronic Arts, po i afrohet ekranit të madh: Sony Pictures ka dalë si përparesorja dhe është në bisedime për të fituar paketën e filmit live-action që doli në treg pranverën e kaluar, siç njofton ekskluzivisht TheWrap. Regjisori Christopher McQua",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T19:59:28+00:00",
-      "dateStr": "03 Oct, 19:59",
+      "date": "2026-10-03T22:46:28+00:00",
+      "dateStr": "03 Oct, 22:46",
       "isNew": true,
-      "id": "24 71791057568"
+      "id": "24 71791067588"
     },
     {
-      "title": "Marshi i 50-të i engjëjve në Koçan: prindërit e viktimave të “Puls” kërkojnë gjykim intensiv, mbi 10 seanca në muaj",
-      "link": "https://24-ore.com/marshi-i-50-te-i-engjejve-ne-kocan-prinderit-e-viktimave-te-puls-kerkojne-gjykim-intensiv-mbi-10-seanca-ne-muaj/",
-      "description": "Marshimi nisi nga Parku i Revolucionit dhe përfundoi përpara Gjykatës Themelore të Koçanit; familjet thonë se \"beteja për të vërtetën dhe drejtësinë nuk do të ndalet\".",
+      "title": "Kurti uron Ditën e Bashkimit të Gjermanisë: Lufta mes demokracive dhe autokracive nuk ka përfunduar",
+      "link": "https://24-ore.com/kurti-uron-diten-e-bashkimit-te-gjermanise-lufta-mes-demokracive-dhe-autokracive-nuk-ka-perfunduar/",
+      "description": "Kryeministri i Kosovës, Albin Kurti, ka uruar Ditën e Bashkimit të Gjermanisë, e cila shënohet më 3 tetor, duke e cilësuar ribashkimin gjerman si një kapitull të rëndësishëm të historisë moderne politike të Evropës. Kurti, përmes një postimi në Facebook, ka rikujtuar se më 3 tetor 1990 Gjermania u r",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T19:53:47+00:00",
-      "dateStr": "03 Oct, 19:53",
+      "date": "2026-10-03T22:02:02+00:00",
+      "dateStr": "03 Oct, 22:02",
       "isNew": true,
-      "id": "24 81791057227"
+      "id": "24 81791064922"
+    },
+    {
+      "title": "SHBA i kthen Kinës 58 objekte kulturore të kontrabanduara: skulptura Bodhisattva dhe skelet dinozauri 120 milionë vjet të vjetër",
+      "link": "https://24-ore.com/shba-i-kthen-kines-58-objekte-kulturore-te-kontrabanduara-skulptura-bodhisattva-dhe-skelet-dinozauri-120-milione-vjet-te-vjeter/",
+      "description": "Ceremonia u mbajt në ambasadën kineze në Uashington: mes objekteve të kthyera, dy skulptura Bodhisattva — njëra nga shpellat Tianlongshan e grabitur më shumë se 100 vjet më parë — statuja terrakote kalorësish dhe skeleti i plotë i një dinozauri të vogël.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-03T21:59:44+00:00",
+      "dateStr": "03 Oct, 21:59",
+      "isNew": true,
+      "id": "24 91791064784"
+    },
+    {
+      "title": "“Jo në emrin tim” në ditën e 18/ Mijëra qytetarë në Prishtinë kundër vendimit të Hagës për ish-krerët e UÇK",
+      "link": "https://abcnews.al/jo-ne-emrin-tim-ne-diten-e-18-mijera-qytetare-ne-prishtine-kunder-vendimit-te-hages-per-ish-kreret-e-uck/",
+      "description": "Edhe këtë të shtunë, në sheshin “Skënderbeu” në Prishtinë, u mbajt protesta “Jo në emrin tim” kundër aktgjykimit dënues ndaj drejtuesve të UÇK-së nga Gjykata Speciale në Hagë. Edhe në këtë protestë pati një pjesëmarrje masive e qytetarëve. &#8220;Kërkesa jonë e 18 dite, identiteti ynë kombëtar sot n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T21:36:57+00:00",
+      "dateStr": "03 Oct, 21:36",
+      "isNew": true,
+      "id": "abc01791063417"
+    },
+    {
+      "title": "Merr jetë “Pasqyrë Albania”/ Martin Leka: Nisma e Ramës për të respektuar protestën, hap pozitiv për demokracinë",
+      "link": "https://abcnews.al/merr-jete-pasqyre-albania-martin-leka-nisma-e-rames-per-te-respektuar-protesten-hap-pozitiv-per-demokracine/",
+      "description": "TIRANË&#8211; Qeveria lançoi këtë të shtunë platformën më të re të komunikimit me qytetarët, të quajtur “Flamingo Mirror”. Pjesë e &#8220;Pasqyrës Albania&#8221;, ajo është një model i ri i transparencës qeveritare përballë shqiptarëve. Qytetarët e interesuar do të kërkojnë dhe gjejnë informacion me",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T21:31:23+00:00",
+      "dateStr": "03 Oct, 21:31",
+      "isNew": true,
+      "id": "abc11791063083"
+    },
+    {
+      "title": "VIDEO/ Vlorë, Policia kontrolle “blic” rrugëve të qytetit",
+      "link": "https://abcnews.al/video-vlore-policia-kontrolle-blic-rrugeve-te-qytetit/",
+      "description": "Policia e Vlorës ka shtuar kontrollet në disa pika të qytetit, në kuadër të masave të marra për rritjen e sigurisë gjatë fundjavës. Një prej pikave të kontrollit është vendosur në rreth rrotullimin e Transballkanikes, ku efektivët ndalojnë dhe kontrollojnë automjetet që qarkullojnë në këtë aks. Kont",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T20:26:21+00:00",
+      "dateStr": "03 Oct, 20:26",
+      "isNew": true,
+      "id": "abc21791059181"
+    },
+    {
+      "title": "Maran: Humbje e pamerituar/ Trajneri i Kombëtares i dëshpëruar dhe polemik me arbitrin",
+      "link": "https://abcnews.al/maran-humbje-e-pamerituar-trajneri-i-kombetares-i-deshperuar-dhe-polemik-me-arbitrin/",
+      "description": "Reagimi i tij ishte i pritshëm. Nuk ka trajner që të pranojë humbjen kur I duket e padrejtë, dhe jo vetëm për shkak të lojës. Ronaldo Maran ishte një italian tepër i zemëruar pas ndeshjes në Helsinki, duke e thënë qartë atë që mendonte për paraqitjen e Shqipërisë, por edhe për atë që bëri arbitri [.",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T20:13:26+00:00",
+      "dateStr": "03 Oct, 20:13",
+      "isNew": true,
+      "id": "abc31791058406"
     },
     {
       "title": "Të shtëna me armë zjarri në Tiranë, shoqërohen katër persona në Polici",
@@ -111,18 +166,7 @@
       "date": "2026-10-03T19:53:45+00:00",
       "dateStr": "03 Oct, 19:53",
       "isNew": true,
-      "id": "abc01791057225"
-    },
-    {
-      "title": "Sfogliatella napoletana — ëmbëlsira ikonike italiane me petë të holla dhe mbushje rikote",
-      "link": "https://24-ore.com/sfogliatella-napoletana-embelsira-ikonike-italiane-me-pete-te-holla-dhe-mbushje-rikote/",
-      "description": "Peta të holla e krokante në formë guacke, me një zemër të butë rikote, bollguri dhe portokalli të ëmbëlsuar — ëmbëlsira legjendare e Napolit që ia vlen çdo minutë përgatitjeje.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-03T19:53:07+00:00",
-      "dateStr": "03 Oct, 19:53",
-      "isNew": true,
-      "id": "24 91791057187"
+      "id": "abc41791057225"
     },
     {
       "title": "Dyshohet për helmim në kopshtin e Korçës, shtohen rastet e fëmijëve me simptoma",
@@ -133,7 +177,18 @@
       "date": "2026-10-03T19:32:16+00:00",
       "dateStr": "03 Oct, 19:32",
       "isNew": true,
-      "id": "abc11791055936"
+      "id": "abc51791055936"
+    },
+    {
+      "title": "Edicioni qendror me Emilian Islamin, (03/10/2026)",
+      "link": "https://abcnews.al/edicioni-qendror-me-emilian-islamin-03-10-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T19:00:42+00:00",
+      "dateStr": "03 Oct, 19:00",
+      "isNew": true,
+      "id": "abc61791054042"
     },
     {
       "title": "Lezha, përtej asaj që njohim/ Nisma e një grupi të rinjsh për të zbuluar qytetin",
@@ -144,7 +199,7 @@
       "date": "2026-10-03T18:52:45+00:00",
       "dateStr": "03 Oct, 18:52",
       "isNew": true,
-      "id": "abc21791053565"
+      "id": "abc71791053565"
     },
     {
       "title": "Biblioteka e Korçës, mision një shekullor/ Si lindi ideja për të krijuar një vatër të dijes dhe kulturës",
@@ -155,7 +210,7 @@
       "date": "2026-10-03T18:48:26+00:00",
       "dateStr": "03 Oct, 18:48",
       "isNew": true,
-      "id": "abc31791053306"
+      "id": "abc81791053306"
     },
     {
       "title": "Tropojë, ku u organizuan luftëtarët e UÇK/ Në vitet e luftës në Kosovë, shtëpi e kulla u kthyen në pika strehimi",
@@ -166,62 +221,7 @@
       "date": "2026-10-03T18:39:02+00:00",
       "dateStr": "03 Oct, 18:39",
       "isNew": true,
-      "id": "abc41791052742"
-    },
-    {
-      "title": "I shpëtoi vdekjes në ditën e lindjes/ Ndërhyrja e rrallë në Fier, mjekët e spitalit “Memorial” bëjnë mrekullinë",
-      "link": "https://abcnews.al/i-shpetoi-vdekjes-ne-diten-e-lindjes-nderhyrja-e-rralle-ne-fier-mjeket-e-spitalit-memorial-bejne-mrekulline/",
-      "description": "Vjollca Xhafa nga Kavaja po feston ditëlindjen, e shëruar nga një problem i rëndë në zemër. Vetëm pak ditë më parë, nuk kishte shpresë për mbijetesë, kurse operacioni kishte probabilitet suksesi, vetëm 1%. Këto pamje mund të ngjajnë si të dala nga seriali “Doktor House”, por janë çaste të vërteta dh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T18:16:14+00:00",
-      "dateStr": "03 Oct, 18:16",
-      "isNew": true,
-      "id": "abc51791051374"
-    },
-    {
-      "title": "Protesta në Spanjë për qiratë/ Qeveria dështoi të miratonte legjislacionin për strehimin emergjent",
-      "link": "https://abcnews.al/protesta-ne-spanje-per-qirate-qeveria-deshtoi-te-miratonte-legjislacionin-per-strehimin-emergjent/",
-      "description": "Mijëra protestues kanë dalë në rrugë në të gjithë Spanjën duke kërkuar mbrojtje më të madhe për qiramarrësit, pasi qeveria dështoi të miratonte legjislacionin për strehimin emergjent në parlament të premten. Protestuesit mbanin pankarta dhe banderola që bënin thirrje për një grevë të përgjithshme të",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T18:07:02+00:00",
-      "dateStr": "03 Oct, 18:07",
-      "isNew": true,
-      "id": "abc61791050822"
-    },
-    {
-      "title": "“Korrespondent” nga Kasandra Pali, (03/10/2026)",
-      "link": "https://abcnews.al/pas-pak-korrespondent-na-ndiqni-ne-abc-news-44/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T17:56:55+00:00",
-      "dateStr": "03 Oct, 17:56",
-      "isNew": true,
-      "id": "abc71791050215"
-    },
-    {
-      "title": "Gjashtë fëmijë të një kopshti përfundojnë në spital në Korçë, dyshohet për helmim",
-      "link": "https://abcnews.al/gjashte-femije-te-nje-kopshti-perfundojne-ne-spital-ne-korce-dyshohet-per-helmim/",
-      "description": "Gjashtë fëmijë  të moshës 5 dhe 6 vjeç në qytetin e Korçës dyshohet se janë helmuar nga ushqimi i konsumuar në kopsht. Sipas burimeve, fëmijët janë paraqitur në spital me simptoma gastroenteriti, në të njëjtën ditë. Burime pranë familjarëve thonë se fëmijët e konsumojnë drekën në kopsht. Rastet janë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T17:07:12+00:00",
-      "dateStr": "03 Oct, 17:07",
-      "isNew": true,
-      "id": "abc81791047232"
-    },
-    {
-      "title": "Vijon lufta me flakët në Gjinar, terreni i vështirë vështirëson ndërhyrjen",
-      "link": "https://abcnews.al/vijon-lufta-me-flaket-ne-gjinar-terreni-i-veshtire-veshtireson-nderhyrjen/",
-      "description": "Vijon lufta me flakët në zonën e Gjinarit, në bashkinë e Elbasanit, ku situata mbetet e vështirë për shkak të terrenit të thyer. Vatrat e zjarrit në malin e Bukanikut po përballohen nga forcat zjarrfikëse, ndërsa terreni i vështirë po e vështirëson ndjeshëm ndërhyrjen për vendosjen nën kontroll të f",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T16:59:38+00:00",
-      "dateStr": "03 Oct, 16:59",
-      "isNew": true,
-      "id": "abc91791046778"
+      "id": "abc91791052742"
     },
     {
       "title": "Përfshirja në rritje e Izraelit në Ballkan: asimetria e re e sigurisë dhe roli balancues i Turqisë",
