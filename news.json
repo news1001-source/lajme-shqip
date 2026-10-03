@@ -1,29 +1,205 @@
 {
-  "lastUpdated": "2026-10-03T12:58:49.160259+00:00",
+  "lastUpdated": "2026-10-03T17:07:39.081087+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Kretë: 23 të shpëtuar nga përmbytjet gjatë natës, mesazh i ri 112 për Mylopotamos",
-      "link": "https://24-ore.com/krete-23-te-shpetuar-nga-permbytjet-gjate-nates-mesazh-i-ri-112-per-mylopotamos/",
-      "description": "Zjarrfikësit nxorën 23 persona nga automjetet dhe banesat në Ferma dhe Makris Gialos; EMY përditësoi buletinin e emergjencës — paralajmërim i kuq në Kretë deri pasditen e së shtunës, Kodi i Kuq zgjatet deri të dielën.",
+      "title": "«Pipeline» e Dominique Morisseau-t hap sezonin e 10-vjetorit të Vanguard Theater: drama për një nënë, një djalë dhe zgjedhjet e vështira",
+      "link": "https://24-ore.com/pipeline-e-dominique-morisseau-t-hap-sezonin-e-10-vjetorit-te-vanguard-theater-drama-per-nje-nene-nje-djale-dhe-zgjedhjet-e-veshtira/",
+      "description": "Produksioni në Montclair, New Jersey, me regji të Marshall Jones III, luhet nga 8 deri më 25 tetor; biletat nisin nga 25 dollarë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T12:51:32+00:00",
-      "dateStr": "03 Oct, 12:51",
+      "date": "2026-10-03T17:03:11+00:00",
+      "dateStr": "03 Oct, 17:03",
       "isNew": true,
-      "id": "24 01791031892"
+      "id": "24 01791046991"
     },
     {
-      "title": "Pasta al forno — makarona të pjekura në furrë me salcë domatesh, mish të grirë dhe djathë",
-      "link": "https://24-ore.com/pasta-al-forno-makarona-te-pjekura-ne-furre-me-salce-domatesh-mish-te-grire-dhe-djathe/",
-      "description": "Receta klasike italiane e makaronave të pjekura në furrë: penne me salcë domatesh, mish të grirë, vezë të ziera dhe mozzarella — pjata e dielave familjare të Kalabrisë.",
+      "title": "Ja notat e lojtarëve të Shqipërisë pas humbjes, kush dështoi dhe kush shkëlqeu ndaj Finlandës?",
+      "link": "https://24-ore.com/ja-notat-e-lojtareve-te-shqiperise-pas-humbjes-kush-deshtoi-dhe-kush-shkelqeu-ndaj-finlandes/",
+      "description": "Kombëtarja shqiptare e futbollit është mundur me shifrat 2-1 nga Finlanda në Helsinki në ndeshjen e tretë në grup në Ligën e Kombeve. Një ndeshje ku spikatën gabimet e njëpasnjëshme të portierëve, të cilët ishin më të dobëtit në fushë nga kuqezinjtë edhe sipas notave të vendosura nga “Sofascore” duk",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T12:50:33+00:00",
-      "dateStr": "03 Oct, 12:50",
+      "date": "2026-10-03T17:02:07+00:00",
+      "dateStr": "03 Oct, 17:02",
       "isNew": true,
-      "id": "24 11791031833"
+      "id": "24 11791046927"
+    },
+    {
+      "title": "Panik në një kopsht në Korçë, 6 fëmijë përfundojnë në spital! Ja dyshimet e para",
+      "link": "https://24-ore.com/panik-ne-nje-kopsht-ne-korce-6-femije-perfundojne-ne-spital-ja-dyshimet-e-para/",
+      "description": "Gjashtë fëmijë në qytetin e Korçës dyshohet se janë helmuar nga ushqimi që kanë konsumuar në kopsht. Sipas burimeve, mësohet se fëmijët janë paraqitur me simptoma gastroenteriti në spital në të njëjtën ditë. Burime nga familjarët bëjnë të ditur që fëmijët drekën e konsumojnë në kopsht. Rastet kanë q",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-03T17:01:33+00:00",
+      "dateStr": "03 Oct, 17:01",
+      "isNew": true,
+      "id": "24 21791046893"
+    },
+    {
+      "title": "Nëntë muze zviceranë do të hetojnë prejardhjen e mbi 6,300 objekteve nga Kameruni",
+      "link": "https://24-ore.com/nente-muze-zvicerane-do-te-hetojne-prejardhjen-e-mbi-6300-objekteve-nga-kameruni/",
+      "description": "Projekti 100 mijë frangësh, i shpallur nga Zyra Federale e Kulturës më 29 shtator, do të hetojë si u fituan objektet, zinxhirin e pronësisë dhe rëndësinë e tyre në Kamerunin e sotëm.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-03T16:59:26+00:00",
+      "dateStr": "03 Oct, 16:59",
+      "isNew": true,
+      "id": "24 31791046766"
+    },
+    {
+      "title": "Portokalopita greke — torta e portokallit me petë të holla dhe sherbet",
+      "link": "https://24-ore.com/portokalopita-greke-torta-e-portokallit-me-pete-te-holla-dhe-sherbet/",
+      "description": "Ëmbëlsira e famshme greke me portokall: petë të thërmuara të ngjyera në krem portokalli e kos, të pjekura në furrë dhe të lagura me sherbet aromatik — e butë, e lagësht dhe me aromë të parezistueshme agrumesh.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-03T16:50:19+00:00",
+      "dateStr": "03 Oct, 16:50",
+      "isNew": true,
+      "id": "24 41791046219"
+    },
+    {
+      "title": "Berisha publikon pamjet nga Korça, qytetarët i kthehen ashpër: Pse nuk të ftoi ambasadori amerikan në pritje?",
+      "link": "https://24-ore.com/berisha-publikon-pamjet-nga-korca-qytetaret-i-kthehen-ashper-pse-nuk-te-ftoi-ambasadori-amerikan-ne-pritje/",
+      "description": "Kreu i PD Sali Berisha ka publikuar pamje nga takimi i zhvilluar një ditë më parë në Korçë, ku u shfaq me mbështetës dhe foli për zhvillimet brenda Partisë Demokratike. Por postimi i kryedemokratit është shoqëruar edhe me komente kritike nga qytetarët, të cilët janë ndalur te mungesa e tij në pritje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-03T16:47:59+00:00",
+      "dateStr": "03 Oct, 16:47",
+      "isNew": true,
+      "id": "24 51791046079"
+    },
+    {
+      "title": "«Drishyam 3» qëndron i fortë në ditën e dytë: 50–51 krorë rupi të shtunën, drejt 100 krorëve në fundjavë",
+      "link": "https://24-ore.com/drishyam-3-qendron-i-forte-ne-diten-e-dyte-50-51-krore-rupi-te-shtunen-drejt-100-kroreve-ne-fundjave/",
+      "description": "Thrilleri me Ajay Devgn nuk ngadalësohet pas hapjes rekord — sipas Bollywood Hungama-s, filmi mbetet «rock solid» në ditën e dytë dhe po shkon drejt kapërcimit të 100 krorëve në vetëm dy ditë.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-03T16:47:35+00:00",
+      "dateStr": "03 Oct, 16:47",
+      "isNew": true,
+      "id": "24 61791046055"
+    },
+    {
+      "title": "Dështoi ekzekutimi i Christa Pike, kreu i burgjeve në Tennessee do të japë dorëheqjen",
+      "link": "https://24-ore.com/deshtoi-ekzekutimi-i-christa-pike-kreu-i-burgjeve-ne-tennessee-do-te-jape-doreheqjen/",
+      "description": "Kreu i sistemit të burgjeve në Tennessee, Frank Strada, do të japë dorëheqjen këtë muaj, pas ekzekutimit të dështuar të të dënuarës me vdekje Christa Pike, njoftoi të shtunën guvernatori i shtetit, Bill Lee. Strada, komisioner i Departamentit të Korrektimit të Tennessee-t, tha se dorëheqja e tij ësh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-03T16:46:22+00:00",
+      "dateStr": "03 Oct, 16:46",
+      "isNew": true,
+      "id": "24 71791045982"
+    },
+    {
+      "title": "ZAGREB – Kroacia ngre shqetësime për armatosjen e Serbisë",
+      "link": "https://24-ore.com/zagreb-kroacia-ngre-shqetesime-per-armatosjen-e-serbise/",
+      "description": "– Kryeministri kroat Andrej Plenkoviç tha se Kroacia po ndjek nga afër procesin e armatosjes së Serbisë, duke e përshkruar atë si një proces të gjerë të blerjes së armatimeve, raportoi agjencia kroate e lajmeve HINA. Deklarata e Plenkoviç erdhi gjatë një takimi me kryeministrin e Bavarisë, Markus Sö",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-03T16:46:11+00:00",
+      "dateStr": "03 Oct, 16:46",
+      "isNew": true,
+      "id": "24 81791045971"
+    },
+    {
+      "title": "Zelenski: Ukraina do t’i godasë rafineritë ruse si kundërpërgjigje ndaj “doktrinës së re” të Moskës për sulmet ndaj qyteteve",
+      "link": "https://24-ore.com/zelenski-ukraina-do-ti-godase-rafinerite-ruse-si-kunderpergjigje-ndaj-doktrines-se-re-te-moskes-per-sulmet-ndaj-qyteteve/",
+      "description": "Presidenti ukrainas Volodymyr Zelenski deklaroi të shtunën se Ukraina do t&#8217;i dyfishojë sulmet ndaj rafinerive ruse të naftës, si kundërpërgjigje ndaj asaj që ai e quajti një &#8220;doktrinë të re&#8221; ushtarake të presidentit rus Vladimir Putin — një fushatë sulmesh ajrore që, sipas inteligj",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-03T16:42:55+00:00",
+      "dateStr": "03 Oct, 16:42",
+      "isNew": true,
+      "id": "24 91791045775"
+    },
+    {
+      "title": "Polonia harton projektligj të ri për gatishmërinë mbrojtëse të shtetit",
+      "link": "https://abcnews.al/polonia-harton-projektligj-te-ri-per-gatishmerine-mbrojtese-te-shtetit/",
+      "description": "Ministria polake e Mbrojtjes po përgatit një projektligj për gatishmërinë e plotë të shtetit në rast lufte, me synimin për të përmirësuar organizimin e mbrojtjes dhe për të lehtësuar lëvizjen e trupave polake dhe aleate, sipas PAP (Agjencia Polake e Shtypit). Projektligji është ende në fazën e konsu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T16:23:35+00:00",
+      "dateStr": "03 Oct, 16:23",
+      "isNew": true,
+      "id": "abc01791044615"
+    },
+    {
+      "title": "Kryeministri spanjoll: Reshjet e rrëmbyeshme shkaktuan dëme të mëdha",
+      "link": "https://abcnews.al/kryeministri-spanjoll-reshjet-e-rrembyeshme-shkaktuan-deme-te-medha/",
+      "description": "Kryeministri spanjoll Pedro Sanchez tha të shtunën se reshjet e dendura kanë shkaktuar “dëme të mëdha” në disa pjesë të vendit, duke e cilësuar natën si “veçanërisht të vështirë” në Madrigueras. “Reshjet e rrëmbyeshme dhe të pandërprera të orëve të fundit kanë shkaktuar dëme të mëdha në shumë zona t",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T15:42:27+00:00",
+      "dateStr": "03 Oct, 15:42",
+      "isNew": true,
+      "id": "abc11791042147"
+    },
+    {
+      "title": "Presidenti Erdogan: Turqia po kryen “revolucion të plotë” në industrinë e mbrojtjes",
+      "link": "https://abcnews.al/presidenti-erdogan-turqia-po-kryen-revolucion-te-plote-ne-industrine-e-mbrojtjes/",
+      "description": "Turqia po vazhdon sukseset e saj në industrinë e mbrojtjes dhe po kryen “një revolucion të plotë” në këtë sektor, tha të shtunën presidenti Recep Tayyip Erdogan. Duke folur në festivalin teknologjik “TEKNOFEST Juglindje”, në provincën juglindore turke Sanliurfa, Erdogan theksoi përparimin e Turqisë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T14:24:16+00:00",
+      "dateStr": "03 Oct, 14:24",
+      "isNew": true,
+      "id": "abc21791037456"
+    },
+    {
+      "title": "Piloti kamikaz, simpati për terrorin/ I riu që tentoi të rrëzonte avionin, postonte video të liderit të al-Kaedës",
+      "link": "https://abcnews.al/piloti-kamikaz-simpati-per-terrorin-i-riu-qe-tentoi-te-rrezonte-avionin-postonte-video-te-liderit-te-al-kaedes/",
+      "description": "Hetimet për ngjarjen tronditëse të kësaj jave, ku një pilot shtetas i Omanit tentoi të vriste dhe bashkëpilotit tjetër të fluturimit, një shtetas indian, dhe të rrëzonte avionin me mbi 170 pasagjerë që po udhëtonte nga Dubai drejt Tel Avivit, kanë zbuluar detaje tronditëse të asaj që konsiderohet ne",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T14:00:50+00:00",
+      "dateStr": "03 Oct, 14:00",
+      "isNew": true,
+      "id": "abc31791036050"
+    },
+    {
+      "title": "Përfshirja në rritje e Izraelit në Ballkan: asimetria e re e sigurisë dhe roli balancues i Turqisë",
+      "link": "https://www.lajme.al/perfshirja-ne-rritje-e-izraelit-ne-ballkan-asimetria-e-re-e-sigurise-dhe-roli-balancues-i-turqise/",
+      "description": "Nga: Mevludin Ibish Konkurrenca gjeopolitike ndërmjet Turqisë dhe Izraelit po shtrihet përtej Lindjes së Mesme dhe Mesdheut Lindor, duke përfshirë gjithnjë e më shumë edhe Ballkanin. Zhvillimet në Gaza, si dhe ndryshimet në Siri dhe Liban, kanë ndikuar në mënyrë të ndjeshme në konfigurimet rajonale ",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-10-03T13:54:47+00:00",
+      "dateStr": "03 Oct, 13:54",
+      "isNew": true,
+      "id": "laj01791035687"
+    },
+    {
+      "title": "Gjykata e Fierit cakton masën për këngëtarin Erind Xhaferi",
+      "link": "https://abcnews.al/gjykata-e-fierit-cakton-masen-per-kengetarin-erind-xhaferi/",
+      "description": "Gjykata ka caktuar masën e sigurimit personal “arrest në shtëpi” për këngëtarin Erind Xhaferi, pas shqyrtimit të kërkesave të Prokurorisë. Prokuroria kishte paraqitur dy kërkesa; vleftësimin e ligjshëm të arrestit në flagrancë dhe caktimin e masës së sigurimit personal “arrest në shtëpi” për të dysh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T13:50:11+00:00",
+      "dateStr": "03 Oct, 13:50",
+      "isNew": true,
+      "id": "abc41791035411"
+    },
+    {
+      "title": "Kartoni i kuq “vret” ndeshjen, kuqezinjtë nuk ia dalin kundër Finlandës",
+      "link": "https://abcnews.al/finlanda-barazon-ndaj-shqiperise-walta-ndeshkon-kuqezinjte-nga-goditja-e-denimit/",
+      "description": "Finlanda ka mposhtur Shqipërinë me rezultatin 2-1, në sfidën e vlefshme për Ligën e Kombeve. Kuqezinjtë e nisën ndeshjen në mënyrën më të mirë të mundshme, duke kaluar në avantazh që në minutën e 5’ me Rey Manajn. Megjithatë, avantazhi nuk zgjati shumë, pasi në minutën e 22’ Shqipëria mbeti me një l",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T13:30:19+00:00",
+      "dateStr": "03 Oct, 13:30",
+      "isNew": true,
+      "id": "abc51791034219"
+    },
+    {
+      "title": "Zjarr dhe re të mëdha tymi pranë objektit të Aramco në Riad, mes përshkallëzimit me Huthët",
+      "link": "https://abcnews.al/zjarr-dhe-re-te-medha-tymi-prane-objektit-te-aramco-ne-riad-mes-pershkallezimit-me-huthet/",
+      "description": "Një kolonë e madhe tymi dhe zjarri u pa të ngrihej pranë një objekti të Aramco në Riad të shtunën. Zjarri është raportuar në një kohë kur tensionet mes Arabisë Saudite dhe Huthëve të Jemenit janë përshkallëzuar. Huthët, të mbështetur nga Irani, kanë intensifikuar sulmet ndaj qyteteve dhe infrastrukt",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T13:25:20+00:00",
+      "dateStr": "03 Oct, 13:25",
+      "isNew": true,
+      "id": "abc61791033920"
     },
     {
       "title": "“Modeli i transparencës përballë qytetarëve”/ Rama: Qeveria nuk ka asgjë për të fshehur",
@@ -34,95 +210,7 @@
       "date": "2026-10-03T12:47:02+00:00",
       "dateStr": "03 Oct, 12:47",
       "isNew": true,
-      "id": "abc01791031622"
-    },
-    {
-      "title": "Tani edhe më afër diasporës – Telegrafi lansoi edicionin e ri në Zvicër, detajet nga eventi në Cyrih",
-      "link": "https://24-ore.com/tani-edhe-me-afer-diaspores-telegrafi-lansoi-edicionin-e-ri-ne-zvicer-detajet-nga-eventi-ne-cyrih/",
-      "description": "Telegrafi tashmë ka zgjeruar praninë e tij në Zvicër me lansimin e edicionit të ri Telegrafi Diasporë, në një ngjarje të mbajtur të premten në mbrëmje në Cyrih, ku morën pjesë përfaqësues nga media, kultura, biznesi dhe komuniteti shqiptar. Projekti vjen pas nisjes së pranisë së Telegrafit në Zvicër",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-03T12:46:15+00:00",
-      "dateStr": "03 Oct, 12:46",
-      "isNew": true,
-      "id": "24 21791031575"
-    },
-    {
-      "title": "Disney licencon filmat e saj në Netflix: pesë filmat “Ice Age”, seriali “Percy Jackson” dhe tituj të Pixar-it vijnë në platformë",
-      "link": "https://24-ore.com/disney-licencon-filmat-e-saj-ne-netflix-pese-filmat-ice-age-seriali-percy-jackson-dhe-tituj-te-pixar-it-vijne-ne-platforme/",
-      "description": "Marrëveshja jo-ekskluzive: pesë filmat e animuar \"Ice Age\" dhe dy sezonet e para të \"Percy Jackson and the Olympians\" shfaqen në Netflix nga 4 tetori për tre muaj — para premierës kinematografike të \"Ice Age: Boiling Point\" vitin e ardhshëm",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-03T12:45:45+00:00",
-      "dateStr": "03 Oct, 12:45",
-      "isNew": true,
-      "id": "24 31791031545"
-    },
-    {
-      "title": "Bilanci i viktimave në Gaza arrin 74,229 të vrarë, njofton ministria e Shëndetësisë",
-      "link": "https://24-ore.com/bilanci-i-viktimave-ne-gaza-arrin-74229-te-vrare-njofton-ministria-e-shendetesise/",
-      "description": "Në periudhën 24-orëshe u vranë shtatë palestinezë, përfshirë dy që vdiqën nga plagët, dhe u plagosën 24; që nga \"armëpushimi\" i tetorit 2024 janë vrarë 1,445 palestinezë, siç njofton Al Jazeera.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-03T12:40:36+00:00",
-      "dateStr": "03 Oct, 12:40",
-      "isNew": true,
-      "id": "24 41791031236"
-    },
-    {
-      "title": "Shpërthime të forta dëgjohen në kryeqytetin e Jemenit, Sanaa",
-      "link": "https://24-ore.com/shperthime-te-forta-degjohen-ne-kryeqytetin-e-jemenit-sanaa/",
-      "description": "Raportimet vijnë nga kryeqyteti i kontrolluar nga Huthi-t; ende nuk ka detaje për shkakun apo viktimat e mundshme, siç njofton Al Jazeera.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-03T12:38:37+00:00",
-      "dateStr": "03 Oct, 12:38",
-      "isNew": true,
-      "id": "24 51791031117"
-    },
-    {
-      "title": "BBC: Vuçiç sulmon aleatin Tonçev, dijaspora regjistrohet me shifra rekord para zgjedhjeve të 25 tetorit",
-      "link": "https://24-ore.com/bbc-vucic-sulmon-aleatin-toncev-dijaspora-regjistrohet-me-shifra-rekord-para-zgjedhjeve-te-25-tetorit/",
-      "description": "Në 22 ditë nga zgjedhjet e parakohshme parlamentare, fushata në Serbi ashpërsohet: lideri i listës “Serbia e Bashkuar” godet nënkryetarin e SPS-së në Vranjë, Lista Studentore mban tubim në Novi Pazar dhe regjistrimet e dijasporës arrijnë rekordin e 75 mijëve, raporton BBC në gjuhën serbe.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-03T12:36:38+00:00",
-      "dateStr": "03 Oct, 12:36",
-      "isNew": true,
-      "id": "24 61791030998"
-    },
-    {
-      "title": "Irani arreston 31 persona në Sirjan për lidhje të dyshuara me SHBA-në dhe Izraelin",
-      "link": "https://24-ore.com/irani-arreston-31-persona-ne-sirjan-per-lidhje-te-dyshuara-me-shba-ne-dhe-izraelin/",
-      "description": "Televizioni shtetëror iranian raporton se autoritetet shkatërruan katër rrjete të dyshuara për nxitje trazirash në emër të Uashingtonit dhe Tel Avivit, siç njofton Al Jazeera.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-03T12:36:36+00:00",
-      "dateStr": "03 Oct, 12:36",
-      "isNew": true,
-      "id": "24 71791030996"
-    },
-    {
-      "title": "Millosh Jovanoviç në Pirot: “Në pushtet s’do t’i detyrojmë njerëzit të shkojnë në mitinge si bagëti”",
-      "link": "https://24-ore.com/millosh-jovanovic-ne-pirot-ne-pushtet-sdo-ti-detyrojme-njerezit-te-shkojne-ne-mitinge-si-bageti/",
-      "description": "Kryetari i listës “Autentična desnica – dr Millosh Jovanoviç” premtoi në tribunën e Pirotit se koalicioni i tij do të luftojë shantazhin zgjedhor dhe partitokracinë, 22 ditë para zgjedhjeve të parakohshme parlamentare të 25 tetorit.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-03T12:34:42+00:00",
-      "dateStr": "03 Oct, 12:34",
-      "isNew": true,
-      "id": "24 81791030882"
-    },
-    {
-      "title": "Artileria izraelite godet Talloussah dhe Bani Haiyyan në Libanin jugor",
-      "link": "https://24-ore.com/artileria-izraelite-godet-talloussah-dhe-bani-haiyyan-ne-libanin-jugor/",
-      "description": "Agjencia libaneze NNA raporton granatime të vazhdueshme artilerie me shpërthime të fuqishme në dy qytezat jugore; ende nuk dihet për viktima, siç njofton Al Jazeera.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-03T12:34:06+00:00",
-      "dateStr": "03 Oct, 12:34",
-      "isNew": true,
-      "id": "24 91791030846"
+      "id": "abc71791031622"
     },
     {
       "title": "News Line me Sali Doçi, (03/10/2026)",
@@ -133,7 +221,7 @@
       "date": "2026-10-03T12:17:36+00:00",
       "dateStr": "03 Oct, 12:17",
       "isNew": true,
-      "id": "abc11791029856"
+      "id": "abc81791029856"
     },
     {
       "title": "“Platforma do të përditësohet në vijim”/ Rama: “Flamingo Mirror” nis me dosjen për Sazanin dhe Zvërnecin!",
@@ -144,84 +232,7 @@
       "date": "2026-10-03T12:03:41+00:00",
       "dateStr": "03 Oct, 12:03",
       "isNew": true,
-      "id": "abc21791029021"
-    },
-    {
-      "title": "Polonia harton ligj të ri për gatishmërinë mbrojtëse",
-      "link": "https://abcnews.al/polonia-harton-ligj-te-ri-per-gatishmerine-mbrojtese/",
-      "description": "Ministria e Mbrojtjes e Polonisë po përgatit një projektligj të ri që synon të rrisë gatishmërinë e shtetit për përballimin e një situate të rënduar të sigurisë, përpara se të shpallet zyrtarisht gjendja e luftës. Sipas raportimeve, projektligji është aktualisht në fazën e konsultimeve. Nisma parash",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T12:00:45+00:00",
-      "dateStr": "03 Oct, 12:00",
-      "isNew": true,
-      "id": "abc31791028845"
-    },
-    {
-      "title": "Rama prezanton “Flamingo Mirror”: Pasqyra përballë zhurmës, do të publikohen dosje me interes për qytetarët",
-      "link": "https://abcnews.al/rama-prezanton-flamingo-mirror-pasqyra-perballe-zhurmes-do-publikohen-dosje-me-interes-per-qytetaret/",
-      "description": "Kryeministri Edi Rama ka prezantuar platformën publike online “Flamingo Mirror”, e cila, sipas tij, synon t’u mundësojë qytetarëve të shohin dokumentet zyrtare dhe përmbajtjen e tyre. Gjatë prezantimit, Rama tha se platforma do të shërbejë si një hapësirë ku qytetarët mund të informohen drejtpërdrej",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T11:56:41+00:00",
-      "dateStr": "03 Oct, 11:56",
-      "isNew": true,
-      "id": "abc41791028601"
-    },
-    {
-      "title": "Edicioni i Mesditës me Sali Doçi, (03/10/2026)",
-      "link": "https://abcnews.al/edicioni-i-mesdites-me-sali-doci-03-10-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T11:41:06+00:00",
-      "dateStr": "03 Oct, 11:41",
-      "isNew": true,
-      "id": "abc51791027666"
-    },
-    {
-      "title": "VIDEO/ I riu përplas makinën e policisë dhe tenton të arratiset, arrestohet nga efektivët",
-      "link": "https://abcnews.al/video-i-riu-perplas-makinen-e-policise-dhe-tenton-te-arratiset-arrestohet-nga-efektivet/",
-      "description": "Një 27-vjeçar është arrestuar në Kurbin, pas një operacioni policor të koduar “Target”, pasi dyshohet se qarkullonte i armatosur dhe nuk iu bind urdhrit të punonjësve të Policisë për të ndaluar. Operacioni u finalizua nga Sektori për Krimet e Rënda, në bashkëpunim me Seksionin e Mbështetjes Operacio",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T11:38:30+00:00",
-      "dateStr": "03 Oct, 11:38",
-      "isNew": true,
-      "id": "abc61791027510"
-    },
-    {
-      "title": "Italia barazon në Francë/ Të Kaltrit marrin një pikë karakteri ndaj “Gjelave” favorite",
-      "link": "https://abcnews.al/italia-barazon-ne-france-te-kaltrit-marrin-nje-pike-karakteri-ndaj-gjelave-favorite/",
-      "description": "Një komb i madh futbolli nuk mund të ngazëllehet për një barazim. Italia ka një emër të tillë, është katër herë kampione e botës dhe dy herë e Europës, sa të mos ia lejojë vetes të ndihet si në qiellin e shtatë edhe kur mbahen përballë Francës në Paris. Gjithsesi, momenti është I tillë që [...]Read ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T11:02:00+00:00",
-      "dateStr": "03 Oct, 11:02",
-      "isNew": true,
-      "id": "abc71791025320"
-    },
-    {
-      "title": "Sulm ndaj një cisterne pranë brigjeve të Omanit, ekuipazhi shpëton i padëmtuar",
-      "link": "https://abcnews.al/sulm-ndaj-nje-cisterne-prane-brigjeve-te-omanit-ekuipazhi-shpeton-i-pademtuar/",
-      "description": "Një sulm i ri ndaj një cisterne nafte u regjistrua në orët e para të së shtunës, 3 tetor, këtë herë shumë pranë bregdetit të Omanit. Sipas raportit fillestar të kapitenit drejtuar UKMTO-së, cisterna e naftës bruto u godit nga një predhë e panjohur ndërsa ndodhej rreth katër milje detare në lindje të",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T11:00:26+00:00",
-      "dateStr": "03 Oct, 11:00",
-      "isNew": true,
-      "id": "abc81791025226"
-    },
-    {
-      "title": "Këngëtari Erind Xhaferi në gjykatë, pritet masa e sigurisë pas arrestimit në Fier",
-      "link": "https://abcnews.al/kengetari-erind-xhaferi-ne-gjykate-pritet-masa-e-sigurise-pas-arrestimit-ne-fier/",
-      "description": "Ka mbërritur në Gjykatën e Shkallës së Parë të Juridiksionit të Përgjithshëm Fier këngëtari fierak Erind Xhaferi, për t’u njohur me masën e sigurimit personal, pas arrestimit nga Policia e Fierit. Ndaj tij është ngritur akuza për kryerjen e veprës penale të parashikuar nga neni 108 i Kodit Penal, “V",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-03T10:35:11+00:00",
-      "dateStr": "03 Oct, 10:35",
-      "isNew": true,
-      "id": "abc91791023711"
+      "id": "abc91791029021"
     },
     {
       "title": "Austria–Kosova LIVE: Ndiqeni këtu ndeshjen e Dardanëve",
@@ -232,7 +243,7 @@
       "date": "2026-09-27T15:42:36+00:00",
       "dateStr": "27 Sep, 15:42",
       "isNew": false,
-      "id": "laj01790523756"
+      "id": "laj11790523756"
     },
     {
       "title": "Dua Lipa “shkrin” dasmën në Pejë! Ja si vallëzon me muzikë shqiptare",
@@ -243,7 +254,7 @@
       "date": "2026-09-27T15:34:28+00:00",
       "dateStr": "27 Sep, 15:34",
       "isNew": false,
-      "id": "laj11790523268"
+      "id": "laj21790523268"
     },
     {
       "title": "Publikohen formacionet: Ja si rreshtohet Kosova përballë Austrisë",
@@ -254,7 +265,7 @@
       "date": "2026-09-27T15:27:19+00:00",
       "dateStr": "27 Sep, 15:27",
       "isNew": false,
-      "id": "laj21790522839"
+      "id": "laj31790522839"
     },
     {
       "title": "Xhuli publikon video nga spitali në Zvicër, teksa pret lindjen e binjakëve",
@@ -265,7 +276,7 @@
       "date": "2026-09-27T15:20:42+00:00",
       "dateStr": "27 Sep, 15:20",
       "isNew": false,
-      "id": "laj31790522442"
+      "id": "laj41790522442"
     },
     {
       "title": "LAJMI I FUNDIT: Një tërmet i fuqishem tronditi vendin",
@@ -276,7 +287,7 @@
       "date": "2026-09-27T13:22:27+00:00",
       "dateStr": "27 Sep, 13:22",
       "isNew": false,
-      "id": "laj41790515347"
+      "id": "laj51790515347"
     },
     {
       "title": "Aksion i madh në veri të Kosovës, nëntë të arrestuar",
@@ -287,7 +298,7 @@
       "date": "2026-09-27T11:02:27+00:00",
       "dateStr": "27 Sep, 11:02",
       "isNew": false,
-      "id": "laj51790506947"
+      "id": "laj61790506947"
     },
     {
       "title": "Diell apo shi? Ja çfarë pritet sot në rajon",
@@ -298,7 +309,7 @@
       "date": "2026-09-26T23:45:48+00:00",
       "dateStr": "26 Sep, 23:45",
       "isNew": false,
-      "id": "laj61790466348"
+      "id": "laj71790466348"
     },
     {
       "title": "Ja cila është Pozita më e mirë për të mbetur shtatzënë",
@@ -309,7 +320,7 @@
       "date": "2026-09-26T19:43:23+00:00",
       "dateStr": "26 Sep, 19:43",
       "isNew": false,
-      "id": "laj71790451803"
+      "id": "laj81790451803"
     },
     {
       "title": "“Sun po pres deri në mbramje me mar tragetin dhe me ik prej Kosoves, jam shume i zhgenjyer…”",
@@ -320,18 +331,7 @@
       "date": "2026-09-26T19:38:17+00:00",
       "dateStr": "26 Sep, 19:38",
       "isNew": false,
-      "id": "laj81790451497"
-    },
-    {
-      "title": "Trump i përgjigjet ofertës së Iranit për Hormuzin – Ja çfarë vendosi?",
-      "link": "https://www.lajme.al/trump-i-pergjigjet-ofertes-se-iranit-per-hormuzin-ja-cfare-vendosi/",
-      "description": "Irani i ka propozuar Shteteve të Bashkuara një plan shtatëditor për t’i dhënë fund luftimeve, për të rihapur Ngushticën e Hormuzit dhe për të rifilluar negociatat për programin bërthamor. Sipas propozimit iranian, SHBA-ja duhet të heqë bllokadën detare ndaj porteve iraniane, të lehtësojë sanksionet ",
-      "source": "Lajme.al",
-      "category": "politike",
-      "date": "2026-09-26T19:26:48+00:00",
-      "dateStr": "26 Sep, 19:26",
-      "isNew": false,
-      "id": "laj91790450808"
+      "id": "laj91790451497"
     }
   ]
 }
