@@ -1,117 +1,194 @@
 {
-  "lastUpdated": "2026-10-03T01:40:24.639104+00:00",
+  "lastUpdated": "2026-10-03T07:29:40.302268+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Sanders propozon ligj kundër kamerave të Flock-ut: qeverisë federale do t’i ndalohet skanimi i targave",
-      "link": "https://24-ore.com/sanders-propozon-ligj-kunder-kamerave-te-flock-ut-qeverise-federale-do-ti-ndalohet-skanimi-i-targave/",
-      "description": "Senatori Bernie Sanders prezantoi të premten \"Ban Flock Act\"-in, që u ndalon agjencive federale përdorimin e lexuesve automatikë të targave (ALPR); iniciativa vjen ndërsa Flock përballet me protesta dhe anulime kontratash në gjithë SHBA-në.",
+      "title": "Anëtarët e lartë të sigurisë kombëtare të Trump-it mblidhen fshehurazi në Camp David: në tryezë hapat e ardhshëm të luftës me Iranin dhe konfliktit në Jemen",
+      "link": "https://24-ore.com/anetaret-e-larte-te-sigurise-kombetare-te-trump-it-mblidhen-fshehurazi-ne-camp-david-ne-tryeze-hapat-e-ardhshem-te-luftes-me-iranin-dhe-konfliktit-ne-jemen/",
+      "description": "Mbledhja e pazakontë dhe e panjoftuar u drejtua nga nënkryetari J.D. Vance, me pjesëmarrjen e Rubio-s, Hegseth-it, Witkoff-it, drejtorit të CIA-s Ratcliffe dhe shefit të Shtabit të Përbashkët Caine. Shtëpia e Bardhë refuzoi të komentojë, ndërsa bisedimet me Teheranin duket se kanë ngecur.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T01:38:18+00:00",
-      "dateStr": "03 Oct, 01:38",
+      "date": "2026-10-03T07:29:18+00:00",
+      "dateStr": "03 Oct, 07:29",
       "isNew": true,
-      "id": "24 01790991498"
+      "id": "24 01791012558"
     },
     {
-      "title": "Mbreti Abdullah i Jordanisë i kërkon Rubio-s armëpushim të plotë rajonal: SHBA-ja ka “rol vendimtar” në de-përshkallëzim",
-      "link": "https://24-ore.com/mbreti-abdullah-i-jordanise-i-kerkon-rubio-s-armepushim-te-plote-rajonal-shba-ja-ka-rol-vendimtar-ne-de-pershkallezim/",
-      "description": "Në një telefonatë me sekretarin amerikan të Shtetit, monarku jordanez kërkoi një marrëveshje gjithëpërfshirëse që garanton sigurinë dhe sovranitetin e shteteve arabe — dhe paralajmëroi për përshkallëzimin izraelit në Sirinë jugore.",
+      "title": "Prajd i katërmbëdhjetë i Malit të Zi mbahet sot në Podgoricë",
+      "link": "https://24-ore.com/prajd-i-katermbedhjete-i-malit-te-zi-mbahet-sot-ne-podgorice/",
+      "description": "Prajd i katërmbëdhjetë i Malit të Zi, i organizuar nga asociacioni Kvir Montenegro, mbahet sot në qendër të Podgoricës, raporton televizioni publik malazez RTCG. Sivjet marshi mbahet nën sloganin &#8220;Živjećemo, života radi!&#8221; (&#8220;Do të jetojmë, për hir të jetës!&#8221;), me të cilin orga",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T01:23:29+00:00",
-      "dateStr": "03 Oct, 01:23",
+      "date": "2026-10-03T07:28:49+00:00",
+      "dateStr": "03 Oct, 07:28",
       "isNew": true,
-      "id": "24 11790990609"
+      "id": "24 11791012529"
     },
     {
-      "title": "Google dhe Gemini, mjete të reja për mësuesit",
-      "link": "https://24-ore.com/google-dhe-gemini-mjete-te-reja-per-mesuesit/",
-      "description": "Google po zgjeron përdorimin e inteligjencës artificiale në arsim, duke integruar më ngushtë Gemini me Google Classroom dhe duke sjellë mjete që përdorin kontekstin e klasës për të ndihmuar mësuesit dhe nxënësit. Një nga risitë kryesore është aplikacioni i lidhur Google Classroom brenda Gemini. Ai u",
+      "title": "Sondazhi AIM: SPAK, korrupsioni, reagimi i Ramës",
+      "link": "https://24-ore.com/sondazhi-aim-spak-korrupsioni-reagimi-i-rames/",
+      "description": "Nga Eduard Zaloshnja Dje zhvillova anketimin elektronik AIM me banorë të rritur, për llogari të kompanisë së informacionit AIM. Në kampionin e anketimit u përfshinë 1234 të anketuar krejt të rastësishëm nga i gjithë vendi. Kampioni u kolaudua statistikisht, për ta përfaqësuar sa më afërsisht populls",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T01:21:33+00:00",
-      "dateStr": "03 Oct, 01:21",
+      "date": "2026-10-03T07:19:31+00:00",
+      "dateStr": "03 Oct, 07:19",
       "isNew": true,
-      "id": "24 21790990493"
+      "id": "24 21791011971"
     },
     {
-      "title": "“Renoir and Love” thyen rekordin e biletave në Londër: 22.033 bileta të shitura para hapjes së sotme",
-      "link": "https://24-ore.com/renoir-and-love-thyen-rekordin-e-biletave-ne-londer-22-033-bileta-te-shitura-para-hapjes-se-sotme/",
-      "description": "Sot, 3 tetor 2026, hapet në Galerinë Kombëtare të Londrës ekspozita &#8220;Renoir and Love&#8221;, dhe tashmë ka thyer rekordin e shitjeve paraprake të biletave në historinë e muzeut: 22.033 bileta të rezervuara para hapjes, siç njofton Galeria Kombëtare e Londrës në komunikatën zyrtare për shtyp. R",
+      "title": "FOKUS – IA ndihmon në zbulimin e diabetit në vetëm pak sekonda përmes analizës së zërit",
+      "link": "https://24-ore.com/fokus-ia-ndihmon-ne-zbulimin-e-diabetit-ne-vetem-pak-sekonda-permes-analizes-se-zerit/",
+      "description": "LONDËR, 3 tetor /ATSH-DPA/ – Inteligjenca artificiale mund të përdoret në të ardhmen për të identifikuar njerëzit që kanë rrezik më të lartë për diabetin e tipit 2, duke analizuar mënyrën se si flasin, sugjeron një studim i ri i zhvilluar nga studiues të kompanisë së teknologjisë “Thymia” dhe “Unive",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T00:56:08+00:00",
-      "dateStr": "03 Oct, 00:56",
+      "date": "2026-10-03T07:16:13+00:00",
+      "dateStr": "03 Oct, 07:16",
       "isNew": true,
-      "id": "24 31790988968"
+      "id": "24 31791011773"
     },
     {
-      "title": "Chilaquiles meksikane — receta tradicionale e mëngjesit me salsa të kuqe dhe djathë",
-      "link": "https://24-ore.com/chilaquiles-meksikane-receta-tradicionale-e-mengjesit-me-salsa-te-kuqe-dhe-djathe/",
-      "description": "Copëza krokante tortillesh misri të mbytura në salsa të nxehtë domatesh, me djathë të shkrirë, krem qumështi dhe vezë sipër — mëngjesi më i dashur i Meksikës, gati në rreth 35 minuta.",
+      "title": "Vidhet kisha në Lipjan, merren 50 euro dhe një thikë",
+      "link": "https://24-ore.com/vidhet-kisha-ne-lipjan-merren-50-euro-dhe-nje-thike/",
+      "description": "Policia e Kosovës ka nisur hetimet për vjedhjen e raportuar më 2 tetor në kishën në rrugën \"Shën Flori\" në Lipjan.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T00:50:20+00:00",
-      "dateStr": "03 Oct, 00:50",
+      "date": "2026-10-03T07:05:48+00:00",
+      "dateStr": "03 Oct, 07:05",
       "isNew": true,
-      "id": "24 41790988620"
+      "id": "24 41791011148"
     },
     {
-      "title": "«Drishyam 3» hap ditën e parë me 63–66 krorë rupi: rekordi më i madh i hapjes në karrierën e Ajay Devgn",
-      "link": "https://24-ore.com/drishyam-3-hap-diten-e-pare-me-63-66-krore-rupi-rekordi-me-i-madh-i-hapjes-ne-karrieren-e-ajay-devgn/",
-      "description": "Vlerësimet e para për thriller-in e Abhishek Pathak tregojnë hapjen më të madhe ditore të karrierës së Devgn-it dhe një nga hapjet më të mëdha të historisë së kinemasë hindi — filmi, i lëshuar më 2 tetor, përfitoi edhe pushimin kombëtar të Gandhi Jayanti-t.",
+      "title": "«Fallen Angels» me Kelli O’Hara-n dhe Rose Byrne-in vjen në kinema: filmi i shfaqjes së Broadway-t del më 22 tetor",
+      "link": "https://24-ore.com/fallen-angels-me-kelli-ohara-n-dhe-rose-byrne-in-vjen-ne-kinema-filmi-i-shfaqjes-se-broadway-t-del-me-22-tetor/",
+      "description": "Komedia e Noël Coward-it, e nominuar për katër çmime Tony, u filmua në Teatrin Todd Haimes dhe do të shfaqet në kinema nga 22 tetori përmes Trafalgar Releasing.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T00:45:45+00:00",
-      "dateStr": "03 Oct, 00:45",
+      "date": "2026-10-03T07:03:05+00:00",
+      "dateStr": "03 Oct, 07:03",
       "isNew": true,
-      "id": "24 51790988345"
+      "id": "24 51791010985"
     },
     {
-      "title": "Carl Clemons-Hopkins dhe Hari Nef i bashkohen festivalit të pestë të teatrit «Breaking the Binary» në New York",
-      "link": "https://24-ore.com/carl-clemons-hopkins-dhe-hari-nef-i-bashkohen-festivalit-te-peste-te-teatrit-breaking-the-binary-ne-new-york/",
-      "description": "Festivali vjetor i kushtuar artistëve trans dhe jobinarë shpalli kastin plotësues për edicionin e pestë, që zhvillohet 5–11 tetor në MCC Theater Space; biletat janë falas. Njoftimi sjell gjithashtu koncertin një-natësh të «The Danish Girl» në Lincoln Center më 20 nëntor dhe largimin e drejtorit arti",
+      "title": "«Designed to Be Red»: Poster House hap ekspozitën e parë të madhe për dizajnerët vendas amerikanë",
+      "link": "https://24-ore.com/designed-to-be-red-poster-house-hap-ekspoziten-e-pare-te-madhe-per-dizajneret-vendas-amerikane/",
+      "description": "Mbi 100 vjet histori vizuale, nga postat e protestave të viteve '70 te veprat bashkëkohore të Kent Monkman-it dhe Jeffrey Gibson-it — ekspozita \"Designed to Be Red\" në Poster House të Nju Jorkut sfidon rrëfimet kolonialiste mbi dizajnin. E hapur deri më 21 shkurt 2027.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-03T00:02:57+00:00",
-      "dateStr": "03 Oct, 00:02",
+      "date": "2026-10-03T06:55:42+00:00",
+      "dateStr": "03 Oct, 06:55",
       "isNew": true,
-      "id": "24 61790985777"
+      "id": "24 61791010542"
     },
     {
-      "title": "Hauser & Wirth hap degën në Palo Alto me “Calder | O’Keeffe”: miqësia e dy gjigantëve të artit në ekspozitën përuruese",
-      "link": "https://24-ore.com/hauser-wirth-hap-degen-ne-palo-alto-me-calder-okeeffe-miqesia-e-dy-gjiganteve-te-artit-ne-ekspoziten-peruruese/",
-      "description": "Hauser &#038; Wirth, një nga grupet më të fuqishme të galerive të artit në botë, hap sot degën e saj të re në Palo Alto, Kaliforni, me një ekspozitë përuruese kushtuar miqësisë së dy gjigantëve të artit amerikan, Alexander Calder dhe Georgia O&#8217;Keeffe, siç njofton Palo Alto Online. Ekspozita &#",
-      "source": "24 ORE",
+      "title": "VIDEO/ Përmbytje masive në Kretë, rrugët mbulohen nga dherat dhe mbeturinat",
+      "link": "https://abcnews.al/video-permbytje-masive-ne-krete-rruget-mbulohen-nga-dherat-dhe-mbeturinat/",
+      "description": "Moti i keq ka shkaktuar probleme të shumta në ishullin e Kretës në Greqi, me situatën më të rënduar në pjesën lindore të ishullit. Reshjet e dendura të shiut gjatë natës shkaktuan përmbytje kryesisht në zonën e Ierapetrës, veçanërisht në Ferma dhe Makry Gialos. Ekipet e zjarrfikësve ndërhynë në disa",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-10-02T23:58:56+00:00",
-      "dateStr": "02 Oct, 23:58",
+      "date": "2026-10-03T06:52:15+00:00",
+      "dateStr": "03 Oct, 06:52",
       "isNew": true,
-      "id": "24 71790985536"
+      "id": "abc01791010335"
     },
     {
-      "title": "Ushtria e Jemenit: 1,540 luftëtarë Huthi të vrarë apo të plagosur në 24 orë — 474 sulme në të gjitha frontet",
-      "link": "https://24-ore.com/ushtria-e-jemenit-1540-luftetare-huthi-te-vrare-apo-te-plagosur-ne-24-ore-474-sulme-ne-te-gjitha-frontet/",
-      "description": "Zëdhënësi ushtarak Majid al-Nuzaili thotë se operacionet goditën Taizin, Maribin, al-Jawf-in dhe al-Hudaydah-n; Huthi-t nga ana e tyre pretendojnë 94 sulme saudite në një javë dhe mbi 1,100 në shtator.",
+      "title": "HRW: Greqia po i çon në gjyq dy mbrojtësit e të drejtave të emigrantëve — gjyqi nis më 6 tetor në Rodos",
+      "link": "https://24-ore.com/hrw-greqia-po-i-con-ne-gjyq-dy-mbrojtesit-e-te-drejtave-te-emigranteve-gjyqi-nis-me-6-tetor-ne-rodos/",
+      "description": "Human Rights Watch i bën thirrje Athinës të heqë akuzat ndaj Panayote Dimitras dhe Tommy Olsen, që rrezikojnë deri në 20 vjet burg për ndihmën ndaj azilkërkuesve. Gjyqi nis më 6 tetor në Rodos.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-02T23:52:21+00:00",
-      "dateStr": "02 Oct, 23:52",
+      "date": "2026-10-03T06:51:15+00:00",
+      "dateStr": "03 Oct, 06:51",
       "isNew": true,
-      "id": "24 81790985141"
+      "id": "24 71791010275"
     },
     {
-      "title": "Brudet i Dalmacisë — gjella tradicionale kroate e peshkut në salcë domatesh",
-      "link": "https://24-ore.com/brudet-i-dalmacise-gjella-tradicionale-kroate-e-peshkut-ne-salce-domatesh/",
-      "description": "Një gjellë e thellë dhe aromatike e bregdetit dalmatin: copa peshku të freskët të gatuar ngadalë në salcë domatesh me hudhër, vaj ulliri dhe erëza mesdhetare, tradicionalisht e servirur me polenta.",
+      "title": "Sardele të pjekura në skarë me limon, hudhër dhe vaj ulliri — receta mesdhetare",
+      "link": "https://24-ore.com/sardele-te-pjekura-ne-skare-me-limon-hudher-dhe-vaj-ulliri-receta-mesdhetare/",
+      "description": "Sardelet e pjekura në skarë janë një nga pjatat më të dashura të bregdetit mesdhetar: peshk i freskët, zjarr i fortë, limon dhe vaj ulliri. Receta është e thjeshtë, e lirë dhe gati për pak minuta — ideale për një darkë të lehtë vere. Përbërësit (për 4 persona): 1 kg sardele të freskëta, të pastruara",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-02T23:52:10+00:00",
-      "dateStr": "02 Oct, 23:52",
+      "date": "2026-10-03T06:50:08+00:00",
+      "dateStr": "03 Oct, 06:50",
       "isNew": true,
-      "id": "24 91790985130"
+      "id": "24 81791010208"
+    },
+    {
+      "title": "«Baldwin: A Love Story» shndërrohet në film: kompania e Obamave bashkohet me Anonymous Content, Marlon James bashkë-shkruan skenarin",
+      "link": "https://24-ore.com/baldwin-a-love-story-shnderrohet-ne-film-kompania-e-obamave-bashkohet-me-anonymous-content-marlon-james-bashke-shkruan-skenarin/",
+      "description": "Biografia e Nicholas Boggs për jetën e James Baldwin do të vijë në ekranin e madh; vetë autori dhe bashkëshorti i tij, fituesi i çmimit Man Booker Prize, Marlon James, do të shkruajnë skenarin.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-03T06:46:02+00:00",
+      "dateStr": "03 Oct, 06:46",
+      "isNew": true,
+      "id": "24 91791009962"
+    },
+    {
+      "title": "Kozmetika e luksit sfidon krizën, buzëkuqët dhe kremrat marrin vendin e çantave të shtrenjta",
+      "link": "https://abcnews.al/kozmetika-e-luksit-sfidon-krizen-buzekuqet-dhe-kremrat-marrin-vendin-e-cantave-te-shtrenjta/",
+      "description": "Ndërsa industria e luksit po përballet me ngadalësim, kozmetika premium vijon të shënojë rritje, e nxitur nga konsumatorët që po preferojnë produkte më të përballueshme për të pasur një pjesë të luksit. Në “Galeries Lafayette” në Paris, sektori i kozmetikës tërheq një numër të madh klientësh. Në ban",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T06:35:58+00:00",
+      "dateStr": "03 Oct, 06:35",
+      "isNew": true,
+      "id": "abc11791009358"
+    },
+    {
+      "title": "“Ura e Re e Bahçallëkut po merr formë”, Rama publikon pamjet nga punimet",
+      "link": "https://abcnews.al/ura-e-re-e-bahcallekut-po-merr-forme-rama-publikon-pamjet-nga-punimet/",
+      "description": "Kryeministri Edi Rama ka publikuar pamje nga punimet për ndërtimin e Urës së Re të Bahçallëkut në Shkodër. Përmes një postimi në rrjetet sociale, Rama thotë se ura po merr formë dhe thekson se investimi do të ndikojë në lehtësimin e qarkullimit në hyrje të qytetit. “Dhe me Urën e Re të Bahçallëkut q",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T06:29:07+00:00",
+      "dateStr": "03 Oct, 06:29",
+      "isNew": true,
+      "id": "abc21791008947"
+    },
+    {
+      "title": "Ora e Njëmbëdhjetë me Erisa Koxhaj, (02/10/2026)",
+      "link": "https://abcnews.al/ora-e-njembedhjete-me-erisa-koxhaj-02-10-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T06:25:56+00:00",
+      "dateStr": "03 Oct, 06:25",
+      "isNew": true,
+      "id": "abc31791008756"
+    },
+    {
+      "title": "Media franceze: Shqipëria është kthyer në fiksimin e ri të turistëve",
+      "link": "https://abcnews.al/media-franceze-shqiperia-eshte-kthyer-ne-fiksimin-e-ri-te-turisteve/",
+      "description": "Shqipëria po konsolidon pozicionin e saj si një nga destinacionet turistike më të përfolura në Evropë, ndërsa interesi i turistëve francezë për vendin është në rritje. Media digjitale franceze “Peaches.fr” i kushton një artikull turizmit shqiptar, duke e cilësuar vendin si “Maldivet e Evropës”. Sipa",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T06:21:00+00:00",
+      "dateStr": "03 Oct, 06:21",
+      "isNew": true,
+      "id": "abc41791008460"
+    },
+    {
+      "title": "E shtuna me mot të kthjellët, vranësira të pakta dhe erë përgjatë vijës bregdetare",
+      "link": "https://abcnews.al/e-shtuna-me-mot-te-kthjellet-vranesira-te-pakta-dhe-ere-pergjate-vijes-bregdetare/",
+      "description": "Vendi ynë pritet të përfshihet të shtunën nga kushte të qëndrueshme atmosferike, duke sjellë mot kryesisht të kthjellët në pjesën më të madhe të territorit. Sipas parashikimit të Shërbimit Meteorologjik Ushtarak, gjatë ditës do të mbizotërojë moti i kthjellët, ndërsa herë pas here do të shfaqen vran",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T06:14:30+00:00",
+      "dateStr": "03 Oct, 06:14",
+      "isNew": true,
+      "id": "abc51791008070"
+    },
+    {
+      "title": "Horoskopi, zbuloni parashikimin e yjeve për shenjën tuaj",
+      "link": "https://abcnews.al/horoskopi-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj-201/",
+      "description": "Dashi Mëngjesi nuk premton asgjë të re dhe përkohësisht mund të shënohet një humbje energjie. Gjatë pasdites ju do të jeni plot ide dhe plane të reja. Me shumë lehtësi do të bëni njohje të reja dhe do të bisedoni siç duhet. Kjo është një kohë e mirë për aktivitetet të cilat shtrihen në fushën [...]R",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-03T06:00:04+00:00",
+      "dateStr": "03 Oct, 06:00",
+      "isNew": true,
+      "id": "abc61791007204"
     },
     {
       "title": "Shembet harku ikonë i Hawaii/ Shkak erozioni, Holei Sea Arch ishte formuar 5 shekuj më parë",
@@ -122,7 +199,7 @@
       "date": "2026-10-02T21:40:14+00:00",
       "dateStr": "02 Oct, 21:40",
       "isNew": true,
-      "id": "abc01790977214"
+      "id": "abc71790977214"
     },
     {
       "title": "Zhduket marinari shqiptar/ Erkan Nika ishte në anijen e mallrave turke që u sulmua me dron në Detin e Zi",
@@ -133,7 +210,7 @@
       "date": "2026-10-02T21:33:35+00:00",
       "dateStr": "02 Oct, 21:33",
       "isNew": true,
-      "id": "abc11790976815"
+      "id": "abc81790976815"
     },
     {
       "title": "“Reforma në drejtësi duhet rregulluar”/ Lami: Prokuroria, jo liri të pakufizuar",
@@ -144,84 +221,7 @@
       "date": "2026-10-02T21:19:55+00:00",
       "dateStr": "02 Oct, 21:19",
       "isNew": true,
-      "id": "abc21790975995"
-    },
-    {
-      "title": "Shqipëria legalizon kriptovalutat/ Qeveria miraton ligjin për rregullimin e tregut të kriptoaseteve",
-      "link": "https://abcnews.al/shqiperia-legalizon-kriptovalutat-qeveria-miraton-ligjin-per-rregullimin-e-tregut-te-kriptoaseteve/",
-      "description": "Tregu i kriptovalutave në Shqipëri do të funksionojë në bazë të standardeve të reja më të forta ligjore. Qeveria ka miratuar ligjin për Tregjet e Kripto-Asseteve, një dokument që synon të krijojë një kornizë rregullatore për tregtimin dhe përdorimin e kripto-aseteve (si Bitcoin, Ethereum dhe monedha",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-02T21:04:16+00:00",
-      "dateStr": "02 Oct, 21:04",
-      "isNew": true,
-      "id": "abc31790975056"
-    },
-    {
-      "title": "Policia përplaset me nxënësit protestues në Francë, mbyllen rreth 400 shkolla",
-      "link": "https://abcnews.al/policia-perplaset-me-nxenesit-protestues-ne-france-mbyllen-rreth-400-shkolla/",
-      "description": "Policia franceze është përplasur të premten me nxënës të shkollave të mesme në qytete të ndryshme të Francës, ndërsa qeveria e presidentit Emmanuel Macron po përpiqet të ndalë përshkallëzimin e protestave për kushtet në shkolla dhe financimin e arsimit. Rreth 400 shkolla të mesme u mbyllën të premte",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-02T20:37:09+00:00",
-      "dateStr": "02 Oct, 20:37",
-      "isNew": true,
-      "id": "abc41790973429"
-    },
-    {
-      "title": "Dy avionët e parë F-16V mbërrijnë në Tajvan nga SHBA",
-      "link": "https://abcnews.al/dy-avionet-e-pare-f-16v-mberrijne-ne-tajvan-nga-shba/",
-      "description": "Tajvani ka pranuar sot dy avionët e parë luftarakë F-16V Block 70 nga 66 të tillë të blerë nga SHBA-ja, raportoi Focus Taiwan. Avionët kanë mbërritur në bazën ajrore Chihhang në Taitung, në lindje të vendit, rreth mesditës, pasi ishin nisur nga Havai dhe kishin ndaluar në Guam. “Ky është një moment ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-02T20:22:55+00:00",
-      "dateStr": "02 Oct, 20:22",
-      "isNew": true,
-      "id": "abc51790972575"
-    },
-    {
-      "title": "Një i vrarë e dy të plagosur nga sulmi me dron rus në një ndërtesë banimi në Kiev",
-      "link": "https://abcnews.al/nje-i-vrare-e-dy-te-plagosur-nga-sulmi-me-dron-rus-ne-nje-ndertese-banimi-ne-kiev/",
-      "description": "Sulmet ajrore ruse kanë vrarë një person dhe kanë plagosur dy të tjerë në kryeqytetin ukrainas, Kiev, ndërsa kanë detyruar autoritetet të mbyllin dy ura mbi lumin Dnipro, thanë zyrtarët e qytetit të premten, raporton Reuters. Zyra e Prokurorit të Kievit njoftoi se droni goditi katet 24 dhe 25 të ndë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-02T20:06:30+00:00",
-      "dateStr": "02 Oct, 20:06",
-      "isNew": true,
-      "id": "abc61790971590"
-    },
-    {
-      "title": "Paralajmëron kryebashkiaku Klitschko: Sulmet e intensifikuara ruse po e shkatërrojnë Kievin",
-      "link": "https://abcnews.al/paralajmeron-kryebashkiaku-klitschko-sulmet-e-intensifikuara-ruse-po-e-shkaterrojne-kievin/",
-      "description": "Sulmet e intensifikuara me dronë dhe raketa ruse po e “shkatërrojnë Kievin”, ka paralajmëruar kryebashkiaku i kryeqytetit të Ukrainës. Vitaliy Klitschko tha se qyteti ishte tani në një &#8220;situatë shumë dramatike&#8221;, pasi Moska po dëmtonte &#8220;infrastrukturën e saj kritike, logjistikën, st",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-02T19:56:11+00:00",
-      "dateStr": "02 Oct, 19:56",
-      "isNew": true,
-      "id": "abc71790970971"
-    },
-    {
-      "title": "Ceuta, BE shqyrton masa të reja për emigracionin e parregullt, përfshirë procedura emergjente",
-      "link": "https://abcnews.al/ceuta-be-shqyrton-masa-te-reja-per-emigracionin-e-parregullt-perfshire-procedura-emergjente/",
-      "description": "Bashkimi Evropian po shqyrton mundësi të reja për menaxhimin e flukseve të emigracionit të parregullt, në një kohë kur vendet anëtare po kërkojnë mekanizma më të shpejtë për reagimin ndaj mbërritjeve të papritura dhe në shkallë të gjerë. Pas miratimit të rregullave të reja për kthimin e migrantëve, ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-02T19:38:12+00:00",
-      "dateStr": "02 Oct, 19:38",
-      "isNew": true,
-      "id": "abc81790969892"
-    },
-    {
-      "title": "Australia: Lojërat online si Steam dhe Roblox kanë boshllëqe të konsiderueshme për sigurinë e fëmijëve",
-      "link": "https://abcnews.al/australia-lojerat-online-si-steam-dhe-roblox-kane-boshlleqe-te-konsiderueshme-per-sigurine-e-femijeve/",
-      "description": "Rregullatori i sigurisë online i Australisë ka gjetur boshllëqe të konsiderueshme në mënyrën se si platformat e njohura të lojërave i mbrojnë fëmijët online. Në një raport të ri, u gjetën qasje të paqëndrueshme në mënyrën se si Steam, Roblox, Fortnite dhe Minecraft zbatojnë masat e sigurisë së fëmij",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-02T19:23:09+00:00",
-      "dateStr": "02 Oct, 19:23",
-      "isNew": true,
-      "id": "abc91790968989"
+      "id": "abc91790975995"
     },
     {
       "title": "Austria–Kosova LIVE: Ndiqeni këtu ndeshjen e Dardanëve",
