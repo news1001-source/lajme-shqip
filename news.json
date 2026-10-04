@@ -1,18 +1,172 @@
 {
-  "lastUpdated": "2026-10-04T18:58:27.555889+00:00",
+  "lastUpdated": "2026-10-04T22:15:03.993632+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Tafelspitz vjenez — mishi i zier austriak me salcë rrepke dhe perime",
-      "link": "https://24-ore.com/tafelspitz-vjenez-mishi-i-zier-austriak-me-salce-rrepke-dhe-perime/",
-      "description": "Pjata kombëtare e Austrisë dhe e preferuara e perandorit Franz Joseph: mish viçi i zier ngadalë në lëng me perime rrënjore, i prerë në feta dhe i servirur me salcë kremoze rrepke, qepë të njoma dhe perime të ziera — receta klasike e kuzhinës vjeneze.",
+      "title": "Zerde tradicionale — ëmbëlsira osmane me oriz dhe shafran",
+      "link": "https://24-ore.com/zerde-tradicionale-embelsira-osmane-me-oriz-dhe-shafran/",
+      "description": "Puding i artë orizi me shafran, i zbukuruar me arra pishe dhe fruta të thata — ëmbëlsira festive e traditës osmane, e lehtë dhe aromatike.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-04T18:54:58+00:00",
-      "dateStr": "04 Oct, 18:54",
+      "date": "2026-10-04T21:52:45+00:00",
+      "dateStr": "04 Oct, 21:52",
       "isNew": true,
-      "id": "24 01791140098"
+      "id": "24 01791150765"
+    },
+    {
+      "title": "«The First Honest Day» i Nikolay Shestak fiton Grand Prix-in 450 mijë dollarësh në festivalin e parë të filmit me inteligjencë artificiale në Astana",
+      "link": "https://24-ore.com/the-first-honest-day-i-nikolay-shestak-fiton-grand-prix-in-450-mije-dollaresh-ne-festivalin-e-pare-te-filmit-me-inteligjence-artificiale-ne-astana/",
+      "description": "Festivali inaugural i Filmit me Inteligjencë Artificiale i Astanës (AAIFF 2026) u mbajt më 1–3 tetor 2026 në Astana, Kazakistan, si pjesë e Muajit të AI-së. Siç njofton agjencia kazake e lajmeve Kazinform, ngjarja e parë e këtij lloji në botë shënoi një moment kthese: kinemaja e krijuar me ndihmën e",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-04T21:48:52+00:00",
+      "dateStr": "04 Oct, 21:48",
+      "isNew": true,
+      "id": "24 11791150532"
+    },
+    {
+      "title": "Zelenski: SHBA propozon takim teknik trepalësh me Rusinë deri në fund të tetorit; Ukraina gati, pret përgjigjen e Moskës",
+      "link": "https://24-ore.com/zelenski-shba-propozon-takim-teknik-trepalesh-me-rusine-deri-ne-fund-te-tetorit-ukraina-gati-pret-pergjigjen-e-moskes/",
+      "description": "Presidenti ukrainas Volodymyr Zelenski njoftoi të dielën, më 4 tetor, në Kiev se Shtetet e Bashkuara kanë propozuar mbajtjen e një takimi trepalësh (SHBA–Ukrainë–Rusi) në nivel teknik deri në fund të tetorit. Njoftimi u bë në konferencën e përbashkët për shtyp me kancelarin gjerman Friedrich Merz, i",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-04T21:47:02+00:00",
+      "dateStr": "04 Oct, 21:47",
+      "isNew": true,
+      "id": "24 21791150422"
+    },
+    {
+      "title": "Vetëm gjatë vitit 2025 janë diagnostikuar 601 raste të reja me kancer të gjirit",
+      "link": "https://24-ore.com/vetem-gjate-vitit-2025-jane-diagnostikuar-601-raste-te-reja-me-kancer-te-gjirit/",
+      "description": "Sipas të dhënave të Ministrisë së Shëndetësisë, vetëm gjatë vitit 2025 janë diagnostikuar 601 raste të reja me kancer të gjirit. Nga Ministria theksojnë rëndësinë e zbulimit të hershëm, ndërsa vetëkontrollin e gjirit e konsiderojnë një hap të rëndësishëm në kujdesin ndaj shëndetit. Për të ndihmuar n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-04T21:44:41+00:00",
+      "dateStr": "04 Oct, 21:44",
+      "isNew": true,
+      "id": "24 31791150281"
+    },
+    {
+      "title": "Tenda para Kuvendit, protestuesit paralajmërojnë qëndrim gjatë gjithë natës",
+      "link": "https://24-ore.com/tenda-para-kuvendit-protestuesit-paralajmerojne-qendrim-gjate-gjithe-nates/",
+      "description": "Protesta kundër vendimit të Gjykatës Speciale ndaj ish-krerëve të UÇK-së po vazhdon edhe sonte në sheshin “Skënderbeu” në Prishtinë, ndërsa një grup qytetarësh kanë paralajmëruar qëndrimin gjatë gjithë natës para Kuvendit të Kosovës. Për këtë qëllim, tashmë janë vendosur edhe tendat para objektit të",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-04T21:44:31+00:00",
+      "dateStr": "04 Oct, 21:44",
+      "isNew": true,
+      "id": "24 41791150271"
+    },
+    {
+      "title": "Ish-kërkuesi i Anthropic, Jacob Coxon, do të dëshmojë në seancën e inteligjencës artificiale të Këshillit të Nju Jorkut",
+      "link": "https://24-ore.com/ish-kerkuesi-i-anthropic-jacob-coxon-do-te-deshmoje-ne-seancen-e-inteligjences-artificiale-te-keshillit-te-nju-jorkut/",
+      "description": "Jacob Coxon, ish-kërkuesi i Anthropic që dha dorëheqjen me paralajmërime të forta për rreziqet e inteligjencës artificiale, do të dëshmojë në seancën e rrallë të Komitetit të Plotë të Këshillit të Nju Jorkut të hënën, më 5 tetor 2026, siç raporton Bloomberg.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-04T21:40:27+00:00",
+      "dateStr": "04 Oct, 21:40",
+      "isNew": true,
+      "id": "24 51791150027"
+    },
+    {
+      "title": "Ambasada e Ukrainës falënderon Malin e Zi pasi diplomacia malazeze konfirmoi se misioni në Kiev do të vazhdojë punën",
+      "link": "https://24-ore.com/ambasada-e-ukraines-falenderon-malin-e-zi-pasi-diplomacia-malazeze-konfirmoi-se-misioni-ne-kiev-do-te-vazhdoje-punen/",
+      "description": "Ministria e Punëve të Jashtme e Malit të Zi iu bashkua deklaratës së përbashkët të misioneve diplomatike në Kiev, duke deklaruar se ambasada do të mbetet në kryeqytetin ukrainas pavarësisht kërcënimeve ruse.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-04T21:33:56+00:00",
+      "dateStr": "04 Oct, 21:33",
+      "isNew": true,
+      "id": "24 61791149636"
+    },
+    {
+      "title": "UKMTO: Shpërthime pranë një anijeje në brigjet e Jemenit në Detin e Kuq — ekuipazhi i sigurt",
+      "link": "https://24-ore.com/ukmto-shperthime-prane-nje-anijeje-ne-brigjet-e-jemenit-ne-detin-e-kuq-ekuipazhi-i-sigurt/",
+      "description": "Agjencia britanike e Operacioneve Tregtare Detare (UKMTO) njoftoi të dielën se ka marrë raportim për një incident rreth 60 milje detare (rreth 110 kilometra) në jug të Mokës së Jemenit, ku ekuipazhi i një cisterne pa shpërthime të shumta pranë anijes, siç njofton Al Jazeera në liveblog-un e saj për ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-04T21:31:07+00:00",
+      "dateStr": "04 Oct, 21:31",
+      "isNew": true,
+      "id": "24 71791149467"
+    },
+    {
+      "title": "Kryeministri libanez Salam: Libani kërkon “faqe të re” me Iranin — pranon takimin e kërkuar nga Pezeshkian",
+      "link": "https://24-ore.com/kryeministri-libanez-salam-libani-kerkon-faqe-te-re-me-iranin-pranon-takimin-e-kerkuar-nga-pezeshkian/",
+      "description": "Kryeministri i Libanit, Nawaf Salam, deklaroi të dielën se vendi i tij kërkon të hapë një &#8220;faqe të re&#8221; në marrëdhëniet me Iranin, të bazuar në respektin e ndërsjellë dhe mosndërhyrjen, siç njofton Al Jazeera në liveblog-un e saj për luftën SHBA–Iran. Deklaratat u bënë në një intervistë p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-04T21:27:59+00:00",
+      "dateStr": "04 Oct, 21:27",
+      "isNew": true,
+      "id": "24 81791149279"
+    },
+    {
+      "title": "Qindra qytetarë në turneun bamirës të basketit në Podgoricë për tifozin e sëmurë të Buduçnostit",
+      "link": "https://24-ore.com/qindra-qytetare-ne-turneun-bamires-te-basketit-ne-podgorice-per-tifozin-e-semure-te-buducnostit/",
+      "description": "Në parkun e Njegoshit u mbajt turneu \"për Çakun\", me 62 ekipe nga Mali i Zi dhe rajoni, për të mbledhur ndihmë për Aleksandar Çaka Ivanoviqin, liderin e tifozëve \"Varvarët\" që po lufton me një sëmundje të rëndë.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-04T21:26:03+00:00",
+      "dateStr": "04 Oct, 21:26",
+      "isNew": true,
+      "id": "24 91791149163"
+    },
+    {
+      "title": "Zelensky: Rusia mund t’i ketë dhënë Koresë së Veriut teknologjinë e dronëve me motor reaktiv",
+      "link": "https://abcnews.al/zelensky-rusia-mund-ti-kete-dhene-korese-se-veriut-teknologjine-e-droneve-me-motor-reaktiv/",
+      "description": "Presidenti ukrainas Volodymyr Zelensky ka deklaruar se beson se Rusia i ka transferuar Koresë së Veriut teknologjinë për prodhimin e dronëve me motor reaktiv, në atë që ai e konsideron një thellim të bashkëpunimit ushtarak mes Moskës dhe Phenianit. Dronët e tillë janë përdorur gjithnjë e më shumë ng",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-04T20:42:00+00:00",
+      "dateStr": "04 Oct, 20:42",
+      "isNew": true,
+      "id": "abc01791146520"
+    },
+    {
+      "title": "GPS me Albana Ruçi, (04/10/2026)",
+      "link": "https://abcnews.al/gps-me-albana-ruci-04-10-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-04T20:20:49+00:00",
+      "dateStr": "04 Oct, 20:20",
+      "isNew": true,
+      "id": "abc11791145249"
+    },
+    {
+      "title": "Të shtëna në një festë në SHBA/ Dy viktima dhe 35 të plagosur",
+      "link": "https://abcnews.al/te-shtena-ne-nje-feste-ne-shba-dy-viktima-dhe-35-te-plagosur/",
+      "description": "Dy persona u vranë dhe deri në 35 të tjerë u plagosën në të shtënat masive që ndodhën në orët e para të mëngjesit në Georgia, SHBA, gjatë një feste. Sipas Byrosë së Hetimeve të Georgias të shtënat ndodhën afërsisht në orën 1:25 të mëngjesit kur më shumë se 1,000 njerëz ishin mbledhur në një [...]Rea",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-04T19:58:52+00:00",
+      "dateStr": "04 Oct, 19:58",
+      "isNew": true,
+      "id": "abc21791143932"
+    },
+    {
+      "title": "Netanyahu: Izraeli synon të jetë lider botëror në luftën detare",
+      "link": "https://abcnews.al/netanyahu-izraeli-synon-te-jete-lider-boteror-ne-luften-detare/",
+      "description": "Kryeministri izraelit Benjamin Netanyahu deklaroi se Izraeli synon të bëhet “lider botëror” në luftën detare. Gjatë vizitës në bazën detare të Ashdodit, ai theksoi rëndësinë në rritje të kontrollit dhe sigurisë në det. Netanyahu tha se Izraeli duhet të mbrojë vendin nga kërcënimet që mund të vijnë p",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-04T19:45:37+00:00",
+      "dateStr": "04 Oct, 19:45",
+      "isNew": true,
+      "id": "abc31791143137"
+    },
+    {
+      "title": "SHBA propozon raund të ri bisedimesh Rusi-Ukrainë",
+      "link": "https://abcnews.al/shba-propozon-raund-te-ri-bisedimesh-rusi-ukraine/",
+      "description": "Shtetet e Bashkuara kanë propozuar zhvillimin e një raundi të ri bisedimesh mes Rusisë dhe Ukrainës, në kuadër të përpjekjeve të Uashingtonit për të rikthyer procesin diplomatik dhe për të gjetur një rrugë drejt përfundimit të luftës. Presidenti ukrainas Volodymyr Zelensky tha të dielën se pala amer",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-04T19:24:01+00:00",
+      "dateStr": "04 Oct, 19:24",
+      "isNew": true,
+      "id": "abc41791141841"
     },
     {
       "title": "Gjërat tona/ Saranda, krime pa ndëshkim. Kërcënime me tritol e dy të vrarë pas plagosjes së vitit 2025",
@@ -23,51 +177,7 @@
       "date": "2026-10-04T18:50:29+00:00",
       "dateStr": "04 Oct, 18:50",
       "isNew": true,
-      "id": "abc01791139829"
-    },
-    {
-      "title": "Kosova shkëlqeu, por Austria ia prishi festën në fund",
-      "link": "https://24-ore.com/kosova-shkelqeu-por-austria-ia-prishi-festen-ne-fund/",
-      "description": "Skip to content Categories Botërori 2026 E-sports Euro 2024 Ndërkombëtar Opinione Qatar 2022 Showbizz Sporte tjera Top Ligat Top Tema Trending Uncategorized Vendor October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-04T18:48:04+00:00",
-      "dateStr": "04 Oct, 18:48",
-      "isNew": true,
-      "id": "24 11791139684"
-    },
-    {
-      "title": "Tom Cruise mbron «Digger»-in pas dështimit në box office: «Jam krenar për atë që krijuam»",
-      "link": "https://24-ore.com/tom-cruise-mbron-digger-in-pas-deshtimit-ne-box-office-jam-krenar-per-ate-qe-krijuam/",
-      "description": "Filmi i Alejandro G. Iñárritu mblodhi vetëm 7.5 milionë dollarë në fundjavën e hapjes — hapja më e dobët për aktorin në 19 vjet",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-04T18:47:23+00:00",
-      "dateStr": "04 Oct, 18:47",
-      "isNew": true,
-      "id": "24 21791139643"
-    },
-    {
-      "title": "Zelenski beson se Rusia mund të ketë ndarë teknologjinë e dronëve reaktivë me Korenë e Veriut",
-      "link": "https://24-ore.com/zelenski-beson-se-rusia-mund-te-kete-ndare-teknologjine-e-droneve-reaktive-me-korene-e-veriut/",
-      "description": "Presidenti ukrainas Volodymyr Zelenski deklaroi të dielën se beson që Rusia mund të ketë ndarë me Korenë e Veriut teknologjinë e dronëve me motor reaktiv. I pyetur nga gazetarët nëse Moska ia ka ndarë Phenianit teknologjinë pas gjeneratës së fundit të dronëve reaktivë, Zelenski u përgjigj: &#8220;Po",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-04T18:45:39+00:00",
-      "dateStr": "04 Oct, 18:45",
-      "isNew": true,
-      "id": "24 31791139539"
-    },
-    {
-      "title": "SRCE: Të gjithë pjesëmarrësit në zgjedhje duhet të deklarohen qartë për shfrytëzimin e litiumit",
-      "link": "https://24-ore.com/srce-te-gjithe-pjesemarresit-ne-zgjedhje-duhet-te-deklarohen-qarte-per-shfrytezimin-e-litiumit/",
-      "description": "Këshilli për energjinë dhe minierat i partisë \"Srbija centar\" kërkon që të gjitha forcat politike të deklarohen për projektin \"Jadar\" para zgjedhjeve të 25 tetorit.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-04T18:36:18+00:00",
-      "dateStr": "04 Oct, 18:36",
-      "isNew": true,
-      "id": "24 41791138978"
+      "id": "abc51791139829"
     },
     {
       "title": "Newsroom me Erneta Shevroja, (04/10/2026)",
@@ -78,62 +188,7 @@
       "date": "2026-10-04T18:34:17+00:00",
       "dateStr": "04 Oct, 18:34",
       "isNew": true,
-      "id": "abc11791138857"
-    },
-    {
-      "title": "11 “votues fantazmë” të regjistruar në një shtëpi të braktisur në qendër të Beogradit — Nova.rs denoncon rastin e ri të mundshëm të vjedhjes së zgjedhjeve",
-      "link": "https://24-ore.com/11-votues-fantazme-te-regjistruar-ne-nje-shtepi-te-braktisur-ne-qender-te-beogradit-nova-rs-denoncon-rastin-e-ri-te-mundshem-te-vjedhjes-se-zgjedhjeve/",
-      "description": "Banori i Beogradit Goran Limić denoncon se në një shtëpi të braktisur prej dy dekadash në oborrin e tij, në Gundulićev venac, figurojnë 11 votues të regjistruar; ankesa e tij prej më shumë se dhjetë ditësh ende pa përgjigje nga institucionet.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-04T18:33:38+00:00",
-      "dateStr": "04 Oct, 18:33",
-      "isNew": true,
-      "id": "24 51791138818"
-    },
-    {
-      "title": "Irani emëron ministër të përkohshëm të Naftës: Hamid Bord zëvendëson Paknejad-in",
-      "link": "https://24-ore.com/irani-emeron-minister-te-perkohshem-te-naftes-hamid-bord-zevendeson-paknejad-in/",
-      "description": "Presidenti Pezeshkian pranoi dorëheqjen e Mohsen Paknejad-it, njoftojnë mediat shtetërore. Bord ka drejtuar më parë Kompaninë Kombëtare të Naftës së Iranit, në një kohë kur industria e naftës përballet me sfida prodhimi, eksporti dhe infrastrukture mes luftës me SHBA-në dhe Izraelin.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-04T18:31:43+00:00",
-      "dateStr": "04 Oct, 18:31",
-      "isNew": true,
-      "id": "24 61791138703"
-    },
-    {
-      "title": "Kosova ndalet në fund nga Austria",
-      "link": "https://24-ore.com/kosova-ndalet-ne-fund-nga-austria/",
-      "description": "Kosova është ndalur në barazim me Austrinë, në përballjen e vlefshme për Ligën B të Nations League. “Dardanët” ishin në epërsi, por Austria me një gol me fat arriti ta merrte një pikë në Prishtinë pasi ndeshja përfundoi 1-1. Përballja ishte tepër dramatike nga minuta e parë, ku të dy kombëtaret kërk",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-04T18:30:47+00:00",
-      "dateStr": "04 Oct, 18:30",
-      "isNew": true,
-      "id": "24 71791138647"
-    },
-    {
-      "title": "Deputeti iranian: Vizita e Pezeshkian-it dhe Araghchi-t në Nju Jork e bëri Iranin të duket i dobët dhe i përçarë",
-      "link": "https://24-ore.com/deputeti-iranian-vizita-e-pezeshkian-it-dhe-araghchi-t-ne-nju-jork-e-beri-iranin-te-duket-i-dobet-dhe-i-percare/",
-      "description": "Ali Khezrian i Komitetit të Sigurisë Kombëtare e quajti diplomacinë në Nju Jork \"të padenjë dhe të pamatur\" dhe e përshkroi Ngushticën e Hormuzit si \"Stalingradin\" e luftës.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-04T18:30:03+00:00",
-      "dateStr": "04 Oct, 18:30",
-      "isNew": true,
-      "id": "24 81791138603"
-    },
-    {
-      "title": "Sekretari amerikan i Energjisë: Përfundimi i luftës me Iranin do të ulte ndjeshëm çmimet e energjisë",
-      "link": "https://24-ore.com/sekretari-amerikan-i-energjise-perfundimi-i-luftes-me-iranin-do-te-ulte-ndjeshem-cmimet-e-energjise/",
-      "description": "Chris Wright deklaroi të dielën në CBS se presidenti Trump ka punuar \"pa pushim\" për t'i dhënë fund luftës me Iranin, ndërsa çmimi mesatar i benzinës në SHBA ka arritur 4.37 dollarë për gallon.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-04T18:28:07+00:00",
-      "dateStr": "04 Oct, 18:28",
-      "isNew": true,
-      "id": "24 91791138487"
+      "id": "abc61791138857"
     },
     {
       "title": "Protestat e nxënësve përshkallëzohen në Francë, mbyllen deri në 500 shkolla",
@@ -144,7 +199,7 @@
       "date": "2026-10-04T18:22:45+00:00",
       "dateStr": "04 Oct, 18:22",
       "isNew": true,
-      "id": "abc21791138165"
+      "id": "abc71791138165"
     },
     {
       "title": "Aksident në Ksamil/ Motori del nga rruga, plagoset drejtuesi 28-vjeçar",
@@ -155,7 +210,7 @@
       "date": "2026-10-04T17:56:25+00:00",
       "dateStr": "04 Oct, 17:56",
       "isNew": true,
-      "id": "abc31791136585"
+      "id": "abc81791136585"
     },
     {
       "title": "“Mbrojtja do krijojë hetimet e veta”/ Drafti i ri i Kodit të Procedurës Penale, Bonjaku: Ndryshon mënyra se si do merren provat",
@@ -166,62 +221,7 @@
       "date": "2026-10-04T17:32:21+00:00",
       "dateStr": "04 Oct, 17:32",
       "isNew": true,
-      "id": "abc41791135141"
-    },
-    {
-      "title": "“Avokati, pjesa më kyçe e një dosje”/ Petraj: Veprat nën 5 vjet burg nuk kanë rrezikshmëri shoqërore",
-      "link": "https://abcnews.al/avokati-pjesa-me-kyce-e-nje-dosje-petraj-veprat-nen-5-vjet-burg-nuk-kane-rrezikshmeri-shoqerore/",
-      "description": "Avokati Edmond Petraj thotë se me ndryshimet në Kodin e Procedurës Penale, nxirret në pah roli dhe fuqia e avokatëve. Në emisionin &#8220;Newsroom&#8221; në ABC News, Petraj u shpreh se provat e mbledhura nga prokurori, duhet t&#8217;i dorëzohen avokatit. Sipas tij, veprat penale nën 5 vjet burg nuk",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-04T17:18:29+00:00",
-      "dateStr": "04 Oct, 17:18",
-      "isNew": true,
-      "id": "abc51791134309"
-    },
-    {
-      "title": "NewsHour me Erneta Shevroja, (04/10/2026)",
-      "link": "https://abcnews.al/newshour-me-erneta-shevroja-04-10-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-04T16:58:32+00:00",
-      "dateStr": "04 Oct, 16:58",
-      "isNew": true,
-      "id": "abc61791133112"
-    },
-    {
-      "title": "Aktivizohen disa vatra në Margëlliç të Patosit/ Era favorizon përhapjen e flakëve, zjarrfikësit në terren",
-      "link": "https://abcnews.al/aktivizohen-disa-vatra-ne-margellic-te-patosit-era-favorizon-perhapjen-e-flakeve-zjarrfikesit-ne-terren/",
-      "description": "Vatrat e zjarrit janë riaktivizuar në zonën e Margëlliçit, në Patos. Tetë mjete zjarrfikëse vijojnë operacionin në terren, ndërsa forcat zjarrfikëse po punojnë për izolimin dhe shuarjen e vatrave aktive. Terreni i vështirë kodrinor dhe era po favorizon përhapjen e flakëve, duke vështirësuar ndërhyrj",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-04T16:29:08+00:00",
-      "dateStr": "04 Oct, 16:29",
-      "isNew": true,
-      "id": "abc71791131348"
-    },
-    {
-      "title": "Rojet bregdetare amerikane vijon kërkimet e aeroplanit të zhdukur me 6 persona",
-      "link": "https://abcnews.al/rojet-bregdetare-amerikane-vijon-kerkimet-e-aeroplanit-te-zhdukur-me-6-persona/",
-      "description": "Hetimet gjetën mbeturina nga një aeroplan transporti mjekësor që mbante gjashtë persona kur u zhduk mbi Atlantik herët të shtunën gjatë një fluturimi nga Bermuda në Boston. Një deklaratë nga Roja Bregdetare tha se ekipet që kërkonin në brigjet e ishullit Nantucket të Massachusetts gjetën mbeturina q",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-04T16:04:27+00:00",
-      "dateStr": "04 Oct, 16:04",
-      "isNew": true,
-      "id": "abc81791129867"
-    },
-    {
-      "title": "Tension në prag të Irlandë-Izrael/ Trajneri irlandez përplaset me gazetarët dhe largohet",
-      "link": "https://abcnews.al/tension-ne-prag-te-irlande-izrael-trajneri-irlandez-perplaset-me-gazetaret-dhe-largohet/",
-      "description": "Lufta ka filluar pa ardhur ora e ndeshjes. Tensioni është në qiell në prag të sfidës mes Irlandës dhe Izraelit në Ligën e Kombeve, edhe pse do të luhet në fushë asnjanëse. Federata Irlandeze e Futbollit u detyrua të ndërpriste konferencën e shtypit të trajnerit të kombëtares së saj, Heimir Helgrimso",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-04T15:28:53+00:00",
-      "dateStr": "04 Oct, 15:28",
-      "isNew": true,
-      "id": "abc91791127733"
+      "id": "abc91791135141"
     },
     {
       "title": "Përfshirja në rritje e Izraelit në Ballkan: asimetria e re e sigurisë dhe roli balancues i Turqisë",
