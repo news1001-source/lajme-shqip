@@ -1,73 +1,150 @@
 {
-  "lastUpdated": "2026-10-09T21:25:41.072558+00:00",
+  "lastUpdated": "2026-10-10T01:27:03.043796+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Koalicioni i udhëhequr nga Arabia Saudite shpall “operacion të madh” kundër Huthi-ve: 136 objektiva të shkatërruara në al-Jawf dhe Marib",
-      "link": "https://24-ore.com/koalicioni-i-udhehequr-nga-arabia-saudite-shpall-operacion-te-madh-kunder-huthi-ve-136-objektiva-te-shkaterruara-ne-al-jawf-dhe-marib/",
-      "description": "Koalicioni saudit thotë se po çmonton rrjetin e raketave balistike të Huthi-ve, ndërkohë që kryeministri i Jemenit e quan sulmin ndaj aeroportit të Riadit akt \"kriminal\" dhe akuzon grupin se po vepron për Iranin.",
+      "title": "MoMA hap ekspozitën immersive «Wetland»: një kënetë digjitale e Jakob Kudsk Steensen",
+      "link": "https://24-ore.com/moma-hap-ekspoziten-immersive-wetland-nje-kenete-digjitale-e-jakob-kudsk-steensen/",
+      "description": "Ekspozita immersive «Wetland» hapet më 12 tetor 2026 në hollin e MoMA-s dhe sjell instalacionin e kënetës digjitale «Berl-Berl» të artistit danez Jakob Kudsk Steensen. Ekspozita do të qëndrojë hapur deri më 7 mars 2027.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-09T21:25:34+00:00",
-      "dateStr": "09 Oct, 21:25",
+      "date": "2026-10-10T00:59:27+00:00",
+      "dateStr": "10 Oct, 00:59",
       "isNew": true,
-      "id": "24 01791581134"
+      "id": "24 01791593967"
     },
     {
-      "title": "Trump i kërkon Kolombusit të Ohajos të rikthejë statujën e Kristofor Kolombit: “Ai është hero për ne”",
-      "link": "https://24-ore.com/trump-i-kerkon-kolombusit-te-ohajos-te-riktheje-statujen-e-kristofor-kolombit-ai-eshte-hero-per-ne/",
-      "description": "Presidenti Donald Trump i bëri thirrje qytetit të Kolombusit, Ohajo, që ta rikthejë statujën e Kristofor Kolombit &#8220;në zemër të Kolombusit&#8221;, gjatë një feste për Ditën e Kolombit në Shtëpinë e Bardhë, sipas Columbus Dispatch. Trump foli të enjten, më 9 tetor, në East Room të Shtëpisë së Ba",
+      "title": "Yassa me pulë — pjata klasike senegaleze me qepë, limon dhe mustardë",
+      "link": "https://24-ore.com/yassa-me-pule-pjata-klasike-senegaleze-me-qepe-limon-dhe-mustarde/",
+      "description": "Pjata kombëtare e Senegalit: pula marinohet në limon e mustardë, skuqet dhe zihet ngadalë me qepë të karamelizuara — shërbehet me oriz të bardhë.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-09T21:14:44+00:00",
-      "dateStr": "09 Oct, 21:14",
+      "date": "2026-10-10T00:50:46+00:00",
+      "dateStr": "10 Oct, 00:50",
       "isNew": true,
-      "id": "24 11791580484"
+      "id": "24 11791593446"
     },
     {
-      "title": "Bursat amerikane mbyllin javën me fitime; gjigantët e telekomit bien pas marrëveshjes së SpaceX për spektrin",
-      "link": "https://24-ore.com/bursat-amerikane-mbyllin-javen-me-fitime-gjigantet-e-telekomit-bien-pas-marreveshjes-se-spacex-per-spektrin/",
-      "description": "Wall Street e mbylli javën me fitime të premten, ndërsa aksionet e teknologjisë u rimëkëmben pas rënies së enjten — por gjigantët e telekomit pësuan rënie të fortë pasi SpaceX njoftoi blerjen e një portofoli kombëtar licencash spektri, siç njofton Investopedia. Të premten, indeksi Dow Jones Industri",
+      "title": "Del trailer-i zyrtar amerikan i dy filmave për De Gaulle-in: “Resistance” më 6 nëntor, “Liberty” më 4 dhjetor në SHBA",
+      "link": "https://24-ore.com/del-trailer-i-zyrtar-amerikan-i-dy-filmave-per-de-gaulle-in-resistance-me-6-nentor-liberty-me-4-dhjetor-ne-shba/",
+      "description": "Samuel Goldwyn Films zbuloi trailer-in e dy-pjesëshit historik të Antonin Baudry për Charles de Gaulle-in, me Simon Abkarian në rol — premiera në Kanë, në kinema dhe VOD këtë vjeshtë",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-09T21:12:46+00:00",
-      "dateStr": "09 Oct, 21:12",
+      "date": "2026-10-10T00:47:46+00:00",
+      "dateStr": "10 Oct, 00:47",
       "isNew": true,
-      "id": "24 21791580366"
+      "id": "24 21791593266"
     },
     {
-      "title": "Prokuroria jep detaje për krimin në Livoç: 38-vjeçari dyshohet se vrau gruan dhe vëllain e saj",
-      "link": "https://24-ore.com/prokuroria-jep-detaje-per-krimin-ne-livoc-38-vjecari-dyshohet-se-vrau-gruan-dhe-vellain-e-saj/",
-      "description": "Prokuroria Themelore në Gjilan njoftoi se 38-vjeçari V.R. dyshohet se vrau bashkëshorten N.B. dhe vëllain e saj E.B., ndërsa plagosi rëndë M.B.; në vendngjarje u sekuestrua një pistoletë \"Beretta\" me leje të skaduar.",
+      "title": "Venezuela autorizon zyrtarisht internetin satelitor Starlink të Musk-ut në vend",
+      "link": "https://24-ore.com/venezuela-autorizon-zyrtarisht-internetin-satelitor-starlink-te-musk-ut-ne-vend/",
+      "description": "Presidentja e përkohshme Delcy Rodríguez ka nënshkruar marrëveshjen me kompaninë amerikane SpaceX për operimin e shërbimit; vendimi zyrtar vjen në mes të shkrirjes së marrëdhënieve mes Washingtonit dhe Karakasit.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-09T21:09:06+00:00",
-      "dateStr": "09 Oct, 21:09",
+      "date": "2026-10-10T00:38:24+00:00",
+      "dateStr": "10 Oct, 00:38",
       "isNew": true,
-      "id": "24 31791580146"
+      "id": "24 31791592704"
     },
     {
-      "title": "Hasani: Dhoma Kushtetuese e Gjykatës Speciale ka gjasa ta anulojë Ligjin e ri për Specialen",
-      "link": "https://24-ore.com/hasani-dhoma-kushtetuese-e-gjykates-speciale-ka-gjasa-ta-anuloje-ligjin-e-ri-per-specialen/",
-      "description": "Ish-kryetari i Gjykatës Kushtetuese, Enver Hasani, vlerëson se Dhoma Kushtetuese e Gjykatës Speciale ka gjasa të mëdha ta anulojë ligjin e ri për Specialen, të votuar dy ditë më parë në Kuvendin e Kosovës.",
+      "title": "Mbretëresha Rania inauguroi ekspozitën «Layered Becoming» në Aqaba: mbi 140 vepra nga 10 artistë",
+      "link": "https://24-ore.com/mbreteresha-rania-inauguroi-ekspoziten-layered-becoming-ne-aqaba-mbi-140-vepra-nga-10-artiste/",
+      "description": "Ekspozita e organizuar nga fondacioni WUJUD në Ayla Oasis, nën patronazhin e mbretëreshës, eksploron shndërrimin dhe raportin mes artit, materies, kujtesës dhe vendit; e hapur për vizitorët deri më 10 dhjetor.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-09T21:07:45+00:00",
-      "dateStr": "09 Oct, 21:07",
+      "date": "2026-10-10T00:25:18+00:00",
+      "dateStr": "10 Oct, 00:25",
       "isNew": true,
-      "id": "24 41791580065"
+      "id": "24 41791591918"
     },
     {
-      "title": "«Paranormal Activity» zgjatet edhe tetë javë në Broadway: shfaqjet vazhdojnë deri më 28 shkurt 2027",
-      "link": "https://24-ore.com/paranormal-activity-zgjatet-edhe-tete-jave-ne-broadway-shfaqjet-vazhdojne-deri-me-28-shkurt-2027/",
-      "description": "Drama horror e shkruar nga Levi Holloway dhe e drejtuar nga Felix Barrett, frymëzuar nga seria e famshme e filmave, hapi perden më 26 gusht në Teatrin August Wilson — tani zgjat qëndrimin për shkak të kërkesës së madhe të publikut.",
+      "title": "Fotot e para nga «The Imaginary Invalid» në Broadway: Bill Irwin dhe Rachel Bloom në komedinë e Molière-it",
+      "link": "https://24-ore.com/fotot-e-para-nga-the-imaginary-invalid-ne-broadway-bill-irwin-dhe-rachel-bloom-ne-komedine-e-moliere-it/",
+      "description": "Produksioni i Roundabout-it hapet zyrtarisht më 22 tetor në Todd Haimes Theatre dhe vazhdon deri më 22 nëntor",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-09T21:04:27+00:00",
-      "dateStr": "09 Oct, 21:04",
+      "date": "2026-10-10T00:16:26+00:00",
+      "dateStr": "10 Oct, 00:16",
       "isNew": true,
-      "id": "24 51791579867"
+      "id": "24 51791591386"
+    },
+    {
+      "title": "Demokratët e Wisconsin-it padisin administratën Trump për reklamat me paratë e taksapaguesve",
+      "link": "https://24-ore.com/demokratet-e-wisconsin-it-padisin-administraten-trump-per-reklamat-me-parate-e-taksapaguesve/",
+      "description": "WASHINGTON — Partia Demokratike e Wisconsin-it ngriti të premten, më 9 tetor 2026, padi kundër presidentit Donald Trump dhe administratës së tij në Gjykatën Federale për Distriktin e Kolumbias, duke e akuzuar se ka përdorur në mënyrë të paligjshme paratë e taksapaguesve për reklama që promovojnë pre",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-10T00:15:20+00:00",
+      "dateStr": "10 Oct, 00:15",
+      "isNew": true,
+      "id": "24 61791591320"
+    },
+    {
+      "title": "Kabineti i Siljanovska-Davkovës: Qëndrimi për të drejtën e abortit mbetet i pandryshuar",
+      "link": "https://24-ore.com/kabineti-i-siljanovska-davkoves-qendrimi-per-te-drejten-e-abortit-mbetet-i-pandryshuar/",
+      "description": "Siç njofton 360 степени, kabineti i presidentes reagon ndaj letrës së hapur të Rrjetit për Mbrojtje nga Diskriminimi, që vuri në dyshim takimin e 6 tetorit me përfaqësueset e shoqatës “Unë jam grua”; sipas njoftimit, për abortin apo kufizimin e të drejtave riprodhuese nuk është folur fare.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-09T23:56:08+00:00",
+      "dateStr": "09 Oct, 23:56",
+      "isNew": true,
+      "id": "24 71791590168"
+    },
+    {
+      "title": "Quindim brazilian — ëmbëlsira e artë me kokos dhe të verdha vezësh",
+      "link": "https://24-ore.com/quindim-brazilian-embelsira-e-arte-me-kokos-dhe-te-verdha-vezesh/",
+      "description": "Një ëmbëlsirë klasike braziliane me kokos të grirë, të verdha vezësh dhe sheqer, e pjekur në banjë-mari derisa të marrë ngjyrën e artë karakteristike.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-09T23:51:07+00:00",
+      "dateStr": "09 Oct, 23:51",
+      "isNew": true,
+      "id": "24 81791589867"
+    },
+    {
+      "title": "Startup-i gjashtëmuajsh i çipave Nuvacore synon vlerësim rreth 2.5 miliardë dollarë për procesorin e ri për qendrat e të dhënave",
+      "link": "https://24-ore.com/startup-i-gjashtemuajsh-i-cipave-nuvacore-synon-vleresim-rreth-2-5-miliarde-dollare-per-procesorin-e-ri-per-qendrat-e-te-dhenave/",
+      "description": "Startup-i gjashtëmuajsh Nuvacore, i themeluar nga ish-shefi i Apple Gerard Williams, po mbledh qindra miliona dollarë për një procesor të ri qendror të dedikuar për qendrat e të dhënave, sipas Reuters.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-09T23:39:48+00:00",
+      "dateStr": "09 Oct, 23:39",
+      "isNew": true,
+      "id": "24 91791589188"
+    },
+    {
+      "title": "Trump marrëveshje me Putin për naftën/ Rusia do të furnizojë tregjet amerikane me miliona tonë naftë",
+      "link": "https://abcnews.al/trump-marreveshje-me-putin-per-naften-rusia-do-te-furnizoje-tregjet-amerikane-me-miliona-tone-nafte/",
+      "description": "Rusia do të furnizojë tregjet amerikane dhe globale me miliona ton naftë, sipas marrëveshjes së arritur mes presidentit amerikan, Donald Trump, dhe presidentit rus, Vladimir Putin. Marrëveshja u bë e ditur nga vetë Trump, pas një bisede telefonike me homologun rus. Në një postim në rrjetin social Tr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-09T21:40:26+00:00",
+      "dateStr": "09 Oct, 21:40",
+      "isNew": true,
+      "id": "abc01791582026"
+    },
+    {
+      "title": "Letta: Shqipëria integrim në tregun e BE/ Ish-kryeministri i Italisë mendon se procesi duhet të kryhet para anëtarësimit",
+      "link": "https://abcnews.al/letta-shqiperia-integrim-ne-tregun-e-be-ish-kryeministri-i-italise-mendon-se-procesi-duhet-te-kryhet-para-anetaresimit/",
+      "description": "Vendet kandidate të përfitojnë nga integrimi ekonomik edhe përpara anëtarësimit formal në Bashkimin Evropian. Kjo është perspektiva që sjell në vëmendje ish-kryeministri italian dhe presidenti i Institutit Jacques Delors, Enrico Letta, duke e vendosur tregun e përbashkët në qendër të procesit të zgj",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-09T21:36:19+00:00",
+      "dateStr": "09 Oct, 21:36",
+      "isNew": true,
+      "id": "abc11791581779"
+    },
+    {
+      "title": "“Territorialja”, Leka: PS tregoi se nuk është e përçarë, ideja e PD për 100 bashki ishte lajthitje",
+      "link": "https://abcnews.al/territorialja-leka-ps-tregoi-se-nuk-eshte-e-percare-ideja-e-pd-per-100-bashki-ishte-lajthitje/",
+      "description": "TIRANË- Pas tensionit që shoqëroi votën përpara reformës territoriale, Kryeministri Rama flet për duar të pista që, sipas tij, tentuan të sabotojnë. Në një mesazh të fortë kundërshtarëve politikë, por edhe të tijve, kreu i maxhorancës lë të kuptohet se ai e ka nën kontroll llogarinë e partisë së tij",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-09T21:29:23+00:00",
+      "dateStr": "09 Oct, 21:29",
+      "isNew": true,
+      "id": "abc21791581363"
     },
     {
       "title": "“Toka Jonë” nga Xhoana Çallaku, (09/10/2026)",
@@ -78,29 +155,7 @@
       "date": "2026-10-09T21:00:47+00:00",
       "dateStr": "09 Oct, 21:00",
       "isNew": true,
-      "id": "abc01791579647"
-    },
-    {
-      "title": "FOKUS – G7: SHBA të ndalë presionin ndaj ICC-së",
-      "link": "https://24-ore.com/fokus-g7-shba-te-ndale-presionin-ndaj-icc-se/",
-      "description": "UASHINGTON, 9 tetor /ATSH-DPA/ – Gjashtë anëtarë të Grupit të Shtatë vendeve më të industrializuara të botës (G7) kanë rikonfirmuar “mbështetjen e tyre të vazhdueshme dhe të palëkundur” për Gjykatën Penale Ndërkombëtare (GJPN), pasi Shtetet e Bashkuara, gjithashtu anëtare të G7-së, njoftuan vendosje",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-09T21:00:12+00:00",
-      "dateStr": "09 Oct, 21:00",
-      "isNew": true,
-      "id": "24 61791579612"
-    },
-    {
-      "title": "Hapet sot në Çikago ekspozita e parë muzeale kushtuar Emma Stebbins-it: skulptorja e «Bethesda Fountain»-it rikthehet në vëmendje",
-      "link": "https://24-ore.com/hapet-sot-ne-cikago-ekspozita-e-pare-muzeale-kushtuar-emma-stebbins-it-skulptorja-e-bethesda-fountain-it-rikthehet-ne-vemendje/",
-      "description": "«Emma Stebbins: Carving Out History» në Driehaus Museum është ndalesa e parë e turneut amerikan të ekspozitës së organizuar nga Heckscher Museum; e hapur deri më 18 prill 2027.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-09T20:57:39+00:00",
-      "dateStr": "09 Oct, 20:57",
-      "isNew": true,
-      "id": "24 71791579459"
+      "id": "abc31791579647"
     },
     {
       "title": "Jeta mes vreshtave/ Nga vreshtat e Lushnjës, historia e fermerëve që zgjedhin tokën si mënyrë jetese",
@@ -111,29 +166,7 @@
       "date": "2026-10-09T20:52:54+00:00",
       "dateStr": "09 Oct, 20:52",
       "isNew": true,
-      "id": "abc11791579174"
-    },
-    {
-      "title": "Greqia bie 1–3 në Heraklion: Anglia e femrave merr avantazh të madh në play-off-in e Botërorit 2027",
-      "link": "https://24-ore.com/greqia-bie-1-3-ne-heraklion-anglia-e-femrave-merr-avantazh-te-madh-ne-play-off-in-e-boterorit-2027/",
-      "description": "Tre gola të Stanway, Le Tissier dhe Russo në stadiumin Pankritio; greket ngushtojnë me Brouksair para ndeshjes së kthimit të martën në Leicester",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-09T20:51:23+00:00",
-      "dateStr": "09 Oct, 20:51",
-      "isNew": true,
-      "id": "24 81791579083"
-    },
-    {
-      "title": "Row K, distributori i ri i Hollywood-it, drejt rrënimit një vit pas debutimit në TIFF: vetëm dy filma dhe 169 dollarë për sallë",
-      "link": "https://24-ore.com/row-k-distributori-i-ri-i-hollywood-it-drejt-rrenimit-nje-vit-pas-debutimit-ne-tiff-vetem-dy-filma-dhe-169-dollare-per-salle/",
-      "description": "Kompania e Christopher Woodrow, që la pas rreth 80 milionë dollarë blerje në Festivalin e Torontos një vit më parë, publikoi vetëm dy filma, u largua nga \"Poetic License\" dhe shiti \"Cliffhanger\" — ndërsa burimet për TheWrap thonë se kompania ka mbaruar.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-09T20:51:12+00:00",
-      "dateStr": "09 Oct, 20:51",
-      "isNew": true,
-      "id": "24 91791579072"
+      "id": "abc41791579174"
     },
     {
       "title": "Uragani “Isaias” arrin kategorinë 3, SHBA në gatishmëri për përmbytje dhe dëme të mëdha",
@@ -144,7 +177,7 @@
       "date": "2026-10-09T20:31:57+00:00",
       "dateStr": "09 Oct, 20:31",
       "isNew": true,
-      "id": "abc21791577917"
+      "id": "abc51791577917"
     },
     {
       "title": "Masakër mjedisore në Lushnjë/ Tonelata peshq të ngordhur pas tharjes së rezervuarit",
@@ -155,7 +188,7 @@
       "date": "2026-10-09T20:22:07+00:00",
       "dateStr": "09 Oct, 20:22",
       "isNew": true,
-      "id": "abc31791577327"
+      "id": "abc61791577327"
     },
     {
       "title": "Gjykata Ndërkombëtare Penale kundërshton sanksionet amerikane",
@@ -166,7 +199,7 @@
       "date": "2026-10-09T19:45:55+00:00",
       "dateStr": "09 Oct, 19:45",
       "isNew": true,
-      "id": "abc41791575155"
+      "id": "abc71791575155"
     },
     {
       "title": "Garda Revolucionare e Iranit godet anijen “NV Sunshine” në Ngushticën e Hormuzit",
@@ -177,7 +210,7 @@
       "date": "2026-10-09T19:45:53+00:00",
       "dateStr": "09 Oct, 19:45",
       "isNew": true,
-      "id": "abc51791575153"
+      "id": "abc81791575153"
     },
     {
       "title": "Delegacioni ukrainas mbërrin në Miami për bisedime me përfaqësuesit amerikanë",
@@ -188,40 +221,7 @@
       "date": "2026-10-09T19:25:39+00:00",
       "dateStr": "09 Oct, 19:25",
       "isNew": true,
-      "id": "abc61791573939"
-    },
-    {
-      "title": "Protestat e nxënësve në Francë, 141 shkolla të mesme mbeten të mbyllura",
-      "link": "https://abcnews.al/protestat-e-nxenesve-ne-france-141-shkolla-te-mesme-mbeten-te-mbyllura/",
-      "description": "Të paktën 141 shkolla të mesme vijojnë të jenë të mbyllura në Francë, mes protestave të nxënësve që kërkojnë përmirësimin e kushteve të mësimit dhe rinovimin e ndërtesave shkollore. Qeveria franceze ka njoftuar rekrutimin emergjent të 3,000 mësuesve zëvendësues, por sindikatat e kanë cilësuar këtë m",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-09T19:25:13+00:00",
-      "dateStr": "09 Oct, 19:25",
-      "isNew": true,
-      "id": "abc71791573913"
-    },
-    {
-      "title": "NATO paralajmëron stërvitjen vjetore për parandalimin bërthamor",
-      "link": "https://abcnews.al/nato-paralajmeron-stervitjen-vjetore-per-parandalimin-berthamor/",
-      "description": "NATO do të nisë më 13 tetor në Itali stërvitjen e saj vjetore për parandalimin bërthamor, “Steadfast Noon”, ku do të marrin pjesë 17 vende, njoftoi Aleanca. Në një deklaratë thuhet se stërvitja është një aktivitet rutinë trajnimi, i planifikuar prej kohësh, që synon ruajtjen e gatishmërisë dhe testi",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-09T19:16:01+00:00",
-      "dateStr": "09 Oct, 19:16",
-      "isNew": true,
-      "id": "abc81791573361"
-    },
-    {
-      "title": "Edicioni qendror me Juli Krisafi, (09/10/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-juli-krisafi-09-10-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-09T19:00:36+00:00",
-      "dateStr": "09 Oct, 19:00",
-      "isNew": true,
-      "id": "abc91791572436"
+      "id": "abc91791573939"
     },
     {
       "title": "Përfshirja në rritje e Izraelit në Ballkan: asimetria e re e sigurisë dhe roli balancues i Turqisë",
