@@ -1,117 +1,194 @@
 {
-  "lastUpdated": "2026-10-10T01:27:03.043796+00:00",
+  "lastUpdated": "2026-10-10T08:00:26.968940+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "MoMA hap ekspozitën immersive «Wetland»: një kënetë digjitale e Jakob Kudsk Steensen",
-      "link": "https://24-ore.com/moma-hap-ekspoziten-immersive-wetland-nje-kenete-digjitale-e-jakob-kudsk-steensen/",
-      "description": "Ekspozita immersive «Wetland» hapet më 12 tetor 2026 në hollin e MoMA-s dhe sjell instalacionin e kënetës digjitale «Berl-Berl» të artistit danez Jakob Kudsk Steensen. Ekspozita do të qëndrojë hapur deri më 7 mars 2027.",
+      "title": "Pesë kandidatë për pasardhësin e Islam Abazit në krye të Prokurorisë për krim të organizuar, emri më 28 tetor",
+      "link": "https://24-ore.com/pese-kandidate-per-pasardhesin-e-islam-abazit-ne-krye-te-prokurorise-per-krim-te-organizuar-emri-me-28-tetor/",
+      "description": "Më 28 tetor do të dihet pasardhësi i Islam Abazit në krye të Prokurorisë për ndjekjen e krimit të organizuar dhe korrupsionit. Sipas portalit Fokus, pesë kandidatë garojnë për postin dhe secili po paraqet vizionin e tij; prokuroret Iskra Haxhi Vasileva dhe Raiçeviq kanë premtuar “luftë” kundër krimi",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T00:59:27+00:00",
-      "dateStr": "10 Oct, 00:59",
+      "date": "2026-10-10T07:55:56+00:00",
+      "dateStr": "10 Oct, 07:55",
       "isNew": true,
-      "id": "24 01791593967"
+      "id": "24 01791618956"
     },
     {
-      "title": "Yassa me pulë — pjata klasike senegaleze me qepë, limon dhe mustardë",
-      "link": "https://24-ore.com/yassa-me-pule-pjata-klasike-senegaleze-me-qepe-limon-dhe-mustarde/",
-      "description": "Pjata kombëtare e Senegalit: pula marinohet në limon e mustardë, skuqet dhe zihet ngadalë me qepë të karamelizuara — shërbehet me oriz të bardhë.",
+      "title": "«How to Feel Real»: hapet sot në Muzeun MO të Vilniusit ekspozita e artit digjital me mbi 40 artistë dhe një robot-humanoid",
+      "link": "https://24-ore.com/how-to-feel-real-hapet-sot-ne-muzeun-mo-te-vilniusit-ekspozita-e-artit-digjital-me-mbi-40-artiste-dhe-nje-robot-humanoid/",
+      "description": "Muzeu MO në Vilnius ka hapur sot, më 10 tetor 2026, ekspozitën ndërkombëtare «How to Feel Real. Art, Technology and Us» («Si të ndihesh real. Arti, teknologjia dhe ne»), e cila do të qëndrojë e hapur për publikun deri më 29 gusht 2027, siç njofton Travel Extra. Ekspozita është zhvilluar në bashkëpun",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T00:50:46+00:00",
-      "dateStr": "10 Oct, 00:50",
+      "date": "2026-10-10T07:54:53+00:00",
+      "dateStr": "10 Oct, 07:54",
       "isNew": true,
-      "id": "24 11791593446"
+      "id": "24 11791618893"
     },
     {
-      "title": "Del trailer-i zyrtar amerikan i dy filmave për De Gaulle-in: “Resistance” më 6 nëntor, “Liberty” më 4 dhjetor në SHBA",
-      "link": "https://24-ore.com/del-trailer-i-zyrtar-amerikan-i-dy-filmave-per-de-gaulle-in-resistance-me-6-nentor-liberty-me-4-dhjetor-ne-shba/",
-      "description": "Samuel Goldwyn Films zbuloi trailer-in e dy-pjesëshit historik të Antonin Baudry për Charles de Gaulle-in, me Simon Abkarian në rol — premiera në Kanë, në kinema dhe VOD këtë vjeshtë",
+      "title": "Drejtori i burgut të Idrizovës propozon amnesti të re: burgu sërish i mbipopulluar",
+      "link": "https://24-ore.com/drejtori-i-burgut-te-idrizoves-propozon-amnesti-te-re-burgu-serish-i-mbipopulluar/",
+      "description": "Zoran Jovanovski, drejtori i KPD-së Idrizovo, propozoi në një intervistë për “360 Degrees” një amnesti të re për shkak të mbipopullimit të burgut. Dokumenti për amnestinë do t’i dorëzohet Ministrisë së Drejtësisë; në Idrizovo mbahen 1.296 të dënuar dhe ushtria ndihmon në sigurim.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T00:47:46+00:00",
-      "dateStr": "10 Oct, 00:47",
+      "date": "2026-10-10T07:54:13+00:00",
+      "dateStr": "10 Oct, 07:54",
       "isNew": true,
-      "id": "24 21791593266"
+      "id": "24 21791618853"
     },
     {
-      "title": "Venezuela autorizon zyrtarisht internetin satelitor Starlink të Musk-ut në vend",
-      "link": "https://24-ore.com/venezuela-autorizon-zyrtarisht-internetin-satelitor-starlink-te-musk-ut-ne-vend/",
-      "description": "Presidentja e përkohshme Delcy Rodríguez ka nënshkruar marrëveshjen me kompaninë amerikane SpaceX për operimin e shërbimit; vendimi zyrtar vjen në mes të shkrirjes së marrëdhënieve mes Washingtonit dhe Karakasit.",
+      "title": "Lasagna klasike bolognese — petët italiane me salcë mishi dhe beshamel",
+      "link": "https://24-ore.com/lasagna-klasike-bolognese-petet-italiane-me-salce-mishi-dhe-beshamel/",
+      "description": "Vetëm pak gatime mund të quhen pa frikë legjendë të kuzhinës, dhe lasagna bolognese është padyshim një prej tyre. Sipas recetës klasike të kuzhinës emiliane, sekreti i saj nuk fshihet te përbërësit e rrallë, por te durimi: një ragù i zier ngadalë, një beshamel i butë si mëndafsh dhe shtresat e petëv",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T00:38:24+00:00",
-      "dateStr": "10 Oct, 00:38",
+      "date": "2026-10-10T07:48:44+00:00",
+      "dateStr": "10 Oct, 07:48",
       "isNew": true,
-      "id": "24 31791592704"
+      "id": "24 31791618524"
     },
     {
-      "title": "Mbretëresha Rania inauguroi ekspozitën «Layered Becoming» në Aqaba: mbi 140 vepra nga 10 artistë",
-      "link": "https://24-ore.com/mbreteresha-rania-inauguroi-ekspoziten-layered-becoming-ne-aqaba-mbi-140-vepra-nga-10-artiste/",
-      "description": "Ekspozita e organizuar nga fondacioni WUJUD në Ayla Oasis, nën patronazhin e mbretëreshës, eksploron shndërrimin dhe raportin mes artit, materies, kujtesës dhe vendit; e hapur për vizitorët deri më 10 dhjetor.",
+      "title": "Kanosi për dy vite një të moshuar për t’i marrë para, arrestohet 41-vjeçari në Fier",
+      "link": "https://24-ore.com/kanosi-per-dy-vite-nje-te-moshuar-per-ti-marre-para-arrestohet-41-vjecari-ne-fier/",
+      "description": "Një 41-vjeçar është arrestuar nga Policia e Fierit, pasi dyshohet se për rreth dy vite ka kanosur vazhdimisht një 73-vjeçar, me qëllim për t’i marrë një shumë parash. Në pranga ka rënë shtetasi me inicialet I. Sh., banues në Vlorë, i cili u identifikua nga specialistët e Seksionit për Hetimin e Krim",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T00:25:18+00:00",
-      "dateStr": "10 Oct, 00:25",
+      "date": "2026-10-10T07:48:26+00:00",
+      "dateStr": "10 Oct, 07:48",
       "isNew": true,
-      "id": "24 41791591918"
+      "id": "24 41791618506"
     },
     {
-      "title": "Fotot e para nga «The Imaginary Invalid» në Broadway: Bill Irwin dhe Rachel Bloom në komedinë e Molière-it",
-      "link": "https://24-ore.com/fotot-e-para-nga-the-imaginary-invalid-ne-broadway-bill-irwin-dhe-rachel-bloom-ne-komedine-e-moliere-it/",
-      "description": "Produksioni i Roundabout-it hapet zyrtarisht më 22 tetor në Todd Haimes Theatre dhe vazhdon deri më 22 nëntor",
+      "title": "Filmi i animuar «Ally» i Bong Joon Ho-së merr datën e premierës: në Francë më 14 korrik 2027",
+      "link": "https://24-ore.com/filmi-i-animuar-ally-i-bong-joon-ho-se-merr-daten-e-premieres-ne-france-me-14-korrik-2027/",
+      "description": "Debutimi në animacion i regjisorit fitues të Oscar-it vjen në korrik 2027 në Francë dhe Korenë e Jugut, ndërsa SHBA-ja pritet po atë vit përmes NEON-it; Bradley Cooper, Ayo Edebiri dhe Werner Herzog japin zërat kryesorë.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T00:16:26+00:00",
-      "dateStr": "10 Oct, 00:16",
+      "date": "2026-10-10T07:48:16+00:00",
+      "dateStr": "10 Oct, 07:48",
       "isNew": true,
-      "id": "24 51791591386"
+      "id": "24 51791618496"
     },
     {
-      "title": "Demokratët e Wisconsin-it padisin administratën Trump për reklamat me paratë e taksapaguesve",
-      "link": "https://24-ore.com/demokratet-e-wisconsin-it-padisin-administraten-trump-per-reklamat-me-parate-e-taksapaguesve/",
-      "description": "WASHINGTON — Partia Demokratike e Wisconsin-it ngriti të premten, më 9 tetor 2026, padi kundër presidentit Donald Trump dhe administratës së tij në Gjykatën Federale për Distriktin e Kolumbias, duke e akuzuar se ka përdorur në mënyrë të paligjshme paratë e taksapaguesve për reklama që promovojnë pre",
+      "title": "FOKUS – Trump uron Putinin për ditëlindje gjatë një bisede telefonike",
+      "link": "https://24-ore.com/fokus-trump-uron-putinin-per-ditelindje-gjate-nje-bisede-telefonike/",
+      "description": "MOSKË, 10 tetor /ATSH-DPA/- Presidenti i Shteteve të Bashkuara të Amerikës, Donald Trump, dhe bashkëshortja e tij, Melania, i kanë përcjellë urimet presidentit rus, Vladimir Putin, me rastin e ditëlindjes së tij, njoftoi Kremlini. Gjatë një bisede telefonike të zhvilluar dje, Trump i uroi Putinit su",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T00:15:20+00:00",
-      "dateStr": "10 Oct, 00:15",
+      "date": "2026-10-10T07:45:59+00:00",
+      "dateStr": "10 Oct, 07:45",
       "isNew": true,
-      "id": "24 61791591320"
+      "id": "24 61791618359"
     },
     {
-      "title": "Kabineti i Siljanovska-Davkovës: Qëndrimi për të drejtën e abortit mbetet i pandryshuar",
-      "link": "https://24-ore.com/kabineti-i-siljanovska-davkoves-qendrimi-per-te-drejten-e-abortit-mbetet-i-pandryshuar/",
-      "description": "Siç njofton 360 степени, kabineti i presidentes reagon ndaj letrës së hapur të Rrjetit për Mbrojtje nga Diskriminimi, që vuri në dyshim takimin e 6 tetorit me përfaqësueset e shoqatës “Unë jam grua”; sipas njoftimit, për abortin apo kufizimin e të drejtave riprodhuese nuk është folur fare.",
+      "title": "Manaj nuk ndalet, sulmuesi shqiptar shënon 2 gola në Turqi",
+      "link": "https://24-ore.com/manaj-nuk-ndalet-sulmuesi-shqiptar-shenon-2-gola-ne-turqi/",
+      "description": "Vazhdon forma e shkëlqyer e sulmuesit të kombëtares shqiptare Rey Manaj në ligën e parë turke. 29-vjeçari ka qenë sërish protagonist me fanellën e Sivassporit në fitoren 4-1 përballë Pendiksporit në kampionat. Manaj ka shënuar 2 gola nga një për çdo pjesë në këtë fitore të skuadrës së tij. Me këto 2",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-09T23:56:08+00:00",
-      "dateStr": "09 Oct, 23:56",
+      "date": "2026-10-10T07:45:04+00:00",
+      "dateStr": "10 Oct, 07:45",
       "isNew": true,
-      "id": "24 71791590168"
+      "id": "24 71791618304"
     },
     {
-      "title": "Quindim brazilian — ëmbëlsira e artë me kokos dhe të verdha vezësh",
-      "link": "https://24-ore.com/quindim-brazilian-embelsira-e-arte-me-kokos-dhe-te-verdha-vezesh/",
-      "description": "Një ëmbëlsirë klasike braziliane me kokos të grirë, të verdha vezësh dhe sheqer, e pjekur në banjë-mari derisa të marrë ngjyrën e artë karakteristike.",
-      "source": "24 ORE",
+      "title": "E-maili me bomba, fushatë kërcënimesh? Karamuço: Duhen marrë seriozisht. Kanë nisur hetimet, komunikime e me Europolin",
+      "link": "https://abcnews.al/e-maili-me-bomba-fushate-kercenimesh-karamuco-duhen-marre-seriozisht-kane-nisur-hetimet-komunikime-e-me-europolin/",
+      "description": "Eksperti i kriminalistikës, Ervin Karamuço, ngre shqetësimin për seriozitetin e e-mailit kërcënues për vendosjen e bombave në institucionet shtetërore, duke theksuar se raste të tilla nuk duhen paragjykuar si alarme false, por kërkojnë një vlerësim të kujdesshëm të rrezikut. Në një intervistë për AB",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-10-09T23:51:07+00:00",
-      "dateStr": "09 Oct, 23:51",
+      "date": "2026-10-10T07:29:21+00:00",
+      "dateStr": "10 Oct, 07:29",
       "isNew": true,
-      "id": "24 81791589867"
+      "id": "abc01791617361"
     },
     {
-      "title": "Startup-i gjashtëmuajsh i çipave Nuvacore synon vlerësim rreth 2.5 miliardë dollarë për procesorin e ri për qendrat e të dhënave",
-      "link": "https://24-ore.com/startup-i-gjashtemuajsh-i-cipave-nuvacore-synon-vleresim-rreth-2-5-miliarde-dollare-per-procesorin-e-ri-per-qendrat-e-te-dhenave/",
-      "description": "Startup-i gjashtëmuajsh Nuvacore, i themeluar nga ish-shefi i Apple Gerard Williams, po mbledh qindra miliona dollarë për një procesor të ri qendror të dedikuar për qendrat e të dhënave, sipas Reuters.",
+      "title": "Tentuan të korruptonin policët rrugorë për t’i shpëtuar gjobës, procedohen 3 shoferë në Durrës dhe Kavajë",
+      "link": "https://24-ore.com/tentuan-te-korruptonin-policet-rrugore-per-ti-shpetuar-gjobes-procedohen-3-shofere-ne-durres-dhe-kavaje/",
+      "description": "Tre drejtues automjetesh janë proceduar penalisht në Durrës dhe Kavajë, pasi dyshohet se tentuan të korruptonin punonjësit e Policisë Rrugore për të shmangur ndëshkimin për shkelje të rregullave të qarkullimit rrugor. Sipas njoftimit të Drejtorisë Vendore të Policisë Durrës, gjatë monitorimeve të kr",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-09T23:39:48+00:00",
-      "dateStr": "09 Oct, 23:39",
+      "date": "2026-10-10T07:25:40+00:00",
+      "dateStr": "10 Oct, 07:25",
       "isNew": true,
-      "id": "24 91791589188"
+      "id": "24 81791617140"
+    },
+    {
+      "title": "ASK anuloi vendimin e kohës së Peroviqit: Gvozdenoviqi shkeli ligjin me udhëtimin e paguar në Dubai",
+      "link": "https://24-ore.com/ask-anuloi-vendimin-e-kohes-se-peroviqit-gvozdenoviqi-shkeli-ligjin-me-udhetimin-e-paguar-ne-dubai/",
+      "description": "Agjencia për Parandalimin e Korrupsionit konstatoi se ish-ministri Branimir Gvozdenoviq pranoi në mars të vitit 2010 bileta avioni dhe akomodim hotelier në Dubai për vete dhe bashkëshorten, të paguara nga biznesmeni Dushko Knezheviq në emër të Atlas Grupit, siç raporton Vijesti.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-10T07:25:14+00:00",
+      "dateStr": "10 Oct, 07:25",
+      "isNew": true,
+      "id": "24 91791617114"
+    },
+    {
+      "title": "Tërmet i fuqishëm me magnitudë 7.7 godet Panamanë, ndërtesa të shembura dhe panik mes banorëve",
+      "link": "https://abcnews.al/termet-i-fuqishem-me-magnitude-7-7-godet-panamane-ndertesa-te-shembura-dhe-panik-mes-banoreve/",
+      "description": "Një tërmet i fuqishëm me magnitudë 7.7 ka goditur Panamanë, duke shkaktuar dëme në ndërtesa dhe panik te banorët. Sipas Shërbimit Gjeologjik të Shteteve të Bashkuara (USGS), rreth 4.6 milionë njerëz kanë ndier lëkundjet, të cilat në disa zona kanë qenë nga mesatare deri në të forta. Tërmeti u regjis",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-10T07:14:14+00:00",
+      "dateStr": "10 Oct, 07:14",
+      "isNew": true,
+      "id": "abc11791616454"
+    },
+    {
+      "title": "Uragani Isaias godet Floridën, mijëra banorë evakuohen/ Qindra mijëra mbeten pa energji elektrike",
+      "link": "https://abcnews.al/uragani-isaias-godet-floriden-mijera-banore-evakuohen-qindra-mijera-mbeten-pa-energji-elektrike/",
+      "description": "Uragani Isaias ka goditur shtetin amerikan të Floridës, duke sjellë erëra të fuqishme, reshje të dendura shiu dhe rrezik të lartë përmbytjesh. Mijëra banorë janë detyruar të largohen nga banesat e tyre, ndërsa autoritetet kanë shpallur gjendjen e jashtëzakonshme në Florida, Alabama dhe Georgia. Stuh",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-10T07:00:52+00:00",
+      "dateStr": "10 Oct, 07:00",
+      "isNew": true,
+      "id": "abc21791615652"
+    },
+    {
+      "title": "Zelensky kundër marrëveshjes Trump-Putin për naftën ruse: Po financoni një luftë që duhet të marrë fund",
+      "link": "https://abcnews.al/zelensky-kunder-marreveshjes-trump-putin-per-naften-ruse-po-financoni-nje-lufte-qe-duhet-te-marre-fund/",
+      "description": "Presidenti i Ukrainës, Volodymyr Zelensky, ka reaguar ashpër ndaj njoftimit të presidentit amerikan Donald Trump për një marrëveshje që parashikon furnizimin e SHBA-së me naftë dizel nga Rusia. Zelensky e cilësoi marrëveshjen si një dhuratë për presidentin rus Vladimir Putin, duke paralajmëruar se n",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-10T06:50:08+00:00",
+      "dateStr": "10 Oct, 06:50",
+      "isNew": true,
+      "id": "abc31791615008"
+    },
+    {
+      "title": "Qendrat e kthimit të migrantëve jashtë BE-së, a rrezikohen të drejtat e njeriut?",
+      "link": "https://abcnews.al/qendrat-e-kthimit-te-migranteve-jashte-be-se-a-rrezikohen-te-drejtat-e-njeriut/",
+      "description": "Bashkimi Evropian ka miratuar një bazë ligjore që u mundëson shteteve anëtare të dërgojnë persona që nuk kanë të drejtë të qëndrojnë në BE në qendra të posaçme në vende jashtë bllokut. Qeveritë evropiane thonë se të drejtat themelore do të respektohen, por organizatat për të drejtat e njeriut parala",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-10T06:31:30+00:00",
+      "dateStr": "10 Oct, 06:31",
+      "isNew": true,
+      "id": "abc41791613890"
+    },
+    {
+      "title": "Horoskopi 10 tetor 2026, zbuloni parashikimet e yjeve",
+      "link": "https://abcnews.al/horoskopi-10-tetor-2026-zbuloni-parashikimet-e-yjeve/",
+      "description": "Dashi – Dita do të sjellë energji dhe dëshirë për të çuar përpara planet tuaja. Në punë mund të shfaqen mundësi të reja, por shmangni vendimet e nxituara. Në dashuri, një bisedë e sinqertë do t’ju ndihmojë të sqaroni disa paqartësi. Demi – Do të ndiheni më të përqendruar te siguria dhe stabiliteti f",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-10T06:17:55+00:00",
+      "dateStr": "10 Oct, 06:17",
+      "isNew": true,
+      "id": "abc51791613075"
+    },
+    {
+      "title": "Parashikimi i motit, 10 tetor 2026",
+      "link": "https://abcnews.al/parashikimi-i-motit-10-tetor-2026/",
+      "description": "Orët e paradites do të vijojnë nën ndikimin e vranësirave dhe shirave në të gjithë territorin e vendit, ku më të dendura shirat do të jenë në zonat veriperëndimore dhe jugperëndimore. Po ashtu, edhe orët e pasdites do të mbeten nën ndikimin e vranësirave dhe shirave, ku herë pas here shirat do të je",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-10T06:02:23+00:00",
+      "dateStr": "10 Oct, 06:02",
+      "isNew": true,
+      "id": "abc61791612143"
     },
     {
       "title": "Trump marrëveshje me Putin për naftën/ Rusia do të furnizojë tregjet amerikane me miliona tonë naftë",
@@ -122,7 +199,7 @@
       "date": "2026-10-09T21:40:26+00:00",
       "dateStr": "09 Oct, 21:40",
       "isNew": true,
-      "id": "abc01791582026"
+      "id": "abc71791582026"
     },
     {
       "title": "Letta: Shqipëria integrim në tregun e BE/ Ish-kryeministri i Italisë mendon se procesi duhet të kryhet para anëtarësimit",
@@ -133,7 +210,7 @@
       "date": "2026-10-09T21:36:19+00:00",
       "dateStr": "09 Oct, 21:36",
       "isNew": true,
-      "id": "abc11791581779"
+      "id": "abc81791581779"
     },
     {
       "title": "“Territorialja”, Leka: PS tregoi se nuk është e përçarë, ideja e PD për 100 bashki ishte lajthitje",
@@ -144,84 +221,7 @@
       "date": "2026-10-09T21:29:23+00:00",
       "dateStr": "09 Oct, 21:29",
       "isNew": true,
-      "id": "abc21791581363"
-    },
-    {
-      "title": "“Toka Jonë” nga Xhoana Çallaku, (09/10/2026)",
-      "link": "https://abcnews.al/toka-jone-me-xhoana-callaku-09-10-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-09T21:00:47+00:00",
-      "dateStr": "09 Oct, 21:00",
-      "isNew": true,
-      "id": "abc31791579647"
-    },
-    {
-      "title": "Jeta mes vreshtave/ Nga vreshtat e Lushnjës, historia e fermerëve që zgjedhin tokën si mënyrë jetese",
-      "link": "https://abcnews.al/jeta-mes-vreshtave-nga-vreshtat-e-lushnjes-historia-e-fermereve-qe-zgjedhin-token-si-menyre-jetese/",
-      "description": "“Ka vende ku toka është thjesht një peizazh natyrore, por, ka vende ku toka është mënyrë jetese. Këtë e kupton fare thjeshtë në Krutje të Sipërme të Lushnjës, ku që në orët e para të mëngjesit banorët e kësaj zone vërshojnë nëpër ara, fusha, parcela, për të grumbulluar gjithë mundin, e djersën e një",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-09T20:52:54+00:00",
-      "dateStr": "09 Oct, 20:52",
-      "isNew": true,
-      "id": "abc41791579174"
-    },
-    {
-      "title": "Uragani “Isaias” arrin kategorinë 3, SHBA në gatishmëri për përmbytje dhe dëme të mëdha",
-      "link": "https://abcnews.al/uragani-isaias-arrin-kategorine-3-shba-ne-gatishmeri-per-permbytje-dhe-deme-te-medha/",
-      "description": "Uragani “Isaias” ka rritur fuqinë, duke arritur kategorinë 3 në shkallën me pesë kategori, ndërsa i afrohet jugut të Shteteve të Bashkuara të Amerikës. Sipas parashikimeve meteorologjike, stuhia mund të godasë drejtpërdrejt zonat bregdetare gjatë mbrëmjes ose në orët e para të mëngjesit të nesërm. M",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-09T20:31:57+00:00",
-      "dateStr": "09 Oct, 20:31",
-      "isNew": true,
-      "id": "abc51791577917"
-    },
-    {
-      "title": "Masakër mjedisore në Lushnjë/ Tonelata peshq të ngordhur pas tharjes së rezervuarit",
-      "link": "https://abcnews.al/masaker-mjedisore-ne-lushnje-tonelata-peshq-te-ngordhur-pas-tharjes-se-rezervuarit/",
-      "description": "&#8220;Kemi ardhur në Kasharaj të Lushnjës, aty ku ajo që po shohim është një prej situatave më të rënda mjedisore të krijuara pas ndërhyrjes në këtë rezervuar. Mijëra peshq kanë ngordhur pas zbrazjes së ujëmbledhësit, e cila u krye në kuadër të punimeve për rehabilitimin e digës dhe shkarkuesit. So",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-09T20:22:07+00:00",
-      "dateStr": "09 Oct, 20:22",
-      "isNew": true,
-      "id": "abc61791577327"
-    },
-    {
-      "title": "Gjykata Ndërkombëtare Penale kundërshton sanksionet amerikane",
-      "link": "https://abcnews.al/gjykata-nderkombetare-penale-kundershton-sanksionet-amerikane/",
-      "description": "Gjykata Ndërkombëtare Penale (GJNP) kundërshtoi fuqishëm të premten sanksionet e vendosura nga SHBA-ja ndaj institucionit, duke i cilësuar ato si përpjekje për të penguar drejtësinë dhe duke u zotuar se do ta vazhdojë punën në mënyrë të pavarur. “Kjo masë synon një institucion të pavarur gjyqësor, t",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-09T19:45:55+00:00",
-      "dateStr": "09 Oct, 19:45",
-      "isNew": true,
-      "id": "abc71791575155"
-    },
-    {
-      "title": "Garda Revolucionare e Iranit godet anijen “NV Sunshine” në Ngushticën e Hormuzit",
-      "link": "https://abcnews.al/garda-revolucionare-e-iranit-godet-anijen-nv-sunshine-ne-ngushticen-e-hormuzit/",
-      "description": "Garda Revolucionare e Iranit ka deklaruar se ka goditur një anije të madhe transportuese të gazit të lëngshëm, e cila po përpiqej të kalonte nëpër Ngushticën e Hormuzit, në një itinerar që Teherani e cilëson të paligjshëm. Sipas deklaratës së Gardës Revolucionare, të publikuar nga agjencia zyrtare i",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-09T19:45:53+00:00",
-      "dateStr": "09 Oct, 19:45",
-      "isNew": true,
-      "id": "abc81791575153"
-    },
-    {
-      "title": "Delegacioni ukrainas mbërrin në Miami për bisedime me përfaqësuesit amerikanë",
-      "link": "https://abcnews.al/delegacioni-ukrainas-mberrin-ne-miami-per-bisedime-me-perfaqesuesit-amerikane/",
-      "description": "Delegacioni ukrainas ka mbërritur në Miami të Shteteve të Bashkuara për të zhvilluar bisedime me të dërguarit amerikanë Steve Witkoff dhe Jared Kushner, kanë bërë të ditur burime për agjencinë e lajmeve Reuters. Sipas burimeve, në takime janë të pranishëm edhe përfaqësues evropianë, të cilët, sipas ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-09T19:25:39+00:00",
-      "dateStr": "09 Oct, 19:25",
-      "isNew": true,
-      "id": "abc91791573939"
+      "id": "abc91791581363"
     },
     {
       "title": "Përfshirja në rritje e Izraelit në Ballkan: asimetria e re e sigurisë dhe roli balancues i Turqisë",
