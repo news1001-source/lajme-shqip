@@ -1,84 +1,117 @@
 {
-  "lastUpdated": "2026-10-10T23:09:03.184618+00:00",
-  "totalSources": 2,
-  "totalNews": 20,
+  "lastUpdated": "2026-10-11T03:36:29.136787+00:00",
+  "totalSources": 3,
+  "totalNews": 30,
   "news": [
     {
-      "title": "Retrospektiva më e madhe e Roy Lichtenstein-it në Nju Jork në 33 vjet: “Like New” hapet sot në Whitney Museum",
-      "link": "https://24-ore.com/retrospektiva-me-e-madhe-e-roy-lichtenstein-it-ne-nju-jork-ne-33-vjet-like-new-hapet-sot-ne-whitney-museum/",
-      "description": "Mbi 130 vepra nga fillimi i viteve 1940 deri në vitet 1990, mes tyre tetë pikturat e debutimit të Pop-it në galerinë Leo Castelli, të ribashkuara për herë të parë që nga viti 1962.",
+      "title": "Reagimet ndërkombëtare pas sulmit në Riad: Guterres “i tronditur thellë”, Pakistani zotohet për mbrojtjen saudite — Trump: do të flasë me MBS-in",
+      "link": "https://24-ore.com/reagimet-nderkombetare-pas-sulmit-ne-riad-guterres-i-tronditur-thelle-pakistani-zotohet-per-mbrojtjen-saudite-trump-do-te-flase-me-mbs-in/",
+      "description": "Sekretari i Përgjithshëm i OKB-së dhe i dërguari për Jemenin dënuan sulmin ndaj aeroportit; kryeministri pakistanez Shehbaz Sharif e quajti sulmin \"të tmerrshëm\"; Trump e quajti sulmin \"të papranueshëm\" dhe tha se SHBA-ja ka pasur komunikim me Huthi-t.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T23:03:01+00:00",
-      "dateStr": "10 Oct, 23:03",
+      "date": "2026-10-11T03:29:33+00:00",
+      "dateStr": "11 Oct, 03:29",
       "isNew": true,
-      "id": "24 01791673381"
+      "id": "24 01791689373"
     },
     {
-      "title": "«Angel and the Badman» del në kinema: Zachary Levi dhe Tommy Lee Jones në ri-xhirimin e vesternit klasik të John Wayne",
-      "link": "https://24-ore.com/angel-and-the-badman-del-ne-kinema-zachary-levi-dhe-tommy-lee-jones-ne-ri-xhirimin-e-vesternit-klasik-te-john-wayne/",
-      "description": "Vestërni i Julio Quintana-s, që imagjinon sërish filmin e vitit 1947, mbërriti në kinematë amerikane më 9 tetor — me reagime të ndara nga kritika.",
+      "title": "Qeveria e Jemenit paralajmëron katastrofë shëndetësore në Taiz: Huthi-t po bllokojnë furnizimet mjekësore",
+      "link": "https://24-ore.com/qeveria-e-jemenit-paralajmeron-katastrofe-shendetesore-ne-taiz-huthi-t-po-bllokojne-furnizimet-mjekesore/",
+      "description": "Ministria e Shëndetësisë thotë se ilaçet, lëngjet intravenoze, materialet dhe karburanti në institucionet shëndetësore janë pothuajse të shteruara, ndërsa luftimet vazhdojnë në zonat rurale jugore e perëndimore.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T22:47:45+00:00",
-      "dateStr": "10 Oct, 22:47",
+      "date": "2026-10-11T03:28:20+00:00",
+      "dateStr": "11 Oct, 03:28",
       "isNew": true,
-      "id": "24 11791672465"
+      "id": "24 11791689300"
     },
     {
-      "title": "Nadella: modeleve të inteligjencës artificiale u duhet një «fren emergjence»",
-      "link": "https://24-ore.com/nadella-modeleve-te-inteligjences-artificiale-u-duhet-nje-fren-emergjence/",
-      "description": "Shefi i Microsoft-it kërkon një arkitekturë të re besimi për «Super Intelligence»-n, pas incidentesh ku laboratorët e mëdhenj kanë humbur kontrollin mbi agjentët e AI-së.",
+      "title": "Ambasada amerikane përditëson alarmin e sigurisë pas sulmit ndaj aeroportit të Riadit: amerikanët të shmangin aeroportet e Riadit, Jeddah-ut dhe Dammam-it",
+      "link": "https://24-ore.com/ambasada-amerikane-perditeson-alarmin-e-sigurise-pas-sulmit-ndaj-aeroportit-te-riadit-amerikanet-te-shmangin-aeroportet-e-riadit-jeddah-ut-dhe-dammam-it/",
+      "description": "Punonjësit e qeverisë amerikane kanë nevojë për autorizim special për të përdorur aeroportet saudite; qytetarët u këshillohen të tregojnë kujdes maksimal në të gjitha aeroportet kryesore të mbretërisë.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T22:38:13+00:00",
-      "dateStr": "10 Oct, 22:38",
+      "date": "2026-10-11T03:27:12+00:00",
+      "dateStr": "11 Oct, 03:27",
       "isNew": true,
-      "id": "24 21791671893"
+      "id": "24 21791689232"
     },
     {
-      "title": "Shpërthim në aeroportin e Riadit, raportohet për 12 viktima dhe dhjetëra të plagosur",
-      "link": "https://24-ore.com/shperthim-ne-aeroportin-e-riadit-raportohet-per-12-viktima-dhe-dhjetera-te-plagosur/",
-      "description": "– Një shpërthim i fuqishëm u dëgjua të shtunën në aeroportin ndërkombëtar të Riadit, në Arabinë Saudite, duke shkaktuar viktima dhe dhjetëra të plagosur, ndërsa udhëtarët u evakuuan dhe fluturimet u anuluan ose u devijuan. Sipas agjencisë Reuters, e cila citon burime të informuara për ngjarjen, 12 p",
+      "title": "Pentagoni përditëson bilancin e viktimave: dy ushtarë të vrarë dhe 98 të plagosur në shtator e tetor",
+      "link": "https://24-ore.com/pentagoni-perditeson-bilancin-e-viktimave-dy-ushtare-te-vrare-dhe-98-te-plagosur-ne-shtator-e-tetor/",
+      "description": "Të dhënat e reja nga Sistemi i Analizës së Viktimave të Mbrojtjes renditen tashmë nën kategorinë \"Operacionet jashtë vendit\", pasi sistemi ndaloi përditësimet nën Operacionin Epic Fury që në korrik.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T22:30:10+00:00",
-      "dateStr": "10 Oct, 22:30",
+      "date": "2026-10-11T03:25:59+00:00",
+      "dateStr": "11 Oct, 03:25",
       "isNew": true,
-      "id": "24 31791671410"
+      "id": "24 31791689159"
     },
     {
-      "title": "Sulmi me raketë i Huthi-t ndaj aeroportit të Riadit lë 12 të vrarë dhe 309 të plagosur — aeroporti mbyllet, Trump-i lë të hapur kundërpërgjigjen amerikane",
-      "link": "https://24-ore.com/sulmi-me-rakete-i-huthi-t-ndaj-aeroportit-te-riadit-le-12-te-vrare-dhe-309-te-plagosur-aeroporti-mbyllet-trump-i-le-te-hapur-kunderpergjigjen-amerikane/",
-      "description": "Raketa goditi terminalet 3 dhe 4 të Aeroportit Ndërkombëtar King Khalid; mes viktimave edhe një qytetar amerikan. Autoriteti saudist i aviacionit civil njoftoi mbylljen e aeroportit, ndërsa Trump-i tha se SHBA-ja \"mund\" t'u bashkohet sulmeve saudite kundër Huthi-ve.",
+      "title": "Ankand rekord në Estoni: 2.3 milionë euro për artistët, piktura e Jaan Elken-it shitet për 205,000 euro",
+      "link": "https://24-ore.com/ankand-rekord-ne-estoni-2-3-milione-euro-per-artistet-piktura-e-jaan-elken-it-shitet-per-205000-euro/",
+      "description": "Ankandi mbështetës i Unionit të Artistëve të Estonisë theu çdo rekord vendas; të ardhurat do të mbulojnë humbjet prej rreth 700,000 eurosh nga një skemë mashtrimi.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T22:28:57+00:00",
-      "dateStr": "10 Oct, 22:28",
+      "date": "2026-10-11T02:56:01+00:00",
+      "dateStr": "11 Oct, 02:56",
       "isNew": true,
-      "id": "24 41791671337"
+      "id": "24 41791687361"
     },
     {
-      "title": "«Headless»: muzikal i ri i Michael Giacchino-s debuton në Halloween në Los Angeles — shpallet kasti i premierës botërore",
-      "link": "https://24-ore.com/headless-muzikal-i-ri-i-michael-giacchino-s-debuton-ne-halloween-ne-los-angeles-shpallet-kasti-i-premieres-boterore/",
-      "description": "Kompozitori fitues i Oscar-it sjell në Walt Disney Concert Hall adaptimin muzikor të «Legjendës së Sleepy Hollow»-t; mbrëmja plotësohet me «Werewolf by Night» me partiturë live nga LA Phil",
+      "title": "«Ash and Crayons»: del trailer-i i dokumentarit të Evgeny Afineevsky për fëmijët e luftës në Ukrainë — në kinema më 20 nëntor",
+      "link": "https://24-ore.com/ash-and-crayons-del-trailer-i-i-dokumentarit-te-evgeny-afineevsky-per-femijet-e-luftes-ne-ukraine-ne-kinema-me-20-nentor/",
+      "description": "Regjisori i nominuar për Oscar ndjek shtatë fëmijë ukrainas që i mbijetuan luftës; filmi është shfaqur në Vatikan, në parlamentet britanik e italian dhe dy herë për Kongresin amerikan, dhe pritet të jetë në garën për Oscar.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T22:07:15+00:00",
-      "dateStr": "10 Oct, 22:07",
+      "date": "2026-10-11T02:46:27+00:00",
+      "dateStr": "11 Oct, 02:46",
       "isNew": true,
-      "id": "24 51791670035"
+      "id": "24 51791686787"
     },
     {
-      "title": "Retrospektiva e parë pas vdekjes së Tchah Sup Kim-it hapet në Nju Jork: mbi 130 vepra dhe një huazim nga MoMA",
-      "link": "https://24-ore.com/retrospektiva-e-pare-pas-vdekjes-se-tchah-sup-kim-it-hapet-ne-nju-jork-mbi-130-vepra-dhe-nje-huazim-nga-moma/",
-      "description": "«Tchah Sup Kim: The Key to a New World» në Korean Cultural Center New York mbledh mbi 130 vepra dhe materiale arkivore nga afro pesë dekada krijimtarie — nga eksperimentet me gravurë të viteve '70 te seria e famshme «Coffee Cup».",
+      "title": "Senatori Murphy e quan «katastrofë» arsyetimin për goditjen amerikane të anijes tregtare në Gjirin e Omanit",
+      "link": "https://24-ore.com/senatori-murphy-e-quan-katastrofe-arsyetimin-per-goditjen-amerikane-te-anijes-tregtare-ne-gjirin-e-omanit/",
+      "description": "CENTCOM njoftoi se forcat amerikane «çaktivizuan» të shtunën anijen kargo M/V Ocean Molica, me flamur të Panamasë, duke goditur sternën me një municion preciz. Senatori demokrat i Konektikatit, Chris Murphy, pyet pse taksapaguesit amerikanë paguajnë miliarda për të goditur anije tregtare.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-10T21:57:36+00:00",
-      "dateStr": "10 Oct, 21:57",
+      "date": "2026-10-11T02:41:03+00:00",
+      "dateStr": "11 Oct, 02:41",
       "isNew": true,
-      "id": "24 61791669456"
+      "id": "24 61791686463"
+    },
+    {
+      "title": "Avioni luftarak amerikan godet anijen ‘Ocean Molica’ në Gjirin e Omanit pasi tentoi të thyente bllokadën ndaj Iranit",
+      "link": "https://24-ore.com/avioni-luftarak-amerikan-godet-anijen-ocean-molica-ne-gjirin-e-omanit-pasi-tentoi-te-thyente-bllokaden-ndaj-iranit/",
+      "description": "Ushtria amerikane njoftoi të shtunën se ka çaktivizuar një anije tregtare në Gjirin e Omanit, pasi ekuipazhi i saj injoroi paralajmërimet dhe u përpoq të thyente bllokadën detare ndaj Iranit. Një avion luftarak amerikan goditi me municion preciz pjesën e pasme të anijes &#8216;Ocean Molica&#8217;, m",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T02:11:55+00:00",
+      "dateStr": "11 Oct, 02:11",
+      "isNew": true,
+      "id": "24 71791684715"
+    },
+    {
+      "title": "Mbyllet sot në Cape Town ekspozita e Cauleen Smith: “Afflict the Comfortable, Comfort the Afflicted” përfundon me simpoziumin dhe librin “Re-enactments”",
+      "link": "https://24-ore.com/mbyllet-sot-ne-cape-town-ekspozita-e-cauleen-smith-afflict-the-comfortable-comfort-the-afflicted-perfundon-me-simpoziumin-dhe-librin-re-enactments/",
+      "description": "Prezantimi i parë i madh i artistes amerikane në kontinentin afrikan, kuruar nga Thato Mogotsi në Zeitz MOCAA, mblodhi filma eksperimentalë, instalacione, objekte skulpturore, banderola tekstili dhe peizazhe zëri rreth historive kulturore afro-amerikane.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T01:59:29+00:00",
+      "dateStr": "11 Oct, 01:59",
+      "isNew": true,
+      "id": "24 81791683969"
+    },
+    {
+      "title": "Koalicioni i udhëhequr nga Arabia Saudite e quan sulmin ndaj aeroportit të Riadit «krim lufte»: fajëson Huthi-t dhe premton përgjigje të vendosur",
+      "link": "https://24-ore.com/koalicioni-i-udhehequr-nga-arabia-saudite-e-quan-sulmin-ndaj-aeroportit-te-riadit-krim-lufte-fajeson-huthi-t-dhe-premton-pergjigje-te-vendosur/",
+      "description": "Zëdhënësi i koalicionit, Turki al-Maliki, e cilësoi goditjen e së shtunës ndaj aeroportit ndërkombëtar «Mbret Khalid» — ku u vranë 12 persona dhe u plagosën 309 të tjerë — si akt terrorist, duke paralajmëruar një përgjigje të vendosur në përputhje me të drejtën ndërkombëtare humanitare.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T01:35:37+00:00",
+      "dateStr": "11 Oct, 01:35",
+      "isNew": true,
+      "id": "24 91791682537"
     },
     {
       "title": "“A dini të drejtoni helikopterin?”, Erdogan ia beson Marta Kos udhëtimin me trenin e ri drejt Evropës",
@@ -92,28 +125,6 @@
       "id": "abc01791669182"
     },
     {
-      "title": "Reagime të ashpra nga Kosova, pasi Radoiçiqi shfaqet lirshëm në tubimin e Vuçiqit",
-      "link": "https://24-ore.com/reagime-te-ashpra-nga-kosova-pasi-radoiciqi-shfaqet-lirshem-ne-tubimin-e-vuciqit/",
-      "description": "Qeveria e Kosovës e ka cilësuar praninë e Milan Radoiçiqit në një tubim zgjedhor të Partisë Përparimtare Serbe (SNS) në Kragujevc si dëshmi tjetër të përfshirjes së shtetit serb në sulmin e armatosur në Banjskë të Zveçanit, më 24 shtator 2023. Në një përgjigje për Radion Evropa e Lirë (REL), Qeveria",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-10T21:51:53+00:00",
-      "dateStr": "10 Oct, 21:51",
-      "isNew": true,
-      "id": "24 71791669113"
-    },
-    {
-      "title": "«Animals» i Ben Affleck tani në Netflix: thriller-i kriminal me Kerry Washington dhe Gillian Anderson ndan kritikën",
-      "link": "https://24-ore.com/animals-i-ben-affleck-tani-ne-netflix-thriller-i-kriminal-me-kerry-washington-dhe-gillian-anderson-ndan-kritiken/",
-      "description": "Filmi i gjashtë si regjisor i Affleck-ut nisi transmetimin në Netflix më 9 tetor dhe mori recensione të përziera — 41% në Rotten Tomatoes.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-10T21:50:46+00:00",
-      "dateStr": "10 Oct, 21:50",
-      "isNew": true,
-      "id": "24 81791669046"
-    },
-    {
       "title": "“ Berisha shkaktoi 3500 të vdekur”, Beqiri: SPAK u krijua për të zbardhur krimet, por dështoi",
       "link": "https://abcnews.al/berisha-shkaktoi-3500-te-vdekur-beqiri-spak-u-krijua-per-te-zbardhur-krimet-por-deshtoi/",
       "description": "Avokati Idajet Beqiri ka kritikuar pezullimin e hetimeve të SPAK ndaj Sali Berishës, duke pretenduar se drejtësia nuk ka arritur të zbardhë një sërë ngjarjesh të rënda kriminale të viteve 1997-1998 dhe të periudhave të mëvonshme. Beqiri u shpreh se, sipas tij, dosjet dhe provat ishin të konsoliduara",
@@ -123,17 +134,6 @@
       "dateStr": "10 Oct, 21:35",
       "isNew": true,
       "id": "abc11791668110"
-    },
-    {
-      "title": "UKMTO u kërkon anijeve të largohen nga spirancat pranë Ras al-Khaimah-ut dhe të shkojnë në ujëra më të thella",
-      "link": "https://24-ore.com/ukmto-u-kerkon-anijeve-te-largohen-nga-spirancat-prane-ras-al-khaimah-ut-dhe-te-shkojne-ne-ujera-me-te-thella/",
-      "description": "Agjencia britanike e operacioneve të tregtisë detare tha se kapitenët e disa anijeve pranë emiratit të Emirateve të Bashkuara Arabe u udhëzuan përmes radios VHF, ndërsa autoritetet \"vazhdojnë të hetojnë\".",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-10T21:30:33+00:00",
-      "dateStr": "10 Oct, 21:30",
-      "isNew": true,
-      "id": "24 91791667833"
     },
     {
       "title": "Sulmi i tretë me thikë në Poloni brenda pak ditësh/ Plagosen tre persona në një kolegj në Varshavë",
@@ -222,6 +222,116 @@
       "dateStr": "10 Oct, 19:24",
       "isNew": true,
       "id": "abc91791660241"
+    },
+    {
+      "title": "Përfshirja në rritje e Izraelit në Ballkan: asimetria e re e sigurisë dhe roli balancues i Turqisë",
+      "link": "https://www.lajme.al/perfshirja-ne-rritje-e-izraelit-ne-ballkan-asimetria-e-re-e-sigurise-dhe-roli-balancues-i-turqise/",
+      "description": "Nga: Mevludin Ibish Konkurrenca gjeopolitike ndërmjet Turqisë dhe Izraelit po shtrihet përtej Lindjes së Mesme dhe Mesdheut Lindor, duke përfshirë gjithnjë e më shumë edhe Ballkanin. Zhvillimet në Gaza, si dhe ndryshimet në Siri dhe Liban, kanë ndikuar në mënyrë të ndjeshme në konfigurimet rajonale ",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-10-03T13:54:47+00:00",
+      "dateStr": "03 Oct, 13:54",
+      "isNew": false,
+      "id": "laj01791035687"
+    },
+    {
+      "title": "Austria–Kosova LIVE: Ndiqeni këtu ndeshjen e Dardanëve",
+      "link": "https://www.lajme.al/372707-2/",
+      "description": "🇦🇹⚽🇽🇰 AUSTRI – KOSOVË Një përballje interesante po afron! Austria dhe Kosova do të matin forcat në një ndeshje ku pritet rivalitet, intensitet dhe shumë emocione në fushë. 🔥 Dardanët do të kërkojnë të tregojnë karakter dhe të luftojnë për çdo top, ndërsa Austria do të synojë të shfrytëzojë avantazhi",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-27T15:42:36+00:00",
+      "dateStr": "27 Sep, 15:42",
+      "isNew": false,
+      "id": "laj11790523756"
+    },
+    {
+      "title": "Dua Lipa “shkrin” dasmën në Pejë! Ja si vallëzon me muzikë shqiptare",
+      "link": "https://www.lajme.al/dua-lipa-shkrin-dasmen-ne-peje-ja-si-vallezon-me-muzike-shqiptare/",
+      "description": "**Këngëtarja me famë ndërkombëtare, Dua Lipa, po qëndron prej disa ditësh në Pejë, ku po kalon kohë pranë familjarëve të saj.** Pas pjesëmarrjes në një festë familjare gjatë ditës së djeshme, artistja ka vijuar mbrëmjen në një atmosferë festive. Në disa pamje të publikuara në rrjetet sociale, Dua Li",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-27T15:34:28+00:00",
+      "dateStr": "27 Sep, 15:34",
+      "isNew": false,
+      "id": "laj21790523268"
+    },
+    {
+      "title": "Publikohen formacionet: Ja si rreshtohet Kosova përballë Austrisë",
+      "link": "https://www.lajme.al/publikohen-formacionet-ja-si-rreshtohet-kosova-perballe-austrise/",
+      "description": "**Janë publikuar formacionet zyrtare për ndeshjen ndërmjet Austrisë dhe Kosovës, e vlefshme për Ligën e Kombeve.** Përfaqësuesja e Kosovës, e udhëhequr nga trajneri Franco Foda, do ta nisë takimin me këtë 11-she: **Arijanet Muriç – Ron Raçi, Ilir Krasniqi, Lumbardh Dellova – Dion Gallapeni, Leon Avd",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-27T15:27:19+00:00",
+      "dateStr": "27 Sep, 15:27",
+      "isNew": false,
+      "id": "laj31790522839"
+    },
+    {
+      "title": "Xhuli publikon video nga spitali në Zvicër, teksa pret lindjen e binjakëve",
+      "link": "https://www.lajme.al/xhuli-publikon-video-nga-spitali-ne-zvicer-teksa-pret-lindjen-e-binjakeve/",
+      "description": "**Xhuli Nura vazhdon të qëndrojë në një spital në Zvicër, ndërsa pret lindjen e binjakëve të saj.** Ish-banorja e **Big Brother VIP Kosova** ka bërë të ditur përmes një postimi në InstaStory se lindja ende nuk ka ndodhur dhe se ajo, së bashku me ekipin mjekësor, po përpiqen që procesi të zhvillohet ",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-27T15:20:42+00:00",
+      "dateStr": "27 Sep, 15:20",
+      "isNew": false,
+      "id": "laj41790522442"
+    },
+    {
+      "title": "LAJMI I FUNDIT: Një tërmet i fuqishem tronditi vendin",
+      "link": "https://www.lajme.al/lajmi-i-fundit-nje-termet-i-fuqishem-tronditi-vendin/",
+      "description": "Sipas të dhënave të disponueshme nga Observatori Sizmologjik pranë Fakultetit të Shkencave Matematiko-Natyrore në Shkup, sot, në orën 14:04, është regjistruar një tërmet me epiqendër në zonën epiqendrore të Prespës, rreth 127 km në jugperëndim të Shkupit. Tërmeti ka pasur magnitudë lokale ML 3.3 sip",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-27T13:22:27+00:00",
+      "dateStr": "27 Sep, 13:22",
+      "isNew": false,
+      "id": "laj51790515347"
+    },
+    {
+      "title": "Aksion i madh në veri të Kosovës, nëntë të arrestuar",
+      "link": "https://www.lajme.al/aksion-i-madh-ne-veri-te-kosoves-nente-te-arrestuar/",
+      "description": "Nëntë persona arrestohen në Zubin Potok nën dyshimin për krime lufte Nëntë persona janë arrestuar në Zubin Potok nën dyshimin për kryerjen e veprës penale “Krime lufte kundër popullsisë civile”, ka njoftuar Prokuroria Speciale e Republikës së Kosovës. Sipas njoftimit zyrtar, Policia e Kosovës, përka",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-27T11:02:27+00:00",
+      "dateStr": "27 Sep, 11:02",
+      "isNew": false,
+      "id": "laj61790506947"
+    },
+    {
+      "title": "Diell apo shi? Ja çfarë pritet sot në rajon",
+      "link": "https://www.lajme.al/diell-apo-shi-ja-cfare-pritet-sot-ne-rajon/",
+      "description": "E diela, 27 shtator, sjell mot kryesisht të qëndrueshëm në pjesën më të madhe të rajonit. 🌤️ 🇦🇱 SHQIPËRI Kryesisht me diell dhe vranësira të herëpashershme. Në verilindje, temperaturat mund të arrijnë rreth 21°C. 🇽🇰 KOSOVË Mot kryesisht me diell dhe vranësira të pakta deri mesatare. Pa reshje, me te",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T23:45:48+00:00",
+      "dateStr": "26 Sep, 23:45",
+      "isNew": false,
+      "id": "laj71790466348"
+    },
+    {
+      "title": "Ja cila është Pozita më e mirë për të mbetur shtatzënë",
+      "link": "https://www.lajme.al/ja-cila-eshte-pozita-me-e-mire-per-te-mbetur-shtatzene/",
+      "description": "Nga pikëpamja mjekësore, shtatzënia mund të ndodhë pas marrëdhënieve seksuale në pozicione të ndryshme, për sa kohë që sperma hyn në vaginë. Për këtë arsye, **asnjë pozicion seksual nuk mund të konsiderohet metodë kontraceptive** dhe pozita nuk ofron mbrojtje nga një shtatzëni e padëshiruar. Për par",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T19:43:23+00:00",
+      "dateStr": "26 Sep, 19:43",
+      "isNew": false,
+      "id": "laj81790451803"
+    },
+    {
+      "title": "“Sun po pres deri në mbramje me mar tragetin dhe me ik prej Kosoves, jam shume i zhgenjyer…”",
+      "link": "https://www.lajme.al/sun-po-pres-deri-ne-mbramje-me-mar-tragetin-dhe-me-ik-prej-kosoves-jam-shume-i-zhgenjyer/",
+      "description": "**“S’po pres deri në mbrëmje me marrë tragetin dhe me ik prej Kosovës, jam shumë i zhgënjyer…”** Një qytetar ka shprehur publikisht zhgënjimin e tij për situatën në Kosovë, duke thënë se mezi po pret të largohet nga vendi. Në një deklaratë të publikuar në rrjetet sociale, ai shprehet se do të udhëto",
+      "source": "Lajme.al",
+      "category": "politike",
+      "date": "2026-09-26T19:38:17+00:00",
+      "dateStr": "26 Sep, 19:38",
+      "isNew": false,
+      "id": "laj91790451497"
     }
   ]
 }
