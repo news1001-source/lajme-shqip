@@ -1,73 +1,128 @@
 {
-  "lastUpdated": "2026-10-11T20:44:34.476031+00:00",
+  "lastUpdated": "2026-10-12T00:08:41.858514+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Studentët kërkojnë publikimin urgjent të 49 të falurve nga Vuçiçi: përmenden Vesiç, Selaković dhe Hrkalović",
-      "link": "https://24-ore.com/studentet-kerkojne-publikimin-urgjent-te-49-te-falurve-nga-vucici-permenden-vesic-selakovic-dhe-hrkalovic/",
-      "description": "Lëvizja studentore në Serbi thotë se mes 49 personave të falur nga ish-presidenti Vuçiç, pak ditë para dorëheqjes së tij, spekulohet se janë edhe emra të pushtetit; kërkohet publikimi i plotë i listës, vendimeve dhe dokumentacionit.",
+      "title": "Quentin Tarantino sjell premierën e parë botërore në West End: «The Popinjay Cavalier» me Sacha Baron Cohen-in hapet në mars 2027",
+      "link": "https://24-ore.com/quentin-tarantino-sjell-premieren-e-pare-boterore-ne-west-end-the-popinjay-cavalier-me-sacha-baron-cohen-in-hapet-ne-mars-2027/",
+      "description": "Regjisori fitues i dy çmimeve Oscar bën debutimin e tij teatror si autor dhe regjisor në Teatrin Phoenix të Londrës; ylli i «Borat»-it luan rolin kryesor në debutimin e tij në skenën londineze",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-11T20:44:15+00:00",
+      "date": "2026-10-12T00:01:57+00:00",
+      "dateStr": "12 Oct, 00:01",
+      "isNew": true,
+      "id": "24 01791763317"
+    },
+    {
+      "title": "Ajo blanco — supa e ftohtë spanjolle me bajame dhe hudhër",
+      "link": "https://24-ore.com/ajo-blanco-supa-e-ftohte-spanjolle-me-bajame-dhe-hudher/",
+      "description": "Kushëriri i bardhë i gazpachos: supa freskuese e Andaluzisë me bajame, bukë, hudhër dhe vaj ulliri, e servirur e ftohtë me kokrra rrushi të bardhë.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T23:52:33+00:00",
+      "dateStr": "11 Oct, 23:52",
+      "isNew": true,
+      "id": "24 11791762753"
+    },
+    {
+      "title": "«Family Movie» prezantohet në Sitges: Kevin Bacon, Kyra Sedgwick dhe Peter Jackson marrin Çmimin e Madh Honorar",
+      "link": "https://24-ore.com/family-movie-prezantohet-ne-sitges-kevin-bacon-kyra-sedgwick-dhe-peter-jackson-marrin-cmimin-e-madh-honorar/",
+      "description": "Çifti Bacon–Sedgwick e quan komedinë e zezë metakinematografike «letër dashurie për gjininë»; Jackson hapi Zombie Walk-un krah legjendës së efekteve speciale Rick Baker",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T23:47:26+00:00",
+      "dateStr": "11 Oct, 23:47",
+      "isNew": true,
+      "id": "24 21791762446"
+    },
+    {
+      "title": "Një pakistanez i vrarë dhe 11 të plagosur në sulmin e së dielës ndaj aeroportit të Riadit",
+      "link": "https://24-ore.com/nje-pakistanez-i-vrare-dhe-11-te-plagosur-ne-sulmin-e-se-dieles-ndaj-aeroportit-te-riadit/",
+      "description": "Autoriteti saudit i aviacionit civil konfirmoi se një shtetas pakistanez u vra dhe 11 persona u plagosën në sulmin e së dielës ndaj Aeroportit Ndërkombëtar King Khalid, ku u goditën dy terminale pasagjerësh dhe shpërtheu zjarr, siç njofton Al Jazeera.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T23:34:15+00:00",
+      "dateStr": "11 Oct, 23:34",
+      "isNew": true,
+      "id": "24 31791761655"
+    },
+    {
+      "title": "IRGC publikon foto të baterisë raketore me mbishkrimin «Po presim» — SHBA-ja dërgon aeroplanmbajtësen e tretë në rajon",
+      "link": "https://24-ore.com/irgc-publikon-foto-te-baterise-raketore-me-mbishkrimin-po-presim-shba-ja-dergon-aeroplanmbajtesen-e-trete-ne-rajon/",
+      "description": "Zëdhënësi i Gardës Revolucionare iraniane publikoi imazhin e një baterie raketash pak pasi Uashingtoni dërgoi grupin e tretë goditës të aeroplanmbajtëseve dhe një njësi shtesë të marinsave në Lindjen e Mesme, njofton Al Jazeera.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T23:32:37+00:00",
+      "dateStr": "11 Oct, 23:32",
+      "isNew": true,
+      "id": "24 41791761557"
+    },
+    {
+      "title": "Irani: Përgjigjja e SHBA-së ndaj 7 kushteve tona është «e pamjaftueshme»",
+      "link": "https://24-ore.com/irani-pergjigjja-e-shba-se-ndaj-7-kushteve-tona-eshte-e-pamjaftueshme/",
+      "description": "Sekretari i Këshillit Suprem të Sigurisë Kombëtare të Iranit, Mohsen Rezaei, tha se Uashingtoni ka pranuar disa nga shtatë kushtet e Teheranit, por përgjigjja e tij mbetet e pamjaftueshme, siç njofton Al Jazeera.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T23:30:41+00:00",
+      "dateStr": "11 Oct, 23:30",
+      "isNew": true,
+      "id": "24 51791761441"
+    },
+    {
+      "title": "Irani kërkon bisedime të drejtpërdrejta mes fqinjëve për t’i dhënë fund konfliktit",
+      "link": "https://24-ore.com/irani-kerkon-bisedime-te-drejtperdrejta-mes-fqinjeve-per-ti-dhene-fund-konfliktit/",
+      "description": "Teherani po ofron negociata dhe ndërmjetësim mes vendeve të rajonit, duke argumentuar se përshkallëzimi dhe mjetet ushtarake nuk mund ta zgjidhin krizën, siç raporton nga Teherani për Al Jazeera-n korrespondenti Mohammed Vall.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T23:29:13+00:00",
+      "dateStr": "11 Oct, 23:29",
+      "isNew": true,
+      "id": "24 61791761353"
+    },
+    {
+      "title": "Britania këshillon kundër udhëtimeve jo-thelbësore në Arabinë Saudite",
+      "link": "https://24-ore.com/britania-keshillon-kunder-udhetimeve-jo-thelbesore-ne-arabine-saudite/",
+      "description": "Zyra e Jashtme britanike zgjeroi paralajmërimin e udhëtimit për Arabinë Saudite pas sulmeve të vazhdueshme të Huthi-ve me raketa dhe dronë, duke u këshilluar shtetasve britanikë që duan të largohen ta shqyrtojnë rrugën tokësore drejt Bahreinit, Kuvajtit apo Emirateve të Bashkuara Arabe.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T23:27:32+00:00",
+      "dateStr": "11 Oct, 23:27",
+      "isNew": true,
+      "id": "24 71791761252"
+    },
+    {
+      "title": "Retsos vendos derbin e përjetshëm: Olympiacos mposht 1-0 Panathinaikosin me 10 lojtarë",
+      "link": "https://24-ore.com/retsos-vendos-derbin-e-perjetshem-olympiacos-mposht-1-0-panathinaikosin-me-10-lojtare/",
+      "description": "Gol i shkëlqyer i mbrojtësit-kapiten në minutën e 34-të, Saliakas i përjashtuar në të 66-tën — thyhet rekordi i pamposhtur i \"të gjelbërve\".",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T22:53:14+00:00",
+      "dateStr": "11 Oct, 22:53",
+      "isNew": true,
+      "id": "24 81791759194"
+    },
+    {
+      "title": "Horror-i, zëri më i fuqishëm i Hollivudit: 1.28 miliardë dollarë këtë vit, «Other Mommy» hapja e gjashtë Nr. 1 e zhanrit",
+      "link": "https://24-ore.com/horror-i-zeri-me-i-fuqishem-i-hollivudit-1-28-miliarde-dollare-kete-vit-other-mommy-hapja-e-gjashte-nr-1-e-zhanrit/",
+      "description": "Box office-i amerikan kaloi kufirin e 8 miliardë dollarëve të premten — 59 ditë më herët se vitin e kaluar — ndërsa zhanri horror po shkëlqen drejt një rekordi të ri vjetor.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-11T22:47:32+00:00",
+      "dateStr": "11 Oct, 22:47",
+      "isNew": true,
+      "id": "24 91791758852"
+    },
+    {
+      "title": "Irani: Përgjigjja e SHBA për marrëveshjen e paqes është e pamjaftueshme",
+      "link": "https://abcnews.al/irani-pergjigjja-e-shba-per-marreveshjen-e-paqes-eshte-e-pamjaftueshme/",
+      "description": "Irani ka shprehur pakënaqësi ndaj përgjigjes së Shteteve të Bashkuara për propozimin e Teheranit për arritjen e një marrëveshjeje që do t’i jepte fund luftës. Sipas sekretarit të Këshillit Suprem të Sigurisë Kombëtare të Iranit, Mohsen Rezaei, pala amerikane ka pranuar disa nga kushtet e paraqitura,",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-11T20:44:32+00:00",
       "dateStr": "11 Oct, 20:44",
       "isNew": true,
-      "id": "24 01791751455"
-    },
-    {
-      "title": "UKMTO njofton për një incident ndaj cisterne pranë portit të Sohar-it në Oman",
-      "link": "https://24-ore.com/ukmto-njofton-per-nje-incident-ndaj-cisterne-prane-portit-te-sohar-it-ne-oman/",
-      "description": "Gjendja e ekuipazhit dhe dëmet nuk dihen ende; sulmet pranë ngushticës janë shtuar sërish, ndërsa përpjekjet për t'i dhënë fund luftës mbeten në vendqëndrim.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-11T20:32:55+00:00",
-      "dateStr": "11 Oct, 20:32",
-      "isNew": true,
-      "id": "24 11791750775"
-    },
-    {
-      "title": "Forcat e qeverisë së Jemenit pretendojnë 1,732 operacione ndaj Huthi-t: mbi 900 luftëtarë të vrarë",
-      "link": "https://24-ore.com/forcat-e-qeverise-se-jemenit-pretendojne-1732-operacione-ndaj-huthi-t-mbi-900-luftetare-te-vrare/",
-      "description": "Zëdhënësi ushtarak tha se u shkatërruan 287 automjete ushtarake të Huthi-t; Al Jazeera thekson se nuk mund ta konfirmonte në mënyrë të pavarur këtë informacion.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-11T20:31:28+00:00",
-      "dateStr": "11 Oct, 20:31",
-      "isNew": true,
-      "id": "24 21791750688"
-    },
-    {
-      "title": "Koalicioni i udhëhequr nga Arabia Saudite rrëzon një dron në Provincën Lindore",
-      "link": "https://24-ore.com/koalicioni-i-udhehequr-nga-arabia-saudite-rrezon-nje-dron-ne-provincen-lindore/",
-      "description": "Rrëzimi vjen në të njëjtën ditë kur autoriteti saudit i aviacionit civil konfirmoi se aeroporti i Dammam-it u godit në sulmin e fundit të Huthi-t.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-11T20:29:58+00:00",
-      "dateStr": "11 Oct, 20:29",
-      "isNew": true,
-      "id": "24 31791750598"
-    },
-    {
-      "title": "India dënon sulmet ndaj anijeve tregtare në Hormuz dhe kërkon uljen e menjëhershme të tensioneve",
-      "link": "https://24-ore.com/india-denon-sulmet-ndaj-anijeve-tregtare-ne-hormuz-dhe-kerkon-uljen-e-menjehershme-te-tensioneve/",
-      "description": "Nju Deli i quajti \"thellësisht shqetësuese\" sulmet e përsëritura në rajonin e Ngushticës së Hormuzit, ku ambasada indiane në Oman po koordinon shpëtimin e detarëve të zhdukur indianë.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-11T20:28:16+00:00",
-      "dateStr": "11 Oct, 20:28",
-      "isNew": true,
-      "id": "24 41791750496"
-    },
-    {
-      "title": "Pavarësisht sulmeve të Huthi-t, Arabia Saudite nuk i shtyn konferencat ndërkombëtare: Kongresi Botëror i Naftës hapet të dielën në Riad",
-      "link": "https://24-ore.com/pavaresisht-sulmeve-te-huthi-t-arabia-saudite-nuk-i-shtyn-konferencat-nderkombetare-kongresi-boteror-i-naftes-hapet-te-dielen-ne-riad/",
-      "description": "Organizatorët e Kongresit Botëror të Naftës konfirmuan se eventi i madh energjetik nis të dielën në kryeqytetin saudit, ndërsa ministri i Energjisë u tha delegatëve se mbretëria është e fortë \"si feniksi\".",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-11T20:26:42+00:00",
-      "dateStr": "11 Oct, 20:26",
-      "isNew": true,
-      "id": "24 51791750402"
+      "id": "abc01791751472"
     },
     {
       "title": "Evropa përballë krizës së borxhit dhe trazirave sociale",
@@ -78,7 +133,7 @@
       "date": "2026-10-11T20:25:46+00:00",
       "dateStr": "11 Oct, 20:25",
       "isNew": true,
-      "id": "abc01791750346"
+      "id": "abc11791750346"
     },
     {
       "title": "“GPS” me Albana Ruçi, (11/10/2026)",
@@ -89,29 +144,7 @@
       "date": "2026-10-11T20:11:25+00:00",
       "dateStr": "11 Oct, 20:11",
       "isNew": true,
-      "id": "abc11791749485"
-    },
-    {
-      "title": "Andin Hoti i përgjigjet Daçiçit për pretendimet ndaj Prizrenit: “Eja në Prizren, të presin burgjet e Kosovës”",
-      "link": "https://24-ore.com/andin-hoti-i-pergjigjet-dacicit-per-pretendimet-ndaj-prizrenit-eja-ne-prizren-te-presin-burgjet-e-kosoves/",
-      "description": "Ministri për Punë, Familje dhe Vlerat e Luftës Çlirimtare, Andin Hoti, ka reaguar ndaj deklaratave të zëvendëskryeministrit serb në detyrë, Ivica Daçiq, i cili ka shprehur pretendime territoriale të Serbisë ndaj Kosovës, duke thënë se \"flamuri serb do të valojë në Prizren\".",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-11T20:06:55+00:00",
-      "dateStr": "11 Oct, 20:06",
-      "isNew": true,
-      "id": "24 61791749215"
-    },
-    {
-      "title": "Vrasje në Pogragjë të Gjilanit: 29-vjeçari humb jetën nga të shtënat me armë zjarri, dorasi në arrati",
-      "link": "https://24-ore.com/vrasje-ne-pogragje-te-gjilanit-29-vjecari-humb-jeten-nga-te-shtenat-me-arme-zjarri-dorasi-ne-arrati/",
-      "description": "Policia e Kosovës ka konfirmuar vrasjen e një 29-vjeçari sonte në fshatin Pogragjë të Gjilanit. I dyshuari, i njohur për policinë, është larguar nga vendi i ngjarjes dhe është vënë në kërkim policor.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-11T20:06:38+00:00",
-      "dateStr": "11 Oct, 20:06",
-      "isNew": true,
-      "id": "24 71791749198"
+      "id": "abc21791749485"
     },
     {
       "title": "Kosovë/ Krim në familje, vritet 29-vjeçari në Gjilan. Autori i ngjarjes dyshohet të jetë babai",
@@ -122,29 +155,7 @@
       "date": "2026-10-11T20:06:35+00:00",
       "dateStr": "11 Oct, 20:06",
       "isNew": true,
-      "id": "abc21791749195"
-    },
-    {
-      "title": "“Ajo nuk do të jetë kurrë unë”, Britney Spears publikon këngën e shkruar me Justin Timberlake",
-      "link": "https://24-ore.com/ajo-nuk-do-te-jete-kurre-une-britney-spears-publikon-kengen-e-shkruar-me-justin-timberlake/",
-      "description": "Britney Spears ka publikuar një këngë të paregjistruar më parë për publikun, të cilën e ka shkruar së bashku me ish-të dashurin e saj, Justin Timberlake. Këngëtarja 44-vjeçare pritet të publikojë më 6 nëntor një edicion special, me rastin e 25-vjetorit të albumit të saj Britney. Në prag të këtij pub",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-11T20:00:22+00:00",
-      "dateStr": "11 Oct, 20:00",
-      "isNew": true,
-      "id": "24 81791748822"
-    },
-    {
-      "title": "«Ten Kings of Hell»: dhjetë petkat e dinastisë Goryeo ribashkohen në Cleveland për herë të parë që nga vitet ’60",
-      "link": "https://24-ore.com/ten-kings-of-hell-dhjete-petkat-e-dinastise-goryeo-ribashkohen-ne-cleveland-per-here-te-pare-qe-nga-vitet-60/",
-      "description": "Cleveland Museum of Art në Ohio të SHBA-së hap sot, më 11 tetor 2026, për publikun ekspozitën ndërkombëtare “Ten Kings of Hell: The Afterlife in Medieval Korea”, të organizuar në partneritet me Muzeun Kombëtar të Koresë, siç njofton institucioni amerikan. Ekspozita, që do të qëndrojë e hapur deri më",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-11T19:58:05+00:00",
-      "dateStr": "11 Oct, 19:58",
-      "isNew": true,
-      "id": "24 91791748685"
+      "id": "abc31791749195"
     },
     {
       "title": "“NewsRoom” me Erneta Shevroja, (11/10/2026)",
@@ -155,7 +166,7 @@
       "date": "2026-10-11T19:54:08+00:00",
       "dateStr": "11 Oct, 19:54",
       "isNew": true,
-      "id": "abc31791748448"
+      "id": "abc41791748448"
     },
     {
       "title": "VIDEO/ Sulme të reja me raketa në aeroportin e Riadit",
@@ -166,7 +177,7 @@
       "date": "2026-10-11T19:32:52+00:00",
       "dateStr": "11 Oct, 19:32",
       "isNew": true,
-      "id": "abc41791747172"
+      "id": "abc51791747172"
     },
     {
       "title": "“Gjërat Tona”/ Negociatorët – Fjala para armës, orët mes jetës dhe vdekjes",
@@ -177,7 +188,7 @@
       "date": "2026-10-11T19:05:34+00:00",
       "dateStr": "11 Oct, 19:05",
       "isNew": true,
-      "id": "abc51791745534"
+      "id": "abc61791745534"
     },
     {
       "title": "Kryeqyteti “është” i Tironës, fitojnë 3-1 ndaj Partizanit",
@@ -188,7 +199,7 @@
       "date": "2026-10-11T18:58:26+00:00",
       "dateStr": "11 Oct, 18:58",
       "isNew": true,
-      "id": "abc61791745106"
+      "id": "abc71791745106"
     },
     {
       "title": "Elezi: Reforma e re territoriale do të sjellë shërbime të reja për qytetarët dhe më pak kosto administrative",
@@ -199,7 +210,7 @@
       "date": "2026-10-11T17:40:27+00:00",
       "dateStr": "11 Oct, 17:40",
       "isNew": true,
-      "id": "abc71791740427"
+      "id": "abc81791740427"
     },
     {
       "title": "Fran Ibrahimaj: Reforma Territoriale e domosdoshme, forcon bashkitë dhe përmirëson shërbimet për qytetarët",
@@ -210,18 +221,7 @@
       "date": "2026-10-11T17:24:34+00:00",
       "dateStr": "11 Oct, 17:24",
       "isNew": true,
-      "id": "abc81791739474"
-    },
-    {
-      "title": "Poloni/ Arrestohet i dyshuari për komplotin ndaj kryeministrit Donald Tusk dhe ministrit të Mbrojtjes",
-      "link": "https://abcnews.al/poloni-arrestohet-i-dyshuari-per-komplotin-ndaj-kryeministrit-donald-tusk-dhe-ministrit-te-mbrojtjes/",
-      "description": "Një person është arrestuar në Poloni, i dyshuar për përfshirje në një komplot për të vrarë kryeministrin Donald Tusk dhe zëvendëskryeministrin, njëkohësisht ministrin e Mbrojtjes, Władysław Kosiniak-Kamysz. Autoritetet polake kanë ndërmarrë masa të menjëhershme pas informacioneve për një atentat të ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-11T17:01:44+00:00",
-      "dateStr": "11 Oct, 17:01",
-      "isNew": true,
-      "id": "abc91791738104"
+      "id": "abc91791739474"
     },
     {
       "title": "Përfshirja në rritje e Izraelit në Ballkan: asimetria e re e sigurisë dhe roli balancues i Turqisë",
