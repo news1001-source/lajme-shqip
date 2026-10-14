@@ -1,128 +1,194 @@
 {
-  "lastUpdated": "2026-10-14T20:23:30.379255+00:00",
+  "lastUpdated": "2026-10-14T23:36:40.293926+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Dhuna në protestë, Policia shoqëron shumë persona të dyshuar nga zona të ndryshme të Tiranës!",
-      "link": "https://24-ore.com/dhuna-ne-proteste-policia-shoqeron-shume-persona-te-dyshuar-nga-zona-te-ndryshme-te-tiranes/",
-      "description": "Tirana është përfshirë nga kaosi që prej orëve të paradites, në ditën e dytë të protestës që nisi para godinës së Ministrisë së Arsimit. Në orët e mbrëmjes së kësaj të mërkure, policia ka nisur shoqërimin e disa protestuesve në zona të ndryshme të kryeqytetit. Një pjesë e protestuesve janë kthyer së",
+      "title": "Trump mbyll tubimin në Bullhead City: benzina do të bjerë nën nivelin e para luftës me Iranin kur lufta të mbarojë",
+      "link": "https://24-ore.com/trump-mbyll-tubimin-ne-bullhead-city-benzina-do-te-bjere-nen-nivelin-e-para-luftes-me-iranin-kur-lufta-te-mbaroje/",
+      "description": "Në aeroportin e Bullhead City-t në Arizona, presidenti amerikan foli për rreth një orë e 45 minuta para mbështetësve republikanë, mbrojti tarifat dhe premtimet ekonomike dhe mbështeti kandidatin për guvernator Andy Biggs, më pak se tre javë para zgjedhjeve të mesmandatit të 3 nëntorit.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-14T20:18:33+00:00",
-      "dateStr": "14 Oct, 20:18",
+      "date": "2026-10-14T23:16:51+00:00",
+      "dateStr": "14 Oct, 23:16",
       "isNew": true,
-      "id": "24 01792009113"
+      "id": "24 01792019811"
     },
     {
-      "title": "Protesta e dhunshme, Berisha: Rama të japë dorëheqjen e menjëhershme, studentët nuk i lëshojmë!",
-      "link": "https://24-ore.com/protesta-e-dhunshme-berisha-rama-te-jape-doreheqjen-e-menjehershme-studentet-nuk-i-leshojme/",
-      "description": "Kreu i Partisë Demokratike, Sali Berisha, ka kërkuar dorëheqjen e menjëhershme të kryeministrit Edi Rama, teksa ka shprehur edhe mbështetjen për protestën studentore. Gjatë takimit me kryetarët e degëve të Tiranës, kreu i selisë blu u kërkoi të gjithë shqipatrëve që të mbështesin studentët. Sipas ti",
+      "title": "«The Cherry Orchard» ndan kritikën në Londër: katër yje për Kristin Scott Thomas, mendime të përziera për Stephen Mangan",
+      "link": "https://24-ore.com/the-cherry-orchard-ndan-kritiken-ne-londer-kater-yje-per-kristin-scott-thomas-mendime-te-perziera-per-stephen-mangan/",
+      "description": "Verdikti i parë i kritikës londineze pas natës zyrtare të hapjes në Harold Pinter Theatre e vlerëson produksionin e Ian Rickson-it kryesisht me katër yje: magnetike protagonistja, ansambël i fortë, por jo të gjithë binden nga Lopakhin-i i Stephen Mangan-it. Shfaqja luhet deri më 9 janar 2027.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-14T20:18:14+00:00",
-      "dateStr": "14 Oct, 20:18",
+      "date": "2026-10-14T23:07:36+00:00",
+      "dateStr": "14 Oct, 23:07",
       "isNew": true,
-      "id": "24 11792009094"
+      "id": "24 11792019256"
     },
     {
-      "title": "Kaosi gjatë protestës, Policia shoqëron protestues në zona të ndryshme të Tiranës",
-      "link": "https://24-ore.com/kaosi-gjate-protestes-policia-shoqeron-protestues-ne-zona-te-ndryshme-te-tiranes/",
-      "description": "Tirana është përfshirë nga kaosi që prej orëve të paradites, në ditën e dytë të protestës që nisi para godinës së Ministrisë së Arsimit. Në orët e mbrëmjes së kësaj të mërkure, policia ka nisur shoqërimin e disa protestuesve në zona të ndryshme të kryeqytetit. Një pjesë e protestuesve janë kthyer së",
+      "title": "AEK-u bie në finale në Londër, Shahtari e përmbys 3-1 në Champions League",
+      "link": "https://24-ore.com/aek-u-bie-ne-finale-ne-londer-shahtari-e-permbys-3-1-ne-champions-league/",
+      "description": "Skuadra e Athinës kaloi e para në epërsi me golin e Majerit në Stamford Bridge, por ukrainasit barazuan me penallti dhe shënuan dy herë në minutat e fundit, duke i shkaktuar AEK-ut humbjen e parë pas 11 ndeshjesh në Greqi dhe Evropë.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-14T20:17:00+00:00",
-      "dateStr": "14 Oct, 20:17",
+      "date": "2026-10-14T23:04:35+00:00",
+      "dateStr": "14 Oct, 23:04",
       "isNew": true,
-      "id": "24 21792009020"
+      "id": "24 21792019075"
     },
     {
-      "title": "Protesta/ Bardhi denoncon dhunën policore ndaj deputetëve opozitarë: Akt i padenjë për njerëz që mbajnë uniformën e sht",
-      "link": "https://24-ore.com/protesta-bardhi-denoncon-dhunen-policore-ndaj-deputeteve-opozitare-akt-i-padenje-per-njerez-qe-mbajne-uniformen-e-sht/",
-      "description": "Kryetari i Grupit Parlamentar të Partisë Demokratike, Gazment Bardhi, ka reaguar pas përplasjeve gjatë protestës në Tiranë, duke denoncuar atë që e cilëson si dhunë të ushtruar nga punonjësit e Policisë së Shtetit ndaj deputetëve të opozitës. Bardhi e konsideroi këtë veprim shkelje të ligjit dhe cen",
+      "title": "Drejtori i Louvre-it paralajmëron: pa rinovim të madh, muzeu rrezikon të mbyllë dyert",
+      "link": "https://24-ore.com/drejtori-i-louvre-it-paralajmeron-pa-rinovim-te-madh-muzeu-rrezikon-te-mbylle-dyert/",
+      "description": "Christophe Leribault thotë se muzeu më i vizituar në botë është i mbingarkuar dhe me infrastrukturë të vjetruar; një vit pas grabitjes së bizhuterive të Kurorës, plani i sigurisë prej 83 milionë eurosh po ecën, por pa investim të madh publik muzeu do të bjerë shpejt.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-14T20:16:49+00:00",
-      "dateStr": "14 Oct, 20:16",
+      "date": "2026-10-14T23:00:09+00:00",
+      "dateStr": "14 Oct, 23:00",
       "isNew": true,
-      "id": "24 31792009009"
+      "id": "24 31792018809"
     },
     {
-      "title": "Berisha: Ne studentët nuk i lëshojmë, do i mbështesim ata me të gjitha format dhe mundësitë!",
-      "link": "https://24-ore.com/berisha-ne-studentet-nuk-i-leshojme-do-i-mbeshtesim-ata-me-te-gjitha-format-dhe-mundesite/",
-      "description": "Kreu i Partisë Demokratike, Sali Berisha, ka deklaruar se opozita do të vijojë të mbështesë studentët që po protestojnë, duke theksuar se PD do të vërë në dispozicion të tyre të gjitha format dhe mundësitë. Berisha përgëzoi drejtuesit, anëtarët dhe mbështetësit e PD-së për angazhimin në mbështetje t",
+      "title": "«La Bola Negra» kalon 25 milionë euro në Spanjë dhe bëhet filmi i shtatë spanjoll më fitimprurës i të gjitha kohërave",
+      "link": "https://24-ore.com/la-bola-negra-kalon-25-milione-euro-ne-spanje-dhe-behet-filmi-i-shtate-spanjoll-me-fitimprures-i-te-gjitha-koherave/",
+      "description": "Filmi i Javier Calvo dhe Javier Ambrossi e arriti pragun pas fundjavës së tretë në kinema, me të ardhura më të larta se në fundjavën e hapjes, dhe tani shfaqet në 455 salla në mbarë Spanjën.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-14T20:16:43+00:00",
-      "dateStr": "14 Oct, 20:16",
+      "date": "2026-10-14T22:51:59+00:00",
+      "dateStr": "14 Oct, 22:51",
       "isNew": true,
-      "id": "24 41792009003"
+      "id": "24 41792018319"
     },
     {
-      "title": "Berisha: Studentët janë treguar si luanë, ndaj tyre është regjistruar dhuna më e egër shtetërore",
-      "link": "https://24-ore.com/berisha-studentet-jane-treguar-si-luane-ndaj-tyre-eshte-regjistruar-dhuna-me-e-eger-shteterore/",
-      "description": "Kryetari i Partisë Demokratike, Sali Berisha, akuzoi kryeministrin Edi Rama për përdorim të dhunës ndaj studentëve që protestojnë, duke e krahasuar ndërhyrjen e policisë me represionin e ushtruar gjatë protestave të 8 dhe 9 dhjetorit 1990. Në një takim me kryetarët e degëve të Tiranës, Berisha e cil",
+      "title": "Anthropic i kalon 16.8 miliardë dollarë të ardhura në tremujorin e tretë dhe del me fitim",
+      "link": "https://24-ore.com/anthropic-i-kalon-16-8-miliarde-dollare-te-ardhura-ne-tremujorin-e-trete-dhe-del-me-fitim/",
+      "description": "Kompania e inteligjencës artificiale pas modeleve Claude u tha investitorëve se të ardhurat u rritën ndjeshëm nga tremujori i dytë, ndërsa përgatit ofertën e saj publike.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-14T20:16:31+00:00",
-      "dateStr": "14 Oct, 20:16",
+      "date": "2026-10-14T22:39:19+00:00",
+      "dateStr": "14 Oct, 22:39",
       "isNew": true,
-      "id": "24 51792008991"
+      "id": "24 51792017559"
     },
     {
-      "title": "KIEV – Zelensky: Trump nuk mund të qëndrojë në anën e gabuar të historisë",
-      "link": "https://24-ore.com/kiev-zelensky-trump-nuk-mund-te-qendroje-ne-anen-e-gabuar-te-historise/",
-      "description": "KIEV, 14 tetor /ATSH -ANSA/ – Presidenti ukrainas, Volodymyr Zelensky, është shprehur se ndihet i “tradhtuar” nga presidenti amerikan, Donald Trump, lidhur me marrëveshjen për furnizimin me naftë dhe të ashtuquajturën armëpushim energjetik me presidentin rus, Vladimir Putin. Në një intervistë për ga",
+      "title": "Ushtria e Jemenit: Mbi 200 luftëtarë të Huthi-ve të vrarë ose të plagosur në luftimet rreth Taizit",
+      "link": "https://24-ore.com/ushtria-e-jemenit-mbi-200-luftetare-te-huthi-ve-te-vrare-ose-te-plagosur-ne-luftimet-rreth-taizit/",
+      "description": "Ushtria jemenase tha se mbi 200 luftëtarë të Huthi-ve u vranë ose u plagosën në luftimet e së mërkurës rreth Taizit, ndërsa qeveria i kërkoi OKB-së veprim urgjent për heqjen e rrethimit të qytetit.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-14T20:15:59+00:00",
-      "dateStr": "14 Oct, 20:15",
+      "date": "2026-10-14T22:33:01+00:00",
+      "dateStr": "14 Oct, 22:33",
       "isNew": true,
-      "id": "24 61792008959"
+      "id": "24 61792017181"
     },
     {
-      "title": "Gjyqtari federal nuk e bllokon urdhrin e Trump kundër programeve DEI te kontraktorët federalë",
-      "link": "https://24-ore.com/gjyqtari-federal-nuk-e-bllokon-urdhrin-e-trump-kunder-programeve-dei-te-kontraktoret-federale/",
-      "description": "Një gjyqtar federal në Baltimore refuzoi të mërkurën të bllokojë urdhrin e presidentit Donald Trump që synon eliminimin e nismave për diversitet, barazi dhe përfshirje (DEI) te kompanitë që punojnë me qeverinë amerikane, siç njofton Reuters. Gjyqtari i qarkut Adam Abelson tha se grupet që përfaqësoj",
+      "title": "IRGC-ja: Sulmet ndaj anijeve në Hormuz ishin përgjigje ndaj shkeljes së tretë amerikane",
+      "link": "https://24-ore.com/irgc-ja-sulmet-ndaj-anijeve-ne-hormuz-ishin-pergjigje-ndaj-shkeljes-se-trete-amerikane/",
+      "description": "Një zëdhënës i Gardës Revolucionare Islamike deklaroi se sulmet e koordinuara ndaj anijeve në Ngushticën e Hormuzit ishin hakmarrje zyrtare për atë që Teherani e quan shkelja e tretë e angazhimeve nga SHBA-ja.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-14T20:15:20+00:00",
-      "dateStr": "14 Oct, 20:15",
+      "date": "2026-10-14T22:30:19+00:00",
+      "dateStr": "14 Oct, 22:30",
       "isNew": true,
-      "id": "24 71792008920"
+      "id": "24 71792017019"
     },
     {
-      "title": "Kosova e katërta në botë në FIRST Global Challenge 2026, përmes ekipit të përfaqësuar nga UBT",
-      "link": "https://24-ore.com/kosova-e-katerta-ne-bote-ne-first-global-challenge-2026-permes-ekipit-te-perfaqesuar-nga-ubt/",
-      "description": "Kosova renditet e katërta në botë në FIRST Global Challenge 2026, garën ndërkombëtare të robotikës që u mbajt në Incheon të Koresë së Jugut, ku ekipi First Kosova, i përfaqësuar nga UBT, arriti këtë sukses bashkë me grupin me Greqinë, Poloninë dhe Meksikën, në mesin e 191 shteteve pjesëmarrëse nga e",
+      "title": "Huthitë pretendojnë se goditën një avion luftarak saudit Typhoon mbi Saada",
+      "link": "https://24-ore.com/huthite-pretendojne-se-goditen-nje-avion-luftarak-saudit-typhoon-mbi-saada/",
+      "description": "Zëdhënësi ushtarak i Huthi-ve, Yahya Saree, tha se një Eurofighter Typhoon saudit, i ngritur nga Taifi, u godit mbi provincën Saada dhe rrezikoi të rrëzohej; koalicioni i udhëhequr nga Arabia Saudite nuk e ka komentuar ende pretendimin.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-14T20:11:34+00:00",
-      "dateStr": "14 Oct, 20:11",
+      "date": "2026-10-14T22:27:01+00:00",
+      "dateStr": "14 Oct, 22:27",
       "isNew": true,
-      "id": "24 81792008694"
+      "id": "24 81792016821"
     },
     {
-      "title": "Gjendet pa shenja jete personi i zhdukur në Ferizaj, misioni i kërkim-shpëtimit në Rahovicë përfundon me tragjedi",
-      "link": "https://24-ore.com/gjendet-pa-shenja-jete-personi-i-zhdukur-ne-ferizaj-misioni-i-kerkim-shpetimit-ne-rahovice-perfundon-me-tragjedi/",
-      "description": "Shoqata e Kosovës për Kërkim dhe Shpëtim njoftoi se misioni i së mërkurës në Rahovicë të Ferizajt ka përfunduar, por personi i humbur është gjetur pa shenja jete.",
+      "title": "Daly e Fed-it: Rritje të tjera të normave ka gjasa të nevojiten, por jo me urgjencë",
+      "link": "https://24-ore.com/daly-e-fed-it-rritje-te-tjera-te-normave-ka-gjasa-te-nevojiten-por-jo-me-urgjence/",
+      "description": "Presidentja e Rezervës Federale të San Franciskos, Mary Daly, thotë se inflacioni mbetet shumë i lartë dhe se banka qendrore ka gjasa të duhet ta shtrëngojë sërish politikën monetare, por sinjalizon se takimi i 27–28 tetorit nuk kërkon vendim të nxituar.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-14T20:09:07+00:00",
-      "dateStr": "14 Oct, 20:09",
+      "date": "2026-10-14T22:13:50+00:00",
+      "dateStr": "14 Oct, 22:13",
       "isNew": true,
-      "id": "24 91792008547"
+      "id": "24 91792016030"
+    },
+    {
+      "title": "Ora e Njëmbëdhjetë me Erisa Koxhaj, (14/10/2026)",
+      "link": "https://abcnews.al/ora-e-njembedhjete-me-erisa-koxhaj-14-10-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-14T21:50:50+00:00",
+      "dateStr": "14 Oct, 21:50",
+      "isNew": true,
+      "id": "abc01792014650"
+    },
+    {
+      "title": "Champions, PSG si kampion në Angli/ Parizienët triumfojnë bindshëm, 3-2, Man City bie në shtëpi",
+      "link": "https://abcnews.al/champions-psg-si-kampion-ne-angli-parizienet-triumfojne-bindshem-3-2-man-city-bie-ne-shtepi/",
+      "description": "Një mbrëmje me gola dhe me emocione të shumta kjo e së mërkurës në Ligën e Kampionë. U shënuan plot 46 rrjeta në 9 ndeshje, dhe suksesin më të rëndësishëm e arriti kampionia e Europës në fuqi, Paris Sen Zhermen. Francezët triumfuan 4-2 në fushën e Mançester Sitit, duke dominuar e duke treguar se I [",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-14T21:25:25+00:00",
+      "dateStr": "14 Oct, 21:25",
+      "isNew": true,
+      "id": "abc11792013125"
+    },
+    {
+      "title": "Tirana përjeton vitin 1998/ Kaosi dhe dhuna, te dera e Kryeministrisë",
+      "link": "https://abcnews.al/tirana-perjeton-vitin-1998-kaosi-dhe-dhuna-te-dera-e-kryeministrise/",
+      "description": "Kaos, zjarr dhe shkatërrim në zemër të Tiranës, për të dytën ditë radhazi. Protestues të maskuar sulmuan me gurë dhe molotovë institucionet shtetërore, duke e kthyer bulevardin “Dëshmorët e Kombit” në një skenë shkatërrimi. Nga Kryeministria te Kryesia e Kuvendit, Gjykata Kushtetuese e deri te tri m",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-14T21:08:22+00:00",
+      "dateStr": "14 Oct, 21:08",
+      "isNew": true,
+      "id": "abc21792012102"
+    },
+    {
+      "title": "Berati, urë lidhëse me arbëreshët/ Vera bashkon Shqipërinë dhe Italinë",
+      "link": "https://abcnews.al/berati-ure-lidhese-me-arbereshet-vera-bashkon-shqiperine-dhe-italine/",
+      "description": "Për 3 ditë, Berati u kthye në kryeqytetin shqiptar të verës. Wine and storys of Berat, solli në qytetin e një mbi një dritareve, kantinat, prodhuesit, turistët dhe dashamirësit e verës. Konsulli i Përgjithshëm i Italisë në Vlorë, Achile Provenzano deklaroi për emisionin &#8220;Të Gjitha Rrugët të Ço",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-14T20:54:25+00:00",
+      "dateStr": "14 Oct, 20:54",
+      "isNew": true,
+      "id": "abc31792011265"
+    },
+    {
+      "title": "Berati, kryeqyteti i verës dhe urë lidhëse me arbëreshët/ Berati shijon verën, Arbëria traditën",
+      "link": "https://abcnews.al/berati-kryeqyteti-i-veres-dhe-ure-lidhese-me-arbereshet-berati-shijon-veren-arberia-traditen/",
+      "description": "Për 3 ditë, Berati u kthye në kryeqytetin shqiptar të verës. Wine and storys of Berat, solli në qytetin e një mbi një dritareve, kantinat, prodhuesit, turistët dhe dashamirësit e verës. Këshilltari i Rajonit të Molises në Itali, Michele Marone deklaroi për emisionin &#8220;Të Gjitha Rrugët të Çojnë ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-14T20:33:42+00:00",
+      "dateStr": "14 Oct, 20:33",
+      "isNew": true,
+      "id": "abc41792010022"
+    },
+    {
+      "title": "Bombardime pa pushim në Liban! Avionët luftarakë dhe artileria izraelite godasin disa zona",
+      "link": "https://abcnews.al/bombardime-pa-pushim-ne-liban-avionet-luftarake-dhe-artileria-izraelite-godasin-disa-zona/",
+      "description": "Avionët luftarakë izraelitë kanë kryer disa sulme ajrore në jug të Libanit këtë të mërkurë, pas një mëngjesi të shoqëruar me bombardime artilerie. Sipas korrespondentit në terren, Mountasser Abdallah, sulme janë raportuar edhe gjatë natës. Sulmet ajrore kanë goditur zonat mes Haddatha dhe Aita el-Ja",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-14T20:30:02+00:00",
+      "dateStr": "14 Oct, 20:30",
+      "isNew": true,
+      "id": "abc51792009802"
     },
     {
       "title": "“Studentët” sulmojnë komisariatin nr.2 dhe 3/ Hyjnë në territorin e komisariatit, sulmohen makinat e policisë",
       "link": "https://abcnews.al/studentet-sulmojne-komisariatin-nr-2-dhe-3-hyjne-ne-territorin-e-komisariatit-sulmohen-makinat-e-policise/",
-      "description": "Pas institucioneve, i vihet flaka komisariateve. Studentët kanë sulmuar komisariatin numër 2 dhe 3 në Tiranë. Lajmi në përditësim&#8230; [...]Read More...",
+      "description": "Pas institucioneve, i vihet flaka komisariateve. Studentët kanë sulmuar komisariatin numër 2 dhe 3 në Tiranë. Ata kanë hyrë në territoret e komisariateve dhe kanë sulmuar edhe makinat e policisë. Protesta, e cila nisi pranë Ministrisë së Arsimit, është shoqëruar me episode dhune dhe zjarri, duke shk",
       "source": "ABC News",
       "category": "politike",
       "date": "2026-10-14T19:57:06+00:00",
       "dateStr": "14 Oct, 19:57",
       "isNew": true,
-      "id": "abc01792007826"
+      "id": "abc61792007826"
     },
     {
       "title": "Eksperti Faik Basha: Rebelët janë fuqizuar ushtarakisht, sot flitet se kanë mbi 350 mijë forca",
@@ -133,7 +199,7 @@
       "date": "2026-10-14T19:55:28+00:00",
       "dateStr": "14 Oct, 19:55",
       "isNew": true,
-      "id": "abc11792007728"
+      "id": "abc71792007728"
     },
     {
       "title": "Putin po dështon në Ukrainë/ Qirjazi: Ukraina nuk ia del dot pa Perëndimin, Europianët bënë keqllogaritje",
@@ -144,7 +210,7 @@
       "date": "2026-10-14T19:48:53+00:00",
       "dateStr": "14 Oct, 19:48",
       "isNew": true,
-      "id": "abc21792007333"
+      "id": "abc81792007333"
     },
     {
       "title": "Edicioni Qendror me Juli Krisafi, (14/10/2026)",
@@ -155,73 +221,7 @@
       "date": "2026-10-14T19:42:43+00:00",
       "dateStr": "14 Oct, 19:42",
       "isNew": true,
-      "id": "abc31792006963"
-    },
-    {
-      "title": "QSUT: Asnjë i lënduar nga protestat/ Te Trauma marrin mjekim 23 efektivë dhe 5 protestues",
-      "link": "https://abcnews.al/qsut-asnje-i-lenduar-nga-protestat-te-trauma-marrin-mjekim-23-efektive-dhe-5-protestues/",
-      "description": "Prej pasdites të së martës, në kryeqytet, kanë vijuar protestat e dhunshme mes studentëve dhe qytetarëve si dhe forcave të policisë. Sipas një përditësimi nga Ministria e Shëndetësisë, në QSUT aktualisht nuk ka asnjë të lënduar nga protestat. Ndërkaq, në Spitalin e Traumës po marrin trajtim 23 efekt",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-14T19:29:42+00:00",
-      "dateStr": "14 Oct, 19:29",
-      "isNew": true,
-      "id": "abc41792006182"
-    },
-    {
-      "title": "Protesta e dhunshme/ Çupi: Qytetarët duan siguri dhe qetësi. Leka: I kërkoj llogari Ramës për sigurinë e vendit",
-      "link": "https://abcnews.al/protesta-e-dhunshme-cupi-qytetaret-duan-siguri-dhe-qetesi-leka-i-kerkoj-llogari-rames-per-sigurine-e-vendit/",
-      "description": "Analisti Frrok Çupi thotë se qytetarët duan siguri dhe qetësi, e jo protesta të dhunshme. Në emisionin &#8220;Real Story&#8221; në ABC News, Çupi u shpreh se shteti duhet të përdorë forcë kundër protestuesve të dhunshëm. Ndërsa analisti Martin Leka deklaroi se kryeministri Edi Rama duhet të japë llo",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-14T19:21:13+00:00",
-      "dateStr": "14 Oct, 19:21",
-      "isNew": true,
-      "id": "abc51792005673"
-    },
-    {
-      "title": "“Studentët” sulmojnë godinën e Kryeministrisë, ndërhyn autoboti",
-      "link": "https://abcnews.al/studentet-sulmojne-godinen-e-kryeministrise-nderhyn-autoboti/",
-      "description": "Godina e Kryeministrisë është sulmuar gjatë protestës së zhvilluar në Tiranë, ndërsa situata e tensionuar ka sjellë ndërhyrjen e autobotit me ujë. Protesta, e cila nisi pranë Ministrisë së Arsimit, është shoqëruar me episode dhune dhe zjarri, duke shkaktuar shqetësim për sigurinë në kryeqytet. Gjatë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-14T19:18:43+00:00",
-      "dateStr": "14 Oct, 19:18",
-      "isNew": true,
-      "id": "abc61792005523"
-    },
-    {
-      "title": "‘Drejtësia në flakë’/ Ministri Gogu: Dëmin më të rëndë nuk e pëson qeveria, por njerëzit që kanë nevojë për ndihmë",
-      "link": "https://abcnews.al/drejtesia-ne-flake-ministri-gogu-demin-me-te-rende-nuk-e-peson-qeveria-por-njerezit-qe-kane-nevoje-per-ndihme/",
-      "description": "Fatmirësisht, asnjë punonjës nuk është lënduar. Falënderoj zjarrfikësit dhe punonjësit e Policisë që ndërhynë për të mbrojtur jetën e njerëzve dhe për të kufizuar dëmet. Në atë zyrë vijnë njerëz që nuk kanë mundësi të paguajnë një avokat. Pensionistë, nëna të vetme, të rinj, viktima të dhunës. Njerë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-14T19:10:38+00:00",
-      "dateStr": "14 Oct, 19:10",
-      "isNew": true,
-      "id": "abc71792005038"
-    },
-    {
-      "title": "Protesta e dhunshme në Tiranë/ ‘Zgjohet’ ministri i Brendshëm: Skenar ogurzi për të sjellë rrëmujë e pasiguri",
-      "link": "https://abcnews.al/protesta-e-dhunshme-ne-tirane-zgjohet-ministri-i-brendshem/",
-      "description": "Ministri i Punëve të Brendshme, Ervin Demo, reagoi për protestën duke dënuar dhunën, zjarrvëniet dhe shkatërrimin e pronës publike dhe private. Reagim i ministrit të Punëve të Brendshme, Ervin Demo: Sot, e gjithë Shqipëria pa se në emër të studentëve, politika më e vjetër e këtij vendi, e cila jep s",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-14T19:05:56+00:00",
-      "dateStr": "14 Oct, 19:05",
-      "isNew": true,
-      "id": "abc81792004756"
-    },
-    {
-      "title": "Transformohet Tirana/ “Ku është shteti?”, Minxhozi: Pas këmbës së thyer që tundej, nuk duhej pasivitet…",
-      "link": "https://abcnews.al/transformohet-tirana-ku-eshte-shteti-minxhozi-pas-kembes-se-thyer-qe-tundej-nuk-duhej-pasivitet/",
-      "description": "Analisti Skënder Minxhozi ka ngritur pikëpyetje mbi reagimin e shtetit dhe institucioneve pas protestës së zhvilluar në Tiranë, duke vënë theksin te siguria e qytetarëve, dëmet e shkaktuara. Sipas analistit, ndryshe nga ngjarjet e vitit 1998, të cilat ishin të kufizuara në hapësirë dhe në kohë, situ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-14T18:56:04+00:00",
-      "dateStr": "14 Oct, 18:56",
-      "isNew": true,
-      "id": "abc91792004164"
+      "id": "abc91792006963"
     },
     {
       "title": "Përfshirja në rritje e Izraelit në Ballkan: asimetria e re e sigurisë dhe roli balancues i Turqisë",
