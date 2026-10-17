@@ -1,8 +1,162 @@
 {
-  "lastUpdated": "2026-10-17T20:00:14.997494+00:00",
+  "lastUpdated": "2026-10-17T22:49:40.667928+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Kosova pjesë e retorikës nacionaliste në prag të zgjedhjeve në Serbi",
+      "link": "https://24-ore.com/kosova-pjese-e-retorikes-nacionaliste-ne-prag-te-zgjedhjeve-ne-serbi/",
+      "description": "Në prag të zgjedhjeve parlamentare në Serbi, Kosova po përmendet në fushatë, por kryesisht për akuza politike dhe mesazhe nacionaliste. Pushteti dhe kundërshtarët e tij përsërisin politikat, pa ofruar zgjidhje konkrete për vazhdimin e dialogut me Prishtinën dhe zbatimin e marrëveshjeve të Brukselit ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-17T22:03:51+00:00",
+      "dateStr": "17 Oct, 22:03",
+      "isNew": true,
+      "id": "24 01792274631"
+    },
+    {
+      "title": "TikTok ndalon përgjithmonë llogarinë e dokumentarit «Musk» për përmbajtje politike",
+      "link": "https://24-ore.com/tiktok-ndalon-pergjithmone-llogarine-e-dokumentarit-musk-per-permbajtje-politike/",
+      "description": "Distributori Bleecker Street u njoftua se llogaria e filmit mori pezullim të përhershëm për shkak të përmbajtjes politike, ndërsa dokumentari gati katërorësh i Alex Gibney-t po zgjerohet në kinematë amerikane",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-17T21:57:18+00:00",
+      "dateStr": "17 Oct, 21:57",
+      "isNew": true,
+      "id": "24 11792274238"
+    },
+    {
+      "title": "Abu Dhabi shpall distriktin e ri kulturor Noma përpara edicionit të parë të Frieze në emirat",
+      "link": "https://24-ore.com/abu-dhabi-shpall-distriktin-e-ri-kulturor-noma-perpara-edicionit-te-pare-te-frieze-ne-emirat/",
+      "description": "Kompania Aldar prezantoi gjatë Frieze London lagjen krijuese Noma, në veri të Manarat Al Saadiyat, ndërsa panairi i parë Frieze Abu Dhabi hapet më 19 nëntor me 88 galeri.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-17T21:47:48+00:00",
+      "dateStr": "17 Oct, 21:47",
+      "isNew": true,
+      "id": "24 21792273668"
+    },
+    {
+      "title": "Maçva dhe OFK Beogradi ndajnë pikët në Shabac: Pejoviç barazon me kokë pas golit të hershëm të Silue",
+      "link": "https://24-ore.com/macva-dhe-ofk-beogradi-ndajne-piket-ne-shabac-pejovic-barazon-me-koke-pas-golit-te-hershem-te-silue/",
+      "description": "Në ndeshjen e xhiros së 12-të të Superligës së Serbisë, mysafirët nga Beogradi kaluan në avantazh që në minutën e 6-të, vendasit barazuan në minutën e 34-të, ndërsa pjesa e dytë kaloi pa gola — 1:1 në fund.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-17T21:47:40+00:00",
+      "dateStr": "17 Oct, 21:47",
+      "isNew": true,
+      "id": "24 31792273660"
+    },
+    {
+      "title": "Osman shpërthen me 37 pikë, rekord karriere: PAOK-u fiton 88-84 në Rodos dhe mbetet i pamposhtur",
+      "link": "https://24-ore.com/osman-shperthen-me-37-pike-rekord-karriere-paok-u-fiton-88-84-ne-rodos-dhe-mbetet-i-pamposhtur/",
+      "description": "Sulmuesi turk goditi shtatë herë nga distanca në fitoren e vështirë ndaj Kolossosit, duke e çuar PAOK-un në 3-0 në kampionatin grek të basketbollit",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-17T21:47:10+00:00",
+      "dateStr": "17 Oct, 21:47",
+      "isNew": true,
+      "id": "24 41792273630"
+    },
+    {
+      "title": "«Salomé» e Oscar Wilde-it zbret në Brewster: fotot e para nga produksioni zhytës i sezonit të Halloween-it",
+      "link": "https://24-ore.com/salome-e-oscar-wilde-it-zbret-ne-brewster-fotot-e-para-nga-produksioni-zhytes-i-sezonit-te-halloween-it/",
+      "description": "Old Town Hall Theatricals e kthen sallën historike të Brewster-it në një peizazh ëndrrash plot spektakël, suspensë dhe horror psikologjik, nën regjinë e Sandra Tica-s.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-17T21:42:25+00:00",
+      "dateStr": "17 Oct, 21:42",
+      "isNew": true,
+      "id": "24 51792273345"
+    },
+    {
+      "title": "Ligjvënës amerikanë nga të dyja partitë e quajnë kapitullim ndaj Putinit heqjen e sanksioneve nga Trump",
+      "link": "https://24-ore.com/ligjvenes-amerikane-nga-te-dyja-partite-e-quajne-kapitullim-ndaj-putinit-heqjen-e-sanksioneve-nga-trump/",
+      "description": "Pamje arkiv: senatori republikan Thom Tillis Ligjvënës nga të dyja partitë në Shtetet e Bashkuara e kritikuan ashpër të shtunën urdhrin e presidentit Donald Trump që pezulloi sanksionet ndaj Rusisë, duke e quajtur atë një kapitullim ndaj presidentit rus Vladimir Putin, siç njofton New York Post. &#8",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-17T21:39:15+00:00",
+      "dateStr": "17 Oct, 21:39",
+      "isNew": true,
+      "id": "24 61792273155"
+    },
+    {
+      "title": "Brnabiç paralajmëron ankesë zyrtare në Parlamentin Evropian: misioni vëzhgues “gjithçka tjetër veçse i paanshëm”",
+      "link": "https://24-ore.com/brnabic-paralajmeron-ankese-zyrtare-ne-parlamentin-evropian-misioni-vezhgues-gjithcka-tjeter-vecse-i-paanshem/",
+      "description": "Kryetarja e Kuvendit të Serbisë deklaroi në TV K1 se shefi i misionit vëzhgues, austriaku Andreas Schieder, “flet çdo ditë se Aleksandar Vuçiçi duhet të bjerë nga pushteti” dhe se, sipas saj, më shumë se gjysma e anëtarëve të misionit nuk i plotësojnë kushtet e kodit ndërkombëtar të vëzhguesve.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-17T21:34:23+00:00",
+      "dateStr": "17 Oct, 21:34",
+      "isNew": true,
+      "id": "24 71792272863"
+    },
+    {
+      "title": "«Street Fighter» kryeson box office-in amerikan me 31 milionë dollarë në fundjavën e hapjes",
+      "link": "https://24-ore.com/street-fighter-kryeson-box-office-in-amerikan-me-31-milione-dollare-ne-fundjaven-e-hapjes/",
+      "description": "Përshtatja e lojës së Capcom-it mori 12.5 milionë dollarë në ditën e hapjes, ndërsa dokumentari i A24 «You Can See Everything» befason në vendin e dytë me hapjen më të madhe për një dokumentar prej më shumë se një dekade.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-17T21:33:45+00:00",
+      "dateStr": "17 Oct, 21:33",
+      "isNew": true,
+      "id": "24 81792272825"
+    },
+    {
+      "title": "«Clybourne Park» në DreamWrights: drama fituese e Pulitzer-it e Bruce Norris-it përballë racës dhe një shtëpie në Çikago, 50 vjet larg",
+      "link": "https://24-ore.com/clybourne-park-ne-dreamwrights-drama-fituese-e-pulitzer-it-e-bruce-norris-it-perballe-races-dhe-nje-shtepie-ne-cikago-50-vjet-larg/",
+      "description": "Kritika e re vlerëson produksionin me regji të Sharee-Denise McFadden, në skenë nga 16 deri më 24 tetor: dy akte, e njëjta shtëpi, në vitin 1959 dhe në vitin 2009.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-17T21:33:43+00:00",
+      "dateStr": "17 Oct, 21:33",
+      "isNew": true,
+      "id": "24 91792272823"
+    },
+    {
+      "title": "Bejko i ashpër me klasën politike: Kanë ‘vrarë’ demokracinë në Shqipëri!",
+      "link": "https://abcnews.al/bejko-i-ashper-me-klasen-politike-kane-vrare-demokracine-ne-shqiperi/",
+      "description": "Analisti Roland Bejko ka komentuar protestat në Shqipëri, duke u shprehur kundër akteve të dhunës, të cilët janë regjistruar në bulevard  kundër Policisë dhe në disa rrugë të tjera të kryeqytetit. Bejko theksoi se dhuna nuk është e pranueshme, por shtoi se qytetarët kanë të drejtë të protestojnë, ma",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-17T21:15:27+00:00",
+      "dateStr": "17 Oct, 21:15",
+      "isNew": true,
+      "id": "abc01792271727"
+    },
+    {
+      "title": "Deklarata e fortë amerikane: Dhuna dhe trazirat, jo vend në qytetari",
+      "link": "https://abcnews.al/dhuna-trazirat-lendimi-fizik-nuk-jane-angazhim-qytetar-ambasada-amerikane-thirrje-te-gjitha-paleve-per-vetepermbajtje-dhe-qetesi/",
+      "description": "TIRANË- Ambasada Amerikane ka reaguar pas protestës së zhvilluar në vend, e cila u shoqërua me përplasje mes protestuesve dhe efektivëve të Policisë. Përmes një postimi në faqen zyrtare në rrjetet sociale, Ambasada Amerikane u ka bërë thirrje qytetarëve që të ushtrojnë të drejtën e tyre për protestë",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-17T21:03:58+00:00",
+      "dateStr": "17 Oct, 21:03",
+      "isNew": true,
+      "id": "abc11792271038"
+    },
+    {
+      "title": "“Kjo nuk është protestë”, Bislimi: Sulm ndaj rendit kushtetues, akte kundër integrimit në BE",
+      "link": "https://abcnews.al/kjo-nuk-eshte-proteste-bislimi-sulm-ndaj-rendit-kushtetues-akte-kunder-integrimit-ne-be/",
+      "description": "Anëtari i Kryesisë së Aleancës për Ardhmërinë e Kosovës (AAK), Labinot Bislimi, ka reaguar ndaj protestave, duke i cilësuar ato si sulm ndaj rendit kushtetues dhe demokracisë. Bislimi tha se zhvillimet e tilla nuk duhet të emërtohen thjesht si protesta, pasi, sipas tij, bëhet fjalë për veprime të or",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-17T20:53:35+00:00",
+      "dateStr": "17 Oct, 20:53",
+      "isNew": true,
+      "id": "abc21792270415"
+    },
+    {
+      "title": "“Këto janë grupe barbare”, Petraj: SPAK të hetojë organizatorët e protestës së dhunshme",
+      "link": "https://abcnews.al/keto-jane-grupe-barbare-petraj-spak-te-hetoje-organizatoret-e-protestes-se-dhunshme/",
+      "description": "Avokati Edmond Petraj, i ftuar në “Breaking News” u shpreh se ajo që po ndodh në Tiranë nuk ëhstë proetstë studentore. Ai theksoi se SPAK duhet të fillojë hetime për të gjithë ata perona, të cilët nxisin dhunë dhe akte agresive. “Këto janë grupe barbare. Struktura e Posaçme duhet të fillojë hetim di",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-17T20:41:58+00:00",
+      "dateStr": "17 Oct, 20:41",
+      "isNew": true,
+      "id": "abc31792269718"
+    },
     {
       "title": "Merz: Nuk duhet të braktisim Ukrainën",
       "link": "https://abcnews.al/merz-nuk-duhet-te-braktisim-ukrainen/",
@@ -12,106 +166,7 @@
       "date": "2026-10-17T19:56:17+00:00",
       "dateStr": "17 Oct, 19:56",
       "isNew": true,
-      "id": "abc01792266977"
-    },
-    {
-      "title": "Protestues dhe policë të lënduar nga protesta, ministrja e Shëndetësisë shkon në Spitalin e Traumës",
-      "link": "https://24-ore.com/protestues-dhe-police-te-lenduar-nga-protesta-ministrja-e-shendetesise-shkon-ne-spitalin-e-traumes/",
-      "description": "Ministrja e Shëndetësisë dhe Mirëqenies Sociale, Klodiana Spahiu, ka shkuar këtë mbrëmje në Spitalin Universitar të Traumës, aty ku po marrin trajtim mjekësor dhjetëra efektivë të Policisë së Shtetit dhe protestues të lënduar gjatë protestave. “Mirënjohje për të gjitha ekipet e mjekëve dhe infermier",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-17T19:55:32+00:00",
-      "dateStr": "17 Oct, 19:55",
-      "isNew": true,
-      "id": "24 01792266932"
-    },
-    {
-      "title": "“Të gjithë në këmbë”, Berisha: Qytetarët në të gjitha rrethet të mobilizohen për mosbindje civile",
-      "link": "https://24-ore.com/te-gjithe-ne-kembe-berisha-qytetaret-ne-te-gjitha-rrethet-te-mobilizohen-per-mosbindje-civile/",
-      "description": "Kryetari i Partisë Demokratike, Sali Berisha, ka dalë në një deklaratë për mediat, ku u ka bërë thirrje demokratëve dhe qytetarëve në rrethe për mosbindje civile. “Shpreh solidaritetin me të gjithë qytetarët, të rinjtë, studentët, demokratë, pa parti, socialistë, çfarëdo qofshin në këtë protestë. Ju",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-17T19:55:17+00:00",
-      "dateStr": "17 Oct, 19:55",
-      "isNew": true,
-      "id": "24 11792266917"
-    },
-    {
-      "title": "Rinisin tensionet në bulevardin “Dëshmorët e Kombit”, protestuesit qëllojnë me gurë, policia i shpërndan me ujë",
-      "link": "https://24-ore.com/rinisin-tensionet-ne-bulevardin-deshmoret-e-kombit-protestuesit-qellojne-me-gure-policia-i-shperndan-me-uje/",
-      "description": "Kanë rifilluar përplasjet mes protestuesve dhe policisë në bulevardin “Dëshmorët e Kombit”. Sipas raportimeve, policia u ka bërë thirrje protestuesve dhe të rinjëve të largohen, ndërsa këta të fundit kanë qëlluar me gurë dhe polica ka përdorur botët me ujë. Ndërkohë, protestuesit janë shpërndarë, nd",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-17T19:54:57+00:00",
-      "dateStr": "17 Oct, 19:54",
-      "isNew": true,
-      "id": "24 21792266897"
-    },
-    {
-      "title": "Arqipeshkvi Peragine reagon për protestat: Shqipëria nuk meriton të përjetojë sërish plagët e së kaluarës",
-      "link": "https://24-ore.com/arqipeshkvi-peragine-reagon-per-protestat-shqiperia-nuk-meriton-te-perjetoje-serish-plaget-e-se-kaluares/",
-      "description": "Arqipeshkvi i Shkodër-Pultit, imzot Giovanni Peragine, ka reaguar për protestat e ditëve të fundit në Shqipëri ndërsa thekson se Shqipëria nuk meriton të përjetojë sërish plagët e rënda të së kaluarës. Përmes një deklarate, ai u bën thirrje autoriteteve të dëgjojnë qytetarët, të hapin rrugë dialogut",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-17T19:54:42+00:00",
-      "dateStr": "17 Oct, 19:54",
-      "isNew": true,
-      "id": "24 31792266882"
-    },
-    {
-      "title": "Policia rrethon të riun në Tiranë, humb ndjenjat pasi u thotë efektivëve se nuk ishte protestues (VIDEO)",
-      "link": "https://24-ore.com/policia-rrethon-te-riun-ne-tirane-humb-ndjenjat-pasi-u-thote-efektiveve-se-nuk-ishte-protestues-video/",
-      "description": "Një tjetër incident është shënuar në rrugët e Tiranës, ku policët kanë rrethuar një të ri. Ai është ndier keq dhe u ka thënë efektivëve se nuk ishte protestues, ndërsa pak çaste më pas ka humbur ndjenjat. Sipas informacioneve, policët i kanë marrë telefonin për të parë nëse kishte mesazhe që lidhen ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-17T19:54:24+00:00",
-      "dateStr": "17 Oct, 19:54",
-      "isNew": true,
-      "id": "24 41792266864"
-    },
-    {
-      "title": "Edhe Italia përfshihet nga protestat, kaos dhe përleshje mes qytetarëve dhe policisë",
-      "link": "https://24-ore.com/edhe-italia-perfshihet-nga-protestat-kaos-dhe-perleshje-mes-qytetareve-dhe-policise/",
-      "description": "Një seri e re demonstratash u zhvillua sot në qytetet kryesore të Italisë , kryesisht në Milano, Torino, Bolonjë dhe Romë. Në kryeqytetin italian, një marshim i madh u organizua nga sindikata Cgil me 4.5 milionë anëtarë. Sekretari i sindikatës, Maurizio Landini, njoftoi se Cgil do të hynte në një gr",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-17T19:54:09+00:00",
-      "dateStr": "17 Oct, 19:54",
-      "isNew": true,
-      "id": "24 51792266849"
-    },
-    {
-      "title": "Protestat në Francë, Macron: Dhuna nuk ka vend në demokracinë tonë",
-      "link": "https://24-ore.com/protestat-ne-france-macron-dhuna-nuk-ka-vend-ne-demokracine-tone/",
-      "description": "“Dhuna nuk ka vend në demokracinë tonë”, tha sot Presidenti francez Emmanuel Macron , duke komentuar incidentet e vazhdueshme në Paris dhe qytete të tjera të mëdha franceze. “Ata që hynë me forcë, që sulmuan stacionet e policisë, komunat dhe dyqanet do të ndiqen penalisht dhe do të ndëshkohen”, tha ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-17T19:53:56+00:00",
-      "dateStr": "17 Oct, 19:53",
-      "isNew": true,
-      "id": "24 61792266836"
-    },
-    {
-      "title": "Sali Berisha kërkon të bëhet kryetar edhe i atyre që e duan në burg",
-      "link": "https://24-ore.com/sali-berisha-kerkon-te-behet-kryetar-edhe-i-atyre-qe-e-duan-ne-burg/",
-      "description": "Sali Berisha ka një problem të madh. Nuk e pranon dot që në Shqipëri mund të ketë njerëz që janë kundër Edi Ramës, por nuk duan as Sali Berishën. Për të, kjo është një gjë e pamundur. Nëse nuk do Ramën, patjetër duhet të duash Berishën. Nëse nuk do asnjërin, atëherë ke një problem serioz [&#8230;]",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-17T19:46:43+00:00",
-      "dateStr": "17 Oct, 19:46",
-      "isNew": true,
-      "id": "24 71792266403"
-    },
-    {
-      "title": "Kosova synon blerjen e helikopterëve ushtarakë, ekspertët kërkojnë më shumë armatim",
-      "link": "https://24-ore.com/kosova-synon-blerjen-e-helikoptereve-ushtarake-ekspertet-kerkojne-me-shume-armatim/",
-      "description": "Kosova po synon t`i forcojë kapacitetet mbrojtëse përmes blerjes së helikopterëve ushtarakë amerikanë. Ministri i Mbrojtjes, Ejup Maqedonci, ka bërë të ditur se kërkesa i është adresuar Departamentit Amerikan të Luftës. Ekspertët e sigurisë e vlerësojnë këtë nismë si hap të rëndësishëm për forcimin ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-17T19:24:12+00:00",
-      "dateStr": "17 Oct, 19:24",
-      "isNew": true,
-      "id": "24 81792265052"
+      "id": "abc41792266977"
     },
     {
       "title": "Edicioni Qendror me Emiljan Islamin, (17/10/2026)",
@@ -122,18 +177,7 @@
       "date": "2026-10-17T19:21:26+00:00",
       "dateStr": "17 Oct, 19:21",
       "isNew": true,
-      "id": "abc11792264886"
-    },
-    {
-      "title": "«Six» kthehet në Sydney me gjashtë mbretëresha të reja: sezoni i pestë në Theatre Royal merr vlerësimin e kritikut",
-      "link": "https://24-ore.com/six-kthehet-ne-sydney-me-gjashte-mbreteresha-te-reja-sezoni-i-peste-ne-theatre-royal-merr-vleresimin-e-kritikut/",
-      "description": "Muzikali-koncert i Toby Marlow-t dhe Lucy Moss-it për gjashtë gratë e Henry VIII u rikthye në Theatre Royal Sydney me një trupë krejt të re australiane — dhe, sipas kritikut të BroadwayWorld, energjia e mbretëreshave të reja e mban shfaqjen po aq shpërthyese sa në sezonet e kaluara.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-17T19:10:24+00:00",
-      "dateStr": "17 Oct, 19:10",
-      "isNew": true,
-      "id": "24 91792264224"
+      "id": "abc51792264886"
     },
     {
       "title": "Koçiu: E papranueshme dhuna në Tiranë/ Zv.kryeministrja: Dhuna ndaj punonjësve të policisë duhet dënuar me forcë",
@@ -144,7 +188,7 @@
       "date": "2026-10-17T19:04:24+00:00",
       "dateStr": "17 Oct, 19:04",
       "isNew": true,
-      "id": "abc21792263864"
+      "id": "abc61792263864"
     },
     {
       "title": "Dhuna në Bulevard, Ministria e Shëndetësisë: 21 efektivë dhe 13 protestues po marrin ndihmë mjekësore",
@@ -155,7 +199,7 @@
       "date": "2026-10-17T18:58:20+00:00",
       "dateStr": "17 Oct, 18:58",
       "isNew": true,
-      "id": "abc31792263500"
+      "id": "abc71792263500"
     },
     {
       "title": "Gogu reagon pas zjarrit në Gjykatën e Lartë: Kush i vë flakën një gjykate, nuk godet qeverinë, por të drejtën e qytetarëve për drejtësi",
@@ -166,7 +210,7 @@
       "date": "2026-10-17T18:39:43+00:00",
       "dateStr": "17 Oct, 18:39",
       "isNew": true,
-      "id": "abc41792262383"
+      "id": "abc81792262383"
     },
     {
       "title": "Spahiu viziton të lënduarit te Trauma: Mirënjohje për të gjitha ekipet mjekësore dhe infermierore",
@@ -177,51 +221,7 @@
       "date": "2026-10-17T18:35:41+00:00",
       "dateStr": "17 Oct, 18:35",
       "isNew": true,
-      "id": "abc51792262141"
-    },
-    {
-      "title": "Ku i ke bandat, Edi Rama?",
-      "link": "https://abcnews.al/albatros-rexhaj-ku-i-ke-bandat-edi-rama/",
-      "description": "Nga Albatros Rexhaj I dashur Edi Rama, Po filloj të dyshoj se na kanë gënjyer për ty. Jo ata që të mbrojnë, por ata që prej vitesh na tregojnë se kush je. Nëse u besoj, ti ke nën komandë të gjitha bandat e Shqipërisë, i kontrollon mediat deri te kronika e motit dhe ke ngritur [...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-17T18:18:22+00:00",
-      "dateStr": "17 Oct, 18:18",
-      "isNew": true,
-      "id": "abc61792261102"
-    },
-    {
-      "title": "Hotel “Dajti” s’u dogj as në luftë/ Minxhozi: Kjo që po ndodh nuk ka më logjikë, të gjitha palët janë të humbura",
-      "link": "https://abcnews.al/hotel-dajti-su-dogj-as-ne-lufte-minxhozi-kjo-qe-po-ndodh-nuk-ka-me-logjike-te-gjitha-palet-jane-te-humbura/",
-      "description": "TIRANË- Analisti Skënder Minxhozi komentoi veprimet e dhunshme të protestuesve, të cilët dogjën automjete, institucione  dhe aktit të tyre shkatërrues nuk i shpëtoi as hotel &#8220;Dajti&#8221;, i cili ka një histori pothuajse shekullore. Duke iu referuar hotel Dajtit, Minxhozi kujtoi historinë e go",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-17T18:14:24+00:00",
-      "dateStr": "17 Oct, 18:14",
-      "isNew": true,
-      "id": "abc71792260864"
-    },
-    {
-      "title": "Në spital drejtori i policisë së Tiranës/ Oliger Torba me krahun e fashuar",
-      "link": "https://abcnews.al/ne-spital-drejtori-i-policise-se-tiranes-oliger-torba-me-krahun-e-fashuar/",
-      "description": "Drejtori i Policisë së Tiranës, Oliger Torba, ka shkuar në spital, me krahun e fashuar. Prania e tij në ambientet e spitalit vjen në një kohë kur situata në kryeqytet është tensionuar, për shkak të përplasjeve mes protestuesve dhe forcave të rendit. Gjatë orëve të fundit, situata në Tiranë është sho",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-17T18:06:42+00:00",
-      "dateStr": "17 Oct, 18:06",
-      "isNew": true,
-      "id": "abc81792260402"
-    },
-    {
-      "title": "Dhunuesit sulmojnë selinë e PS/ Policia aksione në rrugët e Tiranës",
-      "link": "https://abcnews.al/dhunuesit-sulmojne-seline-e-ps-policia-aksione-ne-rruget-e-tiranes/",
-      "description": "Dhuna është zhvendosur edhe pranë selisë së Partisë Socialiste, e cila është sulmuar nga protestuesit. Për shpërndarjen e turmës, policia ka përdorur gaz lotsjellës, ndërsa situata në kryeqytet vijon të jetë e tensionuar. Ndërkohë, efektivët e policisë po zhvillojnë aksione në rrugët e Tiranës, në p",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-17T18:00:56+00:00",
-      "dateStr": "17 Oct, 18:00",
-      "isNew": true,
-      "id": "abc91792260056"
+      "id": "abc91792262141"
     },
     {
       "title": "Përfshirja në rritje e Izraelit në Ballkan: asimetria e re e sigurisë dhe roli balancues i Turqisë",
