@@ -1,106 +1,117 @@
 {
-  "lastUpdated": "2026-10-19T22:46:06.058968+00:00",
+  "lastUpdated": "2026-10-20T01:29:00.691944+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Autoriteti iranian i Hormuzit e çon në 122 numrin e anijeve në “listën e mospërputhjes”",
-      "link": "https://24-ore.com/autoriteti-iranian-i-hormuzit-e-con-ne-122-numrin-e-anijeve-ne-listen-e-mosperputhjes/",
-      "description": "Autoriteti i Ngushticës së Gjirit Persik njoftoi se 122 anije janë tashmë në listën e tij të mospërputhjes për shkelje të protokolleve iraniane të kalimit në Ngushticën e Hormuzit; mbi 40 anije tregtare janë kontaktuar, 19 janë në negociata, ndërsa rreth 30 të tjera rrezikojnë të shtohen në listë.",
+      "title": "Banka e Greqisë: suficiti primar i buxhetit bie në 2,5 miliardë euro në janar–shtator",
+      "link": "https://24-ore.com/banka-e-greqise-suficiti-primar-i-buxhetit-bie-ne-25-miliarde-euro-ne-janar-shtator/",
+      "description": "Sipas të dhënave të Bankës së Greqisë, suficiti primar i buxhetit shtetëror në bazë cash ra në 2,5 miliardë euro në nëntëmujorin e parë të vitit, nga 10,1 miliardë euro në të njëjtën periudhë të vitit të kaluar, ndërsa qeveria qendrore regjistroi deficit cash prej 776 milionë eurosh.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-19T22:43:33+00:00",
-      "dateStr": "19 Oct, 22:43",
+      "date": "2026-10-20T01:26:12+00:00",
+      "dateStr": "20 Oct, 01:26",
       "isNew": true,
-      "id": "24 01792449813"
+      "id": "24 01792459572"
     },
     {
-      "title": "Trump emëron dy gjyqtarë të rinj federalë para zgjedhjeve të mesmandatit",
-      "link": "https://24-ore.com/trump-emeron-dy-gjyqtare-te-rinj-federale-para-zgjedhjeve-te-mesmandatit/",
-      "description": "Presidenti emëroi Eric Hamilton për Nebraskën dhe Joseph Falvey për Indianën veriore. Emërimet vijnë ndërsa republikanët e Senatit përgatisin një valë konfirmimesh pas zgjedhjeve të 3 nëntorit.",
+      "title": "Art Basel qëndron në Miami Beach deri në 2031: qiraja përgjysmohet në 500 mijë dollarë pas kërcënimit për Las Vegas",
+      "link": "https://24-ore.com/art-basel-qendron-ne-miami-beach-deri-ne-2031-qiraja-pergjysmohet-ne-500-mije-dollare-pas-kercenimit-per-las-vegas/",
+      "description": "Pas 18 muajsh negociatash të nxehta, gjatë të cilave kompania mëmë MCH Group kërcënoi ta zhvendoste panairin në Las Vegas, Miami Beach miratoi kontratën e re pesëvjeçare: qiraja vjetore bie nga gati 1 milion në 500 mijë dollarë, me ndalim për panairet rivale dhe të drejtë vetoje në “zonën Art Basel”",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-19T22:33:34+00:00",
-      "dateStr": "19 Oct, 22:33",
+      "date": "2026-10-20T01:16:34+00:00",
+      "dateStr": "20 Oct, 01:16",
       "isNew": true,
-      "id": "24 11792449214"
+      "id": "24 11792458994"
     },
     {
-      "title": "Trump fajëson emigrantët për trazirat në Francë: Parisi do të bëhet shumë shpejt një qytet mysliman",
-      "link": "https://24-ore.com/trump-fajeson-emigrantet-per-trazirat-ne-france-parisi-do-te-behet-shume-shpejt-nje-qytet-mysliman/",
-      "description": "Presidenti amerikan i bëri komentet para gazetarëve në Shtëpinë e Bardhë, teksa nisej për një tubim fushate në Kansas, dy javë para zgjedhjeve të mesmandatit. Zyrtarët francezë thonë se protestat lidhen me koston e jetesës dhe çmimet e energjisë.",
+      "title": "Rama u lëvdon studentëve kullat me llogaritje fallco",
+      "link": "https://24-ore.com/rama-u-levdon-studenteve-kullat-me-llogaritje-fallco/",
+      "description": "Gjuha vete atje ku dhemb dhëmbi thotë populli. Kështu edhe me kryeministrin Rama i cili të gjitha shembujt për treguar dëmin e protestave ndaj pronës private i ka me oligarkë dhe ndërtues. Ka një shtysë të brendshme të madhe nga ana e tij për të mbrojtur produktet e aleancës me oligarkinë dhe krimin",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-19T22:24:11+00:00",
-      "dateStr": "19 Oct, 22:24",
+      "date": "2026-10-20T01:16:14+00:00",
+      "dateStr": "20 Oct, 01:16",
       "isNew": true,
-      "id": "24 21792448651"
+      "id": "24 21792458974"
     },
     {
-      "title": "Qindra protestues në Bogotá: heqja e rreth 30 veprave nga Muzeu Kombëtar i Kolumbisë ndez debat për censurën",
-      "link": "https://24-ore.com/qindra-protestues-ne-bogota-heqja-e-rreth-30-veprave-nga-muzeu-kombetar-i-kolumbise-ndez-debat-per-censuren/",
-      "description": "Me urdhër të presidentit Abelardo De La Espriella u hoqën nga ekspozimi vepra dhe objekte për dhunën politike, të drejtat e grave dhe historinë LGBTQ+. Drejtorët e gjashtë muzeve të artit modern kërkojnë kthimin e vendimit, ndërsa ministrja e Kulturës thotë se muzeu nuk duhet të jetë instrument i in",
+      "title": "«Downstate» shtyn për herë të tretë preview-n e parë në Broadway: shfaqja nis më 22 tetor në Booth Theatre",
+      "link": "https://24-ore.com/downstate-shtyn-per-here-te-trete-preview-n-e-pare-ne-broadway-shfaqja-nis-me-22-tetor-ne-booth-theatre/",
+      "description": "Drama e Bruce Norris-it shtyhet sërish për shkak të sëmundjes në kast — pas datave 17, 19 dhe 20 tetor, preview-ja e parë tani pritet më 22 tetor në Booth Theatre, ndërsa nata e hapjes mbetet 15 nëntori.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-19T22:15:25+00:00",
-      "dateStr": "19 Oct, 22:15",
+      "date": "2026-10-20T01:12:37+00:00",
+      "dateStr": "20 Oct, 01:12",
       "isNew": true,
-      "id": "24 31792448125"
+      "id": "24 31792458757"
     },
     {
-      "title": "«Traitorz» shpall kastin e plotë për debutimin Off-Broadway: Dylan Adler në rolin e Alan Cumming-ut",
-      "link": "https://24-ore.com/traitorz-shpall-kastin-e-plote-per-debutimin-off-broadway-dylan-adler-ne-rolin-e-alan-cumming-ut/",
-      "description": "Parodia muzikore e paautorizuar e reality show-t «The Traitors» nis shfaqjet më 4 nëntor në St. Luke's Theatre, me natë hapjeje më 13 nëntor — dhe publiku do të ngjitet vetë në skenë për të luajtur lojën.",
+      "title": "Sony blen të drejtat e «D’Orc»: komiku fantastik i Brett Bean bëhet film live-action më pak se një vit pas numrit të parë",
+      "link": "https://24-ore.com/sony-blen-te-drejtat-e-dorc-komiku-fantastik-i-brett-bean-behet-film-live-action-me-pak-se-nje-vit-pas-numrit-te-pare/",
+      "description": "Sony Pictures ka siguruar të drejtat kinematografike live-action për serinë bestseller të Image Comics, që u shit e gjitha para daljes së numrit të parë dhe tani është në shtypjen e tetë; vetë krijuesi Brett Bean do ta përshtatë për ekranin e madh.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-19T22:10:11+00:00",
-      "dateStr": "19 Oct, 22:10",
+      "date": "2026-10-20T00:53:00+00:00",
+      "dateStr": "20 Oct, 00:53",
       "isNew": true,
-      "id": "24 41792447811"
+      "id": "24 41792457580"
     },
     {
-      "title": "Mbrojtja ajrore saudite intercepton një raketë të Huthi-ve që synonte Riadin",
-      "link": "https://24-ore.com/mbrojtja-ajrore-saudite-intercepton-nje-rakete-te-huthi-ve-qe-synonte-riadin/",
-      "description": "Siç njofton Al Jazeera, raketa u interceptua mbrëmjen e së hënës mbi kryeqytetin saudit; në përditësimin e saj nuk u raportua për viktima apo dëme.",
+      "title": "Hegseth takon Netanyahun në një vizitë të paparalajmëruar në Izrael, raporton Axios",
+      "link": "https://24-ore.com/hegseth-takon-netanyahun-ne-nje-vizite-te-paparalajmeruar-ne-izrael-raporton-axios/",
+      "description": "Sekretari amerikan i Mbrojtjes, Pete Hegseth, u takua të hënën me kryeministrin izraelit Benjamin Netanyahu gjatë një vizite të paparalajmëruar në Izrael, një ditë pasi presidenti Donald Trump mbështeti publikisht Netanyahun për zgjedhjet parlamentare të javës së ardhshme.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-19T21:56:52+00:00",
-      "dateStr": "19 Oct, 21:56",
+      "date": "2026-10-20T00:37:15+00:00",
+      "dateStr": "20 Oct, 00:37",
       "isNew": true,
-      "id": "24 51792447012"
+      "id": "24 51792456635"
     },
     {
-      "title": "«Who Killed Narin G***?» i Ayce Kartal fiton Grand Prix në Festivalin AnimaDoc «Rising of Lusitania» në Gdańsk",
-      "link": "https://24-ore.com/who-killed-narin-g-i-ayce-kartal-fiton-grand-prix-ne-festivalin-animadoc-rising-of-lusitania-ne-gdansk/",
-      "description": "Dokumentari i animuar francez u shpall filmi më i mirë profesional në edicionin e mbajtur më 12–15 tetor në Gdańsk, ku u shfaqën 51 filma nga 30 vende; çmimi Rising dhe çmimi i studentëve shkuan për «Error: Connection Lost» të Uliana Gromyko-s.",
+      "title": "Trump nis në Kansas sprintin e tubimeve për mesmandatin: mbështetje për senatorin Marshall në garën e ngushtë",
+      "link": "https://24-ore.com/trump-nis-ne-kansas-sprintin-e-tubimeve-per-mesmandatin-mbeshtetje-per-senatorin-marshall-ne-garen-e-ngushte/",
+      "description": "Presidenti Donald Trump foli të hënën në mbrëmje në arenën Heartland Credit Union në Park City, pranë Wichitës, në ndalesën e parë të një turi me shtatë tubime në shtatë ditë, ndërsa gara e Senatit në Kansas cilësohet e barabartë nga sondazhet kombëtare.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-19T21:56:13+00:00",
-      "dateStr": "19 Oct, 21:56",
+      "date": "2026-10-20T00:28:27+00:00",
+      "dateStr": "20 Oct, 00:28",
       "isNew": true,
-      "id": "24 61792446973"
+      "id": "24 61792456107"
     },
     {
-      "title": "Kuvendi pa votim për ndryshimet kushtetuese: qeveria pranoi kërkesën e ES dhe URA-s, DPS kundër",
-      "link": "https://24-ore.com/kuvendi-pa-votim-per-ndryshimet-kushtetuese-qeveria-pranoi-kerkesen-e-es-dhe-ura-s-dps-kunder/",
-      "description": "Seanca e mbrëmjes për provimin e integritetit u zhvillua pas një pauze të gjatë; deputeti i PES-it Boris Pejoviq foli për pengesa nga opozita, ndërsa salla e Kuvendit ishte pothuajse bosh dhe votimi nuk u mbajt.",
+      "title": "Patrick Graham dhe Cathy Wilkes fitojnë çmimet e para Francis Bacon për artet pamore irlandeze",
+      "link": "https://24-ore.com/patrick-graham-dhe-cathy-wilkes-fitojne-cmimet-e-para-francis-bacon-per-artet-pamore-irlandeze/",
+      "description": "Dy artistët ndajnë fondin prej 40,000 eurosh — Graham nderohet për karrierën mbi gjashtëdekadëshe, Wilkes për praktikën e saj në skulpturë, pikturë dhe instalacion — dhe ftohen për ekspozita personale në Château La Coste në Provencë.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-19T21:54:21+00:00",
-      "dateStr": "19 Oct, 21:54",
+      "date": "2026-10-20T00:26:48+00:00",
+      "dateStr": "20 Oct, 00:26",
       "isNew": true,
-      "id": "24 71792446861"
+      "id": "24 71792456008"
     },
     {
-      "title": "Qeveria pranoi kërkesën e opozitës për provimin e integritetit, Kuvendi voton sonte ndryshimin e Kushtetutës",
-      "link": "https://24-ore.com/qeveria-pranoi-kerkesen-e-opozites-per-provimin-e-integritetit-kuvendi-voton-sonte-ndryshimin-e-kushtetutes/",
-      "description": "Qeveria e Malit të Zi pranoi që ligjet për provimin e integritetit të miratohen me shumicë prej dy të tretash, ndërsa DPS-ja njoftoi se nuk do ta mbështesë as propozimin fillestar e as zgjidhjen e re për nenin 91 të Kushtetutës.",
+      "title": "«Midnight» i Todrick Hall zgjatet Off-Broadway: muzikali qëndron në Daryl Roth Theatre deri më 3 janar 2027",
+      "link": "https://24-ore.com/midnight-i-todrick-hall-zgjatet-off-broadway-muzikali-qendron-ne-daryl-roth-theatre-deri-me-3-janar-2027/",
+      "description": "Pas preview-ve të shitura dhe hapjes zyrtare më 15 tetor, muzikali origjinal i shkruar dhe i drejtuar nga Todrick Hall shton javë të reja në Nju Jork: historia e dymbëdhjetë jetëve të ndërlidhura në Jugun amerikan të shekullit XIX vazhdon edhe përtej festave të fundvitit.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-19T21:54:19+00:00",
-      "dateStr": "19 Oct, 21:54",
+      "date": "2026-10-20T00:19:15+00:00",
+      "dateStr": "20 Oct, 00:19",
       "isNew": true,
-      "id": "24 81792446859"
+      "id": "24 81792455555"
+    },
+    {
+      "title": "Pissaladière provençale — tarta franceze me qepë të karamelizuara, açuge dhe ullinj të zinj",
+      "link": "https://24-ore.com/pissaladiere-provencale-tarta-franceze-me-qepe-te-karamelizuara-acuge-dhe-ullinj-te-zinj/",
+      "description": "Specialiteti emblematik i Nicës, ku ëmbëlsia e qepëve të ziera ngadalë takohet me kripësinë e açugeve dhe ullinjve të zinj mbi një brumë buke të artë.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-20T00:17:04+00:00",
+      "dateStr": "20 Oct, 00:17",
+      "isNew": true,
+      "id": "24 91792455424"
     },
     {
       "title": "“Secili të mbajë përgjegjësinë e vet”/ Leka: Koha të mendojmë se si të zgjidhim situatën për të lënë pas dhunën",
@@ -112,17 +123,6 @@
       "dateStr": "19 Oct, 21:54",
       "isNew": true,
       "id": "abc01792446845"
-    },
-    {
-      "title": "Bilanci i sulmit ndaj kampit në Shabwa rritet në 58 të vrarë, thotë zv/guvernatori i provincës",
-      "link": "https://24-ore.com/bilanci-i-sulmit-ndaj-kampit-ne-shabwa-rritet-ne-58-te-vrare-thote-zv-guvernatori-i-provinces/",
-      "description": "Sipas Al Jazeera-s, zv/guvernatori i Shabwa-s, Fahad Khalifi, njoftoi shifrën e re për sulmin me raketa balistike ndaj kampit al-Alam, ndërsa numri i të plagosurve mbetet 200.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-19T21:52:45+00:00",
-      "dateStr": "19 Oct, 21:52",
-      "isNew": true,
-      "id": "24 91792446765"
     },
     {
       "title": "Protesta mbyllet pa dhunë/ Përplasje në kryeqytet, por policia “bllokon” protestuesit e dhunshëm",
