@@ -1,8 +1,151 @@
 {
-  "lastUpdated": "2026-10-21T21:09:14.556040+00:00",
+  "lastUpdated": "2026-10-22T00:22:35.454126+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "«Atalanta: The Long Shot» bën premierën botërore në Culture Lab LIC: Julianna Austin në rolin e heroinës mitologjike",
+      "link": "https://24-ore.com/atalanta-the-long-shot-ben-premieren-boterore-ne-culture-lab-lic-julianna-austin-ne-rolin-e-heroines-mitologjike-2/",
+      "description": "Muzikali epik i dyshes Lucier&#038;Rose për gjuetaren që mund të mposhte në vrap çdo burrë të Greqisë antike shfaqet nga 5 deri më 8 nëntor si produksion Equity Showcase",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-22T00:20:25+00:00",
+      "dateStr": "22 Oct, 00:20",
+      "isNew": true,
+      "id": "24 01792628425"
+    },
+    {
+      "title": "«Atalanta: The Long Shot» bën premierën botërore në Culture Lab LIC: Julianna Austin në rolin e heroinës mitologjike",
+      "link": "https://24-ore.com/atalanta-the-long-shot-ben-premieren-boterore-ne-culture-lab-lic-julianna-austin-ne-rolin-e-heroines-mitologjike/",
+      "description": "Muzikali epik i dyshes Lucier&#038;Rose për gjuetaren që mund të mposhte në vrap çdo burrë të Greqisë antike shfaqet nga 5 deri më 8 nëntor si produksion Equity Showcase",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-22T00:18:40+00:00",
+      "dateStr": "22 Oct, 00:18",
+      "isNew": true,
+      "id": "24 11792628320"
+    },
+    {
+      "title": "Sulm ndaj aeroportit King Fahd në Dammam: një i vrarë dhe tetë të plagosur",
+      "link": "https://24-ore.com/sulm-ndaj-aeroportit-king-fahd-ne-dammam-nje-i-vrare-dhe-tete-te-plagosur/",
+      "description": "Një sulm ndaj aeroportit ndërkombëtar King Fahd në Dammam vrau një person dhe plagosi tetë të tjerë, njoftoi Autoriteti i Aviacionit Civil i Arabisë Saudite, ndërsa koalicioni i udhëhequr nga Riadi tha se mbrojtja ajrore interceptoi katër dronë në Provincën Lindore.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-22T00:15:06+00:00",
+      "dateStr": "22 Oct, 00:15",
+      "isNew": true,
+      "id": "24 21792628106"
+    },
+    {
+      "title": "Eton mess angleze — ëmbëlsira tradicionale me luleshtrydhe, beze dhe krem të rrahur",
+      "link": "https://24-ore.com/eton-mess-angleze-embelsira-tradicionale-me-luleshtrydhe-beze-dhe-krem-te-rrahur/",
+      "description": "Ëmbëlsira klasike e Kolegjit Eton, e përmendur për herë të parë në vitin 1893: luleshtrydhe të ëmbla, copa krokante bezeje dhe krem i butë i rrahur, të përziera në çastin e fundit dhe të servirura menjëherë.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-21T23:56:47+00:00",
+      "dateStr": "21 Oct, 23:56",
+      "isNew": true,
+      "id": "24 31792627007"
+    },
+    {
+      "title": "Tom Cruise do të marrë çmimin e 52-të të AFI-t për arritje jetësore në karrierë",
+      "link": "https://24-ore.com/tom-cruise-do-te-marre-cmimin-e-52-te-te-afi-t-per-arritje-jetesore-ne-karriere/",
+      "description": "Instituti Amerikan i Filmit do ta nderojë aktorin dhe producentin me nderimin më të lartë për një karrierë në film, në një gala më 24 prill 2027 në Teatrin Dolby në Los Anxhelos.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-21T23:56:30+00:00",
+      "dateStr": "21 Oct, 23:56",
+      "isNew": true,
+      "id": "24 41792626990"
+    },
+    {
+      "title": "Airbnb u ndalon pronarëve t’u kërkojnë mysafirëve larjen e enëve dhe heqjen e çarçafëve",
+      "link": "https://24-ore.com/airbnb-u-ndalon-pronareve-tu-kerkojne-mysafireve-larjen-e-eneve-dhe-heqjen-e-carcafeve/",
+      "description": "Politika e re, që hyn në fuqi për rezervimet nga 20 nëntori, synon t'i japë fund listave të gjata të punëve në largim, por ka shkaktuar reagime të forta te pronarët.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-21T23:53:15+00:00",
+      "dateStr": "21 Oct, 23:53",
+      "isNew": true,
+      "id": "24 51792626795"
+    },
+    {
+      "title": "Meta i ofron Zuckerberg-ut aksione të reja pa të drejtë vote për ta mbajtur në Kaliforni, pavarësisht taksës së miliarderëve",
+      "link": "https://24-ore.com/meta-i-ofron-zuckerberg-ut-aksione-te-reja-pa-te-drejte-vote-per-ta-mbajtur-ne-kaliforni-pavaresisht-takses-se-miliardereve/",
+      "description": "Drejtori ekzekutiv i Meta-s kishte paralajmëruar bordin se do të largohej nga Kalifornia nëse miratohet Propozicioni 40; marrëveshja e re e lidh shitjen e aksioneve me qëndrimin e tij pranë selisë për tetë vjet.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-21T23:49:56+00:00",
+      "dateStr": "21 Oct, 23:49",
+      "isNew": true,
+      "id": "24 61792626596"
+    },
+    {
+      "title": "Trump i kërkon Gjykatës së Lartë të lejojë ndërtimin e murit kufitar në parkun Big Bend",
+      "link": "https://24-ore.com/trump-i-kerkon-gjykates-se-larte-te-lejoje-ndertimin-e-murit-kufitar-ne-parkun-big-bend/",
+      "description": "Administrata e presidentit Donald Trump i kërkoi të mërkurën Gjykatës së Lartë të SHBA-së ta lejojë të vazhdojë me planin për një barrierë kufitare me Meksikën në zonën e largët të Teksasit perëndimor që përfshin parkun kombëtar Big Bend, duke kërkuar heqjen e urdhrit të një gjyqtareje federale që n",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-21T23:17:19+00:00",
+      "dateStr": "21 Oct, 23:17",
+      "isNew": true,
+      "id": "24 71792624639"
+    },
+    {
+      "title": "«Krenari dhe paragjykim, pjesa e dytë»: Napoleoni mbërrin si mysafir i papritur në Pemberley — premiera botërore në Westport",
+      "link": "https://24-ore.com/krenari-dhe-paragjykim-pjesa-e-dyte-napoleoni-mberrin-si-mysafir-i-papritur-ne-pemberley-premiera-boterore-ne-westport/",
+      "description": "Vazhdimi skenik i Ken Ludwig-ut për romanin e Jane Austen-it hapi sezonin 2026–2027 të Westport Country Playhouse në Connecticut; shfaqjet vazhdojnë deri më 7 nëntor, me mbrëmjen zyrtare të hapjes më 24 tetor.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-21T23:15:47+00:00",
+      "dateStr": "21 Oct, 23:15",
+      "isNew": true,
+      "id": "24 81792624547"
+    },
+    {
+      "title": "Skulpturat që rrallë udhëtojnë të Brancusi-t mbërrijnë te MoMA: retrospektiva e parë e madhe që nga 1995, me studion e Parisit në qendër",
+      "link": "https://24-ore.com/skulpturat-qe-rralle-udhetojne-te-brancusi-t-mberrijne-te-moma-retrospektiva-e-pare-e-madhe-qe-nga-1995-me-studion-e-parisit-ne-qender/",
+      "description": "Ekspozita «Brancusi: The Artist and His Studio» hapet më 25 tetor në katin e gjashtë të MoMA-s në Nju Jork me 210 objekte: skulptura të huazuara rrallë nga Atelier Brancusi i Parisit, i mbyllur gjatë rinovimit të Centre Pompidou, vegla pune, mobilie të gdhendura me dorë dhe fotografitë e vetë artist",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-21T23:01:49+00:00",
+      "dateStr": "21 Oct, 23:01",
+      "isNew": true,
+      "id": "24 91792623709"
+    },
+    {
+      "title": "“Berisha, vetë dora e dhunës. Ka rrëmbyer protestën”/ Çupi: Dështoi tentativa për të fshehur grupin e zjarrit",
+      "link": "https://abcnews.al/berisha-vete-dora-e-dhunes-ka-rrembyer-protesten-cupi-deshtoi-tentativa-per-te-fshehur-grupin-e-zjarrit/",
+      "description": "Analisti Frrok Çupi, në emisionin “Ora e njëmbëdhjetë” në ABC News, ka komentuar protestën dhe zhvillimet politike, duke akuzuar kreun e Partisë Demokratike, Sali Berisha, se qëndron pas akteve të dhunës dhe se protesta është shndërruar në një aktivitet të drejtuar politikisht nga opozita. Sipas Çup",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-21T21:40:12+00:00",
+      "dateStr": "21 Oct, 21:40",
+      "isNew": true,
+      "id": "abc01792618812"
+    },
+    {
+      "title": "Pjesëmarrje e ulët në mbrëmje/ Protestuesit zgjodhën vallet, videot dhe fotot në rrugë",
+      "link": "https://abcnews.al/pjesemarrje-e-ulet-ne-mbremje-protestuesit-zgjodhen-vallet-videot-dhe-fotot-ne-rruge/",
+      "description": "Protesta e ditës së nëntë para Kryeministrisë u karakterizua nga pjesëmarrja e ulët, ku pjesa më e madhe e të pranishmëve ishin të mitur. Përgjatë disa orëve, protestuesit kërcyen, realizuan video dhe fotografi, për t’u larguar më pas nga sheshi. Këtë herë, nuk pati përplasje me policinë, por tensio",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-21T21:20:12+00:00",
+      "dateStr": "21 Oct, 21:20",
+      "isNew": true,
+      "id": "abc11792617612"
+    },
+    {
+      "title": "“War Report” me Sali Doçi, (21/10/2026)",
+      "link": "https://abcnews.al/war-report-me-sali-doci-21-10-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-21T21:14:53+00:00",
+      "dateStr": "21 Oct, 21:14",
+      "isNew": true,
+      "id": "abc21792617293"
+    },
     {
       "title": "Edhe Shqipëria e prekur/ AKSK kërkon përditësim të menjëhershëm",
       "link": "https://abcnews.al/edhe-shqiperia-e-prekur-aksk-kerkon-perditesim-te-menjehershem/",
@@ -12,40 +155,7 @@
       "date": "2026-10-21T21:08:46+00:00",
       "dateStr": "21 Oct, 21:08",
       "isNew": true,
-      "id": "abc01792616926"
-    },
-    {
-      "title": "PAOK-u kthehet te fitorja në EuroCup: mposht Ulmin 87-78 me Osmanin protagonist",
-      "link": "https://24-ore.com/paok-u-kthehet-te-fitorja-ne-eurocup-mposht-ulmin-87-78-me-osmanin-protagonist/",
-      "description": "Skuadra e Selanikut la pas humbjen me Lietkabelis dhe mundi gjermanët e Ulmit në shtëpi; Cedi Osman shkëlqeu sërish me 21 pikë, ndërsa Breein Tyree shtoi 15.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-21T21:07:43+00:00",
-      "dateStr": "21 Oct, 21:07",
-      "isNew": true,
-      "id": "24 01792616863"
-    },
-    {
-      "title": "Jimmy Awards cakton datën e edicionit 2027: ceremonia më 21 qershor në Minskoff Theatre të Broadway-t",
-      "link": "https://24-ore.com/jimmy-awards-cakton-daten-e-edicionit-2027-ceremonia-me-21-qershor-ne-minskoff-theatre-te-broadway-t/",
-      "description": "Edicioni i 18-të i çmimeve për talentet e teatrit muzikor të shkollave të mesme do të mbledhë në Nju Jork mbi 100 nxënës nga më shumë se 50 gara lokale në mbarë Shtetet e Bashkuara.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-21T21:07:42+00:00",
-      "dateStr": "21 Oct, 21:07",
-      "isNew": true,
-      "id": "24 11792616862"
-    },
-    {
-      "title": "Hapet në Firence ekspozita e madhe e Artemisia Gentileschi-t: mbi 50 vepra për vitet e saj toskane në Museo degli Innocenti",
-      "link": "https://24-ore.com/hapet-ne-firence-ekspozita-e-madhe-e-artemisia-gentileschi-t-mbi-50-vepra-per-vitet-e-saj-toskane-ne-museo-degli-innocenti/",
-      "description": "Ekspozita e parë kushtuar periudhës fiorentine të piktores baroke sjell vepra nga mbi 40 muze e koleksione — nga Vatikani te Uffizi — dhe rrëfen si ajo u bë në vitin 1616 gruaja e parë e pranuar në Akademinë e Arteve të Firences.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-21T21:03:50+00:00",
-      "dateStr": "21 Oct, 21:03",
-      "isNew": true,
-      "id": "24 21792616630"
+      "id": "abc31792616926"
     },
     {
       "title": "Alarm për sigurinë kibernetike në botë/ AI ka identifikuar probleme në sisteme nga SHBA në Europë e Japoni",
@@ -56,84 +166,7 @@
       "date": "2026-10-21T21:03:45+00:00",
       "dateStr": "21 Oct, 21:03",
       "isNew": true,
-      "id": "abc11792616625"
-    },
-    {
-      "title": "Deputetja e PS apel protestuesve: Nëse nuk doni dialog, eja të përballemi në zgjedhje",
-      "link": "https://24-ore.com/deputetja-e-ps-apel-protestuesve-nese-nuk-doni-dialog-eja-te-perballemi-ne-zgjedhje-2/",
-      "description": "Deputetja e Partisë Socialiste, Sara Mila, e ftuar në emisionin “Off the Record” nga Andrea Danglli në A2 CNN, është shprehur se nëse protestuesit nuk pranojnë dialogun, alternativa tjetër është përballja në zgjedhje. Sipas Milas, protesta duhet të testojë frymën reale që ka në popull. Deputetja soc",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-21T21:02:57+00:00",
-      "dateStr": "21 Oct, 21:02",
-      "isNew": true,
-      "id": "24 31792616577"
-    },
-    {
-      "title": "Deputetja e PS apel protestuesve: Nëse nuk doni dialog, eja të përballemi në zgjedhje",
-      "link": "https://24-ore.com/deputetja-e-ps-apel-protestuesve-nese-nuk-doni-dialog-eja-te-perballemi-ne-zgjedhje/",
-      "description": "Deputetja e Partisë Socialiste, Sara Mila, e ftuar në emisionin “Off the Record” nga Andrea Danglli në A2 CNN, është shprehur se nëse protestuesit nuk pranojnë dialogun, alternativa tjetër është përballja në zgjedhje. Sipas Milas, protesta duhet të testojë frymën reale që ka në popull. Deputetja soc",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-21T21:02:57+00:00",
-      "dateStr": "21 Oct, 21:02",
-      "isNew": true,
-      "id": "24 41792616577"
-    },
-    {
-      "title": "Pas kësaj qeverie, anarki?",
-      "link": "https://24-ore.com/pas-kesaj-qeverie-anarki/",
-      "description": "Nga Fatos Çoçoli Shqipëria jonë po përballet me një pyetje që shkon përtej fatit të një qeverie: çfarë vjen pas saj, nëse kërkesa për dorëheqje shndërrohet në një përpjekje për të rrëzuar jo vetëm kabinetin qeveritar, por edhe rregullat mbi të cilat funksionon sistemi i sotëm politik? Ky ndryshim ës",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-21T21:02:20+00:00",
-      "dateStr": "21 Oct, 21:02",
-      "isNew": true,
-      "id": "24 51792616540"
-    },
-    {
-      "title": "Shpërthime dëgjohen në Sirik në jug të Iranit, origjina ende e panjohur",
-      "link": "https://24-ore.com/shperthime-degjohen-ne-sirik-ne-jug-te-iranit-origjina-ende-e-panjohur/",
-      "description": "Mediat shtetërore iraniane raportuan të mërkurën në mbrëmje shpërthime në zonën Karpan të Sirikut, në provincën Hormozgan që mbikëqyr Ngushticën e Hormuzit; natyra e shpërthimeve nuk është bërë ende e ditur.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-21T21:00:47+00:00",
-      "dateStr": "21 Oct, 21:00",
-      "isNew": true,
-      "id": "24 61792616447"
-    },
-    {
-      "title": "FOKUS – Kremlini: Rusia e gatshme të rifillojë bisedimet trepalëshe me SHBA-në dhe Ukrainën",
-      "link": "https://24-ore.com/fokus-kremlini-rusia-e-gatshme-te-rifilloje-bisedimet-trepaleshe-me-shba-ne-dhe-ukrainen/",
-      "description": "MOSKË, 21 tetor /ATSH-DPA/ – Rusia është e gatshme të rifillojë në nëntor negociatat trepalëshe me Shtetet e Bashkuara dhe Ukrainën, në kuadër të përpjekjeve për të trajtuar çështjet e sigurisë mes dy vendeve në luftë, bëri të ditur sot Yuri Ushakov, këshilltari i presidentit rus Vladimir Putin për ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-21T21:00:28+00:00",
-      "dateStr": "21 Oct, 21:00",
-      "isNew": true,
-      "id": "24 71792616428"
-    },
-    {
-      "title": "FOKUS – Zelensky i gatshëm të pranojë ngrirjen e vijave aktuale të frontit për t’i dhënë fund luftës me Rusinë",
-      "link": "https://24-ore.com/fokus-zelensky-i-gatshem-te-pranoje-ngrirjen-e-vijave-aktuale-te-frontit-per-ti-dhene-fund-luftes-me-rusine/",
-      "description": "UASHINGTON, 21 tetor /ATSH-DPA/ Presidenti ukrainas Volodimir Zelensky ka deklaruar se është i gatshëm të pranojë ngrirjen e vijave aktuale të frontit si një mënyrë për t’i dhënë fund luftës me Rusinë. “Po, për momentin, duhet ta ngrijmë situatën”, tha Zelensky në një intervistë sot për televizionin",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-21T21:00:19+00:00",
-      "dateStr": "21 Oct, 21:00",
-      "isNew": true,
-      "id": "24 81792616419"
-    },
-    {
-      "title": "Kievi nën sulm me raketa balistike të mërkurën në mbrëmje: dëmtohen shtëpi dhe një pikë karburanti, raportohen të plagosur",
-      "link": "https://24-ore.com/kievi-nen-sulm-me-raketa-balistike-te-merkuren-ne-mbremje-demtohen-shtepi-dhe-nje-pike-karburanti-raportohen-te-plagosur/",
-      "description": "Forcat ruse sulmuan kryeqytetin ukrainas, Kievin, me raketa balistike të mërkurën në mbrëmje, duke dëmtuar shtëpi dhe një pikë karburanti dhe duke shkaktuar të plagosur, thanë zyrtarët, siç njofton Reuters. Pamje arkiv (DSNS Kiev / Wikimedia Commons) Administrata Ushtarake e Qytetit të Kievit tha se",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-21T20:59:54+00:00",
-      "dateStr": "21 Oct, 20:59",
-      "isNew": true,
-      "id": "24 91792616394"
+      "id": "abc41792616625"
     },
     {
       "title": "SHBA urdhëron largimin e stafit diplomatik dhe familjeve nga Arabia Saudite, masa shtrihet edhe në Gjirin Persik",
@@ -144,7 +177,7 @@
       "date": "2026-10-21T20:20:33+00:00",
       "dateStr": "21 Oct, 20:20",
       "isNew": true,
-      "id": "abc21792614033"
+      "id": "abc51792614033"
     },
     {
       "title": "SHBA bind Putin për bisedime trepalëshe/ Bedri Elezi analizon strategjinë e Rusisë në luftën me Ukrainën",
@@ -155,7 +188,7 @@
       "date": "2026-10-21T19:49:31+00:00",
       "dateStr": "21 Oct, 19:49",
       "isNew": true,
-      "id": "abc31792612171"
+      "id": "abc61792612171"
     },
     {
       "title": "Katër të plagosur nga një shpërthim në Athinë",
@@ -166,7 +199,7 @@
       "date": "2026-10-21T19:43:41+00:00",
       "dateStr": "21 Oct, 19:43",
       "isNew": true,
-      "id": "abc41792611821"
+      "id": "abc71792611821"
     },
     {
       "title": "Ngrohja globale drejt pikës kritike, bota ka vetëm katër vite për të vepruar",
@@ -177,7 +210,7 @@
       "date": "2026-10-21T19:31:48+00:00",
       "dateStr": "21 Oct, 19:31",
       "isNew": true,
-      "id": "abc51792611108"
+      "id": "abc81792611108"
     },
     {
       "title": "Krisafi: Rusia po zhvillon luftë hibride psikologjike kundër Evropës!",
@@ -188,40 +221,7 @@
       "date": "2026-10-21T19:29:43+00:00",
       "dateStr": "21 Oct, 19:29",
       "isNew": true,
-      "id": "abc61792610983"
-    },
-    {
-      "title": "Çuli: Shkelja e librit të Gjergj Fishtës, përdhosje/ Kasmi: Lista e pedagogëve, një pjesë e tyre nuk dihet ç’përfaqësojnë",
-      "link": "https://abcnews.al/culi-shkelja-e-librit-te-gjergj-fishtes-perdhosje-kasmi-lista-e-pedagogeve-nje-pjese-e-tyre-nuk-dihet-cperfaqesojne/",
-      "description": "Regjisori Hervin Çuli , i ftuar në emisionin “Real Story” në ABC News, ka reaguar për dëmtimin e librit të Gjergj Fishtës gjatë protestave, duke e cilësuar këtë akt si një përdhosje të kulturës. Sipas Çulit, deklarata për situatën do të kishte marrë një kuptim tjetër nëse do të kishte nisur me një q",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-21T19:08:36+00:00",
-      "dateStr": "21 Oct, 19:08",
-      "isNew": true,
-      "id": "abc71792609716"
-    },
-    {
-      "title": "“Tronditja e qeverisë është pozitive”, Hervin Çuli: Zgjidhja duhet të vijë përmes institucioneve",
-      "link": "https://abcnews.al/tronditja-e-qeverise-eshte-pozitive-hervin-culi-zgjidhja-duhet-te-vije-permes-institucioneve/",
-      "description": "TIRANË- Aktori dhe regjisori Hervin Çuli, i ftuar në emisionin “Real Story” në ABC News, komentoi protestat duke u shprehur se &#8220;tronditja&#8221; e qeverisë është një zhvillim pozitiv për momentin ku ndodhet sot Shqipëria. Çuli tha se edhe ai vetë ka pasur momente kur ka ndier zemërim të madh, ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-21T18:59:52+00:00",
-      "dateStr": "21 Oct, 18:59",
-      "isNew": true,
-      "id": "abc81792609192"
-    },
-    {
-      "title": "“Isha në protestë, por u largova kur pashë Malltezin dhe Berishën”, Bejko: Një qeveri serioze s’duhet të reagojë vetëm kur ka dhunë",
-      "link": "https://abcnews.al/isha-ne-proteste-por-u-largova-kur-pashe-malltezin-dhe-berishen-bejko-nje-qeveri-serioze-sduhet-te-reagoje-vetem-kur-ka-dhune/",
-      "description": "Analisti Roland Bejko ka komentuar protestat e studentëve dhe reagimin e institucioneve, duke theksuar se studentët kanë të drejtë të ngrihen dhe të kërkojnë plotësimin e kërkesave të tyre. Sipas Bejkos, një qeveri serioze duhet t’u përgjigjet edhe protestave paqësore dhe jo të reagojë vetëm kur pro",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-21T18:59:48+00:00",
-      "dateStr": "21 Oct, 18:59",
-      "isNew": true,
-      "id": "abc91792609188"
+      "id": "abc91792610983"
     },
     {
       "title": "Në Mardin të Turqisë nis edicioni i katërt i Festivalit Ndërkombëtar të Filmit “Mardin Film Festivali Telkari Odulleri”",
