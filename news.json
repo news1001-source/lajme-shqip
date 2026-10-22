@@ -1,95 +1,183 @@
 {
-  "lastUpdated": "2026-10-22T20:22:51.788015+00:00",
+  "lastUpdated": "2026-10-22T23:50:11.497744+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Deputetja e PS-së: Fëmijët u përdorën në protestë, policia duhet të mbajë përgjegjësi për tejkalimet",
-      "link": "https://24-ore.com/deputetja-e-ps-se-femijet-u-perdoren-ne-proteste-policia-duhet-te-mbaje-pergjegjesi-per-tejkalimet/",
-      "description": "Deputetja e Partisë Socialiste, Aulona Bylykbashi, ka komentuar përplasjet mes policisë dhe protestuesve gjatë protestës studentore, e cila vijon prej 10 ditësh. E ftuar këtë të enjte në emisionin “Now” me Erla Mëhillin në Euronews Albania, ajo kritikoi përfshirjen e të miturve në protestë, duke dek",
+      "title": "Andreessen Horowitz riemëron fondin e kriptove “a16z Frontier” dhe zgjeron investimet drejt inteligjencës artificiale dhe robotikës",
+      "link": "https://24-ore.com/andreessen-horowitz-riemeron-fondin-e-kriptove-a16z-frontier-dhe-zgjeron-investimet-drejt-inteligjences-artificiale-dhe-robotikes/",
+      "description": "Njësia e investimeve në asete dixhitale e Andreessen Horowitz, që ka mbledhur rreth 10 miliardë dollarë në pesë fonde, do t'i mbajë investimet në kripto, por do të financojë edhe startup-e të inteligjencës artificiale, makinave autonome, biologjisë dhe rrjeteve të reja mes njerëzve dhe makinave.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-22T20:22:46+00:00",
-      "dateStr": "22 Oct, 20:22",
+      "date": "2026-10-22T23:47:38+00:00",
+      "dateStr": "22 Oct, 23:47",
       "isNew": true,
-      "id": "24 01792700566"
+      "id": "24 01792712858"
     },
     {
-      "title": "Analisti: Nga burime të sigurta një grup problematik nga RMV po vjen për protestën e së shtunës",
-      "link": "https://24-ore.com/analisti-nga-burime-te-sigurta-nje-grup-problematik-nga-rmv-po-vjen-per-protesten-e-se-shtunes/",
-      "description": "Analisti Flogert Muça ka ngritur dyshime për praninë e një grupi personash nga Maqedonia e Veriut në Shqipëri, në ditën kur është paralajmëruar një protestë e madhe në Tiranë, më 24 tetor. I ftuar në emisionin “Now” me Erla Mëhillin në Euronews Albania, Muça deklaroi se, sipas informacioneve që pret",
+      "title": "Araghchi akuzon Macron-in për kundërthënie mbi çështjen bërthamore të Iranit",
+      "link": "https://24-ore.com/araghchi-akuzon-macron-in-per-kunderthenie-mbi-ceshtjen-berthamore-te-iranit/",
+      "description": "Ministri i Jashtëm i Iranit, Abbas Araghchi, akuzoi presidentin francez Emmanuel Macron se bie në kundërthënie me veten për programin bërthamor iranian: në vitin 2018 ai mbronte marrëveshjen bërthamore, ndërsa më 21 tetor u shpreh kundër çdo aktiviteti bërthamor të Teheranit.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-22T20:22:37+00:00",
-      "dateStr": "22 Oct, 20:22",
+      "date": "2026-10-22T23:46:20+00:00",
+      "dateStr": "22 Oct, 23:46",
       "isNew": true,
-      "id": "24 11792700557"
+      "id": "24 11792712780"
     },
     {
-      "title": "Sindikatat portugeze dhe spanjolle në bisedime për organizimin e një ‘greve të përgjithshme iberike’",
-      "link": "https://24-ore.com/sindikatat-portugeze-dhe-spanjolle-ne-bisedime-per-organizimin-e-nje-greve-te-pergjithshme-iberike/",
-      "description": "Sindikatat portugeze dhe spanjolle janë në kontakt me qëllim organizimin e një “greve të përgjithshme iberike”. Kështy njoftoi të enjten sekretari i përgjithshëm i CCOO, Unai Sordo. Ata po shqyrtojnë mundësinë e thirrjes së një greve të përgjithshme më 11 nëntor. Qëllimi, shpjegoi Sordo, është t’i j",
+      "title": "Ministri i Mbrojtjes i Jemenit kërkon falje dhe tërheq paralajmërimin për grumbullimet si “objektiva legjitime”",
+      "link": "https://24-ore.com/ministri-i-mbrojtjes-i-jemenit-kerkon-falje-dhe-terheq-paralajmerimin-per-grumbullimet-si-objektiva-legjitime/",
+      "description": "Ministri i Mbrojtjes i Jemenit kërkoi falje për deklaratën e ministrisë së tij që i cilësonte grumbullimet e Huthi-ve si objektiva ushtarake legjitime, e tërhoqi atë, urdhëroi një hetim dhe theksoi se grumbullimet civile e fisnore nuk mund të jenë objektiva.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-22T20:22:29+00:00",
-      "dateStr": "22 Oct, 20:22",
+      "date": "2026-10-22T23:43:34+00:00",
+      "dateStr": "22 Oct, 23:43",
       "isNew": true,
-      "id": "24 21792700549"
+      "id": "24 21792712614"
     },
     {
-      "title": "SHBA akuzon Rusinë për afrim në mënyrë të rrezikshme të satelitit ushtarak",
-      "link": "https://24-ore.com/shba-akuzon-rusine-per-afrim-ne-menyre-te-rrezikshme-te-satelitit-ushtarak/",
-      "description": "Zyrtarët amerikanë akuzuan publikisht Rusinë se ka kërcënuar një satelit komercial, që operohet nga Finlanda dhe i cili ofron imazhe dhe informacione të inteligjencës për Ukrainën dhe vende të tjera, duke e cilësuar këtë veprim si “qëllimisht të pamatur”. Në përgjigje të akuzave, të bëra gjatë një d",
+      "title": "Koalicioni saudit intercepton dy dronë drejt rajonit jugor të Arabisë Saudite",
+      "link": "https://24-ore.com/koalicioni-saudit-intercepton-dy-drone-drejt-rajonit-jugor-te-arabise-saudite/",
+      "description": "Koalicioni i udhëhequr nga Arabia Saudite njoftoi të enjten në mbrëmje se mbrojtja ajrore interceptoi dhe shkatërroi dy dronë të nisur drejt rajonit jugor të mbretërisë, pa raportime për viktima apo dëme.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-22T20:22:22+00:00",
-      "dateStr": "22 Oct, 20:22",
+      "date": "2026-10-22T23:41:27+00:00",
+      "dateStr": "22 Oct, 23:41",
       "isNew": true,
-      "id": "24 31792700542"
+      "id": "24 31792712487"
     },
     {
-      "title": "Trump telefonon Musk, i kërkon të heqë kufizimet mbi përdorimin e Starlink nga Ukraina",
-      "link": "https://24-ore.com/trump-telefonon-musk-i-kerkon-te-heqe-kufizimet-mbi-perdorimin-e-starlink-nga-ukraina/",
-      "description": "Presidenti i SHBA-së, Donald Trump telefonoi Elon Musk dhe i kërkoi atij të hiqte kufizimet mbi përdorimin e Starlink nga Ukraina, raportoi të enjten Wall Street Journal, duke cituar zyrtarë amerikanë. Sistemi Starlink po funksiononte më normalisht të enjten, menjëherë pas bisedës Trump-Musk, sipas ",
+      "title": "Muzikali për Amy Winehouse në zhvillim për West End-in: producentja e “Cabaret”-së, kasti në kërkim",
+      "link": "https://24-ore.com/muzikali-per-amy-winehouse-ne-zhvillim-per-west-end-in-producentja-e-cabaret-se-kasti-ne-kerkim/",
+      "description": "Projekti është në fazat e hershme, me producenten Catherine Schreiber dhe babanë e këngëtares, Mitch Winehouse, të përfshirë, ndërsa ende nuk dihet nëse do të jetë biografik apo një histori e re mbi këngët e saj",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-22T20:22:13+00:00",
-      "dateStr": "22 Oct, 20:22",
+      "date": "2026-10-22T23:09:54+00:00",
+      "dateStr": "22 Oct, 23:09",
       "isNew": true,
-      "id": "24 41792700533"
+      "id": "24 41792710594"
     },
     {
-      "title": "Franca në flakë, Britania përballë së njëjtës krizë, pse Londra mund t’i shmangë trazirat?",
-      "link": "https://24-ore.com/franca-ne-flake-britania-perballe-se-njejtes-krize-pse-londra-mund-ti-shmange-trazirat/",
-      "description": "Protestat e dhunshme që kanë përfshirë Francën po ngrenë shqetësime edhe në Britaninë e Madhe. Të dy vendet përballen me vështirësi ekonomike, borxhe në rritje dhe pakënaqësi ndaj klasës politike. Por, siç argumenton historiani Robert Tombs në një analizë për The Telegraph, traditat institucionale, ",
+      "title": "Kupka del nesër në ankand në Paris: «Espace non-descriptif» vlerësohet 6–8 milionë euro, vepra më e madhe e artistit në treg",
+      "link": "https://24-ore.com/kupka-del-neser-ne-ankand-ne-paris-espace-non-descriptif-vleresohet-6-8-milione-euro-vepra-me-e-madhe-e-artistit-ne-treg/",
+      "description": "Piktura abstrakte e viteve 1914–1922, me përmasa 112,5 × 114,7 cm, kryeson shitjen «Modernités» të Sotheby's në Paris më 23 tetor; rekordi i artistit çek është 10,37 milionë dollarë, vendosur në Londër në vitin 2021.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-22T20:22:05+00:00",
-      "dateStr": "22 Oct, 20:22",
+      "date": "2026-10-22T23:06:39+00:00",
+      "dateStr": "22 Oct, 23:06",
       "isNew": true,
-      "id": "24 51792700525"
+      "id": "24 51792710399"
     },
     {
-      "title": "“Aleanca e dy ekstremeve për rrëzimin e qeverisë”/ Meçe: Qori financohet nga e majta ekstremiste, Berisha pjesë e lëvi",
-      "link": "https://24-ore.com/aleanca-e-dy-ekstremeve-per-rrezimin-e-qeverise-mece-qori-financohet-nga-e-majta-ekstremiste-berisha-pjese-e-levi/",
-      "description": "Analisti Arben Meçe ka ngritur pretendime për një rrjet të organizuar që, sipas tij, synon rrëzimin e qeverisë shqiptare, duke përmendur lidhje të mundshme mes rrymave të së majtës ekstreme dhe opozitës së drejtuar nga Sali Berisha. Meçe u ndal te Arlind Qorri, për të cilin pretendoi se është i lidh",
+      "title": "Formic mbledh 50 milionë dollarë për të zgjeruar robotët me inteligjencë artificiale në fabrikat amerikane",
+      "link": "https://24-ore.com/formic-mbledh-50-milione-dollare-per-te-zgjeruar-robotet-me-inteligjence-artificiale-ne-fabrikat-amerikane/",
+      "description": "Raundi i Serisë B i drejtuar nga Mercato Partners, bashkë me financimin me borxh nga S2G Investments, do të përshpejtojë kalimin e kompanisë nga automatizimi i detyrave specifike te robotika me qëllim të përgjithshëm — flota e saj numëron mbi 750 mijë orë prodhimi në më shumë se 100 impiante.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-22T20:18:17+00:00",
-      "dateStr": "22 Oct, 20:18",
+      "date": "2026-10-22T22:55:53+00:00",
+      "dateStr": "22 Oct, 22:55",
       "isNew": true,
-      "id": "24 61792700297"
+      "id": "24 61792709753"
     },
     {
-      "title": "Rama dorëheqje? Klosi iu përgjigjet prerë protestuesve: Nuk është kërkesë që negociohet!",
-      "link": "https://24-ore.com/rama-doreheqje-klosi-iu-pergjigjet-prere-protestuesve-nuk-eshte-kerkese-qe-negociohet/",
-      "description": "Sekretari i Përgjithshëm i Partisë Socialiste, Blend Klosi, u shpreh shkurtimisht se dorëheqja e Ramës nuk do të ndodhë, e se është një kërkesë e panegociueshme midis qeverisë dhe studentëve. I ftuar në emisionin e sotëm ”Opinion”, në Tv Klan, Klosi theksoi se kjo kërkesë e studentëve nuk mund të bë",
+      "title": "Del trailer-i i dytë i «I Play Rocky»: Anthony Ippolito si Stallone i ri që këmbëngul «Unë e luaj Rocky-n»",
+      "link": "https://24-ore.com/del-trailer-i-i-dyte-i-i-play-rocky-anthony-ippolito-si-stallone-i-ri-qe-kembengul-une-e-luaj-rocky-n/",
+      "description": "Amazon MGM Studios publikoi trailer-in e ri të dramës biografike të Peter Farrelly-t për lindjen e «Rocky»-t; filmi del në kinema të zgjedhura më 6 nëntor dhe zgjerohet në gjithë vendin më 20 nëntor.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-22T20:17:28+00:00",
-      "dateStr": "22 Oct, 20:17",
+      "date": "2026-10-22T22:54:11+00:00",
+      "dateStr": "22 Oct, 22:54",
       "isNew": true,
-      "id": "24 71792700248"
+      "id": "24 71792709651"
+    },
+    {
+      "title": "Gara për James Bond-in e ri hyn në fazën finale: Lowden, Turner dhe O’Connor në testet e ekranit këtë fundjavë",
+      "link": "https://24-ore.com/gara-per-james-bond-in-e-ri-hyn-ne-fazen-finale-lowden-turner-dhe-oconnor-ne-testet-e-ekranit-kete-fundjave/",
+      "description": "Kërkimi për pasardhësin e Daniel Craig po shkon drejt fundit: të paktën katër aktorë do të kalojnë në testet finale të ekranit për rolin e agjentit 007 në filmin e ri të Denis Villeneuve, ndërsa Jacob Elordi dhe Jack O'Connell kanë mbetur jashtë garës.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-22T22:23:04+00:00",
+      "dateStr": "22 Oct, 22:23",
+      "isNew": true,
+      "id": "24 81792707784"
+    },
+    {
+      "title": "Raporti: 980,000 dëbime në 18 muajt e parë të mandatit të dytë të Trump, vetëm 20% me dënime penale",
+      "link": "https://24-ore.com/raporti-980000-debime-ne-18-muajt-e-pare-te-mandatit-te-dyte-te-trump-vetem-20-me-denime-penale/",
+      "description": "Departamenti i Sigurisë Kombëtare mbikëqyri 980,000 dëbime në 18 muajt e parë të mandatit të dytë të presidentit Donald Trump, sipas një raporti të Migration Policy Institute të publikuar të enjten — ritmi është rritur krahasuar me administratën Biden, por mbetet larg objektivit prej 1 milion dëbime",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-22T22:20:40+00:00",
+      "dateStr": "22 Oct, 22:20",
+      "isNew": true,
+      "id": "24 91792707640"
+    },
+    {
+      "title": "“Financime të dyshimta te protesta”/ Bislimi: Duhet të ketë hetime, shërbimet e brendshme duhet të ishin aktivizuar",
+      "link": "https://abcnews.al/financime-te-dyshimta-te-protesta-bislimi-duhet-te-kete-hetime-sherbimet-e-brendshme-duhet-te-ishin-aktivizuar/",
+      "description": "Labinot Bislimi, anëtar i Aleancës, në “Ora e Fundit” në ABC News, komentoi protestat në Shqipëri, duke theksuar se ato janë pjesë normale e demokracisë, por shtoi se duhet bërë dallimi mes protestave qytetare dhe sulmeve ndaj shtetit. Bislimi u shpreh se nuk beson që zhvillimet politike ndodhin ras",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-22T22:01:57+00:00",
+      "dateStr": "22 Oct, 22:01",
+      "isNew": true,
+      "id": "abc01792706517"
+    },
+    {
+      "title": "“Ka shumë rryma, duhet hetim”/ Bejko: Protesta nuk e pengon integrimin, por dhuna duhet shmangur",
+      "link": "https://abcnews.al/ka-shume-rryma-duhet-hetim-bejko-protesta-nuk-e-pengon-integrimin-por-dhuna-duhet-shmangur/",
+      "description": "Analisti Roland Bejko, foli në “Ora e Fundit” në ABC News, për zhvillimet e protestës në Shqipëri, duke u ndalur te roli i Lëvizjes Bashkë dhe nevoja për të verifikuar informacionet e publikuara në mediat e huaja.. Bejko u shpreh se protesta nuk mund t’i atribuohet tërësisht Arlind Qorit, ndërsa vle",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-22T21:57:32+00:00",
+      "dateStr": "22 Oct, 21:57",
+      "isNew": true,
+      "id": "abc11792706252"
+    },
+    {
+      "title": "Protesta/ Ish-prokurori, Ervin Karanxha: Prokuroria të bëjë verifikimet e duhura nëse kjo lëvizje është Antifa",
+      "link": "https://abcnews.al/protesta-ish-prokurori-ervin-karanxha-prokuroria-te-beje-verifikimet-e-duhura-nese-kjo-levizje-eshte-antifa/",
+      "description": "Ish-prokurori Ervin Karanxha, në intervistë në &#8220;Ora e Fundit&#8221; në ABC News, foli për rolin e Lëvizjes Bashkë në protestë, u shpreh se ndikimi i saj është i vogël, ndërsa theksoi se, nëse ka lidhje apo elemente të veprave konkrete, ato duhet të verifikohen nga organet përkatëse. Ai theksoi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-22T21:47:46+00:00",
+      "dateStr": "22 Oct, 21:47",
+      "isNew": true,
+      "id": "abc21792705666"
+    },
+    {
+      "title": "“War Report” me Sali Doçi, (22/10/2026)",
+      "link": "https://abcnews.al/war-report-me-sali-doci-22-10-2026/",
+      "description": "[...]Read More...",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-22T21:10:36+00:00",
+      "dateStr": "22 Oct, 21:10",
+      "isNew": true,
+      "id": "abc31792703436"
+    },
+    {
+      "title": "PPE dënon dhunën/ Grupi më i madh parlamentar në BE: E ardhmja e Shqipërisë, europiane",
+      "link": "https://abcnews.al/ppe-denon-dhunen-grupi-me-i-madh-parlamentar-ne-be-e-ardhmja-e-shqiperise-europiane/",
+      "description": "Partitë Popullore Europiane, grupi parlamentar më i madh në Parlamentin Europian, dënon me deklaratë zyrtare dhunën e ushtruar nga protestuesit për 9 ditë në Tiranë. “Çdo dhunë dhe sulm i paligjshëm nga të gjitha anët, veçanërisht kundër pronës dhe integritetit personal, nuk kanë vend në një demokra",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-22T20:40:48+00:00",
+      "dateStr": "22 Oct, 20:40",
+      "isNew": true,
+      "id": "abc41792701648"
+    },
+    {
+      "title": "Protestat në Itali sjell ‘krizë’ në prodhimin e makaronave",
+      "link": "https://abcnews.al/protestat-ne-itali-sjell-krize-ne-prodhimin-e-makaronave/",
+      "description": "Prodhimi i makaronave në Itali po përballet me probleme serioze, ndërsa shoferët e kamionëve në jug të vendit protestojnë kundër çmimeve të larta të karburantit dhe kostos në rritje të jetesës. Bllokadat e rrugëve dhe të porteve kryesore kanë ndërprerë furnizimin me lëndë të para të fabrikave, duke ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-10-22T20:24:25+00:00",
+      "dateStr": "22 Oct, 20:24",
+      "isNew": true,
+      "id": "abc51792700665"
     },
     {
       "title": "Britania e Madhe ngre alarmin, pritet të goditet nga një stuhi e fortë",
@@ -100,29 +188,7 @@
       "date": "2026-10-22T20:15:08+00:00",
       "dateStr": "22 Oct, 20:15",
       "isNew": true,
-      "id": "abc01792700108"
-    },
-    {
-      "title": "“Kush tenton të luajë me UÇK-në, do të na ketë përballë” – Haziri reagon pas kthimit të Ligjit për Specialen",
-      "link": "https://24-ore.com/kush-tenton-te-luaje-me-uck-ne-do-te-na-kete-perballe-haziri-reagon-pas-kthimit-te-ligjit-per-specialen/",
-      "description": "Organizatori i protestës “Jo në emrin tim!”, Çlirim Haziri, ka reaguar pas kthimit të Ligjit për Dhomat e Specializuara në Kuvend, duke theksuar se kërkesat e protestuesve për mbrojtjen e të drejtave të ish-krerëve të Ushtrisë Çlirimtare të Kosovës (UÇK) në Hagë mbeten të pandryshuara. Përmes një re",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-22T20:11:14+00:00",
-      "dateStr": "22 Oct, 20:11",
-      "isNew": true,
-      "id": "24 81792699874"
-    },
-    {
-      "title": "Tragjedi në sport, 17-vjeçarja humb jetën pasi u godit në kokë gjatë ndeshjes",
-      "link": "https://24-ore.com/tragjedi-ne-sport-17-vjecarja-humb-jeten-pasi-u-godit-ne-koke-gjate-ndeshjes/",
-      "description": "Një ngjarje e rëndë ka tronditur sportin francez. Cléa Menier, vetëm 17 vjeçe, lojtare e klubit të regbit Union du Bassin Marmandais, ka ndërruar jetë pas një incidenti të ndodhur gjatë një ndeshjeje. Ngjarja ndodhi të shtunën, gjatë përballjes së skuadrës së saj me Agen. Sipas raportimeve, e reja p",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-22T20:03:20+00:00",
-      "dateStr": "22 Oct, 20:03",
-      "isNew": true,
-      "id": "24 91792699400"
+      "id": "abc61792700108"
     },
     {
       "title": "Rrezik për sulme sabotazhi nga Rusia/ Kamberi: Europa po ndryshon qasje, nga përpjekjet për paqe te përgatitjet për “luftë”!",
@@ -133,7 +199,7 @@
       "date": "2026-10-22T20:00:07+00:00",
       "dateStr": "22 Oct, 20:00",
       "isNew": true,
-      "id": "abc11792699207"
+      "id": "abc71792699207"
     },
     {
       "title": "Lëkundje të fuqishme në Kinë, tërmeti më i fortë që nga janari 2024",
@@ -144,7 +210,7 @@
       "date": "2026-10-22T19:56:57+00:00",
       "dateStr": "22 Oct, 19:56",
       "isNew": true,
-      "id": "abc21792699017"
+      "id": "abc81792699017"
     },
     {
       "title": "Rusia vijon të luajë me luftën/ Dedë Prenga: Diplomacia nuk po prodhon rezultate, shpresat për paqe mbeten te takimet e ardhshme",
@@ -155,73 +221,7 @@
       "date": "2026-10-22T19:49:52+00:00",
       "dateStr": "22 Oct, 19:49",
       "isNew": true,
-      "id": "abc31792698592"
-    },
-    {
-      "title": "“Qori dhe Berisha, ‘bashkë’ në lëvizje”, Meçe: Si është e mundur që dy ekstreme të bashkoheshin në këtë lëvizje ekstreme?",
-      "link": "https://abcnews.al/qori-dhe-berisha-bashke-ne-levizje-mece-si-eshte-e-mundur-qe-dy-ekstreme-te-bashkoheshin-ne-kete-levizje-ekstreme/",
-      "description": "Analisti Arben Meçe ka ngritur pretendime për një rrjet të organizuar që, sipas tij, synon rrëzimin e qeverisë shqiptare, duke përmendur lidhje të mundshme mes rrymave të së majtës ekstreme dhe opozitës së drejtuar nga Sali Berisha. Meçe u ndal te Arlind Qorri, për të cilin pretendoi se është i lidh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-22T19:26:02+00:00",
-      "dateStr": "22 Oct, 19:26",
-      "isNew": true,
-      "id": "abc41792697162"
-    },
-    {
-      "title": "“Lëvizja më agresive që ka njohur Shqipëria”, Frrok Çupi: Qori e ka tërë peshën e kësaj dhune",
-      "link": "https://abcnews.al/levizja-me-agresive-qe-ka-njohur-shqiperia-frrok-cupi-qori-e-ka-tere-peshen-e-kesaj-dhune/",
-      "description": "TIRANË- Investigimi i Fox News për 101 organizata që, sipas raportimit, veprojnë si rrjete koordinimi për protesta të dhunshme në disa shtete europiane, përfshirë Francën, Italinë, Belgjikën dhe Shqipërinë, ka rikthyer vëmendjen te Internacionalja Progresiste, rrjeti ndërkombëtar i së majtës ku bën ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-22T19:22:14+00:00",
-      "dateStr": "22 Oct, 19:22",
-      "isNew": true,
-      "id": "abc51792696934"
-    },
-    {
-      "title": "Kandidatura e Lana Nusseibeh për Sekretare të Përgjithshme të OKB, Rama: Një grua në krye, do të ishte shpresë e re",
-      "link": "https://abcnews.al/kandidatura-e-lana-nusseibeh-per-sekretare-te-pergjithshme-te-okb-rama-nje-grua-ne-krye-do-te-ishte-shprese-e-re/",
-      "description": "Kryeministri Edi Rama ka shprehur mbështetjen e plotë të Shqipërisë për kandidaturën e Lana Nusseibeh, të propozuar nga Emiratet e Bashkuara Arabe për postin e Sekretares së Përgjithshme të Kombeve të Bashkuara. Në një reagim në platformën X, Rama e cilësoi kandidaturën e saj si një mundësi për një ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-22T19:10:54+00:00",
-      "dateStr": "22 Oct, 19:10",
-      "isNew": true,
-      "id": "abc61792696254"
-    },
-    {
-      "title": "Ekskluzive/ Antifa shqiptare, nën hetim amerikan",
-      "link": "https://abcnews.al/ekskluzive-antifa-shqiptare-nen-hetim-amerikan/",
-      "description": "Investigimi i Fox News për 101 organizata që veprojnë si celula koordinimi për protesta të dhunshme në disa shtete europiane, përfshirë Francën, Italinë, Belgjikën, por edhe Shqipërinë, ka sjellë në vëmendje edhe Internacionalen Progresiste, rrjetin ndërkombëtar të së majtës ku bën pjesë Lëvizja Bas",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-22T19:00:48+00:00",
-      "dateStr": "22 Oct, 19:00",
-      "isNew": true,
-      "id": "abc71792695648"
-    },
-    {
-      "title": "“Berisha mori përgjegjësi politike, i dha fund protestës”, Meçe: Drejtësia ka reaguar në mënyrë absurde",
-      "link": "https://abcnews.al/berisha-mori-pergjegjesi-politike-i-dha-fund-protestes-mece-drejtesia-ka-reaguar-ne-menyre-absurde/",
-      "description": "Analisti Arben Meçe, në emisionin “Real Story”, ka komentuar zhvillimet e protestës së fundit, duke e ndarë atë në disa faza. Sipas tij, protesta kaloi nga vandalizmi në eskalimin politik, ndërsa marrja e përgjegjësisë politike nga Berisha shënoi fundin e saj. Ai theksoi se neutralizimi i akteve të ",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-22T19:00:10+00:00",
-      "dateStr": "22 Oct, 19:00",
-      "isNew": true,
-      "id": "abc81792695610"
-    },
-    {
-      "title": "“Protesta, mësimi më i mirë për mazhorancën”, deputeti i PS: Institucionet të bëjnë mirë punën e tyre!",
-      "link": "https://abcnews.al/protesta-mesimi-me-i-mire-per-mazhorancen-deputeti-i-ps-institucionet-te-bejne-mire-punen-e-tyre/",
-      "description": "Deputeti i Partisë Socialiste, Erjon Malaj, ka reaguar lidhur me zhvillimet e fundit dhe sulmin ndaj Policisë së Shtetit, duke e cilësuar situatën si të papranueshme dhe duke kërkuar reflektim nga mazhoranca, institucionet dhe klasa politike. Deputeti socialist theksoi se ngjarjet duhet të shërbejnë",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-22T18:58:29+00:00",
-      "dateStr": "22 Oct, 18:58",
-      "isNew": true,
-      "id": "abc91792695509"
+      "id": "abc91792698592"
     },
     {
       "title": "Në Mardin të Turqisë nis edicioni i katërt i Festivalit Ndërkombëtar të Filmit “Mardin Film Festivali Telkari Odulleri”",
