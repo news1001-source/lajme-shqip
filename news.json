@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-10-24T00:11:42.099551+00:00",
+  "lastUpdated": "2026-10-24T05:18:57.397407+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Sotheby’s mbyll ankandin «Modernités» në Paris me 38,62 milionë euro: Kupka dhe Giacometti mbi vlerësimet",
+      "link": "https://24-ore.com/sothebys-mbyll-ankandin-modernites-ne-paris-me-3862-milione-euro-kupka-dhe-giacometti-mbi-vleresimet/",
+      "description": "Shitja e mbrëmjes në Paris arriti 43,43 milionë dollarë dhe përmbushi vlerësimin paraprak; 70 për qind e loteve u shitën mbi vlerësimin e ulët, mes tyre vepra të František Kupka-s dhe Alberto Giacometti-t.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-24T00:18:20+00:00",
+      "dateStr": "24 Oct, 00:18",
+      "isNew": true,
+      "id": "24 01792801100"
+    },
+    {
+      "title": "Trump njofton programin 275 milionë dollarësh për infermierët në shtëpitë e të moshuarve",
+      "link": "https://24-ore.com/trump-njofton-programin-275-milione-dollaresh-per-infermieret-ne-shtepite-e-te-moshuarve/",
+      "description": "Presidenti Donald Trump njoftoi të premten, gjatë një tubimi në Fort Myers të Floridës, një program prej 275 milionë dollarësh për rekrutimin dhe mbajtjen e infermierëve në shtëpitë e të moshuarve, duke e quajtur atë \"një lajm i rëndësishëm për të moshuarit amerikanë\".",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-24T00:16:37+00:00",
+      "dateStr": "24 Oct, 00:16",
+      "isNew": true,
+      "id": "24 11792800997"
+    },
     {
       "title": "«The Other Side of Murder» vjen në Churchill Theatre të Bromley-t: Rufus Hound si mediumi televiziv Darius Divine",
       "link": "https://24-ore.com/the-other-side-of-murder-vjen-ne-churchill-theatre-te-bromley-t-rufus-hound-si-mediumi-televiziv-darius-divine/",
@@ -12,7 +34,7 @@
       "date": "2026-10-24T00:04:49+00:00",
       "dateStr": "24 Oct, 00:04",
       "isNew": true,
-      "id": "24 01792800289"
+      "id": "24 21792800289"
     },
     {
       "title": "Zaineen Chowdhury Karim fiton çmimin për aktoren më të mirë në IFFSA Toronto për «The Difficult Bride»",
@@ -23,7 +45,7 @@
       "date": "2026-10-23T23:52:47+00:00",
       "dateStr": "23 Oct, 23:52",
       "isNew": true,
-      "id": "24 11792799567"
+      "id": "24 31792799567"
     },
     {
       "title": "Socca e Nicës — petë e hollë me miell qiqrash, vaj ulliri dhe piper të zi",
@@ -34,7 +56,7 @@
       "date": "2026-10-23T23:52:17+00:00",
       "dateStr": "23 Oct, 23:52",
       "isNew": true,
-      "id": "24 21792799537"
+      "id": "24 41792799537"
     },
     {
       "title": "Edhe katër pjesëmarrës të pseudozgjedhjeve në Krime dyshohen për kolaboracionizëm",
@@ -45,7 +67,7 @@
       "date": "2026-10-23T23:48:34+00:00",
       "dateStr": "23 Oct, 23:48",
       "isNew": true,
-      "id": "24 31792799314"
+      "id": "24 51792799314"
     },
     {
       "title": "Komandanti Oleksiy Slivchuk kthehet në atdhe pas më shumë se katër vjetësh robërie ruse",
@@ -56,7 +78,7 @@
       "date": "2026-10-23T23:45:36+00:00",
       "dateStr": "23 Oct, 23:45",
       "isNew": true,
-      "id": "24 41792799136"
+      "id": "24 61792799136"
     },
     {
       "title": "Britania njofton rreth 600 milionë paundë për sigurinë e inteligjencës artificiale, me laborator të ri biosigurie",
@@ -67,7 +89,7 @@
       "date": "2026-10-23T23:39:46+00:00",
       "dateStr": "23 Oct, 23:39",
       "isNew": true,
-      "id": "24 51792798786"
+      "id": "24 71792798786"
     },
     {
       "title": "Valë e dendur bombardimesh izraelite në Libanin jugor, goditen Khiam dhe disa fshatra kufitare",
@@ -78,7 +100,7 @@
       "date": "2026-10-23T23:29:44+00:00",
       "dateStr": "23 Oct, 23:29",
       "isNew": true,
-      "id": "24 61792798184"
+      "id": "24 81792798184"
     },
     {
       "title": "Forcat jemenase godasin Huthi-t në lindje të Taizit, shkatërrojnë dy tanke në hotelin Sofitel",
@@ -89,29 +111,7 @@
       "date": "2026-10-23T23:27:48+00:00",
       "dateStr": "23 Oct, 23:27",
       "isNew": true,
-      "id": "24 71792798068"
-    },
-    {
-      "title": "Musk e rrit shpenzimin për mesmandatin në mbi 442 milionë dollarë, me 76,8 milionë të tjerë në super PAC-un e tij",
-      "link": "https://24-ore.com/musk-e-rrit-shpenzimin-per-mesmandatin-ne-mbi-442-milione-dollare-me-768-milione-te-tjere-ne-super-pac-un-e-tij/",
-      "description": "Elon Musk ka shpenzuar më shumë se 442 milionë dollarë për zgjedhjet e mesmandatit të vitit 2026, duke derdhur edhe 76,8 milionë dollarë të tjerë këtë muaj në komitetin e tij të veprimit politik, ndërsa miliarderi shton mbështetjen për kandidatët republikanë pak ditë para votimit të 3 nëntorit.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-23T23:16:54+00:00",
-      "dateStr": "23 Oct, 23:16",
-      "isNew": true,
-      "id": "24 81792797414"
-    },
-    {
-      "title": "Mbi 150 skenografë dhe artistë dhurojnë vepra origjinale: ankandi i dytë për foshnjat e Gazës hapet më 26 tetor në Bush Theatre",
-      "link": "https://24-ore.com/mbi-150-skenografe-dhe-artiste-dhurojne-vepra-origjinale-ankandi-i-dyte-per-foshnjat-e-gazes-hapet-me-26-tetor-ne-bush-theatre/",
-      "description": "Veprat e lidhura me «Billy Elliot», «Titanique» dhe «Game of Thrones: The Mad King» dalin në ankandin online deri më 9 nëntor — të gjitha të ardhurat për qumësht formule, pelena dhe ujë të pastër për fëmijët në Gaza",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-23T23:13:14+00:00",
-      "dateStr": "23 Oct, 23:13",
-      "isNew": true,
-      "id": "24 91792797194"
+      "id": "24 91792798068"
     },
     {
       "title": "“Në protestë priten xhihadistë nga Maqedonia e Veriut”, Beqiri: Zgjidhje, dialogu me kryeministrin!",
