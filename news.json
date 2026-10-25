@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-10-24T22:49:46.438228+00:00",
+  "lastUpdated": "2026-10-25T00:44:52.894263+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
+    {
+      "title": "Natё e përzier për serbët në NBA: Hjustoni i Bogdanoviqit mposht San Antonion 114:110, Majami i Joviqit bie ndaj Detroitit",
+      "link": "https://24-ore.com/nat%d1%91-e-perzier-per-serbet-ne-nba-hjustoni-i-bogdanoviqit-mposht-san-antonion-114110-majami-i-joviqit-bie-ndaj-detroitit-2/",
+      "description": "Houston Rockets fituan derbin teksas me San Antonio Spurs 114:110 falë Alperen Şengünit dhe bllokadës vendimtare të Amen Thompsonit ndaj Victor Wembanyamas, ndërsa Miami Heat i Nikola Joviqit u mposht në shtëpi nga Detroit Pistons 111:128, pavarësisht 36 pikëve të Giannis Antetokounmpos.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-24T23:37:07+00:00",
+      "dateStr": "24 Oct, 23:37",
+      "isNew": true,
+      "id": "24 01792885027"
+    },
+    {
+      "title": "Simulim emergjence në objektin e KEDS-it në Gjakovë: zjarr, evakuim dhe shpëtim i një personi të lënduar",
+      "link": "https://24-ore.com/simulim-emergjence-ne-objektin-e-keds-it-ne-gjakove-zjarr-evakuim-dhe-shpetim-i-nje-personi-te-lenduar/",
+      "description": "Ushtrimi ndërinstitucional, i organizuar në kuadër të Javës Evropiane për Siguri dhe Shëndet në Punë, testoi gatishmërinë e zjarrfikësve, të policisë dhe të ekipeve mjekësore për reagim në raste zjarri.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-24T23:34:35+00:00",
+      "dateStr": "24 Oct, 23:34",
+      "isNew": true,
+      "id": "24 11792884875"
+    },
+    {
+      "title": "Skadon sot në mesnatë afati shtesë për regjistrimin e objekteve pa leje në Serbi",
+      "link": "https://24-ore.com/skadon-sot-ne-mesnate-afati-shtese-per-regjistrimin-e-objekteve-pa-leje-ne-serbi/",
+      "description": "Pronarët e objekteve të ndërtuara pa leje në Serbi, që për arsye objektive nuk arritën të aplikojnë në afatin e rregullt sipas ligjit \"Svoj na svome\", kanë afat vetëm deri sonte në mesnatë; aplikimet pranohen online, në posta dhe në sportelet e komunave.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-24T22:53:07+00:00",
+      "dateStr": "24 Oct, 22:53",
+      "isNew": true,
+      "id": "24 21792882387"
+    },
     {
       "title": "Dron reaktiv rus godet rrethin Novobavarskyi të Kharkivit: një i vrarë dhe katër të plagosur",
       "link": "https://24-ore.com/dron-reaktiv-rus-godet-rrethin-novobavarskyi-te-kharkivit-nje-i-vrare-dhe-kater-te-plagosur/",
@@ -12,7 +45,7 @@
       "date": "2026-10-24T22:46:44+00:00",
       "dateStr": "24 Oct, 22:46",
       "isNew": true,
-      "id": "24 01792882004"
+      "id": "24 31792882004"
     },
     {
       "title": "Obama në Cleveland: Po votojmë për ndryshim këtu në Ohio",
@@ -23,7 +56,7 @@
       "date": "2026-10-24T22:46:43+00:00",
       "dateStr": "24 Oct, 22:46",
       "isNew": true,
-      "id": "24 11792882003"
+      "id": "24 41792882003"
     },
     {
       "title": "117 përplasje në front gjatë ditës: në drejtimin e Pokrovskut u likuiduan 28 ushtarë rusë",
@@ -34,7 +67,7 @@
       "date": "2026-10-24T22:46:40+00:00",
       "dateStr": "24 Oct, 22:46",
       "isNew": true,
-      "id": "24 21792882000"
+      "id": "24 51792882000"
     },
     {
       "title": "Përplasen tri automjete në autostradën drejt Nishit pranë daljes për Ikea, njëra përmbyset në çati — dy të lënduar",
@@ -45,7 +78,7 @@
       "date": "2026-10-24T22:41:23+00:00",
       "dateStr": "24 Oct, 22:41",
       "isNew": true,
-      "id": "24 31792881683"
+      "id": "24 61792881683"
     },
     {
       "title": "Nis vaksinimi kundër gripit sezonal në Kosovë",
@@ -56,7 +89,7 @@
       "date": "2026-10-24T21:50:23+00:00",
       "dateStr": "24 Oct, 21:50",
       "isNew": true,
-      "id": "24 41792878623"
+      "id": "24 71792878623"
     },
     {
       "title": "“Personat me maska u armatosën në selinë blu”/ Mahmutaj: PD, burimi i dhunës dhe rrëmujës",
@@ -78,7 +111,7 @@
       "date": "2026-10-24T21:35:41+00:00",
       "dateStr": "24 Oct, 21:35",
       "isNew": true,
-      "id": "24 51792877741"
+      "id": "24 81792877741"
     },
     {
       "title": "Departamenti i Drejtësisë u jep 48 orë 58 qarqeve të Kalifornisë të veçojnë fletëvotimet e të dyshuarve si joshtetas",
@@ -89,40 +122,7 @@
       "date": "2026-10-24T21:22:13+00:00",
       "dateStr": "24 Oct, 21:22",
       "isNew": true,
-      "id": "24 61792876933"
-    },
-    {
-      "title": "Tritan Shehu nga Trauma: Dhunë ekstreme, protestuesit me plagë të rënda nga plumbat e gomës",
-      "link": "https://24-ore.com/tritan-shehu-nga-trauma-dhune-ekstreme-protestuesit-me-plage-te-renda-nga-plumbat-e-gomes/",
-      "description": "Tritan Shehu nga Partia Demokratike ka reaguar nga Spitali Universitar i Traumës lidhur me situatën e të lënduarve gjatë protestës së sotme. Shehu ka shprehur shqetësimin mbi përdorimin që sipas tij ishte i tepruar i forcës ndaj protestuesve, duke deklaruar se disa prej tyre kanë pësuar dëmtime seri",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-24T21:21:32+00:00",
-      "dateStr": "24 Oct, 21:21",
-      "isNew": true,
-      "id": "24 71792876892"
-    },
-    {
-      "title": "Ditmir Bushati për protestat: As dhuna dhe as brutaliteti policor nuk janë zgjidhje për situatën aktuale",
-      "link": "https://24-ore.com/ditmir-bushati-per-protestat-as-dhuna-dhe-as-brutaliteti-policor-nuk-jane-zgjidhje-per-situaten-aktuale/",
-      "description": "Ditmir Bushati, ish ministër i Jashtëm ka reaguar lidhur me protestat në vend duke shprehur shqetësimin e përdorimit të mjeteve të ndryshme, duke shkaktuar përleshje dhe rrezik per jeten. Bushati shkruan se as dhuna policore nuk është një zgjidhje që kjo situatë aktuale të kapërcehet. Reagimi i plot",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-24T21:21:15+00:00",
-      "dateStr": "24 Oct, 21:21",
-      "isNew": true,
-      "id": "24 81792876875"
-    },
-    {
-      "title": "Mbyllet protesta në Tiranë, 13 të lënduar dhe disa persona të shoqëruar",
-      "link": "https://24-ore.com/mbyllet-protesta-ne-tirane-13-te-lenduar-dhe-disa-persona-te-shoqeruar/",
-      "description": "Kur ora shënon 21:15, protestuesit janë shpërndarë dhe disa prej rrugëve të kryeqytetit janë boshatisur. Ndërkohë, në bulevardin “Dëshmorët e Kombit” ka nisur pastrimi i gurëve dhe sendeve të tjera të forta të hedhura gjatë përplasjeve mes protestuesve dhe policisë. Policia ka shoqëruar disa protest",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-24T21:21:01+00:00",
-      "dateStr": "24 Oct, 21:21",
-      "isNew": true,
-      "id": "24 91792876861"
+      "id": "24 91792876933"
     },
     {
       "title": "“PD, strehuese e dhunës”/ Beqiri: Antifa kërkon destabilizimin e Shqipërisë. SHBA neutralizoi dronët kamikazë drejt Kryeministrisë",
