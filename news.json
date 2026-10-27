@@ -1,95 +1,117 @@
 {
-  "lastUpdated": "2026-10-27T00:11:40.268915+00:00",
+  "lastUpdated": "2026-10-27T05:55:17.986262+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "«Klara and the Sun» debuton me vetëm 725 mijë dollarë: fundjava më e dobët në karrierën e Jenna Ortega-s dhe Taika Waititi-t",
-      "link": "https://24-ore.com/klara-and-the-sun-debuton-me-vetem-725-mije-dollare-fundjava-me-e-dobet-ne-karrieren-e-jenna-ortega-s-dhe-taika-waititi-t/",
-      "description": "Filmi fantastiko-shkencor i Sony Pictures me Jenna Ortega dhe Amy Adams u rendit i 14-ti në box office-in amerikan, me mesataren më të ulët për sallë për një film të gjerë të aktores dhe një pikë të re të ulët për regjisorin fitues të Oscar-it.",
+      "title": "Efekti domino nga Serbia në Shqipëri; mes shpresës dhe sfidave politike",
+      "link": "https://24-ore.com/efekti-domino-nga-serbia-ne-shqiperi-mes-shpreses-dhe-sfidave-politike/",
+      "description": "Kryeministri i Shqipërisë, Edi Rama, me presidentin serb Aleksandës Vuçiç. Foto: Nensi Bogdani/BIRN. Nga: Blerina Gjoka Të dielën në darkë, sheshi kryesor i Beogradit u kthye në një arenë gëzimi për mijëra të rinj dhe qytetarë serbë, të cilët protestonin prej dy vitesh kundër presidentit Aleksandër ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-26T23:51:53+00:00",
-      "dateStr": "26 Oct, 23:51",
+      "date": "2026-10-27T05:47:33+00:00",
+      "dateStr": "27 Oct, 05:47",
       "isNew": true,
-      "id": "24 01793058713"
+      "id": "24 01793080053"
     },
     {
-      "title": "Luftëtari i “Azov”-it Taras Zvarychuk kthehet nga robëria ruse, ku ishte dënuar me 29 vjet burg",
-      "link": "https://24-ore.com/luftetari-i-azov-it-taras-zvarychuk-kthehet-nga-roberia-ruse-ku-ishte-denuar-me-29-vjet-burg/",
-      "description": "Luftëtari i regjimentit &#8220;Azov&#8221; nga Drohobyçi i rajonit të Lvivit u kthye në atdhe gjatë shkëmbimit të të burgosurve të 23 tetorit, pas më shumë se katër vjetësh robërie ruse, gjatë së cilës pushtuesit e kishin dënuar me 29 vjet burg. Në shkëmbimin e të burgosurve të 23 tetorit, nga robër",
+      "title": "TSMC pritet të rrisë deri në 20% çmimet e paketimit të avancuar të çipave, raporton China Times",
+      "link": "https://24-ore.com/tsmc-pritet-te-rrise-deri-ne-20-cmimet-e-paketimit-te-avancuar-te-cipave-raporton-china-times/",
+      "description": "Kërkesa e fortë për çipa të inteligjencës artificiale po shtrëngon kapacitetet e paketimit CoWoS, ndërsa rritja e mundshme e çmimeve mund të shtrenjtojë produktet e Nvidia-s, AMD-së dhe Apple-it",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-26T23:47:20+00:00",
-      "dateStr": "26 Oct, 23:47",
+      "date": "2026-10-27T05:39:24+00:00",
+      "dateStr": "27 Oct, 05:39",
       "isNew": true,
-      "id": "24 11793058440"
+      "id": "24 11793079564"
     },
     {
-      "title": "Rënia e Vuçiç, Baton Haxhiu jep arsyet: Krijoi një model autokracie dhe një qeveri jofunksionale",
-      "link": "https://24-ore.com/renia-e-vucic-baton-haxhiu-jep-arsyet-krijoi-nje-model-autokracie-dhe-nje-qeveri-jofunksionale/",
-      "description": "Në zgjedhjet e përgjithshme parlamentare të parakohshme të mbajtura të dielën në Serbi, Aleksandar Vuçiç mori një goditje fatale nga Lista Studentore, e cila i dha fund dominimit të tij 14-vjeçar në Beograd. Analisti Baton Haxhiu, i ftuar në “Opinion” në TvKlan, u shpreh se ky rezultat ishte i prits",
+      "title": "“Përgjegjësia është individuale”! Kryeministria distancohet nga ndërhyrjet policore gjatë protestave",
+      "link": "https://24-ore.com/pergjegjesia-eshte-individuale-kryeministria-distancohet-nga-nderhyrjet-policore-gjate-protestave/",
+      "description": "Qeveria shqiptare ka reaguar zyrtarisht lidhur me pretendimet për përdorim të tepruar të forcës gjatë protestave të fundit, duke theksuar se përgjegjësia për çdo shkelje ligjore është vetëm individuale, si për protestuesit ashtu edhe për efektivët e policisë që tejkalojnë kompetencat. Në një përgjig",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-26T23:46:44+00:00",
-      "dateStr": "26 Oct, 23:46",
+      "date": "2026-10-27T05:31:24+00:00",
+      "dateStr": "27 Oct, 05:31",
       "isNew": true,
-      "id": "24 21793058404"
+      "id": "24 21793079084"
     },
     {
-      "title": "Bisedimet e Teheranit mbyllen me marrëveshje: Irani dhe shtetet e Paktit të Mekës do të vazhdojnë konsultimet për paqen dhe sigurinë",
-      "link": "https://24-ore.com/bisedimet-e-teheranit-mbyllen-me-marreveshje-irani-dhe-shtetet-e-paktit-te-mekes-do-te-vazhdojne-konsultimet-per-paqen-dhe-sigurine/",
-      "description": "Katër shtetet ranë dakord të vazhdojnë bisedimet për forcimin e bashkëpunimit rajonal, në takimin e parë të nivelit të lartë mes Iranit dhe vendeve të Paktit të Mekës që nga fillimi i luftës.",
+      "title": "Gjermania teston mjetin e blinduar Boxer me sistem lazeri kundër dronëve",
+      "link": "https://24-ore.com/gjermania-teston-mjetin-e-blinduar-boxer-me-sistem-lazeri-kunder-droneve/",
+      "description": "Kompanitë gjermane të mbrojtjes KNDS Deutschland dhe Ground A kanë zhvilluar një sistem lazeri kundër dronëve mbi bazën e mjetit të blinduar me rrota Boxer, i cili kaloi me sukses provat me zjarr të vërtetë, siç njofton Ukrinform, duke iu referuar botimit të specializuar gjerman Soldat &#038; Techni",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-26T23:29:45+00:00",
-      "dateStr": "26 Oct, 23:29",
+      "date": "2026-10-27T04:54:45+00:00",
+      "dateStr": "27 Oct, 04:54",
       "isNew": true,
-      "id": "24 31793057385"
+      "id": "24 31793076885"
     },
     {
-      "title": "Departamenti i Drejtësisë akuzon për herë të tretë ish-drejtorin e FBI-së, James Comey",
-      "link": "https://24-ore.com/departamenti-i-drejtesise-akuzon-per-here-te-trete-ish-drejtorin-e-fbi-se-james-comey/",
-      "description": "Departamenti amerikan i Drejtësisë ka ngritur akuza penale për herë të tretë kundër ish-drejtorit të FBI-së, James Comey, sipas dokumenteve të gjykatës të bëra publike të hënën, siç njofton Reuters. Këtë herë Comey akuzohet për transmetim të informacionit të mbrojtjes kombëtare dhe për komplot për t",
+      "title": "Forcat e Mbrojtjes kryen në tetor katër evakuime ajrore të të plagosurve me dronë",
+      "link": "https://24-ore.com/forcat-e-mbrojtjes-kryen-ne-tetor-kater-evakuime-ajrore-te-te-plagosurve-me-drone/",
+      "description": "Forcat e Mbrojtjes të Ukrainës kanë kryer gjatë tetorit të paktën katër evakuime ajrore të ushtarakëve të plagosur, siç njofton Ukrinform, duke iu referuar njoftimit në Facebook të Qendrës Klinike Mjekësore Ushtarake të Rajonit Verior në Kharkiv. Evakuimi i parë ajror i një të plagosuri nga fusha e ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-26T23:16:32+00:00",
-      "dateStr": "26 Oct, 23:16",
+      "date": "2026-10-27T04:47:25+00:00",
+      "dateStr": "27 Oct, 04:47",
       "isNew": true,
-      "id": "24 41793056592"
+      "id": "24 41793076445"
     },
     {
-      "title": "Kamberi: Lista Studentore që mposhti Vuçiqin duhet ta pranojë realitetin e Kosovës së pavarur",
-      "link": "https://24-ore.com/kamberi-lista-studentore-qe-mposhti-vuciqin-duhet-ta-pranoje-realitetin-e-kosoves-se-pavarur/",
-      "description": "Deputeti i zgjedhur në Kuvendin e Serbisë, Shaip Kamberi, ka thënë se mbetet të shihet nëse Lista Studentore, pas formimit të qeverisë së re në Serbi, do t’i ndryshojë qëndrimet dhe qasjen ndaj Kosovës. Duke folur në Debat Plus në TV Dukagjini, Kamberi ka vlerësuar se në Serbi është e vështirë të fi",
+      "title": "Mbrojtja ajrore saudite shkatërron katër dronë të Huthi-ve drejt rajonit jugor",
+      "link": "https://24-ore.com/mbrojtja-ajrore-saudite-shkaterron-kater-drone-te-huthi-ve-drejt-rajonit-jugor/",
+      "description": "Koalicioni i udhëhequr nga Arabia Saudite njoftoi se mbrojtja ajrore interceptoi dhe shkatërroi katër dronë të lëshuar nga Huthi-t drejt rajonit jugor të mbretërisë, në valën më të fundit të sulmeve ndërkufitare.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-26T22:56:47+00:00",
-      "dateStr": "26 Oct, 22:56",
+      "date": "2026-10-27T03:28:38+00:00",
+      "dateStr": "27 Oct, 03:28",
       "isNew": true,
-      "id": "24 51793055407"
+      "id": "24 51793071718"
     },
     {
-      "title": "Pizza Fan: lirohen me kushte pesë të akuzuarit e parë, garanci prej 5 mijë eurosh",
-      "link": "https://24-ore.com/pizza-fan-lirohen-me-kushte-pese-te-akuzuarit-e-pare-garanci-prej-5-mije-eurosh/",
-      "description": "Tre kontabilistë, një programues dhe një pronar franchise në Nea Ionia u lanë të lirë me masa kufizuese pas apologjive të së hënës në Evelpidon, ndërsa të martën para hetuesit shkon pronari i zinxhirit, Konstantinos Antaras.",
+      "title": "Rusia godet sërish Kievin me balistikë: shpërthime në kryeqytet, Forcat Ajrore regjistrojnë disa raketa",
+      "link": "https://24-ore.com/rusia-godet-serish-kievin-me-balistike-shperthime-ne-kryeqytet-forcat-ajrore-regjistrojne-disa-raketa/",
+      "description": "Kryeqyteti ukrainas u zgjua sërish nën alarm ajror në orët e para të së martës, kur shpërthime u dëgjuan në Kiev dhe ushtria regjistroi disa raketa në drejtim të qytetit. Shpërthime u dëgjuan në kryeqytet gjatë alarmit ajror, siç njofton Ukrinform në artikullin e publikuar më 27 tetor 2026, në orën ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-26T22:54:06+00:00",
-      "dateStr": "26 Oct, 22:54",
+      "date": "2026-10-27T02:48:47+00:00",
+      "dateStr": "27 Oct, 02:48",
       "isNew": true,
-      "id": "24 61793055246"
+      "id": "24 61793069327"
     },
     {
-      "title": "AFA përgëzon shqiptarët e Luginës për dy ulëse në Kuvendin e Serbisë",
-      "link": "https://24-ore.com/afa-pergezon-shqiptaret-e-lugines-per-dy-ulese-ne-kuvendin-e-serbise/",
-      "description": "AFA përshëndet përfaqësuesit shqiptarë për sigurimin e dy ulëseve në Kuvendin e Serbisë. Organizata “Albanians for America” (AFA) ka përgëzuar përfaqësuesit politikë shqiptarë nga Lugina e Preshevës për sigurimin e pritshëm të dy ulëseve në Kuvendin e Serbisë, duke e cilësuar këtë një arritje të rën",
+      "title": "Gjykata e apelit rrëzon kërkesën e Departamentit të Drejtësisë për të veçuar 20 mijë fletëvotime të Kalifornisë",
+      "link": "https://24-ore.com/gjykata-e-apelit-rrezon-kerkesen-e-departamentit-te-drejtesise-per-te-vecuar-20-mije-fletevotime-te-kalifornise/",
+      "description": "Një gjykatë federale apeli në Shtetet e Bashkuara vendosi të hënën kundër administratës së presidentit Donald Trump në një nga mosmarrëveshjet më të rëndësishme të votimit përpara zgjedhjeve të mesmandatit të 3 nëntorit, duke rrëzuar kërkesën urgjente të Departamentit të Drejtësisë që Kalifornia të ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-26T22:51:44+00:00",
-      "dateStr": "26 Oct, 22:51",
+      "date": "2026-10-27T02:17:18+00:00",
+      "dateStr": "27 Oct, 02:17",
       "isNew": true,
-      "id": "24 71793055104"
+      "id": "24 71793067438"
+    },
+    {
+      "title": "Cohere: modeli Qwen i Alibaba-s u përpoq të dërgonte një skedar drejt një serveri në Pekin gjatë një testi sigurie",
+      "link": "https://24-ore.com/cohere-modeli-qwen-i-alibaba-s-u-perpoq-te-dergonte-nje-skedar-drejt-nje-serveri-ne-pekin-gjate-nje-testi-sigurie/",
+      "description": "Kompania kanadeze Cohere thotë se modeli Qwen3.8-Flash-Next, gjatë një vlerësimi për sigurinë kibernetike, tentoi të ngarkonte një varg testues në një server të Alibaba Cloud në Pekin, ndonëse arsyetimi i tij thoshte se nuk do të përdorte asnjë mjet. Sipas studiuesve, sjellja ka gjasa të jetë pasojë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-27T01:58:30+00:00",
+      "dateStr": "27 Oct, 01:58",
+      "isNew": true,
+      "id": "24 81793066310"
+    },
+    {
+      "title": "Vatër e ndezur – vepër e çmuar për Kosovën martire",
+      "link": "https://24-ore.com/vater-e-ndezur-veper-e-cmuar-per-kosoven-martire/",
+      "description": "Shkrimtari Ylli Radovicka nuk arriti t&#8217;i gëzohej rënies së diktaturës për të parë të botuar romanin e tij në dorëshkrim: VATËR E NDEZUR, që e kishte përfunduar në vitin 1970. Ndërroi jetë në 1990 në pragun e fitores mbi fantazmën e komunizmit “shpëtimtar”. Vetëm pas tre dekadash që vepra flint",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-27T01:51:20+00:00",
+      "dateStr": "27 Oct, 01:51",
+      "isNew": true,
+      "id": "24 91793065880"
     },
     {
       "title": "Harry Kane fiton Topin e Artë/ Kapiteni i Anglisë, i pari “luan” që ia del nga viti 2001",
@@ -101,28 +123,6 @@
       "dateStr": "26 Oct, 22:51",
       "isNew": true,
       "id": "abc01793055084"
-    },
-    {
-      "title": "Khmara u kërkon partnerëve të E5-së 10% të rezervave të raketave interceptuese për Patriot dhe IRIS-T",
-      "link": "https://24-ore.com/khmara-u-kerkon-partnereve-te-e5-se-10-te-rezervave-te-raketave-interceptuese-per-patriot-dhe-iris-t/",
-      "description": "Ministri i Mbrojtjes i Ukrainës, Jevhenij Khmara, u është drejtuar përfaqësuesve të departamenteve të mbrojtjes të vendeve të grupit E5 — Gjermanisë, Britanisë, Francës, Polonisë dhe Italisë — dhe u ka paraqitur atyre prioritetet kritike të mbështetjes për Ukrainën, siç njofton Ukrinform, duke iu re",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-26T22:46:44+00:00",
-      "dateStr": "26 Oct, 22:46",
-      "isNew": true,
-      "id": "24 81793054804"
-    },
-    {
-      "title": "Vuçiç për hyrjen në Informer: dhunë e paprecedentë, BE-ja dhe shoqatat e gazetarëve heshtin",
-      "link": "https://24-ore.com/vucic-per-hyrjen-ne-informer-dhune-e-paprecedente-be-ja-dhe-shoqatat-e-gazetareve-heshtin/",
-      "description": "Aleksandar Vuçiç reagoi të hënën në mbrëmje për hyrjen e qytetarëve në ambientet e televizionit Informer, duke e quajtur atë dhunë të paprecedentë dhe monstruoze dhe sulm ndaj lirisë së shprehjes, ndërsa kritikoi heshtjen e Bashkimit Evropian dhe të shoqatave të gazetarëve.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-10-26T22:36:53+00:00",
-      "dateStr": "26 Oct, 22:36",
-      "isNew": true,
-      "id": "24 91793054213"
     },
     {
       "title": "“Dhuna rrezikoi vendin”/ Frrok Çupi: Protesta në Beograd, ndryshe nga Tirana. Aty protestuan studentë, këtu huliganë",
