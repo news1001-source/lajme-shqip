@@ -1,117 +1,128 @@
 {
-  "lastUpdated": "2026-10-28T00:54:51.863094+00:00",
+  "lastUpdated": "2026-10-28T06:34:17.237812+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Fondi i vajzës së Kellogg-ut do të ndihmojë në identifikimin e trupave të mbrojtësve të rënë ukrainas",
-      "link": "https://24-ore.com/fondi-i-vajzes-se-kellogg-ut-do-te-ndihmoje-ne-identifikimin-e-trupave-te-mbrojtesve-te-rene-ukrainas/",
-      "description": "Sekretari i Këshillit të Sigurisë Kombëtare dhe të Mbrojtjes së Ukrainës, Ihor Klymenko, njoftoi se fondacioni bamirës R.T. Weatherman Foundation, i drejtuar nga Megan Mobbs, është i gatshëm të ndihmojë në identifikimin e trupave të mbrojtësve të rënë ukrainas.",
+      "title": "Grossi: Irani nuk ka tentuar të riparojë objektet bërthamore të dëmtuara nga sulmet amerikane dhe izraelite",
+      "link": "https://24-ore.com/grossi-irani-nuk-ka-tentuar-te-riparoje-objektet-berthamore-te-demtuara-nga-sulmet-amerikane-dhe-izraelite/",
+      "description": "Kreu i Agjencisë Ndërkombëtare të Energjisë Atomike, Rafael Grossi, i tha Këshillit të Sigurimit të OKB-së se që nga qershori 2025 nuk është identifikuar asnjë aktivitet për riparimin e objekteve të dëmtuara, ndërsa agjencia ende nuk mund të verifikojë rezervën iraniane të uraniumit të pasuruar deri",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-28T00:54:20+00:00",
-      "dateStr": "28 Oct, 00:54",
+      "date": "2026-10-28T06:31:27+00:00",
+      "dateStr": "28 Oct, 06:31",
       "isNew": true,
-      "id": "24 01793148860"
+      "id": "24 01793169087"
     },
     {
-      "title": "SK hynix shënon fitim operativ rekord prej 83.3 trilionë wonësh në tremujorin e tretë, të ardhurat kalojnë për herë të parë 100 trilionë",
-      "link": "https://24-ore.com/sk-hynix-shenon-fitim-operativ-rekord-prej-83-3-trilione-wonesh-ne-tremujorin-e-trete-te-ardhurat-kalojne-per-here-te-pare-100-trilione/",
-      "description": "Prodhuesi koreano-jugor i çipave të memories përfitoi nga kërkesa e fortë për HBM4 dhe memorien për inteligjencën artificiale, me marzh operativ 79.7% dhe një plan kthimi prej rreth 100 trilionë wonësh për aksionarët",
+      "title": "Panik në Librazhd, flakët përfshijnë dy restorante në breg të Shkumbinit",
+      "link": "https://24-ore.com/panik-ne-librazhd-flaket-perfshijne-dy-restorante-ne-breg-te-shkumbinit/",
+      "description": "Një zjarr ka përfshirë mbrëmjen e sotme dy restorante në qytetin e Librazhdit, të cilat ndodhen në breg të lumit Shkumbin. Sipas informacioneve paraprake, flakët janë përhapur me shpejtësi, duke përfshirë të dy objektet, të vendosura në afërsi të njëri-tjetrit. Menjëherë në vendngjarje ka ndërhyrë s",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-28T00:43:51+00:00",
-      "dateStr": "28 Oct, 00:43",
+      "date": "2026-10-28T06:30:25+00:00",
+      "dateStr": "28 Oct, 06:30",
       "isNew": true,
-      "id": "24 11793148231"
+      "id": "24 11793169025"
     },
     {
-      "title": "Mediat kundër kompanisë Meta: Nuk mund të përdorë lajmet tona për trajnimin e AI",
-      "link": "https://24-ore.com/mediat-kunder-kompanise-meta-nuk-mund-te-perdore-lajmet-tona-per-trajnimin-e-ai/",
-      "description": "Një koalicion prej dhjetë organizatash mediatike norvegjeze ka ndërmarrë veprime ligjore kundër kompanisë amerikane Meta, duke kundërshtuar ndryshimet e planifikuara në kushtet e përdorimit të llogarive profesionale në Facebook dhe Instagram. Sipas mediave, rregullat e reja mund t’i japin Meta-s të ",
+      "title": "E mërkura me diell dhe vranësira, temperaturat deri në 13 gradë Celsius",
+      "link": "https://24-ore.com/e-merkura-me-diell-dhe-vranesira-temperaturat-deri-ne-13-grade-celsius/",
+      "description": "E mërkura do të karakterizohet nga mot me diell dhe vranësira të çrregullta. Temperaturat minimale do të lëvizin nga 0 deri në 3 gradë Celsius, ndërsa ato maksimale pritet të arrijnë nga 10 deri në 13 gradë Celsius. Era do të fryjë nga drejtimi i veriperëndimit, me shpejtësi prej 1 deri në 3 metra n",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-28T00:37:29+00:00",
-      "dateStr": "28 Oct, 00:37",
+      "date": "2026-10-28T06:23:42+00:00",
+      "dateStr": "28 Oct, 06:23",
       "isNew": true,
-      "id": "24 21793147849"
+      "id": "24 21793168622"
     },
     {
-      "title": "Koalicioni saudit intercepton një raketë balistike të Huthi-ve drejt Taifit, alarmet në Jeddah dhe Yanbu hiqen shpejt",
-      "link": "https://24-ore.com/koalicioni-saudit-intercepton-nje-rakete-balistike-te-huthi-ve-drejt-taifit-alarmet-ne-jeddah-dhe-yanbu-hiqen-shpejt/",
-      "description": "Mbrojtja ajrore saudite rrëzoi raketën e lëshuar nga Huthi-t drejt Taifit, ndërsa Mbrojtja Civile lëshoi dhe më pas hoqi alarmet e sigurisë në Jeddah dhe Yanbu, duke njoftuar se rreziku kishte kaluar.",
+      "title": "Arsenal, Arteta mbron Gyokeres: Ka nevojë për besim",
+      "link": "https://24-ore.com/arsenal-arteta-mbron-gyokeres-ka-nevoje-per-besim/",
+      "description": "Arsenali është i vendosur të konsolidojë pozicionin e tij si një protagonist në futbollin anglez dhe të vazhdojë të konkurrojë në të gjitha frontet këtë sezon. Pasi fitoi titullin e Premier Ligës dhe humbi finalen e Ligës së Kampionëve ndaj Paris Saint-Germain, djemtë e Mikel Artetas synojnë të push",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-28T00:35:46+00:00",
-      "dateStr": "28 Oct, 00:35",
+      "date": "2026-10-28T06:23:24+00:00",
+      "dateStr": "28 Oct, 06:23",
       "isNew": true,
-      "id": "24 31793147746"
+      "id": "24 31793168604"
     },
     {
-      "title": "Juria e madhe refuzon padinë ndaj ish-ndihmëses së Trump, Cassidy Hutchinson, për dëshminë e 6 janarit",
-      "link": "https://24-ore.com/juria-e-madhe-refuzon-padine-ndaj-ish-ndihmeses-se-trump-cassidy-hutchinson-per-deshmine-e-6-janarit/",
-      "description": "Prokurorët e Departamentit të Drejtësisë u përpoqën të martën dhe dështuan të siguronin një aktakuzë nga juria e madhe kundër ish-ndihmëses së Shtëpisë së Bardhë Cassidy Hutchinson, për dëshminë e saj mbi rolin e presidentit Donald Trump në trazirat e 6 janarit 2021 në Kapitol, siç njofton CNN, sipa",
+      "title": "Euroliga: Panathinaikos, fitore e vuajtur përballë Milanos",
+      "link": "https://24-ore.com/euroliga-panathinaikos-fitore-e-vuajtur-perballe-milanos/",
+      "description": "Në një betejë të fortë në Athinë, Panathinaikos ia doli mbanë përballë Milanos, duke rrëmbyer një fitore 80-75 jo pa vuajtje. Në një ndeshje me ndryshime të vazhdueshme, e pa skuadrën e Milanos të merrte kontrollin herë pas here, përpara se skuadra greke të tregonte forcën e saj, duke vulosur fitore",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-28T00:23:55+00:00",
-      "dateStr": "28 Oct, 00:23",
+      "date": "2026-10-28T06:23:09+00:00",
+      "dateStr": "28 Oct, 06:23",
       "isNew": true,
-      "id": "24 41793147035"
+      "id": "24 41793168589"
     },
     {
-      "title": "Ndërmarrjet ukrainase të mbrojtjes nënshkruajnë 54 kontrata lizingu preferencial për 244.5 milionë hrivna",
-      "link": "https://24-ore.com/ndermarrjet-ukrainase-te-mbrojtjes-nenshkruajne-54-kontrata-lizingu-preferencial-per-244-5-milione-hrivna/",
-      "description": "Ndërmarrjet e kompleksit ushtarako-industrial të Ukrainës, që nga nisja e programit të lizingut financiar preferencial, kanë lidhur 54 kontrata për një shumë totale prej 244,53 milionë hrivnash, siç njofton Ukrinform, duke iu referuar Ministrisë së Mbrojtjes së Ukrainës. Mekanizmi u krijua me një ve",
+      "title": "BE: Gati të punojmë me qeverinë e re në Serbi",
+      "link": "https://24-ore.com/be-gati-te-punojme-me-qeverine-e-re-ne-serbi/",
+      "description": "Bashkimi Evropian ka përshëndetur pjesëmarrjen historike në zgjedhjet parlamentare të 25 tetorit në Serbi, duke kërkuar një tranzicion të rregullt demokratik dhe formimin pa vonesa të qeverisë së re. Në deklaratën e përbashkët, përfaqësuesja e lartë e BE-së për Politikën e Jashtme, Kaja Kallas, dhe ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-28T00:11:47+00:00",
-      "dateStr": "28 Oct, 00:11",
+      "date": "2026-10-28T06:18:07+00:00",
+      "dateStr": "28 Oct, 06:18",
       "isNew": true,
-      "id": "24 51793146307"
+      "id": "24 51793168287"
     },
     {
-      "title": "Instagram sfidon YouTube, nis testimin e videove deri në 90 minuta",
-      "link": "https://24-ore.com/instagram-sfidon-youtube-nis-testimin-e-videove-deri-ne-90-minuta/",
-      "description": "Instagram po përgatit një ndryshim të rëndësishëm në mënyrën e publikimit të përmbajtjeve të video, duke zgjeruar testimet për video me gjatësi deri në 90 minuta dhe duke synuar të konkurrojë më drejtpërdrejt me YouTube. Sipas një raportimi të revistës teknologjike WIRED, platforma në pronësi të Met",
+      "title": "Nis portofoli elektronik: nga nesër letërnjoftimi dhe patenta e shoferit në telefonin mobil",
+      "link": "https://24-ore.com/nis-portofoli-elektronik-nga-neser-leternjoftimi-dhe-patenta-e-shoferit-ne-telefonin-mobil/",
+      "description": "Ministria e Transformimit Digjital promovon sot në mesditë, në Filarmoninë Maqedonase në Shkup, aplikacionin \"m.Uslugi\" — të dhënat do të ndahen me kod QR njëpërdorimësh, që skadon për 10 deri në 15 sekonda",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-28T00:02:48+00:00",
-      "dateStr": "28 Oct, 00:02",
+      "date": "2026-10-28T06:05:55+00:00",
+      "dateStr": "28 Oct, 06:05",
       "isNew": true,
-      "id": "24 61793145768"
+      "id": "24 61793167555"
     },
     {
-      "title": "Komandantit të bataljonit “Vostok” i njoftohet dyshimi për torturimin e një civili në Mariupol",
-      "link": "https://24-ore.com/komandantit-te-bataljonit-vostok-i-njoftohet-dyshimi-per-torturimin-e-nje-civili-ne-mariupol/",
-      "description": "Prokurorët kanë njoftuar në mungesë dyshimin ndaj një ish-punonjësi të organeve ligjzbatuese, i cili kaloi në anën e Rusisë, themeloi bataljonin &#8220;Vostok&#8221; dhe mori pjesë në pushtimin e Mariupolit, siç njofton Ukrinform, duke iu referuar Zyrës së Prokurorit të Përgjithshëm. I dyshuari usht",
-      "source": "24 ORE",
+      "title": "Horoskopi, zbuloni parashikimin e yjeve për shenjën tuaj",
+      "link": "https://abcnews.al/horoskopi-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj-207/",
+      "description": "Dashi Gjatë gjysmës së parë të ditës ka shumë mundësi që të merrni një lajm lidhur me sferat praktike të jetës. Në mëngjes mund të merreni me një detyrë që ka të bëjë me financat tuaja, siç mund të jetë paga. Ndoshta do t’ju duhet të ndryshoni gjëra të vogla lidhur me orarin e punës [...]Read More..",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-10-27T23:58:31+00:00",
-      "dateStr": "27 Oct, 23:58",
+      "date": "2026-10-28T06:05:31+00:00",
+      "dateStr": "28 Oct, 06:05",
       "isNew": true,
-      "id": "24 71793145511"
+      "id": "abc01793167531"
     },
     {
-      "title": "Sataraš ballkanik — gjellë me speca, domate dhe qepë e zier ngadalë",
-      "link": "https://24-ore.com/sataras-ballkanik-gjelle-me-speca-domate-dhe-qepe-e-zier-ngadale/",
-      "description": "Gjella verore e Ballkanit me speca shumëngjyrësh, domate të pjekura dhe qepë, e zier ngadalë në vaj ulliri derisa perimet të shkrihen në një salcë të ëmbël — shërbehet me bukë, me mish të pjekur ose me vezë sipër.",
+      "title": "Rusët godasin 846 herë rajonin e Zaporizhzhias gjatë ditës, dy të plagosur",
+      "link": "https://24-ore.com/ruset-godasin-846-here-rajonin-e-zaporizhzhias-gjate-dites-dy-te-plagosur/",
+      "description": "Gjatë ditës së kaluar, pushtuesit rusë kryen 846 goditje mbi 41 vendbanime të rajonit të Zaporizhzhias, ndërsa dy njerëz u plagosën nga sulmet armike në rrethin e Zaporizhzhias, siç njofton Ukrinform. Këtë e njoftoi në Telegram Ivan Fedorov, bashkëkryetar i Këshillit të Mbrojtjes të rajonit të Zapor",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-27T23:57:15+00:00",
-      "dateStr": "27 Oct, 23:57",
+      "date": "2026-10-28T05:59:13+00:00",
+      "dateStr": "28 Oct, 05:59",
       "isNew": true,
-      "id": "24 81793145435"
+      "id": "24 71793167153"
     },
     {
-      "title": "Wall Street mbyllet në rritje të martën, Nasdaq udhëheq me 1,18% ndërsa entuziazmi për AI-në rikthehet",
-      "link": "https://24-ore.com/wall-street-mbyllet-ne-rritje-te-marten-nasdaq-udheheq-me-118-ndersa-entuziazmi-per-ai-ne-rikthehet/",
-      "description": "Sipas Reuters, një rally i nxitur nga inteligjenca artificiale i çoi aksionet amerikane në mbyllje më të lartë të martën. Zhurma rreth detajeve të ofertës publike fillestare të paralajmëruar të Anthropic ndihmoi aksionet e çipeve për seancën e tretë radhazi; indeksi i gjysmëpërcjuesve të Filadelfias",
+      "title": "CXMT kineze nis prodhimin e memories HBM3E për inteligjencën artificiale, edhe pse vetëm 20 deri 30 për qind e çipave janë të përdorshëm",
+      "link": "https://24-ore.com/cxmt-kineze-nis-prodhimin-e-memories-hbm3e-per-inteligjencen-artificiale-edhe-pse-vetem-20-deri-30-per-qind-e-cipave-jane-te-perdorshem/",
+      "description": "Sipas burimeve të Reuters, prodhuesi më i madh kinez i memories DRAM u ka dërguar mostra projektuesve vendas të çipave të inteligjencës artificiale dhe pritet të nisë prodhim të kufizuar brenda dy muajve, mes mungesës së theksuar të memories së avancuar në Kinë.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-10-27T23:56:19+00:00",
-      "dateStr": "27 Oct, 23:56",
+      "date": "2026-10-28T05:58:34+00:00",
+      "dateStr": "28 Oct, 05:58",
       "isNew": true,
-      "id": "24 91793145379"
+      "id": "24 81793167114"
+    },
+    {
+      "title": "Malajzia konfiskon çipa të inteligjencës artificiale me vlerë 12.1 milionë dollarë në aeroportin e Kuala Lumpurit",
+      "link": "https://24-ore.com/malajzia-konfiskon-cipa-te-inteligjences-artificiale-me-vlere-12-1-milione-dollare-ne-aeroportin-e-kuala-lumpurit/",
+      "description": "Dogana malajziane thotë se 30 njësi serverësh me çipa të avancuar u gjetën në zonën e tregtisë së lirë të aeroportit, të deklaruara rrejshëm si përbërës elektronikë, ndërsa rrjeti i dyshuar lidhet me të paktën pesë raste me konfiskime mbi 100 milionë ringgit në total.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-10-28T05:42:04+00:00",
+      "dateStr": "28 Oct, 05:42",
+      "isNew": true,
+      "id": "24 91793166124"
     },
     {
       "title": "“Imazhi i Shqipërisë është dëmtuar”/ Protesta, Nura: Bizneset kanë pësuar dëme si pasojë e dhunës",
@@ -122,7 +133,7 @@
       "date": "2026-10-27T22:33:02+00:00",
       "dateStr": "27 Oct, 22:33",
       "isNew": true,
-      "id": "abc01793140382"
+      "id": "abc11793140382"
     },
     {
       "title": "Lavrov paralajmëron për përshkallëzim të konfliktit Rusi-Ukrainë",
@@ -133,7 +144,7 @@
       "date": "2026-10-27T22:07:31+00:00",
       "dateStr": "27 Oct, 22:07",
       "isNew": true,
-      "id": "abc11793138851"
+      "id": "abc21793138851"
     },
     {
       "title": "“Emigracioni, vite të humbura”/ Agronomi 70-vjeçar u kthye nga Greqia dhe investoi kursimet në bujqësi",
@@ -144,7 +155,7 @@
       "date": "2026-10-27T21:55:11+00:00",
       "dateStr": "27 Oct, 21:55",
       "isNew": true,
-      "id": "abc21793138111"
+      "id": "abc31793138111"
     },
     {
       "title": "Faktoje.al merr rreth 1 milion euro financime dhe…. blen dy apartamente që duan rikonstruksion",
@@ -155,7 +166,7 @@
       "date": "2026-10-27T21:25:30+00:00",
       "dateStr": "27 Oct, 21:25",
       "isNew": true,
-      "id": "abc31793136330"
+      "id": "abc41793136330"
     },
     {
       "title": "Raportohet se Flavio Bolsonaro është larguar drejt SHBA-së",
@@ -166,7 +177,7 @@
       "date": "2026-10-27T21:22:45+00:00",
       "dateStr": "27 Oct, 21:22",
       "isNew": true,
-      "id": "abc41793136165"
+      "id": "abc51793136165"
     },
     {
       "title": "“Flamingot e diasporës” që kthejnë xhaketën sipas lejeve të ndërtimit",
@@ -177,7 +188,7 @@
       "date": "2026-10-27T21:16:51+00:00",
       "dateStr": "27 Oct, 21:16",
       "isNew": true,
-      "id": "abc51793135811"
+      "id": "abc61793135811"
     },
     {
       "title": "A po përgatitet Amerika për luftë? Shala: Përgatitjet po bëhen për shkak të zhvillimeve teknologjike",
@@ -188,7 +199,7 @@
       "date": "2026-10-27T20:57:20+00:00",
       "dateStr": "27 Oct, 20:57",
       "isNew": true,
-      "id": "abc61793134640"
+      "id": "abc71793134640"
     },
     {
       "title": "Putin u tha liderëve të Finlandës dhe Norvegjisë se nuk heq dorë nga pushtimi i gjithë Donbasit",
@@ -199,7 +210,7 @@
       "date": "2026-10-27T20:40:21+00:00",
       "dateStr": "27 Oct, 20:40",
       "isNew": true,
-      "id": "abc71793133621"
+      "id": "abc81793133621"
     },
     {
       "title": "Eksperti Krisafi: Izraeli mund të shkojë drejt zgjedhjeve të reja, as Netanyahu dhe as opozita nuk sigurojnë shumicën",
@@ -210,18 +221,7 @@
       "date": "2026-10-27T20:38:42+00:00",
       "dateStr": "27 Oct, 20:38",
       "isNew": true,
-      "id": "abc81793133522"
-    },
-    {
-      "title": "Exit pollët në Izrael vendosin fitues bllokun e Eisenkotit, por pa shumicën për qeverisje",
-      "link": "https://abcnews.al/exit-pollet-ne-izrael-vendosin-fitues-bllokun-e-eisenkotit-por-pa-shumicen-per-qeverisje/",
-      "description": "Rezultatet e exit pollëve të transmetuesve kryesorë izraelitë tregojnë se blloku i udhëhequr nga Gadi Eisenkot ka dalë grupimi më i madh në zgjedhjet parlamentare në Izrael, por pa arritur shumicën e nevojshme për të qeverisur i vetëm. Si parti e vetme, Likudi i kryeministrit Benjamin Netanyahu prit",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-10-27T20:22:59+00:00",
-      "dateStr": "27 Oct, 20:22",
-      "isNew": true,
-      "id": "abc91793132579"
+      "id": "abc91793133522"
     },
     {
       "title": "Në Mardin të Turqisë nis edicioni i katërt i Festivalit Ndërkombëtar të Filmit “Mardin Film Festivali Telkari Odulleri”",
