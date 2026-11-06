@@ -1,117 +1,161 @@
 {
-  "lastUpdated": "2026-11-06T00:40:57.771866+00:00",
+  "lastUpdated": "2026-11-06T07:35:57.427055+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Nike x Melitta Baumeister: kapsula e plotë dhe atleti i ri Rift Rocker dalin më 5 nëntor",
-      "link": "https://24-ore.com/nike-x-melitta-baumeister-kapsula-e-plote-dhe-atleti-i-ri-rift-rocker-dalin-me-5-nentor/",
-      "description": "Xhaketa puffer e kthyeshme me mbajtëse çante në formë bananeje, xhaketë sportive me balluke të heqshme dhe çorape tabi; Rift Rocker kushton 220 dollarë, ndërsa shpërndarja e gjerë nis më 12 nëntor",
+      "title": "Mali i Zi nga 1 dhjetori nis vlerësimin e unifikuar të aftësisë së kufizuar, trajnohen ekspertët e parë",
+      "link": "https://24-ore.com/mali-i-zi-nga-1-dhjetori-nis-vleresimin-e-unifikuar-te-aftesise-se-kufizuar-trajnohen-ekspertet-e-pare/",
+      "description": "Instituti për Vlerësimin e Unifikuar të Aftësisë së Kufizuar ka nisur trajnimin e ekspertëve të ardhshëm; në thirrjen publike u paraqitën mbi 150 kandidatë, mes tyre mbi 60 mjekë të specialiteteve të ndryshme.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-06T00:40:17+00:00",
-      "dateStr": "06 Nov, 00:40",
+      "date": "2026-11-06T07:26:10+00:00",
+      "dateStr": "06 Nov, 07:26",
       "isNew": true,
-      "id": "24 01793925617"
+      "id": "24 01793949970"
     },
     {
-      "title": "Pierpaolo Piccioli largohet nga Balenciaga pas pak më shumë se një viti si drejtor kreativ",
-      "link": "https://24-ore.com/pierpaolo-piccioli-largohet-nga-balenciaga-pas-pak-me-shume-se-nje-viti-si-drejtor-kreativ/",
-      "description": "Kering njoftoi të enjten largimin; pasardhësi nuk është emëruar ende, ndërsa drejtimi i ri kreativ i shtëpisë do të shpallet së shpejti",
+      "title": "Koreja e Jugut heq për tre muaj kërkesat e kolateralit për kreditë me marzh, për të ndalur shitjet e detyruara",
+      "link": "https://24-ore.com/koreja-e-jugut-heq-per-tre-muaj-kerkesat-e-kolateralit-per-kredite-me-marzh-per-te-ndalur-shitjet-e-detyruara/",
+      "description": "Koreja e Jugut lëvizi të premten për të frenuar shitjet e detyruara në bursë, pasi rënia e Wall Street pas zgjedhjeve të mesmandatit goditi tregjet aziatike. Sipas Korea JoongAng Daily, autoritetet ranë dakord të heqin për tre muaj, duke nisur nga e hëna, kërkesat e ruajtjes së kolateralit për kredi",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-06T00:35:14+00:00",
-      "dateStr": "06 Nov, 00:35",
+      "date": "2026-11-06T07:25:09+00:00",
+      "dateStr": "06 Nov, 07:25",
       "isNew": true,
-      "id": "24 11793925314"
+      "id": "24 11793949909"
     },
     {
-      "title": "Zac Affleck thyen heshtjen pas kërkesës për divorc të Jen: do të jem gjithmonë mbështetësi i saj",
-      "link": "https://24-ore.com/zac-affleck-thyen-heshtjen-pas-kerkeses-per-divorc-te-jen-do-te-jem-gjithmone-mbeshtetesi-i-saj/",
-      "description": "Deklarata e parë e Zac, 30 vjeç, vjen dy ditë pas kërkesës së Jen Affleck, shtatzënë me fëmijën e katërt; të dy thonë se fokusi mbeten fëmijët dhe foshnja që pritet",
+      "title": "Nikkei mbyll ditën me rënie 6 për qind dhe hyn në treg ariu, KOSPI mbyllet me -6,02 për qind pas ndalimit të tregtimit",
+      "link": "https://24-ore.com/nikkei-mbyll-diten-me-renie-6-per-qind-dhe-hyn-ne-treg-ariu-kospi-mbyllet-me-602-per-qind-pas-ndalimit-te-tregtimit/",
+      "description": "Tregjet aziatike e mbyllën të premten me humbje të thella, ndërsa shitja e aksioneve të teknologjisë në Wall Street u përhap në të gjithë rajonin. Sipas The Wall Street Journal, indeksi Nikkei i Japonisë e mbylli ditën me rënie 6,0 për qind, në 57.434,77 pikë — rënia më e madhe në përqindje që nga p",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-06T00:27:26+00:00",
-      "dateStr": "06 Nov, 00:27",
+      "date": "2026-11-06T07:19:27+00:00",
+      "dateStr": "06 Nov, 07:19",
       "isNew": true,
-      "id": "24 21793924846"
+      "id": "24 21793949567"
     },
     {
-      "title": "Karissa Shannon shtatzënë dhe e fejuar: djali do të quhet Genesis dhe do ta rris ndryshe nga Hugh Hefner",
-      "link": "https://24-ore.com/karissa-shannon-shtatzene-dhe-e-fejuar-djali-do-te-quhet-genesis-dhe-do-ta-rris-ndryshe-nga-hugh-hefner/",
-      "description": "Ish-ylli i Playboy, 37 vjeçe, rrëfeu për Page Six propozimin përrallor në Detroit dhe vendimin për ta mbajtur identitetin e të fejuarit privat",
-      "source": "24 ORE",
+      "title": "I infektuar me Ebola, punonjësi britanik i kujdesit shëndetësor evakuohet nga Kongo në Britani",
+      "link": "https://abcnews.al/i-infektuar-me-ebola-punonjesi-britanik-i-kujdesit-shendetesor-evakuohet-nga-kongo-ne-britani/",
+      "description": "Një punonjës britanik i kujdesit shëndetësor i prekur nga Ebola u evakua nga Republika Demokratike e Kongos në Mbretërinë e Bashkuar për trajtim mjekësor. “Një shtetas britanik që ndodhet aktualisht në Republikën Demokratike të Kongos ka rezultuar pozitiv për Ebolën ”, tha një zëdhënës i qeverisë së",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-11-06T00:21:49+00:00",
-      "dateStr": "06 Nov, 00:21",
+      "date": "2026-11-06T07:10:53+00:00",
+      "dateStr": "06 Nov, 07:10",
       "isNew": true,
-      "id": "24 31793924509"
+      "id": "abc01793949053"
     },
     {
-      "title": "Nicholas Hoult dhe Bryana Holly prindër të katër fëmijëve: binjakët u zbuluan nga kolegu Pete Davidson",
-      "link": "https://24-ore.com/nicholas-hoult-dhe-bryana-holly-prinder-te-kater-femijeve-binjaket-u-zbuluan-nga-kolegu-pete-davidson/",
-      "description": "Davidson e quajti Hoult “baba i katër fëmijëve” në një intervistë për Entertainment Tonight dhe aktori u përgjigj shkurt “po”; përfaqësuesit nuk iu përgjigjën ende kërkesës së People për koment",
+      "title": "Programi i Rrjetit të Muzeve, 10 objekte prioritare me ndërhyrje gjatë vitit 2027",
+      "link": "https://24-ore.com/programi-i-rrjetit-te-muzeve-10-objekte-prioritare-me-nderhyrje-gjate-vitit-2027/",
+      "description": "Programi i Rrjetit të Muzeve, i nisur këtë vit si nismë bashkëpunimi ndërmjet Ministrisë së Turizmit, Kulturës dhe Sportit dhe ministrisë përgjegjëse për Pushtetin Vendor, synon krijimin e një rrjeti të integruar muzeor në Shqipëri, përmes restaurimit, rikonstruksionit, rijetësimit dhe muzealizimit ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-06T00:16:37+00:00",
-      "dateStr": "06 Nov, 00:16",
+      "date": "2026-11-06T07:02:37+00:00",
+      "dateStr": "06 Nov, 07:02",
       "isNew": true,
-      "id": "24 41793924197"
+      "id": "24 31793948557"
     },
     {
-      "title": "E vetmja çift i sezonit 11 të “Love Is Blind” që u martua, Sarah Williams dhe John Shannon drejt divorcit",
-      "link": "https://24-ore.com/e-vetmja-cift-i-sezonit-11-te-love-is-blind-qe-u-martua-sarah-williams-dhe-john-shannon-drejt-divorcit/",
-      "description": "Finalja e dasmës u transmetua më 4 nëntor në Netflix, por dokumentet e gjykatës tregojnë se Sarah kërkoi divorcin që më 4 qershor, pas ndarjes në prill",
+      "title": "AGJENDA NDËRKOMBËTARE 06.11.2026",
+      "link": "https://24-ore.com/agjenda-nderkombetare-06-11-2026/",
+      "description": "MONTEVIDEO (Uruguaj) – Papa Leone XIV viziton Uruguajin. ZELANDA E RE – Zgjedhje parlamentare. SAN FRANCISCO (Shtetet e Bashkuara) – Mikrofon i fshehur në OpenAI: I dyshuari saudit bën një paraqitje tjetër në gjykatë. ATLANTA (Shtetet e Bashkuara) – Dy panda gjigante të dërguara nga Kina shfaqen në ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-06T00:11:52+00:00",
-      "dateStr": "06 Nov, 00:11",
+      "date": "2026-11-06T07:00:32+00:00",
+      "dateStr": "06 Nov, 07:00",
       "isNew": true,
-      "id": "24 51793923912"
+      "id": "24 41793948432"
     },
     {
-      "title": "Gulab Jamun indiane — topthat e butë të qumështit në sherbet me trëndafil dhe kardamom",
-      "link": "https://24-ore.com/gulab-jamun-indiane-topthat-e-bute-te-qumeshtit-ne-sherbet-me-trendafil-dhe-kardamom/",
-      "description": "Ëmbëlsira më e dashur e Indisë: toptha të artë e të butë qumështi, të skuqur ngadalë dhe të zhytur në sherbet aromatik me ujë trëndafili, kardamom dhe shafran.",
+      "title": "SHBA – Trump: Preferojmë marrëveshjen, por mund të detyrohemi të shkatërrojmë pjesën tjetër të Iranit",
+      "link": "https://24-ore.com/shba-trump-preferojme-marreveshjen-por-mund-te-detyrohemi-te-shkaterrojme-pjesen-tjeter-te-iranit/",
+      "description": "UASHINGTON, 6 nëntor /ATSH – ANSA/ – Presidenti amerikan, Donald Trump, ka përsëritur se së shpejti do të marrë një vendim lidhur me situatën në Iran, duke lënë të hapur mundësinë e vijimit të negociatave ose të një ndërhyrjeje të mëtejshme ushtarake. “Duam të shkojmë më tej dhe të mjaftohemi me cer",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-05T23:53:18+00:00",
-      "dateStr": "05 Nov, 23:53",
+      "date": "2026-11-06T07:00:15+00:00",
+      "dateStr": "06 Nov, 07:00",
       "isNew": true,
-      "id": "24 61793922798"
+      "id": "24 51793948415"
     },
     {
-      "title": "Zelensky për TSN: Ukraina duhet të përshtatet me realitetet e reja politike në SHBA, çështja Patriot është prioriteti numër një",
-      "link": "https://24-ore.com/zelensky-per-tsn-ukraina-duhet-te-pershtatet-me-realitetet-e-reja-politike-ne-shba-ceshtja-patriot-eshte-prioriteti-numer-nje/",
-      "description": "Presidenti i Ukrainës, Volodymyr Zelensky, ka deklaruar se Ukraina duhet të përshtatet me realitetet e reja politike në Shtetet e Bashkuara për të ndërtuar dialogun dhe për të siguruar më shumë ndihmë të huaj dhe mbrojtje më të fortë ajrore kundër sulmeve ruse, siç njofton Reuters. Deklarata u bë në",
+      "title": "Sulm me bombola gazi në hyrjen e një pallati në Ampelokipoi të Athinës, vetëm dëme materiale",
+      "link": "https://24-ore.com/sulm-me-bombola-gazi-ne-hyrjen-e-nje-pallati-ne-ampelokipoi-te-athines-vetem-deme-materiale/",
+      "description": "Mekanizmi i improvizuar me dy bombola gazi shpërtheu rreth orës 03:10 të mëngjesit të së premtes në rrugën Giannouli Aitolou, pranë Drejtorisë së Përgjithshme të Policisë së Atikës. Zjarri i vogël u shua nga një banor dhe nuk pati asnjë të lënduar.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-05T23:50:43+00:00",
-      "dateStr": "05 Nov, 23:50",
+      "date": "2026-11-06T06:54:39+00:00",
+      "dateStr": "06 Nov, 06:54",
       "isNew": true,
-      "id": "24 71793922643"
+      "id": "24 61793948079"
     },
     {
-      "title": "Lionsgate publikon trailer-in e parë të «Karōshi»: thriller-i samurai i producentit të «John Wick» del në kinema më 5 shkurt 2027",
-      "link": "https://24-ore.com/lionsgate-publikon-trailer-in-e-pare-te-karoshi-thriller-i-samurai-i-producentit-te-john-wick-del-ne-kinema-me-5-shkurt-2027/",
-      "description": "Thriller-i aksion i Takashi Doscher, i vendosur në një Manhattan të së ardhmes së afërt ku besnikëria ndaj kompanisë është kthyer në kod samurai, sjell në ekran Teo Yoo, Giancarlo Esposito dhe Cynthia Erivo. Data e daljes u zhvendos nga 29 janari në 5 shkurt 2027.",
-      "source": "24 ORE",
+      "title": "Rama fton sërish studentët në dialog, sofra e gurtë qëndron para Kryeministrisë",
+      "link": "https://abcnews.al/rama-fton-serish-studentet-ne-dialog-sofra-e-gurte-qendron-para-kryeministrise/",
+      "description": "Kryeministri Edi Rama ka përsëritur ftesën e dialogut për studentët dhe pedagogët edhe këtë të premte. Sofra e gurtë dhe mbi të letrat, me mbishkrimin “dialog”, qëndrojnë para godinës së Kryeministrisë. “Mirëmëngjes”, shkruan Rama. Rama ka deklaruar vazhdimisht se mbetet i gatshëm të ulet në tryezën",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-11-05T23:48:30+00:00",
-      "dateStr": "05 Nov, 23:48",
+      "date": "2026-11-06T06:50:46+00:00",
+      "dateStr": "06 Nov, 06:50",
       "isNew": true,
-      "id": "24 81793922510"
+      "id": "abc11793947846"
     },
     {
-      "title": "Një 64-vjeçar vdiq pas një përleshjeje në qendër të Kollashinit, i biri u plagos",
-      "link": "https://24-ore.com/nje-64-vjecar-vdiq-pas-nje-perleshjeje-ne-qender-te-kollashinit-i-biri-u-plagos/",
-      "description": "Policia njoftoi se burri u gjet pa ndjenja në rrugën 13 Korriku dhe ndërroi jetë në Emergjencën e Kollashinit; shkaku i vdekjes do të përcaktohet pas autopsisë",
+      "title": "Zjarr në një objekt industrial në Afipsky pas sulmit me dronë, kanalet e monitorimit raportojnë goditjen e rafinerisë",
+      "link": "https://24-ore.com/zjarr-ne-nje-objekt-industrial-ne-afipsky-pas-sulmit-me-drone-kanalet-e-monitorimit-raportojne-goditjen-e-rafinerise/",
+      "description": "Një zjarr shpërtheu të premten në një objekt industrial në qytetin Afipsky, në rajonin jugor rus të Krasnodarit, pas një sulmi me dronë, njoftoi shërbimi lokal i emergjencave në Telegram, pa dhënë detaje të tjera. Afipsky është vendndodhja e rafinerisë së naftës Afipsky, raporton Reuters. Sipas The ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-05T23:46:48+00:00",
-      "dateStr": "05 Nov, 23:46",
+      "date": "2026-11-06T06:48:39+00:00",
+      "dateStr": "06 Nov, 06:48",
       "isNew": true,
-      "id": "24 91793922408"
+      "id": "24 71793947719"
+    },
+    {
+      "title": "FOKUS – TTW: 1,14 miliardë euro investime të huaja, Shqipëria zgjeron mundësitë në turizëm dhe ndërtim",
+      "link": "https://24-ore.com/fokus-ttw-114-miliarde-euro-investime-te-huaja-shqiperia-zgjeron-mundesite-ne-turizem-dhe-ndertim/",
+      "description": "– Shqipëria po fiton gjithnjë e më shumë vëmendje si destinacion investimesh në Evropën Juglindore, me rreth 1,14 miliardë euro investime të huaja, shkruan ”Travel and Tour Word” (TTW). Zhvillimet po nxjerrin në pah mundësitë e investimit në sektorët e turizmit, pasurive të paluajtshme, ndërtimit dh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-06T06:46:18+00:00",
+      "dateStr": "06 Nov, 06:46",
+      "isNew": true,
+      "id": "24 81793947578"
+    },
+    {
+      "title": "KOMENT – Pas zgjedhjeve të mesmandati, Kongresi amerikan më femëror dhe më i ri",
+      "link": "https://24-ore.com/koment-pas-zgjedhjeve-te-mesmandati-kongresi-amerikan-me-femeror-dhe-me-i-ri/",
+      "description": "UASHINGTON, 6 nëntor /ATSH-AFP/ – Fitorja dërrmuese e demokratëve në zgjedhjet e mesmandatit të së martës në SHBA do ta ndryshojë në mënyrë dramatike përbërjen e Kongresit, me më shumë gra të zgjedhura, diversitet më të madh dhe një rigjallërim. “Kur arrita në Kongres në vitin 1987, kishte vetëm 12 ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-06T06:46:02+00:00",
+      "dateStr": "06 Nov, 06:46",
+      "isNew": true,
+      "id": "24 91793947562"
+    },
+    {
+      "title": "Trump nënshkruan urdhrin ekzekutiv që u ndalon presidentëve të ardhshëm të ndryshojnë Zyrën Ovale",
+      "link": "https://abcnews.al/trump-nenshkruan-urdhrin-ekzekutiv-qe-u-ndalon-presidenteve-te-ardhshem-te-ndryshojne-zyren-ovale/",
+      "description": "Presidenti i SHBA-së, Donald Trump, ka nënshkruar një urdhër ekzekutiv që sipas tij do t’i ndalojë presidentët e ardhshëm të bëjnë ndryshime të caktuara në Zyrën Ovale të Shtëpisë së Bardhë. Trump, një ish-manjat i pasurive të paluajtshme, ka ndryshuar në mënyrë drastike pamjen e zyrës zyrtare të pr",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-11-06T06:33:00+00:00",
+      "dateStr": "06 Nov, 06:33",
+      "isNew": true,
+      "id": "abc21793946780"
+    },
+    {
+      "title": "Horoskopi 6 nëntor 2026, zbuloni parashikimet e yjeve",
+      "link": "https://abcnews.al/horoskopi-6-nentor-2026-zbuloni-parashikimet-e-yjeve/",
+      "description": "Dashi Do ketë disa debate ne çift gjate kësaj dite dhe mund te keni disa mosmarrëveshje me personin qe keni ne krah. Kujdes me çdo fjale qe do thoni. Beqaret do jene te ndjeshëm ndaj çdo takime dhe ka rrezik qe te hidhen menjëherë ne krahët e dikujt. Gjendja e financave nuk do jete aspak [...]Read M",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-11-06T06:15:18+00:00",
+      "dateStr": "06 Nov, 06:15",
+      "isNew": true,
+      "id": "abc31793945718"
     },
     {
       "title": "“Berisha dhe partitë e vogla duan të pengojnë integrimin”, Frrok Çupi: Shqipëria e kapërceu rrezikun e dhunës",
@@ -122,7 +166,7 @@
       "date": "2026-11-05T22:37:02+00:00",
       "dateStr": "05 Nov, 22:37",
       "isNew": true,
-      "id": "abc01793918222"
+      "id": "abc41793918222"
     },
     {
       "title": "Guvernatori Newsom ndryshon dënimet me vdekje për 548 të burgosur në Kaliforni, i kthen në burgim të përjetshëm pa lirim me kusht",
@@ -133,7 +177,7 @@
       "date": "2026-11-05T21:42:30+00:00",
       "dateStr": "05 Nov, 21:42",
       "isNew": true,
-      "id": "abc11793914950"
+      "id": "abc51793914950"
     },
     {
       "title": "SHBA vendos sanksione të reja ndaj Kubës, në shënjestër 10 subjekte dhe elita drejtuese",
@@ -144,7 +188,7 @@
       "date": "2026-11-05T21:20:50+00:00",
       "dateStr": "05 Nov, 21:20",
       "isNew": true,
-      "id": "abc21793913650"
+      "id": "abc61793913650"
     },
     {
       "title": "A do të pranojë Eisenkot votat arabe për të larguar Netanyahun? Krisafi: Kostoja elektorale për të do jetë e madhe",
@@ -155,7 +199,7 @@
       "date": "2026-11-05T21:00:38+00:00",
       "dateStr": "05 Nov, 21:00",
       "isNew": true,
-      "id": "abc31793912438"
+      "id": "abc71793912438"
     },
     {
       "title": "Polonia arrin në 700 tonë rezerva ari, hyn mes 10 vendeve me rezervat më të mëdha në botë",
@@ -166,7 +210,7 @@
       "date": "2026-11-05T21:00:15+00:00",
       "dateStr": "05 Nov, 21:00",
       "isNew": true,
-      "id": "abc41793912415"
+      "id": "abc81793912415"
     },
     {
       "title": "Partitë arabe gati të “zhysin” Bibin? Gazetari: Qeveria e re do jetë e brishtë, por mund të marrë ‘jetë’ zgjidhja me dy shtete",
@@ -177,51 +221,7 @@
       "date": "2026-11-05T20:47:24+00:00",
       "dateStr": "05 Nov, 20:47",
       "isNew": true,
-      "id": "abc51793911644"
-    },
-    {
-      "title": "Egon Loli: SHBA-të mbeten përgjegjëse për kostot e konflikteve që mund të gjenerojë Izraeli",
-      "link": "https://abcnews.al/egon-loli-shba-te-mbeten-pergjegjese-per-kostot-e-konflikteve-qe-mund-te-gjeneroje-izraeli/",
-      "description": "Gazetari Egon Loli,  në emisionin “War Report” në ABC News ka komentuar marrëdhënien mes Izraelit dhe Shteteve të Bashkuara, duke vënë në dukje përgjegjësinë që Washingtoni mund të mbajë për pasojat e konflikteve të përfshira apo të nxitura nga Izraeli. Sipas Lolit, edhe nëse Izraeli do të shkëputej",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-11-05T20:44:38+00:00",
-      "dateStr": "05 Nov, 20:44",
-      "isNew": true,
-      "id": "abc61793911478"
-    },
-    {
-      "title": "“Destabilizimi i Shqipërisë dështoi”, Meçe: Padroni po vë në lëvizje njerëzit brenda PS-së, kujtuan se u erdhi dita",
-      "link": "https://abcnews.al/destabilizimi-i-shqiperise-deshtoi-mece-padroni-po-ve-ne-levizje-njerezit-brenda-ps-se-kujtuan-se-u-erdhi-dita/",
-      "description": "TIRANË- Analisti Arben Meçe, i ftuar në emisionin “Real Story”, komentoi zhvillimet politike në vend dhe protestat e fundit. Ai theksoi se në kushtet kur plani për destabilizmin e vendit dështoi, tani po përdoret një strategji tjetër politike Sipas Meçes, kjo strategji synon të aktivizojë persona që",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-11-05T20:11:30+00:00",
-      "dateStr": "05 Nov, 20:11",
-      "isNew": true,
-      "id": "abc71793909490"
-    },
-    {
-      "title": "“Qori me linjën marksiste, Lapaj e dinte që ishte dështim”/ Ibsen Elezi: Partitë e reja vazhduan me modelet e vjetra",
-      "link": "https://abcnews.al/qori-me-linjen-marksiste-lapaj-e-dinte-qe-ishte-deshtim-ibsen-elezi-partite-e-reja-vazhduan-me-modelet-e-vjetra/",
-      "description": "Analisti Ibsen Elezi, i ftuar në emisionin “Real Story” në ABC News, ka komentuar lëvizjet e reja politike në Shqipëri, duke u ndalur te Arlind Qori dhe Adriatik Lapaj. Elezi u shpreh se lëvizja e Arlind Qorit paraqet një organizim më serioz politik, por sipas tij, ndërthurja me pikëpamjet marksiste",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-11-05T19:51:52+00:00",
-      "dateStr": "05 Nov, 19:51",
-      "isNew": true,
-      "id": "abc81793908312"
-    },
-    {
-      "title": "Pse flamingot braktisën bulevardin e ndotur – Editoriali nga Sokol Balla",
-      "link": "https://abcnews.al/pse-flamingot-braktisen-bulevardin-e-ndotur-editoriali-nga-sokol-balla/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-11-05T19:46:53+00:00",
-      "dateStr": "05 Nov, 19:46",
-      "isNew": true,
-      "id": "abc91793908013"
+      "id": "abc91793911644"
     },
     {
       "title": "Në Mardin të Turqisë nis edicioni i katërt i Festivalit Ndërkombëtar të Filmit “Mardin Film Festivali Telkari Odulleri”",
