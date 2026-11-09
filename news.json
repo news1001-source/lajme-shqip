@@ -1,18 +1,128 @@
 {
-  "lastUpdated": "2026-11-08T21:36:44.316973+00:00",
+  "lastUpdated": "2026-11-09T01:22:52.467139+00:00",
   "totalSources": 3,
   "totalNews": 30,
   "news": [
     {
-      "title": "Prodhimi pezullohet në fushën e gazit Khor Mor në Irak pas sulmit me dron, goditet depoja e gazit",
-      "link": "https://24-ore.com/prodhimi-pezullohet-ne-fushen-e-gazit-khor-mor-ne-irak-pas-sulmit-me-dron-goditet-depoja-e-gazit/",
-      "description": "Një nga fushat më të mëdha të gazit në rajonin e Kurdistanit ndaloi prodhimin të dielën pasi një dron goditi një depo gazi dhe shkaktoi zjarr; një dron i dytë u lëshua më vonë pa viktima apo dëme, ndërsa presidenti kurd Nechirvan Barzani e dënoi sulmin si terrorist.",
+      "title": "Parashikimi i ESPN: Bauers refuzon ofertën kualifikuese dhe shkon te Diamondbacks për tre vjet e 54 milionë dollarë",
+      "link": "https://24-ore.com/parashikimi-i-espn-bauers-refuzon-oferten-kualifikuese-dhe-shkon-te-diamondbacks-per-tre-vjet-e-54-milione-dollare/",
+      "description": "Sports Illustrated, duke raportuar ESPN, shkruan se Jake Bauers mund të mos kthehet te Milwaukee Brewers. Milwaukee i ka bërë Bauersit ofertën kualifikuese: nëse ai e pranon, do të jetë një marrëveshje njëvjeçare me vlerë 23.15 milionë dollarë, ndërsa afati për vendimin është 17 nëntori. Nëse ai e r",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-08T21:35:48+00:00",
-      "dateStr": "08 Nov, 21:35",
+      "date": "2026-11-09T01:15:55+00:00",
+      "dateStr": "09 Nov, 01:15",
       "isNew": true,
-      "id": "24 01794173748"
+      "id": "24 01794186955"
+    },
+    {
+      "title": "Java 9 në NFL: Stroud hedh pesë touchdown-e për Texans, Chiefs dhe Broncos fitojnë përsëri dhe Saints vendosin në kohën shtesë",
+      "link": "https://24-ore.com/java-9-ne-nfl-stroud-hedh-pese-touchdown-e-per-texans-chiefs-dhe-broncos-fitojne-perseri-dhe-saints-vendosin-ne-kohen-shtese/",
+      "description": "Nëntë finalet e tjera të së dielës: 49ers shkatërrojnë Raiders, Giants befasojnë Eagles në Filadelfia, Cowboys përmbysin Colts në fund dhe Seahawks mbajnë Cardinals pa touchdown",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-09T01:11:53+00:00",
+      "dateStr": "09 Nov, 01:11",
+      "isNew": true,
+      "id": "24 11794186713"
+    },
+    {
+      "title": "Morosi: Gilbert, Kwan, Ryan dhe Alcántara vështirë të shkëmbehen për perspektiva këtë muaj",
+      "link": "https://24-ore.com/morosi-gilbert-kwan-ryan-dhe-alcantara-veshtire-te-shkembehen-per-perspektiva-kete-muaj/",
+      "description": "Pasiguria për sezonin 2027 po e ndryshon tregun: sipas Jon Morosit, lojtarët me një vit kontroll të mbetur mund të shkëmbehen mes tyre, veteran për veteran, për të balancuar rrezikun.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-09T01:09:36+00:00",
+      "dateStr": "09 Nov, 01:09",
+      "isNew": true,
+      "id": "24 21794186576"
+    },
+    {
+      "title": "Kylie Jenner debuton në galanë LACMA me fustanin me shpinë të hapur të Ashi Studio Couture",
+      "link": "https://24-ore.com/kylie-jenner-debuton-ne-galane-lacma-me-fustanin-me-shpine-te-hapur-te-ashi-studio-couture/",
+      "description": "Fustani halter kafe dhe argjend me motiv kafshësh, nga koleksioni Couture vjeshtë 2026, u kombinua me një detaj të madh të qëndisur në shpinë dhe këpucë kafe Jimmy Choo",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-09T01:03:14+00:00",
+      "dateStr": "09 Nov, 01:03",
+      "isNew": true,
+      "id": "24 31794186194"
+    },
+    {
+      "title": "Packers shkatërrojnë Patriots 45-27, Love hedh 372 jarde dhe Watson e Golden kalojnë 160 jarde secili",
+      "link": "https://24-ore.com/packers-shkaterrojne-patriots-45-27-love-hedh-372-jarde-dhe-watson-e-golden-kalojne-160-jarde-secili/",
+      "description": "Green Bay fiton 6-3 në Gillette Stadium me një sulm ajror shpërthyes, ndërsa New England pëson një nga netët më të këqija në shtëpi dhe javën tjetër përballet me Lions në Mynih",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-09T01:01:17+00:00",
+      "dateStr": "09 Nov, 01:01",
+      "isNew": true,
+      "id": "24 41794186077"
+    },
+    {
+      "title": "Tigers vëzhgojnë Teruaki Saton dhe Kaima Tairan nga Japonia, Imanaga rikthehet në radarin e Detroitit",
+      "link": "https://24-ore.com/tigers-vezhgojne-teruaki-saton-dhe-kaima-tairan-nga-japonia-imanaga-rikthehet-ne-radarin-e-detroitit/",
+      "description": "Skautët e Detroitit kanë ndjekur dy talentet e postuara nga NPB-ja, ndërsa hedhësi japonez që i interesoi Tigers në 2023-24 shihet si përshtatja më e pastër financiare për rotacionin.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-09T01:00:09+00:00",
+      "dateStr": "09 Nov, 01:00",
+      "isNew": true,
+      "id": "24 51794186009"
+    },
+    {
+      "title": "Kate Middleton nderon princeshën Diana në Remembrance Sunday me vathët Collingwood prej perlash",
+      "link": "https://24-ore.com/kate-middleton-nderon-princeshen-diana-ne-remembrance-sunday-me-vathet-collingwood-prej-perlash/",
+      "description": "Kate Middleton e ktheu veshjen e saj të së dielës në një homazh diskret për vjehrrën e saj. Siç njofton People, Princesha e Uellsit mori pjesë më 8 nëntor në Shërbimin Kombëtar të Përkujtimit, i njohur si Remembrance Sunday, te memoriali Cenotaph në Londër, bashkë me mbretëreshën Camilla dhe anëtarë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-09T00:58:10+00:00",
+      "dateStr": "09 Nov, 00:58",
+      "isNew": true,
+      "id": "24 61794185890"
+    },
+    {
+      "title": "Brown, Maxey dhe James shënojnë 78 pikë së bashku, 76ers mposhtin Bulls 127-121",
+      "link": "https://24-ore.com/brown-maxey-dhe-james-shenojne-78-pike-se-bashku-76ers-mposhtin-bulls-127-121/",
+      "description": "Philadelphia arrin startin më të mirë në 11 ndeshje që nga sezoni 2000-01, ndërsa Chicago bie në humbjen e shtatë radhazi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-09T00:57:19+00:00",
+      "dateStr": "09 Nov, 00:57",
+      "isNew": true,
+      "id": "24 71794185839"
+    },
+    {
+      "title": "Sofía Vergara mahnit në LACMA me fustanin korse prej dantelle të zezë të Celia Kritharioti-t që krijon iluzion optik",
+      "link": "https://24-ore.com/sofia-vergara-mahnit-ne-lacma-me-fustanin-korse-prej-dantelle-te-zeze-te-celia-kritharioti-t-qe-krijon-iluzion-optik/",
+      "description": "Aktorja zgjodhi një krijim të personalizuar me bazë ngjyrë lëkure nën dantellën lulesh, të kombinuar me vathë diamanti rozë dhe bezhë në formë disqesh të ndërlidhura",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-09T00:52:59+00:00",
+      "dateStr": "09 Nov, 00:52",
+      "isNew": true,
+      "id": "24 81794185579"
+    },
+    {
+      "title": "LACMA Art+Film Gala 2026: më të veshurat e mbrëmjes, nga Jordyn Woods dhe Kim Kardashian me Gucci te Kylie Jenner me Ashi Studio",
+      "link": "https://24-ore.com/lacma-artfilm-gala-2026-me-te-veshurat-e-mbremjes-nga-jordyn-woods-dhe-kim-kardashian-me-gucci-te-kylie-jenner-me-ashi-studio/",
+      "description": "Edicioni i 15-të i galasë në Los Anxhelos, nën kujdesin e Gucci-t, nderoi artisten Vija Celmins dhe regjisorin Denis Villeneuve, ndërsa tapeti i kuq u dominua nga krijimet e shtëpisë italiane",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-09T00:47:46+00:00",
+      "dateStr": "09 Nov, 00:47",
+      "isNew": true,
+      "id": "24 91794185266"
+    },
+    {
+      "title": "Trump: Sulme të reja ndaj Iranit janë “të pamundura”, por SHBA është gati për çdo skenar",
+      "link": "https://abcnews.al/trump-sulme-te-reja-ndaj-iranit-jane-te-pamundura-por-shba-eshte-gati-per-cdo-skenar/",
+      "description": "Presidenti amerikan Donald Trump ka deklaruar se është “jashtëzakonisht e pamundur” që Shtetet e Bashkuara të ndërmarrin sulme të reja ushtarake ndaj Iranit, nëse ka përparim në negociatat për programin bërthamor të Teheranit dhe rihapjen e Ngushticës së Hormuzit. Në një intervistë telefonike 20-min",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-11-08T21:38:39+00:00",
+      "dateStr": "08 Nov, 21:38",
+      "isNew": true,
+      "id": "abc01794173919"
     },
     {
       "title": "“GPS” me Albana Ruçi, (08/11/2026)",
@@ -23,51 +133,7 @@
       "date": "2026-11-08T21:27:21+00:00",
       "dateStr": "08 Nov, 21:27",
       "isNew": true,
-      "id": "abc01794173241"
-    },
-    {
-      "title": "Ora e shqiptarit Rexhep Rexhepi shpallet më e mira e vitit, fiton çmimin prestigjioz “Aiguille d’Or” në Gjenevë",
-      "link": "https://24-ore.com/ora-e-shqiptarit-rexhep-rexhepi-shpallet-me-e-mira-e-vitit-fiton-cmimin-prestigjioz-aiguille-dor-ne-gjeneve/",
-      "description": "Modeli “Chronograph Flyback” i orëbërësit 39-vjeçar u vlerësua me çmimin më të lartë të orëbërjes në Gjenevë; mekanizmi i ri ka 320 komponentë dhe rezervë energjie prej 72 orësh.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-08T21:22:26+00:00",
-      "dateStr": "08 Nov, 21:22",
-      "isNew": true,
-      "id": "24 11794172946"
-    },
-    {
-      "title": "Bruins mundin Panthers 4-1, Swayman bën 40 pritje dhe Boston arrin fitoren e katërt radhazi",
-      "link": "https://24-ore.com/bruins-mundin-panthers-4-1-swayman-ben-40-pritje-dhe-boston-arrin-fitoren-e-katert-radhazi/",
-      "description": "Boston Bruins vazhduan serinë e fitoreve të dielën pasdite në TD Garden, ku mposhtën Florida Panthers 4-1, në një ndeshje që u vendos kryesisht në periodën e parë dhe u vulos nga portieri Jeremy Swayman, sipas raportit live të NESN dhe box score-it të plotë të ndeshjes. Ndeshja nisi me përleshje pas",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-08T21:20:58+00:00",
-      "dateStr": "08 Nov, 21:20",
-      "isNew": true,
-      "id": "24 21794172858"
-    },
-    {
-      "title": "Bengals mundin Falcons 34-17 në Madrid, Chase shkëlqen me 155 jarde dhe Burrow hedh tre touchdown-e",
-      "link": "https://24-ore.com/bengals-mundin-falcons-34-17-ne-madrid-chase-shkelqen-me-155-jarde-dhe-burrow-hedh-tre-touchdown-e/",
-      "description": "Cincinnati Bengals fituan 34-17 ndaj Atlanta Falcons të dielën në stadiumin Bernabéu në Madrid, në ndeshjen ndërkombëtare të Javës 9 të NFL-së. Sipas raportit zyrtar të Bengals pas ndeshjes, kjo është fitorja e parë e Cincinnati-t në një ndeshje të luajtur jashtë Shteteve të Bashkuara dhe e katërta ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-08T21:09:46+00:00",
-      "dateStr": "08 Nov, 21:09",
-      "isNew": true,
-      "id": "24 31794172186"
-    },
-    {
-      "title": "Emilio Pagán vazhdon të japë rezultat: mbyllësi i Reds pritet të firmosë edhe dy vjet për 20 milionë dollarë",
-      "link": "https://24-ore.com/emilio-pagan-vazhdon-te-jape-rezultat-mbyllesi-i-reds-pritet-te-firmose-edhe-dy-vjet-per-20-milione-dollare/",
-      "description": "Hedhësi 35-vjeçar hodhi poshtë opsionin e lojtarit prej 10 milionë dollarësh te Cincinnati; MLB Trade Rumors e rendit numër 35 në listën e lojtarëve të lirë dhe parashikon rikthim te Reds, pavarësisht prirjes për home run.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-08T21:09:31+00:00",
-      "dateStr": "08 Nov, 21:09",
-      "isNew": true,
-      "id": "24 41794172171"
+      "id": "abc11794173241"
     },
     {
       "title": "Lidhje të dyshuara me një spiune kineze/ CEO i gjigantit amerikan “Nvidia” përballet me hetim të brendshëm",
@@ -78,29 +144,7 @@
       "date": "2026-11-08T21:07:32+00:00",
       "dateStr": "08 Nov, 21:07",
       "isNew": true,
-      "id": "abc11794172052"
-    },
-    {
-      "title": "Enis Rexhepi zbarkon në Kosovë: Kam vendosur me zemër",
-      "link": "https://24-ore.com/enis-rexhepi-zbarkon-ne-kosove-kam-vendosur-me-zemer/",
-      "description": "Sulmuesi i Stuttgartit mbërriti në Prishtinë, ku u prit nga presidenti i FFK-së, Agim Ademi, dhe dha deklaratat e para si futbollist i Përfaqësueses së Kosovës.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-08T21:05:19+00:00",
-      "dateStr": "08 Nov, 21:05",
-      "isNew": true,
-      "id": "24 51794171919"
-    },
-    {
-      "title": "Luis Robert Jr. dhe rreziku i bastit mbi potencialin: tre vjet pas shpërthimit, tregu e vlerëson 14 milionë dollarë për një vit",
-      "link": "https://24-ore.com/luis-robert-jr-dhe-rreziku-i-bastit-mbi-potencialin-tre-vjet-pas-shperthimit-tregu-e-vlereson-14-milione-dollare-per-nje-vit/",
-      "description": "Qendërmbrojtësi me pesë vegla shkëlqeu në 2023 me 38 home run, por dëmtimet dhe rënia e kanë ndjekur që atëherë; MLB Trade Rumors e rendit numër 43 në listën e lojtarëve të lirë dhe e parashikon me kontratë njëvjeçare.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-08T21:03:04+00:00",
-      "dateStr": "08 Nov, 21:03",
-      "isNew": true,
-      "id": "24 61794171784"
+      "id": "abc21794172052"
     },
     {
       "title": "Tensionet SHBA-Iran/ Ministri i Jashtëm iranian mesazh Washingtonit: Zgjidhni, negociatat ose luftën",
@@ -111,40 +155,7 @@
       "date": "2026-11-08T21:01:58+00:00",
       "dateStr": "08 Nov, 21:01",
       "isNew": true,
-      "id": "abc21794171718"
-    },
-    {
-      "title": "Lions mundin Dolphins 19-9 në Miami, Bates shënon katër gola fushe dhe Gibbs touchdown-in e vetëm të ndeshjes",
-      "link": "https://24-ore.com/lions-mundin-dolphins-19-9-ne-miami-bates-shenon-kater-gola-fushe-dhe-gibbs-touchdown-in-e-vetem-te-ndeshjes/",
-      "description": "Detroit Lions fituan 19-9 ndaj Miami Dolphins të dielën në Hard Rock Stadium në Miami Gardens, në Javën 9 të NFL-së, duke arritur fitoren e katërt radhazi. Sipas raportimit të Detroit Free Press nga stadiumi, kjo ishte një ndeshje e dominuar nga mbrojtjet dhe goditësit: i vetmi touchdown i gjithë ta",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-08T21:01:19+00:00",
-      "dateStr": "08 Nov, 21:01",
-      "isNew": true,
-      "id": "24 71794171679"
-    },
-    {
-      "title": "Derbi pa fitues në Karaiskakis: Olympiacos dhe PAOK ndahen 1-1, Živković i përgjigjet González-it",
-      "link": "https://24-ore.com/derbi-pa-fitues-ne-karaiskakis-olympiacos-dhe-paok-ndahen-1-1-zivkovic-i-pergjigjet-gonzalez-it/",
-      "description": "Pjesa e parë u mbyll pa gola, ndërsa në të dytën zëvendësuesi Armando González kaloi vendasit në avantazh dy minuta pasi hyri në fushë; kapiteni i PAOK-ut, Andrija Živković, barazoi pas një gabimi të rëndë në mbrojtjen e Olympiacos-it.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-08T21:00:30+00:00",
-      "dateStr": "08 Nov, 21:00",
-      "isNew": true,
-      "id": "24 81794171630"
-    },
-    {
-      "title": "Athinë: vajzë e re gjendet e vdekur brenda një valixheje në Agios Panteleimonas, mister shkaku i vdekjes",
-      "link": "https://24-ore.com/athine-vajze-e-re-gjendet-e-vdekur-brenda-nje-valixheje-ne-agios-panteleimonas-mister-shkaku-i-vdekjes/",
-      "description": "Një kalimtar vuri re erën e rëndë që vinte nga një valixhe e madhe në trotuar dhe njoftoi policinë; brenda saj, e mbështjellë në një qese të zezë, ishte trupi i një vajze të re. Identiteti dhe shkaku i vdekjes mbeten ende mister.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-08T20:59:45+00:00",
-      "dateStr": "08 Nov, 20:59",
-      "isNew": true,
-      "id": "24 91794171585"
+      "id": "abc31794171718"
     },
     {
       "title": "“NewsRoom” me Erneta Shevroja, (08/11/2026)",
@@ -155,7 +166,7 @@
       "date": "2026-11-08T20:55:02+00:00",
       "dateStr": "08 Nov, 20:55",
       "isNew": true,
-      "id": "abc31794171302"
+      "id": "abc41794171302"
     },
     {
       "title": "Tronditëse në Greqi/ Trupi i një burri gjendet në një valixhe në qendër të Athinës",
@@ -166,7 +177,7 @@
       "date": "2026-11-08T20:24:36+00:00",
       "dateStr": "08 Nov, 20:24",
       "isNew": true,
-      "id": "abc41794169476"
+      "id": "abc51794169476"
     },
     {
       "title": "“Gjërat Tona”/ Kur krimi thyen heshtjen. Tre të penduarit dhe 27 ngjarjet kriminale të dosjes “Plumbi i Artë”",
@@ -177,7 +188,7 @@
       "date": "2026-11-08T19:59:17+00:00",
       "dateStr": "08 Nov, 19:59",
       "isNew": true,
-      "id": "abc51794167957"
+      "id": "abc61794167957"
     },
     {
       "title": "Durrës/ Makina përplas për vdekje 81-vjeçarin, shoqërohet në polici drejtuesja",
@@ -188,7 +199,7 @@
       "date": "2026-11-08T19:39:01+00:00",
       "dateStr": "08 Nov, 19:39",
       "isNew": true,
-      "id": "abc61794166741"
+      "id": "abc71794166741"
     },
     {
       "title": "Sulmet ruse në Ukrainë/ Mbi 850 mijë persona pa energji elektrike, Zelensky: Goditën edhe ekipet e shpëtimit",
@@ -199,7 +210,7 @@
       "date": "2026-11-08T19:30:00+00:00",
       "dateStr": "08 Nov, 19:30",
       "isNew": true,
-      "id": "abc71794166200"
+      "id": "abc81794166200"
     },
     {
       "title": "Pas pak “Gjërat Tona”, na ndiqni në ABC News",
@@ -210,18 +221,7 @@
       "date": "2026-11-08T18:52:26+00:00",
       "dateStr": "08 Nov, 18:52",
       "isNew": true,
-      "id": "abc81794163946"
-    },
-    {
-      "title": "Raporti i KE kërkon reformë zgjedhore, Kume: Të mos bëjnë sikur punojnë, duhen ndryshime konkrete në Kodin Zgjedhor",
-      "link": "https://abcnews.al/raporti-i-ke-kerkon-reforme-zgjedhore-kume-te-mos-bejne-sikur-punojne-duhen-ndryshime-konkrete-ne-kodin-zgjedhor/",
-      "description": "Ish-kryetari i Komisionit Qendror të Zgjedhjeve, Kristaq Kume, foli në “Newsroom” në ABC News lidhur me raportin e Komisionit Evropian dhe kërkesën për reformë zgjedhore për zgjedhjet e 9 majit. Kume theksoi se është e nevojshme që institucionet dhe partitë politike të punojnë konkretisht për realiz",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-11-08T18:48:38+00:00",
-      "dateStr": "08 Nov, 18:48",
-      "isNew": true,
-      "id": "abc91794163718"
+      "id": "abc91794163946"
     },
     {
       "title": "Në Mardin të Turqisë nis edicioni i katërt i Festivalit Ndërkombëtar të Filmit “Mardin Film Festivali Telkari Odulleri”",
