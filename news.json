@@ -1,73 +1,271 @@
 {
-  "lastUpdated": "2026-11-22T00:52:38.407280+00:00",
-  "totalSources": 3,
-  "totalNews": 30,
+  "lastUpdated": "2026-11-22T07:41:58.716604+00:00",
+  "totalSources": 4,
+  "totalNews": 40,
   "news": [
     {
-      "title": "Tivari planifikon 39,3 milionë euro investime për vitin 2027, shumica e bartur nga vitet e kaluara",
-      "link": "https://24-ore.com/tivari-planifikon-393-milione-euro-investime-per-vitin-2027-shumica-e-bartur-nga-vitet-e-kaluara/",
-      "description": "Nga pishina olimpike dhe garazhi \"Topolica IV\" te teleferiku drejt Rumisë e Liqenit të Shkodrës — gjysma e parave për rrugët shkon për projektin Maljevik, ndërsa 27 milionë euro janë mjete të bartura nga periudha e kaluar.",
-      "source": "24 ORE",
+      "title": "Ish-i dashuri ushtroi dhunë dhe e kërcënoi me jetë një grua dhe familjen e saj një në Prishtinë, ndodhet në arrati",
+      "link": "https://www.gazetaexpress.com/ish-i-dashuri-ushtroi-dhune-dhe-e-kercenoi-me-jete-nje-grua-dhe-familjen-e-saj-nje-ne-prishtine-ndodhet-ne-arrati/",
+      "description": "Një grua ka raportuar se është viktimë e dhunës fizike dhe psikike nga ish-i dashuri i saj, i cili dyshohet se e ka kërcënuar edhe me jetë atë dhe familjen e saj.\n\n\nRasti ka ndodhur në Prishtinë, ndërsa sipas raportit 24-orësh të Policisë së Kosovës, i dyshuari nuk është takuar nga organet e rendit ",
+      "source": "Gazeta Express",
       "category": "politike",
-      "date": "2026-11-22T00:51:59+00:00",
-      "dateStr": "22 Nov, 00:51",
+      "date": "2026-11-22T07:37:50+00:00",
+      "dateStr": "22 Nov, 07:37",
       "isNew": true,
-      "id": "24 01795308719"
+      "id": "gaz01795333070"
     },
     {
-      "title": "Veliaj shkarkon kryeinspektorin e IMT-së dhe drejtoreshën e Kopshteve dhe Çerdheve",
-      "link": "https://24-ore.com/veliaj-shkarkon-kryeinspektorin-e-imt-se-dhe-drejtoreshen-e-kopshteve-dhe-cerdheve/",
-      "description": "Kryebashkiaku i Tiranës, Erion Veliaj, ka firmosur nga qelia, ku ndodhet në paraburgim, shkarkimin nga detyra të kryeinspektorit të Inspektoratit të Mbrojtjes së Territorit në Bashkinë e Tiranës, Rigers Sheqerit, si dhe të drejtoreshës së Përgjithshme të Kopshteve dhe Çerdheve të Tiranës, Zhaneta Be",
+      "title": "Dita e Alfabetit Shqip, 118 vjet nga Kongresi i Manastirit",
+      "link": "https://24-ore.com/dita-e-alfabetit-shqip-118-vjet-nga-kongresi-i-manastirit/",
+      "description": "22 nëntori është Dita e Alfabetit Shqip, një nga datat më të rëndësishme në historinë kombëtare. Dita e Alfabetit Shqip nderon Kongresin e Manastirit, i cili u mbajt 118 vjet më parë, duke hedhur themelet e alfabetit të njësuar të gjuhës shqipe. Kongresi i Manastirit u zhvillua nga 14 deri më 22 nën",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-21T23:23:04+00:00",
-      "dateStr": "21 Nov, 23:23",
+      "date": "2026-11-22T07:31:27+00:00",
+      "dateStr": "22 Nov, 07:31",
       "isNew": true,
-      "id": "24 11795303384"
+      "id": "24 01795332687"
     },
     {
-      "title": "Nora Malaj zbulon këshillën që i ka dhënë kryeministrit Edi Rama",
-      "link": "https://24-ore.com/nora-malaj-zbulon-keshillen-qe-i-ka-dhene-kryeministrit-edi-rama/",
-      "description": "Ish-zëvendësministrja e Arsimit, Nora Malaj, e ftuar në emisionin “Review” me Greta Topjanën, ku po komentonte situatën politike në vend, tregoi edhe këshillën që i ka dhënë kryeministrit Edi Rama. Malaj tha se i ka kërkuar kryeministrit të tregojë më shumë empati dhe ta shohë realitetin përmes syve",
+      "title": "FOKUS – IA identifikon Alzheimerin deri në 20 vite përpara shfaqjes së simptomave",
+      "link": "https://24-ore.com/fokus-ia-identifikon-alzheimerin-deri-ne-20-vite-perpara-shfaqjes-se-simptomave/",
+      "description": "TEL AVIV, 22 nntor /ATSH-TPS/ – Një model i ri i inteligjencës artificiale, i zhvilluar nga studiues izraelitë, mund të identifikojë personat me rrezik të shtuar për zhvillimin e sëmundjes së Alzheimerit shumë vite përpara shfaqjes së simptomave. Teknologjia është bërë e vlefshme përmes analizimit t",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-21T23:22:54+00:00",
-      "dateStr": "21 Nov, 23:22",
+      "date": "2026-11-22T07:30:12+00:00",
+      "dateStr": "22 Nov, 07:30",
       "isNew": true,
-      "id": "24 21795303374"
+      "id": "24 11795332612"
     },
     {
-      "title": "Studimi: Përdorimi i telefonit nga prindërit lidhet me vonesat në të folur te fëmijët",
-      "link": "https://24-ore.com/studimi-perdorimi-i-telefonit-nga-prinderit-lidhet-me-vonesat-ne-te-folur-te-femijet/",
-      "description": "Përdorimi i telefonit celular nga prindërit jashtë orarit të punës mund të ndikojë negativisht në zhvillimin e të folurit te fëmijët parashkollorë. Ky është përfundimi i një studimi të kryer nga studiues portugezë, të cilët kanë analizuar marrëdhënien mes zakoneve digjitale të familjes dhe zhvillimi",
+      "title": "Roli i lolos së oborrit",
+      "link": "https://24-ore.com/roli-i-lolos-se-oborrit/",
+      "description": "Gjunjëzime, puthje duarsh, përqafime të papritura dhe teatralitet diplomatik. Këto janë disa nga pamjet që kanë shoqëruar daljet publike të Edi Ramës në takimet ndërkombëtare, duke ngritur një çështje që shkon përtej shijeve personale dhe stilit individual: ku mbaron spontaniteti i një politikani dh",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-21T23:22:42+00:00",
-      "dateStr": "21 Nov, 23:22",
+      "date": "2026-11-22T07:29:32+00:00",
+      "dateStr": "22 Nov, 07:29",
       "isNew": true,
-      "id": "24 31795303362"
+      "id": "24 21795332572"
     },
     {
-      "title": "Nga LVV e PDK, te LDK e AAK, solidaritet ndërpartiak për Jakup Krasniqin",
-      "link": "https://24-ore.com/nga-lvv-e-pdk-te-ldk-e-aak-solidaritet-nderpartiak-per-jakup-krasniqin/",
-      "description": "Vizita e Jakup Krasniqit në Kosovë përfundoi, deputetët nga të gjitha partitë shprehin solidaritet me familjen. Është përmbyllur vizita katërditore e ish-kryetarit të Kuvendit të Kosovës, Jakup Krasniqi, në Kosovë, i cili do të kthehet në Hagë, ku po mbahet në paraburgim në kuadër të procesit gjyqës",
+      "title": "Reshje shiu dhe vranësira në Kosovë, temperaturat deri në 14 gradë",
+      "link": "https://24-ore.com/reshje-shiu-dhe-vranesira-ne-kosove-temperaturat-deri-ne-14-grade/",
+      "description": "Kosova sot do të karakterizohet nga mot kryesisht i vranët, me reshje të herëpashershme shiu, ndërsa në disa zona priten edhe intervale me diell. Sipas Institutit Hidrometeorologjik të Kosovës, temperaturat minimale do të lëvizin nga 1 deri në 4 gradë Celsius, ndërsa ato maksimale do të arrijnë nga ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-21T23:13:17+00:00",
-      "dateStr": "21 Nov, 23:13",
+      "date": "2026-11-22T07:22:13+00:00",
+      "dateStr": "22 Nov, 07:22",
       "isNew": true,
-      "id": "24 41795302797"
+      "id": "24 31795332133"
     },
     {
-      "title": "Dogana zbulon 150 fishekë të padeklaruar në Merdare",
-      "link": "https://24-ore.com/dogana-zbulon-150-fisheke-te-padeklaruar-ne-merdare/",
-      "description": "Dogana e Kosovës ka zbuluar 150 fishekë për gjueti të padeklaruar në pikën kufitare në Merdare. Sipas njoftimit të Doganës, fishekët ishin fshehur në pjesën e poshtme të valixhes së vozitësit të një automjeti. Zbulimi u bë gjatë një kontrolli të përbashkët të zyrtarëve doganorë, Njësisë së Antikontr",
+      "title": "Ekonomistët: Inflacioni prej 7.1% po rëndon jetën e qytetarëve, institucionet të ndërmarrin masa për uljen e çmimeve",
+      "link": "https://www.gazetaexpress.com/ekonomistet-inflacioni-prej-7-1-po-rendon-jeten-e-qytetareve-institucionet-te-ndermarrin-masa-per-uljen-e-cmimeve/",
+      "description": "Ekspertët ekonomikë kanë vlerësuar se inflacioni prej 7.1 për qind në Kosovë po rëndon veçanërisht qytetarët me të ardhura të ulëta, duke kërkuar nga institucionet ndërmarrjen e masave për zbutjen e ndikimit të tij në jetesën e qytetarëve dhe në ekonominë e vendit.\n\n\nAta kanë identifikuar varësinë e",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T07:20:14+00:00",
+      "dateStr": "22 Nov, 07:20",
+      "isNew": true,
+      "id": "gaz11795332014"
+    },
+    {
+      "title": "Dita e Alfabetit/ Rama uron shqiptarët: Nën hijeshinë e shkronjave jeton kujtesa e kombit tonë",
+      "link": "https://abcnews.al/dita-e-alfabetit-rama-uron-shqiptaret-nen-hijeshine-e-shkronjave-jeton-kujtesa-e-kombit-tone/",
+      "description": "Kryeministri i Shqipërisë, Edi Rama, ka përcjellë një mesazh urimi me rastin e Ditës së Alfabetit të Gjuhës Shqipe, duke vënë në pah rëndësinë e shkronjave shqipe në ruajtjen e identitetit, historisë dhe kujtesës sonë kombëtare. Përmes një postimi, Rama ka zgjedhur fjalë simbolike për të përshëndetu",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-11-22T07:20:01+00:00",
+      "dateStr": "22 Nov, 07:20",
+      "isNew": true,
+      "id": "abc01795332001"
+    },
+    {
+      "title": "Partizani lojën, Vllaznia golin: vendos Balaj",
+      "link": "https://24-ore.com/partizani-lojen-vllaznia-golin-vendos-balaj/",
+      "description": "Vllaznia shtang Partizanin në “Air Albania” duke i rrëmbyer një fitore 1-0 në javën e 12-të të “Abissnet Superiore” në një ndeshje që erdhi për shikuesit në ekranin e RTSH(RTSH1 DHE RTSH Sport. Të kuqtë u shfaqën më kërkues në këtë sfidë, krijuan volum loje dhe arritën të gjejnë rrugën e rrjetës në ",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-21T23:13:01+00:00",
-      "dateStr": "21 Nov, 23:13",
+      "date": "2026-11-22T07:17:55+00:00",
+      "dateStr": "22 Nov, 07:17",
       "isNew": true,
-      "id": "24 51795302781"
+      "id": "24 41795331875"
+    },
+    {
+      "title": "Vllaznia, trajneri Laszlo: I lumtur për mënyrën si fituam",
+      "link": "https://24-ore.com/vllaznia-trajneri-laszlo-i-lumtur-per-menyren-si-fituam/",
+      "description": "Trajneri i Vllaznisë, Csaba Laszlo ka komentuar për “Super Gol” fitoren 1-0 të arritur në “Air Albania” përballë Partizanit në javën e 12-të të “Abissnet Superiore”. “Jam i lumtur për mënyrën se si e fituam këtë ndeshje, kishte një shpirt të ekipit, por edhe mjaft punë. Bëmë disa gabime, por në përg",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-22T07:17:41+00:00",
+      "dateStr": "22 Nov, 07:17",
+      "isNew": true,
+      "id": "24 51795331861"
+    },
+    {
+      "title": "Partizani, trajneri Karoglan: Krijuam shumë raste, por…",
+      "link": "https://24-ore.com/partizani-trajneri-karoglan-krijuam-shume-raste-por/",
+      "description": "Trajneri i Partizanit, Mislav Karoglan ka komentuar për “Super Gol” humbjen 1-0 të pësuar përballë Vllaznisë në javën e 12-të të “Abissnet Superiore”. “Ishte një rezultat i vështirë për ne. Që nga minuta e parë donim të dominonim lojën. Nuk arritëm të gjenim golin, të gjenim vendosmërinë, atë zjarri",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-22T07:17:25+00:00",
+      "dateStr": "22 Nov, 07:17",
+      "isNew": true,
+      "id": "24 61795331845"
+    },
+    {
+      "title": "Arsenali e City barazojnë, Chelsea bie në shtëpi",
+      "link": "https://24-ore.com/arsenali-e-city-barazojne-chelsea-bie-ne-shtepi/",
+      "description": "Në raundin e 11-të të Premier Ligës, Arsenali dështoi të përfitonte nga barazimi 1-1 i Cityt në shtëpi kundër Fulhamit. “Topçinjtë”, që kaluan fillimisht në avantazh në fushën e Neëcastle, pësuan më pas dy gola, në fund gjithçka u mbyll në një barazim 2-2. Të dielën, Brighton i vendit të dytë, kundë",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-22T07:16:54+00:00",
+      "dateStr": "22 Nov, 07:16",
+      "isNew": true,
+      "id": "24 71795331814"
+    },
+    {
+      "title": "Mbappé humb penallti, Reali përmbys Celta-n",
+      "link": "https://24-ore.com/mbappe-humb-penallti-reali-permbys-celta-n/",
+      "description": "Ndërsa ylli Kylian Mbappé humbi një penallti, sulmuesi i ri Carlos Espí shpëtoi Real Madridin edhe një herë, duke siguruar një fitore 2-1 në fund kundër një Celta Vigo të shkëlqyer. Në Bernabeu, vizitorët kaluan në epërsi me anë të Duran në minutën e gjashtë të pjesës së parë, duke e detyruar ekipin",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-22T07:16:44+00:00",
+      "dateStr": "22 Nov, 07:16",
+      "isNew": true,
+      "id": "24 81795331804"
+    },
+    {
+      "title": "Kapen 150 fishekë të gjuetisë në Merdare, shoferi dhe pasagjerët fillimisht thanë se s’kanë asgjë për deklarim – detaje",
+      "link": "https://www.gazetaexpress.com/kapen-150-fisheke-te-gjuetise-ne-merdare-shoferi-dhe-pasagjeret-fillimisht-thane-se-skane-asgje-per-deklarim-detaje/",
+      "description": "Të shtunën Dogana e Kosovës, ka parandaluar futjen e 150 fishekëve për gjueti, të cilët ishin të fshehur në bagazhin e një automjeti në pikën kufitare në Merdare.\n\n\nGjatë procedurave të kontrollit kufitar, zyrtarët doganorë kanë pyetur vozitësin dhe pasagjerët nëse kishin ndonjë mall për të deklarua",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T07:13:47+00:00",
+      "dateStr": "22 Nov, 07:13",
+      "isNew": true,
+      "id": "gaz21795331627"
+    },
+    {
+      "title": "Datë historike për kombin shqiptar/ 22 nëntori, shënohet Dita e Alfabetit të Gjuhës Shqipe",
+      "link": "https://abcnews.al/date-historike-per-kombin-shqiptar-22-nentori-shenohet-dita-e-alfabetit-te-gjuhes-shqipe/",
+      "description": "Këtë të diel, shënohet Dita e Alfabetit të Gjuhës Shqipe, duke përkujtuar Kongresin e Manastirit 1908. Kjo ditë nderon historinë, identitetin dhe pasurinë kulturore të gjuhës shqipe, duke promovuar përdorimin dhe ruajtjen e saj tek brezat e rinj. Çdo vit, më 22 nëntor, Shqipëria dhe komunitetet shqi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-11-22T07:12:51+00:00",
+      "dateStr": "22 Nov, 07:12",
+      "isNew": true,
+      "id": "abc11795331571"
+    },
+    {
+      "title": "Në Llapushnik sot zbulohen bustet e Skënderbeut, Adem Jasharit dhe Pjetër Bogdanit",
+      "link": "https://www.gazetaexpress.com/ne-llapushnik-sot-zbulohen-bustet-e-skenderbeut-adem-jasharit-dhe-pjeter-bogdanit/",
+      "description": "Me rastin e vendosjes së busteve të tri figurave të rëndësishme të historisë kombëtare shqiptare Pjetër Bogdanit, Gjergj Kastriotit – Skënderbeut dhe Adem Jasharit, sot, e diel në Llapushnik të Drenasit do të mbahet një akademi përkujtimore duke filluar nga ora 14:00.\n\n\nNë këtë akademi do të marrin ",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T07:07:38+00:00",
+      "dateStr": "22 Nov, 07:07",
+      "isNew": true,
+      "id": "gaz31795331258"
+    },
+    {
+      "title": "“Ky është vetëm fillimi”, fshati britanik voton për t’u ‘larguar’ nga Mbretëria e Bashkuar",
+      "link": "https://abcnews.al/ky-eshte-vetem-fillimi-fshati-britanik-voton-per-tu-larguar-nga-mbreteria-e-bashkuar/",
+      "description": "Banorët e fshatit Barnham, në Suffolk të Anglisë, kanë votuar me shumicë dërrmuese për t&#8217;u shkëputur nga Mbretëria e Bashkuar, në një referendum simbolik të organizuar si protestë ndaj planeve qeveritare për strehimin e azilkërkuesve në një ish-bazë ushtarake. Nga votat e hedhura, 257 banorë, ",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-11-22T07:03:59+00:00",
+      "dateStr": "22 Nov, 07:03",
+      "isNew": true,
+      "id": "abc21795331039"
+    },
+    {
+      "title": "Durrësi harron tërmetin, ndërhyrjet pa kontroll në pallate rikthejnë rrezikun",
+      "link": "https://24-ore.com/durresi-harron-termetin-nderhyrjet-pa-kontroll-ne-pallate-rikthejne-rrezikun/",
+      "description": "Kryeministri Edi Rama dhe ekspertë izraelitë inspektojnë banesat e dëmtuara në Durrës pas tërmetit të fuqishëm. 9 dhjetor 2019. Foto: Adnan Beci/LSA Nga: Gëzim Kabashi Ndërhyrjet abuzive në dyqanet e kateve të para dhe në apartamentet e pallateve në Durrës kanë rifilluar shumë shpejt pas tërmetit sh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-22T07:00:31+00:00",
+      "dateStr": "22 Nov, 07:00",
+      "isNew": true,
+      "id": "24 91795330831"
+    },
+    {
+      "title": "Wall Street Journal: Kim Jong Un po zgjeron kapacitetet bërthamore të Koresë së Veriut, çfarë zbuluan imazhet satelitore",
+      "link": "https://www.gazetaexpress.com/wall-street-journal-kim-jong-un-po-zgjeron-kapacitetet-berthamore-te-korese-se-veriut-cfare-zbuluan-imazhet-satelitore/",
+      "description": "Ndërsa vëmendja ndërkombëtare është përqendruar te konflikti me Iranin, Koreja e Veriut po zgjeron infrastrukturën e saj bërthamore.\n\n\nImazhet e reja satelitore tregojnë ndërtimin e objekteve shtesë për pasurimin e uraniumit në kompleksin Yongbyon, duke shtuar shqetësimet për rritjen e arsenalit bër",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T06:42:14+00:00",
+      "dateStr": "22 Nov, 06:42",
+      "isNew": true,
+      "id": "gaz41795329734"
+    },
+    {
+      "title": "Kush flet në emër të Evropës në tryezën për paqe në Ukrainë?",
+      "link": "https://abcnews.al/kush-flet-ne-emer-te-evropes-ne-tryezen-per-paqe-ne-ukraine/",
+      "description": "Diplomacia për Ukrainën është në aktivitet të plotë. Krahas takimit mes krerëve të Kinës, SHBA-së dhe Rusisë, Xi Jinping, Donald Trump dhe Vladimir Putin, këtë të enjte (19.11.2026) në Berlin u mblodh edhe i ashtuquajturi Koalicion i të Vullnetshmëve për të diskutuar për përfundimin e luftës agresor",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-11-22T06:40:45+00:00",
+      "dateStr": "22 Nov, 06:40",
+      "isNew": true,
+      "id": "abc31795329645"
+    },
+    {
+      "title": "“Lirinë e kam paguar me vetmi”, Grida Duma: S’ma kupton asnjëherë askush që vuaj",
+      "link": "https://www.gazetaexpress.com/lirine-e-kam-paguar-me-vetmi-grida-duma-sma-kupton-asnjehere-askush-qe-vuaj/",
+      "description": "Grida Duma ka bërë një rrëfim ndryshe në emisionin “Goca dhe Gra” , ku ka folur për anën e saj emocionale dhe jetën e saj jashtë kamerave.\n\n\nE pyetur për pikën e saj të dobët, Duma u shpreh se “ajo është njëkohësisht edhe pika e saj më e fortë, duke pranuar se forca e vazhdueshme e ka larguar nga nj",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T06:34:22+00:00",
+      "dateStr": "22 Nov, 06:34",
+      "isNew": true,
+      "id": "gaz51795329262"
+    },
+    {
+      "title": "Parashikimi i motit/ Si do variojnë temperaturat përgjatë ditës",
+      "link": "https://abcnews.al/parashikimi-i-motit-si-do-variojne-temperaturat-pergjate-dites-158/",
+      "description": "Vendi ynë do të vijojë të jetë nën ndikimin e vlerave të ulëta barike, duke sjellë kushte atmosferike të paqëndrueshme, me vranësira dhe reshje shiu në disa zona. Reshjet më të dendura pritet të përqendrohen sërish në zonat veriore të Shqipërisë.  Në pjesën qendrore dhe jugore të vendit moti do të k",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-11-22T06:15:01+00:00",
+      "dateStr": "22 Nov, 06:15",
+      "isNew": true,
+      "id": "abc41795328101"
+    },
+    {
+      "title": "Horoskopi, çfarë parashikojnë yjet për ju",
+      "link": "https://abcnews.al/horoskopi-cfare-parashikojne-yjet-per-ju-285/",
+      "description": "Dashi Dashi mund të përjetojë një të diel të karakterizuar nga dëshira për të qenë aktiv dhe për të bërë ndryshime. Pas një jave të lodhshme, do të jetë thelbësore të gjeni ekuilibrin mes dëshirës për të vepruar dhe nevojës për të rikuperuar energjitë. Një shëtitje, një takim me miqtë ose një aktivi",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-11-22T06:10:03+00:00",
+      "dateStr": "22 Nov, 06:10",
+      "isNew": true,
+      "id": "abc51795327803"
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 22 nëntor 2026",
+      "link": "https://www.gazetaexpress.com/horoskopi-per-diten-e-sotme-22-nentor-2026/",
+      "description": "Dashi\n\n\nMund të ketë një aspekt të natyrës suaj që e injoroni. Gjithmonë dëshironi të jeni ju ai që ka kontrollin në një marrëdhënie. Do të ishte e denjë ta ndryshoni këtë. Nuk parashikohen zhvillime në aspektin profesionale.\n\n\nDemi\n\n\nMos lejo që emocionet të të mposhtin sot. Nëse mund t’i kontrollo",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T06:06:55+00:00",
+      "dateStr": "22 Nov, 06:06",
+      "isNew": true,
+      "id": "gaz61795327615"
+    },
+    {
+      "title": "Parashikimi i motit për sot",
+      "link": "https://www.gazetaexpress.com/parashikimi-i-motit-per-sot-126/",
+      "description": "Të dielën parashikohet mot me diell dhe vranësira gjatë orëve të mëngjesit, ndërsa në vijim vranësirat pritet të dendësohen, duke sjellë reshje lokale shiu gjatë pasdites dhe mbrëmjes.\n\n\nReshjet në momente të caktuara pritet të jenë në formë rrebeshesh, ndërsa më të përqendruara priten në Rrafshin e",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T06:01:20+00:00",
+      "dateStr": "22 Nov, 06:01",
+      "isNew": true,
+      "id": "gaz71795327280"
     },
     {
       "title": "Sindikata botërore e futbollistëve e kritikon Bayernin, për deklaratat shokuese rreth Jamal Musialas",
@@ -78,18 +276,7 @@
       "date": "2026-11-21T23:00:25+00:00",
       "dateStr": "21 Nov, 23:00",
       "isNew": true,
-      "id": "gaz01795302025"
-    },
-    {
-      "title": "Abdixhiku në Bruksel me mërgatën: Një pjesë e historisë së Kosovës është shkruar jashtë vendit",
-      "link": "https://24-ore.com/abdixhiku-ne-bruksel-me-mergaten-nje-pjese-e-historise-se-kosoves-eshte-shkruar-jashte-vendit/",
-      "description": "Kryetari i Lidhjes Demokratike të Kosovës (LDK), Lumir Abdixhiku, ka qëndruar në Bruksel, ku është takuar me bashkatdhetarë dhe bashkëveprimtarë të kësaj partie. Përmes një postimi në Facebook, Abdixhiku ka falënderuar pjesëmarrësit për pritjen dhe bisedat, duke thënë se në mesin e tyre është ndier ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-21T22:59:11+00:00",
-      "dateStr": "21 Nov, 22:59",
-      "isNew": true,
-      "id": "24 61795301951"
+      "id": "gaz81795302025"
     },
     {
       "title": "Ora e Njëmbëdhjetë me Erisa Koxhaj, (21/11/2026)",
@@ -100,7 +287,7 @@
       "date": "2026-11-21T22:58:52+00:00",
       "dateStr": "21 Nov, 22:58",
       "isNew": true,
-      "id": "abc01795301932"
+      "id": "abc61795301932"
     },
     {
       "title": "Sveçla shkruan për vizitën në Izmir, Turqisë i referohet si Republika e Türkiyes në njoftimin në Facebook",
@@ -111,18 +298,7 @@
       "date": "2026-11-21T22:51:00+00:00",
       "dateStr": "21 Nov, 22:51",
       "isNew": true,
-      "id": "gaz11795301460"
-    },
-    {
-      "title": "Lajm tepër i keq për PSG-në, Desire Doue e ka këputur ACL-në",
-      "link": "https://www.gazetaexpress.com/lajm-teper-i-keq-per-psg-ne-desire-doue-e-ka-keputur-acl-ne/",
-      "description": "Paris Saint-Germain ka marrë një goditje të rëndë, pasi sulmuesi i saj francez, Désiré Doué, ka pësuar këputje të ligamentit të kryqëzuar anterior (ACL) në gjurin e djathtë gjatë përballjes me Nice, të cilën parisienët e fituan me rezultat 3-2.\n\n\nFutbollisti u rrëzua në dhimbje të mëdha pasi shënoi ",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-21T22:40:01+00:00",
-      "dateStr": "21 Nov, 22:40",
-      "isNew": true,
-      "id": "gaz21795300801"
+      "id": "gaz91795301460"
     },
     {
       "title": "“Spiropali dhe Veliaj po gjejnë shkaqe për të ikur nga PS”/ Leka: Janë në fund të karrierës politike",
@@ -133,18 +309,7 @@
       "date": "2026-11-21T22:31:54+00:00",
       "dateStr": "21 Nov, 22:31",
       "isNew": true,
-      "id": "abc11795300314"
-    },
-    {
-      "title": "Abdixhiku del pak në LDK’në e Beneluksit: E çmoj besimin tuaj dhe e di çfarë përgjegjësie më ngarkon",
-      "link": "https://www.gazetaexpress.com/abdixhiku-del-pak-ne-ldkne-e-beneluksit-e-cmoj-besimin-tuaj-dhe-e-di-cfare-pergjegjesie-me-ngarkon/",
-      "description": "Kryetari i Lidhjes Demokratike të Kosovës, Lumir Abdixhiku, ka zhvilluar vizitë në Bruksel, ku është pritur nga strukturat e LDK’së atje.\n\n\nAbdixhiku, ka deklaruar se një pjesë e historisë së Kosovës është shkruar në mërgatë, nga njerëz që ndërtuan jetën larg Kosovës dhe ‘’morën përsipër më shumë se",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-21T22:07:37+00:00",
-      "dateStr": "21 Nov, 22:07",
-      "isNew": true,
-      "id": "gaz31795298857"
+      "id": "abc71795300314"
     },
     {
       "title": "Teuta i afrohet kreut/ Superliga, durrsakët mundin Laçin, 4 pikë nga Egnatia",
@@ -155,18 +320,7 @@
       "date": "2026-11-21T22:05:58+00:00",
       "dateStr": "21 Nov, 22:05",
       "isNew": true,
-      "id": "abc21795298758"
-    },
-    {
-      "title": "Carlos Espi hero i Realit, ia dhuron tri pikë të arta Jose Mourinhos",
-      "link": "https://www.gazetaexpress.com/carlos-espi-hero-i-realit-ia-8dhuron-tri-pike-te-arta-jose-mourinhos/",
-      "description": "Real Madridi ka marrë një fitore të madhe – me rikthim – në ndeshjen ndaj Celta Vigos.\n\n\nNë ndeshjen që u luajt në kuadër të xhiros së 13-të në La Liga, Real Madridi fitoi 2-1 ndaj Celta Vigos.\n\n\nNë “Santiago Bernabeu”, epërsinë të parët e morën mysafirët, të cilët shënuan përmes Pablo Duran, qysh n",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-21T22:03:36+00:00",
-      "dateStr": "21 Nov, 22:03",
-      "isNew": true,
-      "id": "gaz41795298616"
+      "id": "abc81795298758"
     },
     {
       "title": "Partizani kthehet te humbja/ “Demat e kuq” munden nga Vllaznia me rezultatin 1-0",
@@ -177,161 +331,117 @@
       "date": "2026-11-21T21:56:17+00:00",
       "dateStr": "21 Nov, 21:56",
       "isNew": true,
-      "id": "abc31795298177"
+      "id": "abc91795298177"
     },
     {
-      "title": "Sveçla në Izmir: Fabrika e municionit në Kosovë, dëshmi e bashkëpunimit strategjik me Turqinë",
-      "link": "https://24-ore.com/svecla-ne-izmir-fabrika-e-municionit-ne-kosove-deshmi-e-bashkepunimit-strategjik-me-turqine/",
-      "description": "Ministri i Punëve të Brendshme, Xhelal Sveçla, ka deklaruar se bashkëpunimi ndërmjet Kosovës dhe Turqisë po merr përmasa konkrete në fusha strategjike, përfshirë industrinë e mbrojtjes dhe sigurisë. Gjatë qëndrimit në Izmir të Turqisë, ku me ftesë të kryetarit të Bashkisë Metropolitane të këtij qyte",
-      "source": "24 ORE",
+      "title": "Në Mardin të Turqisë nis edicioni i katërt i Festivalit Ndërkombëtar të Filmit “Mardin Film Festivali Telkari Odulleri”",
+      "link": "https://www.lajme.al/ne-mardin-te-turqise-nis-edicioni-i-katert-i-festivalit-nderkombetar-te-filmit-mardin-film-festivali-telkari-odulleri/",
+      "description": "Në qytetin e Mardinit ka nisur edicioni i katërt i Festivalit Ndërkombëtar të Filmit “Telkari Odulleri”, i organizuar në kuadër të Festivalit Kulturor “Mardin Kültür Yolu”, me mbështetjen e Ministrisë së Kulturës dhe Turizmit të Turqisë. Ceremonia e hapjes u mbajt në sallën e konferencave të Univers",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-11-21T21:54:22+00:00",
-      "dateStr": "21 Nov, 21:54",
-      "isNew": true,
-      "id": "24 71795298062"
+      "date": "2026-10-20T19:20:16+00:00",
+      "dateStr": "20 Oct, 19:20",
+      "isNew": false,
+      "id": "laj01792524016"
     },
     {
-      "title": "Debati për rikthimin e Mbretërisë së Bashkuar në BE, Tony Blair jep këshilla, ide dhe kushte",
-      "link": "https://www.gazetaexpress.com/debati1-per-rikthimin-e-mbreterise-se-bashkuar-ne-be-tony-blair-jep-keshilla-ide-dhe-kushte/",
-      "description": "Ish-kryeministri britanik, Sir Tony Blair, ka deklaruar se Britania e Madhe duhet t’i bashkohet sërish Bashkimit Evropian vetëm nëse ky i fundit ndërmerr reforma dhe mundëson më shumë inovacion në fushën e teknologjisë.\n\n\nNë një intervistë për gazetën The Sunday Times, Blair tha: “Më është atribuuar",
-      "source": "Gazeta Express",
+      "title": "Përfshirja në rritje e Izraelit në Ballkan: asimetria e re e sigurisë dhe roli balancues i Turqisë",
+      "link": "https://www.lajme.al/perfshirja-ne-rritje-e-izraelit-ne-ballkan-asimetria-e-re-e-sigurise-dhe-roli-balancues-i-turqise/",
+      "description": "Nga: Mevludin Ibish Konkurrenca gjeopolitike ndërmjet Turqisë dhe Izraelit po shtrihet përtej Lindjes së Mesme dhe Mesdheut Lindor, duke përfshirë gjithnjë e më shumë edhe Ballkanin. Zhvillimet në Gaza, si dhe ndryshimet në Siri dhe Liban, kanë ndikuar në mënyrë të ndjeshme në konfigurimet rajonale ",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-11-21T21:47:51+00:00",
-      "dateStr": "21 Nov, 21:47",
-      "isNew": true,
-      "id": "gaz51795297671"
+      "date": "2026-10-03T13:54:47+00:00",
+      "dateStr": "03 Oct, 13:54",
+      "isNew": false,
+      "id": "laj11791035687"
     },
     {
-      "title": "Scott McTominay e shpëton Napolin, ia jep tri pikë ndaj Torinos",
-      "link": "https://www.gazetaexpress.com/scott-mctominay-e-shpeton-napolin-ia-jep-tri-pike-ndaj-torinos/",
-      "description": "Napoli ka shënuar fitore të rëndësishme 1-0 ndaj Torinos, në kuadër të Serie A, duke i dhënë fund rrezikut për të barazuar tri ndeshje radhazi në shtëpi.\n\n\nPas një pjese të parë me raste të shumta, por pa gola, Scott McTominay vendosi ndeshjen në minutën e 73-të.\n\n\nMesfushori skocez realizoi me një ",
-      "source": "Gazeta Express",
+      "title": "Austria–Kosova LIVE: Ndiqeni këtu ndeshjen e Dardanëve",
+      "link": "https://www.lajme.al/372707-2/",
+      "description": "🇦🇹⚽🇽🇰 AUSTRI – KOSOVË Një përballje interesante po afron! Austria dhe Kosova do të matin forcat në një ndeshje ku pritet rivalitet, intensitet dhe shumë emocione në fushë. 🔥 Dardanët do të kërkojnë të tregojnë karakter dhe të luftojnë për çdo top, ndërsa Austria do të synojë të shfrytëzojë avantazhi",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-11-21T21:44:13+00:00",
-      "dateStr": "21 Nov, 21:44",
-      "isNew": true,
-      "id": "gaz61795297453"
+      "date": "2026-09-27T15:42:36+00:00",
+      "dateStr": "27 Sep, 15:42",
+      "isNew": false,
+      "id": "laj21790523756"
     },
     {
-      "title": "Skemat e mirëqenies sociale, ASK jep të dhënat: Afërsisht 40 mijë veteranë janë përfitues, prijnë pensionet bazike të moshës",
-      "link": "https://www.gazetaexpress.com/skemat-e-mireqenies-sociale-ask-jep-te-dhenat-afersisht-40-mije-veterane-jane-perfitues-prijne-pensionet-bazike-te-moshes/",
-      "description": "Agjencia e Statistikave të Kosovës ka publikuar edhe statistikat e Mirëqenies Sociale për muajin tetor 2026.\n\n\nNga ASK,   thuhet se, sipas të dhënave të muajit tetor 2026, struktura e përfituesve nga skemat e mirëqenies sociale, kryesisht ka në fokus mbështetjen e të moshuarve, kategoritë e dala nga",
-      "source": "Gazeta Express",
+      "title": "Dua Lipa “shkrin” dasmën në Pejë! Ja si vallëzon me muzikë shqiptare",
+      "link": "https://www.lajme.al/dua-lipa-shkrin-dasmen-ne-peje-ja-si-vallezon-me-muzike-shqiptare/",
+      "description": "**Këngëtarja me famë ndërkombëtare, Dua Lipa, po qëndron prej disa ditësh në Pejë, ku po kalon kohë pranë familjarëve të saj.** Pas pjesëmarrjes në një festë familjare gjatë ditës së djeshme, artistja ka vijuar mbrëmjen në një atmosferë festive. Në disa pamje të publikuara në rrjetet sociale, Dua Li",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-11-21T21:40:04+00:00",
-      "dateStr": "21 Nov, 21:40",
-      "isNew": true,
-      "id": "gaz71795297204"
+      "date": "2026-09-27T15:34:28+00:00",
+      "dateStr": "27 Sep, 15:34",
+      "isNew": false,
+      "id": "laj31790523268"
     },
     {
-      "title": "Macron: Incidentet në Europë në nivel të ri",
-      "link": "https://abcnews.al/macron-incidentet-ne-europe-ne-nivel-te-ri/",
-      "description": "Presidenti francez Emmanuel Macron paralajmëroi të premten për një agresion rus në një nivel të ri, pas një sërë incidentesh në Europë gjatë javës. Në një postim në rrjetet sociale, Macron shkroi se gjatë 24 orëve të fundit disa partnerë e aleatë europianë u përballën sërish me incidente të rënda. S",
-      "source": "ABC News",
+      "title": "Publikohen formacionet: Ja si rreshtohet Kosova përballë Austrisë",
+      "link": "https://www.lajme.al/publikohen-formacionet-ja-si-rreshtohet-kosova-perballe-austrise/",
+      "description": "**Janë publikuar formacionet zyrtare për ndeshjen ndërmjet Austrisë dhe Kosovës, e vlefshme për Ligën e Kombeve.** Përfaqësuesja e Kosovës, e udhëhequr nga trajneri Franco Foda, do ta nisë takimin me këtë 11-she: **Arijanet Muriç – Ron Raçi, Ilir Krasniqi, Lumbardh Dellova – Dion Gallapeni, Leon Avd",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-11-21T21:34:06+00:00",
-      "dateStr": "21 Nov, 21:34",
-      "isNew": true,
-      "id": "abc41795296846"
+      "date": "2026-09-27T15:27:19+00:00",
+      "dateStr": "27 Sep, 15:27",
+      "isNew": false,
+      "id": "laj41790522839"
     },
     {
-      "title": "ASK publikon statistikat – Rritet numri i lindjeve dhe shkurorëzimeve, bie ai i martesave",
-      "link": "https://www.gazetaexpress.com/ask-publikon-statistikat-rritet-numri-i-lindjeve-dhe-shkurorezimeve-bie-ai-i-martesave/",
-      "description": "Agjencia e Statistikave të Kosovës ka publikuar të dhënat preliminare në baza mujore për Lindjet, Vdekjet, Kurorëzimet dhe Shkurorëzimet për muajin Shtator 2026.\n\n\nNga ASK bëhet e ditur se, ka pasur më shumë lindje në muajin Shtator 2026 se sa në Gusht 2026.\n\n\nNë publikim shtohet edhe se, në muajin ",
-      "source": "Gazeta Express",
+      "title": "Xhuli publikon video nga spitali në Zvicër, teksa pret lindjen e binjakëve",
+      "link": "https://www.lajme.al/xhuli-publikon-video-nga-spitali-ne-zvicer-teksa-pret-lindjen-e-binjakeve/",
+      "description": "**Xhuli Nura vazhdon të qëndrojë në një spital në Zvicër, ndërsa pret lindjen e binjakëve të saj.** Ish-banorja e **Big Brother VIP Kosova** ka bërë të ditur përmes një postimi në InstaStory se lindja ende nuk ka ndodhur dhe se ajo, së bashku me ekipin mjekësor, po përpiqen që procesi të zhvillohet ",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-11-21T21:30:24+00:00",
-      "dateStr": "21 Nov, 21:30",
-      "isNew": true,
-      "id": "gaz81795296624"
+      "date": "2026-09-27T15:20:42+00:00",
+      "dateStr": "27 Sep, 15:20",
+      "isNew": false,
+      "id": "laj51790522442"
     },
     {
-      "title": "Maleni e barazon rekordin e Romës me 26 gola në vitin 2026, duke tejkaluar Kane dhe Mbappe",
-      "link": "https://www.gazetaexpress.com/maleni-e-barazon-rekordin-e-romes-me-26-gola-ne-vitin-2026-duke-tejkaluar-kane-dhe-mbappe/",
-      "description": "Donyell Malen ka barazuar një rekord 66-vjeçar të Romës, pasi katër golat e tij në fitoren 5-1 ndaj Parmës e çuan në kuotën e 26 golave në Serie A gjatë vitit 2026.\n\n\nSipas “Opta”, i vetmi lojtar tjetër i “Giallorossëve” që ka shënuar më shumë se 25 gola në kampionat brenda një viti kalendarik është",
-      "source": "Gazeta Express",
+      "title": "LAJMI I FUNDIT: Një tërmet i fuqishem tronditi vendin",
+      "link": "https://www.lajme.al/lajmi-i-fundit-nje-termet-i-fuqishem-tronditi-vendin/",
+      "description": "Sipas të dhënave të disponueshme nga Observatori Sizmologjik pranë Fakultetit të Shkencave Matematiko-Natyrore në Shkup, sot, në orën 14:04, është regjistruar një tërmet me epiqendër në zonën epiqendrore të Prespës, rreth 127 km në jugperëndim të Shkupit. Tërmeti ka pasur magnitudë lokale ML 3.3 sip",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-11-21T21:24:49+00:00",
-      "dateStr": "21 Nov, 21:24",
-      "isNew": true,
-      "id": "gaz91795296289"
+      "date": "2026-09-27T13:22:27+00:00",
+      "dateStr": "27 Sep, 13:22",
+      "isNew": false,
+      "id": "laj61790515347"
     },
     {
-      "title": "Turizmi ndal vrullin, hotelet me fitime minimale",
-      "link": "https://24-ore.com/turizmi-ndal-vrullin-hotelet-me-fitime-minimale/",
-      "description": "Pas vitit 2021, Shqipëria shënoi një lulëzim të vërtetë turistik, që vijonte një rritje të qëndrueshme të nisur nga 2016-a. Destinacionet turistike të Shqipërisë u bënë virale në rrjetet sociale, ku vëmendjen kryesore e tërhoqi termi “Maldivet e Europës”, me të cilin simbolizohej Ksamili. Rritja e t",
-      "source": "24 ORE",
+      "title": "Aksion i madh në veri të Kosovës, nëntë të arrestuar",
+      "link": "https://www.lajme.al/aksion-i-madh-ne-veri-te-kosoves-nente-te-arrestuar/",
+      "description": "Nëntë persona arrestohen në Zubin Potok nën dyshimin për krime lufte Nëntë persona janë arrestuar në Zubin Potok nën dyshimin për kryerjen e veprës penale “Krime lufte kundër popullsisë civile”, ka njoftuar Prokuroria Speciale e Republikës së Kosovës. Sipas njoftimit zyrtar, Policia e Kosovës, përka",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-11-21T21:20:25+00:00",
-      "dateStr": "21 Nov, 21:20",
-      "isNew": true,
-      "id": "24 81795296025"
+      "date": "2026-09-27T11:02:27+00:00",
+      "dateStr": "27 Sep, 11:02",
+      "isNew": false,
+      "id": "laj71790506947"
     },
     {
-      "title": "Zelensky: Ukraina dëshiron garanci sigurie, edhe nëse Putin dhe Trump janë miq",
-      "link": "https://abcnews.al/zelensky-ukraina-deshiron-garanci-sigurie-edhe-nese-putin-dhe-trump-jane-miq/",
-      "description": "Volodymyr Zelensky ka postuar në X, ku thotë se çështja në lidhje me Ukrainën në NATO u ngrit në takimin e Koalicionit të Vullnetit. “Aleatët e kuptojnë se garancia më e qartë e sigurisë për Ukrainën është anëtarësimi në NATO”, shton ai. &#8220;Dhe mënyra më e qartë për të forcuar NATO-n është përfs",
-      "source": "ABC News",
+      "title": "Diell apo shi? Ja çfarë pritet sot në rajon",
+      "link": "https://www.lajme.al/diell-apo-shi-ja-cfare-pritet-sot-ne-rajon/",
+      "description": "E diela, 27 shtator, sjell mot kryesisht të qëndrueshëm në pjesën më të madhe të rajonit. 🌤️ 🇦🇱 SHQIPËRI Kryesisht me diell dhe vranësira të herëpashershme. Në verilindje, temperaturat mund të arrijnë rreth 21°C. 🇽🇰 KOSOVË Mot kryesisht me diell dhe vranësira të pakta deri mesatare. Pa reshje, me te",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-11-21T21:15:52+00:00",
-      "dateStr": "21 Nov, 21:15",
-      "isNew": true,
-      "id": "abc51795295752"
+      "date": "2026-09-26T23:45:48+00:00",
+      "dateStr": "26 Sep, 23:45",
+      "isNew": false,
+      "id": "laj81790466348"
     },
     {
-      "title": "Britania për tensionet Rusi–NATO: Një gabim i Putin mund të shkaktojë konflikt",
-      "link": "https://abcnews.al/britania-per-tensionet-rusi-nato-nje-gabim-i-putin-mund-te-shkaktoje-konflikt/",
-      "description": "Kreu i inteligjencës britanike të mbrojtjes, gjenerallejtënant Matthew Jones, ka paralajmëruar se veprimet gjithnjë e më agresive të Rusisë ndaj Perëndimit mund të shkaktojnë një përshkallëzim të padëshiruar me NATO-n. Sipas tij, megjithëse Moska nuk po kërkon një luftë të drejtpërdrejtë me Aleancën",
-      "source": "ABC News",
+      "title": "Ja cila është Pozita më e mirë për të mbetur shtatzënë",
+      "link": "https://www.lajme.al/ja-cila-eshte-pozita-me-e-mire-per-te-mbetur-shtatzene/",
+      "description": "Nga pikëpamja mjekësore, shtatzënia mund të ndodhë pas marrëdhënieve seksuale në pozicione të ndryshme, për sa kohë që sperma hyn në vaginë. Për këtë arsye, **asnjë pozicion seksual nuk mund të konsiderohet metodë kontraceptive** dhe pozita nuk ofron mbrojtje nga një shtatzëni e padëshiruar. Për par",
+      "source": "Lajme.al",
       "category": "politike",
-      "date": "2026-11-21T20:56:09+00:00",
-      "dateStr": "21 Nov, 20:56",
-      "isNew": true,
-      "id": "abc61795294569"
-    },
-    {
-      "title": "Alibali komenton reagimin e Bashkisë ndaj deklaratave të Ramës: Beteja do të mbërrijë edhe në Këshillin Bashkiak",
-      "link": "https://24-ore.com/alibali-komenton-reagimin-e-bashkise-ndaj-deklaratave-te-rames-beteja-do-te-mberrije-edhe-ne-keshillin-bashkiak/",
-      "description": "Analisti Neritan Alibali e ka cilësuar si një shpallje lufte reagimin zyrtar të Bashkisë së Tiranës ndaj deklaratave të kryeministrit Edi Rama gjatë Asamblesë së Partisë Socialiste të Tiranës. I ftuar në “Review” me Greta Topjanën, Alibali u shpreh se përplasja politike mes palëve, siç e cilësoi ai,",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-21T20:40:27+00:00",
-      "dateStr": "21 Nov, 20:40",
-      "isNew": true,
-      "id": "24 91795293627"
-    },
-    {
-      "title": "Trump: Nuk do të lejoj që Irani të ketë armë bërthamore",
-      "link": "https://abcnews.al/trump-nuk-do-te-lejoj-qe-irani-te-kete-arme-berthamore/",
-      "description": "Presidenti amerikan Donald Trump deklaron se synon të arrijë një marrëveshje afatgjatë me Iranin, e cila të mbetet në fuqi edhe pas përfundimit të mandatit të tij dhe të mos ndryshojë pavarësisht se kush do të jetë në krye të Shtëpisë së Bardhë në të ardhmen. Në një intervistë për Fox News, Trump th",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-11-21T20:32:36+00:00",
-      "dateStr": "21 Nov, 20:32",
-      "isNew": true,
-      "id": "abc71795293156"
-    },
-    {
-      "title": "Ligji për sponsorizimet/ Fidel Ylli: Sportit shqiptar do i vijnë disa para që nuk i ka pasur. Bastet? Duhet ligj fleksibël",
-      "link": "https://abcnews.al/ligji-per-sponsorizimet-fidel-ylli-sportit-shqiptar-do-i-vijne-disa-para-qe-nuk-i-ka-pasur-bastet-duhet-ligj-fleksibel/",
-      "description": "President i Komitetit Olimpik Kombëtar Shqiptar (KOKSH), Fidel Ylli e cilëson si diçka të jashtëzakonshme ligjin për sponsorizimet në sport. Në një intervistë për &#8220;90 minuta&#8221; në ABC News, Ylli u shpreh se sportit shqiptar do i vijnë disa para që nuk i ka pasur kurrë. Sipas tij, sporti sh",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-11-21T20:08:19+00:00",
-      "dateStr": "21 Nov, 20:08",
-      "isNew": true,
-      "id": "abc81795291699"
-    },
-    {
-      "title": "Edicioni Qendror me Emilian Islami, (21/11/2026)",
-      "link": "https://abcnews.al/edicioni-qendror-me-emilian-islami-21-11-2026/",
-      "description": "[...]Read More...",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-11-21T19:54:53+00:00",
-      "dateStr": "21 Nov, 19:54",
-      "isNew": true,
-      "id": "abc91795290893"
+      "date": "2026-09-26T19:43:23+00:00",
+      "dateStr": "26 Sep, 19:43",
+      "isNew": false,
+      "id": "laj91790451803"
     }
   ]
 }
