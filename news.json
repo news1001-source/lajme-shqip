@@ -1,150 +1,249 @@
 {
-  "lastUpdated": "2026-11-22T21:27:55.299885+00:00",
+  "lastUpdated": "2026-11-23T02:09:03.872391+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Portieri malazez Igor Nikiq shkëlqen në Rumani, Sofascore e vlerëson me notën 10",
-      "link": "https://24-ore.com/portieri-malazez-igor-nikiq-shkelqen-ne-rumani-sofascore-e-vlereson-me-noten-10/",
-      "description": "Portieri i përfaqësueses së Malit të Zi, Igor Nikiq, bëri nëntë pritje në barazimin 0:0 të Argeshit ndaj FCSB-së dhe u vlerësua me notën maksimale 10 nga Sofascore.",
+      "title": "Babiš e quan absolutisht të papranueshëm propozimin e ri për buxhetin e BE-së, Merz kërkon shkurtime edhe më të mëdha",
+      "link": "https://24-ore.com/babis-e-quan-absolutisht-te-papranueshem-propozimin-e-ri-per-buxhetin-e-be-se-merz-kerkon-shkurtime-edhe-me-te-medha/",
+      "description": "Kryeministri çek Andrej Babiš e quajti \"absolutisht të papranueshëm\" propozimin e rishikuar të António Costës për buxhetin 2028–2034 të BE-së, duke kundërshtuar veçanërisht 100 miliardë eurot e parashikuara për Ukrainën, ndërsa kancelari gjerman Friedrich Merz kërkoi shkurtime edhe më të thella.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-22T21:27:04+00:00",
-      "dateStr": "22 Nov, 21:27",
+      "date": "2026-11-23T01:42:13+00:00",
+      "dateStr": "23 Nov, 01:42",
       "isNew": true,
-      "id": "24 01795382824"
+      "id": "24 01795398133"
     },
     {
-      "title": "Mujoviq anulon lejen për parkingun pas përmendores së Shën Pjetrit të Cetinjes në Podgoricë",
-      "link": "https://24-ore.com/mujoviq-anulon-lejen-per-parkingun-pas-permendores-se-shen-pjetrit-te-cetinjes-ne-podgorice/",
-      "description": "Parkingu i përkohshëm i planifikuar pas përmendores së Shën Pjetrit të Cetinjes në Podgoricë nuk do të ndërtohet, pasi kryetari i bashkisë Sasha Mujoviq anuloi vendimin e Sekretariatit të Transportit.",
+      "title": "Burnham do t’u thotë deputetëve se marrëveshja me BE-në mund ta bëjë dekadën e ardhshme shumë më të mirë",
+      "link": "https://24-ore.com/burnham-do-tu-thote-deputeteve-se-marreveshja-me-be-ne-mund-ta-beje-dekaden-e-ardhshme-shume-me-te-mire/",
+      "description": "Kryeministri britanik Andy Burnham do t'i drejtohet të hënën Parlamentit për marrëveshjen e arritur të premten me Bashkimin Evropian, duke e quajtur atë masën më të madhe të rritjes ekonomike të këtij mandati, ndërsa ish-kryeministra dhe opozita e kanë kritikuar ashpër marrëveshjen.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-22T21:26:36+00:00",
-      "dateStr": "22 Nov, 21:26",
+      "date": "2026-11-23T01:35:47+00:00",
+      "dateStr": "23 Nov, 01:35",
       "isNew": true,
-      "id": "24 11795382796"
+      "id": "24 11795397747"
     },
     {
-      "title": "VMRO-DPMNE kundër LSDM-së: Pagat po rriten, inflacioni më i ulëti në rajon",
-      "link": "https://24-ore.com/vmro-dpmne-kunder-lsdm-se-pagat-po-rriten-inflacioni-me-i-uleti-ne-rajon/",
-      "description": "Partia në pushtet thotë se opozita nuk dëshiron t'i lexojë të dhënat zyrtare: rritja ekonomike është mbi 3 për qind për të dhjetin tremujor radhazi, ndërsa çmimet e derivateve të naftës janë më të ulëtat në rajon.",
+      "title": "Senatori Mark Kelly kërkon hetim për luftën ndaj Iranit: “Konflikt i dështuar, duhet llogaridhënie”",
+      "link": "https://24-ore.com/senatori-mark-kelly-kerkon-hetim-per-luften-ndaj-iranit-konflikt-i-deshtuar-duhet-llogaridhenie/",
+      "description": "Senatori demokrat nga Arizona, anëtar i komisioneve të Senatit për Forcat e Armatosura dhe Inteligjencën, vuri në dyshim objektivat dhe vendimet e shënjestrimit të administratës Trump dhe kërkoi të shihet lista e objektivave të sulmeve.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-22T21:26:33+00:00",
-      "dateStr": "22 Nov, 21:26",
+      "date": "2026-11-23T01:34:21+00:00",
+      "dateStr": "23 Nov, 01:34",
       "isNew": true,
-      "id": "24 21795382793"
+      "id": "24 21795397661"
     },
     {
-      "title": "Hurricanes fitojnë 5-2 te Rangers, Blake nis shpërthimin prej tre golash në periodën e dytë",
-      "link": "https://24-ore.com/hurricanes-fitojne-5-2-te-rangers-blake-nis-shperthimin-prej-tre-golash-ne-perioden-e-dyte/",
-      "description": "Carolina shënon tri herë në 5 minuta e 14 sekonda në fund të periodës së dytë në Madison Square Garden, Bussi bën 25 pritje dhe seria prej tri fitoresh e New York-ut ndërpritet",
+      "title": "Thompson shënon dy herë në periodën e dytë, Sabres shkatërrojnë Lightning 6-2 në Tampa",
+      "link": "https://24-ore.com/thompson-shenon-dy-here-ne-perioden-e-dyte-sabres-shkaterrojne-lightning-6-2-ne-tampa/",
+      "description": "Benson regjistron tri pikë dhe Luukkonen arrin fitoren e 100-të në karrierë, Buffalo hakmerret për humbjen 8-3 të 11 nëntorit",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-22T21:25:31+00:00",
-      "dateStr": "22 Nov, 21:25",
+      "date": "2026-11-23T01:31:01+00:00",
+      "dateStr": "23 Nov, 01:31",
       "isNew": true,
-      "id": "24 31795382731"
+      "id": "24 31795397461"
     },
     {
-      "title": "Për më shumë se tre muaj Tetova është pa karrotrec",
-      "link": "https://24-ore.com/per-me-shume-se-tre-muaj-tetova-eshte-pa-karrotrec/",
-      "description": "Mungesa e karrotrecit ka shtuar parkimet vend e pa vend, ndërsa policia ka shqiptuar rreth 2.500 gjoba nga janari e deri më sot; komuna thotë se mjeti është në riparim dhe do të rregullohet brenda javës.",
+      "title": "Jesse Scholtens firmos me Hanwha Eagles në Kore: kontratë njëvjeçare prej 875 mijë dollarësh",
+      "link": "https://24-ore.com/jesse-scholtens-firmos-me-hanwha-eagles-ne-kore-kontrate-njevjecare-prej-875-mije-dollaresh/",
+      "description": "Hanwha Eagles njoftuan të dielën, më 22 nëntor, se kanë firmosur ish-hedhësin e djathtë të MLB-së Jesse Scholtens, sipas Korea JoongAng Daily / Yonhap. Kontrata është njëvjeçare, me vlerë totale 875 mijë dollarë, duke përfshirë një bonus firmosjeje prej 125 mijë dollarësh. Tampa Bay Rays e liruan 32",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-22T21:24:40+00:00",
-      "dateStr": "22 Nov, 21:24",
+      "date": "2026-11-23T01:14:49+00:00",
+      "dateStr": "23 Nov, 01:14",
       "isNew": true,
-      "id": "24 41795382680"
+      "id": "24 41795396489"
     },
     {
-      "title": "Shteti sërish synon të arkëtojë para nga qytetarët, ekspertët kërkojnë transparencë për destinimin e tyre",
-      "link": "https://24-ore.com/shteti-serish-synon-te-arketoje-para-nga-qytetaret-ekspertet-kerkojne-transparence-per-destinimin-e-tyre/",
-      "description": "Ministria e Financave lëshon emetimin e katërt të obligacioneve qytetare: 100 milionë denarë me interes vjetor 4,6 për qind dhe afat dyvjeçar, ndërsa regjistrimi zgjat deri më 1 dhjetor.",
+      "title": "Scott Wolf njofton vdekjen e babait Steven: ishte heroi im, gjithë jetën jam përpjekur të jem si ai",
+      "link": "https://24-ore.com/scott-wolf-njofton-vdekjen-e-babait-steven-ishte-heroi-im-gjithe-jeten-jam-perpjekur-te-jem-si-ai/",
+      "description": "Aktori 58-vjeçar ndau lajmin e trishtë në Instagram, duke e kujtuar të atin si njeriun më të mirë dhe më të dashur që kishte njohur.",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-22T21:21:39+00:00",
-      "dateStr": "22 Nov, 21:21",
+      "date": "2026-11-23T01:09:22+00:00",
+      "dateStr": "23 Nov, 01:09",
       "isNew": true,
-      "id": "24 51795382499"
+      "id": "24 51795396162"
     },
     {
-      "title": "Video-lojërat, pasion në rritje te të rinjtë, por përdorimi i tepruar ngre shqetësime",
-      "link": "https://24-ore.com/video-lojerat-pasion-ne-rritje-te-te-rinjte-por-perdorimi-i-tepruar-ngre-shqetesime/",
-      "description": "Të rinjtë e anketuar nga Alsat thonë se lojërat kanë edhe anë pozitive, por theksojnë se duhet të ketë kufij në kohën që u kushtohet.",
+      "title": "Java 11 në NFL: Cowboys shënojnë 51 pikë, Panthers përmbysin Ravens në fund dhe Eagles i japin fund serisë së humbjeve",
+      "link": "https://24-ore.com/java-11-ne-nfl-cowboys-shenojne-51-pike-panthers-permbysin-ravens-ne-fund-dhe-eagles-i-japin-fund-serise-se-humbjeve/",
+      "description": "Bears dhe Bills vazhdojnë seritë e fitoreve, ndërsa Steelers mbeten pa fitore në Philadelphia që nga viti 1965",
       "source": "24 ORE",
       "category": "politike",
-      "date": "2026-11-22T21:18:48+00:00",
-      "dateStr": "22 Nov, 21:18",
+      "date": "2026-11-23T01:08:28+00:00",
+      "dateStr": "23 Nov, 01:08",
       "isNew": true,
-      "id": "24 61795382328"
+      "id": "24 61795396108"
     },
     {
-      "title": "Veç Serbia s’do të jetë në Samitin e BE me ballkanasit të mërkurën, zyrtari i tyre: S’jam në mandat të plotë",
-      "link": "https://www.gazetaexpress.com/vec-serbia-sdo-te-jete-ne-samitin-e-be-me-ballkanasit-te-merkuren-zyrtari-i-tyre-sjam-ne-mandat-te-plote/",
-      "description": "Kryetari i Kuvendit të Serbisë, Aleksandar Çupiq, ka bërë të ditur se nuk do të udhëtojë të mërkurën në Bruksel për të marrë pjesë në Samitin e Bashkimit Evropian për Ballkanin Perëndimor.\n\n\nNë një intervistë për televizionin publik serb RTS, Çupiq tha se kishte marrë të premten ftesë nga presidenti",
+      "title": "Rockies punësojnë Scott Servais në drejtimin e operacioneve të bejsbollit",
+      "link": "https://24-ore.com/rockies-punesojne-scott-servais-ne-drejtimin-e-operacioneve-te-bejsbollit/",
+      "description": "Scott Servais i është bashkuar Colorado Rockies si drejtori i ri i lartë i operacioneve të bejsbollit, sipas MLB Trade Rumors, e cila raportoi më 22 nëntor 2026 lajmin e Dennis Lin dhe Will Sammon të The Athletic. Servais kaloi dy sezonet e fundit si asistent special në organizatën e San Diego Padre",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-23T01:05:49+00:00",
+      "dateStr": "23 Nov, 01:05",
+      "isNew": true,
+      "id": "24 71795395949"
+    },
+    {
+      "title": "Lions mundin Buccaneers 31-21 për fitoren e gjashtë radhazi, Gibbs vendos me dy touchdown në çerekun e katërt",
+      "link": "https://24-ore.com/lions-mundin-buccaneers-31-21-per-fitoren-e-gjashte-radhazi-gibbs-vendos-me-dy-touchdown-ne-cerekun-e-katert/",
+      "description": "Goff hodhi për 279 jarde dhe dy touchdown në ndeshjen e parë pa Hutchinson, ndërsa mbrojtja e Detroitit regjistroi katër sack ndaj Mayfield",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-23T00:58:48+00:00",
+      "dateStr": "23 Nov, 00:58",
+      "isNew": true,
+      "id": "24 81795395528"
+    },
+    {
+      "title": "Skubal firmos me Mets: kontratë rekord nëntëvjeçare prej 450 milionë dollarësh për hedhësin më të paguar në histori",
+      "link": "https://24-ore.com/skubal-firmos-me-mets-kontrate-rekord-nentevjecare-prej-450-milione-dollaresh-per-hedhesin-me-te-paguar-ne-histori/",
+      "description": "New York Mets kanë nënshkruar me dy herë fituesin e Çmimit Cy Young të Ligës Amerikane, Tarik Skubal, me një kontratë nëntëvjeçare prej 450 milionë dollarësh — marrëveshja më e madhe ndonjëherë për një hedhës, sipas MLB Trade Rumors. Shuma e tejkalon shumë rekordin e mëparshëm, kontratën 12-vjeçare ",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-23T00:57:58+00:00",
+      "dateStr": "23 Nov, 00:57",
+      "isNew": true,
+      "id": "24 91795395478"
+    },
+    {
+      "title": "Fenomeni i ‘çuditshëm’ te Real Madridi, 40% e fitoreve vijnë pas minutës së 85-të",
+      "link": "https://www.gazetaexpress.com/fenomeni-i-cuditshem-te-real-madridi-40-e-fitoreve-vijne-pas-minutes-se-85-te/",
+      "description": "Përmbysjet janë pjesë e ADN-së së Real Madridit dhe tifozët e klubit kanë një bindje të palëkundur se një gol në momentin e duhur mund ta shpëtojë edhe një ndeshje të dobët.\n\n\nPikërisht për këtë arsye, zhgënjimi është edhe më i madh kur përmbysjet në të cilat të gjithë besojnë nuk ndodhin.\n\n\nSipas m",
       "source": "Gazeta Express",
       "category": "politike",
-      "date": "2026-11-22T21:16:18+00:00",
-      "dateStr": "22 Nov, 21:16",
+      "date": "2026-11-22T23:00:11+00:00",
+      "dateStr": "22 Nov, 23:00",
       "isNew": true,
-      "id": "gaz01795382178"
+      "id": "gaz01795388411"
     },
     {
-      "title": "Ohri zgjerohet me banesa të reja për shitje në një nga zonat më atraktive të qytetit",
-      "link": "https://24-ore.com/ohri-zgjerohet-me-banesa-te-reja-per-shitje-ne-nje-nga-zonat-me-atraktive-te-qytetit/",
-      "description": "Shteti po ndërton dy ndërtesa me 132 banesa në lagjen Burimet e Biljanës, me çmim fillestar 1.350 euro për metër katror; ankandi publik mbahet më 4 dhjetor.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-22T21:16:06+00:00",
-      "dateStr": "22 Nov, 21:16",
-      "isNew": true,
-      "id": "24 71795382166"
-    },
-    {
-      "title": "Koliçani i Epërm merr pamje të re me mbi 20 shtëpi vikendi, por mungojnë kushtet elementare",
-      "link": "https://24-ore.com/kolicani-i-eperm-merr-pamje-te-re-me-mbi-20-shtepi-vikendi-por-mungojne-kushtet-elementare/",
-      "description": "Fshati rreth 18 kilometra larg Shkupit po gjallërohet sërish falë klimës dhe ajrit të pastër, por banorët ankohen për rrugët, ujësjellësin dhe mungesën e mbështetjes për bujqësinë e blegtorinë.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-22T21:14:31+00:00",
-      "dateStr": "22 Nov, 21:14",
-      "isNew": true,
-      "id": "24 81795382071"
-    },
-    {
-      "title": "Dita e Alfabetit, qytetarët ankohen për shpërfilljen e gjuhës shqipe",
-      "link": "https://24-ore.com/dita-e-alfabetit-qytetaret-ankohen-per-shperfilljen-e-gjuhes-shqipe/",
-      "description": "Në 118-vjetorin e Ditës së Alfabetit, qytetarët në Manastir thonë se gjuha shqipe nuk po zbatohet si duhet në institucione, ndërsa krerët shtetërorë dërguan urime.",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-22T21:13:02+00:00",
-      "dateStr": "22 Nov, 21:13",
-      "isNew": true,
-      "id": "24 91795381982"
-    },
-    {
-      "title": "Arrestohen në Shqipëri dy shqiptarë të kërkuar nga Italia, pritet ekstradimi i tyre",
-      "link": "https://www.gazetaexpress.com/arrestohen-ne-shqiperi-dy-shqiptare-te-kerkuar-nga-italia-pritet-ekstradimi-i-tyre/",
-      "description": "Dy shqiptarë të shpallur në kërkim ndërkombëtar nga autoritetet italiane janë arrestuar në Shkodër dhe Vorë, me qëllim ekstradimin drejt Italisë.\n\n\nNjëri prej tyre është dënuar me 7 vite e 11 muaj burg për vjedhje me dhunë dhe vepra të tjera penale, ndërsa tjetri me 4 vite burg për torturë dhe sklla",
+      "title": "Kurti e Rama me agjenda të ndara në Ditën e Alfabetit, të dy ishin në Manastir por nuk u takuan",
+      "link": "https://www.gazetaexpress.com/kurti-e-rama-me-agjenda-te-ndara-ne-diten-e-alfabetit-te-dy-ishin-ne-manastir-por-nuk-u-takuan/",
+      "description": "Kryeministri i Kosovës, Albin Kurti, dhe ai i Shqipërisë, Edi Rama, kanë zhvilluar agjenda të ndara në Manastir, në 118-vjetorin e Kongresit të Alfabetit të Gjuhës Shqipe.\n\n\nPavarësisht se të dy ndodheshin në qytetin historik të Maqedonisë së Veriut për shënimin e 22 Nëntorit, ata nuk zhvilluan taki",
       "source": "Gazeta Express",
       "category": "politike",
-      "date": "2026-11-22T21:12:08+00:00",
-      "dateStr": "22 Nov, 21:12",
+      "date": "2026-11-22T22:52:15+00:00",
+      "dateStr": "22 Nov, 22:52",
       "isNew": true,
-      "id": "gaz11795381928"
+      "id": "gaz11795387935"
     },
     {
-      "title": "Pochettino në makth tek Unitedi, barazohet një rekord negativ i Premierligës",
-      "link": "https://www.gazetaexpress.com/pochettino-ne-makth-tek-unitedi-barazohet-nje-rekord-negativ-i-premierliges/",
-      "description": "Mauricio Pochettino ka përjetuar një fillim makthi në aventurën e tij si trajner i Manchester Unitedit, ndërsa një statistikë e jashtëzakonshme në përballjen ndaj Liverpoolit në “Anfield” e ka kompletuar këtë start të tmerrshëm, duke barazuar një rekord negativ në histori të Premierligës.\n\n\nLeny Yor",
+      "title": "Kushner i përgjigjet Zelenskyt: SHBA këmbëngul për garanci sigurie për Ukrainën, të ngjashme me nenin 5 të NATO-s",
+      "link": "https://www.gazetaexpress.com/kushner-i-pergjigjet-zelenskyt-shba-kembengul-per-garanci-sigurie-per-ukrainen-te-ngjashme-me-nenin-5-te-nato-s/",
+      "description": "I dërguari amerikan në negociatat për Ukrainën, Jared Kushner, ka riafirmuar mbështetjen për dhënien e garancive të sigurisë për Kievin, të ngjashme me ato që parashikon neni 5 i NATO-s, pavarësisht kundërshtimeve të Rusisë.\n\n\nDhëndri i presidentit amerikan Donald Trump reagoi pas një deklarate të p",
       "source": "Gazeta Express",
       "category": "politike",
-      "date": "2026-11-22T21:02:07+00:00",
-      "dateStr": "22 Nov, 21:02",
+      "date": "2026-11-22T22:47:38+00:00",
+      "dateStr": "22 Nov, 22:47",
       "isNew": true,
-      "id": "gaz21795381327"
+      "id": "gaz21795387658"
+    },
+    {
+      "title": "“Duke duartrokitur marrëzitë!” – Roy Keane shpërthen ndaj yjeve të Unitedit pas humbjes poshtëruese nga Liverpooli",
+      "link": "https://www.gazetaexpress.com/duke-duartrokitur-marrezite-roy-keane-shperthen-ndaj-yjeve-te-unitedit-pas-humbjes-poshteruese-nga-liverpooli/",
+      "description": "Legjenda e Manchester Unitedit, Roy Keane, ka shpërthyer me kritika të ashpra ndaj futbollistëve aktualë të klubit, pas humbjes së turpshme 4-0 nga Liverpooli.\n\n\nIsh-kapiteni i “Djajve të Kuq” nuk i ka kursyer aspak kritikat, pasi debutimi i Mauricio Pochettinos në stolin e Unitedit u shoqërua me nj",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T22:40:07+00:00",
+      "dateStr": "22 Nov, 22:40",
+      "isNew": true,
+      "id": "gaz31795387207"
+    },
+    {
+      "title": "Trump kërcënon Iranin me sulme ushtarake pas Vitit të Ri: Nëse nuk arrihet marrëveshje, do të ndërhyjmë",
+      "link": "https://www.gazetaexpress.com/trump-kercenon-iranin-me-sulme-ushtarake-pas-vitit-te-ri-nese-nuk-arrihet-marreveshje-do-te-nderhyjme/",
+      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump, ka paralajmëruar mundësinë e sulmeve të reja ushtarake kundër Iranit pas Vitit të Ri, nëse të dyja palët nuk arrijnë një marrëveshje.\n\n\nNë një intervistë për televizionin Fox News, Trump shprehu pakënaqësinë për negociatat me Teheranin, duke i cilësu",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T22:28:19+00:00",
+      "dateStr": "22 Nov, 22:28",
+      "isNew": true,
+      "id": "gaz41795386499"
+    },
+    {
+      "title": "Dëmtimi i Désiré Doué shqetëson Enrique, PSG “hap kuletën” për transferimin e një sulmuesi, por me kushte",
+      "link": "https://www.gazetaexpress.com/demtimi-i-desire-doue-shqeteson-enrique-psg-hap-kuleten-per-transferimin-e-nje-sulmuesi-por-me-kushte/",
+      "description": "Paris Saint-Germain ka marrë një goditje të rëndë në një moment shumë të ndjeshëm të sezonit, pasi ka humbur njërin prej armëve kryesore të repartit ofensiv, francezin Désiré Doué, i cili ka pësuar këputje të ligamentit të kryqëzuar anterior (ACL).\n\n\nKy dëmtim jo vetëm që rrezikon planet e skuadrës ",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T22:21:01+00:00",
+      "dateStr": "22 Nov, 22:21",
+      "isNew": true,
+      "id": "gaz51795386061"
+    },
+    {
+      "title": "Dortmundi ‘detyrohet’ të reagojë rreth festimit interesant të Felix Nmechas",
+      "link": "https://www.gazetaexpress.com/dortmundi-detyrohet-te-reagoje-rreth-festimit-interesant-te-felix-nmechas/",
+      "description": "Borussia Dortmund vazhdoi formën e mirë në Bundesliga, duke siguruar fitore 1-0 ndaj Borussia Mönchengladbachut dhe duke e thelluar në dy pikë epërsinë në krye të tabelës ndaj Bayern Munichut.\n\n\nRivalët e tyre në garën për titull, Bayern Munichu, humbën terren të premten mbrëma, pasi barazuan 1-1 me",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T22:00:25+00:00",
+      "dateStr": "22 Nov, 22:00",
+      "isNew": true,
+      "id": "gaz61795384825"
+    },
+    {
+      "title": "Anketa: Rreth 20% e kosovarëve të rritur duan dhe po përgatiten të emigrojnë, si është situata në vendet e rajonit",
+      "link": "https://www.gazetaexpress.com/anketa-rreth-20-e-kosovareve-te-rritur-duan-dhe-po-pergatiten-te-emigrojne-si-eshte-situata-ne-vendet-e-rajonit/",
+      "description": "Sipas të dhënave të publikuara nga Regional Cooperation Council SecuriMeter2026, Kosova regjistron përqindjen më të ulët të qytetarëve të rritur që shqyrtojnë mundësinë e emigrimit në rajon, me 19.7% të të anketuarve që shprehin këtë mendim.  \n\n\nPërballë Kosovës, vendet e tjera të përfshira në pasqy",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T21:56:52+00:00",
+      "dateStr": "22 Nov, 21:56",
+      "isNew": true,
+      "id": "gaz71795384612"
+    },
+    {
+      "title": "Incident detar në Gjirin e Omanit, autoritetet britanike nisin hetimet",
+      "link": "https://abcnews.al/incident-detar-ne-gjirin-e-omanit-autoritetet-britanike-nisin-hetimet/",
+      "description": "Shërbimi i Operacioneve të Tregtisë Detare të Mbretërisë së Bashkuar (UKMTO) ka njoftuar për një incident në Gjirin e Omanit, ku janë përfshirë një tanker dhe forca ushtarake. Në njoftimin e publikuar sot, UKMTO bëri të ditur se kishte marrë një raport lidhur me incidentin, por nuk dha detaje të mët",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-11-22T21:50:36+00:00",
+      "dateStr": "22 Nov, 21:50",
+      "isNew": true,
+      "id": "abc01795384236"
+    },
+    {
+      "title": "Tetë gola të shënuar – rikthim i çmendur i Atalantas, Interit s’i mjafton “hat-tricku” i Pios",
+      "link": "https://www.gazetaexpress.com/tete-gola-te-shenuar-rikthim-i-cmendur-i-atalantas-interit-si-mjafton-hat-tricku-i-pios/",
+      "description": "Atalanta dhe Interi kanë dhuruar një ndeshje spektakolare, duke barazuar 4-4 në një përballje dramatike në Serie A.\n\n\nInteri kaloi në epërsi në minutën e 16-të me Francesco Pio Espositon, i cili realizoi edhe golin e dytë në fund të pjesës së parë, pas një goditjeje nga këndi.\n\n\nAtalanta reagoi menj",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T21:49:37+00:00",
+      "dateStr": "22 Nov, 21:49",
+      "isNew": true,
+      "id": "gaz81795384177"
+    },
+    {
+      "title": "Shpërthimi në Zvicër, shqiptari rrëfen tmerrin: U ndjeva sikur isha kthyer në luftën e Kosovës, dëgjova tri herë thirrje për ndihmë",
+      "link": "https://www.gazetaexpress.com/shperthimi-ne-zvicer-shqiptari-rrefen-tmerrin-u-ndjeva-sikur-isha-kthyer-ne-luften-e-kosoves-degjova-tri-here-thirrje-per-ndihme/",
+      "description": "Një shpërthim i fuqishëm i ndjekur nga një zjarr ka tronditur banorët e një pallati në Menziken, në Zvicër, mbrëmjen e së shtunës.\n\n\nNgjarja shkaktoi panik mes banorëve, ndërsa një person pësoi djegie të konsiderueshme dhe u transportua me helikopter drejt spitalit.\n\n\nSipas dëshmive të banorëve të p",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-22T21:41:56+00:00",
+      "dateStr": "22 Nov, 21:41",
+      "isNew": true,
+      "id": "gaz91795383716"
+    },
+    {
+      "title": "Gjermania teston dronët kamikazë në Lituani, stërvitje ushtarake pranë kufirit me Bjellorusinë",
+      "link": "https://abcnews.al/gjermania-teston-dronet-kamikaze-ne-lituani-stervitje-ushtarake-prane-kufirit-me-bjellorusine/",
+      "description": "Ushtria gjermane ka zhvilluar testet e para operacionale të dronëve kamikazë në Lituani, si pjesë e një stërvitjeje të madhe ushtarake pranë kufirit me Bjellorusinë. Testimet u zhvilluan të hënën në poligonin ushtarak Rudninkai, ku forcat gjermane po provojnë gjithashtu sisteme të inteligjencës arti",
+      "source": "ABC News",
+      "category": "politike",
+      "date": "2026-11-22T21:20:41+00:00",
+      "dateStr": "22 Nov, 21:20",
+      "isNew": true,
+      "id": "abc11795382441"
     },
     {
       "title": "Inteligjenca amerikane heton dyshimet për spiunazh ndaj teknologjisë së Nvidia-s",
@@ -155,18 +254,7 @@
       "date": "2026-11-22T21:00:42+00:00",
       "dateStr": "22 Nov, 21:00",
       "isNew": true,
-      "id": "abc01795381242"
-    },
-    {
-      "title": "Ngjarje e rëndë në Itali, 31-vjeçarja shqiptare humb jetën në aksident, lëndohen edhe tre fëmijë",
-      "link": "https://www.gazetaexpress.com/tragjedi-ne-itali-31-vjecarja-shqiptare-humb-jeten-ne-aksident-plagosen-edhe-tre-femije/",
-      "description": "Një 31-vjeçare me origjinë shqiptare ka humbur jetën në një aksident të rëndë automobilistik në Itali, ndërsa tre fëmijë që udhëtonin në të njëjtën makinë kanë mbetur të plagosur. Viktima është identifikuar si Emanuela Shahini, banore e Prata di Pordenone.\n\n\nAksidenti ndodhi mëngjesin e 22 nëntorit,",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-22T20:52:07+00:00",
-      "dateStr": "22 Nov, 20:52",
-      "isNew": true,
-      "id": "gaz31795380727"
+      "id": "abc21795381242"
     },
     {
       "title": "Sulm me dron rus në veri të Kievit, dy të vdekur dhe disa persona të bllokuar nën rrënoja",
@@ -177,29 +265,7 @@
       "date": "2026-11-22T20:40:46+00:00",
       "dateStr": "22 Nov, 20:40",
       "isNew": true,
-      "id": "abc11795380046"
-    },
-    {
-      "title": "FSHF-ja tentoi ta bindte, Armand Duka tregon pse Brajan Gruda zgjodhi Gjermaninë",
-      "link": "https://www.gazetaexpress.com/fshf-ja-tentoi-ta-bindte-armand-duka-tregon-pse-brajan-gruda-zgjodhi-gjermanine/",
-      "description": "Brajan Gruda e ka refuzuar mundësinë e të qenurit pjesë e kombëtares së Shqipërisë, pavarësisht interesimit dhe përpjekjeve të vazhdueshme të Federatës Shqiptare të Futbollit (FSHF) për ta bindur që të vishte fanellën kuqezi.\n\n\nPër këtë çështje ka folur presidenti i FSHF-së, Armand Duka, në një inte",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-22T20:40:11+00:00",
-      "dateStr": "22 Nov, 20:40",
-      "isNew": true,
-      "id": "gaz41795380011"
-    },
-    {
-      "title": "Rama në Manastir propozon Bibliotekë Mbarëkombëtare të Shqipes: Do ta marrim përsipër, besoj se Kosova do të ketë gatishmëri",
-      "link": "https://www.gazetaexpress.com/rama-ne-manastir-propozon-biblioteke-mbarekombetare-te-shqipes-do-ta-marrim-persiperbesoj-se-kosova-do-te-kete-gatishmeri/",
-      "description": "Kryeministri Edi Rama gjatë vizitës së tij në Manastir, në Europe House, pati edhe një takim me të rinjtë nga Shqipëria, Kosova, Maqedonia e Veriut, Mali i Zi dhe Presheva, si dhe me rektorë e përfaqësues të universiteteve.\n\n\nNë fokus ishte arsimi, identitetin jonë kulturor, bashkëpunimin mes të rin",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-22T20:39:54+00:00",
-      "dateStr": "22 Nov, 20:39",
-      "isNew": true,
-      "id": "gaz51795379994"
+      "id": "abc31795380046"
     },
     {
       "title": "Defekti në sistemin e Delta Air Lines shkakton vonesa në qindra fluturime në SHBA",
@@ -210,18 +276,7 @@
       "date": "2026-11-22T20:32:42+00:00",
       "dateStr": "22 Nov, 20:32",
       "isNew": true,
-      "id": "abc21795379562"
-    },
-    {
-      "title": "Melania Trump zbulon këshillën që i jep të birit për gratë dhe takimet: Bëj kujdes, bota është e rrezikshme",
-      "link": "https://www.gazetaexpress.com/melania-trump-zbulon-keshillen-qe-i-jep-te-birit-per-grate-dhe-takimet-bej-kujdes-bota-eshte-e-rrezikshme/",
-      "description": "Melania Trump ka bërë një rrëfim të rrallë për jetën private të djalit të saj, Barron Trump, duke zbuluar këshillat që i jep për marrëdhëniet romantike dhe takimet, si dhe shqetësimin që ka për sigurinë e tij.\n\n\nZonja e Parë e SHBA-së, e cila rrallëherë flet publikisht për marrëdhënien me djalin e s",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-22T20:30:39+00:00",
-      "dateStr": "22 Nov, 20:30",
-      "isNew": true,
-      "id": "gaz61795379439"
+      "id": "abc41795379562"
     },
     {
       "title": "Dita e Alfabetit, Rama në Manastir takohet me të rinj dhe përfaqësues të universiteteve nga trevat shqiptare",
@@ -232,18 +287,7 @@
       "date": "2026-11-22T20:20:28+00:00",
       "dateStr": "22 Nov, 20:20",
       "isNew": true,
-      "id": "abc31795378828"
-    },
-    {
-      "title": "Një vit nga rikthimi në “Spotify Camp Nou”: Bilanci i jashtëzakonshëm i Barcelonës në shtëpi",
-      "link": "https://www.gazetaexpress.com/nje-vit-nga-rikthimi-ne-spotify-camp-nou-bilanci-i-jashtezakonshem-i-barcelones-ne-shtepi/",
-      "description": "22 nëntori i vitit 2025 ishte data kur “Spotify Camp Nou” rihapi dyert pas sigurimit të të gjitha lejeve të nevojshme, ndërsa ndeshja e parë në stadium ishte ajo mes Barcelonës dhe Athletic Club Bilbaos.\n\n\nAtë mbrëmje, Barcelona shënoi katër gola ndaj skuadrës baske, ndërsa Robert Lewandowski pati n",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-22T20:20:06+00:00",
-      "dateStr": "22 Nov, 20:20",
-      "isNew": true,
-      "id": "gaz71795378806"
+      "id": "abc51795378828"
     },
     {
       "title": "“News Room” me Erneta Shevroja, (22/11/2026)",
@@ -254,29 +298,7 @@
       "date": "2026-11-22T20:16:13+00:00",
       "dateStr": "22 Nov, 20:16",
       "isNew": true,
-      "id": "abc41795378573"
-    },
-    {
-      "title": "Serwer: Pa njohjen e Kosovës, Serbia s’mund të hyjë në BE",
-      "link": "https://www.gazetaexpress.com/serwer-pa-njohjen-e-kosoves-serbia-smund-te-hyje-ne-be/",
-      "description": "Profesori amerikan Daniel Serwer ka thënë se Serbia nuk mund të anëtarësohet në Bashkimin Evropian pa i normalizuar plotësisht marrëdhëniet me Kosovën, gjë që, sipas tij, nënkupton njohjen e Kosovës dhe shkëmbimin e ambasadorëve mes dy vendeve.\n\n\nNë një bashkëbisedim në podcastin “PIKË” me publicist",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-22T20:14:20+00:00",
-      "dateStr": "22 Nov, 20:14",
-      "isNew": true,
-      "id": "gaz81795378460"
-    },
-    {
-      "title": "Rreth 300 raste me fruth në Kosovë, mjekët apelojnë për vaksinim",
-      "link": "https://www.gazetaexpress.com/rreth-300-raste-me-fruth-ne-kosove-mjeket-apelojne-per-vaksinim/",
-      "description": "Rastet e prekura nga fruthi në Kosovë kanë shënuar rritje, veçanërisht gjatë muajit të fundit. Sipas të dhënave të QKMF-së në Prizren, të marra nga Instituti Kombëtar i Shëndetësisë Publike të Kosovës (IKSHPK), nga prilli deri në fillim të nëntorit të këtij viti janë regjistruar rreth 300 raste në g",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-22T20:12:07+00:00",
-      "dateStr": "22 Nov, 20:12",
-      "isNew": true,
-      "id": "gaz91795378327"
+      "id": "abc61795378573"
     },
     {
       "title": "“Gjërat Tona”/ “Ini i çones” – mes të shkuarës dhe misterit",
@@ -287,7 +309,7 @@
       "date": "2026-11-22T20:00:16+00:00",
       "dateStr": "22 Nov, 20:00",
       "isNew": true,
-      "id": "abc51795377616"
+      "id": "abc71795377616"
     },
     {
       "title": "Vdekja e 32-vjeçarit trondit Kroacinë, mijëra qytetarë protestojnë në Zagreb",
@@ -298,7 +320,7 @@
       "date": "2026-11-22T19:15:39+00:00",
       "dateStr": "22 Nov, 19:15",
       "isNew": true,
-      "id": "abc61795374939"
+      "id": "abc81795374939"
     },
     {
       "title": "Libi/ Shpërthim në një anije ruse në portin e Bengazit, dyshime për sulm me dronë",
@@ -309,29 +331,7 @@
       "date": "2026-11-22T19:09:30+00:00",
       "dateStr": "22 Nov, 19:09",
       "isNew": true,
-      "id": "abc71795374570"
-    },
-    {
-      "title": "Xhavit Shala: Rusia dhe Irani, aktorët kryesorë të sulmeve hibride dhe kibernetike ndaj Perëndimit",
-      "link": "https://abcnews.al/xhavit-shala-rusia-dhe-irani-aktoret-kryesore-te-sulmeve-hibride-dhe-kibernetike-ndaj-perendimit/",
-      "description": "Eksperti i sigurisë dhe mbrojtjes, Xhavit Shala, në “Newsroom” në ABC News, ka komentuar shtimin e sulmeve kibernetike dhe kërcënimeve hibride ndaj vendeve të Bashkimit Europian dhe Shteteve të Bashkuara. Shala u shpreh se Europa ndodhet prej katër vitesh në një situatë të tensionuar sigurie, fillim",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-11-22T18:40:15+00:00",
-      "dateStr": "22 Nov, 18:40",
-      "isNew": true,
-      "id": "abc81795372815"
-    },
-    {
-      "title": "Plagosja me thikë në Korçë, zbardhet identiteti i 30-vjeçarit, i riu: U godita nga disa persona",
-      "link": "https://abcnews.al/plagosja-me-thike-ne-korce-zbardhet-identiteti-i-30-vjecarit-i-riu-u-godita-nga-disa-persona/",
-      "description": "Detaje të reja janë zbardhur nga plagosja me thikë e ndodhur në Korçë. I plagosuri është identifikuar si Anxhelo Brisku, 30 vjeç. Paraprakisht, mësohet se ai ka deklaruar se është goditur nga disa persona, të cilët pretendon se nuk i njeh. 30-vjeçari ka marrë plagë në zonën e shpatullës dhe në shpin",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-11-22T18:30:53+00:00",
-      "dateStr": "22 Nov, 18:30",
-      "isNew": true,
-      "id": "abc91795372253"
+      "id": "abc91795374570"
     },
     {
       "title": "Në Mardin të Turqisë nis edicioni i katërt i Festivalit Ndërkombëtar të Filmit “Mardin Film Festivali Telkari Odulleri”",
