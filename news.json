@@ -1,8 +1,140 @@
 {
-  "lastUpdated": "2026-11-25T22:54:50.604748+00:00",
-  "totalSources": 4,
-  "totalNews": 40,
+  "lastUpdated": "2026-11-26T04:40:02.053522+00:00",
+  "totalSources": 5,
+  "totalNews": 50,
   "news": [
+    {
+      "title": "Macron kërcënon të braktisë negociatat për buxhetin e BE-së nëse nuk ka marrëveshje deri në dhjetor",
+      "link": "https://24-ore.com/macron-kercenon-te-braktise-negociatat-per-buxhetin-e-be-se-nese-nuk-ka-marreveshje-deri-ne-dhjetor/",
+      "description": "Presidenti francez Emmanuel Macron paralajmëroi se nuk do të vazhdojë negociatat për buxhetin shtatëvjeçar 2028-2034 të BE-së pas dhjetorit, nëse liderët nuk arrijnë marrëveshje në samitin e 17-18 dhjetorit, duke kritikuar propozimin e António Costa-s për shkurtimin e 44 miliardë eurove të tjera.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-26T04:28:08+00:00",
+      "dateStr": "26 Nov, 04:28",
+      "isNew": true,
+      "id": "24 01795667288"
+    },
+    {
+      "title": "Nafta ngjitet pranë 95 dollarëve për fuçi pas sulmit në Ras Tanura dhe minave në Hormuz",
+      "link": "https://24-ore.com/nafta-ngjitet-prane-95-dollareve-per-fuci-pas-sulmit-ne-ras-tanura-dhe-minave-ne-hormuz/",
+      "description": "Brent u rrit në 94.71 dollarë për fuçi, pasi të mërkurën kishte kërcyer 3.5 për qind, ndërsa sulmet e Huthi-ve ndaj rafinerisë më të madhe saudite dhe incidentet me mina në Ngushticën e Hormuzit mbajnë tregjet e energjisë në tension.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-26T04:28:00+00:00",
+      "dateStr": "26 Nov, 04:28",
+      "isNew": true,
+      "id": "24 11795667280"
+    },
+    {
+      "title": "Kriza demografike godet Evrosin: ka humbur një në pesë banorë në një dekadë",
+      "link": "https://24-ore.com/kriza-demografike-godet-evrosin-ka-humbur-nje-ne-pese-banore-ne-nje-dekade/",
+      "description": "Një panoramë shqetësuese për të ardhmen demografike të Evrosit pasqyrojnë të dhënat e dekadës së fundit, me pjesën veriore të tij përballë një tkurrjeje gjithnjë e më të theksuar të popullsisë: bashkitë e Orestiadës, Didimoteihos dhe Sufliut kanë humbur gati 20% të banorëve të tyre brenda dhjetë vje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-26T04:06:03+00:00",
+      "dateStr": "26 Nov, 04:06",
+      "isNew": true,
+      "id": "24 21795665963"
+    },
+    {
+      "title": "Perama dhe Keratsini: mësues e prindër protestojnë kundër dëbimit të familjeve emigrante nga struktura e Shistos",
+      "link": "https://24-ore.com/perama-dhe-keratsini-mesues-e-prinder-protestojne-kunder-debimit-te-familjeve-emigrante-nga-struktura-e-shistos/",
+      "description": "Një letër të hapur proteste drejtuar ministrive të Migracionit dhe Azilit, të Familjes dhe Kohezionit Social dhe të Arsimit u kanë dërguar anëtarë të komunitetit arsimor — mësues, prindër dhe koordinatorë të arsimit të emigrantëve — nga shkolla në Perama dhe Keratsini, ku mësojnë dhjetë fëmijë të mi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-26T04:02:22+00:00",
+      "dateStr": "26 Nov, 04:02",
+      "isNew": true,
+      "id": "24 31795665742"
+    },
+    {
+      "title": "Selanik: në burg 37-vjeçari që rrahu gruan pas sherrit për transmetimin live në TikTok",
+      "link": "https://24-ore.com/selanik-ne-burg-37-vjecari-qe-rrahu-gruan-pas-sherrit-per-transmetimin-live-ne-tiktok/",
+      "description": "Në burg do të shkojë një 37-vjeçar në Selanik, i cili u shpall fajtor për rrahjen e bashkëshortes së tij, pas një sherri që dyshohet se shpërtheu me shkak një transmetim të drejtpërdrejtë në TikTok, siç njofton gazeta greke Efsyn. Gjykata e Kundërvajtjeve me një gjyqtar e Selanikut, ku u gjykua çësh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-26T03:58:39+00:00",
+      "dateStr": "26 Nov, 03:58",
+      "isNew": true,
+      "id": "24 41795665519"
+    },
+    {
+      "title": "Fund tragjik në Ntrafi: gjendet i vdekur gjuetari 78-vjeçar, qeni i tij i qëndroi pranë gjithë natën",
+      "link": "https://24-ore.com/fund-tragjik-ne-ntrafi-gjendet-i-vdekur-gjuetari-78-vjecar-qeni-i-tij-i-qendroi-prane-gjithe-naten/",
+      "description": "Përfundim tragjik pati operacioni gjatë gjithë natës për gjetjen e një gjuetari 78-vjeçar në Penteli, automjeti i të cilit doli nga rruga mbrëmjen e së martës në një rrugë të pabanuar dheu mbi Ntrafi dhe përfundoi në një humnerë të thepisur me thellësi rreth 200 metra, siç njofton gazeta greke Efsyn",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-26T03:55:14+00:00",
+      "dateStr": "26 Nov, 03:55",
+      "isNew": true,
+      "id": "24 51795665314"
+    },
+    {
+      "title": "Dronët ukrainas sulmojnë zonën industriale të Nevinnomyssk-ut në Stavropol, ku ndodhet uzina e plehrave kimike Azot",
+      "link": "https://24-ore.com/dronet-ukrainas-sulmojne-zonen-industriale-te-nevinnomyssk-ut-ne-stavropol-ku-ndodhet-uzina-e-plehrave-kimike-azot/",
+      "description": "Dronët ukrainas sulmuan natën e 26 nëntorit një zonë industriale në Nevinnomyssk, në rajonin Stavropol në jug të Rusisë, ku ndodhet një fabrikë e madhe plehrash kimike që prodhon përbërës për armët ruse, siç njofton The Kyiv Independent. Guvernatori i Stavropolit, Vladimir Vladimirov, e raportoi sul",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-26T03:42:22+00:00",
+      "dateStr": "26 Nov, 03:42",
+      "isNew": true,
+      "id": "24 61795664542"
+    },
+    {
+      "title": "Socialistët dhe liberalët pezullojnë bisedimet e koalicionit në Parlamentin Evropian pas votimit të PPE-së me të djathtën ekstreme",
+      "link": "https://24-ore.com/socialistet-dhe-liberalet-pezullojne-bisedimet-e-koalicionit-ne-parlamentin-evropian-pas-votimit-te-ppe-se-me-te-djathten-ekstreme/",
+      "description": "Grupet S&#038;D dhe Renew Europe pezulluan deri në njoftim tjetër negociatat me Partinë Popullore Evropiane për marrëveshjen e koalicionit për gjysmën e dytë të legjislaturës, pasi konservatorët votuan me të djathtën ekstreme për rregullat e vlerësimit mjedisor, duke vënë në pikëpyetje edhe rizgjedh",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-26T03:38:08+00:00",
+      "dateStr": "26 Nov, 03:38",
+      "isNew": true,
+      "id": "24 71795664288"
+    },
+    {
+      "title": "Britania dhe BE-ja publikojnë të enjten tekstet e dy traktateve, klauzola 10-vjeçare për kostot e kufirit",
+      "link": "https://24-ore.com/britania-dhe-be-ja-publikojne-te-enjten-tekstet-e-dy-traktateve-klauzola-10-vjecare-per-kostot-e-kufirit/",
+      "description": "Qeveria britanike dhe Bashkimi Evropian publikojnë pasditen e së enjtes tekstet e dy traktateve të marrëveshjes së re për tregtinë e ushqimeve dhe tregtimin e emetimeve, bashkë me projektligjin për zbatimin e pjesës më të madhe të marrëveshjes.",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-26T03:30:22+00:00",
+      "dateStr": "26 Nov, 03:30",
+      "isNew": true,
+      "id": "24 81795663822"
+    },
+    {
+      "title": "Suárez para ndeshjes vendimtare: Koha e justifikimeve mbaroi, Inter Miami luan sezonin të premten në Columbus",
+      "link": "https://24-ore.com/suarez-para-ndeshjes-vendimtare-koha-e-justifikimeve-mbaroi-inter-miami-luan-sezonin-te-premten-ne-columbus/",
+      "description": "Inter Miami, kampionët në fuqi të MLS Cup, udhëtojnë për t&#8217;u përballur me Columbus Crew, farën nr. 7, të premten në mbrëmje, në orën 8 pm ET (Apple TV / FS1 / FOX Deportes), në Ndeshjen 2 të serisë së Raundit të Parë, më e mira nga tri ndeshjet — fitore ose sezoni mbaron. Siç [&#8230;]",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-26T02:42:16+00:00",
+      "dateStr": "26 Nov, 02:42",
+      "isNew": true,
+      "id": "24 91795660936"
+    },
+    {
+      "title": "Edi Rama ia ndërpren pak fjalën presidentit malazez: S’ka pyetje, Mali i Zi është më i miri",
+      "link": "https://www.gazetaexpress.com/edi-rama-ia-nderpren-pak-fjalen-presidentit-malazez-ska-pyetje-mali-i-zi-eshte-me-i-miri/",
+      "description": "Kryeministri shqiptar, Edi Rama, ka përsëritur një veprim që i ishte bërë viral ditë më parë, teksa i ishte afruar kryeministrit belg derisa ai po fliste për media. \n\n\nRama ka bërë të njejtën gjë me presidentin e Malit të Zi derisa po fliste për media në nisje të Samitit BE-Ballkan Perëndimor. \n\n\n”S",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-25T23:13:43+00:00",
+      "dateStr": "25 Nov, 23:13",
+      "isNew": true,
+      "id": "gaz01795648423"
+    },
+    {
+      "title": "Aksident me një viktimë në Berat",
+      "link": "https://gazetablic.com/aksident-me-nje-viktime-ne-berat/",
+      "description": "Një 67-vjeçar ka humbur jetën si pasojë e një aksidenti në Dimal të Beratit të Shqipërisë. Ngjarja ka ndodhur pasi 67-vjeçari dyshohet se ka humbur kontrollin mbi automjetin, ka dalë nga rruga dhe është përplasur ne një kanal anës rrugës ku më pas, ai ka humbur jetën. Trupi i pajetë është dërguar në",
+      "source": "Gazeta Blic",
+      "category": "kronike",
+      "date": "2026-11-25T22:52:11+00:00",
+      "dateStr": "25 Nov, 22:52",
+      "isNew": true,
+      "id": "gaz01795647131"
+    },
     {
       "title": "Haradinaj thotë se vrasja e Ukë Bytyqit nuk ishte politike: Ishte hakmarrje e një babai që iu rrah djali",
       "link": "https://www.gazetaexpress.com/haradinaj-thote-se-vrasja-e-uke-bytyqit-nuk-ishte-politike-ishte-hakmarrje-e-nje-babai-qe-iu-rrah-djali/",
@@ -12,18 +144,7 @@
       "date": "2026-11-25T22:50:08+00:00",
       "dateStr": "25 Nov, 22:50",
       "isNew": true,
-      "id": "gaz01795647008"
-    },
-    {
-      "title": "Çitaku mirëpret gatishmërinë e BE-së për konsultime për Ligjin për Specialen: Jemi gati",
-      "link": "https://24-ore.com/citaku-mirepret-gatishmerine-e-be-se-per-konsultime-per-ligjin-per-specialen-jemi-gati/",
-      "description": "Ushtruesja e detyrës së kryetares së Partisë Demokratike të Kosovës (PDK), Vlora Çitaku, e ka mirëpritur gatishmërinë e Bashkimit Evropian për t&#8217;u konsultuar me autoritetet e Kosovës për çdo nismë të re që synon ndryshimin e legjislacionit për Dhomat e Specializuara të Kosovës. Pas përgjigjes ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-25T22:48:06+00:00",
-      "dateStr": "25 Nov, 22:48",
-      "isNew": true,
-      "id": "24 01795646886"
+      "id": "gaz11795647008"
     },
     {
       "title": "Vdes në moshën 65-vjeçare Andy Taylor, kitaristi që i dha Duran Duran tingullin e tij",
@@ -34,7 +155,18 @@
       "date": "2026-11-25T22:41:23+00:00",
       "dateStr": "25 Nov, 22:41",
       "isNew": true,
-      "id": "gaz11795646483"
+      "id": "gaz21795646483"
+    },
+    {
+      "title": "‘Asgjë më shumë se një turp’, Ashley Young kritikon ashpër gjyqtarët e duelit Man United-Sporting",
+      "link": "https://gazetablic.com/asgje-me-shume-se-nje-turp-ashley-young-kritikon-ashper-gjyqtaret-e-duelit-man-united-sporting/",
+      "description": "Duke folur pas barazimit 2-2 të Man United kundër Sporting në Ligën e Kampionëve, Ashley Young i tha BBC Radios: &#8220;Performanca e gjyqtarit ishte&#8230; thjesht e pabesueshme. &#8220;Vendimet që mori ai&#8230; Youri Tielemans u ndëshkua me karton, gjë që më vonë çoi në përjashtimin e tij, ai u n",
+      "source": "Gazeta Blic",
+      "category": "kronike",
+      "date": "2026-11-25T22:39:20+00:00",
+      "dateStr": "25 Nov, 22:39",
+      "isNew": true,
+      "id": "gaz11795646360"
     },
     {
       "title": "Parashikimi i motit për të enjten",
@@ -45,18 +177,18 @@
       "date": "2026-11-25T22:38:19+00:00",
       "dateStr": "25 Nov, 22:38",
       "isNew": true,
-      "id": "gaz21795646299"
+      "id": "gaz31795646299"
     },
     {
-      "title": "Deklarata e Brukselit pas Samitit BE -Ballkani Perëndimor e miratuar edhe nga liderët e pesë vendeve të rajonit, por jo edhe Serbia",
+      "title": "Brukseli i kërkon Kosovës dhe Serbisë progres konkret në dialog dhe zbatim të plotë të marrëveshjeve të arritura",
       "link": "https://www.gazetaexpress.com/deklarata-e-brukselit-pas-samitit-be-ballkani-perendimor-e-miratuar-edhe-nga-lideret-e-pese-vendeve-te-rajonit-por-jo-edhe-serbia/",
-      "description": "Bashkimi Evropian ka theksuar se mungesa e normalizimit të marrëdhënieve ndërmjet Kosovës dhe Serbisë vazhdon t’i pengojë të dyja palët në rrugën drejt integrimit evropian.\n\n\nBE-ja ka riafirmuar mbështetjen për Dialogun Kosovë-Serbi, të ndërmjetësuar nga ajo, duke u bërë thirrje të dy vendeve që të ",
+      "description": "Bashkimi Europian ka lëshuar një deklaratë 20&nbsp; pikëshe pas Samitit me liderë të vendeve të Ballkanit Përëndimor. Brukseli ka sqaruar se &nbsp;Deklarata e Brukselit ka marrë edhe aprovimin e pesë vendeve të rajonit, por jo edhe të Serbisë e cila aa nuk ka marrë pjesë.\n\n\nNë njërën nga pikat, Bash",
       "source": "Gazeta Express",
       "category": "politike",
       "date": "2026-11-25T22:38:10+00:00",
       "dateStr": "25 Nov, 22:38",
       "isNew": true,
-      "id": "gaz31795646290"
+      "id": "gaz41795646290"
     },
     {
       "title": "“Shqipëria ka bërë detyrat e shtëpisë”/ BE jep fondet, Krisafi: Qëllimi, t’i afrohemi mesatares së unionit",
@@ -70,37 +202,15 @@
       "id": "abc01795645982"
     },
     {
-      "title": "“534 mjekë pa punë”, Erton Maliqi tregon se prej katër vjetësh nuk po arrin të punësohet si mjek",
-      "link": "https://24-ore.com/534-mjeke-pa-pune-erton-maliqi-tregon-se-prej-kater-vjetesh-nuk-po-arrin-te-punesohet-si-mjek/",
-      "description": "Erton Maliqi, i diplomuar në mjekësi para katër vjetësh, ka thënë se që nga përfundimi i studimeve nuk po arrin të gjejë punë në profesionin e tij, ndërsa ka theksuar se edhe mjekë të tjerë janë detyruar të punojnë jashtë profesionit, përfshirë në qendra telefonike (Call Center). Në emisionin Debat ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-25T22:32:43+00:00",
-      "dateStr": "25 Nov, 22:32",
+      "title": "BE-ja u jep shpresë anëtarësimi vendeve të Ballkanit",
+      "link": "https://gazetablic.com/be-ja-u-jep-shprese-anetaresimi-vendeve-te-ballkanit/",
+      "description": "Bashkimi Evropian po u bën thirrje vendeve të Ballkanit Perëndimor që të shfrytëzojnë mundësinë aktuale për t’u anëtarësuar në BE. “Ruajeni këtë momentum dhe zbatoni reformat që do t’ju çojnë drejt Bashkimit Evropian”, deklaroi presidenti i Këshillit Evropian, Antonio Costa, pas një samiti me përfaq",
+      "source": "Gazeta Blic",
+      "category": "kronike",
+      "date": "2026-11-25T22:28:35+00:00",
+      "dateStr": "25 Nov, 22:28",
       "isNew": true,
-      "id": "24 11795645963"
-    },
-    {
-      "title": "Afganistan – Talebanët ndalojnë përdorimin e emrave të grave në dokumentet zyrtare në provincën e Balkhut",
-      "link": "https://24-ore.com/afganistan-talebanet-ndalojne-perdorimin-e-emrave-te-grave-ne-dokumentet-zyrtare-ne-provincen-e-balkhut/",
-      "description": "KABUL, 25 nëntor, ATSH/ Autoritetet talebane në provincën veriore të Balkhut, në Afganistan, kanë urdhëruar ndalimin e përdorimit të emrave të grave në dokumentet zyrtare, përfshirë recetat dhe kartelat mjekësore, raporton gazeta spanjolle El País. Masa, e raportuar fillimisht në një investigim të m",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-25T22:30:25+00:00",
-      "dateStr": "25 Nov, 22:30",
-      "isNew": true,
-      "id": "24 21795645825"
-    },
-    {
-      "title": "UKRAINË – Zelensky: Do të vijojmë kundërpërgjigjen ndaj Rusisë, avionët dhe anijet që transportojnë armë janë objektiva legjitime",
-      "link": "https://24-ore.com/ukraine-zelensky-do-te-vijojme-kunderpergjigjen-ndaj-rusise-avionet-dhe-anijet-qe-transportojne-arme-jane-objektiva-legjitime/",
-      "description": "KIEV, 25 nëntor /ATSH-Ukrinform/ – Presidenti ukrainas, Volodymyr Zelensky deklaroi sot se Ukraina do të vazhdojë sulmet ndaj objektivave ushtarake ruse, duke theksuar se avionët luftarakë, anijet e luftës dhe mjetet detare që transportojnë armë ruse, përbëjnë objektiva legjitime për forcat ukrainas",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-25T22:30:10+00:00",
-      "dateStr": "25 Nov, 22:30",
-      "isNew": true,
-      "id": "24 31795645810"
+      "id": "gaz21795645715"
     },
     {
       "title": "Tri fitore radhazi, Interi vazhdon marshimin në Champions",
@@ -111,7 +221,7 @@
       "date": "2026-11-25T22:26:41+00:00",
       "dateStr": "25 Nov, 22:26",
       "isNew": true,
-      "id": "gaz41795645601"
+      "id": "gaz51795645601"
     },
     {
       "title": "Busti i Adem Jasharit te kisha e Llapushnikut, Nasim Haradinaj: Pse nuk reagun për Rugovën në katedrale e Nënë Terezën n’shesh?",
@@ -122,7 +232,7 @@
       "date": "2026-11-25T22:24:51+00:00",
       "dateStr": "25 Nov, 22:24",
       "isNew": true,
-      "id": "gaz51795645491"
+      "id": "gaz61795645491"
     },
     {
       "title": "Skena muzikore e Kosovës humb producentin IlirOs",
@@ -133,7 +243,7 @@
       "date": "2026-11-25T22:22:57+00:00",
       "dateStr": "25 Nov, 22:22",
       "isNew": true,
-      "id": "gaz61795645377"
+      "id": "gaz71795645377"
     },
     {
       "title": "Liverpooli shkëlqen në Belgjikë, mposht bindshëm Club Bruggen",
@@ -144,7 +254,7 @@
       "date": "2026-11-25T22:21:31+00:00",
       "dateStr": "25 Nov, 22:21",
       "isNew": true,
-      "id": "gaz71795645291"
+      "id": "gaz81795645291"
     },
     {
       "title": "Zelensky pret nga SHBA datën për takimin katërpalësh mbi Ukrainën, kërkon përfshirjen e Evropës",
@@ -166,84 +276,29 @@
       "date": "2026-11-25T22:18:49+00:00",
       "dateStr": "25 Nov, 22:18",
       "isNew": true,
-      "id": "gaz81795645129"
+      "id": "gaz91795645129"
     },
     {
-      "title": "BE-ja kërkon progres në dialogun Kosovë-Serbi, normalizimi mbetet kusht për rrugën drejt Evropës",
-      "link": "https://24-ore.com/be-ja-kerkon-progres-ne-dialogun-kosove-serbi-normalizimi-mbetet-kusht-per-rrugen-drejt-evropes/",
-      "description": "Bashkimi Evropian ka kërkuar nga Kosova dhe Serbia që të shfrytëzojnë momentumin aktual politik për të shënuar përparim konkret në dialogun për normalizimin e marrëdhënieve, duke theksuar se mungesa e normalizimit vazhdon t’i pengojë të dyja palët në rrugën drejt integrimit evropian. Kjo është theks",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-25T22:18:22+00:00",
-      "dateStr": "25 Nov, 22:18",
-      "isNew": true,
-      "id": "24 41795645102"
-    },
-    {
-      "title": "Befasi në Ligën e Kampionëve, Lille e mposht Bayern Munichun",
-      "link": "https://www.gazetaexpress.com/befasi-ne-ligen-e-kampioneve-lille-e-mposht-bayern-munichun/",
-      "description": "Bayern Munich ka pësuar humbjen e parë këtë edicion, pasi është mposhtur 2:1 nga Lille në udhëtim, në kuadër të xhiros së pestë të fazës së ligës në Ligën e Kampionëve.\n\n\nSkuadra e Vincent Kompanyt e nisi mirë takimin dhe kaloi në epërsi në minutën e 15-të. Dayot Upamecano shënoi me kokë pas një har",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-25T22:17:43+00:00",
+      "title": "Bruno Fernandes: Ne marrim përgjegjësinë për gjithçka",
+      "link": "https://gazetablic.com/bruno-fernandes-ne-marrim-pergjegjesine-per-gjithcka/",
+      "description": "Bruno Fernandes pranoi se lojtarët e Man United do të nxjerrin mësime nga barazimi 2-2 kundër Sporting, në përballjen e Ligës së Kampionëve për sezonin 2026/27. Pas ndeshjes, ai deklaroi për TNT Sports: &#8220;Ne marrim përgjegjësinë për gjithçka që bëjmë mirë dhe për gjithçka që bëjmë keq. &#8220;P",
+      "source": "Gazeta Blic",
+      "category": "kronike",
+      "date": "2026-11-25T22:17:15+00:00",
       "dateStr": "25 Nov, 22:17",
       "isNew": true,
-      "id": "gaz91795645063"
+      "id": "gaz31795645035"
     },
     {
-      "title": "Makina del nga rruga dhe përmbyset në kanal, humb jetën 67-vjeçari në Dimal",
-      "link": "https://24-ore.com/makina-del-nga-rruga-dhe-permbyset-ne-kanal-humb-jeten-67-vjecari-ne-dimal/",
-      "description": "Një aksident me pasojë vdekjen e një personi ka ndodhur mbrëmjen e kësaj të mërkure në fshatin Samaticë, në bashkinë Dimal. Viktima është identifikuar si Zenun Zeka, 67 vjeç, banues në këtë fshat. Ai dyshohet se ka humbur kontrollin mbi drejtimin e automjetit i cili ka dalë nga rruga dhe ka përfundu",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-25T22:01:53+00:00",
-      "dateStr": "25 Nov, 22:01",
+      "title": "Shqipëria me projektligj që u mundëson të burgosurve të zgjedhin vetë mjekun dhe spitalin",
+      "link": "https://gazetablic.com/shqiperia-me-projektligj-qe-u-mundeson-te-burgosurve-te-zgjedhin-vete-mjekun-dhe-spitalin/",
+      "description": "Deputetja socialiste në Shqipëri, Enriketa Jaho ka dorëzuar një projektligj që parasheh mundësinë e zgjedhjes së lirë të mjekut dhe spitalit nga personat e burgosur, me kusht që shpenzimet për këto shërbime t’i mbulojnë vetë të burgosurit. Sipas arsyetimit të projektligjit, personat që janë të privu",
+      "source": "Gazeta Blic",
+      "category": "kronike",
+      "date": "2026-11-25T22:06:26+00:00",
+      "dateStr": "25 Nov, 22:06",
       "isNew": true,
-      "id": "24 51795644113"
-    },
-    {
-      "title": "Lufta Rusi-Ukrainë shtrihet në Mesdhe, Neziri: Kievi mund të përdorë një platformë detare të padukshme",
-      "link": "https://24-ore.com/lufta-rusi-ukraine-shtrihet-ne-mesdhe-neziri-kievi-mund-te-perdore-nje-platforme-detare-te-padukshme/",
-      "description": "Sulmi ukrainas ndaj një anijeje ruse në Mesdhe, që sipas analizave ka nxjerrë në pah zgjerimin e shtrirjes së luftës përtej zonave tradicionale të konfliktit, u bë temë diskutimi në emisionin “War Report”. Koloneli Sami Neziri dhe gazetari Egon Loli analizuan rolin e Libisë në praninë ushtarake ruse",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-25T22:01:50+00:00",
-      "dateStr": "25 Nov, 22:01",
-      "isNew": true,
-      "id": "24 61795644110"
-    },
-    {
-      "title": "“Investoni në gjeneratat e reja të Shqipërisë”, Ambasadori Wendt me bizneset amerikane: Të krijohen kushte të barabarta konkurrence",
-      "link": "https://24-ore.com/investoni-ne-gjeneratat-e-reja-te-shqiperise-ambasadori-wendt-me-bizneset-amerikane-te-krijohen-kushte-te-barabarta-konkurrence/",
-      "description": "Ambasadori amerikan Eric Wendt ka zhvilluar një takim me përfaqësues të Dhomës Amerikane të Tregtisë në Tiranë, ku në fokus kanë qenë hapat e mëtejshëm për forcimin e marrëdhënieve ekonomike mes dy vendeve. Ky takim bëri bashkë komunitetin e biznesit dhe përfaqësues të lartë institucionalë shqiptare",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-25T22:01:41+00:00",
-      "dateStr": "25 Nov, 22:01",
-      "isNew": true,
-      "id": "24 71795644101"
-    },
-    {
-      "title": "Zbardhet plagosja me thikë e 30-vjeçarit në Korçë, u paraqit si polic dhe nisi sherrin në lokal",
-      "link": "https://24-ore.com/zbardhet-plagosja-me-thike-e-30-vjecarit-ne-korce-u-paraqit-si-polic-dhe-nisi-sherrin-ne-lokal/",
-      "description": "Detaje të reja janë zbardhur nga plagosja me thikë e 30-vjeçarit Anxhelo Brisku, ngjarje e ndodhur më 22 nëntor. Policia ka arrestuar një 35-vjeçar me inicialet I.M., i dyshuar si autor i plagosjes, ndërsa mësohet se konflikti ka ndodhur në një lokal në fshatin Zvezdë të Maliqit. Sipas hetimeve, Bri",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-25T22:01:28+00:00",
-      "dateStr": "25 Nov, 22:01",
-      "isNew": true,
-      "id": "24 81795644088"
-    },
-    {
-      "title": "Marta Kos, nesër në Tiranë, takime me Ramën dhe përfaqësues të institucioneve",
-      "link": "https://24-ore.com/marta-kos-neser-ne-tirane-takime-me-ramen-dhe-perfaqesues-te-institucioneve/",
-      "description": "Komisionerja e Bashkimit Evropian për Zgjerimin, Marta Kos, do të zhvillojë të enjten, më 26 nëntor, një vizitë zyrtare në Tiranë, ku në fokus do të jenë procesi i negociatave për anëtarësimin e Shqipërisë në BE dhe bashkëpunimi ekonomik rajonal. Gjatë qëndrimit në kryeqytet, zyrtarja e lartë evropi",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-25T22:01:05+00:00",
-      "dateStr": "25 Nov, 22:01",
-      "isNew": true,
-      "id": "24 91795644065"
+      "id": "gaz41795644386"
     },
     {
       "title": "Serbia luftë ndaj reality show/ Vetëm 45 minuta në ditë dhe transmetim pas orës 23:00",
@@ -257,6 +312,39 @@
       "id": "abc21795643921"
     },
     {
+      "title": "Vrasjet e pasluftës, Nasim Haradinaj: Kush i konstatoi që janë vrasje politike",
+      "link": "https://gazetablic.com/vrasjet-e-pasluftes-nasim-haradinaj-kush-i-konstatoi-qe-jane-vrasje-politike/",
+      "description": "Tema e vrasjeve të pasluftës është aktualizuar në Kosovë. E për këtë ka folur në T7 Nasim Haradinaj. “Vrasjet politike kush e konsistoi dhe cili është personi që e bëri një vrasje politike. Kush e konstatoi që është vrasje politike. Kjo po i bjen që edhe reja nëse i ka vra janë vrasje politike”, ka ",
+      "source": "Gazeta Blic",
+      "category": "kronike",
+      "date": "2026-11-25T21:48:27+00:00",
+      "dateStr": "25 Nov, 21:48",
+      "isNew": true,
+      "id": "gaz51795643307"
+    },
+    {
+      "title": "Malen fantastik, realizon dhe barazon rezultatin ndaj PSG-së",
+      "link": "https://gazetablic.com/malen-fantastik-realizon-dhe-barazon-rezultatin-ndaj-psg-se/",
+      "description": "Roma ka barazuar rezultatin ndaj PSG&#8217;së. Golin e barazimit e realizoi Mallen, shkruan GazetaBlic Sport. Mallen realizoi nga penalltia pas 81 minutave lojë. Rezultati aktual i takimit është 2-2. Ja goli: VIDEO\nThe post Malen fantastik, realizon dhe barazon rezultatin ndaj PSG-së appeared first ",
+      "source": "Gazeta Blic",
+      "category": "kronike",
+      "date": "2026-11-25T21:38:27+00:00",
+      "dateStr": "25 Nov, 21:38",
+      "isNew": true,
+      "id": "gaz61795642707"
+    },
+    {
+      "title": "Çitaku mirëpret gatishmërinë e BE-së për ndryshimet në Ligjin për Specialen: Nesër jemi gati për konsultime",
+      "link": "https://gazetablic.com/citaku-mirepret-gatishmerine-e-be-se-per-ndryshimet-ne-ligjin-per-specialen-neser-jemi-gati-per-konsultime/",
+      "description": "Vlora Çitaku, ka mirëpritur gatishmërinë e Bashkimit Evropian për konsultime me Kosovën lidhur me amendamentimin e Ligjit për Dhomat e Specializuara, raporton GazetaBlic. Ajo ka ftuar përfaqësuesit e BE-së që të marrin pjesë në konsultimet e nesërme, duke theksuar se Kosova është e gatshme për këtë ",
+      "source": "Gazeta Blic",
+      "category": "kronike",
+      "date": "2026-11-25T21:37:59+00:00",
+      "dateStr": "25 Nov, 21:37",
+      "isNew": true,
+      "id": "gaz71795642679"
+    },
+    {
       "title": "Bëhet baba për herë të tretë teksa ndodhet në hapësirë/ Astronauti Joshua Kutryk, përjeton një moment të veçantë larg familjes",
       "link": "https://abcnews.al/behet-baba-per-here-te-trete-teksa-ndodhet-ne-hapesire-astronauti-joshua-kutryk-perjeton-nje-moment-te-vecante-larg-familjes/",
       "description": "Një ngjarje e rëndësishme familjare e ka gjetur larg Tokës astronautin kanadez Joshua Kutryk. Ndërsa ai ndodhet në Stacionin Ndërkombëtar Hapësinor, bashkëshortja e tij, Heather Kutryk, ka sjellë në jetë fëmijën e tyre të tretë. Vajza e çiftit erdhi në jetë të martën, më 24 nëntor. Lajmi u konfirmua",
@@ -268,6 +356,17 @@
       "id": "abc31795642657"
     },
     {
+      "title": "Haxhiu: Gruaja që raporton dhunën e ka bërë hapin më të vështirë, përgjegjësia tani është e institucioneve",
+      "link": "https://gazetablic.com/haxhiu-gruaja-qe-raporton-dhunen-e-ka-bere-hapin-me-te-veshtire-pergjegjesia-tani-eshte-e-institucioneve/",
+      "description": "Fushata “16 Ditët e Aktivizmit kundër Dhunës me Bazë Gjinore” është hapur zyrtarisht në Kosovë, në një ceremoni të organizuar nga Ministria e Drejtësisë, nën sloganin “Raporto dhunën”. Në këtë ceremoni, kryetarja e Kuvendit të Kosovës, Albulena Haxhiu, ka theksuar rëndësinë e reagimit institucional ",
+      "source": "Gazeta Blic",
+      "category": "kronike",
+      "date": "2026-11-25T21:29:08+00:00",
+      "dateStr": "25 Nov, 21:29",
+      "isNew": true,
+      "id": "gaz81795642148"
+    },
+    {
       "title": "Ukraina sulmon bazën kryesore ajrore ruse",
       "link": "https://abcnews.al/ukraina-sulmon-bazen-kryesore-ajrore-ruse/",
       "description": "Forcat ukrainase sulmuan një bazë të madhe ajrore ushtarake në Rusi, duke dëmtuar pesë avionë të përdorur për të lëshuar raketa dhe bomba kundër Ukrainës njoftoi Shtabi i Përgjithshëm i ushtrisë ukrainase. Rusia nuk komentoi menjëherë mbi raportin e Shtabit të Përgjithshëm se baza ajrore Savalyeka n",
@@ -277,6 +376,17 @@
       "dateStr": "25 Nov, 21:27",
       "isNew": true,
       "id": "abc41795642054"
+    },
+    {
+      "title": "PSG përmbys rezultatin ndaj Romës, Dembele realizon golin e avantazhit",
+      "link": "https://gazetablic.com/psg-permbys-rezultatin-ndaj-romes-dembele-realizon-golin-e-avantazhit/",
+      "description": "PSG ka shënuar edhe golin e dytë ndaj Romës. Golin e dytë në këtë duel e realizoi Ousmane Dembele, shkruan GazetaBlic Sport. Dembele realizoi gol pas 62 minutave lojë. Rezultati momental i takimit është 2-1. Ja goli: VIDEO\nThe post Malen fantastik, realizon dhe barazon rezultatin ndaj PSG-së appeare",
+      "source": "Gazeta Blic",
+      "category": "kronike",
+      "date": "2026-11-25T21:22:17+00:00",
+      "dateStr": "25 Nov, 21:22",
+      "isNew": true,
+      "id": "gaz91795641737"
     },
     {
       "title": "Merz paralajmëron: Ambiciet e Rusisë kërcënojnë sigurinë e gjithë Evropës",
