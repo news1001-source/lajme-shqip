@@ -1,84 +1,238 @@
 {
-  "lastUpdated": "2026-11-26T23:27:11.083785+00:00",
+  "lastUpdated": "2026-11-27T06:24:11.837180+00:00",
   "totalSources": 4,
   "totalNews": 40,
   "news": [
     {
-      "title": "Çfarë ndodh me gjobat 5 milionë lekëshe? Gazetari sqaron vendimin e “Kushtetueses”",
-      "link": "https://24-ore.com/cfare-ndodh-me-gjobat-5-milione-lekeshe-gazetari-sqaron-vendimin-e-kushtetueses/",
-      "description": "Gazetari Eni Ferahti, i ftuar në një lidhje të drejtpërdrejtë në “Now me Erla Mëhillin”, sqaroi se vendimi i Gjykatës Kushtetuese për pezullimin e efekteve të aktit normativ të qeverisë prek vetëm gjobat prej 5 mijë lekësh të reja për bllokimin e rrugëve. Sipas tij, vendimi nuk përfshin gjobat dhe m",
-      "source": "24 ORE",
+      "title": "Përplasja për Tahir Zemajn, Armend Zemaj akuzon Ramabajën për shpifje",
+      "link": "https://www.gazetaexpress.com/perplasja-per-tahir-zemajn-armend-zemaj-akuzon-ramabajen-per-shpifje/",
+      "description": "Deputeti i Lidhjes Demokratike të Kosovës (LDK), Armend Zemaj, ka reaguar ndaj deklaratave të analistit Sadri Ramabaja, i cili pretendoi se Tahir Zemaj ishte suspenduar pasi kishte qenë pjesë e rrethimit ku u vranë veprimtarët Rexhep Mala dhe Nuhi Berisha.\n\n\nNë Debat Plus në TV Dukagjini, Armend Zem",
+      "source": "Gazeta Express",
       "category": "politike",
-      "date": "2026-11-26T23:24:34+00:00",
-      "dateStr": "26 Nov, 23:24",
+      "date": "2026-11-27T06:19:30+00:00",
+      "dateStr": "27 Nov, 06:19",
       "isNew": true,
-      "id": "24 01795735474"
+      "id": "gaz01795760370"
     },
     {
-      "title": "I dënuari godet me ekspres kafeje punonjësin e burgut në Burrel, inspektori dërgohet në spital",
-      "link": "https://24-ore.com/i-denuari-godet-me-ekspres-kafeje-punonjesin-e-burgut-ne-burrel-inspektori-dergohet-ne-spital/",
-      "description": "Një incident i dhunshëm është regjistruar në burgun e Burrelit, ku një punonjës i Policisë së Burgjeve është goditur në kokë nga një i dënuar gjatë kryerjes së detyrës. Sipas njoftimit zyrtar të Drejtorisë së Përgjithshme të Burgjeve, ngjarja ka ndodhur në momentin e hapjes së derës së dhomës së ban",
-      "source": "24 ORE",
+      "title": "BE rishpërndan fondet në Ballkan: Paratë largohen nga Kosova, Serbia e Bosnja – Shqipëria përfiton 15% më shumë",
+      "link": "https://www.gazetaexpress.com/be-rishperndan-fondet-ne-ballkan-parate-largohen-nga-kosova-serbia-e-bosnja-shqiperia-perfiton-15-me-shume/",
+      "description": "Presidentja e Komisionit Evropian, Ursula von der Leyen, ka konfirmuar se Brukseli do të zhvendosë një pjesë të fondeve të parapara fillimisht për Serbinë, Kosovën dhe Bosnjë-Hercegovinën drejt Shqipërisë, Malit të Zi dhe Maqedonisë së Veriut, në kuadër të rishpërndarjes së financimeve sipas përpari",
+      "source": "Gazeta Express",
       "category": "politike",
-      "date": "2026-11-26T23:24:26+00:00",
-      "dateStr": "26 Nov, 23:24",
+      "date": "2026-11-27T06:06:24+00:00",
+      "dateStr": "27 Nov, 06:06",
       "isNew": true,
-      "id": "24 11795735466"
+      "id": "gaz11795759584"
     },
     {
-      "title": "Manjani: Ja pse Spiropali dhe Veliaj janë të pasinqertë",
-      "link": "https://24-ore.com/manjani-ja-pse-spiropali-dhe-veliaj-jane-te-pasinqerte/",
-      "description": "Juristi Ylli Manjani, i ftuar në “NOW me Erla Mëhillin”, komentoi përjashtimin e Elisa Spiropalit nga grupi parlamentar i Partisë Socialiste. Manjani deklaroi se, sipas tij, Spiropali nuk ka ndërmarrë ndonjë veprim që të justifikonte përjashtimin, por e cilësoi atë dhe Veliajn si të pasinqertë në ra",
-      "source": "24 ORE",
+      "title": "Horoskopi, zbuloni parashikimin e yjeve për shenjën tuaj",
+      "link": "https://abcnews.al/horoskopi-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj-215/",
+      "description": "Dashi Një detyrë shtëpiake ose familjare që e keni shtyrë prej kohësh kërkon zgjidhje të menjëhershme. Mund të ndjeni presion mes dëshirave personale dhe nevojave të familjarëve. Demi Dita kërkon përqendrim te detajet dhe mbajtjen e premtimeve të dhëna. Bisedat e sinqerta do t&#8217;ju ndihmojnë të ",
+      "source": "ABC News",
       "category": "politike",
-      "date": "2026-11-26T23:24:18+00:00",
-      "dateStr": "26 Nov, 23:24",
+      "date": "2026-11-27T06:05:06+00:00",
+      "dateStr": "27 Nov, 06:05",
       "isNew": true,
-      "id": "24 21795735458"
+      "id": "abc01795759506"
     },
     {
-      "title": "Paketa fiskale 2027, Kuvendi heq ujin e ambalazhuar nga lista me TVSH 6%, rrëzon propozimet e PD",
-      "link": "https://24-ore.com/paketa-fiskale-2027-kuvendi-heq-ujin-e-ambalazhuar-nga-lista-me-tvsh-6-rrezon-propozimet-e-pd/",
-      "description": "Me propozim të deputetit socialist Erjon Malaj, Kuvendi vendosi të heqë ujin e ambalazhuar nga lista e produkteve për të cilat parashikohet ulja e TVSH-së në 6%. Uji i ambalazhuar ishte përfshirë më herët në listën e miratuar nga Komisioni i Ekonomisë. Ndërkohë, mazhoranca rrëzoi edhe amendamentet e",
-      "source": "24 ORE",
+      "title": "Milo: Kam qenë simpatizant i Kurtit derisa erdhi në pushtet",
+      "link": "https://www.gazetaexpress.com/milo-kam-qene-simpatizant-i-kurtit-derisa-erdhi-ne-pushtet/",
+      "description": "Ish-ministri i Jashtëm i Shqipërisë, Paskal Milo, ka thënë se ka qenë për shumë vite simpatizant dhe mbështetës i kryeministrit të Kosovës, Albin Kurti, por se qëndrimi i tij ka ndryshuar pasi ai erdhi në pushtet.&nbsp;\n\n\nMilo ka vlerësuar se përgjegjësia e qeverisjes kërkon qasje tjetër politike, s",
+      "source": "Gazeta Express",
       "category": "politike",
-      "date": "2026-11-26T23:24:05+00:00",
-      "dateStr": "26 Nov, 23:24",
+      "date": "2026-11-27T06:04:18+00:00",
+      "dateStr": "27 Nov, 06:04",
       "isNew": true,
-      "id": "24 31795735445"
+      "id": "gaz21795759458"
     },
     {
-      "title": "E kapi gruan me dy burra në shtëpi, biznesmeni turk gjendet i vrarë me duart e lidhura",
-      "link": "https://24-ore.com/e-kapi-gruan-me-dy-burra-ne-shtepi-biznesmeni-turk-gjendet-i-vrare-me-duart-e-lidhura/",
-      "description": "Një ngjarje e rëndë është regjistruar në Denizli, në jugperëndim të Turqisë, ku një biznesmen 49-vjeçar është gjetur i pajetë në banesën e tij, me duart e lidhura me litar dhe shenja të dukshme dhune në trup. Viktima është identifikuar si Fedai Karagoz, pronar i një kompanie mermeri dhe sipërmarrës ",
-      "source": "24 ORE",
+      "title": "Kushtetuta serbe, streha e fundit e pretendimit për Kosovën",
+      "link": "https://www.gazetaexpress.com/kushtetuta-serbe-streha-e-fundit-e-pretendimit-per-kosoven/",
+      "description": "Njëzet vjet pas miratimit të Kushtetutës së vitit 2006, Serbia vazhdon ta konsiderojë Kosovën pjesë të territorit të saj, ndonëse nuk ushtron pushtet mbi të që nga viti 1999.\n\n\nLargimi i Aleksandar Vuçiqit nga presidenca dhe humbja e SNS-së në zgjedhjet parlamentare të tetorit kanë hapur mundësinë p",
+      "source": "Gazeta Express",
       "category": "politike",
-      "date": "2026-11-26T23:23:48+00:00",
-      "dateStr": "26 Nov, 23:23",
+      "date": "2026-11-27T06:02:39+00:00",
+      "dateStr": "27 Nov, 06:02",
       "isNew": true,
-      "id": "24 41795735428"
+      "id": "gaz31795759359"
+    },
+    {
+      "title": "Haradinaj akuzon Kurtin e Mihalin për tregtimin e energjisë: Shesin dhe blejnë rrymë",
+      "link": "https://www.gazetaexpress.com/haradinaj-akuzon-kurtin-e-mihalin-per-tregtimin-e-energjise-shesin-dhe-blejne-rryme/",
+      "description": "Deputeti i Aleancës për Ardhmërinë e Kosovës (AAK), Ramush Haradinaj, ka kritikuar Qeverinë për gjendjen ekonomike dhe energjetike në vend, duke pretenduar se Kosova sot importon nga Serbia më shumë mallra se në të kaluarën.\n\n\nHaradinaj ka vënë në pikëpyetje përmirësimin e jetës së qytetarëve krahas",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-27T05:58:31+00:00",
+      "dateStr": "27 Nov, 05:58",
+      "isNew": true,
+      "id": "gaz41795759111"
+    },
+    {
+      "title": "Dashuria, karriera, paratë – njihuni me horoskopin për ditën e sotme, 27 Nëntor 2026",
+      "link": "https://www.gazetaexpress.com/dashuria-karriera-parate-njihuni-me-horoskopin-per-diten-e-sotme-27-nentor-2026/",
+      "description": "DashiNjë detyrë shtëpiake ose familjare që e keni shtyrë prej kohësh kërkon zgjidhje të menjëhershme. Mund të ndjeni presion mes dëshirave personale dhe nevojave të familjarëve.\n\n\nDemiDita kërkon përqendrim te detajet dhe mbajtjen e premtimeve të dhëna. Bisedat e sinqerta do t’ju ndihmojnë të shmang",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-27T05:56:34+00:00",
+      "dateStr": "27 Nov, 05:56",
+      "isNew": true,
+      "id": "gaz51795758994"
+    },
+    {
+      "title": "FSK hap sot dyert për qytetarët e Kosovës",
+      "link": "https://www.gazetaexpress.com/fsk-hap-sot-dyert-per-qytetaret-e-kosoves/",
+      "description": "Forca e Sigurisë së Kosovës sot do të organizojë aktivitetin tradicional “Dita e Forcës”, me ç’rast qytetarët do të kenë mundësi të njihen nga afër me kapacitetet dhe pajisjet ushtarake të FSK-së.\n\n\nSipas njoftimit të FSK-së, aktiviteti do të mbahet nga ora 10:00 deri në 13:30 dhe do të jetë i hapur",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-27T05:55:14+00:00",
+      "dateStr": "27 Nov, 05:55",
+      "isNew": true,
+      "id": "gaz61795758914"
+    },
+    {
+      "title": "Ekonomistë kontestojnë të arriturat e prezantuara nga Kurti",
+      "link": "https://www.gazetaexpress.com/ekonomiste-kontestojne-te-arriturat-e-prezantuara-nga-kurti/",
+      "description": "Si jo reale janë vlerësuar nga ekonomistë dhe aktivistë të shoqërisë civile, të dhënat që ka ofruar kryeministri Albin Kurti në një dokument për të arriturat që, sipas tij, kanë ndodhur gjatë qeverisjes së tij.\n\n\nNë dokument përmenden suksese si rritja ekonomike, rritja e pagave dhe ulja e pabarazis",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-27T05:53:29+00:00",
+      "dateStr": "27 Nov, 05:53",
+      "isNew": true,
+      "id": "gaz71795758809"
+    },
+    {
+      "title": "Sot afati i fundit për njoftim të apelimit në Hagë, cilat janë procedurat e mëtejshme?",
+      "link": "https://www.gazetaexpress.com/sot-afati-i-fundit-per-njoftim-te-apelimit-ne-hage-cilat-jane-procedurat-e-metejshme/",
+      "description": "Sot përfundon afati që mbrojtja e drejtuesve të UÇK-së, Hashimit Thaçit, Kadri Veselit, Jakup Krasniqit e Rexhep Selimit, të njoftojë apelimin e vendimit dënues të gjykatës së shkallës së parë të Gjykatës Speciale në Hagë, më 16 shtator, raporton Agjencia e Lajmeve KosovaPress.\n\n\nTashmë, avokatët e ",
+      "source": "Gazeta Express",
+      "category": "politike",
+      "date": "2026-11-27T05:52:27+00:00",
+      "dateStr": "27 Nov, 05:52",
+      "isNew": true,
+      "id": "gaz81795758747"
     },
     {
       "title": "“Nuk mund të themi se jemi mashtruar”, vajza e Enver Malokut për pritjet nga Gjykata Speciale",
-      "link": "https://24-ore.com/nuk-mund-te-themi-se-jemi-mashtruar-vajza-e-enver-malokut-per-pritjet-nga-gjykata-speciale/",
-      "description": "Ish-deputetja, Doruntina Maloku, vajza e gazetarit të vrarë Enver Maloku, ka thënë se është ende herët të vlerësohet nëse familjarët e viktimave të vrasjeve të pasluftës janë mashtruar nga pritjet që kishin ndaj Gjykatës Speciale. Duke folur në Debat Plus në TV Dukagjini, Maloku ka thënë se pa e lex",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-26T22:56:52+00:00",
-      "dateStr": "26 Nov, 22:56",
-      "isNew": true,
-      "id": "24 51795733812"
-    },
-    {
-      "title": "Vdes Strobe Talbott, diplomati i Presidentit Clinton që negocioi me Rusinë përfundimin e luftës së Kosovës",
-      "link": "https://www.gazetaexpress.com/vdes-strobe-talbott-diplomati-i-bill-clintonit-qe-negocioi-me-rusine-per-perfundimin-e-luftes-ne-kosove/",
-      "description": "Strobe Talbott, ish-gazetar i revistës “Time”, i cili më vonë shërbeu si zëvendëssekretar i Shtetit gjatë administratës së presidentit Bill Clinton dhe më pas drejtoi Institutin Brookings, ka vdekur të enjten në moshën 80-vjeçare.\n\n\nDjali i tij, Devin Talbott, konfirmoi se ai ndërroi jetë në paqe, p",
+      "link": "https://www.gazetaexpress.com/nuk-mund-te-themi-se-jemi-mashtruar-vajza-e-enver-malokut-per-pritjet-nga-gjykata-speciale/",
+      "description": "Ish-deputetja, Doruntina Maloku, vajza e gazetarit të vrarë Enver Maloku, ka thënë se është ende herët të vlerësohet nëse familjarët e viktimave të vrasjeve të pasluftës janë mashtruar nga pritjet që kishin ndaj Gjykatës Speciale.\n\n\nDuke folur në Debat Plus në TV Dukagjini, Maloku ka thënë se pa e l",
       "source": "Gazeta Express",
       "category": "politike",
-      "date": "2026-11-26T22:56:10+00:00",
-      "dateStr": "26 Nov, 22:56",
+      "date": "2026-11-27T05:50:52+00:00",
+      "dateStr": "27 Nov, 05:50",
       "isNew": true,
-      "id": "gaz01795733770"
+      "id": "gaz91795758652"
+    },
+    {
+      "title": "Kastrimi politik si model i biznesit politik: Simbioza mes monopolit të pushtetit dhe monopolit të opozitës",
+      "link": "https://24-ore.com/kastrimi-politik-si-model-i-biznesit-politik-simbioza-mes-monopolit-te-pushtetit-dhe-monopolit-te-opozites/",
+      "description": "Partia Demokratike dhe satelitët e saj po i akuzojnë protestuesit e pavarur herë si neomarksistë të Arlind Qorrit e herë si vegla të Sorosit. Të njëjtët protestues Partia Socialiste i etiketon prej muajsh si grekë, serbë, rusë, iranianë apo antifa. Duket sikur dy partitë janë në konkurrencë për të s",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-27T04:30:30+00:00",
+      "dateStr": "27 Nov, 04:30",
+      "isNew": true,
+      "id": "24 01795753830"
+    },
+    {
+      "title": "Seminari hibrid i PLEDGE në Bruksel: emocionet, pakënaqësia politike dhe gazetaria",
+      "link": "https://24-ore.com/seminari-hibrid-i-pledge-ne-bruksel-emocionet-pakenaqesia-politike-dhe-gazetaria/",
+      "description": "Projekti kërkimor i financuar nga Horizon Europe mbledh më 2 dhjetor gazetarë dhe profesionistë të medias për të diskutuar dezinformimin, besimin e publikut dhe ndjenjat e qytetarëve",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-27T04:19:13+00:00",
+      "dateStr": "27 Nov, 04:19",
+      "isNew": true,
+      "id": "24 11795753153"
+    },
+    {
+      "title": "KEDE: mbyllje simbolike e bashkive në Greqi më 15 dhjetor, kërkohet plotësimi i kërkesave",
+      "link": "https://24-ore.com/kede-mbyllje-simbolike-e-bashkive-ne-greqi-me-15-dhjetor-kerkohet-plotesimi-i-kerkesave/",
+      "description": "Bordi i Unionit Qendror të Bashkive vendosi njëzëri mbylljen përpara votimit të buxhetit 2027, duke kërkuar më shumë financim shtetëror, personel dhe mbështetje për bashkitë e vogla malore e ishullore",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-27T04:11:54+00:00",
+      "dateStr": "27 Nov, 04:11",
+      "isNew": true,
+      "id": "24 21795752714"
+    },
+    {
+      "title": "Panathinaikosi shembet në Danimarkë: nga 2-0 humb 2-3 nga Nordsjaelland në 19 minuta",
+      "link": "https://24-ore.com/panathinaikosi-shembet-ne-danimarke-nga-2-0-humb-2-3-nga-nordsjaelland-ne-19-minuta/",
+      "description": "Të gjelbrit kryesonin 2-0 me golat e Jagusic dhe Rastoder, por danezët përmbysën gjithçka mes minutave 61 dhe 80; humbja e parë e Panathinaikosit në këtë Conference League",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-27T03:55:07+00:00",
+      "dateStr": "27 Nov, 03:55",
+      "isNew": true,
+      "id": "24 31795751707"
+    },
+    {
+      "title": "Greqia bie në shtesë ndaj Gjeorgjisë 88-92, Shengelia e afron eliminimin",
+      "link": "https://24-ore.com/greqia-bie-ne-shtese-ndaj-gjeorgjise-88-92-shengelia-e-afron-eliminimin/",
+      "description": "Grekët kryesonin 88-81 vetëm 54 sekonda para fundit të kohës shtesë në Athinë, por Gjeorgjia përmbysi me një seri 11-0 dhe mori fitoren e parë ndaj Greqisë pas shtatë humbjesh radhazi",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-27T03:50:37+00:00",
+      "dateStr": "27 Nov, 03:50",
+      "isNew": true,
+      "id": "24 41795751437"
+    },
+    {
+      "title": "Olympiacos shpërdoron epërsinë 2-0, Milani përmbys 4-2 në Pire me Pulisic protagonist",
+      "link": "https://24-ore.com/olympiacos-shperdoron-epersine-2-0-milani-permbys-4-2-ne-pire-me-pulisic-protagonist/",
+      "description": "Të kuqtë e Pireut kryesonin 2-0 deri në minutën e 49-të në Karaiskakis, por italianët shënuan katër gola në pjesën e dytë dhe i shkaktuan Olympiacosit humbjen e parë pas një serie pa humbje",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-27T03:46:23+00:00",
+      "dateStr": "27 Nov, 03:46",
+      "isNew": true,
+      "id": "24 51795751183"
+    },
+    {
+      "title": "Pezulloi gjobën 5 mijë lekë/ Pse Kushtetuesja la në fuqi masat e tjera represive kundër protestës",
+      "link": "https://24-ore.com/pezulloi-gjoben-5-mije-leke-pse-kushtetuesja-la-ne-fuqi-masat-e-tjera-represive-kunder-protestes/",
+      "description": "Në serinë e masave ndëshkuese që qeveria e Edi Ramës miratoi me urgjencë për t&#8217;i prerë hovin protestave të studentëve, Gjykata Kushtetuese pezulloi vetëm gjobën 5 mijë lekëshe për qytetarët që bllokonin një rrugë duke protestuar. Gjobat e tjera, më të rënda por të konceptuara njësoj si mjete p",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-27T03:43:01+00:00",
+      "dateStr": "27 Nov, 03:43",
+      "isNew": true,
+      "id": "24 61795750981"
+    },
+    {
+      "title": "Kostas Ah. Karamanlis: dhjetë hapat që «gjunjëzuan» trenat para Tempit",
+      "link": "https://24-ore.com/kostas-ah-karamanlis-dhjete-hapat-qe-gjunjezuan-trenat-para-tempit/",
+      "description": "Analiza e Efsyn për veprimet dhe lëshimet e ish-ministrit të Infrastrukturës dhe Transporteve, nga ligji i vitit 2019 për sigurinë te kontrata me italianët dhe paralajmërimet e injoruara të makinistëve",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-27T03:42:31+00:00",
+      "dateStr": "27 Nov, 03:42",
+      "isNew": true,
+      "id": "24 71795750951"
+    },
+    {
+      "title": "Gjyqi për Tempin: nëna e Denisit mbyll dëshminë — nuk kam besim te drejtësia «e pavarur» e zotit Mitsotakis",
+      "link": "https://24-ore.com/gjyqi-per-tempin-nena-e-denisit-mbyll-deshmine-nuk-kam-besim-te-drejtesia-e-pavarur-e-zotit-mitsotakis/",
+      "description": "Mirela Angelova: atë natë u dogja bashkë me fëmijën tim; ende pres përgjigje për vdekjen e djalit, raporti mjeko-ligjor thotë vetëm «karbonizim»",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-27T03:38:33+00:00",
+      "dateStr": "27 Nov, 03:38",
+      "isNew": true,
+      "id": "24 81795750713"
+    },
+    {
+      "title": "Ndjekje në bulevardin Singru: arrestohet 34-vjeçari me motoçikletë që injoroi sinjalin e Policisë Rrugore",
+      "link": "https://24-ore.com/ndjekje-ne-bulevardin-singru-arrestohet-34-vjecari-me-motociklete-qe-injoroi-sinjalin-e-policise-rrugore/",
+      "description": "Një 34-vjeçar, drejtues motoçiklete, u arrestua mëngjesin e së enjtes pas një ndjekjeje me episode në bulevardin Singru në Athinë, siç njofton gazeta greke Efsyn. Sipas Policisë, rreth orës 10:35, në kryqëzimin e rrugës Lagoumitzi me bulevardin Singru, policët e grupit DIAS i bënë sinjal një motoçik",
+      "source": "24 ORE",
+      "category": "politike",
+      "date": "2026-11-27T03:34:25+00:00",
+      "dateStr": "27 Nov, 03:34",
+      "isNew": true,
+      "id": "24 91795750465"
     },
     {
       "title": "Temu detyrohet të ndryshojë praktikat tregtare në Europë/ BE kundër uljeve të rreme dhe ofertave mashtruese",
@@ -89,73 +243,7 @@
       "date": "2026-11-26T22:46:13+00:00",
       "dateStr": "26 Nov, 22:46",
       "isNew": true,
-      "id": "abc01795733173"
-    },
-    {
-      "title": "Brdo-Brijuni në Ohër, Mickoski i publikon fotografitë, në darkë edhe Presidentja Shiroka- Pula, Begaj, Milatoviq, Çupiq…",
-      "link": "https://www.gazetaexpress.com/brdo-brijuni-ne-oher-mickoski-i-publikon-fotografite-ne-darke-edhe-presidentja-shiroka-pula-begaj-milatoviq-cupiq/",
-      "description": "Presidentja e Kosovës Justina Pula ka marrë pjesë në një darkë joformale të organizuar nga presidentja e Maqedonisë së Veriut, Gordana Siljanovska-Davkova, me presidentët e shteteve pjesëmarrëse në Procesin Brdo-Brioni.\n\n\nPër këtë ka treguar, kryeministri i Maqedonisë së Veriut, Hristijan Mickoski, ",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-26T22:38:04+00:00",
-      "dateStr": "26 Nov, 22:38",
-      "isNew": true,
-      "id": "gaz11795732684"
-    },
-    {
-      "title": "Robelli për takimin e KFOR-it me oficerët serbë në Prishtinë: A i harruat krimet e ushtrisë së Serbisë në Kosovë?",
-      "link": "https://24-ore.com/robelli-per-takimin-e-kfor-it-me-oficeret-serbe-ne-prishtine-a-i-harruat-krimet-e-ushtrise-se-serbise-ne-kosove/",
-      "description": "Gazetari Enver Robelli ka kritikuar komandantin e KFOR-it në Kosovë, gjeneralin italian Roberto Vergori, për pritjen dhe takimin me oficerë të ushtrisë serbe në komandën e KFOR-it në Prishtinë, duke vënë në pikëpyetje vlerësimin e profesionalizmit të ushtrisë së Serbisë, për shkak të së kaluarës së ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-26T22:32:18+00:00",
-      "dateStr": "26 Nov, 22:32",
-      "isNew": true,
-      "id": "24 61795732338"
-    },
-    {
-      "title": "Kafiteria në Suedi ku punonte e kujton Liridona Ademajn, përmend dënimin e përjetshëm për Murselin dhe të tjerët",
-      "link": "https://www.gazetaexpress.com/kafiteria-ne-suedi-ku-punonte-e-kujton-liridona-ademajn-permend-denimin-e-perjetshem-per-murselin-dhe-te-tjeret/",
-      "description": "Kafiteria në Suedi, ku kishte punuar Liridona Ademaj, ka reaguar pas vendimit të Gjykatës së Apelit, e cila konfirmoi dënimin me burgim të përjetshëm për Naim Murselin dhe Granit Plavën, si dhe dënimin me 30 vjet burgim për Kushtrim Kokallën.\n\n\nNë reagimin e saj, kafiteria e ka kujtuar Liridonën, du",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-26T22:31:50+00:00",
-      "dateStr": "26 Nov, 22:31",
-      "isNew": true,
-      "id": "gaz21795732310"
-    },
-    {
-      "title": "BRUKSEL – Macron u bën thirrje liderëve të BE-së të mbyllin marrëveshjen për buxhetin përpara zgjedhjeve në Francë",
-      "link": "https://24-ore.com/bruksel-macron-u-ben-thirrje-lidereve-te-be-se-te-mbyllin-marreveshjen-per-buxhetin-perpara-zgjedhjeve-ne-france/",
-      "description": "BRUKSEL, 26 nëntor /ATSH-DPA/- Presidenti francez, Emmanuel Macron u ka kërkuar liderëve të tjerë të Bashkimit Evropian, të gjejnë një kompromis për buxhetin e ardhshëm afatgjatë të BE-së, deri në fund të këtij viti, përpara zgjedhjeve presidenciale në Francë, që do të zhvillohen në pranverën e viti",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-26T22:30:13+00:00",
-      "dateStr": "26 Nov, 22:30",
-      "isNew": true,
-      "id": "24 71795732213"
-    },
-    {
-      "title": "Veselinoviqi tentoi të kontaktonte Vuçiqin para largimit nga Serbia, gazetarët zbulojnë detaje",
-      "link": "https://24-ore.com/veselinoviqi-tentoi-te-kontaktonte-vuciqin-para-largimit-nga-serbia-gazetaret-zbulojne-detaje/",
-      "description": "Vendndodhja e Milan Radoiçiqit dhe Zvonko Veselinoviqit, dy figurave kontroverse serbe të lidhura me zhvillimet në veri të Kosovës, vazhdon të jetë e panjohur, ndërsa raportimet e fundit të mediave në Serbi sugjerojnë se ata mund të jenë larguar drejt Rusisë ose Kirgistanit. Gazetarët investigativë ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-26T22:27:48+00:00",
-      "dateStr": "26 Nov, 22:27",
-      "isNew": true,
-      "id": "24 81795732068"
-    },
-    {
-      "title": "Robelli kritikon komandantin e KFOR-it për pritjen e oficerëve serbë në Prishtinë: Rihapen plagët e së kaluarës",
-      "link": "https://24-ore.com/robelli-kritikon-komandantin-e-kfor-it-per-pritjen-e-oficereve-serbe-ne-prishtine-rihapen-plaget-e-se-kaluares/",
-      "description": "Gazetari Enver Robelli ka kritikuar komandantin e KFOR-it në Kosovë, gjeneralin italian Roberto Vergori, për pritjen dhe takimin me oficerë të ushtrisë serbe në komandën e KFOR-it në Prishtinë, duke vënë në pikëpyetje vlerësimin e profesionalizmit të ushtrisë së Serbisë, për shkak të së kaluarës së ",
-      "source": "24 ORE",
-      "category": "politike",
-      "date": "2026-11-26T22:27:38+00:00",
-      "dateStr": "26 Nov, 22:27",
-      "isNew": true,
-      "id": "24 91795732058"
+      "id": "abc11795733173"
     },
     {
       "title": "“Opozita të bashkëpunojë! Shqipëria mbi të gjitha”, Leka: Mesazhi i Marta Kos, ogur i mirë. Dy partitë e mëdha …",
@@ -166,18 +254,7 @@
       "date": "2026-11-26T22:22:48+00:00",
       "dateStr": "26 Nov, 22:22",
       "isNew": true,
-      "id": "abc11795731768"
-    },
-    {
-      "title": "Juventusi shkëlqen në Evropë, e mposht Omonian me rezultat bindës",
-      "link": "https://www.gazetaexpress.com/juventusi-shkelqen-ne-evrope-e-mposht-omonian-me-rezultat-bindes/",
-      "description": "Juventusi ka shënuar fitore të rëndësishme në Ligën e Evropës, duke e mposhtur Omonian e Nikosias me rezultat 4:1.\n\n\nSkuadra e Luciano Spallettit nuk e nisi mirë takimin, pasi mysafirët kaluan të parët në epërsi në minutën e 15-të, me golin e Lubomir Satkës.\n\n\nMegjithatë, reagimi i bardhezinjve isht",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-26T22:06:26+00:00",
-      "dateStr": "26 Nov, 22:06",
-      "isNew": true,
-      "id": "gaz31795730786"
+      "id": "abc21795731768"
     },
     {
       "title": "Dhunë dhe kaos në Europa League/ Ndërpritet sfida mes Besiktas dhe izraelitëve të Hapoel Ber Sheva",
@@ -188,18 +265,7 @@
       "date": "2026-11-26T22:06:07+00:00",
       "dateStr": "26 Nov, 22:06",
       "isNew": true,
-      "id": "abc21795730767"
-    },
-    {
-      "title": "Udhëheqja e re në Beograd  kritika BE’së: E toleruan gjatë keqpërdorimin që Vuçiq i bëri pushtetit – nuk e sanksionojmë Rusinë",
-      "link": "https://www.gazetaexpress.com/udheheqja-e-re-ne-beograd-kritika-bese-e-toleruan-gjate-keqperdorimin-qe-vuciq-i-beri-pushtetit-nuk-e-sanksionojme-rusine/",
-      "description": "Aleksandar Çupiç, kryetar i Kuvendit të Serbisë, ka deklaruar se Serbia nuk planifikon t’i vendosë sanksione Rusisë, pavarësisht kërkesave të Bashkimit Evropian për harmonizimin e politikës së jashtme me atë të bllokut evropian.\n\n\nNë një intervistë për televizionin publik gjerman ZDF, Çupiç ka thënë",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-26T22:03:23+00:00",
-      "dateStr": "26 Nov, 22:03",
-      "isNew": true,
-      "id": "gaz41795730603"
+      "id": "abc31795730767"
     },
     {
       "title": "Meloni përplaset me gjyqtarët/ Kryeministrja italiane refuzon të firmosë dekretin për rrogat e prapambetura",
@@ -210,40 +276,7 @@
       "date": "2026-11-26T21:57:44+00:00",
       "dateStr": "26 Nov, 21:57",
       "isNew": true,
-      "id": "abc31795730264"
-    },
-    {
-      "title": "Cisternë nafte që transportonte deri në 7,000 ton përmbyset pranë Ibizës, duke vrarë një person",
-      "link": "https://www.gazetaexpress.com/cisterne-nafte-qe-transportonte-deri-ne-7000-ton-permbyset-prane-ibizes-duke-vrare-nje-person/",
-      "description": "Një anije cisternë që transportonte deri në 7 000 tonë naftë është përmbysur pranë bregdetit të Ibizës, duke lënë të vdekur një anëtar të ekuipazhit, bënë të ditur autoritetet, ka raportuar BBC, transmeton Gazeta Express.\n\n\n\"Med Emre\", një anije që lundron nën flamurin e Maltës, kishte në bord 17 an",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-26T21:51:11+00:00",
-      "dateStr": "26 Nov, 21:51",
-      "isNew": true,
-      "id": "gaz51795729871"
-    },
-    {
-      "title": "Parashikimi i motit për të premten",
-      "link": "https://www.gazetaexpress.com/parashikimi-i-motit-per-te-premten-49/",
-      "description": "Të premten parashikohet mot me vranësira dhe intervale të shkurta me diell, ku herë pas here pritet të ketë reshje lokale shiu, të cilat në momente të caktuara pritet të jenë në formë të rrebesheve.\n\n\nEra do të fryjë nga drejtime të ndryshme, me shpejtësi prej 7-35 km/h.\n\n\nTemperaturat minimale do t",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-26T21:38:28+00:00",
-      "dateStr": "26 Nov, 21:38",
-      "isNew": true,
-      "id": "gaz61795729108"
-    },
-    {
-      "title": "Guardiola e konfirmon: Synimi im i radhës është ta drejtoj një kombëtare",
-      "link": "https://www.gazetaexpress.com/guardiola-e-konfirmon-synimi-im-i-radhes-eshte-ta-drejtoj-nje-kombetare/",
-      "description": "Pep Guardiola ka zbuluar se dëshiron që aventura e tij e radhës si trajner të jetë në futbollin e kombëtareve.\n\n\nIsh-trajneri i Manchester Cityt ka bërë të ditur se synon të marrë drejtimin e një përfaqësueseje dhe të fitojë një trofe në nivel ndërkombëtar.\n\n\nGuardiola kishte zhvilluar diskutime për",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-26T21:34:59+00:00",
-      "dateStr": "26 Nov, 21:34",
-      "isNew": true,
-      "id": "gaz71795728899"
+      "id": "abc41795730264"
     },
     {
       "title": "Musk në rolin e Babagjyshit/ Dhuron 2 aksione të kompanisë SpaceX për çdo fëmijë amerikan",
@@ -254,29 +287,7 @@
       "date": "2026-11-26T21:26:44+00:00",
       "dateStr": "26 Nov, 21:26",
       "isNew": true,
-      "id": "abc41795728404"
-    },
-    {
-      "title": "Debat mes Latifit dhe Kadaj-Bujupit: Ka zhvillim ekonomik – nuk ka se varesh nga importi",
-      "link": "https://www.gazetaexpress.com/debat-mes-latifit-dhe-kadaj-bujupit-ka-zhvillim-ekonomik-nuk-ka-se-varesh-nga-importi/",
-      "description": "Analisti Blerim Latifi dhe Donika Kadaj-Bujupi, kanë debatuar për çështje ekonomike në “Pressing” të T7.\n\n\nKadaj-Bujupi ka thënë se ka zhvillim ekonomik, ndërsa Latifi tha se gjithçka varet nga importi.\n\n\n“Unë po flas për programin e kryeministrit që i ka shpërnda 3-4 palë zgjedhje, një kryeministër",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-26T21:16:15+00:00",
-      "dateStr": "26 Nov, 21:16",
-      "isNew": true,
-      "id": "gaz81795727775"
-    },
-    {
-      "title": "“E kam humb edhe vëllain, Enverin”, Haradinaj flet për vrasjet e pasluftës: U vranë shqiptarë të pafajshëm",
-      "link": "https://www.gazetaexpress.com/e-kam-humb-edhe-vellain-enverin-haradinaj-flet-per-vrasjet-e-pasluftes-u-vrane-shqiptare-te-pafajshem/",
-      "description": "Deputeti i Aleancës, Ramush Haradinaj, i ftuar sonte në emisionin “Politiko” në Kanal 10, foli për “prostestën” që bëri në Kuvend  lidhur me rastet e vrasjeve të pasluftës në Kosovë.\n\n\nHaradinaj tha se pas përfundimit të luftës dhe largimit të forcave serbe nga Kosova, pavarësisht pranisë së institu",
-      "source": "Gazeta Express",
-      "category": "politike",
-      "date": "2026-11-26T21:11:24+00:00",
-      "dateStr": "26 Nov, 21:11",
-      "isNew": true,
-      "id": "gaz91795727484"
+      "id": "abc51795728404"
     },
     {
       "title": "Shpërthim në një rafineri nafte në Bangkok, plagosen rëndë 9 persona",
@@ -287,7 +298,7 @@
       "date": "2026-11-26T21:10:41+00:00",
       "dateStr": "26 Nov, 21:10",
       "isNew": true,
-      "id": "abc51795727441"
+      "id": "abc61795727441"
     },
     {
       "title": "Pablo Hernández de Cos pritet të emërohet presidenti i ri i Bankës Qendrore Evropiane",
@@ -298,7 +309,7 @@
       "date": "2026-11-26T21:06:12+00:00",
       "dateStr": "26 Nov, 21:06",
       "isNew": true,
-      "id": "abc61795727172"
+      "id": "abc71795727172"
     },
     {
       "title": "Turqia drejt zgjedhjeve të vitit 2028, koalicioni qeverisës dakordësohet për rikandidimin e Erdoganit",
@@ -309,7 +320,7 @@
       "date": "2026-11-26T20:39:14+00:00",
       "dateStr": "26 Nov, 20:39",
       "isNew": true,
-      "id": "abc71795725554"
+      "id": "abc81795725554"
     },
     {
       "title": "Krisafi: Trump po zbaton ofensivë joshëse ndaj Putinit/ Kamberi: Lufta hibride e ka ekspozuar Europën ndaj sulmeve kibernetike",
@@ -320,18 +331,7 @@
       "date": "2026-11-26T20:35:49+00:00",
       "dateStr": "26 Nov, 20:35",
       "isNew": true,
-      "id": "abc81795725349"
-    },
-    {
-      "title": "SHBA i kërkon Evropës të rrisë çmimet e barnave, BE shqetësohet për pasojat e marrëveshjeve dypalëshe",
-      "link": "https://abcnews.al/shba-i-kerkon-evropes-te-rrise-cmimet-e-barnave-be-shqetesohet-per-pasojat-e-marreveshjeve-dypaleshe/",
-      "description": "Administrata e presidentit amerikan, Donald Trump, po shton trysninë ndaj vendeve evropiane për të rritur pagesat për barnat e reja, duke argumentuar se amerikanët po përballojnë një barrë joproporcionale të kostove që lidhen me inovacionin farmaceutik. Kjo çështje ka ngritur shqetësime në Bashkimin",
-      "source": "ABC News",
-      "category": "politike",
-      "date": "2026-11-26T20:15:34+00:00",
-      "dateStr": "26 Nov, 20:15",
-      "isNew": true,
-      "id": "abc91795724134"
+      "id": "abc91795725349"
     },
     {
       "title": "Në Mardin të Turqisë nis edicioni i katërt i Festivalit Ndërkombëtar të Filmit “Mardin Film Festivali Telkari Odulleri”",
